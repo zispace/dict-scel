@@ -1,0 +1,58 @@
+# 文件名：电话通信.scel
+# 词库名：电话通信
+# 词库分类：电力电气
+# 词库描述：
+# 词条样例：通话率 来电智能匹配 自动拨号 群呼 摘机 通话时长
+# 词条数量：51
+
+被叫号码	bei jiao hao ma	32
+北京集时	bei jing ji shi	4
+标记通话记录	biao ji tong hua ji lu	24
+并发数	bing fa shu	1
+拨号规则	bo hao gui ze	42
+点击拨号	dian ji bo hao	19
+对接中继	dui jie zhong ji	27
+队列监控	dui lie jian kong	17
+分机	fen ji	43
+挂断原因	gua duan yuan yin	25
+号码分配	hao ma fen pei	10
+号码回收	hao ma hui shou	9
+呼出	hu chu	20
+呼叫成功	hu jiao cheng gong	14
+呼叫失败	hu jiao shi bai	13
+呼叫系数	hu jiao xi shu	12
+呼叫中心	hu jiao zhong xin	51
+呼叫状态	hu jiao zhuang tai	28
+呼入	hu ru	21
+呼损率	hu sun lv	35
+话后时长	hua hou shi chang	31
+集时通讯	ji shi tong xun	6
+集时云通	ji shi yun tong	5
+监听报表	jian ting bao biao	23
+接听对象	jie ting dui xiang	8
+接通率	jie tong lv	49
+来电队列	lai dian dui lie	46
+来电智能匹配	lai dian zhi neng pi pei	44
+录音	lu yin	29
+群呼	qun hu	38
+深圳集时	shen zhen ji shi	3
+手动拨号	shou dong bo hao	40
+说话断断续续	shuo hua duan duan xu xu	47
+通话率	tong hua lv	50
+通话时长	tong hua shi chang	34
+通话有杂音	tong hua you za yin	48
+外呼	wai hu	30
+外线号码	wai xian hao ma	22
+未接听	wei jie ting	36
+语音外呼	yu yin wai hu	41
+语音网关	yu yin wang guan	2
+语音文件	yu yin wen jian	7
+摘机	zhai ji	37
+主叫号码	zhu jiao hao ma	33
+转接号码	zhuan jie hao ma	26
+自动拨号	zi dong bo hao	39
+自动语音应答	zi dong yu yin ying da	45
+最大并发数	zui da bing fa shu	11
+座席话务量	zuo xi hua wu liang	15
+座席绩效	zuo xi ji xiao	16
+座席状态	zuo xi zhuang tai	18

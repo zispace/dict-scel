@@ -1,0 +1,16 @@
+# 文件名：热轧.scel
+# 词库名：热轧
+# 词库分类：钢铁冶金
+# 词库描述：
+# 词条样例：粗轧机 上料辊道 热送辊道 粗轧除鳞机 精轧除鳞机 飞剪
+# 词条数量：9
+
+粗轧除鳞机	cu zha chu lin ji	5
+粗轧机	cu zha ji	9
+飞剪	fei jian	1
+精轧除鳞机	jing zha chu lin ji	4
+精轧机	jing zha ji	8
+卷曲机	juan qu ji	3
+热卷箱	re juan xiang	2
+热送辊道	re song gun dao	6
+上料辊道	shang liao gun dao	7

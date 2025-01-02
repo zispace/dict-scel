@@ -1,0 +1,417 @@
+# 文件名：电力系统.scel
+# 词库名：电力系统
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：距离保护 电量报送 保护断路器 并列的 补偿度
+# 词条数量：410
+
+安规	an gui	14
+按钮	an niu	171
+板式滤油机	ban shi lv you ji	6
+抱箍	bao gu	72
+保护断路器	bao hu duan lu qi	402
+保护特性	bao hu te xing	401
+避雷器	bi lei qi	170
+变比	bian bi	400
+变电站	bian dian zhan	399
+变压器	bian ya qi	398
+标准的机组数据显示	biao zhun de ji zu shu ju xian shi	397
+并联电容器	bing lian dian rong qi	396
+并列的	bing lie de	395
+波纹板	bo wen ban	109
+波形	bo xing	394
+补偿度	bu chang du	393
+不锈钢	bu xiu gang	107
+采样频率	cai yang pin lv	392
+采样周期	cai yang zhou qi	391
+参考值	can kao zhi	390
+参数值	can shu zhi	389
+测量信号	ce liang xin hao	388
+插座	cha zuo	169
+厂级实时监控系统	chang ji shi shi jian kong xi tong	74
+厂沙线	chang sha xian	53
+超高压输电线	chao gao ya shu dian xian	387
+超速故障停机	chao su gu zhang ting ji	71
+沉降	chen jiang	22
+成勘院	cheng kan yuan	59
+冲沙孔	chong sha kong	25
+冲沙闸	chong sha zha	39
+初探	chu tan	378
+传递函数	chuan di han shu	377
+垂直距离	chui zhi ju li	70
+大容量发电机组	da rong liang fa dian ji zu	376
+单机无穷大系统	dan ji wu qiong da xi tong	375
+单相电度表	dan xiang dian du biao	168
+单相电压	dan xiang dian ya	374
+档位	dang wei	373
+刀开关	dao kai guan	167
+导纳	dao na	367
+刀闸隔离开关	dao zha ge li kai guan	69
+等效于	deng xiao yu	366
+等值波阻抗	deng zhi bo zu kang	365
+低压	di ya	364
+低压器系统	di ya qi xi tong	15
+低油压故障停机	di you ya gu zhang ting ji	68
+电厂	dian chang	362
+电导	dian dao	361
+电动机	dian dong ji	360
+电动机保护器	dian dong ji bao hu qi	166
+电度表	dian du biao	165
+电感	dian gan	359
+电杆	dian gan	67
+电抗	dian kang	358
+电抗器	dian kang qi	357
+电老虎	dian lao hu	118
+电力安全规程	dian li an quan gui cheng	13
+电力系统	dian li xi tong	356
+电力系统自动化	dian li xi tong zi dong hua	355
+电量报送	dian liang bao song	403
+电铃	dian ling	164
+电流	dian liu	354
+电流表	dian liu biao	163
+电纳	dian na	353
+电能量	dian neng liang	177
+电能质量	dian neng zhi liang	176
+电瓶电压表	dian ping dian ya biao	352
+电容	dian rong	351
+电容器	dian rong qi	350
+电刷	dian shua	113
+电网	dian wang	349
+电位	dian wei	348
+电压	dian ya	347
+电压表	dian ya biao	162
+电压等级	dian ya deng ji	346
+电压互感器	dian ya hu gan qi	345
+电压稳定	dian ya wen ding	344
+电压源	dian ya yuan	343
+电阻	dian zu	342
+电阻器	dian zu qi	161
+蝶阀液压站	die fa ye ya zhan	12
+跌落式熔断器	die luo shi rong duan qi	66
+定子	ding zi	340
+东北电力设计院	dong bei dian li she ji yuan	76
+动力工程系	dong li gong cheng xi	83
+动态	dong tai	339
+动作速度	dong zuo su du	338
+端盖	duan gai	104
+端盖式轴承	duan gai shi zhou cheng	91
+短路故障	duan lu gu zhang	337
+断路器	duan lu qi	336
+对讲机	dui jiang ji	158
+对讲门铃	dui jiang men ling	159
+额定	e ding	335
+发电厂	fa dian chang	334
+发电机	fa dian ji	333
+发电机端	fa dian ji duan	95
+反传算法	fan chuan suan fa	332
+仿真	fang zhen	331
+仿真分析	fang zhen fen xi	330
+仿真数据	fang zhen shu ju	329
+非线性系统	fei xian xing xi tong	328
+分接头	fen jie tou	327
+分相操作箱	fen xiang cao zuo xiang	410
+负荷状态	fu he zhuang tai	325
+附加网络	fu jia wang luo	322
+附加系统	fu jia xi tong	321
+副教授	fu jiao shou	326
+负序阻抗	fu xu zu kang	324
+负载电流百分比显示	fu zai dian liu bai fen bi xian shi	323
+辅助触点	fu zhu chu dian	157
+高顶值	gao ding zhi	320
+高精度	gao jing du	319
+高抗	gao kang	318
+高水温故障停机	gao shui wen gu zhang ting ji	65
+高压	gao ya	316
+高压侧	gao ya ce	315
+隔离开关	ge li kai guan	372
+隔离器	ge li qi	156
+给定的	gei ding de	314
+功角	gong jiao	312
+功角稳定	gong jiao wen ding	311
+功率	gong lv	310
+功率因数	gong lv yin shu	309
+工频	gong pin	313
+工作门	gong zuo men	35
+固定串联电容补偿	gu ding chuan lian dian rong bu chang	305
+故障	gu zhang	308
+故障点	gu zhang dian	307
+故障切除时间	gu zhang qie chu shi jian	306
+光端机	guang duan ji	28
+光纤差动保护	guang xian cha dong bao hu	409
+过渡夹	guo du jia	155
+国家电网公司	guo jia dian wang gong si	78
+哈夫抱箍	ha fu bao gu	64
+行波	hang bo	217
+行波保护	hang bo bao hu	216
+行波继电器	hang bo ji dian qi	215
+行波信号	hang bo xin hao	214
+互感器	hu gan qi	153
+弧焊机	hu han ji	154
+护环	hu huan	93
+弧门	hu men	38
+继电保护	ji dian bao hu	298
+继电器	ji dian qi	152
+机端	ji duan	304
+机端电压控制	ji duan dian ya kong zhi	303
+计算机管理信息系统	ji suan ji guan li xin xi xi tong	73
+极限切除时间	ji xian qie chu shi jian	299
+机械过速	ji xie guo su	386
+机油油压表	ji you you ya biao	302
+机组	ji zu	82
+机组运行小时表	ji zu yun xing xiao shi biao	301
+机组运行正常	ji zu yun xing zheng chang	300
+减法运算	jian fa yun suan	297
+监控系统	jian kong xi tong	29
+检修	jian xiu	382
+交换机	jiao huan ji	27
+交流	jiao liu	296
+交流励磁机	jiao liu li ci ji	114
+接触器	jie chu qi	151
+接地刀闸	jie di dao zha	371
+接力器	jie li qi	9
+截砂槽	jie sha cao	26
+接线端子	jie xian duan zi	150
+接线端子板	jie xian duan zi ban	149
+紧急事故停机	jin ji shi gu ting ji	384
+进水口蝶阀	jin shui kou die fa	20
+进水口球阀	jin shui kou qiu fa	19
+静态	jing tai	294
+九龙地方电网	jiu long di fang dian wang	55
+久隆水电开发有限公司	jiu long shui dian kai fa you xian gong si	58
+距离保护	ju li bao hu	406
+绝缘油	jue yuan you	4
+开关站	kai guan zhan	293
+坎渠铁支线	kan qu tie zhi xian	54
+抗干扰能力	kang gan rao neng li	292
+可靠动作	ke kao dong zuo	291
+可倾瓦	ke qing wa	101
+空侧	kong ce	98
+空导	kong dao	105
+空冷	kong leng	84
+空心导线	kong xin dao xian	106
+空压机	kong ya ji	16
+空载电流	kong zai dian liu	290
+空载损耗	kong zai sun hao	289
+控制按钮	kong zhi an niu	148
+库容量	ku rong liang	116
+快速地刀	kuai su de dao	370
+快速闸门	kuai su zha men	37
+框图	kuang tu	288
+拉线	la xian	63
+拦污栅	lan wu shan	42
+浪涌保护器	lang yong bao hu qi	147
+捞渣机	lao zha ji	41
+冷备用	leng bei yong	380
+冷却水温度表	leng que shui wen du biao	287
+冷却水中断	leng que shui zhong duan	317
+励磁	li ci	286
+励磁电流转子电流	li ci dian liu zhuan zi dian liu	285
+励磁机	li ci ji	115
+励磁机端	li ci ji duan	94
+励磁器	li ci qi	284
+励端	li duan	96
+隶属函数	li shu han shu	283
+灵敏性	ling min xing	281
+零序保护	ling xu bao hu	407
+零序电流保护	ling xu dian liu bao hu	408
+零序阻抗	ling xu zu kang	282
+漏电断路器	lou dian duan lu qi	146
+落点	luo dian	280
+铝排	lv pai	145
+滤油机	lv you ji	7
+每相电流	mei xiang dian liu	279
+门槛值	men kan zhi	278
+模糊规则	mo hu gui ze	277
+模糊控制	mo hu kong zhi	276
+模糊神经网络	mo hu shen jing wang luo	275
+模糊推理	mo hu tui li	274
+模糊推理矩阵	mo hu tui li ju zhen	273
+母线	mu xian	272
+母线保护	mu xian bao hu	404
+耐张	nai zhang	62
+耐张段	nai zhang duan	61
+南瑞	nan rui	3
+南自	nan zi	2
+能量输送	neng liang shu song	271
+配电系统	pei dian xi tong	270
+配电箱	pei dian xiang	269
+偏桥	pian qiao	45
+偏桥电站	pian qiao dian zhan	44
+偏桥水电站	pian qiao shui dian zhan	43
+偏移量	pian yi liang	268
+频率	pin lv	267
+频率变阻器	pin lv bian zu qi	144
+频率表	pin lv biao	143
+启动器	qi dong qi	142
+起动失败停机	qi dong shi bai ting ji	265
+汽端	qi duan	97
+其它故障显示及输入	qi ta gu zhang xian shi ji shu ru	266
+千阀	qian fa	264
+千伏安	qian fu an	263
+千瓦	qian wa	262
+强行励磁	qiang xing li ci	261
+切机	qie ji	260
+氢侧	qing ce	99
+求和器	qiu he qi	259
+区内故障	qu nei gu zhang	258
+全面地	quan mian di	257
+热备用	re bei yong	379
+热电偶	re dian ou	141
+热继电器	re ji dian qi	140
+热控	re kong	80
+熔断器	rong duan qi	139
+容量	rong liang	256
+三角形隶属度函数	san jiao xing li shu du han shu	255
+三菱	san ling	89
+三绕组变压器	san rao zu bian ya qi	254
+三相电度表	san xiang dian du biao	138
+三相电压	san xiang dian ya	253
+三相故障	san xiang gu zhang	252
+沙坪	sha ping	56
+沙坪电站	sha ping dian zhan	46
+沙坪水电站	sha ping shui dian zhan	57
+栅差	shan cha	30
+杉铁二线	shan tie er xian	51
+杉铁三线	shan tie san xian	50
+杉铁一线	shan tie yi xian	52
+上限	shang xian	251
+神经网络	shen jing wang luo	250
+神经元	shen jing yuan	249
+声控开关	sheng kong kai guan	137
+升压变压器	sheng ya bian ya qi	248
+事故底油压	shi gu di you ya	363
+事故停机	shi gu ting ji	385
+时间继电器	shi jian ji dian qi	136
+时控开关	shi kong kai guan	135
+失灵保护	shi ling bao hu	405
+失去同步	shi qu tong bu	247
+失真	shi zhen	246
+受端	shou duan	245
+输电距离	shu dian ju li	244
+输电系统	shu dian xi tong	243
+输电线	shu dian xian	242
+输电线路故障	shu dian xian lu gu zhang	241
+双电源	shuang dian yuan	134
+双回同杆并架	shuang hui tong gan bing jia	240
+双绕组变压器	shuang rao zu bian ya qi	239
+双水内冷	shuang shui nei leng	86
+水冷	shui leng	85
+水氢氢	shui qing qing	87
+水位差	shui wei cha	31
+四分线损	si fen xian sun	175
+算法	suan fa	238
+隧洞进口	sui dong jin kou	36
+调节	tiao jie	341
+调节仪	tiao jie yi	160
+调速器	tiao su qi	11
+调压井	tiao ya jing	32
+铁厂河	tie chang he	47
+铁厂河电站	tie chang he dian zhan	48
+铁厂河水电站	tie chang he shui dian zhan	49
+铁损	tie sun	237
+铁芯	tie xin	110
+铁心	tie xin	111
+停机备用	ting ji bei yong	383
+同步	tong bu	236
+铜电偶	tong dian ou	133
+铜排	tong pai	132
+铜损	tong sun	235
+透平油	tou ping you	5
+投运	tou yun	234
+微动开关	wei dong kai guan	131
+稳定	wen ding	233
+温控仪	wen kong yi	130
+误动作	wu dong zuo	226
+无功	wu gong	232
+无功补偿	wu gong bu chang	231
+无功电流	wu gong dian liu	230
+无功负载	wu gong fu zai	229
+无功功率	wu gong gong lv	228
+无功损耗	wu gong sun hao	227
+无刷励磁机	wu shua li ci ji	100
+西北电力设计院	xi bei dian li she ji yuan	75
+西门子	xi men zi	88
+西屋	xi wu	90
+下降率	xia jiang lv	225
+下降特性	xia jiang te xing	224
+下限	xia xian	223
+线夹	xian jia	60
+线路补偿器	xian lu bu chang qi	222
+线路快速接地刀闸	xian lu kuai su jie di dao zha	369
+相减运算	xiang jian yun suan	221
+箱式变压器	xiang shi bian ya qi	172
+小波变换	xiao bo bian huan	220
+小水电	xiao shui dian	117
+小型断路器	xiao xing duan lu qi	129
+谐波电流	xie bo dian liu	218
+泄洪	xie hong	21
+泄洪闸	xie hong zha	40
+斜井	xie jing	33
+斜率	xie lv	219
+信号灯	xin hao deng	128
+行程开关	xing cheng kai guan	127
+修改的	xiu gai de	213
+许继	xu ji	1
+学报	xue bao	212
+压力表	ya li biao	18
+压力传感器	ya li chuan gan qi	17
+压力油	ya li you	8
+延迟变换	yan chi bian huan	210
+延迟时间	yan chi shi jian	209
+研究方向	yan jiu fang xiang	211
+样本集合	yang ben ji he	208
+样本空间	yang ben kong jian	207
+摇摆	yao bai	206
+遥测	yao ce	205
+遥信	yao xin	204
+荧光灯	ying guang deng	125
+应急灯	ying ji deng	126
+用电需求管理	yong dian xu qiu guan li	203
+有功	you gong	202
+有功负载	you gong fu zai	201
+有功功率	you gong gong lv	200
+有功损耗	you gong sun hao	199
+油压装置	you ya zhuang zhi	10
+裕度	yu du	198
+预付费电度表	yu fu fei dian du biao	124
+运行	yun xing	381
+运行转速	yun xing zhuan su	197
+暂态分量	zan tai fen liang	196
+暂态行波	zan tai hang bo	194
+暂态稳定	zan tai wen ding	195
+兆瓦	zhao wa	81
+正序阻抗	zheng xu zu kang	193
+值班房	zhi ban fang	23
+值班室	zhi ban shi	24
+支洞	zhi dong	34
+直流电抗器	zhi liu dian kang qi	192
+中电投集团公司	zhong dian tou ji tuan gong si	77
+中国大唐集团公司	zhong guo da tang ji tuan gong si	79
+中国电力	zhong guo dian li	191
+中间继电器	zhong jian ji dian qi	123
+中线电流	zhong xian dian liu	190
+中心环	zhong xin huan	92
+中压	zhong ya	189
+轴承	zhou cheng	103
+轴瓦	zhou wa	102
+主变中性点刀闸	zhu bian zhong xing dian dao zha	368
+主令开关	zhu ling kai guan	122
+主配拒动	zhu pei ju dong	295
+柱上变压器	zhu shang bian ya qi	173
+柱上开关	zhu shang kai guan	174
+转换开关	zhuan huan kai guan	121
+转子	zhuan zi	112
+转子电枢	zhuan zi dian shu	108
+装机容量	zhuang ji rong liang	188
+自动开关	zi dong kai guan	120
+自适应控制方法	zi shi ying kong zhi fang fa	186
+自适应系统	zi shi ying xi tong	185
+子系统	zi xi tong	187
+自学习功能	zi xue xi gong neng	184
+组合开关	zu he kai guan	119
+阻抗	zu kang	183
+阻尼	zu ni	182
+最低电流	zui di dian liu	181
+最低电压	zui di dian ya	180
+最高电流	zui gao dian liu	179
+最高电压	zui gao dian ya	178

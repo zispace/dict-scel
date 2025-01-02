@@ -1,0 +1,19 @@
+# 文件名：传输网.scel
+# 词库名：传输网
+# 词库分类：通信与无线电
+# 词库描述：
+# 词条样例：链路类型 接入环 骨干环 时隙 汇聚环
+# 词条数量：12
+
+本地环	ben di huan	3
+二层链路	er ceng lian lu	5
+骨干环	gu gan huan	1
+光功率	guang gong lv	6
+汇聚环	hui ju huan	4
+交叉	jiao cha	11
+接入环	jie ru huan	2
+链路类型	lian lu lei xing	7
+时隙	shi xi	12
+拓扑	tuo pu	9
+网元	wang yuan	10
+支路板	zhi lu ban	8

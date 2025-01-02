@@ -1,0 +1,957 @@
+# 文件名：火电词汇.scel
+# 词库名：火电词汇
+# 词库分类：电力电气
+# 词库描述：
+# 词条样例：原煤仓 给水泵 低压缸 疏水扩容器 连排扩容器 再热器
+# 词条数量：950
+
+按钮	an niu	920
+按钮触点	an niu chu dian	919
+安培	an pei	921
+摆动	bai dong	453
+百分比	bai fen bi	454
+半导体	ban dao ti	918
+保安	bao an	452
+饱和水	bao he shui	917
+饱和蒸汽	bao he zheng qi	457
+保护	bao hu	451
+保护和跳闸	bao hu he tiao zha	916
+报警	bao jing	450
+报警器	bao jing qi	915
+备用	bei yong	449
+备用电源	bei yong dian yuan	448
+本体	ben ti	447
+闭环	bi huan	914
+避雷器	bi lei qi	913
+闭式	bi shi	446
+闭式循环水	bi shi xun huan shui	445
+闭锁	bi suo	444
+闭锁关	bi suo guan	443
+闭锁开	bi suo kai	442
+壁温	bi wen	441
+变电站	bian dian zhan	912
+变送器	bian song qi	911
+变压器	bian ya qi	910
+并网	bing wang	909
+并行接口	bing xing jie kou	908
+波特率	bo te lv	907
+不对称	bu dui chen	438
+补水	bu shui	440
+补油	bu you	439
+采样器	cai yang qi	904
+参考	can kao	437
+操作	cao zuo	436
+操作机构	cao zuo ji gou	903
+操作台	cao zuo tai	902
+测点	ce dian	435
+侧墙	ce qiang	901
+测试仪表	ce shi yi biao	900
+差动	cha dong	434
+差压	cha ya	433
+柴油机	chai you ji	432
+厂变	chang bian	431
+厂低变	chang di bian	430
+厂房	chang fang	429
+厂高变	chang gao bian	428
+厂内	chang nei	427
+长期停机	chang qi ting ji	899
+厂用	chang yong	426
+厂用变	chang yong bian	898
+厂用电率	chang yong dian lv	425
+超导体	chao dao ti	897
+超高压	chao gao ya	896
+超速	chao su	424
+超温	chao wen	423
+程控	cheng kong	422
+齿部	chi bu	421
+齿轮	chi lun	420
+充电	chong dian	419
+充电器	chong dian qi	895
+冲动式汽轮机	chong dong shi qi lun ji	894
+冲击耐受电压	chong ji nai shou dian ya	893
+重新	chong xin	19
+抽汽	chou qi	418
+抽头	chou tou	417
+除尘器	chu chen qi	413
+出口	chu kou	416
+处理	chu li	409
+出水	chu shui	415
+出线	chu xian	414
+出线盒	chu xian he	837
+除盐的	chu yan de	412
+除盐水	chu yan shui	892
+除盐装置	chu yan zhuang zhi	411
+除氧器	chu yang qi	891
+除渣机	chu zha ji	410
+传动	chuan dong	408
+喘震	chuan zhen	708
+吹灰	chui hui	407
+吹灰器	chui hui qi	890
+吹扫	chui sao	889
+垂直的	chui zhi de	888
+纯度	chun du	406
+磁场作用	ci chang zuo yong	887
+磁导率	ci dao lv	886
+次烟煤	ci yan mei	885
+粗粉分离器	cu fen fen li qi	405
+错误检验和恢复	cuo wu jian yan he hui fu	884
+错误指示器	cuo wu zhi shi qi	883
+大规模集成电路	da gui mo ji cheng dian lu	882
+打开命令	da kai ming ling	404
+大屏	da ping	403
+大修	da xiu	881
+大于	da yu	402
+大轴	da zhou	688
+单向流动	dan xiang liu dong	880
+挡板	dang ban	401
+导电度	dao dian du	400
+导纳	dao na	879
+导汽管	dao qi guan	399
+导体	dao ti	878
+导向	dao xiang	398
+导向轴承	dao xiang zhou cheng	397
+导叶	dao ye	877
+低电压	di dian ya	396
+低辅	di fu	395
+低加	di jia	394
+低频	di pin	393
+低速	di su	392
+低温	di wen	391
+低温过热器	di wen guo re qi	931
+低温再热器	di wen zai re qi	929
+低限	di xian	390
+低压厂用变	di ya chang yong bian	876
+低压缸	di ya gang	939
+低压力	di ya li	389
+第一级	di yi ji	387
+低于	di yu	388
+电厂	dian chang	873
+电磁	dian ci	872
+电磁阀	dian ci fa	743
+电导率	dian dao lv	871
+电动	dian dong	386
+电动给水泵	dian dong gei shui beng	384
+电动机控制中心	dian dong ji kong zhi zhong xin	870
+电动机启动装置	dian dong ji qi dong zhuang zhi	869
+电动门	dian dong men	742
+电动调节门	dian dong tiao jie men	385
+电动液压	dian dong ye ya	868
+电度	dian du	383
+电感电流	dian gan dian liu	867
+点火	dian huo	875
+点火器	dian huo qi	874
+电机	dian ji	382
+电抗	dian kang	866
+电缆	dian lan	865
+电流	dian liu	381
+电流互感器	dian liu hu gan qi	864
+电气设备	dian qi she bei	863
+电容	dian rong	862
+电容电流	dian rong dian liu	861
+电容器	dian rong qi	860
+电枢	dian shu	859
+电网	dian wang	858
+电涡流式检测器	dian wo liu shi jian ce qi	857
+电压	dian ya	380
+电压互感器	dian ya hu gan qi	856
+电压回路	dian ya hui lu	379
+电压转换器	dian ya zhuan huan qi	855
+电压自由触点	dian ya zi you chu dian	854
+电源	dian yuan	905
+电站	dian zhan	853
+电阻	dian zu	852
+吊耳	diao er	851
+蝶阀	die fa	741
+顶棚	ding peng	373
+顶棚管	ding peng guan	846
+定期排污	ding qi pai wu	371
+定期排污扩容器	ding qi pai wu kuo rong qi	370
+定位	ding wei	845
+顶轴	ding zhou	372
+定子	ding zi	844
+定子机座	ding zi ji zuo	843
+动力	dong li	369
+动稳定	dong wen ding	842
+动叶片	dong ye pian	841
+动作	dong zuo	368
+堵煤	du mei	367
+堵塞	du se	366
+断路器	duan lu qi	836
+断水	duan shui	365
+断线	duan xian	364
+锻造	duan zao	835
+端子	duan zi	840
+端子箱	duan zi xiang	838
+对称	dui chen	363
+对称度	dui chen du	834
+对空排汽门	dui kong pai qi men	362
+对流烟道	dui liu yan dao	833
+多功能处理器	duo gong neng chu li qi	832
+多项式	duo xiang shi	831
+轭部	e bu	361
+额定负荷	e ding fu he	830
+二次风	er ci feng	703
+二次风挡板	er ci feng dang ban	360
+二极管	er ji guan	829
+二进制单元	er jin zhi dan yuan	828
+二进制的	er jin zhi de	827
+二进制计数器	er jin zhi ji shu qi	826
+发变组	fa bian zu	359
+发电机	fa dian ji	825
+发光二极管	fa guang er ji guan	824
+法兰	fa lan	357
+阀门	fa men	927
+乏气	fa qi	701
+阀位	fa wei	358
+翻车机	fan che ji	356
+反动式汽轮机	fan dong shi qi lun ji	823
+反馈	fan kui	822
+反向	fan xiang	355
+反相显示	fan xiang xian shi	821
+反转	fan zhuan	354
+放汽	fang qi	352
+方式	fang shi	353
+放水	fang shui	351
+放油	fang you	350
+非驱动端	fei qu dong duan	349
+沸腾	fei teng	820
+分辨率	fen bian lv	819
+粉仓	fen cang	344
+分层级的	fen ceng ji de	818
+分隔屏	fen ge ping	348
+分隔墙	fen ge qiang	817
+分接头	fen jie tou	816
+分接头绕组	fen jie tou rao zu	815
+分离器	fen li qi	347
+分区	fen qu	346
+分散控制系统	fen san kong zhi xi tong	814
+粉位	fen wei	343
+分析基	fen xi ji	812
+分压器	fen ya qi	811
+分支	fen zhi	345
+粉状燃料	fen zhuang ran liao	810
+风道	feng dao	809
+风量	feng liang	342
+风箱	feng xiang	808
+幅度	fu du	805
+符号字符	fu hao zi fu	806
+负荷	fu he	340
+副励磁机	fu li ci ji	802
+复速级	fu su ji	338
+伏特	fu te	807
+复位	fu wei	337
+负压	fu ya	339
+负压燃烧	fu ya ran shao	803
+负氧燃烧	fu yang ran shao	504
+辅助	fu zhu	341
+辅助的	fu zhu de	804
+改造	gai zao	801
+感抗	gan kang	798
+干式电缆	gan shi dian lan	800
+干燥基	gan zao ji	799
+干蒸汽	gan zheng qi	455
+钢球磨	gang qiu mo	737
+高备变	gao bei bian	336
+高电压	gao dian ya	335
+高辅	gao fu	334
+高加	gao jia	333
+高能点火器	gao neng dian huo qi	332
+高速	gao su	331
+高位水箱	gao wei shui xiang	330
+高温	gao wen	329
+高温再热器	gao wen zai re qi	933
+高限	gao xian	328
+高压缸	gao ya gang	941
+高压力	gao ya li	327
+高中压缸	gao zhong ya gang	326
+隔板	ge ban	797
+隔间	ge jian	796
+隔离	ge li	325
+隔离开关	ge li kai guan	795
+给粉机	gei fen ji	324
+给煤机	gei mei ji	944
+给煤机转速信号	gei mei ji zhuan su xin hao	794
+给水	gei shui	323
+给水泵	gei shui beng	942
+跟随	gen sui	793
+公差	gong cha	789
+工程单位	gong cheng dan wei	792
+工具	gong ju	611
+功率	gong lv	316
+供汽	gong qi	315
+供氢	gong qing	314
+工业分析	gong ye fen xi	791
+工业锅炉	gong ye guo lu	790
+工业水	gong ye shui	322
+公用	gong yong	318
+公用变	gong yong bian	317
+公用锅炉	gong yong guo lu	788
+公用配电屏	gong yong pei dian ping	923
+公用系统	gong yong xi tong	787
+供油	gong you	313
+工作	gong zuo	321
+工作变压器	gong zuo bian ya qi	320
+工作电源	gong zuo dian yuan	319
+固定碳	gu ding tan	785
+鼓风机	gu feng ji	786
+故障	gu zhang	312
+管板	guan ban	783
+管壁	guan bi	308
+管道	guan dao	782
+管管道	guan guan dao	309
+关合电流	guan he dian liu	784
+关命令	guan ming ling	311
+管排	guan pai	781
+关状态	guan zhuang tai	310
+管子	guan zi	780
+管座	guan zuo	779
+光电	guang dian	778
+光洁度	guang jie du	777
+光字牌	guang zi pai	307
+过饱和蒸汽	guo bao he zheng qi	456
+过程处理单元	guo cheng chu li dan yuan	775
+过负荷	guo fu he	305
+过冷水	guo leng shui	774
+过励磁	guo li ci	304
+过量空气	guo liang kong qi	773
+过流	guo liu	303
+锅炉	guo lu	950
+锅炉房	guo lu fang	306
+锅炉自动控制	guo lu zi dong kong zhi	776
+过滤器	guo lv qi	302
+过热	guo re	301
+过热器	guo re qi	935
+过热蒸汽	guo re zheng qi	300
+过速	guo su	299
+过压	guo ya	298
+过载	guo zai	297
+含氧量	han yang liang	296
+毫伏	hao fu	772
+合成	he cheng	295
+褐煤	he mei	771
+合闸	he zha	294
+后屏	hou ping	293
+户内	hu nei	770
+滑阀	hua fa	292
+滑环	hua huan	769
+化石燃料	hua shi ran liao	768
+还原气氛	huan yuan qi fen	767
+环状的	huan zhuang de	766
+灰斗	hui dou	291
+挥发分	hui fa fen	764
+灰分	hui fen	765
+回料风机	hui liao feng ji	290
+回料器	hui liao qi	458
+汇流	hui liu	287
+回送风	hui song feng	289
+回油	hui you	288
+火检	huo jian	286
+火焰	huo yan	285
+火焰强度	huo yan qiang du	284
+火嘴	huo zui	283
+继电器	ji dian qi	273
+机端	ji duan	282
+机柜	ji gui	281
+级间漏汽	ji jian lou qi	763
+集控室	ji kong shi	762
+激励	ji li	278
+记录	ji lu	761
+集汽联箱	ji qi lian xiang	277
+集散控制系统	ji san kong zhi xi tong	813
+集水箱	ji shui xiang	276
+计算	ji suan	274
+集箱	ji xiang	275
+机械	ji xie	280
+机组	ji zu	279
+夹层	jia ceng	269
+架空的	jia kong de	759
+架空输电线	jia kong shu dian xian	758
+加热器	jia re qi	272
+加热蒸汽	jia re zheng qi	271
+加速	jia su	270
+检测	jian ce	261
+监测	jian ce	755
+监督管理	jian du guan li	754
+监控方式	jian kong fang shi	753
+监控器	jian kong qi	752
+兼容的	jian rong de	664
+兼容性	jian rong xing	757
+减少	jian shao	266
+监视	jian shi	267
+减速	jian su	265
+减温	jian wen	264
+减温减压器	jian wen jian ya qi	263
+减温器	jian wen qi	751
+减温水	jian wen shui	750
+间隙	jian xi	268
+检修	jian xiu	260
+减压阀	jian ya fa	262
+检验	jian yan	749
+交换器	jiao huan qi	259
+交流	jiao liu	258
+交流电	jiao liu dian	748
+胶球	jiao qiu	257
+接地	jie di	256
+节点	jie dian	746
+接口	jie kou	747
+结束	jie shu	255
+接头	jie tou	480
+接线柱	jie xian zhu	839
+介质	jie zhi	678
+截止	jie zhi	254
+截止阀	jie zhi fa	745
+紧急	jin ji	253
+紧急的应力	jin ji de ying li	740
+紧急放油阀	jin ji fang you fa	252
+进线	jin xian	251
+精处理	jing chu li	250
+径向	jing xiang	249
+静叶片	jing ye pian	735
+就地	jiu di	248
+绝缘	jue yuan	734
+绝缘的	jue yuan de	906
+绝缘子	jue yuan zi	733
+开断	kai duan	732
+开断电流	kai duan dian liu	731
+开关	kai guan	730
+开关柜	kai guan gui	729
+开关组	kai guan zu	728
+开环	kai huan	727
+开始	kai shi	247
+开式	kai shi	246
+开式循环	kai shi xun huan	245
+开式循环水	kai shi xun huan shui	244
+开状态	kai zhuang tai	243
+抗燃油	kang ran you	242
+可编程逻辑控制器	ke bian cheng luo ji kong zhi qi	726
+可编程只读存储器	ke bian cheng zhi du cun chu qi	725
+可燃基	ke ran ji	724
+可视通讯	ke shi tong xun	723
+可调速的	ke tiao su de	240
+空侧	kong ce	239
+空气	kong qi	238
+空气断路器	kong qi duan lu qi	722
+空气绝缘的	kong qi jue yuan de	721
+空气预热器	kong qi yu re qi	720
+空预器	kong yu qi	237
+控制	kong zhi	236
+控制按钮	kong zhi an niu	719
+控制精度	kong zhi jing du	718
+控制命令	kong zhi ming ling	235
+控制屏	kong zhi ping	717
+控制器	kong zhi qi	716
+控制室	kong zhi shi	715
+控制台	kong zhi tai	714
+控制线圈	kong zhi xian quan	713
+控制箱	kong zhi xiang	234
+控制仪表系统	kong zhi yi biao xi tong	712
+控制作用	kong zhi zuo yong	711
+快速减负荷	kuai su jian fu he	233
+扩容器	kuo rong qi	232
+浪涌	lang yong	710
+冷端补偿	leng duan bu chang	709
+冷风	leng feng	231
+冷却	leng que	230
+冷却风机	leng que feng ji	229
+冷却器	leng que qi	228
+冷油器	leng you qi	227
+冷再热	leng zai re	226
+励磁	li ci	699
+励磁机	li ci ji	698
+励端	li duan	223
+立式	li shi	224
+离子	li zi	225
+联氨	lian an	697
+联合汽门	lian he qi men	220
+联络	lian luo	219
+连排	lian pai	222
+连排扩容器	lian pai kuo rong qi	936
+联锁	lian suo	696
+联锁触点	lian suo chu dian	695
+联锁开关系统	lian suo kai guan xi tong	694
+联锁信号	lian suo xin hao	693
+连通管	lian tong guan	221
+联箱	lian xiang	692
+联轴器	lian zhou qi	691
+裂纹	lie wen	690
+临界压力	lin jie ya li	689
+令牌	ling pai	687
+零序	ling xu	218
+六氟化硫	liu fu hua liu	684
+流化	liu hua	461
+流化风机	liu hua feng ji	459
+流量	liu liang	686
+流量计	liu liang ji	685
+炉底加热	lu di jia re	925
+炉底水封	lu di shui feng	924
+露点	lu dian	683
+炉膛	lu tang	682
+罗茨风机	luo ci feng ji	460
+螺钉	luo ding	681
+滤网	lv wang	217
+滤油器	lv you qi	216
+马达	ma da	215
+脉冲	mai chong	214
+满足	man zu	213
+毛胚	mao pei	680
+煤粉	mei fen	212
+煤粉仓	mei fen cang	211
+煤粉燃烧器	mei fen ran shao qi	677
+媒介	mei jie	679
+密度热电阻	mi du re dian zu	676
+密封	mi feng	210
+密封水	mi feng shui	209
+密封油	mi feng you	208
+密相区	mi xiang qu	464
+灭弧	mie hu	675
+灭火	mie huo	556
+磨辊	mo gun	736
+末级	mo ji	205
+模块	mo kuai	674
+磨煤机	mo mei ji	947
+模拟量	mo ni liang	673
+模拟图	mo ni tu	672
+模拟子模块	mo ni zi mo kuai	671
+膜式壁	mo shi bi	669
+模数转换	mo shu zhuan huan	670
+磨损	mo sun	207
+磨碗	mo wan	206
+母管	mu guan	204
+母线	mu xian	668
+内部的	nei bu de	667
+内缸	nei gang	666
+能共存的	neng gong cun de	665
+能量管接头	neng liang guan jie tou	663
+逆止阀	ni zhi fa	744
+逆止门	ni zhi men	203
+啮合	nie he	202
+凝结	ning jie	662
+凝结水	ning jie shui	201
+凝结水泵	ning jie shui beng	200
+凝汽器	ning qi qi	948
+扭振	niu zhen	199
+暖风器	nuan feng qi	198
+耦合器	ou he qi	197
+欧姆	ou mu	661
+排粉机	pai fen ji	946
+排风	pai feng	196
+排风机	pai feng ji	195
+排空	pai kong	194
+排汽	pai qi	193
+排水	pai shui	192
+排污	pai wu	191
+排污管	pai wu guan	660
+排烟	pai yan	190
+排烟风机	pai yan feng ji	189
+排油	pai you	188
+盘车	pan che	187
+盘车装置	pan che zhuang zhi	659
+盘面	pan mian	186
+旁路	pang lu	185
+配电	pei dian	658
+配电屏	pei dian ping	922
+喷水	pen shui	184
+膨胀	peng zhang	657
+皮带	pi dai	183
+疲劳	pi lao	656
+偏心度	pian xin du	654
+频率	pin lv	182
+平方根	ping fang gen	653
+屏风机	ping feng ji	181
+平面	ping mian	652
+屏式过热器	ping shi guo re qi	932
+平直度	ping zhi du	651
+汽包	qi bao	943
+启备变	qi bei bian	649
+启动	qi dong	648
+气动	qi dong	179
+汽动给水泵	qi dong gei shui beng	177
+启动控制阀	qi dong kong zhi fa	647
+汽动油泵	qi dong you beng	176
+启动指令	qi dong zhi ling	180
+汽封	qi feng	175
+汽封片	qi feng pian	645
+汽缸	qi gang	644
+汽机	qi ji	174
+汽机监视仪表	qi ji jian shi yi biao	643
+汽轮机	qi lun ji	949
+齐纳二极管	qi na er ji guan	650
+汽泡户外的	qi pao hu wai de	642
+汽水混合物	qi shui hun he wu	641
+气态	qi tai	646
+气体	qi ti	178
+汽温	qi wen	173
+千伏	qian fu	640
+前后	qian hou	172
+前后墙	qian hou qiang	639
+前置泵	qian zhi beng	171
+强迫循环	qiang po xun huan	638
+墙式再热器	qiang shi zai re qi	930
+强制	qiang zhi	170
+强制循环	qiang zhi xun huan	473
+壳体	qiao ti	241
+切除	qie chu	637
+切断	qie duan	636
+氢侧	qing ce	169
+清洗	qing xi	168
+求出的数量	qiu chu de shu liang	634
+驱动端	qu dong duan	167
+全厂	quan chang	166
+全功能组件	quan gong neng zu jian	633
+全貌	quan mao	632
+全天	quan tian	165
+全相	quan xiang	164
+确认	que ren	162
+缺相	que xiang	163
+燃尽	ran jin	161
+燃料	ran liao	160
+燃料烟道	ran liao yan dao	631
+燃烧器	ran shao qi	630
+扰动	rao dong	629
+绕组	rao zu	628
+热电厂	re dian chang	627
+热电偶	re dian ou	626
+热风	re feng	159
+热工仪表	re gong yi biao	625
+热井	re jing	158
+热量加热	re liang jia re	624
+热效率	re xiao lv	623
+热应力分析	re ying li fen xi	622
+热再热	re zai re	157
+日志	ri zhi	760
+熔断	rong duan	620
+熔断器	rong duan qi	619
+溶解	rong jie	156
+容量	rong liang	621
+冗余测试	rong yu ce shi	618
+冗余的	rong yu de	617
+冗余位	rong yu wei	616
+蠕变	ru bian	615
+入口	ru kou	155
+软化	ruan hua	655
+润滑	run hua	154
+润滑油	run hua you	153
+三次风	san ci feng	152
+散热片	san re pian	614
+三通阀	san tong fa	151
+上层	shang ceng	150
+上水	shang shui	149
+设备	she bei	612
+设定	she ding	148
+蛇形管	she xing guan	613
+伸进	shen jin	147
+省煤器	sheng mei qi	928
+省煤器再循环门	sheng mei qi zai xun huan men	926
+升压	sheng ya	146
+失败	shi bai	145
+失步	shi bu	144
+失磁	shi ci	143
+十二进制	shi er jin zhi	609
+使分流	shi fen liu	605
+事故	shi gu	141
+十进制的	shi jin zhi de	608
+失灵	shi ling	142
+十六进制	shi liu jin zhi	607
+视频	shi pin	603
+使完整	shi wan zheng	604
+视像扫描器	shi xiang sao miao qi	602
+试验	shi yan	140
+石油	shi you	606
+试运行	shi yun xing	601
+湿蒸汽	shi zheng qi	610
+收到基	shou dao ji	462
+手动	shou dong	138
+收集	shou ji	139
+输粉机	shu fen ji	135
+输煤机	shu mei ji	134
+疏水	shu shui	938
+疏水阀	shu shui fa	137
+疏水管	shu shui guan	600
+疏水罐	shu shui guan	136
+疏水扩容器	shu shui kuo rong qi	937
+输送	shu song	133
+竖直	shu zhi	132
+树脂浇注变压器	shu zhi jiao zhu bian ya qi	599
+数字显示	shu zi xian shi	598
+数字信号	shu zi xin hao	597
+双层缸结构	shuang ceng gang jie gou	596
+双重的固态	shuang chong de gu tai	593
+双列端子排	shuang lie duan zi pai	595
+双向流动	shuang xiang liu dong	594
+水泵	shui beng	131
+水处理	shui chu li	130
+水电站	shui dian zhan	592
+水封	shui feng	129
+水冷壁	shui leng bi	591
+水幕	shui mu	128
+水平	shui ping	127
+水平的	shui ping de	590
+水平接合面	shui ping jie he mian	589
+水位	shui wei	588
+水位计	shui wei ji	587
+水箱	shui xiang	126
+水压实验	shui ya shi yan	586
+水蒸气	shui zheng qi	585
+送粉	song fen	700
+送风	song feng	125
+送风机	song feng ji	707
+速度	su du	124
+速断	su duan	123
+算法	suan fa	583
+酸洗	suan xi	584
+探针	tan zhen	582
+天然气	tian ran qi	581
+调节	tiao jie	850
+调节级	tiao jie ji	378
+调节门	tiao jie men	377
+调速器	tiao su qi	848
+调速汽门	tiao su qi men	376
+调相机	tiao xiang ji	375
+条形	tiao xing	580
+条形图	tiao xing tu	579
+跳闸	tiao zha	122
+调整	tiao zheng	374
+调制	tiao zhi	849
+调制解调	tiao zhi jie tiao	847
+铁素体	tie su ti	578
+铁芯	tie xin	121
+停机	ting ji	577
+停运	ting yun	576
+停止命令	ting zhi ming ling	120
+停止状态	ting zhi zhuang tai	119
+同步器	tong bu qi	117
+同操器	tong cao qi	116
+通道	tong dao	575
+通风	tong feng	118
+同类的	tong lei de	573
+同期	tong qi	115
+筒体	tong ti	114
+同心度	tong xin du	497
+吐出端	tu chu duan	113
+推力	tui li	112
+推力轴承	tui li zhou cheng	572
+脱扣	tuo kou	635
+脱硫	tuo liu	465
+瓦块	wa kuai	111
+瓦斯	wa si	110
+瓦特	wa te	571
+外部	wai bu	109
+外缸	wai gang	570
+网控楼	wang kong lou	108
+网络接口子模块	wang luo jie kou zi mo kuai	569
+围带	wei dai	567
+微型调速器	wei xing tiao su qi	568
+位移	wei yi	107
+位置	wei zhi	106
+位置反馈	wei zhi fan kui	105
+稳定性	wen ding xing	564
+温度	wen du	566
+文件缓冲器	wen jian huan chong qi	565
+稳态	wen tai	563
+问询电压	wen xun dian ya	104
+误差率	wu cha lv	559
+误动作	wu dong zuo	558
+无功	wu gong	103
+雾化	wu hua	102
+物品	wu pin	561
+无烟煤	wu yan mei	562
+细粉分离器	xi fen fen li qi	100
+吸风机	xi feng ji	706
+熄灭	xi mie	557
+吸入端	xi ru duan	101
+系统	xi tong	554
+铣制	xi zhi	555
+下降管	xia jiang guan	99
+线圈	xian quan	553
+线性差动变压器	xian xing cha dong bian ya qi	552
+相变	xiang bian	551
+相对膨胀	xiang dui peng zhang	98
+相互	xiang hu	550
+相互隔离	xiang hu ge li	549
+相容性	xiang rong xing	756
+相同的	xiang tong de	548
+相位差	xiang wei cha	97
+消磁装置	xiao ci zhuang zhi	96
+销钉	xiao ding	546
+消防	xiao fang	95
+消耗	xiao hao	547
+消泡箱	xiao pao xiang	94
+小汽机	xiao qi ji	92
+消失	xiao shi	93
+小于	xiao yu	91
+泄放	xie fang	90
+泄漏	xie lou	89
+协调的	xie tiao de	545
+协调控制系统	xie tiao kong zhi xi tong	544
+信道	xin dao	574
+信号	xin hao	88
+信号调节	xin hao tiao jie	543
+形凹槽	xing ao cao	540
+行程	xing cheng	87
+星型	xing xing	542
+星型连接	xing xing lian jie	541
+蓄电池	xu dian chi	86
+蓄能器	xu neng qi	85
+选择	xuan ze	84
+循环	xun huan	83
+循环流化床	xun huan liu hua chuang	466
+循环水	xun huan shui	82
+压差	ya cha	81
+压力	ya li	539
+压力表	ya li biao	538
+压缩空气	ya suo kong qi	80
+烟道	yan dao	79
+烟煤	yan mei	537
+烟气	yan qi	536
+烟气成分	yan qi cheng fen	463
+烟气热风器	yan qi re feng qi	535
+烟温	yan wen	78
+氧化气氛	yang hua qi fen	534
+阳离子	yang li zi	77
+氧量	yang liang	76
+遥控	yao kong	75
+要求	yao qiu	74
+叶顶	ye ding	533
+叶根	ye gen	532
+液力耦合器	ye li ou he qi	73
+叶轮	ye lun	531
+液态	ye tai	530
+液位	ye wei	72
+液压油	ye ya you	71
+液压油系统	ye ya you xi tong	739
+仪表校正	yi biao jiao zheng	526
+仪表量程	yi biao liang cheng	528
+仪表灵敏度	yi biao ling min du	527
+异常	yi chang	65
+一次风	yi ci feng	702
+一次风机	yi ci feng ji	705
+一次油	yi ci you	70
+一段抽汽	yi duan chou qi	69
+已关	yi guan	66
+一级	yi ji	68
+溢流站	yi liu zhan	64
+仪器盘	yi qi pan	525
+仪器仪表板	yi qi yi biao ban	524
+一氧化碳	yi yang hua tan	529
+仪用	yi yong	67
+引风	yin feng	63
+引风机	yin feng ji	704
+应用基	ying yong ji	523
+用户	yong hu	61
+用户阀	yong hu fa	60
+永久磁铁	yong jiu ci tie	522
+永励机	yong li ji	62
+油泵	you beng	59
+有电	you dian	51
+油动机	you dong ji	58
+有功功率	you gong gong lv	50
+有火	you huo	49
+油浸式电缆	you jin shi dian lan	521
+油量	you liang	57
+油路	you lu	56
+有煤	you mei	48
+油温	you wen	55
+油箱	you xiang	54
+油压	you ya	53
+有载调压的	you zai tiao ya de	519
+油站	you zhan	52
+油枕	you zhen	520
+预热	yu re	47
+预热管道	yu re guan dao	46
+远方	yuan fang	45
+元件	yuan jian	560
+原煤仓	yuan mei cang	945
+原煤斗	yuan mei dou	517
+元素分析	yuan su fen xi	518
+圆形的	yuan xing de	516
+圆柱形的	yuan zhu xing de	515
+圆锥形的	yuan zhui xing de	514
+运行	yun xing	43
+运行操作	yun xing cao zuo	513
+运行工况	yun xing gong kuang	512
+运行状态	yun xing zhuang tai	42
+允许	yun xu	44
+匝间	za jian	41
+再热	zai re	40
+再热器	zai re qi	934
+再热蒸汽	zai re zheng qi	39
+再生	zai sheng	38
+再循环	zai xun huan	37
+再循环阀	zai xun huan fa	36
+增加	zeng jia	35
+胀差	zhang cha	34
+兆伏安	zhao fu an	511
+振动	zhen dong	509
+真空	zhen kong	33
+真空泵	zhen kong beng	32
+真空断路器	zhen kong duan lu qi	510
+真空破坏阀	zhen kong po huai fa	31
+正常	zheng chang	27
+正的	zheng de	26
+蒸发	zheng fa	508
+整流	zheng liu	506
+整流的	zheng liu de	29
+整流器	zheng liu qi	28
+蒸汽热风器	zheng qi re feng qi	507
+蒸汽室	zheng qi shi	30
+正压燃烧	zheng ya ran shao	505
+正转	zheng zhuan	25
+支撑	zhi cheng	24
+支撑轴承	zhi cheng zhou cheng	23
+支持轴承	zhi chi zhou cheng	503
+直观显示元件	zhi guan xian shi yuan jian	501
+质量	zhi liang	499
+直流	zhi liu	21
+直流电阻	zhi liu dian zu	500
+支路	zhi lu	22
+执行机构	zhi xing ji gou	502
+终端设备	zhong duan she bei	494
+重力	zhong li	493
+中速磨	zhong su mo	738
+中心度	zhong xin du	498
+中心线	zhong xin xian	496
+中性点	zhong xing dian	495
+中压	zhong ya	20
+中压缸	zhong ya gang	940
+轴承	zhou cheng	18
+轴承座	zhou cheng zuo	491
+轴封	zhou feng	17
+轴环	zhou huan	490
+轴瓦	zhou wa	489
+周围的	zhou wei de	492
+轴向的	zhou xiang de	488
+轴向位移	zhou xiang wei yi	16
+主变	zhu bian	487
+主机	zhu ji	15
+煮炉	zhu lu	484
+主汽门	zhu qi men	14
+主燃料跳闸	zhu ran liao tiao zha	467
+主要辅机	zhu yao fu ji	486
+贮油箱	zhu you xiang	13
+铸造	zhu zao	483
+主蒸汽	zhu zheng qi	485
+转换开关	zhuan huan kai guan	482
+转接器	zhuan jie qi	481
+转速	zhuan su	12
+转向室	zhuan xiang shi	11
+转子	zhuan zi	479
+状态	zhuang tai	9
+装置	zhuang zhi	10
+锥体	zhui ti	478
+自动	zi dong	8
+自动控制系统	zi dong kong zhi xi tong	475
+子模块	zi mo kuai	477
+自然循环	zi ran xun huan	474
+子系统	zi xi tong	476
+自由端	zi you duan	7
+总线接口模块	zong xian jie kou mo kuai	472
+纵向的	zong xiang de	471
+阻波器	zu bo qi	470
+组件	zu jian	5
+阻抗	zu kang	6
+组态	zu tai	469
+最大	zui da	4
+最大持续功率	zui da chi xu gong lv	3
+最小	zui xiao	2
+最新发展水平的	zui xin fa zhan shui ping de	1
+最优控制	zui you kong zhi	468

@@ -1,0 +1,3404 @@
+# 文件名：铁路线路与售票.scel
+# 词库名：铁路线路与售票
+# 词库分类：交通运输物流
+# 词库描述：
+# 词条样例：特别快车 旅客 准高速 城际 普通快车 列车等级
+# 词条数量：3397
+
+阿尔斯通	a er si tong	1333
+按车次增加	an che ci zeng jia	2279
+按二等软座发售	an er deng ruan zuo fa shou	2068
+按二等座发售	an er deng zuo fa shou	2073
+按规定	an gui ding	862
+按规定不办理该站	an gui ding bu ban li gai zhan	3164
+按哈尔滨站的里程计算	an ha er bin zhan de li cheng ji suan	821
+安庆铁路	an qing tie lu	112
+安庆线	an qing xian	2936
+按软座发售	an ruan zuo fa shou	2070
+鞍山火车迷俱乐部	an shan huo che mi ju le bu	378
+鞍山网	an shan wang	377
+按实际乘车径路计算	an shi ji cheng che jing lu ji suan	818
+按特等软座发售	an te deng ruan zuo fa shou	2067
+安西	an xi	946
+按线增加	an xian zeng jia	2280
+按需加开临客	an xu jia kai lin ke	1307
+按一等软座发售	an yi deng ruan zuo fa shou	2069
+按一等座发售	an yi deng zuo fa shou	2072
+按硬座发售	an ying zuo fa shou	2071
+按站增加	an zhan zeng jia	2281
+按最短径路计算	an zui duan jing lu ji suan	816
+昂齐红	ang qi hong	2133
+昂榆红	ang yu hong	2134
+霸衡石郑宝	ba heng shi zheng bao	970
+霸衡石郑兰	ba heng shi zheng lan	969
+霸衡石郑西	ba heng shi zheng xi	976
+霸津	ba jin	2168
+霸津狼山锦	ba jin lang shan jin	951
+霸津狼山沈	ba jin lang shan shen	952
+霸庐	ba lu	998
+霸南	ba nan	1443
+霸向	ba xiang	991
+霸向梁	ba xiang liang	989
+霸向潭	ba xiang tan	990
+白阿铁路	bai a tie lu	111
+白阿线	bai a xian	172
+白贵	bai gui	1499
+白和	bai he	260
+白和铁路	bai he tie lu	438
+白和线	bai he xian	439
+摆式列车	bai shi lie che	1598
+半包	ban bao	529
+版本	ban ben	3171
+版本号	ban ben hao	500
+半对	ban dui	1310
+半价票	ban jia piao	3299
+办客	ban ke	1622
+斑马	ban ma	3181
+斑马条码打印机	ban ma tiao ma da yin ji	878
+斑马制票机	ban ma zhi piao ji	877
+板票	ban piao	900
+办事处	ban shi chu	2112
+蚌水淮	bang shui huai	2172
+包白	bao bai	676
+包白铁路	bao bai tie lu	2934
+包白线	bao bai xian	2935
+包车	bao che	1138
+包车停留费	bao che ting liu fei	484
+宝成	bao cheng	1017
+宝成成渝	bao cheng cheng yu	669
+宝成成渝铁路	bao cheng cheng yu tie lu	109
+宝成成渝线	bao cheng cheng yu xian	668
+宝成铁路	bao cheng tie lu	2920
+宝成线	bao cheng xian	2921
+包段	bao duan	2998
+鲍尔	bao er	1338
+包干武	bao gan wu	1505
+包干武吐	bao gan wu tu	1504
+包裹	bao guo	1095
+包环	bao huan	675
+包环铁路	bao huan tie lu	2932
+包环线	bao huan xian	2933
+包昆	bao kun	1427
+包兰	bao lan	674
+包兰铁路	bao lan tie lu	2930
+包兰线	bao lan xian	2931
+宝漯	bao luo	2157
+宝内	bao nei	1023
+宝内六	bao nei liu	960
+包神	bao shen	673
+包神铁路	bao shen tie lu	2928
+包神铁路南段	bao shen tie lu nan duan	110
+包神线	bao shen xian	2929
+包神线南段	bao shen xian nan duan	171
+包石	bao shi	672
+包石铁路	bao shi tie lu	2926
+包石线	bao shi xian	2927
+包西	bao xi	671
+包西铁路	bao xi tie lu	2924
+包西线	bao xi xian	2925
+包西线神钟段	bao xi xian shen zhong duan	2922
+保险	bao xian	1317
+保险费	bao xian fei	1316
+包厢	bao xiang	3276
+包厢硬卧代座	bao xiang ying wo dai zuo	778
+包厢硬卧代座高速	bao xiang ying wo dai zuo gao su	2028
+包厢硬卧代座快慢	bao xiang ying wo dai zuo kuai man	2027
+包厢硬卧代座快速	bao xiang ying wo dai zuo kuai su	2032
+包厢硬卧代座普客	bao xiang ying wo dai zuo pu ke	2034
+包厢硬卧代座普快	bao xiang ying wo dai zuo pu kuai	2033
+包厢硬卧代座特快	bao xiang ying wo dai zuo te kuai	2031
+包厢硬卧代座直达	bao xiang ying wo dai zuo zhi da	2030
+包厢硬卧代座准高	bao xiang ying wo dai zuo zhun gao	2029
+包厢硬卧高速	bao xiang ying wo gao su	1758
+包厢硬卧快慢	bao xiang ying wo kuai man	1756
+包厢硬卧快速	bao xiang ying wo kuai su	1766
+包厢硬卧普客	bao xiang ying wo pu ke	1770
+包厢硬卧普快	bao xiang ying wo pu kuai	1768
+包厢硬卧特快	bao xiang ying wo te kuai	1764
+包厢硬卧直达	bao xiang ying wo zhi da	1762
+包厢硬卧准高	bao xiang ying wo zhun gao	1760
+宝徐	bao xu	1022
+包硬	bao ying	1363
+宝渝	bao yu	1019
+宝渝贵	bao yu gui	954
+宝郑	bao zheng	2236
+宝中	bao zhong	667
+宝中铁路	bao zhong tie lu	2916
+宝中线	bao zhong xian	2917
+北北尻	bei bei kao	2125
+北曹联络线	bei cao lian luo xian	2437
+北曹线	bei cao xian	2438
+备份经由	bei fen jing you	627
+备份与恢复	bei fen yu hui fu	2278
+北航	bei hang	1369
+北行	bei hang	1370
+北黑铁路	bei hei tie lu	2449
+北黑线	bei hei xian	2450
+北环铁路	bei huan tie lu	2436
+北环线	bei huan xian	2435
+北皇联络线	bei huang lian luo xian	2441
+北皇线	bei huang xian	2442
+北极的企鹅	bei ji de qi e	279
+北京南站南广场	bei jing nan zhan nan guang chang	935
+北京西站南广场	bei jing xi zhan nan guang chang	934
+北京站东	bei jing zhan dong	933
+北京站西	bei jing zhan xi	932
+北同蒲	bei tong pu	665
+北同蒲铁路	bei tong pu tie lu	108
+北同蒲线	bei tong pu xian	2912
+北洋	bei yang	3186
+北洋条码打印机	bei yang tiao ma da yin ji	886
+北洋制票机	bei yang zhi piao ji	885
+北站	bei zhan	1367
+本石	ben shi	2139
+本线除直通车外	ben xian chu zhi tong che wai	849
+本线各站	ben xian ge zhan	833
+本线里程仅限	ben xian li cheng jin xian	841
+本线里程仅限发到	ben xian li cheng jin xian fa dao	840
+崩鹏飞	beng peng fei	1546
+崩州	beng zhou	1545
+避让	bi rang	719
+变等级列车	bian deng ji lie che	1353
+变更	bian geng	1098
+变更用途	bian geng yong tu	1287
+边检	bian jian	1607
+变径	bian jing	3088
+边境	bian jing	913
+变径票	bian jing piao	3204
+变铺	bian pu	3089
+变卧	bian wo	3090
+编组场	bian zu chang	1550
+编组站	bian zu zhan	1551
+变座	bian zuo	3091
+边座	bian zuo	531
+滨北	bin bei	663
+滨北铁路	bin bei tie lu	2909
+滨北线	bin bei xian	2910
+滨北线新松浦以远	bin bei xian xin song pu yi yuan	831
+滨哈舒吉滨	bin ha shu ji bin	2201
+滨哈舒吉滨沈	bin ha shu ji bin shen	2200
+滨绥	bin sui	662
+滨绥铁路	bin sui tie lu	2907
+滨绥线	bin sui xian	2908
+滨绥线新香坊以远	bin sui xian xin xiang fang yi yuan	827
+滨洲	bin zhou	661
+滨洲铁路	bin zhou tie lu	2905
+滨洲线	bin zhou xian	2906
+波比	bo bi	457
+波波	bo bo	455
+渤海轮渡	bo hai lun du	2470
+博林铁路	bo lin tie lu	2897
+博林线	bo lin xian	2898
+波鹏飞	bo peng fei	1542
+勃七铁路	bo qi tie lu	2901
+勃七线	bo qi xian	2902
+博山铁路	bo shan tie lu	2895
+博山线	bo shan xian	2896
+不办理该站	bu ban li gai zhan	861
+不对号	bu dui hao	1276
+部分经由	bu fen jing you	628
+不符	bu fu	3092
+部级经由	bu ji jing you	391
+补价	bu jia	1127
+补剪	bu jian	1129
+补检	bu jian	1130
+不结账退出	bu jie zhang tui chu	1107
+不可售票	bu ke shou piao	3166
+不可售通票	bu ke shou tong piao	1301
+补空调	bu kong tiao	1164
+不买通	bu mai tong	570
+补票费	bu piao fei	1131
+补签	bu qian	1128
+不是接算站	bu shi jie suan zhan	402
+不收	bu shou	3086
+补卧票	bu wo piao	3291
+不与	bu yu	848
+不与他线办理直通业务	bu yu ta xian ban li zhi tong ye wu	847
+财收	cai shou	1106
+财收二	cai shou er	740
+财收二十二	cai shou er shi er	737
+财收三	cai shou san	739
+财收四	cai shou si	738
+财收一	cai shou yi	741
+餐车	can che	3042
+残票	can piao	3296
+餐座	can zuo	2090
+仓仓	cang cang	1394
+曹妃甸	cao fei dian	1389
+曹山	cao shan	1387
+柴油发电机	chai you fa dian ji	1331
+长白山	chang bai shan	2945
+长白山号	chang bai shan hao	1611
+长白铁路	chang bai tie lu	2893
+长白线	chang bai xian	2894
+昌包	chang bao	1428
+昌包昆	chang bao kun	1425
+常备客票	chang bei ke piao	3208
+长滨铁路	chang bin tie lu	2423
+长滨线	chang bin xian	2424
+昌赤	chang chi	1433
+昌大	chang da	1430
+长段	chang duan	3011
+长哈	chang ha	1461
+昌集	chang ji	1429
+长吉城际铁路	chang ji cheng ji tie lu	106
+长吉城际线	chang ji cheng ji xian	169
+常见经由	chang jian jing you	2264
+长捡委	chang jian wei	379
+长江大桥	chang jiang da qiao	1036
+长江二桥	chang jiang er qiao	1035
+长江铁路网	chang jiang tie lu wang	383
+长江网	chang jiang wang	382
+长荆铁路	chang jing tie lu	2891
+长荆线	chang jing xian	2892
+昌九城际铁路	chang jiu cheng ji tie lu	107
+昌九城际线	chang jiu cheng ji xian	170
+长客	chang ke	1335
+昌隆	chang long	1434
+昌沙	chang sha	1431
+长沈	chang shen	1465
+昌通	chang tong	1432
+长图铁路	chang tu tie lu	2889
+长图线	chang tu xian	2890
+长阳村线路所	chang yang cun xian lu suo	1043
+长阳线路所	chang yang xian lu suo	1044
+朝开	chao kai	259
+朝开铁路	chao kai tie lu	2887
+朝开线	chao kai xian	2888
+朝乌铁路	chao wu tie lu	2885
+朝乌线	chao wu xian	2886
+超员率	chao yuan lv	488
+车次	che ci	3069
+车次不符	che ci bu fu	1627
+车次加价	che ci jia jia	3104
+车次加锁	che ci jia suo	498
+车次解锁	che ci jie suo	3168
+车次取消限售	che ci qu xiao xian shou	501
+车次小字典	che ci xiao zi dian	732
+车次余票查询	che ci yu piao cha xun	3217
+车次预售时间未到	che ci yu shou shi jian wei dao	3165
+车机联控	che ji lian kong	686
+车辆段	che liang duan	2951
+车票	che piao	3350
+车票拾捡委员会	che piao shi jian wei yuan hui	381
+车票作废	che piao zuo fei	3214
+车上层	che shang ceng	2105
+车体	che ti	3051
+车体套跑	che ti tao pao	469
+车体套用	che ti tao yong	3060
+车务段	che wu duan	2955
+车厢	che xiang	3252
+车载	che zai	3178
+车载移动补票设备	che zai yi dong bu piao she bei	876
+车站	che zhan	3230
+车站代码	che zhan dai ma	618
+车站工作人员	che zhan gong zuo ren yuan	1340
+车站经由	che zhan jing you	389
+车站小字典	che zhan xiao zi dian	731
+成宝	cheng bao	1018
+乘车人数通知单	cheng che ren shu tong zhi dan	3169
+乘车条件	cheng che tiao jian	1103
+乘车站	cheng che zhan	3321
+乘车站与终到站同城	cheng che zhan yu zhong dao zhan tong cheng	1302
+成段	cheng duan	2988
+成高子方向各站	cheng gao zi fang xiang ge zhan	826
+成灌铁路	cheng guan tie lu	436
+成灌线	cheng guan xian	437
+城际	cheng ji	3394
+城鸡铁路	cheng ji tie lu	2881
+城际下行联络线	cheng ji xia xing lian luo xian	655
+城鸡线	cheng ji xian	2882
+乘降所	cheng jiang suo	3079
+承京	cheng jing	1489
+承京南	cheng jing nan	2176
+成局	cheng ju	2989
+成昆铁路	cheng kun tie lu	2883
+成昆线	cheng kun xian	2884
+承隆	cheng long	2178
+承隆铁路	cheng long tie lu	2388
+承隆线	cheng long xian	2389
+乘务套跑	cheng wu tao pao	468
+乘务套用	cheng wu tao yong	467
+乘务员	cheng wu yuan	1342
+城下联	cheng xia lian	656
+承义	cheng yi	2181
+成渝	cheng yu	670
+成渝贵	cheng yu gui	955
+成渝铁路	cheng yu tie lu	2918
+成渝线	cheng yu xian	2919
+承运人	cheng yun ren	528
+城站	cheng zhan	1368
+城庄铁路	cheng zhuang tie lu	2390
+城庄线	cheng zhuang xian	2391
+重联	chong lian	1053
+抽屉	chou ti	1086
+抽屉票	chou ti piao	1085
+初始化	chu shi hua	3191
+川黔铁路	chuan qian tie lu	2879
+川黔线	chuan qian xian	2880
+窗口定义	chuang kou ding yi	1115
+窗口监控	chuang kou jian kong	1114
+床头灯	chuang tou deng	700
+春上黄	chun shang huang	2235
+春运	chun yun	2109
+磁记录	ci ji lu	875
+磁记录热敏打印机	ci ji lu re min da yin ji	3177
+磁介质车票	ci jie zhi che piao	3194
+磁介质客票	ci jie zhi ke piao	3193
+磁介质票	ci jie zhi piao	3195
+磁莱铁路	ci lai tie lu	2877
+磁莱线	ci lai xian	2878
+崔砦	cui zhai	1
+大白猫	da bai mao	1344
+大白猪	da bai zhu	1345
+大包昆	da bao kun	1423
+达成铁路	da cheng tie lu	2875
+达成线	da cheng xian	2876
+大带小	da dai xiao	705
+大耳肥土	da er fei tu	291
+大理北铁路	da li bei tie lu	105
+大理北线	da li bei xian	168
+大秦铁路	da qin tie lu	2364
+大秦线	da qin xian	2363
+大瑞铁路	da rui tie lu	2405
+大瑞铁路大理段	da rui tie lu da li duan	104
+大瑞线	da rui xian	2406
+大瑞线大理段	da rui xian da li duan	167
+大台支线	da tai zhi xian	2331
+达万铁路	da wan tie lu	2871
+达万线	da wan xian	2872
+大站带小站	da zhan dai xiao zhan	704
+大郑铁路	da zheng tie lu	2869
+大郑线	da zheng xian	2870
+大准铁路	da zhun tie lu	2362
+大准线	da zhun xian	2361
+待避	dai bi	720
+代售	dai shou	3076
+代售处	dai shou chu	703
+代售点	dai shou dian	3077
+代用票	dai yong piao	3197
+代座	dai zuo	3111
+担当乘务	dan dang cheng wu	1304
+单日	dan ri	566
+单日反编组运行	dan ri fan bian zu yun xing	556
+单日开行	dan ri kai xing	559
+单日停运	dan ri ting yun	557
+单卧票	dan wo piao	3297
+单卧小孩票	dan wo xiao hai piao	3298
+单线	dan xian	1032
+党济	dang ji	2252
+党桥	dang qiao	2253
+党桥津津	dang qiao jin jin	1440
+党桥津津狼	dang qiao jin jin lang	1441
+当日当次车有效	dang ri dang ci che you xiao	1155
+当日使用一次有效	dang ri shi yong yi ci you xiao	1154
+道岔	dao cha	1602
+导出经由	dao chu jing you	623
+导入经由	dao ru jing you	624
+到站	dao zhan	3313
+到站列表	dao zhan lie biao	1315
+到站已封	dao zhan yi feng	856
+到站余票查询	dao zhan yu piao cha xun	3218
+德衡	de heng	2245
+的经由	de jing you	357
+德天铁路	de tian tie lu	2867
+德天线	de tian xian	2868
+灯泡线	deng pao xian	1027
+地方铁路	di fang tie lu	2265
+滴抚	di fu	2167
+滴抚线	di fu xian	2843
+地区码	di qu ma	619
+地区中心	di qu zhong xin	3237
+地区中心出错	di qu zhong xin chu cuo	3167
+地铁	di tie	1509
+地下龙肉	di xia long rou	267
+电报	dian bao	539
+电报码	dian bao ma	3224
+电猴	dian hou	1562
+电话订票	dian hua ding piao	3
+电力机车	dian li ji che	1593
+滇越	dian yue	251
+滇越铁路	dian yue tie lu	249
+滇越线	dian yue xian	250
+调度	diao du	1555
+调度楼	diao du lou	1554
+调度命令	diao du ming ling	507
+调度室	diao du shi	689
+调度员	diao du yuan	688
+刁家段	diao jia duan	1395
+刁亮	diao liang	281
+刁亮没	diao liang mei	280
+定额客票	ding e ke piao	3199
+定额票	ding e piao	3198
+定银铁路	ding yin tie lu	103
+定银线	ding yin xian	166
+东北环线	dong bei huan xian	2379
+东边道	dong bian dao	374
+动残	dong can	2091
+动车组	dong che zu	3395
+动车组变等	dong che zu bian deng	3085
+动车组餐座	dong che zu can zuo	2074
+动车组车票	dong che zu che piao	3348
+动车组到底	dong che zu dao di	3322
+动车组动车	dong che zu dong che	3025
+动车组二等座	dong che zu er deng zuo	2083
+动车组高级软卧	dong che zu gao ji ruan wo	2078
+动车组软卧	dong che zu ruan wo	2079
+动车组软卧代二等座	dong che zu ruan wo dai er deng zuo	2076
+动车组软卧代一等座	dong che zu ruan wo dai yi deng zuo	2075
+动车组软卧代座	dong che zu ruan wo dai zuo	2077
+动车组特等座	dong che zu te deng zuo	2082
+动车组拖车	dong che zu tuo che	3024
+动车组一等座	dong che zu yi deng zuo	2084
+东风	dong feng	1589
+东南沿海优质大巴	dong nan yan hai you zhi da ba	375
+东清铁路	dong qing tie lu	2308
+动卧	dong wo	2081
+动芯道岔	dong xin dao cha	1600
+东芝	dong zhi	3185
+东芝泰格	dong zhi tai ge	3184
+东芝泰格条码打印机	dong zhi tai ge tiao ma da yin ji	884
+东芝泰格制票机	dong zhi tai ge zhi piao ji	883
+都按	dou an	832
+渡口铁路	du kou tie lu	2865
+渡口线	du kou xian	2866
+短途卧铺	duan tu wo pu	2088
+短途卧铺票价优惠办法	duan tu wo pu piao jia you hui ban fa	1059
+短途卧铺优惠	duan tu wo pu you hui	1282
+短途优惠卧铺	duan tu you hui wo pu	491
+对号	dui hao	1277
+敦煌铁路	dun huang tie lu	2863
+敦煌线	dun huang xian	2864
+多退少补	duo tui shao bu	3139
+峨嵋	e mei	942
+峨眉	e mei	944
+峨眉山	e mei shan	943
+二档折扣	er dang zhe kou	3126
+二等	er deng	3268
+二等软座车	er deng ruan zuo che	3046
+二等座餐车	er deng zuo can che	3027
+二等座车	er deng zuo che	3028
+二等座无座	er deng zuo wu zuo	928
+耳朵眼炸糕	er duo yan zha gao	1520
+二类包裹	er lei bao guo	1093
+二猫	er mao	1541
+二人软包	er ren ruan bao	3271
+二维码	er wei ma	3188
+法国橙	fa guo cheng	463
+发售通票	fa shou tong piao	1303
+发站	fa zhan	3318
+发站已封	fa zhan yi feng	857
+反编组运行	fan bian zu yun xing	561
+饭局	fan ju	1537
+范围	fan wei	3239
+房山线	fang shan xian	2395
+方位	fang wei	338
+方位码	fang wei ma	620
+方向牌	fang xiang pai	3356
+飞狐	fei hu	270
+飞狐兄	fei hu xiong	269
+非接算站	fei jie suan zhan	609
+分段	fen duan	3107
+分段计价	fen duan ji jia	1170
+分段计算	fen duan ji suan	1349
+分局	fen ju	2113
+分局接口	fen ju jie kou	606
+分票种票价	fen piao zhong piao jia	3158
+分歧站	fen qi zhan	1623
+分散动力	fen san dong li	1531
+逢单日开行	feng dan ri kai xing	558
+峰福	feng fu	654
+峰福铁路	feng fu tie lu	2859
+峰福线	feng fu xian	2860
+丰广	feng guang	659
+丰广联	feng guang lian	2400
+丰广联络线	feng guang lian luo xian	2399
+丰广铁路	feng guang tie lu	102
+丰广线	feng guang xian	2401
+奉海铁路	feng hai tie lu	2318
+奉海线	feng hai xian	2317
+封黄	feng huang	2233
+丰京	feng jing	1490
+丰沙	feng sha	2188
+丰沙铁路	feng sha tie lu	2861
+丰沙线	feng sha xian	2862
+奉山铁路	feng shan tie lu	2315
+奉山线	feng shan xian	2316
+凤上	feng shang	651
+凤上铁路	feng shang tie lu	2853
+凤上线	feng shang xian	2854
+逢双日开行	feng shuang ri kai xing	554
+丰双铁路	feng shuang tie lu	2332
+丰双线	feng shuang xian	2333
+丰原	feng yuan	1493
+封站	feng zhan	858
+封装号	feng zhuang hao	3170
+封装日期	feng zhuang ri qi	499
+腐败吴	fu bai wu	2122
+福段	fu duan	2962
+抚抚联络线	fu fu lian luo xian	2844
+抚抚线	fu fu xian	2845
+阜淮铁路	fu huai tie lu	2841
+阜淮线	fu huai xian	2842
+抚吉	fu ji	1469
+抚吉图	fu ji tu	1468
+符夹	fu jia	650
+附加费	fu jia fei	3148
+附加票	fu jia piao	3149
+符夹铁路	fu jia tie lu	2851
+符夹线	fu jia xian	2852
+复件	fu jian	542
+附件	fu jian	541
+福连铁路	fu lian tie lu	101
+福连线	fu lian xian	165
+福马铁路	fu ma tie lu	2849
+福马线	fu ma xian	2850
+抚梅	fu mei	1472
+福前铁路	fu qian tie lu	2443
+福前线	fu qian xian	2444
+赋权	fu quan	617
+抚沈	fu shen	1453
+抚沈海沟山	fu shen hai gou shan	1450
+抚沈皇	fu shen huang	1451
+复式道岔	fu shi dao cha	1601
+抚顺城	fu shun cheng	1364
+抚顺铁路	fu shun tie lu	100
+抚顺线	fu shun xian	2848
+富西铁路	fu xi tie lu	2803
+富西线	fu xi xian	2840
+复线	fu xian	1031
+复用	fu yong	3222
+改签	gai qian	3341
+赣龙铁路	gan long tie lu	2800
+赣龙线	gan long xian	2837
+甘南铁路	gan nan tie lu	2324
+甘南线	gan nan xian	2325
+干武铁路	gan wu tie lu	2801
+干武吐	gan wu tu	1503
+干武线	gan wu xian	2838
+甘钟铁路	gan zhong tie lu	99
+甘钟线	gan zhong xian	164
+高包	gao bao	1362
+高茶联络线	gao cha lian luo xian	2322
+高茶线	gao cha xian	2323
+高等级软座快速列车	gao deng ji ruan zuo kuai su lie che	1168
+高级	gao ji	3275
+高级软卧代座	gao ji ruan wo dai zuo	777
+高级软卧代座高速	gao ji ruan wo dai zuo gao su	2020
+高级软卧代座快慢	gao ji ruan wo dai zuo kuai man	2019
+高级软卧代座快速	gao ji ruan wo dai zuo kuai su	2024
+高级软卧代座普客	gao ji ruan wo dai zuo pu ke	2026
+高级软卧代座普快	gao ji ruan wo dai zuo pu kuai	2025
+高级软卧代座特快	gao ji ruan wo dai zuo te kuai	2023
+高级软卧代座直达	gao ji ruan wo dai zuo zhi da	2022
+高级软卧代座准高	gao ji ruan wo dai zuo zhun gao	2021
+高级软卧高速	gao ji ruan wo gao su	1757
+高级软卧快慢	gao ji ruan wo kuai man	1755
+高级软卧快速	gao ji ruan wo kuai su	1765
+高级软卧普客	gao ji ruan wo pu ke	1769
+高级软卧普快	gao ji ruan wo pu kuai	1767
+高级软卧特快	gao ji ruan wo te kuai	1763
+高级软卧直达	gao ji ruan wo zhi da	1761
+高级软卧准高	gao ji ruan wo zhun gao	1759
+高秦	gao qin	1422
+高秦沈	gao qin shen	1421
+高软	gao ruan	1361
+高速	gao su	3393
+高速加快票	gao su jia kuai piao	3150
+高速列车	gao su lie che	3357
+高新铁路	gao xin tie lu	2799
+高新线	gao xin xian	2836
+膏药票	gao yao piao	920
+高站台	gao zhan tai	3071
+格拉段	ge la duan	2696
+隔离车	ge li che	3035
+隔日	ge ri	567
+隔日反编组运行	ge ri fan bian zu yun xing	560
+隔日共线	ge ri gong xian	551
+隔日开行	ge ri kai xing	564
+隔日停运	ge ri ting yun	562
+隔日运行	ge ri yun xing	563
+各站间相互发售	ge zhan jian xiang hu fa shou	850
+给土土去势	gei tu tu qu shi	288
+公布票价	gong bu piao jia	1321
+供电	gong dian	1559
+供电段	gong dian duan	2952
+供电型	gong dian xing	1558
+公免票	gong mian piao	3302
+公免签证	gong mian qian zheng	1149
+公铁两用桥	gong tie liang yong qiao	1033
+工务	gong wu	2115
+公务车	gong wu che	3041
+共线	gong xian	550
+共线运行	gong xian yun xing	549
+公用	gong yong	3250
+共用	gong yong	3223
+狗不理包子	gou bu li bao zi	1519
+沟海	gou hai	2145
+沟海铁路	gou hai tie lu	2798
+沟海线	gou hai xian	2835
+购票站	gou piao zhan	923
+鼓楼	gu lou	1516
+管客	guan ke	3368
+管快	guan kuai	3369
+管快速	guan kuai su	3370
+管理监控	guan li jian kong	505
+关联	guan lian	3228
+关联用途	guan lian yong tu	497
+管内	guan nei	3380
+管内临客	guan nei lin ke	1306
+管特	guan te	3372
+管特快	guan te kuai	3371
+广大铁路	guang da tie lu	2797
+广大线	guang da xian	2834
+广九铁路	guang jiu tie lu	2796
+广九铁路九龙段	guang jiu tie lu jiu long duan	98
+广九线	guang jiu xian	2833
+广九线九龙段	guang jiu xian jiu long duan	163
+广九直通车	guang jiu zhi tong che	1610
+广丽铁路	guang li tie lu	2403
+广丽线	guang li xian	2404
+广茂铁路	guang mao tie lu	97
+广茂线	guang mao xian	162
+广梅汕	guang mei shan	2958
+广坪段	guang ping duan	2793
+广普铁路	guang pu tie lu	2795
+广普线	guang pu xian	2832
+广三铁路	guang san tie lu	2794
+广三线	guang san xian	2831
+广深地区	guang shen di qu	476
+广深地区联合站	guang shen di qu lian he zhan	475
+广铁集团	guang tie ji tuan	2959
+广岳铁路	guang yue tie lu	2792
+广岳线	guang yue xian	2829
+广珠城际铁路	guang zhu cheng ji tie lu	96
+广珠城际线	guang zhu cheng ji xian	161
+贵段	gui duan	2986
+贵昆铁路	gui kun tie lu	2409
+贵昆线	gui kun xian	2410
+贵渝	gui yu	959
+贵渝宝	gui yu bao	957
+贵渝成	gui yu cheng	956
+郭查铁路	guo cha tie lu	2791
+郭查线	guo cha xian	2828
+过道	guo dao	806
+过点退票	guo dian tui piao	1077
+过轨运输	guo gui yun shu	3108
+国际	guo ji	915
+国际联运	guo ji lian yun	3068
+国内回转车	guo nei hui zhuan che	3033
+过期	guo qi	1161
+虢镇	guo zhen	1412
+哈长	ha chang	1460
+哈大客运专线	ha da ke yun zhuan xian	2304
+哈大铁路	ha da tie lu	2302
+哈大线	ha da xian	2303
+哈段	ha duan	3006
+哈尔滨站的里程计算	ha er bin zhan de li cheng ji suan	822
+哈哈哈哈哈	ha ha ha ha ha	2202
+哈环铁路	ha huan tie lu	2790
+哈环线	ha huan xian	2827
+哈佳	ha jia	660
+哈佳铁路	ha jia tie lu	2903
+哈佳线	ha jia xian	2904
+哈局	ha ju	3007
+哈齐铁路	ha qi tie lu	2802
+哈齐线	ha qi xian	2839
+哈三	ha san	710
+哈三地区	ha san di qu	709
+哈三地区联合站	ha san di qu lian he zhan	708
+哈三联合站	ha san lian he zhan	3078
+哈沈	ha shen	1462
+哈舒吉滨沈	ha shu ji bin shen	2199
+海沟	hai gou	2146
+海沟山	hai gou shan	1449
+海南东环铁路	hai nan dong huan tie lu	95
+海南东环线	hai nan dong huan xian	160
+海南西环铁路	hai nan xi huan tie lu	2789
+海南西环线	hai nan xi huan xian	2826
+孩票	hai piao	3306
+海网	hai wang	384
+海五盘秦狼	hai wu pan qin lang	2224
+海之情	hai zhi qing	1529
+海子	hai zi	386
+海子铁路网	hai zi tie lu wang	945
+海子网	hai zi wang	385
+邯长铁路	han chang tie lu	2788
+邯长线	han chang xian	2825
+汉丹铁路	han dan tie lu	2784
+汉丹线	han dan xian	2821
+邯济铁路	han ji tie lu	2787
+邯济铁路聊晏段	han ji tie lu liao yan duan	2785
+邯济线	han ji xian	2824
+邯济线聊晏段	han ji xian liao yan duan	2822
+汉卡	han ka	919
+汉南铁路	han nan tie lu	2433
+汉南线	han nan xian	2434
+杭段	hang duan	2967
+杭笕沪	hang jian hu	2242
+杭深线	hang shen xian	430
+杭甬铁路	hang yong tie lu	2783
+杭甬线	hang yong xian	2820
+杭州铁路	hang zhou tie lu	94
+杭州线	hang zhou xian	2819
+好的经由	hao de jing you	324
+好人好事	hao ren hao shi	922
+号上铺	hao shang pu	2104
+号下铺	hao xia pu	2102
+号中铺	hao zhong pu	2103
+合段	he duan	2968
+菏二埋汰	he er mai tai	691
+鹤岗铁路	he gang tie lu	93
+鹤岗线	he gang xian	159
+合九铁路	he jiu tie lu	2782
+合九线	he jiu xian	2818
+和龙铁路	he long tie lu	2445
+和龙线	he long xian	2446
+河茂铁路	he mao tie lu	2781
+河茂线	he mao xian	2817
+河南烩面	he nan hui mian	440
+合宁铁路	he ning tie lu	2354
+合宁线	he ning xian	2355
+核收	he shou	1347
+合同制票	he tong zhi piao	3352
+合武铁路	he wu tie lu	2351
+合武线	he wu xian	2352
+和谐长城号	he xie chang cheng hao	1346
+和谐电	he xie dian	1595
+和谐号	he xie hao	1597
+和谐号电力机车	he xie hao dian li ji che	1594
+和谐号动车组	he xie hao dong che zu	1596
+和谐号内燃机车	he xie hao nei ran ji che	1591
+和谐内	he xie nei	1592
+合造车	he zao che	3036
+黑局黑段	hei ju hei duan	3001
+狠猪	hen zhu	684
+衡德	heng de	2244
+亨德罗	heng de luo	362
+哼哼	heng heng	1536
+哼哼小宝贝	heng heng xiao bao bei	1535
+横麻	heng ma	2171
+横麻霸津	heng ma ba jin	1448
+横麻联络线	heng ma lian luo xian	2779
+横麻庐	heng ma lu	984
+横麻铁路	heng ma tie lu	2780
+横麻线	heng ma xian	2816
+横南	heng nan	653
+横南铁路	heng nan tie lu	2857
+横南线	heng nan xian	2858
+恒山铁路	heng shan tie lu	2899
+恒山线	heng shan xian	2900
+衡石	heng shi	1012
+衡石获	heng shi huo	1011
+衡石获太	heng shi huo tai	1010
+衡石郑西安	heng shi zheng xi an	971
+衡永	heng yong	2156
+虹安铁路	hong an tie lu	92
+虹安线	hong an xian	158
+虹封铁路	hong feng tie lu	91
+虹封线	hong feng xian	157
+红哈	hong ha	2132
+红会铁路	hong hui tie lu	2778
+红会线	hong hui xian	2815
+红齐昂	hong qi ang	2135
+红旗车	hong qi che	309
+红旗列车	hong qi lie che	308
+虹七铁路	hong qi tie lu	90
+虹七线	hong qi xian	156
+红色底纹	hong se di wen	890
+红色旅游票	hong se lv you piao	3287
+红滠铁路	hong she tie lu	2348
+红滠线	hong she xian	2349
+红榆昂	hong yu ang	2136
+候车地点	hou che di dian	3319
+候车空调费	hou che kong tiao fei	3145
+后广场	hou guang chang	936
+侯西铁路	hou xi tie lu	2777
+侯西线	hou xi xian	2814
+侯月铁路	hou yue tie lu	2776
+侯月线	hou yue xian	2813
+侯张临	hou zhang lin	965
+呼段	hu duan	2999
+沪港直通车	hu gang zhi tong che	1608
+沪汉铁路	hu han tie lu	2356
+沪汉线	hu han xian	2357
+沪汉线合宁段	hu han xian he ning duan	2353
+沪汉线合武段	hu han xian he wu duan	2350
+沪杭铁路	hu hang tie lu	2415
+沪杭线	hu hang xian	2416
+沪笕杭	hu jian hang	2243
+胡靖华	hu jing hua	278
+呼局	hu ju	3000
+沪昆高速铁路沪杭段	hu kun gao su tie lu hu hang duan	89
+沪昆高速线沪杭段	hu kun gao su xian hu hang duan	155
+沪昆铁路	hu kun tie lu	2775
+沪昆线	hu kun xian	2812
+沪宁高速铁路	hu ning gao su tie lu	88
+沪宁高速线	hu ning gao su xian	154
+沪宁铁路	hu ning tie lu	2417
+沪宁线	hu ning xian	2418
+沪深铁路甬厦段	hu shen tie lu yong sha duan	87
+沪深线	hu shen xian	435
+沪深线甬连段	hu shen xian yong lian duan	434
+沪深线甬厦段	hu shen xian yong sha duan	433
+沪穗港	hu sui gang	3246
+沪通铁路	hu tong tie lu	2456
+沪通线	hu tong xian	2457
+虎头猫	hu tou mao	262
+沪新	hu xin	208
+沪新线	hu xin xian	2611
+胡雅杰	hu ya jie	274
+华宝	hua bao	2161
+华云楼	hua yun lou	444
+华云楼烧麦馆	hua yun lou shao mai guan	441
+怀范线	huai fan xian	2321
+怀怀	huai huai	2179
+怀怀京	huai huai jing	1009
+怀怀京京	huai huai jing jing	1007
+怀怀京京霸	huai huai jing jing ba	1003
+怀怀京京良	huai huai jing jing liang	1005
+怀怀京南	huai huai jing nan	1001
+怀京	huai jing	1008
+怀京京	huai jing jing	1006
+怀京京霸	huai jing jing ba	1002
+怀京京良	huai jing jing liang	1004
+怀京南	huai jing nan	1000
+怀京沙	huai jing sha	999
+淮南铁路	huai nan tie lu	2774
+淮南线	huai nan xian	2811
+坏人坏事	huai ren huai shi	921
+怀柔北铁路	huai rou bei tie lu	86
+怀柔北线	huai rou bei xian	153
+换车站	huan che zhan	3314
+换乘	huan cheng	306
+换乘次数最少	huan cheng ci shu zui shao	814
+换乘站	huan cheng zhan	3315
+换发新票	huan fa xin piao	1071
+换票	huan piao	1120
+还原原票	huan yuan yuan piao	525
+还原原票信息	huan yuan yuan piao xin xi	523
+黄封	huang feng	2234
+黄封笕	huang feng jian	2238
+黄封联络线	huang feng lian luo xian	1507
+皇姑屯铁路	huang gu tun tie lu	85
+皇姑屯线	huang gu tun xian	2810
+黄河大桥	huang he da qiao	1034
+黄京	huang jing	2190
+黄京京良	huang jing jing liang	2189
+黄良铁路	huang liang tie lu	2334
+黄良线	huang liang xian	2335
+潢临	huang lin	973
+黄南铁路	huang nan tie lu	2773
+黄南线	huang nan xian	2809
+皇沈	huang shen	2230
+皇沈梅通白	huang shen mei tong bai	589
+皇沈山	huang shen shan	2226
+黄石东铁路	huang shi dong tie lu	84
+黄石东线	huang shi dong xian	2544
+黄万铁路	huang wan tie lu	2340
+黄万线	huang wan xian	2341
+潢西	huang xi	972
+黄翔铁路	huang xiang tie lu	83
+黄翔线	huang xiang xian	152
+潢信	huang xin	981
+汇聚点	hui ju dian	5
+会让	hui rang	718
+回头票	hui tou piao	1083
+回转车	hui zhuan che	3034
+浑白铁路	hun bai tie lu	2772
+浑白线	hun bai xian	2808
+混编	hun bian	3274
+混编包厢硬卧	hun bian bao xiang ying wo	771
+混编包厢硬卧高速	hun bian bao xiang ying wo gao su	1238
+混编包厢硬卧快慢	hun bian bao xiang ying wo kuai man	1236
+混编包厢硬卧快速	hun bian bao xiang ying wo kuai su	1246
+混编包厢硬卧普客	hun bian bao xiang ying wo pu ke	1250
+混编包厢硬卧普快	hun bian bao xiang ying wo pu kuai	1248
+混编包厢硬卧特快	hun bian bao xiang ying wo te kuai	1244
+混编包厢硬卧直达	hun bian bao xiang ying wo zhi da	1242
+混编包厢硬卧准高	hun bian bao xiang ying wo zhun gao	1240
+混编高级软卧	hun bian gao ji ruan wo	770
+混编高级软卧高速	hun bian gao ji ruan wo gao su	1237
+混编高级软卧快慢	hun bian gao ji ruan wo kuai man	1235
+混编高级软卧快速	hun bian gao ji ruan wo kuai su	1245
+混编高级软卧普客	hun bian gao ji ruan wo pu ke	1249
+混编高级软卧普快	hun bian gao ji ruan wo pu kuai	1247
+混编高级软卧特快	hun bian gao ji ruan wo te kuai	1243
+混编高级软卧直达	hun bian gao ji ruan wo zhi da	1241
+混编高级软卧准高	hun bian gao ji ruan wo zhun gao	1239
+混编软卧	hun bian ruan wo	772
+混编软卧代座高速	hun bian ruan wo dai zuo gao su	1189
+混编软卧代座快慢	hun bian ruan wo dai zuo kuai man	1187
+混编软卧代座快速	hun bian ruan wo dai zuo kuai su	1197
+混编软卧代座普客	hun bian ruan wo dai zuo pu ke	1201
+混编软卧代座普快	hun bian ruan wo dai zuo pu kuai	1199
+混编软卧代座特快	hun bian ruan wo dai zuo te kuai	1195
+混编软卧代座直达	hun bian ruan wo dai zuo zhi da	1193
+混编软卧代座准高	hun bian ruan wo dai zuo zhun gao	1191
+混编软座	hun bian ruan zuo	774
+混编软座高速	hun bian ruan zuo gao su	1205
+混编软座高速卧	hun bian ruan zuo gao su wo	1221
+混编软座快慢	hun bian ruan zuo kuai man	1203
+混编软座快慢卧	hun bian ruan zuo kuai man wo	1219
+混编软座快速	hun bian ruan zuo kuai su	1213
+混编软座快速卧	hun bian ruan zuo kuai su wo	1229
+混编软座普客	hun bian ruan zuo pu ke	1217
+混编软座普客卧	hun bian ruan zuo pu ke wo	1233
+混编软座普快	hun bian ruan zuo pu kuai	1215
+混编软座普快卧	hun bian ruan zuo pu kuai wo	1231
+混编软座特快	hun bian ruan zuo te kuai	1211
+混编软座特快卧	hun bian ruan zuo te kuai wo	1227
+混编软座直达	hun bian ruan zuo zhi da	1209
+混编软座直达卧	hun bian ruan zuo zhi da wo	1225
+混编软座准高	hun bian ruan zuo zhun gao	1207
+混编软座准高卧	hun bian ruan zuo zhun gao wo	1223
+混编一人软包高速	hun bian yi ren ruan bao gao su	1252
+混编一人软包快慢	hun bian yi ren ruan bao kuai man	1251
+混编一人软包快速	hun bian yi ren ruan bao kuai su	1256
+混编一人软包普客	hun bian yi ren ruan bao pu ke	1258
+混编一人软包普快	hun bian yi ren ruan bao pu kuai	1257
+混编一人软包特快	hun bian yi ren ruan bao te kuai	1255
+混编一人软包直达	hun bian yi ren ruan bao zhi da	1254
+混编一人软包准高	hun bian yi ren ruan bao zhun gao	1253
+混编硬卧	hun bian ying wo	773
+混编硬卧代座高速	hun bian ying wo dai zuo gao su	1190
+混编硬卧代座快慢	hun bian ying wo dai zuo kuai man	1188
+混编硬卧代座快速	hun bian ying wo dai zuo kuai su	1198
+混编硬卧代座普客	hun bian ying wo dai zuo pu ke	1202
+混编硬卧代座普快	hun bian ying wo dai zuo pu kuai	1200
+混编硬卧代座特快	hun bian ying wo dai zuo te kuai	1196
+混编硬卧代座直达	hun bian ying wo dai zuo zhi da	1194
+混编硬卧代座准高	hun bian ying wo dai zuo zhun gao	1192
+混编硬座	hun bian ying zuo	775
+混编硬座高速	hun bian ying zuo gao su	1206
+混编硬座高速卧	hun bian ying zuo gao su wo	1222
+混编硬座快慢	hun bian ying zuo kuai man	1204
+混编硬座快慢卧	hun bian ying zuo kuai man wo	1220
+混编硬座快速	hun bian ying zuo kuai su	1214
+混编硬座快速卧	hun bian ying zuo kuai su wo	1230
+混编硬座普客	hun bian ying zuo pu ke	1218
+混编硬座普客卧	hun bian ying zuo pu ke wo	1234
+混编硬座普快	hun bian ying zuo pu kuai	1216
+混编硬座普快卧	hun bian ying zuo pu kuai wo	1232
+混编硬座特快	hun bian ying zuo te kuai	1212
+混编硬座特快卧	hun bian ying zuo te kuai wo	1228
+混编硬座直达	hun bian ying zuo zhi da	1210
+混编硬座直达卧	hun bian ying zuo zhi da wo	1226
+混编硬座准高	hun bian ying zuo zhun gao	1208
+混编硬座准高卧	hun bian ying zuo zhun gao wo	1224
+浑榆联络线	hun yu lian luo xian	2326
+浑榆线	hun yu xian	2327
+货机	huo ji	1563
+火龙沟铁路	huo long gou tie lu	82
+火龙沟线	huo long gou xian	2807
+获石	huo shi	2263
+获石衡	huo shi heng	1015
+获太	huo tai	2262
+获太段	huo tai duan	2588
+货运	huo yun	2269
+货运里程表	huo yun li cheng biao	2116
+吉安	ji an	1386
+集安	ji an	1385
+机北烩面	ji bei hui mian	2941
+基本计划	ji ben ji hua	515
+基本计划编制	ji ben ji hua bian zhi	513
+集便	ji bian	3056
+集便器	ji bian qi	3055
+机车供电	ji che gong dian	1328
+继乘	ji cheng	307
+济崔铁路	ji cui tie lu	80
+济崔线	ji cui xian	151
+济党	ji dang	2250
+机动	ji dong	3249
+机动用途	ji dong yong tu	918
+吉段	ji duan	3010
+济段	ji duan	2976
+集二铁路	ji er tie lu	2766
+集二线	ji er xian	2767
+计费经由	ji fei jing you	1299
+蓟港铁路	ji gang tie lu	2342
+蓟港线	ji gang xian	2343
+机供	ji gong	1327
+计划	ji hua	1352
+计划编制	ji hua bian zhi	514
+计划管理	ji hua guan li	516
+计划室	ji hua shi	1351
+吉吉	ji ji	2191
+吉井铁路	ji jing tie lu	2771
+吉井线	ji jing xian	2806
+济局	ji ju	2977
+吉兰泰铁路	ji lan tai tie lu	81
+吉兰泰线	ji lan tai xian	2805
+济南铁路	ji nan tie lu	78
+济南西铁路	ji nan xi tie lu	79
+济南西线	ji nan xi xian	150
+济南线	ji nan xian	2765
+济桥	ji qiao	2249
+济桥津津狼	ji qiao jin jin lang	604
+济桥津津秦	ji qiao jin jin qin	603
+吉沈	ji shen	1466
+吉舒铁路	ji shu tie lu	2770
+技术停车	ji shu ting che	715
+吉舒线	ji shu xian	2804
+计算机票	ji suan ji piao	3196
+技停	ji ting	714
+集通板段	ji tong ban duan	2996
+集通大段	ji tong da duan	2997
+集通铁路	ji tong tie lu	2768
+集通线	ji tong xian	2769
+机务段	ji wu duan	2954
+基线	ji xian	403
+基线表	ji xian biao	2287
+机要	ji yao	916
+既有线	ji you xian	2111
+集中动力	ji zhong dong li	1532
+集中供电	ji zhong gong dian	3026
+加车	jia che	2106
+佳段	jia duan	3003
+佳富铁路	jia fu tie lu	2762
+佳富线	jia fu xian	2763
+加挂	jia gua	2107
+嘉镜铁路	jia jing tie lu	2760
+嘉镜线	jia jing xian	2761
+加快	jia kuai	3083
+加快票	jia kuai piao	3207
+加强筋	jia qiang jin	1524
+加收	jia shou	3087
+嘉阳小火车	jia yang xiao huo che	1039
+甲鱼香	jia yu xiang	1405
+贾宇翔	jia yu xiang	681
+甲鱼香肉丝	jia yu xiang rou si	1404
+加总	jia zong	3106
+加总核收	jia zong he shou	1348
+煎饼果子	jian bing guo zi	1518
+笕春上黄	jian chun shang huang	2240
+笕封黄	jian feng huang	2239
+笕沪	jian hu	2241
+减价	jian jia	3094
+减价不符	jian jia bu fu	1628
+剪口	jian kou	1124
+剪票	jian piao	1125
+检票	jian piao	1126
+笕桥	jian qiao	1350
+笕桥铁路	jian qiao tie lu	77
+笕桥线	jian qiao xian	149
+简装版	jian zhuang ban	1326
+姜成武	jiang cheng wu	454
+江门铁路	jiang men tie lu	76
+江门线	jiang men xian	148
+江阴轮渡	jiang yin lun du	2471
+胶济	jiao ji	2757
+胶济客专	jiao ji ke zhuan	2756
+胶济客专线	jiao ji ke zhuan xian	147
+胶济铁路	jiao ji tie lu	2758
+胶济线	jiao ji xian	2759
+焦柳	jiao liu	258
+焦柳铁路	jiao liu tie lu	2752
+焦柳线	jiao liu xian	2753
+焦新	jiao xin	2506
+胶新	jiao xin	648
+焦新铁路	jiao xin tie lu	2504
+胶新铁路	jiao xin tie lu	2754
+焦新线	jiao xin xian	2505
+胶新线	jiao xin xian	2755
+解编	jie bian	1052
+解除限售	jie chu xian shou	1290
+介段	jie duan	2978
+界口	jie kou	608
+接算	jie suan	615
+接算点	jie suan dian	1512
+接算方式	jie suan fang shi	610
+接算里程	jie suan li cheng	1511
+接算线路	jie suan xian lu	614
+接算站	jie suan zhan	2267
+接算站示意图	jie suan zhan shi yi tu	2266
+介西	jie xi	257
+介西铁路	jie xi tie lu	2750
+介西线	jie xi xian	2751
+解限	jie xian	1289
+结账	jie zhang	1109
+结账退出	jie zhang tui chu	1108
+杰子	jie zi	273
+津霸	jin ba	2169
+津霸衡石	jin ba heng shi	2214
+津霸衡石郑	jin ba heng shi zheng	977
+津霸联络线	jin ba lian luo xian	2738
+津霸麻	jin ba ma	1446
+津霸麻横	jin ba ma heng	1445
+津霸麻武	jin ba ma wu	1444
+津霸铁路	jin ba tie lu	2737
+津霸线	jin ba xian	2739
+进补	jin bu	3339
+金城	jin cheng	256
+锦承	jin cheng	644
+金城铁路	jin cheng tie lu	2748
+锦承铁路	jin cheng tie lu	2731
+金城线	jin cheng xian	2749
+锦承线	jin cheng xian	2732
+进沪	jin hu	320
+进沪车	jin hu che	317
+进沪列车	jin hu lie che	314
+津蓟	jin ji	646
+津蓟铁路	jin ji tie lu	2735
+津蓟线	jin ji xian	2736
+津津	jin jin	2258
+津津狼	jin jin lang	2211
+津津狼山锦	jin jin lang shan jin	601
+津津狼山沈	jin jin lang shan shen	600
+津津南	jin jin nan	2175
+津津秦皇沈	jin jin qin huang shen	1438
+津津秦山沈	jin jin qin shan shen	1435
+进京	jin jing	321
+进京车	jin jing che	318
+进京列车	jin jing lie che	315
+津狼山沈皇	jin lang shan shen huang	597
+津狼山沈沈	jin lang shan shen shen	599
+晋龙	jin long	2946
+晋龙号	jin long hao	1615
+金轮	jin lun	2947
+金轮号	jin lun hao	1616
+津宁	jin ning	2257
+津浦铁路	jin pu tie lu	2419
+津浦线	jin pu xian	2420
+金千	jin qian	255
+金千铁路	jin qian tie lu	2746
+金千线	jin qian xian	2747
+津秦客专	jin qin ke zhuan	2319
+津秦客专线天津西段	jin qin ke zhuan xian tian jin xi duan	146
+津秦铁路客运专线	jin qin tie lu ke yun zhuan xian	2320
+金色梦想	jin se meng xiang	1354
+津山	jin shan	645
+金山	jin shan	254
+津山铁路	jin shan tie lu	2733
+金山铁路	jin shan tie lu	75
+津山线	jin shan xian	2734
+金山线	jin shan xian	2745
+金山支线	jin shan zhi xian	2744
+禁售	jin shou	3241
+进穗	jin sui	319
+进穗车	jin sui che	316
+进穗列车	jin sui lie che	313
+津唐	jin tang	1419
+津塘	jin tang	1420
+锦魏	jin wei	2141
+金温	jin wen	647
+金温地铁	jin wen di tie	1508
+金温铁路	jin wen tie lu	2742
+金温线	jin wen xian	2743
+仅限其他线与本线	jin xian qi ta xian yu ben xian	851
+金牙仓	jin ya cang	1393
+进站补票	jin zhan bu piao	3340
+京霸	jing ba	992
+京包	jing bao	643
+京包昆	jing bao kun	1424
+京包铁路	jing bao tie lu	2729
+京包线	jing bao xian	2730
+京承	jing cheng	642
+京承铁路	jing cheng tie lu	2727
+京承线	jing cheng xian	2728
+京段	jing duan	3020
+京丰	jing feng	1491
+京丰沙	jing feng sha	2186
+京港直通车	jing gang zhi tong che	1609
+京广	jing guang	641
+京广高速铁路武广段	jing guang gao su tie lu wu guang duan	74
+京广高速线武广段	jing guang gao su xian wu guang duan	2455
+京广铁路	jing guang tie lu	2725
+京广线	jing guang xian	2726
+京广线广坪段	jing guang xian guang ping duan	2830
+京哈	jing ha	640
+京哈铁路	jing ha tie lu	2723
+京哈线	jing ha xian	2724
+京沪	jing hu	639
+京沪大绿皮	jing hu da lv pi	1522
+京沪高速铁路	jing hu gao su tie lu	73
+京沪高速线	jing hu gao su xian	145
+京沪铁路	jing hu tie lu	2721
+京沪线	jing hu xian	2722
+精霍	jing huo	253
+精霍铁路	jing huo tie lu	428
+精霍线	jing huo xian	429
+京津	jing jin	3243
+京津城际	jing jin cheng ji	2378
+京津城际铁路	jing jin cheng ji tie lu	2376
+京津城际线	jing jin cheng ji xian	2377
+京津三线	jing jin san xian	1028
+京京	jing jing	2259
+京京良琉	jing jing liang liu	1458
+京九	jing jiu	638
+京九铁路	jing jiu tie lu	2719
+京九线	jing jiu xian	2720
+京局	jing ju	3021
+京局汾段	jing ju fen duan	275
+京局津段	jing ju jin duan	3018
+京联合	jing lian he	473
+京庐	jing lu	1496
+径路	jing lu	2296
+径路测试	jing lu ce shi	2275
+径路对比	jing lu dui bi	2276
+径路删除	jing lu shan chu	2274
+径路维护	jing lu wei hu	2293
+径路修改	jing lu xiu gai	2273
+京马原	jing ma yuan	2140
+京门铁路	jing men tie lu	2330
+京门支线	jing men zhi xian	2329
+京沙	jing sha	2184
+京山铁路	jing shan tie lu	2425
+京山线	jing shan xian	2426
+京穗港	jing sui gang	3247
+京厅	jing ting	937
+京通	jing tong	252
+京通铁路	jing tong tie lu	2717
+京通线	jing tong xian	2718
+京武	jing wu	1495
+京西段	jing xi duan	3019
+京西铁路	jing xi tie lu	72
+京西线	jing xi xian	2402
+京向	jing xiang	994
+精伊霍	jing yi huo	427
+精伊霍铁路	jing yi huo tie lu	425
+精伊霍线	jing yi huo xian	426
+经由	jing you	2295
+经由蚌	jing you bang	1482
+经由北	jing you bei	1487
+经由备份	jing you bei fen	2277
+经由表	jing you biao	2285
+经由不符	jing you bu fu	1162
+经由大	jing you da	1478
+经由的	jing you de	349
+经由的导出	jing you de dao chu	347
+经由的计算	jing you de ji suan	348
+经由抚	jing you fu	1474
+经由改为	jing you gai wei	340
+经由哈	jing you ha	1481
+经由库	jing you ku	356
+经由码	jing you ma	2282
+经由名	jing you ming	2283
+经由南	jing you nan	1486
+经由瓢	jing you piao	1476
+经由三	jing you san	1477
+经由上	jing you shang	1484
+经由沈	jing you shen	1485
+经由四	jing you si	1480
+经由苏	jing you su	1483
+经由太	jing you tai	1479
+经由天	jing you tian	1488
+经由通过者	jing you tong guo zhe	839
+经由通过者按经由	jing you tong guo zhe an jing you	838
+经由维护	jing you wei hu	2294
+经由线表	jing you xian biao	2284
+经由验证	jing you yan zheng	346
+京原	jing yuan	1494
+京原铁路	jing yuan tie lu	2715
+京原线	jing yuan xian	2716
+京张铁路	jing zhang tie lu	2312
+京张线	jing zhang xian	2311
+九车九包	jiu che jiu bao	1533
+九改	jiu gai	1571
+酒缸号	jiu gang hao	1528
+九哥	jiu ge	1569
+局界口	ju jie kou	607
+巨流河	ju liu he	941
+距始站里程	ju shi zhan li cheng	329
+局网	ju wang	3232
+局网异地	ju wang yi di	1284
+距尾站里程	ju wei zhan li cheng	327
+距线始站里程	ju xian shi zhan li cheng	328
+距线尾站里程	ju xian wei zhan li cheng	326
+橘子	ju zi	1567
+军队运输	jun dui yun shu	909
+军人票	jun ren piao	3294
+军运	jun yun	910
+喀和铁路	ka he tie lu	71
+喀和线	ka he xian	144
+卡片式票	ka pian shi piao	898
+卡票	ka piao	896
+开办客运业务	kai ban ke yun ye wu	1057
+开办客运营业	kai ban ke yun ying ye	1058
+开行	kai xing	569
+康延铁路	kang yan tie lu	70
+康延线	kang yan xian	2381
+靠窗	kao chuang	805
+客场	ke chang	1549
+可动芯道岔	ke dong xin dao cha	1599
+客规	ke gui	2121
+客货	ke huo	2271
+客货分流	ke huo fen liu	2117
+客机	ke ji	1564
+可接算线路	ke jie suan xian lu	613
+客快	ke kuai	3096
+客流	ke liu	813
+客流集中	ke liu ji zhong	812
+客票	ke piao	3156
+客票票价	ke piao piao jia	819
+客票系统	ke piao xi tong	518
+客票系统发展金	ke piao xi tong fa zhan jin	3146
+客票中心	ke piao zhong xin	3236
+客票总体组	ke piao zong ti zu	517
+客特快	ke te kuai	3095
+可下铺打	ke xia pu da	1371
+客运	ke yun	2270
+客运段	ke yun duan	2953
+客运规章	ke yun gui zhang	2119
+客运记录	ke yun ji lu	3084
+客运业务	ke yun ye wu	1619
+客运运价里程	ke yun yun jia li cheng	823
+客运杂费	ke yun za fei	1135
+客运杂费收据	ke yun za fei shou ju	1136
+客运专线	ke yun zhuan xian	2454
+客杂	ke za	1137
+客专	ke zhuan	2453
+客座率	ke zuo lv	811
+空调	kong tiao	3112
+空调包厢软座高速	kong tiao bao xiang ruan zuo gao su	781
+空调包厢软座快速	kong tiao bao xiang ruan zuo kuai su	784
+空调包厢软座普快	kong tiao bao xiang ruan zuo pu kuai	785
+空调包厢软座特快	kong tiao bao xiang ruan zuo te kuai	783
+空调包厢软座准高	kong tiao bao xiang ruan zuo zhun gao	782
+空调包厢硬卧	kong tiao bao xiang ying wo	762
+空调包厢硬卧高速	kong tiao bao xiang ying wo gao su	1742
+空调包厢硬卧快慢	kong tiao bao xiang ying wo kuai man	1740
+空调包厢硬卧快速	kong tiao bao xiang ying wo kuai su	1750
+空调包厢硬卧普客	kong tiao bao xiang ying wo pu ke	1754
+空调包厢硬卧普快	kong tiao bao xiang ying wo pu kuai	1752
+空调包厢硬卧特快	kong tiao bao xiang ying wo te kuai	1748
+空调包厢硬卧直达	kong tiao bao xiang ying wo zhi da	1746
+空调包厢硬卧准高	kong tiao bao xiang ying wo zhun gao	1744
+空调二等软座	kong tiao er deng ruan zuo	766
+空调二等软座高速	kong tiao er deng ruan zuo gao su	791
+空调二等软座快速	kong tiao er deng ruan zuo kuai su	794
+空调二等软座普快	kong tiao er deng ruan zuo pu kuai	795
+空调二等软座特快	kong tiao er deng ruan zuo te kuai	793
+空调二等软座准高	kong tiao er deng ruan zuo zhun gao	792
+空调发电车	kong tiao fa dian che	3050
+空调费	kong tiao fei	3144
+空调高级软卧	kong tiao gao ji ruan wo	761
+空调高级软卧高速	kong tiao gao ji ruan wo gao su	1741
+空调高级软卧快慢	kong tiao gao ji ruan wo kuai man	1739
+空调高级软卧快速	kong tiao gao ji ruan wo kuai su	1749
+空调高级软卧普客	kong tiao gao ji ruan wo pu ke	1753
+空调高级软卧普快	kong tiao gao ji ruan wo pu kuai	1751
+空调高级软卧特快	kong tiao gao ji ruan wo te kuai	1747
+空调高级软卧直达	kong tiao gao ji ruan wo zhi da	1745
+空调高级软卧准高	kong tiao gao ji ruan wo zhun gao	1743
+空调票	kong tiao piao	3205
+空调软卧	kong tiao ruan wo	763
+空调软卧代座高速	kong tiao ruan wo dai zuo gao su	1989
+空调软卧代座快慢	kong tiao ruan wo dai zuo kuai man	1987
+空调软卧代座快速	kong tiao ruan wo dai zuo kuai su	1997
+空调软卧代座普客	kong tiao ruan wo dai zuo pu ke	2001
+空调软卧代座普快	kong tiao ruan wo dai zuo pu kuai	1999
+空调软卧代座特快	kong tiao ruan wo dai zuo te kuai	1995
+空调软卧代座直达	kong tiao ruan wo dai zuo zhi da	1993
+空调软卧代座准高	kong tiao ruan wo dai zuo zhun gao	1991
+空调软座	kong tiao ruan zuo	768
+空调软座高速	kong tiao ruan zuo gao su	2005
+空调软座高速卧	kong tiao ruan zuo gao su wo	1837
+空调软座快慢	kong tiao ruan zuo kuai man	2003
+空调软座快慢卧	kong tiao ruan zuo kuai man wo	1835
+空调软座快速	kong tiao ruan zuo kuai su	2013
+空调软座快速卧	kong tiao ruan zuo kuai su wo	1845
+空调软座普客	kong tiao ruan zuo pu ke	2017
+空调软座普客卧	kong tiao ruan zuo pu ke wo	1849
+空调软座普快	kong tiao ruan zuo pu kuai	2015
+空调软座普快卧	kong tiao ruan zuo pu kuai wo	1847
+空调软座特快	kong tiao ruan zuo te kuai	2011
+空调软座特快卧	kong tiao ruan zuo te kuai wo	1843
+空调软座直达	kong tiao ruan zuo zhi da	2009
+空调软座直达卧	kong tiao ruan zuo zhi da wo	1841
+空调软座准高	kong tiao ruan zuo zhun gao	2007
+空调软座准高卧	kong tiao ruan zuo zhun gao wo	1839
+空调属性	kong tiao shu xing	3135
+空调特等软座	kong tiao te deng ruan zuo	765
+空调特等软座高速	kong tiao te deng ruan zuo gao su	786
+空调特等软座快速	kong tiao te deng ruan zuo kuai su	789
+空调特等软座普快	kong tiao te deng ruan zuo pu kuai	790
+空调特等软座特快	kong tiao te deng ruan zuo te kuai	788
+空调特等软座准高	kong tiao te deng ruan zuo zhun gao	787
+空调一等软座	kong tiao yi deng ruan zuo	767
+空调一等软座高速	kong tiao yi deng ruan zuo gao su	796
+空调一等软座快速	kong tiao yi deng ruan zuo kuai su	799
+空调一等软座普快	kong tiao yi deng ruan zuo pu kuai	800
+空调一等软座特快	kong tiao yi deng ruan zuo te kuai	798
+空调一等软座准高	kong tiao yi deng ruan zuo zhun gao	797
+空调一人软包	kong tiao yi ren ruan bao	760
+空调一人软包高速	kong tiao yi ren ruan bao gao su	1676
+空调一人软包快慢	kong tiao yi ren ruan bao kuai man	1675
+空调一人软包快速	kong tiao yi ren ruan bao kuai su	1680
+空调一人软包普客	kong tiao yi ren ruan bao pu ke	1682
+空调一人软包普快	kong tiao yi ren ruan bao pu kuai	1681
+空调一人软包特快	kong tiao yi ren ruan bao te kuai	1679
+空调一人软包直达	kong tiao yi ren ruan bao zhi da	1678
+空调一人软包准高	kong tiao yi ren ruan bao zhun gao	1677
+空调硬卧	kong tiao ying wo	764
+空调硬卧代座高速	kong tiao ying wo dai zuo gao su	1990
+空调硬卧代座快慢	kong tiao ying wo dai zuo kuai man	1988
+空调硬卧代座快速	kong tiao ying wo dai zuo kuai su	1998
+空调硬卧代座普客	kong tiao ying wo dai zuo pu ke	2002
+空调硬卧代座普快	kong tiao ying wo dai zuo pu kuai	2000
+空调硬卧代座特快	kong tiao ying wo dai zuo te kuai	1996
+空调硬卧代座直达	kong tiao ying wo dai zuo zhi da	1994
+空调硬卧代座准高	kong tiao ying wo dai zuo zhun gao	1992
+空调硬座	kong tiao ying zuo	769
+空调硬座高速	kong tiao ying zuo gao su	2006
+空调硬座高速卧	kong tiao ying zuo gao su wo	1838
+空调硬座快慢	kong tiao ying zuo kuai man	2004
+空调硬座快慢卧	kong tiao ying zuo kuai man wo	1836
+空调硬座快速	kong tiao ying zuo kuai su	2014
+空调硬座快速卧	kong tiao ying zuo kuai su wo	1846
+空调硬座普客	kong tiao ying zuo pu ke	2018
+空调硬座普客卧	kong tiao ying zuo pu ke wo	1850
+空调硬座普快	kong tiao ying zuo pu kuai	2016
+空调硬座普快卧	kong tiao ying zuo pu kuai wo	1848
+空调硬座特快	kong tiao ying zuo te kuai	2012
+空调硬座特快卧	kong tiao ying zuo te kuai wo	1844
+空调硬座直达	kong tiao ying zuo zhi da	2010
+空调硬座直达卧	kong tiao ying zuo zhi da wo	1842
+空调硬座准高	kong tiao ying zuo zhun gao	2008
+空调硬座准高卧	kong tiao ying zuo zhun gao wo	1840
+空调至	kong tiao zhi	1631
+空闲卧铺	kong xian wo pu	2087
+控轴	kong zhou	917
+口泉铁路	kou quan tie lu	69
+口泉线	kou quan xian	2714
+口泉支线	kou quan zhi xian	2713
+跨及两线	kua ji liang xian	399
+跨及线路	kua ji xian lu	398
+跨线	kua xian	401
+跨线站	kua xian zhan	400
+跨越	kua yue	1561
+跨越式发展	kua yue shi fa zhan	1560
+快车	kuai che	3390
+快车停车站	kuai che ting che zhan	725
+快车停靠站	kuai che ting kao zhan	724
+快价慢速	kuai jia man su	536
+快慢	kuai man	3367
+快速	kuai su	3385
+快速到底	kuai su dao di	3323
+快速加快票	kuai su jia kuai piao	3154
+快速列车	kuai su lie che	3358
+宽轨	kuan gui	1605
+奎北铁路	kui bei tie lu	68
+奎北线	kui bei xian	143
+昆段	kun duan	2984
+昆河	kun he	248
+昆河铁路	kun he tie lu	2711
+昆河线	kun he xian	2712
+昆局	kun ju	2985
+昆明接算	kun ming jie suan	142
+昆阳铁路	kun yang tie lu	2709
+昆阳线	kun yang xian	2710
+昆玉	kun yu	247
+昆玉铁路	kun yu tie lu	2707
+昆玉线	kun yu xian	2708
+拉滨	la bin	246
+拉滨铁路	la bin tie lu	2705
+拉滨线	la bin xian	2706
+拉滨线孙家以远	la bin xian sun jia yi yuan	829
+垃圾波	la ji bo	2123
+垃圾绿豆然	la ji lv dou ran	459
+垃圾然	la ji ran	678
+垃圾土	la ji tu	682
+垃圾箱	la ji xiang	3240
+垃圾翔	la ji xiang	451
+来福	lai fu	183
+来福铁路	lai fu tie lu	181
+来福线	lai fu xian	182
+兰段	lan duan	2992
+蓝济	lan ji	2246
+蓝济桥	lan ji qiao	2247
+兰局	lan ju	2993
+兰兰	lan lan	2137
+兰青	lan qing	245
+兰青青藏铁路	lan qing qing zang tie lu	67
+兰青青藏线	lan qing qing zang xian	141
+兰青铁路	lan qing tie lu	2703
+兰青线	lan qing xian	2704
+蓝色底纹	lan se di wen	891
+蓝西瓜	lan xi gua	1565
+兰新	lan xin	244
+兰新铁路	lan xin tie lu	2701
+兰新铁路西段	lan xin tie lu xi duan	2699
+兰新线	lan xin xian	2702
+兰新线西段	lan xin xian xi duan	2700
+蓝烟	lan yan	243
+蓝烟铁路	lan yan tie lu	2694
+蓝烟线	lan yan xian	2695
+兰郑	lan zheng	983
+狼哈	lang ha	2219
+狼津津	lang jin jin	2212
+狼南	lang nan	1498
+狼南京	lang nan jing	1497
+狼南京京庐	lang nan jing jing lu	177
+狼山沈皇长	lang shan shen huang chang	595
+狼山沈皇哈	lang shan shen huang ha	594
+狼山沈皇沈	lang shan shen huang shen	596
+狼山沈沈	lang shan shen shen	586
+狼山沈沈本	lang shan shen shen ben	580
+狼山沈沈大	lang shan shen shen da	583
+狼山沈沈凤	lang shan shen shen feng	578
+狼山沈沈抚	lang shan shen shen fu	577
+狼山沈沈哈	lang shan shen shen ha	2222
+狼山沈沈海	lang shan shen shen hai	584
+狼山沈沈吉	lang shan shen shen ji	575
+狼山沈沈金	lang shan shen shen jin	582
+狼山沈沈辽	lang shan shen shen liao	585
+狼山沈沈梅	lang shan shen shen mei	576
+狼山沈沈沈	lang shan shen shen shen	2221
+狼山沈沈石	lang shan shen shen shi	579
+老科	lao ke	364
+老科学家	lao ke xue jia	363
+醴茶	li cha	241
+醴茶铁路	li cha tie lu	2690
+醴茶线	li cha xian	2691
+里程	li cheng	2114
+里程接算	li cheng jie suan	612
+里程接算方式	li cheng jie suan fang shi	611
+李港铁路	li gang tie lu	2344
+李港线	li gang xian	2345
+李鹏飞	li peng fei	1543
+李沁然	li qin ran	460
+李沁然老处男	li qin ran lao chu nan	304
+李伟旭	li wei xu	301
+黎湛	li zhan	242
+黎湛铁路	li zhan tie lu	2692
+黎湛线	li zhan xian	2693
+立折	li zhe	3061
+联程	lian cheng	3332
+联程票	lian cheng piao	3331
+联程用途	lian cheng yong tu	902
+连段	lian duan	3009
+联合票价	lian he piao jia	3141
+联合票价差	lian he piao jia cha	3140
+联合区段票	lian he qu duan piao	3200
+联合站	lian he zhan	3231
+联控	lian kong	685
+联网售票	lian wang shou piao	1050
+联运	lian yun	914
+良陈铁路	liang chen tie lu	2336
+良陈线	liang chen xian	2337
+良京	liang jing	2261
+良京丰沙	liang jing feng sha	1457
+良京津	liang jing jin	2149
+良京京沙	liang jing jing sha	1456
+良京南	liang jing nan	2147
+良京沙包	liang jing sha bao	2148
+良琉	liang liu	2166
+良石	liang shi	2165
+良武铁	liang wu tie	966
+梁向	liang xiang	2152
+梁向庐武郑	liang xiang lu wu zheng	968
+粱向潭	liang xiang tan	2151
+良郑	liang zheng	2260
+辽半	liao ban	1356
+辽本	liao ben	2205
+聊城东铁路	liao cheng dong tie lu	66
+聊城东线	liao cheng dong xian	2689
+辽东半岛	liao dong ban dao	1357
+辽东半岛号	liao dong ban dao hao	1358
+辽段	liao duan	3013
+辽溪	liao xi	240
+辽溪凤	liao xi feng	2206
+辽溪铁路	liao xi tie lu	2687
+辽溪线	liao xi xian	2688
+聊晏铁路	liao yan tie lu	2786
+聊晏线	liao yan xian	2823
+列车等级	lie che deng ji	3397
+列车票库	lie che piao ku	512
+列车区段票	lie che qu duan piao	895
+列车员	lie che yuan	1341
+列车长	lie che zhang	1343
+林碧	lin bi	239
+林碧铁路	lin bi tie lu	2685
+林碧线	lin bi xian	2686
+林东	lin dong	238
+林东铁路	lin dong tie lu	2683
+林东线	lin dong xian	2684
+临额铁路	lin e tie lu	65
+临额线	lin e xian	140
+临潢	lin huang	975
+临客	lin ke	3364
+临快	lin kuai	3363
+临洛	lin luo	948
+林南段	lin nan duan	2642
+临时	lin shi	3366
+临时列车	lin shi lie che	1309
+临时停车	lin shi ting che	717
+临特	lin te	3362
+临特快	lin te kuai	3361
+临停	lin ting	716
+临外临	lin wai lin	1308
+临西	lin xi	950
+林扬段	lin yang duan	2643
+临窑铁路	lin yao tie lu	2365
+临窑线	lin yao xian	2366
+临沂北铁路	lin yi bei tie lu	64
+临沂北线	lin yi bei xian	2680
+临沂南铁路	lin yi nan tie lu	63
+临沂南线	lin yi nan xian	2679
+临张	lin zhang	964
+临张铁路	lin zhang tie lu	2681
+临张线	lin zhang xian	2682
+零公里	ling gong li	2297
+另有通知	ling you tong zhi	547
+六内	liu nei	962
+六内宝	liu nei bao	961
+流水号	liu shui hao	3351
+刘洋	liu yang	276
+隆承	long cheng	2177
+陇海	long hai	237
+陇海铁路	long hai tie lu	2677
+陇海线	long hai xian	2678
+龙肉	long rou	1390
+漏乘	lou cheng	1141
+庐霸	lu ba	996
+芦潮港铁路	lu chao gang tie lu	62
+芦潮港线	lu chao gang xian	139
+庐京	lu jing	997
+路局定义	lu ju ding yi	511
+路网	lu wang	3233
+路网异地	lu wang yi di	1285
+轮乘	lun cheng	305
+轮轨	lun gui	1606
+论坛	lun tan	387
+漯宝	luo bao	2158
+漯宝铁路	luo bao tie lu	2673
+漯宝线	luo bao xian	2674
+漯阜	luo fu	235
+漯阜铁路	luo fu tie lu	2671
+漯阜铁路漯周段	luo fu tie lu luo zhou duan	60
+漯阜线	luo fu xian	2672
+漯阜线漯周段	luo fu xian luo zhou duan	138
+洛临	luo lin	949
+洛月新	luo yue xin	2159
+漯周	luo zhou	234
+漯周段	luo zhou duan	2670
+旅程规划	lv cheng gui hua	496
+旅程计划	lv cheng ji hua	495
+旅大	lv da	236
+绿豆然	lv dou ran	2127
+旅客	lv ke	3379
+旅客列车	lv ke lie che	3396
+绿皮车	lv pi che	1525
+旅顺铁路	lv shun tie lu	61
+旅顺线	lv shun xian	2676
+旅顺支线	lv shun zhi xian	2675
+旅途	lv tu	1101
+旅途愉快	lv tu yu kuai	1102
+旅行	lv xing	1100
+旅行变更	lv xing bian geng	1099
+旅行常识类	lv xing chang shi lei	3080
+旅行须知	lv xing xu zhi	527
+旅游	lv you	3365
+马磁	ma ci	233
+马磁铁路	ma ci tie lu	2668
+马磁线	ma ci xian	2669
+马广	ma guang	658
+马广联	ma guang lian	2398
+马广联络线	ma guang lian luo xian	2397
+马广线	ma guang xian	657
+麻横	ma heng	2170
+马肉球	ma rou qiu	300
+马仨鸡	ma sa ji	296
+马仨猪赛粥	ma sa zhu sai zhou	292
+马三家	ma san jia	297
+马三土	ma san tu	298
+马土土	ma tu tu	683
+麻武铁路	ma wu tie lu	2346
+麻武线	ma wu xian	2347
+马垚	ma yao	452
+马玉	ma yu	232
+马玉铁路	ma yu tie lu	423
+马玉线	ma yu xian	424
+买通	mai tong	572
+慢车不停站	man che bu ting zhan	723
+毛家湾胡同	mao jia wan hu tong	931
+猫局猫段	mao ju mao duan	1539
+猫猫	mao mao	1540
+美国五	mei guo wu	462
+梅集	mei ji	231
+梅集铁路	mei ji tie lu	2666
+梅集线	mei ji xian	2667
+煤局醋段	mei ju cu duan	1538
+没买通	mei mai tong	571
+梅四	mei si	2204
+每条径路	mei tiao jing lu	353
+每条经由	mei tiao jing you	352
+梅通白白和	mei tong bai bai he	587
+没有经由	mei you jing you	622
+没有生成好的经由	mei you sheng cheng hao de jing you	1300
+每周	mei zhou	548
+妹子	mei zi	449
+米轨	mi gui	1603
+免费折返	mian fei zhe fan	3099
+免费折返段	mian fei zhe fan duan	1166
+免费折返区段	mian fei zhe fan qu duan	1167
+免费折返区间	mian fei zhe fan qu jian	1165
+免票	mian piao	3301
+灭绝	mie jue	1396
+灭绝土土	mie jue tu tu	448
+鸣北铁路	ming bei tie lu	59
+鸣北线	ming bei xian	137
+某北	mou bei	940
+牡段	mu duan	3002
+牡哈	mu ha	2130
+牡佳	mu jia	229
+牡佳铁路	mu jia tie lu	2662
+牡佳线	mu jia xian	2663
+牡图	mu tu	230
+牡图铁路	mu tu tie lu	2664
+牡图线	mu tu xian	2665
+木有	mu you	1400
+哪些经由	na xie jing you	341
+那些经由	na xie jing you	342
+南霸	nan ba	1442
+南曹联络线	nan cao lian luo xian	2439
+南曹线	nan cao xian	2440
+南昌西环铁路	nan chang xi huan tie lu	58
+南昌西环线	nan chang xi huan xian	136
+南段	nan duan	2973
+南防	nan fang	228
+南防铁路	nan fang tie lu	2658
+南防线	nan fang xian	2659
+南疆	nan jiang	227
+南疆铁路	nan jiang tie lu	2656
+南疆线	nan jiang xian	2657
+南津	nan jin	2174
+南津津	nan jin jin	2173
+南京京良琉	nan jing jing liang liu	1459
+南局	nan ju	2963
+南昆	nan kun	226
+南昆铁路	nan kun tie lu	2654
+南昆线	nan kun xian	2655
+南狼	nan lang	1417
+南狼山沈皇	nan lang shan shen huang	598
+南狼山沈沈	nan lang shan shen shen	573
+南满铁路	nan man tie lu	2306
+南满支线	nan man zhi xian	2305
+南南南	nan nan nan	978
+南票铁路	nan piao tie lu	2652
+南票线	nan piao xian	2653
+南秦沈	nan qin shen	574
+南塘	nan tang	1418
+南同蒲	nan tong pu	664
+南同蒲铁路	nan tong pu tie lu	57
+南同蒲线	nan tong pu xian	2911
+南乌	nan wu	225
+南乌铁路	nan wu tie lu	2650
+南乌线	nan wu xian	2651
+南翔	nan xiang	1506
+南阳东铁路	nan yang dong tie lu	56
+南阳东线	nan yang dong xian	2649
+南阳西铁路	nan yang xi tie lu	55
+南阳西线	nan yang xi xian	2648
+内宝	nei bao	1024
+内六	nei liu	963
+内六铁路	nei liu tie lu	2660
+内六线	nei liu xian	2661
+内燃机车	nei ran ji che	1590
+倪胖胖	ni pang pang	367
+倪效熹	ni xiao xi	368
+鸟鲁木齐	niao lu mu qi	1513
+鸟市	niao shi	1325
+宁津	ning jin	2256
+宁局	ning ju	2961
+宁岢	ning ke	224
+宁岢铁路	ning ke tie lu	2646
+宁岢线	ning ke xian	2647
+宁启	ning qi	223
+宁启铁路	ning qi tie lu	2644
+宁启铁路林南段	ning qi tie lu lin nan duan	54
+宁启铁路林扬段	ning qi tie lu lin yang duan	53
+宁启线	ning qi xian	2645
+宁启线林南段	ning qi xian lin nan duan	421
+宁启线林南段北京	ning qi xian lin nan duan bei jing	135
+宁启线林南段南京	ning qi xian lin nan duan nan jing	134
+宁启线林扬段	ning qi xian lin yang duan	422
+宁蓉铁路合宁段	ning rong tie lu he ning duan	52
+宁蓉铁路合武段	ning rong tie lu he wu duan	51
+宁蓉铁路宜凉段	ning rong tie lu yi liang duan	50
+宁蓉线合宁段	ning rong xian he ning duan	133
+宁蓉线合武段	ning rong xian he wu duan	132
+宁蓉线宜凉段	ning rong xian yi liang duan	131
+宁铜	ning tong	221
+宁铜铁路	ning tong tie lu	2638
+宁铜线	ning tong xian	2639
+宁芜宣杭	ning wu xuan hang	2232
+宁西	ning xi	222
+宁西客场	ning xi ke chang	1548
+宁西客胖	ning xi ke pang	1547
+宁西铁路	ning xi tie lu	2640
+宁西铁路西合段	ning xi tie lu xi he duan	49
+宁西线	ning xi xian	2641
+宁西线西合段	ning xi xian xi he duan	420
+农民工返程票	nong min gong fan cheng piao	3288
+虐土	nue tu	358
+虐土土	nue tu tu	290
+女女	nv nv	1397
+女女女	nv nv nv	271
+琶洲	pa zhou	1105
+琶洲候车	pa zhou hou che	1104
+盘五	pan wu	1416
+盘五铁路	pan wu tie lu	2634
+盘五线	pan wu xian	2635
+盘西	pan xi	220
+盘西铁路	pan xi tie lu	2636
+盘西线	pan xi xian	2637
+庞巴迪	pang ba di	1339
+炮台	pao tai	1515
+配属	pei shu	3023
+棚车	peng che	3282
+棚代客	peng dai ke	1313
+皮球波	pi qiu bo	303
+票额	piao e	3286
+票额担当站	piao e dan dang zhan	1293
+票额分配	piao e fen pei	1292
+票额共用定义	piao e gong yong ding yi	506
+票额计划	piao e ji hua	1382
+票额套用	piao e tao yong	466
+瓢抚	piao fu	1473
+票价	piao jia	3159
+票价差	piao jia cha	1636
+票价倒挂	piao jia dao gua	1319
+票价率	piao jia lv	3110
+票卷	piao juan	1113
+票卷分发	piao juan fen fa	1112
+票卷维护	piao juan wei hu	1111
+票库	piao ku	1294
+票面信息处理错误	piao mian xin xi chu li cuo wu	493
+瓢沈	piao shen	1475
+票种	piao zhong	3310
+票种不符	piao zhong bu fu	3337
+拼音码	pin yin ma	3225
+平房方向各站	ping fang fang xiang ge zhan	828
+平汉铁路	ping han tie lu	2313
+平汉线	ping han xian	2314
+平南	ping nan	219
+平南铁路	ping nan tie lu	2632
+平南线	ping nan xian	2633
+平齐	ping qi	218
+平齐铁路	ping qi tie lu	2630
+平齐线	ping qi xian	2631
+平汝	ping ru	217
+平汝铁路	ping ru tie lu	2628
+平汝线	ping ru xian	2629
+平绥铁路	ping sui tie lu	1040
+平图	ping tu	721
+破电扇板凳蜗牛	po dian shan ban deng wo niu	693
+泼妇然	po fu ran	458
+铺别	pu bie	3261
+浦东铁路	pu dong tie lu	2383
+浦东铁路阮四段	pu dong tie lu ruan si duan	48
+浦东线阮四段	pu dong xian ruan si duan	2382
+浦段	pu duan	2969
+普客	pu ke	3376
+普客到底	pu ke dao di	3326
+普客到底通票	pu ke dao di tong piao	2098
+普客至	pu ke zhi	1163
+普快	pu kuai	3382
+普快到底	pu kuai dao di	3325
+普快到底通票	pu kuai dao di tong piao	2095
+普快的速度	pu kuai de su du	534
+普快至	pu kuai zhi	1633
+普速	pu su	3360
+普速列车	pu su lie che	3359
+普通	pu tong	3259
+普通加快	pu tong jia kuai	3081
+普通加快票	pu tong jia kuai piao	3155
+普通加快区段票	pu tong jia kuai qu duan piao	893
+普通客票	pu tong ke piao	2101
+普通快车	pu tong kuai che	3383
+普通旅客快车	pu tong lv ke kuai che	3384
+普通旅客列车	pu tong lv ke lie che	3378
+普通旅客慢车	pu tong lv ke man che	3377
+普通无空调	pu tong wu kong tiao	3134
+普通有空调	pu tong you kong tiao	3133
+铺位	pu wei	3262
+浦镇	pu zhen	1336
+齐昂	qi ang	216
+齐昂联络线	qi ang lian luo xian	2626
+齐昂铁路	qi ang tie lu	47
+齐昂线	qi ang xian	2627
+齐北	qi bei	214
+齐北铁路	qi bei tie lu	2624
+齐北线	qi bei xian	2625
+起点	qi dian	2299
+齐段	qi duan	3004
+齐富	qi fu	215
+齐红	qi hong	213
+齐红联络线	qi hong lian luo xian	2622
+齐红铁路	qi hong tie lu	46
+齐红线	qi hong xian	2623
+七滦铁路	qi luan tie lu	2429
+七滦线	qi luan xian	2430
+起码里程	qi ma li cheng	3109
+起讫点	qi qi dian	2301
+起讫站	qi qi zhan	2300
+起算	qi suan	2937
+其他线路办理直通业务	qi ta xian lu ban li zhi tong ye wu	846
+七姨	qi yi	1578
+起至另有通知时止	qi zhi ling you tong zhi shi zhi	545
+起至另止	qi zhi ling zhi	543
+恰北北	qia bei bei	2124
+迁曹	qian cao	1388
+黔桂	qian gui	212
+黔桂铁路	qian gui tie lu	2620
+黔桂线	qian gui xian	2621
+千年神车	qian nian shen che	261
+钱塘江大桥	qian tang jiang da qiao	1038
+钱塘江二桥	qian tang jiang er qiao	1037
+签证	qian zheng	3346
+抢票	qiang piao	1119
+桥党	qiao dang	2255
+桥党联络线	qiao dang lian luo xian	2764
+桥党宁	qiao dang ning	2254
+桥济	qiao ji	2251
+桥济蓝	qiao ji lan	2248
+桥津津狼秦	qiao jin jin lang qin	1439
+桥津津狼山	qiao jin jin lang shan	602
+桥津津狼沈	qiao jin jin lang shen	1436
+桥津津秦沈	qiao jin jin qin shen	1437
+钦北	qin bei	211
+钦北铁路	qin bei tie lu	2618
+钦北线	qin bei xian	2619
+秦狼	qin lang	2193
+秦狼京	qin lang jing	2192
+秦南京京庐	qin nan jing jing lu	176
+秦沈	qin shen	2374
+秦沈客专	qin shen ke zhuan	2372
+秦沈梅	qin shen mei	2223
+秦沈线	qin shen xian	2373
+青岛大叔	qing dao da shu	369
+青岛铁道小子	qing dao tie dao xiao zi	371
+请联系值班员解决	qing lian xi zhi ban yuan jie jue	492
+青蛙	qing wa	1570
+青藏	qing zang	3248
+青藏公司	qing zang gong si	2991
+青藏宁	qing zang ning	2990
+青藏铁路	qing zang tie lu	2697
+青藏线	qing zang xian	2698
+区段	qu duan	2089
+区段票	qu duan piao	3203
+区间	qu jian	1283
+取消	qu xiao	729
+全半票价差	quan ban piao jia cha	1634
+全程对号	quan cheng dui hao	487
+全国各线	quan guo ge xian	1046
+全国联网	quan guo lian wang	1051
+全价	quan jia	3309
+全价票	quan jia piao	3308
+权力下放	quan li xia fang	616
+全路	quan lu	3234
+让通	rang tong	1413
+惹尘	re chen	461
+热敏打印	re min da yin	874
+热敏打印机	re min da yin ji	873
+任意	ren yi	3260
+日本船	ri ben chuan	1534
+日内到有效	ri nei dao you xiao	1151
+肉飞	rou fei	1402
+肉灰	rou hui	1401
+蹂躏土土	rou lin tu tu	289
+肉龙	rou long	1391
+肉球仓	rou qiu cang	1392
+肉土	rou tu	360
+肉用大土土	rou yong da tu tu	293
+肉用小土土	rou yong xiao tu tu	1408
+软包	ruan bao	3279
+软票费	ruan piao fei	3147
+软卧	ruan wo	3277
+软卧车	ruan wo che	3043
+软卧代座	ruan wo dai zuo	779
+软卧代座高速	ruan wo dai zuo gao su	2037
+软卧代座快慢	ruan wo dai zuo kuai man	2035
+软卧代座快速	ruan wo dai zuo kuai su	2045
+软卧代座普客	ruan wo dai zuo pu ke	2049
+软卧代座普快	ruan wo dai zuo pu kuai	2047
+软卧代座特快	ruan wo dai zuo te kuai	2043
+软卧代座直达	ruan wo dai zuo zhi da	2041
+软卧代座准高	ruan wo dai zuo zhun gao	2039
+软卧至	ruan wo zhi	1629
+软席	ruan xi	3201
+软席乘车证签证	ruan xi cheng che zheng qian zheng	1147
+软硬卧车	ruan ying wo che	3031
+软纸票	ruan zhi piao	3211
+软座	ruan zuo	3280
+软座车	ruan zuo che	3048
+软座高速	ruan zuo gao su	2053
+软座高速卧	ruan zuo gao su wo	1853
+软座快慢	ruan zuo kuai man	2051
+软座快慢卧	ruan zuo kuai man wo	1851
+软座快速	ruan zuo kuai su	2061
+软座快速卧	ruan zuo kuai su wo	1857
+软座普客	ruan zuo pu ke	2065
+软座普客卧	ruan zuo pu ke wo	3121
+软座普快	ruan zuo pu kuai	2063
+软座普快卧	ruan zuo pu kuai wo	3119
+软座特快	ruan zuo te kuai	2059
+软座特快卧	ruan zuo te kuai wo	3117
+软座无座	ruan zuo wu zuo	929
+软座硬卧车	ruan zuo ying wo che	3032
+软座直达	ruan zuo zhi da	2057
+软座直达卧	ruan zuo zhi da wo	3115
+软座准高	ruan zuo zhun gao	2055
+软座准高卧	ruan zuo zhun gao wo	1855
+塞拉门	sai la men	3053
+三档折扣	san dang zhe kou	3125
+三段	san duan	3005
+三进	san jin	312
+三进车	san jin che	311
+三进列车	san jin lie che	310
+三类包裹	san lei bao guo	1092
+三茂	san mao	210
+三茂铁路	san mao tie lu	2616
+三茂线	san mao xian	2617
+三万	san wan	209
+三万铁路	san wan tie lu	2614
+三万线	san wan xian	2615
+三线	san xian	1029
+桑锡铁路	sang xi tie lu	2451
+桑锡线	sang xi xian	2452
+沙包昆	sha bao kun	1426
+沙丰	sha feng	2187
+沙丰京	sha feng jing	2185
+沙丰京良	sha feng jing liang	1455
+傻瓜票	sha gua piao	1084
+沙河烧麦	sha he shao mai	1514
+沙河烧麦馆	sha he shao mai guan	442
+沙河铁路	sha he tie lu	45
+沙河线	sha he xian	130
+沙京	sha jing	2183
+沙京承	sha jing cheng	2182
+沙京京良	sha jing jing liang	1454
+杀戮土土	sha lu tu tu	446
+删除经由	shan chu jing you	626
+山段	shan duan	3008
+山锦	shan jin	2194
+山京	shan jing	2195
+山狼	shan lang	2196
+山狼津霸庐	shan lang jin ba lu	953
+山南京京庐	shan nan jing jing lu	175
+山沈皇沈抚	shan shen huang shen fu	593
+山沈皇沈吉	shan shen huang shen ji	592
+山沈皇沈梅	shan shen huang shen mei	591
+山沈沈金城	shan shen shen jin cheng	581
+汕头铁路	shan tou tie lu	44
+汕头线	shan tou xian	2613
+伤残军人票	shang can jun ren piao	3295
+上层	shang ceng	3258
+上车站	shang che zhan	3320
+上浮	shang fu	3105
+上浮率	shang fu lv	1322
+上海南铁路	shang hai nan tie lu	43
+上海南线	shang hai nan xian	2612
+上局	shang ju	2972
+上局北车	shang ju bei che	2126
+上局北尻	shang ju bei kao	677
+上局合九	shang ju he jiu	2966
+上局沪段	shang ju hu duan	2970
+上局宁东段	shang ju ning dong duan	696
+上局上段	shang ju shang duan	697
+上局网	shang ju wang	1049
+上局新长	shang ju xin chang	2965
+上兰村铁路	shang lan cun tie lu	42
+上兰村线	shang lan cun xian	2610
+上兰村支线	shang lan cun zhi xian	2609
+上路网	shang lu wang	1048
+上票号	shang piao hao	3213
+上铺	shang pu	3254
+上铅	shang qian	207
+上铅联络线	shang qian lian luo xian	2607
+上铅铁路	shang qian tie lu	41
+上铅线	shang qian xian	2608
+上水	shang shui	713
+上水站	shang shui zhan	712
+上水作业	shang shui zuo ye	711
+上下行	shang xia xing	3065
+上行	shang xing	3067
+上虞	shang yu	1366
+上座率	shang zuo lv	810
+韶八	shao ba	1577
+韶九	shao jiu	1573
+韶九改	shao jiu gai	1572
+韶六	shao liu	1574
+烧麦馆	shao mai guan	443
+韶七	shao qi	1579
+韶三	shao san	1580
+韶山	shao shan	1583
+韶山铁路	shao shan tie lu	40
+韶山线	shao shan xian	2606
+韶山支线	shao shan zhi xian	2587
+韶四	shao si	1576
+韶五	shao wu	1575
+芍药	shao yao	1581
+韶一	shao yi	1582
+滠武铁路	she wu tie lu	2360
+滠武铁路丹水池	she wu tie lu dan shui chi	39
+滠武铁路滠口	she wu tie lu she kou	38
+滠武线	she wu xian	2359
+滠武线丹水池	she wu xian dan shui chi	129
+滠武线滠口	she wu xian she kou	128
+沈本	shen ben	679
+沈长	shen chang	1464
+神车	shen che	1526
+沈大	shen da	636
+沈大铁路	shen da tie lu	2602
+神大铁路	shen da tie lu	37
+沈大线	shen da xian	2603
+神大线	shen da xian	127
+沈丹	shen dan	635
+沈丹铁路	shen dan tie lu	2600
+沈丹线	shen dan xian	2601
+沈东	shen dong	939
+沈段	shen duan	3015
+沈抚	shen fu	1452
+沈哈	shen ha	1463
+沈哈牡林鸡	shen ha mu lin ji	2197
+沈哈香	shen ha xiang	2198
+沈皇	shen huang	2229
+沈皇秦津	shen huang qin jin	2225
+沈皇沈	shen huang shen	2231
+沈皇沈锦	shen huang shen jin	2210
+沈皇沈梅通	shen huang shen mei tong	590
+沈吉	shen ji	1467
+神吉	shen ji	1470
+沈吉铁路	shen ji tie lu	2598
+沈吉线	shen ji xian	2599
+沈锦	shen jin	2209
+沈局	shen ju	3016
+沈局锦段	shen ju jin duan	3012
+沈狼南	shen lang nan	2218
+沈狼南京沙	shen lang nan jing sha	2215
+沈梅	shen mei	1471
+沈梅通白白	shen mei tong bai bai	588
+沈盘五沟	shen pan wu gou	2207
+沈秦狼	shen qin lang	2216
+沈秦南	shen qin nan	2217
+申请席位失败	shen qing xi wei shi bai	4
+沈山	shen shan	634
+沈山铁路	shen shan tie lu	2596
+沈山线	shen shan xian	2597
+沈沈	shen shen	2228
+沈沈锦	shen shen jin	2208
+沈沈山狼南	shen shen shan lang nan	2227
+沈沈沈	shen shen shen	2220
+神朔	shen shuo	637
+神朔铁路	shen shuo tie lu	2605
+神朔线	shen shuo xian	2604
+沈铁	shen tie	699
+沈仙	shen xian	3235
+沈阳北代售	shen yang bei dai shou	1365
+神钟	shen zhong	2923
+神州	shen zhou	2948
+神州大白猫	shen zhou da bai mao	694
+神州号	shen zhou hao	1617
+生成	sheng cheng	2290
+生成本站经由	sheng cheng ben zhan jing you	2291
+生成基础数据	sheng cheng ji chu shu ju	2292
+生成经由	sheng cheng jing you	325
+生成经由表	sheng cheng jing you biao	2289
+生成票额计划	sheng cheng piao e ji hua	1381
+十八街麻花	shi ba jie ma hua	1521
+石本	shi ben	2138
+世博园	shi bo yuan	1324
+石长	shi chang	206
+石长铁路	shi chang tie lu	2594
+石长线	shi chang xian	2595
+石德	shi de	633
+石德铁路	shi de tie lu	2592
+石德线	shi de xian	2593
+石段	shi duan	3017
+始发	shi fa	3344
+始发不对号	shi fa bu dui hao	486
+始发不能跨线	shi fa bu neng kua xian	393
+始发不能越线	shi fa bu neng yue xian	392
+始发跨线	shi fa kua xian	395
+始发退差	shi fa tui cha	1076
+始发无座	shi fa wu zuo	485
+始发原退	shi fa yuan tui	1074
+始发越线	shi fa yue xian	394
+始发站	shi fa zhan	3317
+十夫	shi fu	1557
+石邯夜慢	shi han ye man	263
+石衡	shi heng	1016
+石衡霸津	shi heng ba jin	2213
+实际经由	shi ji jing you	1298
+拾捡	shi jian	380
+市郊	shi jiao	1314
+市郊定期客票	shi jiao ding qi ke piao	817
+市郊列车	shi jiao lie che	1157
+市郊票	shi jiao piao	1158
+石楼线	shi lou xian	2394
+石秦动车	shi qin dong che	264
+石秦特慢	shi qin te man	266
+石秦夜慢	shi qin ye man	265
+石太	shi tai	2164
+石太华	shi tai hua	2162
+石太客运专线	shi tai ke yun zhuan xian	203
+石太客专	shi tai ke zhuan	2589
+石太客专获太段	shi tai ke zhuan huo tai duan	126
+石太铁路	shi tai tie lu	2590
+石太线	shi tai xian	2591
+失效	shi xiao	1160
+试验车	shi yan che	3040
+事由	shi you	3097
+始站简称	shi zhan jian cheng	333
+收单行	shou dan hang	2
+受电弓	shou dian gong	1568
+售动车组车票	shou dong che zu che piao	3353
+手工输入车票信息	shou gong shu ru che piao xin xi	522
+手工输入通票信息	shou gong shu ru tong piao xin xi	521
+手工退票	shou gong tui piao	1072
+售联程票	shou lian cheng piao	3333
+售票	shou piao	3349
+售票点	shou piao dian	702
+售票范围	shou piao fan wei	1110
+售票系统	shou piao xi tong	174
+售票站	shou piao zhan	924
+售普客到底	shou pu ke dao di	2100
+售普客到底通票	shou pu ke dao di tong piao	2099
+售普快到底	shou pu kuai dao di	2097
+售普快到底通票	shou pu kuai dao di tong piao	2096
+售普通客票	shou pu tong ke piao	3354
+售特快到底	shou te kuai dao di	2094
+售特快到底通票	shou te kuai dao di tong piao	2093
+售往返票	shou wang fan piao	3334
+手写车票	shou xie che piao	3209
+手写票	shou xie piao	3210
+手续费	shou xu fei	1134
+售优惠票	shou you hui piao	3329
+曙光	shu guang	1614
+曙光号	shu guang hao	1613
+熟男	shu nan	277
+暑运	shu yun	2108
+甩挂	shuai gua	1305
+双层	shuang ceng	3039
+双日	shuang ri	565
+双日反编组运行	shuang ri fan bian zu yun xing	552
+双日开行	shuang ri kai xing	555
+双日停运	shuang ri ting yun	553
+双软	shuang ruan	3266
+双线	shuang xian	1030
+水大	shui da	201
+水大铁路	shui da tie lu	2583
+水大线	shui da xian	2584
+水红	shui hong	202
+水红铁路	shui hong tie lu	2585
+水红线	shui hong xian	2586
+水牌	shui pai	3355
+水张	shui zhang	200
+水张铁路	shui zhang tie lu	2581
+水张线	shui zhang xian	2582
+朔黄铁路	shuo huang tie lu	2338
+朔黄线	shuo huang xian	2339
+四档折扣	si dang zhe kou	3124
+四方	si fang	1337
+撕角	si jiao	1122
+四类包裹	si lei bao guo	1091
+司马	si ma	1586
+司马尚	si ma shang	1584
+司马尚德	si ma shang de	1585
+四梅	si mei	2203
+四梅铁路	si mei tie lu	2579
+四梅线	si mei xian	2580
+私人软包	si ren ruan bao	3270
+送票费	song piao fei	1133
+速宾	su bin	3176
+速宾磁记录热敏打印机	su bin ci ji lu re min da yin ji	872
+速宾制票机	su bin zhi piao ji	871
+苏段	su duan	3014
+苏抚	su fu	649
+苏抚铁路	su fu tie lu	2846
+苏抚线	su fu xian	2847
+随乘车证有效	sui cheng che zheng you xiao	1150
+遂成铁路	sui cheng tie lu	2873
+遂成线	sui cheng xian	2874
+濉阜	sui fu	199
+濉阜铁路	sui fu tie lu	2577
+濉阜线	sui fu xian	2578
+绥哈	sui ha	2131
+绥佳	sui jia	198
+绥佳铁路	sui jia tie lu	2575
+绥佳线	sui jia xian	2576
+随团体票使用有效	sui tuan ti piao shi yong you xiao	1146
+遂渝	sui yu	197
+遂渝铁路	sui yu tie lu	2573
+遂渝线	sui yu xian	2574
+随原票使用	sui yuan piao shi yong	1145
+损局	sun ju	680
+锁站售	suo zhan shou	1047
+塔韩铁路	ta han tie lu	2386
+塔韩线	ta han xian	2387
+他线办理客运直通业务	ta xian ban li ke yun zhi tong ye wu	843
+他线办理旅客直通业务	ta xian ban li lv ke zhi tong ye wu	844
+他线办理直通旅客业务	ta xian ban li zhi tong lv ke ye wu	842
+他线办理直通业务	ta xian ban li zhi tong ye wu	845
+台安	tai an	1383
+泰安	tai an	1384
+泰达线	tai da xian	2385
+泰达支线	tai da zhi xian	2384
+太段	tai duan	2980
+泰肥铁路	tai fei tie lu	2514
+泰肥线	tai fei xian	2515
+太华	tai hua	2163
+太焦	tai jiao	2509
+太焦铁路	tai jiao tie lu	2507
+太焦线	tai jiao xian	2508
+太局	tai ju	2981
+太岚	tai lan	196
+太岚铁路	tai lan tie lu	2571
+太岚线	tai lan xian	2572
+太新	tai xin	195
+太新铁路	tai xin tie lu	2569
+太新线	tai xin xian	2570
+太中铁路北中段	tai zhong tie lu bei zhong duan	36
+太中线北中段	tai zhong xian bei zhong duan	125
+探亲票	tan qin piao	3300
+潭向	tan xiang	2154
+潭向梁	tan xiang liang	2150
+塘沽线	tang gu xian	2568
+塘沽支线	tang gu zhi xian	2567
+唐津铁路	tang jin tie lu	2309
+唐滦铁路	tang luan tie lu	2427
+唐滦线	tang luan xian	2428
+唐胥铁路	tang xu tie lu	2310
+唐遵铁路	tang zun tie lu	2431
+唐遵线	tang zun xian	2432
+套跑	tao pao	3059
+陶舒	tao shu	191
+陶舒铁路	tao shu tie lu	189
+陶舒线	tao shu xian	190
+陶舒线陶榆段	tao shu xian tao yu duan	188
+桃威	tao wei	187
+桃威铁路	tao wei tie lu	2564
+桃威线	tao wei xian	2565
+套用	tao yong	3221
+套用票	tao yong piao	465
+陶榆	tao yu	194
+陶榆段	tao yu duan	192
+陶榆铁路	tao yu tie lu	193
+陶榆线	tao yu xian	2566
+特别加快	te bie jia kuai	3082
+特别加快票	te bie jia kuai piao	3153
+特别快车	te bie kuai che	3388
+特别旅客快车	te bie lv ke kuai che	3389
+特等	te deng	3267
+特等软座车	te deng ruan zuo che	3045
+特快	te kuai	3386
+特快到底	te kuai dao di	3324
+特快到底通票	te kuai dao di tong piao	2092
+特快的价格	te kuai de jia ge	535
+特快至	te kuai zhi	1632
+特普快	te pu kuai	1637
+特普快票价差	te pu kuai piao jia cha	1635
+特征	te zheng	337
+特征码	te zheng ma	336
+提价不提速	ti jia bu ti su	537
+提速	ti su	1054
+提速不提价	ti su bu ti jia	538
+天津西铁路	tian jin xi tie lu	35
+天津西线	tian jin xi xian	2563
+天山号	tian shan hao	1334
+天上驴肉	tian shang lv rou	268
+天之蓝	tian zhi lan	1530
+条径路	tiao jing lu	351
+条经由	tiao jing you	350
+条码	tiao ma	3189
+条码打印机	tiao ma da yin ji	3190
+调图	tiao tu	1055
+铁道第三勘察设计院	tie dao di san kan cha she ji yuan	1088
+铁道科学研究院	tie dao ke xue yan jiu yuan	1089
+铁道小子	tie dao xiao zi	370
+铁法线	tie fa xian	1041
+铁科院	tie ke yuan	3174
+铁路	tie lu	2940
+铁路馆	tie lu guan	322
+铁路局	tie lu ju	3022
+铁路客运运价里程表	tie lu ke yun yun jia li cheng biao	2118
+铁路旅客运输规程	tie lu lv ke yun shu gui cheng	2120
+铁路线	tie lu xian	2939
+铁路在线	tie lu zai xian	376
+铁三院	tie san yuan	1087
+停办客运业务	ting ban ke yun ye wu	1621
+停办限	ting ban xian	1056
+停车站	ting che zhan	727
+停靠站	ting kao zhan	726
+停运	ting yun	568
+停站	ting zhan	728
+停止办理	ting zhi ban li	1620
+停止办理客运业务	ting zhi ban li ke yun ye wu	1618
+同城	tong cheng	479
+同城代售	tong cheng dai shou	478
+同城定义	tong cheng ding yi	734
+同城发售联网票	tong cheng fa shou lian wang piao	735
+同城联网	tong cheng lian wang	736
+同城票	tong cheng piao	1065
+同城异地	tong cheng yi di	1064
+通霍	tong huo	186
+通霍铁路	tong huo tie lu	2561
+通霍线	tong huo xian	2562
+铜九铁路	tong jiu tie lu	2407
+铜九线	tong jiu xian	2408
+通票	tong piao	3347
+通票中转业务	tong piao zhong zhuan ye wu	3163
+同蒲	tong pu	666
+同蒲路	tong pu lu	2913
+同蒲铁路	tong pu tie lu	2914
+同蒲线	tong pu xian	2915
+通让	tong rang	1414
+通让铁路	tong rang tie lu	2559
+通让线	tong rang xian	2560
+通售	tong shou	6
+同席孩票	tong xi hai piao	3327
+图定	tu ding	1312
+图定列车	tu ding lie che	1311
+土饵骑	tu er qi	295
+土肥原贤二	tu fei yuan xian er	1407
+土贵乌拉	tu gui wu la	1411
+土酷慢斯坦	tu ku man si tan	1406
+图们江号	tu men jiang hao	1360
+屠杀土土	tu sha tu tu	445
+土死鸡	tu si ji	359
+土土	tu tu	2129
+土土大肥鸭	tu tu da fei ya	361
+土土大埋汰	tu tu da mai tai	287
+土土肉	tu tu rou	2128
+土土炸碉堡	tu tu zha diao bao	286
+团洽	tuan qia	903
+团杉	tuan shan	185
+团杉铁路	tuan shan tie lu	2557
+团杉线	tuan shan xian	2558
+团体	tuan ti	3245
+团体旅客证	tuan ti lv ke zheng	1144
+团体票	tuan ti piao	3293
+团体洽商	tuan ti qia shang	3244
+团体用途	tuan ti yong tu	904
+团体优惠票	tuan ti you hui piao	3292
+退差价	tui cha jia	1075
+退票理由	tui piao li you	1082
+囤了不少票	tun le bu shao piao	519
+囤票	tun piao	520
+托运	tuo yun	1097
+托运处	tuo yun chu	482
+坨子头	tuo zi tou	938
+外放	wai fang	3058
+外福	wai fu	652
+外福铁路	wai fu tie lu	2855
+外福线	wai fu xian	2856
+外南	wai nan	184
+外南铁路	wai nan tie lu	2555
+外南线	wai nan xian	2556
+晚点	wan dian	1069
+皖赣	wan gan	180
+皖赣铁路	wan gan tie lu	2553
+皖赣线	wan gan xian	2554
+万凉铁路	wan liang tie lu	34
+万凉线	wan liang xian	124
+网传	wang chuan	540
+往返	wang fan	3336
+往返票	wang fan piao	3335
+往返用途	wang fan yong tu	901
+潍柴动力	wei chai dong li	1527
+伟哥	wei ge	302
+威红	wei hong	179
+威红铁路	wei hong tie lu	2551
+威红线	wei hong xian	2552
+维护	wei hu	2288
+威局威段	wei ju wei duan	698
+威宁铁路	wei ning tie lu	33
+威宁线	wei ning xian	2550
+威宁支线	wei ning zhi xian	2549
+魏塔	wei ta	178
+魏塔铁路	wei ta tie lu	2547
+魏塔线	wei ta xian	2548
+微调	wei tiao	722
+苇亚铁路	wei ya tie lu	2447
+苇亚线	wei ya xian	2448
+尾站简称	wei zhan jian cheng	330
+温馨旅途	wen xin lv tu	453
+龌龊强	wo chuo qiang	690
+卧订费	wo ding fei	3142
+卧铺边座	wo pu bian zuo	530
+卧铺代座	wo pu dai zuo	1638
+卧铺订票费	wo pu ding piao fei	3143
+卧铺票	wo pu piao	3206
+卧铺优惠	wo pu you hui	489
+无差价	wu cha jia	3343
+无差价签证	wu cha jia qian zheng	1297
+无差价签证标志	wu cha jia qian zheng biao zhi	3342
+武昌南环铁路何刘	wu chang nan huan tie lu he liu	32
+武昌南环铁路武昌东	wu chang nan huan tie lu wu chang dong	31
+武昌南环线	wu chang nan huan xian	2358
+武昌南环线何刘	wu chang nan huan xian he liu	123
+武昌南环线武昌东	wu chang nan huan xian wu chang dong	122
+误乘	wu cheng	1624
+无耻之土	wu chi zhi tu	294
+五档折扣	wu dang zhe kou	3123
+误购	wu gou	1625
+无关经由	wu guan jing you	343
+武广	wu guang	3242
+武汉地区联合站	wu han di qu lian he zhan	477
+武汉联合	wu han lian he	707
+武津铁路	wu jin tie lu	30
+武津线	wu jin xian	2375
+武九铁路	wu jiu tie lu	2545
+武九线	wu jiu xian	2546
+乌局	wu ju	2995
+武局	wu ju	2975
+乌局乌段	wu ju wu duan	2994
+武局武段	wu ju wu duan	2974
+武庐	wu lu	967
+武麻霸津	wu ma ba jin	1447
+五盘	wu pan	1415
+无情地灭绝土土	wu qing de mie jue tu tu	447
+误售	wu shou	1626
+误撕	wu si	1142
+无柱雨棚	wu zhu yu peng	3070
+无座	wu zuo	3283
+无座计划	wu zuo ji hua	930
+无座票	wu zuo piao	1279
+无坐席	wu zuo xi	510
+无坐席上限	wu zuo xi shang xian	509
+西安	xi an	947
+西北环	xi bei huan	629
+西北环线	xi bei huan xian	2380
+席别	xi bie	3285
+西长	xi chang	631
+西长联络线	xi chang lian luo xian	2537
+西长线	xi chang xian	2538
+西段	xi duan	2982
+夕发朝至	xi fa zhao zhi	533
+西固城铁路	xi gu cheng tie lu	29
+西固城线	xi gu cheng xian	2543
+西瓜	xi gua	1566
+西合段	xi he duan	419
+西潢	xi huang	974
+西黄	xi huang	630
+西黄联络线	xi huang lian luo xian	2535
+西黄线	xi huang xian	2536
+西局	xi ju	2983
+西康铁路	xi kang tie lu	2541
+西康线	xi kang xian	2542
+西良	xi liang	632
+西良联络线	xi liang lian luo xian	2539
+西良铁路	xi liang tie lu	28
+西良线	xi liang xian	2540
+西临	xi lin	979
+溪田铁路	xi tian tie lu	27
+溪田线	xi tian xian	2534
+溪田支线	xi tian zhi xian	2533
+西铁城	xi tie cheng	3183
+西铁城条码打印机	xi tie cheng tiao ma da yin ji	882
+西铁城制票机	xi tie cheng zhi piao ji	881
+席位	xi wei	3263
+吸污	xi wu	3054
+习习吴	xi xi wu	283
+西咸	xi xian	474
+下层	xia ceng	3257
+夏丹姝	xia dan shu	695
+下隔铁路	xia ge tie lu	405
+下隔线	xia ge xian	406
+下票号	xia piao hao	3212
+下铺	xia pu	3256
+下行	xia xing	3066
+限乘当日当次车	xian cheng dang ri dang ci che	1156
+线代码	xian dai ma	339
+线段	xian duan	2272
+线段始站	xian duan shi zhan	334
+线段尾站	xian duan wei zhan	331
+衔接点	xian jie dian	1510
+线路	xian lu	2938
+线路码	xian lu ma	621
+线路所	xian lu suo	1045
+线路中断	xian lu zhong duan	809
+仙宁铁路	xian ning tie lu	26
+仙宁线	xian ning xian	121
+线始站	xian shi zhan	335
+限售	xian shou	1291
+限售站	xian shou zhan	3215
+咸铜铁路	xian tong tie lu	2531
+咸铜线	xian tong xian	2532
+线尾站	xian wei zhan	332
+向霸	xiang ba	993
+香肠	xiang chang	1556
+襄樊东线	xiang fan dong xian	404
+香港	xiang gang	905
+相关经由	xiang guan jing you	345
+湘桂铁路	xiang gui tie lu	2529
+湘桂线	xiang gui xian	2530
+相互间的	xiang hu jian de	824
+相互间的客运运价里程	xiang hu jian de ke yun yun jia li cheng	825
+相互间客票票价	xiang hu jian ke piao piao jia	820
+向京	xiang jing	995
+向乐铁路	xiang le tie lu	24
+向乐线	xiang le xian	2522
+向乐支线	xiang le zhi xian	2521
+向梁	xiang liang	2153
+向梁联络线	xiang liang lian luo xian	2525
+向梁铁路	xiang liang tie lu	23
+向梁线	xiang liang xian	2526
+湘黔铁路	xiang qian tie lu	2411
+湘黔线	xiang qian xian	2412
+向潭	xiang tan	2155
+向潭联络线	xiang tan lian luo xian	2523
+向潭铁路	xiang tan tie lu	22
+向潭线	xiang tan xian	2524
+襄阳东铁路	xiang yang dong tie lu	25
+襄阳东线	xiang yang dong xian	120
+襄渝铁路	xiang yu tie lu	2527
+襄渝线	xiang yu xian	2528
+小刁	xiao diao	282
+小孩	xiao hai	3307
+小孩票	xiao hai piao	3305
+小孩无票	xiao hai wu piao	3338
+销角	xiao jiao	1123
+小科	xiao ke	366
+小科学家	xiao ke xue jia	365
+小厉联络线	xiao li lian luo xian	2519
+小厉铁路	xiao li tie lu	20
+小梨铁路	xiao li tie lu	21
+小厉线	xiao li xian	2520
+小梨线	xiao li xian	119
+小市羊汤	xiao shi yang tang	2942
+小翔	xiao xiang	450
+小小	xiao xiao	372
+小新铁路	xiao xin tie lu	19
+小新线	xiao xin xian	118
+萧甬	xiao yong	2964
+萧甬铁路	xiao yong tie lu	2740
+萧甬线	xiao yong xian	2741
+小运转	xiao yun zhuan	1409
+小字典	xiao zi dian	733
+新兵	xin bing	908
+新兵运输	xin bing yun shu	907
+新干线	xin gan xian	1332
+新锅炉	xin guo lu	464
+忻河铁路	xin he tie lu	2517
+忻河线	xin he xian	2518
+信潢	xin huang	980
+新建线	xin jian xian	2110
+新靖铁路新海段	xin jing tie lu xin hai duan	18
+新靖线新海段	xin jing xian xin hai duan	117
+新空	xin kong	3113
+新空调	xin kong tiao	3114
+新空调包厢软座	xin kong tiao bao xiang ruan zuo	754
+新空调包厢软座高速	xin kong tiao bao xiang ruan zuo gao su	801
+新空调包厢软座快速	xin kong tiao bao xiang ruan zuo kuai su	1173
+新空调包厢软座普快	xin kong tiao bao xiang ruan zuo pu kuai	1174
+新空调包厢软座特快	xin kong tiao bao xiang ruan zuo te kuai	1172
+新空调包厢软座准高	xin kong tiao bao xiang ruan zuo zhun gao	1171
+新空调包厢硬卧	xin kong tiao bao xiang ying wo	751
+新空调包厢硬卧高速	xin kong tiao bao xiang ying wo gao su	1694
+新空调包厢硬卧快慢	xin kong tiao bao xiang ying wo kuai man	1692
+新空调包厢硬卧快速	xin kong tiao bao xiang ying wo kuai su	1702
+新空调包厢硬卧普客	xin kong tiao bao xiang ying wo pu ke	1706
+新空调包厢硬卧普快	xin kong tiao bao xiang ying wo pu kuai	1704
+新空调包厢硬卧特快	xin kong tiao bao xiang ying wo te kuai	1700
+新空调包厢硬卧直达	xin kong tiao bao xiang ying wo zhi da	1698
+新空调包厢硬卧准高	xin kong tiao bao xiang ying wo zhun gao	1696
+新空调二等软座	xin kong tiao er deng ruan zuo	756
+新空调二等软座高速	xin kong tiao er deng ruan zuo gao su	803
+新空调二等软座快速	xin kong tiao er deng ruan zuo kuai su	1181
+新空调二等软座普快	xin kong tiao er deng ruan zuo pu kuai	1182
+新空调二等软座特快	xin kong tiao er deng ruan zuo te kuai	1180
+新空调二等软座准高	xin kong tiao er deng ruan zuo zhun gao	1179
+新空调高级软卧	xin kong tiao gao ji ruan wo	750
+新空调高级软卧高速	xin kong tiao gao ji ruan wo gao su	1693
+新空调高级软卧快慢	xin kong tiao gao ji ruan wo kuai man	1691
+新空调高级软卧快速	xin kong tiao gao ji ruan wo kuai su	1701
+新空调高级软卧普客	xin kong tiao gao ji ruan wo pu ke	1705
+新空调高级软卧普快	xin kong tiao gao ji ruan wo pu kuai	1703
+新空调高级软卧特快	xin kong tiao gao ji ruan wo te kuai	1699
+新空调高级软卧直达	xin kong tiao gao ji ruan wo zhi da	1697
+新空调高级软卧准高	xin kong tiao gao ji ruan wo zhun gao	1695
+新空调软卧	xin kong tiao ruan wo	752
+新空调软卧代座高速	xin kong tiao ruan wo dai zuo gao su	1893
+新空调软卧代座快慢	xin kong tiao ruan wo dai zuo kuai man	1891
+新空调软卧代座快速	xin kong tiao ruan wo dai zuo kuai su	1901
+新空调软卧代座普客	xin kong tiao ruan wo dai zuo pu ke	1905
+新空调软卧代座普快	xin kong tiao ruan wo dai zuo pu kuai	1903
+新空调软卧代座特快	xin kong tiao ruan wo dai zuo te kuai	1899
+新空调软卧代座直达	xin kong tiao ruan wo dai zuo zhi da	1897
+新空调软卧代座准高	xin kong tiao ruan wo dai zuo zhun gao	1895
+新空调软座	xin kong tiao ruan zuo	758
+新空调软座高速	xin kong tiao ruan zuo gao su	1909
+新空调软座高速卧	xin kong tiao ruan zuo gao su wo	1773
+新空调软座快慢	xin kong tiao ruan zuo kuai man	1907
+新空调软座快慢卧	xin kong tiao ruan zuo kuai man wo	1771
+新空调软座快速	xin kong tiao ruan zuo kuai su	1917
+新空调软座快速卧	xin kong tiao ruan zuo kuai su wo	1781
+新空调软座普客	xin kong tiao ruan zuo pu ke	1921
+新空调软座普客卧	xin kong tiao ruan zuo pu ke wo	1785
+新空调软座普快	xin kong tiao ruan zuo pu kuai	1919
+新空调软座普快卧	xin kong tiao ruan zuo pu kuai wo	1783
+新空调软座特快	xin kong tiao ruan zuo te kuai	1915
+新空调软座特快卧	xin kong tiao ruan zuo te kuai wo	1779
+新空调软座直达	xin kong tiao ruan zuo zhi da	1913
+新空调软座直达卧	xin kong tiao ruan zuo zhi da wo	1777
+新空调软座准高	xin kong tiao ruan zuo zhun gao	1911
+新空调软座准高卧	xin kong tiao ruan zuo zhun gao wo	1775
+新空调特等软座	xin kong tiao te deng ruan zuo	755
+新空调特等软座高速	xin kong tiao te deng ruan zuo gao su	802
+新空调特等软座快速	xin kong tiao te deng ruan zuo kuai su	1177
+新空调特等软座普快	xin kong tiao te deng ruan zuo pu kuai	1178
+新空调特等软座特快	xin kong tiao te deng ruan zuo te kuai	1176
+新空调特等软座准高	xin kong tiao te deng ruan zuo zhun gao	1175
+新空调一等软座	xin kong tiao yi deng ruan zuo	757
+新空调一等软座高速	xin kong tiao yi deng ruan zuo gao su	804
+新空调一等软座快速	xin kong tiao yi deng ruan zuo kuai su	1185
+新空调一等软座普快	xin kong tiao yi deng ruan zuo pu kuai	1186
+新空调一等软座特快	xin kong tiao yi deng ruan zuo te kuai	1184
+新空调一等软座准高	xin kong tiao yi deng ruan zuo zhun gao	1183
+新空调一人软包	xin kong tiao yi ren ruan bao	749
+新空调一人软包高速	xin kong tiao yi ren ruan bao gao su	1652
+新空调一人软包快慢	xin kong tiao yi ren ruan bao kuai man	1651
+新空调一人软包快速	xin kong tiao yi ren ruan bao kuai su	1656
+新空调一人软包普客	xin kong tiao yi ren ruan bao pu ke	1658
+新空调一人软包普快	xin kong tiao yi ren ruan bao pu kuai	1657
+新空调一人软包特快	xin kong tiao yi ren ruan bao te kuai	1655
+新空调一人软包直达	xin kong tiao yi ren ruan bao zhi da	1654
+新空调一人软包准高	xin kong tiao yi ren ruan bao zhun gao	1653
+新空调硬卧	xin kong tiao ying wo	753
+新空调硬卧代座高速	xin kong tiao ying wo dai zuo gao su	1894
+新空调硬卧代座快慢	xin kong tiao ying wo dai zuo kuai man	1892
+新空调硬卧代座快速	xin kong tiao ying wo dai zuo kuai su	1902
+新空调硬卧代座普客	xin kong tiao ying wo dai zuo pu ke	1906
+新空调硬卧代座普快	xin kong tiao ying wo dai zuo pu kuai	1904
+新空调硬卧代座特快	xin kong tiao ying wo dai zuo te kuai	1900
+新空调硬卧代座直达	xin kong tiao ying wo dai zuo zhi da	1898
+新空调硬卧代座准高	xin kong tiao ying wo dai zuo zhun gao	1896
+新空调硬座	xin kong tiao ying zuo	759
+新空调硬座高速	xin kong tiao ying zuo gao su	1910
+新空调硬座高速卧	xin kong tiao ying zuo gao su wo	1774
+新空调硬座快慢	xin kong tiao ying zuo kuai man	1908
+新空调硬座快慢卧	xin kong tiao ying zuo kuai man wo	1772
+新空调硬座快速	xin kong tiao ying zuo kuai su	1918
+新空调硬座快速卧	xin kong tiao ying zuo kuai su wo	1782
+新空调硬座普客	xin kong tiao ying zuo pu ke	1922
+新空调硬座普客卧	xin kong tiao ying zuo pu ke wo	1786
+新空调硬座普快	xin kong tiao ying zuo pu kuai	1920
+新空调硬座普快卧	xin kong tiao ying zuo pu kuai wo	1784
+新空调硬座特快	xin kong tiao ying zuo te kuai	1916
+新空调硬座特快卧	xin kong tiao ying zuo te kuai wo	1780
+新空调硬座直达	xin kong tiao ying zuo zhi da	1914
+新空调硬座直达卧	xin kong tiao ying zuo zhi da wo	1778
+新空调硬座准高	xin kong tiao ying zuo zhun gao	1912
+新空调硬座准高卧	xin kong tiao ying zuo zhun gao wo	1776
+新石铁路	xin shi tie lu	2512
+新石线	xin shi xian	2513
+新曙光	xin shu guang	1612
+辛泰铁路	xin tai tie lu	2516
+辛泰线	xin tai xian	418
+新型	xin xing	1642
+新型包厢硬卧	xin xing bao xiang ying wo	744
+新型包厢硬卧高速	xin xing bao xiang ying wo gao su	1262
+新型包厢硬卧快慢	xin xing bao xiang ying wo kuai man	1260
+新型包厢硬卧快速	xin xing bao xiang ying wo kuai su	1270
+新型包厢硬卧普客	xin xing bao xiang ying wo pu ke	1274
+新型包厢硬卧普快	xin xing bao xiang ying wo pu kuai	1272
+新型包厢硬卧特快	xin xing bao xiang ying wo te kuai	1268
+新型包厢硬卧直达	xin xing bao xiang ying wo zhi da	1266
+新型包厢硬卧准高	xin xing bao xiang ying wo zhun gao	1264
+新型高级软卧	xin xing gao ji ruan wo	743
+新型高级软卧高速	xin xing gao ji ruan wo gao su	1261
+新型高级软卧快慢	xin xing gao ji ruan wo kuai man	1259
+新型高级软卧快速	xin xing gao ji ruan wo kuai su	1269
+新型高级软卧普客	xin xing gao ji ruan wo pu ke	1273
+新型高级软卧普快	xin xing gao ji ruan wo pu kuai	1271
+新型高级软卧特快	xin xing gao ji ruan wo te kuai	1267
+新型高级软卧直达	xin xing gao ji ruan wo zhi da	1265
+新型高级软卧准高	xin xing gao ji ruan wo zhun gao	1263
+新型软卧	xin xing ruan wo	745
+新型软卧代座高速	xin xing ruan wo dai zuo gao su	1861
+新型软卧代座快慢	xin xing ruan wo dai zuo kuai man	1859
+新型软卧代座快速	xin xing ruan wo dai zuo kuai su	1869
+新型软卧代座普客	xin xing ruan wo dai zuo pu ke	1873
+新型软卧代座普快	xin xing ruan wo dai zuo pu kuai	1871
+新型软卧代座特快	xin xing ruan wo dai zuo te kuai	1867
+新型软卧代座直达	xin xing ruan wo dai zuo zhi da	1865
+新型软卧代座准高	xin xing ruan wo dai zuo zhun gao	1863
+新型软座	xin xing ruan zuo	747
+新型软座高速	xin xing ruan zuo gao su	1877
+新型软座高速卧	xin xing ruan zuo gao su wo	1789
+新型软座快慢	xin xing ruan zuo kuai man	1875
+新型软座快慢卧	xin xing ruan zuo kuai man wo	1787
+新型软座快速	xin xing ruan zuo kuai su	1885
+新型软座快速卧	xin xing ruan zuo kuai su wo	1797
+新型软座普客	xin xing ruan zuo pu ke	1889
+新型软座普客卧	xin xing ruan zuo pu ke wo	1801
+新型软座普快	xin xing ruan zuo pu kuai	1887
+新型软座普快卧	xin xing ruan zuo pu kuai wo	1799
+新型软座特快	xin xing ruan zuo te kuai	1883
+新型软座特快卧	xin xing ruan zuo te kuai wo	1795
+新型软座直达	xin xing ruan zuo zhi da	1881
+新型软座直达卧	xin xing ruan zuo zhi da wo	1793
+新型软座准高	xin xing ruan zuo zhun gao	1879
+新型软座准高卧	xin xing ruan zuo zhun gao wo	1791
+新型无空调	xin xing wu kong tiao	3132
+新型一人软包	xin xing yi ren ruan bao	742
+新型一人软包高速	xin xing yi ren ruan bao gao su	1644
+新型一人软包快慢	xin xing yi ren ruan bao kuai man	1643
+新型一人软包快速	xin xing yi ren ruan bao kuai su	1648
+新型一人软包普客	xin xing yi ren ruan bao pu ke	1650
+新型一人软包普快	xin xing yi ren ruan bao pu kuai	1649
+新型一人软包特快	xin xing yi ren ruan bao te kuai	1647
+新型一人软包直达	xin xing yi ren ruan bao zhi da	1646
+新型一人软包准高	xin xing yi ren ruan bao zhun gao	1645
+新型硬卧	xin xing ying wo	746
+新型硬卧代座高速	xin xing ying wo dai zuo gao su	1862
+新型硬卧代座快慢	xin xing ying wo dai zuo kuai man	1860
+新型硬卧代座快速	xin xing ying wo dai zuo kuai su	1870
+新型硬卧代座普客	xin xing ying wo dai zuo pu ke	1874
+新型硬卧代座普快	xin xing ying wo dai zuo pu kuai	1872
+新型硬卧代座特快	xin xing ying wo dai zuo te kuai	1868
+新型硬卧代座直达	xin xing ying wo dai zuo zhi da	1866
+新型硬卧代座准高	xin xing ying wo dai zuo zhun gao	1864
+新型硬座	xin xing ying zuo	748
+新型硬座高速	xin xing ying zuo gao su	1878
+新型硬座高速卧	xin xing ying zuo gao su wo	1790
+新型硬座快慢	xin xing ying zuo kuai man	1876
+新型硬座快慢卧	xin xing ying zuo kuai man wo	1788
+新型硬座快速	xin xing ying zuo kuai su	1886
+新型硬座快速卧	xin xing ying zuo kuai su wo	1798
+新型硬座普客	xin xing ying zuo pu ke	1890
+新型硬座普客卧	xin xing ying zuo pu ke wo	1802
+新型硬座普快	xin xing ying zuo pu kuai	1888
+新型硬座普快卧	xin xing ying zuo pu kuai wo	1800
+新型硬座特快	xin xing ying zuo te kuai	1884
+新型硬座特快卧	xin xing ying zuo te kuai wo	1796
+新型硬座直达	xin xing ying zuo zhi da	1882
+新型硬座直达卧	xin xing ying zuo zhi da wo	1794
+新型硬座准高	xin xing ying zuo zhun gao	1880
+新型硬座准高卧	xin xing ying zuo zhun gao wo	1792
+新型有空调	xin xing you kong tiao	3131
+新义铁路	xin yi tie lu	2502
+新义线	xin yi xian	2503
+新月洛	xin yue luo	2160
+行包	xing bao	481
+行包业务	xing bao ye wu	480
+行李	xing li	1096
+行李车	xing li che	3038
+行李房	xing li fang	483
+杏厦铁路	xing sha tie lu	416
+杏厦线	xing sha xian	417
+兴新义	xing xin yi	2144
+兴新义承	xing xin yi cheng	2142
+兴新义叶	xing xin yi ye	2143
+行邮车	xing you che	3030
+徐宝	xu bao	1021
+徐大埋汰	xu da mai tai	692
+徐大铁路	xu da tie lu	17
+徐大线	xu da xian	116
+徐段	xu duan	2971
+徐家方向各站	xu jia fang xiang ge zhan	830
+徐兰	xu lan	2371
+徐兰高速铁路郑西段	xu lan gao su tie lu zheng xi duan	16
+徐兰高速线郑西段	xu lan gao su xian zheng xi duan	2369
+虚糜	xu mi	2086
+徐沛铁路	xu pei tie lu	2392
+徐沛线	xu pei xian	2393
+宣杭铁路	xuan hang tie lu	2500
+宣杭线	xuan hang xian	2501
+学返票	xue fan piao	3290
+学票	xue piao	3304
+学生返程票	xue sheng fan cheng piao	3289
+学生联程票	xue sheng lian cheng piao	1061
+学生票	xue sheng piao	3303
+学生往返票管理办法	xue sheng wang fan piao guan li ban fa	1060
+学生异地	xue sheng yi di	1063
+学生异地票	xue sheng yi di piao	1062
+学生用途	xue sheng yong tu	1288
+学生优惠卡	xue sheng you hui ka	504
+学生优惠卡设备	xue sheng you hui ka she bei	503
+鸭大铁路	ya da tie lu	2496
+鸭大线	ya da xian	2497
+牙林铁路	ya lin tie lu	2494
+牙林线	ya lin xian	2495
+压煤改线	ya mei gai xian	1025
+压票	ya piao	1117
+压票监控	ya piao jian kong	1116
+压抑铁路	ya yi tie lu	2498
+鸦宜铁路	ya yi tie lu	15
+鸦宜线	ya yi xian	2499
+延边之星	yan bian zhi xing	1359
+验票	yan piao	1121
+兖石铁路	yan shi tie lu	2510
+兖石线	yan shi xian	2511
+阳安铁路	yang an tie lu	2490
+阳安线	yang an xian	2491
+羊场线	yang chang xian	2493
+羊场支线	yang chang zhi xian	2492
+羊城公司	yang cheng gong si	2957
+杨村糕干	yang cun gao gan	1517
+羊肉杰子	yang rou jie zi	272
+羊习习	yang xi xi	284
+垚姐	yao jie	299
+叶赤铁路	ye chi tie lu	2488
+叶赤线	ye chi xian	2489
+业务办理	ye wu ban li	3098
+业务流程	ye wu liu cheng	508
+一般站表	yi ban zhan biao	2286
+易程	yi cheng	3175
+易程磁记录热敏打印机	yi cheng ci ji lu re min da yin ji	870
+易程科技股份有限公司	yi cheng ke ji gu fen you xian gong si	494
+易程制票机	yi cheng zhi piao ji	869
+一档折扣	yi dang zhe kou	3127
+一等	yi deng	3269
+一等软座车	yi deng ruan zuo che	3047
+一等座车	yi deng zuo che	3029
+异地	yi di	3238
+异地费	yi di fei	1132
+异地票	yi di piao	1066
+移动补票	yi dong bu piao	3179
+一飞兔肉	yi fei tu rou	1399
+宜珙铁路	yi gong tie lu	2482
+宜珙线	yi gong xian	2483
+一灰	yi hui	1403
+一灰兔肉	yi hui tu rou	1398
+伊加铁路	yi jia tie lu	2486
+伊加线	yi jia xian	2487
+以近	yi jin	836
+一口价	yi kou jia	3103
+一类包裹	yi lei bao guo	1094
+逸鹏	yi peng	373
+逸鹏飞	yi peng fei	1544
+一人软包	yi ren ruan bao	3272
+一人软包代座	yi ren ruan bao dai zuo	776
+一人软包高速	yi ren ruan bao gao su	1684
+一人软包快慢	yi ren ruan bao kuai man	1683
+一人软包快速	yi ren ruan bao kuai su	1688
+一人软包普客	yi ren ruan bao pu ke	1690
+一人软包普快	yi ren ruan bao pu kuai	1689
+一人软包特快	yi ren ruan bao te kuai	1687
+一人软包直达	yi ren ruan bao zhi da	1686
+一人软包准高	yi ren ruan bao zhun gao	1685
+以上	yi shang	835
+易滕迈	yi teng mai	3182
+易滕迈条码打印机	yi teng mai tiao ma da yin ji	880
+易滕迈制票机	yi teng mai zhi piao ji	879
+一体机	yi ti ji	3180
+一条径路	yi tiao jing lu	355
+一条经由	yi tiao jing you	354
+一维码	yi wei ma	526
+以下	yi xia	834
+义新	yi xin	2180
+益永	yi yong	415
+益永铁路	yi yong tie lu	2484
+益永线	yi yong xian	2485
+以远	yi yuan	837
+以远站	yi yuan zhan	3216
+益湛	yi zhan	414
+益湛铁路	yi zhan tie lu	412
+益湛铁路永电段	yi zhan tie lu yong dian duan	14
+益湛线	yi zhan xian	413
+益湛线永电段	yi zhan xian yong dian duan	115
+益湛线永马段	yi zhan xian yong ma duan	411
+一站直达	yi zhan zhi da	927
+一站直到	yi zhan zhi dao	926
+一直站到	yi zhi zhan dao	807
+银联线	yin lian xian	1042
+硬卡	ying ka	897
+营口铁路	ying kou tie lu	13
+营口线	ying kou xian	2479
+营口支线	ying kou zhi xian	2478
+硬卧	ying wo	3278
+硬卧车	ying wo che	3044
+硬卧代座	ying wo dai zuo	780
+硬卧代座高速	ying wo dai zuo gao su	2038
+硬卧代座快慢	ying wo dai zuo kuai man	2036
+硬卧代座快速	ying wo dai zuo kuai su	2046
+硬卧代座普客	ying wo dai zuo pu ke	2050
+硬卧代座普快	ying wo dai zuo pu kuai	2048
+硬卧代座特快	ying wo dai zuo te kuai	2044
+硬卧代座直达	ying wo dai zuo zhi da	2042
+硬卧代座准高	ying wo dai zuo zhun gao	2040
+硬卧至	ying wo zhi	1630
+硬席	ying xi	3202
+硬席乘车证签证	ying xi cheng che zheng qian zheng	1148
+鹰厦铁路	ying xia tie lu	2481
+鹰厦线	ying xia xian	2480
+硬纸板票	ying zhi ban piao	899
+硬座	ying zuo	3281
+硬座车	ying zuo che	3049
+硬座高速	ying zuo gao su	2054
+硬座高速卧	ying zuo gao su wo	1854
+硬座快慢	ying zuo kuai man	2052
+硬座快慢卧	ying zuo kuai man wo	1852
+硬座快速	ying zuo kuai su	2062
+硬座快速卧	ying zuo kuai su wo	1858
+硬座普客	ying zuo pu ke	2066
+硬座普客卧	ying zuo pu ke wo	3122
+硬座普快	ying zuo pu kuai	2064
+硬座普快联合区段票	ying zuo pu kuai lian he qu duan piao	892
+硬座普快卧	ying zuo pu kuai wo	3120
+硬座区段票	ying zuo qu duan piao	894
+硬座特快	ying zuo te kuai	2060
+硬座特快卧	ying zuo te kuai wo	3118
+硬座直达	ying zuo zhi da	2058
+硬座直达卧	ying zuo zhi da wo	3116
+硬座准高	ying zuo zhun gao	2056
+硬座准高卧	ying zuo zhun gao wo	1856
+邕段	yong duan	2960
+甬连	yong lian	432
+永马	yong ma	410
+永马段	yong ma duan	409
+甬厦	yong sha	431
+永亭铁路	yong ting tie lu	12
+永亭线	yong ting xian	114
+用途	yong tu	3251
+用途关联	yong tu guan lian	173
+用途调整	yong tu tiao zheng	1286
+有关经由	you guan jing you	344
+优惠	you hui	3093
+优惠票	you hui piao	3330
+优惠卧铺	you hui wo pu	490
+优空调	you kong tiao	1640
+优空调包厢硬卧高速	you kong tiao bao xiang ying wo gao su	1710
+优空调包厢硬卧快慢	you kong tiao bao xiang ying wo kuai man	1708
+优空调包厢硬卧快速	you kong tiao bao xiang ying wo kuai su	1718
+优空调包厢硬卧普客	you kong tiao bao xiang ying wo pu ke	1722
+优空调包厢硬卧普快	you kong tiao bao xiang ying wo pu kuai	1720
+优空调包厢硬卧特快	you kong tiao bao xiang ying wo te kuai	1716
+优空调包厢硬卧直达	you kong tiao bao xiang ying wo zhi da	1714
+优空调包厢硬卧准高	you kong tiao bao xiang ying wo zhun gao	1712
+优空调高级软卧高速	you kong tiao gao ji ruan wo gao su	1709
+优空调高级软卧快慢	you kong tiao gao ji ruan wo kuai man	1707
+优空调高级软卧快速	you kong tiao gao ji ruan wo kuai su	1717
+优空调高级软卧普客	you kong tiao gao ji ruan wo pu ke	1721
+优空调高级软卧普快	you kong tiao gao ji ruan wo pu kuai	1719
+优空调高级软卧特快	you kong tiao gao ji ruan wo te kuai	1715
+优空调高级软卧直达	you kong tiao gao ji ruan wo zhi da	1713
+优空调高级软卧准高	you kong tiao gao ji ruan wo zhun gao	1711
+优空调软卧代座高速	you kong tiao ruan wo dai zuo gao su	1925
+优空调软卧代座快慢	you kong tiao ruan wo dai zuo kuai man	1923
+优空调软卧代座快速	you kong tiao ruan wo dai zuo kuai su	1933
+优空调软卧代座普客	you kong tiao ruan wo dai zuo pu ke	1937
+优空调软卧代座普快	you kong tiao ruan wo dai zuo pu kuai	1935
+优空调软卧代座特快	you kong tiao ruan wo dai zuo te kuai	1931
+优空调软卧代座直达	you kong tiao ruan wo dai zuo zhi da	1929
+优空调软卧代座准高	you kong tiao ruan wo dai zuo zhun gao	1927
+优空调软座高速	you kong tiao ruan zuo gao su	1941
+优空调软座高速卧	you kong tiao ruan zuo gao su wo	1805
+优空调软座快慢	you kong tiao ruan zuo kuai man	1939
+优空调软座快慢卧	you kong tiao ruan zuo kuai man wo	1803
+优空调软座快速	you kong tiao ruan zuo kuai su	1949
+优空调软座快速卧	you kong tiao ruan zuo kuai su wo	1813
+优空调软座普客	you kong tiao ruan zuo pu ke	1953
+优空调软座普客卧	you kong tiao ruan zuo pu ke wo	1817
+优空调软座普快	you kong tiao ruan zuo pu kuai	1951
+优空调软座普快卧	you kong tiao ruan zuo pu kuai wo	1815
+优空调软座特快	you kong tiao ruan zuo te kuai	1947
+优空调软座特快卧	you kong tiao ruan zuo te kuai wo	1811
+优空调软座直达	you kong tiao ruan zuo zhi da	1945
+优空调软座直达卧	you kong tiao ruan zuo zhi da wo	1809
+优空调软座准高	you kong tiao ruan zuo zhun gao	1943
+优空调软座准高卧	you kong tiao ruan zuo zhun gao wo	1807
+优空调一人软包高速	you kong tiao yi ren ruan bao gao su	1660
+优空调一人软包快慢	you kong tiao yi ren ruan bao kuai man	1659
+优空调一人软包快速	you kong tiao yi ren ruan bao kuai su	1664
+优空调一人软包普客	you kong tiao yi ren ruan bao pu ke	1666
+优空调一人软包普快	you kong tiao yi ren ruan bao pu kuai	1665
+优空调一人软包特快	you kong tiao yi ren ruan bao te kuai	1663
+优空调一人软包直达	you kong tiao yi ren ruan bao zhi da	1662
+优空调一人软包准高	you kong tiao yi ren ruan bao zhun gao	1661
+优空调硬卧代座高速	you kong tiao ying wo dai zuo gao su	1926
+优空调硬卧代座快慢	you kong tiao ying wo dai zuo kuai man	1924
+优空调硬卧代座快速	you kong tiao ying wo dai zuo kuai su	1934
+优空调硬卧代座普客	you kong tiao ying wo dai zuo pu ke	1938
+优空调硬卧代座普快	you kong tiao ying wo dai zuo pu kuai	1936
+优空调硬卧代座特快	you kong tiao ying wo dai zuo te kuai	1932
+优空调硬卧代座直达	you kong tiao ying wo dai zuo zhi da	1930
+优空调硬卧代座准高	you kong tiao ying wo dai zuo zhun gao	1928
+优空调硬座高速	you kong tiao ying zuo gao su	1942
+优空调硬座高速卧	you kong tiao ying zuo gao su wo	1806
+优空调硬座快慢	you kong tiao ying zuo kuai man	1940
+优空调硬座快慢卧	you kong tiao ying zuo kuai man wo	1804
+优空调硬座快速	you kong tiao ying zuo kuai su	1950
+优空调硬座快速卧	you kong tiao ying zuo kuai su wo	1814
+优空调硬座普客	you kong tiao ying zuo pu ke	1954
+优空调硬座普客卧	you kong tiao ying zuo pu ke wo	1818
+优空调硬座普快	you kong tiao ying zuo pu kuai	1952
+优空调硬座普快卧	you kong tiao ying zuo pu kuai wo	1816
+优空调硬座特快	you kong tiao ying zuo te kuai	1948
+优空调硬座特快卧	you kong tiao ying zuo te kuai wo	1812
+优空调硬座直达	you kong tiao ying zuo zhi da	1946
+优空调硬座直达卧	you kong tiao ying zuo zhi da wo	1810
+优空调硬座准高	you kong tiao ying zuo zhun gao	1944
+优空调硬座准高卧	you kong tiao ying zuo zhun gao wo	1808
+有效期	you xiao qi	1159
+邮政车	you zheng che	3037
+优质	you zhi	1641
+优质包厢硬卧高速	you zhi bao xiang ying wo gao su	1726
+优质包厢硬卧快慢	you zhi bao xiang ying wo kuai man	1724
+优质包厢硬卧快速	you zhi bao xiang ying wo kuai su	1734
+优质包厢硬卧普客	you zhi bao xiang ying wo pu ke	1738
+优质包厢硬卧普快	you zhi bao xiang ying wo pu kuai	1736
+优质包厢硬卧特快	you zhi bao xiang ying wo te kuai	1732
+优质包厢硬卧直达	you zhi bao xiang ying wo zhi da	1730
+优质包厢硬卧准高	you zhi bao xiang ying wo zhun gao	1728
+优质高级软卧高速	you zhi gao ji ruan wo gao su	1725
+优质高级软卧快慢	you zhi gao ji ruan wo kuai man	1723
+优质高级软卧快速	you zhi gao ji ruan wo kuai su	1733
+优质高级软卧普客	you zhi gao ji ruan wo pu ke	1737
+优质高级软卧普快	you zhi gao ji ruan wo pu kuai	1735
+优质高级软卧特快	you zhi gao ji ruan wo te kuai	1731
+优质高级软卧直达	you zhi gao ji ruan wo zhi da	1729
+优质高级软卧准高	you zhi gao ji ruan wo zhun gao	1727
+优质软卧代座高速	you zhi ruan wo dai zuo gao su	1957
+优质软卧代座快慢	you zhi ruan wo dai zuo kuai man	1955
+优质软卧代座快速	you zhi ruan wo dai zuo kuai su	1965
+优质软卧代座普客	you zhi ruan wo dai zuo pu ke	1969
+优质软卧代座普快	you zhi ruan wo dai zuo pu kuai	1967
+优质软卧代座特快	you zhi ruan wo dai zuo te kuai	1963
+优质软卧代座直达	you zhi ruan wo dai zuo zhi da	1961
+优质软卧代座准高	you zhi ruan wo dai zuo zhun gao	1959
+优质软座高速	you zhi ruan zuo gao su	1973
+优质软座高速卧	you zhi ruan zuo gao su wo	1821
+优质软座快慢	you zhi ruan zuo kuai man	1971
+优质软座快慢卧	you zhi ruan zuo kuai man wo	1819
+优质软座快速	you zhi ruan zuo kuai su	1981
+优质软座快速卧	you zhi ruan zuo kuai su wo	1829
+优质软座普客	you zhi ruan zuo pu ke	1985
+优质软座普客卧	you zhi ruan zuo pu ke wo	1833
+优质软座普快	you zhi ruan zuo pu kuai	1983
+优质软座普快卧	you zhi ruan zuo pu kuai wo	1831
+优质软座特快	you zhi ruan zuo te kuai	1979
+优质软座特快卧	you zhi ruan zuo te kuai wo	1827
+优质软座直达	you zhi ruan zuo zhi da	1977
+优质软座直达卧	you zhi ruan zuo zhi da wo	1825
+优质软座准高	you zhi ruan zuo zhun gao	1975
+优质软座准高卧	you zhi ruan zuo zhun gao wo	1823
+有直通车	you zhi tong che	852
+优质无空调	you zhi wu kong tiao	3130
+优质一人软包高速	you zhi yi ren ruan bao gao su	1668
+优质一人软包快慢	you zhi yi ren ruan bao kuai man	1667
+优质一人软包快速	you zhi yi ren ruan bao kuai su	1672
+优质一人软包普客	you zhi yi ren ruan bao pu ke	1674
+优质一人软包普快	you zhi yi ren ruan bao pu kuai	1673
+优质一人软包特快	you zhi yi ren ruan bao te kuai	1671
+优质一人软包直达	you zhi yi ren ruan bao zhi da	1670
+优质一人软包准高	you zhi yi ren ruan bao zhun gao	1669
+优质硬卧代座高速	you zhi ying wo dai zuo gao su	1958
+优质硬卧代座快慢	you zhi ying wo dai zuo kuai man	1956
+优质硬卧代座快速	you zhi ying wo dai zuo kuai su	1966
+优质硬卧代座普客	you zhi ying wo dai zuo pu ke	1970
+优质硬卧代座普快	you zhi ying wo dai zuo pu kuai	1968
+优质硬卧代座特快	you zhi ying wo dai zuo te kuai	1964
+优质硬卧代座直达	you zhi ying wo dai zuo zhi da	1962
+优质硬卧代座准高	you zhi ying wo dai zuo zhun gao	1960
+优质硬座高速	you zhi ying zuo gao su	1974
+优质硬座高速卧	you zhi ying zuo gao su wo	1822
+优质硬座快慢	you zhi ying zuo kuai man	1972
+优质硬座快慢卧	you zhi ying zuo kuai man wo	1820
+优质硬座快速	you zhi ying zuo kuai su	1982
+优质硬座快速卧	you zhi ying zuo kuai su wo	1830
+优质硬座普客	you zhi ying zuo pu ke	1986
+优质硬座普客卧	you zhi ying zuo pu ke wo	1834
+优质硬座普快	you zhi ying zuo pu kuai	1984
+优质硬座普快卧	you zhi ying zuo pu kuai wo	1832
+优质硬座特快	you zhi ying zuo te kuai	1980
+优质硬座特快卧	you zhi ying zuo te kuai wo	1828
+优质硬座直达	you zhi ying zuo zhi da	1978
+优质硬座直达卧	you zhi ying zuo zhi da wo	1826
+优质硬座准高	you zhi ying zuo zhun gao	1976
+优质硬座准高卧	you zhi ying zuo zhun gao wo	1824
+优质优价	you zhi you jia	1639
+优质有空调	you zhi you kong tiao	3129
+有座票	you zuo piao	1278
+渝宝	yu bao	1020
+预订系统	yu ding xi tong	3172
+渝段	yu duan	2987
+渝贵	yu gui	958
+于虎线	yu hu xian	2328
+渝怀铁路	yu huai tie lu	2476
+渝怀线	yu huai xian	2477
+玉门沟铁路	yu men gou tie lu	11
+玉门沟线	yu men gou xian	2475
+玉门沟支线	yu men gou zhi xian	2474
+雨棚	yu peng	470
+余票查询	yu piao cha xun	3219
+与普客差	yu pu ke cha	3138
+与普快差	yu pu kuai cha	3137
+榆石	yu shi	1014
+榆石衡	yu shi heng	1013
+预售	yu shou	3227
+预售处	yu shou chu	701
+预售点	yu shou dian	472
+预售票	yu shou piao	1143
+预售期	yu shou qi	3226
+与特快差	yu te kuai cha	3136
+预约预定	yu yue yu ding	925
+原段	yuan duan	2979
+原丰	yuan feng	1492
+原价退票	yuan jia tui piao	1079
+原票收回	yuan piao shou hui	1073
+原票信息	yuan piao xin xi	524
+原退	yuan tui	1078
+鸳鸯	yuan yang	3273
+粤海轮渡	yue hai lun du	2472
+粤海轮渡铁路	yue hai lun du tie lu	10
+粤海轮渡线	yue hai lun du xian	2473
+粤海铁路	yue hai tie lu	2956
+月台	yue tai	3074
+月台票	yue tai piao	3072
+越席	yue xi	1139
+越线	yue xian	397
+越线站	yue xian zhan	396
+越站	yue zhan	1140
+运被子	yun bei zi	1280
+云岗铁路	yun gang tie lu	9
+云岗线	yun gang xian	2469
+云岗支线	yun gang zhi xian	2468
+运价	yun jia	3157
+运价里程	yun jia li cheng	2268
+运能	yun neng	2085
+运椅子	yun yi zi	1281
+运转	yun zhuan	1410
+早点	zao dian	1067
+赠票	zeng piao	3328
+增停	zeng ting	730
+炸碉堡	zha diao bao	285
+窄轨	zhai gui	1604
+站场	zhan chang	1552
+站车	zhan che	687
+站到	zhan dao	808
+站房	zhan fang	1553
+站管站	zhan guan zhan	706
+湛海铁路	zhan hai tie lu	2466
+湛海线	zhan hai xian	2467
+站间价格	zhan jian jia ge	3102
+站间票价	zhan jian piao jia	3101
+占票	zhan piao	1118
+站票	zhan piao	2080
+站售	zhan shou	3229
+站台	zhan tai	3075
+站台票	zhan tai piao	3073
+展线	zhan xian	605
+张包硬	zhang bao ying	1372
+张波	zhang bo	456
+长大铁路	zhang da tie lu	2421
+长大线	zhang da xian	2422
+张东铁路	zhang dong tie lu	2464
+张东线	zhang dong xian	2465
+樟福铁路	zhang fu tie lu	407
+樟福线	zhang fu xian	408
+张高包	zhang gao bao	1373
+张集铁路	zhang ji tie lu	8
+张集线	zhang ji xian	113
+张家口铁路	zhang jia kou tie lu	7
+张家口线	zhang jia kou xian	2463
+张家口支线	zhang jia kou zhi xian	2462
+漳龙铁路	zhang long tie lu	2460
+漳龙线	zhang long xian	2461
+漳泉铁路	zhang quan tie lu	2458
+漳泉线	zhang quan xian	2459
+张软卧	zhang ruan wo	1377
+张上铺	zhang shang pu	1374
+张无座	zhang wu zuo	1380
+张下铺	zhang xia pu	1376
+张硬卧	zhang ying wo	1378
+张硬座	zhang ying zuo	1379
+张中铺	zhang zhong pu	1375
+朝发夕至	zhao fa xi zhi	532
+折返	zhe fan	3100
+折返段	zhe fan duan	3062
+折返区段	zhe fan qu duan	3063
+折返区间	zhe fan qu jian	3064
+浙赣铁路	zhe gan tie lu	2413
+浙赣线	zhe gan xian	2414
+折扣	zhe kou	3128
+折扣率	zhe kou lv	1323
+折扣票价	zhe kou piao jia	1318
+折页门	zhe ye men	3052
+郑宝	zheng bao	2237
+郑宝成	zheng bao cheng	1502
+郑宝成昆	zheng bao cheng kun	1501
+整备	zheng bei	3057
+正常	zheng chang	1080
+正常退票	zheng chang tui piao	1081
+正点	zheng dian	1068
+郑横麻	zheng heng ma	986
+郑横麻庐	zheng heng ma lu	985
+郑兰	zheng lan	982
+正太	zheng tai	205
+正太铁路	zheng tai tie lu	204
+郑武	zheng wu	987
+郑武庐	zheng wu lu	988
+郑西	zheng xi	2370
+郑荥铁路	zheng xing tie lu	2367
+郑荥线	zheng xing xian	2368
+直达	zhi da	3387
+直达特别加快票	zhi da te bie jia kuai piao	3152
+指定	zhi ding	3265
+指定车次的到站已封	zhi ding che ci de dao zhan yi feng	854
+指定车次的发站已封	zhi ding che ci de fa zhan yi feng	855
+指定车次已封	zhi ding che ci yi feng	3162
+指定到站已封	zhi ding dao zhan yi feng	3160
+指定发站已封	zhi ding fa zhan yi feng	3161
+指定经由	zhi ding jing you	625
+指定站代售	zhi ding zhan dai shou	471
+直供电	zhi gong dian	1329
+直客	zhi ke	3373
+直快	zhi kuai	3374
+至另有通知时止	zhi ling you tong zhi shi zhi	546
+至另止	zhi ling zhi	544
+制票机	zhi piao ji	3192
+制票机初始化	zhi piao ji chu shi hua	889
+直特	zhi te	3375
+直通	zhi tong	3381
+直通车	zhi tong che	853
+直通客票业务	zhi tong ke piao ye wu	859
+执行票价	zhi xing piao jia	1320
+终到	zhong dao	3311
+终到站	zhong dao zhan	3312
+终点	zhong dian	2298
+中东铁路	zhong dong tie lu	2307
+中国铁路馆	zhong guo tie lu guan	323
+中国铁路客票发售	zhong guo tie lu ke piao fa shou	3173
+中华之星	zhong hua zhi xing	2943
+中铺	zhong pu	3255
+中铁	zhong tie	3187
+中铁磁记录热敏打印机	zhong tie ci ji lu re min da yin ji	868
+中铁客货	zhong tie ke huo	2949
+中铁快运	zhong tie kuai yun	2950
+中铁快运包裹	zhong tie kuai yun bao guo	1090
+中铁条码打印机	zhong tie tiao ma da yin ji	888
+中铁制票机	zhong tie zhi piao ji	887
+中途下车前程失效	zhong tu xia che qian cheng shi xiao	1152
+中途下车失效	zhong tu xia che shi xiao	1153
+中心经由	zhong xin jing you	388
+中原之星	zhong yuan zhi xing	2944
+中转	zhong zhuan	3345
+中转签证	zhong zhuan qian zheng	912
+中转签证用途	zhong zhuan qian zheng yong tu	911
+中转通票业务	zhong zhuan tong piao ye wu	860
+中转站	zhong zhuan zhan	3316
+中转站首字	zhong zhuan zhan shou zi	390
+周口店线	zhou kou dian xian	2396
+诸葛	zhu ge	1588
+诸葛尚聪	zhu ge shang cong	1587
+株贵	zhu gui	1500
+专属票额	zhuan shu piao e	1295
+转移计价	zhuan yi ji jia	1169
+专有票额	zhuan you piao e	1296
+专运	zhuan yun	906
+准乘	zhun cheng	1070
+准高	zhun gao	3392
+准高速	zhun gao su	3391
+准高速加快票	zhun gao su jia kuai piao	3151
+自带柴油发电机	zi dai chai you fa dian ji	1330
+自动售	zi dong shou	865
+自动售票	zi dong shou piao	864
+自动售票机	zi dong shou piao ji	863
+自动调整	zi dong tiao zheng	3220
+自由席	zi you xi	1275
+自助售票	zi zhu shou piao	867
+自助售票机	zi zhu shou piao ji	866
+自助售票机换票	zi zhu shou piao ji huan piao	502
+纵横中国	zong heng zhong guo	1355
+走行线	zou xing xian	1026
+最短径路	zui duan jing lu	815
+坐便	zuo bian	1523
+座别	zuo bie	3284
+座号	zuo hao	3253
+坐席	zuo xi	3264

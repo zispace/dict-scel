@@ -1,0 +1,203 @@
+# 文件名：航空器维修工程.scel
+# 词库名：航空器维修工程
+# 词库分类：机械工程
+# 词库描述：
+# 词条样例：左发 水洗 起飞 人为差错 发动机
+# 词条数量：196
+
+凹槽	ao cao	88
+凹坑	ao keng	95
+摆动	bai dong	32
+爆裂	bao lie	68
+被释放	bei shi fang	35
+变色	bian se	91
+变形	bian xing	97
+不安全事件	bu an quan shi jian	185
+部分功率	bu fen gong lv	17
+不工作	bu gong zuo	31
+不亮	bu liang	30
+不能复位	bu neng fu wei	29
+不一致	bu yi zhi	52
+不正常事件	bu zheng chang shi jian	116
+缠结	chan jie	57
+长航线	chang hang xian	142
+超标	chao biao	28
+超差	chao cha	133
+超温	chao wen	130
+超限	chao xian	134
+超转	chao zhuan	129
+迟滞	chi zhi	49
+除冰	chu bing	120
+穿孔	chuan kong	84
+磁堵	ci du	114
+粗糙	cu cao	82
+错牙	cuo ya	66
+大翼防冰	da yi fang bing	121
+导航数据库	dao hang shu ju ku	146
+登机门	deng ji men	189
+低慢	di man	13
+电子舱	dian zi cang	126
+吊架	diao jia	125
+定检	ding jian	131
+丢失	diu shi	45
+抖动	dou dong	27
+堵塞	du se	63
+断裂	duan lie	105
+短路	duan lu	56
+短停	duan ting	144
+恶性延误	e xing yan wu	184
+发动机	fa dong ji	196
+发动机管理中心	fa dong ji guan li zhong xin	138
+发动机监控	fa dong ji jian kong	178
+发动机性能	fa dong ji xing neng	177
+反推	fan tui	124
+防冰	fang bing	119
+非例行工卡	fei li xing gong ka	168
+非例行换发	fei li xing huan fa	112
+飞行包线	fei xing bao xian	136
+飞行记录本	fei xing ji lu ben	165
+分层	fen ceng	96
+风挡雨刷	feng dang yu shua	160
+风化	feng hua	77
+风扇包皮	feng shan bao pi	107
+风蚀	feng shi	78
+腐蚀裂纹	fu shi lie wen	102
+服务门	fu wu men	188
+副翼	fu yi	2
+辅助动力装置	fu zhu dong li zhuang zhi	158
+干扰	gan rao	26
+干涩	gan se	48
+高慢	gao man	14
+工卡	gong ka	167
+供油管	gong you guan	18
+鼓起	gu qi	104
+故障录入	gu zhang lu ru	12
+刮伤	gua shang	80
+过期	guo qi	39
+过站	guo zhan	151
+航材	hang cai	173
+航前	hang qian	152
+划痕	hua hen	86
+滑牙	hua ya	62
+换发	huan fa	113
+回油管	hui you guan	19
+基础执照	ji chu zhi zhao	171
+记录本	ji lu ben	11
+积水	ji shui	93
+集水槽	ji shui cao	150
+机械故障	ji xie gu zhang	110
+机型执照	ji xing zhi zhao	170
+剪断	jian duan	44
+减速板	jian su ban	122
+见线	jian xian	41
+降落	jiang luo	186
+近地警告	jin di jing gao	161
+紧急换发	jin ji huan fa	111
+襟翼	jin yi	192
+决断高度	jue duan gao du	135
+龟裂	jun lie	101
+卡阻	ka zu	53
+考管中心	kao guan zhong xin	169
+客舱记录本	ke cang ji lu ben	164
+客舱压力控制	ke cang ya li kong zhi	108
+刻痕	ke hen	87
+可靠性	ke kao xing	179
+可靠性会议	ke kao xing hui yi	140
+空地联谊会	kong di lian yi hui	141
+空停	kong ting	118
+空中交通管制	kong zhong jiao tong guan zhi	147
+空中停车	kong zhong ting che	117
+廊桥	lang qiao	9
+老化	lao hua	73
+例行工卡	li xing gong ka	166
+漏装	lou zhuang	25
+慢车	man che	15
+毛边	mao bian	72
+毛刺	mao ci	103
+霉变	mei bian	76
+每日维护	mei ri wei hu	145
+密封不良	mi feng bu liang	33
+模糊	mo hu	36
+磨平	mo ping	42
+磨蚀	mo shi	89
+磨损	mo sun	106
+扭结	niu jie	61
+扭曲	niu qu	94
+排故	pai gu	5
+旁通	pang tong	8
+皮托管	pi tuo guan	153
+破损	po sun	38
+漆层剥落	qi ceng bo luo	90
+起动机	qi dong ji	159
+起飞	qi fei	187
+起飞功率	qi fei gong lv	16
+起飞警告	qi fei jing gao	6
+起落架	qi luo jia	193
+气压不足	qi ya bu zu	40
+起皱	qi zhou	69
+翘曲	qiao qu	74
+切口	qie kou	99
+缺损	que sun	37
+扰流板	rao liu ban	123
+人为差错	ren wei cha cuo	183
+熔断	rong duan	58
+散包	san bao	34
+刹车组件	sha che zu jian	156
+沙眼	sha yan	85
+渗漏	shen lou	65
+生产协调会	sheng chan xie tiao hui	139
+升降舵	sheng jiang duo	1
+试车	shi che	137
+事故征候	shi gu zheng hou	3
+失效	shi xiao	24
+使用困难报告	shi yong kun nan bao gao	128
+受潮	shou chao	70
+收发机	shou fa ji	154
+水洗	shui xi	190
+撕裂	si lie	71
+松弛	song chi	50
+松动	song dong	47
+松脱	song tuo	46
+碎屑	sui xie	79
+停机位	ting ji wei	10
+褪色	tui shai	92
+脱胶	tuo jiao	98
+脱开	tuo kai	59
+拖尾	tuo wei	43
+外场	wai chang	132
+维修执照	wei xiu zhi zhao	172
+五边近进	wu bian jin jin	149
+污染	wu ran	23
+无损探伤	wu sun tan shang	180
+无线电高度表	wu xian dian gao du biao	155
+无线电距离磁指示仪	wu xian dian ju li ci zhi shi yi	148
+无效行程	wu xiao xing cheng	54
+污渍	wu zi	67
+下陷	xia xian	81
+相磨	xiang mo	22
+相碰	xiang peng	60
+性能趋势	xing neng qu shi	176
+严重不正常事件	yan zhong bu zheng chang shi jian	21
+氧化	yang hua	75
+咬死	yao si	51
+翼尖小翼	yi jian xiao yi	4
+翼上紧急出口	yi shang jin ji chu kou	162
+应急出口	ying ji chu kou	163
+右发	you fa	194
+油滤	you lv	20
+游隙	you xi	55
+有效投诉	you xiao tou su	115
+裕度	yu du	175
+增压控制面板	zeng ya kong zhi mian ban	109
+扎穿	zha chuan	83
+折痕	zhe hen	100
+振动指示	zhen dong zhi shi	174
+重力加油	zhong li jia you	157
+中转	zhong zhuan	143
+重着陆	zhong zhuo lu	181
+主警告	zhu jing gao	7
+注油	zhu you	191
+着陆	zhuo lu	182
+总值班	zong zhi ban	127
+走向错误	zou xiang cuo wu	64
+左发	zuo fa	195

@@ -1,0 +1,113 @@
+# 文件名：电气自动化专业词汇.scel
+# 词库名：电气自动化专业词汇
+# 词库分类：电力电气
+# 词库描述：
+# 词条样例：电气自动化专业词汇 工作台电源 桶形电容 机架 铁芯饱和 非使能无效禁用关断
+# 词条数量：106
+
+背板	bei ban	105
+便携式电子设备	bian xie shi dian zi she bei	46
+波特图	bo te tu	101
+产品型号	chan pin xing hao	49
+超过下面的规格使用可能引起永久的设备损害或设备故障建议不要工作在电特性表规定的参数范围以	chao guo xia mian de gui ge shi yong ke neng yin qi yong jiu de she bei sun hai huo she bei gu zhang jian yi bu yao gong zuo zai dian te xing biao gui ding de can shu fan wei yi	84
+传递函数	chuan di han shu	19
+大容量电容	da rong liang dian rong	6
+带隙电压参考	dai xi dian ya can kao	104
+单击电路	dan ji dian lu	12
+等效串联电阻	deng xiao chuan lian dian zu	10
+地电位	di dian wei	9
+低压差	di ya cha	58
+电感单位亨利	dian gan dan wei heng li	72
+电荷泵	dian he beng	4
+电平移动	dian ping yi dong	62
+电气自动化专业词汇	dian qi zi dong hua zhuan ye ci hui	106
+电信	dian xin	25
+电压参考	dian ya can kao	16
+电源工作电压	dian yuan gong zuo dian ya	52
+电源调整率	dian yuan tiao zheng lv	61
+电源正常	dian yuan zheng chang	44
+电阻分压器	dian zu fen ya qi	34
+掉电	diao dian	45
+抖动	dou dong	67
+断路器	duan lu qi	5
+额定值	e ding zhi	86
+反驰式功率级	fan chi shi gong lv ji	80
+反相	fan xiang	68
+方块图	fang kuai tu	102
+非反相	fei fan xiang	55
+非使能无效禁用关断	fei shi neng wu xiao jin yong guan duan	89
+浮充电压	fu chong dian ya	81
+伏秒积	fu miao ji	15
+负载调整率	fu zai tiao zheng lv	60
+功率地	gong lv di	43
+工作台电源	gong zuo tai dian yuan	103
+关断状态	guan duan zhuang tai	53
+过冲	guo chong	3
+核心温度	he xin wen du	90
+恒流源	heng liu yuan	97
+基板	ji ban	26
+机架	ji jia	98
+检测电阻	jian ce dian zu	31
+交叉频率	jiao cha pin lv	95
+接地层	jie di ceng	73
+结点	jie dian	66
+节点	jie dian	56
+节电模式	jie dian mo shi	42
+开尔文连接	kai er wen lian jie	65
+开关节点	kai guan jie dian	47
+零极点频率补偿	ling ji dian pin lv bu chang	14
+满负载	man fu zai	76
+密勒	mi le	57
+拍频	pai pin	13
+批号	pi hao	59
+品质因数	pin zhi yin shu	82
+评估板	ping gu ban	85
+平衡带隙	ping heng dai xi	8
+前向压降	qian xiang ya jiang	79
+欠压锁定	qian ya suo ding	17
+热性能信息	re xing neng xin xi	24
+人体模式	ren ti mo shi	71
+冗余二极管	rong yu er ji guan	35
+散热片	san re pian	23
+栅极驱动	shan ji qu dong	75
+栅极驱动级	shan ji qu dong ji	74
+上电	shang dian	41
+上拉	shang la	39
+上升沿	shang sheng yan	32
+使能有效启用	shi neng you xiao qi yong	87
+输出驱动级	shu chu qu dong ji	51
+死区时间	si qu shi jian	91
+缩放	suo fang	11
+跳变点	tiao bian dian	18
+铁芯饱和	tie xin bao he	96
+桶形电容	tong xing dian rong	99
+推挽转换器	tui wan zhuan huan qi	38
+纹波电流	wen bo dian liu	94
+无铅	wu qian	63
+下降沿	xia jiang yan	83
+下拉	xia la	40
+线路走线引线	xian lu zou xian yin xian	20
+相位裕度	xiang wei yu du	48
+斜降	xie jiang	37
+斜升	xie sheng	36
+新颖的	xin ying de	54
+序列电源	xu lie dian yuan	30
+续流二极管	xu liu er ji guan	77
+压差	ya cha	7
+异相	yi xiang	50
+引脚框架	yin jiao kuang jia	64
+涌入电流	yong ru dian liu	69
+阈值	yu zhi	22
+元件设备	yuan jian she bei	2
+杂散电感	za san dian gan	28
+振荡电阻	zhen dang dian zu	21
+振铃	zhen ling	33
+滞回	zhi hui	70
+直通同时导通	zhi tong tong shi dao tong	29
+周期跳步	zhou qi tiao bu	92
+主极点	zhu ji dian	88
+逐周期	zhu zhou qi	93
+状态参数	zhuang tai can shu	1
+子电路	zi dian lu	27
+自举	zi ju	100
+自由运行	zi you yun xing	78

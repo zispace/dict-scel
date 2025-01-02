@@ -1,0 +1,480 @@
+# 文件名：摄影测量.scel
+# 词库名：摄影测量
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：航空摄影 非量测摄影机 阵列摄影机 多谱段摄影机 大象幅摄影机
+# 词条数量：473
+
+阿贝比长原理	a bei bi chang yuan li	234
+阿达马变换	a da ma bian huan	32
+曝光	bao guang	377
+被动式传感器	bei dong shi chuan gan qi	88
+被动式遥感	bei dong shi yao gan	145
+贝叶斯分类	bei ye si fen lei	3
+比例增强	bi li zeng qiang	21
+比值变换	bi zhi bian huan	30
+变换光束测图	bian huan guang shu ce tu	251
+边缘检测	bian yuan jian ce	24
+边缘增强	bian yuan zeng qiang	25
+标准配置点	biao zhun pei zhi dian	296
+波罗一科普原理	bo luo yi ke pu yuan li	233
+波谱测定仪	bo pu ce ding yi	74
+波谱集群	bo pu ji qun	132
+波谱特征空间	bo pu te zheng kong jian	133
+波谱特征曲线	bo pu te zheng qu xian	135
+波谱响应曲线	bo pu xiang ying qu xian	134
+彩色变换	cai se bian huan	36
+彩色编码	cai se bian ma	46
+彩色感光材料	cai se gan guang cai liao	412
+彩色合成仪	cai se he cheng yi	52
+彩色红外片	cai se hong wai pian	416
+彩色片	cai se pian	418
+彩色摄影	cai se she ying	406
+彩色增强	cai se zeng qiang	19
+彩色坐标系	cai se zuo biao xi	44
+采样	cai yang	195
+采样间隔	cai yang jian ge	193
+参照数据	can zhao shu ju	27
+测距雷达	ce ju lei da	72
+侧视雷达	ce shi lei da	69
+测图卫星	ce tu wei xing	99
+测微密度计	ce wei mi du ji	352
+超焦点距离	chao jiao dian ju li	442
+超近摄影测量	chao jin she ying ce liang	160
+成象雷达	cheng xiang lei da	110
+垂核面	chui he mian	319
+垂核线	chui he xian	318
+粗差检测	cu cha jian ce	209
+大气传输特性	da qi chuan shu te xing	136
+大气窗	da qi chuang	139
+大气透过率	da qi tou guo lv	138
+大气噪声	da qi zao sheng	137
+大象幅摄影机	da xiang fu she ying ji	455
+弹道摄影测量	dan dao she ying ce liang	157
+弹道摄影机	dan dao she ying ji	457
+等比线	deng bi xian	337
+等偏摄影	deng pian she ying	168
+等倾摄影	deng qing she ying	166
+低倍放大摄影	di bei fang da she ying	401
+地底点	di di dian	339
+地面接收站	di mian jie shou zhan	121
+地面摄谱仪	di mian she pu yi	73
+地面摄影测量	di mian she ying ce liang	170
+地面摄影机	di mian she ying ji	458
+地面实况	di mian shi kuang	60
+地面照度	di mian zhao du	367
+地平线摄影机	di ping xian she ying ji	453
+地平线像片	di ping xian xiang pian	359
+地球同步卫星	di qiu tong bu wei xing	93
+地球资源卫星	di qiu zi yuan wei xing	95
+地物波谱特性	di wu bo pu te xing	127
+电磁波谱	dian ci bo pu	129
+电荷耦合器件摄影机	dian he ou he qi jian she ying ji	460
+电算加密	dian suan jia mi	218
+电子显微摄影测量	dian zi xian wei she ying ce liang	163
+电子相关	dian zi xiang guan	186
+定向点	ding xiang dian	295
+定影	ding ying	374
+动态传感器	dong tai chuan gan qi	85
+独立模型法空中三角测量	du li mo xing fa kong zhong san jiao ce liang	216
+多级纠正	duo ji jiu zheng	273
+多谱段扫描仪	duo pu duan sao miao yi	64
+多谱段摄影	duo pu duan she ying	399
+多谱段摄影机	duo pu duan she ying ji	459
+多谱段遥感	duo pu duan yao gan	144
+多时相分析	duo shi xiang fen xi	45
+多时相遥感	duo shi xiang yao gan	143
+多项式法	duo xiang shi fa	176
+二值图象	er zhi tu xiang	40
+反差	fan cha	370
+反差系数	fan cha xi shu	369
+反差增强	fan cha zeng qiang	23
+反立体	fan li ti	300
+反射波谱	fan she bo pu	130
+反束光导管摄象机	fan shu guang dao guan she xiang ji	452
+反转片	fan zhuan pian	424
+仿射纠正	fang she jiu zheng	275
+非监督分类	fei jian du fen lei	8
+非量测摄影机	fei liang ce she ying ji	466
+分带纠正	fen dai jiu zheng	274
+分工法测图	fen gong fa ce tu	285
+分类器	fen lei qi	10
+负片	fu pian	427
+辐射传感器	fu she chuan gan qi	81
+辐射校正	fu she jiao zheng	58
+辐射三角测量	fu she san jiao ce liang	254
+概率判决函数	gai lv pan jue han shu	12
+感光	gan guang	373
+感光材料	gan guang cai liao	413
+感光测定	gan guang ce ding	411
+感光度	gan guang du	414
+感光特性曲线	gan guang te xing qu xian	410
+高密度数字磁带	gao mi du shu zi ci dai	117
+工程摄影测量	gong cheng she ying ce liang	156
+功率谱	gong lv pu	128
+共面方程	gong mian fang cheng	223
+共线方程	gong xian fang cheng	224
+工业摄影测量	gong ye she ying ce liang	155
+构架航线	gou jia hang xian	378
+构象方程	gou xiang fang cheng	225
+骨架航线	gu jia hang xian	379
+光电传感器	guang dian chuan gan qi	82
+光谱感光度	guang pu gan guang du	409
+光谱灵敏度	guang pu ling min du	408
+光圈	guang quan	440
+光圈号数	guang quan hao shu	439
+光束法空中三角测量	guang shu fa kong zhong san jiao ce liang	215
+光学传递函数	guang xue chuan di han shu	351
+光学传感器	guang xue chuan gan qi	84
+光学机械纠正	guang xue ji xie jiu zheng	278
+光学机械投影	guang xue ji xie tou ying	248
+光学纠正	guang xue jiu zheng	279
+光学密度	guang xue mi du	354
+光学条件	guang xue tiao jian	271
+光学投影	guang xue tou ying	250
+光学图解纠正	guang xue tu jie jiu zheng	276
+光学图象处理	guang xue tu xiang chu li	62
+光学相关	guang xue xiang guan	187
+光学镶嵌	guang xue xiang qian	261
+海洋卫星	hai yang wei xing	100
+航带法空中三角测量	hang dai fa kong zhong san jiao ce liang	217
+航高	hang gao	385
+航空摄谱仪	hang kong she pu yi	75
+航空摄影	hang kong she ying	469
+航空摄影机	hang kong she ying ji	468
+航摄计划	hang she ji hua	387
+航摄领航	hang she ling hang	388
+航摄漏洞	hang she lou dong	386
+航摄软片	hang she ruan pian	415
+航摄像片	hang she xiang pian	360
+航天飞机	hang tian fei ji	102
+航天摄影	hang tian she ying	470
+航向重叠	hang xiang chong die	381
+航向倾角	hang xiang qing jiao	309
+合成孔径雷达	he cheng kong jing lei da	67
+核点	he dian	324
+合点控制	he dian kong zhi	268
+核面	he mian	323
+盒式分类法	he shi fen lei fa	7
+合线	he xian	330
+核线	he xian	322
+核线相关	he xian xiang guan	184
+黑白片	hei bai pian	419
+黑白摄影	hei bai she ying	407
+恒星摄影机	heng xing she ying ji	454
+红外波谱	hong wai bo pu	131
+红外辐射计	hong wai fu she ji	70
+红外片	hong wai pian	420
+红外扫描仪	hong wai sao miao yi	65
+红外摄影	hong wai she ying	404
+红外图象	hong wai tu xiang	113
+红外遥感	hong wai yao gan	142
+互补色立体观察	hu bu se li ti guan cha	304
+环境探测卫星	huan jing tan ce wei xing	94
+灰度	hui du	344
+灰楔	hui xie	346
+畸变	ji bian	435
+几何反转原理	ji he fan zhuan yuan li	288
+几何畸变	ji he ji bian	433
+几何校正	ji he jiao zheng	59
+几何模型	ji he mo xing	243
+几何条件	ji he tiao jian	270
+计算机兼容磁带	ji suan ji jian rong ci dai	118
+计算机视觉	ji suan ji shi jue	149
+机械投影	ji xie tou ying	249
+基一高比	ji yi gao bi	382
+机载传感器	ji zai chuan gan qi	79
+机助测图	ji zhu ce tu	203
+机助分类	ji zhu fen lei	2
+假彩色	jia cai se	34
+假彩色合成	jia cai se he cheng	51
+假彩色摄影	jia cai se she ying	405
+加密点	jia mi dian	221
+监督分类	jian du fen lei	9
+间接法纠正	jian jie fa jiu zheng	49
+建筑摄影测量	jian zhu she ying ce liang	154
+焦距	jiao ju	448
+焦面快门	jiao mian kuai men	444
+交线条件	jiao xian tiao jian	267
+交向摄影	jiao xiang she ying	167
+接触晒印	jie chu shai yin	372
+解析测图	jie xi ce tu	205
+解析定向	jie xi ding xiang	206
+解析纠正	jie xi jiu zheng	207
+解析空中三角测量	jie xi kong zhong san jiao ce liang	219
+近景摄影测量	jin jing she ying ce liang	161
+景深	jing shen	443
+静态传感器	jing tai chuan gan qi	86
+景物反差	jing wu fan cha	368
+径向畸变	jing xiang ji bian	432
+纠正	jiu zheng	282
+纠正图底	jiu zheng tu di	272
+纠正元素	jiu zheng yuan su	269
+距离判决函数	ju li pan jue han shu	13
+绝对定向	jue dui ding xiang	291
+绝对定向元素	jue dui ding xiang yuan su	289
+绝对航高	jue dui hang gao	383
+考古摄影测量	kao gu she ying ce liang	153
+空间分解力	kong jian fen jie li	436
+空间后方交会	kong jian hou fang jiao hui	232
+空间前方交会	kong jian qian fang jiao hui	231
+空间实验室	kong jian shi yan shi	103
+孔径	kong jing	441
+空中导线测量	kong zhong dao xian ce liang	236
+空中三角测量	kong zhong san jiao ce liang	238
+空中水准测量	kong zhong shui zhun ce liang	237
+快门	kuai men	447
+框标	kuang biao	450
+框幅摄影机	kuang fu she ying ji	463
+礼炮号航天站	li pao hao hang tian zhan	97
+立体观测	li ti guan ce	305
+立体模型	li ti mo xing	244
+立体摄影测量	li ti she ying ce liang	253
+立体摄影机	li ti she ying ji	467
+立体视觉	li ti shi jue	302
+立体卫星	li ti wei xing	98
+立体象对	li ti xiang dui	306
+立体正射像片	li ti zheng she xiang pian	199
+联合平差	lian he ping cha	211
+联机空中三角测量	lian ji kong zhong san jiao ce liang	214
+连接点	lian jie dian	220
+联盟号宇宙飞船	lian meng hao yu zhou fei chuan	96
+帘幕快门	lian mu kuai men	445
+量测摄影机	liang ce she ying ji	465
+量化	liang hua	196
+邻元法	lin yuan fa	180
+陆地卫星	lu di wei xing	101
+罗德里格斯矩阵	luo de li ge si ju zhen	226
+盲色片	mang se pian	423
+密度	mi du	345
+密度分割	mi du fen ge	342
+密度计	mi du ji	353
+明显地物点	ming xian di wu dian	256
+模糊分类法	mo hu fen lei fa	6
+模糊影象	mo hu ying xiang	115
+模拟磁带	mo ni ci dai	119
+模拟法测图	mo ni fa ce tu	252
+模拟空中三角测量	mo ni kong zhong san jiao ce liang	235
+模式分析	mo shi fen xi	11
+模式识别	mo shi shi bie	18
+模型连接	mo xing lian jie	239
+模型缩放	mo xing suo fang	241
+模型置平	mo xing zhi ping	240
+目标区	mu biao qu	182
+目视判读	mu shi pan du	257
+穆瓦条纹图	mu wa tiao wen tu	158
+内部定向	nei bu ding xiang	294
+旁向重叠	pang xiang chong die	380
+旁向倾角	pang xiang qing jiao	308
+偏振光立体观察	pian zhen guang li ti guan cha	303
+恰普斯基条件	qia pu si ji tiao jian	265
+切向畸变	qie xiang ji bian	431
+倾斜摄影	qing xie she ying	396
+倾斜摄影像片	qing xie she ying xiang pian	361
+倾斜位移	qing xie wei yi	326
+区域网平差	qu yu wang ping cha	213
+全景畸变	quan jing ji bian	434
+全景摄影	quan jing she ying	398
+全景摄影机	quan jing she ying ji	464
+全能法测图	quan neng fa ce tu	286
+全色红外片	quan se hong wai pian	417
+全色片	quan se pian	421
+全息摄影	quan xi she ying	403
+全息摄影测量	quan xi she ying ce liang	165
+热辐射	re fu she	126
+热红外图象	re hong wai tu xiang	112
+人工标志	ren gong biao zhi	255
+冗余码	rong yu ma	108
+冗余信息	rong yu xin xi	107
+沙尔定律	sha er ding lv	263
+熵编码	shang bian ma	109
+上下视差	shang xia shi cha	298
+摄谱仪	she pu yi	76
+射线摄影测量	she xian she ying ce liang	151
+摄影比例尺	she ying bi li chi	391
+摄影测量内插	she ying ce liang nei cha	177
+摄影测量学	she ying ce liang xue	473
+摄影测量坐标系	she ying ce liang zuo biao xi	230
+摄影处理	she ying chu li	376
+摄影分区	she ying fen qu	392
+摄影航线	she ying hang xian	393
+摄影基线	she ying ji xian	390
+摄影机主距	she ying ji zhu ju	246
+摄影学	she ying xue	471
+摄影质量	she ying zhi liang	389
+摄站	she zhan	394
+生物量指标变换	sheng wu liang zhi biao bian huan	29
+生物医学摄影测量	sheng wu yi xue she ying ce liang	152
+视地平线	shi di ping xian	332
+视模型	shi mo xing	242
+实时处理	shi shi chu li	61
+实时摄影测量	shi shi she ying ce liang	150
+数据处理	shu ju chu li	122
+数据传输	shu ju chuan shu	123
+数据获取	shu ju huo qu	124
+数据探测法	shu ju tan ce fa	210
+数控绘图桌	shu kong hui tu zhuo	204
+竖直摄影	shu zhi she ying	397
+竖直摄影像片	shu zhi she ying xiang pian	362
+数字表面模型	shu zi biao mian mo xing	178
+数字测图	shu zi ce tu	192
+数字磁带	shu zi ci dai	120
+数字高程模型	shu zi gao cheng mo xing	179
+数字化影象	shu zi hua ying xiang	355
+数字纠正	shu zi jiu zheng	191
+数字滤波	shu zi lv bo	57
+数字图象	shu zi tu xiang	356
+数字图象处理	shu zi tu xiang chu li	63
+数字相关	shu zi xiang guan	185
+数字镶嵌	shu zi xiang qian	190
+数字影象	shu zi ying xiang	357
+双介质摄影测量	shuang jie zhi she ying ce liang	162
+双三次卷积	shuang san ci juan ji	174
+双线性内插	shuang xian xing nei cha	175
+水下摄影机	shui xia she ying ji	456
+瞬时现场	shun shi xian chang	437
+搜索区	sou suo qu	181
+穗帽变换	sui mao bian huan	28
+缩微摄影	suo wei she ying	402
+太阳辐射波谱	tai yang fu she bo pu	140
+太阳同步卫星	tai yang tong bu wei xing	92
+探测器	tan ce qi	77
+特征	te zheng	17
+特征编码	te zheng bian ma	14
+特征提取	te zheng ti qu	16
+特征选择	te zheng xuan ze	15
+条幅摄影机	tiao fu she ying ji	462
+调绘	tiao hui	259
+调制传递函数	tiao zhi chuan di han shu	349
+同名光线	tong ming guang xian	287
+同名核线	tong ming he xian	317
+同名象点	tong ming xiang dian	297
+透光率	tou guang lv	347
+透明负片	tou ming fu pian	426
+透明正片	tou ming zheng pian	425
+透视旋转定律	tou shi xuan zhuan ding lv	264
+投影差	tou ying cha	327
+投影方程	tou ying fang cheng	222
+投影器主距	tou ying qi zhu ju	245
+投影晒印	tou ying shai yin	371
+图解纠正	tu jie jiu zheng	277
+图象变换	tu xiang bian huan	37
+图象编码	tu xiang bian ma	47
+图象分割	tu xiang fen ge	43
+图象分析	tu xiang fen xi	1
+图象复合	tu xiang fu he	42
+图象复原	tu xiang fu yuan	116
+图象几何纠正	tu xiang ji he jiu zheng	55
+图象几何配准	tu xiang ji he pei zhun	56
+图象描述	tu xiang miao shu	41
+图象识别	tu xiang shi bie	48
+图象数字化	tu xiang shu zi hua	53
+图象镶嵌	tu xiang xiang qian	54
+图象增强	tu xiang zeng qiang	26
+推扫式传感器	tui sao shi chuan gan qi	87
+外部定向	wai bu ding xiang	293
+微波传感器	wei bo chuan gan qi	83
+微波辐射	wei bo fu she	125
+微波辐射计	wei bo fu she ji	71
+微波图象	wei bo tu xiang	111
+微波遥感	wei bo yao gan	141
+伪彩色	wei cai se	35
+微分法测图	wei fen fa ce tu	284
+微分纠正	wei fen jiu zheng	201
+维纳频谱	wei na pin pu	348
+卫星摄影测量	wei xing she ying ce liang	472
+卫星像片图	wei xing xiang pian tu	114
+卫星姿态	wei xing zi tai	91
+纹理分析	wen li fen xi	20
+纹理增强	wen li zeng qiang	22
+沃尔什变换	wo er shi bian huan	31
+物镜分辨率	wu jing fen bian lv	430
+物空间坐标系	wu kong jian zuo biao xi	227
+显微摄影	xian wei she ying	400
+显微摄影测量	xian wei she ying ce liang	164
+显影	xian ying	375
+象场角	xiang chang jiao	438
+象等角点	xiang deng jiao dian	338
+象底点	xiang di dian	340
+象地平线	xiang di ping xian	331
+象点位移	xiang dian wei yi	328
+相对定向元素	xiang dui ding xiang yuan su	290
+相对航高	xiang dui hang gao	384
+相对走向	xiang dui zou xiang	292
+象幅	xiang fu	451
+向甫鲁条件	xiang fu lu tiao jian	266
+象空间坐标系	xiang kong jian zuo biao xi	228
+像片	xiang pian	363
+像片比例尺	xiang pian bi li chi	358
+像片方位角	xiang pian fang wei jiao	316
+像片方位元素	xiang pian fang wei yuan su	313
+像片基线	xiang pian ji xian	336
+像片纠正	xiang pian jiu zheng	281
+像片内方位元素	xiang pian nei fang wei yuan su	315
+像片判读	xiang pian pan du	258
+像片平面图	xiang pian ping mian tu	280
+像片倾角	xiang pian qing jiao	310
+像片外方位元素	xiang pian wai fang wei yuan su	314
+像片镶嵌	xiang pian xiang qian	262
+像片旋角	xiang pian xuan jiao	307
+像片主距	xiang pian zhu ju	247
+象平面坐标系	xiang ping mian zuo biao xi	229
+镶嵌索引图	xiang qian suo yin tu	260
+相位传递函数	xiang wei chuan di han shu	350
+象移补偿	xiang yi bu chang	449
+象元	xiang yuan	343
+象元地面分辨力	xiang yuan di mian fen bian li	364
+象主点	xiang zhu dian	341
+象主纵线	xiang zhu zong xian	335
+小象幅航空摄影	xiao xiang fu hang kong she ying	395
+信息量	xin xi liang	106
+信息提取	xin xi ti qu	105
+星载传感器	xing zai chuan gan qi	80
+选权迭代法	xuan quan die dai fa	208
+样条函数法	yang tiao han shu fa	173
+遥感	yao gan	148
+遥感平台	yao gan ping tai	90
+移动拟合法	yi dong ni he fa	171
+影象分辨力	ying xiang fen bian li	365
+影象分辨率	ying xiang fen bian lv	429
+影象匹配	ying xiang pi pei	189
+影象相关	ying xiang xiang guan	188
+影象质量	ying xiang zhi liang	366
+有限元法	you xian yuan fa	172
+月球轨道飞行器	yue qiu gui dao fei xing qi	104
+真地平线	zhen de ping xian	333
+阵列摄影机	zhen lie she ying ji	461
+真实孔径雷达	zhen shi kong jing lei da	68
+真水平线	zhen shui ping xian	329
+正立体	zheng li ti	301
+正片	zheng pian	428
+正色片	zheng se pian	422
+正射投影技术	zheng she tou ying ji shu	202
+正射像片	zheng she xiang pian	200
+正射影象地图	zheng she ying xiang di tu	197
+正射影象图	zheng she ying xiang tu	198
+正直摄影	zheng zhi she ying	169
+直方图规格化	zhi fang tu gui ge hua	38
+直方图均衡	zhi fang tu jun heng	39
+直接法纠正	zhi jie fa jiu zheng	50
+直接线性变换	zhi jie xian xing bian huan	159
+重采样	zhong cai yang	194
+中心快门	zhong xin kuai men	446
+主垂面	zhu chui mian	334
+主动式传感器	zhu dong shi chuan gan qi	89
+主动式遥感	zhu dong shi yao gan	146
+主分量变换	zhu fen liang bian huan	33
+主合点	zhu he dian	325
+主核面	zhu he mian	320
+主核线	zhu he xian	321
+专题测图传感器	zhuan ti ce tu chuan gan qi	66
+自检校	zi jian xiao	212
+姿态	zi tai	312
+姿态参数	zi tai can shu	311
+姿态测量传感器	zi tai ce liang chuan gan qi	78
+资源与环境遥感	zi yuan yu huan jing yao gan	147
+综合法测图	zong he fa ce tu	283
+最大似然分类	zui da si ran fen lei	5
+最小二乘相关	zui xiao er cheng xiang guan	183
+最小距离分类	zui xiao ju li fen lei	4
+左右视差	zuo you shi cha	299

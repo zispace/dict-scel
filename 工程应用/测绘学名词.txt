@@ -1,0 +1,139 @@
+# 文件名：测绘学名词.scel
+# 词库名：测绘学名词
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：航空航天摄影 地理坐标网 地形图 等高距 多余观测
+# 词条数量：132
+
+闭合差	bi he cha	43
+比例尺	bi li chi	56
+边长中误差	bian chang zhong wu cha	37
+编图	bian tu	69
+测绘标准	ce hui biao zhun	130
+测绘学	ce hui xue	132
+测绘仪器	ce hui yi qi	19
+测角中误差	ce jiao zhong wu cha	36
+测距仪	ce ju yi	17
+测量标志	ce liang biao zhi	119
+测量觇标	ce liang chan biao	118
+测量规范	ce liang gui fan	129
+测量平差	ce liang ping cha	52
+常差	chang cha	45
+粗差	cu cha	46
+大地测量学	da di ce liang xue	127
+大地测量仪器	da di ce liang yi qi	18
+大地控制数据库	da di kong zhi shu ju ku	30
+大地原点	da di yuan dian	121
+等高距	deng gao ju	53
+等高线	deng gao xian	54
+地籍信息系统	di ji xin xi xi tong	23
+地理信息系统	di li xin xi xi tong	27
+地理坐标参考系	di li zuo biao can kao xi	81
+地理坐标网	di li zuo biao wang	86
+地名	di ming	58
+地名数据库	di ming shu ju ku	24
+地名学	di ming xue	59
+地球椭球	di qiu tuo qiu	122
+地球形状	di qiu xing zhuang	126
+地球仪	di qiu yi	74
+地图	di tu	80
+地图编制	di tu bian zhi	70
+地图复制	di tu fu zhi	68
+地图规范	di tu gui fan	73
+地图集	di tu ji	75
+地图利用	di tu li yong	66
+地图量算	di tu liang suan	65
+地图生产	di tu sheng chan	72
+地图数据库	di tu shu ju ku	26
+地图数据库管理系统	di tu shu ju ku guan li xi tong	25
+地图投影	di tu tou ying	71
+地图学	di tu xue	87
+地图印刷	di tu yin shua	67
+地图制图学	di tu zhi tu xue	88
+地心坐标系	di xin zuo biao xi	123
+地形数据库	di xing shu ju ku	28
+地形图	di xing tu	79
+地形图图式	di xing tu tu shi	128
+点位中误差	dian wei zhong wu cha	33
+定位系统	ding wei xi tong	15
+多余观测	duo yu guan ce	44
+方里网	fang li wang	84
+方位角中误差	fang wei jiao zhong wu cha	35
+非地形摄影测量	fei di xing she ying ce liang	106
+高程基准	gao cheng ji zhun	117
+高程系统	gao cheng xi tong	116
+高程中误差	gao cheng zhong wu cha	32
+工程测量学	gong cheng ce liang xue	57
+惯性测量系统	guan xing ce liang xi tong	111
+国际测绘联合会	guo ji ce hui lian he hui	7
+国际测量师联合会	guo ji ce liang shi lian he hui	6
+国际大地测量学协会	guo ji da di ce liang xue xie hui	4
+国际大地测量学与地球物理学	guo ji da di ce liang xue yu di qiu wu li xue	5
+国际地图学协会	guo ji di tu xue xie hui	2
+国际海道测量组织	guo ji hai dao ce liang zu zhi	1
+国际摄影测量与遥感学会	guo ji she ying ce liang yu yao gan xue hui	3
+国土基础信息系统	guo tu ji chu xin xi xi tong	31
+海拔	hai ba	113
+海军导航卫星系统	hai jun dao hang wei xing xi tong	112
+海洋测绘	hai yang ce hui	20
+航空航天摄影	hang kong hang tian she ying	104
+航空摄影测量	hang kong she ying ce liang	109
+航空遥感	hang kong yao gan	103
+航天摄影测量	hang tian she ying ce liang	108
+航天遥感	hang tian yao gan	102
+黄海平均海	huang hai ping jun hai	114
+基本比例尺	ji ben bi li chi	55
+机助地图制图	ji zhu di tu zhi tu	64
+解析摄影测量	jie xi she ying ce liang	94
+解译	jie yi	96
+精	jing	50
+精度估计	jing du gu ji	51
+经纬网	jing wei wang	85
+绝对误差	jue dui wu cha	40
+立体测图仪	li ti ce tu yi	13
+邻带方里网	lin dai fang li wang	83
+模拟摄影测量	mo ni she ying ce liang	95
+偶然误差	ou ran wu cha	48
+判读	pan du	98
+判释	pan shi	97
+平均海	ping jun hai	115
+平面图	ping mian tu	78
+普通地图	pu tong di tu	77
+全数字化自测图系统	quan shu zi hua zi ce tu xi tong	11
+摄影测量仪器	she ying ce liang yi qi	14
+摄影测量与遥感学	she ying ce liang yu yao gan xue	110
+数值地型	shu zhi di xing	91
+数字地图模型	shu zi di tu mo xing	92
+数字摄影测量	shu zi she ying ce liang	93
+数字摄影测量工作站	shu zi she ying ce liang gong zuo zhan	12
+水下摄影测量	shui xia she ying ce liang	105
+水准原点	shui zhun yuan dian	120
+太空摄影测量	tai kong she ying ce liang	107
+土地信息系统	tu di xin xi xi tong	22
+图像	tu xiang	101
+图形	tu xing	99
+图形输出设备	tu xing shu chu she bei	9
+图形输入设备	tu xing shu ru she bei	10
+图形显示	tu xing xian shi	61
+误差椭圆	wu cha tuo yuan	38
+系统误差	xi tong wu cha	47
+限差	xian cha	42
+相对误差	xiang dui wu cha	41
+遥感模式识别	yao gan mo shi shi bie	89
+遥感图象处理	yao gan tu xiang chu li	90
+遥感制图	yao gan zhi tu	60
+影像	ying xiang	100
+制图专家系统	zhi tu zhuan jia xi tong	21
+中国测绘学会	zhong guo ce hui xue hui	8
+中华人民共和国测绘法	zhong hua ren min gong he guo ce hui fa	131
+重力场	zhong li chang	124
+重力基准网	zhong li ji zhun wang	125
+重力数据库	zhong li shu ju ku	29
+重力仪	zhong li yi	16
+中误差	zhong wu cha	39
+专题地图	zhuan ti di tu	76
+准确度	zhun que du	49
+自动化制图	zi dong hua zhi tu	63
+自动绘图	zi dong hui tu	62
+坐标格网	zuo biao ge wang	82
+坐标中误差	zuo biao zhong wu cha	34

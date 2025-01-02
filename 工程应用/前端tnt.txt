@@ -1,0 +1,172 @@
+# 文件名：前端tnt.scel
+# 词库名：前端tnt
+# 词库分类：互联网
+# 词库描述：
+# 词条样例：进程 机器码 链表 手写 闭包 客户端
+# 词条数量：165
+
+包管理	bao guan li	26
+保护	bao hu	98
+闭包	bi bao	155
+编程	bian cheng	64
+编程逻辑	bian cheng luo ji	62
+编码	bian ma	65
+编码规范	bian ma gui fan	89
+编码逻辑	bian ma luo ji	63
+编译	bian yi	31
+标签	biao qian	136
+布尔	bu er	74
+不可变数据	bu ke bian shu ju	11
+仓库	cang ku	22
+插槽	cha cao	53
+插件	cha jian	54
+长链接	chang lian jie	2
+重构	chong gou	93
+重绘	chong hui	121
+重写	chong xie	94
+抽象	chou xiang	105
+纯函数	chun han shu	8
+打包	da bao	37
+打包工具	da bao gong ju	36
+代理	dai li	39
+代码混淆	dai ma hun xiao	34
+单例	dan li	97
+单例模式	dan li mo shi	43
+单文件组件	dan wen jian zu jian	51
+单页应用	dan ye ying yong	52
+定时器	ding shi qi	159
+对象	dui xiang	73
+多态	duo tai	106
+二八原则	er ba yuan ze	23
+二叉树	er cha shu	158
+发布订阅	fa bu ding yue	44
+返回值	fan hui zhi	1
+范式	fan shi	88
+反转	fan zhuan	157
+分层	fen ceng	133
+分支	fen zhi	18
+浮动	fu dong	129
+服务端渲染	fu wu duan xuan ran	57
+父元素	fu yuan su	142
+副作用	fu zuo yong	7
+工程模式	gong cheng mo shi	42
+工具流	gong ju liu	35
+共有	gong you	99
+构造函数	gou zao han shu	115
+构造器	gou zao qi	40
+骨架图	gu jia tu	151
+函数	han shu	116
+函数防抖	han shu fang dou	113
+函数节流	han shu jie liu	114
+函数式编程	han shu shi bian cheng	66
+合并	he bing	19
+盒子模型	he zi mo xing	123
+后代元素	hou dai yuan su	138
+缓存	huan cun	38
+回流	hui liu	122
+回调	hui tiao	153
+回调地狱	hui tiao di yu	152
+回调函数	hui tiao han shu	112
+绘制	hui zhi	135
+继承	ji cheng	107
+机器码	ji qi ma	163
+加密	jia mi	5
+交互设计	jiao hu she ji	146
+节点	jie dian	132
+接口	jie kou	104
+进程	jin cheng	164
+静态	jing tai	95
+绝对定位	jue dui ding wei	131
+开源	kai yuan	145
+客户端	ke hu duan	149
+柯里化	ke li hua	10
+块级格式化上下文	kuai ji ge shi hua shang xia wen	125
+块级元素	kuai ji yuan su	127
+拉取	la qu	21
+类对象	lei dui xiang	79
+类型	lei xing	87
+类型检查	lei xing jian cha	86
+类型转换	lei xing zhuan huan	82
+链表	lian biao	160
+面向对象	mian xiang dui xiang	72
+面向过程	mian xiang guo cheng	71
+面向接口	mian xiang jie kou	70
+面向切面	mian xiang qie mian	69
+模块	mo kuai	28
+模块化	mo kuai hua	27
+模式	mo shi	96
+模板	mu ban	29
+模板代码	mu ban dai ma	91
+内存泄漏	nei cun xie lou	108
+内联级元素	nei lian ji yuan su	126
+排序	pai xu	16
+前端	qian duan	150
+前后端分离	qian hou duan fen li	59
+强类型	qiang lei xing	83
+清除浮动	qing chu fu dong	128
+请求头	qing qiu tou	4
+去重	qu chong	15
+冗余	rong yu	90
+弱类型	ruo lei xing	84
+三大框架	san da kuang jia	56
+设计模式	she ji mo shi	92
+社区	she qu	144
+深拷贝	shen kao bei	12
+生命周期	sheng ming zhou qi	154
+适配器	shi pei qi	41
+实现	shi xian	103
+手写	shou xie	156
+数据处理	shu ju chu li	17
+数据管理	shu ju guan li	45
+数据流	shu ju liu	46
+数字	shu zi	75
+双向绑定	shuang xiang bang ding	49
+私有	si you	100
+提交	ti jiao	20
+同步	tong bu	120
+同级元素	tong ji yuan su	139
+文档流	wen dang liu	124
+线程	xian cheng	165
+显式装换	xian shi zhuang huan	80
+相对定位	xiang dui ding wei	130
+响应式	xiang ying shi	6
+性能优化	xing neng you hua	47
+兄弟元素	xiong di yuan su	140
+虚拟文档对象模型	xu ni wen dang dui xiang mo xing	50
+渲染	xuan ran	134
+雪碧图	xue bi tu	32
+压缩	ya suo	33
+摇树优化	yao shu you hua	24
+异步	yi bu	119
+异步请求	yi bu qing qiu	118
+异步组件	yi bu zu jian	25
+一等公民	yi deng gong min	9
+依赖倒置	yi lai dao zhi	68
+依赖收集	yi lai shou ji	48
+依赖注入	yi lai zhu ru	67
+隐式装换	yin shi zhuang huan	81
+引用类型	yin yong lei xing	77
+用户端	yong hu duan	148
+用户体验	yong hu ti yan	147
+预编译语言	yu bian yi yu yan	30
+源码	yuan ma	161
+原始类型	yuan shi lei xing	78
+元素	yuan su	143
+原型	yuan xing	111
+原型链	yuan xing lian	110
+运行时错误	yun xing shi cuo wu	85
+正则	zheng ze	61
+正则表达式	zheng ze biao da shi	60
+只读	zhi du	101
+指向	zhi xiang	13
+指针	zhi zhen	14
+中间件	zhong jian jian	58
+注解	zhu jie	102
+状态码	zhuang tai ma	3
+字符串	zi fu chuan	76
+字节码	zi jie ma	162
+子元素	zi yuan su	141
+组件	zu jian	55
+阻塞	zu se	117
+祖先元素	zu xian yuan su	137
+作用域	zuo yong yu	109

@@ -1,0 +1,184 @@
+# 文件名：建筑电气.scel
+# 词库名：建筑电气
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：夹芯板 基础钢筋 土建 可靠焊接 建筑电气
+# 词条数量：177
+
+按地电阻值	an di dian zu zhi	30
+安全	an quan	50
+安全接地	an quan jie di	26
+安装尺寸	an zhuang chi cun	89
+安装容量	an zhuang rong liang	134
+避雷带	bi lei dai	47
+避雷器	bi lei qi	116
+避雷针	bi lei zhen	48
+比例	bi li	115
+编号	bian hao	144
+变配电站	bian pei dian zhan	133
+变压器	bian ya qi	132
+标高	biao gao	137
+标注	biao zhu	140
+标准图	biao zhun tu	146
+补偿柜	bu chang gui	91
+补充图例	bu chong tu li	142
+布线	bu xian	150
+布置图	bu zhi tu	57
+操作电源	cao zuo dian yuan	82
+侧击雷	ce ji lei	34
+测试点	ce shi dian	43
+层数	ceng shu	138
+插座	cha zuo	67
+重复接地	chong fu jie di	117
+初步设计	chu bu she ji	153
+单相负荷	dan xiang fu he	75
+档距	dang ju	120
+挡数	dang shu	121
+道路	dao lu	136
+等电位	deng dian wei	162
+灯具	deng ju	68
+地形	di xing	135
+电工仪表	dian gong yi biao	105
+电气总平面图	dian qi zong ping mian tu	141
+电源点	dian yuan dian	80
+电源接地	dian yuan jie di	25
+顶层	ding ceng	49
+定货	ding huo	148
+镀锌扁钢	du xin bian gang	163
+断接卡	duan jie ka	42
+断路器	duan lu qi	107
+端子排	duan zi pai	56
+二次原理图	er ci yuan li tu	98
+二次装修	er ci zhuang xiu	65
+发电机	fa dian ji	129
+方案	fang an	97
+方案设计	fang an she ji	152
+防爆	fang bao	3
+防高电位引入	fang gao dian wei yin ru	32
+方框图	fang kuang tu	60
+防雷	fang lei	52
+防雷措施	fang lei cuo shi	35
+防雷击电磁脉冲	fang lei ji dian ci mai chong	33
+防雷类别	fang lei lei bie	36
+风机	feng ji	14
+敷设安装	fu she an zhuang	87
+敷设方法	fu she fang fa	100
+敷设方式	fu she fang shi	66
+附图	fu tu	113
+杆高	gan gao	119
+杆位	gan wei	122
+钢筋	gang jin	39
+钢筋混凝土	gang jin hun ning tu	40
+钢柱	gang zhu	171
+高低压	gao di ya	112
+供电回路	gong dian hui lu	71
+工艺设备	gong yi she bei	69
+共用接地	gong yong jie di	21
+工作接地	gong zuo jie di	27
+构筑物	gou zhu wu	41
+归档	gui dang	18
+锅炉房	guo lu fang	55
+回路	hui lu	102
+火灾自动报警	huo zai zi dong bao jing	20
+基础钢筋	ji chu gang jin	169
+基础内钢筋	ji chu nei gang jin	28
+继电保护	ji dian bao hu	86
+继电器	ji dian qi	106
+计量仪表	ji liang yi biao	104
+计算电流	ji suan dian liu	101
+计算书	ji suan shu	155
+架空	jia kong	124
+夹芯板	jia xin ban	174
+加压风机	jia ya feng ji	11
+检测	jian ce	62
+建筑电气	jian zhu dian qi	160
+建筑物	jian zhu wu	139
+接地	jie di	51
+接地保护	jie di bao hu	147
+接地电阻	jie di dian zu	38
+接地干线	jie di gan xian	77
+接地极	jie di ji	44
+接地螺栓	jie di luo shuan	165
+接地平面图	jie di ping mian tu	46
+接地网	jie di wang	161
+接地线	jie di xian	45
+接闪器	jie shan qi	172
+进出线	jin chu xian	88
+进风机	jin feng ji	1
+局部等电位	ju bu deng dian wei	23
+开关	kai guan	108
+开关柜	kai guan gui	103
+可靠焊接	ke kao han jie	164
+空调机组	kong tiao ji zu	8
+控制柜	kong zhi gui	93
+控制原理图	kong zhi yuan li tu	73
+拉线	la xian	118
+冷冻泵	leng dong beng	4
+冷冻机组	leng dong ji zu	7
+冷却泵	leng que beng	5
+冷水机组	leng shui ji zu	6
+楼层	lou ceng	78
+模数	mo shu	95
+母线	mu xian	109
+排烟风机	pai yan feng ji	12
+配电平面图	pei dian ping mian tu	70
+配电系统图	pei dian xi tong tu	111
+配电箱	pei dian xiang	128
+配电箱系统图	pei dian xiang xi tong tu	76
+喷淋泵	pen lin beng	15
+喷洒泵	pen sa beng	16
+平剖面图	ping pou mian tu	94
+轻钢	qing gang	176
+热工	re gong	63
+容量	rong liang	130
+设备安装	she bei an zhuang	149
+设备监控	she bei jian kong	54
+设计概况	she ji gai kuang	154
+设计说明	she ji shuo ming	157
+设计图纸	she ji tu zhi	143
+施工图	shi gong tu	159
+施工要求	shi gong yao qiu	151
+室外	shi wai	126
+鼠笼式	shu long shi	2
+竖向	shu xiang	81
+双速风机	shuang su feng ji	10
+水泵	shui beng	13
+台面	tai mian	58
+台数	tai shu	131
+通用图	tong yong tu	84
+图集	tu ji	145
+土建	tu jian	167
+图纸目录	tu zhi mu lu	158
+屋面	wu mian	175
+系统集成	xi tong ji cheng	53
+线路	xian lu	123
+相别	xiang bie	74
+消防联动	xiao fang lian dong	19
+消火栓泵	xiao huo shuan beng	17
+小室	xiao shi	96
+新风机组	xin feng ji zu	9
+信号原理图	xin hao yuan li tu	85
+型号	xing hao	127
+型式	xing shi	31
+压型钢板	ya xing gang ban	173
+仪表盘	yi biao pan	59
+一次线路图	yi ci xian lu tu	110
+引下线	yin xia xian	170
+用户名称	yong hu ming cheng	99
+预留	yu liu	64
+预埋件	yu mai jian	37
+圆钢	yuan gang	166
+照明灯具	zhao ming deng ju	125
+照明平面图	zhao ming ping mian tu	177
+指北针	zhi bei zhen	114
+支架	zhi jia	90
+直流电源	zhi liu dian yuan	83
+直流柜	zhi liu gui	92
+直流接地	zhi liu jie di	24
+终端	zhong duan	79
+重要负荷	zhong yao fu he	72
+主要设备表	zhu yao she bei biao	156
+桩基	zhuang ji	29
+自动调节	zi dong tiao jie	61
+自然接地体	zi ran jie di ti	168
+总等电位	zong deng dian wei	22

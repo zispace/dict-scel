@@ -1,0 +1,465 @@
+# 文件名：透平词库.scel
+# 词库名：透平词库
+# 词库分类：环境能源
+# 词库描述：
+# 词条样例：风机 辅助设备 离心风机 通风机 轴流风机 旋涡鼓风机
+# 词条数量：458
+
+半径	ban jing	120
+半开式叶轮	ban kai shi ye lun	290
+报警点	bao jing dian	168
+包容了转子的壳体	bao rong le zhuan zi de qiao ti	312
+备件	bei jian	135
+背靠背型	bei kao bei xing	435
+本体	ben ti	22
+比的静止的	bi de jing zhi de	110
+比流量	bi liu liang	334
+闭路试验	bi lu shi yan	164
+比容	bi rong	125
+闭式叶轮	bi shi ye lun	67
+闭式叶轮轮	bi shi ye lun lun	291
+比直径	bi zhi jing	335
+比转速	bi zhuan su	405
+编号	bian hao	88
+变转速调节	bian zhuan su tiao jie	216
+标准空气	biao zhun kong qi	26
+标准状态	biao zhun zhuang tai	41
+并联运行	bing lian yun xing	204
+部分负荷	bu fen fu he	221
+参考气	can kao qi	159
+侧板	ce ban	247
+测振装置	ce zhen zhuang zhi	140
+超速试验	chao su shi yan	220
+称为反应度或反动度	cheng wei fan ying du huo fan dong du	398
+尺寸效应	chi cun xiao ying	355
+冲击损失	chong ji sun shi	394
+稠度	chou du	29
+抽气器	chou qi qi	300
+出厂检验	chu chang jian yan	229
+出进口气流角	chu jin kou qi liu jiao	6
+出口的终了的	chu kou de zhong liao de	92
+出口几何角	chu kou ji he jiao	39
+出口气流角	chu kou qi liu jiao	61
+出口条件	chu kou tiao jian	422
+出气试验装置	chu qi shi yan zhuang zhi	182
+除湿装置	chu shi zhuang zhi	136
+串联运行	chuan lian yun xing	205
+喘振	chuan zhen	366
+喘振点	chuan zhen dian	365
+喘振界线	chuan zhen jie xian	364
+垂直剖分型	chui zhi pou fen xing	440
+单吸入	dan xi ru	446
+当量转速	dang liang zhuan su	219
+导杆	dao gan	265
+导流器	dao liu qi	275
+导叶	dao ye	285
+等流量调节	deng liu liang tiao jie	211
+等熵的	deng shang de	112
+等熵能量头	deng shang neng liang tou	321
+等熵效率	deng shang xiao lv	318
+等熵压缩过程	deng shang ya suo guo cheng	330
+等熵指数	deng shang zhi shu	325
+等温的	deng wen de	106
+等温能量头	deng wen neng liang tou	319
+等温效率	deng wen xiao lv	316
+等温型	deng wen xing	434
+等温压缩过程	deng wen ya suo guo cheng	326
+等压偏差系数	deng ya pian cha xi shu	331
+等压调节	deng ya tiao jie	210
+低速鼓风机	di su gu feng ji	431
+底座	di zuo	264
+垫板	dian ban	262
+定位键	ding wei jian	250
+定子	ding zi	315
+动力的	dong li de	109
+动力相似	dong li xiang si	360
+动能试验	dong neng shi yan	54
+动平衡	dong ping heng	192
+动叶	dong ye	287
+动叶栅或静叶栅图形	dong ye shan huo jing ye zha tu xing	2
+端盖	duan gai	242
+对比	dui bi	114
+对数性能曲线	dui shu xing neng qu xian	353
+多变的	duo bian de	91
+多变能量头	duo bian neng liang tou	320
+多变效率	duo bian xiao lv	317
+多变压缩过程	duo bian ya suo guo cheng	327
+多变指数	duo bian zhi shu	324
+多叶通风机	duo ye tong feng ji	441
+多轴型	duo zhou xing	437
+惰转时间	duo zhuan shi jian	217
+二次流	er ci liu	390
+二次平衡气	er ci ping heng qi	158
+反作用度	fan zuo yong du	401
+防喘振装置	fang chuan zhen zhuang zhi	141
+非工作面	fei gong zuo mian	368
+风洞	feng dong	200
+风机	feng ji	458
+风机试验时进出口的接管	feng ji shi yan shi jin chu kou de jie guan	197
+风机运行时	feng ji yun xing shi	421
+风机噪声	feng ji zao sheng	195
+风室	feng shi	185
+风筒	feng tong	198
+蜂窝密封	feng wo mi feng	303
+浮环密封	fu huan mi feng	304
+辅助设备	fu zhu she bei	457
+辅助通风机	fu zhu tong feng ji	184
+干空气	gan kong qi	57
+干气密封	gan qi mi feng	301
+刚性转子	gang xing zhuan zi	276
+高工作压力	gao gong zuo ya li	171
+高速鼓风机	gao su gu feng ji	432
+高位油箱	gao wei you xiang	149
+隔板	ge ban	249
+隔离器	ge li qi	144
+隔声罩	ge sheng zhao	138
+隔叶块	ge ye kuai	236
+根据相似理论作设计	gen ju xiang si li lun zuo she ji	358
+工况点	gong kuang dian	222
+功率裕度	gong lv yu du	377
+功能试验	gong neng shi yan	226
+公用底座	gong yong di zuo	263
+工作面	gong zuo mian	369
+鼓风机	gu feng ji	24
+鼓筒式转子	gu tong shi zhuan zi	234
+管网	guan wang	160
+管网特性	guan wang te xing	426
+管线型	guan xian xing	433
+光轴	guang zhou	243
+过滤器	guo lv qi	137
+海平的松动的	hai ping de song dong de	96
+焊接叶轮	han jie ye lun	240
+厚度与弦长之比	hou du yu xian chang zhi bi	7
+后机壳	hou ji ke	255
+后向叶片	hou xiang ye pian	282
+后缘点	hou yuan dian	25
+后缘方向角	hou yuan fang xiang jiao	65
+滑动	hua dong	403
+滑动系数	hua dong xi shu	402
+环列叶栅	huan lie ye zha	83
+环型叶栅	huan xing ye zha	66
+回转效应	hui zhuan xiao ying	370
+混流风机	hun liu feng ji	451
+机号	ji hao	444
+几何角	ji he jiao	115
+几何相似	ji he xiang si	362
+机壳	ji ke	313
+计入流动损失	ji ru liu dong sun shi	337
+计算性能曲线	ji suan xing neng qu xian	427
+机械	ji xie	95
+机械密封	ji xie mi feng	305
+机械损失	ji xie sun shi	397
+机械效率	ji xie xiao lv	376
+机械运转试验	ji xie yun zhuan shi yan	228
+见证试验	jian zheng shi yan	225
+角速度	jiao su du	119
+节鞭轴	jie bian zhou	244
+阶梯轴	jie ti zhou	245
+进出气试验装置	jin chu qi shi yan zhuang zhi	181
+进口冲角	jin kou chong jiao	86
+进口的初始的	jin kou de chu shi de	94
+进口几何角	jin kou ji he jiao	51
+进口气流角	jin kou qi liu jiao	52
+进口圈	jin kou quan	292
+进口条件	jin kou tiao jian	425
+进气节流调节	jin qi jie liu tiao jie	215
+进气室	jin qi shi	268
+进气试验装置	jin qi shi yan zhuang zhi	183
+进气预旋调节	jin qi yu xuan tiao jie	213
+近似相似	jin si xiang si	357
+经济工作区	jing ji gong zuo qu	188
+静平衡	jing ping heng	193
+径向速度	jing xiang su du	408
+径向调节器	jing xiang tiao jie qi	273
+径向叶片	jing xiang ye pian	283
+静压	jing ya	419
+静压系数	jing ya xi shu	340
+静叶	jing ye	286
+具有一定的气流流场	ju you yi ding de qi liu liu chang	199
+绝对速度	jue dui su du	411
+开式叶轮	kai shi ye lun	289
+可调性	ke tiao xing	173
+孔板	kong ban	202
+空间叶栅	kong jian ye zha	28
+空气动力略图	kong qi dong li lue tu	350
+空气试验	kong qi shi yan	163
+跨距	kua ju	27
+扩压器	kuo ya qi	271
+扩压损失	kuo ya sun shi	395
+冷却系统	leng que xi tong	157
+理论	li lun	103
+理论静压能量头	li lun jing ya neng liang tou	399
+理论能量头	li lun neng liang tou	323
+理想气体	li xiang qi ti	329
+离心风机	li xin feng ji	456
+联合运行	lian he yun xing	207
+联轴器护罩	lian zhou qi hu zhao	129
+两台以上风机的串联或并联运行	liang tai yi shang feng ji de chuan lian huo bing lian yun xing	206
+临界	lin jie	111
+临界转速	lin jie zhuan su	373
+流动损失	liu dong sun shi	392
+流动显示器	liu dong xian shi qi	143
+流量	liu liang	417
+流量系数	liu liang xi shu	414
+轮盖	lun gai	296
+轮毂	lun gu	293
+轮毂比	lun gu bi	75
+轮盘	lun pan	295
+轮阻	lun zu	107
+轮阻损失	lun zu sun shi	391
+轮阻系数	lun zu xi shu	383
+铆接叶轮	mao jie ye lun	241
+密度	mi du	121
+密封高位油箱	mi feng gao wei you xiang	38
+密封油高位油箱	mi feng you gao wei you xiang	148
+密封油系统	mi feng you xi tong	151
+迷宫密封	mi gong mi feng	306
+面积	mian ji	127
+摩檫损失	mo cha sun shi	393
+末端冷却器	mo duan leng que qi	155
+模化试验	mo hua shi yan	223
+某一点某截面	mou yi dian mou jie mian	102
+挠性支座	nao xing zhi zuo	252
+挠性转子	nao xing zhuan zi	277
+内部	nei bu	100
+内功率	nei gong lv	382
+内功率系数	nei gong lv xi shu	336
+内机壳	nei ji ke	309
+内效率	nei xiao lv	381
+内泄漏	nei xie lou	387
+能量头系数	neng liang tou xi shu	322
+扭振	niu zhen	371
+排气节流调节	pai qi jie liu tiao jie	214
+盘车	pan che	218
+盘车装置	pan che zhuang zhi	130
+盘鼓式	pan gu shi	232
+盘鼓式转子	pan gu shi zhuan zi	64
+盘轴式转子	pan zhou shi zhuan zi	62
+旁通调节	pang tong tiao jie	209
+配重	pei zhong	190
+喷咀	pen zui	201
+喷嘴	pen zui	40
+平板叶片	ping ban ye pian	278
+平衡	ping heng	194
+平衡块	ping heng kuai	258
+平衡盘	ping heng pan	259
+平衡气管	ping heng qi guan	253
+平衡腔	ping heng qiang	79
+平面叶栅	ping mian ye zha	35
+气动与几何参数	qi dong yu ji he can shu	20
+气流落后角	qi liu luo hou jiao	60
+气流折转角	qi liu zhe zhuan jiao	5
+气流转折角	qi liu zhuan zhe jiao	53
+气密性试验	qi mi xing shi yan	165
+气体常数	qi ti chang shu	122
+气体在叶轮中得到的	qi ti zai ye lun zhong de dao de	400
+气液分离器	qi ye fen li qi	134
+前机壳	qian ji ke	256
+潜流	qian liu	389
+前向叶片	qian xiang ye pian	284
+前缘点	qian yuan dian	49
+前缘方向角	qian yuan fang xiang jiao	59
+切向速度	qie xiang su du	407
+切于翼型凹面的切线称外弦	qie yu yi xing ao mian de qie xian cheng wai xian	19
+全闭	quan bi	186
+热力学湿度	re li xue shi du	118
+容积的	rong ji de	98
+容积流量	rong ji liu liang	424
+润滑油系统	run hua you xi tong	153
+三元叶片	san yuan ye pian	281
+上机壳	shang ji ke	311
+升压	sheng ya	416
+实际气体	shi ji qi ti	328
+湿空气	shi kong qi	42
+试验台	shi yan tai	203
+双列叶栅	shuang lie ye zha	58
+双吸入	shuang xi ru	445
+双支承式	shuang zhi cheng shi	447
+水封	shui feng	302
+水平剖分型	shui ping pou fen xing	438
+说明	shuo ming	116
+松动转速	song dong zhuan su	374
+速度三角形	su du san jiao xing	410
+锁口件	suo kou jian	235
+弹性支座	tan xing zhi zuo	251
+特征尺寸	te zheng chi cun	356
+填料密封	tian liao mi feng	299
+调节器	tiao jie qi	274
+调节系统	tiao jie xi tong	208
+调节油系统	tiao jie you xi tong	152
+跳闸	tiao zha	101
+跳闸转速	tiao zha zhuan su	175
+调整垫片	tiao zheng dian pian	261
+调整螺钉	tiao zheng luo ding	260
+调整旋转件的质量分布	tiao zheng xuan zhuan jian de zhi liang fen bu	191
+停车点	ting che dian	167
+通风机	tong feng ji	455
+通风机的轴功率	tong feng ji de zhou gong lv	346
+通风机动压	tong feng ji dong ya	348
+通风机静压	tong feng ji jing ya	349
+通风机静压与之比	tong feng ji jing ya yu zhi bi	339
+通风机静轴效率	tong feng ji jing zhou xiao lv	343
+通风机内功率	tong feng ji nei gong lv	338
+通风机效率	tong feng ji xiao lv	345
+通风机压力	tong feng ji ya li	347
+通风机轴功率	tong feng ji zhou gong lv	56
+通风机轴效率	tong feng ji zhou xiao lv	344
+通风机总效率	tong feng ji zong xiao lv	342
+透平	tou ping	443
+透平鼓风机	tou ping gu feng ji	453
+透平压缩机	tou ping ya suo ji	452
+脱气槽	tuo qi cao	145
+外机壳	wai ji ke	308
+外泄漏	wai xie lou	386
+弯道	wan dao	248
+弯度	wan du	74
+弯度的最大值	wan du de zui da zhi	13
+弯度与弦长之比	wan du yu xian chang zhi bi	10
+弯振	wan zhen	372
+稳定工作区	wen ding gong zuo qu	189
+稳定性	wen ding xing	174
+温度	wen du	418
+蜗壳	wo ke	30
+窝壳	wo ke	267
+无叶扩压器	wu ye kuo ya qi	269
+无因次性能曲线	wu yin ci xing neng qu xian	428
+系列综合性能曲线	xi lie zong he xing neng qu xian	351
+铣制叶轮	xi zhi ye lun	239
+下机壳	xia ji ke	310
+弦长	xian chang	68
+相对厚度	xiang dui hou du	76
+相对宽度	xiang dui kuan du	32
+相对速度	xiang dui su du	413
+相对弯度	xiang dui wan du	70
+相对栅距	xiang dui zha ju	36
+相对栅距的倒数	xiang dui zha ju de dao shu	3
+相似设计	xiang si she ji	359
+消声器	xiao sheng qi	139
+斜流风机	xie liu feng ji	450
+泄漏	xie lou	388
+泄漏损失	xie lou sun shi	385
+泄漏系数	xie lou xi shu	384
+性能	xing neng	430
+性能曲线	xing neng qu xian	429
+性能试验	xing neng shi yan	227
+型式试验	xing shi shi yan	230
+蓄能器	xu neng qi	146
+悬臂式	xuan bi shi	448
+旋风分离器	xuan feng fen li qi	132
+旋涡鼓风机	xuan wo gu feng ji	449
+选择性能曲线	xuan ze xing neng qu xian	352
+旋转脱离	xuan zhuan tuo li	367
+旋转脱流	xuan zhuan tuo liu	31
+压力	ya li	124
+压力比	ya li bi	415
+压力试验	ya li shi yan	162
+压力系数	ya li xi shu	341
+压力油箱	ya li you xiang	147
+压缩机	ya suo ji	23
+压缩机额定点	ya suo ji e ding dian	178
+压缩性系数	ya suo xing xi shu	332
+压缩性修正系数	ya suo xing xiu zheng xi shu	333
+沿翼弦方向最大弯度处	yan yi xian fang xiang zui da wan du chu	12
+叶根	ye gen	237
+叶轮	ye lun	297
+叶盘	ye pan	246
+叶片	ye pian	288
+叶片安装角	ye pian an zhuang jiao	78
+叶片高度	ye pian gao du	80
+叶片厚度	ye pian hou du	77
+叶片厚度的最大值	ye pian hou du de zui da zhi	8
+叶片扩压器	ye pian kuo ya qi	270
+叶片频率	ye pian pin lv	81
+叶型	ye xing	33
+叶型内切圆直径	ye xing nei qie yuan zhi jing	9
+叶栅	ye zha	71
+叶栅额线	ye zha e xian	55
+叶栅额线为直线的叶栅	ye zha e xian wei zhi xian de ye zha	1
+亦称为筒型	yi cheng wei tong xing	439
+翼弦	yi xian	69
+翼弦的长度	yi xian de chang du	17
+翼弦的后端点	yi xian de hou duan dian	15
+翼弦的前端点	yi xian de qian duan dian	16
+翼弦通常指内弦	yi xian tong chang zhi nei xian	18
+翼型安装角	yi xing an zhuang jiao	85
+翼型弯曲角	yi xing wan qu jiao	73
+翼型叶片	yi xing ye pian	279
+翼型中线	yi xing zhong xian	72
+翼型中线到翼弦间的距离	yi xing zhong xian dao yi xian jian de ju li	14
+意义	yi yi	89
+英文	ying wen	90
+用于脚标字母与数字	yong yu jiao biao zi mu yu shu zi	117
+油净化器	you jing hua qi	142
+油路系统	you lu xi tong	154
+有效	you xiao	105
+油站	you zhan	150
+原动机的输出功率	yuan dong ji de shu chu gong lv	378
+圆弧叶片	yuan hu ye pian	280
+圆周的	yuan zhou de	99
+圆周速度	yuan zhou su du	412
+运动粘性系数	yun dong nian xing xi shu	123
+运动相似	yun dong xiang si	361
+运行试验	yun xing shi yan	224
+允许的最	yun xu de zui	172
+允许的最高工作压力	yun xu de zui gao gong zuo ya li	47
+允许的最高温度	yun xu de zui gao wen du	169
+运转时的摩檫损失	yun zhuan shi de mo cha sun shi	396
+在其出口法兰处的	zai qi chu kou fa lan chu de	420
+栅距	zha ju	37
+栅距与弦长之比	zha ju yu xian chang zhi bi	4
+展弦比	zhan xian bi	87
+找正	zhao zheng	196
+真空试验	zhen kong shi yan	161
+正常运行点	zheng chang yun xing dian	180
+正常转速	zheng chang zhuan su	179
+整流器	zheng liu qi	131
+整体组装型	zheng ti zu zhuang xing	436
+直径比	zhi jing bi	63
+质量	zhi liang	97
+质量流量	zhi liang liu liang	423
+直列叶栅	zhi lie ye zha	50
+滞留压力	zhi liu ya li	166
+至前缘点的距离	zhi qian yuan dian de ju li	11
+支腿	zhi tui	266
+滞止	zhi zhi	354
+中机壳	zhong ji ke	254
+中间冷却器	zhong jian leng que qi	156
+轴的	zhou de	108
+轴端密封	zhou duan mi feng	307
+轴功率	zhou gong lv	380
+轴流风机	zhou liu feng ji	454
+轴流调节门	zhou liu tiao jie men	84
+轴盘	zhou pan	294
+轴盘式转子	zhou pan shi zhuan zi	233
+周速系数	zhou su xi shu	404
+轴套	zhou tao	257
+轴向	zhou xiang	113
+轴向风机	zhou xiang feng ji	82
+轴向速度	zhou xiang su du	409
+轴向调节门	zhou xiang tiao jie men	272
+注水装置	zhu shui zhuang zhi	128
+铸造叶轮	zhu zao ye lun	238
+主轴	zhu zhou	298
+转动叶片调节	zhuan dong ye pian tiao jie	212
+转鼓	zhuan gu	231
+转速	zhuan su	126
+专用工具	zhuan yong gong ju	133
+转子	zhuan zi	314
+装置	zhuang zhi	34
+装置的	zhuang zhi de	93
+装置效率	zhuang zhi xiao lv	375
+装置轴功率	zhuang zhi zhou gong lv	379
+自动模化	zi dong mo hua	363
+资料性附录	zi liao xing fu lu	21
+子午加速轴流通风机	zi wu jia su zhou liu tong feng ji	442
+子午速度	zi wu su du	406
+自由排气	zi you pai qi	187
+总的	zong de	104
+最大厚度位置	zui da hou du wei zhi	48
+最大弯度	zui da wan du	46
+最大弯度位置	zui da wan du wei zhi	44
+最大叶片厚度	zui da ye pian hou du	45
+最低连续转速	zui di lian xu zhuan su	176
+最低允许转速	zui di yun xu zhuan su	43
+最高连续转速	zui gao lian xu zhuan su	177
+最高密封压力	zui gao mi feng ya li	170

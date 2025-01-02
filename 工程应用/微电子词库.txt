@@ -1,0 +1,714 @@
+# 文件名：微电子词库.scel
+# 词库名：微电子词库
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：积累区 雪崩激发 基区扩展效应 级联 阴极
+# 词条数量：707
+
+爱因斯坦关系	ai yin si tan guan xi	506
+按比例缩小	an bi li suo xiao	220
+暗电流	an dian liu	567
+摆幅	bai fu	35
+白噪声	bai zao sheng	95
+半导体	ban dao ti	207
+半速率	ban su lv	92
+版图	ban tu	376
+薄层电阻	bao ceng dian zu	200
+饱和区	bao he qu	221
+保护环	bao hu huan	432
+薄膜混合	bao mo hun he	150
+薄膜晶体	bao mo jing ti	149
+倍增	bei zeng	341
+倍增因子	bei zeng yin zi	340
+本底掺杂	ben di chan za	679
+本底载流子	ben di zai liu zi	680
+本征	ben zheng	395
+本征半导体	ben zheng ban dao ti	394
+闭环带宽	bi huan dai kuan	76
+闭环增益集电极	bi huan zeng yi ji dian ji	619
+闭锁	bi suo	377
+边界条件	bian jie tiao jian	646
+扁平封装	bian ping feng zhuang	453
+边墙电容	bian qiang dian rong	198
+变容管	bian rong guan	119
+变阻器	bian zu qi	118
+并行数据	bing xing shu ju	40
+波导	bo dao	116
+波尔兹曼	bo er zi man	653
+波粒二相性	bo li er xiang xing	114
+波数	bo shu	115
+泊松方程	bo song fang cheng	276
+波特图	bo te tu	59
+补偿半导体	bu chang ban dao ti	609
+补偿运放	bu chang yun fang	16
+补偿杂质	bu chang za zhi	610
+捕获	bu huo	89
+捕获范围	bu huo fan wei	88
+捕获时间	bu huo shi jian	61
+布局布线	bu ju bu xian	364
+布里渊	bu li yuan	642
+布里渊区	bu li yuan qu	641
+布洛赫	bu luo he	658
+布线	bu xian	113
+采样电路	cai yang dian lu	225
+参数	can shu	305
+层错	ceng cuo	172
+差分运放	cha fen yun fang	539
+差模输入	cha mo shu ru	540
+产生复合	chan sheng fu he	437
+掺杂半导体	chan za ban dao ti	520
+掺杂剂	chan za ji	521
+掺杂浓度	chan za nong du	519
+场效应晶体管	chang xiao ying jing ti guan	458
+场氧化层	chang yang hua ceng	457
+超晶格	chao jing ge	163
+衬底	chen di	164
+驰豫	chi yu	228
+驰豫时间	chi yu shi jian	233
+触发器翻转	chu fa qi fan zhuan	451
+串并转换	chuan bing zhuan huan	42
+传感器	chuan gan qi	103
+穿交	chuan jiao	584
+串联	chuan lian	203
+串联电感	chuan lian dian gan	202
+传输函数	chuan shu han shu	143
+传输器	chuan shu qi	587
+传输线	chuan shu xian	71
+传输延时	chuan shu yan shi	261
+穿通	chuan tong	246
+串行	chuan xing	204
+串行数据	chuan xing shu ju	41
+次平面	ci ping mian	212
+存储时间	cun chu shi jian	168
+待命状态	dai ming zhuang tai	331
+氮化硅	dan hua gui	194
+单结	dan jie	128
+单晶	dan jing	190
+单位增益频率	dan wei zeng yi pin lv	126
+单向开关	dan xiang kai guan	125
+导带	dao dai	604
+导带态	dao dai tai	603
+倒核子	dao he zi	241
+导纳允带	dao na yun dai	695
+导体	dao ti	602
+德拜长度	de bai chang du	565
+德布洛意	de bu luo yi	564
+等离子体	deng li zi ti	278
+等能面	deng neng mian	597
+等效电路	deng xiao dian lu	482
+狄拉克分布	di la ke fen bu	10
+狄氏效应	di shi xiao ying	430
+电导	dian dao	605
+电导率	dian dao lv	601
+电感	dian gan	101
+电荷泵	dian he beng	90
+电荷泵锁相环	dian he beng suo xiang huan	91
+电荷电荷补偿效应	dian he dian he bu chang xiao ying	626
+电荷共享	dian he gong xiang	625
+电荷守恒	dian he shou heng	24
+电极	dian ji	504
+淀积薄膜	dian ji bao mo	546
+淀积工艺	dian ji gong yi	545
+点接触	dian jie chu	275
+电离	dian li	386
+电离能	dian li neng	385
+电流饱和区	dian liu bao he qu	222
+电流舵	dian liu duo	69
+电流镜	dian liu jing	102
+电流密度	dian liu mi du	578
+电流模	dian liu mo	72
+电流漂移	dian liu piao yi	575
+电流取样	dian liu qu yang	574
+电流失配	dian liu shi pei	70
+电迁移	dian qian yi	503
+电容	dian rong	634
+电中性条件	dian zhong xing tiao jian	23
+电子伏	dian zi fu	497
+电子俘获中心	dian zi fu huo zhong xin	498
+电子级纯水	dian zi ji chun shui	499
+电子能	dian zi neng	501
+电子气	dian zi qi	500
+电子亲和势	dian zi qin he shi	502
+电子束曝光	dian zi shu bao guang	12
+电阻率	dian zu lv	230
+电阻增量	dian zu zeng liang	411
+定制集成电路	ding zhi ji cheng dian lu	572
+动态范围	dong tai fan wei	106
+动态属性	dong tai shu xing	511
+动态阻抗	dong tai zu kang	510
+抖动	dou dong	109
+渡越时间	du yue shi jian	140
+短沟道	duan gou dao	97
+对准	dui zhun	234
+钝化	dun hua	302
+钝化界面	dun hua jie mian	299
+多晶	duo jing	273
+多晶硅	duo jing gui	271
+多路复用	duo lu fu yong	83
+厄利效应	e li xiao ying	509
+俄歇	e xie	684
+俄歇过程	e xie guo cheng	683
+二分频	er fen pin	55
+二极管	er ji guan	543
+二进制代码	er jin zhi dai ma	661
+二氧化硅	er yang hua gui	195
+二元化合物半导体	er yuan hua he wu ban dao ti	660
+发光二极管	fa guang er ji guan	366
+发射极	fa she ji	617
+发射极集边效应	fa she ji ji bian xiao ying	490
+发射极耦合对	fa she ji ou he dui	493
+发射极耦合逻辑	fa she ji ou he luo ji	494
+反掺杂	fan chan za	590
+反馈	fan kui	463
+反向工作	fan xiang gong zuo	393
+反向偏置	fan xiang pian zhi	678
+反相器	fan xiang qi	391
+反型	fan xing	392
+反应溅射源	fan ying jian she yuan	245
+放大器	fang da qi	687
+放电	fang dian	527
+非本征	fei ben zheng	471
+非挥发性	fei hui fa xing	332
+非接触式掩模	fei jie chu shi yan mo	319
+非晶体	fei jing ti	690
+菲克方程	fei ke fang cheng	459
+费米	fei mi	11
+费米狄拉克分布	fei mi di la ke fen bu	461
+费米能级	fei mi neng ji	462
+费米势	fei mi shi	460
+非平衡	fei ping heng	333
+非线性鉴相器	fei xian xing jian xiang qi	74
+分贝	fen bei	562
+分布电容	fen bu dian rong	525
+分布模型	fen bu mo xing	524
+分立元件	fen li yuan jian	526
+分凝	fen ning	210
+分子晶体	fen zi jing ti	343
+峰点电压	feng dian dian ya	297
+峰值电压	feng zhi dian ya	296
+封装	feng zhuang	307
+幅度	fu du	34
+负反馈	fu fan kui	338
+复合	fu he	243
+氟化氢刻蚀	fu hua qing ke shi	449
+俘获截面	fu huo jie mian	32
+俘获载流子	fu huo zai liu zi	31
+浮栅	fu shan	450
+辐射保护	fu she bao hu	248
+辐射电导率	fu she dian dao lv	252
+辐射加固	fu she jia gu	249
+辐射加固器件	fu she jia gu qi jian	429
+辐射损伤	fu she sun shang	251
+辐射通量密度	fu she tong liang mi du	250
+负温度系数	fu wen du xi shu	335
+负载线	fu zai xian	365
+辐照	fu zhao	384
+辐照复合	fu zhao fu he	247
+负阻	fu zu	337
+概率密度	gai lv mi du	52
+概率密度函数	gai lv mi du han shu	51
+干法腐蚀	gan fa fu shi	515
+坩埚	gan guo	583
+感应沟道	gan ying gou dao	408
+高场特性	gao chang te xing	421
+高斯	gao si	439
+高斯掺杂分布	gao si chan za fen bu	438
+高斯分布	gao si fen bu	37
+隔离岛	ge li dao	383
+葛谋潘模型	ge mou pan mo xing	431
+各向同性	ge xiang tong xing	382
+各向异性	ge xiang yi xing	33
+功放	gong fang	689
+功函数	gong han shu	112
+功耗	gong hao	269
+共价键	gong jia jian	370
+共阶跨交	gong jie kua jiao	15
+共漏	gong lou	615
+功率晶体管	gong lv jing ti guan	268
+功率谱	gong lv pu	43
+共模输入	gong mo shu ru	612
+共模抑制比	gong mo yi zhi bi	611
+共模增益	gong mo zeng yi	613
+共溶	gong rong	486
+共栅	gong shan	616
+共射频率	gong she pin lv	227
+工艺	gong yi	262
+共源	gong yuan	614
+工作点	gong zuo dian	328
+工作偏置	gong zuo pian zhi	327
+工作周期	gong zuo zhou qi	513
+沟道掺杂	gou dao chan za	630
+沟道电流	gou dao dian liu	25
+沟道击穿	gou dao ji chuan	26
+沟道宽度	gou dao kuan du	628
+沟道缩短	gou dao suo duan	629
+谷间散射	gu jian san she	397
+固溶度	gu rong du	183
+固体电路	gu ti dian lu	184
+管脚	guan jiao	282
+光猝灭	guang cu mie	323
+光电池	guang dian chi	287
+光电导	guang dian dao	289
+光电二极管	guang dian er ji guan	288
+光电效应	guang dian xiao ying	286
+光刻	guang ke	367
+光刻工艺	guang ke gong yi	284
+光耦合隔离器	guang ou he ge li qi	321
+光通信	guang tong xin	108
+光跃迁	guang yue qian	322
+光致抗蚀剂	guang zhi kang shi ji	13
+光子	guang zi	324
+光子器件	guang zi qi jian	285
+归一化	gui yi hua	420
+过冲	guo chong	315
+过度金属硅化物	guo du jin shu gui hua wu	138
+过渡区	guo du qu	136
+国际单位制	guo ji dan wei zhi	398
+过流保护	guo liu bao hu	316
+过剩载流子	guo sheng zai liu zi	476
+过压保护	guo ya bao hu	314
+过载	guo zai	312
+耗尽层	hao jin ceng	547
+耗尽接触	hao jin jie chu	550
+耗尽近似	hao jin jin si	551
+耗尽区	hao jin qu	552
+耗尽深度	hao jin shen du	549
+耗尽效应	hao jin xiao ying	548
+合金结器件	he jin jie qi jian	694
+恒定源扩散	heng ding yuan kuo san	596
+横向	heng xiang	8
+厚膜技术	hou mo ji shu	151
+互补达林顿电路	hu bu da lin dun dian lu	608
+互补金属氧化物半导体场效应晶体管	hu bu jin shu yang hua wu ban dao ti chang xiao ying jing ti guan	595
+互连	hu lian	402
+互连延时	hu lian yan shi	401
+化合物半导体	hua he wu ban dao ti	606
+划片格	hua pian ge	213
+化学腐蚀法	hua xue fu shi fa	22
+化学机械抛光	hua xue ji xie pao guang	624
+化学抛光	hua xue pao guang	21
+缓变沟道	huan bian gou dao	435
+缓变结晶粒	huan bian jie jing li	434
+环路参数	huan lu can shu	80
+环路带宽	huan lu dai kuan	78
+环路滤波器	huan lu lv bo qi	81
+环路相应	huan lu xiang ying	79
+环形振荡器	huan xing zhen dang qi	100
+恢复二极管	hui fu er ji guan	242
+恢复时间	hui fu shi jian	240
+混合集成	hun he ji cheng	417
+霍尔效应	huo er xiao ying	425
+急变时间	ji bian shi jian	188
+集成注入逻辑	ji cheng zhu ru luo ji	403
+击穿	ji chuan	643
+寄存器	ji cun qi	235
+集电极	ji dian ji	618
+激发能	ji fa neng	475
+激发态	ji fa tai	474
+几何尺寸	ji he chi cun	436
+激活	ji huo	698
+激活能	ji huo neng	697
+基极	ji ji	670
+积累层	ji lei ceng	701
+积累接触	ji lei jie chu	703
+积累区	ji lei qu	702
+级联	ji lian	633
+基区渡越时间	ji qu du yue shi jian	667
+基区接触	ji qu jie chu	669
+基区宽度调制	ji qu kuan du tiao zhi	665
+基区扩展效应	ji qu kuo zhan xiao ying	668
+基区输运系数	ji qu shu yun xi shu	666
+寄生晶体管	ji sheng jing ti guan	298
+寄生效应	ji sheng xiao ying	304
+寄生振荡	ji sheng zhen dang	303
+基矢	ji shi	664
+极性	ji xing	274
+基准点	ji zhun dian	237
+激子	ji zi	473
+集总模型	ji zong mo xing	361
+价带	jia dai	123
+价带顶	jia dai ding	122
+价电子	jia dian zi	651
+夹断	jia duan	281
+价键	jia jian	121
+加速实验	jia su shi yan	706
+简并半导体	jian bing ban dao ti	555
+简并度	jian bing du	554
+键合	jian he	652
+键合点	jian he dian	650
+简立方	jian li fang	191
+建立时间	jian li shi jian	201
+鉴频	jian pin	87
+鉴频鉴相	jian pin jian xiang	86
+溅射	jian she	173
+减速	jian su	563
+鉴相	jian xiang	85
+交迭	jiao die	313
+交互式结构	jiao hu shi jie gou	400
+结侧壁	jie ce bi	378
+接触电势	jie chu dian shi	592
+接触孔	jie chu kong	593
+接触式掩模	jie chu shi yan mo	410
+介电	jie dian	542
+结隔离	jie ge li	380
+结构组态	jie gou zu tai	599
+结间距	jie jian ju	379
+解理面	jie li mian	620
+界面	jie mian	399
+结型场效应管	jie xing chang xiao ying guan	381
+截止	jie zhi	576
+介质隔离	jie zhi ge li	541
+禁带	jin dai	448
+金属半导体	jin shu ban dao ti	350
+金属氧化物半导体场效应晶体管	jin shu yang hua wu ban dao ti chang xiao ying jing ti guan	342
+进位输出	jin wei shu chu	27
+进位输入	jin wei shu ru	28
+晶胞	jing bao	374
+晶格	jing ge	579
+晶格畸变	jing ge ji bian	373
+晶格结合力	jing ge jie he li	375
+晶面	jing mian	581
+晶片波动方程	jing pian bo dong fang cheng	117
+静态特性	jing tai te xing	171
+晶体管老化	jing ti guan lao hua	141
+晶体缺陷	jing ti que xian	582
+晶向	jing xiang	580
+镜象力碰撞电离	jing xiang li peng zhuang dian li	416
+晶闸管	jing zha guan	147
+聚合物半导体	ju he wu ban dao ti	272
+绝对抖动	jue dui dou dong	68
+绝缘硅	jue yuan gui	193
+绝缘栅	jue yuan shan	404
+绝缘体	jue yuan ti	405
+均匀分布	jun yun fen bu	36
+开环带宽	kai huan dai kuan	77
+开路	kai lu	329
+抗腐蚀剂	kang fu shi ji	283
+抗蚀剂掩模	kang shi ji yan mo	477
+可擦取存储器	ke ca qu cun chu qi	479
+可动离子	ke dong li zi	344
+可靠性	ke kao xing	232
+可控硅	ke kong gui	206
+可渗透基区	ke shen tou ji qu	293
+刻蚀剂	ke shi ji	478
+空带	kong dai	491
+空间电荷	kong jian dian he	179
+空位	kong wei	124
+空穴	kong xue	427
+空载时间	kong zai shi jian	566
+跨导	kua dao	146
+快恢复	kuai hui fu	465
+快界面态	kuai jie mian tai	464
+扩频	kuo pin	46
+扩频通信	kuo pin tong xin	44
+扩散常数	kuo san chang shu	536
+扩散电容	kuo san dian rong	534
+扩散率	kuo san lv	535
+扩散势垒	kuo san shi lei	533
+扩散系数	kuo san xi shu	537
+扩音器	kuo yin qi	688
+扩展电阻	kuo zhan dian zu	174
+扩展频谱	kuo zhan pin pu	47
+蓝宝石	lan bao shi	224
+浪涌能力	lang yong neng li	162
+里德二极管	li de er ji guan	244
+李奇	li qi	3
+离子	li zi	390
+离子刻蚀	li zi ke shi	388
+离子束	li zi shu	389
+离子注入	li zi zhu ru	387
+连续性方程	lian xu xing fang cheng	594
+连续性条件	lian xu xing tiao jian	591
+量子化	liang zi hua	255
+量子效应	liang zi xiao ying	254
+临界	lin jie	14
+灵敏度	ling min du	205
+漏电流	lou dian liu	372
+逻辑摆幅	luo ji bai fu	363
+洛沦兹	luo lun zi	362
+裸片	luo pian	339
+螺旋电感	luo xuan dian gan	56
+铝钝化	lv dun hua	692
+铝氧化物	lv yang hua wu	693
+码型	ma xing	39
+脉冲宽度调制	mai chong kuan du tiao zhi	258
+脉冲调制	mai chong tiao zhi	259
+埋沟	mai gou	636
+麦克斯韦	mai ke si wei	354
+曼彻斯特码	man che si te ma	38
+满带	man dai	456
+蒙特卡洛	meng te ka luo	94
+密堆积结构	mi dui ji jie gou	17
+密勒指数	mi le zhi shu	347
+面心立方	mian xin li fang	469
+模拟板	mo ni ban	644
+模拟比较器	mo ni bi jiao qi	686
+南开	nan kai	2
+南开大学	nan kai da xue	1
+内插法	nei cha fa	396
+内建	nei jian	640
+内建电场	nei jian dian chang	639
+能带	neng dai	675
+能带间隙	neng dai jian xi	674
+能级深陷阱	neng ji shen xian jing	557
+能态	neng tai	488
+耦合	ou he	585
+偶极层直接耦合	ou ji ceng zhi jie ou he	530
+偶极畴	ou ji chou	531
+欧姆接触	ou mu jie chu	330
+硼硅玻璃	peng gui bo li	647
+匹配	pi pei	355
+偏差	pian cha	166
+偏置	pian zhi	663
+偏置电流	pian zhi dian liu	99
+偏置电压	pian zhi dian ya	98
+漂移电场	piao yi dian chang	517
+频率漂移噪声	pin lv piao yi zao sheng	445
+频率响应函数	pin lv xiang ying han shu	444
+品质因子	pin zhi yin zi	256
+平带	ping dai	454
+平衡多子	ping heng duo zi	481
+平衡少子	ping heng shao zi	480
+平均工作时间	ping jun gong zuo shi jian	351
+平均自由程	ping jun zi you cheng	353
+平面工艺	ping mian gong yi	280
+平面晶体管	ping mian jing ti guan	279
+汽相	qi xiang	120
+箝位	qian wei	622
+箝位二极管	qian wei er ji guan	621
+潜行通路	qian xing tong lu	187
+迁移率	qian yi lv	516
+前置放大器	qian zhi fang da qi	267
+切克劳斯基技术	qie ke lao si ji ji shu	569
+球面	qiu mian	177
+球形键合	qiu xing jian he	676
+趋肤效应	qu fu xiao ying	189
+曲率	qu lv	577
+全速率	quan su lv	82
+确定抖动	que ding dou dong	65
+缺陷	que xian	556
+热沉	re chen	154
+热导率	re dao lv	158
+热激发	re ji fa	159
+热平衡	re ping heng	157
+热氧化	re yang hua	156
+热运动	re yun dong	153
+热载流子	re zai liu zi	418
+热阻	re zu	155
+容差	rong cha	131
+三重扩散	san chong kuo san	133
+三角波发生器	san jiao bo fa sheng qi	134
+散粒噪声	san li zao sheng	199
+散热器	san re qi	428
+散射	san she	219
+扇出	shan chu	466
+扇入	shan ru	467
+闪烁存储器	shan shuo cun chu qi	455
+闪烁噪声	shan shuo zao sheng	452
+栅氧化层	shan yang hua ceng	440
+上跳变	shang tiao bian	48
+少数载流子	shao shu zai liu zi	346
+射频微电子	she pin wei dian zi	107
+射随器	she sui qi	492
+射线	she xian	441
+深度杂质	shen du za zhi	558
+砷化钾	shen hua jia	442
+深施主能级	shen shi zhu neng ji	559
+深受主能级	shen shou zhu neng ji	560
+升华	sheng hua	165
+生长结	sheng zhang jie	433
+声子谱	sheng zi pu	290
+湿法氧化	shi fa yang hua	514
+势阱	shi jing	270
+势垒	shi lei	673
+势垒层	shi lei ceng	672
+势垒宽度	shi lei kuan du	671
+失配	shi pei	345
+失锁	shi suo	84
+石英玻璃	shi ying bo li	197
+时钟触发器	shi zhong chu fa qi	18
+时钟发生器	shi zhong fa sheng qi	19
+时钟恢复	shi zhong hui fu	73
+时钟频率	shi zhong pin lv	20
+时钟与数据恢复	shi zhong yu shu ju hui fu	111
+施主耗尽	shi zhu hao jin	522
+受激发射	shou ji fa she	170
+受激复合	shou ji fu he	169
+受控	shou kong	589
+寿命测试	shou ming ce shi	489
+受主	shou zhu	705
+受主原子	shou zhu yuan zi	704
+输出电压摆幅	shu chu dian ya bai fu	317
+输出特性	shu chu te xing	318
+束缚电子	shu fu dian zi	645
+数据转换器	shu ju zhuan huan qi	49
+输入失调电压	shu ru shi tiao dian ya	406
+梳状发射极结	shu zhuang fa she ji jie	352
+数字电路	shu zi dian lu	532
+双极	shuang ji	691
+双极晶体管	shuang ji jing ti guan	659
+双扩散	shuang kuo san	518
+双列直插式封装	shuang lie zhi cha shi feng zhuang	512
+双向开关	shuang xiang kai guan	662
+瞬态	shun tai	142
+瞬态仿真	shun tai fang zhen	96
+速度功耗乘积	su du gong hao cheng ji	178
+隧穿	sui chuan	130
+隧道电流	sui dao dian liu	129
+随机抖动	sui ji dou dong	64
+锁相环	suo xiang huan	292
+态密度	tai mi du	553
+太阳能电池	tai yang neng dian chi	185
+碳化硅	tan hua gui	196
+探针	tan zhen	263
+陶瓷	tao ci	631
+套刻	tao ke	336
+特征阻抗	te zheng zu kang	627
+体复合	ti fu he	637
+体立心结构	ti li xin jie gou	654
+替位式	ti wei shi	4
+体吸收	ti xi shou	638
+体心立方	ti xin li fang	655
+调制器	tiao zhi qi	50
+铜互连系统	tong hu lian xi tong	586
+突变结	tu bian jie	707
+退火	tui huo	685
+推挽	tui wan	257
+推挽输出	tui wan shu chu	6
+椭球	tuo qiu	495
+外推法	wai tui fa	472
+外延	wai yan	485
+外延层	wai yan ceng	484
+外延片	wai yan pian	483
+弯曲	wan qu	573
+伪差分	wei cha fen	53
+位错	wei cuo	523
+微电子	wei dian zi	349
+微电子学	wei dian zi xue	348
+微分电容扩散结	wei fen dian rong kuo san jie	538
+伪随机	wei sui ji	54
+卫星谷	wei xing gu	223
+温差电动势率	wen cha dian dong shi lv	152
+稳压管	wen ya guan	229
+卧式外延反应器	wo shi wai yan fan ying qi	419
+物理常数	wu li chang shu	598
+无源器件	wu yuan qi jian	300
+无源元件	wu yuan yuan jian	301
+下标	xia biao	161
+下降时间	xia jiang shi jian	468
+陷阱电荷	xian jing dian he	135
+线性度	xian xing du	371
+线性鉴相器	xian xing jian xiang qi	75
+相位噪声	xiang wei zao sheng	110
+相移	xiang yi	291
+响应时间	xiang ying shi jian	226
+肖克莱二极管	xiao ke lai er ji guan	218
+肖特基	xiao te ji	217
+肖特基接触	xiao te ji jie chu	215
+肖特基势垒	xiao te ji shi lei	216
+谐波失真	xie bo shi zhen	104
+谐振	xie zhen	231
+芯片	xin pian	544
+芯片成品率	xin pian cheng pin lv	623
+信噪比	xin zao bi	105
+行为级模型	xing wei ji mo xing	57
+悬挂键	xuan gua jian	568
+选择性	xuan ze xing	209
+雪崩击穿	xue beng ji chuan	682
+雪崩激发	xue beng ji fa	681
+薛定谔	xue ding e	214
+压电效应	ya dian xiao ying	277
+压焊点	ya han dian	306
+亚阈值	ya yu zhi	186
+掩膜板	yan mo ban	360
+掩模序号	yan mo xu hao	359
+掩模组	yan mo zu	358
+延时锁相环	yan shi suo xiang huan	93
+眼图	yan tu	62
+氧化	yang hua	309
+氧化层钝化	yang hua ceng dun hua	308
+氧化物	yang hua wu	310
+液氮	ye dan	369
+液相外延生长技术	ye xiang wai yan sheng zhang ji shu	368
+一次性电可擦除只读存储器	yi ci xing dian ke ca chu zhi du cun chu qi	505
+译码	yi ma	561
+异质结	yi zhi jie	424
+异质结结构	yi zhi jie jie gou	423
+异质结双极型晶体	yi zhi jie shuang ji xing jing ti	422
+阴极	yin ji	632
+隐埋扩散区	yin mai kuo san qu	635
+铟锡氧化物	yin xi yang hua wu	409
+银须	yin xu	192
+印制电路板	yin zhi dian lu ban	264
+应力	ying li	167
+膺势发	ying shi fa	260
+永久存储电路	yong jiu cun chu dian lu	295
+有机半导体	you ji ban dao ti	320
+有效质量	you xiao zhi liang	507
+有源放大区	you yuan fang da qu	696
+有源器件	you yuan qi jian	699
+有源区有源元	you yuan qu you yuan yuan	700
+余误差函数	yu wu cha han shu	607
+阈值	yu zhi	148
+元胞	yuan bao	127
+源极	yuan ji	181
+元素半导体	yuan su ban dao ti	496
+源随器	yuan sui qi	180
+跃迁	yue qian	139
+跃迁几率	yue qian ji lv	137
+运放	yun fang	325
+运算放大器	yun suan fang da qi	326
+杂质半导体	za zhi ban dao ti	470
+载波进位位	zai bo jin wei wei	29
+载流子	zai liu zi	30
+早期失效	zao qi shi xiao	508
+噪声容限	zao sheng rong xian	334
+增强型模式	zeng qiang xing mo shi	487
+增益	zeng yi	443
+增益级	zeng yi ji	58
+展频	zhan pin	45
+张量	zhang liang	160
+折射率	zhe she lv	236
+振荡器	zhen dang qi	311
+真值表	zhen zhi biao	132
+整流电阻	zheng liu dian zu	677
+整流接触	zheng liu jie chu	238
+整流器	zheng liu qi	239
+正向导通	zheng xiang dao tong	446
+正向偏置	zheng xiang pian zhi	9
+正向阻断	zheng xiang zu duan	447
+直接带隙半导体	zhi jie dai xi ban dao ti	529
+直接跃迁	zhi jie yue qian	528
+直立单晶	zhi li dan jing	570
+质量守恒定律	zhi liang shou heng ding lv	357
+志散射	zhi san she	412
+重掺杂	zhong chan za	426
+中心频率	zhong xin pin lv	60
+周期表	zhou qi biao	294
+周期抖动	zhou qi dou dong	67
+周期周期抖动	zhou qi zhou qi dou dong	66
+主从触发器	zhu cong chu fa qi	356
+柱面	zhu mian	571
+主平面	zhu ping mian	266
+注入	zhu ru	407
+注入剂量	zhu ru ji liang	414
+注入离子	zhu ru li zi	413
+主轴	zhu zhou	265
+转换器	zhuan huan qi	588
+转移电子	zhuan yi dian zi	144
+转移特性	zhuan yi te xing	145
+准费米能级	zhun fei mi neng ji	253
+子带	zi dai	182
+自对准	zi dui zhun	5
+自发发射	zi fa fa she	175
+籽晶	zi jing	211
+自举电路	zi ju dian lu	649
+自举射极跟随器	zi ju she ji gen sui qi	648
+自扩散	zi kuo san	208
+自旋	zi xuan	176
+纵向	zong xiang	7
+阻挡接触	zu dang jie chu	656
+阻挡能带	zu dang neng dai	657
+阻抗不完整结构	zu kang bu wan zheng jie gou	415
+阻尼因子	zu ni yin zi	63
+组态	zu tai	600

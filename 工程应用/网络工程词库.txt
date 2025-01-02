@@ -1,0 +1,166 @@
+# 文件名：网络工程词库.scel
+# 词库名：网络工程词库
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：数据链路层 三类 无连接模式 四类
+# 词条数量：159
+
+阿帕网	a pa wang	75
+百兆网卡	bai zhao wang ka	11
+报头	bao tou	89
+备份域控制器	bei fen yu kong zhi qi	31
+比特率	bi te lv	142
+边界	bian jie	65
+边界路由器	bian jie lu you qi	98
+边界网关	bian jie wang guan	64
+别名	bie ming	73
+差错恢复	cha cuo hui fu	135
+超文本传送协议	chao wen ben chuan song xie yi	45
+超五类	chao wu lei	155
+传输控制协议	chuan shu kong zhi xie yi	37
+闯入	chuang ru	58
+带宽	dai kuan	137
+带宽速率	dai kuan su lv	121
+代理密码检查器	dai li mi ma jian cha qi	69
+地址解析协议	di zhi jie xi xie yi	134
+点到点	dian dao dian	129
+动态控制	dong tai kong zhi	115
+动态主机配置协议	dong tai zhu ji pei zhi xie yi	49
+对等的	dui deng de	130
+泛洪	fan hong	46
+反向掩码	fan xiang yan ma	108
+访问控制列表	fang wen kong zhi lie biao	83
+访问令牌	fang wen ling pai	82
+分配	fen pei	72
+峰值信元速率	feng zhi xin yuan su lv	113
+服务提供者	fu wu ti gong zhe	60
+负载	fu zai	147
+感兴趣的通信量	gan xing qu de tong xin liang	123
+跟踪	gen zong	107
+公共网关接口	gong gong wang guan jie kou	22
+共同介质段	gong tong jie zhi duan	106
+共享上网	gong xiang shang wang	3
+骨干区	gu gan qu	127
+管理员帐号	guan li yuan zhang hao	76
+光纤	guang xian	21
+光纤分布式数据接口	guang xian fen bu shi shu ju jie kou	48
+广域网	guang yu wang	14
+过滤	guo lv	111
+后端	hou duan	66
+互连网分组协议	hu lian wang fen zu xie yi	41
+华为网络	hua wei wang luo	6
+基带快速以太网规范	ji dai kuai su yi tai wang gui fan	154
+集线器	ji xian qi	86
+记帐策略	ji zhang ce lue	80
+兼容机制	jian rong ji zhi	105
+交换机	jiao huan ji	124
+校验和	jiao yan he	23
+接口卡	jie kou ka	85
+接人层	jie ren ceng	125
+进程间通信	jin cheng jian tong xin	40
+局部过程调用	ju bu guo cheng diao yong	39
+拒绝服务	ju jue fu wu	54
+局域网	ju yu wang	15
+开放数据库连接	kai fang shu ju ku lian jie	33
+开放图形语言	kai fang tu xing yu yan	32
+开销	kai xiao	136
+客户	ke hu	59
+可路由协议	ke lu you xie yi	96
+链路	lian lu	139
+令牌环	ling pai huan	112
+令牌总线	ling pai zong xian	18
+浏览器	liu lan qi	26
+六类	liu lei	13
+路由器	lu you qi	128
+路由协议	lu you xie yi	110
+路由选择协议	lu you xuan ze xie yi	97
+面向连接	mian xiang lian jie	145
+描述方法	miao shu fang fa	94
+明文	ming wen	61
+内部网关协议	nei bu wang guan xie yi	50
+千兆网卡	qian zhao wang ka	10
+桥接	qiao jie	27
+区域边界	qu yu bian jie	126
+全环探测包	quan huan tan ce bao	103
+缺省共享	que sheng gong xiang	55
+缺省路由	que sheng lu you	56
+三层交换机	san ceng jiao huan ji	16
+三类	san lei	158
+身份验证	shen fen yan zheng	152
+审记策略	shen ji ce lue	67
+生成树	sheng cheng shu	93
+适配器	shi pei qi	78
+适应层	shi ying ceng	133
+十兆百兆自适应网卡	shi zhao bai zhao zi shi ying wang ka	8
+十兆网卡	shi zhao wang ka	12
+授权	shou quan	151
+数据包	shu ju bao	138
+数据传输	shu ju chuan shu	143
+数据链路层	shu ju lian lu ceng	148
+数据链路控制	shu ju lian lu kong zhi	57
+数字服务单元	shu zi fu wu dan yuan	24
+衰减	shuai jian	91
+双工方式	shuang gong fang shi	84
+双绞电缆	shuang jiao dian lan	159
+双绞线	shuang jiao xian	20
+思科网络	si ke wang luo	7
+四类	si lei	157
+速率增强	su lv zeng qiang	92
+算法	suan fa	74
+特洛伊木马	te luo yi mu ma	36
+同步路由选择	tong bu lu you xuan ze	118
+同步通信量	tong bu tong xin liang	141
+统计	tong ji	150
+通信协议组	tong xin xie yi zu	100
+统一资源定位器	tong yi zi yuan ding wei qi	35
+外部网关协议	wai bu wang guan xie yi	51
+外部协议	wai bu xie yi	90
+万兆网卡	wan zhao wang ka	9
+网段	wang duan	153
+网际控制报文协议	wang ji kong zhi bao wen xie yi	44
+网际协议	wang ji xie yi	42
+网络安全	wang luo an quan	149
+网络地址	wang luo di zhi	131
+网络设备	wang luo she bei	122
+网络拓补结构	wang luo tuo bu jie gou	1
+网络新闻传送协议	wang luo xin wen chuan song xie yi	38
+网桥	wang qiao	28
+文件传送协议	wen jian chuan song xie yi	47
+五类	wu lei	156
+无类地址	wu lei di zhi	63
+无连接模式	wu lian jie mo shi	144
+线路编码	xian lu bian ma	101
+信道服务单元	xin dao fu wu dan yuan	25
+信息服务器	xin xi fu wu qi	43
+性能瓶颈	xing neng ping jing	104
+星型总线	xing xing zong xian	17
+虚链接	xu lian jie	88
+虚拟广域网	xu ni guang yu wang	4
+虚拟局域网	xu ni ju yu wang	5
+异步传递模式	yi bu chuan di mo shi	68
+异步路由选择	yi bu lu you xuan ze	117
+以太网	yi tai wang	19
+以太网交换机	yi tai wang jiao huan ji	87
+引导网关协议	yin dao wang guan xie yi	29
+引导协议	yin dao xie yi	30
+硬件地址	ying jian di zhi	95
+映射	ying she	132
+应用层	ying yong ceng	71
+应用程序编程接口	ying yong cheng xu bian cheng jie kou	70
+用户数据报协议	yong hu shu ju bao xie yi	34
+拥塞控制	yong se kong zhi	116
+有类地址	you lei di zhi	62
+域名控制器	yu ming kong zhi qi	52
+语音通信	yu yin tong xin	140
+载波	zai bo	102
+帐号	zhang hao	79
+帐号封锁	zhang hao feng suo	81
+帧中继	zhen zhong ji	120
+终端仿真软件	zhong duan fang zhen ruan jian	119
+子层	zi ceng	146
+字典式攻击	zi dian shi gong ji	53
+自适应速率等级调整	zi shi ying su lv deng ji tiao zheng	77
+子网掩码	zi wang yan ma	109
+自治系统	zi zhi xi tong	99
+综合布线	zong he bu xian	2
+最小信元速率	zui xiao xin yuan su lv	114

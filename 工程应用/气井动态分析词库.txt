@@ -1,0 +1,201 @@
+# 文件名：气井动态分析词库.scel
+# 词库名：气井动态分析词库
+# 词库分类：矿业勘探
+# 词库描述：
+# 词条样例：无水采气阶段 气水同产阶段 生产天数 油压 储层 生产井
+# 词条数量：194
+
+边水	bian shui	56
+变形	bian xing	143
+表层套管	biao ceng tao guan	145
+表皮系数	biao pi xi shu	42
+采出程度	cai chu cheng du	57
+采气曲线图	cai qi qu xian tu	52
+采气树	cai qi shu	91
+采气速度	cai qi su du	58
+采收率	cai shou lv	61
+材质	cai zhi	138
+操作	cao zuo	82
+产层	chan ceng	101
+超声波震荡	chao sheng bo zhen dang	7
+车载压缩机	che zai ya suo ji	164
+冲砂	chong sha	157
+储层	chu ceng	182
+储层垮塌	chu ceng kua ta	71
+储层水侵	chu ceng shui qin	46
+穿孔	chuan kong	136
+纯气	chun qi	113
+纯液	chun ye	114
+窜槽	cuan cao	32
+错断	cuo duan	33
+打捞落物	da lao luo wu	84
+带水	dai shui	150
+氮气气举	dan qi qi ju	165
+单位压降产气量	dan wei ya jiang chan qi liang	53
+单质硫	dan zhi liu	154
+地层	di ceng	179
+地层堵塞	di ceng du se	67
+地层流体	di ceng liu ti	80
+地层阻力	di ceng zu li	98
+递减阶段	di jian jie duan	173
+地面设备阻力	di mian she bei zu li	96
+底水	di shui	55
+地温级率	di wen ji lv	109
+低压生产阶段	di ya sheng chan jie duan	172
+地质储量	di zhi chu liang	63
+电化学	dian hua xue	132
+电缆桥塞	dian lan qiao sai	3
+电潜泵	dian qian beng	95
+断脱	duan tuo	135
+二项式	er xiang shi	60
+二氧化碳	er yang hua tan	76
+返排	fan pai	13
+返气	fan qi	124
+防塌措施	fang ta cuo shi	160
+分析	fen xi	5
+封隔器	feng ge qi	163
+高低压分输	gao di ya fen shu	93
+工艺措施生产阶段	gong yi cuo shi sheng chan jie duan	171
+垢堵	gou du	28
+固井	gu jing	73
+固井质量差	gu jing zhi liang cha	34
+管壁	guan bi	17
+管柱结构	guan zhu jie gou	167
+光滑度	guang hua du	16
+过流断面	guo liu duan mian	4
+含硫气藏	han liu qi cang	119
+化学解堵	hua xue jie du	26
+缓蚀剂	huan shi ji	120
+回压	hui ya	126
+技术	ji shu	83
+技术套管	ji shu tao guan	147
+降粘剂	jiang nian ji	21
+降压解堵	jiang ya jie du	22
+降阻改造	jiang zu gai zao	94
+井壁垮塌	jing bi kua ta	68
+井底出砂	jing di chu sha	85
+井底堵塞	jing di du se	70
+净化	jing hua	100
+净化阶段	jing hua jie duan	175
+井间干扰	jing jian gan rao	39
+井间互联气举	jing jian hu lian qi ju	89
+井屏障	jing ping zhang	78
+井筒积液	jing tong ji ye	129
+井筒完整性	jing tong wan zheng xing	139
+井筒阻力	jing tong zu li	97
+井下安全阀	jing xia an quan fa	90
+井下作业	jing xia zuo ye	111
+就近供气	jiu jin gong qi	92
+绝对无阻流量	jue dui wu zu liu liang	47
+可采储量	ke cai chu liang	62
+孔隙度	kong xi du	65
+控制产气量	kong zhi chan qi liang	45
+捞砂	lao sha	156
+临界携液流量	lin jie xie ye liu liang	152
+硫沉积	liu chen ji	153
+流动阻力	liu dong zu li	155
+硫化氢	liu hua qing	77
+漏失	lou shi	64
+露点	lu dian	116
+裸眼段	luo yan duan	69
+裸眼完井	luo yan wan jing	43
+磨损	mo sun	10
+耐腐蚀	nai fu shi	137
+泥浆液	ni jiang ye	104
+粘结	nian jie	15
+凝析水	ning xi shui	121
+排水采气	pai shui cai qi	159
+泡排	pao pai	170
+泡排剂	pao pai ji	169
+配产偏差率	pei chan pian cha lv	41
+配产气量	pei chan qi liang	40
+配伍性	pei wu xing	66
+气藏	qi cang	192
+气层中深	qi ceng zhong shen	117
+气井	qi jing	193
+气井产出物	qi jing chan chu wu	75
+气井动态分析	qi jing dong tai fen xi	194
+气举	qi ju	166
+气流	qi liu	102
+气水同产阶段	qi shui tong chan jie duan	190
+气田	qi tian	180
+铅印	qian yin	35
+氢脆	qing cui	130
+清防蜡剂	qing fang la ji	20
+区域地层水	qu yu di ceng shui	108
+日产气	ri chan qi	184
+日产水	ri chan shui	183
+日期	ri qi	189
+砂堵	sha du	27
+砂岩	sha yan	122
+筛管	shai guan	12
+渗流条件	shen liu tiao jian	99
+渗透性	shen tou xing	181
+生产过程	sheng chan guo cheng	107
+生产井	sheng chan jing	178
+生产时间	sheng chan shi jian	48
+生产数据	sheng chan shu ju	176
+生产天数	sheng chan tian shu	188
+生产压差	sheng chan ya cha	158
+输压	shu ya	50
+水合物	shui he wu	74
+水合物抑制剂	shui he wu yi zhi ji	19
+水力锚	shui li mao	37
+水力震荡	shui li zhen dang	8
+水淹关井	shui yan guan jing	18
+水淹停产	shui yan ting chan	128
+酸不溶物	suan bu rong wu	9
+酸化	suan hua	86
+酸性气体	suan xing qi ti	115
+缩径	suo jing	142
+碳酸盐岩	tan suan yan yan	123
+套管	tao guan	148
+套管补贴	tao guan bu tie	30
+套管头	tao guan tou	140
+套管外封隔器	tao guan wai feng ge qi	118
+套管整形	tao guan zheng xing	31
+套外水泥环	tao wai shui ni huan	38
+套压	tao ya	186
+套压监测	tao ya jian ce	6
+提产携液	ti chan xie ye	1
+通井刮削	tong jing gua xiao	24
+通井规	tong jing gui	162
+通径规	tong jing gui	36
+投产初期	tou chan chu qi	106
+外输压力	wai shu ya li	49
+万方	wan fang	177
+完钻井深	wan zuan jing shen	44
+位移	wei yi	133
+稳产阶段	wen chan jie duan	174
+污染物	wu ran wu	103
+无水采气阶段	wu shui cai qi jie duan	191
+洗井	xi jing	14
+下气举阀	xia qi ju fa	112
+橡胶密封件	xiang jiao mi feng jian	144
+泄露	xie lou	79
+携液	xie ye	151
+压井液	ya jing ye	105
+压力降	ya li jiang	161
+压力梯度	ya li ti du	127
+压裂	ya lie	87
+岩石胶结	yan shi jiao jie	72
+岩石力学性质	yan shi li xue xing zhi	29
+岩石应力	yan shi ying li	11
+应力开裂	ying li kai lie	131
+油管	you guan	149
+油管头	you guan tou	141
+有机解堵	you ji jie du	25
+油套环空	you tao huan kong	146
+油套压差	you tao ya cha	185
+有效携液	you xiao xie ye	2
+优选管柱	you xuan guan zhu	168
+油压	you ya	187
+原始地层压力	yuan shi di ceng ya li	110
+增压机	zeng ya ji	88
+震动	zhen dong	134
+指数式	zhi shu shi	59
+注气	zhu qi	125
+综合记录表	zong he ji lu biao	51
+组织管理	zu zhi guan li	81
+钻井液	zuan jing ye	54
+作业解堵	zuo ye jie du	23

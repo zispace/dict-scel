@@ -1,0 +1,52 @@
+# 文件名：油田.scel
+# 词库名：油田
+# 词库分类：环境能源
+# 词库描述：
+# 词条样例：热注运行工 注气 注气锅炉 龙门架 龙门架子 燃烧器
+# 词条数量：45
+
+磁力泵	ci li beng	15
+单流阀	dan liu fa	2
+电磁阀	dian ci fa	32
+电机	dian ji	20
+对流段	dui liu duan	10
+阀门	fa men	7
+风门	feng men	26
+风门连杆	feng men lian gan	25
+辐射段	fu she duan	9
+高压阀门	gao ya fa men	6
+给水调节阀	gei shui tiao jie fa	28
+供油泵	gong you beng	18
+鼓风机	gu feng ji	13
+过渡段	guo du duan	8
+回水阀	hui shui fa	27
+活动管线	huo dong guan xian	36
+截止阀	jie zhi fa	4
+空气压缩机	kong qi ya suo ji	11
+空压机	kong ya ji	12
+离心泵	li xin beng	14
+龙门架	long men jia	35
+龙门架子	long men jia zi	34
+皮带	pi dai	21
+气驱	qi qu	41
+气驱井	qi qu jing	39
+潜水泵	qian shui beng	16
+燃烧器	ran shao qi	33
+热注	re zhu	45
+热注运行工	re zhu yun xing gong	44
+调火电磁阀	tiao huo dian ci fa	29
+吞吐	tun tu	40
+吞吐井	tun tu jing	38
+卸油泵	xie you beng	19
+盐水泵	yan shui beng	17
+引燃电磁阀	yin ran dian ci fa	31
+闸板阀	zha ban fa	3
+针芯阀	zhen xin fa	5
+止回阀	zhi hui fa	1
+注气	zhu qi	43
+注气管线	zhu qi guan xian	37
+注气锅炉	zhu qi guo lu	42
+主燃电磁阀	zhu ran dian ci fa	30
+柱塞	zhu sai	23
+柱塞泵	zhu sai beng	24
+柱塞杆	zhu sai gan	22

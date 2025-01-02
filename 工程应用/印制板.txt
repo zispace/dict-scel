@@ -1,0 +1,138 @@
+# 文件名：印制板.scel
+# 词库名：印制板
+# 词库分类：电子工程
+# 词库描述：
+# 词条样例：预审 计划投料 烘板 层压 压合 锣板
+# 词条数量：131
+
+板电	ban dian	99
+半固化片	ban gu hua pian	23
+板面电镀	ban mian dian du	98
+补料	bu liao	128
+补投	bu tou	125
+补线	bu xian	65
+槽刀	cao dao	112
+层偏	ceng pian	80
+层压	ceng ya	120
+沉金	chen jin	101
+沉铜	chen tong	100
+沉锡	chen xi	73
+沉银	chen yin	72
+成品仓	cheng pin cang	63
+成品清洗	cheng pin qing xi	50
+冲孔机	chong kong ji	43
+除油缸	chu you gang	55
+打开机	da kai ji	42
+打磨	da mo	17
+倒角	dao jiao	105
+导气孔	dao qi kong	41
+电测	dian ce	70
+调度	diao du	9
+叠层	die ceng	107
+订单中心	ding dan zhong xin	8
+镀厚金	du hou jin	1
+镀软金	du ruan jin	102
+镀水金	du shui jin	94
+镀锡	du xi	76
+镀锡不良	du xi bu liang	61
+镀硬金	du ying jin	103
+断刀	duan dao	40
+短路	duan lu	85
+对位	dui wei	48
+返冲	fan chong	20
+返洗	fan xi	19
+防焊	fang han	27
+菲林	fei lin	45
+飞针测试机	fei zhen ce shi ji	38
+覆铜板	fu tong ban	24
+干膜检查	gan mo jian cha	122
+干区	gan qu	29
+隔纸	ge zhi	106
+工艺	gong yi	14
+工艺工程师	gong yi gong cheng shi	13
+光绘	guang hui	46
+烘板	hong ban	124
+会议室	hui yi shi	4
+活化缸	huo hua gang	57
+计划投料	ji hua tou liao	127
+技术员	ji shu yuan	12
+夹边	jia bian	44
+夹具	jia ju	37
+碱性除油剂	jian xing chu you ji	53
+金手指	jin shou zhi	104
+聚油	ju you	89
+开口	kai kou	109
+开料	kai liao	126
+开料员	kai liao yuan	10
+开路	kai lu	86
+可焊性	ke han xing	67
+孔无铜	kong wu tong	58
+冷压	leng ya	110
+流胶	liu jiao	79
+流水号	liu shui hao	33
+锣板	luo ban	115
+铝片塞孔	lv pian sai kong	92
+冒油	mao you	88
+内层短路	nei ceng duan lu	83
+内层干膜	nei ceng gan mo	123
+内层开路	nei ceng kai lu	84
+内层蚀刻	nei ceng shi ke	121
+内短	nei duan	81
+内开	nei kai	82
+镍钯金	nie ba jin	71
+排版	pai ban	108
+喷印	pen yin	34
+偏位	pian wei	90
+切片	qie pian	66
+去毛刺	qu mao ci	49
+热压	re ya	111
+入库	ru ku	64
+塞孔	sai kong	91
+沙纸	sha zhi	16
+市场部	shi chang bu	7
+蚀刻不净	shi ke bu jing	60
+湿区	shi qu	28
+实验室	shi yan shi	15
+树脂塞孔	shu zhi sai kong	18
+水平沉铜	shui ping chen tong	2
+水平电镀	shui ping dian du	3
+酸性除油剂	suan xing chu you ji	54
+填胶	tian jiao	78
+填孔电镀	tian kong dian du	77
+贴膜	tie mo	47
+铜厚不足	tong hou bu zu	59
+投料	tou liao	130
+图镀铜镍金	tu du tong nie jin	95
+图形电镀	tu xing dian du	96
+外层干膜	wai ceng gan mo	97
+外协	wai xie	25
+微蚀	wei shi	52
+微蚀过度	wei shi guo du	51
+文字	wen zi	26
+物控	wu kong	11
+无铅喷锡	wu qian pen xi	75
+铣刀	xi dao	113
+铣金属化槽	xi jin shu hua cao	116
+纤维丝	xian wei si	22
+压合	ya he	119
+印蓝胶	yin lan jiao	32
+印油不良	yin you bu liang	21
+有铅喷锡	you qian pen xi	74
+预审	yu shen	131
+预投	yu tou	129
+中和缸	zhong he gang	56
+终检	zhong jian	62
+中性包装	zhong xing bao zhuang	31
+中性纸箱	zhong xing zhi xiang	30
+字符打印机	zi fu da yin ji	36
+字符喷印机	zi fu pen yin ji	35
+棕化	zong hua	118
+总经办	zong jing ban	5
+总经理	zong jing li	6
+阻焊	zu han	93
+阻焊起泡	zu han qi pao	87
+阻抗	zu kang	69
+阻抗测试	zu kang ce shi	68
+钻刀	zuan dao	114
+钻机	zuan ji	39
+钻孔	zuan kong	117

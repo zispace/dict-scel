@@ -1,0 +1,47 @@
+# 文件名：北大青鸟注释.scel
+# 词库名：北大青鸟注释
+# 词库分类：工业设计
+# 词库描述：
+# 词条样例：一层值班室烟感 一层电梯口烟感 一层厕所旁消报 一层大堂东手报 一层电梯口手报
+# 词条数量：40
+
+二层厕所旁消报	er ceng ce suo pang xiao bao	10
+二层大堂烟感	er ceng da tang yan gan	20
+二层大厅东排烟阀	er ceng da ting dong pai yan fa	5
+二层大厅东手报	er ceng da ting dong shou bao	14
+二层大厅东消报	er ceng da ting dong xiao bao	9
+二层大厅西排烟阀	er ceng da ting xi pai yan fa	6
+二层大厅西手报	er ceng da ting xi shou bao	16
+二层大厅西消报	er ceng da ting xi xiao bao	11
+二层大厅中手报	er ceng da ting zhong shou bao	15
+二层电梯口手报	er ceng dian ti kou shou bao	13
+二层电梯口烟感	er ceng dian ti kou yan gan	22
+二层警铃	er ceng jing ling	4
+二层门厅消报	er ceng men ting xiao bao	12
+二层门厅烟感	er ceng men ting yan gan	18
+二层强电间烟感	er ceng qiang dian jian yan gan	21
+二层强切	er ceng qiang qie	2
+二层弱电间烟感	er ceng ruo dian jian yan gan	23
+二层水流指示器	er ceng shui liu zhi shi qi	8
+二层新风机房烟感	er ceng xin feng ji fang yan gan	17
+二层新风室外烟感	er ceng xin feng shi wai yan gan	19
+二层信号碟阀	er ceng xin hao die fa	7
+二层烟感	er ceng yan gan	1
+一层厕所旁消报	yi ceng ce suo pang xiao bao	26
+一层大堂东手报	yi ceng da tang dong shou bao	30
+一层大堂烟感	yi ceng da tang yan gan	38
+一层大堂中部手报	yi ceng da tang zhong bu shou bao	31
+一层电梯口手报	yi ceng dian ti kou shou bao	29
+一层电梯口烟感	yi ceng dian ti kou yan gan	34
+一层警铃	yi ceng jing ling	3
+一层门厅旁手报	yi ceng men ting pang shou bao	32
+一层门厅消报	yi ceng men ting xiao bao	28
+一层门厅烟感	yi ceng men ting yan gan	39
+一层配电间旁消报	yi ceng pei dian jian pang xiao bao	27
+一层配电间烟感	yi ceng pei dian jian yan gan	37
+一层强电间烟感	yi ceng qiang dian jian yan gan	35
+一层弱电间烟感	yi ceng ruo dian jian yan gan	33
+一层水流指示器	yi ceng shui liu zhi shi qi	25
+一层信号碟阀	yi ceng xin hao die fa	24
+一层值班室烟感	yi ceng zhi ban shi yan gan	40
+一层走道烟感	yi ceng zou dao yan gan	36

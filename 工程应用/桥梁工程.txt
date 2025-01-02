@@ -1,0 +1,1739 @@
+# 文件名：桥梁工程.scel
+# 词库名：桥梁工程
+# 词库分类：交通运输物流
+# 词库描述：
+# 词条样例：结构控制剂 装配式预制混凝土环 安装预应力安装预应力 最优化 使最优化 单墩单墩
+# 词条数量：1732
+
+安全带	an quan dai	1393
+安全等级	an quan deng ji	1498
+安全度	an quan du	113
+安全防护系统安全防护系统	an quan fang hu xi tong an quan fang hu xi tong	172
+安全荷载系数	an quan he zai xi shu	1386
+安全净距	an quan jing ju	1255
+安全净空高度	an quan jing kong gao du	419
+安全气囊防护系统	an quan qi nang fang hu xi tong	170
+安全系数	an quan xi shu	1658
+安全载重	an quan zai zhong	174
+安全载重安全负荷	an quan zai zhong an quan fu he	173
+安装预应力安装预应力	an zhuang yu ying li an zhuang yu ying li	1725
+凹面	ao mian	678
+板单元板单元	ban dan yuan ban dan yuan	1598
+半反射器	ban fan she qi	288
+半径	ban jing	466
+板壳非线性力学	ban ke fei xian xing li xue	1581
+板壳力学	ban ke li xue	1582
+板梁	ban liang	75
+伴流横向力	ban liu heng xiang li	1203
+半水化热石膏	ban shui hua re shi gao	593
+半塑性状态	ban su xing zhuang tai	937
+板箱梁	ban xiang liang	917
+板振捣器	ban zhen dao qi	591
+板桩	ban zhuang	791
+板桩围堰	ban zhuang wei yan	151
+饱和	bao he	168
+饱和密度	bao he mi du	167
+被动土压力	bei dong tu ya li	1264
+被动土压力系数	bei dong tu ya li xi shu	1263
+倍精度浮点宏指令	bei jing du fu dian hong zhi ling	55
+背立面图	bei li mian tu	848
+本构模型本构模型	ben gou mo xing ben gou mo xing	1580
+本构模型屈服面	ben gou mo xing qu fu mian	1578
+比徐变	bi xu bian	1339
+边界条件	bian jie tiao jian	1074
+边坡	bian po	1367
+变坡点反弯点裂点	bian po dian fan wan dian lie dian	906
+扁千斤顶	bian qian jin ding	89
+便桥	bian qiao	869
+变位	bian wei	416
+变形	bian xing	744
+变形后未变形的形状	bian xing hou wei bian xing de xing zhuang	15
+变形力	bian xing li	742
+变形验算	bian xing yan suan	1145
+边缘概率分布	bian yuan gai lv fen bu	1174
+边中跨径边中跨径	bian zhong kua jing bian zhong kua jing	1719
+标定	biao ding	497
+表结构形式	biao jie gou xing shi	1531
+标准高程高程控制点	biao zhun gao cheng gao cheng kong zhi dian	706
+标准公路等级代码	biao zhun gong lu deng ji dai ma	1482
+标准值	biao zhun zhi	1657
+标准重力加速度	biao zhun zhong li jia su du	1197
+冰河床	bing he chuang	1455
+冰塔	bing ta	887
+冰推力冰压力冰壅	bing tui li bing ya li bing yong	1321
+冰压力	bing ya li	1323
+铂电阻温度计	bo dian zu wen du ji	232
+剥落混凝土	bo luo hun ning tu	134
+波数折减系数	bo shu zhe jian xi shu	1248
+泊松比	bo song bi	3
+泊松比测量仪	bo song bi ce liang yi	1
+泊松比修正	bo song bi xiu zheng	2
+波纹管涵	bo wen guan han	1404
+不定结构超静定结构	bu ding jie gou chao jing ding jie gou	1280
+不腐蚀的	bu fu shi de	548
+不均匀粒度骨料	bu jun yun li du gu liao	667
+不可避免	bu ke bi mian	567
+不可靠度	bu ke kao du	1650
+不耐久性	bu nai jiu xing	1515
+不依赖	bu yi lai	492
+不依赖的	bu yi lai de	491
+不依赖空气推进非大気依存推进	bu yi lai kong qi tui jin fei da qi yi cun tui jin	490
+菜单实用程序	cai dan shi yong cheng xu	71
+材料力学	cai liao li xue	1593
+参考点	can kao dian	287
+参考轴	can kao zhou	284
+残余应力	can yu ying li	935
+残余应力场	can yu ying li chang	934
+舱顶板	cang ding ban	352
+槽钢	cao gang	387
+侧腹板	ce fu ban	349
+测力法	ce li fa	1028
+测量学	ce liang xue	1013
+插值	cha zhi	1119
+插值表	cha zhi biao	1117
+插值法	cha zhi fa	1118
+颤振	chan zhen	428
+常微分方程	chang wei fen fang cheng	880
+常微分方程次数	chang wei fen fang cheng ci shu	878
+常微分方程组	chang wei fen fang cheng zu	879
+超高	chao gao	470
+超高的	chao gao de	468
+超高帧	chao gao zhen	469
+超静定	chao jing ding	1277
+超静定超静定的	chao jing ding chao jing ding de	1283
+超静定的	chao jing ding de	1284
+超静定结构	chao jing ding jie gou	1282
+超快硬水泥	chao kuai ying shui ni	267
+超障净空高度	chao zhang jing kong gao du	418
+车道	che dao	1435
+车道宽度车道宽度	che dao kuan du che dao kuan du	1423
+车顶板	che ding ban	353
+车队	che dui	1148
+车间净距	che jian jing ju	1254
+车辆荷载	che liang he zai	1220
+车辆荷载车辆载荷整车	che liang he zai che liang zai he zheng che	1218
+车流量	che liu liang	457
+沉船漂浮物	chen chuan piao fu wu	1408
+沉淀	chen dian	608
+沉管灌注桩	chen guan guan zhu zhuang	789
+沉降	chen jiang	831
+沉降缝	chen jiang feng	830
+沉降灰	chen jiang hui	829
+沉井基础	chen jing ji chu	1052
+沉井基础工事井筒工法	chen jing ji chu gong shi jing tong gong fa	1050
+沉箱基础	chen xiang ji chu	796
+承保电机工程局	cheng bao dian ji gong cheng ju	1053
+城堡主塔	cheng bao zhu ta	876
+成反比例	cheng fan bi li	461
+城市道路网	cheng shi dao lu wang	190
+城市电网网架结构	cheng shi dian wang wang jia jie gou	896
+撑式桥台墙	cheng shi qiao tai qiang	827
+承台	cheng tai	1681
+承台结构承台结构	cheng tai jie gou cheng tai jie gou	786
+承压板	cheng ya ban	438
+承压承压	cheng ya cheng ya	440
+承压缝	cheng ya feng	439
+承重构件支承构件	cheng zhong gou jian zhi cheng gou jian	294
+承重支承构件	cheng zhong zhi cheng gou jian	295
+持久状况持久状况	chi jiu zhuang kuang chi jiu zhuang kuang	1513
+重叠	chong die	617
+冲击力	chong ji li	1332
+冲击韧性	chong ji ren xing	922
+冲击韧性值	chong ji ren xing zhi	920
+重建	chong jian	272
+重现期	chong xian qi	224
+初步尺寸	chu bu chi cun	476
+初步设计	chu bu she ji	1541
+初颤振	chu chan zhen	427
+初始屈服面	chu shi qu fu mian	769
+初始水化热	chu shi shui hua re	594
+初始应力	chu shi ying li	929
+初始应力场	chu shi ying li chang	928
+初始应力固有应力	chu shi ying li gu you ying li	927
+船舶结构力学	chuan bo jie gou li xue	1590
+船体中性面	chuan ti zhong xing mian	658
+创建三角形单元	chuang jian san jiao xing dan yuan	1121
+锤击贯入仪	chui ji guan ru yi	602
+垂直	chui zhi	1201
+纯剪切破坏	chun jian qie po huai	1350
+次最优化	ci zui you hua	1722
+簇变形	cu bian xing	743
+促水化作用	cu shui hua zuo yong	597
+脆性	cui xing	580
+脆性材料	cui xing cai liao	579
+脆性材料抗拉强度测试仪	cui xing cai liao kang la qiang du ce shi yi	578
+脆性破坏	cui xing po huai	577
+脆性破坏脆性断裂	cui xing po huai cui xing duan lie	576
+存储数据库	cun chu shu ju ku	70
+大地测量学	da di ce liang xue	1011
+大地测量学的	da di ce liang xue de	722
+大跨度大跨度	da kua du da kua du	891
+大跨度低音	da kua du di yin	889
+大跨度温室	da kua du wen shi	890
+大理石	da li shi	99
+大理石殿	da li shi dian	98
+大卵石	da luan shi	778
+大挠度	da nao du	1085
+大型泥石流	da xing ni shi liu	843
+代表值	dai biao zhi	1312
+代用锚石锚	dai yong mao shi mao	187
+单道岔	dan dao cha	994
+单调的	dan diao de	691
+单墩单墩	dan dun dan dun	1715
+单墩尾水管	dan dun wei shui guan	1714
+单墩肘形尾水管	dan dun zhou xing wei shui guan	1713
+单排板桩围堰	dan pai ban zhuang wei yan	149
+单一粒度骨料	dan yi li du gu liao	668
+单元	dan yuan	1133
+单元刚度矩阵	dan yuan gang du ju zhen	1076
+单元格	dan yuan ge	1132
+单元应变矩阵	dan yuan ying bian ju zhen	1114
+挡土墙	dang tu qiang	1268
+道岔	dao cha	996
+道岔锁	dao cha suo	995
+导航	dao hang	1348
+道路分隔栏道路分隔栏	dao lu fen ge lan dao lu fen ge lan	197
+道路工程	dao lu gong cheng	1010
+道路工程闪灯道路工程闪灯	dao lu gong cheng shan deng dao lu gong cheng shan deng	195
+道路工程师	dao lu gong cheng shi	1008
+道路工程学	dao lu gong cheng xue	1009
+道路基层	dao lu ji ceng	203
+道路交界处道路交界处	dao lu jiao jie chu dao lu jiao jie chu	194
+道路面层	dao lu mian ceng	293
+道路桥道路桥	dao lu qiao dao lu qiao	202
+道路容车量	dao lu rong che liang	199
+道路网	dao lu wang	192
+道路中央分隔栏	dao lu zhong yang fen ge lan	196
+等参单元等参数单元等参元	deng can dan yuan deng can shu dan yuan deng can yuan	1599
+等高线	deng gao xian	693
+等截面粱	deng jie mian liang	1695
+等效负载等效荷载等值负载	deng xiao fu zai deng xiao he zai deng zhi fu zai	1667
+等效荷载	deng xiao he zai	1669
+等效荷载原理	deng xiao he zai yuan li	1668
+等效节点力	deng xiao jie dian li	1097
+等效均布荷载	deng xiao jun bu he zai	1231
+等效应力综合应力	deng xiao ying li zong he ying li	17
+等压线	deng ya xian	93
+等压线的	deng ya xian de	91
+等压线图	deng ya xian tu	92
+底板	di ban	348
+地层	di ceng	334
+地磁水平分力	di ci shui ping fen li	1188
+低地乡郊地区	di di xiang jiao di qu	176
+底摩擦系数	di mo ca xi shu	1335
+低水位	di shui wei	473
+地形图	di xing tu	238
+地域	di yu	720
+地域圏	di yu juan	718
+地域论	di yu lun	719
+地震	di zhen	1529
+地震活动	di zhen huo dong	1528
+地震活动图	di zhen huo dong tu	1526
+地震活动性	di zhen huo dong xing	1527
+地震系数	di zhen xi shu	157
+地震系数法	di zhen xi shu fa	156
+地震仪	di zhen yi	154
+地震作用标准值	di zhen zuo yong biao zhun zhi	1500
+地质学	di zhi xue	970
+地质学家	di zhi xue jia	969
+低桩承台	di zhuang cheng tai	1679
+低桩承台基础	di zhuang cheng tai ji chu	785
+底座	di zuo	1202
+底座横隔板	di zuo heng ge ban	344
+电磁龙门吊	dian ci long men diao	832
+电动力作用	dian dong li zuo yong	483
+点焊接	dian han jie	395
+电破坏强度	dian po huai qiang du	883
+电刷位移角	dian shua wei yi jiao	1242
+电阻温度计	dian zu wen du ji	233
+吊桁架	diao heng jia	903
+吊机起重塔	diao ji qi zhong ta	86
+吊机塔中柱主塔	diao ji ta zhong zhu zhu ta	875
+吊桥	diao qiao	415
+吊装	diao zhuang	1272
+顶板	ding ban	354
+顶峰	ding feng	690
+定量分析	ding liang fen xi	258
+顶推驳运法	ding tui bo yun fa	369
+顶推法顶推法	ding tui fa ding tui fa	370
+动刚度比	dong gang du bi	1697
+动剪切模量	dong jian qie mo liang	1356
+动剪切强度	dong jian qie qiang du	1353
+动力系数	dong li xi shu	1294
+动力学	dong li xue	1291
+动力作用光动力作用	dong li zuo yong guang dong li zuo yong	485
+冻融周期	dong rong zhou qi	639
+动态的	dong tai de	502
+动态应力应变关系	dong tai ying li ying bian guan xi	312
+独塔斜拉桥独塔斜拉桥	du ta xie la qiao du ta xie la qiao	1167
+镀锌钢绞线	du xin gang jiao xian	340
+端部承载的工字钢桩	duan bu cheng zai de gong zi gang zhuang	124
+短加劲肋	duan jia jin lei	1568
+断裂	duan lie	530
+断裂力学	duan lie li xue	982
+端头拼接板	duan tou pin jie ban	1707
+短暂状况短暂状况	duan zan zhuang kuang duan zan zhuang kuang	1512
+对称的	dui chen de	630
+墩顶龙骨墩顶木	dun ding long gu dun ding mu	836
+墩盖梁	dun gai liang	378
+墩帽	dun mao	380
+墩身	dun shen	381
+墩台墩台	dun tai dun tai	1360
+墩台石	dun tai shi	1359
+多边图非常多艺术设计多边图	duo bian tu fei chang duo yi shu she ji duo bian tu	27
+多边形	duo bian xing	29
+多边形多角形多面棱体	duo bian xing duo jiao xing duo mian leng ti	28
+多层	duo ceng	509
+多层的	duo ceng de	507
+多层式	duo ceng shi	508
+多车道道路	duo che dao dao lu	1214
+多孔道路面层	duo kong dao lu mian ceng	291
+多孔梁多孔箱形梁	duo kong liang duo kong xiang xing liang	1384
+多跨连续梁	duo kua lian xu liang	1559
+多用途	duo yong tu	666
+多用途船	duo yong tu chuan	665
+多用途房	duo yong tu fang	664
+多柱式	duo zhu shi	852
+多柱式建筑	duo zhu shi jian zhu	851
+多柱式液压计	duo zhu shi ye ya ji	850
+二级公路	er ji gong lu	1460
+筏式地基筏式地基	fa shi di ji fa shi di ji	257
+法向集中荷载	fa xiang ji zhong he zai	1227
+反比例	fan bi li	462
+反比例量	fan bi li liang	460
+反对称	fan dui chen	629
+反对称化	fan dui chen hua	627
+反对称态	fan dui chen tai	628
+反共振频率	fan gong zhen pin lv	229
+反力影响线	fan li ying xiang xian	1225
+反铺设	fan pu she	80
+反射波	fan she bo	253
+反射波场	fan she bo chang	252
+反射波至	fan she bo zhi	251
+反射器	fan she qi	290
+反弯点	fan wan dian	908
+范围领域球球体	fan wei ling yu qiu qiu ti	32
+翻新	fan xin	236
+反有限元分析	fan you xian yuan fen xi	1634
+放射性	fang she xing	269
+防水	fang shui	1363
+方向余弦	fang xiang yu xian	1080
+非均布应力	fei jun bu ying li	1234
+非平衡条件	fei ping heng tiao jian	1039
+非系统误差	fei xi tong wu cha	116
+非线性	fei xian xing	1623
+非线性随机振动	fei xian xing sui ji zhen dong	1620
+非线性振动	fei xian xing zhen dong	1622
+非线性振动理论	fei xian xing zhen dong li lun	1621
+分包工程合约分包工程合约	fen bao gong cheng he yue fen bao gong cheng he yue	299
+分层道路交界处	fen ceng dao lu jiao jie chu	193
+分段合拢	fen duan he long	355
+分解几何矩阵	fen jie ji he ju zhen	760
+分析解解析解	fen xi jie jie xi jie	1033
+分项系数分项系数	fen xiang xi shu fen xiang xi shu	1489
+风的横向移动	feng de heng xiang yi dong	84
+风洞试验	feng dong shi yan	656
+风洞试验室	feng dong shi yan shi	655
+风荷载	feng he zai	1328
+风荷载标准值	feng he zai biao zhun zhi	1327
+风荷载体型系数	feng he zai ti xing xi shu	1326
+风阻力系数	feng zu li xi shu	1195
+腹板	fu ban	351
+复合应力	fu he ying li	932
+复合应力蠕变	fu he ying li ru bian	931
+复合应力试验	fu he ying li shi yan	930
+浮桥	fu qiao	871
+辐射矩阵	fu she ju zhen	12
+辐射密度矩阵	fu she mi du ju zhen	11
+浮式沉井基础	fu shi chen jing ji chu	1051
+腐蚀的	fu shi de	550
+附属品	fu shu pin	692
+附属设备	fu shu she bei	1275
+附属设备市场	fu shu she bei shi chang	1274
+负温度梯度	fu wen du ti du	1296
+辅泄水管	fu xie shui guan	818
+氟致冷剂	fu zhi leng ji	249
+辅助道路网	fu zhu dao lu wang	191
+辅助设备	fu zhu she bei	297
+盖梁	gai liang	379
+概率断裂力学	gai lv duan lie li xue	980
+概率分布	gai lv fen bu	1176
+杆系	gan xi	735
+杆系参数	gan xi can shu	733
+杆系结构	gan xi jie gou	734
+钢材	gang cai	1287
+钢材强度标准值	gang cai qiang du biao zhun zhi	1251
+刚度	gang du	1140
+刚度比	gang du bi	1698
+刚度比劲度比	gang du bi jin du bi	1696
+刚度矩阵	gang du ju zhen	1106
+刚度系数	gang du xi shu	1139
+刚构刚性构架	gang gou gang xing gou jia	215
+刚构桥	gang gou qiao	1701
+钢管	gang guan	127
+钢管混凝土结构	gang guan hun ning tu jie gou	1586
+钢管空间构架	gang guan kong jian gou jia	140
+钢桁架桥	gang heng jia qiao	901
+刚架	gang jia	435
+刚架梁	gang jia liang	434
+钢绞线	gang jiao xian	123
+钢绞线芯	gang jiao xian xin	122
+钢结构	gang jie gou	1302
+钢结构设计	gang jie gou she ji	1301
+钢结构设计规范	gang jie gou she ji gui fan	1300
+钢筋	gang jin	570
+钢筋定位物钢筋定位物	gang jin ding wei wu gang jin ding wei wu	138
+钢筋混凝土的主钢筋	gang jin hun ning tu de zhu gang jin	1576
+钢筋混凝土封盖钢筋混凝土封盖	gang jin hun ning tu feng gai gang jin hun ning tu feng gai	247
+钢筋混凝土结构	gang jin hun ning tu jie gou	777
+钢筋剪切机	gang jin jian qie ji	152
+钢筋锚具	gang jin mao ju	555
+钢筋强度标准值	gang jin qiang du biao zhun zhi	1252
+钢筋条	gang jin tiao	569
+刚强度	gang qiang du	1675
+钢桥	gang qiao	863
+钢桥索	gang qiao suo	862
+钢丝绳	gang si sheng	121
+钢围堰	gang wei yan	959
+钢斜拉桥	gang xie la qiao	429
+刚性构架	gang xing gou jia	216
+刚性接缝刚性接缝	gang xing jie feng gang xing jie feng	213
+刚性系数	gang xing xi shu	212
+刚性系数模数	gang xing xi shu mo shu	210
+高程	gao cheng	708
+高程导线	gao cheng dao xian	705
+高程控制点	gao cheng kong zhi dian	707
+高程中误差	gao cheng zhong wu cha	702
+高茨玛特大桥	gao ci ma te da qiao	1374
+高等钢筋混凝土结构	gao deng gang jin hun ning tu jie gou	775
+高等工程力学	gao deng gong cheng li xue	962
+高等结构动力学	gao deng jie gou dong li xue	1015
+高等土力学	gao deng tu li xue	811
+高等岩石力学	gao deng yan shi li xue	808
+高地乡郊地区	gao di xiang jiao di qu	175
+高墩	gao dun	840
+高和易性	gao he yi xing	642
+高级公路	gao ji gong lu	1450
+高级快硬水泥	gao ji kuai ying shui ni	266
+高架桥	gao jia qiao	1449
+高架桥高架桥	gao jia qiao gao jia qiao	1448
+高架桥面	gao jia qiao mian	1447
+高架桥桥墩高架桥桥墩	gao jia qiao qiao dun gao jia qiao qiao dun	1467
+高可靠度	gao ke kao du	1649
+高跨比矢跨比	gao kua bi shi kua bi	913
+高水位	gao shui wei	474
+高桩承台	gao zhuang cheng tai	793
+高自由度	gao zi you du	18
+高最大应力	gao zui da ying li	103
+隔板横隔墙	ge ban heng ge qiang	343
+格里菲斯脆性破坏准则	ge li fei si cui xing po huai zhun ze	575
+割线刚度矩阵	ge xian gang du ju zhen	1105
+更新	geng xin	237
+共参考点	gong can kao dian	286
+工厂总体设计图	gong chang zong ti she ji tu	1542
+工程机械	gong cheng ji xie	958
+工程机械厂	gong cheng ji xie chang	957
+工程机械图	gong cheng ji xie tu	956
+工程建设	gong cheng jian she	741
+工程建设标准	gong cheng jian she biao zhun	740
+工程建筑工程建筑	gong cheng jian zhu gong cheng jian zhu	725
+工程建筑物	gong cheng jian zhu wu	724
+工程局工程局	gong cheng ju gong cheng ju	1055
+工程力学	gong cheng li xue	964
+工程力学类	gong cheng li xue lei	963
+拱顶	gong ding	406
+拱顶石	gong ding shi	405
+拱端托拱墩拱脚起拱点	gong duan tuo gong dun gong jiao qi gong dian	410
+拱腹	gong fu	1173
+拱腹线	gong fu xian	1172
+公共工程局	gong gong gong cheng ju	1054
+拱涵	gong han	1403
+拱脚	gong jiao	950
+拱铰拱脚铰	gong jiao gong jiao jiao	1170
+拱脚铰	gong jiao jiao	949
+公路车辆荷载标准	gong lu che liang he zai biao zhun	1219
+公路等级公路等级	gong lu deng ji gong lu deng ji	1483
+公路桥涵公路施工手册桥涵	gong lu qiao han gong lu shi gong shou ce qiao han	1523
+拱桥	gong qiao	1678
+公式	gong shi	506
+拱矢拱的高跨比	gong shi gong de gao kua bi	912
+汞压力计	gong ya li ji	95
+公寓	gong yu	679
+共振频率	gong zhen pin lv	230
+共振频率计	gong zhen pin lv ji	228
+工字钢桩工字钢桩	gong zi gang zhuang gong zi gang zhuang	126
+工作机理	gong zuo ji li	784
+工作扭转角	gong zuo niu zhuan jiao	620
+工作平面	gong zuo ping mian	64
+骨板骨单元	gu ban gu dan yuan	1596
+骨测量学	gu ce liang xue	1012
+固定	gu ding	373
+固定的	gu ding de	371
+固定夹	gu ding jia	372
+固定简支梁	gu ding jian zhi liang	1042
+古河槽	gu he cao	1475
+箍筋	gu jin	1673
+箍筋柱	gu jin zhu	1672
+骨料	gu liao	673
+骨料分级骨料级配	gu liao fen ji gu liao ji pei	670
+骨料级配	gu liao ji pei	672
+骨料粒度骨料粒度	gu liao li du gu liao li du	669
+谷式应力图	gu shi ying li tu	1643
+古水文学	gu shui wen xue	1553
+固体力学	gu ti li xue	758
+固体力学基础	gu ti li xue ji chu	756
+古栈道	gu zhan dao	453
+管道	guan dao	1377
+官方认可标准	guan fang ren ke biao zhun	277
+管涵	guan han	1406
+管摩擦系数	guan mo ca xi shu	1334
+贯入仪	guan ru yi	604
+惯性矩	guan xing ju	517
+管支座	guan zhi zuo	1315
+灌注混凝土基础灌注混凝土基础	guan zhu hun ning tu ji chu guan zhu hun ning tu ji chu	787
+灌注桩	guan zhu zhuang	790
+管状沉箱基础	guan zhuang chen xiang ji chu	795
+管子推顶法	guan zi tui ding fa	368
+光参考点	guang can kao dian	285
+光反射器	guang fan she qi	289
+光强度	guang qiang du	1674
+广义节点力	guang yi jie dian li	1096
+轨道	gui dao	1001
+轨道车	gui dao che	1000
+规范	gui fan	1177
+锅炉附属设备	guo lu fu shu she bei	1273
+锅炉钢结构设计	guo lu gang jie gou she ji	1299
+过应变时效	guo ying bian shi xiao	1239
+海峡	hai xia	393
+海峡船	hai xia chuan	392
+海洋结构动力学	hai yang jie gou dong li xue	1014
+涵洞	han dong	1459
+焊接	han jie	397
+焊接工	han jie gong	396
+焊接技术	han jie ji shu	985
+焊接技术展	han jie ji shu zhan	984
+焊接收缩量	han jie shou suo liang	146
+含水量	han shui liang	571
+夯实回填土	hang shi hui tian tu	607
+航线徐变	hang xian xu bian	1338
+河岸	he an	1473
+河岸林	he an lin	1472
+河岸侵蚀	he an qin shi	1470
+河岸侵蚀堤岸冲刷	he an qin shi di an chong shua	1468
+河岸侵蚀河岸侵食	he an qin shi he an qin shi	1469
+河岸权	he an quan	1471
+合板梁	he ban liang	74
+河槽	he cao	1476
+河槽线	he cao xian	1474
+合成地震系数	he cheng di zhen xi shu	155
+合成橡胶垫圈	he cheng xiang jiao dian quan	179
+河床	he chuang	1456
+河床桥墩河墩	he chuang qiao dun he dun	205
+河道	he dao	333
+河道导流墙河道导流墙	he dao dao liu qiang he dao dao liu qiang	204
+核地质学	he di zhi xue	968
+河墩	he dun	206
+合金钢筋条	he jin gang jin tiao	245
+合金结构钢	he jin jie gou gang	303
+合力	he li	227
+合拢	he long	357
+合拢器	he long qi	356
+河滩	he tan	1453
+河滩地	he tan di	1452
+河滩区	he tan qu	1451
+和易性	he yi xing	643
+和易性恢复	he yi xing hui fu	641
+荷载	he zai	1390
+荷载谱桥梁荷载谱	he zai pu qiao liang he zai pu	919
+荷载强度	he zai qiang du	1389
+荷载设计值	he zai she ji zhi	1652
+荷载系数	he zai xi shu	1388
+荷载系数法	he zai xi shu fa	1387
+荷载支承结构荷载支承结构	he zai zhi cheng jie gou he zai zhi cheng jie gou	1385
+荷重挠度曲线	he zhong nao du qu xian	536
+横隔板	heng ge ban	345
+桁架	heng jia	905
+桁架桥	heng jia qiao	904
+横梁	heng liang	447
+横坡	heng po	1380
+横向剪切模量	heng xiang jian qie mo liang	1355
+横向力	heng xiang li	1205
+横向水平分力	heng xiang shui ping fen li	1189
+横向限动块横向限动块	heng xiang xian dong kuai heng xiang xian dong kuai	82
+横向移动	heng xiang yi dong	85
+横向移动探针	heng xiang yi dong tan zhen	83
+恒载	heng zai	1183
+恒载试验	heng zai shi yan	1181
+宏宏观巨大的宏指令	hong hong guan ju da de hong zhi ling	57
+宏巨	hong ju	58
+洪水重现期	hong shui chong xian qi	223
+洪水流量	hong shui liu liang	1446
+洪水流量预报	hong shui liu liang yu bao	1445
+后处理器后处理器	hou chu li qi hou chu li qi	1063
+后继屈服面	hou ji qu fu mian	768
+后置处理器	hou zhi chu li qi	1061
+护坡	hu po	221
+护坡工程护坡工程	hu po gong cheng hu po gong cheng	220
+护坡工程山腹工	hu po gong cheng shan fu gong	218
+互作用效应	hu zuo yong xiao ying	1492
+滑动力	hua dong li	145
+滑动力的抗力	hua dong li de kang li	144
+划分网格	hua fen wang ge	9
+滑跑动力控制组件	hua pao dong li kong zhi zu jian	143
+滑坡泥石流	hua po ni shi liu	842
+画图重新画图	hua tu chong xin hua tu	65
+恢复数据库	hui fu shu ju ku	69
+回弹	hui tan	529
+回弹性	hui tan xing	528
+回弹仪	hui tan yi	527
+回填土夯实	hui tian tu hang shi	605
+绘制剪力和弯矩图的图解法	hui zhi jian li he wan ju tu de tu jie fa	1606
+回转半径	hui zhuan ban jing	513
+混合骨料级配	hun he gu liao ji pei	671
+混合料	hun he liao	1165
+混凝土板	hun ning tu ban	562
+混凝土板桩	hun ning tu ban zhuang	561
+混凝土剥落	hun ning tu bo luo	136
+混凝土剥落修葺工程	hun ning tu bo luo xiu qi gong cheng	135
+混凝土厂房混凝土厂房	hun ning tu chang fang hun ning tu chang fang	271
+混凝土混合料离析	hun ning tu hun he liao li xi	609
+混凝土离析	hun ning tu li xi	610
+火车轮渡	huo che lun du	864
+火车站	huo che zhan	265
+活动便桥	huo dong bian qiao	868
+火山灰	huo shan hui	653
+火山灰水泥	huo shan hui shui ni	652
+活载活载	huo zai huo zai	1180
+基本风速基本风速	ji ben feng su ji ben feng su	1200
+基本建设项目施工图设计	ji ben jian she xiang mu shi gong tu she ji	1535
+基本自振周期	ji ben zi zhen zhou qi	358
+基础	ji chu	1533
+基础的	ji chu de	1548
+基础工程	ji chu gong cheng	973
+基础工程学	ji chu gong cheng xue	972
+基础下部结构	ji chu xia bu jie gou	975
+基础自振频率	ji chu zi zhen pin lv	362
+极大值原理最大值原理	ji da zhi yuan li zui da zhi yuan li	1424
+极惯性矩	ji guan xing ju	516
+几何矩阵	ji he ju zhen	761
+几何描述矩阵	ji he miao shu ju zhen	759
+几何特征	ji he te zheng	1648
+集料	ji liao	1166
+机身应力图	ji shen ying li tu	1642
+技术标准	ji shu biao zhun	1566
+技术设计	ji shu she ji	1540
+技术设计图	ji shu she ji tu	1538
+技术设计员	ji shu she ji yuan	1539
+计算机辅助教育	ji suan ji fu zhu jiao yu	6
+计算机圆锥体	ji suan ji yuan zhui ti	37
+计算跨径计算跨径	ji suan kua jing ji suan kua jing	1217
+计算图式	ji suan tu shi	881
+即无铰拱刚拱	ji wu jiao gong gang gong	1397
+即无铰拱固端拱	ji wu jiao gong gu duan gong	1396
+极限荷载	ji xian he zai	1585
+极限荷载设计	ji xian he zai she ji	1584
+极限抗拉强度	ji xian kang la qiang du	565
+极限抗拉强度极限拉力	ji xian kang la qiang du ji xian la li	564
+极限抗拉应力	ji xian kang la ying li	566
+极限状态	ji xian zhuang tai	1309
+极限状态设计	ji xian zhuang tai she ji	1308
+积有限元法	ji you xian yuan fa	1631
+集中荷载	ji zhong he zai	1229
+集总质量矩阵	ji zong zhi liang ju zhen	1101
+假参考轴	jia can kao zhou	283
+加固工程加固工程	jia gu gong cheng jia gu gong cheng	327
+加劲肋	jia jin lei	1569
+加劲梁	jia jin liang	1557
+加劲梁节点	jia jin liang jie dian	1556
+加劲悬索桥	jia jin xuan suo qiao	1690
+夹具	jia ju	715
+加速	jia su	115
+加载面	jia zai mian	1136
+假阻力系数	jia zu li xi shu	1194
+检查结果	jian cha jie guo	13
+间距	jian ju	137
+剪力	jian li	1612
+剪力钉	jian li ding	1610
+剪力和弯矩图	jian li he wan ju tu	1607
+剪力墙	jian li qiang	1611
+剪力墙结构	jian li qiang jie gou	1604
+剪力图	jian li tu	1608
+建模	jian mo	1058
+建模期	jian mo qi	1057
+建模系统建模造型修改工具栏	jian mo xi tong jian mo zao xing xiu gai gong ju lan	10
+剪切钢筋剪切钢筋	jian qie gang jin jian qie gang jin	153
+剪切模量	jian qie mo liang	1357
+剪切破坏	jian qie po huai	1351
+剪切强度	jian qie qiang du	1354
+减速	jian su	1436
+硷性的	jian xing de	662
+碱性的	jian xing de	663
+剪应变	jian ying bian	1084
+剪应变计	jian ying bian ji	338
+剪应变能	jian ying bian neng	1083
+剪应力	jian ying li	1082
+剪应力线	jian ying li xian	1081
+简支结构	jian zhi jie gou	915
+简支梁	jian zhi liang	1044
+简支梁桥	jian zhi liang qiao	1043
+建筑材料	jian zhu cai liao	1141
+搅拌器	jiao ban qi	342
+脚手架	jiao shou jia	165
+街道照明和有关设备	jie dao zhao ming he you guan she bei	331
+街道照明设备街道照明设备	jie dao zhao ming she bei jie dao zhao ming she bei	332
+节点	jie dian	1131
+节点板	jie dian ban	425
+节点板接头	jie dian ban jie tou	423
+节点板联结	jie dian ban lian jie	424
+节点荷载	jie dian he zai	1095
+节点力	jie dian li	1098
+结构安全度	jie gou an quan du	112
+结构动力学	jie gou dong li xue	1016
+结构分析	jie gou fen xi	310
+结构钢	jie gou gang	304
+结构钢构件	jie gou gang gou jian	302
+结构工程	jie gou gong cheng	301
+结构工程师	jie gou gong cheng shi	300
+结构加固工程	jie gou jia gu gong cheng	325
+结构控制	jie gou kong zhi	1731
+结构控制剂	jie gou kong zhi ji	1730
+结构力学	jie gou li xue	1592
+结构稳定性	jie gou wen ding xing	307
+结构稳定性标准	jie gou wen ding xing biao zhun	305
+结构稳定性分析	jie gou wen ding xing fen xi	306
+结构形式	jie gou xing shi	1532
+结构优化设计结构优化设计	jie gou you hua she ji jie gou you hua she ji	1712
+结构有限元结构有限元分析	jie gou you xian yuan jie gou you xian yuan fen xi	1135
+结构重要性系数结构重要性系数	jie gou zhong yao xing xi shu jie gou zhong yao xing xi shu	1484
+结构自重	jie gou zi zhong	1306
+结果摘要	jie guo zhai yao	14
+结合力	jie he li	588
+节理	jie li	806
+节理型裂缝节理型裂缝	jie li xing lie feng jie li xing lie feng	803
+接立柱	jie li zhu	1207
+截面回转半径	jie mian hui zhuan ban jing	511
+截面弯曲刚度	jie mian wan qu gang du	1588
+截视立面图	jie shi li mian tu	847
+解析解解析解	jie xi jie jie xi jie	1035
+解析解像	jie xi jie xiang	1034
+界限偏心距	jie xian pian xin ju	749
+紧急停车	jin ji ting che	1439
+紧急停车带	jin ji ting che dai	1438
+紧急停车阀	jin ji ting che fa	1437
+金砂子	jin sha zi	987
+劲性钢筋混凝土结构	jin xing gang jin hun ning tu jie gou	776
+禁止自行车通行	jin zhi zi xing che tong xing	1418
+静定	jing ding	1279
+静定刚架	jing ding gang jia	433
+静定结构	jing ding jie gou	1276
+静定梁	jing ding liang	1278
+净高	jing gao	1410
+静活载	jing huo zai	1179
+经济的	jing ji de	1365
+净距	jing ju	1256
+净空高度	jing kong gao du	420
+净跨距净孔距	jing kua ju jing kong ju	1215
+净跨距净跨距	jing kua ju jing kua ju	1216
+静水应力状态	jing shui ying li zhuang tai	1124
+静土压力	jing tu ya li	1269
+经纬仪	jing wei yi	716
+鸠拱桥	jiu gong qiao	1677
+局部剪切破坏	ju bu jian qie po huai	1349
+巨大长宏观表示宏观的大的	ju da chang hong guan biao shi hong guan de da de	56
+聚合物	ju he wu	660
+矩形	ju xing	1402
+矩形橡胶垫圈	ju xing xiang jiao dian quan	178
+矩阵位移法	ju zhen wei yi fa	1024
+决定于决定于	jue ding yu jue ding yu	601
+决定于施法的速度	jue ding yu shi fa de su du	599
+均布荷载	jun bu he zai	1232
+均布荷载均匀负荷	jun bu he zai jun yun fu he	1230
+均布应力	jun bu ying li	1235
+均布应力均布应力	jun bu ying li jun bu ying li	1233
+抗冲击韧性	kang chong ji ren xing	921
+抗风	kang feng	1551
+抗风锚	kang feng mao	1550
+抗风性	kang feng xing	1549
+抗腐蚀的	kang fu shi de	549
+抗剪力墙	kang jian li qiang	1605
+抗拉强度	kang la qiang du	1659
+抗力分项系数	kang li fen xiang xi shu	1487
+抗疲劳强度	kang pi lao qiang du	1068
+抗破坏强度	kang po huai qiang du	882
+抗压强度	kang ya qiang du	986
+抗压应力	kang ya ying li	1640
+抗震	kang zhen	1303
+可变光阑作用	ke bian guang lan zuo yong	1506
+可变集中荷载	ke bian ji zhong he zai	1228
+可变作用标准值	ke bian zuo yong biao zhun zhi	1507
+可变作用可变作用	ke bian zuo yong ke bian zuo yong	1508
+可靠度	ke kao du	1651
+可调气泡水准仪	ke tiao qi pao shui zhun yi	132
+柯西级数收敛条件	ke xi ji shu shou lian tiao jian	1129
+可行性研究	ke xing xing yan jiu	717
+空间大地测量学	kong jian da di ce liang xue	721
+空间构架	kong jian gou jia	142
+空间构架顶	kong jian gou jia ding	141
+空心板梁空心板梁	kong xin ban liang kong xin ban liang	1721
+空心桥墩	kong xin qiao dun	854
+控制	kong zhi	698
+控制裂缝钢筋	kong zhi lie feng gang jin	1628
+控制台	kong zhi tai	697
+库仑纳维尔强度准则	ku lun na wei er qiang du zhun ze	745
+跨度	kua du	1440
+跨越	kua yue	1704
+跨越点	kua yue dian	1702
+跨越杆	kua yue gan	1703
+块石护坡工程	kuai shi hu po gong cheng	219
+快行车道	kuai xing che dao	1464
+快硬水泥	kuai ying shui ni	268
+宽度	kuan du	1257
+宽立柱	kuan li zhu	1208
+宽缘工字钢桩	kuan yuan gong zi gang zhuang	125
+框架结构	kuang jia jie gou	1600
+框架式桥	kuang jia shi qiao	813
+扩大基础扩大基础	kuo da ji chu kuo da ji chu	802
+扩大客户基础	kuo da ke hu ji chu	800
+扩结构优化设计	kuo jie gou you hua she ji	1711
+扩散面积	kuo san mian ji	1213
+扩散器面积比	kuo san qi mian ji bi	1211
+扩展扩大基础	kuo zhan kuo da ji chu	801
+拉斐特大桥	la fei te da qiao	1375
+拉索	la suo	403
+栏杆	lan gan	1415
+缆索	lan suo	444
+类代表值	lei dai biao zhi	1311
+类似的	lei si de	520
+冷拔钢丝	leng ba gang si	383
+棱镜	leng jing	41
+棱柱棱镜三棱柱	leng zhu leng jing san leng zhu	40
+力法	li fa	1029
+力矩分配法	li ju fen pei fa	1023
+理论力学	li lun li xue	1022
+理论力学创新实验	li lun li xue chuang xin shi yan	1021
+理论力学与材料力学	li lun li xue yu cai liao li xue	1020
+立面图	li mian tu	849
+沥青	li qing	1361
+沥青配合比设计	li qing pei he bi she ji	645
+离散最大值原理	li san zui da zhi yuan li	1425
+砾石充填	li shi chong tian	583
+砾石充填层	li shi chong tian ceng	582
+砾石充填柱	li shi chong tian zhu	581
+立体地质剖面图	li ti di zhi pou mian tu	159
+立体剖面图立体剖面图	li ti pou mian tu li ti pou mian tu	160
+离析混凝土	li xi hun ning tu	611
+离心力	li xin li	1331
+立柱	li zhu	1209
+联合概率分布	lian he gai lv fen bu	1175
+联结构架刚性构架	lian jie gou jia gang xing gou jia	214
+连接伸缩缝	lian jie shen suo feng	824
+联结系	lian jie xi	942
+连续多跨多跨连续梁	lian xu duo kua duo kua lian xu liang	1709
+连续刚构桥	lian xu gang gou qiao	1699
+连续梁	lian xu liang	1560
+连续性	lian xu xing	394
+梁腹板	liang fu ban	350
+梁拱腹	liang gong fu	1171
+梁涵洞	liang han dong	1458
+两孔铁路桥	liang kong tie lu qiao	263
+梁强度测试器	liang qiang du ce shi qi	328
+裂缝	lie feng	1705
+裂缝控制裂缝控制	lie feng kong zhi lie feng kong zhi	1629
+裂缝宽度容许值裂缝宽度容许值	lie feng kuan du rong xu zhi lie feng kuan du rong xu zhi	1729
+烈焰沙漠区域	lie yan sha mo qu yu	19
+领域	ling yu	388
+硫化延缓剂	liu hua yan huan ji	632
+流量计	liu liang ji	35
+流水压力流水压力	liu shui ya li liu shui ya li	1325
+硫酸盐	liu suan yan	638
+流域几何特征	liu yu ji he te zheng	1646
+龙骨墩顶垫	long gu dun ding dian	835
+龙门吊龙门吊	long men diao long men diao	834
+楼面活载	lou mian huo zai	1178
+路灯	lu deng	823
+路堤	lu di	1210
+路拱横坡	lu gong heng po	1378
+路肩	lu jian	1433
+路缘带	lu yuan dai	1434
+路中央分隔栏紧急通道	lu zhong yang fen ge lan jin ji tong dao	100
+卵石	luan shi	780
+轮渡	lun du	866
+轮渡站	lun du zhan	865
+轮廓等高线周线电路概要	lun kuo deng gao xian zhou xian dian lu gai yao	16
+论证	lun zheng	489
+罗湖铁路桥	luo hu tie lu qiao	262
+螺栓轴力测试仪	luo shuan zhou li ce shi yi	1602
+埋式桥台	mai shi qiao tai	816
+埋置	mai zhi	546
+埋置的	mai zhi de	545
+埋置式桥台	mai zhi shi qiao tai	815
+埋置性	mai zhi xing	544
+铆钉	mao ding	783
+铆钉钢	mao ding gang	782
+铆钉机	mao ding ji	781
+锚定孔	mao ding kong	892
+锚固	mao gu	559
+锚固件	mao gu jian	557
+锚固力	mao gu li	558
+锚具	mao ju	556
+锚孔	mao kong	894
+锚头	mao tou	553
+锚头城	mao tou cheng	551
+锚头泡	mao tou pao	552
+锚至锚孔起锚完毕	mao zhi mao kong qi mao wan bi	893
+美观	mei guan	1366
+美国混凝土砌体协会	mei guo hun ning tu qi ti xie hui	542
+美国混凝土协会美国混凝土协会	mei guo hun ning tu xie hui mei guo hun ning tu xie hui	543
+美国商品混凝土协会	mei guo shang pin hun ning tu xie hui	541
+美国土木工程师协会	mei guo tu mu gong cheng shi xie hui	1152
+酶结构分析	mei jie gou fen xi	308
+美学	mei xue	503
+梦浮桥	meng fu qiao	870
+密度	mi du	1258
+面积使成比例	mian ji shi cheng bi li	521
+免疫增强剂	mian yi zeng qiang ji	243
+瞄前处理器	miao qian chu li qi	1065
+明雨水管	ming yu shui guan	255
+摩擦系数	mo ca xi shu	1336
+莫尔强度准则	mo er qiang du zhun ze	746
+模数	mo shu	585
+模型	mo xing	1666
+模板	mu ban	839
+木涵洞	mu han dong	1457
+木桁架桥	mu heng jia qiao	902
+木桥	mu qiao	947
+木桥市	mu qiao shi	945
+耐碱性的	nai jian xing de	661
+耐久性	nai jiu xing	1516
+耐久性试验	nai jiu xing shi yan	1514
+挠度	nao du	1087
+挠度计	nao du ji	1086
+挠度曲线	nao du qu xian	537
+内部超静定结构	nei bu chao jing ding jie gou	1281
+内力	nei li	1368
+内摩擦角	nei mo ca jiao	1290
+内排水系统	nei pai shui xi tong	821
+内压应力	nei ya ying li	1639
+泥石流	ni shi liu	844
+铌酸钡钠分子式为	ni suan bei na fen zi shi wei	898
+年糕	nian gao	5
+黏合力	nian he li	226
+粘结滑移	nian jie hua yi	772
+粘弹性力学	nian tan xing li xue	1018
+扭转	niu zhuan	626
+扭转负荷扭转载荷	niu zhuan fu he niu zhuan zai he	618
+扭转剪切强度	niu zhuan jian qie qiang du	1352
+扭转角	niu zhuan jiao	622
+扭转弯曲	niu zhuan wan qu	855
+扭转应力	niu zhuan ying li	625
+扭转载荷	niu zhuan zai he	619
+浓度增强剂	nong du zeng qiang ji	242
+耦合力	ou he li	225
+偶然同化作用	ou ran tong hua zuo yong	1504
+偶然状况偶然状况	ou ran zhuang kuang ou ran zhuang kuang	1511
+偶然作用偶然作用	ou ran zuo yong ou ran zuo yong	1505
+排架	pai jia	451
+排架座木	pai jia zuo mu	449
+排水	pai shui	1370
+排水设计重现期	pai shui she ji chong xian qi	222
+排水系统	pai shui xi tong	822
+抛石	pao shi	209
+抛石机	pao shi ji	207
+抛石体	pao shi ti	208
+配合比设计	pei he bi she ji	646
+配筋率	pei jin lv	1638
+配料	pei liao	615
+配位几何特征	pei wei ji he te zheng	1647
+喷沙打磨法喷沙打磨法	pen sha da mo fa pen sha da mo fa	169
+喷射混凝土	pen she hun ning tu	130
+喷射混凝土膜	pen she hun ning tu mo	129
+喷嘴扩散面积比	pen zui kuo san mian ji bi	1212
+膨胀系数	peng zhang xi shu	1186
+疲劳断裂力学	pi lao duan lie li xue	981
+疲劳强度	pi lao qiang du	1069
+疲劳强度计	pi lao qiang du ji	1067
+疲劳屈服极限	pi lao qu fu ji xian	924
+偏心距	pian xin ju	751
+偏心距增大系数	pian xin ju zeng da xi shu	872
+偏心距增大系数偏心距增大系数	pian xin ju zeng da xi shu pian xin ju zeng da xi shu	748
+偏心受压	pian xin shou ya	738
+偏心受压法	pian xin shou ya fa	737
+偏心受压构件	pian xin shou ya gou jian	736
+偏转角	pian zhuan jiao	1078
+漂浮物	piao fu wu	1409
+漂浮物浮标	piao fu wu fu biao	1407
+贫混合料	pin hun he liao	1164
+拼接板	pin jie ban	1708
+平底板	ping di ban	347
+平衡	ping heng	682
+平衡阀	ping heng fa	681
+平衡机	ping heng ji	680
+平衡条件	ping heng tiao jian	1041
+平截面假定	ping jie mian jia ding	1660
+平均年洪水流量	ping jun nian hong shui liu liang	1444
+平均配筋率	ping jun pei jin lv	1637
+平面图	ping mian tu	846
+平移缩放旋转	ping yi suo fang xuan zhuan	59
+坡度	po du	1371
+破坏极限状态	po huai ji xian zhuang tai	1307
+破坏强度	po huai qiang du	884
+破裂	po lie	589
+剖开立体图剖面图	pou kai li ti tu pou mian tu	158
+铺设	pu she	81
+汽车荷载载重汽车荷载	qi che he zai zai zhong qi che he zai	1333
+汽车制动力	qi che zhi dong li	1329
+汽缸圆筒圆柱体	qi gang yuan tong yuan zhu ti	45
+起拱点	qi gong dian	411
+旗津环岛海景观光自行车道	qi jin huan dao hai jing guan guang zi xing che dao	1421
+气泡水准仪	qi pao shui zhun yi	133
+起始应力矩阵	qi shi ying li ju zhen	1092
+气体动力系数	qi ti dong li xi shu	1292
+气压沉箱基础	qi ya chen xiang ji chu	794
+起重吊机起重吊机	qi zhong diao ji qi zhong diao ji	88
+起重塔吊机起重塔吊机塔	qi zhong ta diao ji qi zhong ta diao ji ta	87
+前处理	qian chu li	68
+前处理器前处理器	qian chu li qi qian chu li qi	1066
+前处理器预处理器	qian chu li qi yu chu li qi	1064
+千分尺	qian fen chi	534
+前回转半径	qian hui zhuan ban jing	512
+千斤顶	qian jin ding	90
+前视	qian shi	701
+前视红外	qian shi hong wai	699
+前视区	qian shi qu	700
+牵引力	qian yin li	467
+潜在的	qian zai de	504
+前张力	qian zhang li	23
+前兆群震前兆	qian zhao qun zhen qian zhao	119
+强度	qiang du	1676
+强度标准值强度标准值	qiang du biao zhun zhi qiang du biao zhun zhi	1253
+强度测试机	qiang du ce shi ji	329
+强度测试强度测试	qiang du ce shi qiang du ce shi	330
+强度折减系数	qiang du zhe jian xi shu	1249
+强度准则	qiang du zhun ze	747
+强横梁	qiang heng liang	446
+强化	qiang hua	764
+强化酒	qiang hua jiu	763
+强化物	qiang hua wu	762
+强力背材装货舷门闩活动艇盖梁	qiang li bei cai zhuang huo xian men shuan huo dong ting gai liang	377
+桥墩	qiao dun	1193
+桥梁	qiao liang	1595
+桥梁墩台	qiao liang dun tai	1358
+桥梁工程	qiao liang gong cheng	1694
+桥梁工程师	qiao liang gong cheng shi	1693
+桥梁工程施工技术咨询	qiao liang gong cheng shi gong ji shu zi xun	1545
+桥梁工程英语词汇	qiao liang gong cheng ying yu ci hui	1732
+桥梁净空高潮时桥梁净空高度	qiao liang jing kong gao chao shi qiao liang jing kong gao du	1466
+桥梁抗震桥梁抗震加固	qiao liang kang zhen qiao liang kang zhen jia gu	1552
+桥梁控制测量	qiao liang kong zhi ce liang	1547
+桥梁挠度曲线	qiao liang nao du qu xian	535
+桥梁上部结构	qiao liang shang bu jie gou	978
+桥梁施工控制综合程序系统	qiao liang shi gong kong zhi zong he cheng xu xi tong	726
+桥梁下部结构	qiao liang xia bu jie gou	974
+桥梁振动	qiao liang zhen dong	993
+桥梁自振频率测量	qiao liang zi zhen pin lv ce liang	361
+桥梁自振周期	qiao liang zi zhen zhou qi	359
+桥梁最佳施工指南	qiao liang zui jia shi gong zhi nan	1546
+桥门联结系	qiao men lian jie xi	940
+桥面	qiao mian	1362
+桥面横坡	qiao mian heng po	1379
+桥面系桥面系	qiao mian xi qiao mian xi	944
+桥面纵坡	qiao mian zong po	1381
+桥台	qiao tai	1534
+桥台墙	qiao tai qiang	828
+桥头堡	qiao tou bao	1373
+桥下部结构桥下部结构	qiao xia bu jie gou qiao xia bu jie gou	1416
+桥下净空	qiao xia jing kong	1417
+桥址	qiao zhi	955
+桥址断层活动性评定	qiao zhi duan ceng huo dong xing ping ding	952
+桥址水文观测	qiao zhi shui wen guan ce	954
+桥址稳定性评定	qiao zhi wen ding xing ping ding	953
+桥主梁	qiao zhu liang	1717
+切线	qie xian	714
+切线刚度矩阵	qie xian gang du ju zhen	1104
+切线角	qie xian jiao	713
+轻便栈道	qing bian zhan dao	452
+轻型桥台	qing xing qiao tai	814
+球体	qiu ti	30
+球体的	qiu ti de	33
+球体球球形	qiu ti qiu qiu xing	31
+求最小值	qiu zui xiao zhi	1429
+驱动刚度系数	qu dong gang du xi shu	1138
+屈服函数	qu fu han shu	771
+屈服极限	qu fu ji xian	926
+屈服面	qu fu mian	770
+取决于决定于	qu jue yu jue ding yu	600
+曲梁	qu liang	858
+曲率	qu lv	1594
+曲率半径	qu lv ban jing	261
+曲率半径梳	qu lv ban jing shu	260
+曲线的反弯点	qu xian de fan wan dian	907
+群震群震	qun zhen qun zhen	120
+群桩基础	qun zhuang ji chu	797
+热风洞试验	re feng dong shi yan	654
+热结构分析	re jie gou fen xi	309
+热弹性力学	re tan xing li xue	1017
+热稳定系数	re wen ding xi shu	1270
+热压力计	re ya li ji	94
+热应力分析	re ying li fen xi	323
+认可标准认可标准	ren ke biao zhun ren ke biao zhun	278
+认可颜色标准	ren ke yan se biao zhun	276
+人群荷载人群荷载	ren qun he zai ren qun he zai	1330
+人行道	ren xing dao	1414
+任意形状	ren yi xing zhuang	46
+人造火山灰水泥	ren zao huo shan hui shui ni	650
+容车量容车量	rong che liang rong che liang	200
+容许单位扭转应力	rong xu dan wei niu zhuan ying li	623
+容许扭转应力	rong xu niu zhuan ying li	624
+容许应力	rong xu ying li	496
+容许应力法	rong xu ying li fa	495
+容许应力计算	rong xu ying li ji suan	494
+容许应力设计法	rong xu ying li she ji fa	493
+柔性石墨异形截面组合填料	rou xing shi mo yi xing jie mian zu he tian liao	1059
+入石锚定杆	ru shi mao ding gan	188
+软化	ruan hua	767
+软化点	ruan hua dian	765
+软化剂	ruan hua ji	766
+软路肩	ruan lu jian	1431
+软轴振捣器	ruan zhou zhen dao qi	590
+瑞利阻尼矩阵	rui li zu ni ju zhen	1111
+弱边界条件	ruo bian jie tiao jian	1073
+三角高程导线	san jiao gao cheng dao xian	704
+三角高程导线测量	san jiao gao cheng dao xian ce liang	703
+三铰拱	san jiao gong	1169
+三角网	san jiao wang	685
+三角网测站	san jiao wang ce zhan	683
+三角网图	san jiao wang tu	684
+三角形单元	san jiao xing dan yuan	1122
+散热片	san re pian	259
+三维	san wei	1123
+三维的	san wei de	391
+三维的立体的	san wei de li ti de	390
+三维的三轴的	san wei de san zhou de	389
+三维多边形	san wei duo bian xing	26
+砂浆	sha jiang	674
+砂浆配合比设计	sha jiang pei he bi she ji	644
+砂结合力	sha jie he li	587
+砂桩基础	sha zhuang ji chu	798
+砂子色	sha zi se	988
+砂子砂子	sha zi sha zi	989
+上部结构	shang bu jie gou	979
+上部缀板	shang bu zhui ban	421
+上承结构	shang cheng jie gou	436
+上承式大梁	shang cheng shi da liang	437
+上模板	shang mu ban	837
+上下班车流量高峰期	shang xia ban che liu liang gao feng qi	455
+设计洪水频率设计洪水频率	she ji hong shui pin lv she ji hong shui pin lv	1480
+设计极限荷载	she ji ji xian he zai	1583
+设计基准期	she ji ji zhun qi	1495
+设计速度	she ji su du	1443
+设计速度构造速度	she ji su du gou zao su du	1442
+设计值	she ji zhi	1654
+伸臂底座	shen bi di zuo	911
+渗水	shen shui	634
+伸缩缝	shen suo feng	825
+渗透水化作用	shen tou shui hua zuo yong	596
+渗透性	shen tou xing	640
+生物安全等级	sheng wu an quan deng ji	1497
+生物固体力学	sheng wu gu ti li xue	757
+生物水准基点	sheng wu shui zhun ji dian	687
+生长延缓剂	sheng zhang yan huan ji	631
+使成比例	shi cheng bi li	522
+石膏	shi gao	1047
+石膏模	shi gao mu	1045
+施工控制施工控制	shi gong kong zhi shi gong kong zhi	728
+施工控制网	shi gong kong zhi wang	727
+施工图设计	shi gong tu she ji	1537
+施工图设计阶段	shi gong tu she ji jie duan	1536
+石灰火山灰水泥	shi hui huo shan hui shui ni	651
+时间历程后处理	shi jian li cheng hou chu li	49
+矢跨比	shi kua bi	914
+石锚	shi mao	189
+实桥墩	shi qiao dun	1192
+湿式焊接技术	shi shi han jie ji shu	983
+试算法	shi suan fa	482
+试算法尝试法	shi suan fa chang shi fa	480
+实体筏基实体筏基	shi ti fa ji shi ti fa ji	139
+实体桥墩实体桥墩	shi ti qiao dun shi ti qiao dun	841
+实验土力学	shi yan tu li xue	810
+实验岩石力学	shi yan yan shi li xue	807
+示意图	shi yi tu	164
+适用	shi yong	1364
+实用菜单	shi yong cai dan	72
+石油工程建设	shi you gong cheng jian she	739
+湿胀	shi zhang	614
+湿胀量	shi zhang liang	612
+湿胀率	shi zhang lv	613
+使最优化	shi zui you hua	1723
+收敛条件	shou lian tiao jian	1130
+收缩	shou suo	1341
+收缩量	shou suo liang	148
+受影响面	shou ying xiang mian	1222
+受影响区受影响面	shou ying xiang qu shou ying xiang mian	1221
+竖标距竖坐标支距	shu biao ju shu zuo biao zhi ju	1143
+输入参考轴	shu ru can kao zhou	282
+竖向分布	shu xiang fen bu	1187
+竖向力竖向预力	shu xiang li shu xiang yu li	1206
+属性特征	shu xing te zheng	8
+术语	shu yu	1184
+竖圆柱坐标系	shu yuan zhu zuo biao xi	1142
+数值解	shu zhi jie	1032
+数值岩土力学	shu zhi yan tu li xue	965
+竖坐标	shu zuo biao	1144
+双车道	shuang che dao	465
+双车道公路	shuang che dao gong lu	464
+双车道交通	shuang che dao jiao tong	463
+双程道路桥	shuang cheng dao lu qiao	201
+双铰拱	shuang jiao gong	1168
+双棱镜	shuang leng jing	39
+双排板桩围堰	shuang pai ban zhuang wei yan	150
+双桥墩	shuang qiao dun	1191
+双弯矩	shuang wan ju	1617
+双悬臂梁	shuang xuan bi liang	1573
+双轴电解气泡水准仪	shuang zhou dian jie qi pao shui zhun yi	131
+双柱式屋架	shuang zhu shi wu jia	853
+双坐标系	shuang zuo biao xi	60
+水动力作用	shui dong li zuo yong	484
+水浮力水的浮力	shui fu li shui de fu li	1337
+水化热	shui hua re	595
+水化作用	shui hua zuo yong	598
+水力	shui li	1479
+水力的	shui li de	1477
+水利工程建筑	shui li gong cheng jian zhu	723
+水力学	shui li xue	1478
+水流横向力	shui liu heng xiang li	1204
+水泥	shui ni	1049
+水泥浆	shui ni jiang	637
+水泥浆泵	shui ni jiang beng	636
+水泥砂浆	shui ni sha jiang	1048
+水平分力	shui ping fen li	1190
+水平角	shui ping jiao	711
+水平角观测	shui ping jiao guan ce	709
+水平角焊	shui ping jiao han	710
+水位	shui wei	475
+水文水文	shui wen shui wen	1565
+水文图	shui wen tu	1563
+水文学	shui wen xue	1564
+水文学水文学	shui wen xue shui wen xue	1554
+水准基点	shui zhun ji dian	689
+水准仪	shui zhun yi	686
+顺流	shun liu	1481
+似大理石	si da li shi	97
+松弛	song chi	400
+松弛法	song chi fa	398
+松弛素	song chi su	399
+素混凝土	su hun ning tu	574
+素混凝土墩	su hun ning tu dun	573
+素混凝土结构	su hun ning tu jie gou	572
+塑性	su xing	1645
+塑性应力应变图	su xing ying li ying bian tu	314
+塑性状态	su xing zhuang tai	938
+算法处理器描述语言	suan fa chu li qi miao shu yu yan	48
+隧道	sui dao	1004
+隧道门	sui dao men	1003
+隧道窑	sui dao yao	1002
+碎石	sui shi	584
+锁及安全防护系统	suo ji an quan fang hu xi tong	171
+缩减	suo jian	414
+缩减法	suo jian fa	412
+缩减率	suo jian lv	413
+索具工坞工	suo ju gong wu gong	676
+塔堡	ta bao	888
+塔环锚具	ta huan mao ju	554
+太多的车流量	tai duo de che liu liang	456
+探测	tan ce	696
+碳电阻温度计	tan dian zu wen du ji	231
+弹簧刚性系数	tan huang gang xing xi shu	211
+探试算法	tan shi suan fa	481
+弹塑性状态	tan su xing zhuang tai	936
+弹性	tan xing	1663
+弹性弾性	tan xing dan xing	1662
+弹性垫片弹性垫片	tan xing dian pian tan xing dian pian	235
+弹性力学	tan xing li xue	1019
+弹性模量	tan xing mo liang	1609
+弹性体	tan xing ti	1661
+弹性系数矩阵	tan xing xi shu ju zhen	1110
+弹性支承	tan xing zhi cheng	732
+弹性支承边	tan xing zhi cheng bian	730
+弹性支承梁	tan xing zhi cheng liang	731
+特大桥特大桥	te da qiao te da qiao	1376
+特征	te zheng	386
+特征根	te zheng gen	385
+特征值	te zheng zhi	384
+体积本构模型	ti ji ben gou mo xing	1579
+体膨胀系数	ti peng zhang xi shu	1185
+梯形箱梁	ti xing xiang liang	916
+天桥	tian qiao	1392
+天桥面天桥面	tian qiao mian tian qiao mian	1391
+填石	tian shi	186
+填石沟	tian shi gou	184
+填石坡	tian shi po	185
+条件屈服极限	tiao jian qu fu ji xian	925
+条件收敛	tiao jian shou lian	1128
+贴板梁	tie ban liang	73
+铁路工程	tie lu gong cheng	1007
+铁路工程测量	tie lu gong cheng ce liang	1005
+铁路工程学	tie lu gong cheng xue	1006
+铁路桥	tie lu qiao	264
+铁路桥梁工程	tie lu qiao liang gong cheng	1692
+铁路线路养护	tie lu xian lu yang hu	998
+铁路线路养护机械	tie lu xian lu yang hu ji xie	997
+通航	tong hang	1401
+通航权	tong hang quan	1399
+通航闸	tong hang zha	1400
+同济大学	tong ji da xue	1162
+同济大学同済大学	tong ji da xue tong ji da xue	1161
+同时存在的	tong shi cun zai de	501
+同时存在的事物	tong shi cun zai de shi wu	500
+同时存在的同时发生的	tong shi cun zai de tong shi fa sheng de	498
+同时的	tong shi de	616
+同时的同时存在的	tong shi de tong shi cun zai de	499
+通用后处理	tong yong hou chu li	50
+投标	tou biao	1561
+土侧压力土的侧压力	tu ce ya li tu de ce ya li	1342
+土层	tu ceng	1261
+土层剖面特性	tu ceng pou mian te xing	1259
+土层剖面土层剖面	tu ceng pou mian tu ceng pou mian	1260
+土力学	tu li xue	812
+土木工程	tu mu gong cheng	1159
+土木工程师	tu mu gong cheng shi	1156
+土木工程师协会土木工程师协会	tu mu gong cheng shi xie hui tu mu gong cheng shi xie hui	1153
+土木工程师学会	tu mu gong cheng shi xue hui	1154
+土木工程系	tu mu gong cheng xi	1158
+土木建筑结构有限元软件	tu mu jian zhu jie gou you xian yuan ruan jian	1134
+土木与环境工程系	tu mu yu huan jing gong cheng xi	1157
+土壤加固工程	tu rang jia gu gong cheng	326
+图形后处理器模块	tu xing hou chu li qi mo kuai	1062
+土压力被动土压力	tu ya li bei dong tu ya li	1262
+土压力主动土压力	tu ya li zhu dong tu ya li	1265
+土重力土的物理性质重力密度	tu zhong li tu de wu li xing zhi zhong li mi du	1343
+推拉索	tui la suo	402
+推力	tui li	409
+推力线	tui li xian	407
+推力销	tui li xiao	408
+托板单元	tuo ban dan yuan	1597
+托换基础工程	tuo huan ji chu gong cheng	971
+托盘的上部结构	tuo pan de shang bu jie gou	977
+瓦管涵	wa guan han	1405
+外力	wai li	1369
+外排水系统	wai pai shui xi tong	820
+外倾刚度系数	wai qing gang du xi shu	1137
+外支座	wai zhi zuo	1316
+弯道	wan dao	992
+弯道灯	wan dao deng	991
+弯道危险	wan dao wei xian	990
+弯度	wan du	523
+弯矩	wan ju	1619
+弯矩分配法	wan ju fen pei fa	1615
+弯矩图	wan ju tu	1618
+弯矩中心	wan ju zhong xin	1616
+弯曲刚度	wan qu gang du	1589
+弯曲刚度抗弯劲度	wan qu gang du kang wan jin du	1587
+弯曲扭转弯曲扭转	wan qu niu zhuan wan qu niu zhuan	857
+网架结构	wang jia jie gou	897
+网架结构格构梁结构	wang jia jie gou ge gou liang jie gou	895
+微分方程数值解	wei fen fang cheng shu zhi jie	1031
+未夯实回填土	wei hang shi hui tian tu	606
+伪悬链线	wei xuan lian xian	1571
+围堰	wei yan	961
+围堰坝	wei yan ba	960
+位移	wei yi	1245
+位移代替	wei yi dai ti	21
+位移法	wei yi fa	1026
+位移方程位移方程式	wei yi fang cheng wei yi fang cheng shi	1127
+位移角	wei yi jiao	1244
+位移移置	wei yi yi zhi	22
+稳定系数	wen ding xi shu	1271
+温度变化作用	wen du bian hua zuo yong	1319
+温度防腐作用	wen du fang fu zuo yong	1318
+温度荷载	wen du he zai	729
+温度梯度	wen du ti du	1297
+温度梯度法	wen du ti du fa	1295
+温度作用温度作用	wen du zuo yong wen du zuo yong	1320
+屋顶结构形式	wu ding jie gou xing shi	1530
+坞工码头工	wu gong ma tou gong	675
+坞工坞工	wu gong wu gong	677
+无铰的框架	wu jiao de kuang jia	1394
+无铰拱	wu jiao gong	1398
+无铰框架	wu jiao kuang jia	1395
+物流企业安全平台支撑体系	wu liu qi ye an quan ping tai zhi cheng ti xi	1524
+无粘结预应力混凝土结构	wu nian jie yu ying li hun ning tu jie gou	773
+无穷的	wu qiong de	459
+无压力式涵洞	wu ya li shi han dong	1412
+无压力梯度流动	wu ya li ti du liu dong	1411
+无压力无压力	wu ya li wu ya li	1413
+无翼墙桥台	wu yi qiang qiao tai	826
+无应力状态	wu ying li zhuang tai	1125
+无约束条件	wu yue shu tiao jian	1037
+系杆拱	xi gan gong	432
+稀水泥浆	xi shui ni jiang	635
+系统误差	xi tong wu cha	117
+西行车道	xi xing che dao	1463
+吸音道路面层	xi yin dao lu mian ceng	292
+下部结构	xia bu jie gou	976
+峡谷	xia gu	417
+下拉索	xia la suo	401
+下模板	xia mu ban	838
+现场灌注桩	xian chang guan zhu zhuang	788
+线路养护	xian lu yang hu	999
+纤维喷射混凝土	xian wei pen she hun ning tu	128
+线性	xian xing	1247
+线性代数	xian xing dai shu	1246
+线性有限元法	xian xing you xian yuan fa	1630
+先张法	xian zhang fa	649
+先张法预应力	xian zhang fa yu ying li	648
+向岸冰压力	xiang an bing ya li	1322
+相对密度	xiang dui mi du	241
+相对密度环	xiang dui mi du huan	239
+相对密度计	xiang dui mi du ji	240
+相反的	xiang fan de	568
+乡郊地区乡郊地区	xiang jiao di qu xiang jiao di qu	177
+橡胶垫圈	xiang jiao dian quan	180
+箱梁箱梁	xiang liang xiang liang	918
+相平衡条件	xiang ping heng tiao jian	1040
+向切线	xiang qie xian	712
+相容质量矩阵	xiang rong zhi liang ju zhen	1102
+小比例尺海图	xiao bi li chi hai tu	76
+小比例尺图	xiao bi li chi tu	77
+小比例尺小比例尺	xiao bi li chi xiao bi li chi	78
+消除残余应力	xiao chu can yu ying li	933
+销钉拼接板	xiao ding pin jie ban	1706
+小客车	xiao ke che	458
+小卵石	xiao luan shi	779
+斜底板	xie di ban	346
+斜横梁	xie heng liang	445
+斜交	xie jiao	1372
+斜交桥	xie jiao qiao	860
+斜交桥斜桥	xie jiao qiao xie qiao	859
+斜节理	xie jie li	805
+斜拉桥	xie la qiao	431
+斜拉桥斜张桥	xie la qiao xie zhang qiao	430
+斜坡	xie po	472
+泄水管	xie shui guan	819
+泄水管路	xie shui guan lu	817
+协调的	xie tiao de	505
+斜桩	xie zhuang	792
+行车道	xing che dao	1465
+行车道路面路面行车道	xing che dao lu mian lu mian xing che dao	217
+形成应力集中的因素	xing cheng ying li ji zhong de yin su	317
+形刚构桥	xing gang gou qiao	1700
+形箍筋	xing gu jin	1671
+型河床	xing he chuang	1454
+形心	xing xin	519
+形状函数	xing zhuang han shu	1100
+徐变	xu bian	1340
+虚功原理	xu gong yuan li	755
+虚偏心距	xu pian xin ju	750
+虚位移法	xu wei yi fa	1025
+虚支路	xu zhi lu	162
+悬臂法悬臂拼装法	xuan bi fa xuan bi pin zhuang fa	367
+悬臂架设法	xuan bi jia she fa	366
+悬臂浇筑法	xuan bi jiao zhu fa	365
+悬臂连续梁	xuan bi lian xu liang	1558
+悬臂梁	xuan bi liang	1575
+悬臂梁长	xuan bi liang chang	1574
+悬孔	xuan kong	910
+悬跨度悬孔	xuan kua du xuan kong	909
+悬链线	xuan lian xian	1572
+悬链线长	xuan lian xian chang	1570
+悬索高架桥悬索高架桥	xuan suo gao jia qiao xuan suo gao jia qiao	510
+悬索桥	xuan suo qiao	1691
+悬崖	xuan ya	471
+选择实体	xuan ze shi ti	67
+削弱	xue ruo	547
+雅可比矩阵	ya ke bi ju zhen	1109
+雅可比矩阵导数矩阵	ya ke bi ju zhen dao shu ju zhen	1107
+雅可比矩阵法	ya ke bi ju zhen fa	1108
+压力计	ya li ji	96
+压应力	ya ying li	1641
+堰坝量水堰	yan ba liang shui yan	486
+堰坝堰坝	yan ba yan ba	488
+岩拱脚	yan gong jiao	948
+延缓剂	yan huan ji	633
+岩浆	yan jiang	114
+岩石力学	yan shi li xue	809
+验算	yan suan	1147
+验算公式	yan suan gong shi	1146
+岩土力学	yan tu li xue	967
+岩土力学性质	yan tu li xue xing zhi	966
+堰堰坝	yan yan ba	487
+杨钢桥	yang gang qiao	861
+氧结合力	yang jie he li	586
+业建模	ye jian mo	1056
+液压机结构优化设计软件包	ye ya ji jie gou you hua she ji ruan jian bao	1710
+一级公路	yi ji gong lu	1462
+一级公路网	yi ji gong lu wang	1461
+依限最佳设计	yi xian zui jia she ji	477
+一致节点荷载	yi zhi jie dian he zai	1094
+乙支路	yi zhi lu	161
+以自重桥梁结构预应力法	yi zi zhong qiao liang jie gou yu ying li fa	1305
+引道	yin dao	1522
+引道版	yin dao ban	1520
+引道坡	yin dao po	1521
+应变	ying bian	24
+应变计	ying bian ji	339
+应变矩阵	ying bian ju zhen	1115
+应变量	ying bian liang	1238
+应变量测	ying bian liang ce	1237
+应变三角形单元体	ying bian san jiao xing dan yuan ti	1120
+应变时效	ying bian shi xiao	1241
+应变时效钢	ying bian shi xiao gang	1240
+英国土木工程师协会	ying guo tu mu gong cheng shi xie hui	1151
+应力	ying li	25
+应力倒向应力变为相反的方向	ying li dao xiang ying li bian wei xiang fan de fang xiang	319
+应力方向应力方向	ying li fang xiang ying li fang xiang	321
+应力分析	ying li fen xi	324
+应力幅值应力幅值	ying li fu zhi ying li fu zhi	923
+应力集中	ying li ji zhong	1627
+应力集中点	ying li ji zhong dian	1626
+应力集中器	ying li ji zhong qi	1625
+应力集中因素	ying li ji zhong yin su	318
+应力矩阵	ying li ju zhen	1093
+应力矩阵计算	ying li ju zhen ji suan	1091
+应力图	ying li tu	1644
+应力应变关系	ying li ying bian guan xi	313
+应力应变关系曲线	ying li ying bian guan xi qu xian	311
+应力应变矩阵	ying li ying bian ju zhen	1113
+应力应变图	ying li ying bian tu	316
+应力应变图面积	ying li ying bian tu mian ji	315
+应力增大系数	ying li zeng da xi shu	873
+应力状态	ying li zhuang tai	1126
+硬路肩	ying lu jian	1432
+硬石膏	ying shi gao	1046
+影响面	ying xiang mian	1223
+影响线	ying xiang xian	1226
+影响线方程	ying xiang xian fang cheng	1224
+永久冻土	yong jiu dong tu	1347
+永久冻土台	yong jiu dong tu tai	1345
+永久冻土永久冻土	yong jiu dong tu yong jiu dong tu	1346
+永久水准基点	yong jiu shui zhun ji dian	688
+永久作用标准值	yong jiu zuo yong biao zhun zhi	1509
+永久作用永久作用	yong jiu zuo yong yong jiu zuo yong	1510
+用冷拔钢丝切碎的金属粒钢丝粒	yong leng ba gang si qie sui de jin shu li gang si li	382
+有粘结预应力混凝土结构	you nian jie yu ying li hun ning tu jie gou	774
+有说服力的	you shuo fu li de	526
+有说服力的案例	you shuo fu li de an li	525
+有说服力的骗子	you shuo fu li de pian zi	524
+优先设置	you xian she zhi	54
+有限应变量	you xian ying bian liang	1236
+有限元法	you xian yuan fa	1632
+有限元分析	you xian yuan fen xi	1635
+有限元分析软件	you xian yuan fen xi ruan jian	1633
+有效内摩擦角	you xiao nei mo ca jiao	1288
+预处理程序预处理器	yu chu li cheng xu yu chu li qi	53
+预处理器	yu chu li qi	51
+预处理器前处理器前处理	yu chu li qi qian chu li qi qian chu li	52
+预混合料	yu hun he liao	1163
+预加力	yu jia li	1344
+雨水管	yu shui guan	256
+与同济大学	yu tong ji da xue	1160
+预应力钢筋	yu ying li gang jin	540
+预应力钢筋束	yu ying li gang jin shu	539
+预应力钢筋束预应力钢筋束	yu ying li gang jin shu yu ying li gang jin shu	1686
+预应力钢筋松弛	yu ying li gang jin song chi	538
+预应力混凝土	yu ying li hun ning tu	1689
+预应力混凝土管	yu ying li hun ning tu guan	1687
+预应力混凝土结构设计软件	yu ying li hun ning tu jie gou she ji ruan jian	1298
+预应力混凝土梁	yu ying li hun ning tu liang	1688
+预应力组件预应力组件	yu ying li zu jian yu ying li zu jian	1670
+预制混凝土板	yu zhi hun ning tu ban	560
+预制混凝土厂房	yu zhi hun ning tu chang fang	270
+预制先张法梁	yu zhi xian zhang fa liang	647
+圆拱顶	yuan gong ding	404
+圆木桥	yuan mu qiao	946
+圆台锥体圆锥松果	yuan tai zhui ti yuan zhui song guo	36
+原有安全度	yuan you an quan du	111
+圆柱体	yuan zhu ti	43
+圆柱体量筒	yuan zhu ti liang tong	42
+圆柱体汽缸铁桶	yuan zhu ti qi gang tie tong	44
+圆锥贯入仪	yuan zhui guan ru yi	603
+圆锥角	yuan zhui jiao	34
+圆锥体球果	yuan zhui ti qiu guo	38
+月饼	yue bing	4
+约束条件	yue shu tiao jian	1038
+约束条件式	yue shu tiao jian shi	1036
+运动方程数值解	yun dong fang cheng shu zhi jie	1030
+载荷步	zai he bu	7
+在两条线的过渡生成线	zai liang tiao xian de guo du sheng cheng xian	47
+再循环	zai xun huan	275
+再循环泵	zai xun huan beng	274
+再循环水	zai xun huan shui	273
+增大系数	zeng da xi shu	874
+增强剂	zeng qiang ji	244
+轧制钢	zha zhi gang	183
+轧制钢槽	zha zhi gang cao	182
+轧制钢托梁	zha zhi gang tuo liang	181
+栈道	zhan dao	454
+招标	zhao biao	1562
+找出最小值	zhao chu zui xiao zhi	1428
+沼泽	zhao ze	695
+折减系数	zhe jian xi shu	1250
+振荡	zhen dang	442
+振荡器	zhen dang qi	441
+振捣器	zhen dao qi	592
+枕木	zhen mu	943
+真内摩擦角	zhen nei mo ca jiao	1289
+震群	zhen qun	118
+正常使用极限状态	zheng chang shi yong ji xian zhuang tai	1665
+正常使用极限状态验证	zheng chang shi yong ji xian zhuang tai yan zheng	1664
+正交各向异性的	zheng jiao ge xiang yi xing de	900
+正交直线	zheng jiao zhi xian	281
+正交直线扫描	zheng jiao zhi xian sao miao	279
+正交直线组	zheng jiao zhi xian zu	280
+正铺设	zheng pu she	79
+整体刚度矩阵	zheng ti gang du ju zhen	1075
+支撑	zhi cheng	376
+支撑刚性梁加劲梁横撑	zhi cheng gang xing liang jia jin liang heng cheng	1555
+支承构件	zhi cheng gou jian	296
+支承加劲肋	zhi cheng jia jin lei	1567
+支撑体系支撑体系	zhi cheng ti xi zhi cheng ti xi	1525
+支撑物	zhi cheng wu	375
+支撑轴	zhi cheng zhou	374
+制动颤振	zhi dong chan zhen	426
+制动力系数	zhi dong li xi shu	1293
+直钢筋条	zhi gang jin tiao	246
+直径	zhi jing	1149
+致冷剂	zhi leng ji	250
+致冷剂回路	zhi leng ji hui lu	248
+枝力法	zhi li fa	1027
+直梁	zhi liang	1072
+直梁法	zhi liang fa	1071
+直梁接合	zhi liang jie he	1070
+质量矩阵	zhi liang ju zhen	1103
+质量作用效应	zhi liang zuo yong xiao ying	1491
+支路	zhi lu	163
+直斜路直斜路	zhi xie lu zhi xie lu	341
+质心	zhi xin	514
+支座	zhi zuo	1317
+重结构力学	zhong jie gou li xue	1591
+重力标准值	zhong li biao zhun zhi	1655
+重力加速度	zhong li jia su du	1199
+重力加速度场	zhong li jia su du chang	1198
+重心	zhong xin	518
+中性面	zhong xing mian	659
+中性面高度	zhong xing mian gao du	657
+中央路栏中央路栏	zhong yang lu lan zhong yang lu lan	101
+重要道路网	zhong yao dao lu wang	336
+重要道路重要道路	zhong yao dao lu zhong yao dao lu	337
+重要道路走廊	zhong yao dao lu zou lang	335
+轴对称	zhou dui chen	1116
+轴惯性矩	zhou guan xing ju	515
+轴力轴力	zhou li zhou li	1603
+轴线	zhou xian	951
+轴线弯曲并扭转扭曲	zhou xian wan qu bing niu zhuan niu qu	856
+轴向拉力	zhou xiang la li	1684
+轴向拉力轴向拉伸	zhou xiang la li zhou xiang la shen	1683
+轴向拉力轴向张力	zhou xiang la li zhou xiang zhang li	1682
+轴向力	zhou xiang li	1601
+轴转角	zhou zhuan jiao	1077
+注册土木工程师	zhu ce tu mu gong cheng shi	1155
+主动土压力	zhu dong tu ya li	1267
+主动土压力系数	zhu dong tu ya li xi shu	1266
+主钢筋	zhu gang jin	1577
+助剂饱和密度	zhu ji bao he mi du	166
+主拉应力	zhu la ying li	1624
+主梁	zhu liang	1718
+主梁截面主梁截面	zhu liang jie mian zhu liang jie mian	1720
+主梁翼	zhu liang yi	1716
+柱列	zhu lie	885
+柱塞	zhu sai	886
+主塔	zhu ta	877
+铸铁	zhu tie	533
+铸铁锭	zhu tie ding	531
+铸铁管	zhu tie guan	532
+铸铁雨水管	zhu tie yu shui guan	254
+主效应	zhu xiao ying	1286
+主效应模型	zhu xiao ying mo xing	1285
+抓斗龙门吊	zhua dou long men diao	833
+转换矩阵	zhuan huan ju zhen	1090
+转换矩阵法	zhuan huan ju zhen fa	1089
+转角	zhuan jiao	1079
+专门工程分包合约	zhuan men gong cheng fen bao he yue	298
+转体法转体架桥法	zhuan ti fa zhuan ti jia qiao fa	364
+转子位移角	zhuan zi wei yi jiao	1243
+桩承台	zhuang cheng tai	1680
+撞击变质作用	zhuang ji bian zhi zuo yong	1313
+桩基础	zhuang ji chu	799
+撞击作用	zhuang ji zuo yong	1314
+装煤便桥	zhuang mei bian qiao	867
+桩排架	zhuang pai jia	450
+装配式房屋	zhuang pei shi fang wu	1518
+装配式钢体	zhuang pei shi gang ti	1517
+装配式预制的	zhuang pei shi yu zhi de	1727
+装配式预制混凝土环	zhuang pei shi yu zhi hun ning tu huan	1726
+装配式预制装配式预制	zhuang pei shi yu zhi zhuang pei shi yu zhi	1728
+装配式装配式桥	zhuang pei shi zhuang pei shi qiao	1519
+缀板	zhui ban	422
+准永久值作用准永久值	zhun yong jiu zhi zuo yong zhun yong jiu zhi	1150
+准正交各向异性的	zhun zheng jiao ge xiang yi xing de	899
+自紧式弹性金属垫片	zi jin shi tan xing jin shu dian pian	234
+自流水静压力	zi liu shui jing ya li	1324
+自行车道	zi xing che dao	1422
+自行车道专供自行车行驶的车道	zi xing che dao zhuan gong zi xing che xing shi de che dao	1420
+自行车通行自行车通行	zi xing che tong xing zi xing che tong xing	1419
+自由度	zi you du	20
+自振频率	zi zhen pin lv	363
+自振周期	zi zhen zhou qi	360
+纵断面	zong duan mian	694
+纵节理	zong jie li	804
+纵梁	zong liang	448
+纵梁联结系	zong liang lian jie xi	941
+总平面图	zong ping mian tu	845
+纵坡	zong po	1383
+纵坡线	zong po xian	1382
+总收缩量	zong shou suo liang	147
+总体设计	zong ti she ji	1544
+总体设计概念	zong ti she ji gai nian	1543
+纵向联结系	zong xiang lian jie xi	939
+纵向配筋率	zong xiang pei jin lv	1636
+总应力分析	zong ying li fen xi	322
+组合恒载	zu he heng zai	1182
+组合截面	zu he jie mian	1060
+阻力系数	zu li xi shu	1196
+阻尼	zu ni	443
+阻尼矩阵	zu ni ju zhen	1112
+组元集合	zu yuan ji he	66
+钻柱扭转角	zuan zhu niu zhuan jiao	621
+最不利分布	zui bu li fen bu	1304
+最大剪应变能量理论	zui da jian ying bian neng liang li lun	105
+最大剪应变能学说	zui da jian ying bian neng xue shuo	106
+最大剪应变最大剪应变	zui da jian ying bian zui da jian ying bian	107
+最大剪应力	zui da jian ying li	110
+最大剪应力面	zui da jian ying li mian	108
+最大剪应力值	zui da jian ying li zhi	109
+最大抗张强度极限抗拉强度	zui da kang zhang qiang du ji xian kang la qiang du	563
+最大弯矩图	zui da wan ju tu	1613
+最大应力	zui da ying li	104
+最大应力方向	zui da ying li fang xiang	320
+最大应力理论	zui da ying li li lun	102
+最大阵风强度的设计速度	zui da zhen feng qiang du de she ji su du	1441
+最大值	zui da zhi	1427
+最大值原理	zui da zhi yuan li	1426
+最高容车量	zui gao rong che liang	198
+最佳设计	zui jia she ji	479
+最佳设计奖	zui jia she ji jiang	478
+最小二乘法	zui xiao er cheng fa	752
+最小配筋率	zui xiao pei jin lv	1685
+最小势能法原理	zui xiao shi neng fa yuan li	753
+最小势能原理	zui xiao shi neng yuan li	754
+最小值	zui xiao zhi	1430
+最优化	zui you hua	1724
+最优形状函数	zui you xing zhuang han shu	1099
+最终弯矩图	zui zhong wan ju tu	1614
+坐标系	zuo biao xi	62
+座标系	zuo biao xi	63
+坐标系坐标系统推论	zuo biao xi zuo biao xi tong tui lun	61
+坐标转换矩阵	zuo biao zhuan huan ju zhen	1088
+作用	zuo yong	1496
+作用标准值	zuo yong biao zhun zhi	1656
+作用标准值作用标准值	zuo yong biao zhun zhi zuo yong biao zhun zhi	1501
+作用代表值	zuo yong dai biao zhi	1310
+作用代表值作用代表值	zuo yong dai biao zhi zuo yong dai biao zhi	1502
+作用分项系数	zuo yong fen xiang xi shu	1488
+作用频遇值作用频遇值	zuo yong pin yu zhi zuo yong pin yu zhi	1499
+作用设计值	zuo yong she ji zhi	1653
+作用效应基本组合	zuo yong xiao ying ji ben zu he	1485
+作用效应偶然组合	zuo yong xiao ying ou ran zu he	1503
+作用效应设计值作用效应设计值	zuo yong xiao ying she ji zhi zuo yong xiao ying she ji zhi	1490
+作用效应组合作用效应组合	zuo yong xiao ying zu he zuo yong xiao ying zu he	1486
+作用效应作用效应	zuo yong xiao ying zuo yong xiao ying	1493
+作用准永久值作用准永久值	zuo yong zhun yong jiu zhi zuo yong zhun yong jiu zhi	1494

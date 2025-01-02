@@ -1,0 +1,163 @@
+# 文件名：电机专业术语.scel
+# 词库名：电机专业术语
+# 词库分类：电力电气
+# 词库描述：
+# 词条样例：串激 电机额定数据 电机型号 额定电压 效率 功率因数
+# 词条数量：156
+
+安匝数	an za shu	32
+闭式风冷	bi shi feng leng	139
+扁方	bian fang	132
+并联支路数	bing lian zhi lu shu	71
+并绕根数	bing rao gen shu	70
+参数计算	can shu ji suan	41
+槽满率	cao man lv	80
+槽面积	cao mian ji	127
+槽锲厚度	cao qie hou du	92
+槽纸厚度	cao zhi hou du	91
+抽头匝比	chou tou za bi	57
+串激	chuan ji	152
+磁场圆度	ci chang yuan du	8
+磁化曲线	ci hua qu xian	95
+磁路	ci lu	42
+磁势	ci shi	33
+单相异步	dan xiang yi bu	154
+导体材料	dao ti cai liao	108
+导体价格	dao ti jia ge	105
+导体密度	dao ti mi du	104
+导条电流	dao tiao dian liu	15
+导条电密	dao tiao dian mi	13
+第一类绕组	di yi lei rao zu	72
+电磁设计计算单	dian ci she ji ji suan dan	151
+电机额定数据	dian ji e ding shu ju	150
+电机极数	dian ji ji shu	145
+电机类型	dian ji lei xing	148
+电机设计	dian ji she ji	155
+电机型号	dian ji xing hao	149
+电抗	dian kang	30
+电流密度	dian liu mi du	9
+电容端电压	dian rong duan dian ya	10
+电容损耗	dian rong sun hao	6
+电势系数	dian shi xi shu	40
+电源频率	dian yuan pin lv	146
+电阻	dian zu	31
+电阻率	dian zu lv	106
+定转子叠厚	ding zhuan zi die hou	100
+定子槽数	ding zi cao shu	135
+定子槽形	ding zi cao xing	134
+定子齿长	ding zi chi chang	130
+定子齿磁密	ding zi chi ci mi	38
+定子齿距	ding zi chi ju	85
+定子齿宽	ding zi chi kuan	131
+定子冲片	ding zi chong pian	138
+定子轭长	ding zi e chang	128
+定子轭磁密	ding zi e ci mi	37
+定子轭高	ding zi e gao	129
+定子净重	ding zi jing zhong	51
+定子内径	ding zi nei jing	136
+定子铁损系数	ding zi tie sun xi shu	90
+定子外径	ding zi wai jing	137
+端环电流	duan huan dian liu	14
+端环电密	duan huan dian mi	12
+端环厚度	duan huan hou du	112
+端环截面积	duan huan jie mian ji	102
+端环内径	duan huan nei jing	113
+端环外径	duan huan wai jing	114
+端环中径	duan huan zhong jing	103
+额定电压	e ding dian ya	147
+额定指标	e ding zhi biao	144
+风摩耗	feng mo hao	2
+附加损耗系数	fu jia sun hao xi shu	87
+付绕组铜重	fu rao zu tong zhong	55
+付线	fu xian	61
+付线电密	fu xian dian mi	16
+付相电流	fu xiang dian liu	19
+付相电流角	fu xiang dian liu jiao	18
+付相数据	fu xiang shu ju	63
+功率因数	gong lv yin shu	142
+基本型式	ji ben xing shi	79
+极距	ji ju	86
+计算电压	ji suan dian ya	28
+计算频率	ji suan pin lv	27
+机械损耗	ji xie sun hao	3
+绝缘等级	jue yuan deng ji	141
+空载	kong zai	43
+空载机械损耗	kong zai ji xie sun hao	88
+冷却方式	leng que fang shi	140
+梨形槽	li xing cao	120
+两绕组正交	liang rao zu zheng jiao	77
+漏抗	lou kang	29
+铝耗	lv hao	5
+毛坯外径	mao pi wai jing	124
+每极串联总匝数	mei ji chuan lian zong za shu	67
+每极磁通量	mei ji ci tong liang	39
+每极有效串联总匝数	mei ji you xiao chuan lian zong za shu	66
+南牛	nan niu	156
+漆包线	qi bao xian	93
+气隙磁密	qi xi ci mi	34
+气隙宽度	qi xi kuan du	101
+气隙有效宽度	qi xi you xiao kuan du	83
+绕组成本	rao zu cheng ben	47
+绕组电阻	rao zu dian zu	64
+绕组数据	rao zu shu ju	81
+绕组系数	rao zu xi shu	60
+绕组型式	rao zu xing shi	73
+绕组种类	rao zu zhong lei	78
+绕组总线重	rao zu zong xian zhong	54
+热负荷	re fu he	11
+三相异步	san xiang yi bu	153
+上部宽度	shang bu kuan du	111
+设计总成本	she ji zong cheng ben	44
+输出功率	shu chu gong lv	24
+输出扭矩	shu chu niu ju	23
+数据	shu ju	125
+输入电流	shu ru dian liu	26
+输入功率	shu ru gong lv	25
+损耗曲线	sun hao qu xian	94
+铁损耗	tie sun hao	4
+铁芯成本	tie xin cheng ben	45
+铁芯叠厚	tie xin die hou	99
+铁芯叠压系数	tie xin die ya xi shu	98
+铁芯废料	tie xin fei liao	49
+铁芯价格	tie xin jia ge	96
+铁芯毛重	tie xin mao zhong	52
+铁芯密度	tie xin mi du	97
+铁芯有效长度	tie xin you xiao chang du	82
+铜耗	tong hao	7
+相间夹角	xiang jian jia jiao	76
+效率	xiao lv	143
+斜槽宽度	xie cao kuan du	109
+有效材料净重	you xiao cai liao jing zhong	48
+圆底槽	yuan di cao	133
+运转电容	yun zhuan dian rong	62
+匝比	za bi	59
+直径	zhi jing	69
+中间绕组	zhong jian rao zu	58
+铸铝	zhu lv	107
+主绕组	zhu rao zu	68
+主绕组铜重	zhu rao zu tong zhong	56
+主绕组系数	zhu rao zu xi shu	65
+主线	zhu xian	74
+主线电密	zhu xian dian mi	17
+主相电流	zhu xiang dian liu	21
+主相电流角	zhu xiang dian liu jiao	20
+主相数据	zhu xiang shu ju	75
+转速	zhuan su	22
+转子槽数	zhuan zi cao shu	122
+转子槽形	zhuan zi cao xing	121
+转子齿长	zhuan zi chi chang	118
+转子齿磁密	zhuan zi chi ci mi	36
+转子齿距	zhuan zi chi ju	84
+转子齿宽	zhuan zi chi kuan	119
+转子冲片	zhuan zi chong pian	126
+转子电阻系数	zhuan zi dian zu xi shu	110
+转子端环	zhuan zi duan huan	115
+转子轭长	zhuan zi e chang	116
+转子轭磁密	zhuan zi e ci mi	35
+转子轭高	zhuan zi e gao	117
+转子净重	zhuan zi jing zhong	50
+转子铝成本	zhuan zi lv cheng ben	46
+转子铝重	zhuan zi lv zhong	53
+转子内径	zhuan zi nei jing	123
+转子铁损系数	zhuan zi tie sun xi shu	89
+总损耗	zong sun hao	1

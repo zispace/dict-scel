@@ -1,0 +1,87 @@
+# 文件名：矿山安全隐患信息分析.scel
+# 词库名：矿山安全隐患信息分析
+# 词库分类：矿业勘探
+# 词库描述：
+# 词条样例：维修 冲帮 下井 放炮 升井 洒水
+# 词条数量：80
+
+安全标志	an quan biao zhi	16
+安全带	an quan dai	1
+变压器	bian ya qi	44
+残药	can yao	42
+铲运机	chan yun ji	53
+超速	chao su	5
+超员	chao yuan	15
+超载	chao zai	17
+冲帮	chong bang	76
+充填	chong tian	70
+出矿	chu kuang	66
+错车	cuo che	67
+戴安全帽	dai an quan mao	19
+导爆管	dao bao guan	52
+电话	dian hua	43
+电机车	dian ji che	51
+电缆	dian lan	48
+吊挂	diao gua	74
+顶板超高	ding ban chao gao	33
+断层	duan ceng	37
+防护措施	fang hu cuo shi	18
+防护栏	fang hu lan	13
+放矿	fang kuang	65
+放炮	fang pao	71
+废石	fei shi	31
+粉尘	fen chen	27
+风带	feng dai	60
+风机	feng ji	58
+浮石	fu shi	40
+工人	gong ren	9
+构造	gou zao	30
+护栏	hu lan	11
+滑面	hua mian	39
+吉普车	ji pu che	50
+积水	ji shui	36
+驾驶	jia shi	69
+驾驶员	jia shi yuan	6
+降尘	jiang chen	79
+节理	jie li	32
+接线	jie xian	75
+掘进	jue jin	78
+卡车	ka che	45
+开关	kai guan	59
+坑洼	keng wa	22
+空气质量	kong qi zhi liang	23
+矿块	kuang kuai	25
+锚杆支护	mao gan zhi hu	80
+灭火器	mie huo qi	57
+排险杆	pai xian gan	4
+配电箱	pei dian xiang	56
+喷浆	pen jiang	62
+启动箱	qi dong xiang	41
+切割	qie ge	61
+洒水	sa shui	64
+升井	sheng jing	68
+水泵	shui beng	49
+水管	shui guan	55
+司机	si ji	14
+碎石	sui shi	21
+探矿	tan kuang	73
+通风	tong feng	34
+危石	wei shi	24
+维修	wei xiu	77
+违章	wei zhang	8
+文明生产	wen ming sheng chan	20
+无人作业	wu ren zuo ye	12
+下井	xia jing	72
+消防	xiao fang	2
+岩石	yan shi	26
+氧气	yang qi	29
+一氧化碳	yi yang hua tan	35
+淤泥	yu ni	28
+杂物	za wu	46
+凿岩	zao yan	63
+炸药	zha yao	54
+炸药箱未上锁	zha yao xiang wei shang suo	7
+照明	zhao ming	38
+照明线	zhao ming xian	47
+自救器	zi jiu qi	3
+钻工	zuan gong	10

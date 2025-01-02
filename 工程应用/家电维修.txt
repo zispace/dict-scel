@@ -1,0 +1,25 @@
+# 文件名：家电维修.scel
+# 词库名：家电维修
+# 词库分类：电子工程
+# 词库描述：
+# 词条样例：遥控开机 低电位 调整总线数值 总线项目 电流值
+# 词条数量：18
+
+测量电流	ce liang dian liu	15
+测量电压	ce liang dian ya	16
+低电位	di dian wei	17
+电流值	dian liu zhi	12
+电位差	dian wei cha	14
+电压值	dian ya zhi	13
+电源电压值	dian yuan dian ya zhi	5
+电源总电流	dian yuan zong dian liu	6
+二次开机	er ci kai ji	4
+高电位	gao dian wei	18
+行输出级电流	hang shu chu ji dian liu	7
+调整总线数值	tiao zheng zong xian shu zhi	8
+遥控关机	yao kong guan ji	2
+遥控开机	yao kong kai ji	3
+总线控制电压	zong xian kong zhi dian ya	1
+总线数据	zong xian shu ju	10
+总线调整	zong xian tiao zheng	11
+总线项目	zong xian xiang mu	9

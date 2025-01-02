@@ -1,0 +1,353 @@
+# 文件名：阿牛电力电气.scel
+# 词库名：阿牛电力电气
+# 词库分类：电力电气
+# 词库描述：
+# 词条样例：过励磁保护 距离保护 发电机 差动保护 电力系统
+# 词条数量：346
+
+八进制	ba jin zhi	5
+保险丝	bao xian si	18
+被试品	bei shi pin	266
+备用容量	bei yong rong liang	95
+避雷器	bi lei qi	259
+避雷线	bi lei xian	49
+变比	bian bi	67
+变电站	bian dian zhan	262
+表面击穿	biao mian ji chuan	163
+并联电抗器	bing lian dian kang qi	104
+玻璃绝缘子	bo li jue yuan zi	240
+波头尾	bo tou wei	151
+波头尾电阻	bo tou wei dian zu	241
+波阻抗	bo zu kang	281
+不间断电源	bu jian duan dian yuan	66
+不均匀场	bu jun yun chang	218
+残余电容	can yu dian rong	173
+操动机构	cao dong ji gou	59
+操作过电压	cao zuo guo dian ya	159
+测量互感器	ce liang hu gan qi	126
+差动保护	cha dong bao hu	340
+常规试验	chang gui shi yan	175
+场畸变	chang ji bian	158
+场强	chang qiang	162
+场梯度	chang ti du	156
+场致发射	chang zhi fa she	154
+超高压	chao gao ya	101
+潮流	chao liu	109
+潮湿	chao shi	14
+充电阻尼电阻	chong dian zu ni dian zu	236
+重合闸	chong he zha	120
+冲击电流	chong ji dian liu	222
+冲击闪络	chong ji shan luo	220
+充油电力电缆	chong you dian li dian lan	254
+抽水蓄能电站	chou shui xu neng dian zhan	84
+触发电极	chu fa dian ji	230
+出线	chu xian	34
+串并联补偿	chuan bing lian bu chang	115
+串级变压器	chuan ji bian ya qi	270
+传输线	chuan shu xian	251
+磁场	ci chang	206
+伺服系统	ci fu xi tong	144
+单母线	dan mu xian	50
+单母线带旁路	dan mu xian dai pang lu	105
+导线	dao xian	272
+倒闸操作	dao zha cao zuo	36
+第三绕组	di san rao zu	129
+地下电缆	di xia dian lan	136
+电场	dian chang	174
+电场力	dian chang li	160
+电场强度	dian chang qiang du	100
+电磁兼容	dian ci jian rong	26
+电动机	dian dong ji	296
+电负性气体	dian fu xing qi ti	168
+电感	dian gan	86
+电工理论	dian gong li lun	308
+电弧重燃	dian hu chong ran	113
+电弧放电	dian hu fang dian	209
+电化学腐蚀	dian hua xue fu shi	172
+电机	dian ji	309
+电击穿	dian ji chuan	201
+电介质绝缘体	dian jie zhi jue yuan ti	186
+电抗	dian kang	83
+电抗的无功的	dian kang de wu gong de	80
+电抗器	dian kang qi	82
+电力	dian li	346
+电力变压器	dian li bian ya qi	290
+电力电容	dian li dian rong	183
+电力电子	dian li dian zi	310
+电力网络	dian li wang luo	221
+电力系统	dian li xi tong	344
+电力系统仿真	dian li xi tong fang zhen	311
+电力系统稳态分析	dian li xi tong wen tai fen xi	312
+电力系统暂态分析	dian li xi tong zan tai fen xi	313
+电力线载波	dian li xian zai bo	69
+电流	dian liu	324
+电流表	dian liu biao	287
+电流互感器	dian liu hu gan qi	271
+电路原理	dian lu yuan li	224
+电气工程师学会	dian qi gong cheng shi xue hui	23
+电容	dian rong	85
+电容器组	dian rong qi zu	98
+电枢	dian shu	141
+电刷	dian shua	139
+电压	dian ya	325
+电压并列	dian ya bing lie	327
+电压互感器	dian ya hu gan qi	273
+电晕	dian yun	194
+电子崩	dian zi beng	170
+调度员	diao du yuan	29
+定子	ding zi	294
+动触头	dong chu tou	303
+动势能	dong shi neng	87
+动态稳定性	dong tai wen ding xing	316
+断电	duan dian	138
+短路比	duan lu bi	73
+短路故障	duan lu gu zhang	343
+断路器	duan lu qi	282
+短路试验	duan lu shi yan	169
+对地电容	dui di dian rong	285
+多级变压器	duo ji bian ya qi	286
+多油断路器	duo you duan lu qi	280
+额定	e ding	20
+二进制	er jin zhi	6
+发电机	fa dian ji	341
+发光二极管	fa guang er ji guan	52
+反电势	fan dian shi	135
+反向峰值电压	fan xiang feng zhi dian ya	193
+放电	fang dian	188
+非破坏性试验	fei po huai xing shi yan	198
+分接头	fen jie tou	64
+分时电价	fen shi dian jia	63
+分相操作	fen xiang cao zuo	53
+分压器	fen ya qi	283
+分压器分压比	fen ya qi fen ya bi	178
+峰荷	feng he	110
+峰值电压表	feng zhi dian ya biao	274
+负离子	fu li zi	200
+复压过流保护	fu ya guo liu bao hu	338
+附着系数	fu zhuo xi shu	207
+感应	gan ying	72
+钢芯铝绞线	gang xin lv jiao xian	237
+高电压工程	gao dian ya gong cheng	229
+高电压试验技术	gao dian ya shi yan ji shu	227
+隔离开关	ge li kai guan	269
+功率	gong lv	323
+功率因数	gong lv yin shu	147
+工频突变量保护	gong pin tu bian liang bao hu	328
+工频续流	gong pin xu liu	37
+固定可动叶片	gu ding ke dong ye pian	91
+光电发射	guang dian fa she	191
+光纤纵差	guang xian zong cha	334
+光子	guang zi	189
+硅橡胶	gui xiang jiao	45
+过电压	guo dian ya	217
+国际标准化组织	guo ji biao zhun hua zu zhi	25
+过激磁保护	guo ji ci bao hu	336
+国际电工技术委员会	guo ji dian gong ji shu wei yuan hui	24
+过励磁保护	guo li ci bao hu	337
+过流保护	guo liu bao hu	339
+锅炉	guo lu	142
+过热器	guo re qi	112
+合成绝缘子	he cheng jue yuan zi	43
+核电站	he dian zhan	256
+护环	hu huan	77
+滑环	hua huan	76
+换流器	huan liu qi	41
+换流站	huan liu zhan	239
+环网系统	huan wang xi tong	134
+换向器	huan xiang qi	137
+环氧树脂	huan yang shu zhi	166
+恢复电压	hui fu dian ya	62
+辉光放电	hui guang fang dian	228
+火电厂	huo dian chang	94
+火力发电站	huo li fa dian zhan	258
+集尘室	ji chen shi	93
+集成电路	ji cheng dian lu	48
+激磁绕组	ji ci rao zu	232
+继电保护	ji dian bao hu	345
+继电器	ji dian qi	248
+继电器屏	ji dian qi ping	131
+集肤效应	ji fu xiao ying	102
+极性效应	ji xing xiao ying	185
+架空线	jia kong xian	253
+检测阻抗	jian ce zu kang	264
+监控与数据采集	jian kong yu shu ju cai ji	27
+交联聚乙烯电缆	jiao lian ju yi xi dian lan	61
+交链聚乙烯电缆	jiao lian ju yi xi dian lan	250
+交流电	jiao liu dian	213
+交流输电系统	jiao liu shu dian xi tong	211
+校准	jiao zhun	21
+接地	jie di	176
+接地开关	jie di kai guan	267
+接地线	jie di xian	233
+解析的	jie xi de	13
+接线端子	jie xian duan zi	19
+介质常数	jie zhi chang shu	184
+介质损耗	jie zhi sun hao	182
+进相运行	jin xiang yun xing	319
+静触头	jing chu tou	301
+静电电压表	jing dian dian ya biao	289
+静态稳定性	jing tai wen ding xing	317
+静止无功补偿	jing zhi wu gong bu chang	30
+局部放电	ju bu fang dian	195
+距离保护	ju li bao hu	333
+巨型水轮发电机	ju xing shui lun fa dian ji	314
+局域网	ju yu wang	54
+绝缘	jue yuan	219
+绝缘配合	jue yuan pei he	216
+绝缘子	jue yuan zi	261
+均方根值	jun fang gen zhi	60
+均压环	jun ya huan	231
+均匀场	jun yun chang	153
+刻度量程	ke du liang cheng	22
+空间电荷	kong jian dian he	167
+空穴腔	kong xue qiang	196
+快速傅立叶变换	kuai su fu li ye bian huan	46
+馈线	kui xian	103
+老化	lao hua	215
+雷电波	lei dian bo	212
+雷电过电压	lei dian guo dian ya	210
+雷电计数器	lei dian ji shu qi	238
+励磁系统	li ci xi tong	318
+励磁涌流	li ci yong liu	335
+力矩	li ju	146
+临界击穿电压	lin jie ji chuan dian ya	190
+灵活交流输电系统	ling huo jiao liu shu dian xi tong	28
+零序电流	ling xu dian liu	117
+流注击穿	liu zhu ji chuan	165
+漏磁通	lou ci tong	121
+裸导线	luo dao xian	122
+罗可夫斯基线圈	luo ke fu si ji xian quan	277
+灭弧间隙	mie hu jian xi	164
+灭弧室	mie hu shi	299
+民用电	min yong dian	97
+铭牌	ming pai	55
+磨煤机	mo mei ji	116
+母联断路器	mu lian duan lu qi	38
+母线	mu xian	255
+耐受电压	nai shou dian ya	149
+耐压试验	nai ya shi yan	31
+内部放电	nei bu fang dian	214
+内燃机	nei ran ji	140
+逆变器	ni bian qi	40
+耦合电容	ou he dian rong	268
+爬电距离	pa dian ju li	47
+配电调度中心	pei dian diao du zhong xin	118
+配电盘	pei dian pan	128
+配电网自动化系统	pei dian wang zi dong hua xi tong	145
+配电系统	pei dian xi tong	132
+频域	pin yu	9
+屏蔽	ping bi	171
+平均分子速度	ping jun fen zi su du	202
+平均自由行程	ping jun zi you xing cheng	204
+汽包	qi bao	114
+气动液压	qi dong ye ya	57
+汽轮发电机	qi lun fa dian ji	306
+汽轮机	qi lun ji	300
+气泡击穿	qi pao ji chuan	199
+气体绝缘	qi ti jue yuan	150
+气体绝缘变电站	qi ti jue yuan bian dian zhan	307
+轻水反应堆	qing shui fan ying dui	81
+球隙	qiu xi	293
+燃气轮机	ran qi lun ji	92
+绕组	rao zu	245
+绕组差动保护	rao zu cha dong bao hu	330
+热击穿	re ji chuan	157
+熔丝	rong si	17
+闪络	shan luo	152
+稍不均匀场	shao bu jun yun chang	181
+少油断路器	shao you duan lu qi	278
+设备额定值	she bei e ding zhi	177
+射频	she pin	58
+升降压变压器	sheng jiang ya bian ya qi	284
+示波器	shi bo qi	275
+湿度	shi du	16
+十进制	shi jin zhi	3
+失灵	shi ling	51
+十六进制	shi liu jin zhi	1
+实时电价	shi shi dian jia	65
+时域	shi yu	7
+视在功率	shi zai gong lv	320
+树枝放电	shu zhi fang dian	155
+数字的	shu zi de	11
+数字信号处理	shu zi xin hao chu li	223
+甩负荷	shuai fu he	42
+衰减系数	shuai jian xi shu	205
+水力发电站	shui li fa dian zhan	260
+水轮发电机	shui lun fa dian ji	304
+水轮机	shui lun ji	302
+碎煤机	sui mei ji	96
+损耗角	sun hao jiao	208
+碳化硅	tan hua gui	35
+炭刷	tan shua	75
+陶瓷绝缘子	tao ci jue yuan zi	242
+套管	tao guan	243
+套管末屏接地线	tao guan mo ping jie di xian	291
+特高压	te gao ya	99
+调幅	tiao fu	10
+调频	tiao pin	8
+调谐电路	tiao xie dian lu	246
+调压变压器	tiao ya bian ya qi	288
+跳闸电路	tiao zha dian lu	130
+跳闸线圈	tiao zha xian quan	107
+铁损	tie sun	123
+铁芯	tie xin	247
+同步发电机	tong bu fa dian ji	265
+同步调相机	tong bu tiao xiang ji	106
+铜损	tong sun	125
+同轴电缆	tong zhou dian lan	249
+凸极	tu ji	78
+退磁	tui ci	133
+涡流	wo liu	127
+无功功率	wu gong gong lv	321
+无线干扰	wu xian gan rao	179
+无源滤波器	wu yuan lv bo qi	2
+西林电桥	xi lin dian qiao	279
+线电压	xian dian ya	187
+线路保护	xian lu bao hu	342
+线路限波器	xian lu xian bo qi	68
+线路走廊	xian lu zou lang	90
+箱体	xiang ti	235
+相位超前滞后	xiang wei chao qian zhi hou	32
+相移	xiang yi	79
+消弧线圈	xiao hu xian quan	74
+小扰动分析法	xiao rao dong fen xi fa	315
+谐波	xie bo	226
+谐振	xie zhen	15
+星角变换	xing jiao bian huan	326
+悬式绝缘子	xuan shi jue yuan zi	244
+氧化锌	yang hua xin	33
+氧化锌避雷器	yang hua xin bi lei qi	257
+阳极阴极	yang ji yin ji	203
+遥测	yao ce	44
+异步电机	yi bu dian ji	263
+移相器	yi xiang qi	71
+阴极射线示波器	yin ji she xian shi bo qi	197
+有功功率	you gong gong lv	322
+油浸纸绝缘	you jin zhi jue yuan	124
+有源滤波器	you yuan lv bo qi	4
+原动机	yuan dong ji	148
+运算放大器	yun suan fang da qi	12
+杂散电感	za san dian gan	295
+杂散电容	za san dian rong	297
+增量差动保护	zeng liang cha dong bao hu	329
+针板间隙	zhen ban jian xi	234
+真空断路器	zhen kong duan lu qi	276
+整流器	zheng liu qi	88
+直流保护保护	zhi liu bao hu bao hu	331
+直流电	zhi liu dian	180
+直流发电机	zhi liu fa dian ji	298
+支线	zhi xian	39
+中性点	zhong xing dian	305
+主网变电站	zhu wang bian dian zhan	108
+转分	zhuan fen	56
+转轴	zhuan zhou	89
+转子	zhuan zi	292
+自持放电	zi chi fang dian	161
+自动抄表	zi dong chao biao	143
+自动控制	zi dong kong zhi	225
+自动录波仪	zi dong lu bo yi	111
+自耦变压器	zi ou bian ya qi	119
+自藕变压器	zi ou bian ya qi	70
+组合绝缘	zu he jue yuan	192
+阻抗保护	zu kang bao hu	332
+阻容混合分压器	zu rong hun he fen ya qi	252

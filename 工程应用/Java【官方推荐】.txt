@@ -1,0 +1,328 @@
+# 文件名：Java【官方推荐】.scel
+# 词库名：Java【官方推荐】
+# 词库分类：计算机
+# 词库描述：
+# 词条样例：编译器 源文件 分布式系统 程序包 单目运算符 比较运算符
+# 词条数量：321
+
+按扭	an niu	45
+按扭组单选	an niu zu dan xuan	40
+安全性	an quan xing	298
+按下键盘	an xia jian pan	18
+按下鼠标事件	an xia shu biao shi jian	10
+包含类的一个包	bao han lei de yi ge bao	220
+本地主机	ben di zhu ji	137
+比较两个字符串	bi jiao liang ge zi fu chuan	73
+比较运算符	bi jiao yun suan fu	303
+编程工具	bian cheng gong ju	290
+编程环境	bian cheng huan jing	291
+编程开发	bian cheng kai fa	292
+编程语言	bian cheng yu yan	234
+边界布局	bian jie bu ju	50
+便携性	bian xie xing	199
+编译	bian yi	255
+编译器	bian yi qi	321
+编译执行	bian yi zhi xing	309
+表格	biao ge	24
+标记方法不返回任何值	biao ji fang fa bu fan hui ren he zhi	214
+标签	biao qian	44
+标志非永久性的数据	biao zhi fei yong jiu xing de shu ju	216
+布尔类型	bu er lei xing	314
+布尔型	bu er xing	167
+捕获	bu huo	177
+捕获异常的代码块	bu huo yi chang de dai ma kuai	215
+布局	bu ju	52
+菜单工具栏	cai dan gong ju lan	34
+菜单项	cai dan xiang	33
+插入图标	cha ru tu biao	82
+查找指定下标所对应的字符	cha zhao zhi ding xia biao suo dui ying de zi fu	75
+长整型	chang zheng xing	170
+超类对象	chao lei dui xiang	219
+撤消	che xiao	1
+撤消监听器	che xiao jian ting qi	3
+撤消事件	che xiao shi jian	2
+程序包	cheng xu bao	306
+程序编写时常用的单词	cheng xu bian xie shi chang yong de dan ci	182
+程序举例	cheng xu ju li	283
+程序开发	cheng xu kai fa	253
+程序员	cheng xu yuan	198
+程序运行的标准环境	cheng xu yun xing de biao zhun huan jing	270
+重绘	chong hui	66
+重新添加下拉框内容	chong xin tian jia xia la kuang nei rong	64
+抽象	chou xiang	160
+抽象窗口工具集	chou xiang chuang kou gong ju ji	259
+抽象类或方法	chou xiang lei huo fang fa	230
+触发器	chu fa qi	131
+处理输入输出的类	chu li shu ru shu chu de lei	258
+创建标题边框	chuang jian biao ti bian kuang	88
+窗口在最顶端内填	chuang kou zai zui ding duan nei tian	109
+窗体	chuang ti	122
+窗体初始位置	chuang ti chu shi wei zhi	117
+窗体大小	chuang ti da xiao	118
+存储过程	cun chu guo cheng	130
+存放数据	cun fang shu ju	123
+打破	da po	150
+大数据技术	da shu ju ji shu	201
+代码分析	dai ma fen xi	310
+代码自动提示	dai ma zi dong ti shi	264
+单精度浮点数类型	dan jing du fu dian shu lei xing	229
+单精度浮点型	dan jing du fu dian xing	169
+单目运算符	dan mu yun suan fu	304
+单选按扭	dan xuan an niu	39
+单选按钮菜单工具栏	dan xuan an niu cai dan gong ju lan	30
+当前对象引用	dang qian dui xiang yin yong	180
+导入一个包	dao ru yi ge bao	225
+点击键盘	dian ji jian pan	16
+调用类	diao yong lei	232
+定位游标	ding wei you biao	125
+定义一个类实现的接口	ding yi yi ge lei shi xian de jie kou	226
+动态存储分配	dong tai cun chu fen pei	249
+动态性	dong tai xing	295
+动作事件	dong zuo shi jian	22
+动作演示	dong zuo yan shi	21
+短整型	duan zheng xing	172
+多继承特征	duo ji cheng te zheng	261
+多线程	duo xian cheng	296
+多线程编程	duo xian cheng bian cheng	191
+多线索性	duo xian suo xing	240
+多线索语言	duo xian suo yu yan	239
+多选按扭	duo xuan an niu	38
+多选按钮菜单工具栏	duo xuan an niu cai dan gong ju lan	31
+发展历程	fa zhan li cheng	293
+发展前景	fa zhan qian jing	277
+返回字符串	fan hui zi fu chuan	83
+返回字符串长度	fan hui zi fu chuan chang du	74
+反射机制	fan she ji zhi	189
+泛型	fan xing	193
+访问控制修饰符	fang wen kong zhi xiu shi fu	165
+防御恶意代码	fang yu e yi dai ma	246
+分布式	fen bu shi	300
+分布式系统	fen bu shi xi tong	307
+分割线	fen ge xian	176
+分割字符串	fen ge zi fu chuan	70
+分配新的类实例	fen pei xin de lei shi li	222
+封装方式	feng zhuang fang shi	203
+否则	fou ze	156
+父类对象引用	fu lei dui xiang yin yong	179
+复制	fu zhi	185
+赋值运算符	fu zhi yun suan fu	212
+改变数值	gai bian shu zhi	105
+概念图	gai nian tu	275
+高频交易的空间	gao pin jiao yi de kong jian	200
+高性能	gao xing neng	243
+工程	gong cheng	187
+公共的保护的	gong gong de bao hu de	163
+贡献及影响力	gong xian ji ying xiang li	276
+公有的	gong you de	164
+工作原理	gong zuo yuan li	288
+工作原理编辑	gong zuo yuan li bian ji	235
+构造函数	gou zao han shu	218
+关闭	guan bi	139
+关闭按扭起作用	guan bi an niu qi zuo yong	114
+关键字	guan jian zi	285
+滚动面板	gun dong mian ban	29
+核心类库	he xin lei ku	272
+画笔	hua bi	55
+画矩形	hua ju xing	58
+画椭圆	hua tuo yuan	60
+画线	hua xian	61
+恢复线程	hui fu xian cheng	53
+获得编辑	huo de bian ji	90
+获得标签	huo de biao qian	78
+获得窗体的内部窗格	huo de chuang ti de nei bu chuang ge	112
+获得当前的行号	huo de dang qian de hang hao	126
+获得当前正在运行的线程	huo de dang qian zheng zai yun xing de xian cheng	56
+获得动作命令	huo de dong zuo ming ling	81
+获得键盘码	huo de jian pan ma	80
+获得焦点	huo de jiao dian	104
+获得数据	huo de shu ju	147
+获得所敲击的键盘	huo de suo qiao ji de jian pan	97
+获得所选	huo de suo xuan	76
+获得文本域内容	huo de wen ben yu nei rong	101
+获得文件	huo de wen jian	95
+获得下拉框所选择的内容	huo de xia la kuang suo xuan ze de nei rong	65
+获得选中的值	huo de xuan zhong de zhi	84
+基本数据结构	ji ben shu ju jie gou	286
+基本语法结构	ji ben yu fa jie gou	196
+继承接口	ji cheng jie kou	178
+集成开发环境	ji cheng kai fa huan jing	265
+集合框架体系	ji he kuang jia ti xi	194
+机器码	ji qi ma	313
+技术应用	ji shu ying yong	280
+技术应用编辑	ji shu ying yong bian ji	204
+继续	ji xu	151
+加载数据库驱动程序	jia zai shu ju ku qu dong cheng xu	143
+简单性	jian dan xing	301
+监督程序	jian du cheng xu	237
+建立路径	jian li lu jing	184
+键盘监听器	jian pan jian ting qi	20
+键盘事件	jian pan shi jian	19
+键盘事件右箭头	jian pan shi jian you jian tou	79
+监听器	jian ting qi	23
+简易日期格式	jian yi ri qi ge shi	93
+健壮性	jian zhuang xing	299
+解除分配的有害错误	jie chu fen pei de you hai cuo wu	248
+接口	jie kou	224
+解释程序	jie shi cheng xu	312
+解释性	jie shi xing	254
+进度条	jin du tiao	26
+居中	ju zhong	115
+开发包	kai fa bao	274
+开发环境	kai fa huan jing	268
+开发员	kai fa yuan	197
+开放源代码	kai fang yuan dai ma	267
+开放源码	kai fang yuan ma	317
+开关	kai guan	155
+可捕获的	ke bu huo de	145
+可扩展开发平台	ke kuo zhan kai fa ping tai	266
+可移植性	ke yi zhi xing	244
+控制数据库常用	kong zhi shu ju ku chang yong	144
+扩展集合	kuo zhan ji he	260
+类没有被找到异常	lei mei you bei zhao dao yi chang	133
+类文件格式	lei wen jian ge shi	319
+类修饰符	lei xiu shi fu	161
+流式布局	liu shi bu ju	51
+流体系	liu ti xi	192
+逻辑非	luo ji fei	206
+逻辑关键字	luo ji guan jian zi	158
+逻辑或	luo ji huo	207
+逻辑与	luo ji yu	208
+逻辑运算符	luo ji yun suan fu	302
+密码域	mi ma yu	41
+面板	mian ban	46
+面向对象特征	mian xiang dui xiang te zheng	195
+默认	mo ren	153
+默认的表模型	mo ren de biao mo xing	25
+嵌入式领域	qian ru shi ling yu	202
+嵌入式系统	qian ru shi xi tong	305
+敲击键盘	qiao ji jian pan	98
+清空表模型	qing kong biao mo xing	67
+去除窗体边框	qu chu chuang ti bian kuang	57
+驱动管理器	qu dong guan li qi	138
+全编译性语言快	quan bian yi xing yu yan kuai	242
+全选	quan xuan	103
+确定点鼠标击右键	que ding dian shu biao ji you jian	85
+容器	rong qi	47
+如果	ru guo	157
+商业化软件	shang ye hua ruan jian	263
+设置背景颜色	she zhi bei jing yan se	111
+设置边框	she zhi bian kuang	89
+设置标签	she zhi biao qian	77
+设置标题	she zhi biao ti	119
+设置行距	she zhi hang ju	92
+设置画笔颜色	she zhi hua bi yan se	63
+设置加速器	she zhi jia su qi	99
+设置控件是否可用内填	she zhi kong jian shi fou ke yong nei tian	100
+设置视窗是否隐藏内填	she zhi shi chuang shi fou yin cang nei tian	87
+设置是否能最大化内填	she zhi shi fou neng zui da hua nei tian	110
+设置文本域内容	she zhi wen ben yu nei rong	102
+设置指针	she zhi zhi zhen	86
+释放键盘	shi fang jian pan	17
+释放鼠标事件	shi fang shu biao shi jian	9
+事件	shi jian	154
+视图	shi tu	132
+鼠标单击事件	shu biao dan ji shi jian	13
+鼠标监听器	shu biao jian ting qi	15
+鼠标离开事件	shu biao li kai shi jian	11
+鼠标事件	shu biao shi jian	14
+鼠标移入事件	shu biao yi ru shi jian	12
+数据库操纵对象	shu ju ku cao zong dui xiang	141
+数据库结果集对象	shu ju ku jie guo ji dui xiang	140
+数据库连接对象	shu ju ku lian jie dui xiang	142
+数据库异常	shu ju ku yi chang	134
+数据类型	shu ju lei xing	315
+输入事件	shu ru shi jian	96
+数组集合	shu zu ji he	149
+双精度浮点型	shuang jing du fu dian xing	168
+私有的	si you de	162
+算术运算符	suan shu yun suan fu	211
+台独立与可移植性	tai du li yu ke yi zhi xing	297
+弹出菜单	tan chu cai dan	27
+弹出对话框	tan chu dui hua kuang	107
+替换	ti huan	69
+填充椭圆	tian chong tuo yuan	59
+添加编辑	tian jia bian ji	91
+添加撤销监听器	tian jia che xiao jian ting qi	94
+添加数据	tian jia shu ju	148
+添加一条记录	tian jia yi tiao ji lu	68
+条件变量风范	tiao jian bian liang feng fan	236
+同步原语	tong bu yuan yu	238
+图片	tu pian	35
+图片标签	tu pian biao qian	113
+拖拽鼠标	tuo zhuai shu biao	8
+网格部局	wang ge bu ju	49
+网络连接	wang luo lian jie	256
+网络通信编程	wang luo tong xin bian cheng	190
+文本面板	wen ben mian ban	28
+文本区	wen ben qu	42
+文本域单行的文本框	wen ben yu dan xing de wen ben kuang	43
+稳健性	wen jian xing	252
+无用单元收集	wu yong dan yuan shou ji	251
+下拉框	xia la kuang	37
+下拉列表	xia la lie biao	36
+下拉列表监听器	xia la lie biao jian ting qi	6
+下拉列表选择事件	xia la lie biao xuan ze shi jian	5
+线程	xian cheng	146
+线程挂起	xian cheng gua qi	54
+显示窗体	xian shi chuang ti	116
+小程序	xiao cheng xu	273
+虚拟机	xu ni ji	318
+需掌握的单词	xu zhang wo de dan ci	183
+选择记忆	xuan ze ji yi	48
+选择语句	xuan ze yu ju	217
+学习指南	xue xi zhi nan	279
+循环	xun huan	152
+异常处理	yi chang chu li	247
+移除所有	yi chu suo you	129
+移动鼠标	yi dong shu biao	7
+一个空引用	yi ge kong yin yong	221
+一个条件语句	yi ge tiao jian yu ju	227
+一个循环类型	yi ge xun huan lei xing	228
+一种抽象类型	yi zhong chou xiang lei xing	223
+一种循环	yi zhong xun huan	213
+引入加载导入	yin ru jia zai dao ru	186
+英文类型默认值封装类	ying wen lei xing mo ren zhi feng zhuang lei	175
+应用程序	ying yong cheng xu	308
+应用程序接口	ying yong cheng xu jie kou	233
+游标移动到第一条记录	you biao yi dong dao di yi tiao ji lu	128
+游标移动到最后一条记录	you biao yi dong dao zui hou yi tiao ji lu	127
+有选项的面板	you xuan xiang de mian ban	4
+预防存储漏泄	yu fang cun chu lou xie	250
+语言标准	yu yan biao zhun	282
+语言规范	yu yan gui fan	281
+语言基础	yu yan ji chu	287
+语言基础编辑	yu yan ji chu bian ji	231
+语言基础参考资料来源	yu yan ji chu can kao zi liao lai yuan	205
+语言评价	yu yan ping jia	278
+语言评价编辑	yu yan ping jia bian ji	188
+语言特点	yu yan te dian	289
+语言特点编辑	yu yan te dian bian ji	262
+源文件	yuan wen jian	320
+运算符	yun suan fu	284
+运行环境	yun xing huan jing	269
+运行系统	yun xing xi tong	311
+早晨好画字符串	zao chen hao hua zi fu chuan	62
+展示	zhan shi	120
+整型	zheng xing	171
+支持网络功能的类	zhi chi wang luo gong neng de lei	257
+知道即可	zhi dao ji ke	121
+执行更新	zhi xing geng xin	135
+执行命令	zhi xing ming ling	136
+中央处理器	zhong yang chu li qi	241
+转为大写	zhuan wei da xie	72
+转为小写	zhuan wei xiao xie	71
+装载的类	zhuang zai de lei	245
+追加	zhui jia	106
+桌面应用程序	zhuo mian ying yong cheng xu	294
+子菜单项	zi cai dan xiang	32
+字符串	zi fu chuan	166
+字符串对象也是一种数据类型	zi fu chuan dui xiang ye shi yi zhong shu ju lei xing	181
+字符型	zi fu xing	173
+子集	zi ji	271
+自减	zi jian	209
+字节码	zi jie ma	316
+字节型	zi jie xing	174
+字体	zi ti	108
+自增	zi zeng	210
+最前	zui qian	124
+最终的	zui zhong de	159

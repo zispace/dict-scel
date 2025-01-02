@@ -1,0 +1,100 @@
+# 文件名：康科自动化.scel
+# 词库名：康科自动化
+# 词库分类：电力电气
+# 词库描述：
+# 词条样例：理料机 整理机 中断 诺安顺 和利时 众和
+# 词条数量：93
+
+按键	an jian	21
+摆臂	bai bi	82
+摆臂控制	bai bi kong zhi	81
+包装机	bao zhuang ji	93
+包装机械	bao zhuang ji xie	87
+变频器	bian pin qi	53
+步进	bu jin	46
+步进电机	bu jin dian ji	41
+步进驱动器	bu jin qu dong qi	44
+测袋长	ce dai chang	38
+称量机	cheng liang ji	73
+齿盘	chi pan	26
+触摸屏	chu mo ping	11
+大线	da xian	24
+大线信号	da xian xin hao	23
+袋长	dai chang	39
+袋速	dai su	29
+等间距	deng jian ju	2
+等间拉距	deng jian la ju	16
+点动	dian dong	51
+电机	dian ji	45
+点凸轮	dian tu lun	36
+东元	dong yuan	65
+反馈脉冲	fan kui mai chong	33
+反追	fan zhui	57
+放大器	fang da qi	47
+分倍频	fen bei pin	32
+分母	fen mu	30
+分子	fen zi	31
+蜂鸣器	feng ming qi	40
+固态继电器	gu tai ji dian qi	55
+挂面称量机	gua mian cheng liang ji	74
+海科佳	hai ke jia	75
+和利时	he li shi	77
+和晟	he sheng	78
+合适等间距	he shi deng jian ju	3
+花色线	hua se xian	15
+机电	ji dian	60
+继电器	ji dian qi	54
+计数	ji shu	27
+计数器	ji shu qi	28
+加速	jia su	92
+检测位置	jian ce wei zhi	7
+间距	jian ju	1
+减速	jian su	91
+精电	jing dian	63
+精确	jing que	19
+康科	kang ke	90
+康科自动化	kang ke zi dong hua	88
+拉距	la ju	17
+理料机	li liao ji	86
+灵敏	ling min	20
+落料器	luo liao qi	25
+膜电机	mo dian ji	35
+诺安顺	nuo an shun	79
+排队	pai dui	6
+皮带机	pi dai ji	84
+漂槽子	piao cao zi	12
+启动	qi dong	52
+切刀反转	qie dao fan zhuan	56
+切刀正传	qie dao zheng zhuan	58
+切料	qie liao	4
+切片线	qie pian xian	14
+驱动器	qu dong qi	49
+人机	ren ji	61
+日清	ri qing	71
+手动	shou dong	70
+输膜辊	shu mo gun	37
+伺服	si fu	48
+伺服电机	si fu dian ji	42
+伺服驱动器	si fu qu dong qi	43
+松下	song xia	62
+速度微调	su du wei tiao	83
+台安	tai an	64
+停止	ting zhi	50
+通讯线	tong xun xian	9
+推料器	tui liao qi	22
+威纶	wei lun	67
+威纶通	wei lun tong	66
+位置检测	wei zhi jian ce	8
+文本显示器	wen ben xian shi qi	10
+信捷	xin jie	68
+盐水槽	yan shui cao	13
+英力特	ying li te	72
+预排对	yu pai dui	5
+整理机	zheng li ji	85
+正追	zheng zhui	59
+制袋器	zhi dai qi	18
+中断	zhong duan	80
+众和	zhong he	76
+主电机	zhu dian ji	34
+自动	zi dong	69
+自动化	zi dong hua	89

@@ -1,0 +1,379 @@
+# 文件名：客运专线铁路.scel
+# 词库名：客运专线铁路
+# 词库分类：交通运输物流
+# 词库描述：
+# 词条样例：司机号 铁路行车操作规则 验收标准 桥规 铁路运用组织规程
+# 词条数量：372
+
+安技科	an ji ke	19
+白灯	bai deng	126
+半自动闭塞	ban zi dong bi se	144
+半自动过分相	ban zi dong guo fen xiang	67
+棒式绝缘子	bang shi jue yuan zi	255
+报单	bao dan	297
+保留	bao liu	15
+保温列车	bao wen lie che	216
+抱闸	bao zha	103
+本务	ben wu	291
+避雷器	bi lei qi	276
+便乘	bian cheng	285
+变压器	bian ya qi	281
+变压器一次引线	bian ya qi yi ci yin xian	273
+编组	bian zu	298
+并沟线夹	bing gou xian jia	272
+补机	bu ji	288
+操规	cao gui	175
+岔线	cha xian	115
+查询	cha xun	342
+柴油机	chai you ji	316
+长轨	chang gui	333
+长轨列车	chang gui lie che	157
+超长列车	chao chang lie che	158
+超规	chao gui	182
+超限车	chao xian che	151
+超限货物列车	chao xian huo wu lie che	218
+超限列车	chao xian lie che	150
+车次	che ci	355
+车队	che dui	80
+车号	che hao	345
+车间	che jian	81
+车库	che ku	77
+车辆	che liang	79
+车辆段	che liang duan	39
+车辆轴温智能探测系统	che liang zhou wen zhi neng tan ce xi tong	82
+车牌	che pai	74
+车票	che piao	78
+车位	che wei	344
+车务段	che wu duan	42
+车型	che xing	76
+车载	che zai	75
+车站	che zhan	73
+车站行车工作细则	che zhan xing che gong zuo xi ze	166
+车站值班员	che zhan zhi ban yuan	29
+城际动车组旅客列车	cheng ji dong che zu lv ke lie che	96
+承力索	cheng li suo	250
+乘务科	cheng wu ke	18
+持续一定时间的试验	chi xu yi ding shi jian de shi yan	160
+重联	chong lian	292
+重载货物列车	chong zai huo wu lie che	217
+磁场削弱	ci chang xue ruo	320
+大货	da huo	37
+大型养路机械	da xing yang lu ji xie	156
+单班司机	dan ban si ji	89
+单操	dan cao	24
+单机	dan ji	289
+单锁	dan suo	23
+单线	dan xian	119
+道岔	dao cha	337
+道岔勾锁器	dao cha gou suo qi	83
+道口	dao kou	313
+导线	dao xian	277
+道渣	dao zha	336
+电杆	dian gan	264
+电话闭塞	dian hua bi se	200
+电缆头	dian lan tou	266
+电力机车	dian li ji che	243
+电力线路设备	dian li xian lu she bei	282
+电气化区段	dian qi hua qu duan	134
+电务段	dian wu duan	41
+调车	diao che	338
+调车机	diao che ji	31
+调车作业	diao che zuo ye	188
+调车作业通知书	diao che zuo ye tong zhi shu	135
+调度机	diao du ji	32
+调度命令	diao du ming ling	196
+调度所	diao du suo	20
+定标	ding biao	343
+定位	ding wei	26
+定位单操锁闭	ding wei dan cao suo bi	22
+定位管	ding wei guan	252
+定位环	ding wei huan	257
+定位器	ding wei qi	251
+动车组	dong che zu	98
+动车组检测车	dong che zu jian ce che	242
+动车组旅客列车	dong che zu lv ke lie che	95
+动触头	dong chu tou	269
+段管理工作细则	duan guan li gong zuo xi ze	165
+段管线	duan guan xian	114
+段细	duan xi	178
+对斥离尖轨道岔	dui chi li jian gui dao cha	86
+吨位	dun wei	287
+发车	fa che	190
+发车进路	fa che jin lu	132
+发电车	fa dian che	154
+反位	fan wei	25
+防风支柱	fang feng zhi zhu	253
+封锁区间	feng suo qu jian	116
+副班司机	fu ban si ji	91
+附挂	fu gua	290
+辅助线	fu zhu xian	275
+钢轨	gang gui	283
+钢轨肥边切削车	gang gui fei bian qie xiao che	149
+钢轨重视	gang gui zhong shi	9
+高速列车	gao su lie che	56
+高速铁路动车组旅客列车	gao su tie lu dong che zu lv ke lie che	97
+高铁	gao tie	48
+高压横担	gao ya heng dan	274
+高压接线柱	gao ya jie xian zhu	280
+高压悬瓶	gao ya xuan ping	270
+高压引下线	gao ya yin xia xian	271
+高压针瓶	gao ya zhen ping	278
+隔开设备	ge kai she bei	131
+隔离开关	ge li kai guan	268
+隔离开关托架	ge li kai guan tuo jia	267
+跟踪出站调车	gen zong chu zhan diao che	139
+工程局	gong cheng ju	45
+供电车	gong dian che	246
+供电段	gong dian duan	38
+工况	gong kuang	321
+工务段	gong wu duan	40
+关门车	guan men che	159
+管内列车	guan nei lie che	53
+管重	guan zhong	14
+轨道车	gui dao che	247
+轨道电路	gui dao dian lu	108
+轨缝	gui feng	334
+轨距	gui ju	335
+轨排车	gui pai che	152
+过分相	guo fen xiang	309
+行规	hang gui	185
+红灯	hong deng	128
+红色许可证	hong se xu ke zheng	194
+换长	huan chang	293
+缓解	huan jie	348
+晃车	huang che	2
+黄灯	huang deng	127
+黄闪灯	huang shan deng	60
+回流线臂架	hui liu xian bi jia	248
+货车单机	huo che dan ji	208
+货规	huo gui	180
+货物列车	huo wu lie che	229
+货物线	huo wu xian	111
+货运票据	huo yun piao ju	137
+货运五定班列	huo yun wu ding ban lie	228
+基本闭塞法	ji ben bi se fa	199
+挤岔	ji cha	106
+计长	ji chang	356
+机车操作规程	ji che cao zuo gui cheng	169
+技术直达列车	ji shu zhi da lie che	222
+机外停车	ji wai ting che	143
+机务段	ji wu duan	43
+机械师	ji xie shi	87
+简略试验	jian lue shi yan	162
+降级	jiang ji	331
+交分道岔	jiao fen dao cha	84
+接车	jie che	191
+接车进路	jie che jin lu	133
+接触导线	jie chu dao xian	249
+接触网设备支柱	jie chu wang she bei zhi zhu	262
+接发列车	jie fa lie che	141
+解锁	jie suo	349
+进路号	jin lu hao	346
+警惕	jing ti	347
+救规	jiu gui	184
+救援列车	jiu yuan lie che	204
+均衡风缸	jun heng feng gang	352
+军用列车	jun yong lie che	213
+客车单机	ke che dan ji	209
+可动心轨	ke dong xin gui	4
+可动心轨道岔	ke dong xin gui dao cha	85
+客列尾装置	ke lie wei zhuang zhi	66
+空车直达列车	kong che zhi da lie che	223
+控制电压	kong zhi dian ya	327
+跨局列车	kua ju lie che	52
+快速货物班列	kuai su huo wu ban lie	35
+快速列车	kuai su lie che	54
+快速旅客列车	kuai su lv ke lie che	238
+快运货物列车	kuai yun huo wu lie che	227
+拉线	la xian	265
+蓝灯	lan deng	125
+励磁电流	li ci dian liu	324
+连杆	lian gan	315
+连挂	lian gua	122
+连接	lian jie	121
+连结	lian jie	120
+辆数	liang shu	357
+列车编组顺序表	lie che bian zu shun xu biao	136
+列车调度员	lie che diao du yuan	30
+列车管	lie che guan	354
+列车时刻表	lie che shi ke biao	187
+列车运行	lie che yun xing	192
+列车长	lie che zhang	294
+列检所	lie jian suo	284
+列尾控制盒	lie wei kong zhi he	304
+列尾装置	lie wei zhuang zhi	305
+临时旅客列车	lin shi lv ke lie che	202
+临时旅游列车	lin shi lv you lie che	203
+临时限速	lin shi xian su	16
+零担列车	ling dan lie che	214
+另克	ling ke	279
+零位	ling wei	328
+零压	ling ya	329
+溜放调车	liu fang diao che	93
+龙门架车	long men jia che	153
+路规	lu gui	368
+路票	lu piao	197
+路用列车	lu yong lie che	210
+轮对	lun dui	314
+绿灯	lv deng	129
+绿黄色灯光	lv huang se deng guang	130
+旅客列车	lv ke lie che	241
+绿色许可证	lv se xu ke zheng	193
+旅游列车	lv you lie che	211
+冒进信号	mao jin xin hao	107
+煤炭直达列车	mei tan zhi da lie che	226
+内燃机车	nei ran ji che	244
+棚代旅客列车	peng dai lv ke lie che	147
+辟相机	pi xiang ji	317
+屏转换	ping zhuan huan	302
+普快	pu kuai	51
+普快货物班列	pu kuai huo wu ban lie	34
+普慢	pu man	50
+普速列车	pu su lie che	57
+普通旅客快车	pu tong lv ke kuai che	236
+普通旅客列车	pu tong lv ke lie che	237
+普通旅客慢车	pu tong lv ke man che	235
+牵引	qian yin	326
+牵引重量	qian yin zhong liang	296
+桥规	qiao gui	369
+桥梁施工技术规范	qiao liang shi gong ji shu gui fan	370
+桥隧车	qiao sui che	155
+轻油动车轨道车	qing you dong che gui dao che	205
+区段号	qu duan hao	360
+区段货物列车	qu duan huo wu lie che	220
+区间	qu jian	70
+区间岔线	qu jian cha xian	69
+全部试验	quan bu shi yan	161
+燃轴	ran zhou	104
+热轴	re zhou	105
+人力制动机紧固器	ren li zhi dong ji jin gu qi	62
+三角坑	san jiao keng	8
+三显示自动闭塞	san xian shi zi dong bi se	146
+设定	she ding	340
+始发直达列车	shi fa zhi da lie che	224
+施工特定行车办法	shi gong te ding xing che ban fa	21
+施工天窗	shi gong tian chuang	28
+事规	shi gui	186
+时间间隔法	shi jian jian ge fa	195
+石油线	shi you xian	110
+石油直达列车	shi you zhi da lie che	225
+试运转列车	shi yun zhuan lie che	206
+手推调车	shou tui diao che	138
+手制动机	shou zhi dong ji	148
+双班司机	shuang ban si ji	88
+双黄灯	shuang huang deng	124
+双黄闪灯	shuang huang shan deng	59
+双线	shuang xian	118
+双针压力表	shuang zhen ya li biao	350
+水平拉杆	shui ping la gan	260
+司机	si ji	92
+司机号	si ji hao	359
+四显示自动闭塞	si xian shi zi dong bi se	145
+遂规	sui gui	367
+套杆铰环	tao gan jiao huan	258
+特定行车	te ding xing che	63
+特定引导接车	te ding yin dao jie che	64
+特快货物班列	te kuai huo wu ban lie	36
+特快旅客列车	te kuai lv ke lie che	239
+特需列车	te xu lie che	33
+调标	tiao biao	177
+调规	tiao gui	176
+调节板	tiao jie ban	259
+跳线	tiao xian	254
+铁路安全管理规则	tie lu an quan guan li gui ze	363
+铁路超限货物运输规则	tie lu chao xian huo wu yun shu gui ze	172
+铁路调车作业标准	tie lu diao che zuo ye biao zhun	167
+铁路分局	tie lu fen ju	44
+铁路货物运输规则	tie lu huo wu yun shu gui ze	171
+铁路机车运用管理规程	tie lu ji che yun yong guan li gui cheng	170
+铁路技术管理规程	tie lu ji shu guan li gui cheng	102
+铁路交通事故调查处理规则	tie lu jiao tong shi gu diao cha chu li gui ze	365
+铁路局	tie lu ju	46
+铁路旅客运输办理细则	tie lu lv ke yun shu ban li xi ze	100
+铁路旅客运输规程	tie lu lv ke yun shu gui cheng	101
+铁路危险货物运输规则	tie lu wei xian huo wu yun shu gui ze	173
+铁路行车操作规则	tie lu xing che cao zuo gui ze	362
+铁路行车事故救援规则	tie lu xing che shi gu jiu yuan gui ze	174
+铁路运输调度规则	tie lu yun shu diao du gui ze	168
+铁路运用组织规程	tie lu yun yong zu zhi gui cheng	361
+铁鞋	tie xie	61
+通话柱	tong hua zhu	58
+通勤列车	tong qin lie che	234
+腕臂	wan bi	256
+网压	wang ya	330
+危规	wei gui	183
+微机复位	wei ji fu wei	301
+维修天窗	wei xiu tian chuang	27
+五定班列	wu ding ban lie	94
+无缝轨	wu feng gui	332
+无线调度电话	wu xian diao du dian hua	303
+线路名称及杆号	xian lu ming cheng ji gan hao	263
+限速	xian su	300
+小运转单机	xiao yun zhuan dan ji	207
+小运转列车	xiao yun zhuan lie che	219
+信号机	xin hao ji	308
+信号控制台	xin hao kong zhi tai	306
+信号楼	xin hao lou	307
+行包快运专列	xing bao kuai yun zhuan lie	230
+行包列车	xing bao lie che	232
+行车闭塞法	xing che bi se fa	201
+行车指挥	xing che zhi hui	189
+行车组织规则	xing che zu zhi gui ze	366
+行人抢道	xing ren qiang dao	10
+行邮特快专列	xing you te kuai zhuan lie	231
+悬式绝缘子	xuan shi jue yuan zi	261
+学习司机	xue xi si ji	90
+巡检	xun jian	339
+验标	yan biao	371
+验收标准	yan shou biao zhun	372
+液化气线	ye hua qi xian	109
+翼轨	yi gui	5
+移交车	yi jiao che	13
+引导接车	yin dao jie che	65
+因故折返旅客列车	yin gu zhe fan lv ke lie che	233
+右股	you gu	6
+预备	yu bei	322
+原边电流	yuan bian dian liu	325
+越站调车	yue zhan diao che	140
+运规	yun gui	181
+运输组织	yun shu zu zhi	364
+运行揭示	yun xing jie shi	17
+运转车长	yun zhuan che zhang	295
+载物	zai wu	312
+载重	zai zhong	299
+闸瓦钎	zha wa qian	164
+闸瓦压力	zha wa ya li	163
+摘挂列车	zhai gua lie che	212
+摘解	zhai jie	123
+站内	zhan nei	72
+站内停车	zhan nei ting che	142
+站台	zhan tai	71
+站细	zhan xi	179
+占用丢失	zhan yong diu shi	1
+占用区间	zhan yong qu jian	117
+辙叉	zhe cha	3
+蒸汽机车	zheng qi ji che	245
+值班站长	zhi ban zhan zhang	11
+值班主任	zhi ban zhu ren	12
+值乘	zhi cheng	286
+直达特快	zhi da te kuai	55
+直达特快旅客列车	zhi da te kuai lv ke lie che	240
+制动	zhi dong	319
+制动缸	zhi dong gang	353
+制动机	zhi dong ji	318
+直通货物列车	zhi tong huo wu lie che	221
+中国铁路总公司	zhong guo tie lu zong gong si	47
+轴瓦	zhou wa	311
+轴温	zhou wen	310
+主断	zhu duan	323
+转储	zhuan chu	341
+专用线	zhuan yong xian	112
+自备列车	zi bei lie che	215
+子弹列车	zi dan lie che	49
+自动闭塞法	zi dong bi se fa	198
+自动过分相	zi dong guo fen xiang	68
+总风缸	zong feng gang	351
+总风管	zong feng guan	99
+总重	zong zhong	358
+左股	zuo gu	7
+作业线	zuo ye xian	113

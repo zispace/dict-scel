@@ -1,0 +1,12 @@
+# 文件名：信号处理.scel
+# 词库名：信号处理
+# 词库分类：机械工程
+# 词库描述：
+# 词条样例：信噪比 阶数比 截止频率 滤波器 采样频率
+# 词条数量：5
+
+采样频率	cai yang pin lv	1
+阶数比	jie shu bi	4
+截止频率	jie zhi pin lv	3
+滤波器	lv bo qi	2
+信噪比	xin zao bi	5

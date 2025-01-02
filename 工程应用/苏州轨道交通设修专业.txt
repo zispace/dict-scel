@@ -1,0 +1,406 @@
+# 文件名：苏州轨道交通设修专业.scel
+# 词库名：苏州轨道交通设修专业
+# 词库分类：交通运输物流
+# 词库描述：
+# 词条样例：木渎 金枫路 西环路 桐泾北路 文化博览中心
+# 词条数量：399
+
+安全门	an quan men	70
+百米标	bai mi biao	47
+宝带路	bao dai lu	330
+宝带桥南	bao dai qiao nan	356
+保护动作	bao hu dong zuo	142
+爆裂	bao lie	53
+备车替开	bei che ti kai	24
+北港路	bei gang lu	328
+北寺塔	bei si ta	303
+备用车	bei yong che	254
+闭合	bi he	116
+闭塞	bi se	235
+变压器故障	bian ya qi gu zhang	134
+滨河路	bin he lu	393
+差动	cha dong	120
+差动保护	cha dong bao hu	152
+察院场	cha yuan chang	302
+长亭	chang ting	341
+超限车	chao xian che	250
+车场	che chang	236
+车场线	che chang xian	247
+车辆限界	che liang xian jie	243
+车门故障	che men gu zhang	30
+车站隧道	che zhan sui dao	65
+车组	che zu	256
+充电屏	chong dian ping	177
+冲动	chong dong	17
+冲突	chong tu	38
+抽屉开关柜	chou ti kai guan gui	181
+抽线	chou xian	193
+出场	chu chang	224
+处理措施	chu li cuo shi	204
+垂直电梯迫降	chui zhi dian ti po jiang	61
+存车线	cun che xian	196
+大单边供电	da dan bian gong dian	124
+大电流脱扣保护	da dian liu tuo kou bao hu	144
+大双边供电	da shuang bian gong dian	125
+大湾	da wan	375
+大系统	da xi tong	108
+单边供电	dan bian gong dian	127
+道岔短闪	dao cha duan shan	36
+电池屏	dian chi ping	176
+电动风阀	dian dong feng fa	99
+电抗器	dian kang qi	175
+电缆	dian lan	187
+电力继电保护装置	dian li ji dian bao hu zhuang zhi	183
+电力通信装置	dian li tong xin zhuang zhi	182
+电流互感器	dian liu hu gan qi	179
+电流速断保护	dian liu su duan bao hu	147
+电流增量保护	dian liu zeng liang bao hu	146
+电压波动	dian ya bo dong	136
+电压过流保护	dian ya guo liu bao hu	149
+电压互感器	dian ya hu gan qi	180
+调车	diao che	222
+调车员	diao che yuan	221
+调度台	diao du tai	35
+吊悬	diao xuan	168
+东方之门	dong fang zhi men	322
+东环路	dong huan lu	386
+动力变	dong li bian	123
+动力变压器	dong li bian ya qi	186
+东振路	dong zhen lu	325
+独墅湖邻里中心	du shu hu lin li zhong xin	350
+独墅湖南	du shu hu nan	351
+断路器	duan lu qi	189
+断路器小车	duan lu qi xiao che	157
+断路器小车隔离位	duan lu qi xiao che ge li wei	155
+断路器小车试验位	duan lu qi xiao che shi yan wei	154
+断路器小车运行位	duan lu qi xiao che yun xing wei	156
+二类负荷	er lei fu he	164
+反向运行	fan xiang yun xing	226
+防火阀	fang huo fa	93
+防火卷帘门	fang huo juan lian men	59
+防夹	fang jia	26
+放气勿入灯亮	fang qi wu ru deng liang	110
+方湾街	fang wan jie	316
+防淹门	fang yan men	71
+非消防电源	fei xiao fang dian yuan	56
+汾湖路	fen hu lu	397
+分路不良	fen lu bu liang	34
+丰和路	feng he lu	315
+葑亭大道	feng ting da dao	313
+负荷切换	fu he qie huan	129
+扶梯	fu ti	62
+富翔路	fu xiang lu	377
+富元路	fu yuan lu	374
+辅助逆变器	fu zhu ni bian qi	15
+辅助线	fu zhu xian	248
+感温电缆	gan wen dian lan	82
+感温光纤	gan wen guang xian	81
+感温火灾探测器	gan wen huo zai tan ce qi	84
+感烟火灾探测器	gan yan huo zai tan ce qi	83
+钢轨	gang gui	160
+钢轨折断	gang gui zhe duan	42
+刚性接触网	gang xing jie chu wang	170
+高铁苏州北	gao tie su zhou bei	376
+隔离开关	ge li kai guan	188
+戈巷街	ge xiang jie	312
+供电	gong dian	192
+公交接驳	gong jiao jie bo	210
+工器具	gong qi ju	201
+弓网故障	gong wang gu zhang	139
+工作照明失电	gong zuo zhao ming shi dian	55
+顾家荡	gu jia dang	289
+故障原因	gu zhang yuan yin	205
+关门车	guan men che	251
+广济南路	guang ji nan lu	390
+轨道电路	gui dao dian lu	33
+过负荷保护	guo fu he bao hu	151
+过线	guo xian	217
+郭巷	guo xiang	354
+郭苑路	guo yuan lu	353
+何山路	he shan lu	337
+横山	heng shan	334
+横塘	heng tang	333
+红光带	hong guang dai	31
+红庄	hong zhuang	296
+后备保护	hou bei bao hu	141
+花港	hua gang	294
+环网开关	huan wang kai guan	117
+回场	hui chang	223
+惠昌路	hui chang lu	343
+恢复	hui fu	199
+回排风机	hui pai feng ji	103
+活力岛	huo li dao	307
+火灾模式	huo zai mo shi	54
+挤岔	ji cha	37
+架空地线	jia kong di xian	167
+驾驶模式	jia shi mo shi	239
+检修车	jian xiu che	252
+建筑限界	jian zhu xian jie	241
+江陵西路	jiang ling xi lu	293
+江兴西路	jiang xing xi lu	292
+交路	jiao lu	261
+交路调整	jiao lu tiao zheng	20
+接触网	jie chu wang	191
+接触网支持装置	jie chu wang zhi chi zhuang zhi	166
+接地刀闸	jie di dao zha	174
+接地线	jie di xian	161
+接发列车作业	jie fa lie che zuo ye	232
+金枫路	jin feng lu	398
+金谷路	jin gu lu	347
+紧急停车按钮	jin ji ting che an niu	238
+紧急制动	jin ji zhi dong	13
+紧急制动施加	jin ji zhi dong shi jia	8
+金尚路	jin shang lu	346
+金厍桥	jin she qiao	324
+进水总阀	jin shui zong fa	51
+进线失电	jin xian shi dian	135
+紧制	jin zhi	211
+警铃	jing ling	77
+可缓	ke huan	10
+客伤	ke shang	1
+空压机	kong ya ji	7
+控制盘	kong zhi pan	86
+控制屏	kong zhi ping	178
+扣件	kou jian	48
+跨塘	kua tang	318
+框架保护	kuang jia bao hu	140
+劳动路	lao dong lu	363
+乐桥	le qiao	301
+冷冻水泵	leng dong shui beng	90
+冷却水泵	leng que shui beng	89
+冷却塔	leng que ta	88
+冷水机组	leng shui ji zu	91
+李公堤西	li gong di xi	323
+蠡口	li kou	373
+蠡墅	li shu	282
+笠泽路	li ze lu	290
+联动	lian dong	63
+联锁	lian suo	240
+列车	lie che	262
+列车运行图	lie che yun xing tu	257
+临顿路	lin dun lu	388
+邻线	lin xian	215
+零序	ling xu	121
+零序电流保护	ling xu dian liu bao hu	148
+流虹路	liu hong lu	291
+龙道浜	long dao bang	310
+隆起	long qi	46
+陆慕	lu mu	370
+马运路	ma yun lu	339
+门禁释放	men jin shi fang	60
+木渎	mu du	399
+木里	mu li	276
+母联	mu lian	122
+母排	mu pai	184
+母排隔离	mu pai ge li	119
+南门	nan men	299
+南施街	nan shi jie	380
+倪浜	ni bang	320
+逆变器	ni bian qi	19
+逆流保护	ni liu bao hu	143
+排风机	pai feng ji	100
+排空	pai kong	229
+排空运行	pai kong yun xing	22
+排热风机	pai re feng ji	98
+排烟防火阀	pai yan fang huo fa	92
+排烟风机	pai yan feng ji	102
+盘蠡路	pan li lu	359
+庞金路	pang jin lu	284
+平河路	ping he lu	368
+平泷路东	ping long lu dong	369
+平泷路西	ping long lu xi	305
+骑河	qi he	378
+气灭喷洒	qi mie pen sa	114
+气灭主机	qi mie zhu ji	87
+前发晚点	qian fa wan dian	194
+牵引	qian yin	213
+牵引回流线	qian yin hui liu xian	159
+牵引逆变器	qian yin ni bian qi	6
+牵引无效	qian yin wu xiao	12
+牵引系统	qian yin xi tong	14
+牵引运行	qian yin yun xing	16
+抢修	qiang xiu	209
+侵限	qin xian	40
+清客	qing ke	206
+清树湾	qing shu wan	295
+清塘	qing tang	273
+清塘主变电所	qing tang zhu bian dian suo	265
+秋枫	qiu feng	274
+秋枫主变电所	qiu feng zhu bian dian suo	266
+区间蝶阀	qu jian die fa	72
+区间高水位	qu jian gao shui wei	68
+区间火灾工况	qu jian huo zai gong kuang	64
+区间迫停	qu jian po ting	225
+区间阻塞	qu jian zu se	69
+区调	qu tiao	190
+区域站	qu yu zhan	2
+人民桥南	ren min qiao nan	298
+柔性接触网	rou xing jie chu wang	169
+三类负荷	san lei fu he	163
+三香广场	san xiang guang chang	364
+三元坊	san yuan fang	300
+桑田岛	sang tian dao	345
+沙金桥	sha jin qiao	335
+山塘街	shan tang jie	366
+赏湖	shang hu	272
+赏湖主变电所	shang hu zhu bian dian suo	263
+上下行均流线	shang xia xing jun liu xian	158
+上行	shang xing	260
+设备	she bei	203
+设备短路	she bei duan lu	138
+设备接地	she bei jie di	137
+设备限界	she bei xian jie	242
+射流风机	she liu feng ji	95
+声光报警器	sheng guang bao jing qi	111
+生活水管	sheng huo shui guan	74
+时代广场	shi dai guang chang	382
+石湖北	shi hu bei	332
+石湖东路	shi hu dong lu	357
+石湖莫舍	shi hu mo she	281
+施家	shi jia	275
+施家主变电所	shi jia zhu bian dian suo	267
+石路	shi lu	365
+狮山路	shi shan lu	336
+市政总阀	shi zheng zong fa	50
+狮子山	shi zi shan	395
+手动报警按钮	shou dong bao jing an niu	79
+墅浦路	shu pu lu	326
+疏散平台	shu san ping tai	207
+疏散位	shu san wei	49
+双边供电	shuang bian gong dian	126
+双边联跳保护	shuang bian lian tiao bao hu	145
+双马街	shuang ma jie	314
+水喷淋	shui pen lin	76
+水系统	shui xi tong	105
+松陵大道	song ling da dao	287
+松涛街	song tao jie	348
+苏锦	su jin	304
+苏州火车站	su zhou huo che zhan	367
+苏州乐园	su zhou le yuan	270
+苏州乐园主变电所	su zhou le yuan zhu bian dian suo	269
+苏州湾北	su zhou wan bei	277
+苏州湾东	su zhou wan dong	288
+苏州新区火车站	su zhou xin qu huo che zhan	344
+苏州园区火车站	su zhou yuan qu huo che zhan	317
+隧道风机	sui dao feng ji	97
+隧道通风系统	sui dao tong feng xi tong	106
+孙武纪念园	sun wu ji nian yuan	306
+塔园路	ta yuan lu	394
+坍塌	tan ta	45
+唐庄	tang zhuang	319
+套跑	tao pao	216
+天鹅荡路	tian e dang lu	278
+调试车	tiao shi che	253
+跳停	tiao ting	230
+跳闸	tiao zha	132
+停稳	ting wen	18
+铜墩	tong dun	340
+桐泾北路	tong jing bei lu	391
+桐泾公园	tong jing gong yuan	361
+同里	tong li	283
+通园	tong yuan	271
+通园路南	tong yuan lu nan	327
+通园主变电所	tong yuan zhu bian dian suo	264
+头端界	tou duan jie	246
+突发大客流	tu fa da ke liu	3
+团结桥	tuan jie qiao	297
+推进	tui jin	228
+推手柄	tui shou bing	11
+退行	tui xing	227
+脱轨	tuo gui	39
+拓扑着色	tuo pu zhuo se	162
+瓦斯保护	wa si bao hu	153
+晚点	wan dian	214
+尾端界	wei duan jie	245
+唯亭	wei ting	311
+文昌路	wen chang lu	342
+温度保护	wen du bao hu	150
+文化博览中心	wen hua bo lan zhong xin	383
+文溪路	wen xi lu	279
+吴江汽车站	wu jiang qi che zhan	285
+吴江人民广场	wu jiang ren min guang chang	286
+无载调压	wu zai tiao ya	130
+西环路	xi huan lu	392
+西津桥	xi jin qiao	338
+下行	xia xing	259
+现场负责人	xian chang fu ze ren	208
+显红	xian hong	28
+显黄	xian huang	27
+限界	xian jie	244
+限制条件	xian zhi tiao jian	202
+相门	xiang men	387
+消防泵房	xiao fang beng fang	52
+消防泵房进水总阀	xiao fang beng fang jin shui zong fa	73
+消防电话	xiao fang dian hua	78
+消防广播	xiao fang guang bo	57
+消防水管	xiao fang shui guan	75
+消火栓报警按钮	xiao huo shuan bao jing an niu	80
+消火栓泵起泵	xiao huo shuan beng qi beng	109
+小系统	xiao xi tong	107
+消音器	xiao yin qi	96
+新风机	xin feng ji	101
+新郭	xin guo	331
+信号机前后方	xin hao ji qian hou fang	237
+新家桥	xin jia qiao	358
+行车闭塞法	xing che bi se fa	234
+行车凭证	xing che ping zheng	233
+星海广场	xing hai guang chang	384
+星湖街	xing hu jie	381
+星塘主变电所	xing tang zhu bian dian suo	268
+胥江路	xu jiang lu	362
+徐图港	xu tu gang	372
+延误	yan wu	25
+烟雨桥	yan yu qiao	321
+阳澄湖中路	yang cheng hu zhong lu	371
+养育巷	yang yu xiang	389
+姚祥	yao xiang	308
+一类负荷	yi lei fu he	165
+异物	yi wu	197
+异物侵限	yi wu qin xian	41
+引导接车	yin dao jie che	231
+引导员	yin dao yuan	220
+尹山湖	yin shan hu	352
+尹中路	yin zhong lu	355
+迎春路	ying chun lu	329
+友联	you lian	360
+有源滤波装置	you yuan lv bo zhuang zhi	173
+有载调压	you zai tiao ya	131
+玉山路	yu shan lu	396
+远程控制盒	yuan cheng kong zhi he	85
+月亮湾	yue liang wan	349
+越溪	yue xi	280
+运营侧	yun ying ce	29
+运营时刻表	yun ying shi ke biao	258
+运用车	yun yong che	255
+载客服务	zai ke fu wu	23
+闸机	zha ji	5
+闸机释放	zha ji shi fang	58
+站台公共区	zhan tai gong gong qu	66
+站台门	zhan tai men	112
+站厅公共区	zhan ting gong gong qu	67
+胀轨	zhang gui	44
+胀轨跑道	zhang gui pao dao	43
+张庄	zhang zhuang	309
+折返线	zhe fan xian	195
+正点率	zheng dian lv	198
+整流变压器	zheng liu bian ya qi	172
+整流机组	zheng liu ji zu	118
+整流器	zheng liu qi	171
+正线	zheng xian	249
+制动	zhi dong	212
+制动不缓	zhi dong bu huan	21
+制动图标	zhi dong tu biao	9
+支援供电	zhi yuan gong dian	128
+钟南街	zhong nan jie	379
+中央公园	zhong yang gong yuan	385
+终止	zhong zhi	200
+主变电所	zhu bian dian suo	115
+主变压器	zhu bian ya qi	185
+主机	zhu ji	113
+转轨	zhuan gui	219
+转线	zhuan xian	218
+自动重合闸	zi dong chong he zha	133
+自动售票机	zi dong shou piao ji	4
+紫光带	zi guang dai	32
+组合式风阀	zu he shi feng fa	94
+组合式空调器	zu he shi kong tiao qi	104

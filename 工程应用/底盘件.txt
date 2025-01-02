@@ -1,0 +1,17 @@
+# 文件名：底盘件.scel
+# 词库名：底盘件
+# 词库分类：机械工程
+# 词库描述：
+# 词条样例：上悬挂 下悬挂 后减震 上球头 下球头 衬套
+# 词条数量：10
+
+衬套	chen tao	1
+后减震	hou jian zhen	7
+胶套	jiao tao	2
+前减震	qian jian zhen	8
+上球头	shang qiu tou	6
+上悬挂	shang xuan gua	10
+上悬挂胶套	shang xuan gua jiao tao	4
+下球头	xia qiu tou	5
+下悬挂	xia xuan gua	9
+下悬挂胶套	xia xuan gua jiao tao	3

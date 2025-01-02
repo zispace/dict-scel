@@ -1,0 +1,159 @@
+# 文件名：民航飞机系统.scel
+# 词库名：民航飞机系统
+# 词库分类：其它
+# 词库描述：
+# 词条样例：扰流板 自动油门系统 冲压空气涡轮发电机 液压马达驱动发电机 惯导 自动驾驶
+# 词条数量：152
+
+靶标	ba biao	8
+百帕	bai pa	64
+保持	bao chi	65
+备用	bei yong	106
+备用刹车选择活门	bei yong sha che xuan ze huo men	15
+操作程序构型	cao zuo cheng xu gou xing	49
+操作软件	cao zuo ruan jian	47
+测距机	ce ju ji	126
+测距设备	ce ju she bei	94
+拆下件	chai xia jian	2
+冲压空气涡轮发电机	chong ya kong qi wo lun fa dian ji	143
+大气数据惯性基准系统	da qi shu ju guan xing ji zhun xi tong	150
+大气数据基准组件	da qi shu ju ji zhun zu jian	28
+大气数据组件	da qi shu ju zu jian	119
+低速	di su	67
+地速	di su	87
+电配平	dian pei ping	14
+电台执照	dian tai zhi zhao	5
+电子发动机控制器	dian zi fa dong ji kong zhi qi	91
+电子飞行仪表系统	dian zi fei xing yi biao xi tong	133
+电子中央飞机监控系统	dian zi zhong yang fei ji jian kong xi tong	131
+发电机控制组件	fa dian ji kong zhi zu jian	71
+发动机风扇速度	fa dong ji feng shan su du	52
+发动机核心速度	fa dong ji he xin su du	51
+发动机控制组件	fa dong ji kong zhi zu jian	92
+发动机指示系统	fa dong ji zhi shi xi tong	89
+发动机指示与机组警告系统	fa dong ji zhi shi yu ji zu jing gao xi tong	132
+防冰加热	fang bing jia re	25
+方式控制板	fang shi kong zhi ban	53
+防滞	fang zhi	21
+飞机状态监控系统	fei ji zhuang tai jian kong xi tong	108
+飞信指引	fei xin zhi yin	135
+飞行管理计算机	fei xing guan li ji suan ji	78
+飞行航迹向量	fei xing hang ji xiang liang	76
+飞行控制计算机	fei xing kong zhi ji suan ji	88
+飞行数据采集组件	fei xing shu ju cai ji zu jian	81
+飞行数据获取组件	fei xing shu ju huo qu zu jian	17
+飞行指引仪	fei xing zhi yin yi	82
+风切变	feng qie bian	26
+缝翼	feng yi	19
+复飞	fu fei	72
+副驾驶	fu jia shi	77
+附属组件	fu shu zu jian	22
+俯仰配平系统	fu yang pei ping xi tong	136
+副翼	fu yi	111
+辅助动力装置	fu zhu dong li zhuang zhi	104
+高涵道比	gao han dao bi	31
+高强度辐射场	gao qiang du fu she chang	66
+功能测试	gong neng ce shi	73
+汞柱	gong zhu	33
+构型	gou xing	48
+惯导	guan dao	139
+惯性基准	guan xing ji zhun	35
+惯性基准系统	guan xing ji zhun xi tong	138
+惯性基准组件	guan xing ji zhun zu jian	27
+惯性系统显示组件	guan xing xi tong xian shi zu jian	116
+国籍登记证	guo ji deng ji zheng	7
+航线可更换件	hang xian ke geng huan jian	56
+航线信标台	hang xian xin biao tai	57
+航向	hang xiang	86
+横向导航	heng xiang dao hang	58
+滑行灯	hua xing deng	11
+激光陀螺	ji guang tuo luo	113
+机组舱	ji zu cang	37
+加速度计	jia su du ji	114
+减推力爬升	jian tui li pa sheng	45
+减推力起飞	jian tui li qi fei	44
+交通警告与防撞系统	jiao tong jing gao yu fang zhuang xi tong	123
+接收机	jie shou ji	42
+近地警告计算机	jin di jing gao ji suan ji	69
+近地警告系统	jin di jing gao xi tong	122
+紧急定位发射机	jin ji ding wei fa she ji	130
+进近	jin jin	105
+近台	jin tai	61
+襟翼缝翼电子组件	jin yi feng yi dian zi zu jian	74
+静变流机	jing bian liu ji	16
+径向位置	jing xiang wei zhi	39
+绝对高度	jue dui gao du	83
+空速	kong su	121
+控制显示组件	kong zhi xian shi zu jian	100
+空中交通防撞系统	kong zhong jiao tong fang zhuang xi tong	24
+空中交通管制	kong zhong jiao tong guan zhi	124
+连续	lian xu	97
+马赫空速指示	ma he kong su zhi shi	54
+马赫数	ma he shu	85
+模式选择组件	mo shi xuan ze zu jian	115
+内侧	nei ce	60
+粘性阻尼器	nian xing zu ni qi	3
+爬升	pa sheng	99
+排气温度	pai qi wen du	90
+偏航阻尼系统	pian hang zu ni xi tong	137
+气象雷达系统	qi xiang lei da xi tong	125
+气压	qi ya	103
+气压高度	qi ya gao du	120
+全球定位系统	quan qiu ding wei xi tong	128
+燃油处理器组件	ran you chu li qi zu jian	75
+燃油流量	ran you liu liang	80
+扰流板	rao liu ban	147
+刹车计量活门	sha che ji liang huo men	10
+甚高频全向信标	shen gao pin quan xiang xin biao	144
+升降舵	sheng jiang duo	148
+剩余地速	sheng yu di su	38
+适航证	shi hang zheng	6
+失速管理偏航阻尼系统	shi su guan li pian hang zu ni xi tong	4
+手轮	shou lun	13
+输入输入控制器	shu ru shu ru kong zhi qi	59
+水平状态指示	shui ping zhuang tai zhi shi	63
+通用显示组件	tong yong xian shi zu jian	101
+图形发生器	tu xing fa sheng qi	70
+陀螺仪	tuo luo yi	149
+涡轮风扇发动机	wo lun feng shan fa dong ji	29
+涡扇发动机	wo shan fa dong ji	30
+无线电高度	wu xian dian gao du	43
+无线电高度表	wu xian dian gao du biao	127
+无线电距离磁指示	wu xian dian ju li ci zhi shi	41
+下滑道	xia hua dao	68
+显示电子组件	xian shi dian zi zu jian	95
+显示组件数据库	xian shi zu jian shu ju ku	93
+相对高度	xiang dui gao du	84
+行选键	xing xuan jian	36
+行选择键	xing xuan ze jian	55
+蓄压瓶	xu ya ping	9
+蓄压器隔离活门	xu ya qi ge li huo men	12
+巡航	xun hang	96
+遥控灯传感器	yao kong deng chuan gan qi	40
+液压	ye ya	62
+液压马达驱动发电机	ye ya ma da qu dong fa dian ji	142
+仪表板传感器	yi biao ban chuan gan qi	102
+仪表着陆系统	yi biao zhuo lu xi tong	129
+易用燃油	yi yong ran you	79
+音频控制板	yin pin kong zhi ban	140
+迎角探头	ying jiao tan tou	117
+远台	yuan tai	50
+章动	zhang dong	109
+真空速	zhen kong su	32
+整流罩	zheng liu zhao	110
+指令	zhi ling	98
+中央维护计算机	zhong yang wei hu ji suan ji	141
+主飞行显示	zhu fei xing xian shi	46
+装上件	zhuang shang jian	1
+自动定向机	zi dong ding xiang ji	145
+自动飞行控制系统	zi dong fei xing kong zhi xi tong	152
+自动驾驶	zi dong jia shi	134
+自动驾驶仪	zi dong jia shi yi	151
+自动刹车控制组件	zi dong sha che kong zhi zu jian	20
+自动油门	zi dong you men	112
+自动油门系统	zi dong you men xi tong	146
+自检测试	zi jian ce shi	34
+姿态指示器	zi tai zhi shi qi	107
+综合飞行系统附属组件	zong he fei xing xi tong fu shu zu jian	23
+总温探头	zong wen tan tou	118
+座舱压力控制器	zuo cang ya li kong zhi qi	18

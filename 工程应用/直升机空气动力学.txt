@@ -1,0 +1,190 @@
+# 文件名：直升机空气动力学.scel
+# 词库名：直升机空气动力学
+# 词库分类：机械工程
+# 词库描述：
+# 词条样例：涡轮轴发动机 高正 朱正 纵列式 陈秋铭 旋翼飞行器
+# 词条数量：183
+
+安装角	an zhuang jiao	150
+摆振铰	bai zhen jiao	54
+变距	bian ju	52
+操纵环	cao zong huan	49
+操纵挥舞	cao zong hui wu	48
+侧倒角	ce dao jiao	58
+陈秋铭	chen qiu ming	176
+陈仁良	chen ren liang	13
+出轴功率	chu zhou gong lv	133
+吹风挥舞	chui feng hui wu	51
+垂直铰	chui zhi jiao	53
+垂直爬升率	chui zhi pa sheng lv	84
+垂直起落机	chui zhi qi luo ji	175
+单位耗油率	dan wei hao you lv	81
+地面效应	di mian xiao ying	21
+定轴涡轮	ding zhou wo lun	83
+短翼	duan yi	30
+发动机短舱	fa dong ji duan cang	34
+反流区	fan liu qu	68
+反扭矩	fan niu ju	167
+方位角	fang wei jiao	62
+飞行品质	fei xing pin zhi	168
+废阻	fei zu	77
+负扭转	fu niu zhuan	126
+福式级数	fu shi ji shu	43
+附着涡	fu zhuo wo	96
+高度特性曲线	gao du te xing qu xian	78
+高度特性系数	gao du te xing xi shu	131
+高亚东	gao ya dong	5
+高正	gao zheng	177
+格劳特	ge lao te	47
+根梢比	gen shao bi	153
+共轴式	gong zhou shi	166
+构造旋转平面	gou zao xuan zhuan ping mian	73
+固定涡系	gu ding wo xi	93
+固接	gu jie	160
+广义涡流理论	guang yi wo liu li lun	38
+韩东	han dong	1
+航迹角	hang ji jiao	22
+横列式	heng lie shi	164
+后倒角	hou dao jiao	59
+后行桨叶	hou xing jiang ye	69
+滑流	hua liu	141
+滑流理论	hua liu li lun	142
+迴避区	hui bi qu	16
+挥舞角	hui wu jiao	64
+挥舞铰	hui wu jiao	67
+挥舞平面	hui wu ping mian	63
+挥舞运动	hui wu yun dong	65
+活塞发动机	huo sai fa dong ji	171
+畸变涡系	ji bian wo xi	39
+激波	ji bo	136
+激波分离	ji bo fen li	107
+几何弦	ji he xian	122
+几何迎角	ji he ying jiao	119
+极线	ji xian	115
+减缩系数	jian suo xi shu	85
+桨榖	jiang gu	162
+桨尖平面	jiang jian ping mian	61
+桨距	jiang ju	148
+桨盘	jiang pan	155
+桨盘后倒	jiang pan hou dao	17
+桨叶质量特性系数	jiang ye zhi liang te xing xi shu	40
+桨柱	jiang zhu	32
+铰接	jiao jie	159
+经济速度	jing ji su du	27
+空气动力学	kong qi dong li xue	182
+拉力系数	la li xi shu	143
+拉力修正系数	la li xiu zheng xi shu	104
+来流角	lai liu jiao	127
+李建波	li jian bo	8
+力矩特性	li ju te xing	123
+零升力距	ling sheng li ju	109
+零升迎角	ling sheng ying jiao	118
+流入比	liu ru bi	71
+陆洋	lu yang	6
+洛克数	luo ke shu	41
+螺旋桨	luo xuan jiang	173
+木质混合式桨叶	mu zhi hun he shi jiang ye	170
+南航	nan hang	180
+南京航空航天大学	nan jing hang kong hang tian da xue	181
+扭度	niu du	149
+扭矩系数	niu ju xi shu	144
+爬升	pa sheng	135
+爬升修正系数	pa sheng xiu zheng xi shu	28
+偏置铰式	pian zhi jiao shi	56
+气动弦	qi dong xian	121
+气动迎角	qi dong ying jiao	120
+气流分离界限	qi liu fen li jie xian	37
+前进比	qian jin bi	74
+前行桨叶	qian xing jiang ye	70
+儒柯夫斯基	ru ke fu si ji	101
+儒式旋翼	ru shi xuan yi	100
+扫掠面积	sao lue mian ji	154
+升力特性	sheng li te xing	125
+升阻比	sheng zu bi	112
+实度	shi du	151
+失速颤振	shi su chan zhen	42
+水平铰	shui ping jiao	66
+瞬时增距	shun shi zeng ju	25
+宋彦国	song yan guo	4
+孙传伟	sun chuan wei	3
+唐正飞	tang zheng fei	7
+特性诱导速度	te xing you dao su du	44
+特征剖面	te zheng pou mian	156
+外部特性曲线	wai bu te xing qu xian	79
+王华明	wang hua ming	12
+王适存	wang shi cun	178
+尾迹	wei ji	102
+尾梁	wei liang	33
+尾面	wei mian	31
+涡环状态	wo huan zhuang tai	20
+涡流	wo liu	98
+涡流理论	wo liu li lun	97
+涡轮轴发动机	wo lun zhou fa dong ji	169
+涡盘	wo pan	88
+涡束	wo shu	87
+涡系	wo xi	89
+涡线	wo xian	86
+无铰式	wu jiao shi	55
+无因次化	wu yin ci hua	145
+夏品奇	xia pin qi	14
+下洗角	xia xi jiao	46
+下洗流	xia xi liu	76
+相对效率	xiang dui xiao lv	134
+斜流	xie liu	60
+型阻	xing zu	116
+型阻功率修正系数	xing zu gong lv xiu zheng xi shu	103
+徐国华	xu guo hua	15
+续航时间	xu hang shi jian	111
+徐锦法	xu jin fa	11
+需用功率	xu yong gong lv	130
+需用功率修正系数	xu yong gong lv xiu zheng xi shu	36
+悬停	xuan ting	172
+悬停升限	xuan ting sheng xian	132
+旋翼飞行器	xuan yi fei xing qi	174
+旋翼构造迎角	xuan yi gou zao ying jiao	72
+旋翼换向式	xuan yi huan xiang shi	163
+旋翼实度	xuan yi shi du	152
+旋转阻力	xuan zhuan zu li	105
+压力中心	ya li zhong xin	110
+杨卫东	yang wei dong	10
+叶端损失系数	ye duan sun shi xi shu	137
+叶尖	ye jian	146
+叶素	ye su	129
+叶素理论	ye su li lun	128
+翼型	yi xing	117
+翼型环量	yi xing huan liang	99
+迎风面积	ying feng mian ji	29
+诱导功率	you dao gong lv	139
+诱导速度	you dao su du	157
+有利速度	you li su du	26
+有效功率	you xiao gong lv	140
+圆形涡盘	yuan xing wo pan	92
+圆柱涡面	yuan zhu wo mian	91
+增重系数	zeng zhong xi shu	75
+招启军	zhao qi jun	9
+整流罩	zheng liu zhao	35
+直升机	zhi sheng ji	183
+重量马力比	zhong liang ma li bi	80
+中心铰式	zhong xin jiao shi	57
+中央涡束	zhong yang wo shu	90
+轴流	zhou liu	138
+轴套	zhou tao	161
+周向速度	zhou xiang su du	158
+朱清华	zhu qing hua	2
+朱正	zhu zheng	179
+转捩点	zhuan lie dian	108
+锥度角	zhui du jiao	94
+自动倾斜器	zi dong qing xie qi	50
+自由涡	zi you wo	95
+自由涡轮	zi you wo lun	82
+自转飞行	zi zhuan fei xing	19
+自转下滑	zi zhuan xia hua	45
+自转着陆	zi zhuan zhuo lu	18
+总距	zong ju	147
+纵列式	zong lie shi	165
+阻力发散马赫数	zu li fa san ma he shu	106
+阻力特性	zu li te xing	124
+最经济状态	zui jing ji zhuang tai	113
+最小下滑角	zui xiao xia hua jiao	23
+最小下降率	zui xiao xia jiang lv	24
+最有利状态	zui you li zhuang tai	114

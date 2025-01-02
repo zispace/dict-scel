@@ -1,0 +1,899 @@
+# 文件名：房建结构设计专用.scel
+# 词库名：房建结构设计专用
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：混凝土结构设计规范 建筑地基基础设计规范 混凝土结构构造手册 剪力墙 边框梁
+# 词条数量：892
+
+暗撑	an cheng	701
+暗涵	an han	29
+暗梁	an liang	702
+暗柱	an zhu	831
+板底	ban di	611
+板底钢筋	ban di gang jin	486
+板顶	ban ding	612
+板顶钢筋	ban ding gang jin	485
+板厚	ban hou	484
+板筋	ban jin	618
+板面	ban mian	483
+板配筋图	ban pei jin tu	8
+板式楼梯	ban shi lou ti	588
+板柱结构	ban zhu jie gou	248
+绑扎	bang za	507
+薄壁杆系	bao bi gan xi	516
+饱和土	bao he tu	576
+保护层	bao hu ceng	781
+抱框	bao kuang	482
+北立面	bei li mian	100
+变标高	bian biao gao	246
+变截面	bian jie mian	245
+边界条件	bian jie tiao jian	247
+边框梁	bian kuang liang	876
+边框柱	bian kuang zhu	873
+边梁	bian liang	710
+边缘构件	bian yuan gou jian	830
+边柱	bian zhu	712
+标准冻深	biao zhun dong shen	695
+标准值	biao zhun zhi	771
+标准组合	biao zhun zu he	244
+薄弱层	bo ruo ceng	579
+补偿收缩混凝土	bu chang shou suo hun ning tu	46
+补强	bu qiang	521
+不上人屋面	bu shang ren wu mian	481
+侧移	ce yi	243
+层高	ceng gao	847
+层高表	ceng gao biao	613
+层间梁	ceng jian liang	827
+层间位移比	ceng jian wei yi bi	679
+插筋	cha jin	480
+拆模	chai mo	479
+拆模板	chai mo ban	478
+场地类别	chang di lei bie	697
+场地土	chang di tu	476
+长跨	chang kua	477
+长螺旋灌注桩	chang luo xuan guan zhu zhuang	66
+长期刚度	chang qi gang du	779
+长细比	chang xi bi	850
+超长	chao chang	242
+超长结构	chao chang jie gou	475
+超高	chao gao	241
+超筋	chao jin	860
+超筋超限	chao jin chao xian	858
+超限	chao xian	859
+沉淀池	chen dian chi	86
+沉降	chen jiang	581
+沉降差	chen jiang cha	474
+沉降缝	chen jiang feng	473
+程懋堃	cheng mao kun	240
+承台	cheng tai	658
+承载力	cheng zai li	856
+承重	cheng zhong	798
+池壁	chi bi	54
+持力层	chi li ceng	472
+冲切	chong qie	606
+冲切破坏	chong qie po huai	239
+储藏室	chu cang shi	238
+初凝	chu ning	633
+出平面	chu ping mian	471
+初设	chu she	470
+除锈	chu xiu	469
+穿管	chuan guan	468
+窗间墙	chuang jian qiang	237
+窗井	chuang jing	236
+窗框	chuang kuang	822
+窗框墙	chuang kuang qiang	821
+窗墙比	chuang qiang bi	88
+纯受弯	chun shou wan	235
+粗砂	cu sha	467
+错层	cuo ceng	528
+大底盘	da di pan	466
+搭接	da jie	506
+搭接长度	da jie chang du	737
+大偏拉	da pian la	740
+大偏心	da pian xin	743
+大偏压	da pian ya	741
+大堂	da tang	465
+大堂吧	da tang ba	464
+大样	da yang	635
+大样图	da yang tu	463
+单层厂房	dan ceng chang fang	234
+单向板	dan xiang ban	462
+单桩承载力特征值	dan zhuang cheng zai li te zheng zhi	21
+挡墙	dang qiang	640
+挡土墙	dang tu qiang	648
+导荷载	dao he zai	231
+导流墙	dao liu qiang	55
+倒楼盖	dao lou gai	460
+倒楼盖模型	dao lou gai mo xing	459
+导墙	dao qiang	639
+底板	di ban	829
+底部加强	di bu jia qiang	719
+底部加强部位	di bu jia qiang bu wei	717
+底部加强区	di bu jia qiang qu	718
+地基承载力特征值	di ji cheng zai li te zheng zhi	22
+地基梁	di ji liang	458
+地基应力	di ji ying li	20
+地堪	di kan	649
+底框	di kuang	230
+地梁	di liang	457
+地梁平面布置图	di liang ping mian bu zhi tu	6
+地垄墙	di long qiang	229
+地貌	di mao	456
+地面粗糙度	di mian cu cao du	111
+地坪	di ping	228
+地下工程防水技术规范	di xia gong cheng fang shui ji shu gui fan	455
+地下室	di xia shi	227
+地形地貌修正系数	di xing di mao xiu zheng xi shu	108
+地震组合	di zhen zu he	226
+地质资料	di zhi zi liao	454
+垫层	dian ceng	826
+电缆沟	dian lan gou	60
+电缆井	dian lan jing	61
+电缆排管	dian lan pai guan	13
+电梯机房	dian ti ji fang	453
+电梯井	dian ti jing	527
+电梯厅	dian ti ting	452
+电线穿管	dian xian chuan guan	451
+电子计算机房	dian zi ji suan ji fang	225
+吊车梁	diao che liang	450
+吊顶	diao ding	224
+吊钩	diao gou	449
+吊钩梁	diao gou liang	448
+吊挂	diao gua	582
+吊筋	diao jin	724
+叠合池	die he chi	76
+叠合式	die he shi	765
+顶板	ding ban	828
+顶层	ding ceng	804
+洞边	dong bian	447
+洞边加筋	dong bian jia jin	446
+洞底	dong di	445
+洞顶	dong ding	444
+东立面	dong li mian	98
+动力系数	dong li xi shu	112
+冻深	dong shen	696
+冻土	dong tu	694
+独基	du ji	564
+短跨	duan kua	442
+短期刚度	duan qi gang du	778
+短肢	duan zhi	221
+短肢剪力墙	duan zhi jian li qiang	799
+短肢墙	duan zhi qiang	220
+端支座	duan zhi zuo	443
+短柱	duan zhu	833
+端柱	duan zhu	700
+多层建筑	duo ceng jian zhu	219
+多塔	duo ta	530
+二泵房	er beng fang	83
+二层	er ceng	808
+二沉池	er chen chi	78
+二级钢	er ji gang	722
+二阶效应	er jie xiao ying	218
+二类场地	er lei chang di	501
+二类环境	er lei huan jing	503
+筏板	fa ban	761
+筏基	fa ji	563
+阀门井	fa men jing	56
+筏形	fa xing	760
+反冲洗	fan chong xi	26
+范立礎	fan li chu	216
+反梁	fan liang	441
+反弯点	fan wan dian	217
+防护密闭门	fang hu mi bi men	215
+防水层	fang shui ceng	214
+防水剂	fang shui ji	58
+放样	fang yang	634
+方桩	fang zhuang	440
+非加密区	fei jia mi qu	439
+非抗震	fei kang zhen	676
+分布钢筋	fen bu gang jin	438
+分布筋	fen bu jin	832
+粉土	fen tu	645
+粉土层	fen tu ceng	44
+粉细砂	fen xi sha	437
+粉质粘土	fen zhi nian tu	436
+粉质粘土层	fen zhi zhan tu ceng	43
+风荷载	feng he zai	691
+风压	feng ya	435
+腹板	fu ban	750
+扶壁式挡土墙	fu bi shi dang tu qiang	64
+复合箍	fu he gu	728
+复合箍筋	fu he gu jin	727
+附加吊筋	fu jia diao jin	213
+附加箍筋	fu jia gu jin	733
+覆土	fu tu	434
+概算	gai suan	212
+概预算	gai yu suan	211
+钢板止水带	gang ban zhi shui dai	37
+刚度	gang du	780
+刚接	gang jie	706
+钢结构	gang jie gou	861
+钢筋	gang jin	864
+钢筋混凝土	gang jin hun ning tu	877
+钢筋笼长度	gang jin long chang du	11
+钢筋锚固长度	gang jin mao gu chang du	47
+钢筋砼	gang jin tong	625
+钢筋网	gang jin wang	432
+钢筋网片	gang jin wang pian	431
+钢梁	gang liang	430
+钢砼	gang tong	93
+刚性角	gang xing jiao	641
+刚性连接	gang xing lian jie	433
+钢柱	gang zhu	429
+高层建筑混凝土结构技术规程	gao ceng jian zhu hun ning tu jie gou ji shu gui cheng	889
+高层民用建筑设计防火规范	gao ceng min yong jian zhu she ji fang huo gui fan	885
+高程	gao cheng	428
+高规	gao gui	622
+高宽比	gao kuan bi	851
+高强螺栓	gao qiang luo shuan	427
+高耸结构设计规范	gao song jie gou she ji gui fan	883
+隔断	ge duan	426
+隔墙	ge qiang	674
+隔热层	ge re ceng	210
+耕植土层	geng zhi tu ceng	45
+工程编号	gong cheng bian hao	425
+共振	gong zhen	548
+工字钢	gong zi gang	801
+构件	gou jian	762
+构造	gou zao	846
+构造边缘构件	gou zao bian yuan gou jian	424
+构造筋	gou zao jin	423
+构造配筋	gou zao pei jin	209
+固定座位	gu ding zuo wei	208
+固端	gu duan	421
+箍筋	gu jin	838
+骨料	gu liao	422
+挂板	gua ban	420
+贯通	guan tong	419
+灌注桩	guan zhu zhuang	665
+光面钢筋	guang mian gang jin	495
+过梁	guo liang	206
+锅炉间	guo lu jian	207
+含钢量	han gang liang	205
+焊剂	han ji	418
+焊丝	han si	417
+夯扩桩	hang kuo zhuang	556
+夯实	hang shi	416
+核心区	he xin qu	539
+核心筒	he xin tong	497
+荷载	he zai	855
+荷载代表值	he zai dai biao zhi	115
+荷载导算	he zai dao suan	204
+荷载设计值	he zai she ji zhi	114
+荷载组合	he zai zu he	203
+恒荷载	heng he zai	690
+桁架	heng jia	97
+恒载	heng zai	689
+后处理	hou chu li	656
+后浇带	hou jiao dai	415
+后张法	hou zhang fa	795
+护壁	hu bi	663
+护坡	hu po	662
+滑移	hua yi	414
+缓冲池	huan chong chi	23
+换填层	huan tian ceng	31
+环氧	huan yang	489
+缓胀性	huan zhang xing	413
+会签	hui qian	569
+回弹	hui tan	630
+回弹再压缩	hui tan zai ya suo	629
+回填	hui tian	412
+会议室	hui yi shi	202
+混凝土规范	hun ning tu gui fan	627
+混凝土结构构造手册	hun ning tu jie gou gou zao shou ce	881
+混凝土结构设计规范	hun ning tu jie gou she ji gui fan	892
+混凝土异形柱结构技术规范	hun ning tu yi xing zhu jie gou ji shu gui fan	411
+活荷载	huo he zai	688
+活门槛	huo men kan	818
+活载	huo zai	687
+基本风压	ji ben feng ya	409
+基本雪压	ji ben xue ya	408
+基本组合	ji ben zu he	122
+基础	ji chu	825
+基础平面布置图	ji chu ping mian bu zhi tu	7
+基床	ji chuang	644
+基床反力	ji chuang fan li	643
+基床反力系数	ji chuang fan li xi shu	642
+基底	ji di	407
+机房层	ji fang ceng	803
+级配砂卵石垫层	ji pei sha luan shi dian ceng	33
+集水槽	ji shui cao	28
+集水坑	ji shui keng	404
+计算高度	ji suan gao du	614
+极限	ji xian	406
+极限状态	ji xian zhuang tai	405
+机械连接	ji xie lian jie	508
+机械锚固	ji xie mao gu	410
+集中标注	ji zhong biao zhu	603
+夹层	jia ceng	200
+加劲	jia jin	403
+加劲板	jia jin ban	402
+加劲肋	jia jin lei	401
+架立钢筋	jia li gang jin	758
+架立筋	jia li jin	759
+加密区	jia mi qu	400
+加气	jia qi	399
+加气混凝土	jia qi hun ning tu	398
+加气块	jia qi kuai	397
+加强带	jia qiang dai	48
+加药间	jia yao jian	82
+加腋	jia ye	675
+加腋梁	jia ye liang	201
+检查井	jian cha jing	62
+剪刀式楼梯	jian dao shi lou ti	199
+碱含量	jian han liang	394
+剪跨比	jian kua bi	774
+剪力	jian li	845
+剪力墙	jian li qiang	879
+剪扭	jian niu	652
+剪切	jian qie	693
+剪切模量	jian qie mo liang	198
+剪切破坏	jian qie po huai	692
+简图	jian tu	682
+检修孔	jian xiu kong	196
+剪压比	jian ya bi	773
+简支	jian zhi	704
+简支端	jian zhi duan	396
+简支梁	jian zhi liang	395
+剪重比	jian zhong bi	197
+建筑地基处理技术规范	jian zhu di ji chu li ji shu gui fan	393
+建筑地基基础设计规范	jian zhu di ji ji chu she ji gui fan	887
+建筑结构荷载规范	jian zhu jie gou he zai gui fan	891
+建筑抗震设计规范	jian zhu kang zhen she ji gui fan	890
+建筑面积	jian zhu mian ji	195
+建筑条件	jian zhu tiao jian	194
+建筑桩基技术规范	jian zhu zhuang ji ji shu gui fan	886
+降板	jiang ban	193
+搅拌桩	jiao ban zhuang	668
+交底	jiao di	392
+校对	jiao dui	294
+角钢	jiao gang	800
+浇灌	jiao guan	660
+角焊缝	jiao han feng	575
+校核	jiao he	293
+铰接	jiao jie	707
+角筋	jiao jin	391
+角柱	jiao zhu	711
+浇筑	jiao zhu	661
+节点	jie dian	747
+节点核心区	jie dian he xin qu	510
+节点结构详图	jie dian jie gou xiang tu	2
+节点域	jie dian yu	509
+截断	jie duan	388
+结构布置	jie gou bu zhi	192
+结构交底	jie gou jiao di	390
+结构平面布置图	jie gou ping mian bu zhi tu	10
+结构验收	jie gou yan shou	389
+截洪沟	jie hong gou	63
+截面	jie mian	601
+接头面积百分率	jie tou mian ji bai fen lv	505
+进风竖井	jin feng shu jing	813
+净高	jing gao	191
+净跨	jing kua	615
+静止土压力	jing zhi tu ya li	577
+井字梁	jing zi liang	585
+局部振动	ju bu zhen dong	547
+矩形	ju xing	621
+绝对高差	jue dui gao cha	387
+均布	jun bu	699
+均布荷载	jun bu he zai	698
+开槽	kai cao	386
+开洞	kai dong	752
+勘察报告	kan cha bao gao	385
+抗拔	kang ba	384
+抗拔桩	kang ba zhuang	383
+抗拔桩抗浮	kang ba zhuang kang fu	52
+抗冲切	kang chong qie	605
+抗风柱	kang feng zhu	190
+抗浮	kang fu	382
+抗浮水位	kang fu shui wei	381
+抗规	kang gui	623
+抗滑移	kang hua yi	380
+抗剪	kang jian	784
+抗拉	kang la	786
+抗扭	kang niu	783
+抗扭转	kang niu zhuan	782
+抗倾覆	kang qing fu	189
+抗压	kang ya	785
+抗震	kang zhen	854
+抗震等级	kang zhen deng ji	792
+抗震规范	kang zhen gui fan	624
+可变荷载	ke bian he zai	117
+可焊性	ke han xing	379
+刻痕钢丝	ke hen gang si	493
+空调板	kong tiao ban	188
+孔隙	kong xi	377
+空心楼板	kong xin lou ban	187
+空心砌块	kong xin qi kuai	378
+跨度	kua du	616
+跨中	kua zhong	708
+宽厚比	kuan hou bi	550
+框架	kuang jia	872
+框架梁	kuang jia liang	871
+框架柱	kuang jia zhu	870
+框剪	kuang jian	836
+框筒	kuang tong	496
+框支	kuang zhi	835
+框支梁	kuang zhi liang	875
+框支柱	kuang zhi zhu	834
+扩初	kuo chu	376
+扩底	kuo di	554
+扩散室	kuo san shi	375
+拉结筋	la jie jin	186
+拉筋	la jin	374
+拉通	la tong	373
+拉弯	la wan	653
+栏板	lan ban	372
+冷加工	leng jia gong	371
+冷轧	leng zha	370
+冷轧带肋	leng zha dai lei	494
+李国豪	li guo hao	185
+李国强	li guo qiang	184
+李国胜	li guo sheng	183
+力矩	li ju	369
+立面	li mian	368
+沥青混凝土	li qing hun ning tu	16
+理正	li zheng	865
+联合基础	lian he ji chu	182
+连梁	lian liang	863
+连梁表	lian liang biao	367
+连体	lian ti	529
+连续梁	lian xu liang	586
+梁板	liang ban	181
+梁板式	liang ban shi	562
+梁底	liang di	609
+梁底钢筋	liang di gang jin	366
+梁顶	liang ding	610
+梁高	liang gao	757
+梁截面	liang jie mian	600
+梁宽	liang kuan	756
+两跑	liang pao	179
+梁配筋图	liang pei jin tu	9
+梁墙	liang qiang	180
+梁式楼梯	liang shi lou ti	587
+烈度	lie du	715
+裂缝宽度	lie feng kuan du	68
+临界风速	lin jie feng su	107
+临空墙	lin kong qiang	815
+檩条	lin tiao	95
+林同炎	lin tong yan	178
+临战封堵	lin zhan feng du	817
+龄期	ling qi	632
+留洞	liu dong	365
+留洞图	liu dong tu	364
+流量计井	liu liang ji jing	14
+流线	liu xian	89
+楼板	lou ban	853
+楼层	lou ceng	363
+楼盖	lou gai	852
+楼面	lou mian	362
+楼梯结构详图	lou ti jie gou xiang tu	3
+轮压	lun ya	360
+螺旋箍	luo xuan gu	726
+螺旋箍筋	luo xuan gu jin	725
+螺旋肋钢丝	luo xuan lei gang si	492
+洛阳铲桩基础	luo yang chan zhuang ji chu	12
+滤池	lv chi	85
+氯离子含量	lv li zi han liang	361
+马牙槎	ma ya cha	638
+埋件	mai jian	869
+埋入式	mai ru shi	557
+满布	man bu	359
+满铺	man pu	358
+盲沟排水抗浮	mang gou pai shui kang fu	49
+锚杆挡土墙	mao gan dang tu qiang	65
+锚杆抗浮	mao gan kang fu	51
+锚固	mao gu	749
+锚固长度	mao gu chang du	748
+锚入	mao ru	357
+毛石混凝土	mao shi hun ning tu	17
+锚栓	mao shuan	356
+门框墙	men kuang qiang	823
+门厅	men ting	177
+密闭门	mi bi men	176
+模板	mo ban	637
+摩擦系数	mo ca xi shu	18
+抹角	mo jiao	355
+模量	mo liang	628
+南立面	nan li mian	101
+内力	nei li	560
+内力重分布	nei li zhong fen bu	763
+内力重分配	nei li zhong fen pei	175
+内摩擦角	nei mo ca jiao	19
+内墙	nei qiang	354
+内审	nei shen	353
+泥浆	ni jiang	664
+粘土	nian tu	646
+扭矩	niu ju	352
+扭转	niu zhuan	651
+女儿墙	nv er qiang	351
+偶偏	ou pian	849
+偶然荷载	ou ran he zai	116
+偶然偏心	ou ran pian xin	848
+偶然组合	ou ran zu he	120
+排风竖井	pai feng shu jing	812
+排架	pai jia	703
+配电室	pei dian shi	350
+配箍	pei gu	537
+配箍率	pei gu lv	839
+配箍特征值	pei gu te zheng zhi	536
+配筋	pei jin	841
+配筋率	pei jin lv	840
+配水池	pei shui chi	74
+配水中和池	pei shui zhong he chi	73
+配重抗浮	pei zhong kang fu	50
+喷砂	pen sha	349
+膨胀剂	peng zhang ji	59
+膨胀螺栓	peng zhang luo shuan	348
+疲劳破坏	pi lao po huai	347
+疲劳强度	pi lao qiang du	346
+偏心距	pian xin ju	810
+飘窗	piao chuang	174
+频遇值	pin yu zhi	119
+频遇组合	pin yu zu he	121
+平板式	ping ban shi	561
+平法	ping fa	604
+平面	ping mian	173
+平面配筋图	ping mian pei jin tu	103
+平台	ping tai	172
+平台板	ping tai ban	171
+平台梁	ping tai liang	170
+坡屋顶	po wu ding	169
+坡屋面	po wu mian	168
+剖面	pou mian	167
+普遍钎探	pu bian qian tan	345
+普通螺栓	pu tong luo shuan	344
+汽车坡道	qi che po dao	165
+气浮池	qi fu chi	72
+起拱	qi gong	343
+七股钢绞线	qi gu gang jiao xian	490
+起居室	qi ju shi	166
+砌块	qi kuai	342
+砌体	qi ti	673
+砌体结构设计规范	qi ti jie gou she ji gui fan	888
+砌筑	qi zhu	341
+前处理	qian chu li	657
+嵌固	qian gu	705
+嵌固端	qian gu duan	520
+前室	qian shi	339
+潜水	qian shui	338
+钎探	qian tan	340
+嵌岩桩	qian yan zhuang	555
+强风化岩层	qiang feng hua yan ceng	40
+墙厚	qiang hou	878
+强屈比	qiang qu bi	337
+墙身	qiang shen	336
+墙体	qiang ti	335
+墙体配筋	qiang ti pei jin	102
+强条	qiang tiao	518
+墙肢	qiang zhi	744
+墙柱	qiang zhu	164
+墙柱平面布置图	qiang zhu ping mian bu zhi tu	4
+翘曲	qiao qu	515
+倾覆	qing fu	766
+倾覆力矩	qing fu li ju	525
+倾覆弯矩	qing fu wan ju	163
+轻墙	qing qiang	334
+屈服	qu fu	333
+屈服台阶	qu fu tai jie	332
+全高	quan gao	162
+全高加密	quan gao jia mi	161
+全截面	quan jie mian	540
+裙房	qun fang	160
+热轧	re zha	331
+人防	ren fang	824
+人防口部结构详图	ren fang kou bu jie gou xiang tu	1
+人工挖孔桩	ren gong wa kong zhuang	666
+人孔	ren kong	159
+人民防空地下室设计规范	ren min fang kong di xia shi she ji gui fan	882
+容积率	rong ji lv	87
+容重	rong zhong	617
+柔度	rou du	777
+入口	ru kou	158
+软弱下卧层	ruan ruo xia wo ceng	580
+三层	san ceng	807
+三股钢绞线	san gu gang jiao xian	491
+三合土	san he tu	15
+三级钢	san ji gang	721
+三类场地	san lei chang di	500
+散水	san shui	330
+三肢箍	san zhi gu	730
+砂浆	sha jiang	672
+砂卵石层	sha luan shi ceng	41
+砂卵石褥垫层	sha luan shi ru dian ceng	32
+砂土	sha tu	670
+山墙	shan qiang	157
+上挡	shang dang	820
+上挡墙	shang dang qiang	819
+上节点高	shang jie dian gao	329
+上排	shang pai	596
+上人屋面	shang ren wu mian	328
+上铁	shang tie	598
+上铁上	shang tie shang	327
+上铁下	shang tie xia	326
+上网	shang wang	594
+上柱墩	shang zhu dun	325
+设备基础	she bei ji chu	69
+设备夹层	she bei jia ceng	156
+设防	she fang	716
+设防烈度	she fang lie du	714
+设计基准期	she ji ji zhun qi	113
+设计值	she ji zhi	770
+伸长率	shen chang lv	324
+审定	shen ding	322
+审核	shen he	321
+深梁	shen liang	545
+伸入	shen ru	323
+深受弯	shen shou wan	544
+审图	shen tu	320
+沈祖炎	shen zu yan	155
+生化池	sheng hua chi	79
+时程	shi cheng	684
+时程分析	shi cheng fen xi	512
+施工缝	shi gong feng	319
+施工模拟二	shi gong mo ni er	318
+施工模拟三	shi gong mo ni san	317
+施工模拟一	shi gong mo ni yi	316
+施工图	shi gong tu	315
+试块	shi kuai	314
+室外直通	shi wai zhi tong	814
+失稳	shi wen	857
+湿陷	shi xian	671
+使用面积	shi yong mian ji	154
+使用年限	shi yong nian xian	519
+首层	shou ceng	809
+收发室	shou fa shi	153
+受剪	shou jian	787
+受拉	shou la	789
+受扭	shou niu	788
+受压	shou ya	790
+竖井	shu jing	151
+书库	shu ku	152
+竖向	shu xiang	677
+竖向筋	shu xiang jin	313
+树脂	shu zhi	488
+双面焊	shuang mian han	572
+双排	shuang pai	734
+双排双向	shuang pai shuang xiang	735
+双向板	shuang xiang ban	312
+双向地震	shuang xiang di zhen	546
+双向双排	shuang xiang shuang pai	311
+双肢箍	shuang zhi gu	731
+双柱	shuang zhu	150
+水灰比	shui hui bi	310
+水落斗	shui luo dou	149
+水平筋	shui ping jin	309
+水土压力	shui tu ya li	647
+水箱间	shui xiang jian	802
+四层	si ceng	806
+四类场地	si lei chang di	499
+四肢箍	si zhi gu	729
+素混凝土	su hun ning tu	487
+塑性铰	su xing jiao	517
+踏步	ta bu	591
+弹塑性	tan su xing	513
+探索者	tan suo zhe	867
+弹性板	tan xing ban	233
+弹性地基梁	tan xing di ji liang	461
+弹性后效	tan xing hou xiao	631
+弹性楼板	tan xing lou ban	232
+弹性模量	tan xing mo liang	791
+陶粒	tao li	308
+梯段板	ti duan ban	148
+梯井	ti jing	589
+梯梁	ti liang	592
+梯跑	ti pao	590
+提条件	ti tiao jian	147
+体型	ti xing	686
+体型系数	ti xing xi shu	109
+填充墙	tian chong qiang	523
+添加剂	tian jia ji	306
+天然地基	tian ran di ji	307
+填土	tian tu	305
+天正	tian zheng	866
+挑板	tiao ban	146
+调幅	tiao fu	223
+调幅系数	tiao fu xi shu	222
+条基	tiao ji	565
+挑梁	tiao liang	304
+通长	tong chang	303
+通长筋	tong chang jin	522
+砼规	tong gui	626
+筒体	tong ti	498
+透视图	tou shi tu	92
+土工布	tu gong bu	36
+土工格栅	tu gong ge shan	34
+土工膜	tu gong mo	35
+图集	tu ji	145
+图框	tu kuang	571
+图名	tu ming	570
+图签	tu qian	568
+退台	tui tai	531
+挖孔桩	wa kong zhuang	667
+外露式	wai lu shi	558
+外墙	wai qiang	302
+外审	wai shen	301
+弯剪扭	wan jian niu	655
+弯矩	wan ju	842
+弯起	wan qi	753
+网架	wang jia	300
+网片	wang pian	299
+围焊	wei han	574
+卫生间	wei sheng jian	144
+位移	wei yi	681
+位移比	wei yi bi	680
+温度应力	wen du ying li	143
+五层	wu ceng	805
+无梁楼盖	wu liang lou gai	584
+污泥提升泵站	wu ni ti sheng beng zhan	71
+污泥脱水间	wu ni tuo shui jian	80
+屋檐	wu yan	142
+细长柱	xi chang zhu	141
+西立面	xi li mian	99
+下排	xia pai	595
+下铁	xia tie	597
+下网	xia wang	593
+现场焊	xian chang han	573
+线荷载	xian he zai	620
+现浇	xian jiao	794
+现浇层	xian jiao ceng	297
+现浇混凝土	xian jiao hun ning tu	793
+线弹性	xian tan xing	764
+线载	xian zai	619
+先张法	xian zhang fa	796
+限值	xian zhi	524
+相对高差	xiang dui gao cha	296
+项海帆	xiang hai fan	140
+箱涵	xiang han	30
+橡胶止水带	xiang jiao zhi shui dai	38
+详图	xiang tu	636
+消防疏散	xiao fang shu san	295
+效果图	xiao guo tu	91
+小偏拉	xiao pian la	738
+小偏心	xiao pian xin	742
+小偏压	xiao pian ya	739
+泄爆	xie bao	816
+斜撑	xie cheng	139
+斜截面	xie jie mian	532
+型钢	xing gang	844
+型钢混凝土	xing gang hun ning tu	843
+形式生成	xing shi sheng cheng	90
+锈蚀	xiu shi	292
+徐变	xu bian	291
+悬板活门	xuan ban huo men	811
+悬臂	xuan bi	754
+悬臂板	xuan bi ban	290
+悬臂梁	xuan bi liang	289
+悬挑	xuan tiao	288
+悬挑板	xuan tiao ban	287
+悬挑构件	xuan tiao gou jian	138
+悬挑梁	xuan tiao liang	286
+雪压	xue ya	285
+压实系数	ya shi xi shu	284
+压条	ya tiao	94
+压弯	ya wan	654
+验槽	yan cao	283
+檐沟	yan gou	137
+验筋	yan jin	282
+檐口	yan kou	538
+验算	yan suan	678
+岩土工程勘察规范	yan tu gong cheng kan cha gui fan	884
+养护	yang hu	280
+养护期	yang hu qi	659
+阳角	yang jiao	281
+腰筋	yao jin	746
+液化	ye hua	279
+一泵房	yi beng fang	84
+仪表间	yi biao jian	81
+一级钢	yi ji gang	723
+一类场地	yi lei chang di	502
+一类环境	yi lei huan jing	504
+溢流槽	yi liu cao	25
+溢流堰	yi liu yan	27
+衣帽间	yi mao jian	135
+一跑	yi pao	136
+翼墙	yi qiang	278
+异形板	yi xing ban	134
+异形柱	yi xing zhu	862
+翼缘	yi yuan	751
+阴角	yin jiao	277
+应变	ying bian	772
+应变片	ying bian pian	276
+应力	ying li	776
+永久荷载	yong jiu he zai	118
+隅撑	yu cheng	133
+预处理构筑物	yu chu li gou zhu wu	77
+预埋件	yu mai jian	868
+预埋套管	yu mai tao guan	75
+浴室	yu shi	132
+预算	yu suan	131
+余同	yu tong	275
+预应力	yu ying li	797
+预应力管桩	yu ying li guan zhuang	67
+预制	yu zhi	736
+预制方桩	yu zhi fang zhuang	274
+预制桩	yu zhi zhuang	273
+圆砾层	yuan li ceng	42
+原位标注	yuan wei biao zhu	602
+约束边缘构件	yue shu bian yuan gou jian	272
+杂填土	za tian tu	271
+粘质粉土	zhan zhi fen tu	270
+找平	zhao ping	269
+找平层	zhao ping ceng	268
+找坡	zhao po	267
+折倒剖	zhe dao pou	543
+折倒剖面	zhe dao pou mian	542
+折减	zhe jian	683
+折减系数	zhe jian xi shu	514
+折梁	zhe liang	130
+振捣	zhen dao	266
+振捣棒	zhen dao bang	265
+振型	zhen xing	685
+正截面	zheng jie mian	533
+整体稳定	zheng ti wen ding	549
+肢高肢厚比	zhi gao zhi hou bi	541
+支模	zhi mo	264
+肢数	zhi shu	732
+滞水	zhi shui	262
+止水帷幕	zhi shui wei mu	57
+制图	zhi tu	263
+支座	zhi zuo	709
+中部筋	zhong bu jin	261
+中粗砂	zhong cu sha	260
+重分配	zhong fen pei	129
+中风化岩层	zhong feng hua yan ceng	39
+中和轴	zhong he zhou	775
+中间支座	zhong jian zhi zuo	259
+重力二阶效应	zhong li er jie xiao ying	880
+中砂	zhong sha	258
+种植屋面	zhong zhi wu mian	257
+中柱	zhong zhu	713
+轴侧	zhou ce	127
+轴力	zhou li	126
+周期比	zhou qi bi	534
+轴网	zhou wang	256
+周锡元	zhou xi yuan	128
+轴线	zhou xian	255
+轴压	zhou ya	254
+轴压比	zhou ya bi	253
+柱表	zhu biao	251
+注册结构工程师	zhu ce jie gou gong cheng shi	566
+注册章	zhu ce zhang	567
+主持人	zhu chi ren	252
+柱底	zhu di	607
+柱顶	zhu ding	608
+主动土压力	zhu dong tu ya li	578
+柱墩	zhu dun	298
+柱脚	zhu jiao	559
+柱截面	zhu jie mian	599
+主筋	zhu jin	745
+柱距	zhu ju	125
+柱宽	zhu kuan	755
+柱帽	zhu mao	583
+贮泥池	zhu ni chi	24
+柱平面布置图	zhu ping mian bu zhi tu	5
+柱肢	zhu zhi	511
+转换层	zhuan huan ceng	526
+转换梁	zhuan huan liang	874
+转角柱	zhuan jiao zhu	250
+桩长	zhuang chang	669
+桩径	zhuang jing	553
+桩径比	zhuang jing bi	551
+装配整体式	zhuang pei zheng ti shi	720
+桩身	zhuang shen	552
+准永久	zhun yong jiu	124
+准永久值	zhun yong jiu zhi	769
+准永久组合	zhun yong jiu zu he	123
+子筏板	zi fa ban	650
+紫外光消毒池	zi wai guang xiao du chi	70
+自振周期	zi zhen zhou qi	535
+自重抗浮	zi zhong kang fu	53
+纵筋	zong jin	837
+总平面	zong ping mian	96
+走廊	zou lang	106
+组合梁	zu he liang	105
+组合值	zu he zhi	768
+组合值系数	zu he zhi xi shu	767
+阻尼比	zu ni bi	110
+最大水灰比	zui da shui hui bi	249
+最小配筋率	zui xiao pei jin lv	104

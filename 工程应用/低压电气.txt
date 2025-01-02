@@ -1,0 +1,172 @@
+# 文件名：低压电气.scel
+# 词库名：低压电气
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：电压表 小型断路器 刀开关 转换开关 热继电器 时间继电器
+# 词条数量：165
+
+按钮	an niu	125
+安全继电器	an quan ji dian qi	3
+避雷器	bi lei qi	120
+编码器	bian ma qi	93
+变频电机	bian pin dian ji	92
+变频器	bian pin qi	91
+变压器	bian ya qi	140
+剥线钳	bo xian qian	90
+步进电机	bu jin dian ji	89
+操作机构	cao zuo ji gou	105
+插头	cha tou	88
+插座	cha zuo	154
+常闭触点	chang bi chu dian	87
+常开触点	chang kai chu dian	86
+超声波传感器	chao sheng bo chuan gan qi	85
+抽出式	chou chu shi	101
+触头	chu tou	84
+磁脱扣	ci tuo kou	83
+磁性开关	ci xing kai guan	82
+带灯按钮	dai deng an niu	81
+单相电度表	dan xiang dian du biao	136
+导轨	dao gui	80
+刀开关	dao kai guan	158
+等电位	deng dian wei	110
+低压配电柜	di ya pei dian gui	95
+电磁线圈	dian ci xian quan	79
+电动机保护器	dian dong ji bao hu qi	142
+电度表	dian du biao	137
+电感式	dian gan shi	78
+电铃	dian ling	114
+电流表	dian liu biao	164
+电流继电器	dian liu ji dian qi	5
+电容式	dian rong shi	77
+电位器	dian wei qi	76
+电压表	dian ya biao	165
+电压继电器	dian ya ji dian qi	4
+电阻器	dian zu qi	146
+动力配电箱	dong li pei dian xiang	94
+断路器	duan lu qi	162
+端子排	duan zi pai	74
+对讲门铃	dui jiang men ling	113
+多芯电缆	duo xin dian lan	73
+额定电流	e ding dian liu	108
+额定电压	e ding dian ya	109
+额定功率	e ding gong lv	72
+额定频率	e ding pin lv	71
+额定容量	e ding rong liang	107
+额定转速	e ding zhuan su	70
+二次方案	er ci fang an	102
+防爆电机	fang bao dian ji	69
+分励脱扣	fen li tuo kou	68
+蜂鸣器	feng ming qi	67
+负荷开关	fu he kai guan	66
+辅助触点	fu zhu chu dian	115
+隔离开关	ge li kai guan	157
+隔离器	ge li qi	147
+固定式	gu ding shi	100
+固态继电器	gu tai ji dian qi	65
+管接头	guan jie tou	64
+管状端子	guan zhuang duan zi	63
+光电传感器	guang dian chuan gan qi	62
+光电开关	guang dian kai guan	61
+光幕	guang mu	1
+过渡夹	guo du jia	138
+过压脱扣	guo ya tuo kou	60
+航空插头	hang kong cha tou	59
+互感器	hu gan qi	163
+弧焊机	hu han ji	112
+护套线	hu tao xian	58
+混合式	hun he shi	99
+继电器	ji dian qi	149
+继电器线圈	ji dian qi xian quan	56
+计量	ji liang	96
+急停按钮	ji ting an niu	57
+加热管	jia re guan	55
+尖嘴钳	jian zui qian	54
+交流接触器	jiao liu jie chu qi	53
+交流驱动	jiao liu qu dong	52
+接触器	jie chu qi	153
+接近开关	jie jin kai guan	51
+接线端子	jie xian duan zi	139
+接线端子板	jie xian duan zi ban	118
+金属软管	jin shu ruan guan	50
+控制按钮	kong zhi an niu	124
+框架断路器	kuang jia duan lu qi	49
+馈电	kui dian	97
+浪涌保护器	lang yong bao hu qi	141
+浪涌吸收器	lang yong xi shou qi	48
+漏电断路器	lou dian duan lu qi	161
+铝排	lv pai	116
+灭弧栅	mie hu shan	46
+灭弧栅片	mie hu shan pian	45
+灭弧室	mie hu shi	47
+蘑菇头按钮	mo gu tou an niu	44
+母线排	mu xian pai	43
+配电箱	pei dian xiang	111
+频率变阻器	pin lv bian zu qi	145
+频率表	pin lv biao	133
+屏蔽层	ping bi ceng	41
+屏蔽电缆	ping bi dian lan	40
+屏蔽线	ping bi xian	39
+屏蔽罩	ping bi zhao	38
+平头按钮	ping tou an niu	42
+启动器	qi dong qi	144
+欠压脱扣	qian ya tuo kou	37
+热磁脱扣	re ci tuo kou	36
+热电偶	re dian ou	130
+热继电器	re ji dian qi	155
+热缩管	re suo guan	35
+热脱扣	re tuo kou	34
+熔断器	rong duan qi	148
+软导线	ruan dao xian	33
+三相电度表	san xiang dian du biao	135
+声控开关	sheng kong kai guan	119
+时间继电器	shi jian ji dian qi	151
+时控开关	shi kong kai guan	150
+受电	shou dian	98
+双电源	shuang dian yuan	159
+伺服电机	si fu dian ji	32
+塑壳断路器	su ke duan lu qi	31
+调节仪	tiao jie yi	132
+调压器	tiao ya qi	75
+同步控制继电器	tong bu kong zhi ji dian qi	2
+铜排	tong pai	117
+凸头按钮	tu tou an niu	30
+脱扣器	tuo kou qi	29
+外形尺寸	wai xing chi cun	104
+微动开关	wei dong kai guan	122
+温控仪	wen kong yi	131
+线鼻	xian bi	28
+线槽	xian cao	27
+线槽剪	xian cao jian	26
+相位表	xiang wei biao	25
+小型断路器	xiao xing duan lu qi	160
+信号灯	xin hao deng	123
+行程开关	xing cheng kai guan	126
+压线钳	ya xian qian	24
+一次方案	yi ci fang an	103
+银基合金	yin ji he jin	23
+硬导线	ying dao xian	22
+荧光灯	ying guang deng	129
+应急灯	ying ji deng	128
+预付费电度表	yu fu fei dian du biao	134
+扎线带	zha xian dai	21
+真空泵	zhen kong beng	20
+真空度	zhen kong du	19
+真空断路器	zhen kong duan lu qi	18
+真空计	zhen kong ji	17
+真空检漏	zhen kong jian lou	16
+真空接触器	zhen kong jie chu qi	15
+真空开关	zhen kong kai guan	14
+真空灭弧室	zhen kong mie hu shi	13
+直流接触器	zhi liu jie chu qi	12
+直流驱动	zhi liu qu dong	11
+指示灯	zhi shi deng	10
+中间继电器	zhong jian ji dian qi	152
+主触点	zhu chu dian	9
+主开关	zhu kai guan	106
+主令开关	zhu ling kai guan	143
+转换触点	zhuan huan chu dian	8
+转换开关	zhuan huan kai guan	156
+转速表	zhuan su biao	7
+自动开关	zi dong kai guan	127
+自耦变压器	zi ou bian ya qi	6
+组合开关	zu he kai guan	121

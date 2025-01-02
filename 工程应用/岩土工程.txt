@@ -1,0 +1,232 @@
+# 文件名：岩土工程.scel
+# 词库名：岩土工程
+# 词库分类：土木结构
+# 词库描述：
+# 词条样例：杂填土 淤泥质 粉土 粉质粘土 基坑 基坑支护
+# 词条数量：225
+
+饱和	bao he	69
+比重	bi zhong	78
+边坡	bian po	209
+变异系数	bian yi xi shu	83
+标高	biao gao	62
+标贯	biao guan	93
+标贯击数	biao guan ji shu	31
+标贯深度	biao guan shen du	89
+标准差	biao zhun cha	85
+标准值	biao zhun zhi	82
+冰积土	bing ji tu	6
+不良地质现象	bu liang di zhi xian xiang	117
+残积土	can ji tu	215
+测斜	ce xie	139
+测斜孔	ce xie kong	138
+层号	ceng hao	80
+超灌	chao guan	159
+沉管灌注桩	chen guan guan zhu zhuang	162
+沉降	chen jiang	57
+承压地下水	cheng ya di xia shui	145
+承压水	cheng ya shui	146
+承压水突涌	cheng ya shui tu yong	144
+持力层的选择	chi li ceng de xuan ze	115
+冲积土	chong ji tu	8
+冲孔桩	chong kong zhuang	157
+粗砂	cu sha	21
+单桥	dan qiao	36
+单桥静探仪	dan qiao jing tan yi	34
+挡土	dang tu	188
+地貌	di mao	119
+第四系	di si xi	109
+地下连续墙	di xia lian xu qiang	184
+地形	di xing	120
+动探	dong tan	37
+多头搅拌	duo tou jiao ban	154
+范围值	fan wei zhi	68
+分布范围	fen bu fan wei	111
+粉喷桩	fen pen zhuang	151
+粉砂	fen sha	218
+粉土	fen tu	220
+粉细砂	fen xi sha	217
+粉质黏土	fen zhi nian tu	29
+风积土	feng ji tu	5
+辅撑	fu cheng	175
+复搅	fu jiao	153
+腐蚀性	fu shi xing	58
+辅支撑	fu zhi cheng	174
+钢板网	gang ban wang	190
+钢筋网	gang jin wang	189
+高程	gao cheng	63
+工程概况	gong cheng gai kuang	125
+挂网喷射混凝土	gua wang pen she hun ning tu	203
+管井	guan jing	141
+冠梁	guan liang	192
+灌注桩	guan zhu zhuang	164
+褐红色	he hong se	107
+褐黄色	he huang se	108
+洪积土	hong ji tu	9
+厚层状	hou ceng zhuang	95
+换撑	huan cheng	173
+灰岩	hui yan	112
+混合土	hun he tu	13
+基础类型	ji chu lei xing	116
+基坑	ji keng	213
+基坑工程	ji keng gong cheng	211
+基坑降水	ji keng jiang shui	210
+基坑支护	ji keng zhi hu	212
+击数	ji shu	32
+建筑抗震设计规范	jian zhu kang zhen she ji gui fan	129
+浆喷桩	jiang pen zhuang	150
+搅拌桩	jiao ban zhuang	155
+角砾	jiao li	19
+揭露	jie lu	54
+结论与建议	jie lun yu jian yi	56
+截水	jie shui	149
+井点	jing dian	143
+静力触探	jing li chu tan	40
+静探	jing tan	39
+静探曲线	jing tan qu xian	38
+静压预制管桩	jing ya yu zhi guan zhuang	165
+静压预制桩	jing ya yu zhi zhuang	166
+勘察规范	kan cha gui fan	130
+勘察目的	kan cha mu di	124
+勘探点平面位置图	kan tan dian ping mian wei zhi tu	114
+抗浮锚杆	kang fu mao gan	180
+抗剪强度	kang jian qiang du	70
+可回收锚杆	ke hui shou mao gan	181
+可回收锚索	ke hui shou mao suo	179
+可塑	ke su	101
+坑底	keng di	208
+孔隙比	kong xi bi	79
+控制性勘探孔	kong zhi xing kan tan kong	48
+块石	kuai shi	15
+块状结构	kuai zhuang jie gou	96
+扩大头	kuo da tou	183
+扩大头锚杆	kuo da tou mao gan	182
+老沉积土	lao chen ji tu	11
+粒径	li jing	106
+砾砂	li sha	20
+立柱	li zhu	170
+立柱桩	li zhu zhuang	169
+卵石	luan shi	16
+锚杆	mao gan	197
+锚索	mao suo	196
+摩擦力	mo ca li	71
+拟建场地	ni jian chang di	122
+拟建工程	ni jian gong cheng	127
+泥炭	ni tan	1
+泥炭质土	ni tan zhi tu	2
+泥岩	ni yan	214
+黏土	nian tu	30
+黏质粉土	nian zhi fen tu	24
+排桩	pai zhuang	201
+排桩悬臂	pai zhuang xuan bi	200
+排桩支护	pai zhuang zhi hu	202
+喷锚	pen mao	206
+喷锚支护	pen mao zhi hu	205
+喷射混凝土	pen she hun ning tu	207
+漂石	piao shi	14
+平均值	ping jun zhi	84
+坡积土	po ji tu	216
+强度指标	qiang du zhi biao	43
+强风化	qiang feng hua	65
+轻型井点	qing xing jing dian	142
+全风化	quan feng hua	64
+人工填土	ren gong tian tu	110
+人工挖孔灌注桩	ren gong wa kong guan zhu zhuang	160
+人工挖孔桩	ren gong wa kong zhuang	161
+任务要求	ren wu yao qiu	123
+溶洞	rong dong	61
+软塑	ruan su	100
+砂卵石	sha luan shi	98
+砂土	sha tu	219
+砂质粉土	sha zhi fen tu	25
+上层滞水	shang ceng zhi shui	147
+稍有光泽	shao you guang ze	104
+深层搅拌桩	shen ceng jiao ban zhuang	152
+实测击数	shi ce ji shu	87
+试验编号	shi yan bian hao	90
+石英	shi ying	103
+数据个数	shu ju ge shu	81
+双排桩	shuang pai zhuang	187
+双桥	shuang qiao	35
+双桥静探仪	shuang qiao jing tan yi	33
+水泥土	shui ni tu	156
+水文地质条件	shui wen di zhi tiao jian	118
+水样	shui yang	45
+素填土	su tian tu	223
+塑性指数	su xing zhi shu	75
+碎石	sui shi	17
+碎石土	sui shi tu	12
+锁口梁	suo kou liang	191
+碳酸钙炭质	tan suan gai tan zhi	102
+弹性模量	tan xing mo liang	42
+天然含水量	tian ran han shui liang	76
+天然密度	tian ran mi du	77
+填土	tian tu	225
+土洞	tu dong	60
+土工试验	tu gong shi yan	92
+土类名称	tu lei ming cheng	86
+土壤	tu rang	113
+土样	tu yang	47
+网喷	wang pen	204
+微风化	wei feng hua	66
+未完成	wei wan cheng	52
+无机土	wu ji tu	4
+细砂	xi sha	23
+新近沉积土	xin jin chen ji tu	10
+修正击数	xiu zheng ji shu	88
+旋挖桩	xuan wa zhuang	158
+压缩模量	ya suo mo liang	41
+压缩模型	ya suo mo xing	72
+压缩系数	ya suo xi shu	73
+岩石质量等级	yan shi zhi liang deng ji	91
+岩体	yan ti	94
+岩土	yan tu	136
+岩土工程	yan tu gong cheng	135
+岩土工程师	yan tu gong cheng shi	134
+岩土工程师论坛	yan tu gong cheng shi lun tan	133
+岩土工程条件	yan tu gong cheng tiao jian	121
+岩土工作者	yan tu gong zuo zhe	44
+岩样	yan yang	46
+摇震无反映	yao zhen wu fan ying	105
+液性指数	ye xing zhi shu	74
+一般性勘探孔	yi ban xing kan tan kong	49
+隐晶质结构	yin jing zhi jie gou	97
+硬塑	ying su	99
+有机质土	you ji zhi tu	3
+淤积土	yu ji tu	7
+淤泥	yu ni	222
+淤泥质	yu ni zhi	221
+淤泥质粉质黏土	yu ni zhi fen zhi nian tu	27
+淤泥质黏土	yu ni zhi nian tu	28
+淤泥质土	yu ni zhi tu	26
+预制管桩	yu zhi guan zhuang	167
+预制桩	yu zhi zhuang	168
+圆砾	yuan li	18
+原位测试	yuan wei ce shi	50
+杂填土	za tian tu	224
+在建工程	zai jian gong cheng	126
+支撑	zhi cheng	193
+支撑梁	zhi cheng liang	178
+支护桩	zhi hu zhuang	171
+止水帷幕	zhi shui wei mu	148
+中风化	zhong feng hua	67
+中砂	zhong sha	22
+中深管井	zhong shen guan jing	140
+注册岩土工程师	zhu ce yan tu gong cheng shi	132
+注册岩土工程师论坛	zhu ce yan tu gong cheng shi lun tan	131
+主撑	zhu cheng	177
+主支撑	zhu zhi cheng	176
+柱状	zhu zhuang	59
+桩撑	zhuang cheng	195
+桩撑支护	zhuang cheng zhi hu	194
+桩基	zhuang ji	172
+桩基础	zhuang ji chu	137
+桩间距	zhuang jian ju	185
+桩锚	zhuang mao	199
+桩锚支护	zhuang mao zhi hu	198
+桩排	zhuang pai	186
+自重固结	zi zhong gu jie	51
+综合分析	zong he fen xi	53
+钻孔	zuan kong	128
+钻孔灌注桩	zuan kong guan zhu zhuang	163
+钻探	zuan tan	55

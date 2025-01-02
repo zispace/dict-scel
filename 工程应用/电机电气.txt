@@ -1,0 +1,75 @@
+# 文件名：电机电气.scel
+# 词库名：电机电气
+# 词库分类：电力电气
+# 词库描述：
+# 词条样例：极数 电枢内径 极对数 反电动势 气隙 三相
+# 词条数量：68
+
+安匝	an za	14
+饱和压降	bao he ya jiang	57
+变压器电动势	bian ya qi dian dong shi	15
+变压器电势	bian ya qi dian shi	16
+超磁致伸缩	chao ci zhi shen suo	25
+磁链	ci lian	29
+磁密	ci mi	34
+磁敏	ci min	45
+磁能积	ci neng ji	33
+磁通	ci tong	1
+磁障	ci zhang	40
+磁滞	ci zhi	32
+磁阻	ci zu	11
+电磁转矩	dian ci zhuan ju	63
+电机转速	dian ji zhuan su	67
+电励磁线圈	dian li ci xian quan	31
+电枢电流	dian shu dian liu	60
+电枢内径	dian shu nei jing	66
+反电动势	fan dian dong shi	61
+感应电机	gan ying dian ji	7
+刚轮	gang lun	26
+功角	gong jiao	43
+功率因数角	gong lv yin shu jiao	2
+滑差	hua cha	12
+极对数	ji dui shu	64
+极弧系数	ji hu xi shu	58
+极距	ji ju	65
+极数	ji shu	68
+机座号	ji zuo hao	19
+交轴	jiao zhou	36
+矩角	ju jiao	44
+开关磁阻电机	kai guan ci zu dian ji	10
+空载转速	kong zai zhuan su	56
+两相	liang xiang	55
+两相四状态	liang xiang si zhuang tai	46
+漏磁	lou ci	22
+每相	mei xiang	62
+灭磁	mie ci	30
+内功角	nei gong jiao	4
+气隙	qi xi	59
+柔轮	rou lun	27
+三相	san xiang	54
+三相六状态	san xiang liu zhuang tai	47
+三相三状态	san xiang san zhuang tai	49
+失步转矩	shi bu zhuan ju	39
+鼠笼式	shu long shi	41
+双凸极	shuang tu ji	35
+四相四状态	si xiang si zhuang tai	48
+同步电机	tong bu dian ji	9
+同步速	tong bu su	23
+外功角	wai gong jiao	3
+无刷直流电机	wu shua zhi liu dian ji	52
+线电动势	xian dian dong shi	50
+相电动势	xiang dian dong shi	51
+相数	xiang shu	42
+星形	xing xing	53
+旋转电动势	xuan zhuan dian dong shi	17
+旋转电势	xuan zhuan dian shi	18
+异步电机	yi bu dian ji	8
+永磁	yong ci	21
+永磁体	yong ci ti	20
+永磁同步电机	yong ci tong bu dian ji	5
+有刷直流电机	you shua zhi liu dian ji	6
+增磁	zeng ci	28
+致动器	zhi dong qi	24
+直轴	zhi zhou	37
+转差率	zhuan cha lv	13
+转矩角	zhuan ju jiao	38

@@ -1,0 +1,44 @@
+# 文件名：arduino编程.scel
+# 词库名：arduino编程
+# 词库分类：硬件
+# 词库描述：
+# 词条样例：无符号字符型 字节型 无符号长整型 浮点型 最小值 数值限制
+# 词条数量：37
+
+布尔型	bu er xing	34
+常量	chang liang	35
+长整型	chang zheng xing	28
+浮点型	fu dian xing	26
+复合乘	fu he cheng	4
+复合除	fu he chu	3
+复合或	fu he huo	1
+复合加	fu he jia	6
+复合减	fu he jian	5
+复合与	fu he yu	2
+静态变量	jing tai bian liang	37
+绝对值	jue dui zhi	20
+开方函数	kai fang han shu	16
+取消中断	qu xiao zhong duan	11
+设置中断	she zhi zhong duan	12
+数值限制	shu zhi xian zhi	19
+数组	shu zu	23
+双精度浮点型	shuang jing du fu dian xing	25
+位右移	wei you yi	9
+位左移	wei zuo yi	10
+无符号长整型	wu fu hao chang zheng xing	27
+无符号字符型	wu fu hao zi fu xing	32
+易变变量	yi bian bian liang	36
+映射函数	ying she han shu	18
+余弦函数	yu xian han shu	14
+正切函数	zheng qie han shu	13
+正弦函数	zheng xian han shu	15
+整型	zheng xing	30
+指数函数	zhi shu han shu	17
+字符串字符串型	zi fu chuan zi fu chuan xing	24
+字符型	zi fu xing	33
+自加	zi jia	8
+自减	zi jian	7
+字节型	zi jie xing	31
+字型	zi xing	29
+最大值	zui da zhi	21
+最小值	zui xiao zhi	22

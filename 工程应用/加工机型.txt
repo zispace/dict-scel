@@ -1,0 +1,16 @@
+# 文件名：加工机型.scel
+# 词库名：加工机型
+# 词库分类：机械工程
+# 词库描述：
+# 词条样例：头板 导杆 前板 后板 顶出板
+# 词条数量：9
+
+导杆	dao gan	4
+导杆支座	dao gan zhi zuo	3
+顶出板	ding chu ban	2
+二板	er ban	8
+后板	hou ban	5
+前板	qian ban	6
+头板	tou ban	9
+推力座	tui li zuo	1
+尾板	wei ban	7

@@ -1,0 +1,31 @@
+# 文件名：航天工程卫星工程火箭工程.scel
+# 词库名：航天工程卫星工程火箭工程
+# 词库分类：电子工程
+# 词库描述：
+# 词条样例：电平指令 自锁阀 在轨 太阳敏感器 星敏 磁棒
+# 词条数量：24
+
+磁棒	ci bang	6
+磁力矩器	ci li ju qi	14
+电磁阀	dian ci fa	16
+电平指令	dian ping zhi ling	18
+定姿	ding zi	1
+动量轮	dong liang lun	5
+飞轮	fei lun	4
+负电平	fu dian ping	11
+壳地	ke di	2
+模拟量采集	mo ni liang cai ji	20
+热敏采集	re min cai ji	19
+太敏	tai min	7
+太阳敏感器	tai yang min gan qi	9
+星箭分离	xing jian fen li	21
+星敏	xing min	8
+星敏感器	xing min gan qi	10
+遥测	yao ce	23
+遥控	yao kong	24
+在轨	zai gui	13
+正电平	zheng dian ping	12
+指令	zhi ling	22
+姿控分系统	zi kong fen xi tong	3
+自锁阀	zi suo fa	15
+自主切机	zi zhu qie ji	17

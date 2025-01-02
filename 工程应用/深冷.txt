@@ -1,0 +1,32 @@
+# 文件名：深冷.scel
+# 词库名：深冷
+# 词库分类：钢铁冶金
+# 词库描述：
+# 词条样例：液氧储槽 液氮储槽 液氩储槽 空冷塔 水冷塔 精馏
+# 词条数量：25
+
+补水阀	bu shui fa	4
+粗氩泵	cu ya beng	24
+粗氩塔	cu ya ta	18
+东台	dong tai	20
+多级泵	duo ji beng	2
+分馏塔	fen liu ta	11
+分子筛	fen zi shai	14
+换热器	huan re qi	10
+回流	hui liu	7
+回水	hui shui	5
+精馏	jing liu	9
+空分	kong fen	25
+空冷塔	kong leng ta	13
+凉水塔	liang shui ta	1
+上水	shang shui	6
+水冷塔	shui leng ta	12
+西台	xi tai	19
+循环泵	xun huan beng	3
+液氮泵	ye dan beng	21
+液氮储槽	ye dan chu cao	16
+液空	ye kong	8
+液氩泵	ye ya beng	22
+液氩储槽	ye ya chu cao	15
+液氧泵	ye yang beng	23
+液氧储槽	ye yang chu cao	17

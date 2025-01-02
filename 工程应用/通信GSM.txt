@@ -1,0 +1,131 @@
+# 文件名：通信GSM.scel
+# 词库名：通信GSM
+# 词库分类：其他
+# 词库描述：
+# 词条样例：基站 发射频率 主频段 频段 抗干扰措施
+# 词条数量：124
+
+拜访位置寄存器	bai fang wei zhi ji cun qi	57
+比特号	bi te hao	102
+操作支持系统	cao zuo zhi chi xi tong	66
+传输控制协议因特网协议	chuan shu kong zhi xie yi yin te wang xie yi	21
+独立专用控制信道	du li zhuan yong kong zhi xin dao	77
+短消息服务网关	duan xiao xi fu wu wang guan	50
+短消息互连	duan xiao xi hu lian	49
+短消息业务小区广播	duan xiao xi ye wu xiao qu guang bo	6
+发射频率	fa she pin lv	118
+发信机	fa xin ji	71
+非连续发射	fei lian xu fa she	97
+分组交换共用数据网	fen zu jiao huan gong yong shu ju wang	60
+分组接入应答信道	fen zu jie ru ying da xin dao	85
+服务中心	fu wu zhong xin	51
+干扰源	gan rao yuan	107
+个人识别码	ge ren shi bie ma	59
+公共控制信道	gong gong kong zhi xin dao	100
+功率控制级别等	gong lv kong zhi ji bie deng	9
+共用电话交换网	gong yong dian hua jiao huan wang	62
+共用陆地移动网	gong yong lu di yi dong wang	64
+共用数据交换网	gong yong shu ju jiao huan wang	61
+广播控制信道	guang bo kong zhi xin dao	104
+广域网	guang yu wang	35
+归属位置寄存器	gui shu wei zhi ji cun qi	58
+国内共用陆地移动网	guo nei gong yong lu di yi dong wang	63
+基操作维护中心	ji cao zuo wei hu zhong xin	67
+计费网关	ji fei wang guan	48
+基站	ji zhan	119
+基站控制器	ji zhan kong zhi qi	47
+基站识别码	ji zhan shi bie ma	103
+基站收发信机	ji zhan shou fa xin ji	45
+基站系统	ji zhan xi tong	68
+鉴权中心	jian quan zhong xin	55
+交换系统	jiao huan xi tong	69
+解码	jie ma	2
+接入突发脉冲	jie ru tu fa mai chong	106
+接入允许信道	jie ru yun xu xin dao	105
+接收机	jie shou ji	83
+接收频率	jie shou pin lv	117
+静寂描述	jing ji miao shu	78
+局域网	ju yu wang	36
+开放系统互连	kai fang xi tong hu lian	29
+抗干扰措施	kang gan rao cuo shi	113
+抗噪声与干扰	kang zao sheng yu gan rao	110
+空位突发脉冲	kong wei tu fa mai chong	99
+快速随路控制信道	kuai su sui lu kong zhi xin dao	96
+扩展频段	kuo zhan pin duan	115
+邻频	lin pin	111
+临时移动台识别码	lin shi yi dong tai shi bie ma	22
+码分多址	ma fen duo zhi	30
+脉冲编码调制	mai chong bian ma tiao zhi	20
+慢速随路控制信道	man su sui lu kong zhi xin dao	82
+密钥	mi yao	16
+内部功能单元	nei bu gong neng dan yuan	52
+频段	pin duan	114
+频分多址	pin fen duo zhi	31
+频率校正	pin lv jiao zheng	4
+频率校正突发脉冲	pin lv jiao zheng tu fa mai chong	95
+频率校正信道	pin lv jiao zheng xin dao	12
+频率利用率	pin lv li yong lv	122
+频率引正信道	pin lv yin zheng xin dao	93
+普通突发脉冲	pu tong tu fa mai chong	88
+七号共用信道信令系统	qi hao gong yong xin dao xin ling xi tong	28
+全球移动通信系统	quan qiu yi dong tong xin xi tong	70
+全球移动通信业务	quan qiu yi dong tong xin ye wu	32
+全速率语音信道	quan su lv yu yin xin dao	65535
+全向小区	quan xiang xiao qu	121
+设备识别寄存器	she bei shi bie ji cun qi	54
+射频	she pin	84
+时分多址	shi fen duo zhi	74
+时间提前	shi jian ti qian	76
+时隙	shi xi	1
+时隙号	shi xi hao	73
+数字数据网	shu zi shu ju wang	24
+随机接入信道	sui ji jie ru xin dao	86
+跳频序列号	tiao pin xu lie hao	92
+同步传输模式	tong bu chuan shu mo shi	18
+同步数字系列	tong bu shu zi xi lie	19
+同步突发脉冲	tong bu tu fa mai chong	81
+同步信道	tong bu xin dao	80
+通话明细记录	tong hua ming xi ji lu	13
+同频	tong pin	112
+通信质量	tong xin zhi liang	123
+通用分组无线业务	tong yong fen zu wu xian ye wu	37
+网关	wang guan	53
+网络服务提供商	wang luo fu wu ti gong shang	33
+位置区	wei zhi qu	44
+无线基站	wu xian ji zhan	46
+无线频谱分配	wu xian pin pu fen pei	120
+无线应用协议	wu xian ying yong xie yi	14
+小区广播控制信道	xiao qu guang bo kong zhi xin dao	7
+小区配置	xiao qu pei zhi	101
+消息传送部分	xiao xi chuan song bu fen	27
+信道组合	xin dao zu he	0
+信令连接控制部分	xin ling lian jie kong zhi bu fen	25
+寻呼信道	xun hu xin dao	87
+训练序列号	xun lian xu lie hao	72
+业务交换点	ye wu jiao huan dian	42
+业务交换功能	ye wu jiao huan gong neng	39
+业务控制点	ye wu kong zhi dian	41
+业务控制功能	ye wu kong zhi gong neng	38
+业务信道	ye wu xin dao	75
+异步传输模式	yi bu chuan shu mo shi	17
+移动交换中心	yi dong jiao huan zhong xin	56
+移动配置	yi dong pei zhi	91
+移动配置指数偏移	yi dong pei zhi zhi shu pian yi	90
+移动台	yi dong tai	89
+移动通信系统	yi dong tong xin xi tong	124
+移动应用部分	yi dong ying yong bu fen	26
+移动智能网	yi dong zhi neng wang	43
+译码	yi ma	3
+因特网服务提供商	yin te wang fu wu ti gong shang	34
+用户鉴权密码	yong hu jian quan mi ma	15
+用户识别模块	yong hu shi bie mo kuai	40
+域名服务器	yu ming fu wu qi	23
+语音与数据业务	yu yin yu shu ju ye wu	108
+越区切换平稳	yue qu qie huan ping wen	109
+帧	zhen	5
+帧号码	zhen hao ma	94
+主频段	zhu pin duan	116
+专用控制信道	zhuan yong kong zhi xin dao	98
+准予接入信道	zhun yu jie ru xin dao	10
+子信道号码	zi xin dao hao ma	79
+综合业务数字网	zong he ye wu shu zi wang	65
