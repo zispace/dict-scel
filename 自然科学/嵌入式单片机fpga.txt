@@ -1,0 +1,69 @@
+# 文件名：嵌入式单片机fpga.scel
+# 词库名：嵌入式单片机fpga
+# 词库分类：电学
+# 词库描述：
+# 词条样例：嵌入式 定时器 看门狗 触摸屏 实时性
+# 词条数量：62
+
+并发性	bing fa xing	48
+并行通信	bing xing tong xin	25
+触摸屏	chu mo ping	51
+传感器	chuan gan qi	50
+串行通信	chuan xing tong xin	24
+代码优化	dai ma you hua	38
+单片机	dan pian ji	61
+低功耗	di gong hao	46
+电平	dian ping	4
+电源管理	dian yuan guan li	30
+定时器	ding shi qi	55
+仿真器	fang zhen qi	41
+封装	feng zhuang	29
+公司	gong si	6
+固件	gu jian	59
+集成电路	ji cheng dian lu	28
+集成开发环境	ji cheng kai fa huan jing	39
+寄存器	ji cun qi	1
+机器学习	ji qi xue xi	18
+计数器	ji shu qi	54
+加密	jia mi	13
+键盘	jian pan	52
+交叉编译	jiao cha bian yi	42
+解码器	jie ma qi	23
+解密	jie mi	12
+晶振	jing zhen	2
+开关量	kai guan liang	26
+看门狗	kan men gou	53
+蓝牙	lan ya	15
+模拟量	mo ni liang	27
+内存管理	nei cun guan li	37
+嵌入式	qian ru shi	62
+嵌入式安全	qian ru shi an quan	14
+嵌入式操作系统	qian ru shi cao zuo xi tong	44
+嵌入式开发	qian ru shi kai fa	43
+嵌入式系统	qian ru shi xi tong	45
+驱动程序	qu dong cheng xu	57
+人工智能	ren gong zhi neng	19
+任务调度	ren wu diao du	36
+认证	ren zheng	10
+软件加密	ruan jian jia mi	7
+事件处理	shi jian chu li	34
+视频处理	shi pin chu li	21
+实时性	shi shi xing	47
+时钟	shi zhong	3
+授权	shou quan	9
+数字签名	shu zi qian ming	11
+调试器	tiao shi qi	40
+通信协议	tong xin xie yi	32
+图像处理	tu xiang chu li	20
+网络接口	wang luo jie kou	31
+微控制器	wei kong zhi qi	60
+物联网	wu lian wang	17
+无线通信	wu xian tong xin	16
+信号处理	xin hao chu li	33
+芯片型号	xin pian xing hao	5
+音频处理	yin pin chu li	22
+硬件抽象层	ying jian chou xiang ceng	58
+硬件加密	ying jian jia mi	8
+执行器	zhi xing qi	49
+中断	zhong duan	56
+资源分配	zi yuan fen pei	35

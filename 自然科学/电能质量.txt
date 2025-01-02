@@ -1,0 +1,93 @@
+# 文件名：电能质量.scel
+# 词库名：电能质量
+# 词库分类：热学
+# 词库描述：
+# 词条样例：闪变 畸变率 PQDIF 谐波抑制 有源 无源滤波器
+# 词条数量：86
+
+包络线	bao luo xian	13
+标称值	biao cheng zhi	32
+波动	bo dong	85
+不平衡因子	bu ping heng yin zi	29
+低次谐波	di ci xie bo	10
+电磁干扰	dian ci gan rao	41
+电力系统频率允许偏差	dian li xi tong pin lv yun xu pian cha	47
+电流不平衡	dian liu bu ping heng	64
+电能质量	dian neng zhi liang	86
+电能质量五项标准	dian neng zhi liang wu xiang biao zhun	67
+电能质量五项指标	dian neng zhi liang wu xiang zhi biao	68
+电压不平衡	dian ya bu ping heng	65
+电压短时中断	dian ya duan shi zhong duan	35
+电压幅值	dian ya fu zhi	14
+电压偏差	dian ya pian cha	69
+电压切痕	dian ya qie hen	31
+电压调幅波	dian ya tiao fu bo	15
+电压允许波动与闪变	dian ya yun xu bo dong yu shan bian	46
+电压中断	dian ya zhong duan	36
+电压骤降	dian ya zhou jiang	37
+电压骤升	dian ya zhou sheng	38
+动态电能质量	dong tai dian neng zhi liang	28
+方均根	fang jun gen	12
+方均根值	fang jun gen zhi	11
+非线性	fei xian xing	40
+非线性负荷	fei xian xing fu he	7
+傅立叶分解	fu li ye fen jie	63
+负偏差	fu pian cha	52
+负序电流	fu xu dian liu	19
+负序电压	fu xu dian ya	22
+负序分量	fu xu fen liang	25
+高次	gao ci	17
+高次谐波	gao ci xie bo	16
+供电电压允许偏差	gong dian dian ya yun xu pian cha	50
+工频	gong pin	33
+公用电网谐波	gong yong dian wang xie bo	49
+国标	guo biao	51
+过电压	guo dian ya	55
+含量	han liang	80
+含有率	han you lv	81
+畸变率	ji bian lv	82
+基波	ji bo	5
+间谐波	jian xie bo	43
+零序电流	ling xu dian liu	18
+零序电压	ling xu dian ya	21
+零序分量	ling xu fen liang	24
+录波	lu bo	60
+偶次	ou ci	75
+偶次畸变率	ou ci ji bian lv	78
+偶次谐波	ou ci xie bo	8
+频率偏差	pin lv pian cha	66
+频谱特征	pin pu te zheng	34
+奇次	qi ci	76
+奇次畸变率	qi ci ji bian lv	79
+奇次谐波	qi ci xie bo	9
+欠电压	qian dian ya	54
+三相不对称	san xiang bu dui chen	27
+三相电压允许不平衡度	san xiang dian ya yun xu bu ping heng du	48
+闪变	shan bian	84
+瞬变	shun bian	39
+瞬态过电压	shun tai guo dian ya	44
+铁磁饱和	tie ci bao he	6
+稳态	wen tai	62
+稳态电压扰动	wen tai dian ya rao dong	30
+无功补偿	wu gong bu chang	56
+无功功率	wu gong gong lv	58
+无功功率象限	wu gong gong lv xiang xian	57
+无源	wu yuan	70
+无源滤波器	wu yuan lv bo qi	71
+谐波	xie bo	83
+谐波电流含量	xie bo dian liu han liang	1
+谐波电流含有率	xie bo dian liu han you lv	3
+谐波电压含量	xie bo dian ya han liang	2
+谐波电压含有率	xie bo dian ya han you lv	4
+谐波抑制	xie bo yi zhi	74
+有功功率	you gong gong lv	59
+有源	you yuan	72
+有源滤波器	you yuan lv bo qi	73
+载波干扰	zai bo gan rao	42
+暂态	zan tai	61
+暂态过电压	zan tai guo dian ya	45
+正偏差	zheng pian cha	53
+正序电流	zheng xu dian liu	20
+正序电压	zheng xu dian ya	23
+正序分量	zheng xu fen liang	26
+总畸变率	zong ji bian lv	77

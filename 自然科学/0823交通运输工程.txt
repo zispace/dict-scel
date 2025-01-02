@@ -1,0 +1,21 @@
+# 文件名：0823交通运输工程.scel
+# 词库名：0823交通运输工程
+# 词库分类：其它
+# 词库描述：
+# 词条样例：有效绿灯时间 后损失时间 绿灯间隔时间 最短绿灯显示时间 后补偿时间
+# 词条数量：14
+
+超高	chao gao	12
+冲突点	chong tu dian	10
+关键车流	guan jian che liu	1
+后补偿时间	hou bu chang shi jian	4
+后损失时间	hou sun shi shi jian	5
+会车视距	hui che shi ju	13
+绿灯间隔时间	lv deng jian ge shi jian	2
+绿信比	lv xin bi	7
+前损失时间	qian sun shi shi jian	6
+停车视距	ting che shi ju	14
+限制车速	xian zhi che su	11
+信号周期	xin hao zhou qi	9
+有效绿灯时间	you xiao lv deng shi jian	8
+最短绿灯显示时间	zui duan lv deng xian shi shi jian	3

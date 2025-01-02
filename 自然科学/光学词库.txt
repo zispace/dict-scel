@@ -1,0 +1,163 @@
+# 文件名：光学词库.scel
+# 词库名：光学词库
+# 词库分类：光学
+# 词库描述：
+# 词条样例：锁模 波长 全光 衍射 菲涅耳衍射 夫琅禾费衍射
+# 词条数量：156
+
+边缘光束	bian yuan guang shu	77
+边缘厚度	bian yuan hou du	26
+波长	bo chang	151
+波象差	bo xiang cha	122
+布儒斯特角	bu ru si te jiao	3
+参考光线	can kao guang xian	43
+参考球	can kao qiu	42
+场点	chang dian	101
+场曲	chang qu	100
+出射	chu she	105
+出射光	chu she guang	38
+出射瞳孔	chu she tong kong	104
+出瞳	chu tong	103
+垂直度	chui zhi du	52
+垂轴放大率	chui zhou fang da lv	13
+垂轴色差	chui zhou se cha	78
+等光程	deng guang cheng	134
+反射光	fan she guang	37
+反射光栅	fan she guang shan	27
+反射角	fan she jiao	1
+反射镜	fan she jing	75
+反射面	fan she mian	40
+放大率	fang da lv	76
+非近轴系统	fei jin zhou xi tong	22
+菲涅耳近似	fei nie er jin si	11
+菲涅耳镜面	fei nie er jing mian	98
+菲涅耳棱镜	fei nie er leng jing	97
+菲涅耳衍射	fei nie er yan she	146
+非球面	fei qiu mian	133
+夫琅禾费衍射	fu lang he fei yan she	145
+干涉图	gan she tu	82
+高级像差	gao ji xiang cha	91
+高斯光束	gao si guang shu	96
+共轭	gong e	116
+共振腔	gong zhen qiang	128
+光程差	guang cheng cha	63
+光电二极管	guang dian er ji guan	29
+光阑	guang lan	6
+光圈	guang quan	21
+光栅	guang shan	148
+光栅常数	guang shan chang shu	31
+光通量	guang tong liang	2
+光纤	guang xian	156
+光线追及	guang xian zhui ji	53
+光学传递函数	guang xue chuan di han shu	68
+光轴	guang zhou	131
+归一化	gui yi hua	67
+弧矢光线	hu shi guang xian	70
+弧矢面	hu shi mian	71
+彗差	hui cha	121
+畸变	ji bian	111
+激光	ji guang	155
+激光器	ji guang qi	154
+几何能量分布	ji he neng liang fen bu	95
+基轴坐标	ji zhou zuo biao	130
+渐晕	jian yun	51
+渐晕系数	jian yun xi shu	50
+角放大率	jiao fang da lv	140
+焦数	jiao shu	99
+校正	jiao zheng	74
+节点	jie dian	15
+结构参数	jie gou can shu	119
+节平面	jie ping mian	14
+近轴光束	jin zhou guang shu	54
+近轴光线	jin zhou guang xian	57
+近轴光学	jin zhou guang xue	56
+近轴特性	jin zhou te xing	55
+近轴像差	jin zhou xiang cha	58
+景深	jing shen	49
+孔径	kong jing	139
+孔径分隔	kong jing fen ge	136
+孔径光阑	kong jing guang lan	135
+孔径检查	kong jing jian cha	138
+孔径坐标	kong jing zuo biao	137
+拉格朗日系数	la ge lang ri xi shu	80
+理想光线	li xiang guang xian	59
+理想镜面	li xiang jing mian	60
+理想透镜	li xiang tou jing	61
+离轴光束	li zhou guang shu	64
+码型	ma xing	150
+目镜	mu jing	17
+尼科尔棱镜	ni ke er leng jing	33
+佩兹伐场曲	pei zi fa chang qu	47
+佩兹伐透镜	pei zi fa tou jing	48
+球差	qiu cha	120
+曲率	qu lv	115
+曲率半径	qu lv ban jing	114
+全光	quan guang	149
+全像	quan xiang	92
+绕射	rao she	113
+入射光	ru she guang	39
+入射光束半径	ru she guang shu ban jing	108
+入射角	ru she jiao	141
+入射面	ru she mian	41
+入射瞳孔	ru she tong kong	107
+入瞳	ru tong	106
+瑞利半径	rui li ban jing	44
+瑞利范围	rui li fan wei	45
+色差	se cha	125
+色散	se san	112
+闪耀光栅	shan yao guang shan	32
+视场	shi chang	4
+视场光阑	shi chang guang lan	5
+视场角	shi chang jiao	102
+视放大率	shi fang da lv	9
+视见函数	shi jian han shu	24
+数值孔径	shu zhi kong jing	66
+双高斯透镜	shuang gao si tou jing	110
+双透镜	shuang tou jing	109
+锁模	suo mo	153
+梯度透镜	ti du tou jing	93
+梯度折射率	ti du zhe she lv	94
+体视	ti shi	20
+调焦镜	tiao jiao jing	19
+通光孔径	tong guang kong jing	10
+瞳孔像差	tong kong xiang cha	46
+透镜组	tou jing zu	34
+透射光	tou she guang	35
+透射光栅	tou she guang shan	28
+物放焦点	wu fang jiao dian	8
+物高	wu gao	87
+无焦	wu jiao	143
+物镜	wu jing	16
+物空间	wu kong jian	85
+物面	wu mian	84
+物平面	wu ping mian	88
+物像空间不变式	wu xiang kong jian bu bian shi	81
+像差	xiang cha	144
+像方焦点	xiang fang jiao dian	7
+像高	xiang gao	90
+像空间	xiang kong jian	86
+像面	xiang mian	83
+像平面	xiang ping mian	89
+像散	xiang san	132
+消色差物镜	xiao se cha wu jing	18
+谐振腔	xie zhen qiang	127
+衍射	yan she	147
+衍射极限	yan she ji xian	23
+优化函数	you hua han shu	69
+有效焦距	you xiao jiao ju	25
+远焦	yuan jiao	142
+远心光路	yuan xin guang lu	65
+圆锥镜面	yuan zhui jing mian	117
+斩波	zhan bo	30
+折射光	zhe she guang	36
+轴放大率	zhou fang da lv	12
+轴光束	zhou guang shu	129
+轴向色差	zhou xiang se cha	79
+主动锁模	zhu dong suo mo	152
+主光线	zhu guang xian	126
+锥形常数	zhui xing chang shu	118
+准直	zhun zhi	124
+子午光线	zi wu guang xian	72
+子午面	zi wu mian	73
+自准直	zi zhun zhi	123
+最优化	zui you hua	62

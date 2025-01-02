@@ -1,0 +1,231 @@
+# 文件名：生物信息学常用词汇.scel
+# 词库名：生物信息学常用词汇
+# 词库分类：农医类
+# 词库描述：
+# 词条样例：可变剪接 二硫键 启发式方法 内部节点 局部比对
+# 词条数量：224
+
+氨基端	an ji duan	218
+靶标识别	ba biao shi bie	16
+胞嘧啶	bao mi ding	208
+保守序列	bao shou xu lie	194
+比对	bi dui	222
+比对的比对	bi dui de bi dui	221
+编码序列	bian ma xu lie	200
+变性蛋白质	bian xing dan bai zhi	188
+表达谱	biao da pu	175
+表达序列标签	biao da xu lie biao qian	179
+标度树	biao du shu	43
+表型	biao xing	84
+残基	can ji	54
+操纵子	cao zong zi	96
+操纵子序列	cao zong zi xu lie	97
+侧链	ce lian	35
+测序	ce xu	37
+插入或删除	cha ru huo shan chu	141
+插入序列	cha ru xu lie	134
+常染色质	chang ran se zhi	178
+超二级结构	chao er ji jie gou	21
+超家族	chao jia zu	22
+沉默子	chen mo zi	34
+打分矩阵	da fen ju zhen	42
+带电氨基酸	dai dian an ji suan	204
+蛋白质测序	dan bai zhi ce xu	65
+蛋白质电泳	dan bai zhi dian yong	66
+蛋白质骨架	dan bai zhi gu jia	67
+蛋白质结构预测线索法	dan bai zhi jie gou yu ce xian suo fa	64
+蛋白质组	dan bai zhi zu	63
+蛋白质组学	dan bai zhi zu xue	62
+单核苷酸多态性	dan he gan suan duo tai xing	33
+等位基因	deng wei ji yin	220
+等值区	deng zhi qu	130
+颠换	dian huan	7
+点接受突变	dian jie shou tu bian	81
+点阵图	dian zhen tu	183
+动态规划	dong tai gui hua	182
+对数几率矩阵	dui shu ji lv ju zhen	126
+多重序列比对	duo chong xu lie bi dui	112
+多核苷酸	duo he gan suan	75
+多聚腺苷酸化	duo ju xian gan suan hua	78
+多顺反子	duo shun fan zi	77
+多肽	duo tai	74
+二级结构	er ji jie gou	41
+二硫键	er liu jian	185
+二肽	er tai	186
+发夹环	fa jia huan	154
+反向平行	fan xiang ping xing	217
+翻译	fan yi	8
+非标度树	fei biao du shu	2
+非加权分组平均法	fei jia quan fen zu ping jun fa	1
+非简并位点	fei jian bing wei dian	100
+非信息位点	fei xin xi wei dian	4
+分支	fen zhi	209
+分支约束法	fen zhi yue shu fa	210
+分子克隆	fen zi ke long	116
+分子模型化	fen zi mo xing hua	114
+分子图形学	fen zi tu xing xue	115
+分子钟	fen zi zhong	117
+负调控	fu tiao kong	107
+构象	gou xiang	196
+固有终止子	gu you zhong zhi zi	132
+管家基因	guan jia ji yin	147
+核磁共振	he ci gong zhen	102
+核苷酸	he gan suan	105
+核酶	he mei	46
+核糖核酸	he tang he suan	45
+核糖体	he tang ti	47
+核心折叠	he xin zhe die	191
+互补的	hu bu de	198
+活化位点	huo hua wei dian	223
+基本的局部比对搜索工具	ji ben de ju bu bi dui sou suo gong ju	213
+计算分子生物学	ji suan fen zi sheng wu xue	197
+极性氨基酸	ji xing an ji suan	80
+极性键	ji xing jian	79
+基因	ji yin	167
+基因本体论	ji yin ben ti lun	163
+基因表达	ji yin biao da	165
+基因表达的系列分析	ji yin biao da de xi lie fen xi	36
+基因次序	ji yin ci xu	162
+基因内容	ji yin nei rong	166
+基因识别	ji yin shi bie	164
+基因树	ji yin shu	161
+基因水平转移	ji yin shui ping zhuan yi	149
+基因文库	ji yin wen ku	157
+基因型	ji yin xing	156
+基因组	ji yin zu	159
+基因组学	ji yin zu xue	158
+甲基化	jia ji hua	123
+家族	jia zu	174
+简并性	jian bing xing	189
+碱基对	jian ji dui	216
+剪接	jian jie	30
+剪接体	jian jie ti	31
+简约性	jian yue xing	90
+节点	jie dian	101
+结构蛋白	jie gou dan bai	26
+结构域	jie gou yu	184
+茎干	jing gan	28
+晶体	jing ti	190
+局部比对	ju bu bi dui	127
+聚合酶链反应	ju he mei lian fan ying	76
+距离变换法	ju li bian huan fa	10
+开放阅读框	kai fang yue du kuang	98
+可变剪接	ke bian jian jie	219
+克隆	ke long	201
+空位	kong wei	169
+空位罚分	kong wei fa fen	170
+连锁图谱	lian suo tu pu	128
+连续交叠群	lian xu jiao die qun	193
+邻近归并法	lin jin gui bing fa	106
+磷酸二酯键	lin suan er zhi jian	83
+酶	mei	180
+嘧啶	mi ding	58
+密码子	mi ma zi	199
+模式判别分析	mo shi pan bie fen xi	89
+内部节点	nei bu jie dian	133
+内含子	nei han zi	131
+内群	nei qun	138
+逆转录	ni zhuan lu	49
+逆转录酶	ni zhuan lu mei	48
+鸟嘌呤	niao piao ling	171
+凝胶电泳	ning jiao dian yong	168
+旁系同源物	pang xi tong yuan wu	91
+匹配得分	pi pei de fen	125
+嘌呤	piao ling	59
+启动子序列	qi dong zi xu lie	68
+启发式方法	qi fa shi fang fa	151
+起始罚分	qi shi fa fen	95
+起始复合物	qi shi fu he wu	136
+起始密码子	qi shi mi ma zi	29
+起始序列	qi shi xu lie	135
+亲水的	qin shui de	145
+氢键	qing jian	146
+穷举搜索	qiong ju sou suo	177
+趋同进化	qu tong jin hua	192
+全局比对	quan ju bi dui	155
+染色体	ran se ti	202
+染色质	ran se zhi	203
+人类基因组计划	ren lei ji yin zu ji hua	148
+三级结构	san ji jie gou	14
+三联密码	san lian mi ma	6
+神经网络	shen jing wang luo	104
+生物计算	sheng wu ji suan	214
+生物信息学	sheng wu xin xi xue	215
+失配打分	shi pei da fen	118
+疏水氨基酸	shu shui an ji suan	143
+疏水的	shu shui de	144
+疏水折叠	shu shui zhe die	142
+双重简并位点	shuang chong jian bing wei dian	5
+四重简并位点	si chong jian bing wei dian	172
+四级结构	si ji jie gou	57
+羧基端	suo ji duan	207
+肽	tai	87
+肽键	tai jian	86
+探针	tan zhen	69
+特征	te zheng	205
+替换	ti huan	24
+天然结构	tian ran jie gou	110
+调控	tiao kong	55
+同义替换	tong yi ti huan	19
+同源序列	tong yuan xu lie	150
+突变	tu bian	111
+推断树	tui duan shu	139
+推断祖先	tui duan zu xian	140
+拓扑结构	tuo pu jie gou	13
+脱氧核糖核酸	tuo yang he tang he suan	187
+外部节点	wai bu jie dian	15
+外群	wai qun	93
+外显子	wai xian zi	176
+伪基因	wei ji yin	61
+伪结	wei jie	60
+微卫星	wei wei xing	121
+微阵列	wei zhen lie	122
+微阵列实验的最小信息	wei zhen lie shi yan de zui xiao xin xi	120
+位置特异性打分矩阵	wei zhi te yi xing da fen ju zhen	73
+无根树	wu gen shu	3
+物理图谱	wu li tu pu	88
+物种树	wu zhong shu	32
+系统发生树	xi tong fa sheng shu	82
+系统生物学	xi tong sheng wu xue	18
+先导化合物	xian dao hua he wu	129
+腺嘌呤	xian piao ling	224
+限制性酶切图谱	xian zhi xing mei qie tu pu	52
+限制性酶切位点	xian zhi xing mei qie wei dian	51
+限制性内切酶	xian zhi xing nei qie mei	53
+小卫星	xiao wei xing	119
+胸腺嘧啶	xiong xian mi ding	17
+序列	xu lie	38
+序列标记位点	xu lie biao ji wei dian	25
+序列两两比对	xu lie liang liang bi dui	92
+序列模式	xu lie mo shi	113
+药物基因组学	yao wu ji yin zu xue	85
+遗传图谱	yi chuan tu pu	160
+一级结构	yi ji jie gou	71
+异染色质	yi ran se zhi	152
+异义替换	yi yi ti huan	99
+抑制剂	yi zhi ji	137
+一致序列	yi zhi xu lie	195
+印迹和杂交	yin ji he za jiao	212
+隐马尔柯夫模型	yin ma er ke fu mo xing	153
+有根树	you gen shu	44
+阅读框	yue du kuang	56
+增强子	zeng qiang zi	181
+折叠	zhe die	173
+正调控	zheng tiao kong	72
+支持向量机	zhi chi xiang liang ji	20
+直系同源物	zhi xi tong yuan wu	94
+中心法则	zhong xin fa ze	206
+中性突变	zhong xing tu bian	103
+终止密码子	zhong zhi mi ma zi	27
+主成分分析	zhu cheng fen fen xi	70
+逐对加和	zhu dui jia he	23
+转换	zhuan huan	9
+转录	zhuan lu	12
+转录组	zhuan lu zu	11
+转座子	zhuan zuo zi	50
+准全局比对	zhun quan ju bi dui	39
+自举检验	zi ju jian yan	211
+自然选择	zi ran xuan ze	109
+自组织映射神经网络	zi zu zhi ying she shen jing wang luo	40
+最大似然法	zui da si ran fa	124
+最近邻分类法	zui jin lin fen lei fa	108

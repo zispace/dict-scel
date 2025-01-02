@@ -1,0 +1,573 @@
+# 文件名：流体力学.scel
+# 词库名：流体力学
+# 词库分类：力学
+# 词库描述：
+# 词条样例：连续性方程 速度势函数 速度场 滞止点 不可压缩流体 点涡
+# 词条数量：566
+
+埃克特数	ai ke te shu	143
+奥尔索末菲方程	ao er suo mo fei fang cheng	279
+奥辛流	ao xin liu	276
+巴塞特力	ba sai te li	144
+板块法	ban kuai fa	70
+半隐格式	ban yin ge shi	39
+保单调差分格式	bao dan diao cha fen ge shi	41
+爆轰	bao hong	353
+爆炸	bao zha	354
+毕奥萨伐尔定律	bi ao sa fa er ding lv	539
+壁剪切速度	bi jian qie su du	233
+壁剪应力	bi jian ying li	234
+壁效应	bi xiao ying	151
+变分法	bian fen fa	57
+边界层	bian jie ceng	218
+边界层方程	bian jie ceng fang cheng	219
+边界层分离	bian jie ceng fen li	212
+边界层厚度	bian jie ceng hou du	211
+边界层理论	bian jie ceng li lun	220
+边界层转捩	bian jie ceng zhuan lie	213
+边界元法	bian jie yuan fa	84
+表观粘度	biao guan nian du	258
+标记网格法	biao ji wang ge fa	75
+表面波	biao mian bo	339
+表面力	biao mian li	462
+表面张力	biao mian zhang li	461
+表面张力波	biao mian zhang li bo	338
+波高	bo gao	343
+伯格斯方程	bo ge si fang cheng	107
+波列	bo lie	342
+波能	bo neng	340
+伯努利定理	bo nu li ding li	540
+伯努利方程	bo nu li fang cheng	541
+波群	bo qun	341
+波速	bo su	344
+泊肃叶流	bo su ye liu	277
+薄翼理论	bo yi li lun	414
+波阻	bo zu	408
+不定常法	bu ding chang fa	59
+部分相似	bu fen xiang si	187
+不规则波	bu gui ze bo	336
+不可压缩流动	bu ke ya suo liu dong	467
+不可压缩流体	bu ke ya suo liu ti	558
+不可压缩性	bu ke ya suo xing	468
+布拉休斯解	bu la xiu si jie	533
+不稳定性	bu wen ding xing	280
+测速法	ce su fa	201
+测压孔	ce ya kong	176
+层流	ceng liu	273
+层流边界层	ceng liu bian jie ceng	216
+层流分离	ceng liu fen li	250
+掺气流	chan qi liu	287
+潮波	chao bo	331
+超空化流	chao kong hua liu	320
+超空泡	chao kong pao	433
+超空泡流	chao kong pao liu	432
+超声速流动	chao sheng su liu dong	425
+超压强	chao ya qiang	356
+沉积物	chen ji wu	284
+沉降堆积	chen jiang dui ji	283
+沉降速度	chen jiang su du	282
+成核	cheng he	110
+尺度效应	chi du xiao ying	152
+冲击波	chong ji bo	371
+出口	chu kou	454
+出口压力	chu kou ya li	357
+传播	chuan bo	451
+船波	chuan bo	328
+传导	chuan dao	124
+传感器	chuan gan qi	158
+传热系数	chuan re xi shu	129
+传质系数	chuan zhi xi shu	131
+次层	ci ceng	252
+猝发过程	cu fa guo cheng	259
+达朗贝尔佯廖	da lang bei er yang liao	532
+大涡模拟	da wo mo ni	101
+达西公式	da xi gong shi	1
+单调差分格式	dan diao cha fen ge shi	42
+单相流	dan xiang liu	483
+单组份流	dan zu fen liu	482
+当地马赫数	dang di ma he shu	372
+等熵流	deng shang liu	384
+狄里克雷边界条件	di li ke lei bian jie tiao jian	95
+地面效应	di mian xiao ying	396
+低速空气动力学	di su kong qi dong li xue	430
+底压	di ya	146
+点汇	dian hui	555
+点涡	dian wo	554
+点源	dian yuan	556
+定常流动	ding chang liu dong	560
+定理	ding li	186
+定倾中心	ding qing zhong xin	465
+动力粘性	dong li nian xing	256
+动力相似性	dong li xiang si xing	442
+动量方程	dong liang fang cheng	525
+动量厚度	dong liang hou du	209
+动量交换	dong liang jiao huan	126
+动量守恒	dong liang shou heng	527
+动态校准	dong tai jiao zhun	184
+动态响应	dong tai xiang ying	148
+杜福特弗兰克尔格式	du fu te fu lan ke er ge shi	48
+堵寒效应	du han xiao ying	149
+堵塞	du se	150
+对流	dui liu	136
+对流传热	dui liu chuan re	128
+对流扩散方程	dui liu kuo san fang cheng	106
+对流涡胞	dui liu wo bao	498
+钝体	dun ti	417
+钝头体	dun tou ti	418
+多重尺度问题	duo chong chi du wen ti	108
+多重网格法	duo chong wang ge fa	71
+多管压强计	duo guan ya qiang ji	168
+二次流	er ci liu	271
+二维流	er wei liu	479
+反扩散差分格式	fan kuo san cha fen ge shi	52
+反流	fan liu	265
+反射	fan she	362
+反压	fan ya	355
+方程	fang cheng	105
+放大矩阵	fang da ju zhen	10
+放大因子	fang da yin zi	11
+非定常流	fei ding chang liu	476
+非定常流动	fei ding chang liu dong	559
+非绝热流	fei jue re liu	386
+非均匀流	fei jun yun liu	480
+菲克定律	fei ke ding lv	145
+非平衡流动	fei ping heng liu dong	421
+沸腾	fei teng	114
+非线性波	fei xian xing bo	327
+非线性不稳定性	fei xian xing bu wen ding xing	99
+分布	fen bu	452
+分步法	fen bu fa	5
+分层流	fen ceng liu	472
+分离点	fen li dian	248
+分离流	fen li liu	272
+分子扩散	fen zi kuo san	115
+风洞	feng dong	183
+冯诺伊曼条件	feng nuo yi man tiao jian	88
+风速管	feng su guan	165
+附加质量	fu jia zhi liang	448
+弗劳德数	fu lao de shu	311
+附面层	fu mian ceng	217
+辐射传热	fu she chuan re	127
+复势	fu shi	438
+复速度	fu su du	437
+浮体	fu ti	466
+附体激波	fu ti ji bo	366
+附着点	fu zhuo dian	247
+附着涡	fu zhuo wo	403
+盖斯特纳波	gai si te na bo	348
+高度水头	gao du shui tou	308
+高分辨率格式	gao fen bian lv ge shi	45
+高速空气动力学	gao su kong qi dong li xue	429
+戈本诺夫格式	ge ben nuo fu ge shi	46
+格拉斯霍夫数	ge la si huo fu shu	142
+构型	gou xing	413
+孤立子	gu li zi	326
+拐角流	guai jiao liu	435
+管流	guan liu	262
+规则波	gui ze bo	337
+过水断面	guo shui duan mian	299
+亥姆霍兹定理	hai mu huo zi ding li	537
+海洋水动力学	hai yang shui dong li xue	314
+焓厚度	han hou du	207
+含沙流	han sha liu	286
+含水层	han shui ceng	304
+耗散	hao san	230
+洪水波	hong shui bo	317
+后缘	hou yuan	412
+滑移速度	hua yi su du	236
+环量	huan liang	494
+环流	huan liu	495
+缓流	huan liu	294
+缓燃	huan ran	352
+回流	hui liu	266
+急变流	ji bian liu	291
+激波	ji bo	370
+激波捕捉法	ji bo bu zhuo fa	63
+激波层	ji bo ceng	364
+激波管	ji bo guan	182
+激波管风洞	ji bo guan feng dong	181
+激波拟合法	ji bo ni he fa	62
+激波阵面	ji bo zhen mian	365
+积分方法	ji fen fang fa	76
+激光多普勒测速计	ji guang duo pu le ce su ji	164
+几何相似	ji he xiang si	444
+急流	ji liu	293
+计算流体力学	ji suan liu ti li xue	109
+计算区域	ji suan qu yu	35
+迹线	ji xian	515
+伽辽金法	jia liao jin fa	77
+渐变流	jian bian liu	292
+剪切层	jian qie ceng	253
+剪切流	jian qie liu	275
+减阻	jian zu	463
+降水曲线	jiang shui qu xian	285
+浆体	jiang ti	224
+交错网格	jiao cuo wang ge	17
+交替方向隐格式	jiao ti fang xiang yin ge shi	53
+介质	jie zhi	548
+紧差分格式	jin cha fen ge shi	51
+近场流	jin chang liu	270
+进口	jin kou	455
+近似因子分解法	jin si yin zi fen jie fa	87
+静态校准	jing tai jiao zhun	185
+镜象法	jing xiang fa	446
+静压管	jing ya guan	167
+静压头	jing ya tou	488
+矩量法	ju liang fa	72
+局域相似	ju yu xiang si	227
+卷筒涡胞	juan tong wo bao	497
+绝热流	jue re liu	387
+均匀流	jun yun liu	481
+卡门涡街	ka men wo jie	500
+开尔文定理	kai er wen ding li	536
+克兰克尼科尔森格式	ke lan ke ni ke er sen ge shi	49
+可压缩流动	ke ya suo liu dong	389
+可压缩流体	ke ya suo liu ti	388
+孔板流量计	kong ban liu liang ji	197
+空化	kong hua	323
+空化数	kong hua shu	322
+孔流	kong liu	297
+空泡流	kong pao liu	434
+空气动力学	kong qi dong li xue	431
+空蚀	kong shi	321
+控制体积	kong zhi ti ji	523
+库埃特流	ku ai te liu	484
+库塔茹可夫斯基条件	ku ta ru ke fu si ji tiao jian	534
+跨声速流动	kua sheng su liu dong	426
+扩散	kuo san	119
+扩散段	kuo san duan	177
+扩散率	kuo san lv	117
+扩散速度	kuo san su du	116
+扩散性	kuo san xing	118
+拉克斯等价定理	la ke si deng jia ding li	103
+拉克斯温德罗夫格式	la ke si wen de luo fu ge shi	44
+拉瓦尔喷管	la wa er pen guan	378
+来流	lai liu	459
+兰金于戈尼奥条件	lan jin yu ge ni ao tiao jian	382
+雷诺比拟	lei nuo bi ni	139
+雷诺数	lei nuo shu	531
+厘泊	li bo	255
+离解	li jie	397
+黎曼解算子	li man jie suan zi	27
+离散涡	li san wo	8
+厘沱	li tuo	254
+连续介质假设	lian xu jie zhi jia she	545
+连续介质力学	lian xu jie zhi li xue	549
+连续性方程	lian xu xing fang cheng	566
+涟漪	lian yi	316
+量热状态方程	liang re zhuang tai fang cheng	380
+临界雷诺数	lin jie lei nuo shu	405
+临界流	lin jie liu	290
+临界热通量	lin jie re tong liang	121
+流场	liu chang	514
+流出边界条件	liu chu bian jie tiao jian	89
+流动	liu dong	519
+流动参量	liu dong can liang	512
+流动分离	liu dong fen li	251
+流动稳定性	liu dong wen ding xing	281
+流动显示	liu dong xian shi	199
+流管	liu guan	516
+流函数	liu han shu	564
+流量	liu liang	511
+流量计	liu liang ji	161
+流面	liu mian	517
+流入边界条件	liu ru bian jie tiao jian	92
+流速计	liu su ji	166
+流态	liu tai	513
+流体动力学	liu ti dong li xue	550
+流体网格法	liu ti wang ge fa	80
+流体运动学	liu ti yun dong xue	544
+流体质点	liu ti zhi dian	547
+流线	liu xian	518
+流线方程	liu xian fang cheng	563
+马赫波	ma he bo	373
+马赫角	ma he jiao	377
+马赫数	ma he shu	374
+马赫线	ma he xian	375
+马赫锥	ma he zhui	376
+马蹄涡	ma ti wo	499
+脉线	mai xian	153
+毛细管作用	mao xi guan zuo yong	460
+弥散	mi san	449
+明槽流	ming cao liu	298
+磨擦损失	mo ca sun shi	232
+磨擦因子	mo ca yin zi	231
+穆曼科尔格式	mu man ke er ge shi	40
+纳维斯托克斯方程	na wei si tuo ke si fang cheng	222
+内流	nei liu	261
+能量传递	neng liang chuan di	125
+能量法	neng liang fa	82
+能量方程	neng liang fang cheng	524
+能量厚度	neng liang hou du	208
+能量守恒	neng liang shou heng	526
+能量输运	neng liang shu yun	486
+拟序结构	ni xu jie gou	260
+粘度测定法	nian du ce ding fa	200
+粘度计	nian du ji	160
+粘性流动	nian xing liu dong	274
+粘性流体	nian xing liu ti	557
+凝结	ning jie	111
+牛顿流体	niu dun liu ti	221
+浓度	nong du	120
+努塞特数	nu sai te shu	141
+偶极流	ou ji liu	553
+偶极子	ou ji zi	492
+欧拉方程	ou la fang cheng	538
+欧拉数	ou la shu	312
+排放量	pai fang liang	302
+排水	pai shui	303
+配置方法	pei zhi fang fa	83
+喷管	pen guan	392
+皮托管	pi tuo guan	175
+频率响应	pin lv xiang ying	196
+平面流	ping mian liu	441
+破碎波	po sui bo	329
+谱方法	pu fang fa	61
+普朗特迈耶流	pu lang te mai ye liu	391
+普朗特数	pu lang te shu	140
+普雷斯顿管	pu lei si dun guan	174
+气动加热	qi dong jia re	398
+气动力	qi dong li	400
+气动热力学	qi dong re li xue	428
+起动涡	qi dong wo	244
+气动噪声	qi dong zao sheng	399
+气动中心	qi dong zhong xin	401
+气化	qi hua	112
+气体动力学	qi ti dong li xue	395
+气体润滑	qi ti run hua	226
+浅水波	qian shui bo	335
+前缘涡	qian yuan wo	404
+强迫对流	qiang po dui liu	134
+强守恒型	qiang shou heng xing	24
+氢泡法	qing pao fa	190
+区域分解	qu yu fen jie	31
+全变差下降格式	quan bian cha xia jiang ge shi	37
+扰动	rao dong	453
+绕射	rao she	358
+热传导	re chuan dao	123
+热对流	re dui liu	133
+热交换	re jiao huan	122
+热量传递	re liang chuan di	130
+热敏电阻	re min dian zu	156
+热膜流速计	re mo liu su ji	162
+热线流速计	re xian liu su ji	163
+热状态方程	re zhuang tai fang cheng	393
+人工粘性	ren gong nian xing	85
+人工压缩	ren gong ya suo	86
+瑞利流	rui li liu	390
+瑞利数	rui li shu	346
+弱解	ruo jie	28
+弱守恒型	ruo shou heng xing	25
+散度型	san du xing	23
+散射	san she	360
+三维流	san wei liu	478
+色散	se san	450
+熵函数	shang han shu	6
+熵条件	shang tiao jian	94
+熵通量	shang tong liang	7
+射流	she liu	264
+深水波	shen shui bo	334
+时间分步法	shi jian fen bu fa	58
+时间线	shi jian xian	154
+势流	shi liu	440
+施密特数	shi mi te shu	138
+失速	shi su	410
+施特鲁哈尔数	shi te lu ha er shu	530
+适应网格生成	shi ying wang ge sheng cheng	20
+示踪物	shi zong wu	155
+守恒差分格式	shou heng cha fen ge shi	50
+守恒型	shou heng xing	26
+收缩	shou suo	447
+数值边界条件	shu zhi bian jie tiao jian	90
+数值耗散	shu zhi hao san	14
+数植扩散	shu zhi kuo san	15
+数值模拟	shu zhi mo ni	102
+数值粘性	shu zhi nian xing	100
+数值色散	shu zhi se san	13
+数值通量	shu zhi tong liang	12
+数值网格生成	shu zhi wang ge sheng cheng	18
+水洞	shui dong	180
+水动力学	shui dong li xue	351
+水动力噪声	shui dong li zao sheng	325
+水击	shui ji	324
+水静力学	shui jing li xue	543
+水力半径	shui li ban jing	310
+水力坡度	shui li po du	309
+水力学	shui li xue	318
+水头损失	shui tou sun shi	307
+水位	shui wei	306
+水翼	shui yi	319
+水跃	shui yue	305
+斯坦顿管	si tan dun guan	173
+斯坦顿数	si tan dun shu	137
+斯托克斯波	si tuo ke si bo	347
+丝线法	si xian fa	191
+速度场	su du chang	562
+速度环量	su du huan liang	493
+速度亏损律	su du kui sun lv	203
+速度剖面	su du pou mian	485
+速度势	su du shi	439
+速度势函数	su du shi han shu	565
+速度水头	su du shui tou	436
+随机选取法	sui ji xuan qu fa	64
+随体导数	sui ti dao shu	529
+泰勒不稳定性	tai le bu wen ding xing	349
+泰勒数	tai le shu	223
+泰勒涡	tai le wo	204
+特征线法	te zheng xian fa	74
+条件	tiao jian	96
+贴体曲线坐标	tie ti qu xian zuo biao	22
+通量校正传输法	tong liang jiao zheng chuan shu fa	79
+通量矢量分解法	tong liang shi liang fen jie fa	78
+头波	tou bo	367
+投影法	tou ying fa	66
+湍流边界层	tuan liu bian jie ceng	215
+湍流分离	tuan liu fen li	249
+脱体激波	tuo ti ji bo	409
+拖曳水池	tuo ye shui chi	179
+椭圆余弦波	tuo yuan yu xian bo	332
+蛙跳格式	wa tiao ge shi	43
+外流	wai liu	456
+完全气体	wan quan qi ti	379
+网格雷诺数	wang ge lei nuo shu	16
+尾流	wei liu	267
+未扰动流	wei rao dong liu	385
+维数分解	wei shu fen jie	30
+微压计	wei ya ji	169
+位移厚度	wei yi hou du	210
+紊动动力粘滞系数	wen dong dong li nian zhi xi shu	4
+紊动运动粘滞系数	wen dong yun dong nian zhi xi shu	3
+温度边界层	wen du bian jie ceng	214
+紊流	wen liu	2
+文丘里管	wen qiu li guan	172
+纹影法	wen ying fa	193
+涡层	wo ceng	505
+涡对	wo dui	503
+涡方法	wo fang fa	56
+涡管	wo guan	502
+涡环	wo huan	504
+涡街	wo jie	501
+涡量	wo liang	509
+涡量方程	wo liang fang cheng	278
+涡量计	wo liang ji	159
+涡量拟能	wo liang ni neng	521
+涡面	wo mian	506
+涡粘性	wo nian xing	496
+涡片	wo pian	535
+涡丝	wo si	508
+涡线	wo xian	507
+涡旋	wo xuan	510
+涡旋破碎	wo xuan po sui	242
+涡旋脱落	wo xuan tuo luo	241
+无反射边界条件	wu fan she bian jie tiao jian	91
+无滑移条件	wu hua yi tiao jian	235
+物理解	wu li jie	29
+物理区域	wu li qu yu	34
+无量纲参数	wu liang gang can shu	445
+无粘性流体	wu nian xing liu ti	546
+无旋流	wu xuan liu	471
+无旋流动	wu xuan liu dong	552
+无压流	wu ya liu	296
+细长度	xi chang du	419
+细长体	xi chang ti	420
+吸出	xi chu	205
+希尔特稳定性分析	xi er te wen ding xing fen xi	98
+稀疏波	xi shu bo	394
+稀疏矩阵分解法	xi shu ju zhen fen jie fa	60
+显格式	xian ge shi	54
+相容条件	xiang rong tiao jian	97
+相似理论	xiang si li lun	189
+相似律	xiang si lv	188
+相似性解	xiang si xing jie	228
+响应频率	xiang ying pin lv	147
+消能	xiao neng	315
+斜激波	xie ji bo	368
+楔流	xie liu	423
+谢齐公式	xie qi gong shi	313
+斜迎风格式	xie ying feng ge shi	38
+形管	xing guan	171
+形状因子	xing zhuang yin zi	202
+型阻	xing zu	237
+修正微分方程	xiu zheng wei fen fang cheng	104
+旋臂水池	xuan bi shui chi	178
+压差	ya cha	520
+压差阻力	ya cha zu li	239
+压力降	ya li jiang	240
+压力能	ya li neng	238
+压强传感器	ya qiang chuan gan qi	157
+压强计	ya qiang ji	170
+压强水头	ya qiang shui tou	300
+亚声速流动	ya sheng su liu dong	427
+压缩波	ya suo bo	363
+堰流	yan liu	288
+衍射	yan she	359
+烟丝法	yan si fa	192
+液体动力润滑	ye ti dong li run hua	225
+液体动力学	ye ti dong li xue	350
+液体静压	ye ti jing ya	522
+叶栅流	ye zha liu	422
+依赖域	yi lai yu	32
+翼弦	yi xian	415
+翼型	yi xing	416
+异重流	yi zhong liu	289
+隐格式	yin ge shi	55
+阴影法	yin ying fa	194
+迎风格式	ying feng ge shi	36
+迎角	ying jiao	411
+影响域	ying xiang yu	33
+涌波	yong bo	330
+壅水曲线	yong shui qu xian	301
+诱导速度	you dao su du	406
+诱导阻力	you dao zu li	407
+油膜显示	you mo xian shi	195
+有限体积法	you xian ti ji fa	81
+有旋流	you xuan liu	470
+有旋流动	you xuan liu dong	551
+有压流	you ya liu	295
+油烟显示	you yan xian shi	198
+预估校正法	yu gu jiao zheng fa	67
+远场边界条件	yuan chang bian jie tiao jian	93
+远场流	yuan chang liu	269
+约束涡	yue shu wo	402
+运动粘性	yun dong nian xing	257
+运动相似	yun dong xiang si	443
+匀熵流	yun shang liu	383
+再层流化	zai ceng liu hua	245
+再附	zai fu	246
+暂态流	zan tai liu	475
+折射	zhe she	361
+振荡流	zhen dang liu	473
+蒸发	zheng fa	113
+正激波	zheng ji bo	369
+质点法	zhi dian fa	68
+质点网格法	zhi dian wang ge fa	69
+滞后	zhi hou	229
+质量传递	zhi liang chuan di	132
+质量守恒	zhi liang shou heng	528
+支配方程	zhi pei fang cheng	542
+指数格式	zhi shu ge shi	47
+直线法	zhi xian fa	73
+滞止点	zhi zhi dian	561
+滞止流	zhi zhi liu	268
+重力波	zhong li bo	333
+轴对称流	zhou dui chen liu	469
+周期流	zhou qi liu	474
+驻点	zhu dian	491
+注入	zhu ru	206
+驻涡	zhu wo	243
+状态方程	zhuang tai fang cheng	381
+锥形流	zhui xing liu	424
+准定常流	zhun ding chang liu	477
+准谱法	zhun pu fa	65
+自动网格生成	zi dong wang ge sheng cheng	19
+自适应网格	zi shi ying wang ge	21
+自由对流	zi you dui liu	135
+自由流	zi you liu	458
+自由流线	zi you liu xian	457
+自由面	zi you mian	345
+自由射流	zi you she liu	263
+总焓	zong han	487
+总压力	zong ya li	490
+总压头	zong ya tou	489
+阻力	zu li	464
+阻尼误差	zu ni wu cha	9

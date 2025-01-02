@@ -1,0 +1,144 @@
+# 文件名：ArcGIS.scel
+# 词库名：ArcGIS
+# 词库分类：地理地质
+# 词库描述：
+# 词条样例：制图综合 字段 为字段分配默认值 添加递增ID字段 计算结束时间
+# 词条数量：137
+
+按属性分割	an shu xing fen ge	20
+按属性提取	an shu xing ti qu	9
+按属性选择	an shu xing xuan ze	7
+按位置选择	an wei zhi xuan ze	6
+按掩膜提取	an yan mo ti qu	8
+版本	ban ben	41
+编辑器	bian ji qi	10
+表筛选	biao shai xuan	18
+标识	biao zhi	26
+表转属性域	biao zhuan shu xing yu	107
+波段合成	bo duan he cheng	62
+擦除	ca chu	28
+裁剪	cai jian	63
+采样	cai yang	36
+常规	chang gui	103
+重设比例	chong she bi li	78
+创建地图切片包	chuang jian di tu qie pian bao	98
+创建空间参考	chuang jian kong jian can kao	76
+创建空间类型	chuang jian kong jian lei xing	104
+创建数据库视图	chuang jian shu ju ku shi tu	102
+创建属性域	chuang jian shu xing yu	114
+创建拓扑	chuang jian tuo pu	69
+创建渔网	chuang jian yu wang	2
+创建运行时内容	chuang jian yun xing shi nei rong	97
+创建自定义地理坐标	chuang jian zi ding yi di li zuo biao	75
+从属性域中删除编码值	cong shu xing yu zhong shan chu bian ma zhi	115
+从文件变换	cong wen jian bian huan	85
+打包	da bao	100
+打包地图	da bao di tu	91
+打包定位器	da bao ding wei qi	90
+打包结果	da bao jie guo	89
+打包图层	da bao tu ceng	92
+地理处理	di li chu li	5
+地理配准	di li pei zhun	3
+地理数据库管理	di li shu ju ku guan li	130
+叠加分析	die jia fen xi	29
+定义投影	ding yi tou ying	74
+多值提取至点	duo zhi ti qu zhi dian	1
+翻转	fan zhuan	79
+分布式地理数据库	fen bu shi di li shu ju ku	135
+分割	fen ge	21
+分割栅格	fen ge shan ge	64
+分析工具	fen xi gong ju	30
+附件	fu jian	35
+复制栅格	fu zhi shan ge	50
+更改字段	geng gai zi duan	124
+更新	geng xin	27
+共享包	gong xiang bao	99
+工作空间	gong zuo kong jian	105
+构建边界	gou jian bian jie	43
+构建金字塔	gou jian jin zi ta	59
+构建金字塔和统计数据	gou jian jin zi ta he tong ji shu ju	57
+构建轮廓	gou jian lun kuo	44
+构建栅格属性表	gou jian shan ge shu xing biao	58
+关系类	guan xi lei	137
+归档	gui dang	101
+合并	he bing	11
+合并地图	he bing di tu	95
+合并定位器	he bing ding wei qi	94
+合并结果	he bing jie guo	93
+合并图层	he bing tu ceng	96
+缓冲区	huan chong qu	14
+获取栅格属性	huo qu shan ge shu xing	55
+获取像元值	huo qu xiang yuan zhi	56
+几何网络	ji he wang luo	136
+计算结束时间	ji suan jie shu shi jian	120
+计算统计数据	ji suan tong ji shu ju	54
+计算字段	ji suan zi duan	121
+近邻分析	jin lin fen xi	13
+禁用编辑者追踪	jin yong bian ji zhe zhui zong	122
+镜像	jing xiang	77
+空间连接	kong jian lian jie	24
+联合	lian he	23
+连接	lian jie	37
+邻域分析	lin yu fen xi	15
+面邻域	mian lin yu	12
+扭曲	niu qu	83
+排序编码值属性域	pai xu bian ma zhi shu xing yu	109
+批量投影	pi liang tou ying	73
+频数	pin shuo	16
+平移	ping yi	84
+启用编辑者跟踪	qi yong bian ji zhe gen zong	125
+切片缓存	qie pian huan cun	134
+融合	rong he	4
+筛选	shai xuan	19
+删除属性域	shan chu shu xing yu	113
+删除字段	shan chu zi duan	126
+栅格	shan ge	86
+栅格处理	shan ge chu li	65
+栅格目录	shan ge mu lu	47
+栅格数据集	shan ge shu ju ji	52
+栅格属性	shan ge shu xing	60
+设置栅格属性	she zhi shan ge shu xing	53
+设置域范围	she zhi yu fan wei	106
+数据比较	shu ju bi jiao	67
+属性域	shu xing yu	116
+属性域转表	shu xing yu zhuan biao	111
+索引	suo yin	40
+提取包	ti qu bao	88
+提取分析	ti qu fen xi	22
+添加字段	tian jia zi duan	123
+统计分析	tong ji fen xi	17
+投影	tou ying	72
+投影和变换	tou ying he bian huan	87
+投影栅格	tou ying shan ge	82
+图表	tu biao	131
+图层和表视图	tu ceng he biao shi tu	132
+拓扑	tuo pu	70
+拓扑验证	tuo pu yan zheng	68
+为字段分配默认值	wei zi duan fen pei mo ren zhi	127
+文件地理数据库	wen jian di li shu ju ku	66
+下载栅格	xia zai shan ge	51
+线性参考工具	xian xing can kao gong ju	34
+相交	xiang jiao	25
+镶嵌	xiang qian	49
+镶嵌数据集	xiang qian shu ju ji	45
+镶嵌至新栅格	xiang qian zhi xin shan ge	48
+向属性域添加编码值	xiang shu xing yu tian jia bian ma zhi	112
+旋转	xuan zhuan	81
+要素	yao su	39
+要素类	yao su lei	38
+移除字段的属性域	yi chu zi duan de shu xing yu	108
+照片	zhao pian	42
+正射映射	zheng she ying she	46
+指定字段的属性域	zhi ding zi duan de shu xing yu	110
+制图工具	zhi tu gong ju	33
+制图综合	zhi tu zong he	133
+重采样	zhong cai yang	61
+注册栅格	zhu ce shan ge	80
+转换工具	zhuan huan gong ju	32
+转换时间字段	zhuan huan shi jian zi duan	118
+转换时区	zhuan huan shi qu	119
+转换坐标记法	zhuan huan zuo biao ji fa	71
+转置字段	zhuan zhi zi duan	117
+字段	zi duan	128
+子类型	zi lei xing	129
+宗地结构工具	zong di jie gou gong ju	31

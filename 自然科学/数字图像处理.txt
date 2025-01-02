@@ -1,0 +1,107 @@
+# 文件名：数字图像处理.scel
+# 词库名：数字图像处理
+# 词库分类：其它
+# 词库描述：
+# 词条样例：估计金字塔 边界像素 封闭曲线 复共轭 连通的 等值线图
+# 词条数量：100
+
+闭运算	bi yun suan	75
+边界跟踪	bian jie gen zong	92
+边界像素	bian jie xiang su	93
+边缘	bian yuan	67
+边缘检测	bian yuan jian ce	66
+边缘连接	bian yuan lian jie	63
+边缘算子	bian yuan suan zi	62
+边缘图像	bian yuan tu xiang	64
+边缘像素	bian yuan xiang su	61
+边缘增强	bian yuan zeng qiang	65
+彩色模型	cai se mo xing	90
+采样	cai yang	17
+插值滤波器	cha zhi lv bo qi	42
+传递函数	chuan di han shu	8
+垂直边缘	chui zhi bian yuan	5
+等值线图	deng zhi xian tu	85
+低通滤波	di tong lv bo	50
+点运算	dian yun suan	28
+度量空间	du liang kong jian	35
+二值化	er zhi hua	9
+二值图像	er zhi tu xiang	97
+分辨率	fen bian lv	19
+封闭曲线	feng bi qu xian	91
+复共轭	fu gong e	89
+傅立叶变换	fu li ye bian huan	58
+腐蚀	fu shi	79
+高通滤波	gao tong lv bo	53
+估计金字塔	gu ji jin zi ta	98
+估计滤波器	gu ji lv bo qi	99
+哈夫变换	ha fu bian huan	51
+后腐蚀	hou fu shi	73
+后膨胀	hou peng zhang	76
+灰度尺度	hui du chi du	56
+灰度级别	hui du ji bie	57
+加权区域平均	jia quan qu yu ping jun	6
+结构化元素	jie gou hua yuan su	11
+结构元素	jie gou yuan su	72
+矩形	ju xing	23
+卷积	juan ji	87
+开运算	kai yun suan	78
+块邻域平均	kuai lin yu ping jun	96
+宽松适应	kuan song shi ying	59
+离散的傅立叶变换	li san de fu li ye bian huan	71
+连通的	lian tong de	88
+量化	liang hua	24
+邻接	lin jie	83
+邻域	lin yu	84
+邻域运算	lin yu yun suan	32
+流程图	liu cheng tu	94
+路径	lu jing	82
+模糊	mo hu	95
+逆变换	ni bian huan	41
+逆离散的傅立叶变换	ni li san de fu li ye bian huan	70
+膨胀	peng zhang	81
+平滑掩模	ping hua yan mo	14
+曲面图	qu mian tu	12
+曲线	qu xian	86
+区域	qu yu	22
+区域平均	qu yu ping jun	21
+区域增长	qu yu zeng zhang	20
+锐化	rui hua	16
+三角形彩色平面	san jiao xing cai se ping mian	1
+色彩立方体	se cai li fang ti	4
+色彩模型	se cai mo xing	3
+上采样	shang cai yang	7
+数字化	shu zi hua	68
+数字图像	shu zi tu xiang	69
+数字图像处理	shu zi tu xiang chu li	100
+水平边缘	shui ping bian yuan	54
+图像采样	tu xiang cai yang	49
+图像定量分析	tu xiang ding liang fen xi	25
+图像分割	tu xiang fen ge	47
+图像复原	tu xiang fu yuan	48
+图像金字塔	tu xiang jin zi ta	43
+图像量化	tu xiang liang hua	44
+图像锐化	tu xiang rui hua	46
+图像子集	tu xiang zi ji	45
+网格线	wang ge xian	55
+伪代码	wei dai ma	27
+下采样	xia cai yang	80
+先腐蚀	xian fu shi	77
+线检测	xian jian ce	40
+先膨胀	xian peng zhang	74
+线性滤波	xian xing lv bo	38
+像素	xiang su	29
+形态学变换	xing tai xue bian huan	34
+形态学操作	xing tai xue cao zuo	33
+形状数	xing zhuang shu	15
+盐白噪声	yan bai zao sheng	18
+掩模	yan mo	36
+预测残差金字塔	yu ce can cha jin zi ta	26
+阈值	yu zhi	10
+圆形彩色平面	yuan xing cai se ping mian	2
+噪音	zao yin	31
+噪音抑制	zao yin yi zhi	30
+增强	zeng qiang	60
+正方形	zheng fang xing	13
+直方图	zhi fang tu	52
+直线像素	zhi xian xiang su	39
+中值滤波	zhong zhi lv bo	37

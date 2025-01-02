@@ -1,0 +1,13 @@
+# 文件名：天气词库.scel
+# 词库名：天气词库
+# 词库分类：气象学
+# 词库描述：
+# 词条样例：晴天 下雨 刮风 多云 阴天
+# 词条数量：6
+
+多云	duo yun	3
+刮风	gua feng	4
+晴天	qing tian	6
+下雨	xia yu	5
+阴天	yin tian	2
+雨夹雪	yu jia xue	1

@@ -1,0 +1,230 @@
+# 文件名：分析化学词库.scel
+# 词库名：分析化学词库
+# 词库分类：化学
+# 词库描述：
+# 词条样例：定性分析 物理分析 顺序注射分析法 系统误差 随机误差 精确度
+# 词条数量：223
+
+暗噪声	an zao sheng	62
+螯合物	ao he wu	157
+百里酚蓝	bai li fen lan	162
+饱和甘汞电极	bao he gan gong dian ji	106
+变色范围	bian se fan wei	178
+变形振动	bian xing zhen dong	20
+变异系数	bian yi xi shu	202
+标准偏差标准差	biao zhun pian cha biao zhun cha	203
+标准氢电极	biao zhun qing dian ji	108
+不对称变形振动	bu dui chen bian xing zhen dong	12
+不对称电位	bu dui chen dian wei	104
+不对称伸缩振动	bu dui chen shen suo zhen dong	22
+不可定误差	bu ke ding wu cha	209
+参比电极	can bi dian ji	109
+长移	chang yi	75
+沉淀滴定法	chen dian di ding fa	138
+等当点	deng dang dian	190
+滴定	di ding	193
+滴定分析法	di ding fen xi fa	194
+电池电动势	dian chi dian dong shi	111
+电磁波谱	dian ci bo pu	87
+电导滴定法	dian dao di ding fa	128
+电导法	dian dao fa	130
+电导分析法	dian dao fen xi fa	129
+电荷平衡	dian he ping heng	189
+电荷平衡式	dian he ping heng shi	188
+电化学分析	dian hua xue fen xi	135
+电解池	dian jie chi	114
+电解法	dian jie fa	134
+碘量法	dian liang fa	154
+电流滴定法	dian liu di ding fa	121
+电位滴定法	dian wei di ding fa	125
+电位法	dian wei fa	127
+电重量法	dian zhong liang fa	133
+定量分析	ding liang fen xi	221
+定性分析	ding xing fen xi	222
+短移	duan yi	74
+对称变形振动	dui chen bian xing zhen dong	13
+对称伸缩振动	dui chen shen suo zhen dong	23
+多尺度细化分析	duo chi du xi hua fen xi	53
+非晶体电极	fei jing ti dian ji	98
+非均相膜电极	fei jun xiang mo dian ji	99
+非水滴定法	fei shui di ding fa	175
+分析化学	fen xi hua xue	223
+分子荧光分析法	fen zi ying guang fen xi fa	46
+伏安法	fu an fa	124
+负极	fu ji	113
+刚性基质电极	gang xing ji zhi dian ji	97
+高碘酸盐	gao dian suan yan	146
+高锰酸钾法	gao meng suan jia fa	151
+供电子取代基	gong dian zi qu dai ji	52
+光二极管阵列检测器	guang er ji guan zhen lie jian ce qi	58
+光谱	guang pu	86
+光谱分析法	guang pu fen xi fa	85
+合并标准偏差组合标准差	he bing biao zhun pian cha zu he biao zhun cha	197
+红外分光光度法	hong wai fen guang guang du fa	26
+红外吸收光谱法	hong wai xi shou guang pu fa	27
+红外线	hong wai xian	31
+红移	hong yi	76
+化学电池	hua xue dian chi	117
+化学定量分析	hua xue ding liang fen xi	195
+化学计量点	hua xue ji liang dian	191
+化学计量学	hua xue ji liang xue	215
+化学双电层	hua xue shuang dian ceng	120
+环大小效应	huan da xiao xiao ying	7
+环折叠振动	huan zhe die zhen dong	5
+混合指示剂	hun he zhi shi ji	177
+激发光谱	ji fa guang pu	41
+极谱法	ji pu fa	123
+肩峰	jian feng	80
+减色效应淡色效应	jian se xiao ying dan se xiao ying	71
+剪式振动	jian shi zhen dong	18
+碱性溶剂	jian xing rong ji	172
+结晶紫	jie jing zi	165
+金属电极电位	jin shu dian ji dian wei	118
+金属氧化物半导体场效应晶体管	jin shu yang hua wu ban dao ti chang xiao ying jing ti guan	93
+金属指示剂	jin shu zhi shi ji	156
+精确度	jing que du	207
+晶体电极	jing ti dian ji	101
+绝对误差	jue dui wu cha	214
+均化效应	jun hua xiao ying	169
+均相膜电极	jun xiang mo dian ji	100
+可定误差	ke ding wu cha	211
+库仑滴定法	ku lun di ding fa	131
+库仑法	ku lun fa	132
+奎哪啶红	kui na ding hong	163
+拉曼光	la man guang	32
+蓝紫移	lan zi yi	73
+离解	li jie	166
+离散小波变换	li san xiao bo bian huan	54
+离子化	li zi hua	167
+离子选择场效应管	li zi xuan ze chang xiao ying guan	92
+离子选择电极	li zi xuan ze dian ji	103
+两性溶剂	liang xing rong ji	171
+流动注射分析法	liu dong zhu she fen xi fa	217
+流流体载动电极	liu liu ti zai dong dian ji	96
+硫酸铈法	liu suan shi fa	148
+酶电极	mei dian ji	94
+面内弯曲振动	mian nei wan qu zhen dong	19
+面内摇摆振动	mian nei yao bai zhen dong	17
+面外弯曲振动	mian wai wan qu zhen dong	16
+面外摇摆振动	mian wai yao bai zhen dong	15
+敏感器	min gan qi	102
+末端吸收	mo duan xi shou	79
+萘酚苯甲醇	nai fen ben jia chun	164
+内转换	nei zhuan huan	44
+偶氮紫	ou dan zi	161
+配位滴定法	pei wei di ding fa	159
+偏差	pian cha	206
+偏高碘酸	pian gao dian suan	147
+偏最小二乘法	pian zui xiao er cheng fa	57
+平均偏差	ping jun pian cha	205
+谱带宽度	pu dai kuan du	65
+普朗克常数	pu lang ke chang shu	88
+气敏电极	qi min dian ji	95
+强带	qiang dai	70
+区分性溶剂	qu fen xing rong ji	168
+蜷曲振动	quan qu zhen dong	14
+全息光栅	quan xi guang shan	59
+溶出法	rong chu fa	122
+容量滴定法	rong liang di ding fa	137
+容量分析法	rong liang fen xi fa	192
+瑞利光	rui li guang	33
+弱带	ruo dai	69
+散粒噪声	san li zao sheng	61
+散射光	san she guang	34
+闪耀光栅	shan yao guang shan	60
+舍弃商	she qi shang	196
+射线荧光分析法	she xian ying guang fen xi fa	48
+伸缩振动	shen suo zhen dong	24
+生色团	sheng se tuan	78
+铈量法	shi liang fa	152
+双电流滴定法双安培滴定法	shuang dian liu di ding fa shuang an pei di ding fa	89
+双指示剂滴定法	shuang zhi shi ji di ding fa	176
+顺序注射分析法	shun xu zhu she fen xi fa	216
+斯托克斯位移	si tuo ke si wei yi	39
+酸碱滴定法	suan jian di ding fa	184
+酸碱指示剂	suan jian zhi shi ji	180
+酸性溶剂	suan xing rong ji	173
+随机误差	sui ji wu cha	210
+特征频率	te zheng pin lv	10
+特征吸收峰	te zheng xi shou feng	11
+体系间跨越	ti xi jian kua yue	42
+条件电位	tiao jian dian wei	150
+透光率	tou guang lv	67
+外指示剂	wai zhi shi ji	140
+外转换	wai zhuan huan	43
+弯曲振动	wan qu zhen dong	21
+微波谱	wei bo pu	28
+误差传递	wu cha chuan di	201
+物理分析	wu li fen xi	220
+物理化学分析	wu li hua xue fen xi	219
+物料平衡	wu liao ping heng	186
+无质子溶剂	wu zhi zi rong ji	170
+吸电子取代基	xi dian zi qu dai ji	51
+吸光度	xi guang du	66
+吸收带	xi shou dai	68
+吸收峰的强度	xi shou feng de qiang du	6
+系统误差	xi tong wu cha	212
+显著性水平	xian zhu xing shui ping	198
+相对平均偏差	xiang dui ping jun pian cha	204
+相对误差	xiang dui wu cha	213
+相关吸收峰	xiang guan xi shou feng	9
+相界电位	xiang jie dian wei	119
+溴酚蓝	xiu fen lan	160
+溴量法	xiu liang fa	153
+溴酸钾法	xiu suan jia fa	149
+亚硝基化滴定法	ya xiao ji hua di ding fa	141
+亚硝基化反应	ya xiao ji hua fan ying	142
+亚硝酸钠法	ya xiao suan na fa	145
+氧化还原滴定法	yang hua huan yuan di ding fa	155
+液接界面	ye jie jie mian	116
+乙二胺四乙酸	yi er an si yi suan	158
+一级参比电极	yi ji can bi dian ji	107
+仪器分析法	yi qi fen xi fa	218
+银量法	yin liang fa	136
+银氯化银电极	yin lv hua yin dian ji	105
+荧光	ying guang	50
+荧光分析法	ying guang fen xi fa	49
+荧光光谱	ying guang guang pu	40
+荧光量子产率	ying guang liang zi chan lv	36
+荧光寿命	ying guang shou ming	38
+荧光熄灭法	ying guang xi mie fa	35
+荧光效率	ying guang xiao lv	37
+永停滴定法	yong ting di ding fa	90
+有效数字	you xiao shu zi	200
+原电池	yuan dian chi	115
+远红外光谱	yuan hong wai guang pu	29
+原子发射分光光度法	yuan zi fa she fen guang guang du fa	2
+原子发射光谱法	yuan zi fa she guang pu fa	84
+原子光谱法	yuan zi guang pu fa	4
+原子吸收分光光度法	yuan zi xi shou fen guang guang du fa	3
+原子荧光分光光度法	yuan zi ying guang fen guang guang du fa	1
+原子荧光分析法	yuan zi ying guang fen xi fa	47
+杂化影响	za hua ying xiang	8
+杂散光	za san guang	64
+噪声	zao sheng	63
+增色效应浓色效应	zeng se xiao ying nong se xiao ying	72
+褶合变换	zhe he bian huan	55
+褶合光谱法	zhe he guang pu fa	56
+振动弛豫	zhen dong chi yu	45
+振动形式	zhen dong xing shi	25
+正极	zheng ji	112
+直接电位法	zhi jie dian wei fa	126
+质量平衡	zhi liang ping heng	187
+质量平衡式	zhi liang ping heng shi	185
+质量谱	zhi liang pu	83
+质谱法	zhi pu fa	82
+指示电极	zhi shi dian ji	110
+指示剂常数	zhi shi ji chang shu	179
+置信水平	zhi xin shui ping	199
+质子溶剂	zhi zi rong ji	174
+质子条件式	zhi zi tiao jian shi	181
+质子自递常数	zhi zi zi di chang shu	182
+质子自递反应	zhi zi zi di fan ying	183
+重氮化滴定法	zhong dan hua di ding fa	143
+重氮化反应	zhong dan hua fan ying	144
+重铬酸钾法	zhong ge suan jia fa	139
+中红外吸收光谱	zhong hong wai xi shou guang pu	30
+助色团	zhu se tuan	77
+准确度	zhun que du	208
+紫外可见分光光度法	zi wai ke jian fen guang guang du fa	81
+总离子强度调节缓冲剂	zong li zi qiang du tiao jie huan chong ji	91
