@@ -1,0 +1,565 @@
+# 文件名：程序猿词库.scel
+# 词库名：程序猿词库
+# 词库分类：软件
+# 词库描述：
+# 词条样例：整型 浮点 结构体 返回值 无符号 宏定义
+# 词条数量：558
+
+安全操作	an quan cao zuo	248
+安全策略	an quan ce lue	258
+安全措施	an quan cuo shi	257
+安全等级	an quan deng ji	256
+安全检查	an quan jian cha	255
+安全控制	an quan kong zhi	254
+安全类	an quan lei	253
+安全模式	an quan mo shi	252
+安全模型	an quan mo xing	251
+安全内核	an quan nei he	250
+安全认证	an quan ren zheng	249
+安全审计	an quan shen ji	242
+安全识别	an quan shi bie	241
+安全事件	an quan shi jian	240
+安全套接层	an quan tao jie ceng	239
+安全性	an quan xing	519
+安全许可	an quan xu ke	238
+安全域	an quan yu	237
+八叉树	ba cha shu	236
+白盒	bai he	235
+白盒测试	bai he ce shi	234
+白箱	bai xiang	233
+白箱测试	bai xiang ce shi	232
+版本管理	ban ben guan li	228
+版本号	ban ben hao	227
+版本检测	ban ben jian ce	226
+版本控制	ban ben kong zhi	225
+版本升级	ban ben sheng ji	224
+办公过程	ban gong guo cheng	223
+办公活动	ban gong huo dong	222
+办公流程	ban gong liu cheng	221
+办公自动化	ban gong zi dong hua	220
+绑定	bang ding	382
+报表	bao biao	215
+报酬分析	bao chou fen xi	212
+包过滤	bao guo lv	219
+报警显示	bao jing xian shi	211
+报警信号	bao jing xin hao	210
+保留内存	bao liu nei cun	217
+保留字	bao liu zi	216
+暴露	bao lu	202
+报文	bao wen	209
+报文捕获	bao wen bu huo	208
+报文加密	bao wen jia mi	207
+报文鉴别	bao wen jian bie	206
+报文鉴别码	bao wen jian bie ma	205
+报文交换	bao wen jiao huan	204
+报文摘译	bao wen zhai yi	203
+被测变量	bei ce bian liang	194
+被调用者	bei diao yong zhe	193
+被动查询	bei dong cha xun	192
+被动威胁	bei dong wei xie	191
+备份	bei fen	200
+备份过程	bei fen guo cheng	199
+备份文件	bei fen wen jian	198
+备份与恢复	bei fen yu hui fu	197
+贝叶斯定理	bei ye si ding li	201
+备用	bei yong	196
+备用冗余	bei yong rong yu	195
+本地代码	ben di dai ma	311
+本地地址	ben di di zhi	190
+本地接口	ben di jie kou	189
+本地终端	ben di zhong duan	188
+本类对象	ben lei dui xiang	522
+崩溃	beng kui	187
+变长编码	bian chang bian ma	139
+编程	bian cheng	511
+编程式事务	bian cheng shi shi wu	515
+编程语言	bian cheng yu yan	156
+变度	bian du	138
+变更转储	bian geng zhuan chu	137
+变化检测	bian hua jian ce	136
+变换	bian huan	135
+变换编码	bian huan bian ma	134
+变换处理	bian huan chu li	133
+变换分析	bian huan fen xi	132
+变换规则	bian huan gui ze	131
+变换系统	bian huan xi tong	130
+变换语义	bian huan yu yi	129
+变换中心	bian huan zhong xin	128
+编辑程序	bian ji cheng xu	155
+编辑器	bian ji qi	154
+变焦	bian jiao	127
+边界	bian jie	185
+边界表示	bian jie biao shi	184
+边界错误	bian jie cuo wu	183
+边界跟踪	bian jie gen zong	182
+边界检测	bian jie jian ce	181
+边界建模	bian jie jian mo	180
+编解码器	bian jie ma qi	153
+边界模型	bian jie mo xing	179
+边界扫描	bian jie sao miao	178
+边界条件	bian jie tiao jian	177
+遍历	bian li	124
+变量	bian liang	553
+编码	bian ma	152
+编码表示	bian ma biao shi	151
+编码方法	bian ma fang fa	150
+编码器	bian ma qi	149
+编码效率	bian ma xiao lv	148
+编码字符	bian ma zi fu	147
+编码字符集	bian ma zi fu ji	146
+扁平封装	bian ping feng zhuang	140
+边写边读	bian xie bian du	176
+边沿触发	bian yan chu fa	175
+编译	bian yi	145
+编译程序	bian yi cheng xu	144
+编译类型	bian yi lei xing	143
+编译器	bian yi qi	142
+编译期	bian yi qi	350
+编译时	bian yi shi	263
+编译时错误	bian yi shi cuo wu	262
+边缘	bian yuan	174
+边缘操作	bian yuan cao zuo	173
+边缘测试	bian yuan ce shi	172
+边缘触发	bian yuan chu fa	171
+边缘泛化	bian yuan fan hua	169
+边缘分割	bian yuan fen ge	168
+边缘故障	bian yuan gu zhang	167
+边缘检测	bian yuan jian ce	166
+边缘检验	bian yuan jian yan	165
+边缘聚焦	bian yuan ju jiao	164
+边缘连接	bian yuan lian jie	163
+边缘连接器	bian yuan lian jie qi	162
+边缘拟合	bian yuan ni he	161
+边缘匹配	bian yuan pi pei	160
+边缘算子	bian yuan suan zi	159
+边缘提取	bian yuan ti qu	158
+边缘调整	bian yuan tiao zheng	170
+边缘增强	bian yuan zeng qiang	157
+变址	bian zhi	126
+编址	bian zhi	141
+变址寄存器	bian zhi ji cun qi	125
+标识符	biao zhi fu	510
+标准程序库	biao zhun cheng xu ku	123
+标准库	biao zhun ku	122
+标准输出	biao zhun shu chu	121
+标准输入	biao zhun shu ru	120
+标准文件	biao zhun wen jian	119
+标准语言	biao zhun yu yan	118
+标准中断	biao zhun zhong duan	117
+别名	bie ming	116
+别名分析	bie ming fen xi	115
+病毒	bing du	113
+病毒签名	bing du qian ming	112
+并发变迁	bing fa bian qian	111
+并发处理	bing fa chu li	110
+并发仿真	bing fa fang zhen	109
+并发公理	bing fa gong li	108
+并发关系	bing fa guan xi	107
+并发进程	bing fa jin cheng	106
+并发控制	bing fa kong zhi	105
+并发模拟	bing fa mo ni	104
+并联匹配	bing lian pi pei	103
+并行	bing xing	102
+并行操作	bing xing cao zuo	101
+并行处理	bing xing chu li	100
+并行传输	bing xing chuan shu	99
+并行存储器	bing xing cun chu qi	98
+并行度	bing xing du	97
+并行端口	bing xing duan kou	96
+并行化	bing xing hua	95
+并行计算	bing xing ji suan	94
+并行建模	bing xing jian mo	93
+并行联结	bing xing lian jie	92
+并行连接	bing xing lian jie	91
+并行模拟	bing xing mo ni	90
+并行搜索	bing xing sou suo	89
+并行算法	bing xing suan fa	88
+饼形图	bing xing tu	114
+博弈	bo yi	87
+博弈论	bo yi lun	86
+博弈树	bo yi shu	85
+博弈树搜索	bo yi shu sou suo	84
+博弈图	bo yi tu	83
+不变量	bu bian liang	269
+不变式	bu bian shi	79
+补偿	bu chang	82
+补偿事务	bu chang shi wu	81
+补偿网络	bu chang wang luo	80
+不等长编码	bu deng chang bian ma	78
+布尔表达式	bu er biao da shi	60
+布尔查找	bu er cha zhao	59
+布尔代数	bu er dai shu	58
+布尔过程	bu er guo cheng	57
+布尔搜索	bu er sou suo	56
+布尔运算	bu er yun suan	55
+部分正确性	bu fen zheng que xing	50
+不归零制	bu gui ling zhi	77
+不合逻辑	bu he luo ji	76
+捕获	bu huo	488
+部件编码	bu jian bian ma	49
+部件拆分	bu jian chai fen	48
+步进	bu jin	54
+步进控制	bu jin kong zhi	53
+不精确推理	bu jing que tui li	75
+不精确中断	bu jing que zhong duan	74
+不可重复读	bu ke chong fu du	470
+步可达性	bu ke da xing	52
+不可抵赖	bu ke di lai	73
+不可靠进程	bu ke kao jin cheng	72
+不可逆加密	bu ke ni jia mi	71
+不确定推理	bu que ding tui li	70
+不确定证据	bu que ding zheng ju	69
+不确定知识	bu que ding zhi shi	68
+部署图	bu shu tu	302
+不透明度	bu tou ming du	67
+不完全排错	bu wan quan pai cuo	66
+不完全数据	bu wan quan shu ju	65
+不完全信息	bu wan quan xin xi	64
+不完全性	bu wan quan xing	63
+步序列	bu xu lie	51
+不一致性	bu yi zhi xing	62
+不重性	bu zhong xing	61
+采样	cai yang	47
+采样插件	cai yang cha jian	46
+采样方式	cai yang fang shi	45
+采样分布	cai yang fen bu	44
+采样控制	cai yang kong zhi	43
+参考监控	can kao jian kong	42
+参考码	can kao ma	41
+参考帧	can kao zhen	40
+参数	can shu	492
+参数测试	can shu ce shi	39
+参数传递	can shu chuan di	38
+参数估计	can shu gu ji	37
+参数故障	can shu gu zhang	36
+参数化设计	can shu hua she ji	35
+参数几何	can shu ji he	34
+参数空间	can shu kong jian	33
+参与者	can yu zhe	32
+参照完整性	can zhao wan zheng xing	31
+操作符	cao zuo fu	423
+操作系统	cao zuo xi tong	247
+测量范围	ce liang fan wei	30
+策略	ce lue	318
+测试板	ce shi ban	29
+测试报告	ce shi bao gao	28
+测试程序	ce shi cheng xu	27
+测试点	ce shi dian	26
+测试覆盖	ce shi fu gai	25
+测试规约	ce shi gui yue	24
+测试过程	ce shi guo cheng	23
+测试环路	ce shi huan lu	22
+测试回路	ce shi hui lu	21
+测试计划	ce shi ji hua	20
+测试阶段	ce shi jie duan	19
+测试例程	ce shi li cheng	18
+测试任务	ce shi ren wu	17
+测试日志	ce shi ri zhi	16
+测试设备	ce shi she bei	15
+测试生成	ce shi sheng cheng	14
+测试时间	ce shi shi jian	13
+测试数据	ce shi shu ju	12
+测试顺序	ce shi shun xu	11
+测试探针	ce shi tan zhen	10
+测试文本	ce shi wen ben	9
+测试响应	ce shi xiang ying	8
+测试有效性	ce shi you xiao xing	7
+测试语言	ce shi yu yan	6
+测试运行	ce shi yun xing	5
+层次分解	ceng ci fen jie	4
+层次结构	ceng ci jie gou	335
+层次结构图	ceng ci jie gou tu	3
+层次模型	ceng ci mo xing	2
+层次网	ceng ci wang	1
+拆分	chai fen	393
+常量	chang liang	554
+长整型	chang zheng xing	557
+超链接	chao lian jie	334
+程序	cheng xu	518
+程序集	cheng xu ji	477
+成员	cheng yuan	460
+成员变量	cheng yuan bian liang	524
+成员方法	cheng yuan fang fa	457
+成员函数	cheng yuan han shu	458
+成员属性	cheng yuan shu xing	459
+重载	chong zai	491
+抽象	chou xiang	503
+抽象的	chou xiang de	500
+抽象方法	chou xiang fang fa	501
+抽象类	chou xiang lei	502
+抽象体	chou xiang ti	499
+触发器	chu fa qi	473
+处理函数	chu li han shu	337
+处理器	chu li qi	539
+初始化	chu shi hua	526
+纯虚方法	chun xu fang fa	496
+存储过程	cun chu guo cheng	472
+存取	cun qu	439
+错误率	cuo wu lv	345
+大数据	da shu ju	422
+单点登录	dan dian deng lu	283
+单片机	dan pian ji	538
+单线程	dan xian cheng	326
+当前对象	dang qian dui xiang	521
+当且仅当	dang qie jin dang	332
+递归函数	di gui han shu	270
+低时延	di shi yan	361
+地址	di zhi	433
+调用	diao yong	525
+动态绑定	dong tai bang ding	296
+断点	duan dian	380
+断言	duan yan	425
+队列	dui lie	408
+对象	dui xiang	512
+对象名	dui xiang ming	299
+对象图	dui xiang tu	309
+堆栈	dui zhan	487
+多对象	duo dui xiang	275
+多进程	duo jin cheng	272
+多任务	duo ren wu	273
+多态	duo tai	506
+多维数组	duo wei shu zu	383
+多线程	duo xian cheng	271
+多用户	duo yong hu	274
+二叉链表	er cha lian biao	388
+二叉树	er cha shu	410
+二分查找	er fen cha zhao	411
+二维数组	er wei shu zu	384
+二元操作符	er yuan cao zuo fu	409
+阀值	fa zhi	391
+返回类型	fan hui lei xing	493
+返回值	fan hui zhi	547
+反射	fan she	478
+范围	fan wei	353
+泛型	fan xing	475
+方法	fang fa	482
+方法名	fang fa ming	297
+访问级别	fang wen ji bie	438
+访问控制列表	fang wen kong zhi lie biao	322
+访问令牌	fang wen ling pai	321
+访问器	fang wen qi	455
+非线性链表	fei xian xing lian biao	389
+非阻塞	fei zu se	414
+分辨率	fen bian lv	347
+分布式计算	fen bu shi ji suan	287
+分布式架构	fen bu shi jia gou	289
+分布式消息	fen bu shi xiao xi	286
+分配器	fen pei qi	431
+分组协议	fen zu xie yi	447
+封装	feng zhuang	508
+封装字段	feng zhuang zi duan	465
+浮点	fu dian	556
+浮点型	fu dian xing	555
+覆盖	fu gai	504
+父类	fu lei	529
+赋值	fu zhi	424
+告警	gao jing	213
+高可用性	gao ke yong xing	341
+高速缓存	gao su huan cun	377
+高吞吐	gao tun tu	363
+高响应	gao xiang ying	364
+高效	gao xiao	365
+高性能	gao xing neng	362
+共用体	gong yong ti	550
+构件图	gou jian tu	303
+构造函数	gou zao han shu	454
+构造型	gou zao xing	261
+挂了	gua le	186
+管理员帐号	guan li yuan zhang hao	319
+哈希	ha xi	449
+哈希表	ha xi biao	336
+函数	han shu	356
+函数式	han shu shi	462
+宏定义	hong ding yi	540
+互联网架构	hu lian wang jia gou	288
+缓冲	huan chong	406
+缓冲一致性	huan chong yi zhi xing	282
+幻象读	huan xiang du	469
+汇编语言	hui bian yu yan	426
+回调	hui tiao	376
+活动图	huo dong tu	304
+活锁	huo suo	369
+基本类型	ji ben lei xing	536
+继承	ji cheng	507
+集成开发环境	ji cheng kai fa huan jing	333
+集合类	ji he lei	474
+激活	ji huo	437
+基类	ji lei	413
+集群	ji qun	285
+计算机	ji suan ji	441
+加密	jia mi	317
+鉴权	jian quan	245
+健壮性	jian zhuang xing	344
+交互图	jiao hu tu	301
+交换总线	jiao huan zong xian	218
+结构体	jie gou ti	551
+解决方案	jie jue fang an	497
+接口	jie kou	527
+解密	jie mi	316
+解析	jie xi	352
+解析过程	jie xi guo cheng	348
+进程	jin cheng	327
+进程间通信	jin cheng jian tong xin	446
+局部	ju bu	354
+局部变量	ju bu bian liang	523
+具体的	ju ti de	498
+开发	kai fa	517
+可用性	ke yong xing	342
+框架	kuang jia	429
+扩展点	kuo zhan dian	513
+扩展性	kuo zhan xing	343
+垃圾回收	la ji hui shou	509
+类变量	lei bian liang	268
+类层次	lei ceng ci	374
+类方法	lei fang fa	266
+类函数	lei han shu	267
+类继承	lei ji cheng	375
+类图	lei tu	306
+离线的	li xian de	486
+链表	lian biao	395
+量子计算	liang zi ji suan	419
+临时对象	lin shi dui xiang	329
+领域模型	ling yu mo xing	292
+逻辑运算符	luo ji yun suan fu	397
+螺旋模型	luo xuan mo xing	293
+冒泡	mao pao	404
+冒烟	mao yan	231
+冒烟测试	mao yan ce shi	230
+枚举	mei ju	549
+枚举成员	mei ju cheng yuan	464
+面向对象	mian xiang dui xiang	543
+面向过程	mian xiang guo cheng	463
+命名空间	ming ming kong jian	476
+模块化	mo kuai hua	544
+派生类	pai sheng lei	505
+排序	pai xu	405
+抛出	pao chu	489
+批处理	pi chu li	412
+破密	po mi	315
+瀑布模型	pu bu mo xing	295
+签名	qian ming	244
+嵌入式	qian ru shi	537
+强制转换	qiang zhi zhuan huan	533
+全局	quan ju	355
+全局变量	quan ju bian liang	451
+缺省	que sheng	367
+人工智能	ren gong zhi neng	420
+任务切换	ren wu qie huan	328
+软件架构	ruan jian jia gou	290
+散列桶	san lie tong	394
+上限	shang xian	392
+设计模式	she ji mo shi	366
+声明式事务	sheng ming shi shi wu	514
+识别度	shi bie du	346
+实参	shi can	358
+事件	shi jian	480
+事件驱动	shi jian qu dong	360
+实例	shi li	461
+实例变量	shi li bian liang	452
+实例名	shi li ming	298
+适配器	shi pei qi	436
+实时的	shi shi de	484
+事务	shi wu	516
+实现接口	shi xian jie kou	467
+授权	shou quan	246
+输出	shu chu	398
+数据	shu ju	401
+数据包	shu ju bao	371
+数据报	shu ju bao	530
+数据报表	shu ju bao biao	214
+数据成员	shu ju cheng yuan	372
+数据结构	shu ju jie gou	546
+数据库	shu ju ku	373
+数据链路	shu ju lian lu	314
+数据值	shu ju zhi	277
+输入	shu ru	399
+属性	shu xing	456
+数组	shu zu	552
+顺序存储	shun xu cun chu	387
+顺序图	shun xu tu	308
+死锁	si suo	370
+算法	suan fa	545
+算术运算符	suan shu yun suan fu	396
+提取接口	ti qu jie kou	466
+体系结构	ti xi jie gou	428
+调试	tiao shi	368
+同步	tong bu	417
+图形界面	tu xing jie mian	351
+推导	tui dao	330
+吞吐量	tun tu liang	471
+网关	wang guan	443
+伪变量	wei bian liang	450
+委托	wei tuo	479
+位域	wei yu	381
+位址空间	wei zhi kong jian	432
+无符号	wu fu hao	541
+析构函数	xi gou han shu	453
+系统消息	xi tong xiao xi	280
+下标	xia biao	402
+线程安全	xian cheng an quan	325
+线性链表	xian xing lian biao	390
+向上转型	xiang shang zhuan xing	534
+消息队列	xiao xi dui lie	407
+协议	xie yi	448
+协作图	xie zuo tu	307
+形参	xing can	357
+修饰符	xiu shi fu	494
+虚方法	xu fang fa	495
+虚拟机	xu ni ji	331
+雪崩	xue beng	281
+压测	ya ce	229
+演化模型	yan hua mo xing	294
+验签	yan qian	243
+业务	ye wu	378
+业务链路	ye wu lian lu	313
+异步	yi bu	416
+异常	yi chang	490
+异常处理	yi chang chu li	359
+异构计算	yi gou ji suan	418
+一维数组	yi wei shu zu	385
+一元操作符	yi yuan cao zuo fu	324
+隐式的	yin shi de	260
+应用程序	ying yong cheng xu	430
+用户界面	yong hu jie mian	323
+用例扩展	yong li kuo zhan	291
+用例图	yong li tu	310
+有符号	you fu hao	542
+有序关联	you xu guan lian	386
+预定义	yu ding yi	440
+语句	yu ju	400
+域名	yu ming	312
+语言	yu yan	442
+元数据	yuan shu ju	300
+元素	yuan su	403
+云服务	yun fu wu	421
+云计算	yun ji suan	284
+运行期	yun xing qi	349
+运行时	yun xing shi	265
+运行时错误	yun xing shi cuo wu	264
+在线的	zai xian de	485
+脏读	zang du	468
+帐号封锁	zhang hao feng suo	320
+整型	zheng xing	558
+只读	zhi du	481
+直接上层基类	zhi jie shang ceng ji lei	338
+直接下层派生类	zhi jie xia ceng pai sheng lei	339
+指针	zhi zhen	548
+中断请求	zhong duan qing qiu	445
+重用性	zhong yong xing	520
+转换器	zhuan huan qi	435
+转型	zhuan xing	535
+装饰器	zhuang shi qi	434
+状态图	zhuang tai tu	305
+自变量	zi bian liang	427
+自顶向下	zi ding xiang xia	279
+字段	zi duan	483
+字符	zi fu	531
+字节	zi jie	532
+字节流报	zi jie liu bao	259
+子类	zi lei	528
+字面值	zi mian zhi	278
+资源定位	zi yuan ding wei	444
+总线	zong xian	379
+阻塞	zu se	415
+最底层的派生类	zui di ceng de pai sheng lei	340
+作用域解析	zuo yong yu jie xi	276

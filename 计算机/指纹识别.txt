@@ -1,0 +1,164 @@
+# 文件名：指纹识别.scel
+# 词库名：指纹识别
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：三角点 螺旋形 环形 弓形
+# 词条数量：157
+
+半导体压感指纹采集仪	ban dao ti ya gan zhi wen cai ji yi	73
+部分区域配合	bu fen qu yu pei he	102
+初步概算	chu bu gai suan	13
+初始概算	chu shi gai suan	11
+低通滤波	di tong lv bo	103
+低序	di xu	16
+低质量	di zhi liang	18
+低质量部分	di zhi liang bu fen	9
+低质量区域	di zhi liang qu yu	23
+电容式采集指纹采集仪	dian rong shi cai ji zhi wen cai ji yi	71
+短纹	duan wen	138
+发展趋势	fa zhan qu shi	47
+范畴	fan chou	89
+反馈信号	fan kui xin hao	64
+方向	fang xiang	137
+方向变量	fang xiang bian liang	7
+方向场	fang xiang chang	21
+方向估计	fang xiang gu ji	35
+方向滤波器	fang xiang lv bo qi	37
+方向匹配	fang xiang pi pei	77
+方向信息提取	fang xiang xin xi ti qu	118
+方向选择	fang xiang xuan ze	109
+非平稳信号	fei ping wen xin hao	105
+分叉点	fen cha dian	142
+分类	fen lei	85
+分歧点	fen qi dian	141
+傅里叶	fu li ye	15
+概率方法	gai lv fang fa	39
+高质量	gao zhi liang	30
+公安网络	gong an wang luo	94
+公共事业指纹库	gong gong shi ye zhi wen ku	42
+弓形	gong xing	155
+拱形	gong xing	151
+弓形指纹	gong xing zhi wen	25
+孤立点	gu li dian	140
+管理	guan li	97
+光学指纹采集仪	guang xue zhi wen cai ji yi	74
+函数	han shu	111
+杭州中正	hang zhou zhong zheng	60
+核心点	he xin dian	148
+虹膜	hong mo	131
+环点	huan dian	139
+环形	huan xing	156
+畸变	ji bian	100
+几何特性	ji he te xing	67
+嵴与峪	ji yu yu	68
+驾校培训	jia xiao pei xun	51
+尖拱形	jian gong xing	150
+金融	jin rong	95
+金融支持领域	jin rong zhi chi ling yu	92
+局部匹配	ju bu pi pei	82
+局部特征	ju bu te zheng	145
+局部梯度	ju bu ti du	24
+矩阵	ju zhen	4
+均匀处理	jun yun chu li	98
+均值	jun zhi	32
+扩散	kuo san	31
+类型匹配	lei xing pi pei	80
+离散	li san	5
+脸部热谱图	lian bu re pu tu	127
+联合概率分布	lian he gai lv fen bu	6
+脸形	lian xing	132
+连续	lian xu	3
+量值	liang zhi	63
+零极点模型	ling ji dian mo xing	27
+螺旋形	luo xuan xing	154
+马尔科夫模型	ma er ke fu mo xing	22
+门禁	men jin	96
+模式区	mo shi qu	149
+模式识别	mo shi shi bie	90
+模型	mo xing	29
+偶马尔科夫网络	ou ma er ke fu wang luo	1
+判断	pan duan	84
+频率选择	pin lv xuan ze	110
+平滑	ping hua	19
+汽车指纹防盗	qi che zhi wen fang dao	48
+奇异点	qi yi dian	26
+曲率	qu lv	136
+全局方向场模型	quan ju fang xiang chang mo xing	14
+全局混合模型	quan ju hun he mo xing	8
+全局奇异点	quan ju qi yi dian	28
+软件信息化系统	ruan jian xin xi hua xi tong	57
+三角点	san jiao dian	147
+社保医疗	she bao yi liao	50
+身份证查询业务	shen fen zheng cha xun ye wu	41
+生物别技术	sheng wu bie ji shu	134
+生物特性	sheng wu te xing	65
+声音	sheng yin	130
+时频测不准关系下界	shi pin ce bu zhun guan xi xia jie	107
+手持设备	shou chi she bei	44
+手形	shou xing	128
+数字化自动指纹采集技术	shu zi hua zi dong zhi wen cai ji ji shu	70
+算法体系	suan fa ti xi	125
+特性	te xing	108
+特征点	te zheng dian	144
+特征提取	te zheng ti qu	122
+特征值匹配	te zheng zhi pi pei	88
+梯度强度	ti du qiang du	33
+梯度信息	ti du xin xi	10
+提取特征点	ti qu te zheng dian	20
+图像分割	tu xiang fen ge	116
+图像细化	tu xiang xi hua	115
+图像与背景分离	tu xiang yu bei jing fen li	119
+拓扑关系	tuo pu guan xi	76
+网络交易	wang luo jiao yi	43
+位置	wei zhi	135
+温感指纹采集仪	wen gan zhi wen cai ji yi	72
+纹数	wen shu	146
+纹线提取	wen xian ti qu	117
+纹形	wen xing	157
+物理特征	wu li te zheng	66
+西安紫牛科技	xi an zi niu ke ji	59
+细节点	xi jie dian	81
+细节特征	xi jie te zheng	38
+细节特征提取	xi jie te zheng ti qu	114
+像素	xiang su	99
+信息安全	xin xi an quan	56
+信息安全领域	xin xi an quan ling yu	93
+业务模式	ye wu mo shi	40
+移除噪声	yi chu zao sheng	17
+银行内控	yin hang nei kong	52
+应用方案	ying yong fang an	91
+右箕形	you ji xing	152
+噪声	zao sheng	101
+增强处理	zeng qiang chu li	36
+掌纹	zhang wen	129
+整体特征	zheng ti te zheng	87
+质量匹配	zhi liang pi pei	78
+智能卡	zhi neng ka	45
+指纹	zhi wen	133
+指纹比对	zhi wen bi dui	121
+指纹采集	zhi wen cai ji	75
+指纹成像	zhi wen cheng xiang	69
+指纹分类	zhi wen fen lei	123
+指纹脊	zhi wen ji	2
+指纹嵴密度	zhi wen ji mi du	83
+指纹技术	zhi wen ji shu	46
+指纹考勤	zhi wen kao qin	54
+指纹考勤机	zhi wen kao qin ji	62
+指纹门	zhi wen men	61
+指纹门锁	zhi wen men suo	55
+指纹认证平台	zhi wen ren zheng ping tai	58
+指纹识别率	zhi wen shi bie lv	34
+指纹数码	zhi wen shu ma	53
+指纹特征提取算法	zhi wen te zheng ti qu suan fa	120
+指纹图像	zhi wen tu xiang	106
+指纹图像预处理	zhi wen tu xiang yu chu li	113
+指纹纹形	zhi wen wen xing	86
+指纹增强	zhi wen zeng qiang	124
+指纹支付	zhi wen zhi fu	49
+终结点	zhong jie dian	143
+中值滤波	zhong zhi lv bo	104
+自动指纹识别	zi dong zhi wen shi bie	126
+自动指纹识别系统	zi dong zhi wen shi bie xi tong	112
+最小平方问题	zui xiao ping fang wen ti	12
+坐标匹配	zuo biao pi pei	79
+左箕形	zuo ji xing	153

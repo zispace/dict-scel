@@ -1,0 +1,1992 @@
+# 文件名：ERP软件.scel
+# 词库名：ERP软件
+# 词库分类：软件
+# 词库描述：
+# 词条样例：计划生成 计划维护 预留历史记录查询 采购计划列表 选项 安全库存
+# 词条数量：1985
+
+按发票货龄分析	an fa piao huo ling fen xi	1967
+安全库存	an quan ku cun	1970
+安全库存预警	an quan ku cun yu jing	1969
+安全提前期	an quan ti qian qi	1968
+按收款货龄分析	an shou kuan huo ling fen xi	1966
+办公自动化	ban gong zi dong hua	1964
+班组规模	ban zu gui mo	1965
+保本分析	bao ben fen xi	1959
+报表	bao biao	1952
+报工单	bao gong dan	1951
+报工单生成工时记录	bao gong dan sheng cheng gong shi ji lu	1950
+报工列表	bao gong lie biao	1949
+保管	bao guan	1958
+报关	bao guan	1948
+保管费	bao guan fei	1957
+保管费率	bao guan fei lv	1956
+保管人调整	bao guan ren tiao zheng	1955
+报价单列表	bao jia dan lie biao	1947
+保税仓库	bao shui cang ku	1954
+保险期	bao xian qi	1953
+包装物退回登记	bao zhuang wu tui hui deng ji	1963
+包装物租借	bao zhuang wu zu jie	1962
+包装物租借登记	bao zhuang wu zu jie deng ji	1961
+包装物租借统计表	bao zhuang wu zu jie tong ji biao	1960
+本位币	ben wei bi	1946
+变动单	bian dong dan	1945
+变动单管理	bian dong dan guan li	1944
+变动申请单	bian dong shen qing dan	1943
+变革管理	bian ge guan li	1942
+标管理	biao guan li	1941
+标准产品成本	biao zhun chan pin cheng ben	1940
+标准成本体系	biao zhun cheng ben ti xi	1939
+标准单位运转工时	biao zhun dan wei yun zhuan gong shi	1938
+标准工时	biao zhun gong shi	1937
+标准工序资料表不含资源	biao zhun gong xu zi liao biao bu han zi yuan	1936
+标准工序资料表含资源	biao zhun gong xu zi liao biao han zi yuan	1935
+标准工资率	biao zhun gong zi lv	1934
+标准机器设置工时	biao zhun ji qi she zhi gong shi	1933
+不合格品备查簿	bu he ge pin bei cha bu	1921
+不合格品处理单	bu he ge pin chu li dan	1920
+不合格品处理单列表	bu he ge pin chu li dan lie biao	1919
+不合格品管理	bu he ge pin guan li	1918
+不合格品记录单	bu he ge pin ji lu dan	1917
+不合格品记录单列表	bu he ge pin ji lu dan lie biao	1916
+补货安全库存对照表	bu huo an quan ku cun dui zhao biao	1932
+补货策略	bu huo ce lue	1931
+不活动报告	bu huo dong bao gao	1915
+补货建议单	bu huo jian yi dan	1930
+补货建议单列表	bu huo jian yi dan lie biao	1929
+补货业务	bu huo ye wu	1928
+不可动用量	bu ke dong yong liang	1914
+补库单	bu ku dan	1927
+不利差异	bu li cha yi	1913
+不良品报告	bu liang pin bao gao	1912
+不良品报告单	bu liang pin bao gao dan	1911
+不良品报告列表	bu liang pin bao gao lie biao	1910
+不良品处理方式	bu liang pin chu li fang shi	1909
+不良品返工	bu liang pin fan gong	1908
+不良原因分析表	bu liang yuan yin fen xi biao	1907
+补料申请单	bu liao shen qing dan	1926
+补料申请单列表	bu liao shen qing dan lie biao	1925
+补料申请单明细表	bu liao shen qing dan ming xi biao	1924
+补料业务	bu liao ye wu	1923
+不买够买力会计	bu mai gou mai li kuai ji	1906
+部门对应折旧科目	bu men dui ying zhe jiu ke mu	1905
+部门多栏明细账	bu men duo lan ming xi zhang	1904
+部门多栏账	bu men duo lan zhang	1903
+部门辅助账	bu men fu zhu zhang	1902
+部门构成分析表	bu men gou cheng fen xi biao	1901
+部门科目明细账	bu men ke mu ming xi zhang	1900
+部门科目总账	bu men ke mu zong zhang	1899
+部门类别明细账	bu men lei bie ming xi zhang	1898
+部门明细账	bu men ming xi zhang	1897
+部门三栏明细账	bu men san lan ming xi zhang	1896
+部门三栏总账	bu men san lan zong zhang	1895
+部门收支分析	bu men shou zhi fen xi	1894
+部门折旧计提汇总表	bu men zhe jiu ji ti hui zong biao	1893
+部门转移	bu men zhuan yi	1892
+部门转移申请单	bu men zhuan yi shen qing dan	1891
+部门总账	bu men zong zhang	1890
+补足欠交	bu zu qian jiao	1922
+采购	cai gou	1875
+采购比价审批单	cai gou bi jia shen pi dan	1874
+采购比价审批单列表	cai gou bi jia shen pi dan lie biao	1873
+采购成本分析	cai gou cheng ben fen xi	1872
+采购成本趋势分析	cai gou cheng ben qu shi fen xi	1871
+采购到货	cai gou dao huo	1870
+采购到货单批量报检	cai gou dao huo dan pi liang bao jian	1869
+采购到货批量入库	cai gou dao huo pi liang ru ku	1868
+采购订单	cai gou ding dan	1867
+采购订单跟踪	cai gou ding dan gen zong	1866
+采购订单价格	cai gou ding dan jia ge	1865
+采购订单列表	cai gou ding dan lie biao	1864
+采购订单批量到货	cai gou ding dan pi liang dao huo	1863
+采购订单批量入库	cai gou ding dan pi liang ru ku	1862
+采购订单预警和报警表	cai gou ding dan yu jing he bao jing biao	1861
+采购订单执行统计表	cai gou ding dan zhi xing tong ji biao	1860
+采购订货	cai gou ding huo	1859
+采购订收货统计表	cai gou ding shou huo tong ji biao	1858
+采购发票	cai gou fa piao	1857
+采购发票查询	cai gou fa piao cha xun	1856
+采购发票列表	cai gou fa piao lie biao	1855
+采购发票审核	cai gou fa piao shen he	1854
+采购费用分析	cai gou fei yong fen xi	1853
+采购管理	cai gou guan li	1852
+采购货龄综合分析	cai gou huo ling zong he fen xi	1851
+采购计划	cai gou ji hua	1977
+采购计划法	cai gou ji hua fa	1850
+采购计划列表	cai gou ji hua lie biao	1976
+采购计划执行情况	cai gou ji hua zhi xing qing kuang	1975
+采购计划资金预算	cai gou ji hua zi jin yu suan	1974
+采购计划综合统计表	cai gou ji hua zong he tong ji biao	1849
+采购结算	cai gou jie suan	1848
+采购结算余额表	cai gou jie suan yu e biao	1847
+采购类型结构分析	cai gou lei xing jie gou fen xi	1846
+采购明细表	cai gou ming xi biao	1845
+采购期初记账	cai gou qi chu ji zhang	1844
+采购请购单批量订货	cai gou qing gou dan pi liang ding huo	1843
+采购入库	cai gou ru ku	1842
+采购入库单	cai gou ru ku dan	1841
+采购入库单列表	cai gou ru ku dan lie biao	1840
+采购时效性统计表	cai gou shi xiao xing tong ji biao	1839
+采购退货单	cai gou tui huo dan	1838
+采购询价	cai gou xun jia	1837
+采购业务追溯	cai gou ye wu zhui su	1836
+采购员	cai gou yuan	1835
+采购账簿	cai gou zhang bu	1834
+采购执行进度表	cai gou zhi xing jin du biao	1833
+采购执行状况表	cai gou zhi xing zhuang kuang biao	1832
+采购资产	cai gou zi chan	1831
+采购资产统计表	cai gou zi chan tong ji biao	1830
+采购资金比重分析	cai gou zi jin bi zhong fen xi	1829
+采购综合统计表	cai gou zong he tong ji biao	1828
+材料出库	cai liao chu ku	1889
+材料出库单	cai liao chu ku dan	1888
+材料出库单列表	cai liao chu ku dan lie biao	1887
+材料及外购半成品耗用	cai liao ji wai gou ban cheng pin hao yong	1886
+材料及外购半成品耗用统计	cai liao ji wai gou ban cheng pin hao yong tong ji	1885
+财务报表	cai wu bao biao	1884
+财务报告	cai wu bao gao	1883
+财务杠杆系数	cai wu gang gan xi shu	1882
+财务核算	cai wu he suan	1881
+财务会计	cai wu kuai ji	1880
+财务期间	cai wu qi jian	1879
+财务实体	cai wu shi ti	1878
+财务总监	cai wu zong jian	1877
+财政年度	cai zheng nian du	1876
+参考号	can kao hao	1827
+仓库	cang ku	1826
+仓库存货不良原因分析表	cang ku cun huo bu liang yuan yin fen xi biao	1825
+仓库存货质量分析表	cang ku cun huo zhi liang fen xi biao	1824
+仓库净算定义查询	cang ku jing suan ding yi cha xun	1823
+仓库库位类型	cang ku ku wei lei xing	1822
+仓位备注	cang wei bei zhu	1821
+仓位代码	cang wei dai ma	1820
+仓位数量	cang wei shu liang	1819
+仓位状况	cang wei zhuang kuang	1818
+插入	cha ru	1817
+查询	cha xun	1816
+查询对账勾对情况	cha xun dui zhang gou dui qing kuang	1815
+查询凭证	cha xun ping zheng	1814
+差异分摊表	cha yi fen tan biao	1813
+差异率计算	cha yi lv ji suan	1812
+差异调整单	cha yi tiao zheng dan	1811
+差异调整单列表	cha yi tiao zheng dan lie biao	1810
+产成品成本分配	chan cheng pin cheng ben fen pei	1809
+产成品入库单	chan cheng pin ru ku dan	1808
+产成品入库单列表	chan cheng pin ru ku dan lie biao	1807
+产规划编制	chan gui hua bian zhi	1806
+产量差异	chan liang cha yi	1805
+产量预算制定	chan liang yu suan zhi ding	1804
+产品报检单	chan pin bao jian dan	1803
+产品报检单列表	chan pin bao jian dan lie biao	1802
+产品不良品处理	chan pin bu liang pin chu li	1801
+产品不良品处理单	chan pin bu liang pin chu li dan	1800
+产品不良品处理单列表	chan pin bu liang pin chu li dan lie biao	1799
+产品不良原因分析表	chan pin bu liang yuan yin fen xi biao	1798
+产品材料定额每月变动表	chan pin cai liao ding e mei yue bian dong biao	1797
+产品成本趋势分析	chan pin cheng ben qu shi fen xi	1796
+产品成本预测	chan pin cheng ben yu ce	1795
+产品搭配组合	chan pin da pei zu he	1794
+产品待检明细表	chan pin dai jian ming xi biao	1793
+产品横向比较分析	chan pin heng xiang bi jiao fen xi	1792
+产品检验	chan pin jian yan	1791
+产品检验单	chan pin jian yan dan	1790
+产品检验单列表	chan pin jian yan dan lie biao	1789
+产品检验统计分析表	chan pin jian yan tong ji fen xi biao	1788
+产品检验统计分析表无分	chan pin jian yan tong ji fen xi biao wu fen	1787
+产品检验质量台帐	chan pin jian yan zhi liang tai zhang	1786
+产品结构树	chan pin jie gou shu	1785
+产品控制	chan pin kong zhi	1784
+产品率	chan pin lv	1783
+产品生命周期管理	chan pin sheng ming zhou qi guan li	1782
+产品数据管理	chan pin shu ju guan li	1781
+产品投入产出汇总表	chan pin tou ru chan chu hui zong biao	1780
+产品投入产出明细表	chan pin tou ru chan chu ming xi biao	1779
+产品系列	chan pin xi lie	1778
+产品线	chan pin xian	1777
+产品预测订单明细表不均	chan pin yu ce ding dan ming xi biao bu jun	1776
+产品预测订单明细表汇总	chan pin yu ce ding dan ming xi biao hui zong	1775
+产品预测订单明细表均化	chan pin yu ce ding dan ming xi biao jun hua	1774
+产品预测订单输入	chan pin yu ce ding dan shu ru	1773
+产品预测订单输入展开式	chan pin yu ce ding dan shu ru zhan kai shi	1772
+产品预测订单整批处理	chan pin yu ce ding dan zheng pi chu li	1771
+产品预测资料比较表	chan pin yu ce zi liao bi jiao biao	1770
+产品指标检验统计表	chan pin zhi biao jian yan tong ji biao	1769
+厂际需求量	chang ji xu qiu liang	1767
+长期未达账审计	chang qi wei da zhang shen ji	158
+畅适滞分析	chang shi zhi fen xi	1766
+常用凭证	chang yong ping zheng	1768
+超储存货查询	chao chu cun huo cha xun	1765
+超量库位	chao liang ku wei	1764
+车间订单	che jian ding dan	1763
+车间管理	che jian guan li	1762
+车间在制品收发存报表部	che jian zai zhi pin shou fa cun bao biao bu	1761
+车间在制品收发存报表工	che jian zai zhi pin shou fa cun bao biao gong	1760
+成本差异汇总分析	cheng ben cha yi hui zong fen xi	1759
+成本差异明细分析	cheng ben cha yi ming xi fen xi	1758
+成本分析	cheng ben fen xi	1985
+成本管理	cheng ben guan li	1757
+成本滚动计算法	cheng ben gun dong ji suan fa	1756
+成本核算	cheng ben he suan	1755
+成本计算	cheng ben ji suan	1754
+成本模拟	cheng ben mo ni	1753
+成本物料清单	cheng ben wu liao qing dan	1752
+成本项目	cheng ben xiang mu	1751
+成本项目对照	cheng ben xiang mu dui zhao	1750
+成本项目分类	cheng ben xiang mu fen lei	1749
+成本项目构成分析	cheng ben xiang mu gou cheng fen xi	1748
+成本效益分析	cheng ben xiao yi fen xi	1747
+成本中心成本预测	cheng ben zhong xin cheng ben yu ce	1746
+成本中心内部利润分析	cheng ben zhong xin nei bu li run fen xi	1745
+成本自定义报表	cheng ben zi ding yi bao biao	1744
+成品	cheng pin	1743
+重复计划	chong fu ji hua	94
+重复计划工序资料维护	chong fu ji hua gong xu zi liao wei hu	93
+重复计划明细表	chong fu ji hua ming xi biao	92
+重复计划输入	chong fu ji hua shu ru	91
+重复计划通知单	chong fu ji hua tong zhi dan	90
+重复计划自动生成	chong fu ji hua zi dong sheng cheng	89
+重排假设	chong pai jia she	88
+重新初始化	chong xin chu shi hua	87
+重新初始化账套	chong xin chu shi hua zhang tao	86
+储存	chu cun	1723
+出口订单预留	chu kou ding dan yu liu	1742
+出口订单预留状况	chu kou ding dan yu liu zhuang kuang	1741
+出口发票	chu kou fa piao	1740
+出口发票查询	chu kou fa piao cha xun	1739
+出口发票审核	chu kou fa piao shen he	1738
+出口监管仓库	chu kou jian guan cang ku	1737
+出口预留	chu kou yu liu	1736
+出库称重	chu ku cheng zhong	1735
+出库单	chu ku dan	1734
+出库单开票情况表	chu ku dan kai piao qing kuang biao	1733
+出库单批量生成发票	chu ku dan pi liang sheng cheng fa piao	1732
+出库汇总表	chu ku hui zong biao	1731
+出库调整单	chu ku tiao zheng dan	1730
+出库调整单列表	chu ku tiao zheng dan lie biao	1729
+出库验货	chu ku yan huo	1728
+出纳	chu na	1727
+出纳签字	chu na qian zi	1726
+出入库流水账	chu ru ku liu shui zhang	1725
+初始设置	chu shi she zhi	1724
+传递时间	chuan di shi jian	1722
+粗能力计划	cu neng li ji hua	1721
+粗资源计划	cu zi yuan ji hua	1720
+催款	cui kuan	1719
+催款单	cui kuan dan	1718
+催款信	cui kuan xin	1717
+存储过程	cun chu guo cheng	1716
+存货编码	cun huo bian ma	1715
+存货单价检查	cun huo dan jia jian cha	1714
+存货分布表	cun huo fen bu biao	1713
+存货分项出库汇总表	cun huo fen xiang chu ku hui zong biao	1712
+存货分项流水账	cun huo fen xiang liu shui zhang	1711
+存货分项明细账	cun huo fen xiang ming xi zhang	1710
+存货分项收发存汇总表	cun huo fen xiang shou fa cun hui zong biao	1709
+存货核算	cun huo he suan	1708
+存货价格	cun huo jia ge	1707
+存货价格分析	cun huo jia ge fen xi	1706
+存货价格列表	cun huo jia ge lie biao	1705
+存货检验计划	cun huo jian yan ji hua	1704
+存货检验质量成本统计表	cun huo jian yan zhi liang cheng ben tong ji biao	1703
+存货科目	cun huo ke mu	1702
+存货调价单	cun huo tiao jia dan	1701
+存货调价单列表	cun huo tiao jia dan lie biao	1700
+存货调价历史记录	cun huo tiao jia li shi ji lu	1699
+存货与总账对	cun huo yu zong zhang dui	1698
+存货周转率分析	cun huo zhou zhuan lv fen xi	1697
+存量波动分析	cun liang bo dong fen xi	1696
+达到库存	da dao ku cun	1695
+大规模定制	da gui mo ding zhi	1692
+大类折扣	da lei zhe kou	1691
+打印工具	da yin gong ju	1694
+打印模板文件存储	da yin mu ban wen jian cun chu	1693
+代表或业务员	dai biao huo ye wu yuan	1687
+待处理订单明细表	dai chu li ding dan ming xi biao	1681
+代垫费用	dai dian fei yong	1686
+代垫费用单	dai dian fei yong dan	1685
+代垫费用单列表	dai dian fei yong dan lie biao	1684
+代垫费用统计表	dai dian fei yong tong ji biao	1683
+代管账	dai guan zhang	1682
+待检明细表	dai jian ming xi biao	1680
+戴明环	dai ming huan	1679
+呆滞积压备查簿	dai zhi ji ya bei cha bu	1690
+呆滞积压存货分析	dai zhi ji ya cun huo fen xi	1689
+呆滞物料分析	dai zhi wu liao fen xi	1688
+单层物料反查表	dan ceng wu liao fan cha biao	1678
+单层物料清单	dan ceng wu liao qing dan	1677
+单个固定资产明细账	dan ge gu ding zi chan ming xi zhang	1676
+单据预警	dan ju yu jing	1675
+单据组设置	dan ju zu she zhi	1674
+单位版本差异查询	dan wei ban ben cha yi cha xun	1673
+单位成本	dan wei cheng ben	1672
+单位计划成本汇总表	dan wei ji hua cheng ben hui zong biao	1671
+单位计划成本结构化查询	dan wei ji hua cheng ben jie gou hua cha xun	1670
+单位计划成本明细表	dan wei ji hua cheng ben ming xi biao	1669
+单项产品	dan xiang chan pin	1668
+单元式制造	dan yuan shi zhi zao	1667
+单元装卸	dan yuan zhuang xie	1666
+档案	dang an	1665
+导航	dao hang	1664
+到货单	dao huo dan	1663
+到货单列表	dao huo dan lie biao	1662
+到货拒收单	dao huo ju shou dan	1661
+到货明细表	dao huo ming xi biao	1660
+到期余额	dao qi yu e	1659
+等待时间	deng dai shi jian	1657
+等额换票	deng e huan piao	1656
+登录标志	deng lu biao zhi	1658
+第三方物流	di san fang wu liu	1655
+电子订货系统	dian zi ding huo xi tong	1654
+电子公告板	dian zi gong gao ban	1653
+电子软件分发	dian zi ruan jian fen fa	1652
+电子商务	dian zi shang wu	1651
+电子收款机	dian zi shou kuan ji	1650
+电子数据处理	dian zi shu ju chu li	1649
+电子数据交换	dian zi shu ju jiao huan	1648
+电子政务	dian zi zheng wu	1647
+调拨单	diao bo dan	565
+调拨单列表	diao bo dan lie biao	564
+调拨申请单	diao bo shen qing dan	563
+调拨申请单列表	diao bo shen qing dan lie biao	562
+调拨业务	diao bo ye wu	561
+调度	diao du	560
+跌价准备列表	die jia zhun bei lie biao	1646
+跌价准备期初	die jia zhun bei qi chu	1645
+跌价准备设置	die jia zhun bei she zhi	1644
+跌价准备余额表	die jia zhun bei yu e biao	1643
+跌价准备与总账对账	die jia zhun bei yu zong zhang dui zhang	1642
+跌价准备制单	die jia zhun bei zhi dan	1641
+迭择付款	die ze fu kuan	1640
+订单报工	ding dan bao gong	1639
+订单地址	ding dan di zhi	1638
+订单跟踪汇总表	ding dan gen zong hui zong biao	1637
+订单跟踪明细表	ding dan gen zong ming xi biao	1636
+订单活动规则	ding dan huo dong gui ze	1635
+订单批量生成发货单	ding dan pi liang sheng cheng fa huo dan	1634
+订单批量生成发票	ding dan pi liang sheng cheng fa piao	1633
+订单输入	ding dan shu ru	1632
+订单物料清单维护	ding dan wu liao qing dan wei hu	1631
+订单异常状况查询	ding dan yi chang zhuang kuang cha xun	1630
+订单预留历史记录查询	ding dan yu liu li shi ji lu cha xun	1629
+订单执行统计表	ding dan zhi xing tong ji biao	1628
+订单准时发货率	ding dan zhun shi fa huo lv	1627
+定额分配标准	ding e fen pei biao zhun	1626
+定货备注	ding huo bei zhu	1625
+定货策略	ding huo ce lue	1624
+定货承诺	ding huo cheng nuo	1623
+定货点	ding huo dian	1622
+定货点法	ding huo dian fa	1621
+定货费	ding huo fei	1620
+定货者	ding huo zhe	1619
+定货组装	ding huo zu zhuang	1618
+定牌包装	ding pai bao zhuang	1617
+定期用量法	ding qi yong liang fa	1616
+定位	ding wei	1615
+定义费用明细与总账接口	ding yi fei yong ming xi yu zong zhang jie kou	1614
+定义分配范围	ding yi fen pei fan wei	1613
+定义分配率	ding yi fen pei lv	1612
+定义核算对象	ding yi he suan dui xiang	1611
+定义联副折算系数	ding yi lian fu zhe suan xi shu	1610
+定义凭证	ding yi ping zheng	1609
+定制物流	ding zhi wu liu	1608
+冻结订单	dong jie ding dan	1605
+冻结码	dong jie ma	1604
+动态企业建模技术	dong tai qi ye jian mo ji shu	1607
+动销分析	dong xiao fen xi	1606
+短缺	duan que	1603
+短缺存货查询	duan que cun huo cha xun	1602
+短缺损失	duan que sun shi	1601
+对方科目	dui fang ke mu	1599
+対方科目	dui fang ke mu	1595
+队列	dui lie	1600
+对应结转	dui ying jie zhuan	1598
+对账	dui zhang	1597
+对账单	dui zhang dan	1596
+多币制	duo bi zhi	1594
+多场所	duo chang suo	1593
+多重仓位	duo chong cang wei	1587
+多辅助核算汇总表	duo fu zhu he suan hui zong biao	1592
+多辅助核算明细账	duo fu zhu he suan ming xi zhang	1591
+多工厂管理	duo gong chang guan li	1590
+多级	duo ji	1589
+多栏账	duo lan zhang	1588
+额定能力	e ding neng li	1586
+发出商品贷方调整单	fa chu shang pin dai fang tiao zheng dan	1585
+发出商品贷方调整单列表	fa chu shang pin dai fang tiao zheng dan lie biao	1584
+发出商品汇总表	fa chu shang pin hui zong biao	1583
+发出商品记账	fa chu shang pin ji zhang	1582
+发出商品借方调整单	fa chu shang pin jie fang tiao zheng dan	1581
+发出商品借方调整单列表	fa chu shang pin jie fang tiao zheng dan lie biao	1580
+发出商品明细账	fa chu shang pin ming xi zhang	1579
+发出商品与总	fa chu shang pin yu zong	1578
+发放策略	fa fang ce lue	1577
+发放零件	fa fang ling jian	1576
+发放周期	fa fang zhou qi	1575
+发货单	fa huo dan	1574
+发货单开票收款勾对表	fa huo dan kai piao shou kuan gou dui biao	1573
+发货单列表	fa huo dan lie biao	1572
+发货单批量出库	fa huo dan pi liang chu ku	1571
+发货单批量生成发票	fa huo dan pi liang sheng cheng fa piao	1570
+发货汇总表	fa huo hui zong biao	1569
+发货检验统计分析表	fa huo jian yan tong ji fen xi biao	1568
+发货检验统计分析表无分	fa huo jian yan tong ji fen xi biao wu fen	1567
+发货结算勾对表	fa huo jie suan gou dui biao	1566
+发货明细表	fa huo ming xi biao	1565
+发货签回	fa huo qian hui	1564
+发货签回单	fa huo qian hui dan	1563
+发货签回单列表	fa huo qian hui dan lie biao	1562
+发货区	fa huo qu	1561
+发货日期	fa huo ri qi	1560
+发货数量	fa huo shu liang	1559
+发货统计表	fa huo tong ji biao	1558
+发票地址	fa piao di zhi	1557
+发票寄往地	fa piao ji wang di	1556
+发票价格	fa piao jia ge	1555
+发票金额	fa piao jin e	1554
+发票清单	fa piao qing dan	1553
+发票日报	fa piao ri bao	1552
+发票使用明细表	fa piao shi yong ming xi biao	1551
+发送订单	fa song ding dan	1550
+发送零件	fa song ling jian	1549
+发退货报检单	fa tui huo bao jian dan	1548
+发退货报检单列表	fa tui huo bao jian dan lie biao	1547
+发退货不良品处理	fa tui huo bu liang pin chu li	1546
+发退货不良品处理单	fa tui huo bu liang pin chu li dan	1545
+发退货不良品处理单列表	fa tui huo bu liang pin chu li dan lie biao	1544
+发退货检验	fa tui huo jian yan	1543
+发退货检验单	fa tui huo jian yan dan	1542
+发退货检验单列表	fa tui huo jian yan dan lie biao	1541
+发运单联系人	fa yun dan lian xi ren	1540
+发运地址	fa yun di zhi	1539
+发运量	fa yun liang	1538
+发运日期	fa yun ri qi	1537
+反查用物料单	fan cha yong wu liao dan	1536
+反常需求	fan chang xu qiu	1535
+返工单	fan gong dan	1534
+昉伪税控	fang wei shui kong	1533
+非合理损耗科目	fei he li sun hao ke mu	1532
+废品回收表	fei pin hui shou biao	1531
+废品数量	fei pin shu liang	1530
+废弃物物流	fei qi wu wu liu	1529
+费用	fei yong	1528
+费用明细表	fei yong ming xi biao	1527
+费用摊销和预提	fei yong tan xiao he yu ti	1526
+费用预算制定	fei yong yu suan zhi ding	1525
+费用折扣结算	fei yong zhe kou jie suan	1524
+费用支出	fei yong zhi chu	1523
+分布式控制系统	fen bu shi kong zhi xi tong	1522
+分布式组件对象模型	fen bu shi zu jian dui xiang mo xing	1521
+分库	fen ku	1520
+分类码	fen lei ma	1519
+分类账	fen lei zhang	1518
+分录	fen lu	1517
+分摊	fen tan	1516
+分摊码	fen tan ma	1515
+分析表	fen xi biao	1514
+分项表	fen xiang biao	1513
+分项参考成本设置	fen xiang can kao cheng ben she zhi	1512
+分项产品投入产出汇总表	fen xiang chan pin tou ru chan chu hui zong biao	1511
+分项产品投入产出明细表	fen xiang chan pin tou ru chan chu ming xi biao	1510
+分项存货期初余额	fen xiang cun huo qi chu yu e	1509
+分项存货调整单	fen xiang cun huo tiao zheng dan	1508
+分项单位计划成本汇总表	fen xiang dan wei ji hua cheng ben hui zong biao	1507
+分项单位计划成本明细表	fen xiang dan wei ji hua cheng ben ming xi biao	1506
+分项计划成本汇总差异	fen xiang ji hua cheng ben hui zong cha yi	1505
+分项计划成本明细差异	fen xiang ji hua cheng ben ming xi cha yi	1504
+分项完工产品成本表	fen xiang wan gong chan pin cheng ben biao	1503
+分项在产期初余额	fen xiang zai chan qi chu yu e	1502
+分销和后勤	fen xiao he hou qin	1501
+分销量	fen xiao liang	1500
+分销需求计划	fen xiao xu qiu ji hua	1499
+分销资源计划	fen xiao zi yuan ji hua	1498
+风险管理	feng xian guan li	1497
+副产品分配率	fu chan pin fen pei lv	1473
+覆盖	fu gai	1472
+负荷	fu he	1478
+负荷报告	fu he bao gao	1477
+负荷量	fu he liang	1476
+付汇单	fu hui dan	1491
+付款处理	fu kuan chu li	1490
+付款单导出	fu kuan dan dao chu	1489
+付款单据录入	fu kuan dan ju lu ru	1488
+付款单据审核	fu kuan dan ju shen he	1487
+付款方式	fu kuan fang shi	1486
+付款截止日期	fu kuan jie zhi ri qi	1485
+付款期限	fu kuan qi xian	1484
+付款项目	fu kuan xiang mu	1483
+付款预测	fu kuan yu ce	1482
+付款账龄	fu kuan zhang ling	1481
+付款账龄分析	fu kuan zhang ling fen xi	1480
+付款状态	fu kuan zhuang tai	1479
+复盘单	fu pan dan	1474
+服务单返工	fu wu dan fan gong	1496
+服务和支持	fu wu he zhi chi	1495
+服务结算单	fu wu jie suan dan	1494
+服务结算单查询	fu wu jie suan dan cha xun	1493
+服务结算单审核	fu wu jie suan dan shen he	1492
+负载平衡	fu zai ping heng	1475
+高层领导信息系统	gao ceng ling dao xin xi xi tong	1471
+高级定价系统	gao ji ding jia xi tong	1470
+高级计划与排程技术	gao ji ji hua yu pai cheng ji shu	1469
+高级流程工业	gao ji liu cheng gong ye	1468
+高绩效组织	gao ji xiao zu zhi	1467
+个别计价明细账	ge bie ji jia ming xi zhang	1466
+个人部门明细账	ge ren bu men ming xi zhang	1465
+个人部门余额表	ge ren bu men yu e biao	1464
+个人多栏明细账	ge ren duo lan ming xi zhang	1463
+个人科目明细账	ge ren ke mu ming xi zhang	1462
+个人科目余额表	ge ren ke mu yu e biao	1461
+个人明细账	ge ren ming xi zhang	1460
+个人三栏明细账	ge ren san lan ming xi zhang	1459
+个人三栏余额表	ge ren san lan yu e biao	1458
+个人数据助理	ge ren shu ju zhu li	1457
+个人往来催款单	ge ren wang lai cui kuan dan	1456
+个人往来辅助账	ge ren wang lai fu zhu zhang	1455
+个人往来两清	ge ren wang lai liang qing	1454
+个人往来账龄分析	ge ren wang lai zhang ling fen xi	1453
+个人余额表	ge ren yu e biao	1452
+个性化	ge xing hua	1451
+工厂场所	gong chang chang suo	1450
+工厂订单	gong chang ding dan	1449
+工程变更订单	gong cheng bian geng ding dan	1448
+工程变更方式标志	gong cheng bian geng fang shi biao zhi	1447
+工程变更生效单	gong cheng bian geng sheng xiao dan	1446
+工程变更生效日期	gong cheng bian geng sheng xiao ri qi	1445
+工程变更通知	gong cheng bian geng tong zhi	1444
+工程停止日期	gong cheng ting zhi ri qi	1443
+公共料费分配核对	gong gong liao fei fen pei he dui	1390
+共耗费用表	gong hao fei yong biao	1385
+共耗费用分配率	gong hao fei yong fen pei lv	1384
+供货单位收发存汇总表	gong huo dan wei shou fa cun hui zong biao	1381
+公路集装箱中转站	gong lu ji zhuang xiang zhong zhuan zhan	1389
+工时记录单	gong shi ji lu dan	1442
+工时记录单汇总式	gong shi ji lu dan hui zong shi	1441
+工时记录单明细表	gong shi ji lu dan ming xi biao	1439
+工时记录单明细式	gong shi ji lu dan ming xi shi	1440
+工时清单	gong shi qing dan	1438
+工时日报表	gong shi ri bao biao	1437
+公司内部间	gong si nei bu jian	1388
+共同配送	gong tong pei song	1383
+工序	gong xu	1436
+工序报工	gong xu bao gong	1435
+工序报检单	gong xu bao jian dan	1434
+工序报检单列表	gong xu bao jian dan lie biao	1433
+工序不良品处理单	gong xu bu liang pin chu li dan	1432
+工序不良品处理单列表	gong xu bu liang pin chu li dan lie biao	1431
+工序计划	gong xu ji hua	1430
+工序计划产能检核	gong xu ji hua chan neng jian he	1429
+工序检验	gong xu jian yan	1428
+工序检验单	gong xu jian yan dan	1427
+工序检验单列表	gong xu jian yan dan lie biao	1426
+工序检验统计分析表	gong xu jian yan tong ji fen xi biao	1425
+工序进度跟踪表	gong xu jin du gen zong biao	1424
+工序派工	gong xu pai gong	1423
+工序派工资料维护	gong xu pai gong zi liao wei hu	1422
+工序派工资料维护明细式	gong xu pai gong zi liao wei hu ming xi shi	1421
+供需平衡分析	gong xu ping heng fen xi	1380
+工序收发存期初生成	gong xu shou fa cun qi chu sheng cheng	1420
+工序完工统计表工作中心	gong xu wan gong tong ji biao gong zuo zhong xin	1419
+工序完工统计表其它	gong xu wan gong tong ji biao qi ta	1418
+工序完工统计表生产订单	gong xu wan gong tong ji biao sheng chan ding dan	1417
+工序完工异常状况表	gong xu wan gong yi chang zhuang kuang biao	1416
+工序委外	gong xu wei wai	1415
+工序委外加工费用表	gong xu wei wai jia gong fei yong biao	1414
+工序委外暂估余额表	gong xu wei wai zan gu yu e biao	1413
+工序在制状况表	gong xu zai zhi zhuang kuang biao	1412
+工序指标检验统计表	gong xu zhi biao jian yan tong ji biao	1411
+工序转移单明细表	gong xu zhuan yi dan ming xi biao	1410
+供需追溯明细表	gong xu zhui su ming xi biao	1379
+供需追溯资料查询	gong xu zhui su zi liao cha xun	1378
+供需资料表汇总	gong xu zi liao biao hui zong	1377
+供需资料表明细	gong xu zi liao biao ming xi	1376
+供需资料查询订单	gong xu zi liao cha xun ding dan	1375
+供需资料查询汇总式	gong xu zi liao cha xun hui zong shi	1374
+供需资料查询物料	gong xu zi liao cha xun wu liao	1373
+供需资料查询需求分类	gong xu zi liao cha xun xu qiu fen lei	1372
+工序资料整批处理	gong xu zi liao zheng pi chu li	1409
+工艺路线资料表不含资源	gong yi lu xian zi liao biao bu han zi yuan	1408
+工艺路线资料表含资源	gong yi lu xian zi liao biao han zi yuan	1407
+工艺线路	gong yi xian lu	1406
+供应链	gong ying lian	1371
+供应链管理	gong ying lian guan li	1370
+供应链合作伙伴关系	gong ying lian he zuo huo ban guan xi	1369
+供应商	gong ying shang	1368
+供应商报价单	gong ying shang bao jia dan	1367
+供应商报价单列表	gong ying shang bao jia dan lie biao	1366
+供应商部门明细账	gong ying shang bu men ming xi zhang	1365
+供应商部门余额表	gong ying shang bu men yu e biao	1364
+供应商催货函	gong ying shang cui huo han	1363
+供应商存货对照表	gong ying shang cun huo dui zhao biao	1362
+供应商存货价格表	gong ying shang cun huo jia ge biao	1361
+供应商存货价格分析	gong ying shang cun huo jia ge fen xi	1360
+供应商存货价格分析按季	gong ying shang cun huo jia ge fen xi an ji	1359
+供应商存货价格分析按月	gong ying shang cun huo jia ge fen xi an yue	1358
+供应商存货价格分析按周	gong ying shang cun huo jia ge fen xi an zhou	1357
+供应商存货调价单	gong ying shang cun huo tiao jia dan	1356
+供应商存货调价单列表	gong ying shang cun huo tiao jia dan lie biao	1355
+供应商存货调价历史	gong ying shang cun huo tiao jia li shi	1354
+供应商地区分类明细账	gong ying shang di qu fen lei ming xi zhang	1353
+供应商地区分类余额表	gong ying shang di qu fen lei yu e biao	1352
+供应商多栏明细账	gong ying shang duo lan ming xi zhang	1351
+供应商分类明细账	gong ying shang fen lei ming xi zhang	1350
+供应商分类余额表	gong ying shang fen lei yu e biao	1349
+供应商分析	gong ying shang fen xi	1348
+供应商供货审批	gong ying shang gong huo shen pi	1347
+供应商供货审批变更表	gong ying shang gong huo shen pi bian geng biao	1346
+供应商供货审批表	gong ying shang gong huo shen pi biao	1345
+供应商供货审批表列表	gong ying shang gong huo shen pi biao lie biao	1344
+供应商供货信息	gong ying shang gong huo xin xi	1343
+供应商供货质量分析表	gong ying shang gong huo zhi liang fen xi biao	1342
+供应商管理	gong ying shang guan li	1340
+供应商关系管理	gong ying shang guan xi guan li	1341
+供应商价格对比分析	gong ying shang jia ge dui bi fen xi	1339
+供应商交货情况分析	gong ying shang jiao huo qing kuang fen xi	1338
+供应商交货质量分析	gong ying shang jiao huo zhi liang fen xi	1337
+供应商交货周期分析	gong ying shang jiao huo zhou qi fen xi	1336
+供应商科目明细账	gong ying shang ke mu ming xi zhang	1335
+供应商科目余额表	gong ying shang ke mu yu e biao	1334
+供应商明细账	gong ying shang ming xi zhang	1333
+供应商三栏明细账	gong ying shang san lan ming xi zhang	1332
+供应商三栏余额表	gong ying shang san lan yu e biao	1331
+供应商往来对账单	gong ying shang wang lai dui zhang dan	1330
+供应商往来多栏账	gong ying shang wang lai duo lan zhang	1329
+供应商往来辅助账	gong ying shang wang lai fu zhu zhang	1328
+供应商往来两清	gong ying shang wang lai liang qing	1327
+供应商往来明细账	gong ying shang wang lai ming xi zhang	1326
+供应商往来账龄分析	gong ying shang wang lai zhang ling fen xi	1325
+供应商项目明细账	gong ying shang xiang mu ming xi zhang	1324
+供应商项目余额表	gong ying shang xiang mu yu e biao	1323
+供应商业务员明细账	gong ying shang ye wu yuan ming xi zhang	1322
+供应商业务员余额表	gong ying shang ye wu yuan yu e biao	1321
+供应商余额表	gong ying shang yu e biao	1320
+供应商准时交货率分析	gong ying shang zhun shi jiao huo lv fen xi	1319
+供应商资格审批	gong ying shang zi ge shen pi	1318
+供应商资格审批变更表	gong ying shang zi ge shen pi bian geng biao	1317
+供应商资格审批表	gong ying shang zi ge shen pi biao	1316
+供应商资格审批表列表	gong ying shang zi ge shen pi biao lie biao	1315
+共用材料分配率	gong yong cai liao fen pei lv	1382
+公用工艺路线明细表	gong yong gong yi lu xian ming xi biao	1387
+公用清单明细表	gong yong qing dan ming xi biao	1386
+工资支票	gong zi zhi piao	1405
+工作分解系统	gong zuo fen jie xi tong	1404
+工作进度安排	gong zuo jin du an pai	1403
+工作量输入	gong zuo liang shu ru	1402
+工作令	gong zuo ling	1401
+工作令跟踪	gong zuo ling gen zong	1400
+工作流	gong zuo liu	1399
+工作流管理	gong zuo liu guan li	1398
+工作生活品质	gong zuo sheng huo pin zhi	1397
+工作台	gong zuo tai	1396
+工作中心能力	gong zuo zhong xin neng li	1395
+工作中心派工资源类别维护	gong zuo zhong xin pai gong zi yuan lei bie wei hu	1394
+工作中心质量分析表	gong zuo zhong xin zhi liang fen xi biao	1393
+工作准则与工作规程	gong zuo zhun ze yu gong zuo gui cheng	1392
+工作总量调整	gong zuo zong liang tiao zheng	1391
+固定定货批量法	gu ding ding huo pi liang fa	1314
+固定时间法	gu ding shi jian fa	1313
+固定数量法	gu ding shu liang fa	1312
+固定资产	gu ding zi chan	1311
+固定资产变动情况表	gu ding zi chan bian dong qing kuang biao	1310
+固定资产变动情况明细表	gu ding zi chan bian dong qing kuang ming xi biao	1309
+固定资产标签	gu ding zi chan biao qian	1308
+固定资产到期提示表	gu ding zi chan dao qi ti shi biao	1307
+固定资产登记簿	gu ding zi chan deng ji bu	1306
+固定资产及累计折旧表二	gu ding zi chan ji lei ji zhe jiu biao er	1305
+固定资产及累计折旧表一	gu ding zi chan ji lei ji zhe jiu biao yi	1304
+固定资产统计表	gu ding zi chan tong ji biao	1303
+固定资产原值一览表	gu ding zi chan yuan zhi yi lan biao	1302
+固定资产折旧计算明细表	gu ding zi chan zhe jiu ji suan ming xi biao	1301
+固定资产折旧清单表	gu ding zi chan zhe jiu qing dan biao	1300
+固定资产总账	gu ding zi chan zong zhang	1299
+挂起	gua qi	1298
+关键工作中心	guan jian gong zuo zhong xin	1297
+关键过程域	guan jian guo cheng yu	1296
+关键线路法	guan jian xian lu fa	1295
+关键业绩指标	guan jian ye ji zhi biao	1294
+管理会计	guan li kuai ji	1292
+管理信息系统	guan li xin xi xi tong	1291
+关系数据库管理	guan xi shu ju ku guan li	1293
+滚动	gun dong	1290
+国际标准化组织	guo ji biao zhun hua zu zhi	1289
+国际货运代理	guo ji huo yun dai li	1288
+国际生产力促进会	guo ji sheng chan li cu jin hui	1287
+国际物流	guo ji wu liu	1286
+国际优秀制造业	guo ji you xiu zhi zao ye	1285
+果怎样将会怎样	guo zen yang jiang hui zen yang	1284
+过账	guo zhang	1283
+核算	he suan	1242
+合同	he tong	1282
+合同变更单列表	he tong bian geng dan lie biao	1281
+合同变更汇总表	he tong bian geng hui zong biao	1280
+合同标的变更明细表	he tong biao di bian geng ming xi biao	1279
+合同导航	he tong dao hang	1278
+合同分组	he tong fen zu	1277
+合同概要变更明细表	he tong gai yao bian geng ming xi biao	1276
+合同工作台	he tong gong zuo tai	1275
+合同管理	he tong guan li	1274
+合同汇总统计表	he tong hui zong tong ji biao	1273
+合同阶段	he tong jie duan	1272
+合同结算	he tong jie suan	1271
+合同结算查询	he tong jie suan cha xun	1270
+合同结算单	he tong jie suan dan	1269
+合同结算单查询	he tong jie suan dan cha xun	1268
+合同结算单列表	he tong jie suan dan lie biao	1267
+合同结算单审核	he tong jie suan dan shen he	1266
+合同结算审核	he tong jie suan shen he	1265
+合同类型	he tong lei xing	1264
+合同类型分类	he tong lei xing fen lei	1263
+合同类型设置	he tong lei xing she zhi	1262
+合同列表	he tong lie biao	1261
+合同履行跟踪表	he tong lv xing gen zong biao	1260
+合同明细统计表	he tong ming xi tong ji biao	1259
+合同批量结算	he tong pi liang jie suan	1258
+合同期初	he tong qi chu	1257
+合同收付款分析表	he tong shou fu kuan fen xi biao	1256
+合同收付款计划进展表	he tong shou fu kuan ji hua jin zhan biao	1255
+合同收付款执行统计表	he tong shou fu kuan zhi xing tong ji biao	1254
+合同条款	he tong tiao kuan	1253
+合同条款变更明细表	he tong tiao kuan bian geng ming xi biao	1252
+合同条款分类	he tong tiao kuan fen lei	1251
+合同条款设置	he tong tiao kuan she zhi	1250
+合同质量分析表	he tong zhi liang fen xi biao	1244
+合同执行	he tong zhi xing	1249
+合同执行单	he tong zhi xing dan	1248
+合同执行单列表	he tong zhi xing dan lie biao	1247
+合同执行汇总表	he tong zhi xing hui zong biao	1246
+合同执行明细表	he tong zhi xing ming xi biao	1245
+核销处理	he xiao chu li	1241
+核销银行账	he xiao yin hang zhang	1240
+核心才能	he xin cai neng	1239
+合作伙伴关系管理	he zuo huo ban guan xi guan li	1243
+红票对冲	hong piao dui chong	1238
+红字采购入库单	hong zi cai gou ru ku dan	1237
+红字回冲单列表	hong zi hui chong dan lie biao	1236
+红字加工费发票	hong zi jia gong fei fa piao	1235
+红字普通采购发票	hong zi pu tong cai gou fa piao	1234
+红字普通销售发票	hong zi pu tong xiao shou fa piao	1233
+红字运费发票	hong zi yun fei fa piao	1232
+红字专用采购发票	hong zi zhuan yong cai gou fa piao	1231
+红字专用销售发票	hong zi zhuan yong xiao shou fa piao	1230
+后减库存处理法	hou jian ku cun chu li fa	1229
+后进先出法	hou jin xian chu fa	1228
+后勤保障体系物流管理	hou qin bao zhang ti xi wu liu guan li	1227
+后续编号	hou xu bian hao	1226
+后续编码	hou xu bian ma	1225
+互联网服务提供商	hu lian wang fu wu ti gong shang	1224
+坏账查询	huai zhang cha xun	1223
+坏账处理	huai zhang chu li	1222
+坏账发生	huai zhang fa sheng	1221
+坏账收回	huai zhang shou hui	1220
+缓冲绳子	huan chong sheng zi	1219
+换票处理	huan piao chu li	1218
+汇兑损益	hui dui sun yi	1213
+恢复记账	hui fu ji zhang	1217
+恢复结账	hui fu jie zhang	1216
+恢复月末结账前状态	hui fu yue mo jie zhang qian zhuang tai	1215
+汇款	hui kuan	1212
+汇率	hui lv	1211
+汇票汇出	hui piao hui chu	1210
+回收物流	hui shou wu liu	1214
+会议室模拟	hui yi shi mo ni	1205
+汇总	hui zong	1209
+汇总表	hui zong biao	1208
+汇总物料清单	hui zong wu liao qing dan	1207
+货场	huo chang	1203
+活动报告标志	huo dong bao gao biao zhi	1204
+货垛	huo duo	1202
+货架	huo jia	1201
+货位存量查询	huo wei cun liang cha xun	1200
+货位管理	huo wei guan li	1199
+货位卡片	huo wei ka pian	1198
+货位收发存汇总表	huo wei shou fa cun hui zong biao	1197
+货位调整	huo wei tiao zheng	1196
+货位调整单列表	huo wei tiao zheng dan lie biao	1195
+货物流向分析	huo wu liu xiang fen xi	1194
+基本科目	ji ben ke mu	1190
+基本资料	ji ben zi liao	1189
+基本资料维护	ji ben zi liao wei hu	1188
+基础资料	ji chu zi liao	1187
+集合生产订单维护	ji he sheng chan ding dan wei hu	1182
+计划	ji hua	1178
+计划表	ji hua biao	1177
+计划参数维护	ji hua can shu wei hu	1983
+计划产出量	ji hua chan chu liang	1176
+计划成本版本	ji hua cheng ben ban ben	1175
+计划成本差异分析	ji hua cheng ben cha yi fen xi	1174
+计划成本汇总表	ji hua cheng ben hui zong biao	1173
+计划成本明细表	ji hua cheng ben ming xi biao	1172
+计划订单	ji hua ding dan	1171
+计划方案设置	ji hua fang an she zhi	1170
+计划价调整单	ji hua jia tiao zheng dan	1169
+计划能力	ji hua neng li	1168
+计划批量请购	ji hua pi liang qing gou	1167
+计划批量生单	ji hua pi liang sheng dan	1973
+计划评审技术	ji hua ping shen ji shu	1166
+计划前稽核作业	ji hua qian ji he zuo ye	1165
+计划生成	ji hua sheng cheng	1984
+计划时界	ji hua shi jie	1164
+计划投入量	ji hua tou ru liang	1163
+计划维护	ji hua wei hu	1982
+计划维护展开式	ji hua wei hu zhan kai shi	1981
+计划物料清单	ji hua wu liao qing dan	1162
+计划下达采购订单统计表	ji hua xia da cai gou ding dan tong ji biao	1161
+计划下达请购统计表	ji hua xia da qing gou tong ji biao	1160
+计划下达生产订单日报	ji hua xia da sheng chan ding dan ri bao	1159
+计划下达生产订单月报	ji hua xia da sheng chan ding dan yue bao	1158
+计划下达生产订单周报	ji hua xia da sheng chan ding dan zhou bao	1157
+计划整批删除	ji hua zheng pi shan chu	1980
+计划自动重排	ji hua zi dong chong pai	1156
+计划作业	ji hua zuo ye	1155
+集货	ji huo	1181
+计价辅助数据	ji jia fu zhu shu ju	1154
+季节储备	ji jie chu bei	1138
+计量单位	ji liang dan wei	1153
+济批量	ji pi liang	1137
+机器加载	ji qi jia zai	1193
+机器能力	ji qi neng li	1192
+机时	ji shi	1191
+技术辅助式销售	ji shu fu zhu shi xiao shou	1141
+技术辅助式营销	ji shu fu zhu shi ying xiao	1140
+急送代码	ji song dai ma	1185
+计算机辅助工艺设计	ji suan ji fu zhu gong yi she ji	1152
+计算机辅助软件工程	ji suan ji fu zhu ruan jian gong cheng	1151
+计算机辅助设计	ji suan ji fu zhu she ji	1150
+计算机辅助制造	ji suan ji fu zhu zhi zao	1149
+计算机集成制造系统	ji suan ji ji cheng zhi zao xi tong	1148
+计提本月折旧	ji ti ben yue zhe jiu	1147
+计提跌价准备	ji ti die jia zhun bei	1146
+计提坏账准备	ji ti huai zhang zhun bei	1145
+计提减值准备	ji ti jian zhi zhun bei	1144
+际协议	ji xie yi	1139
+计信息系统	ji xin xi xi tong	1143
+急需的	ji xu de	1184
+急需零件	ji xu ling jian	1183
+基于存储的处理速度	ji yu cun chu de chu li su du	1186
+记账	ji zhang	1142
+集装箱	ji zhuang xiang	1180
+集装箱运输	ji zhuang xiang yun shu	1179
+加班	jia ban	1136
+价格管理	jia ge guan li	1129
+价格调整	jia ge tiao zheng	1128
+价格调整单列表	jia ge tiao zheng dan lie biao	1127
+加工车间	jia gong che jian	1135
+加工订单	jia gong ding dan	1134
+加工费发票列表	jia gong fei fa piao lie biao	1133
+价类设置	jia lei she zhi	1126
+加盟连销权	jia meng lian xiao quan	1132
+假退料单	jia tui liao dan	1131
+假退料单列表	jia tui liao dan lie biao	1130
+价值管理	jia zhi guan li	1125
+价值结构分析表	jia zhi jie gou fen xi biao	1124
+价值链	jia zhi lian	1123
+价值链集成	jia zhi lian ji cheng	1122
+检查报告	jian cha bao gao	1117
+检查点	jian cha dian	1116
+间接成本	jian jie cheng ben	1121
+间接费率	jian jie fei lv	1120
+间接人工	jian jie ren gong	1119
+建设计划量明细表	jian she ji hua liang ming xi biao	1097
+拣选	jian xuan	1118
+检验	jian yan	1115
+检验标识	jian yan biao zhi	1114
+检验标准	jian yan biao zhun	1113
+检验地点	jian yan di dian	1112
+检验环境	jian yan huan jing	1111
+检验平台	jian yan ping tai	1110
+检验设备仪器	jian yan she bei yi qi	1109
+检验图纸	jian yan tu zhi	1108
+检验项目	jian yan xiang mu	1107
+检验样板	jian yan yang ban	1106
+检验样本统计表	jian yan yang ben tong ji biao	1105
+检验指标	jian yan zhi biao	1104
+建议成本	jian yi cheng ben	1096
+建议工作单	jian yi gong zuo dan	1095
+建议计划比较表	jian yi ji hua bi jiao biao	1094
+建议计划量明细表重复计	jian yi ji hua liang ming xi biao chong fu ji	1091
+建议计划量明细表汇总式	jian yi ji hua liang ming xi biao hui zong shi	1093
+建议计划量明细表计划订	jian yi ji hua liang ming xi biao ji hua ding	1092
+减值准备	jian zhi zhun bei	1103
+减值准备表	jian zhi zhun bei biao	1102
+减值准备明细账	jian zhi zhun bei ming xi zhang	1101
+减值准备期初	jian zhi zhun bei qi chu	1100
+减值准备余额表	jian zhi zhun bei yu e biao	1099
+减值准备总账	jian zhi zhun bei zong zhang	1098
+交付日期	jiao fu ri qi	1090
+交货	jiao huo	1089
+交货地	jiao huo di	1088
+缴款	jiao kuan	1087
+阶段设置	jie duan she zhi	1086
+阶段组设置	jie duan zu she zhi	1085
+结构化查询语言	jie gou hua cha xun yu yan	1083
+结汇单	jie hui dan	1082
+结清日期	jie qing ri qi	1081
+接受质量水平	jie shou zhi liang shui ping	1084
+结束日期	jie shu ri qi	1080
+结算成本处理	jie suan cheng ben chu li	1079
+结算单列表	jie suan dan lie biao	1078
+结算科目	jie suan ke mu	1077
+结算明细表	jie suan ming xi biao	1076
+结帐	jie zhang	1075
+结账	jie zhang	1074
+截止日期	jie zhi ri qi	1073
+进出口商品检验	jin chu kou shang pin jian yan	1070
+进货数量	jin huo shu liang	1069
+进口发票	jin kou fa piao	1068
+进口发票查询	jin kou fa piao cha xun	1067
+进口发票审核	jin kou fa piao shen he	1066
+紧迫系数	jin po xi shu	1071
+进取不懈	jin qu bu xie	1065
+金税接口设置	jin shui jie kou she zhi	1072
+进先出法	jin xian chu fa	1064
+进销存统计表	jin xiao cun tong ji biao	1063
+净残值率调整	jing can zhi lv tiao zheng	1057
+经常库存	jing chang ku cun	1062
+净改变法	jing gai bian fa	1056
+经济定货周期	jing ji ding huo zhou qi	1061
+经济杠杆系数	jing ji gang gan xi shu	1060
+净现值	jing xian zhi	1055
+净需求	jing xu qiu	1054
+精益生产	jing yi sheng chan	1058
+经营规划	jing ying gui hua	1059
+竞争优势	jing zheng you shi	1053
+据库管理系统	ju ku guan li xi tong	1052
+卷积运算	juan ji yun suan	1051
+决策支持系统	jue ce zhi chi xi tong	1050
+卡片	ka pian	1049
+卡片管理	ka pian guan li	1048
+卡片项目	ka pian xiang mu	1047
+卡片样式	ka pian yang shi	1046
+开单	kai dan	1045
+开放数据库互连	kai fang shu ju ku hu lian	1044
+开放应用集成	kai fang ying yong ji cheng	1043
+开支差异	kai zhi cha yi	1042
+看板	kan ban	1041
+可承诺的交货时间	ke cheng nuo de jiao huo shi jian	1031
+可承诺的能力	ke cheng nuo de neng li	1030
+可达到库存	ke da dao ku cun	1029
+客户	ke hu	1023
+客户部门明细账	ke hu bu men ming xi zhang	1022
+客户部门余额表	ke hu bu men yu e biao	1021
+客户地区分类明细账	ke hu di qu fen lei ming xi zhang	1020
+客户地区分类余额表	ke hu di qu fen lei yu e biao	1019
+客户订单号	ke hu ding dan hao	1018
+客户多栏明细账	ke hu duo lan ming xi zhang	1017
+客户分布分析	ke hu fen bu fen xi	1016
+客户分类明细账	ke hu fen lei ming xi zhang	1015
+客户分类余额表	ke hu fen lei yu e biao	1014
+客户分析	ke hu fen xi	1013
+客户服务代表	ke hu fu wu dai biao	1012
+客户服务和支持	ke hu fu wu he zhi chi	1011
+客户购买分析	ke hu gou mai fen xi	1010
+客户关怀	ke hu guan huai	1009
+客户关系管理	ke hu guan xi guan li	1008
+客户关系营销	ke hu guan xi ying xiao	1007
+客户价格	ke hu jia ge	1006
+客户价格列表	ke hu jia ge lie biao	1005
+客户价值金字塔	ke hu jia zhi jin zi ta	1004
+客户价值模型设置	ke hu jia zhi mo xing she zhi	1003
+客户交货提前期	ke hu jiao huo ti qian qi	1002
+客户科目明细账	ke hu ke mu ming xi zhang	1001
+客户科目余额表	ke hu ke mu yu e biao	1000
+客户流失分析	ke hu liu shi fen xi	999
+客户满意度	ke hu man yi du	998
+客户明细账	ke hu ming xi zhang	997
+客户全貌	ke hu quan mao	996
+客户三栏明细账	ke hu san lan ming xi zhang	995
+客户三栏余额表	ke hu san lan yu e biao	994
+客户生命周期价值	ke hu sheng ming zhou qi jia zhi	993
+客户调价单	ke hu tiao jia dan	992
+客户调价单列表	ke hu tiao jia dan lie biao	991
+客户调价历史记录	ke hu tiao jia li shi ji lu	990
+客户往来催款单	ke hu wang lai cui kuan dan	989
+客户往来多栏账	ke hu wang lai duo lan zhang	988
+客户往来辅助账	ke hu wang lai fu zhu zhang	987
+客户往来两清	ke hu wang lai liang qing	986
+客户往来明细账	ke hu wang lai ming xi zhang	985
+客户往来账龄分析	ke hu wang lai zhang ling fen xi	984
+客户物料清单维护	ke hu wu liao qing dan wei hu	983
+客户项目明细账	ke hu xiang mu ming xi zhang	982
+客户项目余额表	ke hu xiang mu yu e biao	981
+客户新增分析	ke hu xin zeng fen xi	980
+客户业务员明细账	ke hu ye wu yuan ming xi zhang	979
+客户业务员余额表	ke hu ye wu yuan yu e biao	978
+客户余额表	ke hu yu e biao	977
+客户忠诚度	ke hu zhong cheng du	976
+客户状况	ke hu zhuang kuang	975
+可扩充性	ke kuo chong xing	1028
+可扩展标记语言	ke kuo zhan biao ji yu yan	1027
+可利用工时	ke li yong gong shi	1026
+科目辅助汇总表	ke mu fu zhu hui zong biao	1040
+科目辅助明细账	ke mu fu zhu ming xi zhang	1039
+科目汇总	ke mu hui zong	1038
+科目明细账	ke mu ming xi zhang	1037
+科目设置	ke mu she zhi	1036
+科目余额表	ke mu yu e biao	1035
+科目账	ke mu zhang	1034
+科目账查询	ke mu zhang cha xun	1033
+科目自定义项对照表	ke mu zi ding yi xiang dui zhao biao	1032
+可选件	ke xuan jian	1025
+可用物料	ke yong wu liao	1024
+空负荷	kong fu he	974
+控制科目	kong zhi ke mu	973
+库存	ku cun	972
+库存报废量	ku cun bao fei liang	971
+库存发放	ku cun fa fang	970
+库存管理	ku cun guan li	969
+库存控制	ku cun kong zhi	968
+库存年结期初单据设置	ku cun nian jie qi chu dan ju she zhi	967
+库存齐套分析	ku cun qi tao fen xi	966
+库存台账	ku cun tai zhang	965
+库存调整日期	ku cun tiao zheng ri qi	964
+库存异常状况查询	ku cun yi chang zhuang kuang cha xun	963
+库存与存货对账	ku cun yu cun huo dui zhang	962
+库存展望	ku cun zhan wang	961
+库存账	ku cun zhang	960
+库存账与货位账对账	ku cun zhang yu huo wei zhang dui zhang	959
+库存周期	ku cun zhou qi	958
+库存周转率	ku cun zhou zhuan lv	957
+库存转移	ku cun zhuan yi	956
+库存资金占用分析	ku cun zi jin zhan yong fen xi	955
+库存资金占用规划	ku cun zi jin zhan yong gui hua	954
+库房	ku fang	953
+库龄分析	ku ling fen xi	952
+会计期间	kuai ji qi jian	1206
+快速成本回收制度	kuai su cheng ben hui shou zhi du	951
+快速反映	kuai su fan ying	950
+快速换模法	kuai su huan mo fa	949
+快速检验平台	kuai su jian yan ping tai	948
+快速路径法	kuai su lu jing fa	947
+快速原形制造	kuai su yuan xing zhi zao	946
+扩展企业应用系统	kuo zhan qi ye ying yong xi tong	945
+扩展资源计划	kuo zhan zi yuan ji hua	944
+来料报检单	lai liao bao jian dan	943
+来料报检单列表	lai liao bao jian dan lie biao	942
+来料不良品处理	lai liao bu liang pin chu li	941
+来料不良品处理单	lai liao bu liang pin chu li dan	940
+来料不良品处理单列表	lai liao bu liang pin chu li dan lie biao	939
+来料不良原因分析表	lai liao bu liang yuan yin fen xi biao	938
+来料待检明细表	lai liao dai jian ming xi biao	937
+来料订单质量分析表	lai liao ding dan zhi liang fen xi biao	936
+来料检验	lai liao jian yan	935
+来料检验单	lai liao jian yan dan	934
+来料检验单列表	lai liao jian yan dan lie biao	933
+来料检验单批量入库	lai liao jian yan dan pi liang ru ku	932
+来料检验统计分析表	lai liao jian yan tong ji fen xi biao	931
+来料检验质量台帐	lai liao jian yan zhi liang tai zhang	930
+来料指标检验统计表	lai liao zhi biao jian yan tong ji biao	929
+蓝字回冲单列表	lan zi hui chong dan lie biao	928
+蓝字加工费发票	lan zi jia gong fei fa piao	927
+类别构成分析表	lei bie gou cheng fen xi biao	926
+类别调整	lei bie tiao zheng	925
+累计提前期	lei ji ti qian qi	924
+累计提前天数推算	lei ji ti qian tian shu tui suan	923
+累计折旧调整	lei ji zhe jiu tiao zheng	922
+冷藏区	leng cang qu	921
+冷冻区	leng dong qu	920
+例假日	li jia ri	916
+离散	li san	919
+离散型生产	li san xing sheng chan	918
+立体仓库	li ti cang ku	917
+例外管理法	li wai guan li fa	915
+例外控制	li wai kong zhi	914
+联产品分配率	lian chan pin fen pei lv	911
+联副产品销售录入表	lian fu chan pin xiao shou lu ru biao	910
+联合体成本明细表	lian he ti cheng ben ming xi biao	909
+联合运输	lian he yun shu	908
+连续补充系数	lian xu bu chong xi shu	913
+连续流程	lian xu liu cheng	912
+量差	liang cha	907
+料棚	liao peng	906
+领导承诺	ling dao cheng nuo	895
+零等待	ling deng dai	905
+零等待过程	ling deng dai guo cheng	904
+零等待企业	ling deng dai qi ye	903
+零基预算	ling ji yu suan	902
+零件	ling jian	901
+零件编号	ling jian bian hao	900
+零件批次	ling jian pi ci	899
+零件清单	ling jian qing dan	898
+零库存	ling ku cun	897
+零库存技术	ling ku cun ji shu	896
+领料申请	ling liao shen qing	894
+领料申请单	ling liao shen qing dan	893
+领料申请单列表	ling liao shen qing dan lie biao	892
+流程制造	liu cheng zhi zao	888
+流动负债	liu dong fu zhai	887
+流动资产	liu dong zi chan	886
+六个标准差	liu ge biao zhun cha	882
+流水车间	liu shui che jian	885
+流水账	liu shui zhang	884
+流通加工	liu tong jia gong	883
+留样	liu yang	891
+留样单	liu yang dan	890
+留样单列表	liu yang dan lie biao	889
+录入原始卡片	lu ru yuan shi ka pian	881
+绿色物流	lv se wu liu	879
+履行跟踪设置	lv xing gen zong she zhi	880
+毛需求	mao xu qiu	878
+毛需求量	mao xu qiu liang	877
+美国生产与库存管理协会	mei guo sheng chan yu ku cun guan li xie hui	876
+门到门	men dao men	875
+面向客户制造管理系统	mian xiang ke hu zhi zao guan li xi tong	874
+敏捷制造	min jie zhi zao	873
+明细	ming xi	872
+明细表	ming xi biao	871
+明细账	ming xi zhang	870
+模块化物料清单	mo kuai hua wu liao qing dan	869
+模拟成本	mo ni cheng ben	868
+母件	mu jian	867
+母件结构表单阶	mu jian jie gou biao dan jie	866
+母件结构表多阶	mu jian jie gou biao duo jie	865
+母件结构表汇总式	mu jian jie gou biao hui zong shi	864
+母件结构查询多阶	mu jian jie gou cha xun duo jie	863
+目录	mu lu	862
+内部销售	nei bu xiao shou	861
+能力成熟度模型	neng li cheng shu du mo xing	860
+能力负荷	neng li fu he	859
+能力管理	neng li guan li	858
+能力利用水平	neng li li yong shui ping	857
+能力需求计划	neng li xu qiu ji hua	856
+年末	nian mo	855
+帕拉图原理	pa la tu yuan li	854
+排队时间	pai dui shi jian	853
+派工	pai gong	852
+盘点单	pan dian dan	851
+盘点单列表	pan dian dan lie biao	850
+盘点业务	pan dian ye wu	849
+盘点盈亏确认	pan dian ying kui que ren	848
+盘盈盘亏报告表	pan ying pan kui bao gao biao	847
+配额生单	pei e sheng dan	846
+配送	pei song	845
+配送中心	pei song zhong xin	844
+配套件项目	pei tao jian xiang mu	843
+配置代码	pei zhi dai ma	842
+批次	pi ci	841
+批次存货汇总表	pi ci cun huo hui zong biao	840
+批次冻结	pi ci dong jie	839
+批次台账	pi ci tai zhang	838
+批号	pi hao	837
+批号跟踪	pi hao gen zong	836
+批号管理	pi hao guan li	835
+批量	pi liang	834
+批量变动	pi liang bian dong	832
+批量编号	pi liang bian hao	833
+批量标识	pi liang biao zhi	831
+批量传出	pi liang chuan chu	830
+批量定价模型	pi liang ding jia mo xing	829
+批量规划	pi liang gui hua	828
+批量库存	pi liang ku cun	827
+批量签回	pi liang qian hui	826
+批量生产	pi liang sheng chan	825
+批量折扣	pi liang zhe kou	824
+批量制单	pi liang zhi dan	823
+批流程	pi liu cheng	822
+批准者	pi zhun zhe	821
+偏置天数	pian zhi tian shu	820
+票据管理	piao ju guan li	819
+票据列表	piao ju lie biao	818
+票据录入	piao ju lu ru	817
+拼装货	pin zhuang huo	816
+评估变动表	ping gu bian dong biao	812
+评估汇总表	ping gu hui zong biao	811
+平衡	ping heng	815
+瓶颈资源	ping jing zi yuan	805
+平均单价计算	ping jun dan jia ji suan	814
+平均库存	ping jun ku cun	813
+凭证	ping zheng	810
+凭证查询	ping zheng cha xun	809
+凭证处理	ping zheng chu li	808
+凭证打印	ping zheng da yin	807
+凭证摘要设置	ping zheng zhai yao she zhi	806
+普通采购发票	pu tong cai gou fa piao	804
+期初	qi chu	803
+期初不合格品	qi chu bu he ge pin	802
+期初差异	qi chu cha yi	801
+期初跌价准备	qi chu die jia zhun bei	800
+期初发货单	qi chu fa huo dan	799
+期初分期收款发出商品	qi chu fen qi shou kuan fa chu shang pin	798
+期初合同	qi chu he tong	797
+期初合同变更单列表	qi chu he tong bian geng dan lie biao	796
+期初结存	qi chu jie cun	795
+期初结算单	qi chu jie suan dan	794
+期初录入	qi chu lu ru	793
+期初委托代销发出商品	qi chu wei tuo dai xiao fa chu shang pin	792
+期初余额	qi chu yu e	791
+期初余额调整	qi chu yu e tiao zheng	790
+期初在产调拨表	qi chu zai chan diao bo biao	789
+期初在产调整明细表	qi chu zai chan tiao zheng ming xi biao	788
+期初暂估科目录入	qi chu zan gu ke mu lu ru	787
+期初执行单	qi chu zhi xing dan	786
+期间	qi jian	785
+期间损益	qi jian sun yi	784
+期末	qi mo	783
+期末处理	qi mo chu li	782
+期末可供量	qi mo ke gong liang	781
+期末余额	qi mo yu e	780
+起始日期	qi shi ri qi	748
+其他报检单	qi ta bao jian dan	777
+其他报检单列表	qi ta bao jian dan lie biao	776
+其他不良品处理单	qi ta bu liang pin chu li dan	775
+其他不良品处理单列表	qi ta bu liang pin chu li dan lie biao	774
+其他出库	qi ta chu ku	773
+其他出库单	qi ta chu ku dan	772
+其他出库单列表	qi ta chu ku dan lie biao	771
+其他处理	qi ta chu li	770
+其他费用表	qi ta fei yong biao	769
+其他检验	qi ta jian yan	768
+其他检验不良原因分析表	qi ta jian yan bu liang yuan yin fen xi biao	767
+其他检验单	qi ta jian yan dan	766
+其他检验单列表	qi ta jian yan dan lie biao	765
+其他检验统计分析表	qi ta jian yan tong ji fen xi biao	764
+其他检验统计分析表无分	qi ta jian yan tong ji fen xi biao wu fen	763
+其他科目	qi ta ke mu	762
+其他入库	qi ta ru ku	761
+其他入库单	qi ta ru ku dan	760
+其他入库单列表	qi ta ru ku dan lie biao	759
+其他业务处理	qi ta ye wu chu li	758
+其他应收款	qi ta ying shou kuan	757
+其他指标检验统计表	qi ta zhi biao jian yan tong ji biao	756
+齐套生成请购单	qi tao sheng cheng qing gou dan	779
+齐套生单	qi tao sheng dan	778
+企业绩效分析	qi ye ji xiao fen xi	755
+企业商务管理	qi ye shang wu guan li	754
+企业物流	qi ye wu liu	753
+企业信息门户	qi ye xin xi men hu	752
+企业应用集成	qi ye ying yong ji cheng	751
+企业资源管理	qi ye zi yuan guan li	750
+企业资源计划	qi ye zi yuan ji hua	749
+前减库存处理法	qian jian ku cun chu li fa	747
+欠交数量	qian jiao shu liang	746
+欠款分析	qian kuan fen xi	745
+侵入性集成	qin ru xing ji cheng	744
+请购	qing gou	742
+请购单	qing gou dan	741
+请购单列表	qing gou dan lie biao	740
+请购单执行统计表	qing gou dan zhi xing tong ji biao	739
+请购执行进度表	qing gou zhi xing jin du biao	738
+情境领导	qing jing ling dao	743
+取消操作	qu xiao cao zuo	737
+取消月结	qu xiao yue jie	736
+全跟踪	quan gen zong	735
+全面企业集成	quan mian qi ye ji cheng	734
+全面质量管理	quan mian zhi liang guan li	733
+全面质量控制	quan mian zhi liang kong zhi	732
+全球运筹管理	quan qiu yun chou guan li	731
+全员参治	quan yuan can zhi	730
+全员生产力维护	quan yuan sheng chan li wei hu	729
+全重排法	quan zhong pai fa	728
+缺料表	que liao biao	727
+确认的计划订单	que ren de ji hua ding dan	726
+确认计划需求时界	que ren ji hua xu qiu shi jie	725
+人工费用表	ren gong fei yong biao	724
+人工工时	ren gong gong shi	723
+人力资源管理	ren li zi yuan guan li	722
+人力资源计划	ren li zi yuan ji hua	721
+任务额报价	ren wu e bao jia	720
+日报表	ri bao biao	719
+日常录入导航	ri chang lu ru dao hang	718
+日记账	ri ji zhang	717
+日均耗量与再订货点维护	ri jun hao liang yu zai ding huo dian wei hu	716
+柔性制造系统	rou xing zhi zao xi tong	715
+入库产品成本汇总表	ru ku chan pin cheng ben hui zong biao	714
+入库产品成本明细表	ru ku chan pin cheng ben ming xi biao	713
+入库成本分析	ru ku cheng ben fen xi	712
+入库单	ru ku dan	711
+入库单合并开票	ru ku dan he bing kai piao	710
+入库单列表	ru ku dan lie biao	709
+入库单批量生成发票	ru ku dan pi liang sheng cheng fa piao	708
+入库跟踪表	ru ku gen zong biao	707
+入库汇总表	ru ku hui zong biao	706
+入库明细表	ru ku ming xi biao	705
+入库调整单	ru ku tiao zheng dan	704
+入库调整单列表	ru ku tiao zheng dan lie biao	703
+散装	san zhuang	702
+上滚	shang gun	699
+商品周转率分析	shang pin zhou zhuan lv fen xi	701
+商业智能系统	shang ye zhi neng xi tong	700
+设备分配	she bei fen pei	697
+设备管理	she bei guan li	696
+设计申请列表	she ji shen qing lie biao	695
+设计物料清单	she ji wu liao qing dan	694
+舍入金额	she ru jin e	698
+设置	she zhi	693
+审核凭证	shen he ping zheng	691
+申请单列表	shen qing dan lie biao	692
+生产部门质量绩效分析表	sheng chan bu men zhi liang ji xiao fen xi biao	690
+生产材料领用核对	sheng chan cai liao ling yong he dui	689
+生产订单	sheng chan ding dan	688
+生产订单变更记录明细表	sheng chan ding dan bian geng ji lu ming xi biao	687
+生产订单变更记录清除	sheng chan ding dan bian geng ji lu qing chu	686
+生产订单处理	sheng chan ding dan chu li	685
+生产订单改制	sheng chan ding dan gai zhi	684
+生产订单改制挪料列表	sheng chan ding dan gai zhi nuo liao lie biao	683
+生产订单工序计划生成	sheng chan ding dan gong xu ji hua sheng cheng	682
+生产订单工序领料单重复	sheng chan ding dan gong xu ling liao dan chong fu	680
+生产订单工序领料单生产	sheng chan ding dan gong xu ling liao dan sheng chan	681
+生产订单工序派工单	sheng chan ding dan gong xu pai gong dan	679
+生产订单工序派工明细表	sheng chan ding dan gong xu pai gong ming xi biao	678
+生产订单工序资料维护	sheng chan ding dan gong xu zi liao wei hu	677
+生产订单开工查询日报	sheng chan ding dan kai gong cha xun ri bao	676
+生产订单开工查询月报	sheng chan ding dan kai gong cha xun yue bao	675
+生产订单开工查询周报	sheng chan ding dan kai gong cha xun zhou bao	674
+生产订单类别	sheng chan ding dan lei bie	673
+生产订单列表	sheng chan ding dan lie biao	672
+生产订单领料单重复计划	sheng chan ding dan ling liao dan chong fu ji hua	670
+生产订单领料单生产订单	sheng chan ding dan ling liao dan sheng chan ding dan	671
+生产订单明细表	sheng chan ding dan ming xi biao	669
+生产订单挪料	sheng chan ding dan nuo liao	668
+生产订单批量调拨	sheng chan ding dan pi liang diao bo	664
+生产订单批量发退料	sheng chan ding dan pi liang fa tui liao	667
+生产订单批量领料	sheng chan ding dan pi liang ling liao	666
+生产订单批量入库	sheng chan ding dan pi liang ru ku	665
+生产订单缺料明细表	sheng chan ding dan que liao ming xi biao	663
+生产订单输入	sheng chan ding dan shu ru	662
+生产订单通知单	sheng chan ding dan tong zhi dan	661
+生产订单完工状况表	sheng chan ding dan wan gong zhuang kuang biao	660
+生产订单维护	sheng chan ding dan wei hu	659
+生产订单用料分析表生产	sheng chan ding dan yong liao fen xi biao sheng chan	658
+生产订单预警与报警资料表	sheng chan ding dan yu jing yu bao jing zi liao biao	656
+生产订单预留状况	sheng chan ding dan yu liu zhuang kuang	655
+生产订单与物料清单差异分	sheng chan ding dan yu wu liao qing dan cha yi fen	657
+生产订单在制物料分析表	sheng chan ding dan zai zhi wu liao fen xi biao	654
+生产订单质量分析表	sheng chan ding dan zhi liang fen xi biao	650
+生产订单执行情况日报	sheng chan ding dan zhi xing qing kuang ri bao	653
+生产订单执行情况月报	sheng chan ding dan zhi xing qing kuang yue bao	652
+生产订单执行情况周报	sheng chan ding dan zhi xing qing kuang zhou bao	651
+生产订单自动生成	sheng chan ding dan zi dong sheng cheng	649
+生产订单综合查询	sheng chan ding dan zong he cha xun	648
+生产和决策管理信息系统	sheng chan he jue ce guan li xin xi xi tong	647
+生产检验	sheng chan jian yan	646
+生产齐料展望分析	sheng chan qi liao zhan wang fen xi	645
+生产日期	sheng chan ri qi	644
+生产入库	sheng chan ru ku	643
+生产速率水平	sheng chan su lv shui ping	642
+生产完工入库核对	sheng chan wan gong ru ku he dui	641
+生产完计日报表	sheng chan wan ji ri bao biao	640
+生产物流	sheng chan wu liu	639
+生产用料预留	sheng chan yong liao yu liu	638
+生产与库存管理认证资格	sheng chan yu ku cun guan li ren zheng zi ge	637
+生产周期	sheng chan zhou qi	636
+生产作业控制	sheng chan zuo ye kong zhi	635
+生成单位计划成本	sheng cheng dan wei ji hua cheng ben	634
+生成计划成本	sheng cheng ji hua cheng ben	633
+生成检验单	sheng cheng jian yan dan	632
+生成凭证	sheng cheng ping zheng	631
+生效日期	sheng xiao ri qi	630
+市场分析	shi chang fen xi	616
+实际成本	shi ji cheng ben	626
+实际库存	shi ji ku cun	625
+实际能力	shi ji neng li	624
+时界	shi jie	628
+时区	shi qu	627
+实施	shi shi	623
+事务处理	shi wu chu li	615
+失效日期报废日期	shi xiao ri qi bao fei ri qi	629
+使用点	shi yong dian	621
+使用年限调整	shi yong nian xian tiao zheng	620
+实用制造管理系列培训教材	shi yong zhi zao guan li xi lie pei xun jiao cai	622
+使用状况	shi yong zhuang kuang	619
+使用状况分析表	shi yong zhuang kuang fen xi biao	618
+使用状况调整	shi yong zhuang kuang tiao zheng	617
+收到日期	shou dao ri qi	614
+收发存汇总表	shou fa cun hui zong biao	613
+收付款单查询	shou fu kuan dan cha xun	612
+手工对冲	shou gong dui chong	604
+手工核销	shou gong he xiao	603
+手工结算	shou gong jie suan	602
+手工调账	shou gong tiao zhang	601
+收货区	shou huo qu	611
+售价计划价销售成本结	shou jia ji hua jia xiao shou cheng ben jie	599
+收款处理	shou kuan chu li	610
+收款单据	shou kuan dan ju	609
+收款单据录入	shou kuan dan ju lu ru	608
+收款单据审核	shou kuan dan ju shen he	607
+收款预测	shou kuan yu ce	606
+收款账龄分析	shou kuan zhang ling fen xi	605
+授权	shou quan	600
+数据仓库	shu ju cang ku	597
+数据层集成	shu ju ceng ji cheng	596
+数据核对	shu ju he dui	595
+数据接口管理	shu ju jie kou guan li	594
+数据录入	shu ju lu ru	593
+数据挖掘	shu ju wa jue	592
+数据整理	shu ju zheng li	591
+数据知识和决策支持	shu ju zhi shi he jue ce zhi chi	590
+数据转换	shu ju zhuan huan	589
+输控制协议	shu kong zhi xie yi	598
+甩挂运输	shuai gua yun shu	588
+税金科目	shui jin ke mu	587
+税率	shui lv	586
+税码	shui ma	585
+顺排计划	shun pai ji hua	584
+说明	shuo ming	583
+算机辅助质量保证	suan ji fu zhu zhi liang bao zheng	582
+损耗	sun hao	581
+损失处理	sun shi chu li	580
+损益	sun yi	579
+损益表	sun yi biao	578
+缩排式物料清单	suo pai shi wu liao qing dan	577
+所有者权益	suo you zhe quan yi	576
+特殊单据记账	te shu dan ju ji zhang	575
+替代关系	ti dai guan xi	571
+替换料处理供需资料表	ti huan liao chu li gong xu zi liao biao	570
+替换零件	ti huan ling jian	569
+提货单	ti huo dan	574
+提前期	ti qian qi	573
+提前期水平	ti qian qi shui ping	572
+填制凭证	tian zhi ping zheng	568
+调焦预测	tiao jiao yu ce	559
+条码信息设置	tiao ma xin xi she zhi	567
+条形码	tiao xing ma	566
+调整单	tiao zheng dan	558
+调整日期	tiao zheng ri qi	557
+调整现有库存量	tiao zheng xian you ku cun liang	556
+停用子件物料查询	ting yong zi jian wu liao cha xun	555
+统计表	tong ji biao	552
+统计分析	tong ji fen xi	551
+通用对象请求代理结构	tong yong dui xiang qing qiu dai li jie gou	554
+通用生产管理原则	tong yong sheng chan guan li yuan ze	553
+投入产出核对	tou ru chan chu he dui	550
+投资回报率	tou zi hui bao lv	549
+图形用户界面	tu xing yong hu jie mian	548
+团队建立	tuan dui jian li	547
+退货	tui huo	546
+退货单	tui huo dan	545
+退货检验统计分析表	tui huo jian yan tong ji fen xi biao	544
+退货检验统计分析表无分	tui huo jian yan tong ji fen xi biao wu fen	543
+退货申请	tui huo shen qing	542
+退货申请单	tui huo shen qing dan	541
+退货申请单列表	tui huo shen qing dan lie biao	540
+囤积库存	tun ji ku cun	539
+托盘包装	tuo pan bao zhuang	538
+拖期预报	tuo qi yu bao	537
+外包	wai bao	536
+外币金额	wai bi jin e	535
+外部集成	wai bu ji cheng	534
+外购或自制决策	wai gou huo zi zhi jue ce	533
+完成数量	wan cheng shu liang	532
+完工产品成本合并表	wan gong chan pin cheng ben he bing biao	531
+完工产品成本汇总表	wan gong chan pin cheng ben hui zong biao	530
+完工产品成本明细表	wan gong chan pin cheng ben ming xi biao	529
+完工产品成本台账	wan gong chan pin cheng ben tai zhang	528
+完工产品处理表	wan gong chan pin chu li biao	527
+完工产品日报表	wan gong chan pin ri bao biao	526
+完整性	wan zheng xing	525
+未关闭销售订单明细表	wei guan bi xiao shou ding dan ming xi biao	490
+维护	wei hu	524
+维护修理操作物料	wei hu xiu li cao zuo wu liao	523
+未清金额	wei qing jin e	489
+未审核单据查询	wei shen he dan ju cha xun	488
+未审核生产订单明细表	wei shen he sheng chan ding dan ming xi biao	487
+委外到货批量入库	wei wai dao huo pi liang ru ku	521
+委外订单批量调拨	wei wai ding dan pi liang diao bo	517
+委外订单批量发退料	wei wai ding dan pi liang fa tui liao	520
+委外订单批量领料	wei wai ding dan pi liang ling liao	519
+委外订单批量入库	wei wai ding dan pi liang ru ku	518
+委外订单预留状况	wei wai ding dan yu liu zhuang kuang	516
+委外订货	wei wai ding huo	515
+委外发料	wei wai fa liao	514
+委外发料单	wei wai fa liao dan	513
+委外发料列表	wei wai fa liao lie biao	512
+委外发料预警	wei wai fa liao yu jing	511
+委外工序价格列表	wei wai gong xu jia ge lie biao	510
+委外挂账	wei wai gua zhang	509
+委外挂账单	wei wai gua zhang dan	508
+委外挂账单列表	wei wai gua zhang dan lie biao	507
+委外核销调整处理	wei wai he xiao tiao zheng chu li	506
+委外加工单	wei wai jia gong dan	505
+委外加工单列表	wei wai jia gong dan lie biao	504
+委外加工单执行统计表	wei wai jia gong dan zhi xing tong ji biao	503
+委外加工费明细表	wei wai jia gong fei ming xi biao	502
+委外加工费明细账	wei wai jia gong fei ming xi zhang	501
+委外开票	wei wai kai piao	500
+委外商材料收发存汇总表	wei wai shang cai liao shou fa cun hui zong biao	499
+委外商发料明细表	wei wai shang fa liao ming xi biao	498
+委外商收料明细表	wei wai shang shou liao ming xi biao	497
+委外商物料清单维护	wei wai shang wu liao qing dan wei hu	496
+委外收料	wei wai shou liao	495
+委外收料单	wei wai shou liao dan	494
+委外收料列表	wei wai shou liao lie biao	493
+委外收料预警	wei wai shou liao yu jing	492
+委外用料预留	wei wai yong liao yu liu	491
+未完成业务明细表	wei wan cheng ye wu ming xi biao	486
+维修件	wei xiu jian	522
+未指定货位单据查询	wei zhi ding huo wei dan ju cha xun	485
+位置调整	wei zhi tiao zheng	484
+我的报表	wo de bao biao	483
+我的账表	wo de zhang biao	482
+物价水平	wu jia shui ping	476
+物料	wu liao	475
+物料成本	wu liao cheng ben	474
+物料低阶码推算	wu liao di jie ma tui suan	473
+物料发放和接收	wu liao fa fang he jie shou	472
+物料管理	wu liao guan li	471
+物料核定机构	wu liao he ding ji gou	470
+物料经理	wu liao jing li	469
+物料可用量	wu liao ke yong liang	468
+物料清单	wu liao qing dan	467
+物料清单变更记录明细表	wu liao qing dan bian geng ji lu ming xi biao	466
+物料清单变更记录清除	wu liao qing dan bian geng ji lu qing chu	465
+物料清单查询报表	wu liao qing dan cha xun bao biao	464
+物料清单差异比较	wu liao qing dan cha yi bi jiao	463
+物料清单差异比较表不同	wu liao qing dan cha yi bi jiao biao bu tong	462
+物料清单差异比较表订单	wu liao qing dan cha yi bi jiao biao ding dan	461
+物料清单差异比较表客户	wu liao qing dan cha yi bi jiao biao ke hu	460
+物料清单差异比较表替代	wu liao qing dan cha yi bi jiao biao ti dai	459
+物料清单差异比较表主要	wu liao qing dan cha yi bi jiao biao zhu yao	458
+物料清单逻辑查验	wu liao qing dan luo ji cha yan	457
+物料清单全阶维护	wu liao qing dan quan jie wei hu	456
+物料清单替代料明细表	wu liao qing dan ti dai liao ming xi biao	455
+物料清单维护	wu liao qing dan wei hu	454
+物料清单整批修改	wu liao qing dan zheng pi xiu gai	453
+物料清单资料查询	wu liao qing dan zi liao cha xun	452
+物料清单资料维护	wu liao qing dan zi liao wei hu	451
+物料生产统计分析表	wu liao sheng chan tong ji fen xi biao	450
+物料生产线关系	wu liao sheng chan xian guan xi	449
+物料项目	wu liao xiang mu	448
+物料需求计划	wu liao xu qiu ji hua	447
+物料主文件	wu liao zhu wen jian	446
+物流成本	wu liu cheng ben	445
+物流成本管理	wu liu cheng ben guan li	444
+物流单证	wu liu dan zheng	443
+物流管理	wu liu guan li	442
+物流活动	wu liu huo dong	441
+物流技术	wu liu ji shu	440
+物流联盟	wu liu lian meng	439
+物流模数	wu liu mo shu	438
+物流企业	wu liu qi ye	437
+物流网络	wu liu wang luo	436
+物流信息	wu liu xin xi	435
+物流战略	wu liu zhan lue	434
+物流战略管理	wu liu zhan lue guan li	433
+物流中心	wu liu zhong xin	432
+物流资源计划	wu liu zi yuan ji hua	431
+物流作业	wu liu zuo ye	430
+物品	wu pin	429
+物品存储	wu pin cun chu	428
+无时段系统	wu shi duan xi tong	481
+无物料清单物料查询	wu wu liao qing dan wu liao cha xun	480
+无限排负荷	wu xian pai fu he	479
+无形消耗	wu xing xiao hao	478
+无形资产	wu xing zi chan	477
+系统调整单	xi tong tiao zheng dan	427
+下达订单	xia da ding dan	426
+下达生产	xia da sheng chan	425
+下达委外	xia da wei wai	424
+现存量查询	xian cun liang cha xun	421
+现代物料搬运	xian dai wu liao ban yun	420
+限额领料	xian e ling liao	405
+限额领料单列表	xian e ling liao dan lie biao	404
+限额领料汇总表	xian e ling liao hui zong biao	403
+现金	xian jin	418
+先进计划及优化技术	xian jin ji hua ji you hua ji shu	423
+现金流量表	xian jin liu liang biao	417
+现金流量明细表	xian jin liu liang ming xi biao	416
+现金流量凭证查询	xian jin liu liang ping zheng cha xun	415
+现金流量统计表	xian jin liu liang tong ji biao	414
+现金日记账	xian jin ri ji zhang	413
+现金收付制	xian jin shou fu zhi	412
+先进制造技术	xian jin zhi zao ji shu	422
+现行标准成本	xian xing biao zhun cheng ben	419
+现有库存量	xian you ku cun liang	411
+现有库存余额	xian you ku cun yu e	410
+现有数量	xian you shu liang	409
+现有余额	xian you yu e	408
+现有运转工时	xian you yun zhuan gong shi	407
+现有运转数量	xian you yun zhuan shu liang	406
+项目备注	xiang mu bei zhu	402
+项目编号	xiang mu bian hao	401
+项目部门明细账	xiang mu bu men ming xi zhang	400
+项目部门总账	xiang mu bu men zong zhang	399
+项目成本多栏明细账	xiang mu cheng ben duo lan ming xi zhang	398
+项目成本一览表	xiang mu cheng ben yi lan biao	397
+项目多栏明细账	xiang mu duo lan ming xi zhang	396
+项目多栏账	xiang mu duo lan zhang	395
+项目分类多栏明细账	xiang mu fen lei duo lan ming xi zhang	394
+项目分类明细账	xiang mu fen lei ming xi zhang	393
+项目分类总账	xiang mu fen lei zong zhang	392
+项目辅助账	xiang mu fu zhu zhang	391
+项目管理	xiang mu guan li	390
+项目记录	xiang mu ji lu	389
+项目可供量	xiang mu ke gong liang	386
+项目科目明细账	xiang mu ke mu ming xi zhang	388
+项目科目总账	xiang mu ke mu zong zhang	387
+项目明细账	xiang mu ming xi zhang	385
+项目三栏明细账	xiang mu san lan ming xi zhang	384
+项目三栏总账	xiang mu san lan zong zhang	383
+项目说明	xiang mu shuo ming	382
+项目统计分析	xiang mu tong ji fen xi	381
+项目状态	xiang mu zhuang tai	380
+项目总账	xiang mu zong zhang	379
+销售报	xiao shou bao	377
+销售报价单	xiao shou bao jia dan	376
+销售包装	xiao shou bao zhuang	378
+销售成本结转	xiao shou cheng ben jie zhuan	375
+销售成本明细账	xiao shou cheng ben ming xi zhang	374
+销售出库	xiao shou chu ku	373
+销售出库单	xiao shou chu ku dan	372
+销售出库单列表	xiao shou chu ku dan lie biao	371
+销售订单	xiao shou ding dan	370
+销售订单可承诺交期推算	xiao shou ding dan ke cheng nuo jiao qi tui suan	369
+销售订单列表	xiao shou ding dan lie biao	368
+销售订单预警和报警	xiao shou ding dan yu jing he bao jing	367
+销售订单预留	xiao shou ding dan yu liu	366
+销售订单预留历史记录查询	xiao shou ding dan yu liu li shi ji lu cha xun	365
+销售订单预留状况	xiao shou ding dan yu liu zhuang kuang	364
+销售订单质量分析表	xiao shou ding dan zhi liang fen xi biao	363
+销售订单转生产	xiao shou ding dan zhuan sheng chan	362
+销售订发货统计表	xiao shou ding fa huo tong ji biao	361
+销售订货	xiao shou ding huo	360
+销售订货统计表	xiao shou ding huo tong ji biao	359
+销售定金统计查询	xiao shou ding jin tong ji cha xun	358
+销售发货	xiao shou fa huo	357
+销售发票	xiao shou fa piao	356
+销售发票查询	xiao shou fa piao cha xun	355
+销售发票列表	xiao shou fa piao lie biao	354
+销售发票审核	xiao shou fa piao shen he	353
+销售费用支出单	xiao shou fei yong zhi chu dan	352
+销售费用支出单列表	xiao shou fei yong zhi chu dan lie biao	351
+销售费用支出统计表	xiao shou fei yong zhi chu tong ji biao	350
+销售分析	xiao shou fen xi	349
+销售分项明细账	xiao shou fen xiang ming xi zhang	348
+销售服务代表	xiao shou fu wu dai biao	347
+销售管理	xiao shou guan li	346
+销售计划	xiao shou ji hua	345
+销售计划编制	xiao shou ji hua bian zhi	344
+销售计划列表	xiao shou ji hua lie biao	343
+销售计划执行报告	xiao shou ji hua zhi xing bao gao	342
+销售计划执行报告按季	xiao shou ji hua zhi xing bao gao an ji	341
+销售计划执行报告按月	xiao shou ji hua zhi xing bao gao an yue	340
+销售结构分析	xiao shou jie gou fen xi	339
+销售开票	xiao shou kai piao	338
+销售毛利分析	xiao shou mao li fen xi	337
+销售明细表	xiao shou ming xi biao	336
+销售明细账	xiao shou ming xi zhang	335
+销售普通发票	xiao shou pu tong fa piao	334
+销售情况分析	xiao shou qing kuang fen xi	333
+销售时效性统计表	xiao shou shi xiao xing tong ji biao	332
+销售收入明细账	xiao shou shou ru ming xi zhang	331
+销售统计表	xiao shou tong ji biao	330
+销售物流	xiao shou wu liu	329
+销售现存量查询	xiao shou xian cun liang cha xun	328
+销售预订单	xiao shou yu ding dan	326
+销售预留	xiao shou yu liu	325
+销售与运作规划	xiao shou yu yun zuo gui hua	327
+销售增长分析	xiao shou zeng zhang fen xi	324
+销售执行进度表	xiao shou zhi xing jin du biao	323
+销售执行状况表	xiao shou zhi xing zhuang kuang biao	322
+销售专用发票	xiao shou zhuan yong fa piao	321
+销售自动化	xiao shou zi dong hua	320
+销售综合统计表	xiao shou zong he tong ji biao	319
+协同产品商务	xie tong chan pin shang wu	318
+协同商务	xie tong shang wu	317
+新仓库	xin cang ku	316
+新仓位	xin cang wei	315
+新日期	xin ri qi	314
+信用审批人	xin yong shen pi ren	312
+信用余额表	xin yong yu e biao	311
+信用预警	xin yong yu jing	310
+新组件	xin zu jian	313
+性规划	xing gui hua	309
+修改产品结构	xiu gai chan pin jie gou	308
+修改工序	xiu gai gong xu	307
+修改批量日期	xiu gai pi liang ri qi	306
+修改日期	xiu gai ri qi	305
+虚拟仓库	xu ni cang ku	304
+虚拟件	xu ni jian	303
+虚拟物流	xu ni wu liu	302
+需求	xu qiu	301
+需求管理	xu qiu guan li	300
+需求规划	xu qiu gui hua	299
+需求来源资料维护	xu qiu lai yuan zi liao wei hu	298
+需求量	xu qiu liang	297
+需求能力	xu qiu neng li	296
+需求日期	xu qiu ri qi	295
+需求时界	xu qiu shi jie	294
+需求预测	xu qiu yu ce	293
+需求周期	xu qiu zhou qi	292
+序时账	xu shi zhang	291
+选项	xuan xiang	1972
+选择收款	xuan ze shou kuan	290
+学习型组织	xue xi xing zu zhi	289
+询价计划单	xun jia ji hua dan	288
+询价计划单列表	xun jia ji hua dan lie biao	287
+延迟天数	yan chi tian shu	286
+样本导入	yang ben dao ru	285
+业绩评价	ye ji ping jia	284
+业务报表	ye wu bao biao	283
+业务单据检查	ye wu dan ju jian cha	282
+业务框架	ye wu kuang jia	281
+业务类型汇总表	ye wu lei xing hui zong biao	280
+业务明细账	ye wu ming xi zhang	279
+业务余额表	ye wu yu e biao	278
+业务员价格	ye wu yuan jia ge	277
+业务员价格列表	ye wu yuan jia ge lie biao	276
+业务员全貌	ye wu yuan quan mao	275
+业务员调价单	ye wu yuan tiao jia dan	274
+业务员调价单列表	ye wu yuan tiao jia dan lie biao	273
+业务员调价历史记录	ye wu yuan tiao jia li shi ji lu	272
+业务账表	ye wu zhang biao	271
+业务追溯报表	ye wu zhui su bao biao	270
+业务总账	ye wu zong zhang	269
+异常终止记账	yi chang zhong zhi ji zhang	265
+已分配量	yi fen pei liang	268
+役龄资产统计表	yi ling zi chan tong ji biao	264
+已审核重复计划修改	yi shen he chong fu ji hua xiu gai	266
+已审核生产订单修改	yi shen he sheng chan ding dan xiu gai	267
+银行存款	yin hang cun kuan	263
+银行对账	yin hang dui zhang	262
+银行对账单	yin hang dui zhang dan	261
+银行对账期初录入	yin hang dui zhang qi chu lu ru	260
+银行日记账	yin hang ri ji zhang	259
+应付冲应付	ying fu chong ying fu	258
+应付冲应收	ying fu chong ying shou	257
+应付处理	ying fu chu li	256
+应付单	ying fu dan	255
+应付单查询	ying fu dan cha xun	254
+应付单录入	ying fu dan lu ru	253
+应付单审核	ying fu dan shen he	252
+应付管理	ying fu guan li	251
+应付核销明细表	ying fu he xiao ming xi biao	250
+应付科目	ying fu ke mu	249
+应付票据	ying fu piao ju	248
+应付票据到期分析	ying fu piao ju dao qi fen xi	247
+应付账款	ying fu zhang kuan	246
+应付账龄分析	ying fu zhang ling fen xi	245
+应收冲应付	ying shou chong ying fu	244
+应收冲应收	ying shou chong ying shou	243
+应收出口退税科目	ying shou chu kou tui shui ke mu	242
+应收管理	ying shou guan li	241
+应收明细表	ying shou ming xi biao	240
+应收票据	ying shou piao ju	239
+应收票据到期分析	ying shou piao ju dao qi fen xi	238
+应收账分析	ying shou zhang fen xi	237
+应收账款	ying shou zhang kuan	236
+应用程序外包	ying yong cheng xu wai bao	235
+应用模拟	ying yong mo ni	234
+用料周期分析	yong liao zhou qi fen xi	233
+优先计划	you xian ji hua	232
+有限能力计划	you xian neng li ji hua	229
+优先排队	you xian pai dui	231
+有限排负荷	you xian pai fu he	228
+优先权	you xian quan	230
+有限顺排计划	you xian shun pai ji hua	227
+有效顾客反应	you xiao gu ke fan ying	226
+有效日期	you xiao ri qi	225
+有形消耗	you xing xiao hao	224
+预测	yu ce	218
+预测消抵明细表	yu ce xiao di ming xi biao	217
+预订单列表	yu ding dan lie biao	216
+余额表	yu e biao	223
+余额调节表查询	yu e tiao jie biao cha xun	222
+预付冲应付	yu fu chong ying fu	215
+预警	yu jing	214
+逾龄资产统计表	yu ling zi chan tong ji biao	221
+预留	yu liu	213
+预留报表	yu liu bao biao	212
+预留存量释放	yu liu cun liang shi fang	211
+预留历史记录查询	yu liu li shi ji lu cha xun	1979
+预留调整	yu liu tiao zheng	210
+预留执行预警	yu liu zhi xing yu jing	1978
+预期储备	yu qi chu bei	209
+逾期未付	yu qi wei fu	220
+预收冲应收	yu shou chong ying shou	208
+与总账对账	yu zong zhang dui zhang	219
+远程应用	yuan cheng ying yong	201
+员工分类	yuan gong fen lei	207
+员工税号	yuan gong shui hao	206
+远景管理	yuan jing guan li	200
+原始设备制造商	yuan shi she bei zhi zao shang	205
+原形测试	yuan xing ce shi	204
+原值减少	yuan zhi jian shao	203
+原值增加	yuan zhi zeng jia	202
+月份综合明细账	yue fen zong he ming xi zhang	199
+月累计	yue lei ji	198
+月末处理	yue mo chu li	197
+月末结账	yue mo jie zhang	196
+月末在产品处理表	yue mo zai chan pin chu li biao	195
+运费	yun fei	193
+运费发票	yun fei fa piao	192
+运费科目	yun fei ke mu	191
+运算	yun suan	1971
+允限销设置	yun xian xiao she zhi	194
+在册员工	zai ce yuan gong	189
+在产品成本分配率	zai chan pin cheng ben fen pei lv	188
+在产品成本汇总表	zai chan pin cheng ben hui zong biao	187
+在产品成本明细表	zai chan pin cheng ben ming xi biao	186
+再订购点	zai ding gou dian	190
+在库	zai ku	185
+在库报检单	zai ku bao jian dan	184
+在库报检单列表	zai ku bao jian dan lie biao	183
+在库不良品处理单	zai ku bu liang pin chu li dan	182
+在库不良品处理单列表	zai ku bu liang pin chu li dan lie biao	181
+在库检验	zai ku jian yan	180
+在库检验单	zai ku jian yan dan	179
+在库检验单列表	zai ku jian yan dan lie biao	178
+在库检验统计分析表	zai ku jian yan tong ji fen xi biao	177
+在库检验统计分析表无分	zai ku jian yan tong ji fen xi biao wu fen	176
+在库品待检表	zai ku pin dai jian biao	175
+在库指标检验统计表	zai ku zhi biao jian yan tong ji biao	174
+在途货物余额表	zai tu huo wu yu e biao	173
+在途库存	zai tu ku cun	172
+在制品库存	zai zhi pin ku cun	171
+暂估材料余额表	zan gu cai liao yu e biao	170
+暂估成本录入	zan gu cheng ben lu ru	169
+暂估科目与总	zan gu ke mu yu zong	168
+增减方式	zeng jian fang shi	167
+增值	zeng zhi	166
+增值链	zeng zhi lian	165
+增值税	zeng zhi shui	164
+增值税发票处理状态明细表	zeng zhi shui fa piao chu li zhuang tai ming xi biao	163
+增值税调整	zeng zhi shui tiao zheng	162
+增值物流服务	zeng zhi wu liu fu wu	161
+摘要汇总表	zhai yao hui zong biao	160
+摘要设置	zhai yao she zhi	159
+账表	zhang biao	156
+账表管理	zhang biao guan li	155
+账簿	zhang bu	154
+账簿打印	zhang bu da yin	153
+账簿清理	zhang bu qing li	152
+账户代码	zhang hu dai ma	151
+账户余额	zhang hu yu e	150
+账龄	zhang ling	149
+账龄分析	zhang ling fen xi	148
+帐面价值	zhang mian jia zhi	157
+找零换票	zhao ling huan piao	147
+折旧表	zhe jiu biao	146
+折旧方法	zhe jiu fang fa	145
+折旧方法调整	zhe jiu fang fa tiao zheng	144
+折旧费用表	zhe jiu fei yong biao	143
+折旧分配表	zhe jiu fen pei biao	142
+折旧计提	zhe jiu ji ti	141
+折旧清单	zhe jiu qing dan	140
+正常单据记账	zheng chang dan ju ji zhang	137
+整理现存量	zheng li xian cun liang	139
+整箱货	zheng xiang huo	138
+指标检验平台	zhi biao jian yan ping tai	123
+指标检验统计分析表	zhi biao jian yan tong ji fen xi biao	122
+指标检验质量成本统计表	zhi biao jian yan zhi liang cheng ben tong ji biao	121
+直达运输	zhi da yun shu	130
+制定计划单价	zhi ding ji hua dan jia	120
+制定计划耗量	zhi ding ji hua hao liang	119
+支付点	zhi fu dian	136
+支付给	zhi fu gei	135
+支付状态	zhi fu zhuang tai	134
+值工程	zhi gong cheng	124
+直接换装	zhi jie huan zhuang	129
+直接人工分配率	zhi jie ren gong fen pei lv	128
+直接增减库存处理法	zhi jie zeng jian ku cun chu li fa	127
+质量成本统计	zhi liang cheng ben tong ji	108
+质量方案	zhi liang fang an	107
+质量管理	zhi liang guan li	106
+质量检验方案	zhi liang jian yan fang an	105
+质量检验方案对照表	zhi liang jian yan fang an dui zhao biao	104
+质量检验方案列表	zhi liang jian yan fang an lie biao	103
+质量检验统计分析表	zhi liang jian yan tong ji fen xi biao	102
+质量检验统计分析表无分	zhi liang jian yan tong ji fen xi biao wu fen	101
+质量文档	zhi liang wen dang	100
+质量文档管理	zhi liang wen dang guan li	99
+质量追溯	zhi liang zhui su	98
+质量追溯查询	zhi liang zhui su cha xun	97
+质量综合统计	zhi liang zong he tong ji	96
+支票登记薄	zhi piao deng ji bo	133
+制品	zhi pin	118
+知识管理	zhi shi guan li	132
+执行表	zhi xing biao	131
+直运	zhi yun	126
+直运销售记账	zhi yun xiao shou ji zhang	125
+制造标准	zhi zao biao zhun	117
+制造费用	zhi zao fei yong	116
+制造费用表	zhi zao fei yong biao	115
+制造费用分配率	zhi zao fei yong fen pei lv	114
+制造提前期	zhi zao ti qian qi	113
+制造物料清单	zhi zao wu liao qing dan	112
+制造执行系统	zhi zao zhi xing xi tong	111
+制造周期时间	zhi zao zhou qi shi jian	110
+制造资源计划	zhi zao zi yuan ji hua	109
+中性包装	zhong xing bao zhuang	95
+周期定量法	zhou qi ding liang fa	85
+周期盘点	zhou qi pan dian	84
+主管签字	zhu guan qian zi	83
+主生产计划	zhu sheng chan ji hua	82
+主生产计划员	zhu sheng chan ji hua yuan	81
+转回减值准备	zhuan hui jian zhi zhun bei	77
+专项设计按订单设计	zhuan xiang she ji an ding dan she ji	80
+转移报工	zhuan yi bao gong	76
+专用采购发票	zhuan yong cai gou fa piao	79
+专用分组交换机	zhuan yong fen zu jiao huan ji	78
+转账	zhuan zhang	75
+转账定义	zhuan zhang ding yi	74
+转账生成	zhuan zhang sheng cheng	73
+装配订单	zhuang pei ding dan	72
+装配零件表	zhuang pei ling jian biao	71
+状态代码	zhuang tai dai ma	69
+装载	zhuang zai	70
+准备时间	zhun bei shi jian	68
+准时	zhun shi	67
+准时制物流	zhun shi zhi wu liu	66
+桌面会议	zhuo mian hui yi	65
+资产处置	zi chan chu zhi	64
+资产对账	zi chan dui zhang	63
+资产负债表	zi chan fu zhai biao	62
+资产减少	zi chan jian shao	61
+资产类别	zi chan lei bie	60
+资产盘点	zi chan pan dian	59
+资产盘亏	zi chan pan kui	58
+资产盘盈	zi chan pan ying	57
+资产评估	zi chan ping gu	56
+资产增加	zi chan zeng jia	55
+资产组	zi chan zu	54
+自定义比例转账	zi ding yi bi li zhuan zhang	39
+自定义抽检规则	zi ding yi chou jian gui ze	38
+自定义抽检规则对照表	zi ding yi chou jian gui ze dui zhao biao	37
+自定义分配标准表	zi ding yi fen pei biao zhun biao	36
+自定义转账	zi ding yi zhuan zhang	35
+自动对冲	zi dong dui chong	34
+自动规划错误信息表	zi dong gui hua cuo wu xin xi biao	33
+自动核销	zi dong he xiao	32
+自动计算	zi dong ji suan	31
+自动结算	zi dong jie suan	30
+子件用途表单阶	zi jian yong tu biao dan jie	43
+子件用途表多阶	zi jian yong tu biao duo jie	42
+子件用途查询多阶	zi jian yong tu cha xun duo jie	41
+资金日报	zi jin ri bao	53
+字母数字	zi mu shu zi	28
+自用交易网站	zi yong jiao yi wang zhan	29
+资源负荷	zi yuan fu he	52
+资源负载状况分析表	zi yuan fu zai zhuang kuang fen xi biao	51
+资源汇报明细表	zi yuan hui bao ming xi biao	50
+资源派工负荷查询	zi yuan pai gong fu he cha xun	49
+资源清单	zi yuan qing dan	48
+资源设备资料维护	zi yuan she bei zi liao wei hu	47
+资源实际负载状况分析表	zi yuan shi ji fu zai zhuang kuang fen xi biao	46
+资源需求计划	zi yuan xu qiu ji hua	45
+资源资料表	zi yuan zi liao biao	44
+子装配件	zi zhuang pei jian	40
+综合多栏账	zong he duo lan zhang	27
+综合分析	zong he fen xi	26
+综合辅助账	zong he fu zhu zhang	25
+综合检验平台	zong he jian yan ping tai	24
+综合统计表包含出口	zong he tong ji biao bao han chu kou	23
+综合账表	zong he zhang biao	22
+总提前期	zong ti qian qi	21
+总体运营成本	zong ti yun ying cheng ben	20
+总账	zong zhang	19
+总装提前期	zong zhuang ti qian qi	18
+最大最小单价差异率	zui da zui xiao dan jia cha yi lv	17
+最后运输日期	zui hou yun shu ri qi	16
+最小单个工序平均时差	zui xiao dan ge gong xu ping jun shi cha	15
+最小库存余量	zui xiao ku cun yu liang	14
+最优生产技术	zui you sheng chan ji shu	13
+最优生产时刻表	zui you sheng chan shi ke biao	12
+最早订单完成日期	zui zao ding dan wan cheng ri qi	11
+最终产品	zui zhong chan pin	10
+最终装配计划	zui zhong zhuang pei ji hua	9
+作废日期	zuo fei ri qi	8
+作业	zuo ye	7
+作业步骤	zuo ye bu zhou	6
+作业成本法	zuo ye cheng ben fa	3
+作业成本发生因素	zuo ye cheng ben fa sheng yin su	5
+作业成本发生因素单位费用	zuo ye cheng ben fa sheng yin su dan wei fei yong	4
+作业成本集	zuo ye cheng ben ji	2
+作业现场库存	zuo ye xian chang ku cun	1

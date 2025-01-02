@@ -1,0 +1,159 @@
+# 文件名：计算机专业词汇.scel
+# 词库名：计算机专业词汇
+# 词库分类：理工类
+# 词库描述：
+# 词条样例：指针 未命名 定义 未定义 清除
+# 词条数量：152
+
+八进制数	ba jin zhi shu	35
+变参	bian can	150
+变参函数	bian can han shu	147
+变量	bian liang	143
+变量名	bian liang ming	49
+变量值	bian liang zhi	48
+编码	bian ma	98
+编码表	bian ma biao	72
+编码器	bian ma qi	131
+编码值	bian ma zhi	67
+标准错误流	biao zhun cuo wu liu	117
+标准输出流	biao zhun shu chu liu	120
+标准输入流	biao zhun shu ru liu	121
+参数	can shu	113
+曾姐	ceng jie	152
+常量	chang liang	141
+程序	cheng xu	134
+初始化	chu shi hua	140
+初始计数	chu shi ji shu	70
+存储单元	cun chu dan yuan	51
+打印	da yin	125
+单条语句	dan tiao yu ju	7
+单元	dan yuan	127
+等价于	deng jia yu	17
+递归算法	di gui suan fa	71
+定义	ding yi	138
+定义符	ding yi fu	13
+多条语句	duo tiao yu ju	6
+二叉树	er cha shu	95
+二进制数	er jin zhi shu	36
+返回值	fan hui zhi	68
+非零值	fei ling zhi	79
+父成员	fu cheng yuan	73
+浮点变量	fu dian bian liang	63
+浮点常量	fu dian chang liang	64
+浮点数	fu dian shu	40
+浮点型	fu dian xing	42
+符号常量	fu hao chang liang	56
+复合赋值表达式	fu he fu zhi biao da shi	19
+复合赋值符	fu he fu zhi fu	18
+复合语句	fu he yu ju	8
+父节点	fu jie dian	87
+赋值	fu zhi	52
+赋值运算符	fu zhi yun suan fu	20
+根节点	gen jie dian	75
+关键词	guan jian ci	111
+函数	han shu	142
+函数体	han shu ti	50
+宏定义	hong ding yi	146
+缓冲区	huan chong qu	122
+缓存	huan cun	124
+加载	jia zai	80
+键盘	jian pan	119
+节点	jie dian	90
+解码	jie ma	96
+解码器	jie ma qi	74
+解压缩	jie ya suo	132
+局部变量	ju bu bian liang	105
+可变长参数的函数	ke bian chang can shu de han shu	151
+可执行	ke zhi xing	108
+可执行文件	ke zhi xing wen jian	107
+空语句	kong yu ju	5
+控制语句	kong zhi yu ju	16
+库函数	ku han shu	15
+扩展名	kuo zhan ming	102
+类型	lei xing	135
+零阶	ling jie	130
+逻辑运算	luo ji yun suan	31
+逻辑运算符	luo ji yun suan fu	32
+枚举变量	mei ju bian liang	59
+枚举常量	mei ju chang liang	60
+命令行	ming ling hang	112
+模块	mo kuai	128
+默认值	mo ren zhi	115
+模式	mo shi	129
+模型	mo xing	92
+模型树	mo xing shu	93
+内部节点	nei bu jie dian	84
+内存	nei cun	69
+屏幕	ping mu	116
+前缀	qian zhui	46
+清除	qing chu	136
+清空	qing kong	114
+轻量级	qing liang ji	81
+全局变量	quan ju bian liang	104
+权重	quan zhong	89
+三目运算符	san mu yun suan fu	22
+十进制数	shi jin zhi shu	37
+十六进制数	shi liu jin zhi shu	34
+实数	shi shu	41
+实型	shi xing	43
+实型变量	shi xing bian liang	54
+实型常量	shi xing chang liang	55
+鼠标	shu biao	118
+输出	shu chu	99
+数据结构	shu ju jie gou	91
+数码	shu ma	45
+输入	shu ru	100
+数组	shu zu	110
+双目运算符	shuang mu yun suan fu	21
+索引	suo yin	77
+条件判断语句	tiao jian pan duan yu ju	11
+条件运算符	tiao jian yun suan fu	23
+位操作运算符	wei cao zuo yun suan fu	30
+未定义	wei ding yi	137
+位段	wei duan	1
+位非	wei fei	27
+位或	wei huo	28
+未命名	wei ming ming	139
+位异或	wei yi huo	26
+位与	wei yu	29
+位域	wei yu	2
+无参函数	wu can han shu	4
+无符号整数	wu fu hao zheng shu	82
+无限循环	wu xian xun huan	76
+小数	xiao shu	39
+虚拟值	xu ni zhi	83
+循环执行语句	xun huan zhi xing yu ju	10
+压缩	ya suo	133
+压缩算法	ya suo suan fa	94
+样例	yang li	103
+叶节点	ye jie dian	85
+译码	yi ma	97
+有参函数	you can han shu	3
+有效节点	you xiao jie dian	78
+右移	you yi	24
+语句定义符	yu ju ding yi fu	12
+元素	yuan su	109
+原型	yuan xing	123
+整常数	zheng chang shu	47
+整数	zheng shu	106
+整型变量	zheng xing bian liang	65
+整型常量	zheng xing chang liang	66
+值传	zhi chuan	149
+址传	zhi chuan	148
+直接常量	zhi jie chang liang	58
+指数	zhi shu	38
+指针	zhi zhen	144
+主程序	zhu cheng xu	101
+转向语句	zhuan xiang yu ju	9
+转义字符	zhuan yi zi fu	33
+字长	zi chang	44
+自定义函数	zi ding yi han shu	14
+字符变量	zi fu bian liang	61
+字符常量	zi fu chang liang	62
+字符串	zi fu chuan	126
+子节点	zi jie dian	88
+自考中国网	zi kao zhong guo wang	145
+字面常量	zi mian chang liang	57
+自由节点	zi you jie dian	86
+左移	zuo yi	25
+作用域	zuo yong yu	53

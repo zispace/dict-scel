@@ -1,0 +1,50 @@
+# 文件名：开发词条.scel
+# 词库名：开发词条
+# 词库分类：软件
+# 词库描述：
+# 词条样例：封装 继承 派生类 基类 父类 虚方法
+# 词条数量：43
+
+捕获	bu huo	24
+不可重复读	bu ke chong fu du	5
+参数	can shu	28
+程序集	cheng xu ji	12
+重载	chong zai	27
+抽象方法	chou xiang fang fa	34
+抽象类	chou xiang lei	35
+触发器	chu fa qi	8
+纯虚方法	chun xu fang fa	33
+存储过程	cun chu guo cheng	7
+堆栈	dui zhan	23
+多态	duo tai	41
+返回类型	fan hui lei xing	29
+反射	fan she	13
+泛型	fan xing	10
+方法	fang fa	17
+封装	feng zhuang	43
+封装字段	feng zhuang zi duan	1
+覆盖	fu gai	36
+父类	fu lei	37
+幻象读	huan xiang du	4
+继承	ji cheng	42
+集合类	ji he lei	9
+基类	ji lei	39
+接口	jie kou	31
+离线数据库	li xian shu ju ku	21
+命名空间	ming ming kong jian	11
+派生类	pai sheng lei	40
+抛出	pao chu	25
+事件	shi jian	15
+实现接口	shi xian jie kou	3
+数据适配器	shu ju shi pei qi	20
+属性	shu xing	18
+提取接口	ti qu jie kou	2
+吞吐量	tun tu liang	6
+委托	wei tuo	14
+修饰符	xiu shi fu	30
+虚方法	xu fang fa	32
+异常	yi chang	26
+只读	zhi du	16
+自动回收	zi dong hui shou	22
+字段	zi duan	19
+子类	zi lei	38

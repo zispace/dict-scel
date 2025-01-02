@@ -1,0 +1,200 @@
+# 文件名：信息学奥林匹克联赛常用算法和数据结构.scel
+# 词库名：信息学奥林匹克联赛常用算法和数据结构
+# 词库分类：计算机科技
+# 词库描述：
+# 词条样例：树状数组 哈希 字符串 字符 数组
+# 词条数量：193
+
+半平面交	ban ping mian jiao	18
+半平面相交	ban ping mian xiang jiao	19
+背包	bei bao	127
+倍增	bei zeng	118
+并查集	bing cha ji	86
+博弈论	bo yi lun	11
+布尔型	bu er xing	179
+差分	cha fen	39
+乘法逆元	cheng fa ni yuan	56
+打表	da biao	79
+单调队列	dan diao dui lie	113
+单调栈	dan diao zhan	112
+单源最短路径	dan yuan zui duan lu jing	87
+递归	di gui	154
+递推	di tui	155
+点分治	dian fen zhi	67
+动规	dong gui	162
+动态规划	dong tai gui hua	163
+动态树	dong tai shu	64
+动态凸包	dong tai tu bao	45
+队列	dui lie	189
+多重背包	duo chong bei bao	125
+二叉查找树	er cha cha zhao shu	174
+二叉堆	er cha dui	187
+二叉排序树	er cha pai xu shu	173
+二分	er fen	152
+二分答案	er fen da an	150
+二分图	er fen tu	106
+二分图最大匹配	er fen tu zui da pi pei	105
+二元决策图	er yuan jue ce tu	167
+斐波那契堆	fei bo na qi dui	143
+费马小定理	fei ma xiao ding li	99
+费用流	fei yong liu	146
+分数规划	fen shu gui hua	8
+分支	fen zhi	94
+分治	fen zhi	142
+分支结构	fen zhi jie gou	96
+负环	fu huan	66
+弗洛伊德	fu luo yi de	49
+负权环	fu quan huan	17
+概率动规	gai lv dong gui	43
+概率动态规划	gai lv dong tai gui hua	44
+概率论	gai lv lun	134
+高精	gao jing	141
+高精度	gao jing du	140
+高斯消元	gao si xiao yuan	65
+割点	ge dian	108
+割顶	ge ding	74
+构造	gou zao	100
+广度优先搜索	guang du you xian sou suo	136
+归并排序	gui bing pai xu	116
+过程	guo cheng	92
+哈希	ha xi	185
+哈希表	ha xi biao	184
+函数	han shu	178
+红黑树	hong hei shu	171
+洪水填充	hong shui tian chong	70
+后趋节点	hou qu jie dian	2
+后缀表达式	hou zhui biao da shi	4
+后缀和	hou zhui he	7
+后缀排序	hou zhui pai xu	59
+后缀数组	hou zhui shu zu	109
+后缀自动机	hou zhui zi dong ji	61
+环套树	huan tao shu	33
+集合	ji he	180
+计算几何	ji suan ji he	138
+记忆化搜索	ji yi hua sou suo	88
+剪枝	jian zhi	139
+进制	jin zhi	122
+矩阵	ju zhen	81
+矩阵乘法	ju zhen cheng fa	32
+矩阵加速	ju zhen jia su	14
+矩阵快速幂	ju zhen kuai su mi	80
+矩阵优化	ju zhen you hua	15
+卡特兰	ka te lan	128
+可并堆	ke bing dui	72
+可持久化	ke chi jiu hua	55
+可持久化平衡树	ke chi jiu hua ping heng shu	53
+可持久化线段树	ke chi jiu hua xian duan shu	54
+快速傅里叶	kuai su fu li ye	68
+快速排序	kuai su pai xu	117
+扩展欧几里得	kuo zhan ou ji li de	119
+离散化	li san hua	30
+离散数学	li san shu xue	10
+链表	lian biao	188
+卢卡斯定理	lu ka si ding li	60
+冒泡排序	mao pao pai xu	110
+莫比乌斯反演	mo bi wu si fan yan	25
+莫队	mo dui	69
+模拟	mo ni	164
+模拟退火	mo ni tui huo	31
+内存地址	nei cun di zhi	181
+逆元	ni yuan	57
+排序	pai xu	153
+配对堆	pei dui dui	144
+启发式	qi fa shi	22
+启发式合并	qi fa shi he bing	23
+启发式搜索	qi fa shi sou suo	24
+期望	qi wang	40
+期望动规	qi wang dong gui	41
+期望动态规划	qi wang dong tai gui hua	42
+前驱结点	qian qu jie dian	3
+前缀表达式	qian zhui biao da shi	6
+前缀和	qian zhui he	120
+容斥	rong chi	36
+容器	rong qi	176
+三分法	san fen fa	75
+散列表	san lie biao	186
+三维偏序	san wei pian xu	58
+筛法	shai fa	131
+深度学习	shen du xue xi	20
+深度优先搜索	shen du you xian sou suo	137
+神经网络	shen jing wang luo	21
+伸展树	shen zhan shu	170
+生成函数	sheng cheng han shu	35
+生成树	sheng cheng shu	149
+树的直径	shu de zhi jing	27
+树堆	shu dui	169
+数据结构	shu ju jie gou	177
+树链剖分	shu lian pou fen	82
+数论	shu lun	160
+树套树	shu tao shu	71
+数位动规	shu wei dong gui	47
+数位动态规划	shu wei dong tai gui hua	48
+树形动规	shu xing dong gui	101
+树形动态规划	shu xing dong tai gui hua	102
+树形结构	shu xing jie gou	135
+树形数据结构	shu xing shu ju jie gou	90
+数学	shu xue	159
+树状数组	shu zhuang shu zu	175
+数组	shu zu	190
+双向链表	shuang xiang lian biao	114
+顺序	shun xu	95
+顺序结构	shun xu jie gou	97
+搜索	sou suo	161
+素数判断	su shu pan duan	132
+缩点	suo dian	107
+贪心	tan xin	165
+替罪羊树	ti zui yang shu	50
+统计	tong ji	133
+桶排	tong pai	37
+桶排序	tong pai xu	38
+同余	tong yu	28
+头节点	tou jie dian	1
+凸包	tu bao	46
+图的遍历	tu de bian li	85
+图论	tu lun	158
+拓扑排序	tuo pu pai xu	129
+完全背包	wan quan bei bao	126
+网络流	wang luo liu	156
+网络流最大流	wang luo liu zui da liu	78
+网络最大流	wang luo zui da liu	77
+位元	wei yuan	183
+位运算	wei yun suan	121
+无向图	wu xiang tu	166
+希尔排序	xi er pai xu	115
+稀疏表	xi shu biao	16
+线段树	xian duan shu	172
+仙人掌	xian ren zhang	13
+仙人掌剖分	xian ren zhang pou fen	12
+线性递推	xian xing di tui	98
+线性动态规划	xian xing dong tai gui hua	89
+线性基	xian xing ji	52
+线性筛素数	xian xing shai su shu	130
+线性数据结构	xian xing shu ju jie gou	91
+向量	xiang liang	26
+斜率优化	xie lv you hua	29
+匈牙利算法	xiong ya li suan fa	104
+虚树	xu shu	51
+选择排序	xuan ze pai xu	111
+循环	xun huan	93
+一般图最大匹配	yi ban tu zui da pi pei	103
+有向无环图	you xiang wu huan tu	168
+整数	zheng shu	192
+整体二分	zheng ti er fen	151
+中缀表达式	zhong zhui biao da shi	5
+主席树	zhu xi shu	63
+状态压缩	zhuang tai ya suo	124
+状压	zhuang ya	123
+自动机	zi dong ji	62
+字符	zi fu	193
+字符串	zi fu chuan	182
+字符串哈希	zi fu chuan ha xi	84
+字节	zi jie	191
+组合数学	zu he shu xue	9
+最大流	zui da liu	145
+最大生成树	zui da sheng cheng shu	147
+最短路	zui duan lu	157
+最近公共祖先	zui jin gong gong zu xian	83
+最小费用最大流	zui xiao fei yong zui da liu	76
+最小割	zui xiao ge	34
+最小生成树	zui xiao sheng cheng shu	148
+左偏树	zuo pian shu	73

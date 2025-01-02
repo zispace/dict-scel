@@ -1,0 +1,132 @@
+# 文件名：CATIA 词汇.scel
+# 词库名：CATIA 词汇
+# 词库分类：软件
+# 词库描述：
+# 词条样例：拔模斜度 重新排序 倒角 父级 零件 轮廓
+# 词条数量：125
+
+凹槽	ao cao	125
+拔模斜度	ba mo xie du	124
+半径尺寸	ban jing chi cun	74
+背景视图	bei jing shi tu	43
+背景图纸	bei jing tu zhi	73
+标题块	biao ti kuai	72
+标注	biao zhu	123
+标准	biao zhun	71
+标准元素	biao zhun yuan su	94
+不确定中断	bu que ding zhong duan	42
+裁剪轮廓	cai jian lun kuo	41
+裁剪视图	cai jian shi tu	40
+草图	cao tu	122
+超限	chao xian	70
+尺寸标注	chi cun biao zhu	69
+重叠	chong die	39
+重新排序	chong xin pai xu	121
+创成式视图样式	chuang cheng shi shi tu yang shi	38
+粗糙度符号	cu cao du fu hao	68
+倒角	dao jiao	120
+倒角尺寸	dao jiao chi cun	67
+等轴测视图	deng zhou ce shi tu	37
+第三角	di san jiao	66
+第三角投影法	di san jiao tou ying fa	36
+第一角投影方法	di yi jiao tou ying fang fa	35
+对称	dui chen	93
+对象	dui xiang	65
+分割	fen ge	119
+副本	fu ben	64
+复合标记	fu he biao ji	92
+父级	fu ji	118
+父视图	fu shi tu	33
+辅助视图	fu zhu shi tu	34
+跟踪	gen zong	91
+工程图	gong cheng tu	63
+工程图库	gong cheng tu ku	62
+构造元素	gou zao yuan su	90
+关联	guan lian	117
+关联的详细	guan lian de xiang xi	32
+光栅模式	guang shan mo shi	30
+过滤器	guo lv qi	29
+焊接符号	han jie fu hao	61
+盒体	he ti	116
+活动视图	huo dong shi tu	60
+几何体	ji he ti	115
+基准目标	ji zhun mu biao	59
+基准特征	ji zhun te zheng	58
+极坐标	ji zuo biao	89
+加强肋	jia qiang lei	114
+简单中断	jian dan zhong duan	28
+角度尺寸	jiao du chi cun	57
+截面分割	jie mian fen ge	27
+截面线	jie mian xian	26
+近似模式	jin si mo shi	25
+精确视图	jing que shi tu	24
+镜像	jing xiang	113
+局部视图	ju bu shi tu	23
+聚集	ju ji	112
+距离尺寸	ju li chi cun	56
+绝对位置	jue dui wei zhi	55
+绝对坐标	jue dui zuo biao	111
+开槽	kai cao	110
+控制点	kong zhi dian	88
+快速详细视图	kuai su xiang xi shi tu	22
+链式尺寸	lian shi chi cun	54
+零件	ling jian	109
+零件几何体	ling jian ji he ti	108
+轮廓	lun kuo	107
+模板	mu ban	53
+内部约束	nei bu yue shu	87
+偏移	pian yi	86
+偏移剖视图	pian yi pou shi tu	21
+平移	ping yi	85
+剖面	pou mian	20
+剖面线	pou mian xian	19
+剖视图	pou shi tu	18
+切除轮廓	qie chu lun kuo	17
+切除区域	qie chu qu yu	16
+驱动约束	qu dong yue shu	84
+区域填充	qu yu tian chong	52
+设计树	she ji shu	15
+实体	shi ti	106
+视图	shi tu	31
+视图框	shi tu kuang	51
+视图框架	shi tu kuang jia	14
+使用边线	shi yong bian xian	83
+属性	shu xing	13
+数字	shu zi	75
+锁定	suo ding	12
+缩放	suo fang	105
+特征	te zheng	104
+停用	ting yong	103
+投影视图	tou ying shi tu	11
+凸台	tu tai	102
+图纸	tu zhi	50
+外部约束	wai bu yue shu	82
+文本模板	wen ben mu ban	49
+文档	wen dang	48
+物料清单	wu liao qing dan	10
+向导	xiang dao	8
+详图	xiang tu	47
+详细视图	xiang xi shi tu	9
+消隐	xiao yin	46
+修饰	xiu shi	45
+旋转	xuan zhuan	81
+旋转槽	xuan zhuan cao	101
+旋转剖视图	xuan zhuan pou shi tu	7
+旋转体	xuan zhuan ti	100
+原点	yuan dian	99
+远端截取	yuan duan jie qu	6
+圆角	yuan jiao	98
+约束	yue shu	97
+展开视图	zhan kai shi tu	5
+阵列	zhen lie	96
+正平面	zheng ping mian	4
+正视图	zheng shi tu	3
+直角坐标	zhi jiao zuo biao	80
+直径尺寸	zhi jing chi cun	44
+智能拾取	zhi neng shi qu	79
+重心	zhong xin	78
+主视图	zhu shi tu	2
+自动检测	zi dong jian ce	77
+自动约束	zi dong yue shu	76
+子级	zi ji	95
+子视图	zi shi tu	1

@@ -1,0 +1,109 @@
+# 文件名：E4A.scel
+# 词库名：E4A
+# 词库分类：计算机科技
+# 词库描述：
+# 词条样例：报毒 背景颜色 添加菜单 清空弹出菜单 置特效重复模式 切换完毕
+# 词条数量：102
+
+按钮	an niu	68
+按下某键	an xia mou jian	84
+按下图片	an xia tu pian	56
+绑定事件	bang ding shi jian	49
+绑定弹出菜单	bang ding tan chu cai dan	45
+报毒	bao du	102
+被按下	bei an xia	35
+被长按	bei chang an	36
+被单击	bei dan ji	37
+背景图片	bei jing tu pian	98
+背景颜色	bei jing yan se	99
+被弹起	bei tan qi	34
+被移动	bei yi dong	33
+编辑框	bian ji kuang	30
+标签	biao qian	8
+标题	biao ti	100
+菜单被选择	cai dan bei xuan ze	83
+程序被重启	cheng xu bei chong qi	73
+程序被启动	cheng xu bei qi dong	75
+程序被销毁	cheng xu bei xiao hui	72
+程序被暂停	cheng xu bei zan ting	74
+触摸手势	chu mo shou shi	81
+出去文本	chu qu wen ben	15
+创建完毕	chuang jian wan bi	86
+窗口	chuang kou	101
+粗体	cu ti	60
+单选框	dan xuan kuang	4
+到顶层	dao ding ceng	46
+电视机关闭特效	dian shi ji guan bi te xiao	87
+顶边	ding bian	66
+对齐方式	dui qi fang shi	61
+多选框	duo xuan kuang	3
+二维码	er wei ma	7
+高度	gao du	64
+绘制完毕	hui zhi wan bi	31
+获取焦点	huo qu jiao dian	39
+加入文本	jia ru wen ben	16
+加载超文本	jia zai chao wen ben	13
+监听被单击事件	jian ting bei dan ji shi jian	27
+监听绘制	jian ting hui zhi	40
+开启特效	kai qi te xiao	90
+开启特效完毕	kai qi te xiao wan bi	70
+可否活动	ke fou huo dong	96
+可视	ke shi	53
+可停留焦点	ke ting liu jiao dian	52
+可用	ke yong	54
+宽度	kuan du	65
+密码编辑框	mi ma bian ji kuang	1
+屏幕方向被改变	ping mu fang xiang bei gai bian	71
+切换完毕	qie huan wan bi	85
+清楚焦点	qing chu jiao dian	38
+清空菜单	qing kong cai dan	94
+清空弹出菜单	qing kong tan chu cai dan	92
+取储存卡路径	qu chu cun ka lu jing	5
+取高度	qu gao du	41
+取光标位置	qu guang biao wei zhi	20
+取宽度	qu kuan du	42
+取组建索引	qu zu jian suo yin	50
+全选	quan xuan	17
+日期框被选择	ri qi kuang bei xuan ze	80
+删除文本	shan chu wen ben	14
+时间框被选择	shi jian kuang bei xuan ze	79
+失去焦点	shi qu jiao dian	32
+输入方式	shu ru fang shi	29
+刷新	shua xin	44
+弹出菜单被选择	tan chu cai dan bei xuan ze	82
+弹出提示	tan chu ti shi	6
+弹起图片	tan qi tu pian	55
+提示信息	ti shi xin xi	28
+添加菜单	tian jia cai dan	95
+添加弹出菜单	tian jia tan chu cai dan	93
+透明度	tou ming du	58
+图片	tu pian	57
+图片框	tu pian kuang	10
+显示方式	xian shi fang shi	97
+显示光标	xian shi guang biao	22
+显示输入法	xian shi shu ru fa	24
+销毁	xiao hui	43
+斜体	xie ti	59
+信息框	xin xi kuang	9
+悬浮按钮被长按	xuan fu an niu bei chang an	76
+悬浮按钮被单击	xuan fu an niu bei dan ji	78
+悬浮按钮被弹起	xuan fu an niu bei tan qi	77
+选择框	xuan ze kuang	2
+选中文本	xuan zhong wen ben	18
+旋转特效	xuan zhuan te xiao	89
+移动	yi dong	47
+移动特效	yi dong te xiao	88
+移动特效完毕	yi dong te xiao wan bi	69
+隐藏光标	yin cang guang biao	21
+隐藏输入法	yin cang shu ru fa	23
+置多行模式	zhi duo xing mo shi	26
+置光标位置	zhi guang biao wei zhi	19
+置搜索模式	zhi sou suo mo shi	25
+置特效重复模式	zhi te xiao chong fu mo shi	91
+置提示信息颜色	zhi ti shi xin xi yan se	12
+置组建索引	zhi zu jian suo yin	51
+置左侧图标	zhi zuo ce tu biao	11
+自定义字体	zi ding yi zi ti	48
+字体大小	zi ti da xiao	63
+字体颜色	zi ti yan se	62
+左边	zuo bian	67

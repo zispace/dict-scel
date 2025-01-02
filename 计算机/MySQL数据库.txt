@@ -1,0 +1,26 @@
+# 文件名：MySQL数据库.scel
+# 词库名：MySQL数据库
+# 词库分类：其他
+# 词库描述：
+# 词条样例：服务层 缓冲 从库 缓冲池 红黑树 表空间
+# 词条数量：19
+
+表空间	biao kong jian	1
+表锁	biao suo	3
+从库	cong ku	12
+存储引擎	cun chu yin qing	19
+二分查找法	er fen cha zhao fa	8
+服务层	fu wu ceng	18
+复制	fu zhi	13
+高可用	gao ke yong	14
+红黑树	hong hei shu	5
+缓冲	huan chong	15
+缓冲池	huan chong chi	9
+均衡树	jun heng shu	7
+落盘点	luo pan dian	17
+平衡树	ping heng shu	6
+双写	shuang xie	16
+死锁	si suo	2
+行级锁	xing ji suo	4
+组复制	zu fu zhi	11
+组提交	zu ti jiao	10

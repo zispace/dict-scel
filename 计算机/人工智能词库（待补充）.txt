@@ -1,0 +1,30 @@
+# 文件名：人工智能词库（待补充）.scel
+# 词库名：人工智能词库（待补充）
+# 词库分类：人工智能
+# 词库描述：
+# 词条样例：剪枝 回归 目标函数 信息增益 无监督学习 超平面
+# 词条数量：23
+
+超平面	chao ping mian	8
+对偶问题	dui ou wen ti	5
+二分类	er fen lei	14
+分类	fen lei	20
+广义拉格朗日函数	guang yi la ge lang ri han shu	4
+过拟合	guo ni he	19
+核方法	he fang fa	3
+核化目标函数	he hua mu biao han shu	1
+回归	hui gui	21
+剪枝	jian zhi	22
+决策树	jue ce shu	23
+目标函数	mu biao han shu	18
+强化学习	qiang hua xue xi	11
+软间隔	ruan jian ge	7
+示性函数	shi xing han shu	15
+松弛变量	song chi bian liang	6
+无监督学习	wu jian du xue xi	12
+线性可分	xian xing ke fen	9
+线性判别函数	xian xing pan bie han shu	10
+信息熵	xin xi shang	16
+信息增益	xin xi zeng yi	17
+有监督学习	you jian du xue xi	13
+预测模型	yu ce mo xing	2

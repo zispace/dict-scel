@@ -1,0 +1,635 @@
+# 文件名：操作系统复习词库.scel
+# 词库名：操作系统复习词库
+# 词库分类：计算机科技
+# 词库描述：
+# 词条样例：分配 加载 读取 终止 分区
+# 词条数量：628
+
+安全标准	an quan biao zhun	167
+安全策略	an quan ce lue	233
+安全测评	an quan ce ping	169
+安全法规	an quan fa gui	165
+安全更新	an quan geng xin	198
+安全合规	an quan he gui	168
+安全监控	an quan jian kong	184
+安全漏洞	an quan lou dong	239
+安全配置	an quan pei zhi	197
+安全评估	an quan ping gu	170
+安全认证	an quan ren zheng	166
+安全日志审计	an quan ri zhi shen ji	186
+安全审查	an quan shen cha	196
+安全审计	an quan shen ji	242
+安全事件报告	an quan shi jian bao gao	175
+安全事件调查	an quan shi jian diao cha	177
+安全事件分析	an quan shi jian fen xi	176
+安全事件管理	an quan shi jian guan li	191
+安全事件记录	an quan shi jian ji lu	174
+安全事件响应	an quan shi jian xiang ying	192
+安全政策	an quan zheng ce	164
+安全状态	an quan zhuang tai	477
+安装	an zhuang	594
+版本控制	ban ben kong zhi	219
+保护	bao hu	610
+备份	bei fen	598
+备份恢复	bei fen hui fu	225
+避免	bi mian	580
+编译	bian yi	593
+并发	bing fa	556
+并发执行	bing fa zhi xing	513
+并行	bing xing	557
+并行计算	bing xing ji suan	514
+不安全状态	bu an quan zhuang tai	476
+补丁管理	bu ding guan li	216
+操作	cao zuo	496
+操作系统	cao zuo xi tong	563
+操作系统结构	cao zuo xi tong jie gou	547
+程序	cheng xu	538
+成组链接法	cheng zu lian jie fa	418
+重定位	chong ding wei	573
+重定位寄存器	chong ding wei ji cun qi	348
+重启	chong qi	597
+传输	chuan shu	583
+创建	chuang jian	601
+创建态	chuang jian tai	534
+磁带管理系统	ci dai guan li xi tong	284
+磁盘	ci pan	417
+磁盘调度算法	ci pan diao du suan fa	411
+磁盘访问时间	ci pan fang wen shi jian	415
+磁盘分区	ci pan fen qu	408
+磁盘管理	ci pan guan li	410
+磁盘结构	ci pan jie gou	416
+磁盘快照	ci pan kuai zhao	220
+磁盘碎片整理	ci pan sui pian zheng li	152
+磁盘映像	ci pan ying xiang	221
+存储	cun chu	576
+存储调度	cun chu diao du	146
+存储访问	cun chu fang wen	147
+存储分配	cun chu fen pei	149
+存储分区	cun chu fen qu	148
+存储管理	cun chu guan li	150
+存储回收	cun chu hui shou	145
+存储优化	cun chu you hua	151
+错误恢复	cuo wu hui fu	266
+错误日志	cuo wu ri zhi	211
+打开文件	da kai wen jian	445
+打印假脱机	da yin jia tuo ji	285
+带权周转时间	dai quan zhou zhuan shi jian	504
+单道批处理系统	dan dao pi chu li xi tong	562
+单缓冲	dan huan chong	397
+单级目录	dan ji mu lu	441
+单体内核	dan ti nei he	543
+当前工作目录	dang qian gong zuo mu lu	437
+等待队列	deng dai dui lie	307
+等待时间	deng dai shi jian	503
+等待态	deng dai tai	531
+低级格式化	di ji ge shi hua	409
+地址变换单元	di zhi bian huan dan yuan	262
+地址变换缓存	di zhi bian huan huan cun	256
+地址变换器	di zhi bian huan qi	135
+地址重定位	di zhi chong ding wei	463
+地址空间	di zhi kong jian	380
+地址映射	di zhi ying she	329
+地址转换	di zhi zhuan huan	462
+调度	diao du	628
+调度队列	diao du dui lie	509
+调度器	diao du qi	508
+调度算法	diao du suan fa	511
+调页区	diao ye qu	352
+动态加载	dong tai jia zai	350
+动态链接库	dong tai lian jie ku	340
+抖动控制	dou dong kong zhi	351
+读取	du qu	619
+读取文件	du qu wen jian	444
+读者写者问题	du zhe xie zhe wen ti	490
+段表单元	duan biao dan yuan	58
+段表管理器	duan biao guan li qi	132
+段表缓存	duan biao huan cun	258
+段寄存器	duan ji cun qi	359
+段式存储管理	duan shi cun chu guan li	331
+段页变换器	duan ye bian huan qi	134
+段页式存储	duan ye shi cun chu	460
+段页式管理	duan ye shi guan li	330
+堆栈指针	dui zhan zhi zhen	362
+多道程序设计	duo dao cheng xu she ji	558
+多道批处理	duo dao pi chu li	393
+多道批处理系统	duo dao pi chu li xi tong	561
+多级反馈队列	duo ji fan kui dui lie	500
+多级页表	duo ji ye biao	466
+多路复用	duo lu fu yong	295
+恶意软件防护	e yi ruan jian fang hu	202
+反病毒	fan bing du	204
+反间谍软件	fan jian die ruan jian	203
+防火墙	fang huo qiang	205
+访问	fang wen	621
+访问控制	fang wen kong zhi	432
+访问控制策略	fang wen kong zhi ce lue	195
+访问控制列表	fang wen kong zhi lie biao	237
+访问权限	fang wen quan xian	229
+访问审计	fang wen shen ji	243
+非抢占	fei qiang zhan	485
+非抢占式调度	fei qiang zhan shi diao du	501
+分层结构	fen ceng jie gou	542
+分段	fen duan	590
+分段表寄存器	fen duan biao ji cun qi	332
+分配	fen pei	627
+分区	fen qu	615
+分区表	fen qu biao	336
+分区分配	fen qu fen pei	472
+分时多路复用	fen shi duo lu fu yong	294
+分时系统	fen shi xi tong	560
+分析	fen xi	568
+分页	fen ye	591
+分页表寄存器	fen ye biao ji cun qi	333
+分页故障率	fen ye gu zhang lv	353
+风险管理	feng xian guan li	172
+风险评估	feng xian ping gu	171
+符号表	fu hao biao	344
+符号解析	fu hao jie xi	345
+符号链接	fu hao lian jie	433
+父进程	fu jin cheng	529
+复制	fu zhi	604
+甘特图	gan te tu	507
+高级格式化	gao ji ge shi hua	407
+高速缓存	gao su huan cun	375
+隔离	ge li	608
+格式化	ge shi hua	574
+更新	geng xin	595
+共享	gong xiang	609
+共享内存	gong xiang nei cun	526
+工作集	gong zuo ji	451
+工作集窗口	gong zuo ji chuang kou	325
+工作集原理	gong zuo ji yuan li	450
+工作状态转换	gong zuo zhuang tai zhuan huan	548
+固定分配	gu ding fen pei	454
+固定分区	gu ding fen qu	471
+固定分区表	gu ding fen qu biao	334
+故障排除	gu zhang pai chu	247
+挂载	gua zai	613
+管道	guan dao	524
+管理	guan li	626
+管理器	guan li qi	131
+光盘管理系统	guang pan guan li xi tong	283
+宏内核	hong nei he	545
+后台作业	hou tai zuo ye	319
+互斥	hu chi	487
+互斥锁	hu chi suo	497
+缓冲池	huan chong chi	299
+缓冲区单元	huan chong qu dan yuan	56
+缓冲区管理器	huan chong qu guan li qi	129
+缓冲区溢出	huan chong qu yi chu	302
+缓存	huan cun	611
+缓存单元	huan cun dan yuan	57
+缓存管理器	huan cun guan li qi	130
+缓存算法	huan cun suan fa	297
+缓存淘汰策略	huan cun tao tai ce lue	296
+缓存一致性	huan cun yi zhi xing	298
+换页空间	huan ye kong jian	326
+换页控制器	huan ye kong zhi qi	136
+换页算法	huan ye suan fa	355
+回读策略	hui du ce lue	372
+恢复	hui fu	599
+回收	hui shou	570
+回写策略	hui xie ce lue	373
+混合索引	hun he suo yin	423
+活动监视	huo dong jian shi	185
+技术	ji shu	395
+计算	ji suan	577
+基址寄存器	ji zhi ji cun qi	361
+加密	jia mi	588
+加载	jia zai	625
+检测	jian ce	581
+检查	jian cha	565
+监控	jian kong	596
+解除	jie chu	578
+解密	jie mi	587
+接收	jie shou	582
+解压	jie ya	606
+进程回滚	jin cheng hui gun	474
+进程实体	jin cheng shi ti	539
+进程同步	jin cheng tong bu	494
+进程通信	jin cheng tong xin	527
+进程完成时间	jin cheng wan cheng shi jian	506
+进程映像	jin cheng ying xiang	540
+进程终止	jin cheng zhong zhi	265
+进程状态	jin cheng zhuang tai	536
+紧凑化	jin cou hua	382
+紧急响应	jin ji xiang ying	179
+静态加载	jing tai jia zai	349
+静态链接库	jing tai lian jie ku	339
+就绪态	jiu xu tai	533
+局部置换	ju bu zhi huan	453
+角色基于访问控制	jue se ji yu fang wen kong zhi	236
+可变分区	ke bian fen qu	470
+可编址设备	ke bian zhi she bei	310
+可重定位分区	ke chong ding wei fen qu	335
+客户端服务器模型	ke hu duan fu wu qi mo xing	541
+空闲表	kong xian biao	421
+空闲标志	kong xian biao zhi	305
+空闲空间管理	kong xian kong jian guan li	422
+空闲链	kong xian lian	420
+控制	kong zhi	575
+口令管理	kou ling guan li	230
+库函数	ku han shu	341
+快表	kuai biao	461
+块设备	kuai she bei	312
+快速表缓存	kuai su biao huan cun	257
+链接	lian jie	592
+链接编辑	lian jie bian ji	346
+链接分配	lian jie fen pei	428
+连续分配	lian xu fen pei	429
+两级目录	liang ji mu lu	440
+临界区	lin jie qu	498
+临界资源	lin jie zi yuan	499
+漏洞扫描	lou dong sao miao	200
+漏洞修补	lou dong xiu bu	199
+逻辑设备	luo ji she bei	281
+逻辑页	luo ji ye	327
+忙等待	mang deng dai	493
+密码管理策略	mi ma guan li ce lue	193
+命令行	ming ling hang	551
+模块化内核	mo kuai hua nei he	544
+内部碎片	nei bu sui pian	337
+内存保护单元	nei cun bao hu dan yuan	263
+内存调度器	nei cun diao du qi	140
+内存管理	nei cun guan li	473
+内存管理单元	nei cun guan li dan yuan	61
+内存管理器	nei cun guan li qi	143
+内存回收器	nei cun hui shou qi	142
+内存控制器	nei cun kong zhi qi	139
+内存清理	nei cun qing li	144
+内存碎片	nei cun sui pian	383
+内存碎片整理	nei cun sui pian zheng li	141
+内存泄漏	nei cun xie lou	381
+内核级线程	nei he ji xian cheng	518
+内核扩展	nei he kuo zhan	255
+内核模式	nei he mo shi	391
+内核态	nei he tai	553
+排序	pai xu	589
+配置	pei zhi	569
+配置管理	pei zhi guan li	218
+频分多路复用	pin fen duo lu fu yong	293
+启动	qi dong	618
+前台作业	qian tai zuo ye	318
+抢占式调度	qiang zhan shi diao du	502
+强制访问控制	qiang zhi fang wen kong zhi	235
+切换	qie huan	616
+轻量级进程	qing liang ji jin cheng	517
+请求队列	qing qiu dui lie	313
+全局置换	quan ju zhi huan	452
+缺页次数	que ye ci shu	449
+缺页率	que ye lv	448
+缺页中断	que ye zhong duan	456
+认证	ren zheng	585
+日志存储	ri zhi cun chu	189
+日志分析	ri zhi fen xi	245
+日志管理	ri zhi guan li	190
+日志归档	ri zhi gui dang	188
+日志清理	ri zhi qing li	187
+冗余备份	rong yu bei fen	224
+入侵报警	ru qin bao jing	180
+入侵防御	ru qin fang yu	206
+入侵检测	ru qin jian ce	240
+软链接	ruan lian jie	434
+软中断	ruan zhong duan	368
+删除	shan chu	602
+设备调度	she bei diao du	277
+设备独立性	she bei du li xing	399
+设备独立性层	she bei du li xing ceng	290
+设备独立性软件	she bei du li xing ruan jian	402
+设备分配表	she bei fen pei biao	279
+设备缓冲区	she bei huan chong qu	398
+设备控制接口	she bei kong zhi jie kou	275
+设备控制器	she bei kong zhi qi	315
+设备控制字	she bei kong zhi zi	304
+设备利用率	she bei li yong lv	276
+设备忙标志	she bei mang biao zhi	306
+设备驱动程序	she bei qu dong cheng xu	401
+设备驱动器	she bei qu dong qi	314
+设备优先级	she bei you xian ji	278
+设备状态字	she bei zhuang tai zi	309
+设定	she ding	567
+身份认证策略	shen fen ren zheng ce lue	194
+审计日志	shen ji ri zhi	210
+生产者消费者问题	sheng chan zhe xiao fei zhe wen ti	489
+时分多路复用	shi fen duo lu fu yong	292
+事件报警	shi jian bao jing	182
+事件日志	shi jian ri zhi	212
+实时处理	shi shi chu li	392
+实时内核	shi shi nei he	321
+实时系统	shi shi xi tong	559
+时钟中断	shi zhong zhong duan	323
+首次适应算法	shou ci shi ying suan fa	469
+授权	shou quan	586
+数据保护	shu ju bao hu	163
+数据保密	shu ju bao mi	162
+数据标记	shu ju biao ji	156
+数据擦除	shu ju ca chu	154
+数据传输模式	shu ju chuan shu mo shi	273
+数据传输时间	shu ju chuan shu shi jian	412
+数据段	shu ju duan	537
+数据分类	shu ju fen lei	157
+数据归档	shu ju gui dang	158
+数据恢复	shu ju hui fu	160
+数据加密	shu ju jia mi	228
+数据解压	shu ju jie ya	226
+数据可用性	shu ju ke yong xing	161
+数据清除	shu ju qing chu	155
+数据碎片	shu ju sui pian	153
+数据完整性	shu ju wan zheng xing	238
+数据销毁	shu ju xiao hui	159
+数据泄露	shu ju xie lou	207
+数据压缩	shu ju ya suo	227
+数据隐私	shu ju yin si	208
+输入输出操作	shu ru shu chu cao zuo	303
+输入输出管理	shu ru shu chu guan li	288
+输入输出缓冲区	shu ru shu chu huan chong qu	261
+输入输出计划程序	shu ru shu chu ji hua cheng xu	282
+输入输出通道	shu ru shu chu tong dao	272
+树形目录	shu xing mu lu	439
+刷新	shua xin	612
+双缓冲	shuang huan chong	396
+双缓冲区	shuang huan chong qu	301
+死锁	si suo	488
+死锁避免	si suo bi mian	482
+死锁检测	si suo jian ce	481
+死锁解除	si suo jie chu	480
+死锁预防	si suo yu fang	483
+索引分配	suo yin fen pei	425
+特权级别	te quan ji bie	389
+特权指令	te quan zhi ling	554
+条件变量	tiao jian bian liang	491
+调试工具	tiao shi gong ju	249
+同步机制	tong bu ji zhi	512
+通道	tong dao	405
+通道编程	tong dao bian cheng	291
+通道程序	tong dao cheng xu	308
+通道控制命令	tong dao kong zhi ming ling	274
+通信	tong xin	584
+吞吐量	tun tu liang	386
+外部碎片	wai bu sui pian	338
+外存分配	wai cun fen pei	430
+维护	wei hu	564
+微内核	wei nei he	546
+位示图	wei shi tu	419
+位图	wei tu	424
+威胁检测	wei xie jian ce	201
+威胁评估	wei xie ping gu	173
+文件	wen jian	447
+文件版本管理	wen jian ban ben guan li	108
+文件保护管理	wen jian bao hu guan li	112
+文件备份单元	wen jian bei fen dan yuan	45
+文件备份管理	wen jian bei fen guan li	106
+文件操作	wen jian cao zuo	446
+文件操作单元	wen jian cao zuo dan yuan	50
+文件重命名管理	wen jian chong ming ming guan li	116
+文件簇单元	wen jian cu dan yuan	52
+文件簇分配	wen jian cu fen pei	123
+文件簇管理	wen jian cu guan li	124
+文件簇回收	wen jian cu hui shou	122
+文件访问单元	wen jian fang wen dan yuan	49
+文件访问管理	wen jian fang wen guan li	111
+文件分配表管理	wen jian fen pei biao guan li	126
+文件分配单元	wen jian fen pei dan yuan	53
+文件分配管理	wen jian fen pei guan li	121
+文件复制管理	wen jian fu zhi guan li	118
+文件共享单元	wen jian gong xiang dan yuan	47
+文件共享管理	wen jian gong xiang guan li	113
+文件恢复单元	wen jian hui fu dan yuan	44
+文件恢复管理	wen jian hui fu guan li	119
+文件解压管理	wen jian jie ya guan li	114
+文件块单元	wen jian kuai dan yuan	51
+文件块管理	wen jian kuai guan li	125
+文件快照单元	wen jian kuai zhao dan yuan	43
+文件快照管理	wen jian kuai zhao guan li	107
+文件路径	wen jian lu jing	438
+文件目录	wen jian mu lu	443
+文件目录单元	wen jian mu lu dan yuan	54
+文件目录管理	wen jian mu lu guan li	127
+文件目录结构	wen jian mu lu jie gou	442
+文件权限	wen jian quan xian	431
+文件权限单元	wen jian quan xian dan yuan	48
+文件权限管理	wen jian quan xian guan li	110
+文件删除管理	wen jian shan chu guan li	120
+文件锁定单元	wen jian suo ding dan yuan	46
+文件锁定管理	wen jian suo ding guan li	109
+文件系统备份	wen jian xi tong bei fen	92
+文件系统备份单元	wen jian xi tong bei fen dan yuan	29
+文件系统备份管理	wen jian xi tong bei fen guan li	69
+文件系统备份管理单元	wen jian xi tong bei fen guan li dan yuan	8
+文件系统错误管理	wen jian xi tong cuo wu guan li	65
+文件系统错误管理单元	wen jian xi tong cuo wu guan li dan yuan	4
+文件系统错误检测	wen jian xi tong cuo wu jian ce	85
+文件系统错误检测单元	wen jian xi tong cuo wu jian ce dan yuan	24
+文件系统错误修复	wen jian xi tong cuo wu xiu fu	84
+文件系统错误修复单元	wen jian xi tong cuo wu xiu fu dan yuan	23
+文件系统单元	wen jian xi tong dan yuan	55
+文件系统分析	wen jian xi tong fen xi	96
+文件系统分析单元	wen jian xi tong fen xi dan yuan	33
+文件系统分析管理	wen jian xi tong fen xi guan li	73
+文件系统分析管理单元	wen jian xi tong fen xi guan li dan yuan	12
+文件系统格式化	wen jian xi tong ge shi hua	103
+文件系统故障管理	wen jian xi tong gu zhang guan li	64
+文件系统故障管理单元	wen jian xi tong gu zhang guan li dan yuan	3
+文件系统故障检测	wen jian xi tong gu zhang jian ce	83
+文件系统故障检测单元	wen jian xi tong gu zhang jian ce dan yuan	22
+文件系统故障修复	wen jian xi tong gu zhang xiu fu	82
+文件系统故障修复单元	wen jian xi tong gu zhang xiu fu dan yuan	21
+文件系统挂载	wen jian xi tong gua zai	105
+文件系统挂载单元	wen jian xi tong gua zai dan yuan	41
+文件系统管理	wen jian xi tong guan li	128
+文件系统恢复	wen jian xi tong hui fu	91
+文件系统恢复单元	wen jian xi tong hui fu dan yuan	28
+文件系统恢复管理	wen jian xi tong hui fu guan li	68
+文件系统恢复管理单元	wen jian xi tong hui fu guan li dan yuan	7
+文件系统回滚	wen jian xi tong hui gun	90
+文件系统回滚单元	wen jian xi tong hui gun dan yuan	27
+文件系统检查	wen jian xi tong jian cha	102
+文件系统检查单元	wen jian xi tong jian cha dan yuan	39
+文件系统监控	wen jian xi tong jian kong	95
+文件系统监控单元	wen jian xi tong jian kong dan yuan	32
+文件系统监控管理	wen jian xi tong jian kong guan li	72
+文件系统监控管理单元	wen jian xi tong jian kong guan li dan yuan	11
+文件系统快照	wen jian xi tong kuai zhao	89
+文件系统快照管理	wen jian xi tong kuai zhao guan li	67
+文件系统快照管理单元	wen jian xi tong kuai zhao guan li dan yuan	6
+文件系统快照恢复	wen jian xi tong kuai zhao hui fu	87
+文件系统快照恢复单元	wen jian xi tong kuai zhao hui fu dan yuan	26
+文件系统扩展	wen jian xi tong kuo zhan	100
+文件系统扩展单元	wen jian xi tong kuo zhan dan yuan	37
+文件系统扩展管理	wen jian xi tong kuo zhan guan li	77
+文件系统扩展管理单元	wen jian xi tong kuo zhan guan li dan yuan	16
+文件系统日志	wen jian xi tong ri zhi	94
+文件系统日志单元	wen jian xi tong ri zhi dan yuan	31
+文件系统日志管理	wen jian xi tong ri zhi guan li	71
+文件系统日志管理单元	wen jian xi tong ri zhi guan li dan yuan	10
+文件系统审计	wen jian xi tong shen ji	93
+文件系统审计单元	wen jian xi tong shen ji dan yuan	30
+文件系统审计管理	wen jian xi tong shen ji guan li	70
+文件系统审计管理单元	wen jian xi tong shen ji guan li dan yuan	9
+文件系统碎片管理	wen jian xi tong sui pian guan li	75
+文件系统碎片管理单元	wen jian xi tong sui pian guan li dan yuan	14
+文件系统碎片整理	wen jian xi tong sui pian zheng li	98
+文件系统碎片整理单元	wen jian xi tong sui pian zheng li dan yuan	35
+文件系统缩减	wen jian xi tong suo jian	99
+文件系统缩减单元	wen jian xi tong suo jian dan yuan	36
+文件系统缩减管理	wen jian xi tong suo jian guan li	76
+文件系统缩减管理单元	wen jian xi tong suo jian guan li dan yuan	15
+文件系统调优管理	wen jian xi tong tiao you guan li	62
+文件系统调优管理单元	wen jian xi tong tiao you guan li dan yuan	1
+文件系统卸载	wen jian xi tong xie zai	104
+文件系统卸载单元	wen jian xi tong xie zai dan yuan	40
+文件系统性能分析	wen jian xi tong xing neng fen xi	80
+文件系统性能分析单元	wen jian xi tong xing neng fen xi dan yuan	19
+文件系统性能管理	wen jian xi tong xing neng guan li	63
+文件系统性能管理单元	wen jian xi tong xing neng guan li dan yuan	2
+文件系统性能监控	wen jian xi tong xing neng jian kong	79
+文件系统性能监控单元	wen jian xi tong xing neng jian kong dan yuan	18
+文件系统性能调优	wen jian xi tong xing neng tiao you	78
+文件系统性能调优单元	wen jian xi tong xing neng tiao you dan yuan	17
+文件系统性能优化	wen jian xi tong xing neng you hua	81
+文件系统性能优化单元	wen jian xi tong xing neng you hua dan yuan	20
+文件系统修复	wen jian xi tong xiu fu	101
+文件系统修复单元	wen jian xi tong xiu fu dan yuan	38
+文件系统映像	wen jian xi tong ying xiang	88
+文件系统映像管理	wen jian xi tong ying xiang guan li	66
+文件系统映像管理单元	wen jian xi tong ying xiang guan li dan yuan	5
+文件系统映像恢复	wen jian xi tong ying xiang hui fu	86
+文件系统映像恢复单元	wen jian xi tong ying xiang hui fu dan yuan	25
+文件系统优化	wen jian xi tong you hua	97
+文件系统优化单元	wen jian xi tong you hua dan yuan	34
+文件系统优化管理	wen jian xi tong you hua guan li	74
+文件系统优化管理单元	wen jian xi tong you hua guan li dan yuan	13
+文件压缩管理	wen jian ya suo guan li	115
+文件移动管理	wen jian yi dong guan li	117
+文件映像单元	wen jian ying xiang dan yuan	42
+物理地址	wu li di zhi	464
+物理设备	wu li she bei	280
+物理帧	wu li zhen	328
+系统	xi tong	286
+系统安全性	xi tong an quan xing	209
+系统调用	xi tong diao yong	550
+系统调用处理过程	xi tong diao yong chu li guo cheng	549
+系统队列	xi tong dui lie	270
+系统堆栈	xi tong dui zhan	269
+系统分析	xi tong fen xi	251
+系统复原	xi tong fu yuan	222
+系统管理模式	xi tong guan li mo shi	388
+系统恢复点	xi tong hui fu dian	215
+系统回滚	xi tong hui gun	213
+系统建模	xi tong jian mo	250
+系统快照	xi tong kuai zhao	214
+系统扩展	xi tong kuo zhan	254
+系统日志	xi tong ri zhi	268
+系统升级	xi tong sheng ji	217
+系统数据结构	xi tong shu ju jie gou	271
+系统威胁	xi tong wei xie	241
+系统性能	xi tong xing neng	387
+系统诊断	xi tong zhen duan	248
+限长寄存器	xian chang ji cun qi	360
+线程	xian cheng	521
+线程池	xian cheng chi	515
+线程库	xian cheng ku	520
+线程切换	xian cheng qie huan	516
+显示链接	xian shi lian jie	426
+相对路径	xiang dui lu jing	436
+响应时间	xiang ying shi jian	385
+消息传递	xiao xi chuan di	525
+写入	xie ru	620
+写入策略	xie ru ce lue	374
+卸载	xie zai	624
+信号	xin hao	523
+信号量	xin hao liang	522
+信号量计算	xin hao liang ji suan	495
+性能调优	xing neng tiao you	252
+修改	xiu gai	600
+虚拟存储	xu ni cun chu	459
+虚拟地址	xu ni di zhi	465
+虚拟内存	xu ni nei cun	458
+虚拟内存单元	xu ni nei cun dan yuan	60
+虚拟内存管理	xu ni nei cun guan li	138
+虚拟内存管理单元	xu ni nei cun guan li dan yuan	260
+虚拟设备技术	xu ni she bei ji shu	394
+虚拟设备驱动程序	xu ni she bei qu dong cheng xu	289
+旋转延迟	xuan zhuan yan chi	413
+寻道时间	xun dao shi jian	414
+循环等待	xun huan deng dai	484
+循环缓冲区	xun huan huan chong qu	300
+压缩	ya suo	607
+延迟	yan chi	384
+页表单元	ye biao dan yuan	59
+页表管理器	ye biao guan li qi	133
+页表缓存	ye biao huan cun	259
+页表项	ye biao xiang	357
+页框	ye kuang	358
+页面错误	ye mian cuo wu	379
+页面抖动	ye mian dou dong	378
+页面分配策略	ye mian fen pei ce lue	455
+页面分配算法	ye mian fen pei suan fa	264
+页面换出	ye mian huan chu	376
+页面换入	ye mian huan ru	377
+页面置换器	ye mian zhi huan qi	137
+页面置换算法	ye mian zhi huan suan fa	457
+页目录	ye mu lu	356
+异常报告	yi chang bao gao	246
+异常报警	yi chang bao jing	181
+异常处理	yi chang chu li	267
+异常检测	yi chang jian ce	183
+移动	yi dong	603
+一致性维护	yi zhi xing wei hu	371
+一致性协议	yi zhi xing xie yi	370
+银行家算法	yin hang jia suan fa	479
+隐式链接	yin shi lian jie	427
+应急响应	ying ji xiang ying	178
+硬链接	ying lian jie	435
+映射	ying she	614
+硬中断	ying zhong duan	369
+用户层软件	yong hu ceng ruan jian	403
+用户级线程	yong hu ji xian cheng	519
+用户鉴别	yong hu jian bie	232
+用户模式	yong hu mo shi	390
+用户认证	yong hu ren zheng	231
+用户态	yong hu tai	552
+优化	you hua	605
+优先级调度	you xian ji diao du	510
+优先级反转	you xian ji fan zhuan	322
+预调度器	yu diao du qi	320
+预防	yu fang	579
+运行态	yun xing tai	532
+灾难恢复	zai nan hui fu	223
+占有并等待	zhan you bing deng dai	486
+指定	zhi ding	566
+置换	zhi huan	571
+置换策略	zhi huan ce lue	354
+直接内存访问	zhi jie nei cun fang wen	406
+指令周期	zhi ling zhou qi	324
+执行	zhi xing	622
+执行时间绑定	zhi xing shi jian bang ding	342
+中断	zhong duan	623
+中断处理	zhong duan chu li	555
+中断处理程序	zhong duan chu li cheng xu	400
+中断服务例程	zhong duan fu wu li cheng	366
+中断管理	zhong duan guan li	287
+中断屏蔽	zhong duan ping bi	365
+中断嵌套	zhong duan qian tao	363
+中断向量	zhong duan xiang liang	367
+中断优先级	zhong duan you xian ji	364
+终止	zhong zhi	617
+终止态	zhong zhi tai	530
+周边设备	zhou bian she bei	316
+周转时间	zhou zhuan shi jian	505
+转换	zhuan huan	572
+装入程序	zhuang ru cheng xu	347
+装入时间绑定	zhuang ru shi jian bang ding	343
+状态转换	zhuang tai zhuan huan	535
+字符设备	zi fu she bei	311
+子进程	zi jin cheng	528
+子系统	zi xi tong	404
+自旋锁	zi xuan suo	492
+资源剥夺	zi yuan bo duo	475
+资源分配图	zi yuan fen pei tu	478
+资源监视器	zi yuan jian shi qi	253
+资源审计	zi yuan shen ji	244
+自主访问控制	zi zhu fang wen kong zhi	234
+最差适应算法	zui cha shi ying suan fa	467
+最佳适应算法	zui jia shi ying suan fa	468
+作业调度	zuo ye diao du	317

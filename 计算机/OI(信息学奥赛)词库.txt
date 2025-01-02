@@ -1,0 +1,392 @@
+# 文件名：OI(信息学奥赛)词库.scel
+# 词库名：OI(信息学奥赛)词库
+# 词库分类：计算机科技
+# 词库描述：
+# 词条样例：树剖 节点 拓扑排序 排序 快速排序 均摊分析
+# 词条数量：385
+
+按秩合并	an zhi he bing	301
+半平面交	ban ping mian jiao	232
+暴力	bao li	168
+暴搜	bao sou	1
+背包	bei bao	175
+倍增	bei zeng	185
+贝祖定理	bei zu ding li	64
+必败态	bi bai tai	109
+闭合图	bi he tu	196
+必胜态	bi sheng tai	108
+边双	bian shuang	107
+边双连通分量	bian shuang lian tong fen liang	106
+标记永久化	biao ji yong jiu hua	32
+并查集	bing cha ji	342
+博弈	bo yi	215
+博弈论	bo yi lun	216
+博弈树	bo yi shu	214
+不定方程	bu ding fang cheng	195
+补集	bu ji	105
+不删除莫队	bu shan chu mo dui	104
+补图	bu tu	44
+残量网络	can liang wang luo	150
+差分	cha fen	338
+差分约束	cha fen yue shu	181
+叉积	cha ji	231
+插入排序	cha ru pai xu	242
+插头动规	cha tou dong gui	274
+拆点	chai dian	42
+常数	chang shu	36
+常系数齐次线性递推	chang xi shu qi ci xian xing di tui	57
+重载运算符	chong zai yun suan fu	14
+抽屉原理	chou ti yuan li	165
+出度	chu du	372
+传递闭包	chuan di bi bao	298
+次小生成树	ci xiao sheng cheng shu	183
+大步小步	da bu xiao bu	103
+大根堆	da gen dui	361
+带花树	dai hua shu	50
+带权并查集	dai quan bing cha ji	102
+带权二分图匹配	dai quan er fen tu pi pei	220
+带修改	dai xiu gai	101
+带修改莫队	dai xiu gai mo dui	100
+单调队列	dan diao dui lie	337
+单调栈	dan diao zhan	5
+单峰	dan feng	99
+单链表	dan lian biao	45
+单源最短路	dan yuan zui duan lu	172
+递归	di gui	340
+狄利克雷卷积	di li ke lei juan ji	98
+递推	di tui	268
+点分树	dian fen shu	16
+点分治	dian fen zhi	365
+点积	dian ji	251
+点双	dian shuang	97
+点双连通分量	dian shuang lian tong fen liang	96
+迭代加深	die dai jia shen	328
+动规	dong gui	278
+动态点分治	dong tai dian fen zhi	31
+动态规划	dong tai gui hua	333
+动态开点	dong tai kai dian	305
+动态树	dong tai shu	256
+动态凸包	dong tai tu bao	30
+杜教筛	du jiao shai	358
+独立集	du li ji	148
+度数	du shu	12
+队列	dui lie	345
+对偶变换	dui ou bian huan	52
+对偶图	dui ou tu	53
+堆排序	dui pai xu	264
+多项式乘法	duo xiang shi cheng fa	55
+二部图	er bu tu	9
+二叉堆	er cha dui	252
+二叉排序树	er cha pai xu shu	248
+二叉树	er cha shu	375
+二叉搜索树	er cha sou suo shu	249
+二次探测	er ci tan ce	72
+二分查找	er fen cha zhao	182
+二分答案	er fen da an	341
+二分图	er fen tu	325
+二进制拆分	er jin zhi chai fen	41
+二维线段树	er wei xian duan shu	170
+二项堆	er xiang dui	263
+二项式定理	er xiang shi ding li	283
+法法塔	fa fa ta	351
+罚时	fa shi	95
+返祖边	fan zu bian	198
+方差	fang cha	94
+放缩	fang suo	23
+方阵	fang zhen	147
+斐波那契	fei bo na qi	362
+斐波那契堆	fei bo na qi dui	58
+费马	fei ma	294
+费马小定理	fei ma xiao ding li	354
+费用流	fei yong liu	201
+分层图	fen ceng tu	146
+分块	fen kuai	357
+分数规划	fen shu gui hua	204
+分支	fen zhi	378
+分治	fen zhi	247
+分支预测	fen zhi yu ce	17
+负环	fu huan	224
+负圈	fu quan	223
+负权环	fu quan huan	225
+概率	gai lv	319
+高精	gao jing	186
+高精度	gao jing du	37
+高斯	gao si	295
+高斯消元	gao si xiao yuan	156
+高维离散化	gao wei li san hua	56
+割边	ge bian	228
+割点	ge dian	234
+构造	gou zao	254
+广度优先	guang du you xian	28
+广搜	guang sou	178
+归并	gui bing	238
+哈夫曼	ha fu man	282
+哈密顿回路	ha mi dun hui lu	93
+哈密尔顿回路	ha mi er dun hui lu	4
+哈希	ha xi	323
+哈希表	ha xi biao	145
+函数	han shu	311
+行列式	hang lie shi	115
+横叉边	heng cha bian	199
+后缀树	hou zhui shu	285
+后缀数组	hou zhui shu zu	287
+后缀自动机	hou zhui zi dong ji	288
+缓冲区	huan chong qu	302
+环套树	huan tao shu	159
+回文数	hui wen shu	143
+回文树	hui wen shu	144
+回文自动机	hui wen zi dong ji	281
+集合	ji he	335
+基环树	ji huan shu	142
+计几	ji ji	230
+极角排序	ji jiao pai xu	92
+基排	ji pai	363
+级数	ji shu	151
+计数	ji shu	241
+基数排序	ji shu pai xu	364
+记搜	ji sou	141
+计算几何	ji suan ji he	233
+记忆化	ji yi hua	284
+降维	jiang wei	273
+节点	jie dian	374
+进制	jin zhi	212
+竞赛图	jing sai tu	90
+静态分块	jing tai fen kuai	91
+矩形树	ju xing shu	171
+矩阵乘法	ju zhen cheng fa	271
+矩阵求逆	ju zhen qiu ni	140
+矩阵树	ju zhen shu	139
+卷积	juan ji	89
+决策	jue ce	138
+决策单调性	jue ce dan diao xing	88
+均摊	jun tan	87
+均摊分析	jun tan fen xi	367
+卡常	ka chang	33
+卡常数	ka chang shu	35
+卡特兰	ka te lan	222
+康托展开	kang tuo zhan kai	157
+可并堆	ke bing dui	137
+可持久化	ke chi jiu hua	163
+可持久化并查集	ke chi jiu hua bing cha ji	136
+可持久化可并堆	ke chi jiu hua ke bing dui	86
+可持久化平衡树	ke chi jiu hua ping heng shu	135
+可持久化数据结构	ke chi jiu hua shu ju jie gou	134
+可持久化数组	ke chi jiu hua shu zu	133
+可持久化线段树	ke chi jiu hua xian duan shu	166
+克鲁斯卡尔	ke lu si ka er	297
+可行流	ke xing liu	132
+可增广	ke zeng guang	202
+快排	kuai pai	369
+快速傅里叶变换	kuai su fu li ye bian huan	350
+快速幂	kuai su mi	131
+快速排序	kuai su pai xu	368
+快速数论变换	kuai su shu lun bian huan	189
+快速沃尔什变换	kuai su wo er shi bian huan	349
+块状链表	kuai zhuang lian biao	194
+块状数组	kuai zhuang shu zu	193
+扩欧	kuo ou	320
+扩展卢卡斯	kuo zhan lu ka si	130
+扩展欧几里得	kuo zhan ou ji li de	321
+拉格朗日插值	la ge lang ri cha zhi	26
+离散化	li san hua	347
+链表	lian biao	344
+链分治	lian fen zhi	129
+连通块	lian tong kuai	240
+邻接表	lin jie biao	184
+邻接矩阵	lin jie ju zhen	155
+路径规划	lu jing gui hua	128
+路径压缩	lu jing ya suo	300
+卢卡斯定理	lu ka si ding li	154
+乱搞	luan gao	290
+逻辑	luo ji	310
+马拉车	ma la che	286
+曼哈顿距离	man ha dun ju li	85
+冒泡排序	mao pao pai xu	246
+枚举	mei ju	329
+梅森旋转	mei sen xuan zhuan	127
+闵可夫斯基和	min ke fu si ji he	19
+莫比乌斯	mo bi wu si	126
+莫比乌斯反演	mo bi wu si fan yan	211
+模长	mo chang	29
+莫队	mo dui	83
+模拟	mo ni	152
+模拟退火	mo ni tui huo	84
+逆序对	ni xu dui	81
+逆元	ni yuan	353
+拟阵	ni zhen	82
+牛顿迭代	niu dun die dai	25
+欧几里得	ou ji li de	125
+欧拉公式	ou la gong shi	237
+欧拉函数	ou la han shu	355
+欧拉回路	ou la hui lu	235
+排列	pai lie	331
+排序	pai xu	370
+配对堆	pei dui dui	80
+裴蜀定理	pei shu ding li	65
+骗分	pian fen	260
+平衡树	ping heng shu	376
+平面图点定位	ping mian tu dian ding wei	49
+启发式合并	qi fa shi he bing	177
+启发式搜索	qi fa shi sou suo	176
+期望	qi wang	318
+前向星	qian xiang xing	79
+前缀和	qian zhui he	339
+强连通分量	qiang lian tong fen liang	327
+轻儿子	qing er zi	43
+轻链	qing lian	384
+求逆	qiu ni	352
+去重	qu chong	346
+取反	qu fan	309
+区间	qu jian	265
+区间树	qu jian shu	54
+取模	qu mo	315
+权值线段树	quan zhi xian duan shu	124
+群论	qun lun	187
+染色	ran se	123
+容斥	rong chi	167
+入度	ru du	373
+入队	ru dui	122
+三角剖分	san jiao pou fen	78
+散列表	san lie biao	121
+三元环	san yuan huan	7
+扫描线	sao miao xian	219
+深度优先	shen du you xian	27
+深搜	shen sou	179
+生成函数	sheng cheng han shu	221
+生成树	sheng cheng shu	207
+省选	sheng xuan	293
+势能	shi neng	77
+势能分析	shi neng fen xi	76
+树分块	shu fen kuai	75
+树分治	shu fen zhi	74
+数据结构	shu ju jie gou	292
+树链剖分	shu lian pou fen	255
+数量积	shu liang ji	21
+数论	shu lun	296
+树剖	shu pou	377
+树上差分	shu shang cha fen	120
+树上莫队	shu shang mo dui	73
+树套树	shu tao shu	257
+数位动规	shu wei dong gui	279
+树形动规	shu xing dong gui	280
+树状数组	shu zhuang shu zu	382
+数组	shu zu	306
+双端队列	shuang duan dui lie	15
+双链表	shuang lian biao	46
+双连通分量	shuang lian tong fen liang	71
+顺序	shun xu	379
+四边形不等式	si bian xing bu deng shi	266
+四色定理	si se ding li	239
+搜索	sou suo	289
+素数	su shu	356
+随机化	sui ji hua	180
+缩点	suo dian	226
+缩放	suo fang	24
+泰勒展开	tai le zhan kai	70
+贪心	tan xin	291
+替罪羊树	ti zui yang shu	366
+调和级数	tiao he ji shu	149
+桶排	tong pai	243
+桶排序	tong pai xu	244
+同余	tong yu	316
+头文件	tou wen jian	314
+凸包	tu bao	229
+凸单调	tu dan diao	267
+凸多边形交	tu duo bian xing jiao	119
+凸壳	tu ke	174
+图论	tu lun	343
+凸优化	tu you hua	69
+拓扑排序	tuo pu pai xu	371
+外向树	wai xiang shu	118
+完美匹配	wan mei pi pei	209
+维护	wei hu	160
+唯一分解	wei yi fen jie	68
+位运算	wei yun suan	313
+稳定婚姻	wen ding hun yin	117
+希尔排序	xi er pai xu	261
+稀疏表	xi shu biao	192
+线段树	xian duan shu	383
+线段树合并	xian duan shu he bing	47
+仙人球	xian ren qiu	67
+仙人掌	xian ren zhang	236
+线性	xian xing	324
+线性方程	xian xing fang cheng	116
+线性规划	xian xing gui hua	173
+线性基	xian xing ji	153
+线性筛	xian xing shai	359
+线性同余	xian xing tong yu	277
+线性同余方程	xian xing tong yu fang cheng	276
+向量	xiang liang	164
+小根堆	xiao gen dui	360
+消圈	xiao quan	18
+斜堆	xie dui	262
+斜率优化	xie lv you hua	272
+辛普森	xin pu sen	66
+匈牙利算法	xiong ya li suan fa	217
+虚点	xu dian	161
+虚树	xu shu	162
+选择排序	xuan ze pai xu	245
+旋转卡壳	xuan zhuan qia ke	10
+循环	xun huan	380
+循环展开	xun huan zhan kai	20
+压行	ya xing	34
+异或	yi huo	308
+异或方程	yi huo fang cheng	114
+因数	yin shu	113
+映射	ying she	336
+优先队列	you xian dui lie	348
+有向无环图	you xiang wu huan tu	332
+友元	you yuan	303
+余子式	yu zi shi	63
+圆方树	yuan fang shu	62
+增广路	zeng guang lu	200
+增量算法	zeng liang suan fa	51
+整体二分	zheng ti er fen	158
+置换	zhi huan	188
+直径	zhi jing	258
+指令集	zhi ling ji	38
+质数	zhi shu	218
+质因数	zhi yin shu	112
+值域线段树	zhi yu xian duan shu	61
+指针	zhi zhen	307
+重儿子	zhong er zi	40
+中国剩余定理	zhong guo sheng yu ding li	317
+重链	zhong lian	385
+重量平衡	zhong liang ping heng	22
+众数	zhong shu	169
+重心	zhong xin	39
+洲阁筛	zhou ge shai	60
+主席树	zhu xi shu	304
+状态压缩	zhuang tai ya suo	270
+状态转移	zhuang tai zhuan yi	299
+状压	zhuang ya	269
+状压动规	zhuang ya dong gui	111
+字典树	zi dian shu	381
+子段和	zi duan he	48
+字符串	zi fu chuan	312
+子集	zi ji	330
+子母树	zi mu shu	275
+组合	zu he	322
+最长链	zui chang lian	253
+最大独立集	zui da du li ji	8
+最大公约数	zui da gong yue shu	213
+最大流	zui da liu	190
+最大密度子图	zui da mi du zi tu	203
+最大匹配	zui da pi pei	208
+最大权闭合子图	zui da quan bi he zi tu	110
+最大团	zui da tuan	6
+最短路	zui duan lu	334
+最近点对	zui jin dian dui	250
+最近公共祖先	zui jin gong gong zu xian	326
+最小不相交路径覆盖	zui xiao bu xiang jiao lu jing fu gai	2
+最小点覆盖	zui xiao dian fu gai	13
+最小点权覆盖	zui xiao dian quan fu gai	205
+最小费用可行流	zui xiao fei yong ke xing liu	197
+最小费用最大流	zui xiao fei yong zui da liu	11
+最小割	zui xiao ge	191
+最小公倍数	zui xiao gong bei shu	210
+最小环	zui xiao huan	227
+最小路径覆盖	zui xiao lu jing fu gai	59
+最小生成树	zui xiao sheng cheng shu	206
+最小相交路径覆盖	zui xiao xiang jiao lu jing fu gai	3
+左偏树	zuo pian shu	259

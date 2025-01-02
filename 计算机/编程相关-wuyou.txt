@@ -1,0 +1,70 @@
+# 文件名：编程相关-wuyou.scel
+# 词库名：编程相关-wuyou
+# 词库分类：软件
+# 词库描述：
+# 词条样例：变量 未定义 未赋值 循环语句 条件判断语句 反向遍历
+# 词条数量：63
+
+闭包	bi bao	26
+遍历	bian li	46
+变量	bian liang	63
+变量提升	bian liang ti sheng	23
+布尔	bu er	54
+长度	chang du	43
+常量	chang liang	62
+成员访问	cheng yuan fang wen	13
+初始化	chu shi hua	58
+递归	di gui	25
+定义	ding yi	60
+对象	dui xiang	18
+返回值	fan hui zhi	34
+反向遍历	fan xiang bian li	45
+分支结构	fen zhi jie gou	49
+赋值	fu zhi	59
+构造器	gou zao qi	9
+函数	han shu	42
+函数表达式	han shu biao da shi	37
+函数调用	han shu diao yong	19
+函数嵌套	han shu qian tao	20
+函数提升	han shu ti sheng	22
+函数作用域	han shu zuo yong yu	28
+键值对	jian zhi dui	14
+局部变量	ju bu bian liang	33
+局部作用域	ju bu zuo yong yu	30
+块级作用域	kuai ji zuo yong yu	27
+面向对象	mian xiang dui xiang	12
+命名函数	ming ming han shu	39
+模块化	mo kuai hua	8
+内置对象	nei zhi dui xiang	3
+匿名函数	ni ming han shu	38
+全局变量	quan ju bian liang	32
+全局函数	quan ju han shu	41
+全局作用域	quan ju zuo yong yu	29
+声明	sheng ming	61
+实参	shi can	36
+数值	shu zhi	55
+数组	shu zu	47
+私有变量	si you bian liang	16
+私有成员	si you cheng yuan	17
+私有函数	si you han shu	15
+索引值	suo yin zhi	44
+条件判断语句	tiao jian pan duan yu ju	48
+同步	tong bu	1
+未定义	wei ding yi	53
+未赋值	wei fu zhi	51
+未声明	wei sheng ming	52
+伪数组	wei shu zu	4
+形参	xing can	35
+循环依赖	xun huan yi lai	6
+循环引用	xun huan yin yong	5
+循环语句	xun huan yu ju	50
+异步	yi bu	2
+依赖	yi lai	7
+预解析	yu jie xi	24
+原型对象	yuan xing dui xiang	11
+原型链	yuan xing lian	10
+自调用函数	zi diao yong han shu	40
+自定义	zi ding yi	57
+字符串	zi fu chuan	56
+作用域	zuo yong yu	31
+作用域链	zuo yong yu lian	21

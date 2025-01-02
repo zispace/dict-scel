@@ -1,0 +1,140 @@
+# 文件名：计算机专业词汇大全.scel
+# 词库名：计算机专业词汇大全
+# 词库分类：软件
+# 词库描述：
+# 词条样例：网络服务提供者 传输控制协议网际协议 用户数据报协议 统一资源定位器 语言 抽象的
+# 词条数量：133
+
+按钮	an niu	72
+绑定	bang ding	78
+背景	bei jing	88
+层次结构	ceng ci jie gou	28
+超链接	chao lian jie	27
+超文本标记语言	chao wen ben biao ji yu yan	133
+超文本传送协议	chao wen ben chuan song xie yi	132
+抽象的	chou xiang de	115
+抽象体	chou xiang ti	114
+处理函数	chu li han shu	30
+传输控制协议网际协议	chuan shu kong zhi xie yi wang ji xie yi	124
+存取	cun qu	113
+带宽	dai kuan	87
+当且仅当	dang qie jin dang	25
+等号操作符	deng hao cao zuo fu	47
+地址	di zhi	109
+地址解析协议	di zhi jie xi xie yi	12
+调用	diao yong	70
+调用操作符	diao yong cao zuo fu	68
+动态绑定	dong tai bang ding	50
+断点	duan dian	76
+断言	duan yan	96
+多线程安全	duo xian cheng an quan	20
+二叉树	er cha shu	81
+二分查找	er fen cha zhao	82
+二元操作符	er yuan cao zuo fu	79
+返回类型	fan hui lei xing	36
+仿函式	fang han shi	42
+访问级别	fang wen ji bie	112
+访问控制列表	fang wen kong zhi lie biao	17
+访问令牌	fang wen ling pai	16
+分辨率	fen bian lv	37
+分布式计算	fen bu shi ji suan	51
+分配器	fen pei qi	105
+复选按钮	fu xuan an niu	66
+赋值	fu zhi	95
+赋值操作符	fu zhi cao zuo fu	94
+高速缓存	gao su huan cun	71
+高效	gao xiao	49
+管理员帐号	guan li yuan zhang hao	11
+关联式容器	guan lian shi rong qi	93
+光纤分布式数据接口	guang xian fen bu shi shu ju jie kou	2
+哈希表	ha xi biao	29
+函数模板	han shu mu ban	43
+候选函数	hou xuan han shu	67
+互连网分组协议	hu lian wang fen zu xie yi	127
+汇编语言	hui bian yu yan	97
+回调	hui tiao	69
+集成开发环境	ji cheng kai fa huan jing	26
+激活	ji huo	111
+基类	ji lei	86
+计算机	ji suan ji	117
+记帐策略	ji zhang ce lue	14
+箭头操作符	jian tou cao zuo fu	98
+健壮性	jian zhuang xing	35
+解叁考操作符	jie san kao cao zuo fu	54
+解析过程	jie xi guo cheng	38
+进程间通信	jin cheng jian tong xin	126
+可破密的	ke po mi de	7
+类层次体系	lei ceng ci ti xi	64
+类继承列表	lei ji cheng lie biao	65
+类模板部分特化	lei mu ban bu fen te hua	63
+类模板特化	lei mu ban te hua	62
+临时对象	lin shi dui xiang	22
+枚举成员	mei ju cheng yuan	48
+模板叁数推导	mu ban san shu tui dao	23
+内置	nei zhi	75
+批处理	pi chu li	85
+屏幕截图	ping mu jie tu	31
+取地址操作符	qu di zhi cao zuo fu	107
+全局范围解析操作符	quan ju fan wei jie xi cao zuo fu	41
+缺省	que sheng	55
+人工智能	ren gong zhi neng	89
+任务切换	ren wu qie huan	21
+设计模式	she ji mo shi	53
+审记策略	shen ji ce lue	8
+事件驱动的	shi jian qu dong de	46
+适配器	shi pei qi	110
+实质叁数	shi zhi san shu	101
+收益	shou yi	84
+数据报文	shu ju bao wen	58
+数据成员	shu ju cheng yuan	60
+数据结构	shu ju jie gou	59
+数据库	shu ju ku	61
+数据链路控制	shu ju lian lu kong zhi	5
+属性	shu xing	90
+数组	shu zu	99
+双叁函数	shuang san han shu	80
+死锁	si suo	57
+算法	suan fa	106
+碎片文件传送协议	sui pian wen jian chuan song xie yi	123
+特洛伊木马	te luo yi mu ma	122
+体系结构	ti xi jie gou	102
+调试	tiao shi	56
+统一资源定位器	tong yi zi yuan ding wei qi	120
+图形界面	tu xing jie mian	40
+网际控制报文协议	wang ji kong zhi bao wen xie yi	131
+网际协议	wang ji xie yi	129
+网络服务提供者	wang luo fu wu ti gong zhe	128
+位域	wei yu	77
+位址空间	wei zhi kong jian	108
+文件传送协议	wen jian chuan song xie yi	1
+无类地址分配	wu lei di zhi fen pei	6
+析构函数	xi gou han shu	52
+信息服务器	xin xi fu wu qi	130
+形式叁数	xing shi san shu	44
+虚拟机	xu ni ji	24
+业务	ye wu	73
+异步传递模式	yi bu chuan di mo shi	9
+异常处理	yi chang chu li	45
+一元操作符	yi yuan cao zuo fu	19
+引导网关协议	yin dao wang guan xie yi	119
+音频	yin pin	92
+应用程序	ying yong cheng xu	104
+应用程序编程接口	ying yong cheng xu bian cheng jie kou	10
+应用程序框架	ying yong cheng xu kuang jia	103
+用户界面	yong hu jie mian	18
+用户数据报协议	yong hu shu ju bao xie yi	121
+预定义	yu ding yi	116
+域名控制器	yu ming kong zhi qi	3
+语言	yu yan	118
+原子的	yuan zi de	91
+运行期	yun xing qi	39
+帐号封锁	zhang hao feng suo	15
+直接上层基类	zhi jie shang ceng ji lei	32
+直接下层派生类	zhi jie xia ceng pai sheng lei	33
+中断请求	zhong duan qing qiu	125
+自变量	zi bian liang	100
+字典式攻击	zi dian shi gong ji	4
+自适应速率等级调整	zi shi ying su lv deng ji tiao zheng	13
+总线	zong xian	74
+最底层的派生类	zui di ceng de pai sheng lei	34
+最佳可行函式	zui jia ke xing han shi	83

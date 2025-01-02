@@ -1,0 +1,72 @@
+# 文件名：网络安全等级保护.scel
+# 词库名：网络安全等级保护
+# 词库分类：其他
+# 词库描述：
+# 词条样例：信息系统 等保 安全建设管理 双因素 漏洞扫描
+# 词条数量：65
+
+安全标识	an quan biao zhi	31
+安全管理机构	an quan guan li ji gou	59
+安全管理人员	an quan guan li ren yuan	58
+安全管理制度	an quan guan li zhi du	60
+安全管理中心	an quan guan li zhong xin	61
+安全计算环境	an quan ji suan huan jing	62
+安全建设管理	an quan jian she guan li	57
+安全区域边界	an quan qu yu bian jie	63
+安全审计	an quan shen ji	26
+安全通信网络	an quan tong xin wang luo	64
+安全物理环境	an quan wu li huan jing	65
+安全运维管理	an quan yun wei guan li	56
+保存时长	bao cun shi chang	21
+报告评审	bao gao ping shen	7
+备份策略	bei fen ce lue	24
+备份频率	bei fen pin lv	23
+备份周期	bei fen zhou qi	22
+本地安全策略	ben di an quan ce lue	20
+测评指标	ce ping zhi biao	1
+传输保密性	chuan shu bao mi xing	14
+传输加密	chuan shu jia mi	16
+传输完整性	chuan shu wan zheng xing	15
+存储保密性	cun chu bao mi xing	12
+存储完整性	cun chu wan zheng xing	13
+等保	deng bao	52
+等级保护	deng ji bao hu	53
+登录人员	deng lu ren yuan	35
+登录失败处理功能	deng lu shi bai chu li gong neng	41
+调研表	diao yan biao	9
+定级备案	ding ji bei an	5
+方案评审	fang an ping shen	6
+访问控制	fang wen kong zhi	29
+非法登录	fei fa deng lu	42
+风险分析	feng xian fen xi	2
+服务器	fu wu qi	10
+共享账户	gong xiang zhang hu	32
+关键信息基础设施	guan jian xin xi ji chu she shi	55
+关键指标	guan jian zhi biao	4
+加密套件	jia mi tao jian	17
+加密协议	jia mi xie yi	36
+加密信道	jia mi xin dao	38
+鉴别信息	jian bie xin xi	47
+客体	ke ti	27
+空口令	kong kou ling	45
+空闲会话	kong xian hui hua	40
+扣分项	kou fen xiang	3
+连接超时	lian jie chao shi	39
+漏洞扫描	lou dong sao miao	50
+密码复杂度	mi ma fu za du	44
+敏感标记	min gan biao ji	30
+默认口令	mo ren kou ling	33
+默认账户	mo ren zhang hu	34
+窃听	qie ting	37
+弱口令	ruo kou ling	46
+身份标识	shen fen biao zhi	43
+审计日志	shen ji ri zhi	25
+渗透测试	shen tou ce shi	49
+实施方案	shi shi fang an	8
+数据库	shu ju ku	11
+双因素	shuang yin su	48
+网络安全	wang luo an quan	54
+信息系统	xin xi xi tong	51
+异地备份	yi di bei fen	19
+灾备机房	zai bei ji fang	18
+主体	zhu ti	28

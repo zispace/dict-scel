@@ -1,0 +1,32 @@
+# 文件名：城市一卡通城市一码通.scel
+# 词库名：城市一卡通城市一码通
+# 词库分类：其他
+# 词库描述：
+# 词条样例：考勤 会议签到机 巡更棒 巡更点 门禁 加密机
+# 词条数量：25
+
+场景	chang jing	6
+车牌识别	che pai shi bie	3
+读头	du tou	11
+读写器	du xie qi	8
+多场景	duo chang jing	5
+多场景应用	duo chang jing ying yong	4
+发卡器	fa ka qi	10
+会议签到	hui yi qian dao	21
+会议签到机	hui yi qian dao ji	20
+加密机	jia mi ji	7
+考勤	kao qin	23
+考勤机	kao qin ji	22
+门禁	men jin	14
+门禁读头	men jin du tou	12
+门禁机	men jin ji	13
+人员点	ren yuan dian	16
+摄像机	she xiang ji	2
+事件点	shi jian dian	15
+消费	xiao fei	25
+消费机	xiao fei ji	24
+写卡器	xie ka qi	9
+巡更	xun geng	19
+巡更棒	xun geng bang	18
+巡更点	xun geng dian	17
+硬盘录像机	ying pan lu xiang ji	1

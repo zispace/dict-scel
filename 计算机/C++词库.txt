@@ -1,0 +1,125 @@
+# 文件名：C++词库.scel
+# 词库名：C++词库
+# 词库分类：软件
+# 词库描述：
+# 词条样例：定义 标准输入输出 输入输出流 数组 递归 递推
+# 词条数量：118
+
+保护	bao hu	27
+爆了	bao le	5
+暴力	bao li	40
+爆零	bao ling	74
+本地	ben di	12
+编译	bian yi	13
+编译错误	bian yi cuo wu	14
+标准库函数	biao zhun ku han shu	103
+标准输入输出	biao zhun shu ru shu chu	111
+插入排序	cha ru pai xu	59
+超内存	chao nei cun	15
+超时	chao shi	16
+程序	cheng xu	77
+程序爆了	cheng xu bao le	76
+程序挂了	cheng xu gua le	75
+次短路	ci duan lu	91
+打表	da biao	39
+大根堆	da gen dui	53
+递归	di gui	102
+递归出口	di gui chu kou	1
+迪杰斯特拉	di jie si te la	97
+递推	di tui	101
+定义	ding yi	118
+动规	dong gui	42
+动态规划	dong tai gui hua	43
+队列	dui lie	50
+对拍	dui pai	38
+二叉树	er cha shu	98
+二分	er fen	100
+二分图	er fen tu	57
+二维数组	er wei shu zu	21
+儿子节点	er zi jie dian	70
+父类	fu lei	23
+弗洛伊德	fu luo yi de	96
+父亲节点	fu qin jie dian	69
+公有	gong you	28
+挂了	gua le	4
+广度优先搜索	guang du you xian sou suo	80
+过了	guo le	7
+函数	han shu	105
+宏定义	hong ding yi	117
+宏引入	hong yin ru	115
+猴子排序	hou zi pai xu	64
+继承	ji cheng	25
+寄了	ji le	73
+基数排序	ji shu pai xu	58
+计数排序	ji shu pai xu	60
+静态	jing tai	36
+空指针	kong zhi zhen	45
+库函数	ku han shu	104
+快读	kuai du	79
+快排	kuai pai	63
+快写	kuai xie	78
+懒人排序	lan ren pai xu	65
+链表	lian biao	49
+连通块	lian tong kuai	54
+连通图	lian tong tu	88
+六维数组	liu wei shu zu	17
+曼哈顿	man ha dun	94
+盲交	mang jiao	8
+冒泡排序	mao pao pai xu	61
+面向对象	mian xiang dui xiang	33
+面向用户	mian xiang yong hu	32
+没过	mo guo	6
+模拟	mo ni	37
+模板	mu ban	35
+欧拉图	ou la tu	55
+欧氏筛法	ou shi shai fa	56
+排序	pai xu	66
+跑一遍	pao yi bian	9
+切比雪夫	qie bi xue fu	93
+三分	san fen	99
+散链表	san lian biao	48
+三维数组	san wei shu zu	20
+深度优先搜索	shen du you xian sou suo	81
+实例化	shi li hua	34
+输入输出流	shu ru shu chu liu	110
+数组	shu zu	106
+死递归	si di gui	2
+四维数组	si wei shu zu	19
+死循环	si xun huan	3
+私有	si you	29
+搜索	sou suo	41
+算法头文件	suan fa tou wen jian	112
+贪心	tan xin	44
+桶排	tong pai	62
+头文件	tou wen jian	113
+图灵	tu ling	95
+万能头	wan neng tou	114
+完全二叉树	wan quan er cha shu	72
+五维数组	wu wei shu zu	18
+无向非连通图	wu xiang fei lian tong tu	84
+无向连通图	wu xiang lian tong tu	85
+无向无环图	wu xiang wu huan tu	82
+系统	xi tong	10
+小根堆	xiao gen dui	52
+虚函数	xu han shu	26
+循环	xun huan	22
+严格次短路	yan ge ci duan lu	90
+野指针	ye zhi zhen	46
+叶子结点	ye zi jie dian	68
+引入	yin ru	116
+优先队列	you xian dui lie	51
+有向非连通图	you xiang fei lian tong tu	86
+有向连通图	you xiang lian tong tu	87
+有向无环图	you xiang wu huan tu	89
+有向有环图	you xiang you huan tu	83
+友元	you yuan	30
+友元类	you yuan lei	31
+云端	yun duan	11
+指针	zhi zhen	47
+字符	zi fu	109
+字符串	zi fu chuan	108
+字符数组	zi fu shu zu	107
+子类	zi lei	24
+子叶节点	zi ye jie dian	71
+祖先	zu xian	67
+最短路	zui duan lu	92

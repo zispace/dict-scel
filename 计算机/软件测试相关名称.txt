@@ -1,0 +1,51 @@
+# 文件名：软件测试相关名称.scel
+# 词库名：软件测试相关名称
+# 词库分类：其他
+# 词库描述：
+# 词条样例：白盒测试 灰盒测试 单元测试 集成测试 验收测试 需求设计说明书
+# 词条数量：44
+
+白盒测试	bai he ce shi	41
+边界值分析法	bian jie zhi fen xi fa	24
+测试用例	ce shi yong li	27
+场景法	chang jing fa	19
+程序编码	cheng xu bian ma	10
+错误推测法	cuo wu tui ce fa	21
+代码评审	dai ma ping shen	31
+单元测试	dan yuan ce shi	39
+等价类划分法	deng jia lei hua fen fa	25
+覆盖测试	fu gai ce shi	29
+概要设计说明书	gai yao she ji shuo ming shu	33
+黑盒测试	hei he ce shi	42
+灰盒测试	hui he ce shi	40
+集成测试	ji cheng ce shi	38
+基于	ji yu	30
+结构测试	jie gou ce shi	28
+决策表法	jue ce biao fa	22
+路径覆盖	lu jing fu gai	3
+模块接口测试	mo kuai jie kou ce shi	1
+判定覆盖	pan ding fu gai	5
+强健壮等价类	qiang jian zhuang deng jia lei	15
+强一般等价类	qiang yi ban deng jia lei	17
+确认测试	que ren ce shi	37
+软件测试	ruan jian ce shi	44
+软件缺陷	ruan jian que xian	26
+软件设计	ruan jian she ji	11
+软件停用	ruan jian ting yong	7
+软件维护	ruan jian wei hu	8
+软件运行	ruan jian yun xing	9
+弱健壮等价类	ruo jian zhuang deng jia lei	14
+弱一般等价类	ruo yi ban deng jia lei	16
+生命周期	sheng ming zhou qi	43
+条件覆盖	tiao jian fu gai	4
+系统测试	xi tong ce shi	36
+详细设计说明书	xiang xi she ji shuo ming shu	34
+需求分析定义	xu qiu fen xi ding yi	12
+需求设计说明书	xu qiu she ji shuo ming shu	32
+循环覆盖	xun huan fu gai	2
+验收测试	yan shou ce shi	35
+因果图法	yin guo tu fa	23
+语句覆盖	yu ju fu gai	6
+正交试验法	zheng jiao shi yan fa	20
+制定计划	zhi ding ji hua	13
+状态迁移法	zhuang tai qian yi fa	18

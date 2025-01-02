@@ -1,0 +1,35 @@
+# 文件名：编程语言.scel
+# 词库名：编程语言
+# 词库分类：软件
+# 词库描述：
+# 词条样例：函数式 成员 成员函数 析构函数 类变量 实例变量
+# 词条数量：28
+
+变量	bian liang	15
+常量	chang liang	16
+成员	cheng yuan	24
+成员方法	cheng yuan fang fa	21
+成员函数	cheng yuan han shu	22
+成员属性	cheng yuan shu xing	23
+初始化	chu shi hua	9
+代理模式	dai li mo shi	5
+第一类对象	di yi lei dui xiang	7
+方法	fang fa	8
+访问器	fang wen qi	19
+构造函数	gou zao han shu	18
+哈希	ha xi	6
+函数式	han shu shi	26
+局部变量	ju bu bian liang	12
+类变量	lei bian liang	14
+鲁棒性	lu bang xing	1
+面向对象	mian xiang dui xiang	28
+面向过程	mian xiang guo cheng	27
+全局变量	quan ju bian liang	11
+实例	shi li	25
+实例变量	shi li bian liang	13
+属性	shu xing	20
+属性代理	shu xing dai li	2
+伪变量	wei bian liang	10
+委托代理	wei tuo dai li	4
+析构函数	xi gou han shu	17
+协程	xie cheng	3

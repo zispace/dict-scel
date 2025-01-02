@@ -1,0 +1,400 @@
+# 文件名：AutoCAD词汇.scel
+# 词库名：AutoCAD词汇
+# 词库分类：软件
+# 词库描述：
+# 词条样例：通道 窗口 贝塞尔曲线 不透明贴图 快速查看工具
+# 词条数量：393
+
+按钮菜单	an niu cai dan	173
+凹凸贴图	ao tu tie tu	347
+半透明度	ban tou ming du	329
+贝塞尔曲线	bei sai er qu xian	389
+比例图示	bi li tu shi	130
+边修改器	bian xiu gai qi	41
+标高	biao gao	137
+表格打断	biao ge da duan	59
+表格样式	biao ge yang shi	58
+标记	biao ji	139
+标记集	biao ji ji	138
+标签块	biao qian kuai	140
+标注变量	biao zhu bian liang	144
+标注块	biao zhu kuai	143
+标注文字	biao zhu wen zi	142
+标注样式	biao zhu yang shi	141
+别名	bie ming	343
+部分自定义文件	bu fen zi ding yi wen jian	23
+布局	bu ju	213
+布局视口	bu ju shi kou	212
+不透明贴图	bu tou ming tie tu	380
+捕捉分辨率	bu zhuo fen bian lv	172
+捕捉角度	bu zhuo jiao du	169
+捕捉模式	bu zhuo mo shi	170
+捕捉栅格	bu zhuo shan ge	171
+菜单浏览器	cai dan liu lan qi	62
+采样	cai yang	22
+参考底图	can kao di tu	319
+参数	can shu	322
+参数集	can shu ji	321
+参照	can zhao	320
+插件	cha jian	162
+查寻表	cha xun biao	147
+查寻特性	cha xun te xing	148
+插值点	cha zhi dian	161
+常规特性	chang gui te xing	211
+尺寸线圆弧	chi cun xian yuan hu	229
+呎烛光	chi zhu guang	304
+重画	chong hua	20
+初始环境	chu shi huan jing	344
+窗交选择	chuang jiao xuan ze	91
+窗口	chuang kou	391
+窗口选择	chuang kou xuan ze	90
+垂直功能区	chui zhi gong neng qu	269
+粗糙度	cu cao du	83
+存回	cun hui	243
+大控制盘	da kong zhi pan	254
+打印样式	da yin yang shi	191
+打印样式表	da yin yang shi biao	190
+代理对象	dai li dui xiang	370
+单个控制盘	dan ge kong zhi pan	328
+单元	dan yuan	327
+单元边界	dan yuan bian jie	325
+单元样式	dan yuan yang shi	326
+当前图形	dang qian tu xing	199
+导向曲线	dao xiang qu xian	231
+灯具	deng ju	117
+等轴测捕捉样式	deng zhou ce bu zhuo yang shi	86
+地理标高	di li biao gao	278
+地理标记	di li biao ji	279
+地面下	di mian xia	277
+地平面	di ping mian	280
+点标记	dian biao ji	116
+点过滤器	dian guo lv qi	115
+电子图形集	dian zi tu xing ji	104
+顶点	ding dian	7
+定义表	ding yi biao	240
+定义点	ding yi dian	241
+冻结	dong jie	349
+动作	dong zuo	337
+动作宏	dong zuo hong	336
+动作宏文件	dong zuo hong wen jian	335
+动作树	dong zuo shu	334
+抖动	dou dong	184
+对齐标注	dui qi biao zhu	232
+对象	dui xiang	235
+对象捕捉模式	dui xiang bu zhuo mo shi	233
+对象捕捉替代	dui xiang bu zhuo ti dai	234
+多边形窗口选择	duo bian xing chuang kou xuan ze	257
+多重引线	duo chong yin xian	256
+多段体	duo duan ti	259
+多段线	duo duan xian	258
+多页	duo ye	255
+法线	fa xian	127
+反射度	fan she du	316
+反射色	fan she se	315
+反射贴图	fan she tie tu	314
+范围	fan wei	65
+反向查寻	fan xiang cha xun	317
+反走样	fan zou yang	313
+仿射校准	fang she jiao zhun	369
+放样曲面	fang yang qu mian	158
+放样实体	fang yang shi ti	159
+非关联标注	fei guan lian biao zhu	11
+分解	fen jie	346
+分解的标注	fen jie de biao zhu	345
+浮动面板	fu dong mian ban	121
+浮动视口	fu dong shi kou	122
+符号	fu hao	89
+符号表	fu hao biao	87
+符号库	fu hao ku	88
+复合实体	fu he shi ti	261
+辅助表格碎片	fu zhu biao ge sui pian	43
+个性化	ge xing hua	377
+工具	gong ju	217
+工具栏	gong ju lan	215
+工具提示	gong ju ti shi	216
+工具消息	gong ju xiao xi	214
+功能区	gong neng qu	340
+功能区面板	gong neng qu mian ban	338
+功能区选项卡	gong neng qu xuan xiang ka	339
+工作集	gong zuo ji	218
+工作空间	gong zuo kong jian	219
+工作平面	gong zuo ping mian	220
+工作图形	gong zuo tu xing	221
+构造平面	gou zao ping mian	149
+孤岛	gu dao	242
+古氏着色	gu shi zhuo se	312
+关键点	guan jian dian	350
+关联标注	guan lian biao zhu	351
+关联填充	guan lian tian chong	352
+光标	guang biao	359
+光标菜单	guang biao cai dan	358
+光度控制光源	guang du kong zhi guang yuan	360
+光通量	guang tong liang	354
+光线跟踪	guang xian gen zong	357
+光线跟踪阴影	guang xian gen zong yin ying	356
+光线轮廓	guang xian lun kuo	355
+光子贴图	guang zi tie tu	361
+过程化材质	guo cheng hua cai zhi	39
+过滤器	guo lv qi	40
+合并	he bing	307
+横截面	heng jie mian	132
+厚度	hou du	324
+后向面	hou xiang mian	306
+滑出面板	hua chu mian ban	120
+幻灯库	huan deng ku	203
+幻灯文件	huan deng wen jian	202
+环境变量	huan jing bian liang	109
+环境光	huan jing guang	110
+环境色	huan jing se	108
+环境贴图	huan jing tie tu	107
+环形阵列	huan xing zhen lie	106
+回放	hui fang	298
+回放前的图形环境	hui fang qian de tu xing huan jing	297
+绘图区域	hui tu qu yu	76
+获取标记	huo qu biao ji	64
+获取的点	huo qu de dian	63
+基本工具提示	ji ben gong ju ti shi	268
+基本控制盘	ji ben kong zhi pan	267
+基点	ji dian	266
+几何图形	ji he tu xing	348
+激活	ji huo	118
+基线	ji xian	265
+基线标注	ji xian biao zhu	264
+基线间隙	ji xian jian xi	263
+极轴追踪	ji zhou zhui zong	150
+夹点	jia dian	252
+夹点工具	jia dian gong ju	251
+夹点模式	jia dian mo shi	250
+剪裁平面	jian cai ping mian	341
+间接凹凸度	jian jie ao tu du	15
+间接发光	jian jie fa guang	14
+箭头	jian tou	85
+脚本文件	jiao ben wen jian	73
+角度标注	jiao du biao zhu	49
+角度单位	jiao du dan wei	50
+焦距	jiao ju	113
+节点	jie dian	66
+解冻	jie dong	48
+界面元素	jie mian yuan su	102
+界限	jie xian	103
+近似点	jin si dian	37
+镜面反射	jing mian fan she	16
+镜像	jing xiang	17
+句柄	ju bing	311
+矩形打断	ju xing da duan	94
+绝对坐标	jue dui zuo biao	75
+可固定窗口	ke gu ding chuang kou	310
+可见性模式	ke jian xing mo shi	309
+可见性状态	ke jian xing zhuang tai	308
+空间索引	kong jian suo yin	92
+孔斯片	kong si pian	246
+空选择集	kong xuan ze ji	93
+控制点	kong zhi dian	167
+控制框	kong zhi kuang	168
+控制盘	kong zhi pan	166
+控制盘按钮	kong zhi pan an niu	165
+控制盘表面	kong zhi pan biao mian	164
+库搜索路径	ku sou suo lu jing	392
+块编写工具	kuai bian xie gong ju	271
+块编写选项板	kuai bian xie xuan xiang ban	270
+块参照	kuai can zhao	275
+块定义	kuai ding yi	274
+块定义表	kuai ding yi biao	273
+快捷菜单	kuai jie cai dan	196
+快捷键	kuai jie jian	195
+块实例	kuai shi li	272
+快速查看工具	kuai su cha kan gong ju	386
+快速查看图像	kuai su cha kan tu xiang	193
+快照	kuai zhao	194
+宽高比	kuan gao bi	236
+扩展工具提示	kuo zhan gong ju ti shi	188
+拉伸	la shen	181
+拉伸框	la shen kuang	180
+勒克斯	le ke si	333
+类别	lei bie	84
+链动作	lian dong zuo	19
+链接	lian jie	18
+连续标注	lian xu biao zhu	36
+亮度	liang du	372
+亮显相关性	liang xian xiang guan xing	371
+临时文件	lin shi wen jian	376
+流明	liu ming	123
+路径曲线	lu jing qu xian	45
+录制的值	lu zhi de zhi	198
+轮廓曲线	lun kuo qu xian	44
+螺旋	luo xuan	60
+漫射色	man she se	119
+面颜色模式	mian yan se mo shi	9
+面样式	mian yang shi	10
+命令行	ming ling hang	303
+命名对象	ming ming dui xiang	302
+命名范围	ming ming fan wei	301
+命名路径	ming ming lu jing	299
+命名视图	ming ming shi tu	300
+默认光源	mo ren guang yuan	2
+默认图形	mo ren tu xing	1
+默认值	mo ren zhi	3
+模式	mo shi	133
+模型	mo xing	136
+模型空间	mo xing kong jian	135
+模型视口	mo xing shi kou	134
+拟合点	ni he dian	177
+拟合公差	ni he gong cha	178
+平滑着色	ping hua zhuo se	208
+平面视图	ping mian shi tu	204
+平面投影	ping mian tou ying	205
+平铺视口	ping pu shi kou	206
+平曲面	ping qu mian	209
+平移	ping yi	207
+平整面	ping zheng mian	210
+企业自定义文件	qi ye zi ding yi wen jian	368
+嵌入	qian ru	222
+前向面	qian xiang mian	342
+请求用户输入	qing qiu yong hu shu ru	47
+曲面法线	qu mian fa xian	152
+区域覆盖对象	qu yu fu gai dui xiang	332
+全局照明	quan ju zhao ming	353
+三维视图	san wei shi tu	383
+三轴架	san zhou jia	382
+扫掠曲面	sao lue qu mian	186
+扫掠实体	sao lue shi ti	187
+色表	se biao	67
+栅格	shan ge	146
+栅格界限	shan ge jie xian	145
+上下文选项卡	shang xia wen xuan xiang ka	381
+视点	shi dian	52
+世界坐标	shi jie zuo biao	379
+世界坐标系	shi jie zuo biao xi	378
+十进制度数	shi jin zhi du shu	330
+视觉样式	shi jue yang shi	51
+视口	shi kou	56
+视口配置	shi kou pei zhi	55
+矢量	shi liang	95
+拾取键	shi qu jian	176
+实体对象	shi ti dui xiang	237
+实体历史记录	shi ti li shi ji lu	239
+实体图元	shi ti tu yuan	238
+视图	shi tu	54
+视图类别	shi tu lei bie	53
+十字光标	shi zi guang biao	331
+首次使用气泡	shou ci shi yong qi pao	384
+数据链接	shu ju lian jie	156
+输入特性	shu ru te xing	42
+属性标记	shu xing biao ji	223
+属性定义	shu xing ding yi	227
+属性提取文件	shu xing ti qu wen jian	226
+属性提取样板文件	shu xing ti qu yang ban wen jian	225
+属性提示	shu xing ti shi	224
+属性值	shu xing zhi	228
+数值集	shu zhi ji	157
+衰减	shuai jian	57
+双面材质	shuang mian cai zhi	318
+水平功能区	shui ping gong neng qu	129
+水平基线	shui ping ji xian	128
+搜索标记	sou suo biao ji	160
+速博应用中心	su bo ying yong zhong xin	24
+素线	su xian	81
+缩放	suo fang	74
+特征控制框	te zheng kong zhi kuang	111
+体积阴影	ti ji yin ying	366
+提示	ti shi	163
+填充	tian chong	262
+天空	tian kong	253
+通道	tong dao	393
+通过宏导出的选择	tong guo hong dao chu de xuan ze	25
+透明度	tou ming du	27
+透明命令	tou ming ming ling	28
+透射度	tou she du	29
+透视图	tou shi tu	26
+投影线	tou ying xian	185
+图标	tu biao	387
+图层	tu ceng	296
+图层平移映射	tu ceng ping yi ying she	295
+图层索引	tu ceng suo yin	294
+图钉	tu ding	281
+图形窗口	tu xing chuang kou	289
+图形范围	tu xing fan wei	288
+图形集	tu xing ji	287
+图形界限	tu xing jie xian	290
+图形区	tu xing qu	293
+图形样板	tu xing yang ban	292
+图形状态	tu xing zhuang tai	291
+图纸	tu zhi	286
+图纸集	tu zhi ji	282
+图纸空间	tu zhi kong jian	284
+图纸列表	tu zhi lie biao	285
+图纸选择	tu zhi xuan ze	283
+拖引线	tuo yin xian	179
+外部参照	wai bu can zhao	260
+弯箭头	wan jian tou	200
+位图	wei tu	367
+纹理贴图	wen li tie tu	80
+文字样式	wen zi yang shi	155
+无名块	wu ming kuai	154
+系统变量	xi tong bian liang	82
+线宽	xian kuan	78
+线框模型	xian kuang mo xing	77
+线型	xian xing	79
+先选择后执行	xian xuan ze hou zhi xing	362
+相对坐标	xiang dui zuo biao	100
+相机	xiang ji	99
+相机目标	xiang ji mu biao	98
+相邻单元选择	xiang lin dan yuan xuan ze	97
+向上方向	xiang shang fang xiang	305
+小控制盘	xiao kong zhi pan	230
+性能调节	xing neng tiao jie	192
+虚屏显示	xu ping xian shi	61
+选择集	xuan ze ji	30
+选择节点	xuan ze jie dian	31
+选择栏	xuan ze lan	32
+选择敏感度	xuan ze min gan du	33
+循环外部参照	xun huan wai bu can zhao	197
+颜色饱和度	yan se bao he du	4
+样条曲线	yang tiao qu xian	390
+页面设置	ye mian she zhi	8
+依赖符号	yi lai fu hao	364
+依赖命名对象	yi lai ming ming dui xiang	365
+引线尾部	yin xian wei bu	201
+阴影贴图	yin ying tie tu	13
+用户坐标系	yong hu zuo biao xi	105
+预先选择	yu xian xuan ze	6
+预先选择集	yu xian xuan ze ji	5
+原点	yuan dian	323
+运动路径	yun dong lu jing	38
+照度	zhao du	112
+折返	zhe fan	182
+折射	zhe she	183
+阵列	zhen lie	12
+真实照片级渲染	zhen shi zhao pian ji xuan ran	96
+正交	zheng jiao	131
+正交模式	zheng jiao mo shi	385
+值节点	zhi jie dian	363
+直接距离输入	zhi jie ju li shu ru	101
+指南针	zhi nan zhen	175
+智能显示	zhi neng xian shi	153
+执行对象捕捉	zhi xing dui xiang bu zhuo	189
+指针	zhi zhen	174
+重生成	zhong sheng cheng	21
+主表格碎片	zhu biao ge sui pian	374
+烛光	zhu guang	114
+注释	zhu shi	126
+注释比例	zhu shi bi li	124
+主视图	zhu shi tu	373
+注释性	zhu shi xing	125
+主自定义文件	zhu zi ding yi wen jian	375
+追踪	zhui zong	35
+追踪菜单	zhui zong cai dan	34
+自定义对象	zi ding yi dui xiang	70
+自定义夹点	zi ding yi jia dian	71
+自定义文件	zi ding yi wen jian	72
+字段	zi duan	244
+子对象	zi dui xiang	249
+子集	zi ji	247
+自适应采样	zi shi ying cai yang	69
+自适应降级	zi shi ying jiang ji	68
+字体	zi ti	245
+子提示	zi ti shi	248
+走样	zou yang	46
+最终采集	zui zhong cai ji	151
+坐标过滤器	zuo biao guo lv qi	276
+坐标系	zuo biao xi	388

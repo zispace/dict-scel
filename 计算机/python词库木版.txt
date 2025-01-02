@@ -1,0 +1,205 @@
+# 文件名：python词库木版.scel
+# 词库名：python麓脢驴芒脛戮掳忙
+# 词库分类：脝盲脣没
+# 词库描述：
+# 词条样例：响应状态码 响应文本内容 创建一个范围数组 获取数据帧中的某一列 按某列分组数据 数据可视化库
+# 词条数量：198
+
+按某列分组数据	an mou lie fen zu shu ju	184
+按钮	an niu	121
+本地时间结构	ben di shi jian jie gou	54
+本地时间结构格式化为	ben di shi jian jie gou ge shi hua wei	49
+变量	bian liang	118
+表示日期和时间的类	biao shi ri qi he shi jian de lei	67
+表示时间的类	biao shi shi jian de lei	63
+标准库	biao zhun ku	28
+并行运行多个异步任务	bing xing yun xing duo ge yi bu ren wu	158
+参数界面	can shu jie mian	119
+操作数据库	cao zuo shu ju ku	10
+操作系统平台标识符	cao zuo xi tong ping tai biao zhi fu	25
+测试用例基类	ce shi yong li ji lei	148
+常量	chang liang	117
+常用的随机数生成函数	chang yong de sui ji shu sheng cheng han shu	87
+常用函数	chang yong han shu	57
+常用类和方法	chang yong lei he fang fa	68
+重命名文件或目录	chong ming ming wen jian huo mu lu	39
+处理数据	chu li shu ju	15
+处理随机数据	chu li sui ji shu ju	88
+初始化随机数生成器	chu shi hua sui ji shu sheng cheng qi	80
+创建按钮	chuang jian an niu	172
+创建标签	chuang jian biao qian	174
+创建目录	chuang jian mu lu	44
+创建文本框	chuang jian wen ben kuang	173
+创建项目	chuang jian xiang mu	137
+创建一个表示特定日期	chuang jian yi ge biao shi te ding ri qi	64
+创建一个范围数组	chuang jian yi ge fan wei shu zu	190
+创建一个时间间隔对象	chuang jian yi ge shi jian jian ge dui xiang	58
+创建一个数据帧	chuang jian yi ge shu ju zhen	188
+创建一个数组	chuang jian yi ge shu zu	194
+创建一个特定日期对象	chuang jian yi ge te ding ri qi dui xiang	59
+创建一个新进程	chuang jian yi ge xin jin cheng	167
+创建一个新线程	chuang jian yi ge xin xian cheng	164
+创建一个异步任务	chuang jian yi ge yi bu ren wu	159
+创建应用	chuang jian ying yong	143
+创建指定形状全零数组	chuang jian zhi ding xing zhuang quan ling shu zu	193
+创建指定形状全一数组	chuang jian zhi ding xing zhuang quan yi shu zu	192
+创建指定形状随机数组	chuang jian zhi ding xing zhuang sui ji shu zu	191
+创建主窗口	chuang jian zhu chuang kou	175
+从列表随机选一个元素	cong lie biao sui ji xuan yi ge yuan su	74
+从文件中读取数据	cong wen jian zhong du qu shu ju	11
+从序列中随机选择元素	cong xu lie zhong sui ji xuan ze yuan su	84
+从总体随机选唯一元素	cong zong ti sui ji xuan wei yi yuan su	82
+存放模板文件	cun fang mu ban wen jian	133
+打包	da bao	124
+单元测试框架	dan yuan ce shi kuang jia	149
+当前时间的时间戳	dang qian shi jian de shi jian chuo	56
+导入模块或库	dao ru mo kuai huo ku	22
+等待线程结束	deng dai xian cheng jie shu	162
+等待异步操作完成	deng dai yi bu cao zuo wan cheng	157
+递归创建目录	di gui chuang jian mu lu	43
+递归删除目录	di gui shan chu mu lu	40
+定义路由	ding yi lu you	142
+定义模型	ding yi mo xing	135
+定义视图函数	ding yi shi tu han shu	134
+断言等于	duan yan deng yu	147
+断言为	duan yan wei	146
+断言引发指定异常	duan yan yin fa zhi ding yi chang	145
+对象转换格式的字符串	dui xiang zhuan huan ge shi de zi fu chuan	14
+发送请求	fa song qing qiu	198
+返回包括和之间的整数	fan hui bao kuo he zhi jian de zheng shu	85
+返回不大于它最大整数	fan hui bu da yu ta zui da zheng shu	107
+返回不小于它最小整数	fan hui bu xiao yu ta zui xiao zheng shu	106
+返回当前工作目录路径	fan hui dang qian gong zuo mu lu lu jing	45
+返回当前日期和时间	fan hui dang qian ri qi he shi jian	66
+返回它的次幂	fan hui ta de ci mi	114
+返回它的阶乘	fan hui ta de jie cheng	108
+返回它的平方根	fan hui ta de ping fang gen	115
+返回它的正切值	fan hui ta de zheng qie zhi	111
+返回它的正弦余弦	fan hui ta de zheng xian yu xian	112
+返回它以某为底的对数	fan hui ta yi mou wei di de dui shu	113
+返回之间的随机浮点数	fan hui zhi jian de sui ji fu dian shu	86
+方位	fang wei	125
+根据模式分割字符串	gen ju mo shi fen ge zi fu chuan	16
+函数	han shu	90
+回滚数据库事务	hui gun shu ju ku shi wu	2
+绘制散点图	hui zhi san dian tu	180
+绘制条形图	hui zhi tiao xing tu	179
+绘制折线图	hui zhi zhe xian tu	181
+获取查询结果的下一行	huo qu cha xun jie guo de xia yi hang	4
+获取当前本地时间结构	huo qu dang qian ben di shi jian jie gou	50
+获取当前工作目录	huo qu dang qian gong zuo mu lu	35
+获取当前日期	huo qu dang qian ri qi	60
+获取当前日期和时间	huo qu dang qian ri qi he shi jian	61
+获取当前时间戳	huo qu dang qian shi jian chuo	52
+获取数据帧中的某一列	huo qu shu ju zhen zhong de mou yi lie	185
+获取所有查询结果	huo qu suo you cha xun jie guo	5
+记录错误消息	ji lu cuo wu xiao xi	151
+记录警告消息	ji lu jing gao xiao xi	152
+记录调试信息	ji lu tiao shi xin xi	154
+记录信息性消息	ji lu xin xi xing xiao xi	153
+记录严重错误消息	ji lu yan zhong cuo wu xiao xi	150
+计算的次幂	ji suan de ci mi	98
+计算对数	ji suan dui shu	97
+计算平方根	ji suan ping fang gen	102
+计算输入角度的正弦值	ji suan shu ru jiao du de zheng xian zhi	99
+计算正弦值	ji suan zheng xian zhi	100
+将对象写入文件	jiang dui xiang xie ru wen jian	12
+将弧度转换为角度	jiang hu du zhuan huan wei jiao du	109
+将角度转换为弧度	jiang jiao du zhuan huan wei hu du	110
+将列表元素随机排序	jiang lie biao yuan su sui ji pai xu	72
+将数据帧保存为文件	jiang shu ju zhen bao cun wei wen jian	183
+将序列中元素随机排序	jiang xu lie zhong yuan su sui ji pai xu	83
+将组件放置在网格中	jiang zu jian fang zhi zai wang ge zhong	170
+将组件添加到窗口中	jiang zu jian tian jia dao chuang kou zhong	171
+阶乘	jie cheng	94
+解释器的版本信息	jie shi qi de ban ben xin xi	24
+居中	ju zhong	126
+楷体	kai ti	128
+科学计算库	ke xue ji suan ku	195
+连接到指定数据库	lian jie dao zhi ding shu ju ku	9
+连接对象	lian jie dui xiang	8
+列出指定目录中的	lie chu zhi ding mu lu zhong de	33
+命令行参数	ming ling hang can shu	1
+命令行参数列表	ming ling hang can shu lie biao	27
+模块	mo kuai	69
+模块日志记录库	mo kuai ri zhi ji lu ku	156
+模块子进程管理库	mo kuai zi jin cheng guan li ku	169
+内置的用户认证系统	nei zhi de yong hu ren zheng xi tong	132
+判断路径是否为目录	pan duan lu jing shi fou wei mu lu	36
+判断路径是否为文件	pan duan lu jing shi fou wei wen jian	37
+判断文件或目录存在否	pan duan wen jian huo mu lu cun zai fou	38
+配置日志记录器	pei zhi ri zhi ji lu qi	155
+启动开发服务器	qi dong kai fa fu wu qi	136
+启动线程	qi dong xian cheng	163
+起始位置匹配	qi shi wei zhi pi pei	19
+切换到指定目录	qie huan dao zhi ding mu lu	34
+轻量级框架	qing liang ji kuang jia	144
+请求对象	qing qiu dui xiang	141
+全功能框架	quan gong neng kuang jia	138
+让程序休眠指定的秒数	rang cheng xu xiu mian zhi ding de miao shu	55
+日期运算格式化	ri qi yun suan ge shi hua	48
+扫描字符串找到匹配项	sao miao zi fu chuan zhao dao pi pei xiang	18
+删除目录	shan chu mu lu	41
+删除文件	shan chu wen jian	42
+设置标题	she zhi biao ti	123
+设置图表标题	she zhi tu biao biao ti	177
+设置轴标签	she zhi zhou biao qian	178
+生成随机数	sheng cheng sui ji shu	89
+生成之间的随机浮点数	sheng cheng zhi jian de sui ji fu dian shu	79
+生成之间的随机整数	sheng cheng zhi jian de sui ji zheng shu	77
+时间戳格式化	shi jian chuo ge shi hua	46
+示例用法	shi li yong fa	103
+输出	shu chu	101
+输出到的浮点数	shu chu dao de fu dian shu	75
+输出到的整数	shu chu dao de zheng shu	76
+输出随机的浮点数	shu chu sui ji de fu dian shu	78
+输出唯一的元素的列表	shu chu wei yi de yuan su de lie biao	70
+输出中的一个元素	shu chu zhong de yi ge yuan su	73
+数据分析库	shu ju fen xi ku	189
+数据可视化库	shu ju ke shi hua ku	182
+输入	shu ru	120
+数学函数	shu xue han shu	116
+搜索路径	sou suo lu jing	23
+随机排序	sui ji pai xu	71
+它的阶乘输出	ta de jie cheng shu chu	93
+提交数据库事务	ti jiao shu ju ku shi wu	3
+图形用户界面库	tu xing yong hu jie mian ku	176
+退出程序	tui chu cheng xu	26
+文本背景颜色	wen ben bei jing yan se	130
+文本框	wen ben kuang	122
+文字	wen zi	131
+文字颜色	wen zi yan se	129
+线程库	xian cheng ku	165
+显示数据帧的前几行	xian shi shu ju zhen de qian ji hang	187
+显示数据帧的统计信息	xian shi shu ju zhen de tong ji xin xi	186
+向上取整	xiang shang qu zheng	92
+向下取整	xiang xia qu zheng	91
+响应对象	xiang ying dui xiang	140
+响应文本内容	xiang ying wen ben nei rong	196
+响应状态码	xiang ying zhuang tai ma	197
+休眠秒	xiu mian miao	51
+休眠时间格式化	xiu mian shi jian ge shi hua	47
+渲染模板并传递变量	xuan ran mu ban bing chuan di bian liang	139
+异步库	yi bu ku	161
+以某为底的对数输出	yi mou wei di de dui shu shu chu	96
+用于表示日期的类	yong yu biao shi ri qi de lei	65
+用于表示时间间隔的类	yong yu biao shi shi jian jian ge de lei	62
+游标对象	you biao dui xiang	7
+与子进程进行交互	yu zi jin cheng jin xing jiao hu	166
+圆周率	yuan zhou lv	95
+圆周率约等于	yuan zhou lv yue deng yu	105
+运行异步函数	yun xing yi bu han shu	160
+这是一个程序	zhe shi yi ge cheng xu	29
+这是一个模块	zhe shi yi ge mo kuai	30
+这是一个目录	zhe shi yi ge mu lu	31
+这是一个文件	zhe shi yi ge wen jian	32
+正则表达式	zheng ze biao da shi	21
+正则表达式对象	zheng ze biao da shi dui xiang	20
+指定格式的字符串	zhi ding ge shi de zi fu chuan	53
+指定宽度	zhi ding kuan du	127
+执行系统命令	zhi xing xi tong ming ling	168
+执行语句	zhi xing yu ju	6
+种子函数	zhong zi han shu	81
+字符串解析为对象	zi fu chuan jie xi wei dui xiang	13
+字符串中的模式匹配项	zi fu chuan zhong de mo shi pi pei xiang	17
+自然对数的底约等于	zi ran dui shu de di yue deng yu	104

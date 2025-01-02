@@ -1,0 +1,85 @@
+# 文件名：java词语.scel
+# 词库名：java词语
+# 词库分类：其他
+# 词库描述：
+# 词条样例：跨平台 开发 编译 多行注释 标识符 命名规范
+# 词条数量：78
+
+包名	bao ming	52
+本地方法栈	ben di fang fa zhan	42
+比较运算符	bi jiao yun suan fu	34
+编程语言	bian cheng yu yan	76
+遍历	bian li	12
+变量	bian liang	55
+编译	bian yi	69
+标识符	biao zhi fu	61
+布尔常量	bu er chang liang	47
+参数列表	can shu lie biao	19
+常量	chang liang	53
+成员变量	cheng yuan bian liang	5
+重载	chong zai	16
+初始化	chu shi hua	14
+初始状态	chu shi zhuang tai	2
+单行注释	dan xing zhu shi	66
+调用	diao yong	17
+堆内存	dui nei cun	40
+多行注释	duo hang zhu shi	65
+多态	duo tai	9
+返回值类型	fan hui zhi lei xing	20
+泛型	fan xing	71
+方法	fang fa	54
+方法区	fang fa qu	39
+方法体	fang fa ti	18
+分支结构	fen zhi jie gou	28
+封装	feng zhuang	11
+赋值运算符	fu zhi yun suan fu	33
+构造方法	gou zao fang fa	6
+关键字	guan jian zi	63
+环境变量	huan jing bian liang	68
+基本数据类型	ji ben shu ju lei xing	51
+继承	ji cheng	10
+寄存器	ji cun qi	43
+键盘输入	jian pan shu ru	29
+接口名	jie kou ming	58
+局部变量	ju bu bian liang	4
+开发	kai fa	74
+空常量	kong chang liang	45
+跨平台	kua ping tai	77
+类名	lei ming	59
+逻辑运算符	luo ji yun suan fu	32
+枚举	mei ju	56
+枚举名称	mei ju ming cheng	57
+面向对象	mian xiang dui xiang	78
+命名规范	ming ming gui fan	60
+匿名对象	ni ming dui xiang	1
+判断语句	pan duan yu ju	27
+配置	pei zhi	67
+嵌套循环	qian tao xun huan	22
+三元运算符	san yuan yun suan fu	31
+生命周期	sheng ming zhou qi	3
+数据类型	shu ju lei xing	44
+属性	shu xing	8
+数组	shu zu	15
+死循环	si xun huan	24
+算术运算符	suan shu yun suan fu	36
+跳转语句	tiao zhuan yu ju	23
+万国码	wan guo ma	38
+位移运算符	wei yi yun suan fu	30
+文档注释	wen dang zhu shi	64
+小数常量	xiao shu chang liang	49
+行为	xing wei	7
+修饰符	xiu shi fu	21
+选择语句	xuan ze yu ju	26
+循环结构	xun huan jie gou	25
+异常	yi chang	13
+移动端	yi dong duan	73
+预留关键字	yu liu guan jian zi	62
+源代码	yuan dai ma	70
+运算符	yun suan fu	37
+詹姆斯高斯林	zhan mu si gao si lin	72
+栈内存	zhan nei cun	41
+整数常量	zheng shu chang liang	50
+支持泛型	zhi chi fan xing	75
+字符常量	zi fu chang liang	48
+字符串常量	zi fu chuan chang liang	46
+自增自减运算符	zi zeng zi jian yun suan fu	35

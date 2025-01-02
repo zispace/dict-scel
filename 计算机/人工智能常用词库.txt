@@ -1,0 +1,744 @@
+# 文件名：人工智能常用词库.scel
+# 词库名：人工智能常用词库
+# 词库分类：人工智能
+# 词库描述：
+# 词条样例：鞍点 包外估计 闭式 半监督支持向量机 贝叶斯决策论
+# 词条数量：737
+
+鞍点	an dian	737
+奥卡姆剃刀	ao ka mu ti dao	736
+版本空间	ban ben kong jian	735
+半监督学习	ban jian du xue xi	734
+半监督支持向量机	ban jian du zhi chi xiang liang ji	733
+半朴素贝叶斯分类器	ban pu su bei ye si fen lei qi	732
+包外估计	bao wai gu ji	731
+背包问题	bei bao wen ti	246
+贝叶斯决策论	bei ye si jue ce lun	730
+贝叶斯模型平均	bei ye si mo xing ping jun	729
+贝叶斯判定准则	bei ye si pan ding zhun ze	728
+贝叶斯网络	bei ye si wang luo	727
+贝叶斯最优分类器	bei ye si zui you fen lei qi	726
+比例选择模型	bi li xuan ze mo xing	245
+闭式	bi shi	725
+边重组交叉	bian chong zu jiao cha	243
+变分推断	bian fen tui duan	720
+边际独立性	bian ji du li xing	724
+边际分布	bian ji fen bu	723
+边际化	bian ji hua	722
+边界变异	bian jie bian yi	244
+编码矩阵	bian ma ju zhen	721
+变异	bian yi	242
+变异概率	bian yi gai lv	241
+变异频率	bian yi pin lv	240
+变异算子	bian yi suan zi	239
+标记	biao ji	57
+标记代价	biao ji dai jia	56
+标记化	biao ji hua	719
+标记空间	biao ji kong jian	718
+标签	biao qian	55
+表示定理	biao shi ding li	717
+表征	biao zheng	237
+表征学习	biao zheng xue xi	716
+标准型并行方法	biao zhun xing bing xing fang fa	238
+并行性	bing xing xing	236
+并行遗传算法	bing xing yi chuan suan fa	235
+玻尔兹曼机	bo er zi man ji	715
+博弈论	bo yi lun	714
+布尔概念学习	bu er gai nian xue xi	54
+部分匹配交叉	bu fen pi pei jiao cha	234
+部分映射交叉	bu fen ying she jiao cha	233
+不合度量	bu he du liang	713
+不敏感损失	bu min gan sun shi	712
+采样	cai yang	711
+残差网络	can cha wang luo	707
+残差映射	can cha ying she	706
+参考模型	can kao mo xing	710
+参数	can shu	709
+参数估计	can shu gu ji	708
+参数调节	can shu tiao jie	53
+测试	ce shi	52
+测试代价	ce shi dai jia	51
+测试函数	ce shi han shu	232
+测试集	ce shi ji	50
+测试示例	ce shi shi li	49
+测试试例	ce shi shi li	48
+测试误差	ce shi wu cha	47
+测试样本	ce shi yang ben	46
+层次聚类	ceng ci ju lei	705
+查全率	cha quan lv	704
+差异性度量	cha yi xing du liang	702
+查准率	cha zhun lv	703
+长短期记忆	chang duan qi ji yi	290
+超参数	chao can shu	701
+超立方体	chao li fang ti	231
+超限学习机	chao xian xue xi ji	700
+成本函数	cheng ben han shu	699
+成本矩阵	cheng ben ju zhen	698
+成本敏感	cheng ben min gan	697
+成本曲线	cheng ben qu xian	696
+成对马尔可夫性	cheng dui ma er ke fu xing	695
+成对型	cheng dui xing	694
+乘幂尺度变换	cheng mi chi du bian huan	230
+池化	chi hua	693
+初始群体	chu shi qun ti	229
+纯合子	chun he zi	228
+词块	ci kuai	227
+词嵌入	ci qian ru	692
+词性标注	ci xing biao zhu	691
+词义消歧	ci yi xiao qi	690
+簇间相似度	cu jian xiang si du	689
+粗粒度并行遗传算法	cu li du bing xing yi chuan suan fa	226
+簇内相似度	cu nei xiang si du	688
+错误率	cuo wu lv	687
+大数据	da shu ju	225
+代沟	dai gou	224
+代价敏感学习	dai jia min gan xue xi	45
+代价曲线	dai jia qu xian	44
+单倍体	dan bei ti	223
+单变量决策树	dan bian liang jue ce shu	686
+单点交叉	dan dian jiao cha	222
+单峰值函数	dan feng zhi han shu	221
+单位阶跃函数	dan wei jie yue han shu	685
+单指令流多数据流	dan zhi ling liu duo shu ju liu	220
+道德图	dao de tu	684
+倒位概率	dao wei gai lv	218
+倒位算子	dao wei suan zi	217
+岛屿模型	dao yu mo xing	219
+等度量映射	deng du liang ying she	683
+等分回归	deng fen hui gui	682
+等位基因	deng wei ji yin	216
+递归神经网络	di gui shen jing wang luo	681
+迭代二分器	die dai er fen qi	680
+动量	dong liang	679
+动态参数编码	dong tai can shu bian ma	215
+动态规划	dong tai gui hua	678
+动态融合	dong tai rong he	677
+独立成分分析	du li cheng fen fen xi	676
+独立同分布	du li tong fen bu	675
+度量学习	du liang xue xi	673
+赌盘选择	du pan xuan ze	214
+独依赖估计	du yi lai gu ji	674
+端到端	duan dao duan	672
+端正图	duan zheng tu	671
+对抗网络	dui kang wang luo	670
+对偶问题	dui ou wen ti	669
+对数几率	dui shu ji lv	668
+对数似然	dui shu si ran	667
+对数线性回归	dui shu xian xing hui gui	666
+多倍体	duo bei ti	213
+多变量线性回归	duo bian liang xian xing hui gui	43
+多参数编码	duo can shu bian ma	212
+多层感知器	duo ceng gan zhi qi	665
+多层前馈神经网络	duo ceng qian kui shen jing wang luo	664
+多点交叉	duo dian jiao cha	211
+多分类	duo fen lei	663
+多分类任务	duo fen lei ren wu	42
+多峰值函数	duo feng zhi han shu	210
+多模态函数	duo mo tai han shu	209
+多模态学习	duo mo tai xue xi	662
+多目标最优化	duo mu biao zui you hua	208
+多释原则	duo shi yuan ze	661
+多维缩放	duo wei suo fang	660
+多文档摘要	duo wen dang zhai yao	659
+多项式核函数	duo xiang shi he han shu	657
+多响应线性回归	duo xiang ying xian xing hui gui	658
+多样性度量	duo yang xing du liang	656
+多元线性回归	duo yuan xian xing hui gui	655
+多指令流多数据流	duo zhi ling liu duo shu ju liu	207
+二次学习	er ci xue xi	654
+二分法	er fen fa	653
+二分类	er fen lei	652
+二分类任务	er fen lei ren wu	41
+二进制编码基因	er jin zhi bian ma ji yin	206
+二项检验	er xiang jian yan	651
+罚函数排列	fa han shu pai lie	205
+泛化	fan hua	648
+泛化能力	fan hua neng li	38
+泛化误差	fan hua wu cha	647
+泛化误差上界	fan hua wu cha shang jie	646
+反类	fan lei	40
+反例	fan li	39
+范数	fan shu	645
+反向传播	fan xiang chuan bo	649
+翻转法	fan zhuan fa	650
+方差困境	fang cha kun jing	204
+仿射层	fang she ceng	644
+非饱和博弈	fei bao he bo yi	643
+非度量距离	fei du liang ju li	642
+非负矩阵分解	fei fu ju zhen fen jie	641
+非均等代价	fei jun deng dai jia	640
+非均匀变异	fei jun yun bian yi	203
+非凸优化	fei tu you hua	639
+非线性模型	fei xian xing mo xing	638
+分布	fen bu	637
+分布随机近邻嵌入	fen bu sui ji jin lin qian ru	202
+分层采样	fen ceng cai yang	636
+分解型并行算法	fen jie xing bing xing suan fa	201
+分类	fen lei	37
+分类器	fen lei qi	635
+分类器系统	fen lei qi xi tong	200
+分类与回归树	fen lei yu hui gui shu	634
+分离超平面	fen li chao ping mian	633
+分批标准化	fen pi biao zhun hua	199
+冯诺伊曼架构	feng nuo yi man jia gou	198
+浮点数编码	fu dian shu bian ma	197
+浮点数编码基因	fu dian shu bian ma ji yin	196
+负对数似然	fu dui shu si ran	630
+符号编码基因	fu hao bian ma ji yin	195
+符号学习	fu hao xue xi	632
+符号主义	fu hao zhu yi	631
+负类	fu lei	629
+负相关法	fu xiang guan fa	628
+改进的迭代尺度法	gai jin de die dai chi du fa	627
+概率算法	gai lv suan fa	194
+概率算子	gai lv suan zi	193
+概率图模型	gai lv tu mo xing	626
+概念漂移	gai nian piao yi	625
+概念学习系统	gai nian xue xi xi tong	624
+感知机	gan zhi ji	623
+感知器	gan zhi qi	192
+高斯变异	gao si bian yi	191
+高斯核函数	gao si he han shu	622
+高斯混合模型	gao si hun he mo xing	621
+格雷码	ge lei ma	190
+割平面法	ge ping mian fa	620
+个体	ge ti	189
+个体编码	ge ti bian ma	188
+个体学习器	ge ti xue xi qi	619
+根结点	gen jie dian	618
+功能神经元	gong neng shen jing yuan	617
+共适应	gong shi ying	616
+共现	gong xian	187
+共享函数	gong xiang han shu	186
+谷歌神经机器翻译	gu ge shen jing ji qi fan yi	185
+固有值	gu you zhi	615
+关联分析	guan lian fen xi	614
+广义拉格朗日函数	guang yi la ge lang ri han shu	613
+广义瑞利商	guang yi rui li shang	612
+广义线性模型	guang yi xian xing mo xing	611
+归纳	gui na	610
+归纳逻辑程序设计	gui na luo ji cheng xu she ji	609
+归纳偏好	gui na pian hao	608
+归纳学习	gui na xue xi	607
+归一化	gui yi hua	606
+规则学习	gui ze xue xi	605
+规则引擎	gui ze yin qing	604
+过采样	guo cai yang	599
+国际机器学习大会	guo ji ji qi xue xi da hui	603
+国际机器学习会议	guo ji ji qi xue xi hui yi	602
+国际神经信息处理系统会议	guo ji shen jing xin xi chu li xi tong hui yi	601
+国际学习理论会议	guo ji xue xi li lun hui yi	600
+过拟合	guo ni he	598
+过配	guo pei	597
+海明距离	hai ming ju li	184
+海塞矩阵	hai sai ju zhen	596
+函数最优化	han shu zui you hua	183
+核范数	he fan shu	594
+核方法	he fang fa	593
+核技巧	he ji qiao	592
+核糖核酸稳健性	he tang he suan wen jian xing	182
+核线性判别分析	he xian xing pan bie fen xi	591
+合页损失函数	he ye sun shi han shu	595
+宏查全率	hong cha quan lv	590
+宏查准率	hong cha zhun lv	589
+后剪枝	hou jian zhi	588
+后续检验	hou xu jian yan	587
+互信息	hu xin xi	586
+回归	hui gui	585
+会话代理	hui hua dai li	181
+会话智能体	hui hua zhi neng ti	584
+混合计算	hun he ji suan	583
+混合遗传算法	hun he yi chuan suan fa	180
+混合专家	hun he zhuan jia	582
+混淆矩阵	hun xiao ju zhen	581
+基本变异	ji ben bian yi	176
+基本遗传算法	ji ben yi chuan suan fa	175
+吉布斯采样	ji bu si cai yang	573
+即插即用生成网络	ji cha ji yong sheng cheng wang luo	567
+集成修剪	ji cheng xiu jian	566
+集成学习	ji cheng xue xi	565
+极大似然法	ji da si ran fa	571
+极大似然估计	ji da si ran gu ji	570
+激活函数	ji huo han shu	574
+级联相关	ji lian xiang guan	572
+几率	ji lv	563
+积木块假设	ji mu kuai jia she	177
+基尼指数	ji ni zhi shu	579
+机器翻译	ji qi fan yi	580
+机器人	ji qi ren	179
+机器学习	ji qi xue xi	178
+集群	ji qun	564
+计算成本	ji suan cheng ben	561
+计算机视觉	ji suan ji shi jue	560
+计算语言学	ji suan yu yan xue	559
+极小极大博弈	ji xiao ji da bo yi	569
+机械学习	ji xie xue xi	36
+极性检测	ji xing jian ce	568
+基学习器	ji xue xi qi	578
+基学习算法	ji xue xi suan fa	577
+挤压函数	ji ya han shu	562
+基因	ji yin	174
+基因块假设	ji yin kuai jia she	173
+基因型	ji yin xing	172
+基因隐性	ji yin yin xing	171
+基因组	ji yin zu	170
+基因座	ji yin zuo	169
+基于能量的模型	ji yu neng liang de mo xing	576
+基于委员会的学习	ji yu wei yuan hui de xue xi	575
+假反例	jia fan li	34
+假负类	jia fu lei	556
+价函数	jia han shu	168
+加权调和平均	jia quan tiao he ping jun	35
+加权投票法	jia quan tou piao fa	558
+假设	jia she	555
+假设验证	jia she yan zheng	554
+加性学习	jia xing xue xi	557
+假正类	jia zheng lei	553
+假正例	jia zheng li	33
+假正例率	jia zheng li lv	552
+监督学习	jian du xue xi	550
+间隔理论	jian ge li lun	551
+剪枝	jian zhi	549
+降维算法	jiang wei suan fa	548
+交叉	jiao cha	167
+交叉概率	jiao cha gai lv	166
+交叉熵	jiao cha shang	547
+交叉算子	jiao cha suan zi	165
+交叉验证	jiao cha yan zheng	546
+交叉验证法	jiao cha yan zheng fa	32
+校准	jiao zhun	338
+截断尺度变换	jie duan chi du bian huan	164
+截断点	jie duan dian	543
+结构风险	jie gou feng xian	545
+结构风险最小化	jie gou feng xian zui xiao hua	544
+解码	jie ma	163
+解析树	jie xi shu	542
+近端梯度下降	jin duan ti du xia jiang	541
+进化	jin hua	162
+进化策略	jin hua ce lue	161
+进化规划	jin hua gui hua	160
+进化计算	jin hua ji suan	159
+进化算法	jin hua suan fa	158
+近邻成分分析	jin lin cheng fen fen xi	540
+近似	jin si	539
+精度	jing du	31
+径向基函数	jing xiang ji han shu	534
+经验风险	jing yan feng xian	538
+经验熵	jing yan shang	537
+经验条件熵	jing yan tiao jian shang	536
+经验误差	jing yan wu cha	535
+竞争型学习	jing zheng xing xue xi	533
+纠错输出码	jiu cuo shu chu ma	532
+巨并行遗传算法	ju bing xing yi chuan suan fa	156
+局部马尔可夫性	ju bu ma er ke fu xing	531
+局部搜索	ju bu sou suo	157
+局部最小	ju bu zui xiao	530
+聚类	ju lei	527
+聚类分析	ju lei fen xi	526
+聚类集成	ju lei ji cheng	525
+距离度量	ju li du liang	529
+距离度量学习	ju li du liang xue xi	528
+卷积神经网络	juan ji shen jing wang luo	524
+决策边界	jue ce bian jie	523
+决策树	jue ce shu	522
+决策树桩	jue ce shu zhuang	521
+绝对多数投票法	jue dui duo shu tou piao fa	520
+均方误差	jun fang wu cha	519
+均匀变异	jun yun bian yi	155
+均匀交叉	jun yun jiao cha	154
+均值聚类	jun zhi ju lei	153
+可重复采样	ke chong fu cai yang	515
+可解释性	ke jie shi xing	518
+可理解性	ke li jie xing	517
+可微分神经计算机	ke wei fen shen jing ji suan ji	516
+拉格朗日乘子	la ge lang ri cheng zi	514
+拉格朗日对偶性	la ge lang ri dui ou xing	513
+拉普拉斯平滑	la pu la si ping hua	512
+拉普拉斯修正	la pu la si xiu zheng	511
+懒惰学习	lan duo xue xi	510
+类比学习	lei bi xue xi	509
+类别不平衡	lei bie bu ping heng	508
+累积误差逆传播	lei ji wu cha ni chuan bo	504
+类间散度矩阵	lei jian san du ju zhen	507
+类内散度矩阵	lei nei san du ju zhen	506
+类条件概率	lei tiao jian gai lv	505
+离策略	li ce lue	503
+离散属性	li san shu xing	502
+离线性能	li xian xing neng	152
+粒子群优化算法	li zi qun you hua suan fa	501
+连接权	lian jie quan	500
+连接主义	lian jie zhu yi	30
+联系函数	lian xi han shu	498
+连续属性	lian xu shu xing	499
+量子化神经网络	liang zi hua shen jing wang luo	497
+量子计算	liang zi ji suan	496
+量子计算机	liang zi ji suan ji	495
+列联表	lie lian biao	494
+列名属性	lie ming shu xing	493
+邻居模型	lin ju mo xing	151
+零次学习	ling ci xue xi	492
+凌乱遗传算法	ling luan yi chuan suan fa	150
+零数据学习	ling shu ju xue xi	491
+领域自适应	ling yu zi shi ying	490
+留出法	liu chu fa	489
+流形假设	liu xing jia she	487
+流形学习	liu xing xue xi	486
+留一法	liu yi fa	488
+鲁棒性	lu bang xing	485
+旅行商问题	lv xing shang wen ti	149
+马尔可夫链	ma er ke fu lian	148
+马尔可夫链蒙特卡罗方法	ma er ke fu lian meng te ka luo fang fa	484
+马尔可夫随机场	ma er ke fu sui ji chang	483
+满秩矩阵	man zhi ju zhen	482
+枚举搜索算法	mei ju sou suo suan fa	147
+没有免费的午餐定理	mei you mian fei de wu can ding li	481
+密度估计	mi du gu ji	480
+密度聚类	mi du ju lei	479
+描述不足	miao shu bu zu	146
+描述过剩	miao shu guo sheng	145
+命名实体识别	ming ming shi ti shi bie	478
+模拟退火	mo ni tui huo	477
+模拟退火算法	mo ni tui huo suan fa	144
+模式定理	mo shi ding li	143
+模式定义长度	mo shi ding yi chang du	142
+模式阶	mo shi jie	141
+模态最优化	mo tai zui you hua	140
+模型选择	mo xing xuan ze	29
+目标函数	mu biao han shu	476
+纳什均衡	na shi jun heng	475
+拟牛顿法	ni niu dun fa	474
+牛顿法	niu dun fa	473
+欧几里得距离	ou ji li de ju li	28
+欧氏距离	ou shi ju li	472
+爬山搜索算法	pa shan sou suo suan fa	139
+排挤	pai ji	138
+判别模型	pan bie mo xing	471
+判别器	pan bie qi	470
+判定树	pan ding shu	469
+配对	pei dui	137
+配对规则	pei dui gui ze	136
+批量归一化	pi liang gui yi hua	468
+偏差	pian cha	467
+偏置	pian zhi	466
+拼接算子	pin jie suan zi	135
+频率主义学派	pin lv zhu yi xue pai	465
+平方损失	ping fang sun shi	27
+评分函数	ping fen han shu	460
+评估方法	ping gu fang fa	26
+平衡点	ping heng dian	464
+平滑	ping hua	463
+平均池化	ping jun chi hua	462
+平均梯度	ping jun ti du	461
+谱聚类	pu ju lei	457
+朴素贝叶斯	pu su bei ye si	459
+朴素贝叶斯分类器	pu su bei ye si fen lei qi	458
+启发式算法	qi fa shi suan fa	133
+期望损失	qi wang sun shi	456
+期望值选择模型	qi wang zhi xuan ze mo xing	134
+期望最大化	qi wang zui da hua	455
+奇异值分解	qi yi zhi fen jie	454
+欠采样	qian cai yang	449
+前馈神经网络	qian kui shen jing wang luo	452
+欠拟合	qian ni he	448
+欠配	qian pei	447
+嵌入	qian ru	446
+前向分步算法	qian xiang fen bu suan fa	451
+迁移学习	qian yi xue xi	453
+潜在语义分析	qian zai yu yi fen xi	450
+强化学习	qiang hua xue xi	445
+切断算子	qie duan suan zi	132
+切分变量	qie fen bian liang	444
+亲和矩阵	qin he ju zhen	443
+情感分析	qing gan fen xi	442
+情绪分析	qing xu fen xi	441
+权共享	quan gong xiang	440
+全局搜索	quan ju sou suo	131
+全局优化	quan ju you hua	438
+全局最小	quan ju zui xiao	437
+权重	quan zhong	439
+确定式采样选择	que ding shi cai yang xuan ze	130
+阙值	que zhi	129
+群体	qun ti	128
+群体大小	qun ti da xiao	127
+群体多样性	qun ti duo yang xing	126
+群体平均适应度	qun ti ping jun shi ying du	125
+染色体	ran se ti	124
+人工神经网络	ren gong shen jing wang luo	123
+人工生命	ren gong sheng ming	122
+人工智能	ren gong zhi neng	436
+人工智能研究所	ren gong zhi neng yan jiu suo	121
+软间隔	ruan jian ge	435
+软间隔最大化	ruan jian ge zui da hua	434
+软投票	ruan tou piao	433
+弱学习器	ruo xue xi qi	432
+散度	san du	431
+上采样	shang cai yang	430
+深度卷积生成对抗网络	shen du juan ji sheng cheng dui kang wang luo	429
+深度神经网络	shen du shen jing wang luo	428
+深度网络	shen du wang luo	427
+深度信念网络	shen du xin nian wang luo	426
+深度学习	shen du xue xi	425
+神经机器翻译	shen jing ji qi fan yi	424
+神经图灵机	shen jing tu ling ji	423
+生成对抗网络	sheng cheng dui kang wang luo	422
+生成模型	sheng cheng mo xing	421
+生成器	sheng cheng qi	420
+试错法	shi cuo fa	417
+试错性	shi cuo xing	24
+势函数	shi han shu	418
+时间步骤	shi jian bu zhou	419
+示例	shi li	25
+适应度	shi ying du	120
+适应度尺度变换	shi ying du chi du bian huan	119
+适应度函数	shi ying du han shu	118
+适应度景象	shi ying du jing xiang	117
+收敛	shou lian	416
+受试者工作特征	shou shi zhe gong zuo te zheng	415
+受限玻尔兹曼机	shou xian bo er zi man ji	414
+输出	shu chu	116
+输出层	shu chu ceng	413
+输出空间	shu chu kong jian	23
+输出调制法	shu chu tiao zhi fa	412
+数据集	shu ju ji	406
+数据挖掘	shu ju wa jue	405
+树库	shu ku	407
+输入	shu ru	115
+输入层	shu ru ceng	411
+输入空间	shu ru kong jian	22
+属性	shu xing	21
+属性代价	shu xing dai jia	20
+属性空间	shu xing kong jian	410
+属性条件独立性假设	shu xing tiao jian du li xing jia she	409
+属性值	shu xing zhi	408
+数值属性	shu zhi shu xing	404
+双倍体	shuang bei ti	114
+双点交叉	shuang dian jiao cha	113
+双向长短期记忆	shuang xiang chang duan qi ji yi	403
+顺序交叉	shun xu jiao cha	112
+松弛变量	song chi bian liang	402
+算法	suan fa	401
+算术交叉	suan shu jiao cha	111
+随机联赛选择模型	sui ji lian sai xuan ze mo xing	110
+随机漫步	sui ji man bu	400
+随机森林算法	sui ji sen lin suan fa	399
+随机搜索算法	sui ji sou suo suan fa	109
+随机算法	sui ji suan fa	108
+随机梯度下降	sui ji ti du xia jiang	398
+随机游走排序	sui ji you zou pai xu	107
+损失	sun shi	106
+损失函数	sun shi han shu	397
+踏脚石模型	ta jiao shi mo xing	105
+贪婪算法	tan lan suan fa	104
+特化	te hua	396
+特征	te zheng	19
+特征工程	te zheng gong cheng	395
+特征向量	te zheng xiang liang	394
+特征选择	te zheng xuan ze	393
+特征学习	te zheng xue xi	392
+特征值分解	te zheng zhi fen jie	391
+替代函数	ti dai han shu	386
+替代损失	ti dai sun shi	385
+梯度爆炸问题	ti du bao zha wen ti	390
+梯度提升	ti du ti sheng	389
+梯度下降	ti du xia jiang	388
+梯度消失问题	ti du xiao shi wen ti	387
+调参	tiao can	379
+调和平均	tiao he ping jun	378
+条件风险	tiao jian feng xian	384
+条件概率表	tiao jian gai lv biao	383
+条件互信息	tiao jian hu xin xi	382
+条件熵	tiao jian shang	381
+条件随机场	tiao jian sui ji chang	380
+条件随机域	tiao jian sui ji yu	103
+同步定位与地图构建	tong bu ding wei yu di tu gou jian	374
+通过时间的反向传播	tong guo shi jian de fan xiang chuan bo	377
+统计学习	tong ji xue xi	370
+同现	tong xian	373
+同义词集	tong yi ci ji	372
+通用人工智能	tong yong ren gong zhi neng	376
+通用问题求解	tong yong wen ti qiu jie	375
+同质	tong zhi	371
+凸二次规划	tu er ci gui hua	369
+图灵机	tu ling ji	367
+图论	tu lun	366
+凸性	tu xing	368
+图形处理单元	tu xing chu li dan yuan	102
+图形处理器	tu xing chu li qi	101
+脱氧核糖核酸	tuo yang he tang he suan	100
+万普尼克泽范兰杰斯理论	wan pu ni ke ze fan lan jie si li lun	99
+伪标记	wei biao ji	360
+微查全率	wei cha quan lv	365
+微查准率	wei cha zhun lv	364
+未见示例	wei jian shi li	17
+维数	wei shu	18
+维数灾难	wei shu zai nan	362
+维特比算法	wei te bi suan fa	361
+微调	wei tiao	363
+文化算法	wen hua suan fa	98
+稳健性	wen jian xing	359
+无导师学习	wu dao shi xue xi	358
+误分类成本	wu fen lei cheng ben	354
+误分类代价	wu fen lei dai jia	16
+无回放随机选择	wu hui fang sui ji xuan ze	97
+无回放余数随机	wu hui fang yu shu sui ji	96
+无监督学习	wu jian du xue xi	357
+无监督逐层训练	wu jian du zhu ceng xun lian	356
+无序属性	wu xu shu xing	355
+希尔伯特空间	xi er bo te kong jian	353
+析合范式	xi he fan shi	15
+细粒度并行遗传算法	xi li du bing xing yi chuan suan fa	95
+稀疏表征	xi shu biao zheng	352
+稀疏性	xi shu xing	351
+下采样	xia cai yang	350
+限定等距性	xian ding deng ju xing	348
+线性尺度变换	xian xing chi du bian huan	93
+线性回归	xian xing hui gui	347
+显性基因	xian xing ji yin	94
+线性链条件随机场	xian xing lian tiao jian sui ji chang	346
+线性模型	xian xing mo xing	345
+线性判别分析	xian xing pan bie fen xi	344
+线性修正单元	xian xing xiu zheng dan yuan	343
+线性修正函数	xian xing xiu zheng han shu	92
+先验	xian yan	349
+相对多数投票法	xiang dui duo shu tou piao fa	342
+相关系数	xiang guan xi shu	341
+相合性	xiang he xing	340
+相似度度量	xiang si du du liang	339
+小生境	xiao sheng jing	91
+斜决策树	xie jue ce shu	337
+信息熵	xin xi shang	336
+信息增益	xin xi zeng yi	335
+性能度量	xing neng du liang	334
+序关系	xu guan xi	14
+选择	xuan ze	90
+选择模型	xuan ze mo xing	89
+选择算子	xuan ze suan zi	88
+选择重排序算子	xuan ze zhong pai xu suan zi	87
+学习	xue xi	13
+学习率	xue xi lv	333
+学习器	xue xi qi	332
+学习向量量化	xue xi xiang liang liang hua	331
+循环交叉	xun huan jiao cha	86
+循环神经网络	xun huan shen jing wang luo	330
+训练	xun lian	12
+训练集	xun lian ji	11
+训练例	xun lian li	329
+训练示例	xun lian shi li	328
+训练数据	xun lian shu ju	10
+训练误差	xun lian wu cha	327
+训练样本	xun lian yang ben	9
+哑结点	ya jie dian	326
+演化计算	yan hua ji suan	325
+演绎	yan yi	324
+验证集	yan zheng ji	8
+样本	yang ben	7
+样本空间	yang ben kong jian	323
+样例	yang li	6
+异常检测	yi chang jian ce	319
+遗传	yi chuan	85
+遗传编程	yi chuan bian cheng	84
+遗传算法	yi chuan suan fa	320
+遗传算法欺骗问题	yi chuan suan fa qi pian wen ti	83
+遗传算子	yi chuan suan zi	82
+遗传学	yi chuan xue	81
+遗传隐匿	yi chuan yin ni	80
+一次性学习	yi ci xing xue xi	322
+一致性	yi zhi xing	321
+隐变量	yin bian liang	317
+隐藏层	yin cang ceng	316
+隐狄利克雷分布	yin di li ke lei fen bu	315
+隐动态模型	yin dong tai mo xing	314
+隐含并行性	yin han bing xing xing	79
+隐含狄利克雷分布	yin han di li ke lei fen bu	78
+隐马尔可夫模型	yin ma er ke fu mo xing	313
+因子分解	yin zi fen jie	318
+硬间隔	ying jian ge	312
+硬投票	ying tou piao	311
+有导师学习	you dao shi xue xi	310
+有放回采样	you fang hui cai yang	309
+有向边	you xiang bian	308
+有向分离	you xiang fen li	307
+有序属性	you xu shu xing	306
+预剪枝	yu jian zhi	303
+余弦相似度	yu xian xiang si du	305
+预选择	yu xuan ze	76
+语言现象	yu yan xian xiang	77
+语音识别	yu yin shi bie	304
+阈值	yu zhi	302
+阈值逻辑单元	yu zhi luo ji dan yuan	301
+阈值移动	yu zhi yi dong	300
+元学习器	yuan xue xi qi	299
+元遗传算法	yuan yi chuan suan fa	75
+杂合子	za he zi	74
+在策略	zai ce lue	296
+再生核希尔伯特空间	zai sheng he xi er bo te kong jian	298
+再缩放	zai suo fang	297
+在线性能	zai xian xing neng	73
+早期收敛	zao qi shou lian	72
+噪音对比估计	zao yin dui bi gu ji	295
+增量学习	zeng liang xue xi	294
+增益率	zeng yi lv	293
+张量	zhang liang	292
+张量处理单元	zhang liang chu li dan yuan	291
+召回率	zhao hui lv	289
+震荡	zhen dang	285
+真反例	zhen fan li	5
+真负类	zhen fu lei	288
+真正类	zhen zheng lei	287
+真正例	zhen zheng li	4
+真正例率	zhen zheng li lv	286
+正定矩阵	zheng ding ju zhen	284
+正类	zheng lei	283
+正例	zheng li	3
+正则化	zheng ze hua	282
+正则化项	zheng ze hua xiang	2
+支持向量机	zhi chi xiang liang ji	281
+支持向量展式	zhi chi xiang liang zhan shi	280
+智能体	zhi neng ti	274
+知识表征	zhi shi biao zheng	279
+知识工程	zhi shi gong cheng	1
+指示函数	zhi shi han shu	276
+知识库	zhi shi ku	278
+指数损失函数	zhi shu sun shi han shu	275
+致死基因	zhi si ji yin	70
+直推学习	zhi tui xue xi	277
+植物授粉模型	zhi wu shou fen mo xing	71
+置信度	zhi xin du	273
+众包	zhong bao	272
+重采样法	zhong cai yang fa	271
+重赋权法	zhong fu quan fa	270
+中央处理器	zhong yang chu li qi	69
+终止条件	zhong zhi tiao jian	68
+主成分分析	zhu cheng fen fen xi	269
+注意机制	zhu yi ji zhi	67
+注意力机制	zhu yi li ji zhi	268
+状态特征函	zhuang tai te zheng han	267
+装箱问题	zhuang xiang wen ti	66
+准确率	zhun que lv	266
+自编码器	zi bian ma qi	264
+子代群体	zi dai qun ti	65
+自动驾驶	zi dong jia shi	263
+自动语音识别	zi dong yu yin shi bie	262
+自动摘要	zi dong zhai yao	261
+子空间	zi kong jian	265
+自然语言处理	zi ran yu yan chu li	260
+自然语言生成	zi ran yu yan sheng cheng	259
+自适应变异	zi shi ying bian yi	64
+自适应交叉	zi shi ying jiao cha	63
+自适应谐振理论	zi shi ying xie zhen li lun	258
+自助采样法	zi zhu cai yang fa	257
+自助法	zi zhu fa	256
+自组织映射	zi zu zhi ying she	255
+组件学习器	zu jian xue xi qi	254
+最大池化	zui da chi hua	253
+最大带权生成树	zui da dai quan sheng cheng shu	252
+最大间隔	zui da jian ge	251
+最大似然	zui da si ran	62
+最大团	zui da tuan	250
+最近邻算法	zui jin lin suan fa	61
+最小二乘法	zui xiao er cheng fa	249
+最小二乘回归树	zui xiao er cheng hui gui shu	248
+最小描述长度	zui xiao miao shu chang du	247
+最小欺骗问题	zui xiao qi pian wen ti	60
+最小最大博弈	zui xiao zui da bo yi	59
+最优化	zui you hua	58

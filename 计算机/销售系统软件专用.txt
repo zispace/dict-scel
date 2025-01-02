@@ -1,0 +1,215 @@
+# 文件名：销售系统软件专用.scel
+# 词库名：销售系统软件专用
+# 词库分类：软件
+# 词库描述：
+# 词条样例：盘亏 销售 订货会 入库 入库单 应收
+# 词条数量：208
+
+版本	ban ben	9
+报表	bao biao	161
+保存天数	bao cun tian shu	26
+编码	bian ma	166
+标准目录	biao zhun mu lu	30
+部门权限	bu men quan xian	68
+采购分析	cai gou fen xi	111
+采购汇总	cai gou hui zong	63
+采购业务	cai gou ye wu	179
+参数调整	can shu tiao zheng	1
+参照出库	can zhao chu ku	89
+参照录入	can zhao lu ru	16
+仓库权限	cang ku quan xian	67
+差异复核	cha yi fu he	49
+拆箱	chai xiang	160
+超储	chao chu	169
+超额	chao e	173
+超额单	chao e dan	172
+成本计算	cheng ben ji suan	117
+出库	chu ku	200
+出库参照	chu ku can zhao	18
+出库仓库	chu ku cang ku	94
+出库单	chu ku dan	198
+出库控制	chu ku kong zhi	2
+出库类型	chu ku lei xing	20
+出库确认	chu ku que ren	85
+储运部	chu yun bu	66
+大区管理	da qu guan li	35
+待发货量	dai fa huo liang	96
+代销配货	dai xiao pei huo	91
+单号	dan hao	82
+单据	dan ju	163
+单据来源	dan ju lai yuan	126
+单据日期	dan ju ri qi	162
+单据审核	dan ju shen he	79
+导出模版	dao chu mo ban	78
+到货日期	dao huo ri qi	144
+导入模版	dao ru mo ban	77
+导入设置	dao ru she zhi	75
+登录端口	deng lu duan kou	40
+登录名称	deng lu ming cheng	41
+地区档案	di qu dang an	34
+店间调货	dian jian diao huo	54
+调拨	diao bo	191
+调拨出库	diao bo chu ku	190
+调拨配货	diao bo pei huo	92
+调拨入库	diao bo ru ku	189
+订单终止	ding dan zhong zhi	138
+订货会	ding huo hui	203
+短缺预警	duan que yu jing	168
+二维查看	er wei cha kan	119
+二维展现	er wei zhan xian	90
+发货计划	fa huo ji hua	102
+发货状态	fa huo zhuang tai	130
+分销	fen xiao	202
+负出库	fu chu ku	29
+复核方式	fu he fang shi	15
+付款方式	fu kuan fang shi	122
+管理员	guan li yuan	174
+广宣品	guang xuan pin	115
+红字销售	hong zi xiao shou	86
+汇总表	hui zong biao	158
+汇总状态	hui zong zhuang tai	127
+机构	ji gou	165
+机构档案	ji gou dang an	36
+机构名称	ji gou ming cheng	64
+机构设置	ji gou she zhi	37
+计量单位	ji liang dan wei	150
+计算对象	ji suan dui xiang	5
+计算精度	ji suan jing du	4
+价格分析	jia ge fen xi	109
+结算方式	jie suan fang shi	73
+进销存汇总	jin xiao cun hui zong	61
+开单人收款	kai dan ren shou kuan	56
+开票单位	kai piao dan wei	83
+客户	ke hu	101
+客户分析	ke hu fen xi	112
+客户化	ke hu hua	38
+客户类别	ke hu lei bie	31
+可用量	ke yong liang	137
+库存	ku cun	196
+库存分析	ku cun fen xi	110
+库存控制	ku cun kong zhi	3
+库存业务	ku cun ye wu	180
+来源单据	lai yuan dan ju	98
+连锁组织	lian suo zu zhi	32
+联营管理	lian ying guan li	28
+零售	ling shou	201
+零售价	ling shou jia	145
+零售开单	ling shou kai dan	22
+零售退货	ling shou tui huo	13
+零售业务	ling shou ye wu	27
+门店	men dian	204
+模版	mo ban	76
+抹零功能	mo ling gong neng	8
+抹零管理	mo ling guan li	47
+抹零规则	mo ling gui ze	46
+抹零提示	mo ling ti shi	7
+默认值	mo ren zhi	6
+盘点	pan dian	205
+盘点单	pan dian dan	187
+盘点准备单	pan dian zhun bei dan	188
+盘亏	pan kui	207
+盘盈	pan ying	208
+配货计划	pei huo ji hua	103
+配货量	pei huo liang	97
+批量打印	pi liang da yin	118
+票据存根	piao ju cun gen	12
+品名规格	pin ming gui ge	153
+起订量	qi ding liang	147
+期末业务	qi mo ye wu	176
+其它出库	qi ta chu ku	184
+其它入库	qi ta ru ku	183
+企业通知	qi ye tong zhi	65
+启用参数	qi yong can shu	53
+启用状态	qi yong zhuang tai	149
+人员类别	ren yuan lei bie	74
+人员权限	ren yuan quan xian	70
+日常上传	ri chang shang chuan	23
+日常下载	ri chang xia zai	24
+日期取值	ri qi qu zhi	14
+入库	ru ku	199
+入库参照	ru ku can zhao	17
+入库仓库	ru ku cang ku	95
+入库单	ru ku dan	197
+商品	shang pin	121
+商品编码	shang pin bian ma	154
+商品超储	shang pin chao chu	170
+商品档案	shang pin dang an	171
+商品分布	shang pin fen bu	60
+商品汇总	shang pin hui zong	62
+商品来源去向	shang pin lai yuan qu xiang	106
+商品类别	shang pin lei bie	155
+商品条码	shang pin tiao ma	151
+设计器	she ji qi	10
+审核	shen he	164
+审核岗	shen he gang	80
+审核状态	shen he zhuang tai	131
+实盘	shi pan	186
+实盘单	shi pan dan	185
+实盘复核	shi pan fu he	48
+实销	shi xiao	45
+实销价	shi xiao jia	44
+使用状态	shi yong zhuang tai	148
+收发类别	shou fa lei bie	71
+收货单位	shou huo dan wei	100
+收货地址	shou huo di zhi	99
+收款确认	shou kuan que ren	167
+收款人收款	shou kuan ren shou kuan	57
+收款形式	shou kuan xing shi	21
+收款状态	shou kuan zhuang tai	132
+数据管理	shu ju guan li	39
+数据交换	shu ju jiao huan	25
+数据权限	shu ju quan xian	69
+税额	shui e	134
+税号	shui hao	81
+税率	shui lv	135
+统计查询	tong ji cha xun	177
+统计机构	tong ji ji gou	33
+通路管理	tong lu guan li	107
+退回上级	tui hui shang ji	55
+退货单位	tui huo dan wei	84
+退货原因	tui huo yuan yin	72
+显示图片	xian shi tu pian	105
+小票打印	xiao piao da yin	11
+销售	xiao shou	206
+销售分析	xiao shou fen xi	113
+销售汇总表	xiao shou hui zong biao	159
+销售量	xiao shou liang	136
+销售排名	xiao shou pai ming	58
+销售配货	xiao shou pei huo	93
+信用	xin yong	182
+信用额度	xin yong e du	181
+序列号	xu lie hao	59
+样品档案	yang pin dang an	156
+样品管理	yang pin guan li	157
+业务角色	ye wu jue se	116
+业务员	ye wu yuan	120
+一对多	yi dui duo	51
+一对一	yi dui yi	52
+应付	ying fu	194
+应付单	ying fu dan	192
+应收	ying shou	195
+应收单	ying shou dan	193
+应收分析	ying shou fen xi	114
+应收应付	ying shou ying fu	178
+赠品	zeng pin	133
+账存数量	zhang cun shu liang	50
+帐套	zhang tao	175
+帐套内查询	zhang tao nei cha xun	108
+折扣额	zhe kou e	142
+折扣价	zhe kou jia	141
+折扣率	zhe kou lv	143
+整单参照	zheng dan can zhao	88
+整单应付	zheng dan ying fu	42
+整单应收	zheng dan ying shou	43
+制单人	zhi dan ren	123
+终止状态	zhong zhi zhuang tai	128
+周边组织	zhou bian zu zhi	19
+助词码	zhu ci ma	104
+助记码	zhu ji ma	152
+装箱规格	zhuang xiang gui ge	146
+装箱计量	zhuang xiang ji liang	139
+装箱数量	zhuang xiang shu liang	140
+自动报价	zi dong bao jia	87
+最大金额	zui da jin e	124
+最小金额	zui xiao jin e	125
+作废状态	zuo fei zhuang tai	129

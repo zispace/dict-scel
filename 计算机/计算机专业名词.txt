@@ -1,0 +1,415 @@
+# 文件名：计算机专业名词.scel
+# 词库名：计算机专业名词
+# 词库分类：计算机科技
+# 词库描述：
+# 词条样例：软盘 优盘 微盘 闪盘 云盘 新建快捷方式
+# 词条数量：408
+
+安全标识符	an quan biao zhi fu	296
+安全套接层	an quan tao jie ceng	297
+百万个像素秒	bai wan ge xiang su miao	22
+板上集成缓存	ban shang ji cheng huan cun	283
+半透明效果	ban tou ming xiao guo	70
+帮助程序	bang zhu cheng xu	347
+保存文件	bao cun wen jian	341
+薄膜封装	bao mo feng zhuang	205
+薄膜晶体管	bao mo jing ti guan	95
+北桥芯片	bei qiao xin pian	138
+本地连接	ben di lian jie	359
+边带寻址	bian dai xun zhi	157
+编辑	bian ji	364
+编辑程序	bian ji cheng xu	348
+编辑文件	bian ji wen jian	340
+边缘抗锯齿失真	bian yuan kang ju chi shi zhen	56
+标准	biao zhun	180
+标准模板库	biao zhun mu ban ku	317
+并行图像设置	bing xing tu xiang she zhi	12
+并行纹理传输	bing xing wen li chuan shu	15
+并行指令代码	bing xing zhi ling dai ma	275
+不间断电源	bu jian duan dian yuan	331
+测试程序	ce shi cheng xu	346
+长波形可移动输入红外线	chang bo xing ke yi dong shu ru hong wai xian	192
+超标量体系结构	chao biao liang ti xi jie gou	206
+超长指令字	chao chang zhi ling zi	200
+超级链接	chao ji lian jie	322
+超级南桥芯片	chao ji nan qiao xin pian	130
+超文本	chao wen ben	323
+超文本标记语言	chao wen ben biao ji yu yan	307
+超文本标识语言	chao wen ben biao zhi yu yan	324
+超文本传输协议	chao wen ben chuan shu xie yi	326
+超文本传送协议	chao wen ben chuan song xie yi	306
+程序出错	cheng xu chu cuo	356
+程序有误	cheng xu you wu	352
+处理器序列号	chu li qi xu lie hao	230
+传输控制协议	chuan shu kong zhi xie yi	302
+垂直空白间隙	chui zhi kong bai jian xi	93
+垂直扫描频率	chui zhi sao miao pin lv	91
+磁场感应器	ci chang gan ying qi	101
+磁盘	ci pan	403
+磁盘唤醒	ci pan huan xing	155
+存储空间不足	cun chu kong jian bu zu	338
+打开编辑器	da kai bian ji qi	363
+打开菜单	da kai cai dan	383
+打开程序	da kai cheng xu	345
+打开对话框	da kai dui hua kuang	381
+打开右键菜单	da kai you jian cai dan	382
+大型纹理	da xing wen li	30
+单边连接器	dan bian lian jie qi	218
+单击	dan ji	386
+单色设备	dan se she bei	102
+单一指令多数据流扩展	dan yi zhi ling duo shu ju liu kuo zhan	207
+单指令多数据流	dan zhi ling duo shu ju liu	216
+低电压差动信号	di dian ya cha dong xin hao	104
+低电压光圈阴极管	di dian ya guang quan yin ji guan	105
+地址产成单元	di zhi chan cheng dan yuan	291
+地址解析协议	di zhi jie xi xie yi	312
+点采样技术	dian cai yang ji shu	18
+电磁干扰	dian ci gan rao	184
+点到点协议	dian dao dian xie yi	304
+点对点通信协议	dian dui dian tong xin xie yi	303
+点型纹理混和	dian xing wen li hun he	63
+电压识别认证	dian ya shi bie ren zheng	150
+电压调整模块	dian ya tiao zheng mo kuai	149
+电源自检程序	dian yuan zi jian cheng xu	328
+电子束落区	dian zi shu luo qu	123
+动态补偿	dong tai bu chang	24
+动态聚焦	dong tai ju jiao	119
+动态可扩展分辨率	dong tai ke kuo zhan fen bian lv	59
+动态模糊	dong tai mo hu	23
+动态平面描影	dong tai ping mian miao ying	68
+动态数据交换	dong tai shu ju jiao huan	310
+动态四极镜	dong tai si ji jing	112
+动态主机配置协议	dong tai zhu ji pei zhi xie yi	300
+抖动	dou dong	67
+对称式多重处理架构	dui chen shi duo chong chu li jia gou	212
+多重处理器规范	duo chong chu li qi gui fan	238
+多重处理器架构	duo chong chu li qi jia gou	239
+多重分辨率组合	duo chong fen bian lv zu he	21
+多重境深	duo chong jing shen	64
+多重散光聚焦系统	duo chong san guang ju jiao xi tong	103
+多重纹理	duo chong wen li	19
+多重主控	duo chong zhu kong	20
+多媒体单元	duo mei ti dan yuan	242
+多媒体扩展指令集	duo mei ti kuo zhan zhi ling ji	243
+二氧氟化硅	er yang fu hua gui	215
+发生器	fa sheng qi	134
+返回上一级	fan hui shang yi ji	378
+返回上一页	fan hui shang yi ye	377
+反射贴图	fan she tie tu	4
+翻译旁视缓冲器	fan yi pang shi huan chong qi	203
+反转双缓存	fan zhuan shuang huan cun	47
+反转芯片针脚栅格阵列	fan zhuan xin pian zhen jiao shan ge zhen lie	273
+访问控制列表	fang wen kong zhi lie biao	313
+方向性光源	fang xiang xing guang yuan	66
+非连续反余弦变换	fei lian xu fan yu xian bian huan	33
+废弃	fei qi	244
+非英特尔	fei ying te er	235
+分支处理单元	fen zhi chu li dan yuan	288
+分支预测	fen zhi yu ce	287
+分支预测表	fen zhi yu ce biao	289
+浮点操作秒	fu dian cao zuo miao	265
+浮点乘	fu dian cheng	264
+浮点除	fu dian chu	272
+浮点加	fu dian jia	274
+浮点减	fu dian jian	262
+浮点运算单元	fu dian yun suan dan yuan	263
+服务质量	fu wu zhi liang	315
+复杂三角形计数	fu za san jiao xing ji shu	35
+复杂指令集计算机	fu za zhi ling ji ji suan ji	285
+高级双重内嵌式内存模块	gao ji shuang chong nei qian shi nei cun mo kuai	196
+高洛德描影	gao luo de miao ying	44
+高清晰度电视	gao qing xi du dian shi	37
+各向异性过滤	ge xiang yi xing guo lv	86
+更改程序	geng gai cheng xu	342
+更改硬件	geng gai ying jian	368
+共享	gong xiang	245
+共享内存结构	gong xiang nei cun jie gou	156
+工业标准架构	gong ye biao zhun jia gou	172
+工业设置架构	gong ye she zhi jia gou	171
+固件中心	gu jian zhong xin	177
+关闭程序	guan bi cheng xu	349
+关机自检	guan ji zi jian	353
+光学二级管	guang xue er ji guan	106
+光源	guang yuan	28
+硅上液晶	gui shang ye jing	107
+过热预防系统	guo re yu fang xi tong	146
+盒装处理器	he zhuang chu li qi	229
+红外线	hong wai xian	173
+后置缓冲	hou zhi huan chong	83
+互补金属氧化物半导体	hu bu jin shu yang hua wu ban dao ti	286
+互连外围设备	hu lian wai wei she bei	163
+互连外围设备专业组	hu lian wai wei she bei zhuan ye zu	162
+互联网电子邮件协议标准	hu lian wang dian zi you jian xie yi biao zhun	298
+画面刷新率	hua mian shua xin lv	40
+环境凹凸映射	huan jing ao tu ying she	53
+恢复程序	hui fu cheng xu	343
+恢复上次异常关闭窗口	hui fu shang ci yi chang guan bi chuang kou	365
+火线	huo xian	181
+活性钨	huo xing wu	100
+基板栅格阵列	ji ban shan ge zhen lie	234
+基本输出系统	ji ben shu chu xi tong	190
+基本输入输出系统	ji ben shu ru shu chu xi tong	330
+基本输入系统	ji ben shu ru xi tong	191
+基层直接渲染	ji ceng zhi jie xuan ran	61
+寄存器不足	ji cun qi bu zu	224
+寄存器重命名	ji cun qi chong ming ming	223
+计算机生成图像	ji suan ji sheng cheng tu xiang	78
+加电自测试	jia dian zi ce shi	161
+加速器	jia su qi	137
+加速中心架构	jia su zhong xin jia gou	193
+鉴别号码	jian bie hao ma	259
+简单网络管理协议	jian dan wang luo guan li xie yi	294
+简单邮件传送协议	jian dan you jian chuan song xie yi	295
+键盘控制器	jian pan kong zhi qi	158
+剪贴纹理	jian tie wen li	77
+交换式电压调节	jiao huan shi dian ya tiao jie	153
+交替渲染技术	jiao ti xuan ran ji shu	87
+精简指令集计算机	jing jian zhi ling ji ji suan ji	219
+精确像素插值	jing que xiang su cha zhi	8
+局域边缘总线	ju yu bian yuan zong xian	27
+局域互连	ju yu hu lian	248
+绝缘体硅片	jue yuan ti gui pian	211
+开放图形程序接口	kai fang tu xing cheng xu jie kou	314
+开机自检	kai ji zi jian	354
+可安装客户端驱动程序	ke an zhuang ke hu duan qu dong cheng xu	34
+可编程纹理	ke bian cheng wen li	7
+可变间距光栅	ke bian jian ju guang shan	94
+可分配空间	ke fen pei kong jian	189
+可扩展扫描椭圆孔镜头	ke kuo zhan sao miao tuo yuan kong jing tou	110
+可扩展系统配置数据	ke kuo zhan xi tong pei zhi shu ju	183
+快速进入多媒体状态	kuai su jin ru duo mei ti zhuang tai	271
+快速热欧姆转换	kuai su re ou mu zhuan huan	269
+快速退出多媒体状态	kuai su tui chu duo mei ti zhuang tai	270
+宽带连接	kuan dai lian jie	360
+扩展总线	kuo zhan zong xian	186
+零插力	ling cha li	148
+乱序执行	luan xu zhi xing	233
+每秒百万个浮点操作	mei miao bai wan ge fu dian cao zuo	241
+模拟视频	mo ni shi pin	84
+南桥芯片	nan qiao xin pian	133
+内插法均匀涂色	nei cha fa jun yun tu se	43
+内存	nei cun	333
+内存唤醒	nei cun huan xing	154
+内存内部序号检测装置	nei cun nei bu xu hao jian ce zhuang zhi	131
+内存数据处理中心	nei cun shu ju chu li zhong xin	169
+内存转换中心	nei cun zhuan huan zhong xin	167
+排除	pai chu	246
+频率鉴别号码	pin lv jian bie hao ma	268
+平方根计算	ping fang gen ji suan	208
+平面描影	ping mian miao ying	50
+平台企业版	ping tai qi ye ban	316
+平行透视处理器	ping xing tou shi chu li qi	14
+普通操作输入	pu tong cao zuo shu ru	175
+浅槽隔离	qian cao ge li	217
+潜伏期	qian fu qi	250
+嵌入式处理器	qian ru shi chu li qi	276
+嵌入式控制器	qian ru shi kong zhi qi	277
+前置缓冲	qian zhi huan chong	51
+前置总线	qian zhi zong xian	179
+抢占寄存器	qiang zhan ji cun qi	225
+请插入光盘	qing cha ru guang pan	339
+请插入新的光盘	qing cha ru xin de guang pan	337
+请插入新的软盘	qing cha ru xin de ruan pan	336
+球状矩阵排列	qiu zhuang ju zhen pai lie	290
+全不选	quan bu xuan	366
+全景抗锯齿失真	quan jing kang ju chi shi zhen	48
+全景渲染造成的浪费	quan jing xuan ran zao cheng de lang fei	16
+全系统管理总线	quan xi tong guan li zong xian	132
+全选	quan xuan	367
+软盘	ruan pan	402
+三维	san wei	90
+三维子系统	san wei zi xi tong	89
+杀毒软件	sha du ruan jian	357
+删除程序	shan chu cheng xu	344
+删除硬件	shan chu ying jian	369
+删除右键功能	shan chu you jian gong neng	361
+闪存	shan cun	406
+闪电数据传输总线	shan dian shu ju chuan shu zong xian	249
+闪盘	shan pan	398
+设备插架	she bei cha jia	188
+视频显示终端	shi pin xian shi zhong duan	92
+视频音频速度	shi pin yin pin su du	2
+实时时钟	shi shi shi zhong	159
+时钟合成器	shi zhong he cheng qi	76
+时钟周期	shi zhong zhou qi	284
+鼠标	shu biao	396
+鼠标指针	shu biao zhi zhen	395
+输出	shu chu	139
+输出控制中心	shu chu kong zhi zhong xin	174
+数据测定表	shu ju ce ding biao	97
+数据处理中心	shu ju chu li zhong xin	168
+数据库管理系统	shu ju ku guan li xi tong	329
+数据路径	shu ju lu jing	129
+数据前送	shu ju qian song	280
+数模传换器	shu mo chuan huan qi	72
+输入	shu ru	140
+数字光处理	shu zi guang chu li	115
+数字伸缩扫描	shu zi shen suo sao miao	118
+数字视频接口	shu zi shi pin jie kou	60
+数字式平面显示器	shu zi shi ping mian xian shi qi	69
+数字式智能多频追踪	shu zi shi zhi neng duo pin zhui zong	116
+数字图像控制	shu zi tu xiang kong zhi	117
+数字信号处理	shu zi xin hao chu li	111
+双独立总线	shuang du li zong xian	278
+双缓冲区	shuang huan chong qu	62
+双击	shuang ji	385
+双线性过滤	shuang xian xing guo lv	79
+四重接口	si chong jie kou	144
+四接口加速	si jie kou jia su	127
+塑胶针状矩阵封装	su jiao zhen zhuang ju zhen feng zhuang	228
+塑料方块平面封装	su liao fang kuai ping mian feng zhuang	227
+算术逻辑单元	suan shu luo ji dan yuan	292
+随机存储器	sui ji cun chu qi	334
+随机存储器模转换器	sui ji cun chu qi mo zhuan huan qi	5
+随机存储器数转换器	sui ji cun chu qi shu zhuan huan qi	6
+随机数字发生器	sui ji shu zi fa sheng qi	160
+陶瓷针型栅格阵列	tao ci zhen xing shan ge zhen lie	281
+特别模块寄存器	te bie mo kuai ji cun qi	237
+特殊应用集成电路	te shu ying yong ji cheng dian lu	125
+添加硬件	tian jia ying jian	370
+调试程序	tiao shi cheng xu	350
+调试解调器	tiao shi jie tiao qi	375
+调制混合	tiao zhi hun he	25
+调制解调器主机板附加直立插卡	tiao zhi jie tiao qi zhu ji ban fu jia zhi li cha ka	194
+同屏数字化显示	tong ping shu zi hua xian shi	114
+统一建模语言	tong yi jian mo yu yan	319
+统一系统监测管理器	tong yi xi tong jian ce guan li qi	151
+通用串行总线	tong yong chuan xing zong xian	152
+透视纠正	tou shi jiu zheng	13
+透支	tou zhi	17
+图像处理和模式识别	tu xiang chu li he mo shi shi bie	31
+图形处理器	tu xing chu li qi	42
+图形地址重绘表	tu xing di zhi chong hui biao	45
+图形和内存控制中心	tu xing he nei cun kong zhi zhong xin	176
+图形加速接口	tu xing jia su jie kou	141
+图形设备界面	tu xing she bei jie mian	309
+图形芯片	tu xing xin pian	80
+图形用户界面	tu xing yong hu jie mian	308
+吞吐量	tun tu liang	204
+外部总线	wai bu zong xian	178
+网际控制报文协议	wang ji kong zhi bao wen xie yi	305
+网际协议	wang ji xie yi	301
+网盘	wang pan	399
+微盘	wei pan	400
+微软	wei ruan	404
+位页面尺寸扩展模式	wei ye mian chi cun kuo zhan mo shi	136
+文件传输协议	wen jian chuan shu xie yi	325
+纹理压缩	wen li ya suo	58
+钨传输阴级射线枪	wu chuan shu yin ji she xian qiang	96
+雾化表画质	wu hua biao hua zhi	46
+雾化效果	wu hua xiao guo	88
+无缓冲随机联合写操作	wu huan chong sui ji lian he xie cao zuo	202
+无线网络连接	wu xian wang luo lian jie	358
+无效超频	wu xiao chao pin	236
+系统出错	xi tong chu cuo	355
+系统管理模式	xi tong guan li mo shi	213
+系统管理中断	xi tong guan li zhong duan	214
+系统集成芯片	xi tong ji cheng xin pian	210
+系统控制器	xi tong kong zhi qi	128
+系统盘	xi tong pan	371
+系统信息观察	xi tong xin xi guan cha	145
+系统性能评估测试	xi tong xing neng ping gu ce shi	209
+显存	xian cun	405
+先进设置和电源管理	xian jin she zhi he dian yuan guan li	142
+显卡	xian ka	1
+先入先出队列	xian ru xian chu dui lie	267
+显示能源管理信号	xian shi neng yuan guan li xin hao	113
+显示设备	xian shi she bei	126
+显示数据通道	xian shi shu ju tong dao	120
+显示桌面	xian shi zhuo mian	376
+线性过滤	xian xing guo lv	29
+向量处理单元	xiang liang chu li dan yuan	198
+向量排列单元	xiang liang pai lie dan yuan	199
+向量算术逻辑单元	xiang liang suan shu luo ji dan yuan	201
+像素	xiang su	11
+像素点	xiang su dian	10
+小幅度摆动差动信号	xiao fu du bai dong cha dong xin hao	99
+写后读	xie hou du	226
+协作命令引擎	xie zuo ming ling yin qing	74
+新建	xin jian	394
+新建窗口	xin jian chuang kou	379
+新建公文包	xin jian gong wen bao	391
+新建工作表	xin jian gong zuo biao	388
+新建快捷方式	xin jian kuai jie fang shi	390
+新建文本	xin jian wen ben	393
+新建文本文档	xin jian wen ben wen dang	392
+新建文档	xin jian wen dang	389
+新建压缩文件	xin jian ya suo wen jian	387
+新建右键功能	xin jian you jian gong neng	362
+芯片反转	xin pian fan zhuan	266
+芯片内集成缓存	xin pian nei ji cheng huan cun	282
+芯片频率重标识	xin pian pin lv zhong biao zhi	222
+芯片组	xin pian zu	143
+新一代输出标准	xin yi dai shu chu biao zhun	166
+新指令集	xin zhi ling ji	251
+性能比率	xing neng bi lv	231
+修改	xiu gai	247
+虚拟现实模型语言	xu ni xian shi mo xing yu yan	293
+循环冗余检查	xun huan rong yu jian cha	122
+压缩纹理	ya suo wen li	75
+眼球大战	yan qiu da zhan	81
+液晶显示屏	ye jing xian shi ping	108
+一般程序时间	yi ban cheng xu shi jian	41
+一般点光源	yi ban dian guang yuan	9
+异步传输模式	yi bu chuan shu mo shi	327
+移动式子卡	yi dong shi zi ka	170
+一键备份	yi jian bei fen	373
+一键恢复	yi jian hui fu	374
+一键恢复备份	yi jian hui fu bei fen	372
+一种邮件协议	yi zhong you jian xie yi	299
+印花法	yin hua fa	71
+阴极射线管	yin ji she xian guan	121
+引脚网格阵列	yin jiao wang ge zhen lie	232
+隐面消除	yin mian xiao chu	82
+印刷电路板	yin shua dian lu ban	165
+印刷电路板装配	yin shua dian lu ban zhuang pei	164
+音效	yin xiao	195
+阴罩式	yin zhao shi	98
+硬件抽像化层	ying jian chou xiang hua ceng	39
+硬件模拟层	ying jian mo ni ceng	36
+硬件运动补偿	ying jian yun dong bu chang	38
+映射	ying she	26
+英特尔架构	ying te er jia gou	261
+英特尔开发者论坛	ying te er kai fa zhe lun tan	258
+英特尔移动模块	ying te er yi dong mo kuai	256
+用户数据报协议	yong hu shu ju bao xie yi	320
+右击	you ji	384
+优盘	you pan	401
+域名系统	yu ming xi tong	311
+远程过程调用协议	yuan cheng guo cheng diao yong xie yi	321
+云盘	yun pan	397
+在新窗口中打开	zai xin chuang kou zhong da kai	380
+增强桥	zeng qiang qiao	135
+增强式突发处理	zeng qiang shi tu fa chu li	52
+增强形工业标准架构	zeng qiang xing gong ye biao zhun jia gou	185
+增强形扩充身份辨识数据	zeng qiang xing kuo chong shen fen bian shi shu ju	55
+增强形视频数据通道协议	zeng qiang xing shi pin shu ju tong dao xie yi	57
+增强形帧解析引擎	zeng qiang xing zhen jie xi yin qing	85
+兆赫兹	zhao he zi	240
+帧比率控制	zhen bi lv kong zhi	109
+帧缓冲缓存	zhen huan chong huan cun	182
+帧数为王	zhen shu wei wang	49
+整数执行单元	zheng shu zhi xing dan yuan	257
+只读存储器	zhi du cun chu qi	332
+直接模式	zhi jie mo shi	32
+直接内存执行	zhi jie nei cun zhi xing	65
+指令分类	zhi ling fen lei	254
+指令缓存	zhi ling huan cun	255
+指令集架构	zhi ling ji jia gou	252
+指令解码	zhi ling jie ma	279
+指令控制单元	zhi ling kong zhi dan yuan	260
+指令时钟周期	zhi ling shi zhong zhou qi	253
+指令引退	zhi ling yin tui	220
+执行缓冲区	zhi xing huan chong qu	54
+中央处理单元	zhong yang chu li dan yuan	335
+中央处理器	zhong yang chu li qi	408
+中央处理器模型	zhong yang chu li qi mo xing	407
+中央处理器占用率	zhong yang chu li qi zhan yong lv	73
+终止程序	zhong zhi cheng xu	351
+主板	zhu ban	197
+主板技术	zhu ban ji shu	147
+桌面管理接口	zhuo mian guan li jie kou	187
+着色或渲染	zhuo se huo xuan ran	3
+自动调效屏幕尺寸和中心位置	zi dong tiao xiao ping mu chi cun he zhong xin wei zhi	124
+资源冲突	zi yuan chong tu	221
+组件对象模型	zu jian dui xiang mo xing	318
