@@ -1,0 +1,26 @@
+# 文件名：亚盘.scel
+# 词库名：亚盘
+# 词库分类：足球
+# 词库描述：
+# 词条样例：受两球两球半 受球半 受一球球半 受半球 平手半球 球半
+# 词条数量：19
+
+半球	ban qiu	8
+半球一球	ban qiu yi qiu	7
+两球	liang qiu	2
+两球两球半	liang qiu liang qiu ban	1
+平手	ping shou	10
+平手半球	ping shou ban qiu	9
+球半	qiu ban	4
+球半两球	qiu ban liang qiu	3
+受半球	shou ban qiu	12
+受半一	shou ban yi	13
+受两球	shou liang qiu	18
+受两球两球半	shou liang qiu liang qiu ban	19
+受平手半球	shou ping shou ban qiu	11
+受球半	shou qiu ban	16
+受球半两球	shou qiu ban liang qiu	17
+受一球	shou yi qiu	14
+受一球球半	shou yi qiu qiu ban	15
+一球	yi qiu	6
+一球球半	yi qiu qiu ban	5

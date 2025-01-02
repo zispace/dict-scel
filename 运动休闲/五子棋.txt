@@ -1,0 +1,32 @@
+# 文件名：五子棋.scel
+# 词库名：五子棋
+# 词库分类：休闲牌类
+# 词库描述：
+# 词条样例：连珠 四三 禁手 跳二 花月 开局
+# 词条数量：25
+
+白棋	bai qi	7
+冲四	chong si	22
+防守	fang shou	1
+寒星	han xing	15
+黑棋	hei qi	6
+花月	hua yue	10
+活三	huo san	23
+进攻	jin gong	2
+禁手	jin shou	20
+开局	kai ju	9
+连珠	lian zhu	25
+流星	liu xing	12
+眠三	mian san	18
+棋盘	qi pan	5
+棋子	qi zi	4
+疏星	shu xing	13
+四三	si san	21
+四三三	si san san	17
+跳二	tiao er	19
+五子棋	wu zi qi	24
+溪月	xi yue	14
+优势	you shi	8
+雨月	yu yue	11
+抓禁手	zhua jin shou	16
+做活	zuo huo	3

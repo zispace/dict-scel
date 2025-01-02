@@ -1,0 +1,13 @@
+# 文件名：足彩.scel
+# 词库名：足彩
+# 词库分类：足球
+# 词库描述：
+# 词条样例：往绩 对战 普强 准强 人强
+# 词条数量：6
+
+对战	dui zhan	5
+普强	pu qiang	3
+人强	ren qiang	4
+往绩	wang ji	6
+中游	zhong you	2
+准强	zhun qiang	1

@@ -1,0 +1,17 @@
+# 文件名：篮球攻守转换.scel
+# 词库名：篮球攻守转换
+# 词库分类：篮球
+# 词库描述：
+# 词条样例：拿到进攻篮板 弧顶三分 右侧度三分 左侧中距离跳投 弧顶中距离跳投 右侧中距离跳投
+# 词条数量：10
+
+弧顶三分	hu ding san fen	6
+弧顶中距离跳投	hu ding zhong ju li tiao tou	2
+拿到防守篮板	na dao fang shou lan ban	9
+拿到进攻篮板	na dao jin gong lan ban	10
+右侧底角三分	you ce di jiao san fen	7
+右侧度三分	you ce du san fen	4
+右侧中距离跳投	you ce zhong ju li tiao tou	1
+左侧底角三分	zuo ce di jiao san fen	8
+左侧度三分	zuo ce du san fen	5
+左侧中距离跳投	zuo ce zhong ju li tiao tou	3
