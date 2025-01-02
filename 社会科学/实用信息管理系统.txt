@@ -1,0 +1,4619 @@
+# 文件名：实用信息管理系统.scel
+# 词库名：实用信息管理系统
+# 词库分类：管理科学与工程
+# 词库描述：
+# 词条样例：未审核已审核 系统功能 门店盘点 注册信息 各店商品 区域
+# 词条数量：4612
+
+爱好	ai hao	4449
+按权限体分割结果	an quan xian ti fen ge jie guo	4447
+按销售导入结算单发生表	an xiao shou dao ru jie suan dan fa sheng biao	4446
+安装日期	an zhuang ri qi	4448
+版本	ban ben	4472
+班次	ban ci	4445
+搬迁时间	ban qian shi jian	4443
+班组	ban zu	4444
+保本销售额	bao ben xiao shou e	4430
+报表重发标志定义	bao biao chong fa biao zhi ding yi	4420
+保底金额	bao di jin e	4429
+保额	bao e	4428
+保额总额	bao e zong e	4427
+报告	bao gao	4419
+包裹编号	bao guo bian hao	4442
+包含标志	bao han biao zhi	4441
+报货类型	bao huo lei xing	4418
+包名	bao ming	4610
+报批门店	bao pi men dian	4417
+报批人	bao pi ren	4416
+报批时间	bao pi shi jian	4415
+报损原因	bao sun yuan yin	4414
+报文类型	bao wen lei xing	4413
+保险费	bao xian fei	4426
+保险费总额	bao xian fei zong e	4425
+保险人	bao xian ren	4424
+保修期限	bao xiu qi xian	4423
+保证金	bao zheng jin	4422
+保质期	bao zhi qi	4421
+包装	bao zhuang	4482
+包装单位	bao zhuang dan wei	4440
+包装规格	bao zhuang gui ge	4481
+包装规格描述	bao zhuang gui ge miao shu	4439
+包装规格说明	bao zhuang gui ge shuo ming	4438
+包装件数	bao zhuang jian shu	4437
+包装描述	bao zhuang miao shu	4436
+包装数	bao zhuang shu	4435
+包装数量	bao zhuang shu liang	4434
+包装数量字符串	bao zhuang shu liang zi fu chuan	4433
+包装说明	bao zhuang shuo ming	4432
+包装箱数	bao zhuang xiang shu	4431
+被重开的发票号	bei chong kai de fa piao hao	4402
+倍数	bei shu	4408
+被调整单据表名	bei tiao zheng dan ju biao ming	4407
+被调整单据行号	bei tiao zheng dan ju hang hao	4403
+被调整单据号	bei tiao zheng dan ju hao	4406
+被调整单据来源单号	bei tiao zheng dan ju lai yuan dan hao	4405
+被调整单据类型	bei tiao zheng dan ju lei xing	4404
+备忘内容	bei wang nei rong	4412
+备忘文件	bei wang wen jian	4411
+备忘最后修改时间	bei wang zui hou xiu gai shi jian	4410
+备注	bei zhu	4409
+本次抵扣预付款	ben ci di kou yu fu kuan	4401
+本次付款调整额	ben ci fu kuan tiao zheng e	4400
+本次实收金额	ben ci shi shou jin e	4399
+本次收回数量	ben ci shou hui shu liang	4398
+本次收款额	ben ci shou kuan e	4396
+本次收款调整额	ben ci shou kuan tiao zheng e	4397
+本次退还金额	ben ci tui huan jin e	4395
+本次应付货款	ben ci ying fu huo kuan	4394
+本次应扣费用	ben ci ying kou fei yong	4393
+本次应收金额	ben ci ying shou jin e	4392
+本单位生效	ben dan wei sheng xiao	4391
+本地单据状态	ben di dan ju zhuang tai	4390
+本地附加权限	ben di fu jia quan xian	4389
+本地供应商	ben di gong ying shang	4388
+本地客户	ben di ke hu	4387
+本地权限	ben di quan xian	4386
+本地商品	ben di shang pin	4385
+本地商品的缺省仓位	ben di shang pin de que sheng cang wei	4384
+本地商品的缺省供应商	ben di shang pin de que sheng gong ying shang	4383
+本地商品的营销方式	ben di shang pin de ying xiao fang shi	4382
+本地员工	ben di yuan gong	4381
+本店促销价	ben dian cu xiao jia	4380
+本店促销进价	ben dian cu xiao jin jia	4379
+本店核算售价	ben dian he suan shou jia	4378
+本店会员促销价	ben dian hui yuan cu xiao jia	4377
+本店会员价	ben dian hui yuan jia	4376
+本店进价	ben dian jin jia	4375
+本店配货仓位	ben dian pei huo cang wei	4374
+本店批发价	ben dian pi fa jia	4373
+本店启用	ben dian qi yong	4372
+本店直配仓位	ben dian zhi pei cang wei	4371
+本方联系人	ben fang lian xi ren	4370
+本期发生额	ben qi fa sheng e	4369
+本期进货额	ben qi jin huo e	4368
+本期销售成本	ben qi xiao shou cheng ben	4367
+本期销售额	ben qi xiao shou e	4366
+本期已付额	ben qi yi fu e	4365
+本期已付款	ben qi yi fu kuan	4364
+本期已收额	ben qi yi shou e	4363
+本期周转天数	ben qi zhou zhuan tian shu	4362
+比例系数	bi li xi shu	4361
+币种	bi zhong	4360
+币种代码	bi zhong dai ma	4359
+币种汇率	bi zhong hui lv	4358
+币种金额	bi zhong jin e	4357
+变长定制信息	bian chang ding zhi xin xi	4337
+变长定制信息长度	bian chang ding zhi xin xi chang du	4336
+编号	bian hao	4356
+编辑次数	bian ji ci shu	4355
+便利缴款单	bian li jiao kuan dan	4353
+便利缴款单缓冲表	bian li jiao kuan dan huan chong biao	4352
+便利缴款单缓冲视图	bian li jiao kuan dan huan chong shi tu	4351
+便利缴款单明细	bian li jiao kuan dan ming xi	4350
+便利缴款单明细缓冲表	bian li jiao kuan dan ming xi huan chong biao	4349
+便利缴款单明细缓冲视图	bian li jiao kuan dan ming xi huan chong shi tu	4348
+便利缴款单明细视图	bian li jiao kuan dan ming xi shi tu	4347
+便利缴款单视图	bian li jiao kuan dan shi tu	4346
+便利门店订单接收缓冲	bian li men dian ding dan jie shou huan chong	4345
+便利门店积分兑换数据	bian li men dian ji fen dui huan shu ju	4344
+便利门店进销存单据接收缓冲	bian li men dian jin xiao cun dan ju jie shou huan chong	4343
+便利门店进销存月报	bian li men dian jin xiao cun yue bao	4342
+便利前台员工签到	bian li qian tai yuan gong qian dao	4341
+便利前台员工签到接收缓冲	bian li qian tai yuan gong qian dao jie shou huan chong	4340
+便利统配收货差异单接收缓冲	bian li tong pei shou huo cha yi dan jie shou huan chong	4339
+便利月结转期	bian li yue jie zhuan qi	4338
+编码位数	bian ma wei shu	4354
+表格名	biao ge ming	4322
+标记	biao ji	4335
+表名	biao ming	4593
+标签打印记录	biao qian da yin ji lu	4334
+标签代码	biao qian dai ma	4333
+标签叫货单接收缓冲	biao qian jiao huo dan jie shou huan chong	4332
+标签类型	biao qian lei xing	4331
+标签区域	biao qian qu yu	4330
+标签商品	biao qian shang pin	4329
+标识号	biao shi hao	4328
+标题	biao ti	4327
+标志	biao zhi	4326
+标识	biao zhi	4451
+标识符	biao zhi fu	4584
+标准结算方式	biao zhun jie suan fang shi	4325
+标准零售价	biao zhun ling shou jia	4324
+标准售价	biao zhun shou jia	4323
+补差差价	bu cha cha jia	4321
+补差方式	bu cha fang shi	4320
+补差计算方式	bu cha ji suan fang shi	4319
+补差价差	bu cha jia cha	4318
+补差金额	bu cha jin e	4317
+补差金额上限	bu cha jin e shang xian	4316
+补差进价	bu cha jin jia	4315
+补差视图	bu cha shi tu	4314
+补差数量上限	bu cha shu liang shang xian	4313
+步长	bu chang	4311
+部门	bu men	4310
+部门代码	bu men dai ma	4309
+部门限制	bu men xian zhi	4308
+部门员工	bu men yuan gong	4307
+不自动补货原因	bu zi dong bu huo yuan yin	4312
+菜单结构	cai dan jie gou	4289
+菜单结构时间戳	cai dan jie gou shi jian chuo	4288
+采购规格	cai gou gui ge	4300
+采购审批人	cai gou shen pi ren	4299
+采购员	cai gou yuan	4298
+采购员配货单按门店	cai gou yuan pei huo dan an men dian	4297
+采购员配货单按门店门店明细	cai gou yuan pei huo dan an men dian men dian ming xi	4296
+采购员配货单按门店明细	cai gou yuan pei huo dan an men dian ming xi	4295
+采购员配货单按商品	cai gou yuan pei huo dan an shang pin	4294
+采购员配货单按商品明细	cai gou yuan pei huo dan an shang pin ming xi	4293
+采购员信息	cai gou yuan xin xi	4292
+采集地点	cai ji di dian	4291
+采集日期	cai ji ri qi	4290
+裁剪商品	cai jian shang pin	4301
+财务代码	cai wu dai ma	4306
+财务店名	cai wu dian ming	4305
+财务应付款报表	cai wu ying fu kuan bao biao	4304
+财务应付款当前值视图	cai wu ying fu kuan dang qian zhi shi tu	4303
+财务状态	cai wu zhuang tai	4302
+参考类别	can kao lei bie	4287
+参考要货价	can kao yao huo jia	4286
+参考组群	can kao zu qun	4285
+参数	can shu	4284
+参数可选值	can shu ke xuan zhi	4283
+参数可选值描述	can shu ke xuan zhi miao shu	4282
+参数类型	can shu lei xing	4281
+参数描述	can shu miao shu	4280
+参数名	can shu ming	4279
+参数名称	can shu ming cheng	4278
+参数值	can shu zhi	4277
+参数值标志	can shu zhi biao zhi	4276
+参数中文名	can shu zhong wen ming	4275
+参与结算	can yu jie suan	4274
+仓库	cang ku	4273
+仓库拆零复查单	cang ku chai ling fu cha dan	4272
+仓库面积	cang ku mian ji	4271
+仓位	cang wei	4270
+仓位代码	cang wei dai ma	4269
+仓位视图	cang wei shi tu	4268
+仓位员工	cang wei yuan gong	4267
+仓位总表	cang wei zong biao	4266
+仓位总视图	cang wei zong shi tu	4265
+操作	cao zuo	4264
+操作编号	cao zuo bian hao	4263
+操作单位	cao zuo dan wei	4262
+操作记录	cao zuo ji lu	4261
+操作结果	cao zuo jie guo	4260
+操作类型	cao zuo lei xing	4259
+操作描述	cao zuo miao shu	4258
+操作模式	cao zuo mo shi	4257
+操作期号	cao zuo qi hao	4256
+操作前余额	cao zuo qian yu e	4255
+操作人	cao zuo ren	4254
+操作人代码	cao zuo ren dai ma	4253
+操作人姓名	cao zuo ren xing ming	4252
+操作时间	cao zuo shi jian	4251
+操作说明	cao zuo shuo ming	4250
+操作系统用户口令	cao zuo xi tong yong hu kou ling	4249
+操作系统用户名	cao zuo xi tong yong hu ming	4248
+操作员	cao zuo yuan	4247
+层级码	ceng ji ma	4246
+差额计算方式	cha e ji suan fang shi	4229
+插入语句	cha ru yu ju	4245
+查询服务器	cha xun fu wu qi	4244
+查询服务器配置	cha xun fu wu qi pei zhi	4243
+查询类别表	cha xun lei bie biao	4242
+查询类别商品表	cha xun lei bie shang pin biao	4241
+查询名称	cha xun ming cheng	4240
+查询任务	cha xun ren wu	4239
+查询任务编号	cha xun ren wu bian hao	4238
+查询任务参数表	cha xun ren wu can shu biao	4237
+查询任务配置表	cha xun ren wu pei zhi biao	4236
+查询任务日志	cha xun ren wu ri zhi	4235
+查询任务条件表	cha xun ren wu tiao jian biao	4234
+查询文件对应服务器	cha xun wen jian dui ying fu wu qi	4233
+查询文件名	cha xun wen jian ming	4232
+查询语句	cha xun yu ju	4230
+查询与类别对应表	cha xun yu lei bie dui ying biao	4231
+差异数量	cha yi shu liang	4228
+差异箱数	cha yi xiang shu	4227
+差异原因	cha yi yuan yin	4226
+拆分来源单号	chai fen lai yuan dan hao	4225
+拆分来源单据类型	chai fen lai yuan dan ju lei xing	4224
+拆分来源类型	chai fen lai yuan lei xing	4223
+拆零复查单商品扫描明细	chai ling fu cha dan shang pin sao miao ming xi	4222
+拆零区频次	chai ling qu pin ci	4221
+产地	chan di	4220
+产品成本	chan pin cheng ben	4219
+产品代码	chan pin dai ma	4218
+产品纪录数	chan pin ji lu shu	4216
+产品记录数	chan pin ji lu shu	4217
+产品名称	chan pin ming cheng	4215
+产品说明	chan pin shuo ming	4214
+产品信息	chan pin xin xi	4213
+产品预估成本价	chan pin yu gu cheng ben jia	4212
+产品原料	chan pin yuan liao	4211
+长度	chang du	4210
+长度单位	chang du dan wei	4209
+厂方货号	chang fang huo hao	4208
+畅销率	chang xiao lv	4207
+车辆安排	che liang an pai	4206
+车辆类型	che liang lei xing	4205
+车牌号	che pai hao	4204
+陈列面	chen lie mian	4203
+陈列图文件	chen lie tu wen jian	4202
+陈列原则	chen lie yuan ze	4201
+承包费	cheng bao fei	4184
+成本	cheng ben	4200
+成本差额	cheng ben cha e	4198
+成本额	cheng ben e	4189
+成本估价	cheng ben gu jia	4199
+成本价	cheng ben jia	4188
+成本金额	cheng ben jin e	4187
+成本平摊算法	cheng ben ping tan suan fa	4186
+成本税额	cheng ben shui e	4185
+成本调整	cheng ben tiao zheng	4197
+成本调整标志	cheng ben tiao zheng biao zhi	4196
+成本调整额	cheng ben tiao zheng e	4195
+成本调整通知单	cheng ben tiao zheng tong zhi dan	4194
+成本调整通知单反馈明细	cheng ben tiao zheng tong zhi dan fan kui ming xi	4193
+成本调整通知单明细	cheng ben tiao zheng tong zhi dan ming xi	4192
+成本调整通知单日志	cheng ben tiao zheng tong zhi dan ri zhi	4191
+成本调整通知生效单位	cheng ben tiao zheng tong zhi sheng xiao dan wei	4190
+秤号	cheng hao	4181
+承运方	cheng yun fang	4183
+承重量	cheng zhong liang	4182
+持卡人	chi ka ren	4180
+持续时间	chi xu shi jian	4179
+冲抵金额	chong di jin e	4177
+重发次数	chong fa ci shu	180
+重复周期	chong fu zhou qi	179
+重算标记	chong suan biao ji	176
+冲正标志	chong zheng biao zhi	4176
+充值额	chong zhi e	4178
+出错笔数	chu cuo bi shu	4175
+出货仓位	chu huo cang wei	4174
+出货成本	chu huo cheng ben	4173
+出货成本差异	chu huo cheng ben cha yi	4172
+出货成本调整额	chu huo cheng ben tiao zheng e	4171
+出货成本调整总额	chu huo cheng ben tiao zheng zong e	4170
+出货单	chu huo dan	4169
+出货单行号	chu huo dan hang hao	4162
+出货单号	chu huo dan hao	4168
+出货单价	chu huo dan jia	4167
+出货单类型	chu huo dan lei xing	4166
+出货单明细	chu huo dan ming xi	4165
+出货单批次明细	chu huo dan pi ci ming xi	4164
+出货单位	chu huo dan wei	4163
+出货单赠品明细	chu huo dan zeng pin ming xi	4161
+出货方式	chu huo fang shi	4160
+出货规格	chu huo gui ge	4159
+出货金额	chu huo jin e	4158
+出货年报	chu huo nian bao	4157
+出货去税年报	chu huo qu shui nian bao	4156
+出货去税日报	chu huo qu shui ri bao	4155
+出货去税月报	chu huo qu shui yue bao	4154
+出货日报	chu huo ri bao	4153
+出货日报期初值	chu huo ri bao qi chu zhi	4152
+出货实拣录入单	chu huo shi jian lu ru dan	4150
+出货实拣录入单明细	chu huo shi jian lu ru dan ming xi	4149
+出货实拣录入单日志	chu huo shi jian lu ru dan ri zhi	4148
+出货时进价取法	chu huo shi jin jia qu fa	4151
+出货数量	chu huo shu liang	4147
+出货税额	chu huo shui e	4146
+出货退货单	chu huo tui huo dan	4145
+出货退货单号	chu huo tui huo dan hao	4144
+出货退货单拒退明细	chu huo tui huo dan ju tui ming xi	4143
+出货退货单类型	chu huo tui huo dan lei xing	4142
+出货退货单明细	chu huo tui huo dan ming xi	4141
+出货退货单批次明细	chu huo tui huo dan pi ci ming xi	4140
+出货退货单退款明细	chu huo tui huo dan tui kuan ming xi	4139
+出货月报	chu huo yue bao	4138
+处理标记	chu li biao ji	4120
+处理标志	chu li biao zhi	4118
+处理标识	chu li biao zhi	4119
+处理方式	chu li fang shi	4117
+处理时间	chu li shi jian	4116
+出生年月	chu sheng nian yue	4137
+初始出货税额	chu shi chu huo shui e	4136
+初始含税单价	chu shi han shui dan jia	4135
+初始含税金额	chu shi han shui jin e	4134
+初始化时本机时间	chu shi hua shi ben ji shi jian	4133
+初始化时预设时间	chu shi hua shi yu she shi jian	4132
+初始配货额	chu shi pei huo e	4131
+初始配货含税金额	chu shi pei huo han shui jin e	4130
+初始配货价	chu shi pei huo jia	4129
+初始配货数	chu shi pei huo shu	4128
+初始数量	chu shi shu liang	4127
+初始税额	chu shi shui e	4126
+初始箱数	chu shi xiang shu	4125
+储值	chu zhi	4124
+储值卡付款方式设置	chu zhi ka fu kuan fang shi she zhi	4123
+储值卡号	chu zhi ka hao	4122
+储值卡驱动	chu zhi ka qu dong	4121
+串口参数	chuan kou can shu	4609
+传真	chuan zhen	4115
+传真号	chuan zhen hao	4114
+创建批号	chuang jian pi hao	4110
+创建人	chuang jian ren	4109
+创建日期	chuang jian ri qi	4108
+创建时间	chuang jian shi jian	4107
+窗体标题	chuang ti biao ti	4113
+窗体名	chuang ti ming	4112
+窗体名称	chuang ti ming cheng	4111
+磁卡记录	ci ka ji lu	4106
+磁卡总帐	ci ka zong zhang	4105
+次序号	ci xu hao	4104
+促销标记	cu xiao biao ji	4103
+促销标志	cu xiao biao zhi	4102
+促销补差单	cu xiao bu cha dan	4101
+促销补差单当前值表	cu xiao bu cha dan dang qian zhi biao	4100
+促销补差单明细	cu xiao bu cha dan ming xi	4099
+促销补差单日志	cu xiao bu cha dan ri zhi	4098
+促销补差单生效单位明细	cu xiao bu cha dan sheng xiao dan wei ming xi	4097
+促销补差协议	cu xiao bu cha xie yi	4096
+促销补差协议明细	cu xiao bu cha xie yi ming xi	4095
+促销补差协议日志	cu xiao bu cha xie yi ri zhi	4094
+促销补差协议生效表	cu xiao bu cha xie yi sheng xiao biao	4093
+促销补差协议生效单位	cu xiao bu cha xie yi sheng xiao dan wei	4092
+促销补差已结表	cu xiao bu cha yi jie biao	4091
+促销补差应结表	cu xiao bu cha ying jie biao	4090
+促销单	cu xiao dan	4089
+促销单不限制赠送数量条件表	cu xiao dan bu xian zhi zeng song shu liang tiao jian biao	4088
+促销单短信促销活动码	cu xiao dan duan xin cu xiao huo dong ma	4087
+促销单号	cu xiao dan hao	4086
+促销单可选赠品明细	cu xiao dan ke xuan zeng pin ming xi	4085
+促销单类型	cu xiao dan lei xing	4084
+促销单门店	cu xiao dan men dian	4083
+促销单明细	cu xiao dan ming xi	4082
+促销单明细明细	cu xiao dan ming xi ming xi	4081
+促销单日志	cu xiao dan ri zhi	4080
+促销单商品	cu xiao dan shang pin	4079
+促销单生效单位明细	cu xiao dan sheng xiao dan wei ming xi	4078
+促销单行号	cu xiao dan xing hao	4077
+促销单赠品表	cu xiao dan zeng pin biao	4076
+促销方式	cu xiao fang shi	4480
+促销费用	cu xiao fei yong	4075
+促销规则编号	cu xiao gui ze bian hao	4074
+促销规则单号	cu xiao gui ze dan hao	4073
+促销规则定义明细当前值	cu xiao gui ze ding yi ming xi dang qian zhi	4068
+促销规则类型	cu xiao gui ze lei xing	4067
+促销规则调整单	cu xiao gui ze tiao zheng dan	4072
+促销规则调整单促销码明细	cu xiao gui ze tiao zheng dan cu xiao ma ming xi	4071
+促销规则调整单明细	cu xiao gui ze tiao zheng dan ming xi	4070
+促销规则调整单日志	cu xiao gui ze tiao zheng dan ri zhi	4069
+促销价	cu xiao jia	4066
+促销价格	cu xiao jia ge	4065
+促销结束时间	cu xiao jie shu shi jian	4064
+促销进价	cu xiao jin jia	4063
+促销进价销售差额日报	cu xiao jin jia xiao shou cha e ri bao	4062
+促销开始时间	cu xiao kai shi shi jian	4061
+促销类型	cu xiao lei xing	4060
+促销联销率	cu xiao lian xiao lv	4059
+促销码	cu xiao ma	4058
+促销码标识	cu xiao ma biao zhi	4057
+促销码明细数	cu xiao ma ming xi shu	4056
+促销码批号	cu xiao ma pi hao	4055
+促销码偏移量	cu xiao ma pian yi liang	4054
+促销码数量上限	cu xiao ma shu liang shang xian	4053
+促销码信息	cu xiao ma xin xi	4052
+促销码总表	cu xiao ma zong biao	4051
+促销批发价	cu xiao pi fa jia	4050
+促销期	cu xiao qi	4049
+促销期号	cu xiao qi hao	4048
+促销申请单	cu xiao shen qing dan	4047
+促销申请单操作日志	cu xiao shen qing dan cao zuo ri zhi	4046
+促销申请单明细	cu xiao shen qing dan ming xi	4045
+促销申请单明细明细	cu xiao shen qing dan ming xi ming xi	4044
+促销申请单生效单位明细	cu xiao shen qing dan sheng xiao dan wei ming xi	4043
+促销序列号	cu xiao xu lie hao	4042
+促销主题	cu xiao zhu ti	4041
+促销主题代码	cu xiao zhu ti dai ma	4040
+促销总额条件表	cu xiao zong e tiao jian biao	4039
+促销总数条件表	cu xiao zong shu tiao jian biao	4038
+促销最低售价	cu xiao zui di shou jia	4037
+存储过程名	cun chu guo cheng ming	4036
+存款周期	cun kuan zhou qi	4035
+存取金额	cun qu jin e	4034
+错误代码	cuo wu dai ma	4033
+错误发生时间	cuo wu fa sheng shi jian	4032
+错误交换日志	cuo wu jiao huan ri zhi	4589
+错误信息	cuo wu xin xi	4031
+大包装商品	da bao zhuang shang pin	4004
+大包装数量	da bao zhuang shu liang	4003
+大类商品	da lei shang pin	4002
+大小包装转换标志	da xiao bao zhuang zhuan huan biao zhi	4001
+大小包装转换单	da xiao bao zhuang zhuan huan dan	4000
+大小包装转换单明细	da xiao bao zhuang zhuan huan dan ming xi	3999
+大小包装转换单日志	da xiao bao zhuang zhuan huan dan ri zhi	3998
+大小包装转换单生成单据明细	da xiao bao zhuang zhuan huan dan sheng cheng dan ju ming xi	3997
+大小包装转换单生效单位明细	da xiao bao zhuang zhuan huan dan sheng xiao dan wei ming xi	3996
+打印标志	da yin biao zhi	4030
+打印方式	da yin fang shi	4029
+打印联设置	da yin lian she zhi	4028
+打印模块行号	da yin mo kuai hang hao	4014
+打印模块号	da yin mo kuai hao	4023
+打印模块块对齐方式	da yin mo kuai kuai dui qi fang shi	4022
+打印模块块固定字符串	da yin mo kuai kuai gu ding zi fu chuan	4021
+打印模块块号	da yin mo kuai kuai hao	4020
+打印模块块宽度	da yin mo kuai kuai kuan du	4019
+打印模块块内容	da yin mo kuai kuai nei rong	4018
+打印模块块颜色	da yin mo kuai kuai yan se	4017
+打印模块块字体	da yin mo kuai kuai zi ti	4016
+打印模块块左界	da yin mo kuai kuai zuo jie	4015
+打印模块行末块标志	da yin mo kuai xing mo kuai biao zhi	4013
+打印模板	da yin mu ban	4027
+打印模板号	da yin mu ban hao	4026
+打印模板名称	da yin mu ban ming cheng	4025
+打印模板注册表	da yin mu ban zhu ce biao	4024
+打印人	da yin ren	4012
+打印日期	da yin ri qi	4011
+打印时间	da yin shi jian	4010
+打印数量	da yin shu liang	4009
+打印头信息	da yin tou xin xi	4008
+打印尾信息	da yin wei xin xi	4007
+打印组	da yin zu	4006
+打折下限	da zhe xia xian	4005
+大总部交换表	da zong bu jiao huan biao	3995
+大总部网络商品资料申请单	da zong bu wang luo shang pin zi liao shen qing dan	3994
+大总部网络商品资料申请单明细	da zong bu wang luo shang pin zi liao shen qing dan ming xi	3993
+待发送配货单	dai fa song pei huo dan	3974
+待发送退货单	dai fa song tui huo dan	3973
+待发送直配出货单	dai fa song zhi pei chu huo dan	3972
+代购	dai gou	3992
+代理号	dai li hao	3991
+代理商	dai li shang	3990
+代理优惠	dai li you hui	3989
+代理优惠内容	dai li you hui nei rong	3988
+代联销结算单	dai lian xiao jie suan dan	3987
+代联销结算单结算单位明细	dai lian xiao jie suan dan jie suan dan wei ming xi	3986
+代联销结算单明细	dai lian xiao jie suan dan ming xi	3985
+代联销结算单明细明细	dai lian xiao jie suan dan ming xi ming xi	3984
+代联销结算单票据明细	dai lian xiao jie suan dan piao ju ming xi	3983
+代联销商品已结记录	dai lian xiao shang pin yi jie ji lu	3982
+代码	dai ma	3981
+代码类型	dai ma lei xing	3980
+待配标志	dai pei biao zhi	3971
+待取货时间	dai qu huo shi jian	3970
+代收仓位	dai shou cang wei	3979
+代收实时协议	dai shou shi shi xie yi	3978
+待调数	dai tiao shu	3976
+待调数总和	dai tiao shu zong he	3975
+待退数	dai tui shu	3969
+代销价	dai xiao jia	3977
+担保人	dan bao ren	3940
+单号	dan hao	3968
+单价	dan jia	3967
+单据	dan ju	3966
+单据备忘录	dan ju bei wang lu	3965
+单据标识	dan ju biao zhi	3964
+单据到效日期	dan ju dao xiao ri qi	3963
+单据附件表	dan ju fu jian biao	3962
+单据关联表	dan ju guan lian biao	3961
+单据号	dan ju hao	3960
+单据金额	dan ju jin e	3959
+单据来源单位	dan ju lai yuan dan wei	3958
+单据类型	dan ju lei xing	3957
+单据流水号	dan ju liu shui hao	3956
+单据描述	dan ju miao shu	3955
+单据名	dan ju ming	3954
+单据名称	dan ju ming cheng	3953
+单据日期	dan ju ri qi	3952
+单据生成方式	dan ju sheng cheng fang shi	3951
+单据生成时间	dan ju sheng cheng shi jian	3950
+单据已付额	dan ju yi fu e	3949
+单据状态	dan ju zhuang tai	3948
+单卡折扣总额	dan ka zhe kou zong e	3947
+单品重量	dan pin zhong liang	3946
+单位	dan wei	3945
+单位代码	dan wei dai ma	3944
+单位类型	dan wei lei xing	3943
+单位名称	dan wei ming cheng	3942
+单行服务费	dan xing fu wu fei	3941
+档次	dang ci	3921
+当前版本	dang qian ban ben	3939
+当前促销短信促销活动码	dang qian cu xiao duan xin cu xiao huo dong ma	3938
+当前促销赠品表	dang qian cu xiao zeng pin biao	3937
+当前促销主商品表	dang qian cu xiao zhu shang pin biao	3936
+当前促销总额条件表	dang qian cu xiao zong e tiao jian biao	3935
+当前促销总数条件表	dang qian cu xiao zong shu tiao jian biao	3934
+当前核算进价	dang qian he suan jin jia	3933
+当前可用	dang qian ke yong	3932
+当前可用库存	dang qian ke yong ku cun	3931
+当前库存	dang qian ku cun	3930
+当前库存数量	dang qian ku cun shu liang	3929
+当前库数量	dang qian ku shu liang	3928
+当前批发价促销主商品表	dang qian pi fa jia cu xiao zhu shang pin biao	3927
+当前前台商品标记主商品表	dang qian qian tai shang pin biao ji zhu shang pin biao	3926
+当前生效限制业务表	dang qian sheng xiao xian zhi ye wu biao	3925
+当前特殊促销	dang qian te shu cu xiao	3924
+当前组合促销优惠折扣表	dang qian zu he cu xiao you hui zhe kou biao	3923
+当时费率	dang shi fei lv	3922
+导购提成比例	dao gou ti cheng bi li	3920
+到货日期	dao huo ri qi	3905
+到货数	dao huo shu	3904
+到货天数	dao huo tian shu	3903
+导入标志	dao ru biao zhi	3919
+导入单单号	dao ru dan dan hao	3918
+导入单号	dao ru dan hao	3917
+导入单据类型	dao ru dan ju lei xing	3916
+导入单类型	dao ru dan lei xing	3915
+导入单行号	dao ru dan xing hao	3914
+导入时间	dao ru shi jian	3913
+导入者	dao ru zhe	3912
+到效期	dao xiao qi	3902
+到效期管理	dao xiao qi guan li	3901
+到效日期	dao xiao ri qi	3900
+到效时间	dao xiao shi jian	3899
+导游号	dao you hao	3911
+导游普通扣点	dao you pu tong kou dian	3910
+导游特殊扣点	dao you te shu kou dian	3909
+导游提成金额	dao you ti cheng jin e	3908
+导游提成类型	dao you ti cheng lei xing	3907
+导游信息	dao you xin xi	3906
+等待反馈	deng dai fan kui	3895
+等待反馈完结	deng dai fan kui wan jie	3894
+等级	deng ji	3893
+登陆名	deng lu ming	3898
+登录人	deng lu ren	3896
+登陆人	deng lu ren	3897
+地点	di dian	3890
+第二代码	di er dai ma	3882
+第二配货单位	di er pei huo dan wei	3881
+第二配货单位取整起始数	di er pei huo dan wei qu zheng qi shi shu	3880
+第二最后更新时间	di er zui hou geng xin shi jian	3879
+抵扣金额	di kou jin e	3892
+地理位置	di li wei zhi	3889
+地税登记证	di shui deng ji zheng	3888
+地税税额	di shui shui e	3887
+抵销定单金额使用的积分	di xiao ding dan jin e shi yong de ji fen	3891
+地域信息	di yu xin xi	3886
+地域信息明细	di yu xin xi ming xi	3885
+地址	di zhi	4608
+地址电话	di zhi dian hua	3884
+地址二	di zhi er	3883
+店表	dian biao	4602
+店号	dian hao	3864
+电话	dian hua	3878
+电话费	dian hua fei	3877
+电脑维护员	dian nao wei hu yuan	3876
+电约标志	dian yue biao zhi	3875
+店长	dian zhang	3866
+店长联系方式	dian zhang lian xi fang shi	3865
+店主	dian zhu	3863
+店主联系方式	dian zhu lian xi fang shi	3862
+电子秤促销价下发表	dian zi cheng cu xiao jia xia fa biao	3874
+电子秤商品热键码	dian zi cheng shang pin re jian ma	3873
+电子秤商品生鲜码	dian zi cheng shang pin sheng xian ma	3872
+电子秤设备	dian zi cheng she bei	3871
+电子秤下发日志	dian zi cheng xia fa ri zhi	3870
+电子邮件	dian zi you jian	3869
+电子邮件地址	dian zi you jian di zhi	3868
+电子证书	dian zi zheng shu	3867
+调拨出成本	diao bo chu cheng ben	3861
+调拨出额	diao bo chu e	3860
+调拨出数	diao bo chu shu	3859
+调拨单价	diao bo dan jia	3858
+调拨价格	diao bo jia ge	3856
+调拨进成本	diao bo jin cheng ben	3854
+调拨金额	diao bo jin e	3855
+调拨进数	diao bo jin shu	3853
+调拨数量	diao bo shu liang	3852
+调拨税额	diao bo shui e	3851
+调拨原因	diao bo yuan yin	3850
+调拨原因代码	diao bo yuan yin dai ma	3849
+调出仓库存额	diao chu cang ku cun e	3848
+调出仓库存价	diao chu cang ku cun jia	3847
+调出仓库存数	diao chu cang ku cun shu	3846
+调出仓位	diao chu cang wei	3845
+调出成本	diao chu cheng ben	3844
+调出单号	diao chu dan hao	3843
+调出单价	diao chu dan jia	3842
+调出额	diao chu e	3841
+调出方库存	diao chu fang ku cun	3840
+调出方售价额	diao chu fang shou jia e	3839
+调出核售额	diao chu he shou e	3838
+调出核算额	diao chu he suan e	3837
+调出货位	diao chu huo wei	3836
+调出门店	diao chu men dian	3835
+调出去税额	diao chu qu shui e	3834
+调出去税核算额	diao chu qu shui he suan e	3833
+调出售价额	diao chu shou jia e	3832
+调出数	diao chu shu	3831
+调出税额	diao chu shui e	3830
+调出总额	diao chu zong e	3829
+调入仓库存额	diao ru cang ku cun e	3807
+调入仓库存价	diao ru cang ku cun jia	3806
+调入仓库存数	diao ru cang ku cun shu	3805
+调入仓位	diao ru cang wei	3804
+调入成本	diao ru cheng ben	3803
+调入单价	diao ru dan jia	3802
+调入调出	diao ru diao chu	3801
+调入调出仓位关系表	diao ru diao chu cang wei guan xi biao	3800
+调入额	diao ru e	3799
+调入方库存	diao ru fang ku cun	3798
+调入方售价额	diao ru fang shou jia e	3797
+调入核售额	diao ru he shou e	3796
+调入核算额	diao ru he suan e	3795
+调入货位	diao ru huo wei	3794
+调入门店	diao ru men dian	3793
+调入去税额	diao ru qu shui e	3792
+调入去税核算额	diao ru qu shui he suan e	3791
+调入售价额	diao ru shou jia e	3790
+调入数	diao ru shu	3789
+调入税额	diao ru shui e	3788
+调入总额	diao ru zong e	3787
+调研地点	diao yan di dian	3785
+调研对象	diao yan dui xiang	3784
+调研对象属性	diao yan dui xiang shu xing	3783
+调研类型	diao yan lei xing	3782
+调研类型编号	diao yan lei xing bian hao	3781
+调研类型名称	diao yan lei xing ming cheng	3780
+调研类型属性	diao yan lei xing shu xing	3779
+调研人	diao yan ren	3778
+调研人员	diao yan ren yuan	3777
+调研时间	diao yan shi jian	3776
+调用者	diao yong zhe	3775
+定单	ding dan	4601
+定单号	ding dan hao	3745
+定单类型	ding dan lei xing	3744
+定单明细	ding dan ming xi	3743
+定单明细记录号	ding dan ming xi ji lu hao	3742
+定单配货属性限制设置表	ding dan pei huo shu xing xian zhi she zhi biao	3741
+定单审核级别	ding dan shen he ji bie	3740
+定单审核级别用户	ding dan shen he ji bie yong hu	3739
+定单手机	ding dan shou ji	3738
+定单退货通知打印日志	ding dan tui huo tong zhi da yin ri zhi	3737
+定单唯一标识	ding dan wei yi biao zhi	3736
+定单优惠信息	ding dan you hui xin xi	3735
+定货池	ding huo chi	3734
+定货池日志	ding huo chi ri zhi	3733
+定货池生成单据表	ding huo chi sheng cheng dan ju biao	3732
+定货池总表	ding huo chi zong biao	3731
+定货单单号	ding huo dan dan hao	3730
+定货单号	ding huo dan hao	3729
+定货单位	ding huo dan wei	3728
+定货方式	ding huo fang shi	3727
+定货价	ding huo jia	3726
+定货金额	ding huo jin e	3725
+定货决策因子	ding huo jue ce yin zi	3724
+定货类型	ding huo lei xing	3723
+定货日期	ding huo ri qi	3722
+定货时间	ding huo shi jian	3720
+定货失效日期	ding huo shi xiao ri qi	3721
+定货数量	ding huo shu liang	3719
+定货退货数	ding huo tui huo shu	3718
+定货周期	ding huo zhou qi	3717
+定金	ding jin	3716
+订金发票号	ding jin fa piao hao	3747
+定金金额	ding jin jin e	3715
+订阅主题类名	ding yue zhu ti lei ming	3746
+定制单	ding zhi dan	3714
+定制单明细	ding zhi dan ming xi	3713
+东莞农信帐号	dong guan nong xin zhang hao	3712
+动销率	dong xiao lv	3711
+动作	dong zuo	3710
+断网销售	duan wang xiao shou	3686
+断网折扣	duan wang zhe kou	3685
+短信促销单	duan xin cu xiao dan	3709
+短信促销单号	duan xin cu xiao dan hao	3708
+短信促销单可用活动码	duan xin cu xiao dan ke yong huo dong ma	3707
+短信促销单门店明细	duan xin cu xiao dan men dian ming xi	3706
+短信促销单明细	duan xin cu xiao dan ming xi	3705
+短信促销单明细当前值	duan xin cu xiao dan ming xi dang qian zhi	3704
+短信促销单日志	duan xin cu xiao dan ri zhi	3703
+短信促销活动码	duan xin cu xiao huo dong ma	3702
+短信促销类别	duan xin cu xiao lei bie	3701
+短信促销码	duan xin cu xiao ma	3700
+短信促销码视图	duan xin cu xiao ma shi tu	3699
+短信金额	duan xin jin e	3698
+短信码	duan xin ma	3697
+短信码批号	duan xin ma pi hao	3696
+短信码数量	duan xin ma shu liang	3695
+短信手机	duan xin shou ji	3694
+短信提货单	duan xin ti huo dan	3693
+短信提货单当前值	duan xin ti huo dan dang qian zhi	3692
+短信提货单门店明细	duan xin ti huo dan men dian ming xi	3691
+短信提货单明细	duan xin ti huo dan ming xi	3690
+短信提货单明细当前值	duan xin ti huo dan ming xi dang qian zhi	3689
+短信提货单日志	duan xin ti huo dan ri zhi	3688
+短信消费数据	duan xin xiao fei shu ju	3687
+对方仓位	dui fang cang wei	3684
+对方代码	dui fang dai ma	3683
+对方单号	dui fang dan hao	3682
+对方单位	dui fang dan wei	3681
+对方联系人	dui fang lian xi ren	3680
+对方名称	dui fang ming cheng	3679
+对方签约人	dui fang qian yue ren	3678
+对方收款人	dui fang shou kuan ren	3677
+对方税号	dui fang shui hao	3676
+兑换标识	dui huan biao zhi	3668
+兑换商品	dui huan shang pin	3667
+兑换收取金额	dui huan shou qu jin e	3666
+兑换数量	dui huan shu liang	3665
+兑换系数	dui huan xi shu	3664
+兑奖标识	dui jiang biao zhi	3663
+兑奖单	dui jiang dan	4483
+兑奖单兑奖物明细	dui jiang dan dui jiang wu ming xi	3662
+兑奖单兑奖物明细缓冲表	dui jiang dan dui jiang wu ming xi huan chong biao	3661
+兑奖单缓冲表	dui jiang dan huan chong biao	3660
+兑奖单商品明细	dui jiang dan shang pin ming xi	3659
+兑奖单商品明细缓冲表	dui jiang dan shang pin ming xi huan chong biao	3658
+兑奖方式	dui jiang fang shi	3657
+兑奖规格调整单	dui jiang gui ge tiao zheng dan	3656
+兑奖规格调整单当前值	dui jiang gui ge tiao zheng dan dang qian zhi	3655
+兑奖规格调整单明细	dui jiang gui ge tiao zheng dan ming xi	3654
+兑奖规格调整单日志	dui jiang gui ge tiao zheng dan ri zhi	3653
+兑奖规则单号	dui jiang gui ze dan hao	3652
+兑奖规则行号	dui jiang gui ze hang hao	3650
+兑奖规则类型	dui jiang gui ze lei xing	3651
+兑奖行号	dui jiang hang hao	3627
+兑奖商品销售日报缓冲表	dui jiang shang pin xiao shou ri bao huan chong biao	3649
+兑奖物	dui jiang wu	3648
+兑奖物本店日报	dui jiang wu ben dian ri bao	3647
+兑奖物财务库存	dui jiang wu cai wu ku cun	3646
+兑奖物代码	dui jiang wu dai ma	3645
+兑奖物规格	dui jiang wu gui ge	3644
+兑奖物回收单	dui jiang wu hui shou dan	3643
+兑奖物回收单明细	dui jiang wu hui shou dan ming xi	3642
+兑奖物回收单日志	dui jiang wu hui shou dan ri zhi	3641
+兑奖物结算单	dui jiang wu jie suan dan	3640
+兑奖物结算单明细	dui jiang wu jie suan dan ming xi	3639
+兑奖物结算单日志	dui jiang wu jie suan dan ri zhi	3638
+兑奖物结算单商品明细	dui jiang wu jie suan dan shang pin ming xi	3637
+兑奖物库存	dui jiang wu ku cun	3636
+兑奖物库存调整单明细	dui jiang wu ku cun tiao zheng dan ming xi	3635
+兑奖物库存调整单日志	dui jiang wu ku cun tiao zheng dan ri zhi	3634
+兑奖物门店日报	dui jiang wu men dian ri bao	3633
+兑奖物商品关系	dui jiang wu shang pin guan xi	3632
+兑奖物数量	dui jiang wu shu liang	3631
+兑奖物条码	dui jiang wu tiao ma	3630
+兑奖物总表	dui jiang wu zong biao	3629
+兑奖销售日报缓冲表	dui jiang xiao shou ri bao huan chong biao	3628
+对象编号	dui xiang bian hao	3675
+对象名称	dui xiang ming cheng	3674
+对应单号	dui ying dan hao	3673
+对应季节	dui ying ji jie	3672
+对应结算调整单单号	dui ying jie suan tiao zheng dan dan hao	3671
+对应类型	dui ying lei xing	3670
+对应序号	dui ying xu hao	3669
+多行	duo hang	3626
+二级明细代码	er ji ming xi dai ma	3625
+二级明细行号	er ji ming xi hang hao	3622
+二级明细类型	er ji ming xi lei xing	3624
+二级明细名称	er ji ming xi ming cheng	3623
+发布部门	fa bu bu men	3621
+发布人	fa bu ren	3620
+发布日期	fa bu ri qi	3619
+发布时间	fa bu shi jian	3618
+发放单单号	fa fang dan dan hao	3617
+发放类型	fa fang lei xing	3616
+发工作任务重复周期	fa gong zuo ren wu chong fu zhou qi	3615
+发货仓位	fa huo cang wei	3614
+发货单位	fa huo dan wei	3613
+发货地址	fa huo di zhi	3612
+发货方	fa huo fang	3611
+发货方联系电话	fa huo fang lian xi dian hua	3610
+发货方联系人	fa huo fang lian xi ren	3609
+发货靠近地点	fa huo kao jin di dian	3608
+发货人	fa huo ren	3607
+发货日期	fa huo ri qi	3606
+发货时核算进价	fa huo shi he suan jin jia	3605
+发货时核算售价	fa huo shi he suan shou jia	3604
+发货时间	fa huo shi jian	3603
+发货总税额	fa huo zong shui e	3602
+发卡日期	fa ka ri qi	3601
+发票	fa piao	3600
+发票代码	fa piao dai ma	3599
+发票管理日志	fa piao guan li ri zhi	3598
+发票含税金额	fa piao han shui jin e	3597
+发票号	fa piao hao	3596
+发票金额	fa piao jin e	3595
+发票类型	fa piao lei xing	3594
+发票联	fa piao lian	3593
+发票明细	fa piao ming xi	3592
+发票日期	fa piao ri qi	3591
+发票税额	fa piao shui e	3590
+发票税率	fa piao shui lv	3589
+发票抬头	fa piao tai tou	3588
+发票赠码结果	fa piao zeng ma jie guo	3587
+发票赠码结果明细	fa piao zeng ma jie guo ming xi	3586
+发票赠码结果明细短信码明细	fa piao zeng ma jie guo ming xi duan xin ma ming xi	3585
+发票赠码结果明细中间表	fa piao zeng ma jie guo ming xi zhong jian biao	3584
+发票赠码结果中间表	fa piao zeng ma jie guo zhong jian biao	3583
+发起单位	fa qi dan wei	3582
+发起方代码	fa qi fang dai ma	3581
+发起方分支代码	fa qi fang fen zhi dai ma	3580
+发起方开户行行号	fa qi fang kai hu hang hang hao	3579
+发起方开户账号	fa qi fang kai hu zhang hao	3578
+发起方组织类型	fa qi fang zu zhi lei xing	3577
+发生仓位	fa sheng cang wei	3576
+发生差额	fa sheng cha e	3575
+发生单位	fa sheng dan wei	3574
+发生额	fa sheng e	3573
+发生积分	fa sheng ji fen	3572
+发生金额	fa sheng jin e	3571
+发生类别	fa sheng lei bie	3570
+发生门店	fa sheng men dian	3569
+发生前缴款总额	fa sheng qian jiao kuan zong e	3568
+发生日期	fa sheng ri qi	3567
+发生日期用户随意填	fa sheng ri qi yong hu sui yi tian	3566
+发生时间	fa sheng shi jian	3565
+发生数量	fa sheng shu liang	3564
+发售日期	fa shou ri qi	3563
+发送标记	fa song biao ji	3562
+发送标志	fa song biao zhi	3561
+发送畅销滞销商品计算指令	fa song chang xiao zhi xiao shang pin ji suan zhi ling	3560
+发送次数	fa song ci shu	3559
+发送单位	fa song dan wei	3558
+发送工作任务表	fa song gong zuo ren wu biao	3556
+发送建议商品上下限指令	fa song jian yi shang pin shang xia xian zhi ling	3555
+发送类型	fa song lei xing	3554
+发送日期	fa song ri qi	3553
+发送时间	fa song shi jian	3552
+发送调整商品上下限指令	fa song tiao zheng shang pin shang xia xian zhi ling	3557
+发送总部调整商品上下限指令	fa song zong bu tiao zheng shang pin shang xia xian zhi ling	3551
+返回码	fan hui ma	3550
+返回数量	fan hui shu liang	4462
+返扣率	fan kou lv	3549
+返券金额	fan quan jin e	3548
+方案备注	fang an bei zhu	3547
+方案编号	fang an bian hao	3546
+方案代码	fang an dai ma	3545
+方案名称	fang an ming cheng	3544
+方法名	fang fa ming	3543
+方式	fang shi	3542
+访问权限	fang wen quan xian	3541
+非固定标志	fei gu ding biao zhi	3540
+费用	fei yong	3539
+费用产生方式	fei yong chan sheng fang shi	3538
+费用单	fei yong dan	3537
+费用单号	fei yong dan hao	3536
+费用单款项视图	fei yong dan kuan xiang shi tu	3535
+费用单日志	fei yong dan ri zhi	3534
+费用单视图	fei yong dan shi tu	3533
+费用计算组	fei yong ji suan zu	3532
+费用结算组	fei yong jie suan zu	3531
+费用结算组部门	fei yong jie suan zu bu men	3530
+费用结算组仓位	fei yong jie suan zu cang wei	3529
+费用结算组代码	fei yong jie suan zu dai ma	3528
+费用结算组供应商	fei yong jie suan zu gong ying shang	3527
+费用结算组员工	fei yong jie suan zu yuan gong	3526
+费用金额	fei yong jin e	3525
+费用类型	fei yong lei xing	3524
+费用类型代码	fei yong lei xing dai ma	3523
+费用类型维护表	fei yong lei xing wei hu biao	3522
+费用总额	fei yong zong e	3521
+费用总税额	fei yong zong shui e	3520
+分部出货日报	fen bu chu huo ri bao	3519
+分部出货月报	fen bu chu huo yue bao	3518
+分部大小包装交换表	fen bu da xiao bao zhuang jiao huan biao	3517
+分部代码	fen bu dai ma	3516
+分部供应商交换表	fen bu gong ying shang jiao huan biao	3515
+分部供应商商品交换表	fen bu gong ying shang shang pin jiao huan biao	3514
+分部管理单元交换表	fen bu guan li dan yuan jiao huan biao	3513
+分部交换表	fen bu jiao huan biao	3512
+分部进货单	fen bu jin huo dan	3511
+分部进货单明细	fen bu jin huo dan ming xi	3510
+分部进货单批次明细	fen bu jin huo dan pi ci ming xi	3509
+分部进货日报	fen bu jin huo ri bao	3508
+分部进货退货单	fen bu jin huo tui huo dan	3507
+分部进货退货单明细	fen bu jin huo tui huo dan ming xi	3506
+分部进货退货单批次明细	fen bu jin huo tui huo dan pi ci ming xi	3505
+分部进货月报	fen bu jin huo yue bao	3504
+分部类别交换表	fen bu lei bie jiao huan biao	3503
+分部名称	fen bu ming cheng	3502
+分部商品交换表	fen bu shang pin jiao huan biao	3501
+分部商品输入码交换表	fen bu shang pin shu ru ma jiao huan biao	3500
+分部网络定单	fen bu wang luo ding dan	3499
+分部网络定单明细	fen bu wang luo ding dan ming xi	3498
+分部直配单	fen bu zhi pei dan	3497
+分部直配单明细	fen bu zhi pei dan ming xi	3496
+分仓标志	fen cang biao zhi	3495
+分拆天数	fen chai tian shu	3494
+分货计划	fen huo ji hua	3493
+分货计划条件	fen huo ji hua tiao jian	3492
+分货价格	fen huo jia ge	3491
+分货类型	fen huo lei xing	3490
+分货期号	fen huo qi hao	3489
+分货人	fen huo ren	3488
+分货日期	fen huo ri qi	3487
+分货数量	fen huo shu liang	3486
+分货优先级	fen huo you xian ji	3485
+分类	fen lei	3484
+分类代码	fen lei dai ma	3483
+分类结构	fen lei jie gou	3482
+分类体系表	fen lei ti xi biao	3481
+分类体系代码	fen lei ti xi dai ma	3480
+分类体系名称	fen lei ti xi ming cheng	3479
+分类指标	fen lei zhi biao	3478
+分配时间	fen pei shi jian	3477
+分析过程文件	fen xi guo cheng wen jian	3476
+分组	fen zu	3475
+分组代码	fen zu dai ma	3474
+分组号	fen zu hao	3473
+复查标志	fu cha biao zhi	3420
+复查模式	fu cha mo shi	3419
+复查人	fu cha ren	3418
+复查时间	fu cha shi jian	3417
+浮动窗体选项	fu dong chuang ti xuan xiang	3465
+复核	fu he	3416
+复核人	fu he ren	3415
+复核日期	fu he ri qi	3414
+复核时间	fu he shi jian	3413
+附加属性资料	fu jia shu xing zi liao	3424
+附加增值税发票号	fu jia zeng zhi shui fa piao hao	3425
+附件大小	fu jian da xiao	3423
+附件文件	fu jian wen jian	3422
+父节点	fu jie dian	3462
+父节点编号	fu jie dian bian hao	3461
+副卡补卡价	fu ka bu ka jia	3412
+副卡销售价	fu ka xiao shou jia	3411
+副卡续卡价每年	fu ka xu ka jia mei nian	3410
+付款编号	fu kuan bian hao	3460
+付款单	fu kuan dan	3459
+付款单号	fu kuan dan hao	3458
+付款单集合单	fu kuan dan ji he dan	3457
+付款单集合单明细	fu kuan dan ji he dan ming xi	3456
+付款单集合单日志	fu kuan dan ji he dan ri zhi	3455
+付款单明细	fu kuan dan ming xi	3454
+付款单审核日志	fu kuan dan shen he ri zhi	3453
+付款单视图	fu kuan dan shi tu	3452
+付款单增票明细	fu kuan dan zeng piao ming xi	3451
+付款到明细	fu kuan dao ming xi	3450
+付款方式	fu kuan fang shi	3449
+付款辅助信息	fu kuan fu zhu xin xi	3448
+付款行行号	fu kuan hang hang hao	3430
+付款核对日志	fu kuan he dui ri zhi	3447
+付款截止时间	fu kuan jie zhi shi jian	3446
+付款金额	fu kuan jin e	3445
+付款卡号	fu kuan ka hao	3444
+付款卡余额	fu kuan ka yu e	3443
+付款期	fu kuan qi	3442
+付款期限	fu kuan qi xian	3441
+付款人	fu kuan ren	3440
+付款人电子邮箱	fu kuan ren dian zi you xiang	3439
+付款人名称	fu kuan ren ming cheng	3438
+付款人手机号码	fu kuan ren shou ji hao ma	3437
+付款人账号	fu kuan ren zhang hao	3436
+付款人证件号码	fu kuan ren zheng jian hao ma	3435
+付款人证件类型	fu kuan ren zheng jian lei xing	3434
+付款日期	fu kuan ri qi	3433
+付款时间	fu kuan shi jian	3432
+付款消费卡	fu kuan xiao fei ka	3431
+付款序号	fu kuan xu hao	3429
+付款银行	fu kuan yin hang	3428
+付款状态	fu kuan zhuang tai	3427
+付款总额	fu kuan zong e	3426
+服务器编号	fu wu qi bian hao	3472
+服务器当前可用版本	fu wu qi dang qian ke yong ban ben	3471
+服务器荷载	fu wu qi he zai	3470
+服务器禁止	fu wu qi jin zhi	3469
+服务器描述	fu wu qi miao shu	3468
+服务器名	fu wu qi ming	3467
+服务器时间校正	fu wu qi shi jian jiao zheng	3466
+附言	fu yan	3421
+辅助复查人	fu zhu fu cha ren	3464
+辅助录入人	fu zhu lu ru ren	3463
+高度	gao du	3409
+高度单位	gao du dan wei	3408
+各店商品	ge dian shang pin	4600
+各店商品规格表	ge dian shang pin gui ge biao	3407
+各店商品规格视图	ge dian shang pin gui ge shi tu	3406
+各店商品视图	ge dian shang pin shi tu	3405
+更新标志	geng xin biao zhi	3404
+更新方式	geng xin fang shi	3403
+更新门店	geng xin men dian	3402
+更新日期	geng xin ri qi	3401
+更新时机	geng xin shi ji	3400
+更新时间	geng xin shi jian	3399
+更新数据库	geng xin shu ju ku	3398
+公告	gong gao	3379
+公告生效门店	gong gao sheng xiao men dian	3378
+供货仓位	gong huo cang wei	3370
+供货单位	gong huo dan wei	3369
+供货单位属性	gong huo dan wei shu xing	3368
+工具条	gong ju tiao	3397
+工具条明细	gong ju tiao ming xi	3396
+功能分组	gong neng fen zu	3376
+功能号	gong neng hao	3375
+功能类型	gong neng lei xing	3374
+功能树表	gong neng shu biao	3373
+功能树子表	gong neng shu zi biao	3372
+功能选项	gong neng xuan xiang	3371
+工商费用	gong shang fei yong	3395
+贡献度	gong xian du	3292
+贡献度付款期对照表	gong xian du fu kuan qi dui zhao biao	3291
+供应商	gong ying shang	4599
+供应商备注	gong ying shang bei zhu	3367
+供应商编码	gong ying shang bian ma	3366
+供应商补贴费用	gong ying shang bu tie fei yong	3365
+供应商承担	gong ying shang cheng dan	3364
+供应商代码	gong ying shang dai ma	3363
+供应商当前应付款视图	gong ying shang dang qian ying fu kuan shi tu	3362
+供应商到货天数视图	gong ying shang dao huo tian shu shi tu	3361
+供应商定货周期代码	gong ying shang ding huo zhou qi dai ma	3357
+供应商定货周期设置	gong ying shang ding huo zhou qi she zhi	3356
+供应商返扣率表	gong ying shang fan kou lv biao	3355
+供应商范围	gong ying shang fan wei	3354
+供应商分摊金额	gong ying shang fen tan jin e	3353
+供应商付款单	gong ying shang fu kuan dan	3349
+供应商服务费促销价格	gong ying shang fu wu fei cu xiao jia ge	3352
+供应商服务费价格	gong ying shang fu wu fei jia ge	3351
+供应商服务费原价格	gong ying shang fu wu fei yuan jia ge	3350
+供应商加锁记录	gong ying shang jia suo ji lu	3348
+供应商加锁记录操作日志	gong ying shang jia suo ji lu cao zuo ri zhi	3347
+供应商加锁记录明细	gong ying shang jia suo ji lu ming xi	3346
+供应商交货日期	gong ying shang jiao huo ri qi	3345
+供应商结清单	gong ying shang jie qing dan	3344
+供应商结清单明细	gong ying shang jie qing dan ming xi	3343
+供应商结算单	gong ying shang jie suan dan	3342
+供应商结算单号	gong ying shang jie suan dan hao	3341
+供应商结算单明细	gong ying shang jie suan dan ming xi	3340
+供应商结算单明细明细	gong ying shang jie suan dan ming xi ming xi	3339
+供应商结算单票据明细	gong ying shang jie suan dan piao ju ming xi	3338
+供应商结算到出货	gong ying shang jie suan dao chu huo	3337
+供应商结算到进货	gong ying shang jie suan dao jin huo	3336
+供应商结算调整单	gong ying shang jie suan tiao zheng dan	3335
+供应商结算调整单明细	gong ying shang jie suan tiao zheng dan ming xi	3334
+供应商经销贸易协议	gong ying shang jing xiao mao yi xie yi	3333
+供应商经销贸易协议明细	gong ying shang jing xiao mao yi xie yi ming xi	3329
+供应商经销贸易协议日志	gong ying shang jing xiao mao yi xie yi ri zhi	3328
+供应商经销贸易协议调整单	gong ying shang jing xiao mao yi xie yi tiao zheng dan	3332
+供应商经销贸易协议调整单明细	gong ying shang jing xiao mao yi xie yi tiao zheng dan ming xi	3331
+供应商经销贸易协议调整单日志	gong ying shang jing xiao mao yi xie yi tiao zheng dan ri zhi	3330
+供应商类别表	gong ying shang lei bie biao	3327
+供应商联销协议	gong ying shang lian xiao xie yi	3326
+供应商联销协议当前值	gong ying shang lian xiao xie yi dang qian zhi	3325
+供应商联销协议类别明细	gong ying shang lian xiao xie yi lei bie ming xi	3324
+供应商联销协议类别明细当前值	gong ying shang lian xiao xie yi lei bie ming xi dang qian zhi	3323
+供应商联销协议类别品牌明细	gong ying shang lian xiao xie yi lei bie pin pai ming xi	3322
+供应商贸易协议当前值	gong ying shang mao yi xie yi dang qian zhi	3321
+供应商贸易协议明细当前值	gong ying shang mao yi xie yi ming xi dang qian zhi	3320
+供应商名称	gong ying shang ming cheng	3319
+供应商内码	gong ying shang nei ma	3318
+供应商确认人	gong ying shang que ren ren	3317
+供应商确认日期	gong ying shang que ren ri qi	3316
+供应商确认信息	gong ying shang que ren xin xi	3315
+供应商商品	gong ying shang shang pin	3314
+供应商设备	gong ying shang she bei	3313
+供应商视图	gong ying shang shi tu	3312
+供应商送货区域	gong ying shang song huo qu yu	3311
+供应商调整单	gong ying shang tiao zheng dan	3360
+供应商调整单明细	gong ying shang tiao zheng dan ming xi	3359
+供应商调整单明细明细	gong ying shang tiao zheng dan ming xi ming xi	3358
+供应商退货单	gong ying shang tui huo dan	4592
+供应商退货申请单汇总	gong ying shang tui huo shen qing dan hui zong	3310
+供应商退货申请单明细	gong ying shang tui huo shen qing dan ming xi	3309
+供应商退货申请单日志	gong ying shang tui huo shen qing dan ri zhi	3308
+供应商销售分配	gong ying shang xiao shou fen pei	3307
+供应商销售视图	gong ying shang xiao shou shi tu	3306
+供应商延期扣款表	gong ying shang yan qi kou kuan biao	3305
+供应商帐款接收日志	gong ying shang zhang kuan jie shou ri zhi	3304
+供应商帐款年报	gong ying shang zhang kuan nian bao	3303
+供应商帐款日报	gong ying shang zhang kuan ri bao	3302
+供应商帐款日报期初值	gong ying shang zhang kuan ri bao qi chu zhi	3301
+供应商帐款信息	gong ying shang zhang kuan xin xi	3300
+供应商帐款信息科目表	gong ying shang zhang kuan xin xi ke mu biao	3299
+供应商帐款月报	gong ying shang zhang kuan yue bao	3298
+供应商证件表	gong ying shang zheng jian biao	3297
+供应商转换表	gong ying shang zhuan huan biao	3296
+供应商资料调整单日志	gong ying shang zi liao tiao zheng dan ri zhi	3295
+供应商总表	gong ying shang zong biao	3294
+供应商总视图	gong ying shang zong shi tu	3293
+公用事业费金额	gong yong shi ye fei jin e	3377
+工种	gong zhong	3394
+工作单位	gong zuo dan wei	3393
+工作内容	gong zuo nei rong	3392
+工作任务	gong zuo ren wu	3391
+工作任务重复周期	gong zuo ren wu chong fu zhou qi	3383
+工作任务附件	gong zuo ren wu fu jian	3390
+工作任务门店	gong zuo ren wu men dian	3389
+工作任务明细	gong zuo ren wu ming xi	3388
+工作任务日志	gong zuo ren wu ri zhi	3387
+工作任务算法	gong zuo ren wu suan fa	3386
+工作任务算法参数	gong zuo ren wu suan fa can shu	3385
+工作任务完成明细	gong zuo ren wu wan cheng ming xi	3384
+工作站	gong zuo zhan	3382
+工作站编号	gong zuo zhan bian hao	3381
+工作主题	gong zuo zhu ti	3380
+购货单位名称	gou huo dan wei ming cheng	3290
+购买人姓名	gou mai ren xing ming	3289
+购买人邮编	gou mai ren you bian	3288
+购买数量	gou mai shu liang	3287
+购买条件增量	gou mai tiao jian zeng liang	3286
+购买总次数	gou mai zong ci shu	3285
+购买总额	gou mai zong e	3284
+购买总商品数	gou mai zong shang pin shu	3283
+购物券	gou wu quan	3282
+购物券编号	gou wu quan bian hao	3281
+购物券历史	gou wu quan li shi	3280
+购物券日志	gou wu quan ri zhi	3279
+购物券网络表	gou wu quan wang luo biao	3278
+购物券信息	gou wu quan xin xi	3277
+固定投资	gu ding tou zi	3274
+固定文本	gu ding wen ben	3273
+固定优惠分摊比例	gu ding you hui fen tan bi li	3272
+顾客	gu ke	3271
+顾客偿价	gu ke chang jia	3270
+顾客代码	gu ke dai ma	3269
+顾客联系地址	gu ke lian xi di zhi	3268
+顾客联系电话	gu ke lian xi dian hua	3267
+顾客实际偿价额	gu ke shi ji chang jia e	3266
+顾客手机号	gu ke shou ji hao	3265
+顾客信息	gu ke xin xi	3264
+估算金额	gu suan jin e	3276
+估算数量	gu suan shu liang	3275
+管理到效期	guan li dao xiao qi	3262
+管理费	guan li fei	3261
+管理经理电话	guan li jing li dian hua	3260
+管理日志	guan li ri zhi	3259
+关联数量	guan lian shu liang	3263
+广告费用	guang gao fei yong	3258
+贵宾	gui bin	3242
+贵宾卡	gui bin ka	3241
+规格	gui ge	3257
+规格长宽高	gui ge chang kuan gao	3256
+规格单位	gui ge dan wei	3255
+规格名称	gui ge ming cheng	3254
+规格商品视图	gui ge shang pin shi tu	3253
+规格商品视图限制员工仓位	gui ge shang pin shi tu xian zhi yuan gong cang wei	3252
+规格商品总表视图	gui ge shang pin zong biao shi tu	3251
+规格商品总表视图限制员工仓位	gui ge shang pin zong biao shi tu xian zhi yuan gong cang wei	3250
+规格说明	gui ge shuo ming	3249
+规格信息	gui ge xin xi	3248
+规格重量	gui ge zhong liang	3247
+规则	gui ze	3246
+规则号	gui ze hao	3245
+规则回收倍数	gui ze hui shou bei shu	3244
+贵重区频次	gui zhong qu pin ci	3240
+柜组	gui zu	3243
+过程名	guo cheng ming	3237
+过时	guo shi	3236
+国税登记证	guo shui deng ji zheng	3239
+国税税额	guo shui shui e	3238
+含量	han liang	3235
+含税单价	han shui dan jia	3234
+含税价格	han shui jia ge	3233
+含税金额	han shui jin e	3232
+行号	hang hao	698
+行业	hang ye	696
+号码	hao ma	3231
+合单类型	he dan lei xing	3230
+核对标志	he dui biao zhi	3195
+核售调价额	he shou tiao jia e	3194
+核算方式	he suan fang shi	3192
+核算价	he suan jia	3191
+核算进价	he suan jin jia	3190
+核算进价额	he suan jin jia e	3189
+核算进价快照	he suan jin jia kuai zhao	3188
+核算进价盘入	he suan jin jia pan ru	3187
+核算售价	he suan shou jia	4479
+核算售价金额	he suan shou jia jin e	3186
+核算售价快照	he suan shou jia kuai zhao	3185
+核算售价盘入	he suan shou jia pan ru	3184
+核算调价额	he suan tiao jia e	3193
+合同编号	he tong bian hao	3228
+合同对方当事人姓名	he tong dui fang dang shi ren xing ming	3227
+合同附件名称	he tong fu jian ming cheng	3226
+合同价差额	he tong jia cha e	3225
+合同进价	he tong jin jia	3224
+合同签署日期	he tong qian shu ri qi	3223
+合同协议号	he tong xie yi hao	3229
+合同性质	he tong xing zhi	3222
+合同修改记录	he tong xiu gai ji lu	3221
+合同状态	he tong zhuang tai	3220
+合约版本号	he yue ban ben hao	3219
+合约编号	he yue bian hao	3218
+合约表	he yue biao	3217
+合约号	he yue hao	3216
+合约截止日	he yue jie zhi ri	3215
+合约起始日	he yue qi shi ri	3214
+合约日志	he yue ri zhi	3213
+合约视图	he yue shi tu	3212
+合约文本	he yue wen ben	3211
+合约项目表	he yue xiang mu biao	3210
+合约项目店表	he yue xiang mu dian biao	3209
+合约项目日期扣款表	he yue xiang mu ri qi kou kuan biao	3208
+合约项目商品表	he yue xiang mu shang pin biao	3207
+合约项目提成表	he yue xiang mu ti cheng biao	3206
+合约预定商品条件	he yue yu ding shang pin tiao jian	3205
+合约状态	he yue zhuang tai	3204
+合约组	he yue zu	3203
+合约组版本	he yue zu ban ben	3202
+合约组编号	he yue zu bian hao	3201
+合约组子合约对照关系	he yue zu zi he yue dui zhao guan xi	3200
+合作结束日期	he zuo jie shu ri qi	3199
+合作开始日期	he zuo kai shi ri qi	3198
+合作商	he zuo shang	4461
+合作商代码	he zuo shang dai ma	3197
+合作商名称	he zuo shang ming cheng	3196
+黑名单	hei ming dan	3183
+红卡限制百分比	hong ka xian zhi bai fen bi	3182
+红蓝卡限制单	hong lan ka xian zhi dan	3181
+红蓝卡限制单明细	hong lan ka xian zhi dan ming xi	3180
+红蓝卡限制单日志	hong lan ka xian zhi dan ri zhi	3179
+红蓝卡限制当前值	hong lan ka xian zhi dang qian zhi	3178
+红蓝卡限制生效门店明细	hong lan ka xian zhi sheng xiao men dian ming xi	3177
+后台优惠额	hou tai you hui e	3176
+互斥规则	hu chi gui ze	3175
+华雪配货线路	hua xue pei huo xian lu	3174
+华雪配货周期	hua xue pei huo zhou qi	3173
+坏货折扣	huai huo zhe kou	3172
+换出仓位	huan chu cang wei	3169
+换购价	huan gou jia	3168
+还款金额	huan kuan jin e	3171
+还款时间	huan kuan shi jian	3170
+换入仓位	huan ru cang wei	3167
+换入换出标记	huan ru huan chu biao ji	3166
+汇率	hui lv	3159
+汇率兑换表	hui lv dui huan biao	3158
+回收仓位	hui shou cang wei	3165
+回收单位	hui shou dan wei	3164
+回收短信消费数据日志	hui shou duan xin xiao fei shu ju ri zhi	3163
+回收门店	hui shou men dian	3162
+回收人	hui shou ren	3161
+回收时间	hui shou shi jian	3160
+会员	hui yuan	3157
+会员促销价	hui yuan cu xiao jia	3156
+会员单号	hui yuan dan hao	3155
+会员积分日报表	hui yuan ji fen ri bao biao	3154
+会员价	hui yuan jia	4478
+会员卡	hui yuan ka	3153
+会员卡号	hui yuan ka hao	3152
+会员卡基本积分规则	hui yuan ka ji ben ji fen gui ze	3148
+会员卡积分规则单	hui yuan ka ji fen gui ze dan	3151
+会员卡积分规则单日志	hui yuan ka ji fen gui ze dan ri zhi	3150
+会员卡积分规则单设置生效单位	hui yuan ka ji fen gui ze dan she zhi sheng xiao dan wei	3149
+会员名称	hui yuan ming cheng	3147
+会员取货时间	hui yuan qu huo shi jian	3146
+会员商品积分	hui yuan shang pin ji fen	3145
+会员手机号	hui yuan shou ji hao	3144
+会员限量促销状态表	hui yuan xian liang cu xiao zhuang tai biao	3143
+会员销售单	hui yuan xiao shou dan	3142
+会员销售单付款信息	hui yuan xiao shou dan fu kuan xin xi	3141
+会员销售单和出货单关系	hui yuan xiao shou dan he chu huo dan guan xi	3140
+会员销售单明细	hui yuan xiao shou dan ming xi	3139
+会员销售单日志	hui yuan xiao shou dan ri zhi	3138
+会员销售退货单	hui yuan xiao shou tui huo dan	3137
+会员销售退货单明细	hui yuan xiao shou tui huo dan ming xi	3136
+会员销售退货单日志	hui yuan xiao shou tui huo dan ri zhi	3135
+会员销售退货单退货原因	hui yuan xiao shou tui huo dan tui huo yuan yin	3134
+会员信息	hui yuan xin xi	3133
+会员姓名	hui yuan xing ming	3132
+货道	huo dao	3115
+活动代码	huo dong dai ma	3131
+活动号	huo dong hao	3130
+活动类型	huo dong lei xing	4460
+活动码	huo dong ma	3129
+活动码类型	huo dong ma lei xing	3128
+活动码有效期天数	huo dong ma you xiao qi tian shu	3127
+活动描述	huo dong miao shu	3126
+活动名称	huo dong ming cheng	3125
+活动模板	huo dong mu ban	3124
+活动说明	huo dong shuo ming	3123
+活动唯一标识	huo dong wei yi biao zhi	3122
+活动系数	huo dong xi shu	3121
+活动细则	huo dong xi ze	3120
+活动细则描述	huo dong xi ze miao shu	3119
+活动细则明细	huo dong xi ze ming xi	3118
+活动细则明细坐标	huo dong xi ze ming xi zuo biao	3117
+活动消费优惠券	huo dong xiao fei you hui quan	3116
+货架	huo jia	3114
+货架起始代码	huo jia qi shi dai ma	3113
+货架终止代码	huo jia zhong zhi dai ma	3112
+货款扣款银行	huo kuan kou kuan yin hang	3111
+货款实时划扣	huo kuan shi shi hua kou	3110
+货款总额	huo kuan zong e	3109
+货品	huo pin	3108
+货品代码	huo pin dai ma	3107
+货区代码	huo qu dai ma	3106
+货位	huo wei	3105
+货位代码	huo wei dai ma	3104
+货位货道对照表	huo wei huo dao dui zhao biao	3103
+货位库存	huo wei ku cun	3102
+货位库存标志	huo wei ku cun biao zhi	3101
+货位库存快照	huo wei ku cun kuai zhao	3100
+货位库存月报表	huo wei ku cun yue bao biao	3099
+基本商品	ji ben shang pin	3088
+基本商品规格说明	ji ben shang pin gui ge shuo ming	3087
+基本资料	ji ben zi liao	3086
+基本资料发送标志	ji ben zi liao fa song biao zhi	3085
+级别	ji bie	3082
+寄存单汇总	ji cun dan hui zong	3053
+寄存单明细	ji cun dan ming xi	3052
+寄存费	ji cun fei	3051
+机当前可用版本	ji dang qian ke yong ban ben	4492
+积分	ji fen	3097
+积分倍数	ji fen bei shu	3096
+积分比率	ji fen bi lv	3095
+积分方案	ji fen fang an	3094
+积分方向	ji fen fang xiang	3093
+积分规则	ji fen gui ze	4607
+积分科目	ji fen ke mu	3092
+积分类别	ji fen lei bie	3091
+积分转储值关系	ji fen zhuan chu zhi guan xi	3090
+积分转储值关系操作日志	ji fen zhuan chu zhi guan xi cao zuo ri zhi	3089
+机构分支代码	ji gou fen zhi dai ma	3098
+机号	ji hao	4491
+集合号	ji he hao	3081
+计划利润率	ji hua li run lv	3080
+计划毛利额	ji hua mao li e	3079
+计划毛利率	ji hua mao li lv	3078
+计划配货数	ji hua pei huo shu	3077
+计划配货数量	ji hua pei huo shu liang	3076
+计划配货箱数	ji hua pei huo xiang shu	3075
+计划批发数	ji hua pi fa shu	3074
+计划数量	ji hua shu liang	3073
+计划销售额	ji hua xiao shou e	3072
+计划销售利润	ji hua xiao shou li run	3071
+季节销售结束日期	ji jie xiao shou jie shu ri qi	3055
+季节销售开始日期	ji jie xiao shou kai shi ri qi	3054
+计量单位	ji liang dan wei	4477
+记录号	ji lu hao	3064
+记录类型	ji lu lei xing	3063
+记录时间	ji lu shi jian	3062
+记录数	ji lu shu	3061
+记录帐款标志	ji lu zhang kuan biao zhi	3060
+吉米兑换关系	ji mi dui huan guan xi	3084
+吉米兑人民币比例	ji mi dui ren min bi bi li	3083
+计算比率	ji suan bi lv	3070
+计算方法	ji suan fang fa	3069
+计算方式	ji suan fang shi	3068
+计算机名称	ji suan ji ming cheng	3067
+计算基数	ji suan ji shu	3066
+计算时间间隔	ji suan shi jian jian ge	3065
+记账单位	ji zhang dan wei	3057
+记帐级别	ji zhang ji bie	3059
+记帐日期	ji zhang ri qi	3058
+记账日期	ji zhang ri qi	3056
+价格	jia ge	2999
+价格类型	jia ge lei xing	2998
+价格名称	jia ge ming cheng	2997
+价格上限	jia ge shang xian	2996
+价格下限	jia ge xia xian	2995
+价格组	jia ge zu	2994
+价格组代码	jia ge zu dai ma	2993
+价格组门店	jia ge zu men dian	2992
+加工单	jia gong dan	3050
+加工单明细	jia gong dan ming xi	3049
+加工核售额	jia gong he shou e	3048
+加工核算额	jia gong he suan e	3047
+加工结果	jia gong jie guo	3046
+加工金额	jia gong jin e	3045
+加工库存单据表	jia gong ku cun dan ju biao	3044
+加工类型	jia gong lei xing	3043
+加工领料单	jia gong ling liao dan	3042
+加工领料单明细	jia gong ling liao dan ming xi	3041
+加工领料单日志	jia gong ling liao dan ri zhi	3040
+加工年报表	jia gong nian bao biao	3039
+加工任务产品明细	jia gong ren wu chan pin ming xi	3038
+加工任务单	jia gong ren wu dan	3037
+加工任务单号	jia gong ren wu dan hao	3036
+加工任务配方信息	jia gong ren wu pei fang xin xi	3035
+加工任务日志	jia gong ren wu ri zhi	3034
+加工任务原料明细	jia gong ren wu yuan liao ming xi	3033
+加工日报表	jia gong ri bao biao	3032
+加工入库产品明细	jia gong ru ku chan pin ming xi	3031
+加工入库单	jia gong ru ku dan	3030
+加工入库单号	jia gong ru ku dan hao	3029
+加工入库配方信息	jia gong ru ku pei fang xin xi	3028
+加工入库日志	jia gong ru ku ri zhi	3027
+加工入库原料明细	jia gong ru ku yuan liao ming xi	3026
+加工商品清单	jia gong shang pin qing dan	3025
+加工商品作业	jia gong shang pin zuo ye	3024
+加工商品作业生效门店	jia gong shang pin zuo ye sheng xiao men dian	3023
+加工时间	jia gong shi jian	3022
+加工数量	jia gong shu liang	3021
+加工图片	jia gong tu pian	3020
+加工要求	jia gong yao qiu	3019
+加工月报表	jia gong yue bao biao	3018
+加工周期	jia gong zhou qi	3017
+加工主题	jia gong zhu ti	3016
+加盟店贷款利率	jia meng dian dai kuan li lv	3015
+加盟店交款	jia meng dian jiao kuan	3014
+加盟店结算表	jia meng dian jie suan biao	3013
+加盟店配货信用额度	jia meng dian pei huo xin yong e du	3012
+加盟店设备管理	jia meng dian she bei guan li	3011
+加盟店信用额度扣款日志	jia meng dian xin yong e du kou kuan ri zhi	3010
+加盟店证件资料	jia meng dian zheng jian zi liao	3009
+加盟店支出费用	jia meng dian zhi chu fei yong	3008
+加盟费	jia meng fei	3007
+加盟合同	jia meng he tong	3006
+加密码	jia mi ma	3005
+价税合计	jia shui he ji	2991
+加送金额	jia song jin e	3004
+加送数量	jia song shu liang	3003
+加速系数	jia su xi shu	3002
+家庭人口	jia ting ren kou	3001
+家庭收入	jia ting shou ru	3000
+简称	jian cheng	2978
+键的功能	jian de gong neng	2969
+键高度	jian gao du	2968
+拣货标签打印历史表	jian huo biao qian da yin li shi biao	2990
+拣货单位	jian huo dan wei	2989
+拣货方案代码	jian huo fang an dai ma	2988
+拣货分区	jian huo fen qu	2987
+拣货规格	jian huo gui ge	2986
+拣货货道工作表	jian huo huo dao gong zuo biao	2985
+拣货货道工作表明细	jian huo huo dao gong zuo biao ming xi	2984
+拣货件数	jian huo jian shu	2983
+拣货类型	jian huo lei xing	2982
+拣货门店	jian huo men dian	2981
+拣货日期	jian huo ri qi	2980
+拣货位	jian huo wei	2979
+键宽度	jian kuan du	2967
+键名	jian ming	2966
+键盘方案	jian pan fang an	2965
+键盘方案号	jian pan fang an hao	2964
+键盘方案名称	jian pan fang an ming cheng	2963
+键盘方案注册表	jian pan fang an zhu ce biao	2962
+键盘扫描码	jian pan sao miao ma	2961
+键扫描码	jian sao miao ma	2960
+键上界	jian shang jie	2959
+件数	jian shu	2977
+建议补差金额	jian yi bu cha jin e	2976
+建议配货数	jian yi pei huo shu	2975
+建议配货数上限	jian yi pei huo shu shang xian	2974
+建议配货数下限	jian yi pei huo shu xia xian	2973
+建议商品上下限指令商品类别	jian yi shang pin shang xia xian zhi ling shang pin lei bie	2972
+建议售价	jian yi shou jia	2971
+建议退货	jian yi tui huo	2970
+键左界	jian zuo jie	2958
+奖励积分	jiang li ji fen	2957
+奖励内容	jiang li nei rong	2956
+交付款单号	jiao fu kuan dan hao	2955
+交换步骤	jiao huan bu zhou	2954
+交换次序	jiao huan ci xu	2953
+交换单位	jiao huan dan wei	2952
+交换服务器	jiao huan fu wu qi	4588
+交换服务器名称	jiao huan fu wu qi ming cheng	2951
+交换服务器允许处理数	jiao huan fu wu qi yun xu chu li shu	2950
+交换类型	jiao huan lei xing	2949
+交换门店代码	jiao huan men dian dai ma	2948
+交换门店优先级	jiao huan men dian you xian ji	2947
+交换任务	jiao huan ren wu	4587
+交换任务当前状态	jiao huan ren wu dang qian zhuang tai	2946
+交换任务结束时间	jiao huan ren wu jie shu shi jian	2945
+交换任务结束状态	jiao huan ren wu jie shu zhuang tai	2944
+交换任务开始时间	jiao huan ren wu kai shi shi jian	2943
+交换日志	jiao huan ri zhi	4586
+交换时间	jiao huan shi jian	2942
+交换实体	jiao huan shi ti	2941
+交换注册表	jiao huan zhu ce biao	4585
+叫货标志	jiao huo biao zhi	2906
+交货方式	jiao huo fang shi	2940
+交货日期	jiao huo ri qi	2939
+叫货时间	jiao huo shi jian	2905
+叫货数量	jiao huo shu liang	2904
+缴款次数	jiao kuan ci shu	2915
+交款单	jiao kuan dan	2938
+交款单明细	jiao kuan dan ming xi	2937
+交款单日志	jiao kuan dan ri zhi	2936
+缴款记录人	jiao kuan ji lu ren	2914
+缴款截止时间	jiao kuan jie zhi shi jian	2913
+缴款金额	jiao kuan jin e	2912
+缴款开始时间	jiao kuan kai shi shi jian	2911
+交款期限	jiao kuan qi xian	2935
+缴款人	jiao kuan ren	2910
+缴款日期	jiao kuan ri qi	2909
+缴款时间	jiao kuan shi jian	2908
+交款总额	jiao kuan zong e	2934
+缴款总额	jiao kuan zong e	2907
+交通方式	jiao tong fang shi	2933
+校验标志	jiao yan biao zhi	756
+校验码	jiao yan ma	755
+校验码长度	jiao yan ma chang du	754
+校验值	jiao yan zhi	753
+交易绑定条码卡号	jiao yi bang ding tiao ma ka hao	2932
+交易笔数	jiao yi bi shu	2931
+交易编号	jiao yi bian hao	4471
+交易编号申请表	jiao yi bian hao shen qing biao	4470
+交易操作表	jiao yi cao zuo biao	4469
+交易会员金额合计	jiao yi hui yuan jin e he ji	2930
+交易汇总表	jiao yi hui zong biao	4468
+交易货币代码	jiao yi huo bi dai ma	2929
+交易结果	jiao yi jie guo	2928
+交易金额	jiao yi jin e	2927
+交易金额合计	jiao yi jin e he ji	2926
+交易开始时间	jiao yi kai shi shi jian	2925
+交易类型	jiao yi lei xing	2924
+交易流水号	jiao yi liu shui hao	2923
+交易明细表	jiao yi ming xi biao	4467
+交易明细数	jiao yi ming xi shu	2922
+交易内容	jiao yi nei rong	2921
+交易时间	jiao yi shi jian	2920
+交易收银机号	jiao yi shou yin ji hao	2919
+交易序号	jiao yi xu hao	2918
+交易暂存汇总表	jiao yi zan cun hui zong biao	4466
+交易暂存明细表	jiao yi zan cun ming xi biao	4465
+交易种类	jiao yi zhong lei	2917
+交易状态	jiao yi zhuang tai	2916
+节点编号	jie dian bian hao	2887
+节点类型	jie dian lei xing	2886
+节点名称	jie dian ming cheng	2885
+结果保存目录	jie guo bao cun mu lu	2883
+结婚纪念日	jie hun ji nian ri	2882
+接口报损单	jie kou bao sun dan	4573
+接口报损单明细	jie kou bao sun dan ming xi	4572
+接口报溢单	jie kou bao yi dan	4571
+接口报溢单明细	jie kou bao yi dan ming xi	4570
+接口仓位货区转换表	jie kou cang wei huo qu zhuan huan biao	4569
+接口单据货区信息表	jie kou dan ju huo qu xin xi biao	4568
+接口抵扣单	jie kou di kou dan	4567
+接口抵扣单明细	jie kou di kou dan ming xi	4566
+接口抵扣定单	jie kou di kou ding dan	4565
+接口抵扣定单明细	jie kou di kou ding dan ming xi	4564
+接口供应商	jie kou gong ying shang	4563
+接口供应商退货单	jie kou gong ying shang tui huo dan	4562
+接口供应商退货单明细	jie kou gong ying shang tui huo dan ming xi	4561
+接口供应商退货通知单	jie kou gong ying shang tui huo tong zhi dan	4560
+接口供应商退货通知单明细	jie kou gong ying shang tui huo tong zhi dan ming xi	4559
+接口换货单	jie kou huan huo dan	4558
+接口换货单明细	jie kou huan huo dan ming xi	4557
+接口换货定单	jie kou huan huo ding dan	4556
+接口换货定单明细	jie kou huan huo ding dan ming xi	4555
+接口货品	jie kou huo pin	4554
+接口货品包装规格	jie kou huo pin bao zhuang gui ge	4553
+接口货品供应商信息	jie kou huo pin gong ying shang xin xi	4552
+接口货品规格	jie kou huo pin gui ge	4551
+接口货品类型	jie kou huo pin lei xing	4550
+接口货品条码	jie kou huo pin tiao ma	4549
+接口客户资料	jie kou ke hu zi liao	4548
+接口库存报表	jie kou ku cun bao biao	4547
+接口流水日报表	jie kou liu shui ri bao biao	4546
+接口门店	jie kou men dian	4545
+接口门店退货单	jie kou men dian tui huo dan	4544
+接口门店退货单拒退明细	jie kou men dian tui huo dan ju tui ming xi	4543
+接口门店退货单明细	jie kou men dian tui huo dan ming xi	4542
+接口门店退货门店	jie kou men dian tui huo men dian	4541
+接口门店退货商品	jie kou men dian tui huo shang pin	4540
+接口门店退货通知单	jie kou men dian tui huo tong zhi dan	4539
+接口门店退货通知单明细	jie kou men dian tui huo tong zhi dan ming xi	4538
+接口内部调拔单	jie kou nei bu tiao ba dan	4537
+接口内部调拔单明细	jie kou nei bu tiao ba dan ming xi	4536
+接口盘点记录	jie kou pan dian ji lu	4535
+接口盘点记录明细	jie kou pan dian ji lu ming xi	4534
+接口配货出货单	jie kou pei huo chu huo dan	4533
+接口配货出货单明细	jie kou pei huo chu huo dan ming xi	4532
+接口配货通知单	jie kou pei huo tong zhi dan	4531
+接口配货通知单明细	jie kou pei huo tong zhi dan ming xi	4530
+接口配货通知单明细明细	jie kou pei huo tong zhi dan ming xi ming xi	4529
+接口批发出货单	jie kou pi fa chu huo dan	4528
+接口批发出货单明细	jie kou pi fa chu huo dan ming xi	4527
+接口批发通知单	jie kou pi fa tong zhi dan	4526
+接口批发通知单明细	jie kou pi fa tong zhi dan ming xi	4525
+接口批发退货单	jie kou pi fa tui huo dan	4524
+接口批发退货单明细	jie kou pi fa tui huo dan ming xi	4523
+接口批发退货通知单	jie kou pi fa tui huo tong zhi dan	4522
+接口批发退货通知单明细	jie kou pi fa tui huo tong zhi dan ming xi	4521
+接口商品基本信息	jie kou shang pin ji ben xin xi	4520
+接口数据交换报告	jie kou shu ju jiao huan bao gao	4519
+接口物流调拨单	jie kou wu liu diao bo dan	4518
+接口物流调拨单明细	jie kou wu liu diao bo dan ming xi	4517
+接口物流调拨通知单	jie kou wu liu diao bo tong zhi dan	4516
+接口物流调拨通知单明细	jie kou wu liu diao bo tong zhi dan ming xi	4515
+接口物流发送单据列表	jie kou wu liu fa song dan ju lie biao	4514
+接口物流发送单据日志	jie kou wu liu fa song dan ju ri zhi	4513
+接口物流接收单据列表	jie kou wu liu jie shou dan ju lie biao	4512
+接口物流接收单据日志	jie kou wu liu jie shou dan ju ri zhi	4511
+接口业务调整单	jie kou ye wu tiao zheng dan	4510
+接口业务调整单明细	jie kou ye wu tiao zheng dan ming xi	4509
+接口移库单	jie kou yi ku dan	4508
+接口移库单明细	jie kou yi ku dan ming xi	4507
+接口移库通知单	jie kou yi ku tong zhi dan	4506
+接口移库通知单明细	jie kou yi ku tong zhi dan ming xi	4505
+接口自营定单	jie kou zi ying ding dan	4504
+接口自营定单明细	jie kou zi ying ding dan ming xi	4503
+接口自营收货单	jie kou zi ying shou huo dan	4502
+接口自营收货单明细	jie kou zi ying shou huo dan ming xi	4501
+界面显示	jie mian xian shi	2836
+节名	jie ming	2884
+接入系统	jie ru xi tong	2903
+接受单位	jie shou dan wei	2889
+接收单位	jie shou dan wei	2902
+接收方代码	jie shou fang dai ma	2901
+接收方分支代码	jie shou fang fen zhi dai ma	2900
+接收方类型	jie shou fang lei xing	2899
+接收方强制审核	jie shou fang qiang zhi shen he	2898
+接收强制审核	jie shou qiang zhi shen he	2897
+接收人	jie shou ren	2896
+接收日期	jie shou ri qi	2895
+接受时间	jie shou shi jian	2888
+接收时间	jie shou shi jian	2894
+接收数间	jie shou shu jian	2893
+接收者	jie shou zhe	2892
+接收状态	jie shou zhuang tai	2891
+接收资料类型	jie shou zi liao lei xing	2890
+结束标志	jie shu biao zhi	2881
+结束标注	jie shu biao zhu	2880
+结束日期	jie shu ri qi	2879
+结束时间	jie shu shi jian	2878
+结束时刻	jie shu shi ke	2877
+结算标志	jie suan biao zhi	2876
+结算仓位	jie suan cang wei	2875
+结算单号	jie suan dan hao	2874
+结算单价	jie suan dan jia	2873
+结算单位	jie suan dan wei	2872
+结算单行	jie suan dan xing	2871
+结算额	jie suan e	2870
+结算方式	jie suan fang shi	2869
+结算方式代码	jie suan fang shi dai ma	2868
+结算方式名称	jie suan fang shi ming cheng	2867
+结算供应商	jie suan gong ying shang	2866
+结算截止日期	jie suan jie zhi ri qi	2865
+结算金额	jie suan jin e	2864
+结算开始日期	jie suan kai shi ri qi	2863
+结算客户	jie suan ke hu	2862
+结算类型	jie suan lei xing	2861
+结算门店	jie suan men dian	2860
+结算情况	jie suan qing kuang	2859
+结算日	jie suan ri	2858
+结算商	jie suan shang	2857
+结算数量	jie suan shu liang	2856
+结算完成标志	jie suan wan cheng biao zhi	2855
+结算系统标志	jie suan xi tong biao zhi	2854
+结算销售额	jie suan xiao shou e	2853
+结算销售金额	jie suan xiao shou jin e	2852
+结算形式	jie suan xing shi	2851
+结算中心	jie suan zhong xin	2850
+结算中心标记	jie suan zhong xin biao ji	2849
+结算状态	jie suan zhuang tai	2848
+结算组	jie suan zu	2847
+解析商品条件	jie xi shang pin tiao jian	2837
+截止购买额	jie zhi gou mai e	2843
+截止金额	jie zhi jin e	2842
+截止日期	jie zhi ri qi	2841
+截至日期	jie zhi ri qi	2838
+截止时间	jie zhi shi jian	2840
+截止条件	jie zhi tiao jian	2839
+结转期	jie zhuan qi	2846
+结转期号	jie zhuan qi hao	2845
+结转日期	jie zhuan ri qi	2844
+金额	jin e	2835
+金额合计	jin e he ji	2832
+金额上限	jin e shang xian	2831
+金额数量条码位数定义	jin e shu liang tiao ma wei shu ding yi	2830
+金额调整单	jin e tiao zheng dan	2834
+金额调整单明细	jin e tiao zheng dan ming xi	2833
+金额位数	jin e wei shu	2829
+金额下限	jin e xia xian	2828
+金额总和	jin e zong he	2827
+进货成本调整额	jin huo cheng ben tiao zheng e	2824
+进货成本调整总额	jin huo cheng ben tiao zheng zong e	2823
+进货单	jin huo dan	2822
+进货单号	jin huo dan hao	2821
+进货单据表名	jin huo dan ju biao ming	2820
+进货单据行号	jin huo dan ju hang hao	2816
+进货单据号	jin huo dan ju hao	2819
+进货单据类型	jin huo dan ju lei xing	2818
+进货单据审核日期	jin huo dan ju shen he ri qi	2817
+进货单明细	jin huo dan ming xi	2815
+进货单批次明细	jin huo dan pi ci ming xi	2814
+进货单行	jin huo dan xing	2813
+进货额	jin huo e	2809
+进货方式	jin huo fang shi	2808
+进货含税金额	jin huo han shui jin e	2807
+进货行号	jin huo hang hao	2786
+进货价	jin huo jia	2806
+进货结算单位	jin huo jie suan dan wei	2805
+进货金额	jin huo jin e	2804
+进货年报	jin huo nian bao	2803
+进货去税年报	jin huo qu shui nian bao	2802
+进货去税日报	jin huo qu shui ri bao	2801
+进货去税月报	jin huo qu shui yue bao	2800
+进货日报	jin huo ri bao	2799
+进货日报期初值	jin huo ri bao qi chu zhi	2798
+进货数	jin huo shu	2797
+进货数量	jin huo shu liang	2796
+进货税额	jin huo shui e	2795
+进货调整单	jin huo tiao zheng dan	2812
+进货调整单明细	jin huo tiao zheng dan ming xi	2811
+进货调整单日志	jin huo tiao zheng dan ri zhi	2810
+进货退货	jin huo tui huo	2825
+进货退货单	jin huo tui huo dan	2794
+进货退货单号	jin huo tui huo dan hao	2793
+进货退货单明细	jin huo tui huo dan ming xi	2792
+进货退货单批次明细	jin huo tui huo dan pi ci ming xi	2791
+进货退货额	jin huo tui huo e	2790
+进货退货核售额	jin huo tui huo he shou e	2789
+进货退货核算额	jin huo tui huo he suan e	2788
+进货退货数	jin huo tui huo shu	2787
+进货原厂商	jin huo yuan chang shang	2785
+进货月报	jin huo yue bao	2784
+进价	jin jia	2783
+进价促销	jin jia cu xiao	2782
+进价促销单	jin jia cu xiao dan	2781
+进价促销单明细	jin jia cu xiao dan ming xi	2780
+进价促销单生效单位明细	jin jia cu xiao dan sheng xiao dan wei ming xi	2779
+进价金额	jin jia jin e	2772
+进价税额	jin jia shui e	2771
+进价调整单	jin jia tiao zheng dan	2778
+进价调整单单据调整明细	jin jia tiao zheng dan dan ju tiao zheng ming xi	2777
+进价调整单当时库存明细	jin jia tiao zheng dan dang shi ku cun ming xi	2773
+进价调整单库存调整明细	jin jia tiao zheng dan ku cun tiao zheng ming xi	2776
+进价调整单批次明细	jin jia tiao zheng dan pi ci ming xi	2775
+进价调整单生效单位明细	jin jia tiao zheng dan sheng xiao dan wei ming xi	2774
+进入下一行标志	jin ru xia yi hang biao zhi	2770
+进项税率	jin xiang shui lv	2769
+仅允许门店调价生效	jin yun xu men dian tiao jia sheng xiao	2826
+经办人	jing ban ren	2768
+精度	jing du	2756
+精确金额	jing que jin e	2755
+精确数量	jing que shu liang	2754
+经销方式	jing xiao fang shi	2767
+经营策略与目的	jing ying ce lue yu mu di	2766
+经营分析文件	jing ying fen xi wen jian	2765
+经营计划	jing ying ji hua	2764
+经营面积	jing ying mian ji	2763
+经营目的	jing ying mu di	2762
+经营品数	jing ying pin shu	2761
+经营品种数	jing ying pin zhong shu	2760
+经营属性	jing ying shu xing	2758
+经营属性调整范围	jing ying shu xing tiao zheng fan wei	2757
+经营说明	jing ying shuo ming	2759
+竞争类型门店商品价格视图	jing zheng lei xing men dian shang pin jia ge shi tu	2753
+旧核算价	jiu he suan jia	2752
+旧库存价	jiu ku cun jia	2751
+拒退数量	ju tui shu liang	2750
+拒退原因	ju tui yuan yin	2749
+决策树信息	jue ce shu xin xi	2748
+决策因素比重	jue ce yin su bi zhong	2747
+决策因素表	jue ce yin su biao	2746
+决策因素代码	jue ce yin su dai ma	2745
+决策因素名称	jue ce yin su ming cheng	2744
+决策因素值	jue ce yin su zhi	2743
+卡板数	ka ban shu	2742
+卡成本	ka cheng ben	2741
+卡成本付款方式	ka cheng ben fu kuan fang shi	2740
+卡付款方式	ka fu kuan fang shi	2739
+卡号	ka hao	2738
+卡记录	ka ji lu	4578
+卡介质	ka jie zhi	2737
+卡类型	ka lei xing	2736
+卡类型充值积分规则	ka lei xing chong zhi ji fen gui ze	2735
+卡类型充值积分规则操作日志	ka lei xing chong zhi ji fen gui ze cao zuo ri zhi	2734
+卡名称	ka ming cheng	2733
+卡信息	ka xin xi	2732
+卡总帐	ka zong zhang	4577
+卡总帐总表	ka zong zhang zong biao	4576
+开单人	kai dan ren	2731
+开单日期	kai dan ri qi	2730
+开户行行号	kai hu hang hang hao	2727
+开户行及帐号	kai hu hang ji zhang hao	2729
+开户行名称	kai hu hang ming cheng	2728
+开户银行	kai hu yin hang	2726
+开票人	kai piao ren	2725
+开票日期	kai piao ri qi	2724
+开票时间	kai piao shi jian	2723
+开始日期	kai shi ri qi	2722
+开始时间	kai shi shi jian	2721
+开始时刻	kai shi shi ke	2720
+开业时间	kai ye shi jian	2719
+靠近地点	kao jin di dian	2718
+可重复使用	ke chong fu shi yong	2698
+客单价促销活动码	ke dan jia cu xiao huo dong ma	2697
+客单量促销活动码	ke dan liang cu xiao huo dong ma	2696
+可定货	ke ding huo	2711
+可兑奖商品	ke dui jiang shang pin	2710
+可兑奖物视图	ke dui jiang wu shi tu	2709
+客户	ke hu	2695
+客户代码	ke hu dai ma	2694
+客户当前应收款视图	ke hu dang qian ying shou kuan shi tu	2693
+客户付款人	ke hu fu kuan ren	2692
+客户号	ke hu hao	2691
+客户交款	ke hu jiao kuan	2690
+客户结清单	ke hu jie qing dan	2689
+客户结清单明细	ke hu jie qing dan ming xi	2688
+客户结算单	ke hu jie suan dan	2687
+客户结算单明细	ke hu jie suan dan ming xi	2686
+客户结算调整单	ke hu jie suan tiao zheng dan	2685
+客户结算调整单明细	ke hu jie suan tiao zheng dan ming xi	2684
+客户类别表	ke hu lei bie biao	2683
+客户类型	ke hu lei xing	2682
+客户类型编号	ke hu lei xing bian hao	2681
+客户类型表	ke hu lei xing biao	2680
+客户类型名称	ke hu lei xing ming cheng	2679
+客户零售价	ke hu ling shou jia	2678
+客户名称	ke hu ming cheng	2677
+客户群描述	ke hu qun miao shu	2676
+客户群性别	ke hu qun xing bie	2675
+客户商品表	ke hu shang pin biao	2674
+客户商品代码	ke hu shang pin dai ma	2673
+客户商品价格调整单	ke hu shang pin jia ge tiao zheng dan	2672
+客户商品价格调整单明细	ke hu shang pin jia ge tiao zheng dan ming xi	2671
+客户商品价格调整单日志	ke hu shang pin jia ge tiao zheng dan ri zhi	2670
+客户收款单	ke hu shou kuan dan	2669
+客户收款单收款方式明细	ke hu shou kuan dan shou kuan fang shi ming xi	2668
+客户未付款单据表	ke hu wei fu kuan dan ju biao	2667
+客户信用额度	ke hu xin yong e du	2666
+客户信用额度扣款日志	ke hu xin yong e du kou kuan ri zhi	2665
+客户姓名	ke hu xing ming	2664
+客户已付款单据表	ke hu yi fu kuan dan ju biao	2663
+客户已结标志	ke hu yi jie biao zhi	2662
+客户已结算额	ke hu yi jie suan e	2661
+客户已结算数	ke hu yi jie suan shu	2660
+客户预收款操作历史	ke hu yu shou kuan cao zuo li shi	2659
+客户预收款单	ke hu yu shou kuan dan	2658
+客户预收款单日志	ke hu yu shou kuan dan ri zhi	2657
+客户帐款年报	ke hu zhang kuan nian bao	2656
+客户帐款日报	ke hu zhang kuan ri bao	2655
+客户帐款日报期初值	ke hu zhang kuan ri bao qi chu zhi	2654
+客户帐款月报	ke hu zhang kuan yue bao	2653
+客户转换表	ke hu zhuan huan biao	2652
+客户总表	ke hu zong biao	2651
+客户组商品价格调整单	ke hu zu shang pin jia ge tiao zheng dan	2650
+客户组商品价格调整单明细	ke hu zu shang pin jia ge tiao zheng dan ming xi	2649
+客户组商品价格调整单日志	ke hu zu shang pin jia ge tiao zheng dan ri zhi	2648
+可见	ke jian	2708
+可奖励积分	ke jiang li ji fen	2707
+可奖励积分表	ke jiang li ji fen biao	2706
+科目	ke mu	2717
+科目代码	ke mu dai ma	2716
+科目名	ke mu ming	2715
+科目名称	ke mu ming cheng	2714
+科目说明	ke mu shuo ming	2713
+可提数量	ke ti shu liang	2705
+可调整兑奖物视图	ke tiao zheng dui jiang wu shi tu	2712
+可退数量	ke tui shu liang	2704
+可修改	ke xiu gai	2703
+可选值	ke xuan zhi	2702
+可选值标志	ke xuan zhi biao zhi	2701
+可选组数	ke xuan zu shu	2700
+可用平台	ke yong ping tai	4459
+可用提货商品组	ke yong ti huo shang pin zu	2699
+客源地	ke yuan di	2647
+客源地名称	ke yuan di ming cheng	2646
+空白盘点单	kong bai pan dian dan	2645
+空白盘点单号	kong bai pan dian dan hao	2644
+空白盘点单明细	kong bai pan dian dan ming xi	2643
+控件标题	kong jian biao ti	2642
+控件类型	kong jian lei xing	2641
+控件名称	kong jian ming cheng	2640
+控制模式	kong zhi mo shi	2639
+控制中心日志	kong zhi zhong xin ri zhi	2638
+扣款金额	kou kuan jin e	2636
+扣款模型	kou kuan mo xing	2635
+扣款区间单位	kou kuan qu jian dan wei	2634
+扣款区间单位数	kou kuan qu jian dan wei shu	2633
+扣款时间	kou kuan shi jian	2632
+口令	kou ling	2637
+库存	ku cun	2631
+库存成本	ku cun cheng ben	2630
+库存成本额	ku cun cheng ben e	2626
+库存成本价	ku cun cheng ben jia	2625
+库存成本调整	ku cun cheng ben tiao zheng	2629
+库存成本调整额	ku cun cheng ben tiao zheng e	2628
+库存成本调整总额	ku cun cheng ben tiao zheng zong e	2627
+库存到效期调整单	ku cun dao xiao qi tiao zheng dan	2624
+库存到效期调整单明细	ku cun dao xiao qi tiao zheng dan ming xi	2623
+库存额	ku cun e	2614
+库存记录调整	ku cun ji lu tiao zheng	2613
+库存价	ku cun jia	2612
+库存价差额	ku cun jia cha e	2611
+库存价差价	ku cun jia cha jia	2610
+库存金额	ku cun jin e	2609
+库存快照	ku cun kuai zhao	2608
+库存快照调整单	ku cun kuai zhao tiao zheng dan	2607
+库存快照调整单明细	ku cun kuai zhao tiao zheng dan ming xi	2606
+库存快照销售明细	ku cun kuai zhao xiao shou ming xi	2605
+库存年报	ku cun nian bao	2604
+库存去税年报	ku cun qu shui nian bao	2603
+库存去税日报	ku cun qu shui ri bao	2602
+库存去税月报	ku cun qu shui yue bao	2601
+库存日报	ku cun ri bao	2600
+库存视图	ku cun shi tu	2599
+库存数量	ku cun shu liang	2598
+库存调整年报	ku cun tiao zheng nian bao	2622
+库存调整去税年报	ku cun tiao zheng qu shui nian bao	2621
+库存调整去税日报	ku cun tiao zheng qu shui ri bao	2620
+库存调整去税月报	ku cun tiao zheng qu shui yue bao	2619
+库存调整日报	ku cun tiao zheng ri bao	2618
+库存调整日报期初值	ku cun tiao zheng ri bao qi chu zhi	2617
+库存调整数据发送结果	ku cun tiao zheng shu ju fa song jie guo	2616
+库存调整月报	ku cun tiao zheng yue bao	2615
+库存月报	ku cun yue bao	2597
+库存转移单	ku cun zhuan yi dan	2596
+库存转移单明细	ku cun zhuan yi dan ming xi	2595
+库存转移关系	ku cun zhuan yi guan xi	2594
+库存总和	ku cun zong he	2593
+快捷键	kuai jie jian	2592
+快照时间	kuai zhao shi jian	2591
+快照时刻库存价	kuai zhao shi ke ku cun jia	2590
+快照时刻库存金额	kuai zhao shi ke ku cun jin e	2589
+快照数	kuai zhao shu	2588
+快照数量	kuai zhao shu liang	2587
+快照销售数	kuai zhao xiao shou shu	2586
+宽度	kuan du	2585
+宽度单位	kuan du dan wei	2584
+捆绑促销活动码	kun bang cu xiao huo dong ma	2583
+捆绑后的商品	kun bang hou de shang pin	2582
+捆绑数量	kun bang shu liang	2581
+来客额	lai ke e	2580
+来客价	lai ke jia	2579
+来客数	lai ke shu	2578
+来源	lai yuan	2577
+来源促销单号	lai yuan cu xiao dan hao	2576
+来源促销单行号	lai yuan cu xiao dan xing hao	2575
+来源单号	lai yuan dan hao	2574
+来源单价	lai yuan dan jia	2573
+来源单据	lai yuan dan ju	2572
+来源单据表名	lai yuan dan ju biao ming	2571
+来源单据含税金额	lai yuan dan ju han shui jin e	2570
+来源单据来源单位	lai yuan dan ju lai yuan dan wei	2569
+来源单据类型	lai yuan dan ju lei xing	2568
+来源单据税额	lai yuan dan ju shui e	2567
+来源单据状态	lai yuan dan ju zhuang tai	2566
+来源单位	lai yuan dan wei	2565
+来源单位代码	lai yuan dan wei dai ma	2564
+来源单位定单号	lai yuan dan wei ding dan hao	2563
+来源单位名称	lai yuan dan wei ming cheng	2562
+来源单行号	lai yuan dan xing hao	2561
+来源定单号	lai yuan ding dan hao	2560
+来源定单类型	lai yuan ding dan lei xing	2559
+来源定单明细记录号	lai yuan ding dan ming xi ji lu hao	2558
+来源定单行号	lai yuan ding dan xing hao	2557
+来源分类	lai yuan fen lei	2556
+来源行号	lai yuan hang hao	2538
+来源交易序号	lai yuan jiao yi xu hao	2555
+来源类型	lai yuan lei xing	2554
+来源门店号	lai yuan men dian hao	2553
+来源门店预购单号	lai yuan men dian yu gou dan hao	2552
+来源门店预购单行号	lai yuan men dian yu gou dan xing hao	2551
+来源配货赠品协议号	lai yuan pei huo zeng pin xie yi hao	2550
+来源日期	lai yuan ri qi	2549
+来源商品	lai yuan shang pin	2548
+来源数量	lai yuan shu liang	2547
+来源填单日期	lai yuan tian dan ri qi	2546
+来源通知单号	lai yuan tong zhi dan hao	2545
+来源网络单据表名	lai yuan wang luo dan ju biao ming	2544
+来源网站地址	lai yuan wang zhan di zhi	2543
+来源物流	lai yuan wu liu	2542
+来源项目号	lai yuan xiang mu hao	2541
+来源协议行号	lai yuan xie yi hang hao	2539
+来源协议号	lai yuan xie yi hao	2540
+来源组织	lai yuan zu zhi	2537
+蓝卡限制金额	lan ka xian zhi jin e	2536
+类别	lei bie	4598
+类别层级码	lei bie ceng ji ma	2535
+类别代码	lei bie dai ma	2534
+类别范围	lei bie fan wei	2533
+类别类别表	lei bie lei bie biao	2532
+类别码	lei bie ma	2531
+类别名称	lei bie ming cheng	2530
+累计成功认证次数	lei ji cheng gong ren zheng ci shu	2521
+累计发放金额	lei ji fa fang jin e	2520
+累计发放金额限制	lei ji fa fang jin e xian zhi	2519
+累计发放数量	lei ji fa fang shu liang	2518
+累计发放数量限制	lei ji fa fang shu liang xian zhi	2517
+累计进货额	lei ji jin huo e	2516
+累计认证次数	lei ji ren zheng ci shu	2515
+累计销售额	lei ji xiao shou e	2514
+累计支付额	lei ji zhi fu e	2513
+类名	lei ming	2529
+类目范围	lei mu fan wei	2528
+类目范围代码	lei mu fan wei dai ma	2527
+类目范围价格组	lei mu fan wei jia ge zu	2526
+类目范围商品	lei mu fan wei shang pin	2525
+类型	lei xing	2524
+类型编号	lei xing bian hao	2523
+类型名称	lei xing ming cheng	2522
+类直配商	lei zhi pei shang	4611
+冷链类型	leng lian lei xing	2512
+冷链商品类型	leng lian shang pin lei xing	2511
+理货组	li huo zu	2510
+连接数量	lian jie shu liang	2509
+联系地址	lian xi di zhi	2505
+联系电话	lian xi dian hua	2504
+联系方式	lian xi fang shi	2503
+联系人	lian xi ren	2502
+联系人传呼	lian xi ren chuan hu	2501
+联系人地址	lian xi ren di zhi	2500
+联系人地址邮编	lian xi ren di zhi you bian	2499
+联系人电话	lian xi ren dian hua	2498
+联系人名称	lian xi ren ming cheng	2497
+联销率	lian xiao lv	2496
+联销率促销	lian xiao lv cu xiao	2495
+联销率促销单	lian xiao lv cu xiao dan	2494
+联销率促销单明细	lian xiao lv cu xiao dan ming xi	2493
+联销率促销单日志	lian xiao lv cu xiao dan ri zhi	2492
+联销率促销单生效单位明细	lian xiao lv cu xiao dan sheng xiao dan wei ming xi	2491
+连续成功登录时间限制	lian xu cheng gong deng lu shi jian xian zhi	2508
+连续出错登录时间限制	lian xu chu cuo deng lu shi jian xian zhi	2507
+连续出错登录锁定时间	lian xu chu cuo deng lu suo ding shi jian	2506
+量贩价	liang fan jia	4476
+量优顺序	liang you shun xu	2490
+临时录入商品单位	lin shi lu ru shang pin dan wei	2489
+临时录入商品规格	lin shi lu ru shang pin gui ge	2488
+临时录入商品名称	lin shi lu ru shang pin ming cheng	2487
+临时录入商品商标	lin shi lu ru shang pin shang biao	2486
+令牌表	ling pai biao	2440
+令牌服务时限	ling pai fu wu shi xian	2439
+令牌管理	ling pai guan li	2437
+令牌关系	ling pai guan xi	2438
+令牌校准时间	ling pai jiao zhun shi jian	2432
+令牌类型	ling pai lei xing	2436
+令牌漂移时间窗	ling pai piao yi shi jian chuang	2435
+令牌平均白天漂移时间	ling pai ping jun bai tian piao yi shi jian	2434
+令牌认证日志	ling pai ren zheng ri zhi	2433
+令牌序列号	ling pai xu lie hao	2431
+令牌状态	ling pai zhuang tai	2430
+零售成本	ling shou cheng ben	2485
+零售处理标志	ling shou chu li biao zhi	2484
+零售促销进价额	ling shou cu xiao jin jia e	2483
+零售单	ling shou dan	2482
+零售单付款	ling shou dan fu kuan	2481
+零售单付款缓冲池	ling shou dan fu kuan huan chong chi	2480
+零售单缓冲池	ling shou dan huan chong chi	2479
+零售单明细	ling shou dan ming xi	2478
+零售单明细缓冲池	ling shou dan ming xi huan chong chi	2477
+零售单明细优惠	ling shou dan ming xi you hui	2476
+零售单明细优惠缓冲池	ling shou dan ming xi you hui huan chong chi	2475
+零售额	ling shou e	2474
+零售发票	ling shou fa piao	2473
+零售发票明细	ling shou fa piao ming xi	2472
+零售付款方式	ling shou fu kuan fang shi	2471
+零售规格	ling shou gui ge	2470
+零售核售额	ling shou he shou e	2469
+零售核算额	ling shou he suan e	2468
+零售价	ling shou jia	2467
+零售金额	ling shou jin e	2466
+零售进价额	ling shou jin jia e	2465
+零售库备份周期	ling shou ku bei fen zhou qi	2464
+零售量	ling shou liang	2463
+零售去税额	ling shou qu shui e	2462
+零售去税核算额	ling shou qu shui he suan e	2461
+零售数	ling shou shu	2459
+零售数据暂存库名	ling shou shu ju zan cun ku ming	2458
+零售数量	ling shou shu liang	2457
+零售输入数量	ling shou shu ru shu liang	2460
+零售税额	ling shou shui e	2456
+零售退货成本	ling shou tui huo cheng ben	2455
+零售退货促销进价额	ling shou tui huo cu xiao jin jia e	2454
+零售退货额	ling shou tui huo e	2453
+零售退货核售额	ling shou tui huo he shou e	2452
+零售退货核算额	ling shou tui huo he suan e	2451
+零售退货进价额	ling shou tui huo jin jia e	2450
+零售退货去税额	ling shou tui huo qu shui e	2449
+零售退货去税核算额	ling shou tui huo qu shui he suan e	2448
+零售退货数	ling shou tui huo shu	2447
+零售退货数量	ling shou tui huo shu liang	2446
+零售退货税额	ling shou tui huo shui e	2445
+零售应收总额	ling shou ying shou zong e	2444
+零售优惠额	ling shou you hui e	2443
+领用单位	ling yong dan wei	2442
+领用人	ling yong ren	2441
+流程导向图	liu cheng dao xiang tu	2429
+流程导向图操作日志	liu cheng dao xiang tu cao zuo ri zhi	2428
+流程导向图箭头	liu cheng dao xiang tu jian tou	2427
+流程导向图连接	liu cheng dao xiang tu lian jie	2426
+流程导向图连接对象	liu cheng dao xiang tu lian jie dui xiang	2425
+流程导向图连接字体	liu cheng dao xiang tu lian jie zi ti	2424
+流程导向图图形	liu cheng dao xiang tu tu xing	2423
+流程导向图图形对象	liu cheng dao xiang tu tu xing dui xiang	2422
+流程导向图图形字体	liu cheng dao xiang tu tu xing zi ti	2421
+流水号	liu shui hao	2420
+楼层	lou ceng	2419
+楼盘	lou pan	2418
+路名	lu ming	2415
+录入人	lu ru ren	2417
+录入时间	lu ru shi jian	2416
+裸价	luo jia	2413
+旅行社	lv xing she	2414
+满金额	man jin e	2412
+满数量	man shu liang	2411
+满足次数	man zu ci shu	2410
+毛利率	mao li lv	2409
+毛利上限	mao li shang xian	2408
+毛利下限	mao li xia xian	2407
+每笔交易最高积分限制	mei bi jiao yi zui gao ji fen xian zhi	4489
+每车来客数	mei che lai ke shu	2402
+每次发放金额限制	mei ci fa fang jin e xian zhi	2401
+每次发放数量限制	mei ci fa fang shu liang xian zhi	2400
+每单数量上限	mei dan shu liang shang xian	2399
+每金额	mei jin e	2398
+每进货数量	mei jin huo shu liang	2397
+每配货数量	mei pei huo shu liang	2396
+每日刷卡次数	mei ri shua ka ci shu	2395
+每数量	mei shu liang	2394
+媒体备忘文件	mei ti bei wang wen jian	2406
+媒体陈列图文件	mei ti chen lie tu wen jian	2405
+媒体文件名	mei ti wen jian ming	2404
+媒体文件全名	mei ti wen jian quan ming	2403
+每箱回扣	mei xiang hui kou	2393
+美宜佳商品积分规则	mei yi jia shang pin ji fen gui ze	4488
+美宜佳商品积分规则加速明细	mei yi jia shang pin ji fen gui ze jia su ming xi	4487
+美宜佳商品积分规则日志	mei yi jia shang pin ji fen gui ze ri zhi	4486
+每月费用	mei yue fei yong	2392
+门店	men dian	2391
+门店编号	men dian bian hao	2390
+门店标价签定货	men dian biao jia qian ding huo	2389
+门店补贴费用	men dian bu tie fei yong	2388
+门店财产保险表	men dian cai chan bao xian biao	2387
+门店仓位表	men dian cang wei biao	2386
+门店仓位商品关系表	men dian cang wei shang pin guan xi biao	2385
+门店承担	men dian cheng dan	2384
+门店处理状态	men dian chu li zhuang tai	2383
+门店的仓位	men dian de cang wei	2382
+门店调拨单	men dian diao bo dan	2381
+门店调拨单明细	men dian diao bo dan ming xi	2380
+门店调拨单批次明细	men dian diao bo dan pi ci ming xi	2379
+门店调拨单申请单明细	men dian diao bo dan shen qing dan ming xi	2378
+门店调拨单申请单日志	men dian diao bo dan shen qing dan ri zhi	2377
+门店调拨缓冲表	men dian diao bo huan chong biao	2376
+门店调拨申请单	men dian diao bo shen qing dan	2375
+门店调拨原因	men dian diao bo yuan yin	2374
+门店对帐单日志	men dian dui zhang dan ri zhi	2373
+门店发送标志	men dian fa song biao zhi	2372
+门店范围	men dian fan wei	2371
+门店费用单	men dian fei yong dan	2370
+门店费用单明细	men dian fei yong dan ming xi	2369
+门店费用单日志	men dian fei yong dan ri zhi	2368
+门店费用类型	men dian fei yong lei xing	2367
+门店分类资料	men dian fen lei zi liao	2366
+门店分摊比例	men dian fen tan bi li	2365
+门店服务费	men dian fu wu fei	2364
+门店服务费促销价格	men dian fu wu fei cu xiao jia ge	2363
+门店服务费价格	men dian fu wu fei jia ge	2362
+门店服务费原价格	men dian fu wu fei yuan jia ge	2361
+门店行号	men dian hang hao	2298
+门店合同价	men dian he tong jia	2360
+门店积分方案明细	men dian ji fen fang an ming xi	2359
+门店叫货申请单	men dian jiao huo shen qing dan	2358
+门店叫货申请单类型	men dian jiao huo shen qing dan lei xing	2357
+门店叫货申请单明细	men dian jiao huo shen qing dan ming xi	2356
+门店叫货预案	men dian jiao huo yu an	2355
+门店接收时间	men dian jie shou shi jian	2354
+门店经营属性	men dian jing ying shu xing	2353
+门店库存调拨单	men dian ku cun diao bo dan	2352
+门店库存调拨单成本明细	men dian ku cun diao bo dan cheng ben ming xi	2351
+门店库存调拨单明细	men dian ku cun diao bo dan ming xi	2350
+门店库存调拨单日志	men dian ku cun diao bo dan ri zhi	2349
+门店库存数	men dian ku cun shu	2348
+门店类别表	men dian lei bie biao	2347
+门店类型备份文件	men dian lei xing bei fen wen jian	2346
+门店类型代码	men dian lei xing dai ma	2345
+门店类型门店明细	men dian lei xing men dian ming xi	2344
+门店类型商品明细	men dian lei xing shang pin ming xi	2343
+门店零售表	men dian ling shou biao	2342
+门店零售表付款明细	men dian ling shou biao fu kuan ming xi	2341
+门店零售表商品明细	men dian ling shou biao shang pin ming xi	2340
+门店零售表商品优惠明细	men dian ling shou biao shang pin you hui ming xi	2339
+门店零售单	men dian ling shou dan	2338
+门店零售单付款明细	men dian ling shou dan fu kuan ming xi	2337
+门店零售单明细	men dian ling shou dan ming xi	2336
+门店零售单批次明细	men dian ling shou dan pi ci ming xi	2335
+门店零售单日志	men dian ling shou dan ri zhi	2334
+门店零售单商品明细	men dian ling shou dan shang pin ming xi	2333
+门店零售单优惠明细	men dian ling shou dan you hui ming xi	2332
+门店零售退货单	men dian ling shou tui huo dan	2331
+门店零售退货单批次明细	men dian ling shou tui huo dan pi ci ming xi	2330
+门店零售退货单商品明细	men dian ling shou tui huo dan shang pin ming xi	2329
+门店零售退货单退款明细	men dian ling shou tui huo dan tui kuan ming xi	2328
+门店名称	men dian ming cheng	2327
+门店明细数	men dian ming xi shu	2326
+门店盘点	men dian pan dian	4605
+门店盘点明细	men dian pan dian ming xi	2325
+门店配置方案	men dian pei zhi fang an	4583
+门店品牌类别	men dian pin pai lei bie	2324
+门店期初库存	men dian qi chu ku cun	2323
+门店期初库存记录	men dian qi chu ku cun ji lu	2322
+门店期初业务时间	men dian qi chu ye wu shi jian	2321
+门店期号	men dian qi hao	2320
+门店日报	men dian ri bao	2319
+门店商品退货通知单	men dian shang pin tui huo tong zhi dan	2318
+门店商品退货通知单明细	men dian shang pin tui huo tong zhi dan ming xi	2317
+门店商品退货通知单明细明细	men dian shang pin tui huo tong zhi dan ming xi ming xi	2316
+门店商品退货指令明细当前值	men dian shang pin tui huo zhi ling ming xi dang qian zhi	2315
+门店售价组变化明细	men dian shou jia zu bian hua ming xi	2314
+门店数	men dian shu	2313
+门店数据标志	men dian shu ju biao zhi	2312
+门店数据加工记录	men dian shu ju jia gong ji lu	4604
+门店数据库生成服务器配置	men dian shu ju ku sheng cheng fu wu qi pei zhi	2311
+门店数据库生成任务进度监控	men dian shu ju ku sheng cheng ren wu jin du jian kong	2310
+门店数据库生成任务明细	men dian shu ju ku sheng cheng ren wu ming xi	2309
+门店数据库生成选项	men dian shu ju ku sheng cheng xuan xiang	2308
+门店数量	men dian shu liang	2307
+门店所有商品	men dian suo you shang pin	2306
+门店态度	men dian tai du	2305
+门店投资资料	men dian tou zi zi liao	2304
+门店文件资料	men dian wen jian zi liao	2303
+门店限制业务	men dian xian zhi ye wu	2302
+门店销售年报	men dian xiao shou nian bao	2301
+门店销售日报	men dian xiao shou ri bao	2300
+门店销售月报	men dian xiao shou yue bao	2299
+门店与调价方案对照表	men dian yu tiao jia fang an dui zhao biao	2296
+门店与调价方案调整单对照表	men dian yu tiao jia fang an tiao zheng dan dui zhao biao	2297
+门店员工卡	men dian yuan gong ka	2295
+门店员工卡日志	men dian yuan gong ka ri zhi	2294
+门店员工意外保险汇总表	men dian yuan gong yi wai bao xian hui zong biao	2293
+门店员工意外保险明细表	men dian yuan gong yi wai bao xian ming xi biao	2292
+门店状态	men dian zhuang tai	2290
+门店装修费用	men dian zhuang xiu fei yong	2291
+门店组	men dian zu	2289
+门店组付款方式	men dian zu fu kuan fang shi	2288
+门店组类别	men dian zu lei bie	2287
+密码	mi ma	2286
+密码错误次数	mi ma cuo wu ci shu	2285
+密钥	mi yue	2284
+面包门店类型	mian bao men dian lei xing	2282
+面包配货线路	mian bao pei huo xian lu	2281
+面包配货周期	mian bao pei huo zhou qi	2280
+面额	mian e	2279
+面积	mian ji	2278
+面积标准	mian ji biao zhun	2277
+免运费	mian yun fei	2283
+面值	mian zhi	2276
+描述	miao shu	4455
+描述信息	miao shu xin xi	2275
+名称	ming cheng	2274
+名称规格	ming cheng gui ge	2273
+名称与规格	ming cheng yu gui ge	2272
+命令	ming ling	4454
+明细编号	ming xi bian hao	2271
+明细标志	ming xi biao zhi	2270
+明细纪录数	ming xi ji lu shu	2269
+明细数	ming xi shu	2268
+明细数量	ming xi shu liang	2267
+明细序号	ming xi xu hao	4464
+末次发货人	mo ci fa huo ren	2250
+末次购买时间	mo ci gou mai shi jian	2249
+末次提货时间	mo ci ti huo shi jian	2248
+末次提货数量	mo ci ti huo shu liang	2247
+模块	mo kuai	2264
+模块备注	mo kuai bei zhu	2263
+模块编号	mo kuai bian hao	2262
+模块标号	mo kuai biao hao	2261
+模块标识	mo kuai biao zhi	2260
+模块号	mo kuai hao	2259
+模块类型	mo kuai lei xing	2258
+模块名称	mo kuai ming cheng	2257
+模块特殊权限	mo kuai te shu quan xian	2256
+模块相关功能定义	mo kuai xiang guan gong neng ding yi	2255
+模块相关功能明细	mo kuai xiang guan gong neng ming xi	2254
+模块相关文件	mo kuai xiang guan wen jian	2253
+模块状态特殊权限表	mo kuai zhuang tai te shu quan xian biao	2252
+模式	mo shi	2251
+模板编号	mu ban bian hao	2266
+模板商品	mu ban shang pin	2265
+目标单位	mu biao dan wei	2246
+目标店号	mu biao dian hao	2245
+目标门店	mu biao men dian	2244
+目标位置	mu biao wei zhi	2243
+目标组织	mu biao zu zhi	2242
+目录	mu lu	2241
+纳税人类型	na shui ren lei xing	2233
+内部编号	nei bu bian hao	2240
+内部代码	nei bu dai ma	2239
+内部提成金额	nei bu ti cheng jin e	2235
+内部调拨单	nei bu tiao bo dan	2238
+内部调拨单明细	nei bu tiao bo dan ming xi	2237
+内部调拨单批次明细	nei bu tiao bo dan pi ci ming xi	2236
+内容	nei rong	2234
+拟付款日期	ni fu kuan ri qi	2232
+年部门销售计划	nian bu men xiao shou ji hua	2231
+年仓位销售计划	nian cang wei xiao shou ji hua	2230
+年份	nian fen	2229
+年结转差异	nian jie zhuan cha yi	2228
+年结转期	nian jie zhuan qi	2227
+年结转期号	nian jie zhuan qi hao	2226
+年类别销售计划	nian lei bie xiao shou ji hua	2225
+年门店销售计划	nian men dian xiao shou ji hua	2224
+年月结转期对照	nian yue jie zhuan qi dui zhao	2223
+牛奶卡金额	niu nai ka jin e	2222
+排单标志	pai dan biao zhi	2221
+牌号	pai hao	2220
+牌价	pai jia	2219
+盘到时间	pan dao shi jian	2218
+盘点单	pan dian dan	2217
+盘点单号	pan dian dan hao	2216
+盘点单明细	pan dian dan ming xi	2215
+盘点方案	pan dian fang an	2214
+盘点行号	pan dian hang hao	2206
+盘点库存快照	pan dian ku cun kuai zhao	2213
+盘点类型	pan dian lei xing	2212
+盘点目录	pan dian mu lu	2211
+盘点目录仓位明细	pan dian mu lu cang wei ming xi	2210
+盘点目录日志	pan dian mu lu ri zhi	2209
+盘点日志	pan dian ri zhi	2208
+盘点锁定时间标识	pan dian suo ding shi jian biao zhi	2207
+盘点序号	pan dian xu hao	2205
+盘点盈亏成本	pan dian ying kui cheng ben	2204
+盘点盈亏数	pan dian ying kui shu	2203
+盘点中变化数	pan dian zhong bian hua shu	2202
+盘亏金额	pan kui jin e	2201
+盘入单	pan ru dan	2200
+盘入单明细	pan ru dan ming xi	2199
+盘盈金额	pan ying jin e	2198
+配备方式	pei bei fang shi	2197
+配出单号	pei chu dan hao	4490
+配出单签收状态	pei chu dan qian shou zhuang tai	2196
+配出单已付金额	pei chu dan yi fu jin e	2195
+配出单应付金额	pei chu dan ying fu jin e	2194
+配出额	pei chu e	2193
+配出核售额	pei chu he shou e	2192
+配出核算额	pei chu he suan e	2191
+配出价	pei chu jia	2190
+配出去税额	pei chu qu shui e	2189
+配出去税核算额	pei chu qu shui he suan e	2188
+配出数	pei chu shu	2187
+配出税额	pei chu shui e	2186
+配出退货额	pei chu tui huo e	2185
+配出退货核售额	pei chu tui huo he shou e	2184
+配出退货核算额	pei chu tui huo he suan e	2183
+配出退货去税额	pei chu tui huo qu shui e	2182
+配出退货去税核算额	pei chu tui huo qu shui he suan e	2181
+配出退货数	pei chu tui huo shu	2180
+配出退货税额	pei chu tui huo shui e	2179
+配方	pei fang	2178
+配方倍数	pei fang bei shu	2177
+配方代码	pei fang dai ma	2176
+配方类型	pei fang lei xing	2175
+配方明细	pei fang ming xi	2174
+配方总表	pei fang zong biao	2173
+配货差异单	pei huo cha yi dan	4500
+配货差异单明细	pei huo cha yi dan ming xi	4499
+配货差异单日志	pei huo cha yi dan ri zhi	2172
+配货差异通知单	pei huo cha yi tong zhi dan	4498
+配货差异通知单明细	pei huo cha yi tong zhi dan ming xi	4497
+配货成本	pei huo cheng ben	2171
+配货池	pei huo chi	2170
+配货池日志	pei huo chi ri zhi	2169
+配货池生成单据表	pei huo chi sheng cheng dan ju biao	2168
+配货池生成单据日志	pei huo chi sheng cheng dan ju ri zhi	2167
+配货池总表	pei huo chi zong biao	2166
+配货出货单	pei huo chu huo dan	2165
+配货单行号	pei huo dan hang hao	2162
+配货单号	pei huo dan hao	2164
+配货单位	pei huo dan wei	2163
+配货额	pei huo e	2159
+配货方式	pei huo fang shi	2158
+配货方式调整单	pei huo fang shi tiao zheng dan	2157
+配货方式调整单明细	pei huo fang shi tiao zheng dan ming xi	2156
+配货方式调整单日志	pei huo fang shi tiao zheng dan ri zhi	2155
+配货方式调整单生效单位明细	pei huo fang shi tiao zheng dan sheng xiao dan wei ming xi	2154
+配货规格	pei huo gui ge	2153
+配货含税金额	pei huo han shui jin e	2152
+配货价	pei huo jia	2151
+配货价计算公式	pei huo jia ji suan gong shi	2150
+配货价进价比	pei huo jia jin jia bi	2149
+配货结束时间	pei huo jie shu shi jian	2148
+配货开始时间	pei huo kai shi shi jian	2147
+配货库存视图	pei huo ku cun shi tu	2146
+配货类型	pei huo lei xing	2145
+配货人	pei huo ren	2144
+配货日期	pei huo ri qi	2143
+配货时间	pei huo shi jian	2142
+配货数	pei huo shu	2141
+配货数量	pei huo shu liang	2140
+配货调整额	pei huo tiao zheng e	2161
+配货调整总额	pei huo tiao zheng zong e	2160
+配货通知单	pei huo tong zhi dan	2139
+配货通知单明细	pei huo tong zhi dan ming xi	2138
+配货退货成本	pei huo tui huo cheng ben	2137
+配货退货额	pei huo tui huo e	2136
+配货退货申请单	pei huo tui huo shen qing dan	2135
+配货退货申请单明细	pei huo tui huo shen qing dan ming xi	2134
+配货退货申请单明细明细	pei huo tui huo shen qing dan ming xi ming xi	2133
+配货退货申请单日志	pei huo tui huo shen qing dan ri zhi	2132
+配货退货数	pei huo tui huo shu	2131
+配货原因	pei huo yuan yin	2130
+配货赠品协议	pei huo zeng pin xie yi	2129
+配货赠品协议明细	pei huo zeng pin xie yi ming xi	2128
+配货赠品协议日志	pei huo zeng pin xie yi ri zhi	2127
+配货赠品协议生效门店明细	pei huo zeng pin xie yi sheng xiao men dian ming xi	2126
+配货赠品协议赠品明细	pei huo zeng pin xie yi zeng pin ming xi	2125
+配货赠品协议主商品明细	pei huo zeng pin xie yi zhu shang pin ming xi	2124
+配货赠品信息	pei huo zeng pin xin xi	2123
+配货赠品信息明细	pei huo zeng pin xin xi ming xi	2122
+配货中心	pei huo zhong xin	2121
+配件总额	pei jian zong e	2120
+配入额	pei ru e	2119
+配入核售额	pei ru he shou e	2118
+配入核算额	pei ru he suan e	2117
+配入去税额	pei ru qu shui e	2116
+配入去税核算额	pei ru qu shui he suan e	2115
+配入数	pei ru shu	2114
+配入税额	pei ru shui e	2113
+配入退货去税额	pei ru tui huo qu shui e	2112
+配入退货去税核算额	pei ru tui huo qu shui he suan e	2111
+配入退货税额	pei ru tui huo shui e	2110
+配送单价	pei song dan jia	2109
+配送方案	pei song fang an	2108
+配送方案明细	pei song fang an ming xi	2107
+配送方式	pei song fang shi	2106
+配送时间	pei song shi jian	2105
+配送中心	pei song zhong xin	2104
+配往单位	pei wang dan wei	2103
+配置方案	pei zhi fang an	4582
+配置方案明细	pei zhi fang an ming xi	4581
+配置项	pei zhi xiang	4580
+配置项代码	pei zhi xiang dai ma	2102
+配置项可选值	pei zhi xiang ke xuan zhi	4579
+配置项名	pei zhi xiang ming	2101
+配置项说明	pei zhi xiang shuo ming	2100
+配置项值	pei zhi xiang zhi	2099
+配置项值类型	pei zhi xiang zhi lei xing	2098
+配置项值说明	pei zhi xiang zhi shuo ming	2097
+配自单位	pei zi dan wei	2096
+批次	pi ci	2095
+批次标志	pi ci biao zhi	2094
+批次路线	pi ci lu xian	2093
+批发促销价	pi fa cu xiao jia	2092
+批发促销进价额	pi fa cu xiao jin jia e	2091
+批发单号	pi fa dan hao	2090
+批发额	pi fa e	2089
+批发规格	pi fa gui ge	2088
+批发核售额	pi fa he shou e	2087
+批发核算额	pi fa he suan e	2086
+批发价	pi fa jia	4475
+批发价促销单	pi fa jia cu xiao dan	2085
+批发价促销单门店	pi fa jia cu xiao dan men dian	2084
+批发价促销单明细	pi fa jia cu xiao dan ming xi	2083
+批发价促销单日志	pi fa jia cu xiao dan ri zhi	2082
+批发进价额	pi fa jin jia e	2081
+批发类型	pi fa lei xing	2080
+批发去税额	pi fa qu shui e	2079
+批发去税核算额	pi fa qu shui he suan e	2078
+批发日期	pi fa ri qi	2077
+批发数	pi fa shu	2076
+批发数量	pi fa shu liang	2075
+批发税额	pi fa shui e	2074
+批发退货促销进价额	pi fa tui huo cu xiao jin jia e	2073
+批发退货额	pi fa tui huo e	2072
+批发退货核售额	pi fa tui huo he shou e	2071
+批发退货核算额	pi fa tui huo he suan e	2070
+批发退货进价额	pi fa tui huo jin jia e	2069
+批发退货去税额	pi fa tui huo qu shui e	2068
+批发退货去税核算额	pi fa tui huo qu shui he suan e	2067
+批发退货数	pi fa tui huo shu	2066
+批发退货数量	pi fa tui huo shu liang	2065
+批发退货税额	pi fa tui huo shui e	2064
+批发应收总额	pi fa ying shou zong e	2063
+批发余额控制	pi fa yu e kong zhi	2062
+批号	pi hao	2061
+匹配次数	pi pei ci shu	2053
+批准单价	pi zhun dan jia	2060
+批准单位	pi zhun dan wei	2059
+批准人	pi zhun ren	2058
+批准日期	pi zhun ri qi	2057
+批准时间	pi zhun shi jian	2056
+批准数量	pi zhun shu liang	2055
+批准箱数	pi zhun xiang shu	2054
+票据号	piao ju hao	2051
+票据金额	piao ju jin e	2050
+票据类型	piao ju lei xing	2049
+票数据	piao shu ju	4591
+漂移时间	piao yi shi jian	2052
+品类表	pin lei biao	2048
+品类代码	pin lei dai ma	2047
+品类定义及特点	pin lei ding yi ji te dian	2046
+品类发送列表	pin lei fa song lie biao	2045
+品类决策因素	pin lei jue ce yin su	2044
+品类门店类型	pin lei men dian lei xing	2043
+品类门店明细	pin lei men dian ming xi	2042
+品类商品决策因素值	pin lei shang pin jue ce yin su zhi	2041
+品类商品明细	pin lei shang pin ming xi	2040
+品类修改日志	pin lei xiu gai ri zhi	2039
+品牌	pin pai	2038
+品牌层级码	pin pai ceng ji ma	2037
+品牌代码	pin pai dai ma	2036
+品牌类别	pin pai lei bie	2035
+品项数	pin xiang shu	2034
+平均销售量	ping jun xiao shou liang	2033
+平名称	ping ming cheng	2032
+平台	ping tai	4458
+平台代码	ping tai dai ma	2031
+平台活动码	ping tai huo dong ma	2030
+平台名称	ping tai ming cheng	2029
+屏显广告语	ping xian guang gao yu	2028
+铺位租金	pu wei zu jin	2027
+期初成本	qi chu cheng ben	2026
+期初成本差额	qi chu cheng ben cha e	2025
+期初调出额	qi chu diao chu e	2024
+期初调出核售额	qi chu diao chu he shou e	2023
+期初调出核算额	qi chu diao chu he suan e	2022
+期初调出数	qi chu diao chu shu	2021
+期初调入额	qi chu diao ru e	2020
+期初调入核售额	qi chu diao ru he shou e	2019
+期初调入核算额	qi chu diao ru he suan e	2018
+期初调入数	qi chu diao ru shu	2017
+期初核售调价额	qi chu he shou tiao jia e	2016
+期初核算调价额	qi chu he suan tiao jia e	2015
+期初后台优惠额	qi chu hou tai you hui e	2014
+期初加工核售额	qi chu jia gong he shou e	2013
+期初加工核算额	qi chu jia gong he suan e	2012
+期初加工金额	qi chu jia gong jin e	2011
+期初加工数量	qi chu jia gong shu liang	2010
+期初金额	qi chu jin e	2009
+期初进货额	qi chu jin huo e	2008
+期初进货数	qi chu jin huo shu	2007
+期初进货退货额	qi chu jin huo tui huo e	2006
+期初进货退货核售额	qi chu jin huo tui huo he shou e	2005
+期初进货退货核算额	qi chu jin huo tui huo he suan e	2004
+期初进货退货数	qi chu jin huo tui huo shu	2003
+期初库存成本额	qi chu ku cun cheng ben e	2002
+期初库存额	qi chu ku cun e	2001
+期初库存计算时间	qi chu ku cun ji suan shi jian	2000
+期初库存去税额	qi chu ku cun qu shui e	1999
+期初库存数	qi chu ku cun shu	1998
+期初库存数据发送结果	qi chu ku cun shu ju fa song jie guo	1997
+期初零售额	qi chu ling shou e	1996
+期初零售核售额	qi chu ling shou he shou e	1995
+期初零售核算额	qi chu ling shou he suan e	1994
+期初零售数	qi chu ling shou shu	1993
+期初零售退货额	qi chu ling shou tui huo e	1992
+期初零售退货核售额	qi chu ling shou tui huo he shou e	1991
+期初零售退货核算额	qi chu ling shou tui huo he suan e	1990
+期初零售退货数	qi chu ling shou tui huo shu	1989
+期初配出额	qi chu pei chu e	1988
+期初配出核售额	qi chu pei chu he shou e	1987
+期初配出核算额	qi chu pei chu he suan e	1986
+期初配出数	qi chu pei chu shu	1985
+期初配出退货额	qi chu pei chu tui huo e	1984
+期初配出退货核售额	qi chu pei chu tui huo he shou e	1983
+期初配出退货核算额	qi chu pei chu tui huo he suan e	1982
+期初配出退货数	qi chu pei chu tui huo shu	1981
+期初配入额	qi chu pei ru e	1980
+期初配入核售额	qi chu pei ru he shou e	1979
+期初配入核算额	qi chu pei ru he suan e	1978
+期初配入数	qi chu pei ru shu	1977
+期初批发额	qi chu pi fa e	1976
+期初批发核售额	qi chu pi fa he shou e	1975
+期初批发核算额	qi chu pi fa he suan e	1974
+期初批发数	qi chu pi fa shu	1973
+期初批发退货额	qi chu pi fa tui huo e	1972
+期初批发退货核售额	qi chu pi fa tui huo he shou e	1971
+期初批发退货核算额	qi chu pi fa tui huo he suan e	1970
+期初批发退货数	qi chu pi fa tui huo shu	1969
+期初前台折扣额	qi chu qian tai zhe kou e	1968
+期初数量	qi chu shu liang	1967
+期初损溢核售额	qi chu sun yi he shou e	1966
+期初损溢核算额	qi chu sun yi he suan e	1965
+期初损溢数	qi chu sun yi shu	1964
+期初未结货款	qi chu wei jie huo kuan	1963
+期初未结金额	qi chu wei jie jin e	1962
+期初销售额	qi chu xiao shou e	1961
+期初销售分配调整额	qi chu xiao shou fen pei tiao zheng e	1960
+期初销售分配调整数	qi chu xiao shou fen pei tiao zheng shu	1959
+期初销售金额	qi chu xiao shou jin e	1958
+期初销售进价额	qi chu xiao shou jin jia e	1957
+期初销售数	qi chu xiao shou shu	1956
+期初已结额	qi chu yi jie e	1955
+期初已结金额	qi chu yi jie jin e	1954
+期初已结数	qi chu yi jie shu	1953
+期初已结销售额	qi chu yi jie xiao shou e	1952
+期初应结额	qi chu ying jie e	1949
+期初应结金额	qi chu ying jie jin e	1948
+期初应结数	qi chu ying jie shu	1947
+期初应结调整额	qi chu ying jie tiao zheng e	1951
+期初应结调整数	qi chu ying jie tiao zheng shu	1950
+期初盈亏核售额	qi chu ying kui he shou e	1946
+期初盈亏核算额	qi chu ying kui he suan e	1945
+期初盈亏数	qi chu ying kui shu	1944
+期初余额	qi chu yu e	1943
+期初转出额	qi chu zhuan chu e	1942
+期初转出核售额	qi chu zhuan chu he shou e	1941
+期初转出核算额	qi chu zhuan chu he suan e	1940
+期初转出数	qi chu zhuan chu shu	1939
+期初转入额	qi chu zhuan ru e	1938
+期初转入核售额	qi chu zhuan ru he shou e	1937
+期初转入核算额	qi chu zhuan ru he suan e	1936
+期初转入数	qi chu zhuan ru shu	1935
+期初自营额	qi chu zi ying e	1934
+期初自营核售额	qi chu zi ying he shou e	1933
+期初自营核算额	qi chu zi ying he suan e	1932
+期初自营数	qi chu zi ying shu	1931
+起定金额	qi ding jin e	1907
+起定数量	qi ding shu liang	1906
+期号	qi hao	1930
+起积金额	qi ji jin e	1905
+期末成本	qi mo cheng ben	1929
+期末成本价	qi mo cheng ben jia	1928
+期末金额	qi mo jin e	1927
+期末库存成本额	qi mo ku cun cheng ben e	1926
+期末库存额	qi mo ku cun e	1925
+期末库存去税额	qi mo ku cun qu shui e	1924
+期末库存数	qi mo ku cun shu	1923
+期末数	qi mo shu	1922
+期末数量	qi mo shu liang	1921
+期末未结货款	qi mo wei jie huo kuan	1920
+起始标志	qi shi biao zhi	1904
+起始购买额	qi shi gou mai e	1903
+起始购买条件	qi shi gou mai tiao jian	1902
+起始号码	qi shi hao ma	1901
+起始金额	qi shi jin e	1900
+起始日	qi shi ri	1899
+起始日期	qi shi ri qi	1898
+起始时间	qi shi shi jian	1897
+起始条件	qi shi tiao jian	1896
+起始赠送数量	qi shi zeng song shu liang	1895
+其它	qi ta	1915
+其它标志	qi ta biao zhi	1914
+其他费用	qi ta fei yong	1919
+其他条件描述	qi ta tiao jian miao shu	1918
+其它业务总额	qi ta ye wu zong e	1913
+其他应收款	qi ta ying shou kuan	1917
+其他折扣	qi ta zhe kou	1916
+企业法人	qi ye fa ren	1912
+企业性质	qi ye xing zhi	1911
+启用标志	qi yong biao zhi	1910
+启用令牌管理	qi yong ling pai guan li	1909
+启用日期	qi yong ri qi	1908
+签出时间	qian chu shi jian	1894
+签到动作	qian dao dong zuo	1893
+签到门店号	qian dao men dian hao	1892
+签到人	qian dao ren	1891
+签到日期	qian dao ri qi	1890
+签到时间	qian dao shi jian	1889
+前后台交换状态表	qian hou tai jiao huan zhuang tai biao	1883
+签收单	qian shou dan	1888
+签收单单号	qian shou dan dan hao	1887
+签收单生成时间	qian shou dan sheng cheng shi jian	1886
+前台操作记录	qian tai cao zuo ji lu	1882
+前台兑换单号	qian tai dui huan dan hao	1881
+前台广告语生效表	qian tai guang gao yu sheng xiao biao	1880
+前台广告语维护单	qian tai guang gao yu wei hu dan	1879
+前台广告语维护单日志	qian tai guang gao yu wei hu dan ri zhi	1878
+前台广告语维护生效单位	qian tai guang gao yu wei hu sheng xiao dan wei	1877
+前台商品标记单	qian tai shang pin biao ji dan	1876
+前台商品标记单明细	qian tai shang pin biao ji dan ming xi	1875
+前台商品标记单日志	qian tai shang pin biao ji dan ri zhi	1874
+前台商品标记历史表	qian tai shang pin biao ji li shi biao	1873
+前台商品标记生效单位	qian tai shang pin biao ji sheng xiao dan wei	1872
+前台消费状态	qian tai xiao fei zhuang tai	1871
+前台优惠额	qian tai you hui e	1870
+前台折扣额	qian tai zhe kou e	1869
+签约人	qian yue ren	1885
+签约日期	qian yue ri qi	1884
+前置毛利	qian zhi mao li	1868
+强制标志	qiang zhi biao zhi	1867
+强制接收	qiang zhi jie shou	1866
+强制审核	qiang zhi shen he	1865
+强制审核标志	qiang zhi shen he biao zhi	1864
+强制写入	qiang zhi xie ru	1863
+强制写入标志	qiang zhi xie ru biao zhi	1862
+清除库存	qing chu ku cun	1861
+清除库存明细	qing chu ku cun ming xi	1860
+清单号	qing dan hao	1859
+清单类别	qing dan lei bie	1858
+清单类型	qing dan lei xing	1857
+清单名称	qing dan ming cheng	1856
+清空在单量标识	qing kong zai dan liang biao zhi	1855
+请求认证公司代码	qing qiu ren zheng gong si dai ma	1852
+清算日期	qing suan ri qi	1854
+清算行行号	qing suan xing xing hao	1853
+渠道	qu dao	1849
+渠道代码	qu dao dai ma	1848
+渠道类型	qu dao lei xing	1847
+渠道类型代码	qu dao lei xing dai ma	1846
+去税单价	qu shui dan jia	1844
+去税金额	qu shui jin e	1843
+去税折扣金额	qu shui zhe kou jin e	1842
+区县	qu xian	1851
+区域	qu yu	4597
+区域代码	qu yu dai ma	1850
+取整方式	qu zheng fang shi	1845
+权限	quan xian	4493
+权限级别	quan xian ji bie	1841
+缺货扣款单价	que huo kou kuan dan jia	1840
+确认	que ren	1835
+确认人	que ren ren	1834
+确认日期	que ren ri qi	1833
+确认时间	que ren shi jian	1832
+确认数量	que ren shu liang	1831
+缺省菜单结构	que sheng cai dan jie gou	1839
+缺省仓位	que sheng cang wei	1838
+缺省供应商	que sheng gong ying shang	1837
+缺省值	que sheng zhi	1836
+任务备注	ren wu bei zhu	1829
+任务编号	ren wu bian hao	1828
+任务参数	ren wu can shu	1827
+任务单号	ren wu dan hao	1826
+任务号	ren wu hao	1825
+任务完成情况	ren wu wan cheng qing kuang	1824
+任务状态	ren wu zhuang tai	1823
+认证出错次数	ren zheng chu cuo ci shu	1830
+日结程序注册表	ri jie cheng xu zhu ce biao	1822
+日期	ri qi	1821
+日期界限	ri qi jie xian	1820
+日志备注	ri zhi bei zhu	1819
+日志事件发生源	ri zhi shi jian fa sheng yuan	1818
+日志事件类型	ri zhi shi jian lei xing	1817
+入仓折扣	ru cang zhe kou	1816
+删除	shan chu	1815
+删除标记	shan chu biao ji	1814
+删除标志	shan chu biao zhi	1813
+删除时间	shan chu shi jian	1812
+删除语句	shan chu yu ju	1811
+商标	shang biao	1810
+上次打印时间	shang ci da yin shi jian	1703
+上次发送人	shang ci fa song ren	1702
+上次发送日期	shang ci fa song ri qi	1701
+上次发送时间	shang ci fa song shi jian	1700
+上次交换时间	shang ci jiao huan shi jian	1699
+上次交换时刻	shang ci jiao huan shi ke	1698
+上次接受时间	shang ci jie shou shi jian	1696
+上次接收时间	shang ci jie shou shi jian	1697
+上次认证通过时间	shang ci ren zheng tong guo shi jian	1695
+上次审核是否批准	shang ci shen he shi fou pi zhun	1694
+上次下载偏移量	shang ci xia zai pian yi liang	1693
+商店	shang dian	1809
+上级部门代码	shang ji bu men dai ma	1692
+上级代码	shang ji dai ma	1691
+上级控制	shang ji kong zhi	1690
+上级组织	shang ji zu zhi	1689
+商家分摊金额	shang jia fen tan jin e	1808
+上架率	shang jia lv	1688
+商品	shang pin	4596
+商品版本	shang pin ban ben	1807
+商品包装	shang pin bao zhuang	1806
+商品包装规格	shang pin bao zhuang gui ge	1805
+商品备注	shang pin bei zhu	1804
+商品标记	shang pin biao ji	1803
+商品标记表	shang pin biao ji biao	1802
+商品采价表	shang pin cai jia biao	1801
+商品仓位库存	shang pin cang wei ku cun	1800
+商品仓位库存上下限当前值	shang pin cang wei ku cun shang xia xian dang qian zhi	1799
+商品长度	shang pin chang du	1798
+商品成本调整单	shang pin cheng ben tiao zheng dan	1797
+商品成本调整单明细	shang pin cheng ben tiao zheng dan ming xi	1796
+商品出货年报	shang pin chu huo nian bao	1795
+商品出货日报	shang pin chu huo ri bao	1794
+商品出货日报期初值	shang pin chu huo ri bao qi chu zhi	1793
+商品出货月报	shang pin chu huo yue bao	1792
+商品代码	shang pin dai ma	1791
+商品单价	shang pin dan jia	1790
+商品单位	shang pin dan wei	1789
+商品范围	shang pin fan wei	1787
+商品范围描述	shang pin fan wei miao shu	1786
+商品服务费价格促销单	shang pin fu wu fei jia ge cu xiao dan	1785
+商品服务费价格促销单当前值	shang pin fu wu fei jia ge cu xiao dan dang qian zhi	1784
+商品服务费价格促销单明细	shang pin fu wu fei jia ge cu xiao dan ming xi	1783
+商品服务费价格促销单日志	shang pin fu wu fei jia ge cu xiao dan ri zhi	1782
+商品服务费价格调整单	shang pin fu wu fei jia ge tiao zheng dan	1781
+商品服务费价格调整单当前值	shang pin fu wu fei jia ge tiao zheng dan dang qian zhi	1780
+商品服务费价格调整单明细	shang pin fu wu fei jia ge tiao zheng dan ming xi	1779
+商品服务费价格调整单日志	shang pin fu wu fei jia ge tiao zheng dan ri zhi	1778
+商品服务费属性表	shang pin fu wu fei shu xing biao	1777
+商品高度	shang pin gao du	1776
+商品规格表	shang pin gui ge biao	1775
+商品规格说明	shang pin gui ge shuo ming	1774
+商品行号	shang pin hang hao	1727
+商品会员价	shang pin hui yuan jia	1773
+商品会员价规则	shang pin hui yuan jia gui ze	4485
+商品会员价规则操作日志	shang pin hui yuan jia gui ze cao zuo ri zhi	4484
+商品会员金额	shang pin hui yuan jin e	1772
+商品会员销售单属性表	shang pin hui yuan xiao shou dan shu xing biao	1771
+商品积分	shang pin ji fen	1770
+商品简介	shang pin jian jie	1769
+商品金额	shang pin jin e	1768
+商品进货年报	shang pin jin huo nian bao	1767
+商品进货日报	shang pin jin huo ri bao	1766
+商品进货月报	shang pin jin huo yue bao	1765
+商品经营实体	shang pin jing ying shi ti	1764
+商品卡板数表	shang pin ka ban shu biao	1763
+商品卡板数视图	shang pin ka ban shu shi tu	1762
+商品宽度	shang pin kuan du	1761
+商品捆绑表	shang pin kun bang biao	1760
+商品扩展	shang pin kuo zhan	1759
+商品扩展属性表	shang pin kuo zhan shu xing biao	1758
+商品扩展属性类型定义	shang pin kuo zhan shu xing lei xing ding yi	1757
+商品类别表	shang pin lei bie biao	1755
+商品类别标签	shang pin lei bie biao qian	1756
+商品码	shang pin ma	1754
+商品明细数	shang pin ming xi shu	1753
+商品清单	shang pin qing dan	1752
+商品清单单类别	shang pin qing dan dan lei bie	1751
+商品清单单明细	shang pin qing dan dan ming xi	1750
+商品清单生效单位明细	shang pin qing dan sheng xiao dan wei ming xi	1749
+商品缺货记录	shang pin que huo ji lu	1748
+商品缺省供应商调整单	shang pin que sheng gong ying shang tiao zheng dan	1747
+商品缺省供应商调整单明细	shang pin que sheng gong ying shang tiao zheng dan ming xi	1746
+商品缺省供应商调整单日志	shang pin que sheng gong ying shang tiao zheng dan ri zhi	1745
+商品热键	shang pin re jian	1744
+商品筛选条件	shang pin shai xuan tiao jian	1743
+商品生鲜码	shang pin sheng xian ma	1742
+商品视图	shang pin shi tu	1741
+商品数	shang pin shu	1739
+商品数量	shang pin shu liang	1738
+商品输入码	shang pin shu ru ma	1740
+商品损耗费	shang pin sun hao fei	1737
+商品所属仓位	shang pin suo shu cang wei	1736
+商品提成金额	shang pin ti cheng jin e	1735
+商品调价表	shang pin tiao jia biao	1788
+商品条件	shang pin tiao jian	1734
+商品条件说明	shang pin tiao jian shuo ming	1733
+商品条码	shang pin tiao ma	1732
+商品退货通知单号	shang pin tui huo tong zhi dan hao	1731
+商品销售提醒类型	shang pin xiao shou ti xing lei xing	1730
+商品销售提醒信息	shang pin xiao shou ti xing xin xi	1729
+商品信息临时输入	shang pin xin xi lin shi shu ru	1728
+商品营销方式当前值表	shang pin ying xiao fang shi dang qian zhi biao	1726
+商品营销方式调整单	shang pin ying xiao fang shi tiao zheng dan	1725
+商品营销方式调整单明细	shang pin ying xiao fang shi tiao zheng dan ming xi	1724
+商品营销方式调整单日志	shang pin ying xiao fang shi tiao zheng dan ri zhi	1723
+商品营销方式调整单账款明细	shang pin ying xiao fang shi tiao zheng dan zhang kuan ming xi	1722
+商品营销方式调整历史记录	shang pin ying xiao fang shi tiao zheng li shi ji lu	1721
+商品赠吉米促销单	shang pin zeng ji mi cu xiao dan	1720
+商品赠吉米促销单明细	shang pin zeng ji mi cu xiao dan ming xi	1719
+商品赠吉米促销单日志	shang pin zeng ji mi cu xiao dan ri zhi	1718
+商品赠吉米促销单生效单位明细	shang pin zeng ji mi cu xiao dan sheng xiao dan wei ming xi	1717
+商品主码	shang pin zhu ma	1716
+商品转换表	shang pin zhuan huan biao	1715
+商品资料申请单	shang pin zi liao shen qing dan	1714
+商品资料申请单明细	shang pin zi liao shen qing dan ming xi	1713
+商品资料申请单日志	shang pin zi liao shen qing dan ri zhi	1712
+商品资料申请单商品输入码	shang pin zi liao shen qing dan shang pin shu ru ma	1711
+商品资料申请单生效门店明细	shang pin zi liao shen qing dan sheng xiao men dian ming xi	1710
+商品资料申请单修改属性	shang pin zi liao shen qing dan xiu gai shu xing	1709
+商品总表	shang pin zong biao	1708
+商品总表视图	shang pin zong biao shi tu	1707
+商品总额	shang pin zong e	1706
+商品总数	shang pin zong shu	1705
+商品组	shang pin zu	1704
+上限	shang xian	1687
+上月存价	shang yue cun jia	1686
+上月库存价	shang yue ku cun jia	1685
+设备	she bei	1683
+设备编码	she bei bian ma	1682
+设备标识	she bei biao zhi	1681
+设备代码	she bei dai ma	1680
+设备端口	she bei duan kou	1679
+设备管理	she bei guan li	1678
+设备卡号	she bei ka hao	1677
+设备类型	she bei lei xing	1676
+设备名称	she bei ming cheng	1675
+舍入算法	she ru suan fa	1684
+设置信息	she zhi xin xi	1674
+深度	shen du	1657
+身份证	shen fen zheng	1661
+身份证地址	shen fen zheng di zhi	1660
+身份证号	shen fen zheng hao	1659
+身份证号码	shen fen zheng hao ma	1658
+审核标志	shen he biao zhi	1656
+审核级别	shen he ji bie	1655
+审核人	shen he ren	1654
+审核日期	shen he ri qi	1653
+审核时核算进价	shen he shi he suan jin jia	1652
+审核时核算售价	shen he shi he suan shou jia	1651
+审核时间	shen he shi jian	1650
+审核时生效	shen he shi sheng xiao	1649
+审核状态	shen he zhuang tai	1648
+申领单位	shen ling dan wei	1673
+申领人	shen ling ren	1672
+申领时间	shen ling shi jian	1671
+审批标志	shen pi biao zhi	1647
+审批单位	shen pi dan wei	1646
+审批人	shen pi ren	1645
+审批时间	shen pi shi jian	1644
+申请单价	shen qing dan jia	1670
+申请方式	shen qing fang shi	1669
+申请来源	shen qing lai yuan	1668
+申请门店	shen qing men dian	1667
+申请模式	shen qing mo shi	1666
+申请人	shen qing ren	1665
+申请日期	shen qing ri qi	1664
+申请数量	shen qing shu liang	1663
+申请箱数	shen qing xiang shu	1662
+生产厂家	sheng chan chang jia	1643
+生产商	sheng chan shang	1642
+生成百分比	sheng cheng bai fen bi	1641
+生成出货单号	sheng cheng chu huo dan hao	1640
+生成出货单明细备注	sheng cheng chu huo dan ming xi bei zhu	1639
+生成单号	sheng cheng dan hao	1638
+生成单据	sheng cheng dan ju	1637
+生成单据记录	sheng cheng dan ju ji lu	1636
+生成单据类型	sheng cheng dan ju lei xing	1635
+生成单据状态	sheng cheng dan ju zhuang tai	1634
+生成单位	sheng cheng dan wei	1633
+生成的单据单号	sheng cheng de dan ju dan hao	1632
+生成的单据类型	sheng cheng de dan ju lei xing	1631
+生成方式	sheng cheng fang shi	1630
+生成行号	sheng cheng hang hao	1622
+生成进度	sheng cheng jin du	1629
+生成批号	sheng cheng pi hao	1628
+生成人	sheng cheng ren	1627
+生成日期	sheng cheng ri qi	1626
+生成时间	sheng cheng shi jian	1625
+生成文件名	sheng cheng wen jian ming	1624
+生成信息明细	sheng cheng xin xi ming xi	1623
+生成业务类型	sheng cheng ye wu lei xing	1621
+生成员工	sheng cheng yuan gong	1620
+省市	sheng shi	1608
+生鲜加工入库池日志	sheng xian jia gong ru ku chi ri zhi	1619
+生效	sheng xiao	1618
+生效单位	sheng xiao dan wei	1617
+生效单位范围	sheng xiao dan wei fan wei	1616
+生效方式	sheng xiao fang shi	1615
+生效客户组代码	sheng xiao ke hu zu dai ma	1614
+生效门店	sheng xiao men dian	1613
+生效门店编号	sheng xiao men dian bian hao	1612
+生效日期	sheng xiao ri qi	1611
+生效时间	sheng xiao shi jian	1610
+生效状态	sheng xiao zhuang tai	1609
+市场调研单	shi chang diao yan dan	1547
+市场调研单明细	shi chang diao yan dan ming xi	1546
+市场调研单明细明细	shi chang diao yan dan ming xi ming xi	1545
+市场调研单日志	shi chang diao yan dan ri zhi	1544
+市场调研基本资料日志	shi chang diao yan ji ben zi liao ri zhi	1543
+市场价格调查单	shi chang jia ge diao cha dan	1542
+市场价格调查单明细	shi chang jia ge diao cha dan ming xi	1541
+市场价格调查方案	shi chang jia ge diao cha fang an	1540
+市场价格调查方案门店明细	shi chang jia ge diao cha fang an men dian ming xi	1539
+市场价格调查方案商品明细	shi chang jia ge diao cha fang an shang pin ming xi	1538
+市场进价	shi chang jin jia	1537
+市场售价	shi chang shou jia	1536
+市调方案	shi diao fang an	1535
+释放销售金额	shi fang xiao shou jin e	1474
+是否报告完成情况	shi fou bao gao wan cheng qing kuang	1529
+是否必须全额付款	shi fou bi xu quan e fu kuan	1528
+是否大包装	shi fou da bao zhuang	1527
+是否调用远程服务器执行	shi fou diao yong yuan cheng fu wu qi zhi xing	1526
+是否覆盖	shi fou fu gai	1525
+是否固定组	shi fou gu ding zu	1524
+是否激活	shi fou ji huo	1523
+是否结算	shi fou jie suan	1522
+是否禁用	shi fou jin yong	1521
+是否经收银员交款	shi fou jing shou yin yuan jiao kuan	1520
+是否可见	shi fou ke jian	1519
+是否可用	shi fou ke yong	1518
+是否空	shi fou kong	1517
+是否捆绑	shi fou kun bang	1516
+是否门店代定	shi fou men dian dai ding	1515
+是否判断各店商品表	shi fou pan duan ge dian shang pin biao	1514
+是否批准	shi fou pi zhun	1513
+是否启用	shi fou qi yong	1512
+是否全部门店	shi fou quan bu men dian	1511
+是否缺货	shi fou que huo	1510
+是否散货	shi fou san huo	1509
+是否删除该供应商	shi fou shan chu gai gong ying shang	1508
+是否删除该客户	shi fou shan chu gai ke hu	1507
+是否赊购	shi fou she gou	1506
+是否审核时生效	shi fou shen he shi sheng xiao	1505
+是否生成单据	shi fou sheng cheng dan ju	1504
+是否生成提单并增加库存未提数	shi fou sheng cheng ti dan bing zeng jia ku cun wei ti shu	1503
+是否收取保证金	shi fou shou qu bao zheng jin	1502
+是否收取定金	shi fou shou qu ding jin	1501
+是否通过设备进行付款	shi fou tong guo she bei jin xing fu kuan	1500
+是否退供应商	shi fou tui gong ying shang	1499
+是否退门店	shi fou tui men dian	1498
+是否外部平台	shi fou wai bu ping tai	1497
+是否为客户帐款	shi fou wei ke hu zhang kuan	1496
+是否系统默认活动	shi fou xi tong mo ren huo dong	1495
+是否系统预定义	shi fou xi tong yu ding yi	1494
+是否现金类活动	shi fou xian jin lei huo dong	1492
+是否显示	shi fou xian shi	1493
+是否限制	shi fou xian zhi	1491
+是否选择	shi fou xuan ze	1490
+是否选择到货日期	shi fou xuan ze dao huo ri qi	1489
+是否已导入盘点单	shi fou yi dao ru pan dian dan	1488
+是否已记录库存	shi fou yi ji lu ku cun	1487
+是否已生效	shi fou yi sheng xiao	1486
+是否已同步	shi fou yi tong bu	1485
+是否有效	shi fou you xiao	1484
+是否有赠送	shi fou you zeng song	1483
+是否允许前台冲单	shi fou yun xu qian tai chong dan	1482
+是否赠品	shi fou zeng pin	1481
+是否找钱	shi fou zhao qian	1480
+是否整体优惠	shi fou zheng ti you hui	1479
+是否支持冲账	shi fou zhi chi chong zhang	1478
+是否置单据结清状态	shi fou zhi dan ju jie qing zhuang tai	1477
+是否终止	shi fou zhong zhi	1476
+实付标志	shi fu biao zhi	1601
+实际补差金额	shi ji bu cha jin e	1600
+实际调拨数量	shi ji diao bo shu liang	1599
+实际发货总额	shi ji fa huo zong e	1598
+实际发货总数	shi ji fa huo zong shu	1597
+实际分货数量	shi ji fen huo shu liang	1596
+实际结束日期	shi ji jie shu ri qi	1595
+实际截止日	shi ji jie zhi ri	1594
+实际金额	shi ji jin e	1593
+实际进货价	shi ji jin huo jia	1592
+实际进价	shi ji jin jia	1591
+实际开始日期	shi ji kai shi ri qi	1590
+实际库存价差额	shi ji ku cun jia cha e	1589
+实际零售价	shi ji ling shou jia	1588
+实际配货价	shi ji pei huo jia	1587
+实际收发货时间	shi ji shou fa huo shi jian	1586
+实际数量	shi ji shu liang	1585
+实际税额	shi ji shui e	1584
+实际退货价	shi ji tui huo jia	1583
+实际退货金额	shi ji tui huo jin e	1582
+实际退货数	shi ji tui huo shu	1581
+实际销售额	shi ji xiao shou e	1580
+实际销售金额	shi ji xiao shou jin e	1579
+实际销售数	shi ji xiao shou shu	1578
+实际折扣率	shi ji zhe kou lv	1577
+事件	shi jian	1534
+时间	shi jian	1606
+事件类型	shi jian lei xing	1533
+时间类型	shi jian lei xing	1605
+事件内容	shi jian nei rong	1532
+时间内容	shi jian nei rong	1604
+实拣数量	shi jian shu liang	1576
+实拣箱数	shi jian xiang shu	1575
+实缴金额	shi jiao jin e	1573
+实交扣额	shi jiao kou e	1574
+实缴款	shi jiao kuan	1572
+时捷配货线路	shi jie pei huo xian lu	1603
+时捷配货周期	shi jie pei huo zhou qi	1602
+实盘数	shi pan shu	1571
+实盘数量	shi pan shu liang	1570
+实配数量	shi pei shu liang	1569
+实时代收	shi shi dai shou	1568
+实时代收冲正	shi shi dai shou chong zheng	1567
+实时代收冲正回应	shi shi dai shou chong zheng hui ying	1566
+实时代收回应	shi shi dai shou hui ying	1565
+实时代收日志	shi shi dai shou ri zhi	1564
+实时代收序号	shi shi dai shou xu hao	1563
+实时划扣标志	shi shi hua kou biao zhi	1562
+实收金额	shi shou jin e	1561
+实收清单汇总	shi shou qing dan hui zong	1560
+实收清单明细	shi shou qing dan ming xi	1559
+实收总额	shi shou zong e	1558
+实体代码	shi ti dai ma	1557
+实体对象	shi ti dui xiang	1556
+实体名称	shi ti ming cheng	1555
+实退金额	shi tui jin e	1554
+事务编号	shi wu bian hao	1531
+实物收回数量	shi wu shou hui shu liang	1553
+实物退货数	shi wu tui huo shu	1552
+失效日期	shi xiao ri qi	1607
+事业部经理	shi ye bu jing li	1530
+使用标志	shi yong biao zhi	1551
+使用的积分抵销的金额	shi yong de ji fen di xiao de jin e	1550
+使用方式	shi yong fang shi	1549
+适用模型	shi yong mo xing	1475
+使用系统	shi yong xi tong	1548
+收藏夹	shou cang jia	1472
+收藏夹明细	shou cang jia ming xi	1471
+首次上架	shou ci shang jia	1390
+收发	shou fa	1470
+收发标志	shou fa biao zhi	1469
+收发处理人	shou fa chu li ren	1468
+收发货单据汇总表	shou fa huo dan ju hui zong biao	1467
+收发货日期	shou fa huo ri qi	1466
+收发类型	shou fa lei xing	1465
+收发状态	shou fa zhuang tai	1464
+收费机构代码	shou fei ji gou dai ma	1463
+收费类型	shou fei lei xing	1462
+收付方向	shou fu fang xiang	1461
+收付款人	shou fu kuan ren	1473
+收付类型	shou fu lei xing	1460
+手工单据号	shou gong dan ju hao	1395
+手工销售单号	shou gong xiao shou dan hao	1394
+收回次数	shou hui ci shu	1459
+收回数量	shou hui shu liang	1458
+收货仓位	shou huo cang wei	1457
+收货仓位代码	shou huo cang wei dai ma	1456
+收货单号	shou huo dan hao	1455
+收货单位	shou huo dan wei	1454
+收货单位名称	shou huo dan wei ming cheng	1453
+收货地址	shou huo di zhi	1452
+收货方	shou huo fang	1451
+收货方地址	shou huo fang di zhi	1450
+收货方电话	shou huo fang dian hua	1449
+收货方联系电话	shou huo fang lian xi dian hua	1448
+收货方联系人	shou huo fang lian xi ren	1447
+收货方区域	shou huo fang qu yu	1446
+收货方式	shou huo fang shi	1445
+收货规格	shou huo gui ge	1444
+收货货位代码	shou huo huo wei dai ma	1443
+收货靠近地点	shou huo kao jin di dian	1442
+收货门店	shou huo men dian	1441
+收货人	shou huo ren	1440
+收货人地址	shou huo ren di zhi	1439
+收货人电话	shou huo ren dian hua	1438
+收货人姓名	shou huo ren xing ming	1437
+收货人邮编	shou huo ren you bian	1436
+收货日期	shou huo ri qi	1435
+收货时核算进价	shou huo shi he suan jin jia	1434
+收货时核算售价	shou huo shi he suan shou jia	1433
+收货时间	shou huo shi jian	1432
+收货数量	shou huo shu liang	1431
+手机	shou ji	1393
+手机号码	shou ji hao ma	1392
+售价	shou jia	1387
+售价额	shou jia e	1382
+售价改价单按商品	shou jia gai jia dan an shang pin	1381
+售价改价单按商品明细	shou jia gai jia dan an shang pin ming xi	1380
+售价改价单按商品日志	shou jia gai jia dan an shang pin ri zhi	1379
+售价价格组	shou jia jia ge zu	1378
+售价价格组商品	shou jia jia ge zu shang pin	1377
+售价价格组商品价格变化明细	shou jia jia ge zu shang pin jia ge bian hua ming xi	1376
+售价金额	shou jia jin e	1375
+售价进价比	shou jia jin jia bi	1374
+售价调整单	shou jia tiao zheng dan	1386
+售价调整单报表明细	shou jia tiao zheng dan bao biao ming xi	1385
+售价调整单明细	shou jia tiao zheng dan ming xi	1384
+售价调整单生效明细	shou jia tiao zheng dan sheng xiao ming xi	1383
+售卡记录表	shou ka ji lu biao	1373
+售卡人	shou ka ren	1372
+收款方式	shou kuan fang shi	1430
+收款金额	shou kuan jin e	1429
+收款类型	shou kuan lei xing	1428
+收款人	shou kuan ren	1427
+收款人开户行行号	shou kuan ren kai hu hang hang hao	1426
+收款人开户银行	shou kuan ren kai hu yin hang	1425
+收款人名称	shou kuan ren ming cheng	1424
+收款人清算行行号	shou kuan ren qing suan xing xing hao	1423
+收款人账号	shou kuan ren zhang hao	1422
+收款日期	shou kuan ri qi	1421
+收款总额	shou kuan zong e	1420
+授权书号	shou quan shu hao	1371
+受限批发	shou xian pi fa	1389
+手续费	shou xu fei	1391
+收银机	shou yin ji	1419
+收银机参数设置	shou yin ji can shu she zhi	1418
+收银机打印模板	shou yin ji da yin mu ban	1417
+收银机号	shou yin ji hao	1416
+收银机号类型	shou yin ji hao lei xing	1415
+收银机键盘定义	shou yin ji jian pan ding yi	1414
+收银机商品日报缓冲表	shou yin ji shang pin ri bao huan chong biao	1413
+收银日期	shou yin ri qi	1412
+收银审核单	shou yin shen he dan	1411
+收银审核单结算方式接口	shou yin shen he dan jie suan fang shi jie kou	1410
+收银审核单科目接口	shou yin shen he dan ke mu jie kou	1409
+收银审核单明细	shou yin shen he dan ming xi	1408
+收银审核单明细明细	shou yin shen he dan ming xi ming xi	1407
+收银审核单其它业务往来接口	shou yin shen he dan qi ta ye wu wang lai jie kou	1406
+收银时间	shou yin shi jian	1405
+收银条明细记录号	shou yin tiao ming xi ji lu hao	1404
+收银员	shou yin yuan	1403
+收银员缴款单	shou yin yuan jiao kuan dan	1402
+收银员缴款单缓冲表	shou yin yuan jiao kuan dan huan chong biao	1401
+收银员缴款单缴款明细	shou yin yuan jiao kuan dan jiao kuan ming xi	1400
+收银员缴款单明细	shou yin yuan jiao kuan dan ming xi	1399
+收银员缴款单明细缓冲表	shou yin yuan jiao kuan dan ming xi huan chong biao	1398
+收银员日报	shou yin yuan ri bao	1397
+收银员日报缓冲表	shou yin yuan ri bao huan chong biao	1396
+受影响在单量	shou ying xiang zai dan liang	1388
+数据保留时间月	shu ju bao liu shi jian yue	1367
+数据表	shu ju biao	1366
+数据表编号	shu ju biao bian hao	1365
+数据表字段	shu ju biao zi duan	1364
+数据发送项目	shu ju fa song xiang mu	4595
+数据加工标记	shu ju jia gong biao ji	1363
+数据交换数据类型定义	shu ju jiao huan shu ju lei xing ding yi	1362
+数据库服务器	shu ju ku fu wu qi	1361
+数据库口令	shu ju ku kou ling	1360
+数据库类型	shu ju ku lei xing	1359
+数据库链接名	shu ju ku lian jie ming	1358
+数据库名	shu ju ku ming	1357
+数据库用户	shu ju ku yong hu	1356
+数据库用户口令	shu ju ku yong hu kou ling	1355
+数据库用户名	shu ju ku yong hu ming	1354
+数据来源	shu ju lai yuan	1353
+数据来源编号	shu ju lai yuan bian hao	1352
+数据来源说明	shu ju lai yuan shuo ming	1351
+数据类型	shu ju lei xing	1350
+数据清除定义表	shu ju qing chu ding yi biao	1349
+数据上下文	shu ju shang xia wen	1348
+数据字典修改日期	shu ju zi dian xiu gai ri qi	1347
+数量	shu liang	4463
+数量上限	shu liang shang xian	1346
+数量位数	shu liang wei shu	1345
+数量下限	shu liang xia xian	1344
+输入码	shu ru ma	1370
+输入码类型	shu ru ma lei xing	1369
+输入商品	shu ru shang pin	1368
+属性	shu xing	153
+属性编号	shu xing bian hao	152
+属性代码	shu xing dai ma	151
+属性名	shu xing ming	150
+属性名称	shu xing ming cheng	149
+属性值	shu xing zhi	148
+属性中文名	shu xing zhong wen ming	147
+刷卡次数	shua ka ci shu	1343
+水电费	shui dian fei	1342
+税额	shui e	1340
+税号	shui hao	1339
+水晶报表	shui jing bao biao	1341
+税率	shui lv	1338
+税率限制	shui lv xian zhi	1337
+税务登记号	shui wu deng ji hao	1336
+说明	shuo ming	1335
+司机	si ji	1334
+送货单	song huo dan	1333
+送货单号	song huo dan hao	1332
+送货单明细	song huo dan ming xi	1331
+送货地点	song huo di dian	1330
+送货地址	song huo di zhi	1329
+送货方式	song huo fang shi	1328
+送货截止时间	song huo jie zhi shi jian	1327
+送货联系人	song huo lian xi ren	1326
+送货门店	song huo men dian	1325
+送货起始时间	song huo qi shi shi jian	1324
+送货区域	song huo qu yu	1323
+送货区域明细	song huo qu yu ming xi	1322
+送货确认人	song huo que ren ren	1321
+送货确认时间	song huo que ren shi jian	1320
+送货人	song huo ren	1319
+送货日期	song huo ri qi	1318
+送货天数	song huo tian shu	1317
+搜索范围	sou suo fan wei	1316
+宿舍租金	su she zu jin	1314
+速算基数	su suan ji shu	1315
+算法类型	suan fa lei xing	1313
+算法描述	suan fa miao shu	1312
+算法实体	suan fa shi ti	1311
+算法实体参数	suan fa shi ti can shu	1310
+算法实体代码	suan fa shi ti dai ma	1309
+算法原型参数	suan fa yuan xing can shu	1308
+算法原型参数可选值定义	suan fa yuan xing can shu ke xuan zhi ding yi	1307
+算法原型代码	suan fa yuan xing dai ma	1306
+算法原型定义	suan fa yuan xing ding yi	1305
+算法中文描述	suan fa zhong wen miao shu	1304
+随意赠送	sui yi zeng song	1303
+损耗成本	sun hao cheng ben	1302
+损耗单	sun hao dan	1301
+损耗单明细	sun hao dan ming xi	1300
+损耗单批次明细	sun hao dan pi ci ming xi	1299
+损耗金额	sun hao jin e	1298
+损耗数	sun hao shu	1297
+损耗数量	sun hao shu liang	1296
+损溢核售额	sun yi he shou e	1295
+损溢核算额	sun yi he suan e	1294
+损溢去税核算额	sun yi qu shui he suan e	1293
+损溢数	sun yi shu	1292
+损溢数量	sun yi shu liang	1291
+锁定	suo ding	1280
+锁定标志	suo ding biao zhi	1279
+锁定单号	suo ding dan hao	1278
+锁定单据类型	suo ding dan ju lei xing	1277
+所属表	suo shu biao	1287
+所属仓位	suo shu cang wei	1286
+所属地	suo shu di	1285
+所属品类	suo shu pin lei	1284
+所属页面	suo shu ye mian	1283
+所属帐套	suo shu zhang tao	1282
+所属总部	suo shu zong bu	1281
+所有金额	suo you jin e	1290
+所有者类型	suo you zhe lei xing	1289
+所占比重	suo zhan bi zhong	1288
+淘汰日期	tao tai ri qi	1276
+淘汰原因	tao tai yuan yin	1275
+特别折扣	te bie zhe kou	1274
+特价优惠	te jia you hui	1273
+特价折扣	te jia zhe kou	1272
+特殊付款方式金额	te shu fu kuan fang shi jin e	1271
+特殊权限	te shu quan xian	1270
+特殊权限号	te shu quan xian hao	1269
+特征码	te zheng ma	1268
+特征码类型	te zheng ma lei xing	1267
+提成方式	ti cheng fang shi	1266
+提成金额	ti cheng jin e	1265
+提成率	ti cheng lv	1264
+提货仓位	ti huo cang wei	1263
+提货仓位代码	ti huo cang wei dai ma	1262
+提货单	ti huo dan	1261
+提货单行号	ti huo dan hang hao	1256
+提货单号	ti huo dan hao	1260
+提货单金额	ti huo dan jin e	1259
+提货单明细	ti huo dan ming xi	1258
+提货单位	ti huo dan wei	1257
+提货登记单	ti huo deng ji dan	1255
+提货登记单号	ti huo deng ji dan hao	1254
+提货登记单明细	ti huo deng ji dan ming xi	1253
+提货方式	ti huo fang shi	1251
+提货货位代码	ti huo huo wei dai ma	1250
+提货价	ti huo jia	1249
+提货金额	ti huo jin e	1248
+提货类型	ti huo lei xing	1247
+提货商品组	ti huo shang pin zu	1246
+提货商品组商品单品固定组合	ti huo shang pin zu shang pin dan pin gu ding zu he	1245
+提货商品组组明细商品总数	ti huo shang pin zu zu ming xi shang pin zong shu	1244
+提货商品组组明细商品组固定	ti huo shang pin zu zu ming xi shang pin zu gu ding	1243
+提货数量	ti huo shu liang	1242
+提货调整单商品组当前值	ti huo tiao zheng dan shang pin zu dang qian zhi	1252
+体积	ti ji	1231
+提交人	ti jiao ren	1241
+提交日期	ti jiao ri qi	1240
+提交时间	ti jiao shi jian	1239
+提款金额	ti kuan jin e	1238
+提款人	ti kuan ren	1237
+提款日期	ti kuan ri qi	1236
+提醒发出者标识	ti xing fa chu zhe biao zhi	1235
+提醒发出者类名	ti xing fa chu zhe lei ming	1234
+提醒上下文	ti xing shang xia wen	1233
+提醒信息	ti xing xin xi	1232
+填单人	tian dan ren	1229
+填单日期	tian dan ri qi	1228
+填单时间	tian dan shi jian	1227
+添加时间	tian jia shi jian	1230
+填写人	tian xie ren	1226
+填写日期	tian xie ri qi	1225
+调拨价	tiao bo jia	3857
+调价差额	tiao jia cha e	3828
+调价单	tiao jia dan	3827
+调价单单号	tiao jia dan dan hao	3826
+调价单类型	tiao jia dan lei xing	3825
+调价单明细	tiao jia dan ming xi	3824
+调价单日志	tiao jia dan ri zhi	3823
+调价单生效单位明细	tiao jia dan sheng xiao dan wei ming xi	3822
+调价单生效明细历史	tiao jia dan sheng xiao ming xi li shi	3821
+调价单填单日期	tiao jia dan tian dan ri qi	3820
+调价方案	tiao jia fang an	3819
+调价方案历史明细	tiao jia fang an li shi ming xi	3816
+调价方案明细	tiao jia fang an ming xi	3815
+调价方案调整单	tiao jia fang an tiao zheng dan	3818
+调价方案调整单明细	tiao jia fang an tiao zheng dan ming xi	3817
+调价方式	tiao jia fang shi	3814
+调价后价格	tiao jia hou jia ge	3813
+调价明细来源单位	tiao jia ming xi lai yuan dan wei	3812
+调价前价格	tiao jia qian jia ge	3811
+调价日期	tiao jia ri qi	3810
+调价数量	tiao jia shu liang	3809
+调价原因	tiao jia yuan yin	3808
+条件标志	tiao jian biao zhi	1224
+条件说明	tiao jian shuo ming	1223
+条件字符串	tiao jian zi fu chuan	1222
+条码	tiao ma	1221
+条码类型	tiao ma lei xing	1220
+调试日期	tiao shi ri qi	3786
+条形码	tiao xing ma	1219
+调整标志	tiao zheng biao zhi	3774
+调整单单号	tiao zheng dan dan hao	3773
+调整单行号	tiao zheng dan hang hao	3770
+调整单号	tiao zheng dan hao	3772
+调整单类型	tiao zheng dan lei xing	3771
+调整范围	tiao zheng fan wei	3769
+调整方式	tiao zheng fang shi	3768
+调整后供应商服务费价格	tiao zheng hou gong ying shang fu wu fei jia ge	3767
+调整后门店服务费价格	tiao zheng hou men dian fu wu fei jia ge	3766
+调整后物流服务费价格	tiao zheng hou wu liu fu wu fei jia ge	3765
+调整金额	tiao zheng jin e	3764
+调整前成本	tiao zheng qian cheng ben	3763
+调整前出货成本	tiao zheng qian chu huo cheng ben	3762
+调整前出货额	tiao zheng qian chu huo e	3761
+调整前供应商服务费价格	tiao zheng qian gong ying shang fu wu fei jia ge	3760
+调整前进货成本	tiao zheng qian jin huo cheng ben	3759
+调整前库存成本	tiao zheng qian ku cun cheng ben	3758
+调整前门店服务费价格	tiao zheng qian men dian fu wu fei jia ge	3757
+调整前配货额	tiao zheng qian pei huo e	3756
+调整前物流服务费价格	tiao zheng qian wu liu fu wu fei jia ge	3755
+调整商品上下限指令商品明细	tiao zheng shang pin shang xia xian zhi ling shang pin ming xi	3754
+调整数	tiao zheng shu	3753
+调整数量	tiao zheng shu liang	3752
+调整税额	tiao zheng shui e	3751
+调整原因	tiao zheng yuan yin	3750
+调整主题	tiao zheng zhu ti	3749
+调整总额	tiao zheng zong e	3748
+统计基数	tong ji ji shu	1216
+统计截止日期	tong ji jie zhi ri qi	1215
+统计截止时间	tong ji jie zhi shi jian	1214
+统计门店	tong ji men dian	1213
+统计起始日期	tong ji qi shi ri qi	1212
+统计起始时间	tong ji qi shi shi jian	1211
+统计日期	tong ji ri qi	1210
+统一结算	tong yi jie suan	1209
+统一商品	tong yi shang pin	1208
+统一资料库更新时间	tong yi zi liao ku geng xin shi jian	1207
+统一资料库类别	tong yi zi liao ku lei bie	1206
+统一资料库品牌	tong yi zi liao ku pin pai	1205
+统一资料库商品	tong yi zi liao ku shang pin	1204
+统一资料库商品包装规格	tong yi zi liao ku shang pin bao zhuang gui ge	1203
+统一资料库商品重定向	tong yi zi liao ku shang pin chong ding xiang	1196
+统一资料库商品类别	tong yi zi liao ku shang pin lei bie	1202
+统一资料库商品品牌	tong yi zi liao ku shang pin pin pai	1201
+统一资料库商品输入码	tong yi zi liao ku shang pin shu ru ma	1200
+统一资料库商品特征码定义	tong yi zi liao ku shang pin te zheng ma ding yi	1199
+统一资料库商品图片集合	tong yi zi liao ku shang pin tu pian ji he	1198
+统一资料库商品修改信息	tong yi zi liao ku shang pin xiu gai xin xi	1197
+统一资料库商品自定义属性	tong yi zi liao ku shang pin zi ding yi shu xing	1195
+统一资料库下载资料	tong yi zi liao ku xia zai zi liao	1194
+统一资料库下载资料明细	tong yi zi liao ku xia zai zi liao ming xi	1193
+统一资料库下载资料映射	tong yi zi liao ku xia zai zi liao ying she	1192
+统一资料库修改模式更新字段	tong yi zi liao ku xiu gai mo shi geng xin zi duan	1191
+统一资料库修改人	tong yi zi liao ku xiu gai ren	1190
+统一资料库自定义属性映射	tong yi zi liao ku zi ding yi shu xing ying she	1189
+通知单来源号	tong zhi dan lai yuan hao	1218
+通知调拨数量	tong zhi diao bo shu liang	1217
+透支限额	tou zhi xian e	1188
+图标索引	tu biao suo yin	1187
+图标文件名	tu biao wen jian ming	1186
+图标文件最后修改时间	tu biao wen jian zui hou xiu gai shi jian	1185
+图片标识	tu pian biao zhi	1184
+图片顺序	tu pian shun xu	1183
+图片文件备注	tu pian wen jian bei zhu	1182
+图片文件描述	tu pian wen jian miao shu	1181
+图片文件名	tu pian wen jian ming	1180
+图片文件最后修改时间	tu pian wen jian zui hou xiu gai shi jian	1179
+土特产可选值列表	tu te chan ke xuan zhi lie biao	1177
+土特产商品	tu te chan shang pin	1176
+图形数量	tu xing shu liang	1178
+团队消费单	tuan dui xiao fei dan	1175
+团队消费单车辆信息	tuan dui xiao fei dan che liang xin xi	1174
+团队消费单明细	tuan dui xiao fei dan ming xi	1173
+团队消费单日志	tuan dui xiao fei dan ri zhi	1172
+团队消费商品提成明细	tuan dui xiao fei shang pin ti cheng ming xi	1171
+团购标志	tuan gou biao zhi	1170
+团购结束时间	tuan gou jie shu shi jian	1169
+退仓作用	tui cang zuo yong	1162
+退出时间	tui chu shi jian	1161
+退货备注	tui huo bei zhu	1160
+退货笔数	tui huo bi shu	1159
+退货仓说明	tui huo cang shuo ming	1158
+退货仓位	tui huo cang wei	1157
+退货超期金额	tui huo chao qi jin e	1156
+退货单单号	tui huo dan dan hao	1155
+退货单号	tui huo dan hao	1154
+退货单价	tui huo dan jia	1153
+退货额	tui huo e	1152
+退货行号	tui huo hang hao	1129
+退货价	tui huo jia	1151
+退货价格	tui huo jia ge	1150
+退货金额	tui huo jin e	1149
+退货开始天数	tui huo kai shi tian shu	1148
+退货开始月份	tui huo kai shi yue fen	1147
+退货类型	tui huo lei xing	1146
+退货品数	tui huo pin shu	1145
+退货品种数	tui huo pin zhong shu	1144
+退货启动金额	tui huo qi dong jin e	1142
+退货期限	tui huo qi xian	1143
+退货日期	tui huo ri qi	1141
+退货申请单拆分来源表	tui huo shen qing dan chai fen lai yuan biao	1140
+退货申请单号	tui huo shen qing dan hao	1139
+退货收货数	tui huo shou huo shu	1138
+退货数	tui huo shu	1137
+退货数量	tui huo shu liang	1136
+退货通知单	tui huo tong zhi dan	1135
+退货通知单明细	tui huo tong zhi dan ming xi	1134
+退货通知单日志	tui huo tong zhi dan ri zhi	1133
+退货通知生效单位	tui huo tong zhi sheng xiao dan wei	1132
+退货物流	tui huo wu liu	1131
+退货信息	tui huo xin xi	1130
+退货原因	tui huo yuan yin	1128
+退货指令	tui huo zhi ling	1127
+退货周期	tui huo zhou qi	1126
+退货总额	tui huo zong e	1125
+退货总金额	tui huo zong jin e	1124
+退货总数	tui huo zong shu	1123
+退货总税额	tui huo zong shui e	1122
+推荐报货单	tui jian bao huo dan	1168
+推荐报货单媒体文件	tui jian bao huo dan mei ti wen jian	1167
+推荐报货单明细	tui jian bao huo dan ming xi	1166
+推荐报货单日志	tui jian bao huo dan ri zhi	1165
+推荐报货单生效门店明细	tui jian bao huo dan sheng xiao men dian ming xi	1164
+推荐期号	tui jian qi hao	1163
+退款标志	tui kuan biao zhi	1121
+退款方式	tui kuan fang shi	1120
+退款金额	tui kuan jin e	1119
+托收手续费	tuo shou shou xu fei	1118
+外部活动码	wai bu huo dong ma	4457
+外部设备标志	wai bu she bei biao zhi	1117
+完成度	wan cheng du	1116
+完成人	wan cheng ren	1115
+完成日期	wan cheng ri qi	1114
+完成时间	wan cheng shi jian	1113
+完结过期时间	wan jie guo qi shi jian	1112
+网点开发员联系方式	wang dian kai fa yuan lian xi fang shi	1111
+网点开发员所属部门	wang dian kai fa yuan suo shu bu men	1110
+网点开发员姓名	wang dian kai fa yuan xing ming	1109
+网购单号	wang gou dan hao	1108
+网购服务费	wang gou fu wu fei	1107
+网路红蓝卡限制单	wang lu hong lan ka xian zhi dan	1106
+网络包装规格	wang luo bao zhuang gui ge	1104
+网络备注	wang luo bei zhu	1103
+网络编号	wang luo bian hao	1102
+网络表单号	wang luo biao dan hao	1101
+网络部门	wang luo bu men	1099
+网络不自动补货原因	wang luo bu zi dong bu huo yuan yin	1100
+网络采购员配货单按门店	wang luo cai gou yuan pei huo dan an men dian	1098
+网络采购员配货单按门店明细	wang luo cai gou yuan pei huo dan an men dian ming xi	1097
+网络成本调整通知单	wang luo cheng ben tiao zheng tong zhi dan	1096
+网络成本调整通知单反馈明细	wang luo cheng ben tiao zheng tong zhi dan fan kui ming xi	1095
+网络成本调整通知单明细	wang luo cheng ben tiao zheng tong zhi dan ming xi	1094
+网络出货单	wang luo chu huo dan	1093
+网络出货单明细	wang luo chu huo dan ming xi	1092
+网络出货退货单	wang luo chu huo tui huo dan	1091
+网络出货退货单明细	wang luo chu huo tui huo dan ming xi	1090
+网络促销补差单	wang luo cu xiao bu cha dan	1089
+网络促销补差单明细	wang luo cu xiao bu cha dan ming xi	1088
+网络促销补差协议	wang luo cu xiao bu cha xie yi	1087
+网络促销补差协议明细	wang luo cu xiao bu cha xie yi ming xi	1086
+网络促销补差应结表	wang luo cu xiao bu cha ying jie biao	1085
+网络促销单	wang luo cu xiao dan	1084
+网络促销单可选赠品明细	wang luo cu xiao dan ke xuan zeng pin ming xi	1083
+网络促销单明细	wang luo cu xiao dan ming xi	1082
+网络促销单明细明细	wang luo cu xiao dan ming xi ming xi	1081
+网络促销单商品	wang luo cu xiao dan shang pin	1080
+网络促销申请单	wang luo cu xiao shen qing dan	1079
+网络促销申请单明细	wang luo cu xiao shen qing dan ming xi	1078
+网络促销申请单明细明细	wang luo cu xiao shen qing dan ming xi ming xi	1077
+网络促销申请单生效单位明细	wang luo cu xiao shen qing dan sheng xiao dan wei ming xi	1076
+网络促销赠品表	wang luo cu xiao zeng pin biao	1075
+网络促销主题	wang luo cu xiao zhu ti	1074
+网络促销总额条件表	wang luo cu xiao zong e tiao jian biao	1073
+网络促销总数条件表	wang luo cu xiao zong shu tiao jian biao	1072
+网络大小包装转换单	wang luo da xiao bao zhuang zhuan huan dan	1071
+网络大小包装转换单明细	wang luo da xiao bao zhuang zhuan huan dan ming xi	1070
+网络大总部调价单	wang luo da zong bu tiao jia dan	1069
+网络大总部调价单明细	wang luo da zong bu tiao jia dan ming xi	1068
+网络单据附件表	wang luo dan ju fu jian biao	1067
+网络单据类型	wang luo dan ju lei xing	1066
+网络单据状态	wang luo dan ju zhuang tai	1065
+网络店表	wang luo dian biao	1064
+网络调研对象	wang luo diao yan dui xiang	1059
+网络调研对象属性	wang luo diao yan dui xiang shu xing	1058
+网络调研类型	wang luo diao yan lei xing	1057
+网络调研类型属性	wang luo diao yan lei xing shu xing	1056
+网络定单	wang luo ding dan	1055
+网络定单明细	wang luo ding dan ming xi	1054
+网络定制单	wang luo ding zhi dan	1053
+网络定制单明细	wang luo ding zhi dan ming xi	1052
+网络付款单	wang luo fu kuan dan	1051
+网络付款单明细	wang luo fu kuan dan ming xi	1050
+网络供应商	wang luo gong ying shang	1049
+网络供应商结算单	wang luo gong ying shang jie suan dan	1048
+网络供应商商品	wang luo gong ying shang shang pin	1047
+网络供应商退货申请单汇总	wang luo gong ying shang tui huo shen qing dan hui zong	1046
+网络供应商退货申请单明细	wang luo gong ying shang tui huo shen qing dan ming xi	1045
+网络黑名单	wang luo hei ming dan	1044
+网络红蓝卡限制单明细	wang luo hong lan ka xian zhi dan ming xi	1043
+网络红蓝卡限制单日志	wang luo hong lan ka xian zhi dan ri zhi	1042
+网络货位库存月报表	wang luo huo wei ku cun yue bao biao	1041
+网络积分方案明细	wang luo ji fen fang an ming xi	1040
+网络加工入库产品明细	wang luo jia gong ru ku chan pin ming xi	1039
+网络加工入库单	wang luo jia gong ru ku dan	1038
+网络加工入库原料明细	wang luo jia gong ru ku yuan liao ming xi	1037
+网络交换表	wang luo jiao huan biao	1036
+网络进货单	wang luo jin huo dan	1035
+网络进货单明细	wang luo jin huo dan ming xi	1034
+网络进货调整单	wang luo jin huo tiao zheng dan	1033
+网络进货调整单明细	wang luo jin huo tiao zheng dan ming xi	1032
+网络进货退货单	wang luo jin huo tui huo dan	1031
+网络进货退货单明细	wang luo jin huo tui huo dan ming xi	1030
+网络进价促销单	wang luo jin jia cu xiao dan	1029
+网络进价促销单明细	wang luo jin jia cu xiao dan ming xi	1028
+网络进价调整单	wang luo jin jia tiao zheng dan	1027
+网络进价调整单单据调整明细	wang luo jin jia tiao zheng dan dan ju tiao zheng ming xi	1026
+网络进价调整单当时库存明细	wang luo jin jia tiao zheng dan dang shi ku cun ming xi	1024
+网络进价调整单批次明细	wang luo jin jia tiao zheng dan pi ci ming xi	1025
+网络卡记录	wang luo ka ji lu	1105
+网络客户	wang luo ke hu	1023
+网络客户类型	wang luo ke hu lei xing	1022
+网络库存转移关系	wang luo ku cun zhuan yi guan xi	1021
+网络来源单号	wang luo lai yuan dan hao	1020
+网络来源单位	wang luo lai yuan dan wei	1019
+网络类型	wang luo lei xing	1018
+网络联销率促销单	wang luo lian xiao lv cu xiao dan	1017
+网络联销率促销单明细	wang luo lian xiao lv cu xiao dan ming xi	1016
+网络令牌表	wang luo ling pai biao	1011
+网络令牌关系	wang luo ling pai guan xi	1010
+网络零售单	wang luo ling shou dan	1015
+网络零售单付款明细	wang luo ling shou dan fu kuan ming xi	1014
+网络零售单商品明细	wang luo ling shou dan shang pin ming xi	1013
+网络零售单商品优惠明细	wang luo ling shou dan shang pin you hui ming xi	1012
+网络门店调拨单	wang luo men dian diao bo dan	1009
+网络门店调拨单明细	wang luo men dian diao bo dan ming xi	1008
+网络门店叫货申请单	wang luo men dian jiao huo shen qing dan	1007
+网络门店叫货申请单明细	wang luo men dian jiao huo shen qing dan ming xi	1006
+网络门店零售单	wang luo men dian ling shou dan	1005
+网络门店零售单付款明细	wang luo men dian ling shou dan fu kuan ming xi	1004
+网络门店零售单商品明细	wang luo men dian ling shou dan shang pin ming xi	1003
+网络门店零售退货单退款明细	wang luo men dian ling shou tui huo dan tui kuan ming xi	1002
+网络门店品牌类别	wang luo men dian pin pai lei bie	1001
+网络门店与调价方案对照表	wang luo men dian yu tiao jia fang an dui zhao biao	1000
+网络配方	wang luo pei fang	999
+网络配方明细	wang luo pei fang ming xi	998
+网络配货差异单	wang luo pei huo cha yi dan	997
+网络配货差异单明细	wang luo pei huo cha yi dan ming xi	996
+网络配货退货申请单	wang luo pei huo tui huo shen qing dan	995
+网络批发价促销单	wang luo pi fa jia cu xiao dan	994
+网络批发价促销单明细	wang luo pi fa jia cu xiao dan ming xi	993
+网络品牌	wang luo pin pai	992
+网络品牌类别	wang luo pin pai lei bie	991
+网络前台商品标记单	wang luo qian tai shang pin biao ji dan	990
+网络前台商品标记单明细	wang luo qian tai shang pin biao ji dan ming xi	989
+网络商品	wang luo shang pin	988
+网络商品包装规格	wang luo shang pin bao zhuang gui ge	987
+网络商品捆绑表	wang luo shang pin kun bang biao	986
+网络商品类别	wang luo shang pin lei bie	985
+网络商品缺省供应商调整单	wang luo shang pin que sheng gong ying shang tiao zheng dan	984
+网络商品缺省供应商调整单明细	wang luo shang pin que sheng gong ying shang tiao zheng dan ming xi	983
+网络商品输入码	wang luo shang pin shu ru ma	982
+网络商品销售提醒类型	wang luo shang pin xiao shou ti xing lei xing	981
+网络商品营销方式调整单	wang luo shang pin ying xiao fang shi tiao zheng dan	980
+网络商品营销方式调整单明细	wang luo shang pin ying xiao fang shi tiao zheng dan ming xi	979
+网络商品资料申请单	wang luo shang pin zi liao shen qing dan	978
+网络商品资料申请单明细	wang luo shang pin zi liao shen qing dan ming xi	977
+网络商品资料申请单商品输入码	wang luo shang pin zi liao shen qing dan shang pin shu ru ma	976
+网络商品资料申请单修改属性	wang luo shang pin zi liao shen qing dan xiu gai shu xing	975
+网络市场调研单	wang luo shi chang diao yan dan	972
+网络市场调研单明细	wang luo shi chang diao yan dan ming xi	971
+网络市场调研单明细明细	wang luo shi chang diao yan dan ming xi ming xi	970
+网络市场价格调查单	wang luo shi chang jia ge diao cha dan	969
+网络市场价格调查单明细	wang luo shi chang jia ge diao cha dan ming xi	968
+网络市场价格调查方案	wang luo shi chang jia ge diao cha fang an	967
+网络市场价格调查方案商品明细	wang luo shi chang jia ge diao cha fang an shang pin ming xi	966
+网络实收清单汇总	wang luo shi shou qing dan hui zong	974
+网络实收清单明细	wang luo shi shou qing dan ming xi	973
+网络售价调整单	wang luo shou jia tiao zheng dan	962
+网络售价调整单明细	wang luo shou jia tiao zheng dan ming xi	961
+网络收银审核单	wang luo shou yin shen he dan	965
+网络收银审核单明细	wang luo shou yin shen he dan ming xi	964
+网络收银审核单明细明细	wang luo shou yin shen he dan ming xi ming xi	963
+网络数据解包日志	wang luo shu ju jie bao ri zhi	960
+网络提货单	wang luo ti huo dan	959
+网络提货单明细	wang luo ti huo dan ming xi	958
+网络提货登记单	wang luo ti huo deng ji dan	957
+网络提货登记单明细	wang luo ti huo deng ji dan ming xi	956
+网络调价单	wang luo tiao jia dan	1063
+网络调价单明细	wang luo tiao jia dan ming xi	1062
+网络调价方案明细	wang luo tiao jia fang an ming xi	1060
+网络调价方案调整单明细	wang luo tiao jia fang an tiao zheng dan ming xi	1061
+网络退货申请单拆分来源表	wang luo tui huo shen qing dan chai fen lai yuan biao	953
+网络退货通知单	wang luo tui huo tong zhi dan	952
+网络退货通知单明细	wang luo tui huo tong zhi dan ming xi	951
+网络推荐报货单	wang luo tui jian bao huo dan	955
+网络推荐报货单明细	wang luo tui jian bao huo dan ming xi	954
+网络限量促销单	wang luo xian liang cu xiao dan	950
+网络限量促销单明细	wang luo xian liang cu xiao dan ming xi	949
+网络限制业务调整单	wang luo xian zhi ye wu tiao zheng dan	948
+网络限制业务调整单明细	wang luo xian zhi ye wu tiao zheng dan ming xi	947
+网络限制业务调整单生效明细	wang luo xian zhi ye wu tiao zheng dan sheng xiao ming xi	946
+网络消费卡	wang luo xiao fei ka	945
+网络消费卡类型	wang luo xiao fei ka lei xing	944
+网络销售补差日报	wang luo xiao shou bu cha ri bao	943
+网络销售单	wang luo xiao shou dan	942
+网络销售单明细	wang luo xiao shou dan ming xi	941
+网络销售定货单	wang luo xiao shou ding huo dan	940
+网络销售定货单明细	wang luo xiao shou ding huo dan ming xi	939
+网络销售组合促销单	wang luo xiao shou zu he cu xiao dan	938
+网络销售组合促销单商品	wang luo xiao shou zu he cu xiao dan shang pin	937
+网络应收清单汇总	wang luo ying shou qing dan hui zong	936
+网络应收清单明细	wang luo ying shou qing dan ming xi	935
+网络营销方式调整单明细	wang luo ying xiao fang shi tiao zheng dan ming xi	934
+网络员工	wang luo yuan gong	933
+网络赠品促销单	wang luo zeng pin cu xiao dan	932
+网络赠品促销单明细	wang luo zeng pin cu xiao dan ming xi	931
+网络赠品促销规则	wang luo zeng pin cu xiao gui ze	930
+网络赠品促销规则互斥	wang luo zeng pin cu xiao gui ze hu chi	929
+网络赠品促销规则商品明细	wang luo zeng pin cu xiao gui ze shang pin ming xi	928
+网络赠品促销规则约束	wang luo zeng pin cu xiao gui ze yue shu	927
+网络赠品促销规则约束参数明细	wang luo zeng pin cu xiao gui ze yue shu can shu ming xi	926
+网络赠品促销规则赠品组合	wang luo zeng pin cu xiao gui ze zeng pin zu he	925
+网络赠品促销规则赠品组合明细	wang luo zeng pin cu xiao gui ze zeng pin zu he ming xi	924
+网络赠品协议	wang luo zeng pin xie yi	923
+网络赠品协议明细	wang luo zeng pin xie yi ming xi	922
+网络直配单	wang luo zhi pei dan	921
+网络直配单明细	wang luo zhi pei dan ming xi	920
+网络状态	wang luo zhuang tai	919
+网络组合促销优惠折扣表	wang luo zu he cu xiao you hui zhe kou biao	918
+网站信息	wang zhan xin xi	917
+网址	wang zhi	916
+未处理的操作记录数	wei chu li de cao zuo ji lu shu	910
+未处理的零售笔数	wei chu li de ling shou bi shu	909
+维度	wei du	915
+维度名称	wei du ming cheng	914
+未付款金额	wei fu kuan jin e	908
+未结代联销商品	wei jie dai lian xiao shang pin	907
+未结金额	wei jie jin e	906
+未结进货额	wei jie jin huo e	905
+未结进货数	wei jie jin huo shu	904
+未结数量	wei jie shu liang	903
+未结算数量	wei jie suan shu liang	902
+未结算销售额	wei jie suan xiao shou e	901
+未结销售金额	wei jie xiao shou jin e	900
+未盘入商品汇总	wei pan ru shang pin hui zong	899
+未审核已审核	wei shen he yi shen he	4612
+卫生许可证号码	wei sheng xu ke zheng hao ma	911
+未收余额	wei shou yu e	898
+尾数	wei shu	913
+未提数	wei ti shu	897
+委托日期	wei tuo ri qi	912
+唯一标识	wei yi biao zhi	4450
+位置	wei zhi	896
+文件类型	wen jian lei xing	895
+文件路径	wen jian lu jing	894
+文件描述	wen jian miao shu	893
+文件名	wen jian ming	892
+问题类型	wen ti lei xing	891
+物料损耗费	wu liao sun hao fei	890
+物流	wu liu	889
+物流编号	wu liu bian hao	888
+物流编码	wu liu bian ma	887
+物流仓位关系	wu liu cang wei guan xi	886
+物流调拨通知单	wu liu diao bo tong zhi dan	885
+物流调拨通知单明细	wu liu diao bo tong zhi dan ming xi	884
+物流调拨通知单日志	wu liu diao bo tong zhi dan ri zhi	883
+物流服务费	wu liu fu wu fei	882
+物流服务费促销价格	wu liu fu wu fei cu xiao jia ge	881
+物流服务费价格	wu liu fu wu fei jia ge	880
+物流服务费原价格	wu liu fu wu fei yuan jia ge	879
+物流交换组织	wu liu jiao huan zu zhi	878
+物流配出单号	wu liu pei chu dan hao	877
+物流中心	wu liu zhong xin	876
+物业费	wu ye fei	875
+细类商品	xi lei shang pin	865
+系统版本号	xi tong ban ben hao	874
+系统标志	xi tong biao zhi	871
+系统标识	xi tong biao zhi	873
+系统标识符	xi tong biao zhi fu	872
+系统参数	xi tong can shu	870
+系统参数视图	xi tong can shu shi tu	869
+系统功能	xi tong gong neng	4606
+系统路径	xi tong lu jing	868
+系统内码	xi tong nei ma	867
+系统设备	xi tong she bei	866
+下次结算日	xia ci jie suan ri	864
+下次统计结束日期	xia ci tong ji jie shu ri qi	863
+下次统计开始日期	xia ci tong ji kai shi ri qi	862
+下单方式	xia dan fang shi	861
+下单日期	xia dan ri qi	860
+下限	xia xian	859
+下一取值	xia yi qu zhi	858
+下载流水号	xia zai liu shui hao	857
+下载时间	xia zai shi jian	856
+现金类是否固定面额	xian jin lei shi fou gu ding mian e	849
+现金类是否使用促销单规则	xian jin lei shi fou shi yong cu xiao dan gui ze	848
+限量促销单	xian liang cu xiao dan	847
+限量促销单生效单位明细	xian liang cu xiao dan sheng xiao dan wei ming xi	846
+限量促销价	xian liang cu xiao jia	845
+限量促销价历史表	xian liang cu xiao jia li shi biao	844
+限量销单明细	xian liang xiao dan ming xi	843
+显示表名	xian shi biao ming	855
+显示权限	xian shi quan xian	854
+显示顺序	xian shi shun xu	853
+显示文本	xian shi wen ben	852
+显示样式	xian shi yang shi	851
+显示字段名	xian shi zi duan ming	850
+限制价格字段	xian zhi jia ge zi duan	842
+限制结算	xian zhi jie suan	841
+限制类型	xian zhi lei xing	840
+限制退货	xian zhi tui huo	839
+限制退货数量	xian zhi tui huo shu liang	838
+限制业务	xian zhi ye wu	837
+限制业务方案	xian zhi ye wu fang an	833
+限制业务调整单	xian zhi ye wu tiao zheng dan	836
+限制业务调整单明细	xian zhi ye wu tiao zheng dan ming xi	835
+限制业务调整单生效单位明细	xian zhi ye wu tiao zheng dan sheng xiao dan wei ming xi	834
+限制业务组合类别维护	xian zhi ye wu zu he lei bie wei hu	832
+限制业务组合类别与商品	xian zhi ye wu zu he lei bie yu shang pin	831
+相册	xiang ce	830
+向公司借款数额	xiang gong si jie kuan shu e	824
+相关费用单单号	xiang guan fei yong dan dan hao	829
+箱号	xiang hao	828
+箱扣号	xiang kou hao	827
+项目编号	xiang mu bian hao	823
+项目代码	xiang mu dai ma	822
+项目号	xiang mu hao	821
+项目类型	xiang mu lei xing	820
+项目名	xiang mu ming	819
+项目名称	xiang mu ming cheng	818
+箱数	xiang shu	826
+响应情况	xiang ying qing kuang	825
+消费额	xiao fei e	817
+消费积分	xiao fei ji fen	816
+消费金额	xiao fei jin e	815
+消费卡	xiao fei ka	814
+消费卡成本	xiao fei ka cheng ben	813
+消费卡号	xiao fei ka hao	812
+消费卡类型	xiao fei ka lei xing	811
+消费门店	xiao fei men dian	810
+消费日期	xiao fei ri qi	809
+消费时间	xiao fei shi jian	808
+消费总额	xiao fei zong e	807
+小工具模板	xiao gong ju mu ban	761
+小工具模板参数	xiao gong ju mu ban can shu	760
+小工具模板项	xiao gong ju mu ban xiang	759
+销毁单位	xiao hui dan wei	804
+销毁人	xiao hui ren	803
+销毁时间	xiao hui shi jian	802
+小类商品	xiao lei shang pin	758
+小票广告语	xiao piao guang gao yu	757
+销售笔数	xiao shou bi shu	801
+销售标准	xiao shou biao zhun	800
+销售补差单	xiao shou bu cha dan	799
+销售补差单明细	xiao shou bu cha dan ming xi	798
+销售补差日报	xiao shou bu cha ri bao	797
+销售仓位	xiao shou cang wei	796
+销售单	xiao shou dan	795
+销售单行号	xiao shou dan hang hao	789
+销售单号	xiao shou dan hao	794
+销售单价	xiao shou dan jia	793
+销售单类型	xiao shou dan lei xing	792
+销售单明细	xiao shou dan ming xi	791
+销售单日志	xiao shou dan ri zhi	790
+销售定单池	xiao shou ding dan chi	788
+销售定单池明细	xiao shou ding dan chi ming xi	787
+销售定单打印控制日志	xiao shou ding dan da yin kong zhi ri zhi	786
+销售定单号	xiao shou ding dan hao	785
+销售定货单	xiao shou ding huo dan	784
+销售定货单交易明细	xiao shou ding huo dan jiao yi ming xi	783
+销售定货单明细	xiao shou ding huo dan ming xi	782
+销售额	xiao shou e	781
+销售分配调整额	xiao shou fen pei tiao zheng e	780
+销售分配调整数	xiao shou fen pei tiao zheng shu	779
+销售货位	xiao shou huo wei	778
+销售金额	xiao shou jin e	777
+销售进价额	xiao shou jin jia e	776
+销售类型	xiao shou lei xing	775
+销售品数	xiao shou pin shu	774
+销售时间	xiao shou shi jian	773
+销售数	xiao shou shu	772
+销售数量	xiao shou shu liang	771
+销售提成金额	xiao shou ti cheng jin e	770
+销售提醒类型	xiao shou ti xing lei xing	769
+销售提醒信息	xiao shou ti xing xin xi	768
+销售天数	xiao shou tian shu	767
+销售退货单	xiao shou tui huo dan	766
+销售退货单号	xiao shou tui huo dan hao	765
+销售退货单明细	xiao shou tui huo dan ming xi	764
+销售员	xiao shou yuan	763
+消息	xiao xi	806
+消息触发	xiao xi chu fa	805
+销项税率	xiao xiang shui lv	762
+卸货属性	xie huo shu xing	744
+协议补差进价	xie yi bu cha jin jia	752
+协议操作标识	xie yi cao zuo biao zhi	751
+协议行号	xie yi hang hao	745
+协议号	xie yi hao	749
+协议合同进价	xie yi he tong jin jia	748
+协议进价	xie yi jin jia	747
+协议调整文本	xie yi tiao zheng wen ben	750
+协议文本	xie yi wen ben	746
+新成本价	xin cheng ben jia	743
+新单价	xin dan jia	742
+新到效期	xin dao xiao qi	741
+新到效日期	xin dao xiao ri qi	740
+新店必选	xin dian bi xuan	739
+新店铺货数	xin dian pu huo shu	738
+新含税单价	xin han shui dan jia	737
+新含税金额	xin han shui jin e	736
+新行号	xin hang hao	710
+新核算价	xin he suan jia	735
+新核算售价	xin he suan shou jia	734
+新会员价	xin hui yuan jia	733
+新结算金额	xin jie suan jin e	732
+新金额	xin jin e	731
+新经营属性	xin jing ying shu xing	730
+新库存价	xin ku cun jia	729
+新门店品种	xin men dian pin zhong	728
+新配货额	xin pei huo e	727
+新配货方式	xin pei huo fang shi	726
+新配货价	xin pei huo jia	725
+新批发价	xin pi fa jia	724
+新品试销结束期	xin pin shi xiao jie shu qi	723
+新品试销期间参与结算	xin pin shi xiao qi jian can yu jie suan	722
+新品折扣	xin pin zhe kou	721
+新缺省供应商	xin que sheng gong ying shang	720
+信任额度	xin ren e du	702
+新售价	xin shou jia	719
+新数量	xin shu liang	718
+新税额	xin shui e	717
+新未结数量	xin wei jie shu liang	716
+新未结销售金额	xin wei jie xiao shou jin e	715
+新未算金额	xin wei suan jin e	714
+信息二	xin xi er	701
+信息一	xin xi yi	700
+新限制业务	xin xian zhi ye wu	713
+新限制业务来源单号	xin xian zhi ye wu lai yuan dan hao	712
+新箱数	xin xiang shu	711
+新营销方式	xin ying xiao fang shi	709
+信用额度	xin yong e du	699
+新余额	xin yu e	708
+新增注册短信数	xin zeng zhu ce duan xin shu	707
+新状态	xin zhuang tai	706
+新组	xin zu	705
+新最低售价	xin zui di shou jia	704
+新最高售价	xin zui gao shou jia	703
+性别	xing bie	694
+姓名	xing ming	695
+行为代码	xing wei dai ma	697
+修改模式	xiu gai mo shi	693
+修改批次	xiu gai pi ci	692
+修改人	xiu gai ren	691
+修改日期	xiu gai ri qi	690
+修改时间	xiu gai shi jian	689
+修正单号	xiu zheng dan hao	688
+修正的单号	xiu zheng de dan hao	687
+序号	xu hao	683
+许可证	xu ke zheng	684
+序列表	xu lie biao	682
+序列对象	xu lie dui xiang	681
+序列号	xu lie hao	680
+需要初始化	xu yao chu shi hua	686
+需要发票	xu yao fa piao	685
+选项	xuan xiang	679
+选项描述	xuan xiang miao shu	678
+选项名	xuan xiang ming	677
+选项值	xuan xiang zhi	676
+选项值表	xuan xiang zhi biao	675
+选项注册表	xuan xiang zhu ce biao	674
+寻呼机	xun hu ji	673
+押金	ya jin	667
+押金支付方	ya jin zhi fu fang	666
+压库金额	ya ku jin e	672
+压库金额当前值	ya ku jin e dang qian zhi	671
+压库金额收付款单	ya ku jin e shou fu kuan dan	670
+压库金额收付款单日志	ya ku jin e shou fu kuan dan ri zhi	669
+压库金额收付款单视图	ya ku jin e shou fu kuan dan shi tu	668
+烟草证	yan cao zheng	665
+延期扣款金额	yan qi kou kuan jin e	664
+延期扣率	yan qi kou lv	663
+延期天数	yan qi tian shu	662
+验证码	yan zheng ma	661
+验证优惠券码	yan zheng you hui quan ma	660
+要货单位	yao huo dan wei	658
+要货类型	yao huo lei xing	657
+要货商品属性	yao huo shang pin shu xing	656
+要货时间	yao huo shi jian	655
+药品经营证	yao pin jing ying zheng	659
+要求到货时间	yao qiu dao huo shi jian	654
+要求供应商到货日期	yao qiu gong ying shang dao huo ri qi	653
+要求金额	yao qiu jin e	652
+要求数量	yao qiu shu liang	651
+要求送货时间	yao qiu song huo shi jian	650
+业务处理方流水	ye wu chu li fang liu shui	649
+业务库存	ye wu ku cun	648
+业务类型	ye wu lei xing	647
+业务类型名称	ye wu lei xing ming cheng	646
+业务种类	ye wu zhong lei	645
+已补差额	yi bu cha e	637
+已补差数	yi bu cha shu	636
+移出仓位	yi chu cang wei	642
+已处理的操作记录数	yi chu li de cao zuo ji lu shu	635
+已处理的零售笔数	yi chu li de ling shou bi shu	634
+已处理的零售金额	yi chu li de ling shou jin e	633
+移出数量	yi chu shu liang	641
+移出位置	yi chu wei zhi	640
+已发送到信使客服端	yi fa song dao xin shi ke fu duan	632
+已分货状态	yi fen huo zhuang tai	631
+已付标志	yi fu biao zhi	630
+已付金额	yi fu jin e	629
+已付款额	yi fu kuan e	628
+已付款金额	yi fu kuan jin e	627
+一个商品仅有一个供应商	yi ge shang pin jin you yi ge gong ying shang	644
+已购买数量	yi gou mai shu liang	626
+已关联	yi guan lian	625
+已加工数量	yi jia gong shu liang	624
+已奖励的消费金额	yi jiang li de xiao fei jin e	623
+已交额	yi jiao e	622
+已交金额	yi jiao jin e	621
+已结标志	yi jie biao zhi	620
+已结额	yi jie e	619
+已结金额	yi jie jin e	618
+已结数	yi jie shu	617
+已结数量	yi jie shu liang	616
+已结算额	yi jie suan e	615
+已结算数	yi jie suan shu	614
+已结销售额	yi jie xiao shou e	613
+已经处理金额	yi jing chu li jin e	612
+已经金额	yi jing jin e	611
+已扣金额	yi kou jin e	610
+已领用数量	yi ling yong shu liang	609
+已配数	yi pei shu	608
+已配数量	yi pei shu liang	607
+一品多门店仓位视图	yi pin duo men dian cang wei shi tu	643
+已签收时间	yi qian shou shi jian	606
+移入仓位	yi ru cang wei	639
+移入数量	yi ru shu liang	638
+已生成数量	yi sheng cheng shu liang	605
+已生效	yi sheng xiao	604
+已收款	yi shou kuan	603
+已收款金额	yi shou kuan jin e	602
+已提货金额	yi ti huo jin e	601
+已提货数量	yi ti huo shu liang	600
+已退货金额	yi tui huo jin e	599
+已退货数量	yi tui huo shu liang	598
+已退数量	yi tui shu liang	597
+溢余成本	yi yu cheng ben	595
+溢余单	yi yu dan	594
+溢余单明细	yi yu dan ming xi	593
+溢余单批次明细	yi yu dan pi ci ming xi	592
+溢余金额	yi yu jin e	591
+溢余数	yi yu shu	590
+溢余数量	yi yu shu liang	589
+已注册短信数量	yi zhu ce duan xin shu liang	596
+银行代码	yin hang dai ma	588
+银行档案	yin hang dang an	587
+银行卡单卡折扣总额	yin hang ka dan ka zhe kou zong e	586
+银行卡号	yin hang ka hao	585
+银行卡折扣定义	yin hang ka zhe kou ding yi	584
+银行卡折扣卡信息	yin hang ka zhe kou ka xin xi	583
+银行卡折扣请求消费记录	yin hang ka zhe kou qing qiu xiao fei ji lu	582
+银行卡折扣刷卡次数定义	yin hang ka zhe kou shua ka ci shu ding yi	581
+银行卡折扣刷卡次数记录	yin hang ka zhe kou shua ka ci shu ji lu	580
+银行卡折扣消费记录	yin hang ka zhe kou xiao fei ji lu	579
+银行卡折扣总额	yin hang ka zhe kou zong e	578
+银行科目名称	yin hang ke mu ming cheng	577
+银行统一代码	yin hang tong yi dai ma	576
+银行统一帐号	yin hang tong yi zhang hao	575
+银行协议号	yin hang xie yi hao	574
+银行账号	yin hang zhang hao	573
+引入人员	yin ru ren yuan	572
+引入日期	yin ru ri qi	571
+应补差额	ying bu cha e	570
+应补差金额	ying bu cha jin e	569
+应补差数	ying bu cha shu	568
+应付金额	ying fu jin e	567
+应付款单号	ying fu kuan dan hao	566
+应付款单类型	ying fu kuan dan lei xing	565
+应付款余额	ying fu kuan yu e	564
+应交额	ying jiao e	562
+应缴金额	ying jiao jin e	561
+应交扣额	ying jiao kou e	563
+应缴款	ying jiao kuan	560
+应结额	ying jie e	557
+应结金额	ying jie jin e	556
+应结数	ying jie shu	555
+应结调整额	ying jie tiao zheng e	559
+应结调整数	ying jie tiao zheng shu	558
+盈亏核售额	ying kui he shou e	544
+盈亏核算额	ying kui he suan e	543
+盈亏去税核算额	ying kui qu shui he suan e	542
+盈亏数	ying kui shu	541
+盈利销售额	ying li xiao shou e	540
+应配数量	ying pei shu liang	554
+应收金额	ying shou jin e	553
+应收款金额	ying shou kuan jin e	552
+应收款数量	ying shou kuan shu liang	551
+应收清单汇总	ying shou qing dan hui zong	550
+应收清单明细	ying shou qing dan ming xi	549
+应退数量	ying tui shu liang	548
+英文简称	ying wen jian cheng	547
+英文名称	ying wen ming cheng	546
+英文说明	ying wen shuo ming	545
+影响单号	ying xiang dan hao	526
+营销方式	ying xiao fang shi	539
+营销方式类型	ying xiao fang shi lei xing	534
+营销方式调整单	ying xiao fang shi tiao zheng dan	538
+营销方式调整单明细	ying xiao fang shi tiao zheng dan ming xi	537
+营销方式调整单日志	ying xiao fang shi tiao zheng dan ri zhi	536
+营销方式调整单生效明细	ying xiao fang shi tiao zheng dan sheng xiao ming xi	535
+营销活动	ying xiao huo dong	533
+营业等级	ying ye deng ji	532
+营业时间小时	ying ye shi jian xiao shi	531
+营业员	ying ye yuan	530
+营业执照	ying ye zhi zhao	529
+营业执照号码	ying ye zhi zhao hao ma	528
+营运审核人	ying yun shen he ren	527
+用户	yong hu	525
+用户编号	yong hu bian hao	524
+用户表格设置	yong hu biao ge she zhi	523
+用户代码	yong hu dai ma	522
+用户费用类型代码	yong hu fei yong lei xing dai ma	521
+用户名称	yong hu ming cheng	520
+用户内码	yong hu nei ma	519
+用户自定义数据表字段	yong hu zi ding yi shu ju biao zi duan	518
+用途	yong tu	517
+邮编	you bian	490
+右儿子	you er zi	477
+有否其他业务	you fou qi ta ye wu	482
+优惠标志	you hui biao zhi	516
+优惠额	you hui e	515
+优惠方案	you hui fang an	514
+优惠方案号	you hui fang an hao	513
+优惠分摊比例	you hui fen tan bi li	512
+优惠结算额	you hui jie suan e	511
+优惠结算分摊比例	you hui jie suan fen tan bi li	510
+优惠金额	you hui jin e	509
+优惠类型	you hui lei xing	508
+优惠率	you hui lv	507
+优惠券促销单例外商品明细	you hui quan cu xiao dan li wai shang pin ming xi	506
+优惠券活动渠道当前值	you hui quan huo dong qu dao dang qian zhi	505
+优惠券活动渠道调整单	you hui quan huo dong qu dao tiao zheng dan	504
+优惠券活动渠道调整单渠道明细	you hui quan huo dong qu dao tiao zheng dan qu dao ming xi	503
+优惠券活动渠道调整单日志	you hui quan huo dong qu dao tiao zheng dan ri zhi	502
+优惠券码	you hui quan ma	501
+优惠券提货调整单	you hui quan ti huo tiao zheng dan	500
+优惠券提货调整单明细	you hui quan ti huo tiao zheng dan ming xi	499
+优惠券提货调整单日志	you hui quan ti huo tiao zheng dan ri zhi	498
+优惠日报	you hui ri bao	497
+优惠总额	you hui zong e	496
+邮件电话	you jian dian hua	489
+邮件口令	you jian kou ling	488
+邮件账号	you jian zhang hao	487
+邮件账户	you jian zhang hu	486
+油品代码	you pin dai ma	484
+油枪代码	you qiang dai ma	483
+优先定货类型	you xian ding huo lei xing	495
+优先级	you xian ji	494
+优先级别	you xian ji bie	493
+优先配货类型	you xian pei huo lei xing	492
+优先值	you xian zhi	491
+有效期	you xiao qi	481
+有效期结束时间	you xiao qi jie shu shi jian	480
+有效期开始时间	you xiao qi kai shi shi jian	479
+有效天数	you xiao tian shu	478
+邮政编码	you zheng bian ma	485
+预存款划扣银行	yu cun kuan hua kou yin hang	475
+预存款上限	yu cun kuan shang xian	474
+预存款下限	yu cun kuan xia xian	473
+预定天数	yu ding tian shu	472
+余额	yu e	476
+预付款	yu fu kuan	471
+预付款单	yu fu kuan dan	470
+预付款单审核日志	yu fu kuan dan shen he ri zhi	469
+预付款单视图	yu fu kuan dan shi tu	468
+预付款金额	yu fu kuan jin e	467
+预付款总额	yu fu kuan zong e	466
+预购单号	yu gou dan hao	465
+预交商品款	yu jiao shang pin kuan	464
+语句	yu ju	4453
+预留库存	yu liu ku cun	463
+预留天数	yu liu tian shu	462
+域名	yu ming	452
+预配数	yu pei shu	461
+预配数总和	yu pei shu zong he	460
+预期售价	yu qi shou jia	459
+预审人	yu shen ren	458
+预审日期	yu shen ri qi	457
+预审时间	yu shen shi jian	456
+预收金额	yu shou jin e	455
+预收款金额	yu shou kuan jin e	454
+预约日期	yu yue ri qi	453
+原单号	yuan dan hao	429
+原单价	yuan dan jia	428
+原单据来源单位	yuan dan ju lai yuan dan wei	427
+原单据类型	yuan dan ju lei xing	426
+原到效期	yuan dao xiao qi	425
+原到效日期	yuan dao xiao ri qi	424
+员工	yuan gong	451
+员工代码	yuan gong dai ma	450
+员工费用类型维护表	yuan gong fei yong lei xing wei hu biao	449
+员工可领用商品	yuan gong ke ling yong shang pin	448
+员工类别表	yuan gong lei bie biao	447
+员工权限	yuan gong quan xian	446
+员工人数	yuan gong ren shu	445
+员工商品回收单	yuan gong shang pin hui shou dan	444
+员工商品回收单明细	yuan gong shang pin hui shou dan ming xi	443
+员工商品回收单日志	yuan gong shang pin hui shou dan ri zhi	442
+员工商品领用单	yuan gong shang pin ling yong dan	441
+员工商品领用单明细	yuan gong shang pin ling yong dan ming xi	440
+员工商品领用单日志	yuan gong shang pin ling yong dan ri zhi	439
+员工特殊权限	yuan gong te shu quan xian	438
+员工提成比例	yuan gong ti cheng bi li	437
+员工姓名	yuan gong xing ming	436
+原供应商	yuan gong ying shang	423
+员工员工组	yuan gong yuan gong zu	435
+员工转换表	yuan gong zhuan huan biao	434
+员工总表	yuan gong zong biao	433
+员工组	yuan gong zu	432
+员工组权限	yuan gong zu quan xian	431
+员工组特殊权限	yuan gong zu te shu quan xian	430
+原含税单价	yuan han shui dan jia	422
+原含税金额	yuan han shui jin e	421
+原行号	yuan hang hao	387
+原核算售价	yuan he suan shou jia	420
+原会员价	yuan hui yuan jia	419
+原积分	yuan ji fen	418
+原价格上限	yuan jia ge shang xian	417
+原价格下限	yuan jia ge xia xian	416
+原金额	yuan jin e	415
+原经营属性	yuan jing ying shu xing	414
+原卡号	yuan ka hao	413
+原可奖励积分	yuan ke jiang li ji fen	412
+原料仓位	yuan liao cang wei	411
+原料产品	yuan liao chan pin	410
+原料成本	yuan liao cheng ben	409
+原料纪录数	yuan liao ji lu shu	407
+原料记录数	yuan liao ji lu shu	408
+原内容	yuan nei rong	406
+原配货额	yuan pei huo e	405
+原配货方式	yuan pei huo fang shi	404
+原配货价	yuan pei huo jia	403
+原批发价	yuan pi fa jia	402
+原缺省供应商	yuan que sheng gong ying shang	401
+原始卡信息	yuan shi ka xin xi	400
+原始文件名	yuan shi wen jian ming	4452
+原售价	yuan shou jia	399
+原数据元	yuan shu ju yuan	398
+原数量	yuan shu liang	397
+原税额	yuan shui e	396
+原未结金额	yuan wei jie jin e	395
+原未结数量	yuan wei jie shu liang	394
+原未结销售金额	yuan wei jie xiao shou jin e	393
+原限制业务	yuan xian zhi ye wu	392
+原箱数	yuan xiang shu	391
+原消费累计	yuan xiao fei lei ji	390
+原销售额	yuan xiao shou e	389
+原销售数	yuan xiao shou shu	388
+原因	yuan yin	386
+原营销方式	yuan ying xiao fang shi	385
+原有货位存数	yuan you huo wei cun shu	384
+原有货位库存	yuan you huo wei ku cun	383
+原有库存数	yuan you ku cun shu	382
+原有库存总数	yuan you ku cun zong shu	381
+原有实际库存	yuan you shi ji ku cun	380
+原有实际库存数	yuan you shi ji ku cun shu	379
+原有总库存数	yuan you zong ku cun shu	378
+原余额	yuan yu e	377
+原状态	yuan zhuang tai	376
+原最低售价	yuan zui di shou jia	375
+原最高售价	yuan zui gao shou jia	374
+月仓位销售计划	yue cang wei xiao shou ji hua	372
+月定计划货量	yue ding ji hua huo liang	371
+月份	yue fen	370
+月供应商销售计划	yue gong ying shang xiao shou ji hua	369
+月结转差异	yue jie zhuan cha yi	368
+月结转期	yue jie zhuan qi	367
+月结转期号	yue jie zhuan qi hao	366
+月类别销售计划	yue lei bie xiao shou ji hua	365
+约束	yue shu	373
+月销售计划按部门	yue xiao shou ji hua an bu men	364
+月销售计划按门店	yue xiao shou ji hua an men dian	363
+月已定货量	yue yi ding huo liang	362
+月员工销售计划	yue yuan gong xiao shou ji hua	361
+运行包信息	yun xing bao xin xi	4590
+运行环境	yun xing huan jing	351
+运行日志	yun xing ri zhi	350
+允许仓位	yun xu cang wei	360
+允许发送	yun xu fa song	359
+允许负库存	yun xu fu ku cun	358
+允许购买商品最大数量	yun xu gou mai shang pin zui da shu liang	357
+允许商品品种数	yun xu shang pin pin zhong shu	356
+允许提货商品类别	yun xu ti huo shang pin lei bie	355
+允许消费	yun xu xiao fei	354
+允许选择重复商品	yun xu xuan ze chong fu shang pin	353
+允许选择重复组	yun xu xuan ze chong fu zu	352
+在单量	zai dan liang	349
+在单量总和	zai dan liang zong he	348
+暂停时间	zan ting shi jian	347
+赠吉米数	zeng ji mi shu	340
+赠码结果	zeng ma jie guo	339
+赠码结果明细	zeng ma jie guo ming xi	338
+赠码结果明细短信码明细	zeng ma jie guo ming xi duan xin ma ming xi	337
+赠码结果明细短信码明细中间表	zeng ma jie guo ming xi duan xin ma ming xi zhong jian biao	336
+赠码结果明细中间表	zeng ma jie guo ming xi zhong jian biao	335
+赠码结果中间表	zeng ma jie guo zhong jian biao	334
+赠品	zeng pin	333
+赠品备注	zeng pin bei zhu	332
+赠品比例	zeng pin bi li	331
+赠品标记	zeng pin biao ji	330
+赠品标志	zeng pin biao zhi	329
+赠品仓位	zeng pin cang wei	328
+赠品偿价	zeng pin chang jia	327
+赠品成本价	zeng pin cheng ben jia	326
+赠品促销单	zeng pin cu xiao dan	325
+赠品促销单明细	zeng pin cu xiao dan ming xi	324
+赠品促销单日志	zeng pin cu xiao dan ri zhi	323
+赠品促销单生效单位明细	zeng pin cu xiao dan sheng xiao dan wei ming xi	322
+赠品促销规则	zeng pin cu xiao gui ze	321
+赠品促销规则互斥	zeng pin cu xiao gui ze hu chi	320
+赠品促销规则日志	zeng pin cu xiao gui ze ri zhi	319
+赠品促销规则商品明细	zeng pin cu xiao gui ze shang pin ming xi	318
+赠品促销规则约束	zeng pin cu xiao gui ze yue shu	317
+赠品促销规则约束参数明细	zeng pin cu xiao gui ze yue shu can shu ming xi	316
+赠品促销规则赠品组合	zeng pin cu xiao gui ze zeng pin zu he	315
+赠品促销规则赠品组合明细	zeng pin cu xiao gui ze zeng pin zu he ming xi	314
+赠品促销活动码	zeng pin cu xiao huo dong ma	313
+赠品代码	zeng pin dai ma	312
+赠品发放单	zeng pin fa fang dan	311
+赠品发放单规则明细	zeng pin fa fang dan gui ze ming xi	310
+赠品发放单日志	zeng pin fa fang dan ri zhi	309
+赠品发放单销售单据明细	zeng pin fa fang dan xiao shou dan ju ming xi	308
+赠品发放单销售明细	zeng pin fa fang dan xiao shou ming xi	307
+赠品发放单赠品明细	zeng pin fa fang dan zeng pin ming xi	306
+赠品发放日志	zeng pin fa fang ri zhi	305
+赠品供货仓位	zeng pin gong huo cang wei	304
+赠品供货单位	zeng pin gong huo dan wei	303
+赠品行号	zeng pin hang hao	282
+赠品换购价	zeng pin huan gou jia	302
+赠品回收单	zeng pin hui shou dan	301
+赠品回收单明细	zeng pin hui shou dan ming xi	300
+赠品回收单明细明细	zeng pin hui shou dan ming xi ming xi	299
+赠品回收单日志	zeng pin hui shou dan ri zhi	298
+赠品记录	zeng pin ji lu	297
+赠品记录数	zeng pin ji lu shu	296
+赠品类型	zeng pin lei xing	295
+赠品门店分摊比例	zeng pin men dian fen tan bi li	294
+赠品数	zeng pin shu	292
+赠品数量	zeng pin shu liang	291
+赠品数量限制	zeng pin shu liang xian zhi	290
+赠品输入码	zeng pin shu ru ma	293
+赠品数限制	zeng pin shu xian zhi	289
+赠品说明	zeng pin shuo ming	288
+赠品协议	zeng pin xie yi	287
+赠品协议汇总	zeng pin xie yi hui zong	286
+赠品协议明细	zeng pin xie yi ming xi	285
+赠品协议生效单位明细	zeng pin xie yi sheng xiao dan wei ming xi	284
+赠品信息	zeng pin xin xi	283
+赠品序号	zeng pin xu hao	281
+赠品序列号	zeng pin xu lie hao	280
+赠品优惠分摊比例	zeng pin you hui fen tan bi li	279
+赠品赠送品项数	zeng pin zeng song pin xiang shu	278
+赠品组合	zeng pin zu he	277
+赠券退货金额	zeng quan tui huo jin e	276
+赠券折扣上限	zeng quan zhe kou shang xian	275
+赠送积分	zeng song ji fen	274
+赠送吉米数	zeng song ji mi shu	273
+赠送数量	zeng song shu liang	272
+赠送数量增量	zeng song shu liang zeng liang	271
+增值税发票	zeng zhi shui fa piao	346
+增值税发票号	zeng zhi shui fa piao hao	345
+增值税发票来源明细	zeng zhi shui fa piao lai yuan ming xi	344
+增值税发票明细	zeng zhi shui fa piao ming xi	343
+增值税类型	zeng zhi shui lei xing	342
+增值所属平台	zeng zhi suo shu ping tai	341
+占用销售金额	zhan yong xiao shou jin e	270
+帐号	zhang hao	269
+帐户锁定	zhang hu suo ding	268
+帐款项目表	zhang kuan xiang mu biao	267
+帐款项目数据来源表	zhang kuan xiang mu shu ju lai yuan biao	266
+帐款信息备注	zhang kuan xin xi bei zhu	265
+帐款信息计算截至日期	zhang kuan xin xi ji suan jie zhi ri qi	264
+帐款信息计算开始日期	zhang kuan xin xi ji suan kai shi ri qi	263
+帐款信息计算时间	zhang kuan xin xi ji suan shi jian	262
+帐面金额	zhang mian jin e	261
+帐面金额快照	zhang mian jin e kuai zhao	260
+帐面金额盘入	zhang mian jin e pan ru	259
+帐面数快照	zhang mian shu kuai zhao	258
+帐面数盘入	zhang mian shu pan ru	257
+帐期	zhang qi	256
+帐期类型	zhang qi lei xing	255
+找零	zhao ling	254
+找零精确度	zhao ling jing que du	253
+折价金额	zhe jia jin e	252
+折扣	zhe kou	251
+折扣额计入销售	zhe kou e ji ru xiao shou	250
+折扣金额	zhe kou jin e	249
+折扣率	zhe kou lv	248
+折扣税额	zhe kou shui e	247
+折扣总额	zhe kou zong e	246
+折上折标志	zhe shang zhe biao zhi	245
+镇区	zhen qu	244
+整笔折扣	zheng bi zhe kou	243
+正常折扣	zheng chang zhe kou	239
+证件名称	zheng jian ming cheng	236
+整件区总件数	zheng jian qu zong jian shu	242
+正式表单号	zheng shi biao dan hao	238
+整体盘点标志	zheng ti pan dian biao zhi	241
+正文	zheng wen	237
+整箱数	zheng xiang shu	240
+只打印一条明细	zhi da yin yi tiao ming xi	202
+指导员	zhi dao yuan	201
+指导员电话	zhi dao yuan dian hua	200
+指导员签到表	zhi dao yuan qian dao biao	199
+指定成本标志	zhi ding cheng ben biao zhi	198
+指定成本价	zhi ding cheng ben jia	197
+指定代销价	zhi ding dai xiao jia	196
+指定库存价	zhi ding ku cun jia	195
+指定联销率	zhi ding lian xiao lv	194
+支付方式	zhi fu fang shi	235
+支付类型	zhi fu lei xing	234
+质检报告有效日期	zhi jian bao gao you xiao ri qi	189
+值类型	zhi lei xing	205
+直流来源定单明细	zhi liu lai yuan ding dan ming xi	225
+直配成本	zhi pei cheng ben	224
+直配单	zhi pei dan	223
+直配单明细	zhi pei dan ming xi	222
+直配单批次明细	zhi pei dan pi ci ming xi	221
+直配进货调整单	zhi pei jin huo tiao zheng dan	220
+直配进货调整单明细	zhi pei jin huo tiao zheng dan ming xi	219
+直配进货调整单日志	zhi pei jin huo tiao zheng dan ri zhi	218
+直配进记录汇总	zhi pei jin ji lu hui zong	217
+直配进记录明细	zhi pei jin ji lu ming xi	216
+直配去税额	zhi pei qu shui e	215
+直配去税核算额	zhi pei qu shui he suan e	214
+直配商品发送表	zhi pei shang pin fa song biao	4594
+直配数	zhi pei shu	213
+直配税额	zhi pei shui e	212
+直配退货成本	zhi pei tui huo cheng ben	211
+直配退货额	zhi pei tui huo e	210
+直配退货去税额	zhi pei tui huo qu shui e	209
+直配退货去税核算额	zhi pei tui huo qu shui he suan e	208
+直配退货数	zhi pei tui huo shu	207
+直配退货税额	zhi pei tui huo shui e	206
+支票表	zhi piao biao	233
+支票号	zhi piao hao	232
+支票金额	zhi piao jin e	231
+职务	zhi wu	204
+执行结果	zhi xing jie guo	230
+执行文件名	zhi xing wen jian ming	229
+执行员工代码	zhi xing yuan gong dai ma	228
+执行员工姓名	zhi xing yuan gong xing ming	227
+执行状态	zhi xing zhuang tai	226
+职业店长	zhi ye dian zhang	203
+制造厂	zhi zao chang	193
+制作人	zhi zuo ren	192
+制作日期	zhi zuo ri qi	191
+制作时间	zhi zuo shi jian	190
+终端流水号	zhong duan liu shui hao	183
+中类商品	zhong lei shang pin	188
+重量	zhong liang	178
+重量单位	zhong liang dan wei	177
+中文简称	zhong wen jian cheng	187
+中文名称	zhong wen ming cheng	186
+中文说明	zhong wen shuo ming	185
+终止日期	zhong zhi ri qi	182
+中止时间	zhong zhi shi jian	184
+终止时间	zhong zhi shi jian	181
+周期	zhou qi	175
+周期长度	zhou qi chang du	174
+周期类型	zhou qi lei xing	173
+周期描述	zhou qi miao shu	172
+周期内结束	zhou qi nei jie shu	171
+周期内开始	zhou qi nei kai shi	170
+周转箱号	zhou zhuan xiang hao	169
+周转箱扣关系	zhou zhuan xiang kou guan xi	168
+周转箱数	zhou zhuan xiang shu	167
+主编码	zhu bian ma	166
+主表编号	zhu biao bian hao	165
+注册表	zhu ce biao	146
+注册短信促销码	zhu ce duan xin cu xiao ma	145
+注册信息	zhu ce xin xi	4603
+主动缴费标识	zhu dong jiao fei biao zhi	164
+主供应商	zhu gong ying shang	163
+主会员	zhu hui yuan	162
+主卡补卡价	zhu ka bu ka jia	161
+主卡销售价	zhu ka xiao shou jia	160
+主卡续卡价每年	zhu ka xu ka jia mei nian	159
+主商品	zhu shang pin	158
+主商品行号	zhu shang pin hang hao	157
+注释说明	zhu shi shuo ming	144
+主数据库名	zhu shu ju ku ming	156
+主题	zhu ti	155
+主赠品行号	zhu zeng pin hang hao	154
+转出额	zhuan chu e	143
+转出核售额	zhuan chu he shou e	142
+转出核算额	zhuan chu he suan e	141
+转出商品	zhuan chu shang pin	140
+转出商品仓位	zhuan chu shang pin cang wei	139
+转出商品核算价	zhuan chu shang pin he suan jia	138
+转出商品核算售价	zhuan chu shang pin he suan shou jia	137
+转出数	zhuan chu shu	136
+转化方向	zhuan hua fang xiang	135
+转让费	zhuan rang fei	134
+转入单价	zhuan ru dan jia	133
+转入额	zhuan ru e	132
+转入核售额	zhuan ru he shou e	131
+转入核算额	zhuan ru he suan e	130
+转入商品	zhuan ru shang pin	129
+转入商品仓位	zhuan ru shang pin cang wei	128
+转入商品核算价	zhuan ru shang pin he suan jia	127
+转入商品核算售价	zhuan ru shang pin he suan shou jia	126
+转入数	zhuan ru shu	125
+转入数量	zhuan ru shu liang	124
+转入箱数	zhuan ru xiang shu	123
+转移原因	zhuan yi yuan yin	122
+转运日期	zhuan yun ri qi	121
+转运通知单	zhuan yun tong zhi dan	4496
+转运通知单门店明细	zhuan yun tong zhi dan men dian ming xi	4495
+转运通知单明细	zhuan yun tong zhi dan ming xi	4494
+转运物流	zhuan yun wu liu	120
+装车员	zhuang che yuan	119
+装盘标准	zhuang pan biao zhun	118
+装盘件数	zhuang pan jian shu	117
+状态	zhuang tai	113
+状态标志	zhuang tai biao zhi	112
+状态号	zhuang tai hao	111
+状态名称	zhuang tai ming cheng	110
+装箱金额	zhuang xiang jin e	116
+装箱数	zhuang xiang shu	115
+装修队名称	zhuang xiu dui ming cheng	114
+准入金额	zhun ru jin e	109
+准入满数量	zhun ru man shu liang	108
+自编码	zi bian ma	99
+字典	zi dian	103
+自定义属性	zi ding yi shu xing	98
+自定义属性界面设置	zi ding yi shu xing jie mian she zhi	97
+自定义字段	zi ding yi zi duan	96
+自动补货	zi dong bu huo	95
+自动计算	zi dong ji suan	94
+自动校正算法开始间隔时间	zi dong jiao zheng suan fa kai shi jian ge shi jian	93
+字段	zi duan	4575
+字段编号	zi duan bian hao	102
+字段类型	zi duan lei xing	4574
+字段名	zi duan ming	101
+字符串	zi fu chuan	100
+子合约版本	zi he yue ban ben	105
+子合约编号	zi he yue bian hao	104
+资料版本	zi liao ban ben	107
+资料类型	zi liao lei xing	106
+自然期号	zi ran qi hao	92
+自营仓位	zi ying cang wei	91
+自营额	zi ying e	90
+自营核售额	zi ying he shou e	89
+自营核算额	zi ying he suan e	88
+自营进货单号	zi ying jin huo dan hao	87
+自营去税额	zi ying qu shui e	86
+自营去税核算额	zi ying qu shui he suan e	85
+自营数	zi ying shu	84
+自营税额	zi ying shui e	83
+自营退货去税额	zi ying tui huo qu shui e	82
+自营退货去税核算额	zi ying tui huo qu shui he suan e	81
+自营退货税额	zi ying tui huo shui e	80
+总部承担	zong bu cheng dan	79
+总部服务费	zong bu fu wu fei	78
+总部盘点	zong bu pan dian	77
+总部统一控制	zong bu tong yi kong zhi	76
+总部下发数量	zong bu xia fa shu liang	75
+总部限制业务	zong bu xian zhi ye wu	74
+总额促销活动码	zong e cu xiao huo dong ma	73
+总量促销活动码	zong liang cu xiao huo dong ma	72
+总数量上限	zong shu liang shang xian	71
+总投资	zong tou zi	70
+总余额	zong yu e	69
+组代码	zu dai ma	64
+组号	zu hao	63
+组合促销单	zu he cu xiao dan	62
+组合促销单门店	zu he cu xiao dan men dian	61
+组合促销单日志	zu he cu xiao dan ri zhi	60
+组合促销单商品	zu he cu xiao dan shang pin	59
+组合促销活动码	zu he cu xiao huo dong ma	58
+组合促销优惠折扣表	zu he cu xiao you hui zhe kou biao	57
+组合吉米促销单	zu he ji mi cu xiao dan	56
+组合吉米促销单门店	zu he ji mi cu xiao dan men dian	55
+组合吉米促销单日志	zu he ji mi cu xiao dan ri zhi	54
+组合吉米促销单商品	zu he ji mi cu xiao dan shang pin	53
+组合吉米促销条件表	zu he ji mi cu xiao tiao jian biao	52
+租金	zu jin	68
+租金变化记录	zu jin bian hua ji lu	67
+组名称	zu ming cheng	51
+租铺方	zu pu fang	66
+租铺合同	zu pu he tong	65
+组织代码	zu zhi dai ma	50
+组织类型	zu zhi lei xing	49
+组织域	zu zhi yu	48
+最大抵用金额	zui da di yong jin e	4456
+最大商品数	zui da shang pin shu	47
+最低库存	zui di ku cun	46
+最低库存数	zui di ku cun shu	45
+最低库存下限	zui di ku cun xia xian	44
+最低零售价	zui di ling shou jia	43
+最低配货数	zui di pei huo shu	42
+最低售价	zui di shou jia	4474
+最高积分	zui gao ji fen	41
+最高库存	zui gao ku cun	40
+最高库存上限	zui gao ku cun shang xian	39
+最高库存数	zui gao ku cun shu	38
+最高售价	zui gao shou jia	4473
+最高售价控制	zui gao shou jia kong zhi	37
+最后打印时间	zui hou da yin shi jian	36
+最后发送时间	zui hou fa song shi jian	34
+最后反馈时间	zui hou fan kui shi jian	33
+最后更新单号	zui hou geng xin dan hao	32
+最后更新单据类型	zui hou geng xin dan ju lei xing	31
+最后更新人	zui hou geng xin ren	30
+最后更新时间	zui hou geng xin shi jian	29
+最后认证时间	zui hou ren zheng shi jian	28
+最后调价时间	zui hou tiao jia shi jian	35
+最后退仓日期	zui hou tui cang ri qi	27
+最后修改人	zui hou xiu gai ren	26
+最后修改日期	zui hou xiu gai ri qi	25
+最后修改时间	zui hou xiu gai shi jian	24
+最后一次成功认证的令牌值	zui hou yi ci cheng gong ren zheng de ling pai zhi	23
+最近修改日期	zui jin xiu gai ri qi	22
+最近修改时间	zui jin xiu gai shi jian	21
+最近修改时刻	zui jin xiu gai shi ke	20
+最喜爱的颜色	zui xi ai de yan se	19
+最小报货数量	zui xiao bao huo shu liang	18
+最小报货箱数	zui xiao bao huo xiang shu	17
+最小订货量	zui xiao ding huo liang	16
+最小排面库存	zui xiao pai mian ku cun	15
+最小排面描述	zui xiao pai mian miao shu	14
+最小数量	zui xiao shu liang	13
+最小送货金额	zui xiao song huo jin e	12
+最小送货数量	zui xiao song huo shu liang	11
+最新进价	zui xin jin jia	10
+坐标	zuo biao	1
+左儿子	zuo er zi	9
+作废标志	zuo fei biao zhi	8
+作废人	zuo fei ren	7
+作废日期	zuo fei ri qi	6
+作废时间	zuo fei shi jian	5
+作业编号	zuo ye bian hao	4
+作业序号	zuo ye xu hao	3
+作业状态	zuo ye zhuang tai	2

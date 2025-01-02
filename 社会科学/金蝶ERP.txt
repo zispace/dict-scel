@@ -1,0 +1,32 @@
+# 文件名：金蝶ERP.scel
+# 词库名：金蝶ERP
+# 词库分类：管理科学与工程
+# 词库描述：
+# 词条样例：客户 采购订单 采购发票 应付账款 销售订单 物料需求计划
+# 词条数量：25
+
+采购订单	cai gou ding dan	22
+采购发票	cai gou fa piao	20
+仓库盘点	cang ku pan dian	3
+对等核销	dui deng he xiao	5
+费用报销	fei yong bao xiao	4
+工序汇报单	gong xu hui bao dan	11
+供应商	gong ying shang	24
+勾稽	gou ji	7
+核算项目	he suan xiang mu	8
+核销	he xiao	6
+客户	ke hu	23
+会计科目	kuai ji ke mu	9
+领料单	ling liao dan	12
+生产任务单	sheng chan ren wu dan	14
+实际成本	shi ji cheng ben	10
+受托加工	shou tuo jia gong	1
+投料单	tou liao dan	13
+外购入库	wai gou ru ku	21
+委外加工	wei wai jia gong	2
+物料	wu liao	25
+物料需求计划	wu liao xu qiu ji hua	15
+销售出库	xiao shou chu ku	17
+销售订单	xiao shou ding dan	18
+销售发票	xiao shou fa piao	16
+应付账款	ying fu zhang kuan	19

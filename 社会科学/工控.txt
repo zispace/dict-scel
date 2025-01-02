@@ -1,0 +1,75 @@
+# 文件名：工控.scel
+# 词库名：工控
+# 词库分类：其它
+# 词库描述：
+# 词条样例：前馈控制 顺序控制 闭环控制 积分时间 采集系统
+# 词条数量：68
+
+安全阀	an quan fa	32
+安全仪表系统	an quan yi biao xi tong	8
+闭环控制	bi huan kong zhi	68
+比例控制	bi li kong zhi	67
+比例调节	bi li tiao jie	66
+采集系统	cai ji xi tong	63
+操作数据管理系统	cao zuo shu ju guan li xi tong	6
+操作员仿真培训系统	cao zuo yuan fang zhen pei xun xi tong	5
+常温阀	chang wen fa	24
+超低温阀	chao di wen fa	22
+超高压阀	chao gao ya fa	27
+串级控制	chuan ji kong zhi	65
+串级前馈控制	chuan ji qian kui kong zhi	64
+低温阀	di wen fa	23
+低压阀	di ya fa	30
+电磁阀	dian ci fa	20
+电动阀	dian dong fa	21
+蝶阀	die fa	42
+阀门	fa men	45
+仿真系统	fang zhen xi tong	3
+分流阀	fen liu fa	33
+分配阀	fen pei fa	34
+高温阀	gao wen fa	26
+高压阀	gao ya fa	28
+隔膜阀	ge mo fa	39
+工业光总线控制系统	gong ye guang zong xian kong zhi xi tong	13
+积分时间	ji fen shi jian	62
+监控系统	jian kong xi tong	60
+监视系统	jian shi xi tong	61
+减压阀	jian ya fa	37
+截止阀	jie zhi fa	43
+开环控制	kai huan kong zhi	56
+控制单元	kong zhi dan yuan	59
+控制器	kong zhi qi	57
+控制系统	kong zhi xi tong	58
+锂钴酸	li gu suan	17
+锂猛酸	li meng suan	16
+锂镍酸	li nie suan	15
+模糊控制	mo hu kong zhi	55
+排气阀	pai qi fa	35
+配方管理	pei fang guan li	53
+批量控制系统	pi liang kong zhi xi tong	10
+气动阀	qi dong fa	18
+汽轮机数字电液控制系统	qi lun ji shu zi dian ye kong zhi xi tong	1
+前馈控制	qian kui kong zhi	50
+球阀	qiu fa	41
+冗余系统	rong yu xi tong	52
+设备管理系统	she bei guan li xi tong	12
+生产执行系统	sheng chan zhi xing xi tong	14
+实时信息系统	shi shi xin xi xi tong	4
+疏水阀	shu shui fa	36
+顺序控制	shun xu kong zhi	51
+调节	tiao jie	54
+调节阀	tiao jie fa	19
+微分时间	wei fen shi jian	49
+无线仪表系统	wu xian yi biao xi tong	2
+系统	xi tong	7
+先进过程控制系统	xian jin guo cheng kong zhi xi tong	11
+旋塞阀	xuan sai fa	40
+压缩机控制系统	ya suo ji kong zhi xi tong	9
+闸阀	zha fa	44
+真空阀	zhen kong fa	31
+止回阀	zhi hui fa	38
+中温阀	zhong wen fa	25
+中压阀	zhong ya fa	29
+自动化	zi dong hua	48
+自动化工业控制	zi dong hua gong ye kong zhi	47
+自动化工业控制系统	zi dong hua gong ye kong zhi xi tong	46

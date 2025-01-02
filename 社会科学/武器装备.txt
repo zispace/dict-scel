@@ -1,0 +1,239 @@
+# 文件名：武器装备.scel
+# 词库名：武器装备
+# 词库分类：军事类
+# 词库描述：
+# 词条样例：武器装备 古代兵器 核当量 杀伤力 生存能力
+# 词条数量：232
+
+肮脏核武器	ang zang he wu qi	185
+爆炸当量	bao zha dang liang	221
+兵器	bing qi	230
+步兵战车	bu bing zhan che	116
+布雷车	bu lei che	112
+超视距雷达	chao shi ju lei da	68
+单兵反坦克火箭	dan bing fan tan ke huo jian	176
+弹道	dan dao	208
+弹道导弹	dan dao dao dan	159
+弹炮一体化防空系统	dan pao yi ti hua fang kong xi tong	168
+弹药	dan yao	144
+导弹	dao dan	167
+导弹艇	dao dan ting	80
+导航系统	dao hang xi tong	27
+地地导弹	di di dao dan	158
+第二次打击能力	di er ci da ji neng li	217
+地空导弹	di kong dao dan	157
+地雷	di lei	134
+地面火炮	di mian huo pao	173
+地面压制武器系统	di mian ya zhi wu qi xi tong	191
+第三代核武器	di san dai he wu qi	187
+敌我识别雷达	di wo shi bie lei da	65
+敌我识别系统	di wo shi bie xi tong	28
+地形测绘雷达	di xing ce hui lei da	62
+电磁炮	dian ci pao	12
+电台	dian tai	54
+电子对抗飞机	dian zi dui kang fei ji	94
+电子战系统	dian zi zhan xi tong	17
+电子战信号处理机	dian zi zhan xin hao chu li ji	29
+电子战支援设备	dian zi zhan zhi yuan she bei	35
+定向能武器	ding xiang neng wu qi	13
+对潜通信	dui qian tong xin	20
+反导弹导弹	fan dao dan dao dan	148
+反导武器系统	fan dao wu qi xi tong	193
+反辐射导弹	fan fu she dao dan	149
+反舰导弹	fan jian dao dan	152
+反潜导弹	fan qian dao dan	151
+反潜机	fan qian ji	97
+反潜作战系统	fan qian zuo zhan xi tong	196
+反水雷武器	fan shui lei wu qi	4
+反坦克导弹	fan tan ke dao dan	150
+反坦克武器系统	fan tan ke wu qi xi tong	192
+反卫星武器	fan wei xing wu qi	123
+反直升机武器系统	fan zhi sheng ji wu qi xi tong	194
+防暴武器	fang bao wu qi	8
+防空武器系统	fang kong wu qi xi tong	206
+飞行控制系统	fei xing kong zhi xi tong	37
+干净核武器	gan jing he wu qi	186
+高技术武器装备	gao ji shu wu qi zhuang bei	225
+高射炮	gao she pao	172
+攻击型潜艇	gong ji xing qian ting	86
+古代兵器	gu dai bing qi	229
+惯性导航	guan xing dao hang	24
+海岸声纳预警系统	hai an sheng na yu jing xi tong	60
+海军编队作战装备和系统	hai jun bian dui zuo zhan zhuang bei he xi tong	197
+海军武器装备	hai jun wu qi zhuang bei	204
+航空电台	hang kong dian tai	51
+航空母舰	hang kong mu jian	91
+航炮	hang pao	169
+航天飞机	hang tian fei ji	127
+航天器	hang tian qi	131
+毫米波通信设备	hao mi bo tong xin she bei	44
+核弹头	he dan tou	182
+核当量	he dang liang	222
+核裂变与聚变材料	he lie bian yu ju bian cai liao	180
+核武器	he wu qi	190
+核武器拦截系统	he wu qi lan jie xi tong	201
+核武器突防系统	he wu qi tu fang xi tong	200
+轰炸机	hong zha ji	104
+轰炸雷达	hong zha lei da	64
+护卫舰	hu wei jian	83
+化学武器	hua xue wu qi	11
+火工品	huo gong pin	139
+火箭	huo jian	146
+火箭弹	huo jian dan	136
+火箭炮	huo jian pao	171
+火控雷达	huo kong lei da	74
+火控系统	huo kong xi tong	39
+火炮	huo pao	174
+火药	huo yao	138
+机动性	ji dong xing	215
+激光通信设备	ji guang tong xin she bei	43
+激光武器	ji guang wu qi	9
+机载导航设备	ji zai dao hang she bei	23
+机载吊放声纳	ji zai diao fang sheng na	58
+机载武器系统	ji zai wu qi xi tong	199
+加固型计算机	jia gu xing ji suan ji	40
+歼击轰炸机	jian ji hong zha ji	106
+歼击机	jian ji ji	107
+歼击雷达	jian ji lei da	63
+舰舰导弹	jian jian dao dan	154
+舰空导弹	jian kong dao dan	153
+舰炮	jian pao	170
+监视雷达	jian shi lei da	76
+舰艇	jian ting	92
+舰艇声纳	jian ting sheng na	59
+舰艇通信系统	jian ting tong xin xi tong	49
+舰艇作战指挥系统	jian ting zuo zhan zhi hui xi tong	18
+舰载导航设备	jian zai dao hang she bei	22
+舰载机	jian zai ji	96
+舰载武器系统	jian zai wu qi xi tong	198
+教练机	jiao lian ji	101
+近程导弹	jin cheng dao dan	162
+近程防御系统	jin cheng fang yu xi tong	195
+警戒雷达	jing jie lei da	71
+军事指挥中心设备	jun shi zhi hui zhong xin she bei	36
+军用程控交换机	jun yong cheng kong jiao huan ji	14
+军用电子装备	jun yong dian zi zhuang bei	78
+军用飞机	jun yong fei ji	108
+军用辅助舰船	jun yong fu zhu jian chuan	79
+军用航空器	jun yong hang kong qi	109
+军用机器人	jun yong ji qi ren	3
+军用计算机	jun yong ji suan ji	41
+军用散射通信设备	jun yong san she tong xin she bei	46
+军用微波通信设备	jun yong wei bo tong xin she bei	45
+军用卫星	jun yong wei xing	124
+军用运输机	jun yong yun shu ji	102
+空地导弹	kong di dao dan	156
+空间探测器	kong jian tan ce qi	126
+空间站	kong jian zhan	129
+空军武器装备	kong jun wu qi zhuang bei	203
+空空导弹	kong kong dao dan	155
+空中加油机	kong zhong jia you ji	93
+快速反应能力	kuai su fan ying neng li	213
+雷达	lei da	77
+雷达告警接收机	lei da gao jing jie shou ji	34
+两栖战舰艇	liang qi zhan jian ting	82
+榴弹发射器	liu dan fa she qi	175
+陆军武器装备	lu jun wu qi zhuang bei	205
+陆军移动电台	lu jun yi dong dian tai	53
+命中概率	ming zhong gai lv	219
+命中精度	ming zhong jing du	218
+目标截获雷达	mu biao jie huo lei da	75
+炮弹	pao dan	143
+炮瞄雷达	pao miao lei da	73
+炮位雷达	pao wei lei da	66
+破甲威力	po jia wei li	210
+欺骗干扰机	qi pian gan rao ji	30
+潜地导弹	qian di dao dan	147
+潜艇	qian ting	87
+枪弹	qiang dan	142
+强击机	qiang ji ji	105
+枪械	qiang xie	177
+氢弹	qing dan	183
+轻武器	qing wu qi	178
+驱逐舰	qu zhu jian	84
+全球定位系统	quan qiu ding wei xi tong	15
+全球军事指挥控制系统	quan qiu jun shi zhi hui kong zhi xi tong	16
+人造地球卫星	ren zao di qiu wei xing	125
+三防能力	san fang neng li	211
+三防装备	san fang zhuang bei	5
+扫雷坦克	sao lei tan ke	117
+杀伤半径	sha shang ban jing	220
+杀伤力	sha shang li	216
+深水炸弹	shen shui zha dan	135
+生存能力	sheng cun neng li	214
+声监测系统	sheng jian ce xi tong	6
+声纳	sheng na	61
+声纳浮标	sheng na fu biao	57
+生物武器	sheng wu wu qi	10
+寿命周期	shou ming zhou qi	209
+数据通信设备	shu ju tong xin she bei	42
+水雷	shui lei	132
+水雷战舰艇	shui lei zhan jian ting	81
+水陆坦克	shui lu tan ke	118
+水上飞机	shui shang fei ji	95
+瞬时测频接收机	shun shi ce pin jie shou ji	33
+坦克	tan ke	119
+天文导航	tian wen dao hang	25
+通信系统	tong xin xi tong	50
+突防能力	tu fang neng li	212
+推进剂	tui jin ji	145
+卫星导航	wei xing dao hang	21
+卫星地面接收站	wei xing di mian jie shou zhan	122
+卫星跟踪测量船	wei xing gen zong ce liang chuan	121
+伪装器材	wei zhuang qi cai	1
+武器	wu qi	231
+武器平台	wu qi ping tai	224
+武器系统	wu qi xi tong	207
+武器性能	wu qi xing neng	223
+武器装备	wu qi zhuang bei	232
+无人机	wu ren ji	100
+无线电导航	wu xian dian dao hang	26
+无线电高度表	wu xian dian gao du biao	56
+无线电信标	wu xian dian xin biao	55
+武装直升机	wu zhuang zhi sheng ji	99
+系统	xi tong	19
+信道化接收机	xin dao hua jie shou ji	32
+巡航导弹	xun hang dao dan	160
+训练模拟器材	xun lian mo ni qi cai	2
+巡洋舰	xun yang jian	88
+夜视仪器	ye shi yi qi	7
+引导雷达	yin dao lei da	72
+引信	yin xin	140
+预警机	yu jing ji	98
+预警雷达	yu jing lei da	69
+预警系统	yu jing xi tong	202
+鱼雷	yu lei	133
+远程导弹	yuan cheng dao dan	164
+原子弹	yuan zi dan	184
+运载火箭	yun zai huo jian	130
+载人飞船	zai ren fei chuan	128
+噪声干扰机	zao sheng gan rao ji	31
+炸弹	zha dan	141
+炸药	zha yao	137
+战场侦察雷达	zhan chang zhen cha lei da	67
+战斗网电台	zhan dou wang dian tai	52
+战列舰	zhan lie jian	89
+战略保密通信机	zhan lue bao mi tong xin ji	48
+战略导弹	zhan lue dao dan	166
+战略导弹潜艇	zhan lue dao dan qian ting	85
+战略核武器	zhan lue he wu qi	189
+战略武器	zhan lue wu qi	228
+战术保密通信机	zhan shu bao mi tong xin ji	47
+战术导弹	zhan shu dao dan	161
+战术核武器	zhan shu he wu qi	188
+战术武器	zhan shu wu qi	227
+侦察机	zhen cha ji	103
+制导兵器	zhi dao bing qi	226
+制导雷达	zhi dao lei da	70
+指挥仪	zhi hui yi	38
+直升机母舰	zhi sheng ji mu jian	90
+中程导弹	zhong cheng dao dan	163
+重水	zhong shui	179
+中子弹	zhong zi dan	181
+洲际导弹	zhou ji dao dan	165
+装甲车辆	zhuang jia che liang	120
+装甲工程车	zhuang jia gong cheng che	111
+装甲架桥车	zhuang jia jia qiao che	110
+装甲扫雷车	zhuang jia sao lei che	113
+装甲输送车	zhuang jia shu song che	115
+装甲指挥车	zhuang jia zhi hui che	114
