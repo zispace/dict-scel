@@ -1,0 +1,891 @@
+# 文件名：肿瘤形态学编码词库1.scel
+# 词库名：肿瘤形态学编码词库1
+# 词库分类：肿瘤形态学
+# 词库描述：
+# 词条样例：顽固性贫血 淋巴组织增生病 急性全骨髓增殖症 肝细胞胆管瘤 纤维脂肪瘤 慢性骨髓增生病
+# 词条数量：884
+
+癌病	ai bing	24
+癌前黑素沉着变病	ai qian hei su chen zhuo bian bing	392
+癌肉瘤	ai rou liu	502
+白血病	bai xue bing	833
+白血病性网状内皮细胞增殖	bai xue bing xing wang zhuang nei pi xi bao zeng zhi	870
+鲍恩病癌前皮炎	bao en bing ai qian pi yan	68
+杯形细胞类癌	bei xing xi bao lei ai	474
+鼻纤维性丘疹	bi xian wei xing qiu zhen	384
+表面扩散性黑色素瘤	biao mian kuo san xing hei se su liu	366
+表皮内鳞状细胞原位癌	biao pi nei lin zhuang xi bao yuan wei ai	69
+表皮样癌	biao pi yang ai	55
+表皮样乳头状癌	biao pi yang ru tou zhuang ai	50
+表浅扩散性腺癌	biao qian kuo san xing xian ai	112
+伯基特淋巴瘤	bo ji te lin ba liu	548
+伯基特细胞白血病	bo ji te xi bao bai xue bing	830
+搏温氏病	bo wen shi bing	67
+部分性葡萄胎	bu fen xing pu tao tai	800
+布伦纳瘤	bu lun na liu	453
+产粘液性腺癌	chan nian ye xing xian ai	276
+长骨成釉质瘤	chang gu cheng you zhi liu	816
+肠型腺癌	chang xing xian ai	106
+成感觉神经细胞瘤	cheng gan jue shen jing xi bao liu	725
+成骨母细胞瘤	cheng gu mu xi bao liu	558
+成骨细胞肉瘤	cheng gu xi bao rou liu	573
+成胶质细胞瘤	cheng jiao zhi xi bao liu	704
+成母脂肪细胞瘤	cheng mu zhi fang xi bao liu	657
+成人横纹肌瘤	cheng ren heng wen ji liu	639
+成人细胞白血病淋巴瘤	cheng ren xi bao bai xue bing lin ba liu	846
+成软骨母细胞瘤	cheng ruan gu mu xi bao liu	568
+成软骨母细胞性骨肉瘤	cheng ruan gu mu xi bao xing gu rou liu	567
+成少突神经胶质细胞瘤	cheng shao tu shen jing jiao zhi xi bao liu	702
+成神经管细胞瘤	cheng shen jing guan xi bao liu	703
+成神经胶质母细胞瘤	cheng shen jing jiao zhi mu xi bao liu	696
+成神经母细胞瘤	cheng shen jing mu xi bao liu	712
+成室管膜细胞瘤	cheng shi guan mo xi bao liu	681
+成视网膜母细胞瘤	cheng shi wang mo mu xi bao liu	678
+成松果体母细胞瘤	cheng song guo ti mu xi bao liu	670
+成髓样肌母细胞瘤	cheng sui yang ji mu xi bao liu	719
+成纤维母细胞性骨肉瘤	cheng xian wei mu xi bao xing gu rou liu	565
+成星形母细胞瘤	cheng xing xing mu xi bao liu	695
+成血管母细胞瘤	cheng xue guan mu xi bao liu	820
+成血管母细胞性脑脊膜瘤	cheng xue guan mu xi bao xing nao ji mo liu	761
+成釉母细胞纤维肉瘤	cheng you mu xi bao xian wei rou liu	705
+成釉母细胞纤维牙齿瘤	cheng you mu xi bao xian wei ya chi liu	774
+成釉母细胞牙齿肉瘤	cheng you mu xi bao ya chi rou liu	590
+成釉细胞瘤	cheng you xi bao liu	608
+成釉细胞纤维瘤	cheng you xi bao xian wei liu	760
+除外膀胱乳头状瘤	chu wai pang guang ru tou zhuang liu	58
+丛状神经纤维瘤	cong zhuang shen jing xian wei liu	743
+从状血管瘤	cong zhuang xue guan liu	806
+促结缔组织增生性纤维瘤	cu jie di zu zhi zeng sheng xing xian wei liu	430
+催乳素瘤	cui ru su liu	181
+大脑神经胶质细胞瘤病	da nao shen jing jiao zhi xi bao liu bing	675
+大细胞癌	da xi bao ai	28
+大细胞癌小细胞	da xi bao ai xiao xi bao	42
+大细胞核裂弥漫性恶性淋巴瘤	da xi bao he lie mi man xing e xing lin ba liu	507
+大细胞淋巴瘤	da xi bao lin ba liu	531
+大细胞滤泡性恶性淋巴瘤	da xi bao lv pao xing e xing lin ba liu	518
+大细胞弥漫性恶性淋巴瘤	da xi bao mi man xing e xing lin ba liu	506
+大细胞外周细胞淋巴瘤	da xi bao wai zhou xi bao lin ba liu	448
+大细胞无核裂弥漫性恶性淋巴瘤	da xi bao wu he lie mi man xing e xing lin ba liu	508
+大圆细胞性星形细胞瘤	da yuan xi bao xing xing xing xi bao liu	688
+单纯癌	dan chun ai	155
+胆管癌	dan guan ai	125
+胆管囊腺癌	dan guan nang xian ai	127
+胆管囊腺瘤	dan guan nang xian liu	126
+胆管腺瘤	dan guan xian liu	124
+单核细胞性白血病	dan he xi bao xing bai xue bing	525
+单核细胞样细胞淋巴瘤	dan he xi bao yang xi bao lin ba liu	528
+单克隆丙球蛋白病	dan ke long bing qiu dan bai bing	771
+单形性腺瘤	dan xing xing xian liu	108
+导房管内乳头状瘤	dao fang guan nei ru tou zhuang liu	294
+导管内癌和小叶性原位癌	dao guan nei ai he xiao ye xing yuan wei ai	284
+导管内乳头状瘤病	dao guan nei ru tou zhuang liu bing	295
+导管内乳头状腺癌伴有侵袭	dao guan nei ru tou zhuang xian ai ban you qin xi	292
+导管腺癌	dao guan xian ai	281
+顶泌性腺癌	ding mi xing xian ai	239
+顶泌性腺瘤	ding mi xing xian liu	238
+耵聍腺癌	ding ning xian ai	250
+耵聍腺瘤	ding ning xian liu	249
+多发性骨髓瘤	duo fa xing gu sui liu	541
+多发性内分泌性腺瘤	duo fa xing nei fen mi xing xian liu	217
+多发性神经纤维瘤	duo fa xing shen jing xian wei liu	740
+多发性腺瘤样息肉	duo fa xing xian liu yang xi rou	152
+多发性腺瘤样息肉内的腺癌	duo fa xing xian liu yang xi rou nei de xian ai	153
+多房囊肿	duo fang nang zhong	8
+多角细胞癌	duo jiao xi bao ai	36
+多毛细胞性白血病	duo mao xi bao xing bai xue bing	845
+多胚瘤	duo pei liu	476
+多形细胞性脂肪肉瘤	duo xing xi bao xing zhi fang rou liu	611
+多形性癌	duo xing xing ai	43
+多形型横纹肌肉瘤	duo xing xing heng wen ji rou liu	553
+多形性黄色星形细胞瘤	duo xing xing huang se xing xing xi bao liu	694
+多形性腺瘤	duo xing xing xian liu	649
+多形性腺瘤内的癌	duo xing xing xian liu nei de ai	637
+多型性小细胞外周细胞淋巴瘤	duo xing xing xiao xi bao wai zhou xi bao lin ba liu	515
+多形性脂肪瘤	duo xing xing zhi fang liu	610
+多型性中等细胞	duo xing xing zhong deng xi bao	449
+多中心基底细胞癌	duo zhong xin ji di xi bao ai	61
+恶性布伦纳瘤	e xing bu lun na liu	471
+恶性成软骨母细胞瘤	e xing cheng ruan gu mu xi bao liu	569
+恶性成釉细胞瘤	e xing cheng you xi bao liu	600
+恶性促结缔组织增生性黑色素瘤	e xing cu jie di zu zhi zeng sheng xing hei se su liu	433
+恶性肥大细胞增多症	e xing fei da xi bao zeng duo zheng	543
+恶性高血糖素瘤	e xing gao xue tang su liu	119
+恶性骨巨细胞瘤	e xing gu ju xi bao liu	561
+恶性黑色素瘤	e xing hei se su liu	393
+恶性混合瘤	e xing hun he liu	651
+恶性畸胎瘤	e xing ji tai liu	495
+恶性间皮细胞瘤	e xing jian pi xi bao liu	663
+恶性间叶瘤	e xing jian ye liu	451
+恶性间质细胞瘤	e xing jian zhi xi bao liu	346
+恶性节旁体副神经节瘤	e xing jie pang ti fu shen jing jie liu	352
+恶性巨细胞型肿瘤	e xing ju xi bao xing zhong liu	20
+恶性颗粒细胞瘤	e xing ke li xi bao liu	750
+恶性莱迪细胞瘤	e xing lai di xi bao liu	347
+恶性蓝痣	e xing lan zhi	407
+恶性类癌瘤除外阑尾的	e xing lei ai liu chu wai lan wei de	157
+恶性淋巴瘤	e xing lin ba liu	752
+恶性淋巴瘤性息肉病	e xing lin ba liu xing xi rou bing	505
+恶性瘤细胞	e xing liu xi bao	30
+恶性卵巢甲状腺肿	e xing luan chao jia zhuang xian zhong	785
+恶性卵泡细胞瘤	e xing luan pao xi bao liu	330
+恶性脉络丛乳头状瘤	e xing mai luo cong ru tou zhuang liu	679
+恶性男性母细胞瘤	e xing nan xing mu xi bao liu	299
+恶性脑脊膜瘤	e xing nao ji mo liu	729
+恶性泡膜细胞瘤	e xing pao mo xi bao liu	230
+恶性葡萄胎	e xing pu tao tai	780
+恶性上皮瘤	e xing shang pi liu	27
+恶性上皮细胞瘤	e xing shang pi xi bao liu	22
+恶性上皮样间皮瘤	e xing shang pi yang jian pi liu	479
+恶性上皮样血管内皮瘤	e xing shang pi yang xue guan nei pi liu	805
+恶性神经胶质细胞瘤	e xing shen jing jiao zhi xi bao liu	674
+恶性神经鞘瘤	e xing shen jing qiao liu	772
+恶性肾上腺外节体副神经节瘤	e xing shen shang xian wai jie ti fu shen jing jie liu	360
+恶性嗜铬细胞瘤	e xing shi ge xi bao liu	362
+恶性嗜银性类癌瘤	e xing shi yin xing lei ai liu	172
+恶性梭形细胞型肿瘤	e xing suo xing xi bao xing zhong liu	19
+恶性特里同瘤	e xing te li tong liu	734
+恶性退行性黑色素瘤	e xing tui xing xing hei se su liu	383
+恶性胃泌素瘤	e xing wei mi su liu	121
+恶性纤维间皮瘤	e xing xian wei jian pi liu	477
+恶性纤维组织细胞瘤	e xing xian wei zu zhi xi bao liu	446
+恶性小细胞型肿瘤	e xing xiao xi bao xing zhong liu	17
+恶性胸腺瘤	e xing xiong xian liu	289
+恶性血管内皮细胞瘤	e xing xue guan nei pi xi bao liu	810
+恶性血管外皮细胞瘤	e xing xue guan wai pi xi bao liu	827
+恶性牙齿源性瘤	e xing ya chi yuan xing liu	582
+恶性叶状瘤	e xing ye zhuang liu	466
+恶性叶状囊肉瘤	e xing ye zhuang nang rou liu	467
+恶性胰岛素瘤	e xing yi dao su liu	159
+恶性圆柱瘤	e xing yuan zhu liu	137
+恶性肢端着色斑性黑瘤	e xing zhi duan zhe se ban xing hei liu	233
+恶性肿瘤	e xing zhong liu	10
+恶性中肾瘤	e xing zhong shen liu	789
+恶性子宫内膜样腺纤维瘤	e xing zi gong nei mo yang xian xian wei liu	231
+恶性组织细胞增多病	e xing zu zhi xi bao zeng duo bing	532
+发育不良痣	fa yu bu liang zhi	387
+非白血性白血病	fei bai xie xing bai xue bing	838
+非白血性单核细胞白血病	fei bai xie xing dan he xi bao bai xue bing	863
+非白血性淋巴样白血病	fei bai xie xing lin ba yang bai xue bing	857
+非白血性髓样粒细胞性白血病	fei bai xie xing sui yang li xi bao xing bai xue bing	884
+肥大细胞白血病	fei da xi bao bai xue bing	864
+肥大细胞瘤	fei da xi bao liu	527
+肥大细胞肉瘤	fei da xi bao rou liu	542
+非典型性纤维组织细胞瘤	fei dian xing xing xian wei zu zhi xi bao liu	406
+非霍奇金氏型恶性淋巴瘤	fei huo qi jin shi xing e xing lin ba liu	753
+非角化的大细胞鳞状细胞癌	fei jiao hua de da xi bao lin zhuang xi bao ai	31
+非角化的小细胞鳞状细胞癌	fei jiao hua de xiao xi bao lin zhuang xi bao ai	101
+非浸润性导房管内癌	fei jin run xing dao fang guan nei ai	280
+非浸润性导管内乳头状腺癌	fei jin run xing dao guan nei ru tou zhuang xian ai	291
+非浸润性粉刺癌	fei jin run xing fen ci ai	286
+非浸润性囊内癌	fei jin run xing nang nei ai	293
+肺泡细胞癌	fei pao xi bao ai	166
+肺泡腺癌	fei pao xian ai	169
+肺泡腺瘤	fei pao xian liu	168
+肺胚细胞瘤	fei pei xi bao liu	501
+肺腺瘤病	fei xian liu bing	165
+非血管性痣	fei xue guan xing zhi	370
+非脂肪性网状细胞增多	fei zhi fang xing wang zhuang xi bao zeng duo	547
+粉刺癌	fen ci ai	285
+腹部纤维瘤病	fu bu xian wei liu bing	429
+复合性类癌	fu he xing lei ai	145
+复合性牙齿瘤	fu he xing ya chi liu	798
+复合痣	fu he zhi	397
+副交感神经节旁体副神经节瘤	fu jiao gan shen jing jie pang ti fu shen jing jie liu	354
+富色素变异肾上腺皮质腺瘤	fu se su bian yi shen shang xian pi zhi xian liu	222
+富糖原癌	fu tang yuan ai	212
+富脂质癌	fu zhi zhi ai	228
+钙化上皮瘤	gai hua shang pi liu	100
+钙化上皮性牙源性瘤	gai hua shang pi xing ya yuan xing liu	666
+钙化性牙齿源性囊肿	gai hua xing ya chi yuan xing nang zhong	592
+感觉神经上皮瘤	gan jue shen jing shang pi liu	726
+感觉神经细胞瘤	gan jue shen jing xi bao liu	724
+肝胚母细胞瘤	gan pei mu xi bao liu	630
+肝细胞癌	gan xi bao ai	116
+肝细胞胆管瘤	gan xi bao dan guan liu	881
+肝细胞腺瘤	gan xi bao xian liu	144
+杆状肉瘤	gan zhuang rou liu	483
+高分化型滤泡性腺癌	gao fen hua xing lv pao xing xian ai	210
+高分化型脂肪肉瘤	gao fen hua xing zhi fang rou liu	661
+高血糖素瘤	gao xue tang su liu	118
+骨化性纤维瘤	gu hua xing xian wei liu	859
+骨巨细胞瘤	gu ju xi bao liu	589
+骨瘤	gu liu	775
+骨膜纤维瘤	gu mo xian wei liu	422
+骨膜纤维肉瘤	gu mo xian wei rou liu	423
+骨佩吉特氏病内的骨肉瘤	gu pei ji te shi bing nei de gu rou liu	554
+骨肉瘤	gu rou liu	604
+骨软骨瘤	gu ruan gu liu	560
+骨软骨瘤病	gu ruan gu liu bing	603
+骨软骨粘液肉瘤	gu ruan gu nian ye rou liu	606
+骨软骨肉瘤	gu ruan gu rou liu	605
+骨髓硬化伴有骨髓化生	gu sui ying hua ban you gu sui hua sheng	858
+骨髓增生异常综合征	gu sui zeng sheng yi chang zong he zheng	880
+骨髓脂肪瘤	gu sui zhi fang liu	598
+骨样骨瘤	gu yang gu liu	557
+骨源性肉瘤	gu yuan xing rou liu	607
+管状绒毛腺瘤	guan zhuang rong mao xian liu	176
+管状绒毛状腺瘤内的腺瘤	guan zhuang rong mao zhuang xian liu nei de xian liu	178
+管状绒毛状腺瘤内的原位腺癌	guan zhuang rong mao zhuang xian liu nei de yuan wei xian ai	177
+管状腺癌	guan zhuang xian ai	128
+管状腺瘤	guan zhuang xian liu	158
+哈奇森黑素雀斑	ha qi sen hei su que ban	418
+海绵状成神经母细胞瘤	hai mian zhuang cheng shen jing mu xi bao liu	717
+海绵状淋巴管瘤	hai mian zhuang lin ba guan liu	826
+海绵状血管瘤	hai mian zhuang xue guan liu	792
+汗管瘤	han guan liu	245
+汗腺瘤	han xian liu	236
+汗腺囊瘤	han xian nang liu	243
+汗腺腺癌	han xian xian ai	237
+汗腺腺瘤	han xian xian liu	235
+何杰金氏病	he jie jin shi bing	768
+黑变病的神经纤维瘤	hei bian bing de shen jing xian wei liu	742
+黑变病神经外胚瘤	hei bian bing shen jing wai pei liu	671
+黑色素痣	hei se su zhi	371
+横纹肌瘤	heng wen ji liu	578
+横纹肌肉瘤	heng wen ji rou liu	622
+红白血病	hong bai xue bing	848
+滑膜肉瘤	hua mo rou liu	485
+环层小体病	huan ceng xiao ti bing	368
+黄体化泡膜细胞瘤	huang ti hua pao mo xi bao liu	311
+黄体瘤	huang ti liu	328
+混合细胞肾上腺皮质腺瘤	hun he xi bao shen shang xian pi zhi xian liu	225
+混合细胞腺癌	hun he xi bao xian ai	206
+混合细胞腺瘤	hun he xi bao xian liu	205
+混合细胞型霍奇金氏病	hun he xi bao xing huo qi jin shi bing	735
+混合型横纹肌肉瘤	hun he xing heng wen ji rou liu	596
+混合型基底鳞状细胞癌	hun he xing ji di lin zhuang xi bao ai	78
+混合性瘤	hun he xing liu	664
+混合性神经胶质细胞瘤	hun he xing shen jing jiao zhi xi bao liu	733
+混合性生殖细胞瘤	hun he xing sheng zhi xi bao liu	814
+混合性嗜酸细胞嗜碱细胞癌	hun he xing shi suan xi bao shi jian xi bao ai	185
+混合性嗜酸细胞嗜碱细胞腺瘤	hun he xing shi suan xi bao shi jian xi bao xian liu	114
+混合性牙齿瘤	hun he xing ya chi liu	587
+混合性胰岛细胞和外分泌腺癌	hun he xing yi dao xi bao he wai fen mi xian ai	122
+混合性脂肪肉瘤	hun he xing zhi fang rou liu	612
+霍奇金氏病	huo qi jin shi bing	769
+霍奇金氏副肉芽肿	huo qi jin shi fu rou ya zhong	762
+霍奇金氏肉瘤	huo qi jin shi rou liu	764
+霍奇金氏肉芽肿	huo qi jin shi rou ya zhong	763
+基底鳞状细胞癌	ji di lin zhuang xi bao ai	79
+基底细胞癌	ji di xi bao ai	75
+基底细胞瘤	ji di xi bao liu	72
+基底细胞腺癌	ji di xi bao xian ai	110
+基底细胞腺瘤	ji di xi bao xian liu	109
+基底细胞样癌	ji di xi bao yang ai	97
+继发性腹膜假粘液瘤	ji fa xing fu mo jia nian ye liu	274
+肌瘤	ji liu	618
+肌内血管瘤	ji nei xue guan liu	807
+肌内脂肪瘤	ji nei zhi fang liu	613
+肌肉瘤	ji rou liu	616
+肌上皮瘤	ji shang pi liu	461
+脊索瘤	ji suo liu	673
+畸胎癌	ji tai ai	496
+畸胎瘤	ji tai liu	494
+畸胎瘤伴有恶性变	ji tai liu ban you e xing bian	779
+畸胎样髓上皮瘤	ji tai yang sui shang pi liu	715
+棘细胞癌	ji xi bao ai	56
+肌纤维瘤病	ji xian wei liu bing	444
+急性白血病	ji xing bai xue bing	834
+极性成胶质细胞瘤	ji xing cheng jiao zhi xi bao liu	676
+急性单核细胞白血病	ji xing dan he xi bao bai xue bing	526
+急性骨髓纤维化	ji xing gu sui xian wei hua	868
+急性红细胞增多症	ji xing hong xi bao zeng duo zheng	849
+急性粒单核细胞白血病	ji xing li dan he xi bao bai xue bing	549
+急性淋巴细胞白血病	ji xing lin ba xi bao bai xue bing	840
+急性全骨髓增殖症	ji xing quan gu sui zeng zhi zheng	867
+急性髓样粒细胞性白血病	ji xing sui yang li xi bao xing bai xue bing	853
+畸形细胞性肉瘤	ji xing xi bao xing rou liu	708
+急性婴儿网状内皮细胞增多症	ji xing ying er wang zhuang nei pi xi bao zeng duo zheng	535
+急性婴儿网状内皮细胞增殖	ji xing ying er wang zhuang nei pi xi bao zeng zhi	472
+急性原巨核细胞白血病	ji xing yuan ju he xi bao bai xue bing	865
+急性早幼粒细胞白血病	ji xing zao you li xi bao bai xue bing	844
+假肉瘤性癌	jia rou liu xing ai	35
+假腺性鳞状细胞癌	jia xian xing lin zhuang xi bao ai	63
+甲状腺肿性类癌	jia zhuang xian zhong xing lei ai	776
+家族性息肉病	jia zu xing xi rou bing	148
+家族性腺瘤病或遗传性息肉病	jia zu xing xian liu bing huo yi chuan xing xi rou bing	147
+间变的癌间变型癌	jian bian de ai jian bian xing ai	60
+间变的精原细胞瘤	jian bian de jing yuan xi bao liu	486
+间变的室管膜瘤	jian bian de shi guan mo liu	682
+间变的星形细胞瘤	jian bian de xing xing xi bao liu	686
+间变型少突神经胶质母细胞瘤	jian bian xing shao tu shen jing jiao zhi mu xi bao liu	701
+间叶瘤	jian ye liu	450
+间叶性肉瘤	jian ye xing rou liu	410
+间质软骨肉瘤	jian zhi ruan gu rou liu	571
+间质细胞瘤	jian zhi xi bao liu	344
+间质性子宫异位	jian zhi xing zi gong yi wei	575
+浆细胞白血病	jiang xi bao bai xue bing	847
+浆细胞瘤	jiang xi bao liu	540
+浆液性表面乳头状癌	jiang ye xing biao mian ru tou zhuang ai	264
+浆液性表面乳头状瘤	jiang ye xing biao mian ru tou zhuang liu	263
+浆液性囊腺癌	jiang ye xing nang xian ai	240
+浆液性囊腺瘤	jiang ye xing nang xian liu	242
+浆液性腺纤维瘤	jiang ye xing xian xian wei liu	475
+交感神经节旁体副神经节瘤	jiao gan shen jing jie pang ti fu shen jing jie liu	338
+角化的鳞状细胞癌	jiao hua de lin zhuang xi bao ai	85
+交界恶性布伦纳瘤	jiao jie e xing bu lun na liu	454
+交界恶性浆液性囊腺瘤	jiao jie e xing jiang ye xing nang xian liu	365
+交界恶性粘液性囊腺瘤	jiao jie e xing nian ye xing nang xian liu	445
+交界恶性乳头状浆液性囊腺瘤	jiao jie e xing ru tou zhuang jiang ye xing nang xian liu	265
+交界恶性乳头状囊腺瘤	jiao jie e xing ru tou zhuang nang xian liu	254
+交界恶性乳头状粘液性囊腺瘤	jiao jie e xing ru tou zhuang nian ye xing nang xian liu	271
+交界恶性子宫内膜样腺瘤	jiao jie e xing zi gong nei mo yang xian liu	171
+交界恶性子宫内膜样腺纤维瘤	jiao jie e xing zi gong nei mo yang xian xian wei liu	270
+交界痣	jiao jie zhi	390
+交界痣内恶性黑色素瘤	jiao jie zhi nei e xing hei se su liu	391
+胶样腺瘤	jiao yang xian liu	213
+胶状胶样癌	jiao zhuang jiao yang ai	1
+结肠腺瘤样息肉病	jie chang xian liu yang xi rou bing	149
+结肠腺瘤样息肉病内的腺癌	jie chang xian liu yang xi rou bing nei de xian ai	151
+结节性黑色素瘤	jie jie xing hei se su liu	379
+结节硬化型富细胞相霍奇金氏病	jie jie ying hua xing fu xi bao xiang huo qi jin shi bing	766
+结节硬化型混合细胞性	jie jie ying hua xing hun he xi bao xing	767
+结节硬化型霍奇金氏病	jie jie ying hua xing huo qi jin shi bing	765
+结节硬化型淋巴细胞减少性	jie jie ying hua xing lin ba xi bao jian shao xing	770
+结膜痣	jie mo zhi	372
+节旁体副神经节瘤	jie pang ti fu shen jing jie liu	353
+筋膜纤维瘤	jin mo xian wei liu	424
+筋膜纤维肉瘤	jin mo xian wei rou liu	425
+近皮质骨肉瘤	jin pi zhi gu rou liu	556
+近皮质软骨瘤	jin pi zhi ruan gu liu	566
+近皮质软骨肉瘤	jin pi zhi ruan gu rou liu	552
+浸润性导管癌	jin run xing dao guan ai	268
+浸润性导管和小叶性癌	jin run xing dao guan he xiao ye xing ai	303
+浸润性小管性癌	jin run xing xiao guan xing ai	305
+浸润性脂肪瘤	jin run xing zhi fang liu	614
+颈动脉体瘤	jing dong mai ti liu	358
+颈静脉血管球瘤	jing jing mai xue guan qiu liu	356
+静脉性血管瘤	jing mai xing xue guan liu	793
+精母细胞性精原细胞瘤	jing mu xi bao xing jing yuan xi bao liu	487
+精原细胞瘤	jing yuan xi bao liu	632
+巨大色素痣内的恶性黑色素瘤	ju da se su zhi nei de e xing hei se su liu	399
+巨大纤维腺瘤	ju da xian wei xian liu	447
+巨滤泡性腺瘤	ju lv pao xing xian liu	117
+巨色素痣	ju se su zhi	398
+巨细胞癌	ju xi bao ai	33
+巨细胞成神经胶质母细胞瘤	ju xi bao cheng shen jing jiao zhi mu xi bao liu	697
+巨细胞和梭形细胞癌	ju xi bao he suo xing xi bao ai	16
+巨细胞肉瘤除外骨的	ju xi bao rou liu chu wai gu de	415
+巨细胞痣	ju xi bao zhi	386
+巨形牙齿骨骨质瘤	ju xing ya chi gu gu zhi liu	602
+卡波西氏肉瘤	ka bo xi shi rou liu	635
+凯拉氏增殖性红斑龟头原位癌	kai la shi zeng zhi xing hong ban gui tou yuan wei ai	66
+克拉特斯金瘤	ke la te si jin liu	186
+颗粒细胞癌	ke li xi bao ai	184
+颗粒细胞瘤	ke li xi bao liu	749
+库勃克鲁肯伯格氏病	ku bo ke lu ken bo ge shi bing	278
+枯否氏细胞肉瘤	ku fou shi xi bao rou liu	795
+溃疡癌变	kui yang ai bian	11
+莱迪细胞瘤	lai di xi bao liu	345
+莱特尔西维氏病	lai te er xi wei shi bing	538
+阑尾的类癌瘤	lan wei de lei ai liu	156
+蓝痣	lan zhi	408
+累塞氏病网状细胞增多症	lei sai shi bing wang zhuang xi bao zeng duo zheng	537
+棱形细胞癌	leng xing xi bao ai	34
+联合性肝细胞癌和胆管癌	lian he xing gan xi bao ai he dan guan ai	133
+良性成牙齿骨质母细胞瘤	liang xing cheng ya chi gu zhi mu xi bao liu	585
+良性肝细胞瘤	liang xing gan xi bao liu	129
+良性黑色素瘤	liang xing hei se su liu	373
+良性滑膜瘤	liang xing hua mo liu	469
+良性或恶性未肯定瘤细胞	liang xing huo e xing wei ken ding liu xi bao	15
+良性或恶性未肯定肿瘤	liang xing huo e xing wei ken ding zhong liu	9
+良性畸胎瘤	liang xing ji tai liu	493
+良性间皮细胞瘤	liang xing jian pi xi bao liu	550
+良性间叶瘤	liang xing jian ye liu	489
+良性间质细胞瘤	liang xing jian zhi xi bao liu	342
+良性莱迪细胞瘤	liang xing lai di xi bao liu	343
+良性瘤细胞	liang xing liu xi bao	14
+良性男性母细胞瘤	liang xing nan xing mu xi bao liu	335
+两性胚母细胞瘤	liang xing pei mu xi bao liu	419
+良性软组织肿瘤	liang xing ruan zu zhi zhong liu	409
+良性上皮瘤	liang xing shang pi liu	26
+良性上皮样间皮瘤	liang xing shang pi yang jian pi liu	478
+良性上皮肿瘤	liang xing shang pi zhong liu	5
+良性纤维间皮瘤	liang xing xian wei jian pi liu	579
+良性胸腺瘤	liang xing xiong xian liu	321
+良性血管内皮瘤	liang xing xue guan nei pi liu	822
+良性血管外皮细胞瘤	liang xing xue guan wai pi xi bao liu	829
+良性牙齿源性瘤	liang xing ya chi yuan xing liu	860
+良性叶状瘤	liang xing ye zhuang liu	464
+良性硬纤维瘤	liang xing ying xian wei liu	432
+良性肿瘤	liang xing zhong liu	7
+良性中肾瘤	liang xing zhong shen liu	773
+淋巴管肌瘤	lin ba guan ji liu	801
+淋巴管肌瘤病	lin ba guan ji liu bing	856
+淋巴管瘤	lin ba guan liu	821
+淋巴管内性间质异位症	lin ba guan nei xing jian zhi yi wei zheng	646
+淋巴管肉瘤	lin ba guan rou liu	824
+淋巴浆细胞性恶性淋巴瘤	lin ba jiang xi bao xing e xing lin ba liu	473
+淋巴瘤	lin ba liu	534
+淋巴肉瘤	lin ba rou liu	754
+淋巴肉瘤细胞白血病	lin ba rou liu xi bao bai xue bing	851
+淋巴上皮癌	lin ba shang pi ai	70
+淋巴上皮样淋巴瘤	lin ba shang pi yang lin ba liu	511
+淋巴细胞减少型霍奇金氏病	lin ba xi bao jian shao xing huo qi jin shi bing	759
+淋巴细胞为主型霍奇金氏病	lin ba xi bao wei zhu xing huo qi jin shi bing	748
+淋巴样白血病	lin ba yang bai xue bing	839
+淋巴组织增生病	lin ba zu zhi zeng sheng bing	875
+淋巴组织增生性疾病	lin ba zu zhi zeng sheng xing ji bing	832
+鳞状细胞癌	lin zhuang xi bao ai	57
+鳞状细胞乳头状瘤	lin zhuang xi bao ru tou zhuang liu	49
+鳞状细胞原位癌	lin zhuang xi bao yuan wei ai	54
+鳞状牙齿源性瘤	lin zhuang ya chi yuan xing liu	599
+颅咽管瘤	lu yan guan liu	667
+卵巢甲状腺肿	luan chao jia zhuang xian zhong	787
+卵巢门细胞瘤	luan chao men xi bao liu	348
+卵巢脂质细胞瘤	luan chao zhi zhi xi bao liu	364
+卵泡细胞瘤	luan pao xi bao liu	329
+卵泡细胞膜细胞瘤	luan pao xi bao mo xi bao liu	320
+滤泡性变异乳头状癌	lv pao xing bian yi ru tou zhuang ai	215
+滤泡性恶性淋巴瘤	lv pao xing e xing lin ba liu	514
+滤泡性腺癌	lv pao xing xian ai	209
+滤泡性腺瘤	lv pao xing xian liu	208
+脉络丛乳头状瘤	mai luo cong ru tou zhuang liu	665
+慢性白血病	man xing bai xue bing	837
+慢性单核细胞白血病	man xing dan he xi bao bai xue bing	862
+慢性骨髓增生病	man xing gu sui zeng sheng bing	872
+慢性红细胞增多症	man xing hong xi bao zeng duo zheng	850
+慢性粒单核细胞白血病	man xing li dan he xi bao bai xue bing	842
+慢性淋巴细胞白血病	man xing lin ba xi bao bai xue bing	883
+慢性髓样粒细胞性白血病	man xing sui yang li xi bao xing bai xue bing	855
+毛发基质瘤	mao fa ji zhi liu	87
+毛发毛囊瘤	mao fa mao nang liu	83
+毛发上皮瘤	mao fa shang pi liu	82
+毛发神经膜瘤	mao fa shen jing mo liu	84
+毛基母质瘤	mao ji mu zhi liu	71
+毛基质癌	mao ji zhi ai	6
+毛细胞性星形细胞瘤	mao xi bao xing xing xing xi bao liu	706
+毛细淋巴管瘤	mao xi lin ba guan liu	825
+毛细血管扩张性骨肉瘤	mao xi xue guan kuo zhang xing gu rou liu	594
+毛细血管血管瘤	mao xi xue guan xue guan liu	808
+毛痣	mao zhi	374
+梅克尔细胞癌	mei ke er xi bao ai	164
+弥漫型癌	mi man xing ai	107
+弥漫性恶性淋巴瘤	mi man xing e xing lin ba liu	757
+免疫母细胞性恶性淋巴瘤	mian yi mu xi bao xing e xing lin ba liu	510
+免疫增生性疾病	mian yi zeng sheng xing ji bing	544
+免疫增生性小肠病	mian yi zeng sheng xing xiao chang bing	869
+苗勒氏混合瘤	miao le shi hun he liu	653
+明细胞肉瘤除外肾的明细胞肉瘤	ming xi bao rou liu chu wai shen de ming xi bao rou liu	634
+明细胞肾上腺皮脂腺瘤	ming xi bao shen shang xian pi zhi xian liu	223
+明细胞腺癌	ming xi bao xian ai	194
+明细胞腺瘤	ming xi bao xian liu	193
+明细胞腺纤维瘤	ming xi bao xian xian wei liu	198
+男性母细胞瘤	nan xing mu xi bao liu	336
+囊内癌	nang nei ai	324
+囊内乳头状腺瘤	nang nei ru tou zhuang xian liu	302
+囊腺癌	nang xian ai	283
+囊腺瘤	nang xian liu	253
+囊性间皮瘤	nang xing jian pi liu	498
+囊性淋巴管瘤	nang xing lin ba guan liu	817
+脑脊膜瘤	nao ji mo liu	727
+脑脊膜瘤病	nao ji mo liu bing	728
+脑脊膜肉瘤病	nao ji mo rou liu bing	738
+脑膜瘤样脑脊膜瘤	nao mo liu yang nao ji mo liu	730
+内翻性乳头状瘤	nei fan xing ru tou zhuang liu	52
+内翻性移行细胞乳头状瘤	nei fan xing yi hang xi bao ru tou zhuang liu	94
+内胚窦瘤	nei pei dou liu	490
+粘液表皮样癌	nian ye biao pi yang ai	252
+粘液表皮样瘤	nian ye biao pi yang liu	251
+粘液瘤	nian ye liu	437
+粘液肉瘤	nian ye rou liu	438
+粘液乳头状室管膜瘤	nian ye ru tou zhuang shi guan mo liu	684
+粘液性囊腺癌	nian ye xing nang xian ai	267
+粘液性囊腺瘤	nian ye xing nang xian liu	266
+粘液性腺纤维瘤	nian ye xing xian xian wei liu	462
+粘液样粘液腺癌	nian ye yang nian ye xian ai	2
+粘液样平滑肌内瘤	nian ye yang ping hua ji nei liu	576
+粘液样软骨肉瘤	nian ye yang ruan gu rou liu	570
+粘液样脂肪肉瘤	nian ye yang zhi fang rou liu	662
+帕西尼氏瘤	pa xi ni shi liu	369
+膀胱上皮乳头状瘤软性乳头状瘤	pang guang shang pi ru tou zhuang liu ruan xing ru tou zhuang liu	89
+膀胱息肉	pang guang xi rou	90
+泡膜细胞瘤	pao mo xi bao liu	337
+胚胎性癌	pei tai xing ai	503
+胚胎性癌肉瘤	pei tai xing ai rou liu	463
+胚胎型横纹肌肉瘤	pei tai xing heng wen ji rou liu	640
+胚胎性肉瘤	pei tai xing rou liu	452
+胚胎性腺瘤	pei tai xing xian liu	135
+皮肤附属器癌	pi fu fu shu qi ai	234
+皮肤附属器腺瘤	pi fu fu shu qi xian liu	232
+皮肤淋巴瘤	pi fu lin ba liu	491
+皮肤纤维瘤	pi fu xian wei liu	434
+皮肤纤维肉瘤	pi fu xian wei rou liu	435
+皮革状胃硬变性胃炎	pi ge zhuang wei ying bian xing wei yan	105
+皮内痣	pi nei zhi	396
+皮样囊肿	pi yang nang zhong	597
+皮样囊肿伴有恶性变	pi yang nang zhong ban you e xing bian	778
+皮脂腺癌	pi zhi xian ai	248
+皮脂腺腺瘤	pi zhi xian xian liu	247
+平滑肌瘤	ping hua ji liu	621
+平滑肌瘤病	ping hua ji liu bing	636
+平滑肌肉瘤	ping hua ji rou liu	623
+平滑肌肿瘤	ping hua ji zhong liu	577
+葡萄胎	pu tao tai	777
+葡萄状蔓状血管瘤	pu tao zhuang man zhuang xue guan liu	794
+葡萄状肉瘤	pu tao zhuang rou liu	641
+气球细胞黑色素瘤	qi qiu xi bao hei se su liu	381
+气球细胞痣	qi qiu xi bao zhi	255
+奇异性平滑肌瘤	qi yi xing ping hua ji liu	628
+侵蚀性纤维瘤病	qin shi xing xian wei liu bing	428
+侵袭性成骨细胞瘤	qin xi xing cheng gu xi bao liu	574
+侵袭性葡萄胎	qin xi xing pu tao tai	781
+球旁细胞瘤	qiu pang xi bao liu	218
+球形细胞癌	qiu xing xi bao ai	23
+去分化性脂肪肉瘤	qu fen hua xing zhi fang rou liu	631
+绒毛膜癌伴有畸胎瘤	rong mao mo ai ban you ji tai liu	782
+绒毛膜癌伴有其他生殖细胞成份	rong mao mo ai ban you qi ta sheng zhi xi bao cheng fen	783
+绒毛膜上皮癌滋养细胞癌	rong mao mo shang pi ai zi yang xi bao ai	823
+绒毛状腺癌	rong mao zhuang xian ai	175
+绒毛状腺瘤	rong mao zhuang xian liu	130
+绒毛状腺瘤内的腺癌	rong mao zhuang xian liu nei de xian ai	174
+绒毛状腺瘤内的原位腺癌	rong mao zhuang xian liu nei de yuan wei xian ai	214
+肉瘤	rou liu	411
+肉瘤病转移性肉瘤	rou liu bing zhuan yi xing rou liu	413
+乳房的佩吉特病和导管内癌	ru fang de pei ji te bing he dao guan nei ai	290
+乳房分泌性癌	ru fang fen mi xing ai	287
+乳房佩吉特病乳头乳晕炎性癌变	ru fang pei ji te bing ru tou ru yun yan xing ai bian	301
+乳房佩吉特氏病和浸润性管性癌	ru fang pei ji te shi bing he jin run xing guan xing ai	300
+乳房幼年性癌	ru fang you nian xing ai	288
+乳头的腺瘤	ru tou de xian liu	296
+乳头状癌	ru tou zhuang ai	227
+乳头状汗管腺瘤	ru tou zhuang han guan xian liu	244
+乳头状汗腺腺瘤	ru tou zhuang han xian xian liu	229
+乳头状浆液性囊腺癌	ru tou zhuang jiang ye xing nang xian ai	261
+乳头状浆液性囊腺瘤	ru tou zhuang jiang ye xing nang xian liu	260
+乳头状鳞状细胞癌	ru tou zhuang lin zhuang xi bao ai	51
+乳头状瘤	ru tou zhuang liu	59
+乳头状瘤病	ru tou zhuang liu bing	53
+乳头状囊腺癌	ru tou zhuang nang xian ai	258
+乳头状囊腺瘤	ru tou zhuang nang xian liu	332
+乳头状囊性瘤	ru tou zhuang nang xing liu	259
+乳头状脑脊膜瘤	ru tou zhuang nao ji mo liu	737
+乳头状粘液性囊腺癌	ru tou zhuang nian ye xing nang xian ai	269
+乳头状粘液性囊腺瘤	ru tou zhuang nian ye xing nang xian liu	282
+乳头状乳头状瘤样痣	ru tou zhuang ru tou zhuang liu yang zhi	375
+乳头状室管膜瘤	ru tou zhuang shi guan mo liu	683
+乳头状腺癌	ru tou zhuang xian ai	161
+乳头状腺瘤	ru tou zhuang xian liu	170
+乳头状移行细胞癌	ru tou zhuang yi hang xi bao ai	99
+乳头状原位癌	ru tou zhuang yuan wei ai	44
+乳晕下管性乳头状瘤病	ru yun xia guan xing ru tou zhuang liu bing	310
+软骨瘤	ruan gu liu	562
+软骨瘤病	ruan gu liu bing	563
+软骨粘液肉瘤	ruan gu nian ye rou liu	580
+软骨粘液样纤维瘤	ruan gu nian ye yang xian wei liu	572
+软骨肉瘤	ruan gu rou liu	564
+软组织恶性巨细胞瘤	ruan zu zhi e xing ju xi bao liu	843
+软组织巨细胞瘤	ruan zu zhi ju xi bao liu	559
+软组织肉瘤	ruan zu zhi rou liu	412
+软组织腺泡状肉瘤	ruan zu zhi xian pao zhuang rou liu	751
+塞尔托利细胞癌	sai er tuo li xi bao ai	380
+塞尔托利细胞瘤	sai er tuo li xi bao liu	351
+塞尔托利细胞瘤伴有脂质贮积	sai er tuo li xi bao liu ban you zhi zhi zhu ji	340
+塞扎瑞氏病塞乍里病	sai zha rui shi bing sai zha li bing	521
+色素沉着性隆凸性皮肤纤维肉瘤	se su chen zhuo xing long tu xing pi fu xian wei rou liu	436
+色素性基底细胞癌	se su xing ji di xi bao ai	74
+色素痣	se su zhi	376
+沙粒体性脑脊膜瘤	sha li ti xing nao ji mo liu	802
+筛状癌	shai zhuang ai	139
+上皮肌上皮癌	shang pi ji shang pi ai	315
+上皮样平滑肌瘤	shang pi yang ping hua ji liu	625
+上皮样平滑肌肉瘤	shang pi yang ping hua ji rou liu	626
+上皮样细胞和梭形细胞痣	shang pi yang xi bao he suo xing xi bao zhi	400
+上皮样细胞黑色素瘤	shang pi yang xi bao hei se su liu	402
+上皮样细胞肉瘤	shang pi yang xi bao rou liu	417
+上皮样细胞型滑膜肉瘤	shang pi yang xi bao xing hua mo rou liu	456
+上皮样细胞痣	shang pi yang xi bao zhi	401
+上皮样血管瘤	shang pi yang xue guan liu	796
+上皮样血管内皮瘤	shang pi yang xue guan nei pi liu	690
+少突神经胶质细胞瘤	shao tu shen jing jiao zhi xi bao liu	700
+肾的明细胞肉瘤	shen de ming xi bao rou liu	643
+神经胶质母细胞肉瘤	shen jing jiao zhi mu xi bao rou liu	698
+神经节成神经母细胞瘤	shen jing jie cheng shen jing mu xi bao liu	710
+神经节瘤	shen jing jie liu	709
+神经节瘤病	shen jing jie liu bing	711
+神经节神经胶质瘤	shen jing jie shen jing jiao zhi liu	718
+神经节细胞节旁体瘤	shen jing jie xi bao jie pang ti liu	355
+神经瘤	shen jing liu	707
+神经内分泌癌	shen jing nei fen mi ai	163
+神经鞘瘤	shen jing qiao liu	744
+神经鞘膜瘤病	shen jing qiao mo liu bing	745
+神经鞘粘液瘤	shen jing qiao nian ye liu	732
+神经上皮瘤	shen jing shang pi liu	716
+神经细胞瘤	shen jing xi bao liu	758
+神经纤维瘤	shen jing xian wei liu	739
+神经纤维肉瘤	shen jing xian wei rou liu	741
+神经痣	shen jing zhi	385
+肾胚母细胞瘤	shen pei mu xi bao liu	656
+肾上腺皮质细胞癌	shen shang xian pi zhi xi bao ai	220
+肾上腺皮质腺瘤	shen shang xian pi zhi xian liu	219
+肾上腺剩余组织瘤	shen shang xian sheng yu zu zhi liu	350
+肾上腺外节旁体副神经节瘤	shen shang xian wai jie pang ti fu shen jing jie liu	359
+肾上腺样瘤	shen shang xian yang liu	196
+肾细胞癌	shen xi bao ai	197
+生殖细胞瘤	sheng zhi xi bao liu	488
+嗜铬母细胞瘤副神经节瘤	shi ge mu xi bao liu fu shen jing jie liu	363
+嗜铬细胞瘤	shi ge xi bao liu	361
+室管膜瘤	shi guan mo liu	680
+室管膜下巨细胞星形细胞瘤	shi guan mo xia ju xi bao xing xing xi bao liu	677
+室管膜下神经胶质细胞瘤	shi guan mo xia shen jing jiao zhi xi bao liu	691
+嗜碱细胞癌	shi jian xi bao ai	191
+嗜碱细胞白血病	shi jian xi bao bai xue bing	624
+嗜碱细胞腺瘤	shi jian xi bao xian liu	190
+嗜碱性癌	shi jian xing ai	192
+施明克氏癌鼻咽癌	shi ming ke shi ai bi yan ai	86
+施奈德乳头状瘤	shi nai de ru tou zhuang liu	93
+施奈德氏癌	shi nai de shi ai	95
+嗜酸细胞癌	shi suan xi bao ai	183
+嗜酸细胞白血病	shi suan xi bao bai xue bing	524
+嗜酸细胞腺瘤	shi suan xi bao xian liu	182
+嗜酸性腺癌	shi suan xing xian ai	173
+嗜酸性腺瘤	shi suan xing xian liu	216
+实体癌	shi ti ai	154
+嗜银性类癌瘤	shi yin xing lei ai liu	131
+双相分化型恶性间皮瘤	shuang xiang fen hua xing e xing jian pi liu	481
+双相分化型滑膜肉瘤	shuang xiang fen hua xing hua mo rou liu	633
+双相分化型良性间皮瘤	shuang xiang fen hua xing liang xing jian pi liu	480
+水样透明细胞腺癌	shui yang tou ming xi bao xian ai	204
+水样透明细胞腺瘤	shui yang tou ming xi bao xian liu	203
+松果体瘤	song guo ti liu	668
+松果体细胞瘤	song guo ti xi bao liu	669
+髓上皮瘤	sui shang pi liu	714
+髓外孤立性浆细胞瘤	sui wai gu li xing jiang xi bao liu	551
+髓性癌	sui xing ai	298
+髓性癌伴有淀粉样间质	sui xing ai ban you dian fen yang jian zhi	309
+髓性癌伴有淋巴性间质	sui xing ai ban you lin ba xing jian zhi	308
+髓性组织细胞性网状细胞增多	sui xing zu zhi xi bao xing wang zhuang xi bao zeng duo	533
+髓样粒细胞性白血病	sui yang li xi bao xing bai xue bing	852
+髓样肉瘤	sui yang rou liu	866
+梭形细胞黑色素瘤	suo xing xi bao hei se su liu	405
+梭形细胞鳞状细胞癌	suo xing xi bao lin zhuang xi bao ai	62
+梭形细胞肉瘤	suo xing xi bao rou liu	414
+梭形细胞型滑膜肉瘤	suo xing xi bao xing hua mo rou liu	458
+梭形细胞型小细胞癌	suo xing xi bao xing xiao xi bao ai	40
+梭形细胞移行细胞癌	suo xing xi bao yi hang xi bao ai	96
+梭形细胞痣	suo xing xi bao zhi	403
+梭形细胞脂肪瘤	suo xing xi bao zhi fang liu	615
+胎儿横纹肌瘤	tai er heng wen ji liu	638
+胎盘部位滋养层的肿瘤	tai pan bu wei zi yang ceng de zhong liu	786
+弹力纤维瘤	tan li xian wei liu	427
+特发性血小板增多症	te fa xing xue xiao ban zeng duo zheng	874
+外分泌性汗腺腺瘤	wai fen mi xing han xian xian liu	256
+外分泌性皮肤圆柱瘤	wai fen mi xing pi fu yuan zhu liu	136
+外分泌性乳头状腺瘤	wai fen mi xing ru tou zhuang xian liu	246
+外分泌性肢端汗腺瘤小汗腺瘤	wai fen mi xing zhi duan han xian liu xiao han xian liu	297
+外周细胞淋巴瘤	wai zhou xi bao lin ba liu	536
+顽固性贫血	wan gu xing pin xue	876
+顽固性贫血伴有胚细胞过多	wan gu xing pin xue ban you pei xi bao guo duo	879
+顽固性贫血伴有铁粒幼细胞	wan gu xing pin xue ban you tie li you xi bao	878
+顽固性贫血不伴有铁粒幼细胞	wan gu xing pin xue bu ban you tie li you xi bao	877
+网状细胞肉瘤	wang zhuang xi bao rou liu	755
+未分化的成视网膜母细胞瘤	wei fen hua de cheng shi wang mo mu xi bao liu	722
+未分化的恶性畸胎瘤	wei fen hua de e xing ji tai liu	497
+未分化细胞白血病	wei fen hua xi bao bai xue bing	835
+未分化型癌	wei fen hua xing ai	29
+微滤泡性腺瘤	wei lv pao xing xian liu	188
+胃泌素瘤	wei mi su liu	120
+微小瘤	wei xiao liu	37
+微小囊性腺瘤	wei xiao nang xing xian liu	140
+沃尔丹斯特伦巨球蛋白血症	wo er dan si te lun ju qiu dan bai xue zheng	545
+无包膜硬化性癌非包围性	wu bao mo ying hua xing ai fei bao wei xing	201
+无非色素性痣	wu fei se su xing zhi	388
+无色素性黑色素瘤	wu se su xing hei se su liu	389
+无性细胞瘤	wu xing xi bao liu	484
+细胞性蓝痣	xi bao xing lan zhi	395
+细胞性平滑肌瘤	xi bao xing ping hua ji liu	627
+息肉恶性变	xi rou e xing bian	12
+细支气管肺泡腺癌	xi zhi qi guan fei pao xian ai	167
+腺癌	xian ai	88
+腺癌伴有顶泌性汗腺化生	xian ai ban you ding mi xing han xian hua sheng	325
+腺癌伴有鳞状棘皮化生	xian ai ban you lin zhuang ji pi hua sheng	316
+腺癌伴有鳞状上皮转化	xian ai ban you lin zhuang shang pi zhuan hua	317
+腺癌伴有软骨和骨软化生	xian ai ban you ruan gu he gu ruan hua sheng	318
+腺癌伴有梭形细胞化生	xian ai ban you suo xing xi bao hua sheng	319
+腺肌瘤	xian ji liu	647
+腺类癌瘤	xian lei ai liu	162
+腺淋巴瘤	xian lin ba liu	314
+腺鳞状细胞癌	xian lin zhuang xi bao ai	313
+腺瘤	xian liu	73
+腺瘤病	xian liu bing	150
+腺瘤样瘤	xian liu yang liu	482
+腺瘤样息肉	xian liu yang xi rou	141
+腺瘤样息肉内的腺癌	xian liu yang xi rou nei de xian ai	160
+腺瘤样息肉内的原位腺癌	xian liu yang xi rou nei de yuan wei xian ai	142
+腺瘤样牙齿源性瘤	xian liu yang ya chi yuan xing liu	591
+腺泡细胞癌	xian pao xi bao ai	312
+腺泡细胞瘤	xian pao xi bao liu	272
+腺泡细胞腺瘤	xian pao xi bao xian liu	323
+腺肉瘤	xian rou liu	648
+嫌色细胞癌	xian se xi bao ai	180
+嫌色细胞腺瘤	xian se xi bao xian liu	179
+纤维板状肝细胞癌	xian wei ban zhuang gan xi bao ai	132
+显微镜下侵袭性鳞状细胞癌	xian wei jing xia qin xi xing lin zhuang xi bao ai	65
+纤维瘤	xian wei liu	420
+纤维粘液瘤	xian wei nian ye liu	339
+纤维粘液肉瘤	xian wei nian ye rou liu	382
+纤维粘液脂肪瘤	xian wei nian ye zhi fang liu	660
+纤维肉瘤	xian wei rou liu	404
+纤维上皮性基底细胞癌	xian wei shang pi xing ji di xi bao ai	77
+纤维腺瘤	xian wei xian liu	457
+纤维性脑脊膜瘤	xian wei xing nao ji mo liu	731
+纤维性星形细胞瘤	xian wei xing xing xing xi bao liu	689
+纤维脂肪瘤	xian wei zhi fang liu	882
+纤维组织细胞瘤黄色纤维瘤	xian wei zu zhi xi bao liu huang se xian wei liu	431
+腺纤维瘤	xian xian wei liu	460
+腺样鳞状细胞癌	xian yang lin zhuang xi bao ai	64
+腺样囊性癌	xian yang nang xing ai	138
+小管内的纤维腺瘤	xiao guan nei de xian wei xian liu	499
+小管周围的纤维腺瘤	xiao guan zhou wei de xian wei xian liu	459
+小核裂细胞滤泡性恶性淋巴瘤	xiao he lie xi bao lv pao xing e xing lin ba liu	504
+小核裂细胞性弥漫性恶性淋巴瘤	xiao he lie xi bao xing mi man xing e xing lin ba liu	693
+小梁型滤泡性腺癌	xiao liang xing lv pao xing xian ai	211
+小梁性腺癌	xiao liang xing xian ai	134
+小梁性腺瘤	xiao liang xing xian liu	45
+小淋巴细胞性恶性淋巴瘤	xiao lin ba xi bao xing e xing lin ba liu	871
+小脑肉瘤	xiao nao rou liu	692
+小泡型横纹肌肉瘤	xiao pao xing heng wen ji rou liu	642
+小球细胞肾上腺皮质腺瘤	xiao qiu xi bao shen shang xian pi zhi xian liu	224
+小神经胶质细胞瘤	xiao shen jing jiao zhi xi bao liu	756
+小细胞癌	xiao xi bao ai	38
+小细胞骨肉瘤	xiao xi bao gu rou liu	555
+小细胞肉瘤	xiao xi bao rou liu	416
+小细胞无核裂弥漫性恶性淋巴瘤	xiao xi bao wu he lie mi man xing e xing lin ba liu	512
+小叶性癌	xiao ye xing ai	306
+小叶性原位癌	xiao ye xing yuan wei ai	307
+泄殖腔孔源性癌	xie zhi qiang kong yuan xing ai	113
+性索间质瘤	xing suo jian zhi liu	326
+性索瘤伴有环状小管	xing suo liu ban you huan zhuang xiao guan	334
+型梭形细胞黑色素瘤	xing suo xing xi bao hei se su liu	3
+性腺胚母细胞瘤	xing xian pei mu xi bao liu	492
+星形细胞瘤	xing xing xi bao liu	685
+嗅神经源性瘤	xiu shen jing yuan xing liu	723
+许特尔细胞癌腺癌	xu te er xi bao ai xian ai	189
+许特尔细胞瘤腺瘤	xu te er xi bao liu xian liu	187
+血管成免疫细胞性淋巴腺病	xue guan cheng mian yi xi bao xing lin ba xian bing	831
+血管肌脂肪瘤	xue guan ji zhi fang liu	617
+血管肌脂肪肉瘤	xue guan ji zhi fang rou liu	659
+血管角质瘤	xue guan jiao zhi liu	812
+血管淋巴管瘤	xue guan lin ba guan liu	804
+血管瘤	xue guan liu	790
+血管瘤性脑脊膜瘤	xue guan liu xing nao ji mo liu	747
+血管内皮瘤病	xue guan nei pi liu bing	529
+血管内皮细胞瘤	xue guan nei pi xi bao liu	803
+血管内支气管肺泡瘤	xue guan nei zhi qi guan fei pao liu	811
+血管粘液瘤	xue guan nian ye liu	439
+血管平滑肌瘤	xue guan ping hua ji liu	629
+血管平滑肌肉瘤	xue guan ping hua ji rou liu	645
+血管球肌瘤	xue guan qiu ji liu	199
+血管球瘤	xue guan qiu liu	378
+血管球肉瘤	xue guan qiu rou liu	394
+血管球性血管瘤	xue guan qiu xing xue guan liu	349
+血管肉瘤	xue guan rou liu	791
+血管外皮肉瘤	xue guan wai pi rou liu	809
+血管外皮细胞瘤	xue guan wai pi xi bao liu	815
+血管外周皮细胞性脑脊膜瘤	xue guan wai zhou pi xi bao xing nao ji mo liu	720
+血管网状细胞瘤	xue guan wang zhuang xi bao liu	819
+血管纤维瘤	xue guan xian wei liu	818
+血管脂肪瘤	xue guan zhi fang liu	619
+血管中心性免疫增生性损害	xue guan zhong xin xing mian yi zeng sheng xing sun hai	513
+血管中心性细胞淋巴瘤	xue guan zhong xin xing xi bao lin ba liu	530
+蕈样肉芽肿	xun yang rou ya zhong	519
+蕈样真菌病	xun yang zhen jun bing	520
+牙本质瘤	ya ben zhi liu	583
+牙齿成釉细胞瘤	ya chi cheng you xi bao liu	601
+牙齿骨质化性纤维瘤	ya chi gu zhi hua xing xian wei liu	586
+牙齿骨质瘤	ya chi gu zhi liu	584
+牙齿源性瘤	ya chi yuan xing liu	746
+牙齿源性粘液瘤	ya chi yuan xing nian ye liu	581
+雅达逊表皮内上皮瘤	ya da xun biao pi nei shang pi liu	81
+亚急性白血病	ya ji xing bai xue bing	836
+亚急性单核细胞白血病	ya ji xing dan he xi bao bai xue bing	861
+亚急性淋巴样白血病	ya ji xing lin ba yang bai xue bing	841
+亚急性髓样粒细胞性白血病	ya ji xing sui yang li xi bao xing bai xue bing	854
+牙瘤	ya liu	588
+牙源性形骸细胞瘤	ya yuan xing xing hai xi bao liu	593
+燕麦细胞癌	yan mai xi bao ai	39
+炎性癌	yan xing ai	304
+叶状瘤	ye zhuang liu	465
+胰岛素瘤	yi dao su liu	143
+胰岛细胞癌	yi dao xi bao ai	200
+胰岛细胞腺癌	yi dao xi bao xian ai	103
+胰岛细胞腺瘤	yi dao xi bao xian liu	111
+已分化的成视网膜母细胞瘤	yi fen hua de cheng shi wang mo mu xi bao liu	721
+移行细胞癌	yi hang xi bao ai	92
+移行细胞乳头状瘤	yi hang xi bao ru tou zhuang liu	47
+移行细胞性脑脊膜瘤	yi hang xi bao xing nao ji mo liu	736
+移行细胞原位癌	yi hang xi bao yuan wei ai	91
+胰胚细胞瘤	yi pei xi bao liu	500
+胰腺瘤	yi xian liu	123
+异型癌	yi xing ai	80
+印戒细胞癌	yin jie xi bao ai	277
+硬斑性基底细胞癌	ying ban xing ji di xi bao ai	76
+婴儿性纤维肉瘤	ying er xing xian wei rou liu	426
+硬化性间质瘤	ying hua xing jian zhi liu	327
+硬化性血管瘤	ying hua xing xue guan liu	421
+硬腺癌	ying xian ai	441
+幼淋巴细胞白血病	you lin ba xi bao bai xue bing	873
+幼年型卵泡细胞瘤	you nian xing luan pao xi bao liu	333
+幼年性纤维腺瘤	you nian xing xian wei xian liu	468
+疣性角化性血管瘤	you xing jiao hua xing xue guan liu	813
+尤因肉瘤或尤因瘤	you yin rou liu huo you yin liu	4
+疣状癌	you zhuang ai	48
+疣状乳头状瘤	you zhuang ru tou zhuang liu	32
+原浆性星形细胞瘤	yuan jiang xing xing xing xi bao liu	687
+原淋巴细胞性恶性淋巴瘤	yuan lin ba xi bao xing e xing lin ba liu	522
+原始极性成胶质母细胞瘤	yuan shi ji xing cheng jiao zhi mu xi bao liu	699
+原始性神经外胚瘤	yuan shi xing shen jing wai pei liu	799
+原位癌	yuan wei ai	21
+原位黑色素瘤	yuan wei hei se su liu	377
+原位腺癌	yuan wei xian ai	102
+圆细胞脂肪肉瘤	yuan xi bao zhi fang rou liu	650
+晕样痣	yun yang zhi	367
+增生性布伦纳瘤	zeng sheng xing bu lun na liu	455
+粘蛋白腺癌液	zhan dan bai xian ai ye	273
+粘蛋白腺瘤	zhan dan bai xian liu	257
+蛰伏脂肪瘤	zhe fu zhi fang liu	620
+真性红细胞增多症	zhen xing hong xi bao zeng duo zheng	523
+真性组织细胞淋巴瘤	zhen xing zu zhi xi bao lin ba liu	539
+脂肪瘤	zhi fang liu	443
+脂肪肉瘤	zhi fang rou liu	442
+脂肪腺瘤	zhi fang xian liu	207
+致密细胞肾上腺皮质腺瘤	zhi mi xi bao shen shang xian pi zhi xian liu	221
+支气管腺瘤	zhi qi guan xian liu	115
+脂质细胞卵泡瘤男性女性	zhi zhi xi bao luan pao liu nan xing nv xing	341
+中分化的恶性畸胎瘤	zhong fen hua de e xing ji tai liu	470
+中间细胞型小细胞癌	zhong jian xi bao xing xiao xi bao ai	41
+重链病	zhong lian bing	546
+中胚层混合瘤	zhong pei ceng hun he liu	654
+中胚层性肾瘤	zhong pei ceng xing shen liu	655
+中肾性肿瘤	zhong shen xing zhong liu	788
+中肾样型透明细胞癌	zhong shen yang xing tou ming xi bao ai	195
+中心母细胞性滤泡性恶性淋巴瘤	zhong xin mu xi bao xing lv pao xing e xing lin ba liu	517
+中心母细胞性弥漫性恶性淋巴瘤	zhong xin mu xi bao xing mi man xing e xing lin ba liu	509
+中心细胞性恶性淋巴瘤	zhong xin xi bao xing e xing lin ba liu	516
+中心牙齿源性纤维瘤	zhong xin ya chi yuan xing xian wei liu	595
+周围性神经外胚瘤	zhou wei xing shen jing wai pei liu	672
+周围牙齿源性纤维瘤	zhou wei ya chi yuan xing xian wei liu	652
+主动脉体瘤	zhu dong mai ti liu	357
+主细胞腺瘤	zhu xi bao xian liu	202
+转移性癌	zhuan yi xing ai	25
+转移性导管癌	zhuan yi xing dao guan ai	331
+转移性鳞状细胞癌	zhuan yi xing lin zhuang xi bao ai	98
+转移性粘液腺癌	zhuan yi xing nian ye xian ai	275
+转移性平滑肌肉瘤	zhuan yi xing ping hua ji rou liu	609
+转移性绒毛膜上皮癌	zhuan yi xing rong mao mo shang pi ai	797
+转移性乳头状癌	zhuan yi xing ru tou zhuang ai	46
+转移性乳头状浆液性腺癌	zhuan yi xing ru tou zhuang jiang ye xing xian ai	262
+转移性乳头状腺癌	zhuan yi xing ru tou zhuang xian ai	146
+转移性神经母细胞瘤	zhuan yi xing shen jing mu xi bao liu	713
+转移性腺癌	zhuan yi xing xian ai	104
+转移性胸腺瘤	zhuan yi xing xiong xian liu	322
+转移性印戒细胞癌	zhuan yi xing yin jie xi bao ai	279
+转移性脂肪肉瘤	zhuan yi xing zhi fang rou liu	18
+转移性肿瘤	zhuan yi xing zhong liu	13
+子宫内膜间质结节	zi gong nei mo jian zhi jie jie	658
+子宫内膜间质肉瘤	zi gong nei mo jian zhi rou liu	644
+子宫内膜样腺癌	zi gong nei mo yang xian ai	440
+子宫内膜样腺瘤	zi gong nei mo yang xian liu	226
+子宫内膜样腺纤维瘤	zi gong nei mo yang xian xian wei liu	241
+滋养层的恶性畸胎瘤	zi yang ceng de e xing ji tai liu	828
+组织细胞样血管瘤	zu zhi xi bao yang xue guan liu	784

@@ -1,0 +1,107 @@
+# 文件名：农合项目（服务类）.scel
+# 词库名：农合项目（服务类）
+# 词库分类：医疗
+# 词库描述：
+# 词条样例：诊查费 急诊诊查费 急诊监护费 体检费 救护车费 普通病房床位费
+# 词条数量：100
+
+鼻饲管置管	bi si guan zhi guan	32
+病房空调降温费	bing fang kong tiao jiang wen fei	86
+病房取暖费	bing fang qu nuan fei	88
+层流洁净病房床位费	ceng liu jie jing bing fang chuang wei fei	83
+出诊	chu zhen	9
+出诊费	chu zhen fei	10
+传染病访视	chuan ran bing fang shi	14
+床位费	chuang wei fei	85
+大换药	da huan yao	36
+大抢救	da qiang jiu	60
+大清创缝合	da qing chuang feng he	41
+导尿	dao niao	21
+动静脉置管护理	dong jing mai zhi guan hu li	63
+动脉穿刺置管术	dong mai chuan ci zhi guan shu	44
+动脉加压注射	dong mai jia ya zhu she	52
+儿童龋齿预防保健	er tong qu chi yu fang bao jian	17
+肛管排气	gang guan pai qi	20
+挂号费	gua hao fei	100
+灌肠	guan chang	23
+护理费	hu li fei	74
+换药	huan yao	38
+会诊费	hui zhen fei	79
+疾病健康教育	ji bing jian kang jiao yu	7
+级护理	ji hu li	71
+肌肉注射	ji rou zhu she	55
+急诊观察床位费	ji zhen guan cha chuang wei fei	80
+急诊监护费	ji zhen jian hu fei	93
+急诊诊查费	ji zhen zhen cha fei	96
+家庭病床	jia ting bing chuang	13
+家庭病床建床费	jia ting bing chuang jian chuang fei	12
+家庭病床巡诊费	jia ting bing chuang xun zhen fei	11
+家庭巡诊	jia ting xun zhen	16
+监护病房床位费	jian hu bing fang chuang wei fei	82
+健康咨询	jian kang zi xun	6
+建立健康档案	jian li jian kang dang an	8
+静脉穿刺置管术	jing mai chuan ci zhi guan shu	46
+静脉高营养治疗	jing mai gao ying yang zhi liao	48
+静脉切开置管术	jing mai qie kai zhi guan shu	47
+静脉输液	jing mai shu ye	50
+静脉注射	jing mai zhu she	54
+精神病护理	jing shen bing hu li	67
+救护车费	jiu hu che fei	90
+抗肿瘤化学药物配置	kang zhong liu hua xue yao wu pei zhi	43
+空调降温费	kong tiao jiang wen fei	87
+冷热湿敷	leng re shi fu	25
+离体残肢处理	li ti can zhi chu li	1
+门急诊留观诊查费	men ji zhen liu guan zhen cha fei	95
+皮下输液	pi xia shu ye	51
+普通病房床位费	pu tong bing fang chuang wei fei	84
+普通门诊诊查费	pu tong men zhen zhen cha fei	98
+气管切开护理	qi guan qie kai hu li	66
+其他医疗服务项目	qi ta yi liao fu wu xiang mu	5
+抢救费	qiang jiu fei	61
+清创缝合	qing chuang feng he	42
+清洁灌肠	qing jie guan chang	22
+取暖费	qu nuan fei	89
+社区卫生服务及预防保健项目	she qu wei sheng fu wu ji yu fang bao jian xiang mu	19
+尸体存放	shi ti cun fang	2
+尸体料理	shi ti liao li	4
+特大换药	te da huan yao	37
+特级护理	te ji hu li	72
+特殊防护病房床位费	te shu fang hu bing fang chuang wei fei	81
+特殊疾病护理	te shu ji bing hu li	70
+特殊物理降温	te shu wu li jiang wen	27
+体检费	ti jian fei	91
+围产保健访视	wei chan bao jian fang shi	15
+胃肠减压	wei chang jian ya	31
+雾化吸入	wu hua xi ru	33
+物理降温	wu li jiang wen	29
+吸痰护理	xi tan hu li	65
+洗胃	xi wei	30
+小儿头皮静脉输液	xiao er tou pi jing mai shu ye	49
+小换药	xiao huan yao	34
+小抢救	xiao qiang jiu	58
+小清创缝合	xiao qing chuang feng he	39
+心内注射	xin nei zhu she	53
+新生儿护理	xin sheng er hu li	69
+新生儿特殊护理	xin sheng er te shu hu li	68
+氧气吸入	yang qi xi ru	57
+一般检查治疗	yi ban jian cha zhi liao	75
+一般物理降温	yi ban wu li jiang wen	28
+一般专项护理	yi ban zhuan xiang hu li	62
+引流管冲洗	yin liu guan chong xi	24
+婴幼儿健康体检	ying you er jian kang ti jian	18
+远程会诊	yuan cheng hui zhen	76
+院际会诊	yuan ji hui zhen	78
+院内会诊	yuan nei hui zhen	77
+院前急救费	yuan qian ji jiu fei	92
+造瘘护理	zao lou hu li	64
+诊查费	zhen cha fei	99
+中换药	zhong huan yao	35
+中抢救	zhong qiang jiu	59
+中清创缝合	zhong qing chuang feng he	40
+中心静脉穿刺置管术	zhong xin jing mai chuan ci zhi guan shu	45
+重症监护	zhong zheng jian hu	73
+注射	zhu she	56
+住院诊查费	zhu yuan zhen cha fei	94
+专家门诊诊查费	zhuan jia men zhen zhen cha fei	97
+专业性尸体整容	zhuan ye xing shi ti zheng rong	3
+坐浴	zuo yu	26

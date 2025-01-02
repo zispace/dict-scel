@@ -1,0 +1,13 @@
+# 文件名：临床词库.scel
+# 词库名：临床词库
+# 词库分类：疾病
+# 词库描述：
+# 词条样例：心内科 肾内科 内分泌 临床用药 生化常规
+# 词条数量：6
+
+临床用药	lin chuang yong yao	5
+临床诊断	lin chuang zhen duan	6
+内分泌	nei fen mi	3
+肾内科	shen nei ke	2
+生化常规	sheng hua chang gui	4
+心内科	xin nei ke	1

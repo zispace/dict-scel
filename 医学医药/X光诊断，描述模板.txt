@@ -1,0 +1,555 @@
+# 文件名：X光诊断，描述模板.scel
+# 词库名：X光诊断，描述模板
+# 词库分类：医学影像学
+# 词库描述：
+# 词条样例：心肺未见异常 已报告PACS补报告 登记错误不发报告 左肺上叶肺膨张不全 两肺肺气肿 右侧横裂叶间积液
+# 词条数量：548
+
+钡剂流至食管下端稍受阻	bei ji liu zhi shi guan xia duan shao shou zu	235
+贲门失弛缓症	ben men shi chi huan zheng	255
+鼻鼻窦及鼻咽部未见明显异常	bi bi dou ji bi yan bu wei jian ming xian yi chang	90
+鼻骨骨折	bi gu gu zhe	135
+鼻咽癌	bi yan ai	85
+鼻咽癌并颈深上组淋巴结转移	bi yan ai bing jing shen shang zu lin ba jie zhuan yi	84
+鼻咽癌并颅底骨质破坏	bi yan ai bing lu di gu zhi po huai	83
+鼻咽部未见异常	bi yan bu wei jian yi chang	79
+边缘部分清晰部分模糊	bian yuan bu fen qing xi bu fen mo hu	465
+病人仰卧于诊断床上	bing ren yang wo yu zhen duan chuang shang	115
+不全性肠梗阻	bu quan xing chang geng zu	201
+侧位片月骨向掌侧移位	ce wei pian yue gu xiang zhang ce yi wei	360
+常规胸腹透视结肠内有较多气体	chang gui xiong fu tou shi jie chang nei you jiao duo qi ti	227
+常规胸腹透视未见异常	chang gui xiong fu tou shi wei jian yi chang	260
+肠结核	chang jie he	251
+肠系膜上动脉梗死	chang xi mo shang dong mai geng si	194
+肠胀气	chang zhang qi	221
+耻骨骨折并耻骨联合分离	chi gu gu zhe bing chi gu lian he fen li	334
+穿刺成功后注入适量造影剂	chuan ci cheng gong hou zhu ru shi liang zao ying ji	113
+胆结石慢性胆囊炎	dan jie shi man xing dan nang yan	61
+胆囊结石	dan nang jie shi	219
+胆囊结石腰椎退行性变	dan nang jie shi yao zhui tui xing xing bian	218
+胆脾胰未见明显异常	dan pi yi wei jian ming xian yi chang	55
+胆总管下段并梗阻性胆管扩张	dan zong guan xia duan bing geng zu xing dan guan kuo zhang	50
+登记错误不发报告	deng ji cuo wu bu fa bao gao	541
+第颈椎椎体不稳	di jing zhui zhui ti bu wen	276
+骶尾椎骨质未见异常	di wei zhui gu zhi wei jian yi chang	413
+第胸椎结核	di xiong zhui jie he	274
+第胸椎压缩骨折	di xiong zhui ya suo gu zhe	264
+第腰椎滑脱腰椎退行性变	di yao zhui hua tuo yao zhui tui xing xing bian	265
+第腰椎退行性变腰椎间盘病损	di yao zhui tui xing xing bian yao zhui jian pan bing sun	270
+第腰椎峡部裂	di yao zhui xia bu lie	267
+第腰椎压缩骨折	di yao zhui ya suo gu zhe	294
+段骨折行石膏外固定术后	duan gu zhe xing shi gao wai gu ding shu hou	392
+多囊肝多囊肾	duo nang gan duo nang shen	52
+反流性食管炎	fan liu xing shi guan yan	250
+放射性肺炎左侧乳腺切除术后	fang she xing fei yan zuo ce ru xian qie chu shu hou	450
+肺门不大肺纹理走行正常	fei men bu da fei wen li zou xing zheng chang	457
+肺门纵隔淋巴结结核	fei men zong ge lin ba jie jie he	504
+肺野清晰未见异常高密度影	fei ye qing xi wei jian yi chang gao mi du ying	458
+风湿性心脏病二尖瓣狭窄	feng shi xing xin zang bing er jian ban xia zhai	147
+副鼻窦未见异常	fu bi dou wei jian yi chang	140
+腹部	fu bu	226
+腹部立位片未见异常	fu bu li wei pian wei jian yi chang	224
+腹部平片未见异常	fu bu ping pian wei jian yi chang	223
+腹部透视未见异常	fu bu tou shi wei jian yi chang	122
+符合多囊肾	fu he duo nang shen	158
+符合高血压心脏病心脏改变	fu he gao xue ya xin zang bing xin zang gai bian	146
+符合高血压性心脏病心肺改变	fu he gao xue ya xing xin zang bing xin fei gai bian	470
+符合佝偻病	fu he gou lou bing	403
+腹膜后淋巴结转移	fu mo hou lin ba jie zhuan yi	49
+腹水及盆腔积液	fu shui ji pen qiang ji ye	40
+肝癌术后改变未见明显复发	gan ai shu hou gai bian wei jian ming xian fu fa	58
+肝胆脾胰及双肾未见明显异常	gan dan pi yi ji shuang shen wei jian ming xian yi chang	65
+肝胆脾胰未见明显异常	gan dan pi yi wei jian ming xian yi chang	63
+肝内多发囊肿	gan nei duo fa nang zhong	53
+肝内钙化点	gan nei gai hua dian	56
+肝内外胆管未见明显异常	gan nei wai dan guan wei jian ming xian yi chang	14
+肝硬化	gan ying hua	57
+肝硬化脾大腹水	gan ying hua pi da fu shui	60
+肝硬化脾大腹水门脉高压	gan ying hua pi da fu shui men mai gao ya	51
+肝右左叶肝囊肿	gan you zuo ye gan nang zhong	54
+各副鼻窦未见异常	ge fu bi dou wei jian yi chang	77
+梗阻性胆管扩张炎症	geng zu xing dan guan kuo zhang yan zheng	13
+梗阻性脑积水	geng zu xing nao ji shui	106
+骨窗像示颅底骨质无破坏	gu chuang xiang shi lu di gu zhi wu po huai	78
+骨骨质未见异常	gu gu zhi wei jian yi chang	406
+骨关节病变	gu guan jie bing bian	415
+骨盆多发性骨折	gu pen duo fa xing gu zhe	301
+骨盆各骨骨质未见异常	gu pen ge gu gu zhi wei jian yi chang	410
+骨折内固定术后改变	gu zhe nei gu ding shu hou gai bian	394
+骨质疏松	gu zhi shu song	402
+骨质未见异常	gu zhi wei jian yi chang	407
+骨肿瘤术后改变	gu zhong liu shu hou gai bian	391
+关节骨质未见异常	guan jie gu zhi wei jian yi chang	409
+关节置换术后改变	guan jie zhi huan shu hou gai bian	389
+管造影未见异常	guan zao ying wei jian yi chang	124
+喉癌混合型	hou ai hun he xing	93
+喉部未见明显异常	hou bu wei jian ming xian yi chang	89
+后胸壁未见增大淋巴结	hou xiong bi wei jian zeng da lin ba jie	160
+呼吸系统	hu xi xi tong	547
+呼吸纵隔	hu xi zong ge	75
+回肠梗阻	hui chang geng zu	200
+畸胎瘤	ji tai liu	424
+脊柱	ji zhu	36
+脊柱侧弯矫形术后改变	ji zhu ce wan jiao xing shu hou gai bian	387
+检查方法钡棉检查	jian cha fang fa bei mian jian cha	238
+检查方法常规钡透	jian cha fang fa chang gui bei tou	254
+检查方法气钡双重造影	jian cha fang fa qi bei shuang chong zao ying	261
+检查方法食道钡棉检查	jian cha fang fa shi dao bei mian jian cha	258
+肩关节骨折脱位	jian guan jie gu zhe tuo wei	22
+间盘膨隆	jian pan peng long	31
+间盘膨隆突出	jian pan peng long tu chu	34
+绞窄性肠梗阻	jiao zhai xing chang geng zu	199
+结肠各段未见异常	jie chang ge duan wei jian yi chang	262
+颈部未见明显异常	jing bu wei jian ming xian yi chang	91
+经导管注入适量造影剂	jing dao guan zhu ru shi liang zao ying ji	112
+静脉尿路造影未见异常	jing mai niao lu zao ying wei jian yi chang	225
+颈胸腰椎未见明显异常	jing xiong yao zhui wei jian ming xian yi chang	35
+颈椎病	jing zhui bing	278
+颈椎病颈椎退行性改变	jing zhui bing jing zhui tui xing xing gai bian	33
+颈椎病前路减压术后	jing zhui bing qian lu jian ya shu hou	383
+颈椎病术后	jing zhui bing shu hou	385
+颈椎病椎间孔型	jing zhui bing zhui jian kong xing	277
+颈椎骨折脱位	jing zhui gu zhe tuo wei	21
+颈椎骨质未见异常	jing zhui gu zhi wei jian yi chang	408
+颈椎骨质增生	jing zhui gu zhi zeng sheng	280
+颈椎及椎管内未见明显异常	jing zhui ji zhui guan nei wei jian ming xian yi chang	7
+颈椎退行性变第椎间小关节不稳	jing zhui tui xing xing bian di zhui jian xiao guan jie bu wen	279
+考虑左肘慢性关节炎	kao lv zuo zhou man xing guan jie yan	345
+空肠梗阻	kong chang geng zu	198
+髋关节外伤骨折脱位	kuan guan jie wai shang gu zhe tuo wei	20
+两侧肺门未见增大	liang ce fei men wei jian zeng da	486
+两侧致密性髂骨炎	liang ce zhi mi xing qia gu yan	352
+两肺肺气肿	liang fei fei qi zhong	536
+两肺急性粟粒型肺结核	liang fei ji xing su li xing fei jie he	511
+两肺间质性肺炎	liang fei jian zhi xing fei yan	447
+两肺慢性血行播散性肺结核	liang fei man xing xue hang bo san xing fei jie he	500
+两肺门无增大增浓	liang fei men wu zeng da zeng nong	463
+两肺上叶浸润型肺结核好转期	liang fei shang ye jin run xing fei jie he hao zhuan qi	510
+两肺上叶浸润型肺结核进展期	liang fei shang ye jin run xing fei jie he jin zhan qi	509
+两肺上叶浸润型肺结核稳定期	liang fei shang ye jin run xing fei jie he wen ding qi	507
+两肺纹理增粗	liang fei wen li zeng cu	545
+两肺下叶创伤性湿肺	liang fei xia ye chuang shang xing shi fei	490
+两肺下叶过敏性肺炎	liang fei xia ye guo min xing fei yan	448
+两肺下叶霉菌性肺炎	liang fei xia ye mei jun xing fei yan	445
+两肺下叶外伤性湿肺	liang fei xia ye wai shang xing shi fei	489
+两肺炎症	liang fei yan zheng	446
+两肺野未见明确实变影	liang fei ye wei jian ming que shi bian ying	487
+两肺支气管肺炎	liang fei zhi qi guan fei yan	439
+两肺转移瘤	liang fei zhuan yi liu	425
+两输尿管上段多发结石	liang shu niao guan shang duan duo fa jie shi	190
+两输尿管上段结石	liang shu niao guan shang duan jie shi	192
+两输尿管上段结石腰椎退行性变	liang shu niao guan shang duan jie shi yao zhui tui xing xing bian	191
+两下肺感染	liang xia fei gan ran	535
+两下肺炎症	liang xia fei yan zheng	444
+瘘管造影	lou guan zao ying	153
+颅骨骨质未见异常	lu gu gu zhi wei jian yi chang	139
+颅骨纤维结构不良	lu gu xian wei jie gou bu liang	354
+颅内未见明显异常	lu nei wei jian ming xian yi chang	18
+颅内未见异常	lu nei wei jian yi chang	107
+麻痹性肠梗阻	ma bi xing chang geng zu	197
+慢性胆囊炎	man xing dan nang yan	62
+慢性阑尾炎	man xing lan wei yan	249
+慢性纤维空洞型肺结核	man xing xian wei kong dong xing fei jie he	503
+慢性支气管炎	man xing zhi qi guan yan	498
+慢性支气管炎伴肺气肿	man xing zhi qi guan yan ban fei qi zhong	496
+慢性支气管炎并肺气肿	man xing zhi qi guan yan bing fei qi zhong	71
+慢性支气管炎并感染	man xing zhi qi guan yan bing gan ran	497
+慢性支气管炎并感染肺气肿	man xing zhi qi guan yan bing gan ran fei qi zhong	495
+门静脉癌栓形成	men jing mai ai shuan xing cheng	59
+泌尿	mi niao	12
+泌尿生殖	mi niao sheng zhi	46
+泌尿系未见结石肠胀气	mi niao xi wei jian jie shi chang zhang qi	220
+脑白质变性脑白质疏松	nao bai zhi bian xing nao bai zhi shu song	98
+脑积水	nao ji shui	97
+脑萎缩	nao wei suo	96
+内生软骨瘤	nei sheng ruan gu liu	285
+逆行插管扩张	ni xing cha guan kuo zhang	157
+尿道狭窄膜部狭窄	niao dao xia zhai mo bu xia zhai	151
+颞颌关节骨质未见异常	nie he guan jie gu zhi wei jian yi chang	138
+膀胱癌	pang guang ai	168
+膀胱多发结石	pang guang duo fa jie shi	214
+膀胱多发结石腰椎退行性变	pang guang duo fa jie shi yao zhui tui xing xing bian	215
+膀胱结石	pang guang jie shi	217
+膀胱结石腰椎退行性变	pang guang jie shi yao zhui tui xing xing bian	216
+盆部	pen bu	9
+盆腔各结构未见异常	pen qiang ge jie gou wei jian yi chang	37
+盆腔各脏器未见明显异常	pen qiang ge zang qi wei jian ming xian yi chang	38
+盆腔淋巴结及髂骨转移	pen qiang lin ba jie ji qia gu zhuan yi	39
+盆腔未见明显异常	pen qiang wei jian ming xian yi chang	64
+皮层下动脉硬化性脑病	pi ceng xia dong mai ying hua xing nao bing	95
+气腹	qi fu	193
+其它未见明显异常	qi ta wei jian ming xian yi chang	281
+其它未见异常	qi ta wei jian yi chang	483
+其余未见异常	qi yu wei jian yi chang	159
+强直性脊柱炎	qiang zhi xing ji zhu yan	275
+强直性脊柱炎早期	qiang zhi xing ji zhu yan zao qi	353
+全消化道钡餐未见异常	quan xiao hua dao bei can wei jian yi chang	248
+乳头无内陷乳晕区未见异常	ru tou wu nei xian ru yun qu wei jian yi chang	161
+乳腺可见粗大血管影	ru xian ke jian cu da xue guan ying	164
+乳腺内未见异常钙化影	ru xian nei wei jian yi chang gai hua ying	163
+乳腺皮肤正常未见厚皮征	ru xian pi fu zheng chang wei jian hou pi zheng	162
+软骨肉瘤	ruan gu rou liu	284
+疝囊	shan nang	236
+上消化道钡餐未见异常	shang xiao hua dao bei can wei jian yi chang	247
+深静脉显示良好	shen jing mai xian shi liang hao	119
+神经鞘瘤	shen jing qiao liu	420
+食道癌切除术后胸腔胃	shi dao ai qie chu shu hou xiong qiang wei	241
+食道癌术后改变胸腔胃	shi dao ai shu hou gai bian xiong qiang wei	482
+食道贲门胃底癌	shi dao ben men wei di ai	242
+食道吞钡棉检查未见明确异常	shi dao tun bei mian jian cha wei jian ming que yi chang	259
+食道吞钡未见异常	shi dao tun bei wei jian yi chang	239
+食道下段及胃底静脉曲张	shi dao xia duan ji wei di jing mai qu zhang	237
+食道胸段第胸椎处癌	shi dao xiong duan di xiong zhui chu ai	243
+十二指肠梗阻	shi er zhi chang geng zu	196
+十二指肠降部憩室	shi er zhi chang jiang bu qi shi	245
+十二指肠球部溃疡	shi er zhi chang qiu bu kui yang	246
+十二指肠雍积症	shi er zhi chang yong ji zheng	244
+双侧基底节区多发腔隙性脑梗塞	shuang ce ji di jie qu duo fa qiang xi xing nao geng se	105
+双侧肋膈角清晰	shuang ce lei ge jiao qing xi	454
+双侧慢性乳突炎	shuang ce man xing ru tu yan	134
+双侧乳突未见异常	shuang ce ru tu wei jian yi chang	137
+双侧乳腺未见异常	shuang ce ru xian wei jian yi chang	166
+双侧乳腺小叶增生	shuang ce ru xian xiao ye zeng sheng	167
+双侧肾上腺未见明显异常	shuang ce shen shang xian wei jian ming xian yi chang	11
+双侧肾脏未见明显异常	shuang ce shen zang wei jian ming xian yi chang	44
+双侧膝关节退行性变	shuang ce xi guan jie tui xing xing bian	376
+双侧胸廓对称	shuang ce xiong kuo dui chen	459
+双侧胸膜肥厚	shuang ce xiong mo fei hou	469
+双肺上叶陈旧性肺结核	shuang fei shang ye chen jiu xing fei jie he	517
+双膈面光整肋膈角清晰锐利	shuang ge mian guang zheng lei ge jiao qing xi rui li	485
+双膈面欠光滑可见蓬状突起	shuang ge mian qian guang hua ke jian peng zhuang tu qi	455
+双股骨头无菌性坏死	shuang gu gu tou wu jun xing huai si	401
+双乳腺显影为蜂窝型	shuang ru xian xian ying wei feng wo xing	165
+双上肺结核部分硬结钙化	shuang shang fei jie he bu fen ying jie gai hua	520
+双上肺结核大部分硬结钙化	shuang shang fei jie he da bu fen ying jie gai hua	514
+双上肺浸润型肺结核	shuang shang fei jin run xing fei jie he	508
+双上颌窦粘膜肥厚	shuang shang he dou nian mo fei hou	128
+双肾多发结石	shuang shen duo fa jie shi	188
+双肾多发结石并双肾盂积水	shuang shen duo fa jie shi bing shuang shen yu ji shui	211
+双肾多发结石腰椎退行性变	shuang shen duo fa jie shi yao zhui tui xing xing bian	189
+双肾结石	shuang shen jie shi	213
+双肾结石腰椎退行性变	shuang shen jie shi yao zhui tui xing xing bian	212
+双肾铸型结石	shuang shen zhu xing jie shi	186
+双肾铸型结石并双肾盂积水	shuang shen zhu xing jie shi bing shuang shen yu ji shui	209
+双肾铸型结石腰椎退行性变	shuang shen zhu xing jie shi yao zhui tui xing xing bian	187
+双肾铸形结石腰椎退行性变	shuang shen zhu xing jie shi yao zhui tui xing xing bian	210
+双手类风湿性关节炎	shuang shou lei feng shi xing guan jie yan	348
+双手类风湿性关节炎早期	shuang shou lei feng shi xing guan jie yan zao qi	347
+双膝关节退行性骨关节病	shuang xi guan jie tui xing xing gu guan jie bing	379
+双下肢深静脉造影未见异常	shuang xia zhi shen jing mai zao ying wei jian yi chang	120
+四肢	si zhi	23
+痛风性骨关节炎	tong feng xing gu guan jie yan	343
+头颅	tou lu	110
+头颅术后改变	tou lu shu hou gai bian	127
+透视造影	tou shi zao ying	125
+胃癌	wei ai	234
+胃部分切除术后改变	wei bu fen qie chu shu hou gai bian	253
+胃肠透视	wei chang tou shi	263
+胃底贲门癌	wei di ben men ai	257
+胃窦癌	wei dou ai	233
+未见破坏征象	wei jian po huai zheng xiang	76
+胃粘膜脱垂	wei nian mo tuo chui	232
+五官	wu guan	17
+五官颈部	wu guan jing bu	94
+五官系统	wu guan xi tong	141
+线报告模板	xian bao gao mu ban	548
+先经膀胱造瘘管注入造影剂	xian jing pang guang zao lou guan zhu ru zao ying ji	150
+先天性心脏病房间隔缺损	xian tian xing xin zang bing fang jian ge que sun	145
+先天性心脏病肺动脉瓣狭窄	xian tian xing xin zang bing fei dong mai ban xia zhai	144
+先天性心脏病室间隔缺损	xian tian xing xin zang bing shi jian ge que sun	143
+腺样体肥大	xian yang ti fei da	126
+腺样体未见异常	xian yang ti wei jian yi chang	136
+小肠梗阻	xiao chang geng zu	195
+小肠吸收不良	xiao chang xi shou bu liang	231
+心包囊肿	xin bao nang zhong	418
+心肺未见明显异常	xin fei wei jian ming xian yi chang	544
+心肺未见异常	xin fei wei jian yi chang	546
+心肌病	xin ji bing	142
+心影不大纵隔不宽	xin ying bu da zong ge bu kuan	456
+胸部	xiong bu	16
+胸部透视	xiong bu tou shi	117
+胸部未见异常	xiong bu wei jian yi chang	73
+胸侧半椎体畸形	xiong ce ban zhui ti ji xing	283
+胸腹部透视未见异常	xiong fu bu tou shi wei jian yi chang	230
+胸腹部未见异常	xiong fu bu wei jian yi chang	118
+胸腹透视	xiong fu tou shi	229
+胸腹透视正常	xiong fu tou shi zheng chang	256
+胸骨后甲状腺肿腺瘤	xiong gu hou jia zhuang xian zhong xian liu	69
+胸膜粘连	xiong mo zhan lian	460
+胸内甲状腺瘤	xiong nei jia zhuang xian liu	417
+胸腺瘤	xiong xian liu	416
+胸腺体积增大考虑为胸腺增生	xiong xian ti ji zeng da kao lv wei xiong xian zeng sheng	66
+胸椎骨质未见异常	xiong zhui gu zhi wei jian yi chang	405
+胸椎体左侧可见一短小的肋骨	xiong zhui ti zuo ce ke jian yi duan xiao de lei gu	282
+循环系统	xun huan xi tong	148
+眼球及眼眶未见明显异常	yan qiu ji yan kuang wei jian ming xian yi chang	88
+腰骶椎及椎管内未见明显异常	yao di zhui ji zhui guan nei wei jian ming xian yi chang	6
+腰椎骶化	yao zhui di hua	266
+腰椎骨质未见异常	yao zhui gu zhi wei jian yi chang	404
+腰椎轻度骨质增生	yao zhui qing du gu zhi zeng sheng	273
+腰椎退行性变	yao zhui tui xing xing bian	272
+腰椎退行性变伴腰椎间盘突出	yao zhui tui xing xing bian ban yao zhui jian pan tu chu	268
+腰椎退行性变腰骶椎间盘病损	yao zhui tui xing xing bian yao di zhui jian pan bing sun	269
+腰椎退行性骨关节病	yao zhui tui xing xing gu guan jie bing	271
+胰腺改变符合急性胰腺炎改变	yi xian gai bian fu he ji xing yi xian yan gai bian	48
+乙状结肠癌	yi zhuang jie chang ai	228
+右髌骨粉碎性骨折	you bin gu fen sui xing gu zhe	342
+右髌骨横断骨折	you bin gu heng duan gu zhe	340
+右侧包裹性液气胸	you ce bao guo xing ye qi xiong	534
+右侧第肋骨多发骨折	you ce di lei gu duo fa gu zhe	491
+右侧肺不张	you ce fei bu zhang	540
+右侧肺底积液	you ce fei di ji ye	533
+右侧肺上沟癌	you ce fei shang gou ai	431
+右侧肺野未见明确实变影	you ce fei ye wei jian ming que shi bian ying	475
+右侧股骨股骨髁上骨折	you ce gu gu gu gu ke shang gu zhe	305
+右侧横裂叶间积液	you ce heng lie ye jian ji ye	532
+右侧慢性乳突炎	you ce man xing ru tu yan	133
+右侧慢性上颌窦炎	you ce man xing shang he dou yan	129
+右侧气胸	you ce qi xiong	494
+右侧肾盂积水	you ce shen yu ji shui	154
+右侧输卵管阻塞	you ce shu luan guan zu se	149
+右侧输尿管中段梗阻	you ce shu niao guan zhong duan geng zu	156
+右侧输尿管中上段积水扩张	you ce shu niao guan zhong shang duan ji shui kuo zhang	155
+右侧膝关节退行性变	you ce xi guan jie tui xing xing bian	375
+右侧斜裂叶间积液	you ce xie lie ye jian ji ye	531
+右侧胸壁异物	you ce xiong bi yi wu	488
+右侧胸膜肥厚	you ce xiong mo fei hou	468
+右侧胸膜间皮瘤	you ce xiong mo jian pi liu	466
+右侧胸腔包裹性积液	you ce xiong qiang bao guo xing ji ye	530
+右侧胸腔大量积液	you ce xiong qiang da liang ji ye	528
+右侧胸腔少量积液	you ce xiong qiang shao liang ji ye	526
+右侧胸腔中等量积液	you ce xiong qiang zhong deng liang ji ye	524
+右侧液气胸	you ce ye qi xiong	492
+右尺骨干单骨折	you chi gu gan dan gu zhe	336
+右耻骨骨折	you chi gu gu zhe	333
+右尺桡骨干双骨折	you chi rao gu gan shuang gu zhe	338
+右骶髂关节结核	you di qia guan jie jie he	398
+右肺上叶陈旧性肺结核	you fei shang ye chen jiu xing fei jie he	516
+右肺上叶大叶性肺炎	you fei shang ye da ye xing fei yan	453
+右肺上叶肺结核右侧胸腔积液	you fei shang ye fei jie he you ce xiong qiang ji ye	522
+右肺上叶肺膨张不全	you fei shang ye fei peng zhang bu quan	538
+右肺上叶结核球	you fei shang ye jie he qiu	502
+右肺上叶周围型肺癌	you fei shang ye zhou wei xing fei ai	427
+右肺纹理清晰无增粗增多变形	you fei wen li qing xi wu zeng cu zeng duo bian xing	476
+右肺下叶大叶性肺炎	you fei xia ye da ye xing fei yan	452
+右肺下叶多发性支气管囊肿	you fei xia ye duo fa xing zhi qi guan nang zhong	434
+右肺下叶腺瘤	you fei xia ye xian liu	429
+右肺下叶纤维瘤	you fei xia ye xian wei liu	430
+右肺下叶血管瘤	you fei xia ye xue guan liu	428
+右肺下叶炎性假瘤	you fei xia ye yan xing jia liu	441
+右肺下叶支气管扩张	you fei xia ye zhi qi guan kuo zhang	436
+右肺下叶支原体肺炎	you fei xia ye zhi yuan ti fei yan	438
+右肺原发综合症	you fei yuan fa zong he zheng	499
+右肺中叶大叶性肺炎	you fei zhong ye da ye xing fei yan	451
+右肺中叶综合征	you fei zhong ye zong he zheng	539
+右膈面光整肋膈角锐利	you ge mian guang zheng lei ge jiao rui li	474
+右跟骨粉碎骨折	you gen gu fen sui gu zhe	331
+右肱骨干骨折	you gong gu gan gu zhe	315
+右肱骨骨质未见异常	you gong gu gu zhi wei jian yi chang	412
+右肱骨髁间骨折	you gong gu ke jian gu zhe	326
+右肱骨髁上青枝骨折	you gong gu ke shang qing zhi gu zhe	324
+右肱骨髁上屈曲型骨折	you gong gu ke shang qu qu xing gu zhe	322
+右肱骨髁上伸展型骨折	you gong gu ke shang shen zhan xing gu zhe	320
+右肱骨内上髁骨折	you gong gu nei shang ke gu zhe	318
+右肱骨上段骨骺分离	you gong gu shang duan gu hou fen li	330
+右肱骨上段骨囊肿	you gong gu shang duan gu nang zhong	290
+右肱骨外髁骨骺骨折	you gong gu wai ke gu hou gu zhe	316
+右肱骨外科颈骨折	you gong gu wai ke jing gu zhe	327
+右股骨粗隆间斜型骨折	you gu gu cu long jian xie xing gu zhe	313
+右股骨粗隆下骨折	you gu gu cu long xia gu zhe	311
+右股骨粉碎性骨折	you gu gu fen sui xing gu zhe	303
+右股骨颈骨折	you gu gu jing gu zhe	309
+右股骨髁间骨折	you gu gu ke jian gu zhe	307
+右股骨头无菌性坏死	you gu gu tou wu jun xing huai si	400
+右股骨下段骨巨细胞瘤	you gu gu xia duan gu ju xi bao liu	286
+右股骨下端骨软骨瘤	you gu gu xia duan gu ruan gu liu	288
+右肩关节前脱位	you jian guan jie qian tuo wei	371
+右肩关节周围炎	you jian guan jie zhou wei yan	351
+右胫腓骨上段螺旋形骨折	you jing fei gu shang duan luo xuan xing gu zhe	300
+右髋关节后脱位	you kuan guan jie hou tuo wei	367
+右髋关节结核	you kuan guan jie jie he	396
+右髋关节前脱位	you kuan guan jie qian tuo wei	366
+右髋关节退行性变	you kuan guan jie tui xing xing bian	381
+右髋关节先天性脱位	you kuan guan jie xian tian xing tuo wei	369
+右髋关节中心脱位	you kuan guan jie zhong xin tuo wei	365
+右桡骨小头骨折	you rao gu xiao tou gu zhe	298
+右上肺结核部分硬结钙化	you shang fei jie he bu fen ying jie gai hua	519
+右上肺结核大部分硬结钙化	you shang fei jie he da bu fen ying jie gai hua	513
+右上肺浸润型肺结核	you shang fei jin run xing fei jie he	506
+右上腹平片未见明确阳性结石影	you shang fu ping pian wei jian ming que yang xing jie shi ying	123
+右上颌窦囊肿	you shang he dou nang zhong	130
+右肾多发结石	you shen duo fa jie shi	182
+右肾多发结石并肾盂积水	you shen duo fa jie shi bing shen yu ji shui	207
+右肾多发结石腰椎退行性变	you shen duo fa jie shi yao zhui tui xing xing bian	183
+右肾结石	you shen jie shi	185
+右肾结石并肾盂积水	you shen jie shi bing shen yu ji shui	208
+右肾结石腰椎退行性变	you shen jie shi yao zhui tui xing xing bian	184
+右肾铸型结石	you shen zhu xing jie shi	181
+右肾铸型结石并肾盂积水	you shen zhu xing jie shi bing shen yu ji shui	205
+右肾铸型结石腰椎退行性变	you shen zhu xing jie shi yao zhui tui xing xing bian	206
+右手第一掌骨内生软骨瘤	you shou di yi zhang gu nei sheng ruan gu liu	287
+右手类风湿性关节炎	you shou lei feng shi xing guan jie yan	344
+右手中指近节指骨骨折	you shou zhong zhi jin jie zhi gu gu zhe	295
+右输尿管上段多发结石	you shu niao guan shang duan duo fa jie shi	178
+右输尿管上段结石	you shu niao guan shang duan jie shi	180
+右输尿管上段结石腰椎退行性变	you shu niao guan shang duan jie shi yao zhui tui xing xing bian	179
+右锁骨骨折	you suo gu gu zhe	297
+右腕月骨脱位	you wan yue gu tuo wei	361
+右膝关节退行性骨关节病	you xi guan jie tui xing xing gu guan jie bing	378
+右下尺桡关节半脱位	you xia chi rao guan jie ban tuo wei	358
+右下肺炎症	you xia fei yan zheng	443
+右中肺炎症	you zhong fei yan zheng	440
+右肘关节后脱位	you zhou guan jie hou tuo wei	356
+右主支气管异物	you zhu zhi qi guan yi wu	433
+右足跟骨骨刺	you zu gen gu gu ci	373
+余肺纹理清晰无增粗增多变形	yu fei wen li qing xi wu zeng cu zeng duo bian xing	464
+原诊骨折内固定术后现复查	yuan zhen gu zhe nei gu ding shu hou xian fu cha	393
+原诊骨肿瘤术后现复查	yuan zhen gu zhong liu shu hou xian fu cha	390
+原诊关节置换术后现复查	yuan zhen guan jie zhi huan shu hou xian fu cha	388
+原诊脊柱侧弯矫形术后现复查	yuan zhen ji zhu ce wan jiao xing shu hou xian fu cha	386
+原诊颈椎病前路减压术后现复查	yuan zhen jing zhui bing qian lu jian ya shu hou xian fu cha	382
+原诊颈椎病术后现复查	yuan zhen jing zhui bing shu hou xian fu cha	384
+原诊食道癌切除术后现复查	yuan zhen shi dao ai qie chu shu hou xian fu cha	240
+原诊胃部分切除术后现复查	yuan zhen wei bu fen qie chu shu hou xian fu cha	252
+原诊右肺癌切除术后现复查	yuan zhen you fei ai qie chu shu hou xian fu cha	479
+原诊纵隔肿瘤切除术后现复查	yuan zhen zong ge zhong liu qie chu shu hou xian fu cha	480
+原诊左肺癌切除术后现复查	yuan zhen zuo fei ai qie chu shu hou xian fu cha	478
+原诊左乳房切除术后现复查	yuan zhen zuo ru fang qie chu shu hou xian fu cha	471
+诊断报告模板	zhen duan bao gao mu ban	111
+正常膝关节	zheng chang xi guan jie	2
+脂肪肝肝右叶普遍性	zhi fang gan gan you ye pu bian xing	47
+肘关节骨折脱位	zhou guan jie gu zhe tuo wei	19
+主动脉夹层	zhu dong mai jia ceng	15
+主动脉硬化	zhu dong mai ying hua	543
+主动脉粥样硬化	zhu dong mai zhou yang ying hua	542
+蛛网膜下腔出血	zhu wang mo xia qiang chu xie	99
+椎管造影未见异常	zhui guan zao ying wei jian yi chang	114
+椎间盘突出腰椎退行性变	zhui jian pan tu chu yao zhui tui xing xing bian	5
+椎间盘突出中央左外侧右外侧型	zhui jian pan tu chu zhong yang zuo wai ce you wai ce xing	32
+椎体改变性质考虑为骨巨细胞瘤	zhui ti gai bian xing zhi kao lv wei gu ju xi bao liu	28
+椎体改变性质考虑为血管瘤	zhui ti gai bian xing zhi kao lv wei xue guan liu	24
+椎体结核	zhui ti jie he	27
+椎体结核并椎旁冷脓肿形成	zhui ti jie he bing zhui pang leng nong zhong xing cheng	26
+椎体平面神经根损伤	zhui ti ping mian shen jing gen sun shang	30
+椎体压缩性骨折并脊髓挫伤	zhui ti ya suo xing gu zhe bing ji sui cuo shang	3
+椎体压缩性骨折并脊髓软化	zhui ti ya suo xing gu zhe bing ji sui ruan hua	4
+椎体压缩性骨折并椎管狭窄	zhui ti ya suo xing gu zhe bing zhui guan xia zhai	25
+椎体隐性脊柱裂	zhui ti yin xing ji zhu lie	29
+子宫颈所见符合宫颈癌改变	zi gong jing suo jian fu he gong jing ai gai bian	8
+子宫输卵管造影未见异常	zi gong shu luan guan zao ying wei jian yi chang	222
+纵隔肺淋巴转移瘤	zong ge fei lin ba zhuan yi liu	426
+纵隔居中无增大	zong ge ju zhong wu zeng da	484
+纵隔居中无增宽	zong ge ju zhong wu zeng kuan	461
+纵隔淋巴瘤	zong ge lin ba liu	423
+纵隔皮样囊肿	zong ge pi yang nang zhong	422
+纵隔神经节细胞瘤	zong ge shen jing jie xi bao liu	421
+纵隔神经纤维瘤	zong ge shen jing xian wei liu	419
+纵隔向右稍移位无增宽	zong ge xiang you shao yi wei wu zeng kuan	473
+纵隔肿瘤切除术后	zong ge zhong liu qie chu shu hou	481
+左髌骨粉碎性骨折	zuo bin gu fen sui xing gu zhe	341
+左髌骨横断骨折	zuo bin gu heng duan gu zhe	339
+左侧股骨股骨髁上骨折	zuo ce gu gu gu gu ke shang gu zhe	304
+左侧慢性乳突炎	zuo ce man xing ru tu yan	132
+左侧气胸	zuo ce qi xiong	493
+左侧乳突炎疑胆脂瘤形成	zuo ce ru tu yan yi dan zhi liu xing cheng	131
+左侧胸膜肥厚	zuo ce xiong mo fei hou	467
+左侧胸腔包裹性积液	zuo ce xiong qiang bao guo xing ji ye	529
+左侧胸腔大量积液	zuo ce xiong qiang da liang ji ye	527
+左侧胸腔少量积液	zuo ce xiong qiang shao liang ji ye	525
+左侧胸腔中等量积液	zuo ce xiong qiang zhong deng liang ji ye	523
+左侧液气胸	zuo ce ye qi xiong	437
+左尺骨干单骨折	zuo chi gu gan dan gu zhe	335
+左耻骨骨折	zuo chi gu gu zhe	332
+左尺桡骨干双骨折	zuo chi rao gu gan shuang gu zhe	337
+左尺桡骨骨质未见异常	zuo chi rao gu gu zhi wei jian yi chang	414
+左第肋骨缺如	zuo di lei gu que ru	477
+左骶髂关节结核	zuo di qia guan jie jie he	397
+左肺上叶陈旧性肺结核	zuo fei shang ye chen jiu xing fei jie he	515
+左肺上叶肺结核左侧胸腔积液	zuo fei shang ye fei jie he zuo ce xiong qiang ji ye	521
+左肺上叶肺膨张不全	zuo fei shang ye fei peng zhang bu quan	537
+左肺上叶结核球	zuo fei shang ye jie he qiu	501
+左肺舌叶错构瘤	zuo fei she ye cuo gou liu	432
+左肺舌叶肺段性肺炎	zuo fei she ye fei duan xing fei yan	449
+左肺下叶支气管扩张	zuo fei xia ye zhi qi guan kuo zhang	435
+左肺右肺上叶中叶下叶炎症改变	zuo fei you fei shang ye zhong ye xia ye yan zheng gai bian	74
+左膈面光整肋膈角清晰锐利	zuo ge mian guang zheng lei ge jiao qing xi rui li	462
+左肱骨干骨折	zuo gong gu gan gu zhe	314
+左肱骨骨质未见异常	zuo gong gu gu zhi wei jian yi chang	411
+左肱骨髁间骨折	zuo gong gu ke jian gu zhe	325
+左肱骨髁上青枝骨折	zuo gong gu ke shang qing zhi gu zhe	323
+左肱骨髁上屈曲型骨折	zuo gong gu ke shang qu qu xing gu zhe	321
+左肱骨髁上伸展型骨折	zuo gong gu ke shang shen zhan xing gu zhe	319
+左肱骨慢性骨髓炎	zuo gong gu man xing gu sui yan	346
+左肱骨内上髁骨折	zuo gong gu nei shang ke gu zhe	317
+左肱骨上段骨骺分离	zuo gong gu shang duan gu hou fen li	329
+左肱骨外科颈骨折	zuo gong gu wai ke jing gu zhe	328
+左股骨粗隆间斜型骨折	zuo gu gu cu long jian xie xing gu zhe	312
+左股骨粗隆下骨折	zuo gu gu cu long xia gu zhe	310
+左股骨粉碎性骨折	zuo gu gu fen sui xing gu zhe	302
+左股骨颈骨折	zuo gu gu jing gu zhe	308
+左股骨髁间骨折	zuo gu gu ke jian gu zhe	306
+左股骨头无菌性坏死	zuo gu gu tou wu jun xing huai si	399
+左肩关节前脱位	zuo jian guan jie qian tuo wei	370
+左肩关节周围炎	zuo jian guan jie zhou wei yan	350
+左胫腓骨上段螺旋形骨折	zuo jing fei gu shang duan luo xuan xing gu zhe	299
+左胫骨骨肉瘤	zuo jing gu gu rou liu	289
+左胫骨结节骨软骨炎	zuo jing gu jie jie gu ruan gu yan	349
+左胫骨近端非骨化性纤维瘤	zuo jing gu jin duan fei gu hua xing xian wei liu	291
+左髋关节后脱位	zuo kuan guan jie hou tuo wei	363
+左髋关节结核	zuo kuan guan jie jie he	395
+左髋关节前脱位	zuo kuan guan jie qian tuo wei	362
+左髋关节退行性变	zuo kuan guan jie tui xing xing bian	380
+左髋关节先天性脱位	zuo kuan guan jie xian tian xing tuo wei	368
+左髋关节中心脱位	zuo kuan guan jie zhong xin tuo wei	364
+左乳房切除术后心肺未见异常	zuo ru fang qie chu shu hou xin fei wei jian yi chang	472
+左上肺结核部分硬结钙化	zuo shang fei jie he bu fen ying jie gai hua	518
+左上肺结核大部分硬结钙化	zuo shang fei jie he da bu fen ying jie gai hua	512
+左上肺浸润型肺结核	zuo shang fei jin run xing fei jie he	505
+左肾多发结石	zuo shen duo fa jie shi	174
+左肾多发结石并肾盂积水	zuo shen duo fa jie shi bing shen yu ji shui	203
+左肾多发结石腰椎退行性变	zuo shen duo fa jie shi yao zhui tui xing xing bian	175
+左肾结石	zuo shen jie shi	177
+左肾结石并肾盂积水	zuo shen jie shi bing shen yu ji shui	204
+左肾结石腰椎退行性变	zuo shen jie shi yao zhui tui xing xing bian	176
+左肾切开取石术后	zuo shen qie kai qu shi shu hou	152
+左肾铸型结石	zuo shen zhu xing jie shi	172
+左肾铸型结石并肾盂积水	zuo shen zhu xing jie shi bing shen yu ji shui	202
+左肾铸型结石腰椎退行性变	zuo shen zhu xing jie shi yao zhui tui xing xing bian	173
+左输尿管上段多发结石	zuo shu niao guan shang duan duo fa jie shi	169
+左输尿管上段结石	zuo shu niao guan shang duan jie shi	171
+左输尿管上段结石腰椎退行性变	zuo shu niao guan shang duan jie shi yao zhui tui xing xing bian	170
+左锁骨骨折	zuo suo gu gu zhe	296
+左腕月骨脱位	zuo wan yue gu tuo wei	359
+左膝关节退行性变	zuo xi guan jie tui xing xing bian	374
+左膝关节退行性骨关节病	zuo xi guan jie tui xing xing gu guan jie bing	377
+左下尺桡关节半脱位	zuo xia chi rao guan jie ban tuo wei	357
+左下肺炎症	zuo xia fei yan zheng	442
+左下肺支气管扩张	zuo xia fei zhi qi guan kuo zhang	116
+左下肢造影	zuo xia zhi zao ying	121
+左右侧额颞顶部硬膜外血肿	zuo you ce e nie ding bu ying mo wai xue zhong	109
+左右侧额颞顶部硬膜下血肿	zuo you ce e nie ding bu ying mo xia xue zhong	101
+左右侧额颞顶骨骨折	zuo you ce e nie ding gu gu zhe	108
+左右侧额颞顶脑挫裂伤	zuo you ce e nie ding nao cuo lie shang	100
+左右侧额颞顶脑内血肿	zuo you ce e nie ding nao nei xue zhong	102
+左右侧额颞顶叶脑挫裂伤	zuo you ce e nie ding ye nao cuo lie shang	103
+左右侧喉癌声门型	zuo you ce hou ai sheng men xing	82
+左右侧基底节区腔隙性脑梗塞	zuo you ce ji di jie qu qiang xi xing nao geng se	104
+左右侧上颌窦筛窦粘膜囊肿	zuo you ce shang he dou shai dou nian mo nang zhong	87
+左右侧上颌窦筛窦粘液囊肿	zuo you ce shang he dou shai dou nian ye nang zhong	86
+左右侧胸腔积液	zuo you ce xiong qiang ji ye	72
+左右侧胸腔积液大中少量	zuo you ce xiong qiang ji ye da zhong shao liang	67
+左右上下胸膜肥厚粘连	zuo you shang xia xiong mo fei hou zhan lian	68
+左右肾内肾囊肿	zuo you shen nei shen nang zhong	10
+左右肾肾囊肿	zuo you shen shen nang zhong	43
+左右双侧股骨头缺血坏死	zuo you shuang ce gu gu tou que xue huai si	1
+左右双侧慢性中耳乳突炎	zuo you shuang ce man xing zhong er ru tu yan	80
+左右双侧乳突胆脂瘤	zuo you shuang ce ru tu dan zhi liu	81
+左右双侧肾结石	zuo you shuang ce shen jie shi	45
+左右双侧肾盂积水	zuo you shuang ce shen yu ji shui	41
+左右双侧肾脏多发肾囊肿	zuo you shuang ce shen zang duo fa shen nang zhong	42
+左右双侧先天性外耳道闭锁	zuo you shuang ce xian tian xing wai er dao bi suo	92
+左右双肺上中下叶肺大泡	zuo you shuang fei shang zhong xia ye fei da pao	70
+左肘关节后脱位	zuo zhou guan jie hou tuo wei	355
+左足第跖骨基底部骨折	zuo zu di zhi gu ji di bu gu zhe	292
+左足跟骨粉碎骨折	zuo zu gen gu fen sui gu zhe	293
+左足跟骨骨刺	zuo zu gen gu gu ci	372

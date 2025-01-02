@@ -1,0 +1,155 @@
+# 文件名：影像学词汇大全.scel
+# 词库名：影像学词汇大全
+# 词库分类：医学影像学
+# 词库描述：
+# 词条样例：磁共振 射频脉冲 空间分辨力 密度分辨率 线圈 梯度回波
+# 词条数量：148
+
+薄层扫描	bao ceng sao miao	65
+比释动能	bi shi dong neng	14
+比特	bi te	74
+表面阴影显示	biao mian yin ying xian shi	36
+并行采集	bing xing cai ji	102
+波粒二象性	bo li er xiang xing	24
+波谱	bo pu	100
+采集时间	cai ji shi jian	79
+层厚	ceng hou	45
+层间距	ceng jian ju	46
+超导体	chao dao ti	97
+弛豫	chi yu	120
+重叠扫描	chong die sao miao	66
+重复时间	chong fu shi jian	136
+重建函数	chong jian han shu	43
+重建时间	chong jian shi jian	78
+重建算法	chong jian suan fa	31
+窗宽	chuang kuan	62
+窗位	chuang wei	61
+磁场	ci chang	140
+磁共振	ci gong zhen	148
+磁矩	ci ju	114
+磁敏感	ci min gan	90
+磁体	ci ti	117
+磁旋比	ci xuan bi	111
+达峰时间	da feng shi jian	85
+当量剂量	dang liang ji liang	12
+刀锋技术	dao feng ji shu	91
+低剂量扫描	di ji liang sao miao	63
+电子对效应	dian zi dui xiao ying	19
+迭代法	die dai fa	50
+定位扫描	ding wei sao miao	64
+定位像	ding wei xiang	38
+动态扫描	dong tai sao miao	68
+断层扫描	duan ceng sao miao	128
+多平面重组	duo ping mian chong zu	37
+俄歇效应	e xie xiao ying	22
+反投影法	fan tou ying fa	51
+反转恢复	fan zhuan hui fu	93
+反转时间	fan zhuan shi jian	134
+放大扫描	fang da sao miao	69
+仿真内窥镜	fang zhen nei kui jing	33
+非螺旋扫描	fei luo xuan sao miao	59
+附加滤过	fu jia lv guo	16
+傅里叶变换	fu li ye bian huan	95
+高分辨率扫描	gao fen bian lv sao miao	70
+高压波形	gao ya bo xing	27
+高压发生器	gao ya fa sheng qi	124
+固有滤过	gu you lv guo	17
+管电流	guan dian liu	126
+管电压	guan dian ya	127
+光电效应	guang dian xiao ying	23
+光核反应	guang he fan ying	18
+鬼影	gui ying	103
+过采样	guo cai yang	101
+核素	he su	112
+呼吸门控	hu xi men kong	138
+化学位移	hua xue wei yi	87
+回波时间	hui bo shi jian	29
+灰阶	hui jie	75
+焦点	jiao dian	54
+解析法	jie xi fa	49
+进动	jin dong	118
+静磁场	jing ci chang	113
+距离防护	ju li fang hu	7
+矩阵	ju zhen	83
+卷积核	juan ji he	48
+卷褶	juan zhe	89
+康普顿效应	kang pu dun xiao ying	21
+空间分辨力	kong jian fen bian li	144
+快速自旋回波	kuai su zi xuan hui bo	133
+拉莫尔	la mo er	110
+螺距	luo ju	58
+螺旋扫描	luo xuan sao miao	60
+滤波	lv bo	99
+滤波函数	lv bo han shu	77
+滤过器	lv guo qi	52
+密度分辨率	mi du fen bian lv	142
+弥散	mi san	115
+魔方技术	mo fang ji shu	104
+模数转换	mo shu zhuan huan	72
+钼靶	mu ba	28
+频率编码	pin lv bian ma	131
+屏蔽防护	ping bi fang hu	6
+平面回波	ping mian hui bo	94
+铅当量	qian dang liang	5
+球管	qiu guan	125
+曲面重建	qu mian chong jian	30
+确定性效应	que ding xing xiao ying	10
+热容量	re rong liang	53
+容积扫描	rong ji sao miao	57
+容积效应	rong ji xiao ying	44
+容积再现法	rong ji zai xian fa	34
+柔线圈	rou xian quan	96
+散热率	san re lv	55
+散射角	san she jiao	20
+射频脉冲	she pin mai chong	145
+射线	she xian	121
+实际焦点	shi ji jiao dian	2
+时间防护	shi jian fang hu	8
+时间飞跃法	shi jian fei yue fa	105
+时间分辨率	shi jian fen bian lv	143
+视野	shi ye	42
+数模转换	shu mo zhuan huan	73
+双能扫描	shuang neng sao miao	84
+水成像	shui cheng xiang	106
+随机性效应	sui ji xing xiao ying	9
+探测器	tan ce qi	123
+碳刷	tan shua	122
+特斯拉	te si la	116
+梯度磁场	ti du ci chang	107
+梯度回波	ti du hui bo	135
+梯度线圈	ti du xian quan	146
+体素	ti su	86
+体线圈	ti xian quan	147
+调制传递函数	tiao zhi chuan di han shu	47
+听眶线	ting kuang xian	39
+听眉线	ting mei xian	40
+听眦线	ting zi xian	41
+伪影	wei ying	88
+吸收剂量	xi shou ji liang	13
+线圈	xian quan	141
+像素	xiang su	82
+相位编码	xiang wei bian ma	132
+心电门控	xin dian men kong	139
+信噪比	xin zao bi	92
+压水	ya shui	129
+压脂	ya zhi	130
+延迟扫描	yan chi sao miao	67
+阳极靶面	yang ji ba mian	26
+阳极倾角	yang ji qing jiao	25
+阳极热容量	yang ji re rong liang	4
+阳极散热率	yang ji san re lv	3
+影像数据	ying xiang shu ju	80
+永磁体	yong ci ti	98
+有效剂量	you xiao ji liang	11
+有效焦点	you xiao jiao dian	1
+原始数据	yuan shi shu ju	81
+噪声	zao sheng	76
+增强扫描	zeng qiang sao miao	71
+照射量	zhao she liang	15
+振幅	zhen fu	109
+指脉	zhi mai	137
+主磁场	zhu ci chang	108
+准直器	zhun zhi qi	56
+自旋运动	zi xuan yun dong	119
+最大密度投影	zui da mi du tou ying	35
+最小密度投影	zui xiao mi du tou ying	32
