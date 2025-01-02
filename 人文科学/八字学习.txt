@@ -1,0 +1,179 @@
+# 文件名：八字学习.scel
+# 词库名：八字学习
+# 词库分类：中国哲学
+# 词库描述：
+# 词条样例：官杀 正官 劫财 正财 印比食 忌神
+# 词条数量：172
+
+被克	bei ke	3
+本气	ben qi	123
+比肩	bi jian	164
+比劫	bi jie	165
+比劫配	bi jie pei	147
+丙辰	bing chen	94
+丙火	bing huo	49
+丙申	bing shen	96
+丙午	bing wu	95
+丙戌	bing xu	97
+丙寅	bing yin	99
+丙子	bing zi	98
+财官印	cai guan yin	156
+财星	cai xing	20
+辰土	chen tu	37
+辰戌冲	chen xu chong	29
+丑土	chou tu	40
+丑未冲	chou wei chong	28
+从强	cong qiang	113
+从弱	cong ruo	112
+大运	da yun	130
+盗泄	dao xie	6
+丁丑	ding chou	92
+丁亥	ding hai	91
+丁火	ding huo	48
+丁卯	ding mao	93
+丁巳	ding si	88
+丁未	ding wei	89
+丁酉	ding you	90
+断象	duan xiang	26
+夫妻星	fu qi xing	16
+夫星	fu xing	18
+伏吟	fu yin	129
+庚辰	geng chen	74
+庚金	geng jin	45
+庚申	geng shen	70
+庚午	geng wu	75
+庚戌	geng xu	71
+庚寅	geng yin	73
+庚子	geng zi	72
+拱合	gong he	126
+宫位	gong wei	140
+官杀	guan sha	171
+官星	guan xing	19
+官印	guan yin	172
+癸丑	gui chou	53
+癸亥	gui hai	52
+癸卯	gui mao	54
+癸水	gui shui	42
+癸巳	gui si	55
+癸未	gui wei	56
+癸酉	gui you	57
+亥水	hai shui	30
+红鸾	hong luan	11
+护神	hu shen	152
+化杀	hua sha	118
+婚姻宫	hun yin gong	15
+己丑	ji chou	79
+己亥	ji hai	78
+己卯	ji mao	80
+忌神	ji shen	154
+己巳	ji si	81
+己土	ji tu	46
+己未	ji wei	76
+己酉	ji you	77
+甲辰	jia chen	107
+甲木	jia mu	51
+甲申	jia shen	109
+甲午	jia wu	108
+甲戌	jia xu	110
+甲寅	jia yin	106
+甲子	jia zi	111
+劫财	jie cai	163
+克财	ke cai	120
+克夫	ke fu	21
+克妻	ke qi	22
+恋爱宫	lian ai gong	14
+六冲	liu chong	127
+流年	liu nian	131
+卯木	mao mu	38
+男命	nan ming	24
+年干	nian gan	134
+年支	nian zhi	139
+女命	nv ming	23
+配比劫	pei bi jie	142
+配财	pei cai	145
+配官	pei guan	144
+配食	pei shi	141
+配印	pei yin	143
+偏财	pian cai	158
+偏印	pian yin	167
+七杀	qi sha	169
+妻星	qi xing	17
+强宫	qiang gong	2
+壬辰	ren chen	61
+壬申	ren shen	63
+壬水	ren shui	43
+壬午	ren wu	62
+壬戌	ren xu	58
+壬寅	ren yin	60
+壬子	ren zi	59
+日支	ri zhi	138
+日支坐	ri zhi zuo	116
+弱宫	ruo gong	1
+三道	san dao	148
+三合	san he	128
+三刑	san xing	125
+伤官	shang guan	160
+申金	shen jin	33
+身强	shen qiang	115
+身弱	shen ruo	114
+生扶	sheng fu	7
+生克	sheng ke	9
+时干	shi gan	132
+食伤	shi shang	162
+食神	shi shen	161
+时支	shi zhi	136
+巳火	si huo	36
+太极点	tai ji dian	25
+通根	tong gen	8
+透干	tou gan	124
+为忌	wei ji	149
+卫神	wei shen	151
+未土	wei tu	34
+为喜	wei xi	150
+戊辰	wu chen	87
+午火	wu huo	35
+戊申	wu shen	83
+戊土	wu tu	47
+戊午	wu wu	82
+戊戌	wu xu	84
+戊寅	wu yin	86
+戊子	wu zi	85
+喜神	xi shen	155
+闲神	xian shen	153
+枭神	xiao shen	166
+辛丑	xin chou	66
+辛亥	xin hai	65
+辛金	xin jin	44
+辛卯	xin mao	67
+辛巳	xin si	68
+辛未	xin wei	69
+辛酉	xin you	64
+戌土	xu tu	31
+羊刃	yang ren	12
+乙丑	yi chou	105
+乙亥	yi hai	104
+驿马	yi ma	10
+乙卯	yi mao	100
+乙木	yi mu	50
+乙巳	yi si	101
+乙未	yi wei	102
+乙酉	yi you	103
+印比食	yin bi shi	157
+寅木	yin mu	39
+印配	yin pei	146
+寅申冲	yin shen chong	27
+应期	ying qi	4
+酉金	you jin	32
+余气	yu qi	121
+月干	yue gan	133
+月令	yue ling	135
+月支	yue zhi	137
+正财	zheng cai	159
+正官	zheng guan	170
+正印	zheng yin	168
+制杀	zhi sha	119
+中气	zhong qi	122
+专气	zhuan qi	5
+子女宫	zi nv gong	13
+子水	zi shui	41
+坐日支	zuo ri zhi	117

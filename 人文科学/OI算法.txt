@@ -1,0 +1,184 @@
+# 文件名：OI算法.scel
+# 词库名：OI算法
+# 词库分类：其它
+# 词库描述：
+# 词条样例：约瑟夫环 快速傅里叶变换 模线性方程 排列 组合
+# 词条数量：177
+
+埃拉托色尼筛	ai la tuo se ni shai	10
+半平面交	ban ping mian jiao	67
+爆栈	bao zhan	64
+背包	bei bao	75
+倍增	bei zeng	58
+边分治	bian fen zhi	50
+并查集	bing cha ji	89
+博弈论	bo yi lun	167
+差分约束	cha fen yue shu	62
+差分约束系统	cha fen yue shu xi tong	61
+朝鲜树	chao xian shu	43
+次小生成树	ci xiao sheng cheng shu	136
+打表	da biao	34
+大步小步	da bu xiao bu	156
+带花树	dai hua shu	124
+单纯形法	dan chun xing fa	23
+递归	di gui	31
+笛卡尔树	di ka er shu	35
+递推	di tui	32
+点分治	dian fen zhi	51
+动态树	dong tai shu	96
+多边形重心	duo bian xing zhong xin	70
+多项式求根	duo xiang shi qiu gen	154
+二分	er fen	93
+二分图匹配	er fen tu pi pei	111
+反素数	fan su shu	150
+斐波那契堆	fei bo na qi dui	46
+斐波那契数列	fei bo na qi shu lie	152
+费马小定理	fei ma xiao ding li	21
+分块	fen kuai	41
+分数规划	fen shu gui hua	82
+分治	fen zhi	49
+弗洛伊德	fu luo yi de	114
+概率	gai lv	5
+高斯消元	gao si xiao yuan	175
+割点	ge dian	132
+滚动数组	gun dong shu zu	91
+哈希	ha xi	140
+汉诺塔	han nuo ta	153
+红黑树	hong hei shu	39
+后序遍历	hou xu bian li	53
+后缀平衡树	hou zhui ping heng shu	17
+后缀树	hou zhui shu	18
+后缀数组	hou zhui shu zu	142
+后缀仙人掌	hou zhui xian ren zhang	16
+后缀自动机	hou zhui zi dong ji	141
+划分数	hua fen shu	37
+划分树	hua fen shu	100
+回文自动机	hui wen zi dong ji	19
+基环树	ji huan shu	1
+计数	ji shu	171
+记搜	ji sou	25
+计算几何	ji suan ji he	73
+计算几何相关公式	ji suan ji he xiang guan gong shi	66
+记忆化搜索	ji yi hua sou suo	26
+剪枝	jian zhi	24
+阶乘	jie cheng	165
+矩阵	ju zhen	151
+卡常	ka chang	33
+卡特兰数	ka te lan shu	3
+开栈	kai zhan	63
+快排	kuai pai	88
+快速傅里叶变换	kuai su fu li ye bian huan	161
+快速数论变换	kuai su shu lun bian huan	160
+快速沃尔什变换	kuai su wo er shi bian huan	8
+括号序列	kuo hao xu lie	56
+马拉车	ma la che	15
+曼哈顿最小生成树	man ha dun zui xiao sheng cheng shu	135
+莫比乌斯反演	mo bi wu si fan yan	157
+莫比乌斯函数	mo bi wu si han shu	158
+莫队	mo dui	76
+模拟退火	mo ni tui huo	30
+模线性方程	mo xian xing fang cheng	174
+模线性方程组	mo xian xing fang cheng zu	173
+母函数	mu han shu	148
+逆序数	ni xu shu	90
+逆元	ni yuan	162
+欧拉定理	ou la ding li	20
+欧拉函数	ou la han shu	177
+欧拉路径	ou la lu jing	134
+欧拉图	ou la tu	59
+爬山算法	pa shan suan fa	28
+排列	pai lie	164
+皮克定理	pi ke ding li	22
+平面最近点对	ping mian zui jin dian dui	69
+棋盘分割	qi pan fen ge	78
+期望	qi wang	4
+前序遍历	qian xu bian li	55
+区间最大频率	qu jian zui da pin lv	77
+取值范围	qu zhi fan wei	65
+容斥	rong chi	149
+三角形剖分	san jiao xing pou fen	11
+扫描线	sao miao xian	40
+深度优先搜索	shen du you xian sou suo	133
+伸展树	shen zhan shu	97
+生成树计数	sheng cheng shu ji shu	123
+使序列有序的最少交换次数	shi xu lie you xu de zui shao jiao huan ci shu	74
+树的直径	shu de zhi jing	48
+树的重心	shu de zhong xin	113
+树分块	shu fen kuai	42
+树分治	shu fen zhi	52
+数据结构	shu ju jie gou	101
+树链剖分	shu lian pou fen	94
+数论	shu lun	147
+树套树	shu tao shu	44
+树状数组	shu zhuang shu zu	92
+双连通分量	shuang lian tong fen liang	130
+双连通分支	shuang lian tong fen zhi	131
+四点共面	si dian gong mian	71
+四分数	si fen shu	36
+斯特林数	si te lin shu	2
+随机堆	sui ji dui	47
+随机化搜索	sui ji hua sou suo	27
+随机增量	sui ji zeng liang	13
+梯形剖分	ti xing pou fen	12
+替罪羊树	ti zui yang shu	38
+凸包	tu bao	72
+图论	tu lun	139
+拓扑排序	tuo pu pai xu	118
+网络流	wang luo liu	112
+稳定婚姻问题	wen ding hun yin wen ti	119
+无向图连通度	wu xiang tu lian tong du	128
+无向图连通分支	wu xiang tu lian tong fen zhi	117
+无向图找桥	wu xiang tu zhao qiao	129
+无向图最小割	wu xiang tu zui xiao ge	110
+线段树	xian duan shu	98
+弦图	xian tu	120
+线性方程组	xian xing fang cheng zu	176
+斜堆	xie dui	45
+辛普森积分	xin pu sen ji fen	155
+匈牙利算法	xiong ya li suan fa	60
+虚数	xu shu	57
+旋转卡壳	xuan zhuan qia ke	68
+一般图匹配带花树	yi ban tu pi pei dai hua shu	125
+遗传算法	yi chuan suan fa	29
+有上下界的流	you shang xia jie de liu	107
+有向图强连通分量	you xiang tu qiang lian tong fen liang	121
+有向图强连通分支	you xiang tu qiang lian tong fen zhi	116
+有向图最小点基	you xiang tu zui xiao dian ji	115
+有向图最小树形图	you xiang tu zui xiao shu xing tu	122
+原根	yuan gen	6
+约瑟夫	yue se fu	170
+约瑟夫环	yue se fu huan	169
+约瑟夫环问题	yue se fu huan wen ti	168
+整数划分	zheng shu hua fen	159
+置换群	zhi huan qun	7
+中国剩余定理	zhong guo sheng yu ding li	9
+中序遍历	zhong xu bian li	54
+周期性方程	zhou qi xing fang cheng	166
+主席树	zhu xi shu	95
+自动机	zi dong ji	143
+字符串	zi fu chuan	146
+组合	zu he	163
+组合数学	zu he shu xue	172
+最长不上升子序列	zui chang bu shang sheng zi xu lie	86
+最长不下降子序列	zui chang bu xia jiang zi xu lie	84
+最长公共递增子序列	zui chang gong gong di zeng zi xu lie	83
+最长公共子序列	zui chang gong gong zi xu lie	80
+最长回文子串	zui chang hui wen zi chuan	144
+最长上升子序列	zui chang shang sheng zi xu lie	87
+最长下降子序列	zui chang xia jiang zi xu lie	85
+最长有序子序列	zui chang you xu zi xu lie	81
+最大流	zui da liu	109
+最大团问题	zui da tuan wen ti	127
+最短路	zui duan lu	138
+最佳边割集	zui jia bian ge ji	106
+最佳点割集	zui jia dian ge ji	105
+最近公共祖先	zui jin gong gong zu xian	145
+最少找硬币问题	zui shao zhao ying bi wen ti	79
+最小边割集	zui xiao bian ge ji	104
+最小表示法	zui xiao biao shi fa	14
+最小点割集	zui xiao dian ge ji	103
+最小费用流	zui xiao fei yong liu	108
+最小覆盖问题	zui xiao fu gai wen ti	102
+最小生成树	zui xiao sheng cheng shu	137
+最小树形图	zui xiao shu xing tu	126
+左偏树	zuo pian shu	99
