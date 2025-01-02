@@ -1,0 +1,3627 @@
+# 文件名：我的世界1.21.scel
+# 词库名：我的世界1.21
+# 词库分类：其他
+# 词库描述：
+# 词条样例：潜行 这不是鳞甲么 合成器合成合成器 成功在袭击中保卫村庄 杀死每一种敌对性怪物
+# 词条数量：3620
+
+矮草丛	ai cao cong	1817
+哀嚎	ai hao	253
+哀鸣	ai ming	317
+爱心纹样陶片	ai xin wen yang tao pian	1051
+暗海晶石	an hai jing shi	2375
+暗海晶石楼梯	an hai jing shi lou ti	2373
+暗海晶石台阶	an hai jing shi tai jie	2374
+安全摔落高度	an quan shuai luo gao du	3408
+安山岩	an shan yan	3311
+安山岩楼梯	an shan yan lou ti	3309
+安山岩墙	an shan yan qiang	3308
+安山岩台阶	an shan yan tai jie	3310
+暗笑	an xiao	307
+吧唧	ba ji	515
+白底	bai di	3268
+白桦木	bai hua mu	2581
+白桦木按钮	bai hua mu an niu	2596
+白桦木板	bai hua mu ban	2589
+白桦木船	bai hua mu chuan	1501
+白桦木告示牌	bai hua mu gao shi pai	2586
+白桦木活板门	bai hua mu huo ban men	2583
+白桦木楼梯	bai hua mu lou ti	2584
+白桦木门	bai hua mu men	2595
+白桦木台阶	bai hua mu tai jie	2585
+白桦木压力板	bai hua mu ya li ban	2588
+白桦木运输船	bai hua mu yun shu chuan	1500
+白桦木栅栏	bai hua mu zha lan	2594
+白桦木栅栏门	bai hua mu zha lan men	2593
+白桦树苗	bai hua shu miao	2587
+白桦树苗盆栽	bai hua shu miao pen zai	1945
+白桦树叶	bai hua shu ye	2591
+白桦原木	bai hua yuan mu	2590
+百猫全书	bai mao quan shu	3535
+白色	bai se	1101
+白色波纹边	bai se bo wen bian	3172
+白色床	bai se chuang	1624
+白色带釉陶瓦	bai se dai you tao wa	1618
+白色底波纹	bai se di bo wen	2628
+白色地球	bai se di qiu	3060
+白色地毯	bai se di tan	1621
+白色顶波纹	bai se ding bo wen	2612
+白色盾牌	bai se dun pai	848
+白色方框边	bai se fang kuang bian	3252
+白色花朵盾徽	bai se hua duo dun hui	3076
+白色混凝土	bai se hun ning tu	1620
+白色混凝土粉末	bai se hun ning tu fen mo	1619
+白色苦力怕盾徽	bai se ku li pa dun hui	3204
+白色蜡烛	bai se la zhu	1623
+白色菱形	bai se ling xing	2916
+白色旗帜	bai se qi zhi	1625
+白色潜影盒	bai se qian ying he	1617
+白色染料	bai se ran liao	731
+白色染色玻璃	bai se ran se bo li	1616
+白色染色玻璃板	bai se ran se bo li ban	1615
+白色上半方形	bai se shang ban fang xing	2996
+白色收纳袋	bai se shou na dai	732
+白色陶瓦	bai se tao wa	1614
+白色头颅盾徽	bai se tou lu dun hui	2900
+白色涡流	bai se wo liu	3092
+白色下半方形	bai se xia ban fang xing	2980
+白色旋风	bai se xuan feng	3012
+白色羊毛	bai se yang mao	1612
+白色右半方形	bai se you ban fang xing	2964
+白色右上三角	bai se you shang san jiao	3156
+白色右下三角	bai se you xia san jiao	3124
+白色郁金香	bai se yu jin xiang	1613
+白色郁金香盆栽	bai se yu jin xiang pen zai	1915
+白色圆形	bai se yuan xing	3220
+白色猪鼻	bai se zhu bi	2932
+白色砖纹	bai se zhuan wen	3236
+白色自上渐淡	bai se zi shang jian dan	3044
+白色自下渐淡	bai se zi xia jian dan	3028
+白色左半方形	bai se zuo ban fang xing	2948
+白色左上三角	bai se zuo shang san jiao	3140
+白色左下三角	bai se zuo xia san jiao	3108
+白竖条纹	bai shu tiao wen	2884
+白条双锯鱼	bai tiao shuang ju yu	1379
+白斜十字	bai xie shi zi	3188
+白正十字	bai zheng shi zi	2804
+版本不兼容	ban ben bu jian rong	660
+斑驳的雕纹铜块	ban bo de diao wen tong kuai	2303
+斑驳的切制铜块	ban bo de qie zhi tong kuai	2297
+斑驳的切制铜楼梯	ban bo de qie zhi tong lou ti	2295
+斑驳的切制铜台阶	ban bo de qie zhi tong tai jie	2296
+斑驳的铜灯	ban bo de tong deng	2301
+斑驳的铜格栅	ban bo de tong ge shan	2299
+斑驳的铜活板门	ban bo de tong huo ban men	2298
+斑驳的铜块	ban bo de tong kuai	2302
+斑驳的铜门	ban bo de tong men	2300
+绊线	ban xian	1715
+绊线钩	ban xian gou	1714
+半砖	ban zhuan	164
+绑定磁石	bang ding ci shi	219
+绑定诅咒	bang ding zu zhou	1549
+保存并退回到标题屏幕	bao cun bing tui hui dao biao ti ping mu	678
+保存区块中	bao cun qu kuai zhong	677
+保存世界中	bao cun shi jie zhong	676
+报告漏洞	bao gao lou dong	681
+饱和	bao he	1563
+保护	bao hu	1526
+宝经磨炼	bao jing mo lian	3593
+宝库	bao ku	1698
+爆裂	bao lie	407
+爆裂紫颂果	bao lie zi song guo	931
+豹猫	bao mao	1430
+豹猫刷怪蛋	bao mao shua guai dan	952
+爆炸	bao zha	350
+爆炸保护	bao zha bao hu	1548
+爆炸击退抗性	bao zha ji tui kang xing	3421
+孢子花	bao zi hua	1783
+背包	bei bao	170
+被捕获	bei bu huo	231
+被踩踏	bei cai ta	255
+背蒂类	bei di lei	1367
+被放入	bei fang ru	447
+被放置	bei fang zhi	485
+被毁	bei hui	541
+被挤出谜之炖菜	bei ji chu mi zhi dun cai	321
+被挤奶	bei ji nai	395
+被系上	bei ji shang	330
+北极熊	bei ji xiong	1419
+北极熊刷怪蛋	bei ji xiong shua guai dan	932
+被破坏	bei po huai	488
+被取出	bei qu chu	446
+被射出	bei she chu	496
+被拾起	bei shi qi	331
+被刷落	bei shua luo	436
+悲恸纹样陶片	bei tong wen yang tao pian	972
+被修复	bei xiu fu	207
+被修剪	bei xiu jian	484
+被装起	bei zhuang qi	232
+被装饰	bei zhuang shi	327
+本地酿造厂	ben di niang zao chang	3498
+奔腾	ben teng	340
+迸裂	beng lie	482
+闭合	bi he	492
+闭合的眼眸花	bi he de yan mou hua	2466
+闭合的眼眸花盆栽	bi he de yan mou hua pen zai	1940
+逼近	bi jin	264
+避雷针	bi lei zhen	2160
+鼻痒	bi yang	316
+蝙蝠	bian fu	1503
+蝙蝠刷怪蛋	bian fu shua guai dan	1234
+蝙蝠伪和平	bian fu wei he ping	90
+编辑游戏规则	bian ji you xi gui ze	1590
+标靶	biao ba	1723
+标记	biao ji	1435
+滨菊	bin ju	2039
+滨菊盆栽	bin ju pen zai	1925
+冰刺之地	bing ci zhi di	3371
+冰道	bing dao	119
+冰冻伤害	bing dong shang hai	1291
+冰冻深海	bing dong shen hai	3386
+冰封山峰	bing feng shan feng	3374
+并且能够瞬间破坏方块	bing qie neng gou shun jian po huai fang kuai	644
+冰霜行者	bing shuang xing zhe	1537
+冰桶挑战	bing tong tiao zhan	3453
+播放	bo fang	479
+播放唱片数	bo fang chang pian shu	573
+玻璃	bo li	2281
+玻璃板	bo li ban	2280
+玻璃瓶	bo li ping	1085
+波纹边旗帜图案	bo wen bian qi zhi tu an	1217
+播种往事	bo zhong wang shi	3522
+不吃这套谢谢	bu chi zhe tao xie xie	3462
+不可堆叠分类	bu ke dui die fen lei	133
+不可合成的喷溅型药水	bu ke he cheng de pen jian xing yao shui	817
+不可合成的药箭	bu ke he cheng de yao jian	777
+不可合成的药水	bu ke he cheng de yao shui	928
+不可合成的滞留型药水	bu ke he cheng de zhi liu xing yao shui	1010
+不可破坏	bu ke po huai	183
+不死图腾	bu si tu teng	752
+不祥旗帜	bu xiang qi zhi	2055
+不祥试炼钥匙	bu xiang shi lian yao shi	950
+不祥涌动	bu xiang yong dong	458
+不祥之瓶	bu xiang zhi ping	951
+不祥之物生成器	bu xiang zhi wu sheng cheng qi	1429
+不祥之兆	bu xiang zhi zhao	1588
+捕鱼数	bu yu shu	603
+菜单	cai dan	695
+菜单背景模糊程度	cai dan bei jing mo hu cheng du	649
+采矿机	cai kuang ji	102
+采矿纹样陶片	cai kuang wen yang tao pian	974
+材质包	cai zhi bao	181
+残骸裹身	can hai guo shen	3480
+苍白垂须	cang bai chui xu	2027
+苍白覆地苔藓	cang bai fu di tai xian	2025
+苍白苔藓块	cang bai tai xian kuai	2026
+苍白橡木	cang bai xiang mu	2009
+苍白橡木按钮	cang bai xiang mu an niu	2024
+苍白橡木船	cang bai xiang mu chuan	1428
+苍白橡木告示牌	cang bai xiang mu gao shi pai	2014
+苍白橡木活板门	cang bai xiang mu huo ban men	2011
+苍白橡木楼梯	cang bai xiang mu lou ti	2012
+苍白橡木门	cang bai xiang mu men	2023
+苍白橡木木板	cang bai xiang mu mu ban	2017
+苍白橡木台阶	cang bai xiang mu tai jie	2013
+苍白橡木压力板	cang bai xiang mu ya li ban	2016
+苍白橡木原木	cang bai xiang mu yuan mu	2018
+苍白橡木运输船	cang bai xiang mu yun shu chuan	1427
+苍白橡木栅栏	cang bai xiang mu zha lan	2022
+苍白橡木栅栏门	cang bai xiang mu zha lan men	2021
+苍白橡树树苗	cang bai xiang shu shu miao	2015
+苍白橡树树苗盆栽	cang bai xiang shu shu miao pen zai	1924
+苍白橡树树叶	cang bai xiang shu shu ye	2019
+苍白之园	cang bai zhi yuan	3358
+草甸	cao dian	3365
+草方块	cao fang kuai	2271
+侧弹	ce dan	51
+插件	cha jian	165
+察觉到某物	cha jue dao mou wu	266
+插上白色蜡烛的蛋糕	cha shang bai se la zhu de dan gao	1622
+插上橙色蜡烛的蛋糕	cha shang cheng se la zhu de dan gao	2050
+插上淡灰色蜡烛的蛋糕	cha shang dan hui se la zhu de dan gao	2171
+插上淡蓝色蜡烛的蛋糕	cha shang dan lan se la zhu de dan gao	2184
+插上粉红色蜡烛的蛋糕	cha shang fen hong se la zhu de dan gao	2000
+插上黑色蜡烛的蛋糕	cha shang hei se la zhu de dan gao	2577
+插上红色蜡烛的蛋糕	cha shang hong se la zhu de dan gao	1872
+插上黄绿色蜡烛的蛋糕	cha shang huang lv se la zhu de dan gao	2153
+插上黄色蜡烛的蛋糕	cha shang huang se la zhu de dan gao	1605
+插上灰色蜡烛的蛋糕	cha shang hui se la zhu de dan gao	2266
+插上蜡烛的蛋糕	cha shang la zhu de dan gao	2509
+插上蓝色蜡烛的蛋糕	cha shang lan se la zhu de dan gao	2559
+插上绿色蜡烛的蛋糕	cha shang lv se la zhu de dan gao	2253
+插上品红色蜡烛的蛋糕	cha shang pin hong se la zhu de dan gao	2138
+插上青色蜡烛的蛋糕	cha shang qing se la zhu de dan gao	2403
+插上紫色蜡烛的蛋糕	cha shang zi se la zhu de dan gao	1898
+插上棕色蜡烛的蛋糕	cha shang zong se la zhu de dan gao	2533
+拆包机	chai bao ji	128
+颤动	chan dong	466
+缠根泥土	chan gen ni tu	1834
+产卵	chan luan	352
+颤鸣	chan ming	281
+缠怨藤	chan yuan teng	1700
+缠怨藤植株	chan yuan teng zhi zhu	1699
+铲子	chan zi	7
+唱片残片	chang pian can pian	1154
+唱片机	chang pian ji	2217
+唱片机音符盒	chang pian ji yin fu he	632
+唱片农场	chang pian nong chang	32
+超传	chao chuan	118
+超平坦	chao ping tan	1264
+潮汐盔甲纹饰	chao xi kui jia wen shi	778
+潮涌核心	chao yong he xin	2449
+潮涌能量	chao yong neng liang	1586
+超越生死	chao yue sheng si	3576
+沉思	chen si	1249
+沉重核心	chen zhong he xin	2240
+橙底	cheng di	3272
+成功在袭击中保卫村庄	cheng gong zai xi ji zhong bao wei cun zhuang	3610
+成交	cheng jiao	3575
+橙色	cheng se	1112
+橙色波纹边	cheng se bo wen bian	3176
+橙色床	cheng se chuang	2052
+橙色带釉陶瓦	cheng se dai you tao wa	2046
+橙色底波纹	cheng se di bo wen	2632
+橙色地球	cheng se di qiu	3064
+橙色地毯	cheng se di tan	2049
+橙色顶波纹	cheng se ding bo wen	2616
+橙色盾牌	cheng se dun pai	852
+橙色方框边	cheng se fang kuang bian	3256
+橙色花朵盾徽	cheng se hua duo dun hui	3080
+橙色混凝土	cheng se hun ning tu	2048
+橙色混凝土粉末	cheng se hun ning tu fen mo	2047
+橙色苦力怕盾徽	cheng se ku li pa dun hui	3208
+橙色蜡烛	cheng se la zhu	2051
+橙色菱形	cheng se ling xing	2920
+橙色旗帜	cheng se qi zhi	2053
+橙色潜影盒	cheng se qian ying he	2045
+橙色染料	cheng se ran liao	948
+橙色染色玻璃	cheng se ran se bo li	2044
+橙色染色玻璃板	cheng se ran se bo li ban	2043
+橙色上半方形	cheng se shang ban fang xing	3000
+橙色收纳袋	cheng se shou na dai	949
+橙色陶瓦	cheng se tao wa	2042
+橙色头颅盾徽	cheng se tou lu dun hui	2904
+橙色涡流	cheng se wo liu	3096
+橙色下半方形	cheng se xia ban fang xing	2984
+橙色旋风	cheng se xuan feng	3016
+橙色羊毛	cheng se yang mao	2040
+橙色右半方形	cheng se you ban fang xing	2968
+橙色右上三角	cheng se you shang san jiao	3160
+橙色右下三角	cheng se you xia san jiao	3128
+橙色郁金香	cheng se yu jin xiang	2041
+橙色郁金香盆栽	cheng se yu jin xiang pen zai	1926
+橙色圆形	cheng se yuan xing	3224
+橙色猪鼻	cheng se zhu bi	2936
+橙色砖纹	cheng se zhuan wen	3240
+橙色自上渐淡	cheng se zi shang jian dan	3048
+橙色自下渐淡	cheng se zi xia jian dan	3032
+橙色左半方形	cheng se zuo ban fang xing	2952
+橙色左上三角	cheng se zuo shang san jiao	3144
+橙色左下三角	cheng se zuo xia san jiao	3112
+成书	cheng shu	718
+橙竖条纹	cheng shu tiao wen	2888
+成双成对	cheng shuang cheng dui	3539
+橙斜十字	cheng xie shi zi	3192
+成长	cheng zhang	280
+橙正十字	cheng zheng shi zi	2808
+尺寸	chi cun	3407
+吃掉的蛋糕片数	chi diao de dan gao pian shu	607
+迟缓药水	chi huan yao shui	913
+迟缓之箭	chi huan zhi jian	763
+炽足兽	chi zu shou	1395
+炽足兽刷怪蛋	chi zu shou shua guai dan	783
+冲刺	chong ci	406
+冲击	chong ji	1525
+憧憬	chong jing	1246
+充能	chong neng	471
+重生点半径	chong sheng dian ban jing	1272
+重生锚	chong sheng mao	1835
+虫蚀雕纹石砖	chong shi diao wen shi zhuan	2231
+虫蚀裂纹石砖	chong shi lie wen shi zhuan	2229
+虫蚀深板岩	chong shi shen ban yan	2228
+虫蚀石头	chong shi shi tou	2226
+虫蚀石砖	chong shi shi zhuan	2225
+虫蚀苔石砖	chong shi tai shi zhuan	2227
+虫蚀药水	chong shi yao shui	924
+虫蚀圆石	chong shi yuan shi	2230
+虫蚀之箭	chong shi zhi jian	773
+重置试玩世界	chong zhi shi wan shi jie	680
+冲撞	chong zhuang	343
+抽搐	chou chu	391
+触发袭击次数	chu fa xi ji ci shu	569
+处理中	chu li zhong	671
+出生点	chu sheng dian	94
+出生点强加载	chu sheng dian qiang jia zai	95
+出生区块半径	chu sheng qu kuai ban jing	1273
+出现	chu xian	456
+穿刺	chuan ci	1536
+传送	chuan song	372
+传送带	chuan song dai	124
+传送到队伍成员	chuan song dao dui wu cheng yuan	628
+传送到玩家	chuan song dao wan jia	627
+传送门	chuan song men	174
+穿透	chuan tou	1528
+川纹笛鲷	chuan wen di diao	1369
+喘息	chuan xi	318
+船吸	chuan xi	49
+船吸刷怪塔	chuan xi shua guai ta	48
+创电	chuang dian	187
+创造	chuang zao	645
+创造电路	chuang zao dian lu	188
+创造模式	chuang zao mo shi	1325
+垂钓纹样陶片	chui diao wen yang tao pian	1243
+垂根	chui gen	2242
+吹口哨	chui kou shao	390
+垂泪藤	chui lei teng	1629
+垂泪藤植株	chui lei teng zhi zhu	1628
+吹奏	chui zou	221
+啜饮	chuo yin	351
+磁石	ci shi	2143
+磁石指针	ci shi zhi zhen	984
+刺蛰	ci zhe	418
+从袋中取出	cong dai zhong qu chu	228
+从炼药锅取水次数	cong lian yao guo qu shui ci shu	554
+丛林	cong lin	3369
+丛林木	cong lin mu	2201
+丛林木按钮	cong lin mu an niu	2216
+丛林木板	cong lin mu ban	2209
+丛林木船	cong lin mu chuan	1445
+丛林木告示牌	cong lin mu gao shi pai	2206
+丛林木活板门	cong lin mu huo ban men	2203
+丛林木楼梯	cong lin mu lou ti	2204
+丛林木门	cong lin mu men	2215
+丛林木台阶	cong lin mu tai jie	2205
+丛林木压力板	cong lin mu ya li ban	2208
+丛林木运输船	cong lin mu yun shu chuan	1444
+丛林木栅栏	cong lin mu zha lan	2214
+丛林木栅栏门	cong lin mu zha lan men	2213
+丛林树苗	cong lin shu miao	2207
+丛林树苗盆栽	cong lin shu miao pen zai	1931
+丛林树叶	cong lin shu ye	2211
+丛林原木	cong lin yuan mu	2210
+粗金	cu jin	883
+粗金块	cu jin kuai	1877
+粗铁	cu tie	882
+粗铁块	cu tie kuai	1876
+粗铜	cu tong	884
+粗铜块	cu tong kuai	1878
+粗制的药水	cu zhi de yao shui	929
+窜动	cuan dong	371
+催发	cui fa	467
+脆弱的同盟	cui ruo de tong meng	3467
+催熟	cui shu	23
+村民	cun min	1353
+村民存储	cun min cun chu	12
+村民繁殖	cun min fan zhi	30
+村民交互次数	cun min jiao hu ci shu	562
+村民交易次数	cun min jiao yi ci shu	557
+村民筛选	cun min shai xuan	13
+村民刷怪蛋	cun min shua guai dan	742
+村民提取	cun min ti qu	11
+村庄英雄	cun zhuang ying xiong	3609
+打包机	da bao ji	140
+打嗝	da ge	295
+打鼾	da han	356
+打火石	da huo shi	1097
+打开	da kai	537
+打喷嚏	da pen ti	315
+大师	da shi	666
+大型垂滴叶	da xing chui di ye	2598
+大型垂滴叶茎	da xing chui di ye jing	2597
+大型蕨	da xing jue	2193
+大型球状	da xing qiu zhuang	1105
+大型紫晶芽	da xing zi jing ya	2194
+大云杉树场	da yun shan shu chang	74
+带信标回家	dai xin biao hui jia	3494
+蛋糕	dan gao	2514
+淡化至	dan hua zhi	1120
+淡灰底	dan hui di	3275
+淡灰色	dan hui se	1115
+淡灰色波纹边	dan hui se bo wen bian	3179
+淡灰色床	dan hui se chuang	2173
+淡灰色带釉陶瓦	dan hui se dai you tao wa	2167
+淡灰色底波纹	dan hui se di bo wen	2635
+淡灰色地球	dan hui se di qiu	3067
+淡灰色地毯	dan hui se di tan	2170
+淡灰色顶波纹	dan hui se ding bo wen	2619
+淡灰色盾牌	dan hui se dun pai	855
+淡灰色方框边	dan hui se fang kuang bian	3259
+淡灰色花朵盾徽	dan hui se hua duo dun hui	3083
+淡灰色混凝土	dan hui se hun ning tu	2169
+淡灰色混凝土粉末	dan hui se hun ning tu fen mo	2168
+淡灰色苦力怕盾徽	dan hui se ku li pa dun hui	3211
+淡灰色蜡烛	dan hui se la zhu	2172
+淡灰色菱形	dan hui se ling xing	2923
+淡灰色旗帜	dan hui se qi zhi	2174
+淡灰色潜影盒	dan hui se qian ying he	2166
+淡灰色染料	dan hui se ran liao	1015
+淡灰色染色玻璃	dan hui se ran se bo li	2165
+淡灰色染色玻璃板	dan hui se ran se bo li ban	2164
+淡灰色上半方形	dan hui se shang ban fang xing	3003
+淡灰色收纳袋	dan hui se shou na dai	1016
+淡灰色陶瓦	dan hui se tao wa	2163
+淡灰色头颅盾徽	dan hui se tou lu dun hui	2907
+淡灰色涡流	dan hui se wo liu	3099
+淡灰色下半方形	dan hui se xia ban fang xing	2987
+淡灰色旋风	dan hui se xuan feng	3019
+淡灰色羊毛	dan hui se yang mao	2162
+淡灰色右半方形	dan hui se you ban fang xing	2971
+淡灰色右上三角	dan hui se you shang san jiao	3163
+淡灰色右下三角	dan hui se you xia san jiao	3131
+淡灰色圆形	dan hui se yuan xing	3227
+淡灰色猪鼻	dan hui se zhu bi	2939
+淡灰色砖纹	dan hui se zhuan wen	3243
+淡灰色自上渐淡	dan hui se zi shang jian dan	3051
+淡灰色自下渐淡	dan hui se zi xia jian dan	3035
+淡灰色左半方形	dan hui se zuo ban fang xing	2955
+淡灰色左上三角	dan hui se zuo shang san jiao	3147
+淡灰色左下三角	dan hui se zuo xia san jiao	3115
+淡灰竖条纹	dan hui shu tiao wen	2891
+淡灰斜十字	dan hui xie shi zi	3195
+淡灰正十字	dan hui zheng shi zi	2811
+淡蓝底	dan lan di	3276
+淡蓝色	dan lan se	1116
+淡蓝色波纹边	dan lan se bo wen bian	3180
+淡蓝色床	dan lan se chuang	2186
+淡蓝色带釉陶瓦	dan lan se dai you tao wa	2180
+淡蓝色底波纹	dan lan se di bo wen	2636
+淡蓝色地球	dan lan se di qiu	3068
+淡蓝色地毯	dan lan se di tan	2183
+淡蓝色顶波纹	dan lan se ding bo wen	2620
+淡蓝色盾牌	dan lan se dun pai	856
+淡蓝色方框边	dan lan se fang kuang bian	3260
+淡蓝色花朵盾徽	dan lan se hua duo dun hui	3084
+淡蓝色混凝土	dan lan se hun ning tu	2182
+淡蓝色混凝土粉末	dan lan se hun ning tu fen mo	2181
+淡蓝色苦力怕盾徽	dan lan se ku li pa dun hui	3212
+淡蓝色蜡烛	dan lan se la zhu	2185
+淡蓝色菱形	dan lan se ling xing	2924
+淡蓝色旗帜	dan lan se qi zhi	2187
+淡蓝色潜影盒	dan lan se qian ying he	2179
+淡蓝色染料	dan lan se ran liao	1017
+淡蓝色染色玻璃	dan lan se ran se bo li	2178
+淡蓝色染色玻璃板	dan lan se ran se bo li ban	2177
+淡蓝色上半方形	dan lan se shang ban fang xing	3004
+淡蓝色收纳袋	dan lan se shou na dai	1018
+淡蓝色陶瓦	dan lan se tao wa	2176
+淡蓝色头颅盾徽	dan lan se tou lu dun hui	2908
+淡蓝色涡流	dan lan se wo liu	3100
+淡蓝色下半方形	dan lan se xia ban fang xing	2988
+淡蓝色旋风	dan lan se xuan feng	3020
+淡蓝色羊毛	dan lan se yang mao	2175
+淡蓝色右半方形	dan lan se you ban fang xing	2972
+淡蓝色右上三角	dan lan se you shang san jiao	3164
+淡蓝色右下三角	dan lan se you xia san jiao	3132
+淡蓝色圆形	dan lan se yuan xing	3228
+淡蓝色猪鼻	dan lan se zhu bi	2940
+淡蓝色砖纹	dan lan se zhuan wen	3244
+淡蓝色自上渐淡	dan lan se zi shang jian dan	3052
+淡蓝色自下渐淡	dan lan se zi xia jian dan	3036
+淡蓝色左半方形	dan lan se zuo ban fang xing	2956
+淡蓝色左上三角	dan lan se zuo shang san jiao	3148
+淡蓝色左下三角	dan lan se zuo xia san jiao	3116
+淡蓝竖条纹	dan lan shu tiao wen	2892
+淡蓝斜十字	dan lan xie shi zi	3196
+淡蓝正十字	dan lan zheng shi zi	2812
+单人游戏	dan ren you xi	672
+单一生物群系	dan yi sheng wu qun xi	1261
+倒空	dao kong	239
+灯笼	deng long	2197
+底白横条	di bai heng tiao	2788
+底白三角	di bai san jiao	2660
+地板机	di ban ji	100
+底橙横条	di cheng heng tiao	2792
+底橙三角	di cheng san jiao	2664
+底淡灰横条	di dan hui heng tiao	2795
+底淡灰三角	di dan hui san jiao	2667
+底淡蓝横条	di dan lan heng tiao	2796
+底淡蓝三角	di dan lan san jiao	2668
+抵挡的伤害	di dang de shang hai	611
+敌对生物	di dui sheng wu	636
+底粉红横条	di fen hong heng tiao	2791
+底粉红三角	di fen hong san jiao	2663
+底黑横条	di hei heng tiao	2802
+底黑三角	di hei san jiao	2674
+底红横条	di hong heng tiao	2789
+底红三角	di hong san jiao	2661
+低吼	di hou	339
+底黄横条	di huang heng tiao	2787
+底黄绿横条	di huang lv heng tiao	2794
+底黄绿三角	di huang lv san jiao	2666
+底黄三角	di huang san jiao	2659
+底灰横条	di hui heng tiao	2798
+底灰三角	di hui san jiao	2670
+底蓝横条	di lan heng tiao	2801
+底蓝三角	di lan san jiao	2673
+滴落	di luo	532
+底绿横条	di lv heng tiao	2797
+底绿三角	di lv san jiao	2669
+低鸣	di ming	381
+底品红横条	di pin hong heng tiao	2793
+底品红三角	di pin hong san jiao	2665
+底青横条	di qing heng tiao	2799
+底青三角	di qing san jiao	2671
+地球	di qiu	1083
+地球旗帜图案	di qiu qi zhi tu an	1082
+滴入炼药锅	di ru lian yao guo	477
+滴水石块	di shui shi kuai	2318
+滴水石锥	di shui shi zhui	1981
+地毯机	di tan ji	150
+地图	di tu	1128
+地吞	di tun	106
+低语	di yu	308
+地狱门	di yu men	117
+地狱门黑曜石农场	di yu men hei yao shi nong chang	64
+地狱门加载器	di yu men jia zai qi	98
+地狱门猪人塔	di yu men zhu ren ta	43
+地狱吞噬者	di yu tun shi zhe	107
+底紫横条	di zi heng tiao	2790
+底紫三角	di zi san jiao	2662
+底棕横条	di zong heng tiao	2800
+底棕三角	di zong san jiao	2672
+点火	dian huo	223
+电闪雷鸣	dian shan lei ming	208
+电涌保护器	dian yong bao hu qi	3600
+钓到一条鱼	diao dao yi tiao yu	3532
+雕刻	diao ke	472
+雕刻南瓜	diao ke nan gua	2506
+凋灵	diao ling	1334
+凋零	diao ling	1552
+凋灵骷髅	diao ling ku lou	1333
+凋灵骷髅刷怪蛋	diao ling ku lou shua guai dan	728
+凋灵骷髅头颅	diao ling ku lou tou lu	1610
+凋灵笼	diao ling long	60
+凋灵玫瑰	diao ling mei gui	1611
+凋零玫瑰农场	diao ling mei gui nong chang	153
+凋灵玫瑰盆栽	diao ling mei gui pen zai	1914
+凋零山庄	diao ling shan zhuang	3468
+凋灵刷怪蛋	diao ling shua guai dan	727
+凋灵之首	diao ling zhi shou	1332
+掉落	diao luo	1319
+雕纹红砂岩	diao wen hong sha yan	2475
+雕纹磨制黑石	diao wen mo zhi hei shi	2477
+雕纹凝灰岩	diao wen ning hui yan	2471
+雕纹凝灰岩砖	diao wen ning hui yan zhuan	2470
+雕纹砂岩	diao wen sha yan	2473
+雕纹深板岩	diao wen shen ban yan	2479
+雕纹石英块	diao wen shi ying kuai	2476
+雕纹石砖	diao wen shi zhuan	2472
+雕纹书架	diao wen shu jia	2481
+雕纹树脂砖块	diao wen shu zhi zhuan kuai	2474
+雕纹铜块	diao wen tong kuai	2480
+雕纹下界砖块	diao wen xia jie zhuan kuai	2478
+钓鱼竿	diao yu gan	1099
+顶白横条	ding bai heng tiao	2676
+顶白三角	ding bai san jiao	2644
+顶橙横条	ding cheng heng tiao	2680
+顶橙三角	ding cheng san jiao	2648
+顶淡灰横条	ding dan hui heng tiao	2683
+顶淡灰三角	ding dan hui san jiao	2651
+顶淡蓝横条	ding dan lan heng tiao	2684
+顶淡蓝三角	ding dan lan san jiao	2652
+叮当	ding dang	246
+顶粉红横条	ding fen hong heng tiao	2679
+顶粉红三角	ding fen hong san jiao	2647
+顶黑横条	ding hei heng tiao	2690
+顶黑三角	ding hei san jiao	2658
+顶红横条	ding hong heng tiao	2677
+顶红三角	ding hong san jiao	2645
+顶黄横条	ding huang heng tiao	2675
+顶黄绿横条	ding huang lv heng tiao	2682
+顶黄绿三角	ding huang lv san jiao	2650
+顶黄三角	ding huang san jiao	2643
+顶灰横条	ding hui heng tiao	2686
+顶灰三角	ding hui san jiao	2654
+顶蓝横条	ding lan heng tiao	2689
+顶蓝三角	ding lan san jiao	2657
+叮铃	ding ling	543
+顶绿横条	ding lv heng tiao	2685
+顶绿三角	ding lv san jiao	2653
+顶品红横条	ding pin hong heng tiao	2681
+顶品红三角	ding pin hong san jiao	2649
+顶青横条	ding qing heng tiao	2687
+顶青三角	ding qing san jiao	2655
+丁香	ding xiang	2159
+顶紫横条	ding zi heng tiao	2678
+顶紫三角	ding zi san jiao	2646
+顶棕横条	ding zong heng tiao	2688
+顶棕三角	ding zong san jiao	2656
+丢弃个数	diu qi ge shu	548
+丢下种子	diu xia zhong zi	283
+冻河	dong he	3373
+动力矿车	dong li kuang che	1461
+动力铁轨	dong li tie gui	1911
+冻伤	dong shang	294
+动物伪和平	dong wu wei he ping	91
+洞穴	dong xue	1260
+洞穴空气	dong xue kong qi	2504
+洞穴藤蔓	dong xue teng wan	2503
+洞穴藤蔓植株	dong xue teng wan zhi zhu	2502
+洞穴蜘蛛	dong xue zhi zhu	1493
+洞穴蜘蛛刷怪蛋	dong xue zhi zhu shua guai dan	1202
+冻洋	dong yang	3375
+抖包袱	dou bao fu	3578
+蚪到桶里来	dou dao tong li lai	3511
+蠹虫	du chong	1410
+蠹虫刷怪蛋	du chong shua guai dan	842
+杜鹃花丛	du juan hua cong	3304
+杜鹃花丛盆栽	du juan hua cong pen zai	1948
+杜鹃树叶	du juan shu ye	3303
+毒马铃薯	du ma ling shu	933
+断角	duan jiao	345
+断开	duan kai	454
+断开连接	duan kai lian jie	690
+端详物品	duan xiang wu pin	304
+锻造模板	duan zao mu ban	834
+锻造台	duan zao tai	1809
+堆叠刷铁机	dui die shua tie ji	70
+堆肥	dui fei	507
+堆肥桶	dui fei tong	2450
+对局域网开放	dui ju yu wang kai fang	673
+堆门猪人塔	dui men zhu ren ta	42
+对着磁石使用指南针	dui zhe ci shi shi yong zhi nan zhen	3466
+盾构机	dun gou ji	105
+盾牌	dun pai	863
+盾牌抵挡的伤害	dun pai di dang de shang hai	615
+多斑类	duo ban lei	1358
+多重射击	duo chong she ji	1529
+跺脚	duo jiao	344
+多人游戏	duo ren you xi	687
+额斑刺蝶鱼	e ban ci die yu	1384
+恶地	e di	3397
+恶魂	e hun	1460
+恶魂扫帚	e hun sao zhou	123
+恶魂刷怪蛋	e hun shua guai dan	1087
+恶魂之泪	e hun zhi lei	1086
+额外氧气	e wai yang qi	3409
+饵钓	er diao	1531
+发动	fa dong	212
+发光	fa guang	1582
+发光地衣	fa guang di yi	2279
+发光浆果	fa guang jiang guo	1081
+发光鱿鱼	fa guang you yu	1457
+发光鱿鱼刷怪蛋	fa guang you yu shua guai dan	1079
+发酵蛛眼	fa jiao zhu yan	1130
+伐木	fa mu	167
+发怒	fa nu	319
+发射	fa she	362
+发射器	fa she qi	2323
+发射失败	fa she shi bai	495
+发射音波	fa she yin bo	262
+发送命令反馈	fa song ming ling fan kui	1276
+反刺	fan ci	445
+繁花森林	fan hua sen lin	3377
+返回到服务器列表	fan hui dao fu wu qi lie biao	1254
+反馈	fan kui	689
+繁茂洞穴	fan mao dong xue	3367
+反弹	fan tan	412
+反胃	fan wei	1570
+繁殖动物次数	fan zhi dong wu ci shu	625
+繁殖每种动物	fan zhi mei zhong dong wu	3540
+繁殖一对动物	fan zhi yi dui dong wu	3538
+放大	fang da	213
+放大化	fang da hua	1266
+方解石	fang jie shi	2513
+方块	fang kuai	637
+方块掉落	fang kuai diao luo	1300
+方块更新	fang kuai geng xin	86
+方块计划	fang kuai ji hua	83
+方块交互距离	fang kuai jiao hu ju li	3424
+方块破坏速度	fang kuai po huai su du	3425
+方块实体	fang kuai shi ti	79
+方块展示实体	fang kuai zhan shi shi ti	1498
+放入盔甲	fang ru kui jia	832
+放入下界合金锭	fang ru xia jie he jin ding	829
+方身类	fang shen lei	1366
+防御塔	fang yu ta	173
+放置	fang zhi	240
+放置或者移除方块	fang zhi huo zhe yi chu fang kuai	646
+飞出	fei chu	382
+绯红菌	fei hong jun	2427
+绯红菌柄	fei hong jun bing	2417
+绯红菌核	fei hong jun he	2425
+绯红菌盆栽	fei hong jun pen zai	1938
+绯红菌索	fei hong jun suo	2421
+绯红菌索盆栽	fei hong jun suo pen zai	1937
+绯红菌岩	fei hong jun yan	2424
+绯红木按钮	fei hong mu an niu	2431
+绯红木板	fei hong mu ban	2423
+绯红木告示牌	fei hong mu gao shi pai	2420
+绯红木活板门	fei hong mu huo ban men	2416
+绯红木楼梯	fei hong mu lou ti	2418
+绯红木门	fei hong mu men	2430
+绯红木台阶	fei hong mu tai jie	2419
+绯红木压力板	fei hong mu ya li ban	2422
+绯红木栅栏	fei hong mu zha lan	2429
+绯红木栅栏门	fei hong mu zha lan men	2428
+绯红森林	fei hong sen lin	3390
+飞升	fei sheng	519
+非生物实体掉落	fei sheng wu shi ti diao luo	1308
+飞行	fei xing	411
+飞行距离	fei xing ju li	602
+飞行器	fei xing qi	115
+飞行器甘蔗机	fei xing qi gan zhe ji	25
+飞行时间	fei xing shi jian	1126
+飞行速度	fei xing su du	3419
+飞翼类	fei yi lei	1362
+粉红底	fen hong di	3271
+粉红色	fen hong se	1111
+粉红色波纹边	fen hong se bo wen bian	3175
+粉红色床	fen hong se chuang	2002
+粉红色带釉陶瓦	fen hong se dai you tao wa	1996
+粉红色底波纹	fen hong se di bo wen	2631
+粉红色地球	fen hong se di qiu	3063
+粉红色地毯	fen hong se di tan	1999
+粉红色顶波纹	fen hong se ding bo wen	2615
+粉红色盾牌	fen hong se dun pai	851
+粉红色方框边	fen hong se fang kuang bian	3255
+粉红色花簇	fen hong se hua cu	1995
+粉红色花朵盾徽	fen hong se hua duo dun hui	3079
+粉红色混凝土	fen hong se hun ning tu	1998
+粉红色混凝土粉末	fen hong se hun ning tu fen mo	1997
+粉红色苦力怕盾徽	fen hong se ku li pa dun hui	3207
+粉红色蜡烛	fen hong se la zhu	2001
+粉红色菱形	fen hong se ling xing	2919
+粉红色旗帜	fen hong se qi zhi	2003
+粉红色潜影盒	fen hong se qian ying he	1994
+粉红色染料	fen hong se ran liao	936
+粉红色染色玻璃	fen hong se ran se bo li	1993
+粉红色染色玻璃板	fen hong se ran se bo li ban	1992
+粉红色上半方形	fen hong se shang ban fang xing	2999
+粉红色收纳袋	fen hong se shou na dai	937
+粉红色陶瓦	fen hong se tao wa	1991
+粉红色头颅盾徽	fen hong se tou lu dun hui	2903
+粉红色涡流	fen hong se wo liu	3095
+粉红色下半方形	fen hong se xia ban fang xing	2983
+粉红色旋风	fen hong se xuan feng	3015
+粉红色羊毛	fen hong se yang mao	1989
+粉红色右半方形	fen hong se you ban fang xing	2967
+粉红色右上三角	fen hong se you shang san jiao	3159
+粉红色右下三角	fen hong se you xia san jiao	3127
+粉红色郁金香	fen hong se yu jin xiang	1990
+粉红色郁金香盆栽	fen hong se yu jin xiang pen zai	1923
+粉红色圆形	fen hong se yuan xing	3223
+粉红色猪鼻	fen hong se zhu bi	2935
+粉红色砖纹	fen hong se zhuan wen	3239
+粉红色自上渐淡	fen hong se zi shang jian dan	3047
+粉红色自下渐淡	fen hong se zi xia jian dan	3031
+粉红色左半方形	fen hong se zuo ban fang xing	2951
+粉红色左上三角	fen hong se zuo shang san jiao	3143
+粉红色左下三角	fen hong se zuo xia san jiao	3111
+粉红竖条纹	fen hong shu tiao wen	2887
+粉红斜十字	fen hong xie shi zi	3191
+粉红正十字	fen hong zheng shi zi	2807
+分类机	fen lei ji	143
+愤怒	fen nu	359
+愤怒地哼叫	fen nu de heng jiao	303
+愤怒地呼噜	fen nu de hu lu	251
+愤怒地呻吟	fen nu de shen yin	270
+愤怒地嗡嗡叫	fen nu de weng weng jiao	420
+分影	fen ying	337
+风爆	feng bao	1513
+蜂巢	feng chao	2601
+风弹	feng dan	1495
+锋利	feng li	1522
+蜂蜜块	feng mi kuai	2238
+蜂蜜瓶	feng mi ping	1048
+风蚀恶地	feng shi e di	3378
+风袭丘陵	feng xi qiu ling	3336
+风袭热带草原	feng xi re dai cao yuan	3335
+风袭森林	feng xi sen lin	3338
+风袭沙砾丘陵	feng xi sha li qiu ling	3337
+蜂箱	feng xiang	2600
+浮冰	fu bing	2029
+俯冲	fu chong	305
+浮岛	fu dao	1259
+覆地苔藓	fu di tai xian	2106
+孵化	fu hua	489
+复活末影龙	fu huo mo ying long	3550
+附魔	fu mo	87
+附魔金苹果	fu mo jin ping guo	1140
+附魔师	fu mo shi	3460
+附魔书	fu mo shu	1141
+附魔台	fu mo tai	2314
+附魔之瓶	fu mo zhi ping	1134
+浮漂	fu piao	1464
+富饶纹样陶片	fu rao wen yang tao pian	934
+腐肉	fu rou	875
+服务器版本	fu wu qi ban ben	651
+服务器链接	fu wu qi lian jie	674
+辅助效果	fu zhu xiao guo	2605
+斧子	fu zi	8
+嘎枝	ga zhi	1486
+嘎枝刷怪蛋	ga zhi shua guai dan	1174
+嘎枝之心	ga zhi zhi xin	2434
+嘎吱作响	ga zhi zuo xiang	494
+干草捆	gan cao kun	2241
+干海带	gan hai dai	1149
+干海带块	gan hai dai kuai	2319
+感染	gan ran	254
+感受	gan shou	1250
+甘蔗	gan zhe	1730
+甘蔗机	gan zhe ji	27
+高草丛	gao cao cong	1725
+高海草	gao hai cao	1724
+高炉	gao lu	2563
+高鳍鹦嘴鱼	gao qi ying zui yu	1376
+告示牌	gao shi pai	844
+高兴地嗡嗡叫	gao xing de weng weng jiao	419
+镐子	gao zi	9
+格挡	ge dang	216
+咯咯叫	ge ge jiao	397
+咯咯声	ge ge sheng	414
+隔墙有眼	ge qiang you yan	3455
+歌颂	ge song	1247
+给铜质方块脱蜡	gei tong zhi fang kuai tuo la	3508
+跟随末影之眼	gen sui mo ying zhi yan	3456
+耕地	geng di	2294
+更新跳略器	geng xin tiao lue qi	84
+更新抑制器	geng xin yi zhi qi	85
+攻击	gong ji	505
+攻击伤害	gong ji shang hai	3428
+攻击速度	gong ji su du	3426
+弓箭纹样陶片	gong jian wen yang tao pian	1241
+工具匠	gong ju jiang	1340
+工具与实用物品	gong ju yu shi yong wu pin	696
+功能方块	gong neng fang kuai	704
+共振	gong zhen	542
+工作	gong zuo	528
+工作台	gong zuo tai	2435
+咕咚	gu dong	243
+骨粉	gu fen	1218
+咕呱	gu gua	353
+固化机	gu hua ji	68
+骨块	gu kuai	2547
+咕哝	gu nong	370
+骨头	gu tou	1219
+雇主盔甲纹饰	gu zhu kui jia wen shi	1045
+呱呱队出动	gua gua dui chu dong	3528
+刮削	gua xiao	529
+刮削纹样陶片	gua xiao wen yang tao pian	871
+怪味蛋	guai wei dan	3524
+怪物猎人	guai wu lie ren	3605
+怪物伪和平	guai wu wei he ping	92
+怪异的噪声	guai yi de zao sheng	544
+关闭	guan bi	538
+关闭菜单	guan bi cai dan	629
+管理员用品	guan li yuan yong pin	700
+管珊瑚	guan shan hu	1713
+管珊瑚块	guan shan hu kuai	1712
+管珊瑚扇	guan shan hu shan	1711
+广播命令方块输出	guang bo ming ling fang kuai shu chu	1314
+光辉岁月	guang hui sui yue	3486
+光灵箭	guang ling jian	1401
+光影	guang ying	180
+光源方块	guang yuan fang kuai	2188
+光照抑制	guang zhao yi zhi	45
+诡异菌	gui yi jun	1689
+诡异菌柄	gui yi jun bing	1679
+诡异菌钓竿	gui yi jun diao gan	737
+诡异菌核	gui yi jun he	1687
+诡异菌盆栽	gui yi jun pen zai	1917
+诡异菌索	gui yi jun suo	1683
+诡异菌索盆栽	gui yi jun suo pen zai	1916
+诡异菌岩	gui yi jun yan	1686
+诡异木按钮	gui yi mu an niu	1693
+诡异木板	gui yi mu ban	1685
+诡异木告示牌	gui yi mu gao shi pai	1682
+诡异木活板门	gui yi mu huo ban men	1678
+诡异木楼梯	gui yi mu lou ti	1680
+诡异木门	gui yi mu men	1692
+诡异木台阶	gui yi mu tai jie	1681
+诡异木压力板	gui yi mu ya li ban	1684
+诡异木栅栏	gui yi mu zha lan	1691
+诡异木栅栏门	gui yi mu zha lan men	1690
+诡异森林	gui yi sen lin	3339
+诡异疣块	gui yi you kuai	1676
+鲑鱼	gui yu	1414
+鲑鱼刷怪蛋	gui yu shua guai dan	872
+鲑鱼桶	gui yu tong	873
+滚筒洗牛机	gun tong xi niu ji	15
+海岸盔甲纹饰	hai an kui jia wen shi	1190
+海草	hai cao	1819
+海带	hai dai	2200
+海带植株	hai dai zhi zhu	2199
+海龟	hai gui	1355
+海龟蛋	hai gui dan	1701
+海龟鳞甲	hai gui lin jia	746
+海龟壳	hai gui qiao	747
+海龟刷怪蛋	hai gui shua guai dan	745
+海晶灯	hai jing deng	1821
+海晶砂粒	hai jing sha li	900
+海晶石	hai jing shi	1910
+海晶石楼梯	hai jing shi lou ti	1905
+海晶石墙	hai jing shi qiang	1904
+海晶石台阶	hai jing shi tai jie	1906
+海晶石砖	hai jing shi zhuan	1907
+海晶石砖楼梯	hai jing shi zhuan lou ti	1908
+海晶石砖台阶	hai jing shi zhuan tai jie	1909
+海晶碎片	hai jing sui pian	899
+海葵鱼	hai kui yu	1389
+海绵	hai mian	1784
+海泡菜	hai pao cai	1820
+海豚	hai tun	1482
+海豚的恩惠	hai tun de en hui	1584
+海豚刷怪蛋	hai tun shua guai dan	1152
+海洋	hai yang	3362
+海洋之心	hai yang zhi xin	1052
+还要啥火箭啊	hai yao sha huo jian a	3564
+海之眷顾	hai zhi juan gu	1532
+喊叫	han jiao	373
+嚎叫	hao jiao	259
+毫秒	hao miao	657
+耗能	hao neng	470
+合成	he cheng	503
+合成表	he cheng biao	171
+合成次数	he cheng ci shu	549
+合成器	he cheng qi	2436
+合成器合成合成器	he cheng qi he cheng he cheng qi	3612
+合成失败	he cheng shi bai	502
+合成需要配方	he cheng xu yao pei fang	1304
+合成用品	he cheng yong pin	706
+河流	he liu	3356
+喝奶	he nai	273
+河豚	he tun	1417
+河豚刷怪蛋	he tun shua guai dan	897
+河豚桶	he tun tong	898
+黑暗	hei an	1585
+黑刺尾鲷	hei ci wei diao	1388
+黑底	hei di	3282
+黑色	hei se	1124
+黑色波纹边	hei se bo wen bian	3186
+黑色床	hei se chuang	2579
+黑色带釉陶瓦	hei se dai you tao wa	2573
+黑色底波纹	hei se di bo wen	2642
+黑色地球	hei se di qiu	3074
+黑色地毯	hei se di tan	2576
+黑色顶波纹	hei se ding bo wen	2626
+黑色盾牌	hei se dun pai	862
+黑色方框边	hei se fang kuang bian	3266
+黑色花朵盾徽	hei se hua duo dun hui	3090
+黑色混凝土	hei se hun ning tu	2575
+黑色混凝土粉末	hei se hun ning tu fen mo	2574
+黑色苦力怕盾徽	hei se ku li pa dun hui	3218
+黑色蜡烛	hei se la zhu	2578
+黑色菱形	hei se ling xing	2930
+黑色旗帜	hei se qi zhi	2580
+黑色潜影盒	hei se qian ying he	2572
+黑色染料	hei se ran liao	1228
+黑色染色玻璃	hei se ran se bo li	2571
+黑色染色玻璃板	hei se ran se bo li ban	2570
+黑色上半方形	hei se shang ban fang xing	3010
+黑色收纳袋	hei se shou na dai	1229
+黑色陶瓦	hei se tao wa	2569
+黑色头颅盾徽	hei se tou lu dun hui	2914
+黑色涡流	hei se wo liu	3106
+黑色下半方形	hei se xia ban fang xing	2994
+黑色橡木树场	hei se xiang mu shu chang	75
+黑色旋风	hei se xuan feng	3026
+黑色羊毛	hei se yang mao	2568
+黑色右半方形	hei se you ban fang xing	2978
+黑色右上三角	hei se you shang san jiao	3170
+黑色右下三角	hei se you xia san jiao	3138
+黑色圆形	hei se yuan xing	3234
+黑色猪鼻	hei se zhu bi	2946
+黑色砖纹	hei se zhuan wen	3250
+黑色自上渐淡	hei se zi shang jian dan	3058
+黑色自下渐淡	hei se zi xia jian dan	3042
+黑色左半方形	hei se zuo ban fang xing	2962
+黑色左上三角	hei se zuo shang san jiao	3154
+黑色左下三角	hei se zuo xia san jiao	3122
+黑森林	hei sen lin	3389
+黑石	hei shi	2567
+黑石楼梯	hei shi lou ti	2565
+黑石墙	hei shi qiang	2564
+黑石台阶	hei shi tai jie	2566
+黑竖条纹	hei shu tiao wen	2898
+黑斜十字	hei xie shi zi	3202
+黑曜石	hei yao shi	2057
+黑曜石农场	hei yao shi nong chang	66
+黑正十字	hei zheng shi zi	2818
+哼哼	heng heng	291
+哼叫	heng jiao	311
+横扫攻击	heng sao gong ji	297
+横扫伤害比率	heng sao shang hai bi lv	3400
+横扫之刃	heng sao zhi ren	1518
+红边笛鲷	hong bian di diao	1381
+红唇真蛇鳚	hong chun zhen she wei	1382
+红底	hong di	3269
+烘干	hong gan	448
+红丽鱼	hong li yu	1383
+红色	hong se	1109
+红色波纹边	hong se bo wen bian	3173
+红色床	hong se chuang	1874
+红色带釉陶瓦	hong se dai you tao wa	1868
+红色底波纹	hong se di bo wen	2629
+红色地球	hong se di qiu	3061
+红色地毯	hong se di tan	1871
+红色顶波纹	hong se ding bo wen	2613
+红色盾牌	hong se dun pai	849
+红色方框边	hong se fang kuang bian	3253
+红色花朵盾徽	hong se hua duo dun hui	3077
+红色混凝土	hong se hun ning tu	1870
+红色混凝土粉末	hong se hun ning tu fen mo	1869
+红色苦力怕盾徽	hong se ku li pa dun hui	3205
+红色蜡烛	hong se la zhu	1873
+红色菱形	hong se ling xing	2917
+红色蘑菇	hong se mo gu	1867
+红色蘑菇方块	hong se mo gu fang kuai	1866
+红色蘑菇盆栽	hong se mo gu pen zai	1921
+红色旗帜	hong se qi zhi	1875
+红色潜影盒	hong se qian ying he	1856
+红色染料	hong se ran liao	879
+红色染色玻璃	hong se ran se bo li	1855
+红色染色玻璃板	hong se ran se bo li ban	1854
+红色上半方形	hong se shang ban fang xing	2997
+红色收纳袋	hong se shou na dai	880
+红色陶瓦	hong se tao wa	1853
+红色头颅盾徽	hong se tou lu dun hui	2901
+红色涡流	hong se wo liu	3093
+红色下半方形	hong se xia ban fang xing	2981
+红色下界砖块	hong se xia jie zhuan kuai	1862
+红色下界砖楼梯	hong se xia jie zhuan lou ti	1864
+红色下界砖墙	hong se xia jie zhuan qiang	1863
+红色下界砖台阶	hong se xia jie zhuan tai jie	1865
+红色旋风	hong se xuan feng	3013
+红色羊毛	hong se yang mao	1851
+红色右半方形	hong se you ban fang xing	2965
+红色右上三角	hong se you shang san jiao	3157
+红色右下三角	hong se you xia san jiao	3125
+红色郁金香	hong se yu jin xiang	1852
+红色郁金香盆栽	hong se yu jin xiang pen zai	1920
+红色圆形	hong se yuan xing	3221
+红色猪鼻	hong se zhu bi	2933
+红色砖纹	hong se zhuan wen	3237
+红色自上渐淡	hong se zi shang jian dan	3045
+红色自下渐淡	hong se zi xia jian dan	3029
+红色左半方形	hong se zuo ban fang xing	2949
+红色左上三角	hong se zuo shang san jiao	3141
+红色左下三角	hong se zuo xia san jiao	3109
+红沙	hong sha	1861
+红砂岩	hong sha yan	1860
+红砂岩楼梯	hong sha yan lou ti	1858
+红砂岩墙	hong sha yan qiang	1857
+红砂岩台阶	hong sha yan tai jie	1859
+红石比较器	hong shi bi jiao qi	2451
+红石灯	hong shi deng	1849
+红石电路	hong shi dian lu	189
+红石方块	hong shi fang kuai	699
+红石粉	hong shi fen	878
+红石火把	hong shi huo ba	1847
+红石块	hong shi kuai	1850
+红石矿石	hong shi kuang shi	1848
+红石线	hong shi xian	1845
+红石质	hong shi zhi	193
+红石中继器	hong shi zhong ji qi	1843
+红树根	hong shu gen	2117
+红树林沼泽	hong shu lin zhao ze	3366
+红树木	hong shu mu	2111
+红树木按钮	hong shu mu an niu	2127
+红树木板	hong shu mu ban	2120
+红树木船	hong shu mu chuan	1437
+红树木告示牌	hong shu mu gao shi pai	2116
+红树木活板门	hong shu mu huo ban men	2113
+红树木楼梯	hong shu mu lou ti	2114
+红树木门	hong shu mu men	2126
+红树木台阶	hong shu mu tai jie	2115
+红树木压力板	hong shu mu ya li ban	2119
+红树木运输船	hong shu mu yun shu chuan	1436
+红树木栅栏	hong shu mu zha lan	2125
+红树木栅栏门	hong shu mu zha lan men	2124
+红树树叶	hong shu shu ye	2122
+红树胎生苗	hong shu tai sheng miao	2118
+红树胎生苗盆栽	hong shu tai sheng miao pen zai	1929
+红竖条纹	hong shu tiao wen	2885
+红树原木	hong shu yuan mu	2121
+红斜十字	hong xie shi zi	3189
+红正十字	hong zheng shi zi	2805
+红砖	hong zhuan	1212
+红砖块	hong zhuan kuai	2537
+红砖楼梯	hong zhuan lou ti	2539
+红砖墙	hong zhuan qiang	2538
+红砖台阶	hong zhuan tai jie	2540
+吼叫	hou jiao	376
+蝴蝶鱼	hu die yu	1374
+呼唤	hu huan	1252
+护甲值	hu jia zhi	3430
+狐狸	hu li	1463
+狐狸浆果	hu li jiang guo	16
+狐狸刷怪蛋	hu li shua guai dan	1090
+呼噜	hu lu	437
+呼噜声	hu lu sheng	398
+忽略状态请求	hu lue zhuang tai qing qiu	1591
+胡萝卜	hu luo bo	2508
+胡萝卜钓竿	hu luo bo diao gan	1204
+糊墙机	hu qiang ji	101
+呼吸	hu xi	417
+呼啸	hu xiao	475
+划船	hua chuan	415
+画船添足	hua chuan tian zu	3473
+花朵盾徽	hua duo dun hui	1092
+花朵盾徽旗帜图案	hua duo dun hui qi zhi tu an	1091
+花岗岩	hua gang yan	2275
+花岗岩楼梯	hua gang yan lou ti	2273
+花岗岩墙	hua gang yan qiang	2272
+花岗岩台阶	hua gang yan tai jie	2274
+华丽蝴蝶鱼	hua li hu die yu	1386
+华丽一剪	hua li yi jian	3520
+滑落	hua luo	242
+桦木森林	hua mu sen lin	3393
+花盆	hua pen	2288
+滑翔	hua xiang	224
+滑行	hua xing	408
+欢呼	huan hu	368
+缓降	huan jiang	1562
+缓降药水	huan jiang yao shui	914
+缓降之箭	huan jiang zhi jian	764
+环境	huan jing	638
+缓慢	huan man	1561
+唤魔者	huan mo zhe	1472
+唤魔者尖牙	huan mo zhe jian ya	1471
+唤魔者刷怪蛋	huan mo zhe shua guai dan	1135
+幻术师	huan shu shi	1451
+幻翼	huan yi	1424
+幻翼膜	huan yi mo	945
+幻翼刷怪蛋	huan yi shua guai dan	944
+黄刺尾鲷	huang ci wei diao	1375
+黄底	huang di	3267
+晃动	huang dong	498
+黄绿底	huang lv di	3274
+黄绿色	huang lv se	1114
+黄绿色波纹边	huang lv se bo wen bian	3178
+黄绿色床	huang lv se chuang	2155
+黄绿色带釉陶瓦	huang lv se dai you tao wa	2149
+黄绿色底波纹	huang lv se di bo wen	2634
+黄绿色地球	huang lv se di qiu	3066
+黄绿色地毯	huang lv se di tan	2152
+黄绿色顶波纹	huang lv se ding bo wen	2618
+黄绿色盾牌	huang lv se dun pai	854
+黄绿色方框边	huang lv se fang kuang bian	3258
+黄绿色花朵盾徽	huang lv se hua duo dun hui	3082
+黄绿色混凝土	huang lv se hun ning tu	2151
+黄绿色混凝土粉末	huang lv se hun ning tu fen mo	2150
+黄绿色苦力怕盾徽	huang lv se ku li pa dun hui	3210
+黄绿色蜡烛	huang lv se la zhu	2154
+黄绿色菱形	huang lv se ling xing	2922
+黄绿色旗帜	huang lv se qi zhi	2156
+黄绿色潜影盒	huang lv se qian ying he	2148
+黄绿色染料	huang lv se ran liao	1013
+黄绿色染色玻璃	huang lv se ran se bo li	2147
+黄绿色染色玻璃板	huang lv se ran se bo li ban	2146
+黄绿色上半方形	huang lv se shang ban fang xing	3002
+黄绿色收纳袋	huang lv se shou na dai	1014
+黄绿色陶瓦	huang lv se tao wa	2145
+黄绿色头颅盾徽	huang lv se tou lu dun hui	2906
+黄绿色涡流	huang lv se wo liu	3098
+黄绿色下半方形	huang lv se xia ban fang xing	2986
+黄绿色旋风	huang lv se xuan feng	3018
+黄绿色羊毛	huang lv se yang mao	2144
+黄绿色右半方形	huang lv se you ban fang xing	2970
+黄绿色右上三角	huang lv se you shang san jiao	3162
+黄绿色右下三角	huang lv se you xia san jiao	3130
+黄绿色圆形	huang lv se yuan xing	3226
+黄绿色猪鼻	huang lv se zhu bi	2938
+黄绿色砖纹	huang lv se zhuan wen	3242
+黄绿色自上渐淡	huang lv se zi shang jian dan	3050
+黄绿色自下渐淡	huang lv se zi xia jian dan	3034
+黄绿色左半方形	huang lv se zuo ban fang xing	2954
+黄绿色左上三角	huang lv se zuo shang san jiao	3146
+黄绿色左下三角	huang lv se zuo xia san jiao	3114
+黄绿竖条纹	huang lv shu tiao wen	2890
+黄绿斜十字	huang lv xie shi zi	3194
+黄绿正十字	huang lv zheng shi zi	2810
+黄色	huang se	1100
+黄色波纹边	huang se bo wen bian	3171
+黄色床	huang se chuang	1607
+黄色带釉陶瓦	huang se dai you tao wa	1601
+黄色底波纹	huang se di bo wen	2627
+黄色地球	huang se di qiu	3059
+黄色地毯	huang se di tan	1604
+黄色顶波纹	huang se ding bo wen	2611
+黄色盾牌	huang se dun pai	847
+黄色方框边	huang se fang kuang bian	3251
+黄色花朵盾徽	huang se hua duo dun hui	3075
+黄色混凝土	huang se hun ning tu	1603
+黄色混凝土粉末	huang se hun ning tu fen mo	1602
+黄色苦力怕盾徽	huang se ku li pa dun hui	3203
+黄色蜡烛	huang se la zhu	1606
+黄色菱形	huang se ling xing	2915
+黄色旗帜	huang se qi zhi	1608
+黄色潜影盒	huang se qian ying he	1600
+黄色染料	huang se ran liao	716
+黄色染色玻璃	huang se ran se bo li	1599
+黄色染色玻璃板	huang se ran se bo li ban	1598
+黄色上半方形	huang se shang ban fang xing	2995
+黄色收纳袋	huang se shou na dai	717
+黄色陶瓦	huang se tao wa	1597
+黄色头颅盾徽	huang se tou lu dun hui	2899
+黄色涡流	huang se wo liu	3091
+黄色下半方形	huang se xia ban fang xing	2979
+黄色旋风	huang se xuan feng	3011
+黄色羊毛	huang se yang mao	1596
+黄色右半方形	huang se you ban fang xing	2963
+黄色右上三角	huang se you shang san jiao	3155
+黄色右下三角	huang se you xia san jiao	3123
+黄色圆形	huang se yuan xing	3219
+黄色猪鼻	huang se zhu bi	2931
+黄色砖纹	huang se zhuan wen	3235
+黄色自上渐淡	huang se zi shang jian dan	3043
+黄色自下渐淡	huang se zi xia jian dan	3027
+黄色左半方形	huang se zuo ban fang xing	2947
+黄色左上三角	huang se zuo shang san jiao	3139
+黄色左下三角	huang se zuo xia san jiao	3107
+黄竖条纹	huang shu tiao wen	2883
+黄斜十字	huang xie shi zi	3187
+荒野盔甲纹饰	huang ye kui jia wen shi	730
+黄正十字	huang zheng shi zi	2803
+回到游戏	hui dao you xi	679
+灰底	hui di	3278
+恢复体力	hui fu ti li	405
+灰化土	hui hua tu	1982
+毁坏	hui huai	257
+灰色	hui se	1118
+灰色波纹边	hui se bo wen bian	3182
+灰色床	hui se chuang	2268
+灰色带釉陶瓦	hui se dai you tao wa	2262
+灰色底波纹	hui se di bo wen	2638
+灰色地球	hui se di qiu	3070
+灰色地毯	hui se di tan	2265
+灰色顶波纹	hui se ding bo wen	2622
+灰色盾牌	hui se dun pai	858
+灰色方框边	hui se fang kuang bian	3262
+灰色花朵盾徽	hui se hua duo dun hui	3086
+灰色混凝土	hui se hun ning tu	2264
+灰色混凝土粉末	hui se hun ning tu fen mo	2263
+灰色苦力怕盾徽	hui se ku li pa dun hui	3214
+灰色蜡烛	hui se la zhu	2267
+灰色菱形	hui se ling xing	2926
+灰色旗帜	hui se qi zhi	2269
+灰色潜影盒	hui se qian ying he	2261
+灰色染料	hui se ran liao	1060
+灰色染色玻璃	hui se ran se bo li	2260
+灰色染色玻璃板	hui se ran se bo li ban	2259
+灰色上半方形	hui se shang ban fang xing	3006
+灰色收纳袋	hui se shou na dai	1061
+灰色陶瓦	hui se tao wa	2258
+灰色头颅盾徽	hui se tou lu dun hui	2910
+灰色涡流	hui se wo liu	3102
+灰色下半方形	hui se xia ban fang xing	2990
+灰色旋风	hui se xuan feng	3022
+灰色羊毛	hui se yang mao	2257
+灰色右半方形	hui se you ban fang xing	2974
+灰色右上三角	hui se you shang san jiao	3166
+灰色右下三角	hui se you xia san jiao	3134
+灰色圆形	hui se yuan xing	3230
+灰色猪鼻	hui se zhu bi	2942
+灰色砖纹	hui se zhuan wen	3246
+灰色自上渐淡	hui se zi shang jian dan	3054
+灰色自下渐淡	hui se zi xia jian dan	3038
+灰色左半方形	hui se zuo ban fang xing	2958
+灰色左上三角	hui se zuo shang san jiao	3150
+灰色左下三角	hui se zuo xia san jiao	3118
+灰竖条纹	hui shu tiao wen	2894
+回响	hui xiang	527
+回响碎片	hui xiang sui pian	1146
+灰斜十字	hui xie shi zi	3198
+灰正十字	hui zheng shi zi	2814
+绘制	hui zhi	205
+混凝土固化机	hun ning tu gu hua ji	67
+火把	huo ba	1720
+火把花	huo ba hua	1719
+火把花盆栽	huo ba hua pen zai	1918
+火把花植株	huo ba hua zhi zhu	1718
+火把花种子	huo ba hua zhong zi	753
+活板门	huo ban men	483
+获得凋灵骷髅的头颅	huo de diao ling ku lou de tou lu	3484
+获得哭泣的黑曜石	huo de ku qi de hei yao shi	3476
+获得龙蛋	huo de long dan	3560
+获得升级	huo de sheng ji	3436
+获得嗅探兽蛋	huo de xiu tan shou dan	3525
+获得一块黑曜石	huo de yi kuai hei yao shi	3454
+获得远古残骸	huo de yuan gu can hai	3479
+获得钻石	huo de zuan shi	3448
+火球	huo qiu	1466
+活塞	huo sai	1988
+活塞传送	huo sai chuan song	122
+活塞头	huo sai tou	1987
+火珊瑚	huo shan hu	2293
+火珊瑚块	huo shan hu kuai	2292
+火珊瑚扇	huo shan hu shan	2291
+火矢	huo shi	1539
+火焰保护	huo yan bao hu	1540
+火焰弹	huo yan dan	1127
+火焰附加	huo yan fu jia	1541
+火焰蔓延	huo yan man yan	1307
+火焰伤害	huo yan shang hai	1293
+火药	huo yao	1056
+火药农场	huo yao nong chang	35
+鸡蛋	ji dan	1145
+记得带夏装	ji de dai xia zhuang	3471
+饥饿	ji e	1579
+计划刻	ji hua ke	81
+激活	ji huo	536
+激活铁轨	ji huo tie gui	3317
+激流	ji liu	1523
+疾跑距离	ji pao ju li	565
+急迫	ji po	1581
+寄生	ji sheng	1578
+鸡刷怪蛋	ji shua guai dan	1195
+击退	ji tui	3427
+击退攻击	ji tui gong ji	299
+击退抗性	ji tui kang xing	3415
+极限	ji xian	643
+极限模式	ji xian mo shi	1324
+积雪厚度	ji xue hou du	1274
+积雪沙滩	ji xue sha tan	3352
+积雪山坡	ji xue shan po	3350
+积雪针叶林	ji xue zhen ye lin	3349
+挤压	ji ya	326
+基岩	ji yan	2602
+基岩笼	ji yan long	59
+击中	ji zhong	428
+击中标靶次数	ji zhong biao ba ci shu	561
+击中玩家	ji zhong wan jia	427
+佳酿纹样陶片	jia niang wen yang tao pian	1213
+检测中	jian ce zhong	655
+剪刀	jian dao	866
+剪断	jian duan	217
+见鬼去吧	jian gui qu ba	3474
+简化调试信息	jian hua tiao shi xin xi	1278
+尖叫	jian jiao	374
+溅起水花	jian qi shui hua	425
+尖峭山峰	jian qiao shan feng	3370
+减少	jian shao	204
+尖声叫	jian sheng jiao	423
+监守盔甲纹饰	jian shou kui jia wen shi	739
+监守者	jian shou zhe	1336
+监守者刷怪蛋	jian shou zhe shua guai dan	738
+尖塔盔甲纹饰	jian ta kui jia wen shi	820
+简体中文	jian ti zhong wen	693
+尖啸	jian xiao	501
+建造并放置一个信标	jian zao bing fang zhi yi ge xin biao	3495
+建筑	jian zhu	186
+建筑方块	jian zhu fang kuai	710
+僵尸	jiang shi	1330
+僵尸村民	jiang shi cun min	1328
+僵尸村民刷怪蛋	jiang shi cun min shua guai dan	712
+僵尸的头	jiang shi de tou	1595
+僵尸科医生	jiang shi ke yi sheng	3464
+僵尸马	jiang shi ma	1329
+僵尸马刷怪蛋	jiang shi ma shua guai dan	714
+僵尸刷怪蛋	jiang shi shua guai dan	713
+僵尸疣猪兽	jiang shi you zhu shou	1331
+僵尸疣猪兽刷怪蛋	jiang shi you zhu shou shua guai dan	715
+僵尸增援	jiang shi zeng yuan	3399
+僵尸猪灵	jiang shi zhu ling	1327
+僵尸猪灵刷怪蛋	jiang shi zhu ling shua guai dan	711
+讲台	jiang tai	2190
+匠心独具	jiang xin du ju	3573
+脚步声	jiao bu sheng	401
+交互实体	jiao hu shi ti	1450
+脚手架	jiao shou jia	1827
+交易	jiao yi	275
+胶着状态	jiao zhuo zhuang tai	3607
+解放	jie fang	260
+解放末地	jie fang mo di	3552
+结构方块	jie gou fang kuai	1732
+结构空位	jie gou kong wei	1731
+结果的南瓜茎	jie guo de nan gua jing	3305
+结果的西瓜茎	jie guo de xi gua jing	3306
+接近	jie jin	265
+劫掠兽	jie lue shou	1415
+劫掠兽刷怪蛋	jie lue shou shua guai dan	885
+结束了	jie shu le	3458
+结束了再一次	jie shu le zai yi ci	3549
+解锁	jie suo	452
+解锁失败	jie suo shi bai	451
+节肢杀手	jie zhi sha shou	1550
+金锄	jin chu	1067
+金锭	jin ding	1075
+进度	jin du	3432
+进度通知	jin du tong zhi	1321
+进度已达成	jin du yi da cheng	3433
+金斧	jin fu	1072
+金镐	jin gao	1064
+金光闪闪	jin guang shan shan	3491
+金合欢木	jin he huan mu	3318
+金合欢木按钮	jin he huan mu an niu	3333
+金合欢木板	jin he huan mu ban	3326
+金合欢木船	jin he huan mu chuan	1512
+金合欢木告示牌	jin he huan mu gao shi pai	3323
+金合欢木活板门	jin he huan mu huo ban men	3320
+金合欢木楼梯	jin he huan mu lou ti	3321
+金合欢木门	jin he huan mu men	3332
+金合欢木台阶	jin he huan mu tai jie	3322
+金合欢木压力板	jin he huan mu ya li ban	3325
+金合欢木运输船	jin he huan mu yun shu chuan	1511
+金合欢木栅栏	jin he huan mu zha lan	3331
+金合欢木栅栏门	jin he huan mu zha lan men	3330
+金合欢树苗	jin he huan shu miao	3324
+金合欢树苗盆栽	jin he huan shu miao pen zai	1950
+金合欢树叶	jin he huan shu ye	3328
+金合欢原木	jin he huan yuan mu	3327
+金胡萝卜	jin hu luo bo	1070
+金护腿	jin hu tui	1065
+金剑	jin jian	1062
+金块	jin kuai	2277
+金矿石	jin kuang shi	2276
+金粒	jin li	1074
+金马铠	jin ma kai	1066
+金苹果	jin ping guo	1073
+金锹	jin qiao	1063
+进入堡垒遗迹	jin ru bao lei yi ji	3487
+进入末地传送门	jin ru mo di chuan song men	3459
+进食	jin shi	435
+金头盔	jin tou kui	1068
+金胸甲	jin xiong jia	1069
+金靴子	jin xue zi	1071
+禁用鞘翅移动检测	jin yong qiao chi yi dong jian ce	1312
+禁用玩家移动检测	jin yong wan jia yi dong jian ce	1311
+禁用袭击	jin yong xi ji	1310
+金质	jin zhi	198
+荆棘	jing ji	1516
+劲弩手	jing nu shou	3618
+惊悚恐怖骷髅头	jing song kong bu ku lou tou	3483
+精修细补	jing xiu xi bu	3613
+经验	jing yan	168
+经验球	jing yan qiu	1469
+经验修补	jing yan xiu bu	1530
+静音打包机	jing yin da bao ji	134
+精准采集	jing zhun cai ji	1521
+旧版	jiu ban	659
+旧版自定义	jiu ban zi ding yi	1267
+啾啾	jiu jiu	426
+旧貌锻新颜	jiu mao duan xin yan	3572
+举报玩家	ju bao wan jia	683
+举臂纹样陶片	ju bi wen yang tao pian	1238
+举巢搬迁	ju chao ban qian	3514
+剧毒药水	ju du yao shui	916
+剧毒之箭	ju du zhi jian	766
+狙击手的对决	ju ji shou de dui jue	3586
+拒绝	ju jue	276
+拒绝已奖励玩家	ju jue yi jiang li wan jia	450
+巨人	ju ren	1459
+巨型生物群系	ju xing sheng wu qun xi	1263
+卷须颤动	juan xu chan dong	261
+掘地	jue di	268
+蕨盆栽	jue pen zai	1933
+菌光体	jun guang ti	1816
+均衡饮食	jun heng yin shi	3541
+菌丝体	jun si ti	2089
+咔哒	ka da	516
+卡服	ka fu	3
+开采次数	kai cai ci shu	547
+开荒垦地	kai huang ken di	3521
+开裂的铁砧	kai lie de tie zhen	2482
+开启	kai qi	512
+开始试玩世界	kai shi shi wan shi jie	684
+抗火	kang huo	1583
+抗火药水	kang huo yao shui	927
+抗火之箭	kang huo zhi jian	776
+抗性提升	kang xing ti sheng	1564
+烤鸡机	kao ji ji	18
+烤马铃薯	kao ma ling shu	1235
+蝌蚪	ke dou	1394
+蝌蚪刷怪蛋	ke dou shua guai dan	779
+蝌蚪桶	ke dou tong	780
+可可豆	ke ke dou	1189
+可可果	ke ke guo	2453
+渴求	ke qiu	443
+可疑的沙砾	ke yi de sha li	1728
+可疑的沙子	ke yi de sha zi	1727
+铿锵	keng qiang	245
+空地图	kong di tu	978
+空盒检测	kong he jian ce	127
+空气	kong qi	3316
+扣下悬刀	kou xia xuan dao	3597
+苦力怕	ku li pa	1485
+苦力怕的头	ku li pa de tou	2433
+苦力怕盾徽	ku li pa dun hui	1172
+苦力怕盾徽旗帜图案	ku li pa dun hui qi zhi tu an	1171
+苦力怕刷怪蛋	ku li pa shua guai dan	1170
+苦力怕塔	ku li pa ta	36
+苦力怕状	ku li pa zhuang	1106
+骷髅	ku lou	1409
+骷髅马	ku lou ma	1408
+骷髅马刷怪蛋	ku lou ma shua guai dan	841
+骷髅刷怪蛋	ku lou shua guai dan	840
+骷髅头颅	ku lou tou lu	1814
+哭泣	ku qi	348
+哭泣的黑曜石	ku qi de hei yao shi	2414
+枯萎的灌木	ku wei de guan mu	2363
+枯萎的灌木盆栽	ku wei de guan mu pen zai	1934
+快速装填	kuai su zhuang tian	1524
+宽恕死亡玩家	kuan shu si wang wan jia	1292
+矿车	kuang che	1434
+矿车全物品	kuang che quan wu pin	129
+矿车上弹	kuang che shang dan	114
+矿车最大速度	kuang che zui da su du	1284
+哐啷作响	kuang lang zuo xiang	325
+狂乱的鸡尾酒	kuang luan de ji wei jiu	3500
+狂怒	kuang nu	269
+盔甲	kui jia	833
+盔甲架	kui jia jia	1507
+盔甲匠	kui jia jiang	1352
+盔甲韧性	kui jia ren xing	3429
+窥视	kui shi	433
+窥伺类	kui si lei	1359
+拉动	la dong	480
+拉杆	la gan	2189
+蜡烛	la zhu	2510
+来硬的	lai ying de	3438
+蓝冰	lan bing	2554
+蓝刺尾鲷	lan ci wei diao	1377
+蓝底	lan di	3281
+兰花	lan hua	2553
+蓝花美耳草	lan hua mei er cao	3302
+蓝花美耳草盆栽	lan hua mei er cao pen zai	1947
+兰花盆栽	lan hua pen zai	1944
+蓝色	lan se	1123
+蓝色波纹边	lan se bo wen bian	3185
+蓝色床	lan se chuang	2561
+蓝色带釉陶瓦	lan se dai you tao wa	2555
+蓝色底波纹	lan se di bo wen	2641
+蓝色地球	lan se di qiu	3073
+蓝色地毯	lan se di tan	2558
+蓝色顶波纹	lan se ding bo wen	2625
+蓝色盾牌	lan se dun pai	861
+蓝色方框边	lan se fang kuang bian	3265
+蓝色花朵盾徽	lan se hua duo dun hui	3089
+蓝色混凝土	lan se hun ning tu	2557
+蓝色混凝土粉末	lan se hun ning tu fen mo	2556
+蓝色苦力怕盾徽	lan se ku li pa dun hui	3217
+蓝色蜡烛	lan se la zhu	2560
+蓝色菱形	lan se ling xing	2929
+蓝色旗帜	lan se qi zhi	2562
+蓝色潜影盒	lan se qian ying he	2552
+蓝色染料	lan se ran liao	1222
+蓝色染色玻璃	lan se ran se bo li	2551
+蓝色染色玻璃板	lan se ran se bo li ban	2550
+蓝色上半方形	lan se shang ban fang xing	3009
+蓝色收纳袋	lan se shou na dai	1223
+蓝色陶瓦	lan se tao wa	2549
+蓝色头颅盾徽	lan se tou lu dun hui	2913
+蓝色涡流	lan se wo liu	3105
+蓝色下半方形	lan se xia ban fang xing	2993
+蓝色旋风	lan se xuan feng	3025
+蓝色羊毛	lan se yang mao	2548
+蓝色右半方形	lan se you ban fang xing	2977
+蓝色右上三角	lan se you shang san jiao	3169
+蓝色右下三角	lan se you xia san jiao	3137
+蓝色圆形	lan se yuan xing	3233
+蓝色猪鼻	lan se zhu bi	2945
+蓝色砖纹	lan se zhuan wen	3249
+蓝色自上渐淡	lan se zi shang jian dan	3057
+蓝色自下渐淡	lan se zi xia jian dan	3041
+蓝色左半方形	lan se zuo ban fang xing	2961
+蓝色左上三角	lan se zuo shang san jiao	3153
+蓝色左下三角	lan se zuo xia san jiao	3121
+蓝竖条纹	lan shu tiao wen	2897
+蓝斜十字	lan xie shi zi	3201
+蓝正十字	lan zheng shi zi	2817
+狼嚎纹样陶片	lang hao wen yang tao pian	1044
+狼铠	lang kai	726
+狼刷怪蛋	lang shua guai dan	725
+老手	lao shou	668
+肋骨盔甲纹饰	lei gu kui jia wen shi	876
+雷击一名村民	lei ji yi ming cun min	3568
+雷鸣	lei ming	329
+冷水海洋	leng shui hai yang	3391
+冷水深海	leng shui shen hai	3388
+离巢	li chao	530
+犁地	li di	220
+立即重生	li ji chong sheng	1306
+力量	li liang	1559
+力量药水	li liang yao shui	912
+力量之箭	li liang zhi jian	762
+利刃纹样陶片	li ren wen yang tao pian	1227
+离线	li xian	1256
+利用不死图腾逃离死神	li yong bu si tu teng tao li si shen	3577
+丽鱼	li yu	1373
+连点器	lian dian qi	22
+连接	lian jie	455
+连锁型命令方块	lian suo xing ming ling fang kuai	2500
+炼药锅	lian yao guo	2505
+炼药锅装水次数	lian yao guo zhuang shui ci shu	604
+炼药机	lian yao ji	145
+镰鱼	lian yu	1387
+亮起	liang qi	504
+聊天	liao tian	1320
+裂开	lie kai	463
+裂纹磨制黑石砖	lie wen mo zhi hei shi zhuan	2438
+裂纹深板岩瓦	lie wen shen ban yan wa	2440
+裂纹深板岩砖	lie wen shen ban yan zhuan	2441
+裂纹石砖	lie wen shi zhuan	2437
+裂纹下界砖块	lie wen xia jie zhuan kuai	2439
+烈焰棒	lie yan bang	1225
+烈焰粉	lie yan fen	1226
+烈焰人	lie yan ren	1499
+烈焰人刷怪蛋	lie yan ren shua guai dan	1224
+烈焰纹样陶片	lie yan wen yang tao pian	1206
+鳞甲	lin jia	870
+鳞鲀	lin tun	1378
+灵魂灯笼	ling hun deng long	1791
+灵魂火	ling hun huo	1792
+灵魂火把	ling hun huo ba	1788
+灵魂疾行	ling hun ji xing	1519
+灵魂沙	ling hun sha	1790
+灵魂沙峡谷	ling hun sha xia gu	3348
+灵魂土	ling hun tu	1789
+灵魂营火	ling hun ying huo	1793
+铃兰	ling lan	2158
+铃兰盆栽	ling lan pen zai	1930
+六倍速打包机	liu bei su da bao ji	136
+六倍速分类打包机	liu bei su fen lei da bao ji	135
+流动	liu dong	449
+流浪商人	liu lang shang ren	1337
+流浪商人刷怪蛋	liu lang shang ren shua guai dan	740
+流浪者	liu lang zhe	1396
+流浪者刷怪蛋	liu lang zhe shua guai dan	784
+龙蛋	long dan	2322
+龙首	long shou	2321
+龙息	long xi	1150
+漏斗	lou dou	2236
+漏斗矿车	lou dou kuang che	1453
+鹿角珊瑚	lu jiao shan hu	2235
+鹿角珊瑚块	lu jiao shan hu kuai	2234
+鹿角珊瑚扇	lu jiao shan hu shan	2233
+掠夺堡垒遗迹里的箱子	lue duo bao lei yi ji li de xiang zi	3482
+掠夺者	lue duo zhe	1421
+掠夺者刷怪蛋	lue duo zhe shua guai dan	938
+骡刷怪蛋	luo shua guai dan	971
+骆驼	luo tuo	1494
+骆驼刷怪蛋	luo tuo shua guai dan	1205
+落下	luo xia	203
+裸岩山峰	luo yan shan feng	3346
+绿宝石	lv bao shi	1142
+绿宝石块	lv bao shi kuai	2316
+绿宝石矿石	lv bao shi kuang shi	2315
+绿宝石质	lv bao shi zhi	199
+绿底	lv di	3277
+绿色	lv se	1117
+绿色波纹边	lv se bo wen bian	3181
+绿色床	lv se chuang	2255
+绿色带釉陶瓦	lv se dai you tao wa	2249
+绿色底波纹	lv se di bo wen	2637
+绿色地球	lv se di qiu	3069
+绿色地毯	lv se di tan	2252
+绿色顶波纹	lv se ding bo wen	2621
+绿色盾牌	lv se dun pai	857
+绿色方框边	lv se fang kuang bian	3261
+绿色花朵盾徽	lv se hua duo dun hui	3085
+绿色混凝土	lv se hun ning tu	2251
+绿色混凝土粉末	lv se hun ning tu fen mo	2250
+绿色苦力怕盾徽	lv se ku li pa dun hui	3213
+绿色蜡烛	lv se la zhu	2254
+绿色菱形	lv se ling xing	2925
+绿色旗帜	lv se qi zhi	2256
+绿色潜影盒	lv se qian ying he	2248
+绿色染料	lv se ran liao	1058
+绿色染色玻璃	lv se ran se bo li	2247
+绿色染色玻璃板	lv se ran se bo li ban	2246
+绿色上半方形	lv se shang ban fang xing	3005
+绿色收纳袋	lv se shou na dai	1059
+绿色陶瓦	lv se tao wa	2245
+绿色头颅盾徽	lv se tou lu dun hui	2909
+绿色涡流	lv se wo liu	3101
+绿色下半方形	lv se xia ban fang xing	2989
+绿色旋风	lv se xuan feng	3021
+绿色羊毛	lv se yang mao	2244
+绿色右半方形	lv se you ban fang xing	2973
+绿色右上三角	lv se you shang san jiao	3165
+绿色右下三角	lv se you xia san jiao	3133
+绿色圆形	lv se yuan xing	3229
+绿色猪鼻	lv se zhu bi	2941
+绿色砖纹	lv se zhuan wen	3245
+绿色自上渐淡	lv se zi shang jian dan	3053
+绿色自下渐淡	lv se zi xia jian dan	3037
+绿色左半方形	lv se zuo ban fang xing	2957
+绿色左上三角	lv se zuo shang san jiao	3149
+绿色左下三角	lv se zuo xia san jiao	3117
+绿竖条纹	lv shu tiao wen	2893
+驴刷怪蛋	lv shua guai dan	1151
+绿斜十字	lv xie shi zi	3197
+绿正十字	lv zheng shi zi	2813
+马鲅	ma ba	1380
+马铃薯	ma ling shu	1951
+马匹跳跃能力	ma pi tiao yue neng li	3404
+马刷怪蛋	ma shua guai dan	1046
+麦捆纹样陶片	mai kun wen yang tao pian	867
+蔓延	man yan	468
+锚没有九条命	mao mei you jiu tiao ming	3496
+冒泡	mao pao	522
+猫刷怪蛋	mao shua guai dan	1203
+冒险	mao xian	3591
+冒险模式	mao xian mo shi	1326
+冒险探索与战斗	mao xian tan suo yu zhan dou	3592
+玫瑰丛	mei gui cong	1833
+煤矿石	mei kuang shi	2464
+煤炭	mei tan	1191
+煤炭块	mei tan kuai	2465
+美西螈	mei xi yuan	1506
+美西螈刷怪蛋	mei xi yuan shua guai dan	1236
+美西螈桶	mei xi yuan tong	1237
+霉运	mei yun	1557
+猛击	meng ji	218
+蜜蜂	mi feng	1502
+蜜蜂刷怪蛋	mi feng shua guai dan	1233
+蜜脾	mi pi	1047
+蜜脾块	mi pi kuai	2237
+谜之炖菜	mi zhi dun cai	782
+面包	mian bao	1216
+绵羊	mian yang	1413
+绵羊刷怪蛋	mian yang shua guai dan	865
+瞄准目标	miao zhun mu biao	3588
+鸣叫	ming jiao	320
+命令方块	ming ling fang kuai	2452
+命令方块矿车	ming ling fang kuai kuang che	1487
+命令连锁执行数量限制	ming ling lian suo zhi xing shu liang xian zhi	1287
+命令上下文数量限制	ming ling shang xia wen shu liang xian zhi	1286
+命令修改方块数量限制	ming ling xiu gai fang kuai shu liang xian zhi	1313
+命名牌	ming ming pai	968
+鸣响	ming xiang	248
+鸣钟次数	ming zhong ci shu	623
+摩擦	mo ca	244
+末地	mo di	3547
+末地传送门	mo di chuan song men	2312
+末地传送门框架	mo di chuan song men kuang jia	2311
+末地高地	mo di gao di	3380
+末地黑曜石农场	mo di hei yao shi nong chang	65
+末地荒地	mo di huang di	3381
+末地内陆	mo di nei lu	3379
+末地石	mo di shi	2309
+末地石农场	mo di shi nong chang	76
+末地石砖	mo di shi zhuan	2305
+末地石砖楼梯	mo di shi zhuan lou ti	2307
+末地石砖墙	mo di shi zhuan qiang	2306
+末地石砖台阶	mo di shi zhuan tai jie	2308
+末地水晶	mo di shui jing	1477
+末地小型岛屿	mo di xiao xing dao yu	3353
+末地折跃门	mo di zhe yue men	2313
+末地烛	mo di zhu	2310
+蘑菇煲	mo gu bao	970
+蘑菇柄	mo gu bing	2090
+蘑菇岛	mo gu dao	3364
+蘑菇牛农场	mo gu niu nong chang	14
+墨囊	mo nang	1042
+魔女审判	mo nv shen pan	3567
+默认	mo ren	1262
+模式变更	mo shi bian geng	510
+末影龙	mo ying long	1476
+末影龙火球	mo ying long huo qiu	1481
+末影龙刷怪蛋	mo ying long shua guai dan	1139
+末影螨	mo ying man	1473
+末影螨刷怪蛋	mo ying man shua guai dan	1136
+末影人	mo ying ren	1474
+末影人刷怪蛋	mo ying ren shua guai dan	1137
+末影箱	mo ying xiang	2304
+末影箱打开次数	mo ying xiang da kai ci shu	577
+末影珍珠	mo ying zhen zhu	1138
+末影之眼	mo ying zhi yan	1468
+磨制安山岩	mo zhi an shan yan	1980
+磨制安山岩楼梯	mo zhi an shan yan lou ti	1978
+磨制安山岩台阶	mo zhi an shan yan tai jie	1979
+磨制黑石	mo zhi hei shi	1976
+磨制黑石按钮	mo zhi hei shi an niu	1971
+磨制黑石楼梯	mo zhi hei shi lou ti	1968
+磨制黑石墙	mo zhi hei shi qiang	1967
+磨制黑石台阶	mo zhi hei shi tai jie	1969
+磨制黑石压力板	mo zhi hei shi ya li ban	1970
+磨制黑石砖	mo zhi hei shi zhuan	1972
+磨制黑石砖楼梯	mo zhi hei shi zhuan lou ti	1974
+磨制黑石砖墙	mo zhi hei shi zhuan qiang	1973
+磨制黑石砖台阶	mo zhi hei shi zhuan tai jie	1975
+磨制花岗岩	mo zhi hua gang yan	1959
+磨制花岗岩楼梯	mo zhi hua gang yan lou ti	1957
+磨制花岗岩台阶	mo zhi hua gang yan tai jie	1958
+磨制凝灰岩	mo zhi ning hui yan	1956
+磨制凝灰岩楼梯	mo zhi ning hui yan lou ti	1954
+磨制凝灰岩墙	mo zhi ning hui yan qiang	1953
+磨制凝灰岩台阶	mo zhi ning hui yan tai jie	1955
+磨制闪长岩	mo zhi shan chang yan	1962
+磨制闪长岩楼梯	mo zhi shan chang yan lou ti	1960
+磨制闪长岩台阶	mo zhi shan chang yan tai jie	1961
+磨制深板岩	mo zhi shen ban yan	1966
+磨制深板岩楼梯	mo zhi shen ban yan lou ti	1964
+磨制深板岩墙	mo zhi shen ban yan qiang	1963
+磨制深板岩台阶	mo zhi shen ban yan tai jie	1965
+磨制玄武岩	mo zhi xuan wu yan	1977
+模组	mo zu	4
+哞菇	mou gu	1433
+哞菇刷怪蛋	mou gu shua guai dan	973
+目标已达成	mu biao yi da cheng	3434
+木锄	mu chu	723
+牡丹	mu dan	2007
+木斧	mu fu	724
+木镐	mu gao	722
+木棍	mu gun	790
+木剑	mu jian	720
+牧民盔甲纹饰	mu min kui jia wen shi	886
+木锹	mu qiao	721
+牧师	mu shi	1349
+木炭	mu tan	1197
+木桶	mu tong	2610
+木桶打开次数	mu tong da kai ci shu	579
+牧羊人	mu yang ren	1341
+那是飞机吗	na shi fei ji ma	3584
+那是鸟吗	na shi niao ma	3580
+那是气球吗	na shi qi qiu ma	3582
+耐久	nai jiu	1515
+奶桶	nai tong	975
+南瓜	nan gua	1903
+南瓜灯	nan gua deng	2219
+南瓜机	nan gua ji	28
+南瓜茎	nan gua jing	1902
+南瓜派	nan gua pai	896
+南瓜种子	nan gua zhong zi	895
+喃喃自语	nan nan zi yu	277
+恼鬼	nao gui	1354
+恼鬼盔甲纹饰	nao gui kui jia wen shi	744
+恼鬼刷怪蛋	nao gui shua guai dan	743
+恼人	nao ren	309
+脑纹珊瑚	nao wen shan hu	2545
+脑纹珊瑚块	nao wen shan hu kuai	2544
+脑纹珊瑚扇	nao wen shan hu shan	2543
+泥巴	ni ba	2096
+泥巴机	ni ba ji	62
+逆风翻盘	ni feng fan pan	3616
+泥坯	ni pi	2028
+溺尸	ni shi	1480
+溺尸刷怪蛋	ni shi shua guai dan	1148
+溺水	ni shui	293
+溺水伤害	ni shui shang hai	1295
+泥土	ni tu	2325
+泥土机	ni tu ji	63
+你需要来点薄荷糖	ni xu yao lai dian bo he tang	3561
+拟羊鱼	ni yang yu	1368
+泥砖	ni zhuan	2092
+泥砖楼梯	ni zhuan lou ti	2094
+泥砖墙	ni zhuan qiang	2093
+泥砖台阶	ni zhuan tai jie	2095
+黏土	nian tu	2467
+黏土球	nian tu qiu	1193
+黏性活塞	nian xing huo sai	1766
+黏液块	nian ye kuai	1812
+粘液球	nian ye qiu	836
+黏液球	nian ye qiu	837
+酿药机	niang yao ji	144
+酿造台	niang zao tai	2541
+酿造一瓶药水	niang zao yi ping yao shui	3499
+凝灰岩	ning hui yan	1709
+凝灰岩楼梯	ning hui yan lou ti	1703
+凝灰岩墙	ning hui yan qiang	1702
+凝灰岩台阶	ning hui yan tai jie	1704
+凝灰岩砖	ning hui yan zhuan	1705
+凝灰岩砖楼梯	ning hui yan zhuan lou ti	1707
+凝灰岩砖墙	ning hui yan zhuan qiang	1706
+凝灰岩砖台阶	ning hui yan zhuan tai jie	1708
+牛排	niu pai	1184
+牛刷怪蛋	niu shua guai dan	1175
+浓稠的药水	nong chou de yao shui	910
+农民	nong min	1348
+农牧业	nong mu ye	3516
+怒吼	nu hou	342
+暖水海洋	nuan shui hai yang	3340
+女巫	nv wu	1335
+女巫刷怪蛋	nv wu shua guai dan	729
+女巫塔	nv wu ta	44
+爬行	pa xing	278
+拍打翅膀	pai da chi bang	377
+排水机	pai shui ji	104
+盘丝	pan si	1554
+盘丝药水	pan si yao shui	905
+盘丝之箭	pan si zhi jian	755
+旁观	pang guan	641
+旁观模式	pang guan mo shi	1323
+咆哮	pao xiao	378
+喷出物品	pen chu wu pin	457
+喷发状	pen fa zhuang	1107
+喷溅型迟缓药水	pen jian xing chi huan yao shui	802
+喷溅型虫蚀药水	pen jian xing chong shi yao shui	813
+喷溅型粗制的药水	pen jian xing cu zhi de yao shui	818
+喷溅型缓降药水	pen jian xing huan jiang yao shui	803
+喷溅型剧毒药水	pen jian xing ju du yao shui	805
+喷溅型抗火药水	pen jian xing kang huo yao shui	816
+喷溅型力量药水	pen jian xing li liang yao shui	801
+喷溅型浓稠的药水	pen jian xing nong chou de yao shui	799
+喷溅型盘丝药水	pen jian xing pan si yao shui	794
+喷溅型飘浮药水	pen jian xing piao fu yao shui	810
+喷溅型平凡的药水	pen jian xing ping fan de yao shui	808
+喷溅型伤害药水	pen jian xing shang hai yao shui	815
+喷溅型神龟药水	pen jian xing shen gui yao shui	798
+喷溅型渗浆药水	pen jian xing shen jiang yao shui	806
+喷溅型水肺药水	pen jian xing shui fei yao shui	796
+喷溅型水瓶	pen jian xing shui ping	797
+喷溅型跳跃药水	pen jian xing tiao yue yao shui	811
+喷溅型幸运药水	pen jian xing xing yun yao shui	809
+喷溅型蓄风药水	pen jian xing xu feng yao shui	793
+喷溅型虚弱药水	pen jian xing xu ruo yao shui	795
+喷溅型迅捷药水	pen jian xing xun jie yao shui	800
+喷溅型夜视药水	pen jian xing ye shi yao shui	807
+喷溅型隐身药水	pen jian xing yin shen yao shui	812
+喷溅型再生药水	pen jian xing zai sheng yao shui	804
+喷溅型治疗药水	pen jian xing zhi liao yao shui	814
+喷溅药水	pen jian yao shui	819
+喷溅之箭	pen jian zhi jian	758
+喷墨	pen mo	346
+喷射唾沫	pen she tuo mo	328
+盆栽种植数	pen zai zhong zhi shu	570
+碰擦	peng ca	247
+膨胀	peng zhang	288
+碰撞箱	peng zhuang xiang	176
+皮革	pi ge	1024
+皮革裤子	pi ge ku zi	1019
+皮革马铠	pi ge ma kai	1020
+皮革帽子	pi ge mao zi	1021
+皮革外套	pi ge wai tao	1022
+皮革靴子	pi ge xue zi	1023
+皮匠	pi jiang	1345
+噼啪作响	pi pa zuo xiang	523
+飘浮	piao fu	1573
+飘浮药水	piao fu yao shui	921
+飘浮之箭	piao fu zhi jian	770
+品红底	pin hong di	3273
+品红色	pin hong se	1113
+品红色波纹边	pin hong se bo wen bian	3177
+品红色床	pin hong se chuang	2140
+品红色带釉陶瓦	pin hong se dai you tao wa	2134
+品红色底波纹	pin hong se di bo wen	2633
+品红色地球	pin hong se di qiu	3065
+品红色地毯	pin hong se di tan	2137
+品红色顶波纹	pin hong se ding bo wen	2617
+品红色盾牌	pin hong se dun pai	853
+品红色方框边	pin hong se fang kuang bian	3257
+品红色花朵盾徽	pin hong se hua duo dun hui	3081
+品红色混凝土	pin hong se hun ning tu	2136
+品红色混凝土粉末	pin hong se hun ning tu fen mo	2135
+品红色苦力怕盾徽	pin hong se ku li pa dun hui	3209
+品红色蜡烛	pin hong se la zhu	2139
+品红色菱形	pin hong se ling xing	2921
+品红色旗帜	pin hong se qi zhi	2141
+品红色潜影盒	pin hong se qian ying he	2133
+品红色染料	pin hong se ran liao	981
+品红色染色玻璃	pin hong se ran se bo li	2132
+品红色染色玻璃板	pin hong se ran se bo li ban	2131
+品红色上半方形	pin hong se shang ban fang xing	3001
+品红色收纳袋	pin hong se shou na dai	982
+品红色陶瓦	pin hong se tao wa	2130
+品红色头颅盾徽	pin hong se tou lu dun hui	2905
+品红色涡流	pin hong se wo liu	3097
+品红色下半方形	pin hong se xia ban fang xing	2985
+品红色旋风	pin hong se xuan feng	3017
+品红色羊毛	pin hong se yang mao	2129
+品红色右半方形	pin hong se you ban fang xing	2969
+品红色右上三角	pin hong se you shang san jiao	3161
+品红色右下三角	pin hong se you xia san jiao	3129
+品红色圆形	pin hong se yuan xing	3225
+品红色猪鼻	pin hong se zhu bi	2937
+品红色砖纹	pin hong se zhuan wen	3241
+品红色自上渐淡	pin hong se zi shang jian dan	3049
+品红色自下渐淡	pin hong se zi xia jian dan	3033
+品红色左半方形	pin hong se zuo ban fang xing	2953
+品红色左上三角	pin hong se zuo shang san jiao	3145
+品红色左下三角	pin hong se zuo xia san jiao	3113
+品红竖条纹	pin hong shu tiao wen	2889
+品红斜十字	pin hong xie shi zi	3193
+品红正十字	pin hong zheng shi zi	2809
+拼图方块	pin tu fang kuai	2218
+平凡的药水	ping fan de yao shui	919
+苹果	ping guo	1242
+平滑红砂岩	ping hua hong sha yan	1803
+平滑红砂岩楼梯	ping hua hong sha yan lou ti	1801
+平滑红砂岩台阶	ping hua hong sha yan tai jie	1802
+平滑砂岩	ping hua sha yan	1800
+平滑砂岩楼梯	ping hua sha yan lou ti	1798
+平滑砂岩台阶	ping hua sha yan tai jie	1799
+平滑石头	ping hua shi tou	1797
+平滑石头台阶	ping hua shi tou tai jie	1796
+平滑石英块	ping hua shi ying kuai	1806
+平滑石英楼梯	ping hua shi ying lou ti	1804
+平滑石英台阶	ping hua shi ying tai jie	1805
+平滑玄武岩	ping hua xuan wu yan	1807
+平原	ping yuan	3357
+屏障	ping zhang	2609
+瓶子草	ping zi cao	1985
+瓶子草荚果	ping zi cao jia guo	935
+瓶子草植株	ping zi cao zhi zhu	1986
+破基岩	po ji yan	147
+破甲	po jia	1547
+迫近	po jin	263
+破裂	po lie	521
+迫在眉睫	po zai mei jie	249
+蒲公英	pu gong ying	2392
+蒲公英盆栽	pu gong ying pen zai	1936
+扑腾	pu teng	396
+扑翼	pu yi	312
+骑炽足兽移动距离	qi chi zu shou yi dong ju li	564
+起飞	qi fei	422
+骑马移动距离	qi ma yi dong ju li	601
+气泡珊瑚	qi pao shan hu	2520
+气泡珊瑚块	qi pao shan hu kuai	2519
+气泡珊瑚扇	qi pao shan hu shan	2518
+气泡柱	qi pao zhu	2521
+旗帜图案	qi zhi tu an	1173
+骑猪移动距离	qi zhu yi dong ju li	575
+嵌入	qian ru	493
+潜行	qian xing	3617
+潜行距离	qian xing ju li	617
+潜行时间	qian xing shi jian	566
+潜行速度	qian xing su du	3402
+潜影贝	qian ying bei	1412
+潜影贝刷怪蛋	qian ying bei shua guai dan	845
+潜影弹	qian ying dan	1411
+潜影盒	qian ying he	1815
+潜影盒打开次数	qian ying he da kai ci shu	576
+潜影盒清洗次数	qian ying he qing xi ci shu	619
+潜影盒展示	qian ying he zhan shi	126
+潜影壳	qian ying ke	846
+抢夺	qiang duo	1534
+强化深板岩	qiang hua shen ban yan	1844
+强加载	qiang jia zai	97
+墙面分类	qiang mian fen lei	142
+墙上的白桦木告示牌	qiang shang de bai hua mu gao shi pai	2582
+墙上的苍白橡木告示牌	qiang shang de cang bai xiang mu gao shi pai	2010
+墙上的丛林木告示牌	qiang shang de cong lin mu gao shi pai	2202
+墙上的凋灵骷髅头颅	qiang shang de diao ling ku lou tou lu	1609
+墙上的绯红木告示牌	qiang shang de fei hong mu gao shi pai	2415
+墙上的管珊瑚扇	qiang shang de guan shan hu shan	1710
+墙上的诡异木告示牌	qiang shang de gui yi mu gao shi pai	1677
+墙上的红石火把	qiang shang de hong shi huo ba	1846
+墙上的红树木告示牌	qiang shang de hong shu mu gao shi pai	2112
+墙上的火把	qiang shang de huo ba	1694
+墙上的火珊瑚扇	qiang shang de huo shan hu shan	2290
+墙上的僵尸的头	qiang shang de jiang shi de tou	1594
+墙上的金合欢木告示牌	qiang shang de jin he huan mu gao shi pai	3319
+墙上的苦力怕的头	qiang shang de ku li pa de tou	2432
+墙上的骷髅头颅	qiang shang de ku lou tou lu	1813
+墙上的灵魂火把	qiang shang de ling hun huo ba	1787
+墙上的龙首	qiang shang de long shou	2320
+墙上的鹿角珊瑚扇	qiang shang de lu jiao shan hu shan	2232
+墙上的脑纹珊瑚扇	qiang shang de nao wen shan hu shan	2542
+墙上的气泡珊瑚扇	qiang shang de qi pao shan hu shan	2517
+墙上的深色橡木告示牌	qiang shang de shen se xiang mu gao shi pai	2377
+墙上的失活管珊瑚扇	qiang shang de shi huo guan shan hu shan	2351
+墙上的失活火珊瑚扇	qiang shang de shi huo huo shan hu shan	2359
+墙上的失活鹿角珊瑚扇	qiang shang de shi huo lu jiao shan hu shan	2355
+墙上的失活脑纹珊瑚扇	qiang shang de shi huo nao wen shan hu shan	2368
+墙上的失活气泡珊瑚扇	qiang shang de shi huo qi pao shan hu shan	2364
+墙上的玩家的头	qiang shang de wan jia de tou	1983
+墙上的橡木告示牌	qiang shang de xiang mu gao shi pai	2060
+墙上的悬挂式竹告示牌	qiang shang de xuan gua shi zhu gao shi pai	3284
+墙上的樱花木告示牌	qiang shang de ying hua mu gao shi pai	2485
+墙上的云杉木告示牌	qiang shang de yun sha mu gao shi pai	1768
+墙上的竹告示牌	qiang shang de zhu gao shi pai	3283
+墙上的猪灵的头	qiang shang de zhu ling de tou	2004
+强制游戏模式	qiang zhi you xi mo shi	691
+鞘翅	qiao chi	1143
+鞘翅滑行距离	qiao chi hua xing ju li	624
+切门刷怪塔	qie men shua guai ta	46
+切石机	qie shi ji	1756
+切制红砂岩	qie zhi hong sha yan	2410
+切制红砂岩台阶	qie zhi hong sha yan tai jie	2409
+切制砂岩	qie zhi sha yan	2408
+切制砂岩台阶	qie zhi sha yan tai jie	2407
+切制铜块	qie zhi tong kuai	2413
+切制铜楼梯	qie zhi tong lou ti	2411
+切制铜台阶	qie zhi tong tai jie	2412
+且只有一条生命	qie zhi you yi tiao sheng ming	642
+青翠蛙明灯	qing cui wa ming deng	1697
+青底	qing di	3279
+轻功雪上飘	qing gong xue shang piao	3565
+轻击	qing ji	296
+青金石	qing jin shi	1027
+青金石块	qing jin shi kuai	2196
+青金石矿石	qing jin shi kuang shi	2195
+青金石质	qing jin shi zhi	196
+清空	qing kong	509
+青色	qing se	1121
+青色波纹边	qing se bo wen bian	3183
+青色床	qing se chuang	2405
+青色带釉陶瓦	qing se dai you tao wa	2399
+青色底波纹	qing se di bo wen	2639
+青色地球	qing se di qiu	3071
+青色地毯	qing se di tan	2402
+青色顶波纹	qing se ding bo wen	2623
+青色盾牌	qing se dun pai	859
+青色方框边	qing se fang kuang bian	3263
+青色花朵盾徽	qing se hua duo dun hui	3087
+青色混凝土	qing se hun ning tu	2401
+青色混凝土粉末	qing se hun ning tu fen mo	2400
+青色苦力怕盾徽	qing se ku li pa dun hui	3215
+青色蜡烛	qing se la zhu	2404
+青色菱形	qing se ling xing	2927
+青色旗帜	qing se qi zhi	2406
+青色潜影盒	qing se qian ying he	2398
+青色染料	qing se ran liao	1167
+青色染色玻璃	qing se ran se bo li	2397
+青色染色玻璃板	qing se ran se bo li ban	2396
+青色上半方形	qing se shang ban fang xing	3007
+青色收纳袋	qing se shou na dai	1168
+青色陶瓦	qing se tao wa	2395
+青色头颅盾徽	qing se tou lu dun hui	2911
+青色涡流	qing se wo liu	3103
+青色下半方形	qing se xia ban fang xing	2991
+青色旋风	qing se xuan feng	3023
+青色羊毛	qing se yang mao	2394
+青色右半方形	qing se you ban fang xing	2975
+青色右上三角	qing se you shang san jiao	3167
+青色右下三角	qing se you xia san jiao	3135
+青色圆形	qing se yuan xing	3231
+青色猪鼻	qing se zhu bi	2943
+青色砖纹	qing se zhuan wen	3247
+青色自上渐淡	qing se zi shang jian dan	3055
+青色自下渐淡	qing se zi xia jian dan	3039
+青色左半方形	qing se zuo ban fang xing	2959
+青色左上三角	qing se zuo shang san jiao	3151
+青色左下三角	qing se zuo xia san jiao	3119
+青竖条纹	qing shu tiao wen	2895
+青蛙	qing wa	1462
+青蛙卵	qing wa luan	2285
+青蛙刷怪蛋	qing wa shua guai dan	1088
+清洗盔甲次数	qing xi kui jia ci shu	621
+清洗旗帜次数	qing xi qi zhi ci shu	620
+青斜十字	qing xie shi zi	3199
+青正十字	qing zheng shi zi	2815
+轻质测重压力板	qing zhi ce zhong ya li ban	2161
+庆祝	qing zhu	302
+求食	qiu shi	399
+犰狳	qiu yu	1508
+犰狳鳞甲	qiu yu lin jia	1240
+犰狳刷怪蛋	qiu yu shua guai dan	1239
+区块	qu kuai	177
+区块加载器	qu kuai jia zai qi	99
+去皮白桦木	qu pi bai hua mu	1751
+去皮白桦原木	qu pi bai hua yuan mu	1752
+去皮苍白橡木	qu pi cang bai xiang mu	1737
+去皮苍白橡木原木	qu pi cang bai xiang mu yuan mu	1738
+去皮丛林木	qu pi cong lin mu	1743
+去皮丛林原木	qu pi cong lin yuan mu	1744
+去皮绯红菌柄	qu pi fei hong jun bing	1747
+去皮绯红菌核	qu pi fei hong jun he	1748
+去皮诡异菌柄	qu pi gui yi jun bing	1733
+去皮诡异菌核	qu pi gui yi jun he	1734
+去皮红树木	qu pi hong shu mu	1741
+去皮红树原木	qu pi hong shu yuan mu	1742
+去皮金合欢木	qu pi jin he huan mu	1754
+去皮金合欢原木	qu pi jin he huan yuan mu	1755
+去皮深色橡木	qu pi shen se xiang mu	1745
+去皮深色橡木原木	qu pi shen se xiang mu yuan mu	1746
+去皮橡木	qu pi xiang mu	1739
+去皮橡木原木	qu pi xiang mu yuan mu	1740
+去皮樱花木	qu pi ying hua mu	1749
+去皮樱花原木	qu pi ying hua yuan mu	1750
+去皮云杉木	qu pi yun sha mu	1735
+去皮云杉原木	qu pi yun shan yuan mu	1736
+去皮竹块	qu pi zhu kuai	1753
+曲奇	qu qi	1177
+曲速泡	qu su pao	3488
+区域效果云	qu yu xiao guo yun	1509
+全部	quan bu	647
+全局声音事件	quan ju sheng yin shi jian	1290
+全树种树场	quan shu zhong shu chang	156
+蜷缩	quan suo	432
+全物品分类	quan wu pin fen lei	131
+全物品收集	quan wu pin shou ji	130
+群狼聚首	qun lang ju shou	3504
+群系	qun xi	182
+燃起	ran qi	453
+染色	ran se	225
+染色方块	ran se fang kuai	709
+燃烧	ran shao	292
+让悦灵向你投掷物品	rang yue ling xiang ni tou zhi wu pin	3545
+热带草原	re dai cao yuan	3355
+热带高原	re dai gao yuan	3354
+热带鱼	re dai yu	1390
+热带鱼刷怪蛋	re dai yu shua guai dan	748
+热带鱼桶	re dai yu tong	749
+热门景点	re men jing dian	3489
+热腾腾的	re teng teng de	3449
+扔出	reng chu	290
+日纹类	ri wen lei	1356
+溶洞	rong dong	3382
+熔炉	rong lu	2283
+熔炉组	rong lu zu	146
+绒球葱	rong qiu cong	3315
+绒球葱盆栽	rong qiu cong pen zai	1949
+熔岩	rong yan	2192
+熔岩桶	rong yan tong	1026
+入巢	ru chao	531
+入睡占比	ru shui zhan bi	1281
+弱加载	ruo jia zai	96
+三叉戟	san cha ji	1391
+三向	san xiang	110
+三向轰炸机	san xiang hong zha ji	111
+森林	sen lin	3376
+杀凋机	sha diao ji	154
+沙砾	sha li	2270
+砂轮	sha lun	2243
+沙漠	sha mo	3383
+沙丘盔甲纹饰	sha qiu kui jia wen shi	1147
+沙沙作响	sha sha zuo xiang	491
+杀手兔	sha shou tu	1443
+杀死每一种敌对性怪物	sha si mei yi zhong di dui xing guai wu	3604
+杀死任意敌对性怪物	sha si ren yi di dui xing guai wu	3606
+沙滩	sha tan	3394
+砂土	sha tu	2463
+砂岩	sha yan	1831
+砂岩楼梯	sha yan lou ti	1829
+砂岩墙	sha yan qiang	1828
+砂岩台阶	sha yan tai jie	1830
+傻子	sha zi	1342
+沙子	sha zi	1832
+闪长岩	shan chang yan	2329
+闪长岩楼梯	shan chang yan lou ti	2327
+闪长岩墙	shan chang yan qiang	2326
+闪长岩台阶	shan chang yan tai jie	2328
+闪电束	shan dian shu	1441
+珊瑚机	shan hu ji	20
+闪鳞类	shan lin lei	1361
+闪烁	shan shuo	1119
+闪烁的西瓜片	shan shuo de xi gua pian	1084
+山羊	shan yang	1456
+山羊角	shan yang jiao	1077
+山羊刷怪蛋	shan yang shua guai dan	1076
+上浮	shang fu	520
+伤害吸收	shang hai xi shou	1589
+伤害药水	shang hai yao shui	926
+伤害之箭	shang hai zhi jian	775
+上天入地	shang tian ru di	3611
+烧包机	shao bao ji	125
+哨兵盔甲纹饰	shao bing kui jia wen shi	869
+射出	she chu	375
+射击	she ji	416
+设置	she zhi	5
+设置出生点	she zhi chu sheng dian	469
+设置生物种类	she zhi sheng wu zhong lei	1785
+深暗之域	shen an zhi yu	3387
+深板岩	shen ban yan	2349
+深板岩瓦	shen ban yan wa	2333
+深板岩瓦楼梯	shen ban yan wa lou ti	2335
+深板岩瓦墙	shen ban yan wa qiang	2334
+深板岩瓦台阶	shen ban yan wa tai jie	2336
+深板岩圆石	shen ban yan yuan shi	2462
+深板岩圆石楼梯	shen ban yan yuan shi lou ti	2460
+深板岩圆石墙	shen ban yan yuan shi qiang	2459
+深板岩圆石台阶	shen ban yan yuan shi tai jie	2461
+深板岩砖	shen ban yan zhuan	2345
+深板岩砖楼梯	shen ban yan zhuan lou ti	2347
+深板岩砖墙	shen ban yan zhuan qiang	2346
+深板岩砖台阶	shen ban yan zhuan tai jie	2348
+深藏不露	shen cang bu lu	3478
+深层红石矿石	shen ceng hong shi kuang shi	2337
+深层金矿石	shen ceng jin kuang shi	2340
+深层绿宝石矿石	shen ceng lv bao shi kuang shi	2341
+深层煤矿石	shen ceng mei kuang shi	2344
+深层青金石矿石	shen ceng qing jin shi kuang shi	2338
+深层铁矿石	shen ceng tie kuang shi	2339
+深层铜矿石	shen ceng tong kuang shi	2343
+深层钻石矿石	shen ceng zuan shi kuang shi	2342
+神龟药水	shen gui yao shui	909
+神龟之箭	shen gui zhi jian	759
+深海	shen hai	3384
+深海探索者	shen hai tan suo zhe	1544
+渗浆	shen jiang	1568
+渗浆药水	shen jiang yao shui	917
+渗浆之箭	shen jiang zhi jian	767
+深色橡木	shen se xiang mu	2376
+深色橡木按钮	shen se xiang mu an niu	2391
+深色橡木船	shen se xiang mu chuan	1484
+深色橡木告示牌	shen se xiang mu gao shi pai	2381
+深色橡木活板门	shen se xiang mu huo ban men	2378
+深色橡木楼梯	shen se xiang mu lou ti	2379
+深色橡木门	shen se xiang mu men	2390
+深色橡木木板	shen se xiang mu mu ban	2384
+深色橡木台阶	shen se xiang mu tai jie	2380
+深色橡木压力板	shen se xiang mu ya li ban	2383
+深色橡木原木	shen se xiang mu yuan mu	2385
+深色橡木运输船	shen se xiang mu yun shu chuan	1483
+深色橡木栅栏	shen se xiang mu zha lan	2389
+深色橡木栅栏门	shen se xiang mu zha lan men	2388
+深色橡树树苗	shen se xiang shu shu miao	2382
+深色橡树树苗盆栽	shen se xiang shu shu miao pen zai	1935
+深色橡树树叶	shen se xiang shu shu ye	2386
+呻吟	shen yin	384
+伸展	shen zhan	430
+生成	sheng cheng	1316
+生成幻翼	sheng cheng huan yi	1305
+生成监守者	sheng cheng jian shou zhe	1297
+生成流浪商人	sheng cheng liu lang shang ren	1299
+生成生物	sheng cheng sheng wu	1302
+生成灾厄巡逻队	sheng cheng zai e xun luo dui	1301
+生存	sheng cun	640
+生存电路	sheng cun dian lu	190
+生存模式	sheng cun mo shi	1322
+生存模式物品栏	sheng cun mo shi wu pin lan	702
+生电	sheng dian	191
+生鲑鱼	sheng gui yu	874
+升级	sheng ji	827
+升级你的镐	sheng ji ni de gao	3452
+生鸡肉	sheng ji rou	1196
+盛开的杜鹃花丛	sheng kai de du juan hua cong	2287
+盛开的杜鹃花丛盆栽	sheng kai de du juan hua cong pen zai	1932
+盛开的杜鹃树叶	sheng kai de du juan shu ye	2286
+生命恢复	sheng ming hui fu	1565
+生命提升	sheng ming ti sheng	1580
+生命值自然恢复	sheng ming zhi zi ran hui fu	1282
+生牛肉	sheng niu rou	1232
+升起	sheng qi	524
+生日快乐歌	sheng ri kuai le ge	3546
+生兔肉	sheng tu rou	891
+生物	sheng wu	1317
+生物跟随距离	sheng wu gen sui ju li	3418
+生物击杀数	sheng wu ji sha shu	580
+生物群系	sheng wu qun xi	3620
+生物引诱范围	sheng wu yin you fan wei	3398
+生物战利品掉落	sheng wu zhan li pin diao luo	1303
+生鳕鱼	sheng xue yu	1188
+生羊肉	sheng yang rou	969
+声音语音	sheng yin yu yin	631
+生长	sheng zhang	511
+生猪排	sheng zhu pai	930
+石岸	shi an	3345
+矢车菊	shi che ju	2442
+矢车菊盆栽	shi che ju pen zai	1939
+石锄	shi chu	788
+施法	shi fa	369
+石斧	shi fu	789
+石镐	shi gao	787
+湿海绵	shi hai mian	1627
+石化橡木台阶	shi hua xiang mu tai jie	2006
+失活	shi huo	394
+失活的管珊瑚	shi huo de guan shan hu	2354
+失活的管珊瑚块	shi huo de guan shan hu kuai	2353
+失活的管珊瑚扇	shi huo de guan shan hu shan	2352
+失活的火珊瑚	shi huo de huo shan hu	2362
+失活的火珊瑚块	shi huo de huo shan hu kuai	2361
+失活的火珊瑚扇	shi huo de huo shan hu shan	2360
+失活的鹿角珊瑚	shi huo de lu jiao shan hu	2358
+失活的鹿角珊瑚块	shi huo de lu jiao shan hu kuai	2357
+失活的鹿角珊瑚扇	shi huo de lu jiao shan hu shan	2356
+失活的脑纹珊瑚	shi huo de nao wen shan hu	2371
+失活的脑纹珊瑚块	shi huo de nao wen shan hu kuai	2370
+失活的脑纹珊瑚扇	shi huo de nao wen shan hu shan	2369
+失活的气泡珊瑚	shi huo de qi pao shan hu	2367
+失活的气泡珊瑚块	shi huo de qi pao shan hu kuai	2366
+失活的气泡珊瑚扇	shi huo de qi pao shan hu shan	2365
+石剑	shi jian	785
+石匠	shi jiang	1343
+世界打开时间	shi jie da kai shi jian	558
+世界更新	shi jie geng xin	1315
+世界生成	shi jie sheng cheng	169
+世界吞噬者	shi jie tun shi zhe	109
+尸壳	shi ke	1452
+尸壳刷怪蛋	shi ke shua guai dan	1043
+史莱姆	shi lai mu	1407
+史莱姆农场	shi lai mu nong chang	39
+史莱姆区块	shi lai mu qu kuai	38
+史莱姆刷怪蛋	shi lai mu shua guai dan	835
+试炼刷怪笼	shi lian shua guai long	1716
+试炼钥匙	shi lian yao shi	750
+试炼之兆	shi lian zhi zhao	1558
+矢量珍珠炮	shi liang zhen zhu pao	116
+失明	shi ming	1587
+拾起个数	shi qi ge shu	546
+石器时代	shi qi shi dai	3445
+石锹	shi qiao	786
+拾取	shi qu	172
+石首类	shi shou lei	1360
+实体	shi ti	178
+实体挤压上限	shi ti ji ya shang xian	1285
+实体交互距离	shi ti jiao hu ju li	3422
+石头	shi tou	1765
+石头按钮	shi tou an niu	1760
+石头楼梯	shi tou lou ti	1757
+石头台阶	shi tou tai jie	1758
+石头压力板	shi tou ya li ban	1759
+世吞	shi tun	108
+饰纹陶罐	shi wen tao guan	2350
+食物与饮品	shi wu yu yin pin	705
+失效	shi xiao	534
+石英块	shi ying kuai	1884
+石英楼梯	shi ying lou ti	1880
+石英台阶	shi ying tai jie	1881
+石英质	shi ying zhi	194
+石英柱	shi ying zhu	1882
+石英砖	shi ying zhuan	1883
+使用	shi yong	539
+使用次数	shi yong ci shu	545
+时运	shi yun	1538
+时钟	shi zhong	1192
+石砖	shi zhuan	1761
+石砖楼梯	shi zhuan lou ti	1763
+石砖墙	shi zhuan qiang	1762
+石砖台阶	shi zhuan tai jie	1764
+受到保护	shou dao bao hu	392
+收到了未请求的状态	shou dao le wei qing qiu de zhuang tai	652
+受到伤害	shou dao shang hai	610
+收回	shou hui	361
+收纳袋	shou na dai	1207
+受伤	shou shang	441
+受损	shou sun	334
+收缩	shou suo	289
+守卫者	shou wei zhe	1455
+守卫者刷怪蛋	shou wei zhe shua guai dan	1057
+树场	shu chang	157
+熟鲑鱼	shu gui yu	1178
+熟鸡肉	shu ji rou	1183
+书架	shu jia	2546
+数据包	shu ju bao	179
+疏林恶地	shu lin e di	3334
+熟兔肉	shu tu rou	1179
+熟鳕鱼	shu xue yu	1182
+熟羊肉	shu yang rou	1181
+树叶机	shu ye ji	61
+树荫纹样陶片	shu yin wen yang tao pian	864
+书与笔	shu yu bi	719
+树脂块	shu zhi kuai	1841
+树脂团	shu zhi tuan	1836
+树脂质	shu zhi zhi	192
+树脂砖	shu zhi zhuan	877
+树脂砖块	shu zhi zhuan kuai	1837
+树脂砖楼梯	shu zhi zhuan lou ti	1839
+树脂砖墙	shu zhi zhuan qiang	1838
+树脂砖台阶	shu zhi zhuan tai jie	1840
+熟猪排	shu zhu pai	1180
+刷冰机	shua bing ji	71
+刷怪蛋	shua guai dan	697
+刷怪笼	shua guai long	1786
+刷怪笼改造	shua guai long gai zao	47
+刷怪笼矿车	shua guai long kuang che	1402
+刷怪塔	shua guai ta	55
+刷扫沙砾完毕	shua sao sha li wan bi	235
+刷扫沙砾中	shua sao sha li zhong	236
+刷扫沙子完毕	shua sao sha zi wan bi	233
+刷扫沙子中	shua sao sha zi zhong	234
+刷扫中	shua sao zhong	237
+刷沙机	shua sha ji	148
+刷石机	shua shi ji	73
+刷铁机	shua tie ji	151
+刷鱼塔	shua yu ta	17
+刷子	shua zi	1209
+甩出	shuai chu	360
+摔倒	shuai dao	349
+摔落到方块上	shuai luo dao fang kuai shang	487
+摔落高度	shuai luo gao du	605
+摔落缓冲	shuai luo huan chong	1542
+摔落伤害	shuai luo shang hai	1294
+摔落伤害倍数	shuai luo shang hai bei shu	3420
+拴绳	shuan sheng	1025
+拴绳结	shuan sheng jie	1442
+双倍速打包机	shuang bei su da bao ji	138
+双倍速分类打包机	shuang bei su fen lei da bao ji	137
+霜冰	shuang bing	2284
+双维度	shuang wei du	41
+双向轰炸机	shuang xiang hong zha ji	112
+水肺药水	shui fei yao shui	907
+水肺之箭	shui fei zhi jian	757
+睡莲	shui lian	2157
+水面行走距离	shui mian xing zou ju li	553
+水瓶	shui ping	908
+水生伪和平	shui sheng wei he ping	89
+水桶	shui tong	736
+水下呼吸	shui xia hu xi	1556
+水下速掘	shui xia su jue	1551
+水下挖掘速度	shui xia wa jue su du	3401
+水下行走距离	shui xia xing zou ju li	551
+谁在切洋葱	shui zai qie yang cong	3475
+水中移动效率	shui zhong yi dong xiao lv	3405
+瞬间伤害	shun jian shang hai	1577
+瞬间治疗	shun jian zhi liao	1576
+说话	shuo hua	313
+嘶叫	si jiao	387
+嘶鸣	si ming	386
+嘶嘶	si si	310
+嘶嘶声	si si sheng	481
+嘶嘶作响	si si zuo xiang	279
+死亡	si wang	442
+死亡次数	si wang ci shu	609
+死亡后保留物品栏	si wang hou bao liu wu pin lan	1289
+撕心裂肺	si xin lie fei	252
+撕咬	si yao	357
+搜查发射器次数	sou cha fa she qi ci shu	600
+搜查漏斗次数	sou cha lou dou ci shu	598
+搜查投掷器次数	sou cha tou zhi qi ci shu	599
+搜索物品	sou suo wu pin	698
+搜寻	sou xun	444
+速度	su du	3410
+苏醒	su xing	500
+速跃类	su yue lei	1363
+塑造盔甲纹饰	su zao kui jia wen shi	868
+随机刻	sui ji ke	80
+随机刻速率	sui ji ke su lv	1279
+随机数	sui ji shu	88
+碎裂	sui lie	497
+燧石	sui shi	1098
+损坏	sun huai	332
+损坏次数	sun huai ci shu	550
+损坏的铁砧	sun huai de tie zhen	2393
+损坏中	sun huai zhong	486
+锁链	suo lian	2501
+锁链护腿	suo lian hu tui	1198
+锁链头盔	suo lian tou kui	1199
+锁链胸甲	suo lian xiong jia	1200
+锁链靴子	suo lian xue zi	1201
+锁上	suo shang	513
+缩小	suo xiao	214
+塌落	ta luo	476
+它蔓延了	ta man yan le	3602
+踏入试炼密室	ta ru shi lian mi shi	3599
+踏沙	ta sha	400
+苔石	tai shi	2105
+苔石楼梯	tai shi lou ti	2103
+苔石墙	tai shi qiang	2102
+苔石台阶	tai shi tai jie	2104
+苔石砖	tai shi zhuan	2098
+苔石砖楼梯	tai shi zhuan lou ti	2100
+苔石砖墙	tai shi zhuan qiang	2099
+苔石砖台阶	tai shi zhuan tai jie	2101
+苔藓块	tai xian kuai	2107
+探测铁轨	tan ce tie gui	2332
+弹出	tan chu	460
+探古寻源	tan gu xun yuan	3590
+弹射物	tan she wu	1169
+弹射物保护	tan she wu bao hu	1527
+弹射物能否破坏方块	tan she wu neng fou po huai fang kuai	1280
+探索的时光	tan suo de shi guang	3619
+探索所有下界生物群系	tan suo suo you xia jie sheng wu qun xi	3490
+弹跳	tan tiao	380
+探险纹样陶片	tan xian wen yang tao pian	1133
+躺在床上的次数	tang zai chuang shang de ci shu	567
+逃离这座岛屿	tao li zhe zuo dao yu	3556
+陶瓦	tao wa	1722
+陶鱼类	tao yu lei	1364
+藤蔓	teng wan	1696
+藤蔓蔓延	teng wan man yan	1298
+提供反馈	ti gong fan kui	675
+梯子	ti zi	2198
+甜菜根	tian cai gen	2599
+甜菜汤	tian cai tang	1230
+甜菜种子	tian cai zhong zi	1231
+填充	tian chong	508
+天赐良击	tian ci liang ji	3596
+甜浆果	tian jiang guo	781
+甜浆果丛	tian jiang guo cong	1726
+天空即为极限	tian kong ji wei ji xian	3557
+甜蜜的梦	tian mi de meng	3587
+天气	tian qi	630
+天气更替	tian qi geng ti	1296
+天涯共此石	tian ya gong ci shi	3465
+跳动	tiao dong	287
+跳入蜂蜜块以缓冲摔落	tiao ru feng mi kuai yi huan chong shuai luo	3608
+调试棒	tiao shi bang	1165
+调试模式	tiao shi mo shi	1265
+条纹类	tiao wen lei	1357
+跳跃	tiao yue	409
+跳跃次数	tiao yue ci shu	583
+跳跃力度	tiao yue li du	3416
+跳跃提升	tiao yue ti sheng	1574
+跳跃药水	tiao yue yao shui	922
+跳跃之箭	tiao yue zhi jian	771
+挑战已完成	tiao zhan yi wan cheng	3435
+铁锄	tie chu	1036
+铁锭	tie ding	1034
+铁斧	tie fu	1041
+铁镐	tie gao	1031
+铁轨	tie gui	1879
+铁轨机	tie gui ji	149
+铁护腿	tie hu tui	1033
+铁活板门	tie huo ban men	2220
+铁剑	tie jian	1029
+铁块	tie kuai	2223
+铁矿石	tie kuang shi	2221
+铁傀儡	tie kui lei	1449
+铁傀儡刷怪蛋	tie kui lei shua guai dan	1038
+铁栏杆	tie lan gan	2224
+铁粒	tie li	1032
+铁路	tie lu	120
+铁马铠	tie ma kai	1035
+铁门	tie men	2222
+铁锹	tie qiao	1030
+铁桶	tie tong	1208
+铁头盔	tie tou kui	1037
+铁胸甲	tie xiong jia	1039
+铁靴子	tie xue zi	1040
+铁砧	tie zhen	3307
+铁质	tie zhi	197
+停息	ting xi	465
+铜灯	tong deng	2447
+铜锭	tong ding	1176
+通告管理员命令	tong gao guan li yuan ming ling	1288
+铜格栅	tong ge shan	2445
+铜光焕发	tong guang huan fa	3601
+铜活板门	tong huo ban men	2443
+统计信息	tong ji xin xi	1255
+铜块	tong kuai	2448
+铜矿石	tong kuang shi	2444
+铜门	tong men	2446
+同时拥有所有药水效果	tong shi yong you suo you yao shui xiao guo	3501
+同时拥有所有状态效果	tong shi yong you suo you zhuang tai xiao guo	3503
+同意	tong yi	274
+通用	tong yong	626
+铜质	tong zhi	201
+透过望远镜观察恶魂	tou guo wang yuan jing guan cha e hun	3583
+透过望远镜观察末影龙	tou guo wang yuan jing guan cha mo ying long	3585
+透过望远镜观察鹦鹉	tou guo wang yuan jing guan cha ying wu	3581
+头颅盾徽	tou lu dun hui	839
+头颅盾徽旗帜图案	tou lu dun hui qi zhi tu an	838
+头颅农场	tou lu nong chang	31
+头颅纹样陶片	tou lu wen yang tao pian	902
+投掷	tou zhi	438
+投掷器	tou zhi qi	2317
+投掷三叉戟	tou zhi san cha ji	383
+吐出	tu chu	354
+突刺	tu ci	211
+屠夫	tu fu	1351
+突进	tu jin	209
+土径	tu jing	2324
+涂蜡	tu la	3506
+涂蜡的斑驳雕纹铜块	tu la de ban bo diao wen tong kuai	1665
+涂蜡的斑驳切制铜块	tu la de ban bo qie zhi tong kuai	1659
+涂蜡的斑驳切制铜楼梯	tu la de ban bo qie zhi tong lou ti	1657
+涂蜡的斑驳切制铜台阶	tu la de ban bo qie zhi tong tai jie	1658
+涂蜡的斑驳铜灯	tu la de ban bo tong deng	1663
+涂蜡的斑驳铜格栅	tu la de ban bo tong ge shan	1661
+涂蜡的斑驳铜活板门	tu la de ban bo tong huo ban men	1660
+涂蜡的斑驳铜块	tu la de ban bo tong kuai	1664
+涂蜡的斑驳铜门	tu la de ban bo tong men	1662
+涂蜡的雕纹铜块	tu la de diao wen tong kuai	1674
+涂蜡的切制铜块	tu la de qie zhi tong kuai	1668
+涂蜡的切制铜楼梯	tu la de qie zhi tong lou ti	1666
+涂蜡的切制铜台阶	tu la de qie zhi tong tai jie	1667
+涂蜡的铜灯	tu la de tong deng	1672
+涂蜡的铜格栅	tu la de tong ge shan	1670
+涂蜡的铜活板门	tu la de tong huo ban men	1669
+涂蜡的铜块	tu la de tong kuai	1673
+涂蜡的铜门	tu la de tong men	1671
+涂蜡的锈蚀雕纹铜块	tu la de xiu shi diao wen tong kuai	1647
+涂蜡的锈蚀切制铜块	tu la de xiu shi qie zhi tong kuai	1641
+涂蜡的锈蚀切制铜楼梯	tu la de xiu shi qie zhi tong lou ti	1639
+涂蜡的锈蚀切制铜台阶	tu la de xiu shi qie zhi tong tai jie	1640
+涂蜡的锈蚀铜灯	tu la de xiu shi tong deng	1645
+涂蜡的锈蚀铜格栅	tu la de xiu shi tong ge shan	1643
+涂蜡的锈蚀铜活板门	tu la de xiu shi tong huo ban men	1642
+涂蜡的锈蚀铜块	tu la de xiu shi tong kuai	1646
+涂蜡的锈蚀铜门	tu la de xiu shi tong men	1644
+涂蜡的氧化雕纹铜块	tu la de yang hua diao wen tong kuai	1656
+涂蜡的氧化切制铜块	tu la de yang hua qie zhi tong kuai	1650
+涂蜡的氧化切制铜楼梯	tu la de yang hua qie zhi tong lou ti	1648
+涂蜡的氧化切制铜台阶	tu la de yang hua qie zhi tong tai jie	1649
+涂蜡的氧化铜灯	tu la de yang hua tong deng	1654
+涂蜡的氧化铜格栅	tu la de yang hua tong ge shan	1652
+涂蜡的氧化铜活板门	tu la de yang hua tong huo ban men	1651
+涂蜡的氧化铜块	tu la de yang hua tong kuai	1655
+涂蜡的氧化铜门	tu la de yang hua tong men	1653
+涂抹	tu mo	222
+兔肉煲	tu rou bao	887
+图书管理员	tu shu guan li yuan	1344
+兔子	tu zi	1416
+兔子机	tu zi ji	19
+兔子脚	tu zi jiao	890
+兔子皮	tu zi pi	889
+兔子刷怪蛋	tu zi shua guai dan	888
+退出游戏	tui chu you xi	682
+推地板刷怪塔	tui di ban shua guai ta	53
+退缩	tui suo	341
+脱蜡	tuo la	3507
+脱落鳞甲	tuo luo lin jia	431
+挖掘	wa jue	284
+挖掘疲劳	wa jue pi lao	1571
+挖掘效率	wa jue xiao lv	3403
+挖三填一	wa san tian yi	160
+挖石机	wa shi ji	72
+完好如初	wan hao ru chu	3519
+玩家	wan jia	1420
+玩家的头	wan jia de tou	1984
+玩家击杀数	wan jia ji sha shu	571
+亡灵杀手	wang ling sha shou	1520
+望远镜	wang yuan jing	792
+为重生锚充满能量	wei chong sheng mao chong man neng liang	3497
+卫道士	wei dao shi	1338
+卫道士刷怪蛋	wei dao shi shua guai dan	741
+伪和平	wei he ping	93
+危机纹样陶片	wei ji wen yang tao pian	1166
+为什么会变成这样呢	wei shen me hui bian cheng zhe yang ne	3502
+微时序	wei shi xu	82
+喂食一只幼年嗅探兽	wei shi yi zhi you nian xiu tan shou	3534
+未知形状	wei zhi xing zhuang	1108
+文本展示实体	wen ben zhan shi shi ti	1393
+温暖如家	wen nuan ru jia	3472
+温水海洋	wen shui hai yang	3368
+温水深海	wen shui shen hai	3385
+嗡嗡	weng weng	421
+嗡嗡作响	weng weng zuo xiang	535
+我从哪儿来	wo cong na er lai	3537
+涡流	wo liu	1095
+涡流盔甲纹饰	wo liu kui jia wen shi	1096
+涡流旗帜图案	wo liu qi zhi tu an	1094
+涡流纹样陶片	wo liu wen yang tao pian	1093
+五彩搏鱼	wu cai bo yu	1371
+无差别愤怒	wu cha bie fen nu	1270
+无敌水晶	wu di shui jing	58
+无敌水晶笼	wu di shui jing long	57
+无法解析主机名	wu fa jie xi zhu ji ming	662
+无法连接到服务器	wu fa lian jie dao fu wu qi	663
+无粉树场	wu fen shu chang	155
+物品	wu pin	1448
+物品电梯	wu pin dian ti	121
+物品掉落	wu pin diao luo	608
+物品附魔次数	wu pin fu mo ci shu	606
+物品栏	wu pin lan	6
+物品展示框	wu pin zhan shi kuang	1446
+物品展示实体	wu pin zhan shi shi ti	1447
+武器匠	wu qi jiang	1339
+无头活塞	wu tou huo sai	103
+无限	wu xian	1535
+无延时	wu yan shi	78
+呜咽	wu ye	314
+西瓜	xi gua	2109
+西瓜机	xi gua ji	29
+西瓜茎	xi gua jing	2108
+西瓜片	xi gua pian	976
+西瓜种子	xi gua zhong zi	977
+袭击	xi ji	185
+袭击胜利次数	xi ji sheng li ci shu	568
+袭击塔	xi ji ta	33
+袭击之兆	xi ji zhi zhao	1566
+熄灭	xi mie	514
+吸气	xi qi	410
+吸收的伤害	xi shou de shang hai	616
+稀疏丛林	xi shu cong lin	3347
+吸水	xi shui	461
+嬉戏	xi xi	388
+嬉笑	xi xiao	440
+细雪	xi xue	1913
+细雪桶	xi xue tong	901
+下蛋	xia dan	462
+下弹加速	xia dan jia su	52
+下界	xia jie	3470
+下界传送门	xia jie chuan song men	2082
+下界合金锄	xia jie he jin chu	960
+下界合金锭	xia jie he jin ding	959
+下界合金斧	xia jie he jin fu	964
+下界合金镐	xia jie he jin gao	957
+下界合金护腿	xia jie he jin hu tui	958
+下界合金剑	xia jie he jin jian	954
+下界合金块	xia jie he jin kuai	2077
+下界合金锹	xia jie he jin qiao	955
+下界合金升级	xia jie he jin sheng ji	953
+下界合金碎片	xia jie he jin sui pian	956
+下界合金头盔	xia jie he jin tou kui	961
+下界合金胸甲	xia jie he jin xiong jia	962
+下界合金靴子	xia jie he jin xue zi	963
+下界合金质	xia jie he jin zhi	195
+下界荒地	xia jie huang di	3363
+下界金矿石	xia jie jin kuang shi	2083
+下界苗	xia jie miao	2080
+下界石英	xia jie shi ying	892
+下界石英矿石	xia jie shi ying kuang shi	2081
+下界岩	xia jie yan	2076
+下界疣	xia jie you	2079
+下界疣块	xia jie you kuai	2078
+下界之星	xia jie zhi xing	965
+下界砖	xia jie zhuan	966
+下界砖块	xia jie zhuan kuai	2084
+下界砖楼梯	xia jie zhuan lou ti	2086
+下界砖墙	xia jie zhuan qiang	2085
+下界砖台阶	xia jie zhuan tai jie	2087
+下界砖栅栏	xia jie zhuan zha lan	2088
+下落的方块	xia luo de fang kuai	1467
+下一世代	xia yi shi dai	3559
+陷阱箱	xian jing xiang	1717
+陷阱箱触发次数	xian jing xiang chu fa ci shu	556
+羡慕地哼叫	xian mu de heng jiao	300
+仙人掌	xian ren zhang	2515
+仙人掌农场	xian ren zhang nong chang	21
+仙人掌盆栽	xian ren zhang pen zai	1942
+现身	xian shen	271
+显示死亡消息	xian shi si wang xiao xi	1275
+显示字幕	xian shi zi mu	648
+咸水类	xian shui lei	1365
+显现	xian xian	250
+现在谁才是掠夺者	xian zai shui cai shi lue duo zhe	3563
+限制调试屏幕内容	xian zhi tiao shi ping mu nei rong	1277
+向导盔甲纹饰	xiang dao kui jia wen shi	735
+镶金黑石	xiang jin hei shi	2282
+镶铆盔甲纹饰	xiang mao kui jia wen shi	1220
+橡木	xiang mu	2059
+橡木按钮	xiang mu an niu	2074
+橡木船	xiang mu chuan	1432
+橡木告示牌	xiang mu gao shi pai	2064
+橡木活板门	xiang mu huo ban men	2061
+橡木楼梯	xiang mu lou ti	2062
+橡木门	xiang mu men	2073
+橡木木板	xiang mu mu ban	2067
+橡木台阶	xiang mu tai jie	2063
+橡木压力板	xiang mu ya li ban	2066
+橡木原木	xiang mu yuan mu	2068
+橡木运输船	xiang mu yun shu chuan	1431
+橡木栅栏	xiang mu zha lan	2072
+橡木栅栏门	xiang mu zha lan men	2071
+响起	xiang qi	526
+向日葵	xiang ri kui	1729
+向日葵平原	xiang ri kui ping yuan	3344
+橡树树苗	xiang shu shu miao	2065
+橡树树苗盆栽	xiang shu shu miao pen zai	1928
+橡树树叶	xiang shu shu ye	2069
+想象	xiang xiang	1251
+相映生辉	xiang ying sheng hui	3530
+箱子	xiang zi	2483
+箱子打开次数	xiang zi da kai ci shu	578
+小丑鱼	xiao chou yu	1372
+小地图	xiao di tu	1
+消耗品	xiao hao pin	707
+小黑搬西瓜	xiao hei ban xi gua	26
+小黑塔	xiao hei ta	152
+小火球	xiao huo qiu	1406
+效率	xiao lv	1543
+小麦	xiao mai	734
+小麦植株	xiao mai zhi zhu	1626
+小麦种子	xiao mai zhong zi	733
+削皮	xiao pi	241
+校频幽匿感测体	xiao pin you ni gan ce ti	2512
+消失诅咒	xiao shi zu zhou	1514
+小小嗅探兽	xiao xiao xiu tan shou	3533
+小型垂滴叶	xiao xing chui di ye	1810
+小型球状	xiao xing qiu zhuang	1104
+小型紫晶芽	xiao xing zi jing ya	1811
+信标	xin biao	2607
+信标工程师	xin biao gong cheng shi	3493
+新手	xin shou	670
+心碎纹样陶片	xin sui wen yang tao pian	1050
+心跳声	xin tiao sheng	267
+星际商人	xing ji shang ren	3574
+行进	xing jin	323
+行商羊驼	xing shang yang tuo	1392
+行商羊驼刷怪蛋	xing shang yang tuo shua guai dan	751
+腥味十足的生意	xing wei shi zu de sheng yi	3531
+星形	xing xing	1103
+幸运	xing yun	1572
+幸运药水	xing yun yao shui	920
+幸运值	xing yun zhi	3414
+幸运之箭	xing yun zhi jian	769
+行走距离	xing zou ju li	552
+熊猫	xiong mao	1426
+熊猫刷怪蛋	xiong mao shua guai dan	947
+修复	xiu fu	333
+绣雀鲷	xiu que diao	1370
+锈蚀的雕纹铜块	xiu shi de diao wen tong kuai	1638
+锈蚀的切制铜块	xiu shi de qie zhi tong kuai	1632
+锈蚀的切制铜楼梯	xiu shi de qie zhi tong lou ti	1630
+锈蚀的切制铜台阶	xiu shi de qie zhi tong tai jie	1631
+锈蚀的铜灯	xiu shi de tong deng	1636
+锈蚀的铜格栅	xiu shi de tong ge shan	1634
+锈蚀的铜活板门	xiu shi de tong huo ban men	1633
+锈蚀的铜块	xiu shi de tong kuai	1637
+锈蚀的铜门	xiu shi de tong men	1635
+嗅探	xiu tan	355
+嗅探兽	xiu tan shou	1405
+嗅探兽蛋	xiu tan shou dan	1795
+嗅探兽刷怪蛋	xiu tan shou shua guai dan	826
+嗅探纹样陶片	xiu tan wen yang tao pian	825
+嗅闻	xiu wen	282
+蓄风	xu feng	1553
+蓄风药水	xu feng yao shui	904
+蓄风之箭	xu feng zhi jian	754
+虚空	xu kong	3341
+虚空空气	xu kong kong qi	1695
+蓄力	xu li	413
+虚弱	xu ruo	1555
+虚弱药水	xu ruo yao shui	906
+虚弱之箭	xu ruo zhi jian	756
+旋风	xuan feng	1055
+旋风棒	xuan feng bang	1215
+旋风旗帜图案	xuan feng qi zhi tu an	1054
+旋风人	xuan feng ren	1496
+旋风人刷怪蛋	xuan feng ren shua guai dan	1214
+旋风纹样陶片	xuan feng wen yang tao pian	1053
+悬挂式白桦木告示牌	xuan gua shi bai hua mu gao shi pai	2592
+悬挂式苍白橡木告示牌	xuan gua shi cang bai xiang mu gao shi pai	2020
+悬挂式丛林木告示牌	xuan gua shi cong lin mu gao shi pai	2212
+悬挂式绯红木告示牌	xuan gua shi fei hong mu gao shi pai	2426
+悬挂式诡异木告示牌	xuan gua shi gui yi mu gao shi pai	1688
+悬挂式红树木告示牌	xuan gua shi hong shu mu gao shi pai	2123
+悬挂式金合欢木告示牌	xuan gua shi jin he huan mu gao shi pai	3329
+悬挂式深色橡木告示牌	xuan gua shi shen se xiang mu gao shi pai	2387
+悬挂式橡木告示牌	xuan gua shi xiang mu gao shi pai	2070
+悬挂式樱花木告示牌	xuan gua shi ying hua mu gao shi pai	2495
+悬挂式云杉木告示牌	xuan gua shi yun sha mu gao shi pai	1778
+悬挂式竹告示牌	xuan gua shi zhu gao shi pai	3295
+玄武岩	xuan wu yan	2608
+玄武岩三角洲	xuan wu yan san jiao zhou	3395
+选项	xuan xiang	686
+眩晕	xuan yun	286
+选择效果	xuan ze xiao guo	533
+旋转	xuan zhuan	518
+雪块	xue kuai	1794
+雪傀儡	xue kui lei	1404
+雪傀儡刷怪蛋	xue kui lei shua guai dan	823
+雪林	xue lin	3372
+雪球	xue qiu	1403
+雪球机	xue qiu ji	69
+学徒	xue tu	669
+鳕鱼	xue yu	1488
+鳕鱼刷怪蛋	xue yu shua guai dan	1186
+鳕鱼桶	xue yu tong	1187
+雪原	xue yuan	3351
+驯服所有种类的狼	xun fu suo you zhong lei de lang	3505
+驯服所有种类的猫	xun fu suo you zhong lei de mao	3536
+驯服一只动物	xun fu yi zhi dong wu	3510
+循环型命令方块	xun huan xing ming ling fang kuai	1842
+迅捷	xun jie	1560
+迅捷潜行	xun jie qian xing	1517
+迅捷药水	xun jie yao shui	911
+迅捷之箭	xun jie zhi jian	761
+寻觅	xun mi	1248
+压地	ya di	215
+延迟	yan chi	656
+烟花	yan hua	363
+烟花火箭	yan hua huo jian	1465
+烟火之星	yan huo zhi xing	1125
+岩浆膏	yan jiang gao	980
+岩浆怪	yan jiang guai	1438
+岩浆怪刷怪蛋	yan jiang guai shua guai dan	979
+岩浆块	yan jiang kuai	2128
+眼眸盔甲纹饰	yan mou kui jia wen shi	1132
+眼前一亮	yan qian yi liang	3527
+烟熏	yan xun	464
+烟熏炉	yan xun lu	1808
+羊帆起航	yang fan qi hang	3517
+阳光探测器	yang guang tan ce qi	2372
+氧化的雕纹铜块	yang hua de diao wen tong kuai	2038
+氧化的切制铜块	yang hua de qie zhi tong kuai	2032
+氧化的切制铜楼梯	yang hua de qie zhi tong lou ti	2030
+氧化的切制铜台阶	yang hua de qie zhi tong tai jie	2031
+氧化的铜灯	yang hua de tong deng	2036
+氧化的铜格栅	yang hua de tong ge shan	2034
+氧化的铜活板门	yang hua de tong huo ban men	2033
+氧化的铜块	yang hua de tong kuai	2037
+氧化的铜门	yang hua de tong men	2035
+羊毛机	yang mao ji	158
+仰慕	yang mu	1253
+羊驼	yang tuo	1440
+羊驼电梯	yang tuo dian ti	113
+羊驼刷怪蛋	yang tuo shua guai dan	985
+羊驼唾沫	yang tuo tuo mo	1439
+摇动	yao dong	258
+咬合	yao he	364
+药箭	yao jian	760
+药水	yao shui	1418
+冶炼出一块铁锭	ye lian chu yi kuai tie ding	3439
+夜视	ye shi	1569
+夜视药水	ye shi yao shui	918
+夜视之箭	ye shi zhi jian	768
+已保存的快捷栏	yi bao cun de kuai jie lan	703
+移动	yi dong	478
+移动的活塞	yi dong de huo sai	2097
+移动凋灵笼	yi dong diao ling long	56
+移动效率	yi dong xiao lv	3411
+移动折跃门	yi dong zhe yue men	77
+一盒	yi he	162
+抑或是起点	yi huo shi qi dian	3548
+一箭双雕	yi jian shuang diao	3571
+已满	yi man	229
+已攀爬距离	yi pan pa ju li	618
+已屏蔽	yi ping bi	1258
+已取消	yi qu xiao	664
+逸散	yi san	206
+已设置重生点	yi she zhi chong sheng dian	1818
+已完成	yi wan cheng	661
+一箱	yi xiang	161
+一组	yi zu	163
+隐藏	yin cang	1257
+音符盒	yin fu he	2075
+音符盒播放次数	yin fu he bo fang ci shu	574
+音符盒调音次数	yin fu he tiao yin ci shu	555
+引雷	yin lei	1546
+阴森的要塞	yin sen de yao sai	3485
+隐身	yin shen	1575
+隐身药水	yin shen yao shui	923
+隐身之箭	yin shen zhi jian	772
+饮用药水	yin yong yao shui	272
+音乐	yin yue	634
+音乐唱片	yin yue chang pian	1153
+音乐之声	yin yue zhi sheng	3595
+荧光墨囊	ying guang mo nang	1080
+荧光物品展示框	ying guang wu pin zhan shi kuang	1458
+樱花木	ying hua mu	2484
+樱花木按钮	ying hua mu an niu	2499
+樱花木板	ying hua mu ban	2492
+樱花木船	ying hua mu chuan	1492
+樱花木告示牌	ying hua mu gao shi pai	2489
+樱花木活板门	ying hua mu huo ban men	2486
+樱花木楼梯	ying hua mu lou ti	2487
+樱花木门	ying hua mu men	2498
+樱花木台阶	ying hua mu tai jie	2488
+樱花木压力板	ying hua mu ya li ban	2491
+樱花木运输船	ying hua mu yun shu chuan	1491
+樱花木栅栏	ying hua mu zha lan	2497
+樱花木栅栏门	ying hua mu zha lan men	2496
+樱花树林	ying hua shu lin	3392
+樱花树苗	ying hua shu miao	2490
+樱花树苗盆栽	ying hua shu miao pen zai	1941
+樱花树叶	ying hua shu ye	2494
+樱花原木	ying hua yuan mu	2493
+营火	ying huo	2511
+荧石	ying shi	2278
+荧石粉	ying shi fen	1078
+鹦鹉	ying wu	1425
+鹦鹉螺壳	ying wu luo ke	967
+鹦鹉刷怪蛋	ying wu shua guai dan	946
+鹦嘴鱼	ying zui yu	1385
+用玻璃瓶收集一些龙息	yong bo li ping shou ji yi xie long xi	3562
+涌动	yong dong	506
+用盾牌反弹一个弹射物	yong dun pai fan tan yi ge tan she wu	3463
+用附魔台附魔一样物品	yong fu mo tai fu mo yi yang wu pin	3461
+用弓箭射点什么	yong gong jian she dian shen me	3589
+永恒的伙伴	yong heng de huo ban	3509
+用金质物品让猪灵分神	yong jin zhi wu pin rang zhu ling fen shen	3492
+用你的新镐挖掘石头	yong ni de xin gao wa jue shi tou	3446
+用弩进行一次射击	yong nu jin xing yi ci she ji	3598
+用试炼钥匙解锁宝库	yong shi lian yao shi jie suo bao ku	3570
+用铁盔甲来保护你自己	yong tie kui jia lai bao hu ni zi ji	3444
+用铁桶捕获一只蝌蚪	yong tie tong bu huo yi zhi ke dou	3512
+用铁桶捕获一只美西螈	yong tie tong bu huo yi zhi mei xi yuan	3543
+用铁桶装点熔岩	yong tie tong zhuang dian rong yan	3450
+勇往直下	yong wang zhi xia	3457
+右白竖条	you bai shu tiao	2724
+右白斜条	you bai xie tiao	2740
+右橙竖条	you cheng shu tiao	2728
+右橙斜条	you cheng xie tiao	2744
+右淡灰竖条	you dan hui shu tiao	2731
+右淡灰斜条	you dan hui xie tiao	2747
+右淡蓝竖条	you dan lan shu tiao	2732
+右淡蓝斜条	you dan lan xie tiao	2748
+游荡刷怪塔	you dang shua guai ta	54
+右底白方	you di bai fang	2868
+右底橙方	you di cheng fang	2872
+右底淡灰方	you di dan hui fang	2875
+右底淡蓝方	you di dan lan fang	2876
+右底粉红方	you di fen hong fang	2871
+右底黑方	you di hei fang	2882
+右底红方	you di hong fang	2869
+右底黄方	you di huang fang	2867
+右底黄绿方	you di huang lv fang	2874
+右底灰方	you di hui fang	2878
+右底蓝方	you di lan fang	2881
+右底绿方	you di lv fang	2877
+右底品红方	you di pin hong fang	2873
+右底青方	you di qing fang	2879
+右底紫方	you di zi fang	2870
+右底棕方	you di zong fang	2880
+右顶白方	you ding bai fang	2836
+右顶橙方	you ding cheng fang	2840
+右顶淡灰方	you ding dan hui fang	2843
+右顶淡蓝方	you ding dan lan fang	2844
+右顶粉红方	you ding fen hong fang	2839
+右顶黑方	you ding hei fang	2850
+右顶红方	you ding hong fang	2837
+右顶黄方	you ding huang fang	2835
+右顶黄绿方	you ding huang lv fang	2842
+右顶灰方	you ding hui fang	2846
+右顶蓝方	you ding lan fang	2849
+右顶绿方	you ding lv fang	2845
+右顶品红方	you ding pin hong fang	2841
+右顶青方	you ding qing fang	2847
+右顶紫方	you ding zi fang	2838
+右顶棕方	you ding zong fang	2848
+右粉红竖条	you fen hong shu tiao	2727
+右粉红斜条	you fen hong xie tiao	2743
+友好生物	you hao sheng wu	633
+右黑竖条	you hei shu tiao	2738
+右黑斜条	you hei xie tiao	2754
+右红竖条	you hong shu tiao	2725
+右红斜条	you hong xie tiao	2741
+右黄绿竖条	you huang lv shu tiao	2730
+右黄绿斜条	you huang lv xie tiao	2746
+右黄竖条	you huang shu tiao	2723
+右黄斜条	you huang xie tiao	2739
+右灰竖条	you hui shu tiao	2734
+右灰斜条	you hui xie tiao	2750
+幽静盔甲纹饰	you jing kui jia wen shi	843
+右蓝竖条	you lan shu tiao	2737
+右蓝斜条	you lan xie tiao	2753
+右绿竖条	you lv shu tiao	2733
+右绿斜条	you lv xie tiao	2749
+幽匿催发体	you ni cui fa ti	1825
+幽匿感测体	you ni gan ce ti	1824
+幽匿尖啸体	you ni jian xiao ti	1823
+幽匿块	you ni kuai	1826
+幽匿脉络	you ni mai luo	1822
+右品红竖条	you pin hong shu tiao	2729
+右品红斜条	you pin hong xie tiao	2745
+右青竖条	you qing shu tiao	2735
+右青斜条	you qing xie tiao	2751
+游戏菜单	you xi cai dan	688
+游戏的核心与故事	you xi de he xin yu gu shi	3442
+游戏冻结中	you xi dong jie zhong	1593
+游戏规则	you xi gui ze	639
+游戏加速运行中	you xi jia su yun xing zhong	1592
+游戏模式	you xi mo shi	3431
+游戏内时间流逝	you xi nei shi jian liu shi	1309
+游戏时长	you xi shi chang	572
+游戏退出次数	you xi tui chu ci shu	582
+游戏暂停	you xi zan ting	685
+友谊的治愈力	you yi de zhi yu li	3529
+游泳	you yong	424
+游泳距离	you yong ju li	563
+鱿鱼	you yu	1397
+鱿鱼刷怪蛋	you yu shua guai dan	791
+疣猪兽	you zhu shou	1454
+疣猪兽刷怪蛋	you zhu shou shua guai dan	1049
+右紫竖条	you zi shu tiao	2726
+右紫斜条	you zi xie tiao	2742
+右棕竖条	you zong shu tiao	2736
+右棕斜条	you zong xie tiao	2752
+与锻造台交互次数	yu duan zao tai jiao hu ci shu	586
+与蜂共舞	yu feng gong wu	3515
+渔夫	yu fu	1347
+与高炉交互次数	yu gao lu jiao hu ci shu	595
+与工作台交互次数	yu gong zuo tai jiao hu ci shu	591
+与火共舞	yu huo gong wu	3477
+与讲台交互次数	yu jiang tai jiao hu ci shu	588
+羽毛	yu mao	1131
+虞美人	yu mei ren	1952
+虞美人盆栽	yu mei ren pen zai	1922
+与酿造台交互次数	yu niang zao tai jiao hu ci shu	594
+与切石机交互次数	yu qie shi ji jiao hu ci shu	584
+与熔炉交互次数	yu rong lu jiao hu ci shu	590
+与砂轮交互次数	yu sha lun jiao hu ci shu	589
+与山羊同船共渡	yu shan yang tong chuan gong du	3518
+与铁砧交互次数	yu tie zhen jiao hu ci shu	597
+与信标交互次数	yu xin biao jiao hu ci shu	596
+语言	yu yan	650
+与烟熏炉交互次数	yu yan xun lu jiao hu ci shu	585
+与营火交互次数	yu ying huo jiao hu ci shu	593
+愉悦	yu yue	439
+与织布机交互次数	yu zhi bu ji jiao hu ci shu	587
+与制图台交互次数	yu zhi tu tai jiao hu ci shu	592
+原材料	yuan cai liao	830
+远程折跃	yuan cheng zhe yue	3555
+远古残骸	yuan gu can hai	3312
+远古守卫者	yuan gu shou wei zhe	1478
+远古守卫者刷怪蛋	yuan gu shou wei zhe shua guai dan	1144
+圆石	yuan shi	2458
+原始桦木森林	yuan shi hua mu sen lin	3361
+圆石楼梯	yuan shi lou ti	2456
+圆石墙	yuan shi qiang	2455
+原始松木针叶林	yuan shi song mu zhen ye lin	3360
+圆石台阶	yuan shi tai jie	2457
+原始云杉针叶林	yuan shi yun shan zhen ye lin	3359
+悦灵	yue ling	1510
+悦灵分类	yue ling fen lei	132
+悦灵史莱姆农场	yue ling shi lai mu nong chang	37
+悦灵刷怪蛋	yue ling shua guai dan	1245
+跃起	yue qi	389
+云杉木	yun sha mu	1767
+云杉木按钮	yun sha mu an niu	1782
+云杉木告示牌	yun sha mu gao shi pai	1772
+云杉木活板门	yun sha mu huo ban men	1769
+云杉木楼梯	yun sha mu lou ti	1770
+云杉木台阶	yun sha mu tai jie	1771
+云杉木压力板	yun sha mu ya li ban	1774
+云杉木运输船	yun sha mu yun shu chuan	1398
+云杉木板	yun shan mu ban	1775
+云杉木船	yun shan mu chuan	1399
+云杉木门	yun shan mu men	1781
+云杉木栅栏	yun shan mu zha lan	1780
+云杉木栅栏门	yun shan mu zha lan men	1779
+云杉树苗	yun shan shu miao	1773
+云杉树苗盆栽	yun shan shu miao pen zai	1919
+云杉树叶	yun shan shu ye	1777
+云杉原木	yun shan yuan mu	1776
+运输船	yun shu chuan	1490
+运输矿车	yun shu kuang che	1489
+运输竹筏	yun shu zhu fa	1505
+允许流动水转化为水源	yun xu liu dong shui zhuan hua wei shui yuan	1269
+允许旁观者生成地形	yun xu pang guan zhe sheng cheng di xing	1271
+允许破坏性生物行为	yun xu po huai xing sheng wu xing wei	1283
+杂项	za xiang	1318
+再生药水	zai sheng yao shui	915
+再生之箭	zai sheng zhi jian	765
+在水中哐啷作响	zai shui zhong kuang lang zuo xiang	324
+在线	zai xian	658
+在游戏尽头的城市	zai you xi jin tou de cheng shi	3554
+造成伤害	zao cheng shang hai	614
+造成伤害被抵挡	zao cheng shang hai bei di dang	612
+造成伤害被吸收	zao cheng shang hai bei xi shou	613
+噪声渐响	zao sheng jian xiang	473
+噪声消散	zao sheng xiao san	474
+炸怪塔	zha guai ta	50
+战斗用品	zhan dou yong pin	708
+沾泥的红树根	zhan ni de hong shu gen	2091
+站起	zhan qi	402
+战术性钓鱼	zhan shu xing diao yu	3513
+战猪	zhan zhu	3481
+张开	zhang kai	490
+张开的眼眸花	zhang kai de yan mou hua	2054
+张开的眼眸花盆栽	zhang kai de yan mou hua pen zai	1927
+找到鞘翅	zhao dao qiao chi	3558
+找到一个好朋友	zhao dao yi ge hao peng you	3544
+着地	zhao di	429
+沼骸	zhao hai	1497
+沼骸刷怪蛋	zhao hai shua guai dan	1221
+召唤凋灵	zhao huan diao ling	3469
+着火时间	zhao huo shi jian	3423
+招募援兵	zhao mu yuan bing	3579
+沼泽	zhao ze	3343
+这不是鳞甲么	zhe bu shi lin jia me	3615
+这不是铁镐么	zhe bu shi tie gao me	3451
+遮光玻璃	zhe guang bo li	1721
+赭黄蛙明灯	zhe huang wa ming deng	2056
+这上面的风景不错	zhe shang mian de feng jing bu cuo	3551
+折下	zhe xia	525
+这张床已被占用	zhe zhang chuang yi bei zhan yong	2603
+这张床已被阻挡	zhe zhang chuang yi bei zu dang	2604
+珍宝纹样陶片	zhen bao wen yang tao pian	903
+珍藏密敛	zhen cang mi lian	3569
+侦测器	zhen ce qi	2058
+振翅	zhen chi	306
+振动	zhen dong	210
+针叶林	zhen ye lin	3342
+珍珠炮	zhen zhu pao	159
+正在获取统计信息	zheng zai huo qu tong ji xin xi	665
+正在退出	zheng zai tui chu	654
+正中靶心	zheng zhong ba xin	3614
+整装上阵	zheng zhuang shang zhen	3443
+织布机	zhi bu ji	2142
+掷出的附魔之瓶	zhi chu de fu mo zhi ping	1470
+掷出的鸡蛋	zhi chu de ji dan	1479
+掷出的末影珍珠	zhi chu de mo ying zhen zhu	1475
+制箭师	zhi jian shi	1346
+制箭台	zhi jian tai	2289
+治疗药水	zhi liao yao shui	925
+治疗之箭	zhi liao zhi jian	774
+滞留型迟缓药水	zhi liu xing chi huan yao shui	995
+滞留型虫蚀药水	zhi liu xing chong shi yao shui	1006
+滞留型粗制的药水	zhi liu xing cu zhi de yao shui	1011
+滞留型缓降药水	zhi liu xing huan jiang yao shui	996
+滞留型剧毒药水	zhi liu xing ju du yao shui	998
+滞留型抗火药水	zhi liu xing kang huo yao shui	1009
+滞留型力量药水	zhi liu xing li liang yao shui	994
+滞留型浓稠的药水	zhi liu xing nong chou de yao shui	992
+滞留型盘丝药水	zhi liu xing pan si yao shui	987
+滞留型飘浮药水	zhi liu xing piao fu yao shui	1003
+滞留型平凡的药水	zhi liu xing ping fan de yao shui	1001
+滞留型伤害药水	zhi liu xing shang hai yao shui	1008
+滞留型神龟药水	zhi liu xing shen gui yao shui	991
+滞留型渗浆药水	zhi liu xing shen jiang yao shui	999
+滞留型水肺药水	zhi liu xing shui fei yao shui	989
+滞留型水瓶	zhi liu xing shui ping	990
+滞留型跳跃药水	zhi liu xing tiao yue yao shui	1004
+滞留型幸运药水	zhi liu xing xing yun yao shui	1002
+滞留型蓄风药水	zhi liu xing xu feng yao shui	986
+滞留型虚弱药水	zhi liu xing xu ruo yao shui	988
+滞留型迅捷药水	zhi liu xing xun jie yao shui	993
+滞留型夜视药水	zhi liu xing ye shi yao shui	1000
+滞留型隐身药水	zhi liu xing yin shen yao shui	1005
+滞留型再生药水	zhi liu xing zai sheng yao shui	997
+滞留型治疗药水	zhi liu xing zhi liao yao shui	1007
+滞留药水	zhi liu yao shui	1012
+致密	zhi mi	1545
+指南针	zhi nan zhen	1185
+知识就是力量	zhi shi jiu shi li liang	3594
+知识之书	zhi shi zhi shu	1028
+制图师	zhi tu shi	1350
+制图台	zhi tu tai	2507
+职业	zhi ye	10
+挚友纹样陶片	zhi you wen yang tao pian	1089
+吱吱叫	zhi zhi jiao	358
+蜘蛛	zhi zhu	1400
+蜘蛛农场	zhi zhu nong chang	34
+蜘蛛刷怪蛋	zhi zhu shua guai dan	821
+蜘蛛网	zhi zhu wang	2454
+蜘蛛眼	zhi zhu yan	822
+制作一把更好的镐	zhi zuo yi ba geng hao de gao	3437
+中白横条	zhong bai heng tiao	2708
+中白竖条	zhong bai shu tiao	2772
+忠诚	zhong cheng	1533
+中橙横条	zhong cheng heng tiao	2712
+中橙竖条	zhong cheng shu tiao	2776
+重锤	zhong chui	983
+中淡灰横条	zhong dan hui heng tiao	2715
+中淡灰竖条	zhong dan hui shu tiao	2779
+中淡蓝横条	zhong dan lan heng tiao	2716
+中淡蓝竖条	zhong dan lan shu tiao	2780
+中毒	zhong du	1567
+中粉红横条	zhong fen hong heng tiao	2711
+中粉红竖条	zhong fen hong shu tiao	2775
+中国大陆	zhong guo da lu	692
+中黑横条	zhong hei heng tiao	2722
+中黑竖条	zhong hei shu tiao	2786
+中红横条	zhong hong heng tiao	2709
+中红竖条	zhong hong shu tiao	2773
+中黄横条	zhong huang heng tiao	2707
+中黄绿横条	zhong huang lv heng tiao	2714
+中黄绿竖条	zhong huang lv shu tiao	2778
+中黄竖条	zhong huang shu tiao	2771
+中灰横条	zhong hui heng tiao	2718
+中灰竖条	zhong hui shu tiao	2782
+重击	zhong ji	298
+终极奉献	zhong ji feng xian	3526
+终界	zhong jie	175
+中蓝横条	zhong lan heng tiao	2721
+中蓝竖条	zhong lan shu tiao	2785
+重力	zhong li	3417
+中绿横条	zhong lv heng tiao	2717
+中绿竖条	zhong lv shu tiao	2781
+中品红横条	zhong pin hong heng tiao	2713
+中品红竖条	zhong pin hong shu tiao	2777
+中青横条	zhong qing heng tiao	2719
+中青竖条	zhong qing shu tiao	2783
+中型紫晶芽	zhong xing zi jing ya	2110
+种植	zhong zhi	227
+重质测重压力板	zhong zhi ce zhong ya li ban	2239
+种植任意嗅探兽种子	zhong zhi ren yi xiu tan shou zhong zi	3523
+中紫横条	zhong zi heng tiao	2710
+中紫竖条	zhong zi shu tiao	2774
+中棕横条	zhong zong heng tiao	2720
+中棕竖条	zhong zong shu tiao	2784
+骤降	zhou jiang	517
+竹按钮	zhu an niu	3299
+竹板	zhu ban	3291
+猪鼻	zhu bi	942
+猪鼻盔甲纹饰	zhu bi kui jia wen shi	824
+猪鼻旗帜图案	zhu bi qi zhi tu an	941
+铸锭或晶体	zhu ding huo jing ti	831
+竹筏	zhu fa	1504
+竹告示牌	zhu gao shi pai	3288
+珠光蛙明灯	zhu guang wa ming deng	2008
+竹活板门	zhu huo ban men	3285
+祝君好运	zhu jun hao yun	3553
+竹块	zhu kuai	3300
+竹林	zhu lin	3396
+猪灵	zhu ling	1423
+猪灵的头	zhu ling de tou	2005
+猪灵蛮兵	zhu ling man bing	1422
+猪灵蛮兵刷怪蛋	zhu ling man bing shua guai dan	940
+猪灵刷怪蛋	zhu ling shua guai dan	939
+竹楼梯	zhu lou ti	3286
+竹马赛克	zhu ma sai ke	3294
+竹马赛克楼梯	zhu ma sai ke lou ti	3292
+竹马赛克台阶	zhu ma sai ke tai jie	3293
+竹门	zhu men	3298
+猪人塔	zhu ren ta	40
+猪刷怪蛋	zhu shua guai dan	943
+竹笋	zhu sun	3289
+竹台阶	zhu tai jie	3287
+主效果	zhu xiao guo	2606
+竹压力板	zhu ya li ban	3290
+主音量	zhu yin liang	635
+竹栅栏	zhu zha lan	3297
+竹栅栏门	zhu zha lan men	3296
+竹子	zhu zi	3301
+竹子盆栽	zhu zi pen zai	1946
+驻足	zhu zu	393
+转动	zhuan dong	347
+转化	zhuan hua	322
+转化为僵尸	zhuan hua wei jiang shi	338
+转化为僵尸猪灵	zhuan hua wei jiang shi zhu ling	301
+转化为流浪者	zhuan hua wei liu lang zhe	285
+转化为溺尸	zhuan hua wei ni shi	256
+专家	zhuan jia	667
+砖纹旗帜图案	zhuan wen qi zhi tu an	1129
+装备	zhuang bei	404
+装备箱子	zhuang bei xiang zi	385
+装满	zhuang man	238
+装入	zhuang ru	499
+装入袋中	zhuang ru dai zhong	230
+状态	zhuang tai	694
+状态请求已处理	zhuang tai qing qiu yi chu li	653
+装填	zhuang tian	226
+装有熔岩的炼药锅	zhuang you rong yan de lian yao guo	2191
+装有水的炼药锅	zhuang you shui de lian yao guo	1675
+装有细雪的炼药锅	zhuang you xi xue de lian yao guo	1912
+追溯指针	zhui su zhi zhen	881
+准备	zhun bei	459
+准备分影法术	zhun bei fen ying fa shu	335
+准备攻击	zhun bei gong ji	367
+准备失明法术	zhun bei shi ming fa shu	336
+准备施咒	zhun bei shi zhou	365
+准备召唤	zhun bei zhao huan	366
+着陆	zhuo lu	540
+紫底	zi di	3270
+自定义	zi ding yi	1268
+自定义模组	zi ding yi mo zu	166
+紫珀块	zi po kuai	1888
+紫珀楼梯	zi po lou ti	1885
+紫珀台阶	zi po tai jie	1886
+紫珀柱	zi po zhu	1887
+自然方块	zi ran fang kuai	701
+紫色	zi se	1110
+紫色波纹边	zi se bo wen bian	3174
+紫色床	zi se chuang	1900
+紫色带釉陶瓦	zi se dai you tao wa	1894
+紫色底波纹	zi se di bo wen	2630
+紫色地球	zi se di qiu	3062
+紫色地毯	zi se di tan	1897
+紫色顶波纹	zi se ding bo wen	2614
+紫色盾牌	zi se dun pai	850
+紫色方框边	zi se fang kuang bian	3254
+紫色花朵盾徽	zi se hua duo dun hui	3078
+紫色混凝土	zi se hun ning tu	1896
+紫色混凝土粉末	zi se hun ning tu fen mo	1895
+紫色苦力怕盾徽	zi se ku li pa dun hui	3206
+紫色蜡烛	zi se la zhu	1899
+紫色菱形	zi se ling xing	2918
+紫色旗帜	zi se qi zhi	1901
+紫色潜影盒	zi se qian ying he	1893
+紫色染料	zi se ran liao	893
+紫色染色玻璃	zi se ran se bo li	1892
+紫色染色玻璃板	zi se ran se bo li ban	1891
+紫色上半方形	zi se shang ban fang xing	2998
+紫色收纳袋	zi se shou na dai	894
+紫色陶瓦	zi se tao wa	1890
+紫色头颅盾徽	zi se tou lu dun hui	2902
+紫色涡流	zi se wo liu	3094
+紫色下半方形	zi se xia ban fang xing	2982
+紫色旋风	zi se xuan feng	3014
+紫色羊毛	zi se yang mao	1889
+紫色右半方形	zi se you ban fang xing	2966
+紫色右上三角	zi se you shang san jiao	3158
+紫色右下三角	zi se you xia san jiao	3126
+紫色圆形	zi se yuan xing	3222
+紫色猪鼻	zi se zhu bi	2934
+紫色砖纹	zi se zhuan wen	3238
+紫色自上渐淡	zi se zi shang jian dan	3046
+紫色自下渐淡	zi se zi xia jian dan	3030
+紫色左半方形	zi se zuo ban fang xing	2950
+紫色左上三角	zi se zuo shang san jiao	3142
+紫色左下三角	zi se zuo xia san jiao	3110
+自上次入眠	zi shang ci ru mian	559
+自上次死亡	zi shang ci si wang	560
+资深怪物猎人	zi shen guai wu lie ren	3603
+自适应打包机	zi shi ying da bao ji	139
+自适应分类	zi shi ying fen lei	141
+紫竖条纹	zi shu tiao wen	2886
+紫水晶簇	zi shui jing cu	3313
+紫水晶块	zi shui jing kuai	3314
+紫水晶母岩	zi shui jing mu yan	2516
+紫水晶碎片	zi shui jing sui pian	1244
+紫水晶质	zi shui jing zhi	202
+紫颂果	zi song guo	1194
+紫颂花	zi song hua	2469
+紫颂花农场	zi song hua nong chang	24
+紫颂植株	zi song zhi zhu	2468
+自卫	zi wei	434
+自我放逐	zi wo fang zhu	3566
+紫斜十字	zi xie shi zi	3190
+资源包	zi yuan bao	184
+紫正十字	zi zheng shi zi	2806
+棕底	zong di	3280
+踪迹	zong ji	1102
+棕色	zong se	1122
+棕色波纹边	zong se bo wen bian	3184
+棕色床	zong se chuang	2535
+棕色带釉陶瓦	zong se dai you tao wa	2529
+棕色底波纹	zong se di bo wen	2640
+棕色地球	zong se di qiu	3072
+棕色地毯	zong se di tan	2532
+棕色顶波纹	zong se ding bo wen	2624
+棕色盾牌	zong se dun pai	860
+棕色方框边	zong se fang kuang bian	3264
+棕色花朵盾徽	zong se hua duo dun hui	3088
+棕色混凝土	zong se hun ning tu	2531
+棕色混凝土粉末	zong se hun ning tu fen mo	2530
+棕色苦力怕盾徽	zong se ku li pa dun hui	3216
+棕色蜡烛	zong se la zhu	2534
+棕色菱形	zong se ling xing	2928
+棕色蘑菇	zong se mo gu	2528
+棕色蘑菇方块	zong se mo gu fang kuai	2527
+棕色蘑菇盆栽	zong se mo gu pen zai	1943
+棕色旗帜	zong se qi zhi	2536
+棕色潜影盒	zong se qian ying he	2526
+棕色染料	zong se ran liao	1210
+棕色染色玻璃	zong se ran se bo li	2525
+棕色染色玻璃板	zong se ran se bo li ban	2524
+棕色上半方形	zong se shang ban fang xing	3008
+棕色收纳袋	zong se shou na dai	1211
+棕色陶瓦	zong se tao wa	2523
+棕色头颅盾徽	zong se tou lu dun hui	2912
+棕色涡流	zong se wo liu	3104
+棕色下半方形	zong se xia ban fang xing	2992
+棕色旋风	zong se xuan feng	3024
+棕色羊毛	zong se yang mao	2522
+棕色右半方形	zong se you ban fang xing	2976
+棕色右上三角	zong se you shang san jiao	3168
+棕色右下三角	zong se you xia san jiao	3136
+棕色圆形	zong se yuan xing	3232
+棕色猪鼻	zong se zhu bi	2944
+棕色砖纹	zong se zhuan wen	3248
+棕色自上渐淡	zong se zi shang jian dan	3056
+棕色自下渐淡	zong se zi xia jian dan	3040
+棕色左半方形	zong se zuo ban fang xing	2960
+棕色左上三角	zong se zuo shang san jiao	3152
+棕色左下三角	zong se zuo xia san jiao	3120
+棕竖条纹	zong shu tiao wen	2896
+棕斜十字	zong xie shi zi	3200
+棕正十字	zong zheng shi zi	2816
+诅咒	zu zhou	379
+钻石	zuan shi	3447
+钻石锄	zuan shi chu	1160
+钻石斧	zuan shi fu	1164
+钻石镐	zuan shi gao	1157
+钻石护体	zuan shi hu ti	3440
+钻石护腿	zuan shi hu tui	1158
+钻石剑	zuan shi jian	1155
+钻石块	zuan shi kuai	2331
+钻石矿石	zuan shi kuang shi	2330
+钻石盔甲能救人	zuan shi kui jia neng jiu ren	3441
+钻石马铠	zuan shi ma kai	1159
+钻石锹	zuan shi qiao	1156
+钻石头盔	zuan shi tou kui	1161
+钻石胸甲	zuan shi xiong jia	1162
+钻石靴子	zuan shi xue zi	1163
+钻石质	zuan shi zhi	200
+钻石装备	zuan shi zhuang bei	828
+最大伤害吸收值	zui da shang hai xi shou zhi	3413
+最大生命值	zui da sheng ming zhi	3412
+最大行走高度	zui da xing zou gao du	3406
+最萌捕食者	zui meng bu shi zhe	3542
+左白竖条	zuo bai shu tiao	2692
+左白斜条	zuo bai xie tiao	2756
+坐标	zuo biao	2
+左橙竖条	zuo cheng shu tiao	2696
+左橙斜条	zuo cheng xie tiao	2760
+坐船移动距离	zuo chuan yi dong ju li	622
+左淡灰竖条	zuo dan hui shu tiao	2699
+左淡灰斜条	zuo dan hui xie tiao	2763
+左淡蓝竖条	zuo dan lan shu tiao	2700
+左淡蓝斜条	zuo dan lan xie tiao	2764
+左底白方	zuo di bai fang	2852
+左底橙方	zuo di cheng fang	2856
+左底淡灰方	zuo di dan hui fang	2859
+左底淡蓝方	zuo di dan lan fang	2860
+左底粉红方	zuo di fen hong fang	2855
+左底黑方	zuo di hei fang	2866
+左底红方	zuo di hong fang	2853
+左底黄方	zuo di huang fang	2851
+左底黄绿方	zuo di huang lv fang	2858
+左底灰方	zuo di hui fang	2862
+左底蓝方	zuo di lan fang	2865
+左底绿方	zuo di lv fang	2861
+左底品红方	zuo di pin hong fang	2857
+左底青方	zuo di qing fang	2863
+左底紫方	zuo di zi fang	2854
+左底棕方	zuo di zong fang	2864
+左顶白方	zuo ding bai fang	2820
+左顶橙方	zuo ding cheng fang	2824
+左顶淡灰方	zuo ding dan hui fang	2827
+左顶淡蓝方	zuo ding dan lan fang	2828
+左顶粉红方	zuo ding fen hong fang	2823
+左顶黑方	zuo ding hei fang	2834
+左顶红方	zuo ding hong fang	2821
+左顶黄方	zuo ding huang fang	2819
+左顶黄绿方	zuo ding huang lv fang	2826
+左顶灰方	zuo ding hui fang	2830
+左顶蓝方	zuo ding lan fang	2833
+左顶绿方	zuo ding lv fang	2829
+左顶品红方	zuo ding pin hong fang	2825
+左顶青方	zuo ding qing fang	2831
+左顶紫方	zuo ding zi fang	2822
+左顶棕方	zuo ding zong fang	2832
+左粉红竖条	zuo fen hong shu tiao	2695
+左粉红斜条	zuo fen hong xie tiao	2759
+左黑竖条	zuo hei shu tiao	2706
+左黑斜条	zuo hei xie tiao	2770
+左红竖条	zuo hong shu tiao	2693
+左红斜条	zuo hong xie tiao	2757
+左黄绿竖条	zuo huang lv shu tiao	2698
+左黄绿斜条	zuo huang lv xie tiao	2762
+左黄竖条	zuo huang shu tiao	2691
+左黄斜条	zuo huang xie tiao	2755
+左灰竖条	zuo hui shu tiao	2702
+左灰斜条	zuo hui xie tiao	2766
+坐矿车移动距离	zuo kuang che yi dong ju li	581
+左蓝竖条	zuo lan shu tiao	2705
+左蓝斜条	zuo lan xie tiao	2769
+左绿竖条	zuo lv shu tiao	2701
+左绿斜条	zuo lv xie tiao	2765
+左品红竖条	zuo pin hong shu tiao	2697
+左品红斜条	zuo pin hong xie tiao	2761
+左青竖条	zuo qing shu tiao	2703
+左青斜条	zuo qing xie tiao	2767
+坐下	zuo xia	403
+左紫竖条	zuo zi shu tiao	2694
+左紫斜条	zuo zi xie tiao	2758
+左棕竖条	zuo zong shu tiao	2704
+左棕斜条	zuo zong xie tiao	2768

@@ -1,0 +1,538 @@
+# 文件名：赤壁-9029.scel
+# 词库名：赤壁
+# 词库分类：网游
+# 词库描述：
+# 词条样例：孙权 副本 符玉 军团 国战
+# 词条数量：531
+
+艾儿	ai er	132
+昂扬	ang yang	231
+八方玄冰	ba fang xuan bing	163
+霸气	ba qi	255
+巴蜀	ba shu	507
+百裂连棍	bai lie lian gun	239
+白凌	bai ling	103
+白铁刀	bai tie dao	501
+白铁斧	bai tie fu	473
+白铁钺	bai tie yue	489
+白原	bai yuan	112
+般兵器	ban bing qi	519
+半月斩	ban yue zhan	256
+暴雨梨花	bao yu li hua	181
+镔铁锤	bin tie chui	461
+镔铁护腿	bin tie hu tui	425
+镔铁戟	bin tie ji	493
+镔铁甲	bin tie jia	433
+镔铁锏	bin tie jian	465
+镔铁肩甲	bin tie jian jia	417
+镔铁枪	bin tie qiang	497
+镔铁镗	bin tie tang	485
+冰刺	bing ci	175
+冰甲术	bing jia shu	169
+兵器商	bing qi shang	31
+兵器师	bing qi shi	49
+冰雨术	bing yu shu	164
+兵种	bing zhong	511
+布护腕	bu hu wan	396
+采集师	cai ji shi	57
+仓库老板	cang ku lao ban	40
+曹操	cao cao	529
+草莽英雄	cao mang ying xiong	58
+草鞋	cao xie	413
+长虹贯日	chang hong guan ri	190
+长木刀	chang mu dao	503
+常山居民	chang shan ju min	22
+陈琳	chen lin	121
+陈牧	chen mu	141
+沉木锤	chen mu chui	463
+沉思漫步的大象	chen si man bu de da xiang	4
+陈文君	chen wen jun	161
+陈嫣然	chen yan ran	133
+乘风刺	cheng feng ci	219
+赤壁	chi bi	531
+赤铁钩	chi tie gou	469
+赤铁护腿	chi tie hu tui	421
+赤铁甲	chi tie jia	429
+赤铁肩甲	chi tie jian jia	414
+赤铁履	chi tie lv	406
+赤铁镯	chi tie zhuo	390
+绸缎披肩	chou duan pi jian	415
+绸缎裙	chou duan qun	422
+绸缎裳	chou duan shang	430
+楚源	chu yuan	127
+穿云击	chuan yun ji	205
+锤兵	chui bing	319
+锤将	chui jiang	316
+锤骑	chui qi	318
+锤神	chui shen	314
+锤圣	chui sheng	315
+锤尉	chui wei	317
+淳于琼	chun yu qiong	90
+粗布裤	cu bu ku	428
+粗布裙	cu bu qun	432
+粗布裳	cu bu shang	424
+粗布衣	cu bu yi	436
+大开大阖	da kai da he	251
+大木盾	da mu dun	455
+待伏	dai fu	228
+戴元	dai yuan	99
+当头斧	dang tou fu	225
+刀兵	dao bing	388
+刀魂	dao hun	249
+刀将	dao jiang	385
+刀骑	dao qi	387
+刀神	dao shen	383
+刀圣	dao sheng	384
+刀尉	dao wei	386
+地宫	di gong	521
+东方若	dong fang ruo	156
+东风酒肆	dong feng jiu si	518
+杜憧	du chong	104
+断月斩	duan yue zhan	261
+盾兵	dun bing	305
+盾将	dun jiang	302
+盾骑	dun qi	304
+盾王	dun wang	301
+盾尉	dun wei	303
+盾仙	dun xian	300
+范程	fan cheng	123
+贩马商人	fan ma shang ren	61
+飞鸿袭	fei hong xi	210
+飞燕闪	fei yan shan	204
+奋勇	fen yong	224
+封喉刺	feng hou ci	216
+风火轮	feng huo lun	242
+逢纪	feng ji	97
+风甲术	feng jia shu	173
+风卷残云	feng juan can yun	202
+风球	feng qiu	177
+风弹	feng tan	176
+风袭术	feng xi shu	167
+风行	feng xing	209
+副本	fu ben	526
+斧兵	fu bing	339
+斧将	fu jiang	336
+斧骑	fu qi	338
+斧神	fu shen	334
+斧王	fu wang	335
+斧尉	fu wei	337
+符文	fu wen	523
+斧意	fu yi	222
+傅羽	fu yu	11
+符玉	fu yu	524
+辅佐	fu zuo	165
+甘始	gan shi	83
+高良	gao liang	15
+高升	gao sheng	105
+高鹰	gao ying	93
+格挡	ge dang	259
+攻击	gong ji	265
+弓将	gong jiang	268
+弓骑	gong qi	270
+弓神	gong shen	266
+弓手	gong shou	271
+公孙不平	gong sun bu ping	140
+弓王	gong wang	267
+弓尉	gong wei	269
+弓意	gong yi	189
+苟安	gou an	107
+钩豪	gou hao	330
+钩客	gou ke	333
+钩神	gou shen	328
+钩士	gou shi	332
+钩王	gou wang	329
+钩侠	gou xia	331
+古木杖	gu mu zhang	447
+官阶	guan jie	513
+贯矢射	guan shi she	192
+关中	guan zhong	506
+广川县尉	guang chuan xian wei	54
+棍兵	gun bing	353
+棍魂	gun hun	235
+棍将	gun jiang	350
+棍骑	gun qi	352
+棍王	gun wang	349
+棍尉	gun wei	351
+棍仙	gun xian	348
+郭虎	guo hu	109
+郭图	guo tu	81
+郭威	guo wei	88
+郭芸	guo yun	89
+国战	guo zhan	514
+韩猛	han meng	120
+韩英	han ying	102
+韩忠	han zhong	143
+河北名将	he bei ming jiang	26
+河北谋士	he bei mou shi	33
+河北舞师坊主	he bei wu shi fang zhu	37
+河北隐士	he bei yin shi	60
+黑市伤人	hei shi shang ren	36
+黑铁鞋	hei tie xie	410
+横抡	heng lun	263
+横扫	heng sao	234
+横扫千军	heng sao qian jun	236
+护具商	hu ju shang	38
+护具师	hu ju shi	48
+护体	hu ti	208
+护卫	hu wei	237
+弧月斩	hu yue zhan	252
+华彩带	hua cai dai	398
+花纹扇	hua wen shan	442
+环魂	huan hun	201
+环将	huan jiang	295
+环圣	huan sheng	294
+环士	huan shi	297
+环手	huan shou	298
+环侠	huan xia	296
+环仙	huan xian	293
+皇甫暄	huang fu xuan	159
+黄巾	huang jin	19
+挥砍	hui kan	257
+回马枪	hui ma qiang	182
+会心	hui xin	221
+戟兵	ji bing	374
+纪枫露	ji feng lu	101
+疾风枪	ji feng qiang	183
+戟将	ji jiang	371
+戟骑	ji qi	373
+戟神	ji shen	369
+戟圣	ji sheng	370
+戟尉	ji wei	372
+冀州典军	ji zhou dian jun	24
+冀州都尉	ji zhou du wei	23
+冀州居民	ji zhou ju min	46
+冀州太守	ji zhou tai shou	32
+冀州治中	ji zhou zhi zhong	34
+建安七子之一	jian an qi zi zhi yi	43
+坚壁	jian bi	244
+锏豪	jian hao	323
+剑豪	jian hao	343
+锏客	jian ke	326
+剑客	jian ke	346
+简良	jian liang	144
+坚木锏	jian mu jian	467
+尖木枪	jian mu qiang	499
+锏神	jian shen	321
+锏圣	jian sheng	322
+剑圣	jian sheng	342
+锏士	jian shi	325
+剑士	jian shi	345
+锏侠	jian xia	324
+剑侠	jian xia	344
+剑仙	jian xian	341
+剑意	jian yi	211
+姜综	jiang zong	9
+搅海势	jiao hai shi	203
+截脉刺	jie mai ci	214
+解牛劈	jie niu pi	227
+结义	jie yi	509
+结义管理员	jie yi guan li yuan	69
+锦缎带	jin duan dai	402
+经学大师	jing xue da shi	45
+旧布袄	jiu bu ao	420
+旧布带	jiu bu dai	405
+酒馆伙计	jiu guan huo ji	27
+酒馆老板	jiu guan lao ban	28
+救护	jiu hu	170
+旧绢带	jiu juan dai	401
+旧木镯	jiu mu zhuo	393
+旧手套	jiu shou tao	397
+沮授	ju shou	96
+绢带	juan dai	400
+军团	jun tuan	515
+孔方	kong fang	149
+孔利	kong li	114
+宽木钺	kuan mu yue	491
+兰芷	lan zhi	147
+雷羿	lei yi	6
+力劈华山	li pi hua shan	223
+连打	lian da	246
+连击	lian ji	241
+连劈	lian pi	218
+连矢射	lian shi she	191
+连中	lian zhong	193
+梁存	liang cun	134
+梁翔	liang xiang	10
+梁严	liang yan	7
+林戈	lin ge	82
+灵山密道	ling shan mi dao	525
+灵山秘道	ling shan mi dao	17
+凌云	ling yun	125
+刘铠	liu kai	94
+刘睿	liu rui	129
+流星剑	liu xing jian	199
+刘元起	liu yuan qi	160
+龙卷术	long juan shu	171
+鹿皮带	lu pi dai	403
+鹿皮鞋	lu pi xie	411
+卢毓	lu yu	138
+卢植	lu zhi	157
+落英射	luo ying she	198
+绿石镯	lv shi zhuo	391
+马维	ma wei	73
+满弦射	man xian she	196
+孟晖	meng hui	12
+猛劈	meng pi	262
+觅心刺	mi xin ci	217
+棉布甲	mian bu jia	435
+棉布肩甲	mian bu jian jia	419
+棉布裤	mian bu ku	427
+棉布披肩	mian bu pi jian	416
+棉布裙	mian bu qun	423
+棉布裳	mian bu shang	431
+鸣镝箭	ming di jian	197
+木锤	mu chui	464
+木刀	mu dao	504
+木盾	mu dun	456
+木斧	mu fu	476
+木弓	mu gong	440
+木钩	mu gou	472
+木棍	mu gun	484
+木环	mu huan	452
+木戟	mu ji	496
+木锏	mu jian	468
+木剑	mu jian	480
+木枪	mu qiang	500
+穆求鱼	mu qiu yu	117
+木镗	mu tang	488
+木钺	mu yue	492
+木杖	mu zhang	448
+木爪	mu zhao	460
+逆袭棍	ni xi gun	240
+聂婧	nie jing	130
+宁红	ning hong	106
+凝视水流的江贼	ning shi shui liu de jiang zei	3
+农场主儿子	nong chang zhu er zi	50
+农场主夫人	nong chang zhu fu ren	51
+农夫	nong fu	59
+农田主	nong tian zhu	21
+潘希	pan xi	139
+裴元绍	pei yuan shao	118
+烹饪师	peng ren shi	55
+皮革护腿	pi ge hu tui	426
+皮革甲	pi ge jia	434
+皮革肩甲	pi ge jian jia	418
+皮护腕	pi hu wan	395
+劈砸	pi za	187
+破煞	po sha	213
+蒲兴	pu xing	131
+漆木戟	qi mu ji	495
+钱耀	qian yao	116
+枪兵	qiang bing	381
+强攻	qiang gong	260
+枪魂	qiang hun	178
+枪将	qiang jiang	378
+枪骑	qiang qi	380
+枪神	qiang shen	376
+强生术	qiang sheng shu	172
+枪王	qiang wang	377
+枪尉	qiang wei	379
+强袭棍	qiang xi gun	245
+秦幽儿	qin you er	152
+青布带	qing bu dai	404
+青布鞋	qing bu xie	412
+轻绸带	qing chou dai	399
+清凉驿	qing liang yi	517
+清凉驿武师	qing liang yi wu shi	53
+青龙偃月	qing long yan yue	250
+青铜斧	qing tong fu	474
+青铜钩	qing tong gou	470
+青铜戟	qing tong ji	494
+青铜剑	qing tong jian	478
+青铜钺	qing tong yue	490
+雀落棍	que luo gun	238
+燃怒劈	ran nu pi	229
+韧木弓	ren mu gong	439
+锐金	rui jin	185
+锐木爪	rui mu zhao	459
+三军教习	san jun jiao xi	42
+扫花老人	sao hua lao ren	155
+扫击	sao ji	207
+扇将	shan jiang	275
+扇生	shan sheng	278
+扇士	shan shi	277
+扇王	shan wang	274
+扇侠	shan xia	276
+扇仙	shan xian	273
+扇意	shan yi	162
+射击	she ji	200
+审配	shen pei	98
+神威枪	shen wei qiang	186
+声望	sheng wang	512
+十八般兵器	shi ba ban bing qi	520
+食品商	shi pin shang	39
+饰品商	shi pin shang	30
+十字劈	shi zi pi	233
+守关卫兵	shou guan wei bing	47
+熟铜锤	shu tong chui	462
+熟铜棍	shu tong gun	482
+熟铜锏	shu tong jian	466
+熟铜枪	shu tong qiang	498
+熟铜镗	shu tong tang	486
+双环击	shuang huan ji	206
+双木斧	shuang mu fu	475
+丝绸履	si chou lv	407
+思考存在的僵尸	si kao cun zai de jiang shi	2
+司马望	si ma wang	115
+苏昌	su chang	153
+速打	su da	247
+速击	su ji	220
+速砍	su kan	230
+苏氏古宅主人	su shi gu zhai zhu ren	44
+苏双	su shuang	122
+孙权	sun quan	528
+缩地	suo di	166
+檀香扇	tan xiang shan	441
+镗兵	tang bing	360
+镗将	tang jiang	357
+镗骑	tang qi	359
+镗神	tang shen	355
+镗圣	tang sheng	356
+镗尉	tang wei	358
+桃木剑	tao mu jian	479
+桃园	tao yuan	516
+桃园村民	tao yuan cun min	66
+桃园村长	tao yuan cun zhang	70
+桃园武师	tao yuan wu shi	68
+桃园秀才	tao yuan xiu cai	62
+桃园长者	tao yuan zhang zhe	67
+藤鞋	teng xie	409
+田狄	tian di	110
+挑击	tiao ji	188
+挑战	tiao zhan	264
+铁护手	tie hu shou	394
+听劲	ting jing	180
+突刺	tu ci	184
+突击	tu ji	258
+弯木钩	wan mu gou	471
+王丹	wang dan	76
+王道	wang dao	74
+王明	wang ming	136
+卫兵	wei bing	63
+卫绩	wei ji	13
+五步射	wu bu she	194
+舞豪	wu hao	281
+乌木镯	wu mu zhuo	392
+武申	wu shen	113
+舞士	wu shi	283
+舞师	wu shi	282
+武师	wu shi	35
+舞王	wu wang	280
+舞者	wu zhe	284
+习锤者	xi chui zhe	320
+习刀者	xi dao zhe	389
+习盾者	xi dun zhe	306
+习斧者	xi fu zhe	340
+习弓者	xi gong zhe	272
+习棍者	xi gun zhe	354
+习环者	xi huan zhe	299
+习戟者	xi ji zhe	375
+习锏者	xi jian zhe	327
+习剑者	xi jian zhe	347
+西凉	xi liang	508
+习枪者	xi qiang zhe	382
+习扇者	xi shan zhe	279
+习镗者	xi tang zhe	361
+习舞者	xi wu zhe	285
+习钺者	xi yue zhe	368
+习杖者	xi zhang zhe	292
+习爪者	xi zhao zhe	313
+夏风将军	xia feng jiang jun	78
+夏侯楚	xia hou chu	151
+夏侯兰	xia hou lan	77
+先攻	xian gong	243
+仙童	xian tong	20
+镶嵌	xiang qian	522
+相师	xiang shi	65
+小虎	xiao hu	146
+谢亭	xie ting	85
+辛评	xin ping	80
+新手指导员	xin shou zhi dao yuan	71
+绣花鞋	xiu hua xie	408
+蓄劲	xu jing	253
+许邵	xu shao	154
+旋风斧	xuan feng fu	232
+玄铁盾	xuan tie dun	453
+玄铁弓	xuan tie gong	437
+玄铁棍	xuan tie gun	481
+玄铁环	xuan tie huan	449
+玄铁剑	xuan tie jian	477
+玄铁杖	xuan tie zhang	445
+玄铁爪	xuan tie zhao	457
+薛鉴	xue jian	14
+薛夜来	xue ye lai	150
+颜良	yan liang	84
+燕赵酒徒	yan zhao jiu tu	29
+杨不归	yang bu gui	91
+杨狄	yang di	135
+杨明	yang ming	79
+叶之秋	ye zhi qiu	126
+一剑凌风	yi jian ling feng	212
+医师	yi shi	25
+驿站老板	yi zhan lao ban	56
+翼州城	yi zhou cheng	505
+异族	yi zu	18
+隐士	yin shi	41
+吟诗的大蛇	yin shi de da she	5
+硬木棍	ying mu gun	483
+拥离	yong li	72
+邮差	you chai	86
+渔夫	yu fu	52
+袁琳	yuan lin	92
+辕门射	yuan men she	195
+圆木环	yuan mu huan	451
+圆扇	yuan shan	444
+圆月斩	yuan yue zhan	254
+钺兵	yue bing	367
+钺将	yue jiang	364
+钺骑	yue qi	366
+钺神	yue shen	362
+钺圣	yue sheng	363
+钺尉	yue wei	365
+运筹	yun chou	174
+蕴怒	yun nu	226
+杂货商	za huo shang	64
+张嘉	zhang jia	108
+张谏	zhang jian	145
+杖将	zhang jiang	288
+杖客	zhang ke	291
+张南	zhang nan	142
+张平	zhang ping	87
+杖士	zhang shi	290
+张世平	zhang shi ping	148
+张特	zhang te	95
+杖王	zhang wang	287
+杖侠	zhang xia	289
+杖仙	zhang xian	286
+张隐	zhang yin	119
+张昱	zhang yu	137
+赵风	zhao feng	75
+爪豪	zhao hao	309
+爪客	zhao ke	312
+爪神	zhao shen	307
+赵胜	zhao sheng	111
+爪圣	zhao sheng	308
+赵实	zhao shi	128
+爪士	zhao shi	311
+爪侠	zhao xia	310
+阵营	zhen ying	510
+郑玄	zheng xuan	124
+直刺	zhi ci	248
+知古通今的鬼魂	zhi gu tong jin de gui hun	1
+纸团扇	zhi tuan shan	443
+重木镗	zhong mu tang	487
+中山靖王陵	zhong shan jing wang ling	16
+咒冰术	zhou bing shu	168
+周瑜	zhou yu	527
+骤雨青荷	zhou yu qing he	179
+诸葛亮	zhu ge liang	530
+朱逸群	zhu yi qun	100
+追风连刺	zhui feng lian ci	215
+紫铜刀	zi tong dao	502
+紫铜盾	zi tong dun	454
+紫铜弓	zi tong gong	438
+紫铜环	zi tong huan	450
+紫铜杖	zi tong zhang	446
+紫铜爪	zi tong zhao	458
+邹靖	zou jing	158
+邹越	zou yue	8

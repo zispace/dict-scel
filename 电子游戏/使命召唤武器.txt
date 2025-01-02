@@ -1,0 +1,15 @@
+# 文件名：使命召唤武器.scel
+# 词库名：使命召唤武器
+# 词库分类：射击游戏
+# 词库描述：
+# 词条样例：自动步枪 冲锋枪 通用机枪 杰格佳廖夫DPM机枪 式冲锋枪
+# 词条数量：8
+
+半自动步枪	ban zi dong bu qiang	5
+步枪	bu qiang	7
+冲锋枪	chong feng qiang	8
+式冲锋枪	shi chong feng qiang	6
+式马克沁水冷式机枪	shi ma ke qin shui leng shi ji qiang	3
+手枪	shou qiang	4
+通用机枪	tong yong ji qiang	2
+自动步枪	zi dong bu qiang	1

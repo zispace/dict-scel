@@ -1,0 +1,535 @@
+# 文件名：怪物猎人ol.scel
+# 词库名：怪物猎人ol
+# 词库分类：角色扮演
+# 词库描述：
+# 词条样例：怪物猎人 太刀 猫车 狩猎笛 弓箭
+# 词条数量：528
+
+爱主人	ai zhu ren	318
+霸刀龙鳞	ba dao long lin	119
+霸刀蚀	ba dao shi	118
+霸龙	ba long	45
+白速龙	bai su long	504
+白速龙王	bai su long wang	503
+白跳跳	bai tiao tiao	502
+白一角龙	bai yi jiao long	12
+白猿薙	bai yuan ti	137
+白猿薙改	bai yuan ti gai	136
+爆锤龙	bao chui long	39
+爆弹强化之术	bao dan qiang hua zhi shu	284
+背水之阵	bei shui zhi zhen	274
+奔雷剑霆鸣万钧	ben lei jian ting ming wan jun	81
+冰攻击强化	bing gong ji qiang hua	303
+冰狐龙	bing hu long	47
+冰雷鸟	bing lei niao	34
+冰耐性强化	bing nai xing qiang hua	279
+冰牙龙	bing ya long	42
+兵长斗气锤	bing zhang dou qi chui	261
+兵长喵斗气甲	bing zhang miao dou qi jia	229
+兵长喵斗气盔	bing zhang miao dou qi kui	247
+不攻击	bu gong ji	321
+捕食巨刃	bu shi ju ren	111
+不偷懒之术	bu tou lan zhi shu	271
+采集封印之术	cai ji feng yin zhi shu	272
+残阳勋爵	can yang xun jue	135
+苍火龙	cang huo long	36
+苍蓝剪刀	cang lan jian dao	109
+苍蓝剪刀改	cang lan jian dao gai	108
+苍之丸	cang zhi wan	123
+苍之丸改	cang zhi wan gai	122
+长枪	chang qiang	514
+赤纹刃	chi wen ren	110
+铳枪	chong qiang	513
+锤子	chui zi	525
+雌火龙骨髓	ci huo long gu sui	397
+雌火龙甲壳	ci huo long jia qiao	398
+雌火龙套装	ci huo long tao zhuang	214
+雌火龙之棘	ci huo long zhi ji	400
+雌火龙之鳞	ci huo long zhi lin	401
+雌火龙之尾	ci huo long zhi wei	396
+雌火龙之翼	ci huo long zhi yi	395
+雌火龙之爪	ci huo long zhi zhao	402
+摧岩刃旋裂	cui yan ren xuan lie	86
+摧岩蚀刃	cui yan shi ren	88
+摧岩蚀刃改	cui yan shi ren gai	87
+村丁斗气锤	cun ding dou qi chui	268
+村丁护身锤	cun ding hu shen chui	267
+村丁喵斗气甲	cun ding miao dou qi jia	232
+村丁喵斗气盔	cun ding miao dou qi kui	250
+村丁喵护身甲	cun ding miao hu shen jia	231
+村丁喵护身盔	cun ding miao hu shen kui	249
+大锤	da chui	524
+大刀鸟切	da dao niao qie	147
+大怪鸟	da guai niao	6
+大怪鸟套装	da guai niao tao zhuang	213
+大剑	da jian	526
+大骑士斗气锤	da qi shi dou qi chui	259
+大骑士喵斗气甲	da qi shi miao dou qi jia	227
+大骑士喵斗气盔	da qi shi miao dou qi kui	245
+大桶爆弹之术	da tong bao dan zhi shu	285
+大野猪王脊骨	da ye zhu wang ji gu	442
+大野猪王套装	da ye zhu wang tao zhuang	193
+大野猪王头壳	da ye zhu wang tou ke	441
+大野猪王之皮	da ye zhu wang zhi pi	444
+大野猪王之蹄	da ye zhu wang zhi ti	443
+大野猪王之牙	da ye zhu wang zhi ya	445
+淡彩色之毛	dan cai se zhi mao	436
+淡金色兽毛	dan jin se shou mao	429
+胆小	dan xiao	319
+电甲虫	dian jia chong	57
+电龙	dian long	496
+电龙脊骨白化脊肉	dian long ji gu bai hua ji rou	415
+电龙柔软皮	dian long rou ruan pi	418
+电龙套装	dian long tao zhuang	211
+电龙之牙	dian long zhi ya	417
+电龙之翼	dian long zhi yi	419
+电气袋	dian qi dai	416
+冻岩射手速射枪管	dong yan she shou su she qiang guan	170
+毒袋	du dai	361
+独耳黑狼鸟	du er hei lang niao	53
+毒攻击强化	du gong ji qiang hua	299
+毒怪鸟光水晶	du guai niao guang shui jing	359
+毒怪鸟套装	du guai niao tao zhuang	210
+毒怪鸟头壳	du guai niao tou ke	360
+毒怪鸟橡胶质皮	du guai niao xiang jiao zhi pi	363
+毒怪鸟之翼	du guai niao zhi yi	364
+毒怪鸟之嘴	du guai niao zhi zui	362
+毒狩霭	du shou ai	78
+毒无效之术	du wu xiao zhi shu	295
+独行护身刃	du xing hu shen ren	266
+独行喵护身甲	du xing miao hu shen jia	226
+独行喵护身盔	du xing miao hu shen kui	244
+毒啄剑	du zhuo jian	80
+毒啄剑改	du zhuo jian gai	79
+断刃一角龙	duan ren yi jiao long	22
+断牙剑	duan ya jian	96
+盾蟹甲壳	dun xie jia qiao	474
+盾蟹套装	dun xie tao zhuang	212
+盾蟹之脚	dun xie zhi jiao	473
+盾蟹之钳	dun xie zhi qian	472
+盾蟹之爪	dun xie zhi zhao	475
+发火袋	fa huo dai	391
+防暑防寒之术	fang shu fang han zhi shu	310
+防音之术	fang yin zhi shu	293
+防御力强化	fang yu li qiang hua	290
+飞龙刀	fei long dao	126
+风压咆哮无效之术	feng ya pao xiao wu xiao zhi shu	292
+风压水流无效之术	feng ya shui liu wu xiao zhi shu	307
+风压无效之术	feng ya wu xiao zhi shu	294
+浮岳龙	fu yue long	66
+钢龙	gang long	48
+高速回复之术	gao su hui fu zhi shu	269
+高速作业之术	gao su zuo ye zhi shu	270
+格挡技巧	ge dang ji qiao	288
+攻击力强化	gong ji li qiang hua	291
+弓箭	gong jian	518
+骨牙刀	gu ya dao	152
+怪鸟之耳	guai niao zhi er	377
+怪鸟之鳞	guai niao zhi lin	381
+怪鸟之翼	guai niao zhi yi	378
+怪鸟之爪	guai niao zhi zhao	382
+怪鸟之嘴	guai niao zhi zui	380
+怪物猎人	guai wu lie ren	528
+鬼人笛之术	gui ren di zhi shu	315
+鬼狩蛛甲壳	gui shou zhu jia qiao	480
+鬼狩蛛套装	gui shou zhu tao zhuang	209
+鬼狩蛛体液	gui shou zhu ti ye	477
+鬼狩蛛之毛	gui shou zhu zhi mao	478
+鬼狩蛛之丝	gui shou zhu zhi si	476
+鬼狩蛛之眼	gui shou zhu zhi yan	479
+鬼狩蛛之爪	gui shou zhu zhi zhao	481
+骇狩蛛	hai shou zhu	497
+寒砂太刀	han sha tai dao	145
+河狸兽脊骨	he li shou ji gu	453
+河狸兽套装	he li shou tao zhuang	208
+河狸兽头壳	he li shou tou ke	452
+河狸兽之皮	he li shou zhi pi	455
+河狸兽之牙	he li shou zhi ya	454
+河狸兽之爪	he li shou zhi zhao	456
+和平主义	he ping zhu yi	317
+河源薙	he yuan ti	162
+黑角龙	hei jiao long	44
+黑铠龙	hei kai long	17
+黑狼鸟甲壳	hei lang niao jia qiao	336
+黑狼鸟套装	hei lang niao tao zhuang	207
+黑狼鸟头壳	hei lang niao tou ke	337
+黑狼鸟之耳	hei lang niao zhi er	334
+黑狼鸟之鳞	hei lang niao zhi lin	339
+黑狼鸟之尾	hei lang niao zhi wei	333
+黑狼鸟之翼	hei lang niao zhi yi	340
+黑狼鸟之嘴	hei lang niao zhi zui	338
+黑狼鸟鬃毛	hei lang niao zong mao	335
+黑真珠	hei zhen zhu	471
+红白脊肉	hong bai ji rou	409
+红电龙	hong dian long	4
+红电龙脊骨	hong dian long ji gu	410
+红电龙之牙	hong dian long zhi ya	412
+红电龙之翼	hong dian long zhi yi	414
+红电气袋	hong dian qi dai	411
+轰空大剑	hong kong da jian	103
+轰空大剑改	hong kong da jian gai	102
+红莲砦蟹	hong lian zhai xie	29
+轰龙	hong long	1
+红速龙	hong su long	507
+红速龙王	hong su long wang	505
+红跳跳	hong tiao tiao	506
+荒厄龙	huang e long	50
+黄速龙	huang su long	501
+黄速龙王	huang su long wang	500
+黄速龙王麻痹牙	huang su long wang ma bi ya	368
+黄速龙王套装	huang su long wang tao zhuang	206
+黄速龙王头冠	huang su long wang tou guan	365
+黄速龙王之鳞	huang su long wang zhi lin	369
+黄速龙王之皮	huang su long wang zhi pi	366
+黄速龙王之爪	huang su long wang zhi zhao	370
+黄跳跳	huang tiao tiao	499
+凰晓速射枪管	huang xiao su she qiang guan	165
+回复笛术	hui fu di shu	312
+灰晶蝎	hui jing xie	43
+会心攻击强化	hui xin gong ji qiang hua	287
+回旋镖与爆弹	hui xuan biao yu bao dan	322
+火攻击强化	huo gong ji qiang hua	305
+火耐性强化	huo nai xing qiang hua	282
+惑星冲击	huo xing chong ji	73
+祸星龙	huo xing long	31
+惑星陨毁	huo xing yun hui	72
+火炎袋	huo yan dai	379
+疾电碎牙	ji dian sui ya	120
+虮毒射手速射枪管	ji du she shou su she qiang guan	173
+极恶鸟喙	ji e niao hui	128
+棘轮射手改速射枪管	ji lun she shou gai su she qiang guan	171
+棘轮射手速射枪管	ji lun she shou su she qiang guan	172
+加农炮轟蓄能枪管	jia nong pao hong xu neng qiang guan	180
+剑豪镰蟹	jian hao lian xie	55
+剑极狼	jian ji lang	51
+剑客护身斧	jian ke hu shen fu	253
+剑客喵护身甲	jian ke miao hu shen jia	217
+剑客喵护身盔	jian ke miao hu shen kui	235
+剑刹狼	jian sha lang	64
+坚岩斩	jian yan zhan	131
+坚岩斩改	jian yan zhan gai	130
+将军镰蟹套装	jiang jun lian xie tao zhuang	205
+角笛之术	jiao di zhi shu	316
+角蝰刀	jiao kui dao	151
+角龙	jiao long	5
+角挺重炮蓄能枪管	jiao ting zhong pao xu neng qiang guan	176
+洁净笛术	jie jing di shu	313
+劫龙	jie long	11
+仅暴弹	jin bao dan	326
+仅回旋镖	jin hui xuan biao	325
+金火龙	jin huo long	16
+仅近战	jin jin zhan	327
+金毛兽王脊骨	jin mao shou wang ji gu	430
+金毛兽王套装	jin mao shou wang tao zhuang	204
+金毛兽王头皮	jin mao shou wang tou pi	428
+金毛兽王之毛	jin mao shou wang zhi mao	433
+金毛兽王之皮	jin mao shou wang zhi pi	432
+金毛兽王之牙	jin mao shou wang zhi ya	431
+金毛兽王之爪	jin mao shou wang zhi zhao	427
+金眠鸟	jin mian niao	52
+金狮子	jin shi zi	61
+近战与暴弹	jin zhan yu bao dan	324
+近战与回旋镖	jin zhan yu hui xuan biao	323
+金真珠	jin zhen zhu	465
+晶化粉尘	jing hua fen chen	70
+胫节棘刃	jing jie ji ren	144
+晶岩龙	jing yan long	40
+静滞弯刀	jing zhi wan dao	85
+静滞弯刀改	jing zhi wan dao gai	84
+巨大回旋镖之术	ju da hui xuan biao zhi shu	283
+剧毒镰刀	ju du lian dao	157
+剧毒镰刀改	ju du lian dao gai	149
+巨骨大剑	ju gu da jian	97
+巨骨刀	ju gu dao	139
+军士斗气斧	jun shi dou qi fu	258
+军士喵斗气甲	jun shi miao dou qi jia	222
+军士喵斗气盔	jun shi miao dou qi kui	240
+军团长斗气斧	jun tuan zhang dou qi fu	255
+军团长喵斗气甲	jun tuan zhang miao dou qi jia	219
+军团长喵斗气盔	jun tuan zhang miao dou qi kui	237
+铠龙	kai long	14
+铠岩砦蟹	kai yan zhai xie	19
+啃骨大剑	ken gu da jian	104
+恐暴龙	kong bao long	10
+恐牙大剑	kong ya da jian	115
+恐牙大剑改	kong ya da jian gai	114
+库卡加农改蓄能枪管	ku ka jia nong gai xu neng qiang guan	183
+库卡加农蓄能枪管	ku ka jia nong xu neng qiang guan	184
+快速起身之术	kuai su qi shen zhi shu	276
+狂乱压切	kuang luan ya qie	159
+狂乱压切改	kuang luan ya qie gai	158
+葵盾蟹	kui dun xie	54
+蓝速龙	lan su long	510
+蓝速龙王	lan su long wang	508
+蓝速龙王套装	lan su long wang tao zhuang	203
+蓝速龙王头冠	lan su long wang tou guan	384
+蓝速龙王之鳞	lan su long wang zhi lin	386
+蓝速龙王之皮	lan su long wang zhi pi	383
+蓝速龙王之牙	lan su long wang zhi ya	385
+蓝速龙王之爪	lan su long wang zhi zhao	387
+蓝跳跳	lan tiao tiao	509
+狼刀孤鸟	lang dao gu niao	77
+老山龙	lao shan long	69
+雷攻击强化	lei gong ji qiang hua	302
+雷耐性强化	lei nai xing qiang hua	280
+镰蟹甲壳	lian xie jia qiao	468
+镰蟹之脚	lian xie zhi jiao	467
+镰蟹之钳	lian xie zhi qian	466
+镰蟹之爪	lian xie zhi zhao	469
+獠骨大剑	liao gu da jian	93
+燎渊龙	liao yuan long	62
+裂空大剑	lie kong da jian	101
+烈焰袋	lie yan dai	399
+烈焰女王	lie yan nv wang	23
+龙攻击强化	long gong ji qiang hua	301
+龙耐性强化	long nai xing qiang hua	278
+龙头壳	long tou ke	464
+乱牙大剑	luan ya da jian	116
+落石加农改蓄能枪管	luo shi jia nong gai xu neng qiang guan	181
+落石加农蓄能枪管	luo shi jia nong xu neng qiang guan	182
+麻痹袋	ma bi dai	367
+麻痹攻击强化	ma bi gong ji qiang hua	298
+麻痹陷阱之术	ma bi xian jing zhi shu	286
+蛮龙	man long	46
+猫车	mao che	511
+魅惑色的柔皮	mei huo se de rou pi	413
+门生护身斧	men sheng hu shen fu	254
+门生喵护身甲	men sheng miao hu shen jia	218
+门生喵护身盔	men sheng miao hu shen kui	236
+眠鸟	mian niao	26
+眠鸟套装	mian niao tao zhuang	202
+眠鸟胃石	mian niao wei shi	345
+眠鸟尾羽	mian niao wei yu	341
+眠鸟之毛	mian niao zhi mao	342
+眠鸟之爪	mian niao zhi zhao	346
+眠鸟之嘴	mian niao zhi zui	344
+灭星龙	mie xing long	32
+鸣袋	ming dai	373
+冥雷龙	ming lei long	49
+鸣沙太刀	ming sha tai dao	150
+鸣沙太刀改	ming sha tai dao gai	146
+狞龙	ning long	9
+怒雷剑	nu lei jian	82
+弩炮	nu pao	523
+诺克斯眠刀	nuo ke si mian dao	83
+女武神之刃	nv wu shen zhi ren	74
+爬虫弩速射枪管	pa chong nu su she qiang guan	175
+片手	pian shou	517
+平衡	ping heng	328
+扑灭巨刃	pu mie ju ren	107
+骑士斗气锤	qi shi dou qi chui	260
+骑士喵斗气甲	qi shi miao dou qi jia	228
+骑士喵斗气盔	qi shi miao dou qi kui	246
+七转八起之术	qi zhuan ba qi zhi shu	275
+潜伏巨刃	qian fu ju ren	106
+千里眼之术	qian li yan zhi shu	273
+强走之术	qiang zou zhi shu	309
+青怪鸟	qing guai niao	27
+青怪鸟套装	qing guai niao tao zhuang	201
+青怪鸟之耳	qing guai niao zhi er	371
+青怪鸟之鳞	qing guai niao zhi lin	375
+青怪鸟之翼	qing guai niao zhi yi	372
+青怪鸟之爪	qing guai niao zhi zhao	376
+青怪鸟之嘴	qing guai niao zhi zui	374
+轻弩	qing nu	522
+青翼剑	qing yi jian	76
+全耐性提升之术	quan nai xing ti sheng zhi shu	306
+全属性攻击强化	quan shu xing gong ji qiang hua	300
+全属性耐性强化	quan shu xing nai xing qiang hua	277
+全异常攻击强化	quan yi chang gong ji qiang hua	296
+熔岩龙	rong yan long	58
+入潜重枪蓄能枪管	ru qian zhong qiang xu neng qiang guan	189
+散引枪改蓄能枪管	san yin qiang gai xu neng qiang guan	177
+散引枪蓄能枪管	san yin qiang xu neng qiang guan	178
+砂袋	sha dai	485
+鲨颚刀	sha e dao	100
+鲨颚刀改	sha e dao gai	99
+鲨颚刀窒沙	sha e dao zhi sha	98
+沙雷鸟	sha lei niao	28
+沙雷鸟嗉囊	sha lei niao su nang	347
+沙雷鸟套装	sha lei niao tao zhuang	200
+沙雷鸟之鳞	sha lei niao zhi lin	351
+沙雷鸟之翼	sha lei niao zhi yi	348
+沙雷鸟之爪	sha lei niao zhi zhao	352
+沙雷鸟之嘴	sha lei niao zhi zui	350
+沙狸兽	sha li shou	8
+沙狸兽脊骨	sha li shou ji gu	447
+沙狸兽套装	sha li shou tao zhuang	199
+沙狸兽头壳	sha li shou tou ke	446
+沙狸兽之皮	sha li shou zhi pi	450
+沙狸兽之牙	sha li shou zhi ya	449
+沙狸兽之爪	sha li shou zhi zhao	451
+沙流薙	sha liu ti	161
+沙流薙改	sha liu ti gai	160
+沙龙王背鳍	sha long wang bei qi	482
+沙龙王套装	sha long wang tao zhuang	198
+沙龙王之鳞	sha long wang zhi lin	487
+沙龙王之皮	sha long wang zhi pi	484
+沙龙王之鳍	sha long wang zhi qi	483
+沙龙王之牙	sha long wang zhi ya	486
+沙龙王之爪	sha long wang zhi zhao	488
+沙囊	sha nang	448
+砂岩龙	sha yan long	37
+上忍护身刃	shang ren hu shen ren	263
+上忍喵护身甲	shang ren miao hu shen jia	223
+上忍喵护身盔	shang ren miao hu shen kui	241
+蛇大剑	she da jian	105
+士兵斗气锤	shi bing dou qi chui	262
+士兵喵斗气甲	shi bing miao dou qi jia	230
+士兵喵斗气盔	shi bing miao dou qi kui	248
+师范代护身斧	shi fan dai hu shen fu	252
+师范代喵护身甲	shi fan dai miao hu shen jia	216
+师范代喵护身盔	shi fan dai miao hu shen kui	234
+师匠护身斧	shi jiang hu shen fu	251
+师匠喵护身甲	shi jiang miao hu shen jia	215
+师匠喵护身盔	shi jiang miao hu shen kui	233
+十字枪蓄能枪管	shi zi qiang xu neng qiang guan	179
+狩猎笛	shou lie di	515
+双刀	shuang dao	516
+水攻击强化	shui gong ji qiang hua	304
+水龙	shui long	59
+睡眠袋	shui mian dai	343
+睡眠攻击强化	shui mian gong ji qiang hua	297
+水耐性强化	shui nai xing qiang hua	281
+碎龙	sui long	13
+塔纳托斯刃	ta na tuo si ren	121
+太刀	tai dao	527
+桃毛兽王脊骨	tao mao shou wang ji gu	437
+桃毛兽王套装	tao mao shou wang tao zhuang	197
+桃毛兽王头皮	tao mao shou wang tou pi	435
+桃毛兽王之毛	tao mao shou wang zhi mao	440
+桃毛兽王之皮	tao mao shou wang zhi pi	439
+桃毛兽王之牙	tao mao shou wang zhi ya	438
+桃毛兽王之爪	tao mao shou wang zhi zhao	434
+体力强化	ti li qiang hua	289
+铁铸大剑	tie zhu da jian	91
+铁铸大太刀	tie zhu da tai dao	134
+听觉保护之术	ting jue bao hu zhi shu	308
+吞龙	tun long	41
+吞没重枪改蓄能枪管	tun mo zhong qiang gai xu neng qiang guan	187
+吞没重枪蓄能枪管	tun mo zhong qiang xu neng qiang guan	188
+吞渊龙	tun yuan long	33
+尾槌重枪改蓄能枪管	wei chui zhong qiang gai xu neng qiang guan	185
+尾槌重枪蓄能枪管	wei chui zhong qiang xu neng qiang guan	186
+尉官斗气斧	wei guan dou qi fu	257
+尉官喵斗气甲	wei guan miao dou qi jia	221
+尉官喵斗气盔	wei guan miao dou qi kui	239
+尾晶蝎	wei jing xie	7
+尾晶蝎大颚	wei jing xie da e	458
+尾晶蝎甲壳	wei jing xie jia qiao	461
+尾晶蝎晶石	wei jing xie jing shi	460
+尾晶蝎套装	wei jing xie tao zhuang	196
+尾晶蝎体液	wei jing xie ti ye	459
+尾晶蝎之钳	wei jing xie zhi qian	462
+尾晶蝎之尾	wei jing xie zhi wei	457
+尾晶蝎之爪	wei jing xie zhi zhao	463
+瘟疫手炮速射枪管	wen yi shou pao su she qiang guan	168
+舞雷龙	wu lei long	15
+武镰蟹	wu lian xie	56
+霞龙	xia long	60
+下忍护身刃	xia ren hu shen ren	265
+下忍喵护身甲	xia ren miao hu shen jia	225
+下忍喵护身盔	xia ren miao hu shen kui	243
+橡胶质紫皮	xiang jiao zhi zi pi	357
+项链晶石	xiang lian jing shi	71
+晓风大剑	xiao feng da jian	117
+晓风弩炮速射枪管	xiao feng nu pao su she qiang guan	190
+晓风太刀	xiao feng tai dao	163
+骁将斗气斧	xiao jiang dou qi fu	256
+骁将喵斗气甲	xiao jiang miao dou qi jia	220
+骁将喵斗气盔	xiao jiang miao dou qi kui	238
+星龙	xing long	24
+星龙背翅	xing long bei chi	489
+星龙甲壳	xing long jia qiao	493
+星龙套装	xing long tao zhuang	195
+星龙翼膜	xing long yi mo	492
+星龙之角	xing long zhi jiao	491
+星龙之鳞	xing long zhi lin	494
+星龙之尾	xing long zhi wei	490
+星龙之爪	xing long zhi zhao	495
+星钻十字刀	xing zuan shi zi dao	143
+雄火龙	xiong huo long	2
+凶煞鸟喙	xiong sha niao hui	133
+凶煞鸟喙改	xiong sha niao hui gai	132
+凶晓速射枪管	xiong xiao su she qiang guan	164
+凶爪剑	xiong zhao jian	90
+凶爪剑改	xiong zhao jian gai	89
+锈钢龙	xiu gang long	68
+喧哗之刃	xuan hua zhi ren	138
+雪崩之刃	xue beng zhi ren	95
+雪崩之刃改	xue beng zhi ren gai	94
+雪山之岚改速射枪管	xue shan zhi lan gai su she qiang guan	166
+雪山之岚速射枪管	xue shan zhi lan su she qiang guan	167
+雪狮子王套装	xue shi zi wang tao zhuang	194
+雪狮子王头壳	xue shi zi wang tou ke	421
+雪狮子王之毛	xue shi zi wang zhi mao	423
+雪狮子王之皮	xue shi zi wang zhi pi	425
+雪狮子王之尾	xue shi zi wang zhi wei	420
+雪狮子王之牙	xue shi zi wang zhi ya	424
+雪狮子王之爪	xue shi zi wang zhi zhao	426
+雪狮子王之髭	xue shi zi wang zhi zi	422
+血刈锯齿	xue yi ju chi	124
+迅龙	xun long	20
+炎轰龙	yan hong long	18
+岩龙	yan long	498
+岩龙背壳	yan long bei ke	392
+岩龙毒袋	yan long du dai	388
+岩龙甲壳	yan long jia qiao	393
+岩龙头壳	yan long tou ke	390
+岩龙之尾	yan long zhi wei	389
+岩龙之翼	yan long zhi yi	394
+衍鳍太刀	yan qi tai dao	140
+炎狮子	yan shi zi	63
+岩斩铁	yan zhan tie	129
+一角龙	yi jiao long	3
+一角龙背甲	yi jiao long bei jia	406
+一角龙甲壳	yi jiao long jia qiao	408
+一角龙套装	yi jiao long tao zhuang	192
+一角龙头壳	yi jiao long tou ke	404
+一角龙心脏	yi jiao long xin zang	405
+一角龙之尾	yi jiao long zhi wei	403
+一角龙之翼	yi jiao long zhi yi	407
+银火龙	yin huo long	21
+银眠鸟	yin mian niao	35
+银羽狩	yin yu shou	154
+硬化笛之术	ying hua di zhi shu	314
+樱火龙	ying huo long	38
+鹰刃烈风	ying ren lie feng	127
+英雄之证	ying xiong zhi zheng	512
+勇敢	yong gan	320
+优先大型	you xian da xing	330
+优先小型	you xian xiao xing	329
+鱼鳍太刀	yu qi tai dao	142
+鱼鳍太刀改	yu qi tai dao gai	141
+羽狩	yu shou	156
+羽狩改	yu shou gai	155
+御五相荒厄龙	yu wu xiang huang e long	67
+远古大剑	yuan gu da jian	113
+远古大剑改	yuan gu da jian gai	112
+月牙骨刀	yue ya gu dao	153
+炸裂袋	zha lie dai	349
+砦蟹	zhai xie	25
+斩斧	zhan fu	519
+战鬼河狸兽	zhan gui he li shou	65
+斩击斧	zhan ji fu	520
+湛鳞射手速射枪管	zhan lin she shou su she qiang guan	174
+真红之角	zhen hong zhi jiao	470
+真角挥舞	zhen jiao hui wu	92
+雉斩剑终末	zhi zhan jian zhong mo	75
+重弩	zhong nu	521
+中忍护身刃	zhong ren hu shen ren	264
+中忍喵护身甲	zhong ren miao hu shen jia	224
+中忍喵护身盔	zhong ren miao hu shen kui	242
+蛛网太刀	zhu wang tai dao	125
+专注大型	zhuan zhu da xing	332
+专注小型	zhuan zhu xiao xing	331
+紫毒袋	zi du dai	355
+紫毒鸟	zi du niao	30
+紫毒鸟光水晶	zi du niao guang shui jing	353
+紫毒鸟套装	zi du niao tao zhuang	191
+紫毒鸟头壳	zi du niao tou ke	354
+紫毒鸟之翼	zi du niao zhi yi	358
+紫毒鸟之嘴	zi du niao zhi zui	356
+紫鹭镰刀	zi lu lian dao	148
+自然回复笛之术	zi ran hui fu di zhi shu	311
+鬃毛弩炮速射枪管	zong mao nu pao su she qiang guan	169

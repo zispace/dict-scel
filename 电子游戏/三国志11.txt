@@ -1,0 +1,529 @@
+# 文件名：三国志11.scel
+# 词库名：三国志11
+# 词库分类：单机
+# 词库描述：
+# 词条样例：推进 运搬 扫讨 急袭 操舵
+# 词条数量：522
+
+安北将军	an bei jiang jun	200
+安定	an ding	127
+安东将军	an dong jiang jun	203
+安国将军	an guo jiang jun	186
+安南将军	an nan jiang jun	202
+安平港	an ping gang	93
+暗器	an qi	302
+安西将军	an xi jiang jun	201
+昂扬	ang yang	511
+霸王	ba wang	482
+百出	bai chu	458
+白马	bai ma	498
+白马港	bai ma gang	90
+褒赏	bao shang	320
+宝物	bao wu	317
+北海	bei hai	138
+北平	bei ping	142
+必杀技	bi sha ji	34
+兵法二十四篇	bing fa er shi si pian	289
+兵粮	bing liang	421
+兵粮收入	bing liang shou ru	414
+摒弃	bing qi	271
+兵舍	bing she	389
+捕缚	bu fu	504
+补给	bu ji	2
+不屈	bu qu	478
+操舵	cao duo	517
+柴桑	chai sang	121
+长安	chang an	129
+长柄	chang bing	306
+长驱	chang qu	519
+长沙	chang sha	116
+长水校尉	chang shui xiao wei	154
+昌阳港	chang yang gang	89
+车骑将军	che qi jiang jun	224
+陈留	chen liu	133
+沉着	chen zhuo	449
+成都	cheng du	108
+城塞	cheng sai	19
+城市	cheng shi	144
+丞相	cheng xiang	231
+赤兔马	chi tu ma	315
+冲车	chong che	335
+出产良马	chu chan liang ma	366
+出征	chu zheng	326
+雌雄一对剑	ci xiong yi dui jian	307
+从事中郎	cong shi zhong lang	182
+大仓令	da cang ling	174
+大都督	da du du	227
+大盾	da dun	373
+大鸿胪	da hong lu	212
+大将军	da jiang jun	236
+大市场	da shi chang	398
+大司马	da si ma	237
+大司农	da si nong	222
+大宛马	da wan ma	311
+待伏	dai fu	470
+待命	dai ming	58
+单挑	dan tiao	39
+的卢	de lu	314
+登用武将	deng yong wu jiang	321
+典农校尉	dian nong xiao wei	157
+洞察	dong cha	461
+东胡飞弓	dong hu fei gong	293
+洞庭港	dong ting gang	61
+斗舰	dou jian	329
+斗神	dou shen	489
+都市	du shi	405
+都尉	du wei	190
+短戟	duan ji	299
+锻炼戟兵	duan lian ji bing	375
+锻炼弩兵	duan lian nu bing	371
+锻炼骑兵	duan lian qi bing	367
+锻炼枪兵	duan lian qiang bing	379
+锻冶场	duan ye chang	388
+顿丘港	dun qiu gang	84
+遁走	dun zou	521
+二段突刺	er duan tu ci	52
+二虎竞食	er hu jing shi	265
+发明	fa ming	440
+反计	fan ji	454
+繁殖	fan zhi	441
+房陵港	fang ling gang	78
+方天画戟	fang tian hua ji	305
+防卫	fang wei	354
+飞刀	fei dao	300
+飞将	fei jiang	522
+奋威校尉	fen wei xiao wei	155
+俸禄	feng lu	275
+风水	feng shui	425
+伏兵	fu bing	23
+富豪	fu hao	435
+符节台	fu jie tai	395
+俘虏	fu lu	411
+涪水关	fu shui guan	96
+辅佐	fu zuo	497
+港口	gang kou	94
+高唐港	gao tang gang	92
+公安港	gong an gang	60
+攻城	gong cheng	506
+工房	gong fang	386
+功绩	gong ji	277
+攻击	gong ji	57
+弓将	gong jiang	494
+工神	gong shen	484
+弓神	gong shen	486
+攻心	gong xin	501
+谷仓	gu cang	400
+关隘	guan ai	105
+官渡港	guan du gang	83
+贯箭	guan jian	47
+官职	guan zhi	259
+光禄勋	guang lu xun	223
+诡计	gui ji	466
+规律	gui lv	450
+鬼门	gui men	451
+鬼谋	gui mou	457
+桂阳	gui yang	114
+海陵港	hai ling gang	87
+还射	hai she	370
+函谷关	han gu guan	101
+汉津港	han jin gang	64
+汉中	han zhong	111
+黑市	hei shi	397
+横扫	heng sao	50
+后将军	hou jiang jun	192
+壶关	hu guan	104
+护军	hu jun	170
+虎牢关	hu lao guan	103
+虎林港	hu lin gang	76
+护卫	hu wei	471
+湖阳港	hu yang gang	67
+皇帝	huang di	239
+黄门侍郎	huang men shi lang	189
+蝗灾	huang zai	150
+火船	huo chuan	4
+火攻	huo gong	469
+火计	huo ji	28
+火球	huo qiu	7
+火神	huo shen	460
+火矢	huo shi	48
+火焰球	huo yan qiu	6
+火焰种	huo yan zhong	9
+火种	huo zhong	10
+戟兵	ji bing	338
+疾驰	ji chi	481
+戟将	ji jiang	495
+掎角	ji jiao	505
+计略	ji lue	266
+机略	ji lue	467
+计略府	ji lue fu	394
+集齐	ji qi	29
+戟神	ji shen	487
+急袭	ji xi	509
+葭萌关	jia meng guan	97
+剑兵	jian bing	340
+箭盾	jian dun	374
+剑阁	jian ge	98
+箭楼	jian lou	18
+建宁	jian ning	107
+坚守	jian shou	30
+建业	jian ye	124
+谏议大夫	jian yi dai fu	166
+建议校尉	jian yi xiao wei	160
+江都港	jiang du gang	86
+江津港	jiang jin gang	63
+江陵	jiang ling	117
+江夏	jiang xia	120
+江州	jiang zhou	109
+交换俘虏	jiao huan fu lu	268
+解毒	jie du	514
+解县港	jie xian gang	81
+金刚	jin gang	477
+晋阳	jin yang	139
+井栏	jing lan	333
+精妙	jing miao	503
+精锐戟兵	jing rui ji bing	372
+精锐弩兵	jing rui nu bing	368
+精锐骑兵	jing rui qi bing	364
+精锐枪兵	jing rui qiang bing	376
+九江港	jiu jiang gang	72
+厩舍	jiu she	387
+句章港	ju zhang gang	74
+爵位	jue wei	240
+绝影	jue ying	312
+军事	jun shi	328
+军师	jun shi	260
+军事府	jun shi fu	390
+军师将军	jun shi jiang jun	187
+军团	jun tuan	261
+军屯农	jun tun nong	396
+军乐台	jun yue tai	13
+军制改革	jun zhi gai ge	360
+君主	jun zhu	409
+开发	kai fa	404
+开发木兽	kai fa mu shou	349
+开发投石	kai fa tou shi	356
+看破	kan po	462
+会稽	kuai ji	123
+扩展港关	kuo zhan gang guan	343
+郎中	lang zhong	183
+李广弓	li guang gong	295
+练兵	lian bing	363
+练兵所	lian bing suo	391
+炼成火药	lian cheng huo yao	347
+炼成炸药	lian cheng zha yao	346
+连环	lian huan	456
+连击	lian ji	510
+连弩楼	lian nu lou	17
+临济港	lin ji gang	88
+零陵	ling ling	113
+流放	liu fang	257
+留府长史	liu fu zhang shi	197
+六韬	liu tao	287
+流星锤	liu xing chui	301
+流言	liu yan	263
+楼船	lou chuan	330
+庐江	lu jiang	122
+陆口港	lu kou gang	71
+庐陵港	lu ling gang	69
+乱射	luan she	46
+乱战	luan zhan	507
+论客	lun ke	436
+落雷	luo lei	21
+罗县港	luo xian gang	62
+螺旋突刺	luo xuan tu ci	53
+洛阳	luo yang	130
+孟德新书	meng de xin shu	288
+孟津港	meng jin gang	82
+猛者	meng zhe	479
+猛撞	meng zhuang	40
+米道	mi dao	434
+秘计	mi ji	463
+秘书令	mi shu ling	199
+绵竹关	mian zhu guan	95
+妙计	miao ji	464
+灭火	mie huo	27
+明镜	ming jing	448
+名马	ming ma	316
+名声	ming sheng	443
+貊弓	mo gong	292
+墨子	mo zi	281
+木牛流马	mu niu liu ma	344
+木兽	mu shou	334
+耐久	nai jiu	418
+南蛮	nan man	148
+南皮	nan pi	141
+难所行军	nan suo xing jun	361
+内讧	nei hong	22
+内政	nei zheng	345
+内助	nei zhu	423
+能吏	neng li	442
+农场	nong chang	402
+弩兵	nu bing	337
+怒发	nu fa	475
+培训工兵	pei xun gong bing	353
+培育武将	pei yu wu jiang	255
+喷火	pen huo	41
+裨将军	pi jiang jun	168
+霹雳	pi li	355
+偏将军	pian jiang jun	169
+骠骑将军	piao qi jiang jun	225
+平北将军	ping bei jiang jun	176
+评定	ping ding	262
+平东将军	ping dong jiang jun	179
+平南将军	ping nan jiang jun	178
+平西将军	ping xi jiang jun	177
+平原	ping yuan	140
+破虏将军	po lu jiang jun	185
+破碎	po sui	42
+鄱阳港	po yang gang	70
+破贼校尉	po zei xiao wei	153
+濮阳	pu yang	134
+骑兵	qi bing	336
+祈祷	qi dao	424
+齐攻	qi gong	56
+骑将	qi jiang	493
+气力	qi li	416
+骑射	qi she	365
+骑神	qi shen	485
+奇袭	qi xi	377
+七星宝刀	qi xing bao dao	310
+前将军	qian jiang jun	193
+枪兵	qiang bing	339
+强夺	qiang duo	502
+强化车轴	qiang hua che zhou	358
+强化城墙	qiang hua cheng qiang	351
+强化防卫	qiang hua fang wei	350
+强化设施	qiang hua she shi	352
+枪将	qiang jiang	496
+强弩	qiang nu	369
+枪神	qiang shen	488
+强袭	qiang xi	508
+强行	qiang xing	520
+强运	qiang yun	473
+羌族	qiang zu	145
+亲蛮	qin man	428
+亲羌	qin qiang	430
+亲善	qin shan	273
+亲乌	qin wu	431
+亲越	qin yue	429
+青釭剑	qing gang jian	308
+倾国	qing guo	453
+青龙偃月刀	qing long yan yue dao	304
+请求援军	qing qiu yuan jun	267
+曲阿港	qu a gang	75
+驱虎吞狼	qu hu tun lang	264
+驱逐	qu zhu	500
+全部队	quan bu dui	242
+全道具	quan dao ju	241
+全都市	quan dou shi	246
+全港关	quan gang guan	245
+全军团	quan jun tuan	243
+全势力	quan shi li	244
+全武将	quan wu jiang	247
+扰乱	rao luan	25
+人材府	ren cai fu	392
+仁政	ren zheng	426
+儒林校尉	ru lin xiao wei	161
+汝南	ru nan	131
+濡须港	ru xu gang	85
+三略	san lue	286
+扫讨	sao tao	513
+山越	shan yue	146
+商人	shang ren	381
+尚书令	shang shu ling	215
+上庸	shang yong	128
+少府	shao fu	204
+射程	she cheng	499
+蛇矛	she mao	303
+设施数	she shi shu	419
+射手	she shou	480
+设置	she zhi	20
+神火计	shen huo ji	348
+神将	shen jiang	490
+深谋	shen mou	455
+神算	shen suan	459
+生产兵装	sheng chan bing zhuang	383
+士兵	shi bing	417
+石兵八阵	shi bing ba zhen	12
+市场	shi chang	403
+市价	shi jia	413
+侍郎	shi lang	165
+势力港关	shi li gang guan	249
+势力官职	shi li guan zhi	250
+势力情报	shi li qing bao	252
+势力武将	shi li wu jiang	251
+石墙	shi qiang	15
+诗想	shi xiang	446
+石造建筑	shi zao jian zhu	357
+侍中	shi zhong	198
+寿春	shou chun	135
+手戟	shou ji	298
+授予没收	shou yu mo shou	318
+书籍	shu ji	291
+熟练兵	shu lian bing	362
+输送	shu song	325
+水将	shui jiang	492
+水神	shui shen	483
+司空	si kong	230
+司马	si ma	180
+司马法	si ma fa	282
+司徒	si tu	228
+死亡	si wang	406
+孙子兵法	sun zi bing fa	290
+所属武将	suo shu wu jiang	253
+踏破	ta po	516
+太常	tai chang	213
+太鼓台	tai gu tai	14
+太乐令	tai le ling	175
+太平要术	tai ping yao shu	280
+太仆	tai pu	214
+太史令	tai shi ling	188
+太守	tai shou	408
+太尉	tai wei	229
+太学博士	tai xue bo shi	196
+檀弓	tan gong	294
+探索人才	tan suo ren cai	322
+讨逆将军	tao ni jiang jun	184
+特技	te ji	151
+藤甲	teng jia	474
+天水	tian shui	126
+铁壁	tie bi	476
+铁锁	tie suo	297
+廷尉	ting wei	221
+停战协定	ting zhan xie ding	270
+潼关	tong guan	102
+同盟	tong meng	272
+铜雀	tong que	278
+投石	tou shi	332
+投石台	tou shi tai	11
+突刺	tu ci	54
+突即	tu ji	45
+突进	tu jin	43
+土垒	tu lei	16
+突破	tu po	44
+推进	tui jin	518
+退却	tui que	1
+屯田	tun tian	444
+外交	wai jiao	274
+外交府	wai jiao fu	393
+皖口港	wan kou gang	73
+王公	wang gong	238
+伪报	wei bao	26
+威风	wei feng	512
+卫将军	wei jiang jun	226
+尉缭子	wei liao zi	284
+卫士令	wei shi ling	172
+伪退	wei tui	31
+卫尉	wei wei	220
+威压	wei ya	427
+瘟疫	wen yi	149
+武关	wu guan	100
+五官中郎将	wu guan zhong lang jiang	235
+芜湖港	wu hu gang	77
+武库令	wu ku ling	173
+乌林港	wu lin gang	65
+武陵	wu ling	115
+无双	wu shuang	32
+乌丸	wu wan	147
+武威	wu wei	125
+武卫校尉	wu wei xiao wei	152
+巫县港	wu xian gang	59
+吴子	wu zi	285
+西河港	xi he gang	91
+袭击兵粮	xi ji bing liang	378
+夏口港	xia kou gang	68
+下邳	xia pi	137
+夏阳港	xia yang gang	79
+现役	xian yi	412
+降服劝告	xiang fu quan gao	269
+襄平	xiang ping	143
+详细情报	xiang xi qing bao	254
+襄阳	xiang yang	118
+小沛	xiao pei	136
+新丰港	xin feng gang	80
+新野	xin ye	119
+熊手	xiong shou	51
+修补	xiu bu	3
+许昌	xu chang	132
+虚实	xu shi	465
+旋风	xuan feng	49
+血路	xue lu	472
+巡查	xun cha	382
+训练	xun lian	327
+牙门将军	ya men jiang jun	171
+言毒	yan du	468
+研究技巧	yan jiu ji qiao	380
+研究能力	yan jiu neng li	256
+眼力	yan li	437
+阳平关	yang ping guan	99
+养由基弓	yang you ji gong	296
+要害	yao hai	33
+妖术	yao shu	452
+业火球	ye huo qiu	5
+业火种	ye huo zhong	8
+谒者仆射	ye zhe pu she	191
+一般	yi ban	407
+移动	yi dong	324
+议郎	yi lang	156
+倚天剑	yi tian jian	309
+永安	yong an	112
+勇将	yong jiang	491
+右将军	you jiang jun	194
+右仆射	you pu she	158
+羽林中郎将	yu lin zhong lang jiang	234
+鱼市	yu shi	399
+御史中丞	yu shi zhong cheng	206
+玉玺	yu xi	279
+运搬	yun ban	515
+云南	yun nan	106
+云梯	yun ti	359
+在野	zai ye	410
+造币厂	zao bi chang	401
+造船	zao chuan	439
+造船厂	zao chuan chang	385
+战法	zhan fa	55
+战国策	zhan guo ce	283
+长史	zhang shi	181
+掌握人心	zhang wo ren xin	341
+召唤	zhao huan	323
+爪黄飞电	zhao huang fei dian	313
+昭信校尉	zhao xin xiao wei	162
+镇北将军	zhen bei jiang jun	208
+镇东将军	zhen dong jiang jun	211
+镇静	zhen jing	24
+镇南将军	zhen nan jiang jun	210
+镇西将军	zhen xi jiang jun	209
+征北将军	zheng bei jiang jun	216
+整备政令	zheng bei zheng ling	342
+征兵	zheng bing	384
+征东将军	zheng dong jiang jun	219
+征南将军	zheng nan jiang jun	218
+徵收	zheng shou	432
+徵税	zheng shui	433
+征西将军	zheng xi jiang jun	217
+治安	zhi an	420
+指导	zhi dao	438
+指挥	zhi hui	276
+执金吾	zhi jin wu	205
+忠诚	zhong cheng	319
+中介	zhong jie	258
+中郎	zhong lang	164
+中庐港	zhong lu gang	66
+重视斗志	zhong shi dou zhi	36
+重视防御	zhong shi fang yu	37
+重视攻击	zhong shi gong ji	38
+重视一击	zhong shi yi ji	35
+中书令	zhong shu ling	207
+忠义校尉	zhong yi xiao wei	163
+州刺史	zhou ci shi	232
+州牧	zhou mu	233
+主簿	zhu bu	167
+筑城	zhu cheng	445
+资金	zi jin	422
+资金收入	zi jin shou ru	415
+自军势力	zi jun shi li	248
+梓潼	zi tong	110
+走舸	zou ge	331
+奏乐	zou yue	447
+左将军	zuo jiang jun	195
+左仆射	zuo pu she	159

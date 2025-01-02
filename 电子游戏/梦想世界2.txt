@@ -1,0 +1,569 @@
+# 文件名：梦想世界2.scel
+# 词库名：梦想世界2
+# 词库分类：回合游戏
+# 词库描述：
+# 词条样例：逐风原 伏波港 千魂塔 千魂塔一层 千魂塔二层 蛮王殿
+# 词条数量：562
+
+八门金锁	ba men jin suo	266
+霸王卸甲	ba wang xie jia	315
+白虎堂总管	bai hu tang zong guan	470
+百花谷	bai hua gu	555
+拜火教	bai huo jiao	541
+白金项圈	bai jin xiang quan	235
+百马图	bai ma tu	148
+百鸟朝凤	bai niao chao feng	330
+白日做梦	bai ri zuo meng	316
+白芍药	bai shao yao	132
+百兽笼	bai shou long	103
+白素素	bai su su	491
+摆摊	bai tan	7
+百味酒	bai wei jiu	108
+帮贡排行榜	bang gong pai hang bang	369
+帮派车夫	bang pai che fu	467
+帮派大厨	bang pai da chu	466
+帮派福利	bang pai fu li	426
+帮派竞赛	bang pai jing sai	423
+帮派精英赛	bang pai jing ying sai	422
+帮派秘宝	bang pai mi bao	425
+帮派强盗	bang pai qiang dao	424
+帮派师爷	bang pai shi ye	472
+帮战	bang zhan	519
+帮助新人	bang zhu xin ren	427
+宝图	bao tu	524
+宝图秘境	bao tu mi jing	442
+宝图任务	bao tu ren wu	450
+暴雨梨花	bao yu li hua	320
+包总管	bao zong guan	487
+北漠城	bei mo cheng	556
+比武大会	bi wu da hui	435
+辟邪护符	bi xie hu fu	244
+碧玉项圈	bi yu xiang quan	236
+变身卡	bian shen ka	455
+兵临城下	bing lin cheng xia	432
+博山炉	bo shan lu	149
+布告板	bu gao ban	510
+布衣西文	bu yi xi wen	464
+彩蝶妖	cai die yao	400
+采花大盗	cai hua da dao	229
+苍茫山	cang mang shan	551
+草裙舞榜	cao qun wu bang	359
+长虹贯日	chang hong guan ri	317
+长明灯	chang ming deng	147
+长驱直入	chang qu zhi ru	332
+长寿面	chang shou mian	113
+超宝	chao bao	5
+超级宝图碎片	chao ji bao tu sui pian	172
+陈小妹	chen xiao mei	503
+成就排行榜	cheng jiu pai hang bang	373
+赤练蛇	chi lian she	411
+炽炎咒	chi yan zhou	300
+迟滞术	chi zhi shu	21
+冲锋陷阵	chong feng xian zhen	324
+宠物附魔	chong wu fu mo	344
+宠物装备丹	chong wu zhuang bei dan	190
+除魔	chu mo	526
+除魔任务	chu mo ren wu	452
+穿心刺	chuan xin ci	299
+慈悲为怀	ci bei wei huai	281
+慈航普度	ci hang pu du	19
+刺甲诀	ci jia jue	68
+大当家	da dang jia	16
+大海龟	da hai gui	415
+答题排行榜	da ti pai hang bang	363
+等级排行榜	deng ji pai hang bang	377
+地煞	di sha	2
+地煞符	di sha fu	265
+地煞星	di sha xing	429
+抵用金	di yong jin	87
+地载阵	di zai zhen	170
+地震	di zhen	162
+雕花木床	diao hua mu chuang	101
+豆腐	dou fu	114
+斗转星移	dou zhuan xing yi	322
+毒爆术	du bao shu	268
+毒步天下	du bu tian xia	269
+毒牙撕咬	du ya si yao	201
+盾武士	dun wu shi	395
+夺宝奇兵	duo bao qi bing	433
+夺命斩杀	duo ming zhan sha	333
+多益	duo yi	459
+二级古董	er ji gu dong	151
+返魂术	fan hun shu	66
+房屋管理	fang wu guan li	514
+防御附魔	fang yu fu mo	350
+飞行符	fei xing fu	138
+飞行旗	fei xing qi	137
+飞行旗补充包	fei xing qi bu chong bao	136
+飞雪堡	fei xue bao	550
+分光斩影	fen guang zhan ying	199
+风驰电掣	feng chi dian che	318
+风度排行榜	feng du pai hang bang	364
+疯狂法连	feng kuang fa lian	55
+疯狂连击	feng kuang lian ji	56
+风铃儿	feng ling er	79
+疯魔刺	feng mo ci	289
+风扬阵	feng yang zhen	169
+风阵	feng zhen	161
+佛跳墙	fo tiao qiang	116
+伏波港	fu bo gang	554
+富贵宫灯	fu gui gong deng	92
+芙蓉帘	fu rong lian	98
+复苏	fu su	20
+感知诀	gan zhi jue	71
+高必	gao bi	223
+高冲	gao chong	203
+高法爆	gao fa bao	206
+高法必	gao fa bi	204
+高法波	gao fa bo	205
+高法连	gao fa lian	207
+高反	gao fan	216
+高反震	gao fan zhen	215
+高防	gao fang	212
+高感知	gao gan zhi	213
+高连	gao lian	222
+高强	gao qiang	220
+高强壮	gao qiang zhuang	219
+高驱	gao qu	210
+高驱鬼	gao qu gui	208
+高驱神	gao qu shen	209
+高神	gao shen	218
+高神迹	gao shen ji	217
+高偷	gao tou	211
+高吸	gao xi	214
+高追	gao zhui	221
+功德排行榜	gong de pai hang bang	365
+攻击附魔	gong ji fu mo	346
+功绩排行榜	gong ji pai hang bang	371
+古董	gu dong	153
+蛊毒寄生	gu du ji sheng	202
+古树精	gu shu jing	394
+官职任务	guan zhi ren wu	446
+桂花糕	gui hua gao	177
+鬼火精	gui huo jing	408
+鬼哭神号	gui ku shen hao	311
+国色天香	guo se tian xiang	253
+还灵散	hai ling san	126
+海纳百川	hai na bai chuan	247
+海誓山盟	hai shi shan meng	249
+含沙射影	han sha she ying	196
+豪武者	hao wu zhe	86
+好心排行榜	hao xin pai hang bang	367
+豪宅	hao zhai	13
+合帮	he bang	15
+何首乌	he shou wu	133
+横扫千军	heng sao qian jun	342
+红鸾	hong luan	382
+红木剑	hong mu jian	179
+后发制人	hou fa zhi ren	325
+狐媚儿	hu mei er	477
+狐美人	hu mei ren	75
+虎翼阵	hu yi zhen	166
+虎阵	hu zhen	158
+画地为牢	hua di wei lao	258
+花好月圆	hua hao yue yuan	250
+花见花开	hua jian hua kai	230
+花解语	hua jie yu	76
+花精灵	hua jing ling	412
+桦木凳	hua mu deng	105
+花鸟屏风	hua niao ping feng	99
+化险为夷	hua xian wei yi	39
+花心大萝卜	hua xin da luo bo	227
+华宅	hua zhai	12
+环怪	huan guai	458
+还施水阁	huan shi shui ge	463
+还童丹	huan tong dan	154
+黄小虎	huang xiao hu	479
+慧海	hui hai	533
+讳疾忌医	hui ji ji yi	60
+回门术	hui men shu	288
+回神术	hui shen shu	65
+慧心诀	hui xin jue	282
+活动使者	huo dong shi zhe	515
+火灵咒令	huo ling zhou ling	301
+火焰冲击	huo yan chong ji	305
+疾风狼	ji feng lang	407
+疾风咒	ji feng zhou	264
+极乐回天	ji le hui tian	276
+鸡血石	ji xue shi	150
+驾驭宝典	jia yu bao dian	186
+驾驭术	jia yu shu	59
+家园排行榜	jia yuan pai hang bang	357
+剑武士	jian wu shi	404
+剑侠客	jian xia ke	81
+江湖悬赏令	jiang hu xuan shang ling	447
+江山如画	jiang shan ru hua	245
+僵尸怪	jiang shi guai	393
+叫花鸡	jiao hua ji	107
+交易中心	jiao yi zhong xin	520
+金疮药	jin chuang yao	128
+金刚精要	jin gang jing yao	353
+金戈铁马	jin ge tie ma	343
+禁鬼符	jin gui fu	259
+金钱树	jin qian shu	14
+金银花	jin yin hua	129
+金玉满堂	jin yu man tang	8
+净火咒	jing huo zhou	306
+惊雷咒	jing lei zhou	260
+精灵护符	jing ling hu fu	242
+精神打击	jing shen da ji	197
+经验心得	jing yan xin de	187
+九龙项圈	jiu long xiang quan	233
+九尾狐	jiu wei hu	385
+九转	jiu zhuan	125
+九转还魂丹	jiu zhuan huan hun dan	124
+剧毒缠绕	ju du chan rao	200
+聚神术	ju shen shu	28
+绝幻魔音	jue huan mo yin	52
+绝情谷	jue qing gu	543
+开天辟地	kai tian pi di	175
+烤乳猪	kao ru zhu	106
+可爱猫咪	ke ai mao mi	9
+空穴来风	kong xue lai feng	338
+口蜜腹剑	kou mi fu jian	32
+葵花精	kui hua jing	396
+腊八粥	la ba zhou	112
+老夫子	lao fu zi	504
+劳务	lao wu	493
+擂台药	lei tai yao	530
+力敌千钧	li di qian jun	335
+历练任务	li lian ren wu	439
+力劈华山	li pi hua shan	340
+炼宠	lian chong	527
+连环鹰击	lian huan ying ji	319
+烈刃杀	lie ren sha	295
+林小雪	lin xiao xue	534
+灵力附魔	ling li fu mo	347
+玲珑女	ling long nv	78
+灵石项圈	ling shi xiang quan	234
+领双	ling shuang	529
+另一个我	ling yi ge wo	232
+流星赶月	liu xing gan yue	321
+流星火雨	liu xing huo yu	309
+刘永福	liu yong fu	507
+流云地毯	liu yun di tan	93
+龙飞阵	long fei zhen	167
+龙凤柜	long feng gui	88
+龙虎风云榜	long hu feng yun bang	376
+龙角护符	long jiao hu fu	243
+龙腾四海	long teng si hai	331
+龙阵	long zhen	159
+绿林盗	lu lin dao	410
+鹿茸	lu rong	130
+陆啸风	lu xiao feng	490
+乱刃舞	luan ren wu	298
+乱舞冲击	luan wu chong ji	198
+罗汉果	luo han guo	134
+马将军	ma jiang jun	536
+马尾刺绣	ma wei ci xiu	141
+漫天花舞	man tian hua wu	286
+蛮王殿	man wang dian	545
+毛草团	mao cao tuan	413
+猫女侠	mao nv xia	409
+魅惑乾坤	mei huo qian kun	24
+魅力排行榜	mei li pai hang bang	375
+美人鱼	mei ren yu	403
+门派闯关	men pai chuang guan	437
+门派闯关榜	men pai chuang guan bang	360
+门派接引	men pai jie yin	522
+梦币	meng bi	6
+蒙面贼	meng mian zei	402
+梦想币	meng xiang bi	517
+梦想幻刺	meng xiang huan ci	391
+梦想灵猴	meng xiang ling hou	406
+梦想世界	meng xiang shi jie	461
+梦想桃仙	meng xiang tao xian	390
+梦想薇妮	meng xiang wei ni	508
+梦想鹦鹉	meng xiang ying wu	421
+梦想玉兔	meng xiang yu tu	398
+梦想战狼	meng xiang zhan lang	399
+妙手回春	miao shou hui chun	275
+明宝	ming bao	379
+命归术	ming gui shu	30
+明镜止水	ming jing zhi shui	47
+命疗术	ming liao shu	29
+鸣沙洲	ming sha zhou	552
+明心丸	ming xin wan	122
+明心咒	ming xin zhou	263
+明月	ming yue	496
+明月姬	ming yue ji	77
+魔爆熊	mo bao xiong	389
+魔动乾坤	mo dong qian kun	25
+莫三江	mo san jiang	498
+魔头	mo tou	11
+魔妖童	mo yao tong	397
+莫掌柜	mo zhang gui	531
+牡丹仙	mu dan xian	392
+穆玄音	mu xuan yin	476
+楠木桌	nan mu zhuo	104
+内秘心经	nei mi xin jing	351
+鸟翔阵	niao xiang zhen	165
+鸟阵	niao zhen	157
+凝神散	ning shen san	119
+凝神心法	ning shen xin fa	352
+宁心咒	ning xin zhou	48
+凝元丹	ning yuan dan	118
+牛魔将	niu mo jiang	388
+怒炎咒	nu yan zhou	307
+怒斩乾坤	nu zhan qian kun	26
+女弓侠	nv gong xia	405
+喷炎咒	pen yan zhou	310
+琵琶仙	pi pa xian	386
+劈石破玉	pi shi po yu	18
+辟邪草	pi xie cao	139
+平安镇	ping an zhen	562
+平乱伏波港	ping luan fu bo gang	445
+破力式	po li shi	38
+破魔式	po mo shi	37
+破魔咒	po mo zhou	53
+破耐式	po nai shi	36
+破碎无双	po sui wu shuang	31
+破体式	po ti shi	35
+破血咒	po xue zhou	54
+菩提咒	pu ti zhou	287
+旗包	qi bao	135
+七宝丹炉	qi bao dan lu	100
+栖凤笼	qi feng long	91
+气归术	qi gui shu	58
+气疗术	qi liao shu	57
+起死回生	qi si hui sheng	283
+七弦古琴	qi xian gu qin	142
+气血附魔	qi xue fu mo	348
+奇遇	qi yu	457
+千佛像	qian fo xiang	146
+千魂塔	qian hun ta	548
+千魂塔二层	qian hun ta er ceng	546
+千魂塔一层	qian hun ta yi ceng	547
+千羽锦衣	qian yu jin yi	238
+强化防御	qiang hua fang yu	63
+强化攻击	qiang hua gong ji	64
+强化魔力	qiang hua mo li	62
+切磋排行榜	qie cuo pai hang bang	374
+清风	qing feng	497
+青花陶瓷	qing hua tao ci	144
+清净咒	qing jing zhou	285
+青龙堂总管	qing long tang zong guan	471
+青山图	qing shan tu	97
+清水湾	qing shui wan	561
+青藤软甲	qing teng ruan jia	240
+清心咒	qing xin zhou	67
+清虚观	qing xu guan	540
+穷光蛋	qiong guang dan	226
+驱毒丸	qu du wan	117
+驱鬼诀	qu gui jue	70
+染料	ran liao	184
+染色师	ran se shi	516
+人参	ren shen	131
+人生如梦	ren sheng ru meng	312
+人物附魔	ren wu fu mo	345
+人物经验心得	ren wu jing yan xin de	188
+任务链	ren wu lian	484
+仁心良术	ren xin liang shu	61
+熔岩爆弹	rong yan bao dan	304
+如意宝玉	ru yi bao yu	194
+如意柜	ru yi gui	102
+弱化防御	ruo hua fang yu	44
+弱化攻击	ruo hua gong ji	45
+弱化魔抗	ruo hua mo kang	42
+弱化魔力	ruo hua mo li	43
+三环套日	san huan tao ri	336
+三昧真火	san mei zhen huo	308
+三人成虎	san ren cheng hu	231
+三元归命丸	san yuan gui ming wan	121
+沙包	sha bao	178
+善恶排行榜	shan e pai hang bang	368
+山海经	shan hai jing	180
+珊瑚树	shan hu shu	96
+山水	shan shui	4
+蛇胆酒	she dan jiu	109
+蛇蟠阵	she pan zhen	164
+舍身一搏	she shen yi bo	341
+蛇阵	she zhen	156
+申请	shen qing	483
+神兽百灵羊	shen shou bai ling yang	419
+神兽使者	shen shou shi zhe	513
+神兽小飞猪	shen shou xiao fei zhu	417
+神兽啸天虎	shen shou xiao tian hu	418
+神兽祝福石	shen shou zhu fu shi	193
+神武	shen wu	460
+神武心经	shen wu xin jing	354
+生产技能	sheng chan ji neng	523
+生生再造丹	sheng sheng zai zao dan	120
+生死与共	sheng si yu gong	256
+师道殿	shi dao dian	558
+师门奇遇	shi men qi yu	456
+师门任务	shi men ren wu	453
+十面埋伏	shi mian mai fu	293
+势如破竹	shi ru po zhu	329
+式无常法	shi wu chang fa	40
+饰物碎片	shi wu sui pian	185
+守护百花谷	shou hu bai hua gu	444
+兽王秘宝	shou wang mi bao	438
+兽王战袍	shou wang zhan pao	237
+四海升平	si hai sheng ping	248
+司空醉	si kong zui	488
+四羊方尊	si yang fang zun	143
+宋小二	song xiao er	532
+送子青莲	song zi qing lian	182
+速度附魔	su du fu mo	349
+孙婆婆	sun po po	511
+锁喉术	suo hou shu	290
+太乙神雷	tai yi shen lei	174
+檀木屏风	tan mu ping feng	95
+逃脱	tao tuo	73
+天蚕丝甲	tian can si jia	239
+天策府	tian ce fu	544
+天禅子	tian chan zi	80
+天覆阵	tian fu zhen	171
+天甘玉露	tian gan yu lu	277
+天罡	tian gang	3
+天罡排行榜	tian gang pai hang bang	362
+天罡星	tian gang xing	430
+天罡战气	tian gang zhan qi	279
+天机子	tian ji zi	495
+天雷地火	tian lei di huo	195
+天雷破	tian lei po	261
+天使护符	tian shi hu fu	241
+天阵	tian zhen	163
+铁匠	tie jiang	528
+庭院排行榜	ting yuan pai hang bang	356
+偷袭诀	tou xi jue	69
+图穷匕见	tu qiong bi xian	296
+兔勇士	tu yong shi	401
+推广员	tui guang yuan	478
+推气过宫	tui qi guo gong	284
+蛙剑客	wa jian ke	387
+顽皮龙猫	wan pi long mao	10
+万物回春	wan wu hui chun	23
+王翰林	wang han lin	537
+望梅止渴	wang mei zhi ke	334
+薇妮	wei ni	380
+尾生	wei sheng	465
+无常咒	wu chang zhou	272
+五毒断魂	wu du duan hun	292
+武魂老人	wu hun lao ren	481
+武魂塔	wu hun ta	440
+武林魔头	wu lin mo tou	441
+武林争霸	wu lin zheng ba	431
+物品寄售	wu pin ji shou	521
+武乾坤	wu qian kun	535
+雾隐刺	wu yin ci	297
+无中生有	wu zhong sheng you	294
+西昆仑	xi kun lun	549
+吸魔	xi mo	50
+西文	xi wen	462
+吸血	xi xue	51
+夏城主	xia cheng zhu	538
+侠骨柔情	xia gu rou qing	251
+霞光榻	xia guang ta	89
+侠客任务	xia ke ren wu	451
+侠义排行榜	xia yi pai hang bang	366
+先发制人	xian fa zhi ren	326
+仙灵鹤	xian ling he	384
+仙兽大熊猫	xian shou da xiong mao	416
+仙兽饰物精华	xian shou shi wu jing hua	155
+仙兽祝福石	xian shou zhu fu shi	192
+降魔印	xiang mo yin	273
+想入非非	xiang ru fei fei	327
+相濡以沫	xiang ru yi mo	257
+笑傲江湖	xiao ao jiang hu	255
+笑里藏刀	xiao li cang dao	33
+小青	xiao qing	501
+潇湘子	xiao xiang zi	85
+逍遥	xiao yao	383
+逍遥散	xiao yao san	123
+逍遥生	xiao yao sheng	82
+逍遥椅	xiao yao yi	94
+心疗术	xin liao shu	49
+心神合一	xin shen he yi	27
+新手指导员	xin shou zhi dao yuan	502
+星儿	xing er	489
+星火燎原	xing huo liao yuan	302
+幸运数字	xing yun shu zi	72
+雄霸天下	xiong ba tian xia	254
+熊魂之怒	xiong hun zhi nu	314
+秀兰	xiu lan	485
+修炼宝箱	xiu lian bao xiang	428
+修炼丹	xiu lian dan	173
+修炼排行榜	xiu lian pai hang bang	372
+修炼任务	xiu lian ren wu	448
+虚空禁锢	xu kong jin gu	267
+续命术	xu ming shu	46
+选美排行榜	xuan mei pai hang bang	358
+悬赏令	xuan shang ling	518
+玄武堂总管	xuan wu tang zong guan	468
+薛城守	xue cheng shou	480
+血蝠撕咬	xue fu si yao	313
+雪狐狸	xue hu li	420
+血还丹	xue huan dan	127
+薛烈风	xue lie feng	499
+血灵咒	xue ling zhou	270
+雪琪	xue qi	378
+学徒出师榜	xue tu chu shi bang	370
+血战鸣沙洲	xue zhan ming sha zhou	443
+炎爆术	yan bao shu	303
+燕归云	yan gui yun	84
+烟花使者	yan hua shi zhe	509
+炎煌	yan huang	381
+摇钱树	yao qian shu	434
+药师诀	yao shi jue	278
+药王蛊	yao wang gu	271
+药王宗	yao wang zong	539
+野山猪	ye shan zhu	414
+义薄云天	yi bo yun tian	246
+一级古董	yi ji gu dong	152
+一见钟情	yi jian zhong qing	228
+一骑当千	yi qi dang qian	323
+以逸待劳	yi yi dai lao	337
+银耳羹	yin er geng	115
+引雷诀	yin lei jue	262
+萤光草	ying guang cao	140
+英雄本色	ying xiong ben se	252
+御风术	yu feng shu	22
+玉罗刹	yu luo cha	83
+御前科举	yu qian ke ju	436
+御前科举榜	yu qian ke ju bang	361
+玉琼浆	yu qiong jiang	111
+袁四海	yuan si hai	482
+元宵使者	yuan xiao shi zhe	512
+乐府编钟	yue fu bian zhong	145
+月琉璃	yue liu li	454
+月牙湾	yue ya wan	553
+运镖	yun biao	525
+运镖任务	yun biao ren wu	449
+云垂阵	yun chui zhen	168
+云惊梦	yun jing meng	492
+云梦	yun meng	1
+云梦泽	yun meng ze	557
+云阵	yun zhen	160
+泽被苍生	ze bei cang sheng	280
+张顺的	zhang shun de	505
+召唤兽经验心得	zhao huan shou jing yan xin de	189
+招无常式	zhao wu chang shi	41
+珍露酒	zhen lu jiu	110
+真武门	zhen wu men	542
+真言咒	zhen yan zhou	274
+直捣黄龙	zhi dao huang long	328
+知己知彼	zhi ji zhi bi	34
+制造图纸	zhi zao tu zhi	224
+中州城	zhong zhou cheng	559
+中州传送	zhong zhou chuan song	494
+周小舟	zhou xiao zhou	486
+逐风原	zhu feng yuan	560
+祝福石	zhu fu shi	191
+竹马	zhu ma	176
+朱雀堂总管	zhu que tang zong guan	469
+专注连击	zhuan zhu lian ji	339
+装备强化石	zhuang bei qiang hua shi	225
+装备商	zhuang bei shang	506
+庄园车夫	zhuang yuan che fu	473
+庄园货郎	zhuang yuan huo lang	474
+庄园排行榜	zhuang yuan pai hang bang	355
+庄园渔夫	zhuang yuan yu fu	475
+追捕	zhui bu	74
+追魂夺魄	zhui hun duo po	291
+子母河水	zi mu he shui	17
+子女还童泉	zi nv huan tong quan	181
+子女名册	zi nv ming ce	183
+紫檀桌	zi tan zhuo	90
+组队集结人	zu dui ji jie ren	500

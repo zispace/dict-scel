@@ -1,0 +1,392 @@
+# 文件名：冒险岛怪物.scel
+# 词库名：冒险岛怪物
+# 词库分类：冒险岛
+# 词库描述：
+# 词条样例：绿蜗牛 蘑菇仔 猪猪 黑木妖 邪恶箱子礼物 猪猪boss
+# 词条数量：385
+
+阿丁的分身	a ding de fen shen	304
+艾利杰	ai li jie	68
+暗黑半人马	an hei ban ren ma	75
+暗黑龙王的翅膀	an hei long wang de chi bang	7
+暗黑龙王的灵魂	an hei long wang de ling hun	384
+暗黑龙王的腿	an hei long wang de tui	6
+暗黑龙王的尾巴	an hei long wang de wei ba	5
+暗黑龙王的右侧头颅	an hei long wang de you ce tou lu	10
+暗黑龙王的右手	an hei long wang de you shou	8
+暗黑龙王的左侧头颅	an hei long wang de zuo ce tou lu	11
+暗黑龙王的左手	an hei long wang de zuo shou	9
+白公鸡	bai gong ji	360
+白狼	bai lang	173
+白狼人	bai lang ren	90
+白老虎	bai lao hu	69
+白外星人队长	bai wai xing ren dui zhang	239
+白外星人司令	bai wai xing ren si ling	213
+白外星人卫兵	bai wai xing ren wei bing	264
+白外星人长官	bai wai xing ren zhang guan	224
+白雪人	bai xue ren	142
+蝙蝠	bian fu	355
+蝙蝠怪	bian fu guai	310
+蝙蝠魔	bian fu mo	46
+变身小鬼怪	bian shen xiao gui guai	170
+变形白雪人	bian xing bai xue ren	141
+变形黑雪人	bian xing hei xue ren	130
+变形小白雪人	bian xing xiao bai xue ren	209
+变形小黑雪人	bian xing xiao hei xue ren	181
+变种小蜥蜴	bian zhong xiao xi yi	37
+变种侏儒怪	bian zhong zhu ru guai	93
+冰独眼兽	bing du yan shou	262
+冰龙	bing long	144
+冰石球	bing shi qiu	317
+长枪牛魔王	chang qiang niu mo wang	100
+赤龙	chi long	168
+吹泡泡双鱼	chui pao pao shuang yu	287
+吹泡泡鱼皇	chui pao pao yu huang	270
+刺蘑菇	ci mo gu	345
+刺鳍鱼	ci qi yu	79
+刺鳍鱼之屋	ci qi yu zhi wu	70
+大恶灵附身的娃娃	da e ling fu shen de wa wa	134
+打鼓兔子	da gu tu zi	367
+大海马	da hai ma	334
+大海兽	da hai shou	22
+大海贼	da hai zei	60
+大海贼王	da hai zei wang	50
+大立钟	da li zhong	126
+大龙虾	da long xia	315
+大头鸭	da tou ya	347
+大王蜈蚣	da wang wu gong	207
+大幽灵	da you ling	214
+大宇	da yu	253
+德里	de li	155
+灯笼鬼	deng long gui	254
+地狱木马	di yu mu ma	255
+雕像	diao xiang	1
+丁满	ding man	322
+斗鸡	dou ji	356
+独角小丑鱼	du jiao xiao chou yu	339
+独眼蝙蝠	du yan bian fu	364
+多多	duo duo	4
+多尔	duo er	115
+鳄鳄	e e	143
+恶灵附身的娃娃	e ling fu shen de wa wa	147
+恶魔绵羊	e mo mian yang	74
+恶魔之父	e mo zhi fu	246
+恶魔之母	e mo zhi mu	225
+恶小丑杰克	e xiao chou jie ke	311
+恶小丑杰克的盒子	e xiao chou jie ke de he zi	312
+鳄鱼	e yu	300
+耳罩壁虎	er zhao bi hu	335
+法兰肯	fa lan ken	65
+飞行雀	fei xing que	302
+风独眼兽	feng du yan shou	285
+斧木妖	fu mu yao	359
+浮士德	fu shi de	202
+钢甲猪	gang jia zhu	230
+高级大立钟	gao ji da li zhong	98
+公沙沙兔	gong sha sha tu	349
+孤单白雪人	gu dan bai xue ren	140
+孤单黑企鹅王	gu dan hei qi e wang	145
+孤单黑雪人	gu dan hei xue ren	129
+孤单企鹅王	gu dan qi e wang	166
+骨骸鱼	gu hai yu	62
+古木妖	gu mu yao	358
+怪猫	guai mao	151
+鬼火	gui huo	352
+哈闷气球	ha men qi qiu	85
+哈维	ha wei	91
+海狮	hai shi	242
+寒冰半人马	han bing ban ren ma	76
+豪猪	hao zhu	245
+河童	he tong	159
+黑暗莱西	hei an lai xi	102
+黑鳄鱼	hei e yu	195
+黑飞龙	hei fei long	40
+黑斧木妖	hei fu mu yao	373
+黑海参	hei hai shen	344
+黑甲凶灵	hei jia xiong ling	31
+黑恐龙	hei kong long	132
+黑绵羊	hei mian yang	276
+黑魔法师的小辈	hei mo fa shi de xiao bei	370
+黑木妖	hei mu yao	375
+黑企鹅王	hei qi e wang	146
+黑色飞狮	hei se fei shi	118
+黑山老妖	hei shan lao yao	138
+黑山羊	hei shan yang	288
+黑食人花	hei shi ren hua	221
+黑石头人	hei shi tou ren	175
+黑熊	hei xiong	89
+黑雪人	hei xue ren	131
+黑妖苗苗	hei yao miao miao	251
+黑妖苗苗兄弟	hei yao miao miao xiong di	248
+红变异螺母	hong bian yi luo mu	198
+红独角狮	hong du jiao shi	192
+红飞龙	hong fei long	52
+红海龟龙	hong hai gui long	61
+红花蛇	hong hua she	226
+红螃蟹	hong pang xie	274
+红色沙漠矮人	hong se sha mo ai ren	250
+红水灵	hong shui ling	161
+红蜗牛	hong wo niu	381
+红蜗牛王	hong wo niu wang	353
+红蜥蜴	hong xi yi	259
+红小丑	hong xiao chou	137
+红蜘蛛	hong zhi zhu	326
+猴子	hou zi	273
+蝴蝶精	hu die jing	320
+虎精	hu jing	189
+葫芦	hu lu	369
+花花青鲇鱼	hua hua qing nian yu	323
+花蘑菇	hua mo gu	376
+黄独角狮	huang du jiao shi	191
+黄积木怪	huang ji mu guai	243
+黄金蛋	huang jin dan	368
+黄色鬼怪	huang se gui guai	119
+黄蜥蜴	huang xi yi	330
+黄小丑	huang xiao chou	152
+灰豪猪	hui hao zhu	238
+混种石头人	hun zhong shi tou ren	172
+火独眼兽	huo du yan shou	329
+火精灵	huo jing ling	197
+火狸猫	huo li mao	307
+火石球	huo shi qiu	318
+火焰半人马	huo yan ban ren ma	77
+火焰猎犬	huo yan lie quan	72
+火焰龙	huo yan long	36
+火野猪	huo ye zhu	301
+吉米拉	ji mi la	63
+计时啾啾	ji shi jiu jiu	289
+尖鼻鲨鱼	jian bi sha yu	41
+僵尸	jiang shi	178
+僵尸猴	jiang shi hou	257
+僵尸蘑菇	jiang shi mo gu	336
+僵尸蘑菇王	jiang shi mo gu wang	139
+桔梗精	jie geng jing	193
+金属甲虫	jin shu jia chong	97
+荆棘草	jing ji cao	95
+九尾狐	jiu wei hu	113
+巨大云狐	ju da yun hu	204
+巨化金人	ju hua jin ren	16
+巨化银人	ju hua yin ren	18
+巨居蟹	ju ju xie	163
+巨鹰	ju ying	54
+凯丁	kai ding	123
+凯琳超人形态	kai lin chao ren xing tai	21
+凯琳的分身	kai lin de fen shen	86
+克鲁	ke lu	128
+肯德熊	ken de xiong	88
+空军雀	kong jun que	265
+骷髅龙	ku lou long	30
+骷髅犬	ku lou quan	233
+骷髅士兵	ku lou shi bing	176
+骷髅士官	ku lou shi guan	149
+骷髅指挥官	ku lou zhi hui guan	104
+矿山僵尸	kuang shan jiang shi	177
+傀儡娃娃	kui lei wa wa	205
+垃圾桶小鬼	la ji tong xiao gui	351
+癞蛤蟆	lai ha ma	325
+莱西	lai xi	125
+蓝变异螺母	lan bian yi luo mu	199
+蓝刺豚	lan ci tun	261
+蓝独角狮	lan du jiao shi	190
+蓝飞龙	lan fei long	42
+蓝海龟龙	lan hai gui long	71
+蓝帽海贼	lan mao hai zei	82
+蓝蘑菇	lan mo gu	357
+蓝蘑菇王	lan mo gu wang	66
+蓝泡泡翻车鱼	lan pao pao fan che yu	327
+蓝色鬼怪	lan se gui guai	121
+蓝水灵	lan shui ling	361
+蓝蜗牛	lan wo niu	383
+狼人	lang ren	99
+老板	lao ban	43
+老骷髅龙	lao ku lou long	27
+老山参精	lao shan shen jing	187
+雷卡	lei ka	3
+犁杖牛	li zhang niu	268
+猎犬	lie quan	106
+陆陆猫	lu lu mao	109
+罗密欧	luo mi ou	110
+螺母	luo mu	201
+洛伊德	luo yi de	154
+氯化洛伊德	lv hua luo yi de	153
+绿帽海贼	lv mao hai zei	78
+绿蘑菇	lv mo gu	362
+绿色鬼怪	lv se gui guai	120
+绿水灵	lv shui ling	379
+绿水灵王	lv shui ling wang	350
+绿蜗牛	lv wo niu	385
+绿蜘蛛	lv zhi zhu	341
+满月	man yue	365
+蟒蛇	mang she	169
+秘籍	mi ji	183
+秘籍猿公	mi ji yuan gong	20
+绵羊	mian yang	333
+妙仙	miao xian	135
+魔方	mo fang	249
+蘑菇王	mo gu wang	164
+蘑菇仔	mo gu zai	382
+魔精灵	mo jing ling	286
+木马骑兵	mu ma qi bing	267
+木马骑士	mu ma qi shi	266
+木面怪人	mu mian guai ren	340
+木乃伊犬	mu nai yi quan	218
+母沙沙兔	mu sha sha tu	354
+木妖	mu yao	380
+木鱼妖	mu yu yao	34
+男飞贼	nan fei zei	56
+男机器人	nan ji qi ren	244
+闹钟啾啾	nao zhong jiu jiu	258
+泥人妖	ni ren yao	33
+女飞贼	nv fei zei	55
+女机器人	nv ji qi ren	235
+帕普拉图斯	pa pu la tu si	23
+帕普拉图斯的座钟	pa pu la tu si de zuo zhong	24
+帕兹	pa zi	136
+帕兹王	pa zi wang	122
+胖球鱼	pang qiu yu	299
+皮亚奴斯右	pi ya nu si you	28
+皮亚奴斯左	pi ya nu si zuo	29
+漂漂猪	piao piao zhu	374
+品克宾	pin ke bin	2
+企鹅王	qi e wang	167
+企鹅王与白雪人	qi e wang yu bai xue ren	92
+企鹅王与黑雪人	qi e wang yu hei xue ren	84
+潜水企鹅	qian shui qi e	277
+强化版螺母	qiang hua ban luo mu	200
+青花蛇	qing hua she	232
+青积木怪	qing ji mu guai	229
+青龙	qing long	212
+青螃蟹	qing pang xie	216
+青蛇	qing she	348
+青蛙	qing wa	377
+青竹武士	qing zhu wu shi	114
+人参坛子	ren shen tan zi	215
+日光精灵	ri guang jing ling	194
+赛一特	sai yi te	112
+三尾狐	san wei hu	179
+三眼章鱼	san yan zhang yu	363
+沙漠矮人	sha mo ai ren	295
+沙漠毒蝎	sha mo du xie	303
+沙漠巨人	sha mo ju ren	256
+沙漠蛇先生	sha mo she xian sheng	337
+沙漠土拨鼠	sha mo tu bo shu	305
+鲨鱼	sha yu	47
+山羊	shan yang	316
+生气的法兰肯	sheng qi de fa lan ken	64
+时间门神	shi jian men shen	32
+时间球	shi jian qiu	45
+石面怪人	shi mian guai ren	338
+石球	shi qiu	319
+食人花	shi ren hua	240
+石头人	shi tou ren	184
+石像鬼	shi xiang gui	148
+石像鬼将	shi xiang gui jiang	133
+石像鬼王	shi xiang gui wang	127
+嗜血单眼怪	shi xue dan yan guai	101
+时之鬼兵	shi zhi gui bing	103
+时之鬼将	shi zhi gui jiang	94
+时之鬼爵	shi zhi gui jue	58
+时之鬼王	shi zhi gui wang	49
+书生鬼	shu sheng gui	117
+树妖王	shu yao wang	313
+水老鼠	shui lao shu	278
+死灵	si ling	80
+死灵王	si ling wang	73
+松松	song song	263
+苏菲亚的娃娃	su fei ya de wa wa	206
+贪吃鬼	tan chi gui	309
+坛子	tan zi	219
+提莫	ti mo	156
+天鹿	tian lu	174
+天鹰	tian ying	35
+铁甲猪	tie jia zhu	241
+铜人	tong ren	25
+秃鹫先生	tu jiu xian sheng	314
+土龙	tu long	231
+驮狼雪人	tuo lang xue ren	67
+外星章鱼激光棒	wai xing zhang yu ji guang bang	223
+外星章鱼枪	wai xing zhang yu qiang	247
+外星章鱼闪电棒	wai xing zhang yu shan dian bang	188
+外星章鱼坦克	wai xing zhang yu tan ke	234
+玩具白鼠	wan ju bai shu	297
+玩具粉熊	wan ju fen xiong	298
+玩具黑鼠	wan ju hei shu	291
+玩具鸭	wan ju ya	290
+玩具战机	wan ju zhan ji	272
+玩具棕熊	wan ju zong xiong	321
+亡灵	wang ling	160
+围巾壁虎	wei jin bi hu	328
+乌龟	wu gui	222
+武林妖僧	wu lin yao seng	12
+武林妖僧分身	wu lin yao seng fen shen	13
+巫婆	wu po	185
+乌鸦	wu ya	308
+乌贼怪	wu zei guai	59
+犀牛龙	xi niu long	57
+犀牛龙怪	xi niu long guai	53
+仙人玩偶	xian ren wan ou	157
+仙人掌爸爸	xian ren zhang ba ba	324
+仙人掌宝宝	xian ren zhang bao bao	346
+仙人掌妈妈	xian ren zhang ma ma	331
+香炉怪	xiang lu guai	44
+橡木甲虫	xiang mu jia chong	107
+小白雪鬼	xiao bai xue gui	366
+小白雪人	xiao bai xue ren	210
+小恶魔	xiao e mo	275
+小鬼怪	xiao gui guai	171
+小海豹	xiao hai bao	271
+小海马	xiao hai ma	342
+小黑水雷	xiao hei shui lei	108
+小黑雪鬼	xiao hei xue gui	296
+小黑雪人	xiao hei xue ren	182
+小虎	xiao hu	211
+小金人	xiao jin ren	17
+小猎犬	xiao lie quan	237
+小企鹅王	xiao qi e wang	283
+小石球	xiao shi qiu	343
+小铜人	xiao tong ren	26
+小蜥蜴	xiao xi yi	38
+小幽灵	xiao you ling	282
+邪恶短刃蜥蜴	xie e duan ren xi yi	48
+邪恶绵羊	xie e mian yang	81
+邪恶食人花	xie e shi ren hua	220
+邪恶双刀蜥蜴	xie e shuang dao xi yi	39
+邪恶箱子爆炸	xie e xiang zi bao zha	371
+邪恶箱子礼物	xie e xiang zi li wu	372
+邪恶侏儒怪	xie e zhu ru guai	96
+谢尔德	xie er de	158
+歇尔夫	xie er fu	203
+邪术娃娃	xie shu wa wa	162
+星光精灵	xing guang jing ling	281
+熊猫	xiong mao	165
+熊猫娃娃	xiong mao wa wa	279
+修炼用稻草人	xiu lian yong dao cao ren	252
+雪山魔女	xue shan mo nv	116
+血腥哈维	xue xing ha wei	83
+训练用稻草娃娃	xun lian yong dao cao wa wa	208
+训练用木娃娃	xun lian yong mu wa wa	196
+妖怪禅师	yao guai chan shi	87
+野狼	ye lang	186
+野猪	ye zhu	332
+银人	yin ren	19
+幼红独角狮	you hong du jiao shi	294
+幼黄独角狮	you huang du jiao shi	293
+幼蓝独角狮	you lan du jiao shi	292
+幼魔精灵	you mo jing ling	284
+猿公	yuan gong	150
+月光精灵	yue guang jing ling	228
+月妙	yue miao	227
+月牙牛魔王	yue ya niu mo wang	124
+云狐	yun hu	306
+运输机	yun shu ji	269
+扎昆手臂	zha kun shou bi	15
+扎昆主体	zha kun zhu ti	14
+战甲吹泡泡鱼	zhan jia chui pao pao yu	217
+长牙海象	zhang ya hai xiang	236
+致命乌贼怪	zhi ming wu zei guai	51
+直升机	zhi sheng ji	280
+朱丽叶	zhu li ye	111
+侏儒怪	zhu ru guai	105
+猪猪	zhu zhu	378
+紫刺豚	zi ci tun	260
+棕熊	zong xiong	180

@@ -1,0 +1,40 @@
+# 文件名：三国杀DIY词库.scel
+# 词库名：三国杀DIY词库
+# 词库分类：角色扮演
+# 词库描述：
+# 词条样例：抽取 摸一张牌 出牌阶段 少摸一张 武将牌翻面 受到一点伤害
+# 词条数量：33
+
+标记	biao ji	9
+抽取	chou qu	32
+出牌阶段	chu pai jie duan	30
+出牌阶段限一次	chu pai jie duan xian yi ci	25
+非锁定技失效	fei suo ding ji shi xiao	13
+观看	guan kan	15
+回合外	hui he wai	26
+将一半	jiang yi ban	5
+结算后	jie suan hou	2
+可以	ke yi	4
+立即	li ji	3
+流失	liu shi	21
+每阶段限一次	mei jie duan xian yi ci	24
+摸牌阶段	mo pai jie duan	28
+摸一张牌	mo yi zhang pai	31
+判定牌生效前	pan ding pai sheng xiao qian	16
+其他角色计算与你的距离始终	qi ta jue se ji suan yu ni de ju li shi zhong	6
+弃置	qi zhi	33
+然后获得	ran hou huo de	1
+伤害来源	shang hai lai yuan	19
+少摸一张	shao mo yi zhang	29
+使用或打出	shi yong huo da chu	14
+受到一点伤害	shou dao yi dian shang hai	20
+手牌	shou pai	7
+手牌上限	shou pai shang xian	27
+跳过	tiao guo	10
+武将牌翻面	wu jiang pai fan mian	23
+响应	xiang ying	18
+展示	zhan shi	8
+指定目标	zhi ding mu biao	22
+置入	zhi ru	11
+转移	zhuan yi	17
+装备区	zhuang bei qu	12
