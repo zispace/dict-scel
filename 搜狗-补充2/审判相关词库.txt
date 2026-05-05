@@ -1,0 +1,560 @@
+# 词库名称: 审判相关词库
+# 词库分类: 个人专用
+# 词库描述: 和审判相关的词库
+# 词条样例: 医药费、劳动关系、草原、共同故意、共同过失、工程款
+# 解析词数: 553
+# 解析异常: 0
+
+案号	an hao	86
+案件事实	an jian shi shi	257
+案款	an kuan	408
+案外人	an wai ren	414
+安置费	an zhi fei	415
+瘢痕	ban hen	65
+办证	ban zheng	441
+报告单	bao gao dan	171
+包块	bao kuai	106
+煲汤	bao tang	45
+被抚养人	bei fu yang ren	413
+被告	bei gao	410
+被侵权人	bei qin quan ren	6
+被上诉人	bei shang su ren	416
+本条	ben tiao	389
+本院	ben yuan	390
+本院不予采纳	ben yuan bu yu cai na	135
+本院不予采信	ben yuan bu yu cai xin	136
+本院予以采信	ben yuan yu yi cai xin	137
+闭合性	bi he xing	97
+避让	bi rang	426
+辩称	bian cheng	353
+标线	biao xian	178
+并向	bing xiang	366
+剥除	bo chu	101
+不具	bu ju	72
+不可推卸	bu ke tui xie	161
+不予采纳	bu yu cai na	487
+不予采信	bu yu cai xin	488
+不予确认	bu yu que ren	489
+不予认可	bu yu ren ke	484
+不予支持	bu yu zhi chi	486
+财产保全	cai chan bao quan	439
+财产损害	cai chan sun hai	250
+裁定书	cai ding shu	497
+财险	cai xian	265
+采信	cai xin	515
+残疾赔偿金	can ji pei chang jin	262
+参加诉讼	can jia su song	199
+残值	can zhi	38
+草原	cao yuan	548
+侧滑	ce hua	290
+侧们	ce men	138
+测试题	ce shi ti	461
+差旅	chai lv	300
+产品责任	chan pin ze ren	235
+场部	chang bu	500
+昌吉市	chang ji shi	460
+昌吉市人民法院	chang ji shi ren min fa yuan	229
+车闸	che zha	446
+陈旧性	chen jiu xing	52
+承保	cheng bao	32
+承包户	cheng bao hu	540
+承揽人	cheng lan ren	538
+诚实信用	cheng shi xin yong	318
+尺骨	chi gu	130
+冲抵	chong di	358
+冲减	chong jian	357
+重做	chong zuo	380
+处方笺	chu fang jian	367
+出警	chu jing	541
+出院证	chu yuan zheng	172
+传唤	chuan huan	348
+次要责任	ci yao ze ren	190
+此组	ci zu	140
+存款凭条	cun kuan ping tiao	526
+村民委员会	cun min wei yuan hui	388
+存续	cun xu	524
+挫裂	cuo lie	69
+挫裂伤	cuo lie shang	288
+答辩状	da bian zhuang	372
+大小便	da xiao bian	82
+带班	dai ban	482
+代表人	dai biao ren	197
+代偿	dai chang	42
+代理审判员	dai li shen pan yuan	345
+代理书记员	dai li shu ji yuan	346
+代收人	dai shou ren	339
+当属	dang shu	71
+当庭	dang ting	297
+道路交通安全法	dao lu jiao tong an quan fa	356
+道路交通事故	dao lu jiao tong shi gu	259
+到庭	dao ting	483
+地坪	di ping	511
+地税局	di shui ju	492
+第一	di yi	369
+滴注	di zhu	46
+电子书	dian zi shu	216
+调取	diao qu	321
+跌落	die luo	453
+定残	ding can	278
+定损	ding sun	418
+定作	ding zuo	417
+定作人	ding zuo ren	406
+短绒	duan rong	89
+对帐	dui zhang	533
+钝物	dun wu	241
+钝性	dun xing	285
+多发	duo fa	53
+多发性	duo fa xing	54
+二轮	er lun	186
+二审	er shen	508
+法定代表人	fa ding dai biao ren	467
+法定代理人	fa ding dai li ren	466
+法律服务所	fa lv fu wu suo	463
+法律工作者	fa lv gong zuo zhe	198
+法医鉴定费	fa yi jian ding fei	471
+法医学	fa yi xue	238
+翻土	fan tu	376
+房产证	fang chan zheng	313
+分包	fen bao	331
+粉煤灰	fen mei hui	283
+粉碎性	fen sui xing	286
+分析说明	fen xi shuo ming	267
+分项	fen xiang	85
+复秤	fu cheng	379
+福海	fu hai	230
+妇检	fu jian	104
+抚慰金	fu wei jin	396
+复印费	fu yin fei	217
+盖然	gai ran	236
+盖然性	gai ran xing	234
+割草机	ge cao ji	209
+割伤	ge shang	208
+工程款	gong cheng kuan	545
+供方	gong fang	350
+公共安全	gong gong an quan	206
+宫颈	gong jing	103
+公路段	gong lu duan	343
+公平正义	gong ping zheng yi	227
+共同故意	gong tong gu yi	547
+共同过失	gong tong guo shi	546
+工资表	gong zi biao	544
+构成要件	gou cheng yao jian	16
+构筑物	gou zhu wu	1
+股骨头	gu gu tou	519
+古丽	gu li	144
+挂靠费	gua kao fei	193
+挂帐	gua zhang	400
+管辖权	guan xia quan	377
+光片	guang pian	464
+归责	gui ze	455
+归责原则	gui ze yuan ze	2
+过秤	guo cheng	495
+过称	guo cheng	494
+过错责任	guo cuo ze ren	5
+过街	guo jie	496
+过路费	guo lu fei	502
+果蔬	guo shu	44
+国土资源	guo tu zi yuan	231
+海涛	hai tao	43
+豪爵	hao jue	151
+号牌	hao pai	293
+核磁	he ci	33
+合议	he yi	87
+合议庭	he yi ting	328
+横道	heng dao	301
+衡平	heng ping	19
+红山	hong shan	327
+宏源	hong yuan	90
+后伸	hou shen	61
+后缘	hou yuan	64
+互负	hu fu	194
+护理费	hu li fei	399
+呼图壁	hu tu bi	298
+呼图壁县	hu tu bi xian	28
+划伤	hua shang	246
+缓交	huan jiao	326
+回单	hui dan	445
+回证	hui zheng	444
+霍城	huo cheng	142
+霍城县	huo cheng xian	141
+活血化瘀	huo xue hua yu	37
+机动车交通事故责任强制保险	ji dong che jiao tong shi gu ze ren qiang zhi bao xian	117
+给付	ji fu	324
+肌力	ji li	96
+肌瘤	ji liu	105
+记明	ji ming	319
+鸡舍	ji she	125
+及于	ji yu	513
+集资款	ji zi kuan	332
+颊部	jia bu	245
+价格事务所	jia ge shi wu suo	189
+加害人	jia hai ren	443
+加气	jia qi	185
+加气站	jia qi zhan	184
+驾驶人	jia shi ren	448
+假肢	jia zhi	296
+鉴定费	jian ding fei	457
+鉴定结论	jian ding jie lun	266
+鉴定书	jian ding shu	458
+鉴定所	jian ding suo	165
+监护人	jian hu ren	163
+健康权	jian kang quan	273
+监所	jian suo	456
+交警部门	jiao jing bu men	183
+交警大队	jiao jing da dui	192
+交警支队	jiao jing zhi dui	180
+交强险	jiao qiang xian	295
+交清	jiao qing	355
+交通警察	jiao tong jing cha	365
+交通局	jiao tong ju	364
+结清	jie qing	325
+截水	jie shui	512
+截瘫	jie tan	83
+静点	jing dian	39
+胫腓骨	jing fei gu	79
+竞合	jing he	20
+精神抚慰金	jing shen fu wei jin	420
+精神损害	jing shen sun hai	421
+精神损害抚慰金	jing shen sun hai fu wei jin	269
+精神损失	jing shen sun shi	133
+警示牌	jing shi pai	552
+经营权	jing ying quan	174
+居住地	ju zhu di	423
+卡号	ka hao	474
+开发区	kai fa qu	479
+抗炎	kang yan	203
+烤铆	kao mao	422
+烤肉	kao rou	291
+客运管理处	ke yun guan li chu	210
+扣款	kou kuan	398
+狂犬	kuang quan	127
+拉运	la yun	392
+来疆	lai jiang	477
+篮球场	lan qiu chang	160
+劳动关系	lao dong guan xi	551
+劳动合同	lao dong he tong	550
+老街	lao jie	491
+累及	lei ji	49
+篱笆墙	li ba qiang	373
+理赔	li pei	154
+连带责任	lian dai ze ren	147
+两轮	liang lun	181
+凉州	liang zhou	282
+林权	lin quan	281
+另案起诉	ling an qi su	450
+另查	ling cha	451
+另一半	ling yi ban	454
+颅脑	lu nao	304
+路桥	lu qiao	452
+露台	lu tai	503
+炉筒	lu tong	57
+玛纳斯	ma na si	476
+买买提	mai mai ti	425
+漫骂	man ma	143
+每只	mei zhi	368
+面颊部	mian jia bu	244
+免交	mian jiao	404
+免责	mian ze	22
+灭失	mie shi	294
+民二庭	min er ting	228
+民法通则	min fa tong ze	427
+民事	min shi	436
+民事法律行为	min shi fa lv xing wei	434
+民事判决	min shi pan jue	431
+民事判决书	min shi pan jue shu	432
+民事赔偿	min shi pei chang	225
+民事侵权	min shi qin quan	254
+民事权利	min shi quan li	307
+民事诉讼	min shi su song	429
+民事诉讼法	min shi su song fa	430
+民事行为	min shi xing wei	433
+民事行为能力人	min shi xing wei neng li ren	15
+民事责任	min shi ze ren	435
+名下	ming xia	405
+莫索湾	mo suo wan	179
+捺印	na yin	401
+南山	nan shan	153
+尿垫	niao dian	94
+牛场	niu chang	92
+农八师	nong ba shi	407
+农牧工	nong mu gong	412
+农网	nong wang	276
+努尔巴克村	nu er ba ke cun	145
+排便	pai bian	279
+判令	pan ling	360
+跑水	pao shui	249
+赔偿费用	pei chang fei yong	437
+赔偿款	pei chang kuan	256
+赔偿责任	pei chang ze ren	438
+赔付	pei fu	115
+陪护	pei hu	537
+膨出	peng chu	62
+碰瓷	peng ci	14
+频发	pin fa	110
+拼装	pin zhuang	10
+评残	ping can	78
+剖宫产	pou gong chan	215
+普通程序	pu tong cheng xu	363
+契税	qi shui	525
+浅促	qian cu	213
+欠费	qian fei	134
+欠据	qian ju	403
+前缘	qian yuan	63
+强制保险	qiang zhi bao xian	196
+强制责任保险	qiang zhi ze ren bao xian	13
+侵害人	qin hai ren	338
+侵权案件	qin quan an jian	271
+侵权责任	qin quan ze ren	17
+侵权责任法	qin quan ze ren fa	23
+清创	qing chuang	51
+轻微伤	qing wei shang	442
+清障	qing zhang	469
+清钟线	qing zhong xian	132
+青紫	qing zi	214
+取除	qu chu	543
+全部责任	quan bu ze ren	270
+全国人大常委会	quan guo ren da chang wei hui	222
+全国人民代表大会常务委员会	quan guo ren min dai biao da hui chang wu wei yuan hui	220
+权利和义务	quan li he yi wu	386
+缺席判决	que xi pan jue	131
+缺项	que xiang	397
+确需	que xu	129
+让行	rang xing	275
+人保财险	ren bao cai xian	123
+人保财险石河子市分公司	ren bao cai xian shi he zi shi fen gong si	35
+认定书	ren ding shu	191
+人格尊严	ren ge zun yan	157
+人力资源	ren li zi yuan	108
+人民陪审员	ren min pei shen yuan	341
+人民医院	ren min yi yuan	342
+人身损害	ren shen sun hai	335
+人身损害赔偿	ren shen sun hai pei chang	334
+人寿保险石河子分公司	ren shou bao xian shi he zi fen gong si	31
+人体损伤	ren ti sun shang	237
+人行横道	ren xing heng dao	333
+如何处理	ru he chu li	252
+软组织	ruan zu zhi	299
+若干问题	ruo gan wen ti	255
+丧葬费	sang zang fei	173
+森林	sen lin	387
+莎车	sha che	41
+沙湾	sha wan	25
+沙湾县	sha wan xian	468
+沙依巴克	sha yi ba ke	462
+伤残等级	shang can deng ji	207
+伤后	shang hou	240
+伤情	shang qing	336
+上诉状	shang su zhuang	472
+伤亡	shang wang	139
+邵立忠	shao li zhong	351
+深达	shen da	36
+身份证号	shen fen zheng hao	93
+审理期间	shen li qi jian	253
+审判人员	shen pan ren yuan	409
+渗水	shen shui	470
+审限	shen xian	302
+生产建设兵团	sheng chan jian she bing tuan	371
+生命权	sheng ming quan	211
+市场经济	shi chang jing ji	323
+石场镇	shi chang zhen	152
+事发	shi fa	481
+事发后	shi fa hou	478
+适格	shi ge	116
+石河子大学	shi he zi da xue	226
+石河子大学医学院第一附属医院	shi he zi da xue yi xue yuan di yi fu shu yi yuan	248
+石河子分公司	shi he zi fen gong si	200
+石河子开发区	shi he zi kai fa qu	88
+石河子市公安局	shi he zi shi gong an ju	239
+石河子市人民法院	shi he zi shi ren min fa yuan	263
+石河子市人民医院	shi he zi shi ren min yi yuan	233
+石河子乡	shi he zi xiang	274
+石河子总场	shi he zi zong chang	70
+石民初字第	shi min chu zi di	523
+释明	shi ming	375
+实欠	shi qian	411
+师市	shi shi	459
+时讯	shi xun	111
+实验场	shi yan chang	419
+使用人	shi yong ren	4
+石总场	shi zong chang	522
+受害人	shou hai ren	518
+受检人	shou jian ren	516
+受检者	shou jian zhe	84
+受理费	shou li fei	520
+授权	shou quan	284
+授权委托书	shou quan wei tuo shu	393
+受让	shou rang	12
+受让人	shou rang ren	11
+受送达人	shou song da ren	514
+受诉	shou su	517
+收退	shou tui	303
+受压	shou ya	59
+疏于	shu yu	428
+双侧	shuang ce	98
+撕打	si da	402
+司法鉴定	si fa jian ding	219
+司法鉴定费	si fa jian ding fei	156
+死亡赔偿金	si wang pei chang jin	475
+送达回证	song da hui zheng	362
+送达人	song da ren	361
+送至	song zhi	124
+诉称	su cheng	315
+诉累	su lei	73
+诉讼代理人	su song dai li ren	311
+诉讼费	su song fei	212
+诉讼费用	su song fei yong	310
+诉讼请求	su song qing qiu	309
+诉讼时效	su song shi xiao	306
+诉至	su zhi	316
+虽未	sui wei	68
+随诊	sui zhen	122
+损害赔偿	sun hai pei chang	258
+损伤程度	sun shang cheng du	168
+所称	suo cheng	394
+索款	suo kuan	498
+所欠	suo qian	395
+所受	suo shou	8
+所有的	suo you de	221
+台称	tai cheng	532
+太平洋财险石河子支公司	tai ping yang cai xian shi he zi zhi gong si	30
+调解书	tiao jie shu	317
+条索状	tiao suo zhuang	158
+停驶	ting shi	120
+停运	ting yun	330
+同等责任	tong deng ze ren	159
+捅伤	tong shang	167
+头面部	tou mian bu	268
+头屯河	tou tun he	119
+土地管理	tu di guan li	232
+团场	tuan chang	162
+挖坑	wa keng	7
+外露	wai lu	55
+未到庭	wei dao ting	507
+未定	wei ding	202
+未付	wei fu	504
+未果	wei guo	506
+委托代理人	wei tuo dai li ren	374
+违约金	wei yue jin	490
+未做	wei zuo	505
+务工	wu gong	21
+误工损失	wu gong sun shi	205
+无果	wu guo	493
+无过错	wu guo cuo	510
+乌奎	wu kui	112
+乌兰乌苏镇	wu lan wu su zhen	29
+物权	wu quan	280
+乌苏	wu su	48
+乌伊	wu yi	114
+无异议	wu yi yi	155
+下腔	xia qiang	169
+下野地	xia ye di	109
+现场勘查	xian chang kan cha	188
+显失公平	xian shi gong ping	76
+限速	xian su	536
+现已	xian yi	480
+先予	xian yu	383
+先予执行	xian yu zhi xing	385
+限制民事行为能力人	xian zhi min shi xing wei neng li ren	539
+相悖	xiang bei	277
+项目经理	xiang mu jing li	549
+相碰	xiang peng	150
+厢式	xiang shi	26
+小四轮	xiao si lun	80
+消褪	xiao tui	164
+斜穿	xie chuan	99
+协迫	xie po	501
+新疆生产建设兵团	xin jiang sheng chan jian she bing tuan	354
+刑事法律	xing shi fa lv	224
+行政处罚	xing zheng chu fa	166
+修理厂	xiu li chang	347
+修理费	xiu li fei	344
+选任	xuan ren	382
+雪莲	xue lian	121
+血肿	xue zhong	305
+询价	xun jia	260
+巡警支队	xun jing zhi dui	272
+压痛	ya tong	102
+烟道	yan dao	56
+依法	yi fa	329
+已付	yi fu	424
+医疗机构	yi liao ji gou	149
+医疗损害	yi liao sun hai	24
+异位	yi wei	100
+依维柯	yi wei ke	289
+医学会	yi xue hui	204
+医药费	yi yao fei	553
+抑郁症	yi yu zheng	107
+阴井	yin jing	542
+引流	yin liu	113
+应激	ying ji	292
+硬膜	ying mo	58
+应收款	ying shou kuan	320
+营养费	ying yang fei	261
+应于	ying yu	322
+永安财产保险股份有限公司	yong an cai chan bao xian gu fen you xian gong si	27
+永安财险石河子支公司	yong an cai xian shi he zi zhi gong si	34
+永安财险新疆分公司	yong an cai xian xin jiang fen gong si	91
+又无	you wu	95
+有限责任	you xian ze ren	527
+渔池	yu chi	465
+预付	yu fu	534
+预交	yu jiao	535
+娱乐场	yu le chang	352
+予以确认	yu yi que ren	531
+予以认可	yu yi ren ke	528
+予以证实	yu yi zheng shi	529
+予以支持	yu yi zhi chi	530
+越来越	yue lai yue	509
+在卷	zai juan	176
+载物	zai wu	177
+再无	zai wu	66
+暂住证	zan zhu zheng	440
+造词样例	zao ci yang li	308
+责任认定	ze ren ren ding	195
+增厚	zeng hou	170
+张口	zhang kou	243
+招录	zhao lu	391
+枕部	zhen bu	242
+诊查	zhen cha	77
+诊断证明	zhen duan zheng ming	218
+证人证言	zheng ren zheng yan	312
+征象	zheng xiang	60
+脂肪肝	zhi fang gan	50
+支公司	zhi gong si	81
+致害	zhi hai	9
+支具	zhi ju	67
+致人	zhi ren	485
+致人损害	zhi ren sun hai	3
+之日	zhi ri	264
+只应	zhi ying	74
+种草	zhong cao	378
+种畜	zhong chu	128
+重大过失	zhong da guo shi	148
+中华联合	zhong hua lian he	201
+中华联合财险石河子分公司	zhong hua lian he cai xian shi he zi fen gong si	146
+中华人民共和国刑事诉讼法	zhong hua ren min gong he guo xing shi su song fa	223
+中级人民法院	zhong ji ren min fa yuan	449
+种苗	zhong miao	126
+种羊场	zhong yang chang	40
+重在	zhong zai	18
+重症	zhong zheng	381
+中止诉讼	zhong zhi su song	251
+助理审判员	zhu li shen pan yuan	521
+主诉	zhu su	75
+住宿费	zhu su fei	187
+住所地	zhu suo di	337
+蛛网膜	zhu wang mo	287
+住院伙食补助费	zhu yuan huo shi bu zhu fei	349
+住院治疗	zhu yuan zhi liao	247
+专递	zhuan di	499
+转院	zhuan yuan	447
+追偿	zhui chang	340
+椎体	zhui ti	118
+紫泥泉	zi ni quan	473
+自卸	zi xie	182
+总场	zong chang	359
+族别	zu bie	314
+租车	zu che	384
+租赁费	zu lin fei	370
+足以认定	zu yi ren ding	175
+左氧氟沙星	zuo yang fu sha xing	47

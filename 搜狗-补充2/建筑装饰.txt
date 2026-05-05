@@ -1,0 +1,611 @@
+# 词库名称: 建筑装饰
+# 词库分类: 个人专用
+# 词库描述: 一些建筑装饰名词
+# 词条样例: 聚氮酯粘结剂、耐擦洗内墙涂料、塑料窗、踢角线、镶板们、耐水内墙涂料
+# 解析词数: 604
+# 解析异常: 0
+
+埃特板	ai te ban	586
+白椽木胶合板	bai chuan mu jiao he ban	585
+白瓷片	bai ci pian	584
+白棉纱	bai mian sha	583
+白木线	bai mu xian	582
+白色镜面	bai se jing mian	581
+白色铝合金型材	bai se lv he jin xing cai	580
+白色铝扣板	bai se lv kou ban	579
+白色磨边钢化玻璃	bai se mo bian gang hua bo li	578
+白色脂胶调和漆	bai se zhi jiao tiao he qi	577
+白石腊	bai shi la	576
+白石米	bai shi mi	575
+白水泥	bai shui ni	599
+白元木线	bai yuan mu xian	574
+半钢化热反射玻璃	ban gang hua re fan she bo li	573
+半高隔断墙	ban gao ge duan qiang	572
+办公桌	ban gong zhuo	7
+宝丽板	bao li ban	571
+北美橡木	bei mei xiang mu	570
+苯丙乳胶内墙涂料	ben bing ru jiao nei qiang tu liao	569
+壁橱门节点详图	bi chu men jie dian xiang tu	35
+壁橱门施工节点详图	bi chu men shi gong jie dian xiang tu	34
+壁柜	bi gui	0
+扁钢	bian gang	568
+丙酮	bing tong	567
+丙烯酸酯乳液	bing xi suan zhi ru ye	566
+冰箱	bing xiang	8
+玻璃	bo li	564
+玻璃胶	bo li jiao	563
+玻璃镜	bo li jing	562
+玻璃镜天棚	bo li jing tian peng	561
+玻璃马赛克	bo li ma sai ke	560
+玻璃饰面	bo li shi mian	559
+玻璃纤维板	bo li xian wei ban	558
+玻璃纤维印花贴墙布	bo li xian wei yin hua tie qiang bu	557
+玻璃砖采光天棚	bo li zhuan cai guang tian peng	556
+波形板	bo xing ban	565
+布窗帘	bu chuang lian	538
+不锈钢包柱	bu xiu gang bao zhu	555
+不锈钢槽	bu xiu gang cao	554
+不锈钢管	bu xiu gang guan	553
+不锈钢焊条	bu xiu gang han tiao	552
+不锈钢角	bu xiu gang jiao	551
+不锈钢角挂件	bu xiu gang jiao gua jian	550
+不锈钢扣板	bu xiu gang kou ban	549
+不锈钢门夹	bu xiu gang men jia	548
+不锈钢抛光板	bu xiu gang pao guang ban	547
+不锈钢膨胀螺栓	bu xiu gang peng zhang luo shuan	546
+不锈钢片	bu xiu gang pian	545
+不锈钢球型门锁	bu xiu gang qiu xing men suo	544
+不锈钢弯头	bu xiu gang wan tou	543
+不锈钢线条	bu xiu gang xian tiao	542
+不锈钢压条	bu xiu gang ya tiao	541
+不锈钢圆管拉手	bu xiu gang yuan guan la shou	540
+不锈钢装饰盖	bu xiu gang zhuang shi gai	539
+彩刻玻璃	cai ke bo li	537
+彩色玻璃	cai se bo li	536
+彩色扣板收边角	cai se kou ban shou bian jiao	535
+彩色抹灰	cai se mo hui	534
+彩色轻钢扣板	cai se qing gang kou ban	533
+彩色轻钢条型扣板	cai se qing gang tiao xing kou ban	532
+彩色水泥	cai se shui ni	531
+彩色涂层钢板	cai se tu ceng gang ban	530
+彩釉砖	cai you zhuan	529
+餐厅	can ting	25
+餐厅脚手架立面	can ting jiao shou jia li mian	56
+餐桌	can zhuo	6
+槽钢	cao gang	528
+草酸	cao suan	527
+侧端面图	ce duan mian tu	33
+测量图	ce liang tu	39
+侧视图	ce shi tu	32
+茶几	cha ji	5
+茶色玻璃	cha se bo li	526
+茶色有机玻璃	cha se you ji bo li	525
+插座布置图	cha zuo bu zhi tu	43
+柴油	chai you	524
+长条砖	chang tiao zhuan	523
+抽屉柜	chou ti gui	65526
+臭油水	chou you shui	522
+储藏柜剖示图	chu cang gui pou shi tu	29
+储藏柜施工详图	chu cang gui shi gong xiang tu	28
+储藏柜正视图	chu cang gui zheng shi tu	27
+橱窗	chu chuang	521
+厨房	chu fang	16
+厨房地柜	chu fang di gui	65523
+厨房吊柜	chu fang diao gui	65524
+厨房脚手架立面	chu fang jiao shou jia li mian	72
+储物柜	chu wu gui	65525
+穿孔石膏吸音板	chuan kong shi gao xi yin ban	520
+穿孔纸带	chuan kong zhi dai	519
+窗锁	chuang suo	518
+垂直式百叶窗帘	chui zhi shi bai ye chuang lian	517
+瓷防滑条	ci fang hua tiao	516
+次龙骨	ci long gu	510
+瓷马赛克	ci ma sai ke	515
+瓷片压顶	ci pian ya ding	514
+瓷片阴阳角	ci pian yin yang jiao	513
+次卫	ci wei	17
+次卧	ci wo	22
+磁吸门锁	ci xi men suo	511
+瓷质耐磨砖	ci zhi nai mo zhuan	512
+醋丙共聚乳液内墙涂料	cu bing gong ju ru ye nei qiang tu liao	509
+簇绒编织地毯	cu rong bian zhi di tan	508
+催干剂	cui gan ji	507
+寸方大阶砖	cun fang da jie zhuan	506
+大理石	da li shi	505
+大理石板	da li shi ban	504
+大理石板材	da li shi ban cai	503
+大理石块料	da li shi kuai liao	502
+大理石饰面板	da li shi shi mian ban	501
+大木方构架	da mu fang gou jia	500
+大样图	da yang tu	47
+单层小木方构架	dan ceng xiao mu fang gou jia	499
+单排脚手架	dan pai jiao shou jia	498
+弹涂	dan tu	495
+单支气枪钉	dan zhi qi qiang ding	497
+灯具开关布置图	deng ju kai guan bu zhi tu	31
+灯具开关控制图	deng ju kai guan kong zhi tu	30
+地板胶水	di ban jiao shui	493
+地柜	di gui	1
+地胶板	di jiao ban	492
+地胶板塑料板	di jiao ban su liao ban	491
+地胶垫	di jiao dian	490
+地腊	di la	489
+地面布置图	di mian bu zhi tu	41
+地毯收口线条	di tan shou kou xian tiao	488
+地毡	di zhan	487
+地毡铝条	di zhan lv tiao	486
+地毡木条	di zhan mu tiao	485
+地毡烫带	di zhan tang dai	484
+电焊条	dian han tiao	483
+电话	dian hua	13
+电话插座	dian hua cha zuo	14
+电化铝装饰板	dian hua lv zhuang shi ban	482
+电石	dian shi	481
+电视机	dian shi ji	12
+吊顶龙骨	diao ding long gu	480
+吊杆固定件	diao gan gu ding jian	479
+吊杆挂件	diao gan gua jian	478
+顶棚布置图	ding peng bu zhi tu	42
+钉书钉枪针	ding shu ding qiang zhen	477
+东北水曲柳	dong bei shui qu liu	476
+镀锌螺栓	du xin luo shuan	475
+镀锌马仔	du xin ma zai	474
+镀锌铁丝	du xin tie si	473
+多彩涂料	duo cai tu liao	472
+二门衣柜	er men yi gui	65528
+儿童房	er tong fang	20
+儿童房脚手架立面	er tong fang jiao shou jia li mian	64
+反光强化茶色玻璃	fan guang qiang hua cha se bo li	471
+防潮砖	fang chao zhuan	469
+方钢	fang gang	470
+防火涂料	fang huo tu liao	468
+防火橡胶塑料扶手	fang huo xiang jiao su liao fu shou	467
+防火纸面石膏板	fang huo zhi mian shi gao ban	466
+仿石	fang shi	464
+防水纸	fang shui zhi	465
+纺织品壁纸	fang zhi pin bi zhi	462
+仿纸涂料	fang zhi tu liao	463
+酚醛白耐酸漆	fen quan bai nai suan qi	461
+酚醛瓷漆	fen quan ci qi	460
+酚醛耐碱漆	fen quan nai jian qi	459
+酚醛清漆	fen quan qing qi	458
+分体座便器	fen ti zuo bian qi	65519
+封边线	feng bian xian	456
+枫木	feng mu	457
+氟醋丙高级内墙涂料	fu cu bing gao ji nei qiang tu liao	455
+浮雕涂料	fu diao tu liao	454
+浮法透明玻璃	fu fa tou ming bo li	453
+福粉	fu fen	452
+覆盖线	fu gai xian	451
+改进型耐擦洗内墙涂料	gai jin xing nai ca xi nei qiang tu liao	450
+钙塑板	gai su ban	447
+钙塑泡沫装饰板	gai su pao mo zhuang shi ban	446
+钙塑压条	gai su ya tiao	445
+钙塑装饰板	gai su zhuang shi ban	444
+改性聚乙烯醇水玻璃涂料	gai xing ju yi xi chun shui bo li tu liao	449
+改性水玻璃内墙涂料	gai xing shui bo li nei qiang tu liao	448
+干粘石	gan zhan shi	443
+钢柏木	gang bai mu	442
+钢板	gang ban	441
+钢钉	gang ding	440
+钢管	gang guan	439
+钢化玻璃	gang hua bo li	438
+钢化玻璃平开门	gang hua bo li ping kai men	437
+钢筋	gang jin	436
+高柜	gao gui	2
+高强自攻螺栓	gao qiang zi gong luo shuan	435
+格子板	ge zi ban	434
+工字钢	gong zi gang	433
+古铜白色铝合金角	gu tong bai se lv he jin jiao	432
+古铜色铝合金扣板	gu tong se lv he jin kou ban	431
+古铜色铝合金型材	gu tong se lv he jin xing cai	430
+古铜色铝扣板	gu tong se lv kou ban	429
+挂镜板	gua jing ban	427
+刮塑	gua su	428
+滚涂	gun tu	426
+过道	guo dao	15
+过氯乙烯磁漆	guo lv yi xi ci qi	425
+过氯乙烯底漆	guo lv yi xi di qi	424
+过氯乙烯清漆	guo lv yi xi qing qi	423
+过氯乙烯溶剂	guo lv yi xi rong ji	422
+禾草	he cao	421
+核桃木	he tao mu	420
+核桃木线	he tao mu xian	419
+黑玻璃胶	hei bo li jiao	418
+黑石米	hei shi mi	417
+红丹防锈漆	hong dan fang xiu qi	416
+红丹粉	hong dan fen	415
+红石米	hong shi mi	414
+红砖	hong zhuan	413
+护墙板	hu qiang ban	598
+花岗石	hua gang shi	412
+花岗石面层	hua gang shi mian ceng	411
+花岗岩石板	hua gang yan shi ban	410
+画镜线	hua jing xian	595
+画框线条	hua kuang xian tiao	405
+花梨胶合板	hua li jiao he ban	409
+桦木	hua mu	404
+化纤板	hua xian ban	408
+化纤地毯	hua xian di tan	407
+化纤地毡	hua xian di zhan	406
+环氧树脂胶	huan yang shu zhi jiao	403
+黄丹粉	huang dan fen	402
+黄色脂胶调和漆	huang se zhi jiao tiao he qi	401
+黄石米	huang shi mi	400
+黄檀木	huang tan mu	399
+黄铜板	huang tong ban	398
+黄铜槽	huang tong cao	397
+黄铜管	huang tong guan	396
+黄铜焊丝	huang tong han si	395
+黄铜弯头	huang tong wan tou	394
+黄铜装饰盖	huang tong zhuang shi gai	393
+灰板条抹灰	hui ban tiao mo hui	392
+辉绿岩粉	hui lv yan fen	391
+会议台	hui yi tai	4
+混纺地毯	hun fang di tan	390
+混凝土板	hun ning tu ban	389
+混凝土预制块	hun ning tu yu zhi kuai	388
+活动式装配天棚	huo dong shi zhuang pei tian peng	387
+活动塑料隔断	huo dong su liao ge duan	386
+给排水布置图	ji pai shui bu zhi tu	44
+机织地毯	ji zhi di tan	385
+夹层玻璃	jia ceng bo li	384
+夹层热反射玻璃	jia ceng re fan she bo li	383
+架空硬木地板	jia kong ying mu di ban	381
+假面砖	jia mian zhuan	380
+夹丝玻璃	jia si bo li	382
+剑麻地毯	jian ma di tan	378
+建筑油胶	jian zhu you jiao	379
+角钢	jiao gang	370
+胶合板	jiao he ban	377
+胶合板门	jiao he ban men	376
+胶合板门框扇	jiao he ban men kuang shan	375
+胶面布底壁纸	jiao mian bu di bi zhi	374
+胶面纸底壁纸	jiao mian zhi di bi zhi	373
+胶水	jiao shui	603
+胶条	jiao tiao	372
+角线	jiao xian	369
+胶纸	jiao zhi	371
+金刚石	jin gang shi	368
+金黄色铝合金型材	jin huang se lv he jin xing cai	367
+金黄色强化茶色玻璃	jin huang se qiang hua cha se bo li	366
+进口洋杂木线	jin kou yang za mu xian	359
+金属吊杆	jin shu diao gan	365
+金属扶手栏杆	jin shu fu shou lan gan	364
+金属接长件	jin shu jie chang jian	363
+金属面油漆	jin shu mian you qi	362
+金属压型板	jin shu ya xing ban	361
+锦砖	jin zhuan	360
+镜钉	jing ding	358
+镜框线	jing kuang xian	357
+酒柜	jiu gui	65535
+酒精	jiu jing	356
+聚胺脂清漆	ju an zhi qing qi	354
+聚氨酯清漆	ju an zhi qing qi	355
+聚丙烯腈内墙涂料	ju bing xi jing nei qiang tu liao	353
+聚醋酸乙烯内墙乳胶漆	ju cu suan yi xi nei qiang ru jiao qi	587
+聚醋酸乙烯粘结剂	ju cu suan yi xi nian jie ji	351
+聚醋酸乙烯乳液	ju cu suan yi xi ru ye	352
+聚氮酯粘结剂	ju dan zhi nian jie ji	600
+聚合物水泥砂浆	ju he wu shui ni sha jiang	350
+聚氯乙烯树脂塑料地板	ju lv yi xi shu zhi su liao di ban	349
+聚氯乙烯塑料板	ju lv yi xi su liao ban	348
+可排列沙发	ke pai lie sha fa	65531
+可排列椅子	ke pai lie yi zi	65533
+可视电话	ke shi dian hua	9
+客厅	ke ting	26
+客厅脚手架立面	ke ting jiao shou jia li mian	52
+空调	kong tiao	10
+空心石膏板	kong xin shi gao ban	347
+块料镶贴	kuai liao xiang tie	346
+矿棉板	kuang mian ban	344
+矿棉吸音板	kuang mian xi yin ban	343
+矿岩棉板	kuang yan mian ban	345
+阔叶树材胶合板	kuo ye shu cai jiao he ban	342
+拉毛灰	la mao hui	341
+拉条灰	la tiao hui	340
+蓝油种	lan you zhong	339
+镭射玻璃	lei she bo li	338
+力架	li jia	336
+立面图	li mian tu	46
+立面指示图	li mian zhi shi tu	45
+沥青	li qing	331
+立时得胶	li shi de jiao	335
+立时德胶水	li shi de jiao shui	334
+立体彩釉砖	li ti cai you zhuan	333
+立窑水泥	li yao shui ni	332
+离子钢化热反射玻璃	li zi gang hua re fan she bo li	337
+连接件	lian jie jian	330
+梁顶架	liang ding jia	329
+菱苦土板	ling ku tu ban	328
+柳安木	liu an mu	327
+龙骨挂件	long gu gua jian	326
+螺丝	luo si	302
+螺纹钢	luo wen gang	301
+铝合金百叶窗帘	lv he jin bai ye chuang lian	323
+铝合金板	lv he jin ban	322
+铝合金不等角	lv he jin bu deng jiao	321
+铝合金窗	lv he jin chuang	320
+铝合金等槽	lv he jin deng cao	319
+铝合金等角	lv he jin deng jiao	318
+铝合金方管	lv he jin fang guan	317
+铝合金蜂窝板	lv he jin feng wo ban	316
+铝合金格栅	lv he jin ge shan	315
+铝合金挂件型次龙骨	lv he jin gua jian xing ci long gu	325
+铝合金挂件型主龙骨	lv he jin gua jian xing zhu long gu	324
+铝合金矩形管	lv he jin ju xing guan	314
+铝合金龙骨	lv he jin long gu	313
+铝合金门	lv he jin men	312
+铝合金线条	lv he jin xian tiao	311
+铝框骨架	lv kuang gu jia	310
+铝拉铆钉	lv la mao ding	309
+铝镁曲板	lv mei qu ban	308
+绿色脂胶调和漆	lv se zhi jiao tiao he qi	304
+绿石米	lv shi mi	303
+铝压条	lv ya tiao	307
+铝银浆	lv yin jiang	306
+铝制路轨	lv zhi lu gui	305
+麻刀	ma dao	300
+麻刀灰	ma dao hui	299
+马桶	ma tong	65521
+满堂红脚手架	man tang hong jiao shou jia	298
+毛石	mao shi	297
+毛条	mao tiao	296
+镁铝曲板	mei lv qu ban	293
+美术水磨石	mei shu shui mo shi	294
+煤油	mei you	295
+门地弹簧	men di tan huang	292
+门锁	men suo	291
+磨光地板	mo guang di ban	290
+抹灰	mo hui	288
+抹灰面油漆	mo hui mian you qi	287
+磨砂玻璃	mo sha bo li	289
+木板	mu ban	286
+木材面油漆	mu cai mian you qi	285
+木地板	mu di ban	284
+木扶手栏杆	mu fu shou lan gan	283
+木胶粉	mu jiao fen	282
+木龙骨	mu long gu	281
+木线条	mu xian tiao	280
+木牙螺丝	mu ya luo si	279
+耐擦洗内墙涂料	nai ca xi nei qiang tu liao	597
+耐水内墙涂料	nai shui nei qiang tu liao	588
+楠木	nan mu	277
+南洋榉木	nan yang ju mu	278
+内墙涂料	nei qiang tu liao	604
+尼龙地毡	ni long di zhan	276
+粘土	nian tu	100
+牛胶	niu jiao	275
+泡沫胶壁纸	pao mo jiao bi zhi	274
+泡沫塑料板	pao mo su liao ban	273
+喷漆玻璃	pen qi bo li	272
+喷塑涂料	pen su tu liao	271
+喷涂	pen tu	270
+膨胀螺丝	peng zhang luo si	269
+膨胀珍珠岩穿孔吸音板	peng zhang zhen zhu yan chuan kong xi yin ban	268
+拼花墙纸	pin hua qiang zhi	267
+平板玻璃	ping ban bo li	266
+平板热反射玻璃	ping ban re fan she bo li	265
+平面布置图	ping mian bu zhi tu	40
+平头木螺丝	ping tou mu luo si	264
+剖面图	pou mian tu	48
+普通墙纸	pu tong qiang zhi	263
+普通纸面石膏板	pu tong zhi mian shi gao ban	262
+其它镶贴	qi ta xiang tie	261
+汽油	qi you	260
+嵌缝石膏粉	qian feng shi gao fen	257
+嵌入式化装柜	qian ru shi hua zhuang gui	65527
+铅油	qian you	259
+浅棕脂胶调和漆	qian zong zhi jiao tiao he qi	258
+墙角线	qiang jiao xian	256
+墙面砖	qiang mian zhuan	255
+墙腰线	qiang yao xian	254
+墙纸	qiang zhi	253
+墙纸粉	qiang zhi fen	252
+轻钢龙骨	qing gang long gu	250
+青石	qing shi	251
+清油	qing you	249
+全封隔断墙	quan feng ge duan qiang	248
+热反射玻璃	re fan she bo li	247
+人造大理石	ren zao da li shi	246
+人造大理石板	ren zao da li shi ban	245
+人造石	ren zao shi	244
+溶剂型氯丁橡胶胶液	rong ji xing lv ding xiang jiao jiao ye	243
+乳白胶	ru bai jiao	242
+乳胶	ru jiao	241
+洒毛灰	sa mao hui	240
+三角形吊码	san jiao xing diao ma	239
+三角形轻钢龙骨	san jiao xing qing gang long gu	238
+三门衣柜	san men yi gui	65529
+砂布	sha bu	237
+沙发	sha fa	65532
+砂腊	sha la	236
+杉木	sha mu	234
+杉木板材	sha mu ban cai	233
+山樟木线	shan zhang mu xian	235
+上光蜡	shang guang la	232
+上楣线	shang mei xian	231
+上人吊件	shang ren diao jian	230
+上人接长件	shang ren jie chang jian	229
+射钉	she ding	228
+渗铝空腹钢窗	shen lv kong fu gang chuang	227
+石膏板	shi gao ban	226
+石膏板饰面	shi gao ban shi mian	225
+石膏灰	shi gao hui	224
+施工详图	shi gong xiang tu	38
+饰灰	shi hui	217
+石灰	shi hui	223
+石灰砂浆	shi hui sha jiang	222
+士力片	shi li pian	218
+石棉板	shi mian ban	221
+石棉吸音板	shi mian xi yin ban	220
+实铺木地板	shi pu mu di ban	219
+手工编织地毯	shou gong bian zhi di tan	216
+书房	shu fang	21
+书房脚手架立面	shu fang jiao shou jia li mian	68
+梳妆台	shu zhuang tai	3
+双层玻璃	shuang ceng bo li	215
+双面胶纸带	shuang mian jiao zhi dai	214
+水晶油	shui jing you	213
+水磨石	shui mo shi	212
+水磨石板	shui mo shi ban	211
+水泥钢钉	shui ni gang ding	210
+水泥花阶砖	shui ni hua jie zhuan	209
+水泥混合砂浆	shui ni hun he sha jiang	208
+水泥砂浆	shui ni sha jiang	207
+水泥粘贴	shui ni zhan tie	206
+水泥砖	shui ni zhuan	205
+水平连接件	shui ping lian jie jian	204
+水曲柳胶合板	shui qu liu jiao he ban	203
+水曲柳木线	shui qu liu mu xian	202
+水刷石	shui shua shi	201
+丝绒	si rong	200
+丝绒面料	si rong mian liao	199
+松节油	song jie you	198
+松木	song mu	197
+松杂枋板材	song za fang ban cai	196
+松杂直边板	song za zhi bian ban	195
+塑胶水玻璃内墙涂料	su jiao shui bo li nei qiang tu liao	194
+塑料窗	su liao chuang	594
+塑料地毯	su liao di tan	193
+塑料复合金属板	su liao fu he jin shu ban	191
+塑料扶手	su liao fu shou	192
+塑料护墙板	su liao hu qiang ban	190
+塑料画镜线	su liao hua jing xian	189
+塑料扣板	su liao kou ban	188
+塑料扣板角条	su liao kou ban jiao tiao	187
+塑料门窗	su liao men chuang	186
+塑料门框扇	su liao men kuang shan	185
+塑料面层	su liao mian ceng	184
+塑料踢脚板	su liao ti jiao ban	182
+塑料踢角线	su liao ti jiao xian	183
+塑料线条	su liao xian tiao	181
+塑料压条	su liao ya tiao	180
+塑料装饰线条	su liao zhuang shi xian tiao	179
+碎大理石块	sui da li shi kuai	178
+碎石	sui shi	177
+碎水磨石块	sui shui mo shi kuai	176
+羧甲基纤维素	suo jia ji xian wei su	175
+锁牌	suo pai	174
+台湾榉木	tai wan ju mu	173
+弹簧木地板	tan huang mu di ban	496
+弹性木地板	tan xing mu di ban	494
+陶瓷马赛克	tao ci ma sai ke	172
+陶瓷磨光砖	tao ci mo guang zhuan	171
+陶瓷无釉面砖	tao ci wu you mian zhuan	170
+陶瓷釉面砖	tao ci you mian zhuan	169
+踢脚板	ti jiao ban	168
+踢脚板镶贴	ti jiao ban xiang tie	167
+踢角线	ti jiao xian	593
+天那水	tian na shui	166
+天然材料金属壁纸	tian ran cai liao jin shu bi zhi	165
+天然大理石	tian ran da li shi	164
+天然大理石块	tian ran da li shi kuai	163
+天然麻石板	tian ran ma shi ban	162
+铁钉	tie ding	160
+贴缝纸带	tie feng zhi dai	161
+铁勾	tie gou	159
+铁红防锈漆	tie hong fang xiu qi	158
+铁件	tie jian	157
+铜防滑条	tong fang hua tiao	155
+铜拉手	tong la shou	154
+铜螺丝	tong luo si	153
+铜门夹	tong men jia	152
+铜片	tong pian	151
+铜条	tong tiao	150
+铜线	tong xian	149
+铜线条	tong xian tiao	148
+桐油	tong you	156
+涂料	tu liao	602
+涂色镀锌钢板门窗	tu se du xin gang ban men chuang	147
+万能胶	wan neng jiao	601
+卫生间	wei sheng jian	19
+卫生间脚手架立面	wei sheng jian jiao shou jia li mian	74
+卧室	wo shi	24
+无纺地毯	wu fang di tan	145
+无纺贴墙布	wu fang tie qiang bu	144
+无机高分子材料	wu ji gao fen zi cai liao	143
+乌烟	wu yan	146
+系列苯丙乳胶漆	xi lie ben bing ru jiao qi	591
+洗面盆	xi mian pen	65520
+吸热玻璃	xi re bo li	142
+洗衣机	xi yi ji	11
+锡纸	xi zhi	141
+纤维石膏板	xian wei shi gao ban	140
+镶板们	xiang ban men	592
+橡胶绒地毯	xiang jiao rong di tan	139
+硝基瓷漆	xiao ji ci qi	138
+硝基喷手扫漆	xiao ji pen shou sao qi	137
+硝基漆	xiao ji qi	136
+硝基清漆	xiao ji qing qi	135
+小木方双层构架	xiao mu fang shuang ceng gou jia	134
+型钢	xing gang	590
+型乳胶漆	xing ru jiao qi	589
+型双组分橡胶粘结剂	xing shuang zu fen xiang jiao nian jie ji	596
+压边线	ya bian xian	133
+哑光地板	ya guang di ban	129
+亚光防火板	ya guang fang huo ban	128
+亚光胶合板	ya guang jiao he ban	127
+压花玻璃	ya hua bo li	132
+压角线	ya jiao xian	131
+压条装饰条	ya tiao zhuang shi tiao	130
+盐酸	yan suan	126
+氧化铁红	yang hua tie hong	124
+氧化铁黄	yang hua tie huang	123
+羊毛地毯	yang mao di tan	125
+氧气	yang qi	122
+一般热反射玻璃	yi ban re fan she bo li	121
+乙丙内墙乳胶漆	yi bing nei qiang ru jiao qi	120
+异性板	yi xing ban	119
+椅子	yi zi	65534
+银樨	yin xi	118
+硬木板材	ying mu ban cai	117
+硬质板材护墙板	ying zhi ban cai hu qiang ban	116
+硬质胶合板	ying zhi jiao he ban	115
+硬质杂木线	ying zhi za mu xian	114
+有机玻璃	you ji bo li	107
+有机玻璃采光件	you ji bo li cai guang jian	106
+有门窗隔断墙	you men chuang ge duan qiang	105
+柚木	you mu	112
+柚木地板	you mu di ban	111
+柚木地板镶贴	you mu di ban xiang tie	110
+柚木胶合板	you mu jiao he ban	109
+柚木线	you mu xian	108
+油漆	you qi	113
+浴缸	yu gang	65522
+浴缸龙头	yu gang long tou	65518
+鱼油	yu you	104
+预制水磨石块	yu zhi shui mo shi kuai	103
+圆钢	yuan gang	102
+錾假石	zan jia shi	101
+招牌	zhao pai	99
+针叶树材胶合板	zhen ye shu cai jiao he ban	98
+脂胶调和漆	zhi jiao tiao he qi	96
+纸筋	zhi jin	95
+纸筋灰	zhi jin hui	94
+纸面石膏板	zhi mian shi gao ban	93
+纸面纸底壁纸	zhi mian zhi di bi zhi	92
+支气枪钉	zhi qi qiang ding	97
+中灰色油性铅油	zhong hui se you xing qian you	91
+中灰脂胶调和漆	zhong hui zhi jiao tiao he qi	90
+中空玻璃	zhong kong bo li	89
+中空热反射玻璃	zhong kong re fan she bo li	88
+中砂	zhong sha	87
+朱干色脂胶调和漆	zhu gan se zhi jiao tiao he qi	86
+柱角线	zhu jiao xian	84
+主龙骨	zhu long gu	85
+柱面玻璃镜	zhu mian bo li jing	83
+主卫	zhu wei	18
+主卧	zhu wo	23
+主卧室脚手架立面	zhu wo shi jiao shou jia li mian	60
+转窑水泥	zhuan yao shui ni	82
+装饰墙布	zhuang shi qiang bu	81
+装饰石膏板	zhuang shi shi gao ban	80
+装饰微薄贴面板	zhuang shi wei bo tie mian ban	79
+自攻螺丝	zi gong luo si	77
+紫金砂釉外墙砖	zi jin sha you wai qiang zhuan	78
+纵断面图	zong duan mian tu	36
+综合脚手架	zong he jiao shou jia	76
+组合沙发	zu he sha fa	65530
+柞木	zuo mu	75
+左右开门示意图	zuo you kai men shi yi tu	37

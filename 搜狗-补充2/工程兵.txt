@@ -1,0 +1,610 @@
+# 词库名称: 工程兵
+# 词库分类: 军事类
+# 词库描述: 依据《中国人民解放军军语》及《工程兵装备手册》编制
+# 词条样例: 队属工兵、工兵部队、工程维护总队、野战给水工程分队、障碍设置队
+# 解析词数: 603
+# 解析异常: 0
+
+暗堡	an bao	407
+岸边码头	an bian ma tou	228
+岸边器材	an bian qi cai	227
+岸边舟	an bian zhou	226
+安全电流	an quan dian liu	68
+安全距离	an quan ju li	446
+岸滩障碍物	an tan zhang ai wu	357
+暗挖式工事	an wa shi gong shi	425
+拔桩机	ba zhuang ji	149
+绊发	ban fa	126
+绊线轴	ban xian zhou	107
+班用冲锋舟	ban yong chong feng zhou	5
+绊桩	ban zhuang	106
+爆破	bao po	507
+爆破器材	bao po qi cai	505
+爆破筒	bao po tong	450
+爆破作业	bao po zuo ye	506
+爆速	bao su	482
+爆炸	bao zha	504
+爆炸带	bao zha dai	47
+爆炸性障碍物	bao zha xing zhang ai wu	370
+保障机械	bao zhang ji xie	143
+被覆	bei fu	394
+被具	bei ju	51
+避弹所	bi tan suo	400
+变形遮障	bian xing zhe zhang	179
+标示绳	biao shi sheng	50
+标示通路	biao shi tong lu	322
+冰上渡场	bing shang du chang	258
+冰上渡河	bing shang du he	268
+冰雪障碍物	bing xue zhang ai wu	359
+并舟具	bing zhou ju	16
+布雷	bu lei	529
+布雷车	bu lei che	530
+布雷密度	bu lei mi du	528
+布雷器	bu lei qi	81
+漕渡	cao du	206
+漕渡门桥	cao du men qiao	207
+操舟机	cao zhou ji	224
+操纵地雷	cao zong di lei	540
+车行部	che hang bu	41
+车行部宽度	che hang bu kuan du	10
+车轮式荷载	che lun shi he zai	277
+车辙	che zhe	7
+车辙道	che zhe dao	305
+车辙桥	che zhe qiao	304
+沉底水雷	chen di shui lei	534
+冲锋舟	chong feng zhou	240
+储雷架	chu lei jia	80
+传爆药	chuan bao yao	53
+串联准爆电流	chuan lian zhun bao dian liu	65
+垂直遮障	chui zhi zhe zhang	182
+刺钉	ci ding	343
+磁性定时水雷	ci xing ding shi shui lei	538
+磁性雷	ci xing lei	545
+大爆破	da bao po	463
+打桩门桥	da zhuang men qiao	208
+待渡地区	dai du di qu	252
+带式舟桥	dai shi zhou qiao	219
+单个起爆电流	dan ge qi bao dian liu	66
+氮化铅	dan hua qian	74
+弹坑桥	dan keng qiao	284
+单列地雷	dan lie di lei	524
+单人掩体	dan ren yan ti	404
+单人掩体爆破器	dan ren yan ti bao po qi	451
+导爆索	dao bao suo	483
+导火索	dao huo suo	481
+道路保障	dao lu bao zhang	298
+道路标志	dao lu biao zhi	299
+道路警备调整勤务	dao lu jing bei tiao zheng qin wu	307
+道路平曲线半径	dao lu ping qu xian ban jing	300
+道路网	dao lu wang	318
+道路维护	dao lu wei hu	308
+灯火伪装	deng huo wei zhuang	192
+地堡	di bao	409
+地道	di dao	420
+地道工事	di dao gong shi	421
+地雷	di lei	559
+地雷爆破器材	di lei bao po qi cai	136
+地雷场	di lei chang	522
+地雷群	di lei qun	523
+低水桥	di shui qiao	291
+电发	dian fa	125
+点火	dian huo	464
+点火法	dian huo fa	470
+点火管	dian huo guan	489
+点火机	dian huo ji	468
+点火站	dian huo zhan	469
+电雷管	dian lei guan	73
+电网	dian wang	328
+碉堡	diao bao	408
+吊桥	diao qiao	288
+定点保障	ding dian bao zhang	295
+定时地雷	ding shi de lei	551
+定向爆破	ding xiang bao po	461
+定向地雷	ding xiang di lei	553
+定向器	ding xiang qi	86
+峒室爆破	dong shi bao po	462
+动作拉力	dong zuo la li	108
+动作压力	dong zuo ya li	111
+渡场	du chang	262
+渡场长	du chang chang	246
+渡场撤收	du chang che shou	242
+渡场出发线	du chang chu fa xian	253
+渡场救护打捞站	du chang jiu hu da lao zhan	244
+渡场勤务	du chang qin wu	248
+渡场水上巡逻队	du chang shui shang xun luo dui	249
+渡场调整哨	du chang tiao zheng shao	247
+渡场指挥所	du chang zhi hui suo	243
+渡河	du he	273
+渡河地段	du he di duan	263
+渡河地区	du he di qu	264
+渡河机械	du he ji xie	134
+渡河架桥机械	du he jia qiao ji xie	144
+渡河检查站	du he jian cha zhan	245
+渡河器材	du he qi cai	241
+渡河器材集结场	du he qi cai ji jie chang	251
+毒剂地雷	du ji di lei	547
+渡江	du jiang	272
+渡口	du kou	254
+独立工程兵	du li gong cheng bing	600
+短洞	duan dong	438
+断崖	duan ya	332
+对壕作业	dui hao zuo ye	396
+堆积式工事	dui ji shi gong shi	424
+队属工兵	dui shu gong bing	598
+队属工程兵	dui shu gong cheng bing	599
+钝化太安	dun hua tai an	56
+钝化泰恩	dun hua tai en	52
+发航点	fa hang dian	205
+发火方式	fa huo fang shi	129
+发火拉力	fa huo la li	79
+发火装置	fa huo zhuang zhi	78
+筏子	fa zi	237
+反铲	fan chan	3
+泛水	fan shui	234
+泛水线	fan shui xian	233
+反坦克手雷	fan tan ke shou lei	544
+防步兵地雷	fang bu bing di lei	557
+防步兵障碍物	fang bu bing zhang ai wu	367
+防登陆障碍物	fang deng lu zhang ai wu	365
+防光学侦察伪装	fang guang xue zhen cha wei zhuang	189
+防护门	fang hu men	389
+防护密闭门	fang hu mi bi men	388
+防空降地雷	fang kong jiang di lei	556
+防空降障碍物	fang kong jiang zhang ai wu	364
+防雷达伪装网	fang lei da wei zhuang wang	175
+防雷达侦察伪装	fang lei da zhen cha wei zhuang	190
+防热红外线侦察伪装	fang re hong wai xian zhen cha wei zhuang	188
+防坦克地雷	fang tan ke di lei	558
+防坦克壕	fang tan ke hao	342
+防坦克减速沟坝	fang tan ke jian su gou ba	337
+防坦克三角沟	fang tan ke san jiao gou	338
+防坦克三角锥	fang tan ke san jiao zhui	335
+防坦克障碍物	fang tan ke zhang ai wu	366
+防探性	fang tan xing	110
+方形舟	fang xing zhou	22
+方舟	fang zhou	24
+非爆炸性障碍物	fei bao zha xing zhang ai wu	368
+非操纵	fei cao zong	123
+非耐爆	fei nai bao	58
+飞散爆破	fei san bao po	460
+飞散角	fei san jiao	121
+封闭通路	feng bi tong lu	323
+浮囊	fu nang	238
+浮桥	fu qiao	215
+浮游部分	fu you bu fen	40
+浮游拦障	fu you lan zhang	346
+浮游桥脚	fu you qiao jiao	37
+干扰遮障	gan rao zhe zhang	178
+钢珠	gang zhu	103
+高桩铁丝网	gao zhuang tie si wang	59
+隔绝遮障	ge jue zhe zhang	177
+工兵	gong bing	601
+工兵部队	gong bing bu dui	597
+工程保障	gong cheng bao zhang	584
+工程保障计划	gong cheng bao zhang ji hua	582
+工程保障指示	gong cheng bao zhang zhi shi	581
+工程兵	gong cheng bing	603
+工程兵预备队	gong cheng bing yu bei dui	602
+工程兵战术	gong cheng bing zhan shu	585
+工程兵专业技术	gong cheng bing zhuan ye ji shu	586
+工程措施	gong cheng cuo shi	579
+工程构筑	gong cheng gou zhu	571
+工程观察哨	gong cheng guan cha shao	575
+工程机具	gong cheng ji ju	137
+工程机械	gong cheng ji xie	151
+工程机械管理	gong cheng ji xie guan li	138
+工程机械载运	gong cheng ji xie zai yun	139
+工程决心	gong cheng jue xin	580
+工程勘察	gong cheng kan cha	578
+工程量	gong cheng liang	569
+工程器材	gong cheng qi cai	563
+工程设施	gong cheng she shi	572
+工程维护部队	gong cheng wei hu bu dui	594
+工程维护总队	gong cheng wei hu zong dui	593
+工程障碍物	gong cheng zhang ai wu	371
+工程侦察	gong cheng zhen cha	577
+工程侦察群	gong cheng zhen cha qun	573
+工程侦察组	gong cheng zhen cha zu	574
+工程装备	gong cheng zhuang bei	564
+工程作业	gong cheng zuo ye	570
+攻坚爆破	gong jian bao po	457
+工事	gong shi	442
+工事防护等级	gong shi fang hu deng ji	410
+工事抗力	gong shi kang li	412
+工事抗力等级	gong shi kang li deng ji	411
+供水标准	gong shui biao zhun	156
+构筑防步兵障碍物	gou zhu fang bu bing zhang ai wu	382
+构筑防登陆障碍物	gou zhu fang deng lu zhang ai wu	380
+构筑防空降障碍物	gou zhu fang kong jiang zhang ai wu	379
+构筑防坦克障碍物	gou zhu fang tan ke zhang ai wu	381
+构筑工事	gou zhu gong shi	441
+构筑给水站	gou zhu ji shui zhan	164
+构筑障碍物	gou zhu zhang ai wu	383
+固定桥脚	gu ding qiao jiao	38
+挂弹	gua tan	90
+观察工事	guan cha gong shi	430
+灌注	guan zhu	393
+光面爆破	guang mian bao po	452
+诡雷	gui lei	542
+轨条砦	gui tiao zhai	330
+滚筒码头	gun tong ma tou	19
+过水路面	guo shui lu mian	303
+壕底	hao di	341
+壕宽	hao kuan	339
+壕深	hao shen	340
+核心工事	he xin gong shi	413
+河中舟	he zhong zhou	225
+黑色火药	hei se huo yao	495
+黑色炸药	hei se zha yao	496
+黑索今	hei suo jin	96
+横桁	heng heng	27
+桁架滚送器	heng jia gun song qi	28
+桁架连接器	heng jia lian jie qi	14
+横向路	heng xiang lu	316
+化学地雷	hua xue di lei	548
+回流	hui liu	203
+回填	hui tian	391
+混合地雷场	hun he di lei chang	518
+混合雷场	hun he lei chang	517
+火工品	huo gong pin	491
+火箭爆破器	huo jian bao po qi	449
+火箭爆破弹	huo jian bao po tan	448
+火箭布雷弹	huo jian bu lei tan	531
+火具	huo ju	492
+火雷管	huo lei guan	77
+火帽	huo mao	487
+火药	huo yao	500
+火障	huo zhang	361
+火障碍物	huo zhang ai wu	362
+机动设置障碍物	ji dong she zhi zhang ai wu	374
+击发机构	ji fa ji gou	99
+汲水	ji shui	155
+给水点	ji shui dian	162
+给水器材	ji shui qi cai	158
+给水勤务	ji shui qin wu	157
+给水站	ji shui zhan	163
+集团药包	ji tuan yao bao	476
+机械场	ji xie chang	142
+机械场勤务	ji xie chang qin wu	141
+机械化桥	ji xie hua qiao	283
+机械技术检查站	ji xie ji shu jian cha zhan	140
+急造军路	ji zao jun lu	319
+假目标	jia mu biao	167
+架桥	jia qiao	293
+架桥车	jia qiao che	150
+架设桥梁	jia she qiao liang	292
+加隙板	jia xi ban	21
+架柱栈桥	jia zhu zhan qiao	18
+尖形舟	jian xing zhou	23
+尖舟	jian zhou	25
+建筑部队	jian zhu bu dui	595
+江河水雷	jiang he shui lei	536
+角反射器	jiao fan she qi	170
+交通壕	jiao tong hao	434
+交通量	jiao tong liang	311
+脚线	jiao xian	67
+接近路	jie jin lu	313
+街垒	jie lei	327
+进出口	jin chu kou	39
+进出口桁	jin chu kou heng	29
+进出路	jin chu lu	315
+近迫作业	jin po zuo ye	397
+经始	jing shi	399
+净水	jing shui	154
+就便器材	jiu bian qi cai	562
+拒马	ju ma	344
+掘进	jue jin	395
+掘开式工事	jue kai shi gong shi	426
+军事工程学术	jun shi gong cheng xue shu	587
+军用道路	jun yong dao lu	321
+军用桥梁	jun yong qiao liang	294
+开辟通路	kai pi tong lu	325
+开设渡场	kai she du chang	261
+康铜桥丝	kang tong qiao si	72
+康铜桥丝电雷管	kang tong qiao si dian lei guan	71
+可撒布地雷	ke sa bu di lei	532
+坑道	keng dao	422
+坑道爆破	keng dao bao po	453
+坑道工事	keng dao gong shi	423
+坑道维护	keng dao wei hu	386
+控制标示绳	kong zhi biao shi sheng	49
+扩爆药	kuo bao yao	98
+扩爆药柱	kuo bao yao zhu	97
+拉火柄	la huo bing	484
+拉火管	la huo guan	488
+拉火拴	la huo shuan	100
+拉火丝	la huo si	486
+拦障	lan zhang	347
+雷场	lei chang	521
+雷场勤务	lei chang qin wu	519
+雷场文件	lei chang wen jian	520
+雷达散射网	lei da san she wang	174
+雷带	lei dai	526
+雷锭	lei ding	94
+雷汞	lei gong	75
+雷管	lei guan	490
+雷壳	lei ke	114
+雷列	lei lie	525
+雷区	lei qu	527
+雷索	lei suo	93
+雷体	lei ti	104
+连环雷	lian huan lei	541
+流线	liu xian	204
+路面构件	lu mian gou jian	306
+露天工事	lu tian gong shi	415
+鹿砦	lu zhai	348
+路障	lu zhang	345
+卵形工事	luan xing gong shi	416
+轮式荷载	lun shi he zai	276
+轮式轴压	lun shi zhou ya	26
+螺旋固定桩	luo xuan gu ding zhuang	48
+履带接地长	lv dai jie di chang	1
+履带式荷载	lv dai shi he zai	275
+帽堡	mao bao	406
+锚定门桥	mao ding men qiao	209
+锚定水雷	mao ding shui lei	533
+门桥	men qiao	212
+门桥长	men qiao chang	36
+门桥渡场	men qiao du chang	256
+门桥渡河	men qiao du he	266
+密闭门	mi bi men	387
+迷彩	mi cai	195
+迷彩服	mi cai fu	194
+迷彩伪装	mi cai wei zhuang	196
+密集杀伤半径	mi ji sha shang ban jing	119
+密集杀伤角	mi ji sha shang jiao	102
+密集杀伤距离	mi ji sha shang ju li	120
+民舟	min zhou	239
+摩擦药	mo ca yao	485
+目标暴露征候	mu biao bao lu zheng hou	169
+目标伪装	mu biao wei zhuang	187
+耐爆	nai bao	57
+耐爆性	nai bao xing	113
+耐爆性能	nai bao xing neng	112
+镍铬桥丝	nie ge qiao si	46
+镍铬桥丝电雷管	nie ge qiao si dian lei guan	45
+排除防步兵障碍物	pai chu fang bu bing zhang ai wu	378
+排除防登陆障碍物	pai chu fang deng lu zhang ai wu	376
+排除防空降障碍物	pai chu fang kong jiang zhang ai wu	375
+排除防坦克障碍物	pai chu fang tan ke zhang ai wu	377
+排除障碍物	pai chu zhang ai wu	384
+排雷	pai lei	516
+排弹	pai tan	515
+抛射药包	pao she yao bao	474
+配水	pei shui	152
+喷火距离	pen huo ju li	60
+喷火时间	pen huo shi jian	54
+偏流距离	pian liu ju li	202
+漂雷	piao lei	535
+破坏药	po huai yao	501
+破坏作业	po huai zuo ye	447
+破片地雷	po pian di lei	543
+起爆	qi bao	465
+起爆电流	qi bao dian liu	70
+起爆能力	qi bao neng li	44
+起爆器	qi bao qi	467
+起爆药	qi bao yao	502
+器材集结场	qi cai ji jie chang	250
+堑壕	qian hao	435
+前沿前	qian yan qian	131
+牵引汽艇	qian yin qi ting	222
+强行爆破	qiang xing bao po	456
+桥板	qiao ban	115
+桥础	qiao chu	31
+桥础材	qiao chu cai	30
+桥渡场	qiao du chang	255
+桥桁	qiao heng	116
+桥脚	qiao jiao	231
+桥脚舟	qiao jiao zhou	230
+桥节	qiao jie	12
+桥节车	qiao jie che	11
+桥节门桥	qiao jie men qiao	211
+桥梁渡河	qiao liang du he	265
+桥梁渡河器材	qiao liang du he qi cai	135
+桥梁跨径	qiao liang kua jing	278
+桥梁维护	qiao liang wei hu	274
+桥头	qiao tou	13
+桥轴线	qiao zhou xian	279
+轻便器材渡场	qing bian qi cai du chang	257
+轻便器材渡河	qing bian qi cai du he	267
+轻便桥	qing bian qiao	285
+倾斜遮障	qing xie zhe zhang	181
+轻型舟桥	qing xing zhou qiao	217
+泅渡	qiu du	269
+泅渡场	qiu du chang	259
+球形工事	qiu xing gong shi	417
+全备弹	quan bei tan	82
+全形舟	quan xing zhou	17
+燃料空气炸药	ran liao kong qi zha yao	494
+燃烧地雷	ran shao di lei	549
+燃速	ran su	61
+人工伪装	ren gong wei zhuang	198
+人工障碍物	ren gong zhang ai wu	372
+人工遮障	ren gong zhe zhang	184
+散兵坑	san bing keng	403
+三角码头	san jiao ma tou	15
+三角锥	san jiao zhui	336
+扫雷	sao lei	514
+扫雷锚	sao lei mao	508
+扫雷器	sao lei qi	509
+扫雷器材	sao lei qi cai	510
+上部结构	shang bu jie gou	229
+射程	she cheng	83
+蛇腹性铁丝网	she fu xing tie si wang	350
+射击工事	she ji gong shi	431
+射界	she jie	84
+伸缩门桥	shen suo men qiao	210
+实施工程侦察	shi shi gong cheng zhen cha	576
+实施破坏作业	shi shi po huai zuo ye	130
+实施伪装	shi shi wei zhuang	200
+首脑工程	shou nao gong cheng	132
+首舟	shou zhou	34
+水面上桥	shui mian shang qiao	9
+水面下桥	shui mian xia qiao	290
+水平遮障	shui ping zhe zhang	183
+水源污染	shui yuan wu ran	161
+水障	shui zhang	355
+水障碍物	shui zhang ai wu	360
+水质改善	shui zhi gai shan	159
+水质鉴定	shui zhi jian ding	160
+水中爆破	shui zhong bao po	455
+水中障碍物	shui zhong zhang ai wu	356
+瞬发	shun fa	124
+松发	song fa	127
+松散爆破	song san bao po	459
+塑性炸药	su xing zha yao	499
+遂行工程保障	sui xing gong cheng bao zhang	583
+索道桥	suo dao qiao	289
+塌方	ta fang	390
+弹长	tan chang	89
+弹径	tan jing	88
+探雷器	tan lei qi	512
+探雷器材	tan lei qi cai	513
+探雷针	tan lei zhen	511
+特屈儿	te qu er	55
+特种地雷	te zhong di lei	555
+特种舟桥	te zhong zhou qiao	220
+腾炸高度	teng zha gao du	109
+梯恩梯	ti en ti	498
+天然伪装	tian ran wei zhuang	199
+天然障碍物	tian ran zhang ai wu	373
+天然遮障	tian ran zhe zhang	185
+跳板	tiao ban	20
+跳雷	tiao lei	546
+铁丝网	tie si wang	351
+通路勤务	tong lu qin wu	324
+通路通行能力	tong lu tong xing neng li	310
+透水路基	tou shui lu ji	301
+透水路提	tou shui lu ti	302
+徒步浮桥	tu bu fu qiao	214
+徒步桥	tu bu qiao	280
+土工作业	tu gong zuo ye	398
+徒涉	tu she	271
+徒涉场	tu she chang	260
+徒涉渡河	tu she du he	270
+屯兵工事	tun bing gong shi	432
+外壕	wai hao	326
+尾舟	wei zhou	33
+伪装	wei zhuang	201
+伪装部队	wei zhuang bu dui	592
+伪装器材	wei zhuang qi cai	168
+伪装伞	wei zhuang san	171
+伪装蚀片	wei zhuang shi pian	173
+伪装网	wei zhuang wang	176
+伪装衣	wei zhuang yi	172
+陷阱	xian jing	329
+橡皮舟	xiang pi zhou	236
+硝铵炸药	xiao an zha yao	497
+斜撑桥	xie cheng qiao	287
+信号地雷	xin hao di lei	554
+行车密度	xing che mi du	309
+行军角	xing jun jiao	91
+修筑道路	xiu zhu dao lu	320
+削壁	xue bi	334
+雪垒	xue lei	358
+巡回保障	xun hui bao zhang	296
+压板	ya ban	105
+崖壁	ya bi	333
+压发	ya fa	128
+崖孔	ya kong	437
+压缩爆破	ya suo bao po	458
+掩蔽部	yan bi bu	402
+掩蔽工事	yan bi gong shi	427
+掩蔽所	yan bi suo	401
+掩盖工事	yan gai gong shi	414
+掩盖遮障	yan gai zhe zhang	180
+掩壕	yan hao	436
+烟幕伪装	yan mu wei zhuang	193
+延期地雷	yan qi di lei	552
+延期电雷管	yan qi dian lei guan	64
+延期时间	yan qi shi jian	63
+延期时间误差	yan qi shi jian wu cha	62
+掩体	yan ti	405
+养护	yang hu	392
+药包	yao bao	477
+药壶	yao hu	471
+遥控距离	yao kong ju li	43
+遥控起爆器	yao kong qi bao qi	466
+药块	yao kuai	479
+药室	yao shi	472
+液体炸药	ye ti zha yao	493
+野战工程给水	ye zhan gong cheng ji shui	165
+野战工程机械	ye zhan gong cheng ji xie	147
+野战工事	ye zhan gong shi	439
+野战给水	ye zhan ji shui	166
+野战给水工程分队	ye zhan ji shui gong cheng fen dui	591
+野战筑城	ye zhan zhu cheng	443
+移动性障碍物	yi dong xing zhang ai wu	363
+隐蔽爆破	yin bi bao po	454
+音响伪装	yin xiang wei zhuang	191
+应用地雷	ying yong di lei	539
+应用水雷	ying yong shui lei	537
+永备工事	yong bei gong shi	440
+永备筑城	yong bei zhu cheng	444
+永备筑城工程机械	yong bei zhu cheng gong cheng ji xie	148
+有效杀伤半径	you xiao sha shang ban jing	117
+有效杀伤距离	you xiao sha shang ju li	118
+预备路	yu bei lu	312
+迂回路	yu hui lu	314
+预制构件	yu zhi gou jian	560
+缘材	yuan cai	32
+运动保障	yun dong bao zhang	297
+运动保障队	yun dong bao zhang dui	590
+炸药	zha yao	503
+炸药包	zha yao bao	478
+战斗保险期	zhan dou bao xian qi	92
+战斗部	zhan dou bu	85
+战斗工事	zhan dou gong shi	433
+栈桥	zhan qiao	213
+障碍排除队	zhang ai pai chu dui	588
+障碍设置队	zhang ai she zhi dui	589
+障碍深	zhang ai shen	8
+障碍物	zhang ai wu	385
+障碍物密度	zhang ai wu mi du	352
+障碍物配系	zhang ai wu pei xi	353
+障碍物体系	zhang ai wu ti xi	354
+照明地雷	zhao ming di lei	550
+遮障	zhe zhang	186
+阵地机械	zhen di ji xie	146
+正铲	zheng chan	4
+整体式工事	zheng ti shi gong shi	418
+指挥防护工程	zhi hui fang hu gong cheng	133
+指挥工事	zhi hui gong shi	429
+指挥所掩蔽工事	zhi hui suo yan bi gong shi	428
+直列药包	zhi lie yao bao	475
+制式地雷	zhi shi di lei	122
+制式器材	zhi shi qi cai	561
+制式桥	zhi shi qiao	286
+制式桥梁器材	zhi shi qiao liang qi cai	281
+制式药块	zhi shi yao kuai	480
+植物伪装	zhi wu wei zhuang	197
+中间舟	zhong jian zhou	35
+重型舟桥	zhong xing zhou qiao	218
+舟车	zhou che	223
+轴荷分配	zhou he fen pei	2
+舟桥	zhou qiao	232
+舟桥部队	zhou qiao bu dui	596
+舟桥器材	zhou qiao qi cai	235
+舟桥器材泛水	zhou qiao qi cai fan shui	221
+轴压力	zhou ya li	42
+筑城	zhu cheng	445
+筑城障碍物	zhu cheng zhang ai wu	369
+筑路机械	zhu lu ji xie	145
+竹签桩	zhu qian zhuang	349
+贮水	zhu shui	153
+助旋发动机	zhu xuan fa dong ji	87
+主装药	zhu zhuang yao	76
+装配式公路钢桥	zhuang pei shi gong lu gang qiao	282
+装配式工事	zhuang pei shi gong shi	419
+装药	zhuang yao	473
+装药重	zhuang yao zhong	95
+桩砦	zhuang zhai	331
+准爆电流	zhun bao dian liu	69
+自行舟桥	zi xing zhou qiao	216
+自由航速	zi you hang su	6
+纵长米	zong chang mi	565
+纵向路	zong xiang lu	317
+最大飞散角	zui da fei san jiao	101
+作业力	zuo ye li	567
+作业量	zuo ye liang	568
+作业率	zuo ye lv	566

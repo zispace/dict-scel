@@ -1,0 +1,535 @@
+# 词库名称: 南京房产
+# 词库分类: 个人专用
+# 词库描述: 南京房产
+# 词条样例: 具体格式可以参考下面的实例、最多支持行自定义短语、时间函数功能具体定义格式如下、函数表如下、年中文位二六、年中文位六
+# 解析词数: 528
+# 解析异常: 0
+
+爱咋咋帝	ai za za di	20
+奥体新城	ao ti xin cheng	501
+奥体中心	ao ti zhong xin	500
+百合果园	bai he guo yuan	496
+白下路	bai xia lu	492
+白下区	bai xia qu	491
+白云园	bai yun yuan	487
+办公出租	ban gong chu zu	498
+办公楼	ban gong lou	497
+办公装修	ban gong zhuang xiu	64
+办公装修简单办公设施适合办公	ban gong zhuang xiu jian dan ban gong she shi shi he ban gong	502
+板楼	ban lou	26
+宝地园	bao di yuan	499
+宝苑新寓	bao yuan xin yu	488
+碧树园	bi shu yuan	493
+碧瑶花园	bi yao hua yuan	489
+标营	biao ying	490
+别墅	bie shu	494
+滨江奥城	bin jiang ao cheng	495
+草场门大街上	cao chang men da jie shang	484
+长安国际中心	chang an guo ji zhong xin	486
+长白街	chang bai jie	485
+长发蜂巢	chang fa feng chao	483
+长发银座	chang fa yin zuo	481
+长江路九号	chang jiang lu jiu hao	476
+长江贸易大楼	chang jiang mao yi da lou	475
+长江之家	chang jiang zhi jia	474
+长阳花园	chang yang hua yuan	460
+朝天宫	chao tian gong	462
+车位车库	che wei che ku	31
+辰龙广场	chen long guang chang	470
+辰龙绿苑	chen long lv yuan	471
+城开国际大厦	cheng kai guo ji da sha	472
+城开家园	cheng kai jia yuan	473
+城市假日	cheng shi jia ri	463
+城市名人酒店	cheng shi ming ren jiu dian	464
+宠物	chong wu	247
+储藏室地下室	chu cang shi di xia shi	30
+锄禾日当午	chu he ri dang wu	480
+出售	chu shou	465
+出租	chu zu	458
+床前明月光	chuang qian ming yue guang	469
+创新滨江广场	chuang xin bin jiang guang chang	461
+春风大厦	chun feng da sha	482
+错层	cuo ceng	37
+大光路	da guang lu	452
+大华锦绣华城	da hua jin xiu hua cheng	451
+达美广场	da mei guang chang	447
+大桥南路	da qiao nan lu	3
+大行宫	da xing gong	440
+大行宫办公区	da xing gong ban gong qu	439
+大行宫大厦	da xing gong da sha	438
+大洋百货	da yang bai huo	435
+大正投资大厦	da zheng tou zi da sha	431
+大中桥	da zhong qiao	432
+丹凤新寓	dan feng xin yu	46
+单身公寓	dan shen gong yu	445
+单行的格式	dan xing de ge shi	526
+德基大厦	de ji da sha	448
+德盈大厦	de ying da sha	434
+第七大道	di qi da dao	446
+地铁大厦	di tie da sha	441
+地铁二号线	di tie er hao xian	444
+地铁楼盘	di tie lou pan	442
+地铁一号线	di tie yi hao xian	443
+低头思故乡	di tou si gu xiang	466
+地下室	di xia shi	29
+典雅居	dian ya ju	433
+定淮门大街上	ding huai men da jie shang	450
+丁香园	ding xiang yuan	437
+东宝花园	dong bao hua yuan	457
+东渡新锐大厦	dong du xin rui da sha	456
+东方金融大厦	dong fang jin rong da sha	453
+东方名苑	dong fang ming yuan	455
+东方商城	dong fang shang cheng	454
+东恒国际大厦	dong heng guo ji da sha	449
+东宇大厦	dong yu da sha	436
+多行的格式	duo hang de ge shi	525
+多行短语	duo hang duan yu	524
+芳草园	fang cao yuan	428
+芳叮园	fang ding yuan	427
+房屋	fang wu	422
+分中文零二零八十五二十八	fen zhong wen ling er ling ba shi wu er shi ba	505
+凤凰国际大厦	feng huang guo ji da sha	424
+凤凰和鸣苑	feng huang he ming yuan	17
+凤凰和熙苑	feng huang he xi yuan	426
+丰汇大厦	feng hui da sha	425
+福安园	fu an yuan	429
+福建路	fu jian lu	5
+富升大厦	fu sheng da sha	423
+复式	fu shi	35
+福鑫国际大厦	fu xin guo ji da sha	421
+夫子庙	fu zi miao	420
+港龙园	gang long yuan	407
+高档物业	gao dang wu ye	417
+高档小区	gao dang xiao qu	416
+高档写字楼	gao dang xie zi lou	418
+高教新村	gao jiao xin cun	410
+舸舫园	ge fang yuan	301
+阁楼	ge lou	25
+公寓	gong yu	405
+狗耳巷	gou er xiang	7
+鼓教新村	gu jiao xin cun	413
+鼓楼	gu lou	409
+鼓楼区	gu lou qu	408
+谷阳世纪大厦	gu yang shi ji da sha	404
+观城	guan cheng	419
+光华门	guang hua men	414
+广州路	guang zhou lu	403
+国华大厦	guo hua da sha	415
+国际经贸大厦	guo ji jing mao da sha	412
+国际贸易中心	guo ji mao yi zhong xin	411
+国美家电	guo mei jia dian	406
+海德卫城	hai de wei cheng	400
+海棠园	hai tang yuan	53
+海通大厦	hai tong da sha	370
+汗滴禾下土	han di he xia tu	479
+函数表如下	han shu biao ru xia	520
+函数含义举例	han shu han yi ju li	519
+好房出售	hao fang chu shou	397
+好房出租	hao fang chu zu	396
+和平大厦	he ping da sha	377
+和泰国际大厦	he tai guo ji da sha	369
+黑龙江路	hei long jiang lu	39
+恒辉翡翠城	heng hui fei cui cheng	394
+恒基国际公寓	heng ji guo ji gong yu	390
+宏安大厦	hong an da sha	402
+鸿都大厦	hong dou da sha	398
+鸿发大厦	hong fa da sha	395
+宏普捷座	hong pu jie zuo	378
+虹桥新城市广场	hong qiao xin cheng shi guang chang	373
+宏图大厦	hong tu da sha	368
+宏图香榭里	hong tu xiang xie li	371
+洪武路	hong wu lu	365
+洪武南路	hong wu nan lu	366
+鸿邺大厦	hong ye da sha	358
+鸿运大厦	hong yun da sha	359
+湖景花园	hu jing hua yuan	391
+虎距北路	hu ju bei lu	393
+湖南路商业地带	hu nan lu shang ye di dai	381
+华保新寓	hua bao xin yu	401
+华富大厦	hua fu da sha	8
+花开四季	hua kai si ji	387
+花开园	hua kai yuan	388
+华利国际	hua li guo ji	385
+华茂大厦	hua mao da sha	384
+华美大厦	hua mei da sha	383
+华美达怡华酒店	hua mei da yi hua jiu dian	382
+华能城市	hua neng cheng shi	380
+华侨城	hua qiao cheng	374
+华侨大厦	hua qiao da sha	375
+华侨路	hua qiao lu	1
+华荣大厦	hua rong da sha	372
+华泰证券大厦	hua tai zheng quan da sha	367
+华威大厦	hua wei da sha	364
+华夏大厦	hua xia da sha	363
+华新大厦	hua xin da sha	361
+华阳佳园	hua yang jia yuan	360
+环境优雅	huan jing you ya	392
+幻想	huan xiang	246
+黄埔大厦	huang pu da sha	379
+黄埔科技大厦	huang pu ke ji da sha	376
+汇杰广场	hui jie guang chang	389
+汇林绿洲	hui lin lv zhou	40
+汇贤居	hui xian ju	362
+集庆门	ji qing men	322
+佳盛花园	jia sheng hua yuan	319
+嘉业国际城	jia ye guo ji cheng	307
+嘉业阳光城	jia ye yang guang cheng	309
+建达大厦	jian da da sha	348
+简单清爽装修	jian dan qing shuang zhuang xiu	63
+建华大厦	jian hua da sha	341
+建伟大厦	jian wei da sha	313
+建邺区	jian ye qu	308
+建宇大厦	jian yu da sha	311
+建筑面积	jian zhu mian ji	33
+江滨新寓	jiang bin xin yu	353
+江东北路	jiang dong bei lu	350
+江南名府	jiang nan ming fu	326
+江宁区	jiang ning qu	325
+江畔明珠广场	jiang pan ming zhu guang chang	324
+江苏商厦	jiang su shang sha	317
+江苏数码港	jiang su shu ma gang	320
+江苏议事园	jiang su yi shi yuan	318
+教工新村	jiao gong xin cun	345
+交通发达	jiao tong fa da	315
+交通一村	jiao tong yi cun	12
+街区	jie qu	323
+金奥大厦	jin ao da sha	354
+金城大厦	jin cheng da sha	352
+金鼎湾	jin ding wan	351
+金峰大厦	jin feng da sha	346
+金港大厦	jin gang da sha	344
+金海园	jin hai yuan	340
+锦湖大厦	jin hu da sha	342
+锦华大厦	jin hua da sha	343
+金基汇锦国际	jin ji hui jin guo ji	338
+锦江花苑	jin jiang hua yuan	337
+锦江丽舍	jin jiang li she	339
+金陵大公馆	jin ling da gong guan	336
+金陵饭店	jin ling fan dian	334
+金岭家园	jin ling jia yuan	333
+金陵名人居	jin ling ming ren ju	330
+金陵世纪花园	jin ling shi ji hua yuan	335
+金陵园	jin ling yuan	331
+金銮大厦	jin luan da sha	55
+金轮国际广场	jin lun guo ji guang chang	328
+金轮华尔兹	jin lun hua er zi	44
+金马骊城	jin ma li cheng	327
+金山大厦	jin shan da sha	316
+金丝利喜来登	jin si li xi lai deng	321
+金湾花园	jin wan hua yuan	314
+金信花园	jin xin hua yuan	312
+锦盈大厦	jin ying da sha	306
+金鹰国际购物中心	jin ying guo ji gou wu zhong xin	310
+金鹰国际商城	jin ying guo ji shang cheng	304
+金源大厦	jin yuan da sha	305
+金舟花园	jin zhou hua yuan	303
+经典家园	jing dian jia yuan	11
+精装修	jing zhuang xiu	62
+酒店式公寓	jiu dian shi gong yu	349
+聚福园	ju fu yuan	347
+具体格式可以参考下面的实例	ju ti ge shi ke yi can kao xia mian de shi li	523
+举头望明月	ju tou wang ming yue	467
+君临国际	jun lin guo ji	329
+君园	jun yuan	51
+开间	kai jian	34
+凯润金城	kai run jin cheng	50
+开元大厦	kai yuan da sha	300
+看房随时	kan fang sui shi	302
+快乐之城	kuai le zhi cheng	386
+拉德芳斯	la de fang si	297
+蓝天园	lan tian yuan	278
+朗晴名居	lang qing ming ju	283
+朗诗国际街区	lang shi guo ji jie qu	280
+朗诗熙园	lang shi xi yuan	282
+琅琊路小学	lang ya lu xiao xue	276
+乐瑰园	le gui yuan	292
+利奥大厦	li ao da sha	299
+力导大厦	li dao da sha	296
+丽晶国际	li jing guo ji	289
+粒粒皆辛苦	li li jie xin ku	477
+离离原上草一岁一枯荣	li li yuan shang cao yi sui yi ku rong	288
+联强国际	lian qiang guo ji	284
+两梯四户	liang ti si hu	23
+拎包入住	lin bao ru zhu	298
+临江新寓	lin jiang xin yu	291
+龙凤花园	long feng hua yuan	293
+龙凤玫瑰园	long feng mei gui yuan	294
+龙江小区商业地带	long jiang xiao qu shang ye di dai	290
+隆盛大厦	long sheng da sha	281
+龙世中心	long shi zhong xin	279
+龙台国际大厦	long tai guo ji da sha	277
+龙吟广场	long yin guang chang	275
+娄子巷小区	lou zi xiang xiao qu	14
+卢龙山庄	lu long shan zhuang	239
+露台	lu tai	28
+绿地广场	lv di guang chang	295
+买卖	mai mai	267
+毛坯房	mao pi fang	65
+毛坯房可以适当装修改造	mao pi fang ke yi shi dang zhuang xiu gai zao	503
+梅花山庄	mei hua shan zhuang	43
+美林东苑	mei lin dong yuan	269
+煤气天然气	mei qi tian ran qi	32
+门面房	men mian fang	266
+秒中文零二零八十五二十八	miao zhong wen ling er ling ba shi wu er shi ba	504
+民族大厦	min zu da sha	263
+明城大厦	ming cheng da sha	272
+明发滨江新城	ming fa bin jiang xin cheng	270
+名仕嘉园	ming shi jia yuan	265
+莫愁湖公园	mo chou hu gong yuan	274
+莫愁湖旁	mo chou hu pang	273
+摩尔特区	mo er te qu	271
+木马公寓	mu ma gong yu	268
+苜蓿园大街上	mu xu yuan da jie shang	264
+南房置换	nan fang zhi huan	6
+南京车站	nan jing che zhan	261
+南京二手房交流群	nan jing er shou fang jiao liu qun	22
+南京精品房源推荐	nan jing jing pin fang yuan tui jian	356
+南京新地中心	nan jing xin di zhong xin	149
+年位	nian wei	518
+年中文位二六	nian zhong wen wei er liu	513
+年中文位六	nian zhong wen wei liu	512
+宁工新寓	ning gong xin yu	262
+欧洲城	ou zhou cheng	259
+配套设施	pei tao she shi	27
+平安里	ping an li	21
+平层	ping ceng	38
+平方	ping fang	258
+评事街	ping shi jie	256
+浦口区	pu kou qu	257
+普通住宅	pu tong zhu zhai	255
+栖霞建设	qi xia jian she	41
+栖霞区	qi xia qu	126
+千秋情园	qian qiu qing yuan	248
+桥北新村	qiao bei xin cun	254
+秦淮河	qin huai he	2
+秦淮区	qin huai qu	253
+青华大厦	qing hua da sha	252
+清江花苑	qing jiang hua yuan	250
+清江西苑	qing jiang xi yuan	251
+清凉门大街上	qing liang men da jie shang	249
+曲水文华	qu shui wen hua	245
+仁恒国际公寓	ren heng guo ji gong yu	242
+日此函数在输入法版之后含有效	ri ci han shu zai shu ru fa ban zhi hou han you xiao	516
+日月大厦	ri yue da sha	235
+日中文三十三二十二	ri zhong wen san shi san er shi er	510
+融侨中央花园	rong qiao zhong yang hua yuan	238
+融寓	rong yu	236
+瑞华大厦	rui hua da sha	243
+瑞金大厦	rui jin da sha	240
+瑞金路	rui jin lu	241
+瑞鑫兰庭	rui xin lan ting	237
+润富花园	run fu hua yuan	244
+三牌楼大街	san pai lou da jie	16
+三牌楼小区	san pai lou xiao qu	15
+三山街	san shan jie	212
+山西路商业街上	shan xi lu shang ye jie shang	208
+商茂世纪广场	shang mao shi ji guang chang	221
+商铺	shang pu	215
+上午下午中文上午下午	shang wu xia wu zhong wen shang wu xia wu	506
+商用房	shang yong fang	207
+商住两用楼	shang zhu liang yong lou	203
+商住楼	shang zhu lou	204
+设施齐全	she shi qi quan	214
+生活方便	sheng huo fang bian	228
+圣淘沙花城	sheng tao sha hua cheng	210
+盛天大厦	sheng tian da sha	56
+升州商务楼	sheng zhou shang wu lou	202
+世纪花园	shi ji hua yuan	332
+时间函数功能具体定义格式如下	shi jian han shu gong neng ju ti ding yi ge shi ru xia	521
+世茂大厦	shi mao da sha	223
+世贸大厦	shi mao da sha	224
+世贸中心大厦	shi mao zhong xin da sha	222
+时小时制	shi xiao shi zhi	514
+时中文时制二八十三二十三	shi zhong wen shi zhi er ba shi san er shi san	508
+时中文时制二八一十一	shi zhong wen shi zhi er ba yi shi yi	507
+水木秦淮旁	shui mu qin huai pang	54
+水西门	shui xi men	209
+谁知盘中餐	shui zhi pan zhong can	478
+丝绸大厦	si chou da sha	232
+颂德里	song de li	13
+宋都奥体名座	song du ao ti ming zuo	230
+宋都美域	song du mei yu	231
+苏城北苑	su cheng bei yuan	233
+苏城南苑	su cheng nan yuan	234
+苏果超市	su guo chao shi	229
+苏豪大厦	su hao da sha	227
+苏建城	su jian cheng	225
+苏建艳阳居	su jian yan yang ju	226
+苏宁电器	su ning dian qi	220
+苏宁乐瑰园	su ning le gui yuan	217
+苏宁千秋情缘	su ning qian qiu qing yuan	219
+苏宁馨瑰园	su ning xin gui yuan	218
+苏宁雅瑰园	su ning ya gui yuan	216
+苏苑大厦	su yuan da sha	205
+随时看房	sui shi kan fang	211
+随时入住	sui shi ru zhu	213
+随园大厦	sui yuan da sha	206
+太平南路	tai ping nan lu	192
+太平商务大厦	tai ping shang wu da sha	190
+太平洋电子商城	tai ping yang dian zi shang cheng	189
+腾飞园	teng fei yuan	199
+天安国际大厦	tian an guo ji da sha	201
+天安恒隆花园	tian an heng long hua yuan	42
+天诚大厦	tian cheng da sha	200
+天丰大厦	tian feng da sha	197
+天鹤文云商务大厦	tian he wen yun shang wu da sha	195
+天空之都	tian kong zhi du	193
+天平新村	tian ping xin cun	191
+天启花园	tian qi hua yuan	188
+天润城	tian run cheng	187
+天水滨江	tian shui bin jiang	186
+天同苑	tian tong yuan	185
+天星翠琅	tian xing cui lang	184
+天正湖滨花园	tian zheng hu bin hua yuan	180
+挑高两层	tiao gao liang ceng	196
+通服大厦	tong fu da sha	198
+通济门	tong ji men	194
+通宇大厦	tong yu da sha	182
+投资大厦	tou zi da sha	181
+万达广场	wan da guang chang	177
+万达华府	wan da hua fu	176
+万江共和新城	wan jiang gong he xin cheng	172
+万科安品街项目	wan ke an pin jie xiang mu	170
+万科光明城市	wan ke guang ming cheng shi	165
+万科红郡	wan ke hong jun	167
+万科金色城品	wan ke jin se cheng pin	166
+万科金色家园	wan ke jin se jia yuan	164
+万科金域堤香	wan ke jin yu di xiang	163
+万科金域蓝湾	wan ke jin yu lan wan	168
+万科金域缇香	wan ke jin yu ti xiang	169
+望江新寓	wang jiang xin yu	171
+王先生	wang xian sheng	178
+未来城	wei lai cheng	162
+蔚蓝之都	wei lan zhi du	161
+威尼斯水城	wei ni si shui cheng	160
+文化大厦	wen hua da sha	174
+文荟大厦	wen hui da sha	173
+闻涛公寓	wen tao gong yu	158
+沃尔玛超市	wo er ma chao shi	175
+五台花园	wu tai hua yuan	159
+五星电器	wu xing dian qi	157
+五星年华	wu xing nian hua	156
+西堤国际	xi di guo ji	130
+下关区	xia guan qu	145
+现代大厦	xian dai da sha	150
+先锋广场	xian feng guang chang	148
+香格里拉	xiang ge li la	146
+香缇丽舍	xiang ti li she	131
+消息大妈	xiao xi da ma	357
+写字楼	xie zi lou	121
+新晨国际大厦	xin chen guo ji da sha	152
+新城大厦	xin cheng da sha	153
+新城市广场	xin cheng shi guang chang	155
+新城逸境	xin cheng yi jing	154
+新大都广场	xin da du guang chang	151
+鑫宏花园	xin hong hua yuan	144
+新街口	xin jie kou	142
+新街口商业圈	xin jie kou shang ye quan	141
+新门口	xin men kou	4
+新锐国际	xin rui guo ji	139
+新世纪广场	xin shi ji guang chang	132
+新世纪中心	xin shi ji zhong xin	134
+新世界中心	xin shi jie zhong xin	133
+新月大厦	xin yue da sha	122
+幸福美地花园	xing fu mei di hua yuan	147
+形管	xing guan	179
+星汉大厦	xing han da sha	143
+兴隆大街	xing long da jie	140
+星期	xing qi	515
+星期中文日一二五六	xing qi zhong wen ri yi er wu liu	509
+型台	xing tai	183
+形腿	xing tui	260
+兴业大厦	xing ye da sha	124
+星雨华府	xing yu hua fu	125
+兴元嘉园	xing yuan jia yuan	45
+星月大厦	xing yue da sha	123
+雄师国际	xiong shi guo ji	135
+旭日华庭	xu ri hua ting	136
+旭日家园	xu ri jia yuan	137
+旭日上城	xu ri shang cheng	138
+玄武湖边	xuan wu hu bian	128
+玄武湖公园	xuan wu hu gong yuan	129
+玄武区	xuan wu qu	127
+亚东名座	ya dong ming zuo	115
+雅瑰园	ya gui yuan	107
+雅居乐	ya ju le	47
+燕山路	yan shan lu	95
+杨公井	yang gong jing	110
+阳光大厦	yang guang da sha	106
+阳光广场	yang guang guang chang	108
+野火烧不尽春风吹又生	ye huo shao bu jin chun feng chui you sheng	287
+一把抓新世纪	yi ba zhua xin shi ji	430
+易发科技大厦	yi fa ke ji da sha	112
+易发信息大厦	yi fa xin xi da sha	111
+颐和商厦	yi he shang sha	104
+易家	yi jia	355
+壹空间鸿德大厦	yi kong jian hong de da sha	399
+疑是地上霜	yi shi di shang shuang	468
+一梯两户	yi ti liang hu	24
+银城大厦	yin cheng da sha	116
+银城花园	yin cheng hua yuan	118
+银城街小区	yin cheng jie xiao qu	119
+银都商厦	yin du shang sha	114
+银河国际广场	yin he guo ji guang chang	103
+盈嘉大厦	ying jia da sha	100
+永丰大厦	yong feng da sha	113
+永嘉年华	yong jia nian hua	102
+又送王孙去萋萋满别情	you song wang sun qu qi qi man bie qing	285
+友谊商务大厦	you yi shang wu da sha	92
+有意者请尽快联系王先生	you yi zhe qing jin kuai lian xi wang xian sheng	57
+育才公寓	yu cai gong yu	117
+裕华民居	yu hua min ju	49
+雨花台区	yu hua tai qu	105
+雨润国际广场	yu run guo ji guang chang	96
+御水湾花园	yu shui wan hua yuan	48
+裕顺雅苑	yu shun ya yuan	94
+语言	yu yan	459
+远芳侵古道晴翠接荒城	yuan fang qin gu dao qing cui jie huang cheng	286
+元平方	yuan ping fang	98
+元平方天	yuan ping fang tian	99
+元月	yuan yue	97
+月安花园	yue an hua yuan	52
+月安街	yue an jie	120
+跃层	yue ceng	36
+月此函数在输入法版之后含有效	yue ci han shu zai shu ru fa ban zhi hou han you xiao	517
+月光广场	yue guang guang chang	109
+月牙湖花园	yue ya hu hua yuan	93
+月中文十二八三	yue zhong wen shi er ba san	511
+云锦美地	yun jin mei di	101
+赞成湖畔居	zan cheng hu pan ju	91
+张女士	zhang nv shi	18
+张先生	zhang xian sheng	19
+珍珠花苑	zhen zhu hua yuan	58
+正大瑞景	zheng da rui jing	90
+正规物业	zheng gui wu ye	88
+正洪大厦	zheng hong da sha	83
+正泰大厦	zheng tai da sha	68
+正阳大厦	zheng yang da sha	81
+置地广场	zhi di guang chang	89
+钟阜大厦	zhong fu da sha	10
+中海凤凰熙岸	zhong hai feng huang xi an	87
+中海凯旋门	zhong hai kai xuan men	85
+中海塞纳丽舍	zhong hai sai na li she	86
+中海赛纳丽舍	zhong hai sai na li she	84
+中环国际广场	zhong huan guo ji guang chang	82
+中南国际大厦	zhong nan guo ji da sha	75
+中南园	zhong nan yuan	9
+中浦家园	zhong pu jia yuan	74
+中青大厦	zhong qing da sha	72
+中青园	zhong qing yuan	73
+中山北路上	zhong shan bei lu shang	71
+中山东路商业街上	zhong shan dong lu shang ye jie shang	69
+中山南路上	zhong shan nan lu shang	70
+中泰国际广场	zhong tai guo ji guang chang	67
+中央路	zhong yang lu	61
+中央门	zhong yang men	60
+珠江号	zhu jiang hao	77
+珠江路	zhu jiang lu	80
+住宅楼	zhu zhai lou	59
+自定义短语的格式如下	zi ding yi duan yu de ge shi ru xia	527
+自定义短语说明	zi ding yi duan yu shuo ming	528
+紫金西区中央	zi jin xi qu zhong yang	78
+紫鑫中华广场	zi xin zhong hua guang chang	66
+租金	zu jin	79
+租赁	zu lin	76
+最多支持行自定义短语	zui duo zhi chi xing zi ding yi duan yu	522

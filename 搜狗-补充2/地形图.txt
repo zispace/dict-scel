@@ -1,0 +1,535 @@
+# 词库名称: 地形图
+# 词库分类: 测绘工程与地图
+# 词库描述: 1:10000地形图词汇
+# 词条样例: 大地原点、坐标网线、经线、地面河流、地下河段出入口、时令河
+# 解析词数: 528
+# 解析异常: 0
+
+岸标立标	an biao li biao	176
+暗礁	an jiao	465
+暗沙	an sha	463
+岸滩	an tan	455
+暗滩	an tan	461
+敖包经堆	ao bao jing dui	309
+白板地	bai ban di	5
+半荒草地	ban huang cao di	16
+宝塔经塔	bao ta jing ta	310
+北回归线	bei hui gui xian	516
+北回归线标志塔	bei hui gui xian biao zhi ta	319
+贝类养殖滩	bei lei yang zhi tan	476
+碑像坊楼亭	bei xiang fang lou ting	321
+比高点	bi gao dian	97
+变电设备	bian dian she bei	150
+变电站所	bian dian zhan suo	149
+标准轨铁路	biao zhun gui tie lu	279
+殡葬场所	bin zang chang suo	327
+殡葬设施	bin zang she shi	329
+冰川	bing chuan	54
+冰陡崖	bing dou ya	52
+冰裂缝	bing lie feng	53
+冰碛	bing qi	51
+冰塔	bing ta	50
+不能通行沼泽湿地	bu neng tong xing zhao ze shi di	447
+菜地	cai di	35
+彩门牌坊牌楼	cai men pai fang pai lou	318
+残丘地	can qiu di	1
+草地	cao di	18
+草绘等高线	cao hui deng gao xian	105
+草绘计曲线	cao hui ji qu xian	103
+草绘首曲线	cao hui shou qu xian	104
+厕所	ce suo	331
+长途汽车站	chang tu qi che zhan	223
+潮水沟	chao shui gou	473
+潮汐流向	chao xi liu xiang	444
+车挡	che dang	269
+车行桥	che hang qiao	217
+车站及附属设施	che zhan ji fu shu she shi	272
+城际公路	cheng ji gong lu	261
+乘降所	cheng jiang suo	263
+成林	cheng lin	30
+城墙长城	cheng qiang chang cheng	296
+城市道路	cheng shi dao lu	246
+城市道路面	cheng shi dao lu mian	235
+城市绿地	cheng shi lv di	14
+城市绿化带	cheng shi lv hua dai	11
+城镇村庄	cheng zhen cun zhuang	412
+池塘	chi tang	494
+冲沟	chong gou	73
+船码头	chuan ma tou	191
+传送带	chuan song dai	373
+船闸	chuan zha	439
+船闸边线	chuan zha bian xian	438
+次干道	ci gan dao	238
+丛草滩	cong cao tan	472
+村道大路机耕路	cun dao da lu ji geng lu	233
+大地原点	da di yuan dian	528
+打谷场	da gu chang	364
+单线标准轨	dan xian biao zhun gui	278
+单线窄轨	dan xian zhai gui	274
+单幢房屋普通房屋	dan zhuang fang wu pu tong fang wu	430
+当地平均海水面	dang di ping jun hai shui mian	93
+倒虹吸	dao hong xi	498
+道路构造物及附属设施	dao lu gou zao wu ji fu shu she shi	227
+稻田	dao tian	37
+灯船	deng chuan	178
+等高线	deng gao xian	111
+等深线	deng shen xian	92
+灯塔	deng ta	180
+灯桩	deng zhuang	179
+堤坝坡底线	di ba po di xian	441
+地级行政区	di ji xing zheng qu	128
+地级政府	di ji zheng fu	415
+地貌坡底线	di mao po di xian	67
+地面干渠	di mian gan qu	506
+地面河流	di mian he liu	515
+地面窑洞	di mian yao dong	424
+地面支渠	di mian zhi qu	504
+地热井	di re jing	451
+地上	di shang	146
+地上管道	di shang guan dao	142
+地铁	di tie	244
+地铁站	di tie zhan	225
+地下	di xia	145
+地下管道	di xia guan dao	141
+地下管道出入口	di xia guan dao chu ru kou	139
+地下河段	di xia he duan	514
+地下河段出入口	di xia he duan chu ru kou	513
+地下建筑物	di xia jian zhu wu	287
+地下建筑物出入口	di xia jian zhu wu chu ru kou	286
+地下窑洞	di xia yao dong	423
+地震纪念遗址	di zhen ji nian yi zhi	322
+地震台	di zhen tai	302
+地震堰塞湖	di zhen yan se hu	492
+地质勘探设施	di zhi kan tan she shi	393
+地质灾害地貌	di zhi zai hai di mao	49
+电力线入地口	dian li xian ru di kou	152
+电视发射塔	dian shi fa she ta	335
+电线塔铁塔	dian xian ta tie ta	151
+电影院	dian ying yuan	346
+碉楼	diao lou	418
+动物园	dong wu yuan	348
+陡石山	dou shi shan	65
+陡石山露岩地	dou shi shan lu yan di	66
+陡崖坎岸	dou ya kan an	72
+渡口	du kou	161
+独立大坟	du li da fen	328
+独立石	du li shi	83
+独立树	du li shu	20
+独立树丛	du li shu cong	19
+独立天文点	du li tian wen dian	521
+端点转折点支架	duan dian zhuan zhe dian zhi jia	163
+堆式窑	dui shi yao	379
+发电厂站	fa dian chang zhan	407
+防波堤	fang bo di	183
+防风固沙草方格	fang feng gu sha cao fang ge	38
+防风固沙石方格	fang feng gu sha shi fang ge	39
+防风墙	fang feng qiang	193
+防火带	fang huo dai	23
+放空火炬	fang kong huo ju	381
+飞机场	fei ji chang	170
+废弃矿井	fei qi kuang jing	395
+废弃水库	fei qi shui ku	489
+废墟房屋	fei xu fang wu	419
+烽火台	feng huo tai	324
+风磨房风车	feng mo fang feng che	365
+峰柱	feng zhu	86
+浮标	fu biao	177
+浮船坞	fu chuan wu	184
+浮码头	fu ma tou	186
+附属设施	fu shu she shi	367
+服务区	fu wu qu	219
+服务设施	fu wu she shi	226
+复线标准轨	fu xian biao zhun gui	277
+复线窄轨	fu xian zhai gui	273
+负向等高线	fu xiang deng gao xian	106
+干出高度点	gan chu gao du dian	88
+干出礁	gan chu jiao	464
+干出滩中河道	gan chu tan zhong he dao	474
+干出线	gan chu xian	484
+干船坞	gan chuan wu	185
+干堤	gan di	443
+干沟	gan gou	496
+干涸湖干涸水库干涸池塘	gan he hu gan he shui ku gan he chi tang	493
+岗亭岗楼	gang ting gang lou	281
+高草地	gao cao di	17
+高层房屋	gao ceng fang wu	428
+高程点	gao cheng dian	98
+高程注记点	gao cheng zhu ji dian	99
+高尔夫球场	gao er fu qiu chang	340
+高水位岸线	gao shui wei an xian	456
+高速公路	gao su gong lu	247
+高速路出口	gao su lu chu kou	249
+高速路入口	gao su lu ru kou	250
+高速铁路	gao su tie lu	262
+高压输电线	gao ya shu dian xian	154
+高于地面干渠	gao yu di mian gan qu	505
+高于地面支渠	gao yu di mian zhi qu	503
+公共传媒与通信	gong gong chuan mei yu tong xin	336
+公共服务及设施	gong gong fu wu ji she shi	360
+工矿及其设施	gong kuang ji qi she shi	409
+工矿企业	gong kuang qi ye	408
+公路标志	gong lu biao zhi	198
+公路控制点	gong lu kong zhi dian	251
+公路桥	gong lu qiao	214
+工业塔形塔类建筑	gong ye ta xing ta lei jian zhu	388
+公园	gong yuan	350
+沟壑	gou he	74
+沟渠流向	gou qu liu xiang	445
+固定堤坝码头	gu ding di ba ma tou	188
+固定顺岸码头	gu ding shun an ma tou	189
+古迹遗址	gu ji yi zhi	325
+灌丛沙堆	guan cong sha dui	60
+管道井油气	guan dao jing you qi	397
+观景台	guan jing tai	264
+馆科技馆博物馆展览馆等	guan ke ji guan bo wu guan zhan lan guan deng	353
+灌木林	guan mu lin	28
+广场	guang chang	345
+轨道交通	gui dao jiao tong	245
+滚水坝	gun shui ba	436
+国道	guo dao	260
+国家行政区	guo jia xing zheng qu	135
+过街天桥	guo jie tian qiao	210
+国界线	guo jie xian	136
+国外区域	guo wai qu yu	137
+国外政区	guo wai zheng qu	138
+国有农场林场牧场界线	guo you nong chang lin chang mu chang jie xian	115
+国有农场林场牧场区	guo you nong chang lin chang mu chang qu	117
+国有农场林场牧场区域	guo you nong chang lin chang mu chang qu yu	116
+海岸线	hai an xian	485
+海岛	hai dao	460
+海上平台	hai shang ping tai	394
+海域	hai yu	486
+旱地	han di	36
+涵洞	han dong	497
+航道	hang dao	173
+行树	hang shu	21
+河道干河	he dao gan he	510
+河湖岛	he hu dao	458
+河流流向	he liu liu xiang	446
+红树林滩	hong shu lin tan	477
+湖泊	hu po	495
+滑道	hua dao	162
+滑坡	hua po	46
+花圃花坛	hua pu hua tan	12
+环境监测站	huan jing jian ce zhan	300
+环卫设施	huan wei she shi	332
+荒草地	huang cao di	15
+黄土漏斗	huang tu lou dou	78
+黄土柱	huang tu zhu	84
+火车渡	huo che du	160
+火车明峒	huo che ming dong	200
+火车隧道	huo che sui dao	203
+火车站	huo che zhan	271
+火山口	huo shan kou	75
+机车转盘	ji che zhuan pan	270
+迹地	ji di	25
+积肥池	ji fei chi	361
+级面桥人行拱桥	ji mian qiao ren xing gong qiao	208
+纪念碑柱墩	ji nian bei zhu dun	320
+计曲线	ji qu xian	109
+架空管道	jia kong guan dao	140
+架空索道	jia kong suo dao	165
+架空线	jia kong xian	153
+加油气站	jia you qi zhan	222
+建成	jian cheng	259
+间曲线	jian qu xian	108
+建设中铁路	jian she zhong tie lu	276
+简易轨道	jian yi gui dao	166
+建筑附属设施	jian zhu fu shu she shi	285
+建筑中	jian zhu zhong	254
+建筑中的	jian zhu zhong de	258
+建筑中水库	jian zhu zhong shui ku	490
+教堂	jiao tang	311
+街道	jie dao	240
+街道设施	jie dao she shi	282
+街区	jie qu	431
+界桩界碑	jie zhuang jie bei	130
+经线	jing xian	518
+旧碉堡旧地堡	jiu diao bao jiu di bao	323
+居民小区	ju min xiao qu	411
+龟裂地	jun lie di	6
+开发区保税区	kai fa qu bao shui qu	114
+开发区保税区界线	kai fa qu bao shui qu jie xian	112
+开发区保税区区域	kai fa qu bao shui qu qu yu	113
+坎儿井地下渠道暗渠	kan er jing di xia qu dao an qu	502
+科学观测台站	ke xue guan ce tai zhan	305
+科学观测站	ke xue guan ce zhan	306
+科学试验站	ke xue shi yan zhan	298
+坑穴	keng xue	77
+空地	kong di	410
+空运设施	kong yun she shi	171
+口岸	kou an	359
+快速路	kuai su lu	242
+矿井	kuang jing	403
+垃圾台场	la ji tai chang	330
+缆车道	lan che dao	167
+拦水坝	lan shui ba	435
+缆索桥	lan suo qiao	209
+篱笆	li ba	289
+里程碑	li cheng bei	195
+立交桥	li jiao qiao	212
+砾石滩	li shi tan	469
+粒雪原	li xue yuan	55
+粮仓库	liang cang ku	368
+晾房	liang fang	421
+瞭望塔	liao wang ta	385
+林地	lin di	31
+零星树木	ling xing shu mu	22
+陵园	ling yuan	349
+溜索桥	liu suo qiao	206
+垄状沙丘	long zhuang sha qiu	58
+漏斗	lou dou	80
+路标	lu biao	196
+陆地通信线	lu di tong xin xian	147
+露天采掘场	lu tian cai jue chang	399
+露天货栈选矿厂材料堆放场	lu tian huo zhan xuan kuang chang cai liao dui fang chang	375
+露天设备	lu tian she bei	376
+露天体育场	lu tian ti yu chang	343
+露天体育场出入口	lu tian ti yu chang chu ru kou	342
+芦苇滩	lu wei tan	471
+露岩地	lu yan di	64
+乱掘地	luan jue di	398
+裸土地	luo tu di	7
+漫流干河	man liu gan he	509
+门洞下跨道	men dong xia kua dao	218
+蒙古包放牧点	meng gu bao fang mu dian	422
+苗圃	miao pu	24
+庙宇	miao yu	313
+明峒	ming dong	201
+明礁	ming jiao	466
+名胜古迹	ming sheng gu ji	326
+内部道路	nei bu dao lu	236
+内图廓线	nei tu kuo xian	520
+能通行沼泽湿地	neng tong xing zhao ze shi di	448
+泥石流	ni shi liu	45
+农业及其设施	nong ye ji qi she shi	372
+棚房	peng fang	427
+平峒井口	ping dong jing kou	400
+平沙地	ping sha di	61
+破坏房屋	po huai fang wu	426
+瀑布跌水	pu bu die shui	449
+汽车渡	qi che du	159
+汽车明峒	qi che ming dong	199
+汽车隧道	qi che sui dao	202
+汽车徒涉场	qi che tu she chang	157
+其他房屋	qi ta fang wu	425
+其它公路	qi ta gong lu	248
+其他工业企业	qi ta gong ye qi ye	404
+其他建筑物及设施	qi ta jian zhu wu ji she shi	297
+其它交通设施	qi ta jiao tong she shi	168
+其他区域	qi ta qu yu	124
+其它窑	qi ta yao	377
+其它用途房屋	qi ta yong tu fang wu	420
+气象站	qi xiang zhan	304
+轻轨磁悬浮	qing gui ci xuan fu	243
+轻轨站	qing gui zhan	224
+清真寺	qing zhen si	312
+渠首	qu shou	501
+人渡	ren du	158
+人工地貌	ren gong di mao	43
+人工绿地	ren gong lv di	13
+人行桥	ren xing qiao	211
+熔岩流	rong yan liu	44
+入地口	ru di kou	144
+三角点	san jiao dian	527
+散热塔	san re ta	387
+沙地	sha di	62
+沙砾地戈壁滩	sha li di ge bi tan	3
+沙砾滩	sha li tan	482
+沙泥滩	sha ni tan	478
+沙滩	sha tan	483
+沙土崩崖	sha tu beng ya	48
+沙洲	sha zhou	457
+晒佛台	shai fo tai	308
+山隘	shan ai	229
+山洞溶洞	shan dong rong dong	76
+珊瑚礁	shan hu jiao	462
+珊瑚滩	shan hu tan	480
+省道	sheng dao	257
+省级行政区	sheng ji xing zheng qu	132
+省级政府	sheng ji zheng fu	416
+石崩崖	shi beng ya	47
+石堆	shi dui	81
+石块地	shi kuai di	2
+石砾地	shi li di	4
+时令河	shi ling he	511
+时令路	shi ling lu	230
+石垄	shi long	41
+石质陡崖石质有滩陡岸	shi zhi dou ya shi zhi you tan dou an	70
+石质无滩陡岸	shi zhi wu tan dou an	68
+收费站	shou fei zhan	220
+首曲线	shou qu xian	110
+输电线	shu dian xian	155
+竖井井口	shu jing jing kou	402
+疏林	shu lin	26
+输水渡槽	shu shui du cao	500
+输水隧道	shu shui sui dao	499
+水产养殖场	shui chan yang zhi chang	370
+水厂	shui chang	406
+水鹤	shui he	266
+水井	shui jing	453
+水井房	shui jing fang	452
+水库	shui ku	491
+水磨房水车	shui mo fang shui che	366
+水深点	shui shen dian	90
+水生作物地	shui sheng zuo wu di	34
+水塔	shui ta	384
+水塔烟囱	shui ta yan cong	383
+水文站	shui wen zhan	303
+水系交汇处	shui xi jiao hui chu	459
+水系结构线	shui xi jie gou xian	508
+水下等高线	shui xia deng gao xian	94
+水下高程点	shui xia gao cheng dian	89
+水下注记点	shui xia zhu ji dian	91
+水域等值线	shui yu deng zhi xian	95
+水运港客运站	shui yun gang ke yun zhan	190
+水运设施	shui yun she shi	192
+水闸	shui zha	440
+水中滩	shui zhong tan	454
+水准点	shui zhun dian	525
+水准原点	shui zhun yuan dian	526
+巳定界	si ding jie	134
+饲养场	si yang chang	371
+塑像	su xiang	315
+隧道	sui dao	204
+索道	suo dao	164
+台阶	tai jie	283
+台田条田	tai tian tiao tian	33
+台屋式窑	tai wu shi yao	378
+探槽	tan cao	391
+探井	tan jing	392
+特别行政区界线	te bie xing zheng qu jie xian	129
+特殊地区	te shu di qu	120
+特殊地区界线	te shu di qu jie xian	118
+特殊地区区域	te shu di qu qu yu	119
+特殊高程点	te shu gao cheng dian	96
+体育	ti yu	344
+体育场内轮廓线	ti yu chang nei lun kuo xian	341
+体育馆	ti yu guan	339
+田坎路堑沟堑路堤单坡	tian kan lu qian gou qian lu di dan po	42
+天桥	tian qiao	265
+天文台	tian wen tai	301
+跳伞塔	tiao san ta	337
+铁路	tie lu	280
+铁路公路两用桥	tie lu gong lu liang yong qiao	213
+铁路桥	tie lu qiao	215
+铁丝网电网	tie si wang dian wang	288
+停泊场	ting bo chang	182
+停车场	ting che chang	221
+亭桥廊桥	ting qiao lang qiao	207
+通航河段起止点	tong hang he duan qi zhi dian	172
+通信线	tong xin xian	148
+土城墙	tu cheng qiang	293
+突出房屋	tu chu fang wu	429
+土地庙	tu di miao	307
+土堆	tu dui	82
+土垄	tu long	40
+土质	tu zhi	10
+土质陡崖土质有滩陡岸	tu zhi dou ya tu zhi you tan dou an	71
+土质无滩陡岸	tu zhi wu tan dou an	69
+微波塔	wei bo ta	333
+未定界	wei ding jie	133
+围墙	wei qiang	291
+纬线	wei xian	517
+危险岸区	wei xian an qu	468
+危险海区	wei xian hai qu	467
+卫星地面站	wei xing di mian zhan	299
+卫星定位等级点	wei xing ding wei deng ji dian	523
+卫星定位连续运行站点	wei xing ding wei lian xu yun xing zhan dian	524
+文教卫生	wen jiao wei sheng	358
+温室大棚	wen shi da peng	369
+文物碑石	wen wu bei shi	316
+窝状沙地	wo zhuang sha di	57
+无防洪墙的加固岸	wu fang hong qiang de jia gu an	432
+污水处理厂	wu shui chu li chang	405
+系船浮筒	xi chuan fu tong	174
+狭窄干出滩	xia zhai gan chu tan	475
+县道	xian dao	256
+县级行政区	xian ji xing zheng qu	127
+县级政府	xian ji zheng fu	414
+乡村道路	xiang cun dao lu	234
+乡村路	xiang cun lu	232
+乡道	xiang dao	255
+乡级行政区	xiang ji xing zheng qu	126
+乡镇级政府街道办事处	xiang zhen ji zheng fu jie dao ban shi chu	413
+小草丘地	xiao cao qiu di	8
+小路	xiao lu	231
+消失河段	xiao shi he duan	512
+泄洪洞出水口	xie hong dong chu shui kou	487
+斜井井口	xie jing jing kou	401
+信号灯柱	xin hao deng zhu	268
+信号杆	xin hao gan	175
+新月形沙丘	xin yue xing sha qiu	59
+行人徒涉场	xing ren tu she chang	156
+行政机构位置标识	xing zheng ji gou wei zhi biao zhi	417
+行政区界线	xing zheng qu jie xian	131
+行政区域	xing zheng qu yu	125
+休闲娱乐景区	xiu xian yu le jing qu	352
+雪山	xue shan	56
+雪山等高线	xue shan deng gao xian	102
+雪山计曲线	xue shan ji qu xian	100
+雪山首曲线	xue shan shou qu xian	101
+学校	xue xiao	357
+烟囱	yan cong	382
+岩峰	yan feng	85
+盐蒿滩	yan hao tan	470
+盐碱地	yan jian di	9
+盐井	yan jing	396
+岩墙	yan qiang	63
+岩溶漏斗	yan rong lou dou	79
+岩石滩	yan shi tan	481
+盐田盐场	yan tian yan chang	380
+扬水站抽水站	yang shui zhan chou shui zhan	437
+药浴池	yao yu chi	362
+液气贮存设备	ye qi zhu cun she bei	389
+野生动物通道	ye sheng dong wu tong dao	194
+一般堤	yi ban di	442
+移动通信塔	yi dong tong xin ta	334
+溢洪道	yi hong dao	488
+医疗点	yi liao dian	355
+医院	yi yuan	356
+引道	yin dao	241
+引桥	yin qiao	216
+有防洪墙的加固岸	you fang hong qiang de jia gu an	433
+游乐场	you le chang	351
+幼林	you lin	29
+油气水输送主管道	you qi shui shu song zhu guan dao	143
+游泳场池	you yong chang chi	338
+淤泥滩	yu ni tan	479
+园地	yuan di	32
+垣栅	yuan shan	292
+运河	yun he	507
+匝道	za dao	252
+栅栏	zha lan	290
+窄轨铁路	zhai gui tie lu	275
+栈道	zhan dao	228
+栈桥	zhan qiao	205
+栈桥式码头	zhan qiao shi ma tou	187
+站线	zhan xian	267
+蒸馏塔	zheng liu ta	386
+直升机停机坪	zhi sheng ji ting ji ping	169
+制水坝	zhi shui ba	434
+植物园	zhi wu yuan	347
+支线	zhi xian	237
+钟鼓楼城楼古关塞	zhong gu lou cheng lou gu guan sai	317
+中国公路零公里标志	zhong guo gong lu ling gong li biao zhi	197
+重力点	zhong li dian	522
+贮草场	zhu cao chang	363
+主干道	zhu gan dao	239
+助航标志	zhu hang biao zhi	181
+柱廊	zhu lang	284
+竹林	zhu lin	27
+助曲线	zhu qu xian	107
+贮水池水窖	zhu shui chi shui jiao	450
+砖石城墙破坏	zhuan shi cheng qiang po huai	294
+砖石城墙完好	zhuan shi cheng qiang wan hao	295
+专用公路	zhuan yong gong lu	253
+专用供氧点	zhuan yong gong yang dian	354
+装卸设备	zhuang xie she bei	374
+自然地貌	zi ran di mao	87
+自然文化保护区界	zi ran wen hua bao hu qu jie	121
+自然文化保护区域	zi ran wen hua bao hu qu yu	122
+自然文化区	zi ran wen hua qu	123
+宗教设施	zong jiao she shi	314
+钻孔	zuan kong	390
+坐标网线	zuo biao wang xian	519

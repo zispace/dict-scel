@@ -1,0 +1,358 @@
+# 词库名称: 婚姻法
+# 词库分类: 个人专用
+# 词库描述: 包括新《婚姻法》及其司法解释的分词结果
+# 词条样例: 结婚、协议、四十、抚养、请求
+# 解析词数: 351
+# 解析异常: 0
+
+案件	an jian	190
+八十	ba shi	23
+八条	ba tiao	246
+办理	ban li	186
+保护	bao hu	311
+暴力	bao li	329
+保全	bao quan	84
+保险金	bao xian jin	63
+被告	bei gao	189
+被申请人	bei shen qing ren	112
+变更	bian geng	53
+变卖	bian mai	217
+驳回	bo hui	149
+补办	bu ban	205
+补偿	bu chang	218
+补偿费	bu chang fei	72
+不动产	bu dong chan	59
+哺乳期	bu ru qi	232
+不予	bu yu	207
+补助费	bu zhu fei	68
+补助金	bu zhu jin	76
+财产	cai chan	350
+财产权	cai chan quan	24
+裁定	cai ding	195
+彩礼	cai li	75
+裁判	cai pan	79
+查明	cha ming	64
+产权	chan quan	58
+撤诉	che su	80
+撤销	che xiao	303
+程序	cheng xu	164
+乘以	cheng yi	60
+持续性	chi xu xing	152
+重婚	chong hun	327
+处分	chu fen	42
+处理权	chu li quan	142
+出售	chu shou	5
+出资	chu zi	121
+出资额	chu zi e	120
+出资人	chu zi ren	33
+串通	chuan tong	157
+村民	cun min	267
+存续期	cun xu qi	317
+贷款	dai kuan	44
+代理	dai li	15
+当事	dang shi	175
+当事人	dang shi ren	321
+登记	deng ji	328
+第三者	di san zhe	204
+第五	di wu	295
+订立	ding li	67
+赌博	du bo	223
+独立	du li	224
+对子	dui zi	251
+二审	er shen	158
+法定	fa ding	192
+发放	fa fang	95
+发给	fa gei	247
+返还	fan huan	62
+反悔	fan hui	81
+犯罪	fan zui	215
+房产	fang chan	47
+房改	fang gai	12
+放弃	fang qi	92
+房屋	fang wu	160
+费用	fei yong	231
+份额	fen e	117
+分割	fen ge	264
+分配	fen pei	94
+负担	fu dan	330
+付给	fu gei	284
+付款	fu kuan	10
+父母	fu mu	347
+夫妻	fu qi	349
+扶养	fu yang	326
+抚养	fu yang	338
+扶养费	fu yang fei	291
+抚养费	fu yang fei	288
+复议	fu yi	37
+负有	fu you	30
+负债	fu zhai	155
+该条	gai tiao	196
+感情	gan qing	270
+干涉	gan she	305
+告知	gao zhi	187
+公安机关	gong an ji guan	266
+共同	gong tong	339
+购买	gou mai	103
+购买权	gou mai quan	69
+购置	gou zhi	86
+股东	gu dong	125
+关系人	guan xi ren	144
+归还	gui huan	17
+归属	gui shu	88
+过错	guo cuo	183
+合法	he fa	240
+合伙	he huo	96
+合伙人	he huo ren	123
+合同	he tong	8
+合同法	he tong fa	28
+后进	hou jin	71
+后生	hou sheng	211
+还贷	huan dai	48
+患有	huan you	254
+恢复	hui fu	278
+挥霍	hui huo	36
+毁损	hui sun	216
+会议	hui yi	169
+婚后	hun hou	256
+婚龄	hun ling	203
+婚前	hun qian	306
+婚生子	hun sheng zi	277
+婚外	hun wai	146
+婚姻	hun yin	346
+婚姻登记	hun yin deng ji	318
+婚姻法	hun yin fa	290
+疾病	ji bing	242
+基层组	ji ceng zu	141
+继承	ji cheng	298
+继承权	ji cheng quan	153
+继承人	ji cheng ren	51
+给付	ji fu	111
+继父	ji fu	260
+机关	ji guan	313
+计划生育	ji hua sheng yu	257
+寄送	ji song	127
+继子	ji zi	252
+价格	jia ge	89
+家庭	jia ting	345
+监护	jian hu	50
+监护人	jian hu ren	22
+缴付	jiao fu	43
+教育	jiao yu	301
+教育费	jiao yu fei	285
+解除	jie chu	132
+结婚	jie hun	337
+结婚证	jie hun zheng	237
+借款	jie kuan	40
+近亲	jin qin	198
+经常性	jing chang xing	147
+竞价	jing jia	91
+精神	jing shen	191
+经营	jing ying	228
+纠纷	jiu fen	109
+纠纷案	jiu fen an	179
+居民委	ju min wei	271
+居住	ju zhu	138
+均分	jun fen	73
+军人	jun ren	274
+款项	kuan xiang	13
+捆绑	kun bang	148
+困难	kun nan	221
+劳动	lao dong	226
+老人	lao ren	250
+利害	li hai	174
+离婚	li hun	348
+离婚案	li hun an	170
+利益	li yi	46
+连带	lian dai	85
+领取	ling qu	1
+六条	liu tiao	248
+履行	lv xing	276
+民法	min fa	220
+民事	min shi	52
+民事诉讼	min shi su song	213
+民政部	min zheng bu	177
+名下	ming xia	110
+名义	ming yi	172
+男方	nan fang	308
+男女	nan nv	322
+年限	nian xian	97
+虐待	nue dai	331
+女方	nv fang	316
+殴打	ou da	154
+判决	pan jue	335
+判决书	pan jue shu	128
+判令	pan ling	35
+赔偿	pei chang	201
+配偶	pei ou	304
+平等	ping deng	283
+平均值	ping jun zhi	99
+破裂	po lie	230
+歧视	qi shi	236
+起诉	qi su	194
+欺诈	qi zha	66
+签订	qian ding	11
+前款	qian kuan	119
+强制	qiang zhi	180
+侵犯	qin fan	14
+亲属	qin shu	137
+亲子	qin zi	57
+亲子鉴定	qin zi jian ding	31
+清偿	qing chang	286
+请求	qing qiu	336
+请求权	qing qiu quan	130
+权利	quan li	343
+权益	quan yi	268
+劝阻	quan zu	269
+确属	que shu	102
+认定	ren ding	115
+人民	ren min	29
+人民法院	ren min fa yuan	341
+妊娠	ren shen	21
+人身权	ren shen quan	26
+人身自由	ren shen zi you	233
+三条	san tiao	297
+丧失	sang shi	163
+赡养	shan yang	314
+赡养费	shan yang fei	289
+善意	shan yi	9
+擅自	shan zi	45
+伤残	shang can	61
+伤害	shang hai	139
+上诉	shang su	131
+审查	shen cha	98
+身份	shen fen	126
+审理	shen li	199
+申请人	shen qing ren	100
+身体	shen ti	167
+生产	sheng chan	229
+生存	sheng cun	107
+生父母	sheng fu mu	202
+生活费	sheng huo fei	281
+生效	sheng xiao	184
+生育	sheng yu	20
+生育权	sheng yu quan	19
+十八	shi ba	312
+十二	shi er	296
+实践	shi jian	143
+十六条	shi liu tiao	282
+十七	shi qi	293
+事实婚	shi shi hun	135
+十四	shi si	294
+十条	shi tiao	302
+视为	shi wei	93
+时效	shi xiao	171
+施行	shi xing	173
+十一	shi yi	292
+实质	shi zhi	188
+手段	shou duan	133
+首付款	shou fu kuan	25
+受害人	shou hai ren	323
+受理	shou li	197
+受让	shou rang	108
+手续	shou xu	114
+收养	shou yang	244
+收益	shou yi	238
+数额	shu e	106
+书面	shu mian	234
+双方	shuang fang	342
+司法	si fa	209
+四十	si shi	334
+四条	si tiao	249
+死亡	si wang	272
+诉讼	su song	273
+诉讼案	su song an	161
+损害	sun hai	227
+损失	sun shi	41
+孙子	sun zi	239
+所得	suo de	332
+所有权	suo you quan	122
+所指	suo zhi	74
+他方	ta fang	253
+探望	tan wang	324
+条规	tiao gui	185
+调解	tiao jie	319
+调解书	tiao jie shu	176
+条例	tiao li	168
+同居	tong ju	307
+投资	tou zi	104
+退还	tui huan	105
+退伙	tui huo	90
+退休	tui xiu	2
+外孙子	wai sun zi	225
+外祖父	wai zu fu	258
+晚育	wan yu	206
+未成年	wei cheng nian	315
+维持	wei chi	162
+委员会	wei yuan hui	265
+伪造	wei zao	214
+稳定	wen ding	129
+无过	wu guo	262
+五条	wu tiao	300
+吸毒	xi du	235
+习俗	xi su	65
+瑕疵	xia ci	39
+下列	xia lie	320
+消除	xiao chu	222
+效力	xiao li	193
+消失	xiao shi	165
+胁迫	xie po	287
+协商	xie shang	118
+协议	xie yi	340
+新婚姻法	xin hun yin fa	151
+行使	xing shi	181
+行为人	xing wei ren	178
+行政	xing zheng	27
+行政诉讼	xing zheng su song	38
+修正	xiu zheng	78
+虚构	xu gou	156
+虚假	xu jia	150
+宣告	xuan gao	200
+血亲	xue qin	219
+养老保险费	yang lao bao xian fei	6
+养老保险金	yang lao bao xian jin	83
+养老金	yang lao jin	3
+养子	yang zi	259
+要件	yao jian	182
+要挟	yao xie	140
+遗产	yi chan	279
+医疗费	yi liao fei	32
+遗弃	yi qi	325
+义务	yi wu	344
+异性	yi xing	145
+医学	yi xue	245
+医治	yi zhi	34
+隐藏	yin cang	212
+银行	yin hang	7
+应予	ying yu	55
+有权	you quan	309
+原告	yuan gao	82
+约束力	yue shu li	77
+责任	ze ren	310
+赠与	zeng yu	261
+增值	zeng zhi	49
+债权	zhai quan	4
+债权人	zhai quan ren	116
+债务	zhai wu	333
+债务人	zhai wu ren	87
+照顾	zhao gu	241
+证据	zheng ju	54
+证明	zheng ming	113
+正确	zheng que	136
+支付	zhi fu	56
+支付方	zhi fu fang	18
+治愈	zhi yu	134
+中华人民共和国	zhong hua ren min gong he guo	208
+中止	zhong zhi	275
+住房公积金	zhu fang gong ji jin	70
+主体	zhu ti	166
+转让	zhuan rang	124
+准许	zhun xu	101
+准予	zhun yu	299
+资格	zi ge	16
+子女	zi nv	351
+自由	zi you	280
+自治区	zi zhi qu	210
+祖父母	zu fu mu	255
+最高人民法院	zui gao ren min fa yuan	263
+最高人民法院审判委员会	zui gao ren min fa yuan shen pan wei yuan hui	159
+尊重	zun zhong	243
