@@ -1,0 +1,656 @@
+# 词库名称: 宗教人物
+# 词库分类: 一行 七佛 八仙 三张 三清 大卫 大雄 于吉
+# 词库作者: 天字007
+# 词库描述: 介绍宗教人物的词库。
+# 词条数量: 648
+# 解析词数: 650
+# 解析异常: 2
+
+一行	yi xing	0
+一行	yi hang	0
+七佛	qi fo	0
+八仙	ba xian	0
+三张	san zhang	0
+三清	san qing	0
+大卫	da wei	0
+大雄	da xiong	0
+于吉	yu ji	0
+弓长	gong chang	0
+弓长	gong zhang	0
+门神	men shen	0
+土地	tu di	0
+义净	yi jing	0
+义净	yi cheng	0
+马太	ma tai	0
+马可	ma ke	0
+马坚	ma jian	0
+马鸣	ma ming	0
+马注	ma zhu	0
+无著	wu zhu	0
+韦驮	wei tuo	0
+王乔	wang qiao	0
+王宽	wang kuan	0
+天妃	tian fei	0
+天妃	tian pei	0
+天使	tian shi	0
+天神	tian shen	0
+支遁	zhi dun	0
+支谦	zhi qian	0
+支谶	zhi chen	0
+太一	tai yi	0
+太岁	tai sui	0
+太虚	tai xu	0
+月老	yue lao	0
+月官	yue guan	0
+月霞	yue xia	0
+文昌	wen chang	0
+文殊	wen shu	0
+不空	bu kong	0
+风伯	feng bo	0
+日莲	ri lian	0
+巴特	ba te	0
+巨赞	ju zan	0
+世亲	shi qin	0
+布斯	bu si	0
+左慈	zuo ci	0
+卢生	lu sheng	0
+龙树	long shu	0
+电母	dian mu	0
+目进	mu jin	0
+四御	si yu	0
+玄女	xuan nv	0
+玄女	xuan ru	0
+玄奘	xuan zang	0
+吉藏	ji cang	0
+吉藏	ji zang	0
+地藏	di zang	0
+印光	yin guang	0
+尔撒	er sa	0
+安拉	an la	0
+尼康	ni kang	0
+弘忍	hong ren	0
+匡裕	kuang yu	0
+亚当	ya dang	0
+吕岩	lv yan	0
+行思	hang si	0
+行思	xing si	0
+行思	hang sai	0
+行思	xing sai	0
+后土	hou tu	0
+刘玉	liu yu	0
+刘智	liu zhi	0
+约瑟	yue se	0
+约翰	yue han	0
+许逊	xu xun	0
+许逊	hu xun	0
+那吒	na zha	0
+那吒	nei zha	0
+孙思	sun si	0
+妈祖	ma zu	0
+寿星	shou xing	0
+杜顺	du shun	0
+李弘	li hong	0
+李荣	li rong	0
+李筌	li quan	0
+阿里	a li	0
+阿丹	a dan	0
+阿难	a nan	0
+怀让	huai rang	0
+怀海	huai hai	0
+陈抟	chen tuan	0
+陈那	chen na	0
+陈那	chen nei	0
+花神	hua shen	0
+财神	cai shen	0
+张杰	zhang jie	0
+张角	zhang jiao	0
+张忠	zhang zhong	0
+张盛	zhang sheng	0
+张盛	zhang cheng	0
+张诚	zhang cheng	0
+张鲁	zhang lu	0
+张陵	zhang ling	0
+张衡	zhang heng	0
+吴筠	wu jun	0
+吴筠	wu yun	0
+延寿	yan shou	0
+伯驾	bo jia	0
+伯驾	bai jia	0
+伯驾	ba jia	0
+佛音	fo yin	0
+犹大	you da	0
+应慈	ying ci	0
+灶君	zao jun	0
+戒贤	jie xian	0
+沙弹	sha dan	0
+沙弹	sha tan	0
+良价	liang jia	0
+良价	liang jie	0
+声闻	sheng wen	0
+护法	hu fa	0
+妖怪	yao guai	0
+努海	nu hai	0
+拉齐	la qi	0
+耶稣	ye su	0
+雨师	yu shi	0
+宗密	zong mi	0
+肯迪	ken di	0
+昙鸾	tan luan	0
+知礼	zhi li	0
+帛和	bo he	0
+帛和	bo hu	0
+帛和	bo huo	0
+彼德	bi de	0
+郁垒	yu lei	0
+夜叉	ye cha	0
+狐仙	hu xian	0
+罗清	luo qing	0
+罗摩	luo mo	0
+若瑟	ruo se	0
+若瑟	re se	0
+若望	ruo wang	0
+若望	re wang	0
+圆仁	yuan ren	0
+圆珍	yuan zhen	0
+圆测	yuan ce	0
+圆瑛	yuan ying	0
+法显	fa xian	0
+法藏	fa zang	0
+法遵	fa zun	0
+河伯	he bo	0
+空海	kong hai	0
+弥勒	mi le	0
+参孙	can sun	0
+参孙	shen sun	0
+参孙	cen sun	0
+参孙	san sun	0
+参孙	can xun	0
+参孙	shen xun	0
+参孙	cen xun	0
+参孙	san xun	0
+迦叶	jia ye	0
+该隐	gai yin	0
+郑隐	zheng yin	0
+修罗	xiu luo	0
+保罗	bao luo	0
+保尔	bao er	0
+保禄	bao lu	0
+神农	shen nong	0
+神秀	shen xiu	0
+神会	shen hui	0
+城隍	cheng huang	0
+胡天	hu tian	0
+胡斯	hu si	0
+药上	yao shang	0
+药王	yao wang	0
+拾得	shi de	0
+挪亚	nuo ya	0
+荣西	rong xi	0
+勃朗	bo lang	0
+觉音	jue yin	0
+觉音	jiao yin	0
+哈桑	ha sang	0
+哪吒	ne zha	0
+钟馗	zhong kui	0
+信行	xin xing	0
+契嵩	qi song	0
+契嵩	qie song	0
+契嵩	xie song	0
+草堂	cao tang	0
+俞琰	yu yan	0
+俞琰	shu yan	0
+祝融	zhu rong	0
+素女	su nv	0
+真谛	zhen di	0
+蚕神	can shen	0
+夏娃	xia wa	0
+徐福	xu fu	0
+诺亚	nuo ya	0
+黄帝	huang di	0
+菩萨	pu sa	0
+莲池	lian chi	0
+虚云	xu yun	0
+麻姑	ma gu	0
+清辩	qing bian	0
+梁发	liang fa	0
+隐元	yin yuan	0
+寒山	han shan	0
+敬安	jing an	0
+谛闲	di xian	0
+雅名	ya ming	0
+紫柏	zi bai	0
+紫柏	zi bo	0
+最澄	zui cheng	0
+最澄	zui deng	0
+景净	jing jing	0
+景净	ying jing	0
+景净	jing cheng	0
+景净	ying cheng	0
+黑天	hei tian	0
+普贤	pu xian	0
+湛然	zhan ran	0
+雷公	lei gong	0
+提婆	ti po	0
+湿婆	shi po	0
+彭晓	peng xiao	0
+彭祖	peng zu	0
+葛玄	ge xuan	0
+葛洪	ge hong	0
+智俨	zhi yan	0
+智顗	zhi yi	0
+善马	shan ma	0
+善财	shan cai	0
+道元	dao yuan	0
+道生	dao sheng	0
+道安	dao an	0
+道昭	dao zhao	0
+道宣	dao xuan	0
+道绰	dao chuo	0
+道绰	dao chao	0
+鉴真	jian zhen	0
+路加	lu jia	0
+魁星	kui xing	0
+窥基	kui ji	0
+瘟神	wen shen	0
+精灵	jing ling	0
+谭峭	tan qiao	0
+源空	yuan kong	0
+源信	yuan xin	0
+源信	yuan shen	0
+慧远	hui yuan	0
+慧皎	hui jiao	0
+慧能	hui neng	0
+摩尼	mo ni	0
+摩西	mo xi	0
+穆萨	mu sa	0
+穆德	mu de	0
+撒旦	sa dan	0
+澄观	cheng guan	0
+澄观	deng guan	0
+赞宁	zan ning	0
+魔鬼	mo gui	0
+灌顶	guan ding	0
+二十天	er shi tian	0
+二郎神	er lang shen	0
+八部众	ba bu zhong	0
+丁光训	ding guang xun	0
+丁光训	zheng guang xun	0
+丁福保	ding fu bao	0
+丁福保	zheng fu bao	0
+丁韪良	ding wei liang	0
+丁韪良	zheng wei liang	0
+三尸神	san shi shen	0
+卫三畏	wei san wei	0
+卫斯理	wei si li	0
+马万相	ma wan xiang	0
+马万相	ma mo xiang	0
+马丹阳	ma dan yang	0
+马化龙	ma hua long	0
+马元章	ma yuan zhang	0
+马立克	ma li ke	0
+马来迟	ma lai chi	0
+马利亚	ma li ya	0
+马明心	ma ming xin	0
+马良骏	ma liang jun	0
+马礼逊	ma li xun	0
+马相伯	ma xiang bo	0
+马相伯	ma xiang bai	0
+马相伯	ma xiang ba	0
+马联元	ma lian yuan	0
+马祖师	ma zu shi	0
+马德心	ma de xin	0
+马赫迪	ma he di	0
+大势至	da shi zhi	0
+广成子	guang cheng zi	0
+元仓子	yuan cang zi	0
+王玄甫	wang xuan fu	0
+工玄览	gong xuan lan	0
+王远知	wang yuan zhi	0
+王重阳	wang chong yang	0
+王常月	wang chang yue	0
+王岱舆	wang dai yu	0
+王静斋	wang jing zhai	0
+方立天	fang li tian	0
+方荣升	fang rong sheng	0
+支道林	zhi dao lin	0
+巴拉第	ba la di	0
+文惠廉	wen hui lian	0
+以利亚	yi li ya	0
+以色列	yi se lie	0
+以赛亚	yi sai ya	0
+包尔汉	bao er han	0
+加尔文	jia er wen	0
+尼勃尔	ni bo er	0
+尼勃尔	ni bei er	0
+白玉蟾	bai yu chan	0
+布哈里	bu ha li	0
+宁封子	ning feng zi	0
+汉钟离	han zhong li	0
+目犍莲	mu jian lian	0
+目犍莲	mu qian lian	0
+四天王	si tian wang	0
+皮漱石	pi shu shi	0
+皮漱石	pi shu dan	0
+东王公	dong wang gong	0
+西王母	xi wang mu	0
+阴长生	yin chang sheng	0
+达浦生	da pu sheng	0
+安斯生	an si sheng	0
+安东尼	an dong ni	0
+安世高	an shi gao	0
+安萨里	an sa li	0
+安瑟伦	an se lun	0
+汤若望	tang ruo wang	0
+汤用彤	tang yong tong	0
+汤用彤	shang yong tong	0
+孙不二	sun bu er	0
+孙思邈	sun si miao	0
+吕洞宾	lv dong bin	0
+伍遵契	wu zun qi	0
+伍遵契	wu zun qie	0
+伍遵契	wu zun xie	0
+观世音	guan shi yin	0
+欢喜天	huan xi tian	0
+朱士行	zhu shi hang	0
+朱士行	zhu shi xing	0
+朱士行	shu shi hang	0
+朱士行	shu shi xing	0
+任继愈	ren ji yu	0
+赤松子	chi song zi	0
+杜光庭	du guang ting	0
+沙裴仪	sha pei yi	0
+伯多禄	bo duo lu	0
+伯多禄	bai duo lu	0
+伯多禄	ba duo lu	0
+利玛窦	li ma dou	0
+邱处机	qiu chu ji	0
+玛利亚	ma li ya	0
+伽蓝神	qie lan shen	0
+迎紫姑	ying zi gu	0
+佛图澄	fo tu cheng	0
+佛图澄	fo tu deng	0
+阿罗汉	a luo han	0
+阿罗本	a luo ben	0
+阿修罗	a xiu luo	0
+阿育王	a yu wang	0
+阿底峡	a di xia	0
+阿底峡	e di xia	0
+阿底峡	a de xia	0
+阿底峡	e de xia	0
+阿奎那	a kui na	0
+阿难答	a nan da	0
+阿帕克	a pa ke	0
+阿帕克	e pa ke	0
+阿伊莎	a yi sha	0
+阿伊莎	a yi suo	0
+张三丰	zhang san feng	0
+张与材	zhang yu cai	0
+张与棣	zhang yu di	0
+张与棣	zhang yu dai	0
+张与棣	zhang yu ti	0
+张仁晸	zhang ren zheng	0
+张正常	zhang zheng chang	0
+张正随	zhang zheng sui	0
+张宇初	zhang yu chu	0
+张果老	zhang guo lao	0
+张君房	zhang jun fang	0
+张紫阳	zhang zi yang	0
+张保太	zhang bao tai	0
+张志和	zhang zhi he	0
+张宗演	zhang zong yan	0
+张留孙	zhang liu sun	0
+张留孙	zhang liu xun	0
+张清夜	zhang qing ye	0
+张家树	zhang jia shu	0
+张思溥	zhang si pu	0
+张起隆	zhang qi long	0
+张嗣成	zhang si cheng	0
+陈众喜	chen zhong xi	0
+陈景元	chen jing yuan	0
+陈致虚	chen zhi xu	0
+陈撄宁	chen ying ning	0
+吴渔山	wu yu shan	0
+吴耀宗	wu yao zong	0
+陆西星	lu xi xing	0
+陆西星	liu xi xing	0
+陆修静	lu xiu jing	0
+陆修静	liu xiu jing	0
+李少君	li shao jun	0
+李少翁	li shao weng	0
+李道纯	li dao chun	0
+李道谦	li dao qian	0
+李居寿	li ju shou	0
+孪含光	luan han guang	0
+李志常	li zhi chang	0
+李佳白	li jia bai	0
+李叔同	li shu tong	0
+李福达	li fu da	0
+何仙姑	he xian gu	0
+戒日王	jie ri wang	0
+净饭王	jing fan wang	0
+转轮王	zhuan lun wang	0
+法拉比	fa la bi	0
+法蒂玛	fa di ma	0
+罗文藻	luo wen zao	0
+罗罗	luo luo	0
+林灵素	lin ling su	0
+林乐知	lin yue zhi	0
+赵归真	zhao gui zhen	0
+赵紫宸	zhao zi chen	0
+赵朴初	zhao pu chu	0
+杨文会	yang wen hui	0
+杨文会	yang wen kuai	0
+杨仲明	yang zhong ming	0
+庞士谦	pang shi qian	0
+武曲星	wu qu xing	0
+河上公	he shang gong	0
+所罗门	suo luo men	0
+彼拉多	bi la duo	0
+金刚智	jin gang zhi	0
+宛葛恩	wan ge en	0
+宛葛恩	yuan ge en	0
+奈萨姆	nai sa mu	0
+虎嵩山	hu song shan	0
+易心莹	yi xin ying	0
+诚静怡	cheng jing yi	0
+舍利弗	she li fu	0
+舍起灵	she qi ling	0
+竺法兰	zhu fa lan	0
+竺法兰	du fa lan	0
+竺法护	zhu fa hu	0
+竺法护	du fa hu	0
+昙无谶	tan wu chen	0
+里敕尔	li chi er	0
+闵采尔	min cai er	0
+茨温利	ci wen li	0
+药师佛	yao shi fo	0
+查斯丁	cha si ding	0
+查斯丁	cha si zheng	0
+姜太公	jiang tai gong	0
+郭士立	guo shi li	0
+南怀仁	nan huai ren	0
+南怀仁	na huai ren	0
+施肩吾	shi jian wu	0
+施肩吾	shi jian yu	0
+娄近坦	lou jin tan	0
+哈那克	ha na ke	0
+哈那克	ha nei ke	0
+哈拉智	ha la zhi	0
+哈德成	ha de cheng	0
+侯赛因	hou sai yin	0
+欧麦尔	ou mai er	0
+胡登洲	hu deng zhou	0
+成玄英	cheng xuan ying	0
+陶弘景	tao hong jing	0
+贾玉铭	jia yu ming	0
+贾玉铭	gu yu ming	0
+泰伯里	tai bo li	0
+铁拐李	tie guai li	0
+铁萨罗	tie sa luo	0
+容成公	rong cheng gong	0
+冠谦之	guan qian zhi	0
+特劳赤	te lao chi	0
+诺克斯	nuo ke si	0
+哲罗姆	zhe luo mu	0
+徐光启	xu guang qi	0
+俾丘林	bi qiu lin	0
+康僧会	kang seng hui	0
+康僧会	kang seng kuai	0
+崔府君	cui fu jun	0
+维摩洁	wei mo jie	0
+理雅各	li ya ge	0
+曹国舅	cao guo jiu	0
+黄心川	huang xin chuan	0
+黄大仙	huang da xian	0
+萧抱珍	xiao bao zhen	0
+常志美	chang zhi mei	0
+莲花生	lian hua sheng	0
+蒂利希	di li xi	0
+奥卡姆	ao ka mu	0
+奥利金	ao li jin	0
+奥斯曼	ao si man	0
+韩湘子	han xiang zi	0
+蓝采和	lan cai he	0
+雷思齐	lei si qi	0
+雷鸣远	lei ming yuan	0
+福克斯	fu ke si	0
+替死鬼	ti si gui	0
+晏玛太	yan ma tai	0
+楼宇烈	lou yu lie	0
+摄摩腾	she mo teng	0
+摄摩腾	nie mo teng	0
+摄摩腾	she ma teng	0
+摄摩腾	nie ma teng	0
+善无畏	shan wu wei	0
+裨治文	bi zhi wen	0
+裨治文	pi zhi wen	0
+廖帝聘	liao di pin	0
+樊国梁	fan guo liang	0
+戴德生	dai de sheng	0
+额西丁	e xi ding	0
+赫蒂彻	he di che	0
+德日进	de ri jin	0
+潘师正	pan shi zheng	0
+魏伯阳	wei bo yang	0
+魏华存	wei hua cun	0
+十八罗汉	shi ba luo han	0
+十殿阎王	shi dian yan wang	0
+九天玄女	jiu tian xuan nv	0
+三元大帝	san yuan da di	0
+三官大帝	san guan da di	0
+三茅真君	san mao zhen jun	0
+无上元君	wu shang yuan jun	0
+马祖道一	ma zu dao yi	0
+月下老人	yue xia lao ren	0
+日月五星	ri yue wu xing	0
+无龙八部	wu long ba bu	0
+子孙娘娘	zi sun niang niang	0
+太上老君	tai shang lao jun	0
+大白金星	da bai jin xing	0
+元始天尊	yuan shi tian zun	0
+五百罗汉	wu bai luo han	0
+五岳大帝	wu yue da di	0
+文昌帝君	wen chang di jun	0
+支娄迦谶	zhi lou jia chen	0
+布袋和尚	bu dai he shang	0
+石头希迁	shi tou xi qian	0
+四方之神	si fang zhi shen	0
+四大金刚	si da jin gang	0
+司马承祯	si ma cheng zhen	0
+司徒雷登	si tu lei deng	0
+北斗真君	bei dou zhen jun	0
+玉皇大帝	yu huang da di	0
+艾什尔里	ai shen er li	0
+艾什尔里	ai shi er li	0
+艾什尔里	yi shen er li	0
+艾什尔里	yi shi er li	0
+李提摩太	li ti mo tai	0
+李提摩太	li di mo tai	0
+李提摩太	li ti ma tai	0
+李提摩太	li di ma tai	0
+西普里安	xi pu li an	0
+达赖喇嘛	da lai la ma	0
+关圣帝君	guan sheng di jun	0
+灵宝天尊	ling bao tian zun	0
+鸠摩罗什	jiu mo luo shi	0
+村上专精	cun shang zhuan jing	0
+伊克巴尔	yi ke ba er	0
+伊拉斯谟	yi la si mo	0
+阿伯拉尔	a bo la er	0
+阿弥陀佛	e mi tuo fo	0
+良十三世	liang shi san shi	0
+利奥三世	li ao san shi	0
+利奥三世	li yu san shi	0
+庇护九世	bi hu jiu shi	0
+犹西比乌	you xi bi wu	0
+伊斯玛仪	yi si ma yi	0
+龟蛇二将	gui she er jiang	0
+龟蛇二将	jun she er jiang	0
+龟蛇二将	qiu she er jiang	0
+龟蛇二将	gui yi er jiang	0
+龟蛇二将	jun yi er jiang	0
+龟蛇二将	qiu yi er jiang	0
+和合二仙	he he er xian	0
+实叉难陀	shi cha nan tuo	0
+实叉难陀	shi cha nuo tuo	0
+易卜拉欣	yi bu la xin	0
+威克里夫	wei ke li fu	0
+闾丘方远	lv qiu fang yuan	0
+鬼谷先生	gui gu xian sheng	0
+南条文雄	nan tiao wen xiong	0
+南条文雄	na tiao wen xiong	0
+真武大帝	zhen wu da di	0
+喜饶嘉措	xi rao jia cuo	0
+欧阳竟无	ou yang jing wu	0
+望月信亨	wang yue xin heng	0
+望月信亨	wang yue shen heng	0
+望月信亨	wang yue xin peng	0
+望月信亨	wang yue shen peng	0
+铃木大拙	ling mu da zhuo	0
+铃木大拙	ling mu dai zhuo	0
+铃木大拙	ling mu tai zhuo	0
+准胝观音	zhun zhi guan yin	0
+施洗约翰	shi xi yue han	0
+施洗约翰	shi xian yue han	0
+僧迦捏婆	seng jia nie po	0
+摩耶夫人	mo ye fu ren	0
+摩耶夫人	ma ye fu ren	0
+迦叶摩腾	jia ye mo teng	0
+迦叶摩腾	jia ye ma teng	0
+迦腻色迦	jia ni se jia	0
+迦腻色迦	jia ni shai jia	0
+梅兰西顿	mei lan xi dun	0
+梅葛二圣	mei ge er sheng	0
+菩提流支	pu ti liu zhi	0
+菩提达摩	pu ti da mo	0
+释迦牟尼	shi jia mu ni	0
+穆阿维叶	mu a wei ye	0
+穆阿维叶	mu a wei xie	0
+穆罕默德	mu han mo de	0
+爱克哈特	ai ke ha te	0
+德尔图良	de er tu liang	0
+骊山老母	li shan lao mu	0
+碧霞元君	bi xia yuan jun	0
+盘古真人	pan gu zhen ren	0
+道德天尊	dao de tian zun	0
+马丁路德	ma ding lu de	0
+伊本西那	yi ben xi na	0
+维廉奥康	wei lian ao kang	0
+卜尼法八世	bu ni fa ba shi	0
+卜尼法八世	bo ni fa ba shi	0
+七十二地煞	qi shi er di sha	0
+三十六天将	san shi liu tian jiang	0
+乌尔班二世	wu er ban er shi	0
+庇护十一世	bi hu shi yi shi	0
+庇护十二世	bi hu shi er shi	0
+艾卜胡载里	ai bu hu zai li	0
+艾卜胡载里	ai bo hu zai li	0
+艾卜胡载里	yi bu hu zai li	0
+艾卜胡载里	yi bo hu zai li	0
+阿布伯克尔	a bu bo ke er	0
+邓斯司各脱	deng si si ge tuo	0
+谢杰莱杜尔	xie jie lai du er	0
+伊本哈那菲叶	yi ben ha na fei ye	0
+伊本哈那菲叶	yi ben ha nei fei ye	0
+伊本哈那菲叶	yi ben ha na fei xie	0
+伊本哈那菲叶	yi ben ha nei fei xie	0
