@@ -1,0 +1,402 @@
+# 词库名称: 中国戏曲种类大全
+# 词库分类: 京剧 北方昆曲 西路评剧 北京曲剧 河北梆子 评剧
+# 词库作者: naiercc
+# 词库描述: 包含了常见的戏曲名称
+# 词条数量: 394
+# 解析词数: 394
+# 解析异常: 0
+
+京剧	jing ju	0
+北方昆曲	bei fang kun qu	0
+西路评剧	xi lu ping ju	0
+北京曲剧	bei jing qu ju	0
+河北梆子	he bei bang zi	0
+评剧	ping ju	0
+丝弦	si xian	0
+老调	lao diao	0
+哈哈腔	ha ha qiang	0
+河北乱弹	he bei luan tan	0
+武安平调	wu an ping diao	0
+武安评剧	wu an ping ju	0
+西调	xi diao	0
+西调	xi tiao	0
+蔚县扭秧歌	wei xian niu yang ge	0
+隆尧扭秧歌	long yao niu yang ge	0
+定县扭秧歌	ding xian niu yang ge	0
+四股弦	si gu xian	0
+唐剧	tang ju	0
+横岐调	heng qi diao	0
+横岐调	heng qi tiao	0
+上四调	shang si diao	0
+上四调	shang si tiao	0
+蒲州梆子	pu zhou bang zi	0
+中路梆子	zhong lu bang zi	0
+北路梆子	bei lu bang zi	0
+上党梆子	shang dang bang zi	0
+锣鼓杂戏	luo gu za xi	0
+锣鼓杂戏	luo gu za hu	0
+耍孩儿	shua hai er	0
+灵邱罗罗	ling qiu luo luo	0
+上党皮黄	shang dang pi huang	0
+上党评剧	shang dang ping ju	0
+永济道情	yong ji dao qing	0
+洪洞道情	hong dong dao qing	0
+临县道情	lin xian dao qing	0
+晋北道情	jin bei dao qing	0
+襄武扭秧歌	xiang wu niu yang ge	0
+壶关扭秧歌	hu guan niu yang ge	0
+沁源扭秧歌	qin yuan niu yang ge	0
+祁太扭秧歌	qi tai niu yang ge	0
+繁峙扭秧歌	fan zhi niu yang ge	0
+朔县扭秧歌	shuo xian niu yang ge	0
+朔县扭秧歌	shuo xuan niu yang ge	0
+孝义碗碗腔	xiao yi wan wan qiang	0
+曲沃碗碗腔	qu wo wan wan qiang	0
+弦子腔	xian zi qiang	0
+凤台小戏	feng tai xiao xi	0
+内蒙大扭秧歌	nei meng da niu yang ge	0
+内蒙大扭秧歌	nei meng dai niu yang ge	0
+内蒙大扭秧歌	nei meng tai niu yang ge	0
+二人台	er ren tai	0
+漫瀚剧	man han ju	0
+海城喇叭戏	hai cheng la ba xi	0
+海城喇叭戏	hai cheng la ba hu	0
+辽南影调戏	liao nan ying diao xi	0
+辽南影调戏	liao nan ying diao hu	0
+蒙古族的剧种	meng gu zu de ju zhong	0
+蒙古族的剧种	meng gu zu di ju zhong	0
+彩扮莲花落	cai ban lian hua lao	0
+二人转	er ren zhuan	0
+吉剧	ji ju	0
+新城戏	xin cheng xi	0
+新城戏	xin cheng hu	0
+黄龙戏	huang long xi	0
+黄龙戏	huang long hu	0
+龙江剧	long jiang ju	0
+秦腔	qin qiang	0
+汉调二簧	han diao er huang	0
+阿宫腔	a gong qiang	0
+阿宫腔	e gong qiang	0
+合阳跳戏	he yang tiao xi	0
+合阳跳戏	he yang tao xi	0
+合阳跳戏	he yang tiao hu	0
+合阳跳戏	he yang tao hu	0
+合阳线腔	he yang xian qiang	0
+眉户腔	mei hu qiang	0
+陕西碗碗腔	shan xi wan wan qiang	0
+陕西老腔	shan xi lao qiang	0
+陕南端公戏	shan nan duan gong xi	0
+陕南端公戏	shan nan duan gong hu	0
+陕西道情	shan xi dao qing	0
+弦板腔	xian ban qiang	0
+陇剧	long ju	0
+高山剧	gao shan ju	0
+身影腔	shen ying qiang	0
+甘南藏戏	gan nan zang xi	0
+青海藏戏	qing hai zang xi	0
+青海平弦戏	qing hai ping xian xi	0
+青海平弦戏	qing hai ping xian hu	0
+新疆曲子戏	xin jiang qu zi xi	0
+新疆曲子戏	xin jiang qu zi hu	0
+山东梆子	shan dong bang zi	0
+枣梆	zao bang	0
+莱芜梆子	lai wu bang zi	0
+东路梆子	dong lu bang zi	0
+柳子戏	liu zi xi	0
+柳子戏	liu zi hu	0
+吕剧	lv ju	0
+柳腔	liu qiang	0
+五音戏	wu yin xi	0
+五音戏	wu yin hu	0
+柳琴戏	liu qin xi	0
+柳琴戏	liu qin hu	0
+两夹弦	liang jia xian	0
+两夹弦	liang ga xian	0
+两夹弦	liang xia xian	0
+四平调	si ping diao	0
+四平调	si ping tiao	0
+昆曲	kun qu	0
+淮剧	huai ju	0
+扬剧	yang ju	0
+通剧	tong ju	0
+锡剧	xi ju	0
+苏剧	su ju	0
+淮海戏	huai hai xi	0
+淮海戏	huai hai hu	0
+丹剧	dan ju	0
+丁丁腔	ding ding qiang	0
+海门山歌剧	hai men shan ge ju	0
+淮红剧	huai hong ju	0
+淮红剧	huai gong ju	0
+陕南花鼓戏	shan nan hua gu xi	0
+平安和健康弦子戏	ping an he jian kang xian zi xi	0
+平安和健康弦子戏	ping an hu jian kang xian zi xi	0
+平安和健康弦子戏	ping an huo jian kang xian zi xi	0
+平安和健康弦子戏	ping an he jian kang xian zi hu	0
+平安和健康弦子戏	ping an hu jian kang xian zi hu	0
+平安和健康弦子戏	ping an huo jian kang xian zi hu	0
+黄梅戏	huang mei xi	0
+徽剧	hui ju	0
+青阳腔	qing yang qiang	0
+沙河调	sha he diao	0
+沙河调	sha he tiao	0
+岳西高腔	yue xi gao qiang	0
+安徽目连戏	an hui mu lian xi	0
+安徽目连戏	an hui mu lian hu	0
+安徽傩戏	an hui nuo xi	0
+庐剧	lu ju	0
+安徽端公戏	an hui duan gong xi	0
+安徽端公戏	an hui duan gong hu	0
+泗洲戏	si zhou xi	0
+泗洲戏	si zhou hu	0
+坠子戏	zhui zi xi	0
+坠子戏	zhui zi hu	0
+含弓戏	han gong xi	0
+含弓戏	han gong hu	0
+芜湖梨簧戏	wu hu li huang xi	0
+芜湖梨簧戏	wu hu li huang hu	0
+文南词	wen nan ci	0
+文南词	wen na ci	0
+皖南花鼓戏	wan nan hua gu xi	0
+凤阳花鼓戏	feng yang hua gu xi	0
+凤阳花鼓戏	feng yang hua gu hu	0
+淮北花鼓戏	huai bei hua gu xi	0
+推剧	tui ju	0
+嗨字戏	hai zi xi	0
+嗨字戏	hei zi xi	0
+嗨字戏	hai zi hu	0
+嗨字戏	hei zi hu	0
+洪山戏	hong shan xi	0
+洪山戏	hong shan hu	0
+沪剧	hu ju	0
+奉贤山歌剧	feng xian shan ge ju	0
+越剧	yue ju	0
+婺剧	wu ju	0
+浙江剧种	zhe jiang ju zhong	0
+新昌高腔	xin chang gao qiang	0
+宁海平调	ning hai ping diao	0
+松阳高腔	song yang gao qiang	0
+醒感戏	xing gan xi	0
+醒感戏	xing gan hu	0
+温州昆曲	wen zhou kun qu	0
+金华昆腔戏	jin hua kun qiang xi	0
+金华昆腔戏	jin hua kun qiang hu	0
+黄岩乱弹	huang yan luan tan	0
+诸暨乱弹	zhu ji luan tan	0
+和剧	he ju	0
+和剧	hu ju	0
+和剧	huo ju	0
+杭剧	hang ju	0
+甬剧	yong ju	0
+湖剧	hu ju	0
+姚剧	yao ju	0
+睦剧	mu ju	0
+赣剧	gan ju	0
+弋阳腔	yi yang qiang	0
+盱河戏	xu he xi	0
+盱河戏	xu he hu	0
+东河戏	dong he xi	0
+东河戏	dong he hu	0
+宁河戏	ning he xi	0
+宁河戏	ning he hu	0
+瑞河戏	rui he xi	0
+瑞河戏	rui he hu	0
+宜黄戏	yi huang xi	0
+宜黄戏	yi huang hu	0
+南昌采茶戏	nan chang cai cha xi	0
+赣南采茶戏	gan nan cai cha xi	0
+萍乡采茶戏	ping xiang cai cha xi	0
+万载花灯戏	wan zai hua deng xi	0
+万载花灯戏	wan zai hua deng hu	0
+抚州采茶戏	fu zhou cai cha xi	0
+吉安采茶戏	ji an cai cha xi	0
+宁都采茶戏	ning du cai cha xi	0
+赣东采茶戏	gan dong cai cha xi	0
+九江采茶戏	jiu jiang cai cha xi	0
+景德镇采茶戏	jing de zhen cai cha xi	0
+武宁采茶戏	wu ning cai cha xi	0
+高安采茶戏	gao an cai cha xi	0
+莆仙戏	pu xian xi	0
+戏班戏	xi ban xi	0
+戏班戏	xi ban hu	0
+高甲戏	gao jia xi	0
+高甲戏	gao jia hu	0
+平讲戏	ping jiang xi	0
+平讲戏	ping jiang hu	0
+福州戏	fu zhou xi	0
+福州戏	fu zhou hu	0
+庶民戏	shu min xi	0
+庶民戏	shu min hu	0
+词明戏	ci ming xi	0
+词明戏	ci ming hu	0
+大腔戏	da qiang xi	0
+大腔戏	dai qiang xi	0
+大腔戏	tai qiang xi	0
+大腔戏	da qiang hu	0
+大腔戏	dai qiang hu	0
+大腔戏	tai qiang hu	0
+闽前汉剧	min qian han ju	0
+北路戏	bei lu xi	0
+北路戏	bei lu hu	0
+梅林戏	mei lin xi	0
+梅林戏	mei lin hu	0
+右词南剑调	you ci nan jian diao	0
+右词南剑调	you ci nan jian tiao	0
+右词南剑调	you ci na jian diao	0
+右词南剑调	you ci na jian tiao	0
+三角学戏	san jiao xue xi	0
+闽西采茶戏	min xi cai cha xi	0
+南词戏	nan ci xi	0
+南词戏	na ci xi	0
+南词戏	nan ci hu	0
+南词戏	na ci hu	0
+闽西山歌戏	min xi shan ge xi	0
+闽西山歌戏	min xi shan ge hu	0
+芗剧	xiang ju	0
+打城戏	da cheng xi	0
+打城戏	da cheng hu	0
+竹马戏	zhu ma xi	0
+竹马戏	zhu ma hu	0
+春游戏	chun you xi	0
+春游戏	chun you hu	0
+肩膀戏	jian bang xi	0
+肩膀戏	jian bang hu	0
+歌仔戏	ge zai xi	0
+粤剧	yue ju	0
+潮剧	chao ju	0
+正字戏	zheng zi xi	0
+正字戏	zheng zi hu	0
+别字戏	bie zi xi	0
+别字戏	bie zi hu	0
+广东汉剧	guang dong han ju	0
+西秦戏	xi qin xi	0
+西秦戏	xi qin hu	0
+花朝戏粤北采茶戏	hua zhao xi yue bei cai cha xi	0
+花朝戏粤北采茶戏	hua zhao hu yue bei cai cha xi	0
+乐昌花鼓戏	le chang hua gu xi	0
+雷剧	lei ju	0
+粤西白戏	yue xi bai xi	0
+粤西白戏	yue xi bai hu	0
+桂剧	gui ju	0
+邕剧	yong ju	0
+丝弦戏	si xian xi	0
+丝弦戏	si xian hu	0
+广西师公戏	guang xi shi gong xi	0
+广西师公戏	guang xi shi gong hu	0
+彩调	cai diao	0
+彩调	cai tiao	0
+牛娘剧	niu niang ju	0
+桂南采茶戏	gui nan cai cha xi	0
+壮剧	zhuang ju	0
+苗戏	miao xi	0
+苗戏	miao hu	0
+侗戏	dong xi	0
+侗戏	tong xi	0
+侗戏	dong hu	0
+侗戏	tong hu	0
+海南曲戏	hai nan qu xi	0
+海南曲戏	hai nan qu hu	0
+临剧	lin ju	0
+湘剧	xiang ju	0
+祁剧	qi ju	0
+常德汉剧	chang de han ju	0
+衡阳湘剧	heng yang xiang ju	0
+巴陵戏	ba ling xi	0
+巴陵戏	ba ling hu	0
+辰河戏	chen he xi	0
+辰河戏	chen he hu	0
+湘昆	xiang kun	0
+长沙花鼓戏	chang sha hua gu xi	0
+岳阳花鼓戏	yue yang hua gu xi	0
+常德花鼓戏	chang de hua gu xi	0
+湘西花灯戏	xiang xi hua deng xi	0
+湘西花灯戏	xiang xi hua deng hu	0
+湘西阳戏	xiang xi yang xi	0
+湘西阳戏	xiang xi yang hu	0
+衡阳花鼓戏	heng yang hua gu xi	0
+邵阳花鼓戏	shao yang hua gu xi	0
+零陵花鼓戏	ling ling hua gu xi	0
+师道戏	shi dao xi	0
+师道戏	shi dao hu	0
+湘西苗戏	xiang xi miao xi	0
+湘西苗戏	xiang xi miao hu	0
+新晃侗族傩戏	xin huang dong zu nuo xi	0
+汉剧	han ju	0
+荆河戏	jing he xi	0
+荆河戏	jing he hu	0
+南剧	nan ju	0
+南剧	na ju	0
+湖北越调	hu bei yue diao	0
+山二簧	shan er huang	0
+湖北高腔	hu bei gao qiang	0
+楚剧	chu ju	0
+东路花鼓戏	dong lu hua gu xi	0
+黄梅采茶戏	huang mei cai cha xi	0
+阳新采茶戏	yang xin cai cha xi	0
+远安花鼓戏	yuan an hua gu xi	0
+襄阳花鼓戏	xiang yang hua gu xi	0
+荆州花鼓戏	jing zhou hua gu xi	0
+梁山调	liang shan diao	0
+梁山调	liang shan tiao	0
+郧阳花鼓戏	yun yang hua gu xi	0
+随县花鼓戏	sui xian hua gu xi	0
+堂戏	tang xi	0
+堂戏	tang hu	0
+文曲戏	wen qu xi	0
+文曲戏	wen qu hu	0
+鄂西柳子戏	e xi liu zi xi	0
+鄂西柳子戏	e xi liu zi hu	0
+豫剧	yu ju	0
+河南越调	he nan yue diao	0
+南阳梆子	nan yang bang zi	0
+大平调	da ping diao	0
+怀梆	huai bang	0
+大弦戏	da xian xi	0
+大弦戏	dai xian xi	0
+大弦戏	tai xian xi	0
+大弦戏	da xian hu	0
+大弦戏	dai xian hu	0
+大弦戏	tai xian hu	0
+罗戏	luo xi	0
+罗戏	luo hu	0
+卷戏	juan xi	0
+卷戏	juan hu	0
+河元曲剧	he yuan qu ju	0
+河南道情	he nan dao qing	0
+豫南花鼓戏	yu nan hua gu xi	0
+乐腔	le qiang	0
+乐腔	yue qiang	0
+五调腔	wu diao qiang	0
+五调腔	wu tiao qiang	0
+川剧	chuan ju	0
+四川灯戏	si chuan deng xi	0
+四川灯戏	si chuan deng hu	0
+四川说唱艺术剧	si chuan shuo chang yi shu ju	0
+秀山花灯戏	xiu shan hua deng xi	0
+秀山花灯戏	xiu shan hua deng hu	0
+滇剧	dian ju	0
+云南花灯戏	yun nan hua deng xi	0
+云南花灯戏	yun nan hua deng hu	0
+昆明曲剧	kun ming qu ju	0
+关索剧	guan suo ju	0
+傣剧	dai ju	0
+白剧	bai ju	0
+彝剧	yi ju	0
+云南壮剧	yun nan zhuang ju	0
+文琴戏	wen qin xi	0
+文琴戏	wen qin hu	0
+贵州本地梆子	gui zhou ben di bang zi	0
+贵州花灯剧	gui zhou hua deng ju	0
+贵州侗戏	gui zhou dong xi	0
+贵州侗戏	gui zhou tong xi	0
+贵州侗戏	gui zhou dong hu	0
+贵州侗戏	gui zhou tong hu	0
+贵州布依戏	gui zhou bu yi xi	0
+贵州布依戏	gui zhou bu yi hu	0
+贵州苗戏	gui zhou miao xi	0
+贵州苗戏	gui zhou miao hu	0
+安顺地戏	an shun di xi	0
+安顺地戏	an shun de xi	0
+安顺地戏	an shun di hu	0
+安顺地戏	an shun de hu	0
+藏戏	zang xi	0
