@@ -1,0 +1,394 @@
+# 词库名称: 游戏名称
+# 词库分类: 网游
+# 词库描述: 玩过的游戏名称和里面的用词和装备名称以及NPC
+# 词条样例: 黑山老妖、白衣人、酆都、地遁鬼、守门天将
+# 解析词数: 387
+# 解析异常: 0
+
+阿紫	a zi	147
+傲来国	ao lai guo	379
+傲来国当铺	ao lai guo dang pu	82
+傲来国服饰店	ao lai guo fu shi dian	80
+傲来国客栈	ao lai guo ke zhan	84
+傲来国民居	ao lai guo min ju	78
+傲来国钱庄	ao lai guo qian zhuang	76
+傲来国圣庙	ao lai guo sheng miao	74
+傲来国武器店	ao lai guo wu qi dian	72
+傲来国药店	ao lai guo yao dian	70
+傲来国杂货店	ao lai guo za huo dian	69
+傲来货商	ao lai huo shang	87
+傲来商人	ao lai shang ren	88
+傲来特产商人	ao lai te chan shang ren	86
+白琉璃	bai liu li	165
+白鹿精	bai lu jing	386
+白无常	bai wu chang	381
+白熊怪	bai xiong guai	41
+白衣人	bai yi ren	383
+帮派接引人	bang pai jie yin ren	285
+帮派竞赛主持人	bang pai jing sai zhu chi ren	240
+帮派主管	bang pai zhu guan	286
+奔波儿灞	ben bo er ba	178
+兵铁铺	bing tie pu	316
+捕头李	bu tou li	181
+裁缝张	cai feng zhang	94
+藏经阁	cang jing ge	30
+茶客	cha ke	98
+茶小二	cha xiao er	100
+长安城	chang an cheng	374
+长安导游	chang an dao you	251
+长安府守卫	chang an fu shou wei	274
+长安货商	chang an huo shang	268
+长安酒店	chang an jiu dian	219
+长安乐坊	chang an le fang	198
+长安民居	chang an min ju	206
+长安商人	chang an shang ren	269
+长安饰品店	chang an shi pin dian	200
+长安书店	chang an shu dian	230
+长安特产商人	chang an te chan shang ren	267
+长安武馆	chang an wu guan	228
+长安武器店	chang an wu qi dian	197
+长安衙门	chang an ya men	180
+嫦娥	chang e	2
+长风镖局	chang feng biao ju	226
+长乐赌场	chang le du chang	209
+长寿村茶楼	chang shou cun cha lou	99
+长寿村村长	chang shou cun cun zhang	97
+长寿村当铺	chang shou cun dang pu	103
+长寿村酒店	chang shou cun jiu dian	102
+长寿村民居	chang shou cun min ju	104
+长寿村钱庄	chang shou cun qian zhuang	95
+长寿村药店	chang shou cun yao dian	101
+长寿货商	chang shou huo shang	110
+长寿商人	chang shou shang ren	111
+长寿特产商人	chang shou te chan shang ren	109
+长寿珍品商人	chang shou zhen pin shang ren	108
+超级巫医	chao ji wu yi	387
+车夫	che fu	289
+陈长寿	chen chang shou	345
+陈妈妈	chen ma ma	217
+陈员外	chen yuan wai	265
+程夫人	cheng fu ren	56
+程府守卫	cheng fu shou wei	57
+丞相府	cheng xiang fu	189
+丞相府内室	cheng xiang fu nei shi	187
+程咬金	cheng yao jin	54
+宠物仙子	chong wu xian zi	346
+楚恋依	chu lian yi	297
+船夫	chuan fu	295
+传送兵	chuan song bing	363
+传送女使	chuan song nv shi	359
+传送妖精	chuan song yao jing	350
+吹牛王	chui niu wang	340
+翠花	cui hua	28
+村长家	cun zhang jia	96
+大力神灵	da li shen ling	19
+大生	da sheng	166
+大雄宝殿	da xiong bao dian	33
+大雁塔	da yan ta	175
+当铺老板	dang pu lao ban	309
+地遁鬼	di dun gui	372
+点卡交易公证员	dian ka jiao yi gong zheng yuan	237
+店小二	dian xiao er	221
+东海湾	dong hai wan	378
+东升货栈	dong sheng huo zhan	310
+兜率宫	dou lv gong	8
+赌霸天	du ba tian	210
+杜天	du tian	73
+法明长老	fa ming zhang lao	32
+翻天怪	fan tian guai	42
+房都尉	fang du wei	236
+飞儿	fei er	328
+酆都	feng dou	382
+凤凰姑娘	feng huang gu niang	118
+冯记铁铺	feng ji tie pu	224
+冯铁匠	feng tie jiang	225
+福隆当铺	fu long dang pu	204
+符全	fu quan	331
+福寿店老板	fu shou dian lao ban	196
+服装店老板	fu zhuang dian lao ban	315
+高翠兰	gao cui lan	128
+高老先生	gao lao xian sheng	130
+高老庄大厅	gao lao zhuang da ting	129
+勾魂马面	gou hun ma mian	321
+古董商人	gu dong shang ren	158
+管家	guan jia	324
+广寒宫	guang han gong	1
+广源钱庄	guang yuan qian zhuang	205
+鬼谷道士	gui gu dao shi	127
+国子监祭酒	guo zi jian ji jiu	282
+国子监书库	guo zi jian shu ku	222
+蛤蟆怪	ha ma guai	141
+海产收购商	hai chan shou gou shang	342
+海底迷宫一层	hai di mi gong yi ceng	375
+海老先生	hai lao xian sheng	119
+海释和尚	hai shi he shang	167
+号烽火台	hao feng huo tai	142
+合生记当铺	he sheng ji dang pu	308
+黑山老妖	hei shan lao yao	385
+红毛猿	hong mao yuan	91
+红线童子	hong xian tong zi	254
+侯医仙	hou yi xian	65
+蝴蝶妹妹	hu die mei mei	90
+蝴蝶女	hu die nv	117
+护卫总管	hu wei zong guan	281
+花果山	hua guo shan	376
+花果山土地	hua guo shan tu di	373
+化生寺	hua sheng si	361
+花香香	hua xiang xiang	287
+慧悲	hui bei	36
+回春堂	hui chun tang	312
+慧海	hui hai	38
+慧静	hui jing	37
+慧觉和尚	hui jue he shang	120
+慧明	hui ming	34
+火焰山土地	huo yan shan tu di	133
+货栈老板	huo zhan lao ban	311
+技能指导师	ji neng zhi dao shi	341
+建房吏	jian fang li	261
+简师爷	jian shi ye	299
+建邺民居	jian ye min ju	302
+建邺守卫	jian ye shou wei	322
+建邺县令	jian ye xian ling	301
+建邺衙门	jian ye ya men	300
+蒋大全	jiang da quan	284
+江湖奸商	jiang hu jian shang	293
+将军令服务使者	jiang jun ling fu wu shi zhe	234
+江州民居	jiang zhou min ju	156
+轿夫	jiao fu	262
+教书先生	jiao shu xian sheng	332
+疥癞和尚	jie lai he shang	35
+节日礼物使者	jie ri li wu shi zhe	238
+接引道人	jie yin dao ren	353
+接引道童	jie yin dao tong	360
+接引僧	jie yin seng	362
+接引仙女	jie yin xian nv	364
+接引仙子	jie yin xian zi	24
+金府	jin fu	53
+金銮殿	jin luan dian	191
+金毛猿	jin mao yuan	92
+金山寺大雄宝殿	jin shan si da xiong bao dian	154
+金谈微	jin tan wei	52
+金银锁	jin yin suo	233
+酒楼老板	jiu lou lao ban	220
+酒肉和尚	jiu rou he shang	153
+九头精怪	jiu tou jing guai	93
+卷帘大将	juan lian da jiang	145
+觉岸	jue an	60
+觉明	jue ming	61
+康太尉	kang tai wei	3
+空慈方丈	kong ci fang zhang	40
+空度禅师	kong du chan shi	31
+空善大师	kong shan da shi	39
+兰虎	lan hu	266
+牢房守卫	lao fang shou wei	173
+老胡	lao hu	329
+老马猴	lao ma hou	66
+老孙头	lao sun tou	327
+老太婆	lao tai po	135
+老太爷	lao tai ye	134
+老虾	lao xia	367
+老张头	lao zhang tou	79
+雷黑子	lei hei zi	336
+雷鸟精	lei niao jing	45
+李将军	li jiang jun	278
+李靖	li jing	13
+栗栗娘	li li niang	27
+李善人	li shan ren	305
+李世民	li shi min	193
+炼丹道士	lian dan dao shi	7
+怜儿姑娘	lian er gu niang	259
+怜香轩	lian xiang xuan	212
+灵儿	ling er	59
+凌霄宝殿	ling xiao bao dian	10
+柳飞絮	liu fei xu	29
+刘副将	liu fu jiang	279
+刘老爹	liu lao die	333
+刘母	liu mu	164
+留香阁	liu xiang ge	214
+龙宫	long gong	356
+龙宫传送人	long gong chuan song ren	357
+龙女妹妹	long nv mei mei	46
+龙神	long shen	47
+龙孙	long sun	256
+鲁成	lu cheng	105
+路人甲	lu ren jia	125
+陆萧然	lu xiao ran	112
+卵二姐	luan er jie	291
+轮回司	lun hui si	380
+罗百万	luo bai wan	215
+罗师爷	luo shi ye	182
+罗纤纤	luo xian xian	292
+罗招弟	luo zhao di	335
+绿儿	lv er	26
+马副将	ma fu jiang	280
+马猴	ma hou	377
+马婆婆	ma po po	106
+马全有	ma quan you	323
+马真人	ma zhen ren	18
+莽汉	mang han	44
+毛驴张	mao lv zhang	122
+美猴王	mei hou wang	64
+孟大勇	meng da yong	271
+梦之魅	meng zhi mei	179
+民居内室	min ju nei shi	304
+魔王寨	mo wang zhai	347
+慕容先生	mu rong xian sheng	83
+南北杂货店	nan bei za huo dian	202
+南极仙翁	nan ji xian weng	113
+南赡部州土地	nan shan bu zhou tu di	131
+南瞻部洲土地	nan zhan bu zhou tu di	370
+哪咤	ne zha	11
+牛大胆	niu da dan	326
+牛二	niu er	296
+牛将军	niu jiang jun	137
+牛师傅	niu shi fu	81
+女儿村	nv er cun	358
+牌中杰	pai zhong jie	245
+牌中圣	pai zhong sheng	244
+牌中仙	pai zhong xian	243
+盘丝岭	pan si ling	351
+配色师	pei se shi	258
+平安福寿店	ping an fu shou dian	195
+婆婆	po po	161
+菩提祖师	pu ti zu shi	58
+普陀接引仙女	pu tuo jie yin xian nv	365
+普陀山	pu tuo shan	354
+棋童	qi tong	246
+钱老板	qian lao ban	115
+钱庄老板	qian zhuang lao ban	307
+樵夫	qiao fu	290
+秦府	qin fu	185
+秦府内室	qin fu nei shi	183
+秦夫人	qin fu ren	184
+秦府守卫	qin fu shou wei	273
+秦琼	qin qiong	186
+青灵玄女	qing ling xuan nv	48
+青琉璃	qing liu li	43
+穷汉	qiong han	260
+虬髯客	qiu ran ke	107
+三界包打听	san jie bao da ting	248
+森之魅	sen zhi mei	176
+山神	shan shen	159
+山贼头子	shan zei tou zi	143
+商会总管	shang hui zong guan	252
+沈妙衣	shen miao yi	71
+申请人	shen qing ren	241
+圣山传送人	sheng shan chuan song ren	235
+饰品店老板	shi pin dian lao ban	201
+狮驼岭	shi tuo ling	349
+守门道童	shou men dao tong	16
+守门天将	shou men tian jiang	369
+水兵统领	shui bing tong ling	20
+水帘洞	shui lian dong	62
+水云仙	shui yun xian	384
+顺风耳	shun feng er	22
+苏小小	su xiao xiao	270
+素衣仙女	su yi xian nv	23
+孙婆婆	sun po po	25
+孙悟空	sun wu kong	63
+孙小三	sun xiao san	272
+太白金星	tai bai jin xing	123
+太上老君	tai shang lao jun	9
+特产竞标人	te chan jing biao ren	239
+天兵飞剑	tian bing fei jian	146
+天将	tian jiang	368
+天牢守卫	tian lao shou wei	21
+天篷元帅	tian peng yuan shuai	149
+铁扇公主	tie shan gong zhu	126
+偷尸鬼	tou shi gui	138
+偷偷怪	tou tou guai	89
+土地公公	tu di gong gong	150
+推广登记员	tui guang deng ji yuan	319
+驼背大鼋	tuo bei da yuan	124
+万字钱庄	wan zi qian zhuang	306
+王捕头	wang bu tou	263
+王大嫂	wang da sao	325
+王福来	wang fu lai	85
+王夫人	wang fu ren	288
+王母娘娘	wang mu niang niang	14
+王武	wang wu	229
+魏征	wei zheng	192
+文老伯	wen lao bo	68
+文秀	wen xiu	157
+无肺	wu fei	49
+吴刚	wu gang	6
+吴举人	wu ju ren	223
+吴老爹	wu lao die	171
+武器店老板	wu qi dian lao ban	317
+武器店掌柜	wu qi dian zhang gui	318
+吴文彩	wu wen cai	172
+无心	wu xin	50
+五行大师	wu xing da shi	232
+五庄观	wu zhuang guan	352
+戏班老板	xi ban lao ban	338
+西牛贺洲土地	xi niu he zhou tu di	371
+虾兵	xia bing	366
+仙岛引路使	xian dao yin lu shi	67
+小二	xiao er	162
+小花	xiao hua	334
+小怜香	xiao lian xiang	213
+小桃红	xiao tao hong	216
+小惜玉	xiao xi yu	211
+小芸芸	xiao yun yun	170
+小紫	xiao zi	75
+辛发明	xin fa ming	51
+许大娘	xu da niang	116
+许姑娘	xu gu niang	114
+玄奘	xuan zang	155
+血之魅	xue zhi mei	177
+训兽师	xun shou shi	242
+丫鬟	ya huan	55
+衙役	ya yi	298
+颜如羽	yan ru yu	231
+杨戬	yang jian	12
+药店老板	yao dian lao ban	313
+姚太尉	yao tai wei	148
+业释和尚	ye shi he shang	168
+野猪王	ye zhu wang	139
+殷丞相	yin cheng xiang	190
+殷夫人	yin fu ren	188
+引路仙女	yin lu xian nv	355
+引路小妖	yin lu xiao yao	348
+殷温娇	yin wen jiao	160
+迎客僧	ying ke seng	339
+玉皇大帝	yu huang da di	15
+御林军右统领	yu lin jun you tong ling	276
+御林军左统领	yu lin jun zuo tong ling	277
+玉面公主	yu mian gong zhu	294
+玉面狐狸	yu mian hu li	152
+渔翁	yu weng	163
+袁财主	yuan cai zhu	77
+冤魂	yuan hun	136
+袁守成	yuan shou cheng	257
+袁天罡	yuan tian gang	283
+月宫	yue gong	5
+月老	yue lao	255
+乐器店老板	yue qi dian lao ban	199
+月香侍女	yue xiang shi nv	4
+云来酒店	yun lai jiu dian	218
+云里雾	yun li wu	132
+云游僧	yun you seng	140
+杂货店老板	za huo dian lao ban	203
+在线提醒人	zai xian ti xing ren	247
+斩妖台守卫	zhan yao tai shou wei	17
+张记布庄	zhang ji bu zhuang	194
+张记布庄分店	zhang ji bu zhuang fen dian	314
+张来福	zhang lai fu	320
+张老财	zhang lao cai	264
+张猎户	zhang lie hu	144
+赵捕头	zhao bu tou	330
+赵美人	zhao mei ren	275
+赵姨娘	zhao yi niang	208
+赵元宝	zhao yuan bao	337
+者释和尚	zhe shi he shang	169
+珍品商人	zhen pin shang ren	253
+镇塔之神	zhen ta zhi shen	174
+郑镖头	zheng biao tou	227
+至尊宝	zhi zun bao	151
+钟书生	zhong shu sheng	121
+周猎户	zhou lie hu	303
+珠宝商人	zhu bao shang ren	249
+装备鉴定人	zhuang bei jian ding ren	343
+装备鉴定商	zhuang bei jian ding shang	250
+装备收购商	zhuang bei shou gou shang	344
+紫衣盗	zi yi dao	207
