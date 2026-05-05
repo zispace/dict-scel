@@ -1,0 +1,1833 @@
+# 词库名称: dota+war3
+# 词库分类: Dota
+# 词库描述: dota+war3
+# 词条样例: 水元素、铁匠铺、农场、兽族、剑圣、暗影猎手
+# 解析词数: 1826
+# 解析异常: 0
+
+阿尔塞斯	a er sai si	1504
+阿卡那瑟德刺人	a ka na se de ci ren	1390
+阿卡那瑟德掘地者	a ka na se de jue di zhe	1388
+阿卡那瑟德领主	a ka na se de ling zhu	1387
+阿卡那瑟德战士	a ka na se de zhan shi	1389
+阿利亚之笛	a li ya zhi di	1254
+艾鲁尼之优雅	ai lu ni zhi you ya	1634
+矮人火枪手	ai ren huo qiang shou	1087
+矮人狙击手	ai ren ju ji shou	985
+矮人直升机	ai ren zhi sheng ji	1184
+矮人直升机炸弹	ai ren zhi sheng ji zha dan	1707
+艾萨拉	ai sa la	1513
+艾西菲的远古祭祀	ai xi fei de yuan gu ji si	720
+矮子	ai zi	872
+暗黑耀	an hei yao	641
+暗黑游侠	an hei you xia	987
+黯灭	an mie	695
+黯灭刀	an mie dao	561
+黯灭刃	an mie ren	560
+暗牧	an mu	956
+暗杀	an sha	147
+暗夜	an ye	1794
+暗夜精灵	an ye jing ling	1793
+暗夜精灵形态	an ye jing ling xing tai	1626
+暗夜精灵族	an ye jing ling zu	431
+暗夜老农	an ye lao nong	429
+暗夜魔王	an ye mo wang	925
+暗影	an ying	875
+暗影猎手	an ying lie shou	1809
+暗影牧师	an ying mu shi	957
+暗影萨满	an ying sa man	1025
+暗影突袭	an ying tu xi	1637
+拔线	ba xian	887
+白虎	bai hu	1789
+白牛	bai niu	918
+白猪	bai zhu	1669
+板甲	ban jia	736
+半人马刺客	ban ren ma ci ke	1440
+半人马弓箭手	ban ren ma gong jian shou	1441
+半人马可汗	ban ren ma ke han	1438
+半人马苦工	ban ren ma ku gong	1443
+半人马酋长	ban ren ma qiu zhang	1000
+半人马巫师	ban ren ma wu shi	1439
+半人马先行者	ban ren ma xian xing zhe	1442
+半人猛犸	ban ren meng ma	942
+半兽人之斧	ban shou ren zhi fu	745
+绑他	bang ta	221
+刨冰	bao bing	280
+暴风雪	bao feng xue	1739
+保护卷轴	bao hu juan zhou	1486
+暴击	bao ji	359
+暴击刀	bao ji dao	557
+堡垒	bao lei	1153
+暴怒枭兽	bao nu xiao shou	1431
+爆破	bao po	1531
+保塔	bao ta	397
+爆他	bao ta	197
+爆头	bao tou	149
+爆小黑	bao xiao hei	1331
+暴走	bao zou	139
+背背兽	bei bei shou	1059
+背刺	bei ci	246
+北极熊	bei ji xiong	1101
+倍伤	bei shang	267
+碧龙	bi long	109
+鼻涕	bi ti	132
+比泽	bi ze	640
+臂章	bi zhang	534
+变大	bian da	166
+变近身	bian jin shen	142
+变近战	bian jin zhan	144
+变身	bian shen	1650
+变体攻击	bian ti gong ji	288
+变体精灵	bian ti jing ling	1040
+变相移动	bian xiang yi dong	1608
+变形	bian xing	293
+变形术	bian xing shu	1715
+变熊	bian xiong	237
+变异两栖人	bian yi liang qi ren	1378
+变远程	bian yuan cheng	143
+标枪	biao qiang	580
+标准战役	biao zhun zhan yi	857
+标准战役区	biao zhun zhan yi qu	848
+冰冻喷吐	bing dong pen tu	1557
+冰冻之箭	bing dong zhi jian	1555
+冰封	bing feng	283
+冰封禁锢	bing feng jin gu	1036
+冰封禁制	bing feng jin zhi	285
+冰封路径	bing feng lu jing	82
+冰封王座	bing feng wang zuo	1509
+冰火交加	bing huo jiao jia	84
+冰火两重天	bing huo liang chong tian	1334
+冰甲	bing jia	1597
+冰箭	bing jian	103
+并列	bing lie	177
+冰龙	bing long	1764
+冰魔高级牧师	bing mo gao ji mu shi	1361
+冰魔狂战士	bing mo kuang zhan shi	1364
+冰魔猎手	bing mo lie shou	1365
+冰魔首领	bing mo shou ling	1363
+冰魔影子牧师	bing mo ying zi mu shi	1362
+冰女	bing nv	1034
+冰霜巨龙	bing shuang ju long	1117
+冰塔	bing ta	1759
+冰牙猛犸	bing ya meng ma	1359
+冰眼	bing yan	769
+兵营	bing ying	1178
+冰之巨魔	bing zhi ju mo	1366
+波浪	bo lang	291
+波浪形态	bo lang xing tai	1039
+不败	bu bai	368
+步兵	bu bing	1189
+补刀	bu dao	408
+不叠加	bu die jia	345
+补丁工具	bu ding gong ju	854
+补盾	bu dun	678
+不给分	bu gei fen	365
+不共享	bu gong xiang	840
+不回程	bu hui cheng	839
+不可侵犯	bu ke qin fan	1042
+不命运	bu ming yun	841
+补魔	bu mo	1561
+不升级基地	bu sheng ji ji di	838
+不死盾	bu si dun	671
+不死族	bu si zu	1778
+不死族老农	bu si zu lao nong	428
+不稳定化合物	bu wen ding hua he wu	1656
+不朽	bu xiu	555
+不朽盾	bu xiu dun	554
+不朽尸王	bu xiu shi wang	602
+不朽之守护	bu xiu zhi shou hu	691
+补血	bu xue	1563
+补眼	bu yan	383
+菜刀男	cai dao nan	1086
+残废	can fei	1578
+残情	can qing	895
+操纵死尸	cao zong si shi	1601
+操纵死尸卷轴	cao zong si shi juan zhou	1284
+插棒子	cha bang zi	679
+查克拉魔法	cha ke la mo fa	210
+插蛇	cha she	683
+叉形闪电	cha xing shan dian	138
+插眼	cha yan	773
+叉状闪电	cha zhuang shan dian	1556
+拆店	chai dian	837
+缠绕	chan rao	47
+缠绕金矿	chan rao jin kuang	1132
+长钉衣领	chang ding yi ling	1290
+唱歌	chang ge	266
+长管火枪	chang guan huo qiang	1725
+长矛	chang mao	466
+长矛手	chang mao shou	465
+长年熊	chang nian xiong	816
+长袍	chang pao	515
+嘲讽	chao feng	1619
+超负荷	chao fu he	72
+超强力量	chao qiang li liang	1015
+超声冲击波	chao sheng chong ji bo	21
+潮汐	chao xi	445
+潮汐猎人	chao xi lie ren	939
+车间	che jian	1815
+车子	che zi	1113
+沉沦之海	chen lun zhi hai	803
+沉默	chen mo	1552
+沉默光环	chen mo guang huan	231
+沉默魔法	chen mo mo fa	102
+沉默权杖	chen mo quan zhang	1221
+沉默术士	chen mo shu shi	1058
+沉默杖	chen mo zhang	533
+尘土之影	chen tu zhi ying	1488
+晨之酒馆	chen zhi jiu guan	422
+城堡	cheng bao	1179
+澄海	cheng hai	896
+澄海十大狂人	cheng hai shi da kuang ren	894
+城甲	cheng jia	1208
+城镇大厅	cheng zhen da ting	1181
+吃兵	chi bing	34
+赤龙	chi long	110
+吃尸	chi shi	1586
+吃树	chi shu	774
+吃小兵	chi xiao bing	33
+冲啊	chong a	290
+冲刺	chong ci	26
+冲击波	chong ji bo	1691
+重生	chong sheng	1688
+冲他	chong ta	289
+重修之书	chong xiu zhi shu	1482
+虫子	chong zi	909
+出跳	chu tiao	607
+初夜男	chu ye nan	781
+穿刺	chuan ci	1591
+穿刺攻击	chuan ci gong ji	335
+穿刺剑刃	chuan ci jian ren	1629
+传送	chuan song	901
+传送门	chuan song men	1197
+传送权杖	chuan song quan zhang	1483
+传送逃跑	chuan song tao pao	809
+穿他	chuan ta	30
+吹风	chui feng	651
+吹风流	chui feng liu	1328
+吹风杖	chui feng zhang	564
+吹起	chui qi	648
+锤子	chui zi	1735
+纯暴流	chun bao liu	1327
+纯狗流	chun gou liu	1323
+刺客	ci ke	1417
+刺针扫射	ci zhen sao she	131
+丛林	cong lin	871
+丛林守护者	cong lin shou hu zhe	1791
+大便	da bian	1604
+大标	da biao	302
+大波	da bo	213
+打不动	da bu dong	294
+大电锤	da dian chui	539
+打点钱	da dian qian	633
+大盾	da dun	507
+打盾	da dun	884
+大法	da fa	993
+大法师	da fa shi	1088
+大斧	da fu	505
+大复活神符	da fu huo shen fu	1264
+大根	da gen	553
+达贡	da gong	771
+达贡之神力	da gong zhi shen li	689
+大沟	da gou	261
+打怪	da guai	385
+大回复卷轴	da hui fu juan zhou	1294
+大恢复药水	da hui fu yao shui	1297
+大灰狼	da hui lang	1449
+大剑	da jian	739
+打箭	da jian	619
+大雷	da lei	308
+大魔法神符	da mo fa shen fu	1267
+大魔法师	da mo fa shi	1195
+大魔法药水	da mo fa yao shui	1303
+大娜迦	da na jia	954
+大炮	da pao	599
+大屁股	da pi gu	436
+大屁股猪	da pi gu zhu	471
+打钱	da qian	634
+打泉水	da quan shui	611
+大生命药水	da sheng ming yao shui	1310
+大师级利爪徳鲁依训练	da shi ji li zhua de lu yi xun lian	1621
+大师级灵魂行者训练	da shi ji ling hun xing zhe xun lian	1662
+大师级猛禽徳鲁依训练	da shi ji meng qin de lu yi xun lian	1610
+大师级牧师训练	da shi ji mu shi xun lian	1719
+大师级女巫训练	da shi ji nv wu xun lian	1713
+大师级女妖训练	da shi ji nv yao xun lian	1569
+大师级萨满训练	da shi ji sa man xun lian	1675
+大师级亡灵巫师训练	da shi ji wang ling wu shi xun lian	1574
+大师级巫医训练	da shi ji wu yi xun lian	1670
+大树	da shu	469
+打塔	da ta	377
+大厅	da ting	1154
+大心	da xin	547
+搭载弓箭手	da zai gong jian shou	1616
+大招	da zhao	363
+大震	da zhen	258
+大治疗神符	da zhi liao shen fu	1269
+大自然的掩护	da zi ran de yan hu	228
+带刺外壳	dai ci wai ke	27
+带走	dai zou	67
+单机	dan ji	628
+弹幕攻击	dan mu gong ji	1703
+单中	dan zhong	643
+导弹	dao dan	187
+导弹轰炸	dao dan hong zha	1534
+盗法	dao fa	1712
+到六	dao liu	364
+刀王	dao wang	847
+刀阵旋风	dao zhen xuan feng	1639
+德鲁伊	de lu yi	1006
+地卜	di bu	916
+地卜师	di bu shi	917
+地洞	di dong	1797
+敌法	di fa	1020
+敌法师	di fa shi	1022
+地精	di jing	1050
+地精船厂	di jing chuan chang	1205
+地精的贪婪	di jing de tan lan	59
+地精飞艇	di jing fei ting	1495
+地精工兵	di jing gong bing	1496
+地精炼金术士	di jing lian jin shu shi	1745
+地精商店	di jing shang dian	1207
+地精实验室	di jing shi yan shi	1206
+地精撕裂者	di jing si lie zhe	1494
+地精修补匠	di jing xiu bu jiang	1748
+地雷	di lei	164
+地图	di tu	856
+低维修费用	di wei xiu fei yong	1122
+地穴	di xue	1763
+地穴编织者	di xue bian zhi zhe	933
+地穴刺客	di xue ci ke	974
+地穴狗头人	di xue gou tou ren	1404
+地穴领主	di xue ling zhu	1773
+地狱火	di yu huo	1774
+地狱火球	di yu huo qiu	36
+地狱火之石	di yu huo zhi shi	1286
+地狱领主	di yu ling zhu	928
+地震	di zhen	1692
+电锤	dian chui	768
+点灯	dian deng	233
+电棍	dian gun	622
+电魂	dian hun	783
+点火	dian huo	194
+点金	dian jin	910
+点金手	dian jin shou	672
+电链	dian lian	310
+电王	dian wang	477
+电子咆哮	dian zi pao xiao	74
+电子屏障	dian zi ping zhang	73
+凋零	diao ling	217
+叠加	die jia	346
+丢锤	diu chui	275
+丢个锤	diu ge chui	274
+动力鞋	dong li xie	576
+冻上	dong shang	281
+动物信使	dong wu xin shi	490
+动物园园长	dong wu yuan yuan zhang	1105
+动物作战训练	dong wu zuo zhan xun lian	1724
+都来	dou lai	381
+都来上	dou lai shang	378
+都来下	dou lai xia	379
+都来中	dou lai zhong	380
+斗篷	dou peng	516
+毒标	du biao	20
+毒龙	du long	971
+毒龙去抓人	du long qu zhua ren	882
+毒蛇守卫	du she shou wei	1167
+毒雾	du wu	61
+毒性攻击	du xing gong ji	11
+毒性树人	du xing shu ren	1385
+毒液之球	du ye zhi qiu	1230
+毒液蜘蛛	du ye zhi zhu	1451
+短棍	duan gun	740
+对抗地图	dui kang di tu	860
+对尸体有效	dui shi ti you xiao	254
+盾击	dun ji	113
+多重	duo chong	192
+多重攻击	duo chong gong ji	45
+多重箭矢	duo chong jian shi	818
+多重施法	duo chong shi fa	193
+躲了	duo le	48
+堕落牧师	duo luo mu shi	1414
+堕落树人	duo luo shu ren	1386
+多洛特	duo luo te	1519
+恶魔	e mo	911
+恶魔刀	e mo dao	506
+恶魔刀锋	e mo dao feng	732
+恶魔雕像	e mo diao xiang	1288
+恶魔猎手	e mo lie shou	1792
+恶魔巫师	e mo wu shi	944
+恩赐解脱	en ci jie tuo	922
+法力丢失	fa li diu shi	211
+法力流失	fa li liu shi	212
+法力燃烧	fa li ran shao	1653
+法力损毁	fa li sun hui	107
+法力虚空	fa li xu kong	1021
+伐木场	fa mu chang	1819
+伐木机	fa mu ji	1493
+法球	fa qiu	339
+法球效果	fa qiu xiao guo	344
+法球效果不能叠加	fa qiu xiao guo bu neng die jia	343
+法师长袍	fa shi chang pao	1225
+法术护盾	fa shu hu dun	105
+发芽	fa ya	185
+法杖	fa zhang	514
+反补	fan bu	653
+凡凡	fan fan	905
+返回工作	fan hui gong zuo	1727
+反击	fan ji	124
+返老还童	fan lao huan tong	1624
+反了	fan le	375
+反魔法盾	fan mo fa dun	1572
+反弹甲	fan tan jia	570
+范围沉默	fan wei chen mo	230
+放刺	fang ci	130
+放大	fang da	1099
+放沟	fang gou	262
+放鸟	fang niao	1103
+防守地图	fang shou di tu	861
+防守流	fang shou liu	1335
+放雾	fang wu	252
+放吸	fang xi	215
+放眼	fang yan	384
+防御	fang yu	1726
+防御塔	fang yu ta	1175
+放逐	fang zhu	1730
+飞标	fei biao	300
+飞镖	fei biao	120
+飞斧	fei fu	92
+飞龙	fei long	1801
+飞龙骑士	fei long qi shi	1089
+飞鞋	fei xie	775
+飞行信使	fei xing xin shi	538
+沸血之矛	fei xue zhi mao	64
+坟场	fen chang	1761
+分离弓箭手和角鹰兽	fen li gong jian shou he jiao ying shou	1615
+分裂攻击	fen lie gong ji	1537
+分裂箭	fen lie jian	46
+分身	fen shen	271
+分身斧	fen shen fu	556
+粉碎	fen sui	1654
+粉碎伤害	fen sui shang hai	327
+粉碎者	fen sui zhe	1806
+风暴锤	feng bao chui	279
+风暴祭坛	feng bao ji tan	1151
+风暴巨龙	feng bao ju long	1462
+风暴狮角	feng bao shi jiao	1239
+风暴乌鸦	feng bao wu ya	1613
+风暴战锤	feng bao zhan chui	1702
+风暴召唤	feng bao zhao huan	5
+风暴之锤	feng bao zhi chui	1736
+风暴之灵	feng bao zhi ling	682
+风德	feng de	1127
+凤凰	feng huang	1192
+疯狂	feng kuang	565
+疯狂面具	feng kuang mian ju	699
+疯狂生长	feng kuang sheng zhang	222
+风猫	feng mao	460
+风骑士	feng qi shi	1157
+封水道	feng shui dao	629
+风熊猫	feng xiong mao	461
+封野	feng ye	630
+风杖	feng zhang	1100
+否定权杖	fou ding quan zhang	1222
+复仇	fu chou	670
+复仇电魂	fu chou dian hun	947
+腐臭蜂群	fu chou feng qun	1594
+复仇天神	fu chou tian shen	1147
+复仇之魂	fu chou zhi hun	1786
+复活	fu huo	1740
+复活盾	fu huo dun	772
+复活卷轴	fu huo juan zhou	1283
+复活十字架	fu huo shi zi jia	1275
+复活死尸	fu huo si shi	1580
+腐肉堆积	fu rou dui ji	934
+蝮蛇突袭	fu she tu xi	8
+腐尸甲虫	fu shi jia chong	1771
+腐蚀喷吐	fu shi pen tu	1606
+腐蚀外表	fu shi wai biao	10
+腐蚀之球	fu shi zhi qiu	1235
+斧王	fu wang	931
+复制	fu zhi	287
+符咒	fu zhou	1548
+斧子	fu zi	440
+感染	gan ran	2
+刚背	gang bei	473
+钢背	gang bei	799
+刚背兽	gang bei shou	759
+钢背兽	gang bei shou	1062
+刚背猪	gang bei zhu	776
+刚毛后背	gang mao hou bei	1061
+岗哨神符	gang shao shen fu	1261
+岗哨守卫	gang shao shou wei	1674
+刚毅不屈	gang yi bu qu	123
+高射炮	gao she pao	1706
+高维修费用	gao wei xiu fei yong	1123
+哥布林	ge bu lin	989
+哥布林工程师	ge bu lin gong cheng shi	990
+跟上	gen shang	247
+跟他	gen ta	248
+攻城	gong cheng	1217
+攻城攻击	gong cheng gong ji	332
+攻城傀儡	gong cheng kui lei	1396
+工程学升级	gong cheng xue sheng ji	1533
+攻击	gong ji	354
+攻击速度	gong ji su du	356
+攻击之爪	gong ji zhi zhao	742
+弓箭手	gong jian shou	1146
+攻略秘籍	gong lue mi ji	855
+共享鸡鸡	gong xiang ji ji	650
+共享小鸡	gong xiang xiao ji	649
+沟壑	gou he	263
+狗头	gou tou	437
+狗头人	gou tou ren	1405
+狗头人首领	gou tou ren shou ling	1403
+狗头人占卜者	gou tou ren zhan bu zhe	1402
+钩子	gou zi	443
+古尔丹	gu er dan	1511
+骨法	gu fa	645
+骨弓	gu gong	784
+雇佣兵营地	gu yong bing ying di	1202
+古之忍耐姜歌	gu zhi ren nai jiang ge	1252
+骨质增强术	gu zhi zeng qiang shu	1577
+挂件	gua jian	572
+光法	guang fa	994
+光明	guang ming	865
+光明游侠	guang ming you xia	1083
+光守	guang shou	782
+光侠箭雨	guang xia jian yu	834
+光之箭	guang zhi jian	1065
+光之酒馆	guang zhi jiu guan	419
+光之守卫	guang zhi shou wei	995
+贵族圆环	gui zu yuan huan	1489
+国宝	guo bao	867
+国王祭坛	guo wang ji tan	1177
+海蛇	hai she	843
+海蛇娜迦	hai she na jia	844
+海妖	hai yao	915
+寒冰碎片	han bing sui pian	1287
+撼地神牛	han di shen niu	1073
+浩别	hao bie	903
+浩方	hao fang	902
+嚎叫	hao jiao	235
+豪猪	hao zhu	1751
+豪猪猎手	hao zhu lie shou	1429
+河道男	he dao nan	780
+河道女	he dao nv	779
+合二为一	he er wei yi	234
+合个心	he ge xin	787
+黑暗	hei an	864
+黑暗巨魔	hei an ju mo	1479
+黑暗时间	hei an shi jian	39
+黑暗巫师	hei an wu shi	1392
+黑暗贤者	hei an xian zhe	601
+黑暗仪式	hei an yi shi	1596
+黑暗游侠	hei an you xia	1754
+黑暗之箭	hei an zhi jian	1551
+黑暗之奴	hei an zhi nu	1106
+黑暗之球	hei an zhi qiu	1234
+黑店	hei dian	890
+黑洞	hei dong	216
+黑弓	hei gong	661
+黑皇	hei huang	663
+黑皇杖	hei huang zhang	785
+黑魔高级牧师	hei mo gao ji mu shi	1474
+黑魔狂战士	hei mo kuang zhan shi	1478
+黑魔猎手	hei mo lie shou	1477
+黑魔首领	hei mo shou ling	1476
+黑魔影子牧师	hei mo ying zi mu shi	1475
+黑鸟	hei niao	977
+黑耀	hei yao	438
+黑曜毁灭者	hei yao hui mie zhe	978
+红龙	hong long	108
+红龙之卵	hong long zhi luan	1292
+轰他	hong ta	196
+红熊猫	hong xiong mao	863
+红杖	hong zhang	685
+吼啊	hou a	316
+后背	hou bei	129
+吼叫	hou jiao	1625
+猴王杖	hou wang zhang	549
+吼一下	hou yi xia	317
+吼一下子	hou yi xia zi	318
+猴子	hou zi	624
+蝴蝶	hu die	669
+护盾神符	hu dun shen fu	1263
+虎妹	hu mei	869
+虎妞	hu niu	868
+护身符	hu shen fu	1490
+弧形闪电	hu xing shan dian	312
+花岗岩傀儡	hua gang yan kui lei	1399
+化学狂暴	hua xue kuang bao	1525
+怀特之腿	huai te zhi tui	808
+幻刺	huan ci	921
+换过来	huan guo lai	313
+幻化	huan hua	175
+幻化之锋	huan hua zhi feng	176
+幻火	huan huo	208
+换人	huan ren	409
+换属性	huan shu xing	292
+换他啊	huan ta a	315
+换位女	huan wei nv	778
+幻象	huan xiang	270
+幻象法球	huan xiang fa qiu	53
+换血	huan xie	969
+欢欣	huan xin	519
+欢欣刀	huan xin dao	518
+欢欣之刃	huan xin zhi ren	744
+幻影	huan ying	483
+幻影长矛手	huan ying chang mao shou	986
+幻影刺客	huan ying ci ke	1075
+幻影斧	huan ying fu	692
+幻影神符	huan ying shen fu	482
+蝗虫群	huang chong qun	1589
+黄点	huang dian	323
+黄昏酒馆	huang hun jiu guan	413
+回城	hui cheng	492
+回城卷	hui cheng juan	491
+回城卷轴	hui cheng juan zhou	1484
+回到过去	hui dao guo qu	932
+回二	hui er	501
+回防	hui fang	789
+回复	hui fu	487
+回复戒指	hui fu jie zhi	755
+回复卷轴	hui fu juan zhou	1295
+恢复卷轴	hui fu juan zhou	1307
+回复神符	hui fu shen fu	1266
+回复头巾	hui fu tou jin	715
+恢复药水	hui fu yao shui	1298
+辉煌	hui huang	282
+辉煌光环	hui huang guang huan	1738
+回家	hui jia	399
+毁灭守卫	hui mie shou wei	1749
+毁灭之角	hui mie zhi jiao	1240
+毁灭之球	hui mie zhi qiu	1559
+毁灭蜘蛛流	hui mie zhi zhu liu	1317
+回去	hui qu	398
+回收	hui shou	1588
+回四	hui si	500
+回五	hui wu	499
+辉耀	hui yao	788
+回音击	hui yin ji	1072
+混沌	hun dun	446
+混沌骑士	hun dun qi shi	961
+混乱	hun luan	1216
+混乱攻击	hun luan gong ji	334
+混乱之治	hun luan zhi zhi	1124
+魂守	hun shou	800
+魂手	hun shou	449
+混线	hun xian	613
+火箭	huo jian	19
+活力之球	huo li zhi qiu	722
+祸乱之源	huo luan zhi yuan	757
+火魔	huo mo	908
+火女	huo nv	1064
+火炮	huo pao	1214
+火枪	huo qiang	984
+火枪流	huo qiang liu	1338
+火枪手	huo qiang shou	1188
+火山	huo shan	1527
+活体护甲	huo ti hu jia	224
+火土风暴	huo tu feng bao	1544
+火熊猫	huo xiong mao	128
+活血术	huo xue shu	65
+火焰爆轰	huo yan bao hong	198
+火焰弓箭手	huo yan gong jian shou	1415
+火焰呼吸	huo yan hu xi	1547
+火焰领主	huo yan ling zhu	1746
+火焰披风	huo yan pi feng	1249
+火焰气息	huo yan qi xi	116
+火焰雨	huo yan yu	1539
+火焰之球	huo yan zhi qiu	1233
+吉安娜	ji an na	1518
+几八脸	ji ba lian	451
+鸡巴脸	ji ba lian	777
+疾病云雾	ji bing yun wu	1566
+系带	ji dai	574
+基尔加丹	ji er jia dan	1515
+疾风步	ji feng bu	1699
+激光	ji guang	189
+极寒领域	ji han ling yu	1035
+集合	ji he	382
+激怒	ji nu	199
+祭品	ji pin	536
+机器人	ji qi ren	866
+机器人的进军	ji qi ren de jin jun	186
+机器人进军	ji qi ren jin jun	1052
+极限	ji xian	489
+极限法球	ji xian fa qiu	752
+极限速度	ji xian su du	1066
+机械地精	ji xie de jing	1532
+甲虫	jia chong	874
+加菲盐	jia fei yan	646
+加号	jia hao	322
+加甲	jia jia	223
+加力	jia li	122
+假面	jia mian	980
+加敏	jia min	100
+加魔	jia mo	209
+加强伤害	jia qiang shang hai	328
+假身	jia shen	174
+加速	jia su	486
+加速神符	jia su shen fu	485
+加速手套	jia su shou tao	1245
+枷锁	jia suo	137
+假腿	jia tui	711
+假眼	jia yan	615
+加状态	jia zhuang tai	241
+尖刺外壳	jian ci wai ke	1590
+尖叫	jian jiao	22
+健康之石	jian kang zhi shi	1309
+尖毛兽酋长	jian mao shou qiu zhang	1425
+尖毛兽野蛮人	jian mao shou ye man ren	1427
+尖毛兽医生	jian mao shou yi sheng	1426
+尖毛兽侦察兵	jian mao shou zhen cha bing	1428
+坚韧	jian ren	577
+剑刃风暴	jian ren feng bao	1696
+坚韧光环	jian ren guang huan	272
+坚韧球	jian ren qiu	716
+溅射	jian she	1213
+剑圣	jian sheng	1811
+减速	jian su	1718
+减速光环	jian su guang huan	94
+减速效果无视魔法免疫	jian su xiao guo wu shi mo fa mian yi	7
+剑心补丁	jian xin bu ding	1118
+箭雨	jian yu	833
+绞肉车	jiao rou che	1766
+绞肉机	jiao rou ji	1112
+焦土	jiao tu	32
+角鹰	jiao ying	1783
+角鹰兽	jiao ying shou	1139
+角鹰兽骑士	jiao ying shou qi shi	1138
+结界	jie jie	825
+戒指	jie zhi	509
+浸毒标枪	jin du biao qiang	1657
+金箍棒	jin gu bang	598
+禁魔	jin mo	1
+静电场	jing dian chang	305
+净化	jing hua	1679
+净化刀	jing hua dao	568
+净化权杖	jing hua quan zhang	802
+净化药水	jing hua yao shui	1305
+荆棘光环	jing ji guang huan	1646
+精灵	jing ling	427
+精灵老农	jing ling lao nong	430
+精灵龙	jing ling long	1782
+精灵皮靴	jing ling pi xue	746
+精灵之火	jing ling zhi huo	1614
+静默诅咒	jing mo zu zhou	1057
+精气之球	jing qi zhi qiu	723
+惊吓	jing xia	1540
+镜像	jing xiang	1698
+经验槽	jing yan cao	1499
+经验书	jing yan shu	677
+经验之书	jing yan zhi shu	1257
+纠缠根须	jiu chan gen xu	1649
+酒馆	jiu guan	1203
+剧毒	ju du	447
+剧毒术士	ju du shu shi	964
+飓风	ju feng	1612
+狙击	ju ji	146
+巨狼	ju lang	1448
+巨力挥击	ju li hui ji	1031
+巨力挥舞	ju li hui wu	273
+巨魔	ju mo	1001
+巨魔蝙蝠骑士	ju mo bian fu qi shi	1155
+巨魔狂暴战士	ju mo kuang bao zhan shi	1164
+巨魔猎头者	ju mo lie tou zhe	1165
+巨魔巫医	ju mo wu yi	1162
+巨魔再生	ju mo zai sheng	1682
+巨魔战将	ju mo zhan jiang	1002
+巨人力量腰带	ju ren li liang yao dai	747
+巨型蜘蛛	ju xing zhi zhu	1452
+巨熊	ju xiong	238
+巨熊形态	ju xiong xing tai	239
+角色剧情	jue se ju qing	859
+卡德医疗宝石	ka de yi liao bao shi	1227
+卡尔	ka er	794
+卡尔的复仇	ka er de fu chou	793
+卡尔萨斯	ka er sa si	1516
+卡嘉长萧	ka jia chang xiao	1241
+卡利姆多	ka li mu duo	1521
+开不败	kai bu bai	367
+开盾	kai dun	42
+开攻速	kai gong su	71
+抗体药水	kang ti yao shui	1281
+抗性皮肤	kang xing pi fu	1664
+科多兽	ke duo shou	1158
+科勒恩的逃脱匕首	ke le en de tao tuo bi shou	1242
+恐怖	kong bu	319
+恐怖嚎叫	kong bu hao jiao	1538
+恐怖猛犸	kong bu meng ma	1358
+恐怖之狼	kong bu zhi lang	1447
+恐惧	kong ju	907
+恐惧魔王	kong ju mo wang	1775
+恐惧之狼	kong ju zhi lang	1170
+空明杖	kong ming zhang	709
+控魔	kong mo	1711
+空瓶	kong ping	719
+控线	kong xian	652
+空中枷锁	kong zhong jia suo	1700
+口袋工厂	kou dai gong chang	1535
+苦工	ku gong	1807
+骷髅	ku lou	457
+骷髅弓	ku lou gong	452
+骷髅海	ku lou hai	1321
+骷髅射手	ku lou she shou	949
+骷髅王	ku lou wang	952
+骷髅战士	ku lou zhan shi	1093
+骷髅掌控	ku lou zhang kong	1576
+枯萎精髓	ku wei jing sui	1564
+狂暴	kuang bao	1681
+狂暴洗劫者	kuang bao xi jie zhe	1381
+狂暴野兽	kuang bao ye shou	1383
+狂猛	kuang meng	242
+狂热	kuang re	12
+狂热光环	kuang re guang huan	140
+狂性枭兽	kuang xing xiao shou	1430
+狂战	kuang zhan	559
+狂战斧	kuang zhan fu	694
+狂战士之怒	kuang zhan shi zhi nu	145
+狂战士之血	kuang zhan shi zhi xue	63
+奎尔萨拉斯之靴	kui er sa la si zhi xue	1250
+奎尔瑟兰的密室	kui er se lan de mi shi	425
+傀儡战士	kui lei zhan shi	1397
+捆人	kun ren	184
+捆他	kun ta	183
+捆住	kun zhu	136
+阔剑	kuo jian	741
+拉怪	la guai	386
+拉野	la ye	632
+来一记	lai yi ji	389
+蓝标	lan biao	321
+蓝龙	lan long	623
+蓝猫	lan mao	462
+蓝胖	lan pang	991
+蓝胖子	lan pang zi	625
+蓝熊猫	lan xiong mao	862
+蓝药	lan yao	494
+蓝杖	lan zhang	673
+狼骑	lang qi	1802
+狼骑士	lang qi shi	1159
+狼人	lang ren	940
+老虎	lao hu	914
+老九	lao jiu	455
+老鹿	lao lu	870
+老牛	lao niu	1071
+老树	lao shu	996
+老树精	lao shu jing	468
+了望塔	le wang ta	1798
+雷锤	lei chui	540
+雷电风暴	lei dian feng bao	829
+雷电牵引	lei dian qian yin	68
+雷击	lei ji	309
+雷神	lei shen	541
+雷神之锤	lei shen zhi chui	589
+雷神之怒	lei shen zhi nu	1046
+雷霆	lei ting	823
+雷霆烈焰	lei ting lie yan	824
+雷霆蜥蜴	lei ting xi yi	1463
+雷霆一击	lei ting yi ji	1734
+力量	li liang	351
+力量手套	li liang shou tao	529
+力量型	li liang xing	348
+力量腰带	li liang yao dai	1251
+黎明酒馆	li ming jiu guan	417
+利爪德鲁伊	li zhua de lu yi	1142
+利爪之痕	li zhua zhi hen	1620
+连环闪电	lian huan shan dian	44
+连环霜冻	lian huan shuang dong	945
+连击	lian ji	202
+炼金	lian jin	1523
+炼金术士	lian jin shu shi	1082
+连拍	lian pai	201
+两级反转	liang ji fan zhuan	941
+两栖苦难者	liang qi ku nan zhe	1380
+两栖人猎手	liang qi ren lie shou	1460
+两栖食肉者	liang qi shi rou zhe	1379
+两栖夜行者	liang qi ye xing zhe	1459
+两栖追随者	liang qi zhui sui zhe	1433
+两栖追踪者	liang qi zhui zong zhe	1461
+裂魂人	lie hun ren	920
+猎手大厅	lie shou da ting	1780
+猎头流	lie tou liu	1324
+猎头者	lie tou zhe	1090
+烈焰	lie yan	822
+烈焰风暴	lie yan feng bao	1731
+林肯	lin ken	550
+林肯法球	lin ken fa qiu	687
+林肯球	lin ken qiu	551
+灵动之翼	ling dong zhi yi	52
+灵魂	ling hun	448
+灵魂归宿	ling hun gui su	1796
+灵魂燃烧	ling hun ran shao	1530
+灵魂守卫	ling hun shou wei	970
+灵魂锁链	ling hun suo lian	1668
+灵魂行者	ling hun xing zhe	1161
+灵魂之触	ling hun zhi chu	1562
+灵魂之矛	ling hun zhi mao	180
+灵魂之猪	ling hun zhi zhu	1422
+灵能陷阱	ling neng xian jing	54
+灵能之刃	ling neng zhi ren	55
+灵巧头巾	ling qiao tou jin	1243
+灵守	ling shou	968
+领主	ling zhu	439
+流浪	liu lang	476
+流浪法师斗篷	liu lang fa shi dou peng	734
+流浪剑客	liu lang jian ke	1033
+流氓	liu mang	1420
+流氓巫师	liu mang wu shi	1394
+流星雨	liu xing yu	1640
+龙巢	long chao	1201
+龙卷风	long juan feng	1553
+龙卵盗贼	long luan dao zei	1374
+龙卵领主	long luan ling zhu	1370
+龙卵学徒	long luan xue tu	1373
+龙卵战士	long luan zhan shi	1372
+龙破斩	long po zhan	1067
+龙骑	long qi	1080
+龙骑士	long qi shi	998
+龙心	long xin	668
+龙鹰	long ying	1820
+龙之男巫	long zhi nan wu	1371
+龙族血统	long zu xue tong	112
+路径	lu jing	81
+录像	lu xiang	853
+掠夺	lue duo	1684
+掠夺者	lue duo zhe	1160
+洛丹伦	luo dan lun	1522
+落日酒馆	luo ri jiu guan	412
+洛萨	luo sa	770
+洛萨之锋	luo sa zhi feng	690
+绿蜉蝣	lv fu you	1466
+绿龙	lv long	1465
+绿皮	lv pi	1076
+绿幼龙	lv you long	1467
+麻痹陷阱	ma bi xian jing	163
+玛格娜托破坏者	ma ge na tuo po huai zhe	1349
+玛格娜托撕裂者	ma ge na tuo si lie zhe	1350
+玛格娜托战士	ma ge na tuo zhan shi	1351
+妈奶崩	ma nai beng	28
+马蹄践踏	ma ti jian ta	126
+玛维	ma wei	1508
+蚂蚁	ma yi	442
+埋布地雷	mai bu di lei	165
+迈达斯之手	mai da si zhi shou	710
+埋骨地	mai gu di	1756
+买活	mai huo	885
+麦斯琪女士	mai si qi nv shi	1507
+买眼	mai yan	1102
+慢性毒药	man xing du yao	1628
+猫头鹰	mao tou ying	1788
+魅惑	mei huo	299
+魅惑魔女	mei huo mo nv	1043
+梅肯	mei ken	786
+梅肯斯姆	mei ken si mu	697
+没有分	mei you fen	366
+梦境缠绕	meng jing chan rao	50
+猛犸	meng ma	1360
+猛禽德鲁伊	meng qin de lu yi	1137
+猛禽之痕	meng qin zhi hen	1609
+秘法	mi fa	764
+秘法指环	mi fa zhi huan	590
+谜团	mi tuan	1078
+秘银锤	mi yin chui	510
+秒退	miao tui	369
+秒退秒射	miao tui miao she	370
+瞄准	miao zhun	148
+民兵	min bing	1190
+敏刀	min dao	517
+敏件	min jian	573
+敏捷	min jie	350
+敏捷便鞋	min jie bian xie	750
+敏捷型	min jie xing	347
+敏捷之书	min jie zhi shu	1258
+敏鞋	min xie	523
+敏靴	min xue	520
+冥界亚龙	ming jie ya long	973
+命令光环	ming ling guang huan	320
+命运房间	ming yun fang jian	832
+莫尔迪基安的臂章	mo er di ji an de bi zhang	657
+魔法	mo fa	1215
+魔法垂饰	mo fa chui shi	1228
+魔法盗取权杖	mo fa dao qu quan zhang	1276
+魔法盾	mo fa dun	1554
+魔法反馈	mo fa fan kui	1709
+魔法攻击	mo fa gong ji	337
+魔法护盾	mo fa hu dun	43
+魔法护盾护身符	mo fa hu dun hu shen fu	1253
+魔法箭	mo fa jian	1049
+魔法结界	mo fa jie jie	826
+魔法卷轴	mo fa juan zhou	1301
+魔法抗性	mo fa kang xing	357
+魔法免疫	mo fa mian yi	1710
+魔法破坏者	mo fa po huai zhe	1186
+魔法闪耀	mo fa shan yao	1607
+魔法伤害	mo fa shang hai	331
+魔法吮吸	mo fa shun xi	1729
+魔法吸收	mo fa xi shou	1558
+魔法药水	mo fa yao shui	1304
+魔法之球	mo fa zhi qiu	812
+魔法之泉	mo fa zhi quan	1199
+魔法之石	mo fa zhi shi	1302
+魔鬼缠身	mo gui chan shen	1536
+魔抗	mo kang	358
+魔力法杖	mo li fa zhang	743
+魔龙之心	mo long zhi xin	597
+魔免	mo mian	97
+魔瓶	mo ping	493
+魔器传送门	mo qi chuan song men	423
+魔球	mo qiu	497
+末日	mo ri	456
+末日使者	mo ri shi zhe	976
+末日守卫	mo ri shou wei	975
+魔兽澄海	mo shou cheng hai	1085
+魔兽世界副本	mo shou shi jie fu ben	792
+魔兽战队	mo shou zhan dui	850
+魔王	mo wang	458
+魔血球	mo xue qiu	495
+暮色酒馆	mu se jiu guan	414
+牧师	mu shi	1187
+娜迦	na jia	1755
+娜迦海妖	na jia hai yao	1030
+娜迦女海巫	na jia nv hai wu	1108
+娜迦女海妖	na jia nv hai yao	878
+耐奥祖	nai ao zu	1503
+耐久光环	nai jiu guang huan	1689
+奶酪	nai lao	488
+闹鬼金矿	nao gui jin kuang	1762
+内裤面罩男	nei ku mian zhao nan	979
+能量垂饰	neng liang chui shi	1229
+能量之球	neng liang zhi qiu	724
+能量之书	neng liang zhi shu	1255
+你捡	ni jian	372
+泥潭傀儡	ni tan kui lei	1401
+粘稠鼻液	nian chou bi ye	133
+鸟德	niao de	1136
+鸟骑	niao qi	642
+宁静	ning jing	1644
+宁静之雨	ning jing zhi yu	1645
+牛大力	niu da li	899
+牛头	niu tou	876
+牛头人	niu tou ren	1800
+牛头人酋长	niu tou ren qiu zhang	1168
+牛头人图腾	niu tou ren tu teng	1150
+牛小力	niu xiao li	898
+农场	nong chang	1817
+农民	nong min	1191
+弩炮	nu pao	1098
+怒意狂击	nu yi kuang ji	200
+女祭司	nv ji si	913
+女猎流	nv lie liu	1332
+女猎手	nv lie shou	1145
+女王	nv wang	454
+女巫	nv wu	1822
+女妖	nv yao	1095
+迫击炮小队	pai ji pao xiao dui	1821
+拍拍	pai pai	467
+拍拍熊	pai pai xiong	684
+盼盼	pan pan	842
+胖子	pang zi	1765
+跑什么	pao shen me	376
+炮塔	pao ta	1814
+咆哮	pao xiao	85
+喷冰	pen bing	83
+喷毒	pen du	9
+喷火	pen huo	115
+屁股猪	pi gu zhu	472
+劈死他	pi si ta	306
+劈他	pi ta	307
+皮靴	pi xue	521
+飘逸	piao yi	390
+撇锤	pie chui	276
+撇锤子	pie chui zi	277
+撇斧	pie fu	90
+撇斧子	pie fu zi	91
+瓶装蓝色药水	ping zhuang lan se yao shui	721
+破法	po fa	470
+破法点灯	po fa dian deng	232
+破法者	po fa zhe	1185
+普通	pu tong	1218
+普通攻击	pu tong gong ji	338
+普通伤害	pu tong shang hai	330
+骑乘角鹰兽	qi cheng jiao ying shou	1635
+奇美拉	qi mei la	1781
+奇美拉栖木	qi mei la qi mu	424
+欺骗者	qi pian zhe	1413
+崎岖外表	qi qu wai biao	169
+骑士	qi shi	1823
+骑士加狮鹫	qi shi jia shi jiu	1333
+强盗	qiang dao	1421
+强盗领主	qiang dao ling zhu	1416
+强化图腾	qiang hua tu teng	259
+强化战鼓	qiang hua zhan gu	1658
+强击光环	qiang ji guang huan	1641
+抢人头	qiang ren tou	612
+强杀	qiang sha	888
+强袭	qiang xi	535
+强袭装甲	qiang xi zhuang jia	585
+强制者	qiang zhi zhe	1419
+敲地	qiao di	205
+敲地板	qiao di ban	203
+清兵	qing bing	675
+清晨酒馆	qing chen jiu guan	421
+青蜉蝣	qing fu you	1445
+轻甲	qing jia	1211
+青龙	qing long	1444
+青幼龙	qing you long	1446
+驱魔神符	qu mo shen fu	1272
+驱散	qu san	1722
+驱散模范	qu san mo fan	1627
+驱逐	qu zhu	98
+劝化	quan hua	155
+全领域静默	quan ling yu jing mo	1054
+全能	quan neng	1017
+全能骑士	quan neng qi shi	1019
+全屏沉默	quan ping chen mo	229
+全屏雷	quan ping lei	304
+拳套	quan tao	528
+全图	quan tu	659
+全知浮雕	quan zhi fu diao	1273
+群疗	qun liao	153
+群魔缠身	qun mo chan shen	817
+群蛇守卫	qun she shou wei	135
+群体	qun ti	827
+群体传送	qun ti chuan song	1737
+群星坠落	qun xing zhui luo	1007
+燃灰	ran hui	1528
+燃烧	ran shao	29
+燃烧弹	ran shao dan	1655
+燃烧汽油	ran shao qi you	1680
+绕树林	rao shu lin	387
+热导飞弹	re dao fei dan	188
+刃甲	ren jia	703
+人类	ren lei	881
+人类联盟	ren lei lian meng	1196
+人类联盟区	ren lei lian meng qu	849
+人马	ren ma	999
+人品	ren pin	617
+人品啊	ren pin a	191
+人品真好	ren pin zhen hao	190
+忍术	ren shu	119
+人仗熊势	ren zhang xiong shi	243
+人族	ren zu	1826
+人族老农	ren zu lao nong	433
+人族万金油	ren zu wan jin you	1119
+人族一波流	ren zu yi bo liu	1120
+扔锤	reng chui	278
+扔人	reng ren	170
+日出酒馆	ri chu jiu guan	420
+肉山	rou shan	662
+撒旦	sa dan	546
+撒旦之邪力	sa dan zhi xie li	596
+萨尔	sa er	1520
+萨格拉斯	sa ge la si	1512
+萨格拉斯之眼	sa ge la si zhi yan	1510
+萨满	sa man	1804
+萨满祭司	sa man ji si	1163
+塞拉摩	sai la mo	1517
+赛特斯	sai te si	1458
+赛特斯之地狱使者	sai te si zhi di yu shi zhe	1456
+赛特斯之黑暗舞者	sai te si zhi hei an wu zhe	1454
+赛特斯之灵魂盗贼	sai te si zhi ling hun dao zei	1457
+赛特斯之魔法师	sai te si zhi mo fa shi	1455
+散弹	san dan	150
+散华	san hua	705
+散华夜叉	san hua ye cha	696
+散失	san shi	567
+散失之刃	san shi zhi ren	701
+散夜	san ye	676
+散夜对剑	san ye dui jian	562
+扫射	sao she	680
+森林巨魔	sen lin ju mo	1411
+森林之眼	sen lin zhi yan	226
+沙王	sha wang	1074
+山崩	shan beng	172
+闪避	shan bi	1651
+闪避护符	shan bi hu fu	1220
+闪电	shan dian	340
+闪电盾牌	shan dian dun pai	1678
+闪电风暴	shan dian feng bao	946
+闪电箭阵	shan dian jian zhen	819
+闪电链	shan dian lian	1694
+闪电咆哮	shan dian pao xiao	828
+闪电权杖	shan dian quan zhang	1278
+闪电蜥蜴	shan dian xi yi	1464
+闪电幽魂	shan dian you hun	667
+闪电之球	shan dian zhi qiu	1231
+闪光弹	shan guang dan	1705
+山岭	shan ling	1013
+山岭巨人	shan ling ju ren	1140
+山丘	shan qiu	1044
+山丘之王	shan qiu zhi wang	1194
+闪烁	shan shuo	1638
+闪烁突袭	shan shuo tu xi	251
+山王	shan wang	627
+上单	shang dan	404
+上帝之手	shang di zhi shou	154
+伤害加深	shang hai jia shen	24
+赏金	shang jin	1079
+赏金猎人	shang jin lie ren	988
+上路单	shang lu dan	402
+上路有符	shang lu you fu	393
+上有符	shang you fu	395
+哨兵	shao bing	1631
+烧刀	shao dao	548
+烧魔	shao mo	106
+哨塔	shao ta	1176
+蛇棒	she bang	1808
+蛇棒子	she bang zi	134
+蛇发魔女	she fa mo nv	955
+蛇发女妖	she fa nv yao	758
+射击术	she ji shu	1632
+射箭	she jian	620
+蛇女	she nv	953
+射手天赋	she shou tian fu	101
+神出鬼没	shen chu gui mo	178
+神符	shen fu	658
+神符上路	shen fu shang lu	638
+神符下路	shen fu xia lu	637
+神灵	shen ling	459
+神灵武士	shen ling wu shi	604
+神龙摆尾	shen long bai wei	114
+神秘藏宝室	shen mi cang bao shi	1173
+神秘法杖	shen mi fa zhang	725
+神秘圣地	shen mi sheng di	1816
+神秘之塔	shen mi zhi ta	1174
+神灭斩	shen mie zhan	1068
+神牛	shen niu	1070
+神器	shen qi	1312
+神圣法杖	shen sheng fa zhang	600
+神圣护盾	shen sheng hu dun	1743
+神圣护甲	shen sheng hu jia	830
+神圣劝化	shen sheng quan hua	156
+神圣伤害	shen sheng shang hai	329
+神圣药水	shen sheng yao shui	1274
+神圣之光	shen sheng zhi guang	831
+神堂	shen tang	797
+神王	shen wang	1045
+深渊	shen yuan	1125
+深渊领主	shen yuan ling zhu	1750
+深渊魔王	shen yuan mo wang	1110
+神杖	shen zhang	594
+神之力量	shen zhi li liang	1032
+神装	shen zhuang	763
+神装流	shen zhuang liu	762
+盛殿	sheng dian	579
+圣殿指环	sheng dian zhi huan	713
+圣光	sheng guang	1744
+升级狂战士	sheng ji kuang zhan shi	1683
+圣剑	sheng jian	686
+生命护身符	sheng ming hu shen fu	1491
+生命回复	sheng ming hui fu	1500
+生命手册	sheng ming shou ce	1260
+生命吮吸	sheng ming shun xi	1549
+生命吸取	sheng ming xi qu	1550
+生命药水	sheng ming yao shui	1311
+生命之泉	sheng ming zhi quan	1198
+生命之树	sheng ming zhi shu	1135
+圣骑	sheng qi	1126
+圣骑士	sheng qi shi	1825
+圣堂	sheng tang	464
+圣堂刺客	sheng tang ci ke	605
+盛宴	sheng yan	4
+圣者	sheng zhe	504
+圣者遗物	sheng zhe yi wu	729
+市场	shi chang	1200
+时光蜘蛛	shi guang zhi zhu	441
+时间结界	shi jian jie jie	16
+时间漫游	shi jian man you	18
+时间锁定	shi jian suo ding	17
+时间指示器	shi jian zhi shi qi	1501
+狮鹫笼	shi jiu long	1813
+狮鹫骑士	shi jiu qi shi	1182
+食人魔法师	shi ren mo fa shi	992
+食人魔力量手套	shi ren mo li liang shou tao	751
+食人魔魔法师	shi ren mo mo fa shi	760
+食人魔手套	shi ren mo shou tao	1246
+侍僧	shi seng	1770
+食尸	shi shi	1585
+食尸鬼	shi shi gui	1769
+食尸鬼狂热	shi shi gui kuang re	1584
+食尸鬼王臂章	shi shi gui wang bi zhang	582
+石头人	shi tou ren	811
+尸王	shi wang	796
+石像鬼	shi xiang gui	1768
+石像形态	shi xiang xing tai	1581
+嗜血	shi xue	644
+嗜血牛头流	shi xue niu tou liu	1325
+嗜血术	shi xue shu	1677
+守护天使	shou hu tian shi	1018
+守护指环	shou hu zhi huan	1226
+收集尸体	shou ji shi ti	1568
+兽栏	shou lan	1795
+兽人步兵	shou ren bu bing	1091
+兽人地洞	shou ren di dong	1152
+兽人斧	shou ren fu	525
+守尸	shou shi	835
+守塔	shou ta	609
+手套	shou tao	530
+兽王	shou wang	1752
+守望	shou wang	912
+守望者	shou wang zhe	1787
+手选	shou xuan	411
+受折磨的灵魂	shou zhe mo de ling hun	967
+兽之狂暴	shou zhi kuang bao	86
+手镯	shou zhuo	575
+兽族	shou zu	1812
+兽族步兵	shou zu bu bing	1166
+兽族部落	shou zu bu luo	1172
+兽族老农	shou zu lao nong	432
+树根缠绕	shu gen chan rao	1648
+曙光酒馆	shu guang jiu guan	418
+树精卫士	shu jing wei shi	997
+树林	shu lin	388
+树魔高级牧师	shu mo gao ji mu shi	1406
+树魔狂战士	shu mo kuang zhan shi	1409
+树魔猎手	shu mo lie shou	1410
+树魔首领	shu mo shou ling	1408
+树魔影子牧师	shu mo ying zi mu shi	1407
+树人	shu ren	1790
+术士	shu shi	958
+属性	shu xing	325
+属性点	shu xing dian	324
+属性附加	shu xing fu jia	326
+树眼	shu yan	225
+树妖	shu yao	1784
+树枝	shu zhi	513
+赎罪	shu zui	158
+刷新	shua xin	544
+刷新球	shua xin qiu	593
+刷野	shua ye	631
+双倍	shuang bei	481
+双倍攻击	shuang bei gong ji	479
+双倍攻击神符	shuang bei gong ji shen fu	478
+双倍神符	shuang bei shen fu	480
+双叉	shuang cha	666
+双传	shuang chuan	900
+霜冻	shuang dong	360
+霜冻护甲	shuang dong hu jia	1598
+霜冻新星	shuang dong xin xing	1600
+霜冻之箭	shuang dong zhi jian	104
+霜冻之球	shuang dong zhi qiu	1232
+双刃剑	shuang ren jian	125
+双头	shuang tou	1010
+双头龙	shuang tou long	1097
+霜之新星	shuang zhi xin xing	1599
+双足飞龙	shuang zu fei long	1156
+谁敢和我争这个火炬手我就把他带走	shui gan he wo zheng zhe ge huo ju shou wo jiu ba ta dai zou	66
+水晶	shui jing	558
+水晶阿卡那瑟德	shui jing a ka na se de	1391
+水晶剑	shui jing jian	693
+水晶球	shui jing qiu	1247
+水晶室女	shui jing shi nv	1037
+睡了	shui le	265
+睡眠	shui mian	1593
+水人	shui ren	1038
+睡他们	shui ta men	264
+水元素	shui yuan su	1824
+四保一	si bao yi	371
+斯嘉蒂之眼	si jia di zhi yan	595
+撕裂伤口	si lie shang kou	3
+死灵	si ling	552
+死灵法	si ling fa	444
+死灵法师	si ling fa shi	936
+死灵飞龙	si ling fei long	963
+死灵龙	si ling long	962
+死灵书	si ling shu	688
+死骑	si qi	1777
+死亡	si wang	31
+死亡缠绕	si wang chan rao	1605
+死亡凋零	si wang diao ling	1595
+死亡面具	si wang mian ju	756
+死亡面罩	si wang mian zhao	1237
+死亡骑士	si wang qi shi	1116
+死亡契约	si wang qi yue	1603
+死亡守卫	si wang shou wei	926
+死亡先知	si wang xian zhi	965
+死亡一指	si wang yi zhi	943
+死亡掌控	si wang zhang kong	937
+死亡之书	si wang zhi shu	1293
+速度卷轴	su du juan zhou	1280
+速度神符	su du shen fu	1262
+速度之靴	su du zhi xue	1492
+速推	su tui	635
+酸性喷雾	suan xing pen wu	62
+酸性炸弹	suan xing zha dan	1524
+碎骨锤	sui gu chui	704
+随机	sui ji	410
+碎片攻击	sui pian gong ji	1704
+锁子甲	suo zi jia	737
+塔类图	ta lei tu	858
+探测隐形	tan ce yin xing	1497
+弹钢琴	tan gang qin	255
+套壳子	tao ke zi	70
+逃跑技巧	tao pao ji qiao	810
+淘汰之刃	tao tai zhi ren	930
+套套子	tao tao zi	69
+逃脱匕首	tao tuo bi shou	754
+替换	ti huan	286
+提升能力型	ti sheng neng li xing	1314
+填充型	tian chong xing	1316
+天地鬼	tian di gui	1129
+天地双鬼	tian di shuang gui	1322
+天黑了	tian hei le	38
+天神	tian shen	821
+天神下凡	tian shen xia fan	1732
+天灾骨钟	tian zai gu zhong	1224
+天灾军团的末日	tian zai jun tuan de mo ri	791
+跳啊	tiao a	249
+跳刀	tiao dao	765
+跳他	tiao ta	250
+跳跃	tiao yue	76
+挑战	tiao zhan	532
+挑战头巾	tiao zhan tou jin	586
+铁匠铺	tie jiang pu	1818
+铁树枝干	tie shu zhi gan	748
+铁意头盔	tie yi tou kui	735
+痛苦	tong ku	453
+痛苦尖叫	tong ku jian jiao	23
+痛苦女王	tong ku nv wang	982
+痛苦之源	tong ku zhi yuan	938
+通灵塔	tong ling ta	1760
+统治权杖	tong zhi quan zhang	806
+头巾	tou jin	578
+投矛	tou mao	179
+透明鹿	tou ming lu	966
+偷泉水	tou quan shui	610
+投刃车	tou ren che	1143
+透视	tou shi	1695
+投石车	tou shi che	1805
+偷塔	tou ta	892
+投掷	tou zhi	171
+投掷飞镖	tou zhi fei biao	121
+土匪	tu fei	1418
+屠夫	tu fu	935
+屠夫去抓人	tu fu qu zhua ren	883
+秃鹫	tu jiu	537
+图斯卡尔格斗者	tu si ka er ge dou zhe	1348
+图斯卡尔猎人	tu si ka er lie ren	1344
+图斯卡尔男巫	tu si ka er nan wu	1343
+图斯卡尔枪兵	tu si ka er qiang bing	1347
+图斯卡尔酋长	tu si ka er qiu zhang	1342
+图斯卡尔巫师	tu si ka er wu shi	1346
+图斯卡尔战士	tu si ka er zhan shi	1345
+土熊猫	tu xiong mao	127
+屠宰场	tu zai chang	1758
+推啊	tui a	301
+退化	tui hua	95
+退化光环	tui hua guang huan	96
+推进	tui jin	303
+推塔	tui ta	790
+吞噬	tun shi	1660
+吞噬魔法	tun shi mo fa	1560
+挖掘尸体	wa jue shi ti	1565
+袜子	wa zi	522
+外壳	wai ke	168
+万火焚身	wan huo fen shen	79
+玩家	wan jia	804
+万金油	wan jin you	1336
+晚上了	wan shang le	37
+王冠	wang guan	1248
+亡灵	wang ling	880
+亡灵的入侵	wang ling de ru qin	805
+亡灵法师	wang ling fa shi	1767
+亡灵巫师	wang ling wu shi	1096
+网住	wang zhu	269
+微恢复药水	wei hui fu yao shui	1300
+维拉德卖的赠品	wei la de mai de zeng pin	654
+猥琐	wei suo	614
+猥琐流	wei suo liu	1326
+唯一装备	wei yi zhuang bei	341
+我单	wo dan	647
+卧底	wo di	889
+无敌	wu di	1742
+无敌黑暗猎人	wu di hei an lie ren	1341
+无敌黑暗舞者	wu di hei an wu zhe	1339
+无敌狂暴者	wu di kuang bao zhe	1340
+无敌药水	wu di yao shui	1480
+无敌斩	wu di zhan	1026
+巫毒	wu du	1685
+巫毒商店	wu du shang dian	1149
+无光之盾	wu guang zhi dun	927
+无甲	wu jia	1212
+无名恐怖者	wu ming kong bu zhe	1368
+无名骗士	wu ming pian shi	1369
+无名死灵	wu ming si ling	1367
+无虐不成长	wu nue bu cheng zhang	893
+武器商人比泽	wu qi shang ren bi ze	639
+巫师变节者	wu shi bian jie zhe	1393
+无视地形	wu shi di xing	15
+无视魔法免疫	wu shi mo fa mian yi	14
+巫师学徒	wu shi xue tu	1395
+巫术之杖	wu shu zhi zhang	1279
+无维修费用	wu wei xiu fei yong	1121
+乌鸦	wu ya	588
+巫妖	wu yao	1776
+巫妖王	wu yao wang	1505
+午夜凋零	wu ye diao ling	218
+午夜酒馆	wu ye jiu guan	415
+巫医	wu yi	1803
+无用挂件	wu yong gua jian	707
+无缘无尽	wu yuan wu jin	897
+西尔瓦娜斯	xi er wa na si	1506
+洗礼	xi li	99
+希梅斯特的掠夺	xi mei si te de lue duo	730
+吸人	xi ren	214
+牺牲	xi sheng	1587
+牺牲深渊	xi sheng shen yuan	1757
+希娃的守护	xi wa de shou hu	656
+西瓦的守护	xi wa de shou hu	583
+吸血	xi xue	35
+吸血光环	xi xue guang huan	1592
+吸血鬼的祭品	xi xue gui de ji pin	587
+吸血面具	xi xue mian ju	814
+吸血药水	xi xue yao shui	1282
+蜥蜴怪物	xi yi guai wu	1423
+下单	xia dan	403
+下凡	xia fan	820
+下路单	xia lu dan	400
+下路有符	xia lu you fu	392
+下有符	xia you fu	394
+先锋	xian feng	542
+先锋盾	xian feng dun	591
+献祭	xian ji	1652
+陷阱	xian jing	162
+陷阱守卫	xian jing shou wei	1673
+仙女	xian nv	463
+仙女龙	xian nv long	603
+先网	xian wang	268
+显影之尘	xian ying zhi chen	1487
+贤者	xian zhe	795
+先知	xian zhi	1810
+相位鞋	xiang wei xie	606
+相位转移	xiang wei zhuan yi	49
+小刀	xiao dao	571
+小德	xiao de	475
+小电	xiao dian	311
+小电锤	xiao dian chui	569
+小盾	xiao dun	508
+小斧	xiao fu	526
+小复活神符	xiao fu huo shen fu	1265
+小狗	xiao gou	450
+效果无视魔法免疫	xiao guo wu shi mo fa mian yi	13
+消耗型	xiao hao xing	1315
+小黑	xiao hei	1144
+小回复卷轴	xiao hui fu juan zhou	1296
+小恢复药水	xiao hui fu yao shui	1299
+小鸡	xiao ji	717
+小净化药水	xiao jing hua yao shui	1306
+小精灵	xiao jing ling	1785
+小酒馆	xiao jiu guan	1204
+小骷髅	xiao ku lou	948
+小路	xiao lu	373
+小鹿	xiao lu	1041
+消魔	xiao mo	1667
+小魔法神符	xiao mo fa shen fu	1268
+小娜迦	xiao na jia	1029
+小炮	xiao pao	983
+小强	xiao qiang	1772
+小枪	xiao qiang	474
+小强蜘蛛流	xiao qiang zhi zhu liu	1319
+小人	xiao ren	219
+枭兽	xiao shou	1432
+小歪	xiao wai	845
+小蜥蜴	xiao xi yi	1424
+小小	xiao xiao	1012
+小小强	xiao xiao qiang	1115
+小熊	xiao xiong	626
+小丫	xiao ya	1024
+小震	xiao zhen	257
+小治疗神符	xiao zhi liao shen fu	1271
+小蜘蛛	xiao zhi zhu	1357
+邪恶光环	xie e guang huan	1602
+邪恶狂热	xie e kuang re	1579
+邪恶镰刀	xie e lian dao	592
+邪恶漫步者	xie e man bu zhe	1382
+邪恶撒旦之力	xie e sa dan zhi li	545
+邪恶执著	xie e zhi zhuo	6
+协同	xie tong	240
+卸下尸体	xie xia shi ti	1567
+鞋子	xie zi	524
+心灵之火	xin ling zhi huo	1721
+新星	xin xing	284
+新月之痕	xin yue zhi hen	51
+星落	xing luo	77
+熊德	xiong de	1141
+熊怪	xiong guai	1473
+熊怪萨满	xiong guai sa man	1471
+熊怪萨满长者	xiong guai sa man zhang zhe	1470
+熊怪首领	xiong guai shou ling	1472
+熊怪乌萨战士	xiong guai wu sa zhan shi	1468
+熊怪追踪者	xiong guai zhui zong zhe	1469
+熊魂	xiong hun	815
+熊灵	xiong ling	1005
+熊鹿	xiong lu	1330
+熊鹿流	xiong lu liu	1130
+熊猫	xiong mao	1753
+熊猫酒仙	xiong mao jiu xian	1109
+熊形态	xiong xing tai	1623
+熊战	xiong zhan	1014
+熊战士	xiong zhan shi	1016
+修补	xiu bu	798
+修补匠	xiu bu jiang	1053
+秀逗	xiu dou	1063
+秀逗魔导士	xiu dou mo dao shi	1069
+秀逗魔导师	xiu dou mo dao shi	761
+虚空	xu kong	1081
+虚空假面	xu kong jia mian	981
+虚无宝石	xu wu bao shi	726
+虚无状态	xu wu zhuang tai	1665
+玄冥盾牌	xuan ming dun pai	714
+玄铁锤	xuan tie chui	738
+漩涡	xuan wo	702
+眩晕	xuan yun	361
+血法	xue fa	877
+血精	xue jing	531
+血精灵	xue jing ling	426
+血精石	xue jing shi	581
+穴居恶魔	xue ju e mo	1094
+血魔	xue mo	929
+血魔法师	xue mo fa shi	1193
+血魔球	xue mo qiu	496
+血球	xue qiu	498
+血浴之母	xue yu zhi mu	1450
+驯兽师	xun shou shi	1107
+亚龙	ya long	972
+压人	ya ren	405
+压线	ya xian	674
+压制	ya zhi	406
+烟幕	yan mu	253
+岩石傀儡	yan shi kui lei	1400
+岩石印记	yan shi yin ji	1289
+羊刀	yang dao	767
+养人	yang ren	891
+羊杖	yang zhang	543
+腰带	yao dai	527
+妖刀	yao dao	665
+遥控炸弹	yao kong zha dan	159
+摇瓶子	yao ping zi	60
+要人	yao ren	660
+要塞	yao sai	1180
+妖术	yao shu	1686
+夜叉	ye cha	706
+夜魔	ye mo	924
+夜幕中的狩猎者	ye mu zhong de shou lie zhe	40
+野兽幽魂	ye shou you hun	1693
+夜晚狩猎者	ye wan shou lie zhe	41
+野性护符	ye xing hu fu	1291
+野性呼唤	ye xing hu huan	89
+野性护身符	ye xing hu shen fu	1285
+野性之斧	ye xing zhi fu	93
+夜之酒馆	ye zhi jiu guan	416
+一波流	yi bo liu	1337
+移动	yi dong	353
+移动速度	yi dong su du	355
+异教徒	yi jiao tu	1412
+伊利丹	yi li dan	1514
+医疗	yi liao	1723
+医疗波	yi liao bo	1687
+医疗剂	yi liao ji	1308
+艺人面罩	yi ren mian zhao	1223
+遗忘法师	yi wang fa shi	960
+移形换位	yi xing huan wei	1048
+隐啊	yin a	227
+隐藏模式	yin cang mo shi	807
+隐藏商店	yin cang shang dian	434
+隐刺	yin ci	1027
+隐刀	yin dao	766
+隐了	yin le	56
+隐匿	yin ni	57
+引燃	yin ran	195
+隐身	yin shen	1716
+隐身神符	yin shen shen fu	484
+隐身术	yin shen shu	1717
+隐身药水	yin shen yao shui	1485
+隐形	yin xing	1498
+隐形刺客	yin xing ci ke	1028
+阴影	yin ying	1092
+阴影之狼	yin ying zhi lang	1169
+影遁	ying dun	1643
+硬弓	ying gong	1633
+硬化皮肤	ying hua pi fu	1617
+鹰角弓	ying jiao gong	731
+影魔	ying mo	959
+鹰身女妖风暴巫师	ying shen nv yao feng bao wu shi	1435
+鹰身女妖流氓	ying shen nv yao liu mang	1436
+鹰身女妖女皇	ying shen nv yao nv huang	1434
+鹰身女妖巫婆	ying shen nv yao wu po	1437
+英雄	ying xiong	333
+英雄攻击	ying xiong gong ji	336
+英雄海	ying xiong hai	836
+影压	ying ya	608
+英勇头盔	ying yong tou kui	1244
+哟哟	yo yo	906
+永恒之树	yong heng zhi shu	1133
+永久型	yong jiu xing	1313
+永久隐身	yong jiu yin shen	245
+勇气勋章	yong qi xun zhang	1236
+诱捕	you bu	1661
+有符	you fu	396
+幽鬼	you gui	1077
+诱惑	you huo	298
+幽灵系带	you ling ji dai	708
+幽灵之狼	you ling zhi lang	1171
+幽冥一击	you ming yi ji	919
+游侠	you xia	873
+有眼	you yan	374
+玉蝴蝶流	yu hu die liu	1329
+育母蜘蛛	yu mu zhi zhu	923
+淤泥怪物	yu ni guai wu	1375
+淤泥投手	yu ni tou shou	1376
+淤泥战士	yu ni zhan shi	1377
+鱼人	yu ren	950
+鱼人守卫	yu ren shou wei	951
+鱼人碎击	yu ren sui ji	25
+预言家	yu yan jia	846
+余震	yu zhen	256
+圆盾	yuan dun	733
+远古神灵	yuan gu shen ling	1666
+远古之树	yuan gu zhi shu	1134
+圆环	yuan huan	512
+原始咆哮	yuan shi pao xiao	1011
+元素分离	yuan su fen li	1023
+元素熊猫	yuan su xiong mao	681
+远行鞋	yuan xing xie	712
+月光	yue guang	618
+月井	yue jing	1779
+月亮女祭祀	yue liang nv ji si	1084
+月女	yue nv	1128
+月骑	yue qi	1003
+月刃	yue ren	1630
+月神箭	yue shen jian	78
+月神之箭	yue shen zhi jian	1008
+月蚀	yue shi	151
+月之暗面	yue zhi an mian	75
+月之女祭司	yue zhi nv ji si	1148
+月之女祭祀	yue zhi nv ji si	1009
+月之骑士	yue zhi qi shi	1004
+月之祝福	yue zhi zhu fu	152
+云雾	yun wu	1701
+晕眩	yun xuan	362
+砸地	za di	206
+砸地板	za di ban	204
+灾祸树人	zai huo shu ren	1384
+再装填	zai zhuang tian	1051
+凿他	zao ta	260
+怎么不换	zen me bu huan	314
+憎恶	zeng wu	1114
+憎恶毁灭流	zeng wu hui mie liu	1318
+炸弹	zha dan	1104
+炸弹人	zha dan ren	1747
+战斗嚎叫	zhan dou hao jiao	236
+战歌之鼓	zhan ge zhi gu	1219
+战鼓	zhan gu	1659
+战棍	zhan gun	1618
+占据	zhan ju	1571
+战意	zhan yi	1060
+战争古树	zhan zheng gu shu	1131
+战争践踏	zhan zheng jian ta	1690
+战争傀儡	zhan zheng kui lei	1398
+战争磨坊	zhan zheng mo fang	1799
+长大	zhang da	167
+招宝宝	zhao bao bao	296
+召唤	zhao huan	297
+召唤豪猪	zhao huan hao zhu	1542
+召唤师	zhao huan shi	435
+召唤树人	zhao huan shu ren	182
+召唤熊	zhao huan xiong	1543
+召唤熊灵	zhao huan xiong ling	244
+召唤岩浆怪	zhao huan yan jiang guai	1529
+召唤战鹰	zhao huan zhan ying	1541
+召集民兵	zhao ji min bing	1728
+招鸟	zhao niao	88
+招猪	zhao zhu	87
+折光	zhe guang	58
+侦察守卫	zhen cha shou wei	718
+振奋	zhen fen	503
+振奋宝石	zhen fen bao shi	728
+震撼大地	zhen han da di	207
+震魂	zhen hun	563
+振魂石	zhen hun shi	698
+真龙形态	zhen long xing tai	111
+真身	zhen shen	173
+真视	zhen shi	621
+真视宝石	zhen shi bao shi	753
+真实视野	zhen shi shi ye	1708
+真眼	zhen yan	616
+正补	zheng bu	407
+蒸汽坦克	zheng qi tan ke	1183
+智慧披风	zhi hui pi feng	1238
+智慧之刃	zhi hui zhi ren	1056
+智慧之书	zhi hui zhi shu	1256
+智力	zhi li	352
+智力斗篷	zhi li dou peng	749
+智力型	zhi li xing	349
+治疗	zhi liao	502
+治疗卷轴	zhi liao juan zhou	1481
+治疗喷雾	zhi liao pen wu	1526
+治疗权仗	zhi liao quan zhang	813
+治疗神符	zhi liao shen fu	1270
+治疗守卫	zhi liao shou wei	1672
+治疗指环	zhi liao zhi huan	727
+致盲	zhi mang	141
+致命一击	zhi ming yi ji	1697
+支配	zhi pei	566
+支配头盔	zhi pei tou kui	700
+知识之书	zhi shi zhi shu	1259
+制图教学	zhi tu jiao xue	852
+制图资源	zhi tu zi yuan	851
+蜘蛛	zhi zhu	1453
+蜘蛛流	zhi zhu liu	1320
+忠诚考验	zhong cheng kao yan	157
+中单	zhong dan	636
+中和权杖	zhong he quan zhang	1277
+重击	zhong ji	1733
+中甲	zhong jia	1210
+重甲	zhong jia	1209
+中立	zhong li	879
+中立英雄	zhong li ying xiong	1111
+中路单	zhong lu dan	401
+众神	zhong shen	801
+众神之王	zhong shen zhi wang	1047
+主机刷	zhu ji shua	886
+蛛网	zhu wang	1583
+蛛网怪女皇	zhu wang guai nv huang	1354
+蛛网怪首领	zhu wang guai shou ling	1352
+蛛网怪预言者	zhu wang guai yu yan zhe	1355
+蛛网怪战士	zhu wang guai zhan shi	1356
+蛛网怪织网者	zhu wang guai zhi wang zhe	1353
+爪子	zhua zi	511
+转化	zhuan hua	220
+专家级利爪德鲁依训练	zhuan jia ji li zhua de lu yi xun lian	1622
+专家级灵魂行者训练	zhuan jia ji ling hun xing zhe xun lian	1663
+专家级猛禽德鲁依训练	zhuan jia ji meng qin de lu yi xun lian	1611
+专家级牧师训练	zhuan jia ji mu shi xun lian	1720
+专家级女巫训练	zhuan jia ji nv wu xun lian	1714
+专家级女妖训练	zhuan jia ji nv yao xun lian	1570
+专家级萨满训练	zhuan jia ji sa man xun lian	1676
+专家级亡灵巫师训练	zhuan jia ji wang ling wu shi xun lian	1575
+专家级巫医训练	zhuan jia ji wu yi xun lian	1671
+专注光环	zhuan zhu guang huan	1741
+装备唯一	zhuang bei wei yi	342
+追踪	zhui zong	117
+追踪术	zhui zong shu	118
+灼热之箭	zhuo re zhi jian	1642
+自爆	zi bao	1636
+自爆男	zi bao nan	664
+自动之火	zi dong zhi huo	80
+自然之力	zi ran zhi li	1647
+自然之怒	zi ran zhi nu	181
+自然之助	zi ran zhi zhu	295
+自杀	zi sha	160
+自杀攻击	zi sha gong ji	161
+紫怨	zi yuan	584
+资源	zi yuan	1502
+紫怨之杖	zi yuan zhi zhang	655
+走位	zou wei	391
+诅咒	zu zhou	1573
+钻地	zuan di	1582
+最后遗言	zui hou yi yan	1055
+醉酒云雾	zui jiu yun wu	1546
+醉拳	zui quan	1545
+佐佐	zuo zuo	904

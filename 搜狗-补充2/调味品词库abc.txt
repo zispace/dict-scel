@@ -1,0 +1,802 @@
+# 词库名称: 调味品词库abc
+# 词库分类: 个人专用
+# 词库描述: 用于调味品打单
+# 词条样例: 面包改良剂、花边纸、核桃仁、肉皮、安佳淡奶油、安佳黄油
+# 解析词数: 795
+# 解析异常: 0
+
+阿香婆牛肉酱	a xiang po niu rou jiang	782
+安佳淡奶油	an jia dan nai you	781
+安佳黄油	an jia huang you	780
+安佳黄油粒	an jia huang you li	779
+安佳奶酪	an jia nai lao	778
+安佳奶油	an jia nai you	777
+安佳小黄油	an jia xiao huang you	776
+安军香水鱼	an jun xiang shui yu	775
+安琪酵母	an qi jiao mu	774
+澳宝红腰豆	ao bao hong yao dou	773
+澳宝玉米粒	ao bao yu mi li	772
+八角	ba jiao	771
+八角粉	ba jiao fen	770
+白菜干	bai cai gan	769
+白醋	bai cu	767
+白果	bai guo	766
+白鹤清酒	bai he qing jiu	765
+白胡椒粉	bai hu jiao fen	764
+白胡椒粒	bai hu jiao li	763
+百家味珍味香鸡精	bai jia wei zhen wei xiang ji jing	746
+百家嘻沙司	bai jia xi sha si	745
+白酒醋	bai jiu cu	762
+白菊醋	bai ju cu	761
+白扣	bai kou	760
+白辣椒	bai la jiao	759
+百利红腰豆	bai li hong yao dou	744
+白莲蓉	bai lian rong	758
+白眉豆	bai mei dou	757
+白米醋	bai mi cu	756
+白木耳	bai mu er	755
+白皮花生米	bai pi hua sheng mi	754
+白巧克力	bai qiao ke li	753
+白参须	bai shen xu	768
+白丝网皮	bai si wang pi	752
+白糖	bai tang	751
+百味佳丁香鱼	bai wei jia ding xiang yu	743
+百味佳鸡精	bai wei jia ji jing	742
+白玉兰粉	bai yu lan fen	750
+白云豆	bai yun dou	749
+白芷	bai zhi	747
+白芝麻	bai zhi ma	748
+板栗	ban li	741
+包底纸	bao di zhi	740
+宝鼎米醋	bao ding mi cu	738
+保卫尔牛肉汁	bao wei er niu rou zhi	737
+保鲜膜	bao xian mo	736
+煲鱼袋	bao yu dai	739
+本味鲜	ben wei xian	735
+扁尖	bian jian	734
+彪山泡椒	biao shan pao jiao	733
+冰花梅酱	bing hua mei jiang	732
+冰片糖	bing pian tang	731
+冰糖	bing tang	730
+冰糖大包	bing tang da bao	729
+菠萝	bo luo	728
+菠萝酱	bo luo jiang	727
+菜籽油	cai zi you	726
+草菇	cao gu	725
+草果	cao guo	724
+草寇	cao kou	723
+草纸	cao zhi	722
+茶树菇	cha shu gu	721
+茶叶	cha ye	720
+常冠小西米	chang guan xiao xi mi	719
+车轮黄油	che lun huang you	718
+陈醋	chen cu	717
+陈皮	chen pi	716
+陈肾	chen shen	715
+橙红	cheng hong	714
+澄面	cheng mian	787
+豉油鸡汁	chi you ji zhi	713
+虫草花	chong cao hua	712
+臭粉	chou fen	711
+厨师之宝食粉	chu shi zhi bao shi fen	710
+川贝	chuan bei	709
+川崎麻辣酱	chuan qi ma la jiang	708
+川味卤味增香膏	chuan wei lu wei zeng xiang gao	707
+川湘芝麻酱	chuan xiang zhi ma jiang	706
+创可贴	chuang ke tie	705
+创口贴	chuang kou tie	704
+纯黑胡椒粉	chun hei hu jiao fen	703
+醋精	cu jing	700
+粗辣椒粉	cu la jiao fen	702
+粗盐	cu yan	701
+大厨味精	da chu wei jing	699
+大地鱼	da di yu	698
+大骨浓汤	da gu nong tang	697
+大红枣	da hong zao	696
+大黄灯笼	da huang deng long	695
+大黄豆	da huang dou	694
+大开洋	da kai yang	693
+大茂黑瓜	da mao hei gua	692
+大师傅鲜奶	da shi fu xian nai	691
+大松子	da song zi	690
+大卫凝胶粉	da wei ning jiao fen	689
+大虾膏	da xia gao	688
+大瑶柱粒	da yao zhu li	687
+大枣	da zao	686
+袋滑子菇	dai hua zi gu	684
+带壳花生	dai ke hua sheng	685
+袋清水笋	dai qing shui sun	683
+袋装粉丝	dai zhuang fen si	682
+蛋糕油	dan gao you	783
+当归片	dang gui pian	681
+当归头	dang gui tou	680
+党参	dang shen	679
+稻花香大米	dao hua xiang da mi	678
+德宝草莓粒	de bao cao mei li	677
+德生冰花梅酱	de sheng bing hua mei jiang	676
+地道湘味豆瓣酱	di dao xiang wei dou ban jiang	675
+地瓜粉	di gua fen	674
+地门沙司	di men sha si	673
+鼎丰南乳汁	ding feng nan ru zhi	665
+鼎丰甜面酱	ding feng tian mian jiang	664
+顶好花生酱	ding hao hua sheng jiang	670
+顶好花生酱箱	ding hao hua sheng jiang xiang	669
+顶好色素	ding hao se su	668
+丁香	ding xiang	672
+丁香粉	ding xiang fen	671
+顶一糕点粉	ding yi gao dian fen	667
+顶一面包粉	ding yi mian bao fen	666
+东北大拉皮	dong bei da la pi	663
+东古一品鲜	dong gu yi pin xian	662
+冬瓜糖	dong gua tang	659
+东莞米粉	dong guan mi fen	660
+东江盐焗鸡粉	dong jiang yan ju ji fen	661
+冬阴功	dong yin gong	658
+豆瓣	dou ban	657
+豆腐皮	dou fu pi	656
+鹅肝	e gan	655
+鹅肝酱	e gan jiang	654
+二荆条	er jing tiao	653
+发菜	fa cai	652
+方便面	fang bian mian	651
+方腿	fang tui	650
+粉丝	fen si	649
+风车生粉	feng che sheng fen	648
+枫泾黄酒	feng jing huang jiu	647
+佛手味精	fo shou wei jing	646
+福侯野山椒	fu hou ye shan jiao	645
+福泉烧汁	fu quan shao zhi	644
+斧头食粉	fu tou shi fen	643
+富味香白芝麻酱	fu wei xiang bai zhi ma jiang	640
+富味香黑芝麻酱	fu wei xiang hei zhi ma jiang	639
+富味乡麻油	fu wei xiang ma you	641
+富味香麻油	fu wei xiang ma you	638
+腐竹	fu zhu	642
+咖喱胆	ga li dan	437
+改良剂	gai liang ji	784
+干百合	gan bai he	637
+干贝	gan bei	636
+干贝素	gan bei su	635
+甘草	gan cao	628
+甘草粉	gan cao fen	627
+干党参	gan dang shen	634
+干桂花	gan gui hua	633
+干海椒	gan hai jiao	632
+干辣椒	gan la jiao	631
+橄榄油	gan lan you	626
+干山楂	gan shan zha	630
+干土茯苓	gan tu fu ling	629
+港龙伊面	gang long yi mian	625
+港顺鸡汁	gang shun ji zhi	624
+港顺伊面	gang shun yi mian	623
+港顺蒸鱼豉油	gang shun zheng yu chi you	622
+高山细笋	gao shan xi sun	621
+高鲜味精	gao xian wei jing	620
+蛤蚧	ge jie	618
+鸽牌龙虾片	ge pai long xia pian	619
+枸杞	gou qi	617
+骨髓浸膏	gu sui jin gao	615
+固体酒精	gu ti jiu jing	614
+古越龙山	gu yue long shan	616
+挂面	gua mian	613
+冠生园蜂蜜	guan sheng yuan feng mi	612
+冠生园米醋	guan sheng yuan mi cu	611
+冠生园宴会鲜味汁	guan sheng yuan yan hui xian wei zhi	610
+冠珠龙口粉丝	guan zhu long kou fen si	609
+广东米酒	guang dong mi jiu	604
+广合腐乳	guang he fu ru	603
+光明纯牛奶	guang ming chun niu nai	608
+光明奶粉	guang ming nai fen	607
+光明酸奶	guang ming suan nai	606
+光明芝士片	guang ming zhi shi pian	605
+广味源大红浙醋	guang wei yuan da hong zhe cu	602
+广味源苹果醋	guang wei yuan ping guo cu	601
+广味源五香粉	guang wei yuan wu xiang fen	600
+广味源香滑磨豉酱	guang wei yuan xiang hua mo chi jiang	599
+广味源盐焗鸡粉	guang wei yuan yan ju ji fen	598
+广味源幼虾酱	guang wei yuan you xia jiang	597
+广源面豉酱	guang yuan mian chi jiang	596
+桂冠沙拉	gui guan sha la	592
+桂花陈酒	gui hua chen jiu	591
+龟甲万	gui jia wan	595
+龟苓膏	gui ling gao	594
+龟苓膏粉	gui ling gao fen	593
+桂皮	gui pi	590
+桂圆肉	gui yuan rou	589
+桂珠糖桂花	gui zhu tang gui hua	588
+国宝炼乳	guo bao lian ru	587
+果绿	guo lv	586
+海底椰	hai di ye	585
+海皇子鲍鱼汁	hai huang zi bao yu zhi	584
+海鸥糟卤	hai ou zao lu	583
+海天草菇老抽	hai tian cao gu lao chou	582
+海天叉烧酱	hai tian cha shao jiang	581
+海天海鲜酱	hai tian hai xian jiang	580
+海天海鲜酱油	hai tian hai xian jiang you	579
+海天蚝油	hai tian hao you	578
+海天黄豆酱	hai tian huang dou jiang	577
+海天金标生抽	hai tian jin biao sheng chou	576
+海天老抽	hai tian lao chou	575
+海天排骨酱	hai tian pai gu jiang	574
+海天苹果醋	hai tian ping guo cu	573
+海天上等蚝油	hai tian shang deng hao you	572
+海天生抽	hai tian sheng chou	571
+海天蒜蓉酱	hai tian suan rong jiang	570
+海天柱候酱	hai tian zhu hou jiang	569
+韩国大豆酱	han guo da dou jiang	568
+韩国户户蒜蓉酱	han guo hu hu suan rong jiang	567
+韩国辣椒粉	han guo la jiao fen	566
+韩国泡菜	han guo pao cai	565
+航仔酱椒	hang zai jiang jiao	564
+航仔乡里剁辣椒	hang zai xiang li duo la jiao	563
+好乐门蛋黄酱	hao le men dan huang jiang	562
+好乐门沙拉	hao le men sha la	561
+号汤料	hao tang liao	795
+好味澄面	hao wei cheng mian	560
+好味面包糠	hao wei mian bao kang	559
+合俏果椰浆	he qiao guo ye jiang	558
+核桃粉	he tao fen	557
+核桃仁	he tao ren	786
+荷叶	he ye	556
+黑胡椒粒	hei hu jiao li	555
+黑胡椒汁	hei hu jiao zhi	554
+黑麻油	hei ma you	553
+黑米	hei mi	552
+黑木耳	hei mu er	551
+黑巧克力	hei qiao ke li	550
+黑鱼子酱	hei yu zi jiang	549
+黑枣	hei zao	548
+黑珍珠	hei zhen zhu	547
+黑芝麻	hei zhi ma	546
+恒顺镇江香醋	heng shun zhen jiang xiang cu	545
+红标米酒	hong biao mi jiu	544
+宏斌小米椒	hong bin xiao mi jiao	527
+红豆	hong dou	541
+红翻天	hong fan tian	540
+红腐乳	hong fu ru	539
+红咖喱	hong ga li	536
+红甘草	hong gan cao	538
+红花椒	hong hua jiao	537
+红曲米	hong qu mi	535
+红参	hong shen	543
+红参须	hong shen xu	542
+红薯粉	hong shu fen	533
+红署粉丝	hong shu fen si	534
+红糖	hong tang	532
+红星二锅头	hong xing er guo tou	531
+红星沙茶酱	hong xing sha cha jiang	530
+红月泡打粉	hong yue pao da fen	529
+红枣	hong zao	528
+蝴蝶面	hu die mian	524
+湖南辣酱	hu nan la jiang	526
+湖羊酱油	hu yang jiang you	525
+花边纸	hua bian zhi	789
+华宾板栗	hua bin ban li	521
+花菜干	hua cai gan	523
+花菇	hua gu	522
+话梅	hua mei	519
+滑子菇	hua zi gu	520
+淮山	huai shan	518
+黄飞鸿	huang fei hong	515
+黄咖喱	huang ga li	511
+皇冠小西米泰国	huang guan xiao xi mi tai guo	517
+黄花菜	huang hua cai	514
+黄芥末	huang jie mo	513
+黄酒	huang jiu	512
+黄芪	huang qi	510
+黄色面包糠	huang se mian bao kang	509
+皇室燕麦片	huang shi yan mai pian	516
+黄丝网皮	huang si wang pi	508
+黄桃	huang tao	507
+黄小米	huang xiao mi	506
+黄栀子	huang zhi zi	505
+慧叶玉米粒	hui ye yu mi li	504
+鸡蛋干	ji dan gan	503
+鸡饭老抽	ji fan lao chou	502
+姬菇	ji gu	497
+鸡骨草	ji gu cao	501
+鸡骨高汤	ji gu gao tang	500
+吉士粉	ji shi fen	496
+鸡腿菇	ji tui gu	499
+鸡心枣	ji xin zao	498
+家乐番茄沙司桶装	jia le fan qie sha si tong zhuang	495
+家乐海皇酱	jia le hai huang jiang	494
+家乐黑椒汁	jia le hei jiao zhi	493
+家乐火腿汁	jia le huo tui zhi	492
+家乐鸡粉	jia le ji fen	491
+家乐鸡精	jia le ji jing	490
+家乐鸡汁	jia le ji zhi	489
+家乐精致蚝油	jia le jing zhi hao you	488
+家乐辣鲜露	jia le la xian lu	487
+家乐沙司	jia le sha si	486
+家乐烧肉酱	jia le shao rou jiang	485
+家乐烧肉汁	jia le shao rou zhi	484
+家乐松肉粉	jia le song rou fen	483
+家乐鲜露	jia le xian lu	482
+家乐香辣酱	jia le xiang la jiang	481
+家乐瑶柱汁	jia le yao zhu zhi	480
+家乐一品汤	jia le yi pin tang	479
+家乐鹰粟粉	jia le ying su fen	478
+嘉善元红	jia shan yuan hong	477
+嘉文盐焗鸡粉	jia wen yan ju ji fen	476
+枧水	jian shui	474
+尖庄	jian zhuang	475
+江苏美玫粉	jiang su mei mei fen	473
+江西米粉	jiang xi mi fen	472
+酱油	jiang you	788
+劲霸鸡汁	jin ba ji zhi	455
+劲霸芥末油	jin ba jie mo you	454
+劲霸辣椒仔	jin ba la jiao zai	453
+劲霸青芥末	jin ba qing jie mo	452
+金福什香草	jin fu shen xiang cao	471
+锦宏滑子菇	jin hong hua zi gu	456
+金奖白兰地	jin jiang bai lan di	470
+进口味椒盐	jin kou wei jiao yan	451
+进口杏仁片	jin kou xing ren pian	450
+金兰酱油	jin lan jiang you	469
+金兰油膏	jin lan you gao	468
+金牧歌麻辣鱼	jin mu ge ma la yu	467
+金沙仁	jin sha ren	466
+金山酱油	jin shan jiang you	465
+金狮春卷皮	jin shi chun juan pi	464
+金五年花雕	jin wu nian hua diao	463
+金像粉	jin xiang fen	462
+金印海苔	jin yin hai tai	461
+金针菇	jin zhen gu	460
+金钟酱油	jin zhong jiang you	459
+金钟米醋	jin zhong mi cu	458
+金钻奶油	jin zuan nai you	457
+京翠乙基麦芽酚	jing cui yi ji mai ya fen	449
+晶晶乐小米椒	jing jing le xiao mi jiao	447
+京日豆沙	jing ri dou sha	448
+九江双蒸酒	jiu jiang shuang zheng jiu	446
+酒曲	jiu qu	443
+久鲜香鸡精	jiu xian xiang ji jing	444
+九制陈皮	jiu zhi chen pi	445
+鹃城红油豆瓣酱	juan cheng hong you dou ban jiang	442
+鹃城火锅豆瓣酱	juan cheng huo guo dou ban jiang	441
+鹃蕊豆瓣酱	juan rui dou ban jiang	440
+咖啡	ka fei	439
+咖啡伴侣	ka fei ban lv	438
+卡夫奇妙酱	ka fu qi miao jiang	436
+卡夫芝士粉	ka fu zhi shi fen	435
+卡夫芝士片	ka fu zhi shi pian	434
+开渭豆豉	kai wei dou chi	433
+康乐醋	kang le cu	432
+烤鸭皮	kao ya pi	431
+宽粉条	kuan fen tiao	430
+葵田日式酱油	kui tian ri shi jiang you	429
+昆山万字	kun shan wan zi	428
+辣椒段	la jiao duan	427
+辣椒精	la jiao jing	426
+辣椒面	la jiao mian	425
+辣妹子	la mei zi	424
+辣油	la you	423
+辣之源干锅酱	la zhi yuan gan guo jiang	422
+老兵剁椒	lao bing duo jiao	421
+老抽	lao chou	420
+老大同香糟卤	lao da tong xiang zao lu	419
+老大同香糟泥	lao da tong xiang zao ni	418
+老干妈豆豉	lao gan ma dou chi	417
+老娘舅蜂蜜	lao niang jiu feng mi	416
+老谢米醋	lao xie mi cu	415
+乐事薯片	le shi shu pian	414
+利宝纳	li bao na	388
+立高果膏	li gao guo gao	389
+黎红花椒油	li hong hua jiao you	413
+李记酸菜	li ji suan cai	412
+李锦记财神蚝油	li jin ji cai shen hao you	411
+李锦记财神蚝油桶装	li jin ji cai shen hao you tong zhuang	410
+李锦记草菇老抽	li jin ji cao gu lao chou	409
+李锦记叉烧酱	li jin ji cha shao jiang	408
+李锦记豆瓣酱	li jin ji dou ban jiang	407
+李锦记风味豆豉酱	li jin ji feng wei dou chi jiang	406
+李锦记桂林风味辣椒酱	li jin ji gui lin feng wei la jiao jiang	405
+李锦记海鲜酱	li jin ji hai xian jiang	404
+李锦记锦珍蚝油	li jin ji jin zhen hao you	403
+李锦记锦珍磨豉酱	li jin ji jin zhen mo chi jiang	402
+李锦记精选生抽	li jin ji jing xuan sheng chou	401
+李锦记旧庄蚝油	li jin ji jiu zhuang hao you	400
+李锦记排骨酱	li jin ji pai gu jiang	399
+李锦记沙司	li jin ji sha si	398
+李锦记蒜蓉辣椒酱	li jin ji suan rong la jiao jiang	397
+李锦记味蚝鲜	li jin ji wei hao xian	396
+李锦记味极鲜	li jin ji wei ji xian	395
+李锦记幼滑虾酱	li jin ji you hua xia jiang	394
+李锦记蒸鱼豉油	li jin ji zheng yu chi you	393
+李锦记芝麻油	li jin ji zhi ma you	392
+李锦记柱候酱	li jin ji zhu hou jiang	391
+李派林喼汁	li pai lin jie zhi	390
+莲花味精	lian hua wei jing	387
+莲蓉	lian rong	386
+莲心	lian xin	385
+两头尖	liang tou jian	384
+灵草	ling cao	383
+灵芝	ling zhi	382
+灵芝片	ling zhi pian	381
+柳絮粉丝	liu xu fen si	380
+六月鲜酱油	liu yue xian jiang you	379
+龙江罐装红腰豆	long jiang guan zhuang hong yao dou	378
+龙井	long jing	377
+龙虾片	long xia pian	376
+龙须面	long xu mian	375
+鹭池花雕	lu chi hua diao	370
+鲁花花生油	lu hua hua sheng you	372
+卤水汁	lu shui zhi	374
+卤味增香膏	lu wei zeng xiang gao	373
+鲁樱豆沙	lu ying dou sha	371
+罗伯臣鱼胶粉	luo bo chen yu jiao fen	367
+罗汉果	luo han guo	366
+洛神花	luo shen hua	365
+绿豆	lv dou	369
+绿丝网皮	lv si wang pi	368
+马德拉斯咖喱	ma de la si ga li	361
+麻辣上汤	ma la shang tang	364
+麻辣鲜	ma la xian	363
+玛琪琳	ma qi lin	358
+马斯卡布尼	ma si ka bu ni	360
+马苏里拉芝士	ma su li la zhi shi	790
+马蹄粉	ma ti fen	359
+麻油咸鱼	ma you xian yu	362
+麦冬	mai dong	357
+麦芽糖	mai ya tang	356
+麦芽糖桶	mai ya tang tong	355
+芒果酱	mang guo jiang	354
+梅干菜	mei gan cai	351
+玫瑰露酒	mei gui lu jiu	353
+玫瑰米醋	mei gui mi cu	352
+美国杏仁	mei guo xing ren	347
+美极牛肉粉	mei ji niu rou fen	346
+美极浓缩鸡汁	mei ji nong suo ji zhi	345
+美极上汤鸡粉	mei ji shang tang ji fen	344
+美极鲜	mei ji xian	343
+美极鲜鸡粉	mei ji xian ji fen	342
+美极鲜辣汁	mei ji xian la zhi	341
+梅林茄汁黄豆	mei lin qie zhi huang dou	350
+梅林午餐肉	mei lin wu can rou	349
+美玫粉	mei mei fen	339
+梅山酵母	mei shan jiao mu	348
+美味匙特丽素	mei wei chi te li su	338
+美味鲜	mei wei xian	337
+美味鲜大红浙醋	mei wei xian da hong zhe cu	336
+美味鲜酱油	mei wei xian jiang you	335
+美味源香滑磨豉酱	mei wei yuan xiang hua mo chi jiang	334
+美乐香辣酱	mei yue xiang la jiang	340
+绵白糖	mian bai tang	333
+面包改良剂	mian bao gai liang ji	791
+妙多咖喱粉	miao duo ga li fen	332
+妙多咖喱膏	miao duo ga li gao	331
+明矾	ming fan	330
+蘑菇	mo gu	329
+魔精	mo jing	328
+莫利黑醋	mo li hei cu	327
+牡丹粉	mu dan fen	326
+牧歌香煮鱼	mu ge xiang zhu yu	322
+木薯粉	mu shu fen	325
+牧童黄油	mu tong huang you	321
+目鱼花	mu yu hua	324
+目鱼素	mu yu su	323
+南北杏仁	nan bei xing ren	320
+南方黑芝麻糊	nan fang hei zhi ma hu	319
+南瓜子仁	nan gua zi ren	318
+南姜	nan jiang	317
+南桥起酥油	nan qiao qi su you	316
+宁波大曲	ning bo da qu	315
+宁记麻辣酱	ning ji ma la jiang	314
+牛肝菌	niu gan jun	313
+牛排料	niu pai liao	312
+牛尾汤	niu wei tang	311
+糯米	nuo mi	310
+潘秦牛肉汁	pan qin niu rou zhi	309
+潘泰鸡酱	pan tai ji jiang	308
+胖子麻辣鱼料	pang zi ma la yu liao	307
+泡仔姜	pao zai jiang	306
+培根	pei gen	305
+蓬盛橄榄菜	peng sheng gan lan cai	304
+啤酒	pi jiu	302
+郫县豆瓣酱普通	pi xian dou ban jiang pu tong	303
+瓶黄桃	ping huang tao	301
+瓶泡仔姜	ping pao zai jiang	300
+瓶杂果	ping za guo	299
+普豆角	pu dou jiao	297
+普宁豆瓣酱	pu ning dou ban jiang	296
+葡萄干	pu tao gan	298
+起酥油	qi su you	293
+七味糖粉	qi wei tang fen	295
+七仙缘酒酿	qi xian yuan jiu niang	294
+乾隆一品汤皇	qian long yi pin tang huang	292
+巧克力棒百奇	qiao ke li bang bai qi	291
+巧克力酱	qiao ke li jiang	290
+巧克力饰品	qiao ke li shi pin	289
+巧克力饮品	qiao ke li yin pin	288
+青花椒	qing hua jiao	287
+清水马蹄	qing shui ma ti	286
+琼脂	qiong zhi	285
+丘比草莓酱	qiu bi cao mei jiang	284
+丘比蓝莓酱	qiu bi lan mei jiang	283
+丘比千岛酱	qiu bi qian dao jiang	282
+丘比沙拉酱	qiu bi sha la jiang	281
+丘比芝麻沙拉汁	qiu bi zhi ma sha la zhi	280
+去皮核桃仁	qu pi he tao ren	279
+去皮花生米	qu pi hua sheng mi	278
+全形芥菜	quan xing jie cai	277
+雀巢纯牛奶	que chao chun niu nai	276
+雀巢淡奶油	que chao dan nai you	275
+雀巢炼乳	que chao lian ru	274
+雀巢奶粉	que chao nai fen	273
+裙带菜	qun dai cai	272
+群益魔芋丝	qun yi mo yu si	271
+人忠烧鳗汁	ren zhong shao man zhi	270
+人忠小东子酱油	ren zhong xiao dong zi jiang you	269
+日本白盐	ri ben bai yan	268
+日本面豉酱	ri ben mian chi jiang	267
+日本清酒桶装	ri ben qing jiu tong zhuang	266
+日本盛清酒瓶装	ri ben sheng qing jiu ping zhuang	265
+嵘琛红曲粉	rong chen hong qu fen	264
+肉宝王	rou bao wang	263
+肉苁蓉	rou cong rong	262
+肉蔻	rou kou	261
+肉皮	rou pi	785
+肉松	rou song	260
+肉味调味素	rou wei tiao wei su	259
+三才粉丝	san cai fen si	258
+三花布丁粉	san hua bu ding fen	257
+三花全脂淡奶	san hua quan zhi dan nai	256
+三花土豆粉	san hua tu dou fen	255
+三花植脂淡奶	san hua zhi zhi dan nai	254
+三井蚝油	san jing hao you	253
+三添麻油	san tian ma you	252
+三五底料	san wu di liao	251
+三象糯米粉	san xiang nuo mi fen	250
+三象粘米粉	san xiang zhan mi fen	249
+散装薯片	san zhuang shu pian	248
+散装紫菜	san zhuang zi cai	247
+纱布	sha bu	243
+沙姜	sha jiang	245
+沙姜粉	sha jiang fen	244
+沙参	sha shen	246
+山西老陈醋龙眼井	shan xi lao chen cu long yan jing	242
+山野菜	shan ye cai	241
+山楂片	shan zha pian	240
+上海白醋	shang hai bai cu	239
+上海辣酱油	shang hai la jiang you	238
+上好佳虾条	shang hao jia xia tiao	237
+烧碱	shao jian	236
+烧肉汁	shao rou zhi	235
+烧味香膏	shao wei xiang gao	234
+申冠蜂蜜	shen guan feng mi	233
+沈永和绍兴花雕酒	shen yong he shao xing hua diao jiu	232
+生地	sheng di	231
+生姜汁	sheng jiang zhi	230
+生杏仁粒	sheng xing ren li	229
+石斛	shi hu	227
+是拉差	shi la cha	225
+食全食美糖桂花	shi quan shi mei tang gui hua	226
+十三香	shi san xiang	228
+手斧食粉	shou fu shi fen	224
+寿司醋	shou si cu	222
+首乌	shou wu	223
+熟地	shu di	221
+曙铃午餐肉	shu ling wu can rou	220
+双枪咖喱	shuang qiang ga li	219
+双桥味精	shuang qiao wei jing	218
+双喜泡打粉	shuang xi pao da fen	217
+双燕子沙爹酱	shuang yan zi sha die jiang	216
+双鱼米醋	shuang yu mi cu	215
+水晶锅巴	shui jing guo ba	214
+四季宝花生酱	si ji bao hua sheng jiang	213
+松板肉	song ban rou	212
+松茸	song rong	211
+松子	song zi	210
+酸黄瓜	suan huang gua	209
+酸豇豆	suan jiang dou	208
+酸梅粒	suan mei li	207
+碎瑶柱	sui yao zhu	206
+笋干	sun gan	205
+泰国香米	tai guo xiang mi	198
+太太乐鲜贝露	tai tai le xian bei lu	201
+太太乐鲜味宝	tai tai le xian wei bao	200
+太太乐宴会酱油	tai tai le yan hui jiang you	199
+台湾米酒	tai wan mi jiu	204
+台湾酸菜	tai wan suan cai	203
+台湾猪油	tai wan zhu you	202
+坛坛乡剁椒	tan tan xiang duo jiao	197
+坛坛香剁椒	tan tan xiang duo jiao	196
+糖粉	tang fen	195
+汤料	tang liao	794
+淘大黄豆酱油	tao da huang dou jiang you	194
+藤椒油	teng jiao you	193
+天成一味	tian cheng yi wei	192
+天津冬菜	tian jin dong cai	191
+天箐味精	tian jing wei jing	189
+天菁味精	tian jing wei jing	190
+田七	tian qi	187
+天之味橙汁	tian zhi wei cheng zhi	188
+铁塔淡奶油	tie ta dan nai you	186
+听清水笋	ting qing shui sun	185
+听装苏打水	ting zhuang su da shui	184
+通粤牌芝麻酱	tong yue pai zhi ma jiang	183
+头道鲜	tou dao xian	182
+豌豆粉	wan dou fen	181
+万年青	wan nian qing	180
+万字酱油	wan zi jiang you	179
+未多咖喱粉	wei duo ga li fen	175
+味好美白胡椒粉	wei hao mei bai hu jiao fen	174
+味好美草莓酱	wei hao mei cao mei jiang	173
+味好美川香腌料	wei hao mei chuan xiang yan liao	172
+味好美粗黑胡椒碎	wei hao mei cu hei hu jiao sui	171
+味好美大蒜粉	wei hao mei da suan fen	170
+味好美花椒粉	wei hao mei hua jiao fen	169
+味好美姜黄粉	wei hao mei jiang huang fen	168
+味好美椒盐	wei hao mei jiao yan	167
+味好美辣椒粉	wei hao mei la jiao fen	166
+味好美土耳其调料	wei hao mei tu er qi tiao liao	165
+味好美五香粉	wei hao mei wu xiang fen	164
+味好美细黑胡椒粉	wei hao mei xi hei hu jiao fen	163
+味好美油咖喱	wei hao mei you ga li	162
+唯加咖喱粉	wei jia ga li fen	178
+唯加五香粉	wei jia wu xiang fen	177
+唯加鲜辣粉	wei jia xian la fen	176
+味精	wei jing	161
+味林	wei lin	160
+味林皇冠面包糠	wei lin huang guan mian bao kang	159
+味露	wei lu	158
+味源特极红辣椒粉	wei yuan te ji hong la jiao fen	157
+味之素海鲜素	wei zhi su hai xian su	156
+乌冬面	wu dong mian	155
+无核蜜枣	wu he mi zao	153
+无花果	wu hua guo	152
+乌江榨菜	wu jiang zha cai	154
+五木枧水	wu mu jian shui	151
+五指毛桃	wu zhi mao tao	150
+西部红	xi bu hong	149
+西瓜子	xi gua zi	148
+西瓜子仁	xi gua zi ren	147
+细辣椒粉	xi la jiao fen	144
+细双桥味精	xi shuang qiao wei jing	143
+西洋参片	xi yang shen pian	146
+吸油纸	xi you zhi	145
+虾干	xia gan	142
+夏果	xia guo	138
+虾米	xia mi	141
+虾皮	xia pi	140
+虾籽	xia zi	139
+鲜大王	xian da wang	137
+咸亨南乳汁	xian heng nan ru zhi	132
+鲜青花椒	xian qing hua jiao	136
+鲜人参	xian ren shen	135
+鲜味生抽	xian wei sheng chou	134
+鲜味王	xian wei wang	133
+乡巴佬榨菜	xiang ba lao zha cai	131
+香菜籽	xiang cai zi	129
+香草	xiang cao	128
+香醋	xiang cu	127
+香港橄榄菜	xiang gang gan lan cai	126
+香菇	xiang gu	125
+香瓜子仁	xiang gua zi ren	124
+香果	xiang guo	123
+香椒膏	xiang jiao gao	122
+香蕉片	xiang jiao pian	120
+香椒油	xiang jiao you	121
+乡里剁椒	xiang li duo jiao	130
+香料	xiang liao	793
+香料粉	xiang liao fen	119
+香茅草	xiang mao cao	118
+香甜泡打粉	xiang tian pao da fen	117
+香甜沙拉酱	xiang tian sha la jiang	116
+祥兴隆鲍鱼汁	xiang xing long bao yu zhi	114
+香叶	xiang ye	115
+孝感老米酒	xiao gan lao mi jiu	101
+小黑木耳	xiao hei mu er	113
+小红花生米	xiao hong hua sheng mi	112
+小黄灯笼	xiao huang deng long	111
+小黄豆	xiao huang dou	110
+小黄米	xiao huang mi	109
+小茴香	xiao hui xiang	108
+小茴香粉	xiao hui xiang fen	107
+小伙子大豆酱	xiao huo zi da dou jiang	106
+小开洋	xiao kai yang	105
+小茄汁黄豆	xiao qie zhi huang dou	104
+小苏打	xiao su da	103
+小瑶柱	xiao yao zhu	102
+斜桥榨菜	xie qiao zha cai	100
+新的橙汁	xin de cheng zhi	99
+新的芒果汁	xin de mang guo zhi	98
+新的柠檬汁	xin de ning meng zhi	97
+新繁泡菜	xin fan pao cai	96
+新中糟方	xin zhong zao fang	95
+杏鲍菇	xing bao gu	92
+星湖麦芽粉	xing hu mai ya fen	94
+星火味椒盐	xing huo wei jiao yan	93
+杏仁霜	xing ren shuang	91
+熊猫炼乳	xiong mao lian ru	90
+雪菜汁	xue cai zhi	89
+雪莲子	xue lian zi	88
+血糯米	xue nuo mi	87
+宴会鲜味汁	yan hui xian wei zhi	86
+燕麦	yan mai	85
+燕旗威化纸	yan qi wei hua zhi	84
+燕子酵母	yan zi jiao mu	83
+阳江豆豉	yang jiang dou chi	82
+杨协成沙爹酱	yang xie cheng sha die jiang	81
+腰果	yao guo	80
+椰丝	ye si	79
+椰子香粉	ye zi xiang fen	78
+椰子香油	ye zi xiang you	77
+一次性口罩	yi ci xing kou zhao	76
+一次性手套	yi ci xing shou tao	75
+意大利面	yi da li mian	792
+意大利墨鱼面	yi da li mo yu mian	67
+一滴香	yi di xiang	74
+一葵百里香	yi kui bai li xiang	73
+一葵千里香	yi kui qian li xiang	72
+一葵什香草	yi kui shen xiang cao	71
+一葵蒜香粉	yi kui suan xiang fen	70
+薏米	yi mi	66
+益鲜素	yi xian su	68
+医用酒精	yi yong jiu jing	69
+印度黄姜粉	yin du huang jiang fen	64
+银鱼干	yin yu gan	65
+鹰金钱豆豉鲮鱼	ying jin qian dou chi ling yu	63
+盈棚酸菜	ying peng suan cai	62
+盈棚野山椒	ying peng ye shan jiao	61
+盈棚鱼酸菜	ying peng yu suan cai	60
+营养面	ying yang mian	59
+用之宝椰浆	yong zhi bao ye jiang	58
+油抽	you chou	57
+有核蜜枣	you he mi zao	51
+油浸金枪鱼	you jin jin qiang yu	56
+幼砂糖	you sha tang	48
+油性柠檬黄色素	you xing ning meng huang se su	55
+油性色素	you xing se su	54
+鱿鱼膘	you yu biao	52
+油纸	you zhi	53
+有枝红车厘子	you zhi hong che li zi	50
+有枝绿车厘子	you zhi lv che li zi	49
+鱼翅	yu chi	47
+玉桂粉	yu gui fen	43
+鱼露	yu lu	46
+玉米片	yu mi pian	42
+玉米笋	yu mi sun	41
+鱼酸菜	yu suan cai	45
+玉兔牛油	yu tu niu you	40
+玉竹	yu zhu	39
+鱼子酱	yu zi jiang	44
+员工大米	yuan gong da mi	38
+圆泡椒	yuan pao jiao	37
+跃池花雕	yue chi hua diao	36
+越南春卷皮	yue nan chun juan pi	35
+杂菌	za jun	34
+糟卤	zao lu	33
+詹王鸡粉	zhan wang ji fen	32
+张氏记湖南辣酱	zhang shi ji hu nan la jiang	31
+张氏记小米椒	zhang shi ji xiao mi jiao	30
+兆丰和豆瓣酱	zhao feng he dou ban jiang	29
+蒸肉米粉	zheng rou mi fen	28
+郑松兴普宁豆瓣酱	zheng song xing pu ning dou ban jiang	24
+正义黄油	zheng yi huang you	27
+正义美味油	zheng yi mei wei you	26
+正义猪油	zheng yi zhu you	25
+芝麻酱	zhi ma jiang	23
+致美斋大红浙醋	zhi mei zhai da hong zhe cu	22
+中南鲍鱼汁	zhong nan bao yu zhi	21
+中盐	zhong yan	20
+周庄咸菜	zhou zhuang xian cai	19
+竹垫	zhu dian	14
+猪骨高汤	zhu gu gao tang	16
+朱古力针	zhu gu li zhen	18
+猪骨汁	zhu gu zhi	15
+竹签	zhu qian	13
+朱师傅冰皮粉	zhu shi fu bing pi fen	17
+竹荪	zhu sun	12
+紫菜	zi cai	9
+紫草	zi cao	8
+紫金辣椒酱	zi jin la jiao jiang	7
+孜然粉	zi ran fen	11
+孜然粒	zi ran li	10
+紫苏叶	zi su ye	6
+棕叶	zong ye	5
+粽叶	zong ye	4
+钻石黑胡椒碎	zuan shi hei hu jiao sui	3
+醉料	zui liao	2
+醉鱼干	zui yu gan	1

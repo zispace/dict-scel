@@ -1,0 +1,859 @@
+# 词库名称: 北大青鸟注释2
+# 词库分类: 工业设计
+# 词库描述: 消防
+# 词条样例: 三层大厅烟感、一层大厅西新风机、一层强切、三层大厅西手报、三层新风室外烟感
+# 解析词数: 852
+# 解析异常: 0
+
+八层北走道烟感	ba ceng bei zou dao yan gan	692
+八层储藏室烟感	ba ceng chu cang shi yan gan	696
+八层东电梯口送风	ba ceng dong dian ti kou song feng	414
+八层东南电梯口手报	ba ceng dong nan dian ti kou shou bao	683
+八层东南电梯口消报	ba ceng dong nan dian ti kou xiao bao	674
+八层东南电梯口烟感	ba ceng dong nan dian ti kou yan gan	685
+八层东排烟阀	ba ceng dong pai yan fa	668
+八层东梯送风	ba ceng dong ti song feng	412
+八层东新风机房烟感	ba ceng dong xin feng ji fang yan gan	686
+八层东走道手报	ba ceng dong zou dao shou bao	681
+八层东走道消报	ba ceng dong zou dao xiao bao	677
+八层东走道烟感	ba ceng dong zou dao yan gan	693
+八层东作业间烟感	ba ceng dong zuo ye jian yan gan	688
+八层广播	ba ceng guang bo	652
+八层警铃	ba ceng jing ling	671
+八层南作业间手报	ba ceng nan zuo ye jian shou bao	682
+八层南作业间消报	ba ceng nan zuo ye jian xiao bao	675
+八层南作业间烟感	ba ceng nan zuo ye jian yan gan	690
+八层排烟口	ba ceng pai yan kou	669
+八层强电间烟感	ba ceng qiang dian jian yan gan	684
+八层弱电间前烟感	ba ceng ruo dian jian qian yan gan	687
+八层弱电间烟感	ba ceng ruo dian jian yan gan	697
+八层水流	ba ceng shui liu	673
+八层西走道手报	ba ceng xi zou dao shou bao	680
+八层西走道消报	ba ceng xi zou dao xiao bao	678
+八层西走道烟感	ba ceng xi zou dao yan gan	694
+八层西作业间手报	ba ceng xi zuo ye jian shou bao	679
+八层西作业间烟感	ba ceng xi zuo ye jian yan gan	691
+八层消防电梯前室烟感	ba ceng xiao fang dian ti qian shi yan gan	695
+八层新风机房烟感	ba ceng xin feng ji fang yan gan	689
+八层信号阀	ba ceng xin hao fa	672
+八层中电梯口送风	ba ceng zhong dian ti kou song feng	420
+八层中电梯口消报	ba ceng zhong dian ti kou xiao bao	676
+八层中排烟阀	ba ceng zhong pai yan fa	670
+八层中梯送风	ba ceng zhong ti song feng	418
+备餐室烟感	bei can shi yan gan	386
+北区中手报	bei qu zhong shou bao	275
+变电室前手报	bian dian shi qian shou bao	361
+变电室温感	bian dian shi wen gan	363
+变电室烟感	bian dian shi yan gan	362
+餐厅手报	can ting shou bao	357
+餐厅消火栓	can ting xiao huo shuan	354
+餐厅烟感	can ting yan gan	390
+茶水间温感	cha shui jian wen gan	280
+车库出口温感	che ku chu kou wen gan	365
+车库东消火栓	che ku dong xiao huo shuan	316
+车库管理烟感	che ku guan li yan gan	368
+车库温感	che ku wen gan	327
+车库西手报	che ku xi shou bao	310
+车库西消报	che ku xi xiao bao	309
+车库消报	che ku xiao bao	308
+车库烟感	che ku yan gan	338
+车库中消报	che ku zhong xiao bao	306
+车库中消火栓	che ku zhong xiao huo shuan	318
+储藏室烟感	chu cang shi yan gan	337
+厨房办公烟感	chu fang ban gong yan gan	382
+厨房操作间温感	chu fang cao zuo jian wen gan	385
+厨房煤气探测	chu fang mei qi tan ce	388
+厨房配电间烟感	chu fang pei dian jian yan gan	379
+厨房强切	chu fang qiang qie	342
+厨房温感	chu fang wen gan	25
+厨房消火栓	chu fang xiao huo shuan	353
+粗加工温感	cu jia gong wen gan	24
+大厅消火栓	da ting xiao huo shuan	351
+道烟感	dao yan gan	29
+地下二层东区车库卷帘门	di xia er ceng dong qu che ku juan lian men	68
+地下二层东区车库空调强切	di xia er ceng dong qu che ku kong tiao qiang qie	67
+地下二层东区车库排烟阀	di xia er ceng dong qu che ku pai yan fa	69
+地下二层东区车库强切	di xia er ceng dong qu che ku qiang qie	92
+地下二层东区车库手报	di xia er ceng dong qu che ku shou bao	73
+地下二层东区车库水流	di xia er ceng dong qu che ku shui liu	71
+地下二层东区车库温感	di xia er ceng dong qu che ku wen gan	86
+地下二层东区车库消火栓	di xia er ceng dong qu che ku xiao huo shuan	72
+地下二层东区车库信号碟阀	di xia er ceng dong qu che ku xin hao die fa	70
+地下二层东区车库烟感	di xia er ceng dong qu che ku yan gan	85
+地下二层东上区车库排烟阀	di xia er ceng dong shang qu che ku pai yan fa	66
+地下二层东下区车库排烟阀	di xia er ceng dong xia qu che ku pai yan fa	65
+地下二层西区车库广播	di xia er ceng xi qu che ku guang bo	78
+地下二层西区车库警铃	di xia er ceng xi qu che ku jing ling	77
+地下二层西区车库卷帘门	di xia er ceng xi qu che ku juan lian men	79
+地下二层西区车库排烟阀	di xia er ceng xi qu che ku pai yan fa	80
+地下二层西区车库强切	di xia er ceng xi qu che ku qiang qie	76
+地下二层西区车库手报	di xia er ceng xi qu che ku shou bao	84
+地下二层西区车库水流	di xia er ceng xi qu che ku shui liu	82
+地下二层西区车库温感	di xia er ceng xi qu che ku wen gan	88
+地下二层西区车库消火栓	di xia er ceng xi qu che ku xiao huo shuan	83
+地下二层西区车库信号碟阀	di xia er ceng xi qu che ku xin hao die fa	81
+地下二层西区车库烟感	di xia er ceng xi qu che ku yan gan	87
+地下二层西上区车库排烟阀	di xia er ceng xi shang qu che ku pai yan fa	75
+地下二层西下区车库排烟阀	di xia er ceng xi xia qu che ku pai yan fa	74
+地下三层车库报警阀	di xia san ceng che ku bao jing fa	54
+地下三层车库广播	di xia san ceng che ku guang bo	53
+地下三层车库警铃	di xia san ceng che ku jing ling	52
+地下三层车库卷帘门	di xia san ceng che ku juan lian men	56
+地下三层东区车库卷帘	di xia san ceng dong qu che ku juan lian	42
+地下三层东区车库排烟阀	di xia san ceng dong qu che ku pai yan fa	58
+地下三层东区车库强切	di xia san ceng dong qu che ku qiang qie	50
+地下三层东区车库手报	di xia san ceng dong qu che ku shou bao	47
+地下三层东区车库水流	di xia san ceng dong qu che ku shui liu	45
+地下三层东区车库温感	di xia san ceng dong qu che ku wen gan	49
+地下三层东区车库消报	di xia san ceng dong qu che ku xiao bao	46
+地下三层东区车库信号	di xia san ceng dong qu che ku xin hao	44
+地下三层东区车库烟感	di xia san ceng dong qu che ku yan gan	48
+地下三层东区车排烟阀	di xia san ceng dong qu che pai yan fa	43
+地下三层西区车库卷帘门	di xia san ceng xi qu che ku juan lian men	55
+地下三层西区车库排烟阀	di xia san ceng xi qu che ku pai yan fa	57
+地下三层西区车库强切	di xia san ceng xi qu che ku qiang qie	51
+地下三层西区车库手报	di xia san ceng xi qu che ku shou bao	62
+地下三层西区车库水流	di xia san ceng xi qu che ku shui liu	60
+地下三层西区车库温感	di xia san ceng xi qu che ku wen gan	64
+地下三层西区车库消报	di xia san ceng xi qu che ku xiao bao	61
+地下三层西区车库信号	di xia san ceng xi qu che ku xin hao	59
+地下三层西区车库烟感	di xia san ceng xi qu che ku yan gan	63
+地下室电梯口送风	di xia shi dian ti kou song feng	429
+地下室电梯厅烟感	di xia shi dian ti ting yan gan	34
+地下室东电梯口送风	di xia shi dong dian ti kou song feng	428
+地下室广播	di xia shi guang bo	644
+地下室警铃	di xia shi jing ling	32
+地下一层车库	di xia yi ceng che ku	35
+地下一层东区车库卷帘门	di xia yi ceng dong qu che ku juan lian men	94
+地下一层东区车库排烟阀	di xia yi ceng dong qu che ku pai yan fa	95
+地下一层东区车库强切	di xia yi ceng dong qu che ku qiang qie	93
+地下一层东区车库手报	di xia yi ceng dong qu che ku shou bao	99
+地下一层东区车库水流	di xia yi ceng dong qu che ku shui liu	97
+地下一层东区车库温感	di xia yi ceng dong qu che ku wen gan	112
+地下一层东区车库消火栓	di xia yi ceng dong qu che ku xiao huo shuan	98
+地下一层东区车库信号碟阀	di xia yi ceng dong qu che ku xin hao die fa	96
+地下一层东区车库烟感	di xia yi ceng dong qu che ku yan gan	111
+地下一层东上区车库排烟阀	di xia yi ceng dong shang qu che ku pai yan fa	89
+地下一层东下区车库排烟阀	di xia yi ceng dong xia qu che ku pai yan fa	90
+地下一层高配房强切	di xia yi ceng gao pei fang qiang qie	91
+地下一层西区车库广播	di xia yi ceng xi qu che ku guang bo	104
+地下一层西区车库警铃	di xia yi ceng xi qu che ku jing ling	103
+地下一层西区车库卷帘门	di xia yi ceng xi qu che ku juan lian men	105
+地下一层西区车库排烟阀	di xia yi ceng xi qu che ku pai yan fa	106
+地下一层西区车库强切	di xia yi ceng xi qu che ku qiang qie	102
+地下一层西区车库手报	di xia yi ceng xi qu che ku shou bao	110
+地下一层西区车库水流	di xia yi ceng xi qu che ku shui liu	108
+地下一层西区车库温感	di xia yi ceng xi qu che ku wen gan	114
+地下一层西区车库消火栓	di xia yi ceng xi qu che ku xiao huo shuan	109
+地下一层西区车库信号碟阀	di xia yi ceng xi qu che ku xin hao die fa	107
+地下一层西区车库烟感	di xia yi ceng xi qu che ku yan gan	113
+地下一层西上区车库排烟阀	di xia yi ceng xi shang qu che ku pai yan fa	100
+地下一层西下区车库排烟阀	di xia yi ceng xi xia qu che ku pai yan fa	101
+地下一层消火栓	di xia yi ceng xiao huo shuan	1
+电梯口手报	dian ti kou shou bao	359
+电梯口消火栓	dian ti kou xiao huo shuan	349
+电梯口烟感	dian ti kou yan gan	332
+电梯迫降	dian ti po jiang	795
+电梯前室温感	dian ti qian shi wen gan	364
+电梯前室烟感	dian ti qian shi yan gan	405
+电梯厅温感	dian ti ting wen gan	281
+电梯厅烟感	dian ti ting yan gan	282
+顶层电梯机房烟感	ding ceng dian ti ji fang yan gan	666
+顶层电梯迫降	ding ceng dian ti po jiang	658
+顶层东电梯房烟感	ding ceng dong dian ti fang yan gan	662
+顶层东电梯迫降	ding ceng dong dian ti po jiang	656
+顶层东梯烟感	ding ceng dong ti yan gan	663
+顶层东总排烟阀	ding ceng dong zong pai yan fa	660
+顶层广播	ding ceng guang bo	653
+顶层强电间烟感	ding ceng qiang dian jian yan gan	664
+顶层强切	ding ceng qiang qie	654
+顶层设备间烟感	ding ceng she bei jian yan gan	667
+顶层消报	ding ceng xiao bao	661
+顶层新风机	ding ceng xin feng ji	659
+顶层中梯烟感	ding ceng zhong ti yan gan	655
+顶层中总排烟阀	ding ceng zhong zong pai yan fa	657
+顶层总排烟阀	ding ceng zong pai yan fa	799
+顶层走道烟感	ding ceng zou dao yan gan	665
+东北排烟阀	dong bei pai yan fa	261
+东北手报	dong bei shou bao	276
+东道烟感	dong dao yan gan	7
+东电梯间烟感	dong dian ti jian yan gan	6
+东电梯厅消火栓	dong dian ti ting xiao huo shuan	4
+东卷帘门	dong juan lian men	397
+动力中心大厅东手报	dong li zhong xin da ting dong shou bao	303
+动力中心大厅温感	dong li zhong xin da ting wen gan	305
+动力中心大厅西手报	dong li zhong xin da ting xi shou bao	302
+动力中心大厅中手报	dong li zhong xin da ting zhong shou bao	301
+动力中心东手报	dong li zhong xin dong shou bao	296
+动力中心警铃	dong li zhong xin jing ling	294
+动力中心排风机	dong li zhong xin pai feng ji	295
+动力中心梯烟感	dong li zhong xin ti yan gan	299
+动力中心西手报	dong li zhong xin xi shou bao	297
+动力中心油泵间温感	dong li zhong xin you beng jian wen gan	304
+动力中心油泵强切	dong li zhong xin you beng qiang qie	300
+动力中心油箱间温感	dong li zhong xin you xiang jian wen gan	298
+东南消火栓	dong nan xiao huo shuan	266
+东排烟阀	dong pai yan fa	262
+东排烟风机	dong pai yan feng ji	41
+东强电间烟感	dong qiang dian jian yan gan	9
+东弱电间烟感	dong ruo dian jian yan gan	8
+东手报	dong shou bao	322
+东送风梯口	dong song feng ti kou	40
+东送风梯走道	dong song feng ti zou dao	39
+东梯北消火栓	dong ti bei xiao huo shuan	268
+东梯东消火栓	dong ti dong xiao huo shuan	267
+东梯南消火栓	dong ti nan xiao huo shuan	249
+东梯前室正压风阀	dong ti qian shi zheng ya feng fa	257
+东消火栓	dong xiao huo shuan	320
+二层北走道烟感	er ceng bei zou dao yan gan	456
+二层北走廊手报	er ceng bei zou lang shou bao	217
+二层北走廊消火栓	er ceng bei zou lang xiao huo shuan	208
+二层北走廊烟感	er ceng bei zou lang yan gan	242
+二层北作业间手报	er ceng bei zuo ye jian shou bao	449
+二层北作业间烟感	er ceng bei zuo ye jian yan gan	461
+二层餐厅包厢烟感	er ceng can ting bao xiang yan gan	244
+二层餐厅北排烟阀	er ceng can ting bei pai yan fa	190
+二层餐厅北手报	er ceng can ting bei shou bao	219
+二层餐厅北消火栓	er ceng can ting bei xiao huo shuan	198
+二层餐厅大堂卷帘门	er ceng can ting da tang juan lian men	176
+二层餐厅西手报	er ceng can ting xi shou bao	218
+二层餐厅西消火栓	er ceng can ting xi xiao huo shuan	209
+二层餐厅消火栓	er ceng can ting xiao huo shuan	211
+二层餐厅烟感	er ceng can ting yan gan	245
+二层茶水间北排烟阀	er ceng cha shui jian bei pai yan fa	182
+二层茶水间排烟阀	er ceng cha shui jian pai yan fa	184
+二层茶水间消火栓	er ceng cha shui jian xiao huo shuan	203
+二层茶水间烟感	er ceng cha shui jian yan gan	225
+二层超市北消火栓	er ceng chao shi bei xiao huo shuan	200
+二层超市南消火栓	er ceng chao shi nan xiao huo shuan	199
+二层超市水流指示器	er ceng chao shi shui liu zhi shi qi	194
+二层超市外北温感	er ceng chao shi wai bei wen gan	223
+二层超市信号碟阀	er ceng chao shi xin hao die fa	193
+二层超市烟感	er ceng chao shi yan gan	222
+二层储藏室烟感	er ceng chu cang shi yan gan	460
+二层厨房温感	er ceng chu fang wen gan	246
+二层厨房消火栓	er ceng chu fang xiao huo shuan	210
+二层大会议室手报	er ceng da hui yi shi shou bao	214
+二层大会议室外消火栓	er ceng da hui yi shi wai xiao huo shuan	202
+二层大会议室外烟感	er ceng da hui yi shi wai yan gan	224
+二层大会议室烟感	er ceng da hui yi shi yan gan	227
+二层大堂会议室卷帘门	er ceng da tang hui yi shi juan lian men	178
+二层大堂手报	er ceng da tang shou bao	212
+二层大堂烟感	er ceng da tang yan gan	221
+二层大厅烟感	er ceng da ting yan gan	771
+二层电梯厅卷帘门	er ceng dian ti ting juan lian men	177
+二层电梯厅南口手报	er ceng dian ti ting nan kou shou bao	213
+二层电梯厅烟感	er ceng dian ti ting yan gan	241
+二层东电梯口手报	er ceng dong dian ti kou shou bao	452
+二层东电梯口消报	er ceng dong dian ti kou xiao bao	444
+二层东电梯口烟感	er ceng dong dian ti kou yan gan	453
+二层东电梯口正压送风	er ceng dong dian ti kou zheng ya song feng	439
+二层东面排烟阀	er ceng dong mian pai yan fa	760
+二层东面手报	er ceng dong mian shou bao	768
+二层东面消报	er ceng dong mian xiao bao	765
+二层东排烟阀	er ceng dong pai yan fa	711
+二层东排烟总阀	er ceng dong pai yan zong fa	411
+二层东手报	er ceng dong shou bao	727
+二层东梯北排烟阀	er ceng dong ti bei pai yan fa	183
+二层东梯北走廊烟感	er ceng dong ti bei zou lang yan gan	243
+二层东梯口手报	er ceng dong ti kou shou bao	712
+二层东梯前室排烟阀	er ceng dong ti qian shi pai yan fa	189
+二层东梯外排烟阀	er ceng dong ti wai pai yan fa	188
+二层东消报	er ceng dong xiao bao	723
+二层东走道南水流指示器	er ceng dong zou dao nan shui liu zhi shi qi	196
+二层东走道南信号碟阀	er ceng dong zou dao nan xin hao die fa	195
+二层东走道手报	er ceng dong zou dao shou bao	450
+二层东走道消报	er ceng dong zou dao xiao bao	447
+二层东走道烟感	er ceng dong zou dao yan gan	457
+二层东作业间烟感	er ceng dong zuo ye jian yan gan	462
+二层风机房烟感	er ceng feng ji fang yan gan	704
+二层广播	er ceng guang bo	646
+二层警铃	er ceng jing ling	762
+二层空调机房温感	er ceng kong tiao ji fang wen gan	234
+二层库房烟感	er ceng ku fang yan gan	233
+二层男厕烟感	er ceng nan ce yan gan	237
+二层南作业间手报	er ceng nan zuo ye jian shou bao	451
+二层南作业间消报	er ceng nan zuo ye jian xiao bao	445
+二层南作业间烟感	er ceng nan zuo ye jian yan gan	454
+二层女厕排烟阀	er ceng nv ce pai yan fa	185
+二层女厕烟感	er ceng nv ce yan gan	236
+二层排烟口	er ceng pai yan kou	440
+二层配电室烟感	er ceng pei dian shi yan gan	772
+二层强电间烟感	er ceng qiang dian jian yan gan	773
+二层强切	er ceng qiang qie	734
+二层弱电间前烟感	er ceng ruo dian jian qian yan gan	463
+二层弱电间烟感	er ceng ruo dian jian yan gan	728
+二层弱电井烟感	er ceng ruo dian jing yan gan	775
+二层视讯会议室手报	er ceng shi xun hui yi shi shou bao	215
+二层视讯会议室水流	er ceng shi xun hui yi shi shui liu	192
+二层视讯会议室信号阀	er ceng shi xun hui yi shi xin hao fa	191
+二层视讯会议室烟感	er ceng shi xun hui yi shi yan gan	230
+二层水流	er ceng shui liu	443
+二层水流指示器	er ceng shui liu zhi shi qi	764
+二层梯送风口	er ceng ti song feng kou	437
+二层梯外排烟阀	er ceng ti wai pai yan fa	179
+二层梯外手报	er ceng ti wai shou bao	220
+二层梯外烟感	er ceng ti wai yan gan	228
+二层温感	er ceng wen gan	239
+二层西面排烟阀	er ceng xi mian pai yan fa	761
+二层西面手报	er ceng xi mian shou bao	767
+二层西面消报	er ceng xi mian xiao bao	766
+二层西排烟阀	er ceng xi pai yan fa	720
+二层西手报	er ceng xi shou bao	726
+二层西梯北走廊消火栓	er ceng xi ti bei zou lang xiao huo shuan	207
+二层西梯北走廊烟感	er ceng xi ti bei zou lang yan gan	238
+二层西梯口手报	er ceng xi ti kou shou bao	700
+二层西梯前室排烟阀	er ceng xi ti qian shi pai yan fa	187
+二层西梯外排烟阀	er ceng xi ti wai pai yan fa	186
+二层西消报	er ceng xi xiao bao	724
+二层西走道手报	er ceng xi zou dao shou bao	725
+二层西走道消报	er ceng xi zou dao xiao bao	448
+二层西走道烟感	er ceng xi zou dao yan gan	458
+二层西作业间烟感	er ceng xi zuo ye jian yan gan	455
+二层小会议室烟感	er ceng xiao hui yi shi yan gan	226
+二层消火栓	er ceng xiao huo shuan	204
+二层小水流指示器	er ceng xiao shui liu zhi shi qi	722
+二层小信号碟阀	er ceng xiao xin hao die fa	721
+二层新风机房	er ceng xin feng ji fang	410
+二层新风机房烟感	er ceng xin feng ji fang yan gan	770
+二层新风机外烟感	er ceng xin feng ji wai yan gan	769
+二层新风室外烟感	er ceng xin feng shi wai yan gan	713
+二层信号碟阀	er ceng xin hao die fa	763
+二层信号阀	er ceng xin hao fa	442
+二层训练教室烟感	er ceng xun lian jiao shi yan gan	231
+二层烟感	er ceng yan gan	240
+二层演讲厅烟感	er ceng yan jiang ting yan gan	232
+二层中电梯口送风	er ceng zhong dian ti kou song feng	436
+二层中电梯口消报	er ceng zhong dian ti kou xiao bao	446
+二层中电梯口烟感	er ceng zhong dian ti kou yan gan	459
+二层中会议室外排烟阀	er ceng zhong hui yi shi wai pai yan fa	180
+二层中会议室外消火栓	er ceng zhong hui yi shi wai xiao huo shuan	205
+二层中会议室烟感	er ceng zhong hui yi shi yan gan	229
+二层中梯送风	er ceng zhong ti song feng	434
+二层中总排烟阀	er ceng zhong zong pai yan fa	441
+二层自动贩卖机东消火栓	er ceng zi dong fan mai ji dong xiao huo shuan	197
+二层自动贩卖机西消火栓	er ceng zi dong fan mai ji xi xiao huo shuan	201
+二层走道烟感	er ceng zou dao yan gan	774
+二层走廊排烟阀	er ceng zou lang pai yan fa	181
+二层走廊手报	er ceng zou lang shou bao	216
+二层走廊消火栓	er ceng zou lang xiao huo shuan	206
+二层走廊烟感	er ceng zou lang yan gan	235
+防化通信房烟感	fang hua tong xin fang yan gan	406
+防火卷帘门	fang huo juan lian men	260
+防火区东手报	fang huo qu dong shou bao	401
+防火区手报	fang huo qu shou bao	400
+防火区温感	fang huo qu wen gan	409
+防火区西手报	fang huo qu xi shou bao	403
+防火区中手报	fang huo qu zhong shou bao	402
+风机房口消火栓	feng ji fang kou xiao huo shuan	352
+风机房前手报	feng ji fang qian shou bao	358
+风机房烟感	feng ji fang yan gan	408
+钢瓶间前消报	gang ping jian qian xiao bao	317
+钢瓶间烟感	gang ping jian yan gan	328
+高空风机	gao kong feng ji	5
+隔油间烟感	ge you jian yan gan	377
+更衣室烟感	geng yi shi yan gan	30
+工具间烟感	gong ju jian yan gan	369
+广播	guang bo	259
+过道手报	guo dao shou bao	356
+号变电站旁消报	hao bian dian zhan pang xiao bao	319
+号变点站温感	hao bian dian zhan wen gan	326
+号变电站温感	hao bian dian zhan wen gan	311
+号变点站烟感	hao bian dian zhan yan gan	334
+号变电站烟感	hao bian dian zhan yan gan	323
+号风机	hao feng ji	2
+号配电室温感	hao pei dian shi wen gan	325
+号配电室烟感	hao pei dian shi yan gan	330
+后勤水流	hou qin shui liu	20
+后勤信号蝶阀	hou qin xin hao die fa	21
+后勤烟感	hou qin yan gan	28
+机电空调间温感	ji dian kong tiao jian wen gan	279
+警铃	jing ling	314
+酒吧烟感	jiu ba yan gan	14
+卷帘门	juan lian men	345
+卷帘门旁烟感	juan lian men pang yan gan	329
+卷帘旁温感	juan lian pang wen gan	324
+咖啡厅烟感	ka fei ting yan gan	15
+库房温感	ku fang wen gan	372
+库房烟感	ku fang yan gan	383
+六层北走道烟感	liu ceng bei zou dao yan gan	638
+六层储藏室烟感	liu ceng chu cang shi yan gan	642
+六层东电梯口送风	liu ceng dong dian ti kou song feng	416
+六层东南电梯口手报	liu ceng dong nan dian ti kou shou bao	629
+六层东南电梯口消报	liu ceng dong nan dian ti kou xiao bao	620
+六层东南电梯口烟感	liu ceng dong nan dian ti kou yan gan	631
+六层东排烟阀	liu ceng dong pai yan fa	614
+六层东梯送风	liu ceng dong ti song feng	413
+六层东新风机	liu ceng dong xin feng ji	577
+六层东新风机房烟感	liu ceng dong xin feng ji fang yan gan	632
+六层东走道手报	liu ceng dong zou dao shou bao	627
+六层东走道消报	liu ceng dong zou dao xiao bao	623
+六层东走道烟感	liu ceng dong zou dao yan gan	639
+六层东作业间烟感	liu ceng dong zuo ye jian yan gan	634
+六层广播	liu ceng guang bo	650
+六层警铃	liu ceng jing ling	617
+六层南作业间手报	liu ceng nan zuo ye jian shou bao	628
+六层南作业间消报	liu ceng nan zuo ye jian xiao bao	621
+六层南作业间烟感	liu ceng nan zuo ye jian yan gan	636
+六层排烟口	liu ceng pai yan kou	615
+六层强电间烟感	liu ceng qiang dian jian yan gan	630
+六层强切	liu ceng qiang qie	576
+六层弱电间前烟感	liu ceng ruo dian jian qian yan gan	633
+六层弱电间烟感	liu ceng ruo dian jian yan gan	643
+六层水流	liu ceng shui liu	619
+六层西走道手报	liu ceng xi zou dao shou bao	626
+六层西走道消报	liu ceng xi zou dao xiao bao	624
+六层西走道烟感	liu ceng xi zou dao yan gan	640
+六层西作业间手报	liu ceng xi zuo ye jian shou bao	625
+六层西作业间烟感	liu ceng xi zuo ye jian yan gan	637
+六层消防电梯前室烟感	liu ceng xiao fang dian ti qian shi yan gan	641
+六层新风机	liu ceng xin feng ji	583
+六层新风机房烟感	liu ceng xin feng ji fang yan gan	635
+六层信号阀	liu ceng xin hao fa	618
+六层中电梯口送风	liu ceng zhong dian ti kou song feng	422
+六层中电梯口消报	liu ceng zhong dian ti kou xiao bao	622
+六层中排烟阀	liu ceng zhong pai yan fa	616
+六层中梯送风	liu ceng zhong ti song feng	419
+煤气表房探测	mei qi biao fang tan ce	387
+煤气探测	mei qi tan ce	389
+门厅烟感	men ting yan gan	27
+男更衣室烟感	nan geng yi shi yan gan	380
+南区东手报	nan qu dong shou bao	277
+南区西手报	nan qu xi shou bao	273
+南区中手报	nan qu zhong shou bao	278
+女更衣室烟感	nv geng yi shi yan gan	381
+排风机	pai feng ji	340
+排风机房烟感	pai feng ji fang yan gan	336
+排烟风机	pai yan feng ji	291
+配电间烟感	pei dian jian yan gan	331
+配电室烟感	pei dian shi yan gan	335
+喷淋泵	pen lin beng	292
+七层	qi ceng	606
+七层北走道烟感	qi ceng bei zou dao yan gan	607
+七层北作业间手报	qi ceng bei zuo ye jian shou bao	592
+七层北作业间烟感	qi ceng bei zuo ye jian yan gan	605
+七层储藏室烟感	qi ceng chu cang shi yan gan	612
+七层电梯口消报	qi ceng dian ti kou xiao bao	587
+七层电梯口烟感	qi ceng dian ti kou yan gan	609
+七层东电梯口手报	qi ceng dong dian ti kou shou bao	596
+七层东电梯口送风	qi ceng dong dian ti kou song feng	415
+七层东电梯前烟感	qi ceng dong dian ti qian yan gan	597
+七层东消报	qi ceng dong xiao bao	575
+七层东新风机	qi ceng dong xin feng ji	578
+七层东走道手报	qi ceng dong zou dao shou bao	595
+七层东走道消报	qi ceng dong zou dao xiao bao	586
+七层东走道烟感	qi ceng dong zou dao yan gan	608
+七层东作业间烟感	qi ceng dong zuo ye jian yan gan	602
+七层广播	qi ceng guang bo	651
+七层警铃	qi ceng jing ling	591
+七层南风机房烟感	qi ceng nan feng ji fang yan gan	599
+七层南作业间手报	qi ceng nan zuo ye jian shou bao	594
+七层南作业间消报	qi ceng nan zuo ye jian xiao bao	588
+七层南作业间烟感	qi ceng nan zuo ye jian yan gan	598
+七层排烟口	qi ceng pai yan kou	589
+七层强电间烟感	qi ceng qiang dian jian yan gan	600
+七层强切	qi ceng qiang qie	579
+七层弱电间前烟感	qi ceng ruo dian jian qian yan gan	601
+七层弱电间烟感	qi ceng ruo dian jian yan gan	613
+七层水流	qi ceng shui liu	581
+七层西走道手报	qi ceng xi zou dao shou bao	593
+七层西走道消报	qi ceng xi zou dao xiao bao	584
+七层西走道烟感	qi ceng xi zou dao yan gan	610
+七层西作业间烟感	qi ceng xi zuo ye jian yan gan	604
+七层新风机	qi ceng xin feng ji	582
+七层新风机房烟感	qi ceng xin feng ji fang yan gan	603
+七层信号阀	qi ceng xin hao fa	580
+七层中电梯口送风	qi ceng zhong dian ti kou song feng	421
+七层中电梯口消报	qi ceng zhong dian ti kou xiao bao	585
+七层中电梯口烟感	qi ceng zhong dian ti kou yan gan	611
+七层中排烟阀	qi ceng zhong pai yan fa	590
+强电间强切	qiang dian jian qiang qie	19
+强电间烟感	qiang dian jian yan gan	366
+强切	qiang qie	247
+区储藏室烟感	qu chu cang shi yan gan	394
+区出口温感	qu chu kou wen gan	371
+区出口烟感	qu chu kou yan gan	375
+区卷帘旁温感	qu juan lian pang wen gan	392
+区卷帘旁烟感	qu juan lian pang yan gan	391
+区排烟阀	qu pai yan fa	343
+区排烟口	qu pai yan kou	344
+区温感	qu wen gan	393
+区应急电切换	qu ying ji dian qie huan	395
+区应急电源切换	qu ying ji dian yuan qie huan	341
+热水设备间温感	re shui she bei jian wen gan	376
+弱电间警铃	ruo dian jian jing ling	18
+弱电间烟感	ruo dian jian yan gan	367
+弱电进线室烟感	ruo dian jin xian shi yan gan	373
+弱电井烟感	ruo dian jing yan gan	283
+三层北走道烟感	san ceng bei zou dao yan gan	513
+三层北作业间手报	san ceng bei zuo ye jian shou bao	506
+三层北作业间烟感	san ceng bei zuo ye jian yan gan	518
+三层厕所旁消报	san ceng ce suo pang xiao bao	832
+三层储藏室烟感	san ceng chu cang shi yan gan	517
+三层大厅东排烟阀	san ceng da ting dong pai yan fa	827
+三层大厅东手报	san ceng da ting dong shou bao	837
+三层大厅东消报	san ceng da ting dong xiao bao	833
+三层大厅西排烟阀	san ceng da ting xi pai yan fa	828
+三层大厅西手报	san ceng da ting xi shou bao	839
+三层大厅西消报	san ceng da ting xi xiao bao	834
+三层大厅烟感	san ceng da ting yan gan	842
+三层大厅中手报	san ceng da ting zhong shou bao	838
+三层电梯口手报	san ceng dian ti kou shou bao	836
+三层电梯口烟感	san ceng dian ti kou yan gan	845
+三层东电梯口手报	san ceng dong dian ti kou shou bao	509
+三层东电梯口消报	san ceng dong dian ti kou xiao bao	501
+三层东电梯口烟感	san ceng dong dian ti kou yan gan	510
+三层东排烟阀	san ceng dong pai yan fa	751
+三层东排烟总阀	san ceng dong pai yan zong fa	466
+三层东手报	san ceng dong shou bao	757
+三层东梯口手报	san ceng dong ti kou shou bao	709
+三层东梯送风	san ceng dong ti song feng	438
+三层东消报	san ceng dong xiao bao	753
+三层东走道手报	san ceng dong zou dao shou bao	507
+三层东走道消报	san ceng dong zou dao xiao bao	503
+三层东走道烟感	san ceng dong zou dao yan gan	514
+三层东作业间烟感	san ceng dong zuo ye jian yan gan	519
+三层风机房烟感	san ceng feng ji fang yan gan	703
+三层广播	san ceng guang bo	647
+三层警铃	san ceng jing ling	829
+三层门厅消报	san ceng men ting xiao bao	835
+三层门厅烟感	san ceng men ting yan gan	843
+三层南作业间手报	san ceng nan zuo ye jian shou bao	508
+三层南作业间消报	san ceng nan zuo ye jian xiao bao	502
+三层南作业间烟感	san ceng nan zuo ye jian yan gan	511
+三层排烟口	san ceng pai yan kou	499
+三层强电间烟感	san ceng qiang dian jian yan gan	844
+三层强切	san ceng qiang qie	798
+三层弱电间前烟感	san ceng ruo dian jian qian yan gan	520
+三层弱电间烟感	san ceng ruo dian jian yan gan	846
+三层弱电井烟感	san ceng ruo dian jing yan gan	710
+三层水流	san ceng shui liu	811
+三层水流指示器	san ceng shui liu zhi shi qi	831
+三层西排烟阀	san ceng xi pai yan fa	752
+三层西手报	san ceng xi shou bao	756
+三层西梯口手报	san ceng xi ti kou shou bao	699
+三层西消报	san ceng xi xiao bao	754
+三层西走道手报	san ceng xi zou dao shou bao	755
+三层西走道消报	san ceng xi zou dao xiao bao	505
+三层西走道烟感	san ceng xi zou dao yan gan	515
+三层西作业间烟感	san ceng xi zuo ye jian yan gan	512
+三层新风机	san ceng xin feng ji	467
+三层新风机房烟感	san ceng xin feng ji fang yan gan	840
+三层新风机外烟感	san ceng xin feng ji wai yan gan	758
+三层新风室外烟感	san ceng xin feng shi wai yan gan	841
+三层信号碟阀	san ceng xin hao die fa	830
+三层信号阀	san ceng xin hao fa	810
+三层中电梯口送风	san ceng zhong dian ti kou song feng	435
+三层中电梯口消报	san ceng zhong dian ti kou xiao bao	504
+三层中电梯口烟感	san ceng zhong dian ti kou yan gan	516
+三层中总排烟阀	san ceng zhong zong pai yan fa	500
+三层走道烟感	san ceng zou dao yan gan	759
+商业警铃	shang ye jing ling	33
+湿式报警阀旁烟感	shi shi bao jing fa pang yan gan	333
+湿式阀间信号阀	shi shi fa jian xin hao fa	313
+湿式阀间烟感	shi shi fa jian yan gan	312
+手报	shou bao	321
+水泵房口手报	shui beng fang kou shou bao	360
+水泵房信号阀	shui beng fang xin hao fa	346
+水泵房烟感	shui beng fang yan gan	374
+水流	shui liu	348
+水流指示器	shui liu zhi shi qi	272
+四层北走道烟感	si ceng bei zou dao yan gan	541
+四层北作业间手报	si ceng bei zuo ye jian shou bao	532
+四层北作业间烟感	si ceng bei zuo ye jian yan gan	545
+四层厕所旁消报	si ceng ce suo pang xiao bao	813
+四层储藏室烟感	si ceng chu cang shi yan gan	544
+四层大厅东手报	si ceng da ting dong shou bao	817
+四层大厅西手报	si ceng da ting xi shou bao	819
+四层大厅西消报	si ceng da ting xi xiao bao	814
+四层大厅烟感	si ceng da ting yan gan	822
+四层大厅中手报	si ceng da ting zhong shou bao	818
+四层电梯口手报	si ceng dian ti kou shou bao	816
+四层电梯口烟感	si ceng dian ti kou yan gan	825
+四层东储藏室烟感	si ceng dong chu cang shi yan gan	538
+四层东电梯口手报	si ceng dong dian ti kou shou bao	535
+四层东电梯口送风	si ceng dong dian ti kou song feng	427
+四层东电梯口消报	si ceng dong dian ti kou xiao bao	527
+四层东电梯口烟感	si ceng dong dian ti kou yan gan	536
+四层东面消报	si ceng dong mian xiao bao	743
+四层东排烟阀	si ceng dong pai yan fa	809
+四层东手报	si ceng dong shou bao	747
+四层东梯口手报	si ceng dong ti kou shou bao	707
+四层东梯送风	si ceng dong ti song feng	426
+四层东消报	si ceng dong xiao bao	717
+四层东新风机房烟感	si ceng dong xin feng ji fang yan gan	537
+四层东走道手报	si ceng dong zou dao shou bao	534
+四层东走道消报	si ceng dong zou dao xiao bao	530
+四层东走道烟感	si ceng dong zou dao yan gan	542
+四层东作业间烟感	si ceng dong zuo ye jian yan gan	546
+四层风机房烟感	si ceng feng ji fang yan gan	708
+四层警铃	si ceng jing ling	812
+四层门厅消报	si ceng men ting xiao bao	815
+四层门厅烟感	si ceng men ting yan gan	823
+四层南作业间手报	si ceng nan zuo ye jian shou bao	533
+四层南作业间消报	si ceng nan zuo ye jian xiao bao	528
+四层南作业间烟感	si ceng nan zuo ye jian yan gan	539
+四层排烟口	si ceng pai yan kou	523
+四层强电间烟感	si ceng qiang dian jian yan gan	824
+四层强切	si ceng qiang qie	797
+四层弱电间前烟感	si ceng ruo dian jian qian yan gan	547
+四层弱电间烟感	si ceng ruo dian jian yan gan	826
+四层弱电井烟感	si ceng ruo dian jing yan gan	750
+四层水流	si ceng shui liu	526
+四层水流指示器	si ceng shui liu zhi shi qi	793
+四层西面消报	si ceng xi mian xiao bao	744
+四层西排烟阀	si ceng xi pai yan fa	808
+四层西手报	si ceng xi shou bao	746
+四层西梯口手报	si ceng xi ti kou shou bao	698
+四层西消报	si ceng xi xiao bao	718
+四层西走道手报	si ceng xi zou dao shou bao	745
+四层西走道消报	si ceng xi zou dao xiao bao	531
+四层西走道烟感	si ceng xi zou dao yan gan	749
+四层西作业间烟感	si ceng xi zuo ye jian yan gan	540
+四层新风机	si ceng xin feng ji	522
+四层新风机房烟感	si ceng xin feng ji fang yan gan	820
+四层新风机外烟感	si ceng xin feng ji wai yan gan	748
+四层新风室外烟感	si ceng xin feng shi wai yan gan	821
+四层信号碟阀	si ceng xin hao die fa	792
+四层信号阀	si ceng xin hao fa	525
+四层中电梯口送风	si ceng zhong dian ti kou song feng	425
+四层中电梯口消报	si ceng zhong dian ti kou xiao bao	529
+四层中电梯口烟感	si ceng zhong dian ti kou yan gan	543
+四层中排烟阀	si ceng zhong pai yan fa	524
+四层中梯送风	si ceng zhong ti song feng	424
+四层走道烟感	si ceng zou dao yan gan	719
+四六层广播	si liu ceng guang bo	648
+送风机	song feng ji	396
+送风机房烟感	song feng ji fang yan gan	404
+突一层电梯机房手报	tu yi ceng dian ti ji fang shou bao	289
+突一层电梯机房烟感	tu yi ceng dian ti ji fang yan gan	286
+突一层电梯迫降	tu yi ceng dian ti po jiang	254
+突一层电梯迫降到顶	tu yi ceng dian ti po jiang dao ding	255
+突一层梯间排烟阀	tu yi ceng ti jian pai yan fa	256
+突一层梯间手报	tu yi ceng ti jian shou bao	290
+突一层消防电梯房正压送风口	tu yi ceng xiao fang dian ti fang zheng ya song feng kou	252
+突一层消防电梯机房强切	tu yi ceng xiao fang dian ti ji fang qiang qie	250
+突一层消防电梯机房烟感	tu yi ceng xiao fang dian ti ji fang yan gan	288
+突一层消防电梯迫降	tu yi ceng xiao fang dian ti po jiang	253
+突一层烟感	tu yi ceng yan gan	287
+突一层正压风送口	tu yi ceng zheng ya feng song kou	251
+网络空调室烟感	wang luo kong tiao shi yan gan	284
+五层北走道烟感	wu ceng bei zou dao yan gan	570
+五层储藏室烟感	wu ceng chu cang shi yan gan	574
+五层大厅烟感	wu ceng da ting yan gan	740
+五层电梯口手报	wu ceng dian ti kou shou bao	794
+五层电梯口烟感	wu ceng dian ti kou yan gan	806
+五层东电梯口送风	wu ceng dong dian ti kou song feng	417
+五层东南电梯口手报	wu ceng dong nan dian ti kou shou bao	562
+五层东南电梯口消报	wu ceng dong nan dian ti kou xiao bao	553
+五层东南电梯口烟感	wu ceng dong nan dian ti kou yan gan	563
+五层东排烟阀	wu ceng dong pai yan fa	548
+五层东新风机房烟感	wu ceng dong xin feng ji fang yan gan	564
+五层东总排烟阀	wu ceng dong zong pai yan fa	737
+五层东走道手报	wu ceng dong zou dao shou bao	560
+五层东走道消报	wu ceng dong zou dao xiao bao	556
+五层东走道烟感	wu ceng dong zou dao yan gan	571
+五层东作业间烟感	wu ceng dong zuo ye jian yan gan	566
+五层广播	wu ceng guang bo	649
+五层警铃	wu ceng jing ling	801
+五层南作业间手报	wu ceng nan zuo ye jian shou bao	561
+五层南作业间消报	wu ceng nan zuo ye jian xiao bao	554
+五层南作业间烟感	wu ceng nan zuo ye jian yan gan	568
+五层排烟口	wu ceng pai yan kou	549
+五层强电间外消报	wu ceng qiang dian jian wai xiao bao	791
+五层强电间烟感	wu ceng qiang dian jian yan gan	804
+五层强切	wu ceng qiang qie	796
+五层弱电间前烟感	wu ceng ruo dian jian qian yan gan	565
+五层弱电间烟感	wu ceng ruo dian jian yan gan	807
+五层弱电井烟感	wu ceng ruo dian jing yan gan	742
+五层手报	wu ceng shou bao	706
+五层水流	wu ceng shui liu	552
+五层梯口烟感	wu ceng ti kou yan gan	741
+五层梯烟感	wu ceng ti yan gan	802
+五层通信机房烟感	wu ceng tong xin ji fang yan gan	803
+五层西手报	wu ceng xi shou bao	739
+五层西消报	wu ceng xi xiao bao	738
+五层西总排烟阀	wu ceng xi zong pai yan fa	736
+五层西走道手报	wu ceng xi zou dao shou bao	559
+五层西走道消报	wu ceng xi zou dao xiao bao	557
+五层西走道烟感	wu ceng xi zou dao yan gan	572
+五层西作业间手报	wu ceng xi zuo ye jian shou bao	558
+五层西作业间烟感	wu ceng xi zuo ye jian yan gan	569
+五层消报	wu ceng xiao bao	716
+五层消防电梯前室烟感	wu ceng xiao fang dian ti qian shi yan gan	573
+五层新风机	wu ceng xin feng ji	521
+五层新风机房烟感	wu ceng xin feng ji fang yan gan	567
+五层信号阀	wu ceng xin hao fa	551
+五层中电梯口送风	wu ceng zhong dian ti kou song feng	423
+五层中电梯口消报	wu ceng zhong dian ti kou xiao bao	555
+五层中排烟阀	wu ceng zhong pai yan fa	550
+五层总排烟阀	wu ceng zong pai yan fa	800
+五层走道烟感	wu ceng zou dao yan gan	805
+西北排烟阀	xi bei pai yan fa	263
+西北手报	xi bei shou bao	274
+西道烟感	xi dao yan gan	11
+西电梯间烟感	xi dian ti jian yan gan	10
+西电梯厅消火栓	xi dian ti ting xiao huo shuan	3
+西卷帘门	xi juan lian men	398
+西南消火栓	xi nan xiao huo shuan	265
+西排烟阀	xi pai yan fa	264
+西排烟风机	xi pai yan feng ji	38
+西强电间烟感	xi qiang dian jian yan gan	12
+西弱电间烟感	xi ruo dian jian yan gan	13
+洗手台消火栓	xi shou tai xiao huo shuan	355
+西送风梯口	xi song feng ti kou	37
+西送风梯走道	xi song feng ti zou dao	36
+西梯北消火栓	xi ti bei xiao huo shuan	269
+西梯南消火栓	xi ti nan xiao huo shuan	248
+西梯前室正压风阀	xi ti qian shi zheng ya feng fa	258
+西梯西消火栓	xi ti xi xiao huo shuan	270
+洗碗间烟感	xi wan jian yan gan	384
+消报	xiao bao	307
+消防泵	xiao fang beng	293
+消火栓	xiao huo shuan	399
+信号碟阀	xin hao die fa	271
+信号阀	xin hao fa	347
+休息区烟感	xiu xi qu yan gan	26
+烟感	yan gan	285
+一层办公区烟感	yi ceng ban gong qu yan gan	154
+一层办公室烟感	yi ceng ban gong shi yan gan	153
+一层北走道手报	yi ceng bei zou dao shou bao	143
+一层北走道消报	yi ceng bei zou dao xiao bao	464
+一层北走道烟感	yi ceng bei zou dao yan gan	495
+一层北作业间烟感	yi ceng bei zuo ye jian yan gan	488
+一层茶水间烟感	yi ceng cha shui jian yan gan	163
+一层茶水区南消火栓	yi ceng cha shui qu nan xiao huo shuan	133
+一层茶水区南烟感	yi ceng cha shui qu nan yan gan	157
+一层茶水区手报	yi ceng cha shui qu shou bao	141
+一层茶水区消火栓	yi ceng cha shui qu xiao huo shuan	132
+一层茶水区烟感	yi ceng cha shui qu yan gan	161
+一层储藏室烟感	yi ceng chu cang shi yan gan	498
+一层大堂扶梯口消火栓	yi ceng da tang fu ti kou xiao huo shuan	128
+一层大堂南消火栓	yi ceng da tang nan xiao huo shuan	129
+一层大厅东手报	yi ceng da ting dong shou bao	784
+一层大厅东消报	yi ceng da ting dong xiao bao	781
+一层大厅西手报	yi ceng da ting xi shou bao	783
+一层大厅西消报	yi ceng da ting xi xiao bao	780
+一层大厅西新风机	yi ceng da ting xi xin feng ji	848
+一层大厅烟感	yi ceng da ting yan gan	789
+一层电梯厅北手报	yi ceng dian ti ting bei shou bao	144
+一层电梯厅北烟感	yi ceng dian ti ting bei yan gan	171
+一层电梯厅南口手报	yi ceng dian ti ting nan kou shou bao	140
+一层电梯厅南口消火栓	yi ceng dian ti ting nan kou xiao huo shuan	127
+一层电梯厅南水流指示器	yi ceng dian ti ting nan shui liu zhi shi qi	124
+一层电梯厅南消火栓	yi ceng dian ti ting nan xiao huo shuan	131
+一层电梯厅南信号碟阀	yi ceng dian ti ting nan xin hao die fa	123
+一层电梯厅烟感	yi ceng dian ti ting yan gan	170
+一层电信间烟感	yi ceng dian xin jian yan gan	491
+一层东北作业间烟感	yi ceng dong bei zuo ye jian yan gan	489
+一层东电梯口手报	yi ceng dong dian ti kou shou bao	482
+一层东电梯口送风	yi ceng dong dian ti kou song feng	433
+一层东电梯口消报	yi ceng dong dian ti kou xiao bao	477
+一层东电梯口烟感	yi ceng dong dian ti kou yan gan	483
+一层东门厅排烟阀	yi ceng dong men ting pai yan fa	852
+一层东面排烟阀	yi ceng dong mian pai yan fa	851
+一层东南角房间烟感	yi ceng dong nan jiao fang jian yan gan	175
+一层东手报	yi ceng dong shou bao	733
+一层东梯北排烟阀	yi ceng dong ti bei pai yan fa	119
+一层东梯北手报	yi ceng dong ti bei shou bao	145
+一层东梯北消火栓	yi ceng dong ti bei xiao huo shuan	136
+一层东梯北烟感	yi ceng dong ti bei yan gan	172
+一层东梯口手报	yi ceng dong ti kou shou bao	705
+一层东梯送风	yi ceng dong ti song feng	432
+一层东消报	yi ceng dong xiao bao	729
+一层东新风机	yi ceng dong xin feng ji	470
+一层东新风机房烟感	yi ceng dong xin feng ji fang yan gan	484
+一层东总排烟阀	yi ceng dong zong pai yan fa	471
+一层东走道手报	yi ceng dong zou dao shou bao	714
+一层东走道消报	yi ceng dong zou dao xiao bao	479
+一层东走道烟感	yi ceng dong zou dao yan gan	496
+一层东作业间烟感	yi ceng dong zuo ye jian yan gan	485
+一层防火卷帘门	yi ceng fang huo juan lian men	116
+一层工业服务房消报	yi ceng gong ye fu wu fang xiao bao	476
+一层广播	yi ceng guang bo	645
+一层贵宾室烟感	yi ceng gui bin shi yan gan	159
+一层会议区烟感	yi ceng hui yi qu yan gan	155
+一层机电空调室温感	yi ceng ji dian kong tiao shi wen gan	173
+一层接待室水流指示器	yi ceng jie dai shi shui liu zhi shi qi	126
+一层接待室消火栓	yi ceng jie dai shi xiao huo shuan	130
+一层接待室信号碟阀	yi ceng jie dai shi xin hao die fa	125
+一层接待室烟感	yi ceng jie dai shi yan gan	168
+一层警铃	yi ceng jing ling	776
+一层卷帘门	yi ceng juan lian men	465
+一层咖啡厅烟感	yi ceng ka fei ting yan gan	150
+一层控制室烟感	yi ceng kong zhi shi yan gan	158
+一层门厅手报	yi ceng men ting shou bao	480
+一层门厅烟感	yi ceng men ting yan gan	494
+一层男厕所排烟阀	yi ceng nan ce suo pai yan fa	117
+一层男厕所烟感	yi ceng nan ce suo yan gan	165
+一层南工业服务房手报	yi ceng nan gong ye fu wu fang shou bao	481
+一层南工业服务房烟感	yi ceng nan gong ye fu wu fang yan gan	486
+一层女厕烟感	yi ceng nv ce yan gan	166
+一层排烟阀	yi ceng pai yan fa	735
+一层排烟口	yi ceng pai yan kou	472
+一层配电间烟感	yi ceng pei dian jian yan gan	786
+一层配电室烟感	yi ceng pei dian shi yan gan	715
+一层强电间口烟感	yi ceng qiang dian jian kou yan gan	493
+一层强电间烟感	yi ceng qiang dian jian yan gan	785
+一层强切	yi ceng qiang qie	847
+一层弱电间烟感	yi ceng ruo dian jian yan gan	787
+一层弱电井烟感	yi ceng ruo dian jing yan gan	702
+一层水流	yi ceng shui liu	475
+一层水流指示器	yi ceng shui liu zhi shi qi	778
+一层网路空调室温感	yi ceng wang lu kong tiao shi wen gan	152
+一层网路室烟感	yi ceng wang lu shi yan gan	151
+一层西北作业间烟感	yi ceng xi bei zuo ye jian yan gan	487
+一层西面排烟阀	yi ceng xi mian pai yan fa	850
+一层西手报	yi ceng xi shou bao	732
+一层西梯北排烟阀	yi ceng xi ti bei pai yan fa	118
+一层西梯北消火栓	yi ceng xi ti bei xiao huo shuan	135
+一层西梯北烟感	yi ceng xi ti bei yan gan	160
+一层西梯口手报	yi ceng xi ti kou shou bao	701
+一层西消报	yi ceng xi xiao bao	730
+一层西走道手报	yi ceng xi zou dao shou bao	731
+一层西走道消报	yi ceng xi zou dao xiao bao	779
+一层消防控制室烟感	yi ceng xiao fang kong zhi shi yan gan	790
+一层消控室烟感	yi ceng xiao kong shi yan gan	492
+一层新风机	yi ceng xin feng ji	469
+一层新风机房烟感	yi ceng xin feng ji fang yan gan	490
+一层信号碟阀	yi ceng xin hao die fa	777
+一层信号阀	yi ceng xin hao fa	474
+一层玄关烟感	yi ceng xuan guan yan gan	167
+一层展示区烟感	yi ceng zhan shi qu yan gan	174
+一层展示厅东北手报	yi ceng zhan shi ting dong bei shou bao	146
+一层展示厅东北消火栓	yi ceng zhan shi ting dong bei xiao huo shuan	137
+一层展示厅东南手报	yi ceng zhan shi ting dong nan shou bao	149
+一层展示厅东消火栓	yi ceng zhan shi ting dong xiao huo shuan	139
+一层展示厅南手报	yi ceng zhan shi ting nan shou bao	148
+一层展示厅排烟阀	yi ceng zhan shi ting pai yan fa	120
+一层展示厅水流指示器	yi ceng zhan shi ting shui liu zhi shi qi	122
+一层展示厅西手报	yi ceng zhan shi ting xi shou bao	147
+一层展示厅消火栓	yi ceng zhan shi ting xiao huo shuan	138
+一层展示厅信号碟阀	yi ceng zhan shi ting xin hao die fa	121
+一层值班室新风机	yi ceng zhi ban shi xin feng ji	849
+一层中电梯口送风	yi ceng zhong dian ti kou song feng	431
+一层中电梯口消报	yi ceng zhong dian ti kou xiao bao	478
+一层中电梯口烟感	yi ceng zhong dian ti kou yan gan	497
+一层中会议室前卷帘门	yi ceng zhong hui yi shi qian juan lian men	115
+一层中会议室前烟感	yi ceng zhong hui yi shi qian yan gan	156
+一层中会议室烟感	yi ceng zhong hui yi shi yan gan	162
+一层中梯送风	yi ceng zhong ti song feng	430
+一层中新风机	yi ceng zhong xin feng ji	468
+一层准备间烟感	yi ceng zhun bei jian yan gan	164
+一层总排烟阀	yi ceng zong pai yan fa	473
+一层走道手报	yi ceng zou dao shou bao	782
+一层走道烟感	yi ceng zou dao yan gan	788
+一层走廊手报	yi ceng zou lang shou bao	142
+一层走廊消火栓	yi ceng zou lang xiao huo shuan	134
+一层走廊烟感	yi ceng zou lang yan gan	169
+应急电源切换	ying ji dian yuan qie huan	339
+应急照明切换	ying ji zhao ming qie huan	315
+战时风机房烟感	zhan shi feng ji fang yan gan	407
+值班室前消火栓	zhi ban shi qian xiao huo shuan	350
+值班室温感	zhi ban shi wen gan	370
+走道手报	zou dao shou bao	23
+走道水流	zou dao shui liu	16
+走道温感	zou dao wen gan	378
+走道消火栓	zou dao xiao huo shuan	22
+走道信号蝶阀	zou dao xin hao die fa	17
+走道烟感	zou dao yan gan	31

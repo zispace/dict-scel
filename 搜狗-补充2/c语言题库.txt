@@ -1,0 +1,412 @@
+# 词库名称: c语言题库
+# 词库分类: 个人专用
+# 词库描述: C语言题库
+# 词条样例: 以下正确的函数定义是分、标准答案A、考生得分分评语、执行后输出的结果是分、单精度型、标准答案C
+# 解析词数: 405
+# 解析异常: 0
+
+爱因斯坦的数学题	ai yin si tan de shu xue ti	253
+百钱百鸡问题	bai qian bai ji wen ti	7
+包含个字符	bao han ge zi fu	124
+包含文件中的第一个函数	bao han wen jian zhong de di yi ge han shu	226
+本程序的全部范围	ben cheng xu de quan bu fan wei	102
+本函数的全部范围	ben han shu de quan bu fan wei	318
+本文件的全部范围	ben wen jian de quan bu fan wei	103
+编辑程序	bian ji cheng xu	104
+变量	bian liang	88
+编译程序	bian yi cheng xu	105
+编译时有错无结果	bian yi shi you cuo wu jie guo	211
+表达式	biao da shi	87
+表达式的值为分	biao da shi de zhi wei fen	347
+标准答案	biao zhun da an	373
+标准答案随机值	biao zhun da an sui ji zhi	34
+丙说甲没有偷是乙偷的	bing shuo jia mei you tou shi yi tou de	175
+不合法	bu he fa	395
+不能确定	bu neng que ding	57
+不确定	bu que ding	343
+不确定的值	bu que ding de zhi	113
+不允许在函数中再定义函数	bu yun xu zai han shu zhong zai ding yi han shu	349
+查找是否有相同的邮资	cha zhao shi fou you xiang tong de you zi	291
+常量	chang liang	89
+车号后二位的取值	che hao hou er wei de qu zhi	168
+车号前二位的取值	che hao qian er wei de qu zhi	169
+成立	cheng li	172
+程序出错	cheng xu chu cuo	133
+程序出错不能运行	cheng xu chu cuo bu neng yun xing	224
+程序的基本组成单位是函数	cheng xu de ji ben zu cheng dan wei shi han shu	194
+程序的运行结果是分	cheng xu de yun xing jie guo shi fen	296
+程序的注释可以写在语句的后面	cheng xu de zhu shi ke yi xie zai yu ju de hou mian	344
+程序段执行无限次	cheng xu duan zhi xing wu xian ci	218
+程序段中的控制表达式是非法的	cheng xu duan zhong de kong zhi biao da shi shi fei fa de	219
+程序将等待用户输入第二个字符	cheng xu jiang deng dai yong hu shu ru di er ge zi fu	77
+程序行	cheng xu xing	81
+程序运行后的输出结果是分	cheng xu yun xing hou de shu chu jie guo shi fen	364
+程序运行结果是分	cheng xu yun xing jie guo shi fen	206
+程序运行输出结果是分	cheng xu yun xing shu chu jie guo shi fen	380
+程序中的一个函数	cheng xu zhong de yi ge han shu	95
+程序中第一个函数	cheng xu zhong di yi ge han shu	227
+程序中第一条可执行语句	cheng xu zhong di yi tiao ke zhi xing yu ju	228
+重复步骤到	chong fu bu zhou dao	36
+除不尽的数	chu bu jin de shu	257
+出售金鱼	chu shou jin yu	203
+存放已确定数字的数组	cun fang yi que ding shu zi de shu zu	26
+答案分	da an fen	54
+大公约数的算法如下	da gong yue shu de suan fa ru xia	37
+打印不是闰年	da yin bu shi run nian	339
+打印结果结束游戏	da yin jie guo jie shu you xi	17
+打印是闰年	da yin shi run nian	340
+大于的数	da yu de shu	193
+单精度型	dan jing du xing	397
+的返回值类型是分	de fan hui zhi lei xing shi fen	399
+的输出结果为分	de shu chu jie guo wei fen	400
+第二年年初存款第三年年初存款	di er nian nian chu cun kuan di san nian nian chu cun kuan	231
+第三年年初存款第四年年初存款	di san nian nian chu cun kuan di si nian nian chu cun kuan	232
+第四年年初存款第五年年初存款	di si nian nian chu cun kuan di wu nian nian chu cun kuan	233
+第五年初存款	di wu nian chu cun kuan	234
+第一年年初存款第二年年初存款	di yi nian nian chu cun kuan di er nian nian chu cun kuan	230
+调用该函数的主调函数类型	diao yong gai han shu de zhu diao han shu lei xing	156
+调用函数后被调用的函数不返回	diao yong han shu hou bei diao yong de han shu bu fan hui	116
+调用函数时临时	diao yong han shu shi lin shi	158
+调用函数时形参可以是表达式	diao yong han shu shi xing can ke yi shi biao da shi	244
+丁说我没有偷	ding shuo wo mei you tou	174
+定义函数时所指定的函数类型	ding yi han shu shi suo zhi ding de han shu lei xing	122
+对输入数据的合法性进行检查	dui shu ru shu ju de he fa xing jin xing jian cha	129
+对下列递归函数	dui xia lie di gui han shu	63
+对下面的程序说法正确的是	dui xia mian de cheng xu shuo fa zheng que de shi	76
+对于如下之程序段应有	dui yu ru xia zhi cheng xu duan ying you	225
+二程序填空题共题共分	er cheng xu tian kong ti gong ti gong fen	379
+反码	fan ma	40
+非的数	fei de shu	192
+非法的常量	fei fa de chang liang	31
+非法的赋值语句是分	fei fa de fu zhi yu ju shi fen	58
+非零值	fei ling zhi	346
+非整数	fei zheng shu	191
+分别判断两个整数是否均为素数	fen bie pan duan liang ge zheng shu shi fou jun wei su shu	127
+分离出百位	fen li chu bai wei	338
+分离出个位	fen li chu ge wei	336
+分离出十位	fen li chu shi wei	337
+分母变化	fen mu bian hua	341
+分母的变化规律	fen mu de bian hua gui lv	180
+分析下面的代码	fen xi xia mian de dai ma	259
+分子变化	fen zi bian hua	182
+分子的变化规律	fen zi de bian hua gui lv	181
+分子符号变化	fen zi fu hao bian hua	342
+否则停止计算过程	fou ze ting zhi ji suan guo cheng	199
+赋值不合法	fu zhi bu he fa	368
+该程序的输出结果是分	gai cheng xu de shu chu jie guo shi fen	152
+该存多少钱	gai cun duo shao qian	237
+歌德巴赫猜想	ge de ba he cai xiang	128
+给出以下定义	gei chu yi xia ding yi	162
+给定源程序	gei ding yuan cheng xu	5
+共用型	gong yong xing	322
+构成无限循环	gou cheng wu xian xun huan	302
+汉诺塔	han nuo ta	196
+函数	han shu	79
+函数必须放在其它函数之前	han shu bi xu fang zai qi ta han shu zhi qian	392
+函数调用	han shu diao yong	141
+函数定义	han shu ding yi	140
+函数返回值的类型由决定分	han shu fan hui zhi de lei xing you jue ding fen	159
+函数可以递归调用	han shu ke yi di gui diao yong	350
+函数形参	han shu xing can	119
+函数组成的	han shu zu cheng de	270
+含有不合法的控制表达式	han you bu he fa de kong zhi biao da shi	134
+后面的值不能为表达式	hou mian de zhi bu neng wei biao da shi	84
+换行	huan hang	98
+换行换行	huan hang huan hang	97
+换行换行换行	huan hang huan hang huan hang	96
+回车	hui che	386
+回车回车	hui che hui che	90
+恢复交换的两个数字	hui fu jiao huan de liang ge shu zi	18
+奇数平方的一个有趣性质	ji shu ping fang de yi ge you qu xing zhi	68
+计算	ji suan	35
+计算出可能的整数	ji suan chu ke neng de zheng shu	166
+计算的值	ji suan de zhi	378
+计算结果为	ji suan jie guo wei	241
+计算圆内接正多边形的边长	ji suan yuan nei jie zheng duo bian xing de bian chang	50
+计算组成的邮票面值	ji suan zu cheng de you piao mian zhi	292
+甲说乙没有偷是丁偷的	jia shuo yi mei you tou shi ding tou de	177
+简单数据类型包括分	jian dan shu ju lei xing bao kuo fen	44
+牋牋牋保证输入的参数为正整数	jian jian jian bao zheng shu ru de can shu wei zheng zheng shu	155
+将输出	jiang shu chu	135
+结构型	jie gou xing	323
+结果即为题解	jie guo ji wei ti jie	235
+解释程序	jie shi cheng xu	106
+局部变量有效	ju bu bian liang you xiao	273
+均为个字节	jun wei ge zi jie	282
+均为一个字节	jun wei yi ge zi jie	118
+考生答案	kao sheng da an	404
+考生得分分评语	kao sheng de fen fen ping yu	403
+可对二维数组的部分元素赋初值	ke dui er wei shu zu de bu fen yuan su fu chu zhi	38
+可对二维数组的全部元素赋初值	ke dui er wei shu zu de quan bu yuan su fu chu zhi	39
+可行性	ke xing xing	359
+空格回车	kong ge hui che	91
+控制试探的步长和过程	kong zhi shi tan de bu chang he guo cheng	201
+控制退出试探过程	kong zhi tui chu shi tan guo cheng	197
+例如输入则输出	li ru shu ru ze shu chu	334
+连接程序	lian jie cheng xu	107
+满足一组同余式的判别	man zu yi zu tong yu shi de pan bie	251
+每个字符向后移一个	mei ge zi fu xiang hou yi yi ge	109
+枚举型	mei ju xing	321
+迷语博士的难题	mi yu bo shi de nan ti	151
+魔术师的猜牌术	mo shu shi de cai pai shu	290
+判断二位数字是否相异	pan duan er wei shu zi shi fou xiang yi	167
+判断逻辑条件	pan duan luo ji tiao jian	148
+判断若为自守数则输出	pan duan ruo wei zi shou shu ze shu chu	325
+判断是否为素数	pan duan shi fou wei su shu	125
+判断条件是否成立	pan duan tiao jian shi fou cheng li	173
+判断循环结束的条件非法	pan duan xun huan jie shu de tiao jian fei fa	248
+平年的月有天	ping nian de yue you tian	298
+其输出结果是分	qi shu chu jie guo shi fen	258
+其中循环控制表达式是不合法的	qi zhong xun huan kong zhi biao da shi shi bu he fa de	15
+其中循环控制表达式与等价	qi zhong xun huan kong zhi biao da shi yu deng jia	16
+请求出以内的自守数分	qing qiu chu yi nei de zi shou shu fen	329
+请输入学生成绩	qing shu ru xue sheng cheng ji	376
+请问这三个人都是哪个民族的分	qing wen zhe san ge ren dou shi na ge min zu de fen	150
+穷举全部情况	qiong ju quan bu qing kuang	149
+求车速	qiu che su	239
+求到之间的奇数之和偶数之积分	qiu dao zhi jian de ji shu zhi he ou shu zhi ji fen	369
+求的近似值	qiu de jin si zhi	53
+求之和	qiu zhi he	262
+取分邮票的张数	qu fen you piao de zhang shu	293
+取三分邮票的张数	qu san fen you piao de zhang shu	294
+全局变量有效	quan ju bian liang you xiao	274
+全局变量与局部变量都无效	quan ju bian liang yu ju bu bian liang dou wu xiao	271
+全局变量与局部变量都有效	quan ju bian liang yu ju bu bian liang dou you xiao	272
+人机猜数游戏	ren ji cai shu you xi	28
+人输入包含几位数字	ren shu ru bao han ji wei shu zi	27
+人输入有几位位置是正确的	ren shu ru you ji wei wei zhi shi zheng que de	22
+如下程序的运行结果是换行	ru xia cheng xu de yun xing jie guo shi huan hang	29
+闰年的月有天	run nian de yue you tian	299
+若变量已正确定义有以下程序段	ruo bian liang yi zheng que ding yi you yi xia cheng xu duan	1
+若第四次余下条则满足题意	ruo di si ci yu xia tiao ze man zu ti yi	198
+若干过程组成的	ruo gan guo cheng zu cheng de	269
+若干子程序组成的	ruo gan zi cheng xu zu cheng de	268
+若均是素数则输出	ruo jun shi su shu ze shu chu	126
+若满足则输出结果	ruo man zu ze shu chu jie guo	255
+若全部正确结束游戏	ruo quan bu zheng que jie shu you xi	19
+若是打印结果	ruo shi da yin jie guo	165
+若有如下语句	ruo you ru xia yu ju	310
+若有以下变量说明和函数定义	ruo you yi xia bian liang shuo ming he han shu ding yi	3
+若有以下定义和语句	ruo you yi xia ding yi he yu ju	401
+三读程序题共题共分	san du cheng xu ti gong ti gong fen	375
+设有程序段	she you cheng xu duan	217
+设有以下程序段	she you yi xia cheng xu duan	223
+设有以下函数	she you yi xia han shu	153
+实参和形参共用存储单元	shi can he xing can gong yong cun chu dan yuan	250
+是分	shi fen	75
+是任意的	shi ren yi de	281
+是死循环	shi si xun huan	306
+试探商的值	shi tan shang de zhi	256
+试题程序	shi ti cheng xu	332
+是无限循环	shi wu xian xun huan	314
+输出	shu chu	311
+输出被除后的商	shu chu bei chu hou de shang	65
+输出被除后的余数	shu chu bei chu hou de yu shu	64
+输出的是	shu chu de shi	308
+输出的是和	shu chu de shi he	307
+输出格式描述不合法	shu chu ge shi miao shu bu he fa	210
+输出奇数本身	shu chu ji shu ben shen	67
+输出奇数的平方减	shu chu ji shu de ping fang jian	66
+输出计算结果	shu chu ji suan jie guo	171
+输出结果	shu chu jie guo	335
+输出结果是分	shu chu jie guo shi fen	331
+输出牌的排列顺序	shu chu pai de pai lie shun xu	286
+输出为	shu chu wei	209
+输出为不确定值	shu chu wei bu que ding zhi	366
+输出值和正多边形的边数	shu chu zhi he zheng duo bian xing de bian shu	49
+输出值为	shu chu zhi wei	367
+输出最终的推理结果	shu chu zui zhong de tui li jie guo	147
+输入相应的年和月	shu ru xiang ying de nian he yue	300
+输入有几个位置正确	shu ru you ji ge wei zhi zheng que	20
+数组的初始化是错误的	shu zu de chu shi hua shi cuo wu de	100
+数组的首地址	shu zu de shou di zhi	357
+数组第一个元素的值	shu zu di yi ge yuan su de zhi	356
+数组都是整型数组	shu zu dou shi zheng xing shu zu	99
+数组盒子下标初始时为号元素	shu zu he zi xia biao chu shi shi wei hao yuan su	289
+数组型	shu zu xing	324
+数组元素的个数	shu zu yuan su de ge shu	354
+数组中全部元素的值	shu zu zhong quan bu yuan su de zhi	355
+双精度型	shuang jing du xing	398
+谁是窃贼	shui shi qie zei	178
+顺序显示四位数字	shun xu xian shi si wei shu zi	23
+四程序设计题共题共分	si cheng xu she ji ti gong ti gong fen	370
+思考题	si kao ti	55
+四位正确打印结果结束游戏	si wei zheng que da yin jie guo jie shu you xi	21
+跳过非空的盒子不进行计数	tiao guo fei kong de he zi bu jin xing ji shu	287
+通过编译但不能连接	tong guo bian yi dan bu neng lian jie	312
+投票表决器	tou piao biao jue qi	260
+退出循环	tui chu xun huan	254
+外层循环控制鸡翁数	wai ceng xun huan kong zhi ji weng shu	6
+完成出售四次的操作	wan cheng chu shou si ci de cao zuo	200
+为标志变量	wei biao zhi bian liang	202
+为分母阶乘	wei fen mu jie cheng	261
+为截取被乘数时的系数	wei jie qu bei cheng shu shi de xi shu	326
+为截取部分积时的系数	wei jie qu bu fen ji shi de xi shu	328
+为截取乘数相应位时的系数	wei jie qu cheng shu xiang ying wei shi de xi shu	327
+为年数取值为年	wei nian shu qu zhi wei nian	236
+为偶数的个数	wei ou shu de ge shu	377
+为所设的阶梯数	wei suo she de jie ti shu	252
+无定值说明不合法	wu ding zhi shuo ming bu he fa	123
+无确定结果	wu que ding jie guo	145
+下列程序的输出为	xia lie cheng xu de shu chu wei	110
+下列程序段的运行结果是	xia lie cheng xu duan de yun xing jie guo shi	204
+下列描述中不正确的是分	xia lie miao shu zhong bu zheng que de shi fen	137
+下列说法正确的是分	xia lie shuo fa zheng que de shi fen	138
+下列说法中错误的是分	xia lie shuo fa zhong cuo wu de shi fen	108
+下列说法中正确的是分	xia lie shuo fa zhong zheng que de shi fen	245
+下列叙述中正确的是分	xia lie xu shu zhong zheng que de shi fen	394
+下列语句中正确的语句是分	xia lie yu ju zhong zheng que de yu ju shi fen	45
+下面程序	xia mian cheng xu	47
+下面程序的输出结果是	xia mian cheng xu de shu chu jie guo shi	9
+下面程序的运行结果是	xia mian cheng xu de yun xing jie guo shi	297
+下面程序段	xia mian cheng xu duan	136
+下面程序段的运行结果是	xia mian cheng xu duan de yun xing jie guo shi	275
+下面程序运行结果是	xia mian cheng xu yun xing jie guo shi	8
+下面的程序是实现请补充完整	xia mian de cheng xu shi shi xian qing bu chong wan zheng	154
+下面合法的语句是分	xia mian he fa de yu ju shi fen	83
+下面描述正确的是分	xia mian miao shu zheng que de shi fen	208
+下面叙述不正确的是分	xia mian xu shu bu zheng que de shi fen	13
+下述描述中不正确的是分	xia shu miao shu zhong bu zheng que de shi fen	353
+下述语句的输出为	xia shu yu ju de shu chu wei	284
+写出下面程序的运算结果	xie chu xia mian cheng xu de yun suan jie guo	130
+写出下面程序输出结果	xie chu xia mian cheng xu shu chu jie guo	207
+形式参数是局部变量	xing shi can shu shi ju bu bian liang	185
+选择语句	xuan ze yu ju	143
+循环次数不定	xun huan ci shu bu ding	315
+循环是无限循环	xun huan shi wu xian xun huan	214
+循环体的总执行次数是分	xun huan ti de zong zhi xing ci shu shi fen	111
+循环体一次也不执行	xun huan ti yi ci ye bu zhi xing	303
+循环体语句一次也不执行	xun huan ti yu ju yi ci ye bu zhi xing	213
+循环体语句执行一次	xun huan ti yu ju zhi xing yi ci	212
+循环体执行两次	xun huan ti zhi xing liang ci	304
+循环体执行一次	xun huan ti zhi xing yi ci	305
+循环体只执行一次	xun huan ti zhi zhi xing yi ci	388
+循环语句	xun huan yu ju	142
+循环执行次	xun huan zhi xing ci	215
+要放入盒子中的牌的序号	yao fang ru he zi zhong de pai de xu hao	288
+一次也不循环	yi ci ye bu xun huan	246
+一个不合法的表达式	yi ge bu he fa de biao da shi	71
+一个双精度表达式	yi ge shuang jing du biao da shi	74
+一个双精度型表达式	yi ge shuang jing du xing biao da shi	48
+一个正确的算法必须有输出	yi ge zheng que de suan fa bi xu you shu chu	277
+一个正确的算法必须有输入	yi ge zheng que de suan fa bi xu you shu ru	278
+一个整型表达式	yi ge zheng xing biao da shi	73
+已确定的数字个数	yi que ding de shu zi ge shu	25
+以上程序的输出结果是分	yi shang cheng xu de shu chu jie guo shi fen	163
+以上都错	yi shang dou cuo	301
+以上都可以	yi shang dou ke yi	86
+以上均不是	yi shang jun bu shi	62
+以上三个结论有两个是正确的	yi shang san ge jie lun you liang ge shi zheng que de	94
+以上三项皆错	yi shang san xiang jie cuo	146
+以上三种说法都是错误的	yi shang san zhong shuo fa dou shi cuo wu de	115
+以上说法都不对	yi shang shuo fa dou bu dui	14
+以上说法全部正确	yi shang shuo fa quan bu zheng que	160
+乙说我没有偷是丙便的	yi shuo wo mei you tou shi bing bian de	176
+以为初值循环试探	yi wei chu zhi xun huan shi tan	238
+以下	yi xia	59
+以下不是无限循环的语句为分	yi xia bu shi wu xian xun huan de yu ju wei fen	348
+以下不正确的描述是分	yi xia bu zheng que de miao shu shi fen	139
+以下不正确的叙述是分	yi xia bu zheng que de xu shu shi fen	183
+以下不正确的语句为分	yi xia bu zheng que de yu ju wei fen	243
+以下程序	yi xia cheng xu	92
+以下程序的输出结果是	yi xia cheng xu de shu chu jie guo shi	371
+以下程序的输出结果为	yi xia cheng xu de shu chu jie guo wei	372
+以下程序的输出为	yi xia cheng xu de shu chu wei	112
+以下程序的运行结果是	yi xia cheng xu de yun xing jie guo shi	374
+以下程序的执行结果是	yi xia cheng xu de zhi xing jie guo shi	93
+以下程序段的输出结果是	yi xia cheng xu duan de shu chu jie guo shi	131
+以下程序段输出为	yi xia cheng xu duan shu chu wei	285
+以下程序运行后的输出结果是	yi xia cheng xu yun xing hou de shu chu jie guo shi	391
+以下程序运行结果是	yi xia cheng xu yun xing jie guo shi	179
+以下非法的赋值语句是分	yi xia fei fa de fu zhi yu ju shi fen	351
+以下关于数组的描述正确的是分	yi xia guan yu shu zu de miao shu zheng que de shi fen	43
+以下关于算法叙述错误的是分	yi xia guan yu suan fa xu shu cuo wu de shi fen	279
+以下合法的数组说明是分	yi xia he fa de shu zu shuo ming shi fen	276
+以下描述正确的是分	yi xia miao shu zheng que de shi fen	70
+以下述叙不正确的是分	yi xia shu xu bu zheng que de shi fen	195
+以下数组定义中正确的是分	yi xia shu zu ding yi zhong zheng que de shi fen	4
+以下说法中不正确的是分	yi xia shuo fa zhong bu zheng que de shi fen	186
+以下说法中正确的是分	yi xia shuo fa zhong zheng que de shi fen	85
+以下叙述不正确的是分	yi xia xu shu bu zheng que de shi fen	345
+以下叙述中错误的是分	yi xia xu shu zhong cuo wu de shi fen	32
+以下叙述中正确的是分	yi xia xu shu zhong zheng que de shi fen	393
+以下选项中不能正确赋值的是分	yi xia xuan xiang zhong bu neng zheng que fu zhi de shi fen	30
+以下选项中合法的实型常数是分	yi xia xuan xiang zhong he fa de shi xing chang shu shi fen	387
+以下选项中正确的常量是分	yi xia xuan xiang zhong zheng que de chang liang shi fen	184
+以下语句哪一个不成立分	yi xia yu ju na yi ge bu cheng li fen	101
+以下运算符中优先级最高的是分	yi xia yun suan fu zhong you xian ji zui gao de shi fen	190
+以下运算符中优先级最高的为分	yi xia yun suan fu zhong you xian ji zui gao de wei fen	316
+以下正确的函数定义是分	yi xia zheng que de han shu ding yi shi fen	405
+以下正确的描述是分	yi xia zheng que de miao shu shi fen	42
+已知各变量的类型说明如下	yi zhi ge bian liang de lei xing shuo ming ru xia	46
+一种函数调用	yi zhong han shu diao yong	72
+由变量的类型决定	you bian liang de lei xing jue ding	117
+有程序如下	you cheng xu ru xia	358
+有零个或多个输出	you ling ge huo duo ge shu chu	361
+有零个或多个输入	you ling ge huo duo ge shu ru	362
+邮票组合	you piao zu he	295
+有穷性	you qiong xing	360
+有如下程序	you ru xia cheng xu	114
+由所用机器的机器字长决定	you suo yong ji qi de ji qi zi chang jue ding	280
+有以下程序	you yi xia cheng xu	365
+有以下程序段	you yi xia cheng xu duan	242
+有以下函数	you yi xia han shu	381
+由用户自己定义	you yong hu zi ji ding yi	283
+有语法错	you yu fa cuo	60
+有语法错误不能通过编译	you yu fa cuo wu bu neng tong guo bian yi	313
+语句	yu ju	80
+语句不正确	yu ju bu zheng que	121
+语句末尾必须有分号	yu ju mo wei bi xu you fen hao	12
+语句只能用于退出多层循环	yu ju zhi neng yong yu tui chu duo ceng xun huan	69
+语句中的表达式类型	yu ju zhong de biao da shi lei xing	157
+与下面呈现等价的是	yu xia mian cheng xian deng jia de shi	249
+语言程序的基本单位是分	yu yan cheng xu de ji ben dan wei shi fen	82
+语言的简单数据类型包括分	yu yan de jian dan shu ju lei xing bao kuo fen	267
+语言可执行程序开始执行点为分	yu yan ke zhi xing cheng xu kai shi zhi xing dian wei fen	229
+语言中不可以嵌套的是分	yu yan zhong bu ke yi qian tao de shi fen	144
+原码	yuan ma	41
+阅读程序	yue du cheng xu	164
+阅读程序写出运行结果	yue du cheng xu xie chu yun xing jie guo	56
+运算符只能用于整数运算	yun suan fu zhi neng yong yu zheng shu yun suan	11
+运行程序段后输出	yun xing cheng xu duan hou shu chu	221
+运行程序段后输入	yun xing cheng xu duan hou shu ru	220
+在该复合语句中有效	zai gai fu he yu ju zhong you xiao	319
+在该函数中有效	zai gai han shu zhong you xiao	320
+在下列变量中不是局部变量分	zai xia lie bian liang zhong bu shi ju bu bian liang fen	120
+则分	ze fen	222
+则上面程序段结果是分	ze shang mian cheng xu duan jie guo shi fen	309
+则输出结果为分	ze shu chu jie guo wei fen	240
+则下面描述正确的是分	ze xia mian miao shu zheng que de shi fen	216
+则以下合法的函数调用语句是分	ze yi xia he fa de han shu diao yong yu ju shi fen	2
+则以下描述中正确的是分	ze yi xia miao shu zhong zheng que de shi fen	10
+则正确的叙述为分	ze zheng que de xu shu wei fen	161
+正多边形边数	zheng duo bian xing bian shu	52
+正多边形边数加倍	zheng duo bian xing bian shu jia bei	51
+整个程序文件	zheng ge cheng xu wen jian	317
+正确的变量定义是分	zheng que de bian liang ding yi shi fen	61
+整型	zheng xing	396
+整形实型	zheng xing shi xing	384
+整型实型逻辑型	zheng xing shi xing luo ji xing	266
+整型实型逻辑型字符型	zheng xing shi xing luo ji xing zi fu xing	263
+整型实型字符型	zheng xing shi xing zi fu xing	265
+整型字符型逻辑型	zheng xing zi fu xing luo ji xing	264
+执行次	zhi xing ci	389
+执行后的输出结果是分	zhi xing hou de shu chu jie guo shi fen	205
+执行后输出的结果是分	zhi xing hou shu chu de jie guo shi fen	402
+执行时输入	zhi xing shi shu ru	132
+执行下述程序的输出结果是	zhi xing xia shu cheng xu de shu chu jie guo shi	363
+执行一次	zhi xing yi ci	390
+只循环一次	zhi xun huan yi ci	247
+主函数	zhu han shu	33
+注意部分源程序给出如下	zhu yi bu fen yuan cheng xu gei chu ru xia	333
+抓交通肇事犯	zhua jiao tong zhao shi fan	170
+自动算出四位中包的个数	zi dong suan chu si wei zhong bao de ge shu	24
+字符	zi fu	78
+字符串	zi fu chuan	188
+字符串字符串	zi fu chuan zi fu chuan	187
+字符数组	zi fu shu zu	189
+字符型实型双精度型	zi fu xing shi xing shuang jing du xing	383
+字符型数组中可以存放字符串	zi fu xing shu zu zhong ke yi cun fang zi fu chuan	352
+字符型整型	zi fu xing zheng xing	385
+字符型整型实型双精度型	zi fu xing zheng xing shi xing shuang jing du xing	382
+自守数	zi shou shu	330

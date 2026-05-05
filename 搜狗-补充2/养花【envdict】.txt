@@ -1,0 +1,725 @@
+# 词库名称: 养花【envdict】
+# 词库分类: 个人专用
+# 词库描述: top1.5k
+# 词条样例: 花博士、扦插法、倍液、病斑、绿植养护、介壳虫
+# 解析词数: 718
+# 解析异常: 0
+
+爱花	ai hua	345
+矮牵牛	ai qian niu	598
+爱心	ai xin	76
+暗绿	an lv	64
+八仙花	ba xian hua	580
+百虫	bai chong	314
+白粉	bai fen	29
+百合科	bai he ke	683
+百菌清	bai jun qing	500
+白掌	bai zhang	533
+斑病	ban bing	160
+半休	ban xiu	232
+报春	bao chun	40
+报春花	bao chun hua	386
+苞片	bao pian	220
+宝石花	bao shi hua	333
+保水性	bao shui xing	4
+倍液	bei ye	715
+壁虱	bi shi	422
+变黄	bian huang	150
+表土	biao tu	201
+别名	bie ming	670
+病虫	bing chong	523
+病虫害	bing chong hai	392
+饼肥	bing fei	671
+病害	bing hai	606
+病菌	bing jun	178
+病株	bing zhu	673
+薄荷	bo he	62
+播种	bo zhong	485
+彩叶	cai ye	234
+藏花	cang hua	717
+草本	cao ben	271
+草本植物	cao ben zhi wu	126
+草花	cao hua	107
+草科	cao ke	682
+草木灰	cao mu hui	395
+草炭	cao tan	409
+草炭土	cao tan tu	471
+侧芽	ce ya	362
+侧枝	ce zhi	447
+插床	cha chuang	489
+茶花	cha hua	224
+插穗	cha sui	688
+插条	cha tiao	675
+插于	cha yu	33
+插枝	cha zhi	166
+产于	chan yu	32
+常春	chang chun	320
+长春花	chang chun hua	568
+常春藤	chang chun teng	370
+常绿	chang lv	490
+常绿灌木	chang lv guan mu	453
+常绿乔木	chang lv qiao mu	181
+常绿植物	chang lv zhi wu	222
+长寿花	chang shou hua	622
+成虫	cheng chong	252
+成活	cheng huo	368
+成活率	cheng huo lv	188
+赤玉	chi yu	326
+赤玉土	chi yu tu	450
+虫害	chong hai	513
+出苗	chu miao	519
+出芽	chu ya	382
+串红	chuan hong	507
+春播	chun bo	358
+春花	chun hua	9
+春季	chun ji	34
+唇形	chun xing	342
+唇形科	chun xing ke	674
+春羽	chun yu	498
+刺梅	ci mei	543
+葱兰	cong lan	408
+粗沙	cu sha	78
+粗砂	cu sha	374
+簇生	cu sheng	538
+醋水	cu shui	149
+醋液	cu ye	144
+打顶	da ding	208
+大花	da hua	237
+大戟	da ji	605
+大戟科	da ji ke	677
+大丽花	da li hua	128
+大岩桐	da yan tong	554
+大叶	da ye	57
+带花	dai hua	145
+带土	dai tu	16
+单瓣	dan ban	644
+单反	dan fan	516
+氮肥	dan fei	412
+氮磷钾	dan lin jia	373
+倒挂	dao gua	21
+倒挂金钟	dao gua jin zhong	710
+倒盆	dao pen	287
+敌百虫	di bai chong	454
+底肥	di fei	421
+地老虎	di lao hu	634
+地下害虫	di xia hai chong	646
+吊兰	diao lan	686
+吊钟	diao zhong	509
+蝶兰	die lan	417
+顶芽	ding ya	43
+定植	ding zhi	625
+冻害	dong hai	221
+豆瓣绿	dou ban lv	563
+豆科	dou ke	496
+豆渣	dou zha	174
+堆肥	dui fei	30
+多菌灵	duo jun ling	565
+多年生	duo nian sheng	505
+萼片	e pian	121
+鹅掌	e zhang	159
+鹅掌柴	e zhang chai	589
+耳草	er cao	511
+二年生	er nian sheng	294
+发病	fa bing	18
+发财树	fa cai shu	615
+发黄	fa huang	8
+发芽	fa ya	486
+发芽率	fa ya lv	292
+番红花	fan hong hua	67
+翻盆	fan pen	656
+翻土	fan tu	227
+番杏	fan xing	493
+繁殖	fan zhi	384
+防治	fang zhi	432
+飞虫	fei chong	169
+肥力	fei li	81
+肥料	fei liao	517
+肥水	fei shui	251
+肥沃	fei wo	442
+飞燕草	fei yan cao	63
+非洲菊	fei zhou ju	161
+粪肥	fen fei	28
+粉剂	fen ji	603
+分株	fen zhu	701
+分株繁殖	fen zhu fan zhi	377
+凤梨	feng li	139
+凤仙	feng xian	218
+凤仙花	feng xian hua	449
+风信子	feng xin zi	405
+佛手	fo shou	36
+富贵竹	fu gui zhu	537
+复合肥	fu he fei	304
+腐烂	fu lan	136
+呋喃	fu nan	49
+呋喃丹	fu nan dan	567
+扶桑	fu sang	200
+福树	fu shu	476
+腐熟	fu shu	693
+覆土	fu tu	522
+复叶	fu ye	119
+腐叶土	fu ye tu	642
+腐殖	fu zhi	556
+腐殖质	fu zhi zhi	440
+干枯	gan ku	125
+高锰酸钾	gao meng suan jia	248
+高湿	gao shi	130
+革质	ge zhi	239
+根部	gen bu	155
+根际	gen ji	497
+根茎	gen jing	56
+根系	gen xi	557
+瓜叶	gua ye	348
+瓜叶菊	gua ye ju	655
+灌木	guan mu	176
+观赏植物	guan shang zhi wu	391
+观叶植物	guan ye zhi wu	420
+光线	guang xian	195
+光照	guang zhao	435
+龟背	gui bei	364
+龟背竹	gui bei zhu	577
+桂花	gui hua	315
+龟甲	gui jia	20
+国兰	guo lan	553
+果树	guo shu	138
+害虫	hai chong	572
+海明	hai ming	468
+海棠	hai tang	334
+海芋	hai yu	42
+旱金莲	han jin lian	700
+寒兰	han lan	687
+含羞草	han xiu cao	168
+好养	hao yang	171
+河泥	he ni	102
+褐色	he se	146
+河沙	he sha	74
+红花石蒜	hong hua shi suan	441
+红掌	hong zhang	318
+红蜘蛛	hong zhi zhu	548
+蝴蝶兰	hu die lan	436
+虎耳草	hu er cao	604
+虎皮	hu pi	15
+虎皮兰	hu pi lan	630
+互生	hu sheng	217
+虎尾	hu wei	191
+虎尾兰	hu wei lan	534
+花苞	hua bao	437
+花柄	hua bing	280
+花萼	hua e	117
+花肥	hua fei	480
+花梗	hua geng	86
+花花	hua hua	11
+花卉	hua hui	696
+花卉论坛	hua hui lun tan	705
+花卉市场	hua hui shi chang	274
+花卉园	hua hui yuan	526
+花茎	hua jing	295
+花蕾	hua lei	184
+花苗	hua miao	262
+花农	hua nong	134
+花盆	hua pen	585
+花棚	hua peng	403
+花器	hua qi	52
+花期	hua qi	657
+花色	hua se	277
+花市	hua shi	226
+花葶	hua ting	541
+花小	hua xiao	321
+花形	hua xing	103
+花序	hua xu	663
+花芽	hua ya	401
+花叶	hua ye	375
+花玉	hua yu	123
+花种	hua zhong	113
+缓苗	huan miao	307
+换盆	huan pen	692
+换水	huan shui	132
+换土	huan tu	681
+黄化	huang hua	521
+黄叶	huang ye	258
+蕙兰	hui lan	135
+火龙果	huo long guo	257
+基部	ji bu	350
+基肥	ji fei	600
+鸡粪	ji fen	425
+蓟马	ji ma	545
+姬玉	ji yu	482
+基质	ji zhi	579
+钾肥	jia fei	404
+夹箭	jia jian	268
+嫁接	jia jie	452
+假植	jia zhi	599
+夹竹桃	jia zhu tao	527
+剪除	jian chu	355
+剪掉	jian diao	41
+见干见湿	jian gan jian shi	612
+建兰	jian lan	22
+剪去	jian qu	410
+剪取	jian qu	499
+碱性土	jian xing tu	338
+剪枝	jian zhi	367
+健壮	jian zhuang	104
+浇点	jiao dian	39
+浇花	jiao hua	369
+焦枯	jiao ku	291
+浇水	jiao shui	679
+浇水量	jiao shui liang	415
+浇透	jiao tou	661
+桔梗	jie geng	53
+介壳	jie qiao	707
+介壳虫	jie qiao chong	711
+金琥	jin hu	691
+锦葵	jin kui	539
+金莲	jin lian	133
+金莲花	jin lian hua	46
+金钱树	jin qian shu	354
+金香	jin xiang	71
+金心吊兰	jin xin diao lan	571
+金鱼草	jin yu cao	558
+金盏菊	jin zhan ju	433
+浸种	jin zhong	264
+金钟	jin zhong	105
+茎部	jing bu	451
+茎干	jing gan	512
+茎杆	jing gan	167
+茎节	jing jie	324
+景天	jing tian	114
+景天科	jing tian ke	639
+镜头	jing tou	477
+荆溪	jing xi	143
+茎叶	jing ye	85
+韭兰	jiu lan	443
+酒瓶兰	jiu ping lan	617
+菊科	ju ke	631
+锯末	ju mo	636
+聚伞花序	ju san hua xu	608
+菊酯	ju zhi	207
+卷柏	juan bai	275
+卷叶	juan ye	418
+蕨类	jue lei	69
+菌丝	jun si	524
+君子兰	jun zi lan	351
+开花	kai hua	601
+开花期	kai hua qi	628
+克克	ke ke	151
+科属	ke shu	718
+空气凤梨	kong qi feng li	578
+孔雀草	kong que cao	708
+控水	kong shui	77
+枯黄	ku huang	45
+枯焦	ku jiao	341
+苦苣	ku ju	337
+苦苣苔科	ku ju tai ke	406
+枯死	ku si	313
+枯萎	ku wei	23
+枯枝	ku zhi	61
+烂根	lan gen	649
+兰花	lan hua	427
+兰蕙	lan hui	141
+兰科	lan ke	363
+兰属	lan shu	618
+蓝雪花	lan xue hua	459
+老叶	lao ye	366
+乐果	le guo	250
+厘米	li mi	193
+离线	li xian	153
+莲科	lian ke	385
+连喷	lian pen	206
+莲属	lian shu	635
+磷肥	lin fei	470
+磷钾肥	lin jia fei	478
+鳞茎	lin jing	506
+令箭	ling jian	163
+令箭荷花	ling jian he hua	530
+铃兰	ling lan	308
+硫磺粉	liu huang fen	116
+硫磷	liu lin	610
+硫酸亚铁	liu suan ya tie	547
+柳叶菜	liu ye cai	595
+龙胆	long dan	13
+龙果	long guo	216
+龙舌兰	long she lan	475
+龙舌兰科	long she lan ke	699
+龙血树	long xue shu	26
+炉渣	lu zha	293
+卵形	luan xing	100
+卵圆形	luan yuan xing	302
+落果	luo guo	1
+罗汉松	luo han song	593
+罗勒	luo le	694
+萝藦	luo mo	638
+绿萝	lv luo	668
+绿植	lv zhi	684
+马鞭	ma bian	48
+马鞭草	ma bian cao	455
+马齿苋	ma chi xian	327
+马拉硫磷	ma la liu lin	286
+马蹄金	ma ti jin	416
+马蹄莲	ma ti lian	190
+麻叶	ma ye	204
+猫薄荷	mao bo he	319
+茅膏菜	mao gao cai	310
+毛茛	mao gen	389
+美女樱	mei nv ying	183
+煤渣	mei zha	156
+萌发	meng fa	182
+萌蘖	meng nie	444
+锰酸钾	meng suan jia	289
+苗床	miao chuang	662
+苗苗	miao miao	203
+苗圃	miao pu	5
+描述	miao shu	325
+墨兰	mo lan	66
+木本	mu ben	177
+木本植物	mu ben zhi wu	260
+木槿	mu jin	225
+木犀	mu xi	621
+木犀科	mu xi ke	640
+木质部	mu zhi bu	279
+木质化	mu zhi hua	551
+母株	mu zhu	573
+耐干	nai gan	283
+耐寒	nai han	515
+耐旱	nai han	510
+耐瘠薄	nai ji bo	311
+南星	nan xing	213
+南洋杉	nan yang sha	706
+嫩叶	nen ye	256
+嫩枝	nen zhi	481
+泥炭	ni tan	472
+泥炭土	ni tan tu	246
+年生	nian sheng	109
+茑萝	niao luo	698
+农家肥	nong jia fei	205
+农药	nong yao	288
+沤肥	ou fei	339
+爬藤	pa teng	73
+排水	pai shui	196
+排水孔	pai shui kong	19
+泡桐	pao tong	157
+培养土	pei yang tu	607
+培植	pei zhi	170
+盆底	pen di	473
+喷壶	pen hu	202
+盆花	pen hua	331
+盆里	pen li	424
+盆盆	pen pen	118
+喷洒	pen sa	371
+喷施	pen shi	479
+喷水	pen shui	343
+喷药	pen yao	209
+盆栽	pen zai	602
+盆中	pen zhong	365
+棚架	peng jia	27
+碰碰香	peng peng xiang	296
+棚室	peng shi	244
+披针形	pi zhen xing	323
+偏干	pian gan	2
+偏酸	pian suan	411
+片真叶	pian zhen ye	531
+品兰	pin lan	80
+品种	pin zhong	357
+平安树	ping an shu	525
+曝晒	pu shai	55
+蛴螬	qi cao	660
+气生根	qi sheng gen	312
+其叶	qi ye	84
+茜草	qian cao	305
+扦插	qian cha	714
+扦插法	qian cha fa	716
+扦插繁殖	qian cha fan zhi	582
+千年木	qian nian mu	430
+牵牛	qian niu	322
+千屈菜	qian qu cai	359
+强光	qiang guang	95
+蔷薇	qiang wei	89
+蔷薇科	qiang wei ke	672
+蔷薇属	qiang wei shu	590
+乔木	qiao mu	70
+切花	qie hua	266
+茄科	qie ke	574
+秋播	qiu bo	616
+球根	qiu gen	586
+球根海棠	qiu gen hai tang	685
+秋海棠	qiu hai tang	514
+球茎	qiu jing	624
+秋葵	qiu kui	233
+球兰	qiu lan	273
+全缘	quan yuan	82
+全株	quan zhu	361
+壤土	rang tu	667
+忍冬	ren dong	426
+溶液	rong ye	175
+肉质	rou zhi	129
+肉质根	rou zhi gen	504
+乳剂	ru ji	278
+入盆	ru pen	142
+入土	ru tu	96
+乳油	ru you	697
+瑞香	rui xiang	298
+三角梅	san jiao mei	265
+三色堇	san se jin	428
+散射	san she	236
+散射光	san she guang	461
+散尾葵	san wei kui	495
+杀虫	sha chong	448
+杀虫剂	sha chong ji	488
+杀虫药	sha chong yao	108
+沙壤土	sha rang tu	431
+沙土	sha tu	198
+沙质	sha zhi	37
+砂质	sha zhi	564
+山矾	shan fan	329
+闪光	shan guang	249
+杉科	shan ke	532
+商陆	shang lu	187
+射光	she guang	158
+舌兰	she lan	467
+生草	sheng cao	297
+生根	sheng gen	328
+盛花期	sheng hua qi	263
+生石花	sheng shi hua	380
+生长	sheng zhang	438
+生长点	sheng zhang dian	35
+生长期	sheng zhang qi	474
+湿度	shi du	353
+十二卷	shi er juan	120
+施肥	shi fei	652
+石斛	shi hu	131
+石花	shi hua	106
+石灰质	shi hui zhi	301
+石莲	shi lian	423
+施磷	shi lin	619
+湿润	shi run	255
+石蒜	shi suan	666
+石蒜科	shi suan ke	658
+室温	shi wen	189
+施用	shi yong	290
+石竹	shi zhu	434
+十字花	shi zi hua	47
+授粉	shou fen	165
+蜀葵	shu kui	407
+树势	shu shi	94
+疏松	shu song	212
+鼠尾	shu wei	240
+鼠尾草	shu wei cao	419
+霜降	shuang jiang	50
+睡莲	shui lian	284
+水培	shui pei	713
+水培植物	shui pei zhi wu	653
+水溶液	shui rong ye	111
+水仙	shui xian	388
+水养	shui yang	152
+水竹	shui zhu	44
+四季海棠	si ji hai tang	483
+丝兰	si lan	281
+松萝	song luo	678
+宋梅	song mei	79
+松土	song tu	229
+松叶	song ye	253
+松针	song zhen	60
+宿根	su gen	378
+塑料薄膜	su liao bao mo	245
+苏铁	su tie	654
+酸性	suan xing	194
+酸性土	suan xing tu	651
+穗状	sui zhuang	242
+太阳花	tai yang hua	185
+炭疽	tan ju	445
+唐菖蒲	tang chang pu	376
+塘泥	tang ni	285
+陶盆	tao pen	400
+藤本	teng ben	238
+藤本月季	teng ben yue ji	575
+天南星	tian nan xing	502
+天南星科	tian nan xing ke	629
+天竺	tian zhu	303
+天竺葵	tian zhu kui	542
+贴梗海棠	tie geng hai tang	439
+铁树	tie shu	330
+铁线	tie xian	235
+铁线蕨	tie xian jue	632
+铁线莲	tie xian lian	356
+铁叶	tie ye	93
+通风	tong feng	214
+铜钱草	tong qian cao	669
+透水	tou shui	396
+土里	tu li	336
+图片	tu pian	259
+土壤	tu rang	581
+土温	tu wen	199
+徒长	tu zhang	569
+徒长枝	tu zhang zhi	469
+土质	tu zhi	17
+土中	tu zhong	462
+土种	tu zhong	148
+托布津	tuo bu jin	494
+瓦盆	wa pen	65
+万花谷	wan hua gu	546
+碗莲	wan lian	597
+万年青	wan nian qing	192
+万寿菊	wan shou ju	393
+卫矛	wei mao	520
+萎蔫	wei nian	637
+温室	wen shi	282
+文竹	wen zhu	584
+五加	wu jia	75
+五加科	wu jia ke	641
+五色梅	wu se mei	484
+无图版	wu tu ban	379
+无土栽培	wu tu zai pei	112
+喜光	xi guang	399
+夏季	xia ji	97
+线虫	xian chong	413
+仙客	xian ke	464
+仙客来	xian ke lai	650
+现蕾	xian lei	381
+香草	xiang cao	38
+橡皮树	xiang pi shu	627
+香雪	xiang xue	140
+香雪兰	xiang xue lan	372
+香雪球	xiang xue qiu	633
+小檗	xiao bo	458
+小苗	xiao miao	528
+小乔木	xiao qiao mu	228
+小芽	xiao ya	300
+小枝	xiao zhi	12
+蟹爪兰	xie zhao lan	702
+蟹爪	xie zhua	665
+新苗	xin miao	98
+新芽	xin ya	332
+新叶	xin ye	536
+新枝	xin zhi	492
+信子	xin zi	299
+幸福树	xing fu shu	503
+雄蕊	xiong rui	68
+修剪	xiu jian	352
+休眠	xiu mian	306
+休眠期	xiu mian qi	613
+绣球	xiu qiu	88
+袖珍	xiu zhen	137
+萱草	xuan cao	87
+旋花	xuan hua	466
+玄参	xuan shen	346
+雪兰	xue lan	99
+学名	xue ming	712
+芽变	ya bian	387
+蚜虫	ya chong	690
+压条	ya tiao	394
+亚铁	ya tie	397
+芽眼	ya yan	349
+岩桐	yan tong	456
+养分	yang fen	54
+养护	yang hu	518
+养花	yang hua	487
+洋桔梗	yang jie geng	215
+养兰	yang lan	276
+洋水仙	yang shui xian	594
+羊蹄	yang ti	210
+羊蹄甲	yang ti jia	623
+药害	yao hai	689
+叶斑病	ye ban bing	529
+叶柄	ye bing	544
+液肥	ye fei	552
+叶互生	ye hu sheng	402
+叶茎	ye jing	340
+叶兰	ye lan	414
+叶脉	ye mai	91
+叶梅	ye mei	247
+叶面	ye mian	614
+叶片	ye pian	664
+叶球	ye qiu	179
+叶色	ye se	555
+腋生	ye sheng	465
+叶型	ye xing	10
+叶芽	ye ya	72
+叶腋	ye ye	576
+叶缘	ye yuan	457
+叶子	ye zi	491
+一串红	yi chuan hong	611
+翌年	yi nian	230
+一年生	yi nian sheng	127
+一盆	yi pen	360
+一品红	yi pin hong	243
+移入	yi ru	267
+一叶兰	yi ye lan	592
+移栽	yi zai	647
+阴处	yin chu	446
+荫棚	yin peng	659
+营养土	ying yang tu	596
+营养液	ying yang ye	460
+营养元素	ying yang yuan su	164
+幼虫	you chong	6
+幼苗	you miao	501
+幼苗期	you miao qi	186
+幼株	you zhu	540
+鱼草	yu cao	347
+郁金	yu jin	83
+郁金香	yu jin xiang	124
+玉露	yu lu	241
+育苗	yu miao	570
+玉扇	yu shan	101
+榆叶	yu ye	316
+榆叶梅	yu ye mei	398
+羽衣甘蓝	yu yi gan lan	309
+玉簪	yu zan	25
+羽状	yu zhuang	172
+原产	yuan chan	317
+园土	yuan tu	390
+鸢尾	yuan wei	162
+圆形	yuan xing	24
+园艺	yuan yi	463
+园艺家	yuan yi jia	588
+园艺师	yuan yi shi	269
+园艺学	yuan yi xue	676
+圆锥	yuan zhui	3
+圆锥花序	yuan zhui hua xu	550
+越冬	yue dong	626
+芸香	yun xiang	59
+杂交	za jiao	7
+杂交种	za jiao zhong	270
+栽培	zai pei	583
+栽入	zai ru	51
+栽植	zai zhi	561
+再种	zai zhong	261
+早春	zao chun	58
+增施	zeng shi	549
+摘心	zhai xin	680
+长出	zhang chu	92
+长根	zhang gen	272
+长势	zhang shi	223
+长叶	zhang ye	154
+照相	zhao xiang	703
+遮阴	zhe yin	587
+砧木	zhen mu	535
+针形	zhen xing	254
+真叶	zhen ye	566
+珍珠岩	zhen zhu yan	560
+整枝	zheng zhi	122
+蛭石	zhi shi	648
+枝条	zhi tiao	591
+植物	zhi wu	620
+枝叶	zhi ye	231
+植株	zhi zhu	695
+中国兰	zhong guo lan	559
+种花	zhong hua	147
+种苗	zhong miao	609
+种植	zhong zhi	219
+种子	zhong zi	383
+种子成熟	zhong zi cheng shu	115
+朱顶	zhu ding	704
+朱顶红	zhu ding hong	709
+株高	zhu gao	197
+竹花	zhu hua	211
+猪笼草	zhu long cao	110
+株型	zhu xing	335
+竹芋	zhu yu	645
+追肥	zhui fei	643
+追施	zhui shi	562
+紫红	zi hong	31
+紫罗兰	zi luo lan	173
+紫茉莉	zi mo li	180
+紫藤	zi teng	90
+紫葳	zi wei	429
+总状花序	zong zhuang hua xu	344
+坐果	zuo guo	14
+酢浆草	zuo jiang cao	508

@@ -1,0 +1,353 @@
+# 词库名称: 武汉公交站牌2.0版本
+# 词库分类: 湖北
+# 词库描述: 因为上次的格式可能不对 修改了一下 ~
+# 词条样例: 八古墩、白浒小学、长山、常青路、车城南街
+# 解析词数: 346
+# 解析异常: 0
+
+澳门山庄	ao men shan zhuang	346
+八大家	ba da jia	345
+八古墩	ba gu dun	344
+八铺街	ba pu jie	5
+白浒小学	bai hu xiao xue	343
+白沙洲	bai sha zhou	4
+宝丰二路	bao feng er lu	342
+宝丰路	bao feng lu	341
+北岗村	bei gang cun	340
+北湖	bei hu	339
+滨江	bin jiang	338
+才华街	cai hua jie	337
+蔡家嘴	cai jia zui	334
+才茂街	cai mao jie	336
+才盛街	cai sheng jie	335
+茶山刘	cha shan liu	333
+柴林花园	chai lin hua yuan	332
+常码头	chang ma tou	330
+常青路	chang qing lu	329
+长山	chang shan	331
+车城南街	che cheng nan jie	328
+车家岭	che jia ling	327
+陈家湾	chen jia wan	326
+崇仁北路	chong ren bei lu	325
+创业	chuang ye	324
+创业道	chuang ye dao	323
+慈惠农	ci hui nong	322
+慈惠水厂	ci hui shui chang	321
+大成路	da cheng lu	320
+大东门	da dong men	319
+大黄村	da huang cun	318
+大彭村	da peng cun	317
+大智路	da zhi lu	316
+当代学生公寓	dang dai xue sheng gong yu	315
+倒口南村	dao kou nan cun	314
+丁字桥	ding zi qiao	313
+东风设计院	dong feng she ji yuan	312
+东港	dong gang	311
+东湖	dong hu	310
+东湖高新	dong hu gao xin	309
+东湖开发区	dong hu kai fa qu	308
+东湖路	dong hu lu	307
+东湖新村	dong hu xin cun	306
+东山头	dong shan tou	305
+东亭	dong ting	304
+沌阳大街	dun yang da jie	303
+舵落口	duo luo kou	302
+舵落口大市场	duo luo kou da shi chang	301
+鄂城墩	e cheng dun	300
+鄂州街	e zhou jie	299
+二桥路	er qiao lu	298
+发展一村	fa zhan yi cun	297
+方家嘴	fang jia zui	296
+纺织路	fang zhi lu	295
+分金街	fen jin jie	294
+烽火路	feng huo lu	293
+傅家坡	fu jia po	3
+复兴路	fu xing lu	292
+复兴一村	fu xing yi cun	291
+高坡店	gao po dian	290
+革新大道	ge xin da dao	289
+公路小区	gong lu xiao qu	284
+工农兵路	gong nong bing lu	288
+工农路	gong nong lu	287
+工业大道	gong ye da dao	286
+工业一路	gong ye yi lu	285
+公正路	gong zheng lu	283
+古琴台	gu qin tai	282
+古四北路	gu si bei lu	281
+古田二路	gu tian er lu	280
+古田三路	gu tian san lu	279
+古田四路	gu tian si lu	278
+古田一路	gu tian yi lu	277
+瓜堤	gua di	276
+关南小区	guan nan xiao qu	275
+关山	guan shan	274
+关山饭	guan shan fan	273
+关山饭店	guan shan fan dian	272
+关山口	guan shan kou	271
+关山一路	guan shan yi lu	270
+关山中学	guan shan zhong xue	269
+关西小区	guan xi xiao qu	268
+广八路	guang ba lu	266
+广埠屯	guang bu tun	265
+光谷太阳城	guang gu tai yang cheng	267
+桂元路	gui yuan lu	264
+郭茨口	guo ci kou	263
+国际企业中心	guo ji qi ye zhong xin	262
+汉口火车站	han kou huo che zhan	261
+汉桥村	han qiao cun	260
+汉西火车站	han xi huo che zhan	259
+汉西路	han xi lu	258
+汉西路北段	han xi lu bei duan	257
+汉西路南段	han xi lu nan duan	256
+汉阳客运中心	han yang ke yun zhong xin	255
+汉阳门	han yang men	254
+航海学院	hang hai xue yuan	253
+航空路	hang kong lu	252
+壕沟	hao gou	251
+何家垅	he jia long	250
+洪山	hong shan	249
+洪山路	hong shan lu	248
+洪山体育馆	hong shan ti yu guan	247
+湖北大学	hu bei da xue	246
+虎泉	hu quan	245
+华城广场	hua cheng guang chang	242
+华城新都	hua cheng xin du	241
+花桥一村	hua qiao yi cun	244
+花山	hua shan	243
+华中科技大学	hua zhong ke ji da xue	240
+华中农业大学	hua zhong nong ye da xue	239
+黄家湾	huang jia wan	238
+黄浦二路	huang pu er lu	237
+黄孝河路	huang xiao he lu	236
+惠济路	hui ji lu	235
+惠济三路	hui ji san lu	234
+惠济一路	hui ji yi lu	233
+机场河	ji chang he	232
+吉祥国际	ji xiang guo ji	231
+建二南路	jian er nan lu	229
+建港路	jian gang lu	228
+建设二路	jian she er lu	227
+建设一路	jian she yi lu	226
+简易路	jian yi lu	230
+江宫	jiang gong	225
+江汉路	jiang han lu	224
+江夏客运中心	jiang xia ke yun zhong xin	223
+江夏人民银行	jiang xia ren min yin hang	222
+交通学院	jiao tong xue yuan	221
+街道口	jie dao kou	220
+解放公园	jie fang gong yuan	219
+解放公园路	jie fang gong yuan lu	218
+解放桥	jie fang qiao	217
+金鸡山	jin ji shan	216
+金色港湾	jin se gang wan	215
+经管学院	jing guan xue yuan	214
+九峰森林动物园	jiu feng sen lin dong wu yuan	213
+九万方	jiu wan fang	212
+居仁门	ju ren men	211
+开发区一中	kai fa qu yi zhong	210
+劳动街	lao dong jie	209
+老年公寓	lao nian gong yu	208
+理工大南湖校区	li gong da nan hu xiao qu	207
+利济北路	li ji bei lu	206
+粮道街	liang dao jie	205
+临湖学生公寓	lin hu xue sheng gong yu	204
+龙阳村	long yang cun	202
+六合路	lu he lu	203
+鲁巷	lu xiang	201
+鲁巷广场	lu xiang guang chang	200
+罗家路	luo jia lu	199
+罗家桥	luo jia qiao	198
+珞珈山	luo jia shan	197
+珞狮北路	luo shi bei lu	196
+珞狮路	luo shi lu	195
+珞狮南路	luo shi nan lu	194
+马场角	ma chang jiao	193
+马房山	ma fang shan	192
+马家庄	ma jia zhuang	191
+玫瑰园东路	mei gui yuan dong lu	190
+梅子山	mei zi shan	189
+庙山管委会	miao shan guan wei hui	188
+民院路	min yuan lu	187
+民政学院	min zheng xue yuan	186
+南湖山庄	nan hu shan zhuang	185
+鲇鱼套	nian yu tao	184
+宁康园	ning kang yuan	183
+螃蟹甲	pang xie jia	182
+彭刘杨路	peng liu yang lu	181
+平湖门	ping hu men	180
+普安新村	pu an xin cun	179
+普生制药	pu sheng zhi yao	178
+七里庙	qi li miao	177
+麒麟路	qi lin lu	175
+祈洲街	qi zhou jie	176
+千家街	qian jia jie	174
+前进村	qian jin cun	173
+前三眼桥	qian san yan qiao	172
+硚口	qiao kou	2
+硚口区法院	qiao kou qu fa yuan	1
+琴台路	qin tai lu	170
+秦园居	qin yuan ju	171
+青翠园小区	qing cui yuan xiao qu	169
+清丰	qing feng	166
+青年路	qing nian lu	168
+青鱼嘴	qing yu zui	167
+球场街	qiu chang jie	165
+取水楼	qu shui lou	164
+劝业场	quan ye chang	163
+仁寿路	ren shou lu	162
+三角湖	san jiao hu	161
+三潭路	san tan lu	160
+三秀路	san xiu lu	159
+三眼桥	san yan qiao	158
+三阳路	san yang lu	157
+森林公园	sen lin gong yuan	156
+沙湖	sha hu	155
+山海关路	shan hai guan lu	154
+上钱村	shang qian cun	153
+省博物馆	sheng bo wu guan	150
+省出版城路	sheng chu ban cheng lu	149
+盛帆工业园	sheng fan gong ye yuan	144
+升官渡	sheng guan du	152
+升官渡小区	sheng guan du xiao qu	151
+省警校	sheng jing xiao	148
+省人民医院	sheng ren min yi yuan	147
+省荣军医院	sheng rong jun yi yuan	146
+省肿瘤医院	sheng zhong liu yi yuan	145
+石板头	shi ban tou	140
+世纪广场	shi ji guang chang	135
+石建村	shi jian cun	139
+十里铺	shi li pu	142
+石门峰名人文化公园	shi men feng ming ren wen hua gong yuan	138
+石牌岭	shi pai ling	137
+石牌岭路	shi pai ling lu	136
+十五中	shi wu zhong	141
+狮子山	shi zi shan	143
+首义路	shou yi lu	134
+曙光村	shu guang cun	133
+双墩	shuang dun	132
+水果湖	shui guo hu	131
+顺水口	shun shui kou	130
+四美塘	si mei tang	127
+司门口	si men kou	129
+司门口东站	si men kou dong zhan	128
+四明路	si ming lu	126
+松海苑	song hai yuan	125
+苏家墩	su jia dun	124
+太平洋	tai ping yang	123
+碳黑厂	tan hei chang	122
+唐蔡路	tang cai lu	120
+唐家墩	tang jia dun	119
+汤逊湖北路	tang xun hu bei lu	121
+陶家岭	tao jia ling	118
+体育馆	ti yu guan	117
+统建大江园	tong jian da jiang yuan	116
+土桥	tu qiao	115
+团结村路	tuan jie cun lu	114
+团结路	tuan jie lu	113
+王家店	wang jia dian	111
+汪家墩	wang jia dun	112
+王家墩	wang jia dun	110
+王家畈	wang jia fan	109
+王家湾	wang jia wan	108
+武昌火车站	wu chang huo che zhan	99
+武工大	wu gong da	98
+武汉博物馆	wu han bo wu guan	97
+武汉大学	wu han da xue	96
+武汉法国街	wu han fa guo jie	95
+武汉工程大学	wu han gong cheng da xue	94
+武汉科技大学	wu han ke ji da xue	93
+武汉理工大学	wu han li gong da xue	92
+武汉轻机厂	wu han qing ji chang	91
+武汉体育中心	wu han ti yu zhong xin	90
+武汉晚报	wu han wan bao	89
+武汉职业技术学院	wu han zhi ye ji shu xue yuan	88
+五环路	wu huan lu	104
+吴家村	wu jia cun	107
+吴家桥	wu jia qiao	106
+吴家湾	wu jia wan	105
+五角塘	wu jiao tang	103
+五里墩	wu li dun	102
+五里新村	wu li xin cun	101
+五琴路	wu qin lu	100
+武胜路	wu sheng lu	87
+武泰闸	wu tai zha	86
+武泰闸花园小区	wu tai zha hua yuan xiao qu	85
+武重宿舍	wu zhong su she	84
+西港	xi gang	83
+西马路	xi ma lu	82
+下马庄	xia ma zhuang	81
+下钱东村	xia qian dong cun	80
+下钱西村	xia qian xi cun	79
+香港路	xiang gang lu	78
+小东门	xiao dong men	77
+小东门东站	xiao dong men dong zhan	76
+小何西村	xiao he xi cun	75
+谢家湾	xie jia wan	74
+新店	xin dian	72
+新墩	xin dun	71
+新合村	xin he cun	70
+新华家园	xin hua jia yuan	69
+新华路	xin hua lu	68
+新华明渠路	xin hua ming qu lu	67
+新华下路	xin hua xia lu	66
+辛家地	xin jia di	73
+新生路	xin sheng lu	65
+新五里	xin wu li	63
+新五里一路	xin wu li yi lu	62
+新屋熊	xin wu xiong	64
+幸福村	xing fu cun	61
+徐东村	xu dong cun	60
+徐东路	xu dong lu	59
+徐家棚	xu jia peng	58
+循礼门	xun li men	57
+胭脂路	yan zhi lu	56
+杨汊湖	yang cha hu	54
+杨汊湖路	yang cha hu lu	53
+杨汊湖小区	yang cha hu xiao qu	52
+阳光丽景	yang guang li jing	55
+杨家路	yang jia lu	51
+杨家湾	yang jia wan	50
+杨泗庙	yang si miao	49
+杨园	yang yuan	48
+姚家岭	yao jia ling	46
+腰路堤	yao lu di	47
+叶麻店	ye ma dian	45
+怡博苑	yi bo yuan	40
+宜家汤臣	yi jia tang chen	42
+宜家装饰广场	yi jia zhuang shi guang chang	41
+一六一医院	yi liu yi yi yuan	44
+医药园	yi yao yuan	43
+银城大厦	yin cheng da sha	39
+营房村	ying fang cun	38
+永丰路	yong feng lu	37
+永清街	yong qing jie	36
+尤李村	you li cun	35
+尤李东村	you li dong cun	34
+尤李西村	you li xi cun	33
+油蒌口	you lou kou	32
+友谊路	you yi lu	31
+余家湖	yu jia hu	30
+余家湖村	yu jia hu cun	29
+余家头	yu jia tou	28
+玉龙岛	yu long dao	27
+元宝山	yuan bao shan	26
+岳家嘴	yue jia zui	25
+阅马场	yue ma chang	24
+站邻街	zhan lin jie	23
+赵家条	zhao jia tiao	22
+郑店街	zheng dian jie	21
+支庙机械厂	zhi miao ji xie chang	20
+中华路	zhong hua lu	19
+钟家村	zhong jia cun	14
+中南财经政法大学南湖校区	zhong nan cai jing zheng fa da xue nan hu xiao qu	18
+中南路	zhong nan lu	17
+中南医院	zhong nan yi yuan	16
+中山公园	zhong shan gong yuan	15
+周家大湾	zhou jia da wan	13
+竹苑小区	zhu yuan xiao qu	12
+卓刀泉	zhuo dao quan	11
+紫沙路	zi sha lu	10
+紫菘枫林上城	zi song feng lin shang cheng	9
+紫藤花园	zi teng hua yuan	8
+宗关	zong guan	7
+左岭	zuo ling	6
