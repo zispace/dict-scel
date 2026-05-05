@@ -1,0 +1,496 @@
+# 词库名称: 纵横时空
+# 词库分类: 纵横时空 封魔客 葑魔客 青铜爪 铁爪 白银爪 乌金
+# 词库作者: 我的光辉水月
+# 词库描述: 纵横时空....
+# 词条数量: 488
+# 解析词数: 488
+# 解析异常: 0
+
+纵横时空	zong heng shi kong	0
+封魔客	feng mo ke	0
+葑魔客	feng mo ke	0
+青铜爪	qing tong zhua	0
+青铜爪	qing tong zhao	0
+铁爪	tie zhua	0
+铁爪	tie zhao	0
+白银爪	bai yin zhua	0
+白银爪	bai yin zhao	0
+乌金爪	wu jin zhua	0
+乌金爪	wu jin zhao	0
+紫金爪	zi jin zhua	0
+紫金爪	zi jin zhao	0
+狼牙爪	lang ya zhua	0
+狼牙爪	lang ya zhao	0
+追魂爪	zhui hun zhua	0
+追魂爪	zhui hun zhao	0
+透骨爪	tou gu zhua	0
+透骨爪	tou gu zhao	0
+断肠爪	duan chang zhua	0
+断肠爪	duan chang zhao	0
+黑血爪	he xue zhua	0
+黑血爪	hei xue zhao	0
+七星爪	qi xing zhua	0
+七星爪	qi xing zhao	0
+木杖	mu zhang	0
+铜杖	tong zhang	0
+铁杖	tie zhang	0
+紫金杖	zi jin zhang	0
+水晶杖	shui jing zhang	0
+翡翠杖	fei cui zhang	0
+珊瑚杖	shan hu zhang	0
+寒玉杖	han yu zhang	0
+月轮杖	yue lun zhang	0
+玄火杖	xuan huo zhang	0
+空音杖	kong yin zhang	0
+连环短刀	lian huan duan dao	0
+连环弯刀	lian huan wan dao	0
+青铜刀	qing tong dao	0
+黑铁刀	hei tie dao	0
+鸳鸯刀	yuan yang dao	0
+乌金刀	wu jin dao	0
+月牙刀	yue ya dao	0
+燕翎刀	yan ling dao	0
+青龙刀	qing long dao	0
+玄铁刀	xuan tie dao	0
+偃月刀	yan yue dao	0
+灰布衣	hui bu yi	0
+青纹衣	qing wen yi	0
+千羽衣	qian yu yi	0
+镜月衣	jing yue yi	0
+青铜甲	qing tong jia	0
+精铁甲	jing tie jia	0
+软金甲	ruan jin jia	0
+白鳞甲	bai lin jia	0
+毛皮软甲	mao pi ruan jia	0
+兽皮软甲	shou pi ruan jia	0
+蒙皮软甲	meng pi ruan jia	0
+燕纹软甲	yan wen ruan jia	0
+灰布裤	hui bu ku	0
+青纹裤	qing wen ku	0
+千羽裤	qian yu ku	0
+镜月裤	jing yue ku	0
+青铜腿铠	qing tong tui kai	0
+精铁腿铠	jing tie tui kai	0
+软金腿铠	ruan jin tui kai	0
+白鳞腿铠	bai lin tui kai	0
+毛皮皮裤	mao pi pi ku	0
+兽皮皮裤	shou pi pi ku	0
+蒙皮皮裤	meng pi pi ku	0
+燕纹皮裤	yan wen pi ku	0
+灰布鞋	hui bu xie	0
+青纹鞋	qing wen xie	0
+千羽鞋	qian yu xie	0
+镜月鞋	jing yue xie	0
+青铜靴	qing tong xue	0
+精铁靴	jing tie xue	0
+软金靴	ruan jin xue	0
+白鳞靴	bai lin xue	0
+毛皮鞋	mao pi xie	0
+兽皮鞋	shou pi xie	0
+蒙皮鞋	meng pi xie	0
+燕纹鞋	yan wen xie	0
+灰布头饰	hui bu tou shi	0
+青纹头饰	qing wen tou shi	0
+羽纹头饰	yu wen tou shi	0
+镜月头饰	jing yue tou shi	0
+铜头饰	tong tou shi	0
+精铁头饰	jing tie tou shi	0
+软金头饰	ruan jin tou shi	0
+白鳞头饰	bai lin tou shi	0
+皮头饰	pi tou shi	0
+野兽头饰	ye shou tou shi	0
+蒙纹头饰	meng wen tou shi	0
+燕纹头饰	yan wen tou shi	0
+灰布手腕	hui bu shou wan	0
+青纹手腕	qing wen shou wan	0
+千羽手腕	qian yu shou wan	0
+镜月手腕	jing yue shou wan	0
+青铜手腕	qing tong shou wan	0
+精铁手腕	jing tie shou wan	0
+软金手腕	ruan jin shou wan	0
+白鳞手腕	bai lin shou wan	0
+毛皮手腕	mao pi shou wan	0
+兽皮手腕	shou pi shou wan	0
+蒙皮手腕	meng pi shou wan	0
+燕纹手腕	yan wen shou wan	0
+铜戒指	tong jie zhi	0
+纯铁扳指	chun tie ban zhi	0
+精钢指环	jing gang zhi huan	0
+伪合金指环	wei he jin zhi huan	0
+兽牙戒指	shou ya jie zhi	0
+巨兽扳指	ju shou ban zhi	0
+裂岩戒指	lie yan jie zhi	0
+烟牙戒指	yan ya jie zhi	0
+冷石指环	leng shi zhi huan	0
+合金指环	he jin zhi huan	0
+极限冲击扳指	ji xian chong ji ban zhi	0
+寒冰指环	han bing zhi huan	0
+胶玉扳指	jiao yu ban zhi	0
+紫珊扳指	zi shan ban zhi	0
+闪银指环	shan yin zhi huan	0
+火岩戒指	huo yan jie zhi	0
+灰翼扳指	hui yi ban zhi	0
+银纹戒指	yin wen jie zhi	0
+混光指环	hun guang zhi huan	0
+雾晶指环	wu jing zhi huan	0
+肮脏血肉指环	ang zang xue rou zhi huan	0
+真言咒文扳指	zhen yan zhou wen ban zhi	0
+铜项链	tong xiang lian	0
+棉木护符	mian mu hu fu	0
+缀星项链	zhui xing xiang lian	0
+黑刃之风项链	hei ren zhi feng xiang lian	0
+战歌项链	zhan ge xiang lian	0
+逃亡者护符	tao wang zhe hu fu	0
+巡察兵项链	xun cha bing xiang lian	0
+星骨坠	xing gu zhui	0
+螺铁项链	luo tie xiang lian	0
+漂移者之坠	piao yi zhe zhi zhui	0
+灰夜骑士颈环	hui ye qi shi jing huan	0
+灰夜骑士颈环	hui ye qi shi geng huan	0
+墨玉坠	mo yu zhui	0
+玄气环	xuan qi huan	0
+霜痕项链	shuang hen xiang lian	0
+魂石项链	hun shi xiang lian	0
+天泪项链	tian lei xiang lian	0
+白玉坠	bai yu zhui	0
+晶香环	jing xiang huan	0
+骷髅锁魂项链	ku lou suo hun xiang lian	0
+神冥项链	shen ming xiang lian	0
+光华碎片玉坠	guang hua sui pian yu zhui	0
+灰夜术士颈环	hui ye shu shi jing huan	0
+灰夜术士颈环	hui ye shu shi geng huan	0
+银手镯	yin shou zhuo	0
+玛瑙镯	ma nao zhuo	0
+镶金镯	xiang jin zhuo	0
+黄金镯	huang jin zhuo	0
+镶玉镯	xiang yu zhuo	0
+水晶镯	shui jing zhuo	0
+珊瑚镯	shan hu zhuo	0
+翡翠镯	fei cui zhuo	0
+象牙手镯	xiang ya shou zhuo	0
+紫金镯	zi jin zhuo	0
+血石手镯	xue shi shou zhuo	0
+黄沙胸甲	huang sha xiong jia	0
+黄沙腿铠	huang sha tui kai	0
+黄沙重靴	huang sha zhong xue	0
+黄沙头饰	huang sha tou shi	0
+黄沙护腕	huang sha hu wan	0
+土灵胸甲	tu ling xiong jia	0
+土灵腿铠	tu ling tui kai	0
+土灵重靴	tu ling zhong xue	0
+土灵头饰	tu ling tou shi	0
+土灵护腕	tu ling hu wan	0
+裂岩胸甲	lie yan xiong jia	0
+裂岩腿铠	lie yan tui kai	0
+裂岩靴	lie yan xue	0
+裂岩头饰	lie yan tou shi	0
+裂岩护腕	lie yan hu wan	0
+山神胸甲	shan shen xiong jia	0
+山神腿铠	shan shen tui kai	0
+山神重靴	shan shen zhong xue	0
+山神头饰	shan shen tou shi	0
+山神护腕	shan shen hu wan	0
+冷岩胸甲	leng yan xiong jia	0
+冷岩腿铠	leng yan tui kai	0
+冷岩重靴	leng yan zhong xue	0
+冷岩头饰	leng yan tou shi	0
+冷岩护腕	leng yan hu wan	0
+碧波之衣	bi bo zhi yi	0
+碧波裤	bi bo ku	0
+碧波鞋	bi bo xie	0
+碧波头饰	bi bo tou shi	0
+碧波手腕	bi bo shou wan	0
+流光之衣	liu guang zhi yi	0
+流光裤	liu guang ku	0
+流光鞋	liu guang xie	0
+流光头饰	liu guang tou shi	0
+流光护手	liu guang hu shou	0
+沧浪之衣	cang lang zhi yi	0
+沧浪护腿	cang lang hu tui	0
+沧浪之靴	cang lang zhi xue	0
+沧浪头饰	cang lang tou shi	0
+沧浪护手	cang lang hu shou	0
+海魂之衣	hai hun zhi yi	0
+海魂护腿	hai hun hu tui	0
+海魂之靴	hai hun zhi xue	0
+海魂头饰	hai hun tou shi	0
+海魂护手	hai hun hu shou	0
+沐涛之衣	mu tao zhi yi	0
+沐涛护腿	mu tao hu tui	0
+沐涛之靴	mu tao zhi xue	0
+沐涛头饰	mu tao tou shi	0
+沐涛护手	mu tao hu shou	0
+苍暮软甲	cang mu ruan jia	0
+苍暮皮裤	cang mu pi ku	0
+苍暮鞋	cang mu xie	0
+苍暮头饰	cang mu tou shi	0
+苍暮手腕	cang mu shou wan	0
+誓心软甲	shi xin ruan jia	0
+誓心皮裤	shi xin pi ku	0
+誓心靴	shi xin xue	0
+誓心头饰	shi xin tou shi	0
+誓心手腕	shi xin shou wan	0
+狂飙软甲	kuang biao ruan jia	0
+狂飙皮裤	kuang biao pi ku	0
+狂飙软靴	kuang biao ruan xue	0
+狂飙头饰	kuang biao tou shi	0
+狂飙护腕	kuang biao hu wan	0
+兽王软甲	shou wang ruan jia	0
+兽王护腿	shou wang hu tui	0
+兽王软靴	shou wang ruan xue	0
+兽王护头	shou wang hu tou	0
+兽王护腕	shou wang hu wan	0
+守护软甲	shou hu ruan jia	0
+守护皮裤	shou hu pi ku	0
+守护软靴	shou hu ruan xue	0
+守护头饰	shou hu tou shi	0
+守护手腕	shou hu shou wan	0
+赤血原石	chi xue yuan shi	0
+尖晶原石	jian jing yuan shi	0
+棱光原石	leng guang yuan shi	0
+龙涎原石	long xian yuan shi	0
+蛇纹原石	she wen yuan shi	0
+金刚原石	jin gang yuan shi	0
+琥珀璞玉	hu po pu yu	0
+紫牙璞玉	zi ya pu yu	0
+辐光璞玉	fu guang pu yu	0
+碧影璞玉	bi ying pu yu	0
+回音璞玉	hui yin pu yu	0
+犀甲璞玉	xi jia pu yu	0
+赤血石	chi xue shi	0
+赤血石	chi xue dan	0
+尖晶石	jian jing shi	0
+棱光石	leng guang shi	0
+棱光石	leng guang dan	0
+龙涎石	long xian shi	0
+龙涎石	long xian dan	0
+蛇纹石	she wen shi	0
+金刚石	jin gang shi	0
+琥珀玉	hu po yu	0
+紫牙玉	zi ya yu	0
+辐光玉	fu guang yu	0
+碧影玉	bi ying yu	0
+回音玉	hui yin yu	0
+犀甲玉	xi jia yu	0
+赤血晶石	chi xue jing shi	0
+尖晶晶石	jian jing jing shi	0
+棱光晶石	leng guang jing shi	0
+龙涎晶石	long xian jing shi	0
+蛇纹晶石	she wen jing shi	0
+金刚晶石	jin gang jing shi	0
+琥珀彩玉	hu po cai yu	0
+紫牙彩玉	zi ya cai yu	0
+辐光彩玉	fu guang cai yu	0
+碧影彩玉	bi ying cai yu	0
+回音彩玉	hui yin cai yu	0
+犀甲彩玉	xi jia cai yu	0
+辉煌水晶	hui huang shui jing	0
+火红水晶	huo hong shui jing	0
+血腥水晶	xue xing shui jing	0
+锋利水晶	feng li shui jing	0
+障壁水晶	zhang bi shui jing	0
+碧蓝水晶	bi lan shui jing	0
+符文水晶	fu wen shui jing	0
+斑斓水晶	ban lan shui jing	0
+封印水晶	feng yin shui jing	0
+辉煌宝钻	hui huang bao zuan	0
+火红宝钻	huo hong bao zuan	0
+血腥宝钻	xue xing bao zuan	0
+锋利宝钻	feng li bao zuan	0
+障壁宝钻	zhang bi bao zuan	0
+碧蓝宝钻	bi lan bao zuan	0
+符文宝钻	fu wen bao zuan	0
+斑斓宝钻	ban lan bao zuan	0
+封印宝钻	feng yin bao zuan	0
+永恒之源	yong heng zhi yuan	0
+黎明之星	li ming zhi xing	0
+风暴玫瑰	feng bao mei gui	0
+烁光之心	shuo guang zhi xin	0
+能量水滴	neng liang shui di	0
+狮牙	shi ya	0
+鹰眼	ying yan	0
+白晶	bai jing	0
+铂金	bo jin	0
+蚕丝	can si	0
+赤锰	chi meng	0
+尖晶	jian jing	0
+灵蜕	ling tui	0
+绿松	lv song	0
+魅纹	mei wen	0
+蒙皮	meng pi	0
+梦离丝	meng li si	0
+软猥	ruan wei	0
+珊瑚	shan hu	0
+铁木	tie mu	0
+星芒	xing mang	0
+白银	bai yin	0
+赤铁	chi tie	0
+翡翠	fei cui	0
+寒铜	han tong	0
+恒天灵露	heng tian ling lu	0
+恒天灵露	heng tian ling lou	0
+琥珀	hu po	0
+涣雾灵露	huan wu ling lu	0
+涣雾灵露	huan wu ling lou	0
+雕爪	diao zhua	0
+雕爪	diao zhao	0
+飞刺丝	fei ci si	0
+骨牙	gu ya	0
+寒玉	han yu	0
+黑冥灵露	hei ming ling lu	0
+黑冥灵露	hei ming ling lou	0
+黑铁	hei tie	0
+黄金	huang jin	0
+黄铜	huang tong	0
+火鳞	huo lin	0
+玄铁	xuan tie	0
+焰铜	yan tong	0
+燕甲	yan jia	0
+硬革	ying ge	0
+硬革	ying ji	0
+幽紫翎	you zi ling	0
+陨铜	yun tong	0
+紫金	zi jin	0
+紫木	zi mu	0
+瑟银	se yin	0
+磁石	ci shi	0
+天玄丝	tian xuan si	0
+兽骨	shou gu	0
+冰镜石	bing jing shi	0
+冰镜石	bing jing dan	0
+炎焰石	yan yan shi	0
+炎焰石	yan yan dan	0
+鳞革	lin ge	0
+鳞革	lin ji	0
+巨蛇皮	ju she pi	0
+碧井草	bi jing cao	0
+血晶	xie jing	0
+血晶	xue jing	0
+魔光丝	mo guang si	0
+幻彩液	huan cai ye	0
+韧绸	ren chou	0
+果本	guo ben	0
+云锦	yun jin	0
+精骨	jing gu	0
+方纹革	fang wen ge	0
+方纹革	fang wen ji	0
+晶翅灵露	jing chi ling lu	0
+晶翅灵露	jing chi ling lou	0
+蓝金	lan jin	0
+灵眼	ling yan	0
+韧筋	ren jin	0
+绒羽	rong yu	0
+石灰	shi hui	0
+碳钢	tan gang	0
+钨铜	wu tong	0
+息石	xi shi	0
+息石	xi dan	0
+钟乳	zhong ru	0
+峻甲	jun jia	0
+硫磺	liu huang	0
+硫金	liu jin	0
+冥铁	ming tie	0
+神木液	shen mu ye	0
+石英	shi ying	0
+松胶	song jiao	0
+檀香	tan xiang	0
+铁木丝	tie mu si	0
+乌羽	wu yu	0
+枭刺	xiao ci	0
+云丝	yun si	0
+紫金藤	zi jin teng	0
+祖母绿	zu mu lv	0
+爪击	zhua ji	0
+爪击	zhao ji	0
+盟信	meng xin	0
+盟信	ming xin	0
+盟信	meng shen	0
+盟信	ming shen	0
+虎爪	hu zhao	0
+潜能爆发	qian neng bao fa	0
+胁迫	xie po	0
+强化护甲	qiang hua hu jia	0
+野蛮冲撞	ye man chong zhuang	0
+嘲讽	chao feng	0
+乱舞	luan wu	0
+复苏	fu su	0
+重击	zhong ji	0
+岩牢	yan lao	0
+嗜血一击	shi xue yi ji	0
+肉身强化	rou shen qiang hua	0
+碎甲	sui jia	0
+砂石方阵	sha shi fang zhen	0
+追打	zhui da	0
+大地壁垒	da di bi lei	0
+嗜血狂暴	shi xue kuang bao	0
+震慑	zhen she	0
+万爪归宗	wan zhua gui zong	0
+万爪归宗	wan zhao gui zong	0
+万爪归宗	mo zhua gui zong	0
+万爪归宗	mo zhao gui zong	0
+金钟罩	jin zhong zhao	0
+破魔劲	po mo jin	0
+破魔劲	po mo jing	0
+野蛮天性	ye man tian xing	0
+复仇之愿	fu chou zhi yuan	0
+醉八仙	zui ba xian	0
+冰锥术	bing zhui shu	0
+冰锥术	bing zhui zhu	0
+睿智	rui zhi	0
+治愈术	zhi yu shu	0
+寒冰护甲	han bing hu jia	0
+复活	fu huo	0
+寒冰刺骨	han bing ci gu	0
+愈合术	yu he shu	0
+愈合术	yu he zhu	0
+冰暴术	bing bao shu	0
+冰暴术	bing bao zhu	0
+灵光术	ling guang shu	0
+灵光术	ling guang zhu	0
+魔法护甲	mo fa hu jia	0
+生命祝福	sheng ming zhu fu	0
+寒冰刺盾	han bing ci dun	0
+净化	jing hua	0
+镇海寒冰	zhen hai han bing	0
+群疗术	qun liao shu	0
+群疗术	qun liao zhu	0
+寒冰锐化	han bing rui hua	0
+玄冰刃	xuan bing ren	0
+冰化术	bing hua shu	0
+冰化术	bing hua zhu	0
+生命颂歌	sheng ming song ge	0
+寒冰镣铐	han bing liao kao	0
+冰附	bing fu	0
+神恩	shen en	0
+乾坤诀	qian kun jue	0
+寒冰反射	han bing fan she	0
+海市蜃楼	hai shi shen lou	0
+镇魂曲	zhen hun qu	0
+迎风斩	ying feng zhan	0
+德仁	de ren	0
+疾跑	ji pao	0
+钢刺机关	gang ci ji guan	0
+炼蛊术	lian gu shu	0
+断臂斩	duan bi zhan	0
+灵猿术	ling yuan shu	0
+灵猿术	ling yuan zhu	0
+石化机关	shi hua ji guan	0
+诈死	zha si	0
+生命流失	sheng ming liu shi	0
+隐身	yin shen	0
+眠曲机关	mian qu ji guan	0
+封印	feng yin	0
+震地机关	zhen di ji guan	0
+闪灵术	shan ling shu	0
+闪灵术	shan ling zhu	0
+爆炸机关	bao zha ji guan	0
+逆刃斩	ni ren zhan	0
+泥沼机关	ni zhao ji guan	0
+喘息	chuan xi	0
+封印机关	feng yin ji guan	0
+破袭	po xi	0
+移形换影	yi xing huan ying	0
+狼魂	lang hun	0
+缠绕机关	chan rao ji guan	0
+生命诅咒	sheng ming zu zhou	0
+审判机关	shen pan ji guan	0

@@ -1,0 +1,287 @@
+# 词库名称: 激战2
+# 词库分类: 电子游戏
+# 词库作者: 水深火热60多年
+# 词库描述: 生活材料名 比如：锡碎片.青铜锭.铜矿石.黄麻碎料.黄麻布卷.黄麻线轴……等等
+# 词条数量: 279
+# 解析词数: 279
+# 解析异常: 0
+
+锡碎片	xi sui pian	0
+青铜锭	qing tong ding	0
+铜矿石	tong kuang shi	0
+黄麻碎料	huang ma sui liao	0
+黄麻布卷	huang ma bu juan	0
+黄麻线轴	huang ma xian zhou	0
+生皮皮革边料	sheng pi pi ge bian liao	0
+拉伸生皮皮革片	la shen sheng pi pi ge pian	0
+新生原木	xin sheng yuan mu	0
+新生木板	xin sheng mu ban	0
+铁矿石	tie kuang shi	0
+铁锭	tie ding	0
+铜锭	tong ding	0
+羊毛碎料	yang mao sui liao	0
+羊毛布卷	yang mao bu juan	0
+羊毛线轴	yang mao xian zhou	0
+薄皮皮革边料	bao pi pi ge bian liao	0
+熟化薄皮皮革片	shu hua bao pi pi ge pian	0
+软芯原木	ruan xin yuan mu	0
+软芯木板	ruan xin mu ban	0
+煤碎片	mei sui pian	0
+钢锭	gang ding	0
+银矿石	yin kuang shi	0
+棉布碎料	mian bu sui liao	0
+棉布布卷	mian bu bu juan	0
+棉布线轴	mian bu xian zhou	0
+粗糙皮革边料	cu cao pi ge bian liao	0
+熟化粗糙皮革片	shu hua cu cao pi ge pian	0
+风干原木	feng gan yuan mu	0
+风干木板	feng gan mu ban	0
+白金矿石	bai jin kuang shi	0
+白金锭	bai jin ding	0
+银锭	yin ding	0
+亚麻碎料	ya ma sui liao	0
+亚麻布卷	ya ma bu juan	0
+亚麻线轴	ya ma xian zhou	0
+耐磨皮革边料	nai mo pi ge bian liao	0
+熟化耐磨皮革片	shu hua nai mo pi ge pian	0
+硬质原木	ying zhi yuan mu	0
+硬质木板	ying zhi mu ban	0
+原基碎片	yuan ji sui pian	0
+暗钢锭	an gang ding	0
+金矿石	jin kuang shi	0
+丝绸碎料	si chou sui liao	0
+丝绸布卷	si chou bu juan	0
+丝绸线轴	si chou xian zhou	0
+厚实皮革边料	hou shi pi ge bian liao	0
+熟化厚实皮革片	shu hua hou shi pi ge pian	0
+上古原木	shang gu yuan mu	0
+上古木板	shang gu mu ban	0
+秘银矿石	mi yin kuang shi	0
+秘银矿石	mi yin kuang dan	0
+秘银锭	mi yin ding	0
+金锭	jin ding	0
+薄纱碎料	bao sha sui liao	0
+薄纱布卷	bao sha bu juan	0
+薄纱线轴	bao sha xian zhou	0
+硬质皮革边料	ying zhi pi ge bian liao	0
+熟化硬质皮革片	shu hua ying zhi pi ge pian	0
+远古原木	yuan gu yuan mu	0
+远古木板	yuan gu mu ban	0
+星陨石矿	xing yun shi kuang	0
+星陨锭	xing yun ding	0
+制作师背包组件	zhi zuo shi bei bao zu jian	0
+弱效血瓶	ruo xiao xue ping	0
+骨骼残屑	gu ge can xie	0
+微型钩爪	wei xing gou zhua	0
+微型钩爪	wei xing gou zhao	0
+荧光尘堆	ying guang chen dui	0
+荧光尘堆	ying guang chen zui	0
+微型牙齿	wei xing ya chi	0
+微型鳞片	wei xing lin pian	0
+微型图腾	wei xing tu teng	0
+微型毒囊	wei xing du nang	0
+微型毒囊	wei xing dai nang	0
+强力血瓶	qiang li xue ping	0
+远古骨骼	yuan gu gu ge	0
+稀薄血瓶	xi bo xue ping	0
+骨骼碎块	gu ge sui kuai	0
+小型钩爪	xiao xing gou zhua	0
+小型钩爪	xiao xing gou zhao	0
+微光尘堆	wei guang chen dui	0
+微光尘堆	wei guang chen zui	0
+小型牙齿	xiao xing ya chi	0
+小型鳞片	xiao xing lin pian	0
+小型图腾	xiao xing tu teng	0
+小型毒囊	xiao xing du nang	0
+小型毒囊	xiao xing dai nang	0
+恶毒钩爪	e du gou zhua	0
+恶毒钩爪	e du gou zhao	0
+晶化尘堆	jing hua chen dui	0
+晶化尘堆	jing hua chen zui	0
+通用血瓶	tong yong xue ping	0
+中型骨骼	zhong xing gu ge	0
+中型钩爪	zhong xing gou zhua	0
+中型钩爪	zhong xing gou zhao	0
+明光尘堆	ming guang chen dui	0
+明光尘堆	ming guang chen zui	0
+中型牙齿	zhong xing ya chi	0
+中型鳞片	zhong xing lin pian	0
+中型图腾	zhong xing tu teng	0
+中型毒囊	zhong xing du nang	0
+中型毒囊	zhong xing dai nang	0
+恶毒牙齿	e du ya chi	0
+装甲鳞片	zhuang jia lin pian	0
+浓稠血瓶	nong chou xue ping	0
+重型骨骼	zhong xing gu ge	0
+尖锐钩爪	jian rui gou zhua	0
+尖锐钩爪	jian rui gou zhao	0
+高亮尘堆	gao liang chen dui	0
+高亮尘堆	gao liang chen zui	0
+尖锐牙齿	jian rui ya chi	0
+光滑鳞片	guang hua lin pian	0
+雕蚀图腾	diao shi tu teng	0
+完整毒囊	wan zheng du nang	0
+完整毒囊	wan zheng dai nang	0
+精美图腾	jing mei tu teng	0
+强力毒囊	qiang li du nang	0
+强力毒囊	qiang li dai nang	0
+强效血瓶	qiang xiao xue ping	0
+大型骨骼	da xing gu ge	0
+大型钩爪	da xing gou zhua	0
+大型钩爪	da xing gou zhao	0
+炽光尘堆	chi guang chen dui	0
+炽光尘堆	chi guang chen zui	0
+大型牙齿	da xing ya chi	0
+大型鳞片	da xing lin pian	0
+精致图腾	jing zhi tu teng	0
+强效毒囊	qiang xiao du nang	0
+强效毒囊	qiang xiao dai nang	0
+喀壳虫壳	ka ke chong ke	0
+喀壳虫壳	ka qiao chong ke	0
+喀壳虫壳	ka ke chong qiao	0
+喀壳虫壳	ka qiao chong qiao	0
+钟表扣链齿轮	zhong biao kou lian chi lun	0
+水晶银片	shui jing yin pian	0
+毁灭者银片	hui mie zhe yin pian	0
+腐化银片	fu hua yin pian	0
+污染精华	wu ran jing hua	0
+充能银片	chong neng yin pian	0
+充能银片	chong nai yin pian	0
+玛瑙银片	ma nao yin pian	0
+熔火银片	rong huo yin pian	0
+冰川银片	bing chuan yin pian	0
+大型头骨	da xing tou gu	0
+瓶装浓缩迷雾精华	ping zhuang nong suo mi wu jing hua	0
+水晶裂片	shui jing lie pian	0
+毁灭者裂片	hui mie zhe lie pian	0
+腐化裂片	fu hua lie pian	0
+恶臭精华	e chou jing hua	0
+充能裂片	chong neng lie pian	0
+充能裂片	chong nai lie pian	0
+玛瑙裂片	ma nao lie pian	0
+熔火裂片	rong huo lie pian	0
+冰川裂片	bing chuan lie pian	0
+日光念珠	ri guang nian zhu	0
+球形凝固迷雾精华	qiu xing ning gu mi wu jing hua	0
+水晶碎块	shui jing sui kuai	0
+毁灭者碎块	hui mie zhe sui kuai	0
+腐化碎块	fu hua sui kuai	0
+污秽精华	wu hui jing hua	0
+玛瑙碎块	ma nao sui kuai	0
+熔火碎块	rong huo sui kuai	0
+冰川碎块	bing chuan sui kuai	0
+巨型眼球	ju xing yan qiu	0
+片状结晶迷雾精华	pian zhuang jie jing mi wu jing hua	0
+水晶内核	shui jing nei he	0
+毁灭者内核	hui mie zhe nei he	0
+腐化内核	fu hua nei he	0
+邪恶精华	xie e jing hua	0
+充能内核	chong neng nei he	0
+充能内核	chong nai nei he	0
+玛瑙内核	ma nao nei he	0
+熔火内核	rong huo nei he	0
+冰川内核	bing chuan nei he	0
+球形灵质	qiu xing ling zhi	0
+黑曜石碎块	hei yao shi sui kuai	0
+水晶磁石	shui jing ci shi	0
+毁灭者磁石	hui mie zhe ci shi	0
+腐化磁石	fu hua ci shi	0
+腐烂精华	fu lan jing hua	0
+充能磁石	chong neng ci shi	0
+充能磁石	chong nai ci shi	0
+玛瑙磁石	ma nao ci shi	0
+熔火磁石	rong huo ci shi	0
+冰川磁石	bing chuan ci shi	0
+神秘硬币	shen mi ying bi	0
+充能石英晶体	chong neng shi ying jing ti	0
+充能石英晶体	chong nai shi ying jing ti	0
+强化灵质	qiang hua ling zhi	0
+原始剧毒孢子样本	yuan shi ju du bao zi yang ben	0
+钟表机械	zhong biao ji xie	0
+血石尘	xue shi chen	0
+晶石矿	jing shi kuang	0
+龙岩矿	long yan kuang	0
+至纯残片	zhi chun can pian	0
+上古之灵残骸团	shang gu zhi ling can hai tuan	0
+厚实伊伦娜细线线轴	hou shi yi lun na xi xian xian zhou	0
+厚实伊伦娜细线线轴	hou shi yi lun nuo xi xian xian zhou	0
+丝绸编织线轴	si chou bian zhi xian zhou	0
+秘银碎片	mi yin sui pian	0
+桑莱电金锭	sang lai dian jin ding	0
+暗物质团	an wu zhi tuan	0
+血石砖	xue shi zhuan	0
+晶石锭	jing shi ding	0
+龙岩锭	long yan ding	0
+至纯之星	zhi chun zhi xing	0
+灵木木板	ling mu mu ban	0
+伊伦娜皮革片	yi lun na pi ge pian	0
+伊伦娜皮革片	yi lun nuo pi ge pian	0
+德里莫钢锭	de li mo gang ding	0
+德里莫钢锭	de li mu gang ding	0
+热电催化试剂	re dian cui hua shi ji	0
+琥珀卵石	hu po luan shi	0
+石榴卵石	shi liu luan shi	0
+孔雀石卵石	kong que shi luan shi	0
+珍珠	zhen zhu	0
+虎眼卵石	hu yan luan shi	0
+绿松石卵石	lv song shi luan shi	0
+紫晶残片	zi jing can pian	0
+红玉髓残片	hong yu sui can pian	0
+天青石残片	tian qing shi can pian	0
+橄榄石残片	gan lan shi can pian	0
+尖晶石残片	jian jing shi can pian	0
+日长石残片	ri chang shi can pian	0
+黄玉残片	huang yu can pian	0
+紫晶碎片	zi jing sui pian	0
+红玉髓碎片	hong yu sui sui pian	0
+天青石碎片	tian qing shi sui pian	0
+橄榄石碎片	gan lan shi sui pian	0
+尖晶石碎片	jian jing shi sui pian	0
+日长时碎片	ri chang shi sui pian	0
+黄玉碎片	huang yu sui pian	0
+绿玉石碎片	lv yu shi sui pian	0
+绿玉石碎片	lv yu dan sui pian	0
+孔雀石碎片	kong que shi sui pian	0
+珊瑚块	shan hu kuai	0
+翡翠碎块	fei cui sui kuai	0
+蛋白石碎块	dan bai shi sui kuai	0
+红宝石碎块	hong bao shi sui kuai	0
+蓝宝石碎块	lan bao shi sui kuai	0
+绿玉石晶体	lv yu shi jing ti	0
+绿玉石晶体	lv yu shi jing ben	0
+孔雀石晶体	kong que shi jing ti	0
+珊瑚触手	shan hu chu shou	0
+翡翠晶体	fei cui jing ti	0
+蛋白石晶体	dan bai shi jing ti	0
+红宝石晶体	hong bao shi jing ti	0
+蓝宝石晶体	lan bao shi jing ti	0
+西番莲	xi fan lian	0
+蓝铜晶体	lan tong jing ti	0
+绿玉石宝珠	lv yu shi bao zhu	0
+绿玉石宝珠	lv yu dan bao zhu	0
+孔雀石宝珠	kong que shi bao zhu	0
+珊瑚宝珠	shan hu bao zhu	0
+翡翠宝珠	fei cui bao zhu	0
+蛋白石宝珠	dan bai shi bao zhu	0
+红宝石宝珠	hong bao shi bao zhu	0
+蓝宝石宝珠	lan bao shi bao zhu	0
+蓝铜宝珠	lan tong bao zhu	0
+石英晶体	shi ying jing ti	0
+玉米糖块	yu mi tang kuai	0
+颤动颅骨	chan dong lu gu	0
+牛轧夹心糖	niu zha jia xin tang	0
+牛轧夹心糖	niu ya jia xin tang	0
+塑料尖牙	su liao jian ya	0
+微型雪花	wei xing xue hua	0
+纤弱雪花	xian ruo xue hua	0
+闪亮雪花	shan liang xue hua	0
+独特雪花	du te xue hua	0
+原始雪花	yuan shi xue hua	0
+无暇雪花	wu xia xue hua	0
+泽坦太妃糖块	ze tan tai fei tang kuai	0
+泽坦太妃糖块	shi tan tai fei tang kuai	0
+玉米糖果棒	yu mi tang guo bang	0
+多嘴头骨	duo zui tou gu	0
+高品质塑料尖牙	gao pin zhi su liao jian ya	0
+泰瑞亚最好的牛轧糖心	tai rui ya zui hao de niu zha tang xin	0
+泰瑞亚最好的牛轧糖心	tai rui ya zui hao de niu ya tang xin	0

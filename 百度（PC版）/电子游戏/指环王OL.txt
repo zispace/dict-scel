@@ -1,0 +1,745 @@
+# 词库名称: 指环王OL
+# 词库分类: 剑典 战斗的乐趣 宗师之刃 野兽大师 巫术学识 医者
+# 词库作者: 三号阳光宅男
+# 词库描述: 指环王OL
+# 词条数量: 737
+# 解析词数: 741
+# 解析异常: 4
+
+埃雷德鲁因	ai lei de lu yin	0
+福罗切尔	fu luo qie er	0
+伊凡丁	yi fan ding	0
+伊凡丁	yi fan zheng	0
+夏尔	xia er	0
+北岗	bei gang	0
+安格玛	an ge ma	0
+伊顿荒原	yi dun huang yuan	0
+孤土	gu tu	0
+布雷	bu lei	0
+布雷兰	bu lei lan	0
+埃里吉翁	ai li ji weng	0
+埃里阿多尔	ai li a duo er	0
+林顿	lin dun	0
+佛洛威治	fo luo wei zhi	0
+佛洛威治	fu luo wei zhi	0
+佛洛威治	bi luo wei zhi	0
+佛洛威治	bo luo wei zhi	0
+伊宁威治	yi ning wei zhi	0
+罗翰	luo han	0
+刚铎	gang duo	0
+魔多	mo duo	0
+坎德	kan de	0
+贝勒盖尔	bei le gai er	0
+洛瓦尼安	luo wa ni an	0
+鲁恩	lu en	0
+哈拉德	ha la de	0
+莫里亚	mo li ya	0
+梵贡	fan gong	0
+格莱顿	ge lai dun	0
+洛丝萝林	luo si luo lin	0
+褐地	he di	0
+褐地	he de	0
+褐袍	he pao	0
+达哥拉	da ge la	0
+莫尔高地	mo er gao di	0
+蠓水沼泽	meng shui zhao ze	0
+蠓水沼泽	meng shui zhao shi	0
+风云领	feng yun ling	0
+风云顶	feng yun ding	0
+安努洛斯	an nu luo si	0
+米纳斯埃瑞	mi na si ai rui	0
+耐安尼德	nai an ni de	0
+奥斯特	ao si te	0
+古鲁斯	gu lu si	0
+阿格摩尔	a ge mo er	0
+加斯阿格温	jia si a ge wen	0
+哈力格马	ha li ge ma	0
+塔拉斯冈	ta la si gang	0
+终末桥	zhong mo qiao	0
+哈罗格	ha luo ge	0
+霍比特	huo bi te	0
+傍水镇	bang shui zhen	0
+小戴尔文	xiao dai er wen	0
+迈克尔	mai ke er	0
+汇合镇	hui he zhen	0
+霍比屯	huo bi tun	0
+霍比屯	huo bi zhun	0
+塔克镇	ta ke zhen	0
+针眼儿洞	zhen yan er dong	0
+山顶镇	shan ding zhen	0
+鲁绍科沼泽	lu shao ke zhao ze	0
+山岗	shan gang	0
+耶尔高地	ye er gao di	0
+桑的森农场	sang de sen nong chang	0
+桑的森农场	sang di sen nong chang	0
+马松之家	ma song zhi jia	0
+袋底洞	dai di dong	0
+袋底洞	dai de dong	0
+滨雷德	bin lei de	0
+洛贝的森林	luo bei de sen lin	0
+洛贝的森林	luo bei di sen lin	0
+波尔斯通斯	bo er si tong si	0
+绿野	lv ye	0
+布罗肯洞	bu luo ken dong	0
+蛙村	wa cun	0
+绿山乡村	lv shan xiang cun	0
+木厅	mu ting	0
+威尔桥	wei er qiao	0
+马里希	ma li xi	0
+斯多克	si duo ke	0
+羊皮渡口	yang pi du kou	0
+恐怖谷	kong bu gu	0
+恐怖谷	kong bu yu	0
+白兰地河	bai lan di he	0
+掷矛者	zhi mao zhe	0
+碾压者	nian ya zhe	0
+持矛者	chi mao zhe	0
+先驱者	xian qu zhe	0
+掷火者	zhi huo zhe	0
+卡拉	ka la	0
+昂格布兹	ang ge bu zi	0
+昂格布兹	ang ge bu ci	0
+萨库洛布	sa ku luo bu	0
+挑衅者	tiao xin zhe	0
+追踪者	zhui zong zhe	0
+幻形怪	huan xing guai	0
+挥砍者	hui kan zhe	0
+加扎特巴格	jia zha te ba ge	0
+加扎特巴格	jia za te ba ge	0
+切割者	qie ge zhe	0
+布洛格默	bu luo ge mo	0
+凿洞者	zao dong zhe	0
+祖麦特	zu mai te	0
+詹斯洛格	zhan si luo ge	0
+卡莫迪	ka mo di	0
+卡莫迪	qia mo di	0
+卡莫迪	ka mu di	0
+卡莫迪	qia mu di	0
+斯拉克	si la ke	0
+乌都鲁格	wu dou lu ge	0
+乌都鲁格	wu du lu ge	0
+哥兹麦特	ge zi mai te	0
+哥兹麦特	ge ci mai te	0
+呐喊者	na han zhe	0
+福特斯	fu te si	0
+卡拉鲁恩	ka la lu en	0
+达夫瑞姆	da fu rui mu	0
+玛马	ma ma	0
+卡格赫兹	ka ge he zi	0
+卡格赫兹	qia ge he zi	0
+奉承者	feng cheng zhe	0
+克拉加恩	ke la jia en	0
+犹古	you gu	0
+垢尔伯	gou er bo	0
+垢尔伯	gou er bai	0
+垢尔伯	gou er ba	0
+帕苏敏	pa su min	0
+卡萨克	ka sa ke	0
+谄媚者	chan mei zhe	0
+布欧克	bu ou ke	0
+加沙姆	jia sha mu	0
+姆德汉	mu de han	0
+恶棍菲姆	e gun fei mu	0
+萨多克	sa duo ke	0
+拉图布	la tu bu	0
+阿斯普克	a si pu ke	0
+破胆者	po dan zhe	0
+格瑞莎克若姆	ge rui sha ke ruo mu	0
+格瑞莎克若姆	ge rui suo ke ruo mu	0
+格瑞莎克若姆	ge rui sha ke re mu	0
+格瑞莎克若姆	ge rui suo ke re mu	0
+斯诺雷普	si nuo lei pu	0
+达格穆萨克	da ge mu sa ke	0
+爆破工	bao po gong	0
+葆希	bao xi	0
+卡瑞笆格	ka rui ba ge	0
+卡瑞笆格	qia rui ba ge	0
+度姆尔	du mu er	0
+度姆尔	duo mu er	0
+迦阿斯	jia a si	0
+垢扎德	gou zha de	0
+卡迦拉特	ka jia la te	0
+卡迦拉特	qia jia la te	0
+达哈马博	da ha ma bo	0
+哥布林	ge bu lin	0
+萨穆萨博	sa mu sa bo	0
+格劳斯	ge lao si	0
+巴格弗拉	ba ge fu la	0
+嘎兹卢浦	ga zi lu pu	0
+嘎兹卢浦	ga ci lu pu	0
+范德茅	fan de mao	0
+克茹志昂图	ke ru zhi ang tu	0
+库卢布	ku lu bu	0
+阿提什高尔	a ti shen gao er	0
+阿提什高尔	a ti shi gao er	0
+高鲁尔兹	gao lu er zi	0
+高鲁尔兹	gao lu er ci	0
+德雷夫拉吉	de lei fu la ji	0
+斯拉科	si la ke	0
+奎步布	kui bu bu	0
+埃普斯杜夫	ai pu si du fu	0
+匹兹杜尔工头	pi zi du er gong tou	0
+匹兹杜尔工头	pi ci du er gong tou	0
+拉尔兹毛高斯工头	la er zi mao gao si gong tou	0
+拉尔兹毛高斯工头	la er ci mao gao si gong tou	0
+格勒欧克工头	ge le ou ke gong tou	0
+塔卢姆工头	ta lu mu gong tou	0
+普什伊酋长	pu shen yi qiu zhang	0
+普什伊酋长	pu shi yi qiu zhang	0
+大工头塔卡伯克	da gong tou ta ka bo ke	0
+巡游者法玛克	xun you zhe fa ma ke	0
+博格哈得	bo ge ha de	0
+博格哈得	bo ge ha dei	0
+陶恩酋长	tao en qiu zhang	0
+陶恩酋长	yao en qiu zhang	0
+阿克拉什	a ke la shen	0
+阿克拉什	a ke la shi	0
+奥格胡克无赖	ao ge hu ke wu lai	0
+匹兹布尔	pi zi bu er	0
+匹兹布尔	pi ci bu er	0
+袭击者	xi ji zhe	0
+观察者达伽尔	guan cha zhe da ga er	0
+观察者达伽尔	guan cha zhe da qie er	0
+观察者达伽尔	guan cha zhe da jia er	0
+修鼓工考沙尔	xiu gu gong kao sha er	0
+拷打者马图卡	kao da zhe ma tu ka	0
+拷打者马图卡	kao da zhe ma tu qia	0
+努姆胡卡如酋长	nu mu hu ka ru qiu zhang	0
+努姆胡卡如酋长	nu mu hu qia ru qiu zhang	0
+扎不尔兹酋长	zha bu er zi qiu zhang	0
+扎不尔兹酋长	za bu er zi qiu zhang	0
+扎不尔兹酋长	zha bu er ci qiu zhang	0
+扎不尔兹酋长	za bu er ci qiu zhang	0
+阿尔舒酋长	a er shu qiu zhang	0
+格拉斯鲁克酋长	ge la si lu ke qiu zhang	0
+贾克努尔兹酋长	jia ke nu er zi qiu zhang	0
+贾克努尔兹酋长	gu ke nu er zi qiu zhang	0
+贾克努尔兹酋长	jia ke nu er ci qiu zhang	0
+贾克努尔兹酋长	gu ke nu er ci qiu zhang	0
+拉考苏尔兹	la kao su er zi	0
+拉考苏尔兹	la kao su er ci	0
+霍姆的训练师	huo mu de xun lian shi	0
+霍姆的训练师	huo mu di xun lian shi	0
+杜热库姆酋长	du re ku mu qiu zhang	0
+斯纳格费古工头	si na ge fei gu gong tou	0
+菲姆发什酋长	fei mu fa shen qiu zhang	0
+菲姆发什酋长	fei mu fa shi qiu zhang	0
+巴拉克	ba la ke	0
+佐戈塔克	zuo ge ta ke	0
+尤罗	you luo	0
+精英之王	jing ying zhi wang	0
+纳努鲁巴	na nu lu ba	0
+复仇之王	fu chou zhi wang	0
+莫库尔	mo ku er	0
+莫库尔	mu ku er	0
+次级精英	ci ji jing ying	0
+加什里普	jia shen li pu	0
+加什里普	jia shi li pu	0
+伊奥纳斯	yi ao na si	0
+默琳	mo lin	0
+古墓尸虫	gu mu shi chong	0
+沼泽蝇	zhao ze ying	0
+沙唧虫	sha ji chong	0
+沙蝇	sha ying	0
+迅爪	xun zhua	0
+迅爪	xun zhao	0
+火蝇	huo ying	0
+顽石恶蟹	wan shi e xie	0
+顽石恶蟹	wan shi wu xie	0
+镰蝇	lian ying	0
+壑口恶蟹	he kou e xie	0
+壑口恶蟹	he kou wu xie	0
+山岭恶蟹	shan ling e xie	0
+山岭恶蟹	shan ling wu xie	0
+掠湖虫	lue hu chong	0
+亮尾	liang wei	0
+亮尾	liang yi	0
+爬行蟹	pa xing xie	0
+湖蝇	hu ying	0
+扼网	e wang	0
+鬼贡	gui gong	0
+高尔高瑞丝	gao er gao rui si	0
+魔罗薇尔	mo luo wei er	0
+死寒冰魔	si han bing mo	0
+瘟疫尸妖	wen yi shi yao	0
+费干迪	fei gan di	0
+复仇者	fu chou zhe	0
+尸妖头领	shi yao tou ling	0
+残忍冰魔	can ren bing mo	0
+恐怖冰魔	kong bu bing mo	0
+酷寒冰魔	ku han bing mo	0
+博格卢克	bo ge lu ke	0
+阴冷冰魔	yin leng bing mo	0
+寒霜冰魔	han shuang bing mo	0
+血爪	xue zhao	0
+亚瓦尔	ya wa er	0
+祖提丝	zu ti si	0
+祖提丝	zu di si	0
+吉欧古尔	ji ou gu er	0
+拉尔雯	la er wen	0
+林格希尔	lin ge xi er	0
+丹侬吉尔	dan nong ji er	0
+尸妖死神	shi yao si shen	0
+黑灵	hei ling	0
+海奇加姆	hai qi jia mu	0
+海奇加姆	hai ji jia mu	0
+尤杜尼恩	you du ni en	0
+塔巴姆	ta ba mu	0
+食影者	shi ying zhe	0
+食影者	si ying zhe	0
+食影者	yi ying zhe	0
+咬石者	yao shi zhe	0
+咬石者	yao dan zhe	0
+索尔拉奇	suo er la qi	0
+德鲁高斯	de lu gao si	0
+伪龙	wei long	0
+火蜥蜴	huo xi yi	0
+冷酷地龙	leng ku di long	0
+岩地龙	yan di long	0
+伽加潘	ga jia pan	0
+伽加潘	qie jia pan	0
+伽加潘	jia jia pan	0
+鲁卢格	lu lu ge	0
+萨林密尔	sa lin mi er	0
+萨拉戈	sa la ge	0
+蜥蜴	xi yi	0
+卡塔拉欧特斯	ka ta la ou te si	0
+卡塔拉欧特斯	qia ta la ou te si	0
+贝莱刚克	bei lai gang ke	0
+林格达尼尔	lin ge da ni er	0
+帕克思卡尔瓦	pa ke si ka er wa	0
+帕克思卡尔瓦	pa ke sai ka er wa	0
+纳什茂	na shi mao	0
+布鲁拉格	bu lu la ge	0
+普拉恩克	pu la en ke	0
+格吉	ge ji	0
+布兹古斯特	bu zi gu si te	0
+布兹古斯特	bu ci gu si te	0
+鲁格瑞恩	lu ge rui en	0
+热姆格吉	re mu ge ji	0
+布兹德尔	bu zi de er	0
+布兹德尔	bu ci de er	0
+胡路格	hu lu ge	0
+怒路格	nu lu ge	0
+科诺	ke nuo	0
+格多莉丝	ge duo li si	0
+温特赛博	wen te sai bo	0
+布鲁根	bu lu gen	0
+奥多	ao duo	0
+黑荒	hei huang	0
+斯冈克伍德	si gang ke wu de	0
+彭盖尔	peng gai er	0
+彭盖尔	bang gai er	0
+利芙温娜	li fu wen na	0
+利芙温娜	li fu wen nuo	0
+斯瓦尔方	si wa er fang	0
+赫罗斯威尔	he luo si wei er	0
+阿里费尔	a li fei er	0
+埃米尔	ai mi er	0
+斯特瓦甘	si te wa gan	0
+裂地者	lie di zhe	0
+裂地者	lie de zhe	0
+斯拉瑟	si la se	0
+阿斯莫夫	a si mo fu	0
+阿斯莫夫	a si mu fu	0
+托特瑞格	tuo te rui ge	0
+海洛金	hai luo jin	0
+弗玛罗尔	fu ma luo er	0
+喷吐怪	pen tu guai	0
+腐烂松王	fu lan song wang	0
+黑心	hei xin	0
+塔沃夏克	ta wo xia ke	0
+戈索隆	ge suo long	0
+库尔斯	ku er si	0
+葛姆布恩	ge mu bu en	0
+达士凯尔	da shi kai er	0
+布瑞兹瑞普	bu rui zi rui pu	0
+布瑞兹瑞普	bu rui ci rui pu	0
+瑟卓夫	se zhuo fu	0
+夏克普	xia ke pu	0
+加奥罗格打谷者	jia ao luo ge da gu zhe	0
+剥皮者	bao pi zhe	0
+嘉德胡布	jia de hu bu	0
+苔背	tai bei	0
+斯诺雷普冰拳	si nuo lei pu bing quan	0
+佐达斯工头	zuo da si gong tou	0
+戈洛泊工头	ge luo bo gong tou	0
+戈洛泊工头	ge luo po gong tou	0
+萨库洛布工头	sa ku luo bu gong tou	0
+卡拉工头	ka la gong tou	0
+戈洛挲克工头	ge luo sha ke gong tou	0
+戈洛挲克工头	ge luo suo ke gong tou	0
+戈洛挲克工头	ge luo sa ke gong tou	0
+尼殷酋长	ni yin qiu zhang	0
+尼殷酋长	ni yan qiu zhang	0
+洛斯杜克	luo si du ke	0
+柯斯	ke si	0
+克拉加恩猛男	ke la jia en meng nan	0
+格迪胡普首领	ge di hu pu shou ling	0
+沙托克酋长	sha tuo ke qiu zhang	0
+雷德斯瑞普斯工头	lei de si rui pu si gong tou	0
+兹穆埃尔普工头	zi mu ai er pu gong tou	0
+兹穆埃尔普工头	ci mu ai er pu gong tou	0
+杜尔弗拉古兹酋长	du er fu la gu zi qiu zhang	0
+杜尔弗拉古兹酋长	du er fu la gu ci qiu zhang	0
+格卢布鲁克工头	ge lu bu lu ke gong tou	0
+布罗杉工头	bu luo shan gong tou	0
+布罗杉工头	bu luo sha gong tou	0
+杜拉格工头	du la ge gong tou	0
+加斯	jia si	0
+戈索隆斗士	ge suo long dou shi	0
+塔尔拉克	ta er la ke	0
+霍姆	huo mu	0
+巴拉舍尔	ba la she er	0
+斯托欧克	si tuo ou ke	0
+弗鲁兹	fu lu zi	0
+弗鲁兹	fu lu ci	0
+盖斯汉	gai si han	0
+弃肉者	qi rou zhe	0
+伊戈拉斯中士	yi ge la si zhong shi	0
+米布赖斯中士	mi bu lai si zhong shi	0
+苏雷姆本中士	su lei mu ben zhong shi	0
+大元帅努尔德汉姆	da yuan shuai nu er de han mu	0
+格拉斯利莱尔	ge la si li lai er	0
+图德尤尔统帅	tu de you er tong shuai	0
+战争旗手	zhan zheng qi shou	0
+清醒之语	qing xing zhi yu	0
+力挽狂澜	li wan kuang lan	0
+精准打击	jing zhun da ji	0
+无惧黑暗	wu ju hei an	0
+旗手的勇气	qi shou de yong qi	0
+旗手的勇气	qi shou di yong qi	0
+精妙指挥	jing miao zhi hui	0
+威慑怒吼	wei she nu hou	0
+旗手的希望	qi shou de xi wang	0
+攻击专家	gong ji zhuan jia	0
+怒不可遏	nu bu ke e	0
+努美诺之血	nu mei nuo zhi xie	0
+努美诺之血	nu mei nuo zhi xue	0
+旗手的胜利	qi shou de sheng li	0
+烛之焰	zhu zhi yan	0
+论勇气	lun yong qi	0
+誓言之书	shi yan zhi shu	0
+盾牌专精	dun pai zhuan jing	0
+强化刺击	qiang hua ci ji	0
+盾卫守护	dun wei shou hu	0
+气定神闲	qi ding shen xian	0
+扰乱者	rao luan zhe	0
+无私守护	wu si shou hu	0
+勇敢的心	yong gan de xin	0
+战斗高潮	zhan dou gao chao	0
+最佳防御	zui jia fang yu	0
+持盾少女之歌	chi dun shao nv zhi ge	0
+强力之音	qiang li zhi yin	0
+诗人之锤	shi ren zhi chui	0
+舒缓之音	shu huan zhi yin	0
+和谐旋律	he xie xuan lv	0
+生命歌者	sheng ming ge zhe	0
+专注吟唱	zhuan zhu yin chang	0
+一线曙光	yi xian shu guang	0
+精妙动作	jing miao dong zuo	0
+银舌	yin she	0
+歌声之力	ge sheng zhi li	0
+战斗旋律	zhan dou xuan lv	0
+诗人的救助	shi ren de jiu zhu	0
+诗人的救助	shi ren di jiu zhu	0
+梵拉仙韵	fan la xian yun	0
+激扬之弦	ji yang zhi xian	0
+勇气进行曲	yong qi jin xing qu	0
+狡诈创伤	jiao zha chuang shang	0
+隐形匕首	yin xing bi shou	0
+迅捷精准	xun jie jing zhun	0
+进阶迷惑	jin jie mi huo	0
+专注之眼	zhuan zhu zhi yan	0
+侧身闪避	ce shen shan bi	0
+致残攻击	zhi can gong ji	0
+暗影突袭	an ying tu xi	0
+隐匿精通	yin ni jing tong	0
+眩目狂怒	xuan mu kuang nu	0
+战刀录	zhan dao lu	0
+霍比特人脚趾	huo bi te ren jiao zhi	0
+霍比特人腿	huo bi te ren tui	0
+矮人胡须	ai ren hu xu	0
+人的腿	ren de tui	0
+油煮好了	you zhu hao le	0
+油煮好了	you zhu hao liao	0
+箭木	jian mu	0
+伊森迪普矿洞	yi sen di pu kuang dong	0
+牢固陷阱	lao gu xian jing	0
+复仇荆棘	fu chou jing ji	0
+强力射击	qiang li she ji	0
+强化感知	qiang hua gan zhi	0
+冰雹箭	bing bao jian	0
+暴风箭	bao feng jian	0
+致命精确	zhi ming jing que	0
+精确射击	jing que she ji	0
+优雅射击	you ya she ji	0
+隐匿射击	yin ni she ji	0
+迅捷恢复	xun jie hui fu	0
+暗影之箭	an ying zhi jian	0
+野性呼唤	ye xing hu huan	0
+疾风暴雨	ji feng bao yu	0
+眩目之刃	xuan mu zhi ren	0
+重伤打击	zhong shang da ji	0
+风暴之眼	feng bao zhi yan	0
+危急之时	wei ji zhi shi	0
+剑典	jian dian	0
+战斗的乐趣	zhan dou de le qu	0
+战斗的乐趣	zhan dou di le qu	0
+宗师之刃	zong shi zhi ren	0
+杖术大师	zhang shu da shi	0
+杖术大师	zhang zhu da shi	0
+希望圣光	xi wang sheng guang	0
+野兽大师	ye shou da shi	0
+巫术学识	wu shu xue shi	0
+医者	yi zhe	0
+野兽知识	ye shou zhi shi	0
+和谐自然	he xie zi ran	0
+杜内丹学识	du nei dan xue shi	0
+心思缜密	xin si zhen mi	0
+法术精通	fa shu jing tong	0
+身手敏捷	shen shou min jie	0
+古代学识	gu dai xue shi	0
+百病不侵	bai bing bu qin	0
+百病不侵	bai bing fou qin	0
+百兽之书	bai shou zhi shu	0
+剑刃学识	jian ren xue shi	0
+百草集	bai cao ji	0
+鲁特琴	lu te qin	0
+镖鲈	biao lu	0
+鲑鱼	gui yu	0
+鲟鱼	xun yu	0
+三文鱼	san wen yu	0
+神主药剂	shen zhu yao ji	0
+王箔草	wang bo cao	0
+肯尤伊斯	ken you yi si	0
+奶荆药水	nai jing yao shui	0
+林内斯塔药膏	lin nei si ta yao gao	0
+岑木	cen mu	0
+紫杉木	zi shan mu	0
+强韧兽皮	qiang ren shou pi	0
+拉比西隆木	la bi xi long mu	0
+蜂蜡	feng la	0
+原始兽皮	yuan shi shou pi	0
+朴实兽皮	pu shi shou pi	0
+富铁矿石	fu tie kuang shi	0
+富铁锭	fu tie ding	0
+铂锭	bo ding	0
+铂矿石	bo kuang shi	0
+西方皇族钢锭	xi fang huang zu gang ding	0
+矮人钢锭	ai ren gang ding	0
+皮索	pi suo	0
+皮衬垫	pi chen dian	0
+皮护垫	pi hu dian	0
+皮支架	pi zhi jia	0
+坚韧皮衬垫	jian ren pi chen dian	0
+压花皮支架	ya hua pi zhi jia	0
+芯火烟斗草	xin huo yan dou cao	0
+罗贝拉烟斗草	luo bei la yan dou cao	0
+泰菲尔烟斗草	tai fei er yan dou cao	0
+吹号者烟斗草	chui hao zhe yan dou cao	0
+南方之星烟斗草	nan fang zhi xing yan dou cao	0
+泥足烟斗草	ni zu yan dou cao	0
+罗伯之卷烟斗草	luo bo zhi juan yan dou cao	0
+老托比烟斗草	lao tuo bi yan dou cao	0
+龙息烟斗草	long xi yan dou cao	0
+詹卫其之辫烟斗草	zhan wei qi zhi bian yan dou cao	0
+詹卫其之辫烟斗草	zhan wei ji zhi bian yan dou cao	0
+鹰巢烟斗草	ying chao yan dou cao	0
+巫师之火烟斗草	wu shi zhi huo yan dou cao	0
+夏绿草	xia lv cao	0
+金盏草	jin zhan cao	0
+小鸡月光草的窝	xiao ji yue guang cao de wo	0
+三叶草蜜	san ye cao mi	0
+景天叶烟斗草	jing tian ye yan dou cao	0
+景天叶烟斗草	jing tian xie yan dou cao	0
+兰加兰斯烟斗草	lan jia lan si yan dou cao	0
+夏绿草烟斗草	xia lv cao yan dou cao	0
+乳草酒花	ru cao jiu hua	0
+灯心菜烟斗草	deng xin cai yan dou cao	0
+洛贝莉亚烟斗草	luo bei li ya yan dou cao	0
+北岗酒花草	bei gang jiu hua cao	0
+杂交高地烟斗草	za jiao gao di yan dou cao	0
+杂交泥脚烟斗草	za jiao ni jiao yan dou cao	0
+杂交泥脚烟斗草	za jiao ni jue yan dou cao	0
+旅行口粮	lv xing kou liang	0
+秋日素食	qiu ri su shi	0
+夏日素食	xia ri su shi	0
+春天素食	chun tian su shi	0
+简单口粮	jian dan kou liang	0
+桑德森著名煮鸡蛋	sang de sen zhu ming zhu ji dan	0
+梨花酒	li hua jiu	0
+鲁特诺特苹果酒	lu te nuo te ping guo jiu	0
+柳树酒	liu shu jiu	0
+干口粮	gan kou liang	0
+秋日饼	qiu ri bing	0
+吹号者馅饼	chui hao zhe xian bing	0
+正午苹果酒	zheng wu ping guo jiu	0
+樱花酒	ying hua jiu	0
+道文尼恩	dao wen ni en	0
+利马尔葡萄酒	li ma er pu tao jiu	0
+吉思理的最爱	ji si li de zui ai	0
+吉思理的最爱	ji sai li de zui ai	0
+吉思理的最爱	ji si li di zui ai	0
+吉思理的最爱	ji sai li di zui ai	0
+诺格朗段运河	nuo ge lang duan yun he	0
+绿龙酒馆	lv long jiu guan	0
+老鲍曼的农场	lao bao man de nong chang	0
+达芙迪尔	da fu di er	0
+尼克福雷德	ni ke fu lei de	0
+杰斯柏	jie si bai	0
+杰斯柏	jie si bo	0
+拉丽亚	la li ya	0
+瓦解联盟	wa jie lian meng	0
+卡多兰废墟寻宝	ka duo lan fei xu xun bao	0
+卡多兰废墟寻宝	qia duo lan fei xu xun bao	0
+祖传匣子	zu chuan xia zi	0
+黑火	hei huo	0
+吉尔玛的遗产	ji er ma de yi chan	0
+吉尔玛的遗产	ji er ma di yi chan	0
+鲁达乌山民的背包	lu da wu shan min de bei bao	0
+鲁达乌山民的背包	lu da wu shan min di bei bao	0
+驯鹰人	xun ying ren	0
+拉格纳堂弟	la ge na tang di	0
+瓦林的麻烦	wa lin de ma fan	0
+鲁达乌遗物	lu da wu yi wu	0
+墓碑拓片	mu bei ta pian	0
+攻城器械	gong cheng qi xie	0
+索伦海德	suo lun hai de	0
+金栗色战马	jin li se zhan ma	0
+丰收月比赛用马	feng shou yue bi sai yong ma	0
+栗色小马	li se xiao ma	0
+栗色战马	li se zhan ma	0
+红棕色小马	hong zong se xiao ma	0
+红棕色小马	hong zong shai xiao ma	0
+红棕色战马	hong zong se zhan ma	0
+红棕色战马	hong zong shai zhan ma	0
+血红色小马	xue hong se xiao ma	0
+血红色小马	xue hong shai xiao ma	0
+莱高拉姆	lai gao la mu	0
+阿瑟丹废墟	a se dan fei xu	0
+座狼	zuo lang	0
+杜尔汗	du er han	0
+削弱白掌	xue ruo bai zhang	0
+赛恩城	sai en cheng	0
+坎德斯	kan de si	0
+阿德兰	a de lan	0
+图克	tu ke	0
+大丝阿密	da si a mi	0
+大丝阿密	dai si a mi	0
+大丝阿密	tai si a mi	0
+大丝阿密	da si e mi	0
+大丝阿密	dai si e mi	0
+大丝阿密	tai si e mi	0
+多拉	duo la	0
+盖瑞波特	gai rui bo te	0
+萨基与黑塔	sa ji yu hei ta	0
+护甲匠	hu jia jiang	0
+探险者	tan xian zhe	0
+武器匠	wu qi jiang	0
+修补匠	xiu bu jiang	0
+自耕农	zi geng nong	0
+山林人	shan lin ren	0
+史学家	shi xue jia	0
+花楸木	hua qiu mu	0
+盾卫者	dun wei zhe	0
+旗手	qi shou	0
+吟游诗人	yin you shi ren	0
+刺客	ci ke	0
+猎人	lie ren	0
+斗士	dou shi	0
+贤者	xian zhe	0
+黑荒恶盗	hei huang e dao	0
+黑荒恶盗	hei huang wu dao	0
+戒灵	jie ling	0
+跃马客栈	yue ma ke zhan	0
+神行客	shen xing ke	0
+血红少女	xue hong shao nv	0
+血红隘口	xue hong ai kou	0
+瑞达加斯特	rui da jia si te	0
+伊瓦	yi wa	0
+石语者	shi yu zhe	0
+石语者	dan yu zhe	0
+阿里克	a li ke	0
+多尔答格涅	duo er da ge nie	0
+佛温沃斯	fo wen wo si	0
+佛温沃斯	fu wen wo si	0
+佛温沃斯	bi wen wo si	0
+佛温沃斯	bo wen wo si	0
+卡古尔	ka gu er	0
+卡古尔	qia gu er	0
+莫瑞伦迪尔	mo rui lun di er	0
+莫瑞伦迪尔	mu rui lun di er	0
+威斯顿	wei si dun	0
+埃瓦尔加斯	ai wa er jia si	0
+哥苏尔	ge su er	0
+古洛斯	gu luo si	0
+古尔多瓦	gu er duo wa	0
+格兰斯伏特	ge lan si fu te	0
+塔克瑞普	ta ke rui pu	0
+狙击手	ju ji shou	0
+投弹手	tou dan shou	0
+仲夏节比赛用马	zhong xia jie bi sai yong ma	0
+布拉穆巴	bu la mu ba	0
+邪恶座狼索克	xie e zuo lang suo ke	0
+卡伦松	ka lun song	0
+麦罗弗	mai luo fu	0
+扭曲之心	niu qu zhi xin	0
+暗影女王	an ying nv wang	0
+采矿镐	cai kuang hao	0
+采矿镐	cai kuang gao	0
+艾布之剑	ai bu zhi jian	0
+阿维杜伊之剑	a wei du yi zhi jian	0
+鲁达乌之剑	lu da wu zhi jian	0
+古伊诺克之剑	gu yi nuo ke zhi jian	0
+玛纳斯之剑	ma na si zhi jian	0
+德鲁彻	de lu che	0
+安莱格之剑	an lai ge zhi jian	0
+克沃卡之剑	ke wo ka zhi jian	0
+考尔马克之剑	kao er ma ke zhi jian	0
+因尼斯之剑	yin ni si zhi jian	0
+血腥之剑	xue xing zhi jian	0
+刚铎之剑	gang duo zhi jian	0
+黑水	hei shui	0
+悲伤之剑	bei shang zhi jian	0
+罗索斯宝藏	luo suo si bao zang	0
+提瑞斯劳	ti rui si lao	0
+提瑞斯劳	di rui si lao	0
+鲁加赛格	lu jia sai ge	0
+鲁内丁之战	lu nei ding zhi zhan	0
+鲁内丁之战	lu na ding zhi zhan	0
+鲁内丁之战	lu nei zheng zhi zhan	0
+鲁内丁之战	lu na zheng zhi zhan	0
+鹤嘴锄	he zui chu	0
+埃尔德冈	ai er de gang	0
+魔罗薇尔女王	mo luo wei er nv wang	0
+奥海尔之战	ao hai er zhi zhan	0
+奥海尔之战	yu hai er zhi zhan	0
+扎捆围墙	zha kun wei qiang	0
+扎捆围墙	za kun wei qiang	0
+范德茅石墙	fan de mao shi qiang	0
+波尔达高尔统帅	bo er da gao er tong shuai	0
+玛兹奥克	ma zi ao ke	0
+玛兹奥克	ma ci ao ke	0
+豪代尔	hao dai er	0
+提瑞	ti rui	0
+提瑞	di rui	0
+鲁加	lu jia	0
+格兰乌雷	ge lan wu lei	0
+科德费尔斯	ke de fei er si	0
+格罗萨姆	ge luo sa mu	0
+蹲营地	dun ying di	0
+恐怖林锯木厂	kong bu lin ju mu chang	0
+恐怖林锯木厂	kong bu lin ju mu an	0
+恐怖林锯木厂	kong bu lin ju mu han	0
+埃斯特尔丁游侠	ai si te er ding you xia	0
+埃斯特尔丁游侠	ai si te er zheng you xia	0
+伪龙筋带	wei long jin dai	0
+晨暖熊	chen nuan xiong	0
+影魔咆哮者	ying mo pao xiao zhe	0
+卡代夫巨魔	ka dai fu ju mo	0
+卡代夫巨魔	qia dai fu ju mo	0
+治疗黏液	zhi liao nian ye	0
+乌鲁克	wu lu ke	0
+加娜	jia na	0
+加娜	jia nuo	0

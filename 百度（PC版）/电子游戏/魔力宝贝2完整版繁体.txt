@@ -1,0 +1,529 @@
+# 词库名称: 魔力宝贝2完整版繁体
+# 词库分类: b0槌 型弓 晈弓 U j8素的晈弓 皮盔 桶形
+# 词库作者: 我的光辉水月
+# 词库描述: 魔力宝贝2完整版...
+# 词条数量: 521
+# 解析词数: 938
+# 解析异常: 417
+
+攻擊力	gong ji li	0
+命中	ming zhong	0
+暴擊	bao ji	0
+暴擊	pu ji	0
+魔力	mo li	0
+魔法	mo fa	0
+少傷	shao shang	0
+中傷	zhong shang	0
+重傷	zhong shang	0
+重傷	chong shang	0
+後排	hou pai	0
+物理攻擊力	wu li gong ji li	0
+魔攻	mo gong	0
+俊敏	jun min	0
+回避	hui bi	0
+回避率	hui bi lv	0
+回避率	hui bi shuai	0
+會心一擊	hui xin yi ji	0
+會心一擊	kuai xin yi ji	0
+會心一擊	kuo xin yi ji	0
+反擊	fan ji	0
+近身攻擊	jin shen gong ji	0
+師生	shi sheng	0
+等待	deng dai	0
+散步	san bu	0
+寵物情報	chong wu qing fu	0
+名片	ming pian	0
+郵件	you jian	0
+寄件匣	ji jian xia	0
+修理次數	xiu li ci shuo	0
+性能	xing neng	0
+特性	te xing	0
+寄放	ji fang	0
+抽取	chou qu	0
+放置在場地內	fang zhi zai shang di nei	0
+放置在場地內	fang zhi zai chang di rui	0
+放置在場地內	fang zhi zai shang di rui	0
+放置在場地內	fang zhi zai chang de nei	0
+放置在場地內	fang zhi zai shang de nei	0
+放置在場地內	fang zhi zai chang de rui	0
+放置在場地內	fang zhi zai shang de rui	0
+場地	chang di	0
+場地	shang di	0
+場地	chang de	0
+場地	shang de	0
+操作	cao zuo	0
+見習士兵	xian xi shi bing	0
+初級士兵	chu ji shi bing	0
+中等士兵	zhong deng shi bing	0
+上等士兵	shang deng shi bing	0
+青嵐的霸氣	qing lan de ba xi	0
+青嵐的霸氣	qing lan di ba qi	0
+青嵐的霸氣	qing lan di ba xi	0
+氣功波	qi gong bo	0
+氣功波	xi gong bo	0
+失明暗	shi ming an	0
+大剛弓練	dai gang gong lian	0
+大剛弓練	tai gang gong lian	0
+一射入魂初	yi she ru hun chu	0
+戒驕戒躁	jie jiao jie zao	0
+士兵	shi bing	0
+弓箭手	gong jian shou	0
+魔法師	mo fa shi	0
+傳教士	chuan jiao shi	0
+傳教士	zhuan jiao shi	0
+樵夫	qiao fu	0
+藥劑師	yue ji shi	0
+大剛弓	da gang gong	0
+大剛弓	dai gang gong	0
+大剛弓	tai gang gong	0
+一射入魂	yi she ru hun	0
+毒擊	dai ji	0
+見習	xian xi	0
+霜寒之痛	shuang han zhi tong	0
+超強冰凍魔法	chao qiang bing dong mo fa	0
+超強冰凍魔法	chao jiang bing dong mo fa	0
+灼熱爆炎	zhuo re bao yan	0
+超強火焰魔法	chao jiang huo yan mo fa	0
+見習傳教士	jian xi chuan jiao shi	0
+見習傳教士	xian xi chuan jiao shi	0
+見習傳教士	jian xi zhuan jiao shi	0
+見習傳教士	xian xi zhuan jiao shi	0
+牧師	mu shi	0
+主教	zhu jiao	0
+大主教	da zhu jiao	0
+採集大豆	cai ji da dou	0
+採集甘蔗	cai ji gan zhe	0
+採集海藻	cai ji hai zao	0
+採集米	cai ji mi	0
+採集小麥	cai ji xiao mai	0
+採集牛奶	cai ji niu nai	0
+挖掘青銅	wa jue qing tong	0
+法爾瑪	fa mi ma	0
+實習藥劑師	shi xi yao ji shi	0
+實習藥劑師	shi xi yue ji shi	0
+御用藥劑師	yu yong yue ji shi	0
+治療	zhi shuo	0
+急救	ji jiu	0
+比爾茨	bi er ci	0
+比爾茨	bi mi ci	0
+烹調調味汁	peng diao diao wei zhi	0
+烹調調味汁	peng tiao diao wei zhi	0
+烹調調味汁	peng diao tiao wei zhi	0
+烹調調味汁	peng tiao tiao wei zhi	0
+烹調調味汁	peng zhou diao wei zhi	0
+烹調調味汁	peng zhou tiao wei zhi	0
+烹調調味汁	peng diao zhou wei zhi	0
+烹調調味汁	peng tiao zhou wei zhi	0
+烹調調味汁	peng zhou zhou wei zhi	0
+烹調砂糖	peng tiao sha tang	0
+烹調砂糖	peng zhou sha tang	0
+烹調湯汁	peng diao shang zhi	0
+烹調湯汁	peng tiao shang zhi	0
+烹調湯汁	peng diao tang zhi	0
+烹調湯汁	peng tiao tang zhi	0
+烹調湯汁	peng zhou shang zhi	0
+烹調湯汁	peng zhou tang zhi	0
+烹調鹽胡椒	peng diao yan hu jiao	0
+烹調鹽胡椒	peng tiao yan hu jiao	0
+烹調鹽胡椒	peng zhou yan hu jiao	0
+烹調面	peng diao mian	0
+烹調面	peng tiao mian	0
+烹調面	peng zhou mian	0
+烹調白飯	peng diao bai fan	0
+烹調白飯	peng tiao bai fan	0
+烹調白飯	peng zhou bai fan	0
+烹調湯汁卷蛋	peng tiao shang zhi juan dan	0
+烹調湯汁卷蛋	peng diao tang zhi juan dan	0
+烹調湯汁卷蛋	peng tiao tang zhi juan dan	0
+烹調湯汁卷蛋	peng zhou shang zhi juan dan	0
+烹調湯汁卷蛋	peng zhou tang zhi juan dan	0
+巴法	ba fa	0
+大豆	da dou	0
+甘蔗	gan zhe	0
+海藻	hai zao	0
+小麥	xiao mai	0
+牛奶	niu nai	0
+洋蔥	yang cong	0
+橄欖樹枝	gan lan shu zhi	0
+橄欖樹枝	gan lan shu qi	0
+牛至草	niu zhi cao	0
+甘菊	gan ju	0
+香菜	xiang cai	0
+湯汁	tang zhi	0
+調味汁	diao wei zhi	0
+調味汁	tiao wei zhi	0
+調味汁	zhou wei zhi	0
+鹽胡椒	yan hu jiao	0
+白飯	bai fan	0
+湯汁蛋捲	tang zhi dan juan	0
+湯汁蛋捲	shang zhi dan quan	0
+湯汁蛋捲	tang zhi dan quan	0
+菜肉蛋捲	cai rou dan juan	0
+菜肉蛋捲	cai rou dan quan	0
+生命回復藥	sheng ming hui fu yao	0
+生命回復藥	sheng ming hui fu yue	0
+銅精煉	tong jing lian	0
+青銅精煉	qing tong jing lian	0
+守墓人的鑰匙	shou mu ren de yue chi	0
+守墓人的鑰匙	shou mu ren di yue shi	0
+守墓人的鑰匙	shou mu ren di yue chi	0
+手藝人的鑰匙	shou yi ren de yue shi	0
+手藝人的鑰匙	shou yi ren de yue chi	0
+君主的鑰匙	jun zhu de yue shi	0
+君主的鑰匙	jun zhu de yue chi	0
+君主的鑰匙	jun zhu di yue shi	0
+君主的鑰匙	jun zhu di yue chi	0
+珍珠的碎片	zhen zhu de sui pian	0
+珍珠的碎片	zhen zhu di sui pian	0
+地的水晶	de de shui jing	0
+地的水晶	di di shui jing	0
+地的水晶	de di shui jing	0
+水的水晶	shui de shui jing	0
+火的水晶	huo de shui jing	0
+斧類	fu lei	0
+劍類	jian lei	0
+杖類	zhang lei	0
+弓類	gong lei	0
+小刀	xiao dao	0
+帽子	mao zi	0
+法袍	fa pao	0
+鞋子	xie zi	0
+靴子	xue zi	0
+盾牌	dun pai	0
+挖掘	wa jue	0
+採集	cai ji	0
+料理	liao li	0
+藥劑	yao ji	0
+藥劑	yue ji	0
+加工	jia gong	0
+封印卡	feng yin qia	0
+不死系封印卡	bu si xi feng yin ka	0
+不死系封印卡	bu si ji feng yin ka	0
+不死系封印卡	bu si xi feng yin qia	0
+不死系封印卡	bu si ji feng yin qia	0
+人形系封印卡	ren xing xi feng yin ka	0
+人形系封印卡	ren xing ji feng yin ka	0
+人形系封印卡	ren xing xi feng yin qia	0
+人形系封印卡	ren xing ji feng yin qia	0
+特殊系封印卡	te shu ji feng yin ka	0
+特殊系封印卡	te shu xi feng yin qia	0
+特殊系封印卡	te shu ji feng yin qia	0
+金屬系封印卡	jin shu xi feng yin ka	0
+金屬系封印卡	jin zhu xi feng yin ka	0
+金屬系封印卡	jin shu ji feng yin ka	0
+金屬系封印卡	jin zhu ji feng yin ka	0
+金屬系封印卡	jin shu xi feng yin qia	0
+金屬系封印卡	jin zhu xi feng yin qia	0
+金屬系封印卡	jin shu ji feng yin qia	0
+金屬系封印卡	jin zhu ji feng yin qia	0
+龍系封印卡	long ji feng yin ka	0
+龍系封印卡	long xi feng yin qia	0
+龍系封印卡	long ji feng yin qia	0
+蛇妖的腕輪	she yao de wan lun	0
+蛇妖的腕輪	she yao di wan lun	0
+卡片	ka pian	0
+魔石	mo shi	0
+比爾達	bi er da	0
+比爾達	bi mi da	0
+見習封印師	jian xi feng yin shi	0
+見習封印師	xian xi feng yin shi	0
+封印大師	feng yin dai shi	0
+封印大師	feng yin tai shi	0
+斬首者	zhan shou zhe	0
+鐮刀魔	lian dao mo	0
+紫骨龍	zi gu long	0
+火焰鼠	huo yan shu	0
+大地鼠	da di shu	0
+火山岩石怪	huo shan yan shi guai	0
+火山岩石怪	huo shan yan dan guai	0
+黑影子	hei ying zi	0
+暗黑蝙蝠	an hei bian fu	0
+殺手罐	sha shou guan	0
+死亡樹精	si wang shu jing	0
+幻歌妖	huan ge yao	0
+走路花妖	zou lu hua yao	0
+熱殼龜	re ke gui	0
+熱殼龜	re ke jun	0
+熱殼龜	re qiao gui	0
+熱殼龜	re ke qiu	0
+熱殼龜	re qiao jun	0
+熱殼龜	re qiao qiu	0
+陸地龜	liu di gui	0
+陸地龜	lu di gui	0
+陸地龜	liu di jun	0
+陸地龜	lu di jun	0
+陸地龜	liu de gui	0
+陸地龜	lu de gui	0
+陸地龜	liu di qiu	0
+陸地龜	lu di qiu	0
+陸地龜	liu de jun	0
+陸地龜	lu de jun	0
+陸地龜	liu de qiu	0
+陸地龜	lu de qiu	0
+逃跑花妖	tao pao hua yao	0
+火山岩怪	huo shan yan guai	0
+試練的回廊	shi lian de hui lang	0
+試練的回廊	shi lian di hui lang	0
+珀爾	po mi	0
+達戈	da ge	0
+基茲	ji zi	0
+糖果	tang guo	0
+中獎券	zhong jiang xuan	0
+金爺	jin ye	0
+開拓導師	qian tuo dao shi	0
+開拓導師	kai ta dao shi	0
+開拓導師	qian ta dao shi	0
+開拓導師	kai zhi dao shi	0
+開拓導師	qian zhi dao shi	0
+利貝朗代	li bei lang dai	0
+艾康	yi kang	0
+莉安	li an	0
+三色貓	san se mao	0
+雷吉斯	lei ji si	0
+吉姆	ji mu	0
+羅德雷福	luo de lei fu	0
+那克	na ke	0
+那克	nei ke	0
+強恩	qiang en	0
+強恩	jiang en	0
+婕克琳	jie ke lin	0
+埃爾娜	ai er na	0
+埃爾娜	ai mi na	0
+埃爾娜	ai er nuo	0
+埃爾娜	ai mi nuo	0
+梅洛	mei luo	0
+嘉吉娜	jia ji na	0
+嘉吉娜	jia ji nuo	0
+貝斯塔	bei si ta	0
+莎普	sha pu	0
+莎普	suo pu	0
+埃伊爾	ai yi mi	0
+艾爾曼	ai er man	0
+艾爾曼	ai mi man	0
+艾爾曼	yi er man	0
+艾爾曼	yi mi man	0
+威爾	wei er	0
+威爾	wei mi	0
+莉莉	li li	0
+托姆	tuo mu	0
+塔尼	ta ni	0
+佳斯	jia si	0
+傑斯羅	jie si luo	0
+貝亞	bei ya	0
+雷米	lei mi	0
+蕾麗雅	lei li ya	0
+蕾麗雅	lei si ya	0
+納塔麗	na ta li	0
+納塔麗	na ta si	0
+伊基爾	yi ji er	0
+伊基爾	yi ji mi	0
+亞斯	ya si	0
+阿尼	a ni	0
+菲爾	fei er	0
+菲爾	fei mi	0
+拉威爾	la wei er	0
+拉威爾	la wei mi	0
+奎爾	kui er	0
+奎爾	kui mi	0
+吉羅	ji luo	0
+蛋的碎片	dan de sui pian	0
+福德魯夫	fu de lu fu	0
+卡蜜拉	ka mi la	0
+卡蜜拉	qia mi la	0
+麗梅爾	li mei er	0
+麗梅爾	si mei er	0
+麗梅爾	li mei mi	0
+麗梅爾	si mei mi	0
+潛入秘密俱樂部	qian ru mi mi ju le bu	0
+潛入秘密俱樂部	qian ru mi mi ju yue bu	0
+潛入秘密俱樂部	qian ru mi mi ju yun bu	0
+佛雷德里克	fo lei de li ke	0
+佛雷德里克	fu lei de li ke	0
+佛雷德里克	bi lei de li ke	0
+佛雷德里克	bo lei de li ke	0
+克伊	ke yi	0
+地溝工	di gou gong	0
+地溝工	de gou gong	0
+肯因	ken yin	0
+拉克爾	la ke er	0
+拉克爾	la ke mi	0
+查克	cha ke	0
+傑伊	jie yi	0
+貝魯赫爾特	bei lu he er te	0
+貝魯赫爾特	bei lu he mi te	0
+威利斯	wei li si	0
+伊茲	yi zi	0
+聖拉魯卡	sheng la lu qia	0
+洛麗塔	luo si ta	0
+邁莫古	mai mo gu	0
+邁莫古	mai mu gu	0
+威爾納	wei er na	0
+威爾納	wei mi na	0
+短劍	duan jian	0
+忍者刀	ren zhe dao	0
+八卦刀	ba gua dao	0
+神秘之斧	shen mi zhi fu	0
+三叉戟	san cha ji	0
+刺槍	ci qiang	0
+鉤鐮槍	gou lian qiang	0
+三尖槍	san jian qiang	0
+木杖	mu zhang	0
+大地之杖	da di zhi zhang	0
+戰槌	zhan chui	0
+單弓	chan gong	0
+單弓	shan gong	0
+小型單弓	xiao xing chan gong	0
+小型單弓	xiao xing shan gong	0
+桶形頭盔	tong xing tou kui	0
+青銅頭盔	qing tong tou kui	0
+硬帽	ying mao	0
+麻布帽	ma bu mao	0
+羽毛袍	yu mao pao	0
+士兵鞋	shi bing xie	0
+涼鞋	liang xie	0
+戰鞋	zhan xie	0
+木盾	mu dun	0
+寬盾	kuan dun	0
+小盾	xiao dun	0
+樅木	zong mu	0
+氣功彈	xi gong dan	0
+氣功彈	qi gong tan	0
+氣功彈	xi gong tan	0
+伊爾村	yi mi cun	0
+挖掘師	wa jue shi	0
+五勇者的寶藏	wu yong zhe de bao cang	0
+五勇者的寶藏	wu yong zhe de bao zang	0
+五勇者的寶藏	wu yong zhe di bao cang	0
+五勇者的寶藏	wu yong zhe di bao zang	0
+阿黛爾	a dai mi	0
+五勇者捜索隊	wu yong zhe sou suo zhui	0
+激戰	ji zhan	0
+威利斯的寶藏	wei li si de bao zang	0
+威利斯的寶藏	wei li si di bao cang	0
+威利斯的寶藏	wei li si di bao zang	0
+等級上限任務	deng ji shang xian ren wu	0
+洞窟的探求者	dong ku di tan qiu zhe	0
+地底之洞	di di zhi dong	0
+芙蕾雅中央地區的巨像	fu lei ya zhong yang di qu de ju xiang	0
+芙蕾雅中央地區的巨像	fu lei ya zhong yang de qu de ju xiang	0
+芙蕾雅中央地區的巨像	fu lei ya zhong yang di ou de ju xiang	0
+芙蕾雅中央地區的巨像	fu lei ya zhong yang di qu di ju xiang	0
+芙蕾雅中央地區的巨像	fu lei ya zhong yang de ou de ju xiang	0
+芙蕾雅中央地區的巨像	fu lei ya zhong yang de qu di ju xiang	0
+芙蕾雅中央地區的巨像	fu lei ya zhong yang di ou di ju xiang	0
+芙蕾雅中央地區的巨像	fu lei ya zhong yang de ou di ju xiang	0
+中央南坑道	zhong yang na keng dao	0
+少年的請求	shao nian de qing qiu	0
+少年的請求	shao nian di qing qiu	0
+少年的勇氣	shao nian de yong qi	0
+少年的勇氣	shao nian de yong xi	0
+少年的勇氣	shao nian di yong qi	0
+少年的勇氣	shao nian di yong xi	0
+威利斯的日記	wei li si de ri ji	0
+威利斯的日記	wei li si di ri ji	0
+俱樂部	ju le bu	0
+俱樂部	ju yue bu	0
+俱樂部	ju yun bu	0
+聖拉魯卡村	sheng la lu qia cun	0
+探索迷之寶藏	tan suo mi zhi bao zang	0
+不死系	bu si ji	0
+人形系	ren xing xi	0
+人形系	ren xing ji	0
+植物系	zhi wu ji	0
+特殊系	te shu xi	0
+特殊系	te shu ji	0
+金屬系	jin zhu xi	0
+金屬系	jin shu ji	0
+金屬系	jin zhu ji	0
+龍型系	long xing ji	0
+試練回廊	shi lian hui lang	0
+枯樹林	ku shu lin	0
+陰暗路	yin an lu	0
+陰暗洞	yin an dong	0
+八百屋的洞	ba bai wu de dong	0
+八百屋的洞	ba bai wu di dong	0
+下水道通路	xia shui dao tong lu	0
+穴之家	xue zhi jia	0
+喪屍	sang shi	0
+腐屍	fu shi	0
+殘骸	can hai	0
+木乃伊	mu nai yi	0
+冰冷貓妖	bing leng mao yao	0
+火焰貓妖	huo yan mao yao	0
+旋律影子	xuan lv ying zi	0
+陰影	yin ying	0
+傀儡影子	kui lei ying zi	0
+影子	ying zi	0
+紫雲仙人掌	zi yun xian ren zhang	0
+寒冰仙人掌	han bing xian ren zhang	0
+頭帶仙人掌	tou dai xian ren zhang	0
+仙人掌	xian ren zhang	0
+十字菇	shi zi gu	0
+惡魔菇	e mo gu	0
+惡魔菇	wu mo gu	0
+星菇	xing gu	0
+紫蘑菇	zi mo gu	0
+虎爪	hu zhao	0
+怪手	guai shou	0
+藍蛙	lan wa	0
+毒蛙	dai wa	0
+大祭司	da ji si	0
+波羅的熊	bo luo de xiong	0
+波羅的熊	bo luo di xiong	0
+赤熊	chi xiong	0
+樹精	shu jing	0
+曼荼羅	man tu luo	0
+冰冷樹精	bing leng shu jing	0
+呼吸妖花	hu xi yao hua	0
+熱能岩怪	re neng yan guai	0
+熱能岩怪	re nai yan guai	0
+青毛蝙蝠	qing mao bian fu	0
+迷你蝙蝠	mi ni bian fu	0
+掃把蝙蝠	sao ba bian fu	0
+水果蝙蝠	shui guo bian fu	0
+虎頭蜂	hu tou feng	0
+異型蜂	yi xing feng	0
+阿修羅	e xiu luo	0
+水蜘蛛	shui zhi zhu	0
+土蜘蛛	tu zhi zhu	0
+硬殼螃蟹	ying qiao pang xie	0
+毒蜥蜴	du xi yi	0
+毒蜥蜴	dai xi yi	0
+波蛙蜥蜴	bo wa xi yi	0
+火焰龜	huo yan jun	0
+火焰龜	huo yan qiu	0
+天狼星	tian lang xing	0
+兔耳大地鼠	tu er da di shu	0
+龍骨	long gu	0
+毒龍骨	du long gu	0
+毒龍骨	dai long gu	0
+卡茲	qia zi	0
+左藏	zuo zang	0
+尼爾森	ni er sen	0
+尼爾森	ni mi sen	0
+巴烏	ba wu	0
+彼特	bi te	0
+卡特爾	ka te er	0
+卡特爾	ka te mi	0
+貝依	bei yi	0
+貝提特	bei ti te	0
+貝提特	bei di te	0
+伯克	bo ke	0
+烏嚕	wu lu	0
+艾露	ai lu	0
+艾露	ai lou	0
+艾露	yi lu	0
+艾露	yi lou	0
+夏菈	xia la	0
+莎拉	sha la	0
+愛娜	ai na	0
+愛娜	ai nuo	0
+艾達	ai da	0
+艾達	yi da	0
+萍萍	ping ping	0
+福爾蒂雅	fu er di ya	0
+福爾蒂雅	fu mi di ya	0
+蒲瑟	pu se	0
+荷蜜	he mi	0
+梅古	mei gu	0
+萌子	meng zi	0

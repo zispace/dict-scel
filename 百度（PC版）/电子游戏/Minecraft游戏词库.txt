@@ -1,0 +1,233 @@
+# 词库名称: Minecraft游戏词库
+# 词库分类: 电子游戏
+# 词库作者: Drrqt
+# 词库描述: 这个词库适用于Minecraft游戏 注意，它只包括物品名称 不过作者加了颜色词
+# 词条数量: 225
+# 解析词数: 229
+# 解析异常: 4
+
+木棍	mu gun	0
+火把	huo ba	0
+工作台	gong zuo tai	0
+合成台	he cheng tai	0
+箱子	xiang zi	0
+火炉	huo lu	0
+熔炉	rong lu	0
+梯子	ti zi	0
+告示牌	gao shi pai	0
+牌子	pai zi	0
+木门	mu men	0
+铁门	tie men	0
+氙	xian	0
+雪块	xue kuai	0
+砖块	zhuan kuai	0
+红砖	hong zhuan	0
+金块	jin kuai	0
+钻石块	zuan shi kuai	0
+铁块	tie kuai	0
+青金石块	qing jin shi kuai	0
+绿宝石块	lv bao shi kuai	0
+黑曜石	hei yao shi	0
+羊毛	yang mao	0
+书柜	shu gui	0
+书架	shu jia	0
+音符盒	yin fu he	0
+音乐盒	yin yue he	0
+粘土	nian tu	0
+粘土块	nian tu kuai	0
+南瓜灯	nan gua deng	0
+炸弹	zha dan	0
+红石块	hong shi kuai	0
+地域砖块	di yu zhuan kuai	0
+煤炭块	mei tan kuai	0
+石英块	shi ying kuai	0
+竖纹石英块	shu wen shi ying kuai	0
+干草堆	gan cao dui	0
+干草堆	gan cao zui	0
+染色粘土	ran se nian tu	0
+染色粘土块	ran se nian tu kuai	0
+金头盔	jin tou kui	0
+金胸甲	jin xiong jia	0
+金护腿	jin hu tui	0
+金靴子	jin xue zi	0
+钻石头盔	zuan shi tou kui	0
+钻石胸甲	zuan shi xiong jia	0
+钻石护腿	zuan shi hu tui	0
+钻石靴子	zuan shi xue zi	0
+铁头盔	tie tou kui	0
+铁胸甲	tie xiong jia	0
+铁护腿	tie hu tui	0
+铁靴子	tie xue zi	0
+锁链头盔	suo lian tou kui	0
+锁链胸甲	suo lian xiong jia	0
+锁链护腿	suo lian hu tui	0
+锁链靴子	suo lian xue zi	0
+皮革头盔	pi ge tou kui	0
+皮革胸甲	pi ge xiong jia	0
+皮革护腿	pi ge hu tui	0
+皮革靴子	pi ge xue zi	0
+弓	gong	0
+弓箭	gong jian	0
+箭	jian	0
+蛋糕	dan gao	0
+牛奶	niu nai	0
+糖	tang	0
+鸡蛋	ji dan	0
+小麦	xiao mai	0
+面包	mian bao	0
+曲奇饼	qu qi bing	0
+碗	wan	0
+蘑菇煲	mo gu bao	0
+金苹果	jin ping guo	0
+附魔金苹果	fu mo jin ping guo	0
+西瓜种子	xi gua zhong zi	0
+种子	zhong zi	0
+小麦种子	xiao mai zhong zi	0
+南瓜种子	nan gua zhong zi	0
+西瓜	xi gua	0
+金胡萝卜	jin hu luo bo	0
+金萝卜	jin luo bo	0
+南瓜派	nan gua pai	0
+红色染料	hong se ran liao	0
+红色	hong se	0
+黄色染料	huang se ran liao	0
+黄色	huang se	0
+青色染料	qing se ran liao	0
+青色	qing se	0
+粉色染料	fen se ran liao	0
+粉色	fen se	0
+紫色染料	zi se ran liao	0
+紫色	zi se	0
+品红色染料	pin hong se ran liao	0
+品红色染料	pin hong shai ran liao	0
+品红色	pin hong se	0
+品红色	pin hong shai	0
+黄绿色染料	huang lv se ran liao	0
+黄绿色	huang lv se	0
+浅蓝色染料	qian lan se ran liao	0
+橘黄色染料	ju huang se ran liao	0
+橘黄色	ju huang se	0
+淡灰色染料	dan hui se ran liao	0
+淡灰色染料	dan hui shai ran liao	0
+淡灰色	dan hui se	0
+淡灰色	dan hui shai	0
+灰色染料	hui se ran liao	0
+灰色	hui se	0
+骨粉	gu fen	0
+木镐	mu hao	0
+木镐	mu gao	0
+石镐	shi hao	0
+石镐	shi gao	0
+石镐	dan hao	0
+石镐	dan gao	0
+铁镐	tie gao	0
+钻石镐	zuan shi hao	0
+钻石镐	zuan shi gao	0
+金镐	jin hao	0
+金镐	jin gao	0
+木铲	mu chan	0
+石铲	shi chan	0
+石铲	dan chan	0
+铁铲	tie chan	0
+钻石铲	zuan shi chan	0
+金铲	jin chan	0
+木斧	mu fu	0
+石斧	shi fu	0
+铁斧	tie fu	0
+钻石斧	zuan shi fu	0
+金斧	jin fu	0
+木锄	mu chu	0
+石锄	shi chu	0
+石锄	dan chu	0
+铁锄	tie chu	0
+钻石锄	zuan shi chu	0
+金锄	jin chu	0
+钓鱼竿	diao yu gan	0
+打火石	da huo shi	0
+打火机	da huo ji	0
+剪刀	jian dao	0
+钟	zhong	0
+时钟	shi zhong	0
+指南针	zhi nan zhen	0
+木压力版	mu ya li ban	0
+石压力版	shi ya li ban	0
+石压力版	dan ya li ban	0
+拉杆	la gan	0
+木按钮	mu an niu	0
+石按钮	shi an niu	0
+石按钮	dan an niu	0
+活版门	huo ban men	0
+活塞	huo sai	0
+粘性活塞	nian xing huo sai	0
+栅栏门	zha lan men	0
+红石中继器	hong shi zhong ji qi	0
+发射器	fa she qi	0
+唱片机	chang pian ji	0
+唱片	chang pian	0
+矿车	kuang che	0
+动力矿车	dong li kuang che	0
+运输矿车	yun shu kuang che	0
+刷怪笼矿车	shua guai long kuang che	0
+刷怪笼	shua guai long	0
+铁轨	tie gui	0
+动力铁轨	dong li tie gui	0
+探测铁轨	tan ce tie gui	0
+激活铁轨	ji huo tie gui	0
+红石火把	hong shi huo ba	0
+红石灯	hong shi deng	0
+绊线钩	ban xian gou	0
+阳光传感器	yang guang chuan gan qi	0
+玻璃	bo li	0
+投掷器	tou zhi qi	0
+漏斗	lou dou	0
+漏洞矿车	lou dong kuang che	0
+红石	hong shi	0
+红石比较器	hong shi bi jiao qi	0
+比较器	bi jiao qi	0
+中继器	zhong ji qi	0
+陷阱箱	xian jing xiang	0
+侧重压力版	ce zhong ya li ban	0
+瓶子	ping zi	0
+羁	ji	0
+炼药锅	lian yao guo	0
+酿造架	niang zao jia	0
+金西瓜	jin xi gua	0
+闪烁的西瓜	shan shuo de xi gua	0
+闪烁的西瓜	shan shuo di xi gua	0
+烈焰粉	lie yan fen	0
+烈焰棒	lie yan bang	0
+发酵蜘蛛眼	fa jiao zhi zhu yan	0
+蜘蛛眼	zhi zhu yan	0
+蘑菇	mo gu	0
+灰色蘑菇	hui se mo gu	0
+红色蘑菇	hong se mo gu	0
+岩浆膏	yan jiang gao	0
+史莱姆球	shi lai mu qiu	0
+书和笔	shu he bi	0
+书和笔	shu hu bi	0
+书和笔	shu huo bi	0
+铁栅栏	tie zha lan	0
+铁栏杆	tie lan gan	0
+地图	di tu	0
+地域砖栅栏	di yu zhuan zha lan	0
+地域砖栏杆	di yu zhuan lan gan	0
+金锭	jin ding	0
+铁锭	tie ding	0
+钻石	zuan shi	0
+末影之眼	mo ying zhi yan	0
+附魔台	fu mo tai	0
+火焰弹	huo yan dan	0
+火焰弹	huo yan tan	0
+烈焰弹	lie yan dan	0
+烈焰弹	lie yan tan	0
+末影箱	mo ying xiang	0
+拴绳	shuan sheng	0
+地毯	di tan	0
+玻璃板	bo li ban	0
+染色玻璃	ran se bo li	0
+木半砖	mu ban zhuan	0
+木楼梯	mu lou ti	0
+鹅卵石	e luan shi	0
+石半砖	shi ban zhuan	0
+石半砖	dan ban zhuan	0
+石楼梯	shi lou ti	0

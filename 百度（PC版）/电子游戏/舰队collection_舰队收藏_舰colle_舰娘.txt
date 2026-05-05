@@ -1,0 +1,994 @@
+# 词库名称: 舰队collection/舰队收藏/舰colle/舰娘
+# 词库分类: 电子游戏
+# 词库作者: wwuu221
+# 词库描述: 本词库为网页游戏
+# 词条数量: 986
+# 解析词数: 1006
+# 解析异常: 20
+
+单纵阵	shan zong zhen	0
+单纵阵	chan zong zhen	0
+复纵阵	fu zong zhen	0
+轮型阵	lun xing zhen	0
+梯形阵	ti xing zhen	0
+单横阵	dan heng zhen	0
+单横阵	shan heng zhen	0
+单横阵	chan heng zhen	0
+同航战	tong hang zhan	0
+反航战	fan hang zhan	0
+昼战	zhou zhan	0
+索敌	suo di	0
+航空战	hang kong zhan	0
+制空权丧失	zhi kong quan sang shi	0
+航空劣势	hang kong lie shi	0
+航空优势	hang kong you shi	0
+制空权确保	zhi kong quan que bao	0
+对空射击	dui kong she ji	0
+支援舰队	zhi yuan jian dui	0
+开幕雷击	kai mu lei ji	0
+炮击战	pao ji zhan	0
+一轮炮击	yi lun pao ji	0
+二轮炮击	er lun pao ji	0
+雷击战	lei ji zhan	0
+连击	lian ji	0
+弹着观测射击	tan zhe guan ce she ji	0
+小破	xiao po	0
+中破	zhong po	0
+大破	da po	0
+完全胜利	wan quan sheng li	0
+胜利	sheng li	0
+战术的胜利	zhan shu de sheng li	0
+战术的失败	zhan shu de shi bai	0
+战术的失败	zhan shu di shi bai	0
+败北	bai bei	0
+联合舰队	lian he jian dui	0
+空母机动部队	kong mu ji dong bu dui	0
+水上机动部队	shui shang ji dong bu dui	0
+输送护卫部队	shu song hu wei bu dui	0
+第一警戒航行序列	di yi jing jie hang xing xu lie	0
+第二警戒航行序列	di er jing jie hang xing xu lie	0
+第三警戒航行序列	di san jing jie hang xing xu lie	0
+第四警戒航行序列	di si jing jie hang xing xu lie	0
+对潜警戒	dui qian jing jie	0
+前方警戒	qian fang jing jie	0
+战斗队形	zhan dou dui xing	0
+老司机	lao si ji	0
+适重炮	shi zhong pao	0
+疲劳度	pi lao du	0
+黄脸	huang lian	0
+红脸	hong lian	0
+经验值	jing yan zhi	0
+练度	lian du	0
+练度	lian duo	0
+入渠	ru qu	0
+入渠	ru ju	0
+结婚伪	jie hun wei	0
+镇守府海域	zhen shou fu hai yu	0
+镇守府正面海域	zhen shou fu zheng mian hai yu	0
+南西诸岛冲	nan xi zhu dao chong	0
+南西诸岛冲	na xi zhu dao chong	0
+西南诸岛海域	xi nan zhu dao hai yu	0
+制油所地带沿岸	zhi you suo di dai yan an	0
+西南诸岛防卫线	xi nan zhu dao fang wei xian	0
+镇守府近海	zhen shou fu jin hai	0
+镇守府近海航路	zhen shou fu jin hai hang lu	0
+南西诸岛海域	nan xi zhu dao hai yu	0
+南西诸岛海域	na xi zhu dao hai yu	0
+金兰半岛	jin lan ban dao	0
+巴士岛海域	ba shi dao hai yu	0
+东部奥廖尔海	dong bu ao liao er hai	0
+东部奥廖尔海	dong bu yu liao er hai	0
+冲之岛海域	chong zhi dao hai yu	0
+冲之岛洋面	chong zhi dao yang mian	0
+冲之岛冲	chong zhi dao chong	0
+北方海域	bei fang hai yu	0
+毛里海	mao li hai	0
+基斯岛海域	ji si dao hai yu	0
+阿尔方西诺方面	a er fang xi nuo fang mian	0
+北方海域全域	bei fang hai yu quan yu	0
+加姆岛攻略作战	jia mu dao gong lue zuo zhan	0
+咖喱洋压制战	ga li yang ya zhi zhan	0
+里兰卡岛空袭	li lan ka dao kong xi	0
+加斯加达马海战	jia si jia da ma hai zhan	0
+咖喱洋里兰卡岛冲	ga li yang li lan ka dao chong	0
+南方海域	nan fang hai yu	0
+南方海域前面	nan fang hai yu qian mian	0
+珊瑚诸岛海域	shan hu zhu dao hai yu	0
+萨布岛海域	sa bu dao hai yu	0
+萨门海域	sa men hai yu	0
+萨门海域北方	sa men hai yu bei fang	0
+中部海域	zhong bu hai yu	0
+中部海域哨戒线	zhong bu hai yu shao jie xian	0
+中部北海域孔雀岛近海	zhong bu bei hai yu kong que dao jin hai	0
+单装炮	shan zhuang pao	0
+单装炮	dan zhuang bao	0
+联装炮	lian zhuang pao	0
+联装炮	lian zhuang bao	0
+联装高角炮	lian zhuang gao jiao pao	0
+联装高角炮	lian zhuang gao jue pao	0
+联装高角炮	lian zhuang gao jiao bao	0
+联装高角炮	lian zhuang gao jue bao	0
+三联装炮	san lian zhuang pao	0
+三联装炮	san lian zhuang bao	0
+三联装副炮	san lian zhuang fu pao	0
+三联装副炮	san lian zhuang pi pao	0
+三联装副炮	san lian zhuang fu bao	0
+三联装副炮	san lian zhuang pi bao	0
+三联装鱼雷	san lian zhuang yu lei	0
+四联装鱼雷	si lian zhuang yu lei	0
+四联装氧气鱼雷	si lian zhuang yang qi yu lei	0
+四联装酸素鱼雷	si lian zhuang suan su yu lei	0
+四联酸	si lian suan	0
+九七式舰攻	jiu qi shi jian gong	0
+天山	tian shan	0
+流星	liu xing	0
+九六式舰战	jiu liu shi jian zhan	0
+零式舰战	ling shi jian zhan	0
+零式舰战型	ling shi jian zhan xing	0
+零式舰战二一型	ling shi jian zhan er yi xing	0
+零式舰战五二型	ling shi jian zhan wu er xing	0
+烈风	lie feng	0
+九九式舰爆	jiu jiu shi jian bao	0
+彗星	hui xing	0
+零式水侦	ling shi shui zhen	0
+零式水上侦察机	ling shi shui shang zhen cha ji	0
+瑞云	rui yun	0
+对空电探	dui kong dian tan	0
+对水上电探	dui shui shang dian tan	0
+改良型舰本式涡轮	gai liang xing jian ben shi wo lun	0
+强化型疟臼襟	qiang hua xing yao jiu jin	0
+强化型舰本式锅炉	qiang hua xing jian ben shi guo lu	0
+三式弹	san shi dan	0
+三式弹	san shi tan	0
+九一式穿甲弹	jiu yi shi chuan jia dan	0
+九一式彻甲弹	jiu yi shi che jia dan	0
+九一式彻甲弹	jiu yi shi che jia tan	0
+单装机枪	dan zhuang ji qiang	0
+联装机枪	lian zhuang ji qiang	0
+三联装机枪	san lian zhuang ji qiang	0
+甲标的甲型	jia biao di jia xing	0
+甲标的甲	jia biao di jia	0
+甲标的	jia biao di	0
+甲标	jia biao	0
+应急修理要员	ying ji xiu li yao yuan	0
+应急修理女神	ying ji xiu li nv shen	0
+损管	sun guan	0
+损害管理	sun hai guan li	0
+九四式爆雷投射机	jiu si shi bao lei tou she ji	0
+三式爆雷投射机	san shi bao lei tou she ji	0
+九三式水中听音机	jiu san shi shui zhong ting yin ji	0
+三式水中探信仪	san shi shui zhong tan xin yi	0
+三式水中探信仪	san shi shui zhong tan shen yi	0
+单装高角炮	dan zhuang gao jiao pao	0
+单装高角炮	dan zhuang gao jue pao	0
+单装高角炮	dan zhuang gao jiao bao	0
+单装高角炮	dan zhuang gao jue bao	0
+连装喷进炮	lian zhuang pen jin pao	0
+连装喷进炮	lian zhuang pen jin bao	0
+流星改	liu xing gai	0
+烈风改	lie feng gai	0
+彩云	cai yun	0
+紫电改二	zi dian gai er	0
+震电改	zhen dian gai	0
+彗星一二型甲	hui xing yi er xing jia	0
+五联装酸素鱼雷	wu lian zhuang suan su yu lei	0
+五联装氧气鱼雷	wu lian zhuang yang qi yu lei	0
+五联酸	wu lian suan	0
+零式水观	ling shi shui guan	0
+零式水上观测机	ling shi shui shang guan ce ji	0
+零式舰战六二型爆战	ling shi jian zhan liu er xing bao zhan	0
+零式舰战六二型爆战	ling shi jian zhan lu er xing bao zhan	0
+零式舰战型爆战	ling shi jian zhan xing bao zhan	0
+二式舰上侦察机	er shi jian shang zhen cha ji	0
+二式舰侦	er shi jian zhen	0
+试制晴岚	shi zhi qing lan	0
+舰首氧气鱼雷	jian shou yang qi yu lei	0
+高角炮	gao jiao pao	0
+高角炮	gao jue pao	0
+高角炮	gao jiao bao	0
+高角炮	gao jue bao	0
+大发动艇	da fa dong ting	0
+观测机	guan ce ji	0
+三式指挥联络机对潜	san shi zhi hui lian luo ji dui qian	0
+联装高角炮炮架	lian zhuang gao jiao pao pao jia	0
+联装高角炮炮架	lian zhuang gao jue pao pao jia	0
+联装高角炮炮架	lian zhuang gao jiao bao pao jia	0
+联装高角炮炮架	lian zhuang gao jiao pao bao jia	0
+联装高角炮炮架	lian zhuang gao jue bao pao jia	0
+联装高角炮炮架	lian zhuang gao jue pao bao jia	0
+联装高角炮炮架	lian zhuang gao jiao bao bao jia	0
+联装高角炮炮架	lian zhuang gao jue bao bao jia	0
+增设突出部中型舰	zeng she tu chu bu zhong xing jian	0
+增设突出部大型舰	zeng she tu chu bu da xing jian	0
+瑞云六三四空	rui yun liu san si kong	0
+瑞云一二型	rui yun yi er xing	0
+瑞云一二型六三四空	rui yun yi er xing liu san si kong	0
+九七式舰攻九三一空	jiu qi shi jian gong jiu san yi kong	0
+天山九三一空	tian shan jiu san yi kong	0
+舰艇修理设施	jian ting xiu li she shi	0
+新型高温高压锅炉	xin xing gao wen gao ya guo lu	0
+新型高温高压缶	xin xing gao wen gao ya fou	0
+对水上电探改四	dui shui shang dian tan gai si	0
+对空电探改	dui kong dian tan gai	0
+九七式舰攻友永队	jiu qi shi jian gong you yong dui	0
+天山一二型友永队	tian shan yi er xing you yong dui	0
+零式舰战二一型熟练	ling shi jian zhan er yi xing shu lian	0
+零式舰战型熟练	ling shi jian zhan xing shu lian	0
+九九式舰爆熟练	jiu jiu shi jian bao shu lian	0
+九七式舰攻熟练	jiu qi shi jian gong shu lian	0
+九九式舰爆江草队	jiu jiu shi jian bao jiang cao dui	0
+彗星江草队	hui xing jiang cao dui	0
+九八式水上侦察机夜侦	jiu ba shi shui shang zhen cha ji ye zhen	0
+联装炮迷彩	lian zhuang pao mi cai	0
+联装炮迷彩	lian zhuang bao mi cai	0
+舰队司令部设施	jian dui si ling bu she shi	0
+零式舰战型丙六零一空	ling shi jian zhan xing bing liu ling yi kong	0
+烈风六零一空	lie feng liu ling yi kong	0
+一式穿甲弹	yi shi chuan jia dan	0
+紫云	zi yun	0
+高射装置	gao she zhuang zhi	0
+三联装酸素鱼雷	san lian zhuang suan su yu lei	0
+三联装氧气鱼雷	san lian zhuang yang qi yu lei	0
+三联酸	san lian suan	0
+熟练见张员	shu lian jian zhang yuan	0
+熟练见张员	shu lian xian zhang yuan	0
+熟练见张员	shu lian jian zhang yun	0
+熟练见张员	shu lian xian zhang yun	0
+熟练观察员	shu lian guan cha yuan	0
+三联装机枪集中配备	san lian zhuang ji qiang ji zhong pei bei	0
+零式水中听音机	ling shi shui zhong ting yin ji	0
+三联装速射炮	san lian zhuang su she pao	0
+水中防御隔壁	shui zhong fang yu ge bi	0
+二式大艇	er shi da ting	0
+二式大艇	er shi dai ting	0
+二式大艇	er shi tai ting	0
+九七式舰攻村田队	jiu qi shi jian gong cun tian dui	0
+天山一二型村田队	tian shan yi er xing cun tian dui	0
+战斗粮食	zhan dou liang shi	0
+海上补给	hai shang bu ji	0
+洋上补给	yang shang bu ji	0
+试制南山	shi zhi nan shan	0
+四式水中听音机	si shi shui zhong ting yin ji	0
+四式水听	si shi shui ting	0
+试制景云	shi zhi jing yun	0
+试制景云	shi zhi ying yun	0
+岩井小队	yan jing xiao dui	0
+岩本队	yan ben dui	0
+零式舰战五三型岩本队	ling shi jian zhan wu san xing yan ben dui	0
+二式水战	er shi shui zhan	0
+二式水战改	er shi shui zhan gai	0
+八九式中战车	ba jiu shi zhong zhan che	0
+特二式内火艇	te er shi nei huo ting	0
+小口径主炮	xiao kou jing zhu pao	0
+中口径主炮	zhong kou jing zhu pao	0
+大口径主炮	da kou jing zhu pao	0
+副炮	fu pao	0
+副炮	pi pao	0
+副炮	fu bao	0
+副炮	pi bao	0
+鱼雷	yu lei	0
+舰战	jian zhan	0
+舰上战斗机	jian shang zhan dou ji	0
+舰爆	jian bao	0
+舰上轰炸机	jian shang hong zha ji	0
+舰上爆击机	jian shang bao ji ji	0
+舰攻	jian gong	0
+舰上强击机	jian shang qiang ji ji	0
+舰上攻击机	jian shang gong ji ji	0
+水爆	shui bao	0
+水上轰炸机	shui shang hong zha ji	0
+水上爆击机	shui shang bao ji ji	0
+水上战斗机	shui shang zhan dou ji	0
+水听	shui ting	0
+被动声呐	bei dong sheng na	0
+主动声呐	zhu dong sheng na	0
+爆雷	bao lei	0
+深水炸弹	shen shui zha dan	0
+水中探信仪	shui zhong tan xin yi	0
+水中探信仪	shui zhong tan shen yi	0
+水上观测机	shui shang guan ce ji	0
+电探	dian tan	0
+穿甲弹	chuan jia dan	0
+彻甲弹	che jia dan	0
+彻甲弹	che jia tan	0
+水中听音机	shui zhong ting yin ji	0
+特殊潜航艇	te shu qian hang ting	0
+长门	chang men	0
+陆奥	lu ao	0
+伊势	yi shi	0
+日向	ri xiang	0
+雪风	xue feng	0
+赤城	chi cheng	0
+加贺	jia he	0
+飞龙	fei long	0
+苍龙	cang long	0
+岛风	dao feng	0
+吹雪	chui xue	0
+白雪	bai xue	0
+初雪	chu xue	0
+深雪	shen xue	0
+丛云	cong yun	0
+矶波	ji bo	0
+敷波	fu bo	0
+绫波	ling bo	0
+大井	da jing	0
+北上	bei shang	0
+金刚	jin gang	0
+榛名	zhen ming	0
+雾岛	wu dao	0
+比	bi	0
+凤翔	feng xiang	0
+扶桑	fu sang	0
+山城	shan cheng	0
+天龙	tian long	0
+龙田	long tian	0
+龙骧	long xiang	0
+睦月	mu yue	0
+如月	ru yue	0
+皋月	gao yue	0
+皋月	hao yue	0
+文月	wen yue	0
+长月	chang yue	0
+长月	zhang yue	0
+菊月	ju yue	0
+望月	wang yue	0
+三日月	san ri yue	0
+球磨	qiu mo	0
+多摩	duo mo	0
+木曾	mu ceng	0
+木曾	mu zeng	0
+长良	chang liang	0
+长良	zhang liang	0
+五十铃	wu shi ling	0
+名取	ming qu	0
+由良	you liang	0
+川内	chuan nei	0
+川内	chuan na	0
+神通	shen tong	0
+那珂	na ke	0
+那珂	nei ke	0
+千岁	qian sui	0
+千代田	qian dai tian	0
+最上	zui shang	0
+古鹰	gu ying	0
+加古	jia gu	0
+青叶	qing ye	0
+妙高	miao gao	0
+那智	na zhi	0
+那智	nei zhi	0
+足柄	zu bing	0
+羽黑	yu hei	0
+高雄	gao xiong	0
+爱宕	ai dang	0
+鸟海	niao hai	0
+利根	li gen	0
+筑摩	zhu mo	0
+筑摩	zhu ma	0
+飞鹰	fei ying	0
+隼鹰	sun ying	0
+胧号驱逐舰	long hao qu zhu jian	0
+曙号驱逐舰	shu hao qu zhu jian	0
+涟号驱逐舰	lian hao qu zhu jian	0
+潮号驱逐舰	chao hao qu zhu jian	0
+晓号驱逐舰	xiao hao qu zhu jian	0
+响号驱逐舰	xiang hao qu zhu jian	0
+雷号驱逐舰	lei hao qu zhu jian	0
+电号驱逐舰	dian hao qu zhu jian	0
+初春	chu chun	0
+子日	zi ri	0
+若叶	ruo ye	0
+若叶	re ye	0
+若叶	ruo xie	0
+若叶	re xie	0
+初霜	chu shuang	0
+白露	bai lu	0
+时雨	shi yu	0
+夕立	xi li	0
+村雨	cun yu	0
+五月雨	wu yue yu	0
+凉风	liang feng	0
+朝潮	zhao chao	0
+朝潮	chao chao	0
+大潮	da chao	0
+满潮	man chao	0
+荒潮	huang chao	0
+阳炎	yang yan	0
+不知火	bu zhi huo	0
+黑潮	hei chao	0
+祥凤	xiang feng	0
+翔鹤	xiang he	0
+瑞鹤	rui he	0
+鬼怒	gui nu	0
+阿武隈	a wu wei	0
+夕张	xi zhang	0
+瑞凤	rui feng	0
+三隈	san wei	0
+初风	chu feng	0
+舞风	wu feng	0
+衣笠	yi li	0
+铃谷	ling gu	0
+铃谷	ling yu	0
+熊野	xiong ye	0
+大和	da he	0
+秋云	qiu yun	0
+夕云	xi yun	0
+卷云	juan yun	0
+长波	chang bo	0
+阿贺野	a he ye	0
+阿贺野	e he ye	0
+能代	neng dai	0
+矢矧	shi shen	0
+酒	jiu	0
+武藏	wu zang	0
+大凤	da feng	0
+香取	xiang qu	0
+秋津丸	qiu jin wan	0
+马路由	ma lu you	0
+弥生	mi sheng	0
+卯月	mao yue	0
+矶风	ji feng	0
+浦风	pu feng	0
+谷风	gu feng	0
+俾斯麦	bi si mai	0
+欧根亲王	ou gen qin wang	0
+天津风	tian jin feng	0
+明石	ming shi	0
+大淀	da dian	0
+大淀	dai dian	0
+大淀	tai dian	0
+大鲸	da jing	0
+大鲸	dai jing	0
+大鲸	tai jing	0
+龙凤	long feng	0
+时津风	shi jin feng	0
+云龙	yun long	0
+天城	tian cheng	0
+葛城	ge cheng	0
+春雨	chun yu	0
+早霜	zao shuang	0
+清霜	qing shuang	0
+朝云	zhao yun	0
+山云	shan yun	0
+野分	ye fen	0
+秋月	qiu yue	0
+照月	zhao yue	0
+初月	chu yue	0
+高波	gao bo	0
+朝霜	zhao shuang	0
+朝霜	chao shuang	0
+齐柏林伯爵	qi bo lin bo jue	0
+齐柏林	qi bo lin	0
+利托里奥	li tuo li ao	0
+利托里奥	li tuo li yu	0
+罗马	luo ma	0
+西南风	xi nan feng	0
+扎拉	zha la	0
+秋津洲	qiu jin zhou	0
+意大利	yi da li	0
+瑞穗	rui sui	0
+冲波	chong bo	0
+风云	feng yun	0
+海风	hai feng	0
+江风	jiang feng	0
+速吸	su xi	0
+岚号驱逐舰	lan hao qu zhu jian	0
+翔鹤改二甲	xiang he gai er jia	0
+瑞鹤改二甲	rui he gai er jia	0
+霞改二乙	xia gai er yi	0
+鹿岛	lu dao	0
+伊欧娜	yi ou na	0
+伊欧娜	yi ou nuo	0
+驱逐舰	qu zhu jian	0
+防空驱逐舰	fang kong qu zhu jian	0
+轻巡洋舰	qing xun yang jian	0
+重巡洋舰	zhong xun yang jian	0
+重巡洋舰	chong xun yang jian	0
+战列舰	zhan lie jian	0
+战舰	zhan jian	0
+战列巡洋舰	zhan lie xun yang jian	0
+高速战舰	gao su zhan jian	0
+航战	hang zhan	0
+航空战舰	hang kong zhan jian	0
+潜水舰	qian shui jian	0
+潜水空母	qian shui kong mu	0
+潜水母舰	qian shui mu jian	0
+水上机母舰	shui shang ji mu jian	0
+重雷装巡洋舰	zhong lei zhuang xun yang jian	0
+重雷装巡洋舰	chong lei zhuang xun yang jian	0
+练巡	lian xun	0
+练习巡洋舰	lian xi xun yang jian	0
+航巡	hang xun	0
+航空巡洋舰	hang kong xun yang jian	0
+两栖登陆舰	liang qi deng lu jian	0
+扬陆舰	yang lu jian	0
+扬陆舰	yang liu jian	0
+补给舰	bu ji jian	0
+工作舰	gong zuo jian	0
+婚约书	hun yue shu	0
+戒指	jie zhi	0
+勋章	xun zhang	0
+改修资材	gai xiu zi cai	0
+给粮舰	gei liang jian	0
+给粮舰	ji liang jian	0
+伊良湖	yi liang hu	0
+礼物箱	li wu xiang	0
+甲种勋章	jia zhong xun zhang	0
+家具箱	jia ju xiang	0
+家具币	jia ju bi	0
+间宫	jian gong	0
+改装设计图	gai zhuang she ji tu	0
+设计图	she ji tu	0
+特注家具职人	te zhu jia ju zhi ren	0
+家具职人	jia ju zhi ren	0
+高速修复材料	gao su xiu fu cai liao	0
+高速建造材料	gao su jian zao cai liao	0
+开发资材	kai fa zi cai	0
+紫菜	zi cai	0
+菱饼	ling bing	0
+司令部要员	si ling bu yao yuan	0
+补强增设	bu qiang zeng she	0
+试制甲板用弹射器	shi zhi jia ban yong tan she qi	0
+燃弹钢铝	ran dan gang lv	0
+燃弹钢铝	ran tan gang lv	0
+横须贺镇守府	heng xu he zhen shou fu	0
+吴镇守府	wu zhen shou fu	0
+佐世保镇守府	zuo shi bao zhen shou fu	0
+舞鹤镇守府	wu he zhen shou fu	0
+大凑警备府	da cou jing bei fu	0
+大凑警备府	dai cou jing bei fu	0
+大凑警备府	tai cou jing bei fu	0
+特鲁克港	te lu ke gang	0
+特鲁克港	te lu ke jiang	0
+林加港	lin jia gang	0
+林加港	lin jia jiang	0
+拉包尔基地	la bao er ji di	0
+肖特兰港	xiao te lan gang	0
+肖特兰港	xiao te lan jiang	0
+布因基地	bu yin ji di	0
+塔威塔威港	ta wei ta wei gang	0
+塔威塔威港	ta wei ta wei jiang	0
+帕劳港	pa lao gang	0
+帕劳港	pa lao jiang	0
+文莱港	wen lai gang	0
+文莱港	wen lai jiang	0
+单冠湾港	dan guan wan gang	0
+单冠湾港	shan guan wan gang	0
+单冠湾港	chan guan wan gang	0
+单冠湾港	dan guan wan jiang	0
+单冠湾港	shan guan wan jiang	0
+单冠湾港	chan guan wan jiang	0
+幌筵岛港	huang yan dao gang	0
+幌筵岛港	huang yan dao jiang	0
+宿毛湾港	su mao wan gang	0
+宿毛湾港	xiu mao wan gang	0
+宿毛湾港	su mao wan jiang	0
+宿毛湾港	xiu mao wan jiang	0
+鹿屋基地	lu wu ji di	0
+鹿屋基地	lu wu ji de	0
+岩川基地	yan chuan ji di	0
+佐伯湾泊地	zuo bo wan bo di	0
+佐伯湾泊地	zuo bai wan bo di	0
+佐伯湾泊地	zuo bo wan bo de	0
+佐伯湾泊地	zuo ba wan bo di	0
+佐伯湾泊地	zuo bai wan bo de	0
+佐伯湾泊地	zuo ba wan bo de	0
+柱岛泊地	zhu dao bo di	0
+八万钢	ba wan gang	0
+拜月神教	bai yue shen jiao	0
+北上的故事	bei shang de gu shi	0
+爆乳大要塞	bao ru da yao sai	0
+爆乳大要塞	bao ru da yao se	0
+半和	ban he	0
+半和	ban hu	0
+半和	ban huo	0
+扳手	ban shou	0
+北大木	bei da mu	0
+捕鲸	bu jing	0
+不幸姐妹	bu xing jie mei	0
+苍蝇	cang ying	0
+超级北上大人	chao ji bei shang da ren	0
+吃撑	chi cheng	0
+吃喝	chi he	0
+大建出奇迹	da jian chu qi ji	0
+大舰巨乳主义	da jian ju ru zhu yi	0
+大型舰建造	da xing jian jian zao	0
+道中	dao zhong	0
+带路	dai lu	0
+大根	da gen	0
+大根	dai gen	0
+大根	tai gen	0
+大鲸雷	da jing lei	0
+大鲸雷	dai jing lei	0
+大鲸雷	tai jing lei	0
+打伞的大姐姐	da san de da jie jie	0
+打伞的大姐姐	da san di da jie jie	0
+大咪咪	da mi mi	0
+大咪咪	dai mi mi	0
+大咪咪	tai mi mi	0
+东山级	dong shan ji	0
+罚站	fa zhan	0
+反舰导弹	fan jian dao dan	0
+非理法权天	fei li fa quan tian	0
+非提	fei ti	0
+非提	fei di	0
+非洲提督	fei zhou ti du	0
+粪提督	fen ti du	0
+疯人院	feng ren yuan	0
+副主任	fu zhu ren	0
+进沟	jin gou	0
+被沟	bei gou	0
+被沟	pi gou	0
+甘地	gan di	0
+肝帝	gan di	0
+肝船	gan chuan	0
+狗粮	gou liang	0
+海藻	hai zao	0
+核潜艇	he qian ting	0
+黑岩莉莉	hei yan li li	0
+金皮	jin pi	0
+红皮	hong pi	0
+僵尸丸	jiang shi wan	0
+捡肥皂	jian fei zao	0
+娇喘	jiao chuan	0
+假摔	jia shuai	0
+甲鱼	jia yu	0
+舰队收藏	jian dui shou cang	0
+姐控四天王	jie kong si tian wang	0
+军国主义黄赌毒	jun guo zhu yi huang du du	0
+局座	ju zuo	0
+苦瓜	ku gua	0
+老李	lao li	0
+莉姐	li jie	0
+金莉莉	jin li li	0
+铃熊	ling xiong	0
+惘	wang	0
+门神	men shen	0
+蜜瓜	mi gua	0
+摩耶炮	mo ye pao	0
+摩耶炮	ma ye pao	0
+摩耶炮	mo ye bao	0
+摩耶炮	ma ye bao	0
+魔王	mo wang	0
+秘书舰	mi shu jian	0
+萌新	meng xin	0
+南西疯人院	nan xi feng ren yuan	0
+南西疯人院	na xi feng ren yuan	0
+欧提	ou ti	0
+欧提	ou di	0
+欧洲提督	ou zhou ti du	0
+欧提炮	ou ti pao	0
+欧提炮	ou di pao	0
+欧提炮	ou ti bao	0
+欧提炮	ou di bao	0
+欧根雷达	ou gen lei da	0
+欧根炮	ou gen pao	0
+欧根炮	ou gen bao	0
+欧卡奇	ou ka qi	0
+欧卡奇	ou qia qi	0
+欧卡奇	ou ka ji	0
+欧卡奇	ou qia ji	0
+喷铝	pen lv	0
+浦风炮	pu feng pao	0
+浦风炮	pu feng bao	0
+泡芙	pao fu	0
+章鱼烧	zhang yu shao	0
+欠雷	qian lei	0
+切麦狂魔	qie mai kuang mo	0
+亲女儿级	qin nv er ji	0
+亲女儿级	qing nv er ji	0
+劝退	quan tui	0
+秋月炮	qiu yue pao	0
+秋月炮	qiu yue bao	0
+肉奥	rou ao	0
+肉奥	rou yu	0
+伞级	san ji	0
+傻级	sha ji	0
+双持沙鹰	shuang chi sha ying	0
+死库水	si ku shui	0
+死鱼	si yu	0
+速力	su li	0
+刷闪	shua shan	0
+塔姐	ta jie	0
+提督	ti du	0
+贴条	tie tiao	0
+田中飞母	tian zhong fei mu	0
+田中飞妈	tian zhong fei ma	0
+偷油	tou you	0
+窝酱	wo jiang	0
+武勋舰	wu xun jian	0
+夕立炮	xi li pao	0
+夕立炮	xi li bao	0
+咸鱼	xian yu	0
+宪兵队	xian bing dui	0
+小天使	xiao tian shi	0
+玄学	xuan xue	0
+雪亲王	xue qin wang	0
+颜艺姐	yan yi jie	0
+颜艺级	yan yi ji	0
+养殖业	yang zhi ye	0
+月刊重巡	yue kan zhong xun	0
+月刊重巡	yue kan chong xun	0
+炸鱼	zha yu	0
+长草期	zhang cao qi	0
+长草期	zhang cao ji	0
+第一航空战队	di yi hang kong zhan dui	0
+一航战	yi hang zhan	0
+第二航空战队	di er hang kong zhan dui	0
+二航战	er hang zhan	0
+第五航空战队	di wu hang kong zhan dui	0
+五航战	wu hang zhan	0
+第三航空战队	di san hang kong zhan dui	0
+三航战	san hang zhan	0
+第一水雷战队	di yi shui lei zhan dui	0
+活	huo	0
+六驱	liu qu	0
+六驱	lu qu	0
+第六驱逐队	di liu qu zhu dui	0
+第二水雷战队	di er shui lei zhan dui	0
+二水战	er shui zhan	0
+南云机动部队	nan yun ji dong bu dui	0
+三川舰队	san chuan jian dui	0
+小泽机动部队	xiao ze ji dong bu dui	0
+栗田舰队	li tian jian dui	0
+西村舰队	xi cun jian dui	0
+装甲空母鬼	zhuang jia kong mu gui	0
+装甲空母姬	zhuang jia kong mu ji	0
+浮游要塞	fu you yao sai	0
+泊地栖鬼	bo di qi gui	0
+泊地栖鬼	bo di xi gui	0
+泊地栖姬	bo di qi ji	0
+泊地栖姬	bo di xi ji	0
+护卫要塞	hu wei yao sai	0
+南方栖鬼	nan fang qi gui	0
+南方栖鬼	nan fang xi gui	0
+南方栖战鬼	nan fang qi zhan gui	0
+南方栖战鬼	nan fang xi zhan gui	0
+南方栖战姬	nan fang qi zhan ji	0
+南方栖战姬	nan fang xi zhan ji	0
+飞行场姬	fei xing chang ji	0
+飞机场姬	fei ji chang ji	0
+战舰栖姬	zhan jian qi ji	0
+战舰栖姬	zhan jian xi ji	0
+港湾栖姬	gang wan qi ji	0
+港湾栖姬	gang wan xi ji	0
+离岛栖鬼	li dao qi gui	0
+离岛栖鬼	li dao xi gui	0
+北方栖姬	bei fang qi ji	0
+北方栖姬	bei fang xi ji	0
+小北方	xiao bei fang	0
+中间栖姬	zhong jian qi ji	0
+中间栖姬	zhong jian xi ji	0
+空母栖鬼	kong mu qi gui	0
+空母栖鬼	kong mu xi gui	0
+空母栖姬	kong mu qi ji	0
+空母栖姬	kong mu xi ji	0
+驱逐栖姬	qu zhu qi ji	0
+驱逐栖姬	qu zhu xi ji	0
+驱逐水鬼	qu zhu shui gui	0
+空母水鬼	kong mu shui gui	0
+轻巡栖鬼	qing xun qi gui	0
+轻巡栖鬼	qing xun xi gui	0
+轻巡栖姬	qing xun qi ji	0
+轻巡栖姬	qing xun xi ji	0
+战舰水鬼	zhan jian shui gui	0
+港湾水鬼	gang wan shui gui	0
+泊地水鬼	bo di shui gui	0
+水母栖姬	shui mu qi ji	0
+水母栖姬	shui mu xi ji	0
+防空栖姬	fang kong qi ji	0
+防空栖姬	fang kong xi ji	0
+潜水栖姬	qian shui qi ji	0
+潜水栖姬	qian shui xi ji	0
+深海栖姬	shen hai qi ji	0
+深海栖姬	shen hai xi ji	0
+深海栖舰	shen hai qi jian	0
+深海栖舰	shen hai xi jian	0
+集积地栖姬	ji ji di qi ji	0
+集积地栖姬	ji ji de qi ji	0
+集积地栖姬	ji ji di xi ji	0
+集积地栖姬	ji ji de xi ji	0
+小鬼群	xiao gui qun	0
+炮台小鬼	pao tai xiao gui	0
+离岛栖姬	li dao qi ji	0
+离岛栖姬	li dao xi ji	0
+栖姬	qi ji	0
+栖姬	xi ji	0
+栖鬼	qi gui	0
+栖鬼	xi gui	0
+鱼雷后期型	yu lei hou qi xing	0
+鱼雷前期型	yu lei qian qi xing	0
+联装速射炮	lian zhuang su she pao	0
+舰战绿	jian zhan lv	0
+舰战绿	jian zhan lu	0
+舰爆绿	jian bao lv	0
+舰爆绿	jian bao lu	0
+舰攻绿	jian gong lv	0
+舰攻绿	jian gong lu	0
+舰战橙	jian zhan cheng	0
+舰爆橙	jian bao cheng	0
+舰攻橙	jian gong cheng	0
+新型舰战	xin xing jian zhan	0
+新型舰攻	xin xing jian gong	0
+新型舰爆	xin xing jian bao	0
+新型舰战红	xin xing jian zhan hong	0
+新型舰战红	xin xing jian zhan gong	0
+新型舰爆红	xin xing jian bao hong	0
+新型舰爆红	xin xing jian bao gong	0
+新型舰攻红	xin xing jian gong hong	0
+新型舰攻红	xin xing jian gong gong	0
+舰战青	jian zhan qing	0
+舰攻青	jian gong qing	0
+联装两用炮	lian zhuang liang yong pao	0
+联装两用炮	lian zhuang liang yong bao	0
+联装两用荚炮	lian zhuang liang yong jia pao	0
+联装两用荚炮	lian zhuang liang yong jia bao	0
+水上爆击机红	shui shang bao ji ji hong	0
+水上爆击机红	shui shang bao ji ji gong	0
+工厂	gong chang	0
+越过海原	yue guo hai yuan	0
+镇守府的午后	zhen shou fu de wu hou	0
+镇守府的午后	zhen shou fu di wu hou	0
+与提督的羁绊	yu ti du de ji ban	0
+与提督的羁绊	yu ti du di ji ban	0
+秋季的镇守府	qiu ji de zhen shou fu	0
+秋季的镇守府	qiu ji di zhen shou fu	0
+武藏的归航	wu zang de gui hang	0
+武藏的归航	wu zang di gui hang	0
+明石的工厂	ming shi de gong chang	0
+明石的工厂	ming shi di gong chang	0
+迎春的镇守府	ying chun de zhen shou fu	0
+迎春的镇守府	ying chun di zhen shou fu	0
+节分的镇守府	jie fen de zhen shou fu	0
+制作点心的舰娘们	zhi zuo dian xin de jian niang men	0
+制作点心的舰娘们	zhi zuo dian xin di jian niang men	0
+女儿节与舰娘	nv er jie yu jian niang	0
+雨声中的镇守府	yu sheng zhong di zhen shou fu	0
+雨酒与舰娘	yu jiu yu jian niang	0
+海边的舰娘	hai bian de jian niang	0
+炮雷击战开始	pao lei ji zhan kai shi	0
+炮雷击战开始	bao lei ji zhan kai shi	0
+二水战的航迹	er shui zhan de hang ji	0
+二水战的航迹	er shui zhan di hang ji	0
+次发装填再突入	ci fa zhuang tian zai tu ru	0
+我方与敌机动部队交战	wo fang yu di ji dong bu dui jiao zhan	0
+海上护卫战	hai shang hu wei zhan	0
+第五战队出击	di wu zhan dui chu ji	0
+飞龙的反击	fei long de fan ji	0
+飞龙的反击	fei long di fan ji	0
+华之二水战	hua zhi er shui zhan	0
+士魂之护	shi hun zhi hu	0
+眼下的伊号	yan xia de yi hao	0
+眼下的伊号	yan xia di yi hao	0
+冬季的舰队	dong ji de jian dui	0
+冬季的舰队	dong ji di jian dui	0
+冬之舰队	dong zhi jian dui	0
+加贺岬	jia he jia	0
+舰队决战	jian dui jue zhan	0
+全舰娘突击	quan jian niang tu ji	0
+攻击敌超弩级战舰	gong ji di chao nu ji zhan jian	0
+决战突破铁底海峡	jue zhan tu po tie di hai xia	0
+决战突破铁底海峡	jue zhan tu po tie de hai xia	0
+冬之拔锚	dong zhi ba mao	0
+索敌机开始离舰	suo di ji kai shi li jian	0
+敌方舰队发现	di fang jian dui fa xian	0
+拂晓的水平线上	fu xiao de shui ping xian shang	0
+迈向海原	mai xiang hai yuan	0
+强袭空母机动部队	qiang xi kong mu ji dong bu dui	0
+沉没吧沉没吧	chen mo ba chen mo ba	0
+作战发动	zuo zhan fa dong	0
+联合舰队的出击	lian he jian dui de chu ji	0
+联合舰队的出击	lian he jian dui di chu ji	0
+秋月之空	qiu yue zhi kong	0
+防空驱逐舰参战	fang kong qu zhu jian can zhan	0
+特型驱逐舰	te xing qu zhu jian	0
+海色	hai se	0
+海色	hai shai	0
+睦月级驱逐舰的战斗	mu yue ji qu zhu jian de zhan dou	0
+睦月级驱逐舰的战斗	mu yue ji qu zhu jian di zhan dou	0
+第三十驱逐队拔锚准备	di san shi qu zhu dui ba mao zhun bei	0
+联合舰队向西	lian he jian dui xiang xi	0
+敌地侵入	di di qin ru	0
+敌地侵入	di de qin ru	0
+来自深海的邀请	lai zi shen hai de yao qing	0
+来自深海的邀请	lai zi shen hai di yao qing	0
+舰队航向所罗门海	jian dui hang xiang suo luo men hai	0
+激突夜间炮击战	ji tu ye jian pao ji zhan	0
+舰队再集结	jian dui zai ji jie	0
+深海水上打击部队	shen hai shui shang da ji bu dui	0
+镇守府秋刀鱼祭	zhen shou fu qiu dao yu ji	0
+镇守府秋刀鱼祭	zhen shou fu qiu dao yu zhai	0
+舰队集结	jian dui ji jie	0
+海上输送作战	hai shang shu song zuo zhan	0
+水雷战队的反击	shui lei zhan dui de fan ji	0
+水雷战队的反击	shui lei zhan dui di fan ji	0
+伏击的夜战	fu ji de ye zhan	0
+上坂堇	shang ban jin	0
+东山奈央	dong shan nai yang	0
+大坪由佳	da ping you jia	0
+种田梨沙	zhong tian li sha	0
+洲崎绫	zhou qi ling	0
+佐仓绫音	zuo cang ling yin	0
+日高里菜	ri gao li cai	0
+小林元子	xiao lin yuan zi	0
+早坂梢	zao ban shao	0
+早坂梢	zao ban sao	0
+宫川若菜	gong chuan ruo cai	0
+宫川若菜	gong chuan re cai	0
+谷边由美	gu bian you mei	0
+谷边由美	yu bian you mei	0
+野水伊织	ye shui yi zhi	0
+布里德卡特塞拉惠美	bu li de ka te sai la hui mei	0
+中岛爱	zhong dao ai	0
+小松真奈	xiao song zhen nai	0
+能登麻美子	neng deng ma mei zi	0
+竹达彩奈	zhu da cai nai	0
+伊濑茉莉也	yi lai mo li ye	0
+山田悠希	shan tian you xi	0
+味里	wei li	0
+小仓唯	xiao cang wei	0
+远藤绫	yuan teng ling	0
+金元寿子	jin yuan shou zi	0
+川澄绫子	chuan cheng ling zi	0
+小泽亚李	xiao ze ya li	0
+堀江由衣	ku jiang you yi	0
+茅野爱衣	mao ye ai yi	0
+早见沙织	zao xian sha zhi	0
+鬼头明里	gui tou ming li	0
+赤崎千夏	chi qi qian xia	0
+桥本千波	qiao ben qian bo	0
+田中谦介	tian zhong qian jie	0
+花田十辉	hua tian shi hui	0
+龟冈夏海	gui gang xia hai	0
+龟冈夏海	jun gang xia hai	0
+龟冈夏海	qiu gang xia hai	0
+大越香里	da yue xiang li	0
+宇佐美宏	yu zuo mei hong	0
+练习航海	lian xi hang hai	0
+长距离练习航海	chang ju li lian xi hang hai	0
+警备任务	jing bei ren wu	0
+对潜警戒任务	dui qian jing jie ren wu	0
+海上护卫任务	hai shang hu wei ren wu	0
+防空射击演习	fang kong she ji yan xi	0
+观舰式予行	guan jian shi yu hang	0
+观舰式予行	guan jian shi yu xing	0
+观舰式	guan jian shi	0
+油轮护卫任务	you lun hu wei ren wu	0
+强行侦察任务	qiang xing zhen cha ren wu	0
+铝土矿输送任务	lv tu kuang shu song ren wu	0
+资源输送任务	zi yuan shu song ren wu	0
+鼠输送作战	shu shu song zuo zhan	0
+舰队决战支援作战	jian dui jue zhan zhi yuan zuo zhan	0
+敌方阵地侦察作战	di fang zhen di zhen cha zuo zhan	0
+舰载机输送作战	jian zai ji shu song zuo zhan	0
+北号作战	bei hao zuo zhan	0
+潜水舰哨戒任务	qian shui jian shao jie ren wu	0
+北方鼠输送作战	bei fang shu shu song zuo zhan	0
+舰队演习	jian dui yan xi	0
+航空战舰运用演习	hang kong zhan jian yun yong yan xi	0
+北方航路海上护卫	bei fang hang lu hai shang hu wei	0
+通商破坏作战	tong shang po huai zuo zhan	0
+敌母港空袭作战	di mu gang kong xi zuo zhan	0
+潜水舰通商破坏作战	qian shui jian tong shang po huai zuo zhan	0
+西方海域封锁作战	xi fang hai yu feng suo zuo zhan	0
+潜水舰派遣演习	qian shui jian pai qian yan xi	0
+潜水舰派遣作战	qian shui jian pai qian zuo zhan	0
+海外舰的接触	hai wai jian de jie chu	0
+海外舰的接触	hai wai jian di jie chu	0
+远洋练习航海	yuan yang lian xi hang hai	0
+前卫支援任务	qian wei zhi yuan ren wu	0
+舰队决战支援任务	jian dui jue zhan zhi yuan ren wu	0
+水上飞机基地建设	shui shang fei ji ji di jian she	0
+东京急行	dong jing ji xing	0
+远洋潜水舰作战	yuan yang qian shui jian zuo zhan	0
+水上机前线输送	shui shang ji qian xian shu song	0
+雨宫千遥	yu gong qian yao	0
+彩树	cai shu	0
+玖条	jiu tiao	0
+口尼西	kou ni xi	0
+草坪	cao ping	0
+岛田文金	dao tian wen jin	0
+草田草太	cao tian cao tai	0
+草太	cao tai	0
+芹菜	qin cai	0
+藤川	teng chuan	0
+寄居蟹	ji ju xie	0

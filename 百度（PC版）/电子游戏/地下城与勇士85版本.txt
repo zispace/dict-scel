@@ -1,0 +1,4203 @@
+# 词库名称: 地下城与勇士85版本
+# 词库分类: 游戏
+# 词库作者: 够2B够自豪
+# 词库描述: 支持目前85版本，追加了大量的常用性短语，以及支援兵技能还有大量80新装备！官方推荐
+# 词条数量: 4195
+# 解析词数: 4411
+# 解析异常: 216
+
+支援兵技能	zhi yuan bing ji neng	0
+怒气爆发	nu qi bao fa	0
+嗜魂封魔斩	shi hun feng mo zhan	0
+大吸	da xi	0
+大吸	dai xi	0
+大吸	tai xi	0
+崩山裂地斩	beng shan lie di zhan	0
+崩山裂地斩	beng shan lie de zhan	0
+大崩	da beng	0
+大崩	dai beng	0
+大崩	tai beng	0
+死亡墓碑	si wang mu bei	0
+墓碑	mu bei	0
+鬼影闪	gui ying shan	0
+冥炎之卡洛	ming yan zhi ka luo	0
+卡洛	ka luo	0
+爆炎波动剑	bao yan bo dong jian	0
+大扑	da pu	0
+大扑	dai pu	0
+大扑	tai pu	0
+邪光波动阵	xie guang bo dong zhen	0
+邪光波动阵	xu guang bo dong zhen	0
+邪光波动阵	ya guang bo dong zhen	0
+邪光波动阵	ye guang bo dong zhen	0
+邪光波动阵	yu guang bo dong zhen	0
+光罩	guang zhao	0
+不动明王阵	bu dong ming wang zhen	0
+不动	bu dong	0
+拔刀斩	ba dao zhan	0
+拔刀	ba dao	0
+猛龙断空斩	meng long duan kong zhan	0
+猛龙	meng long	0
+幻影剑舞	huan ying jian wu	0
+剑舞	jian wu	0
+浮空凌云踢	fu kong ling yun ti	0
+螺旋彗星落	luo xuan hui xing luo	0
+螺旋彗星落	luo xuan hui xing la	0
+地狱风火轮	di yu feng huo lun	0
+地狱摇篮	di yu yao lan	0
+裂石破天	lie shi po tian	0
+狮子吼	shi zi hou	0
+螺旋念气场	luo xuan nian qi chang	0
+螺旋丸	luo xuan wan	0
+念兽猛虎震地	nian shou meng hu zhen di	0
+念兽猛虎震地	nian shou meng hu zhen de	0
+念兽雷龙出海	nian shou lei long chu hai	0
+雷龙	lei long	0
+闪电之舞	shan dian zhi wu	0
+瞬影连环踢	shun ying lian huan ti	0
+纷影连环踢	fen ying lian huan ti	0
+罗网投掷	luo wang tou zhi	0
+天罗地网	tian luo di wang	0
+毒雷引爆	du lei yin bao	0
+毒雷引爆	dai lei yin bao	0
+血色风暴	xue se feng bao	0
+街头风暴	jie tou feng bao	0
+丢垃圾	diu la ji	0
+量子爆弹	liang zi bao dan	0
+量子	liang zi	0
+乱射	luan she	0
+枪舞	qiang wu	0
+多重爆头	duo chong bao tou	0
+多重爆头	duo zhong bao tou	0
+多重	duo chong	0
+多重	duo zhong	0
+双鹰回旋	shuang ying hui xuan	0
+双鹰	shuang ying	0
+空战机械风暴	kong zhan ji xie feng bao	0
+风暴	feng bao	0
+空战机械狂风	kong zhan ji xie kuang feng	0
+狂风	kuang feng	0
+空投支援	kong tou zhi yuan	0
+空投	kong tou	0
+拦截机工厂	lan jie ji gong chang	0
+鸟巢	niao chao	0
+冰雷	bing lei	0
+地狱烈炎	di yu lie yan	0
+光子爆弹	guang zi bao dan	0
+尼尔狙击	ni er ju ji	0
+尼尔	ni er	0
+冰魄锤击	bing po chui ji	0
+极冰绽放	ji bing zhan fang	0
+冰龙旋舞	bing long xuan wu	0
+黑暗禁域	hei an jin yu	0
+雷光屏障	lei guang ping zhang	0
+元素轰炸	yuan su hong zha	0
+爆炎加热炉	bao yan jia re lu	0
+加热炉	jia re lu	0
+反重力装置	fan zhong li zhuang zhi	0
+反重力	fan zhong li	0
+电鳗碰撞机	dian man peng zhuang ji	0
+流星闪影击	liu xing shan ying ji	0
+煌龙偃月	huang long yan yue	0
+契约召唤袄索	qi yue zhao huan ao suo	0
+契约召唤路易丝	qi yue zhao huan lu yi si	0
+路易丝	lu yi si	0
+精灵召唤伊伽贝拉	jing ling zhao huan yi ga bei la	0
+精灵召唤伊伽贝拉	jing ling zhao huan yi qie bei la	0
+精灵召唤伊伽贝拉	jing ling zhao huan yi jia bei la	0
+伊伽贝拉	yi ga bei la	0
+伊伽贝拉	yi qie bei la	0
+伊伽贝拉	yi jia bei la	0
+杰克降临	jie ke jiang lin	0
+大南瓜	da nan gua	0
+湮灭黑洞	yan mie hei dong	0
+黑洞	hei dong	0
+极冰盛宴	ji bing sheng yan	0
+螺旋穿刺	luo xuan chuan ci	0
+疾风乱舞	ji feng luan wu	0
+绝命瞬狱杀	jue ming shun yu sha	0
+百鬼夜行	bai gui ye xing	0
+巴拉克的野心	ba la ke de ye xin	0
+巴拉克的野心	ba la ke di ye xin	0
+巴拉克的愤怒	ba la ke de fen nu	0
+巴拉克的愤怒	ba la ke di fen nu	0
+厄运之轮	e yun zhi lun	0
+黑暗之触	hei an zhi chu	0
+黑暗权能	hei an quan neng	0
+刺拳猛击	ci quan meng ji	0
+神圣组合拳	shen sheng zu he quan	0
+极速飓风拳	ji su ju feng quan	0
+圣光球	sheng guang qiu	0
+忏悔之锤	chan hui zhi chui	0
+正义审判	zheng yi shen pan	0
+落雷符	luo lei fu	0
+落雷	luo lei	0
+疾空旋风破	ji kong xuan feng po	0
+无双击	wu shuang ji	0
+无双	wu shuang	0
+式神殇	shi shen shang	0
+克伦特	ke lun te	0
+凯丽徳莱迪	kai li de lai di	0
+凯丽	kai li	0
+加尔	jia er	0
+博肯	bo ken	0
+占卜师希莫娜	zhan bu shi xi mo na	0
+占卜师希莫娜	zhan bu shi xi mu na	0
+占卜师希莫娜	zhan bu shi xi mo nuo	0
+占卜师希莫娜	zhan bu shi xi mu nuo	0
+占卜师	zhan bu shi	0
+卡坤	ka kun	0
+卡坤	qia kun	0
+卡妮娜	ka ni na	0
+卡妮娜	qia ni na	0
+土罐	tu guan	0
+夏洛克戈林德	xia luo ke ge lin de	0
+夏洛克	xia luo ke	0
+奥兰	ao lan	0
+奥尔卡	ao er ka	0
+奥尔卡	ao er qia	0
+奥菲利亚贝伊兰斯	ao fei li ya bei yi lan si	0
+奥菲利亚贝伊兰斯	yu fei li ya bei yi lan si	0
+奥菲利亚	ao fei li ya	0
+奥菲利亚	yu fei li ya	0
+小灯笼	xiao deng long	0
+小铁柱	xiao tie zhu	0
+尼贝尔	ni bei er	0
+巴尔雷娜	ba er lei na	0
+巴尔雷娜	ba er lei nuo	0
+布告栏	bu gao lan	0
+布莱斯	bu lai si	0
+敏泰	min tai	0
+木罐	mu guan	0
+林纳斯	lin na si	0
+格林林德	ge lin lin de	0
+梅尔文里克特	mei er wen li ke te	0
+梅尔文	mei er wen	0
+歌兰蒂斯格拉西亚	ge lan di si ge la xi ya	0
+歌兰蒂斯	ge lan di si	0
+水罐	shui guan	0
+爱莎	ai sha	0
+福胖胖	fu pang pang	0
+管理校将杜罗西	guan li xiao jiang du luo xi	0
+管理校将杜罗西	guan li jiao jiang du luo xi	0
+管理校将杜罗西	guan li xiao qiang du luo xi	0
+管理校将杜罗西	guan li jiao qiang du luo xi	0
+米内特	mi nei te	0
+米内特	mi na te	0
+米娅	mi ya	0
+索西雅	suo xi ya	0
+终日之梅米特	zhong ri zhi mei mi te	0
+维尔克鲁	wei er ke lu	0
+罗杰莱文	luo jie lai wen	0
+罗杰	luo jie	0
+罗莉安	luo li an	0
+艾丽丝	ai li si	0
+莎兰	sha lan	0
+莎兰	suo lan	0
+西岚	xi lan	0
+诺羽	nuo yu	0
+诺顿马西莫格	nuo dun ma xi mo ge	0
+诺顿	nuo dun	0
+贝伦博内哥特	bei lun bo nei ge te	0
+贝伦博内哥特	bei lun bo na ge te	0
+贝伦	bei lun	0
+赛丽亚克鲁敏	sai li ya ke lu min	0
+赛丽亚	sai li ya	0
+辛达	xin da	0
+达芙妮马弗罗	da fu ni ma fu luo	0
+达芙妮	da fu ni	0
+金罐	jin guan	0
+阿尔伯特伯恩斯塔	a er bo te bo en si ta	0
+阿尔伯特	a er bo te	0
+阿斯卡	a si ka	0
+阿斯卡	a si qia	0
+雷诺	lei nuo	0
+风振	feng zhen	0
+马琳基希卡	ma lin ji xi ka	0
+马琳基希卡	ma lin ji xi qia	0
+马琳	ma lin	0
+马蒂亚斯	ma di ya si	0
+鹰吉	ying ji	0
+梦娜	meng na	0
+安德雷亚	an de lei ya	0
+洛兰	luo lan	0
+洛兰深处	luo lan shen chu	0
+比尔马克帝国试验场	bi er ma ke di guo shi yan chang	0
+带机械牛	dai ji xie niu	0
+机械牛的组	ji xie niu de zu	0
+牛尸体的来	niu shi ti de lai	0
+悲鸣洞穴	bei ming dong xue	0
+带悲鸣	dai bei ming	0
+悲鸣尸体的来	bei ming shi ti de lai	0
+悲鸣的组	bei ming de zu	0
+悲鸣的组	bei ming di zu	0
+艾尔文防线	ai er wen fang xian	0
+赫顿玛尔	he dun ma er	0
+格兰之森	ge lan zhi sen	0
+幽暗密林	you an mi lin	0
+幽暗密林深处	you an mi lin shen chu	0
+雷鸣废墟	lei ming fei xu	0
+猛毒雷鸣废墟	meng du lei ming fei xu	0
+格拉卡	ge la ka	0
+格拉卡	ge la qia	0
+烈焰格拉卡	lie yan ge la ka	0
+烈焰格拉卡	lie yan ge la qia	0
+冰霜幽暗密林	bing shuang you an mi lin	0
+暗黑雷鸣废墟	an hei lei ming fei xu	0
+僵尸	jiang shi	0
+西海岸	xi hai an	0
+天空之城	tian kong zhi cheng	0
+龙人之塔	long ren zhi ta	0
+龙人	long ren	0
+人偶玄关	ren ou xuan guan	0
+人偶	ren ou	0
+石巨人塔	shi ju ren ta	0
+黑暗玄廊	hei an xuan lang	0
+玄廊	xuan lang	0
+城主宫殿	cheng zhu gong dian	0
+带城主	dai cheng zhu	0
+城主组	cheng zhu zu	0
+悬空城	xuan kong cheng	0
+悬空	xuan kong	0
+天帷巨兽	tian wei ju shou	0
+神殿外围	shen dian wai wei	0
+树精丛林	shu jing cong lin	0
+炼狱	lian yu	0
+极昼	ji zhou	0
+第一脊椎	di yi ji zhui	0
+第一	di yi	0
+树精繁殖地	shu jing fan zhi di	0
+繁殖地	fan zhi di	0
+天帷禁地	tian wei jin di	0
+禁地	jin di	0
+暗黑城	an hei cheng	0
+王的遗迹	wang de yi ji	0
+带遗迹	dai yi ji	0
+遗迹的组	yi ji de zu	0
+遗迹的组	yi ji di zu	0
+遗迹尸体的来	yi ji shi ti de lai	0
+熔岩穴	rong yan xue	0
+暗黑城入口	an hei cheng ru kou	0
+无头	wu tou	0
+暗影迷宫	an ying mi gong	0
+迷宫	mi gong	0
+阿法利亚营地	a fa li ya ying di	0
+斯顿雪域	si dun xue yu	0
+万年雪山	wan nian xue shan	0
+山脊	shan ji	0
+冰心少年	bing xin shao nian	0
+冰心	bing xin	0
+利库天井	li ku tian jing	0
+利库	li ku	0
+白色废墟	bai se fei xu	0
+废墟	fei xu	0
+冰雪宫殿	bing xue gong dian	0
+带冰宫	dai bing gong	0
+每日冰宫的组	mei ri bing gong de zu	0
+每日冰宫的组	mei ri bing gong di zu	0
+斯卡萨之巢	si ka sa zhi chao	0
+带冰龙	dai bing long	0
+每日冰龙的组	mei ri bing long de zu	0
+每日冰龙的组	mei ri bing long di zu	0
+布万加的修炼场	bu wan jia de xiu lian chang	0
+布万加的修炼场	bu mo jia de xiu lian chang	0
+布万加	bu wan jia	0
+布万加	bu mo jia	0
+逆袭之谷	ni xi zhi gu	0
+诺斯玛尔	nuo si ma er	0
+堕落的盗贼	duo luo de dao zei	0
+堕落的盗贼	duo luo di dao zei	0
+每日盗贼的组	mei ri dao zei de zu	0
+每日盗贼的组	mei ri dao zei di zu	0
+迷乱之村哈穆林	mi luan zhi cun ha mu lin	0
+每日老鼠的组	mei ri lao shu de zu	0
+每日老鼠的组	mei ri lao shu di zu	0
+血蝴蝶之舞	xie hu die zhi wu	0
+血蝴蝶之舞	xue hu die zhi wu	0
+每日蝴蝶的组	mei ri hu die de zu	0
+每日蝴蝶的组	mei ri hu die di zu	0
+疑惑之村	yi huo zhi cun	0
+每日疑惑的组	mei ri yi huo de zu	0
+痛苦之村列瑟芬	tong ku zhi cun lie se fen	0
+痛苦尸体的组	tong ku shi ti de zu	0
+痛苦尸体的组	tong ku shi ti di zu	0
+带痛苦	dai tong ku	0
+痛苦尸体的来	tong ku shi ti de lai	0
+每日痛苦的组	mei ri tong ku de zu	0
+格兰之森山麓	ge lan zhi sen shan lu	0
+亡者峡谷	wang zhe xia gu	0
+死亡之塔	si wang zhi ta	0
+带死亡	dai si wang	0
+迷妄之塔	mi wang zhi ta	0
+无尽的祭坛	wu jin de ji tan	0
+极限的祭坛	ji xian de ji tan	0
+极限的祭坛	ji xian di ji tan	0
+领主之塔	ling zhu zhi ta	0
+领主尸体	ling zhu shi ti	0
+领主打手	ling zhu da shou	0
+每日领主	mei ri ling zhu	0
+带领主	dai ling zhu	0
+绝望之塔	jue wang zhi ta	0
+堕落之殿	duo luo zhi dian	0
+海岸三番街	hai an san fan jie	0
+陌路者要塞	mo lu zhe yao sai	0
+热血八番街	re xue ba fan jie	0
+热血八番街	re xue ba pan jie	0
+八番街	ba fan jie	0
+八番街	ba pan jie	0
+每日热血的组	mei ri re xue de zu	0
+每日热血的组	mei ri re xue di zu	0
+绿都格罗兹尼	lv du ge luo zi ni	0
+带绿都	dai lv du	0
+阿拉德地区	a la de di qu	0
+天界地区	tian jie di qu	0
+安特贝鲁峡谷	an te bei lu xia gu	0
+根特外围	gen te wai wei	0
+外围	wai wei	0
+根特东门	gen te dong men	0
+东门	dong men	0
+根特南门	gen te nan men	0
+南门	nan men	0
+夜间袭击战	ye jian xi ji zhan	0
+夜间	ye jian	0
+每日夜间的组	mei ri ye jian de zu	0
+每日夜间的组	mei ri ye jian di zu	0
+补给线阻断战	bu ji xian zu duan zhan	0
+补给	bu ji	0
+每日补给的组	mei ri bu ji de zu	0
+每日补给的组	mei ri bu ji di zu	0
+追击歼灭战	zhui ji jian mie zhan	0
+追击	zhui ji	0
+每日追击的组	mei ri zhui ji de zu	0
+每日追击的组	mei ri zhui ji di zu	0
+根特北门	gen te bei men	0
+北门	bei men	0
+根特防御战	gen te fang yu zhan	0
+每日防御战的组	mei ri fang yu zhan de zu	0
+每日防御战的组	mei ri fang yu zhan di zu	0
+神之都根特	shen zhi dou gen te	0
+神之都根特	shen zhi du gen te	0
+根特皇宫	gen te huang gong	0
+鲁夫特悬空海港	lu fu te xuan kong hai gang	0
+海上列车	hai shang lie che	0
+每日列车的组	mei ri lie che de zu	0
+每日列车的组	mei ri lie che di zu	0
+列车上的海贼	lie che shang de hai zei	0
+每日鳄鱼的组	mei ri e yu de zu	0
+每日鳄鱼的组	mei ri e yu di zu	0
+夺回西部线	duo hui xi bu xian	0
+每日乌龟的组	mei ri wu gui de zu	0
+每日乌龟的组	mei ri wu gui di zu	0
+雾都赫伊斯	wu du he yi si	0
+雾都	wu du	0
+每日雾都的组	mei ri wu du de zu	0
+每日雾都的组	mei ri wu du di zu	0
+阿登高地	a deng gao di	0
+每日高地的组	mei ri gao di de zu	0
+每日高地的组	mei ri gao di di zu	0
+幽灵列车	you ling lie che	0
+带幽灵列车	dai you ling lie che	0
+每日幽灵列车的组	mei ri you ling lie che de zu	0
+每日幽灵列车的组	mei ri you ling lie che di zu	0
+卡勒特指挥部	ka le te zhi hui bu	0
+卡勒特指挥部	qia le te zhi hui bu	0
+卡勒特指挥部	ka lei te zhi hui bu	0
+卡勒特指挥部	qia lei te zhi hui bu	0
+斯曼工业基地	si man gong ye ji di	0
+能源中心	neng yuan zhong xin	0
+克雷发电站	ke lei fa dian zhan	0
+普鲁兹发电站	pu lu zi fa dian zhan	0
+普鲁兹发电站	pu lu ci fa dian zhan	0
+特伦斯发电站	te lun si fa dian zhan	0
+格兰迪发电站	ge lan di fa dian zhan	0
+素喃地区	su nan di qu	0
+决斗场	jue dou chang	0
+虚祖武斗大会	xu zu wu dou da hui	0
+虚祖首都素喃	xu zu shou du su nan	0
+时空之门	shi kong zhi men	0
+格兰之火	ge lan zhi huo	0
+每日格兰的组	mei ri ge lan de zu	0
+每日格兰的组	mei ri ge lan di zu	0
+瘟疫之源	wen yi zhi yuan	0
+每日瘟疫的组	mei ri wen yi de zu	0
+每日瘟疫的组	mei ri wen yi di zu	0
+卡勒特之初	ka le te zhi chu	0
+卡勒特之初	qia le te zhi chu	0
+卡勒特之初	ka lei te zhi chu	0
+卡勒特之初	qia lei te zhi chu	0
+每日卡勒特的组	mei ri ka le te de zu	0
+每日卡勒特的组	mei ri qia le te de zu	0
+每日卡勒特的组	mei ri ka lei te de zu	0
+每日卡勒特的组	mei ri ka le te di zu	0
+每日卡勒特的组	mei ri qia lei te de zu	0
+每日卡勒特的组	mei ri qia le te di zu	0
+每日卡勒特的组	mei ri ka lei te di zu	0
+每日卡勒特的组	mei ri qia lei te di zu	0
+暗黑圣战	an hei sheng zhan	0
+每日圣战的组	mei ri sheng zhan de zu	0
+每日圣战的组	mei ri sheng zhan di zu	0
+绝密区域	jue mi qu yu	0
+每日绝密的组	mei ri jue mi de zu	0
+每日绝密的组	mei ri jue mi di zu	0
+昔日悲鸣	xi ri bei ming	0
+每日悲鸣的组	mei ri bei ming de zu	0
+每日悲鸣的组	mei ri bei ming di zu	0
+凛冬	lin dong	0
+每日凛冬的组	mei ri lin dong de zu	0
+每日凛冬的组	mei ri lin dong di zu	0
+谜之觉悟	mi zhi jue wu	0
+每日艾丽丝的组	mei ri ai li si de zu	0
+每日艾丽丝的组	mei ri ai li si di zu	0
+异次元裂缝	yi ci yuan lie feng	0
+哥布林王国	ge bu lin wang guo	0
+蠕动之城	ru dong zhi cheng	0
+兰蒂卢斯的鹰犬	lan di lu si de ying quan	0
+兰蒂卢斯的鹰犬	lan di lu si di ying quan	0
+巴卡尔之城	ba ka er zhi cheng	0
+虚无之境	xu wu zhi jing	0
+黑色大地	hei se da di	0
+麒麟魔剑	qi lin mo jian	0
+罗兰护卫者	luo lan hu wei zhe	0
+黑死棒	hei si bang	0
+破风刀	po feng dao	0
+库兰的焰影剑	ku lan de yan ying jian	0
+库兰的焰影剑	ku lan di yan ying jian	0
+紫微星剑	zi wei xing jian	0
+残影剑	can ying jian	0
+裂创心灵之刃	lie chuang xin ling zhi ren	0
+光之翼刃	guang zhi yi ren	0
+卢克西的紫炎波刃剑	lu ke xi de zi yan bo ren jian	0
+卢克西的紫炎波刃剑	lu ke xi di zi yan bo ren jian	0
+卡赞的诅咒	ka zan de zu zhou	0
+卡赞的诅咒	qia zan de zu zhou	0
+红丸	hong wan	0
+恶魔破天棒	e mo po tian bang	0
+闪耀的阿隆戴特	shan yao de a long dai te	0
+闪耀的阿隆戴特	shan yao di a long dai te	0
+玄光圣剑	xuan guang sheng jian	0
+落日幻影	luo ri huan ying	0
+卡露亚的教导裂风	ka lu ya de jiao dao lie feng	0
+卡露亚的教导裂风	ka lu ya di jiao dao lie feng	0
+阿甘左的浪人长剑	a gan zuo de lang ren chang jian	0
+阿甘左的浪人长剑	a gan zuo di lang ren chang jian	0
+影丸	ying wan	0
+卡露亚的教导裁决	ka lu ya di jiao dao cai jue	0
+卡露亚的教导匿迹	ka lu ya di jiao dao ni ji	0
+狱龙断影剑	yu long duan ying jian	0
+邪灵饮血剑	xie ling yin xue jian	0
+卡露亚的教导照胆	ka lu ya de jiao dao zhao dan	0
+卡露亚的教导照胆	ka lu ya di jiao dao zhao dan	0
+裁决刃国殇	cai jue ren guo shang	0
+流光星陨刀	liu guang xing yun dao	0
+四辰斩邪剑	si chen zhan xie jian	0
+四辰斩邪剑	si chen zhan xu jian	0
+四辰斩邪剑	si chen zhan ya jian	0
+四辰斩邪剑	si chen zhan ye jian	0
+四辰斩邪剑	si chen zhan yu jian	0
+天选之剑格朗	tian xuan zhi jian ge lang	0
+血光摄魂刃	xue guang she hun ren	0
+雷神之怒	lei shen zhi nu	0
+复仇之剑夺魂者	fu chou zhi jian duo hun zhe	0
+泰拉石巨剑	tai la shi ju jian	0
+泰拉石太刀	tai la shi tai dao	0
+泰拉石短棒	tai la shi duan bang	0
+泰拉石光剑	tai la shi guang jian	0
+安佛拉斯的暴怒	an fo la si de bao nu	0
+安佛拉斯的暴怒	an fu la si de bao nu	0
+安佛拉斯的暴怒	an bi la si de bao nu	0
+安佛拉斯的暴怒	an bo la si de bao nu	0
+安佛拉斯的暴怒	an fo la si di bao nu	0
+安佛拉斯的暴怒	an fu la si di bao nu	0
+安佛拉斯的暴怒	an bi la si di bao nu	0
+安佛拉斯的暴怒	an bo la si di bao nu	0
+邪影之痕	xie ying zhi hen	0
+死亡烈焰	si wang lie yan	0
+反击之首	fan ji zhi shou	0
+毁灭之本能	hui mie zhi ben neng	0
+毁灭之本能	hui mie zhi ben nai	0
+赤血鬼影虫	chi xue gui ying chong	0
+远古之断魂	yuan gu zhi duan hun	0
+蓝色恶魔之眼	lan se e mo zhi yan	0
+魔剑阿波菲斯	mo jian a bo fei si	0
+魔剑阿波菲斯	mo jian e bo fei si	0
+远古遗骸的青铜剑	yuan gu yi hai di qing tong jian	0
+泰坦的突刺剑	tai tan de tu ci jian	0
+泰坦的突刺剑	tai tan di tu ci jian	0
+战争英雄之无双短剑	zhan zheng ying xiong zhi wu shuang duan jian	0
+战争英雄之无双巨剑	zhan zheng ying xiong zhi wu shuang ju jian	0
+净化之恶魔的奴隶	jing hua zhi e mo de nu li	0
+净化之恶魔的奴隶	jing hua zhi e mo di nu li	0
+泰坦的战刃巨剑	tai tan de zhan ren ju jian	0
+泰坦的战刃巨剑	tai tan di zhan ren ju jian	0
+火焰之拉诺	huo yan zhi la nuo	0
+泰坦的净化太刀	tai tan de jing hua tai dao	0
+泰坦的净化太刀	tai tan di jing hua tai dao	0
+战争英雄之无双太刀	zhan zheng ying xiong zhi wu shuang tai dao	0
+远古意愿	yuan gu yi yuan	0
+战争英雄之无双光剑	zhan zheng ying xiong zhi wu shuang guang jian	0
+杰诺的疾速太刀	jie nuo de ji su tai dao	0
+杰诺的疾速太刀	jie nuo di ji su tai dao	0
+天道之修罗剑	tian dao zhi xiu luo jian	0
+自然之恩赐巨剑	zi ran zhi en ci ju jian	0
+龙族之信仰	long zu zhi xin yang	0
+战争女神之锤	zhan zheng nv shen zhi chui	0
+天痕秘印光剑	tian hen mi yin guang jian	0
+天痕秘印光剑	tian hen bi yin guang jian	0
+尤里斯的次元光剑	you li si de ci yuan guang jian	0
+尤里斯的次元光剑	you li si di ci yuan guang jian	0
+御龙决	yu long jue	0
+天霜寒气	tian shuang han qi	0
+卡勒特的幽灵长剑	ka le te de you ling chang jian	0
+卡勒特的幽灵长剑	qia le te de you ling chang jian	0
+卡勒特的幽灵长剑	ka lei te de you ling chang jian	0
+卡勒特的幽灵长剑	ka le te di you ling chang jian	0
+卡勒特的幽灵长剑	qia lei te de you ling chang jian	0
+卡勒特的幽灵长剑	qia le te di you ling chang jian	0
+卡勒特的幽灵长剑	ka lei te di you ling chang jian	0
+卡勒特的幽灵长剑	qia lei te di you ling chang jian	0
+暗影刀追魂	an ying dao zhui hun	0
+赤岩巨剑	chi yan ju jian	0
+空蝉之鸣	kong chan zhi ming	0
+铭文刀	ming wen dao	0
+霸王棍	ba wang gun	0
+霸王棍	ba wang hun	0
+赤影光剑	chi ying guang jian	0
+龙跃之短剑剑神	long yue zhi duan jian jian shen	0
+龙跃之短剑黑暗君主	long yue zhi duan jian hei an jun zhu	0
+龙跃之巨剑剑神	long yue zhi ju jian jian shen	0
+龙跃之巨剑黑暗君主	long yue zhi ju jian hei an jun zhu	0
+龙跃之太刀剑神	long yue zhi tai dao jian shen	0
+龙跃之太刀黑暗君主	long yue zhi tai dao hei an jun zhu	0
+龙跃之战槌剑神	long yue zhi zhan chui jian shen	0
+龙跃之战槌黑暗君主	long yue zhi zhan chui hei an jun zhu	0
+龙跃之光剑剑神	long yue zhi guang jian jian shen	0
+帝国之玄铁短剑	di guo zhi xuan tie duan jian	0
+帝国之赤岩巨剑	di guo zhi chi yan ju jian	0
+帝国之红翎太刀	di guo zhi hong ling tai dao	0
+帝国之红翎太刀	di guo zhi gong ling tai dao	0
+帝国之铁刺棍	di guo zhi tie ci gun	0
+帝国之铁刺棍	di guo zhi tie ci hun	0
+帝国之饮血剑	di guo zhi yin xue jian	0
+天之驱逐者的骑士光剑	tian zhi qu zhu zhe de qi shi guang jian	0
+天之驱逐者的骑士光剑	tian zhi qu zhu zhe di qi shi guang jian	0
+巨树守护者的古藤棒	ju shu shou hu zhe de gu teng bang	0
+巨树守护者的古藤棒	ju shu shou hu zhe di gu teng bang	0
+翼影之光	yi ying zhi guang	0
+罗特斯的尖刺触须	luo te si de jian ci chu xu	0
+罗特斯的尖刺触须	luo te si di jian ci chu xu	0
+摩根的变异之手	mo gen di bian yi zhi shou	0
+刹影之魂	cha ying zhi hun	0
+刹影之魂	sha ying zhi hun	0
+范哲利斯的咆哮巨剑	fan zhe li si di pao xiao ju jian	0
+异能之魔雷刀	yi neng zhi mo lei dao	0
+机械吉赛尔的电锯	ji xie ji sai er di dian ju	0
+血蝴蝶之怒	xie hu die zhi nu	0
+血蝴蝶之怒	xue hu die zhi nu	0
+冥火钢牙	ming huo gang ya	0
+御兽之王巨槌	yu shou zhi wang ju chui	0
+骷髅骑士之魂	ku lou qi shi zhi hun	0
+薄雾之刃	bo wu zhi ren	0
+灼魂之魔刹短剑	zhuo hun zhi mo cha duan jian	0
+灼魂之魔刹短剑	zhuo hun zhi mo sha duan jian	0
+炎月之魂	yan yue zhi hun	0
+萨缪尔的熔石铁臂	sa miu er de rong shi tie bi	0
+萨缪尔的熔石铁臂	sa miu er de rong shi tie bei	0
+萨缪尔的熔石铁臂	sa miu er di rong shi tie bi	0
+萨缪尔的熔石铁臂	sa miu er di rong shi tie bei	0
+灼魂之剑	zhuo hun zhi jian	0
+逸龙剑抉择	yi long jian jue ze	0
+逸龙剑	yi long jian	0
+无影剑艾雷诺	wu ying jian ai lei nuo	0
+无影剑艾雷诺	wu ying jian yi lei nuo	0
+无影剑	wu ying jian	0
+征服者之翼	zheng fu zhe zhi yi	0
+狂龙之怒	kuang long zhi nu	0
+十字斩刀斗	shi zi zhan dao dou	0
+月之光芒	yue zhi guang mang	0
+修罗吞灵槌	xiu luo tun ling chui	0
+恶鬼噬魂槌	e gui shi hun chui	0
+破骨霸天棒	po gu ba tian bang	0
+天脊乾坤剑	tian ji qian kun jian	0
+光炎剑烈日裁决	guang yan jian lie ri cai jue	0
+光炎剑	guang yan jian	0
+聚光剑破幻者	ju guang jian po huan zhe	0
+聚光剑	ju guang jian	0
+卡子午	qia zi wu	0
+屠戮之刃	tu lu zhi ren	0
+地狱邪目	di yu xie mu	0
+地狱邪目	di yu xu mu	0
+地狱邪目	di yu ya mu	0
+地狱邪目	di yu ye mu	0
+地狱邪目	di yu yu mu	0
+千年之光	qian nian zhi guang	0
+破碎之命运	po sui zhi ming yun	0
+巴恩的飓风短剑	ba en de ju feng duan jian	0
+巴恩的飓风短剑	ba en di ju feng duan jian	0
+幸存者的奥秘	xing cun zhe de ao mi	0
+幸存者的奥秘	xing cun zhe di ao mi	0
+艾兰德拉的终极太刀	ai lan de la de zhong ji tai dao	0
+艾兰德拉的终极太刀	yi lan de la de zhong ji tai dao	0
+怒雷麒麟	nu lei qi lin	0
+血之挽歌	xue zhi wan ge	0
+魔之密语巨剑	mo zhi mi yu ju jian	0
+修罗之戮	xiu luo zhi lu	0
+守护战士	shou hu zhan shi	0
+九龙护魂刀	jiu long hu hun dao	0
+明光追影刀	ming guang zhui ying dao	0
+龙神诀	long shen jue	0
+天魔斩	tian mo zhan	0
+冥炎刀魂殇	ming yan dao hun shang	0
+惊风之厄	jing feng zhi e	0
+王之悲鸣	wang zhi bei ming	0
+野狼铁爪	ye lang tie zhua	0
+野狼铁爪	ye lang tie zhao	0
+执法者	zhi fa zhe	0
+王族蓝芒	wang zu lan mang	0
+血影爪	xue ying zhua	0
+血影爪	xue ying zhao	0
+猩蟒之棍	xing mang zhi gun	0
+猩蟒之棍	xing meng zhi gun	0
+猩蟒之棍	xing mang zhi hun	0
+猩蟒之棍	xing meng zhi hun	0
+浅蓝幻像	qian lan huan xiang	0
+金丝蟒	jin si mang	0
+金丝蟒	jin si meng	0
+地狱猎者	di yu lie zhe	0
+天赋手套	tian fu shou tao	0
+黑寡妇	hei gua fu	0
+双龙棍	shuang long gun	0
+双龙棍	shuang long hun	0
+卡露亚的教导碎日	ka lu ya de jiao dao sui ri	0
+卡露亚的教导碎日	ka lu ya di jiao dao sui ri	0
+天界机械臂铠	tian jie ji xie bi kai	0
+游荡恶魔	you dang e mo	0
+独裁者指虎	du cai zhe zhi hu	0
+卡露亚的教导奇袭	ka lu ya de jiao dao qi xi	0
+卡露亚的教导奇袭	ka lu ya di jiao dao qi xi	0
+御灵之爪	yu ling zhi zhua	0
+御灵之爪	yu ling zhi zhao	0
+卡露亚的教导冥想	ka lu ya de jiao dao ming xiang	0
+卡露亚的教导冥想	ka lu ya di jiao dao ming xiang	0
+苍天残影棍	cang tian can ying gun	0
+苍天残影棍	cang tian can ying hun	0
+落日鹰眼	luo ri ying yan	0
+金刚碎魄	jin gang sui po	0
+金刚碎魄	jin gang sui tuo	0
+卡露亚的教导辟天	ka lu ya de jiao dao bi tian	0
+卡露亚的教导辟天	ka lu ya de jiao dao pi tian	0
+卡露亚的教导辟天	ka lu ya di jiao dao bi tian	0
+卡露亚的教导辟天	ka lu ya di jiao dao pi tian	0
+爆炎臂铠	bao yan bi kai	0
+冥日手套	ming ri shou tao	0
+摩根之爪	mo gen zhi zhua	0
+摩根之爪	mo gen zhi zhao	0
+龙旋破军棍	long xuan po jun gun	0
+龙旋破军棍	long xuan po jun hun	0
+海妖散月拳套	hai yao san yue quan tao	0
+血之魂臂铠	xie zhi hun bi kai	0
+血之魂臂铠	xue zhi hun bi kai	0
+狰狞之绿	zheng ning zhi lv	0
+狰狞之绿	zheng ning zhi lu	0
+混沌支配者	hun dun zhi pei zhe	0
+乱斩之袭	luan zhan zhi xi	0
+撒旦的堕落之尘	sa dan de duo luo zhi chen	0
+撒旦的堕落之尘	sa dan di duo luo zhi chen	0
+乔的云烟铁拳	qiao de yun yan tie quan	0
+乔的云烟铁拳	qiao di yun yan tie quan	0
+牛头械王的臂铠	niu tou xie wang de bi kai	0
+泰拉石指虎	tai la shi zhi hu	0
+泰拉石之爪	tai la shi zhi zhua	0
+泰拉石之爪	tai la shi zhi zhao	0
+泰拉石东方棍	tai la shi dong fang gun	0
+泰拉石东方棍	tai la shi dong fang hun	0
+泰拉石拳套	tai la shi quan tao	0
+泰拉石臂铠	tai la shi bi kai	0
+天堂之号角	tian tang zhi hao jiao	0
+千足蜈蚣爪	qian zu wu gong zhao	0
+死神的嗜魂爪	si shen de shi hun zhua	0
+死神的嗜魂爪	si shen de shi hun zhao	0
+死神的嗜魂爪	si shen di shi hun zhua	0
+死神的嗜魂爪	si shen di shi hun zhao	0
+勇士之战歌	yong shi zhi zhan ge	0
+暗影之痕	an ying zhi hen	0
+极炎地狱	ji yan di yu	0
+极寒地狱	ji han di yu	0
+痛苦之钉	tong ku zhi ding	0
+碎岩之锁链	sui yan zhi suo lian	0
+战争英雄之无双手套	zhan zheng ying xiong zhi wu shuang shou tao	0
+堕天使之手	duo tian shi zhi shou	0
+泰坦的战争臂铠	tai tan de zhan zheng bi kai	0
+泰坦的战争臂铠	tai tan di zhan zheng bi kai	0
+战争英雄的无双臂铠	zhan zheng ying xiong de wu shuang bi kai	0
+战争英雄的无双臂铠	zhan zheng ying xiong di wu shuang bi kai	0
+妖精猎人毒龙	yao jing lie ren du long	0
+战争英雄之无双利爪	zhan zheng ying xiong zhi wu shuang li zhua	0
+战争英雄之无双利爪	zhan zheng ying xiong zhi wu shuang li zhao	0
+泰坦的黄雾东方棍	tai tan di huang wu dong fang gun	0
+泰坦的黄雾东方棍	tai tan de huang wu dong fang hun	0
+泰坦的黄雾东方棍	tai tan di huang wu dong fang hun	0
+战争英雄之无双棍	zhan zheng ying xiong zhi wu shuang gun	0
+冥域之咒怨	ming yu zhi zhou yuan	0
+战争英雄之无双拳套	zhan zheng ying xiong zhi wu shuang quan tao	0
+芝诺的遗物	zhi nuo de yi wu	0
+芝诺的遗物	zhi nuo di yi wu	0
+雷龙之眼	lei long zhi yan	0
+斗战之魂东方棍	dou zhan zhi hun dong fang gun	0
+斗战之魂东方棍	dou zhan zhi hun dong fang hun	0
+雷神之拳	lei shen zhi quan	0
+暗黑血之碎云	an hei xie zhi sui yun	0
+暗黑血之碎云	an hei xue zhi sui yun	0
+血之裂痕	xie zhi lie hen	0
+血之裂痕	xue zhi lie hen	0
+神之恩典	shen zhi en dian	0
+卡勒特的装甲手套	ka le te de zhuang jia shou tao	0
+卡勒特的装甲手套	qia le te de zhuang jia shou tao	0
+卡勒特的装甲手套	ka lei te de zhuang jia shou tao	0
+卡勒特的装甲手套	ka le te di zhuang jia shou tao	0
+卡勒特的装甲手套	qia lei te de zhuang jia shou tao	0
+卡勒特的装甲手套	qia le te di zhuang jia shou tao	0
+卡勒特的装甲手套	ka lei te di zhuang jia shou tao	0
+卡勒特的装甲手套	qia lei te di zhuang jia shou tao	0
+装甲手套	zhuang jia shou tao	0
+极地之源	ji di zhi yuan	0
+卡勒特的装甲臂铠	ka le te de zhuang jia bi kai	0
+卡勒特的装甲臂铠	qia le te de zhuang jia bi kai	0
+卡勒特的装甲臂铠	ka lei te de zhuang jia bi kai	0
+卡勒特的装甲臂铠	ka le te di zhuang jia bi kai	0
+卡勒特的装甲臂铠	qia lei te de zhuang jia bi kai	0
+卡勒特的装甲臂铠	qia le te di zhuang jia bi kai	0
+卡勒特的装甲臂铠	ka lei te di zhuang jia bi kai	0
+卡勒特的装甲臂铠	qia lei te di zhuang jia bi kai	0
+装甲臂铠	zhuang jia bi kai	0
+圣殿遗迹之远古棍	sheng dian yi ji zhi yuan gu hun	0
+极术奥义	ji shu ao yi	0
+极术奥义	ji zhu ao yi	0
+卡勒特的装甲拳套	ka le te de zhuang jia quan tao	0
+卡勒特的装甲拳套	qia le te de zhuang jia quan tao	0
+卡勒特的装甲拳套	ka lei te de zhuang jia quan tao	0
+卡勒特的装甲拳套	ka le te di zhuang jia quan tao	0
+卡勒特的装甲拳套	qia lei te de zhuang jia quan tao	0
+卡勒特的装甲拳套	qia le te di zhuang jia quan tao	0
+卡勒特的装甲拳套	ka lei te di zhuang jia quan tao	0
+卡勒特的装甲拳套	qia lei te di zhuang jia quan tao	0
+装甲拳套	zhuang jia quan tao	0
+刀锋者手套	dao feng zhe shou tao	0
+亡翼臂铠	wang yi bi kai	0
+亡翼臂铠	wu yi bi kai	0
+蓝晶石骨爪	lan jing shi gu zhua	0
+蓝晶石骨爪	lan jing shi gu zhao	0
+蓝晶石骨爪	lan jing dan gu zhua	0
+蓝晶石骨爪	lan jing dan gu zhao	0
+刺竹东方棍	ci zhu dong fang gun	0
+刺竹东方棍	ci zhu dong fang hun	0
+星之拳套	xing zhi quan tao	0
+龙跃之手套念帝	long yue zhi shou tao nian di	0
+龙跃之手套毒神绝	long yue zhi shou tao du shen jue	0
+龙跃之手套毒神绝	long yue zhi shou tao dai shen jue	0
+龙跃之臂铠念帝	long yue zhi bi kai nian di	0
+龙跃之臂铠毒神绝	long yue zhi bi kai du shen jue	0
+龙跃之臂铠毒神绝	long yue zhi bi kai dai shen jue	0
+龙跃之爪念帝	long yue zhi zhua nian di	0
+龙跃之爪念帝	long yue zhi zhao nian di	0
+龙跃之爪毒神绝	long yue zhi zhua du shen jue	0
+龙跃之爪毒神绝	long yue zhi zhao du shen jue	0
+龙跃之爪毒神绝	long yue zhi zhua dai shen jue	0
+龙跃之爪毒神绝	long yue zhi zhao dai shen jue	0
+龙跃之东方棍念帝	long yue zhi dong fang gun nian di	0
+龙跃之东方棍念帝	long yue zhi dong fang hun nian di	0
+龙跃之东方棍毒神绝	long yue zhi dong fang gun du shen jue	0
+龙跃之东方棍毒神绝	long yue zhi dong fang hun du shen jue	0
+龙跃之东方棍毒神绝	long yue zhi dong fang gun dai shen jue	0
+龙跃之东方棍毒神绝	long yue zhi dong fang hun dai shen jue	0
+帝国之骨刺手套	di guo zhi gu ci shou tao	0
+帝国之神圣臂铠	di guo zhi shen sheng bi kai	0
+帝国之象牙爪	di guo zhi xiang ya zhua	0
+帝国之象牙爪	di guo zhi xiang ya zhao	0
+帝国之狂龙东方棍	di guo zhi kuang long dong fang gun	0
+帝国之狂龙东方棍	di guo zhi kuang long dong fang hun	0
+帝国之合金拳套	di guo zhi he jin quan tao	0
+黄金巨人的心脏拳套	huang jin ju ren de xin zang quan tao	0
+猎魔者之爪	lie mo zhe zhi zhua	0
+猎魔者之爪	lie mo zhe zhi zhao	0
+天帷巨兽之神域东方棍	tian wei ju shou zhi shen yu dong fang gun	0
+天帷巨兽之神域东方棍	tian wei ju shou zhi shen yu dong fang hun	0
+阿特拉斯的七宗拳套	a te la si de qi zong quan tao	0
+阿特拉斯的七宗拳套	a te la si di qi zong quan tao	0
+歌利亚的聚力拳套	ge li ya de ju li quan tao	0
+歌利亚的聚力拳套	ge li ya di ju li quan tao	0
+泰坦的拳套	tai tan de quan tao	0
+泰坦的拳套	tai tan di quan tao	0
+鲁格的尖啸拳套	lu ge de jian xiao quan tao	0
+鲁格的尖啸拳套	lu ge di jian xiao quan tao	0
+犬使摩震的斗魂手套	quan shi mo zhen de dou hun shou tao	0
+犬使摩震的斗魂手套	quan shi ma zhen de dou hun shou tao	0
+犬使摩震的斗魂手套	quan shi mo zhen di dou hun shou tao	0
+犬使摩震的斗魂手套	quan shi ma zhen di dou hun shou tao	0
+长三郎之爪	chang san lang zhi zhua	0
+长三郎之爪	zhang san lang zhi zhua	0
+长三郎之爪	chang san lang zhi zhao	0
+长三郎之爪	zhang san lang zhi zhao	0
+捷克的机械臂	jie ke de ji xie bi	0
+捷克的机械臂	jie ke de ji xie bei	0
+捷克的机械臂	jie ke di ji xie bi	0
+捷克的机械臂	jie ke di ji xie bei	0
+烈焰盾波迪尔的臂铠	lie yan dun bo di er de bi kai	0
+烈焰盾波迪尔的臂铠	lie yan dun bo di er di bi kai	0
+钢铁之鳞拳	gang tie zhi lin quan	0
+御兽之王手套	yu shou zhi wang shou tao	0
+火焰之源东方棍	huo yan zhi yuan dong fang gun	0
+火焰之源东方棍	huo yan zhi yuan dong fang hun	0
+狱犬之牙	yu quan zhi ya	0
+神谕之右手	shen yu zhi you shou	0
+灭世之左手	mie shi zhi zuo shou	0
+炎龙之柱	yan long zhi zhu	0
+碎霸手套	sui ba shou tao	0
+天罗噬灵	tian luo shi ling	0
+玄冰散灵	xuan bing san ling	0
+延基的手臂	yan ji de shou bi	0
+延基的手臂	yan ji de shou bei	0
+血祭绝魂爪	xue ji jue hun zhua	0
+血祭绝魂爪	xue ji jue hun zhao	0
+龙鳞煞血爪	long lin sha xue zhao	0
+风神映月棍	feng shen ying yue gun	0
+风神映月棍	feng shen ying yue hun	0
+雷霆惊日棍	lei ting jing ri gun	0
+雷霆惊日棍	lei ting jing ri hun	0
+比哈斯的圣斗	bi ha si de sheng dou	0
+比哈斯的圣斗	bi ha si di sheng dou	0
+螺旋陨星臂铠	luo xuan yun xing bi kai	0
+青龙滕海臂铠	qing long teng hai bi kai	0
+千莲护元	qian lian hu yuan	0
+暴躁铁拳	bao zao tie quan	0
+哀嚎之星臂铠	ai hao zhi xing bi kai	0
+光之爪紫霄	guang zhi zhua zi xiao	0
+光之爪紫霄	guang zhi zhao zi xiao	0
+武神断魔棍	wu shen duan mo gun	0
+武神断魔棍	wu shen duan mo hun	0
+极皇拳套	ji huang quan tao	0
+苍穹之尖啸	cang qiong zhi jian xiao	0
+英雄之荣耀	ying xiong zhi rong yao	0
+无轩之斩魄	wu xuan zhi zhan po	0
+无轩之斩魄	wu xuan zhi zhan tuo	0
+血蝎之尖尾	xie xie zhi jian wei	0
+血蝎之尖尾	xue xie zhi jian wei	0
+血蝎之尖尾	xie xie zhi jian yi	0
+血蝎之尖尾	xue xie zhi jian yi	0
+幻影追魂爪	huan ying zhui hun zhua	0
+幻影追魂爪	huan ying zhui hun zhao	0
+巨象之獠牙	ju xiang zhi liao ya	0
+怪力臂铠	guai li bi kai	0
+杀戮之王	sha lu zhi wang	0
+飓风之袭东方棍	ju feng zhi xi dong fang gun	0
+飓风之袭东方棍	ju feng zhi xi dong fang hun	0
+不灭之战魂拳套	bu mie zhi zhan hun quan tao	0
+飞龙翼	fei long yi	0
+异魔之主	yi mo zhi zhu	0
+堕落的恶魔之手	duo luo de e mo zhi shou	0
+堕落的恶魔之手	duo luo di e mo zhi shou	0
+百鬼冤灵之咒	bai gui yuan ling zhi zhou	0
+异魔封神棍	yi mo feng shen gun	0
+异魔封神棍	yi mo feng shen hun	0
+异魔之源	yi mo zhi yuan	0
+西部射手	xi bu she shou	0
+银色雄鹰	yin se xiong ying	0
+爱国者	ai guo zhe	0
+炫炎手炮	xuan yan shou pao	0
+炫炎手炮	xuan yan shou bao	0
+生命掠夺者	sheng ming lue duo zhe	0
+蛇影骑士	she ying qi shi	0
+裁决者	cai jue zhe	0
+鲁格尔黑鹰	lu ge er hei ying	0
+绝杀迫空	jue sha po kong	0
+绝杀迫空	jue sha pai kong	0
+天马之弩	tian ma zhi nu	0
+灵蛇	ling she	0
+狂龙咆哮	kuang long pao xiao	0
+边境浪人荒火	bian jing lang ren huang huo	0
+威廉的告诫	wei lian de gao jie	0
+威廉的告诫	wei lian di gao jie	0
+狩猎女神之弩	shou lie nv shen zhi nu	0
+天界猎杀者	tian jie lie sha zhe	0
+邪能幽灵	xie neng you ling	0
+邪能幽灵	xu neng you ling	0
+邪能幽灵	ya neng you ling	0
+邪能幽灵	ye neng you ling	0
+邪能幽灵	yu neng you ling	0
+邪能幽灵	xie nai you ling	0
+邪能幽灵	xu nai you ling	0
+邪能幽灵	ya nai you ling	0
+邪能幽灵	ye nai you ling	0
+邪能幽灵	yu nai you ling	0
+突袭夜神	tu xi ye shen	0
+死亡舞步	si wang wu bu	0
+爆裂者血鹰	bao lie zhe xie ying	0
+爆裂者血鹰	bao lie zhe xue ying	0
+幽灵手弩	you ling shou nu	0
+暗夜潜行者	an ye qian xing zhe	0
+白焰翼龙	bai yan yi long	0
+毁灭公爵	hui mie gong jue	0
+库里欧的传承	ku li ou de chuan cheng	0
+库里欧的传承	ku li ou di chuan cheng	0
+血之审判者	xie zhi shen pan zhe	0
+血之审判者	xue zhi shen pan zhe	0
+黎明之眼	li ming zhi yan	0
+泰拉石手枪	tai la shi shou qiang	0
+泰拉石手弩	tai la shi shou nu	0
+泰拉石步枪	tai la shi bu qiang	0
+泰拉石手炮	tai la shi shou pao	0
+泰拉石手炮	tai la shi shou bao	0
+横扫千军	heng sao qian jun	0
+死亡之喘息	si wang zhi chuan xi	0
+天籁之音	tian lai zhi yin	0
+钉射之啸手枪	ding she zhi xiao shou qiang	0
+钉射之啸手枪	ding ye zhi xiao shou qiang	0
+钉射之啸手枪	ding yi zhi xiao shou qiang	0
+远古射手的秘技	yuan gu she shou de mi ji	0
+远古射手的秘技	yuan gu she shou di mi ji	0
+冰冷的微笑	bing leng de wei xiao	0
+不朽之战士	bu xiu zhi zhan shi	0
+守护之双子	shou hu zhi shuang zi	0
+达达尼尔的便携手炮	da da ni er de bian xie shou pao	0
+达达尼尔的便携手炮	da da ni er di bian xie shou pao	0
+达达尼尔的便携手炮	da da ni er de bian xie shou bao	0
+达达尼尔的便携手炮	da da ni er di bian xie shou bao	0
+戮蛊的哀鸣炮	lu gu di ai ming pao	0
+戮蛊的哀鸣炮	lu gu de ai ming bao	0
+戮蛊的哀鸣炮	lu gu di ai ming bao	0
+野战队长的奇袭手弩	ye zhan dui zhang de qi xi shou nu	0
+野战队长的奇袭手弩	ye zhan dui zhang di qi xi shou nu	0
+柯尔特咆哮者	ke er te pao xiao zhe	0
+战争英雄之无双左轮	zhan zheng ying xiong zhi wu shuang zuo lun	0
+雷克斯暴龙	lei ke si bao long	0
+战争英雄之无双手枪	zhan zheng ying xiong zhi wu shuang shou qiang	0
+霸权之贤者	ba quan zhi xian zhe	0
+战争英雄之无双手弩	zhan zheng ying xiong zhi wu shuang shou nu	0
+朗基亚斯枪	lang ji ya si qiang	0
+战争英雄之无双步枪	zhan zheng ying xiong zhi wu shuang bu qiang	0
+时空之主宰者	shi kong zhi zhu zai zhe	0
+泰坦的强化手炮	tai tan de qiang hua shou pao	0
+泰坦的强化手炮	tai tan di qiang hua shou pao	0
+泰坦的强化手炮	tai tan de qiang hua shou bao	0
+泰坦的强化手炮	tai tan di qiang hua shou bao	0
+战争英雄之无双加农炮	zhan zheng ying xiong zhi wu shuang jia nong pao	0
+战争英雄之无双加农炮	zhan zheng ying xiong zhi wu shuang jia nong bao	0
+暗夜之猎瞳	an ye zhi lie tong	0
+雷狼之暴弩	lei lang zhi bao nu	0
+雷狼之暴弩	lei lang zhi pu nu	0
+万灵屠戮者	wan ling tu lu zhe	0
+苍穹绝音手炮	cang qiong jue yin shou pao	0
+苍穹绝音手炮	cang qiong jue yin shou bao	0
+暗黑血之毁伤	an hei xie zhi hui shang	0
+暗黑血之毁伤	an hei xue zhi hui shang	0
+夜之亡冥者	ye zhi wang ming zhe	0
+夜之亡冥者	ye zhi wu ming zhe	0
+突击队长的机械奇美拉	tu ji dui chang de ji xie qi mei la	0
+魔刹之穿云弓	mo cha zhi chuan yun gong	0
+魔刹之穿云弓	mo sha zhi chuan yun gong	0
+屠龙之首	tu long zhi shou	0
+卡勒特的游击长枪	ka le te de you ji chang qiang	0
+卡勒特的游击长枪	qia le te de you ji chang qiang	0
+卡勒特的游击长枪	ka lei te de you ji chang qiang	0
+卡勒特的游击长枪	ka le te di you ji chang qiang	0
+卡勒特的游击长枪	qia lei te de you ji chang qiang	0
+卡勒特的游击长枪	qia le te di you ji chang qiang	0
+卡勒特的游击长枪	ka lei te di you ji chang qiang	0
+卡勒特的游击长枪	qia lei te di you ji chang qiang	0
+超能磁轨炮	chao neng ci gui pao	0
+超能磁轨炮	chao neng ci gui bao	0
+改良柯尔特炎蛇	gai liang ke er te yan she	0
+改良柯尔特炎蛇	gai liang ke er te yan yi	0
+黄金手弩	huang jin shou nu	0
+老式冲锋步枪	lao shi chong feng bu qiang	0
+灭火弹手炮	mie huo dan shou pao	0
+灭火弹手炮	mie huo dan shou bao	0
+帝国之黄金左轮	di guo zhi huang jin zuo lun	0
+帝国之沙漠之狼	di guo zhi sha mo zhi lang	0
+帝国之狼牙手弩	di guo zhi lang ya shou nu	0
+帝国之猎鹰步枪	di guo zhi lie ying bu qiang	0
+流光异体加农炮	liu guang yi ti jia nong pao	0
+审判者之魂左轮枪	shen pan zhe zhi hun zuo lun qiang	0
+神之信徒	shen zhi xin tu	0
+查理的火箭炮	cha li de huo jian pao	0
+查理的火箭炮	cha li di huo jian pao	0
+范哲利斯的咆哮左轮	fan zhe li si de pao xiao zuo lun	0
+范哲利斯的咆哮左轮	fan zhe li si di pao xiao zuo lun	0
+无头骑士的灵魂手弩	wu tou qi shi de ling hun shou nu	0
+无头骑士的灵魂手弩	wu tou qi shi di ling hun shou nu	0
+改良的火箭侠步枪	gai liang de huo jian xia bu qiang	0
+改良的火箭侠步枪	gai liang di huo jian xia bu qiang	0
+改良的银光枪	gai liang de yin guang qiang	0
+改良的银光枪	gai liang di yin guang qiang	0
+夜战司令官的手炮	ye zhan si ling guan de shou bao	0
+元素战弩	yuan su zhan nu	0
+莫贝尼的黑鳞手炮	mo bei ni de hei lin shou pao	0
+莫贝尼的黑鳞手炮	mu bei ni de hei lin shou pao	0
+莫贝尼的黑鳞手炮	mo bei ni de hei lin shou bao	0
+莫贝尼的黑鳞手炮	mu bei ni de hei lin shou bao	0
+范弗拉丁的白金手枪	fan fu la ding de bai jin shou qiang	0
+改良的范弗拉丁步枪	gai liang de fan fu la ding bu qiang	0
+改良的范弗拉丁步枪	gai liang di fan fu la ding bu qiang	0
+落日之辉映步枪	luo ri zhi hui ying bu qiang	0
+星芒珠之魂	xing mang zhu zhi hun	0
+风蚀之殇残影	feng shi zhi shang can ying	0
+艾丽丝之影手弩	ai li si zhi ying shou nu	0
+炎龙之刑	yan long zhi xing	0
+夜之独行者	ye zhi du xing zhe	0
+灼魂之魔刹手炮	zhuo hun zhi mo cha shou pao	0
+灼魂之魔刹手炮	zhuo hun zhi mo sha shou pao	0
+灼魂之魔刹手炮	zhuo hun zhi mo cha shou bao	0
+灼魂之魔刹手炮	zhuo hun zhi mo sha shou bao	0
+死亡之眼	si wang zhi yan	0
+苍穹刺客	cang qiong ci ke	0
+柯尔特猎寻者	ke er te lie xun zhe	0
+旋风斗星弩	xuan feng dou xing nu	0
+邪龙的死神之弩	xie long de si shen zhi nu	0
+邪龙的死神之弩	xu long de si shen zhi nu	0
+邪龙的死神之弩	ya long de si shen zhi nu	0
+邪龙的死神之弩	ye long de si shen zhi nu	0
+邪龙的死神之弩	yu long de si shen zhi nu	0
+天之枪阿帕拉契	tian zhi qiang a pa la qi	0
+天之枪阿帕拉契	tian zhi qiang e pa la qi	0
+天之枪阿帕拉契	tian zhi qiang a pa la qie	0
+天之枪阿帕拉契	tian zhi qiang a pa la xie	0
+天之枪阿帕拉契	tian zhi qiang e pa la qie	0
+天之枪阿帕拉契	tian zhi qiang e pa la xie	0
+吞日者	tun ri zhe	0
+遗忘男爵	yi wang nan jue	0
+铁甲炮浮士德	tie jia pao fu shi de	0
+铁甲炮浮士德	tie jia bao fu shi de	0
+双刃左轮艾娜兹玛	shuang ren zuo lun ai na zi ma	0
+双刃左轮艾娜兹玛	shuang ren zuo lun yi na zi ma	0
+双刃左轮艾娜兹玛	shuang ren zuo lun ai nuo zi ma	0
+双刃左轮艾娜兹玛	shuang ren zuo lun ai na ci ma	0
+双刃左轮艾娜兹玛	shuang ren zuo lun yi nuo zi ma	0
+双刃左轮艾娜兹玛	shuang ren zuo lun yi na ci ma	0
+双刃左轮艾娜兹玛	shuang ren zuo lun ai nuo ci ma	0
+双刃左轮艾娜兹玛	shuang ren zuo lun yi nuo ci ma	0
+枪械之神闪	qiang xie zhi shen shan	0
+死亡步枪	si wang bu qiang	0
+破极卸甲手炮	po ji xie jia shou pao	0
+破极卸甲手炮	po ji xie jia shou bao	0
+刺骨	ci gu	0
+贝利特印痕左轮枪	bei li te yin hen zuo lun qiang	0
+无轩之湮魄	wu xuan zhi yan tuo	0
+无轩之湮魄	wu xuan zhi yin po	0
+无轩之湮魄	wu xuan zhi yin tuo	0
+撒旦之诱惑	sa dan zhi you huo	0
+僵尸猎手	jiang shi lie shou	0
+碎霸炮戴达罗斯	sui ba pao dai da luo si	0
+碎霸炮戴达罗斯	sui ba bao dai da luo si	0
+宝瓶之守护者	bao ping zhi shou hu zhe	0
+纳罗时空	na luo shi kong	0
+沙漠死神	sha mo si shen	0
+苍穹惩戒者	cang qiong cheng jie zhe	0
+九龙破煞步枪	jiu long po sha bu qiang	0
+七煞星狂袭	qi sha xing kuang xi	0
+炎龙之天罚	yan long zhi tian fa	0
+惊雷之吼	jing lei zhi hou	0
+悲鸣幽灵	bei ming you ling	0
+血雾玫瑰战棍	xie wu mei gui zhan gun	0
+血雾玫瑰战棍	xue wu mei gui zhan gun	0
+血雾玫瑰战棍	xie wu mei gui zhan hun	0
+血雾玫瑰战棍	xue wu mei gui zhan hun	0
+金星魔杖	jin xing mo zhang	0
+弦月法杖	xian yue fa zhang	0
+万波映月	wan bo ying yue	0
+万波映月	mo bo ying yue	0
+雷神战棍	lei shen zhan gun	0
+雷神战棍	lei shen zhan hun	0
+暗月魔杖	an yue mo zhang	0
+无极法杖	wu ji fa zhang	0
+多利亚的淑女扫把	duo li ya de shu nv sao ba	0
+多利亚的淑女扫把	duo li ya di shu nv sao ba	0
+伏魔棍	fu mo hun	0
+异星魔杖	yi xing mo zhang	0
+圣魂法杖	sheng hun fa zhang	0
+幸运之魔界毒草	xing yun zhi mo jie du cao	0
+卡露亚的教导刺龙	ka lu ya de jiao dao ci long	0
+卡露亚的教导刺龙	ka lu ya di jiao dao ci long	0
+夜叉毒龙矛	ye cha du long mao	0
+狱龙战棍	yu long zhan hun	0
+黑龙杖	hei long zhang	0
+幻影魔杖	huan ying mo zhang	0
+驱魔法杖	qu mo fa zhang	0
+冰龙掩日矛	bing long yan ri mao	0
+狱龙奔雷棍	yu long ben lei gun	0
+狱龙奔雷棍	yu long ben lei hun	0
+魔音护魂魔杖	mo yin hu hun mo zhang	0
+末日君主的法杖	mo ri jun zhu de fa zhang	0
+末日君主的法杖	mo ri jun zhu di fa zhang	0
+古纳的急袭	gu na de ji xi	0
+古纳的急袭	gu na di ji xi	0
+神圣的学识	shen sheng de xue shi	0
+雷神的永恒战矛	lei shen de yong heng zhan mao	0
+雷神的永恒战矛	lei shen di yong heng zhan mao	0
+万波息笛	wan bo xi di	0
+万波息笛	mo bo xi di	0
+黎明之息	li ming zhi xi	0
+元素谐音	yuan su xie yin	0
+永恒的古弹扫把	yong heng de gu dan sao ba	0
+永恒的古弹扫把	yong heng de gu tan sao ba	0
+泰拉石战矛	tai la shi zhan mao	0
+泰拉石战棍	tai la shi zhan gun	0
+泰拉石战棍	tai la shi zhan hun	0
+泰拉石魔杖	tai la shi mo zhang	0
+泰拉石法杖	tai la shi fa zhang	0
+泰拉石扫把	tai la shi sao ba	0
+极炎之星	ji yan zhi xing	0
+蓝色幽灵	lan se you ling	0
+元素战棍	yuan su zhan hun	0
+黑猫魔杖	hei mao mo zhang	0
+赤猫魔杖	chi mao mo zhang	0
+魔力汲取者	mo li ji qu zhe	0
+伊伽贝拉之歌	yi ga bei la zhi ge	0
+伊伽贝拉之歌	yi qie bei la zhi ge	0
+伊伽贝拉之歌	yi jia bei la zhi ge	0
+华丽的碾压者	hua li de nian ya zhe	0
+魔力滚筒刷	mo li gun tong shua	0
+戮蛊的骨矛	lu gu de gu mao	0
+戮蛊的骨矛	lu gu di gu mao	0
+琳恩的第二个法杖	lin en de di er ge fa zhang	0
+琳恩的第二个法杖	lin en di di er ge fa zhang	0
+燃烧的鲁莽战矛	ran shao de lu mang zhan mao	0
+燃烧的鲁莽战矛	ran shao di lu mang zhan mao	0
+战争英雄之无双战矛	zhan zheng ying xiong zhi wu shuang zhan mao	0
+大地守护	da di shou hu	0
+战争英雄之无双长棍	zhan zheng ying xiong zhi wu shuang chang gun	0
+战争英雄之无双长棍	zhan zheng ying xiong zhi wu shuang zhang gun	0
+战争英雄之无双长棍	zhan zheng ying xiong zhi wu shuang chang hun	0
+战争英雄之无双长棍	zhan zheng ying xiong zhi wu shuang zhang hun	0
+卡斯帕魔杖	ka si pa mo zhang	0
+战争英雄之无双魔杖	zhan zheng ying xiong zhi wu shuang mo zhang	0
+无尽的华尔兹	wu jin de hua er zi	0
+战争英雄之无双法杖	zhan zheng ying xiong zhi wu shuang fa zhang	0
+暗黑魔女的扫把	an hei mo nv de sao ba	0
+暗黑魔女的扫把	an hei mo nv di sao ba	0
+泰坦的飞行扫把	tai tan de fei xing sao ba	0
+泰坦的飞行扫把	tai tan di fei xing sao ba	0
+战争英雄之无双扫把	zhan zheng ying xiong zhi wu shuang sao ba	0
+守墓者之矛	shou mu zhe zhi mao	0
+审判者战矛	shen pan zhe zhan mao	0
+月之水晶	yue zhi shui jing	0
+盘龙法棍	pan long fa gun	0
+盘龙法棍	pan long fa hun	0
+皎月之光	jiao yue zhi guang	0
+哥布林之须	ge bu lin zhi xu	0
+精灵之号角	jing ling zhi hao jiao	0
+暗黑血之无痕	an hei xie zhi wu hen	0
+暗黑血之无痕	an hei xue zhi wu hen	0
+命运之轮回之矛	ming yun zhi lun hui zhi mao	0
+卡勒特的纯钢战矛	ka le te de chun gang zhan mao	0
+卡勒特的纯钢战矛	qia le te de chun gang zhan mao	0
+卡勒特的纯钢战矛	ka lei te de chun gang zhan mao	0
+卡勒特的纯钢战矛	ka le te di chun gang zhan mao	0
+卡勒特的纯钢战矛	qia lei te de chun gang zhan mao	0
+卡勒特的纯钢战矛	qia le te di chun gang zhan mao	0
+卡勒特的纯钢战矛	ka lei te di chun gang zhan mao	0
+卡勒特的纯钢战矛	qia lei te di chun gang zhan mao	0
+星宿之杖	xing xiu zhi zhang	0
+铜月马首长棍	tong yue ma shou chang gun	0
+铜月马首长棍	tong yue ma shou zhang gun	0
+铜月马首长棍	tong yue ma shou chang hun	0
+铜月马首长棍	tong yue ma shou zhang hun	0
+断魂殇	duan hun shang	0
+童趣灵兔扫把	tong qu ling tu sao ba	0
+赤翎长矛	chi ling chang mao	0
+夙愿之福灵魔杖	su yuan zhi fu ling mo zhang	0
+冒险家之棍	mao xian jia zhi gun	0
+冒险家之棍	mao xian jia zhi hun	0
+帝国之英雄战矛	di guo zhi ying xiong zhan mao	0
+帝国之幻翼魔杖	di guo zhi huan yi mo zhang	0
+帝国之连枷棍	di guo zhi lian jia gun	0
+帝国之连枷棍	di guo zhi lian jia hun	0
+帝国之雏龙魔杖	di guo zhi chu long mo zhang	0
+帝国之精致扫把	di guo zhi jing zhi sao ba	0
+落雷惊鸿战矛	luo lei jing hong zhan mao	0
+黄金巨人的心脏法棍	huang jin ju ren de xin zang fa gun	0
+黄金巨人的心脏法棍	huang jin ju ren de xin zang fa hun	0
+巨型黑章鱼的魔眼法杖	ju xing hei zhang yu de mo yan fa zhang	0
+美神维纳斯之翼	mei shen wei na si zhi yi	0
+审判者之魂扫把	shen pan zhe zhi hun sao ba	0
+冰齿沙凡特的霜寒法杖	bing chi sha fan te de shuang han fa zhang	0
+冰齿沙凡特的霜寒法杖	bing chi sha fan te di shuang han fa zhang	0
+无头骑士战矛	wu tou qi shi zhan mao	0
+迷乱之魔笛	mi luan zhi mo di	0
+伊沙杜拉的魔杖	yi sha du la de mo zhang	0
+冰龙斯卡萨的战矛	bing long si ka sa de zhan mao	0
+冰龙斯卡萨的战矛	bing long si ka sa di zhan mao	0
+烈焰盾波迪尔的魔杖	lie yan dun bo di er de mo zhang	0
+烈焰盾波迪尔的魔杖	lie yan dun bo di er di mo zhang	0
+亡灵献祭魔杖	wang ling xian ji mo zhang	0
+诺丝克尔的皇羽扫把	nuo si ke er de huang yu sao ba	0
+诺丝克尔的皇羽扫把	nuo si ke er di huang yu sao ba	0
+卡勒特首领的权杖	ka le te shou ling de quan zhang	0
+卡勒特首领的权杖	qia le te shou ling de quan zhang	0
+卡勒特首领的权杖	ka lei te shou ling de quan zhang	0
+卡勒特首领的权杖	qia lei te shou ling de quan zhang	0
+邪恶之矛卡莫索	xie e zhi mao ka mo suo	0
+邪恶之矛卡莫索	xie e zhi mao qia mo suo	0
+邪恶之矛卡莫索	xie e zhi mao ka mu suo	0
+邪恶之矛卡莫索	xie e zhi mao qia mu suo	0
+火焰之源棍	huo yan zhi yuan gun	0
+火焰之源棍	huo yan zhi yuan hun	0
+冰翼封雪之矛	bing yi feng xue zhi mao	0
+魔之贤者玛丽蕾特	mo zhi xian zhe ma li lei te	0
+帕特里斯的避雷针	pa te li si de bi lei zhen	0
+帕特里斯的避雷针	pa te li si di bi lei zhen	0
+辉映流光	hui ying liu guang	0
+魅月之咏叹	mei yue zhi yong tan	0
+赤龙守护矛	chi long shou hu mao	0
+如意棍	ru yi gun	0
+如意棍	ru yi hun	0
+圣使锁魂棍	sheng shi suo hun gun	0
+圣使锁魂棍	sheng shi suo hun hun	0
+贤者屠魔棍	xian zhe tu mo gun	0
+贤者屠魔棍	xian zhe tu mo hun	0
+落炎魔杖	luo yan mo zhang	0
+落炎魔杖	la yan mo zhang	0
+精灵之语	jing ling zhi yu	0
+伊西利恩的触手	yi xi li en de chu shou	0
+伊西利恩的触手	yi xi li en di chu shou	0
+魔女的花妖法杖	mo nv de hua yao fa zhang	0
+魔女的花妖法杖	mo nv di hua yao fa zhang	0
+屠杀者的鬼面扫把	tu sha zhe de gui mian sao ba	0
+却邪战矛	que xie zhan mao	0
+却邪战矛	que xu zhan mao	0
+却邪战矛	que ya zhan mao	0
+却邪战矛	que ye zhan mao	0
+却邪战矛	que yu zhan mao	0
+破极卸刃棍	po ji xie ren gun	0
+破极卸刃棍	po ji xie ren hun	0
+雷芒之典	lei mang zhi dian	0
+雷芒之典	lei wang zhi dian	0
+威利的戒言法杖	wei li de jie yan fa zhang	0
+威利的戒言法杖	wei li di jie yan fa zhang	0
+地狱熔岩	di yu rong yan	0
+无轩之幻魄	wu xuan zhi huan po	0
+无轩之幻魄	wu xuan zhi huan tuo	0
+艾兰德拉的终极战棍	ai lan de la de zhong ji zhan gun	0
+艾兰德拉的终极战棍	yi lan de la de zhong ji zhan gun	0
+艾兰德拉的终极战棍	ai lan de la de zhong ji zhan hun	0
+艾兰德拉的终极战棍	yi lan de la de zhong ji zhan hun	0
+喵喵魔杖	miao miao mo zhang	0
+大贤者法杖	da xian zhe fa zhang	0
+丁克蛇的魔术扫把	ding ke she de mo shu sao ba	0
+幸运护身符	xing yun hu shen fu	0
+灾难召唤者法杖	zai nan zhao huan zhe fa zhang	0
+天骄战矛	tian jiao zhan mao	0
+灵兔魔杖	ling tu mo zhang	0
+极寒水晶棍	ji han shui jing gun	0
+极寒水晶棍	ji han shui jing hun	0
+天命之矛	tian ming zhi mao	0
+空之无境	kong zhi wu jing	0
+西洋棋之迷踪骑士	xi yang qi zhi mi zong qi shi	0
+童话之森	tong hua zhi sen	0
+惊月流云扫把	jing yue liu yun sao ba	0
+酒神的龙骨十字架	jiu shen de long gu shi zi jia	0
+酒神的龙骨十字架	jiu shen di long gu shi zi jia	0
+酒神的圣祭图腾	jiu shen di sheng ji tu teng	0
+酒神的圣祭图腾	jiu shen de sheng zhai tu teng	0
+酒神的圣祭图腾	jiu shen di sheng zhai tu teng	0
+酒神的战镰	jiu shen de zhan lian	0
+酒神的战镰	jiu shen di zhan lian	0
+酒神的战斧	jiu shen de zhan fu	0
+酒神的战斧	jiu shen di zhan fu	0
+卡露亚的教导定魂	ka lu ya de jiao dao ding hun	0
+卡露亚的教导定魂	ka lu ya di jiao dao ding hun	0
+卡露亚的教导玄武	ka lu ya de jiao dao xuan wu	0
+卡露亚的教导玄武	ka lu ya di jiao dao xuan wu	0
+混沌天神图腾	hun dun tian shen tu teng	0
+卡露亚的教导幻象	ka lu ya de jiao dao huan xiang	0
+卡露亚的教导幻象	ka lu ya di jiao dao huan xiang	0
+卡露亚的教导压制	ka lu ya de jiao dao ya zhi	0
+卡露亚的教导压制	ka lu ya di jiao dao ya zhi	0
+歌兰蒂斯的圣银十字架	ge lan di si de sheng yin shi zi jia	0
+歌兰蒂斯的圣银十字架	ge lan di si di sheng yin shi zi jia	0
+万年冰珠	wan nian bing zhu	0
+精灵的紫色图腾	jing ling de zi se tu teng	0
+精灵的紫色图腾	jing ling di zi se tu teng	0
+末日浩劫之镰	mo ri hao jie zhi lian	0
+天启战斧	tian qi zhan fu	0
+欧贝斯的蓝龙十字架	ou bei si de lan long shi zi jia	0
+欧贝斯的蓝龙十字架	ou bei si di lan long shi zi jia	0
+尼尔巴斯的饮血镰	ni er ba si de yin xue lian	0
+尼尔巴斯的饮血镰	ni er ba si di yin xue lian	0
+泰坦的黄金战斧	tai tan de huang jin zhan fu	0
+泰坦的黄金战斧	tai tan di huang jin zhan fu	0
+马杰洛的祈祷	ma jie luo de qi dao	0
+马杰洛的祈祷	ma jie luo di qi dao	0
+沃夫甘的意志	wo fu gan di yi zhi	0
+圣光战镰	sheng guang zhan lian	0
+夏皮罗的正义	xia pi luo de zheng yi	0
+牛头械王的战斧	niu tou xie wang de zhan fu	0
+泰拉石十字架	tai la shi shi zi jia	0
+泰拉石念珠	tai la shi nian zhu	0
+泰拉石图腾	tai la shi tu teng	0
+泰拉石战镰	tai la shi zhan lian	0
+泰拉石战斧	tai la shi zhan fu	0
+祭司的祷告	ji si de dao gao	0
+祭司的祷告	ji si di dao gao	0
+费德里斯	fei de li si	0
+食人魔的骷髅念珠	shi ren mo de ku lou nian zhu	0
+食人魔的骷髅念珠	shi ren mo di ku lou nian zhu	0
+慈悲之念珠	ci bei zhi nian zhu	0
+部族的荣誉	bu zu de rong yu	0
+部族的荣誉	bu zu di rong yu	0
+金沙图腾	jin sha tu teng	0
+恶魔的残暴战镰	e mo de can bao zhan lian	0
+恶魔的残暴战镰	e mo di can bao zhan lian	0
+虚空之镰	xu kong zhi lian	0
+圣战士的巨斧	sheng zhan shi de ju fu	0
+圣战士的巨斧	sheng zhan shi di ju fu	0
+慈悲之斧	ci bei zhi fu	0
+燃烧之血十字架	ran shao zhi xie shi zi jia	0
+燃烧之血十字架	ran shao zhi xue shi zi jia	0
+生命之复苏	sheng ming zhi fu su	0
+泰坦的厄特尔十字架	tai tan de e te er shi zi jia	0
+泰坦的厄特尔十字架	tai tan di e te er shi zi jia	0
+战争英雄之无双十字	zhan zheng ying xiong zhi wu shuang shi zi	0
+天下大将军	tian xia da jiang jun	0
+战争英雄之无双图腾	zhan zheng ying xiong zhi wu shuang tu teng	0
+汲血之镰	ji xie zhi lian	0
+汲血之镰	ji xue zhi lian	0
+战争英雄之无双战镰	zhan zheng ying xiong zhi wu shuang zhan lian	0
+源力操控者	yuan li cao kong zhe	0
+战争英雄之无双战斧	zhan zheng ying xiong zhi wu shuang zhan fu	0
+兰诺的祝福	lan nuo de zhu fu	0
+兰诺的祝福	lan nuo di zhu fu	0
+怒放的生命图腾	nu fang de sheng ming tu teng	0
+天咒魔魂粘珠	tian zhou mo hun nian zhu	0
+天咒魔魂粘珠	tian zhou mo hun zhan zhu	0
+远古阴魔虫图腾	yuan gu yin mo chong tu teng	0
+天罚者之斧	tian fa zhe zhi fu	0
+遗迹守卫者之镰	yi ji shou wei zhe zhi lian	0
+灭神之刑	mie shen zhi xing	0
+狩魂者之斧	shou hun zhe zhi fu	0
+毒伯爵之镰	du bo jue zhi lian	0
+毒伯爵之镰	dai bo jue zhi lian	0
+卡勒特的纯钢战镰	ka le te de chun gang zhan lian	0
+卡勒特的纯钢战镰	qia le te de chun gang zhan lian	0
+卡勒特的纯钢战镰	ka lei te de chun gang zhan lian	0
+卡勒特的纯钢战镰	ka le te di chun gang zhan lian	0
+卡勒特的纯钢战镰	qia lei te de chun gang zhan lian	0
+卡勒特的纯钢战镰	qia le te di chun gang zhan lian	0
+卡勒特的纯钢战镰	ka lei te di chun gang zhan lian	0
+卡勒特的纯钢战镰	qia lei te di chun gang zhan lian	0
+玄铁十字架	xuan tie shi zi jia	0
+菩提子念珠	pu ti zi nian zhu	0
+荒野之息图腾	huang ye zhi xi tu teng	0
+钛合金战斧	tai he jin zhan fu	0
+尖峰之镰	jian feng zhi lian	0
+帝国之神赐十字弩	di guo zhi shen ci shi zi nu	0
+帝国之先知念珠	di guo zhi xian zhi nian zhu	0
+帝国之哥布林图腾	di guo zhi ge bu lin tu teng	0
+帝国之战斧	di guo zhi zhan fu	0
+帝国之英雄战镰	di guo zhi ying xiong zhan lian	0
+黄金巨人的心脏图腾	huang jin ju ren de xin zang tu teng	0
+光之城主的誓魂十字	guang zhi cheng zhu de shi hun shi zi	0
+苍木之镰	cang mu zhi lian	0
+邪龙的怨魂念珠	xie long de yuan hun nian zhu	0
+邪龙的怨魂念珠	xu long de yuan hun nian zhu	0
+邪龙的怨魂念珠	ya long de yuan hun nian zhu	0
+邪龙的怨魂念珠	ye long de yuan hun nian zhu	0
+邪龙的怨魂念珠	yu long de yuan hun nian zhu	0
+艾克洛索的巨型蛛刺	ai ke luo suo de ju xing zhu ci	0
+艾克洛索的巨型蛛刺	ai ke luo suo di ju xing zhu ci	0
+雪崩拉比纳的冰心十字	xue beng la bi na de bing xin shi zi	0
+寒冰巨人的霜天斧	han bing ju ren de shuang tian fu	0
+寒冰巨人的霜天斧	han bing ju ren di shuang tian fu	0
+希特拉克的寒冰之眼	xi te la ke de han bing zhi yan	0
+希特拉克的寒冰之眼	xi te la ke di han bing zhi yan	0
+布万加的族长图腾	bu wan jia de zu zhang tu teng	0
+布万加的族长图腾	bu mo jia de zu zhang tu teng	0
+冰龙战镰	bing long zhan lian	0
+队长苏蕾德的机车轮胎	dui zhang su lei de de ji che lun tai	0
+队长苏蕾德的机车轮胎	dui zhang su lei de di ji che lun tai	0
+时间掌控者	shi jian zhang kong zhe	0
+莫贝尼的黑鳞图腾	mo bei ni de hei lin tu teng	0
+莫贝尼的黑鳞图腾	mu bei ni de hei lin tu teng	0
+尼尔巴斯的复仇十字架	ni er ba si de fu chou shi zi jia	0
+尼尔巴斯的复仇十字架	ni er ba si di fu chou shi zi jia	0
+狱犬图腾	yu quan tu teng	0
+堕落天使的死亡镰刀	duo luo tian shi de si wang lian dao	0
+堕落天使的死亡镰刀	duo luo tian shi de si wu lian dao	0
+艾丽丝之影战斧	ai li si zhi ying zhan fu	0
+魅月之天语	mei yue zhi tian yu	0
+冷泉石珠	leng quan shi zhu	0
+灼魂之魔刹图腾	zhuo hun zhi mo cha tu teng	0
+灼魂之魔刹图腾	zhuo hun zhi mo sha tu teng	0
+苍天圣芒十字架	cang tian sheng mang shi zi jia	0
+苍天圣芒十字架	cang tian sheng wang shi zi jia	0
+堕落骑士十字架	duo luo qi shi shi zi jia	0
+卡拉斯逐龙	ka la si zhu long	0
+血影杀戮珠	xue ying sha lu zhu	0
+罗特斯的触须	luo te si de chu xu	0
+罗特斯的触须	luo te si di chu xu	0
+班图族的五行图腾	ban tu zu de wu hang tu teng	0
+班图族的五行图腾	ban tu zu di wu hang tu teng	0
+斯皮兹的利齿	si pi zi de li chi	0
+斯皮兹的利齿	si pi ci de li chi	0
+斯皮兹的利齿	si pi zi di li chi	0
+斯皮兹的利齿	si pi ci di li chi	0
+尼尔巴斯的黑暗战镰	ni er ba si de hei an zhan lian	0
+牛头械王的巨斧	niu tou xie wang de ju fu	0
+波尔克因战狼	bo er ke yin zhan lang	0
+即死领悟死神之镰	ji si ling wu si shen zhi lian	0
+破极卸甲战斧	po ji xie jia zhan fu	0
+狮王之心	shi wang zhi xin	0
+无轩之净魄	wu xuan zhi jing po	0
+无轩之净魄	wu xuan zhi jing tuo	0
+无轩之净魄	wu xuan zhi cheng po	0
+无轩之净魄	wu xuan zhi cheng tuo	0
+永恒的誓言	yong heng de shi yan	0
+祭司之哀吟	ji si zhi ai yin	0
+荒蛮之预言	huang man zhi yu yan	0
+惩戒之镰	cheng jie zhi lian	0
+神之代言者	shen zhi dai yan zhe	0
+绝望之光十字架	jue wang zhi guang shi zi jia	0
+御龙魔珠	yu long mo zhu	0
+毁灭之冰月图腾	hui mie zhi bing yue tu teng	0
+怨灵战斧	yuan ling zhan fu	0
+湮灭之心战镰	yan mie zhi xin zhan lian	0
+极刑绝之镰	ji xing jue zhi lian	0
+苍木之冥	cang mu zhi ming	0
+云梦浮生珠	yun meng fu sheng zhu	0
+九龙阙	jiu long que	0
+九龙阙	jiu long jue	0
+断残蚀骨	duan can shi gu	0
+傲龙凌雪	ao long ling xue	0
+血之灾难	xie zhi zai nan	0
+血之灾难	xue zhi zai nan	0
+血之灾难	xie zhi zai nuo	0
+血之灾难	xue zhi zai nuo	0
+巴德拉斯	ba de la si	0
+肆虐之烈炎杖	si nue zhi lie yan zhang	0
+莱亚诺瓦之咒	lai ya nuo wa zhi zhou	0
+克利修麦德	ke li xiu mai de	0
+灰烬守护者	hui jin shou hu zhe	0
+血红玫瑰	xue hong mei gui	0
+冰刃剑克里希卡	bing ren jian ke li xi ka	0
+冰刃剑克里希卡	bing ren jian ke li xi qia	0
+梦魇杖	meng yan zhang	0
+拉尔夫的安息	la er fu de an xi	0
+拉尔夫的安息	la er fu di an xi	0
+艾菲卡隆的毒刃	ai fei ka long de du ren	0
+艾菲卡隆的毒刃	ai fei ka long di du ren	0
+艾菲卡隆的毒刃	ai fei ka long de dai ren	0
+艾菲卡隆的毒刃	ai fei ka long di dai ren	0
+僵尸之力手杖	jiang shi zhi li shou zhang	0
+残忍的慈悲	can ren de ci bei	0
+残忍的慈悲	can ren di ci bei	0
+御蛇之残	yu she zhi can	0
+御蛇之残	yu yi zhi can	0
+斯帕多纳的犀刃	si pa duo na de xi ren	0
+斯帕多纳的犀刃	si pa duo na di xi ren	0
+双明剑暴风	shuang ming jian bao feng	0
+凯斯玛的噬伤	kai si ma de shi shang	0
+凯斯玛的噬伤	kai si ma di shi shang	0
+霸权之艾佛尔剑	ba quan zhi ai fo er jian	0
+霸权之艾佛尔剑	ba quan zhi ai fu er jian	0
+霸权之艾佛尔剑	ba quan zhi ai bi er jian	0
+霸权之艾佛尔剑	ba quan zhi ai bo er jian	0
+霸权之艾佛尔剑	ba quan zhi yi fo er jian	0
+霸权之艾佛尔剑	ba quan zhi yi fu er jian	0
+霸权之艾佛尔剑	ba quan zhi yi bi er jian	0
+霸权之艾佛尔剑	ba quan zhi yi bo er jian	0
+审判之断头台	shen pan zhi duan tou tai	0
+泰拉石匕首	tai la shi bi shou	0
+泰拉石双剑	tai la shi shuang jian	0
+泰拉石手杖	tai la shi shou zhang	0
+风影刃	feng ying ren	0
+暗杀者的问候	an sha zhe de wen hou	0
+暗杀者的问候	an sha zhe di wen hou	0
+恶魔猎手	e mo lie shou	0
+浮光掠影	fu guang lue ying	0
+巫师的铃铛	wu shi de ling dang	0
+巫师的铃铛	wu shi di ling dang	0
+黑色契约	hei se qi yue	0
+民兵队长的血影剑	min bing dui zhang de xue ying jian	0
+冰灵之怨	bing ling zhi yuan	0
+战争英雄之无双匕首	zhan zheng ying xiong zhi wu shuang bi shou	0
+黄金闪电	huang jin shan dian	0
+战争英雄之无双剑	zhan zheng ying xiong zhi wu shuang jian	0
+巫师的残骸	wu shi de can hai	0
+巫师的残骸	wu shi di can hai	0
+战争英雄之无双手杖	zhan zheng ying xiong zhi wu shuang shou zhang	0
+刺杀之王匕首	ci sha zhi wang bi shou	0
+无双疾风刃	wu shuang ji feng ren	0
+深渊之暗涌手杖	shen yuan zhi an yong shou zhang	0
+刺杀者之心	ci sha zhe zhi xin	0
+巫师的诅咒	wu shi de zu zhou	0
+巫师的诅咒	wu shi di zu zhou	0
+天蚕匕首	tian can bi shou	0
+突击队长的野狼匕首	tu ji dui chang de ye lang bi shou	0
+邪魅双剑	xie mei shuang jian	0
+魂天宿离歌	hun tian su li ge	0
+魂天宿离歌	hun tian xiu li ge	0
+卡巴匕首	ka ba bi shou	0
+塔瓦乌兹双剑	ta wa wu zi shuang jian	0
+塔瓦乌兹双剑	ta wa wu ci shuang jian	0
+象牙木手杖	xiang ya mu shou zhang	0
+帝国之英雄匕首	di guo zhi ying xiong bi shou	0
+帝国之英雄双剑	di guo zhi ying xiong shuang jian	0
+帝国之英雄权杖	di guo zhi ying xiong quan zhang	0
+人偶之王的咒术手杖	ren ou zhi wang de zhou shu shou zhang	0
+人偶之王的咒术手杖	ren ou zhi wang di zhou shu shou zhang	0
+罪恶之眼的鱼鳞双剑	zui e zhi yan de yu lin shuang jian	0
+罪恶之眼的鱼鳞双剑	zui e zhi yan di yu lin shuang jian	0
+销骨之毒痕双剑	xiao gu zhi du hen shuang jian	0
+销骨之毒痕双剑	xiao gu zhi dai hen shuang jian	0
+冰齿沙凡特的霜寒利刃	bing chi sha fan te de shuang han li ren	0
+冰齿沙凡特的霜寒利刃	bing chi sha fan te di shuang han li ren	0
+疯狂哥布林手杖	feng kuang ge bu lin shou zhang	0
+范哲利斯的咆哮之刃	fan zhe li si de pao xiao zhi ren	0
+范哲利斯的咆哮之刃	fan zhe li si di pao xiao zhi ren	0
+冰龙斯卡萨的蚀骨双剑	bing long si ka sa de shi gu shuang jian	0
+冰龙斯卡萨的蚀骨双剑	bing long si ka sa di shi gu shuang jian	0
+火舞之殇	huo wu zhi shang	0
+诺丝克尔的皇羽手杖	nuo si ke er de huang yu shou zhang	0
+诺丝克尔的皇羽手杖	nuo si ke er di huang yu shou zhang	0
+死亡之审判者	si wang zhi shen pan zhe	0
+悲鸣之泣	bei ming zhi qi	0
+地狱犬之杖	di yu quan zhi zhang	0
+艾丽丝之影手杖	ai li si zhi ying shou zhang	0
+血祭之波刃	xue ji zhi bo ren	0
+冰霜之骷髅杖	bing shuang zhi ku lou zhang	0
+缚灵之手	fu ling zhi shou	0
+混沌之波刃	hun dun zhi bo ren	0
+破极卸刃双剑	po ji xie ren shuang jian	0
+暴君之野心	bao jun zhi ye xin	0
+暗杀终结者	an sha zhong jie zhe	0
+玻璃无双绝	bo li wu shuang jue	0
+哈索尔的铃铛	ha suo er de ling dang	0
+哈索尔的铃铛	ha suo er di ling dang	0
+月影刃	yue ying ren	0
+蓝色飓风	lan se ju feng	0
+死亡主宰者	si wang zhu zai zhe	0
+银夜蚀空剑	yin ye shi kong jian	0
+归灵秘印手杖	gui ling mi yin shou zhang	0
+归灵秘印手杖	gui ling bi yin shou zhang	0
+潜龙渊	qian long yuan	0
+千月之魅	qian yue zhi mei	0
+魂天宿绝殇	hun tian su jue shang	0
+魂天宿绝殇	hun tian xiu jue shang	0
+狂龙的裁断	kuang long de cai duan	0
+狂龙的裁断	kuang long di cai duan	0
+疯狂勇士之息	feng kuang yong shi zhi xi	0
+冥炎绝杀刀	ming yan jue sha dao	0
+战栗粉碎者	zhan li fen sui zhe	0
+赤光天机剑	chi guang tian ji jian	0
+光之残影	guang zhi can ying	0
+猎食者的咆哮	lie shi zhe de pao xiao	0
+迅击天棍	xun ji tian hun	0
+和谐的毁灭者	he xie de hui mie zhe	0
+杀戮左轮	sha lu zuo lun	0
+极限猎杀者	ji xian lie sha zhe	0
+苍穹袭击者	cang qiong xi ji zhe	0
+大地的咆哮	da di de pao xiao	0
+大地的咆哮	da di di pao xiao	0
+黄龙黑炮	huang long hei pao	0
+黄龙黑炮	huang long hei bao	0
+恶魔突袭者	e mo tu xi zhe	0
+绝灭之手	jue mie zhi shou	0
+邪眼凝视者	xie yan ning shi zhe	0
+真理凝视者	zhen li ning shi zhe	0
+千年神鸟的羽毛	qian nian shen niao de yu mao	0
+千年神鸟的羽毛	qian nian shen niao di yu mao	0
+荣誉之审判	rong yu zhi shen pan	0
+灭屠虎牙	mie tu hu ya	0
+远古石像的愤怒	yuan gu shi xiang de fen nu	0
+远古石像的愤怒	yuan gu shi xiang di fen nu	0
+冷酷屠杀者	leng ku tu sha zhe	0
+恶鬼斩斧	e gui zhan fu	0
+无尽之痛	wu jin zhi tong	0
+疯狂的空战者	feng kuang de kong zhan zhe	0
+凶残的汲魂之手	xiong can de ji hun zhi shou	0
+凶残的汲魂之手	xiong can di ji hun zhi shou	0
+波动之辐套装	bo dong zhi fu tao zhuang	0
+苍鹰之眸套装	cang ying zhi mou tao zhuang	0
+无限猛袭套装	wu xian meng xi tao zhuang	0
+血之泛滥套装	xie zhi fan lan tao zhuang	0
+血之泛滥套装	xue zhi fan lan tao zhuang	0
+终极鲁莽套装	zhong ji lu mang tao zhuang	0
+永生之谋杀套装	yong sheng zhi mou sha tao zhuang	0
+黑山流波套装	hei shan liu bo tao zhuang	0
+暗影之怒套装	an ying zhi nu tao zhuang	0
+削肉断骨套装	xiao rou duan gu tao zhuang	0
+削肉断骨套装	xue rou duan gu tao zhuang	0
+黑暗之刃套装	hei an zhi ren tao zhuang	0
+冥炎之灵套装	ming yan zhi ling tao zhuang	0
+幻影之怒套装	huan ying zhi nu tao zhuang	0
+领域支配者套装	ling yu zhi pei zhe tao zhuang	0
+西林的念气增幅套装	xi lin de nian qi zeng fu tao zhuang	0
+西林的念气增幅套装	xi lin di nian qi zeng fu tao zhuang	0
+闪击之战套装	shan ji zhi zhan tao zhuang	0
+火之咆哮套装	huo zhi pao xiao tao zhuang	0
+光之助力套装	guang zhi zhu li tao zhuang	0
+分而治之套装	fen er zhi zhi tao zhuang	0
+死亡之舞套装	si wang zhi wu tao zhuang	0
+铁之拳套装	tie zhi quan tao zhuang	0
+侵袭光明套装	qin xi guang ming tao zhuang	0
+狂犬洛克套装	kuang quan luo ke tao zhuang	0
+恐怖七手套装	kong bu qi shou tao zhuang	0
+死亡召唤套装	si wang zhao huan tao zhuang	0
+战地破坏者套装	zhan di po huai zhe tao zhuang	0
+瞬息之死套装	shun xi zhi si tao zhuang	0
+致命一踢套装	zhi ming yi ti tao zhuang	0
+爆裂的信徒套装	bao lie de xin tu tao zhuang	0
+速射重炮套装	su she zhong pao tao zhuang	0
+歼灭突击套装	jian mie tu ji tao zhuang	0
+子弹驱逐者套装	zi dan qu zhu zhe tao zhuang	0
+机密突击队套装	ji mi tu ji dui tao zhuang	0
+变形大黄蜂套装	bian xing da huang feng tao zhuang	0
+魔之掌控者套装	mo zhi zhang kong zhe tao zhuang	0
+野蛮之诺套装	ye man zhi nuo tao zhuang	0
+元素灾难套装	yuan su zai nan tao zhuang	0
+无尽之阿斯兰套装	wu jin zhi a si lan tao zhuang	0
+元素践踏套装	yuan su jian ta tao zhuang	0
+暴动的刺客套装	bao dong de ci ke tao zhuang	0
+暴动的刺客套装	bao dong di ci ke tao zhuang	0
+死亡裁决套装	si wang cai jue tao zhuang	0
+星空追击者套装	xing kong zhui ji zhe tao zhuang	0
+毁灭陷阱套装	hui mie xian jing tao zhuang	0
+和谐精灵套装	he xie jing ling tao zhuang	0
+无限之契约套装	wu xian zhi qi yue tao zhuang	0
+禁止的牺牲套装	jin zhi de xi sheng tao zhuang	0
+禁止的牺牲套装	jin zhi di xi sheng tao zhuang	0
+远古图书馆套装	yuan gu tu shu guan tao zhuang	0
+闪耀的残影套装	shan yao de can ying tao zhuang	0
+闪耀的残影套装	shan yao di can ying tao zhuang	0
+冰之残影套装	bing zhi can ying tao zhuang	0
+冰目之谍套装	bing mu zhi die tao zhuang	0
+无限风暴套装	wu xian feng bao tao zhuang	0
+无尽追击套装	wu jin zhui ji tao zhuang	0
+伏都教徒套装	fu dou jiao tu tao zhuang	0
+伏都教徒套装	fu du jiao tu tao zhuang	0
+地狱蛛丝套装	di yu zhu si tao zhuang	0
+复仇的邪念套装	fu chou de xie nian tao zhuang	0
+复仇的邪念套装	fu chou di xie nian tao zhuang	0
+寂静的祈祷者套装	ji jing de qi dao zhe tao zhuang	0
+寂静的祈祷者套装	ji jing di qi dao zhe tao zhuang	0
+神之恩赐套装	shen zhi en ci tao zhuang	0
+血之洗礼套装	xie zhi xi li tao zhuang	0
+血之洗礼套装	xue zhi xi li tao zhuang	0
+风神之惩套装	feng shen zhi cheng tao zhuang	0
+苦行者的天启套装	ku xing zhe de tian qi tao zhuang	0
+苦行者的天启套装	ku xing zhe di tian qi tao zhuang	0
+空间扭曲套装	kong jian niu qu tao zhuang	0
+大地支配者套装	da di zhi pei zhe tao zhuang	0
+杀手之王套装	sha shou zhi wang tao zhuang	0
+石拳杜兰套装	shi quan du lan tao zhuang	0
+石拳杜兰套装	dan quan du lan tao zhuang	0
+野马哈格勒套装	ye ma ha ge le tao zhuang	0
+野马哈格勒套装	ye ma ha ge lei tao zhuang	0
+圣域魔神套装	sheng yu mo shen tao zhuang	0
+堕落之翼套装	duo luo zhi yi tao zhuang	0
+黑暗审判者套装	hei an shen pan zhe tao zhuang	0
+阿斯兰的正义套装	a si lan de zheng yi tao zhuang	0
+阿斯兰的正义套装	a si lan di zheng yi tao zhuang	0
+元素爆破之魔云套装	yuan su bao po zhi mo yun tao zhuang	0
+止月之殇套装	zhi yue zhi shang tao zhuang	0
+冰天雪隐套装	bing tian xue yin tao zhuang	0
+寒月摄魂套装	han yue she hun tao zhuang	0
+寒月魔神套装	han yue mo shen tao zhuang	0
+大阳神之臂章	da yang shen zhi bi zhang	0
+裂魂之异次元臂章	lie hun zhi yi ci yuan bi zhang	0
+裂魂之异次元魔法石	lie hun zhi yi ci yuan mo fa shi	0
+抗魔石	kang mo shi	0
+抗魔石	kang mo dan	0
+天之剑痕套装	tian zhi jian hen tao zhuang	0
+厄运之忆套装	e yun zhi yi tao zhuang	0
+嗜血恶灵套装	shi xue e ling tao zhuang	0
+暗之血迹套装	an zhi xue ji tao zhuang	0
+虚空之怒波套装	xu kong zhi nu bo tao zhuang	0
+终结之波动套装	zhong jie zhi bo dong tao zhuang	0
+大地之裂波套装	da di zhi lie bo tao zhuang	0
+遗忘者的远古套装	yi wang zhe de yuan gu tao zhuang	0
+遗忘者的远古套装	yi wang zhe di yuan gu tao zhuang	0
+黑暗之魂套装	hei an zhi hun tao zhuang	0
+夜叉王的降神套装	ye cha wang de jiang shen tao zhuang	0
+夜叉王的降神套装	ye cha wang di jiang shen tao zhuang	0
+雷霆之啸套装	lei ting zhi xiao tao zhuang	0
+邪灵之息套装	xie ling zhi xi tao zhuang	0
+绝地突袭套装	jue di tu xi tao zhuang	0
+堕落掌控者套装	duo luo zhang kong zhe tao zhuang	0
+诡秘之地套装	gui mi zhi di tao zhuang	0
+烈焰爆破者套装	lie yan bao po zhe tao zhuang	0
+吞噬星云套装	tun shu xing yun tao zhuang	0
+阴影暗迹套装	yin ying an ji tao zhuang	0
+永恒之袭套装	yong heng zhi xi tao zhuang	0
+雷鸣之迹套装	lei ming zhi ji tao zhuang	0
+暗影破坏者套装	an ying po huai zhe tao zhuang	0
+蜘蛛之王套装	zhi zhu zhi wang tao zhuang	0
+死亡之魂套装	si wang zhi hun tao zhuang	0
+隔阂之心套装	ge he zhi xin tao zhuang	0
+困兽之怒套装	kun shou zhi nu tao zhuang	0
+夺魄之焰套装	duo po zhi yan tao zhuang	0
+赤焰御影套装	chi yan yu ying tao zhuang	0
+厉鬼锁魂套装	li gui suo hun tao zhuang	0
+碎片守护者套装	sui pian shou hu zhe tao zhuang	0
+深渊蚀骨套装	shen yuan shi gu tao zhuang	0
+烈焰支援者套装	lie yan zhi yuan zhe tao zhuang	0
+致命逆袭套装	zhi ming ni xi tao zhuang	0
+混沌之源套装	hun dun zhi yuan tao zhuang	0
+寂静之誓套装	ji jing zhi shi tao zhuang	0
+荣誉之呐喊套装	rong yu zhi na han tao zhuang	0
+赤心之启示套装	chi xin zhi qi shi tao zhuang	0
+巨兵碎片套装	ju bing sui pian tao zhuang	0
+追亡之真意套装	zhui wang zhi zhen yi tao zhuang	0
+追亡之真意套装	dui wang zhi zhen yi tao zhuang	0
+追亡之真意套装	zhui wu zhi zhen yi tao zhuang	0
+追亡之真意套装	dui wu zhi zhen yi tao zhuang	0
+伪装者的暗袭套装	wei zhuang zhe de an xi tao zhuang	0
+伪装者的暗袭套装	wei zhuang zhe di an xi tao zhuang	0
+无尽之炼狱套装	wu jin zhi lian yu tao zhuang	0
+能量之源套装	neng liang zhi yuan tao zhuang	0
+元素增幅套装	yuan su zeng fu tao zhuang	0
+冥焰穿刺者套装	ming yan chuan ci zhe tao zhuang	0
+灼眼冰晶套装	zhuo yan bing jing tao zhuang	0
+血之尖啸套装	xie zhi jian xiao tao zhuang	0
+血之尖啸套装	xue zhi jian xiao tao zhuang	0
+瞬影暗杀者套装	shun ying an sha zhe tao zhuang	0
+永恒的战斗套装	yong heng de zhan dou tao zhuang	0
+自由引领者套装	zi you yin ling zhe tao zhuang	0
+宽恕之契约套装	kuan shu zhi qi yue tao zhuang	0
+泯灭之信任套装	min mie zhi xin ren tao zhuang	0
+绝界之主套装	jue jie zhi zhu tao zhuang	0
+先锋之痕套装	xian feng zhi hen tao zhuang	0
+闪电风暴套装	shan dian feng bao tao zhuang	0
+冰花之狱套装	bing hua zhi yu tao zhuang	0
+冰剑怒击套装	bing jian nu ji tao zhuang	0
+终结之冰套装	zhong jie zhi bing tao zhuang	0
+潜龙幻影套装	qian long huan ying tao zhuang	0
+火蜥皮衣	huo xi pi yi	0
+艾尔文胸甲	ai er wen xiong jia	0
+艾尔文绑腿	ai er wen bang tui	0
+帝国元帅胫甲	di guo yuan shuai jing jia	0
+兔皮护肩	tu pi hu jian	0
+黑纹腰带	hei wen yao dai	0
+双子腰带	shuang zi yao dai	0
+素喃皇室腰带	su nan huang shi yao dai	0
+鲨鱼皮靴	sha yu pi xue	0
+艾尔文凉鞋	ai er wen liang xie	0
+天神短靴	tian shen duan xue	0
+活力腰带	huo li yao dai	0
+贤者肩甲	xian zhe jian jia	0
+匠人的幽纹短鞋	jiang ren de you wen duan xie	0
+匠人的幽纹短鞋	jiang ren di you wen duan xie	0
+狂舞短裤	kuang wu duan ku	0
+亡灵护腿	wang ling hu tui	0
+炎息护肩	yan xi hu jian	0
+幻影落凰长袍	huan ying luo huang chang pao	0
+幻影落凰长袍	huan ying la huang chang pao	0
+巴兰的战斗护肩	ba lan de zhan dou hu jian	0
+巴兰的战斗护肩	ba lan di zhan dou hu jian	0
+影魔护肩	ying mo hu jian	0
+战争之王的绢丝长袍	zhan zheng zhi wang de juan si chang pao	0
+战争之王的绢丝长袍	zhan zheng zhi wang di juan si chang pao	0
+战争之王的狼皮长袍	zhan zheng zhi wang de lang pi chang pao	0
+战争之王的狼皮长袍	zhan zheng zhi wang di lang pi chang pao	0
+战争之王的钛银链甲	zhan zheng zhi wang de tai yin lian jia	0
+战争之王的钛银链甲	zhan zheng zhi wang di tai yin lian jia	0
+战争之王的合金盔甲	zhan zheng zhi wang de he jin kui jia	0
+战争之王的合金盔甲	zhan zheng zhi wang di he jin kui jia	0
+戮蛊的皮残片	lu gu de pi can pian	0
+戮蛊的皮残片	lu gu di pi can pian	0
+无名战士之甲	wu ming zhan shi zhi jia	0
+邪灵的隐纹长裤	xie ling de yin wen chang ku	0
+邪灵的隐纹长裤	xie ling di yin wen chang ku	0
+极限之袭腰带	ji xian zhi xi yao dai	0
+卡勒特的鹿皮夹克	ka le te de lu pi jia ke	0
+卡勒特的鹿皮夹克	qia le te de lu pi jia ke	0
+卡勒特的鹿皮夹克	ka lei te de lu pi jia ke	0
+卡勒特的鹿皮夹克	ka le te di lu pi jia ke	0
+卡勒特的鹿皮夹克	qia lei te de lu pi jia ke	0
+卡勒特的鹿皮夹克	qia le te di lu pi jia ke	0
+卡勒特的鹿皮夹克	ka lei te di lu pi jia ke	0
+卡勒特的鹿皮夹克	qia lei te di lu pi jia ke	0
+突击队长的玄铁胸甲	tu ji dui chang de xuan tie xiong jia	0
+突击队长的狼皮腰带	tu ji dui chang de lang pi yao dai	0
+精裁之粗布长袍	jing cai zhi cu bu chang pao	0
+缚灵者兽纹背心	fu ling zhe shou wen bei xin	0
+善御者软陶胸甲	shan yu zhe ruan tao xiong jia	0
+善御者蛮力锁甲	shan yu zhe man li suo jia	0
+掠食者部落胸甲	lue shi zhe bu luo xiong jia	0
+人偶之王的咒术胸甲	ren ou zhi wang de zhou shu xiong jia	0
+人偶之王的咒术胸甲	ren ou zhi wang di zhou shu xiong jia	0
+落雷惊鸿肩甲	luo lei jing hong jian jia	0
+罪恶之眼鱼鳞胸甲	zui e zhi yan yu lin xiong jia	0
+天之驱逐者的骑士胸甲	tian zhi qu zhu zhe de qi shi xiong jia	0
+天之驱逐者的骑士胸甲	tian zhi qu zhu zhe di qi shi xiong jia	0
+巨树守护者的楠木胸甲	ju shu shou hu zhe di nan mu xiong jia	0
+暗域神殿之悲鸣护甲	an yu shen dian zhi bei ming hu jia	0
+光之城主的誓魂战甲	guang zhi cheng zhu de shi hun zhan jia	0
+审判者马塞尔的长袍	shen pan zhe ma sai er de chang pao	0
+审判者马塞尔的长袍	shen pan zhe ma sai er di chang pao	0
+巨型黑章鱼的鹰眼夹克	ju xing hei zhang yu de ying yan jia ke	0
+堕落的阿索尔护肩	duo luo de a suo er hu jian	0
+堕落的阿索尔护肩	duo luo di a suo er hu jian	0
+堕落的阿索尔护肩	duo luo de e suo er hu jian	0
+堕落的阿索尔护肩	duo luo di e suo er hu jian	0
+暗夜遗骨胸甲	an ye yi gu xiong jia	0
+怨恨之摩根胸甲	yuan hen zhi mo gen xiong jia	0
+鲁格的战绒马甲	lu ge de zhan rong ma jia	0
+鲁格的战绒马甲	lu ge di zhan rong ma jia	0
+寒冰巨人的霜天战甲	han bing ju ren de shuang tian zhan jia	0
+寒冰巨人的霜天战甲	han bing ju ren di shuang tian zhan jia	0
+塞斯奇的椎骨肩甲	sai si qi de zhui gu jian jia	0
+塞斯奇的椎骨肩甲	se si qi de zhui gu jian jia	0
+塞斯奇的椎骨肩甲	sai si ji de zhui gu jian jia	0
+塞斯奇的椎骨肩甲	sai si qi di zhui gu jian jia	0
+塞斯奇的椎骨肩甲	se si ji de zhui gu jian jia	0
+塞斯奇的椎骨肩甲	se si qi di zhui gu jian jia	0
+塞斯奇的椎骨肩甲	sai si ji di zhui gu jian jia	0
+塞斯奇的椎骨肩甲	se si ji di zhui gu jian jia	0
+冰齿沙凡特的霜寒肩甲	bing chi sha fan te de shuang han jian jia	0
+冰齿沙凡特的霜寒肩甲	bing chi sha fan te di shuang han jian jia	0
+阿特拉斯的七宗腰带	a te la si de qi zong yao dai	0
+阿特拉斯的七宗腰带	a te la si di qi zong yao dai	0
+歌利亚的合金腰带	ge li ya de he jin yao dai	0
+歌利亚的合金腰带	ge li ya di he jin yao dai	0
+泰坦的合金腰带	tai tan de he jin yao dai	0
+泰坦的合金腰带	tai tan di he jin yao dai	0
+暗影战靴	an ying zhan xue	0
+伊沙杜拉的长袍	yi sha du la de chang pao	0
+冰雪女王的丝绸长袍	bing xue nv wang de si chou chang pao	0
+冰雪女王的丝绸长袍	bing xue nv wang di si chou chang pao	0
+希特拉克的寒冰夹克	xi te la ke de han bing jia ke	0
+希特拉克的寒冰夹克	xi te la ke di han bing jia ke	0
+犬使摩震的斗魂战衣	quan shi mo zhen de dou hun zhan yi	0
+犬使摩震的斗魂战衣	quan shi ma zhen de dou hun zhan yi	0
+犬使摩震的斗魂战衣	quan shi mo zhen di dou hun zhan yi	0
+犬使摩震的斗魂战衣	quan shi ma zhen di dou hun zhan yi	0
+魔笛使者皮特的长袍	mo di shi zhe pi te de chang pao	0
+魔笛使者皮特的长袍	mo di shi zhe pi te di chang pao	0
+无头骑士的铠甲	wu tou qi shi de kai jia	0
+无头骑士的铠甲	wu tou qi shi di kai jia	0
+布万加的猎影护肩	bu wan jia de lie ying hu jian	0
+布万加的猎影护肩	bu mo jia de lie ying hu jian	0
+改良的火箭侠战靴	gai liang de huo jian xia zhan xue	0
+改良的火箭侠战靴	gai liang di huo jian xia zhan xue	0
+紫隐夹克	zi yin jia ke	0
+灵隐夹克	ling yin jia ke	0
+队长苏蕾德的机车胸甲	dui zhang su lei de de ji che xiong jia	0
+队长苏蕾德的机车胸甲	dui zhang su lei de di ji che xiong jia	0
+冰龙斯卡萨的蚀骨战甲	bing long si ka sa de shi gu zhan jia	0
+冰龙斯卡萨的蚀骨战甲	bing long si ka sa di shi gu zhan jia	0
+夜战司令官巴比伦战甲	ye zhan si ling guan ba bi lun zhan jia	0
+魔女阿嘉璐的丝绸上衣	mo nv a jia lu de si chou shang yi	0
+魔女阿嘉璐的丝绸上衣	mo nv e jia lu de si chou shang yi	0
+魔女阿嘉璐的丝绸上衣	mo nv a jia lu di si chou shang yi	0
+魔女阿嘉璐的丝绸上衣	mo nv e jia lu di si chou shang yi	0
+诺丝克尔的皇羽长袍	nuo si ke er de huang yu chang pao	0
+诺丝克尔的皇羽长袍	nuo si ke er di huang yu chang pao	0
+莫贝尼的黑鳞战甲	mo bei ni de hei lin zhan jia	0
+莫贝尼的黑鳞战甲	mu bei ni de hei lin zhan jia	0
+烈焰盾波迪尔的铠甲	lie yan dun bo di er de kai jia	0
+烈焰盾波迪尔的铠甲	lie yan dun bo di er di kai jia	0
+机械吉赛尔的变异胸甲	ji xie ji sai er de bian yi xiong jia	0
+机械吉赛尔的变异胸甲	ji xie ji sai er di bian yi xiong jia	0
+范弗拉丁的西服上衣	fan fu la ding de xi fu shang yi	0
+范弗拉丁的西服上衣	fan fu la ding di xi fu shang yi	0
+机甲章鱼靴	ji jia zhang yu xue	0
+灵魔长袍	ling mo chang pao	0
+骷髅骑士的战甲	ku lou qi shi de zhan jia	0
+骷髅骑士的战甲	ku lou qi shi di zhan jia	0
+御兽之王护肩	yu shou zhi wang hu jian	0
+悲鸣凯恩战衣	bei ming kai en zhan yi	0
+沙影贝利特的枪手长袍	sha ying bei li te de qiang shou chang pao	0
+沙影贝利特的枪手长袍	sha ying bei li te di qiang shou chang pao	0
+鬼面狱犬之碎甲	gui mian yu quan zhi sui jia	0
+冰龙逆鳞战衣	bing long ni lin zhan yi	0
+冥炎长袍	ming yan chang pao	0
+朱色炎玉长袍	zhu se yan yu chang pao	0
+狱火之刑胸甲	yu huo zhi xing xiong jia	0
+灼魂之魔刹胸甲	zhuo hun zhi mo cha xiong jia	0
+灼魂之魔刹胸甲	zhuo hun zhi mo sha xiong jia	0
+尼尔巴斯的魔心护甲	ni er ba si de mo xin hu jia	0
+尼尔巴斯的魔心护甲	ni er ba si di mo xin hu jia	0
+地灵绝魂护肩	di ling jue hun hu jian	0
+玄武护魂肩甲	xuan wu hu hun jian jia	0
+古拉德的火焰肩甲	gu la de de huo yan jian jia	0
+古拉德的火焰肩甲	gu la de di huo yan jian jia	0
+波罗丁的天祈头盔	bo luo ding de tian qi tou kui	0
+波罗丁的天祈头盔	bo luo zheng de tian qi tou kui	0
+波罗丁的天祈头盔	bo luo ding di tian qi tou kui	0
+波罗丁的天祈头盔	bo luo zheng di tian qi tou kui	0
+莫妮卡的复古腰带	mo ni ka de fu gu yao dai	0
+莫妮卡的复古腰带	mo ni ka di fu gu yao dai	0
+凯蒂的魔道短靴	kai di de mo dao duan xue	0
+凯蒂的魔道短靴	kai di di mo dao duan xue	0
+阿特拉斯的七宗长靴	a te la si de qi zong chang xue	0
+阿特拉斯的七宗长靴	a te la si di qi zong chang xue	0
+彼斯科的寒光长靴	bi si ke de han guang chang xue	0
+彼斯科的寒光长靴	bi si ke di han guang chang xue	0
+艾丽丝的貂绒长袍	ai li si de diao rong chang pao	0
+艾丽丝的貂绒长袍	ai li si di diao rong chang pao	0
+泰坦的蛇眼胸甲	tai tan de she yan xiong jia	0
+泰坦的蛇眼胸甲	tai tan di she yan xiong jia	0
+尼巫的索菲短裙	ni wu de suo fei duan qun	0
+尼巫的索菲短裙	ni wu di suo fei duan qun	0
+歌利亚的火焰绑腿	ge li ya de huo yan bang tui	0
+歌利亚的火焰绑腿	ge li ya di huo yan bang tui	0
+千年玄铁兽胸甲	qian nian xuan tie shou xiong jia	0
+克罗姆的生命护甲	ke luo mu de sheng ming hu jia	0
+空间支配者胸甲	kong jian zhi pei zhe xiong jia	0
+古代遗迹守护者胸甲	gu dai yi ji shou hu zhe xiong jia	0
+时间支配者斗篷	shi jian zhi pei zhe dou peng	0
+记忆支配者腰带	ji yi zhi pei zhe yao dai	0
+凝血神咒胸甲	ning xue shen zhou xiong jia	0
+冥王之预言胸甲	ming wang zhi yu yan xiong jia	0
+阿法利亚之息胸甲	a fa li ya zhi xi xiong jia	0
+邪神之怒胸甲	xie shen zhi nu xiong jia	0
+领主的灭魂胸甲	ling zhu de mie hun xiong jia	0
+领主的灭魂胸甲	ling zhu di mie hun xiong jia	0
+海岸三番街之息绑腿	hai an san fan jie zhi xi bang tui	0
+邪神之怒胫甲	xie shen zhi nu jing jia	0
+皮埃罗的复仇护腿	pi ai luo de fu chou hu tui	0
+皮埃罗的复仇护腿	pi ai luo di fu chou hu tui	0
+畏惧者的丝绸护肩	wei ju zhe de si chou hu jian	0
+冥王之诡术护肩	ming wang zhi gui shu hu jian	0
+冥王之诡术护肩	ming wang zhi gui zhu hu jian	0
+斯顿雪域冰霜护肩	si dun xue yu bing shuang hu jian	0
+邪神之怒护肩	xie shen zhi nu hu jian	0
+血武之魂护肩	xie wu zhi hun hu jian	0
+血武之魂护肩	xue wu zhi hun hu jian	0
+神咒之丝绸腰带	shen zhou zhi si chou yao dai	0
+冥王之幻影腰带	ming wang zhi huan ying yao dai	0
+西海岸之息腰带	xi hai an zhi xi yao dai	0
+邪神之怒腰带	xie shen zhi nu yao dai	0
+圣战之威腰带	sheng zhan zhi wei yao dai	0
+杀手之潜行短靴	sha shou zhi qian xing duan xue	0
+龙光隐翼短靴	long guang yin yi duan xue	0
+赫顿玛尔之息短靴	he dun ma er zhi xi duan xue	0
+邪神之怒短靴	xie shen zhi nu duan xue	0
+夜神的探索短靴	ye shen de tan suo duan xue	0
+夜神的探索短靴	ye shen di tan suo duan xue	0
+幽魂魅影长袍	you hun mei ying chang pao	0
+游龙之魂战袍	you long zhi hun zhan pao	0
+深海熔岩胸甲	shen hai rong yan xiong jia	0
+星云迷踪上衣	xing yun mi zong shang yi	0
+镇魂曲幽游板甲上衣	zhen hun qu you you ban jia shang yi	0
+干扰发射器	gan rao fa she qi	0
+希泊之处女作美丽	xi bo zhi chu nv zuo mei li	0
+希泊之处女作美丽	xi po zhi chu nv zuo mei li	0
+希泊之处女作美丽	xi bo zhi chu ru zuo mei li	0
+希泊之处女作美丽	xi po zhi chu ru zuo mei li	0
+精灵之歌	jing ling zhi ge	0
+圣灵战士项坠	sheng ling zhan shi xiang zhui	0
+常春藤手镯	chang chun teng shou zhuo	0
+拉罗的迷失之戒	la luo de mi shi zhi jie	0
+神鬼战士项坠	shen gui zhan shi xiang zhui	0
+卡罗蛇眼	ka luo she yan	0
+灵犀之心	ling xi zhi xin	0
+赤道碎星花结	chi dao sui xing hua jie	0
+玛尼神兽项坠	ma ni shen shou xiang zhui	0
+杀戮守护之镯	sha lu shou hu zhi zhuo	0
+摩恩之珠等活地狱	mo en zhi zhu deng huo di yu	0
+苏拉托之眼	su la tuo zhi yan	0
+麒麟的骨戒	qi lin de gu jie	0
+麒麟的骨戒	qi lin di gu jie	0
+王者之星	wang zhe zhi xing	0
+罗杰的金表	luo jie de jin biao	0
+罗杰的金表	luo jie di jin biao	0
+天帷巨兽之眼	tian wei ju shou zhi yan	0
+守护者之魂	shou hu zhe zhi hun	0
+闪耀者之魂	shan yao zhe zhi hun	0
+佩鲁斯的荣誉	pei lu si de rong yu	0
+佩鲁斯的荣誉	pei lu si di rong yu	0
+希泊之力作意念	xi bo zhi li zuo yi nian	0
+希泊之力作意念	xi po zhi li zuo yi nian	0
+燃烧者之魂	ran shao zhe zhi hun	0
+冰冻者之魂	bing dong zhe zhi hun	0
+罗乌的血玉手镯	luo wu de xue yu shou zhuo	0
+神圣秘银的遗迹	shen sheng mi yin de yi ji	0
+神圣秘银的遗迹	shen sheng mi yin di yi ji	0
+漩涡者之魂	xuan wo zhe zhi hun	0
+悸动者之魂	ji dong zhe zhi hun	0
+黑珍珠米斯特	hei zhen zhu mi si te	0
+远古之艾尔文指环	yuan gu zhi ai er wen zhi huan	0
+牛头械王的护心镜	niu tou xie wang de hu xin jing	0
+牛头械王的召唤芯片	niu tou xie wang de zhao huan xin pian	0
+哈尼克之牙	ha ni ke zhi ya	0
+哈尼克的护面	ha ni ke de hu mian	0
+哈尼克的护面	ha ni ke di hu mian	0
+疯狂伊凡的炸药包	feng kuang yi fan de zha yao bao	0
+疯狂伊凡的炸药包	feng kuang yi fan di zha yao bao	0
+疯狂伊凡的避火装置	feng kuang yi fan de bi huo zhuang zhi	0
+疯狂伊凡的避火装置	feng kuang yi fan di bi huo zhuang zhi	0
+泰拉石项链	tai la shi xiang lian	0
+泰拉石手镯	tai la shi shou zhuo	0
+泰拉石之戒	tai la shi zhi jie	0
+静寂之闪耀项链	jing ji zhi shan yao xiang lian	0
+狂狮之吼	kuang shi zhi hou	0
+燃烧之烈焰	ran shao zhi lie yan	0
+泰坦的强化戒指	tai tan de qiang hua jie zhi	0
+泰坦的强化戒指	tai tan di qiang hua jie zhi	0
+荒冥之脊项链	huang ming zhi ji xiang lian	0
+窒息的悲鸣项链	zhi xi de bei ming xiang lian	0
+窒息的悲鸣项链	zhi xi di bei ming xiang lian	0
+窒息的悲鸣手镯	zhi xi de bei ming shou zhuo	0
+窒息的悲鸣手镯	zhi xi di bei ming shou zhuo	0
+紫息的悲鸣之戒	zi xi de bei ming zhi jie	0
+紫息的悲鸣之戒	zi xi di bei ming zhi jie	0
+狂乱之核	kuang luan zhi he	0
+狂乱之核	kuang luan zhi hu	0
+堕落之血项链	duo luo zhi xie xiang lian	0
+堕落之血项链	duo luo zhi xue xiang lian	0
+幻影之灵	huan ying zhi ling	0
+幽暗迷渊之戒	you an mi yuan zhi jie	0
+蓝色暴风雪	lan se bao feng xue	0
+凯恩的骷髅手镯	kai en de ku lou shou zhuo	0
+凯恩的骷髅手镯	kai en di ku lou shou zhuo	0
+自然的恩泽	zi ran de en ze	0
+闪灵幻月	shan ling huan yue	0
+武神莱奇的骨戒	wu shen lai qi de gu jie	0
+武神莱奇的骨戒	wu shen lai ji de gu jie	0
+武神莱奇的骨戒	wu shen lai qi di gu jie	0
+武神莱奇的骨戒	wu shen lai ji di gu jie	0
+海上列车的勇者手镯	hai shang lie che de yong zhe shou zhuo	0
+海上列车的勇者手镯	hai shang lie che di yong zhe shou zhuo	0
+风影之舞	feng ying zhi wu	0
+梦幻列车长的心脏	meng huan lie che zhang de xin zang	0
+风之女神	feng zhi nv shen	0
+永恒之时光	yong heng zhi shi guang	0
+死亡之抉择	si wang zhi jue ze	0
+月光精灵	yue guang jing ling	0
+美人鱼的珍珠指环	mei ren yu de zhen zhu zhi huan	0
+美人鱼的珍珠指环	mei ren yu di zhen zhu zhi huan	0
+贪婪者的心愿	tan lan zhe de xin yuan	0
+竞技风暴之红宝石戒指	jing ji feng bao zhi hong bao shi jie zhi	0
+竞技风暴之蓝宝石戒指	jing ji feng bao zhi lan bao shi jie zhi	0
+黄龙战魂项链	huang long zhan hun xiang lian	0
+烈火之心项链	lie huo zhi xin xiang lian	0
+将军之意志手镯	jiang jun zhi yi zhi shou zhuo	0
+战神阿瑞斯的戒指	zhan shen a rui si de jie zhi	0
+战神阿瑞斯的戒指	zhan shen a rui si di jie zhi	0
+厄运之泪戒指	e yun zhi lei jie zhi	0
+时空之门戒指	shi kong zhi men jie zhi	0
+巫师的灵珠	wu shi de ling zhu	0
+巫师的灵珠	wu shi di ling zhu	0
+黑色双子戒指	hei se shuang zi jie zhi	0
+龙灵石项链	long ling shi xiang lian	0
+卡勒特的红色围巾	ka le te de hong se wei jin	0
+卡勒特的红色围巾	qia le te de hong se wei jin	0
+卡勒特的红色围巾	ka lei te de hong se wei jin	0
+卡勒特的红色围巾	ka le te di hong se wei jin	0
+卡勒特的红色围巾	qia lei te de hong se wei jin	0
+卡勒特的红色围巾	qia le te di hong se wei jin	0
+卡勒特的红色围巾	ka lei te di hong se wei jin	0
+卡勒特的红色围巾	qia lei te di hong se wei jin	0
+幽冥石项链	you ming shi xiang lian	0
+幽冥石项链	you ming dan xiang lian	0
+突击队长的增幅戒指	tu ji dui chang de zeng fu jie zhi	0
+迷离之红宝石项坠	mi li zhi hong bao shi xiang zhui	0
+迷离之红宝石手镯	mi li zhi hong bao shi shou zhuo	0
+迷离之红宝石戒指	mi li zhi hong bao shi jie zhi	0
+冥炎逐日项链	ming yan zhu ri xiang lian	0
+落影追魂项链	luo ying zhui hun xiang lian	0
+落影追魂项链	la ying zhui hun xiang lian	0
+帝国之金鸣石项链	di guo zhi jin ming shi xiang lian	0
+帝国之金鸣石项链	di guo zhi jin ming dan xiang lian	0
+帝国之金鸣石项链物理	di guo zhi jin ming shi xiang lian wu li	0
+帝国之金鸣石项链物理	di guo zhi jin ming dan xiang lian wu li	0
+帝国之金鸣石项链魔法	di guo zhi jin ming shi xiang lian mo fa	0
+帝国之金鸣石项链魔法	di guo zhi jin ming dan xiang lian mo fa	0
+帝国之金鸣石项链硬直	di guo zhi jin ming shi xiang lian ying zhi	0
+帝国之金鸣石项链硬直	di guo zhi jin ming dan xiang lian ying zhi	0
+冥炎逐日手镯	ming yan zhu ri shou zhuo	0
+落影追魂手镯	luo ying zhui hun shou zhuo	0
+落影追魂手镯	la ying zhui hun shou zhuo	0
+帝国之金鸣石手镯	di guo zhi jin ming shi shou zhuo	0
+帝国之金鸣石手镯	di guo zhi jin ming dan shou zhuo	0
+帝国之金鸣石手镯物理	di guo zhi jin ming shi shou zhuo wu li	0
+帝国之金鸣石手镯物理	di guo zhi jin ming dan shou zhuo wu li	0
+帝国之金鸣石手镯魔法	di guo zhi jin ming shi shou zhuo mo fa	0
+帝国之金鸣石手镯魔法	di guo zhi jin ming dan shou zhuo mo fa	0
+冥炎逐日指环	ming yan zhu ri zhi huan	0
+落影追魂戒指	luo ying zhui hun jie zhi	0
+落影追魂戒指	la ying zhui hun jie zhi	0
+克雷之截能指环	ke lei zhi jie neng zhi huan	0
+普鲁兹之截能指环	pu lu zi zhi jie neng zhi huan	0
+普鲁兹之截能指环	pu lu ci zhi jie neng zhi huan	0
+特伦斯之截能指环	te lun si zhi jie neng zhi huan	0
+格兰迪之截能指环	ge lan di zhi jie neng zhi huan	0
+帝国之金鸣石戒指	di guo zhi jin ming shi jie zhi	0
+帝国之金鸣石戒指	di guo zhi jin ming dan jie zhi	0
+帝国之金鸣石戒指物理	di guo zhi jin ming shi jie zhi wu li	0
+帝国之金鸣石戒指物理	di guo zhi jin ming dan jie zhi wu li	0
+帝国之金鸣石戒指魔法	di guo zhi jin ming shi jie zhi mo fa	0
+帝国之金鸣石戒指魔法	di guo zhi jin ming dan jie zhi mo fa	0
+帝国之金鸣石戒指硬直	di guo zhi jin ming shi jie zhi ying zhi	0
+帝国之金鸣石戒指硬直	di guo zhi jin ming dan jie zhi ying zhi	0
+冰羽之痕项链魔法	bing yu zhi hen xiang lian mo fa	0
+冰羽之痕戒指物理	bing yu zhi hen jie zhi wu li	0
+冰羽之痕戒指魔法	bing yu zhi hen jie zhi mo fa	0
+火羽之痕项链魔法	huo yu zhi hen xiang lian mo fa	0
+火羽之痕戒指物理	huo yu zhi hen jie zhi wu li	0
+火羽之痕戒指魔法	huo yu zhi hen jie zhi mo fa	0
+暗羽之痕项链魔法	an yu zhi hen xiang lian mo fa	0
+暗羽之痕戒指物理	an yu zhi hen jie zhi wu li	0
+暗羽之痕戒指魔法	an yu zhi hen jie zhi mo fa	0
+光羽之痕项链魔法	guang yu zhi hen xiang lian mo fa	0
+光羽之痕戒指物理	guang yu zhi hen jie zhi wu li	0
+光羽之痕戒指魔法	guang yu zhi hen jie zhi mo fa	0
+人偶师的咒术手镯	ren ou shi de zhou shu shou zhuo	0
+人偶师的咒术手镯	ren ou shi di zhou shu shou zhuo	0
+黄金巨人的灵石戒	huang jin ju ren de ling shi jie	0
+黄金巨人的灵石戒	huang jin ju ren di ling shi jie	0
+罪恶之灵右眼	zui e zhi ling you yan	0
+罪恶之灵左眼	zui e zhi ling zuo yan	0
+审判者马塞尔的项链	shen pan zhe ma sai er de xiang lian	0
+审判者马塞尔的项链	shen pan zhe ma sai er di xiang lian	0
+罗特斯的精神支配项链	luo te si de jing shen zhi pei xiang lian	0
+草木之灵	cao mu zhi ling	0
+冰心少年的玩具手镯	bing xin shao nian de wan ju shou zhuo	0
+冰心少年的玩具手镯	bing xin shao nian di wan ju shou zhuo	0
+邪龙的怨魂之戒	xie long de yuan hun zhi jie	0
+邪龙的怨魂之戒	xu long de yuan hun zhi jie	0
+邪龙的怨魂之戒	ya long de yuan hun zhi jie	0
+邪龙的怨魂之戒	ye long de yuan hun zhi jie	0
+邪龙的怨魂之戒	yu long de yuan hun zhi jie	0
+冰雪女王的寒石项链	bing xue nv wang de han shi xiang lian	0
+冰雪女王的寒石项链	bing xue nv wang de han dan xiang lian	0
+冰雪女王的寒石项链	bing xue nv wang di han shi xiang lian	0
+冰雪女王的寒石项链	bing xue nv wang di han dan xiang lian	0
+犬使摩震的斗魂项链	quan shi mo zhen de dou hun xiang lian	0
+犬使摩震的斗魂项链	quan shi ma zhen de dou hun xiang lian	0
+犬使摩震的斗魂项链	quan shi mo zhen di dou hun xiang lian	0
+犬使摩震的斗魂项链	quan shi ma zhen di dou hun xiang lian	0
+布万加的牛骨项链	bu wan jia de niu gu xiang lian	0
+布万加的牛骨项链	bu mo jia de niu gu xiang lian	0
+魔雷之魂	mo lei zhi hun	0
+镇魂之眼	zhen hun zhi yan	0
+卡勒特首领的戒指	qia le te shou ling de jie zhi	0
+卡勒特首领的戒指	ka lei te shou ling de jie zhi	0
+卡勒特首领的戒指	qia lei te shou ling de jie zhi	0
+瘟疫净化之戒	wen yi jing hua zhi jie	0
+凯恩的遗迹	kai en di yi ji	0
+冰龙凝雪	bing long ning xue	0
+兄之愿	xiong zhi yuan	0
+枪灵之魂	qiang ling zhi hun	0
+似水流年	si shui liu nian	0
+火魅之歌项链	huo mei zhi ge xiang lian	0
+雷鸣之歌项链	lei ming zhi ge xiang lian	0
+冰龙之歌项链	bing long zhi ge xiang lian	0
+帕特里斯之魂	pa te li si zhi hun	0
+灼魂之魔刹项链	zhuo hun zhi mo cha xiang lian	0
+灼魂之魔刹项链	zhuo hun zhi mo sha xiang lian	0
+熔岩之魔刹手镯	rong yan zhi mo cha shou zhuo	0
+熔岩之魔刹手镯	rong yan zhi mo sha shou zhuo	0
+幽云护腕	you yun hu wan	0
+避祸之诀	bi huo zhi jue	0
+超能之魔刹石指环	chao neng zhi mo cha shi zhi huan	0
+超能之魔刹石指环	chao neng zhi mo sha shi zhi huan	0
+超能之魔刹石指环	chao neng zhi mo cha dan zhi huan	0
+超能之魔刹石指环	chao neng zhi mo sha dan zhi huan	0
+苍穹之影	cang qiong zhi ying	0
+冰精灵之戒	bing jing ling zhi jie	0
+光精灵之戒	guang jing ling zhi jie	0
+暗精灵之戒	an jing ling zhi jie	0
+灵魂猎者	ling hun lie zhe	0
+罗特斯之心	luo te si zhi xin	0
+布里希加曼	bu li xi jia man	0
+罗特斯之触	luo te si zhi chu	0
+救赎者之戒	jiu shu zhe zhi jie	0
+战神的天袭项链	zhan shen de tian xi xiang lian	0
+战神的天袭项链	zhan shen di tian xi xiang lian	0
+时空主宰者项链	shi kong zhu zai zhe xiang lian	0
+风华绝世之坠	feng hua jue shi zhi zhui	0
+风华绝世手镯	feng hua jue shi shou zhuo	0
+风华绝世之戒	feng hua jue shi zhi jie	0
+阿尔伯特的臂章	a er bo te de bi zhang	0
+阿尔伯特的臂章	a er bo te di bi zhang	0
+鬼手封印手套	gui shou feng yin shou tao	0
+素喃道场手套	su nan dao chang shou tao	0
+守护者的战争手套	shou hu zhe de zhan zheng shou tao	0
+守护者的战争手套	shou hu zhe di zhan zheng shou tao	0
+虚祖抗魔手套	xu zu kang mo shou tao	0
+帝国军士手套	di guo jun shi shou tao	0
+皇宫护卫团手套	huang gong hu wei tuan shou tao	0
+盗贼手套	dao zei shou tao	0
+班图族的徽章	ban tu zu de hui zhang	0
+班图族的徽章	ban tu zu di hui zhang	0
+强化符	qiang hua fu	0
+贫民窟的珍宝	pin min ku de zhen bao	0
+贫民窟的珍宝	pin min ku di zhen bao	0
+觉醒之奥秘	jue xing zhi ao mi	0
+被污染的银杯	bei wu ran de yin bei	0
+被污染的银杯	pi wu ran de yin bei	0
+被污染的银杯	bei wu ran di yin bei	0
+被污染的银杯	pi wu ran di yin bei	0
+黑震团修炼手套	hei zhen tuan xiu lian shou tao	0
+深渊斗魂手套	shen yuan dou hun shou tao	0
+贝尔玛尔王室臂章	bei er ma er wang shi bi zhang	0
+暗影迷雾手套	an ying mi wu shou tao	0
+虚祖修行团的暗杀手套	xu zu xiu xing tuan de an sha shou tao	0
+血之反噬诅咒	xue zhi fan shi zu zhou	0
+卡勒特的武装手套	ka le te de wu zhuang shou tao	0
+卡勒特的武装手套	qia le te de wu zhuang shou tao	0
+卡勒特的武装手套	ka lei te de wu zhuang shou tao	0
+卡勒特的武装手套	ka le te di wu zhuang shou tao	0
+卡勒特的武装手套	qia lei te de wu zhuang shou tao	0
+卡勒特的武装手套	qia le te di wu zhuang shou tao	0
+卡勒特的武装手套	ka lei te di wu zhuang shou tao	0
+卡勒特的武装手套	qia lei te di wu zhuang shou tao	0
+皇女玫瑰	huang nv mei gui	0
+背迩王室的遗物	bei er wang shi de yi wu	0
+背迩王室的遗物	bei er wang shi di yi wu	0
+空白之书	kong bai zhi shu	0
+三重疤痕	san chong ba hen	0
+雷米迪亚的圣杯	lei mi di ya de sheng bei	0
+雷米迪亚的圣杯	lei mi di ya di sheng bei	0
+虚祖死士手套	xu zu si shi shou tao	0
+强者之奥义	qiang zhe zhi ao yi	0
+血魔手套	xue mo shou tao	0
+迪拉瑞之石	di la rui zhi shi	0
+亚德炎之泪	ya de yan zhi lei	0
+冰奈斯之泪	bing nai si zhi lei	0
+雷沃斯之泪	lei wo si zhi lei	0
+瑟冥特克之泪	se ming te ke zhi lei	0
+拉泽尔的石珠	la ze er de shi zhu	0
+拉泽尔的石珠	la ze er di shi zhu	0
+被污染的公爵披风	bei wu ran de gong jue pi feng	0
+被污染的公爵披风	pi wu ran de gong jue pi feng	0
+被污染的公爵披风	bei wu ran di gong jue pi feng	0
+被污染的公爵披风	pi wu ran di gong jue pi feng	0
+虚祖王室臂章	xu zu wang shi bi zhang	0
+剑魂巴恩的手套	jian hun ba en de shou tao	0
+烈焰狂风手套	lie yan kuang feng shou tao	0
+罗恩的暗黑手套	luo en de an hei shou tao	0
+罗恩的暗黑手套	luo en di an hei shou tao	0
+摩恩的杀戮手套	mo en de sha lu shou tao	0
+摩恩的杀戮手套	mo en di sha lu shou tao	0
+五面嗜魂手套	wu mian shi hun shou tao	0
+恐惧绞索	kong ju jiao suo	0
+雪崩之轨迹	xue beng zhi gui ji	0
+希曼斯特拉之歌	xi man si te la zhi ge	0
+王室之秘籍	wang shi zhi mi ji	0
+燃烧之斗魂	ran shao zhi dou hun	0
+泰坦的酒杯	tai tan de jiu bei	0
+泰坦的酒杯	tai tan di jiu bei	0
+风影之击	feng ying zhi ji	0
+暴食者锋牙手套	bao shi zhe feng ya shou tao	0
+感染者的秘纹心脏	gan ran zhe de mi wen xin zang	0
+感染者的秘纹心脏	gan ran zhe di mi wen xin zang	0
+感染者的秘纹心脏	gan ran zhe de bi wen xin zang	0
+感染者的秘纹心脏	gan ran zhe di bi wen xin zang	0
+巨龙骨指	ju long gu zhi	0
+巨龙之息	ju long zhi xi	0
+巴恩的疾影手套	ba en de ji ying shou tao	0
+巴恩的疾影手套	ba en di ji ying shou tao	0
+罗恩的复仇手套	luo en de fu chou shou tao	0
+罗恩的复仇手套	luo en di fu chou shou tao	0
+哈因里希家族臂章	ha yin li xi jia zu bi zhang	0
+凯恩的刺杀手套	kai en de ci sha shou tao	0
+凯恩的刺杀手套	kai en di ci sha shou tao	0
+风神手套	feng shen shou tao	0
+碎心手套	sui xin shou tao	0
+泰达之屠杀	tai da zhi tu sha	0
+卡图的决斗	ka tu de jue dou	0
+卡图的决斗	qia tu de jue dou	0
+死亡凝视者	si wang ning shi zhe	0
+重生者之魂	chong sheng zhe zhi hun	0
+皇女庭院臂章	huang nv ting yuan bi zhang	0
+希泊的宝藏古代护符	xi bo de bao zang gu dai hu fu	0
+希泊的宝藏古代护符	xi po de bao zang gu dai hu fu	0
+希泊的宝藏古代护符	xi bo di bao zang gu dai hu fu	0
+希泊的宝藏古代护符	xi po di bao zang gu dai hu fu	0
+远古奇迹	yuan gu qi ji	0
+恐惧幽灵	kong ju you ling	0
+先知的木杯	xian zhi de mu bei	0
+先知的木杯	xian zhi di mu bei	0
+风之火舞	feng zhi huo wu	0
+深渊巨魔手套	shen yuan ju mo shou tao	0
+金刚石碎片	jin gang shi sui pian	0
+艾丽西娅之泪	ai li xi ya zhi lei	0
+希德之泪	xi de zhi lei	0
+精灵勇士的勋章	jing ling yong shi de xun zhang	0
+精灵勇士的勋章	jing ling yong shi di xun zhang	0
+泰坦的强化珠	tai tan de qiang hua zhu	0
+泰坦的强化珠	tai tan di qiang hua zhu	0
+融合之中级精灵的眼泪	rong he zhi zhong ji jing ling de yan lei	0
+融合之中级精灵的眼泪	rong he zhi zhong ji jing ling di yan lei	0
+感染者的血纹骨指	gan ran zhe de xue wen gu zhi	0
+神谕者的秘纹心脏	shen yu zhe de mi wen xin zang	0
+神谕者的秘纹心脏	shen yu zhe de bi wen xin zang	0
+神谕者的血纹骨指	shen yu zhe de xie wen gu zhi	0
+神谕者的血纹骨指	shen yu zhe de xue wen gu zhi	0
+巨龙之心	ju long zhi xin	0
+地狱使者的披风	di yu shi zhe de pi feng	0
+地狱使者的披风	di yu shi zhe di pi feng	0
+布鲁之怨灵印章	bu lu zhi yuan ling yin zhang	0
+红色恶灵石碑	hong se e ling shi bei	0
+蓝色恶灵石碑	lan se e ling shi bei	0
+毁灭之融合石	hui mie zhi rong he shi	0
+毁灭之融合石	hui mie zhi rong he dan	0
+支配之融合石	zhi pei zhi rong he shi	0
+支配之融合石	zhi pei zhi rong he dan	0
+灵魂之抗体石	ling hun zhi kang ti shi	0
+灵魂之抗体石	ling hun zhi kang ti dan	0
+恶灵之闪电石	e ling zhi shan dian shi	0
+恶灵之闪电石	e ling zhi shan dian dan	0
+恶灵之火焰石	e ling zhi huo yan shi	0
+恶灵之火焰石	e ling zhi huo yan dan	0
+青龙雕纹斗篷	qing long diao wen dou peng	0
+青龙雕纹石	qing long diao wen shi	0
+青龙雕纹石	qing long diao wen dan	0
+希尔斯之悟臂章	xi er si zhi wu bi zhang	0
+皇室之秘籍	huang shi zhi mi ji	0
+罪恶之源	zui e zhi yuan	0
+公爵的邪恶披风	gong jue de xie e pi feng	0
+公爵的邪恶披风	gong jue di xie e pi feng	0
+暗黑血之赤瞳	an hei xie zhi chi tong	0
+暗黑血之赤瞳	an hei xue zhi chi tong	0
+金玉鸣石	jin yu ming shi	0
+金玉鸣石	jin yu ming dan	0
+杰克爆弹石	jie ke bao dan shi	0
+杰克爆弹石	jie ke bao dan dan	0
+冰雪之心	bing xue zhi xin	0
+光电鳗之石	guang dian man zhi shi	0
+暗影夜猫之石	an ying ye mao zhi shi	0
+中级精灵的精炼宝石	zhong ji jing ling de jing lian bao shi	0
+中级精灵的精炼宝石	zhong ji jing ling di jing lian bao shi	0
+贤者勋章	xian zhe xun zhang	0
+圣谕法典	sheng yu fa dian	0
+战神的轻语	zhan shen de qing yu	0
+战神的轻语	zhan shen di qing yu	0
+图卢斯族的族徽	tu lu si zu de zu hui	0
+图卢斯族的族徽	tu lu si zu di zu hui	0
+布万加的族长手套	bu wan jia de zu zhang shou tao	0
+布万加的族长手套	bu mo jia de zu zhang shou tao	0
+突击队长的绝杀手套	tu ji dui chang de jue sha shou tao	0
+法力猎食者的手套	fa li lie shi zhe de shou tao	0
+魔手之影	mo shou zhi ying	0
+长发魔杰特的暗袭手套	chang fa mo jie te de an xi shou tao	0
+长发魔杰特的暗袭手套	chang fa mo jie te di an xi shou tao	0
+机械巡逻队的搜查手套	ji xie xun luo dui de sou cha shou tao	0
+机械巡逻队的搜查手套	ji xie xun luo dui di sou cha shou tao	0
+夜之破坏者的手套	ye zhi po huai zhe de shou tao	0
+超能者的臂章	chao neng zhe de bi zhang	0
+凯蒂之灵髓	kai di zhi ling sui	0
+暗黑三骑士的罪恶手套	an hei san qi shi de zui e shou tao	0
+暗黑三骑士的罪恶手套	an hei san qi shi di zui e shou tao	0
+卡勒特的炮击遥控器	ka le te de pao ji yao kong qi	0
+卡勒特的炮击遥控器	qia le te de pao ji yao kong qi	0
+卡勒特的炮击遥控器	ka lei te de pao ji yao kong qi	0
+卡勒特的炮击遥控器	ka le te di pao ji yao kong qi	0
+卡勒特的炮击遥控器	qia lei te de pao ji yao kong qi	0
+卡勒特的炮击遥控器	qia le te di pao ji yao kong qi	0
+卡勒特的炮击遥控器	ka lei te di pao ji yao kong qi	0
+卡勒特的炮击遥控器	qia lei te di pao ji yao kong qi	0
+炼金术师的手套	lian jin shu shi de shou tao	0
+觉醒之领悟剑神	jue xing zhi ling wu jian shen	0
+觉醒之领悟黑暗君主	jue xing zhi ling wu hei an jun zhu	0
+觉醒之领悟念帝	jue xing zhi ling wu nian di	0
+觉醒之领悟毒神绝	jue xing zhi ling wu du shen jue	0
+觉醒之领悟毒神绝	jue xing zhi ling wu dai shen jue	0
+苏蕾德的机车手套	su lei de de ji che shou tao	0
+苏蕾德的机车手套	su lei de di ji che shou tao	0
+碧海流云珠	bi hai liu yun zhu	0
+冰魄琉璃珠	bing po liu li zhu	0
+地火熔岩珠	di huo rong yan zhu	0
+范弗拉丁的定时炸弹	fan fu la ding de ding shi zha dan	0
+范弗拉丁的定时炸弹	fan fu la ding di ding shi zha dan	0
+机动队长的无线对讲机	ji dong dui chang de wu xian dui jiang ji	0
+机械师之魂	ji xie shi zhi hun	0
+骷髅骑士拳套	ku lou qi shi quan tao	0
+御兽之王火焰球	yu shou zhi wang huo yan qiu	0
+骷髅骑士的灵魂球	ku lou qi shi de ling hun qiu	0
+骷髅骑士的灵魂球	ku lou qi shi di ling hun qiu	0
+狂暴之心	kuang bao zhi xin	0
+堕落天使的恶魔之角	duo luo tian shi de e mo zhi jiao	0
+堕落天使的恶魔之角	duo luo tian shi di e mo zhi jiao	0
+堕落天使的恶魔之角	duo luo tian shi de e mo zhi jue	0
+堕落天使的恶魔之角	duo luo tian shi di e mo zhi jue	0
+堕落的天使之心	duo luo de tian shi zhi xin	0
+堕落的天使之心	duo luo di tian shi zhi xin	0
+艾丽丝之泪	ai li si zhi lei	0
+灼魂之影	zhuo hun zhi ying	0
+布万加的族长臂章	bu wan jia de zu zhang bi zhang	0
+布万加的族长臂章	bu mo jia de zu zhang bi zhang	0
+西岚的武士手套	xi lan de wu shi shou tao	0
+西岚的武士手套	xi lan di wu shi shou tao	0
+阿斯卡的旅行手套	a si ka de lv xing shou tao	0
+尼巫的守护手套	ni wu de shou hu shou tao	0
+尼巫的守护手套	ni wu di shou hu shou tao	0
+圣鹰之灵	sheng ying zhi ling	0
+奥德丽的突击手套	ao de li di tu ji shou tao	0
+黑夜魔灵手套	hei ye mo ling shou tao	0
+奥尔卡的头盔	ao er ka de tou kui	0
+战神之护符	zhan shen zhi hu fu	0
+帕丽丝的家族象征	pa li si de jia zu xiang zheng	0
+米歇尔的祝福	mi xie er de zhu fu	0
+米歇尔的祝福	mi xie er di zhu fu	0
+克里西斯护腕	ke li xi si hu wan	0
+邪魔之眼	xie mo zhi yan	0
+西岚的黑色手套	xi lan de hei se shou tao	0
+派伊的魔法手套	pai yi de mo fa shou tao	0
+派伊的魔法手套	pai yi di mo fa shou tao	0
+普拉塔尼的黄金石	pu la ta ni de huang jin shi	0
+普拉塔尼的黄金石	pu la ta ni de huang jin dan	0
+普拉塔尼的黄金石	pu la ta ni di huang jin shi	0
+普拉塔尼的黄金石	pu la ta ni di huang jin dan	0
+火焰赫瑞克的眼泪	huo yan he rui ke de yan lei	0
+火焰赫瑞克的眼泪	huo yan he rui ke di yan lei	0
+冰影阿奎利斯之泪	bing ying a kui li si zhi lei	0
+极光格雷林之泪	ji guang ge lei lin zhi lei	0
+亡灵默克尔之泪	wang ling mo ke er zhi lei	0
+艾丽丝的纪念章	ai li si de ji nian zhang	0
+艾丽丝的纪念章	ai li si di ji nian zhang	0
+信奘的宝珠	xin zang de bao zhu	0
+信奘的宝珠	xin zhuang de bao zhu	0
+信奘的宝珠	shen zang de bao zhu	0
+信奘的宝珠	shen zhuang de bao zhu	0
+信奘的宝珠	xin zang di bao zhu	0
+信奘的宝珠	xin zhuang di bao zhu	0
+信奘的宝珠	shen zang di bao zhu	0
+信奘的宝珠	shen zhuang di bao zhu	0
+融合之高级精灵的眼泪	rong he zhi gao ji jing ling de yan lei	0
+融合之高级精灵的眼泪	rong he zhi gao ji jing ling di yan lei	0
+死神之精炼护腕	si shen zhi jing lian hu wan	0
+贤者之奥义	xian zhe zhi ao yi	0
+天之印记	tian zhi yin ji	0
+神剑梁月的黑手	shen jian liang yue de hei shou	0
+特鲁西亚的念气手套	te lu xi ya de nian qi shou tao	0
+特鲁西亚的念气手套	te lu xi ya di nian qi shou tao	0
+达尔的崩拳手套	da er de beng quan shou tao	0
+达尔的崩拳手套	da er di beng quan shou tao	0
+摩基丝的天击手套	mo ji si de tian ji shou tao	0
+摩基丝的天击手套	ma ji si de tian ji shou tao	0
+米歇尔的神圣手套	mi xie er de shen sheng shou tao	0
+米歇尔的神圣手套	mi xie er di shen sheng shou tao	0
+战场之风云手套	zhan chang zhi feng yun shou tao	0
+艾丁斯的机械手套	ai ding si de ji xie shou tao	0
+艾丁斯的机械手套	yi ding si de ji xie shou tao	0
+艾丁斯的机械手套	ai zheng si de ji xie shou tao	0
+艾丁斯的机械手套	ai ding si di ji xie shou tao	0
+艾丁斯的机械手套	yi zheng si de ji xie shou tao	0
+艾丁斯的机械手套	yi ding si di ji xie shou tao	0
+艾丁斯的机械手套	ai zheng si di ji xie shou tao	0
+艾丁斯的机械手套	yi zheng si di ji xie shou tao	0
+无双手套	wu shuang shou tao	0
+堕天使希尔的手套	duo tian shi xi er de shou tao	0
+龙之金章	long zhi jin zhang	0
+信奘的药丸	xin zang de yao wan	0
+信奘的药丸	xin zhuang de yao wan	0
+信奘的药丸	shen zang de yao wan	0
+信奘的药丸	shen zhuang de yao wan	0
+信奘的药丸	xin zang di yao wan	0
+信奘的药丸	xin zhuang di yao wan	0
+信奘的药丸	shen zang di yao wan	0
+信奘的药丸	shen zhuang di yao wan	0
+欧文的诅咒	ou wen de zu zhou	0
+欧文的诅咒	ou wen di zu zhou	0
+神剑梁月的堕落手套	shen jian liang yue de duo luo shou tao	0
+撒旦的黯狱手套	sa dan de an yu shou tao	0
+撒旦的黯狱手套	sa dan di an yu shou tao	0
+泰拉神石	tai la shen shi	0
+杰克超级爆弹	jie ke chao ji bao dan	0
+寒霜之雪	han shuang zhi xue	0
+光电驱影石	guang dian qu ying shi	0
+光电驱影石	guang dian qu ying dan	0
+暗夜幽魂石	an ye you hun shi	0
+暗夜幽魂石	an ye you hun dan	0
+高级精灵的精炼宝石	gao ji jing ling de jing lian bao shi	0
+高级精灵的精炼宝石	gao ji jing ling di jing lian bao shi	0
+灵石玉髓	ling shi yu sui	0
+诸神之智	zhu shen zhi zhi	0
+真神的庇护	zhen shen de bi hu	0
+真神的庇护	zhen shen di bi hu	0
+圣灵之咒	sheng ling zhi zhou	0
+赫伦皇帝的的杀戮手套	he lun huang di de de sha lu shou tao	0
+赫伦皇帝的的杀戮手套	he lun huang di de di sha lu shou tao	0
+极武之魂	ji wu zhi hun	0
+天才之不败拳套	tian cai zhi bu bai quan tao	0
+无间者依奇的魔法手套	wu jian zhe yi qi de mo fa shou tao	0
+无间者依奇的魔法手套	wu jian zhe yi ji de mo fa shou tao	0
+无间者依奇的魔法手套	wu jian zhe yi qi di mo fa shou tao	0
+无间者依奇的魔法手套	wu jian zhe yi ji di mo fa shou tao	0
+玛尔的贤者手套	ma er de xian zhe shou tao	0
+玛尔的贤者手套	ma er di xian zhe shou tao	0
+风神之怒	feng shen zhi nu	0
+兰蒂卢斯的指挥手套	lan di lu si de zhi hui shou tao	0
+兰蒂卢斯的指挥手套	lan di lu si di zhi hui shou tao	0
+天族米乌的战斗手套	tian zu mi wu de zhan dou shou tao	0
+天族米乌的战斗手套	tian zu mi wu di zhan dou shou tao	0
+卢克西的狂暴手套	lu ke xi de kuang bao shou tao	0
+卢克西的狂暴手套	lu ke xi di kuang bao shou tao	0
+巫地古国之肩章	wu di gu guo zhi jian zhang	0
+巫地古国之肩章	wu de gu guo zhi jian zhang	0
+晨之凝露	chen zhi ning lu	0
+路易斯的毒神手套	lu yi si de du shen shou tao	0
+路易斯的毒神手套	lu yi si di du shen shou tao	0
+路易斯的毒神手套	lu yi si de dai shen shou tao	0
+路易斯的毒神手套	lu yi si di dai shen shou tao	0
+赫伦的杀戮手套	he lun de sha lu shou tao	0
+赫伦的杀戮手套	he lun di sha lu shou tao	0
+祈求者的召唤手套	qi qiu zhe de zhao huan shou tao	0
+觉醒之觉悟	jue xing zhi jue wu	0
+鬼剑士	gui jian shi	0
+剑魂	jian hun	0
+剑圣	jian sheng	0
+剑神	jian shen	0
+狂战士	kuang zhan shi	0
+红神	hong shen	0
+红神	gong shen	0
+红汪汪	hong wang wang	0
+红汪汪	gong wang wang	0
+狱血魔神	yu xue mo shen	0
+鬼泣	gui qi	0
+弑魂	shi hun	0
+黑暗君主	hei an jun zhu	0
+阿修罗	a xiu luo	0
+大暗黑天	da an hei tian	0
+大暗黑天	dai an hei tian	0
+大暗黑天	tai an hei tian	0
+天帝	tian di	0
+瞎子	xia zi	0
+剑术大师	jian shu da shi	0
+剑皇	jian huang	0
+猎魔者	lie mo zhe	0
+剑魔	jian mo	0
+格斗家	ge dou jia	0
+柔道家	rou dao jia	0
+风林火山	feng lin huo shan	0
+暴风眼	bao feng yan	0
+气功师	qi gong shi	0
+狂虎帝	kuang hu di	0
+百花缭乱	bai hua liao luan	0
+念帝	nian di	0
+街霸	jie ba	0
+千手罗汉	qian shou luo han	0
+毒王	du wang	0
+毒神绝	du shen jue	0
+毒神绝	dai shen jue	0
+散打	san da	0
+武极	wu ji	0
+武神	wu shen	0
+神枪手	shen qiang shou	0
+漫游枪手	man you qiang shou	0
+沾血玫瑰	zhan xue mei gui	0
+枪神	qiang shen	0
+机械师	ji xie shi	0
+机械之心	ji xie zhi xin	0
+机械战神	ji xie zhan shen	0
+弹药专家	dan yao zhuan jia	0
+大将军	da jiang jun	0
+战争女神	zhan zheng nv shen	0
+枪炮师	qiang pao shi	0
+狂暴者	kuang bao zhe	0
+重炮掌控者	zhong pao zhang kong zhe	0
+魔法师	mo fa shi	0
+元素爆破师	yuan su bao po shi	0
+魔皇	mo huang	0
+冰结师	bing jie shi	0
+冰冻之心	bing dong zhi xin	0
+元素师	yuan su shi	0
+大魔法师	da mo fa shi	0
+召唤师	zhao huan shi	0
+月之女神	yue zhi nv shen	0
+战斗法师	zhan dou fa shi	0
+战法	zhan fa	0
+贝亚娜战神	bei ya na zhan shen	0
+魔道学者	mo dao xue zhe	0
+魔术师	mo shu shi	0
+圣职者	sheng zhi zhe	0
+圣骑士	sheng qi shi	0
+天启者	tian qi zhe	0
+蓝拳圣使	lan quan sheng shi	0
+神之手	shen zhi shou	0
+驱魔师	qu mo shi	0
+龙斗士	long dou shi	0
+复仇者	fu chou zhe	0
+末日审判者	mo ri shen pan zhe	0
+暗夜使者	an ye shi zhe	0
+死灵术士	si ling shu shi	0
+灵魂收割者	ling hun shou ge zhe	0
+刺客	ci ke	0
+银月	yin yue	0
+黑暗武士	hei an wu shi	0
+缔造者	di zao zhe	0
+比利士	bi li shi	0
+亚米	ya mi	0
+红色吉祥熊猫	hong se ji xiang xiong mao	0
+蓝色吉祥熊猫	lan se ji xiang xiong mao	0
+波提斯	bo ti si	0
+波提斯	bo di si	0
+巴拉姆	ba la mu	0
+玛巴斯	ma ba si	0
+淘气虎	tao qi hu	0
+可爱虎	ke ai hu	0
+金毛球	jin mao qiu	0
+黑炭头	hei tan tou	0
+憨憨牛	han han niu	0
+冰翼之魂	bing yi zhi hun	0
+大地哥布林	da di ge bu lin	0
+精灵哥布林	jing ling ge bu lin	0
+炎息红龙	yan xi hong long	0
+冰息蓝龙	bing xi lan long	0
+兔精灵战士灵芸	tu jing ling zhan shi ling yun	0
+乘雪橇的叮叮	cheng xue qiao de ding ding	0
+乘雪橇的叮叮	sheng xue qiao de ding ding	0
+乘雪橇的叮叮	cheng xue qiao di ding ding	0
+乘雪橇的叮叮	sheng xue qiao di ding ding	0
+乘雪橇的铛铛	cheng xue qiao de dang dang	0
+乘雪橇的铛铛	sheng xue qiao de dang dang	0
+乘雪橇的铛铛	cheng xue qiao di dang dang	0
+乘雪橇的铛铛	sheng xue qiao di dang dang	0
+迷你鬼泣	mi ni gui qi	0
+迷你圣骑	mi ni sheng qi	0
+迷你魔道	mi ni mo dao	0
+迷你气功	mi ni qi gong	0
+撒共	sa gong	0
+劳姆	lao mu	0
+格刺希亚拉波斯	ge ci xi ya la bo si	0
+贝雷斯	bei lei si	0
+贝雷斯普	bei lei si pu	0
+贝雷斯普特	bei lei si pu te	0
+伊尔本	yi er ben	0
+纳扎鲁	na zha lu	0
+纳扎鲁	na za lu	0
+佛拉斯	fu la si	0
+佛拉斯	bi la si	0
+佛拉斯	bo la si	0
+佛尔卡斯	fo er ka si	0
+佛尔卡斯	fu er ka si	0
+佛尔卡斯	bi er ka si	0
+佛尔卡斯	bo er ka si	0
+菲尼克斯	fei ni ke si	0
+树精种子	shu jing zhong zi	0
+嫩芽精灵	nen ya jing ling	0
+小树精灵	xiao shu jing ling	0
+绿树精灵希尔夫	lv shu jing ling xi er fu	0
+绿树精灵希尔蒂	lv shu jing ling xi er di	0
+枫树精灵希尔夫	feng shu jing ling xi er fu	0
+枫树精灵希尔蒂	feng shu jing ling xi er di	0
+迷你哥布林	mi ni ge bu lin	0
+金钱兔	jin qian tu	0
+紫息毒龙	zi xi du long	0
+恋之独角兽	lian zhi du jiao shou	0
+星光独角兽	xing guang du jiao shou	0
+金钱哥布林	jin qian ge bu lin	0
+疯魔蓝灵龙女	feng mo lan ling long nv	0
+疯魔蓝灵龙女	feng mo lan ling long ru	0
+狂战赤血龙女	kuang zhan chi xue long nv	0
+纳兹	na zi	0
+露西	lu xi	0
+艾露莎	ai lu sha	0
+艾露莎	yi lu sha	0
+圣诞节雪人	sheng dan jie xue ren	0
+红鼻子驯鹿	hong bi zi xun lu	0
+使徒的宿命希洛克	shi tu de su ming xi luo ke	0
+使徒的宿命希洛克	shi tu di su ming xi luo ke	0
+使徒的宿命罗特斯	shi tu de su ming luo te si	0
+使徒的宿命罗特斯	shi tu di su ming luo te si	0
+使徒的宿命普雷	shi tu de su ming pu lei	0
+使徒的宿命普雷	shi tu di su ming pu lei	0
+使徒的宿命狄瑞吉	shi tu de su ming di rui ji	0
+使徒的宿命狄瑞吉	shi tu di su ming di rui ji	0
+使徒的宿命赫尔德	shi tu de su ming he er de	0
+使徒的宿命赫尔德	shi tu di su ming he er de	0
+使徒的宿命安徒恩	shi tu de su ming an tu en	0
+使徒的宿命安徒恩	shi tu di su ming an tu en	0
+使徒的宿命奥兹玛	shi tu de su ming ao zi ma	0
+使徒的宿命奥兹玛	shi tu di su ming ao zi ma	0
+使徒的宿命卡恩	shi tu de su ming ka en	0
+使徒的宿命卡恩	shi tu di su ming ka en	0
+冷艳女神	leng yan nv shen	0
+精冷艳女神	jing leng yan nv shen	0
+女中豪杰	nv zhong hao jie	0
+精女中豪杰	jing nv zhong hao jie	0
+镇国神将	zhen guo shen jiang	0
+精镇国神将	jing zhen guo shen jiang	0
+铁扇公主	tie shan gong zhu	0
+精铁扇公主	jing tie shan gong zhu	0
+风云游侠	feng yun you xia	0
+精风云游侠	jing feng yun you xia	0
+天下第一剑	tian xia di yi jian	0
+精天下第一剑	jing tian xia di yi jian	0
+御林护卫	yu lin hu wei	0
+英勇的智者	ying yong de zhi zhe	0
+英勇的智者	ying yong di zhi zhe	0
+无双的勇士	wu shuang de yong shi	0
+无双的勇士	wu shuang di yong shi	0
+守护碎片	shou hu sui pian	0
+斗志碎片	dou zhi sui pian	0
+尼努尔塔神的意志	ni nu er ta shen de yi zhi	0
+尼努尔塔神的意志	ni nu er ta shen di yi zhi	0
+生命之神的荣耀	sheng ming zhi shen de rong yao	0
+生命之神的荣耀	sheng ming zhi shen di rong yao	0
+奥西里斯神的意志	ao xi li si shen de yi zhi	0
+迦尼萨神的意志	jia ni sa shen de yi zhi	0
+海之子	hai zhi zi	0
+深海之子	shen hai zhi zi	0
+魅海之灵	mei hai zhi ling	0
+王室守备军	wang shi shou bei jun	0
+怪物的突击	guai wu de tu ji	0
+怪物的突击	guai wu di tu ji	0
+童话王国	tong hua wang guo	0
+艾丽丝柴郡猫	ai li si chai jun mao	0
+梦游仙境柴郡猫	meng you xian jing chai jun mao	0
+童话王国柴郡猫	tong hua wang guo chai jun mao	0
+童话王国爱丽丝	tong hua wang guo ai li si	0
+皇家骑士团	huang jia qi shi tuan	0
+御前亲卫	yu qian qin wei	0
+沙漠的领主	sha mo de ling zhu	0
+沙漠的领主	sha mo di ling zhu	0
+真龙之魂	zhen long zhi hun	0
+皇室尊亲	huang shi zun qin	0
+奇幻之旅	qi huan zhi lv	0
+御龙至尊	yu long zhi zun	0
+虎之魂	hu zhi hun	0
+白虎之魂	bai hu zhi hun	0
+星奇幻之旅	xing qi huan zhi lv	0
+盛世狂欢	sheng shi kuang huan	0
+尊贵黑钻会员	zun gui hei zuan hui yuan	0
+阿拉德避暑之旅	a la de bi shu zhi lv	0
+卓越的勇士	zhuo yue de yong shi	0
+海之勇者章鱼	hai zhi yong zhe zhang yu	0
+怪物猎杀者	guai wu lie sha zhe	0
+热血冒险家	re xue mao xian jia	0
+赛丽亚的朋友	sai li ya de peng you	0
+赛丽亚的朋友	sai li ya di peng you	0
+精灵守护者	jing ling shou hu zhe	0
+魔力初体验	mo li chu ti yan	0
+脱离菜鸟	tuo li cai niao	0
+光明守护者	guang ming shou hu zhe	0
+天空之城开拓者	tian kong zhi cheng kai tuo zhe	0
+基础精通者	ji chu jing tong zhe	0
+无情的伐木工	wu qing de fa mu gong	0
+章鱼捕手	zhang yu bu shou	0
+神圣的守护者	shen sheng de shou hu zhe	0
+屠龙勇士邪龙	tu long yong shi xu long	0
+屠龙勇士邪龙	tu long yong shi ya long	0
+屠龙勇士邪龙	tu long yong shi ye long	0
+屠龙勇士邪龙	tu long yong shi yu long	0
+巨人猎杀者	ju ren lie sha zhe	0
+冰心之魂	bing xin zhi hun	0
+毛皮搜集专家	mao pi sou ji zhuan jia	0
+融化的冰雪	rong hua de bing xue	0
+正义的使者	zheng yi de shi zhe	0
+正义的使者	zheng yi di shi zhe	0
+索西雅的灾星	suo xi ya de zai xing	0
+索西雅的灾星	suo xi ya di zai xing	0
+向暗黑城进军	xiang an hei cheng jin jun	0
+异能之奥秘	yi neng zhi ao mi	0
+屠龙勇士冰龙	tu long yong shi bing long	0
+开罐之王	kai guan zhi wang	0
+杂技爱好者	za ji ai hao zhe	0
+后勤补给队长	hou qin bu ji dui zhang	0
+卡勒特追击者	ka le te zhui ji zhe	0
+卡勒特追击者	qia le te zhui ji zhe	0
+卡勒特追击者	ka lei te zhui ji zhe	0
+卡勒特追击者	qia lei te zhui ji zhe	0
+铁鳞海贼团团员	tie lin hai zei tuan tuan yuan	0
+铁鳞海贼团团员	tie lin hai zei tuan tuan yun	0
+铁鳞海贼团副船长	tie lin hai zei tuan fu chuan zhang	0
+铁鳞海贼团船长	tie lin hai zei tuan chuan zhang	0
+听说爱情曾来过	ting shuo ai qing ceng lai guo	0
+听说爱情曾来过	ting shuo ai qing zeng lai guo	0
+冰龙的心爱之物	bing long de xin ai zhi wu	0
+神秘的女人	shen mi de nv ren	0
+菲茨的魔刹石	fei ci de mo cha shi	0
+菲茨的魔刹石	fei ci de mo sha shi	0
+菲茨的魔刹石	fei ci de mo cha dan	0
+菲茨的魔刹石	fei ci de mo sha dan	0
+菲茨的魔刹石	fei ci di mo cha shi	0
+菲茨的魔刹石	fei ci di mo sha shi	0
+菲茨的魔刹石	fei ci di mo cha dan	0
+菲茨的魔刹石	fei ci di mo sha dan	0
+弗曼的克星	fu man de ke xing	0
+弗曼的克星	fu man di ke xing	0
+第七使徒终结者	di qi shi tu zhong jie zhe	0
+特殊成就称号	te shu cheng jiu cheng hao	0
+终极无色流	zhong ji wu se liu	0
+影子杀手	ying zi sha shou	0
+完美一击	wan mei yi ji	0
+我是传奇	wo shi chuan qi	0
+被无视的可怜人	bei wu shi de ke lian ren	0
+被无视的可怜人	pi wu shi de ke lian ren	0
+被无视的可怜人	bei wu shi di ke lian ren	0
+被无视的可怜人	pi wu shi di ke lian ren	0
+奇迹创造者	qi ji chuang zao zhe	0
+铁鳞海贼团舰长	tie lin hai zei tuan jian zhang	0
+完美主义	wan mei zhu yi	0
+觉醒技释放狂人	jue xing ji shi fang kuang ren	0
+传说中的救世主	chuan shuo zhong de jiu shi zhu	0
+神眷顾的孩子	shen juan gu de hai zi	0
+神眷顾的孩子	shen juan gu di hai zi	0
+垃圾回收站	la ji hui shou zhan	0
+人偶之恋	ren ou zhi lian	0
+一辈子的孤单	yi bei zi de gu dan	0
+死神的邀请	si shen de yao qing	0
+死神的邀请	si shen di yao qing	0
+手动刷图王	shou dong shua tu wang	0
+被秒杀的可怜人	bei miao sha de ke lian ren	0
+被秒杀的可怜人	pi miao sha de ke lian ren	0
+被秒杀的可怜人	bei miao sha di ke lian ren	0
+被秒杀的可怜人	pi miao sha di ke lian ren	0
+刷塔狂人	shua ta kuang ren	0
+王之守护风	wang zhi shou hu feng	0
+王之守护光	wang zhi shou hu guang	0
+王之守护守护	wang zhi shou hu shou hu	0
+王之守护冰	wang zhi shou hu bing	0
+王之守护炎	wang zhi shou hu yan	0
+不灭之王波罗丁	bu mie zhi wang bo luo ding	0
+不灭之王波罗丁	bu mie zhi wang bo luo zheng	0
+不留活路	bu liu huo lu	0
+异界全能王	yi jie quan neng wang	0
+纵横异界	zong heng yi jie	0
+我是特种兵	wo shi te zhong bing	0
+金牌战略家	jin pai zhan lue jia	0
+团灭之星	tuan mie zhi xing	0
+头号危险人物	tou hao wei xian ren wu	0
+异界暴力狂	yi jie bao li kuang	0
+记忆大师	ji yi da shi	0
+节奏大师	jie zou da shi	0
+基础达标者	ji chu da biao zhe	0
+普通达标者	pu tong da biao zhe	0
+装备达人	zhuang bei da ren	0
+首饰收藏家	shou shi shou cang jia	0
+土罐的最爱	tu guan de zui ai	0
+土罐的最爱	tu guan di zui ai	0
+火罐的最爱	huo guan de zui ai	0
+火罐的最爱	huo guan di zui ai	0
+木罐的最爱	mu guan de zui ai	0
+木罐的最爱	mu guan di zui ai	0
+水罐的最爱	shui guan de zui ai	0
+水罐的最爱	shui guan di zui ai	0
+金罐的最爱	jin guan de zui ai	0
+金罐的最爱	jin guan di zui ai	0
+小灯笼的奴隶	xiao deng long de nu li	0
+小灯笼的奴隶	xiao deng long di nu li	0
+标准草莓控	biao zhun cao mei kong	0
+锐眼达人	rui yan da ren	0
+遗忘的美好	yi wang de mei hao	0
+遗忘的美好	yi wang di mei hao	0
+皇都军的蛀虫	huang dou jun de zhu chong	0
+皇都军的蛀虫	huang du jun de zhu chong	0
+皇都军的蛀虫	huang dou jun di zhu chong	0
+皇都军的蛀虫	huang du jun di zhu chong	0
+最佳顾客	zui jia gu ke	0
+稀有克隆人	xi you ke long ren	0
+快乐的饲养员	kuai le de si yang yuan	0
+徽章爱好者	hui zhang ai hao zhe	0
+多彩人生	duo cai ren sheng	0
+别样痕迹秀	bie yang hen ji xiu	0
+不幸之幸	bu xing zhi xing	0
+坠入深渊的灵魂	zhui ru shen yuan de ling hun	0
+坠入深渊的灵魂	zhui ru shen yuan di ling hun	0
+破碎的心	po sui de xin	0
+凯丽的最爱	kai li de zui ai	0
+凯丽的最爱	kai li di zui ai	0
+尊贵的客人	zun gui de ke ren	0
+决斗场终极魔王	jue dou chang zhong ji mo wang	0
+无敌幸运星	wu di xing yun xing	0
+可疑份子	ke yi fen zi	0
+噪音发源地	zao yin fa yuan di	0
+巴卡尔之谜	ba ka er zhi mi	0
+唯一的输血者	wei yi de shu xue zhe	0
+无止尽的堕落	wu zhi jin de duo luo	0
+无止尽的堕落	wu zhi jin di duo luo	0
+绝望之塔称号	jue wang zhi ta cheng hao	0
+绝望的开始	jue wang de kai shi	0
+疾刀流	ji dao liu	0
+特种侦察兵	te zhong zhen cha bing	0
+折翼的翅膀	zhe yi de chi bang	0
+折翼的翅膀	zhe yi di chi bang	0
+神枪丽影	shen qiang li ying	0
+王之恋	wang zhi lian	0
+华丽的绝杀	hua li de jue sha	0
+鬼影魔音	gui ying mo yin	0
+狂野派对	kuang ye pai dui	0
+花花公子	hua hua gong zi	0
+卡米娜部队	ka mi na bu dui	0
+卡米娜部队	ka mi nuo bu dui	0
+法米利尔掌控者	fa mi li er zhang kong zhe	0
+暗影来袭	an ying lai xi	0
+疾风骤雨	ji feng zhou yu	0
+谜样的人生	mi yang de ren sheng	0
+神之结界	shen zhi jie jie	0
+猫女的魅惑	mao nv de mei huo	0
+猫女的魅惑	mao nv di mei huo	0
+寻踪高手	xun zong gao shou	0
+玩偶之家	wan ou zhi jia	0
+火力对决	huo li dui jue	0
+堕落的陨石	duo luo de yun shi	0
+堕落的陨石	duo luo di yun shi	0
+燃烧的生命	ran shao de sheng ming	0
+绝地猎豹者	jue di lie bao zhe	0
+御剑之魂	yu jian zhi hun	0
+机械战队	ji xie zhan dui	0
+升龙武神	sheng long wu shen	0
+逃离风暴漩涡	tao li feng bao xuan wo	0
+最佳司机	zui jia si ji	0
+拳王争霸	quan wang zheng ba	0
+魔幻之境	mo huan zhi jing	0
+沉静的灵魂	chen jing de ling hun	0
+沉静的灵魂	chen jing di ling hun	0
+暗影血剑	an ying xue jian	0
+异兽之眼	yi shou zhi yan	0
+黑色裂变	hei se lie bian	0
+被诅咒的子弹	bei zu zhou de zi dan	0
+被诅咒的子弹	pi zu zhou de zi dan	0
+被诅咒的子弹	bei zu zhou di zi dan	0
+被诅咒的子弹	pi zu zhou di zi dan	0
+将军令	jiang jun ling	0
+亡灵十字架	wang ling shi zi jia	0
+银狐传说	yin hu chuan shuo	0
+凤舞狂沙	feng wu kuang sha	0
+地狱训练	di yu xun lian	0
+胜利的曙光	sheng li de shu guang	0
+末日侵袭	mo ri qin xi	0
+法力猎食者	fa li lie shi zhe	0
+幻魔之眼	huan mo zhi yan	0
+万兽之皇	wan shou zhi huang	0
+万兽之皇	mo shou zhi huang	0
+神剑之巅	shen jian zhi dian	0
+角斗场称号	jue dou chang cheng hao	0
+决斗入门者	jue dou ru men zhe	0
+决斗新鲜者	jue dou xin xian zhe	0
+决斗爱好者	jue dou ai hao zhe	0
+一段斗士	yi duan dou shi	0
+四段高手	si duan gao shou	0
+七段达人	qi duan da ren	0
+至尊达人	zhi zun da ren	0
+决斗大师	jue dou da shi	0
+谁与争锋	shui yu zheng feng	0
+初露头角	chu lu tou jiao	0
+小试牛刀	xiao shi niu dao	0
+斗士之勇	dou shi zhi yong	0
+锋芒毕露	feng mang bi lu	0
+胜者为王	sheng zhe wei wang	0
+所向无敌	suo xiang wu di	0
+孤独求败	gu du qiu bai	0
+决斗之皇	jue dou zhi huang	0
+英雄无敌	ying xiong wu di	0
+长胜将军	chang sheng jiang jun	0
+强者逆袭	qiang zhe ni xi	0
+淡定的人生	dan ding de ren sheng	0
+瞬杀之道	shun sha zhi dao	0
+战无不克	zhan wu bu ke	0
+双杀至尊	shuang sha zhi zun	0
+生化禁区称号簿	sheng hua jin qu cheng hao bu	0
+生化禁区称号簿	sheng hua jin qu cheng hao bo	0
+生化禁区初体验	sheng hua jin qu chu ti yan	0
+僵尸狂欢夜	jiang shi kuang huan ye	0
+探索恐怖之源	tan suo kong bu zhi yuan	0
+生化禁区歼灭战	sheng hua jin qu jian mie zhan	0
+杜绝僵尸	du jue jiang shi	0
+我是生存王	wo shi sheng cun wang	0
+生化禁区征服者	sheng hua jin qu zheng fu zhe	0
+章鱼猎人	zhang yu lie ren	0
+阿拉德初阶格斗家	a la de chu jie ge dou jia	0
+冰之塔拉库沓团员	bing zhi ta la ku da tuan yuan	0
+冰之塔拉库沓团员	bing zhi ta la ku ta tuan yuan	0
+奥斯巴格林尼达	ao si ba ge lin ni da	0
+平凡的灵魂精髓	ping fan de ling hun jing sui	0
+淬炼的灵魂精髓	cui lian de ling hun jing sui	0
+淬炼的灵魂精髓	cui lian di ling hun jing sui	0
+强韧的灵魂精髓	qiang ren de ling hun jing sui	0
+强韧的灵魂精髓	qiang ren di ling hun jing sui	0
+疯狂囧克	feng kuang jiong ke	0
+烈炎之手波尔拉	lie yan zhi shou bo er la	0
+冻死的剑士歌拉斯	dong si de jian shi ge la si	0
+冻死的剑士歌拉斯	dong si di jian shi ge la si	0
+贤智的萨姆	xian zhi de sa mu	0
+贤智的萨姆	xian zhi di sa mu	0
+疾行者霍利奥	ji xing zhe huo li ao	0
+疾行者霍利奥	ji xing zhe huo li yu	0
+克里斯汀罗纳尔多	ke li si ting luo na er duo	0
+雷剑克鲁斯	lei jian ke lu si	0
+爆炎里格哈文	bao yan li ge ha wen	0
+天罗的索雅娜	tian luo de suo ya na	0
+天罗的索雅娜	tian luo di suo ya na	0
+暴风雪雀瑟	bao feng xue que se	0
+暴风雪雀瑟	bao feng xue qiao se	0
+猥琐的萨摩拉纳	wei suo de sa mo la na	0
+猥琐的萨摩拉纳	wei suo di sa mo la na	0
+喋喋不休宇郭	die die bu xiu yu guo	0
+德利拉	de li la	0
+死亡之纳特亚	si wang zhi na te ya	0
+爆头狂人巴迪斯坦	bao tou kuang ren ba di si tan	0
+飓风博尔赫	ju feng bo er he	0
+疯癫的莉莉	feng dian de li li	0
+疯癫的莉莉	feng dian di li li	0
+长三郎	chang san lang	0
+长三郎	zhang san lang	0
+希苏拉	xi su la	0
+可爱的哈尼	ke ai de ha ni	0
+拉特雷亚	la te lei ya	0
+蕾娜	lei na	0
+臭水沟公主帕丽丝	chou shui gou gong zhu pa li si	0
+幽灵新娘	you ling xin niang	0
+流浪佣兵涅扎德	liu lang yong bing nie zha de	0
+遗迹少女	yi ji shao nv	0
+痛苦的魔皇	tong ku de mo huang	0
+埃尼欧	ai ni ou	0
+暗夜罗莎	an ye luo sha	0
+诺伊尔本	nuo yi er ben	0
+比尔马克的变异少女	bi er ma ke de bian yi shao nv	0
+比尔马克的变异少女	bi er ma ke di bian yi shao nv	0
+虔诚的费纳音	qian cheng de fei na yin	0
+虔诚的费纳音	qian cheng di fei na yin	0
+村长哈克	cun zhang ha ke	0
+从天界掉落的加西尔	cong tian jie diao luo de jia xi er	0
+从天界掉落的加西尔	cong tian jie diao luo di jia xi er	0
+长发魔杰特	chang fa mo jie te	0
+疾刀流红绫	ji dao liu hong ling	0
+金发公主泰勒	jin fa gong zhu tai le	0
+侦察兵朱诺	zhen cha bing zhu nuo	0
+狂暴者迪娜	kuang bao zhe di na	0
+神枪手娜娜	shen qiang shou na na	0
+王的女人莱伊	wang de nv ren lai yi	0
+中年人库兰	zhong nian ren ku lan	0
+狂斧者雷阿诺	kuang fu zhe lei a nuo	0
+炼药师米尔诺	lian yao shi mi er nuo	0
+尚武者穆迪沙	shang wu zhe mu di sha	0
+时尚潮人尼尔	shi shang chao ren ni er	0
+鬼影剑萧风	gui ying jian xiao feng	0
+恶臭者波利亚	e chou zhe bo li ya	0
+愤怒的艾尔卡	fen nu de ai er ka	0
+愤怒的艾尔卡	fen nu de ai er qia	0
+花花公子瑞克麦	hua hua gong zi rui ke mai	0
+驱魔师明虎	qu mo shi ming hu	0
+卡米娜部队成员	ka mi na bu dui cheng yuan	0
+卡米娜部队成员	ka mi nuo bu dui cheng yuan	0
+苍松丘伯莉	cang song qiu bo li	0
+苍松丘伯莉	cang song qiu bai li	0
+苍松丘伯莉	cang song qiu ba li	0
+红枫洛伊塔	hong feng luo yi ta	0
+白桦欧妮雅	bai hua ou ni ya	0
+黑莲艾芙拉	hei lian ai fu la	0
+黑印珠流虎	hei yin zhu liu hu	0
+黑影乌兰	hei ying wu lan	0
+无影脚菲儿	wu ying jiao fei er	0
+异能者拉维特	yi neng zhe la wei te	0
+结界师金龙法王	jie jie shi jin long fa wang	0
+神投手兰蒂斯	shen tou shou lan di si	0
+猫女缪缪	mao nv mu mu	0
+猫女缪缪	mao nv miu mu	0
+猫女缪缪	mao nv miao mu	0
+猫女缪缪	mao nv mu miu	0
+猫女缪缪	mao nv miu miu	0
+猫女缪缪	mao nv miao miu	0
+猫女缪缪	mao nv mu miao	0
+猫女缪缪	mao nv miu miao	0
+猫女缪缪	mao nv miao miao	0
+猫女缪缪	mao nv mu mou	0
+猫女缪缪	mao nv miu mou	0
+猫女缪缪	mao nv miao mou	0
+猫女缪缪	mao nv mou mu	0
+猫女缪缪	mao nv mou miu	0
+猫女缪缪	mao nv mou miao	0
+猫女缪缪	mao nv liao miu	0
+猫女缪缪	mao nv liao mu	0
+猫女缪缪	mao nv liao miao	0
+猫女缪缪	mao nv miao liao	0
+猫女缪缪	mao nv miu liao	0
+猫女缪缪	mao nv mu liao	0
+猫女缪缪	mao nv mou mou	0
+猫女缪缪	mao nv liao mou	0
+猫女缪缪	mao nv mou liao	0
+猫女缪缪	mao nv liao liao	0
+极影者希克娜	ji ying zhe xi ke na	0
+极影者希克娜	ji ying zhe xi ke nuo	0
+疯狂的卡雷娅	feng kuang de ka lei ya	0
+疯狂的卡雷娅	feng kuang de qia lei ya	0
+美腿朱莉	mei tui zhu li	0
+威尔斯麦龙	wei er si mai long	0
+火舞鞋丽丝	huo wu xie li si	0
+龙王卡西斯	long wang ka xi si	0
+分身达人奥洛特	fen shen da ren ao luo te	0
+分身达人奥洛特	fen shen da ren yu luo te	0
+黑豹罗奇	hei bao luo qi	0
+御剑之魂莫希斯	yu jian zhi hun mo xi si	0
+机械巡逻队	ji xie xun luo dui	0
+升龙武神欧丽	sheng long wu shen ou li	0
+基情的罗塞夫	ji qing de luo se fu	0
+基情的罗塞夫	ji qing di luo sai fu	0
+基情的罗塞夫	ji qing di luo se fu	0
+驾驶达人梅诺	jia shi da ren mei nuo	0
+狂暴者伊克西亚	kuang bao zhe yi ke xi ya	0
+黄金蝶之梅克琳	huang jin die zhi mei ke lin	0
+拳王阿里	quan wang a li	0
+挑战者乌斯	tiao zhan zhe wu si	0
+迷你沙洛特	mi ni sha luo te	0
+巨人吉安特	ju ren ji an te	0
+追猎者海莉	zhui lie zhe hai li	0
+三个愿望嘉芭	san ge yuan wang jia ba	0
+血剑红梅	xue jian hong mei	0
+灵魂师娜米	ling hun shi na mi	0
+糖果甜心之香草	tang guo tian xin zhi xiang cao	0
+糖果甜心之柠檬	tang guo tian xin zhi ning meng	0
+糖果甜心之苹果	tang guo tian xin zhi ping guo	0
+糖果甜心之樱桃	tang guo tian xin zhi ying tao	0
+糖果甜心之猕猴桃	tang guo tian xin zhi mi hou tao	0
+被诅咒的欧文	bei zu zhou de ou wen	0
+被诅咒的欧文	pi zu zhou de ou wen	0
+被诅咒的欧文	bei zu zhou di ou wen	0
+被诅咒的欧文	pi zu zhou di ou wen	0
+球王菲尔丝	qiu wang fei er si	0
+驯兽师肯妮亚	xun shou shi ken ni ya	0
+变异的帕西泽	bian yi de pa xi ze	0
+变异的帕西泽	bian yi di pa xi ze	0
+变异的帕西泽	bian yi de pa xi shi	0
+变异的帕西泽	bian yi di pa xi shi	0
+鬼泣里恩	gui qi li en	0
+枪炮大师布朗	qiang pao da shi bu lang	0
+魔弹持有者蕾娜	mo dan chi you zhe lei na	0
+魔弹持有者蕾娜	mo tan chi you zhe lei na	0
+气功大师风莲	qi gong da shi feng lian	0
+黑暗骑士	hei an qi shi	0
+穆尼斯博士	mu ni si bo shi	0
+幸运迪加尔	xing yun di jia er	0
+花郎道	hua lang dao	0
+阿修罗狂魔	a xiu luo kuang mo	0
+机械师青空	ji xie shi qing kong	0
+图卢瓦的主人马塞洛	tu lu wa de zhu ren ma sai luo	0
+图卢瓦的主人马塞洛	tu lu wa de zhu ren ma se luo	0
+银狐诗玛	yin hu shi ma	0
+控沙者拉玛	kong sha zhe la ma	0
+地狱之手幽茗	di yu zhi shou you ming	0
+长兵器达人明菲	chang bing qi da ren ming fei	0
+疯拳达尔	feng quan da er	0
+魔鬼教官金龙浩	mo gui jiao guan jin long hao	0
+拳皇泰亨	quan huang tai heng	0
+拳皇泰亨	quan huang tai peng	0
+堕落天使希尔	duo luo tian shi xi er	0
+觉醒后的巴伦	jue xing hou de ba lun	0
+堕落的陨石梅丝塔	duo luo de yun shi mei si ta	0
+堕落的陨石梅丝塔	duo luo di yun shi mei si ta	0
+思乡者艾丁斯	si xiang zhe ai ding si	0
+思乡者艾丁斯	si xiang zhe yi ding si	0
+思乡者艾丁斯	si xiang zhe ai zheng si	0
+思乡者艾丁斯	si xiang zhe yi zheng si	0
+法力猎食者迪纳斯	fa li lie shi zhe di na si	0
+剑圣索德罗斯	jian sheng suo de luo si	0
+四次元的摩基丝	si ci yuan de mo ji si	0
+四次元的摩基丝	si ci yuan di mo ji si	0
+四次元的摩基丝	si ci yuan de ma ji si	0
+四次元的摩基丝	si ci yuan di ma ji si	0
+万兽之王明皓	wan shou zhi wang ming hao	0
+危险进化之特鲁西亚	wei xian jin hua zhi te lu xi ya	0
+神剑梁月	shen jian liang yue	0
+骨剑士杰诺	gu jian shi jie nuo	0
+十五岁的库兰	shi wu sui de ku lan	0
+十五岁的库兰	shi wu sui di ku lan	0
+斯米拉的孩子	si mi la de hai zi	0
+斯米拉的孩子	si mi la di hai zi	0
+毒蛇炮狂人落伊斯	du she pao kuang ren luo yi si	0
+毒蛇炮狂人落伊斯	du she pao kuang ren la yi si	0
+毒蛇炮狂人落伊斯	du she bao kuang ren luo yi si	0
+毒蛇炮狂人落伊斯	du she bao kuang ren la yi si	0
+普利坦领主迪恩	pu li tan ling zhu di en	0
+迪斯科达人伊瓦	di si ke da ren yi wa	0
+浴火凤凰帕尼克	yu huo feng huang pa ni ke	0
+传说的教官巴顿	chuan shuo de jiao guan ba dun	0
+传说的教官巴顿	chuan shuo di jiao guan ba dun	0
+苦行者克洛德	ku xing zhe ke luo de	0
+人偶师可可	ren ou shi ke ke	0
+封印石	feng yin dan	0
+黑猪布欧	hei zhu bu ou	0
+恶灵艾维丝	e ling ai wei si	0
+极刃武者	ji ren wu zhe	0
+蒙面哥布林	meng mian ge bu lin	0
+暗影龙	an ying long	0
+多重人格祭坛信徒	duo chong ren ge ji tan xin tu	0
+班图族潘	ban tu zu pan	0
+班图族奈尔	ban tu zu nai er	0
+木乃伊	mu nai yi	0
+光辉之阿伽门农	guang hui zhi a jia men nong	0
+激情的解说员	ji qing de jie shuo yuan	0
+天堂漫步者	tian tang man bu zhe	0
+骷髅王	ku lou wang	0
+光炎里克特	guang yan li ke te	0
+崩拳赫罗菲	beng quan he luo fei	0
+塞利提精锐长枪兵	sai li ti jing rui chang qiang bing	0
+塞利提精锐长枪兵	se li ti jing rui chang qiang bing	0
+塞利提精锐长枪兵	sai li di jing rui chang qiang bing	0
+塞利提精锐长枪兵	se li di jing rui chang qiang bing	0
+狮子王理查德	shi zi wang li cha de	0
+鬼魂系痛苦女王	gui hun xi tong ku nv wang	0
+鬼魂系痛苦女王	gui hun ji tong ku nv wang	0
+星弹迪克帕克	xing dan di ke pa ke	0
+星弹迪克帕克	xing tan di ke pa ke	0
+卡勒特旧部	ka le te jiu bu	0
+卡勒特旧部	qia le te jiu bu	0
+卡勒特旧部	ka lei te jiu bu	0
+卡勒特旧部	qia lei te jiu bu	0
+银光魔法团	yin guang mo fa tuan	0
+旋风伊莎顿	xuan feng yi sha dun	0
+只召唤使徒不卡	zhi zhao huan shi tu bu ka	0
+夜叉	ye cha	0
+巨型黑章鱼	ju xing hei zhang yu	0
+漫游者麦吉	man you zhe mai ji	0
+牛头统帅	niu tou tong shuai	0
+机械吉赛尔	ji xie ji sai er	0
+哥布林王高格	ge bu lin wang gao ge	0
+安祖赛弗	an zu sai fu	0
+伊沙杜拉	yi sha du la	0
+机械顽童咕噜	ji xie wan tong gu lu	0
+诺丝克尔	nuo si ke er	0
+狄瑞吉的幻影	di rui ji de huan ying	0
+狄瑞吉的幻影	di rui ji di huan ying	0
+范弗拉丁	fan fu la ding	0
+混沌之奥兹玛	hun dun zhi ao zi ma	0
+比特伯斯提	bi te bo si ti	0
+比特伯斯提	bi te bai si ti	0
+比特伯斯提	bi te ba si ti	0
+比特伯斯提	bi te bo si di	0
+比特伯斯提	bi te bai si di	0
+比特伯斯提	bi te ba si di	0
+机械臂捷克	ji xie bi jie ke	0
+机械臂捷克	ji xie bei jie ke	0
+兽王乌塔拉	shou wang wu ta la	0
+虫王戮蛊	chong wang lu gu	0
+黑鳞莫贝尼	hei lin mo bei ni	0
+黑鳞莫贝尼	hei lin mu bei ni	0
+诡异的书架	gui yi de shu jia	0
+希特拉克	xi te la ke	0
+狂乱的伪装者	kuang luan de wei zhuang zhe	0
+狂乱的伪装者	kuang luan di wei zhuang zhe	0
+卡特罗	ka te luo	0
+魔女阿嘉璐	mo nv a jia lu	0
+魔女阿嘉璐	mo nv e jia lu	0
+杰森格里克	jie sen ge li ke	0
+巨灵布鲁	ju ling bu lu	0
+烈焰彼诺修	lie yan bi nuo xiu	0
+黑色瘟疫狄瑞吉	hei se wen yi di rui ji	0
+光之城主赛格哈特	guang zhi cheng zhu sai ge ha te	0
+年轻时的斯卡萨	nian qing shi de si ka sa	0
+年轻时的斯卡萨	nian qing shi di si ka sa	0
+莫格尼斯	mo ge ni si	0
+圣者米歇尔	sheng zhe mi xie er	0
+贝里斯克	bei li si ke	0
+魔女莉斯	mo nv li si	0
+沉默的亨普利	chen mo de heng pu li	0
+沉默的亨普利	chen mo de peng pu li	0
+梅迪亚	mei di ya	0
+骷髅凯恩	ku lou kai en	0
+首领萨斯	shou ling sa si	0
+空间支配者伽乌尼斯	kong jian zhi pei zhe ga wu ni si	0
+空间支配者伽乌尼斯	kong jian zhi pei zhe qie wu ni si	0
+空间支配者伽乌尼斯	kong jian zhi pei zhe jia wu ni si	0
+雪崩拉比纳	xue beng la bi na	0
+寒冰巨人利库	han bing ju ren li ku	0
+小美人鱼空空伊	xiao mei ren yu kong kong yi	0
+冰雪女王洛丝	bing xue nv wang luo si	0
+冰龙斯卡萨	bing long si ka sa	0
+歌利亚	ge li ya	0
+炎之古拉德	yan zhi gu la de	0
+纵火犯本汀克	zong huo fan ben ting ke	0
+烈焰盾波迪尔	lie yan dun bo di er	0
+牛头械王	niu tou xie wang	0
+疯狂盗匪	feng kuang dao fei	0
+凯恩	kai en	0
+邪龙斯皮兹	xie long si pi zi	0
+邪龙斯皮兹	xu long si pi zi	0
+邪龙斯皮兹	ya long si pi zi	0
+邪龙斯皮兹	ye long si pi zi	0
+邪龙斯皮兹	yu long si pi zi	0
+邪龙斯皮兹	xie long si pi ci	0
+邪龙斯皮兹	xu long si pi ci	0
+邪龙斯皮兹	ya long si pi ci	0
+邪龙斯皮兹	ye long si pi ci	0
+邪龙斯皮兹	yu long si pi ci	0
+公爵尤里斯	gong jue you li si	0
+吟游诗人艾丽丝	yin you shi ren ai li si	0
+德拉尔	de la er	0
+图卢斯族男精英战士	tu lu si zu nan jing ying zhan shi	0
+蓝影马萨乔	lan ying ma sa qiao	0
+尼尔巴斯格拉西亚	ni er ba si ge la xi ya	0
+暴龙王巴克尔	bao long wang ba ke er	0
+史莱姆王	shi lai mu wang	0
+卡姆拉	ka mu la	0
+地狱哥布林直升机	di yu ge bu lin zhi sheng ji	0
+老鼠商人洛克沙	lao shu shang ren luo ke sha	0
+老中士	lao zhong shi	0
+倔强的哈尼克	jue jiang de ha ni ke	0
+倔强的哈尼克	jue jiang di ha ni ke	0
+犬使摩震	quan shi mo zhen	0
+犬使摩震	quan shi ma zhen	0
+派普乔	pai pu qiao	0
+地狱三头犬	di yu san tou quan	0
+暴戾搜捕团祭祀诺比斯	bao li sou bu tuan ji si nuo bi si	0
+毒葡萄艾米迪	du pu tao ai mi di	0
+毒葡萄艾米迪	dai pu tao ai mi di	0
+莱里特拉里	lai li te la li	0
+西克特帕菲斯	xi ke te pa fei si	0
+魔雷者麦瑟莫纳亨	mo lei zhe mai se mo na heng	0
+魔雷者麦瑟莫纳亨	mo lei zhe mai se mo na peng	0
+堕落的阿索尔	duo luo de a suo er	0
+堕落的阿索尔	duo luo di a suo er	0
+堕落的阿索尔	duo luo de e suo er	0
+堕落的阿索尔	duo luo di e suo er	0
+牛头护卫	niu tou hu wei	0
+牛头巨兽	niu tou ju shou	0
+巨树守护者罗丁	ju shu shou hu zhe luo ding	0
+巨树守护者罗丁	ju shu shou hu zhe luo zheng	0
+火箭侠	huo jian xia	0
+沙影贝利特	sha ying bei li te	0
+泰坦	tai tan	0
+裴特舒帕菲斯	pei te shu pa fei si	0
+锤王波罗丁	chui wang bo luo ding	0
+锤王波罗丁	chui wang bo luo zheng	0
+森林魔法师	sen lin mo fa shi	0
+奈普克拉斯	nai pu ke la si	0
+鲁斯欧拉	lu si ou la	0
+塞斯奇	sai si qi	0
+塞斯奇	se si qi	0
+塞斯奇	sai si ji	0
+塞斯奇	se si ji	0
+堕落的信徒	duo luo de xin tu	0
+机动队长苏雷德	ji dong dui chang su lei de	0
+机动队长苏雷德	ji dong dui zhang su lei de	0
+无头骑士	wu tou qi shi	0
+斧之驱逐者	fu zhi qu zhu zhe	0
+冰齿沙凡特	bing chi sha fan te	0
+刀疤鼠	dao ba shu	0
+杀人狂伯纳	sha ren kuang bo na	0
+幼年赫斯	you nian he si	0
+爆弹卡格	bao dan ka ge	0
+爆弹卡格	bao dan qia ge	0
+十夫长	shi fu chang	0
+十夫长	shi fu zhang	0
+梦幻列车长拉宾特	meng huan lie che zhang la bin te	0
+猫妖	mao yao	0
+小枪手空空伊	xiao qiang shou kong kong yi	0
+摩震的猎犬	mo zhen de lie quan	0
+摩震的猎犬	ma zhen de lie quan	0
+摩震的猎犬	mo zhen di lie quan	0
+摩震的猎犬	ma zhen di lie quan	0
+犬人哈多	quan ren ha duo	0
+青哥布林	qing ge bu lin	0
+班图女战士	ban tu nv zhan shi	0
+暗精灵护卫	an jing ling hu wei	0
+狙击手艾丽格	ju ji shou ai li ge	0
+恐怖之阿斯特罗斯	kong bu zhi a si te luo si	0
+夜视镜卡格	ye shi jing ka ge	0
+夜视镜卡格	ye shi jing qia ge	0
+黄金巨人普拉塔尼	huang jin ju ren pu la ta ni	0
+火焰龙头炮	huo yan long tou pao	0
+火焰龙头炮	huo yan long tou bao	0
+树精长老	shu jing zhang lao	0
+岩石人偶师	yan shi ren ou shi	0
+章鱼怪	zhang yu guai	0
+弗莱尔斯伯恩	fu lai er si bo en	0
+蜘蛛	zhi zhu	0
+武极高手全圣武	wu ji gao shou quan sheng wu	0
+怨恨之摩根	yuan hen zhi mo gen	0
+吞灵者	tun ling zhe	0
+木本植物	mu ben zhi wu	0
+研究院哈雷娜	yan jiu yuan ha lei na	0
+研究院哈雷娜	yan jiu yuan ha lei nuo	0
+阿伽门农	a jia men nong	0
+骷髅骑士	ku lou qi shi	0
+饿鬼达鲁	e gui da lu	0
+突击队长兰蒂卢斯	tu ji dui chang lan di lu si	0
+突击队长兰蒂卢斯	tu ji dui zhang lan di lu si	0
+驯兽师伽罗华	xun shou shi ga luo hua	0
+尚武者伦茨	shang wu zhe lun ci	0
+怪力变异者波杰斯	guai li bian yi zhe bo jie si	0
+炎猫妖	yan mao yao	0
+魔法变异者霍伊恩	mo fa bian yi zhe huo yi en	0
+幻影变异者欧克瑟	huan ying bian yi zhe ou ke se	0
+灵幻师	ling huan shi	0
+虚空之弗曼	xu kong zhi fu man	0
+闪电之帕特里斯	shan dian zhi pa te li si	0
+业火之菲茨	ye huo zhi fei ci	0
+熔弹萨缪尔	rong dan sa miu er	0
+熔弹萨缪尔	rong tan sa miu er	0
+雷鸣之帕米斯	lei ming zhi pa mi si	0
+巨型火焰史莱姆	ju xing huo yan shi lai mu	0
+巨人波图拉	ju ren bo tu la	0
+跟踪狂普莱尼	gen zong kuang pu lai ni	0
+木瓜	mu gua	0
+营养蘑菇	ying yang mo gu	0
+黑橡果	hei xiang guo	0
+猛兽的利齿	meng shou de li chi	0
+猛兽的利齿	meng shou di li chi	0
+亮丽的郁金香	liang li de yu jin xiang	0
+亮丽的郁金香	liang li di yu jin xiang	0
+五彩珊瑚碎片	wu cai shan hu sui pian	0
+天然奶酪	tian ran nai lao	0
+香霉菌	xiang mei jun	0
+魔法珍珠	mo fa zhen zhu	0
+鹤的翅膀	he de chi bang	0
+鹤的翅膀	he di chi bang	0
+平凡的冒险家灵魂	ping fan de mao xian jia ling hun	0
+淬炼的冒险家灵魂	cui lian de mao xian jia ling hun	0
+淬炼的冒险家灵魂	cui lian di mao xian jia ling hun	0
+强韧的冒险家灵魂	qiang ren de mao xian jia ling hun	0
+强韧的冒险家灵魂	qiang ren di mao xian jia ling hun	0
+怪异的蛋	guai yi de dan	0
+鲸须	jing xu	0
+怪兽的角	guai shou de jiao	0
+怪兽的角	guai shou di jiao	0
+怪兽的角	guai shou de jue	0
+怪兽的角	guai shou di jue	0
+香瓜	xiang gua	0
+厚实的肉块	hou shi de rou kuai	0
+蜂蜜	feng mi	0
+粗蒜	cu suan	0
+辣椒	la jiao	0
+神之印章	shen zhi yin zhang	0
+海龟壳	hai gui ke	0
+海龟壳	hai gui qiao	0
+黄金粉末	huang jin fen mo	0
+干燥的水仙花	gan zao de shui xian hua	0
+干燥的水仙花	gan zao di shui xian hua	0
+生命之息	sheng ming zhi xi	0
+白萝卜	bai luo bo	0
+蜘蛛蘑菇	zhi zhu mo gu	0
+魔力溶解剂	mo li rong jie ji	0
+龙之心	long zhi xin	0
+百年野参	bai nian ye shen	0
+道具	dao ju	0
+复活币	fu huo bi	0
+遗忘之契约	yi wang zhi qi yue	0
+美好的祝福宝珠	mei hao de zhu fu bao zhu	0
+魔界抗疲劳秘药	mo jie kang pi lao mi yao	0
+决斗场技能变更卷	jue dou chang ji neng bian geng juan	0
+黄金装扮合成器	huang jin zhuang ban he cheng qi	0
+装扮属性调整箱	zhuang ban shu xing tiao zheng xiang	0
+史诗跨界石武器	shi shi kua jie shi wu qi	0
+史诗跨界石武器	shi shi kua jie dan wu qi	0
+史诗跨界石首饰	shi shi kua jie shi shou shi	0
+史诗跨界石防具	shi shi kua jie shi fang ju	0
+史诗跨界石防具	shi shi kua jie dan fang ju	0
+神器跨界石	shen qi kua jie shi	0
+神器跨界石	shen qi kua jie dan	0
+异界气息清除卷轴	yi jie qi xi qing chu juan zhou	0
+无限猫头鹰	wu xian mao tou ying	0
+物品栏扩展卷	wu pin lan kuo zhan juan	0
+金库升级工具	jin ku sheng ji gong ju	0
+花舞之春礼盒	hua wu zhi chun li he	0
+遗忘河之水	yi wang he zhi shui	0
+净化圣水	jing hua sheng shui	0
+装备品级调整箱	zhuang bei pin ji tiao zheng xiang	0
+装扮合成器	zhuang ban he cheng qi	0
+黄金蜜蜡	huang jin mi la	0
+稀有装扮兑换券	xi you zhuang ban dui huan quan	0
+服务器喇叭	fu wu qi la ba	0
+频道喇叭	pin dao la ba	0
+纯净的灵魂气息	chun jing de ling hun qi xi	0
+解除特效符文	jie chu te xiao fu wen	0
+武器特效符文桃花	wu qi te xiao fu wen tao hua	0
+入场重置卷	ru chang chong zhi juan	0
+功能类	gong neng lei	0
+武斗大会资格礼包	wu dou da hui zi ge li bao	0
+绝望之邀请函	jue wang zhi yao qing han	0
+深渊派对通行证根特	shen yuan pai dui tong xing zheng gen te	0
+深渊派对通行证	shen yuan pai dui tong xing zheng	0
+恢复类	hui fu lei	0
+雷米的援助	lei mi de yuan zhu	0
+雷米的援助	lei mi di yuan zhu	0
+雷米之吻	lei mi zhi wen	0
+魔力果汁	mo li guo zhi	0
+守护气息	shou hu qi xi	0
+祝福气息	zhu fu qi xi	0
+优惠	you hui	0
+魔王之契约	mo wang zhi qi yue	0
+成长之契约	cheng zhang zhi qi yue	0
+技能类型扩展卷	ji neng lei xing kuo zhan juan	0
+拍卖行优惠劵	pai mai hang you hui juan	0
+达人之契约	da ren zhi qi yue	0
+霸王之契约	ba wang zhi qi yue	0
+角色更名卡	jue se geng ming ka	0
+角色更名卡	jue se geng ming qia	0
+装饰类	zhuang shi lei	0
+花样美男	hua yang mei nan	0
+倾城美女	qing cheng mei nv	0
+温柔丑男	wen rou chou nan	0
+善良丑女	shan liang chou nv	0
+我是男人	wo shi nan ren	0
+我是女人	wo shi nv ren	0
+稻草人	dao cao ren	0
+枫叶	feng ye	0
+西瓜	xi gua	0
+沙滩	sha tan	0
+向日葵	xiang ri kui	0
+桃花	tao hua	0
+火龙	huo long	0
+冰龙	bing long	0
+蘑菇	mo gu	0
+白云	bai yun	0
+蝴蝶结	hu die jie	0
+椰树	ye shu	0
+花丛	hua cong	0
+混沌傲武凌云头饰	hun dun ao wu ling yun tou shi	0
+混沌傲武凌云耳饰	hun dun ao wu ling yun er shi	0
+混沌傲武凌云战甲	hun dun ao wu ling yun zhan jia	0
+混沌傲武凌云腰带	hun dun ao wu ling yun yao dai	0
+混沌傲武凌云长发	hun dun ao wu ling yun chang fa	0
+混沌傲武凌云翅膀	hun dun ao wu ling yun chi bang	0
+混沌傲武凌云胫甲	hun dun ao wu ling yun jing jia	0
+混沌傲武凌云战靴	hun dun ao wu ling yun zhan xue	0
+冥炎游龙惊鸿头饰	ming yan you long jing hong tou shi	0
+冥炎游龙惊鸿碎发	ming yan you long jing hong sui fa	0
+冥炎游龙惊鸿口罩	ming yan you long jing hong kou zhao	0
+冥炎游龙惊鸿披风	ming yan you long jing hong pi feng	0
+冥炎游龙惊鸿胸甲	ming yan you long jing hong xiong jia	0
+冥炎游龙惊鸿护腿	ming yan you long jing hong hu tui	0
+冥炎游龙惊鸿腰甲	ming yan you long jing hong yao jia	0
+冥炎游龙惊鸿长靴	ming yan you long jing hong chang xue	0
+神剑术破空斩	shen jian shu po kong zhan	0
+神剑术破空斩	shen jian zhu po kong zhan	0
+神剑术流星落	shen jian shu liu xing luo	0
+神剑术流星落	shen jian shu liu xing la	0
+神剑术流星落	shen jian zhu liu xing luo	0
+神剑术流星落	shen jian zhu liu xing la	0
+极神剑术	ji shen jian shu	0
+极神剑术	ji shen jian zhu	0
+万剑归宗	wan jian gui zong	0
+幽魂剑影阵	you hun jian ying zhen	0
+鬼神诏令	gui shen zhao ling	0
+御鬼之极	yu gui zhi ji	0
+王者号令吉格降临	wang zhe hao ling ji ge jiang lin	0
+奇袭幻影	qi xi huan ying	0
+聚能念气炮	ju neng nian qi pao	0
+聚能念气炮	ju neng nian qi bao	0
+心之念意	xin zhi nian yi	0
+念帝旋天破	nian di xuan tian po	0
+连环毒爆弹	lian huan du bao dan	0
+连环毒爆弹	lian huan dai bao dan	0
+猛毒之伤	meng du zhi shang	0
+毒龙轰天雷	du long hong tian lei	0
+万毒噬心诀	wan du shi xin jue	0
+暗属性强化	an shu xing qiang hua	0
+暗属性增幅	an shu xing zeng fu	0
+暗属性附魔	an shu xing fu mo	0
+阿拉德趣味调研	a la de qu wei diao yan	0
+暴击	bao ji	0
+背击	bei ji	0
+冰冻	bing dong	0
+搬砖	ban zhuan	0
+北极狐	bei ji hu	0
+饱食度	bao shi du	0
+饱食度	bao shi duo	0
+白金徽章	bai jin hui zhang	0
+帮帮精灵	bang bang jing ling	0
+出货	chu huo	0
+成就	cheng jiu	0
+惩戒	cheng jie	0
+出血	chu xue	0
+初始化	chu shi hua	0
+赤腹鹰	chi fu ying	0
+草原狼	cao yuan lang	0
+操作指令	cao zuo zhi ling	0
+重铸徽章	chong zhu hui zhang	0
+冰属性抗性	bing shu xing kang xing	0
+冰属性强化	bing shu xing qiang hua	0
+冰属性增幅	bing shu xing zeng fu	0
+冰属性附魔	bing shu xing fu mo	0
+多玩	duo wan	0
+点艹	dian ao	0
+点艹	dian cao	0
+盗号	dao hao	0
+抵御	di yu	0
+点卷	dian juan	0
+毒奶粉	du nai fen	0
+代币卷	dai bi juan	0
+大黄蜂	da huang feng	0
+丹顶鹤	dan ding he	0
+东北虎	dong bei hu	0
+对应频道	dui ying pin dao	0
+独立攻击力	du li gong ji li	0
+飞机	fei ji	0
+附魔师	fu mo shi	0
+分解师	fen jie shi	0
+分解时装	fen jie shi zhuang	0
+风骚跑位	feng sao pao wei	0
+官网	guan wang	0
+公会	gong hui	0
+觉醒	jue xing	0
+光环	guang huan	0
+感电	gan dian	0
+个人信息	ge ren xin xi	0
+公会基金	gong hui ji jin	0
+公会公告	gong hui gong gao	0
+攻击速度	gong ji su du	0
+光属性抗性	guang shu xing kang xing	0
+光属性强化	guang shu xing qiang hua	0
+光属性增幅	guang shu xing zeng fu	0
+光属性附魔	guang shu xing fu mo	0
+攻击速度光环	gong ji su du guang huan	0
+攻击类型转换	gong ji lei xing zhuan huan	0
+回城	hui cheng	0
+好友	hao you	0
+混乱	hun luan	0
+黑钻	hei zuan	0
+黑暗	hei an	0
+寒冰	han bing	0
+活力	huo li	0
+会长	hui zhang	0
+黑蝙蝠	hei bian fu	0
+回避率	hui bi lv	0
+回避率	hui bi shuai	0
+好感度	hao gan du	0
+活跃度	huo yue du	0
+灰棕熊	hui zong xiong	0
+徽章合成	hui zhang he cheng	0
+黑人刘谦	hei ren liu qian	0
+黄金卡牌	huang jin ka pai	0
+黄金卡牌	huang jin qia pai	0
+火属性抗性	huo shu xing kang xing	0
+火属性强化	huo shu xing qiang hua	0
+火属性增幅	huo shu xing zeng fu	0
+火属性附魔	huo shu xing fu mo	0
+解封	jie feng	0
+捐赠	juan zeng	0
+技能	ji neng	0
+集中	ji zhong	0
+减速	jian su	0
+金币	jin bi	0
+交易	jiao yi	0
+假紫	jia zi	0
+精神	jing shen	0
+酒吧	jiu ba	0
+经验值	jing yan zhi	0
+绝杀技	jue sha ji	0
+僵直度	jiang zhi du	0
+僵直度	jiang zhi duo	0
+巨海龟	ju hai gui	0
+竞技大赛	jing ji da sai	0
+金币寄售	jin bi ji shou	0
+决斗胜点	jue dou sheng dian	0
+技能改版	ji neng gai ban	0
+精神光环	jing shen guang huan	0
+精英怪击杀	jing ying guai ji sha	0
+精英荣誉卡牌	jing ying rong yu ka pai	0
+精英荣誉卡牌	jing ying rong yu qia pai	0
+卡属性	qia shu xing	0
+控偶师	kong ou shi	0
+卡深渊	ka shen yuan	0
+卡深渊	qia shen yuan	0
+开深渊	kai shen yuan	0
+抗魔值	kang mo zhi	0
+快捷键	kuai jie jian	0
+快速组队	kuai su zu dui	0
+卡输入法	ka shu ru fa	0
+卡输入法	qia shu ru fa	0
+论坛	lun tan	0
+烈焰	lie yan	0
+灵气	ling qi	0
+灵心	ling xin	0
+猎龙	lie long	0
+力量	li liang	0
+拉仇恨	la chou hen	0
+聊天邀请	liao tian yao qing	0
+炼金术师	lian jin shu shi	0
+力量光环	li liang guang huan	0
+蓝天白云	lan tian bai yun	0
+练习模式	lian xi mo shi	0
+冷夜的气息	leng ye de qi xi	0
+冥想	ming xiang	0
+猛击	meng ji	0
+敏捷	min jie	0
+密保卡	mi bao ka	0
+满材料	man cai liao	0
+命中率	ming zhong lv	0
+梅花鹿	mei hua lu	0
+猫头鹰	mao tou ying	0
+美洲豹	mei zhou bao	0
+魔法暴击	mo fa bao ji	0
+魔法暴击光环	mo fa bao ji guang huan	0
+魔法封印武器	mo fa feng yin wu qi	0
+魔法封印装备	mo fa feng yin zhuang bei	0
+魔法攻击力光环	mo fa gong ji li guang huan	0
+魔法防御力光环	mo fa fang yu li guang huan	0
+骗术	pian shu	0
+频道	pin dao	0
+破魔	po mo	0
+破甲	po jia	0
+疲劳	pi lao	0
+破武器	po wu qi	0
+破防具	po fang ju	0
+拍卖行	pai mai hang	0
+强击	qiang ji	0
+强化	qiang hua	0
+祈祷	qi dao	0
+驱魔	qu mo	0
+驱散	qu san	0
+求围观	qiu wei guan	0
+求包养	qiu bao yang	0
+求点艹	qiu dian ao	0
+求点艹	qiu dian cao	0
+强打红字	qiang da hong zi	0
+奇遇任务	qi yu ren wu	0
+驱散效果	qu san xiao guo	0
+胜点	sheng dian	0
+深渊	shen yuan	0
+四维	si wei	0
+神器	shen qi	0
+史诗	shi shi	0
+商人	shang ren	0
+师徒	shi tu	0
+双开	shuang kai	0
+狩猎	shou lie	0
+石化	shi hua	0
+束缚	shu fu	0
+睡眠	shui mian	0
+失明	shi ming	0
+圣光	sheng guang	0
+尸体	shi ti	0
+神使	shen shi	0
+圣徒	sheng tu	0
+上黄字	shang huang zi	0
+上喇叭	shang la ba	0
+熟练度	shu lian du	0
+升级卷	sheng ji juan	0
+尸体党	shi ti dang	0
+时空尸体	shi kong shi ti	0
+异界尸体	yi jie shi ti	0
+伤害点数	shang hai dian shu	0
+时空碎片	shi kong sui pian	0
+随机深渊	sui ji shen yuan	0
+深渊模式	shen yuan mo shi	0
+师徒经验	shi tu jing yan	0
+师徒金币	shi tu jin bi	0
+私人秘书	si ren mi shu	0
+释放速度	shi fang su du	0
+鼠标拖动	shu biao tuo dong	0
+释放速度光环	shi fang su du guang huan	0
+私人秘书梦娜	si ren mi shu meng na	0
+所有属性抗性	suo you shu xing kang xing	0
+所有属性强化	suo you shu xing qiang hua	0
+所有属性增幅	suo you shu xing zeng fu	0
+赛利亚的祝福值	sai li ya de zhu fu zhi	0
+赛利亚的祝福值	sai li ya di zhu fu zhi	0
+体力	ti li	0
+屠龙	tu long	0
+天罚	tian fa	0
+通关时间	tong guan shi jian	0
+体力光环	ti li guang huan	0
+偷学技能	tou xue ji neng	0
+通用技能	tong yong ji neng	0
+特性技能	te xing ji neng	0
+挑战一切骗术	tiao zhan yi qie pian shu	0
+天帷巨兽冒险团	tian wei ju shou mao xian tuan	0
+无敌	wu di	0
+伪装	wei zhuang	0
+娃娃机	wa wa ji	0
+武器装扮	wu qi zhuang ban	0
+物理暴击	wu li bao ji	0
+物理暴击光环	wu li bao ji guang huan	0
+物理攻击力光环	wu li gong ji li guang huan	0
+物理防御力光环	wu li fang yu li guang huan	0
+眩晕	xuan yun	0
+迅击	xun ji	0
+迅捷	xun jie	0
+血气	xue qi	0
+下水道	xia shui dao	0
+鹰眼	ying yan	0
+吟唱	yin chang	0
+眼镜蛇	yan jing she	0
+移动速度	yi dong su du	0
+异常状态	yi chang zhuang tai	0
+优秀会员	you xiu hui yuan	0
+异常状态抗性	yi chang zhuang tai kang xing	0
+移动速度光环	yi dong su du guang huan	0
+祝福	zhu fu	0
+诅咒	zu zhou	0
+灼伤	zhuo shang	0
+中毒	zhong du	0
+智慧	zhi hui	0
+智力	zhi li	0
+智力光环	zhi li guang huan	0
+转职装扮	zhuan zhi zhuang ban	0
+找个师傅	zhao ge shi fu	0
+暗影石	an ying shi	0
+暗影石	an ying dan	0
+暗黑倾向药剂	an hei qing xiang yao ji	0
+暗黑城特产干酪	an hei cheng te chan gan lao	0
+艾丽西娅的精灵药剂	ai li xi ya de jing ling yao ji	0
+艾丽西娅的精灵药剂	ai li xi ya di jing ling yao ji	0
+爆弹	bao dan	0
+扳手	ban shou	0
+冰晶石	bing jing shi	0
+步枪零件	bu qiang ling jian	0
+博肯人偶	bo ken ren ou	0
+冰之水晶	bing zhi shui jing	0
+白色小晶块	bai se xiao jing kuai	0
+白色大晶体	bai se da jing ti	0
+传说之密匙	chuan shuo zhi mi shi	0
+霸体护甲药水	ba ti hu jia yao shui	0
+波罗丁的印章	bo luo ding de yin zhang	0
+波罗丁的印章	bo luo zheng de yin zhang	0
+波罗丁的印章	bo luo ding di yin zhang	0
+波罗丁的印章	bo luo zheng di yin zhang	0
+被污染的蜘蛛腿	bei wu ran de zhi zhu tui	0
+被污染的蜘蛛腿	pi wu ran de zhi zhu tui	0
+被污染的蜘蛛腿	bei wu ran di zhi zhu tui	0
+被污染的蜘蛛腿	pi wu ran di zhi zhu tui	0
+彩妆用品	cai zhuang yong pin	0
+超速胶囊	chao su jiao nang	0
+充能药剂	chong neng yao ji	0
+充能药剂	chong nai yao ji	0
+宠物饲料	chong wu si liao	0
+次品芯片	ci pin xin pian	0
+成长胶囊小	cheng zhang jiao nang xiao	0
+成长胶囊大	cheng zhang jiao nang da	0
+成长胶囊大	cheng zhang jiao nang dai	0
+成长胶囊大	cheng zhang jiao nang tai	0
+粗糙的机械零件	cu cao de ji xie ling jian	0
+纯净的黄金增幅书	chun jing de huang jin zeng fu shu	0
+狄瑞吉之血	di rui ji zhi xie	0
+狄瑞吉之血	di rui ji zhi xue	0
+恶灵的气息	e ling de qi xi	0
+恶灵的密语	e ling de mi yu	0
+恶灵的密语	e ling di mi yu	0
+毒猫王的毒牙	du mao wang de du ya	0
+毒猫王的毒牙	dai mao wang de du ya	0
+毒猫王的毒牙	du mao wang di du ya	0
+毒猫王的毒牙	dai mao wang di du ya	0
+风速药水	feng su yao shui	0
+防御药剂	fang yu yao ji	0
+风之流动	feng zhi liu dong	0
+风速成长药剂	feng su cheng zhang yao ji	0
+分解机的零件	fen jie ji de ling jian	0
+分解机的零件	fen jie ji di ling jian	0
+防弹金属碎片	fang dan jin shu sui pian	0
+风化的碎骨	feng hua de sui gu	0
+风化的碎骨	feng hua di sui gu	0
+锋利的尖刺	feng li de jian ci	0
+锋利的尖刺	feng li di jian ci	0
+锋利的狼牙	feng li de lang ya	0
+锋利的狼牙	feng li di lang ya	0
+粉色牡丹花	fen se mu dan hua	0
+副船长的戒指	fu chuan zhang de jie zhi	0
+副船长的戒指	pi chuan zhang de jie zhi	0
+副船长的戒指	fu chuan zhang di jie zhi	0
+副船长的戒指	pi chuan zhang di jie zhi	0
+疯狂盗贼的口罩	feng kuang dao zei de kou zhao	0
+疯狂盗贼的口罩	feng kuang dao zei di kou zhao	0
+怪味糖果	guai wei tang guo	0
+钢铁碎片	gang tie sui pian	0
+光辉魔石	guang hui mo shi	0
+哥布林手骨	ge bu lin shou gu	0
+光辉魔石碎片	guang hui mo shi sui pian	0
+高级钻石硬币	gao ji zuan shi ying bi	0
+给冒险家的指引	gei mao xian jia de zhi yin	0
+给冒险家的指引	ji mao xian jia de zhi yin	0
+给冒险家的指引	gei mao xian jia di zhi yin	0
+给冒险家的指引	ji mao xian jia di zhi yin	0
+高级装扮购物卷	gao ji zhuang ban gou wu juan	0
+古老的解封卷轴	gu lao de jie feng juan zhou	0
+格林赛罗斯的果核	ge lin sai luo si de guo he	0
+格林赛罗斯的果核	ge lin sai luo si di guo he	0
+轰爆弹	hong bao dan	0
+火焰瓶	huo yan ping	0
+黑曜石	hei yao shi	0
+火焰石	huo yan shi	0
+红玫瑰	hong mei gui	0
+黑色陨石	hei se yun shi	0
+海蓝宝石	hai lan bao shi	0
+混沌魔石	hun dun mo shi	0
+红色钻石	hong se zuan shi	0
+黑钻会员	hei zuan hui yuan	0
+火蜥蜴药水	huo xi yi yao shui	0
+黑色小晶块	hei se xiao jing kuai	0
+黑色大晶体	hei se da jing ti	0
+红色小晶块	hong se xiao jing kuai	0
+红色大晶体	hong se da jing ti	0
+华丽的曲玉	hua li de qu yu	0
+黑硬的物质	hei ying de wu zhi	0
+红色牡丹花	hong se mu dan hua	0
+黄金破魔石	huang jin po mo shi	0
+黑色龙舌兰酒	hei se long she lan jiu	0
+混沌魔石碎片	hun dun mo shi sui pian	0
+黄龙入选资格	huang long ru xuan zi ge	0
+海贼团员的戒指	hai zei tuan yuan de jie zhi	0
+海贼团员的戒指	hai zei tuan yuan di jie zhi	0
+赫伦皇帝的印章	he lun huang di de yin zhang	0
+红色迷雾袖珍罐	hong se mi wu xiu zhen guan	0
+回归成长胶囊小	hui gui cheng zhang jiao nang xiao	0
+回归成长胶囊大	hui gui cheng zhang jiao nang da	0
+回归成长胶囊大	hui gui cheng zhang jiao nang dai	0
+回归成长胶囊大	hui gui cheng zhang jiao nang tai	0
+金锭	jin ding	0
+尖晶石	jian jing shi	0
+金刚石	jin gang shi	0
+加速药剂	jia su yao ji	0
+金色曲玉	jin se qu yu	0
+晶块的秘密	jing kuai de mi mi	0
+坚硬的龟壳	jian ying de gui ke	0
+坚硬的龟壳	jian ying di gui ke	0
+坚韧的触须	jian ren de chu xu	0
+坚韧的触须	jian ren di chu xu	0
+金色小晶块	jin se xiao jing kuai	0
+金色大晶体	jin se da jing ti	0
+精神刺激灵药	jing shen ci ji ling yao	0
+极限能量印章	ji xian neng liang yin zhang	0
+金色迷雾袖珍罐	jin se mi wu xiu zhen guan	0
+净化的灵魂结晶	jing hua de ling hun jie jing	0
+净化的灵魂结晶	jing hua di ling hun jie jing	0
+净化的灵魂痕迹	jing hua de ling hun hen ji	0
+净化的灵魂痕迹	jing hua di ling hun hen ji	0
+吉赛尔近卫兵的徽章	ji sai er jin wei bing de hui zhang	0
+吉赛尔近卫兵的徽章	ji sai er jin wei bing di hui zhang	0
+狂龙之吼	kuang long zhi hou	0
+抗魔药剂	kang mo yao ji	0
+凯诺的皮毛	kai nuo de pi mao	0
+凯诺的皮毛	kai nuo di pi mao	0
+卡勒特勋章	ka le te xun zhang	0
+卡勒特勋章	qia le te xun zhang	0
+卡勒特勋章	ka lei te xun zhang	0
+卡勒特勋章	qia lei te xun zhang	0
+狂龙之啸宝珠	kuang long zhi xiao bao zhu	0
+克尔顿的印章	ke er dun de yin zhang	0
+克尔顿的印章	ke er dun di yin zhang	0
+卡勒特指令书	ka le te zhi ling shu	0
+卡勒特指令书	qia le te zhi ling shu	0
+卡勒特指令书	ka lei te zhi ling shu	0
+卡勒特指令书	qia lei te zhi ling shu	0
+卡勒特军用炮身	ka le te jun yong pao shen	0
+卡勒特军用炮身	qia le te jun yong pao shen	0
+卡勒特军用炮身	ka lei te jun yong pao shen	0
+卡勒特军用炮身	qia lei te jun yong pao shen	0
+卡勒特首领的徽章	ka le te shou ling de hui zhang	0
+卡勒特首领的徽章	qia le te shou ling de hui zhang	0
+卡勒特首领的徽章	ka lei te shou ling de hui zhang	0
+卡勒特首领的徽章	qia lei te shou ling de hui zhang	0
+卡勒特干部的徽章	ka le te gan bu de hui zhang	0
+卡勒特干部的徽章	qia le te gan bu de hui zhang	0
+卡勒特干部的徽章	ka lei te gan bu de hui zhang	0
+卡勒特干部的徽章	ka le te gan bu di hui zhang	0
+卡勒特干部的徽章	qia lei te gan bu de hui zhang	0
+卡勒特干部的徽章	qia le te gan bu di hui zhang	0
+卡勒特干部的徽章	ka lei te gan bu di hui zhang	0
+卡勒特干部的徽章	qia lei te gan bu di hui zhang	0
+卡勒特军需品卡片	ka le te jun xu pin ka pian	0
+卡勒特军需品卡片	qia le te jun xu pin ka pian	0
+卡勒特军需品卡片	ka lei te jun xu pin ka pian	0
+卡勒特军需品卡片	qia lei te jun xu pin ka pian	0
+卡妮娜的手工面包	ka ni na de shou gong mian bao	0
+卡妮娜的手工面包	qia ni na de shou gong mian bao	0
+卡妮娜的赫顿玛尔牛奶	ka ni na de he dun ma er niu nai	0
+卡妮娜的赫顿玛尔牛奶	qia ni na de he dun ma er niu nai	0
+卡妮娜的赫顿玛尔牛奶	ka ni na di he dun ma er niu nai	0
+卡妮娜的赫顿玛尔牛奶	qia ni na di he dun ma er niu nai	0
+卡妮娜的精致手工面包	ka ni na de jing zhi shou gong mian bao	0
+卡妮娜的精致手工面包	qia ni na de jing zhi shou gong mian bao	0
+卡妮娜的精致手工面包	ka ni na di jing zhi shou gong mian bao	0
+卡妮娜的精致手工面包	qia ni na di jing zhi shou gong mian bao	0
+泰拉石	tai la shi	0
+特级活力药剂	te ji huo li yao ji	0
+蓝玫瑰	lan mei gui	0
+灵魂晶石	ling hun jing shi	0
+垃圾桶盖	la ji tong gai	0
+垃圾桶盖	la ji tong ge	0
+垃圾桶盖	la ji tong he	0
+蓝色陨石	lan se yun shi	0
+蓝色圣经	lan se sheng jing	0
+龙人之眼	long ren zhi yan	0
+蓝色小晶块	lan se xiao jing kuai	0
+蓝色大晶体	lan se da jing ti	0
+领主的邀请函	ling zhu de yao qing han	0
+领主的邀请函	ling zhu di yao qing han	0
+龙头炮的炮身	long tou pao de pao shen	0
+龙头炮的炮身	long tou bao de pao shen	0
+龙头炮的炮身	long tou pao di pao shen	0
+龙头炮的炮身	long tou bao di pao shen	0
+蓝色迷雾袖珍罐	lan se mi wu xiu zhen guan	0
+牛头怪的硬角	niu tou guai de ying jiao	0
+牛头怪的硬角	niu tou guai di ying jiao	0
+牛头怪的硬角	niu tou guai de ying jue	0
+牛头怪的硬角	niu tou guai di ying jue	0
+浓缩的元素药剂	nong suo de yuan su yao ji	0
+浓缩的元素药剂	nong suo di yuan su yao ji	0
+浓缩的异界精髓	nong suo de yi jie jing sui	0
+浓缩的异界精髓	nong suo di yi jie jing sui	0
+浓缩的纯洁之骸	nong suo de chun jie zhi hai	0
+浓缩的纯洁之骸	nong suo di chun jie zhi hai	0
+魔刹石	mo cha shi	0
+魔刹石	mo sha shi	0
+魔刹石	mo cha dan	0
+魔刹石	mo sha dan	0
+命运硬币	ming yun ying bi	0
+猫妖脚爪	mao yao jiao zhao	0
+迷幻晶石	mi huan jing shi	0
+魔龙之啸宝珠	mo long zhi xiao bao zhu	0
+矛盾的结晶体	mao dun de jie jing ti	0
+矛盾的结晶体	mao dun di jie jing ti	0
+魔法师的血液	mo fa shi de xue ye	0
+魔法师琳恩的印章	mo fa shi lin en de yin zhang	0
+魔法师琳恩的印章	mo fa shi lin en di yin zhang	0
+破损的刀刃	po sun de dao ren	0
+破损的刀刃	po sun di dao ren	0
+破旧的皮革	po jiu de pi ge	0
+普通的曲玉	pu tong de qu yu	0
+破旧的储罐箱	po jiu de chu guan xiang	0
+破旧的材料箱	po jiu de cai liao xiang	0
+破旧的晶体箱	po jiu de jing ti xiang	0
+强化卷	qiang hua juan	0
+强化秘药	qiang hua mi yao	0
+虔诚礼盒	qian cheng li he	0
+巧克力派	qiao ke li pai	0
+强烈之痕迹	qiang lie zhi hen ji	0
+强烈的气息	qiang lie de qi xi	0
+青龙入选资格	qing long ru xuan zi ge	0
+趣味调研礼盒	qu wei diao yan li he	0
+枪械修理工具	qiang xie xiu li gong ju	0
+清凉的罗荆果	qing liang de luo jing guo	0
+清凉的罗荆果	qing liang di luo jing guo	0
+七彩迷雾袖珍罐	qi cai mi wu xiu zhen guan	0
+强化的命运硬币	qiang hua de ming yun ying bi	0
+强化的命运硬币	qiang hua di ming yun ying bi	0
+强韧的亡灵结晶	qiang ren de wang ling jie jing	0
+强韧的亡灵结晶	qiang ren di wang ling jie jing	0
+强韧的亡灵碎片	qiang ren de wang ling sui pian	0
+强韧的亡灵碎片	qiang ren di wang ling sui pian	0
+燃烧瓶	ran shao ping	0
+锐眼药剂	rui yan yao ji	0
+锐眼药水	rui yan yao shui	0
+燃烧的陨石	ran shao de yun shi	0
+燃烧的陨石	ran shao di yun shi	0
+燃烧的心脏	ran shao de xin zang	0
+圣杯	sheng bei	0
+碎布片	sui bu pian	0
+碎肉块	sui rou kuai	0
+闪光石	shan guang shi	0
+闪光石	shan guang dan	0
+死亡雪花	si wang xue hua	0
+神圣水晶	shen sheng shui jing	0
+圣痕丝绸	sheng hen si chou	0
+生命之泉	sheng ming zhi quan	0
+睡眠贝肉	shui mian bei rou	0
+神灵的庇佑	shen ling de bi you	0
+神灵的庇佑	shen ling di bi you	0
+圣光万灵药	sheng guang wan ling yao	0
+撒勒的印章	sa le de yin zhang	0
+撒勒的印章	sa lei de yin zhang	0
+撒勒的印章	sa le di yin zhang	0
+撒勒的印章	sa lei di yin zhang	0
+使徒的气息	shi tu de qi xi	0
+守护之印记	shou hu zhi yin ji	0
+闪亮的陨石	shan liang de yun shi	0
+神圣的刀刃	shen sheng de dao ren	0
+闪亮的工具箱	shan liang de gong ju xiang	0
+上级元素结晶	shang ji yuan su jie jing	0
+生命活跃药剂	sheng ming huo yue yao ji	0
+胜利之光药剂	sheng li zhi guang yao ji	0
+瞬间移动药剂	shun jian yi dong yao ji	0
+神圣祝福药水	shen sheng zhu fu yao shui	0
+神奇的梦之粉	shen qi de meng zhi fen	0
+死神的邀请函	si shen de yao qing han	0
+死神的邀请函	si shen di yao qing han	0
+神秘世界的玩具	shen mi shi jie de wan ju	0
+神秘世界的玩具	shen mi shi jie di wan ju	0
+深渊派对挑战书	shen yuan pai dui tiao zhan shu	0
+深渊派对邀请函	shen yuan pai dui yao qing han	0
+闪亮的雷米之吻	shan liang de lei mi zhi wen	0
+闪亮的魔力果汁	shan liang de mo li guo zhi	0
+闪亮的雷米援助	shan liang de lei mi yuan zhu	0
+闪耀的解封卷轴	shan yao de jie feng juan zhou	0
+闪耀的解封卷轴	shan yao di jie feng juan zhou	0
+神奇的解封卷轴	shen qi de jie feng juan zhou	0
+死神的特制恢复剂	si shen de te zhi hui fu ji	0
+死神的特制恢复剂	si shen di te zhi hui fu ji	0
+斯卡迪女王的印章	si ka di nv wang de yin zhang	0
+斯卡迪女王的印章	si ka di nv wang di yin zhang	0
+斯卡迪女王的赏赐	si ka di nv wang de shang ci	0
+斯卡迪女王的赏赐	si ka di nv wang di shang ci	0
+司令官的军衔徽章	si ling guan de jun xian hui zhang	0
+司令官的军衔徽章	si ling guan di jun xian hui zhang	0
+赛利亚的神灵的庇佑	sai li ya de shen ling de bi you	0
+赛利亚的神灵的庇佑	sai li ya di shen ling de bi you	0
+赛利亚的神灵的庇佑	sai li ya de shen ling di bi you	0
+赛利亚的神灵的庇佑	sai li ya di shen ling di bi you	0
+赛丽亚的红色小桃心	sai li ya de hong se xiao tao xin	0
+赛丽亚的红色小桃心	sai li ya di hong se xiao tao xin	0
+赛丽亚的粉色小桃心	sai li ya de fen se xiao tao xin	0
+赛丽亚的粉色小桃心	sai li ya di fen se xiao tao xin	0
+赛利亚的神圣祝福药水	sai li ya de shen sheng zhu fu yao shui	0
+赛利亚的神圣祝福药水	sai li ya di shen sheng zhu fu yao shui	0
+透明石	tou ming shi	0
+透明石	tou ming dan	0
+突变草莓	tu bian cao mei	0
+天界珍珠	tian jie zhen zhu	0
+天界徽章	tian jie hui zhang	0
+蔓藤根茎	man teng gen jing	0
+天空树果实	tian kong shu guo shi	0
+戮蛊的眼睛	lu gu de yan jing	0
+透明的魔力珠	tou ming de mo li zhu	0
+天空之海符咒	tian kong zhi hai fu zhou	0
+透明的宇宙灵魂	tou ming de yu zhou ling hun	0
+天空之海的贝壳	tian kong zhi hai de bei ke	0
+污秽之血	wu hui zhi xie	0
+污秽之血	wu hui zhi xue	0
+无色小晶块	wu se xiao jing kuai	0
+无色大晶体	wu se da jing ti	0
+无重力碎片	wu zhong li sui pian	0
+无尽的永恒	wu jin de yong heng	0
+武器兑换卷	wu qi dui huan juan	0
+王之石像碎块	wang zhi shi xiang sui kuai	0
+无法忘却的噩梦	wu fa wang que de e meng	0
+无法忘却的噩梦	wu fa wang que di e meng	0
+无尽的祭坛邀请函	wu jin de ji tan yao qing han	0
+邪念体	xie nian ti	0
+邪念体	xie nian ben	0
+血滴石	xue di shi	0
+血滴石	xue di dan	0
+虚空魔石	xu kong mo shi	0
+邪恶药剂	xie e yao ji	0
+幸福之心	xing fu zhi xin	0
+邪恶的结晶	xie e de jie jing	0
+雪杰克药水	xue jie ke yao shui	0
+雪虎的皮毛	xue hu de pi mao	0
+雪虎的皮毛	xue hu di pi mao	0
+虚空魔石碎片	xu kong mo shi sui pian	0
+下级元素结晶	xia ji yuan su jie jing	0
+萤石	ying shi	0
+银色陨石	yin se yun shi	0
+宇宙之眼	yu zhou zhi yan	0
+英雄药水	ying xiong yao shui	0
+跃翔药剂	yue xiang yao ji	0
+炎之内核	yan zhi nei he	0
+炎之内核	yan zhi nei hu	0
+有用的零件	you yong de ling jian	0
+耀眼的结晶	yao yan de jie jing	0
+英雄的宿命	ying xiong de su ming	0
+英雄的宿命	ying xiong di su ming	0
+异次元碎片	yi ci yuan sui pian	0
+夜班之魂礼盒	ye ban zhi hun li he	0
+远古精灵的秘药	yuan gu jing ling de mi yao	0
+远古精灵的秘药	yuan gu jing ling di mi yao	0
+异界气息净化书	yi jie qi xi jing hua shu	0
+遗忘河之水优惠劵	yi wang he zhi shui you hui juan	0
+耀眼的黄金色果酱	yao yan de huang jin se guo jiang	0
+耀眼的黄金色果酱	yao yan de huang jin shai guo jiang	0
+幽灵列车的航行日志	you ling lie che de hang xing ri zhi	0
+幽灵列车的航行日志	you ling lie che di hang xing ri zhi	0
+远古精灵的超级秘药	yuan gu jing ling de chao ji mi yao	0
+远古精灵的超级秘药	yuan gu jing ling di chao ji mi yao	0
+紫玛瑙	zi ma nao	0
+钻石硬币	zuan shi ying bi	0
+灾难的征兆	zai nan de zheng zhao	0
+灾难的征兆	zai nan di zheng zhao	0
+障碍物残骸	zhang ai wu can hai	0
+最下级砥石	zui xia ji di shi	0
+最下级砥石	zui xia ji di dan	0
+最下级硬化剂	zui xia ji ying hua ji	0
+整点在线礼盒	zheng dian zai xian li he	0
+追击者的勋章	zhui ji zhe de xun zhang	0
+追击者的勋章	zhui ji zhe di xun zhang	0
+紫色迷雾袖珍罐	zi se mi wu xiu zhen guan	0
+灼热的恐惧之源	zhuo re de kong ju zhi yuan	0
+灼热的恐惧之源	zhuo re di kong ju zhi yuan	0
+周年草莓奶油蛋糕帽子	zhou nian cao mei nai you dan gao mao zi	0
+大盗卡西	da dao ka xi	0
+考古学者	kao gu xue zhe	0
+胆小的卡伊	dan xiao de ka yi	0
+胆小的卡伊	dan xiao di ka yi	0
+大神官诺特鲁	da shen guan nuo te lu	0
+预言家赫亚西斯	yu yan jia he ya xi si	0
+特伦斯站长维特斯	te lun si zhan zhang wei te si	0
+格兰迪站长安德斯	ge lan di zhan zhang an de si	0
+能源中心负责人拉斯特	neng yuan zhong xin fu ze ren la si te	0
+怪物攻城	guai wu gong cheng	0
+南部溪谷	nan bu xi gu	0
+战场	zhan chang	0

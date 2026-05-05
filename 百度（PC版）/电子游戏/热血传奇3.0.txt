@@ -1,0 +1,504 @@
+# 词库名称: 热血传奇3.0
+# 词库分类: 战道 道战 劈星斩 道法 末日审判 英雄怒槽 忠诚度
+# 词库作者: 我的光辉水月
+# 词库描述: 热血传奇3.0...
+# 词条数量: 496
+# 解析词数: 496
+# 解析异常: 0
+
+祝福油	zhu fu you	0
+太阳水	tai yang shui	0
+战神油	zhan shen you	0
+修复油	xiu fu you	0
+回城卷	hui cheng juan	0
+地牢逃脱卷	di lao tao tuo juan	0
+随机传送卷	sui ji chuan song juan	0
+行会回城卷	hang hui hui cheng juan	0
+行会回城卷	xing hui hui cheng juan	0
+护身符	hu shen fu	0
+鸡肉	ji rou	0
+木剑	mu jian	0
+匕首	bi shou	0
+乌木剑	wu mu jian	0
+青铜剑	qing tong jian	0
+短剑	duan jian	0
+铁剑	tie jian	0
+青铜斧	qing tong fu	0
+海魂	hai hun	0
+八荒	ba huang	0
+凌风	ling feng	0
+偃月	yan yue	0
+破魂	po hun	0
+降魔	xiang mo	0
+斩马刀	zhan ma dao	0
+修罗	xiu luo	0
+魔杖	mo zhang	0
+炼狱	lian yu	0
+凝霜	ning shuang	0
+银蛇	yin she	0
+井中月	jing zhong yue	0
+血饮	xue yin	0
+无极棍	wu ji gun	0
+无极棍	wu ji hun	0
+裁决	cai jue	0
+裁决之杖	cai jue zhi zhang	0
+鹤嘴锄	he zui chu	0
+屠龙	tu long	0
+龙纹剑	long wen jian	0
+骨玉权杖	gu yu quan zhang	0
+嗜魂法杖	shi hun fa zhang	0
+命运之刃	ming yun zhi ren	0
+霸者之刃	ba zhe zhi ren	0
+逍遥扇	xiao yao shan	0
+怒斩	nu zhan	0
+龙牙	long ya	0
+开天	kai tian	0
+镇天	zhen tian	0
+玄天	xuan tian	0
+神圣	shen sheng	0
+天龙圣剑	tian long sheng jian	0
+天龙圣衣	tian long sheng yi	0
+持久	chi jiu	0
+精确	jing que	0
+强度	qiang du	0
+天之	tian zhi	0
+诅咒	zu zhou	0
+攻击速度	gong ji su du	0
+布衣	bu yi	0
+灵魂	ling hun	0
+战神盔甲	zhan shen kui jia	0
+幽灵	you ling	0
+战衣	zhan yi	0
+法神披风	fa shen pi feng	0
+法披	fa pi	0
+霓裳羽衣	ni chang yu yi	0
+天魔神甲	tian mo shen jia	0
+圣战宝甲	sheng zhan bao jia	0
+圣衣	sheng yi	0
+天师长袍	tian shi chang pao	0
+雷霆战甲	lei ting zhan jia	0
+烈焰魔衣	lie yan mo yi	0
+光芒道袍	guang mang dao pao	0
+凤凰天衣	feng huang tian yi	0
+凤天	feng tian	0
+凰天	huang tian	0
+上古	shang gu	0
+龙之	long zhi	0
+狂风	kuang feng	0
+护身	hu shen	0
+超负载	chao fu zai	0
+圣魔	sheng mo	0
+战神	zhan shen	0
+真魂	zhen hun	0
+黑檀	hei tan	0
+白色虎齿	bai se hu chi	0
+白虎	bai hu	0
+灯笼	deng long	0
+三眼	san yan	0
+思贝儿	si bei er	0
+思贝儿	sai bei er	0
+夏普儿	xia pu er	0
+骑士	qi shi	0
+避邪	bi xie	0
+阎罗	yan luo	0
+鹿皮靴	lu pi xue	0
+紫绸靴	zi chou xue	0
+避魂靴	bi hun xue	0
+封印	feng yin	0
+禁锢	jin gu	0
+伏魔令	fu mo ling	0
+唤魔	huan mo	0
+神雀	shen que	0
+神雀	shen qiao	0
+天作	tian zuo	0
+敏锐	min rui	0
+流光	liu guang	0
+灰暗	hui an	0
+雷泽	lei ze	0
+雷泽	lei shi	0
+神威手	shen wei shou	0
+神威链	shen wei lian	0
+神威戒	shen wei jie	0
+神力手	shen li shou	0
+神力项	shen li xiang	0
+神力戒	shen li jie	0
+霸气手	ba qi shou	0
+霸气链	ba qi lian	0
+霸气戒	ba qi jie	0
+精纯	jing chun	0
+启源	qi yuan	0
+天赐手	tian ci shou	0
+天赐链	tian ci lian	0
+天赐戒	tian ci jie	0
+闪耀手	shan yao shou	0
+闪耀链	shan yao lian	0
+闪耀戒	shan yao jie	0
+凌厉	ling li	0
+精良	jing liang	0
+暗淡	an dan	0
+祈祷手	qi dao shou	0
+祈祷链	qi dao lian	0
+祈祷戒	qi dao jie	0
+祈祷头	qi dao tou	0
+祈祷套	qi dao tao	0
+祈祷之刃	qi dao zhi ren	0
+祈祷刀	qi dao dao	0
+魔血	mo xue	0
+虹魔	hong mo	0
+光芒	guang mang	0
+光手	guang shou	0
+光链	guang lian	0
+光戒	guang jie	0
+雷霆	lei ting	0
+雷手	lei shou	0
+雷链	lei lian	0
+雷戒	lei jie	0
+雷靴	lei xue	0
+雷腰	lei yao	0
+烈焰	lie yan	0
+烈手	lie shou	0
+烈链	lie lian	0
+烈戒	lie jie	0
+烈靴	lie xue	0
+烈腰	lie yao	0
+强化	qiang hua	0
+麻痹戒指	ma bi jie zhi	0
+护身戒指	hu shen jie zhi	0
+记忆戒指	ji yi jie zhi	0
+隐身戒指	yin shen jie zhi	0
+超负载戒指	chao fu zai jie zhi	0
+防御戒指	fang yu jie zhi	0
+火焰戒指	huo yan jie zhi	0
+复活戒指	fu huo jie zhi	0
+传送戒指	chuan song jie zhi	0
+龙骨刀	long gu dao	0
+龙骨甲	long gu jia	0
+龙骨盔	long gu kui	0
+龙骨链	long gu lian	0
+星王	xing wang	0
+预言头盔	yu yan tou kui	0
+传说魔靴	chuan shuo mo xue	0
+誓言腰带	shi yan yao dai	0
+斗笠	dou li	0
+食人树叶	shi ren shu ye	0
+毒蜘蛛牙齿	du zhi zhu ya chi	0
+食人花果实	shi ren hua guo shi	0
+蝎子的尾巴	xie zi de wei ba	0
+蝎子的尾巴	xie zi di wei ba	0
+蛆卵	qu luan	0
+命运神石	ming yun shen shi	0
+天工神剪	tian gong shen jian	0
+绒丝	rong si	0
+颚骨	e gu	0
+魔龙	mo long	0
+魔族指令书	mo zu zhi ling shu	0
+破旧布条	po jiu bu tiao	0
+千年蛛丝	qian nian zhu si	0
+上古神兽	shang gu shen shou	0
+龙酒	long jiu	0
+守卫令	shou wei ling	0
+神医药具	shen yi yao ju	0
+龙人信物	long ren xin wu	0
+五毒解药	wu du jie yao	0
+火龙神品	huo long shen pin	0
+九花雪露	jiu hua xue lu	0
+九花雪露	jiu hua xue lou	0
+九花玉露	jiu hua yu lu	0
+元神丹	yuan shen dan	0
+回气膏	hui qi gao	0
+补气丹	bu qi dan	0
+地苦胆	di ku dan	0
+地苦胆	de ku dan	0
+四叶参	si ye can	0
+四叶参	si ye shen	0
+四叶参	si ye cen	0
+四叶参	si ye san	0
+铁树果	tie shu guo	0
+阴阳仙草	yin yang xian cao	0
+紫背天葵	zi bei tian kui	0
+黄色马之花	huang se ma zhi hua	0
+罗布麻叶	luo bu ma ye	0
+罗布麻叶	luo bu ma xie	0
+紫背	zi bei	0
+仙草	xian cao	0
+铁树	tie shu	0
+四叶	si ye	0
+地苦	di ku	0
+地苦	de ku	0
+怒气	nu qi	0
+白金积分	bai jin ji fen	0
+白金凭证	bai jin ping zheng	0
+祝福糕	zhu fu gao	0
+祈福凭证	qi fu ping zheng	0
+紫水晶矿	zi shui jing kuang	0
+绿宝石矿	lv bao shi kuang	0
+勋章之心	xun zhang zhi xin	0
+凭证	ping zheng	0
+天关	tian guan	0
+魔王岭	mo wang ling	0
+射猪	she zhu	0
+射猪	ye zhu	0
+射猪	yi zhu	0
+宝箱	bao xiang	0
+檀木宝箱	tan mu bao xiang	0
+紫铜宝箱	zi tong bao xiang	0
+白银宝箱	bai yin bao xiang	0
+赤金宝箱	chi jin bao xiang	0
+藏宝图	cang bao tu	0
+沃玛号角	wo ma hao jiao	0
+求婚	qiu hun	0
+声望	sheng wang	0
+荣誉值	rong yu zhi	0
+勋章	xun zhang	0
+圣战纹章	sheng zhan wen zhang	0
+天尊纹章	tian zun wen zhang	0
+法神纹章	fa shen wen zhang	0
+荣誉勋章	rong yu xun zhang	0
+家族	jia zu	0
+盟重	meng chong	0
+盟重	meng chong	0
+土城	tu cheng	0
+沙巴克	sha ba ke	0
+沙城	sha cheng	0
+虎蛇	hu she	0
+威思而小虫	wei si er xiao chong	0
+威思而小虫	wei sai er xiao chong	0
+多角虫	duo jiao chong	0
+巨型多角虫	ju xing duo jiao chong	0
+红蛇	hong she	0
+红蛇	gong she	0
+红蛇	hong yi	0
+红蛇	gong yi	0
+盔甲虫	kui jia chong	0
+猎鹰	lie ying	0
+苍月	cang yue	0
+半兽勇士	ban shou yong shi	0
+白日	bai ri	0
+鹰卫	ying wei	0
+虎卫	hu wei	0
+卷轴	juan zhou	0
+封魔	feng mo	0
+千年树妖	qian nian shu yao	0
+魔龙教主	mo long jiao zhu	0
+战将	zhan jiang	0
+巨蛾	ju e	0
+巨蛾	ju yi	0
+力士	li shi	0
+射手	she shou	0
+破甲兵	po jia bing	0
+刀兵	dao bing	0
+刺蛙	ci wa	0
+邪眼	xie yan	0
+血蛙	xie wa	0
+血蛙	xue wa	0
+比奇	bi qi	0
+半兽人	ban shou ren	0
+稻草人	dao cao ren	0
+多钩猫	duo gou mao	0
+钉耙猫	ding pa mao	0
+毒蜘蛛	du zhi zhu	0
+半兽人战士	ban shou ren zhan shi	0
+蛤蟆	ha ma	0
+食人花	shi ren hua	0
+森林雪人	sen lin xue ren	0
+山洞蝙蝠	shan dong bian fu	0
+蝎子	xie zi	0
+洞蛆	dong qu	0
+掷斧骷髅	zhi fu ku lou	0
+骷髅战将	ku lou zhan jiang	0
+骷髅精灵	ku lou jing ling	0
+沃玛	wo ma	0
+粪虫	fen chong	0
+暗黑	an hei	0
+沃玛护卫	wo ma hu wei	0
+沃玛教主	wo ma jiao zhu	0
+沃玛卫士	wo ma wei shi	0
+尸王殿	shi wang dian	0
+巨型蠕虫	ju xing ru chong	0
+跳跳蜂	tiao tiao feng	0
+钳虫	qian chong	0
+邪恶钳虫	xie e qian chong	0
+黑色恶蛆	hei se e qu	0
+黑色恶蛆	hei se wu qu	0
+月魔蜘蛛	yue mo zhi zhu	0
+触龙神	chu long shen	0
+牛魔	niu mo	0
+法师王	fa shi wang	0
+牛头魔	niu tou mo	0
+骨魔	gu mo	0
+黄泉教主	huang quan jiao zhu	0
+尸魔	shi mo	0
+恶灵尸王	e ling shi wang	0
+黑铁矿	hei tie kuang	0
+金矿	jin kuang	0
+银矿	yin kuang	0
+铜矿	tong kuang	0
+铁矿	tie kuang	0
+垃圾矿	la ji kuang	0
+黑矿	hei kuang	0
+祖玛	zu ma	0
+祖玛阁	zu ma ge	0
+祖玛教主之家	zu ma jiao zhu zhi jia	0
+卫士	wei shi	0
+楔蛾	xie e	0
+楔蛾	xie yi	0
+角蝇	jiao ying	0
+角蝇	jue ying	0
+雕像	diao xiang	0
+蝎蛇	xie she	0
+蝎蛇	xie yi	0
+幻境	huan jing	0
+蜈蚣	wu gong	0
+武器店	wu qi dian	0
+药店	yao dian	0
+土药	tu yao	0
+小白	xiao bai	0
+白野猪王	bai ye zhu wang	0
+暗之	an zhi	0
+祖玛教主	zu ma jiao zhu	0
+虹膜教主	hong mo jiao zhu	0
+猪卫	zhu wei	0
+石墓	shi mu	0
+石墓阵	shi mu zhen	0
+桃源之门	tao yuan zhi men	0
+猪洞	zhu dong	0
+蝎卫	xie wei	0
+树妖	shu yao	0
+赤月恶魔	chi yue e mo	0
+钢牙蜘蛛	gang ya zhi zhu	0
+天狼蜘蛛	tian lang zhi zhu	0
+幻影蜘蛛	huan ying zhi zhu	0
+黑锷蜘蛛	hei e zhi zhu	0
+花吻蜘蛛	hua wen zhi zhu	0
+血巨人	xie ju ren	0
+血巨人	xue ju ren	0
+双头金刚	shuang tou jin gang	0
+双头血魔	shuang tou xue mo	0
+血僵尸	xie jiang shi	0
+血僵尸	xue jiang shi	0
+雷炎蛛王	lei yan zhu wang	0
+蛛王	zhu wang	0
+金杖蜘蛛	jin zhang zhi zhu	0
+狂热火蜥蜴	kuang re huo xi yi	0
+火蜥蜴	huo xi yi	0
+恶魔蜘蛛	e mo zhi zhu	0
+圣殿卫士	sheng dian wei shi	0
+雷炎洞穴	lei yan dong xue	0
+火热前瞻	huo re qian zhan	0
+卧龙	wo long	0
+酒馆	jiu guan	0
+斗酒	dou jiu	0
+山庄	shan zhuang	0
+庄主	zhuang zhu	0
+战盔	zhan kui	0
+战靴	zhan xue	0
+狂雷	kuang lei	0
+战戒	zhan jie	0
+逆火	ni huo	0
+魔盔	mo kui	0
+魔戒	mo jie	0
+魔靴	mo xue	0
+通云	tong yun	0
+道盔	dao kui	0
+道戒	dao jie	0
+护腕	hu wan	0
+道靴	dao xue	0
+传送石	chuan song shi	0
+传送石	chuan song dan	0
+随机传送	sui ji chuan song	0
+双倍卷轴	shuang bei juan zhou	0
+双倍秘籍	shuang bei mi ji	0
+双倍宝典	shuang bei bao dian	0
+真视	zhen shi	0
+聚灵珠	ju ling zhu	0
+祝福罐	zhu fu guan	0
+油罐	you guan	0
+指令包	zhi ling bao	0
+魔令包	mo ling bao	0
+气血石	qi xue shi	0
+气血石	qi xue dan	0
+魔血石	mo xue shi	0
+魔血石	mo xue dan	0
+幻魔石	huan mo shi	0
+幻魔石	huan mo dan	0
+圣水	sheng shui	0
+大药	da yao	0
+跑丝	pao si	0
+商铺	shang pu	0
+神秘钥匙	shen mi yao shi	0
+赤金钥匙	chi jin yao shi	0
+白银钥匙	bai yin yao shi	0
+紫铜钥匙	zi tong yao shi	0
+魔龙冰晶	mo long bing jing	0
+千里传音	qian li chuan yin	0
+如雾似梦包	ru wu si meng bao	0
+心心相印包	xin xin xiang yin bao	0
+一心一意包	yi xin yi yi bao	0
+飞火流星包	fei huo liu xing bao	0
+浪漫星雨包	lang man xing yu bao	0
+绮梦幻想包	qi meng huan xiang bao	0
+长空火舞包	chang kong huo wu bao	0
+庆典蛋糕	qing dian dan gao	0
+玄紫	xuan zi	0
+玄绿	xuan lv	0
+玄绿	xuan lu	0
+玄褐	xuan he	0
+召唤强化卷	zhao huan qiang hua juan	0
+太阳包	tai yang bao	0
+雪霜	xue shuang	0
+雪霜包	xue shuang bao	0
+捆药绳	kun yao sheng	0
+疗伤包	liao shang bao	0
+乾坤袋	qian kun dai	0
+虎卫卷轴	hu wei juan zhou	0
+个性发型	ge xing fa xing	0
+反璞归真	fan pu gui zhen	0
+魔影巨人	mo ying ju ren	0
+电僵王	dian jiang wang	0
+行会战	hang hui zhan	0
+行会战	xing hui zhan	0
+攻沙	gong sha	0
+集合	ji he	0
+集中打一个	ji zhong da yi ge	0
+魔法躲避	mo fa duo bi	0
+毒物躲避	du wu duo bi	0
+中毒恢复	zhong du hui fu	0
+体力恢复	ti li hui fu	0
+魔法恢复	mo fa hui fu	0
+推广员	tui guang yuan	0
+分红	fen hong	0
+庆典宝盒	qing dian bao he	0
+天龙之印	tian long zhi yin	0
+百区	bai qu	0
+百区	bai ou	0
+秒卡区	miao ka qu	0
+秒卡区	miao qia qu	0
+秒卡区	miao ka ou	0
+秒卡区	miao qia ou	0
+免费区	mian fei qu	0
+神兵卡	shen bing ka	0
+神兵卡	shen bing qia	0
+魔龙岭	mo long ling	0
+合击	he ji	0
+英雄合击	ying xiong he ji	0
+破混斩	po hun zhan	0
+火龙气焰	huo long qi yan	0
+战战	zhan zhan	0
+道道	dao dao	0
+噬魂沼泽	shi hun zhao ze	0
+法法	fa fa	0
+法战	fa zhan	0
+雷霆一击	lei ting yi ji	0
+战道	zhan dao	0
+道战	dao zhan	0
+劈星斩	pi xing zhan	0
+道法	dao fa	0
+末日审判	mo ri shen pan	0
+英雄怒槽	ying xiong nu cao	0
+忠诚度	zhong cheng du	0
+下单	xia dan	0
+允许收徒	yun xu shou tu	0
+加入门派	jia ru men pai	0
+退出门派	tui chu men pai	0
+天地合一	tian di he yi	0
+允许天地合一	yun xu tian di he yi	0
