@@ -1,0 +1,823 @@
+# 词库名称: 三国杀
+# 词库分类: 起始手牌，红色牌，点人
+# 词库作者: 用户上传
+# 词库描述: 2013年5月7日更新。
+# 词条数量: 815
+# 解析词数: 815
+# 解析异常: 0
+
+起始手牌	qi shi shou pai	1000
+红色牌	hong se pai	1000
+点人	dian ren	1000
+实在是杀不动啦	shi zai shi sha bu dong la	1000
+手牌上限	shou pai shang xian	1000
+手牌无上限	shou pai wu shang xian	1000
+没有来源	mei you lai yuan	1000
+英魂	ying hun	1000
+缔盟	di meng	1000
+结算	jie suan	1000
+地图炮	di tu pao	1000
+啖酪	dan lao	1000
+神武将牌	shen wu jiang pai	1000
+蜀国	shu guo	1000
+征杀	zheng sha	1000
+掉线	diao xian	1000
+成都	cheng du	1000
+青囊	qing nang	1000
+蛊惑联营	gu huo lian ying	1000
+火扩展	huo kuo zhan	1000
+乱世的奸雄	luan shi de jian xiong	1000
+冲级宗师	chong ji zong shi	1000
+杀死反贼	sha si fan zei	1000
+老奸巨猾	lao jian ju hua	1000
+自保	zi bao	1000
+兵粮寸断	bing liang cun duan	1000
+救救我	jiu jiu wo	1000
+损失体力	sun shi ti li	1000
+蛊惑	gu huo	1000
+旧版本	jiu ban ben	1000
+献祭	xian ji	1000
+长坂坡	chang ban po	1000
+藤甲	teng jia	1000
+喝酒	he jiu	1000
+二爷	er ye	1000
+罗袜生尘	luo wa sheng chen	1000
+面朝上	mian chao shang	1000
+现存角色	xian cun jue se	1000
+多余伤害	duo yu shang hai	1000
+神将	shen jiang	1000
+特殊牌	te shu pai	1000
+计分赛	ji fen sai	1000
+孟获	meng huo	1000
+三禁	san jin	1000
+冲级大师	chong ji da shi	1000
+巨象	ju xiang	1000
+救我	jiu wo	1000
+呵呵	he he	1000
+大宛	da wan	1000
+正式版	zheng shi ban	1000
+铁索连环	tie suo lian huan	1000
+回合开始	hui he kai shi	1000
+距离不够	ju li bu gou	1000
+赤壁的火神	chi bi de huo shen	1000
+双将模式	shuang jiang mo shi	1000
+造成伤害	zao cheng shang hai	1000
+关羽	guan yu	1000
+猛庞铁马	meng pang tie ma	1000
+替我挡着	ti wo dang zhe	1000
+爪黄飞电	zhua huang fei dian	1000
+司马懿	si ma yi	1000
+无色杀	wu se sha	1000
+巨鹿	ju lu	1000
+军争	jun zheng	1000
+洛阳	luo yang	1000
+吃桃	chi tao	1000
+苍天已死黄天当立	cang tian yi si huang tian dang li	1000
+洛神	luo shen	1000
+回合制	hui he zhi	1000
+双将	shuang jiang	1000
+内奸脸	nei jian lian	1000
+白衣渡江	bai yi du jiang	1000
+随机位置	sui ji wei zhi	1000
+在血和爱的深渊里	zai xie he ai de shen yuan li	1000
+单内奸	dan nei jian	1000
+乱武	luan wu	1000
+神愤	shen fen	1000
+祝由	zhu you	1000
+仁王盾	ren wang dun	1000
+桃树	tao shu	1000
+运筹帷幄	yun chou wei wo	1000
+孤善于千里袭人	gu shan yu qian li xi ren	1000
+先谢郭嘉	xian xie guo jia	1000
+锦囊	jin nang	1000
+方天画戟	fang tian hua ji	1000
+仇恨值	chou hen zhi	1000
+抽取	chou qu	1000
+咆哮	pao xiao	1000
+万箭	wan jian	1000
+竟敢伤我	jing gan shang wo	1000
+放逐	fang zhu	1000
+霸业未成未成啊	ba ye wei cheng wei cheng a	1000
+谁楞挡我	shei leng dang wo	1000
+老不死的	lao bu si de	1000
+奇才	qi cai	1000
+藏宝阁	cang bao ge	1000
+我是内	wo shi nei	1000
+知天下之大事	zhi tian xia zhi da shi	1000
+三国	san guo	1000
+拆马	chai ma	1000
+请休息吧	qing xiu xi ba	1000
+无前	wu qian	1000
+移花接木	yi hua jie mu	1000
+忠臣脸	zhong chen lian	1000
+黄月英	huang yue ying	1000
+战功数量	zhan gong shu liang	1000
+容我三思	rong wo san si	1000
+儒生雄才	ru sheng xiong cai	1000
+阳都	yang dou	1000
+限定技	xian ding ji	1000
+装备区	zhuang bei qu	1000
+结姻	jie yin	1000
+神周瑜	shen zhou yu	1000
+笃烈之士	du lie zhi shi	1000
+杀他拿牌	sha ta na pai	1000
+桌上游戏	zhuo shang you xi	1000
+联姻	lian yin	1000
+行动顺序	xing dong shun xu	1000
+乱臣贼子	luan chen zei zi	1000
+五谷丰登	wu gu feng deng	1000
+祝融	zhu rong	1000
+杀主	sha zhu	1000
+谯县	qiao xian	1000
+五血	wu xie	1000
+搬石砸脚	ban shi za jiao	1000
+魏延	wei yan	1000
+谁的无懈	shui de wu xie	1000
+拆盾	chai dun	1000
+失血过多了	shi xue guo duo le	1000
+天香雷击加刚烈	tian xiang lei ji jia gang lie	1000
+月英	yue ying	1000
+天道威仪	tian dao wei yi	1000
+群雄争霸	qun xiong zheng ba	1000
+僵尸	jiang shi	1000
+司马文若	si ma wen ruo	1000
+控场内	kong chang nei	1000
+万夫不当	wan fu bu dang	1000
+桃园结义	tao yuan jie yi	1000
+双头	shuang tou	1000
+三国斩	san guo zhan	1000
+锦囊袋	jin nang dai	1000
+个人加分	ge ren jia fen	1000
+移出游戏	yi chu you xi	1000
+洛神赋	luo shen fu	1000
+官网	guan wang	1000
+富春	fu chun	1000
+顺手牵羊	shun shou qian yang	1000
+八人局	ba ren ju	1000
+神出鬼没	shen chu gui mo	1000
+颂威	song wei	1000
+桃园	tao yuan	1000
+棋牌吧	qi pai ba	1000
+神关羽	shen guan yu	1000
+大爷胃疼胃疼啊	da ye wei teng wei teng a	1000
+曹仁	cao ren	1000
+美髯公	mei ran gong	1000
+神吕蒙	shen lv meng	1000
+红心	hong xin	1000
+重置	chong zhi	1000
+丈八蛇矛	zhang ba she mao	1000
+谁能挡我	shui neng dang wo	1000
+赵云帝	zhao yun di	1000
+云妹	yun mei	1000
+马术	ma shu	1000
+你死我活	ni si wo huo	1000
+不屈牌	bu qu pai	1000
+诏令天下	zhao ling tian xia	1000
+鸿运当头	hong yun dang tou	1000
+拆光	chai guang	1000
+天谴	tian qian	1000
+惟贤惟德能服于人	wei xian wei de neng fu yu ren	1000
+不可楞	bu ke leng	1000
+张角	zhang jiao	1000
+用技能	yong ji neng	1000
+吴国	wu guo	1000
+也好	ye hao	1000
+玄武	xuan wu	1000
+攻心	gong xin	1000
+公瑾我先走一步了	gong jin wo xian zou yi bu le	1000
+好冷啊	hao leng a	1000
+亮出	liang chu	1000
+命不该绝	ming bu gai jue	1000
+历战之躯	li zhan zhi qu	1000
+弃牌阶段	qi pai jie duan	1000
+武神	wu shen	1000
+离间	li jian	1000
+群雄将	qun xiong jiang	1000
+猪哥	zhu ge	1000
+陆逊	lu xun	1000
+暗魂	an hun	1000
+扣血	kou xue	1000
+存活	cun huo	1000
+还不够	hai bu gou	1000
+锦囊牌	jin nang pai	1000
+判定区	pan ding qu	1000
+据守	ju shou	1000
+突张奇甘	tu zhang qi gan	1000
+百人斩	bai ren zhan	1000
+骅骝	hua liu	1000
+雷神	lei shen	1000
+以德服人	yi de fu ren	1000
+失去体力	shi qu ti li	1000
+不要救	bu yao jiu	1000
+的卢	di lu	1000
+人马一体	ren ma yi ti	1000
+早睡早起方能养生	zao shui zao qi fang neng yang sheng	1000
+连弩	lian nu	1000
+夏侯渊	xia hou yuan	1000
+狂风	kuang feng	1000
+回合开始阶段	hui he kai shi jie duan	1000
+竭智尽忠	jie zhi jin zhong	1000
+战队	zhan dui	1000
+酱油内	jiang you nei	1000
+越老越要补啊	yue lao yue yao bu a	1000
+给我加血	gei wo jia xue	1000
+昏君	hun jun	1000
+乱世枭雄	luan shi xiao xiong	1000
+没有马	mei you ma	1000
+鲁肃	lu su	1000
+吴将	wu jiang	1000
+遗计	yi ji	1000
+延时	yan shi	1000
+汝等给我看好了	ru deng gei wo kan hao le	1000
+诸葛亮	zhu ge liang	1000
+勾玉	gou yu	1000
+决斗	jue dou	1000
+发动雷击	fa dong lei ji	1000
+卡牌阅览	ka pai yue lan	1000
+马庞马马	ma pang ma ma	1000
+小沛	xiao pei	1000
+抵消	di xiao	1000
+请鞭挞我吧公瑾	qing bian ta wo ba gong jin	1000
+桌游吧	zhuo you ba	1000
+小乔	xiao qiao	1000
+拆乐	chai le	1000
+反贼脸	fan zei lian	1000
+闭月	bi yue	1000
+建业	jian ye	1000
+知天易逆天难	zhi tian yi ni tian nan	1000
+虎牢关	hu lao guan	1000
+老当益壮	lao dang yi zhuang	1000
+血裔	xie yi	1000
+八卦阵	ba gua zhen	1000
+天义	tian yi	1000
+顺我的乐	shun wo de le	1000
+职业杀手	zhi ye sha shou	1000
+凌波微步	ling bo wei bu	1000
+铁骑	tie qi	1000
+单挑败北	dan tiao bai bei	1000
+赤兔	chi tu	1000
+身份局	shen fen ju	1000
+曹丕	cao pi	1000
+三国杀	san guo sha	1000
+雷电伤害	lei dian shang hai	1000
+虎狼兄弟	hu lang xiong di	1000
+圣光之国士	sheng guang zhi guo shi	1000
+桌面游戏	zhuo mian you xi	1000
+赤壁的妖术师	chi bi de yao shu shi	1000
+身份系统	shen fen xi tong	1000
+横置	heng zhi	1000
+小诸葛	xiao zhu ge	1000
+回复体力	hui fu ti li	1000
+成就	cheng jiu	1000
+吕小强	lv xiao qiang	1000
+琴音	qin yin	1000
+反馈	fan kui	1000
+夏侯惇	xia hou dun	1000
+连环	lian huan	1000
+因祸得福	yin huo de fu	1000
+神诸葛亮	shen zhu ge liang	1000
+清场	qing chang	1000
+猜猜看那	cai cai kan na	1000
+君临天下	jun lin tian xia	1000
+双内奸	shuang nei jian	1000
+文功	wen gong	1000
+逐鹿战队	zhu lu zhan dui	1000
+我冷	wo leng	1000
+完克	wan ke	1000
+鬼道	gui dao	1000
+黑桃	hei tao	1000
+涉猎	she lie	1000
+星驰电走	xing chi dian zou	1000
+华佗	hua tuo	1000
+更名换姓	geng ming huan xing	1000
+没想到吧	mei xiang dao ba	1000
+赤胆忠心	chi dan zhong xin	1000
+奇袭	qi xi	1000
+观星	guan xing	1000
+归心	gui xin	1000
+仁德	ren de	1000
+连营	lian ying	1000
+庞德	pang de	1000
+点数	dian shu	1000
+阴阳鱼	yin yang yu	1000
+升级	sheng ji	1000
+乐不思蜀	le bu si shu	1000
+伯父我去了	bo fu wo qu le	1000
+桌游	zhuo you	1000
+初出茅庐	chu chu mao lu	1000
+休教天下人负我	xiu jiao tian xia ren fu wo	1000
+一骑当千	yi qi dang qian	1000
+全职杀手	quan zhi sha shou	1000
+茶壶居士	cha hu ju shi	1000
+分牌	fen pai	1000
+南蛮入侵	nan man ru qin	1000
+锁定技	suo ding ji	1000
+高手服务器	gao shou fu wu qi	1000
+狼顾之鬼	lang gu zhi gui	1000
+关羽在此尔等受死	guan yu zai ci er deng shou si	1000
+六人局	liu ren ju	1000
+换判定	huan pan ding	1000
+战功	zhan gong	1000
+补牌	bu pai	1000
+小有所成	xiao you suo cheng	1000
+普通杀	pu tong sha	1000
+狂骨	kuang gu	1000
+八门金锁	ba men jin suo	1000
+两边都看不见啦	liang bian dou kan bu jian la	1000
+凤飞逆天	feng fei ni tian	1000
+摸三张牌	mo san zhang pai	1000
+单挑	dan tiao	1000
+无中生有	wu zhong sheng you	1000
+节命	jie ming	1000
+悼良会之永绝兮	dao liang hui zhi yong jue xi	1000
+神医	shen yi	1000
+当前体力值	dang qian ti li zhi	1000
+太史慈	tai shi ci	1000
+推广版	tui guang ban	1000
+已经尽力了	yi jing jin li le	1000
+休闲游戏	xiu xian you xi	1000
+卧龙诸葛	wo long zhu ge	1000
+游卡	you ka	1000
+闪电	shan dian	1000
+手牌	shou pai	1000
+双股剑	shuang gu jian	1000
+徐晃	xu huang	1000
+梦魇标记	meng yan biao ji	1000
+防具	fang ju	1000
+大乔	da qiao	1000
+牌堆	pai dui	1000
+攻击	gong ji	1000
+出牌	chu pai	1000
+黑心	hei xin	1000
+乱击	luan ji	1000
+顺乐	shun le	1000
+限用一张	xian yong yi zhang	1000
+汜水关	si shui guan	1000
+张辽	zhang liao	1000
+蜀将	shu jiang	1000
+许褚	xu chu	1000
+无谋	wu mou	1000
+不可闪避	bu ke shan bi	1000
+杀人游戏	sha ren you xi	1000
+流离	liu li	1000
+再起	zai qi	1000
+给我牌	gei wo pai	1000
+新手服务器	xin shou fu wu qi	1000
+周瑜	zhou yu	1000
+常胜将军	chang sheng jiang jun	1000
+弃牌堆	qi pai dui	1000
+伤害来源	shang hai lai yuan	1000
+前将军	qian jiang jun	1000
+自由服务器	zi you fu wu qi	1000
+烈刃	lie ren	1000
+绝处逢生	jue chu feng sheng	1000
+结算死亡	jie suan si wang	1000
+回合结束阶段	hui he jie shu jie duan	1000
+垃圾技能	la ji ji neng	1000
+垫背的	dian bei de	1000
+高贵的名门	gao gui de ming men	1000
+蒙太奇	meng tai qi	1000
+神诸葛	shen zhu ge	1000
+三点	san dian	1000
+出闪	chu shan	1000
+托管	tuo guan	1000
+补血	bu xue	1000
+女性角色	nv xing jue se	1000
+补充包	bu chong bao	1000
+唯我独尊	wei wo du zun	1000
+更大的炮灰	geng da de pao hui	1000
+装备也可以	zhuang bei ye ke yi	1000
+闭貂英周	bi diao ying zhou	1000
+薄幸的美人	bo xing de mei ren	1000
+主公技	zhu gong ji	1000
+夏侯菊花	xia hou ju hua	1000
+父亲大人对不起	fu qin da ren dui bu qi	1000
+甄姬	zhen ji	1000
+郭嘉	guo jia	1000
+判定阶段	pan ding jie duan	1000
+天下大事为我所控	tian xia da shi wei wo suo kong	1000
+给牌	gei pai	1000
+嗜血的独狼	shi xue de du lang	1000
+托管内	tuo guan nei	1000
+倾国	qing guo	1000
+神马此地叫麦城	shen ma ci di jiao mai cheng	1000
+血槽	xue cao	1000
+克己	ke ji	1000
+我是反	wo shi fan	1000
+龙争虎斗	long zheng hu dou	1000
+最后一张手牌	zui hou yi zhang shou pai	1000
+质疑	zhi yi	1000
+专属武将	zhuan shu wu jiang	1000
+制衡	zhi heng	1000
+借刀杀人	jie dao sha ren	1000
+四人局	si ren ju	1000
+群雄	qun xiong	1000
+四点	si dian	1000
+伯符我去了	bo fu wo qu le	1000
+平反大将	ping fan da jiang	1000
+梅花	mei hua	1000
+难道这就是桃园吗	nan dao zhe jiu shi tao yuan ma	1000
+王佐之才	wang zuo zhi cai	1000
+反骨仔	fan gu zai	1000
+医者不能自医啊	yi zhe bu neng zi yi a	1000
+香香	xiang xiang	1000
+死忠内	si zhong nei	1000
+卧龙	wo long	1000
+扩展包	kuo zhan bao	1000
+出牌时机	chu pai shi ji	1000
+装反	zhuang fan	1000
+杀吧	sha ba	1000
+飞将	fei jiang	1000
+蛊于质司	gu yu zhi si	1000
+百步穿杨	bai bu chuan yang	1000
+势力	shi li	1000
+以我之真气	yi wo zhi zhen qi	1000
+火焰伤害	huo yan shang hai	1000
+拼点	pin dian	1000
+游戏结束	you xi jie shu	1000
+求闪	qiu shan	1000
+牌不是万能的	pai bu shi wan neng de	1000
+决定身份	jue ding shen fen	1000
+红颜	hong yan	1000
+就这样吧	jiu zhe yang ba	1000
+罗汉	luo han	1000
+貂蝉	diao chan	1000
+好鲁仁刘	hao lu ren liu	1000
+风扩展包	feng kuo zhan bao	1000
+补充武将	bu chong wu jiang	1000
+鬼才	gui cai	1000
+杀死主公	sha si zhu gong	1000
+反间	fan jian	1000
+少年将军	shao nian jiang jun	1000
+等量交换	deng liang jiao huan	1000
+空酒杯	kong jiu bei	1000
+我先休息一会	wo xian xiu xi yi hui	1000
+早终的先知	zao zhong de xian zhi	1000
+矜持之花	jin chi zhi hua	1000
+被雷劈	bei lei pi	1000
+武将系统	wu jiang xi tong	1000
+战功点数	zhan gong dian shu	1000
+许昌	xu chang	1000
+猛进	meng jin	1000
+武魂	wu hun	1000
+无视防具	wu shi fang ju	1000
+异族之愤	yi zu zhi fen	1000
+狂暴	kuang bao	1000
+周泰	zhou tai	1000
+武的化身	wu de hua shen	1000
+接住哦	jie zhu o	1000
+强袭	qiang xi	1000
+玩家	wan jia	1000
+趁虚而入	chen xu er ru	1000
+乐不	le bu	1000
+体力值	ti li zhi	1000
+哀一逝而异乡	ai yi shi er yi xiang	1000
+黄忠	huang zhong	1000
+神速	shen su	1000
+多多益善	duo duo yi shan	1000
+不同颜色	bu tong yan se	1000
+无尽的挣扎	wu jin de zheng zha	1000
+濮阳	pu yang	1000
+赵云	zhao yun	1000
+身份牌	shen fen pai	1000
+杀内	sha nei	1000
+神话再临	shen hua zai lin	1000
+青龙偃月刀	qing long yan yue dao	1000
+不能改判	bu neng gai pan	1000
+英雄杀	ying xiong sha	1000
+求杀	qiu sha	1000
+鸡肋武将	ji lei wu jiang	1000
+魏将何在	wei jiang he zai	1000
+既生瑜何生	ji sheng yu he sheng	1000
+庞统	pang tong	1000
+装备牌	zhuang bei pai	1000
+纠结之心	jiu jie zhi xin	1000
+耳畔之鱼	er pan zhi yu	1000
+唯一存活	wei yi cun huo	1000
+杀忠	sha zhong	1000
+归隐的杰女	gui yin de jie nv	1000
+正面朝上	zheng mian chao shang	1000
+合天地之造化	he tian di zhi zao hua	1000
+翻面	fan mian	1000
+攒牌	zan pai	1000
+不得不服老啊	bu de bu fu lao a	1000
+无懈	wu xie	1000
+神武将	shen wu jiang	1000
+随机座位	sui ji zuo wei	1000
+无尽的鞭笞	wu jin de bian chi	1000
+雌雄	ci xiong	1000
+太平道人	tai ping dao ren	1000
+濒死状态	bin si zhuang tai	1000
+吕布	lv bu	1000
+死亡	si wang	1000
+古锭刀	gu ding dao	1000
+万箭齐发	wan jian qi fa	1000
+重铸	chong zhu	1000
+装备	zhuang bei	1000
+三血	san xie	1000
+双雄	shuang xiong	1000
+新版本	xin ban ben	1000
+武圣	wu sheng	1000
+求桃	qiu tao	1000
+竟然比我还快	jing ran bi wo hai kuai	1000
+摸牌	mo pai	1000
+拆武器	chai wu qi	1000
+迟暮的丞相	chi mu de cheng xiang	1000
+崩坏	beng huai	1000
+乱世名医	luan shi ming yi	1000
+失礼了	shi li le	1000
+小内	xiao nei	1000
+居然被猜到了	ju ran bei cai dao le	1000
+黄盖	huang gai	1000
+结算濒死事件	jie suan bin si shi jian	1000
+出杀	chu sha	1000
+憋牌	bie pai	1000
+弓腰姬	gong yao ji	1000
+汉室宗亲	han shi zong qin	1000
+跳反	tiao fan	1000
+杀反	sha fan	1000
+华容道	hua rong dao	1000
+内奸	nei jian	1000
+攻击范围	gong ji fan wei	1000
+什么此地叫麦城	shen me ci di jiao mai cheng	1000
+酒池	jiu chi	1000
+七人局	qi ren ju	1000
+千人斩	qian ren zhan	1000
+非延时类锦囊	fei yan shi lei jin nang	1000
+集智	ji zhi	1000
+孙权	sun quan	1000
+军争篇	jun zheng pian	1000
+至圣至明	zhi sheng zhi ming	1000
+孔明	kong ming	1000
+荀彧	xun yu	1000
+小试锋芒	xiao shi feng mang	1000
+回合结束	hui he jie shu	1000
+神吕布	shen lv bu	1000
+神级技能	shen ji ji neng	1000
+朱雀羽扇	zhu que yu shan	1000
+满血	man xie	1000
+摸牌阶段	mo pai jie duan	1000
+观今夜之天象	guan jin ye zhi tian xiang	1000
+闪当杀	shan dang sha	1000
+国色	guo se	1000
+肉林	rou lin	1000
+白银狮子	bai yin shi zi	1000
+武器	wu qi	1000
+武圣显灵	wu sheng xian ling	1000
+涅槃	nie pan	1000
+裸奔	luo ben	1000
+雌雄双股剑	ci xiong shuang gu jian	1000
+茶壶	cha hu	1000
+回合外	hui he wai	1000
+有无懈的快点	you wu xie de kuai dian	1000
+铁索	tie suo	1000
+拖时间	tuo shi jian	1000
+四血	si xie	1000
+方块	fang kuai	1000
+感情牌	gan qing pai	1000
+离貂反周	li diao fan zhou	1000
+宁可我负天下人	ning ke wo fu tian xia ren	1000
+激将	ji jiang	1000
+防守	fang shou	1000
+相同花色	xiang tong hua se	1000
+风火林山	feng huo lin shan	1000
+我还是太年轻了	wo hai shi tai nian qing le	1000
+作用效果	zuo yong xiao guo	1000
+燕人的咆哮	yan ren de pao xiao	1000
+黄天	huang tian	1000
+双内	shuang nei	1000
+黑色牌	hei se pai	1000
+方片	fang pian	1000
+过河拆桥	guo he chai qiao	1000
+袁绍	yuan shao	1000
+魏将	wei jiang	1000
+剩余体力	sheng yu ti li	1000
+在血和暗的深渊里	zai xie he an de shen yuan li	1000
+杀死忠臣	sha si zhong chen	1000
+我绝不会倒下	wo jue bu hui dao xia	1000
+五人局	wu ren ju	1000
+炮灰	pao hui	1000
+杀人	sha ren	1000
+大雾	da wu	1000
+反贼	fan zei	1000
+手眼通天	shou yan tong tian	1000
+秉公无私	bing gong wu si	1000
+扣减体力	kou jian ti li	1000
+帷幕	wei mu	1000
+摸两张牌	mo liang zhang pai	1000
+跳忠	tiao zhong	1000
+判定	pan ding	1000
+尔等敢应战否	er deng gan ying zhan fou	1000
+黎阳大将蒋义渠	li yang da jiang jiang yi qu	1000
+特殊能力	te shu neng li	1000
+凤雏	feng chu	1000
+浑身是胆	hun shen shi dan	1000
+定军山	ding jun shan	1000
+神级武将	shen ji wu jiang	1000
+于吉	yu ji	1000
+直接造成伤害	zhi jie zao cheng shang hai	1000
+体力上限	ti li shang xian	1000
+好施	hao shi	1000
+五点	wu dian	1000
+父亲大哥仲谋愧矣	fu qin da ge zhong mou kui yi	1000
+面朝下	mian chao xia	1000
+曹操	cao cao	1000
+装忠	zhuang zhong	1000
+收归手牌	shou gui shou pai	1000
+五丈原	wu zhang yuan	1000
+不可被闪避	bu ke bei shan bi	1000
+轻身为国	qing shen wei guo	1000
+三国杀双将模式	san guo sha shuang jiang mo shi	1000
+实在是守不住了	shi zai shi shou bu zhu le	1000
+掩其无备	yan qi wu bei	1000
+神曹操	shen cao cao	1000
+卡牌	ka pai	1000
+出牌阶段	chu pai jie duan	1000
+火攻	huo gong	1000
+目标角色	mu biao jue se	1000
+天公将军	tian gong jiang jun	1000
+驱虎	qu hu	1000
+倾国倾城	qing guo qing cheng	1000
+下次注意点	xia ci zhu yi dian	1000
+观尔乃插标卖首	guan er nai cha biao mai shou	1000
+没有手牌	mei you shou pai	1000
+飞影	fei ying	1000
+鬼道洛神	gui dao luo shen	1000
+三国杀吧	san guo sha ba	1000
+涿郡	zhuo jun	1000
+二人局	er ren ju	1000
+角色牌	jue se pai	1000
+延时类锦囊	yan shi lei jin nang	1000
+杨修	yang xiu	1000
+突袭	tu xi	1000
+龙胆	long dan	1000
+蜀将何在	shu jiang he zai	1000
+鬼神再临	gui shen zai lin	1000
+不屈不挠	bu qu bu nao	1000
+张飞	zhang fei	1000
+接招吧	jie zhao ba	1000
+征闪	zheng shan	1000
+五谷	wu gu	1000
+武将技	wu jiang ji	1000
+邪灵入梦	xie ling ru meng	1000
+暗魂角色	an hun jue se	1000
+火计	huo ji	1000
+全能将军	quan neng jiang jun	1000
+功成名就	gong cheng ming jiu	1000
+长安	chang an	1000
+将军令	jiang jun ling	1000
+看破	kan po	1000
+桃王	tao wang	1000
+谁敢杀我	shui gan sha wo	1000
+全军突击	quan jun tu ji	1000
+不屈	bu qu	1000
+锦帆游侠	jin fan you xia	1000
+单内	dan nei	1000
+红杀	hong sha	1000
+董卓	dong zhuo	1000
+打配合	da pei he	1000
+标准版	biao zhun ban	1000
+大将军	da jiang jun	1000
+苟延残喘	gou yan can chuan	1000
+难道被看穿了吗	nan dao bei kan chuan le ma	1000
+雷击	lei ji	1000
+乱世的枭雄	luan shi de xiao xiong	1000
+双子	shuang zi	1000
+颜良文丑	yan liang wen chou	1000
+枭姬	xiao ji	1000
+风扩展	feng kuo zhan	1000
+贾诩	jia xu	1000
+麒麟弓	qi lin gong	1000
+业炎	ye yan	1000
+杀当闪	sha dang shan	1000
+八阵	ba zhen	1000
+体力牌	ti li pai	1000
+甘宁	gan ning	1000
+鼠辈竟敢伤我	shu bei jing gan shang wo	1000
+忠臣	zhong chen	1000
+有马	you ma	1000
+护驾	hu jia	1000
+古之恶来	gu zhi e lai	1000
+穿藤甲	chuan teng jia	1000
+冲级高手	chong ji gao shou	1000
+诸葛连弩	zhu ge lian nu	1000
+老谋深算	lao mou shen suan	1000
+魏国	wei guo	1000
+伺机待发	si ji dai fa	1000
+天命哈哈哈哈	tian ming ha ha ha ha	1000
+救援	jiu yuan	1000
+打酱油的	da jiang you de	1000
+异性角色	yi xing jue se	1000
+年轻的贤君	nian qing de xian jun	1000
+游戏牌	you xi pai	1000
+借刀	jie dao	1000
+典韦	dian wei	1000
+转世	zhuan shi	1000
+当桃	dang tao	1000
+独眼罗刹	du yan luo cha	1000
+天下无双	tian xia wu shuang	1000
+一分内	yi fen nei	1000
+不遗余力	bu yi yu li	1000
+不我还不可以死	bu wo hai bu ke yi si	1000
+刚烈	gang lie	1000
+弃牌	qi pai	1000
+纸牌	zhi pai	1000
+火扩展包	huo kuo zhan bao	1000
+贯石斧	guan shi fu	1000
+装内	zhuang nei	1000
+你的牌太多啦	ni de pai tai duo la	1000
+战功大师	zhan gong da shi	1000
+大耳	da er	1000
+大都督	da du du	1000
+魏武帝	wei wu di	1000
+主公	zhu gong	1000
+装作掉线	zhuang zuo diao xian	1000
+亮出身份	liang chu shen fen	1000
+南蛮	nan man	1000
+阳平关	yang ping guan	1000
+不可能	bu ke neng	1000
+孙坚	sun jian	1000
+马超	ma chao	1000
+真没想到	zhen mei xiang dao	1000
+急救	ji jiu	1000
+吕蒙	lv meng	1000
+牌不是万楞的	pai bu shi wan leng de	1000
+雷公助我	lei gong zhu wo	1000
+修正	xiu zheng	1000
+点牌	dian pai	1000
+姬武将	ji wu jiang	1000
+技能修改	ji neng xiu gai	1000
+挣扎吧	zheng zha ba	1000
+夫君身体要紧	fu jun shen ti yao jin	1000
+交给你了	jiao gei ni le	1000
+祸首	huo shou	1000
+七星	qi xing	1000
+基本牌	ji ben pai	1000
+当阳桥	dang yang qiao	1000
+奸雄	jian xiong	1000
+弃置	qi zhi	1000
+横扫千军	heng sao qian jun	1000
+秒杀	miao sha	1000
+极乐世界	ji le shi jie	1000
+任意张牌	ren yi zhang pai	1000
+忠肝义胆	zhong gan yi dan	1000
+忠心耿耿	zhong xin geng geng	1000
+英雄榜	ying xiong bang	1000
+日经	ri jing	1000
+绝影	jue ying	1000
+孙尚香	sun shang xiang	1000
+行殇	hang shang	1000
+铜雀台	tong que tai	1000
+孙小妹	sun xiao mei	1000
+烈弓	lie gong	1000
+疾行的猎豹	ji xing de lie bao	1000
+雷杀	lei sha	1000
+神亭岭	shen ting ling	1000
+陈留	chen liu	1000
+绝世的舞姬	jue shi de wu ji	1000
+黄天也死了	huang tian ye si le	1000
+武勋	wu xun	1000
+酒杀	jiu sha	1000
+桃仙	tao xian	1000
+三国杀双将	san guo sha shuang jiang	1000
+我是忠	wo shi zhong	1000
+鸡肋	ji lei	1000
+安乐公	an le gong	1000
+洗混	xi hun	1000
+英姿	ying zi	1000
+矫情之花	jiao qing zhi hua	1000
+红桃	hong tao	1000
+跳内	tiao nei	1000
+拆我的乐	chai wo de le	1000
+关羽在吃二等寿司	guan yu zai chi er deng shou si	1000
+两张手牌	liang zhang shou pai	1000
+黑杀	hei sha	1000
+牌堆顶	pai dui ding	1000
+有人杀吗	you ren sha ma	1000
+无双	wu shuang	1000
+草花	cao hua	1000
+火杀	huo sha	1000
+天妒	tian du	1000
+任意张杀	ren yi zhang sha	1000
+断粮	duan liang	1000
+空城绝唱	kong cheng jue chang	1000
+无懈可击	wu xie ke ji	1000
+裸衣	luo yi	1000
+苦肉	ku rou	1000
+男性角色	nan xing jue se	1000
+虎痴	hu chi	1000
+防御	fang yu	1000
+尽管来吧	jin guan lai ba	1000
+谦逊	qian xun	1000
+杀我拿牌	sha wo na pai	1000
+打出一张闪	da chu yi zhang shan	1000
+刘备	liu bei	1000
+天香	tian xiang	1000
+联营	lian ying	1000
+别救	bie jiu	1000
+牌堆底	pai dui di	1000
+连绵不绝	lian mian bu jue	1000
+空城	kong cheng	1000
+完杀	wan sha	1000
+草头天子	cao tou tian zi	1000
+玩家人数	wan jia ren shu	1000
