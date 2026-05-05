@@ -1,0 +1,664 @@
+# 词库名称: 房地产估价术语（新）
+# 词库分类: 变现系数 不可分割 不可分割转让 残余价值 朝向调整系数
+# 词库作者: 评估师崔太平
+# 词库描述: 我建立的《房地产估价术语》、《房地产估价基本术语》两个词库，原本可以合并，这次在合并两个词库的基础上，进行进一步补充。
+# 词条数量: 656
+# 解析词数: 678
+# 解析异常: 22
+
+汉语拼音术语条目索引	han yu pin yin shu yu tiao mu suo yin	0
+按份共有	an fen gong you	0
+保险价值	bao xian jia zhi	0
+报酬率	bao chou lv	0
+报酬资本化法	bao chou zi ben hua fa	0
+被迫转让前提	bei po zhuan rang qian ti	0
+比较法	bi jiao fa	0
+比较价值	bi jiao jia zhi	0
+比准价	bi zhun jia	0
+比准价	bi zhun jie	0
+比准价格	bi zhun jia ge	0
+标准价调整法	biao zhun jia tiao zheng fa	0
+不可修复	bu ke xiu fu	0
+不动产	bu dong chan	0
+不动产担保物权	bu dong chan dan bao wu quan	0
+不动产抵押	bu dong chan di ya	0
+不动产抵押权	bu dong chan di ya quan	0
+补充鉴定评估	bu chong jian ding ping gu	0
+补充鉴定	bu chong jian ding	0
+补地价	bu di jia	0
+变现	bian xian	0
+变现价值	bian xian jia zhi	0
+变现系数	bian xian xi shu	0
+不可分割	bu ke fen ge	0
+不可分割转让	bu ke fen ge zhuan rang	0
+报建手续	bao jian shou xu	0
+标定地价	biao ding di jia	0
+被征收人	bei zheng shou ren	0
+保本点分析	bao ben dian fen xi	0
+办公房地产	ban gong fang di chan	0
+朝向调整系数	chao xiang tiao zheng xi shu	0
+成本法	cheng ben fa	0
+成本价值	cheng ben jia zhi	0
+成交价格	cheng jiao jia ge	0
+成本利润率	cheng ben li run lv	0
+承租人权益价值	cheng zu ren quan yi jia zhi	0
+持有期	chi you qi	0
+持有期	chi you ji	0
+城乡	cheng xiang	0
+城乡规划	cheng xiang gui hua	0
+城乡规划许可	cheng xiang gui hua xu ke	0
+出租	chu zu	0
+出租人	chu zu ren	0
+出租人权益	chu zu ren quan yi	0
+出租人权益价值	chu zu ren quan yi jia zhi	0
+查封	cha feng	0
+出庭	chu ting	0
+出庭质证	chu ting zhi zheng	0
+处分权	chu fen quan	0
+处置权	chu zhi quan	0
+出让	chu rang	0
+出让合同	chu rang he tong	0
+出让权	chu rang quan	0
+出让金	chu rang jin	0
+重新鉴定	chong xin jian ding	0
+重新鉴定评估	chong xin jian ding ping gu	0
+采信	cai xin	0
+拆零拍卖	chai ling pai mai	0
+拆零变卖	chai ling bian mai	0
+重置价	chong zhi jia	0
+重置价	chong zhi jie	0
+重置法	chong zhi fa	0
+成本价格	cheng ben jia ge	0
+重建成本	chong jian cheng ben	0
+重置成本	chong zhi cheng ben	0
+财务净现值	cai wu jing xian zhi	0
+财务内部收益率	cai wu nei bu shou yi lv	0
+持有期风险	chi you qi feng xian	0
+持有期风险	chi you ji feng xian	0
+长期趋势法	chang qi qu shi fa	0
+待开发房地产价值	dai kai fa fang di chan jia zhi	0
+单价调整	dan jia tiao zheng	0
+单位比较法	dan wei bi jiao fa	0
+抵押价值	di ya jia zhi	0
+多元回归分析法	duo yuan hui gui fen xi fa	0
+抵押	di ya	0
+抵押人	di ya ren	0
+抵押权人	di ya quan ren	0
+抵押合同	di ya he tong	0
+抵押权设立	di ya quan she li	0
+担保物权	dan bao wu quan	0
+动产	dong chan	0
+动产抵押	dong chan di ya	0
+动产抵押人	dong chan di ya ren	0
+动产抵押权人	dong chan di ya quan ren	0
+动产抵押权	dong chan di ya quan	0
+动产质押	dong chan zhi ya	0
+登记单元	deng ji dan yuan	0
+登记档案	deng ji dang an	0
+动态投资回收期	dong tai tou zi hui shou qi	0
+地价	di jia	0
+地价分摊	di jia fen tan	0
+房地产	fang di chan	0
+房地产拍卖	fang di chan pai mai	0
+房地产变卖	fang di chan bian mai	0
+房地产估价	fang di chan gu jia	0
+房地产权益	fang di chan quan yi	0
+房地产评估	fang di chan ping gu	0
+房地产投资	fang di chan tou zi	0
+房地产价值	fang di chan jia zhi	0
+房地产投资信托基金	fang di chan tou zi xin tuo ji jin	0
+房地产泡沫	fang di chan pao mo	0
+房地产均衡价格	fang di chan jun heng jia ge	0
+房地产供求弹性	fang di chan gong qiu tan xing	0
+房地产评估协会	fang di chan ping gu xie hui	0
+房地产估价人员	fang di chan gu jia ren yuan	0
+房地产评估人员	fang di chan ping gu ren yuan	0
+房地产估价专业	fang di chan gu jia zhuan ye	0
+房地产估价规范	fang di chan gu jia gui fan	0
+房地产估价基本术语	fang di chan gu jia ji ben shu yu	0
+房地产估价机构	fang di chan gu jia ji gou	0
+房地产估价师	fang di chan gu jia shi	0
+房地产状况调整	fang di chan zhuang kuang tiao zheng	0
+房地产管理法	fang di chan guan li fa	0
+房地价格	fang di jia ge	0
+房屋	fang wu	0
+房屋征收	fang wu zheng shou	0
+房屋征收补偿	fang wu zheng shou bu chang	0
+房屋征收补偿评估	fang wu zheng shou bu chang ping gu	0
+房屋重置价格	fang wu chong zhi jia ge	0
+房屋登记	fang wu deng ji	0
+房屋登记办法	fang wu deng ji ban fa	0
+房屋登记单元	fang wu deng ji dan yuan	0
+房屋登记基本单元	fang wu deng ji ji ben dan yuan	0
+房屋用途	fang wu yong tu	0
+房屋使用权	fang wu shi yong quan	0
+房屋租赁	fang wu zu lin	0
+房屋出租	fang wu chu zu	0
+房屋租赁合同	fang wu zu lin he tong	0
+房屋所有权证	fang wu suo you quan zheng	0
+房地产司法鉴定评估	fang di chan si fa jian ding ping gu	0
+法院	fa yuan	0
+法院委托评估	fa yuan wei tuo ping gu	0
+法院评估委托	fa yuan ping gu wei tuo	0
+基层人民法院	ji ceng ren min fa yuan	0
+中级人民法院	zhong ji ren min fa yuan	0
+高级人民法院	gao ji ren min fa yuan	0
+分部分项法	fen bu fen xiang fa	0
+分解法	fen jie fa	0
+风险	feng xian	0
+风险分析	feng xian fen xi	0
+法律风险	fa lv feng xian	0
+法律权属	fa lv quan shu	0
+法律瑕疵	fa lv xia ci	0
+法律权属状况	fa lv quan shu zhuang kuang	0
+风险告知书	feng xian gao zhi shu	0
+分家析产	fen jia xi chan	0
+分割合并	fen ge he bing	0
+规划变更	gui hua bian geng	0
+规划许可	gui hua xu ke	0
+规划许可证	gui hua xu ke zheng	0
+挂牌	gua pai	0
+挂牌出让	gua pai chu rang	0
+个案估价	ge an gu jia	0
+工料测量法	gong liao ce liang fa	0
+工程图纸	gong cheng tu zhi	0
+工程图纸缺失	gong cheng tu zhi que shi	0
+功能不足折旧	gong neng bu zu zhe jiu	0
+功能过剩折旧	gong neng guo sheng zhe jiu	0
+功能折旧	gong neng zhe jiu	0
+估价	gu jia	0
+估价费	gu jia fei	0
+估价费用	gu jia fei yong	0
+估价人员	gu jia ren yuan	0
+估价师	gu jia shi	0
+估价师出庭	gu jia shi chu ting	0
+估价纠纷	gu jia jiu fen	0
+估价纠纷鉴定	gu jia jiu fen jian ding	0
+估价报告	gu jia bao gao	0
+估价报告出具日期	gu jia bao gao chu ju ri qi	0
+估价报告内部审核	gu jia bao gao nei bu shen he	0
+估价报告使用期限	gu jia bao gao shi yong qi xian	0
+估价报告使用者	gu jia bao gao shi yong zhe	0
+估价报告使用限制	gu jia bao gao shi yong xian zhi	0
+估价参数	gu jia can shu	0
+估价程序	gu jia cheng xu	0
+估价对象	gu jia dui xiang	0
+估价对象灭失	gu jia dui xiang mie shi	0
+估价方法	gu jia fang fa	0
+估价时点	gu jia shi dian	0
+估价基本事项	gu jia ji ben shi xiang	0
+估价基础数据	gu jia ji chu shu ju	0
+估价技术报告	gu jia ji shu bao gao	0
+估价技术路线	gu jia ji shu lu xian	0
+估价假设	gu jia jia she	0
+估价假设和限制条件	gu jia jia she he xian zhi tiao jian	0
+估价假设和限制条件	gu jia jia she hu xian zhi tiao jian	0
+估价假设和限制条件	gu jia jia she huo xian zhi tiao jian	0
+估价结果	gu jia jie guo	0
+估价规范	gu jia gui fan	0
+估价结果报告	gu jia jie guo bao gao	0
+估价报告使用人	gu jia bao gao shi yong ren	0
+估价利害关系人	gu jia li hai guan xi ren	0
+估价目的	gu jia mu di	0
+估价委托合同	gu jia wei tuo he tong	0
+估价委托人	gu jia wei tuo ren	0
+估价委托书	gu jia wei tuo shu	0
+估价项目	gu jia xiang mu	0
+估价信用档案	gu jia xin yong dang an	0
+估价资料	gu jia zi liao	0
+估价依据	gu jia yi ju	0
+估价依据缺失	gu jia yi ju que shi	0
+估价原则	gu jia yuan ze	0
+估价资料归档	gu jia zi liao gui dang	0
+估价档案	gu jia dang an	0
+估价档案资料	gu jia dang an zi liao	0
+估价作业方案	gu jia zuo ye fang an	0
+估价作业期	gu jia zuo ye qi	0
+估价作业期	gu jia zuo ye ji	0
+估价执业	gu jia zhi ye	0
+估价执业行为	gu jia zhi ye xing wei	0
+国有土地	guo you tu di	0
+国有建设用地	guo you jian she yong di	0
+国有建设用地使用权	guo you jian she yong di shi yong quan	0
+国有土地使用权	guo you tu di shi yong quan	0
+国有土地使用权证	guo you tu di shi yong quan zheng	0
+国有建设用地使用权证	guo you jian she yong di shi yong quan zheng	0
+国有土地使用权出让	guo you tu di shi yong quan chu rang	0
+国有土地使用权转让	guo you tu di shi yong quan zhuan rang	0
+国有土地使用权出租	guo you tu di shi yong quan chu zu	0
+功能性折旧	gong neng xing zhe jiu	0
+功能性损害	gong neng xing sun hai	0
+共有	gong you	0
+共同共有	gong tong gong you	0
+共有部分	gong you bu fen	0
+公共绿地	gong gong lv di	0
+公共通道	gong gong tong dao	0
+概率分析	gai lv fen xi	0
+后续建设期	hou xu jian she qi	0
+后续开发的必要支出	hou xu kai fa de bi yao zhi chu	0
+后续开发的应得利润	hou xu kai fa de ying de li run	0
+后续开发经营期	hou xu kai fa jing ying qi	0
+恒通评估	heng tong ping gu	0
+或然损失	huo ran sun shi	0
+或然损失风险	huo ran sun shi feng xian	0
+回归分析	hui gui fen xi	0
+宏观因素分析	hong guan yin su fen xi	0
+基准地价修正法	ji zhun di jia xiu zheng fa	0
+基准收益率	ji zhun shou yi lv	0
+交换价值	jiao huan jia zhi	0
+计税价值	ji shui jia zhi	0
+价差法	jia cha fa	0
+价值类型	jia zhi lei xing	0
+价值定义	jia zhi ding yi	0
+价值日期	jia zhi ri qi	0
+价值日期原则	jia zhi ri qi yuan ze	0
+价值咨询	jia zhi zi xun	0
+价值咨询意见	jia zhi zi xun yi jian	0
+价值咨询意见书	jia zhi zi xun yi jian shu	0
+价值减损	jia zhi jian sun	0
+假设开发法	jia she kai fa fa	0
+间接比较调整	jian jie bi jiao tiao zheng	0
+鉴定	jian ding	0
+鉴定评估	jian ding ping gu	0
+鉴定评估期限	jian ding ping gu qi xian	0
+鉴定评估委托书	jian ding ping gu wei tuo shu	0
+鉴定估价	jian ding gu jia	0
+鉴定估价依据	jian ding gu jia yi ju	0
+鉴定评估依据	jian ding ping gu yi ju	0
+鉴定评估资料	jian ding ping gu zi liao	0
+鉴定评估费	jian ding ping gu fei	0
+鉴定评估报告	jian ding ping gu bao gao	0
+鉴定估价报告	jian ding gu jia bao gao	0
+鉴定评估对象	jian ding ping gu dui xiang	0
+鉴定评估人员	jian ding ping gu ren yuan	0
+建设局	jian she ju	0
+建设厅	jian she ting	0
+建立比较基础	jian li bi jiao ji chu	0
+建筑物成新率	jian zhu wu cheng xin lv	0
+建筑物成新率	jian zhu wu cheng xin shuai	0
+建筑物重建成本	jian zhu wu chong jian cheng ben	0
+建筑物重置成本	jian zhu wu chong zhi cheng ben	0
+建筑物经济寿命	jian zhu wu jing ji shou ming	0
+建筑物剩余技术	jian zhu wu sheng yu ji shu	0
+建筑物剩余经济寿命	jian zhu wu sheng yu jing ji shou ming	0
+建筑物剩余自然寿命	jian zhu wu sheng yu zi ran shou ming	0
+建筑物实际年龄	jian zhu wu shi ji nian ling	0
+建筑物有效年龄	jian zhu wu you xiao nian ling	0
+建筑物折旧	jian zhu wu zhe jiu	0
+建筑物资本化率	jian zhu wu zi ben hua lv	0
+建筑物资本化率	jian zhu wu zi ben hua shuai	0
+建筑物自然寿命	jian zhu wu zi ran shou ming	0
+建筑物区分所有权	jian zhu wu qu fen suo you quan	0
+建筑面积	jian zhu mian ji	0
+建筑层高	jian zhu ceng gao	0
+建筑面积计算规则	jian zhu mian ji ji suan gui ze	0
+建设工程	jian she gong cheng	0
+建设用地	jian she yong di	0
+建设工程项目	jian she gong cheng xiang mu	0
+鉴证性估价报告	jian zheng xing gu jia bao gao	0
+交易情况修正	jiao yi qing kuang xiu zheng	0
+交易实例	jiao yi shi li	0
+金额调整	jin e tiao zheng	0
+净收益	jing shou yi	0
+净收益率	jing shou yi lv	0
+净收益率	jing shou yi shuai	0
+净值	jing zhi	0
+净现值	jing xian zhi	0
+净现金流量	jing xian jin liu liang	0
+交叉询问	jiao cha xun wen	0
+接受质证	jie shou zhi zheng	0
+接受询问	jie shou xun wen	0
+集体土地	ji ti tu di	0
+缴纳出让金	jiao na chu rang jin	0
+机会成本	ji hui cheng ben	0
+减损额	jian sun e	0
+经济折旧	jing ji zhe jiu	0
+经济性折旧	jing ji xing zhe jiu	0
+经济性损害	jing ji xing sun hai	0
+静态投资回收期	jing tai tou zi hui shou qi	0
+加权平均	jia quan ping jun	0
+简单算术平均	jian dan suan shu ping jun	0
+借款偿还期	jie kuan chang huan qi	0
+居住房地产	ju zhu fang di chan	0
+开发贷款	kai fa dai kuan	0
+开发完成后的价值	kai fa wan cheng hou de jia zhi	0
+可比实例	ke bi shi li	0
+可修复	ke xiu fu	0
+客观成本	ke guan cheng ben	0
+客观收益	ke guan shou yi	0
+空置和收租损失	kong zhi he shou zu sun shi	0
+空置和收租损失	kong zhi hu shou zu sun shi	0
+空置和收租损失	kong zhi huo shou zu sun shi	0
+快速变现	kuai su bian xian	0
+快速变现价值	kuai su bian xian jia zhi	0
+可分割	ke fen ge	0
+可分割转让	ke fen ge zhuan rang	0
+楼面地价	lou mian di jia	0
+类似房地产	lei si fang di chan	0
+楼层调整系数	lou ceng tiao zheng xi shu	0
+楼幢调整系数	lou zhuang tiao zheng xi shu	0
+楼幢调整系数	lou chuang tiao zheng xi shu	0
+路线价法	lu xian jia fa	0
+路线价法	lu xian jie fa	0
+轮候查封	lun hou cha feng	0
+临界点分析	lin jie dian fen xi	0
+目标收益率	mu biao shou yi lv	0
+蒙特卡洛发	meng te ka luo fa	0
+毛地	mao di	0
+毛地	mao de	0
+农村房屋	nong cun fang wu	0
+内部收益率	nei bu shou yi lv	0
+评估价值	ping gu jia zhi	0
+评估费	ping gu fei	0
+评估费用	ping gu fei yong	0
+评估报告出具日期	ping gu bao gao chu ju ri qi	0
+评估报告内部审核	ping gu bao gao nei bu shen he	0
+评估报告使用期限	ping gu bao gao shi yong qi xian	0
+评估报告使用者	ping gu bao gao shi yong zhe	0
+评估报告使用人	ping gu bao gao shi yong ren	0
+评估报告使用限制	ping gu bao gao shi yong xian zhi	0
+评估参数	ping gu can shu	0
+评估程序	ping gu cheng xu	0
+评估对象	ping gu dui xiang	0
+评估范围	ping gu fan wei	0
+评估方法	ping gu fang fa	0
+评估基本事项	ping gu ji ben shi xiang	0
+评估基础数据	ping gu ji chu shu ju	0
+评估技术报告	ping gu ji shu bao gao	0
+评估技术路线	ping gu ji shu lu xian	0
+评估假设	ping gu jia she	0
+评估假设和限制条件	ping gu jia she he xian zhi tiao jian	0
+评估假设和限制条件	ping gu jia she hu xian zhi tiao jian	0
+评估假设和限制条件	ping gu jia she huo xian zhi tiao jian	0
+评估结果	ping gu jie guo	0
+评估结果报告	ping gu jie guo bao gao	0
+评估利害关系人	ping gu li hai guan xi ren	0
+评估目的	ping gu mu di	0
+评估委托合同	ping gu wei tuo he tong	0
+评估委托人	ping gu wei tuo ren	0
+评估委托书	ping gu wei tuo shu	0
+评估项目	ping gu xiang mu	0
+评估信用档案	ping gu xin yong dang an	0
+评估依据	ping gu yi ju	0
+评估原则	ping gu yuan ze	0
+评估资料	ping gu zi liao	0
+评估期限	ping gu qi xian	0
+评估资料归档	ping gu zi liao gui dang	0
+评估档案	ping gu dang an	0
+评估档案资料	ping gu dang an zi liao	0
+评估作业方案	ping gu zuo ye fang an	0
+评估作业期	ping gu zuo ye qi	0
+评估作业期	ping gu zuo ye ji	0
+评估协会	ping gu xie hui	0
+配合义务	pei he yi wu	0
+赔偿实例	pei chang shi li	0
+赔偿实例比较法	pei chang shi li bi jiao fa	0
+拍卖出让	pai mai chu rang	0
+期间收益	qi jian shou yi	0
+期望值	qi wang zhi	0
+期末转售收益	qi mo zhuan shou shou yi	0
+潜在毛收入	qian zai mao shou ru	0
+权益	quan yi	0
+权益状况	quan yi zhuang kuang	0
+权属	quan shu	0
+权属状况	quan shu zhuang kuang	0
+权属资料	quan shu zi liao	0
+区位	qu wei	0
+房地产区位	fang di chan qu wei	0
+区域条件	qu yu tiao jian	0
+区域规划	qu yu gui hua	0
+区域因素	qu yu yin su	0
+区域因素分析	qu yu yin su fen xi	0
+区域规划调整	qu yu gui hua tiao zheng	0
+七通一平	qi tong yi ping	0
+清算价值	qing suan jia zhi	0
+使用权	shi yong quan	0
+使用价值	shi yong jia zhi	0
+使用面积	shi yong mian ji	0
+实地查勘	shi di cha kan	0
+实地查勘记录	shi di cha kan ji lu	0
+实地查勘期	shi di cha kan qi	0
+实地查勘期	shi di cha kan ji	0
+实际成本	shi ji cheng ben	0
+实际收益	shi ji shou yi	0
+市场价格	shi chang jia ge	0
+市场比较法	shi chang bi jiao fa	0
+市场价值	shi chang jia zhi	0
+市场租金	shi chang zu jin	0
+市场售价	shi chang shou jia	0
+市场价值减损	shi chang jia zhi jian sun	0
+市场提取法	shi chang ti qu fa	0
+市场状况分析	shi chang zhuang kuang fen xi	0
+市场状况调整	shi chang zhuang kuang tiao zheng	0
+收益乘数	shou yi cheng shu	0
+收益乘数法	shou yi cheng shu fa	0
+收益法	shou yi fa	0
+收益价	shou yi jia	0
+收益价	shou yi jie	0
+收益价格	shou yi jia ge	0
+收益价值	shou yi jia zhi	0
+收益期	shou yi qi	0
+收益期	shou yi ji	0
+收益现金流	shou yi xian jin liu	0
+收益现金流风险	shou yi xian jin liu feng xian	0
+收益损失资本化法	shou yi sun shi zi ben hua fa	0
+司法拍卖	si fa pai mai	0
+司法变卖	si fa bian mai	0
+司法鉴定评估	si fa jian ding ping gu	0
+司法鉴定	si fa jian ding	0
+司法鉴定评估委托	si fa jian ding ping gu wei tuo	0
+司法技术	si fa ji shu	0
+司法技术管理部门	si fa ji shu guan li bu men	0
+诉讼	su song	0
+诉讼活动	su song huo dong	0
+诉讼当事人	su song dang shi ren	0
+诉讼权利	su song quan li	0
+涉诉资产	she su zi chan	0
+涉诉房地产	she su fang di chan	0
+审核程序	shen he cheng xu	0
+施工图	shi gong tu	0
+施工图纸	shi gong tu zhi	0
+设计文件	she ji wen jian	0
+损害赔偿	sun hai pei chang	0
+损害赔偿估价	sun hai pei chang gu jia	0
+损害赔偿评估	sun hai pei chang ping gu	0
+损害程度	sun hai cheng du	0
+损害范围	sun hai fan wei	0
+损害事实	sun hai shi shi	0
+损害事实认定	sun hai shi shi ren ding	0
+损失资本化法	sun shi zi ben hua fa	0
+损害前后价差法	sun hai qian hou jia cha fa	0
+实体折旧	shi ti zhe jiu	0
+实体性折旧	shi ti xing zhe jiu	0
+实体性损害	shi ti xing sun hai	0
+剩余法	sheng yu fa	0
+三通一平	san tong yi ping	0
+三项预测值法	san xiang yu ce zhi fa	0
+商业房地产	shang ye fang di chan	0
+生地	sheng di	0
+熟地	shu di	0
+土地估价	tu di gu jia	0
+土地估价人员	tu di gu jia ren yuan	0
+土地估价机构	tu di gu jia ji gou	0
+土地估价结果	tu di gu jia jie guo	0
+土地估价师	tu di gu jia shi	0
+土地估价师协会	tu di gu jia shi xie hui	0
+土地估价规程	tu di gu jia gui cheng	0
+土地储备	tu di chu bei	0
+土地储备贷款	tu di chu bei dai kuan	0
+土地定级	tu di ding ji	0
+土地登记	tu di deng ji	0
+土地登记单元	tu di deng ji dan yuan	0
+土地等级	tu di deng ji	0
+土地定级规程	tu di ding ji gui cheng	0
+土地剩余技术	tu di sheng yu ji shu	0
+土地重置成本	tu di chong zhi cheng ben	0
+土地资本化率	tu di zi ben hua lv	0
+土地资本化率	tu di zi ben hua shuai	0
+土地使用权出让	tu di shi yong quan chu rang	0
+土地使用权划拨	tu di shi yong quan hua bo	0
+替代原则	ti dai yuan ze	0
+投资价值	tou zi jia zhi	0
+投资利润率	tou zi li run lv	0
+投资期限	tou zi qi xian	0
+提出异议	ti chu yi yi	0
+停产停业	ting chan ting ye	0
+停产停业损失	ting chan ting ye sun shi	0
+投资回收期	tou zi hui shou qi	0
+投资回报率	tou zi hui bao lv	0
+完全产权价值	wan quan chan quan jia zhi	0
+无租约限制价值	wu zu yue xian zhi jia zhi	0
+物质折旧	wu zhi zhe jiu	0
+物质性折旧	wu zhi xing zhe jiu	0
+委托评估	wei tuo ping gu	0
+委托估价	wei tuo gu jia	0
+物质实体状况	wu zhi shi ti zhuang kuang	0
+物权	wu quan	0
+物权法	wu quan fa	0
+物业	wu ye	0
+物业服务	wu ye fu wu	0
+物业管理	wu ye guan li	0
+物业服务费	wu ye fu wu fei	0
+完工工期	wan gong gong qi	0
+五通一平	wu tong yi ping	0
+现金流量表	xian jin liu liang biao	0
+现金流量图	xian jin liu liang tu	0
+现房	xian fang	0
+现房拍卖	xian fang pai mai	0
+现房变卖	xian fang bian mai	0
+现状价值	xian zhuang jia zhi	0
+现场查勘	xian chang cha kan	0
+现场查勘之日	xian chang cha kan zhi ri	0
+现场查勘表	xian chang cha kan biao	0
+现场查勘记录	xian chang cha kan ji lu	0
+现场查看	xian chang cha kan	0
+选址意见书	xuan zhi yi jian shu	0
+修复费用法	xiu fu fei yong fa	0
+修复方案	xiu fu fang an	0
+修缮工程	xiu shan gong cheng	0
+销售期	xiao shou qi	0
+销售期	xiao shou ji	0
+修复成本	xiu fu cheng ben	0
+修复成本法	xiu fu cheng ben fa	0
+小区道路	xiao qu dao lu	0
+小区规划	xiao qu gui hua	0
+小区绿化	xiao qu lv hua	0
+项目规划	xiang mu gui hua	0
+项目规划变更	xiang mu gui hua bian geng	0
+协议出让	xie yi chu rang	0
+运营费用	yun ying fei yong	0
+运营费用率	yun ying fei yong lv	0
+运营期	yun ying qi	0
+运营期	yun ying ji	0
+一级房地产估价机构	yi ji fang di chan gu jia ji gou	0
+预查封	yu cha feng	0
+异议	yi yi	0
+异议登记	yi yi deng ji	0
+隐蔽工程	yin bi gong cheng	0
+预售许可	yu shou xu ke	0
+预售许可证	yu shou xu ke zheng	0
+用益物权	yong yi wu quan	0
+业主	ye zhu	0
+业主委员会	ye zhu wei yuan hui	0
+业主权益	ye zhu quan yi	0
+业主大会	ye zhu da hui	0
+盈亏平衡点	ying kui ping heng dian	0
+盈亏平衡	ying kui ping heng	0
+盈亏平衡分析	ying kui ping heng fen xi	0
+盈亏平衡价格	ying kui ping heng jia ge	0
+盈亏平衡产量	ying kui ping heng chan liang	0
+移动平均法	yi dong ping jun fa	0
+住房和城乡建设部	zhu fang hu cheng xiang jian she bu	0
+住房和城乡建设部	zhu fang huo cheng xiang jian she bu	0
+住房和城乡建设厅	zhu fang he cheng xiang jian she ting	0
+住房和城乡建设厅	zhu fang hu cheng xiang jian she ting	0
+住房和城乡建设厅	zhu fang huo cheng xiang jian she ting	0
+住房和城乡建设局	zhu fang he cheng xiang jian she ju	0
+住房和城乡建设局	zhu fang hu cheng xiang jian she ju	0
+住房和城乡建设局	zhu fang huo cheng xiang jian she ju	0
+正常价格	zheng chang jia ge	0
+直接比较调整	zhi jie bi jiao tiao zheng	0
+直接资本化法	zhi jie zi ben hua fa	0
+致估价委托人函	zhi gu jia wei tuo ren han	0
+注册房地产估价师	zhu ce fang di chan gu jia shi	0
+注册房地产估价师声明	zhu ce fang di chan gu jia shi sheng ming	0
+中估联行	zhong gu lian hang	0
+中估学	zhong gu xue	0
+中国土地估价师协会	zhong guo tu di gu jia shi xie hui	0
+中房学	zhong fang xue	0
+中房北辰	zhong fang bei chen	0
+资本化率	zi ben hua lv	0
+资本化率	zi ben hua shuai	0
+租约限制	zu yue xian zhi	0
+自行开发前提	zi xing kai fa qian ti	0
+自愿转让前提	zi yuan zhuan rang qian ti	0
+综合资本化率	zong he zi ben hua lv	0
+综合资本化率	zong he zi ben hua shuai	0
+总价调整	zong jia tiao zheng	0
+最高最佳利用	zui gao zui jia li yong	0
+最高最佳利用原则	zui gao zui jia li yong yuan ze	0
+装修	zhuang xiu	0
+装修情况	zhuang xiu qing kuang	0
+咨询性	zi xun xing	0
+咨询意见	zi xun yi jian	0
+咨询报告	zi xun bao gao	0
+咨询性估价报告	zi xun xing gu jia bao gao	0
+咨询性评估	zi xun xing ping gu	0
+咨询性评估报告	zi xun xing ping gu bao gao	0
+咨询性估价	zi xun xing gu jia	0
+专家证人	zhuan jia zheng ren	0
+专家辅助人	zhuan jia fu zhu ren	0
+专门性问题	zhuan men xing wen ti	0
+专家意见	zhuan jia yi jian	0
+专家鉴定	zhuan jia jian ding	0
+专家鉴定意见	zhuan jia jian ding yi jian	0
+专业人员	zhuan ye ren yuan	0
+专业人士	zhuan ye ren shi	0
+专业意见	zhuan ye yi jian	0
+专有部分	zhuan you bu fen	0
+资料来源	zi liao lai yuan	0
+质证	zhi zheng	0
+占有	zhan you	0
+占有权	zhan you quan	0
+占有维护	zhan you wei hu	0
+占有维护状况	zhan you wei hu zhuang kuang	0
+占地面积	zhan di mian ji	0
+在建工程	zai jian gong cheng	0
+造价	zao jia	0
+造价咨询	zao jia zi xun	0
+整体拍卖	zheng ti pai mai	0
+整体变卖	zheng ti bian mai	0
+注册资产评估师	zhu ce zi chan ping gu shi	0
+注册土地估价师	zhu ce tu di gu jia shi	0
+宗地	zong di	0
+宗地地价	zong di di jia	0
+质量缺陷	zhi liang que xian	0
+折旧	zhe jiu	0
+住改商	zhu gai shang	0
+征收人	zheng shou ren	0
+征收评估	zheng shou ping gu	0
+征收评估办法	zheng shou ping gu ban fa	0
+资质等级	zi zhi deng ji	0
+职业道德	zhi ye dao de	0
+职业道德规范	zhi ye dao de gui fan	0
+执业冲突	zhi ye chong tu	0
+执业条件	zhi ye tiao jian	0
+执业资格	zhi ye zi ge	0
+执业能力	zhi ye neng li	0
+执业胜任能力	zhi ye sheng ren neng li	0
+仲裁	zhong cai	0
+仲裁协议	zhong cai xie yi	0
+仲裁员	zhong cai yuan	0
+首席仲裁员	shou xi zhong cai yuan	0
+资产负债表	zi chan fu zhai biao	0
+资产负债率	zi chan fu zhai lv	0
+资本价值	zi ben jia zhi	0
+资本价值风险	zi ben jia zhi feng xian	0
+资本金利润率	zi ben jin li run lv	0
+资本金净利润率	zi ben jin jing li run lv	0
+资本资产定价模型	zi ben zi chan ding jia mo xing	0
+资金时间价值	zi jin shi jian jia zhi	0
+资金等效值	zi jin deng xiao zhi	0
+现金回报率	xian jin hui bao lv	0
+最高最佳使用	zui gao zui jia shi yong	0
+最高最佳使用原则	zui gao zui jia shi yong yuan ze	0

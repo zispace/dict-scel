@@ -1,0 +1,684 @@
+# 词库名称: 世界农药大全
+# 词库分类: 理工行业
+# 词库作者: 中农问
+# 词库描述: 《世界农药大全》是化学工业出版的农业农药知识丛书，共4册。现在整理好常用的919种词汇。
+# 词条数量: 676
+# 解析词数: 680
+# 解析异常: 4
+
+野燕枯	ye yan ku	0
+鱼尼丁受体类	yu ni ding shou ti lei	0
+鱼尼丁受体类	yu ni zheng shou ti lei	0
+季酮酸类	ji tong suan lei	0
+拟除虫菊酯类	ni chu chong ju zhi lei	0
+苯甲酰脲类	ben jia xian niao lei	0
+双酰肼类	shuang xian jing lei	0
+新烟碱类	xin yan jian lei	0
+吡唑类	bi zuo lei	0
+嘧啶类	mi ding lei	0
+氨基脲类	an ji niao lei	0
+天然产物类	tian ran chan wu lei	0
+阿维菌素	a wei jun su	0
+伊维菌素	yi wei jun su	0
+雷皮菌素	lei pi jun su	0
+弥拜菌素	mi bai jun su	0
+多杀菌素	duo sha jun su	0
+乙基多杀菌素	yi ji duo sha jun su	0
+苏云金素	su yun jin su	0
+印楝素	yin lian su	0
+烟碱	yan jian	0
+除虫菊素	chu chong ju su	0
+鱼藤酮	yu teng tong	0
+藜芦碱	li lu jian	0
+杀虫磺	sha chong huang	0
+杀螟丹	sha ming dan	0
+杀虫环	sha chong huan	0
+杀虫单	sha chong dan	0
+杀虫单	sha chong shan	0
+杀虫单	sha chong chan	0
+杀虫双	sha chong shuang	0
+氯虫酰胺	lv chong xian an	0
+氰虫酰胺	qing chong xian an	0
+氟虫酰胺	fu chong xian an	0
+双三氟虫脲	shuang san fu chong niao	0
+噻嗪酮	sai qin tong	0
+氟啶脲	fu ding niao	0
+灭蝇胺	mie ying an	0
+环虫腈	huan chong jing	0
+除虫脲	chu chong niao	0
+氟螨脲	fu man niao	0
+氟虫脲	fu chong niao	0
+氟铃脲	fu ling niao	0
+虱螨脲	shi man niao	0
+氟酰脲	fu xian niao	0
+多氟脲	duo fu niao	0
+氟幼脲	fu you niao	0
+氟苯脲	fu ben niao	0
+杀铃脲	sha ling niao	0
+灭幼脲	mie you niao	0
+苯氧威	ben yang wei	0
+烯虫乙酯	xi chong yi zhi	0
+烯虫炔酯	xi chong que zhi	0
+烯虫炔酯	xi chong gui zhi	0
+烯虫酯	xi chong zhi	0
+吡丙醚	bi bing mi	0
+吡丙醚	pi bing mi	0
+啶虫丙醚	ding chong bing mi	0
+环虫酰肼	huan chong xian jing	0
+氯虫酰肼	lv chong xian jing	0
+甲氧虫酰肼	jia yang chong xian jing	0
+虫酰肼	chong xian jing	0
+呋喃虫酰肼	fu nan chong xian jing	0
+氟啶虫酰胺	fu ding chong xian an	0
+噻虫胺	sai chong an	0
+噻虫嗪	sai chong qin	0
+噻虫啉	sai chong lan	0
+噻虫啉	sai chong lin	0
+吡虫啉	bi chong lin	0
+啶虫脒	ding chong mi	0
+烯啶虫胺	xi ding chong an	0
+呋虫胺	fu chong an	0
+哌虫啶	pai chong ding	0
+氯噻啉	lv sai lan	0
+氯噻啉	lv sai lin	0
+砜虫啶	feng chong ding	0
+茚虫威	yin chong wei	0
+乙酰虫腈	yi xian chong jing	0
+乙虫腈	yi chong jing	0
+氟虫腈	fu chong jing	0
+丁烯氟虫腈	ding xi fu chong jing	0
+吡螨胺	bi man an	0
+吡螨胺	pi man an	0
+唑虫酰胺	zuo chong xian an	0
+嘧虫胺	mi chong an	0
+嘧螨醚	mi man mi	0
+溴虫腈	xiu chong jing	0
+螺虫酯	luo chong zhi	0
+螺虫乙酯	luo chong yi zhi	0
+丁醚脲	ding mi niao	0
+丁醚脲	zheng mi niao	0
+灭虫隆	mie chong long	0
+双甲脒	shuang jia mi	0
+伐虫脒	fa chong mi	0
+氟丙菊酯	fu bing ju zhi	0
+烯丙菊酯	xi bing ju zhi	0
+生物烯丙菊酯	sheng wu xi bing ju zhi	0
+联苯菊酯	lian ben ju zhi	0
+乙氰菊酯	yi qing ju zhi	0
+氟氯氰菊酯	fu lv qing ju zhi	0
+高效氟氯氰菊酯	gao xiao fu lv qing ju zhi	0
+三氟氯氰菊酯	san fu lv qing ju zhi	0
+精高效氯氟氰菊酯	jing gao xiao lv fu qing ju zhi	0
+高效氯氟氰菊酯	gao xiao lv fu qing ju zhi	0
+氯氰菊酯	lv qing ju zhi	0
+顺式氯氰菊酯	shun shi lv qing ju zhi	0
+高效氯氰菊酯	gao xiao lv qing ju zhi	0
+高效反式氯氰菊酯	gao xiao fan shi lv qing ju zhi	0
+苯醚氰菊酯	ben mi qing ju zhi	0
+溴氰菊酯	xiu qing ju zhi	0
+右旋烯炔菊酯	you xuan xi que ju zhi	0
+右旋烯炔菊酯	you xuan xi gui ju zhi	0
+甲氰菊酯	jia qing ju zhi	0
+氰戊菊酯	qing wu ju zhi	0
+高氰戊菊酯	gao qing wu ju zhi	0
+氟氰戊菊酯	fu qing wu ju zhi	0
+氟胺氰菊酯	fu an qing ju zhi	0
+炔咪菊酯	que mi ju zhi	0
+炔咪菊酯	gui mi ju zhi	0
+氯氟醚菊酯	lv fu mi ju zhi	0
+甲氧苄氟菊酯	jia yang bian fu ju zhi	0
+四氟甲醚菊酯	si fu jia mi ju zhi	0
+氯菊酯	lv ju zhi	0
+苯醚菊酯	ben mi ju zhi	0
+炔丙菊酯	que bing ju zhi	0
+炔丙菊酯	gui bing ju zhi	0
+苄呋菊酯	bian fu ju zhi	0
+生物苄呋菊酯	sheng wu bian fu ju zhi	0
+顺式苄呋菊酯	shun shi bian fu ju zhi	0
+七氟菊酯	qi fu ju zhi	0
+胺菊酯	an ju zhi	0
+四氟醚菊酯	si fu mi ju zhi	0
+四溴菊酯	si xiu ju zhi	0
+四氟苯菊酯	si fu ben ju zhi	0
+虫威	chong wei	0
+甲萘威	jia nai wei	0
+丙硫克百威	bing liu ke bai wei	0
+克百威	ke bai wei	0
+丁硫克百威	ding liu ke bai wei	0
+丁硫克百威	zheng liu ke bai wei	0
+呋线威	fu xian wei	0
+抗蚜威	kang ya wei	0
+棉铃威	mian ling wei	0
+涕灭威	ti mie wei	0
+丁酮威	ding tong wei	0
+丁酮砜威	ding tong feng wei	0
+灭多威	mie duo wei	0
+杀线威	sha xian wei	0
+硫双威	liu shuang wei	0
+久效威	jiu xiao wei	0
+乙硫苯威	yi liu ben wei	0
+仲丁威	zhong ding wei	0
+仲丁威	zhong zheng wei	0
+异丙威	yi bing wei	0
+甲硫威	jia liu wei	0
+速灭威	su mie wei	0
+残杀威	can sha wei	0
+混杀威	hun sha wei	0
+灭除威	mie chu wei	0
+灭杀威	mie sha wei	0
+二硝酚	er xiao fen	0
+冰晶石	bing jing shi	0
+氟虫胺	fu chong an	0
+毒虫畏	du chong wei	0
+敌敌畏	di di wei	0
+百治磷	bai zhi lin	0
+甲基毒虫畏	jia ji du chong wei	0
+庚烯磷	geng xi lin	0
+速灭磷	su mie lin	0
+久效磷	jiu xiao lin	0
+二溴磷	er xiu lin	0
+萘肽磷	nai tai lin	0
+磷胺	lin an	0
+丙虫磷	bing chong lin	0
+杀虫畏	sha chong wei	0
+稻丰散	dao feng san	0
+家蝇磷	jia ying lin	0
+硫线磷	liu xian lin	0
+氯氧磷	lv yang lin	0
+氯甲硫磷	lv jia liu lin	0
+乙拌磷	yi ban lin	0
+乙拌磷	yi pan lin	0
+乙硫磷	yi liu lin	0
+灭线磷	mie xian lin	0
+马拉硫磷	ma la liu lin	0
+亚砜磷	ya feng lin	0
+甲拌磷	jia ban lin	0
+甲拌磷	jia pan lin	0
+治螟磷	zhi ming lin	0
+特丁硫磷	te ding liu lin	0
+特丁硫磷	te zheng liu lin	0
+甲基乙拌磷	jia ji yi ban lin	0
+甲基乙拌磷	jia ji yi pan lin	0
+乐果	le guo	0
+灭蚜磷	mie ya lin	0
+氧乐果	yang le guo	0
+蚜灭磷	ya mie lin	0
+辛硫磷	xin liu lin	0
+蝇毒磷	ying du lin	0
+蝇毒磷	ying dai lin	0
+伏杀硫磷	fu sha liu lin	0
+吡唑硫磷	bi zuo liu lin	0
+哒嗪硫磷	da qin liu lin	0
+益棉磷	yi mian lin	0
+保棉磷	bao mian lin	0
+亚胺硫磷	ya an liu lin	0
+恶唑磷	e zuo lin	0
+吡菌磷	bi jun lin	0
+吡菌磷	pi jun lin	0
+毒死蜱	du si pi	0
+甲基毒死蜱	jia ji du si pi	0
+二嗪磷	er qin lin	0
+甲基嘧啶磷	jia ji mi ding lin	0
+丁基嘧啶磷	ding ji mi ding lin	0
+喹硫磷	kui liu lin	0
+杀扑磷	sha pu lin	0
+氯唑磷	lv zuo lin	0
+三唑磷	san zuo lin	0
+杀螟腈	sha ming jing	0
+伐灭磷	fa mie lin	0
+杀螟硫磷	sha ming liu lin	0
+倍硫磷	bei liu lin	0
+对硫磷	dui liu lin	0
+甲基对硫磷	jia ji dui liu lin	0
+丙溴磷	bing xiu lin	0
+丙硫磷	bing liu lin	0
+硫丙磷	liu bing lin	0
+双硫磷	shuang liu lin	0
+敌百虫	di bai chong	0
+苯硫膦	ben liu lin	0
+苯线磷	ben xian lin	0
+乙酰甲胺磷	yi xian jia an lin	0
+异柳磷	yi liu lin	0
+甲胺磷	jia an lin	0
+胺丙畏	an bing wei	0
+硝虫硫磷	xiao chong liu lin	0
+硫丹	liu dan	0
+林丹	lin dan	0
+氟蚁腙	fu yi zong	0
+稻瘟灵	dao wen ling	0
+哒螨灵	da man ling	0
+唑蚜威	zuo ya wei	0
+氰氟虫腙	qing fu chong zong	0
+杀螨素	sha man su	0
+苯螨特	ben man te	0
+溴螨酯	xiu man zhi	0
+三氯杀螨醇	san lv sha man chun	0
+三氯杀螨砜	san lv sha man feng	0
+苯菌灵	ben jun ling	0
+苯硫威	ben liu wei	0
+消螨通	xiao man tong	0
+二硝巴豆酚酯	er xiao ba dou fen zhi	0
+四螨嗪	si man qin	0
+氟螨嗪	fu man qin	0
+啶蜱脲	ding pi niao	0
+噻螨酮	sai man tong	0
+三唑锡	san zuo xi	0
+三环锡	san huan xi	0
+苯丁锡	ben ding xi	0
+苯丁锡	ben zheng xi	0
+氟氯苯菊酯	fu lv ben ju zhi	0
+灭螨猛	mie man meng	0
+炔螨特	que man te	0
+炔螨特	gui man te	0
+灭螨醌	mie man kun	0
+磺胺螨酯	huang an man zhi	0
+苯氟磺胺	ben fu huang an	0
+喹螨醚	kui man mi	0
+唑螨酯	zuo man zhi	0
+嘧螨酯	mi man zhi	0
+嘧螨胺	mi man an	0
+丁氟螨酯	ding fu man zhi	0
+丁氟螨酯	zheng fu man zhi	0
+腈吡螨酯	jing bi man zhi	0
+腈吡螨酯	jing pi man zhi	0
+乙螨唑	yi man zuo	0
+联苯肼酯	lian ben jing zhi	0
+硫黄	liu huang	0
+避蚊胺	bi wen an	0
+驱蚊灵	qu wen ling	0
+三苯锡	san ben xi	0
+双胍辛盐	shuang gua xin yan	0
+吡蚜酮	bi ya tong	0
+吡蚜酮	pi ya tong	0
+蒽醌	en kun	0
+氯醛糖	lv quan tang	0
+王铜	wang tong	0
+福美锌	fu mei xin	0
+杀螺胺	sha luo an	0
+五氯酚	wu lv fen	0
+二硫化碳	er liu hua tan	0
+噻唑磷	sai zuo lin	0
+氯化苦	lv hua ku	0
+棉隆	mian long	0
+二氯异丙醚	er lv yi bing mi	0
+除线磷	chu xian lin	0
+丁环硫磷	ding huan liu lin	0
+丁环硫磷	zheng huan liu lin	0
+线虫磷	xian chong lin	0
+治线磷	zhi xian lin	0
+威百亩	wei bai mu	0
+溴甲烷	xiu jia wan	0
+碘甲烷	dian jia wan	0
+敌线酯	di xian zhi	0
+硫酰氟	liu xian fu	0
+二氯丙烯	er lv bing xi	0
+磷虫威	lin chong wei	0
+二甲酚	er jia fen	0
+增效醚	zeng xiao mi	0
+增效醛	zeng xiao quan	0
+增效酯	zeng xiao zhi	0
+增效散	zeng xiao san	0
+毒鼠碱	du shu jian	0
+毒鼠碱	dai shu jian	0
+溴鼠灵	xiu shu ling	0
+溴敌隆	xiu di long	0
+杀鼠醚	sha shu mi	0
+鼠得克	shu de ke	0
+鼠得克	shu dei ke	0
+噻鼠灵	sai shu ling	0
+氟鼠灵	fu shu ling	0
+杀鼠灵	sha shu ling	0
+磷化锌	lin hua xin	0
+溴鼠胺	xiu shu an	0
+氯鼠酮	lv shu tong	0
+敌鼠	di shu	0
+鼠完	shu wan	0
+氟乙酸钠	fu yi suan na	0
+氟吗啉	fu ma lin	0
+烯酰吗啉	xi xian ma lin	0
+高效甲霜灵	gao xiao jia shuang ling	0
+高效苯霜灵	gao xiao ben shuang ling	0
+双氯氰菌胺	shuang lv qing jun an	0
+磺菌胺	huang jun an	0
+甲磺菌胺	jia huang jun an	0
+噻氟菌胺	sai fu jun an	0
+噻酰菌胺	sai xian jun an	0
+氟酰胺	fu xian an	0
+叶枯酞	ye ku tai	0
+叶枯酞	xie ku tai	0
+环丙酰菌胺	huan bing xian jun an	0
+环氟菌胺	huan fu jun an	0
+环酰菌胺	huan xian jun an	0
+氰菌胺	qing jun an	0
+硅噻菌胺	gui sai jun an	0
+呋吡菌胺	fu bi jun an	0
+呋吡菌胺	fu pi jun an	0
+吡噻菌胺	bi sai jun an	0
+吡噻菌胺	pi sai jun an	0
+双炔酰菌胺	shuang que xian jun an	0
+双炔酰菌胺	shuang gui xian jun an	0
+苯酰菌胺	ben xian jun an	0
+甲呋酰胺	jia fu xian an	0
+萎锈灵	wei xiu ling	0
+乙菌利	yi jun li	0
+异菌脲	yi jun niao	0
+腐霉利	fu mei li	0
+甲氧基丙烯酸酯	jia yang ji bing xi suan zhi	0
+菌剂	jun ji	0
+嘧菌酯	mi jun zhi	0
+醚菌胺	mi jun an	0
+氟嘧菌酯	fu mi jun zhi	0
+醚菌酯	mi jun zhi	0
+苯氧菌胺	ben yang jun an	0
+肟醚菌胺	wo mi jun an	0
+啶氧菌酯	ding yang jun zhi	0
+唑菌胺酯	zuo jun an zhi	0
+肟菌酯	wo jun zhi	0
+烯肟菌酯	xi wo jun zhi	0
+烯肟菌胺	xi wo jun an	0
+韩国研制品种	han guo yan zhi pin zhong	0
+氧环唑	yang huan zuo	0
+糠菌唑	kang jun zuo	0
+环丙唑醇	huan bing zuo chun	0
+苯醚甲环唑	ben mi jia huan zuo	0
+烯唑醇	xi zuo chun	0
+高效烯唑醇	gao xiao xi zuo chun	0
+氟环唑	fu huan zuo	0
+腈苯唑	jing ben zuo	0
+氟喹唑	fu kui zuo	0
+氟硅唑	fu gui zuo	0
+粉唑醇	fen zuo chun	0
+己唑醇	ji zuo chun	0
+亚胺唑	ya an zuo	0
+种菌唑	zhong jun zuo	0
+种菌唑	chong jun zuo	0
+叶菌唑	ye jun zuo	0
+叶菌唑	xie jun zuo	0
+腈菌唑	jing jun zuo	0
+戊菌唑	wu jun zuo	0
+丙环唑	bing huan zuo	0
+丙硫菌唑	bing liu jun zuo	0
+硅氟唑	gui fu zuo	0
+戊唑醇	wu zuo chun	0
+四氟醚唑	si fu mi zuo	0
+三唑醇	san zuo chun	0
+灭菌唑	mie jun zuo	0
+联苯三唑醇	lian ben san zuo chun	0
+噻菌灵	sai jun ling	0
+麦穗宁	mai sui ning	0
+抑霉唑	yi mei zuo	0
+高效抑霉唑	gao xiao yi mei zuo	0
+咪鲜胺	mi xian an	0
+氟菌唑	fu jun zuo	0
+氰霜唑	qing shuang zuo	0
+咪唑菌酮	mi zuo jun tong	0
+恶咪唑	e mi zuo	0
+恶咪唑	wu mi zuo	0
+稻瘟酯	dao wen zhi	0
+唑类杀菌剂	zuo lei sha jun ji	0
+恶唑菌酮	e zuo jun tong	0
+啶菌恶唑	ding jun e zuo	0
+恶霉灵	e mei ling	0
+恶霉灵	wu mei ling	0
+恶霜灵	e shuang ling	0
+恶霜灵	wu shuang ling	0
+噻唑类杀菌剂	sai zuo lei sha jun ji	0
+噻唑菌胺	sai zuo jun an	0
+土菌灵	tu jun ling	0
+辛噻酮	xin sai tong	0
+苯噻硫氰	ben sai liu qing	0
+十二环吗啉	shi er huan ma lin	0
+丁苯吗啉	ding ben ma lin	0
+十三吗啉	shi san ma lin	0
+吡咯类杀菌剂	bi luo lei sha jun ji	0
+拌种咯	ban zhong lo	0
+拌种咯	ban zhong ge	0
+拌种咯	ban zhong ka	0
+拌种咯	ban zhong luo	0
+咯菌腈	lo jun jing	0
+咯菌腈	ge jun jing	0
+咯菌腈	ka jun jing	0
+咯菌腈	luo jun jing	0
+吡啶类杀菌剂	bi ding lei sha jun ji	0
+氟啶胺	fu ding an	0
+啶斑肟	ding ban wo	0
+环啶菌胺	huan ding jun an	0
+啶酰菌胺	ding xian jun an	0
+氟啶酰菌胺	fu ding xian jun an	0
+啶菌胺	ding jun an	0
+嘧啶类杀菌剂	mi ding lei sha jun ji	0
+嘧菌环胺	mi jun huan an	0
+氟嘧菌胺	fu mi jun an	0
+嘧菌腙	mi jun zong	0
+嘧菌胺	mi jun an	0
+嘧霉胺	mi mei an	0
+氯苯嘧啶醇	lv ben mi ding chun	0
+氟苯嘧啶醇	fu ben mi ding chun	0
+喹	kui	0
+二氰蒽醌	er qing en kun	0
+乙氧喹啉	yi yang kui lin	0
+掺腔喹啉	chan qiang kui lin	0
+掺腔喹啉	can qiang kui lin	0
+掺腔喹啉	shan qiang kui lin	0
+掺腔喹啉	xian qiang kui lin	0
+丙氧喹啉	bing yang kui lin	0
+苯氧喹啉	ben yang kui lin	0
+氨基甲酸酯类杀菌剂	an ji jia suan zhi lei sha jun ji	0
+乙霉威	yi mei wei	0
+异丙菌胺	yi bing jun an	0
+苯噻菌胺	ben sai jun an	0
+霜霉威	shuang mei wei	0
+磺菌威	huang jun wei	0
+敌瘟磷	di wen lin	0
+异稻瘟净	yi dao wen jing	0
+异稻瘟净	yi dao wen cheng	0
+甲基立枯磷	jia ji li ku lin	0
+抗生素类杀菌剂	kang sheng su lei sha jun ji	0
+灭瘟素	mie wen su	0
+春雷霉素	chun lei mei su	0
+多抗霉素	duo kang mei su	0
+多氧霉素	duo yang mei su	0
+有效霉素	you xiao mei su	0
+井冈霉素	jing gang mei su	0
+链霉素	lian mei su	0
+甲霜灵	jia shuang ling	0
+呋霜灵	fu shuang ling	0
+苯霜灵	ben shuang ling	0
+呋酰胺	fu xian an	0
+灭锈胺	mie xiu an	0
+多菌灵	duo jun ling	0
+甲基硫菌灵	jia ji liu jun ling	0
+三唑酮	san zuo tong	0
+乙嘧酚磺酸酯	yi mi fen huang suan zhi	0
+二甲嘧酚	er jia mi fen	0
+乙嘧酚	yi mi fen	0
+敌菌丹	di jun dan	0
+克菌丹	ke jun dan	0
+灭菌丹	mie jun dan	0
+乙烯菌核利	yi xi jun he li	0
+氟氯菌核利	fu lv jun he li	0
+菌核净	jun he jing	0
+菌核净	jun he cheng	0
+百菌清	bai jun qing	0
+稻瘟净	dao wen jing	0
+稻瘟净	dao wen cheng	0
+叶枯唑	ye ku zuo	0
+叶枯唑	xie ku zuo	0
+五氯硝基苯	wu lv xiao ji ben	0
+福美双	fu mei shuang	0
+代森锰锌	dai sen meng xin	0
+丙森锌	bing sen xin	0
+三乙膦酸铝	san yi lin suan lv	0
+硫磺	liu huang	0
+波尔多液	bo er duo ye	0
+硫酸铜	liu suan tong	0
+氧氯化铜	yang lv hua tong	0
+氧化亚铜	yang hua ya tong	0
+氢氧化铜	qing yang hua tong	0
+毒剂	du ji	0
+活化酯	huo hua zhi	0
+苯菌酮	ben jun tong	0
+戊菌隆	wu jun long	0
+哒菌酮	da jun tong	0
+苯锈啶	ben xiu ding	0
+四氯苯酞	si lv ben tai	0
+咯喹酮	lo kui tong	0
+咯喹酮	ge kui tong	0
+咯喹酮	ka kui tong	0
+咯喹酮	luo kui tong	0
+螺环菌胺	luo huan jun an	0
+三环唑	san huan zuo	0
+嗪胺灵	qin an ling	0
+霜脲氰	shuang niao qing	0
+多果定	duo guo ding	0
+双胍辛胺	shuang gua xin an	0
+氯硝胺	lv xiao an	0
+苯磺菌胺	ben huang jun an	0
+甲苯磺菌胺	jia ben huang jun an	0
+吲哚酯	yin duo zhi	0
+敌磺钠	di huang na	0
+喹菌酮	kui jun tong	0
+烯丙苯噻唑	xi bing ben sai zuo	0
+溴硝醇	xiu xiao chun	0
+杀线虫剂	sha xian chong ji	0
+丰索磷	feng suo lin	0
+虫线磷	chong xian lin	0
+丁硫环磷	ding liu huan lin	0
+丁硫环磷	zheng liu huan lin	0
+部分常用的混剂	bu fen chang yong de hun ji	0
+部分常用的混剂	bu fen chang yong di hun ji	0
+植病灵	zhi bing ling	0
+病毒	bing du	0
+吲唑磺菌胺	shen zuo huang jun an	0
+吲唑磺菌胺	yin zuo huang jun an	0
+甲香菌酯	jia xiang jun zhi	0
+菌酯	jun zhi	0
+诱抗素	you kang su	0
+腺嘌呤	xian piao ling	0
+甲草胺	jia cao an	0
+尿囊素	niao nang su	0
+环丙嘧啶醇	huan bing mi ding chun	0
+磺草灵	huang cao ling	0
+蜡质芽孢杆菌	la zhi ya bao gan jun	0
+抑芽醚	yi ya mi	0
+苄氨基嘌呤	bian an ji piao ling	0
+芸薹素内酯	yun tai su nei zhi	0
+仲丁灵	zhong ding ling	0
+仲丁灵	zhong zheng ling	0
+几丁聚糖	ji ding ju tang	0
+几丁聚糖	ji zheng ju tang	0
+整形醇	zheng xing chun	0
+矮壮素	ai zhuang su	0
+三丁氯苄	san ding lv bian	0
+三丁氯苄	san zheng lv bian	0
+玉雄杀	yu xiong sha	0
+氯苯胺灵	lv ben an ling	0
+氯化胆碱	lv hua dan jian	0
+苯哒嗪酸	ben da qin suan	0
+调果酸	diao guo suan	0
+调果酸	tiao guo suan	0
+坐果酸	zuo guo suan	0
+氯苯氧乙酸	lv ben yang yi suan	0
+增色胺	zeng se an	0
+矮健素	ai jian su	0
+单氰胺	dan qing an	0
+单氰胺	shan qing an	0
+单氰胺	chan qing an	0
+环丙酰草胺	huan bing xian cao an	0
+放线菌酮	fang xian jun tong	0
+丁酰肼	ding xian jing	0
+丁酰肼	zheng xian jing	0
+增产胺	zeng chan an	0
+正癸醇	zheng gui chun	0
+调呋酸	diao fu suan	0
+调呋酸	tiao fu suan	0
+噻节因	sai jie yin	0
+地乐酚	di le fen	0
+地乐酚	de le fen	0
+地乐酚	di yue fen	0
+地乐酚	de yue fen	0
+敌草快	di cao kuai	0
+麦草畏甲酯	mai cao wei jia zhi	0
+敌草隆	di cao long	0
+调节安	tiao jie an	0
+二苯脲	er ben niao	0
+乙二膦酸	yi er lin suan	0
+萘乙酸乙酯	nai yi suan yi zhi	0
+茵多酸	yin duo suan	0
+乙烯硅	yi xi gui	0
+乙烯利	yi xi li	0
+吲熟酯	shen shou zhi	0
+吲熟酯	yin shou zhi	0
+吲熟酯	shen shu zhi	0
+吲熟酯	yin shu zhi	0
+芴丁酸胺	hu ding suan an	0
+芴丁酸胺	wu ding suan an	0
+氟节胺	fu jie an	0
+增糖胺	zeng tang an	0
+芴丁酸	hu ding suan	0
+芴丁酸	wu ding suan	0
+调嘧醇	diao mi chun	0
+调嘧醇	tiao mi chun	0
+氯吡脲	lv bi niao	0
+氯吡脲	lv pi niao	0
+杀木膦	sha mu lin	0
+赤霉酸	chi mei suan	0
+果绿啶	guo lv ding	0
+乙二肟	yi er wo	0
+草甘膦	cao gan lin	0
+增甘膦	zeng gan lin	0
+超敏蛋白	chao min dan bai	0
+增产肟	zeng chan wo	0
+腐植酸	fu zhi suan	0
+羟基乙肼	qiang ji yi jing	0
+霉灵	mei ling	0
+抗倒胺	kang dao an	0
+吲哚乙酸	yin duo yi suan	0
+吲哚丁酸	yin duo ding suan	0
+吲哚丙酸	yin duo bing suan	0
+增产灵	zeng chan ling	0
+茉莉酸	mo li suan	0
+糠氨基嘌呤	kang an ji piao ling	0
+氯酸镁	lv suan mei	0
+抑芽丹	yi ya dan	0
+促生酯	cu sheng zhi	0
+甲基环丙烯	jia ji huan bing xi	0
+氟磺酰草胺	fu huang xian cao an	0
+萘乙酸甲酯	nai yi suan jia zhi	0
+甲哌	jia pai	0
+甲氧隆	jia yang long	0
+萘乙酰胺	nai yi xian an	0
+萘乙酸	nai yi suan	0
+萘氧乙酸	nai yang yi suan	0
+烟酰胺	yan xian an	0
+甲苯酞氨酸	jia ben tai an suan	0
+缩水甘油酸	suo shui gan you suan	0
+羟基喹啉柠檬酸盐	qiang ji kui lin ning meng suan yan	0
+多效唑	duo xiao zuo	0
+百草枯	bai cao ku	0
+对溴苯氧乙酸	dui xiu ben yang yi suan	0
+氨氯吡啶酸	an lv bi ding suan	0
+松脂二烯	song zhi er xi	0
+调环酸	diao huan suan	0
+调环酸	tiao huan suan	0
+甲基抑霉唑	jia ji yi mei zuo	0
+丰啶醇	feng ding chun	0
+调节硅	tiao jie gui	0
+水杨酸	shui yang suan	0
+杀雄啉	sha xiong lan	0
+杀雄啉	sha xiong lin	0
+琥珀酸	hu po suan	0
+四环唑	si huan zuo	0
+三氟吲哚丁酸酯	san fu yin duo ding suan zhi	0
+托实康	tuo shi kang	0
+噻苯隆	sai ben long	0
+三碘苯甲酸	san dian ben jia suan	0
+三十烷醇	san shi wan chun	0
+抑芽唑	yi ya zuo	0
+脱叶磷	tuo ye lin	0
+脱叶磷	tuo xie lin	0
+抗倒酯	kang dao zhi	0
+十一碳烯酸	shi yi tan xi suan	0
+烯效唑	xi xiao zuo	0
+抗坏血酸	kang huai xue suan	0
+玉米素	yu mi su	0

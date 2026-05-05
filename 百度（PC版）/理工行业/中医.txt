@@ -1,0 +1,1531 @@
+# 词库名称: 中医
+# 词库分类: 燥湿化痰 燥火 燥热 燥矢 燥剂 燥结 燥湿 撮口
+# 词库作者: 我的光辉水月
+# 词库描述: 中医...
+# 词条数量: 1523
+# 解析词数: 1525
+# 解析异常: 2
+
+一剂	yi ji	0
+一阳	yi yang	0
+一阴	yi yin	0
+二阳	er yang	0
+二阳并病	er yang bing bing	0
+二阴	er yin	0
+二十八脉	er shi ba mai	0
+二十八脉	er shi ba mo	0
+七冲门	qi chong men	0
+七窍	qi qiao	0
+七伤	qi shang	0
+七情	qi qing	0
+八法	ba fa	0
+八纲	ba gang	0
+八纲辨证	ba gang bian zheng	0
+九种心痛	jiu zhong xin tong	0
+九窍	jiu qiao	0
+九脏	jiu zang	0
+十二节	shi er jie	0
+十二官	shi er guan	0
+十问	shi wen	0
+十八反	shi ba fan	0
+十九畏	shi jiu wei	0
+儿枕作痛	er zhen zuo tong	0
+儿枕痛	er zhen tong	0
+亡阴亡阳	wang yin wang yang	0
+亡阴亡阳	wu yin wang yang	0
+亡阴亡阳	wang yin wu yang	0
+亡阴亡阳	wu yin wu yang	0
+亡阴证	wang yin zheng	0
+亡阴证	wu yin zheng	0
+亡阳证	wang yang zheng	0
+亡阳证	wu yang zheng	0
+亡血家	wang xie jia	0
+亡血家	wang xue jia	0
+亡血家	wu xie jia	0
+亡血家	wu xue jia	0
+亡津液	wang jin ye	0
+亡津液	wu jin ye	0
+三阳	san yang	0
+三阴	san yin	0
+三阴三阳	san yin san yang	0
+三阳合病	san yang he bing	0
+三阳合病	san yang ge bing	0
+三部九侯	san bu jiu hou	0
+三品	san pin	0
+三消	san xiao	0
+三焦	san jiao	0
+三焦湿热	san jiao shi re	0
+三焦虚寒	san jiao xu han	0
+三焦辨证	san jiao bian zheng	0
+三焦主决渎	san jiao zhu jue du	0
+三焦主决渎	san jiao zhu jue dou	0
+三因	san yin	0
+大热	da re	0
+大病	da bing	0
+大厥	da jue	0
+大厥	dai jue	0
+大厥	tai jue	0
+暴厥	bao jue	0
+暴厥	pu jue	0
+大头瘟	da tou wen	0
+大烦渴	da fan ke	0
+大烦渴	dai fan ke	0
+大烦渴	tai fan ke	0
+大肠	da chang	0
+大肠实	da chang shi	0
+大肠寒	da chang han	0
+大肠湿热	da chang shi re	0
+大肠热结	da chang re jie	0
+大实有羸状	da shi you lei zhuang	0
+大实有羸状	dai shi you lei zhuang	0
+大实有羸状	tai shi you lei zhuang	0
+真实假虚	zhen shi jia xu	0
+上盛下虚	shang sheng xia xu	0
+上实下虚	shang shi xia xu	0
+上热下寒	shang re xia han	0
+上寒下热	shang han xia re	0
+上窍	shang qiao	0
+下迫	xia po	0
+下迫	xia pai	0
+下窍	xia qiao	0
+下元亏损	xia yuan kui sun	0
+下元虚弱	xia yuan xu ruo	0
+下利清谷	xia li qing gu	0
+下利清谷	xia li qing yu	0
+干噫食臭	gan yi shi chou	0
+干噫食臭	gan yi si chou	0
+干噫食臭	gan yi yi chou	0
+干噫食臭	gan yi shi xiu	0
+干噫食臭	gan yi si xiu	0
+干噫食臭	gan yi yi xiu	0
+子气	zi qi	0
+子处	zi chu	0
+子肿	zi zhong	0
+子门	zi men	0
+子淋	zi lin	0
+子悬	zi xuan	0
+子烦	zi fan	0
+子鸣	zi ming	0
+子瘖	zi yin	0
+子脏	zi zang	0
+子痈	zi yong	0
+子痰	zi tan	0
+子宫虚寒	zi gong xu han	0
+广肠	guang chang	0
+广肠	an chang	0
+尸厥	shi jue	0
+卫气	wei qi	0
+卫气营血辨证	wei qi ying xie bian zheng	0
+卫气营血辨证	wei qi ying xue bian zheng	0
+卫气不固	wei qi bu gu	0
+卫气不固	wei qi fou gu	0
+表气不固	biao qi bu gu	0
+表气不固	biao qi fou gu	0
+卫气同病	wei qi tong bing	0
+卫气营血	wei qi ying xie	0
+卫气营血	wei qi ying xue	0
+卫分证	wei fen zheng	0
+口糜	kou mi	0
+口糜	kou mei	0
+口噤	kou jin	0
+口不仁	kou bu ren	0
+口中和	kou zhong he	0
+口眼歪斜	kou yan wai xie	0
+马刀侠瘿	ma dao xia ying	0
+女子胞	nv zi bao	0
+胞宫	bao gong	0
+胞脏	bao zang	0
+寸口脉	cun kou mai	0
+寸口脉	cun kou mo	0
+小肠主液	xiao chang zhu ye	0
+大肠主津	da chang zhu jin	0
+小肠	xiao chang	0
+小肠气痛	xiao chang qi tong	0
+小肠虚寒	xiao chang xu han	0
+小肠实热	xiao chang shi re	0
+小肠主受盛	xiao chang zhu shou sheng	0
+小肠主受盛	xiao chang zhu shou cheng	0
+水饮	shui yin	0
+水肿	shui zhong	0
+水逆	shui ni	0
+水蛊	shui gu	0
+水火	shui huo	0
+水鼓	shui gu	0
+水亏火旺	shui kui huo wang	0
+阴虚阳亢	yin xu yang kang	0
+水郁折之	shui yu zhe zhi	0
+水郁折之	shui yu she zhi	0
+水谷之海	shui gu zhi hai	0
+水湿浸渍	shui shi jin zi	0
+水气凌心	shui qi ling xin	0
+水气冲心	shui qi chong xin	0
+五脏	wu zang	0
+五味	wu wei	0
+五行	wu hang	0
+五色	wu se	0
+五迟	wu chi	0
+五淋	wu lin	0
+五液	wu ye	0
+五药	wu yao	0
+五更泻	wu geng xie	0
+五轮	wu lun	0
+五心	wu xin	0
+五心烦热	wu xin fan re	0
+五官	wu guan	0
+五中	wu zhong	0
+五主	wu zhu	0
+五恶	wu e	0
+五恶	wu wu	0
+五入	wu ru	0
+五水	wu shui	0
+五脉	wu mai	0
+五脉	wu mo	0
+五决	wu jue	0
+五谷	wu gu	0
+五禽之戏	wu qin zhi xi	0
+五禽之戏	wu qin zhi hu	0
+风团	feng tuan	0
+风邪	feng xie	0
+风邪	feng xu	0
+风邪	feng ya	0
+风邪	feng ye	0
+风邪	feng yu	0
+风寒束肺	feng han shu fei	0
+风火眼痛	feng huo yan tong	0
+风湿	feng shi	0
+风关	feng guan	0
+风水	feng shui	0
+风热	feng re	0
+风消	feng xiao	0
+风寒	feng han	0
+风能胜湿	feng neng sheng shi	0
+风湿相搏	feng shi xiang bo	0
+风水泛滥	feng shui fan lan	0
+心包	xin bao	0
+心包络	xin bao luo	0
+心包络	xin bao lao	0
+心气虚	xin qi xu	0
+心阳虚	xin yang xu	0
+心阴虚	xin yin xu	0
+心血虚	xin xue xu	0
+心火上炎	xin huo shang yan	0
+心火盛	xin huo sheng	0
+心火盛	xin huo cheng	0
+心热	xin re	0
+心阳不通	xin yang bu tong	0
+心血瘀阻	xin xue yu zu	0
+心痹	xin bi	0
+胸阳不通	xiong yang bu tong	0
+心肾不交	xin shen bu jiao	0
+心脾两虚	xin pi liang xu	0
+心下急	xin xia ji	0
+心下满	xin xia man	0
+心下痞	xin xia pi	0
+心下逆满	xin xia ni man	0
+心下痞硬	xin xia pi ying	0
+心下硬满	xin xia ying man	0
+心中懊憹	xin zhong ao nang	0
+心中懊憹	xin zhong ao nao	0
+心虚胆怯	xin xu dan qie	0
+心悸	xin ji	0
+心痛	xin tong	0
+心生血	xin sheng xie	0
+心生血	xin sheng xue	0
+心血不足	xin xue bu zu	0
+心神不安	xin shen bu an	0
+心主汗	xin zhu han	0
+汗为心液	han wei xin ye	0
+心藏神	xin cang shen	0
+心藏神	xin zang shen	0
+五脏六腑	wu zang liu fu	0
+心主血脉	xin zhu xue mai	0
+其华在面	qi hua zai mian	0
+其华在面	ji hua zai mian	0
+开窍于舌	kai qiao yu she	0
+心与小肠相表里	xin yu xiao chang xiang biao li	0
+心火	xin huo	0
+内风	nei feng	0
+内风	na feng	0
+内实	nei shi	0
+内实	na shi	0
+内格	nei ge	0
+内格	na ge	0
+内消	nei xiao	0
+内热	nei re	0
+内闭外脱	nei bi wai tuo	0
+内闭外脱	na bi wai tuo	0
+内托	nei tuo	0
+内痈	nei yong	0
+内痈	na yong	0
+内寒	nei han	0
+内寒	na han	0
+内湿	nei shi	0
+内燥	nei zao	0
+内燥	na zao	0
+内火	nei huo	0
+中脏	zhong zang	0
+中腑	zhong fu	0
+中经络	zhong jing luo	0
+中经络	zhong jing lao	0
+中风	zhong feng	0
+中侯	zhong hou	0
+中气不足	zhong qi bu zu	0
+中暑	zhong shu	0
+中风痰厥	zhong feng tan jue	0
+中焦寒热互结	zhong jiao han re hu jie	0
+气虚	qi xu	0
+气血津液	qi xue jin ye	0
+气化	qi hua	0
+气机	qi ji	0
+气滞	qi zhi	0
+气郁	qi yu	0
+气逆	qi ni	0
+气分证	qi fen zheng	0
+气随血脱	qi sui xie tuo	0
+气随血脱	qi sui xue tuo	0
+气滞血瘀	qi zhi xue yu	0
+气不摄血	qi bu she xie	0
+气不摄血	qi bu she xue	0
+气不摄血	qi fou she xie	0
+气不摄血	qi bu nie xie	0
+气不摄血	qi fou she xue	0
+气不摄血	qi bu nie xue	0
+气不摄血	qi fou nie xie	0
+气不摄血	qi fou nie xue	0
+气分大热	qi fen da re	0
+气功疗法	qi gong liao fa	0
+气陷	qi xian	0
+中气下陷	zhong qi xia xian	0
+气痞	qi pi	0
+气胀	qi zhang	0
+气鼓	qi gu	0
+气上冲	qi shang chong	0
+气血两燔	qi xue liang fan	0
+气热灼津	qi re zhuo jin	0
+气虚便秘	qi xu bian mi	0
+气化不利	qi hua bu li	0
+气血失调	qi xue shi tiao	0
+元气	yuan qi	0
+原气	yuan qi	0
+元府	yuan fu	0
+玄府	xuan fu	0
+元神之府	yuan shen zhi fu	0
+六气	liu qi	0
+六腑以通为用	liu fu yi tong wei yong	0
+六腑	liu fu	0
+六淫	liu yin	0
+六经辨证	liu jing bian zheng	0
+六经之藩篱	liu jing zhi fan li	0
+六阴脉	liu yin mai	0
+六阴脉	lu yin mai	0
+六阴脉	liu yin mo	0
+六阴脉	lu yin mo	0
+六阳脉	liu yang mai	0
+六阳脉	liu yang mo	0
+火热	huo re	0
+火邪	huo xie	0
+火邪	huo xu	0
+火邪	huo ya	0
+火邪	huo ye	0
+火邪	huo yu	0
+开窍除痰	kai qiao chu tan	0
+开鬼门	kai gui men	0
+魄门	po men	0
+魄门	tuo men	0
+开泄	kai xie	0
+开泄	kai yi	0
+开胃	kai wei	0
+开窍	kai qiao	0
+开闭	kai bi	0
+升阳补气	sheng yang bu qi	0
+升降合剂	sheng jiang he ji	0
+手足拘急	shou zu ju ji	0
+手足	shou zu	0
+手足厥	shou zu jue	0
+手足厥逆	shou zu jue ni	0
+手足厥寒	shou zu jue han	0
+爪为筋之余	zhua wei jin zhi yu	0
+爪为筋之余	zhao wei jin zhi yu	0
+分清别浊	fen qing bie zhuo	0
+毛悴色夭	mao cui se yao	0
+毛悴色夭	mao cui shai yao	0
+天吊	tian diao	0
+天癸	tian gui	0
+从化	cong hua	0
+日哺发热	ri bu fa re	0
+月事	yue shi	0
+化痞	hua pi	0
+消痞	xiao pi	0
+化瘀	hua yu	0
+反关脉	fan guan mai	0
+反关脉	fan guan mo	0
+反胃	fan wei	0
+胃反	wei fan	0
+翻胃	fan wei	0
+文痴	wen chi	0
+丹田	dan tian	0
+切诊	qie zhen	0
+不寐	bu mei	0
+不月	bu yue	0
+不月	fou yue	0
+支节烦痛	zhi jie fan tong	0
+少腹	shao fu	0
+少腹满	shao fu man	0
+少腹拘急	shao fu ju ji	0
+少腹急结	shao fu ji jie	0
+少火壮火	shao huo zhuang huo	0
+正治	zheng zhi	0
+反治	fan zhi	0
+正气	zheng qi	0
+真气	zhen qi	0
+正邪	zheng xie	0
+正气内存	zheng qi nei cun	0
+邪不可干	xie bu ke gan	0
+邪不可干	xu bu ke gan	0
+邪不可干	ya bu ke gan	0
+邪不可干	ye bu ke gan	0
+邪不可干	yu bu ke gan	0
+正气虚	zheng qi xu	0
+正胜邪退	zheng sheng xie tui	0
+正胜邪退	zheng sheng xu tui	0
+正胜邪退	zheng sheng ya tui	0
+正胜邪退	zheng sheng ye tui	0
+正胜邪退	zheng sheng yu tui	0
+四海	si hai	0
+四诊	si zhen	0
+四气	si qi	0
+发表	fa biao	0
+发狂	fa kuang	0
+发热	fa re	0
+发黄	fa huang	0
+发散	fa san	0
+发于机先	fa yu ji xian	0
+皮屑	pi xie	0
+皮水	pi shui	0
+外疮	wai chuang	0
+阳疮	yang chuang	0
+外风	wai feng	0
+外寒	wai han	0
+外因	wai yin	0
+外邪	wai xie	0
+外湿	wai shi	0
+外燥	wai zao	0
+外肾	wai shen	0
+外火	wai huo	0
+半表半里	ban biao ban li	0
+目中赤脉	mu zhong chi mai	0
+目中赤脉	mu zhong chi mo	0
+目昏	mu hun	0
+目胞浮肿	mu bao fu zhong	0
+由表入里	you biao ru li	0
+由里出表	you li chu biao	0
+去瘀生新	qu yu sheng xin	0
+生津	sheng jin	0
+主津与传导	zhu jin yu chuan dao	0
+丘疹	qiu zhen	0
+失气	shi qi	0
+平肝	ping gan	0
+东医	dong yi	0
+汉医	han yi	0
+壮热	zhuang re	0
+壮水制阳	zhuang shui zhi yang	0
+滋水制火	zi shui zhi huo	0
+滋阴涵阳	zi yin han yang	0
+壮阳	zhuang yang	0
+壮水之主	zhuang shui zhi zhu	0
+以制阳光	yi zhi yang guang	0
+血证	xue zheng	0
+血之府	xie zhi fu	0
+血之府	xue zhi fu	0
+血海	xue hai	0
+血虚眩晕	xue xu xuan yun	0
+血瘀证	xue yu zheng	0
+血热	xue re	0
+血热妄行	xue re wang hang	0
+血热妄行	xue re wang xing	0
+血分	xue fen	0
+血虚	xue xu	0
+血瘀	xue yu	0
+血泄	xie xie	0
+血泄	xue xie	0
+血泄	xie yi	0
+血泄	xue yi	0
+血脱	xie tuo	0
+血脱	xue tuo	0
+血崩	xue beng	0
+血枯	xie ku	0
+血枯	xue ku	0
+血热在上	xue re zai shang	0
+血寒	xie han	0
+血寒	xue han	0
+血晕	xie yun	0
+血滞	xie zhi	0
+血滞	xue zhi	0
+血涩	xie se	0
+血涩	xue se	0
+血分证	xue fen zheng	0
+血虚生风	xue xu sheng feng	0
+阴虚	yin xu	0
+阴厥	yin jue	0
+阴疽	yin ju	0
+寒厥	han jue	0
+阴液亏损	yin ye kui sun	0
+阴挺	yin ting	0
+阴脱	yin tuo	0
+阴黄	yin huang	0
+阴痿	yin wei	0
+阴筋	yin jin	0
+阴结	yin jie	0
+阴阳	yin yang	0
+阴门	yin men	0
+阴病治阳	yin bing zhi yang	0
+阴证治阳	yin zheng zhi yang	0
+阴证	yin zheng	0
+阴虚肝旺	yin xu gan wang	0
+阴阳互根	yin yang hu gen	0
+阴阳消长	yin yang xiao zhang	0
+阴阳转化	yin yang zhuan hua	0
+阴痒	yin yang	0
+阴浊	yin zhuo	0
+阴虚发热	yin xu fa re	0
+阴器	yin qi	0
+阴阳自和	yin yang zi he	0
+阴阳自和	yin yang zi hu	0
+阴阳自和	yin yang zi huo	0
+阴阳乖戾	yin yang guai li	0
+阴证水肿	yin zheng shui zhong	0
+阴水	yin shui	0
+阴阳俱虚	yin yang ju xu	0
+阴阳并竭	yin yang bing jie	0
+阴盛格阳	yin sheng ge yang	0
+阴盛格阳	yin cheng ge yang	0
+格阳证	ge yang zheng	0
+阴平阳秘	yin ping yang mi	0
+阴平阳秘	yin ping yang bi	0
+阴阳离决	yin yang li jue	0
+阴中求阳	yin zhong qiu yang	0
+阳中求阴	yang zhong qiu yin	0
+阴脉之海	yin mai zhi hai	0
+阴脉之海	yin mo zhi hai	0
+阴闭	yin bi	0
+阴虚火旺	yin xu huo wang	0
+阴液	yin ye	0
+阴气与阳气	yin qi yu yang qi	0
+阴缩	yin suo	0
+阴缩	yin su	0
+阴绝	yin jue	0
+阳闭	yang bi	0
+阳事	yang shi	0
+阳绝	yang jue	0
+阳脉之海	yang mai zhi hai	0
+阳痿	yang wei	0
+阳盛格阴	yang sheng ge yin	0
+格阴症	ge yin zheng	0
+阳盛	yang sheng	0
+阳黄	yang huang	0
+阳厥	yang jue	0
+热厥	re jue	0
+阳结	yang jie	0
+阳病治阴	yang bing zhi yin	0
+阳证治阴	yang zheng zhi yin	0
+阳痫	yang xian	0
+阳虚	yang xu	0
+阳证	yang zheng	0
+阳虚水泛	yang xu shui fan	0
+补法	bu fa	0
+补气	bu qi	0
+益气	yi qi	0
+补血	bu xue	0
+补阴	bu yin	0
+滋阴	zi yin	0
+养阴	yang yin	0
+育阴	yu yin	0
+益阴	yi yin	0
+补阳	bu yang	0
+助阳	zhu yang	0
+补肾	bu shen	0
+补心	bu xin	0
+补泻兼施	bu xie jian shi	0
+补肺	bu fei	0
+尿血	niao xue	0
+血尿	xue niao	0
+廷孔	ting kong	0
+吸门	xi men	0
+产门	chan men	0
+阴户	yin hu	0
+伏气	fu qi	0
+州都之官	zhou dou zhi guan	0
+州都之官	zhou du zhi guan	0
+尿脬	niao pao	0
+尿脬	sui pao	0
+利水通淋	li shui tong lin	0
+利水退肿	li shui tui zhong	0
+利气	li qi	0
+利水	li shui	0
+利窍	li qiao	0
+利水渗湿	li shui shen shi	0
+辛温解表	xin wen jie biao	0
+辛谅解表	xin liang jie biao	0
+扶正	fu zheng	0
+肌肤甲错	ji fu jia cuo	0
+肌若鱼鳞	ji ruo yu lin	0
+肌若鱼鳞	ji re yu lin	0
+安神	an shen	0
+安胎	an tai	0
+汗出肤冷	han chu fu leng	0
+兴阳	xing yang	0
+协热利	xie re li	0
+达表	da biao	0
+舌本	she ben	0
+舌蹇	she jian	0
+舌色绛	she se jiang	0
+舌色绛	she shai jiang	0
+后阴	hou yin	0
+全不产	quan bu chan	0
+伤风	shang feng	0
+伤暑	shang shu	0
+伤湿	shang shi	0
+伤津	shang jin	0
+伤食	shang shi	0
+行气化水	xing qi hua shui	0
+气行水行	qi hang shui hang	0
+气行水行	qi xing shui hang	0
+气行水行	qi hang shui xing	0
+气行水行	qi xing shui xing	0
+行血	hang xie	0
+行血	xing xie	0
+行血	hang xue	0
+行血	xing xue	0
+行气	xing qi	0
+行水	hang shui	0
+行水	xing shui	0
+行瘀	hang yu	0
+行瘀	xing yu	0
+行痹	hang bi	0
+行痹	xing bi	0
+行滞	hang zhi	0
+行滞	xing zhi	0
+自汗	zi han	0
+自利益甚	zi li yi shen	0
+自利清水	zi li qing shui	0
+同病异治	tong bing yi zhi	0
+异病同治	yi bing tong zhi	0
+回阳	hui yang	0
+收引	shou yin	0
+伏邪	fu xie	0
+伏邪	fu xu	0
+伏邪	fu ya	0
+伏邪	fu ye	0
+伏邪	fu yu	0
+并月	bing yue	0
+传化糟粕	chuan hua zao po	0
+传化糟粕	zhuan hua zao po	0
+传变	chuan bian	0
+传化	chuan hua	0
+传化	zhuan hua	0
+冲任不固	chong ren bu gu	0
+冲任不固	chong ren fou gu	0
+冲任损伤	chong ren sun shang	0
+闭证	bi zheng	0
+问诊	wen zhen	0
+因寒生湿	yin han sheng shi	0
+因热生湿	yin re sheng shi	0
+因热生火	yin re sheng huo	0
+因热生燥	yin re sheng zao	0
+因寒生燥	yin han sheng zao	0
+因郁致病	yin yu zhi bing	0
+因病致郁	yin bing zhi yu	0
+百节	bai jie	0
+百合病	bai he bing	0
+囟凸	xin tu	0
+囟凹	xin ao	0
+囟凹	xin wa	0
+囟门不合	xin men bu he	0
+吐舌弄舌	tu she nong she	0
+吐舌弄舌	tu she long she	0
+吐血	tu xie	0
+邪气盛则实	xie qi sheng ze shi	0
+邪气盛则实	xie qi cheng ze shi	0
+精气夺则虚	jing qi duo ze xu	0
+邪气	xie qi	0
+邪正相搏	xie zheng xiang bo	0
+邪正相搏	xu zheng xiang bo	0
+邪正相搏	ya zheng xiang bo	0
+邪正相搏	ye zheng xiang bo	0
+邪正相搏	yu zheng xiang bo	0
+邪盛正衰	xie sheng zheng shuai	0
+邪盛正衰	xie cheng zheng shuai	0
+邪盛正衰	xie sheng zheng cui	0
+邪盛正衰	yu sheng zheng shuai	0
+邪盛正衰	ye sheng zheng shuai	0
+邪盛正衰	ya sheng zheng shuai	0
+邪盛正衰	xu sheng zheng shuai	0
+邪盛正衰	xu cheng zheng shuai	0
+邪盛正衰	ya cheng zheng shuai	0
+邪盛正衰	ye cheng zheng shuai	0
+邪盛正衰	yu cheng zheng shuai	0
+邪盛正衰	xie cheng zheng cui	0
+邪盛正衰	xu sheng zheng cui	0
+邪盛正衰	ya sheng zheng cui	0
+邪盛正衰	ye sheng zheng cui	0
+邪盛正衰	yu sheng zheng cui	0
+邪盛正衰	xu cheng zheng cui	0
+邪盛正衰	ya cheng zheng cui	0
+邪盛正衰	ye cheng zheng cui	0
+邪盛正衰	yu cheng zheng cui	0
+邪留三焦	xie liu san jiao	0
+邪留三焦	xu liu san jiao	0
+邪留三焦	ya liu san jiao	0
+邪留三焦	ye liu san jiao	0
+邪留三焦	yu liu san jiao	0
+至虚有盛候	zhi xu you sheng hou	0
+至虚有盛候	zhi xu you cheng hou	0
+真虚假实	zhen xu jia shi	0
+至阴	zhi yin	0
+关格	guan ge	0
+祛邪	qu xie	0
+肝藏血	gan cang xie	0
+肝藏血	gan zang xie	0
+肝藏血	gan cang xue	0
+肝藏血	gan zang xue	0
+肝主谋虑	gan zhu mou lv	0
+肝主疏泄	gan zhu shu xie	0
+肝开窍于目	gan kai qiao yu mu	0
+肝主筋	gan zhu jin	0
+肝火上炎	gan huo shang yan	0
+肝经实火	gan jing shi huo	0
+肝脾不和	gan pi bu he	0
+肝旺脾弱	gan wang pi ruo	0
+肝胆湿热	gan dan shi re	0
+肝肾阴虚	gan shen yin xu	0
+肝胃不和	gan wei bu he	0
+肝气犯胃	gan qi fan wei	0
+肝气横逆	gan qi heng ni	0
+肝气	gan qi	0
+肝气郁结	gan qi yu jie	0
+肝气郁滞	gan qi yu zhi	0
+肝风内动	gan feng nei dong	0
+肝风内动	gan feng na dong	0
+肝阳上亢	gan yang shang kang	0
+肝经湿热	gan jing shi re	0
+肝不藏血	gan bu cang xie	0
+肝不藏血	gan bu zang xie	0
+肝不藏血	gan bu cang xue	0
+肝不藏血	gan bu zang xue	0
+肝不藏血	gan fou cang xie	0
+肝不藏血	gan fou zang xie	0
+肝不藏血	gan fou cang xue	0
+肝不藏血	gan fou zang xue	0
+肝血虚	gan xue xu	0
+肝胆相表里	gan dan xiang biao li	0
+肝郁肾亏	gan yu shen kui	0
+肝郁脾虚	gan yu pi xu	0
+肝痈	gan yong	0
+呃逆	e ni	0
+纳气	na qi	0
+肠辟	chang bi	0
+肠辟	chang pi	0
+肠结	chang jie	0
+肠痈	chang yong	0
+肠风	chang feng	0
+肠燥便秘	chang zao bian mi	0
+吹乳	chui ru	0
+芳香化浊	fang xiang hua zhuo	0
+肠液亏损	chang ye kui sun	0
+肠虚滑脱	chang xu hua tuo	0
+呕逆	ou ni	0
+抓痕	zhua hen	0
+龟背	gui bei	0
+完谷不化	wan gu bu hua	0
+完谷不化	wan yu bu hua	0
+杵壮指	chu zhuang zhi	0
+足内抛	zu nei pao	0
+足内抛	zu na pao	0
+足外抛	zu wai pao	0
+呆钝	dai dun	0
+沉郁	chen yu	0
+角弓反张	jiao gong fan zhang	0
+里寒	li han	0
+里热	li re	0
+里虚	li xu	0
+里实	li shi	0
+里结	li jie	0
+里热炽盛	li re chi sheng	0
+医话	yi hua	0
+医经	yi jing	0
+医案	yi an	0
+医淋	yi lin	0
+谷气	gu qi	0
+谷气	yu qi	0
+谷胀	gu zhang	0
+谷胀	yu zhang	0
+攻里	gong li	0
+攻坚	gong jian	0
+肾虚眩晕	shen xu xuan yun	0
+肾藏精	shen cang jing	0
+肾关	shen guan	0
+肾主水	shen zhu shui	0
+肾主骨	shen zhu gu	0
+肾生髓	shen sheng sui	0
+肾通脑	shen tong nao	0
+肾开窍于耳	shen kai qiao yu er	0
+其华在发	qi hua zai fa	0
+其华在发	ji hua zai fa	0
+肾气不固	shen qi bu gu	0
+肾气不固	shen qi fou gu	0
+肾不纳气	shen bu na qi	0
+肾不纳气	shen fou na qi	0
+肾虚水泛	shen xu shui fan	0
+肾亏火旺	shen kui huo wang	0
+阴亏火旺	yin kui huo wang	0
+肾水	shen shui	0
+肾液	shen ye	0
+肾阴	shen yin	0
+肾阴虚	shen yin xu	0
+肾阳虚	shen yang xu	0
+肾阳不足	shen yang bu zu	0
+肾阴不足	shen yin bu zu	0
+肾间动气	shen jian dong qi	0
+肾气	shen qi	0
+肾不养肝	shen bu yang gan	0
+虚不养肝	xu bu yang gan	0
+肾与膀胱相表里	shen yu pang guang xiang biao li	0
+肾不暖脾	shen bu nuan pi	0
+肾不暖脾	shen fou nuan pi	0
+肾不制水	shen bu zhi shui	0
+肾不制水	shen fou zhi shui	0
+肾不利水	shen bu li shui	0
+肾开窍于二阴	shen kai qiao yu er yin	0
+肾为水脏	shen wei shui zang	0
+暴盲	bao mang	0
+暴盲	pu mang	0
+暴病	bao bing	0
+暴注	bao zhu	0
+暴注	pu zhu	0
+暴仆	bao pu	0
+暴仆	pu pu	0
+暴热	bao re	0
+暴聋	bao long	0
+暴聋	pu long	0
+暴脱	bao tuo	0
+暴脱	pu tuo	0
+暴瘖	bao yin	0
+暴瘖	pu yin	0
+激经	ji jing	0
+盛胎	sheng tai	0
+盛胎	cheng tai	0
+臁疮	lian chuang	0
+疝痈	shan yong	0
+疝气	shan qi	0
+肢厥	zhi jue	0
+肿满	zhong man	0
+泌别清浊	bi bie qing zhuo	0
+泌别清浊	mi bie qing zhuo	0
+命门	ming men	0
+命门火衰	ming men huo shuai	0
+命门火衰	ming men huo cui	0
+定风	ding feng	0
+定志	ding zhi	0
+空窍	kong qiao	0
+泄利	xie li	0
+泄利	yi li	0
+泄泻	xie xie	0
+怔忡	zheng chong	0
+怵惕	chu ti	0
+拘急	ju ji	0
+奔豚气	ben tun qi	0
+奔豚	ben tun	0
+居经	ju jing	0
+固精	gu jing	0
+固肾	gu shen	0
+经隧	jing sui	0
+经方	jing fang	0
+经水先期	jing shui xian qi	0
+月经先期	yue jing xian qi	0
+经水适来	jing shui shi lai	0
+经水适断	jing shui shi duan	0
+经水后期	jing shui hou qi	0
+月经后期	yue jing hou qi	0
+经络	jing luo	0
+宗气	zong qi	0
+宗筋	zong jin	0
+宗脉	zong mai	0
+宗脉	zong mo	0
+宗脉所聚	zong mai suo ju	0
+宗脉所聚	zong mo suo ju	0
+和血	he xue	0
+和法	he fa	0
+和胃	he wei	0
+和胃	hu wei	0
+和胃	huo wei	0
+周痹	zhou bi	0
+昏厥	hun jue	0
+往来寒热	wang lai han re	0
+受盛之官	shou sheng zhi guan	0
+受盛之官	shou cheng zhi guan	0
+软坚	ruan jian	0
+炒三消	chao san xiao	0
+炒三仙	chao san xian	0
+实证	shi zheng	0
+实胀	shi zhang	0
+转筋	zhuan jin	0
+转筋	zhuai jin	0
+转胞	zhuan bao	0
+转胞	zhuai bao	0
+性味	xing wei	0
+气味	qi wei	0
+性能	xing neng	0
+肺主气	fei zhu qi	0
+肺阴虚	fei yin xu	0
+肺气虚	fei qi xu	0
+肺脾两虚	fei pi liang xu	0
+肺肾两虚	fei shen liang xu	0
+肺火	fei huo	0
+肺热便秘	fei re bian mi	0
+肺水	fei shui	0
+肺实	fei shi	0
+肺虚	fei xu	0
+肺痈	fei yong	0
+肺寒	fei han	0
+肺痹	fei bi	0
+肺津	fei jin	0
+肺失清肃	fei shi qing su	0
+肺司宣化	fei si xuan hua	0
+肺司肃降	fei si su jiang	0
+肺司肃降	fei si su xiang	0
+肺司通调	fei si tong diao	0
+肺司通调	fei si tong tiao	0
+肺司水道	fei si shui dao	0
+肺主皮毛	fei zhu pi mao	0
+肺开窍于鼻	fei kai qiao yu bi	0
+肺与大肠相表里	fei yu da chang xiang biao li	0
+肺肾气虚	fei shen qi xu	0
+肺为水之上源	fei wei shui zhi shang yuan	0
+肺主一身之气	fei zhu yi shen zhi qi	0
+肺为气之主	fei wei qi zhi zhu	0
+肾为气之根	shen wei qi zhi gen	0
+肺气不宣	fei qi bu xuan	0
+肺失肃降	fei shi su jiang	0
+肺失肃降	fei shi su xiang	0
+肺合皮毛	fei he pi mao	0
+肺合皮毛	fei ge pi mao	0
+其华在毛	qi hua zai mao	0
+其华在毛	ji hua zai mao	0
+肺上通咽喉	fei shang tong yan hou	0
+肺气上逆	fei qi shang ni	0
+肺脾同病	fei pi tong bing	0
+肺气	fei qi	0
+肺主治节	fei zhu zhi jie	0
+肺朝百脉	fei zhao bai mai	0
+肺朝百脉	fei chao bai mai	0
+泪窍	lei qiao	0
+治则	zhi ze	0
+治风	zhi feng	0
+治风化痰	zhi feng hua tan	0
+治病求本	zhi bing qiu ben	0
+鸡胸	ji xiong	0
+表邪	biao xie	0
+表邪	biao xu	0
+表邪	biao ya	0
+表邪	biao ye	0
+表邪	biao yu	0
+表证	biao zheng	0
+表寒	biao han	0
+表热	biao re	0
+表虚	biao xu	0
+表实	biao shi	0
+表里	biao li	0
+表寒里热	biao han li re	0
+表热里寒	biao re li han	0
+表虚里实	biao xu li shi	0
+表实里虚	biao shi li xu	0
+表里俱寒	biao li ju han	0
+表里俱热	biao li ju re	0
+表里同病	biao li tong bing	0
+制剂	zhi ji	0
+卒中	cu zhong	0
+武痴	wu chi	0
+郁证	yu zheng	0
+奇恒之府	qi heng zhi fu	0
+奇恒之府	ji heng zhi fu	0
+奇经八脉	qi jing ba mai	0
+奇病	qi bing	0
+奇病	ji bing	0
+奇邪	qi xie	0
+奇邪	ji xie	0
+奇邪	qi xu	0
+奇邪	qi ya	0
+奇邪	qi ye	0
+奇邪	qi yu	0
+奇邪	ji xu	0
+奇邪	ji ya	0
+奇邪	ji ye	0
+奇邪	ji yu	0
+齿衄	chi nv	0
+乳痈	ru yong	0
+乳疽	ru ju	0
+乳娥	ru e	0
+乳泣	ru qi	0
+泻下	xie xia	0
+泻心	xie xin	0
+泻火	xie huo	0
+降气	jiang qi	0
+降心火	jiang xin huo	0
+降心火	xiang xin huo	0
+降火	jiang huo	0
+视歧	shi qi	0
+疡医	yang yi	0
+客气上逆	ke qi shang ni	0
+祛痰	qu tan	0
+祛风	qu feng	0
+祛湿	qu shi	0
+祛瘀	qu yu	0
+浊气	zhuo qi	0
+骨蒸	gu zheng	0
+骨痿	gu wei	0
+谷槽风	gu cao feng	0
+谷槽风	yu cao feng	0
+骨节疼烦	gu jie teng fan	0
+宣肺	xuan fei	0
+津液	jin ye	0
+疫咳	yi ke	0
+疫咳	yi hai	0
+温毒喉痹	wen du hou bi	0
+温毒喉痹	wen dai hou bi	0
+缠喉风	chan hou feng	0
+室女	shi nv	0
+神明	shen ming	0
+神昏	shen hun	0
+神志不宁	shen zhi bu ning	0
+逆传心包	ni chuan xin bao	0
+前阴	qian yin	0
+下阴	xia yin	0
+类中风	lei zhong feng	0
+相火妄动	xiang huo wang dong	0
+相生	xiang sheng	0
+相克	xiang ke	0
+相乘	xiang cheng	0
+相侮	xiang wu	0
+相府之官	xiang fu zhi guan	0
+带下医	dai xia yi	0
+除中	chu zhong	0
+除湿	chu shi	0
+胃阴	wei yin	0
+胃汁	wei zhi	0
+胃津	wei jin	0
+胃实	wei shi	0
+胃热	wei re	0
+胃火	wei huo	0
+胃虚	wei xu	0
+胃气不足	wei qi bu zu	0
+胃寒	wei han	0
+胃咳	wei ke	0
+胃咳	wei hai	0
+胃阳虚	wei yang xu	0
+胃气虚	wei qi xu	0
+胃中虚	wei zhong xu	0
+胃家实	wei jia shi	0
+胃主受纳	wei zhu shou na	0
+以降为顺	yi jiang wei shun	0
+胃腑湿热	wei fu shi re	0
+胃气上逆	wei qi shang ni	0
+胃气虚寒	wei qi xu han	0
+胃脘痛	wei wan tong	0
+胃阳	wei yang	0
+胃喜润恶燥	wei xi run e zao	0
+胃喜润恶燥	wei xi run wu zao	0
+胃气	wei qi	0
+胃主腐热	wei zhu fu re	0
+背强	bei qiang	0
+背强	bei jiang	0
+咽喉不利	yan hou bu li	0
+咽门	yan men	0
+咽门	ye men	0
+咽后痈	yan hou yong	0
+咽后痈	ye hou yong	0
+胎气	tai qi	0
+胎热	tai re	0
+胎寒	tai han	0
+胎漏	tai lou	0
+漏胎	lou tai	0
+胎痫	tai xian	0
+胎惊	tai jing	0
+胎动不安	tai dong bu an	0
+胞衣	bao yi	0
+胞衣不下	bao yi bu xia	0
+胞门	bao men	0
+胞阻	bao zu	0
+胆热	dan re	0
+重身	zhong shen	0
+重身	chong shen	0
+急惊风	ji jing feng	0
+急热惊风	ji re jing feng	0
+急下存阴	ji xia cun yin	0
+适寒温	shi han wen	0
+项背强几几	xiang bei qiang ji ji	0
+项背强几几	xiang bei jiang ji ji	0
+项强	xiang qiang	0
+项强	xiang jiang	0
+活血化瘀	huo xue hua yu	0
+活血	huo xue	0
+活血通经	huo xue tong jing	0
+活血祛瘀	huo xue qu yu	0
+活血行瘀	huo xue hang yu	0
+活血行瘀	huo xue xing yu	0
+养肝	yang gan	0
+养心	yang xin	0
+养津液	yang jin ye	0
+顺传与逆传	shun chuan yu ni chuan	0
+顺传与逆传	shun zhuan yu ni chuan	0
+顺传与逆传	shun chuan yu ni zhuan	0
+顺传与逆传	shun zhuan yu ni zhuan	0
+结阴	jie yin	0
+结阳	jie yang	0
+结胸	jie xiong	0
+歪嘴风	wai zui feng	0
+脉经	mai jing	0
+脉证顺逆	mai zheng shun ni	0
+脉证顺逆	mo zheng shun ni	0
+既病防变	ji bing fang bian	0
+柔肝	rou gan	0
+闻诊	wen zhen	0
+恍惚	huang hu	0
+枯涩	ku se	0
+疮疡	chuang yang	0
+肿疡	zhong yang	0
+溃疡	kui yang	0
+烂喉丹沙	lan hou dan sha	0
+宣剂	xuan ji	0
+宣通水道	xuan tong shui dao	0
+洞泄	dong xie	0
+洞泄	dong yi	0
+湿泻	shi xie	0
+濡泻	ru xie	0
+洁净府	jie jing fu	0
+砭石	bian shi	0
+石针	shi zhen	0
+石针	dan zhen	0
+复合脉	fu he mai	0
+复合脉	fu he mo	0
+相兼脉	xiang jian mai	0
+相兼脉	xiang jian mo	0
+食医	shi yi	0
+食医	si yi	0
+食医	yi yi	0
+衄血	nv xue	0
+脏燥证	zang zao zheng	0
+脏腑	zang fu	0
+脏腑学说	zang fu xue shuo	0
+病机	bing ji	0
+病机十九条	bing ji shi jiu tiao	0
+益火之源	yi huo zhi yuan	0
+以消阴翳	yi xiao yin yi	0
+益胃	yi wei	0
+益气生津	yi qi sheng jin	0
+凉血	liang xue	0
+涌吐	yong tu	0
+涌吐	chong tu	0
+消水	xiao shui	0
+消导	xiao dao	0
+消法	xiao fa	0
+消胀	xiao zhang	0
+消瘀	xiao yu	0
+消积	xiao ji	0
+消痰	xiao tan	0
+消满	xiao man	0
+消痈	xiao yong	0
+消谷善饥	xiao gu shan ji	0
+消谷善饥	xiao yu shan ji	0
+消食化滞	xiao shi hua zhi	0
+调气	tiao qi	0
+调经	tiao jing	0
+调整阴阳	tiao zheng yin yang	0
+调整肝脾	tiao zheng gan pi	0
+调理脾胃	tiao li pi wei	0
+积聚	ji ju	0
+症瘕	zheng jia	0
+癖块	pi kuai	0
+痃癖	xuan pi	0
+痞块	pi kuai	0
+哮喘	xiao chuan	0
+热病	re bing	0
+热毒	re du	0
+热证	re zheng	0
+热越	re yue	0
+热深厥深	re shen jue shen	0
+热结在里	re jie zai li	0
+热入血室	re ru xie shi	0
+热入血室	re ru xue shi	0
+热极生风	re ji sheng feng	0
+热积便秘	re ji bian mi	0
+热入心包	re ru xin bao	0
+热伤神明	re shang shen ming	0
+热盛伤津	re sheng shang jin	0
+热盛伤津	re cheng shang jin	0
+热重于湿	re zhong yu shi	0
+热结肠胃	re jie chang wei	0
+热盛肢厥	re sheng zhi jue	0
+热盛肢厥	re cheng zhi jue	0
+真热假寒	zhen re jia han	0
+热盛伤阴	re sheng shang yin	0
+热盛伤阴	re cheng shang yin	0
+热盛伤血	re sheng shang xue	0
+热盛伤血	re cheng shang xue	0
+热陷肢厥	re xian zhi jue	0
+破血	po xue	0
+逐血	zhu xie	0
+逐血	zhu xue	0
+逐水	zhu shui	0
+逐瘀	zhu yu	0
+逐寒开窍	zhu han kai qiao	0
+真寒假热	zhen han jia re	0
+真牙	zhen ya	0
+真心痛	zhen xin tong	0
+恶风	e feng	0
+恶热	e re	0
+恶热	wu re	0
+恶寒	e han	0
+恶阻	e zu	0
+恶阻	wu zu	0
+恶露	e lu	0
+通气	tong qi	0
+通淋	tong lin	0
+通络化瘀	tong luo hua yu	0
+通经	tong jing	0
+通利关节	tong li guan jie	0
+通瘀	tong yu	0
+通里攻下	tong li gong xia	0
+通阳	tong yang	0
+胸痹	xiong bi	0
+胸胁苦满	xiong xie ku man	0
+胸痞	xiong pi	0
+振寒	zhen han	0
+眩晕	xuan yun	0
+烧存性	shao cun xing	0
+挛痛	luan tong	0
+烦渴	fan ke	0
+润养	run yang	0
+润下	run xia	0
+润肺	run fei	0
+润畅通便	run chang tong bian	0
+润畅通便	run chang tong pian	0
+润燥化痰	run zao hua tan	0
+痄腮	zha sai	0
+痉病	jing bing	0
+疾病	ji bing	0
+疾医	ji yi	0
+病脉	bing mai	0
+病脉	bing mo	0
+症与证	zheng yu zheng	0
+配伍	pei wu	0
+疲惫	pi bei	0
+峻下逐水	jun xia zhu shui	0
+诸湿肿满皆属于脾	zhu shi zhong man jie shu yu pi	0
+格拒	ge ju	0
+健胃	jian wei	0
+健脾化湿	jian pi hua shi	0
+盗汗	dao han	0
+惊狂	jing kuang	0
+惊悸	jing ji	0
+惊厥	jing jue	0
+惊痫	jing xian	0
+惊风四症八侯	jing feng si zheng ba hou	0
+清心	qing xin	0
+清气	qing qi	0
+清热	qing re	0
+清解	qing jie	0
+清解	qing xie	0
+清肠	qing chang	0
+清营	qing ying	0
+清便自调	qing bian zi diao	0
+清便自调	qing bian zi tiao	0
+清肝	qing gan	0
+清胆	qing dan	0
+清胃	qing wei	0
+清肺	qing fei	0
+清气分热	qing qi fen re	0
+清营凉血	qing ying liang xue	0
+清热解毒	qing re jie du	0
+清虚热	qing xu re	0
+清热利湿	qing re li shi	0
+清热化痰	qing re hua tan	0
+清热开窍	qing re kai qiao	0
+掉眩	diao xuan	0
+救阴	jiu yin	0
+梅核气	mei he qi	0
+雀目	que mu	0
+雀目	qiao mu	0
+雀盲	que mang	0
+雀盲	qiao mang	0
+虚证	xu zheng	0
+虚寒	xu han	0
+虚热	xu re	0
+虚实	xu shi	0
+虚实兼证	xu shi jian zheng	0
+虚则补之	xu ze bu zhi	0
+实则泻之	shi ze xie zhi	0
+虚邪贼风	xu xie zei feng	0
+虚邪贼风	xu xu zei feng	0
+虚邪贼风	xu ya zei feng	0
+虚邪贼风	xu ye zei feng	0
+虚邪贼风	xu yu zei feng	0
+虚烦不眠	xu fan bu mian	0
+膏肓	gao huang	0
+淋浊	lin zhuo	0
+皲裂	jun lie	0
+常脉	chang mai	0
+常脉	chang mo	0
+平脉	ping mai	0
+平脉	ping mo	0
+晦暗	hui an	0
+望态	wang tai	0
+望形	wang xing	0
+望神	wang shen	0
+望色	wang se	0
+望色	wang shai	0
+望诊	wang zhen	0
+得气	de qi	0
+营分证	ying fen zheng	0
+营气	ying qi	0
+脱证	tuo zheng	0
+偏风	pian feng	0
+偏沮	pian ju	0
+偏头风	pian tou feng	0
+脚挛急	jiao luan ji	0
+脚挛急	jue luan ji	0
+脚气水肿	jiao qi shui zhong	0
+敛汗	lian han	0
+敛阴	lian yin	0
+眵泪	chi lei	0
+停饮	ting yin	0
+留饮	liu yin	0
+理中	li zhong	0
+理气	li qi	0
+理血	li xie	0
+理血	li xue	0
+理伤续断	li shang xu duan	0
+斑疹	ban zhen	0
+脾主运化	pi zhu yun hua	0
+脾主益气	pi zhu yi qi	0
+脾统血	pi tong xie	0
+脾统血	pi tong xue	0
+脾肾阳虚	pi shen yang xu	0
+脾胃不和	pi wei bu he	0
+脾胃虚弱	pi wei xu ruo	0
+脾气虚	pi qi xu	0
+脾胃虚寒	pi wei xu han	0
+脾阳虚	pi yang xu	0
+中焦虚寒	zhong jiao xu han	0
+脾虚湿困	pi xu shi kun	0
+湿困脾阳	shi kun pi yang	0
+寒湿困脾	han shi kun pi	0
+脾蕴湿热	pi yun shi re	0
+脾不统血	pi bu tong xie	0
+脾不统血	pi bu tong xue	0
+脾不统血	pi fou tong xie	0
+脾不统血	pi fou tong xue	0
+脾为生痰之源	pi wei sheng tan zhi yuan	0
+肺为贮痰之器	fei wei zhu tan zhi qi	0
+脾约	pi yue	0
+脾约	pi yao	0
+脾泄	pi xie	0
+脾泄	pi yi	0
+脾气	pi qi	0
+脾热	pi re	0
+脾虚	pi xu	0
+脾寒	pi han	0
+脾化血	pi hua xie	0
+脾化血	pi hua xue	0
+脾胃相表里	pi wei xiang biao li	0
+脾主四肢	pi zhu si zhi	0
+脾主肌肉	pi zhu ji rou	0
+脾开窍于口	pi kai qiao yu kou	0
+其华在唇	qi hua zai chun	0
+其华在唇	ji hua zai chun	0
+胃阴虚	wei yin xu	0
+脾阴虚	pi yin xu	0
+脾胃湿热	pi wei shi re	0
+脾肾两虚	pi shen liang xu	0
+脾虚水肿	pi xu shui zhong	0
+脾喜燥恶湿	pi xi zao e shi	0
+脾喜燥恶湿	pi xi zao wu shi	0
+脾为后天之本	pi wei hou tian zhi ben	0
+气血生化之源	qi xue sheng hua zhi yuan	0
+脾胃寒湿	pi wei han shi	0
+厥证	jue zheng	0
+厥逆	jue ni	0
+厥阴	jue yin	0
+循衣摸床	xun yi mo chuang	0
+喉痹	hou bi	0
+喉底	hou di	0
+喉底	hou de	0
+喉关	hou guan	0
+喉痈	hou yong	0
+筋之府	jin zhi fu	0
+筋惕	jin ti	0
+筋痿	jin wei	0
+筋弛	jin chi	0
+筋急	jin ji	0
+温下	wen xia	0
+温阳救逆	wen yang jiu ni	0
+回阳救逆	hui yang jiu ni	0
+温中散寒	wen zhong san han	0
+温经散寒	wen jing san han	0
+温养	wen yang	0
+温肾	wen shen	0
+温脾	wen pi	0
+温病	wen bing	0
+温通	wen tong	0
+温血	wen xie	0
+温血	wen xue	0
+温开	wen kai	0
+温法	wen fa	0
+温疫	wen yi	0
+温毒	wen du	0
+温毒	wen dai	0
+温毒发斑	wen du fa ban	0
+温粉	wen fen	0
+扑粉	pu fen	0
+温阳	wen yang	0
+温热	wen re	0
+温服	wen fu	0
+温心	wen xin	0
+温热未盛	wen re wei sheng	0
+温热未盛	wen re wei cheng	0
+温邪	wen xie	0
+温邪	wen xu	0
+温邪	wen ya	0
+温邪	wen ye	0
+温邪	wen yu	0
+喘急	chuan ji	0
+喘满	chuan man	0
+飧泻	sun xie	0
+寒热腹泻	han re fu xie	0
+寒下	han xia	0
+寒积便秘	han ji bian mi	0
+寒凉折火	han liang zhe huo	0
+寒凉折火	han liang she huo	0
+寒疝	han shan	0
+寒邪	han xie	0
+寒证	han zheng	0
+寒热	han re	0
+寒热并举	han re bing ju	0
+寒胜拘急	han sheng ju ji	0
+寒热相济	han re xiang ji	0
+散收平调	san shou ping diao	0
+散气	san qi	0
+散瘀	san yu	0
+散结	san jie	0
+湿热痹痛	shi re bi tong	0
+湿热蕴脾	shi re yun pi	0
+湿热	shi re	0
+湿火	shi huo	0
+湿热下注大肠	shi re xia zhu da chang	0
+湿邪	shi xie	0
+湿重于热	shi zhong yu re	0
+湿热并重	shi re bing zhong	0
+湿热内陷心包	shi re nei xian xin bao	0
+湿热聚结	shi re ju jie	0
+痞满	pi man	0
+痛风	tong feng	0
+痛痹	tong bi	0
+痛经	tong jing	0
+疏肝	shu gan	0
+疏风	shu feng	0
+疏郁脾气	shu yu pi qi	0
+宽中开郁	kuan zhong kai yu	0
+滋脾	zi pi	0
+滋肾	zi shen	0
+暑邪	shu xie	0
+暑邪	shu xu	0
+暑邪	shu ya	0
+暑邪	shu ye	0
+暑邪	shu yu	0
+滑胎	hua tai	0
+痨瘵	lao zhai	0
+痫证	xian zheng	0
+遗尿	yi niao	0
+遗精	yi jing	0
+道引	dao yin	0
+导引	dao yin	0
+溺血	ni xie	0
+溺血	ni xue	0
+溺血	niao xie	0
+溺血	niao xue	0
+暗经	an jing	0
+痰饮	tan yin	0
+痰饮阻肺	tan yin zu fei	0
+痰迷心窍	tan mi xin qiao	0
+痰气郁结	tan qi yu jie	0
+痰浊中阻	tan zhuo zhong zu	0
+痹证	bi zheng	0
+解热	jie re	0
+解痉	jie jing	0
+解肌	jie ji	0
+解肌	xie ji	0
+解颅	jie lu	0
+解颅	xie lu	0
+痿证	wei zheng	0
+嗳腐	ai fu	0
+腹满痛	fu man tong	0
+腹中雷鸣	fu zhong lei ming	0
+腹满时痛	fu man shi tong	0
+禁方	jin fang	0
+嘈杂	cao za	0
+慢惊风	man jing feng	0
+鼻衄	bi nv	0
+鼻煽	bi shan	0
+鼻鼾	bi han	0
+鼻为肺窍	bi wei fei qiao	0
+鼻渊	bi yuan	0
+膀胱气闭	pang guang qi bi	0
+膀胱实热	pang guang shi re	0
+膀胱虚寒	pang guang xu han	0
+腐熟水谷	fu shu shui gu	0
+谵语	zhan yu	0
+潮热	chao re	0
+潜阳	qian yang	0
+噫气	yi qi	0
+噫气不出	yi qi bu chu	0
+醒脾	xing pi	0
+避年	bi nian	0
+辩证	bian zheng	0
+辩证施治	bian zheng shi zhi	0
+辨病	bian bing	0
+瘰疠	luo li	0
+瘰疠	luo lai	0
+瘿瘤	ying liu	0
+瘿病	ying bing	0
+霍乱转筋	huo luan zhuan jin	0
+霍乱转筋	huo luan zhuai jin	0
+癃闭	long bi	0
+豁痰	huo tan	0
+髓海	sui hai	0
+熄风	xi feng	0
+糜烂	mi lan	0
+癫顶	dian ding	0
+臌胀	gu zhang	0
+镇肝	zhen gan	0
+镇心	zhen xin	0
+鹤膝	he xi	0
+瘢痕	ban hen	0
+藏统失司	cang tong shi si	0
+藏统失司	zang tong shi si	0
+燥邪	zao xie	0
+燥邪	zao xu	0
+燥邪	zao ya	0
+燥邪	zao ye	0
+燥邪	zao yu	0
+燥湿化痰	zao shi hua tan	0
+燥火	zao huo	0
+燥热	zao re	0
+燥矢	zao shi	0
+燥剂	zao ji	0
+燥结	zao jie	0
+燥湿	zao shi	0
+撮口	cuo kou	0
+撮口	zuo kou	0
+脐风	qi feng	0
+噤风	jin feng	0
+撮空	cuo kong	0
+撮空	zuo kong	0

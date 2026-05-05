@@ -1,0 +1,275 @@
+# 词库名称: 军事气象水文
+# 词库分类: 雨凇 跃层 云高 云量 云状 灾害天气 灾害性天气
+# 词库作者: 三号阳光宅男
+# 词库描述: 军事气象水文.......
+# 词条数量: 267
+# 解析词数: 267
+# 解析异常: 0
+
+半日潮	ban ri chao	0
+暴风	bao feng	0
+暴雷	bao lei	0
+本地天气预报	ben di tian qi yu bao	0
+飑线	biao xian	0
+冰雹	bing bao	0
+测风	ce feng	0
+测风雷达	ce feng lei da	0
+测雨	ce yu	0
+测雨雷达	ce yu lei da	0
+长浪	chang lang	0
+长浪	zhang lang	0
+长期天气预报	chang qi tian qi yu bao	0
+潮差	chao cha	0
+潮流	chao liu	0
+潮水线	chao shui xian	0
+潮汐	chao xi	0
+潮汐表	chao xi biao	0
+赤道带	chi dao dai	0
+大潮	da chao	0
+大风	da feng	0
+大浪	da lang	0
+大气层	da qi ceng	0
+大气环流	da qi huan liu	0
+大气圈	da qi quan	0
+大气压强	da qi ya qiang	0
+大气压强	da qi ya jiang	0
+低潮	di chao	0
+低气压	di qi ya	0
+低压槽	di ya cao	0
+低云	di yun	0
+地表性质	di biao xing zhi	0
+地面风	di mian feng	0
+地面气象观测	di mian qi xiang guan ce	0
+地面天气图	di mian tian qi tu	0
+电离层	dian li ceng	0
+电离程度	dian li cheng du	0
+电离状态	dian li zhuang tai	0
+定高气球	ding gao qi qiu	0
+短期天气预报	duan qi tian qi yu bao	0
+短时天气预报	duan shi tian qi yu bao	0
+对流	dui liu	0
+对流层	dui liu ceng	0
+对流层顶	dui liu ceng ding	0
+对流圈	dui liu quan	0
+对流圈	dui liu juan	0
+恶劣能见度	e lie neng jian du	0
+飞跃层	fei yue ceng	0
+非电离层	fei dian li ceng	0
+非实时气象资料	fei shi shi qi xiang zi liao	0
+风暴潮	feng bao chao	0
+风暴海啸	feng bao hai xiao	0
+风力	feng li	0
+风力等级	feng li deng ji	0
+风沙	feng sha	0
+锋面	feng mian	0
+拂晓	fu xiao	0
+副极地带	fu ji di dai	0
+副极地带	pi ji di dai	0
+副热带	fu re dai	0
+高潮	gao chao	0
+高空风	gao kong feng	0
+高空风速	gao kong feng su	0
+高空风向	gao kong feng xiang	0
+高空急流	gao kong ji liu	0
+高空气象观测	gao kong qi xiang guan ce	0
+高空气象探测	gao kong qi xiang tan ce	0
+高空探测车	gao kong tan ce che	0
+高空探测车	gao kong tan ce ju	0
+高空天气图	gao kong tian qi tu	0
+高气压	gao qi ya	0
+高云	gao yun	0
+海冰	hai bing	0
+海况	hai kuang	0
+海浪	hai lang	0
+海流	hai liu	0
+海陆风	hai lu feng	0
+海水发光	hai shui fa guang	0
+海水密度	hai shui mi du	0
+海水透明度	hai shui tou ming du	0
+海水盐度	hai shui yan du	0
+海啸	hai xiao	0
+海洋水文	hai yang shui wen	0
+寒潮	han chao	0
+寒潮前锋	han chao qian feng	0
+寒带	han dai	0
+寒流	han liu	0
+航线天气预报	hang xian tian qi yu bao	0
+合成风	he cheng feng	0
+和风	he feng	0
+黄昏	huang hun	0
+混合潮	hun he chao	0
+极地带	ji di dai	0
+疾风	ji feng	0
+建筑气象分区	jian zhu qi xiang fen qu	0
+江潮	jiang chao	0
+降水	jiang shui	0
+降水过程	jiang shui guo cheng	0
+降水物	jiang shui wu	0
+金属箔条	jin shu bo tiao	0
+金属伞	jin shu san	0
+巨浪	ju lang	0
+飓风	ju feng	0
+绝对湿度	jue dui shi du	0
+军事气象	jun shi qi xiang	0
+军事气象分区	jun shi qi xiang fen qu	0
+军事气象勤务	jun shi qi xiang qin wu	0
+军事气象条件	jun shi qi xiang tiao jian	0
+军事气象学	jun shi qi xiang xue	0
+军事气象志	jun shi qi xiang zhi	0
+空中风	kong zhong feng	0
+狂风	kuang feng	0
+狂浪	kuang lang	0
+狂涛	kuang tao	0
+雷暴	lei bao	0
+冷锋	leng feng	0
+冷空气	leng kong qi	0
+烈风	lie feng	0
+凌晨	ling chen	0
+龙卷风	long juan feng	0
+露点温度	lu dian wen du	0
+陆地水文	lu di shui wen	0
+落潮	luo chao	0
+内波	nei bo	0
+内波	na bo	0
+能见度	neng jian du	0
+农业气象分区	nong ye qi xiang fen qu	0
+暖层	nuan ceng	0
+暖锋	nuan feng	0
+暖流	nuan liu	0
+平潮	ping chao	0
+平均降水量	ping jun jiang shui liang	0
+平均气温	ping jun qi wen	0
+平流气球	ping liu qi qiu	0
+平流圈	ping liu quan	0
+平流圈	ping liu juan	0
+平太阳日	ping tai yang ri	0
+平太阳时	ping tai yang shi	0
+气候	qi hou	0
+气候带	qi hou dai	0
+气候分区	qi hou fen qu	0
+气候分析	qi hou fen xi	0
+气候展望	qi hou zhan wang	0
+气球	qi qiu	0
+气温	qi wen	0
+气象	qi xiang	0
+气象保障	qi xiang bao zhang	0
+气象保障计划	qi xiang bao zhang ji hua	0
+气象保障指示	qi xiang bao zhang zhi shi	0
+气象部队	qi xiang bu dui	0
+气象潮	qi xiang chao	0
+气象车	qi xiang che	0
+气象车	qi xiang ju	0
+气象传真	qi xiang chuan zhen	0
+气象分队	qi xiang fen dui	0
+气象观测	qi xiang guan ce	0
+气象管制	qi xiang guan zhi	0
+气象火箭	qi xiang huo jian	0
+气象雷达	qi xiang lei da	0
+气象情报	qi xiang qing bao	0
+气象情报传递	qi xiang qing bao chuan di	0
+气象情报交换	qi xiang qing bao jiao huan	0
+气象情报接收	qi xiang qing bao jie shou	0
+气象情报收集	qi xiang qing bao shou ji	0
+气象情报侦收	qi xiang qing bao zhen shou	0
+气象室	qi xiang shi	0
+气象台	qi xiang tai	0
+气象探测	qi xiang tan ce	0
+气象通报	qi xiang tong bao	0
+气象通信	qi xiang tong xin	0
+气象网络	qi xiang wang luo	0
+气象武器	qi xiang wu qi	0
+气象要素	qi xiang yao su	0
+气象仪器	qi xiang yi qi	0
+气象预报车	qi xiang yu bao che	0
+气象预报车	qi xiang yu bao ju	0
+气象站	qi xiang zhan	0
+气象侦察	qi xiang zhen cha	0
+气象装备器材	qi xiang zhuang bei qi cai	0
+气象资料	qi xiang zi liao	0
+气旋中心	qi xuan zhong xin	0
+气压	qi ya	0
+强风	qiang feng	0
+切变线	qie bian xian	0
+轻风	qing feng	0
+轻浪	qing lang	0
+清劲风	qing jing feng	0
+晴天	qing tian	0
+区域天气预报	qu yu tian qi yu bao	0
+全日潮	quan ri chao	0
+热成层	re cheng ceng	0
+热带	re dai	0
+热带低压	re dai di ya	0
+热带风暴	re dai feng bao	0
+人工防雹	ren gong fang bao	0
+人工降水	ren gong jiang shui	0
+人工消雾	ren gong xiao wu	0
+人工消云	ren gong xiao yun	0
+人工影响局部天气	ren gong ying xiang ju bu tian qi	0
+日出	ri chu	0
+日没	ri mei	0
+日没	ri mo	0
+日终	ri zhong	0
+软风	ruan feng	0
+散逸层	san yi ceng	0
+沙尘暴	sha chen bao	0
+盛行风向	sheng xing feng xiang	0
+湿度	shi du	0
+实时气象资料	shi shi qi xiang zi liao	0
+示踪物	shi zong wu	0
+水文	shui wen	0
+水文地质	shui wen di zhi	0
+水文气象	shui wen qi xiang	0
+瞬时风速	shun shi feng su	0
+台风	tai feng	0
+太阳潮	tai yang chao	0
+太阳辐射	tai yang fu she	0
+太阴日	tai yin ri	0
+探空仪	tan kong yi	0
+探空仪器	tan kong yi qi	0
+天黑	tian hei	0
+天候	tian hou	0
+天亮	tian liang	0
+天气	tian qi	0
+天气实况	tian qi shi kuang	0
+天气图	tian qi tu	0
+天气系统	tian qi xi tong	0
+天气现象	tian qi xian xiang	0
+天气形势	tian qi xing shi	0
+天气预报	tian qi yu bao	0
+外大气层	wai da qi ceng	0
+危险天气	wei xian tian qi	0
+微波	wei bo	0
+微风	wei feng	0
+温带	wen dai	0
+无风	wu feng	0
+雾凇	wu song	0
+系留气球	xi liu qi qiu	0
+相对湿度	xiang dui shi du	0
+小波	xiao bo	0
+小潮	xiao chao	0
+雪暴	xue bao	0
+亚寒带	ya han dai	0
+亚热带	ya re dai	0
+野战气象观测车	ye zhan qi xiang guan ce che	0
+野战气象观测车	ye zhan qi xiang guan ce ju	0
+夜间	ye jian	0
+阴天	yin tian	0
+涌潮	yong chao	0
+涌潮	chong chao	0
+雨凇	yu song	0
+跃层	yue ceng	0
+云高	yun gao	0
+云量	yun liang	0
+云状	yun zhuang	0
+灾害天气	zai hai tian qi	0
+灾害性天气	zai hai xing tian qi	0
+涨潮	zhang chao	0
+直展云	zhi zhan yun	0
+中间层	zhong jian ceng	0
+中浪	zhong lang	0
+中期天气预报	zhong qi tian qi yu bao	0
+中云	zhong yun	0
+准静止锋	zhun jing zhi feng	0
+综合气象条件	zong he qi xiang tiao jian	0
+最低气温	zui di qi wen	0
+最高气温	zui gao qi wen	0

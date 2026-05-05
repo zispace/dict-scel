@@ -1,0 +1,826 @@
+# 词库名称: 测绘词汇
+# 词库分类: 阿贝比长原理 阿达马变换 岸台 半色调 贝塞尔大地主题解
+# 词库作者: naiercc
+# 词库描述: 测绘专用词汇
+# 词条数量: 818
+# 解析词数: 819
+# 解析异常: 1
+
+阿贝比长原理	a bei bi chang yuan li	0
+阿贝比长原理	a bei bi zhang yuan li	0
+阿达马变换	a da ma bian huan	0
+岸台	an tai	0
+半色调	ban se diao	0
+贝塞尔椭球	bei sai er tuo qiu	0
+贝叶斯分类	bei ye si fen lei	0
+比较地图学	bi jiao di tu xue	0
+闭合差	bi he cha	0
+闭合差	bi he chai	0
+闭合差	bi he ci	0
+闭合导线	bi he dao xian	0
+闭合水准路线	bi he shui zhun lu xian	0
+边缘检测	bian yuan jian ce	0
+边缘增强	bian yuan zeng qiang	0
+编绘	bian hui	0
+编绘原图	bian hui yuan tu	0
+变换光束测图	bian huan guang shu ce tu	0
+变形观测控制网	bian xing guan ce kong zhi wang	0
+标高差改正	biao gao cha gai zheng	0
+标高差改正	biao gao chai gai zheng	0
+标高差改正	biao gao ci gai zheng	0
+标准配置点	biao zhun pei zhi dian	0
+波浪补偿	bo lang bu chang	0
+波浪补偿器	bo lang bu chang qi	0
+波束角	bo shu jiao	0
+波束角	bo shu jue	0
+泊位	bo wei	0
+补偿器	bu chang qi	0
+补偿器补偿误差	bu chang qi bu chang wu cha	0
+布格改正	bu ge gai zheng	0
+布格异常	bu ge yi chang	0
+布隆斯公式	bu long si gong shi	0
+布耶哈马问题	bu ye ha ma wen ti	0
+采区联系测量	cai qu lian xi ce liang	0
+彩色编码	cai se bian ma	0
+彩色变换	cai se bian huan	0
+彩色复制	cai se fu zhi	0
+彩色感光器材	cai se gan guang qi cai	0
+彩色红外片	cai se hong wai pian	0
+彩色片	cai se pian	0
+彩色摄影	cai se she ying	0
+彩色校样	cai se jiao yang	0
+彩色样图	cai se yang tu	0
+彩色增强	cai se zeng qiang	0
+彩色坐标系	cai se zuo biao xi	0
+测高仪	ce gao yi	0
+测绘学	ce hui xue	0
+测距差定位	ce ju cha ding wei	0
+测距差定位	ce ju chai ding wei	0
+测距差定位	ce ju ci ding wei	0
+测控条	ce kong tiao	0
+测量平差	ce liang ping cha	0
+测流	ce liu	0
+测深改正	ce shen gai zheng	0
+测深仪回波信号	ce shen yi hui bo xin hao	0
+超焦点距离	chao jiao dian ju li	0
+抽象符号	chou xiang fu hao	0
+垂线偏差改正	chui xian pian cha gai zheng	0
+磁变年差	ci bian nian cha	0
+磁变年差	ci bian nian chai	0
+磁变年差	ci bian nian ci	0
+粗差	cu cha	0
+粗差	cu chai	0
+粗差	cu ci	0
+粗差检测	cu cha jian ce	0
+粗差检测	cu chai jian ce	0
+粗差检测	cu ci jian ce	0
+粗码	cu ma	0
+大地测量边值问题	da di ce liang bian zhi wen ti	0
+大地测量参考系	da di ce liang can kao xi	0
+大地测量数据库	da di ce liang shu ju ku	0
+大地测量学	da di ce liang xue	0
+大地测量仪器	da di ce liang yi qi	0
+大地方位角	da di fang wei jiao	0
+大地高	da di gao	0
+大地基准	da di ji zhun	0
+大地经度	da di jing du	0
+大地水准面	da di shui zhun mian	0
+大地水准面高	da di shui zhun mian gao	0
+大地天顶延迟	da di tian ding yan chi	0
+大地天文学	da di tian wen xue	0
+大地网	da di wang	0
+大地纬度	da di wei du	0
+大地位	da di wei	0
+大地线	da di xian	0
+大地原点	da di yuan dian	0
+大地坐标	da di zuo biao	0
+大地坐标系	da di zuo biao xi	0
+大环投影	da huan tou ying	0
+大陆架地形测量	da lu jia di xing ce liang	0
+大气传输特性	da qi chuan shu te xing	0
+大气窗	da qi chuang	0
+大气改正	da qi gai zheng	0
+大气透过率	da qi tou guo lv	0
+大气透过率	da qi tou guo shuai	0
+大气噪声	da qi zao sheng	0
+大气阻力摄动	da qi zu li she dong	0
+大气阻力摄动	da qi zu li nie dong	0
+大洋地势图	da yang di shi tu	0
+大圆航线图	da yuan hang xian tu	0
+带谐系数	dai xie xi shu	0
+弹道摄影测量	dan dao she ying ce liang	0
+弹道摄影机	dan dao she ying ji	0
+挡差改正	dang cha gai zheng	0
+挡差改正	dang chai gai zheng	0
+挡差改正	dang ci gai zheng	0
+导弹试验场工程测量	dao dan shi yan chang gong cheng ce liang	0
+导线角度闭合差	dao xian jiao du bi he cha	0
+导线角度闭合差	dao xian jiao du bi he chai	0
+导线角度闭合差	dao xian jiao du bi he ci	0
+灯高	deng gao	0
+灯光节奏	deng guang jie zou	0
+灯光性质	deng guang xing zhi	0
+灯光遮蔽	deng guang zhe bi	0
+等高距	deng gao ju	0
+等高棱镜	deng gao leng jing	0
+等高线	deng gao xian	0
+等高仪	deng gao yi	0
+等积投影	deng ji tou ying	0
+等级结构	deng ji jie gou	0
+等角定位格网	deng jiao ding wei ge wang	0
+等角条件	deng jiao tiao jian	0
+等精度曲线图	deng jing du qu xian tu	0
+等距投影	deng ju tou ying	0
+等距圆弧格网	deng ju yuan hu ge wang	0
+等倾摄影	deng qing she ying	0
+等值灰度尺	deng zhi hui du chi	0
+等值灰度尺	deng zhi hui du che	0
+等值区域法	deng zhi qu yu fa	0
+等值区域图	deng zhi qu yu tu	0
+底板测点	di ban ce dian	0
+底质	di zhi	0
+底质采样	di zhi cai yang	0
+底质分布图	di zhi fen bu tu	0
+底质调查	di zhi diao cha	0
+地底点	di di dian	0
+地固坐标系	di gu zuo biao xi	0
+地固坐标系	de gu zuo biao xi	0
+地基系统	di ji xi tong	0
+地极坐标系	di ji zuo biao xi	0
+地籍	di ji	0
+地籍册	di ji ce	0
+地籍测量	di ji ce liang	0
+地籍管理	di ji guan li	0
+地籍调查	di ji diao cha	0
+地籍图	di ji tu	0
+地籍修测	di ji xiu ce	0
+地籍制图	di ji zhi tu	0
+地壳形变观测	di qiao xing bian guan ce	0
+地理格网	di li ge wang	0
+地理视距	di li shi ju	0
+地理信息传输	di li xin xi chuan shu	0
+地理信息系统	di li xin xi xi tong	0
+地理坐标	di li zuo biao	0
+地理坐标参考系	di li zuo biao can kao xi	0
+地貌图	di mao tu	0
+地面接收站	di mian jie shou zhan	0
+地面实况	di mian shi kuang	0
+地名	di ming	0
+地名录	di ming lu	0
+地名索引	di ming suo yin	0
+地名通名	di ming tong ming	0
+地名转写	di ming zhuan xie	0
+地平线摄影机	di ping xian she ying ji	0
+地平线像片	di ping xian xiang pian	0
+地倾斜观测	di qing xie guan ce	0
+地球定向参数	di qiu ding xiang can shu	0
+地球同步卫星	di qiu tong bu wei xing	0
+地球椭球	di qiu tuo qiu	0
+地球位	di qiu wei	0
+地球位数	di qiu wei shu	0
+地球形状	di qiu xing zhuang	0
+地球仪	di qiu yi	0
+地球重力场模型	di qiu zhong li chang mo xing	0
+地球资源卫星	di qiu zi yuan wei xing	0
+地球自转参数	di qiu zi zhuan can shu	0
+地势图	di shi tu	0
+地图表示法	di tu biao shi fa	0
+地图传输	di tu chuan shu	0
+地图分类	di tu fen lei	0
+地图符号学	di tu fu hao xue	0
+地图集信息系统	di tu ji xin xi xi tong	0
+地图量算法	di tu liang suan fa	0
+地图模型	di tu mo xing	0
+地图内容结构	di tu nei rong jie gou	0
+地图评价	di tu ping jia	0
+地图潜信息	di tu qian xin xi	0
+地图色标	di tu se biao	0
+地图数据库	di tu shu ju ku	0
+地图信息	di tu xin xi	0
+地图信息系统	di tu xin xi xi tong	0
+地图选取	di tu xuan qu	0
+地图学	di tu xue	0
+地图研究法	di tu yan jiu fa	0
+地图语法	di tu yu fa	0
+地图语言	di tu yu yan	0
+地图语义	di tu yu yi	0
+地图语用	di tu yu yong	0
+地图制图软件	di tu zhi tu ruan jian	0
+地心经度	di xin jing du	0
+地心纬度	di xin wei du	0
+地心引力常数	di xin yin li chang shu	0
+地心坐标系	di xin zuo biao xi	0
+地形底图	di xing di tu	0
+地质测量	di zhi ce liang	0
+地质点测量	di zhi dian ce liang	0
+地质略图	di zhi lue tu	0
+地质剖面测量	di zhi pou mian ce liang	0
+地质剖面图	di zhi pou mian tu	0
+典型图形平差	dian xing tu xing ping cha	0
+点下对中	dian xia dui zhong	0
+电磁波测距	dian ci bo ce ju	0
+电磁波测距仪	dian ci bo ce ju yi	0
+电荷耦合器件	dian he ou he qi jian	0
+电子测距仪	dian zi ce ju yi	0
+电子出版系统	dian zi chu ban xi tong	0
+电子地图集	dian zi di tu ji	0
+电子分色机	dian zi fen se ji	0
+电子海图	dian zi hai tu	0
+电子海图数据库	dian zi hai tu shu ju ku	0
+电子经纬仪	dian zi jing wei yi	0
+电子平板仪	dian zi ping ban yi	0
+电子求积仪	dian zi qiu ji yi	0
+电子水准仪	dian zi shui zhun yi	0
+电子速测仪	dian zi su ce yi	0
+电子相关	dian zi xiang guan	0
+电子印像机	dian zi yin xiang ji	0
+定线测量	ding xian ce liang	0
+定向连接点	ding xiang lian jie dian	0
+定影	ding ying	0
+动感	dong gan	0
+动画引导	dong hua yin dao	0
+动画制图	dong hua zhi tu	0
+独立交会高程点	du li jiao hui gao cheng dian	0
+度盘	du pan	0
+度盘	duo pan	0
+对景图	dui jing tu	0
+对中杆	dui zhong gan	0
+多边形平差法	duo bian xing ping cha fa	0
+多星等高法	duo xing deng gao fa	0
+厄特沃什效应	e te wo shen xiao ying	0
+厄特沃什效应	e te wo shi xiao ying	0
+二值图像	er zhi tu xiang	0
+法伊改正	fa yi gai zheng	0
+反差	fan cha	0
+反差系数	fan cha xi shu	0
+反差增强	fan cha zeng qiang	0
+范围法	fan wei fa	0
+方位距离定位方法	fang wei ju li ding wei fang fa	0
+方位圈	fang wei quan	0
+方位圈	fang wei juan	0
+方位投影	fang wei tou ying	0
+防波堤	fang bo di	0
+仿射纠正	fang she jiu zheng	0
+仿射纠正	fang ye jiu zheng	0
+仿射纠正	fang yi jiu zheng	0
+菲列罗公式	fei lie luo gong shi	0
+分版原图	fen ban yuan tu	0
+分层设色表	fen ceng she se biao	0
+分潮	fen chao	0
+分潮迟角	fen chao chi jiao	0
+分潮迟角	fen chao chi jue	0
+分潮振幅	fen chao zhen fu	0
+分类器	fen lei qi	0
+分区量值地图	fen qu liang zhi di tu	0
+分区统计图表法	fen qu tong ji tu biao fa	0
+分区统计图法	fen qu tong ji tu fa	0
+分色	fen se	0
+分色参考图	fen se can kao tu	0
+分析地图	fen xi di tu	0
+浮标	fu biao	0
+浮子验潮仪	fu zi yan chao yi	0
+辅助等高线	fu zhu deng gao xian	0
+附参数条件平差	fu can shu tiao jian ping cha	0
+附合导线	fu he dao xian	0
+附合水准路线	fu he shui zhun lu xian	0
+附加位	fu jia wei	0
+感光特性曲线	gan guang te xing qu xian	0
+干出礁	gan chu jiao	0
+港界	gang jie	0
+港界	jiang jie	0
+港口工程测量	gang kou gong cheng ce liang	0
+港湾测量	gang wan ce liang	0
+港湾锚地图集	gang wan mao di tu ji	0
+港湾图	gang wan tu	0
+高程	gao cheng	0
+高程导线	gao cheng dao xian	0
+高程点	gao cheng dian	0
+高程基准	gao cheng ji zhun	0
+高程系统	gao cheng xi tong	0
+高程异常	gao cheng yi chang	0
+高度角	gao du jiao	0
+高度角	gao du jue	0
+高密度数字磁带	gao mi du shu zi ci dai	0
+高斯平面子午线收敛角	gao si ping mian zi wu xian shou lian jiao	0
+高斯平面子午线收敛角	gao si ping mian zi wu xian shou lian jue	0
+高斯平面坐标系	gao si ping mian zuo biao xi	0
+高斯平面坐标系	gao si ping mian zuo biao ji	0
+高斯投影方向改正	gao si tou ying fang xiang gai zheng	0
+高斯中纬度公式	gao si zhong wei du gong shi	0
+格网单元	ge wang dan yuan	0
+工程测量	gong cheng ce liang	0
+工程测量学	gong cheng ce liang xue	0
+工程经纬仪	gong cheng jing wei yi	0
+工程控制网	gong cheng kong zhi wang	0
+工程摄影测量	gong cheng she ying ce liang	0
+工程水准仪	gong cheng shui zhun yi	0
+共面方程	gong mian fang cheng	0
+共线方程	gong xian fang cheng	0
+构架航线	gou jia hang xian	0
+古地图	gu di tu	0
+骨架航线	gu jia hang xian	0
+固定平极	gu ding ping ji	0
+固定台	gu ding tai	0
+固定误差	gu ding wu cha	0
+固定相移	gu ding xiang yi	0
+贯通测量	guan tong ce liang	0
+惯用点	guan yong dian	0
+光电测距导线	guang dian ce ju dao xian	0
+光电测距仪	guang dian ce ju yi	0
+光碟	guang die	0
+光盘	guang pan	0
+光圈	guang quan	0
+光圈号数	guang quan hao shu	0
+光束法空中三角测量	guang shu fa kong zhong san jiao ce liang	0
+光栅	guang shan	0
+广播星历	guang bo xing li	0
+归心改正	gui xin gai zheng	0
+归心元素	gui xin yuan su	0
+国际测量师联合会	guo ji ce liang shi lian he hui	0
+国际协议原点	guo ji xie yi yuan dian	0
+海岸	hai an	0
+海岸地形测量	hai an di xing ce liang	0
+海岸图	hai an tu	0
+海岸线	hai an xian	0
+海拔	hai ba	0
+海道测量	hai dao ce liang	0
+海道测量学	hai dao ce liang xue	0
+海底地形测量	hai di di xing ce liang	0
+海底地形图	hai di di xing tu	0
+海底声标	hai di sheng biao	0
+海福德椭球	hai fu de tuo qiu	0
+海控点	hai kong dian	0
+海流计	hai liu ji	0
+海区总图	hai qu zong tu	0
+海图	hai tu	0
+海图比例尺	hai tu bi li chi	0
+海图编号	hai tu bian hao	0
+海图编制	hai tu bian zhi	0
+海图标题	hai tu biao ti	0
+海图大改正	hai tu da gai zheng	0
+海图分幅	hai tu fen fu	0
+海图改正	hai tu gai zheng	0
+海图投影	hai tu tou ying	0
+海图图廓	hai tu tu kuo	0
+海图小改正	hai tu xiao gai zheng	0
+海图制图	hai tu zhi tu	0
+海洋重力异常图	hai yang zhong li yi chang tu	0
+行政区划图	xing zheng qu hua tu	0
+航道	hang dao	0
+航高	hang gao	0
+航空摄谱仪	hang kong she pu yi	0
+航空摄影	hang kong she ying	0
+航空摄影测量	hang kong she ying ce liang	0
+航空摄影机	hang kong she ying ji	0
+航空图	hang kong tu	0
+航空像片	hang kong xiang pian	0
+航空遥感	hang kong yao gan	0
+航空重力测量	hang kong zhong li ce liang	0
+航摄计划	hang she ji hua	0
+航摄漏洞	hang she lou dong	0
+航摄软片	hang she ruan pian	0
+航摄像片	hang she xiang pian	0
+航向	hang xiang	0
+航向重叠	hang xiang chong die	0
+河外致密射电源	he wai zhi mi she dian yuan	0
+核点	he dian	0
+核点	hu dian	0
+核面	he mian	0
+核面	hu mian	0
+核线	he xian	0
+核线	hu xian	0
+核线相关	he xian xiang guan	0
+核线相关	hu xian xiang guan	0
+盒式分类法	he shi fen lei fa	0
+黑白片	hei bai pian	0
+黑白摄影	hei bai she ying	0
+横断面测量	heng duan mian ce liang	0
+横断面图	heng duan mian tu	0
+互补色地图	hu bu se di tu	0
+互补色镜	hu bu se jing	0
+互补色立体观察	hu bu se li ti guan cha	0
+环境地图	huan jing di tu	0
+环境探测卫星	huan jing tan ce wei xing	0
+换能器吃水改正	huan neng qi chi shui gai zheng	0
+换能器基线改正	huan neng qi ji xian gai zheng	0
+黄海平均海面	huang hai ping jun hai mian	0
+灰楔	hui xie	0
+回声测深	hui sheng ce shen	0
+回声测深仪	hui sheng ce shen yi	0
+回头曲线测设	hui tou qu xian ce she	0
+回照器	hui zhao qi	0
+汇水面积测量	hui shui mian ji ce liang	0
+机场测量	ji chang ce liang	0
+机场跑道测量	ji chang pao dao ce liang	0
+机载激光测探	ji zai ji guang ce tan	0
+机载遥感器	ji zai yao gan qi	0
+机助测图	ji zhu ce tu	0
+机助测图	ji chu ce tu	0
+机助地图制图	ji zhu di tu zhi tu	0
+机助地图制图	ji chu di tu zhi tu	0
+机助分类	ji zhu fen lei	0
+机助分类	ji chu fen lei	0
+基本比例尺	ji ben bi li chi	0
+基本重力点	ji ben zhong li dian	0
+基线	ji xian	0
+基线测量	ji xian ce liang	0
+基线网	ji xian wang	0
+极坐标定位方法	ji zuo biao ding wei fang fa	0
+几何大地测量学	ji he da di ce liang xue	0
+几何定向	ji he ding xiang	0
+几何模型	ji he mo xing	0
+几何条件	ji he tiao jian	0
+几何校正	ji he jiao zheng	0
+计算机兼容磁带	ji suan ji jian rong ci dai	0
+计算机视觉	ji suan ji shi jue	0
+计算机制图综合	ji suan ji zhi tu zong he	0
+加常数	jia chang shu	0
+假彩色合成	jia cai se he cheng	0
+假彩色片	jia cai se pian	0
+假彩色摄影	jia cai se she ying	0
+假彩色图像	jia cai se tu xiang	0
+假定坐标系	jia ding zuo biao xi	0
+间曲线	jian qu xian	0
+监视台	jian shi tai	0
+检测台	jian ce tai	0
+剪辑	jian ji	0
+建筑工程测量	jian zhu gong cheng ce liang	0
+建筑摄影测量	jian zhu she ying ce liang	0
+建筑物沉降观测	jian zhu wu chen jiang guan ce	0
+交叉耦合效应	jiao cha ou he xiao ying	0
+交叉网线	jiao cha wang xian	0
+交向摄影	jiao xiang she ying	0
+焦距	jiao ju	0
+焦面快门	jiao mian kuai men	0
+接触晒印	jie chu shai yin	0
+接触网屏	jie chu wang ping	0
+接触网屏	jie chu wang bing	0
+接触印刷	jie chu yin shua	0
+结点平差	jie dian ping cha	0
+截面差改正	jie mian cha gai zheng	0
+截面差改正	jie mian chai gai zheng	0
+截面差改正	jie mian ci gai zheng	0
+解析测图	jie xi ce tu	0
+解析测图仪	jie xi ce tu yi	0
+解析定向	jie xi ding xiang	0
+解析纠正	jie xi jiu zheng	0
+解析空中三角测量	jie xi kong zhong san jiao ce liang	0
+解析摄影测量	jie xi she ying ce liang	0
+解析图根点	jie xi tu gen dian	0
+界址点	jie zhi dian	0
+近景摄影测量	jin jing she ying ce liang	0
+近似平差	jin si ping cha	0
+禁区界限	jin qu jie xian	0
+禁止抛锚区	jin zhi pao mao qu	0
+禁止抛锚区	jin zhi pao mao ou	0
+经济地图	jing ji di tu	0
+经纬线网	jing wei xian wang	0
+净空区测量	jing kong qu ce liang	0
+净空区测量	jing kong ou ce liang	0
+纠正元素	jiu zheng yuan su	0
+绝对定向	jue dui ding xiang	0
+绝对定向元素	jue dui ding xiang yuan su	0
+绝对航高	jue dui hang gao	0
+绝对误差	jue dui wu cha	0
+绝对阈	jue dui yu	0
+绝对重力测量	jue dui zhong li ce liang	0
+绝对重力仪	jue dui zhong li yi	0
+竣工测量	jun gong ce liang	0
+康索尔海图	kang suo er hai tu	0
+考古摄影测量	kao gu she ying ce liang	0
+克莱罗定理	ke lai luo ding li	0
+坑道平面图	keng dao ping mian tu	0
+坑探工程测量	keng tan gong cheng ce liang	0
+空间改正	kong jian gai zheng	0
+空间异常	kong jian yi chang	0
+空中导线测量	kong zhong dao xian ce liang	0
+空中三角测量	kong zhong san jiao ce liang	0
+空中水准测量	kong zhong shui zhun ce liang	0
+控制测量	kong zhi ce liang	0
+控制点	kong zhi dian	0
+块状图	kuai zhuang tu	0
+矿区控制测量	kuang qu kong zhi ce liang	0
+矿山测量交换图	kuang shan ce liang jiao huan tu	0
+矿体几何制图	kuang ti ji he zhi tu	0
+框标	kuang biao	0
+框幅摄影机	kuang fu she ying ji	0
+蓝底图	lan di tu	0
+浪花	lang hua	0
+类星体	lei xing ti	0
+离心力	li xin li	0
+理论最高潮面	li lun zui gao chao mian	0
+历史地图	li shi di tu	0
+立标	li biao	0
+连续方式	lian xu fang shi	0
+连续减光板	lian xu jian guang ban	0
+连续调	lian xu diao	0
+连续调	lian xu tiao	0
+帘幕式快门	lian mu shi kuai men	0
+联测比对	lian ce bi dui	0
+联合平差	lian he ping cha	0
+联系测量	lian xi ce liang	0
+联系三角形法	lian xi san jiao xing fa	0
+联系数	lian xi shu	0
+联系数	lian xi shuo	0
+裂缝观测	lie feng guan ce	0
+邻带方里网	lin dai fang li wang	0
+邻图拼接比对	lin tu pin jie bi dui	0
+林业测量	lin ye ce liang	0
+林业基本图	lin ye ji ben tu	0
+零漂改正	ling piao gai zheng	0
+零线改正	ling xian gai zheng	0
+罗经校正标	luo jing jiao zheng biao	0
+罗盘经纬仪	luo pan jing wei yi	0
+罗盘仪	luo pan yi	0
+罗盘仪测量	luo pan yi ce liang	0
+滤光片	lv guang pian	0
+锚地	mao di	0
+面水准测量	mian shui zhun ce liang	0
+面状符号	mian zhuang fu hao	0
+明礁	ming jiao	0
+模糊分类法	mo hu fen lei fa	0
+模糊影像	mo hu ying xiang	0
+模拟磁带	mo ni ci dai	0
+模拟地图	mo ni di tu	0
+模拟法测图	mo ni fa ce tu	0
+模拟空中三角测量	mo ni kong zhong san jiao ce liang	0
+模拟立体测图仪	mo ni li ti ce tu yi	0
+模拟摄影测量	mo ni she ying ce liang	0
+模型连接	mo xing lian jie	0
+年平均海面	nian ping jun hai mian	0
+鸟瞰图	niao kan tu	0
+欧洲遥感卫星	ou zhou yao gan wei xing	0
+偶然误差	ou ran wu cha	0
+频率误差	pin lv wu cha	0
+平差值	ping cha zhi	0
+平衡潮	ping heng chao	0
+平均误差	ping jun wu cha	0
+平面控制点	ping mian kong zhi dian	0
+平面坐标	ping mian zuo biao	0
+坡度测设	po du ce she	0
+普通地图	pu tong di tu	0
+普通地图集	pu tong di tu ji	0
+普通海图	pu tong hai tu	0
+曝光	bao guang	0
+气体激光器	qi ti ji guang qi	0
+气象改正	qi xiang gai zheng	0
+钱德勒摆动	qian de le bai dong	0
+桥梁测量	qiao liang ce liang	0
+桥梁控制测量	qiao liang kong zhi ce liang	0
+桥梁轴线测设	qiao liang zhou xian ce she	0
+倾斜仪	qing xie yi	0
+清绘	qing hui	0
+球心投影	qiu xin tou ying	0
+区域网平差	qu yu wang ping cha	0
+全球导航卫星系统	quan qiu dao hang wei xing xi tong	0
+全球定位系统	quan qiu ding wei xi tong	0
+全息摄影	quan xi she ying	0
+全息摄影测量	quan xi she ying ce liang	0
+全站仪	quan zhan yi	0
+人工标志	ren gong biao zhi	0
+人文地图	ren wen di tu	0
+认知制图	ren zhi zhi tu	0
+任意比例尺	ren yi bi li chi	0
+任意投影	ren yi tou ying	0
+任意轴子午线	ren yi zhou zi wu xian	0
+色彩管理系统	se cai guan li xi tong	0
+色环	se huan	0
+色相	se xiang	0
+森林分布图	sen lin fen bu tu	0
+闪闭法立体观察	shan bi fa li ti guan cha	0
+扇谐系数	shan xie xi shu	0
+熵编码	shang bian ma	0
+摄影分区	she ying fen qu	0
+摄影航线	she ying hang xian	0
+摄影机检校	she ying ji jian jiao	0
+摄影基线	she ying ji xian	0
+摄影经纬仪	she ying jing wei yi	0
+摄站	she zhan	0
+摄站	nie zhan	0
+伸缩仪	shen suo yi	0
+深度基准面保证率	shen du ji zhun mian bao zheng lv	0
+生物量指标变换	sheng wu liang zhi biao bian huan	0
+生物医学摄影测量	sheng wu yi xue she ying ce liang	0
+声速改正	sheng su gai zheng	0
+声学多普勒海流剖面仪	sheng xue duo pu le hai liu pou mian yi	0
+声学水位计	sheng xue shui wei ji	0
+施工测量	shi gong ce liang	0
+施工控制网	shi gong kong zhi wang	0
+时号改正数	shi hao gai zheng shu	0
+时号改正数	shi hao gai zheng shuo	0
+时钟频率	shi zhong pin lv	0
+实用地图学	shi yong di tu xue	0
+视地平线	shi di ping xian	0
+视线高程	shi xian gao cheng	0
+视准线法	shi zhun xian fa	0
+适应性水平	shi ying xing shui ping	0
+手持水准仪	shou chi shui zhun yi	0
+艏向	shou xiang	0
+属性精度	shu xing jing du	0
+双曲线导航图	shuang qu xian dao hang tu	0
+双曲线定位	shuang qu xian ding wei	0
+双曲线定位系统	shuang qu xian ding wei xi tong	0
+双曲线格网	shuang qu xian ge wang	0
+水道测量	shui dao ce liang	0
+水道测量学	shui dao ce liang xue	0
+水利工程测量	shui li gong cheng ce liang	0
+水平角	shui ping jiao	0
+水平控制网	shui ping kong zhi wang	0
+水平折光差	shui ping zhe guang cha	0
+水平折光差	shui ping zhe guang chai	0
+水平折光差	shui ping zhe guang ci	0
+水深测量自动化系统	shui shen ce liang zi dong hua xi tong	0
+水声定位	shui sheng ding wei	0
+水声定位系统	shui sheng ding wei xi tong	0
+水声全息系统	shui sheng quan xi xi tong	0
+水声应答器	shui sheng ying da qi	0
+水听器	shui ting qi	0
+水位分带改正	shui wei fen dai gai zheng	0
+水位改正	shui wei gai zheng	0
+水位曲线	shui wei qu xian	0
+水位遥报仪	shui wei yao bao yi	0
+水文测验	shui wen ce yan	0
+水文观测	shui wen guan ce	0
+水文要素	shui wen yao su	0
+水准点	shui zhun dian	0
+水准器	shui zhun qi	0
+四色印刷	si se yin shua	0
+特征	te zheng	0
+特征编码	te zheng bian ma	0
+特征码	te zheng ma	0
+特征码清单	te zheng ma qing dan	0
+特征提取	te zheng ti qu	0
+特征选择	te zheng xuan ze	0
+天球坐标系	tian qiu zuo biao xi	0
+天文大地垂线偏差	tian wen da di chui xian pian cha	0
+天文大地网	tian wen da di wang	0
+天文大地网平差	tian wen da di wang ping cha	0
+天文点	tian wen dian	0
+天文定位系统	tian wen ding wei xi tong	0
+天文方位角	tian wen fang wei jiao	0
+天文经度	tian wen jing du	0
+天文经纬仪	tian wen jing wei yi	0
+天文年历	tian wen nian li	0
+天文水准	tian wen shui zhun	0
+天文纬度	tian wen wei du	0
+天文重力水准	tian wen zhong li shui zhun	0
+天文坐标测量仪	tian wen zuo biao ce liang yi	0
+天线高度	tian xian gao du	0
+田谐系数	tian xie xi shu	0
+条幅摄影机	tiao fu she ying ji	0
+条件方程	tiao jian fang cheng	0
+条件平差	tiao jian ping cha	0
+调绘	diao hui	0
+调绘	tiao hui	0
+调焦误差	tiao jiao wu cha	0
+同名光线	tong ming guang xian	0
+同名核线	tong ming he xian	0
+同名核线	tong ming hu xian	0
+同名像点	tong ming xiang dian	0
+投影差	tou ying cha	0
+投影差	tou ying chai	0
+投影差	tou ying ci	0
+图幅接边	tu fu jie bian	0
+图解纠正	tu jie jiu zheng	0
+图解图根点	tu jie tu gen dian	0
+图像几何纠正	tu xiang ji he jiu zheng	0
+图像几何配准	tu xiang ji he pei zhun	0
+图形	tu xing	0
+图形符号	tu xing fu hao	0
+图形记号	tu xing ji hao	0
+图形元素	tu xing yuan su	0
+拖底扫海	tuo di sao hai	0
+拖底扫海	tuo de sao hai	0
+陀螺定向光电测距导线	tuo luo ding xiang guang dian ce ju dao xian	0
+陀螺方位角	tuo luo fang wei jiao	0
+陀螺经纬仪	tuo luo jing wei yi	0
+陀螺仪定向测量	tuo luo yi ding xiang ce liang	0
+椭球扁率	tuo qiu bian lv	0
+椭球扁率	tuo qiu bian shuai	0
+椭球扁率	tuo qiu pian lv	0
+椭球扁率	tuo qiu pian shuai	0
+椭球面大地测量学	tuo qiu mian da di ce liang xue	0
+椭球偏心率	tuo qiu pian xin lv	0
+外部定向	wai bu ding xiang	0
+网格地图	wang ge di tu	0
+网格法	wang ge fa	0
+网格结构	wang ge jie gou	0
+卫星共振分析	wei xing gong zhen fen xi	0
+卫星运动方程	wei xing yun dong fang cheng	0
+位置线方程	wei zhi xian fang cheng	0
+文化地图	wen hua di tu	0
+误差检验	wu cha jian yan	0
+误差椭圆	wu cha tuo yuan	0
+雾信号	wu xin hao	0
+弦线支距法	xian xian zhi ju fa	0
+线路中线测量	xian lu zhong xian ce liang	0
+线性调频脉冲	xian xing tiao pin mai chong	0
+相对定向元素	xiang dui ding xiang yuan su	0
+相关平差	xiang guan ping cha	0
+相关器	xiang guan qi	0
+巷道验收测量	hang dao yan shou ce liang	0
+像场角	xiang chang jiao	0
+像场角	xiang chang jue	0
+像地平线	xiang di ping xian	0
+像片地质解译	xiang pian di zhi jie yi	0
+像片地质判读	xiang pian di zhi pan du	0
+像片方位角	xiang pian fang wei jiao	0
+像片内方位元素	xiang pian nei fang wei yuan su	0
+像片外方位元素	xiang pian wai fang wei yuan su	0
+协方差函数	xie fang cha han shu	0
+协调世界时	xie tiao shi jie shi	0
+信息量	xin xi liang	0
+悬式经纬仪	xuan shi jing wei yi	0
+沿海测量	yan hai ce liang	0
+颜色空间	yan se kong jian	0
+野外地质图	ye wai di zhi tu	0
+野外填图	ye wai tian tu	0
+引力	yin li	0
+引力位	yin li wei	0
+荧光地图	ying guang di tu	0
+影像地质图	ying xiang di zhi tu	0
+涌浪滤波器	yong lang lv bo qi	0
+有效孔径	you xiao kong jing	0
+渔礁	yu jiao	0
+渔堰	yu yan	0
+渔业用图	yu ye yong tu	0
+渔栅	yu zha	0
+渔栅	yu shan	0
+渔栅	yu ce	0
+渔栅	yu shi	0
+宇宙制图	yu zhou zhi tu	0
+原子钟	yuan zi zhong	0
+圆曲线测设	yuan qu xian ce she	0
+圆柱投影	yuan zhu tou ying	0
+晕滃法	yun weng fa	0
+晕渲法	yun xuan fa	0
+运动方程分析解	yun dong fang cheng fen xi jie	0
+运动方程分析解	yun dong fang cheng fen xi xie	0
+运动线法	yun dong xian fa	0
+载波相位测量	zai bo xiang wei ce liang	0
+凿井施工测量	zao jing shi gong ce liang	0
+整体感	zheng ti gan	0
+整体结构	zheng ti jie gou	0
+正形投影	zheng xing tou ying	0
+直方图规格化	zhi fang tu gui ge hua	0
+直方图均衡	zhi fang tu jun heng	0
+制图分级	zhi tu fen ji	0
+制图简化	zhi tu jian hua	0
+制图夸大	zhi tu kua da	0
+制图模型	zhi tu mo xing	0
+制图专家系统	zhi tu zhuan jia xi tong	0
+置信度	zhi xin du	0
+中国测绘学会	zhong guo ce hui xue hui	0
+中国测绘学会	zhong guo ce hui xue kuai	0
+中国大地测量星表	zhong guo da di ce liang xing biao	0
+中国大地测量星表	zhong guo da de ce liang xing biao	0
+中心式快门	zhong xin shi kuai men	0
+中央子午线	zhong yang zi wu xian	0
+钟偏	zhong pian	0
+钟速	zhong su	0
+重力	zhong li	0
+重力测量	zhong li ce liang	0
+重力场	zhong li chang	0
+重力潮汐改正	zhong li chao xi gai zheng	0
+重力垂线偏差	zhong li chui xian pian cha	0
+重力点	zhong li dian	0
+重力固体潮观测	zhong li gu ti chao guan ce	0
+重力归算	zhong li gui suan	0
+重力基线	zhong li ji xian	0
+重力基准	zhong li ji zhun	0
+重力数据库	zhong li shu ju ku	0
+重力水平梯度	zhong li shui ping ti du	0
+重力梯度测量	zhong li ti du ce liang	0
+重力梯度仪	zhong li ti du yi	0
+重力位	zhong li wei	0
+重力仪	zhong li yi	0
+重力异常	zhong li yi chang	0
+周跳	zhou tiao	0
+周跳	zhou tao	0
+轴颈误差	zhou jing wu cha	0
+主动式遥感	zhu dong shi yao gan	0
+助曲线	zhu qu xian	0
+助曲线	chu qu xian	0
+准确度	zhun que du	0
+姿态	zi tai	0
+姿态参数	zi tai can shu	0
+姿态测量遥感器	zi tai ce liang yao gan qi	0
+自动安平水准仪	zi dong an ping shui zhun yi	0
+自动化地图制图	zi dong hua di tu zhi tu	0
+自动绘图	zi dong hui tu	0
+自动空中三角测量	zi dong kong zhong san jiao ce liang	0
+自动坐标展点仪	zi dong zuo biao zhan dian yi	0
+自准直目镜	zi zhun zhi mu jing	0
+综合测绘系统	zong he ce hui xi tong	0
+综合地图	zong he di tu	0
+综合地图集	zong he di tu ji	0
+组合地图	zu he di tu	0
+钻孔位置测量	zuan kong wei zhi ce liang	0
+左右视差	zuo you shi cha	0
+坐标地籍	zuo biao di ji	0
+坐标方位角	zuo biao fang wei jiao	0
+坐标格网	zuo biao ge wang	0
+坐标量测仪	zuo biao liang ce yi	0
+坐标增值闭合差	zuo biao zeng zhi bi he cha	0
+坐标增值闭合差	zuo biao zeng zhi bi he chai	0
+坐标增值闭合差	zuo biao zeng zhi bi he ci	0

@@ -1,0 +1,2609 @@
+# 词库名称: 通信工程词库2
+# 词库分类: 零误差 填零 零标志 置零门 零输入 零插入 原点偏
+# 词库作者: quzeyao
+# 词库描述: 通信工程专业词库2
+# 词条数量: 2601
+# 解析词数: 2602
+# 解析异常: 1
+
+安全位	an quan wei	0
+安全性说明	an quan xing shuo ming	0
+安全性设施	an quan xing she shi	0
+安全性核心	an quan xing he xin	0
+安全终端	an quan zhong duan	0
+寻找	xun zhao	0
+查找误差	cha zhao wu cha	0
+查找时间	cha zhao shi jian	0
+段基地址	duan ji di zhi	0
+段描述符	duan miao shu fu	0
+分段显示文件	fen duan xian shi wen jian	0
+分段文件	fen duan wen jian	0
+段标	duan biao	0
+段号	duan hao	0
+段寄存器	duan ji cun qi	0
+段相对地址	duan xiang dui di zhi	0
+段表	duan biao	0
+段表项目	duan biao xiang mu	0
+段值	duan zhi	0
+分段系统	fen duan xi tong	0
+选择错误	xuan ze cuo wu	0
+选择指令	xuan ze zhi ling	0
+选择时间	xuan ze shi jian	0
+选择单元	xuan ze dan yuan	0
+选择	xuan ze	0
+选择校验	xuan ze jiao yan	0
+选择方式	xuan ze fang shi	0
+分类指针	fen lei zhi zhen	0
+选择比	xuan ze bi	0
+选择信号	xuan ze xin hao	0
+选择线	xuan ze xian	0
+选择性呼叫	xuan ze xing hu jiao	0
+逆择性打印	ni ze xing da yin	0
+逆择性打印	ni zhai xing da yin	0
+选择负反馈	xuan ze fu fan kui	0
+选择打出	xuan ze da chu	0
+选择性保护	xuan ze xing bao hu	0
+选择总计	xuan ze zong ji	0
+选择跟踪	xuan ze gen zong	0
+选择跟踪程序	xuan ze gen zong cheng xu	0
+选择写	xuan ze xie	0
+选择性	xuan ze xing	0
+选择器	xuan ze qi	0
+选择通道	xuan ze tong dao	0
+硒整流	xi zheng liu	0
+自动控制	zi dong kong zhi	0
+自适应计算机	zi shi ying ji suan ji	0
+自适应程序	zi shi ying cheng xu	0
+自定位系统	zi ding wei xi tong	0
+自校验	zi xiao yan	0
+自检验码	zi jian yan ma	0
+自校验特征	zi xiao yan te zheng	0
+自校验数	zi xiao yan shu	0
+自校验数	zi xiao yan shuo	0
+自编译的编译程序	zi bian yi de bian yi cheng xu	0
+自编译的编译程序	zi bian yi di bian yi cheng xu	0
+自补代码	zi bu dai ma	0
+不需辅助设备的仪表	bu xu fu zhu she bei de yi biao	0
+不需辅助设备的仪表	bu xu fu zhu she bei di yi biao	0
+自含式模抉	zi han shi mo jue	0
+自含式模抉	zi han shi mu jue	0
+自含式系统	zi han shi xi tong	0
+自校正代码	zi xiao zheng dai ma	0
+自校正	zi xiao zheng	0
+自定义定界符	zi ding yi ding jie fu	0
+自定义项	zi ding yi xiang	0
+自定义值	zi ding yi zhi	0
+自诊断	zi zhen duan	0
+自引导程序	zi yin dao cheng xu	0
+自动进位	zi dong jin wei	0
+自学习	zi xue xi	0
+自学习系统	zi xue xi xi tong	0
+自装入程序	zi zhuang ru cheng xu	0
+自组织机	zi zu zhi ji	0
+自组织系统	zi zu zhi xi tong	0
+自相对寻址	zi xiang dui xun zhi	0
+自再定位程序	zi zai ding wei cheng xu	0
+自修复	zi xiu fu	0
+自再生自动机	zi zai sheng zi dong ji	0
+循环操作自复位循环	xun huan cao zuo zi fu wei xun huan	0
+自稳定	zi wen ding	0
+自同步	zi tong bu	0
+自聚焦光纤维	zi ju jiao guang xian wei	0
+自动同步机	zi dong tong bu ji	0
+义素	yi su	0
+语义分析	yu yi fen xi	0
+语义错误	yu yi cuo wu	0
+语义文法	yu yi wen fa	0
+语义存储器	yu yi cun chu qi	0
+语义网	yu yi wang	0
+语义节点	yu yi jie dian	0
+语义论	yu yi lun	0
+信号量	xin hao liang	0
+半自动控制器	ban zi dong kong zhi qi	0
+半导体	ban dao ti	0
+半导体阵列	ban dao ti zhen lie	0
+半导体芯片	ban dao ti xin pian	0
+半导体电路	ban dao ti dian lu	0
+半导体化合物	ban dao ti hua he wu	0
+半导体晶体	ban dao ti jing ti	0
+半导体掐	ban dao ti qia	0
+半导体二极管	ban dao ti er ji guan	0
+半导体电子学	ban dao ti dian zi xue	0
+半导体工业	ban dao ti gong ye	0
+半导体集成电路	ban dao ti ji cheng dian lu	0
+半导体激光器	ban dao ti ji guang qi	0
+半导体存储器	ban dao ti cun chu qi	0
+半导体噪声	ban dao ti zao sheng	0
+半导体生产线	ban dao ti sheng chan xian	0
+半导体继电器	ban dao ti ji dian qi	0
+半导体电阻器	ban dao ti dian zu qi	0
+半导体薄片	ban dao ti bao pian	0
+半导体衬底	ban dao ti chen di	0
+半破坏试验	ban po huai shi yan	0
+半固定长度记录	ban gu ding chang du ji lu	0
+符号语言字	fu hao yu yan zi	0
+发送缓冲器	fa song huan chong qi	0
+发送方式	fa song fang shi	0
+发送窗口	fa song chuang kou	0
+发报机	fa bao ji	0
+发送处理	fa song chu li	0
+读出放大器	du chu fang da qi	0
+读出字节	du chu zi jie	0
+检测命令	jian ce ming ling	0
+读出线	du chu xian	0
+感觉瀑	gan jue pu	0
+感觉瀑	gan jue bao	0
+读出信号	du chu xin hao	0
+读出开关	du chu kai guan	0
+读出绕组	du chu rao zu	0
+读出单元	du chu dan yuan	0
+读头	du tou	0
+灵敏时间	ling min shi jian	0
+敏感性	min gan xing	0
+灵敏度极限	ling min du ji xian	0
+检测器敏感元件	jian ce qi min gan yuan jian	0
+传感泼计算机	chuan gan po ji suan ji	0
+句子	ju zi	0
+句子符号	ju zi fu hao	0
+句型	ju xing	0
+分别编译	fen bie bian yi	0
+外控进位	wai kong jin wei	0
+分隔	fen ge	0
+分隔虑波器	fen ge lv bo qi	0
+分隔符号	fen ge fu hao	0
+序列	xu lie	0
+序列检验	xu lie jian yan	0
+次序检验程序	ci xu jian yan cheng xu	0
+次序控制	ci xu kong zhi	0
+顺序控制寄存器	shun xu kong zhi ji cun qi	0
+指令计数器顺序计数器	zhi ling ji shu qi shun xu ji shu qi	0
+顺序错误	shun xu cuo wu	0
+顺序监督程序	shun xu jian du cheng xu	0
+顺序号	shun xu hao	0
+顺序最佳化	shun xu zui jia hua	0
+顺序符号	shun xu fu hao	0
+时序脉冲发生器	shi xu mai chong fa sheng qi	0
+定序符	ding xu fu	0
+定序	ding xu	0
+定序标准	ding xu biao zhun	0
+序列元	xu lie yuan	0
+顺序存取	shun xu cun qu	0
+顺序存取存储器	shun xu cun qu cun chu qi	0
+顺序存取法	shun xu cun qu fa	0
+按序编址	an xu bian zhi	0
+时序电路	shi xu dian lu	0
+时序计算机	shi xu ji suan ji	0
+顺序控制	shun xu kong zhi	0
+顺序数据集	shun xu shu ju ji	0
+顺序译码	shun xu yi ma	0
+顺序深度	shun xu shen du	0
+顺序文件	shun xu wen jian	0
+串行操作	chuan hang cao zuo	0
+串行操作	chuan xing cao zuo	0
+按序处理	an xu chu li	0
+按序编制程序	an xu bian zhi cheng xu	0
+顺序队列	shun xu dui lie	0
+顺序等程序	shun xu deng cheng xu	0
+顺序等	shun xu deng	0
+按序等系统	an xu deng xi tong	0
+顺序信号	shun xu xin hao	0
+顺序检验	shun xu jian yan	0
+顺序传输	shun xu chuan shu	0
+串行加法器	chuan hang jia fa qi	0
+串行加法器	chuan xing jia fa qi	0
+串行计算机	chuan hang ji suan ji	0
+串行计算机	chuan xing ji suan ji	0
+串行数字计算机	chuan hang shu zi ji suan ji	0
+串行数字计算机	chuan xing shu zi ji suan ji	0
+系列设备	xi lie she bei	0
+串行接口	chuan xing jie kou	0
+串行输出	chuan hang shu chu	0
+串行输出	chuan xing shu chu	0
+串并行转换	chuan bing xing zhuan huan	0
+串并行操作	chuan bing xing cao zuo	0
+串并行寄存器	chuan bing xing ji cun qi	0
+串行出入口	chuan hang chu ru kou	0
+串行出入口	chuan xing chu ru kou	0
+串行打印机	chuan hang da yin ji	0
+串行打印机	chuan xing da yin ji	0
+串行搜索	chuan hang sou suo	0
+串行搜索	chuan xing sou suo	0
+串串操作	chuan chuan cao zuo	0
+串行存储器	chuan hang cun chu qi	0
+串行存储器	chuan xing cun chu qi	0
+串行减法器	chuan hang jian fa qi	0
+串行减法器	chuan xing jian fa qi	0
+串行传送	chuan hang chuan song	0
+串行传送	chuan xing chuan song	0
+串行化	chuan xing hua	0
+并串行转换器	bing chuan hang zhuan huan qi	0
+并串行转换器	bing chuan xing zhuan huan qi	0
+串联电路	chuan lian dian lu	0
+串联	chuan lian	0
+串并行控制	chuan bing xing kong zhi	0
+串联谐振	chuan lian xie zhen	0
+服务程序	fu wu cheng xu	0
+服务	fu wu	0
+服务区	fu wu qu	0
+公务比特	gong wu bi te	0
+服务信道	fu wu xin dao	0
+服务设备	fu wu she bei	0
+使用寿命	shi yong shou ming	0
+业务报文	ye wu bao wen	0
+服务请求	fu wu qing qiu	0
+可服务性	ke fu wu xing	0
+可服务时间比	ke fu wu shi jian bi	0
+可服务时间	ke fu wu shi jian	0
+伺服计算机	si fu ji suan ji	0
+伺服控制	si fu kong zhi	0
+何服机构	he fu ji gou	0
+伺服马达	si fu ma da	0
+伺服乘法器	si fu cheng fa qi	0
+伺服系统	si fu xi tong	0
+对话存取	dui hua cun qu	0
+对话层	dui hua ceng	0
+集合	ji he	0
+集合差	ji he cha	0
+集合差	ji he chai	0
+集合差	ji he ci	0
+置信号输入	zhi xin hao shu ru	0
+集合成员	ji he cheng yuan	0
+集合运算	ji he yun suan	0
+置位脉冲	zhi wei mai chong	0
+置位复位触发器	zhi wei fu wei chu fa qi	0
+集合类型	ji he lei xing	0
+给定值	gei ding zhi	0
+给定值第	gei ding zhi di	0
+蝶线圈	die xian quan	0
+定位点	ding wei dian	0
+设置装置	she zhi zhuang zhi	0
+置位时间	zhi wei shi jian	0
+准备	zhun bei	0
+装置图	zhuang zhi tu	0
+准备时间	zhun bei shi jian	0
+七层模型	qi ceng mo xing	0
+七单位码	qi dan wei ma	0
+出错严重度码	chu cuo yan zhong du ma	0
+出错严重度码	chu cuo yan zhong duo ma	0
+十六进制表示法	shi liu jin zhi biao shi fa	0
+阴暗部分	yin an bu fen	0
+浓淡处理	nong dan chu li	0
+形状库	xing zhuang ku	0
+可共用区域	ke gong yong qu yu	0
+可共用数据	ke gong yong shu ju	0
+可共用数据库	ke gong yong shu ju ku	0
+共用文件	gong yong wen jian	0
+可共用图象文件	ke gong yong tu xiang wen jian	0
+可共用资源	ke gong yong zi yuan	0
+共用存取	gong yong cun qu	0
+共用控制	gong yong kong zhi	0
+共用数据	gong yong shu ju	0
+共用设备	gong yong she bei	0
+共用磁盘	gong yong ci pan	0
+共用存储器	gong yong cun chu qi	0
+共享变量	gong xiang bian liang	0
+共亨件	gong heng jian	0
+共亨件	gong peng jian	0
+共用	gong yong	0
+记录纸计数器	ji lu zhi ji shu qi	0
+换档字符	huan dang zi fu	0
+移位计数器	yi wei ji shu qi	0
+移入字符	yi ru zi fu	0
+换档键	huan dang jian	0
+移位锁定键	yi wei suo ding jian	0
+移出字符	yi chu zi fu	0
+移位脉冲	yi wei mai chong	0
+移位寄存器	yi wei ji cun qi	0
+移位器移相器	yi wei qi yi xiang qi	0
+移位向量	yi wei xiang liang	0
+移位绕组	yi wei rao zu	0
+移位	yi wei	0
+工厂说瞄	gong chang shuo miao	0
+工厂说瞄	gong chang shui miao	0
+工厂说瞄	gong chang yue miao	0
+海岸雷达	hai an lei da	0
+短块	duan kuai	0
+短卡片	duan ka pian	0
+短路	duan lu	0
+短路保护	duan lu bao hu	0
+短路过渡过程	duan lu guo du guo cheng	0
+短程的	duan cheng de	0
+短程的	duan cheng di	0
+短整数	duan zheng shu	0
+短寿命	duan shou ming	0
+短精度	duan jing du	0
+短字	duan zi	0
+最短路径问题	zui duan lu jing wen ti	0
+散粒噪声	san li zao sheng	0
+分路	fen lu	0
+运转停止	yun zhuan ting zhi	0
+同级节点	tong ji jie dian	0
+副酌	fu zhuo	0
+副酌	pi zhuo	0
+旁瓣电平	pang ban dian ping	0
+旁瓣电平	bang ban dian ping	0
+侧音	ce yin	0
+侧音	ze yin	0
+侧音	zhai yin	0
+侧向馈给	ce xiang kui gei	0
+侧向馈给	ce xiang kui ji	0
+数位叠加和	shu wei die jia he	0
+数位叠加和	shu wei die jia hu	0
+数位叠加和	shu wei die jia huo	0
+目视检验	mu shi jian yan	0
+符号位	fu hao wei	0
+符号变换器	fu hao bian huan qi	0
+符号控制	fu hao kong zhi	0
+符号位置	fu hao wei zhi	0
+符号寄存器	fu hao ji cun qi	0
+符号测试	fu hao ce shi	0
+信号	xin hao	0
+信号压缩	xin hao ya suo	0
+信号第器	xin hao di qi	0
+信号变换	xin hao bian huan	0
+信号转换设备	xin hao zhuan huan she bei	0
+信号转换器	xin hao zhuan huan qi	0
+信号检测	xin hao jian ce	0
+信号检出器	xin hao jian chu qi	0
+代码间距	dai ma jian ju	0
+信号失真	xin hao shi zhen	0
+信号持续时间	xin hao chi xu shi jian	0
+信号码元	xin hao ma yuan	0
+信号抽取	xin hao chou qu	0
+信号发生器	xin hao fa sheng qi	0
+信号识别	xin hao shi bie	0
+信号灯	xin hao deng	0
+信号电平	xin hao dian ping	0
+信号电平探测器	xin hao dian ping tan ce qi	0
+信号指示器信号强度计	xin hao zhi shi qi xin hao qiang du ji	0
+信号规范化	xin hao gui fan hua	0
+信号操作	xin hao cao zuo	0
+信号板	xin hao ban	0
+信号功率	xin hao gong lv	0
+信号处理机	xin hao chu li ji	0
+信号传播	xin hao chuan bo	0
+信号量子化	xin hao liang zi hua	0
+信号追赶	xin hao zhui gan	0
+信号读出	xin hao du chu	0
+信号再生	xin hao zai sheng	0
+信号扫描器	xin hao sao miao qi	0
+信号选择器	xin hao xuan ze qi	0
+信号分离器	xin hao fen li qi	0
+信号顺序	xin hao shun xu	0
+信号标准化	xin hao biao zhun hua	0
+信号结构	xin hao jie gou	0
+信号跟踪器	xin hao gen zong qi	0
+信号变换器	xin hao bian huan qi	0
+信号传递特性	xin hao chuan di te xing	0
+信号传输速度	xin hao chuan shu su du	0
+信号线	xin hao xian	0
+发信号	fa xin hao	0
+信号协议	xin hao xie yi	0
+传信系统	chuan xin xi tong	0
+符号差	fu hao cha	0
+符号差	fu hao chai	0
+符号差	fu hao ci	0
+带符号补码	dai fu hao bu ma	0
+带符号字段	dai fu hao zi duan	0
+带符号整数	dai fu hao zheng shu	0
+符号量值	fu hao liang zhi	0
+符号量值表示	fu hao liang zhi biao shi	0
+带符号数	dai fu hao shu	0
+带符号数	dai fu hao shuo	0
+有效性	you xiao xing	0
+有效位异常	you xiao wei yi chang	0
+有效位指示器	you xiao wei zhi shi qi	0
+显著性水平	xian zhu xing shui ping	0
+有效位检验	you xiao wei jian yan	0
+有效数位	you xiao shu wei	0
+有意义事件	you yi yi shi jian	0
+符号函数	fu hao han shu	0
+寂静时间	ji jing shi jian	0
+硅石	gui shi	0
+硅酸盐玻璃	gui suan yan bo li	0
+硅粘合剂	gui nian he ji	0
+硅衬底	gui chen di	0
+硅片	gui pian	0
+硅编译器硅编译程序	gui bian yi qi gui bian yi cheng xu	0
+硅二极管	gui er ji guan	0
+硅磁盘	gui ci pan	0
+硅外延	gui wai yan	0
+硅栅极	gui shan ji	0
+硅面结型晶体管	gui mian jie xing jing ti guan	0
+硅光电池	gui guang dian chi	0
+硅整流	gui zheng liu	0
+硅尸	gui shi	0
+硅太阳电池	gui tai yang dian chi	0
+硅晶体管	gui jing ti guan	0
+单列直插式组件	dan lie zhi cha shi zu jian	0
+单指令多数据玲构	dan zhi ling duo shu ju ling gou	0
+单指令多数据疗算机	dan zhi ling duo shu ju liao suan ji	0
+简单缓冲	jian dan huan chong	0
+简单条件	jian dan tiao jian	0
+简单文法	jian dan wen fa	0
+简单名	jian dan ming	0
+简单程序	jian dan cheng xu	0
+简单命题	jian dan ming ti	0
+简单变量	jian dan bian liang	0
+单工信道	dan gong xin dao	0
+单工电路	dan gong dian lu	0
+单工系统	dan gong xi tong	0
+单纯形表	dan chun xing biao	0
+单工传输	dan gong chuan shu	0
+模拟程序	mo ni cheng xu	0
+模拟结果	mo ni jie guo	0
+模拟	mo ni	0
+模拟语言	mo ni yu yan	0
+模拟模型	mo ni mo xing	0
+模拟遍数	mo ni bian shu	0
+模拟运行	mo ni yun xing	0
+模拟技术	mo ni ji shu	0
+模拟器	mo ni qi	0
+模拟系统	mo ni xi tong	0
+同时存取	tong shi cun qu	0
+同时操灼算机	tong shi cao zhuo suan ji	0
+同时输入输出	tong shi shu ru shu chu	0
+同时处理方式	tong shi chu li fang shi	0
+同时操作	tong shi cao zuo	0
+同时处理	tong shi chu li	0
+同时传输	tong shi chuan shu	0
+正弦余弦电位计	zheng xian yu xian dian wei ji	0
+正弦电位计	zheng xian dian wei ji	0
+单地址指令	dan di zhi zhi ling	0
+单地址指令	shan di zhi zhi ling	0
+单地址指令	chan di zhi zhi ling	0
+单地址信息	dan di zhi xin xi	0
+单地址信息	shan di zhi xin xi	0
+单地址信息	chan di zhi xin xi	0
+单赋值语言	dan fu zhi yu yan	0
+单赋值语言	shan fu zhi yu yan	0
+单赋值语言	chan fu zhi yu yan	0
+单板计算机	dan ban ji suan ji	0
+单钮鼠标器	dan niu shu biao qi	0
+单钮鼠标器	shan niu shu biao qi	0
+单钮鼠标器	chan niu shu biao qi	0
+单晶半导体	dan jing ban dao ti	0
+单密度	shan mi du	0
+单密度	dan mi duo	0
+单密度磁盘	dan mi du ci pan	0
+单密度磁盘	dan mi duo ci pan	0
+单目录设备	dan mu lu she bei	0
+单纠错	shan jiu cuo	0
+单纠错	shan jiu cuo	0
+单纠错	chan jiu cuo	0
+单一故障	dan yi gu zhang	0
+单假定	dan jia ding	0
+单假定	shan jia ding	0
+单假定	chan jia ding	0
+单稽指令	dan ji zhi ling	0
+单稽指令	shan ji zhi ling	0
+单稽指令	chan ji zhi ling	0
+单稽指令	dan qi zhi ling	0
+单稽指令	shan qi zhi ling	0
+单稽指令	chan qi zhi ling	0
+单遍汇编程序	dan bian hui bian cheng xu	0
+单遍汇编程序	shan bian hui bian cheng xu	0
+单遍汇编程序	chan bian hui bian cheng xu	0
+单遍编译程序	dan bian bian yi cheng xu	0
+单遍编译程序	shan bian bian yi cheng xu	0
+单遍编译程序	chan bian bian yi cheng xu	0
+单精度	shan jing du	0
+单精度	shan jing du	0
+单精度	chan jing du	0
+单精度计算	dan jing du ji suan	0
+单精度计算	shan jing du ji suan	0
+单精度计算	chan jing du ji suan	0
+单冗余	dan rong yu	0
+单冗余	shan rong yu	0
+单冗余	chan rong yu	0
+独立应用	du li ying yong	0
+单面软磁盘	dan mian ruan ci pan	0
+单边带灯	dan bian dai deng	0
+单边带传输	dan bian dai chuan shu	0
+单边带发射机	dan bian dai fa she ji	0
+单步执行	dan bu zhi xing	0
+单步式	dan bu shi	0
+一步操作	yi bu cao zuo	0
+单任务系统	dan ren wu xi tong	0
+单任务系统	shan ren wu xi tong	0
+单任务系统	chan ren wu xi tong	0
+单晶体管存储单元	dan jing ti guan cun chu dan yuan	0
+单跃迁激光器	dan yue qian ji guang qi	0
+单跃迁激光器	shan yue qian ji guang qi	0
+单跃迁激光器	chan yue qian ji guang qi	0
+单用户计算机	dan yong hu ji suan ji	0
+单用户系统	dan yong hu xi tong	0
+单线传输线	dan xian chuan shu xian	0
+奇异矩阵	qi yi ju zhen	0
+接收器	jie shou qi	0
+汇点树	hui dian shu	0
+单指令单数据铃系结构	dan zhi ling dan shu ju ling xi jie gou	0
+单指令单数据铃系结构	dan zhi ling dan shu ju ling ji jie gou	0
+六色记录仪	liu se ji lu yi	0
+大小	da xiao	0
+尺寸控制	chi cun kong zhi	0
+尺寸效应	chi cun xiao ying	0
+改变尺寸	gai bian chi cun	0
+骨架代码	gu jia dai ma	0
+程序纲要	cheng xu gang yao	0
+骨架文法	gu jia wen fa	0
+框架	kuang jia	0
+扭斜	niu xie	0
+跳过	tiao guo	0
+跳跃指令	tiao yue zhi ling	0
+跳跃标记	tiao yue biao ji	0
+松弛通路	song chi tong lu	0
+松弛变量	song chi bian liang	0
+斜线	xie xian	0
+从设备	cong she bei	0
+从设备	zong she bei	0
+从属计算机	cong shu ji suan ji	0
+从属控制器	cong shu kong zhi qi	0
+从属方式	cong shu fang shi	0
+从属节点	cong shu jie dian	0
+从属处理	cong shu chu li	0
+从属处理机	cong shu chu li ji	0
+从属站	cong shu zhan	0
+从属系统	cong shu xi tong	0
+从属终端	cong shu zhong duan	0
+从属设备	cong shu she bei	0
+回旋	hui xuan	0
+片结构	pian jie gou	0
+计算尺	ji suan chi	0
+计算尺	ji suan che	0
+小型计算器	xiao xing ji suan qi	0
+滑动第器	hua dong di qi	0
+槽文法	cao wen fa	0
+慢速存储器	man su cun chu qi	0
+小型商用计算机	xiao xing shang yong ji suan ji	0
+小规模集成电路	xiao gui mo ji cheng dian lu	0
+智能卡	zhi neng ka	0
+灵巧的终端	ling qiao de zhong duan	0
+灵巧的终端	ling qiao di zhong duan	0
+系统管理程序	xi tong guan li cheng xu	0
+平滑算法	ping hua suan fa	0
+污点	wu dian	0
+抽点打印	chou dian da yin	0
+插座	cha zuo	0
+软拷贝	ruan kao bei	0
+软错误	ruan cuo wu	0
+自定义功能键	zi ding yi gong neng jian	0
+软键盘	ruan jian pan	0
+软页面边界	ruan ye mian bian jie	0
+软扇面磁盘	ruan shan mian ci pan	0
+软件	ruan jian	0
+软件目录	ruan jian mu lu	0
+软件兼容性	ruan jian jian rong xing	0
+软件配置	ruan jian pei zhi	0
+软件控制的恢复	ruan jian kong zhi de hui fu	0
+软件设计	ruan jian she ji	0
+软件开发	ruan jian kai fa	0
+软件开发环境	ruan jian kai fa huan jing	0
+软件开发方法	ruan jian kai fa fang fa	0
+软件研制系统	ruan jian yan zhi xi tong	0
+软件环境	ruan jian huan jing	0
+软件错误	ruan jian cuo wu	0
+软件失效	ruan jian shi xiao	0
+软件服务站	ruan jian fu wu zhan	0
+软件产业	ruan jian chan ye	0
+软件中断	ruan jian zhong duan	0
+软件库	ruan jian ku	0
+软件生存期	ruan jian sheng cun qi	0
+软件管理	ruan jian guan li	0
+软件度量	ruan jian du liang	0
+软件模块性	ruan jian mo kuai xing	0
+软件模抉	ruan jian mo jue	0
+软件模抉	ruan jian mu jue	0
+软件包	ruan jian bao	0
+软件可移植性	ruan jian ke yi zhi xing	0
+软件产品	ruan jian chan pin	0
+软件原型法	ruan jian yuan xing fa	0
+软件限制	ruan jian xian zhi	0
+软件模拟	ruan jian mo ni	0
+软件专家	ruan jian zhuan jia	0
+软件支持	ruan jian zhi chi	0
+软件系统	ruan jian xi tong	0
+软件工具	ruan jian gong ju	0
+软件陷阱	ruan jian xian jing	0
+太阳电池	tai yang dian chi	0
+太阳能转换器	tai yang neng zhuan huan qi	0
+焊料	han liao	0
+焊料涂敷装置	han liao tu fu zhuang zhi	0
+悍料排出装置	han liao pai chu zhuang zhi	0
+焊料玻璃	han liao bo li	0
+焊接接缝	han jie jie feng	0
+焊接淹模	han jie yan mo	0
+焊接淹模	han jie yan mu	0
+焊封	han feng	0
+焊接	han jie	0
+助焊剂	zhu han ji	0
+烙铁	lao tie	0
+焊接机	han jie ji	0
+无焊接线	wu han jie xian	0
+固态电路	gu tai dian lu	0
+固态元件	gu tai yuan jian	0
+固态存储器	gu tai cun chu qi	0
+斜线分隔符号	xie xian fen ge fu hao	0
+解算机	jie suan ji	0
+求解	qiu jie	0
+子文件	zi wen jian	0
+分类	fen lei	0
+排序关键字	pai xu guan jian zi	0
+分类归并生成程序	fen lei gui bing sheng cheng cheng xu	0
+分类传送	fen lei chuan song	0
+分类程序	fen lei cheng xu	0
+分类操作	fen lei cao zuo	0
+分类域	fen lei yu	0
+分类项	fen lei xiang	0
+分类方法	fen lei fang fa	0
+分类序列	fen lei xu lie	0
+伴音载波	ban yin zai bo	0
+声音输出	sheng yin shu chu	0
+录音机	lu yin ji	0
+录音	lu yin	0
+源地址	yuan di zhi	0
+源字母表	yuan zi mu biao	0
+源代码	yuan dai ma	0
+源计算机	yuan ji suan ji	0
+源数据	yuan shu ju	0
+源数据项	yuan shu ju xiang	0
+源语言翟程序	yuan yu yan zhai cheng xu	0
+源语言翟程序	yuan yu yan di cheng xu	0
+原始程序卡片组	yuan shi cheng xu ka pian zu	0
+源目的地指令	yuan mu di di zhi ling	0
+源文书资料	yuan wen shu zi liao	0
+源编辑程序	yuan bian ji cheng xu	0
+源字段	yuan zi duan	0
+源文件	yuan wen jian	0
+源文法	yuan wen fa	0
+源信息	yuan xin xi	0
+源语言	yuan yu yan	0
+源语言排错程序	yuan yu yan pai cuo cheng xu	0
+源语言语句	yuan yu yan yu ju	0
+源程序库	yuan cheng xu ku	0
+源程序表	yuan cheng xu biao	0
+源模块	yuan mo kuai	0
+源程序模块库	yuan cheng xu mo kuai ku	0
+源程序	yuan cheng xu	0
+源程序语	yuan cheng xu yu	0
+源区	yuan qu	0
+源语句	yuan yu ju	0
+源码目标码比	yuan ma mu biao ma bi	0
+覆盖技术	fu gai ji shu	0
+单词间空白	dan ci jian kong bai	0
+间隔符号	jian ge fu hao	0
+宇宙芯片	yu zhou xin pian	0
+宇宙通信	yu zhou tong xin	0
+宇宙图象接收	yu zhou tu xiang jie shou	0
+空格键	kong ge jian	0
+分区	fen qu	0
+宇宙站	yu zhou zhan	0
+空自抑制	kong zi yi zhi	0
+空间开关	kong jian kai guan	0
+空间电视	kong jian dian shi	0
+空格打印	kong ge da yin	0
+空格	kong ge	0
+空白表格	kong bai biao ge	0
+套管程序	tao guan cheng xu	0
+跨距	kua ju	0
+跨越记录	kua yue ji lu	0
+备用门	bei yong men	0
+特殊效果	te shu xiao guo	0
+专用文件	zhuan yong wen jian	0
+专用程序	zhuan yong cheng xu	0
+说瞄	shuo miao	0
+说瞄	shui miao	0
+说瞄	yue miao	0
+说渺常	shuo miao chang	0
+说渺常	shui miao chang	0
+说渺常	yue miao chang	0
+说庙	shuo miao	0
+说庙	shui miao	0
+说庙	yue miao	0
+指定寿命	zhi ding shou ming	0
+频谱分析仪	pin pu fen xi yi	0
+分光仪	fen guang yi	0
+语音数据	yu yin shu ju	0
+语音发生器	yu yin fa sheng qi	0
+语音输入	yu yin shu ru	0
+语音处理机	yu yin chu li ji	0
+话音质量	hua yin zhi liang	0
+语音识别	yu yin shi bie	0
+语音合成	yu yin he cheng	0
+语音合成器	yu yin he cheng qi	0
+语言传送	yu yan chuan song	0
+语音理解	yu yin li jie	0
+速度特性	su du te xing	0
+限速设备	xian su she bei	0
+速度第	su du di	0
+拼写检查程序	pin xie jian cha cheng xu	0
+拼写校正	pin xie jiao zheng	0
+拼写错误	pin xie cuo wu	0
+分类目录	fen lei mu lu	0
+分屏	fen ping	0
+分屏	fen bing	0
+分屏型式	fen ping xing shi	0
+分屏型式	fen bing xing shi	0
+分屏方式	fen ping fang shi	0
+分屏方式	fen bing fang shi	0
+分裂	fen lie	0
+自发请求	zi fa qing qiu	0
+假脱机	jia tuo ji	0
+假脱机文件	jia tuo ji wen jian	0
+假脱机打印	jia tuo ji da yin	0
+假脱机区域	jia tuo ji qu yu	0
+假脱机程序	jia tuo ji cheng xu	0
+光点	guang dian	0
+表格处理软件	biao ge chu li ruan jian	0
+弹簧插孔	tan huang cha kong	0
+子画面	zi hua mian	0
+子画面硬件	zi hua mian ying jian	0
+面向子画面图形学	mian xiang zi hua mian tu xing xue	0
+定位道	ding wei dao	0
+定位馈送	ding wei kui song	0
+中导孔	zhong dao kong	0
+寄生信号	ji sheng xin hao	0
+系统排队区	xi tong pai dui qu	0
+系统排队区	xi tong pai dui ou	0
+平方根	ping fang gen	0
+平方根计算器	ping fang gen ji suan qi	0
+矩形波	ju xing bo	0
+矩形比	ju xing bi	0
+静态随机存取存储器	jing tai sui ji cun qu cun chu qi	0
+同步系统陷阱程序	tong bu xi tong xian jing cheng xu	0
+稳定性	wen ding xing	0
+稳定区	wen ding qu	0
+稳定度试验	wen ding du shi yan	0
+稳定	wen ding	0
+稳定器	wen ding qi	0
+稳定反馈	wen ding fan kui	0
+稳定状态	wen ding zhuang tai	0
+稳态	wen tai	0
+堆栈	dui zhan	0
+堆栈算法	dui zhan suan fa	0
+栈结构	zhan jie gou	0
+栈框架	zhan kuang jia	0
+堆栈指令	dui zhan zhi ling	0
+栈运算	zhan yun suan	0
+栈指针	zhan zhi zhen	0
+堆栈下溢	dui zhan xia yi	0
+栈式椎	zhan shi zhui	0
+栈式椎	zhan shi chui	0
+栈结构多处理机	zhan jie gou duo chu li ji	0
+叠卡箱	die ka xiang	0
+叠卡箱	die qia xiang	0
+阶段	jie duan	0
+参差党	cen ci dang	0
+升级	sheng ji	0
+独立计算机系统	du li ji suan ji xi tong	0
+独立装置	du li zhuang zhi	0
+独立仿真器	du li fang zhen qi	0
+独立处理机	du li chu li ji	0
+单机系统	dan ji xi tong	0
+标准	biao zhun	0
+标准件	biao zhun jian	0
+标准设备配备	biao zhun she bei pei bei	0
+标准数据格式	biao zhun shu ju ge shi	0
+标准设计	biao zhun she ji	0
+标准偏离	biao zhun pian li	0
+标准文件	biao zhun wen jian	0
+标准形式	biao zhun xing shi	0
+标准频率	biao zhun pin lv	0
+标准输入输出接口	biao zhun shu ru shu chu jie kou	0
+标准输入	biao zhun shu ru	0
+标准指令组	biao zhun zhi ling zu	0
+标准仪表	biao zhun yi biao	0
+标准接口	biao zhun jie kou	0
+标准连接寄存器	biao zhun lian jie ji cun qi	0
+标准输出	biao zhun shu chu	0
+标准图案	biao zhun tu an	0
+标准程序	biao zhun cheng xu	0
+标准软件	biao zhun ruan jian	0
+标准子程序	biao zhun zi cheng xu	0
+标准文本	biao zhun wen ben	0
+标准电压	biao zhun dian ya	0
+等待	deng dai	0
+备用信息块	bei yong xin xi kuai	0
+备用计算机	bei yong ji suan ji	0
+备用方式	bei yong fang shi	0
+备用冗余量	bei yong rong yu liang	0
+备用寄存器	bei yong ji cun qi	0
+备用系统	bei yong xi tong	0
+逢跳跃进位	feng tiao yue jin wei	0
+星形网络	xing xing wang luo	0
+无错程序	wu cuo cheng xu	0
+星形布局	xing xing bu ju	0
+开始	kai shi	0
+起始位	qi shi wei	0
+起始码元	qi shi ma yuan	0
+正文起始	zheng wen qi shi	0
+正文开始字符	zheng wen kai shi zi fu	0
+起始语句	qi shi yu ju	0
+起停方框	qi ting fang kuang	0
+起停式	qi ting shi	0
+起停式操作	qi ting shi cao zuo	0
+起停传输	qi ting chuan shu	0
+初始符号	chu shi fu hao	0
+启动时间	qi dong shi jian	0
+起动程序	qi dong cheng xu	0
+起始位置	qi shi wei zhi	0
+起动力	qi dong li	0
+状态图	zhuang tai tu	0
+状态信息	zhuang tai xin xi	0
+状态空间	zhuang tai kong jian	0
+状态表	zhuang tai biao	0
+状态迁移图	zhuang tai qian yi tu	0
+状态值	zhuang tai zhi	0
+状态变量	zhuang tai bian liang	0
+状态向量	zhuang tai xiang liang	0
+语句函数	yu ju han shu	0
+语句标号	yu ju biao hao	0
+语句号	yu ju hao	0
+静电的	jing dian de	0
+静电的	jing dian di	0
+静态元件	jing tai yuan jian	0
+静态特性	jing tai te xing	0
+静态校验	jing tai jiao yan	0
+静态偏差	jing tai pian cha	0
+静态打印	jing tai da yin	0
+静态误差	jing tai wu cha	0
+静态表达式	jing tai biao da shi	0
+静态触发器	jing tai chu fa qi	0
+静态连接	jing tai lian jie	0
+静态存储器	jing tai cun chu qi	0
+存储撇态分配	cun chu pie tai fen pei	0
+静态寄存器	jing tai ji cun qi	0
+静态酌域	jing tai zhuo yu	0
+静态存储	jing tai cun chu	0
+静态变量	jing tai bian liang	0
+统计存取	tong ji cun qu	0
+统计数据库	tong ji shu ju ku	0
+统计测试	tong ji ce shi	0
+状态位	zhuang tai wei	0
+状态缓冲器	zhuang tai huan chong qi	0
+状态字节	zhuang tai zi jie	0
+状态数据	zhuang tai shu ju	0
+状态标志	zhuang tai biao zhi	0
+状态标志闩锁	zhuang tai biao zhi shuan suo	0
+状态寄存器	zhuang tai ji cun qi	0
+状态扫描	zhuang tai sao miao	0
+状态起动	zhuang tai qi dong	0
+状态字	zhuang tai zi	0
+稳定误差	wen ding wu cha	0
+最陡下降法	zui dou xia jiang fa	0
+导引程序	dao yin cheng xu	0
+导引带	dao yin dai	0
+位式酌	wei shi zhuo	0
+阶跃酌	jie yue zhuo	0
+逐步计算	zhu bu ji suan	0
+步进式控制	bu jin shi kong zhi	0
+按步方法	an bu fang fa	0
+步进开关	bu jin kai guan	0
+步进控制	bu jin kong zhi	0
+步进计数器	bu jin ji shu qi	0
+阶跃扰动	jie yue rao dong	0
+阶跃函数	jie yue han shu	0
+步进程序库	bu jin cheng xu ku	0
+步进式寻址	bu jin shi xun zhi	0
+分级控制	fen ji kong zhi	0
+步进电机	bu jin dian ji	0
+立体图像电视机	li ti tu xiang dian shi ji	0
+定型命令	ding xing ming ling	0
+符号图	fu hao tu	0
+随机模拟	sui ji mo ni	0
+停止位	ting zhi wei	0
+停机按钮	ting ji an niu	0
+停止码	ting zhi ma	0
+停止码元	ting zhi ma yuan	0
+停止指令	ting zhi zhi ling	0
+止动杆	zhi dong gan	0
+中止循环	zhong zhi xun huan	0
+停机时间	ting ji shi jian	0
+停机状态	ting ji zhuang tai	0
+中止的椎	zhong zhi de zhui	0
+中止的椎	zhong zhi di zhui	0
+中止的椎	zhong zhi de chui	0
+中止的椎	zhong zhi di chui	0
+存储分配	cun chu fen pei	0
+存储类	cun chu lei	0
+存储译码器	cun chu yi ma qi	0
+存储显示	cun chu xian shi	0
+存储元素	cun chu yuan su	0
+存储残片化	cun chu can pian hua	0
+存储媒体	cun chu mei ti	0
+存储组织	cun chu zu zhi	0
+存储示波器	cun chu shi bo qi	0
+存储池	cun chu chi	0
+存储位置	cun chu wei zhi	0
+存储保护键	cun chu bao hu jian	0
+存储屁描	cun chu pi miao	0
+存储结构	cun chu jie gou	0
+存储平寄存颇指令	cun chu ping ji cun po zhi ling	0
+存储转发方法	cun chu zhuan fa fang fa	0
+存储转发传输	cun chu zhuan fa chuan shu	0
+存储进位	cun chu jin wei	0
+存储数据	cun chu shu ju	0
+存储信息	cun chu xin xi	0
+存储逻辑	cun chu luo ji	0
+存储程序	cun chu cheng xu	0
+存储程序计算机	cun chu cheng xu ji suan ji	0
+无循环程序编制	wu xun huan cheng xu bian zhi	0
+成层法	cheng ceng fa	0
+杂散电容	za san dian rong	0
+杂散延迟	za san yan chi	0
+流怜	liu lian	0
+劣密	lie mi	0
+两输入	liang shu ru	0
+两装置	liang zhuang zhi	0
+数据僚带	shu ju liao dai	0
+数据僚带机	shu ju liao dai ji	0
+严格隐含	yan ge yin han	0
+严格型检验	yan ge xing jian yan	0
+串式数据	chuan shi shu ju	0
+串描述项	chuan miao shu xiang	0
+串项	chuan xiang	0
+串长度	chuan chang du	0
+成串操纵	cheng chuan cao zong	0
+选通判别器	xuan tong pan bie qi	0
+频闪观测盘	pin shan guan ce pan	0
+笔划打击	bi hua da ji	0
+笔划字符发生器	bi hua zi fu fa sheng qi	0
+笔划输入器行程设备	bi hua shu ru qi xing cheng she bei	0
+笔划边缘	bi hua bian yuan	0
+笔划发生器	bi hua fa sheng qi	0
+笔划宽度	bi hua kuan du	0
+笔划写入	bi hua xie ru	0
+笔划字符	bi hua zi fu	0
+强封锁	qiang feng suo	0
+强封锁	jiang feng suo	0
+强类型语言	qiang lei xing yu yan	0
+结构特点	jie gou te dian	0
+结构数据	jie gou shu ju	0
+结构化设计	jie gou hua she ji	0
+结构化程序	jie gou hua cheng xu	0
+结构化程序设计	jie gou hua cheng xu she ji	0
+走查	zou cha	0
+走查	zou zha	0
+残桩	can zhuang	0
+存根卡片	cun gen ka pian	0
+固定故障	gu ding gu zhang	0
+塞入	sai ru	0
+阻打器	zu da qi	0
+指示笔	zhi shi bi	0
+针式打印机	zhen shi da yin ji	0
+替换字符	ti huan zi fu	0
+部分字母表	bu fen zi mu biao	0
+子数组	zi shu zu	0
+组件	zu jian	0
+副载波	fu zai bo	0
+副载波	pi zai bo	0
+子链	zi lian	0
+子通道	zi tong dao	0
+分支电路	fen zhi dian lu	0
+子命令	zi ming ling	0
+分控制	fen kong zhi	0
+子循环	zi xun huan	0
+子对话	zi dui hua	0
+子目录	zi mu lu	0
+子表达式	zi biao da shi	0
+子字段	zi zi duan	0
+副帧	fu zhen	0
+副帧	fu zheng	0
+副帧	pi zhen	0
+副帧	pi zheng	0
+子图	zi tu	0
+子图象	zi tu xiang	0
+子语言	zi yu yan	0
+子层	zi ceng	0
+子表	zi biao	0
+子矩阵	zi ju zhen	0
+子模型	zi mo xing	0
+子网络	zi wang luo	0
+子网络	zi wang lao	0
+子池	zi chi	0
+子问题	zi wen ti	0
+子过程	zi guo cheng	0
+子例行程序	zi li xing cheng xu	0
+子例程得	zi li cheng de	0
+子例程得	zi li cheng dei	0
+子例程转移	zi li cheng zhuan yi	0
+子例程库	zi li cheng ku	0
+子例程连接	zi li cheng lian jie	0
+子例程带	zi li cheng dai	0
+子模式	zi mo shi	0
+用户	yong hu	0
+用户群集	yong hu qun ji	0
+用户专用线	yong hu zhuan yong xian	0
+用户终端	yong hu zhong duan	0
+下标	xia biao	0
+下标表达式	xia biao biao da shi	0
+下标量	xia biao liang	0
+下标变量	xia biao bian liang	0
+加下标	jia xia biao	0
+小节	xiao jie	0
+子集	zi ji	0
+子集语言	zi ji yu yan	0
+实验室仪表	shi yan shi yi biao	0
+替换方式	ti huan fang shi	0
+置换	zhi huan	0
+置换法	zhi huan fa	0
+替换点	ti huan dian	0
+置换规则	zhi huan gui ze	0
+衬底	chen di	0
+子串	zi chuan	0
+子系统	zi xi tong	0
+减法器	jian fa qi	0
+减法	jian fa	0
+按加法柞运算	an jia fa zuo yun suan	0
+按加法柞运算	an jia fa zha yun suan	0
+减数	jian shu	0
+子树	zi shu	0
+子类型	zi lei xing	0
+顺序进位	shun xu jin wei	0
+和数读出门	he shu du chu men	0
+总数	zong shu	0
+求和检查	qiu he jian cha	0
+累加符号	lei jia fu hao	0
+加法器	jia fa qi	0
+加法器求和放大器	jia fa qi qiu he fang da qi	0
+求和点	qiu he dian	0
+母语言	mu yu yan	0
+超导计算机元件	chao dao ji suan ji yuan jian	0
+超群	chao qun	0
+超小型计算机	chao xiao xing ji suan ji	0
+叠加	die jia	0
+重叠法	chong die fa	0
+上标	shang biao	0
+超声延迟线	chao sheng yan chi xian	0
+管理程序惦	guan li cheng xu dian	0
+管理程序得指令	guan li cheng xu de zhi ling	0
+管理程序得指令	guan li cheng xu dei zhi ling	0
+管理程序得中断	guan li cheng xu de zhong duan	0
+管理程序得中断	guan li cheng xu dei zhong duan	0
+访管程序	fang guan cheng xu	0
+管理状态	guan li zhuang tai	0
+管理程序排队区	guan li cheng xu pai dui qu	0
+管理程序排队区	guan li cheng xu pai dui ou	0
+管理请求分程序	guan li qing qiu fen cheng xu	0
+管理程序常驻	guan li cheng xu chang zhu	0
+供应商	gong ying shang	0
+支持	zhi chi	0
+支持设备	zhi chi she bei	0
+支持处理机	zhi chi chu li ji	0
+支持程序	zhi chi cheng xu	0
+支持系统	zhi chi xi tong	0
+抑制	yi zhi	0
+表层文法	biao ceng wen fa	0
+表面可安装组件	biao mian ke an zhuang zu jian	0
+表层结构	biao ceng jie gou	0
+暂停封锁	zan ting feng suo	0
+暂停状态	zan ting zhuang tai	0
+暂停任务	zan ting ren wu	0
+交换区	jiao huan qu	0
+交换区	jiao huan ou	0
+交换数据集	jiao huan shu ju ji	0
+交换器	jiao huan qi	0
+交换门	jiao huan men	0
+换入	huan ru	0
+换出	huan chu	0
+交换程序	jiao huan cheng xu	0
+交换文件	jiao huan wen jian	0
+扫描发生器	sao miao fa sheng qi	0
+开关	kai guan	0
+开关函数	kai guan han shu	0
+开关寄存器	kai guan ji cun qi	0
+转换室	zhuan huan shi	0
+开关变量	kai guan bian liang	0
+交换线路	jiao huan xian lu	0
+开关代数	kai guan dai shu	0
+交换中心	jiao huan zhong xin	0
+开关电路	kai guan dian lu	0
+开关系数	kai guan xi shu	0
+交换技术	jiao huan ji shu	0
+开关矩阵	kai guan ju zhen	0
+交换节点	jiao huan jie dian	0
+转换继电器	zhuan huan ji dian qi	0
+开关时间	kai guan shi jian	0
+开关晶体管	kai guan jing ti guan	0
+开关装置	kai guan zhuang zhi	0
+开关值	kai guan zhi	0
+音节	yin jie	0
+符号发生器	fu hao fa sheng qi	0
+符号表	fu hao biao	0
+符号地址	fu hao di zhi	0
+符号寻址	fu hao xun zhi	0
+符号代码	fu hao dai ma	0
+符号编码	fu hao bian ma	0
+符号编译程序	fu hao bian yi cheng xu	0
+符号计算	fu hao ji suan	0
+符号翟程序	fu hao zhai cheng xu	0
+符号翟程序	fu hao di cheng xu	0
+符号卡片组	fu hao ka pian zu	0
+符号编辑程序	fu hao bian ji cheng xu	0
+符号指令	fu hao zhi ling	0
+符号标号	fu hao biao hao	0
+符号语言	fu hao yu yan	0
+符号逻辑	fu hao luo ji	0
+符号法	fu hao fa	0
+符号名	fu hao ming	0
+符号参数	fu hao can shu	0
+符号处理	fu hao chu li	0
+符号程序	fu hao cheng xu	0
+符号程序设计	fu hao cheng xu she ji	0
+符号程序设计语言	fu hao cheng xu she ji yu yan	0
+符号表示	fu hao biao shi	0
+对称关系	dui chen guan xi	0
+同步信号字符	tong bu xin hao zi fu	0
+同步信号	tong bu xin hao	0
+同步发射机	tong bu fa she ji	0
+同步性	tong bu xing	0
+同步化	tong bu hua	0
+同步化开销	tong bu hua kai xiao	0
+同步脉冲	tong bu mai chong	0
+同步器同步装置	tong bu qi tong bu zhuang zhi	0
+同步计算机	tong bu ji suan ji	0
+同步数据传输	tong bu shu ju chuan shu	0
+同步机	tong bu ji	0
+同步网络	tong bu wang luo	0
+同步网络	tong bu wang lao	0
+同步操作	tong bu cao zuo	0
+同步传输	tong bu chuan shu	0
+语法分析程序	yu fa fen xi cheng xu	0
+语法图	yu fa tu	0
+语法分析	yu fa fen xi	0
+语法错误	yu fa cuo wu	0
+语法	yu fa	0
+语法检验器	yu fa jian yan qi	0
+语法指导的编译程序	yu fa zhi dao de bian yi cheng xu	0
+语法指导的编译程序	yu fa zhi dao di bian yi cheng xu	0
+面向语法的编辑程序	mian xiang yu fa de bian ji cheng xu	0
+面向语法的编辑程序	mian xiang yu fa di bian ji cheng xu	0
+语法树	yu fa shu	0
+合成	he cheng	0
+生成地址	sheng cheng di zhi	0
+合成语音	he cheng yu yin	0
+系统输入	xi tong shu ru	0
+系统输出	xi tong shu chu	0
+系统费用计算	xi tong fei yong ji suan	0
+系统活动	xi tong huo dong	0
+系统管理员	xi tong guan li yuan	0
+系统分析	xi tong fen xi	0
+系统分析员	xi tong fen xi yuan	0
+系统结构设计员	xi tong jie gou she ji yuan	0
+系统结构	xi tong jie gou	0
+系统板	xi tong ban	0
+系统总线	xi tong zong xian	0
+系统得	xi tong de	0
+系统得	xi tong dei	0
+系统得中断	xi tong de zhong duan	0
+系统得中断	xi tong dei zhong duan	0
+系统校验	xi tong jiao yan	0
+系统时钟	xi tong shi zhong	0
+系统命令	xi tong ming ling	0
+系统兼容性	xi tong jian rong xing	0
+系统配置	xi tong pei zhi	0
+系统常数	xi tong chang shu	0
+系统控制	xi tong kong zhi	0
+系统控制程序	xi tong kong zhi cheng xu	0
+系统数据	xi tong shu ju	0
+系统设计	xi tong she ji	0
+系统开发	xi tong kai fa	0
+系统目录	xi tong mu lu	0
+系统文件编制	xi tong wen jian bian zhi	0
+系统元件	xi tong yuan jian	0
+系统工程	xi tong gong cheng	0
+系统误差	xi tong wu cha	0
+系统扩充	xi tong kuo chong	0
+系统故障	xi tong gu zhang	0
+系统撂图	xi tong liao tu	0
+系统功能	xi tong gong neng	0
+系统生成	xi tong sheng cheng	0
+系统生成参数	xi tong sheng cheng can shu	0
+系统公司	xi tong gong si	0
+系统图象	xi tong tu xiang	0
+系统实现	xi tong shi xian	0
+数据检说统	shu ju jian shuo tong	0
+数据检说统	shu ju jian shui tong	0
+数据检说统	shu ju jian yue tong	0
+系统输入设备	xi tong shu ru she bei	0
+系统综合	xi tong zong he	0
+系统密钥	xi tong mi yue	0
+系统语言	xi tong yu yan	0
+系统库程序	xi tong ku cheng xu	0
+系统程序库	xi tong cheng xu ku	0
+系统装入程序	xi tong zhuang ru cheng xu	0
+系统封锁	xi tong feng suo	0
+系统记录器	xi tong ji lu qi	0
+系统宏指令	xi tong hong zhi ling	0
+系统管理	xi tong guan li	0
+系统经理	xi tong jing li	0
+系统模块性	xi tong mo kuai xing	0
+系统模件	xi tong mo jian	0
+系统名	xi tong ming	0
+系统输出设备	xi tong shu chu she bei	0
+系统输出程序	xi tong shu chu cheng xu	0
+体系参数	ti xi can shu	0
+系统进程	xi tong jin cheng	0
+系统程序	xi tong cheng xu	0
+系统程序员	xi tong cheng xu yuan	0
+系统程序员	xi tong cheng xu yun	0
+系统程序设计	xi tong cheng xu she ji	0
+系统要求	xi tong yao qiu	0
+系统请除	xi tong qing chu	0
+系统常驻	xi tong chang zhu	0
+系统常驻盘	xi tong chang zhu pan	0
+系统常驻卷	xi tong chang zhu juan	0
+系统资源	xi tong zi yuan	0
+系统响应延迟	xi tong xiang ying yan chi	0
+系统软件	xi tong ruan jian	0
+系统支持	xi tong zhi chi	0
+系统任务	xi tong ren wu	0
+系统变量	xi tong bian liang	0
+系统错误	xi tong cuo wu	0
+系统纠错码	xi tong jiu cuo ma	0
+系统论方法	xi tong lun fang fa	0
+系统描述	xi tong miao shu	0
+系统规划	xi tong gui hua	0
+心动算法	xin dong suan fa	0
+心动阵列	xin dong zhen lie	0
+心动结构芯片	xin dong jie gou xin pian	0
+制表	zhi biao	0
+表元	biao yuan	0
+表函数	biao han shu	0
+表格查找	biao ge cha zhao	0
+查表指令	cha biao zhi ling	0
+表型存储器	biao xing cun chu qi	0
+表格行	biao ge hang	0
+表格行	biao ge xing	0
+列表数据	lie biao shu ju	0
+译表程序	yi biao cheng xu	0
+表型语言	biao xing yu yan	0
+制表设备	zhi biao she bei	0
+制表机	zhi biao ji	0
+会计卡片	kuai ji ka pian	0
+分隔符	fen ge fu	0
+制表键	zhi biao jian	0
+制表机构设定	zhi biao ji gou she ding	0
+转速表	zhuan su biao	0
+触觉键盘	chu jue jian pan	0
+触觉传感器	chu jue chuan gan qi	0
+标记块	biao ji kuai	0
+有标记结构	you biao ji jie gou	0
+特掌算机	te zhang suan ji	0
+尾部	wei bu	0
+卷带盘	juan dai pan	0
+信息源	xin xi yuan	0
+中继交换台	zhong ji jiao huan tai	0
+抽头	chou tou	0
+磁带反绕	ci dai fan rao	0
+带引导程序	dai yin dao cheng xu	0
+受带限制的图灵机	shou dai xian zhi de tu ling ji	0
+断带停机	duan dai ting ji	0
+磁带盒	ci dai he	0
+卡型磁带盒	ka xing ci dai he	0
+卡型磁带盒	qia xing ci dai he	0
+带控制	dai kong zhi	0
+带控制器	dai kong zhi qi	0
+磁带组	ci dai zu	0
+走带机构	zou dai ji gou	0
+带驱动机构	dai qu dong ji gou	0
+带编辑	dai bian ji	0
+带馈送	dai kui song	0
+卷带轮	juan dai lun	0
+带文件	dai wen jian	0
+走带机	zou dai ji	0
+带标号	dai biao hao	0
+带的首部	dai de shou bu	0
+磁带程序库	ci dai cheng xu ku	0
+装带	zhuang dai	0
+磁带标记	ci dai biao ji	0
+磁带操椎统	ci dai cao zhui tong	0
+磁带操椎统	ci dai cao chui tong	0
+带穿孔机	dai chuan kong ji	0
+读带机	du dai ji	0
+读带机	dou dai ji	0
+读带机	duo dai ji	0
+磁带记录	ci dai ji lu	0
+带盘	dai pan	0
+常驻带系统	chang zhu dai xi tong	0
+带运行	dai yun xing	0
+带速度	dai su du	0
+带速度	dai su duo	0
+带存储器	dai cun chu qi	0
+带同步器	dai tong bu qi	0
+带厚度	dai hou du	0
+带道	dai dao	0
+带尾	dai wei	0
+带尾	dai yi	0
+带驱动器带传送机构	dai qu dong qi dai chuan song ji gou	0
+带机	dai ji	0
+带校验机	dai jiao yan ji	0
+带区	dai qu	0
+带区	dai ou	0
+目标字母表	mu biao zi mu biao	0
+目标程序计算机	mu biao cheng xu ji suan ji	0
+目标转换	mu biao zhuan huan	0
+目标标号	mu biao biao hao	0
+目标处理机	mu biao chu li ji	0
+目标记录	mu biao ji lu	0
+目标系统	mu biao xi tong	0
+目标变量	mu biao bian liang	0
+价目表	jia mu biao	0
+任务	ren wu	0
+任务体	ren wu ti	0
+任务体	ren wu ben	0
+任务控制块	ren wu kong zhi kuai	0
+任务数据	ren wu shu ju	0
+任务等程序	ren wu deng cheng xu	0
+任务等	ren wu deng	0
+任务标识	ren wu biao zhi	0
+任务图象	ren wu tu xiang	0
+任务管理	ren wu guan li	0
+任务方式	ren wu fang shi	0
+任务监控程序	ren wu jian kong cheng xu	0
+任务队列	ren wu dui lie	0
+任务说明	ren wu shuo ming	0
+任务转换	ren wu zhuan huan	0
+任务时间	ren wu shi jian	0
+任务组织	ren wu zu zhi	0
+分类学	fen lei xue	0
+晶体管二极管逻辑	jing ti guan er ji guan luo ji	0
+分时多路转换	fen shi duo lu zhuan huan	0
+教学机	jiao xue ji	0
+教学程序	jiao xue cheng xu	0
+技术顾问	ji shu gu wen	0
+技术手册	ji shu shou ce	0
+技术传播	ji shu chuan bo	0
+远程通信	yuan cheng tong xin	0
+远程通信访问法	yuan cheng tong xin fang wen fa	0
+电信线路	dian xin xian lu	0
+远程通信监视程序	yuan cheng tong xin jian shi cheng xu	0
+远程通信网络	yuan cheng tong xin wang luo	0
+无线电话会议	wu xian dian hua hui yi	0
+电报字母	dian bao zi mu	0
+电报电路	dian bao dian lu	0
+电报电玛	dian bao dian ma	0
+电报信号	dian bao xin hao	0
+电报	dian bao	0
+远程信息处理技术	yuan cheng xin xi chu li ji shu	0
+遥测仪表	yao ce yi biao	0
+电话	dian hua	0
+电话电路	dian hua dian lu	0
+电话网络	dian hua wang luo	0
+电话网络	dian hua wang lao	0
+电话机	dian hua ji	0
+电话学	dian hua xue	0
+电传打字机	dian chuan da zi ji	0
+电传打印机代码	dian chuan da yin ji dai ma	0
+电传打印交换	dian chuan da yin jiao huan	0
+远程信息处理	yuan cheng xin xi chu li	0
+远程处理监控程序	yuan cheng chu li jian kong cheng xu	0
+远程处理网络	yuan cheng chu li wang luo	0
+电视本文	dian shi ben wen	0
+电视	dian shi	0
+用户电报	yong hu dian bao	0
+电传服务局	dian chuan fu wu ju	0
+银行出纳终端	yin hang chu na zhong duan	0
+银行出纳工拙	yin hang chu na gong zhuo	0
+温度第	wen du di	0
+温度第器	wen du di qi	0
+温度误差	wen du wu cha	0
+温度反馈	wen du fan kui	0
+温度测量	wen du ce liang	0
+热噪音	re zao yin	0
+温度范围	wen du fan wei	0
+温度敏感元件	wen du min gan yuan jian	0
+温度变化	wen du bian hua	0
+标准框	biao zhun kuang	0
+暂时分解	zan shi fen jie	0
+临时数据集	lin shi shu ju ji	0
+暂存磁盘	zan cun ci pan	0
+暂时错误	zan shi cuo wu	0
+暂时存储区	zan shi cun chu qu	0
+暂时存储区	zan shi cun chu ou	0
+十进制数字	shi jin zhi shu zi	0
+张力臂	zhang li bi	0
+张力臂	zhang li bei	0
+接线板	jie xian ban	0
+终端控制	zhong duan kong zhi	0
+终端控制器	zhong duan kong zhi qi	0
+终端仿真程序	zhong duan fang zhen cheng xu	0
+终端设备	zhong duan she bei	0
+终端处理器	zhong duan chu li qi	0
+终端输入	zhong duan shu ru	0
+终端椎	zhong duan zhui	0
+终端椎	zhong duan chui	0
+终端监控程序	zhong duan jian kong cheng xu	0
+终端多路转换器	zhong duan duo lu zhuan huan qi	0
+终端节点	zhong duan jie dian	0
+终端号	zhong duan hao	0
+终端操作	zhong duan cao zuo	0
+终端操妆	zhong duan cao zhuang	0
+终端处理机	zhong duan chu li ji	0
+终端转播机	zhong duan zhuan bo ji	0
+终端对话期间	zhong duan dui hua qi jian	0
+终端站	zhong duan zhan	0
+终端串	zhong duan chuan	0
+终端支持网络	zhong duan zhi chi wang luo	0
+终结符	zhong jie fu	0
+终端表	zhong duan biao	0
+终端事务处理系统	zhong duan shi wu chu li xi tong	0
+终端用户	zhong duan yong hu	0
+终端顶点	zhong duan ding dian	0
+匹配线路	pi pei xian lu	0
+结束符号	jie shu fu hao	0
+终止	zhong zhi	0
+终端字符	zhong duan zi fu	0
+终止代码	zhong zhi dai ma	0
+术语学	shu yu xue	0
+三进制代码	san jin zhi dai ma	0
+三进制增量表示法	san jin zhi zeng liang biao shi fa	0
+三值逻辑	san zhi luo ji	0
+三进制记数法	san jin zhi ji shu fa	0
+第三级存储器	di san ji cun chu qi	0
+测试置位指令	ce shi zhi wei zhi ling	0
+试验床	shi yan chuang	0
+测试台	ce shi tai	0
+测试条件	ce shi tiao jian	0
+测试数据	ce shi shu ju	0
+测试数据生成程序	ce shi shu ju sheng cheng cheng xu	0
+测试程序叠	ce shi cheng xu die	0
+测试驱动程序	ce shi qu dong cheng xu	0
+测试包	ce shi bao	0
+测试设施	ce shi she shi	0
+测试文法	ce shi wen fa	0
+测试指令	ce shi zhi ling	0
+测试日志	ce shi ri zhi	0
+测试方式	ce shi fang shi	0
+正规性检验	zheng gui xing jian yan	0
+测试码模式	ce shi ma mo shi	0
+测试码模式生成程序	ce shi ma mo shi sheng cheng cheng xu	0
+测试点	ce shi dian	0
+测试位置	ce shi wei zhi	0
+试打印	shi da yin	0
+检查题目	jian cha ti mu	0
+测试脉冲	ce shi mai chong	0
+测试读	ce shi du	0
+测试读	ce shi dou	0
+测试读	ce shi duo	0
+测试运行	ce shi yun xing	0
+测试次序	ce shi ci xu	0
+测试装置	ce shi zhuang zhi	0
+测试仿真器测试模拟器	ce shi fang zhen qi ce shi mo ni qi	0
+测试子程序	ce shi zi cheng xu	0
+试验带	shi yan dai	0
+测试终端	ce shi zhong duan	0
+测试工具	ce shi gong ju	0
+试验用翻译程序	shi yan yong fan yi cheng xu	0
+测试向量	ce shi xiang liang	0
+测试向量文件	ce shi xiang liang wen jian	0
+试验线	shi yan xian	0
+可测试性	ke ce shi xing	0
+试验仪器	shi yan yi qi	0
+测试设备	ce shi she bei	0
+四位组	si wei zu	0
+原文	yuan wen	0
+文字通信	wen zi tong xin	0
+文本数据库	wen ben shu ju ku	0
+文本编辑	wen ben bian ji	0
+文本编辑系统	wen ben bian ji xi tong	0
+文本编辑程序	wen ben bian ji cheng xu	0
+文本文件	wen ben wen jian	0
+文本格式编排	wen ben ge shi bian pai	0
+文本方式	wen ben fang shi	0
+文本处理	wen ben chu li	0
+文本处理器	wen ben chu li qi	0
+文本检说统	wen ben jian shuo tong	0
+文本检说统	wen ben jian shui tong	0
+文本检说统	wen ben jian yue tong	0
+文本修订	wen ben xiu ding	0
+文本串	wen ben chuan	0
+理论	li lun	0
+算法理论	suan fa li lun	0
+误差理论	wu cha li lun	0
+稳定性理论	wen ding xing li lun	0
+热哗	re hua	0
+热哗	re ye	0
+热控制	re kong zhi	0
+热控制器	re kong zhi qi	0
+热电偶	re dian ou	0
+热当量	re dang liang	0
+电热仪表	dian re yi biao	0
+热中子	re zhong zi	0
+感热式打印机	gan re shi da yin ji	0
+热阻	re zu	0
+热稳定性	re wen ding xing	0
+热应力	re ying li	0
+热电子	re dian zi	0
+热离子二极管	re li zi er ji guan	0
+热电子放射	re dian zi fang she	0
+热敏电阻	re min dian zu	0
+热压接合	re ya jie he	0
+温差热偶	wen cha re ou	0
+热电检疗	re dian jian liao	0
+温差电偶仪表	wen cha dian ou yi biao	0
+热电偶式真空计	re dian ou shi zhen kong ji	0
+温差电池	wen cha dian chi	0
+热电转换器	re dian zhuan huan qi	0
+热电	re dian	0
+温差电动势	wen cha dian dong shi	0
+热电效应	re dian xiao ying	0
+自记温度计	zi ji wen du ji	0
+热电偶热接点	re dian ou re jie dian	0
+热发光	re fa guang	0
+热磁效应	re ci xiao ying	0
+恒温器	heng wen qi	0
+热敏开关	re min kai guan	0
+词义汇编词典	ci yi hui bian ci dian	0
+厚膜工艺	hou mo gong yi	0
+厚膜	hou mo	0
+厚度控制	hou du kong zhi	0
+薄膜导体	bao mo dao ti	0
+薄膜磁盘	bao mo ci pan	0
+薄膜存储器	bao mo cun chu qi	0
+薄膜技术	bao mo ji shu	0
+薄膜晶体管	bao mo jing ti guan	0
+薄窗口显示	bo chuang kou xian shi	0
+薄窗口显示	bao chuang kou xian shi	0
+第三代计算机	di san dai ji suan ji	0
+三级地址	san ji di zhi	0
+第三范式	di san fan shi	0
+系统颠簸	xi tong dian bo	0
+连接代码	lian jie dai ma	0
+线孙言	xian sun yan	0
+线孙言	xian xun yan	0
+线隧	xian sui	0
+三地址指令	san di zhi zhi ling	0
+三地扯指令	san di che zhi ling	0
+三维图形技术	san wei tu xing ji shu	0
+三极管	san ji guan	0
+余三代码	yu san dai ma	0
+三级记录	san ji ji lu	0
+三级辅程序	san ji fu cheng xu	0
+三相电流	san xiang dian liu	0
+三加一地址指令	san jia yi di zhi zhi ling	0
+三态输出	san tai shu chu	0
+阈值	yu zhi	0
+阈值译码	yu zhi yi ma	0
+阈元件	yu yuan jian	0
+阈字段	yu zi duan	0
+阈函数	yu han shu	0
+阈门	yu men	0
+门限电平	men xian dian ping	0
+阈值逻辑	yu zhi luo ji	0
+灵敏度阈值	ling min du yu zhi	0
+阈值电压	yu zhi dian ya	0
+解题能力	jie ti neng li	0
+生产速率	sheng chan su lv	0
+吞吐时间	tun tu shi jian	0
+姆指旋轮	mu zhi xuan lun	0
+闸淋	zha lin	0
+通道传送	tong dao chuan song	0
+专用中继线	zhuan yong zhong ji xian	0
+紧密结合	jin mi jie he	0
+紧密结合系统	jin mi jie he xi tong	0
+窗口配置	chuang kou pei zhi	0
+时间分析器	shi jian fen xi qi	0
+时间界限处理	shi jian jie xian chu li	0
+时间图	shi jian tu	0
+时间校验	shi jian jiao yan	0
+时间常数	shi jian chang shu	0
+时间延迟	shi jian yan chi	0
+延时继电器	yan shi ji dian qi	0
+时分信号分离	shi fen xin hao fen li	0
+时间分隔	shi jian fen ge	0
+分时多路访问	fen shi duo lu fang wen	0
+时分交换	shi fen jiao huan	0
+时分割制	shi fen ge zhi	0
+时域	shi yu	0
+时间因素	shi jian yin su	0
+时间中断	shi jian zhong duan	0
+时间间隔	shi jian jian ge	0
+时间灯	shi jian deng	0
+日历钟	ri li zhong	0
+超时	chao shi	0
+按时图案控制	an shi tu an kong zhi	0
+时标脉冲发生器	shi biao mai chong fa sheng qi	0
+时间继电器	shi jian ji dian qi	0
+时间间隔取样	shi jian jian ge qu yang	0
+时间比例因子	shi jian bi li yin zi	0
+时间序列	shi jian xu lie	0
+分时	fen shi	0
+分时总线	fen shi zong xian	0
+分时总线系统	fen shi zong xian xi tong	0
+时间分配驱动机	shi jian fen pei qu dong ji	0
+分时执行	fen shi zhi xing	0
+分时监督程序	fen shi jian du cheng xu	0
+分时操椎统	fen shi cao zhui tong	0
+分时操椎统	fen shi cao chui tong	0
+分时操作	fen shi cao zuo	0
+分时选择程序	fen shi xuan ze cheng xu	0
+分时处理	fen shi chu li	0
+分时系统	fen shi xi tong	0
+缓时	huan shi	0
+时间分片	shi jian fen pian	0
+时间槽	shi jian cao	0
+时间戳	shi jian chuo	0
+时间步	shi jian bu	0
+时间研究	shi jian yan jiu	0
+时间接线器	shi jian jie xian qi	0
+时间表	shi jian biao	0
+时间单位	shi jian dan wei	0
+零时	ling shi	0
+同步存取寄存器	tong bu cun qu ji cun qi	0
+定时延迟	ding shi yan chi	0
+定时循环	ding shi xun huan	0
+时控脉冲	shi kong mai chong	0
+超时状态	chao shi zhuang tai	0
+定时计数	ding shi ji shu	0
+计时中断	ji shi zhong duan	0
+计时栖理程序	ji shi qi li cheng xu	0
+计时栖理程序	ji shi xi li cheng xu	0
+同步分析	tong bu fen xi	0
+计时错误	ji shi cuo wu	0
+定时脉冲	ding shi mai chong	0
+定时脉冲发生器	ding shi mai chong fa sheng qi	0
+定时信号	ding shi xin hao	0
+同步磁道	tong bu ci dao	0
+时序验证	shi xu yan zheng	0
+尖头接头	jian tou jie tou	0
+翻译后援缓冲器	fan yi hou yuan huan chong qi	0
+乒乓开关	ping pang kai guan	0
+令牌	ling pai	0
+令牌访问协议	ling pai fang wen xie yi	0
+令牌传递	ling pai chuan di	0
+令牌传递网络	ling pai chuan di wang luo	0
+令牌环	ling pai huan	0
+令牌环结构	ling pai huan jie gou	0
+语音标准	yu yin biao zhun	0
+容限	rong xian	0
+容差范围	rong cha fan wei	0
+音调色调	yin diao se diao	0
+自顶向下分析	zi ding xiang xia fen xi	0
+自顶向下设计	zi ding xiang xia she ji	0
+自顶向下程序开发	zi ding xiang xia cheng xu kai fa	0
+自顶向下程序设计	zi ding xiang xia cheng xu she ji	0
+自顶向下测试	zi ding xiang xia ce shi	0
+顶层目标	ding ceng mu biao	0
+页首	ye shou	0
+栈顶	zhan ding	0
+拓扑学	tuo pu xue	0
+示扭器扭力计	shi niu qi niu li ji	0
+累加校验	lei jia jiao yan	0
+全范围	quan fan wei	0
+总检验	zong jian yan	0
+总计时间	zong ji shi jian	0
+总量转移	zong liang zhuan yi	0
+触动键盘	chu dong jian pan	0
+触动显示	chu dong xian shi	0
+触动输入	chu dong shu ru	0
+触感控制板	chu gan kong zhi ban	0
+触感屏幕	chu gan ping mu	0
+触敏装置	chu min zhuang zhi	0
+触敏屏幕	chu min ping mu	0
+触敏终端	chu min zhong duan	0
+每英寸磁道数	mei ying cun ci dao shu	0
+每英寸磁道数	mei ying cun ci dao shuo	0
+事务处理路径选择	shi wu chu li lu jing xuan ze	0
+跟踪	gen zong	0
+跟踪设施	gen zong she shi	0
+跟踪文件	gen zong wen jian	0
+跟踪程序	gen zong cheng xu	0
+跟踪语句	gen zong yu ju	0
+磁道准确度	ci dao zhun que du	0
+磁道地址	ci dao di zhi	0
+跟踪球	gen zong qiu	0
+磁道密度	ci dao mi du	0
+磁道描述符	ci dao miao shu fu	0
+磁道格式	ci dao ge shi	0
+磁道保持	ci dao bao chi	0
+磁道她	ci dao ta	0
+磁道她	ci dao jie	0
+道标号	dao biao hao	0
+磁道号	ci dao hao	0
+磁道溢出	ci dao yi chu	0
+磁道宽度	ci dao kuan du	0
+追踪	zhui zong	0
+跟踪十字标线	gen zong shi zi biao xian	0
+跟踪符号	gen zong fu hao	0
+输纸机械	shu zhi ji xie	0
+折衷判定	zhe zhong pan ding	0
+通信量	tong xin liang	0
+传送位	chuan song wei	0
+交通管理	jiao tong guan li	0
+交通管理计算机	jiao tong guan li ji suan ji	0
+通信量分配	tong xin liang fen pei	0
+通信量矩阵	tong xin liang ju zhen	0
+尾部标号	wei bu biao hao	0
+尾部记录	wei bu ji lu	0
+结尾空白	jie wei kong bai	0
+后沿	hou yan	0
+尾随零	wei sui ling	0
+列车式打印机	lie che shi da yin ji	0
+训练计算机	xun lian ji suan ji	0
+训练方式	xun lian fang shi	0
+训练模式	xun lian mo shi	0
+事务	shi wu	0
+事务处理数据	shi wu chu li shu ju	0
+事务文件	shi wu wen jian	0
+事务图	shi wu tu	0
+事项关键码	shi xiang guan jian ma	0
+面向事项的系统	mian xiang shi xiang de xi tong	0
+面向事项的系统	mian xiang shi xiang di xi tong	0
+事务处理	shi wu chu li	0
+事项记录	shi xiang ji lu	0
+更新数据带	geng xin shu ju dai	0
+收发报机	shou fa bao ji	0
+超越函数	chao yue han shu	0
+超越传递函数	chao yue chuan di han shu	0
+变换机	bian huan ji	0
+变换器传感器	bian huan qi chuan gan qi	0
+转接母线	zhuan jie mu xian	0
+转移卡片	zhuan yi ka pian	0
+转输特性	zhuan shu te xing	0
+转输特性	zhuai shu te xing	0
+传送检验	chuan song jian yan	0
+转输常数	zhuan shu chang shu	0
+转输常数	zhuai shu chang shu	0
+传递函数	chuan di han shu	0
+传输指令	chuan shu zhi ling	0
+传印机	chuan yin ji	0
+传印机	zhuan yin ji	0
+传送延迟	chuan song yan chi	0
+传送操作	chuan song cao zuo	0
+传送速率	chuan song su lv	0
+传送寄存器	chuan song ji cun qi	0
+传送时间	chuan song shi jian	0
+转移单位	zhuan yi dan wei	0
+变换	bian huan	0
+变换文法	bian huan wen fa	0
+暂驻存储区	zan zhu cun chu qu	0
+暂驻存储区	zan zhu cun chu ou	0
+瞬态特性	shun tai te xing	0
+瞬时命令	shun shi ming ling	0
+过渡电流	guo du dian liu	0
+瞬态曲线	shun tai qu xian	0
+瞬时错误	shun shi cuo wu	0
+瞬时故障	shun shi gu zhang	0
+瞬时失效	shun shi shi xiao	0
+过渡振荡	guo du zhen dang	0
+瞬变性能	shun bian xing neng	0
+瞬态期	shun tai qi	0
+瞬态期	shun tai ji	0
+瞬态记录器	shun tai ji lu qi	0
+瞬态响应	shun tai xiang ying	0
+瞬态响应分析	shun tai xiang ying fen xi	0
+暂用例行程序	zan yong li xing cheng xu	0
+过渡状态	guo du zhuang tai	0
+信息传输量	xin xi chuan shu liang	0
+晶体管	jing ti guan	0
+晶体管放大器	jing ti guan fang da qi	0
+晶体管摸拟计算机	jing ti guan mo ni ji suan ji	0
+晶体管电路	jing ti guan dian lu	0
+晶体管解调	jing ti guan jie tiao	0
+晶体管逻辑	jing ti guan luo ji	0
+晶体管电阻逻辑	jing ti guan dian zu luo ji	0
+晶体管晶体管逻辑	jing ti guan jing ti guan luo ji	0
+晶体管计算机	jing ti guan ji suan ji	0
+转换存储器	zhuan huan cun chu qi	0
+转移图	zhuan yi tu	0
+转移矩阵	zhuan yi ju zhen	0
+转移概率	zhuan yi gai lv	0
+过渡时间	guo du shi jian	0
+传递关系	chuan di guan xi	0
+翻译阶段	fan yi jie duan	0
+平移	ping yi	0
+翻译	fan yi	0
+翻译程序	fan yi cheng xu	0
+平移向量	ping yi xiang liang	0
+翻译处理	fan yi chu li	0
+直译	zhi yi	0
+传输容量	chuan shu rong liang	0
+传输电路	chuan shu dian lu	0
+传输代码	chuan shu dai ma	0
+传输控制器	chuan shu kong zhi qi	0
+传输时延	chuan shu shi yan	0
+传输差错	chuan shu cha cuo	0
+传递滞后	chuan di zhi hou	0
+传输电平	chuan shu dian ping	0
+传输线路	chuan shu xian lu	0
+传输损耗	chuan shu sun hao	0
+传输速率	chuan shu su lv	0
+传输时间	chuan shu shi jian	0
+发送器发射机	fa song qi fa she ji	0
+发送开始码	fa song kai shi ma	0
+透秒	tou miao	0
+透谬据	tou miu ju	0
+透糜口	tou mi kou	0
+透糜口	tou mei kou	0
+透蔑言	tou mie yan	0
+透媒式	tou mei shi	0
+透毛输	tou mao shu	0
+延迟装置	yan chi zhuang zhi	0
+转送层	zhuan song ceng	0
+转送协议	zhuan song xie yi	0
+运输	yun shu	0
+交差	jiao chai	0
+晶片机	jing pian ji	0
+收发信机	shou fa xin ji	0
+收发信机	shou fa shen ji	0
+横波	heng bo	0
+陷阱	xian jing	0
+陷阱指令	xian jing zhi ling	0
+捕捉设置	bu zhuo she zhi	0
+设陷	she xian	0
+行波	hang bo	0
+行波	xing bo	0
+饰图	shi tu	0
+饰文法	shi wen fa	0
+饰她	shi ta	0
+饰她	shi jie	0
+级联乘法器	ji lian cheng fa qi	0
+恃索	shi suo	0
+梳构系统	shu gou xi tong	0
+梳构	shu gou	0
+梳构的方式	shu gou de fang shi	0
+守扑结构	shou pu jie gou	0
+书历	shu li	0
+三态装置	san tai zhuang zhi	0
+三态门	san tai men	0
+三态逻辑	san tai luo ji	0
+三位组	san wei zu	0
+试错法	shi cuo fa	0
+试验性运行	shi yan xing yun xing	0
+分站	fen zhan	0
+特里结构	te li jie gou	0
+触发齐码器	chu fa qi ma qi	0
+计数触发器	ji shu chu fa qi	0
+触发脉冲	chu fa mai chong	0
+触发信号	chu fa xin hao	0
+触发	chu fa	0
+三倍长冗余	san bei chang rong yu	0
+三倍长冗余	san bei zhang rong yu	0
+磁旋管	ci xuan guan	0
+对零散射	dui ling san she	0
+对零散射	dui ling san ye	0
+对零散射	dui ling san yi	0
+故障指示灯	gu zhang zhi shi deng	0
+故障查找	gu zhang cha zhao	0
+故障查找问题	gu zhang cha zhao wen ti	0
+故障查找程序	gu zhang cha zhao cheng xu	0
+原码门	yuan ma men	0
+实输出	shi shu chu	0
+真命题	zhen ming ti	0
+真表示	zhen biao shi	0
+真值	zhen zhi	0
+截断条件	jie duan tiao jian	0
+截短误差	jie duan wu cha	0
+中继线群	zhong ji xian qun	0
+中继线路	zhong ji xian lu	0
+真值表	zhen zhi biao	0
+隧道二极管	sui dao er ji guan	0
+隧道效应	sui dao xiao ying	0
+元组结构数据	yuan zu jie gou shu ju	0
+图灵机	tu ling ji	0
+解题周期	jie ti zhou qi	0
+关断时间	guan duan shi jian	0
+周转时间	zhou zhuan shi jian	0
+整套承包系统	zheng tao cheng bao xi tong	0
+翻转时间	fan zhuan shi jian	0
+海龟图示技术	hai gui tu shi ji shu	0
+辅导	fu dao	0
+穿孔位	chuan kong wei	0
+双磁带传送机构	shuang ci dai chuan song ji gou	0
+双扭线	shuang niu xian	0
+双存取机构	shuang cun qu ji gou	0
+二地址指令	er di zhi zhi ling	0
+二地址制	er di zhi zhi	0
+双通道开关	shuang tong dao kai guan	0
+二维阵列	er wei zhen lie	0
+二维显示	er wei xian shi	0
+二维伺服机构	er wei si fu ji gou	0
+二级存储器	er ji cun chu qi	0
+二级子程序	er ji zi cheng xu	0
+五中取二码	wu zhong qu er ma	0
+两遍扫描汇编程序	liang bian sao miao hui bian cheng xu	0
+二相伺服电动机	er xiang si fu dian dong ji	0
+二级抽样	er ji chou yang	0
+二级伺服机构	er ji si fu ji gou	0
+双向电路	shuang xiang dian lu	0
+二进制补码	er jin zhi bu ma	0
+类型	lei xing	0
+标准动作标准酌	biao zhun dong zuo biao zhun zhuo	0
+类型先定义特征	lei xing xian ding yi te zheng	0
+类型检验	lei xing jian yan	0
+类型转换	lei xing zhuan huan	0
+类型说明	lei xing shuo ming	0
+打印鼓	da yin gu	0
+类型失配	lei xing shi pei	0
+错误类型	cuo wu lei xing	0
+活字大小	huo zi da xiao	0
+字型轮	zi xing lun	0
+轮式打印机	lun shi da yin ji	0
+排字机	pai zi ji	0
+排字	pai zi	0
+打字机键盘	da zi ji jian pan	0
+打字机铅字	da zi ji qian zi	0
+不定长方式记录	bu ding chang fang shi ji lu	0
+通用异步收发两用机	tong yong yi bu shou fa liang yong ji	0
+单位元件	dan wei yuan jian	0
+超大规模集成	chao da gui mo ji cheng	0
+极限负载	ji xian fu zai	0
+极限强度	ji xian qiang du	0
+超高速存取存储器	chao gao su cun qu cun chu qi	0
+超短波	chao duan bo	0
+超声频率	chao sheng pin lv	0
+超声波存储器	chao sheng bo cun chu qi	0
+超声波闪观测器	chao sheng bo shan guan ce qi	0
+超声波	chao sheng bo	0
+超声技术	chao sheng ji shu	0
+超薄膜电视	chao bao mo dian shi	0
+柴外线擦除	chai wai xian ca chu	0
+柴外线辐射	chai wai xian fu she	0
+紫外线	zi wai xian	0
+非法数字	fei fa shu zi	0
+无歧义文法	wu qi yi wen fa	0
+无歧义句子	wu qi yi ju zi	0
+一目减	yi mu jian	0
+一元算符	yi yuan suan fu	0
+未初置变量	wei chu zhi bian liang	0
+无人照管运行	wu ren zhao guan yun xing	0
+无人照管启动	wu ren zhao guan qi dong	0
+待修时间	dai xiu shi jian	0
+越权存取	yue quan cun qu	0
+越权得	yue quan de	0
+越权得	yue quan dei	0
+未授权引用	wei shou quan yin yong	0
+越权用户	yue quan yong hu	0
+无效性	wu xiao xing	0
+无偏采样	wu pian cai yang	0
+非封锁记录	fei feng suo ji lu	0
+非成块	fei cheng kuai	0
+无约束变量	wu yue shu bian liang	0
+分离属性	fen li shu xing	0
+不确定性	bu que ding xing	0
+非兼容数据	fei jian rong shu ju	0
+非补码输入	fei bu ma shu ru	0
+无条件转移	wu tiao jian zhuan yi	0
+无条件转移指令	wu tiao jian zhuan yi zhi ling	0
+无条件概率	wu tiao jian gai lv	0
+不可控变量	bu ke kong bian liang	0
+未定义符号	wei ding yi fu hao	0
+未说娩量	wei shuo mian liang	0
+未说娩量	wei shuo wan liang	0
+未说娩量	wei shui mian liang	0
+未说娩量	wei shui wan liang	0
+未说娩量	wei yue mian liang	0
+未说娩量	wei yue wan liang	0
+未定义记录	wei ding yi ji lu	0
+未定义变量	wei ding yi bian liang	0
+不完全补偿	bu wan quan bu chang	0
+下陷	xia xian	0
+欠阻尼	qian zu ni	0
+下溢	xia yi	0
+低位穿孔	di wei chuan kong	0
+下划线字符	xia hua xian zi fu	0
+无向图	wu xiang tu	0
+不定向树无向树	bu ding xiang shu wu xiang shu	0
+无干扰输出	wu gan rao shu chu	0
+返回	fan hui	0
+无格式存储容量	wu ge shi cun chu rong liang	0
+无格式显示	wu ge shi xian shi	0
+无格式输入输出	wu ge shi shu ru shu chu	0
+无格式输入输出语句	wu ge shi shu ru shu chu yu ju	0
+无格式记录	wu ge shi ji lu	0
+单代码	shan dai ma	0
+单代码	shan dai ma	0
+单代码	chan dai ma	0
+单一控制	dan yi kong zhi	0
+单向总线	dan xiang zong xian	0
+单向计数器	dan xiang ji shu qi	0
+单向打印	dan xiang da yin	0
+统一总线	tong yi zong xian	0
+统一总线结构	tong yi zong xian jie gou	0
+均匀定标	jun yun ding biao	0
+并运算	bing yun suan	0
+单处理	dan chu li	0
+单处理机结构	dan chu li ji jie gou	0
+唯一地址	wei yi di zhi	0
+唯一标识符	wei yi biao zhi fu	0
+装置地址	zhuang zhi di zhi	0
+装置分配	zhuang zhi fen pei	0
+部件结构	bu jian jie gou	0
+部件控制块	bu jian kong zhi kuai	0
+单位延迟	dan wei yan chi	0
+单元数位	dan yuan shu wei	0
+单元间隔	dan yuan jian ge	0
+单位矩阵	dan wei ju zhen	0
+单元号	dan yuan hao	0
+语言单位	yu yan dan wei	0
+单元记录	dan yuan ji lu	0
+部件状态	bu jian zhuang tai	0
+单位串	dan wei chuan	0
+被测部件	bei ce bu jian	0
+单词她	shan ci ta	0
+单词她	dan ci jie	0
+合并	he bing	0
+通用指令组	tong yong zhi ling zu	0
+全称量词	quan cheng liang ci	0
+全集	quan ji	0
+通用同步异步收发机	tong yong tong bu yi bu shou fa ji	0
+通用图灵机	tong yong tu ling ji	0
+无标号文件	wu biao hao wen jian	0
+无标号语句	wu biao hao yu ju	0
+非锁存输出	fei suo cun shu chu	0
+开放	kai fang	0
+未映射系统	wei ying she xi tong	0
+未修改指令	wei xiu gai zhi ling	0
+不可移数据集	bu ke yi shu ju ji	0
+未规格化数	wei gui ge hua shu	0
+未规格化数	wei gui ge hua shuo	0
+非规格运算	fei gui ge yun suan	0
+分开	fen kai	0
+非压缩数据	fei ya suo shu ju	0
+非压缩十进制	fei ya suo shi jin zhi	0
+非紧缩十进制表示	fei jin suo shi jin zhi biao shi	0
+不分组格式	bu fen zu ge shi	0
+拆开	chai kai	0
+不可打印字符	bu ke da yin zi fu	0
+非保护域	fei bao hu yu	0
+不可校正错误	bu ke jiao zheng cuo wu	0
+无符号整数	wu fu hao zheng shu	0
+无符号数	wu fu hao shu	0
+无符号数	wu fu hao shuo	0
+织存储器	zhi cun chu qi	0
+非成层语言非排元语言	fei cheng ceng yu yan fei pai yuan yu yan	0
+非结构出口	fei jie gou chu kou	0
+不被支持程序	bu bei zhi chi cheng xu	0
+不可检测错误	bu ke jian ce cuo wu	0
+未用指令	wei yong zhi ling	0
+展开	zhan kai	0
+增序计数器	zeng xu ji shu qi	0
+可更新数据	ke geng xin shu ju	0
+复写更新	fu xie geng xin	0
+更新文件	geng xin wen jian	0
+更新版	geng xin ban	0
+更新程序	geng xin cheng xu	0
+扩充成套	kuo chong cheng tao	0
+大写字体	da xie zi ti	0
+上部穿孔区	shang bu chuan kong qu	0
+上部穿孔区	shang bu chuan kong ou	0
+寄存颇高位部份	ji cun po gao wei bu fen	0
+上段字符	shang duan zi fu	0
+可酌时间	ke zhuo shi jian	0
+向上兼容性	xiang shang jian rong xing	0
+向上引用	xiang shang yin yong	0
+科技资料传送	ke ji zi liao chuan song	0
+可用范围	ke yong fan wei	0
+使用位	shi yong wei	0
+有效寿命	you xiao shou ming	0
+用户结帐	yong hu jie zhang	0
+用户区	yong hu qu	0
+用户鉴别	yong hu jian bie	0
+用户可用存储器	yong hu ke yong cun chu qi	0
+用户断开	yong hu duan kai	0
+用户坐标	yong hu zuo biao	0
+用户可定义键	yong hu ke ding yi jian	0
+用户定义库	yong hu ding yi ku	0
+用户定义宏功能	yong hu ding yi hong gong neng	0
+用户定义类型	yong hu ding yi lei xing	0
+用户目录	yong hu mu lu	0
+用户环境	yong hu huan jing	0
+用户文件	yong hu wen jian	0
+用户方便性	yong hu fang bian xing	0
+用户方便型接口	yong hu fang bian xing jie kou	0
+用户集团	yong hu ji tuan	0
+用户指南	yong hu zhi nan	0
+用户标识	yong hu biao zhi	0
+用户对话	yong hu dui hua	0
+用户界面	yong hu jie mian	0
+用户接口设备	yong hu jie kou she bei	0
+用户标号	yong hu biao hao	0
+用户手册	yong hu shou ce	0
+用户方式	yong hu fang shi	0
+用户节点	yong hu jie dian	0
+用户任选项	yong hu ren xuan xiang	0
+面向用户的	mian xiang yong hu de	0
+面向用户的	mian xiang yong hu di	0
+用户端口	yong hu duan kou	0
+用户分布图	yong hu fen bu tu	0
+用户程序	yong hu cheng xu	0
+用户程序设计	yong hu cheng xu she ji	0
+用户软件	yong hu ruan jian	0
+用户说明	yong hu shuo ming	0
+用户提供的辅程序	yong hu ti gong de fu cheng xu	0
+用户提供的辅程序	yong hu ti gong di fu cheng xu	0
+用户任务	yong hu ren wu	0
+用户可用寄存器	yong hu ke yong ji cun qi	0
+用户存储器	yong hu cun chu qi	0
+实用程序	shi yong cheng xu	0
+实用设备	shi yong she bei	0
+实用功能	shi yong gong neng	0
+实用率	shi yong lv	0
+实用率	shi yong shuai	0
+实用寄存器	shi yong ji cun qi	0
+利用	li yong	0
+利用率	li yong lv	0
+可变型格式	ke bian xing ge shi	0
+型槽金属氧化物半导体	xing cao jin shu yang hua wu ban dao ti	0
+可变长记录	ke bian chang ji lu	0
+可变长记录	ke bian zhang ji lu	0
+可变地址常数	ke bian di zhi chang shu	0
+真空	zhen kong	0
+真空荧光显示	zhen kong ying guang xian shi	0
+真空计控制电路	zhen kong ji kong zhi dian lu	0
+真空管	zhen kong guan	0
+价带	jia dai	0
+价带	jie dai	0
+价电子	jia dian zi	0
+有效数据	you xiao shu ju	0
+有效数字	you xiao shu zi	0
+证实	zheng shi	0
+确实性	que shi xing	0
+有效性位	you xiao xing wei	0
+有效性检查	you xiao xing jian cha	0
+增值网	zeng zhi wang	0
+增值服务	zeng zhi fu wu	0
+值分散	zhi fen san	0
+值参数	zhi can shu	0
+增值网络	zeng zhi wang luo	0
+变容二极管	bian rong er ji guan	0
+变量	bian liang	0
+可变地址	ke bian di zhi	0
+变量赋值	bian liang fu zhi	0
+可变属性	ke bian shu xing	0
+可变块	ke bian kuai	0
+可变指令控制	ke bian zhi ling kong zhi	0
+可变连接点	ke bian lian jie dian	0
+可变数据	ke bian shu ju	0
+变量说明	bian liang shuo ming	0
+可变误差	ke bian wu cha	0
+可变反馈控制器	ke bian fan kui kong zhi qi	0
+变量字段	bian liang zi duan	0
+可变格式信息	ke bian ge shi xin xi	0
+变量标识符	bian liang biao zhi fu	0
+可变长码	ke bian chang ma	0
+可变长码	ke bian zhang ma	0
+可变长字段	ke bian chang zi duan	0
+可变长字段	ke bian zhang zi duan	0
+可变长格式	ke bian chang ge shi	0
+可变长格式	ke bian zhang ge shi	0
+可变长操作	ke bian chang cao zuo	0
+可变长操作	ke bian zhang cao zuo	0
+可变长字	ke bian chang zi	0
+可变长字	ke bian zhang zi	0
+可变逻辑	ke bian luo ji	0
+变量名	bian liang ming	0
+可变参数	ke bian can shu	0
+可变小数点表示	ke bian xiao shu dian biao shi	0
+可变区	ke bian qu	0
+可变区	ke bian ou	0
+可变记录长度	ke bian ji lu chang du	0
+变量符号	bian liang fu hao	0
+可变阈值逻辑	ke bian yu zhi luo ji	0
+变量类型	bian liang lei xing	0
+变量值	bian liang zhi	0
+可变字长	ke bian zi chang	0
+变体	bian ti	0
+变体字段	bian ti zi duan	0
+变体记录	bian ti ji lu	0
+变化	bian hua	0
+变异性	bian yi xing	0
+可变电阻	ke bian dian zu	0
+虚得	xu de	0
+虚得	xu dei	0
+向量	xiang liang	0
+向量地址	xiang liang di zhi	0
+向量计算机	xiang liang ji suan ji	0
+向量描述字	xiang liang miao shu zi	0
+向量图	xiang liang tu	0
+向量产生器	xiang liang chan sheng qi	0
+向量图形	xiang liang tu xing	0
+向量机	xiang liang ji	0
+向量运算	xiang liang yun suan	0
+向量处理	xiang liang chu li	0
+向量处理机	xiang liang chu li ji	0
+向量式中断	xiang liang shi zhong duan	0
+维奇图	wei qi tu	0
+速度灯	su du deng	0
+维都表	wei dou biao	0
+维都表	wei du biao	0
+通凤	tong feng	0
+通凤机	tong feng ji	0
+语言输入输出	yu yan shu ru shu chu	0
+口头请求	kou tou qing qiu	0
+验证	yan zheng	0
+检验和确认	jian yan he que ren	0
+检验和确认	jian yan hu que ren	0
+检验和确认	jian yan huo que ren	0
+验证方式	yan zheng fang shi	0
+校对机	jiao dui ji	0
+过载容量	guo zai rong liang	0
+多功能性	duo gong neng xing	0
+版本	ban ben	0
+版本编号	ban ben bian hao	0
+顶点	ding dian	0
+顶点删除	ding dian shan chu	0
+纵向光标	zong xiang guang biao	0
+垂向传送	chui xiang chuan song	0
+垂直金属氧化物半导体	chui zhi jin shu yang hua wu ban dao ti	0
+垂直微指令	chui zhi wei zhi ling	0
+纵向微程序设计	zong xiang wei cheng xu she ji	0
+纵向奇偶	zong xiang ji ou	0
+纵向奇偶校验错误	zong xiang ji ou jiao yan cuo wu	0
+纵向指针	zong xiang zhi zhen	0
+垂直极化	chui zhi ji hua	0
+垂直处理器	chui zhi chu li qi	0
+垂直记录	chui zhi ji lu	0
+纵向冗余检验	zong xiang rong yu jian yan	0
+垂向间隔	chui xiang jian ge	0
+纵向制表	zong xiang zhi biao	0
+垂直制表字符	chui zhi zhi biao zi fu	0
+甚高频	shen gao pin	0
+残余边带	can yu bian dai	0
+残留边带传输	can liu bian dai chuan shu	0
+通孔	tong kong	0
+振动	zhen dong	0
+视频缓冲器	shi pin huan chong qi	0
+映象母线	ying xiang mu xian	0
+视频信道	shi pin xin dao	0
+电视会仪	dian shi hui yi	0
+电视会仪	dian shi kuai yi	0
+视频控制器	shi pin kong zhi qi	0
+可视数据	ke shi shu ju	0
+录像盘	lu xiang pan	0
+视频显示器	shi pin xian shi qi	0
+电视游戏	dian shi you xi	0
+视频产生器	shi pin chan sheng qi	0
+录象头	lu xiang tou	0
+视频线路	shi pin xian lu	0
+视频监视器	shi pin jian shi qi	0
+视频页面	shi pin ye mian	0
+视频脉冲	shi pin mai chong	0
+图象随机存储器	tu xiang sui ji cun chu qi	0
+录象机	lu xiang ji	0
+视频信号	shi pin xin hao	0
+视频终端	shi pin zhong duan	0
+电视电话图象	dian shi dian hua tu xiang	0
+电视电话	dian shi dian hua	0
+电视电话通信	dian shi dian hua tong xin	0
+单向传视	dan xiang chuan shi	0
+单向传视	dan xiang zhuan shi	0
+光导摄像管	guang dao she xiang guan	0
+观察	guan cha	0
+观察点	guan cha dian	0
+视见区	shi jian qu	0
+视见区	shi xian qu	0
+视见区	shi jian ou	0
+视见区	shi xian ou	0
+视见体积	shi jian ti ji	0
+视见体积	shi xian ti ji	0
+视见变换	shi jian bian huan	0
+视见变换	shi xian bian huan	0
+虚拟输入输出	xu ni shu ru shu chu	0
+未用媒体	wei yong mei ti	0
+未用系统	wei yong xi tong	0
+未用带	wei yong dai	0
+虚地址	xu di zhi	0
+虚拟地址方式	xu ni di zhi fang shi	0
+虚拟寻址	xu ni xun zhi	0
+虚拟线路	xu ni xian lu	0
+虚拟线路协议	xu ni xian lu xie yi	0
+虚拟控制台	xu ni kong zhi tai	0
+虚拟导出数据项	xu ni dao chu shu ju xiang	0
+虚设备	xu she bei	0
+虚拟磁盘	xu ni ci pan	0
+虚拟文件	xu ni wen jian	0
+虚象	xu xiang	0
+虚拟键	xu ni jian	0
+虚拟机	xu ni ji	0
+虚拟存储器	xu ni cun chu qi	0
+虚拟存储技术	xu ni cun chu ji shu	0
+虚拟方式	xu ni fang shi	0
+虚拟页	xu ni ye	0
+虚拟处理机	xu ni chu li ji	0
+虚拟结果数据项	xu ni jie guo shu ju xiang	0
+虚拟屏幕	xu ni ping mu	0
+虚拟源数据项	xu ni yuan shu ju xiang	0
+虚拟空间	xu ni kong jian	0
+虚拟存储奇取法	xu ni cun chu qi qu fa	0
+虚拟存储奇取法	xu ni cun chu ji qu fa	0
+虚拟存储曝址	xu ni cun chu bao zhi	0
+虚拟存储曝址	xu ni cun chu pu zhi	0
+虚拟存储浦配	xu ni cun chu pu pei	0
+虚拟存储菩断	xu ni cun chu pu duan	0
+虚拟存储栖理	xu ni cun chu qi li	0
+虚拟存储栖理	xu ni cun chu xi li	0
+虚拟系统	xu ni xi tong	0
+虚拟远程通信访问法	xu ni yuan cheng tong xin fang wen fa	0
+虚拟终端	xu ni zhong duan	0
+虚拟设备	xu ni she bei	0
+虚拟化	xu ni hua	0
+可见度	ke jian du	0
+可见性规则	ke jian xing gui ze	0
+能见范围	neng jian fan wei	0
+可见象	ke jian xiang	0
+可见激光	ke jian ji guang	0
+视力	shi li	0
+视觉系统	shi jue xi tong	0
+视觉显示	shi jue xian shi	0
+肉眼检查	rou yan jian cha	0
+视觉认识	shi jue ren shi	0
+直观记录	zhi guan ji lu	0
+超大规模集成技术	chao da gui mo ji cheng ji shu	0
+声码器语音自动合成仪	sheng ma qi yu yin zi dong he cheng yi	0
+语音命令	yu yin ming ling	0
+语音数字化	yu yin shu zi hua	0
+声音入口显示	sheng yin ru kou xian shi	0
+音频系统	yin pin xi tong	0
+音频级信道	yin pin ji xin dao	0
+语音邮件	yu yin you jian	0
+语音响应	yu yin xiang ying	0
+空类型	kong lei xing	0
+易变文件	yi bian wen jian	0
+易失性存储器	yi shi xing cun chu qi	0
+挥发性	hui fa xing	0
+伏安	fu an	0
+电压	dian ya	0
+电压变换	dian ya bian huan	0
+基准电压二极管	ji zhun dian ya er ji guan	0
+电压第	dian ya di	0
+倒器	dao qi	0
+电压源	dian ya yuan	0
+稳压器	wen ya qi	0
+电压数字转变器	dian ya shu zi zhuan bian qi	0
+卷标识符	juan biao shi fu	0
+卷标识符	juan biao zhi fu	0
+卷起始	juan qi shi	0
+卷标号	juan biao hao	0
+数据载体安装	shu ju zai ti an zhuang	0
+卷识别	juan shi bie	0
+卷串序号	juan chuan xu hao	0
+卷表	juan biao	0
+卷目录表	juan mu lu biao	0
+随意中断	sui yi zhong duan	0
+冯诺依曼计算机结构	feng nuo yi man ji suan ji jie gou	0
+冯诺依曼计算机结构	ping nuo yi man ji suan ji jie gou	0
+冯诺依曼计算机	feng nuo yi man ji suan ji	0
+冯诺依曼计算机	ping nuo yi man ji suan ji	0
+表决冗余码	biao jue rong yu ma	0
+表决电路	biao jue dian lu	0
+表决	biao jue	0
+晶片成品率	jing pian cheng pin lv	0
+圆片	yuan pian	0
+切片	qie pian	0
+圆片规模集成	yuan pian gui mo ji cheng	0
+薄膜磁带	bao mo ci dai	0
+等候	deng hou	0
+等待条件	deng dai tiao jian	0
+等待循环	deng dai xun huan	0
+等待运算	deng dai yun suan	0
+等待状态	deng dai zhuang tai	0
+等待队列模型	deng dai dui lie mo xing	0
+等待表	deng dai biao	0
+等待处理	deng dai chu li	0
+等待程序	deng dai cheng xu	0
+等待修复时间	deng dai xiu fu shi jian	0
+待处理任务	dai chu li ren wu	0
+广域网络	guang yu wang luo	0
+广域网络	guang yu wang lao	0
+扫描笔	sao miao bi	0
+热备份	re bei fen	0
+热启动	re qi dong	0
+加热时间	jia re shi jian	0
+报警报文	bao jing bao wen	0
+报警信号	bao jing xin hao	0
+保证寿命	bao zheng shou ming	0
+监视计时器	jian shi ji shi qi	0
+宽框模型	kuan kuang mo xing	0
+波幅	bo fu	0
+波形分析器	bo xing fen xi qi	0
+捡波器	jian bo qi	0
+波形失真	bo xing shi zhen	0
+波动函数	bo dong han shu	0
+波长	bo chang	0
+波节	bo jie	0
+波的反射	bo de fan she	0
+波的反射	bo di fan she	0
+波尾	bo wei	0
+波尾	bo yi	0
+波形	bo xing	0
+波形变换器	bo xing bian huan qi	0
+波形数字化转换器	bo xing shu zi hua zhuan huan qi	0
+波前矩阵	bo qian ju zhen	0
+波前计算	bo qian ji suan	0
+波阵面处理	bo zhen mian chu li	0
+波导管	bo dao guan	0
+波导管激光	bo dao guan ji guang	0
+波长计	bo chang ji	0
+可写控制存储器	ke xie kong zhi cun chu qi	0
+弱实体	ruo shi ti	0
+弱外部引用	ruo wai bu yin yong	0
+弱封锁	ruo feng suo	0
+弱优先文法	ruo you xian wen fa	0
+磨损	mo sun	0
+波导楔	bo dao xie	0
+维伯尔分布	wei bo er fen bu	0
+重量	zhong liang	0
+重量系数	zhong liang xi shu	0
+加权码	jia quan ma	0
+加权图	jia quan tu	0
+加权平均值	jia quan ping jun zhi	0
+加权值	jia quan zhi	0
+权重函数	quan zhong han shu	0
+字轮式打印机	zi lun shi da yin ji	0
+白噪声	bai zao sheng	0
+白噪声发生器	bai zao sheng fa sheng qi	0
+白信号	bai xin hao	0
+宽带线路	kuan dai xian lu	0
+宽度蝶	kuan du die	0
+宽度灯	kuan du deng	0
+维格钠效应	wei ge na xiao ying	0
+有意截取	you yi jie qu	0
+威廉斯管存储器	wei lian si guan cun chu qi	0
+温彻斯特技术	wen che si te ji shu	0
+绕组	rao zu	0
+窗口管理程序	chuang kou guan li cheng xu	0
+开窗	kai chuang	0
+开窗口系统	kai chuang kou xi tong	0
+开窗变换	kai chuang bian huan	0
+导线	dao xian	0
+线框模型	xian kuang mo xing	0
+线框表示法	xian kuang biao shi fa	0
+针极印刷机	zhen ji yin shua ji	0
+导线间距离	dao xian jian ju li	0
+剥线	bo xian	0
+剥线	bao xian	0
+绕线连接	rao xian lian jie	0
+绕接板	rao jie ban	0
+绕接方法	rao jie fang fa	0
+绕接插孔	rao jie cha kong	0
+绕接	rao jie	0
+线或	xian huo	0
+布线逻辑	bu xian luo ji	0
+线与	xian yu	0
+插接程序	cha jie cheng xu	0
+插接程序计算机	cha jie cheng xu ji suan ji	0
+无线电话	wu xian dian hua	0
+搭线窃听	da xian qie ting	0
+配线	pei xian	0
+连线延迟	lian xian yan chi	0
+布线图	bu xian tu	0
+接线错误	jie xian cuo wu	0
+一次写入存储器	yi ci xie ru cun chu qi	0
+字地址	zi di zhi	0
+字位	zi wei	0
+字边界	zi bian jie	0
+字长	zi chang	0
+字发生器	zi fa sheng qi	0
+字指令	zi zhi ling	0
+字位置	zi wei zhi	0
+字标记	zi biao ji	0
+字存储器	zi cun chu qi	0
+面向字的处理	mian xiang zi de chu li	0
+字时间	zi shi jian	0
+字处理	zi chu li	0
+字处理器	zi chu li qi	0
+字脉冲	zi mai chong	0
+字选	zi xuan	0
+字分隔	zi fen ge	0
+每分钟字数	mei fen zhong zi shu	0
+工作	gong zuo	0
+工坐	gong zuo	0
+工啄件	gong zhuo jian	0
+工专	gong zhuan	0
+工准确度	gong zhun que du	0
+工抓元	gong zhua yuan	0
+工棕性	gong zong xing	0
+工灼算机	gong zhuo suan ji	0
+工况	gong kuang	0
+工卓录	gong zhuo lu	0
+工啄存器	gong zhuo cun qi	0
+工壮面组	gong zhuang mian zu	0
+工壮面组等程序	gong zhuang mian zu deng cheng xu	0
+动踪度	dong zong du	0
+动踪度	dong zong duo	0
+暂时存储器	zan shi cun chu qi	0
+暂时存储节	zan shi cun chu jie	0
+工缀荷管理	gong zhui he guan li	0
+工拙	gong zhuo	0
+世界通信	shi jie tong xin	0
+世界通信	shi jie tong shen	0
+完全坐标	wan quan zuo biao	0
+最坏情况	zui huai qing kuang	0
+最坏情况设计	zui huai qing kuang she ji	0
+速度不均性	su du bu jun xing	0
+缠绕	chan rao	0
+环绕式处理	huan rao shi chu li	0
+绕焊枪	rao han qiang	0
+可写存储器	ke xie cun chu qi	0
+写缓冲器	xie huan chong qi	0
+写入总线	xie ru zong xian	0
+写周期	xie zhou qi	0
+写入驱动器	xie ru qu dong qi	0
+允写环	yun xie huan	0
+允许写入标记符	yun xu xie ru biao ji fu	0
+写磁头	xie ci tou	0
+写入锁	xie ru suo	0
+一次写入式盘	yi ci xie ru shi pan	0
+写操作	xie cao zuo	0
+写入时间	xie ru shi jian	0
+写入保护标签	xie ru bao hu biao qian	0
+写入保护磁盘	xie ru bao hu ci pan	0
+写入保护存储器	xie ru bao hu cun chu qi	0
+写入保护	xie ru bao hu	0
+写入脉冲	xie ru mai chong	0
+写集	xie ji	0
+写入冲突	xie ru chong tu	0
+写入程序记录器	xie ru cheng xu ji lu qi	0
+写入密度	xie ru mi du	0
+记录激光器	ji lu ji guang qi	0
+存入速率	cun ru su lv	0
+写任务	xie ren wu	0
+所见即得	suo jian ji de	0
+所见即得	suo jian ji dei	0
+横坐标	heng zuo biao	0
+射线摄谱仪	she xian she pu yi	0
+射线	she xian	0
+横向线	heng xiang xian	0
+静电复印机	jing dian fu yin ji	0
+静电复印术	jing dian fu yin shu	0
+静电复印术	jing dian fu yin zhu	0
+发送葡开	fa song pu kai	0
+发送朴通	fa song pu tong	0
+发送朴通	fa song piao tong	0
+发送朴通	fa song po tong	0
+异运算	yi yun suan	0
+星形连接	xing xing lian jie	0
+位置	wei zhi	0
+型地址常量	xing di zhi chang liang	0
+纵向线	zong xiang xian	0
+八木天线	ba mu tian xian	0
+是否代码	shi fou dai ma	0
+是否决策	shi fou jue ce	0
+是否问题	shi fou wen ti	0
+成品率	cheng pin lv	0
+成品率曲线	cheng pin lv qu xian	0
+偏传线圈	pian chuan xian quan	0
+偏传线圈	pian zhuan xian quan	0
+齐纳二极管	qi na er ji guan	0
+齐纳效应	qi na xiao ying	0
+齐纳电压	qi na dian ya	0
+零地址	ling di zhi	0
+零地址指令	ling di zhi zhi ling	0
+零点蝶	ling dian die	0
+零位蝶装置	ling wei die zhuang zhi	0
+零位第器	ling wei di qi	0
+零位	ling wei	0
+零压缩	ling ya suo	0
+零状态	ling zhuang tai	0
+零延迟	ling yan chi	0
+零位偏移	ling wei pian yi	0
+消零	xiao ling	0
+零误差	ling wu cha	0
+填零	tian ling	0
+填零	zhen ling	0
+零标志	ling biao zhi	0
+置零门	zhi ling men	0
+零输入	ling shu ru	0
+零插入	ling cha ru	0
+原点偏置变址寻址	yuan dian pian zhi bian zhi xun zhi	0
+零输出	ling shu chu	0
+零填充	ling tian chong	0
+零位置	ling wei zhi	0
+零电位	ling dian wei	0
+零解	ling jie	0
+零解	ling xie	0
+零塞入	ling sai ru	0
+零磁道	ling ci dao	0
+零位偏差	ling wei pian cha	0
+曲折天线	qu zhe tian xian	0
+区段	qu duan	0
+区段位	qu duan wei	0
+区数位	ou shu wei	0
+区数位	ou shu wei	0
+酌区	zhuo qu	0
+酌区	zhuo ou	0
+三行区部分	san hang qu bu fen	0
+顶部穿孔	ding bu chuan kong	0
+区位格式	qu wei ge shi	0

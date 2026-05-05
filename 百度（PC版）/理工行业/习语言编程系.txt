@@ -1,0 +1,802 @@
+# 词库名称: 习语言编程系
+# 词库分类: 包含 习语言系统 习语言视窗接口 程序开始运行 主函数
+# 词库作者: 习语言论坛
+# 词库描述: 习语言中文编程系统词库
+# 词条数量: 794
+# 解析词数: 794
+# 解析异常: 0
+
+习语言系统	xi yu yan xi tong	0
+接口	jie kou	0
+包含	bao han	0
+定义	ding yi	0
+如果	ru guo	0
+或者	huo zhe	0
+否则	fou ze	0
+直到	zhi dao	0
+错误	cuo wu	0
+如果结束	ru guo jie shu	0
+如果已定义	ru guo yi ding yi	0
+如果未定义	ru guo wei ding yi	0
+取消定义	qu xiao ding yi	0
+编译指令	bian yi zhi ling	0
+已定义	yi ding yi	0
+文件名	wen jian ming	0
+日期	ri qi	0
+时间	shi jian	0
+变参	bian can	0
+变参	bian shen	0
+变参	bian cen	0
+变参	bian san	0
+步进循环	bu jin xun huan	0
+初始化语句	chu shi hua yu ju	0
+条件表达式	tiao jian biao da shi	0
+步进语句	bu jin yu ju	0
+循环语句	xun huan yu ju	0
+重复	chong fu	0
+分支	fen zhi	0
+整型变量	zheng xing bian liang	0
+分支语句	fen zhi yu ju	0
+若等于	ruo deng yu	0
+若等于	re deng yu	0
+语句	yu ju	0
+其他值	qi ta zhi	0
+跳出	tiao chu	0
+继续	ji xu	0
+返回	fan hui	0
+开始	kai shi	0
+结束	jie shu	0
+外部的	wai bu de	0
+无符号	wu fu hao	0
+静态的	jing tai de	0
+静态的	jing tai di	0
+易变的	yi bian de	0
+易变的	yi bian di	0
+寄存器变量	ji cun qi bian liang	0
+常量	chang liang	0
+本地的	ben di de	0
+只读的	zhi du de	0
+只读的	zhi du di	0
+字符类型	zi fu lei xing	0
+短整数类型	duan zheng shu lei xing	0
+整数类型	zheng shu lei xing	0
+浮点数类型	fu dian shu lei xing	0
+双精度类型	shuang jing du lei xing	0
+无类型	wu lei xing	0
+枚举类型	mei ju lei xing	0
+结构类型	jie gou lei xing	0
+联合类型	lian he lei xing	0
+字节类型	zi jie lei xing	0
+字类型	zi lei xing	0
+双字类型	shuang zi lei xing	0
+汉字类型	han zi lei xing	0
+自然数类型	zi ran shu lei xing	0
+小数类型	xiao shu lei xing	0
+长度类型	chang du lei xing	0
+布尔类型	bu er lei xing	0
+字符串类型	zi fu chuan lei xing	0
+字节串类型	zi jie chuan lei xing	0
+无参数无返回值	wu can shu wu fan hui zhi	0
+变参类型	bian can lei xing	0
+变参类型	bian shen lei xing	0
+变参类型	bian cen lei xing	0
+变参类型	bian san lei xing	0
+时间类型	shi jian lei xing	0
+类型长度	lei xing chang du	0
+加	jia	0
+减	jian	0
+乘	cheng	0
+乘	sheng	0
+除	chu	0
+模除	mo chu	0
+模除	mu chu	0
+加加	jia jia	0
+减减	jian jian	0
+赋值	fu zhi	0
+加等	jia deng	0
+减等	jian deng	0
+乘等	cheng deng	0
+乘等	sheng deng	0
+除等	chu deng	0
+模等	mo deng	0
+模等	mu deng	0
+等于	deng yu	0
+不等于	bu deng yu	0
+大于	da yu	0
+小于	xiao yu	0
+大于等于	da yu deng yu	0
+小于等于	xiao yu deng yu	0
+左移	zuo yi	0
+右移	you yi	0
+并且	bing qie	0
+与	yu	0
+或	huo	0
+非	fei	0
+位与	wei yu	0
+位或	wei huo	0
+位非	wei fei	0
+异或	yi huo	0
+指向的	zhi xiang de	0
+指向的	zhi xiang di	0
+取地址	qu di zhi	0
+类型定义	lei xing ding yi	0
+习调用	xi diao yong	0
+标准调用	biao zhun diao yong	0
+真	zhen	0
+假	jia	0
+注释	zhu shi	0
+枚举类型名	mei ju lei xing ming	0
+须更改	xu geng gai	0
+枚举值表	mei ju zhi biao	0
+枚举变量声明	mei ju bian liang sheng ming	0
+结构类型名	jie gou lei xing ming	0
+成员列表	cheng yuan lie biao	0
+结构变量声明	jie gou bian liang sheng ming	0
+联合类型名	lian he lei xing ming	0
+联合变量声明	lian he bian liang sheng ming	0
+空指针	kong zhi zhen	0
+成功	cheng gong	0
+宏退格	hong tui ge	0
+宏跳格	hong tiao ge	0
+宏回车	hong hui che	0
+宏换行	hong huan hang	0
+宏取消	hong qu xiao	0
+宏空格	hong kong ge	0
+宏中文空格	hong zhong wen kong ge	0
+宏左单引号	hong zuo dan yin hao	0
+宏右单引号	hong you dan yin hao	0
+宏单引号	hong dan yin hao	0
+宏左双引号	hong zuo shuang yin hao	0
+宏右双引号	hong you shuang yin hao	0
+宏双引号	hong shuang yin hao	0
+宏左斜杠	hong zuo xie gang	0
+宏右斜杠	hong you xie gang	0
+宏全角左斜杠	hong quan jiao zuo xie gang	0
+宏全角右斜杠	hong quan jiao you xie gang	0
+宏全角双引号	hong quan jiao shuang yin hao	0
+宏全角单引号	hong quan jiao dan yin hao	0
+获取按键	huo qu an jian	0
+无参数获取按键并显示	wu can shu huo qu an jian bing xian shi	0
+有按键吗	you an jian ma	0
+回置按键	hui zhi an jian	0
+键码	jian ma	0
+格式输出	ge shi shu chu	0
+格式	ge shi	0
+输出字	shu chu zi	0
+输出字符	shu chu zi fu	0
+字符码	zi fu ma	0
+输出字符串	shu chu zi fu chuan	0
+输出字符串并换行	shu chu zi fu chuan bing huan hang	0
+换行输出字符串	huan hang shu chu zi fu chuan	0
+输出整数	shu chu zheng shu	0
+输出自然数	shu chu zi ran shu	0
+输出浮点数	shu chu fu dian shu	0
+浮点值	fu dian zhi	0
+有效位输出浮点数	you xiao wei shu chu fu dian shu	0
+有效位	you xiao wei	0
+输入字	shu ru zi	0
+输入字符	shu ru zi fu	0
+输入字符串	shu ru zi fu chuan	0
+缓冲区	huan chong qu	0
+最大输入个数	zui da shu ru ge shu	0
+输入整数	shu ru zheng shu	0
+输入浮点数	shu ru fu dian shu	0
+格式输入	ge shi shu ru	0
+字符串格式输入	zi fu chuan ge shi shu ru	0
+格式化	ge shi hua	0
+执行程序	zhi xing cheng xu	0
+可执行文件名	ke zhi xing wen jian ming	0
+搜索方式	sou suo fang shi	0
+参数	can shu	0
+环境变量	huan jing bian liang	0
+运行程序	yun xing cheng xu	0
+模式	mo shi	0
+外部命令	wai bu ming ling	0
+命令串	ming ling chuan	0
+退出状态	tui chu zhuang tai	0
+日期时间类型	ri qi shi jian lei xing	0
+格林威治时间	ge lin wei zhi shi jian	0
+当地时间	dang di shi jian	0
+日期时间转字符串	ri qi shi jian zhuan zi fu chuan	0
+日期时间转字符串	ri qi shi jian zhuai zi fu chuan	0
+时间转字符串	shi jian zhuan zi fu chuan	0
+时间转字符串	shi jian zhuai zi fu chuan	0
+当前时间	dang qian shi jian	0
+浮点运算初始化	fu dian yun suan chu shi hua	0
+复数绝对值	fu shu jue dui zhi	0
+复数类型	fu shu lei xing	0
+复数	fu shu	0
+指数运算	zhi shu yun suan	0
+次方运算	ci fang yun suan	0
+对数运算	dui shu yun suan	0
+实数	shi shu	0
+开方运算	kai fang yun suan	0
+反余弦	fan yu xian	0
+弧度	hu du	0
+反正弦	fan zheng xian	0
+反正切	fan zheng qie	0
+分子	fen zi	0
+分母	fen mu	0
+余弦	yu xian	0
+正弦	zheng xian	0
+正切	zheng qie	0
+双曲余弦	shuang qu yu xian	0
+双曲正弦	shuang qu zheng xian	0
+双曲正切	shuang qu zheng qie	0
+求直角斜边长	qiu zhi jiao xie bian chang	0
+求直角斜边长	qiu zhi jiao xie bian zhang	0
+向上求整	xiang shang qiu zheng	0
+向下求整	xiang xia qiu zheng	0
+初始化随机数	chu shi hua sui ji shu	0
+取随机数	qu sui ji shu	0
+浮点数分解	fu dian shu fen jie	0
+整数指针	zheng shu zhi zhen	0
+浮点数模除	fu dian shu mo chu	0
+浮点数模除	fu dian shu mu chu	0
+求尾数和阶	qiu wei shu he jie	0
+求尾数和阶	qiu wei shu hu jie	0
+求尾数和阶	qiu wei shu huo jie	0
+尾数阶运算	wei shu jie yun suan	0
+阶次	jie ci	0
+申请内存	shen qing nei cun	0
+申请内存并清零	shen qing nei cun bing qing ling	0
+申请内存数组	shen qing nei cun shu zu	0
+元素个数	yuan su ge shu	0
+元素字节大小	yuan su zi jie da xiao	0
+重分配内存块	chong fen pei nei cun kuai	0
+内存指针	nei cun zhi zhen	0
+返回值	fan hui zhi	0
+释放内存	shi fang nei cun	0
+带停止位内存复制	dai ting zhi wei nei cun fu zhi	0
+源指针	yuan zhi zhen	0
+停止字节	ting zhi zi jie	0
+目标指针	mu biao zhi zhen	0
+复制字节数	fu zhi zi jie shu	0
+内存复制	nei cun fu zhi	0
+内存查找	nei cun cha zhao	0
+查找字节	cha zhao zi jie	0
+查找长度	cha zhao chang du	0
+内存比较	nei cun bi jiao	0
+内存小写比较	nei cun xiao xie bi jiao	0
+内存搬移	nei cun ban yi	0
+内存块长度	nei cun kuai chang du	0
+目标	mu biao	0
+内存填充	nei cun tian chong	0
+字节值	zi jie zhi	0
+填充字节数	tian chong zi jie shu	0
+指针表类型	zhi zhen biao lei xing	0
+链表类型	lian biao lei xing	0
+创建指针表	chuang jian zhi zhen biao	0
+指针表添加指针	zhi zhen biao tian jia zhi zhen	0
+指针表	zhi zhen biao	0
+指针	zhi zhen	0
+指针表删除指针	zhi zhen biao shan chu zhi zhen	0
+指针表长度	zhi zhen biao chang du	0
+指针表检索	zhi zhen biao jian suo	0
+索引	suo yin	0
+指针表取指针	zhi zhen biao qu zhi zhen	0
+指令	zhi ling	0
+指针表释放内存	zhi zhen biao shi fang nei cun	0
+销毁指针表	xiao hui zhi zhen biao	0
+创建链表	chuang jian lian biao	0
+链表添加数据	lian biao tian jia shu ju	0
+链表	lian biao	0
+数据	shu ju	0
+链表删除数据	lian biao shan chu shu ju	0
+链表检索数据	lian biao jian suo shu ju	0
+链表取后继节点	lian biao qu hou ji jie dian	0
+链表节点	lian biao jie dian	0
+链表取前驱节点	lian biao qu qian qu jie dian	0
+链表取节点数据	lian biao qu jie dian shu ju	0
+链表删除节点	lian biao shan chu jie dian	0
+销毁链表	xiao hui lian biao	0
+宏致命错误	hong zhi ming cuo wu	0
+宏严重错误	hong yan zhong cuo wu	0
+宏错误	hong cuo wu	0
+宏警告	hong jing gao	0
+宏提示	hong ti shi	0
+暂停	zan ting	0
+设置调试级别	she zhi tiao shi ji bie	0
+级别	ji bie	0
+设置调试类别	she zhi tiao shi lei bie	0
+类别	lei bie	0
+开闭	kai bi	0
+无返回值	wu fan hui zhi	0
+设置调试标志串	she zhi tiao shi biao zhi chuan	0
+标志串	biao zhi chuan	0
+读取调试标志串	du qu tiao shi biao zhi chuan	0
+调试输出	tiao shi shu chu	0
+调试断点开关	tiao shi duan dian kai guan	0
+开关	kai guan	0
+变参变量	bian can bian liang	0
+变参变量	bian shen bian liang	0
+变参变量	bian cen bian liang	0
+变参变量	bian san bian liang	0
+变参开始	bian can kai shi	0
+变参开始	bian shen kai shi	0
+变参开始	bian cen kai shi	0
+变参开始	bian san kai shi	0
+非变参数	fei bian can shu	0
+取变参	qu bian can	0
+取变参	qu bian shen	0
+取变参	qu bian cen	0
+取变参	qu bian san	0
+变参结束	bian can jie shu	0
+变参结束	bian shen jie shu	0
+变参结束	bian cen jie shu	0
+变参结束	bian san jie shu	0
+字节属性	zi jie shu xing	0
+字节具有属性	zi jie ju you shu xing	0
+字长度	zi chang du	0
+字长度	zi chang duo	0
+数字转字母	shu zi zhuan zi mu	0
+数字转字母	shu zi zhuai zi mu	0
+字母转数字	zi mu zhuan shu zi	0
+字转字符串	zi zhuan zi fu chuan	0
+字转字符串	zi zhuai zi fu chuan	0
+字转串	zi zhuan chuan	0
+字转串	zi zhuai chuan	0
+字内码转串	zi nei ma zhuan chuan	0
+字内码转串	zi nei ma zhuai chuan	0
+内码串转字	nei ma chuan zhuan zi	0
+内码串转字	nei ma chuan zhuai zi	0
+当前字长度	dang qian zi chang du	0
+当前字长度	dang qian zi chang duo	0
+取当前字	qu dang qian zi	0
+当前字填充	dang qian zi tian chong	0
+填充字节	tian chong zi jie	0
+前一字长度	qian yi zi chang du	0
+前一字长度	qian yi zi chang duo	0
+取前一字	qu qian yi zi	0
+串取字	chuan qu zi	0
+位置	wei zhi	0
+串取字指针加加	chuan qu zi zhi zhen jia jia	0
+字符串地址	zi fu chuan di zhi	0
+串取字指针减减	chuan qu zi zhi zhen jian jian	0
+串取字位置加加	chuan qu zi wei zhi jia jia	0
+串取字位置减减	chuan qu zi wei zhi jian jian	0
+串指针加加	chuan zhi zhen jia jia	0
+取当前字加加	qu dang qian zi jia jia	0
+串指针减减	chuan zhi zhen jian jian	0
+串位置加加	chuan wei zhi jia jia	0
+串位置减减	chuan wei zhi jian jian	0
+串置字	chuan zhi zi	0
+串置字指针加加	chuan zhi zi zhi zhen jia jia	0
+缓冲区地址	huan chong qu di zhi	0
+缓冲区长度	huan chong qu chang du	0
+串置字位置加加	chuan zhi zi wei zhi jia jia	0
+位置指针	wei zhi zhi zhen	0
+字偏移串取字	zi pian yi chuan qu zi	0
+求字偏移串指针	qiu zi pian yi chuan zhi zhen	0
+串指针	chuan zhi zhen	0
+字偏移	zi pian yi	0
+求字偏移串位置	qiu zi pian yi chuan wei zhi	0
+移动串指针	yi dong chuan zhi zhen	0
+移动串位置	yi dong chuan wei zhi	0
+取后一字	qu hou yi zi	0
+字符串跳过空格	zi fu chuan tiao guo kong ge	0
+字符串长度	zi fu chuan chang du	0
+字符串字数	zi fu chuan zi shu	0
+中文字数统计	zhong wen zi shu tong ji	0
+中文字数统计	zhong wen zi shuo tong ji	0
+是数字	shi shu zi	0
+是半角数字	shi ban jiao shu zi	0
+是英文字母	shi ying wen zi mu	0
+全半角	quan ban jiao	0
+大小写	da xiao xie	0
+是半角英文字母	shi ban jiao ying wen zi mu	0
+是英文字母数字	shi ying wen zi mu shu zi	0
+是单字节字	shi dan zi jie zi	0
+是双字节字	shi shuang zi jie zi	0
+是单双字节字	shi dan shuang zi jie zi	0
+是四字节字	shi si zi jie zi	0
+是多字节字	shi duo zi jie zi	0
+是半角字	shi ban jiao zi	0
+是全角字	shi quan jiao zi	0
+是全角字	shi quan jue zi	0
+是控制字符	shi kong zhi zi fu	0
+是空白字符	shi kong bai zi fu	0
+是空格	shi kong ge	0
+是空格跳格	shi kong ge tiao ge	0
+是十六进制数字	shi shi liu jin zhi shu zi	0
+是国标编码	shi guo biao bian ma	0
+是汉字字母	shi han zi zi mu	0
+是汉字字母数字	shi han zi zi mu shu zi	0
+是空串	shi kong chuan	0
+转半角	zhuan ban jiao	0
+转半角	zhuai ban jiao	0
+转全角	zhuan quan jiao	0
+转全角	zhuai quan jiao	0
+转大写	zhuan da xie	0
+转大写	zhuai da xie	0
+转小写	zhuan xiao xie	0
+转小写	zhuai xiao xie	0
+全角转半角	quan jiao zhuan ban jiao	0
+全角转半角	quan jiao zhuai ban jiao	0
+输出字符串长度	shu chu zi fu chuan chang du	0
+半角转全角	ban jiao zhuan quan jiao	0
+半角转全角	ban jiao zhuai quan jiao	0
+原字符串	yuan zi fu chuan	0
+数字转中文	shu zi zhuan zhong wen	0
+数字转中文	shu zi zhuai zhong wen	0
+中文转数字	zhong wen zhuan shu zi	0
+字符串转整数	zi fu chuan zhuan zheng shu	0
+字符串转整数	zi fu chuan zhuai zheng shu	0
+进制	jin zhi	0
+结束位置	jie shu wei zhi	0
+字符串转自然数	zi fu chuan zhuan zi ran shu	0
+字符串转自然数	zi fu chuan zhuan zi ran shuo	0
+字符串转浮点数	zi fu chuan zhuan fu dian shu	0
+字符串转浮点数	zi fu chuan zhuai fu dian shu	0
+整数转字符串	zheng shu zhuan zi fu chuan	0
+整数转字符串	zheng shu zhuai zi fu chuan	0
+输出缓冲区	shu chu huan chong qu	0
+自然数转字符串	zi ran shu zhuan zi fu chuan	0
+自然数转字符串	zi ran shu zhuai zi fu chuan	0
+浮点数转字符串	fu dian shu zhuan zi fu chuan	0
+浮点数转字符串	fu dian shu zhuai zi fu chuan	0
+浮点转字符串	fu dian zhuan zi fu chuan	0
+浮点转字符串	fu dian zhuai zi fu chuan	0
+字符串转小写	zi fu chuan zhuan xiao xie	0
+字符串转小写	zi fu chuan zhuai xiao xie	0
+字符串转大写	zi fu chuan zhuan da xie	0
+字符串转大写	zi fu chuan zhuai da xie	0
+字符串复制	zi fu chuan fu zhi	0
+源串	yuan chuan	0
+目标串	mu biao chuan	0
+字符串安全复制	zi fu chuan an quan fu zhi	0
+字符串定长复制	zi fu chuan ding chang fu zhi	0
+字符串定长安全复制	zi fu chuan ding chang an quan fu zhi	0
+目标串长	mu biao chuan chang	0
+目标串长	mu biao chuan zhang	0
+字符串克隆	zi fu chuan ke long	0
+前附加字节数	qian fu jia zi jie shu	0
+后附加字节数	hou fu jia zi jie shu	0
+多串克隆	duo chuan ke long	0
+字符串连接	zi fu chuan lian jie	0
+字符串定长连接	zi fu chuan ding chang lian jie	0
+字符串安全连接	zi fu chuan an quan lian jie	0
+目标串长度	mu biao chuan chang du	0
+字符串查找	zi fu chuan cha zhao	0
+字符串反向查找	zi fu chuan fan xiang cha zhao	0
+字符串查找字符集	zi fu chuan cha zhao zi fu ji	0
+字符串查找子串	zi fu chuan cha zhao zi chuan	0
+字符串比较	zi fu chuan bi jiao	0
+字符串定长比较	zi fu chuan ding chang bi jiao	0
+字符串小写比较	zi fu chuan xiao xie bi jiao	0
+字符串定长小写比较	zi fu chuan ding chang xiao xie bi jiao	0
+字符串填充	zi fu chuan tian chong	0
+字符串定长填充	zi fu chuan ding chang tian chong	0
+字符串倒序	zi fu chuan dao xu	0
+子串长度	zi chuan chang du	0
+字符集	zi fu ji	0
+非子串长度	fei zi chuan chang du	0
+字符串切分	zi fu chuan qie fen	0
+定界符	ding jie fu	0
+文件名改变后缀	wen jian ming gai bian hou zhui	0
+文件名缓冲区长	wen jian ming huan chong qu chang	0
+文件名缓冲区长	wen jian ming huan chong qu zhang	0
+新后缀	xin hou zhui	0
+文件名改变名称	wen jian ming gai bian ming cheng	0
+新名称	xin ming cheng	0
+文件名后缀替换	wen jian ming hou zhui ti huan	0
+输出文件名长度	shu chu wen jian ming chang du	0
+文件名名称替换	wen jian ming ming cheng ti huan	0
+输出文件名	shu chu wen jian ming	0
+文件名取路径	wen jian ming qu lu jing	0
+路径缓冲区	lu jing huan chong qu	0
+文件名去路径后缀	wen jian ming qu lu jing hou zhui	0
+文件名去后缀	wen jian ming qu hou zhui	0
+文件名取后缀	wen jian ming qu hou zhui	0
+文件名去引号	wen jian ming qu yin hao	0
+文件名加引号	wen jian ming jia yin hao	0
+文件名克隆	wen jian ming ke long	0
+设置当前工作目录	she zhi dang qian gong zuo mu lu	0
+新目录	xin mu lu	0
+设置缺省磁盘	she zhi que sheng ci pan	0
+磁盘号码	ci pan hao ma	0
+获取当前工作路径	huo qu dang qian gong zuo lu jing	0
+获取缺省磁盘	huo qu que sheng ci pan	0
+获取可用磁盘	huo qu ke yong ci pan	0
+创建目录	chuang jian mu lu	0
+删除目录	shan chu mu lu	0
+获取环境变量	huo qu huan jing bian liang	0
+环境变量名	huan jing bian liang ming	0
+设置环境变量	she zhi huan jing bian liang	0
+环境变量表达	huan jing bian liang biao da	0
+开始文件查找	kai shi wen jian cha zhao	0
+路径名	lu jing ming	0
+文件查找结果类型	wen jian cha zhao jie guo lei xing	0
+查找结果	cha zhao jie guo	0
+继续文件查找	ji xu wen jian cha zhao	0
+结束文件查找	jie shu wen jian cha zhao	0
+重命名	chong ming ming	0
+原文件名	yuan wen jian ming	0
+检查属性	jian cha shu xing	0
+设置属性	she zhi shu xing	0
+打开文件	da kai wen jian	0
+打开模式	da kai mo shi	0
+创建文件	chuang jian wen jian	0
+读文件	du wen jian	0
+文件句柄	wen jian ju bing	0
+读文件字	du wen jian zi	0
+汉字	han zi	0
+写文件	xie wen jian	0
+复制文件句柄	fu zhi wen jian ju bing	0
+文件句柄赋值	wen jian ju bing fu zhi	0
+原文件句柄	yuan wen jian ju bing	0
+新文件句柄	xin wen jian ju bing	0
+判断文件结束	pan duan wen jian jie shu	0
+文件长度	wen jian chang du	0
+设置文件模式	she zhi wen jian mo shi	0
+定位文件	ding wei wen jian	0
+偏移	pian yi	0
+参考位置	can kao wei zhi	0
+当前文件位置	dang qian wen jian wei zhi	0
+是字符设备吗	shi zi fu she bei ma	0
+关闭文件	guan bi wen jian	0
+文件打开句柄	wen jian da kai ju bing	0
+方式	fang shi	0
+文件重新打开	wen jian chong xin da kai	0
+当前流	dang qian liu	0
+文件写字符	wen jian xie zi fu	0
+文件读字	wen jian du zi	0
+文件读字	wen jian dou zi	0
+文件读字	wen jian duo zi	0
+文件写字	wen jian xie zi	0
+文件回置字符	wen jian hui zhi zi fu	0
+一字符	yi zi fu	0
+文件读字符串	wen jian du zi fu chuan	0
+文件读字符串	wen jian dou zi fu chuan	0
+文件读字符串	wen jian duo zi fu chuan	0
+文件写字符串	wen jian xie zi fu chuan	0
+文件读数据	wen jian du shu ju	0
+文件写数据	wen jian xie shu ju	0
+文件格式输入	wen jian ge shi shu ru	0
+输入流	shu ru liu	0
+文件习格式输入	wen jian xi ge shi shu ru	0
+文件格式输出	wen jian ge shi shu chu	0
+输出流	shu chu liu	0
+文件习格式输出	wen jian xi ge shi shu chu	0
+文件变参格式输入	wen jian bian can ge shi shu ru	0
+文件变参格式输入	wen jian bian shen ge shi shu ru	0
+文件变参格式输入	wen jian bian cen ge shi shu ru	0
+文件变参格式输入	wen jian bian san ge shi shu ru	0
+文件习变参格式输入	wen jian xi bian can ge shi shu ru	0
+文件习变参格式输入	wen jian xi bian shen ge shi shu ru	0
+文件习变参格式输入	wen jian xi bian cen ge shi shu ru	0
+文件习变参格式输入	wen jian xi bian san ge shi shu ru	0
+文件变参格式输出	wen jian bian can ge shi shu chu	0
+文件变参格式输出	wen jian bian shen ge shi shu chu	0
+文件变参格式输出	wen jian bian cen ge shi shu chu	0
+文件变参格式输出	wen jian bian san ge shi shu chu	0
+文件习变参格式输出	wen jian xi bian can ge shi shu chu	0
+文件习变参格式输出	wen jian xi bian shen ge shi shu chu	0
+文件习变参格式输出	wen jian xi bian cen ge shi shu chu	0
+文件习变参格式输出	wen jian xi bian san ge shi shu chu	0
+文件定位	wen jian ding wei	0
+文件当前位置	wen jian dang qian wei zhi	0
+文件求长度	wen jian qiu chang du	0
+文件复位	wen jian fu wei	0
+文件清除错误	wen jian qing chu cuo wu	0
+文件设置缓冲区	wen jian she zhi huan chong qu	0
+文件关闭	wen jian guan bi	0
+文件全部关闭	wen jian quan bu guan bi	0
+文件刷新缓存	wen jian shua xin huan cun	0
+颜色类型	yan se lei xing	0
+画笔类型	hua bi lei xing	0
+画刷类型	hua shua lei xing	0
+字体类型	zi ti lei xing	0
+字体属性类型	zi ti shu xing lei xing	0
+坐标类型	zuo biao lei xing	0
+矩形类型	ju xing lei xing	0
+图形初始化显示器	tu xing chu shi hua xian shi qi	0
+宽	kuan	0
+高	gao	0
+图标	tu biao	0
+显示器消息处理函数	xian shi qi xiao xi chu li han shu	0
+消息回调	xiao xi hui diao	0
+消息回调	xiao xi hui tiao	0
+图形打开显示器	tu xing da kai xian shi qi	0
+图形关闭显示器	tu xing guan bi xian shi qi	0
+图形等待显示器关闭	tu xing deng dai xian shi qi guan bi	0
+图形获取显示器状态	tu xing huo qu xian shi qi zhuang tai	0
+图形设置显示器状态	tu xing she zhi xian shi qi zhuang tai	0
+图形刷新显示	tu xing shua xin xian shi	0
+获取显示器关闭码	huo qu xian shi qi guan bi ma	0
+图形初始化定时器	tu xing chu shi hua ding shi qi	0
+定时器事件处理函数	ding shi qi shi jian chu li han shu	0
+定时器回调	ding shi qi hui diao	0
+定时器回调	ding shi qi hui tiao	0
+图形创建定时器	tu xing chuang jian ding shi qi	0
+定时器号码	ding shi qi hao ma	0
+时间间隔	shi jian jian ge	0
+图形销毁定时器	tu xing xiao hui ding shi qi	0
+图形清屏	tu xing qing ping	0
+图形等待按键消息	tu xing deng dai an jian xiao xi	0
+键值指针	jian zhi zhi zhen	0
+图形有按键消息吗	tu xing you an jian xiao xi ma	0
+红绿蓝	hong lv lan	0
+图形恢复画笔	tu xing hui fu hua bi	0
+图形恢复画刷	tu xing hui fu hua shua	0
+图形恢复字体	tu xing hui fu zi ti	0
+图形设置背景色	tu xing she zhi bei jing se	0
+图形获取背景色	tu xing huo qu bei jing se	0
+图形设置背景模式	tu xing she zhi bei jing mo shi	0
+图形设置前景混色模式	tu xing she zhi qian jing hun se mo shi	0
+图形获取前景混色模式	tu xing huo qu qian jing hun se mo shi	0
+图形设置文本颜色	tu xing she zhi wen ben yan se	0
+文本色	wen ben se	0
+文本色	wen ben shai	0
+图形获取文本颜色	tu xing huo qu wen ben yan se	0
+图形设置画笔	tu xing she zhi hua bi	0
+画笔指针	hua bi zhi zhen	0
+图形获取画笔	tu xing huo qu hua bi	0
+图形获取画笔色	tu xing huo qu hua bi se	0
+图形获取画笔色	tu xing huo qu hua bi shai	0
+图形设置画刷	tu xing she zhi hua shua	0
+画刷指针	hua shua zhi zhen	0
+图形获取画刷	tu xing huo qu hua shua	0
+图形获取画刷色	tu xing huo qu hua shua se	0
+图形获取画刷色	tu xing huo qu hua shua shai	0
+图形设置字体	tu xing she zhi zi ti	0
+字体指针	zi ti zhi zhen	0
+图形获取字体	tu xing huo qu zi ti	0
+图形获取字体属性	tu xing huo qu zi ti shu xing	0
+属性指针	shu xing zhi zhen	0
+图形获取字体名字	tu xing huo qu zi ti ming zi	0
+字体名指针	zi ti ming zhi zhen	0
+图形设置文字参考点	tu xing she zhi wen zi can kao dian	0
+参考点	can kao dian	0
+图形获取文字参考点	tu xing huo qu wen zi can kao dian	0
+图形画点	tu xing hua dian	0
+水平坐标	shui ping zuo biao	0
+垂直坐标	chui zhi zuo biao	0
+颜色	yan se	0
+图形取	tu xing qu	0
+图形设置当前位置	tu xing she zhi dang qian wei zhi	0
+原位置指针	yuan wei zhi zhi zhen	0
+图形获取当前位置	tu xing huo qu dang qian wei zhi	0
+图形画到	tu xing hua dao	0
+图形画线	tu xing hua xian	0
+图形画折线	tu xing hua zhe xian	0
+点数组	dian shu zu	0
+点个数	dian ge shu	0
+点个数	dian ge shuo	0
+使用当前位置	shi yong dang qian wei zhi	0
+图形画多条折线	tu xing hua duo tiao zhe xian	0
+折线点个数数组	zhe xian dian ge shu shu zu	0
+折线数	zhe xian shu	0
+折线数	zhe xian shuo	0
+图形画椭圆弧线	tu xing hua tuo yuan hu xian	0
+矩形外框	ju xing wai kuang	0
+起点指针	qi dian zhi zhen	0
+终点指针	zhong dian zhi zhen	0
+方向	fang xiang	0
+图形画圆弧线	tu xing hua yuan hu xian	0
+水平中心点	shui ping zhong xin dian	0
+垂直中心点	chui zhi zhong xin dian	0
+半径	ban jing	0
+起始角度	qi shi jiao du	0
+终止角度	zhong zhi jiao du	0
+图形画椭圆	tu xing hua tuo yuan	0
+左坐标	zuo zuo biao	0
+上坐标	shang zuo biao	0
+右坐标	you zuo biao	0
+下坐标	xia zuo biao	0
+图形画圆	tu xing hua yuan	0
+图形画方框	tu xing hua fang kuang	0
+图形画贝塞尔曲线	tu xing hua bei sai er qu xian	0
+图形画矩形	tu xing hua ju xing	0
+图形画椭圆形	tu xing hua tuo yuan xing	0
+图形画圆角矩形	tu xing hua yuan jiao ju xing	0
+图形画圆角矩形	tu xing hua yuan jue ju xing	0
+图形画弧形	tu xing hua hu xing	0
+图形画扇形	tu xing hua shan xing	0
+图形画多边形	tu xing hua duo bian xing	0
+图形画多个多边形	tu xing hua duo ge duo bian xing	0
+多边形点个数数组	duo bian xing dian ge shu shu zu	0
+多边形数目	duo bian xing shu mu	0
+四边坐标指针	si bian zuo biao zhi zhen	0
+图形矩形颜色翻转	tu xing ju xing yan se fan zhuan	0
+图形画圆形	tu xing hua yuan xing	0
+图形输出文字	tu xing shu chu wen zi	0
+图形显示文字	tu xing xian shi wen zi	0
+打开文件对话框	da kai wen jian dui hua kuang	0
+文件路径缓冲	wen jian lu jing huan chong	0
+类别索引	lei bie suo yin	0
+初始路径	chu shi lu jing	0
+标题	biao ti	0
+保存文件对话框	bao cun wen jian dui hua kuang	0
+打开文件对话	da kai wen jian dui hua	0
+保存文件对话	bao cun wen jian dui hua	0
+消息框	xiao xi kuang	0
+资源对话框	zi yuan dui hua kuang	0
+窗口证类型	chuang kou zheng lei xing	0
+父窗口	fu chuang kou	0
+对话框资源名	dui hua kuang zi yuan ming	0
+窗口消息处理函数	chuang kou xiao xi chu li han shu	0
+对话框消息处理	dui hua kuang xiao xi chu li	0
+初始化参数	chu shi hua can shu	0
+对话框	dui hua kuang	0
+对话框名	dui hua kuang ming	0
+创建对话框	chuang jian dui hua kuang	0
+关闭对话框	guan bi dui hua kuang	0
+对话框窗口	dui hua kuang chuang kou	0
+缺省窗口消息处理	que sheng chuang kou xiao xi chu li	0
+窗口证件号码	chuang kou zheng jian hao ma	0
+向系统注册窗口类型	xiang xi tong zhu ce chuang kou lei xing	0
+风格	feng ge	0
+菜单名	cai dan ming	0
+光标	guang biao	0
+背景画刷	bei jing hua shua	0
+创建窗口	chuang jian chuang kou	0
+窗口类型名	chuang kou lei xing ming	0
+窗口名字	chuang kou ming zi	0
+本窗口的名字	ben chuang kou de ming zi	0
+窗口风格	chuang kou feng ge	0
+菜单证类型	cai dan zheng lei xing	0
+菜单	cai dan	0
+设置窗口状态	she zhi chuang kou zhuang tai	0
+关闭窗口	guan bi chuang kou	0
+取应用程序证	qu ying yong cheng xu zheng	0
+取显示器窗口证	qu xian shi qi chuang kou zheng	0
+加载资源图标	jia zai zi yuan tu biao	0
+绘图证类型	hui tu zheng lei xing	0
+取系统绘图物体	qu xi tong hui tu wu ti	0
+绘图物体	hui tu wu ti	0
+画刷证类型	hua shua zheng lei xing	0
+创建单色画刷	chuang jian dan se hua shua	0
+删除绘图物体	shan chu hui tu wu ti	0
+执行消息指令	zhi xing xiao xi zhi ling	0
+执行异步消息	zhi xing yi bu xiao xi	0
+执行通知消息	zhi xing tong zhi xiao xi	0
+发送消息	fa song xiao xi	0
+发送线程消息	fa song xian cheng xiao xi	0
+创建按钮	chuang jian an niu	0
+创建检查框	chuang jian jian cha kuang	0
+整数类型水平坐标	zheng shu lei xing shui ping zuo biao	0
+整数类型垂直坐标	zheng shu lei xing chui zhi zuo biao	0
+整数类型宽	zheng shu lei xing kuan	0
+整数类型高	zheng shu lei xing gao	0
+双字类型风格	shuang zi lei xing feng ge	0
+创建单选按钮	chuang jian dan xuan an niu	0
+符串类型名字	fu chuan lei xing ming zi	0
+创建分组框	chuang jian fen zu kuang	0
+创建文本框	chuang jian wen ben kuang	0
+创建编辑框	chuang jian bian ji kuang	0
+创建组合框	chuang jian zu he kuang	0
+字符串类型名字	zi fu chuan lei xing ming zi	0
+创建列表框	chuang jian lie biao kuang	0
+创建滚动条	chuang jian gun dong tiao	0
+创建字处理框	chuang jian zi chu li kuang	0
+窗口证类型父窗口	chuang kou zheng lei xing fu chuang kou	0
+创建图片框	chuang jian tu pian kuang	0
+设备证类型	she bei zheng lei xing	0
+开始绘图	kai shi hui tu	0
+结束绘图	jie shu hui tu	0
+设置窗口参数	she zhi chuang kou can shu	0
+取父窗口	qu fu chuang kou	0
+窗口	chuang kou	0
+加载动态	jia zai dong tai	0
+动态库名	dong tai ku ming	0
+模块证类型	mo kuai zheng lei xing	0
+获取模块证	huo qu mo kuai zheng	0
+模块名	mo kuai ming	0
+释放动态库	shi fang dong tai ku	0
+获取函数地址	huo qu han shu di zhi	0
+资源证类型	zi yuan zheng lei xing	0
+查找资源	cha zhao zi yuan	0
+资源名	zi yuan ming	0
+资源类型	zi yuan lei xing	0
+全局指针类型	quan ju zhi zhen lei xing	0
+加载资源	jia zai zi yuan	0
+资源证	zi yuan zheng	0
+习语言视窗	xi yu yan shi chuang	0
+程序开始运行	cheng xu kai shi yun xing	0
+包含习语言系统接口	bao han xi yu yan xi tong jie kou	0
+包含习语言视窗接口	bao han xi yu yan shi chuang jie kou	0
+主函数	zhu han shu	0
+参数个数	can shu ge shu	0
+图形打开显示	tu xing da kai xian shi	0
+函数	han shu	0

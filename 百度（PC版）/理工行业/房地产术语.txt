@@ -1,0 +1,1397 @@
+# 词库名称: 房地产术语
+# 词库分类: 廉租住房 花园式住宅 公寓式住宅 住宅 成套住宅 非成
+# 词库作者: 我的光辉水月
+# 词库描述: 房地产术语...
+# 词条数量: 1389
+# 解析词数: 1398
+# 解析异常: 9
+
+房改房	fang gai fang	0
+存量房	cun liang fang	0
+集资房	ji zi fang	0
+微利房	wei li fang	0
+解困房	jie kun fang	0
+再上市房	zai shang shi fang	0
+廉租住房	lian zu zhu fang	0
+花园式住宅	hua yuan shi zhu zhai	0
+公寓式住宅	gong yu shi zhu zhai	0
+安居工程住房	an ju gong cheng zhu fang	0
+经济适用住房	jing ji shi yong zhu fang	0
+住宅	zhu zhai	0
+成套住宅	cheng tao zhu zhai	0
+非成套住宅	fei cheng tao zhu zhai	0
+公用设施用房	gong yong she shi yong fang	0
+商业用房	shang ye yong fang	0
+国有房产	guo you fang chan	0
+自管房产	zi guan fang chan	0
+集体所有房产	ji ti suo you fang chan	0
+私有房产	si you fang chan	0
+自有房产	zi you fang chan	0
+期房	qi fang	0
+有限产权房	you xian chan quan fang	0
+钢结构	gang jie gou	0
+钢筋混凝土结构	gang jin hun ning tu jie gou	0
+混合结构	hun he jie gou	0
+砖木结构	zhuan mu jie gou	0
+房屋层数	fang wu ceng shu	0
+地下室	di xia shi	0
+半地下室	ban di xia shi	0
+假层	jia ceng	0
+暗楼	an lou	0
+低层住宅	di ceng zhu zhai	0
+多层住宅	duo ceng zhu zhai	0
+小高层住宅	xiao gao ceng zhu zhai	0
+高层住宅	gao ceng zhu zhai	0
+塔式高层住宅	ta shi gao ceng zhu zhai	0
+单元式高层住宅	dan yuan shi gao ceng zhu zhai	0
+通廊式高层住宅	tong lang shi gao ceng zhu zhai	0
+住宅使用面积	zhu zhai shi yong mian ji	0
+房屋使用面积	fang wu shi yong mian ji	0
+成套住宅建筑面积	cheng tao zhu zhai jian zhu mian ji	0
+产权面积	chan quan mian ji	0
+房屋预测面积	fang wu yu ce mian ji	0
+房屋实测面积	fang wu shi ce mian ji	0
+共有建筑面积	gong you jian zhu mian ji	0
+销售面积	xiao shou mian ji	0
+房屋施工面积	fang wu shi gong mian ji	0
+房屋新开工面积	fang wu xin kai gong mian ji	0
+房屋竣工面积	fang wu jun gong mian ji	0
+楼花	lou hua	0
+实际销售面积	shi ji xiao shou mian ji	0
+预售面积	yu shou mian ji	0
+单元式住宅	dan yuan shi zhu zhai	0
+现房	xian fang	0
+起价	qi jia	0
+均价	jun jia	0
+复式商品房	fu shi shang pin fang	0
+跃层式商品房	yue ceng shi shang pin fang	0
+水景商品房	shui jing shang pin fang	0
+联排别墅	lian pai bie shu	0
+城区住宅	cheng qu zhu zhai	0
+灰空间	hui kong jian	0
+商住住宅	shang zhu zhu zhai	0
+会所	hui suo	0
+外飘窗	wai piao chuang	0
+中空玻璃	zhong kong bo li	0
+基价	ji jia	0
+七通一平	qi tong yi ping	0
+三通一平	san tong yi ping	0
+五证	wu zheng	0
+酒店式服务公寓	jiu dian shi fu wu gong yu	0
+智能家居布线系统	zhi neng jia ju bu xian xi tong	0
+房地产契税	fang di chan qi shui	0
+营业税	ying ye shui	0
+房产税	fang chan shui	0
+营业税附加	ying ye shui fu jia	0
+个人所得税	ge ren suo de shui	0
+纳税保证金	na shui bao zheng jin	0
+房地产交易手续费	fang di chan jiao yi shou xu fei	0
+房屋权属登记费	fang wu quan shu deng ji fei	0
+土地收益金	tu di shou yi jin	0
+土地增值费	tu di zeng zhi fei	0
+土地出让金	tu di chu rang jin	0
+土地增值税	tu di zeng zhi shui	0
+土地使用税	tu di shi yong shui	0
+土地开发费	tu di kai fa fei	0
+住宅单方综合造价	zhu zhai dan fang zong he zao jia	0
+房屋权属登记	fang wu quan shu deng ji	0
+总登记	zong deng ji	0
+初始登记	chu shi deng ji	0
+转移登记	zhuan yi deng ji	0
+变更登记	bian geng deng ji	0
+他项权利登记	ta xiang quan li deng ji	0
+注销登记	zhu xiao deng ji	0
+房屋的所有权	fang wu de suo you quan	0
+房屋的所有权	fang wu di suo you quan	0
+房屋权利人	fang wu quan li ren	0
+房屋权利申请人	fang wu quan li shen qing ren	0
+房屋权属证书	fang wu quan shu zheng shu	0
+所有权证	suo you quan zheng	0
+共有权证	gong you quan zheng	0
+他项权证	ta xiang quan zheng	0
+宅基地证	zhai ji di zheng	0
+房屋部分产权	fang wu bu fen chan quan	0
+强制拆迁	qiang zhi chai qian	0
+拆迁	chai qian	0
+拆迁人	chai qian ren	0
+被拆迁人	bei chai qian ren	0
+被拆迁人	pi chai qian ren	0
+房屋拆迁补偿	fang wu chai qian bu chang	0
+货币补偿基准价	huo bi bu chang ji zhun jia	0
+房产折旧	fang chan zhe jiu	0
+房屋耐用年限	fang wu nai yong nian xian	0
+房屋修缮	fang wu xiu shan	0
+保修期	bao xiu qi	0
+共用设施设备	gong yong she shi she bei	0
+商品房维修基金	shang pin fang wei xiu ji jin	0
+公共维修基金额	gong gong wei xiu ji jin e	0
+维修基金	wei xiu ji jin	0
+居住空间	ju zhu kong jian	0
+卧室	wo shi	0
+起居室	qi ju shi	0
+起居厅	qi ju ting	0
+厨房	chu fang	0
+卫生间	wei sheng jian	0
+使用面积	shi yong mian ji	0
+套型	tao xing	0
+层高	ceng gao	0
+室内净高	shi nei jing gao	0
+住宅开间	zhu zhai kai jian	0
+住宅进深	zhu zhai jin shen	0
+平台	ping tai	0
+露台	lu tai	0
+过道	guo dao	0
+壁橱	bi chu	0
+壁龛	bi kan	0
+吊柜	diao gui	0
+走廊	zou lang	0
+架空房屋	jia kong fang wu	0
+阁楼	ge lou	0
+骑楼	qi lou	0
+单元式房屋	dan yuan shi fang wu	0
+柱廊	zhu lang	0
+檐廊	yan lang	0
+挑廊	tiao lang	0
+通廊	tong lang	0
+门廊	men lang	0
+阳台	yang tai	0
+封闭阳台	feng bi yang tai	0
+非封闭阳台	fei feng bi yang tai	0
+凹阳台	ao yang tai	0
+凹阳台	wa yang tai	0
+凸阳台	tu yang tai	0
+底阳台	di yang tai	0
+底阳台	de yang tai	0
+挑阳台	tiao yang tai	0
+房屋总层数	fang wu zong ceng shu	0
+房屋地上层数	fang wu di shang ceng shu	0
+房屋地下层数	fang wu di xia ceng shu	0
+自然层	zi ran ceng	0
+技术层	ji shu ceng	0
+附属层	fu shu ceng	0
+夹层	jia ceng	0
+避难层	bi nan ceng	0
+自然层数	zi ran ceng shu	0
+中间层	zhong jian ceng	0
+标准层	biao zhun ceng	0
+结构转换层	jie gou zhuan huan ceng	0
+设备转换层	she bei zhuan huan ceng	0
+建筑容积率	jian zhu rong ji lv	0
+建筑面积毛密度	jian zhu mian ji mao mi du	0
+建筑密度	jian zhu mi du	0
+绿化率	lv hua lv	0
+户型比	hu xing bi	0
+面积误差比	mian ji wu cha bi	0
+住宅平均层数	zhu zhai ping jun ceng shu	0
+高层住宅比例	gao ceng zhu zhai bi li	0
+小高层住宅比例	xiao gao ceng zhu zhai bi li	0
+居住区用地	ju zhu qu yong di	0
+住宅用地	zhu zhai yong di	0
+公用建筑面积分摊系数	gong yong jian zhu mian ji fen tan xi shu	0
+道路用地	dao lu yong di	0
+居住区级道路	ju zhu qu ji dao lu	0
+居住区道路	ju zhu qu dao lu	0
+小区级路	xiao qu ji lu	0
+小区路	xiao qu lu	0
+组团级路	zu tuan ji lu	0
+组团路	zu tuan lu	0
+宅间小路	zhai jian xiao lu	0
+公共绿地	gong gong lv di	0
+配建设施	pei jian she shi	0
+其它用地	qi ta yong di	0
+道路红线	dao lu hong xian	0
+公共服务设施用地	gong gong fu wu she shi yong di	0
+市政公用设施用地	shi zheng gong yong she shi yong di	0
+楼宇按揭	lou yu an jie	0
+银行按揭	yin hang an jie	0
+智能化大厦	zhi neng hua da sha	0
+物业管理	wu ye guan li	0
+物业管理服务费	wu ye guan li fu wu fei	0
+公用建筑面积	gong yong jian zhu mian ji	0
+房屋的建筑面积	fang wu de jian zhu mian ji	0
+土地使用年期	tu di shi yong nian qi	0
+双景住宅	shuang jing zhu zhai	0
+双景住宅	shuang ying zhu zhai	0
+标准绿色住宅	biao zhun lv se zhu zhai	0
+中水处理	zhong shui chu li	0
+住宅的进深	zhu zhai de jin shen	0
+住宅的进深	zhu zhai di jin shen	0
+住宅的开间	zhu zhai de kai jian	0
+住宅的开间	zhu zhai di kai jian	0
+格式条款	ge shi tiao kuan	0
+内部认购	nei bu ren gou	0
+酒店式公寓	jiu dian shi gong yu	0
+顶层楼	ding ceng lou	0
+板式小高层	ban shi xiao gao ceng	0
+国家康居示范工程	guo jia kang ju shi fan gong cheng	0
+业主委员会	ye zhu wei yuan hui	0
+产权证书	chan quan zheng shu	0
+使用权房	shi yong quan fang	0
+公房	gong fang	0
+不可售公房	bu ke shou gong fang	0
+已购公房	yi gou gong fang	0
+单位产权房	dan wei chan quan fang	0
+廉租房	lian zu fang	0
+私房	si fang	0
+准现房	zhun xian fang	0
+共同共有房产	gong tong gong you fang chan	0
+共有房产	gong you fang chan	0
+尾房	wei fang	0
+烂尾房	lan wei fang	0
+城市居住区	cheng shi ju zhu qu	0
+居住小区	ju zhu xiao qu	0
+居住组团	ju zhu zu tuan	0
+公共活动中心	gong gong huo dong zhong xin	0
+房屋产权	fang wu chan quan	0
+建筑小品	jian zhu xiao pin	0
+预售价	yu shou jia	0
+预售价	yu shou jie	0
+一次性买断价	yi ci xing mai duan jia	0
+一次性买断价	yi ci xing mai duan jie	0
+定金	ding jin	0
+违约金	wei yue jin	0
+公用面积	gong yong mian ji	0
+实用面积	shi yong mian ji	0
+计租面积	ji zu mian ji	0
+得房率	de fang lv	0
+开间	kai jian	0
+进深	jin shen	0
+套内面积	tao nei mian ji	0
+公摊面积	gong tan mian ji	0
+竣工面积	jun gong mian ji	0
+辅助面积	fu zhu mian ji	0
+绿地率	lv di lv	0
+净高	jing gao	0
+实用率	shi yong lv	0
+实用率	shi yong shuai	0
+其他用地	qi ta yong di	0
+建筑线	jian zhu xian	0
+玄关	xuan guan	0
+隔断	ge duan	0
+房地产	fang di chan	0
+建造商	jian zao shang	0
+发展商代理商	fa zhan shang dai li shang	0
+征用价	zheng yong jia	0
+征用价	zheng yong jie	0
+出让价	chu rang jia	0
+出让价	chu rang jie	0
+转让价	zhuan rang jia	0
+转让价	zhuan rang jie	0
+出租价	chu zu jia	0
+出租价	chu zu jie	0
+入股价	ru gu jia	0
+入股价	ru gu jie	0
+评估价	ping gu jia	0
+征税价	zheng shui jia	0
+征税价	zheng shui jie	0
+清产核资价	qing chan he zi jia	0
+清产核资价	qing chan he zi jie	0
+补交价	bu jiao jia	0
+补交价	bu jiao jie	0
+确认价	que ren jia	0
+确认价	que ren jie	0
+基准地价	ji zhun di jia	0
+标定地价	biao ding di jia	0
+货币分房	huo bi fen fang	0
+小康型住宅	xiao kang xing zhu zhai	0
+一次性付款	yi ci xing fu kuan	0
+宗地图	zong di tu	0
+结构面积	jie gou mian ji	0
+房地产抵押贷款	fang di chan di ya dai kuan	0
+房地产交易	fang di chan jiao yi	0
+房地产保险	fang di chan bao xian	0
+房屋所有权	fang wu suo you quan	0
+购房面积	gou fang mian ji	0
+安居房	an ju fang	0
+宗地	zong di	0
+抵押贷款方式	di ya dai kuan fang shi	0
+质押贷款方式	zhi ya dai kuan fang shi	0
+保证贷款方式	bao zheng dai kuan fang shi	0
+建筑面积	jian zhu mian ji	0
+容积率	rong ji lv	0
+剪力墙结构	jian li qiang jie gou	0
+环保小区	huan bao xiao qu	0
+经济适用房	jing ji shi yong fang	0
+公寓	gong yu	0
+二书	er shu	0
+搜房	sou fang	0
+全国房价	quan guo fang jia	0
+连涨	lian zhang	0
+中房协	zhong fang xie	0
+信贷政策	xin dai zheng ce	0
+易涨难跌	yi zhang nan die	0
+易涨难跌	yi zhang nuo die	0
+触顶	chu ding	0
+征兆	zheng zhao	0
+地块	di kuai	0
+老潘	lao pan	0
+竞标	jing biao	0
+中服地块	zhong fu di kuai	0
+开盘数	kai pan shu	0
+开盘数	kai pan shuo	0
+房价涨幅	fang jia zhang fu	0
+世联	shi lian	0
+上市房企	shang shi fang qi	0
+开工速度	kai gong su du	0
+地价房价比	di jia fang jia bi	0
+地王	di wang	0
+未动工	wei dong gong	0
+公租房	gong zu fang	0
+保障房	bao zhang fang	0
+居民消费价格指数	ju min xiao fei jia ge zhi shu	0
+同比下降	tong bi xia jiang	0
+楼市	lou shi	0
+成交面积	cheng jiao mian ji	0
+环比下跌	huan bi xia die	0
+跌幅最大	die fu zui da	0
+前七个月	qian qi ge yue	0
+开发投资	kai fa tou zi	0
+同比增长	tong bi zeng zhang	0
+最新数据	zui xin shu ju	0
+不确定因素	bu que ding yin su	0
+住房的	zhu fang de	0
+住房的	zhu fang di	0
+金融属性	jin rong shu xing	0
+投资属性	tou zi shu xing	0
+不动产	bu dong chan	0
+橡树湾	xiang shu wan	0
+首城	shou cheng	0
+海棠湾	hai tang wan	0
+住宅绿皮书	zhu zhai lv pi shu	0
+国家统计局	guo jia tong ji ju	0
+全国商品房销售面积	quan guo shang pin fang xiao shou mian ji	0
+万平方米	wan ping fang mi	0
+商品住宅销售面积	shang pin zhu zhai xiao shou mian ji	0
+商品房销售额	shang pin fang xiao shou e	0
+商品住宅销售额	shang pin zhu zhai xiao shou e	0
+房地产开发投资	fang di chan kai fa tou zi	0
+的增速	de zeng su	0
+的增速	di zeng su	0
+个百分点	ge bai fen dian	0
+去年同期	qu nian tong qi	0
+商品住宅	shang pin zhu zhai	0
+完成投资	wan cheng tou zi	0
+比去年同期	bi qu nian tong qi	0
+全国房地产开发企业	quan guo fang di chan kai fa qi ye	0
+完成土地购置面积	wan cheng tu di gou zhi mian ji	0
+完成土地开发面积	wan cheng tu di kai fa mian ji	0
+国房景气指数	guo fang jing qi zhi shu	0
+分类指数	fen lei zhi shu	0
+本年资金来源分类指数	ben nian zi jin lai yuan fen lei zhi shu	0
+土地开发面积分类指数	tu di kai fa mian ji fen lei zhi shu	0
+房屋施工面积分类指数	fang wu shi gong mian ji fen lei zhi shu	0
+部分主要城市	bu fen zhu yao cheng shi	0
+商品住宅成交量	shang pin zhu zhai cheng jiao liang	0
+出现回落	chu xian hui luo	0
+的局面	de ju mian	0
+的局面	di ju mian	0
+第一周	di yi zhou	0
+北京期房	bei jing qi fang	0
+现房住宅	xian fang zhu zhai	0
+佑威楼市通系统	you wei lou shi tong xi tong	0
+监测数据	jian ce shu ju	0
+上海商品住宅成交面积	shang hai shang pin zhu zhai cheng jiao mian ji	0
+减少了	jian shao le	0
+成交均价	cheng jiao jun jia	0
+环比上涨了	huan bi shang zhang le	0
+一手住宅	yi shou zhu zhai	0
+期房加现房	qi fang jia xian fang	0
+总体成交	zong ti cheng jiao	0
+环比增长	huan bi zeng zhang	0
+环比下滑	huan bi xia hua	0
+期房住宅成交	qi fang zhu zhai cheng jiao	0
+现房住宅成交	xian fang zhu zhai cheng jiao	0
+佑威房地产研究中心	you wei fang di chan yan jiu zhong xin	0
+陆骑麟	lu qi lin	0
+陆骑麟	liu qi lin	0
+明显的萎缩	ming xian de wei suo	0
+上周的	shang zhou de	0
+上周的	shang zhou di	0
+今年以来的	jin nian yi lai de	0
+今年以来的	jin nian yi lai di	0
+周平均成交量	zhou ping jun cheng jiao liang	0
+周平均成交量	zhou ping yun cheng jiao liang	0
+高房价	gao fang jia	0
+刚性需求	gang xing xu qiu	0
+地方政府	di fang zheng fu	0
+开发商	kai fa shang	0
+项目入市步伐	xiang mu ru shi bu fa	0
+以平衡	yi ping heng	0
+楼市供需	lou shi gong xu	0
+改善楼市预期	gai shan lou shi yu qi	0
+京沪楼市	jing hu lou shi	0
+供应量	gong ying liang	0
+出现回升	chu xian hui sheng	0
+商品住宅新增供应面积	shang pin zhu zhai xin zeng gong ying mian ji	0
+环比增加	huan bi zeng jia	0
+北京上周	bei jing shang zhou	0
+个项目	ge xiang mu	0
+预售许可证	yu shou xu ke zheng	0
+比前周	bi qian zhou	0
+有所增加	you suo zeng jia	0
+获批项目	huo pi xiang mu	0
+焦点房地产网	jiao dian fang di chan wang	0
+网络媒体	wang luo mei ti	0
+房地产新闻资讯	fang di chan xin wen zi xun	0
+所有楼盘的	suo you lou pan de	0
+所有楼盘的	suo you lou pan di	0
+详细信息	xiang xi xin xi	0
+房地产媒体	fang di chan mei ti	0
+房地产信息库	fang di chan xin xi ku	0
+新地产	xin di chan	0
+中国地产	zhong guo di chan	0
+地产杂志	di chan za zhi	0
+地产专业机构	di chan zhuan ye ji gou	0
+地产媒体	di chan mei ti	0
+地产政策	di chan zheng ce	0
+房地产门户	fang di chan men hu	0
+搜房房地产网	sou fang fang di chan wang	0
+大中华区	da zhong hua qu	0
+房地产专业网站	fang di chan zhuan ye wang zhan	0
+最全面	zui quan mian	0
+最及时	zui ji shi	0
+房地产新闻	fang di chan xin wen	0
+所有楼盘	suo you lou pan	0
+业主论坛	ye zhu lun tan	0
+社区网站	she qu wang zhan	0
+专业网站	zhuan ye wang zhan	0
+中国房地产信息网	zhong guo fang di chan xin xi wang	0
+国家信息中心	guo jia xin xi zhong xin	0
+主办的	zhu ban de	0
+主办的	zhu ban di	0
+专业性	zhuan ye xing	0
+房地产信息网站	fang di chan xin xi wang zhan	0
+主要面向	zhu yao mian xiang	0
+行政管理机构	xing zheng guan li ji gou	0
+银行信贷部门	yin hang xin dai bu men	0
+房地产评估公司	fang di chan ping gu gong si	0
+土地评估机构	tu di ping gu ji gou	0
+房地产开发企业	fang di chan kai fa qi ye	0
+相关企业	xiang guan qi ye	0
+信息服务	xin xi fu wu	0
+招商地产	zhao shang di chan	0
+涨幅达到	zhang fu da dao	0
+地产股	di chan gu	0
+的上涨	de shang zhang	0
+的上涨	di shang zhang	0
+地产板块	di chan ban kuai	0
+房地产板块	fang di chan ban kuai	0
+万科	wan ke	0
+成交量	cheng jiao liang	0
+大资金	da zi jin	0
+房地产行业	fang di chan hang ye	0
+调控政策	tiao kong zheng ce	0
+积极变化	ji ji bian hua	0
+房地产信托	fang di chan xin tuo	0
+平均回报率	ping jun hui bao lv	0
+融资渠道	rong zi qu dao	0
+楼市火爆	lou shi huo bao	0
+房地产信托产品	fang di chan xin tuo chan pin	0
+预期回报	yu qi hui bao	0
+易居研究院	yi ju yan jiu yuan	0
+发布的	fa bu de	0
+发布的	fa bu di	0
+房地产金融研究报告	fang di chan jin rong yan jiu bao gao	0
+今年上半年	jin nian shang ban nian	0
+平均达到	ping jun da dao	0
+房企	fang qi	0
+资金压力	zi jin ya li	0
+明显减弱	ming xian jian ruo	0
+博鳌房地产论坛	bo ao fang di chan lun tan	0
+地产巨头们	di chan ju tou men	0
+房地产业	fang di chan ye	0
+未来走势	wei lai zou shi	0
+的判断	de pan duan	0
+的判断	di pan duan	0
+集体乐观	ji ti le guan	0
+地产巨头	di chan ju tou	0
+普遍认为	pu bian ren wei	0
+产业结构	chan ye jie gou	0
+深层调整	shen ceng tiao zheng	0
+中国经济	zhong guo jing ji	0
+地产业	di chan ye	0
+依赖程度	yi lai cheng du	0
+逐步降低	zhu bu jiang di	0
+未来三年	wei lai san nian	0
+房地产市场	fang di chan shi chang	0
+一线城市	yi xian cheng shi	0
+住房成交量	zhu fang cheng jiao liang	0
+明显下滑	ming xian xia hua	0
+房价	fang jia	0
+不断上涨	bu duan shang zhang	0
+部委	bu wei	0
+加强监管	jia qiang jian guan	0
+的信号	de xin hao	0
+更严厉的	geng yan li de	0
+更严厉的	geng yan li di	0
+政策约束	zheng ce yue shu	0
+中国董事长	zhong guo dong shi zhang	0
+潘石屹	pan shi yi	0
+中国房地产协会	zhong guo fang di chan xie hui	0
+副会长兼秘书长	fu hui zhang jian mi shu zhang	0
+朱中一	zhu zhong yi	0
+朱中一	shu zhong yi	0
+稳定发展	wen ding fa zhan	0
+持续上涨	chi xu shang zhang	0
+的市场	de shi chang	0
+的市场	di shi chang	0
+政策敏感性	zheng ce min gan xing	0
+过快上涨	guo kuai shang zhang	0
+地价过快	di jia guo kuai	0
+的房价	de fang jia	0
+的房价	di fang jia	0
+已经接近	yi jing jie jin	0
+或者超过	huo zhe chao guo	0
+月份水平	yue fen shui ping	0
+从需求来看	cong xu qiu lai kan	0
+从需求来看	zong xu qiu lai kan	0
+价格上涨	jia ge shang zhang	0
+继续维持	ji xu wei chi	0
+可持续性	ke chi xu xing	0
+行业发展	hang ye fa zhan	0
+不利影响	bu li ying xiang	0
+近期政策	jin qi zheng ce	0
+比较乐观	bi jiao le guan	0
+中原集团	zhong yuan ji tuan	0
+施永青	shi yong qing	0
+中央政府	zhong yang zheng fu	0
+收太紧	shou tai jin	0
+投资增长	tou zi zeng zhang	0
+有信心	you xin xin	0
+小调整	xiao diao zheng	0
+想拿地	xiang na di	0
+想拿地	xiang na de	0
+有些地	you xie di	0
+有些地	you xie de	0
+政府的	zheng fu de	0
+经济刺激	jing ji ci ji	0
+优惠政策	you hui zheng ce	0
+房地产市场的	fang di chan shi chang de	0
+房地产市场的	fang di chan shi chang di	0
+超预期反弹	chao yu qi fan tan	0
+开发企业	kai fa qi ye	0
+香港的	xiang gang de	0
+香港的	xiang gang di	0
+著名经济学家	zhu ming jing ji xue jia	0
+货币政策委员会	huo bi zheng ce wei yuan hui	0
+樊纲	fan gang	0
+可持续的	ke chi xu de	0
+可持续的	ke chi xu di	0
+投资增幅	tou zi zeng fu	0
+已经由	yi jing you	0
+年初的	nian chu de	0
+年初的	nian chu di	0
+增至	zeng zhi	0
+目前的	mu qian de	0
+房地产投资	fang di chan tou zi	0
+一个百分点	yi ge bai fen dian	0
+市场上	shi chang shang	0
+单边增长	dan bian zeng zhang	0
+过多流动性	guo duo liu dong xing	0
+实体经济	shi ti jing ji	0
+刺激政策	ci ji zheng ce	0
+个月的	ge yue de	0
+个月的	ge yue di	0
+过渡期	guo du qi	0
+出台的	chu tai de	0
+出台的	chu tai di	0
+强力刺激	qiang li ci ji	0
+经济调整	jing ji tiao zheng	0
+下半年的	xia ban nian de	0
+下半年的	xia ban nian di	0
+楼市走势	lou shi zou shi	0
+稳步增长	wen bu zeng zhang	0
+部分城市	bu fen cheng shi	0
+房价上涨	fang jia shang zhang	0
+压力增大	ya li zeng da	0
+震荡调整	zhen dang tiao zheng	0
+在政策方面	zai zheng ce fang mian	0
+小幅微调	xiao fu wei tiao	0
+已经成为	yi jing cheng wei	0
+业内共识	ye nei gong shi	0
+三年期	san nian qi	0
+三年期	san nian ji	0
+中坤投资集团	zhong kun tou zi ji tuan	0
+黄怒波	huang nu bo	0
+房地产政策	fang di chan zheng ce	0
+大的调整	da de tiao zheng	0
+国企背景	guo qi bei jing	0
+的企业	de qi ye	0
+的企业	di qi ye	0
+大量拿地	da liang na di	0
+大量拿地	da liang na de	0
+全部拿地量	quan bu na di liang	0
+的国企	de guo qi	0
+的国企	di guo qi	0
+在做房地产	zai zuo fang di chan	0
+市场公平因素	shi chang gong ping yin su	0
+担心的	dan xin de	0
+房地产的	fang di chan de	0
+房地产的	fang di chan di	0
+开发经验	kai fa jing yan	0
+拿地	na di	0
+拿地	na de	0
+成本过高	cheng ben guo gao	0
+这些地块	zhe xie di kuai	0
+的产品	de chan pin	0
+的产品	di chan pin	0
+推后入市	tui hou ru shi	0
+产权置换	chan quan zhi huan	0
+房地产产权	fang di chan chan quan	0
+按揭	an jie	0
+住房公积金	zhu fang gong ji jin	0
+印花税	yin hua shui	0
+契税	qi shui	0
+个人住房抵押贷款	ge ren zhu fang di ya dai kuan	0
+个人住房担保贷款	ge ren zhu fang dan bao dai kuan	0
+房屋	fang wu	0
+价高质不高	jia gao zhi bu gao	0
+会带动	hui dai dong	0
+整个市场	zheng ge shi chang	0
+政策调整	zheng ce tiao zheng	0
+保利地产	bao li di chan	0
+保利房地产	bao li fang di chan	0
+股份有限公司	gu fen you xian gong si	0
+中国保利集团	zhong guo bao li ji tuan	0
+控股的	kong gu de	0
+控股的	kong gu di	0
+大型国有房地产企业	da xing guo you fang di chan qi ye	0
+房地产业务	fang di chan ye wu	0
+运作平台	yun zuo ping tai	0
+公司股票	gong si gu piao	0
+上海证券交易所	shang hai zheng quan jiao yi suo	0
+挂牌上市	gua pai shang shi	0
+股权分置改革	gu quan fen zhi gai ge	0
+首批上市的	shou pi shang shi de	0
+首批上市的	shou pi shang shi di	0
+写字楼官网	xie zi lou guan wang	0
+在线销售	zai xian xiao shou	0
+三里屯	san li tun	0
+北京朝阳区	bei jing chao yang qu	0
+北京朝阳区	bei jing chao yang ou	0
+工体北路	gong ti bei lu	0
+国际使馆区	guo ji shi guan qu	0
+三里屯酒吧街	san li tun jiu ba jie	0
+出租服务	chu zu fu wu	0
+销售顾问	xiao shou gu wen	0
+在线服务	zai xian fu wu	0
+朝外	chao wai	0
+写字楼	xie zi lou	0
+官方网站	guan fang wang zhan	0
+火热出租	huo re chu zu	0
+超值租金	chao zhi zu jin	0
+平米写字楼	ping mi xie zi lou	0
+热租	re zu	0
+紧临	jin lin	0
+朝外商圈	chao wai shang quan	0
+黄金地带	huang jin di dai	0
+休闲氛围	xiu xian fen wei	0
+娱乐休闲	yu le xiu xian	0
+配套设施	pei tao she shi	0
+香港上市公司	xiang gang shang shi gong si	0
+奥园	ao yuan	0
+奥园	yu yuan	0
+前任副总裁	qian ren fu zong cai	0
+张维伦	zhang wei lun	0
+闲置土地	xian zhi tu di	0
+不开发	bu kai fa	0
+的做法	de zuo fa	0
+损失的	sun shi de	0
+损失的	sun shi di	0
+地价款	di jia kuan	0
+的利息	de li xi	0
+的利息	di li xi	0
+退地	tui di	0
+退地	tui de	0
+竞买资金	jing mai zi jin	0
+地价首付款	di jia shou fu kuan	0
+根据合约	gen ju he yue	0
+开发商们	kai fa shang men	0
+足额的	zu e de	0
+足额的	zu e di	0
+未开发土地	wei kai fa tu di	0
+总价最高	zong jia zui gao	0
+广州开发区	guang zhou kai fa qu	0
+某地块	mou di kuai	0
+这块地	zhe kuai di	0
+这块地	zhe kuai de	0
+拍出了	pai chu le	0
+拍出了	pai chu liao	0
+的天价	de tian jia	0
+的天价	di tian jia	0
+开发商的	kai fa shang de	0
+开发商的	kai fa shang di	0
+整个地价	zheng ge di jia	0
+总面积	zong mian ji	0
+住宅用地总出让量	zhu zhai yong di zong chu rang liang	0
+这些土地	zhe xie tu di	0
+的闲置	de xian zhi	0
+的闲置	di xian zhi	0
+土地市场	tu di shi chang	0
+调控楼市	tiao kong lou shi	0
+宏调计划	hong diao ji hua	0
+宏调计划	hong tiao ji hua	0
+楼市转暖	lou shi zhuan nuan	0
+商品房短缺	shang pin fang duan que	0
+拉升了	la sheng le	0
+拉升了	la sheng liao	0
+不稳定性	bu wen ding xing	0
+土地价格	tu di jia ge	0
+又涨了	you zhang le	0
+再涨	zai zhang	0
+持币待购	chi bi dai gou	0
+合富辉煌	he fu hui huang	0
+合富辉煌	ge fu hui huang	0
+首席分析师	shou xi fen xi shi	0
+政府有关部门	zheng fu you guan bu men	0
+应该采取	ying gai cai qu	0
+有效措施	you xiao cuo shi	0
+的开工	de kai gong	0
+的开工	di kai gong	0
+有特殊原因	you te shu yuan yin	0
+不能开工的	bu neng kai gong de	0
+不能开工的	bu neng kai gong di	0
+应退地	ying tui di	0
+应退地	ying tui de	0
+重新拍卖	chong xin pai mai	0
+避免影响	bi mian ying xiang	0
+供应计划	gong ying ji hua	0
+改容积率	gai rong ji lv	0
+必须提高	bi xu ti gao	0
+退地的成本	tui di de cheng ben	0
+退地的成本	tui de de cheng ben	0
+退地的成本	tui di di cheng ben	0
+退地的成本	tui de di cheng ben	0
+土地出让制度	tu di chu rang zhi du	0
+应设定	ying she ding	0
+利益相关人	li yi xiang guan ren	0
+限制条件	xian zhi tiao jian	0
+有些开发商	you xie kai fa shang	0
+在建楼盘	zai jian lou pan	0
+的价格	de jia ge	0
+从而引发	cong er yin fa	0
+楼市泡沫	lou shi pao mo	0
+满堂红地产	man tang hong di chan	0
+研究部	yan jiu bu	0
+的开发	de kai fa	0
+的开发	di kai fa	0
+全程监管	quan cheng jian guan	0
+及时公开	ji shi gong kai	0
+的信息	de xin xi	0
+社会大众	she hui da zhong	0
+已经缴纳	yi jing jiao na	0
+应对机制	ying dui ji zhi	0
+更便宜价格	geng pian yi jia ge	0
+拿到土地	na dao tu di	0
+闲置不开发	xian zhi bu kai fa	0
+的开发商	de kai fa shang	0
+的开发商	di kai fa shang	0
+给予处罚	ji yu chu fa	0
+国土房管局	guo tu fang guan ju	0
+黄文波	huang wen bo	0
+高价地	gao jia di	0
+高价地	gao jia de	0
+未履行	wei lv xing	0
+拍卖公告	pai mai gong gao	0
+土地出让合同规定	tu di chu rang he tong gui ding	0
+广州市国土房管局	guang zhou shi guo tu fang guan ju	0
+已经对此	yi jing dui ci	0
+形成了意见	xing cheng le yi jian	0
+已经上报	yi jing shang bao	0
+市政府	shi zheng fu	0
+土地市场规则	tu di shi chang gui ze	0
+的行为	de xing wei	0
+的行为	di xing wei	0
+作出处罚	zuo chu chu fa	0
+国土房管局副局长	guo tu fang guan ju fu ju zhang	0
+房地产闲置土地	fang di chan xian zhi tu di	0
+囤地捂盘	tun di wu pan	0
+等行为	deng xing wei	0
+依法坚决打击	yi fa jian jue da ji	0
+绝不允许	jue bu yun xu	0
+法外姑息	fa wai gu xi	0
+暗箱操作	an xiang cao zuo	0
+涉嫌构成	she xian gou cheng	0
+的土地	de tu di	0
+的土地	di tu di	0
+应查尽查	ying cha jin cha	0
+应查尽查	ying cha jin zha	0
+应收尽收	ying shou jin shou	0
+的原则	de yuan ze	0
+调查和处置	diao cha he chu zhi	0
+调查和处置	diao cha hu chu zhi	0
+调查和处置	diao cha huo chu zhi	0
+法定收地条件	fa ding shou di tiao jian	0
+坚决收回	jian jue shou hui	0
+进一步严格	jin yi bu yan ge	0
+违约责任	wei yue ze ren	0
+竞得人	jing de ren	0
+土地出让后	tu di chu rang hou	0
+缴纳定金	jiao na ding jin	0
+成交价款的	cheng jiao jia kuan de	0
+成交价款的	cheng jiao jia kuan di	0
+受让方	shou rang fang	0
+违约的	wei yue de	0
+违约的	wei yue di	0
+定金罚则	ding jin fa ze	0
+没收定金	mo shou ding jin	0
+可要求	ke yao qiu	0
+受让人	shou rang ren	0
+赔偿损失	pei chang sun shi	0
+拍的	pai de	0
+违约被罚	wei yue bei fa	0
+累计收回	lei ji shou hui	0
+居住类闲置土地	ju zhu lei xian zhi tu di	0
+处置闲置土地	chu zhi xian zhi tu di	0
+收回闲置土地	shou hui xian zhi tu di	0
+的城市	de cheng shi	0
+的城市	di cheng shi	0
+买房的人	mai fang de ren	0
+卖房的人	mai fang de ren	0
+销售量	xiao shou liang	0
+一路走高	yi lu zou gao	0
+要回调	yao hui diao	0
+要回调	yao hui tiao	0
+买房	mai fang	0
+最佳投资	zui jia tou zi	0
+只涨不跌	zhi zhang bu die	0
+只涨不跌	zhi zhang fou die	0
+土地是	tu di shi	0
+稀缺的	xi que de	0
+稀缺的	xi que di	0
+中国房地产	zhong guo fang di chan	0
+黄金增长时期	huang jin zeng zhang shi qi	0
+投资策略	tou zi ce lue	0
+继续上涨	ji xu shang zhang	0
+投资品	tou zi pin	0
+有周期的	you zhou qi de	0
+有周期的	you zhou qi di	0
+的周期	de zhou qi	0
+的周期	di zhou qi	0
+的经验	de jing yan	0
+心理因素	xin li yin su	0
+时间跨度	shi jian kua du	0
+房价数据	fang jia shu ju	0
+房屋价格指数	fang wu jia ge zhi shu	0
+非理性繁荣	fei li xing fan rong	0
+研制了	yan zhi le	0
+研制了	yan zhi liao	0
+美国房地产	mei guo fang di chan	0
+长期价格指数	chang qi jia ge zhi shu	0
+房价变动趋势	fang jia bian dong qu shi	0
+房价长期变动趋势	fang jia chang qi bian dong qu shi	0
+研究结果	yan jiu jie guo	0
+从长期来看	cong chang qi lai kan	0
+从长期来看	zong chang qi lai kan	0
+扣除了	kou chu le	0
+扣除了	kou chu liao	0
+通货膨胀因素	tong huo peng zhang yin su	0
+没有增长	mei you zeng zhang	0
+房地产黄金时期	fang di chan huang jin shi qi	0
+年代后期	nian dai hou qi	0
+美国金融危机	mei guo jin rong wei ji	0
+疯狂上涨	feng kuang shang zhang	0
+替代资源	ti dai zi yuan	0
+房价高涨	fang jia gao zhang	0
+在房价中	zai fang jia zhong	0
+现行的	xian xing de	0
+地方财政体制	di fang cai zheng ti zhi	0
+城市土地拍卖	cheng shi tu di pai mai	0
+地价	di jia	0
+越拍越高	yue pai yue gao	0
+土地的	tu di de	0
+实际稀缺程度	shi ji xi que cheng du	0
+人为推高	ren wei tui gao	0
+虚高	xu gao	0
+上市大型地产企业	shang shi da xing di chan qi ye	0
+不差钱	bu cha qian	0
+地产龙头股	di chan long tou gu	0
+发布公告	fa bu gong gao	0
+签署了	qian shu le	0
+战略合作协议	zhan lue he zuo xie yi	0
+将获	jiang huo	0
+该银行	gai yin hang	0
+授信额度	shou xin e du	0
+亿元人民币	yi yuan ren min bi	0
+另外几家	ling wai ji jia	0
+大型地产上市公司	da xing di chan shang shi gong si	0
+融资情况	rong zi qing kuang	0
+金地集团	jin di ji tuan	0
+总额为	zong e wei	0
+亿元的	yi yuan de	0
+亿元的	yi yuan di	0
+融资授信	rong zi shou xin	0
+已通过	yi tong guo	0
+非公开发行	fei gong kai fa xing	0
+募集资金	mu ji zi jin	0
+房地产泡沫	fang di chan pao mo	0
+我国房地产市场	wo guo fang di chan shi chang	0
+新一轮泡沫	xin yi lun pao mo	0
+经济调控	jing ji tiao kong	0
+房地产现状	fang di chan xian zhuang	0
+经济增长	jing ji zeng zhang	0
+政策措施	zheng ce cuo shi	0
+南国置业股份有限公司	nan guo zhi ye gu fen you xian gong si	0
+首发申请	shou fa shen qing	0
+获证监会通过	huo zheng jian hui tong guo	0
+重启后	chong qi hou	0
+首家上市的	shou jia shang shi de	0
+首家上市的	shou jia shang shi di	0
+地产公司	di chan gong si	0
+招股说明书	zhao gu shuo ming shu	0
+许晓明	xu xiao ming	0
+许晓明	hu xiao ming	0
+直接持有	zhi jie chi you	0
+南国置业股份	nan guo zhi ye gu fen	0
+万股	wan gu	0
+房地产股	fang di chan gu	0
+百度和讯全财经网	bai du he xun quan cai jing wang	0
+哪些因素	na xie yin su	0
+会影响	hui ying xiang	0
+地产行业	di chan hang ye	0
+的走势	de zou shi	0
+的走势	di zou shi	0
+行业背景	hang ye bei jing	0
+投资机会	tou zi ji hui	0
+买不起房子	mai bu qi fang zi	0
+的调整	de tiao zheng	0
+的调整	di tiao zheng	0
+地产龙头企业	di chan long tou qi ye	0
+率先发动	shuai xian fa dong	0
+打折甩卖	da zhe shuai mai	0
+打折甩卖	da she shuai mai	0
+质地优良	zhi di you liang	0
+大幅增长	da fu zeng zhang	0
+受益于	shou yi yu	0
+报告期内	bao gao qi nei	0
+报告期内	bao gao qi na	0
+结转面积	jie zhuan mian ji	0
+较上年同期	jiao shang nian tong qi	0
+联营企业	lian ying qi ye	0
+合营企业	he ying qi ye	0
+投资收益	tou zi shou yi	0
+较上年同期增长	jiao shang nian tong qi zeng zhang	0
+房地产市场低迷	fang di chan shi chang di mi	0
+等因素	deng yin su	0
+的影响	de ying xiang	0
+房地产开发	fang di chan kai fa	0
+销售的	xiao shou de	0
+销售的	xiao shou di	0
+毛利率	mao li lv	0
+较上年同期减少	jiao shang nian tong qi jian shao	0
+开发与销售	kai fa yu xiao shou	0
+的比重	de bi zhong	0
+的比重	di bi zhong	0
+有所上升	you suo shang sheng	0
+地产家居网	di chan jia ju wang	0
+楼市走向	lou shi zou xiang	0
+宏观经济	hong guan jing ji	0
+偏于乐观	pian yu le guan	0
+博鳌论坛	bo ao lun tan	0
+与会者	yu hui zhe	0
+住房和城乡建设部	zhu fang he cheng xiang jian she bu	0
+住房和城乡建设部	zhu fang hu cheng xiang jian she bu	0
+住房和城乡建设部	zhu fang huo cheng xiang jian she bu	0
+研究中心	yan jiu zhong xin	0
+权威机构	quan wei ji gou	0
+商业地产	shang ye di chan	0
+焦点房地产	jiao dian fang di chan	0
+炒作成分	chao zuo cheng fen	0
+我国经济	wo guo jing ji	0
+企稳回升	qi wen hui sheng	0
+的势头	de shi tou	0
+的势头	di shi tou	0
+初步确立	chu bu que li	0
+经济回暖	jing ji hui nuan	0
+尚不稳固	shang bu wen gu	0
+繁荣时期	fan rong shi qi	0
+商用地产	shang yong di chan	0
+有色地产	you se di chan	0
+有色金属	you se jin shu	0
+中国石油	zhong guo shi you	0
+中国石化	zhong guo shi hua	0
+护盘性资金	hu pan xing zi jin	0
+已超跌	yi chao die	0
+极度超卖	ji du chao mai	0
+出现背离	chu xian bei li	0
+个股跌	ge gu die	0
+最富有弹性	zui fu you tan xing	0
+的板块	de ban kuai	0
+的板块	di ban kuai	0
+近期的	jin qi de	0
+近期的	jin qi di	0
+调整中	tiao zheng zhong	0
+得到证实	de dao zheng shi	0
+得到证实	dei dao zheng shi	0
+大盘狂泻	da pan kuang xie	0
+滑落至	hua luo zhi	0
+先于大盘	xian yu da pan	0
+大幅下跌	da fu xia die	0
+日跌幅	ri die fu	0
+已达到	yi da dao	0
+调整时间	tiao zheng shi jian	0
+调整幅度	tiao zheng fu du	0
+均已经	jun yi jing	0
+比大盘	bi da pan	0
+更为充裕	geng wei chong yu	0
+地产大腕	di chan da wan	0
+房地产大腕	fang di chan da wan	0
+地产圈内	di chan quan nei	0
+易宪容	yi xian rong	0
+地产泡沫	di chan pao mo	0
+中国版次贷危机	zhong guo ban ci dai wei ji	0
+须警惕	xu jing ti	0
+房地产信贷扩张	fang di chan xin dai kuo zhang	0
+国内房地产市场	guo nei fang di chan shi chang	0
+有效调整	you xiao tiao zheng	0
+房地产泡沫陷阱	fang di chan pao mo xian jing	0
+发改委	fa gai wei	0
+大中城市	da zhong cheng shi	0
+个城市	ge cheng shi	0
+个楼盘	ge lou pan	0
+销售金额	xiao shou jin e	0
+营业收入	ying ye shou ru	0
+显著增长	xian zhu zeng zhang	0
+主要受益于	zhu yao shou yi yu	0
+核心业务	he xin ye wu	0
+开发业务	kai fa ye wu	0
+的高增长	de gao zeng zhang	0
+的高增长	di gao zeng zhang	0
+房地产开发业务	fang di chan kai fa ye wu	0
+收入增长	shou ru zeng zhang	0
+较上年同期增加	jiao shang nian tong qi zeng jia	0
+万通地产	wan tong di chan	0
+扩充土储	kuo chong tu chu	0
+和讯网	he xun wang	0
+住宅建设事业部	zhu zhai jian she shi ye bu	0
+曹汇昆	cao hui kun	0
+一定量的	yi ding liang de	0
+一定量的	yi ding liang di	0
+土地储备	tu di chu bei	0
+救经济	jiu jing ji	0
+疯狂房价	feng kuang fang jia	0
+亿房网	yi fang wang	0
+投资房地产	tou zi fang di chan	0
+以防通胀	yi fang tong zhang	0
+稳定的	wen ding de	0
+升值保值功能	sheng zhi bao zhi gong neng	0
+拯救了	zheng jiu le	0
+拯救了	zheng jiu liao	0
+利率下调	li lv xia tiao	0
+首付比例下调	shou fu bi li xia tiao	0
+跌破增发价	die po zeng fa jia	0
+跌破增发价	die po zeng fa jie	0
+法人股大王	fa ren gu dai wang	0
+法人股大王	fa ren gu da wang	0
+浮亏	fu kui	0
+中国财经信息网	zhong guo cai jing xin xi wang	0
+刘益谦	liu yi qian	0
+以最高价	yi zui gao jia	0
+定向增发股份	ding xiang zeng fa gu fen	0
+定向增发	ding xiang zeng fa	0
+募资	mu zi	0
+成功完成	cheng gong wan cheng	0
+市场普跌	shi chang pu die	0
+也大跌	ye da die	0
+报收于	bao shou yu	0
+尚处于	shang chu yu	0
+星河湾	xing he wan	0
+黄浦湾	huang pu wan	0
+的热销	de re xiao	0
+的热销	di re xiao	0
+上海楼市均价	shang hai lou shi jun jia	0
+创出了	chuang chu le	0
+创出了	chuang chu liao	0
+历史最高水平	li shi zui gao shui ping	0
+上一个峰值	shang yi ge feng zhi	0
+整整高出了	zheng zheng gao chu le	0
+整整高出了	zheng zheng gao chu liao	0
+本轮	ben lun	0
+房地产市场价格上涨	fang di chan shi chang jia ge shang zhang	0
+急跌两成	ji die liang cheng	0
+继续升温	ji xu sheng wen	0
+世联地产	shi lian di chan	0
+一手房成交均价	yi shou fang cheng jiao jun jia	0
+关内	guan nei	0
+每个区	mei ge qu	0
+每个区	mei ge ou	0
+市场转好	shi chang zhuan hao	0
+的预期	de yu qi	0
+的预期	di yu qi	0
+房地产经营与管理	fang di chan jing ying yu guan li	0
+考试计划	kao shi ji hua	0
+房地产经济学	fang di chan jing ji xue	0
+房地产法	fang di chan fa	0
+房地产评估	fang di chan ping gu	0
+建筑工程定额与预算	jian zhu gong cheng ding e yu yu suan	0
+房地产投资分析	fang di chan tou zi fen xi	0
+房地产经营管理	fang di chan jing ying guan li	0
+房地产金融	fang di chan jin rong	0
+建筑工程概论	jian zhu gong cheng gai lun	0
+泰达集团	tai da ji tuan	0
+首批进入	shou pi jin ru	0
+中新生态城	zhong xin sheng tai cheng	0
+第一财经日报	di yi cai jing ri bao	0
+地产市场	di chan shi chang	0
+披露的	pi lu de	0
+披露的	pi lu di	0
+半年报	ban nian bao	0
+滨海新区	bin hai xin qu	0
+战略重点	zhan lue zhong dian	0
+战略合作框架协议	zhan lue he zuo kuang jia xie yi	0
+住宅事业部	zhu zhai shi ye bu	0
+必须布局	bi xu bu ju	0
+的行业	de hang ye	0
+的行业	di hang ye	0
+私营部门	si ying bu men	0
+不愿进入	bu yuan jin ru	0
+从事房地产	cong shi fang di chan	0
+丰厚利润	feng hou li run	0
+能作为	neng zuo wei	0
+能作为	nai zuo wei	0
+必须进入	bi xu jin ru	0
+该行业	gai hang ye	0
+的证据	di zheng ju	0
+致命因素	zhi ming yin su	0
+进入房地产	jin ru fang di chan	0
+集体冲动	ji ti chong dong	0
+明文规定的	ming wen gui ding de	0
+明文规定的	ming wen gui ding di	0
+支柱产业	zhi zhu chan ye	0
+重要的支柱产业	zhong yao de zhi zhu chan ye	0
+中报点评	zhong bao dian ping	0
+地产个股	di chan ge gu	0
+点评机构	dian ping ji gou	0
+中金公司	zhong jin gong si	0
+年上半年	nian shang ban nian	0
+实现净利润	shi xian jing li run	0
+同比上升了	tong bi shang sheng le	0
+同比上升了	tong bi shang sheng liao	0
+超出预期	chao chu yu qi	0
+市场低迷	shi chang di mi	0
+土地成本	tu di cheng ben	0
+的项目	de xiang mu	0
+的项目	di xiang mu	0
+进入结算期	jin ru jie suan qi	0
+进入结算期	jin ru jie suan ji	0
+较去年下滑	jiao qu nian xia hua	0
+较为明显	jiao wei ming xian	0
+房地产信托基金	fang di chan xin tuo ji jin	0
+相关条件	xiang guan tiao jian	0
+比较成熟	bi jiao cheng shu	0
+健康发展	jian kang fa zhan	0
+房地产产业	fang di chan chan ye	0
+金融创新	jin rong chuang xin	0
+政策建议	zheng ce jian yi	0
+广东房企	guang dong fang qi	0
+可行性分析	ke xing xing fen xi	0
+广东省政府	guang dong sheng zheng fu	0
+抓紧时机	zhua jin shi ji	0
+以改善	yi gai shan	0
+房地产业融资渠道	fang di chan ye rong zi qu dao	0
+比较单一	bi jiao dan yi	0
+房地产业融资渠道单一	fang di chan ye rong zi qu dao dan yi	0
+房地产商	fang di chan shang	0
+社保资金	she bao zi jin	0
+地产项目	di chan xiang mu	0
+东海广场	dong hai guang chang	0
+烂尾楼	lan wei lou	0
+接盘者	jie pan zhe	0
+转让给	zhuan rang gei	0
+上海开开集团	shang hai kai kai ji tuan	0
+开开集团	kai kai ji tuan	0
+绿宇房地产公司	lv yu fang di chan gong si	0
+绿宇房地产公司	lu yu fang di chan gong si	0
+中国地产网	zhong guo di chan wang	0
+住房制度改革	zhu fang zhi du gai ge	0
+公积金制度	gong ji jin zhi du	0
+商业贷款	shang ye dai kuan	0
+住房改革制度	zhu fang gai ge zhi du	0
+房改政策	fang gai zheng ce	0
+逐步到位	zhu bu dao wei	0
+棚改工程	peng gai gong cheng	0
+投资力度	tou zi li du	0
+的加大	de jia da	0
+的加大	di jia da	0
+房地产开发投资额	fang di chan kai fa tou zi e	0
+施工面积	shi gong mian ji	0
+快速增长	kuai su zeng zhang	0
+商品房销售	shang pin fang xiao shou	0
+全盘景气状态	quan pan jing qi zhuang tai	0
+产业化和市场化	chan ye hua he shi chang hua	0
+产业化和市场化	chan ye hua hu shi chang hua	0
+产业化和市场化	chan ye hua huo shi chang hua	0
+中华资本网	zhong hua zi ben wang	0
+太平洋国际投资集团	tai ping yang guo ji tou zi ji tuan	0
+中华资本项目网	zhong hua zi ben xiang mu wang	0
+中华资本研究中心	zhong hua zi ben yan jiu zhong xin	0
+举办的	ju ban de	0
+举办的	ju ban di	0
+金融危机后	jin rong wei ji hou	0
+面临的	mian lin de	0
+新机遇	xin ji yu	0
+房地产项目	fang di chan xiang mu	0
+与资本对接	yu zi ben dui jie	0
+恳谈会	ken tan hui	0
+的主题	de zhu ti	0
+国家政策动向	guo jia zheng ce dong xiang	0
+优质地产项目	you zhi di chan xiang mu	0
+银监会	yin jian hui	0
+加强了	jia qiang le	0
+加强了	jia qiang liao	0
+银行贷款资金	yin hang dai kuan zi jin	0
+流向管理	liu xiang guan li	0
+银行的	yin hang de	0
+信贷规模	xin dai gui mo	0
+迅速下降	xun su xia jiang	0
+大幅下降	da fu xia jiang	0
+中国房地产市场	zhong guo fang di chan shi chang	0
+深度调整	shen du tiao zheng	0
+为了减少	wei le jian shao	0
+过度的	guo du de	0
+过度的	guo du di	0
+悲观反应	bei guan fan ying	0
+盲目的	mang mu di	0
+乐观预期	le guan yu qi	0
+地产新闻	di chan xin wen	0
+世界华人不动产学会	shi jie hua ren bu dong chan xue hui	0
+年年会	nian nian hui	0
+圆桌会议	yuan zhuo hui yi	0
+业内专家	ye nei zhuan jia	0
+长远发展	chang yuan fa zhan	0
+充满信心	chong man xin xin	0
+大周期	da zhou qi	0
+大周期	da zhou ji	0
+上升阶段	shang sheng jie duan	0
+建设部	jian she bu	0
+刘志峰	liu zhi feng	0
+综合作用	zong he zuo yong	0
+快速回升	kuai su hui sheng	0
+一些城市	yi xie cheng shi	0
+回暖速度	hui nuan su du	0
+超过预期	chao guo yu qi	0
+少数大城市	shao shu da cheng shi	0
+远洋地产	yuan yang di chan	0
+远洋地产控股有限公司	yuan yang di chan kong gu you xian gong si	0
+央企子公司	yang qi zi gong si	0
+总额达	zong e da	0
+银行授信	yin hang shou xin	0
+企业债	qi ye zhai	0
+银行贷款	yin hang dai kuan	0
+可动用资金	ke dong yong zi jin	0
+继续看好	ji xu kan hao	0
+二套房贷	er tao fang dai	0
+在一定程度上	zai yi ding cheng du shang	0
+压制了	ya zhi le	0
+压制了	ya zhi liao	0
+投资需求	tou zi xu qiu	0
+月份以来	yue fen yi lai	0
+的波动	de bo dong	0
+的波动	di bo dong	0
+出现调整	chu xian tiao zheng	0
+持续的	chi xu de	0
+适度宽松货币政策	shi du kuan song huo bi zheng ce	0
+新一轮的	xin yi lun de	0
+新一轮的	xin yi lun di	0
+景气上升趋势	jing qi shang sheng qu shi	0
+以时间换空间	yi shi jian huan kong jian	0
+盘整态势	pan zheng tai shi	0
+经济复苏	jing ji fu su	0
+新地王	xin di wang	0
+王石	wang shi	0
+公开重申	gong kai chong shen	0
+不做地王	bu zuo di wang	0
+激进扩张	ji jin kuo zhang	0
+买地	mai di	0
+十大新闻	shi da xin wen	0
+在建楼	zai jian lou	0
+论坛举办方	lun tan ju ban fang	0
+房地产网站	fang di chan wang zhan	0
+发布了	fa bu le	0
+层住宅楼	ceng zhu zhai lou	0
+整体倒塌	zheng ti dao ta	0
+上海在建	shang hai zai jian	0
+中国建筑	zhong guo jian zhu	0
+国内最大	guo nei zui da	0
+建筑房地产	jian zhu fang di chan	0
+综合企业集团	zong he qi ye ji tuan	0
+被评为	bei ping wei	0
+世界住宅工程建筑商	shi jie zhu zhai gong cheng jian zhu shang	0
+全球十大	quan qiu shi da	0
+房屋承建商	fang wu cheng jian shang	0
+公司主营业务	gong si zhu ying ye wu	0
+房建	fang jian	0
+公司的	gong si de	0
+主营业务	zhu ying ye wu	0
+房屋建筑工程	fang wu jian zhu gong cheng	0
+基础设施	ji chu she shi	0
+建设与投资	jian she yu tou zi	0
+房地产开发与投资	fang di chan kai fa yu tou zi	0
+设计勘察	she ji kan cha	0
+拟取消	ni qu xiao	0
+税收一体化	shui shou yi ti hua	0
+易居网	yi ju wang	0
+国家税务总局	guo jia shui wu zong ju	0
+财产行为税司	cai chan xing wei shui si	0
+有关官员	you guan guan yuan	0
+未来的	wei lai de	0
+房地产税制改革	fang di chan shui zhi gai ge	0
+统筹安排	tong chou an pai	0
+明确的方案	ming que de fang an	0
+具体实施	ju ti shi shi	0
+十二五	shi er wu	0
+地产商	di chan shang	0
+强者恒强	qiang zhe heng qiang	0
+强者恒强	qiang zhe heng jiang	0
+弱者淘汰	ruo zhe tao tai	0
+注重规模	zhu zhong gui mo	0
+金融地产高端论坛	jin rong di chan gao duan lun tan	0
+与会专家	yu hui zhuan jia	0
+房地产企业	fang di chan qi ye	0
+须做好	xu zuo hao	0
+政策微调	zheng ce wei tiao	0
+应对策略	ying dui ce lue	0
+防范陷入	fang fan xian ru	0
+被动繁荣	bei dong fan rong	0
+市场人士	shi chang ren shi	0
+中原地产	zhong yuan di chan	0
+囤地运动	tun di yun dong	0
+经济参考报	jing ji can kao bao	0
+中原地产研究中心	zhong yuan di chan yan jiu zhong xin	0
+研究报告	yan jiu bao gao	0
+知名开发商	zhi ming kai fa shang	0
+获得的	huo de de	0
+获得的	huo de di	0
+住宅土地	zhu zhai tu di	0
+在售	zai shou	0
+售完	shou wan	0
+的地块	de di kuai	0
+的地块	di di kuai	0
+尚未形成	shang wei xing cheng	0
+实际供应	shi ji gong ying	0
+保利	bao li	0
+金地	jin di	0
+重点城市	zhong dian cheng shi	0
+开发情况	kai fa qing kuang	0
+顺利完成的	shun li wan cheng de	0
+顺利完成的	shun li wan cheng di	0
+增发	zeng fa	0
+恒大地产	heng da di chan	0
+在全国	zai quan guo	0
+推盘发售	tui pan fa shou	0
+重庆恒大	chong qing heng da	0
+金碧天下	jin bi tian xia	0
+包头恒大华府	bao tou heng da hua fu	0
+开盘当天	kai pan dang tian	0
+在全国的	zai quan guo de	0
+在全国的	zai quan guo di	0
+新推楼盘	xin tui lou pan	0
+共销售	gong xiao shou	0
+销售额	xiao shou e	0
+销售计划	xiao shou ji hua	0
+将完成	jiang wan cheng	0
+将完成	qiang wan cheng	0
+往上涨	wang shang zhang	0
+公布的数据	gong bu de shu ju	0
+已超过	yi chao guo	0
+继续创新高	ji xu chuang xin gao	0

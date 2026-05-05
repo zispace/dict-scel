@@ -1,0 +1,1302 @@
+# 词库名称: 伤寒论
+# 词库分类: 桂枝汤 五苓散 桂枝加附子汤 桂枝加桂汤 桂枝人参汤
+# 词库作者: 13950309135
+# 词库描述: 中医经典名词
+# 词条数量: 1294
+# 解析词数: 1301
+# 解析异常: 7
+
+桂枝汤	gui zhi tang	0
+五苓散	wu ling san	0
+桂枝加附子汤	gui zhi jia fu zi tang	0
+桂枝加附子汤	gui zhi jia fu zi shang	0
+桂枝加桂汤	gui zhi jia gui tang	0
+桂枝加桂汤	gui zhi jia gui shang	0
+桂枝人参汤	gui zhi ren shen tang	0
+桂枝人参汤	gui zhi ren shen shang	0
+葛根黄连黄芩汤	ge gen huang lian huang qin tang	0
+葛根黄连黄芩汤	ge gen huang lian huang qin shang	0
+桂枝去芍药汤	gui zhi qu shao yao tang	0
+桂枝去芍药汤	gui zhi qu shao yao shang	0
+桂枝去芍药加附子汤	gui zhi qu shao yao jia fu zi tang	0
+桂枝去芍药加附子汤	gui zhi qu shao yao jia fu zi shang	0
+桂枝加厚朴杏仁汤	gui zhi jia hou pu xing ren tang	0
+桂枝加厚朴杏仁汤	gui zhi jia hou piao xing ren tang	0
+桂枝加厚朴杏仁汤	gui zhi jia hou po xing ren tang	0
+桂枝加厚朴杏仁汤	gui zhi jia hou pu xing ren shang	0
+桂枝加厚朴杏仁汤	gui zhi jia hou piao xing ren shang	0
+桂枝加厚朴杏仁汤	gui zhi jia hou po xing ren shang	0
+桃仁承气汤	tao ren cheng qi tang	0
+桃仁承气汤	tao ren cheng qi shang	0
+抵当汤	di dang tang	0
+抵当汤	di dang shang	0
+代抵当汤	dai di dang tang	0
+代抵当汤	dai di dang shang	0
+十枣汤	shi zao tang	0
+十枣汤	shi zao shang	0
+大陷胸汤	da xian xiong tang	0
+大陷胸汤	dai xian xiong tang	0
+大陷胸汤	tai xian xiong tang	0
+大陷胸汤	da xian xiong shang	0
+大陷胸汤	dai xian xiong shang	0
+大陷胸汤	tai xian xiong shang	0
+大陷胸丸	da xian xiong wan	0
+大陷胸丸	dai xian xiong wan	0
+大陷胸丸	tai xian xiong wan	0
+麻黄汤	ma huang tang	0
+麻黄汤	ma huang shang	0
+小建中汤	xiao jian zhong tang	0
+小建中汤	xiao jian zhong shang	0
+茯苓甘草汤	fu ling gan cao tang	0
+茯苓甘草汤	fu ling gan cao shang	0
+芍药甘草附子汤	shao yao gan cao fu zi tang	0
+芍药甘草附子汤	shao yao gan cao fu zi shang	0
+麻黄杏仁甘草石膏汤	ma huang xing ren gan cao shi gao tang	0
+麻黄杏仁甘草石膏汤	ma huang xing ren gan cao shi gao shang	0
+桂枝甘草汤	gui zhi gan cao tang	0
+桂枝甘草汤	gui zhi gan cao shang	0
+茯苓桂枝甘草大枣汤	fu ling gui zhi gan cao da zao tang	0
+茯苓桂枝甘草大枣汤	fu ling gui zhi gan cao da zao shang	0
+生姜泻心汤	sheng jiang xie xin tang	0
+生姜泻心汤	sheng jiang xie xin shang	0
+甘草泻心汤	gan cao xie xin tang	0
+甘草泻心汤	gan cao xie xin shang	0
+大黄黄连泻心汤	dai huang huang lian xie xin tang	0
+大黄黄连泻心汤	dai huang huang lian xie xin shang	0
+附子泻心汤	fu zi xie xin tang	0
+附子泻心汤	fu zi xie xin shang	0
+半夏泻心汤	ban xia xie xin tang	0
+半夏泻心汤	ban xia xie xin shang	0
+赤石脂禹余粮汤	chi shi zhi yu yu liang tang	0
+赤石脂禹余粮汤	chi shi zhi yu yu liang shang	0
+大柴胡汤	da chai hu tang	0
+大柴胡汤	dai chai hu tang	0
+大柴胡汤	tai chai hu tang	0
+大柴胡汤	da chai hu shang	0
+大柴胡汤	dai chai hu shang	0
+大柴胡汤	tai chai hu shang	0
+旋复代赭石汤	xuan fu dai zhe shi tang	0
+旋复代赭石汤	xuan fu dai zhe shi shang	0
+小陷胸汤	xiao xian xiong tang	0
+小陷胸汤	xiao xian xiong shang	0
+柴胡桂枝汤	chai hu gui zhi tang	0
+柴胡加龙骨牡蛎汤	chai hu jia long gu mu li tang	0
+柴胡加龙骨牡蛎汤	chai hu jia long gu mu li shang	0
+炙甘草汤	zhi gan cao tang	0
+炙甘草汤	zhi gan cao shang	0
+四逆汤	si ni tang	0
+四逆汤	si ni shang	0
+栀子干姜汤	zhi zi gan jiang tang	0
+栀子干姜汤	zhi zi gan jiang shang	0
+栀子生姜豉汤	zhi zi sheng jiang chi tang	0
+栀子生姜豉汤	zhi zi sheng jiang chi shang	0
+栀子厚朴汤	zhi zi hou pu tang	0
+栀子厚朴汤	zhi zi hou pu shang	0
+栀子豉汤	zhi zi chi tang	0
+栀子豉汤	zhi zi chi shang	0
+栀子甘草豉汤	zhi zi gan cao chi tang	0
+栀子甘草豉汤	zhi zi gan cao chi shang	0
+干姜附子汤	gan jiang fu zi tang	0
+干姜附子汤	gan jiang fu zi shang	0
+抵当丸	di dang wan	0
+茯苓桂枝白术甘草汤	fu ling gui zhi bai zhu gan cao tang	0
+茯苓桂枝白术甘草汤	fu ling gui zhi bai zhu gan cao shang	0
+桂枝附子汤	gui zhi fu zi tang	0
+桂枝附子汤	gui zhi fu zi shang	0
+白术附子汤	bai zhu fu zi tang	0
+白术附子汤	bai zhu fu zi shang	0
+去桂加白术汤	qu gui jia bai zhu tang	0
+去桂加白术汤	qu gui jia bai zhu shang	0
+甘草附子汤	gan cao fu zi tang	0
+甘草附子汤	gan cao fu zi shang	0
+麻黄连轺赤小豆汤	ma huang lian yao chi xiao dou tang	0
+麻黄连轺赤小豆汤	ma huang lian yao chi xiao dou shang	0
+栀子柏皮汤	zhi zi bai pi tang	0
+栀子柏皮汤	zhi zi bo pi tang	0
+栀子柏皮汤	zhi zi bai pi shang	0
+栀子柏皮汤	zhi zi bo pi shang	0
+大青龙汤	da qing long tang	0
+大青龙汤	da qing long shang	0
+桂枝麻黄各半汤	gui zhi ma huang ge ban tang	0
+桂枝麻黄各半汤	gui zhi ma huang ge ban shang	0
+桂枝二越婢一汤	gui zhi er yue bi yi tang	0
+桂枝二麻黄一汤	gui zhi er ma huang yi tang	0
+桂枝去桂加茯苓白术汤	gui zhi qu gui jia fu ling bai zhu tang	0
+桂枝去桂加茯苓白术汤	gui zhi qu gui jia fu ling bai zhu shang	0
+桂枝甘草龙骨牡蛎汤	gui zhi gan cao long gu mu li tang	0
+桂枝甘草龙骨牡蛎汤	gui zhi gan cao long gu mu li shang	0
+甘草干姜汤	gan cao gan jiang tang	0
+甘草干姜汤	gan cao gan jiang shang	0
+芍药甘草汤	shao yao gan cao tang	0
+芍药甘草汤	shao yao gan cao shang	0
+茯苓四逆汤	fu ling si ni tang	0
+茯苓四逆汤	fu ling si ni shang	0
+黄连汤	huang lian tang	0
+黄连汤	huang lian shang	0
+小青龙汤	xiao qing long tang	0
+小青龙汤	xiao qing long shang	0
+白虎加人参汤	bai hu jia ren can tang	0
+白虎加人参汤	bai hu jia ren shen tang	0
+白虎加人参汤	bai hu jia ren cen tang	0
+白虎加人参汤	bai hu jia ren san tang	0
+白虎加人参汤	bai hu jia ren can shang	0
+白虎加人参汤	bai hu jia ren shen shang	0
+白虎加人参汤	bai hu jia ren cen shang	0
+白虎加人参汤	bai hu jia ren san shang	0
+白虎汤	bai hu tang	0
+白虎汤	bai hu shang	0
+小承气汤	xiao cheng qi tang	0
+小承气汤	xiao cheng qi shang	0
+调胃承气汤	diao wei cheng qi tang	0
+调胃承气汤	tiao wei cheng qi tang	0
+调胃承气汤	diao wei cheng qi shang	0
+调胃承气汤	tiao wei cheng qi shang	0
+猪苓汤	zhu ling tang	0
+猪苓汤	zhu ling shang	0
+茵陈蒿汤	yin chen hao tang	0
+茵陈蒿汤	yin chen hao shang	0
+蜜煎导法	mi jian dao fa	0
+猪胆导法	zhu dan dao fa	0
+大承气汤	da cheng qi tang	0
+大承气汤	dai cheng qi tang	0
+大承气汤	tai cheng qi tang	0
+大承气汤	da cheng qi shang	0
+大承气汤	dai cheng qi shang	0
+大承气汤	tai cheng qi shang	0
+麻子仁丸	ma zi ren wan	0
+小柴胡汤	xiao chai hu tang	0
+小柴胡汤	xiao chai hu shang	0
+柴胡桂枝干姜汤	chai hu gui zhi gan jiang tang	0
+柴胡桂枝干姜汤	chai hu gui zhi gan jiang shang	0
+桂枝加葛根汤	gui zhi jia ge gen tang	0
+桂枝加葛根汤	gui zhi jia ge gen shang	0
+葛根汤	ge gen tang	0
+葛根汤	ge gen shang	0
+葛根加半夏汤	ge gen jia ban xia tang	0
+葛根加半夏汤	ge gen jia ban xia shang	0
+黄芩汤	huang qin tang	0
+黄芩汤	huang qin shang	0
+黄芩加半夏生姜汤	huang qin jia ban xia sheng jiang tang	0
+黄芩加半夏生姜汤	huang qin jia ban xia sheng jiang shang	0
+瓜蒂散	gua di san	0
+桂枝加芍药汤	gui zhi jia shao yao tang	0
+桂枝加芍药汤	gui zhi jia shao yao shang	0
+桂枝加大黄汤	gui zhi jia da huang tang	0
+麻黄附子细辛汤	ma huang fu zi xi xin tang	0
+麻黄附子细辛汤	ma huang fu zi xi xin shang	0
+附子汤	fu zi tang	0
+附子汤	fu zi shang	0
+麻黄附子甘草汤	ma huang fu zi gan cao tang	0
+麻黄附子甘草汤	ma huang fu zi gan cao shang	0
+吴茱萸汤	wu zhu yu tang	0
+吴茱萸汤	wu zhu yu shang	0
+白通汤	bai tong tang	0
+白通汤	bai tong shang	0
+白通加人尿猪胆汁汤	bai tong jia ren niao zhu dan zhi tang	0
+白通加人尿猪胆汁汤	bai tong jia ren sui zhu dan zhi tang	0
+白通加人尿猪胆汁汤	bai tong jia ren niao zhu dan zhi shang	0
+白通加人尿猪胆汁汤	bai tong jia ren sui zhu dan zhi shang	0
+真武汤	zhen wu tang	0
+真武汤	zhen wu shang	0
+通脉四逆汤	tong mai si ni tang	0
+通脉四逆汤	tong mai si ni shang	0
+黄连阿胶汤	huang lian e jiao tang	0
+黄连阿胶汤	huang lian e jiao shang	0
+桃花汤	tao hua tang	0
+桃花汤	tao hua shang	0
+猪肤汤	zhu fu tang	0
+猪肤汤	zhu fu shang	0
+甘草汤	gan cao tang	0
+甘草汤	gan cao shang	0
+桔梗汤	jie geng tang	0
+桔梗汤	jie geng shang	0
+半夏散及汤	ban xia san ji tang	0
+半夏散及汤	ban xia san ji shang	0
+苦酒汤	ku jiu tang	0
+苦酒汤	ku jiu shang	0
+四逆散	si ni san	0
+乌梅丸	wu mei wan	0
+当归四逆汤	dang gui si ni tang	0
+当归四逆汤	dang gui si ni shang	0
+麻黄升麻汤	ma huang sheng ma tang	0
+麻黄升麻汤	ma huang sheng ma shang	0
+干姜黄芩黄连人参汤	gan jiang huang qin huang lian ren shen tang	0
+干姜黄芩黄连人参汤	gan jiang huang qin huang lian ren shen shang	0
+白头翁汤	bai tou weng tang	0
+白头翁汤	bai tou weng shang	0
+柴胡加芒硝汤	chai hu jia mang xiao tang	0
+柴胡加芒硝汤	chai hu jia mang xiao shang	0
+枳实栀子豉汤	zhi shi zhi zi chi tang	0
+枳实栀子豉汤	zhi shi zhi zi chi shang	0
+牡蛎泽泻散	mu li ze xie san	0
+理中丸	li zhong wan	0
+竹叶石膏汤	zhu ye shi gao tang	0
+竹叶石膏汤	zhu ye shi gao shang	0
+之为病	zhi wei bing	0
+脉浮	mai fu	0
+脉浮	mo fu	0
+头项强痛而恶寒	tou xiang qiang tong er e han	0
+头项强痛而恶寒	tou xiang jiang tong er e han	0
+太阳病	tai yang bing	0
+发热	fa re	0
+汗出	han chu	0
+恶风	e feng	0
+脉缓	mai huan	0
+脉缓	mo huan	0
+中风	zhong feng	0
+或已发热或未发热	huo yi fa re huo wei fa re	0
+恶寒	e han	0
+体痛	ti tong	0
+体痛	ben tong	0
+呕逆	ou ni	0
+脉阴阳俱紧	mai yin yang ju jin	0
+脉阴阳俱紧	mo yin yang ju jin	0
+伤寒	shang han	0
+颇欲吐	po yu tu	0
+不传	bu chuan	0
+脉数急	mai shu ji	0
+脉数急	mai shuo ji	0
+脉数急	mo shu ji	0
+脉数急	mo shuo ji	0
+阳明少阳证	yang ming shao yang zheng	0
+发热而渴	fa re er ke	0
+不恶寒	bu e han	0
+不恶寒	fou e han	0
+温病	wen bing	0
+发汗已	fa han yi	0
+身灼热	shen zhuo re	0
+风温	feng wen	0
+脉阴阳俱浮	mai yin yang ju fu	0
+脉阴阳俱浮	mo yin yang ju fu	0
+自汗出	zi han chu	0
+身重	shen zhong	0
+多眠睡	duo mian shui	0
+语言难出	yu yan nan chu	0
+小便不利	xiao bian bu li	0
+直视失溲	zhi shi shi sou	0
+惊痫	jing xian	0
+一逆尚引日再逆促命期	yi ni shang yin ri zai ni cu ming ji	0
+无热恶寒者发于阴也	wu re e han zhe fa yu yin ye	0
+发于阳者七日愈	fa yu yang zhe qi ri yu	0
+发于阴者六日愈	fa yu yin zhe liu ri yu	0
+阳数七	yang shu qi	0
+阳数七	yang shuo qi	0
+阴数六	yin shu liu	0
+阴数六	yin shuo liu	0
+阴数六	yin shu lu	0
+阴数六	yin shuo lu	0
+自愈	zi yu	0
+行其经尽	hang qi jing jin	0
+行其经尽	xing qi jing jin	0
+行其经尽	hang ji jing jin	0
+行其经尽	xing ji jing jin	0
+欲作再经	yu zuo zai jing	0
+足阳明	zu yang ming	0
+欲解时	yu jie shi	0
+欲解时	yu xie shi	0
+从巳至未上	cong si zhi wei shang	0
+从巳至未上	zong si zhi wei shang	0
+风家	feng jia	0
+不了了	bu liao liao	0
+身大热	shen da re	0
+欲得近衣	yu de jin yi	0
+欲得近衣	yu dei jin yi	0
+热在皮肤寒在骨髓	re zai pi fu han zai gu sui	0
+身大寒	shen da han	0
+不欲近衣	bu yu jin yi	0
+寒在皮肤热在骨髓	han zai pi fu re zai gu sui	0
+太阳中风	tai yang zhong feng	0
+阳浮而阴弱	yang fu er yin ruo	0
+热自发	re zi fa	0
+汗自出	han zi chu	0
+啬啬恶寒	se se e han	0
+淅淅恶风	xi xi e feng	0
+翕翕发热	xi xi fa re	0
+鼻鸣干呕	bi ming gan ou	0
+适寒温	shi han wen	0
+温覆	wen fu	0
+不必尽剂	bu bi jin ji	0
+头痛发热	tou tong fa re	0
+汗出恶风	han chu e feng	0
+项背强几几	xiang bei qiang ji ji	0
+项背强几几	xiang bei jiang ji ji	0
+下之后	xia zhi hou	0
+其气上冲	qi qi shang chong	0
+其气上冲	ji qi shang chong	0
+坏病	huai bing	0
+坏病	pei bing	0
+坏病	pi bing	0
+不中与之	bu zhong yu zhi	0
+解肌	jie ji	0
+解肌	xie ji	0
+脉浮紧	mai fu jin	0
+脉浮紧	mo fu jin	0
+发热汗不出	fa re han bu chu	0
+酒客	jiu ke	0
+喘家	chuan jia	0
+吐脓血	tu nong xue	0
+发汗	fa han	0
+小便难	xiao bian nan	0
+小便难	xiao bian nuo	0
+四支微急	si zhi wei ji	0
+难以屈伸	nan yi qu shen	0
+脉促胸满	mai cu xiong man	0
+脉促胸满	mo cu xiong man	0
+如疟状	ru yao zhuang	0
+发热恶寒	fa re e han	0
+热多寒少	re duo han shao	0
+不呕	bu ou	0
+不呕	fou ou	0
+清便欲自可	qing bian yu zi ke	0
+清便欲自可	qing pian yu zi ke	0
+脉微缓	mai wei huan	0
+脉微缓	mo wei huan	0
+欲愈	yu yu	0
+脉微	mai wei	0
+脉微	mo wei	0
+阴阳俱虚	yin yang ju xu	0
+风池	feng chi	0
+风府	feng fu	0
+大汗出	da han chu	0
+脉洪大	mai hong da	0
+脉洪大	mo hong da	0
+形如疟	xing ru yao	0
+汗出必解	han chu bi jie	0
+汗出必解	han chu bi xie	0
+大烦	da fan	0
+大烦	dai fan	0
+大烦	tai fan	0
+渴不解	ke bu jie	0
+脉微弱者	mai wei ruo zhe	0
+脉微弱者	mo wei ruo zhe	0
+无阳	wu yang	0
+心下满	xin xia man	0
+脚挛急	jiao luan ji	0
+脚挛急	jue luan ji	0
+攻其表	gong qi biao	0
+攻其表	gong ji biao	0
+咽中干	yan zhong gan	0
+咽中干	ye zhong gan	0
+烦燥	fan zao	0
+吐逆	tu ni	0
+谵语	zhan yu	0
+针者	zhen zhe	0
+阳旦	yang dan	0
+厥逆	jue ni	0
+两胫拘急	liang jing ju ji	0
+浮则为风	fu ze wei feng	0
+大则为虚	da ze wei xu	0
+大则为虚	dai ze wei xu	0
+大则为虚	tai ze wei xu	0
+风则生微热	feng ze sheng wei re	0
+虚则两胫挛	xu ze liang jing luan	0
+附子温经	fu zi wen jing	0
+亡阳	wang yang	0
+亡阳	wu yang	0
+阳明内结	yang ming nei jie	0
+阳明内结	yang ming na jie	0
+夜半阳气还	ye ban yang qi hai	0
+夜半阳气还	ye ban yang qi huan	0
+太阳与阳明合病	tai yang yu yang ming he bing	0
+太阳与阳明合病	tai yang yu yang ming ge bing	0
+自下利	zi xia li	0
+不下利	bu xia li	0
+表未解也	biao wei jie ye	0
+喘而汗出	chuan er han chu	0
+身疼	shen teng	0
+腰痛	yao tong	0
+骨节疼痛	gu jie teng tong	0
+无汗而喘	wu han er chuan	0
+桂枝法	gui zhi fa	0
+喘而胸满	chuan er xiong man	0
+嗜卧	shi wo	0
+脉浮细	mai fu xi	0
+脉浮细	mo fu xi	0
+外已解	wai yi jie	0
+外已解	wai yi xie	0
+胸满胁痛	xiong man xie tong	0
+不汗出而烦躁	bu han chu er fan zao	0
+不汗出而烦躁	fou han chu er fan zao	0
+脉浮缓	mo fu huan	0
+少阴证	shao yin zheng	0
+表不解	biao bu jie	0
+心下有水气	xin xia you shui qi	0
+干呕	gan ou	0
+发热而咳	fa re er ke	0
+发热而咳	fa re er hai	0
+腹满	fu man	0
+咳而微喘	ke er wei chuan	0
+咳而微喘	hai er wei chuan	0
+发热不渴	fa re bu ke	0
+外证未解	wai zheng wei jie	0
+发汗不解	fa han bu jie	0
+表证仍在	biao zheng reng zai	0
+短气	duan qi	0
+心悸	xin ji	0
+荣行脉中卫行脉外	rong hang mai zhong wei hang mai wai	0
+荣行脉中卫行脉外	rong xing mai zhong wei hang mai wai	0
+荣行脉中卫行脉外	rong hang mai zhong wei xing mai wai	0
+荣行脉中卫行脉外	rong xing mai zhong wei xing mai wai	0
+荣行脉中卫行脉外	rong hang mo zhong wei hang mai wai	0
+荣行脉中卫行脉外	rong xing mo zhong wei hang mai wai	0
+荣行脉中卫行脉外	rong hang mo zhong wei xing mai wai	0
+荣行脉中卫行脉外	rong xing mo zhong wei xing mai wai	0
+荣行脉中卫行脉外	rong hang mai zhong wei hang mo wai	0
+荣行脉中卫行脉外	rong xing mai zhong wei hang mo wai	0
+荣行脉中卫行脉外	rong hang mai zhong wei xing mo wai	0
+荣行脉中卫行脉外	rong xing mai zhong wei xing mo wai	0
+荣行脉中卫行脉外	rong hang mo zhong wei hang mo wai	0
+荣行脉中卫行脉外	rong xing mo zhong wei hang mo wai	0
+荣行脉中卫行脉外	rong hang mo zhong wei xing mo wai	0
+荣行脉中卫行脉外	rong xing mo zhong wei xing mo wai	0
+不呕不渴	bu ou bu ke	0
+不呕不渴	fou ou bu ke	0
+叉手自冒心	cha shou zi mao xin	0
+叉手自冒心	cha shou zi mo xin	0
+心下悸欲得按	xin xia ji yu dei an	0
+脐下悸	qi xia ji	0
+奔豚	ben tun	0
+甘瀾水	gan lan shui	0
+心下逆满气上冲胸	xin xia ni man qi shang chong xiong	0
+头眩	tou xuan	0
+当和胃气	dang he wei qi	0
+当和胃气	dang hu wei qi	0
+当和胃气	dang huo wei qi	0
+渴欲饮水水入则吐	ke yu yin shui shui ru ze tu	0
+水逆	shui ni	0
+手叉自冒心	shou cha zi mao xin	0
+手叉自冒心	shou cha zi mo xin	0
+虚烦不得眠	xu fan bu de mian	0
+心中懊憹	xin zhong ao nang	0
+心中懊憹	xin zhong ao nao	0
+胸中窒	xiong zhong zhi	0
+心中结痛	xin zhong jie tong	0
+卧起不安	wo qi bu an	0
+振振欲擗地	zhen zhen yu bo di	0
+振振欲擗地	zhen zhen yu pi di	0
+振振欲擗地	zhen zhen yu bo de	0
+振振欲擗地	zhen zhen yu pi de	0
+恍惚心乱	huang hu xin luan	0
+吐蛔	tu hui	0
+下利清谷	xia li qing gu	0
+下利清谷	xia li qing yu	0
+冒家	mao jia	0
+冒家	mo jia	0
+荣弱卫强	rong ruo wei qiang	0
+往来寒热	wang lai han re	0
+胸胁苦满	xiong xie ku man	0
+默默不欲饮食	mo mo bu yu yin shi	0
+心烦喜呕	xin fan xi ou	0
+胁下痞硬	xie xia pi ying	0
+身有微热	shen you wei re	0
+脉迟浮弱	mai chi fu ruo	0
+脉迟浮弱	mo chi fu ruo	0
+阳脉涩阴脉弦	yang mai se yin mai xian	0
+腹中急痛	fu zhong ji tong	0
+柴胡证	chai hu zheng	0
+但见一证便是不必悉具	dan jian yi zheng bian shi bu bi xi ju	0
+呕家	ou jia	0
+心中悸而烦	xin zhong ji er fan	0
+日晡所发潮热	ri bu suo fa chao re	0
+热结膀胱	re jie pang guang	0
+少腹急结	shao fu ji jie	0
+血自下	xie zi xia	0
+血自下	xue zi xia	0
+腹满谵语	fu man zhan yu	0
+肝乘脾	gan cheng pi	0
+肝乘脾	gan sheng pi	0
+肝乘肺	gan cheng fei	0
+肝乘肺	gan sheng fei	0
+从腰已下不得汗	cong yao yi xia bu de han	0
+从腰已下不得汗	zong yao yi xia bu de han	0
+头卓然而痛	tou zhuo ran er tong	0
+谷气下流	gu qi xia liu	0
+谷气下流	yu qi xia liu	0
+身发黄	shen fa huang	0
+其人如狂	qi ren ru kuang	0
+手足躁扰	shou zu zao rao	0
+捻衣摸床	nian yi mo chuang	0
+捻衣摸床	nie yi mo chuang	0
+惊狂	jing kuang	0
+咽燥唾血	yan zao tuo xie	0
+咽燥唾血	yan zao tuo xue	0
+火逆	huo ni	0
+腹中饥	fu zhong ji	0
+欲食冷食	yu shi leng shi	0
+欲食冷食	yu si leng shi	0
+欲食冷食	yu yi leng shi	0
+朝食暮吐	zhao shi mu tu	0
+朝食暮吐	chao shi mu tu	0
+朝食暮吐	zhao si mu tu	0
+朝食暮吐	zhao yi mu tu	0
+朝食暮吐	chao si mu tu	0
+朝食暮吐	chao yi mu tu	0
+口不能食	kou bu neng shi	0
+口不能食	kou bu neng si	0
+口不能食	kou bu neng yi	0
+心下温温欲吐	xin xia wen wen yu tu	0
+胸中痛	xiong zhong tong	0
+大便反溏	da bian fan tang	0
+腹微满	fu wei man	0
+郁郁微烦	yu yu wei fan	0
+先此时	xian ci shi	0
+若不尔	ruo bu er	0
+不可与	bu ke yu	0
+但欲呕	dan yu ou	0
+微溏	wei tang	0
+太阳病六七日	tai yang bing liu qi ri	0
+脉微而沉	mai wei er chen	0
+脉微而沉	mo wei er chen	0
+反不结胸	fan bu jie xiong	0
+其人发狂	qi ren fa kuang	0
+热在下焦	re zai xia jiao	0
+少腹当硬满	shao fu dang ying man	0
+小便自利	xiao bian zi li	0
+下血乃愈	xia xue nai yu	0
+太阳随经	tai yang sui jing	0
+瘀热在里	yu re zai li	0
+身黄脉沉结	shen huang mai chen jie	0
+少腹硬	shao fu ying	0
+亾血	wang xie	0
+亾血	wang xue	0
+血证谛	xue zheng di	0
+伤寒有热	shang han you re	0
+少腹满	shao fu man	0
+当下之	dang xia zhi	0
+必心下悸	bi xin xia ji	0
+苦里急	ku li ji	0
+结胸	jie xiong	0
+藏结	cang jie	0
+藏结	zang jie	0
+按之痛	an zhi tong	0
+寸脉浮	cun mai fu	0
+寸脉浮	cun mo fu	0
+关脉沉	guan mai chen	0
+饮食如故	yin shi ru gu	0
+时时下利	shi shi xia li	0
+关脉小细沉紧	guan mai xiao xi chen jin	0
+关脉小细沉紧	guan mo xiao xi chen jin	0
+舌上白胎滑者	she shang bai tai hua zhe	0
+藏结无阳证	cang jie wu yang zheng	0
+藏结无阳证	zang jie wu yang zheng	0
+不往来寒热	bu wang lai han re	0
+其人反静	qi ren fan jing	0
+上胎滑者	shang tai hua zhe	0
+病发于阳	bing fa yu yang	0
+病发于阴	bing fa yu yin	0
+以下之太早故也	yi xia zhi tai zao gu ye	0
+柔痉状	rou jing zhuang	0
+下之则和	xia zhi ze he	0
+下之则和	xia zhi ze hu	0
+下之则和	xia zhi ze huo	0
+脉浮大	mai fu da	0
+脉浮大	mai fu dai	0
+脉浮大	mai fu tai	0
+脉浮大	mo fu da	0
+脉浮大	mo fu dai	0
+脉浮大	mo fu tai	0
+下之则死	xia zhi ze si	0
+结胸证悉具	jie xiong zheng xi ju	0
+脉浮而动数	mai fu er dong shu	0
+脉浮而动数	mai fu er dong shuo	0
+脉浮而动数	mo fu er dong shu	0
+脉浮而动数	mo fu er dong shuo	0
+浮则为风数则为热	fu ze wei feng shu ze wei re	0
+浮则为风数则为热	fu ze wei feng shuo ze wei re	0
+动则为痛数则为虚	dong ze wei tong shu ze wei xu	0
+动则为痛数则为虚	dong ze wei tong shuo ze wei xu	0
+微盗汗出而反恶寒	wei dao han chu er fan e han	0
+膈内拒痛	ge nei ju tong	0
+膈内拒痛	ge na ju tong	0
+胃中空虚	wei zhong kong xu	0
+客气动膈	ke qi dong ge	0
+短气躁烦	duan qi zao fan	0
+阳气内陷	yang qi nei xian	0
+心下因硬	xin xia yin ying	0
+伤寒六七日	shang han liu qi ri	0
+结胸热实	jie xiong re shi	0
+脉沉而紧	mai chen er jin	0
+心下痛	xin xia tong	0
+按之石硬	an zhi shi ying	0
+伤寒十余日	shang han shi yu ri	0
+热结在里	re jie zai li	0
+复往来寒热	fu wang lai han re	0
+但结胸无大热	dan jie xiong wu da re	0
+水结在胸胁	shui jie zai xiong xie	0
+但头微汗出	dan tou wei han chu	0
+重发汗而复下之	chong fa han er fu xia zhi	0
+不大便五六日	bu da bian wu liu ri	0
+不大便五六日	bu da pian wu liu ri	0
+舌上燥而渴	she shang zao er ke	0
+日晡所小有潮热	ri bu suo xiao you chao re	0
+小结胸病	xiao jie xiong bing	0
+正在心下	zheng zai xin xia	0
+按之则痛	an zhi ze tong	0
+脉浮滑	mai fu hua	0
+脉浮滑	mo fu hua	0
+太阳病二三日	tai yang bing er san ri	0
+不能卧但欲起	bu neng wo dan yu qi	0
+心下必结	xin xia bi jie	0
+本有寒分	ben you han fen	0
+反下之若利止必作结胸	fan xia zhi ruo li zhi bi zuo jie xiong	0
+反下之若利止必作结胸	fan xia zhi re li zhi bi zuo jie xiong	0
+太阳病下之	tai yang bing xia zhi	0
+其脉促	qi mai cu	0
+其脉促	ji mai cu	0
+其脉促	qi mo cu	0
+其脉促	ji mo cu	0
+不结胸	bu jie xiong	0
+为欲解	wei yu jie	0
+为欲解	wei yu xie	0
+必结胸	bi jie xiong	0
+必咽痛	bi yan tong	0
+必两胁拘急	bi liang xie ju ji	0
+头痛未	tou tong wei	0
+必欲呕	bi yu ou	0
+协热利	xie re li	0
+必下血	bi xia xie	0
+必下血	bi xia xue	0
+病在阳应以汗解之	bing zai yang ying yi han jie zhi	0
+病在阳应以汗解之	bing zai yang ying yi han xie zhi	0
+太阳与少阳并病	tai yang yu shao yang bing bing	0
+头项强痛	tou xiang qiang tong	0
+头项强痛	tou xiang jiang tong	0
+或眩冒	huo xuan mao	0
+或眩冒	huo xuan mo	0
+时如结胸	shi ru jie xiong	0
+心下痞硬	xin xia pi ying	0
+慎不可发汗	shen bu ke fa han	0
+发汗则谵语	fa han ze zhan yu	0
+脉弦	mai xian	0
+谵语不止当刺期门	zhan yu bu zhi dang ci qi men	0
+妇人中风	fu ren zhong feng	0
+经水适来	jing shui shi lai	0
+得之七八日	de zhi qi ba ri	0
+热除而脉迟身凉	re chu er mai chi shen liang	0
+热除而脉迟身凉	re chu er mo chi shen liang	0
+胸胁下满	xiong xie xia man	0
+热入血室	re ru xie shi	0
+热入血室	re ru xue shi	0
+随其实而泻之	sui qi shi er xie zhi	0
+续得寒热	xu de han re	0
+续得寒热	xu dei han re	0
+发作有时	fa zuo you shi	0
+经水适断	jing shui shi duan	0
+其血必结	qi xie bi jie	0
+其血必结	qi xue bi jie	0
+其血必结	ji xie bi jie	0
+其血必结	ji xue bi jie	0
+伤寒发热	shang han fa re	0
+昼日明了暮则谵语	zhou ri ming liao mu ze zhan yu	0
+昼日明了暮则谵语	zhou ri ming le mu ze zhan yu	0
+如见鬼状	ru jian gui zhuang	0
+无犯胃气及上二焦	wu fan wei qi ji shang er jiao	0
+发热微恶寒	fa re wei e han	0
+支节烦疼	zhi jie fan teng	0
+微呕	wei ou	0
+心下支结	xin xia zhi jie	0
+外证未去	wai zheng wei qu	0
+伤寒五六日	shang han wu liu ri	0
+已发汗而复下之	yi fa han er fu xia zhi	0
+胸胁满	xiong xie man	0
+微结	wei jie	0
+渴而不呕	ke er bu ou	0
+但头汗出	dan tou han chu	0
+往来寒热心烦	wang lai han re xin fan	0
+此为未解	ci wei wei jie	0
+初服微烦	chu fu wei fan	0
+复服汗出	fu fu han chu	0
+头汗出	tou han chu	0
+微恶寒	wei e han	0
+手足冷	shou zu leng	0
+口不欲食	kou bu yu shi	0
+口不欲食	kou bu yu si	0
+口不欲食	kou bu yu yi	0
+大便硬	da bian ying	0
+脉细	mai xi	0
+阳微结	yang wei jie	0
+汗出为阳微	han chu wei yang wei	0
+半在里半在外	ban zai li ban zai wai	0
+阴不得有汗	yin bu de you han	0
+不了了者	bu liao liao zhe	0
+呕而发热	ou er fa re	0
+柴胡汤证具	chai hu tang zheng ju	0
+柴胡汤证具	chai hu shang zheng ju	0
+柴胡证仍在者	chai hu zheng reng zai zhe	0
+蒸蒸而振	zheng zheng er zhen	0
+发热汗出而解	fa re han chu er jie	0
+发热汗出而解	fa re han chu er xie	0
+心下满而硬痛	xin xia man er ying tong	0
+但满而不痛	dan man er bu tong	0
+太阳少阳并病	tai yang shao yang bing bing	0
+下利不止	xia li bu zhi	0
+水浆不下	shui jiang bu xia	0
+其人心烦	qi ren xin fan	0
+脉浮而紧	mai fu er jin	0
+脉浮而紧	mo fu er jin	0
+按之自濡	an zhi zi ru	0
+气痞	qi pi	0
+下利	xia li	0
+表解者乃可攻之	biao jie zhe nai ke gong zhi	0
+表解里未和	biao jie li wei he	0
+表解里未和	biao jie li wei hu	0
+表解里未和	biao jie li wei huo	0
+表里俱虚阴阳气并竭	biao li ju xu yin yang qi bing jie	0
+无阳则阴独	wu yang ze yin du	0
+心下痞按之濡	xin xia pi an zhi ru	0
+心下痞而复恶寒	xin xia pi er fu e han	0
+痞不解	pi bu jie	0
+渴而口燥烦	ke er kou zao fan	0
+胃中不和	wei zhong bu he	0
+干噫食臭	gan yi shi chou	0
+干噫食臭	gan yi si chou	0
+干噫食臭	gan yi yi chou	0
+干噫食臭	gan yi shi xiu	0
+干噫食臭	gan yi si xiu	0
+干噫食臭	gan yi yi xiu	0
+胁下有水气	xie xia you shui qi	0
+腹中雷鸣下利	fu zhong lei ming xia li	0
+伤寒中风	shang han zhong feng	0
+其人下利日数十行	qi ren xia li ri shu shi hang	0
+谷不化	gu bu hua	0
+谷不化	yu bu hua	0
+腹中雷鸣	fu zhong lei ming	0
+心下痞硬而满	xin xia pi ying er man	0
+干呕心烦不得安	gan ou xin fan bu de an	0
+其痞益甚	qi pi yi shen	0
+其痞益甚	ji pi yi shen	0
+胃中虚客气上逆	wei zhong xu ke qi shang ni	0
+理中者理中焦	li zhong zhe li zhong jiao	0
+当利其小便	dang li qi xiao bian	0
+当利其小便	dang li ji xiao bian	0
+虚烦	xu fan	0
+脉甚微	mai shen wei	0
+脉甚微	mo shen wei	0
+气上冲咽喉	qi shang chong yan hou	0
+眩冒	xuan mao	0
+眩冒	xuan mo	0
+经脉动惕	jing mai dong ti	0
+久而成痿	jiu er cheng wei	0
+噫气不除	yi qi bu chu	0
+协热而利	xie re er li	0
+表里不解	biao li bu jie	0
+复发汗	fu fa han	0
+心下痞	xin xia pi	0
+不可攻痞	bu ke gong pi	0
+当先解表	dang xian jie biao	0
+表解乃可攻痞	biao jie nai ke gong pi	0
+解表宜桂枝汤	jie biao yi gui zhi tang	0
+攻痞宜大黄黄连泻心汤	gong pi yi dai huang huang lian xie xin tang	0
+攻痞宜大黄黄连泻心汤	gong pi yi dai huang huang lian xie xin shang	0
+呕吐而下利者	ou tu er xia li zhe	0
+病如桂枝证	bing ru gui zhi zheng	0
+头不痛	tou bu tong	0
+项不强	xiang bu qiang	0
+寸脉微浮	cun mai wei fu	0
+寸脉微浮	cun mo wei fu	0
+胸中痞硬	xiong zhong pi ying	0
+气上冲咽喉不得息	qi shang chong yan hou bu de xi	0
+当吐之	dang tu zhi	0
+亡血虚家	wang xue xu jia	0
+亡血虚家	wu xue xu jia	0
+七八日不解	qi ba ri bu jie	0
+表里俱热	biao li ju re	0
+时时恶风	shi shi e feng	0
+大渴	da ke	0
+大渴	dai ke	0
+大渴	tai ke	0
+舌上干燥而烦	she shang gan zao er fan	0
+欲饮水数升	yu yin shui shu sheng	0
+欲饮水数升	yu yin shui shuo sheng	0
+口燥渴	kou zao ke	0
+心烦	xin fan	0
+背微恶寒	bei wei e han	0
+伤寒脉浮	shang han mai fu	0
+伤寒脉浮	shang han mo fu	0
+发热无汗	fa re wu han	0
+其表不解	qi biao bu jie	0
+其表不解	ji biao bu jie	0
+渴欲饮水	ke yu yin shui	0
+无表证	wu biao zheng	0
+心下硬	xin xia ying	0
+颈项强而眩	jing xiang qiang er xuan	0
+颈项强而眩	jing xiang jiang er xuan	0
+慎勿下之	shen wu xia zhi	0
+太阳与少阳合病	tai yang yu shao yang he bing	0
+太阳与少阳合病	tai yang yu shao yang ge bing	0
+胸中有热	xiong zhong you re	0
+胃中有邪气	wei zhong you xie qi	0
+腹中痛欲呕吐	fu zhong tong yu ou tu	0
+黄连汤方	huang lian tang fang	0
+黄连汤方	huang lian shang fang	0
+伤寒八九日	shang han ba jiu ri	0
+风湿相搏	feng shi xiang bo	0
+身体疼烦	shen ti teng fan	0
+不能自转侧	bu neng zi zhuan ce	0
+不能自转侧	bu neng zi zhuan ze	0
+不能自转侧	bu neng zi zhuan zhai	0
+脉浮虚而涩	mai fu xu er se	0
+脉浮虚而涩	mo fu xu er se	0
+其人大便硬小便自利	qi ren da bian ying xiao bian zi li	0
+骨节烦疼	gu jie fan teng	0
+掣痛不得屈伸	che tong bu de qu shen	0
+近之则痛剧	jin zhi ze tong ju	0
+汗出短气	han chu duan qi	0
+恶风不欲去衣	e feng bu yu qu yi	0
+身微肿	shen wei zhong	0
+表有热里有寒	biao you re li you han	0
+脉结代心动悸	mai jie dai xin dong ji	0
+脉结代心动悸	mo jie dai xin dong ji	0
+复脉汤	fu mai tang	0
+复脉汤	fu mo tang	0
+复脉汤	fu mai shang	0
+复脉汤	fu mo shang	0
+太阳阳明	tai yang yang ming	0
+正阳阳明	zheng yang yang ming	0
+少阳阳明	shao yang yang ming	0
+脾约	pi yue	0
+脾约	pi yao	0
+胃家实	wei jia shi	0
+利小便已	li xiao bian yi	0
+胃中燥烦实大便难	wei zhong zao fan shi da bian nan	0
+胃中燥烦实大便难	wei zhong zao fan shi da bian nuo	0
+阳明之为病	yang ming zhi wei bing	0
+胃中干燥	wei zhong gan zao	0
+转属阳明	zhuan shu yang ming	0
+转属阳明	zhuai shu yang ming	0
+转属阳明	zhuan zhu yang ming	0
+转属阳明	zhuai zhu yang ming	0
+不更衣内实大便难	bu geng yi nei shi da bian nan	0
+不更衣内实大便难	fou geng yi nei shi da bian nan	0
+不更衣内实大便难	bu geng yi na shi da bian nan	0
+不更衣内实大便难	bu geng yi nei shi da bian nuo	0
+不更衣内实大便难	fou geng yi na shi da bian nan	0
+不更衣内实大便难	fou geng yi nei shi da bian nuo	0
+不更衣内实大便难	bu geng yi na shi da bian nuo	0
+不更衣内实大便难	fou geng yi na shi da bian nuo	0
+不发热而恶寒	bu fa re er e han	0
+恶寒将自罢	e han jiang zi ba	0
+恶寒将自罢	e han qiang zi ba	0
+恶寒将自罢	e han jiang zi pi	0
+恶寒将自罢	e han qiang zi pi	0
+自汗出而恶热	zi han chu er e re	0
+自汗出而恶热	zi han chu er wu re	0
+太阳初得病时	tai yang chu de bing shi	0
+发其汗	fa qi han	0
+发其汗	fa ji han	0
+汗先出不彻	han xian chu bu che	0
+汗先出不彻	han xian chu fou che	0
+呕不能食	ou bu neng shi	0
+呕不能食	ou bu neng si	0
+呕不能食	ou bu neng yi	0
+汗出濈濈然	han chu ji ji ran	0
+汗出濈濈然	han chu sha ji ran	0
+汗出濈濈然	han chu ji sha ran	0
+汗出濈濈然	han chu sha sha ran	0
+伤寒三日阳明脉	shang han san ri yang ming mai	0
+伤寒三日阳明脉	shang han san ri yang ming mo	0
+脉浮而缓	mai fu er huan	0
+脉浮而缓	mo fu er huan	0
+手足自温	shou zu zi wen	0
+身当发黄	shen dang fa huang	0
+不能发黄	bu neng fa huang	0
+伤寒转系阳明	shang han zhuan xi yang ming	0
+其人濈然微汗出	qi ren ji ran wei han chu	0
+其人濈然微汗出	qi ren sha ran wei han chu	0
+阳明中风	yang ming zhong feng	0
+口苦咽干	kou ku yan gan	0
+腹满微喘	fu man wei chuan	0
+若能食	ruo neng shi	0
+若能食	ruo neng si	0
+若能食	ruo neng yi	0
+不能食	bu neng shi	0
+不能食	bu neng si	0
+不能食	bu neng yi	0
+中寒	zhong han	0
+手足濈然汗出	shou zu ji ran han chu	0
+手足濈然汗出	shou zu sha ran han chu	0
+欲作固瘕	yu zuo gu jia	0
+欲作固瘕	yu zuo gu xia	0
+大便初硬后溏	da bian chu ying hou tang	0
+胃中冷水谷不别	wei zhong leng shui gu bu bie	0
+胃中冷水谷不别	wei zhong leng shui yu bu bie	0
+胃中冷水谷不别	wei zhong leng shui gu fou bie	0
+胃中冷水谷不别	wei zhong leng shui yu fou bie	0
+小便反不利	xiao bian fan bu li	0
+大便自调	da bian zi tiao	0
+其人骨节疼	qi ren gu jie teng	0
+翕翕如有热状	xi xi ru you re zhuang	0
+奄然发狂	yan ran fa kuang	0
+濈然汗出而解	ji ran han chu er jie	0
+濈然汗出而解	sha ran han chu er jie	0
+濈然汗出而解	ji ran han chu er xie	0
+濈然汗出而解	sha ran han chu er xie	0
+水不胜谷气与汗共并	shui bu sheng gu qi yu han gong bing	0
+水不胜谷气与汗共并	shui bu sheng yu qi yu han gong bing	0
+脉紧则愈	mai jin ze yu	0
+脉紧则愈	mo jin ze yu	0
+阳明病欲解时	yang ming bing yu jie shi	0
+阳明病欲解时	yang ming bing yu xie shi	0
+从申至戌上	cong shen zhi xu shang	0
+从申至戌上	zong shen zhi xu shang	0
+攻其热必哕	gong qi re bi yue	0
+攻其热必哕	gong ji re bi yue	0
+攻其热必哕	gong qi re bi hui	0
+攻其热必哕	gong ji re bi hui	0
+胃中虚冷故	wei zhong xu leng gu	0
+其人本虚	qi ren ben xu	0
+食难用饱	shi nan yong bao	0
+食难用饱	si nan yong bao	0
+食难用饱	yi nan yong bao	0
+饱则微烦	bao ze wei fan	0
+谷疸	gu dan	0
+谷疸	yu dan	0
+腹满如故	fu man ru gu	0
+阳明病法多汗	yang ming bing fa duo han	0
+身如虫行皮中状	shen ru chong hang pi zhong zhuang	0
+身如虫行皮中状	shen ru chong xing pi zhong zhuang	0
+呕而咳	ou er ke	0
+呕而咳	ou er hai	0
+手足厥	shou zu jue	0
+苦头痛	ku tou tong	0
+不咳不呕	bu ke bu ou	0
+不咳不呕	fou ke bu ou	0
+不咳不呕	bu hai bu ou	0
+不咳不呕	bu ke fou ou	0
+不咳不呕	fou hai bu ou	0
+不咳不呕	fou ke fou ou	0
+不咳不呕	bu hai fou ou	0
+不咳不呕	fou hai fou ou	0
+手足不厥	shou zu bu jue	0
+手足不厥	shou zu fou jue	0
+但头眩	dan tou xuan	0
+能食而咳	neng shi er ke	0
+能食而咳	nai shi er ke	0
+能食而咳	neng si er ke	0
+能食而咳	neng yi er ke	0
+能食而咳	neng shi er hai	0
+能食而咳	nai si er ke	0
+能食而咳	nai yi er ke	0
+能食而咳	nai shi er hai	0
+能食而咳	neng si er hai	0
+能食而咳	neng yi er hai	0
+能食而咳	nai si er hai	0
+能食而咳	nai yi er hai	0
+咽痛	yan tong	0
+咽不痛	yan bu tong	0
+咽不痛	ye bu tong	0
+身必发黄	shen bi fa huang	0
+额上微汗出	e shang wei han chu	0
+必潮热	bi chao re	0
+必盗汗出	bi dao han chu	0
+口燥	kou zao	0
+漱水不欲咽	shu shui bu yu yan	0
+漱水不欲咽	shu shui bu yu ye	0
+必衄	bi nv	0
+微烦不了了	wei fan bu liao liao	0
+亡津液	wang jin ye	0
+亡津液	wu jin ye	0
+津液当还入胃中	jin ye dang hai ru wei zhong	0
+津液当还入胃中	jin ye dang huan ru wei zhong	0
+不久必大便	bu jiu bi da bian	0
+利止者愈	li zhi zhe yu	0
+面合赤色	mian he chi se	0
+面合赤色	mian ge chi se	0
+不吐不下	bu tu bu xia	0
+短气腹满而	duan qi fu man er	0
+有潮热	you chao re	0
+外欲解可攻里	wai yu jie ke gong li	0
+外欲解可攻里	wai yu xie ke gong li	0
+手足濈然而汗出	shou zu ji ran er han chu	0
+手足濈然而汗出	shou zu sha ran er han chu	0
+汗多微发热恶寒	han duo wei fa re e han	0
+外未解	wai wei jie	0
+其热不潮	qi re bu chao	0
+其热不潮	ji re bu chao	0
+微和胃气	wei he wei qi	0
+微和胃气	wei hu wei qi	0
+微和胃气	wei huo wei qi	0
+实则谵语虚则郑声	shi ze zhan yu xu ze zheng sheng	0
+郑声重语也	zheng sheng zhong yu ye	0
+郑声重语也	zheng sheng chong yu ye	0
+谵语脉短者死	zhan yu mai duan zhe si	0
+谵语脉短者死	zhan yu mo duan zhe si	0
+脉自和者不死	mai zi he zhe bu si	0
+脉自和者不死	mo zi he zhe bu si	0
+脉自和者不死	mai zi hu zhe bu si	0
+脉自和者不死	mai zi huo zhe bu si	0
+脉自和者不死	mo zi hu zhe bu si	0
+脉自和者不死	mo zi huo zhe bu si	0
+循衣摸床	xun yi mo chuang	0
+惕而不安	ti er bu an	0
+微喘直视	wei chuan zhi shi	0
+脉弦者生涩者死	mai xian zhe sheng se zhe si	0
+阳明病	yang ming bing	0
+其人多汗	qi ren duo han	0
+津液外出	jin ye wai chu	0
+胃中燥	wei zhong zao	0
+大便必硬	da bian bi ying	0
+谵语发潮热	zhan yu fa chao re	0
+脉滑而疾	mai hua er ji	0
+腹中转矢气	fu zhong zhuan shi qi	0
+腹中转矢气	fu zhong zhuai shi qi	0
+脉反微涩	mai fan wei se	0
+脉反微涩	mo fan wei se	0
+谵语有潮热	zhan yu you chao re	0
+胃中必有燥屎五六枚	wei zhong bi you zao shi wu liu mei	0
+下血谵语	xia xue zhan yu	0
+濈然汗出则愈	ji ran han chu ze yu	0
+濈然汗出则愈	sha ran han chu ze yu	0
+汗出谵语	han chu zhan yu	0
+燥屎在胃中	zao shi zai wei zhong	0
+过经乃可下之	guo jing nai ke xia zhi	0
+表虚里实	biao xu li shi	0
+伤寒四五日	shang han si wu ri	0
+脉沉而喘满	mai chen er chuan man	0
+沉为在里	chen wei zai li	0
+反发其汗	fan fa qi han	0
+反发其汗	fan fa ji han	0
+津液越出	jin ye yue chu	0
+大便为难	da bian wei nan	0
+三阳合病	san yang he bing	0
+三阳合病	san yang ge bing	0
+腹满身重	fu man shen zhong	0
+难以转侧	nan yi zhuan ce	0
+难以转侧	nan yi zhuai ce	0
+难以转侧	nan yi zhuan ze	0
+难以转侧	nan yi zhuan zhai	0
+难以转侧	nan yi zhuai ze	0
+难以转侧	nan yi zhuai zhai	0
+口不仁	kou bu ren	0
+面垢	mian gou	0
+谵语遗尿	zhan yu yi niao	0
+额上生汗	e shang sheng han	0
+手足逆冷	shou zu ni leng	0
+二阳并病	er yang bing bing	0
+但发潮热	dan fa chao re	0
+大便难	da bian nuo	0
+下之则愈	xia zhi ze yu	0
+咽燥口苦	yan zao kou ku	0
+腹满而喘	fu man er chuan	0
+发热汗出	fa re han chu	0
+不恶寒反恶热	bu e han fan e re	0
+不恶寒反恶热	bu e han fan wu re	0
+不恶寒反恶热	fou e han fan e re	0
+不恶寒反恶热	fou e han fan wu re	0
+发汗则躁	fa han ze zao	0
+心愦愦	xin kui kui	0
+反谵语	fan zhan yu	0
+烧针	shao zhen	0
+必怵惕烦躁	bi chu ti fan zao	0
+不得眠	bu de mian	0
+口干舌燥	kou gan she zao	0
+脉浮发热	mai fu fa re	0
+脉浮发热	mo fu fa re	0
+汗出多而渴	han chu duo er ke	0
+汗多胃中燥	han duo wei zhong zao	0
+脉浮而迟	mai fu er chi	0
+脉浮而迟	mo fu er chi	0
+表热里寒	biao re li han	0
+胃中虚冷	wei zhong xu leng	0
+饮水则哕	yin shui ze yue	0
+饮水则哕	yin shui ze hui	0
+口干鼻燥	kou gan bi zao	0
+其外有热	qi wai you re	0
+手足温	shou zu wen	0
+饥不能食	ji bu neng shi	0
+饥不能食	ji bu neng si	0
+饥不能食	ji bu neng yi	0
+大便溏	da bian tang	0
+小便自可	xiao bian zi ke	0
+胸胁满不去	xiong xie man bu qu	0
+胁下硬满	xie xia ying man	0
+不大便而呕	bu da bian er ou	0
+不大便而呕	bu da pian er ou	0
+舌上白胎	she shang bai tai	0
+上焦得通津液得下	shang jiao de tong jin ye de xia	0
+上焦得通津液得下	shang jiao dei tong jin ye de xia	0
+胃气因和	wei qi yin he	0
+胃气因和	wei qi yin hu	0
+胃气因和	wei qi yin huo	0
+濈然而汗出解	ji ran er han chu jie	0
+濈然而汗出解	sha ran er han chu jie	0
+濈然而汗出解	ji ran er han chu xie	0
+濈然而汗出解	sha ran er han chu xie	0
+脉弦浮大而短气	mai xian fu da er duan qi	0
+脉弦浮大而短气	mai xian fu dai er duan qi	0
+脉弦浮大而短气	mai xian fu tai er duan qi	0
+按之气不通	an zhi qi bu tong	0
+鼻干不得汗	bi gan bu de han	0
+一身及面目悉黄	yi shen ji mian mu xi huang	0
+时时哕	shi shi yue	0
+时时哕	shi shi hui	0
+耳前后肿	er qian hou zhong	0
+病过十日	bing guo shi ri	0
+脉续浮	mai xu fu	0
+脉续浮	mo xu fu	0
+脉但浮无余证	mai dan fu wu yu zheng	0
+脉但浮无余证	mo dan fu wu yu zheng	0
+若不尿	ruo bu niao	0
+若不尿	ruo bu sui	0
+腹满加哕	fu man jia yue	0
+腹满加哕	fu man jia hui	0
+津液内竭	jin ye nei jie	0
+津液内竭	jin ye na jie	0
+虽硬不可攻	sui ying bu ke gong	0
+蜜煎导而通之	mi jian dao er tong zhi	0
+发汗则愈	fa han ze yu	0
+热越	re yue	0
+黄从小便去	huang cong xiao bian qu	0
+黄从小便去	huang cong xiao pian qu	0
+绕脐痛	rao qi tong	0
+烦躁	fan zao	0
+日晡所发热	ri bu suo fa re	0
+脉实者宜下之	mai shi zhe yi xia zhi	0
+脉实者宜下之	mo shi zhe yi xia zhi	0
+脉浮虚者宜发汗	mai fu xu zhe yi fa han	0
+脉浮虚者宜发汗	mo fu xu zhe yi fa han	0
+下之与大承气汤	xia zhi yu da cheng qi tang	0
+下之与大承气汤	xia zhi yu dai cheng qi tang	0
+下之与大承气汤	xia zhi yu tai cheng qi tang	0
+下之与大承气汤	xia zhi yu da cheng qi shang	0
+下之与大承气汤	xia zhi yu dai cheng qi shang	0
+下之与大承气汤	xia zhi yu tai cheng qi shang	0
+发汗宜桂枝汤	fa han yi gui zhi tang	0
+喘冒不能卧	chuan mao bu neng wo	0
+喘冒不能卧	chuan mo bu neng wo	0
+食谷欲呕	shi gu yu ou	0
+食谷欲呕	si gu yu ou	0
+食谷欲呕	yi gu yu ou	0
+食谷欲呕	shi yu yu ou	0
+食谷欲呕	si yu yu ou	0
+食谷欲呕	yi yu yu ou	0
+得汤反剧	de tang fan ju	0
+得汤反剧	dei tang fan ju	0
+得汤反剧	de shang fan ju	0
+得汤反剧	dei shang fan ju	0
+寸缓关浮尺弱	cun huan guan fu chi ruo	0
+寸缓关浮尺弱	cun huan guan fu che ruo	0
+阳绝于里	yang jue yu li	0
+脉浮而芤	mai fu er kou	0
+脉浮而芤	mo fu er kou	0
+浮为阳	fu wei yang	0
+芤为阴	kou wei yin	0
+浮芤相搏	fu kou xiang bo	0
+胃气生热	wei qi sheng re	0
+趺阳脉浮而涩	fu yang mai fu er se	0
+浮则胃气强涩则小便数	fu ze wei qi qiang se ze xiao bian shu	0
+浮则胃气强涩则小便数	fu ze wei qi qiang se ze xiao bian shuo	0
+浮则胃气强涩则小便数	fu ze wei qi jiang se ze xiao bian shu	0
+浮则胃气强涩则小便数	fu ze wei qi jiang se ze xiao bian shuo	0
+浮涩相搏大便则难	fu se xiang bo da bian ze nan	0
+浮涩相搏大便则难	fu se xiang bo da bian ze nuo	0
+其脾为约	qi pi wei yue	0
+其脾为约	ji pi wei yue	0
+其脾为约	qi pi wei yao	0
+其脾为约	ji pi wei yao	0
+太阳柴胡证	tai yang chai hu zheng	0
+目中不了了	mu zhong bu liao liao	0
+睛不和	jing bu he	0
+腹满不减减不足言	fu man bu jian jian bu zu yan	0
+阳明少阳合病	yang ming shao yang he bing	0
+阳明少阳合病	yang ming shao yang ge bing	0
+于寒湿中求之	yu han shi zhong qiu zhi	0
+身黄如橘子色	shen huang ru ju zi se	0
+身黄如橘子色	shen huang ru ju zi shai	0
+伤寒身黄发热	shang han shen huang fa re	0
+栀子蘖皮汤主	zhi zi nie pi tang zhu	0
+栀子蘖皮汤主	zhi zi nie pi shang zhu	0
+瘀热在里身必发黄	yu re zai li shen bi fa huang	0
+少阳之为病	shao yang zhi wei bing	0
+口苦咽干目眩	kou ku yan gan mu xuan	0
+少阳中风	shao yang zhong feng	0
+两耳无所闻	liang er wu suo wen	0
+目赤	mu chi	0
+胸中满而烦	xiong zhong man er fan	0
+吐下则悸而惊	tu xia ze ji er jing	0
+脉弦细	mai xian xi	0
+少阳不可发汗	shao yang bu ke fa han	0
+胃和则愈	wei he ze yu	0
+胃和则愈	wei hu ze yu	0
+胃和则愈	wei huo ze yu	0
+胃不和则烦而悸	wei bu he ze fan er ji	0
+太阳病不解	tai yang bing bu jie	0
+转入少阳	zhuan ru shao yang	0
+干呕不能食	gan ou bu neng shi	0
+干呕不能食	gan ou bu neng si	0
+干呕不能食	gan ou bu neng yi	0
+知犯何逆以法治之	zhi fan he ni yi fa zhi zhi	0
+伤寒三日	shang han san ri	0
+三阳为尽三阴当受邪	san yang wei jin san yin dang shou xie	0
+三阳为尽三阴当受邪	san yang wei jin san yin dang shou xu	0
+三阳为尽三阴当受邪	san yang wei jin san yin dang shou ya	0
+三阳为尽三阴当受邪	san yang wei jin san yin dang shou ye	0
+三阳为尽三阴当受邪	san yang wei jin san yin dang shou yu	0
+少阳脉小	shao yang mai xiao	0
+少阳脉小	shao yang mo xiao	0
+少阳病欲解时	shao yang bing yu jie shi	0
+少阳病欲解时	shao yang bing yu xie shi	0
+从寅至辰上	cong yin zhi chen shang	0
+从寅至辰上	zong yin zhi chen shang	0
+太阴之为病	tai yin zhi wei bing	0
+腹满而吐	fu man er tu	0
+食不下	shi bu xia	0
+食不下	si bu xia	0
+食不下	yi bu xia	0
+自利益甚	zi li yi shen	0
+时腹自痛	shi fu zi tong	0
+太阴中风	tai yin zhong feng	0
+四肢烦疼	si zhi fan teng	0
+阳微阴涩	yang wei yin se	0
+长者为欲愈	zhang zhe wei yu yu	0
+太阴病欲解时	tai yin bing yu jie shi	0
+太阴病欲解时	tai yin bing yu xie shi	0
+从亥至丑上	cong hai zhi chou shang	0
+从亥至丑上	zong hai zhi chou shang	0
+自利不渴者属太阴	zi li bu ke zhe shu tai yin	0
+自利不渴者属太阴	zi li bu ke zhe zhu tai yin	0
+藏有寒	cang you han	0
+当温之	dang wen zhi	0
+四逆辈	si ni bei	0
+脾家实	pi jia shi	0
+腹满时痛	fu man shi tong	0
+其人胃气弱	qi ren wei qi ruo	0
+少阴之为病	shao yin zhi wei bing	0
+脉微细但欲寐	mai wei xi dan yu mei	0
+脉微细但欲寐	mo wei xi dan yu mei	0
+欲吐不吐	yu tu bu tu	0
+心烦但欲寐	xin fan dan yu mei	0
+自利而渴	zi li er ke	0
+虚故引水自救	xu gu yin shui zi jiu	0
+小便色白	xiao bian se bai	0
+小便色白	xiao bian shai bai	0
+少阴病形悉具	shao yin bing xing xi ju	0
+下焦虚有寒	xia jiao xu you han	0
+不能制水	bu neng zhi shui	0
+反汗出	fan han chu	0
+属少阴	shu shao yin	0
+属少阴	zhu shao yin	0
+咳而下利谵语	ke er xia li zhan yu	0
+咳而下利谵语	hai er xia li zhan yu	0
+脉细沉数	mai xi chen shu	0
+脉细沉数	mai xi chen shuo	0
+脉微不可发汗	mai wei bu ke fa han	0
+脉微不可发汗	mo wei bu ke fa han	0
+尺脉弱涩者复不可下之	chi mai ruo se zhe fu bu ke xia zhi	0
+尺脉弱涩者复不可下之	che mai ruo se zhe fu bu ke xia zhi	0
+尺脉弱涩者复不可下之	chi mo ruo se zhe fu bu ke xia zhi	0
+尺脉弱涩者复不可下之	che mo ruo se zhe fu bu ke xia zhi	0
+脉暴微手足反温	mai bao wei shou zu fan wen	0
+脉暴微手足反温	mo bao wei shou zu fan wen	0
+脉暴微手足反温	mai pu wei shou zu fan wen	0
+脉暴微手足反温	mo pu wei shou zu fan wen	0
+恶寒而蜷	e han er quan	0
+时自烦	shi zi fan	0
+少阴中风	shao yin zhong feng	0
+阳微阴浮	yang wei yin fu	0
+少阴病欲解时	shao yin bing yu jie shi	0
+少阴病欲解时	shao yin bing yu xie shi	0
+从子至寅上	cong zi zhi yin shang	0
+吐利	tu li	0
+手足不逆冷	shou zu bu ni leng	0
+手足不逆冷	shou zu fou ni leng	0

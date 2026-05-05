@@ -1,0 +1,739 @@
+# 词库名称: 人体结构学
+# 词库分类: 肌腱 腱膜 原动肌 协同肌 拮抗肌 固定肌 筋膜
+# 词库作者: 我的光辉水月
+# 词库描述: 关于人体结构学方面的词汇介绍。
+# 词条数量: 731
+# 解析词数: 733
+# 解析异常: 2
+
+人体结构学	ren ti jie gou xue	0
+标准姿势	biao zhun zi shi	0
+解剖学姿势	jie pou xue zi shi	0
+垂直轴	chui zhi zhou	0
+矢状轴	shi zhuang zhou	0
+冠状轴	guan zhuang zhou	0
+矢状面	shi zhuang mian	0
+冠状面	guan zhuang mian	0
+近侧	jin ce	0
+近侧	jin ze	0
+近侧	jin zhai	0
+远侧	yuan ce	0
+远侧	yuan ze	0
+远侧	yuan zhai	0
+尺侧	chi ce	0
+尺侧	che ce	0
+尺侧	chi ze	0
+尺侧	chi zhai	0
+尺侧	che ze	0
+尺侧	che zhai	0
+桡侧	nao ce	0
+桡侧	rao ce	0
+桡侧	nao ze	0
+桡侧	rao ze	0
+桡侧	nao zhai	0
+桡侧	rao zhai	0
+胫侧	jing ce	0
+胫侧	jing ze	0
+胫侧	jing zhai	0
+腓侧	fei ce	0
+腓侧	fei ze	0
+腓侧	fei zhai	0
+掌侧	zhang ce	0
+掌侧	zhang ze	0
+掌侧	zhang zhai	0
+足底侧	zu di ce	0
+足底侧	zu di ze	0
+足底侧	zu di zhai	0
+背侧	bei ce	0
+前正中线	qian zheng zhong xian	0
+胸骨线	xiong gu xian	0
+锁骨中线	suo gu zhong xian	0
+胸骨旁线	xiong gu pang xian	0
+胸骨旁线	xiong gu bang xian	0
+腋前线	ye qian xian	0
+腋后线	ye hou xian	0
+腋中线	ye zhong xian	0
+肩胛线	jian jia xian	0
+脊柱旁线	ji zhu pang xian	0
+脊柱旁线	ji zhu bang xian	0
+后正中线	hou zheng zhong xian	0
+四分法	si fen fa	0
+九分法	jiu fen fa	0
+变异	bian yi	0
+畸形	ji xing	0
+运动系统	yun dong xi tong	0
+颅骨	lu gu	0
+躯干骨	qu gan gu	0
+四肢骨	si zhi gu	0
+中轴骨	zhong zhou gu	0
+上肢骨	shang zhi gu	0
+下肢骨	xia zhi gu	0
+长骨	chang gu	0
+骨干	gu gan	0
+髓腔	sui qiang	0
+骨骺	gu hou	0
+干骺端	gan hou duan	0
+骺软骨	hou ruan gu	0
+骺板	hou ban	0
+骺线	hou xian	0
+短骨	duan gu	0
+扁骨	bian gu	0
+不规则骨	bu gui ze gu	0
+含气骨	han qi gu	0
+压迹	ya ji	0
+切迹	qie ji	0
+骨质	gu zhi	0
+骨密质	gu mi zhi	0
+骨松质	gu song zhi	0
+骨小梁	gu xiao liang	0
+骨膜	gu mo	0
+骨内膜	gu nei mo	0
+骨外膜	gu wai mo	0
+骨髓	gu sui	0
+黄骨髓	huang gu sui	0
+红骨髓	hong gu sui	0
+红骨髓	gong gu sui	0
+椎骨	zhui gu	0
+椎体	zhui ti	0
+椎弓	zhui gong	0
+椎弓	chui gong	0
+椎管	zhui guan	0
+椎孔	zhui kong	0
+椎孔	chui kong	0
+椎弓根	zhui gong gen	0
+椎弓根	chui gong gen	0
+椎上切迹	zhui shang qie ji	0
+椎上切迹	chui shang qie ji	0
+椎下切迹	zhui xia qie ji	0
+椎下切迹	chui xia qie ji	0
+椎间孔	zhui jian kong	0
+椎弓板	zhui gong ban	0
+椎弓板	chui gong ban	0
+棘突	ji tu	0
+横突	heng tu	0
+关节突	guan jie tu	0
+颈椎	jing zhui	0
+横突孔	heng tu kong	0
+前结节	qian jie jie	0
+后结节	hou jie jie	0
+颈动脉结节	jing dong mai jie jie	0
+隆椎	long zhui	0
+隆椎	long chui	0
+寰椎	huan zhui	0
+寰椎	huan chui	0
+前弓	qian gong	0
+后弓	hou gong	0
+侧块	ce kuai	0
+侧块	ze kuai	0
+侧块	zhai kuai	0
+枢椎	shu zhui	0
+枢椎	shu chui	0
+齿突	chi tu	0
+胸椎	xiong zhui	0
+上肋凹	shang lei ao	0
+上肋凹	shang lei wa	0
+上肋凹	shang le ao	0
+上肋凹	shang le wa	0
+下肋凹	xia lei ao	0
+下肋凹	xia lei wa	0
+下肋凹	xia le ao	0
+下肋凹	xia le wa	0
+横突肋凹	heng tu lei ao	0
+横突肋凹	heng tu lei wa	0
+横突肋凹	heng tu le ao	0
+横突肋凹	heng tu le wa	0
+腰椎	yao zhui	0
+骶骨	di gu	0
+骶椎	di zhui	0
+骶岬	di jia	0
+骶前孔	di qian kong	0
+骶正中孔	di zheng zhong kong	0
+骶后孔	di hou kong	0
+骶管裂孔	di guan lie kong	0
+骶角	di jiao	0
+骶角	di jue	0
+耳状面	er zhuang mian	0
+骶粗隆	di cu long	0
+尾骨角	wei gu jiao	0
+尾骨角	wei gu jue	0
+尾骨	wei gu	0
+骶正中嵴	di zheng zhong ji	0
+骶外侧嵴	di wai ce ji	0
+胸骨	xiong gu	0
+胸骨柄	xiong gu bing	0
+胸骨角	xiong gu jiao	0
+胸骨角	xiong gu jue	0
+胸骨体	xiong gu ti	0
+胸骨体	xiong gu ben	0
+颈静脉切迹	jing jing mai qie ji	0
+剑突	jian tu	0
+真肋	zhen lei	0
+真肋	zhen le	0
+假肋	jia lei	0
+假肋	jia le	0
+肋弓	lei gong	0
+肋弓	le gong	0
+浮肋	fu lei	0
+浮肋	fu le	0
+肋头	lei tou	0
+肋头	le tou	0
+肋颈	lei jing	0
+肋颈	le jing	0
+肋颈	lei geng	0
+肋颈	le geng	0
+肋体	lei ti	0
+肋体	le ti	0
+肋体	lei ben	0
+肋体	le ben	0
+肋角	lei jiao	0
+肋角	le jiao	0
+肋角	lei jue	0
+肋角	le jue	0
+肋结节	lei jie jie	0
+肋结节	le jie jie	0
+肋沟	lei gou	0
+肋沟	le gou	0
+前斜角肌结节	qian xie jiao ji jie jie	0
+肋软骨	lei ruan gu	0
+锁骨	suo gu	0
+胸骨端	xiong gu duan	0
+肩峰端	jian feng duan	0
+肩胛骨	jian jia gu	0
+肩胛下窝	jian jia xia wo	0
+肩峰	jian feng	0
+冈上窝	gang shang wo	0
+冈下窝	gang xia wo	0
+肩胛切迹	jian jia qie ji	0
+喙突	hui tu	0
+关节盂	guan jie yu	0
+盂上结节	yu shang jie jie	0
+盂下结节	yu xia jie jie	0
+肱骨	gong gu	0
+肱骨头	gong gu tou	0
+大结节	da jie jie	0
+大结节	dai jie jie	0
+大结节	tai jie jie	0
+小结节	xiao jie jie	0
+大结节嵴	da jie jie ji	0
+大结节嵴	dai jie jie ji	0
+大结节嵴	tai jie jie ji	0
+小结节嵴	xiao jie jie ji	0
+结节间沟	jie jie jian gou	0
+解剖颈	jie pou jing	0
+解剖颈	jie pou geng	0
+外科颈	wai ke jing	0
+外科颈	wai ke geng	0
+三角肌粗隆	san jiao ji cu long	0
+桡神经沟	nao shen jing gou	0
+桡神经沟	rao shen jing gou	0
+肱骨滑车	gong gu hua che	0
+肱骨小头	gong gu xiao tou	0
+内上髁	nei shang ke	0
+内上髁	na shang ke	0
+外上髁	wai shang ke	0
+肱骨髁	gong gu ke	0
+尺神经沟	chi shen jing gou	0
+尺神经沟	che shen jing gou	0
+鹰嘴	ying zui	0
+鹰嘴窝	ying zui wo	0
+冠突窝	guan tu wo	0
+冠突	guan tu	0
+滑车切迹	hua che qie ji	0
+桡切迹	nao qie ji	0
+桡切迹	rao qie ji	0
+尺骨粗隆	chi gu cu long	0
+滋养孔	zi yang kong	0
+尺骨体	chi gu ti	0
+尺骨体	chi gu ben	0
+骨间嵴	gu jian ji	0
+尺骨头	chi gu tou	0
+尺骨茎突	chi gu jing tu	0
+环状关节面	huan zhuang guan jie mian	0
+桡骨	rao gu	0
+桡骨头	rao gu tou	0
+桡骨颈桡骨粗隆	rao gu jing rao gu cu long	0
+桡骨颈桡骨粗隆	rao gu geng rao gu cu long	0
+桡骨茎突	rao gu jing tu	0
+尺切迹	chi qie ji	0
+尺切迹	che qie ji	0
+手骨	shou gu	0
+腕骨	wan gu	0
+手舟骨	shou zhou gu	0
+月骨	yue gu	0
+三角骨	san jiao gu	0
+豌豆骨	wan dou gu	0
+大多角骨	da duo jiao gu	0
+大多角骨	da duo jue gu	0
+小多角骨	xiao duo jiao gu	0
+头状骨	tou zhuang gu	0
+钩骨	gou gu	0
+腕骨沟	wan gu gou	0
+掌骨	zhang gu	0
+指骨	zhi gu	0
+近节指骨	jin jie zhi gu	0
+中节指骨	zhong jie zhi gu	0
+远节指骨	yuan jie zhi gu	0
+远节指骨粗隆	yuan jie zhi gu cu long	0
+髋骨	kuan gu	0
+髂骨	qia gu	0
+坐骨	zuo gu	0
+耻骨	chi gu	0
+髋臼	kuan jiu	0
+髋臼切迹	kuan jiu qie ji	0
+闭孔	bi kong	0
+髂骨体	qia gu ti	0
+髂骨体	qia gu ben	0
+髂骨翼	qia gu yi	0
+髂嵴	qia ji	0
+髂前上棘	qia qian shang ji	0
+髂后上棘	qia hou shang ji	0
+髂前下棘	qia qian xia ji	0
+髂后下棘	qia hou xia ji	0
+髂结节	qia jie jie	0
+髂窝	qia wo	0
+弓状线	gong zhuang xian	0
+髂粗隆	qia cu long	0
+坐骨大切迹	zuo gu da qie ji	0
+坐骨体	zuo gu ti	0
+坐骨体	zuo gu ben	0
+坐骨棘	zuo gu ji	0
+坐骨小切迹	zuo gu xiao qie ji	0
+坐骨结节	zuo gu jie jie	0
+坐骨支	zuo gu zhi	0
+耻骨体	chi gu ti	0
+耻骨体	chi gu ben	0
+耻骨联合	chi gu lian he	0
+耻骨嵴	chi gu ji	0
+耻骨上支	chi gu shang zhi	0
+耻骨下支	chi gu xia zhi	0
+耻骨梳	chi gu shu	0
+髂耻隆起	qia chi long qi	0
+股骨	gu gu	0
+股骨头	gu gu tou	0
+股骨颈	gu gu jing	0
+大转子	da zhuan zi	0
+大转子	dai zhuan zi	0
+大转子	tai zhuan zi	0
+小转子	xiao zhuan zi	0
+转子间线	zhuan zi jian xian	0
+转子间嵴	zhuan zi jian ji	0
+粗线	cu xian	0
+臀肌粗隆	tun ji cu long	0
+外侧髁	wai ce ke	0
+髁间窝	ke jian wo	0
+收肌结节	shou ji jie jie	0
+耻骨肌线	chi gu ji xian	0
+内侧唇	nei ce chun	0
+外侧唇	wai ce chun	0
+髌骨	bin gu	0
+胫骨	jing gu	0
+胫骨粗隆	jing gu cu long	0
+比目鱼肌线	bi mu yu ji xian	0
+内踝	nei huai	0
+腓骨	fei gu	0
+腓骨头骨间缘	fei gu tou gu jian yuan	0
+腓骨头	fei gu tou	0
+腓骨颈	fei gu jing	0
+腓骨颈	fei gu geng	0
+外踝	wai huai	0
+足骨	zu gu	0
+跗骨	fu gu	0
+距骨	ju gu	0
+跟骨	gen gu	0
+足舟骨	zu zhou gu	0
+外侧楔骨	wai ce xie gu	0
+中间楔骨	zhong jian xie gu	0
+内侧楔骨	nei ce xie gu	0
+骰骨	tou gu	0
+舟骨粗隆	zhou gu cu long	0
+跟结节	gen jie jie	0
+跖骨	zhi gu	0
+第五跖骨粗隆	di wu zhi gu cu long	0
+趾骨	zhi gu	0
+脑颅	nao lu	0
+面颅	mian lu	0
+额骨	e gu	0
+额窦	e dou	0
+枕骨	zhen gu	0
+枕骨大孔	zhen gu da kong	0
+顶骨	ding gu	0
+筛骨	shai gu	0
+筛板	shai ban	0
+鸡冠	ji guan	0
+筛孔	shai kong	0
+垂直板	chui zhi ban	0
+筛骨迷路	shai gu mi lu	0
+筛窦	shai dou	0
+上鼻甲	shang bi jia	0
+中鼻甲	zhong bi jia	0
+下鼻甲	xia bi jia	0
+蝶骨	die gu	0
+蝶窦	die dou	0
+蝶骨小翼	die gu xiao yi	0
+蝶骨大翼	die gu da yi	0
+蝶骨大翼	die gu dai yi	0
+蝶骨大翼	die gu tai yi	0
+蝶突	die tu	0
+内侧板	nei ce ban	0
+外侧板	wai ce ban	0
+翼沟	yi gou	0
+颞骨	nie gu	0
+鳞部	lin bu	0
+岩部	yan bu	0
+锥体	zhui ti	0
+乳突	ru tu	0
+鼓部	gu bu	0
+乙状窦沟	yi zhuang dou gou	0
+三叉神经压迹	san cha shen jing ya ji	0
+岩上窦沟	yan shang dou gou	0
+颧突	quan tu	0
+上颌面	shang he mian	0
+上颌窦	shang he dou	0
+下颌窝	xia he wo	0
+额突	e tu	0
+牙槽突	ya cao tu	0
+腭突	e tu	0
+鼻骨	bi gu	0
+泪骨	lei gu	0
+犁骨	li gu	0
+腭骨	e gu	0
+下颌骨	xia he gu	0
+下颌体	xia he ti	0
+下颌体	xia he ben	0
+鼻切迹	bi qie ji	0
+泪切迹	lei qie ji	0
+泪沟	lei gou	0
+眶面	kuang mian	0
+上颌结节	shang he jie jie	0
+鼻前棘	bi qian ji	0
+尖牙窝	jian ya wo	0
+切牙管	qie ya guan	0
+上颌骨	shang he gu	0
+眶突	kuang tu	0
+蝶腭切迹	die e qie ji	0
+筛骨嵴	shai gu ji	0
+鼻甲嵴	bi jia ji	0
+锥突	zhui tu	0
+牙槽弓	ya cao gong	0
+颏隆凸	ke long tu	0
+颏孔	ke kong	0
+颏棘	ke ji	0
+下颌支	xia he zhi	0
+下颌角	xia he jiao	0
+髁状突	ke zhuang tu	0
+下颌头	xia he tou	0
+下颌孔	xia he kong	0
+下颌管	xia he guan	0
+舌骨	she gu	0
+舌骨体	she gu ti	0
+舌骨体	she gu ben	0
+大角	da jiao	0
+小角	xiao jiao	0
+眶上孔	kuang shang kong	0
+眶下孔	kuang xia kong	0
+视神经管	shi shen jing guan	0
+泪腺窝	lei xian wo	0
+眶下沟	kuang xia gou	0
+眶下管	kuang xia guan	0
+泪囊窝	lei nang wo	0
+鼻泪管	bi lei guan	0
+眶上裂	kuang shang lie	0
+眶下裂	kuang xia lie	0
+梨状孔	li zhuang kong	0
+鼻后孔	bi hou kong	0
+鼻骨中隔	bi gu zhong ge	0
+筛骨垂直板	shai gu chui zhi ban	0
+上鼻道	shang bi dao	0
+中鼻道	zhong bi dao	0
+下鼻道	xia bi dao	0
+蝶筛隐窝	die shai yin wo	0
+鼻旁窦	bi pang dou	0
+鼻旁窦	bi bang dou	0
+外耳门	wai er men	0
+外耳道	wai er dao	0
+内耳门	nei er men	0
+内耳道	nei er dao	0
+颞窝	nie wo	0
+翼点	yi dian	0
+颞下窝	nie xia wo	0
+翼腭窝	yi e wo	0
+冠状缝	guan zhuang feng	0
+人字缝	ren zi feng	0
+矢状缝	shi zhuang feng	0
+骨腭	gu e	0
+切牙孔	qie ya kong	0
+腭大孔	e da kong	0
+破裂孔	po lie kong	0
+卵圆孔	luan yuan kong	0
+棘孔	ji kong	0
+枕外隆凸	zhen wai long tu	0
+枕髁	zhen ke	0
+颈静脉孔	jing jing mai kong	0
+茎乳孔	jing ru kong	0
+颅前窝	lu qian wo	0
+颅中窝	lu zhong wo	0
+颅后窝	lu hou wo	0
+舌下神经管外口	she xia shen jing guan wai kou	0
+斜坡	xie po	0
+蝶鞍	die an	0
+垂体窝	chui ti wo	0
+鞍背	an bei	0
+颈动脉沟	jing dong mai gou	0
+枕内隆凸	zhen nei long tu	0
+枕内隆凸	zhen na long tu	0
+颅囟	lu xin	0
+前囟	qian xin	0
+后囟	hou xin	0
+前外侧囟	qian wai ce xin	0
+蝶囟	die xin	0
+后外侧囟	hou wai ce xin	0
+乳突囟	ru tu xin	0
+顶枕缝	ding zhen feng	0
+枕乳缝	zhen ru feng	0
+关节面	guan jie mian	0
+关节囊	guan jie nang	0
+韧带	ren dai	0
+滑膜囊	hua mo nang	0
+滑膜层	hua mo ceng	0
+关节腔	guan jie qiang	0
+囊内韧带	nang nei ren dai	0
+囊内韧带	nang na ren dai	0
+囊外韧带	nang wai ren dai	0
+关节盘	guan jie pan	0
+半月板	ban yue ban	0
+关节唇	guan jie chun	0
+滑膜襞	hua mo bi	0
+滑膜脂垫	hua mo zhi dian	0
+外展	wai zhan	0
+内收	nei shou	0
+旋外	xuan wai	0
+旋内	xuan nei	0
+旋内	xuan na	0
+旋前	xuan qian	0
+旋后	xuan hou	0
+内翻	nei fan	0
+外翻	wai fan	0
+环转	huan zhuan	0
+环转	huan zhuai	0
+单轴关节	dan zhou guan jie	0
+车轴关节	che zhou guan jie	0
+双轴关节	shuang zhou guan jie	0
+椭圆关节	tuo yuan guan jie	0
+鞍状关节	an zhuang guan jie	0
+多轴关节	duo zhou guan jie	0
+球窝关节	qiu wo guan jie	0
+杵臼关节	chu jiu guan jie	0
+平面关节	ping mian guan jie	0
+椎间盘	zhui jian pan	0
+髓核	sui he	0
+纤维环	xian wei huan	0
+前纵韧带	qian zong ren dai	0
+后纵韧带	hou zong ren dai	0
+棘间韧带	ji jian ren dai	0
+黄韧带	huang ren dai	0
+横突间韧带	heng tu jian ren dai	0
+棘上韧带	ji shang ren dai	0
+项韧带	xiang ren dai	0
+关节突关节	guan jie tu guan jie	0
+寰枕关节	huan zhen guan jie	0
+寰枢关节	huan shu guan jie	0
+肋椎关节	lei zhui guan jie	0
+肋椎关节	le zhui guan jie	0
+肋椎关节	lei chui guan jie	0
+肋椎关节	le chui guan jie	0
+肋头关节	lei tou guan jie	0
+肋头关节	le tou guan jie	0
+肋横突关节	lei heng tu guan jie	0
+肋横突关节	le heng tu guan jie	0
+胸肋关节	xiong lei guan jie	0
+胸肋关节	xiong le guan jie	0
+胸廓上口	xiong kuo shang kou	0
+胸廓下口	xiong kuo xia kou	0
+胸骨下角	xiong gu xia jiao	0
+肋间隙	lei jian xi	0
+肋间隙	le jian xi	0
+胸锁关节	xiong suo guan jie	0
+肩锁关节	jian suo guan jie	0
+肩关节	jian guan jie	0
+盂唇	yu chun	0
+喙肱韧带	hui gong ren dai	0
+喙肩韧带	hui jian ren dai	0
+喙肩弓	hui jian gong	0
+肘关节	zhou guan jie	0
+肱桡关节	gong nao guan jie	0
+肱桡关节	gong rao guan jie	0
+肱尺关节	gong chi guan jie	0
+肱尺关节	gong che guan jie	0
+桡尺近侧关节	nao chi jin ce guan jie	0
+桡尺近侧关节	rao chi jin ce guan jie	0
+桡尺近侧关节	nao che jin ce guan jie	0
+桡尺近侧关节	rao che jin ce guan jie	0
+桡尺近侧关节	nao chi jin ze guan jie	0
+桡尺近侧关节	rao chi jin ze guan jie	0
+桡尺近侧关节	nao chi jin zhai guan jie	0
+桡尺近侧关节	rao chi jin zhai guan jie	0
+桡尺近侧关节	nao che jin ze guan jie	0
+桡尺近侧关节	rao che jin ze guan jie	0
+桡尺近侧关节	nao che jin zhai guan jie	0
+桡尺近侧关节	rao che jin zhai guan jie	0
+桡侧副韧带	nao ce fu ren dai	0
+桡侧副韧带	rao ce fu ren dai	0
+桡侧副韧带	nao ze fu ren dai	0
+桡侧副韧带	rao ze fu ren dai	0
+桡侧副韧带	nao zhai fu ren dai	0
+桡侧副韧带	rao zhai fu ren dai	0
+桡侧副韧带	nao ce pi ren dai	0
+桡侧副韧带	rao ce pi ren dai	0
+桡侧副韧带	nao ze pi ren dai	0
+桡侧副韧带	rao ze pi ren dai	0
+桡侧副韧带	nao zhai pi ren dai	0
+桡侧副韧带	rao zhai pi ren dai	0
+尺侧副韧带	chi ce fu ren dai	0
+尺侧副韧带	che ce fu ren dai	0
+尺侧副韧带	chi ze fu ren dai	0
+尺侧副韧带	chi zhai fu ren dai	0
+尺侧副韧带	chi ce pi ren dai	0
+尺侧副韧带	che ze fu ren dai	0
+尺侧副韧带	che zhai fu ren dai	0
+尺侧副韧带	che ce pi ren dai	0
+尺侧副韧带	chi ze pi ren dai	0
+尺侧副韧带	chi zhai pi ren dai	0
+尺侧副韧带	che ze pi ren dai	0
+尺侧副韧带	che zhai pi ren dai	0
+提携角	ti xie jiao	0
+提携角	ti xie jue	0
+桡尺远侧关节	nao chi yuan ce guan jie	0
+桡尺远侧关节	rao chi yuan ce guan jie	0
+桡尺远侧关节	nao che yuan ce guan jie	0
+桡尺远侧关节	rao che yuan ce guan jie	0
+桡尺远侧关节	nao chi yuan ze guan jie	0
+桡尺远侧关节	rao chi yuan ze guan jie	0
+桡尺远侧关节	nao chi yuan zhai guan jie	0
+桡尺远侧关节	rao chi yuan zhai guan jie	0
+桡尺远侧关节	nao che yuan ze guan jie	0
+桡尺远侧关节	rao che yuan ze guan jie	0
+桡尺远侧关节	nao che yuan zhai guan jie	0
+桡尺远侧关节	rao che yuan zhai guan jie	0
+骨间膜	gu jian mo	0
+手关节	shou guan jie	0
+桡腕关节	nao wan guan jie	0
+桡腕关节	rao wan guan jie	0
+腕关节	wan guan jie	0
+腕骨间关节	wan gu jian guan jie	0
+腕中关节	wan zhong guan jie	0
+腕掌关节	wan zhang guan jie	0
+拇指腕掌关节	mu zhi wan zhang guan jie	0
+掌骨间关节	zhang gu jian guan jie	0
+掌指关节	zhang zhi guan jie	0
+指间关节	zhi jian guan jie	0
+耻骨间盘	chi gu jian pan	0
+骶髂关节	di qia guan jie	0
+骶髂骨间韧带	di qia gu jian ren dai	0
+韧带连接	ren dai lian jie	0
+骶结节韧带	di jie jie ren dai	0
+骶棘韧带	di ji ren dai	0
+坐骨小孔	zuo gu xiao kong	0
+闭孔膜	bi kong mo	0
+闭膜管	bi mo guan	0
+骨盆	gu pen	0
+骨盆骶岬	gu pen di jia	0
+界线	jie xian	0
+大骨盆	da gu pen	0
+小骨盆	xiao gu pen	0
+耻骨下角	chi gu xia jiao	0
+骨盆轴	gu pen zhou	0
+髋关节	kuan guan jie	0
+髋臼唇	kuan jiu chun	0
+髂股韧带	qia gu ren dai	0
+股骨头韧带	gu gu tou ren dai	0
+髋臼横韧带	kuan jiu heng ren dai	0
+膝关节	xi guan jie	0
+髌韧带	bin ren dai	0
+腓侧副韧带	fei ce fu ren dai	0
+腓侧副韧带	fei ze fu ren dai	0
+腓侧副韧带	fei zhai fu ren dai	0
+腓侧副韧带	fei ce pi ren dai	0
+腓侧副韧带	fei ze pi ren dai	0
+腓侧副韧带	fei zhai pi ren dai	0
+胫侧副韧带	jing ce fu ren dai	0
+胫侧副韧带	jing ze fu ren dai	0
+胫侧副韧带	jing zhai fu ren dai	0
+胫侧副韧带	jing ce pi ren dai	0
+胫侧副韧带	jing ze pi ren dai	0
+胫侧副韧带	jing zhai pi ren dai	0
+后交叉韧带	hou jiao cha ren dai	0
+内侧半月板	nei ce ban yue ban	0
+外侧半月板	wai ce ban yue ban	0
+髌上囊	bin shang nang	0
+翼状襞	yi zhuang bi	0
+髌下脂体	bin xia zhi ti	0
+髌下脂体	bin xia zhi ben	0
+胫腓关节	jing fei guan jie	0
+小腿骨间膜	xiao tui gu jian mo	0
+足关节	zu guan jie	0
+距小腿关节	ju xiao tui guan jie	0
+踝关节	huai guan jie	0
+内侧韧带	nei ce ren dai	0
+三角韧带	san jiao ren dai	0
+外侧韧带	wai ce ren dai	0
+跗骨间关节	fu gu jian guan jie	0
+距跟关节	ju gen guan jie	0
+距下关节	ju xia guan jie	0
+距跟舟关节	ju gen zhou guan jie	0
+跟骰关节附横关节	gen tou guan jie fu heng guan jie	0
+跗跖关节	fu zhi guan jie	0
+跖骨间关节	zhi gu jian guan jie	0
+跖趾关节	zhi zhi guan jie	0
+趾骨间关节	zhi gu jian guan jie	0
+足弓	zu gong	0
+外侧纵弓	wai ce zong gong	0
+弹簧韧带	tan huang ren dai	0
+足底长韧带	zu di chang ren dai	0
+足底长韧带	zu di zhang ren dai	0
+足底韧带	zu di ren dai	0
+分歧韧带	fen qi ren dai	0
+分裂韧带	fen lie ren dai	0
+外踝前韧带	wai huai qian ren dai	0
+距舟韧带	ju zhou ren dai	0
+距腓前韧带	ju fei qian ren dai	0
+距腓后韧带	ju fei hou ren dai	0
+距跟内侧韧带	ju gen nei ce ren dai	0
+距舟背侧韧带	ju zhou bei ce ren dai	0
+跟舟足底韧带	gen zhou zu di ren dai	0
+跟骰足底韧带	gen tou zu di ren dai	0
+跟骰背侧韧带	gen tou bei ce ren dai	0
+跟腓韧带	gen fei ren dai	0
+楔舟背侧韧带	xie zhou bei ce ren dai	0
+楔舟足底韧带	xie zhou zu di ren dai	0
+楔间背侧韧带	xie jian bei ce ren dai	0
+趾骨背侧韧带	zhi gu bei ce ren dai	0
+趾骨足底韧带	zhi gu zu di ren dai	0
+颞下颌关节	nie xia he guan jie	0
+骨骼肌	gu ge ji	0
+长肌	chang ji	0
+长肌	zhang ji	0
+短肌	duan ji	0
+阔肌	kuo ji	0
+轮匝肌	lun za ji	0
+平行肌	ping xing ji	0
+梭状肌	suo zhuang ji	0
+羽状肌	yu zhuang ji	0
+单羽状肌	dan yu zhuang ji	0
+单羽状肌	shan yu zhuang ji	0
+单羽状肌	chan yu zhuang ji	0
+复羽状肌	fu yu zhuang ji	0
+双羽状肌	shuang yu zhuang ji	0
+肌腹	ji fu	0
+肌腱	ji jian	0
+腱膜	jian mo	0
+原动肌	yuan dong ji	0
+协同肌	xie tong ji	0
+拮抗肌	jie kang ji	0
+固定肌	gu ding ji	0
+筋膜	jin mo	0
+浅筋膜	qian jin mo	0
+浅筋膜	jian jin mo	0
+深筋膜	shen jin mo	0
+肌间隔	ji jian ge	0
+腱鞘	jian qiao	0
+纤维层	xian wei ceng	0

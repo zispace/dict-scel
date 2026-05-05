@@ -1,0 +1,485 @@
+# 词库名称: 分析化学词库
+# 词库分类: 学术教育
+# 词库作者: crush_bc
+# 词库描述: 分析化学
+# 词条数量: 477
+# 解析词数: 481
+# 解析异常: 4
+
+分析化学汉英词库	fen xi hua xue han ying ci ku	0
+第一章绪论	di yi zhang xu lun	0
+分析化学	fen xi hua xue	0
+定性分析	ding xing fen xi	0
+定量分析	ding liang fen xi	0
+物理分析	wu li fen xi	0
+物理化学分析	wu li hua xue fen xi	0
+仪器分析法	yi qi fen xi fa	0
+流动注射分析法	liu dong zhu she fen xi fa	0
+顺序注射分析法	shun xu zhu she fen xi fa	0
+化学计量学	hua xue ji liang xue	0
+绝对误差	jue dui wu cha	0
+相对误差	xiang dui wu cha	0
+系统误差	xi tong wu cha	0
+可定误差	ke ding wu cha	0
+随机误差	sui ji wu cha	0
+不可定误差	bu ke ding wu cha	0
+准确度	zhun que du	0
+精确度	jing que du	0
+偏差	pian cha	0
+平均偏差	ping jun pian cha	0
+相对平均偏差	xiang dui ping jun pian cha	0
+标准偏差	biao zhun pian cha	0
+标准差	biao zhun cha	0
+变异系数	bian yi xi shu	0
+误差传递	wu cha chuan di	0
+有效数字	you xiao shu zi	0
+置信水平	zhi xin shui ping	0
+显著性水平	xian zhu xing shui ping	0
+合并标准偏差	he bing biao zhun pian cha	0
+舍弃商	she qi shang	0
+组合标准差	zu he biao zhun cha	0
+化学定量分析	hua xue ding liang fen xi	0
+第三章滴定分析概论	di san zhang di ding fen xi gai lun	0
+滴定分析法	di ding fen xi fa	0
+滴定	di ding	0
+容量分析法	rong liang fen xi fa	0
+化学计量点	hua xue ji liang dian	0
+等当点	deng dang dian	0
+电荷平衡	dian he ping heng	0
+电荷平衡式	dian he ping heng shi	0
+质量平衡	zhi liang ping heng	0
+物料平衡	wu liao ping heng	0
+质量平衡式	zhi liang ping heng shi	0
+酸碱滴定法	suan jian di ding fa	0
+质子自递反应	zhi zi zi di fan ying	0
+质子自递常数	zhi zi zi di chang shu	0
+质子条件式	zhi zi tiao jian shi	0
+酸碱指示剂	suan jian zhi shi ji	0
+指示剂常数	zhi shi ji chang shu	0
+变色范围	bian se fan wei	0
+混合指示剂	hun he zhi shi ji	0
+双指示剂滴定法	shuang zhi shi ji di ding fa	0
+第五章非水滴定法	di wu zhang fei shui di ding fa	0
+非水滴定法	fei shui di ding fa	0
+质子溶剂	zhi zi rong ji	0
+酸性溶剂	suan xing rong ji	0
+碱性溶剂	jian xing rong ji	0
+两性溶剂	liang xing rong ji	0
+无质子溶剂	wu zhi zi rong ji	0
+均化效应	jun hua xiao ying	0
+区分性溶剂	qu fen xing rong ji	0
+离子化	li zi hua	0
+离解	li jie	0
+结晶紫	jie jing zi	0
+萘酚苯甲醇	nai fen ben jia chun	0
+奎哪啶红	kui na ding hong	0
+奎哪啶红	kui ne ding hong	0
+奎哪啶红	kui nei ding hong	0
+奎哪啶红	kui na ding gong	0
+奎哪啶红	kui ne ding gong	0
+奎哪啶红	kui nei ding gong	0
+百里酚蓝	bai li fen lan	0
+偶氮紫	ou dan zi	0
+溴酚蓝	xiu fen lan	0
+第六章配位滴定法	di liu zhang pei wei di ding fa	0
+配位滴定法	pei wei di ding fa	0
+乙二胺四乙酸	yi er an si yi suan	0
+螯合物	ao he wu	0
+金属指示剂	jin shu zhi shi ji	0
+第七章氧化还原滴定法	di qi zhang yang hua huan yuan di ding fa	0
+氧化还原滴定法	yang hua huan yuan di ding fa	0
+碘量法	dian liang fa	0
+溴量法	xiu liang fa	0
+铈量法	shi liang fa	0
+高锰酸钾法	gao meng suan jia fa	0
+条件电位	tiao jian dian wei	0
+溴酸钾法	xiu suan jia fa	0
+硫酸铈法	liu suan shi fa	0
+偏高碘酸	pian gao dian suan	0
+高碘酸盐	gao dian suan yan	0
+亚硝酸钠法	ya xiao suan na fa	0
+重氮化反应	zhong dan hua fan ying	0
+重氮化滴定法	zhong dan hua di ding fa	0
+亚硝基化反应	ya xiao ji hua fan ying	0
+亚硝基化滴定法	ya xiao ji hua di ding fa	0
+外指示剂	wai zhi shi ji	0
+重铬酸钾法	zhong ge suan jia fa	0
+第八章沉淀滴定法	di ba zhang chen dian di ding fa	0
+沉淀滴定法	chen dian di ding fa	0
+容量滴定法	rong liang di ding fa	0
+银量法	yin liang fa	0
+第九章重量分析法	di jiu zhang zhong liang fen xi fa	0
+重量分析法	zhong liang fen xi fa	0
+挥发法	hui fa fa	0
+引湿水	yin shi shui	0
+包埋藏水	bao mai cang shui	0
+包埋藏水	bao mai zang shui	0
+吸入水	xi ru shui	0
+结晶水	jie jing shui	0
+组成水	zu cheng shui	0
+液液萃取法	ye ye cui qu fa	0
+溶剂萃取法	rong ji cui qu fa	0
+反萃取	fan cui qu	0
+分配系数	fen pei xi shu	0
+分配比	fen pei bi	0
+离子对	li zi dui	0
+离子缔合物	li zi di he wu	0
+沉淀形式	chen dian xing shi	0
+称量形式	cheng liang xing shi	0
+仪器分析概述	yi qi fen xi gai shu	0
+仪器分析	yi qi fen xi	0
+电化学分析	dian hua xue fen xi	0
+电解法	dian jie fa	0
+电重量法	dian zhong liang fa	0
+库仑法	ku lun fa	0
+库仑滴定法	ku lun di ding fa	0
+电导法	dian dao fa	0
+电导分析法	dian dao fen xi fa	0
+电导滴定法	dian dao di ding fa	0
+电位法	dian wei fa	0
+直接电位法	zhi jie dian wei fa	0
+电位滴定法	dian wei di ding fa	0
+伏安法	fu an fa	0
+极谱法	ji pu fa	0
+溶出法	rong chu fa	0
+电流滴定法	dian liu di ding fa	0
+相界电位	xiang jie dian wei	0
+金属电极电位	jin shu dian ji dian wei	0
+化学电池	hua xue dian chi	0
+液接界面	ye jie jie mian	0
+原电池	yuan dian chi	0
+电解池	dian jie chi	0
+负极	fu ji	0
+正极	zheng ji	0
+电池电动势	dian chi dian dong shi	0
+指示电极	zhi shi dian ji	0
+参比电极	can bi dian ji	0
+标准氢电极	biao zhun qing dian ji	0
+一级参比电极	yi ji can bi dian ji	0
+饱和甘汞电极	bao he gan gong dian ji	0
+不对称电位	bu dui chen dian wei	0
+敏感器	min gan qi	0
+晶体电极	jing ti dian ji	0
+均相膜电极	jun xiang mo dian ji	0
+非均相膜电极	fei jun xiang mo dian ji	0
+非晶体电极	fei jing ti dian ji	0
+非晶体电极	fei jing ben dian ji	0
+刚性基质电极	gang xing ji zhi dian ji	0
+流流体载动电极	liu liu ti zai dong dian ji	0
+气敏电极	qi min dian ji	0
+酶电极	mei dian ji	0
+离子选择场效应管	li zi xuan ze chang xiao ying guan	0
+总离子强度调节缓冲剂	zong li zi qiang du tiao jie huan chong ji	0
+永停滴定法	yong ting di ding fa	0
+双电流滴定法	shuang dian liu di ding fa	0
+普朗克常数	pu lang ke chang shu	0
+电磁波谱	dian ci bo pu	0
+光谱	guang pu	0
+光谱分析法	guang pu fen xi fa	0
+原子发射光谱法	yuan zi fa she guang pu fa	0
+质量谱	zhi liang pu	0
+质谱法	zhi pu fa	0
+肩峰	jian feng	0
+末端吸收	mo duan xi shou	0
+生色团	sheng se tuan	0
+助色团	zhu se tuan	0
+助色团	zhu shai tuan	0
+助色团	chu se tuan	0
+助色团	chu shai tuan	0
+红移	hong yi	0
+红移	gong yi	0
+长移	chang yi	0
+长移	zhang yi	0
+短移	duan yi	0
+增色效应	zeng se xiao ying	0
+减色效应	jian se xiao ying	0
+强带	qiang dai	0
+强带	jiang dai	0
+弱带	ruo dai	0
+吸收带	xi shou dai	0
+透光率	tou guang lv	0
+吸光度	xi guang du	0
+谱带宽度	pu dai kuan du	0
+谱带宽度	pu dai kuan duo	0
+杂散光	za san guang	0
+噪声	zao sheng	0
+暗噪声	an zao sheng	0
+散粒噪声	san li zao sheng	0
+闪耀光栅	shan yao guang shan	0
+全息光栅	quan xi guang shan	0
+光二极管阵列检测器	guang er ji guan zhen lie jian ce qi	0
+偏最小二乘法	pian zui xiao er cheng fa	0
+褶合光谱法	zhe he guang pu fa	0
+褶合光谱法	zhe ge guang pu fa	0
+褶合变换	zhe he bian huan	0
+褶合变换	zhe ge bian huan	0
+离散小波变换	li san xiao bo bian huan	0
+多尺度细化分析	duo chi du xi hua fen xi	0
+供电子取代基	gong dian zi qu dai ji	0
+吸电子取代基	xi dian zi qu dai ji	0
+第十三章荧光分析法	di shi san zhang ying guang fen xi fa	0
+荧光	ying guang	0
+荧光分析法	ying guang fen xi fa	0
+分子荧光分析法	fen zi ying guang fen xi fa	0
+振动弛豫	zhen dong chi yu	0
+内转换	nei zhuan huan	0
+外转换	wai zhuan huan	0
+体系间跨越	ti xi jian kua yue	0
+激发光谱	ji fa guang pu	0
+荧光光谱	ying guang guang pu	0
+斯托克斯位移	si tuo ke si wei yi	0
+荧光寿命	ying guang shou ming	0
+荧光效率	ying guang xiao lv	0
+荧光量子产率	ying guang liang zi chan lv	0
+荧光量子产率	ying guang liang zi chan shuai	0
+荧光熄灭法	ying guang xi mie fa	0
+散射光	san she guang	0
+瑞利光	rui li guang	0
+拉曼光	la man guang	0
+红外线	hong wai xian	0
+中红外吸收光谱	zhong hong wai xi shou guang pu	0
+远红外光谱	yuan hong wai guang pu	0
+微波谱	wei bo pu	0
+红外吸收光谱法	hong wai xi shou guang pu fa	0
+红外分光光度法	hong wai fen guang guang du fa	0
+振动形式	zhen dong xing shi	0
+伸缩振动	shen suo zhen dong	0
+对称伸缩振动	dui chen shen suo zhen dong	0
+不对称伸缩振动	bu dui chen shen suo zhen dong	0
+弯曲振动	wan qu zhen dong	0
+变形振动	bian xing zhen dong	0
+面内弯曲振动	mian nei wan qu zhen dong	0
+剪式振动	jian shi zhen dong	0
+面内摇摆振动	mian nei yao bai zhen dong	0
+面内摇摆振动	mian na yao bai zhen dong	0
+面外弯曲振动	mian wai wan qu zhen dong	0
+面外摇摆振动	mian wai yao bai zhen dong	0
+蜷曲振动	quan qu zhen dong	0
+对称变形振动	dui chen bian xing zhen dong	0
+不对称变形振动	bu dui chen bian xing zhen dong	0
+特征吸收峰	te zheng xi shou feng	0
+特征频率	te zheng pin lv	0
+相关吸收峰	xiang guan xi shou feng	0
+杂化影响	za hua ying xiang	0
+环大小效应	huan da xiao xiao ying	0
+吸收峰的强度	xi shou feng de qiang du	0
+吸收峰的强度	xi shou feng di qiang du	0
+环折叠振动	huan zhe die zhen dong	0
+原子光谱法	yuan zi guang pu fa	0
+原子吸收分光光度法	yuan zi xi shou fen guang guang du fa	0
+原子发射分光光度法	yuan zi fa she fen guang guang du fa	0
+原子荧光分光光度法	yuan zi ying guang fen guang guang du fa	0
+核磁共振	he ci gong zhen	0
+核磁共振波谱	he ci gong zhen bo pu	0
+核磁共振波谱法	he ci gong zhen bo pu fa	0
+扫场	sao chang	0
+二维核磁共振谱	er wei he ci gong zhen pu	0
+质子核磁共振谱	zhi zi he ci gong zhen pu	0
+氢谱	qing pu	0
+自旋角动量	zi xuan jiao dong liang	0
+磁旋比	ci xuan bi	0
+磁量子数	ci liang zi shu	0
+磁量子数	ci liang zi shuo	0
+进动	jin dong	0
+弛豫历程	chi yu li cheng	0
+局部抗磁屏蔽	ju bu kang ci ping bi	0
+屏蔽常数	ping bi chang shu	0
+化学位移	hua xue wei yi	0
+磁各向异性	ci ge xiang yi xing	0
+远程屏蔽效应	yuan cheng ping bi xiao ying	0
+结面	jie mian	0
+单峰	dan feng	0
+双峰	shuang feng	0
+三重峰	san chong feng	0
+四重峰	si chong feng	0
+五重峰	wu chong feng	0
+六重峰	liu zhong feng	0
+六重峰	liu chong feng	0
+六重峰	lu zhong feng	0
+六重峰	lu chong feng	0
+偕偶	xie ou	0
+邻偶	lin ou	0
+远程偶合	yuan cheng ou he	0
+磁等价	ci deng jia	0
+自旋系统	zi xuan xi tong	0
+一级光谱	yi ji guang pu	0
+二级光谱	er ji guang pu	0
+质谱分析法	zhi pu fen xi fa	0
+质谱	zhi pu	0
+棒图	bang tu	0
+选择离子检测	xuan ze li zi jian ce	0
+直接进样	zhi jie jin yang	0
+接口	jie kou	0
+电子轰击离子源	dian zi hong ji li zi yuan	0
+离子峰	li zi feng	0
+化学离子源	hua xue li zi yuan	0
+场电离	chang dian li	0
+场解析	chang jie xi	0
+快速原子轰击离子源	kuai su yuan zi hong ji li zi yuan	0
+质量分析器	zhi liang fen xi qi	0
+磁质谱仪	ci zhi pu yi	0
+原子质量单位	yuan zi zhi liang dan wei	0
+离子丰度	li zi feng du	0
+离子丰度	li zi feng duo	0
+相对丰度相对强度	xiang dui feng du xiang dui qiang du	0
+相对丰度相对强度	xiang dui feng duo xiang dui qiang du	0
+基峰	ji feng	0
+质量范围	zhi liang fan wei	0
+分辨率	fen bian lv	0
+灵敏度	ling min du	0
+信噪比	xin zao bi	0
+分子离子	fen zi li zi	0
+碎片离子	sui pian li zi	0
+同位素离子	tong wei su li zi	0
+亚稳离子	ya wen li zi	0
+亚稳峰	ya wen feng	0
+母离子	mu li zi	0
+子离子	zi li zi	0
+含奇数个电子的离子	han ji shu ge dian zi de li zi	0
+含奇数个电子的离子	han ji shu ge dian zi di li zi	0
+含偶数个电子的离子	han ou shu ge dian zi de li zi	0
+含偶数个电子的离子	han ou shu ge dian zi di li zi	0
+均裂	jun lie	0
+均裂	yun lie	0
+半均裂	ban jun lie	0
+半均裂	ban yun lie	0
+重排	chong pai	0
+分子量	fen zi liang	0
+层析法	ceng xi fa	0
+色谱法	se pu fa	0
+固定相	gu ding xiang	0
+流动相	liu dong xiang	0
+超临界流体色谱法	chao lin jie liu ti se pu fa	0
+高效毛细管电泳法	gao xiao mao xi guan dian yong fa	0
+气相色谱法	qi xiang se pu fa	0
+液相色谱法	ye xiang se pu fa	0
+气固色谱法	qi gu se pu fa	0
+气液色谱法	qi ye se pu fa	0
+液固色谱法	ye gu se pu fa	0
+液液色谱法	ye ye se pu fa	0
+柱色谱法	zhu se pu fa	0
+填充柱	tian chong zhu	0
+毛细管柱	mao xi guan zhu	0
+微填充柱	wei tian chong zhu	0
+高效液相色谱法	gao xiao ye xiang se pu fa	0
+平板色谱法	ping ban se pu fa	0
+纸色谱法	zhi se pu fa	0
+薄层色谱法	bao ceng se pu fa	0
+薄膜色谱法	bao mo se pu fa	0
+毛细管电泳法	mao xi guan dian yong fa	0
+分配色谱法	fen pei se pu fa	0
+吸附色谱法	xi fu se pu fa	0
+离子交换色谱法	li zi jiao huan se pu fa	0
+空间排阻色谱法	kong jian pai zu se pu fa	0
+亲和色谱法	qin he se pu fa	0
+狭义分配系数	xia yi fen pei xi shu	0
+凝胶色谱法	ning jiao se pu fa	0
+凝胶渗透色谱法	ning jiao shen tou se pu fa	0
+凝胶过滤色谱法	ning jiao guo lv se pu fa	0
+渗透系数	shen tou xi shu	0
+化学键合相色谱法	hua xue jian he xiang se pu fa	0
+化学键合相色谱法	hua xue jian ge xiang se pu fa	0
+靛菁绿	dian jing lv	0
+靛菁绿	dian jing lu	0
+吸附	xi fu	0
+活化	huo hua	0
+脱活性	tuo huo xing	0
+交联度	jiao lian du	0
+交联度	jiao lian duo	0
+交换容量	jiao huan rong liang	0
+薄层板	bao ceng ban	0
+展开剂	zhan kai ji	0
+临界胶束浓度	lin jie jiao shu nong du	0
+相对比移值	xiang dui bi yi zhi	0
+分离度	fen li du	0
+分离度	fen li duo	0
+分离数	fen li shu	0
+分离数	fen li shuo	0
+煅石膏	duan shi gao	0
+羧甲基纤维素钠	suo jia ji xian wei su na	0
+吸收光谱联用	xi shou guang pu lian yong	0
+上行展开	shang xing zhan kai	0
+下行法展开	xia xing fa zhan kai	0
+双向展开	shuang xiang zhan kai	0
+第二十章气相色谱法	di er shi zhang qi xiang se pu fa	0
+前延峰	qian yan feng	0
+拖尾峰	tuo wei feng	0
+对称因子	dui chen yin zi	0
+保留时间	bao liu shi jian	0
+保留体积	bao liu ti ji	0
+死时间	si shi jian	0
+调整保留时间	tiao zheng bao liu shi jian	0
+半峰宽	ban feng kuan	0
+峰宽	feng kuan	0
+等温线	deng wen xian	0
+理论塔板高度	li lun ta ban gao du	0
+化学键合相	hua xue jian he xiang	0
+化学键合相	hua xue jian ge xiang	0
+丁二酸二乙二醇聚酯	ding er suan er yi er chun ju zhi	0
+高分子多孔微球	gao fen zi duo kong wei qiu	0
+苯乙烯	ben yi xi	0
+乙基乙烯苯	yi ji yi xi ben	0
+二乙烯苯	er yi xi ben	0
+涂壁毛细管柱	tu bi mao xi guan zhu	0
+载体涂层毛细管柱	zai ti tu ceng mao xi guan zhu	0
+热导检测器	re dao jian ce qi	0
+氢焰离子化检测器	qing yan li zi hua jian ce qi	0
+电子捕获检测器	dian zi bu huo jian ce qi	0
+漂移	piao yi	0
+检测限敏感度	jian ce xian min gan du	0
+归一化法	gui yi hua fa	0
+外标法	wai biao fa	0
+高速液相色谱法	gao su ye xiang se pu fa	0
+高压液相色谱法	gao ya ye xiang se pu fa	0
+高分辨液相色谱法	gao fen bian ye xiang se pu fa	0
+液固吸附色谱法	ye gu xi fu se pu fa	0
+正相	zheng xiang	0
+反相	fan xiang	0
+十八烷基	shi ba wan ji	0
+离子对色谱法	li zi dui se pu fa	0
+反相离子对色谱法	fan xiang li zi dui se pu fa	0
+离子抑制色谱法	li zi yi zhi se pu fa	0
+离子色谱法	li zi se pu fa	0
+手性色谱法	shou xing se pu fa	0
+环糊精色谱法	huan hu jing se pu fa	0
+胶束色谱法	jiao shu se pu fa	0
+手性固定相	shou xing gu ding xiang	0
+恒组成溶剂洗脱	heng zu cheng rong ji xi tuo	0
+梯度洗脱	ti du xi tuo	0
+紫外检测器	zi wai jian ce qi	0
+荧光检测器	ying guang jian ce qi	0
+电化学检测器	dian hua xue jian ce qi	0
+示差折光检测器	shi cha zhe guang jian ce qi	0
+示差折光检测器	shi chai zhe guang jian ce qi	0
+示差折光检测器	shi ci zhe guang jian ce qi	0
+光电二极管检测器	guang dian er ji guan jian ce qi	0
+蒸发光散射检测器	zheng fa guang san she jian ce qi	0
+安培检测器	an pei jian ce qi	0
+淌度	tang du	0
+淌度	tang duo	0
+淌度	chang du	0
+淌度	chang duo	0
+电泳	dian yong	0
+电渗	dian shen	0
+动力进样	dong li jin yang	0
+电动进样	dian dong jin yang	0
+毛细管区带电泳法	mao xi guan qu dai dian yong fa	0
+毛细管区带电泳法	mao xi guan ou dai dian yong fa	0
+胶束电动毛细管色谱	jiao shu dian dong mao xi guan se pu	0
+毛细管凝胶电泳	mao xi guan ning jiao dian yong	0
+筛分	shai fen	0
+量子点	liang zi dian	0
+室温磷光传感	shi wen lin guang chuan gan	0
+磷光	lin guang	0
+生物体液	sheng wu ti ye	0
+生物流体	sheng wu liu ti	0
+掺杂	chan za	0
+痕量分析	hen liang fen xi	0
+纳米复合材料	na mi fu he cai liao	0
+检出限	jian chu xian	0
+平行测定	ping xing ce ding	0
+回收率	hui shou lv	0
+光诱导电子转移	guang you dao dian zi zhuan yi	0
+电子转移	dian zi zhuan yi	0
+自体荧光	zi ti ying guang	0
+分子探针	fen zi tan zhen	0

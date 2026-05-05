@@ -1,0 +1,243 @@
+# 词库名称: 机械制图词库
+# 词库分类: 中径 小径 线数 导程 螺距 旋向 六角头螺栓 双
+# 词库作者: 我的光辉水月
+# 词库描述: 机械制图词库.......
+# 词条数量: 235
+# 解析词数: 235
+# 解析异常: 0
+
+机械	ji xie	0
+正投影法	zheng tou ying fa	0
+零件图	ling jian tu	0
+装配图	zhuang pei tu	0
+组合体	zu he ti	0
+相贯线	xiang guan xian	0
+轴测图	zhou ce tu	0
+正等轴测图	zheng deng zhou ce tu	0
+斜二轴测图	xie er zhou ce tu	0
+三视图	san shi tu	0
+截交线	jie jiao xian	0
+轴测投影	zhou ce tou ying	0
+焊接图	han jie tu	0
+展开图	zhan kai tu	0
+换面法	huan mian fa	0
+试图	shi tu	0
+剖视图	pou shi tu	0
+断面图	duan mian tu	0
+公差	gong chai	0
+分规	fen gui	0
+铅笔	qian bi	0
+擦图片	ca tu pian	0
+曲线板	qu xian ban	0
+绘图纸	hui tu zhi	0
+图板	tu ban	0
+三角板	san jiao ban	0
+圆规	yuan gui	0
+丁字尺	ding zi chi	0
+图样	tu yang	0
+零号图纸	ling hao tu zhi	0
+一号图纸	yi hao tu zhi	0
+二号图纸	er hao tu zhi	0
+三号图纸	san hao tu zhi	0
+四号图纸	si hao tu zhi	0
+幅面代号	fu mian dai hao	0
+幅面尺寸	fu mian chi cun	0
+周边尺寸	zhou bian chi cun	0
+标题栏	biao ti lan	0
+明细栏	ming xi lan	0
+对中符号	dui zhong fu hao	0
+方向符号	fang xiang fu hao	0
+比例	bi li	0
+放大比例	fang da bi li	0
+缩小比例	suo xiao bi li	0
+长仿宋体	chang fang song ti	0
+长仿宋体	zhang fang song ti	0
+粗实线	cu shi xian	0
+细虚线	xi xu xian	0
+细实线	xi shi xian	0
+细点画线	xi dian hua xian	0
+细双点画线	xi shuang dian hua xian	0
+波浪线	bo lang xian	0
+双折线	shuang zhe xian	0
+粗点画线	cu dian hua xian	0
+粗虚线	cu xu xian	0
+可见轮廓线	ke jian lun kuo xian	0
+可见棱边线	ke jian leng bian xian	0
+可见棱边线	ke jian ling bian xian	0
+螺纹牙顶线	luo wen ya ding xian	0
+齿顶圆线	chi ding yuan xian	0
+不可见轮廓线	bu ke jian lun kuo xian	0
+不可见棱边线	bu ke jian leng bian xian	0
+不可见棱边线	bu ke jian ling bian xian	0
+尺寸线	chi cun xian	0
+尺寸界线	chi cun jie xian	0
+剖面线	pou mian xian	0
+重合断面的轮廓线	chong he duan mian de lun kuo xian	0
+重合断面的轮廓线	chong he duan mian di lun kuo xian	0
+过渡线	guo du xian	0
+辅助线	fu zhu xian	0
+引出线	yin chu xian	0
+螺纹牙底线	luo wen ya di xian	0
+齿根线	chi gen xian	0
+短中心线	duan zhong xin xian	0
+轴线	zhou xian	0
+对称中心线	dui chen zhong xin xian	0
+分度圆线	fen du yuan xian	0
+孔系分布中心线	kong xi fen bu zhong xin xian	0
+孔系分布中心线	kong ji fen bu zhong xin xian	0
+剖切线	pou qie xian	0
+倒角	dao jiao	0
+圆角	yuan jiao	0
+等份圆周	deng fen yuan zhou	0
+斜度	xie du	0
+锥度	zhui du	0
+定形尺寸	ding xing chi cun	0
+定位尺寸	ding wei chi cun	0
+已知线段	yi zhi xian duan	0
+中间线段	zhong jian xian duan	0
+连接线段	lian jie xian duan	0
+中心投影法	zhong xin tou ying fa	0
+平行投影法	ping xing tou ying fa	0
+正立投影面	zheng li tou ying mian	0
+侧立投影面	ce li tou ying mian	0
+侧立投影面	ze li tou ying mian	0
+侧立投影面	zhai li tou ying mian	0
+水平投影面	shui ping tou ying mian	0
+投影轴	tou ying zhou	0
+正垂线	zheng chui xian	0
+铅垂线	qian chui xian	0
+恻垂线	ce chui xian	0
+正平线	zheng ping xian	0
+水平线	shui ping xian	0
+侧平线	ce ping xian	0
+侧平线	ze ping xian	0
+侧平线	zhai ping xian	0
+平行两直线	ping xing liang zhi xian	0
+相交两直线	xiang jiao liang zhi xian	0
+异面两直线	yi mian liang zhi xian	0
+正平面	zheng ping mian	0
+水平面	shui ping mian	0
+侧平面	ce ping mian	0
+侧平面	ze ping mian	0
+侧平面	zhai ping mian	0
+正垂面	zheng chui mian	0
+铅垂面	qian chui mian	0
+侧垂面	ce chui mian	0
+侧垂面	ze chui mian	0
+侧垂面	zhai chui mian	0
+轴间角	zhou jian jiao	0
+轴间角	zhou jian jue	0
+轴向伸缩系数	zhou xiang shen suo xi shu	0
+方箱法	fang xiang fa	0
+坐标法	zuo biao fa	0
+向视图	xiang shi tu	0
+斜视图	xie shi tu	0
+局部视图	ju bu shi tu	0
+纵剖面	zong pou mian	0
+横剖面	heng pou mian	0
+全剖视图	quan pou shi tu	0
+半剖视图	ban pou shi tu	0
+局部剖视图	ju bu pou shi tu	0
+封底焊缝	feng di han feng	0
+角焊缝	jiao han feng	0
+角焊缝	jue han feng	0
+塞焊缝	sai han feng	0
+塞焊缝	se han feng	0
+槽焊缝	cao han feng	0
+点焊缝	dian han feng	0
+缝焊缝	feng han feng	0
+平面	ping mian	0
+凸面符号	tu mian fu hao	0
+凹面符号	ao mian fu hao	0
+工件厚度	gong jian hou du	0
+坡口角度	po kou jiao du	0
+根部间隙	gen bu jian xi	0
+钝边	dun bian	0
+焊缝宽度	han feng kuan du	0
+根部半径	gen bu ban jing	0
+焊缝间距	han feng jian ju	0
+焊角尺寸	han jiao chi cun	0
+熔核直径	rong he zhi jing	0
+熔核直径	rong hu zhi jing	0
+焊缝有效厚度	han feng you xiao hou du	0
+相同焊缝数量符号	xiang tong han feng shu liang fu hao	0
+坡口深度	po kou shen du	0
+焊缝长度	han feng chang du	0
+焊缝段数	han feng duan shu	0
+余高	yu gao	0
+坡口面角度	po kou mian jiao du	0
+起模斜度	qi mo xie du	0
+起模斜度	qi mu xie du	0
+铸造圆角	zhu zao yuan jiao	0
+铸件壁厚	zhu jian bi hou	0
+凸台	tu tai	0
+凹坑	ao keng	0
+主视图	zhu shi tu	0
+尺寸基准	chi cun ji zhun	0
+主要尺寸	zhu yao chi cun	0
+非主要尺寸	fei zhu yao chi cun	0
+标注	biao zhu	0
+螺孔	luo kong	0
+沉孔	chen kong	0
+退刀槽	tui dao cao	0
+对称结构	dui chen jie gou	0
+表面粗糙度	biao mian cu cao du	0
+极限	ji xian	0
+尺寸公差	chi cun gong chai	0
+极限偏差	ji xian pian cha	0
+基本尺寸	ji ben chi cun	0
+偏差	pian cha	0
+极限尺寸	ji xian chi cun	0
+零线	ling xian	0
+公差带	gong chai dai	0
+间隙配合	jian xi pei he	0
+过渡配合	guo du pei he	0
+过盈配合	guo ying pei he	0
+标准公差	biao zhun gong chai	0
+基本偏差	ji ben pian cha	0
+形位公差	xing wei gong chai	0
+形状公差	xing zhuang gong chai	0
+位置公差	wei zhi gong chai	0
+直线度	zhi xian du	0
+直线度	zhi xian duo	0
+平面度	ping mian du	0
+圆度	yuan du	0
+圆柱度	yuan zhu du	0
+圆柱度	yuan zhu duo	0
+线轮廓度	xian lun kuo du	0
+线轮廓度	xian lun kuo duo	0
+面轮廓度	mian lun kuo du	0
+面轮廓度	mian lun kuo duo	0
+定向位置公差	ding xiang wei zhi gong chai	0
+平行度	ping xing du	0
+平行度	ping xing duo	0
+垂直度	chui zhi du	0
+倾斜度	qing xie du	0
+定位位置公差	ding wei wei zhi gong chai	0
+同轴度	tong zhou du	0
+同轴度	tong zhou duo	0
+对称度	dui chen du	0
+对称度	dui chen duo	0
+位置度	wei zhi du	0
+位置度	wei zhi duo	0
+跳动位置公差	tiao dong wei zhi gong chai	0
+圆跳动	yuan tiao dong	0
+全跳动	quan tiao dong	0
+牙型	ya xing	0
+外螺纹	wai luo wen	0
+内螺纹	nei luo wen	0
+直径	zhi jing	0
+大径	da jing	0
+中径	zhong jing	0
+小径	xiao jing	0
+线数	xian shu	0
+导程	dao cheng	0
+螺距	luo ju	0
+旋向	xuan xiang	0
+六角头螺栓	liu jiao tou luo shuan	0
+双头螺栓	shuang tou luo shuan	0
+开槽圆柱头螺钉	kai cao yuan zhu tou luo ding	0
+开槽沉头螺钉	kai cao chen tou luo ding	0
+十字槽沉头螺钉	shi zi cao chen tou luo ding	0
+开槽锥端紧定螺钉	kai cao zhui duan jin ding luo ding	0
+标准型弹簧垫圈	biao zhun xing tan huang dian quan	0

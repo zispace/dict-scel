@@ -1,0 +1,665 @@
+# 词库名称: 工程兵
+# 词库分类: 桥节车 车行部宽度 水面上桥 障碍深 车辙 自由航速
+# 词库作者: 三号阳光宅男
+# 词库描述: 工程兵3.......
+# 词条数量: 657
+# 解析词数: 657
+# 解析异常: 0
+
+工程兵	gong cheng bing	0
+工程兵预备队	gong cheng bing yu bei dui	0
+工兵	gong bing	0
+独立工程兵	du li gong cheng bing	0
+队属工程兵	dui shu gong cheng bing	0
+队属工程兵	dui zhu gong cheng bing	0
+队属工兵	dui shu gong bing	0
+队属工兵	dui zhu gong bing	0
+工兵部队	gong bing bu dui	0
+舟桥部队	zhou qiao bu dui	0
+建筑部队	jian zhu bu dui	0
+工程维护部队	gong cheng wei hu bu dui	0
+工程维护总队	gong cheng wei hu zong dui	0
+伪装部队	wei zhuang bu dui	0
+野战给水工程分队	ye zhan ji shui gong cheng fen dui	0
+运动保障队	yun dong bao zhang dui	0
+障碍设置队	zhang ai she zhi dui	0
+障碍排除队	zhang ai pai chu dui	0
+军事工程学术	jun shi gong cheng xue shu	0
+工程兵专业技术	gong cheng bing zhuan ye ji shu	0
+工程兵战术	gong cheng bing zhan shu	0
+工程保障	gong cheng bao zhang	0
+遂行工程保障	sui xing gong cheng bao zhang	0
+工程保障计划	gong cheng bao zhang ji hua	0
+工程保障指示	gong cheng bao zhang zhi shi	0
+工程决心	gong cheng jue xin	0
+工程措施	gong cheng cuo shi	0
+工程勘察	gong cheng kan cha	0
+工程侦察	gong cheng zhen cha	0
+实施工程侦察	shi shi gong cheng zhen cha	0
+工程观察哨	gong cheng guan cha shao	0
+工程侦察组	gong cheng zhen cha zu	0
+工程侦察群	gong cheng zhen cha qun	0
+工程设施	gong cheng she shi	0
+工程构筑	gong cheng gou zhu	0
+工程作业	gong cheng zuo ye	0
+工程量	gong cheng liang	0
+作业量	zuo ye liang	0
+作业力	zuo ye li	0
+作业率	zuo ye lv	0
+纵长米	zong chang mi	0
+工程装备	gong cheng zhuang bei	0
+工程器材	gong cheng qi cai	0
+就便器材	jiu bian qi cai	0
+制式器材	zhi shi qi cai	0
+预制构件	yu zhi gou jian	0
+地雷	di lei	0
+防坦克地雷	fang tan ke di lei	0
+防步兵地雷	fang bu bing di lei	0
+防空降地雷	fang kong jiang di lei	0
+防空降地雷	fang kong xiang di lei	0
+特种地雷	te zhong di lei	0
+信号地雷	xin hao di lei	0
+定向地雷	ding xiang di lei	0
+延期地雷	yan qi di lei	0
+定时地雷	ding shi di lei	0
+照明地雷	zhao ming di lei	0
+燃烧地雷	ran shao di lei	0
+化学地雷	hua xue di lei	0
+毒剂地雷	du ji di lei	0
+跳雷	tiao lei	0
+跳雷	tao lei	0
+磁性雷	ci xing lei	0
+反坦克手雷	fan tan ke shou lei	0
+破片地雷	po pian di lei	0
+诡雷	gui lei	0
+连环雷	lian huan lei	0
+操纵地雷	cao zong di lei	0
+应用地雷	ying yong di lei	0
+磁性定时水雷	ci xing ding shi shui lei	0
+应用水雷	ying yong shui lei	0
+江河水雷	jiang he shui lei	0
+漂雷	piao lei	0
+沉底水雷	chen di shui lei	0
+锚定水雷	mao ding shui lei	0
+可撒布地雷	ke sa bu di lei	0
+火箭布雷弹	huo jian bu lei dan	0
+火箭布雷弹	huo jian bu lei tan	0
+布雷车	bu lei che	0
+布雷车	bu lei ju	0
+布雷	bu lei	0
+布雷密度	bu lei mi du	0
+雷区	lei qu	0
+雷带	lei dai	0
+雷列	lei lie	0
+单列地雷	dan lie di lei	0
+地雷群	di lei qun	0
+地雷场	di lei chang	0
+雷场	lei chang	0
+雷场文件	lei chang wen jian	0
+雷场勤务	lei chang qin wu	0
+混合地雷场	hun he di lei chang	0
+混合雷场	hun he lei chang	0
+排雷	pai lei	0
+排弹	pai dan	0
+排弹	pai tan	0
+扫雷	sao lei	0
+探雷器材	tan lei qi cai	0
+探雷器	tan lei qi	0
+探雷针	tan lei zhen	0
+扫雷器材	sao lei qi cai	0
+扫雷器	sao lei qi	0
+扫雷锚	sao lei mao	0
+爆破	bao po	0
+爆破作业	bao po zuo ye	0
+爆破器材	bao po qi cai	0
+爆炸	bao zha	0
+炸药	zha yao	0
+起爆药	qi bao yao	0
+破坏药	po huai yao	0
+火药	huo yao	0
+塑性炸药	su xing zha yao	0
+梯恩梯	ti en ti	0
+硝铵炸药	xiao an zha yao	0
+黑色炸药	hei se zha yao	0
+黑色火药	hei se huo yao	0
+燃料空气炸药	ran liao kong qi zha yao	0
+液体炸药	ye ti zha yao	0
+火具	huo ju	0
+火工品	huo gong pin	0
+雷管	lei guan	0
+点火管	dian huo guan	0
+拉火管	la huo guan	0
+火帽	huo mao	0
+拉火丝	la huo si	0
+摩擦药	mo ca yao	0
+拉火柄	la huo bing	0
+导爆索	dao bao suo	0
+爆速	bao su	0
+导火索	dao huo suo	0
+制式药块	zhi shi yao kuai	0
+药块	yao kuai	0
+炸药包	zha yao bao	0
+药包	yao bao	0
+集团药包	ji tuan yao bao	0
+直列药包	zhi lie yao bao	0
+抛射药包	pao she yao bao	0
+装药	zhuang yao	0
+药室	yao shi	0
+药壶	yao hu	0
+点火法	dian huo fa	0
+点火站	dian huo zhan	0
+点火机	dian huo ji	0
+起爆器	qi bao qi	0
+遥控起爆器	yao kong qi bao qi	0
+起爆	qi bao	0
+点火	dian huo	0
+大爆破	da bao po	0
+大爆破	dai bao po	0
+大爆破	tai bao po	0
+峒室爆破	dong shi bao po	0
+峒室爆破	tong shi bao po	0
+定向爆破	ding xiang bao po	0
+飞散爆破	fei san bao po	0
+松散爆破	song san bao po	0
+压缩爆破	ya suo bao po	0
+攻坚爆破	gong jian bao po	0
+强行爆破	qiang xing bao po	0
+水中爆破	shui zhong bao po	0
+隐蔽爆破	yin bi bao po	0
+坑道爆破	keng dao bao po	0
+光面爆破	guang mian bao po	0
+单人掩体爆破器	dan ren yan ti bao po qi	0
+爆破筒	bao po tong	0
+火箭爆破器	huo jian bao po qi	0
+火箭爆破弹	huo jian bao po dan	0
+火箭爆破弹	huo jian bao po tan	0
+破坏作业	po huai zuo ye	0
+安全距离	an quan ju li	0
+筑城	zhu cheng	0
+永备筑城	yong bei zhu cheng	0
+野战筑城	ye zhan zhu cheng	0
+工事	gong shi	0
+构筑工事	gou zhu gong shi	0
+永备工事	yong bei gong shi	0
+野战工事	ye zhan gong shi	0
+短洞	duan dong	0
+崖孔	ya kong	0
+掩壕	yan hao	0
+堑壕	qian hao	0
+交通壕	jiao tong hao	0
+战斗工事	zhan dou gong shi	0
+屯兵工事	tun bing gong shi	0
+射击工事	she ji gong shi	0
+观察工事	guan cha gong shi	0
+指挥工事	zhi hui gong shi	0
+指挥所掩蔽工事	zhi hui suo yan bi gong shi	0
+掩蔽工事	yan bi gong shi	0
+掘开式工事	jue kai shi gong shi	0
+暗挖式工事	an wa shi gong shi	0
+堆积式工事	dui ji shi gong shi	0
+坑道工事	keng dao gong shi	0
+坑道	keng dao	0
+地道工事	di dao gong shi	0
+地道	di dao	0
+装配式工事	zhuang pei shi gong shi	0
+整体式工事	zheng ti shi gong shi	0
+球形工事	qiu xing gong shi	0
+卵形工事	luan xing gong shi	0
+露天工事	lu tian gong shi	0
+掩盖工事	yan gai gong shi	0
+核心工事	he xin gong shi	0
+工事抗力	gong shi kang li	0
+工事抗力等级	gong shi kang li deng ji	0
+工事防护等级	gong shi fang hu deng ji	0
+地堡	di bao	0
+碉堡	diao bao	0
+暗堡	an bao	0
+帽堡	mao bao	0
+帽堡	mao bu	0
+帽堡	mao pu	0
+掩体	yan ti	0
+单人掩体	dan ren yan ti	0
+散兵坑	san bing keng	0
+掩蔽部	yan bi bu	0
+掩蔽所	yan bi suo	0
+避弹所	bi dan suo	0
+避弹所	bi tan suo	0
+经始	jing shi	0
+土工作业	tu gong zuo ye	0
+近迫作业	jin po zuo ye	0
+近迫作业	jin pai zuo ye	0
+对壕作业	dui hao zuo ye	0
+掘进	jue jin	0
+被覆	bei fu	0
+灌注	guan zhu	0
+养护	yang hu	0
+回填	hui tian	0
+塌方	ta fang	0
+防护门	fang hu men	0
+防护密闭门	fang hu mi bi men	0
+密闭门	mi bi men	0
+坑道维护	keng dao wei hu	0
+障碍物	zhang ai wu	0
+排除障碍物	pai chu zhang ai wu	0
+构筑障碍物	gou zhu zhang ai wu	0
+构筑防步兵障碍物	gou zhu fang bu bing zhang ai wu	0
+构筑防坦克障碍物	gou zhu fang tan ke zhang ai wu	0
+构筑防登陆障碍物	gou zhu fang deng lu zhang ai wu	0
+构筑防空降障碍物	gou zhu fang kong jiang zhang ai wu	0
+构筑防空降障碍物	gou zhu fang kong xiang zhang ai wu	0
+排除防步兵障碍物	pai chu fang bu bing zhang ai wu	0
+排除防坦克障碍物	pai chu fang tan ke zhang ai wu	0
+排除防登陆障碍物	pai chu fang deng lu zhang ai wu	0
+排除防空降障碍物	pai chu fang kong jiang zhang ai wu	0
+排除防空降障碍物	pai chu fang kong xiang zhang ai wu	0
+机动设置障碍物	ji dong she zhi zhang ai wu	0
+天然障碍物	tian ran zhang ai wu	0
+人工障碍物	ren gong zhang ai wu	0
+工程障碍物	gong cheng zhang ai wu	0
+爆炸性障碍物	bao zha xing zhang ai wu	0
+筑城障碍物	zhu cheng zhang ai wu	0
+非爆炸性障碍物	fei bao zha xing zhang ai wu	0
+防步兵障碍物	fang bu bing zhang ai wu	0
+防坦克障碍物	fang tan ke zhang ai wu	0
+防登陆障碍物	fang deng lu zhang ai wu	0
+防空降障碍物	fang kong jiang zhang ai wu	0
+防空降障碍物	fang kong xiang zhang ai wu	0
+移动性障碍物	yi dong xing zhang ai wu	0
+火障碍物	huo zhang ai wu	0
+火障	huo zhang	0
+水障碍物	shui zhang ai wu	0
+冰雪障碍物	bing xue zhang ai wu	0
+雪垒	xue lei	0
+岸滩障碍物	an tan zhang ai wu	0
+水中障碍物	shui zhong zhang ai wu	0
+水障	shui zhang	0
+障碍物体系	zhang ai wu ti xi	0
+障碍物配系	zhang ai wu pei xi	0
+障碍物配系	zhang ai wu pei ji	0
+障碍物密度	zhang ai wu mi du	0
+铁丝网	tie si wang	0
+蛇腹性铁丝网	she fu xing tie si wang	0
+蛇腹性铁丝网	yi fu xing tie si wang	0
+竹签桩	zhu qian zhuang	0
+鹿砦	lu zhai	0
+拦障	lan zhang	0
+浮游拦障	fu you lan zhang	0
+路障	lu zhang	0
+拒马	ju ma	0
+刺钉	ci ding	0
+防坦克壕	fang tan ke hao	0
+壕底	hao di	0
+壕底	hao de	0
+壕深	hao shen	0
+壕宽	hao kuan	0
+防坦克三角沟	fang tan ke san jiao gou	0
+防坦克减速沟坝	fang tan ke jian su gou ba	0
+三角锥	san jiao zhui	0
+防坦克三角锥	fang tan ke san jiao zhui	0
+削壁	xiao bi	0
+崖壁	ya bi	0
+断崖	duan ya	0
+桩砦	zhuang zhai	0
+轨条砦	gui tiao zhai	0
+陷阱	xian jing	0
+电网	dian wang	0
+街垒	jie lei	0
+外壕	wai hao	0
+开辟通路	kai pi tong lu	0
+通路勤务	tong lu qin wu	0
+封闭通路	feng bi tong lu	0
+标示通路	biao shi tong lu	0
+军用道路	jun yong dao lu	0
+修筑道路	xiu zhu dao lu	0
+急造军路	ji zao jun lu	0
+道路网	dao lu wang	0
+纵向路	zong xiang lu	0
+横向路	heng xiang lu	0
+进出路	jin chu lu	0
+迂回路	yu hui lu	0
+接近路	jie jin lu	0
+预备路	yu bei lu	0
+交通量	jiao tong liang	0
+通路通行能力	tong lu tong xing neng li	0
+行车密度	xing che mi du	0
+道路维护	dao lu wei hu	0
+道路警备调整勤务	dao lu jing bei tiao zheng qin wu	0
+路面构件	lu mian gou jian	0
+车辙道	che zhe dao	0
+车辙桥	che zhe qiao	0
+过水路面	guo shui lu mian	0
+透水路提	tou shui lu ti	0
+透水路提	tou shui lu di	0
+透水路基	tou shui lu ji	0
+道路平曲线半径	dao lu ping qu xian ban jing	0
+道路标志	dao lu biao zhi	0
+道路保障	dao lu bao zhang	0
+运动保障	yun dong bao zhang	0
+巡回保障	xun hui bao zhang	0
+定点保障	ding dian bao zhang	0
+军用桥梁	jun yong qiao liang	0
+架桥	jia qiao	0
+架设桥梁	jia she qiao liang	0
+低水桥	di shui qiao	0
+水面下桥	shui mian xia qiao	0
+索道桥	suo dao qiao	0
+吊桥	diao qiao	0
+斜撑桥	xie cheng qiao	0
+制式桥	zhi shi qiao	0
+轻便桥	qing bian qiao	0
+弹坑桥	dan keng qiao	0
+机械化桥	ji xie hua qiao	0
+装配式公路钢桥	zhuang pei shi gong lu gang qiao	0
+制式桥梁器材	zhi shi qiao liang qi cai	0
+徒步桥	tu bu qiao	0
+桥轴线	qiao zhou xian	0
+桥梁跨径	qiao liang kua jing	0
+车轮式荷载	che lun shi he zai	0
+轮式荷载	lun shi he zai	0
+履带式荷载	lv dai shi he zai	0
+桥梁维护	qiao liang wei hu	0
+渡河	du he	0
+渡江	du jiang	0
+徒涉	tu she	0
+徒涉渡河	tu she du he	0
+泅渡	qiu du	0
+冰上渡河	bing shang du he	0
+轻便器材渡河	qing bian qi cai du he	0
+门桥渡河	men qiao du he	0
+桥梁渡河	qiao liang du he	0
+渡河地区	du he di qu	0
+渡河地段	du he di duan	0
+渡场	du chang	0
+开设渡场	kai she du chang	0
+徒涉场	tu she chang	0
+泅渡场	qiu du chang	0
+冰上渡场	bing shang du chang	0
+轻便器材渡场	qing bian qi cai du chang	0
+门桥渡场	men qiao du chang	0
+桥渡场	qiao du chang	0
+渡口	du kou	0
+渡场出发线	du chang chu fa xian	0
+待渡地区	dai du di qu	0
+渡河器材集结场	du he qi cai ji jie chang	0
+器材集结场	qi cai ji jie chang	0
+渡场水上巡逻队	du chang shui shang xun luo dui	0
+渡场勤务	du chang qin wu	0
+渡场调整哨	du chang tiao zheng shao	0
+渡场长	du chang zhang	0
+渡河检查站	du he jian cha zhan	0
+渡场救护打捞站	du chang jiu hu da lao zhan	0
+渡场指挥所	du chang zhi hui suo	0
+渡场撤收	du chang che shou	0
+渡河器材	du he qi cai	0
+冲锋舟	chong feng zhou	0
+民舟	min zhou	0
+浮囊	fu nang	0
+筏子	fa zi	0
+橡皮舟	xiang pi zhou	0
+舟桥器材	zhou qiao qi cai	0
+泛水	fan shui	0
+泛水线	fan shui xian	0
+舟桥	zhou qiao	0
+桥脚	qiao jiao	0
+桥脚	qiao jue	0
+桥脚舟	qiao jiao zhou	0
+桥脚舟	qiao jue zhou	0
+上部结构	shang bu jie gou	0
+岸边码头	an bian ma tou	0
+岸边器材	an bian qi cai	0
+岸边舟	an bian zhou	0
+河中舟	he zhong zhou	0
+操舟机	cao zhou ji	0
+舟车	zhou che	0
+牵引汽艇	qian yin qi ting	0
+舟桥器材泛水	zhou qiao qi cai fan shui	0
+特种舟桥	te zhong zhou qiao	0
+带式舟桥	dai shi zhou qiao	0
+重型舟桥	zhong xing zhou qiao	0
+轻型舟桥	qing xing zhou qiao	0
+自行舟桥	zi xing zhou qiao	0
+浮桥	fu qiao	0
+徒步浮桥	tu bu fu qiao	0
+栈桥	zhan qiao	0
+门桥	men qiao	0
+桥节门桥	qiao jie men qiao	0
+伸缩门桥	shen suo men qiao	0
+锚定门桥	mao ding men qiao	0
+打桩门桥	da zhuang men qiao	0
+漕渡门桥	cao du men qiao	0
+漕渡	cao du	0
+发航点	fa hang dian	0
+流线	liu xian	0
+回流	hui liu	0
+偏流距离	pian liu ju li	0
+伪装	wei zhuang	0
+实施伪装	shi shi wei zhuang	0
+天然伪装	tian ran wei zhuang	0
+人工伪装	ren gong wei zhuang	0
+植物伪装	zhi wu wei zhuang	0
+迷彩伪装	mi cai wei zhuang	0
+迷彩	mi cai	0
+迷彩服	mi cai fu	0
+烟幕伪装	yan mu wei zhuang	0
+灯火伪装	deng huo wei zhuang	0
+音响伪装	yin xiang wei zhuang	0
+防雷达侦察伪装	fang lei da zhen cha wei zhuang	0
+防光学侦察伪装	fang guang xue zhen cha wei zhuang	0
+防热红外线侦察伪装	fang re hong wai xian zhen cha wei zhuang	0
+目标伪装	mu biao wei zhuang	0
+遮障	zhe zhang	0
+天然遮障	tian ran zhe zhang	0
+人工遮障	ren gong zhe zhang	0
+水平遮障	shui ping zhe zhang	0
+垂直遮障	chui zhi zhe zhang	0
+倾斜遮障	qing xie zhe zhang	0
+掩盖遮障	yan gai zhe zhang	0
+变形遮障	bian xing zhe zhang	0
+干扰遮障	gan rao zhe zhang	0
+隔绝遮障	ge jue zhe zhang	0
+伪装网	wei zhuang wang	0
+防雷达伪装网	fang lei da wei zhuang wang	0
+雷达散射网	lei da san she wang	0
+伪装蚀片	wei zhuang shi pian	0
+伪装衣	wei zhuang yi	0
+伪装伞	wei zhuang san	0
+角反射器	jiao fan she qi	0
+角反射器	jue fan she qi	0
+目标暴露征候	mu biao bao lu zheng hou	0
+伪装器材	wei zhuang qi cai	0
+假目标	jia mu biao	0
+野战给水	ye zhan ji shui	0
+野战工程给水	ye zhan gong cheng ji shui	0
+构筑给水站	gou zhu ji shui zhan	0
+给水站	ji shui zhan	0
+给水点	ji shui dian	0
+水源污染	shui yuan wu ran	0
+水质鉴定	shui zhi jian ding	0
+水质改善	shui zhi gai shan	0
+给水器材	ji shui qi cai	0
+给水勤务	ji shui qin wu	0
+供水标准	gong shui biao zhun	0
+汲水	ji shui	0
+净水	jing shui	0
+贮水	zhu shui	0
+配水	pei shui	0
+工程机械	gong cheng ji xie	0
+架桥车	jia qiao che	0
+架桥车	jia qiao ju	0
+拔桩机	ba zhuang ji	0
+永备筑城工程机械	yong bei zhu cheng gong cheng ji xie	0
+野战工程机械	ye zhan gong cheng ji xie	0
+阵地机械	zhen di ji xie	0
+筑路机械	zhu lu ji xie	0
+渡河架桥机械	du he jia qiao ji xie	0
+保障机械	bao zhang ji xie	0
+机械场	ji xie chang	0
+机械场勤务	ji xie chang qin wu	0
+机械技术检查站	ji xie ji shu jian cha zhan	0
+工程机械载运	gong cheng ji xie zai yun	0
+工程机械管理	gong cheng ji xie guan li	0
+工程机具	gong cheng ji ju	0
+地雷爆破器材	di lei bao po qi cai	0
+桥梁渡河器材	qiao liang du he qi cai	0
+渡河机械	du he ji xie	0
+指挥防护工程	zhi hui fang hu gong cheng	0
+首脑工程	shou nao gong cheng	0
+前沿前	qian yan qian	0
+实施破坏作业	shi shi po huai zuo ye	0
+发火方式	fa huo fang shi	0
+压发	ya fa	0
+松发	song fa	0
+绊发	ban fa	0
+电发	dian fa	0
+瞬发	shun fa	0
+非操纵	fei cao zong	0
+制式地雷	zhi shi di lei	0
+飞散角	fei san jiao	0
+飞散角	fei san jue	0
+密集杀伤距离	mi ji sha shang ju li	0
+密集杀伤半径	mi ji sha shang ban jing	0
+有效杀伤距离	you xiao sha shang ju li	0
+有效杀伤半径	you xiao sha shang ban jing	0
+桥桁	qiao hang	0
+桥桁	qiao heng	0
+桥板	qiao ban	0
+雷壳	lei ke	0
+雷壳	lei qiao	0
+耐爆性	nai bao xing	0
+耐爆性能	nai bao xing neng	0
+动作压力	dong zuo ya li	0
+防探性	fang tan xing	0
+腾炸高度	teng zha gao du	0
+动作拉力	dong zuo la li	0
+绊线轴	ban xian zhou	0
+绊桩	ban zhuang	0
+压板	ya ban	0
+雷体	lei ti	0
+雷体	lei ben	0
+钢珠	gang zhu	0
+密集杀伤角	mi ji sha shang jiao	0
+密集杀伤角	mi ji sha shang jue	0
+最大飞散角	zui da fei san jiao	0
+最大飞散角	zui da fei san jue	0
+拉火拴	la huo shuan	0
+击发机构	ji fa ji gou	0
+扩爆药	kuo bao yao	0
+扩爆药柱	kuo bao yao zhu	0
+黑索今	hei suo jin	0
+装药重	zhuang yao zhong	0
+装药重	zhuang yao chong	0
+雷锭	lei ding	0
+雷索	lei suo	0
+战斗保险期	zhan dou bao xian qi	0
+行军角	xing jun jiao	0
+行军角	xing jun jue	0
+挂弹	gua dan	0
+挂弹	gua tan	0
+弹长	dan chang	0
+弹长	tan chang	0
+弹长	dan zhang	0
+弹长	tan zhang	0
+弹径	dan jing	0
+弹径	tan jing	0
+助旋发动机	zhu xuan fa dong ji	0
+助旋发动机	chu xuan fa dong ji	0
+定向器	ding xiang qi	0
+战斗部	zhan dou bu	0
+射界	she jie	0
+射界	ye jie	0
+射界	yi jie	0
+射程	she cheng	0
+全备弹	quan bei dan	0
+全备弹	quan bei tan	0
+布雷器	bu lei qi	0
+储雷架	chu lei jia	0
+发火拉力	fa huo la li	0
+发火装置	fa huo zhuang zhi	0
+火雷管	huo lei guan	0
+主装药	zhu zhuang yao	0
+雷汞	lei gong	0
+氮化铅	dan hua qian	0
+氮化铅	dan hua yan	0
+电雷管	dian lei guan	0
+康铜桥丝	kang tong qiao si	0
+康铜桥丝电雷管	kang tong qiao si dian lei guan	0
+起爆电流	qi bao dian liu	0
+准爆电流	zhun bao dian liu	0
+安全电流	an quan dian liu	0
+脚线	jiao xian	0
+单个起爆电流	dan ge qi bao dian liu	0
+串联准爆电流	chuan lian zhun bao dian liu	0
+延期电雷管	yan qi dian lei guan	0
+延期时间	yan qi shi jian	0
+延期时间误差	yan qi shi jian wu cha	0
+燃速	ran su	0
+喷火距离	pen huo ju li	0
+高桩铁丝网	gao zhuang tie si wang	0
+非耐爆	fei nai bao	0
+耐爆	nai bao	0
+钝化太安	dun hua tai an	0
+特屈儿	te qu er	0
+喷火时间	pen huo shi jian	0
+传爆药	chuan bao yao	0
+传爆药	zhuan bao yao	0
+钝化泰恩	dun hua tai en	0
+被具	bei ju	0
+被具	pi ju	0
+标示绳	biao shi sheng	0
+控制标示绳	kong zhi biao shi sheng	0
+螺旋固定桩	luo xuan gu ding zhuang	0
+爆炸带	bao zha dai	0
+镍铬桥丝	nie ge qiao si	0
+镍铬桥丝电雷管	nie ge qiao si dian lei guan	0
+起爆能力	qi bao neng li	0
+遥控距离	yao kong ju li	0
+轴压力	zhou ya li	0
+车行部	che hang bu	0
+浮游部分	fu you bu fen	0
+进出口	jin chu kou	0
+固定桥脚	gu ding qiao jiao	0
+固定桥脚	gu ding qiao jue	0
+浮游桥脚	fu you qiao jiao	0
+浮游桥脚	fu you qiao jue	0
+门桥长	men qiao chang	0
+门桥长	men qiao zhang	0
+中间舟	zhong jian zhou	0
+首舟	shou zhou	0
+尾舟	wei zhou	0
+尾舟	yi zhou	0
+缘材	yuan cai	0
+桥础	qiao chu	0
+桥础材	qiao chu cai	0
+进出口桁	jin chu kou hang	0
+进出口桁	jin chu kou heng	0
+桁架滚送器	heng jia gun song qi	0
+横桁	heng hang	0
+横桁	heng heng	0
+轮式轴压	lun shi zhou ya	0
+尖舟	jian zhou	0
+方舟	fang zhou	0
+尖形舟	jian xing zhou	0
+方形舟	fang xing zhou	0
+加隙板	jia xi ban	0
+跳板	tiao ban	0
+滚筒码头	gun tong ma tou	0
+架柱栈桥	jia zhu zhan qiao	0
+全形舟	quan xing zhou	0
+并舟具	bing zhou ju	0
+三角码头	san jiao ma tou	0
+桁架连接器	heng jia lian jie qi	0
+桥头	qiao tou	0
+桥节	qiao jie	0
+桥节车	qiao jie che	0
+桥节车	qiao jie ju	0
+车行部宽度	che hang bu kuan du	0
+水面上桥	shui mian shang qiao	0
+障碍深	zhang ai shen	0
+车辙	che zhe	0
+自由航速	zi you hang su	0
+班用冲锋舟	ban yong chong feng zhou	0
+正铲	zheng chan	0
+反铲	fan chan	0
+轴荷分配	zhou he fen pei	0
+履带接地长	lv dai jie di chang	0
+履带接地长	lv dai jie di zhang	0

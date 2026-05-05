@@ -1,0 +1,1697 @@
+# 词库名称: 医学影像报告词汇
+# 词库分类: 学术教育
+# 词库作者: 朝霞斜影
+# 词库描述: 这里的词库来自《影像诊断报告书写技巧》，主编 吴振华、郭启勇，是普放、CT、磁共振的部分。
+# 词条数量: 1689
+# 解析词数: 1721
+# 解析异常: 32
+
+颅脑	lu nao	0
+隔	ge	0
+矢状面	shi zhuang mian	0
+冠状面	guan zhuang mian	0
+冠状位	guan zhuang wei	0
+灰白质	hui bai zhi	0
+白质	bai zhi	0
+灰质	hui zhi	0
+脑叶	nao ye	0
+脑叶	nao xie	0
+脑裂	nao lie	0
+脑池	nao chi	0
+脑室	nao shi	0
+形态自然	xing tai zi ran	0
+变形	bian xing	0
+中线结构	zhong xian jie gou	0
+中线结构居中	zhong xian jie gou ju zhong	0
+异常信号区	yi chang xin hao qu	0
+异常信号区	yi chang xin hao ou	0
+头皮组织	tou pi zu zhi	0
+脑梗塞	nao geng se	0
+脑梗死	nao geng si	0
+脑血管	nao xue guan	0
+疾病	ji bing	0
+不同程度	bu tong cheng du	0
+出血性	chu xue xing	0
+梗死	geng si	0
+切迹	qie ji	0
+病变区	bing bian qu	0
+病变区	bing bian ou	0
+梗死早期	geng si zao qi	0
+增强扫描	zeng qiang sao miao	0
+强化	qiang hua	0
+亚急性期	ya ji xing qi	0
+脑回样	nao hui yang	0
+陈旧性梗死	chen jiu xing geng si	0
+陈旧性	chen jiu xing	0
+腔隙性	qiang xi xing	0
+腔隙性梗死	qiang xi xing geng si	0
+脑沟	nao gou	0
+小斑点	xiao ban dian	0
+小斑点样	xiao ban dian yang	0
+小斑点状	xiao ban dian zhuang	0
+缺血性脑梗塞	que xue xing nao geng se	0
+缺血性脑梗死	que xue xing nao geng si	0
+部位	bu wei	0
+形态	xing tai	0
+右颞叶	you nie ye	0
+特点	te dian	0
+大片状	da pian zhuang	0
+不均匀	bu jun yun	0
+局部	ju bu	0
+脑组织	nao zu zhi	0
+肿胀	zhong zhang	0
+右侧脑室	you ce nao shi	0
+右颞叶区	you nie ye ou	0
+侧裂动脉群	ce lie dong mai qun	0
+侧裂动脉群	ze lie dong mai qun	0
+侧裂动脉群	zhai lie dong mai qun	0
+夹杂	jia za	0
+再灌注	zai guan zhu	0
+灌注	guan zhu	0
+多发	duo fa	0
+基底节	ji di jie	0
+丘脑	qiu nao	0
+脑干	nao gan	0
+小脑	xiao nao	0
+肌锥	ji zhui	0
+脑室旁	nao shi pang	0
+脑室旁	nao shi bang	0
+白质区	bai zhi qu	0
+白质区	bai zhi ou	0
+鉴别诊断	jian bie zhen duan	0
+放射冠	fang she guan	0
+右侧	you ce	0
+左侧	zuo ce	0
+胼胝体	pian zhi ti	0
+斑片状	ban pian zhuang	0
+点状	dian zhuang	0
+蛛网膜下腔	zhu wang mo xia qiang	0
+颅内出血	lu nei chu xue	0
+超急性期	chao ji xing qi	0
+低信号	di xin hao	0
+高信号	gao xin hao	0
+急性期	ji xing qi	0
+周围	zhou wei	0
+含铁血黄素	han tie xie huang su	0
+含铁血黄素	han tie xue huang su	0
+沉积	chen ji	0
+黑边	hei bian	0
+慢性期	man xing qi	0
+残腔期	can qiang qi	0
+残腔期	can qiang ji	0
+周围水肿	zhou wei shui zhong	0
+水肿	shui zhong	0
+硬膜下	ying mo xia	0
+硬膜外	ying mo wai	0
+脑外伤	nao wai shang	0
+右顶叶	you ding ye	0
+后部	hou bu	0
+环绕	huan rao	0
+侧脑室后角	ce nao shi hou jiao	0
+侧脑室后角	ze nao shi hou jiao	0
+侧脑室后角	zhai nao shi hou jiao	0
+后角	hou jiao	0
+侧脑室前角	ce nao shi qian jiao	0
+侧脑室前角	ze nao shi qian jiao	0
+侧脑室前角	zhai nao shi qian jiao	0
+前角	qian jiao	0
+枕角	zhen jiao	0
+枕角	zhen jue	0
+下角	xia jiao	0
+脑回推挤征	nao hui tui ji zheng	0
+聚拢	ju long	0
+硬膜外血肿	ying mo wai xue zhong	0
+右颞部	you nie bu	0
+颅骨	lu gu	0
+下方	xia fang	0
+梭形	suo xing	0
+蛛网膜下腔出血	zhu wang mo xia qiang chu xue	0
+铸形	zhu xing	0
+颅内动脉瘤	lu nei dong mai liu	0
+脑血管畸形	nao xue guan ji xing	0
+痉挛	jing luan	0
+变细	bian xi	0
+神经胶质瘤	shen jing jiao zhi liu	0
+星形细胞	xing xing xi bao	0
+星形细胞瘤	xing xing xi bao liu	0
+室管膜细胞	shi guan mo xi bao	0
+左额叶	zuo e ye	0
+额叶	e ye	0
+不规则形	bu gui ze xing	0
+血脑屏障	xue nao ping zhang	0
+强化方式	qiang hua fang shi	0
+团块状	tuan kuai zhuang	0
+环状	huan zhuang	0
+病理类型	bing li lei xing	0
+恶性度	e xing du	0
+恶性度	e xing duo	0
+囊变	nang bian	0
+血管性	xue guan xing	0
+炎性	yan xing	0
+室管膜瘤	shi guan mo liu	0
+第四脑室	di si nao shi	0
+幕上脑室	mu shang nao shi	0
+脑膜瘤	nao mo liu	0
+内皮	nei pi	0
+凸面	tu mian	0
+圆形	yuan xing	0
+类圆形	lei yuan xing	0
+扁平型	bian ping xing	0
+伪包膜	wei bao mo	0
+广基征	guang ji zheng	0
+广基征	an ji zheng	0
+脑膜尾征	nao mo wei zheng	0
+脑膜尾征	nao mo yi zheng	0
+境界	jing jie	0
+鞍结节	an jie jie	0
+垂体瘤	chui ti liu	0
+颅咽管瘤	lu yan guan liu	0
+颅咽管瘤	lu ye guan liu	0
+鞍隔	an ge	0
+边界	bian jie	0
+视交叉	shi jiao cha	0
+第三脑室	di san nao shi	0
+下部	xia bu	0
+垂体腺瘤	chui ti xian liu	0
+膨胀性	peng zhang xing	0
+内分泌	nei fen mi	0
+多饮	duo yin	0
+多尿	duo niao	0
+嗜睡	shi shui	0
+垂体大腺瘤	chui ti da xian liu	0
+垂体大腺瘤	chui ti dai xian liu	0
+垂体大腺瘤	chui ti tai xian liu	0
+垂体微腺瘤	chui ti wei xian liu	0
+卵圆形	luan yuan xing	0
+葫芦状	hu lu zhuang	0
+雪人状	xue ren zhuang	0
+侵袭性	qin xi xing	0
+分叶状	fen ye zhuang	0
+等信号	deng xin hao	0
+海绵窦	hai mian dou	0
+肿块	zhong kuai	0
+饱满	bao man	0
+垂体柄	chui ti bing	0
+偏移	pian yi	0
+鞍底	an di	0
+鞍底	an de	0
+骨质	gu zhi	0
+请结合临床	qing jie he lin chuang	0
+相关检查	xiang guan jian cha	0
+拉氏袋	la shi dai	0
+拉氏袋	la zhi dai	0
+残余组织	can yu zu zhi	0
+胆固醇	dan gu chun	0
+油性	you xing	0
+湿性	shi xing	0
+角质	jiao zhi	0
+角质蛋白	jiao zhi dan bai	0
+纤维组织	xian wei zu zhi	0
+颅内压	lu nei ya	0
+增高	zeng gao	0
+视力	shi li	0
+视野	shi ye	0
+缺损	que sun	0
+损害	sun hai	0
+精神症状	jing shen zheng zhuang	0
+脑神经	nao shen jing	0
+蝶窦	die dou	0
+听神经瘤	ting shen jing liu	0
+神经鞘瘤	shen jing qiao liu	0
+神经鞘瘤	shen jing shao liu	0
+耳鸣	er ming	0
+听力下降	ting li xia jiang	0
+听力	ting li	0
+眩晕	xuan yun	0
+吞咽	tun yan	0
+面部	mian bu	0
+麻木	ma mu	0
+桥小脑角	qiao xiao nao jiao	0
+桥小脑角	qiao xiao nao jue	0
+桥小脑角区	qiao xiao nao jiao qu	0
+桥小脑角区	qiao xiao nao jue qu	0
+桥小脑角区	qiao xiao nao jiao ou	0
+桥小脑角区	qiao xiao nao jue ou	0
+内听道	nei ting dao	0
+内听道	na ting dao	0
+囊变坏死区	nang bian huai si qu	0
+脑积水	nao ji shui	0
+胆脂瘤	dan zhi liu	0
+三叉神经	san cha shen jing	0
+三叉神经瘤	san cha shen jing liu	0
+三叉神经痛	san cha shen jing tong	0
+血行	xie hang	0
+血行	xue hang	0
+血行	xie xing	0
+血行	xue xing	0
+脑转移瘤	nao zhuan yi liu	0
+视乳头	shi ru tou	0
+黑色素瘤	hei se su liu	0
+脑脓肿	nao nong zhong	0
+脑囊虫	nao nang chong	0
+双侧	shuang ce	0
+皮质	pi zhi	0
+髓质	sui zhi	0
+结节状	jie jie zhuang	0
+单发	dan fa	0
+边缘	bian yuan	0
+光滑	guang hua	0
+脑挫裂伤	nao cuo lie shang	0
+挫裂伤	cuo lie shang	0
+挫伤	cuo shang	0
+裂伤	lie shang	0
+意识障碍	yi shi zhang ai	0
+颞叶沟回征	nie ye gou hui zheng	0
+枕大孔疝	zhen da kong shan	0
+化脓性	hua nong xing	0
+坏死	huai si	0
+液化	ye hua	0
+肉芽组织	rou ya zu zhi	0
+脓肿壁	nong zhong bi	0
+结核性	jie he xing	0
+脑膜炎	nao mo yan	0
+软脑膜	ruan nao mo	0
+基底池	ji di chi	0
+侧裂池	ce lie chi	0
+侧裂池	ze lie chi	0
+侧裂池	zhai lie chi	0
+粘稠	nian chou	0
+盗汗	dao han	0
+低热	di re	0
+基底节区	ji di jie qu	0
+基底节区	ji di jie ou	0
+结核球	jie he qiu	0
+环池	huan chi	0
+疱疹性	pao zhen xing	0
+疱疹	pao zhen	0
+单纯性	dan chun xing	0
+病毒性	bing du xing	0
+脑炎	nao yan	0
+神经元	shen jing yuan	0
+细胞核	xi bao he	0
+季节性	ji jie xing	0
+岛叶	dao ye	0
+岛叶	dao xie	0
+额叶皮质下区	e ye pi zhi xia qu	0
+额叶皮质下区	e ye pi zhi xia ou	0
+扣带回	kou dai hui	0
+脑膜刺激征	nao mo ci ji zheng	0
+抽搐	chou chu	0
+包涵体	bao han ti	0
+包涵体	bao han ben	0
+多发性硬化	duo fa xing ying hua	0
+脑白质病	nao bai zhi bing	0
+脊髓	ji sui	0
+脱髓鞘	tuo sui qiao	0
+斑块	ban kuai	0
+散在	san zai	0
+软化灶	ruan hua zao	0
+胶质增生	jiao zhi zeng sheng	0
+胶质	jiao zhi	0
+脑萎缩	nao wei suo	0
+肾上腺	shen shang xian	0
+脑白质	nao bai zhi	0
+营养不良	ying yang bu liang	0
+肾上腺脑白质营养不良	shen shang xian nao bai zhi ying yang bu liang	0
+脂肪	zhi fang	0
+代谢	dai xie	0
+紊乱	wen luan	0
+对称性	dui chen xing	0
+皮肤色素沉着	pi fu se su chen zhuo	0
+蝶翼	die yi	0
+花边	hua bian	0
+中央部	zhong yang bu	0
+皮层下动脉硬化性脑病	pi ceng xia dong mai ying hua xing nao bing	0
+穿支动脉	chuan zhi dong mai	0
+弓状纤维	gong zhuang xian wei	0
+体征	ti zheng	0
+先天畸形	xian tian ji xing	0
+发育异常	fa yu yi chang	0
+联合纤维	lian he xian wei	0
+投射纤维	tou she xian wei	0
+脂肪瘤	zhi fang liu	0
+特异性	te yi xing	0
+脑裂畸形	nao lie ji xing	0
+蛛网膜囊肿	zhu wang mo nang zhong	0
+囊肿	nang zhong	0
+胼胝体压部	pian zhi ti ya bu	0
+压部	ya bu	0
+嘴部	zui bu	0
+灰质异位症	hui zhi yi wei zheng	0
+异位	yi wei	0
+小脑扁桃体下疝畸形	xiao nao bian tao ti xia shan ji xing	0
+小脑下蚓部	xiao nao xia yin bu	0
+椎管	zhui guan	0
+脊髓空洞症	ji sui kong dong zheng	0
+震颤	zhen chan	0
+眼球	yan qiu	0
+节段性	jie duan xing	0
+分离性	fen li xing	0
+感觉障碍	gan jue zhang ai	0
+颈部	jing bu	0
+胸段	xiong duan	0
+颈段	jing duan	0
+颈段	geng duan	0
+腰椎	yao zhui	0
+带状	dai zhuang	0
+终丝	zhong si	0
+脑脊液	nao ji ye	0
+潜在性	qian zai xing	0
+局限性	ju xian xing	0
+髓外硬膜下	sui wai ying mo xia	0
+髓外	sui wai	0
+髓内	sui nei	0
+髓内	sui na	0
+节段	jie duan	0
+马尾	ma wei	0
+马尾部	ma wei bu	0
+种植转移	zhong zhi zhuan yi	0
+空洞	kong dong	0
+空腔	kong qiang	0
+条状	tiao zhuang	0
+中央管	zhong yang guan	0
+脊髓中央管	ji sui zhong yang guan	0
+颈胸段	jing xiong duan	0
+颈胸段	geng xiong duan	0
+胸腰段	xiong yao duan	0
+脊膜瘤	ji mo liu	0
+浸润	jin run	0
+积水	ji shui	0
+囊腔	nang qiang	0
+脊髓炎	ji sui yan	0
+串珠状	chuan zhu zhuang	0
+水抑制像	shui yi zhi xiang	0
+水抑制	shui yi zhi	0
+横贯性	heng guan xing	0
+弥漫性	mi man xing	0
+膨出	peng chu	0
+硬脊膜	ying ji mo	0
+脊膜膨出	ji mo peng chu	0
+骶尾部	di wei bu	0
+脊髓脊膜膨出	ji sui ji mo peng chu	0
+骶管	di guan	0
+根基部	gen ji bu	0
+脊髓纵裂	ji sui zong lie	0
+背腹角	bei fu jiao	0
+背腹角	bei fu jue	0
+神经根	shen jing gen	0
+脊髓栓系	ji sui shuan xi	0
+脊髓栓系	ji sui shuan ji	0
+眼眶	yan kuang	0
+炎性假瘤	yan xing jia liu	0
+弥漫炎症型	mi man yan zheng xing	0
+肿块型	zhong kuai xing	0
+泪腺炎型	lei xian yan xing	0
+肌炎型	ji yan xing	0
+炎型	yan xing	0
+眼环	yan huan	0
+眼外肌	yan wai ji	0
+眼上肌群	yan shang ji qun	0
+泪腺	lei xian	0
+球后脂肪	qiu hou zhi fang	0
+组织	zu zhi	0
+上直肌	shang zhi ji	0
+下直肌	xia zhi ji	0
+眶壁	kuang bi	0
+骨组织	gu zu zhi	0
+上颌窦	shang he dou	0
+粘膜囊肿	nian mo nang zhong	0
+恶性病变	e xing bing bian	0
+鼻咽癌	bi yan ai	0
+斜坡	xie po	0
+脊髓瘤	ji sui liu	0
+咽旁间隙	yan pang jian xi	0
+咽旁间隙	ye pang jian xi	0
+咽旁间隙	yan bang jian xi	0
+咽旁间隙	ye bang jian xi	0
+后鼻孔	hou bi kong	0
+鼻咽腔	bi yan qiang	0
+咽隐窝	yan yin wo	0
+咽隐窝	ye yin wo	0
+软组织	ruan zu zhi	0
+肥厚	fei hou	0
+中耳乳突炎	zhong er ru tu yan	0
+乳突	ru tu	0
+气房	qi fang	0
+骨膜	gu mo	0
+急性	ji xing	0
+慢性	man xing	0
+鼓膜	gu mo	0
+气液平面	qi ye ping mian	0
+中耳	zhong er	0
+传导性	chuan dao xing	0
+鼓窦	gu dou	0
+骨窦入口	gu dou ru kou	0
+环形	huan xing	0
+鼓窦区	gu dou qu	0
+鼓窦区	gu dou ou	0
+腮腺	sai xian	0
+混合瘤	hun he liu	0
+深叶	shen ye	0
+深叶	shen xie	0
+颈动脉体	jing dong mai ben	0
+颈动脉体瘤	jing dong mai ti liu	0
+颈动脉体瘤	jing dong mai ben liu	0
+流空效应	liu kong xiao ying	0
+中央型	zhong yang xing	0
+肺癌	fei ai	0
+周围型	zhou wei xing	0
+肺门	fei men	0
+阻塞性	zu se xing	0
+肺炎	fei yan	0
+肺不张	fei bu zhang	0
+多平面	duo ping mian	0
+前纵隔	qian zong ge	0
+纵隔	zong ge	0
+中纵隔	zhong zong ge	0
+后纵隔	hou zong ge	0
+胸腺瘤	xiong xian liu	0
+神经源性	shen jing yuan xing	0
+哑铃状	ya ling zhuang	0
+中等	zhong deng	0
+偏低	pian di	0
+偏高	pian gao	0
+椎板	zhui ban	0
+椎板	chui ban	0
+椎间孔	zhui jian kong	0
+肋骨	lei gu	0
+胸腔积液	xiong qiang ji ye	0
+横断面	heng duan mian	0
+仰卧位	yang wo wei	0
+新月形	xin yue xing	0
+弧带状	hu dai zhuang	0
+血性	xue xing	0
+膨胀不良	peng zhang bu liang	0
+心肌	xin ji	0
+长轴	chang zhou	0
+短轴	duan zhou	0
+左室	zuo shi	0
+下壁	xia bi	0
+后壁	hou bi	0
+前壁	qian bi	0
+心腔	xin qiang	0
+心肌病	xin ji bing	0
+扩张型	kuo zhang xing	0
+肥厚型	fei hou xing	0
+涡流征	wo liu zheng	0
+舒张期	shu zhang ji	0
+收缩期	shou suo qi	0
+主动脉夹层	zhu dong mai jia ceng	0
+降主动脉	jiang zhu dong mai	0
+降主动脉	xiang zhu dong mai	0
+峡部	xia bu	0
+内膜	nei mo	0
+假腔	jia qiang	0
+真腔	zhen qiang	0
+真假腔	zhen jia qiang	0
+肝硬化	gan ying hua	0
+脾大	pi da	0
+巨块型	ju kuai xing	0
+门脉	men mai	0
+门脉	men mo	0
+右支	you zhi	0
+门脉右支	men mai you zhi	0
+门脉右支	men mo you zhi	0
+左支	zuo zhi	0
+淋巴结	lin ba jie	0
+肝周	gan zhou	0
+胆囊壁	dan nang bi	0
+胰周脂肪	yi zhou zhi fang	0
+动脉期	dong mai qi	0
+动脉期	dong mai ji	0
+静脉期	jing mai qi	0
+静脉期	jing mai ji	0
+门静脉	men jing mai	0
+癌栓	ai shuan	0
+子灶	zi zao	0
+牛眼征	niu yan zheng	0
+胰头癌	yi tou ai	0
+胰尾癌	yi wei ai	0
+胰尾癌	yi yi ai	0
+血管瘤	xue guan liu	0
+胰管	yi guan	0
+腹膜后	fu mo hou	0
+血管肉瘤	xue guan rou liu	0
+动静脉瘘	dong jing mai lou	0
+碘造影剂	dian zao ying ji	0
+实质期	shi zhi qi	0
+实质期	shi zhi ji	0
+皮质期	pi zhi qi	0
+皮质期	pi zhi ji	0
+肝局灶性结节增生	gan ju zao xing jie jie zeng sheng	0
+局灶性	ju zao xing	0
+结节性	jie jie xing	0
+增生	zeng sheng	0
+左外叶	zuo wai ye	0
+左外叶	zuo wai xie	0
+延迟相	yan chi xiang	0
+延迟期	yan chi qi	0
+延迟期	yan chi ji	0
+引流静脉	yin liu jing mai	0
+腺瘤	xian liu	0
+肝囊肿	gan nang zhong	0
+囊肿壁	nang zhong bi	0
+再生结节	zai sheng jie jie	0
+发育不良结节	fa yu bu liang jie jie	0
+侧支循环	ce zhi xun huan	0
+侧支循环	ze zhi xun huan	0
+侧支循环	zhai zhi xun huan	0
+异型性	yi xing xing	0
+结合水	jie he shui	0
+肝段	gan duan	0
+肝叶	gan ye	0
+肝叶	gan xie	0
+腹水	fu shui	0
+肠管	chang guan	0
+集簇征	ji cu zheng	0
+胆源性	dan yuan xing	0
+双靶征	shuang ba zheng	0
+多房状	duo fang zhuang	0
+血行播散	xie hang bo san	0
+血行播散	xue hang bo san	0
+血行播散	xie xing bo san	0
+血行播散	xue xing bo san	0
+胆总管	dan zong guan	0
+胆道	dan dao	0
+三联症	san lian zheng	0
+假性囊肿	jia xing nang zhong	0
+钆喷酸葡胺	ga pen suan pu an	0
+杯口样	bei kou yang	0
+乳头	ru tou	0
+嵌顿	qian dun	0
+嵌顿	kan dun	0
+胆管炎	dan guan yan	0
+胆囊炎	dan nang yan	0
+细菌性	xi jun xing	0
+蛔虫	hui chong	0
+充盈缺损	chong ying que sun	0
+龛影	kan ying	0
+憩室	qi shi	0
+上皮腺瘤	shang pi xian liu	0
+间叶组织	jian ye zu zhi	0
+间叶组织	jian xie zu zhi	0
+间叶	jian ye	0
+间叶	jian xie	0
+间质	jian zhi	0
+息肉	xi rou	0
+息肉样	xi rou yang	0
+胆囊癌	dan nang ai	0
+结节型	jie jie xing	0
+梗阻型	geng zu xing	0
+浸润型	jin run xing	0
+狭窄段	xia zhai duan	0
+结石	jie shi	0
+截断	jie duan	0
+胰腺炎	yi xian yan	0
+复杂性	fu za xing	0
+肾前筋膜	shen qian jin mo	0
+纤维化	xian wei hua	0
+双管征	shuang guan zheng	0
+壶腹	hu fu	0
+壶腹区	hu fu qu	0
+壶腹区	hu fu ou	0
+胰体	yi ti	0
+胰体	yi ben	0
+胰尾	yi wei	0
+胰尾	yi yi	0
+孤立性	gu li xing	0
+淋巴瘤	lin ba liu	0
+肝裂	gan lie	0
+肾静脉	shen jing mai	0
+左肾静脉	zuo shen jing mai	0
+右肾静脉	you shen jing mai	0
+肾动脉	shen dong mai	0
+钙化	gai hua	0
+弛豫时间	chi yu shi jian	0
+弛豫	chi yu	0
+栓塞	shuan se	0
+脾外伤	pi wai shang	0
+撕裂伤	si lie shang	0
+脾门	pi men	0
+腹腔积血	fu qiang ji xue	0
+积血	ji xue	0
+脾周积血	pi zhou ji xue	0
+楔形	xie xing	0
+包膜	bao mo	0
+副脾	fu pi	0
+副脾	pi pi	0
+交接部	jiao jie bu	0
+皮髓质	pi sui zhi	0
+肾结核	shen jie he	0
+干酪性	gan lao xing	0
+肾自截	shen zi jie	0
+肾盏	shen zhan	0
+肾大盏	shen da zhan	0
+肾大盏	shen dai zhan	0
+肾大盏	shen tai zhan	0
+肾小盏	shen xiao zhan	0
+管壁	guan bi	0
+多囊状	duo nang zhuang	0
+肾囊肿	shen nang zhong	0
+儿童型	er tong xing	0
+成人型	cheng ren xing	0
+下腔静脉瘤栓	xia qiang jing mai liu shuan	0
+瘤栓	liu shuan	0
+肾周脂肪囊	shen zhou zhi fang nang	0
+透明细胞癌	tou ming xi bao ai	0
+下极	xia ji	0
+上极	shang ji	0
+膀胱癌	pang guang ai	0
+乳头状	ru tou zhuang	0
+肾上腺腺瘤	shen shang xian xian liu	0
+醛固酮腺瘤	quan gu tong xian liu	0
+醛固酮	quan gu tong	0
+容积效应	rong ji xiao ying	0
+部分容积效应	bu fen rong ji xiao ying	0
+嗜铬细胞瘤	shi ge xi bao liu	0
+儿茶酚胺	er cha fen an	0
+肾上腺素	shen shang xian su	0
+甲基肾上腺素	jia ji shen shang xian su	0
+阵发性致窦	zhen fa xing zhi dou	0
+去甲基	qu jia ji	0
+前列腺	qian lie xian	0
+粟粒	su li	0
+粟粒状	su li zhuang	0
+前列腺肥大	qian lie xian fei da	0
+前列腺增生	qian lie xian zeng sheng	0
+前列腺癌	qian lie xian ai	0
+中央带	zhong yang dai	0
+外周带	wai zhou dai	0
+移行带	yi hang dai	0
+移行带	yi xing dai	0
+筛孔状	shai kong zhuang	0
+周围叶	zhou wei xie	0
+精囊腺	jing nang xian	0
+精囊三角	jing nang san jiao	0
+子宫平滑肌瘤	zi gong ping hua ji liu	0
+粘膜下	nian mo xia	0
+肌瘤	ji liu	0
+浆膜下	jiang mo xia	0
+肌壁间	ji bi jian	0
+涡旋状	wo xuan zhuang	0
+附件区	fu jian qu	0
+附件区	fu jian ou	0
+子宫腺肌症	zi gong xian ji zheng	0
+子宫颈癌	zi gong jing ai	0
+妇科	fu ke	0
+双峰	shuang feng	0
+卵巢癌	luan chao ai	0
+浆液性	jiang ye xing	0
+粘液性	nian ye xing	0
+囊实性	nang shi xing	0
+实性	shi xing	0
+肌腱	ji jian	0
+韧带	ren dai	0
+纤维软骨	xian wei ruan gu	0
+透明软骨	tou ming ruan gu	0
+半月板	ban yue ban	0
+前交叉韧带	qian jiao cha ren dai	0
+后交叉韧带	hou jiao cha ren dai	0
+副韧带	fu ren dai	0
+副韧带	pi ren dai	0
+髓腔	sui qiang	0
+压缩骨折	ya suo gu zhe	0
+爆裂骨折	bao lie gu zhe	0
+隐匿骨折	yin ni gu zhe	0
+隐匿性	yin ni xing	0
+骨折	gu zhe	0
+关节积液	guan jie ji ye	0
+断裂	duan lie	0
+软化	ruan hua	0
+碎裂	sui lie	0
+楔形变	xie xing bian	0
+外侧髁	wai ce ke	0
+内侧髁	nei ce ke	0
+左膝关节	zuo xi guan jie	0
+右膝关节	you xi guan jie	0
+关节囊	guan jie nang	0
+纵行	zong hang	0
+骨小梁	gu xiao liang	0
+隐性	yin xing	0
+椎间盘突出	zhui jian pan tu chu	0
+椎间盘膨出	zhui jian pan peng chu	0
+股骨头	gu gu tou	0
+双线征	shuang xian zheng	0
+坏死区	huai si qu	0
+坏死区	huai si ou	0
+骨髓炎	gu sui yan	0
+组织分辨率	zu zhi fen bian lv	0
+中下段	zhong xia duan	0
+中上段	zhong shang duan	0
+上段	shang duan	0
+下段	xia duan	0
+中段	zhong duan	0
+骨质增生	gu zhi zeng sheng	0
+硬化	ying hua	0
+皮下脂肪	pi xia zhi fang	0
+肌间隙	ji jian xi	0
+干骺端	gan hou duan	0
+骨骺	gu hou	0
+骨膜下	gu mo xia	0
+脓肿	nong zhong	0
+血源性	xue yuan xing	0
+椎旁脓肿	zhui pang nong zhong	0
+椎旁脓肿	chui pang nong zhong	0
+椎旁脓肿	zhui bang nong zhong	0
+椎旁脓肿	chui bang nong zhong	0
+冷脓肿	leng nong zhong	0
+骨质破坏	gu zhi po huai	0
+骨桥	gu qiao	0
+腰大肌	yao da ji	0
+腰大肌	yao dai ji	0
+腰大肌	yao tai ji	0
+椎间隙	zhui jian xi	0
+长骨	chang gu	0
+同心圆	tong xin yuan	0
+骨型	gu xing	0
+滑膜型	hua mo xing	0
+关节结核	guan jie jie he	0
+髋关节	kuan guan jie	0
+偏心性	pian xin xing	0
+溶骨性	rong gu xing	0
+多房性	duo fang xing	0
+骨皮质	gu pi zhi	0
+骨肉瘤	gu rou liu	0
+成骨性	cheng gu xing	0
+广泛性	guang fan xing	0
+混合型	hun he xing	0
+蜂窝状	feng wo zhuang	0
+穿凿样	chuan zao yang	0
+胡椒粒状	hu jiao li zhuang	0
+骨质疏松	gu zhi shu song	0
+骨髓瘤	gu sui liu	0
+椎弓根	zhui gong gen	0
+椎弓根	chui gong gen	0
+软组织损伤	ruan zu zhi sun shang	0
+质子密度	zhi zi mi du	0
+延伸	yan shen	0
+鹦鹉嘴样	ying wu zui yang	0
+撕裂	si lie	0
+桶柄样撕裂	tong bing yang si lie	0
+桶柄	tong bing	0
+肌间血管瘤	ji jian xue guan liu	0
+平滑肌	ping hua ji	0
+骨骼肌	gu ge ji	0
+后颈部	hou jing bu	0
+扁圆形	bian yuan xing	0
+结缔组织	jie di zu zhi	0
+序列	xu lie	0
+撕裂片	si lie pian	0
+缺血坏死	que xue huai si	0
+鼻腔	bi qiang	0
+耳道	er dao	0
+乙状窦	yi zhuang dou	0
+迁延	qian yan	0
+单存型	dan cun xing	0
+单存型	shan cun xing	0
+单存型	chan cun xing	0
+坏死型	huai si xing	0
+肉芽型	rou ya xing	0
+许氏位	xu shi wei	0
+听小骨	ting xiao gu	0
+乳突气房	ru tu qi fang	0
+鼓室盖	gu shi gai	0
+鼓室盖	gu shi ge	0
+鼓室盖	gu shi he	0
+横窦	heng dou	0
+蜂房	feng fang	0
+骨性间隔	gu xing jian ge	0
+乳突腔	ru tu qiang	0
+许麦位	xu mai wei	0
+许麦位	hu mai wei	0
+上鼓室	shang gu shi	0
+鼓窦入口	gu dou ru kou	0
+前鼓嵴	qian gu ji	0
+腺样体	xian yang ti	0
+肥大	fei da	0
+咽扁桃体	yan bian tao ti	0
+咽扁桃体	ye bian tao ti	0
+打鼾	da han	0
+咽后壁	yan hou bi	0
+咽后壁	ye hou bi	0
+婴幼儿	ying you er	0
+茎突过长综合征	jing tu guo chang zong he zheng	0
+横突	heng tu	0
+声门上型	sheng men shang xing	0
+声门型	sheng men xing	0
+声门下型	sheng men xia xing	0
+异物感	yi wu gan	0
+声嘶	sheng si	0
+喉前庭	hou qian ting	0
+声门下区	sheng men xia qu	0
+声门下区	sheng men xia ou	0
+喉室	hou shi	0
+咽喉面	yan hou mian	0
+梨状窝	li zhuang wo	0
+杓会厌皱襞	shao hui yan zhou bi	0
+杓会厌皱襞	biao hui yan zhou bi	0
+声带	sheng dai	0
+胸廓	xiong kuo	0
+气管	qi guan	0
+胸膜	xiong mo	0
+膈肌	ge ji	0
+含气透亮影	han qi tou liang ying	0
+肋膈角	lei ge jiao	0
+肋膈角	le ge jiao	0
+肋膈角	lei ge jue	0
+肋膈角	le ge jue	0
+菲薄	fei bo	0
+大叶性肺炎	da ye xing fei yan	0
+小叶性肺炎	xiao ye xing fei yan	0
+支气管肺炎	zhi qi guan fei yan	0
+充血期	chong xue qi	0
+充血期	chong xue ji	0
+红色肝样变期	hong se gan yang bian qi	0
+红色肝样变期	hong se gan yang bian ji	0
+灰色肝样变期	hui se gan yang bian qi	0
+灰色肝样变期	hui se gan yang bian ji	0
+消散期	xiao san qi	0
+消散期	xiao san ji	0
+右肺	you fei	0
+实变	shi bian	0
+肺脓肿	fei nong zhong	0
+中心行	zhong xin hang	0
+中心行	zhong xin xing	0
+水平裂	shui ping lie	0
+叶间胸膜	ye jian xiong mo	0
+叶间胸膜	xie jian xiong mo	0
+肺野	fei ye	0
+葡萄球菌	pu tao qiu jun	0
+肺炎双球菌	fei yan shuang qiu jun	0
+链球菌	lian qiu jun	0
+致病菌	zhi bing jun	0
+肺泡	fei pao	0
+肺纹理	fei wen li	0
+肺气肿	fei qi zhong	0
+正侧位	zheng ce wei	0
+支气管气象	zhi qi guan qi xiang	0
+静脉曲张型	jing mai qu zhang xing	0
+柱状	zhu zhuang	0
+囊状	nang zhuang	0
+正位像	zheng wei xiang	0
+金黄色葡萄球菌	jin huang se pu tao qiu jun	0
+纤维索条影	xian wei suo tiao ying	0
+周围炎性渗出病灶	zhou wei yan xing shen chu bing zao	0
+左肺下叶	zuo fei xia ye	0
+左肺下叶	zuo fei xia xie	0
+右侧位	you ce wei	0
+左侧位	zuo ce wei	0
+中野	zhong ye	0
+中外带	zhong wai dai	0
+外带	wai dai	0
+背段	bei duan	0
+肺结核	fei jie he	0
+原发性肺结核	yuan fa xing fei jie he	0
+继发性肺结核	ji fa xing fei jie he	0
+渗出性	shen chu xing	0
+增殖性	zeng zhi xing	0
+变质性	bian zhi xing	0
+纤维素性	xian wei su xing	0
+结核结节	jie he jie jie	0
+云絮状	yun xu zhuang	0
+肺段	fei duan	0
+肺叶	fei ye	0
+尖后段	jian hou duan	0
+外基底段	wai ji di duan	0
+内基底段	nei ji di duan	0
+内基底段	na ji di duan	0
+前基底段	qian ji di duan	0
+后基底段	hou ji di duan	0
+淋巴结炎	lin ba jie yan	0
+淋巴管炎	lin ba guan yan	0
+血行播散型肺结核	xie hang bo san xing fei jie he	0
+血行播散型肺结核	xue hang bo san xing fei jie he	0
+血行播散型肺结核	xie xing bo san xing fei jie he	0
+血行播散型肺结核	xue xing bo san xing fei jie he	0
+急性粟粒型肺结核	ji xing su li xing fei jie he	0
+磨玻璃样	mo bo li yang	0
+结核菌素试验	jie he jun su shi yan	0
+健侧	jian ce	0
+健侧	jian ze	0
+健侧	jian zhai	0
+患侧	huan ce	0
+患侧	huan ze	0
+患侧	huan zhai	0
+肋间隙	lei jian xi	0
+肋间隙	le jian xi	0
+前肋	qian lei	0
+前肋	qian le	0
+后肋	hou lei	0
+后肋	hou le	0
+鳞癌	lin ai	0
+腺癌	xian ai	0
+小细胞癌	xiao xi bao ai	0
+大细胞癌	da xi bao ai	0
+大细胞癌	dai xi bao ai	0
+大细胞癌	tai xi bao ai	0
+中央型肺癌	zhong yang xing fei ai	0
+周围型肺癌	zhou wei xing fei ai	0
+瘤体征象	liu ti zheng xiang	0
+支气管阻塞	zhi qi guan zu se	0
+右肺上叶	you fei shang ye	0
+右肺上叶	you fei shang xie	0
+肺门区	fei men qu	0
+肺门区	fei men ou	0
+机化性	ji hua xing	0
+机化	ji hua	0
+右肺门	you fei men	0
+左肺门	zuo fei men	0
+毛刺	mao ci	0
+小泡征	xiao pao zheng	0
+下叶	xia ye	0
+下叶	xia xie	0
+卫星灶	wei xing zao	0
+肺转移瘤	fei zhuan yi liu	0
+乳腺癌	ru xian ai	0
+结肠癌	jie chang ai	0
+肝癌	gan ai	0
+血行转移	xie hang zhuan yi	0
+血行转移	xue hang zhuan yi	0
+血行转移	xie xing zhuan yi	0
+血行转移	xue xing zhuan yi	0
+淋巴转移	lin ba zhuan yi	0
+网线状	wang xian zhuang	0
+阴影	yin ying	0
+呼气位	hu qi wei	0
+吸气位	xi qi wei	0
+呼气相	hu qi xiang	0
+吸气相	xi qi xiang	0
+活瓣	huo ban	0
+纵隔摆动	zong ge bai dong	0
+肺水肿	fei shui zhong	0
+肺泡性	fei pao xing	0
+腺泡结节	xian pao jie jie	0
+肺尖	fei jian	0
+肺底	fei di	0
+肺底	fei de	0
+心尖	xin jian	0
+左室弓	zuo shi gong	0
+中下纵隔内胸腺瘤	zhong xia zong ge nei xiong xian liu	0
+中下纵隔内胸腺瘤	zhong xia zong ge na xiong xian liu	0
+恶性淋巴瘤	e xing lin ba liu	0
+霍奇金病	huo qi jin bing	0
+非霍奇金淋巴瘤	fei huo qi jin lin ba liu	0
+隆突下	long tu xia	0
+无痛性	wu tong xing	0
+进行性	jin xing xing	0
+波浪状	bo lang zhuang	0
+气胸	qi xiong	0
+液气胸	ye qi xiong	0
+肺边缘	fei bian yuan	0
+开放性	kai fang xing	0
+肋间血管	lei jian xue guan	0
+肋间血管	le jian xue guan	0
+血胸	xue xiong	0
+血气胸	xue qi xiong	0
+左侧液气胸	zuo ce ye qi xiong	0
+右侧液气胸	you ce ye qi xiong	0
+纵隔气肿	zong ge qi zhong	0
+胸廓饱满	xiong kuo bao man	0
+无纹理区	wu wen li qu	0
+无纹理区	wu wen li ou	0
+无肺纹理区	wu fei wen li qu	0
+无肺纹理区	wu fei wen li ou	0
+条带状	tiao dai zhuang	0
+心影	xin ying	0
+胸骨后方	xiong gu hou fang	0
+线状	xian zhuang	0
+膈膨升	ge peng sheng	0
+盘状肺不张	pan zhuang fei bu zhang	0
+半球形	ban qiu xing	0
+立卵形	li luan xing	0
+膈疝	ge shan	0
+横膈肿瘤	heng ge zhong liu	0
+横膈	heng ge	0
+后前位	hou qian wei	0
+右前斜位	you qian xie wei	0
+左前斜位	zuo qian xie wei	0
+心胸比率	xin xiong bi lv	0
+心胸比值	xin xiong bi zhi	0
+远达	yuan da	0
+房间隔缺损	fang jian ge que sun	0
+房间隔	fang jian ge	0
+肺动脉	fei dong mai	0
+肺动脉段	fei dong mai duan	0
+肺动脉瓣	fei dong mai ban	0
+固定分裂	gu ding fen lie	0
+二尖瓣	er jian ban	0
+瘤样	liu yang	0
+残根状	can gen zhuang	0
+室间隔缺损	shi jian ge que sun	0
+膜周部	mo zhou bu	0
+漏斗部	lou dou bu	0
+肌部	ji bu	0
+左向右	zuo xiang you	0
+双室	shuang shi	0
+心慌气短	xin huang qi duan	0
+艾森门格综合征	ai sen men ge zong he zheng	0
+主动脉结	zhu dong mai jie	0
+漏斗征	lou dou zheng	0
+动脉导管	dong mai dao guan	0
+圆柱型	yuan zhu xing	0
+漏斗型	lou dou xing	0
+窗型	chuang xing	0
+机器样杂音	ji qi yang za yin	0
+动脉导管未闭	dong mai dao guan wei bi	0
+心后缘	xin hou yuan	0
+左心缘	zuo xin yuan	0
+心左缘	xin zuo yuan	0
+右心缘	you xin yuan	0
+心右缘	xin you yuan	0
+法洛氏四联症	fa luo shi si lian zheng	0
+法洛氏四联症	fa luo zhi si lian zheng	0
+法洛四联症	fa luo si lian zheng	0
+法洛氏三联症	fa luo shi san lian zheng	0
+法洛氏三联症	fa luo zhi san lian zheng	0
+五联症	wu lian zheng	0
+发绀	fa gan	0
+靴形心	xue xing xin	0
+梨形心	li xing xin	0
+靴形	xue xing	0
+升部	sheng bu	0
+弓部	gong bu	0
+向心性	xiang xin xing	0
+主动脉型	zhu dong mai xing	0
+主动脉型心外形	zhu dong mai xing xin wai xing	0
+风湿性心脏病	feng shi xing xin zang bing	0
+腱锁	jian suo	0
+瓣叶	ban ye	0
+瓣叶	ban xie	0
+卷曲	juan qu	0
+瓣缘	ban yuan	0
+血流动力学	xue liu dong li xue	0
+联合瓣膜病	lian he ban mo bing	0
+二尖瓣狭窄	er jian ban xia zhai	0
+左主支气管	zuo zhu zhi qi guan	0
+右主支气管	you zhu zhi qi guan	0
+肺源性心脏病	fei yuan xing xin zang bing	0
+肺心病	fei xin bing	0
+右肋膈角	you lei ge jiao	0
+右肋膈角	you lei ge jue	0
+怒张	nu zhang	0
+鼻翼呼吸	bi yi hu xi	0
+胸廓畸形	xiong kuo ji xing	0
+残根征	can gen zheng	0
+桶状胸	tong zhuang xiong	0
+锁骨下区	suo gu xia qu	0
+锁骨下区	suo gu xia ou	0
+乳腺影	ru xian ying	0
+普大型	pu da xing	0
+心包积液	xin bao ji ye	0
+肥厚性肺梗阻性心肌病	fei hou xing fei geng zu xing xin ji bing	0
+风湿热	feng shi re	0
+心包填塞	xin bao tian sai	0
+肺淤血	fei yu xue	0
+上腔静脉	shang qiang jing mai	0
+缩窄性	suo zhai xing	0
+心包钙化	xin bao gai hua	0
+蛋壳状	dan ke zhuang	0
+不规则带状	bu gui ze dai zhuang	0
+心包囊肿	xin bao nang zhong	0
+右二弓	you er gong	0
+心膈角区	xin ge jiao qu	0
+心膈角区	xin ge jue qu	0
+心膈角区	xin ge jiao ou	0
+心膈角区	xin ge jue ou	0
+心缘旁	xin yuan pang	0
+心缘旁	xin yuan bang	0
+球形	qiu xing	0
+胃肠道造影	wei chang dao zao ying	0
+压迹	ya ji	0
+贲门	ben men	0
+左心房压迹	zuo xin fang ya ji	0
+左主支气管压迹	zuo zhu zhi qi guan ya ji	0
+主动脉弓压迹	zhu dong mai gong ya ji	0
+钡剂	bei ji	0
+生理压迹	sheng li ya ji	0
+反流性食管炎	fan liu xing shi guan yan	0
+化学性	hua xue xing	0
+食管裂孔疝	shi guan lie kong shan	0
+胃大部切除	wei da bu qie chu	0
+烧灼痛	shao zhuo tong	0
+腐蚀性食管炎	fu shi xing shi guan yan	0
+碱性	jian xing	0
+皂化	zao hua	0
+小刺状	xiao ci zhuang	0
+过氧乙酸	guo yang yi suan	0
+铅管状	qian guan zhuang	0
+铅管状	yan guan zhuang	0
+硬化型	ying hua xing	0
+食管旁型	shi guan bang xing	0
+短食管型	duan shi guan xing	0
+滑动型	hua dong xing	0
+膈上疝囊	ge shang shan nang	0
+胃液反流	wei ye fan liu	0
+食管炎症	shi guan yan zheng	0
+胃内容物	wei nei rong wu	0
+疝囊	shan nang	0
+食管静脉曲张	shi guan jing mai qu zhang	0
+蚯蚓状	qiu yin zhuang	0
+蕈伞型	xun san xing	0
+溃疡型	kui yang xing	0
+髓质型	sui zhi xing	0
+食管纵隔瘘	shi guan zong ge lou	0
+食管气管瘘	shi guan qi guan lou	0
+平坦型	ping tan xing	0
+糜烂型	mi lan xing	0
+斑块型	ban kuai xing	0
+乳头型	ru tou xing	0
+凹陷型	ao xian xing	0
+隆起型	long qi xing	0
+双对比像	shuang dui bi xiang	0
+吻合口	wen he kou	0
+杯口状	bei kou zhuang	0
+食管梗阻	shi guan geng zu	0
+尖刺状	jian ci zhuang	0
+食管平滑肌瘤	shi guan ping hua ji liu	0
+充盈像	chong ying xiang	0
+粘膜像	nian mo xiang	0
+环线征	huan xian zheng	0
+咽食管憩室	yan shi guan qi shi	0
+咽食管憩室	ye shi guan qi shi	0
+食管中段憩室	shi guan zhong duan qi shi	0
+膈上食管憩室	ge shang shi guan qi shi	0
+桥状	qiao zhuang	0
+角型	jiao xing	0
+角型	jue xing	0
+钩型	gou xing	0
+瀑布型	pu bu xing	0
+长型	chang xing	0
+胃充盈像	wei chong ying xiang	0
+胃粘膜像	wei nian mo xiang	0
+胃双对比像	wei shuang dui bi xiang	0
+胃压迫像	wei ya po xiang	0
+胃小沟	wei xiao gou	0
+胃小区	wei xiao qu	0
+义齿	yi chi	0
+胃炎	wei yan	0
+外因性	wai yin xing	0
+内因性	nei yin xing	0
+出血糜烂型	chu xue mi lan xing	0
+肥厚性	fei hou xing	0
+巨大皱襞症	ju da zhou bi zheng	0
+锯齿状	ju chi zhuang	0
+胃粘膜脱垂	wei nian mo tuo chui	0
+胃癌	wei ai	0
+贲门胃底早期癌	ben men wei di zao qi ai	0
+贲门胃底早期癌	ben men wei de zao qi ai	0
+胃底	wei di	0
+胃底	wei de	0
+胃体	wei ti	0
+胃体	wei ben	0
+胃小弯	wei xiao wan	0
+胃大弯	wei da wan	0
+杵状	chu zhuang	0
+削尖状	xiao jian zhuang	0
+胃小沟进展期	wei xiao gou jin zhan qi	0
+胃小沟进展期	wei xiao gou jin zhan ji	0
+息肉状	xi rou zhuang	0
+环堤	huan di	0
+指压痕	zhi ya hen	0
+裂隙征	lie xi zheng	0
+斜坡状	xie po zhuang	0
+胃平滑肌瘤	wei ping hua ji liu	0
+胃息肉	wei xi rou	0
+腺瘤性异常增生	xian liu xing yi chang zeng sheng	0
+颗粒状	ke li zhuang	0
+小弯侧	xiao wan ce	0
+小弯侧	xiao wan ze	0
+小弯侧	xiao wan zhai	0
+大弯侧	da wan ce	0
+大弯侧	da wan ze	0
+大弯侧	da wan zhai	0
+宽基底	kuan ji di	0
+空肠	kong chang	0
+胃平滑肌肉瘤	wei ping hua ji rou liu	0
+胃内型	wei nei xing	0
+胃内型	wei na xing	0
+胃外型	wei wai xing	0
+胃壁型	wei bi xing	0
+胃淋巴瘤	wei lin ba liu	0
+菜花状	cai hua zhuang	0
+皮革胃	pi ge wei	0
+器官轴型胃扭转	qi guan zhou xing wei niu zhuan	0
+毛发石	mao fa shi	0
+毛发石	mao fa dan	0
+毛发结石	mao fa jie shi	0
+幽门梗阻	you men geng zu	0
+网膜轴型胃扭转	wang mo zhou xing wei niu zhuan	0
+小肠结核	xiao chang jie he	0
+右下腹部肿块	you xia fu bu zhong kuai	0
+排便习惯异常	pai bian xi guan yi chang	0
+右下腹隐痛	you xia fu yin tong	0
+右下腹	you xia fu	0
+左下腹	zuo xia fu	0
+中腹	zhong fu	0
+右上腹	you shang fu	0
+左上腹	zuo shang fu	0
+肠瘘	chang lou	0
+肠梗阻	chang geng zu	0
+肠外结核	chang wai jie he	0
+回盲部	hui mang bu	0
+回肠	hui chang	0
+淋巴滤泡	lin ba lv pao	0
+干酪样	gan lao yang	0
+跳跃性	tiao yue xing	0
+排空延迟	pai kong yan chi	0
+卵石征	luan shi zheng	0
+腔内型	qiang nei xing	0
+壁内型	bi nei xing	0
+壁内型	bi na xing	0
+粘膜下型	nian mo xia xing	0
+腔外型	qiang wai xing	0
+浆膜下型	jiang mo xia xing	0
+小肠腺癌	xiao chang xian ai	0
+枕大池	zhen da chi	0
+枕大池	zhen dai chi	0
+枕大池	zhen tai chi	0
+盂管交界部	yu guan jiao jie bu	0
+病变段	bing bian duan	0
+移行段	yi hang duan	0
+移行段	yi xing duan	0
+肠壁	chang bi	0
+脐周钝痛	qi zhou dun tong	0
+钡灌肠	bei guan chang	0
+乙状结肠	yi zhuang jie chang	0
+横结肠	heng jie chang	0
+结肠带	jie chang dai	0
+溃疡性结肠炎	kui yang xing jie chang yan	0
+钡斑	bei ban	0
+小钡斑	xiao bei ban	0
+果核征	guo he zheng	0
+憩室炎	qi shi yan	0
+圆球状	yuan qiu zhuang	0
+绒毛状	rong mao zhuang	0
+静脉尿路造影术	jing mai niao lu zao ying shu	0
+缓泻药	huan xie yao	0
+膀胱区	pang guang qu	0
+膀胱区	pang guang ou	0
+上位输尿管	shang wei shu niao guan	0
+草酸钙	cao suan gai	0
+磷酸钙	lin suan gai	0
+尿酸	niao suan	0
+铸型结石	zhu xing jie shi	0
+打尖征	da jian zheng	0
+胁腹痛	xie fu tong	0
+多囊肾	duo nang shen	0
+左肾	zuo shen	0
+右肾	you shen	0
+手抱球征	shou bao qiu zheng	0
+蜘蛛足征	zhi zhu zu zheng	0
+手握球征	shou wo qiu zheng	0
+移行细胞癌	yi hang xi bao ai	0
+移行细胞癌	yi xing xi bao ai	0
+肾盂肾盏	shen yu shen zhan	0
+生理狭窄	sheng li xia zhai	0
+俯卧位	fu wo wei	0
+第一生理狭窄	di yi sheng li xia zhai	0
+桑椹状	sang shen zhuang	0
+枣核状	zao he zhuang	0
+乳头状癌	ru tou zhuang ai	0
+神经源性膀胱	shen jing yuan xing pang guang	0
+后尿道瓣膜	hou niao dao ban mo	0
+精阜	jing fu	0
+骑跨伤	qi kua shang	0
+会阴部	hui yin bu	0
+球部	qiu bu	0
+损伤期	sun shang qi	0
+损伤期	sun shang ji	0
+炎症期	yan zheng qi	0
+炎症期	yan zheng ji	0
+狭窄期	xia zhai qi	0
+狭窄期	xia zhai ji	0
+尿道球部	niao dao qiu bu	0
+耻骨联合	chi gu lian he	0
+肛门直肠闭锁	gang men zhi chang bi suo	0
+造瘘	zao lou	0
+节育环	jie yu huan	0
+尿道膜部	niao dao mo bu	0
+排泄性膀胱尿道造影	pai xie xing pang guang niao dao zao ying	0
+输卵管炎	shu luan guan yan	0
+子宫输卵管造影	zi gong shu luan guan zao ying	0
+先天性	xian tian xing	0
+右髋关节	you kuan guan jie	0
+脱位	tuo wei	0
+骨骺板	gu hou ban	0
+骺板	hou ban	0
+二次骨化中心	er ci gu hua zhong xin	0
+副骨	fu gu	0
+副骨	pi gu	0
+籽骨	zi gu	0
+十字韧带	shi zi ren dai	0
+滑液囊	hua ye nang	0
+股骨	gu gu	0
+胫骨	jing gu	0
+腓骨	fei gu	0
+分节状	fen jie zhuang	0
+胫骨结节	jing gu jie jie	0
+髋臼	kuan jiu	0
+脱臼	tuo jiu	0
+软骨发育不全	ruan gu fa yu bu quan	0
+短肢型侏儒	duan zhi xing zhu ru	0
+鱼口状	yu kou zhuang	0
+石骨症	shi gu zheng	0
+石骨症	dan gu zheng	0
+颅盖骨	lu gai gu	0
+颅盖骨	lu ge gu	0
+颅盖骨	lu he gu	0
+同心圆状	tong xin yuan zhuang	0
+髂骨	qia gu	0
+蝶鞍区	die an qu	0
+蝶鞍区	die an ou	0
+乳突区	ru tu qu	0
+乳突区	ru tu ou	0
+眶顶	kuang ding	0
+夹心蛋糕	jia xin dan gao	0
+成骨不全	cheng gu bu quan	0
+成骨不全症	cheng gu bu quan zheng	0
+脆骨症	cui gu zheng	0
+结缔组织病	jie di zu zhi bing	0
+蓝巩膜	lan gong mo	0
+进行性耳聋	jin xing xing er long	0
+多发性骨折	duo fa xing gu zhe	0
+长管骨	chang guan gu	0
+粘多糖病	nian duo tang bing	0
+粘多糖病	zhan duo tang bing	0
+舟状	zhou zhuang	0
+青枝骨折	qing zhi gu zhe	0
+青枝骨折	qing qi gu zhe	0
+逗点状	dou dian zhuang	0
+飘带状	piao dai zhuang	0
+骨软骨缺血坏死	gu ruan gu que xue huai si	0
+骨软骨炎	gu ruan gu yan	0
+新月征	xin yue zheng	0
+创伤性髋关节炎	chuang shang xing kuan guan jie yan	0
+骨赘	gu zhui	0
+跖骨小头缺血坏死	zhi gu xiao tou que xue huai si	0
+喇叭口状	la ba kou zhuang	0
+月牙形	yue ya xing	0
+骨髓腔	gu sui qiang	0
+化脓性骨髓炎	hua nong xing gu sui yan	0
+层状	ceng zhuang	0
+骨膜增生	gu mo zeng sheng	0
+分层状	fen ceng zhuang	0
+花边状	hua bian zhuang	0
+成骨型骨肉瘤	cheng gu xing gu rou liu	0
+硬化性骨髓炎	ying hua xing gu sui yan	0
+桡骨	rao gu	0
+骨结核	gu jie he	0
+松质骨	song zhi gu	0
+扁骨	bian gu	0
+胸椎结核	xiong zhui jie he	0
+短管骨	duan guan gu	0
+砂砾	sha li	0
+气臌	qi gu	0
+胫骨上段	jing gu shang duan	0
+胫骨上端	jing gu shang duan	0
+肱骨远端	gong gu yuan duan	0
+中心型	zhong xin xing	0
+边缘型	bian yuan xing	0
+泥沙样死骨	ni sha yang si gu	0
+成骨细胞瘤	cheng gu xi bao liu	0
+多发性	duo fa xing	0
+骨软骨瘤	gu ruan gu liu	0
+骨软骨瘤病	gu ruan gu liu bing	0
+尖锥状	jian zhui zhuang	0
+海湾状	hai wan zhuang	0
+右肘关节	you zhou guan jie	0
+左肘关节	zuo zhou guan jie	0
+软骨瘤	ruan gu liu	0
+皂泡状	zao pao zhuang	0
+骨脊	gu ji	0
+骨膜三角	gu mo san jiao	0
+滑膜肉瘤	hua mo rou liu	0
+鼠咬状	shu yao zhuang	0
+骨纤维样增殖症	gu xian wei yang zeng zhi zheng	0
+骨囊肿	gu nang zhong	0
+碎片陷落征	sui pian xian luo zheng	0
+类扇形	lei shan xing	0
+膝状体	xi zhuang ti	0
+膝状体	xi zhuang ben	0
+囊变期	nang bian qi	0
+囊变期	nang bian ji	0
+吸收期	xi shou qi	0
+吸收期	xi shou ji	0
+豆纹动脉	dou wen dong mai	0
+屏状核	ping zhuang he	0
+屏状核	ping zhuang hu	0
+屏状核	bing zhuang he	0
+屏状核	bing zhuang hu	0
+尾状核	wei zhuang he	0
+尾状核	wei zhuang hu	0
+尾状核	yi zhuang he	0
+尾状核	yi zhuang hu	0
+豆状核	dou zhuang he	0
+豆状核	dou zhuang hu	0
+黑核	hei he	0
+黑核	hei hu	0
+红核	hong he	0
+红核	hong hu	0
+红核	gong he	0
+红核	gong hu	0
+四叠体池	si die ti chi	0
+四叠体池	si die ben chi	0
+鞍上池	an shang chi	0
+脑出血	nao chu xue	0
+齿状核	chi zhuang he	0
+齿状核	chi zhuang hu	0
+基底动脉穿支	ji di dong mai chuan zhi	0
+静脉畸形	jing mai ji xing	0
+右侧脑室后角	you ce nao shi hou jiao	0
+脑动脉瘤	nao dong mai liu	0
+囊形动脉瘤	nang xing dong mai liu	0
+梭形动脉瘤	suo xing dong mai liu	0
+前交通动脉	qian jiao tong dong mai	0
+后交通动脉	hou jiao tong dong mai	0
+大脑纵裂	da nao zong lie	0
+蝶骨嵴	die gu ji	0
+嗅沟	xiu gou	0
+后颅凹	hou lu ao	0
+后颅凹	hou lu wa	0
+颅凹	lu ao	0
+颅凹	lu wa	0
+前颅凹	qian lu ao	0
+前颅凹	qian lu wa	0
+中颅凹	zhong lu ao	0
+中颅凹	zhong lu wa	0
+静脉窦闭塞	jing mai dou bi se	0
+肺栓塞	fei shuan se	0
+纵隔窗	zong ge chuang	0
+舌段	she duan	0
+肺动静脉瘘	fei dong jing mai lou	0
+毛细血管	mao xi xue guan	0
+支气管血管束	zhi qi guan xue guan shu	0
+前纵隔肿瘤	qian zong ge zhong liu	0
+胸骨后甲状腺	xiong gu hou jia zhuang xian	0
+结节性甲状腺肿	jie jie xing jia zhuang xian zhong	0
+甲状腺癌	jia zhuang xian ai	0
+畸胎瘤	ji tai liu	0
+皮样囊肿	pi yang nang zhong	0
+表皮样囊肿	biao pi yang nang zhong	0
+侵袭性胸腺瘤	qin xi xing xiong xian liu	0
+支气管囊肿	zhi qi guan nang zhong	0
+水样密度	shui yang mi du	0
+纵隔淋巴结	zong ge lin ba jie	0
+主动脉弓	zhu dong mai gong	0
+增强	zeng qiang	0
+神经源性肿瘤	shen jing yuan xing zhong liu	0
+神经纤维瘤	shen jing xian wei liu	0
+神经节细胞瘤	shen jing jie xi bao liu	0
+恶性神经鞘瘤	e xing shen jing qiao liu	0
+恶性神经鞘瘤	e xing shen jing shao liu	0
+神经母细胞瘤	shen jing mu xi bao liu	0
+脊神经根	ji shen jing gen	0
+椎间孔段	zhui jian kong duan	0
+肋间神经	lei jian shen jing	0
+肋间神经	le jian shen jing	0
+食管囊肿	shi guan nang zhong	0
+胸壁	xiong bi	0
+皮下气肿	pi xia qi zhong	0
+冠状动脉硬化性心脏病	guan zhuang dong mai ying hua xing xin zang bing	0
+选择性冠状动脉造影	xuan ze xing guan zhuang dong mai zao ying	0
+左前降支	zuo qian xiang zhi	0
+心梗	xin geng	0
+扁丘状	bian qiu zhuang	0
+扁丘状	pian qiu zhuang	0
+慢性支气管炎	man xing zhi qi guan yan	0
+缩窄性心包炎	suo zhai xing xin bao yan	0
+室间隔	shi jian ge	0
+下腔静脉	xia qiang jing mai	0
+血流瘀滞	xue liu yu zhi	0
+心房	xin fang	0
+右心房	you xin fang	0
+左心房	zuo xin fang	0
+左心室	zuo xin shi	0
+右心室	you xin shi	0
+心包脂肪垫	xin bao zhi fang dian	0
+真性动脉瘤	zhen xing dong mai liu	0
+假性动脉瘤	jia xing dong mai liu	0
+腹主动脉瘤	fu zhu dong mai liu	0
+附壁血栓	fu bi xue shuan	0
+髂动脉	qia dong mai	0
+弹力纤维	tan li xian wei	0
+横裂口	heng lie kou	0
+内破口	nei po kou	0
+内破口	na po kou	0
+再破口	zai po kou	0
+静脉曲张	jing mai qu zhang	0
+内膜片	nei mo pian	0
+双腔主动脉	shuang qiang zhu dong mai	0
+大动脉炎	da dong mai yan	0
+左锁骨下动脉	zuo suo gu xia dong mai	0
+左肾动脉	zuo shen dong mai	0
+头臂动脉	tou bi dong mai	0
+头臂动脉	tou bei dong mai	0
+头臂干	tou bi gan	0
+头臂干	tou bei gan	0
+节段性狭窄	jie duan xing xia zhai	0
+腔静脉	qiang jing mai	0
+螺旋形	luo xuan xing	0
+偏侧性	pian ce xing	0
+偏侧性	pian ze xing	0
+偏侧性	pian zhai xing	0
+凹凸不平	ao tu bu ping	0
+胃体部	wei ti bu	0
+胃体部	wei ben bu	0
+贲门区	ben men qu	0
+贲门区	ben men ou	0
+弧线状	hu xian zhuang	0
+出血	chu xue	0
+定性诊断	ding xing zhen duan	0
+浆膜面	jiang mo mian	0
+胃间质瘤	wei jian zhi liu	0
+肠套叠	chang tao die	0
+穿孔	chuan kong	0
+三明治征	san ming zhi zheng	0
+肠襻	chang pan	0
+升结肠	sheng jie chang	0
+结肠袋	jie chang dai	0
+皱襞消失	zhou bi xiao shi	0
+肠腔狭窄	chang qiang xia zhai	0
+肠袢	chang pan	0
+肠袢	chang fan	0
+回盲瓣	hui mang ban	0
+缺血坏死性结肠炎	que xue huai si xing jie chang yan	0
+结肠壁	jie chang bi	0
+不规则增厚	bu gui ze zeng hou	0
+密度不均匀	mi du bu jun yun	0
+肠壁外脂肪间隙	chang bi wai zhi fang jian xi	0
+肝左叶	gan zuo ye	0
+肝左叶	gan zuo xie	0
+甲胎蛋白	jia tai dan bai	0
+肝细胞腺瘤	gan xi bao xian liu	0
+裂隙状	lie xi zhuang	0
+早出晚归	zao chu wan gui	0
+局灶性结节增生	ju zao xing jie jie zeng sheng	0
+星状	xing zhuang	0
+病毒性肝炎	bing du xing gan yan	0
+酒精中毒	jiu jing zhong du	0
+慢性胆道梗阻	man xing dan dao geng zu	0
+药物中毒	yao wu zhong du	0
+代偿功能	dai chang gong neng	0
+失代偿	shi dai chang	0
+丙型肝炎	bing xing gan yan	0
+肝性脑病	gan xing nao bing	0
+消化道出血	xiao hua dao chu xue	0
+脂肪肝	zhi fang gan	0
+库欣综合征	ku xin zong he zheng	0
+皮质醇增多症	pi zhi chun zeng duo zheng	0
+肾上腺增生	shen shang xian zeng sheng	0
+门静脉高压	men jing mai gao ya	0
+肝脓肿	gan nong zhong	0
+大肠杆菌	da chang gan jun	0
+纤维肉芽肿	xian wei rou ya zhong	0
+靶征	ba zheng	0
+胆囊颈	dan nang jing	0
+胆囊颈	dan nang geng	0
+胆管癌	dan guan ai	0
+急性胰腺炎	ji xing yi xian yan	0
+急性水肿型	ji xing shui zhong xing	0
+蜂窝织炎	feng wo zhi yan	0
+胰颈	yi jing	0
+胰颈	yi geng	0
+胰头	yi tou	0
+胰周渗出性	yi zhou shen chu xing	0
+慢性胰腺炎	man xing yi xian yan	0
+胰岛细胞瘤	yi dao xi bao liu	0
+斑点状	ban dian zhuang	0
+尾部	wei bu	0
+功能性	gong neng xing	0
+肠系膜上动脉	chang xi mo shang dong mai	0
+地图样	di tu yang	0
+脾血管瘤	pi xue guan liu	0
+脾破裂	pi po lie	0
+马蹄肾	ma ti shen	0
+肾周脓肿	shen zhou nong zhong	0
+肾周积液	shen zhou ji ye	0
+肾脓肿	shen nong zhong	0
+肾周筋膜	shen zhou jin mo	0
+血管平滑肌脂肪瘤	xue guan ping hua ji zhi fang liu	0
+肾脏	shen zang	0
+肾癌	shen ai	0
+膀胱种植	pang guang zhong zhi	0
+肾结石	shen jie shi	0
+肾盂	shen yu	0
+肾积水	shen ji shui	0
+边缘征	bian yuan zheng	0
+斑块状	ban kuai zhuang	0
+延迟扫描	yan chi sao miao	0
+肾上腺皮质增生	shen shang xian pi zhi zeng sheng	0
+燕麦细胞癌	yan mai xi bao ai	0
+内侧支	nei ce zhi	0
+外侧支	wai ce zhi	0
+阵发性	zhen fa xing	0
+良性前列腺增生症	liang xing qian lie xian zeng sheng zheng	0
+前列腺周围	qian lie xian zhou wei	0
+肌壁间型	ji bi jian xing	0
+卵巢囊腺瘤	luan chao nang xian liu	0
+多房	duo fang	0
+单房	dan fang	0
+月经紊乱	yue jing wen luan	0
+矮柱状	ai zhu zhuang	0
+颅面骨	lu mian gu	0
+颧骨	quan gu	0
+椎间盘	zhui jian pan	0
+星芒征	xing mang zheng	0
+骨瘤	gu liu	0
+骨性外耳道	gu xing wai er dao	0
+骨样骨瘤	gu yang gu liu	0
+皮质型	pi zhi xing	0
+左股骨下段	zuo gu gu xia duan	0
+皮质旁	pi zhi pang	0
+皮质旁	pi zhi bang	0
+内生软骨瘤	nei sheng ruan gu liu	0
+皮质旁软骨瘤	pi zhi pang ruan gu liu	0
+皮质旁软骨瘤	pi zhi bang ruan gu liu	0
+蝶妆	die zhuang	0
+骨血管瘤	gu xue guan liu	0
+海绵型	hai mian xing	0
+毛细血管型	mao xi xue guan xing	0
+多发骨髓瘤	duo fa gu sui liu	0
+软组织钙化	ruan zu zhi gai hua	0
+冈上肌	gang shang ji	0
+冈上肌腱	gang shang ji jian	0
+周围炎	zhou wei yan	0
+肱骨大结节	gong gu da jie jie	0
+肱骨大结节	gong gu dai jie jie	0
+肱骨大结节	gong gu tai jie jie	0
+吴振华	wu zhen hua	0
+郭启勇	guo qi yong	0
+气管异物	qi guan yi wu	0
+支气管异物	zhi qi guan yi wu	0
+副鼻窦	fu bi dou	0
+副鼻窦	pi bi dou	0
+舌癌	she ai	0
+间质性	jian zhi xing	0
+视网膜脱落	shi wang mo tuo luo	0
+川崎病	chuan qi bing	0
+主动脉窦瘤	zhu dong mai dou liu	0
+葡萄胎	pu tao tai	0
+乳腺纤维瘤	ru xian xian wei liu	0
+视网膜母细胞瘤	shi wang mo mu xi bao liu	0
+室壁瘤	shi bi liu	0
+海绵肾	hai mian shen	0
+附睾炎	fu gao yan	0
+腹股沟疝	fu gu gou shan	0
+鞘膜积液	qiao mo ji ye	0
+肾母细胞瘤	shen mu xi bao liu	0

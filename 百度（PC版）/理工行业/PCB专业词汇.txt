@@ -1,0 +1,520 @@
+# 词库名称: PCB专业词汇
+# 词库分类: 单面板 双面板 多层板 铝基板 埋容板 侧蚀 夹膜
+# 词库作者: yu_yufang
+# 词库描述: CCL\PWB\SMT专业词汇
+# 词条数量: 512
+# 解析词数: 512
+# 解析异常: 0
+
+刚性	gang xing	0
+挠性	nao xing	0
+印制板	yin zhi ban	0
+线路板	xian lu ban	0
+印制线路板	yin zhi xian lu ban	0
+印制电路板	yin zhi dian lu ban	0
+柔性电路板	rou xing dian lu ban	0
+软硬结合板	ruan ying jie he ban	0
+软板	ruan ban	0
+硬板	ying ban	0
+成品板	cheng pin ban	0
+埋容	mai rong	0
+埋容	man rong	0
+埋阻	mai zu	0
+埋阻	man zu	0
+厚铜板	hou tong ban	0
+单面板	dan mian ban	0
+双面板	shuang mian ban	0
+多层板	duo ceng ban	0
+铝基板	lv ji ban	0
+铜基板	tong ji ban	0
+铁基板	tie ji ban	0
+埋容板	mai rong ban	0
+埋容板	man rong ban	0
+光电路板	guang dian lu ban	0
+金属基印制板	jin shu ji yin zhi ban	0
+金属芯印制板	jin shu xin yin zhi ban	0
+母板	mu ban	0
+子板	zi ban	0
+背板	bei ban	0
+裸板	luo ban	0
+薄膜开关	bao mo kai guan	0
+混合电路	hun he dian lu	0
+网格	wang ge	0
+基材	ji cai	0
+预浸	yu jin	0
+内层	nei ceng	0
+外层	wai ceng	0
+次外层	ci wai ceng	0
+压合	ya he	0
+压合	ya ge	0
+层压	ceng ya	0
+叠板	die ban	0
+排板	pai ban	0
+融合	rong he	0
+热压	re ya	0
+冷压	leng ya	0
+拆板	chai ban	0
+拆板	ca ban	0
+温度曲线	wen du qu xian	0
+芯板	xin ban	0
+粘结片	nian jie pian	0
+胶含量	jiao han liang	0
+胶流量	jiao liu liang	0
+酚醛纸质层压板	fen quan zhi zhi ceng ya ban	0
+环氧纸质层压板	huan yang zhi zhi ceng ya ban	0
+聚酯玻璃毡层压板	ju zhi bo li zhan ceng ya ban	0
+聚酯薄膜	ju zhi bao mo	0
+聚酰亚胺薄膜	ju xian ya an bao mo	0
+氟化乙丙烯薄膜	fu hua yi bing xi bao mo	0
+环氧玻璃基板	huan yang bo li ji ban	0
+阻燃型	zu ran xing	0
+金属箔	jin shu bo	0
+铜箔	tong bo	0
+薄铜箔	bo tong bo	0
+薄铜箔	bao tong bo	0
+厚铜箔	hou tong bo	0
+环氧树脂	huan yang shu zhi	0
+酚醛树脂	fen quan shu zhi	0
+聚酯树脂	ju zhi shu zhi	0
+聚酰亚胺树脂	ju xian ya an shu zhi	0
+双马来酰亚胺三嗪树脂	shuang ma lai xian ya an san qin shu zhi	0
+丙烯酸树脂	bing xi suan shu zhi	0
+三聚氰胺甲醛树脂	san ju qing an jia quan shu zhi	0
+多官能环氧树脂	duo guan neng huan yang shu zhi	0
+溴化环氧树脂	xiu hua huan yang shu zhi	0
+环氧酚醛	huan yang fen quan	0
+氟树脂	fu shu zhi	0
+硅树脂	gui shu zhi	0
+硅烷	gui wan	0
+共聚物	gong ju wu	0
+合成树脂	he cheng shu zhi	0
+热固性树脂	re gu xing shu zhi	0
+热塑性树脂	re su xing shu zhi	0
+感光性树脂	gan guang xing shu zhi	0
+环氧当量	huan yang dang liang	0
+环氧值	huan yang zhi	0
+粘结剂	nian jie ji	0
+胶粘剂	jiao zhan ji	0
+固化剂	gu hua ji	0
+阻燃剂	zu ran ji	0
+遮光剂	zhe guang ji	0
+增塑剂	zeng su ji	0
+不饱和聚酯	bu bao he ju zhi	0
+聚四氟乙烯	ju si fu yi xi	0
+聚全氟乙烯丙烯薄膜	ju quan fu yi xi bing xi bao mo	0
+增强材料	zeng qiang cai liao	0
+玻璃纤维	bo li xian wei	0
+玻璃布	bo li bu	0
+非织布	fei zhi bu	0
+纬纱	wei sha	0
+经纱	jing sha	0
+经向	jing xiang	0
+纬向	wei xiang	0
+织物经纬密度	zhi wu jing wei mi du	0
+织物组织	zhi wu zu zhi	0
+平纹组织	ping wen zu zhi	0
+断经	duan jing	0
+缺纬	que wei	0
+纬斜	wei xie	0
+折痕	zhe hen	0
+鱼眼	yu yan	0
+云织	yun zhi	0
+毛圈长	mao quan chang	0
+毛圈长	mao quan zhang	0
+毛圈长	mao juan chang	0
+毛圈长	mao juan zhang	0
+厚薄段	hou bo duan	0
+裂缝	lie feng	0
+捻度	nian du	0
+浸润剂	jin run ji	0
+偶联剂	ou lian ji	0
+聚酰胺纤维	ju xian an xian wei	0
+电解铜箔	dian jie tong bo	0
+压延铜箔	ya yan tong bo	0
+光面	guang mian	0
+粗面	cu mian	0
+化学镍金	hua xue nie jin	0
+无铅喷锡	wu qian pen xi	0
+有铅喷锡	you qian pen xi	0
+有铅喷锡	you yan pen xi	0
+沉锡	chen xi	0
+沉银	chen yin	0
+表面抗氧化	biao mian kang yang hua	0
+孔径	kong jing	0
+板厚	ban hou	0
+开路	kai lu	0
+断路	duan lu	0
+断线	duan xian	0
+缺口	que kou	0
+针孔	zhen kong	0
+残铜	can tong	0
+短路	duan lu	0
+肥线	fei xian	0
+细线	xi xian	0
+线幼	xian you	0
+显影不净	xian ying bu jing	0
+显影不净	xian ying fou jing	0
+显影不净	xian ying bu cheng	0
+显影不净	xian ying fou cheng	0
+蚀刻不净	shi ke bu jing	0
+蚀刻不净	shi ke fou jing	0
+蚀刻不净	shi ke bu cheng	0
+蚀刻不净	shi ke fou cheng	0
+蚀刻过度	shi ke guo du	0
+重合度	chong he du	0
+重合度	chong he duo	0
+内开	nei kai	0
+内短	nei duan	0
+内短	na duan	0
+铜丝	tong si	0
+开槽	kai cao	0
+塞孔	sai kong	0
+塞孔	se kong	0
+数孔机	shu kong ji	0
+数孔机	shuo kong ji	0
+玻璃纤维布	bo li xian wei bu	0
+铜碎	tong sui	0
+无铜	wu tong	0
+镀厚	du hou	0
+侧蚀	ce shi	0
+侧蚀	ze shi	0
+侧蚀	zhai shi	0
+夹膜	jia mo	0
+夹膜	ga mo	0
+夹膜	xia mo	0
+渗镀	shen du	0
+凹点	ao dian	0
+凹痕	ao hen	0
+凹坑	ao keng	0
+靶标	ba biao	0
+靶形	ba xing	0
+白斑	bai ban	0
+白边	bai bian	0
+白点	bai dian	0
+板翘	ban qiao	0
+板弯	ban wan	0
+背光	bei guang	0
+层偏	ceng pian	0
+麻点	ma dian	0
+钻偏	zuan pian	0
+漏测	lou ce	0
+漏检	lou jian	0
+补线	bu xian	0
+薄芯板	bo xin ban	0
+薄芯板	bao xin ban	0
+不同层次	bu tong ceng ci	0
+布线	bu xian	0
+程序带	cheng xu dai	0
+尺寸稳定性	chi cun wen ding xing	0
+冲压	chong ya	0
+抽样数	chou yang shu	0
+抽样数	chou yang shuo	0
+吹孔	chui kong	0
+搭桥	da qiao	0
+灯芯效应	deng xin xiao ying	0
+垫板	dian ban	0
+定位梢	ding wei shao	0
+定位梢	ding wei sao	0
+打靶机	da ba ji	0
+飞针测试	fei zhen ce shi	0
+粉红圈	fen hong quan	0
+粉红圈	fen hong juan	0
+风刀	feng dao	0
+负片	fu pian	0
+正片	zheng pian	0
+隔板	ge ban	0
+工具孔	gong ju kong	0
+工作母片	gong zuo mu pian	0
+工作片	gong zuo pian	0
+刮刀	gua dao	0
+热压辘	re ya lu	0
+清洁机	qing jie ji	0
+除尘辘	chu chen lu	0
+菲林水	fei lin shui	0
+无尘纸	wu chen zhi	0
+挂架	gua jia	0
+光绘机	guang hui ji	0
+光绘	guang hui	0
+焊垫	han dian	0
+黑化	hei hua	0
+棕化	zong hua	0
+基准记号	ji zhun ji hao	0
+加速剂	jia su ji	0
+加速实验	jia su shi yan	0
+检查钻孔层	jian cha zuan kong ceng	0
+胶化时间	jiao hua shi jian	0
+胶渣	jiao zha	0
+金手指斜边	jin shou zhi xie bian	0
+化金	hua jin	0
+浸镍金	jin nie jin	0
+化镍浸金	hua nie jin jin	0
+镍金	nie jin	0
+水金	shui jin	0
+静电喷涂	jing dian pen tu	0
+绝缘阻抗	jue yuan zu kang	0
+抗撕强度	kang si qiang du	0
+客户原稿	ke hu yuan gao	0
+孔数	kong shu	0
+孔位	kong wei	0
+成型	cheng xing	0
+开料	kai liao	0
+下料	xia liao	0
+钻孔	zuan kong	0
+沉铜	chen tong	0
+图形电镀	tu xing dian du	0
+火山灰磨板机	huo shan hui mo ban ji	0
+涂布机	tu bu ji	0
+雷射	lei she	0
+雷射	lei ye	0
+雷射	lei yi	0
+定位孔	ding wei kong	0
+对位孔	dui wei kong	0
+冷焊点	leng han dian	0
+离子性污染	li zi xing wu ran	0
+连接功能	lian jie gong neng	0
+廉幕印刷	lian mu yin shua	0
+不良率	bu liang lv	0
+一次合格率	yi ci he ge lv	0
+裂痕	lie hen	0
+零件孔	ling jian kong	0
+零件面	ling jian mian	0
+元件面	yuan jian mian	0
+焊接面	han jie mian	0
+面铜	mian tong	0
+耐磨性	nai mo xing	0
+内外层	nei wai ceng	0
+泡点	pao dian	0
+喷砂	pen sha	0
+喷涂	pen tu	0
+偏转	pian zhuan	0
+品管	pin guan	0
+质量允收水平	zhi liang yun shou shui ping	0
+起泡	qi pao	0
+气泡	qi pao	0
+清洗及烘烤	qing xi ji hong kao	0
+去毛头	qu mao tou	0
+缺陷	que xian	0
+孔破	kong po	0
+刃角磨损	ren jiao mo sun	0
+刃角磨损	ren jue mo sun	0
+塞孔底片	sai kong di pian	0
+塞孔底片	se kong di pian	0
+湿制程	shi zhi cheng	0
+干制程	gan zhi cheng	0
+检孔机	jian kong ji	0
+丝网印刷	si wang yin shua	0
+绿油	lv you	0
+绿油	lu you	0
+松脂酸	song zhi suan	0
+速化反应	su hua fan ying	0
+套环	tao huan	0
+特殊形状	te shu xing zhuang	0
+天然松香	tian ran song xiang	0
+跳印	tiao yin	0
+跳印	tao yin	0
+透明残膜	tou ming can mo	0
+涂布印刷	tu bu yin shua	0
+图像控制功能	tu xiang kong zhi gong neng	0
+脱膜剂	tuo mo ji	0
+外弧	wai hu	0
+网版印刷	wang ban yin shua	0
+网版印耍	wang ban yin shua	0
+网布	wang bu	0
+网框	wang kuang	0
+微盲孔	wei mang kong	0
+文字印刷	wen zi yin shua	0
+无电镀化	wu dian du hua	0
+吸收	xi shou	0
+吸水性	xi shui xing	0
+锡铅面	xi qian mian	0
+锡铅面	xi yan mian	0
+锡桥	xi qiao	0
+锡塞	xi sai	0
+锡塞	xi se	0
+锡突	xi tu	0
+线距	xian ju	0
+线宽	xian kuan	0
+加成法	jia cheng fa	0
+减成法	jian cheng fa	0
+斜边	xie bian	0
+压力脚	ya li jiao	0
+压力脚	ya li jue	0
+贴膜机	tie mo ji	0
+液态防焊	ye tai fang han	0
+已钻孔的裸板	yi zuan kong de luo ban	0
+已钻孔的裸板	yi zuan kong di luo ban	0
+印刷后及蚀刻后板	yin shua hou ji shi ke hou ban	0
+印刷及预烤	yin shua ji yu kao	0
+图形转移	tu xing zhuan yi	0
+硬化剂	ying hua ji	0
+预烤	yu kao	0
+预烘烤	yu hong kao	0
+预干烤	yu gan kao	0
+织纹显露	zhi wen xian lu	0
+治具	zhi ju	0
+治具测试	zhi ju ce shi	0
+模具测试	mu ju ce shi	0
+重工	zhong gong	0
+返工	fan gong	0
+起皱	qi zhou	0
+擦花	ca hua	0
+膜碎	mo sui	0
+菲林碎	fei lin sui	0
+主图	zhu tu	0
+助焊剂	zhu han ji	0
+钻尖分开	zuan jian fen kai	0
+钻尖切削面	zuan jian qie xiao mian	0
+钻尖重叠	zuan jian chong die	0
+钻尖重磨机	zuan jian chong mo ji	0
+钻尖重磨机	zuan jian zhong mo ji	0
+钻头刃带	zuan tou ren dai	0
+钻轴	zuan zhou	0
+多孔	duo kong	0
+少孔	shao kong	0
+元件密度	yuan jian mi du	0
+圆形盘	yuan xing pan	0
+方形盘	fang xing pan	0
+菱形盘	ling xing pan	0
+散热盘	san re pan	0
+环形盘	huan xing pan	0
+阻流块	zu liu kuai	0
+融合点	rong he dian	0
+大铜面	da tong mian	0
+大铜面	dai tong mian	0
+大铜面	tai tong mian	0
+线路面	xian lu mian	0
+半固化片	ban gu hua pian	0
+焊盘	han pan	0
+焊圈	han quan	0
+焊圈	han juan	0
+泪滴盘	lei di pan	0
+隔离盘	ge li pan	0
+隔离环	ge li huan	0
+孔环	kong huan	0
+元件孔	yuan jian kong	0
+安装孔	an zhuang kong	0
+支撑孔	zhi cheng kong	0
+非支撑孔	fei zhi cheng kong	0
+导通孔	dao tong kong	0
+镀通孔	du tong kong	0
+盲孔	mang kong	0
+埋孔	mai kong	0
+埋孔	man kong	0
+埋盲孔	mai mang kong	0
+埋盲孔	man mang kong	0
+活性炭	huo xing tan	0
+附着力	fu zhuo li	0
+解像度	jie xiang du	0
+老化试验	lao hua shi yan	0
+阳极泥	yang ji ni	0
+耐电弧性	nai dian hu xing	0
+护岸剂	hu an ji	0
+溢流	yi liu	0
+曝光	bao guang	0
+曝光尺	bao guang chi	0
+曝光尺	bao guang che	0
+曝光机	bao guang ji	0
+平行光	ping xing guang	0
+散射光	san she guang	0
+显影	xian ying	0
+显影点	xian ying dian	0
+显影液	xian ying ye	0
+显影机	xian ying ji	0
+退膜	tui mo	0
+退膜点	tui mo dian	0
+退膜液	tui mo ye	0
+退膜机	tui mo ji	0
+蚀刻	shi ke	0
+蚀刻机	shi ke ji	0
+蚀刻均匀性	shi ke jun yun xing	0
+蚀刻因子	shi ke yin zi	0
+蚀刻液	shi ke ye	0
+披锋	pi feng	0
+倒角	dao jiao	0
+圆角	yuan jiao	0
+磨边	mo bian	0
+特性阻抗	te xing zu kang	0
+无尘室	wu chen shi	0
+热膨胀系数	re peng zhang xi shu	0
+重氮片	zhong dan pian	0
+黄菲林	huang fei lin	0
+银盐片	yin yan pian	0
+黑菲林	hei fei lin	0
+介电常数	jie dian chang shu	0
+漏镀	lou du	0
+干膜	gan mo	0
+湿膜	shi mo	0
+金手指	jin shou zhi	0
+层间	ceng jian	0
+夹杂	jia za	0
+耐燃性	nai ran xing	0
+回流焊	hui liu han	0
+波峰焊	bo feng han	0
+照度	zhao du	0
+水膜时间	shui mo shi jian	0
+离子迁移	li zi qian yi	0
+离子清洁度	li zi qing jie du	0
+对准度	dui zhun du	0
+对准度	dui zhun duo	0
+导电盐	dao dian yan	0
+电流密度	dian liu mi du	0
+碎屑	sui xie	0
+残膜	can mo	0
+吻压	wen ya	0
+板材空洞	ban cai kong dong	0
+压合空洞	ya he kong dong	0
+压合空洞	ya ge kong dong	0
+滑板	hua ban	0
+热风整平	re feng zheng ping	0
+喷锡	pen xi	0
+金属卤素灯	jin shu lu su deng	0
+牛顿环	niu dun huan	0
+脉冲电镀	mai chong dian du	0
+除胶渣	chu jiao zha	0
+辅助阳极	fu zhu yang ji	0
+水池效应	shui chi xiao ying	0
+深镀能力	shen du neng li	0
+均镀能力	jun du neng li	0
+均镀能力	yun du neng li	0
+磨痕	mo hen	0
+夹点	jia dian	0
+氯化铜实验	lv hua tong shi yan	0
+无卤	wu lu	0
+无卤素	wu lu su	0
+无铅	wu qian	0
+无铅焊接	wu qian han jie	0
+生益	sheng yi	0
+依利安达	yi li an da	0
+美维	mei wei	0
+至卓飞高	zhi zhuo fei gao	0
+普林	pu lin	0
+联茂	lian mao	0
+国纪	guo ji	0
+兴森快捷	xing sen kuai jie	0
+长春	chang chun	0
+正业	zheng ye	0
+背钻	bei zuan	0
+去钻污	qu zuan wu	0
+预排	yu pai	0
+喷嘴	pen zui	0
+吸水海绵滚轮	xi shui hai mian gun lun	0
+压水辘	ya shui lu	0
+抽泡机	chou pao ji	0
+火牛	huo niu	0
+二次元	er ci yuan	0
+钻刀	zuan dao	0
+铣机	xi ji	0
+铣机	xian ji	0
+激光钻	ji guang zuan	0
+激光钻机	ji guang zuan ji	0
+川宝	chuan bao	0
+志圣	zhi sheng	0
+钛蓝	tai lan	0
+锆蓝	gao lan	0
+南亚	nan ya	0
+微钻	wei zuan	0
+毛面	mao mian	0
+锡面	xi mian	0
+叠板结构	die ban jie gou	0
+叠片结构	die pian jie gou	0
+断钻	duan zuan	0

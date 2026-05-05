@@ -1,0 +1,786 @@
+# 词库名称: 艺术设计
+# 词库分类: 艺术爱好
+# 词库作者: 麦珂珂洛
+# 词库描述: 设计类
+# 词条数量: 778
+# 解析词数: 823
+# 解析异常: 45
+
+栅格化	zha ge hua	0
+智能对象	zhi neng dui xiang	0
+渐隐	jian yin	0
+填充	tian chong	0
+描边	miao bian	0
+自由变换	zi you bian huan	0
+混合图层	hun he tu ceng	0
+画笔	hua bi	0
+画笔预设	hua bi yu she	0
+预设管理器	yu she guan li qi	0
+配置文件	pei zhi wen jian	0
+首选项	shou xuan xiang	0
+未标题	wei biao ti	0
+灰度	hui du	0
+双色调	shuang se diao	0
+双色调	shuang se tiao	0
+索引颜色	suo yin yan se	0
+颜色表	yan se biao	0
+自动色调	zi dong se diao	0
+自动对比度	zi dong dui bi du	0
+自动颜色	zi dong yan se	0
+画布	hua bu	0
+画布大小	hua bu da xiao	0
+图像旋转	tu xiang xuan zhuan	0
+裁剪	cai jian	0
+显示全部	xian shi quan bu	0
+应用图像	ying yong tu xiang	0
+变量	bian liang	0
+背景图层	bei jing tu ceng	0
+智能滤镜	zhi neng lv jing	0
+色彩范围	se cai fan wei	0
+快速蒙版	kuai su meng ban	0
+链接图层	lian jie tu ceng	0
+存储选区	cun chu xuan qu	0
+镜头校正	jing tou jiao zheng	0
+液化	ye hua	0
+等高线	deng gao xian	0
+风格化	feng ge hua	0
+浮雕效果	fu diao xiao guo	0
+曝光过度	bao guang guo du	0
+照亮边缘	zhao liang bian yuan	0
+墨水轮廓	mo shui lun kuo	0
+喷溅	pen jian	0
+阴影线	yin ying xian	0
+喷色描边	pen se miao bian	0
+动感模糊	dong gan mo hu	0
+高斯模糊	gao si mo hu	0
+径向模糊	jing xiang mo hu	0
+高反差保留	gao fan cha bao liu	0
+高反差保留	gao fan chai bao liu	0
+高反差保留	gao fan ci bao liu	0
+添加杂色	tian jia za se	0
+分层云彩	fen ceng yun cai	0
+镜头光晕	jing tou guang yun	0
+光照效果	guang zhao xiao guo	0
+铬黄	ge huang	0
+锐化边缘	rui hua bian yuan	0
+逐行	zhu hang	0
+晶格化	jing ge hua	0
+点状化	dian zhuang hua	0
+彩色半调	cai se ban diao	0
+彩色半调	cai se ban tiao	0
+染色玻璃	ran se bo li	0
+龟裂纹	jun lie wen	0
+半调图案	ban diao tu an	0
+半调图案	ban tiao tu an	0
+便条纸	bian tiao zhi	0
+炭笔	tan bi	0
+炭精笔	tan jing bi	0
+马赛克拼贴	ma sai ke pin tie	0
+纹理化	wen li hua	0
+基底凸现	ji di tu xian	0
+水彩画纸	shui cai hua zhi	0
+绘图涂抹	hui tu tu mo	0
+代	dai	0
+选择工具	xuan ze gong ju	0
+选框工具	xuan kuang gong ju	0
+取消选区	qu xiao xuan qu	0
+变换选区	bian huan xuan qu	0
+套索工具	tao suo gong ju	0
+磁性套索	ci xing tao suo	0
+快速选择工具	kuai su xuan ze gong ju	0
+魔棒工具	mo bang gong ju	0
+切片工具	qie pian gong ju	0
+吸管工具	xi guan gong ju	0
+红眼工具	hong yan gong ju	0
+修复画笔	xiu fu hua bi	0
+颜色替换工具	yan se ti huan gong ju	0
+仿制图章	fang zhi tu zhang	0
+图案图章	tu an tu zhang	0
+背景橡皮擦	bei jing xiang pi ca	0
+魔术橡皮擦	mo shu xiang pi ca	0
+油漆桶工具	you qi tong gong ju	0
+模糊工具	mo hu gong ju	0
+加深工具	jia shen gong ju	0
+减淡工具	jian dan gong ju	0
+海绵工具	hai mian gong ju	0
+转换描点工具	zhuan huan miao dian gong ju	0
+钢笔工具	gang bi gong ju	0
+自由钢笔	zi you gang bi	0
+文字蒙板	wen zi meng ban	0
+路径选择	lu jing xuan ze	0
+通道	tong dao	0
+自定形状工具	zi ding xing zhuang gong ju	0
+标尺工具	biao chi gong ju	0
+锁定参考线	suo ding can kao xian	0
+直方图	zhi fang tu	0
+锁定切片	suo ding qie pian	0
+实际像素	shi ji xiang su	0
+仿制源	fang zhi yuan	0
+图层复合	tu ceng fu he	0
+时间轴	shi jian zhou	0
+首选参数	shou xuan can shu	0
+贴紧	tie jin	0
+元件	yuan jian	0
+测试影片	ce shi ying pian	0
+测试场景	ce shi chang jing	0
+动画预设	dong hua yu she	0
+简单帧动画	jian dan zhen dong hua	0
+简单帧动画	jian dan zheng dong hua	0
+帧数	zhen shu	0
+逐帧动画	zhu zhen dong hua	0
+逐帧动画	zhu zheng dong hua	0
+第一帧	di yi zhen	0
+第一帧	di yi zheng	0
+创建传统补间	chuang jian chuan tong bu jian	0
+形状补间	xing zhuang bu jian	0
+插入帧	cha ru zhen	0
+插入帧	cha ru zheng	0
+删除帧	shan chu zhen	0
+删除帧	shan chu zheng	0
+关键帧	guan jian zhen	0
+关键帧	guan jian zheng	0
+空白关键帧	kong bai guan jian zhen	0
+空白关键帧	kong bai guan jian zheng	0
+复制帧	fu zhi zhen	0
+复制帧	fu zhi zheng	0
+清除帧	qing chu zhen	0
+清除帧	qing chu zheng	0
+麦珂珂洛	mai ke ke luo	0
+影片剪辑	ying pian jian ji	0
+数字艺术	shu zi yi shu	0
+最后一帧	zui hou yi zhen	0
+渲染器	xuan ran qi	0
+时间码	shi jian ma	0
+采集格式	cai ji ge shi	0
+暂存盘	zan cun pan	0
+上场优先	shang chang you xian	0
+下场优先	xia chang you xian	0
+逐行扫描	zhu hang sao miao	0
+序列	xu lie	0
+特效控制台	te xiao kong zhi tai	0
+调音台	tiao yin tai	0
+垂直保持	chui zhi bao chi	0
+垂直翻转	chui zhi fan zhuan	0
+摄像机视图	she xiang ji shi tu	0
+羽化边缘	yu hua bian yuan	0
+灰度系数校正	hui du xi shu jiao zheng	0
+色彩传递	se cai chuan di	0
+波形弯曲	bo xing wan qu	0
+滚动快门修复	gun dong kuai men xiu fu	0
+球面化	qiu mian hua	0
+紊乱置换	wen luan zhi huan	0
+边角固定	bian jiao gu ding	0
+镜头扭曲	jing tou niu qu	0
+抽帧	chou zhen	0
+抽帧	chou zheng	0
+非锐化遮罩	fei rui hua zhe zhao	0
+消除锯齿	xiao chu ju chi	0
+四色渐变	si se jian bian	0
+吸色管填充	xi se guan tian chong	0
+吸色管填充	xi shai guan tian chong	0
+广播级颜色	guang bo ji yan se	0
+视频限幅器	shi pin xian fu qi	0
+卷积内核	juan ji nei he	0
+线性擦除	xian xing ca chu	0
+渐变擦除	jian bian ca chu	0
+径向擦除	jing xiang ca chu	0
+遮罩	zhe zhao	0
+设置遮罩	she zhi zhe zhao	0
+固态合成	gu tai he cheng	0
+点无用信号遮罩	dian wu yong xin hao zhe zhao	0
+图像遮罩键	tu xiang zhe zhao jian	0
+轨道遮罩键	gui dao zhe zhao jian	0
+遮罩键	zhe zhao jian	0
+移除遮罩	yi chu zhe zhao	0
+非红色键	fei hong se jian	0
+蓝屏键	lan ping jian	0
+色度键	se du jian	0
+颜色键	yan se jian	0
+映射红蓝通道	ying she hong lan tong dao	0
+交叉叠化	jiao cha die hua	0
+黑场	hei chang	0
+剃刀工具	ti dao gong ju	0
+错落工具	cuo luo gong ju	0
+速率伸缩工具	su lv shen suo gong ju	0
+标记出点	biao ji chu dian	0
+标记入点	biao ji ru dian	0
+跳转入点	tiao zhuan ru dian	0
+跳转出点	tiao zhuan chu dian	0
+项目管理	xiang mu guan li	0
+彩色蒙版	cai se meng ban	0
+跳转到下一关键帧	tiao zhuan dao xia yi guan jian zhen	0
+跳转到下一关键帧	tiao zhuan dao xia yi guan jian zheng	0
+混合模式	hun he mo shi	0
+正片叠底	zheng pian die di	0
+正片叠底	zheng pian die de	0
+线性加深	xian xing jia shen	0
+线性减淡	xian xing jian dan	0
+元数据	yuan shu ju	0
+新建字幕	xin jian zi mu	0
+嵌套	qian tao	0
+时间重映射	shi jian chong ying she	0
+时间重映射	shi jian chong ying ye	0
+时间重映射	shi jian chong ying yi	0
+基于当前字幕新建	ji yu dang qian zi mu xin jian	0
+字幕属性	zi mu shu xing	0
+抗闪烁过滤	kang shan shuo guo lv	0
+定位点	ding wei dian	0
+过渡完成	guo du wan cheng	0
+图像合成	tu xiang he cheng	0
+新建合成组	xin jian he cheng zu	0
+预览控制台	yu lan kong zhi tai	0
+撤销名称更改	che xiao ming cheng geng gai	0
+运动路径	yun dong lu jing	0
+导出	dao chu	0
+不透明度	bu tou ming du	0
+手绘效果	shou hui xiao guo	0
+引导层	yin dao ceng	0
+引导线	yin dao xian	0
+透明背景	tou ming bei jing	0
+背景色填充	bei jing se tian chong	0
+前景色填充	qian jing se tian chong	0
+笔触	bi chu	0
+影视后期编辑	ying shi hou qi bian ji	0
+角色设计	jue se she ji	0
+原画师	yuan hua shi	0
+一拍二	yi pai er	0
+一拍三	yi pai san	0
+一拍四	yi pai si	0
+帧速率	zhen su lv	0
+帧速率	zhen su shuai	0
+转体图	zhuan ti tu	0
+三视图	san shi tu	0
+家族谱系图	jia zu pu xi tu	0
+角色效果图	jue se xiao guo tu	0
+角色姿态图	jue se zi tai tu	0
+配饰图	pei shi tu	0
+人机交互	ren ji jiao hu	0
+知识产权	zhi shi chan quan	0
+北京市一中院	bei jing shi yi zhong yuan	0
+动作脚本	dong zuo jiao ben	0
+高级灰	gao ji hui	0
+世界艺术史	shi jie yi shu shi	0
+波普艺术	bo pu yi shu	0
+色谱仪	se pu yi	0
+装饰主义	zhuang shi zhu yi	0
+包豪斯	bao hao si	0
+格罗皮乌斯	ge luo pi wu si	0
+德绍	de shao	0
+魏玛	wei ma	0
+立体主义	li ti zhu yi	0
+新艺术家同盟	xin yi shu jia tong meng	0
+巴洛克艺术	ba luo ke yi shu	0
+洛可可	luo ke ke	0
+新古典主义	xin gu dian zhu yi	0
+哥特式美术	ge te shi mei shu	0
+虚拟与现实	xu ni yu xian shi	0
+抠图	kou tu	0
+手冢治虫	shou zhong zhi chong	0
+万氏三兄弟	wan shi san xiong di	0
+万氏三兄弟	mo shi san xiong di	0
+万氏三兄弟	wan zhi san xiong di	0
+万氏三兄弟	mo zhi san xiong di	0
+万古蟾	wan gu chan	0
+万籁鸣	wan lai ming	0
+万超尘	wan chao chen	0
+万超尘	mo chao chen	0
+皮克斯	pi ke si	0
+花与树	hua yu shu	0
+前景色	qian jing se	0
+手绘板	shou hui ban	0
+硕思闪客精灵	shuo si shan ke jing ling	0
+定格动画	ding ge dong hua	0
+霓虹灯光	ni hong deng guang	0
+铜版雕刻	tong ban diao ke	0
+调色刀	tiao se dao	0
+切变	qie bian	0
+选择数据点	xuan ze shu ju dian	0
+快捷批处理	kuai jie pi chu li	0
+从选区减去	cong xuan qu jian qu	0
+从选区减去	zong xuan qu jian qu	0
+与选区交叉	yu xuan qu jiao cha	0
+矢量蒙版	shi liang meng ban	0
+置入	zhi ru	0
+可选颜色	ke xuan yan se	0
+抓手工具	zhua shou gong ju	0
+复位设计	fu wei she ji	0
+新建工作区	xin jian gong zuo qu	0
+删除工作区	shan chu gong zuo qu	0
+缩放级别	suo fang ji bie	0
+群青	qun qing	0
+拿坡里黄	na po li huang	0
+上一帧	shang yi zhen	0
+上一帧	shang yi zheng	0
+下一帧	xia yi zhen	0
+下一帧	xia yi zheng	0
+当前帧	dang qian zhen	0
+当前帧	dang qian zheng	0
+肉色	rou se	0
+青莲	qing lian	0
+柠檬黄	ning meng huang	0
+暖色调	nuan se diao	0
+冷色调	leng se diao	0
+视觉暂留	shi jue zan liu	0
+超链接	chao lian jie	0
+纯度	chun du	0
+柔角	rou jiao	0
+柔角	rou jue	0
+圆角矩形	yuan jiao ju xing	0
+椭圆工具	tuo yuan gong ju	0
+透视	tou shi	0
+等比缩放	deng bi suo fang	0
+第三世界	di san shi jie	0
+人机工程学	ren ji gong cheng xue	0
+手绘稿	shou hui gao	0
+设计理念	she ji li nian	0
+包装设计	bao zhuang she ji	0
+视觉传达	shi jue chuan da	0
+数字摄影	shu zi she ying	0
+影视节目制作	ying shi jie mu zhi zuo	0
+游戏制作	you xi zhi zuo	0
+设计概论	she ji gai lun	0
+音频轨道	yin pin gui dao	0
+添加轨道	tian jia gui dao	0
+锁定轨道	suo ding gui dao	0
+锁定图层	suo ding tu ceng	0
+柔光	rou guang	0
+强光	qiang guang	0
+正片叠加	zheng pian die jia	0
+玫瑰红	mei gui hong	0
+普蓝	pu lan	0
+玛丽	ma li	0
+陶艺	tao yi	0
+设计批评	she ji pi ping	0
+设计评价	she ji ping jia	0
+动画概论	dong hua gai lun	0
+功能主义	gong neng zhu yi	0
+构成主义	gou cheng zhu yi	0
+连接媒体	lian jie mei ti	0
+自动匹配序列	zi dong pi pei xu lie	0
+分布对象	fen bu dui xiang	0
+马赛克出	ma sai ke chu	0
+互换声道	hu huan sheng dao	0
+参数均衡	can shu jun heng	0
+恒量增益	heng liang zeng yi	0
+持续声量	chi xu sheng liang	0
+指数型淡入淡出	zhi shu xing dan ru dan chu	0
+交叉伸展	jiao cha shen zhan	0
+剥开背面	bo kai bei mian	0
+白场过渡	bai chang guo du	0
+棋盘划变	qi pan hua bian	0
+棋盘划变	qi pan huai bian	0
+划变	hua bian	0
+划变	huai bian	0
+新建项目	xin jian xiang mu	0
+打开项目	da kai xiang mu	0
+偏好设置	pian hao she zhi	0
+跳到标志帧	tiao dao biao zhi zhen	0
+跳到标志帧	tiao dao biao zhi zheng	0
+打开图像序列	da kai tu xiang xu lie	0
+另存为	ling cun wei	0
+半身带手	ban shen dai shou	0
+风景速写	feng jing su xie	0
+环境设计	huan jing she ji	0
+平面设计	ping mian she ji	0
+苏作	su zuo	0
+广作	guang zuo	0
+广作	an zuo	0
+京作	jing zuo	0
+建立选区	jian li xuan qu	0
+互动媒体	hu dong mei ti	0
+三维动画	san wei dong hua	0
+网络艺术	wang luo yi shu	0
+赫尔辛基火车站	he er xin ji huo che zhan	0
+林肯纪念堂	lin ken ji nian tang	0
+装潢设计	zhuang huang she ji	0
+染织服装	ran zhi fu zhuang	0
+清华大学美术学院	qing hua da xue mei shu xue yuan	0
+清华美院	qing hua mei yuan	0
+中央工艺美院	zhong yang gong yi mei yuan	0
+央美	yang mei	0
+国美	guo mei	0
+广美	guang mei	0
+鲁美	lu mei	0
+川美	chuan mei	0
+天美	tian mei	0
+西美	xi mei	0
+湖美	hu mei	0
+广艺	guang yi	0
+云艺	yun yi	0
+徐悲鸿美术学院	xu bei hong mei shu xue yuan	0
+装饰表现	zhuang shi biao xian	0
+立体构成	li ti gou cheng	0
+立构	li gou	0
+平面构成	ping mian gou cheng	0
+平构	ping gou	0
+色彩构成	se cai gou cheng	0
+色构	se gou	0
+色构	shai gou	0
+计算机辅助设计	ji suan ji fu zhu she ji	0
+印刷工艺	yin shua gong yi	0
+毕业设计	bi ye she ji	0
+招贴设计	zhao tie she ji	0
+招贴画	zhao tie hua	0
+招贴画家	zhao tie hua jia	0
+多媒体元素	duo mei ti yuan su	0
+五大调	wu da diao	0
+五大调	wu da tiao	0
+绿松石蓝	lv song shi lan	0
+会声会影	hui sheng hui ying	0
+叠化	die hua	0
+浮世绘	fu shi hui	0
+玛丽莲梦露	ma li lian meng lu	0
+梦露	meng lu	0
+福田繁雄	fu tian fan xiong	0
+福田繁雄	fu tian po xiong	0
+与岗特兰堡	yu gang te lan bao	0
+与岗特兰堡	yu gang te lan bu	0
+与岗特兰堡	yu gang te lan pu	0
+切瓦斯特	qie wa si te	0
+废止制	fei zhi zhi	0
+计划废止制	ji hua fei zhi zhi	0
+绿色设计	lv se she ji	0
+德国工业联盟	de guo gong ye lian meng	0
+返稿	fan gao	0
+明度	ming du	0
+竖排文字	shu pai wen zi	0
+淡入淡出	dan ru dan chu	0
+开始于屏幕外	kai shi yu ping mu wai	0
+结束语屏幕外	jie shu yu ping mu wai	0
+安全线	an quan xian	0
+深度渲染	shen du xuan ran	0
+补间	bu jian	0
+补间动画	bu jian dong hua	0
+按钮关键帧	an niu guan jian zhen	0
+按钮关键帧	an niu guan jian zheng	0
+空白帧	kong bai zhen	0
+空白帧	kong bai zheng	0
+定稿	ding gao	0
+建筑面积	jian zhu mian ji	0
+使用面积	shi yong mian ji	0
+公用面积	gong yong mian ji	0
+实用面积	shi yong mian ji	0
+居住面积	ju zhu mian ji	0
+套内面积	tao nei mian ji	0
+辅助面积	fu zhu mian ji	0
+共有建筑面积	gong you jian zhu mian ji	0
+进深	jin shen	0
+开间	kai jian	0
+玄关	xuan guan	0
+净高	jing gao	0
+层高	ceng gao	0
+标准层	biao zhun ceng	0
+隔断	ge duan	0
+女儿墙	nv er qiang	0
+单元式住宅	dan yuan shi zhu zhai	0
+跃层式商品房	yue ceng shi shang pin fang	0
+复式商品房	fu shi shang pin fang	0
+烧结普通砖	shao jie pu tong zhuan	0
+烧结多孔砖	shao jie duo kong zhuan	0
+蒸压灰砂砖	zheng ya hui sha zhuan	0
+蒸压粉煤灰砖	zheng ya fen mei hui zhuan	0
+混凝土小型空心砌块	hun ning tu xiao xing kong xin qi kuai	0
+夹心墙	jia xin qiang	0
+混凝土构造柱	hun ning tu gou zao zhu	0
+挑梁	tiao liang	0
+设计使用年限	she ji shi yong nian xian	0
+伸缩缝	shen suo feng	0
+抗震设防烈度	kang zhen she fang lie du	0
+箱形基础	xiang xing ji chu	0
+抗震设防标准	kang zhen she fang biao zhun	0
+筏形基础	fa xing ji chu	0
+地基处理	di ji chu li	0
+墙板结构	qiang ban jie gou	0
+建筑结构	jian zhu jie gou	0
+框架结构	kuang jia jie gou	0
+结构单元	jie gou dan yuan	0
+筒体结构	tong ti jie gou	0
+单框筒结构	dan kuang tong jie gou	0
+单框筒结构	shan kuang tong jie gou	0
+单框筒结构	chan kuang tong jie gou	0
+筒中筒结构	tong zhong tong jie gou	0
+成束筒结构	cheng shu tong jie gou	0
+悬挂结构	xuan gua jie gou	0
+核心筒悬挂结构	he xin tong xuan gua jie gou	0
+多筒悬挂结构	duo tong xuan gua jie gou	0
+素混凝土结构	su hun ning tu jie gou	0
+钢筋混凝土结构	gang jin hun ning tu jie gou	0
+预应力混凝土结构	yu ying li hun ning tu jie gou	0
+现浇混凝土结构	xian jiao hun ning tu jie gou	0
+装配式混凝土结构	zhuang pei shi hun ning tu jie gou	0
+装配整体式混凝土结构	zhuang pei zheng ti shi hun ning tu jie gou	0
+大模板混凝土结构	da mu ban hun ning tu jie gou	0
+大模板混凝土结构	dai mu ban hun ning tu jie gou	0
+大模板混凝土结构	tai mu ban hun ning tu jie gou	0
+永久荷载	yong jiu he zai	0
+可变荷载	ke bian he zai	0
+基本雪压	ji ben xue ya	0
+基本风压	ji ben feng ya	0
+砌体结构	qi ti jie gou	0
+配筋砌体结构	pei jin qi ti jie gou	0
+布局图	bu ju tu	0
+版面组合	ban mian zu he	0
+样本	yang ben	0
+末稿	mo gao	0
+大样	da yang	0
+小样	xiao yang	0
+图像分辩率	tu xiang fen bian lv	0
+图像分辩率	tu xiang fen bian shuai	0
+设备分辩率	she bei fen bian lv	0
+设备分辩率	she bei fen bian shuai	0
+位分辩率	wei fen bian lv	0
+位分辩率	wei fen bian shuai	0
+色彩深度	se cai shen du	0
+轮廓线	lun kuo xian	0
+立面图	li mian tu	0
+剖面图	pou mian tu	0
+节点图	jie dian tu	0
+轴线	zhou xian	0
+简支梁	jian zhi liang	0
+净面积	jing mian ji	0
+现浇板	xian jiao ban	0
+锚固	mao gu	0
+预制板	yu zhi ban	0
+砖混结构	zhuan hun jie gou	0
+水泥砂浆	shui ni sha jiang	0
+砼垫层	tong dian ceng	0
+素砼	su tong	0
+承重墙	cheng zhong qiang	0
+铭牌	ming pai	0
+抹灰	mo hui	0
+木龙骨	mu long gu	0
+英国工艺美术运动	ying guo gong yi mei shu yun dong	0
+工效学	gong xiao xue	0
+造型艺术	zao xing yi shu	0
+多样与统一	duo yang yu tong yi	0
+空间构成	kong jian gou cheng	0
+黄金分割	huang jin fen ge	0
+类似	lei si	0
+线透视	xian tou shi	0
+单点透视	dan dian tou shi	0
+点透视	dian tou shi	0
+抽象形态	chou xiang xing tai	0
+简化形态	jian hua xing tai	0
+有机形态	you ji xing tai	0
+纹样	wen yang	0
+仿真模型	fang zhen mo xing	0
+鸟瞰图	niao kan tu	0
+三点透视	san dian tou shi	0
+平行透视	ping xing tou shi	0
+补色	bu se	0
+环境色	huan jing se	0
+环境色	huan jing shai	0
+彩度	cai du	0
+色相环	se xiang huan	0
+三原色	san yuan se	0
+广告代理业	guang gao dai li ye	0
+广告目的	guang gao mu di	0
+注册商标	zhu ce shang biao	0
+间色	jian se	0
+设计费	she ji fei	0
+色价	se jia	0
+色价	shai jia	0
+色价	se jie	0
+色价	shai jie	0
+配色	pei se	0
+色彩调和	se cai tiao he	0
+重色	zhong se	0
+轻色	qing se	0
+轻色	qing shai	0
+后退色	hou tui se	0
+后退色	hou tui shai	0
+前进色	qian jin se	0
+前进色	qian jin shai	0
+膨胀色	peng zhang se	0
+膨胀色	peng zhang shai	0
+收缩色	shou suo se	0
+收缩色	shou suo shai	0
+恒常性	heng chang xing	0
+可视度	ke shi du	0
+可视度	ke shi duo	0
+等色操作	deng se cao zuo	0
+色彩再现	se cai zai xian	0
+一次色	yi ci shai	0
+二次色	er ci se	0
+二次色	er ci shai	0
+色彩三属性	se cai san shu xing	0
+现代设计	xian dai she ji	0
+量产设计	liang chan she ji	0
+设计决策	she ji jue ce	0
+照明设计	zhao ming she ji	0
+生命周期	sheng ming zhou qi	0
+功能分化	gong neng fen hua	0
+戈顿法	ge dun fa	0
+暗	an	0
+猎装	lie zhuang	0
+肩缝	jian feng	0
+领嘴	ling zui	0
+门襟	men jin	0
+门襟止口	men jin zhi kou	0
+搭门	da men	0
+扣眼	kou yan	0
+眼距	yan ju	0
+袖窿	xiu long	0
+平驳头	ping bo tou	0
+驳头	bo tou	0
+戗驳头	qiang bo tou	0
+里襟	li jin	0
+腰节	yao jie	0
+摆缝	bai feng	0
+底边	di bian	0
+串口	chuan kou	0
+假眼	jia yan	0
+单排扣	dan pai kou	0
+驳口	bo kou	0
+双排扣	shuang pai kou	0
+前后披肩	qian hou pi jian	0
+止口圆角	zhi kou yuan jiao	0
+扣位	kou wei	0
+前过肩	qian guo jian	0
+门襟翻边	men jin fan bian	0
+领省	ling sheng	0
+领省	ling xing	0
+前腰省	qian yao sheng	0
+前腰省	qian yao xing	0
+横省	heng sheng	0
+横省	heng xing	0
+前肩省	qian jian sheng	0
+前肩省	qian jian xing	0
+肚省	du sheng	0
+肚省	du xing	0
+前身通省	qian shen tong sheng	0
+前身通省	qian shen tong xing	0
+刀背缝	dao bei feng	0
+后身	hou shen	0
+后过肩	hou guo jian	0
+总肩	zong jian	0
+背叉	bei cha	0
+背缝	bei feng	0
+摆叉	bai cha	0
+后搭门	hou da men	0
+领窝	ling wo	0
+后腰省	hou yao sheng	0
+后腰省	hou yao xing	0
+后肩省	hou jian sheng	0
+后肩省	hou jian xing	0
+后领省	hou ling sheng	0
+后领省	hou ling xing	0
+腰头钮	yao tou niu	0
+裤头	ku tou	0
+里襟尖咀	li jin jian ju	0
+里襟尖咀	li jin jian zui	0
+裤头里	ku tou li	0
+裤头钮	ku tou niu	0
+宝剑头	bao jian tou	0
+钮牌	niu pai	0
+裤门襟	ku men jin	0
+裤裆垫布	ku dang dian bu	0
+膝盖绸	xi gai chou	0
+侧骨	ce gu	0
+侧骨	ze gu	0
+侧骨	zhai gu	0
+下裆缝	xia dang feng	0
+斜插袋	xie cha dai	0
+前腰褶	qian yao zhe	0
+表袋	biao dai	0
+裤耳	ku er	0
+后袋	hou dai	0
+后褶	hou zhe	0
+后裆缝	hou dang feng	0
+后浪	hou lang	0
+级曲面	ji qu mian	0
+手写板	shou xie ban	0
+澎马	peng ma	0
+蓝铅笔	lan qian bi	0
+网点	wang dian	0
+肯特纸	ken te zhi	0
+反白	fan bai	0
+法线	fa xian	0
+局部坐标系	ju bu zuo biao xi	0
+全局坐标系	quan ju zuo biao xi	0
+布尔运算	bu er yun suan	0
+拓扑	tuo pu	0
+应用程序接口	ying yong cheng xu jie kou	0
+雾化效果	wu hua xiao guo	0
+透视角修正处理	tou shi jiao xiu zheng chu li	0
+透视角修正处理	tou shi jue xiu zheng chu li	0
+抗锯齿处理	kang ju chi chu li	0
+显示适度降级	xian shi shi du jiang ji	0
+正向链接运动	zheng xiang lian jie yun dong	0
+纹理贴图	wen li tie tu	0
+视频材质贴图	shi pin cai zhi tie tu	0
+材质影像过滤处理	cai zhi ying xiang guo lv chu li	0
+近邻取样	jin lin qu yang	0
+双线过滤	shuang xian guo lv	0
+三线过滤	san xian guo lv	0
+各向异性过滤	ge xiang yi xing guo lv	0
+材质标识码	cai zhi biao zhi ma	0
+着色处理	zhuo se chu li	0
+平面着色	ping mian zhuo se	0
+补色着色	bu se zhuo se	0
+辐射着色	fu she zhuo se	0
+扫描线着色	sao miao xian zhuo se	0
+三维像素	san wei xiang su	0
+光线跟踪着色	guang xian gen zong zhuo se	0
+抖动显示	dou dong xian shi	0
+图形处理器	tu xing chu li qi	0
+初始化图形交换规范	chu shi hua tu xing jiao huan gui fan	0
+切入	qie ru	0
+切出切入	qie chu qie ru	0
+抢拍	qiang pai	0
+切出	qie chu	0
+拟音	ni yin	0
+内景	nei jing	0
+容差	rong cha	0
+容差值	rong cha zhi	0
+流量	liu liang	0
+样式	yang shi	0
+去网	qu wang	0
+色域警告	se yu jing gao	0
+动态模糊	dong tai mo hu	0
+移置	yi zhi	0
+骨骼工具	gu ge gong ju	0
+代码段	dai ma duan	0
+嵌入参数	qian ru can shu	0
+外部库	wai bu ku	0
+十六进制值	shi liu jin zhi zhi	0
+本地共享对象	ben di gong xiang dui xiang	0
+分割区缩放	fen ge qu suo fang	0
+分割区缩放	fen ge ou suo fang	0
+属性关键帧	shu xing guan jian zhen	0
+属性关键帧	shu xing guan jian zheng	0
+粗纺关键帧	cu fang guan jian zhen	0
+粗纺关键帧	cu fang guan jian zheng	0
+喷枪工具	pen qiang gong ju	0
+平点	ping dian	0
+流视频	liu shi pin	0
+次选工具	ci xuan gong ju	0
+子工具	zi gong ju	0
+网页安全色调色板	wang ye an quan se tiao se ban	0
+窗口模式	chuang kou mo shi	0
+分镜台本	fen jing tai ben	0
+分镜头	fen jing tou	0
+美工	mei gong	0
+透视变形	tou shi bian xing	0
+视差	shi cha	0
+封面设计	feng mian she ji	0
+多媒体编辑	duo mei ti bian ji	0
+特效	te xiao	0
+特效面板	te xiao mian ban	0
+小批试制	xiao pi shi zhi	0
+零件图	ling jian tu	0
+装配图	zhuang pei tu	0
+工作图设计	gong zuo tu she ji	0
+简图	jian tu	0
+原理图	yuan li tu	0
+流程图	liu cheng tu	0
+包装图	bao zhuang tu	0
+表格图	biao ge tu	0
+接线图	jie xian tu	0
+副底图	fu di tu	0
+副底图	pi di tu	0
+技术任务书	ji shu ren wu shu	0
+技术建议书	ji shu jian yi shu	0
+设计图样	she ji tu yang	0
+研究试验报告	yan jiu shi yan bao gao	0
+技术设计说明书	ji shu she ji shuo ming shu	0
