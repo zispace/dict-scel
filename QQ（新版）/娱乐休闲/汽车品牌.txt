@@ -1,0 +1,263 @@
+# 词库名称: 汽车品牌
+# 词库分类: 汽车
+# 词库描述: 汽车品牌
+# 词条样例: 奥迪、奥克斯、奥拓、保时捷、宝龙
+# 解析词数: 256
+# 解析异常: 0
+
+安驰	an chi	256
+安凯	an kai	256
+安源	an yuan	256
+奥迪	ao di	256
+奥克斯	ao ke si	256
+奥拓	ao tuo	256
+巴博斯	ba bo si	256
+百路佳	bai lu jia	256
+保斐利	bao fei li	256
+宝骏	bao jun	256
+宝龙	bao long	256
+宝马	bao ma	256
+保时捷	bao shi jie	256
+北奔重汽	bei ben zhong qi	256
+北方	bei fang	256
+北方奔驰	bei fang ben chi	256
+北京牌	bei jing pai	256
+北京绅宝	bei jing shen bao	256
+北汽幻速	bei qi huan su	256
+北汽皮卡	bei qi pi ka	256
+北汽威旺	bei qi wei wang	256
+北汽新能源	bei qi xin neng yuan	256
+北汽制造	bei qi zhi zao	256
+奔驰	ben chi	256
+奔腾	ben teng	256
+本田	ben tian	256
+比亚迪	bi ya di	256
+标致	biao zhi	256
+别克	bie ke	256
+宾利	bin li	256
+布嘉迪	bu jia di	256
+叉车川牧	cha che chuan mu	256
+长安	chang an	256
+长安客车	chang an ke che	256
+长安跨越	chang an kua yue	256
+长安重汽	chang an zhong qi	256
+长城	chang cheng	256
+长丰	chang feng	256
+昌河	chang he	256
+长征	chang zheng	256
+成功汽车	cheng gong qi che	256
+川汽野马	chuan qi ye ma	256
+大迪	da di	256
+大发	da fa	256
+达夫	da fu	256
+大通	da tong	256
+大宇	da yu	256
+大宇客车	da yu ke che	256
+大运汽车	da yun qi che	256
+大众	da zhong	256
+道奇	dao qi	256
+帝豪	di hao	256
+东风	dong feng	256
+东风风度	dong feng feng du	256
+东风风神	dong feng feng shen	256
+东风柳汽	dong feng liu qi	256
+东风日产	dong feng ri chan	256
+东风商用车	dong feng shang yong che	256
+东风小康	dong feng xiao kang	256
+东南	dong nan	256
+东沃	dong wo	256
+法拉利	fa la li	256
+菲亚特	fei ya te	256
+丰田	feng tian	256
+风行	feng xing	256
+福迪	fu di	256
+福汽启腾	fu qi qi teng	256
+福特	fu te	256
+福田	fu tian	256
+福田客车	fu tian ke che	256
+广东三星	guang dong san xing	256
+光冈	guang gang	256
+广汽	guang qi	256
+广汽菲克	guang qi fei ke	256
+广汽客车	guang qi ke che	256
+广汽日野	guang qi ri ye	256
+广通观致	guang tong guan zhi	256
+贵州云雀	gui zhou yun que	256
+哈飞	ha fei	256
+海格	hai ge	256
+海马	hai ma	256
+悍马	han ma	256
+航天	hang tian	256
+黑豹	hei bao	256
+衡山	heng shan	256
+恒天	heng tian	256
+恒通	heng tong	256
+红旗	hong qi	256
+红岩	hong yan	256
+华菱合客	hua ling he ke	256
+华普	hua pu	256
+华泰	hua tai	256
+华翔富奇	hua xiang fu qi	256
+黄海	huang hai	256
+黄海卡车	huang hai ka che	256
+黄海客车	huang hai ke che	256
+吉奥	ji ao	256
+吉利	ji li	256
+吉林通田	ji lin tong tian	256
+吉普	ji pu	256
+嘉川汽车	jia chuan qi che	256
+江淮	jiang huai	256
+江淮客车	jiang huai ke che	256
+江铃	jiang ling	256
+江铃货车	jiang ling huo che	256
+江南	jiang nan	256
+捷豹	jie bao	256
+解放	jie fang	256
+金杯	jin bei	256
+金杯货车	jin bei huo che	256
+金程车工	jin cheng che gong	256
+金龙	jin long	256
+精功汽车	jing gong qi che	256
+精灵	jing ling	256
+九龙加油车	jiu long jia you che	256
+卡尔森	ka er sen	256
+卡柯尼赛格	ka ke ni sai ge	256
+卡特彼勒	ka te bi le	256
+卡威	ka wei	256
+凯迪拉克	kai di la ke	256
+凯马	kai ma	256
+开瑞	kai rui	256
+开瑞绿	kai rui lv	256
+凯翼	kai yi	256
+康迪	kang di	256
+克莱斯勒	ke lai si le	256
+兰博基尼	lan bo ji ni	256
+蓝旗亚	lan qi ya	256
+劳伦士	lao lun shi	256
+劳斯莱斯	lao si lai si	256
+雷丁	lei ding	256
+雷克	lei ke	256
+雷诺	lei nuo	256
+力帆	li fan	256
+力帆骏马	li fan jun ma	256
+力帆时骏	li fan shi jun	256
+理念	li nian	256
+联合卡车	lian he ka che	256
+莲花	lian hua	256
+林肯	lin ken	256
+铃木	ling mu	256
+流动售货车	liu dong shou huo che	256
+陆风	lu feng	256
+路虎	lu hu	256
+路特斯	lu te si	256
+罗孚	luo fu	256
+玛莎拉蒂	ma sha la di	256
+马自达	ma zi da	256
+迈巴赫	mai ba he	256
+迈凯伦	mai kai lun	256
+曼牡丹	man mu dan	256
+美亚	mei ya	256
+摩根	mo gen	256
+纳智捷	na zhi jie	256
+南京依维柯	nan jing yi wei ke	256
+南骏	nan jun	256
+南汽新雅途	nan qi xin ya tu	256
+南亚	nan ya	256
+女神	nv shen	256
+欧宝	ou bao	256
+讴歌	ou ge	256
+欧朗	ou lang	256
+帕加尼	pa jia ni	256
+庞蒂亚克	pang di ya ke	256
+平地机	ping di ji	256
+启辰	qi chen	256
+奇瑞	qi rui	256
+起亚	qi ya	256
+庆铃	qing ling	256
+全球鹰	quan qiu ying	256
+日产	ri chan	256
+荣威	rong wei	256
+如虎	ru hu	256
+瑞麒	rui qi	256
+萨博	sa bo	256
+萨斯	sa si	256
+三环	san huan	256
+三菱	san ling	256
+陕汽德龙	shan qi de long	256
+陕汽华山	shan qi hua shan	256
+陕汽通家	shan qi tong jia	256
+上海汇众	shang hai hui zhong	256
+上汽仪征	shang qi yi zheng	256
+上饶	shang rao	256
+少林	shao lin	256
+申沃客车	shen wo ke che	256
+时代	shi dai	256
+时风水泥罐车	shi feng shui ni guan che	256
+世爵	shi jue	256
+舒驰蜀都	shu chi shu du	256
+双环	shuang huan	256
+双龙	shuang long	256
+斯巴鲁	si ba lu	256
+四川现代	si chuan xian dai	256
+斯达泰克	si da tai ke	256
+斯堪尼亚	si kan ni ya	256
+斯柯达	si ke da	256
+思铭申龙	si ming shen long	256
+泰卡特	tai ka te	256
+唐骏汽车	tang jun qi che	256
+特斯拉	te si la	256
+天津一汽	tian jin yi qi	256
+天马	tian ma	256
+推土机	tui tu ji	256
+万丰	wan feng	256
+王牌	wang pai	256
+潍柴汽车	wei chai qi che	256
+威麟	wei lin	256
+威兹曼	wei zi man	256
+沃尔沃	wo er wo	256
+五菱	wu ling	256
+五十铃货车	wu shi ling huo che	256
+五征	wu zheng	256
+五洲龙	wu zhou long	256
+西安	xi an	256
+西沃客车	xi wo ke che	256
+西亚特	xi ya te	256
+厦门金龙	xia men jin long	256
+现代	xian dai	256
+新大地	xin da di	256
+新凯	xin kai	256
+新龙马	xin long ma	256
+徐工汽车	xu gong qi che	256
+雪佛兰	xue fu lan	256
+雪铁龙	xue tie long	256
+压路机	ya lu ji	256
+亚星	ya xing	256
+扬子江	yang zi jiang	256
+野马	ye ma	256
+一汽解放	yi qi jie fang	256
+一汽客车	yi qi ke che	256
+一汽柳特	yi qi liu te	256
+一汽通用	yi qi tong yong	256
+一汽跃进	yi qi yue jin	256
+依维柯	yi wei ke	256
+英菲尼迪	ying fei ni di	256
+英伦	ying lun	256
+英田	ying tian	256
+永源	yong yuan	256
+油罐车	you guan che	256
+友谊	you yi	256
+宇通	yu tong	256
+浙江卡尔森	zhe jiang ka er sen	256
+郑州日产	zheng zhou ri chan	256
+知豆电动车	zhi dou dian dong che	256
+中大	zhong da	256
+中国重汽	zhong guo zhong qi	256
+中华	zhong hua	256
+中客华北	zhong ke hua bei	256
+中欧	zhong ou	256
+重汽王牌	zhong qi wang pai	256
+中顺	zhong shun	256
+众泰	zhong tai	256
+中通	zhong tong	256
+中兴	zhong xing	256
+装载机	zhuang zai ji	256
