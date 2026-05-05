@@ -1,0 +1,396 @@
+# 词库名称: 300英雄（英雄，物品，简称）300hero
+# 词库分类: 其他
+# 词库描述: 包含所有英雄全称，简称。物品全称，简称。 附带部分LOL与300英雄相似的英雄，物品名。 ——by 柏咚乄
+# 词条样例: 伊莉雅、远坂凛、五河琴里、佐仓杏子、五更琉璃、梦梦
+# 解析词数: 389
+# 解析异常: 0
+
+阿蒙的意志	a meng de yi zhi	123
+安迪娃娃	an di wa wa	126
+暗盾	an dun	66
+奥特曼	ao te man	316
+巴依老爷	ba yi lao ye	345
+八云紫	ba yun zi	379
+柏咚乄	bai dong shi	2
+白井黑子	bai jing hei zi	373
+白岩射手	bai yan she shou	375
+坂田银时	ban tian yin shi	358
+鲍勃的安全气囊	bao bo de an quan qi nang	259
+鲍勃的飞行斥候	bao bo de fei xing chi hou	262
+比尔吉沃特弯刀	bi er ji wo te wan dao	26
+变形妖刀	bian xing yao dao	161
+变异蘑菇	bian yi mo gu	323
+冰川护甲	bing chuan hu jia	201
+冰锤	bing chui	103
+冰女	bing nv	118
+冰仗	bing zhang	59
+博丽灵梦	bo li ling meng	273
+捕鱼达人	bu yu da ren	336
+不知火舞	bu zhi huo wu	308
+残废之锤	can fei zhi chui	261
+残废之球	can fei zhi qiu	248
+草帽小子	cao mao xiao zi	292
+草薙剑	cao ti jian	243
+曾小贤	ceng xiao xian	354
+缠流子	chan liu zi	366
+阐释者	chan shi zhe	175
+朝田诗乃	chao tian shi nai	386
+陈美嘉	chen mei jia	309
+斥候	chi hou	86
+初音未来	chu yin wei lai	281
+穿甲	chuan jia	82
+穿甲弓	chuan jia gong	81
+锤石	chui shi	12
+春哥	chun ge	104
+春哥甲	chun ge jia	62
+大地勇士	da di yong shi	180
+大师球	da shi qiu	205
+大天使之杖	da tian shi zhi zhang	40
+打野装	da ye zhuang	74
+单面金币	dan mian jin bi	160
+岛风	dao feng	377
+刀妹	dao mei	11
+盗贼娃	dao zei wa	305
+德犸蜥牙	de ma xi ya	198
+的移动教会	de yi dong jiao hui	187
+敌法	di fa	107
+敌法师	di fa shi	297
+地火之心	di huo zhi xin	159
+电刀	dian dao	36
+电击陷阱	dian ji xian jing	158
+貂蝉	diao chan	326
+多兰盾	duo lan dun	89
+多兰剑	duo lan jian	90
+多兰戒	duo lan jie	88
+恶毒权杖	e du quan zhang	157
+法穿鞋	fa chuan xie	60
+法穿仗	fa chuan zhang	58
+法力潮汐	fa li chao xi	218
+法力结晶	fa li jie jing	133
+法力培养罐	fa li pei yang guan	129
+法力药水	fa li yao shui	215
+法师娃	fa shi wa	311
+法师之靴	fa shi zhi xue	172
+法术卷轴	fa shu juan zhou	156
+反伤	fan shang	30
+反伤甲	fan shang jia	29
+反震盔甲	fan zhen kui jia	197
+绯村剑心	fei cun jian xin	285
+绯想之剑	fei xiang zhi jian	258
+飞鞋	fei xie	55
+粉毛	fen mao	91
+凤凰羽衣	feng huang yu yi	200
+复活甲	fu huo jia	61
+负极斗篷	fu ji dou peng	18
+斧王	fu wang	306
+坩埚	gan guo	33
+刚格尼尔之枪	gang ge ni er zhi qiang	251
+高斯光剑	gao si guang jian	226
+格雷	ge lei	337
+工资装	gong zi zhuang	75
+古娜	gu na	286
+关羽	guan yu	298
+桂木桂马	gui mu gui ma	276
+海达耶的防爆外壳	hai da ye de fang bao wai ke	202
+寒冬节杖	han dong jie zhang	155
+浩南之眼	hao nan zhi yan	247
+黑暗之盾	hei an zhi dun	203
+黑刀	hei dao	115
+黑龙皮鞭	hei long pi bian	235
+黑切	hei qie	51
+黑岩射手	hei yan she shou	275
+黑曜石护符	hei yao shi hu fu	190
+黑曜石头冠	hei yao shi tou guan	204
+黑曜石之靴	hei yao shi zhi xue	171
+黑子	hei zi	5
+红叉	hong cha	78
+红毛	hong mao	92
+红蔷薇	hong qiang wei	254
+红外观察站	hong wai guan cha zhan	213
+护身匕首	hu shen bi shou	238
+胡子船长	hu zi chuan zhang	350
+化型战士	hua xing zhan shi	296
+幻灵夹克	huan ling jia ke	154
+幻想杀手	huan xiang sha shou	237
+幻影天使之刃	huan ying tian shi zhi ren	224
+幻影之舞	huan ying zhi wu	64
+黄叉	huang cha	77
+黄金齿轮	huang jin chi lun	206
+黄蔷薇	huang qiang wei	253
+毁灭魔杖	hui mie mo zhang	153
+霍比侦察兵	huo bi zhen cha bing	307
+火女	huo nv	16
+火舞	huo wu	105
+基本观察站	ji ben guan cha zhan	214
+吉尔伽美什	ji er jia mei shi	301
+疾风匕	ji feng bi	134
+疾风之忍	ji feng zhi ren	299
+疾风之靴	ji feng zhi xue	169
+汲取能量刀	ji qu neng liang dao	257
+汲取射线枪	ji qu she xian qiang	148
+鸡丝	ji si	100
+姬丝秀忒	ji si xiu tei	340
+急速靴	ji su xue	170
+疾行靴	ji xing xue	168
+记忆金属	ji yi jin shu	344
+坚定头冠	jian ding tou guan	209
+舰队统帅	jian dui tong shuai	321
+剑姬	jian ji	14
+剑心	jian xin	119
+江户川柯南	jiang hu chuan ke nan	369
+结城明日奈	jie cheng ming ri nai	277
+金木研	jin mu yan	385
+金色之暗	jin se zhi an	367
+净魂之刃	jing hun zhi ren	234
+九头蛇	jiu tou she	46
+绝尘靴	jue chen xue	167
+均衡宝珠	jun heng bao zhu	151
+卡殿下	ka dian xia	314
+科技刀	ke ji dao	47
+氪金猫眼	ke jin mao yan	189
+可破万法之符	ke po wan fa zhi fu	149
+空条承太郎	kong tiao cheng tai lang	378
+库奇	ku qi	346
+枯萎之心	ku wei zhi xin	128
+狂暴者的巨剑	kuang bao zhe de ju jian	260
+狂暴之刃	kuang bao zhi ren	41
+狂徒	kuang tu	34
+狂战斧	kuang zhan fu	232
+奎拉斯外皮	kui la si wai pi	223
+垃圾毁灭者	la ji hui mie zhe	331
+蓝盾	lan dun	65
+蓝毛	lan mao	93
+朗基努斯之枪	lang ji nu si zhi qiang	124
+雷霆之怒	lei ting zhi nu	333
+立场	li chang	186
+立华奏	li hua zou	364
+莉莉	li li	108
+立命之刃	li ming zhi ren	246
+李小狼	li xiao lang	284
+两仪式	liang yi shi	380
+猎人娃	lie ren wa	294
+烈阳铠甲	lie yang kai jia	220
+鳞甲	lin jia	191
+零时迷子	ling shi mi zi	184
+六花	liu hua	98
+六神装	liu shen zhuang	67
+龙女	long nv	9
+龙皮	long pi	73
+卢安娜的飓风	lu an na de ju feng	35
+鹿目圆香	lu mu yuan xiang	371
+露西	lu xi	109
+裸红叉的渣渣	luo hong cha de zha zha	76
+罗斯	luo si	3
+螺湮城教本	luo yan cheng jiao ben	147
+吕布	lv bu	295
+吕子乔	lv zi qiao	353
+蛮锤勇士	man chui yong shi	349
+蛮王	man wang	99
+猫眼药剂	mao yan yao ji	212
+美猴王	mei hou wang	280
+美树沙耶加	mei shu sha ye jia	382
+梦梦	meng meng	372
+觅心拳匕	mi xin quan bi	131
+魔导少女	mo dao shao nv	315
+魔剑瓦莱丁	mo jian wa lai ding	146
+牧师娃	mu shi wa	319
+纳兹	na zi	283
+奈亚子	nai ya zi	376
+尼禄	ni lu	1
+涅普顿	nie pu dun	368
+扭曲立场	niu qu li chang	194
+女神之泪	nv shen zhi lei	20
+盘古斧	pan gu fu	196
+炮姐	pao jie	102
+匹诺曹	pi nuo cao	289
+平天大圣	ping tian da sheng	341
+破败	po bai	87
+破刃之剑	po ren zhi jian	255
+祈妹	qi mei	110
+骑士娃	qi shi wa	342
+齐天小剩	qi tian xiao sheng	320
+奇犽	qi ya	384
+七曜元素之书	qi yao yuan su zhi shu	145
+契约之盾	qi yue zhi dun	210
+契约之剑	qi yue zhi jian	269
+契约之戒	qi yue zhi jie	127
+蔷薇双枪	qiang wei shuang qiang	252
+强袭自由	qiang xi zi you	355
+强壮腰带	qiang zhuang yao dai	195
+乔巴	qiao ba	117
+乔帮主	qiao bang zhu	287
+琴里	qin li	94
+青釭剑	qing gang jian	249
+轻灵之靴	qing ling zhi xue	22
+青丘国主	qing qiu guo zhu	330
+清泉战衣	qing quan zhan yi	188
+清晰护符	qing xi hu fu	130
+热情胸甲	re qing xiong jia	183
+荣耀之证	rong yao zhi zheng	179
+熔渣	rong zha	23
+肉丝娜	rou si na	120
+瑞雯	rui wen	114
+瑞滋	rui zi	7
+若风之蜕翼	ruo feng zhi tui yi	162
+萨菲罗斯	sa fei luo si	279
+三笠	san li	303
+三圣器	san sheng qi	228
+三项	san xiang	48
+傻娜	sha na	101
+杀人甲	sha ren jia	83
+杀人剑	sha ren jian	84
+杀人书	sha ren shu	85
+沙僧	sha seng	302
+杀生丸	sha sheng wan	288
+闪回怀表	shan hui huai biao	182
+蛇蛋	she dan	52
+蛇叔	she shu	313
+蛇血舞姬	she xue wu ji	329
+神目黑刀	shen mu hei dao	290
+神奇四叶草	shen qi si ye cao	211
+深渊权杖	shen yuan quan zhang	32
+深渊之眼	shen yuan zhi yan	334
+圣剑	sheng jian	227
+生命结晶	sheng ming jie jing	193
+生命药水	sheng ming yao shui	216
+圣域	sheng yu	72
+圣域卷册	sheng yu juan ce	221
+石斧	shi fu	271
+时间跳跃脚镯	shi jian tiao yue jiao zhuo	144
+十六夜咲夜	shi liu ye xiao ye	356
+诗乃	shi nai	95
+时崎狂三	shi qi kuang san	310
+嗜血收割者	shi xue shou ge zhe	225
+适应装甲	shi ying zhuang jia	222
+食之忍者	shi zhi ren zhe	352
+十字镐	shi zi gao	21
+手套	shou tao	185
+手指毁灭者	shou zhi hui mie zhe	250
+术士娃	shu shi wa	332
+双生暗影	shuang sheng an ying	31
+霜之哀伤	shuang zhi ai shang	236
+水银饰带	shui yin shi dai	24
+死歌	si ge	10
+死海文书	si hai wen shu	143
+死神	si shen	322
+死亡笔记	si wang bi ji	142
+死亡帽	si wang mao	49
+死亡骑士	si wang qi shi	347
+死亡书	si wang shu	50
+四叶草	si ye cao	68
+四叶神教	si ye shen jiao	4
+速度之靴	su du zhi xue	165
+锁子甲	suo zi jia	19
+唐僧	tang seng	317
+藤甲	teng jia	208
+提亚马特	ti ya ma te	27
+天壤劫火项链	tian rang jie huo xiang lian	136
+天使杖	tian shi zhang	38
+天使之杖	tian shi zhi zhang	39
+天锁斩月	tian suo zhan yue	242
+天一神之铠	tian yi shen zhi kai	181
+跳跳丸	tiao tiao wan	116
+铁碎牙	tie sui ya	229
+桐谷和人	tong gu he ren	278
+铜剑	tong jian	267
+痛苦女王	tong ku nv wang	324
+桐人	tong ren	121
+屠宰者	tu zai zhe	263
+团的徽记	tuan de hui ji	199
+亡灵女王	wang ling nv wang	304
+薇恩	wei en	106
+温暖坠饰	wen nuan zhui shi	132
+蚊之吻	wen zhi wen	266
+我爱罗	wo ai luo	113
+我受罗	wo shou luo	282
+巫毒杖	wu du zhang	152
+五更琉璃	wu geng liu li	374
+五河琴里	wu he qin li	383
+无尽长夜法杖	wu jin chang ye fa zhang	217
+无尽法力魔杖	wu jin fa li mo zhang	141
+无尽水源	wu jin shui yuan	178
+物品	wu pin	272
+武术家草鞋	wu shu jia cao xie	164
+无限枪制手套	wu xian qiang zhi shou tao	268
+雾影射手	wu ying she shou	293
+吸蓝刀	xi lan dao	45
+袭胸	xi xiong	111
+吸血枪	xi xue qiang	57
+吸血书	xi xue shu	56
+夏洛特	xia luo te	343
+夏娜	xia na	328
+小暗	xiao an	97
+小黄书	xiao huang shu	79
+晓美焰	xiao mei yan	365
+小面具	xiao mian ju	25
+小鸟游六花	xiao niao you liu hua	362
+小圣杯	xiao sheng bei	63
+小悟空	xiao wu kong	360
+咲夜的怀表	xiao ye de huai biao	150
+邪王真眼	xie wang zhen yan	139
+凶暴双刀	xiong bao shuang dao	239
+蓄力之剑	xu li zhi jian	140
+旋风狂斧	xuan feng kuang fu	339
+玄铁剑	xuan tie jian	264
+削蓝刀	xue lan dao	70
+血瓶	xue ping	17
+殉难者铠甲	xun nan zhe kai jia	173
+雅典娜	ya dian na	318
+亚丝娜	ya si na	112
+亚索	ya suo	15
+亚西的动员令	ya xi de dong yuan ling	230
+眼石	yan shi	28
+岩石巨像	yan shi ju xiang	338
+妖刀村正	yao dao cun zheng	240
+妖精的光辉	yao jing de guang hui	138
+遥远的蹂躏制霸	yao yuan de rou lin zhi ba	125
+夜刀神十香	ye dao shen shi xiang	363
+夜空之剑	ye kong zhi jian	174
+楪祈	ye qi	274
+夜夜	ye ye	357
+伊卡洛斯	yi ka luo si	361
+伊莉雅	yi li ya	388
+伊泽瑞尔	yi ze rui er	8
+饮魔刀	yin mo dao	44
+隐身鞋	yin shen xie	163
+音速手刃	yin su shou ren	241
+阴阳玉	yin yang yu	207
+樱满集	ying man ji	370
+影舞者	ying wu zhe	335
+英雄	ying xiong	389
+涌动布鞋	yong dong bu xie	166
+幽梦之灵	you meng zhi ling	80
+御坂美琴	yu ban mei qin	327
+愈合神石	yu he shen shi	176
+羽蛇之卵	yu she zhi luan	137
+远坂凛	yuan ban lin	387
+远古意志	yuan gu yi zhi	37
+圆环之理	yuan huan zhi li	244
+圆润宝石	yuan run bao shi	231
+圆神	yuan shen	96
+月之女祭司	yue zhi nv ji si	325
+扎克	zha ke	13
+战法	zhan fa	69
+战法师指环	zhan fa shi zhi huan	219
+斩舰	zhan jian	6
+斩舰刀	zhan jian dao	233
+战士娃	zhan shi wa	359
+张飞	zhang fei	348
+振奋铠甲	zhen fen kai jia	42
+振奋盔甲	zhen fen kui jia	43
+真名法典	zhen ming fa dian	245
+真眼	zhen yan	71
+致命拳套	zhi ming quan tao	270
+支配者	zhi pei zhe	256
+止血绷带	zhi xue beng dai	192
+中亚	zhong ya	53
+中娅	zhong ya	54
+猪八戒	zhu ba jie	351
+祝福念珠	zhu fu nian zhu	135
+诸葛亮	zhu ge liang	312
+追击之弓	zhui ji zhi gong	265
+灼热盔甲	zhuo re kui jia	177
+自添加	zi tian jia	122
+佐仓杏子	zuo cang xing zi	381
+左二少	zuo er shao	300
+佐罗	zuo luo	291

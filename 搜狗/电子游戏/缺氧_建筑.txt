@@ -1,0 +1,455 @@
+# 词库名称: 缺氧-建筑
+# 词库分类: 策略经营
+# 词库描述: 建筑部分词库
+# 词条样例: 手动气闸、地堡门、塑料梯子、迷你舱、智能存储箱、金属砖
+# 解析词数: 448
+# 解析异常: 0
+
+按摩床	an mo chuang	282
+安全门	an quan men	65
+办公室植物	ban gong shi zhi wu	5
+爆破弹组装机	bao po dan zu zhuang ji	219
+壁橱	bi chu	17
+边角饰件	bian jiao shi jian	267
+变温板	bian wen ban	195
+变压器	bian ya qi	396
+冰雕塑块	bing diao su kuai	257
+冰封化石	bing feng hua shi	58
+病菌传感器	bing jun chuan gan qi	165
+冰冷风扇	bing leng feng shan	194
+冰箱	bing xiang	359
+病诊站	bing zhen zhan	285
+玻璃熔炉	bo li rong lu	304
+博士学位证书	bo shi xue wei zheng shu	30
+捕鱼陷阱	bu yu xian jing	365
+材料研究终端	cai liao yan jiu zhong duan	208
+餐桌	can zhuo	255
+柴火炉	chai huo lu	198
+场外储物柜	chang wai chu wu gui	42
+超级计算机	chao ji ji suan ji	207
+充水机	chong shui ji	382
+抽水马桶	chou shui ma tong	334
+储气库	chu qi ku	437
+储物柜	chu wu gui	4
+除污淋浴隔间	chu wu lin yu ge jian	290
+储液库	chu ye ku	439
+传送发射器	chuan song fa she qi	2
+传送接收器	chuan song jie shou qi	1
+窗户	chuang hu	64
+窗户砖	chuang hu zhuan	423
+床铺	chuang pu	279
+垂吊花盆	chui diao hua pen	276
+垂直风洞	chui zhi feng dong	242
+存储箱	cun chu xiang	436
+存储砖	cun chu zhuan	433
+大理石雕塑块	da li shi diao su kuai	270
+大脑罐	da nao guan	22
+大厅沙发	da ting sha fa	37
+大厅椅子	da ting yi zi	39
+大型变压器	da xing bian ya qi	395
+大型雕塑块	da xing diao su kuai	262
+大型放电器	da xing fang dian qi	406
+大型固体氧化剂舱	da xing gu ti yang hua ji cang	88
+大型货舱	da xing huo cang	86
+大型气罐货舱	da xing qi guan huo cang	85
+大型液缸货舱	da xing ye gang huo cang	95
+大型液缸燃料舱	da xing ye gang ran liao cang	90
+单太空员前锥	dan tai kong yuan qian zhui	92
+档案柜	dang an gui	35
+导热板	dao re ban	354
+导热气体管道	dao re qi ti guan dao	324
+导热液体管道	dao re ye ti guan dao	352
+导线	dao xian	388
+导线桥	dao xian qiao	387
+灯具	deng ju	34
+地堡门	di bao men	446
+地堡砖	di bao zhuan	434
+地热排气口	di re pai qi kou	53
+地热热泵	di re re beng	54
+地毯砖	di tan zhuan	427
+低温箱	di wen xiang	60
+地质调谐仪	di zhi tiao xie yi	209
+点唱机器人	dian chang ji qi ren	241
+电灯	dian deng	254
+电动烤炉	dian dong kao lu	384
+电解器	dian jie qi	416
+电控站	dian kong zhan	225
+电力截断器	dian li jie duan qi	394
+电脑讲台	dian nao jiang tai	27
+电脑桌	dian nao zhuo	46
+电线	dian xian	385
+电线桥	dian xian qiao	389
+电源插座配件	dian yuan cha zuo pei jian	125
+电闸	dian zha	393
+电子显示屏	dian zi xian shi ping	45
+雕塑块	diao su kuai	268
+定位信标	ding wei xin biao	117
+堆肥堆	dui fei dui	297
+二氧化碳引擎	er yang hua tan yin qing	76
+纺织机	fang zhi ji	223
+肥料合成器	fei liao he cheng qi	298
+非门	fei men	187
+飞行小动物公寓	fei xing xiao dong wu gong yu	368
+飞行小动物陷阱	fei xing xiao dong wu xian jing	369
+粉碎的卫星	fen sui de wei xing	7
+分诊床	fen zhen chuang	287
+分子熔炉	fen zi rong lu	307
+丰碑底基	feng bei di ji	273
+丰碑顶部	feng bei ding bu	269
+丰碑中段	feng bei zhong duan	258
+风景画	feng jing hua	33
+风景画布	feng jing hua bu	256
+孵化器	fu hua qi	374
+辐射传感器	fu she chuan gan qi	179
+辐射灯	fu she deng	104
+辐射粒子变向器	fu she li zi bian xiang qi	97
+辐射粒子传感器	fu she li zi chuan gan qi	173
+辐射粒子发生器	fu she li zi fa sheng qi	100
+辐射粒子接合板	fu she li zi jie he ban	96
+辐射粒子蓄存器	fu she li zi xu cun qi	105
+辐射粒子引擎	fu she li zi yin qing	77
+服务推车	fu wu tui che	44
+复制人检查站	fu zhi ren jian cha zhan	181
+复制人运动传感器	fu zhi ren yun dong chuan gan qi	168
+干板墙	gan ban qiang	424
+高负荷导线	gao fu he dao xian	391
+高负荷导线接合板	gao fu he dao xian jie he ban	392
+高负荷电线	gao fu he dian xian	386
+高负荷电线接合板	gao fu he dian xian jie he ban	390
+高压排气口	gao ya pai qi kou	327
+隔绝式望远镜	ge jue shi wang yuan jing	106
+隔热气体管道	ge re qi ti guan dao	328
+隔热液体管道	ge re ye ti guan dao	355
+隔热砖	ge re zhuan	429
+供给传送器输出端	gong ji chuan song qi shu chu duan	69
+供给传送器输入端	gong ji chuan song qi shu ru duan	66
+工具架	gong ju jia	15
+工具箱	gong ju xiang	16
+功率传感器	gong lv chuan gan qi	169
+汞吸顶灯	gong xi ding deng	250
+共线电话	gong xian dian hua	239
+工艺品分析站	gong yi pin fen xi zhan	237
+工艺品运输舱	gong yi pin yun shu cang	93
+公园标识	gong yuan biao zhi	260
+工作台	gong zuo tai	221
+骨骼模型	gu ge mo xing	10
+固体燃料推进器	gu ti ran liao tui jin qi	134
+固体筛选器	gu ti shai xuan qi	145
+固体氧化剂舱	gu ti yang hua ji cang	107
+观光舱	guan guang cang	119
+光线传感器	guang xian chuan gan qi	177
+轨道滑槽	gui dao hua cao	150
+轨道计量器	gui dao ji liang qi	139
+轨道截断器	gui dao jie duan qi	140
+轨道数据收集实验仪	gui dao shu ju shou ji shi yan yi	212
+过滤门	guo lv men	186
+焊接台	han jie tai	224
+航天指挥站	hang tian zhi hui zhan	115
+琥珀化石	hu po hua shi	57
+户外厕所	hu wai ce suo	336
+花盆	hua pen	274
+化石碎片	hua shi sui pian	59
+缓冲门	huan chong men	191
+环轨货舱	huan gui huo cang	94
+货舱	huo cang	137
+火箭端口固体卸载器	huo jian duan kou gu ti xie zai qi	152
+火箭端口固体装载器	huo jian duan kou gu ti zhuang zai qi	151
+火箭端口气体卸载器	huo jian duan kou qi ti xie zai qi	331
+火箭端口气体装载器	huo jian duan kou qi ti zhuang zai qi	330
+火箭端口延伸桥	huo jian duan kou yan shen qiao	111
+火箭端口液体卸载器	huo jian duan kou ye ti xie zai qi	357
+火箭端口液体装载器	huo jian duan kou ye ti zhuang zai qi	358
+火箭控制台	huo jian kong zhi tai	113
+火箭平台	huo jian ping tai	110
+或门	huo men	184
+基础前锥	ji chu qian zhui	87
+急救包	ji jiu bao	25
+挤奶站	ji nai zhan	214
+技能涤除器	ji neng di chu qi	226
+机器驾驶舱	ji qi jia shi cang	116
+机械臂	ji xie bi	24
+机械冲浪板	ji xie chong lang ban	243
+机械气闸	ji xie qi zha	448
+机械研究桌	ji xie yan jiu zhuo	19
+基座	ji zuo	275
+架子	jia zi	18
+接待前台	jie dai qian tai	11
+解剖海报	jie pou hai bao	28
+金属雕塑块	jin shu diao su kuai	264
+金属精炼器	jin shu jing lian qi	302
+金属砖	jin shu zhuan	432
+净水器	jing shui qi	303
+聚合物压塑器	ju he wu ya su qi	299
+巨型蓄电池	ju xing xu dian chi	411
+咖啡桌	ka fei zhuo	31
+开发者发电机	kai fa zhe fa dian ji	401
+开发者辐射粒子生成器	kai fa zhe fu she li zi sheng cheng qi	103
+开发者辐射释放器	kai fa zhe fu she shi fang qi	98
+开发者固体泵	kai fa zhe gu ti beng	144
+开发者光源	kai fa zhe guang yuan	252
+开发者加热器	kai fa zhe jia re qi	193
+开发者气泵	kai fa zhe qi beng	323
+开发者维生器	kai fa zhe wei sheng qi	286
+开发者液泵	kai fa zhe ye beng	349
+空白画布	kong bai hua bu	261
+空间加热器	kong jian jia re qi	196
+空气净化器	kong qi jing hua qi	413
+口粮箱	kou liang xiang	360
+矿石洗涤器	kuang shi xi di qi	202
+淋浴隔间	lin yu ge jian	333
+流明石英	liu ming shi ying	51
+流星爆破炮	liu xing bao po pao	121
+旅行海报	lv xing hai bao	50
+煤炭发电机	mei tan fa dian ji	402
+梦境合成仪	meng jing he cheng yi	68
+迷你舱	mi ni cang	441
+木材燃烧器	mu cai ran shao qi	400
+木雕塑块	mu diao su kuai	271
+木砖	mu zhuan	425
+内部舱门	nei bu cang men	61
+泥浆分离器	ni jiang fen li qi	296
+浓缩咖啡机	nong suo ka fei ji	248
+农业站	nong ye zhan	228
+排气口	pai qi kou	325
+排液口	pai ye kou	356
+配药桌	pei yao zhuo	283
+喷气服存放柜	pen qi fu cun fang gui	230
+喷气服检查站	pen qi fu jian cha zhan	229
+漂白石料斗	piao bai shi liao dou	308
+气泵	qi beng	321
+气动门	qi dong men	445
+气罐抽出器	qi guan chou chu qi	311
+气罐货舱	qi guan huo cang	138
+气罐排倒器	qi guan pai dao qi	314
+汽水机	qi shui ji	246
+气体管道	qi ti guan dao	326
+气体管道病菌传感器	qi ti guan dao bing jun chuan gan qi	318
+气体管道温度传感器	qi ti guan dao wen du chuan gan qi	319
+气体管道元素传感器	qi ti guan dao yuan su chuan gan qi	320
+气体管桥	qi ti guan qiao	329
+气体计量阀	qi ti ji liang fa	313
+气体截断阀	qi ti jie duan fa	317
+气体筛选器	qi ti shai xuan qi	316
+气体输出配件	qi ti shu chu pei jian	122
+气体输入配件	qi ti shu ru pei jian	129
+气体调节阀	qi ti tiao jie fa	312
+气体元素传感器	qi ti yuan su chuan gan qi	175
+气体装罐器	qi ti zhuang guan qi	315
+气压传感器	qi ya chuan gan qi	174
+气压服存放柜	qi ya fu cun fang gui	233
+气压服检查站	qi ya fu jian cha zhan	231
+铅服存放柜	qian fu cun fang gui	236
+铅服检查站	qian fu jian cha zhan	234
+墙壁花盆	qiang bi hua pen	272
+墙面	qiang mian	67
+墙排马桶	qiang pai ma tong	332
+敲蛋桌	qiao dan zhuo	370
+氢气发电机	qing qi fa dian ji	397
+燃气灶	ran qi zao	383
+热水浴缸	re shui yu gang	245
+人力发电机	ren li fa dian ji	405
+人力辐射粒子发生器	ren li fu she li zi fa sheng qi	102
+日光灯	ri guang deng	253
+融冰壶	rong bing hu	205
+润滑站	run hua zhan	281
+桑拿房	sang na fang	240
+扫扫基站	sao sao ji zhan	203
+沙滩椅	sha tan yi	238
+神经振荡仪	shen jing zhen dang yi	55
+升华站	sheng hua zhan	418
+生机组构仪	sheng ji zu gou yi	72
+生物货舱	sheng wu huo cang	135
+声学艺术镶板	sheng xue yi shu xiang ban	49
+石化化石	shi hua hua shi	56
+时间传感器	shi jian chuan gan qi	176
+失事的卫星	shi shi de wei xing	8
+食物压制器	shi wu ya zhi qi	381
+实验室窗户	shi yan shi chuang hu	71
+实验室墙面	shi yan shi qiang mian	70
+实验室桌	shi yan shi zhuo	20
+石油发电机	shi you fa dian ji	399
+石油引擎	shi you yin qing	131
+时钟	shi zhong	48
+时装翻新器	shi zhuang fan xin qi	220
+手部扫描仪	shou bu sao miao yi	23
+手部消毒站	shou bu xiao du zhan	291
+手动气闸	shou dong qi zha	447
+手压泵	shou ya beng	350
+数据挖掘仪	shu ju wa jue yi	211
+舒适的床	shu shi de chuang	277
+睡衣储柜	shui yi chu gui	73
+水中城堡	shui zhong cheng bao	362
+塑料梯子	su liao ti zi	444
+塑料砖	su liao zhuan	430
+碎石机	sui shi ji	305
+损坏的电梯	sun huai de dian ti	43
+损坏的灭火器	sun huai de mie huo qi	26
+锁存器	suo cun qi	189
+太空服锻造台	tai kong fu duan zao tai	222
+太空扫描仪	tai kong sao miao yi	166
+太空员舱	tai kong yuan cang	89
+太阳能板	tai yang neng ban	404
+太阳能舱	tai yang neng cang	82
+碳素脱离器	tan su tuo li qi	414
+糖素引擎	tang su yin qing	74
+梯床	ti chuang	278
+梯子	ti zi	443
+天花板机器人	tian hua ban ji qi ren	29
+天花板饰件	tian hua ban shi jian	266
+天然气发电机	tian ran qi fa dian ji	398
+铁锈脱氧机	tie xiu tuo yang ji	415
+通行支架	tong xing zhi jia	112
+透明花盆	tou ming hua pen	259
+透气砖	tou qi zhuan	435
+土培砖	tu pei zhuan	376
+脱水机	tuo shui ji	379
+脱盐器	tuo yan qi	306
+网格砖	wang ge zhuan	431
+望远镜	wang yuan jing	206
+喂鱼器	wei yu qi	364
+温度传感器	wen du chuan gan qi	171
+温度调节器	wen du tiao jie qi	199
+吸顶灯	xi ding deng	251
+洗手池	xi shou chi	288
+洗手盆	xi shou pen	289
+先锋舱	xian feng cang	79
+咸乳蜡收集器	xian ru la shou ji qi	293
+线组读取器	xian zu du qu qi	157
+线组写入器	xian zu xie ru qi	160
+香料研磨器	xiang liao yan mo qi	378
+像素屏	xiang su ping	265
+小动物传感器	xiao dong wu chuan gan qi	172
+小动物放生点	xiao dong wu fang sheng dian	361
+小动物公寓	xiao dong wu gong yu	363
+小动物货舱	xiao dong wu huo cang	84
+小动物喂食器	xiao dong wu wei shi qi	372
+小动物陷阱	xiao dong wu xian jing	367
+小动物移取点	xiao dong wu yi qu dian	366
+小动物直饮器	xiao dong wu zhi yin qi	373
+消防滑杆	xiao fang hua gan	442
+肖像画布	xiao xiang hua bu	263
+小型固体氧化剂舱	xiao xing gu ti yang hua ji cang	83
+小型气泵	xiao xing qi beng	322
+小型石油引擎	xiao xing shi you yin qing	91
+小型液泵	xiao xing ye beng	348
+信号播报器	xin hao bo bao qi	162
+信号分配器	xin hao fen pei qi	190
+信号计数器	xin hao ji shu qi	180
+信号接收器	xin hao jie shou qi	161
+信号开关	xin hao kai guan	164
+信号线	xin hao xian	158
+信号线桥	xin hao xian qiao	155
+信号线组	xin hao xian zu	156
+信号线组桥	xin hao xian zu qiao	159
+信号选择器	xin hao xuan ze qi	183
+星际发射器	xing ji fa she qi	126
+星图位置传感器	xing tu wei zhi chuan gan qi	114
+修剪站	xiu jian zhan	216
+袖珍放电器	xiu zhen fang dian qi	407
+蓄电池	xu dian chi	409
+蓄电池舱	xu dian chi cang	80
+虚拟天象仪	xu ni tian xiang yi	213
+雪砖	xue zhuan	426
+压力板	ya li ban	163
+雅致的纪念碑	ya zhi de ji nian bei	280
+研究舱	yan jiu cang	120
+研究信息传送通道	yan jiu xin xi chuan song tong dao	52
+研究性反应堆	yan jiu xing fan ying dui	101
+研究站	yan jiu zhan	210
+样品罐	yang pin guan	21
+氧气扩散器	yang qi kuo san qi	417
+氧气面罩存放柜	yang qi mian zhao cun fang gui	232
+氧气面罩检查站	yang qi mian zhao jian cha zhan	235
+氧石精炼炉	yang shi jing lian lu	309
+氧石烛台	yang shi zhu tai	419
+窑炉	yao lu	301
+液泵	ye beng	347
+液缸货舱	ye gang huo cang	136
+液缸燃料舱	ye gang ran liao cang	109
+液培砖	ye pei zhuan	377
+液氢引擎	ye qing yin qing	132
+液体管道	ye ti guan dao	351
+液体管道病菌传感器	ye ti guan dao bing jun chuan gan qi	345
+液体管道温度传感器	ye ti guan dao wen du chuan gan qi	346
+液体管道元素传感器	ye ti guan dao yuan su chuan gan qi	344
+液体管桥	ye ti guan qiao	353
+液体计量阀	ye ti ji liang fa	338
+液体加热器	ye ti jia re qi	197
+液体截断阀	ye ti jie duan fa	339
+液体筛选器	ye ti shai xuan qi	341
+液体输出配件	ye ti shu chu pei jian	124
+液体输入配件	ye ti shu ru pei jian	127
+液体调节阀	ye ti tiao jie fa	337
+液体氧化剂舱	ye ti yang hua ji cang	108
+液体元素传感器	ye ti yuan su chuan gan qi	170
+液体装桶器	ye ti zhuang tong qi	342
+液桶抽出器	ye tong chou chu qi	343
+液桶排倒器	ye tong pai dao qi	340
+液温调节器	ye wen tiao jie qi	200
+液压传感器	ye ya chuan gan qi	178
+乙醇蒸馏器	yi chun zheng liu qi	294
+移动电源充电机	yi dong dian yuan chong dian ji	408
+异或门	yi huo men	188
+衣架	yi jia	47
+医务站	yi wu zhan	284
+音槌	yin chui	192
+饮水机	yin shui ji	247
+油井	you jing	204
+铀素离心机	you su li xin ji	99
+游戏机台	you xi ji tai	244
+油炸锅	you zha guo	380
+鱼类放生点	yu lei fang sheng dian	371
+与门	yu men	185
+预制长架子	yu zhi chang jia zi	41
+预制架子	yu zhi jia zi	40
+远程控制器	yuan cheng kong zhi qi	218
+远程作业坞	yuan cheng zuo ye wu	217
+远古标本	yuan gu biao ben	63
+原油精炼器	yuan you jing lian qi	300
+运输存放配件	yun shu cun fang pei jian	128
+运输存放器	yun shu cun fang qi	148
+运输轨道	yun shu gui dao	146
+运输轨道病菌传感器	yun shu gui dao bing jun chuan gan qi	143
+运输轨道温度传感器	yun shu gui dao wen du chuan gan qi	142
+运输轨道元素传感器	yun shu gui dao yuan su chuan gan qi	141
+运输轨桥	yun shu gui qiao	147
+运输装载配件	yun shu zhuang zai pei jian	123
+运输装载器	yun shu zhuang zai qi	149
+运载管道	yun zai guan dao	422
+运载管道渡口	yun zai guan dao du kou	420
+运载管道入口	yun zai guan dao ru kou	421
+载货拆包器	zai huo chai bao qi	130
+藻类箱	zao lei xiang	412
+藻类蒸馏器	zao lei zheng liu qi	295
+榨汁机	zha zhi ji	249
+展厅沙发	zhan ting sha fa	13
+展厅椅	zhan ting yi	14
+粘渣油提取器	zhan zha you ti qu qi	335
+照料站	zhao liao zhan	215
+折叠床	zhe die chuang	12
+侦察舱	zhen cha cang	75
+蒸汽涡轮机	zheng qi wo lun ji	403
+蒸汽引擎	zheng qi yin qing	133
+制冰机	zhi bing ji	201
+指挥舱	zhi hui cang	118
+智能存储箱	zhi neng cun chu xiang	438
+智能蓄电池	zhi neng xu dian chi	410
+制图舱	zhi tu cang	81
+植物粉碎机	zhi wu fen sui ji	292
+植物分析仪	zhi wu fen xi yi	227
+枝形吊灯	zhi xing diao deng	38
+种植箱	zhong zhi xiang	375
+周期传感器	zhou qi chuan gan qi	167
+主管的桌子	zhu guan de zhuo zi	36
+砖块	zhuan kuai	428
+撞毁的卫星	zhuang hui de wei xing	9
+庄严丰碑	zhuang yan feng bei	32
+庄严科技门	zhuang yan ke ji men	62
+桌子	zhuo zi	6
+自动采矿机	zi dong cai kuang ji	153
+自动贩卖机	zi dong fan mai ji	3
+自动化通知器	zi dong hua tong zhi qi	182
+自动清扫器	zi dong qing sao qi	154
+自动卸物箱	zi dong xie wu xiang	440
+钻石压机	zuan shi ya ji	310
+钻头前锥	zuan tou qian zhui	78
