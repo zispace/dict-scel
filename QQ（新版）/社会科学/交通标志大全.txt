@@ -1,0 +1,217 @@
+# 词库名称: 交通标志大全
+# 词库分类: 社会
+# 词库描述: 中国交通网：http://www.iicc.ac.cn
+# 词条样例: 百米牌、傍山险路、保护动物、避车道、步行
+# 解析词数: 210
+# 解析异常: 0
+
+百米牌	bai mi pai	210
+傍山险路	bang shan xian lu	210
+保护动物	bao hu dong wu	210
+避车道	bi che dao	210
+步行	bu xing	210
+残疾人	can ji ren	210
+餐饮	can yin	210
+叉形符号	cha xing fu hao	210
+长时间停放	chang shi jian ting fang	210
+长遂道	chang sui dao	210
+长途汽车站	chang tu qi che zhan	210
+车距确认	che ju que ren	210
+出口	chu kou	210
+出口编号预告	chu kou bian hao yu gao	210
+出口预告	chu kou yu gao	210
+畜力车通行	chu li che tong xing	210
+此路不通	ci lu bu tong	210
+村庄	cun zhuang	210
+大型车靠右	da xing che kao you	210
+单行路	dan xing lu	210
+道路管理分离	dao lu guan li fen li	210
+道路交通信息	dao lu jiao tong xin xi	210
+地点方向	di dian fang xiang	210
+地点距离	di dian ju li	210
+地名	di ming	210
+地铁站	di tie zhan	210
+电话位置指示	dian hua wei zhi zhi shi	210
+钓鱼	diao yu	210
+丁字交叉路口	ding zi jiao cha lu kou	210
+陡坡慢行	dou po man xing	210
+渡口	du kou	210
+多雾路段	duo wu lu duan	210
+二轮摩托车通行	er lun mo tuo che tong xing	210
+返回顶部	fan hui ding bu	210
+反向弯路	fan xiang wan lu	210
+飞机场	fei ji chang	210
+非机动车	fei ji dong che	210
+非机动车车道	fei ji dong che che dao	210
+非机动车通行	fei ji dong che tong xing	210
+非机动车行驶	fei ji dong che xing shi	210
+分岔处	fen cha chu	210
+分流	fen liu	210
+分向行驶车道	fen xiang xing shi che dao	210
+服务区预告	fu wu qu yu gao	210
+干路先行	gan lu xian xing	210
+公交线路专用车道	gong jiao xian lu zhuan yong che dao	210
+国道编号	guo dao bian hao	210
+过水路面	guo shui lu mian	210
+和平向左转弯	he ping xiang zuo zhuan wan	210
+合用车道	he yong che dao	210
+互通式立交	hu tong shi li jiao	210
+环岛行驶	huan dao xing shi	210
+环型交叉	huan xing jiao cha	210
+环形交叉路口	huan xing jiao cha lu kou	210
+会车让行	hui che rang xing	210
+会车先行	hui che xian xing	210
+火车站	huo che zhan	210
+货运三轮车通行	huo yun san lun che tong xing	210
+基本单元	ji ben dan yuan	210
+机动车车道	ji dong che che dao	210
+机动车通行	ji dong che tong xing	210
+机动车行驶	ji dong che xing shi	210
+急救站	ji jiu zhan	210
+加油站	jia you zhan	210
+减速让行	jian su rang xing	210
+交叉路口预告	jiao cha lu kou yu gao	210
+解除	jie chu	210
+解除限制速度	jie chu xian zhi su du	210
+紧急电话	jin ji dian hua	210
+紧急停车带	jin ji ting che dai	210
+禁令标志	jin ling biao zhi	210
+禁止	jin zhi	210
+禁止超车	jin zhi chao che	210
+禁止车辆	jin zhi che liang	210
+禁止大型客车通行	jin zhi da xing ke che tong xing	210
+禁止掉头	jin zhi diao tou	210
+禁止宽度	jin zhi kuan du	210
+禁止鸣喇叭	jin zhi ming la ba	210
+禁止某轮两种车通行	jin zhi mou lun liang zhong che tong xing	210
+禁止人力	jin zhi ren li	210
+禁止驶车	jin zhi shi che	210
+禁止通行	jin zhi tong xing	210
+禁止直行	jin zhi zhi xing	210
+靠右侧道路行驶	kao you ce dao lu xing shi	210
+靠左侧道路行驶	kao zuo ce dao lu xing shi	210
+客轮码头	ke lun ma tou	210
+客运三轮车通行	ke yun san lun che tong xing	210
+里程碑	li cheng bei	210
+立交直行和	li jiao zhi xing he	210
+连续弯路	lian xu wan lu	210
+连续下坡	lian xu xia po	210
+两侧变窄	liang ce bian zhai	210
+两侧通行	liang ce tong xing	210
+两个出口	liang ge chu kou	210
+临时或长时停放	lin shi huo chang shi ting fang	210
+路滑慢行	lu hua man xing	210
+路面不平	lu mian bu ping	210
+轮渡	lun du	210
+旅游标志	lv you biao zhi	210
+旅游区方向	lv you qu fang xiang	210
+旅游区距离	lv you qu ju li	210
+慢行	man xing	210
+鸣喇叭	ming la ba	210
+名胜古迹	ming sheng gu ji	210
+农用运输车通行	nong yong yun shu che tong xing	210
+爬坡车道	pa po che dao	210
+汽车修理	qi che xiu li	210
+起点	qi dian	210
+骑马	qi ma	210
+骑自行车上坡	qi zi xing che shang po	210
+骑自行车下坡	qi zi xing che xia po	210
+绕行标志	rao xing biao zhi	210
+人行地下通道	ren hang di xia tong dao	210
+人行天桥	ren hang tian qiao	210
+人力车通行	ren li che tong xing	210
+人行地下通道	ren xing di xia tong dao	210
+人行横道	ren xing heng dao	210
+人行天桥	ren xing tian qiao	210
+入口	ru kou	210
+入口预告	ru kou yu gao	210
+软基路段	ruan ji lu duan	210
+三轮车通行	san lun che tong xing	210
+上陡坡	shang dou po	210
+省道编号	sheng dao bian hao	210
+施工	shi gong	210
+事故易发点	shi gu yi fa dian	210
+事故易发路段	shi gu yi fa lu duan	210
+十字交叉	shi zi jiao cha	210
+十字交叉路口	shi zi jiao cha lu kou	210
+收费站	shou fei zhan	210
+收费站预告	shou fei zhan yu gao	210
+双向交通	shuang xiang jiao tong	210
+隧道	sui dao	210
+索道	suo dao	210
+提坝路	ti ba lu	210
+铁道道口	tie dao dao kou	210
+铁路道口	tie lu dao kou	210
+停产区预告	ting chan qu yu gao	210
+停车场	ting che chang	210
+停车场预告	ting che chang yu gao	210
+停车检查	ting che jian cha	210
+停车让行	ting che rang xing	210
+徒步	tu bu	210
+驼峰桥	tuo feng qiao	210
+拖拉机通行	tuo la ji tong xing	210
+问询处	wen xun chu	210
+无人看守	wu ren kan shou	210
+洗车	xi che	210
+下陡坡	xia dou po	210
+下一出口	xia yi chu kou	210
+县道编号	xian dao bian hao	210
+限制高度	xian zhi gao du	210
+限制速度	xian zhi su du	210
+限制质量	xian zhi zhi liang	210
+限制轴重	xian zhi zhou chong	210
+限制轴重	xian zhi zhou zhong	210
+向右急弯路	xiang you ji wan lu	210
+向右转弯	xiang you zhuan wan	210
+向左和向右转弯	xiang zuo he xiang you zhuan wan	210
+向左或向右	xiang zuo huo xiang you	210
+向左急弯路	xiang zuo ji wan lu	210
+向左向右转弯	xiang zuo xiang you zhuan wan	210
+向左转弯	xiang zuo zhuan wan	210
+小型客车通行	xiao xing ke che tong xing	210
+斜杆符号	xie gan fu hao	210
+行人通行	xing ren tong xing	210
+行驶方向	xing shi fang xiang	210
+行政区划分界	xing zheng qu hua fen jie	210
+野营地	ye ying di	210
+易滑	yi hua	210
+营火	ying huo	210
+右侧变窄	you ce bian zhai	210
+右侧绕行	you ce rao xing	210
+右侧通行	you ce tong xing	210
+有人看守	you ren kan shou	210
+游戏场	you xi chang	210
+右转车道	you zhuan che dao	210
+右转弯行驶	you zhuan wan xing shi	210
+允许掉头	yun xu diao tou	210
+载货汽车通行	zai huo qi che tong xing	210
+窄桥	zhai qiao	210
+长遂道	zhang sui dao	210
+指路标志	zhi lu biao zhi	210
+指示标志	zhi shi biao zhi	210
+直行	zhi xing	210
+直行车道	zhi xing che dao	210
+直行和向右转弯	zhi xing he xiang you zhuan wan	210
+直行和向左转弯	zhi xing he xiang zuo zhuan wan	210
+直行和右转	zhi xing he you zhuan	210
+终点	zhong dian	210
+终点提示	zhong dian ti shi	210
+终点预告	zhong dian yu gao	210
+著名地点	zhu ming di dian	210
+注意	zhu yi	210
+注意儿童	zhu yi er tong	210
+注意横风	zhu yi heng feng	210
+注意落石	zhu yi la shi	210
+注意落石	zhu yi luo shi	210
+注意牲畜	zhu yi sheng chu	210
+注意危险	zhu yi wei xian	210
+注意信号灯	zhu yi xin hao deng	210
+注意行人	zhu yi xing ren	210
+专用设施	zhuan yong she shi	210
+组合使用	zu he shi yong	210
+最低限速	zui di xian su	210
+左侧变窄	zuo ce bian zhai	210
+左侧绕行	zuo ce rao xing	210
+左侧通行	zuo ce tong xing	210
+左右绕行	zuo you rao xing	210
+左转弯行驶	zuo zhuan wan xing shi	210
