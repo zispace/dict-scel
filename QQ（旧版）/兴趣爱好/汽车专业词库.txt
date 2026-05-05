@@ -1,0 +1,709 @@
+# 词库名称: 汽车专业词库
+# 词库分类: 汽车 兴趣爱好
+# 词库描述: 汽车一些常用词
+# 词条样例: 安全带、八缸型发动机、磅磅、保持存储器、爆震传感器、本地模式、扁平导线、变速器档位、变速器油压、标准
+# 词条数量: 701
+# 解析词数: 701
+# 解析异常: 0
+
+安全带	an quan dai	0
+安全气囊系统	an quan qi nang xi tong	0
+盎司	ang si	0
+八缸型发动机	ba gang xing fa dong ji	0
+白色	bai se	0
+百万分率	bai wan fen lv	0
+磅磅	bang bang	0
+磅磅	bang pang	0
+磅磅	pang bang	0
+磅力平方英寸	bang li ping fang ying cun	0
+磅力平方英寸	pang li ping fang ying cun	0
+磅力平方英寸磅力平方英寸	bang li ping fang ying cun bang li ping fang ying cun	0
+磅力平方英寸磅力平方英寸	bang li ping fang ying cun pang li ping fang ying cun	0
+磅力平方英寸磅力平方英寸	pang li ping fang ying cun bang li ping fang ying cun	0
+保持存储器	bao chi cun chu qi	0
+保持型附件电源	bao chi xing fu jian dian yuan	0
+保险	bao xian	0
+爆震传感器	bao zhen chuan gan qi	0
+爆震控制系统	bao zhen kong zhi xi tong	0
+背压	bei ya	0
+本地模式	ben di mo shi	0
+闭环	bi huan	0
+闭环控制	bi huan kong zhi	0
+扁平导线	bian ping dao xian	0
+变矩器离合器	bian ju qi li he qi	0
+变速器变速驱动桥	bian su qi bian su qu dong qiao	0
+变速器档位	bian su qi dang wei	0
+变速器控制	bian su qi kong zhi	0
+变速器油温	bian su qi you wen	0
+变速器油压	bian su qi you ya	0
+变速器油液冷却器	bian su qi you ye leng que qi	0
+变速器自适应压力	bian su qi zi shi ying ya li	0
+标准	biao zhun	0
+波段模式切换	bo duan mo shi qie huan	0
+不带	bu dai	0
+参考	can kao	0
+参考电压	can kao dian ya	0
+参数识别	can shu shi bie	0
+侧碰撞安全气囊	ce peng zhuang an quan qi nang	0
+差速器	cha su qi	0
+常闭	chang bi	0
+常规选装件常规选装件	chang gui xuan zhuang jian chang gui xuan zhuang jian	0
+常开	chang kai	0
+长期	chang qi	0
+长轴距	zhang zhou ju	0
+长轴距	chang zhou ju	0
+超大规模集成电路	chao da gui mo ji cheng dian lu	0
+车辆防盗系统	che liang fang dao xi tong	0
+车辆高度控制	che liang gao du kong zhi	0
+车辆控制模块	che liang kong zhi mo kuai	0
+车辆识别号	che liang shi bie hao	0
+车辆通信接口模块	che liang tong xin jie kou mo kuai	0
+车辆稳定性增强系统	che liang wen ding xing zeng qiang xi tong	0
+车辆信息存取代码	che liang xin xi cun qu dai ma	0
+车辆载重量	che liang zai zhong liang	0
+车辆自动导向系统	che liang zi dong dao xiang xi tong	0
+车轮	che lun	0
+车轮速度传感器	che lun su du chuan gan qi	0
+车门控制模块	che men kong zhi mo kuai	0
+车身控制模块	che shen kong zhi mo kuai	0
+车身控制模块车身控制模块	che shen kong zhi mo kuai che shen kong zhi mo kuai	0
+车速表	che su biao	0
+车速传感器	che su chuan gan qi	0
+车载燃油蒸汽回收	che zai ran you zheng qi hui shou	0
+车载诊断	che zai zhen duan	0
+橙色	cheng se	0
+乘客	cheng ke	0
+乘员辅助约束系统	cheng yuan fu zhu yue shu xi tong	0
+程序控制驾驶系统	cheng xu kong zhi jia shi xi tong	0
+齿轮润滑油	chi lun run hua you	0
+充电系统	chong dian xi tong	0
+充电指示灯	chong dian zhi shi deng	0
+出带	chu dai	0
+储液器中的蒸发器补偿值	chu ye qi zhong de zheng fa qi bu chang zhi	0
+传感和诊断模块传感和诊断模块	chuan gan he zhen duan mo kuai chuan gan he zhen duan mo kuai	0
+串联并联	chuan lian bing lian	0
+磁力转向可变助力系统	ci li zhuan xiang ke bian zhu li xi tong	0
+磁阻元件	ci zu yuan jian	0
+搭铁	da tie	0
+大规模集成电路	da gui mo ji cheng dian lu	0
+大气压力	da qi ya li	0
+大气压力传感器	da qi ya li chuan gan qi	0
+怠速负载补偿器	dai su fu zai bu chang qi	0
+怠速空气控制	dai su kong qi kong zhi	0
+怠速空气控制阀	dai su kong qi kong zhi fa	0
+怠速控制	dai su kong zhi	0
+怠速时压缩机长时工作	dai su shi ya suo ji chang shi gong zuo	0
+单点喷射	dan dian pen she	0
+单向离合器	dan xiang li he qi	0
+氮氧化物	dan yang hua wu	0
+倒车灯开关	dao che deng kai guan	0
+倒档	dao dang	0
+道路传感悬架	dao lu chuan gan xuan jia	0
+灯驱动模块	deng qu dong mo kuai	0
+等速万向节	deng su wan xiang jie	0
+低排放车辆	di pai fang che liang	0
+低速	di su	0
+低通滤波器	di tong lv bo qi	0
+低音	di yin	0
+第二代车载诊断	di er dai che zai zhen duan	0
+点火	dian huo	0
+点火开关	dian huo kai guan	0
+点火控制模块	dian huo kong zhi mo kuai	0
+点火顺序	dian huo shun xu	0
+点烟器	dian yan qi	0
+电磁的	dian ci de	0
+电磁阀	dian ci fa	0
+电磁干扰	dian ci gan rao	0
+电动滑门	dian dong hua men	0
+电动门窗	dian dong men chuang	0
+电动势	dian dong shi	0
+电动悬架系统	dian dong xuan jia xi tong	0
+电可擦可编程只读存储器	dian ke ca ke bian cheng zhi du cun chu qi	0
+电控可变量孔	dian kong ke bian liang kong	0
+电控液压动力转向系统	dian kong ye ya dong li zhuan xiang xi tong	0
+电流表	dian liu biao	0
+电路	dian lu	0
+电容放电点火系统	dian rong fang dian dian huo xi tong	0
+电视和收音机噪声抑制	dian shi he shou yin ji zao sheng yi zhi	0
+电台识别代码	dian tai shi bie dai ma	0
+电位计	dian wei ji	0
+电压表	dian ya biao	0
+电压差	dian ya cha	0
+电压差	dian ya chai	0
+电源	dian yuan	0
+电子触摸式温度控制	dian zi chu mo shi wen du kong zhi	0
+电子点火	dian zi dian huo	0
+电子点火控制器	dian zi dian huo kong zhi qi	0
+电子点火提前控制系统	dian zi dian huo ti qian kong zhi xi tong	0
+电子点火系统	dian zi dian huo xi tong	0
+电子点火正时控制装置	dian zi dian huo zheng shi kong zhi zhuang zhi	0
+电子调谐式接收器	dian zi tiao xie shi jie shou qi	0
+电子高度控制	dian zi gao du kong zhi	0
+电子控制变速器	dian zi kong zhi bian su qi	0
+电子控制的空气悬架系统	dian zi kong zhi de kong qi xuan jia xi tong	0
+电子控制的自动变速器	dian zi kong zhi de zi dong bian su qi	0
+电子控制化油器电子控制离合器	dian zi kong zhi hua you qi dian zi kong zhi li he qi	0
+电子控制模块	dian zi kong zhi mo kuai	0
+电子控制汽油喷射装置	dian zi kong zhi qi you pen she zhuang zhi	0
+电子控制装置	dian zi kong zhi zhuang zhi	0
+电子燃油表	dian zi ran you biao	0
+电子燃油控制系统	dian zi ran you kong zhi xi tong	0
+电子燃油喷射	dian zi ran you pen she	0
+电子式柴油喷射控制系统	dian zi shi chai you pen she kong zhi xi tong	0
+电子锁止离合器	dian zi suo zhi li he qi	0
+电子温度控制	dian zi wen du kong zhi	0
+电子行车路线导向系统	dian zi xing che lu xian dao xiang xi tong	0
+电子行车路线导向系统	dian zi hang che lu xian dao xiang xi tong	0
+电子序列号	dian zi xu lie hao	0
+电子悬架控制	dian zi xuan jia kong zhi	0
+电子一液压控制器	dian zi yi ye ya kong zhi qi	0
+电子制动和牵引力控制模块	dian zi zhi dong he qian yin li kong zhi mo kuai	0
+电子制动控制模块	dian zi zhi dong kong zhi mo kuai	0
+电子自动调平悬架	dian zi zi dong tiao ping xuan jia	0
+电子自动调平悬架	dian zi zi dong diao ping xuan jia	0
+电阻温度系数	dian zu wen du xi shu	0
+调幅调频	tiao fu tiao pin	0
+调谐	tiao xie	0
+碟片选择	die pian xuan ze	0
+顶置凸轮轴	ding zhi tu lun zhou	0
+动力电子器件机架	dong li dian zi qi jian ji jia	0
+动力控制模块	dong li kong zhi mo kuai	0
+动力系统控制模块	dong li xi tong kong zhi mo kuai	0
+动力制动器	dong li zhi dong qi	0
+动力转向	dong li zhuan xiang	0
+动力转向压力	dong li zhuan xiang ya li	0
+端子	duan zi	0
+端子定位器	duan zi ding wei qi	0
+短波	duan bo	0
+短长臂	duan chang bi	0
+短轴距	duan zhou ju	0
+多点喷射	duo dian pen she	0
+多点汽油喷射	duo dian qi you pen she	0
+多点燃油喷射	duo dian ran you pen she	0
+多点顺序燃油喷射	duo dian shun xu ran you pen she	0
+多火花电容放电系统	duo huo hua dian rong fang dian xi tong	0
+二次空气喷射	er ci kong qi pen she	0
+二次空气喷射控制阀	er ci kong qi pen she kong zhi fa	0
+二氧化硫	er yang hua liu	0
+二氧化碳	er yang hua tan	0
+发电机	fa dian ji	0
+发动机	fa dong ji	0
+发动机舱盖下	fa dong ji cang gai xia	0
+发动机舱盖下电气中心	fa dong ji cang gai xia dian qi zhong xin	0
+发动机电子控制	fa dong ji dian zi kong zhi	0
+发动机号码	fa dong ji hao ma	0
+发动机机油温度	fa dong ji ji you wen du	0
+发动机机油压力	fa dong ji ji you ya li	0
+发动机集中控制系统	fa dong ji ji zhong kong zhi xi tong	0
+发动机冷却液温度	fa dong ji leng que ye wen du	0
+发动机冷却液液位	fa dong ji leng que ye ye wei	0
+发动机转速传感器	fa dong ji zhuan su chuan gan qi	0
+发光二极管	fa guang er ji guan	0
+反向电动势	fan xiang dian dong shi	0
+方向盘位置传感器	fang xiang pan wei zhi chuan gan qi	0
+防抱死制动系统	fang bao si zhi dong xi tong	0
+非易失性随机存取存储器	fei yi shi xing sui ji cun qu cun chu qi	0
+废气再循环	fei qi zai xun huan	0
+废气再循环热控真空阀	fei qi zai xun huan re kong zhen kong fa	0
+分贝	fen bei	0
+分电器点火	fen dian qi dian huo	0
+粉红色	fen hong se	0
+丰田汽车发动机计算机控制系统	feng tian qi che fa dong ji ji suan ji kong zhi xi tong	0
+蜂鸣器	feng ming qi	0
+风扇控制	feng shan kong zhi	0
+福特汽车公司中央燃油喷射系统	fu te qi che gong si zhong yang ran you pen she xi tong	0
+辅助的	fu zhu de	0
+负极	fu ji	0
+负温度系数	fu wen du xi shu	0
+附加保护系统	fu jia bao hu xi tong	0
+附件	fu jian	0
+附件电源控制模块	fu jian dian yuan kong zhi mo kuai	0
+高的	gao de	0
+高低	gao di	0
+高电压互锁回路	gao dian ya hu suo hui lu	0
+高负荷冷却	gao fu he leng que	0
+高海拔	gao hai ba	0
+高能点火	gao neng dian huo	0
+高频	gao pin	0
+高通滤波器	gao tong lv bo qi	0
+高性能系统	gao xing neng xi tong	0
+高压缩	gao ya suo	0
+高压液体	gao ya ye ti	0
+高压蒸汽	gao ya zheng qi	0
+高音	gao yin	0
+个性化汽车安全系统	ge xing hua qi che an quan xi tong	0
+攻放控制	gong fang kong zhi	0
+功率变换器模块	gong lv bian huan qi mo kuai	0
+公里公里	gong li gong li	0
+公里升	gong li sheng	0
+公里小时公里小时	gong li xiao shi gong li xiao shi	0
+公司平均燃油经济性	gong si ping jun ran you jing ji xing	0
+故障诊断码	gu zhang zhen duan ma	0
+故障诊断仪	gu zhang zhen duan yi	0
+故障指示灯	gu zhang zhi shi deng	0
+刮水器	gua shui qi	0
+关机	guan ji	0
+光电的	guang dian de	0
+光盘	guang pan	0
+国际标准化组织	guo ji biao zhun hua zu zhi	0
+国际单位制	guo ji dan wei zhi	0
+国际电工委员会	guo ji dian gong wei yuan hui	0
+国际电气标准委员会	guo ji dian qi biao zhun wei yuan hui	0
+国家标准粗螺纹管	guo jia biao zhun cu luo wen guan	0
+国家标准细螺纹管	guo jia biao zhun xi luo wen guan	0
+毫伏	hao fu	0
+毫米毫米	hao mi hao mi	0
+毫秒	hao miao	0
+毫升	hao sheng	0
+赫兹	he zi	0
+黑色	hei se	0
+红色	hong se	0
+后部	hou bu	0
+后集成模块	hou ji cheng mo kuai	0
+后交换器	hou jiao huan qi	0
+后轮防抱死	hou lun fang bao si	0
+后轮驱动	hou lun qu dong	0
+后右	hou you	0
+后左	hou zuo	0
+华氏度	hua shi du	0
+滑行离合器	hua xing li he qi	0
+化油器	hua you qi	0
+环保局	huan bao ju	0
+换档电磁阀	huan dang dian ci fa	0
+黄色	huang se	0
+黄色防抱死制动系统	huang se fang bao si zhi dong xi tong	0
+灰色	hui se	0
+恢复	hui fu	0
+回路储备电压	hui lu chu bei dian ya	0
+混合气控制	hun he qi kong zhi	0
+机械的	ji xie de	0
+集成变速器控制模块	ji cheng bian su qi kong zhi mo kuai	0
+集成电路	ji cheng dian lu	0
+集成式直接点火	ji cheng shi zhi jie dian huo	0
+技术说明书	ji shu shuo ming shu	0
+计量仪表	ji liang yi biao	0
+计算机指令控制系统	ji suan ji zhi ling kong zhi xi tong	0
+继电器	ji dian qi	0
+加利福利亚空气资源委员会	jia li fu li ya kong qi zi yuan wei yuan hui	0
+加仑分钟	jia lun fen zhong	0
+加仑加仑	jia lun jia lun	0
+加权分贝	jia quan fen bei	0
+加热	jia re	0
+加热泵通风系统	jia re beng tong feng xi tong	0
+加热器	jia re qi	0
+加热器一除霜器	jia re qi yi chu shuang qi	0
+加热型氧传感器	jia re xing yang chuan gan qi	0
+加速打滑调节	jia su da hua tiao jie	0
+加速踏板	jia su ta ban	0
+加速踏板位置	jia su ta ban wei zhi	0
+驾驶室热交换器	jia shi shi re jiao huan qi	0
+驾驶员	jia shi yuan	0
+驾驶员位置模块	jia shi yuan wei zhi mo kuai	0
+驾驶员信息中心	jia shi yuan xin xi zhong xin	0
+驾驶员综合信息系统	jia shi yuan zong he xin xi xi tong	0
+间隙	jian xi	0
+键盘显示驱动器	jian pan xian shi qu dong qi	0
+交流电	jiao liu dian	0
+交流发电机	jiao liu fa dian ji	0
+接通断开	jie tong duan kai	0
+节气门	jie qi men	0
+节气门关闭位置	jie qi men guan bi wei zhi	0
+节气门全开	jie qi men quan kai	0
+节气门体喷射	jie qi men ti pen she	0
+节气门体燃油喷射	jie qi men ti ran you pen she	0
+节气门位置	jie qi men wei zhi	0
+节气门位置传感器	jie qi men wei zhi chuan gan qi	0
+节气门执行器控制	jie qi men zhi xing qi kong zhi	0
+节气门自适应压力	jie qi men zi shi ying ya li	0
+进仓出仓	jin cang chu cang	0
+进气惯性增压控制系统	jin qi guan xing zeng ya kong zhi xi tong	0
+进气口二次空气喷射	jin qi kou er ci kong qi pen she	0
+进气歧管表面温度	jin qi qi guan biao mian wen du	0
+进气歧管绝对压力	jin qi qi guan jue dui ya li	0
+进气歧管绝对压力传感器	jin qi qi guan jue dui ya li chuan gan qi	0
+进气歧管空气温度传感器	jin qi qi guan kong qi wen du chuan gan qi	0
+进气温度	jin qi wen du	0
+进气温度传感器	jin qi wen du chuan gan qi	0
+晶体管点火	jing ti guan dian huo	0
+晶体管点火系统	jing ti guan dian huo xi tong	0
+晶体管晶体管逻辑电路	jing ti guan jing ti guan luo ji dian lu	0
+静电	jing dian	0
+静电放电	jing dian fang dian	0
+聚亚烷基二醇	ju ya wan ji er chun	0
+距离传感巡航控制	ju li chuan gan xun hang kong zhi	0
+绝缘门双极晶体管	jue yuan men shuang ji jing ti guan	0
+开关	kai guan	0
+可编程序只读存贮器	ke bian cheng xu zhi du cun zhu qi	0
+可编程只读存储器	ke bian cheng zhi du cun chu qi	0
+可变排量节流	ke bian pai liang jie liu	0
+可变气门正时电子控制	ke bian qi men zheng shi dian zi kong zhi	0
+可变助力转向系统	ke bian zhu li zhuan xiang xi tong	0
+可擦可编程只读存储器	ke ca ke bian cheng zhi du cun chu qi	0
+可调节气门	ke tiao jie qi men	0
+可选四轮驱动	ke xuan si lun qu dong	0
+可循环离合器节流管	ke xun huan li he qi jie liu guan	0
+克莱斯勒公司电子燃油控制系统	ke lai si le gong si dian zi ran you kong zhi xi tong	0
+空档	kong dang	0
+空档怠速	kong dang dai su	0
+空调	kong tiao	0
+空调模块	kong tiao mo kuai	0
+空调系统	kong tiao xi tong	0
+空调总成	kong tiao zong cheng	0
+空气流量传感器	kong qi liu liang chuan gan qi	0
+空气滤清器	kong qi lv qing qi	0
+空气温度传感器	kong qi wen du chuan gan qi	0
+空气悬挂	kong qi xuan gua	0
+空气质量流量	kong qi zhi liang liu liang	0
+空燃比	kong ran bi	0
+夸脱夸脱	kua tuo kua tuo	0
+快进	kuai jin	0
+快退	kuai tui	0
+喇叭	la ba	0
+蓝色	lan se	0
+勒克斯光照度单位	le ke si guang zhao du dan wei	0
+冷发动机排气	leng fa dong ji pai qi	0
+冷却液液位开关	leng que ye ye wei kai guan	0
+离合器踏板位置	li he qi ta ban wei zhi	0
+里程表	li cheng biao	0
+立方厘米	li fang li mi	0
+立方英尺	li fang ying chi	0
+立方英尺分钟	li fang ying chi fen zhong	0
+立方英寸立方英寸	li fang ying cun li fang ying cun	0
+立方英寸排量	li fang ying cun pai liang	0
+联邦	lian bang	0
+连接器	lian jie qi	0
+连接器定位器	lian jie qi ding wei qi	0
+连续可变道路传感悬架	lian xu ke bian dao lu chuan gan xuan jia	0
+连续喷射系统	lian xu pen she xi tong	0
+零件号	ling jian hao	0
+流明	liu ming	0
+六缸型发动机	liu gang xing fa dong ji	0
+绿色	lv se	0
+轮胎气压过低警告系统	lun tai qi ya guo di jing gao xi tong	0
+轮胎气压过低指示器	lun tai qi ya guo di zhi shi qi	0
+轮胎气压监测	lun tai qi ya jian ce	0
+轮胎气压监测系统	lun tai qi ya jian ce xi tong	0
+码码	ma ma	0
+马力马力	ma li ma li	0
+迈塞系统	mai sai xi tong	0
+迈塞系统	mai se xi tong	0
+脉冲二次空气喷射	mai chong er ci kong qi pen she	0
+脉冲宽度	mai chong kuan du	0
+脉宽调制	mai kuan tiao zhi	0
+美国导线规格	mei guo dao xian gui ge	0
+美国联邦机动车辆安全标准	mei guo lian bang ji dong che liang an quan biao zhun	0
+美国汽车工程师协会	mei guo qi che gong cheng shi xie hui	0
+美国汽车工程师学会	mei guo qi che gong cheng shi xue hui	0
+美国润滑脂协会	mei guo run hua zhi xie hui	0
+美国石油学会	mei guo shi you xue hui	0
+秒钟	miao zhong	0
+模拟一数字转换	mo ni yi shu zi zhuan huan	0
+模式选择	mo shi xuan ze	0
+模一数转换器	mo yi shu zhuan huan qi	0
+模一数转换器	mu yi shu zhuan huan qi	0
+镍金属氢化物	nie jin shu qing hua wu	0
+暖风通风模块	nuan feng tong feng mo kuai	0
+欧姆	ou mu	0
+排放控制系统	pai fang kong zhi xi tong	0
+排气	pai qi	0
+排气压力调节器	pai qi ya li tiao jie qi	0
+排气再循环	pai qi zai xun huan	0
+牌照灯	pai zhao deng	0
+喷射	pen she	0
+膨胀弹簧制动器	peng zhang tan huang zhi dong qi	0
+膨胀阀	peng zhang fa	0
+偏置控制总成	pian zhi kong zhi zong cheng	0
+频率	pin lv	0
+品脱	pin tuo	0
+平方英尺	ping fang ying chi	0
+平方英寸	ping fang ying cun	0
+平均值	ping jun zhi	0
+歧管绝对温度	qi guan jue dui wen du	0
+歧管压差	qi guan ya cha	0
+起动	qi dong	0
+气缸	qi gang	0
+汽车防滑控制	qi che fang hua kong zhi	0
+汽油	qi you	0
+汽油泵控制装置	qi you beng kong zhi zhuang zhi	0
+汽油蒸气污染控制装置	qi you zheng qi wu ran kong zhi zhuang zhi	0
+牵引车带挂车总重量	qian yin che dai gua che zong zhong liang	0
+牵引力控制系统	qian yin li kong zhi xi tong	0
+千伏	qian fu	0
+千赫	qian he	0
+千克千克	qian ke qian ke	0
+千帕千帕	qian pa qian pa	0
+前方	qian fang	0
+前风窗玻璃	qian feng chuang bo li	0
+前后平衡	qian hou ping heng	0
+前交换器	qian jiao huan qi	0
+前一个	qian yi ge	0
+前右	qian you	0
+前照灯	qian zhao deng	0
+前照灯近光	qian zhao deng jin guang	0
+前照灯洗涤器	qian zhao deng xi di qi	0
+前照灯远光	qian zhao deng yuan guang	0
+前左	qian zuo	0
+切换显示	qie huan xian shi	0
+曲轴位置	qu zhou wei zhi	0
+曲轴箱强制通风	qu zhou xiang qiang zhi tong feng	0
+曲轴转角	qu zhou zhuan jiao	0
+驱动电机单元	qu dong dian ji dan yuan	0
+驱动电机控制模块	qu dong dian ji kong zhi mo kuai	0
+驱动电机转速和方向传感器	qu dong dian ji zhuan su he fang xiang chuan gan qi	0
+驱动端	qu dong duan	0
+全球定位系统	quan qiu ding wei xi tong	0
+全时四轮驱动	quan shi si lun qu dong	0
+全自动阻风门控制系统	quan zi dong zu feng men kong zhi xi tong	0
+然油表	ran you biao	0
+燃油泵	ran you beng	0
+燃油表	ran you biao	0
+燃油调节	ran you tiao jie	0
+燃油加热器	ran you jia re qi	0
+燃油警告灯	ran you jing gao deng	0
+燃油喷射	ran you pen she	0
+燃油喷射装贵	ran you pen she zhuang gui	0
+燃油启用数据流	ran you qi yong shu ju liu	0
+燃油数据中心	ran you shu ju zhong xin	0
+燃油提早蒸发	ran you ti zao zheng fa	0
+燃油蒸气排放控制	ran you zheng qi pai fang kong zhi	0
+热控真空阀	re kong zhen kong fa	0
+热膨胀阀	re peng zhang fa	0
+热氧传感器	re yang chuan gan qi	0
+日产汽车公司发动机机集中控制系统	ri chan qi che gong si fa dong ji ji ji zhong kong zhi xi tong	0
+日间行车灯	ri jian xing che deng	0
+日间行车灯	ri jian hang che deng	0
+柔性燃油	rou xing ran you	0
+三菱汽车公司的电于燃油喷射系统	san ling qi che gong si de dian yu ran you pen she xi tong	0
+三元催化转化器	san yuan cui hua zhuan hua qi	0
+三元催化转换器	san yuan cui hua zhuan huan qi	0
+三元氧化催化转换器	san yuan yang hua cui hua zhuan huan qi	0
+闪光器	shan guang qi	0
+上止点	shang zhi dian	0
+上止点后	shang zhi dian hou	0
+上止点前	shang zhi dian qian	0
+摄氏度	she shi du	0
+深色	shen se	0
+声场选择	sheng chang xuan ze	0
+时钟	shi zhong	0
+实时阻尼	shi shi zu ni	0
+室温硬化密封胶	shi wen ying hua mi feng jiao	0
+收音机调幅	shou yin ji tiao fu	0
+收音机调频	shou yin ji tiao pin	0
+手动	shou dong	0
+手动变速器	shou dong bian su qi	0
+手动变速器变速驱动桥	shou dong bian su qi bian su qu dong qiao	0
+手制动器灯	shou zhi dong qi deng	0
+售后零件供应中心	shou hou ling jian gong ying zhong xin	0
+输出	shu chu	0
+输出驱动模块	shu chu qu dong mo kuai	0
+输出轴转速	shu chu zhou zhuan su	0
+输入	shu ru	0
+输入输出	shu ru shu chu	0
+数据链路连接器	shu ju lian lu lian jie qi	0
+数字电子控制器	shu zi dian zi kong zhi qi	0
+数字模拟转换器	shu zi mo ni zhuan huan qi	0
+数字式万用表	shu zi shi wan yong biao	0
+双顶置凸轮轴	shuang ding zhi tu lun zhou	0
+水泵	shui beng	0
+水温表	shui wen biao	0
+顺序多点燃油喷射	shun xu duo dian ran you pen she	0
+四路驱动器模块	si lu qu dong qi mo kuai	0
+四轮防抱死	si lun fang bao si	0
+四轮驱动	si lun qu dong	0
+搜索	sou suo	0
+速度	su du	0
+随机存取存储器	sui ji cun qu cun chu qi	0
+随机存贮器	sui ji cun zhu qi	0
+随机加注站	sui ji jia zhu zhan	0
+随即播放	sui ji bo fang	0
+缩略语含义	suo lue yu han yi	0
+缩略语及含义	suo lue yu ji han yi	0
+抬头显示器	tai tou xian shi qi	0
+碳氢化合物	tan qing hua he wu	0
+提高怠速装置	ti gao dai su zhuang zhi	0
+天线	tian xian	0
+天线控制	tian xian kong zhi	0
+停车空档位置	ting che kong dang wei zhi	0
+停止	ting zhi	0
+通信	tong xin	0
+通用防盗系统	tong yong fang dao xi tong	0
+通用汽车	tong yong qi che	0
+通用汽车售后零件供应中心	tong yong qi che shou hou ling jian gong ying zhong xin	0
+通用异步收发器	tong yong yi bu shou fa qi	0
+同步器	tong bu qi	0
+同轴	tong zhou	0
+凸轮轴	tu lun zhou	0
+凸轮轴位置	tu lun zhou wei zhi	0
+外径	wai jing	0
+万向节	wan xiang jie	0
+微处理机	wei chu li ji	0
+维护技术规范	wei hu ji shu gui fan	0
+维修服务	wei xiu fu wu	0
+维修提示器	wei xiu ti shi qi	0
+维修行驶平顺性控制器	wei xiu xing shi ping shun xing kong zhi qi	0
+维修指示灯	wei xiu zhi shi deng	0
+温度	wen du	0
+温度控制面板	wen du kong zhi mian ban	0
+稳压器	wen ya qi	0
+涡轮液力传动	wo lun ye li chuan dong	0
+涡轮增压器	wo lun zeng ya qi	0
+无分电器点火系统	wu fen dian qi dian huo xi tong	0
+无线电频率干扰	wu xian dian pin lv gan rao	0
+洗涤器液量警告灯	xi di qi ye liang jing gao deng	0
+下一个	xia yi ge	0
+先导绝对压力阀	xian dao jue dui ya li fa	0
+线束	xian shu	0
+响度开关	xiang du kai guan	0
+校准	jiao zhun	0
+辛烷值	xin wan zhi	0
+信号装置	xin hao zhuang zhi	0
+星形连接器	xing xing lian jie qi	0
+型三极管	xing san ji guan	0
+蓄电池	xu dian chi	0
+蓄电池温控模块	xu dian chi wen kong mo kuai	0
+蓄电池正极	xu dian chi zheng ji	0
+蓄电池正极电压	xu dian chi zheng ji dian ya	0
+蓄电池组控制模块	xu dian chi zu kong zhi mo kuai	0
+悬架	xuan jia	0
+悬架电子自动调平系统	xuan jia dian zi zi dong tiao ping xi tong	0
+悬架电子自动调平系统	xuan jia dian zi zi dong diao ping xi tong	0
+巡航控制系统	xun hang kong zhi xi tong	0
+压电的	ya dian de	0
+压力控制	ya li kong zhi	0
+压力控制电磁阀	ya li kong zhi dian ci fa	0
+压缩比	ya suo bi	0
+压缩机电机控制器	ya suo ji dian ji kong zhi qi	0
+压缩天然气	ya suo tian ran qi	0
+延迟附件总线	yan chi fu jian zong xian	0
+氧传感器	yang chuan gan qi	0
+氧化催化转换器	yang hua cui hua zhuan huan qi	0
+氧化还原催化转换器	yang hua huan yuan cui hua zhuan huan qi	0
+氧气	yang qi	0
+遥控功能启动	yao kong gong neng qi dong	0
+遥控门锁	yao kong men suo	0
+遥控门锁接收器遥控门锁接收器	yao kong men suo jie shou qi yao kong men suo jie shou qi	0
+遥控启动确认	yao kong qi dong que ren	0
+液晶显示	ye jing xian shi	0
+液晶显示屏	ye jing xian shi ping	0
+液力变矩器离合器	ye li bian ju qi li he qi	0
+一氧化碳	yi yang hua tan	0
+移动识别号	yi dong shi bie hao	0
+仪表板	yi biao ban	0
+仪表板电气中心	yi biao ban dian qi zhong xin	0
+仪表板集成模块	yi biao ban ji cheng mo kuai	0
+仪表板模块	yi biao ban mo kuai	0
+仪表板组合仪表仪表板组合仪表	yi biao ban zu he yi biao yi biao ban zu he yi biao	0
+仪表稳压器	yi biao wen ya qi	0
+音响设置	yin xiang she zhi	0
+阴极射线管	yin ji she xian guan	0
+阴极射线管控制器	yin ji she xian guan kong zhi qi	0
+印刷电路板	yin shua dian lu ban	0
+英尺磅力英尺磅力扭矩	ying chi bang li ying chi bang li niu ju	0
+英尺磅力英尺磅力扭矩	ying chi bang li ying chi pang li niu ju	0
+英尺磅力英尺磅力扭矩	ying chi pang li ying chi bang li niu ju	0
+英尺英尺	ying chi ying chi	0
+英寸磅力英寸磅力扭矩	ying cun bang li ying cun bang li niu ju	0
+英寸磅力英寸磅力扭矩	ying cun bang li ying cun pang li niu ju	0
+英寸磅力英寸磅力扭矩	ying cun pang li ying cun bang li niu ju	0
+英寸英寸	ying cun ying cun	0
+英里加仑	ying li jia lun	0
+英里小时英里小时	ying li xiao shi ying li xiao shi	0
+英里英里	ying li ying li	0
+英制公制	ying zhi gong zhi	0
+英制热单位英制热量单位	ying zhi re dan wei ying zhi re liang dan wei	0
+永磁发电机	yong ci fa dian ji	0
+油表传感器	you biao chuan gan qi	0
+油门和伺服控制模块总成	you men he si fu kong zhi mo kuai zong cheng	0
+油压表	you ya biao	0
+油压表传感器	you ya biao chuan gan qi	0
+右侧	you ce	0
+右侧车门控制模块	you ce che men kong zhi mo kuai	0
+右的	you de	0
+右后	you hou	0
+右手的	you shou de	0
+右尾灯	you wei deng	0
+右转向指示灯	you zhuan xiang zhi shi deng	0
+预热三元催化转换器	yu re san yuan cui hua zhuan huan qi	0
+预热氧化催化转换器	yu re yang hua cui hua zhuan huan qi	0
+原装设备	yuan zhuang she bei	0
+原装设备制造商	yuan zhuang she bei zhi zao shang	0
+远程开机	yuan cheng kai ji	0
+远程模式	yuan cheng mo shi	0
+运算器	yun suan qi	0
+运行	yun xing	0
+在后部的	zai hou bu de	0
+增强型牵引力控制系统	zeng qiang xing qian yin li kong zhi xi tong	0
+增压空气冷却器	zeng ya kong qi leng que qi	0
+增压器	zeng ya qi	0
+增压器旁路	zeng ya qi pang lu	0
+兆伏	zhao fu	0
+真空	zhen kong	0
+真空电磁阀	zhen kong dian ci fa	0
+真空调节阀	zhen kong tiao jie fa	0
+真空控制电磁阀	zhen kong kong zhi dian ci fa	0
+真空延迟阀	zhen kong yan chi fa	0
+真空荧光	zhen kong ying guang	0
+真空荧光显示器	zhen kong ying guang xian shi qi	0
+真空制动助力器	zhen kong zhi dong zhu li qi	0
+诊断后备电源模块	zhen duan hou bei dian yuan mo kuai	0
+蒸发排放	zheng fa pai fang	0
+整流器端	zheng liu qi duan	0
+整体式底盘控制系统	zheng ti shi di pan kong zhi xi tong	0
+正极	zheng ji	0
+正温度系数	zheng wen du xi shu	0
+正温度系数电热丝自动阻风门加热器	zheng wen du xi shu dian re si zi dong zu feng men jia re qi	0
+直接点火系统	zhi jie dian huo xi tong	0
+直径	zhi jing	0
+直列式六缸发动机	zhi lie shi liu gang fa dong ji	0
+直列式四缸发动机	zhi lie shi si gang fa dong ji	0
+直流电	zhi liu dian	0
+指示灯	zhi shi deng	0
+只读存贮器	zhi du cun zhu qi	0
+制动防抱死系统	zhi dong fang bao si xi tong	0
+制动警告灯	zhi dong jing gao deng	0
+制动力系数	zhi dong li xi shu	0
+制动马力	zhi dong ma li	0
+制动器变速器换档互锁	zhi dong qi bian su qi huan dang hu suo	0
+制动踏板位置	zhi dong ta ban wei zhi	0
+制动压力调节阀	zhi dong ya li tiao jie fa	0
+制模块	zhi mo kuai	0
+质量空气流量	zhi liang kong qi liu liang	0
+中央处理器	zhong yang chu li qi	0
+中央电源	zhong yang dian yuan	0
+中央顺序燃油喷射	zhong yang shun xu ran you pen she	0
+重复	chong fu	0
+重心	zhong xin	0
+轴距	zhou ju	0
+主动式操纵	zhu dong shi cao zong	0
+驻车档空档位置	zhu che dang kong dang wei zhi	0
+驻车制动指示灯	zhu che zhi dong zhi shi deng	0
+专用设备选装件	zhuan yong she bei xuan zhuang jian	0
+转分转分	zhuan fen zhuan fen	0
+转速表	zhuan su biao	0
+转向指示灯	zhuan xiang zhi shi deng	0
+紫色	zi se	0
+紫外线	zi wai xian	0
+子正时控制	zi zheng shi kong zhi	0
+自动	zi dong	0
+自动变速器	zi dong bian su qi	0
+自动变速器变速驱动桥	zi dong bian su qi bian su qu dong qiao	0
+自动变速器换档锁止控制	zi dong bian su qi huan dang suo zhi kong zhi	0
+自动导航信息系统	zi dong dao hang xin xi xi tong	0
+自动的	zi dong de	0
+自动断开	zi dong duan kai	0
+自动门锁	zi dong men suo	0
+自动四轮驱动	zi dong si lun qu dong	0
+棕色	zong se	0
+最大值	zui da zhi	0
+最小值	zui xiao zhi	0
+左侧	zuo ce	0
+左侧车门关闭锁止	zuo ce che men guan bi suo zhi	0
+左侧车门控制模块	zuo ce che men kong zhi mo kuai	0
+左后	zuo hou	0
+左前	zuo qian	0
+左尾灯	zuo wei deng	0
+左右	zuo you	0
+左右平衡	zuo you ping heng	0
+左转向指示灯	zuo zhuan xiang zhi shi deng	0
+座椅控制模块	zuo yi kong zhi mo kuai	0
+迨速控制系统	dai su kong zhi xi tong	0

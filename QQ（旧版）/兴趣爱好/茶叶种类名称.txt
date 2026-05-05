@@ -1,0 +1,963 @@
+# 词库名称: 茶叶种类名称
+# 词库分类: 美食 兴趣爱好
+# 词库描述: tea，古称有荼、诧、茗等
+# 词条样例: 阿萨姆红茶、安化松针、安溪色种、八角亭龙须茶、八仙单丛、巴达、白茶类、白虎银毫、白琳工夫茶、白毛尖
+# 词条数量: 955
+# 解析词数: 955
+# 解析异常: 0
+
+阿萨姆红茶	a sa mu hong cha	0
+爱润康	ai run kang	0
+安化黑茶	an hua hei cha	0
+安化松针	an hua song zhen	0
+安吉白片	an ji bai pian	0
+安宁海湾	an ning hai wan	0
+安溪色种	an xi se zhong	0
+安溪铁观音	an xi tie guan yin	0
+八角亭	ba jiao ting	0
+八角亭龙须茶	ba jiao ting long xu cha	0
+八马	ba ma	0
+八仙茶	ba xian cha	0
+八仙单丛	ba xian dan cong	0
+八仙云峰	ba xian yun feng	0
+八月泉	ba yue quan	0
+巴达	ba da	0
+巴山银芽	ba shan yin ya	0
+白茶	bai cha	0
+白茶类	bai cha lei	0
+白冠鸡	bai guan ji	0
+白毫银针	bai hao yin zhen	0
+白虎银毫	bai hu yin hao	0
+白金岁月	bai jin sui yue	0
+白兰花茶	bai lan hua cha	0
+白琳工夫茶	bai lin gong fu cha	0
+白琳功夫	bai lin gong fu	0
+白毛猴	bai mao hou	0
+白毛尖	bai mao jian	0
+白牡丹	bai mu dan	0
+白石毛尖	bai shi mao jian	0
+白岳黄芽	bai yue huang ya	0
+白云春毫	bai yun chun hao	0
+白云银毫	bai yun yin hao	0
+百鸟峥茗	bai niao zheng ming	0
+班章	ban zhang	0
+邦崴	bang wai	0
+邦崴	bang wei	0
+包种茶	bao zhong cha	0
+薄玉茶	bo yu cha	0
+薄玉茶	bao yu cha	0
+保靖岚针	bao jing lan zhen	0
+宝顶绿茶	bao ding lv cha	0
+宝洪茶	bao hong cha	0
+宝红圆茶	bao hong yuan cha	0
+宝兔迎财	bao tu ying cai	0
+宝焰	bao yan	0
+宝焰紧茶	bao yan jin cha	0
+北港毛尖	bei gang mao jian	0
+备器	bei qi	0
+本山毛蟹	ben shan mao xie	0
+碧涧茶	bi jian cha	0
+碧螺春	bi luo chun	0
+边销砖	bian xiao zhuan	0
+饼茶	bing cha	0
+布朗	bu lang	0
+布朗青饼	bu lang qing bing	0
+布朗早春	bu lang zao chun	0
+参花茶	can hua cha	0
+参花茶	shen hua cha	0
+参茸茶	shen rong cha	0
+苍洱	cang er	0
+苍洱圆茶	cang er yuan cha	0
+苍山雪绿	cang shan xue lv	0
+苍山银毫	cang shan yin hao	0
+藏茶	zang cha	0
+茶仓	cha cang	0
+茶匙	cha chi	0
+茶船	cha chuan	0
+茶刀	cha dao	0
+茶道	cha dao	0
+茶底	cha di	0
+茶拂	cha fu	0
+茶根号	cha gen hao	0
+茶海	cha hai	0
+茶荷	cha he	0
+茶夹	cha jia	0
+茶桨	cha jiang	0
+茶巾	cha jin	0
+茶巾盘	cha jin pan	0
+茶擂	cha lei	0
+茶漏	cha lou	0
+茶马司	cha ma si	0
+茶盘	cha pan	0
+茶人岭	cha ren ling	0
+茶盂	cha yu	0
+茶缘	cha yuan	0
+茶则	cha ze	0
+茶渣	cha zha	0
+茶针	cha zhen	0
+茶盅	cha zhong	0
+茶渍	cha zi	0
+昌牌	chang pai	0
+昌泰茶业	chang tai cha ye	0
+昌云	chang yun	0
+昌云茶叶	chang yun cha ye	0
+长冲茶	zhang chong cha	0
+长冲茶	chang chong cha	0
+潮汕功夫茶	chao shan gong fu cha	0
+车前草茶	che qian cao cha	0
+车云山毛尖	che yun shan mao jian	0
+郴州碧云	chen zhou bi yun	0
+陈升号	chen sheng hao	0
+冲点	chong dian	0
+虫茶	chong cha	0
+初品奇茗	chu pin qi ming	0
+川红	chuan hong	0
+川红茶	chuan hong cha	0
+川红功夫	chuan hong gong fu	0
+川宁	chuan ning	0
+川字茶	chuan zi cha	0
+春风拂面	chun feng fu mian	0
+春尖	chun jian	0
+春尖沱	chun jian tuo	0
+春蕊	chun rui	0
+淳安大方	chun an da fang	0
+刺五茄茶	ci wu qie cha	0
+刺五茄茶	ci wu jia cha	0
+翠峰	cui feng	0
+翠螺	cui luo	0
+翠坪银针茶	cui ping yin zhen cha	0
+翠蕊	cui rui	0
+翠微金精茶	cui wei jin jing cha	0
+大渡岗	da du gang	0
+大关翠华茶	da guan cui hua cha	0
+大红袍	da hong pao	0
+大吉领红茶	da ji ling hong cha	0
+大理春韵	da li chun yun	0
+大理雪茶	da li xue cha	0
+大面白	da mian bai	0
+大山楂花茶	da shan zha hua cha	0
+大悟绿茶	da wu lv cha	0
+大叶红碎茶	da ye hong sui cha	0
+大叶苦茶	da ye ku cha	0
+大叶奇兰	da ye qi lan	0
+大益	da yi	0
+大益贡沱	da yi gong tuo	0
+大庸毛尖	da yong mao jian	0
+大足松茗	da zu song ming	0
+大鄣山云雾茶	da zhang shan yun wu cha	0
+丹参茶	dan shen cha	0
+单枞	dan zong	0
+单枞	dan cong	0
+涤方	di fang	0
+帝泊洱	di bo er	0
+帝泊洱	di po er	0
+滇藏号	dian cang hao	0
+滇藏号	dian zang hao	0
+滇红	dian hong	0
+滇红茶	dian hong cha	0
+滇红工夫红茶	dian hong gong fu hong cha	0
+滇红功夫	dian hong gong fu	0
+滇绿	dian lv	0
+丁氏百年	ding shi bai nian	0
+鼎兴圆茶	ding xing yuan cha	0
+定海芽尖	ding hai ya jian	0
+定军茗眉	ding jun ming mei	0
+东白春芽	dong bai chun ya	0
+东方美仁	dong fang mei ren	0
+东湖银毫	dong hu yin hao	0
+冻顶茶	dong ding cha	0
+冻顶乌龙	dong ding wu long	0
+冻水茶	dong shui cha	0
+洞庭碧螺春	dong ting bi luo chun	0
+都云毛尖	dou yun mao jian	0
+都匀毛尖	du yun mao jian	0
+杜仲茶	du zhong cha	0
+多奇	duo qi	0
+峨眉毛峰	e mei mao feng	0
+峨眉雪芽	e mei xue ya	0
+峨眉竹叶青	e mei zhu ye qing	0
+峨蕊	e rui	0
+峨芯	e xin	0
+峨嵋峨蕊茶	e mei e rui cha	0
+恩施玉露	en shi yu lu	0
+二矛芝兰香单丛	er mao zhi lan xiang dan cong	0
+二泉银毫	er quan yin hao	0
+番泻叶茶	fan xie ye cha	0
+方包	fang bao	0
+方包茶	fang bao cha	0
+焚香静气	fen xiang jing qi	0
+奉茶盘	feng cha pan	0
+凤凰	feng huang	0
+凤凰单从茶	feng huang dan cong cha	0
+凤凰单丛	feng huang dan cong	0
+凤凰单枞	feng huang dan zong	0
+凤凰单枞	feng huang dan cong	0
+凤凰单枞茶	feng huang dan zong cha	0
+凤凰单枞茶	feng huang dan cong cha	0
+凤凰山	feng huang shan	0
+凤凰舌茶	feng huang she cha	0
+凤凰舌尖茶	feng huang she jian cha	0
+凤凰水仙	feng huang shui xian	0
+凤凰水仙茶	feng huang shui xian cha	0
+凤凰乌龙	feng huang wu long	0
+凤庆红茶	feng qing hong cha	0
+凤山	feng shan	0
+凤山牌	feng shan pai	0
+凤柱圆茶	feng zhu yuan cha	0
+福安雪芽	fu an xue ya	0
+福村梅记	fu cun mei ji	0
+福鼎白茶	fu ding bai cha	0
+福鼎莲芯茶	fu ding lian xin cha	0
+福鼎莲心茶	fu ding lian xin cha	0
+福海	fu hai	0
+福禄寿	fu lu shou	0
+福禄寿喜砖	fu lu shou xi zhuan	0
+富阳岩顶	fu yang yan ding	0
+盖置	gai zhi	0
+高冲低斟	gao chong di zhen	0
+高峰云雾茶	gao feng yun wu cha	0
+高岗毛尖	gao gang mao jian	0
+高桥银峰	gao qiao yin feng	0
+革登	ge deng	0
+蛤古捞单丛	ha gu lao dan cong	0
+蛤古捞单丛	ge gu lao dan cong	0
+功夫红茶	gong fu hong cha	0
+公道杯	gong dao bei	0
+宫廷臻品	gong ting zhen pin	0
+贡眉	gong mei	0
+贡牌	gong pai	0
+钩藤茶	gou teng cha	0
+狗牯脑茶	gou gu nao cha	0
+古劳茶	gu lao cha	0
+古劳银针	gu lao yin zhen	0
+古丈毛尖	gu zhang mao jian	0
+顾渚紫茶	gu zhu zi cha	0
+顾渚紫笋	gu zhu zi sun	0
+顾渚紫笋茶	gu zhu zi sun cha	0
+刮风寨	gua feng zhai	0
+刮沫	gua mo	0
+关公巡城	guan gong xun cheng	0
+官庄毛尖	guan zhuang mao jian	0
+观音滴水	guan yin di shui	0
+广东大叶青	guang dong da ye qing	0
+广西红碎茶	guang xi hong sui cha	0
+龟山茶	gui shan cha	0
+龟山岩绿	gui shan yan lv	0
+桂东玲珑茶	gui dong ling long cha	0
+桂花茶	gui hua cha	0
+桂花香单丛	gui hua xiang dan cong	0
+桂林毛尖	gui lin mao jian	0
+桂平西山茶	gui ping xi shan cha	0
+贵定云雾	gui ding yun wu	0
+贵定云雾茶	gui ding yun wu cha	0
+锅巴茶	guo ba cha	0
+海马宫茶	hai ma gong cha	0
+海南红茶	hai nan hong cha	0
+海南液体茶	hai nan ye ti cha	0
+海青茶	hai qing cha	0
+海鑫堂	hai xin tang	0
+韩信点兵	han xin dian bing	0
+汉家刘氏茶	han jia liu shi cha	0
+汉水银梭	han shui yin suo	0
+和甲	he jia	0
+和雾茶	he wu cha	0
+合箩茶	he luo cha	0
+合壹	he yi	0
+河西园茶	he xi yuan cha	0
+河西圆茶	he xi yuan cha	0
+黑茶	hei cha	0
+黑茶类	hei cha lei	0
+黑砖茶	hei zhuan cha	0
+恒春源	heng chun yuan	0
+鸿泰昌圆茶	hong tai chang yuan cha	0
+红茶	hong cha	0
+红茶类	hong cha lei	0
+红莲圆茶	hong lian yuan cha	0
+红碎茶	hong sui cha	0
+红印圆茶	hong yin yuan cha	0
+红韵圆茶	hong yun yuan cha	0
+红竹叶茶	hong zhu ye cha	0
+红岫	hong xiu	0
+侯汤	hou tang	0
+猴坑茶业	hou keng cha ye	0
+猴魁	hou kui	0
+厚垵街	hou an jie	0
+候汤	hou tang	0
+壶垫	hu dian	0
+葫芦茶	hu lu cha	0
+湖红功夫	hu hong gong fu	0
+湖南黑茶	hu nan hei cha	0
+虎山茶	hu shan cha	0
+花茶	hua cha	0
+花茶类	hua cha lei	0
+花果山云雾	hua guo shan yun wu	0
+花果山云雾茶	hua guo shan yun wu cha	0
+花砖茶	hua zhuan cha	0
+华顶云雾	hua ding yun wu	0
+华虹	hua hong	0
+华泰名茶	hua tai ming cha	0
+化佛茶	hua fo cha	0
+还童茶	huan tong cha	0
+黄茶	huang cha	0
+黄花云尖	huang hua yun jian	0
+黄金桂	huang jin gui	0
+黄金岁月	huang jin sui yue	0
+黄郎毛尖	huang lang mao jian	0
+黄山	huang shan	0
+黄山毛峰	huang shan mao feng	0
+黄山银钩	huang shan yin gou	0
+黄狮茶	huang shi cha	0
+黄石溪毛峰	huang shi xi mao feng	0
+黄印圆茶	huang yin yuan cha	0
+黄枝香单丛	huang zhi xiang dan cong	0
+黄竹白毫	huang zhu bai hao	0
+黄檗茶	huang bo cha	0
+徽商	hui shang	0
+惠明茶	hui ming cha	0
+火煮山泉	huo zhu shan quan	0
+霍山翠芽	huo shan cui ya	0
+霍山黄芽	huo shan huang ya	0
+基诺	ji nuo	0
+嘉茗	jia ming	0
+家园香茗	jia yuan xiang ming	0
+甲沱	jia tuo	0
+简品	jian pin	0
+鉴赏三色	jian shang san se	0
+剑春茶	jian chun cha	0
+剑毫	jian hao	0
+建德苞茶	jian de bao cha	0
+姜花香单丛	jiang hua xiang dan cong	0
+江华毛尖	jiang hua mao jian	0
+江宁翠螺	jiang ning cui luo	0
+江山绿牡丹	jiang shan lv mu dan	0
+绞股蓝茶	jiao gu lan cha	0
+金大益	jin da yi	0
+金凤贡饼	jin feng gong bing	0
+金岗银针	jin gang yin zhen	0
+金瓜贡茶	jin gua gong cha	0
+金花六堡茶	jin hua liu bao cha	0
+金鸡沱茶	jin ji tuo cha	0
+金尖	jin jian	0
+金尖茶	jin jian cha	0
+金色印象	jin se yin xiang	0
+金山翠芽	jin shan cui ya	0
+金水翠峰	jin shui cui feng	0
+金丝沱茶	jin si tuo cha	0
+金坛雀舌	jin tan que she	0
+金银花茶	jin yin hua cha	0
+金针白莲	jin zhen bai lian	0
+紧茶	jin cha	0
+紧压茶类	jin ya cha lei	0
+锦绣茶王	jin xiu cha wang	0
+锦绣谷	jin xiu gu	0
+尽杯谢茶	jin bei xie cha	0
+荆溪云片	jing xi yun pian	0
+京华	jing hua	0
+井岗翠绿	jing gang cui lv	0
+景谷	jing gu	0
+景迈	jing mai	0
+景迈早春	jing mai zao chun	0
+景星碧绿茶	jing xing bi lv cha	0
+敬亭绿雪	jing ting lv xue	0
+径山茶	jing shan cha	0
+九二方砖	jiu er fang zhuan	0
+九华毛峰	jiu hua mao feng	0
+九皇云雾	jiu huang yun wu	0
+九龙茶	jiu long cha	0
+九曲红梅	jiu qu hong mei	0
+九洲韵	jiu zhou yun	0
+菊花茶	ju hua cha	0
+均福云雾茶	jun fu yun wu cha	0
+君山毛尖	jun shan mao jian	0
+君山银针	jun shan yin zhen	0
+卡规砖茶	ka gui zhuan cha	0
+开化龙顶	kai hua long ding	0
+开化龙须	kai hua long xu	0
+开山白毫	kai shan bai hao	0
+开山白毫茶	kai shan bai hao cha	0
+凯复春	kai fu chun	0
+砍盆箐茶	kan pen qing cha	0
+砍盆箐茶	kan pen jing cha	0
+康寿茶	kang shou cha	0
+康砖	kang zhuan	0
+烤茶	kao cha	0
+苦丁茶	ku ding cha	0
+苦甘香茗	ku gan xiang ming	0
+兰花茶	lan hua cha	0
+兰溪毛峰	lan xi mao feng	0
+兰馨	lan xin	0
+澜沧古茶	lan cang gu cha	0
+琅源松萝茶	lang yuan song luo cha	0
+郎河	lang he	0
+老班章	lao ban zhang	0
+老茶夫	lao cha fu	0
+老茶鬼	lao cha gui	0
+老茶头	lao cha tou	0
+老茶头砖	lao cha tou zhuan	0
+老姜茶	lao jiang cha	0
+老曼峨	lao man e	0
+老青茶	lao qing cha	0
+老青砖	lao qing zhuan	0
+老树沱茶	lao shu tuo cha	0
+老同志	lao tong zhi	0
+老鹰茶	lao ying cha	0
+老竹大方	lao zhu da fang	0
+乐昌白毛茶	le chang bai mao cha	0
+梨园茶	li yuan cha	0
+黎明茶厂	li ming cha chang	0
+荔枝红茶	li zhi hong cha	0
+历口	li kou	0
+立顿	li dun	0
+力茗	li ming	0
+莲台龙井	lian tai long jing	0
+莲芯	lian xin	0
+莲心茶	lian xin cha	0
+梁渡银针	liang du yin zhen	0
+梁平甜茶	liang ping tian cha	0
+琳村花茶	lin cun hua cha	0
+临海蟠毫	lin hai pan hao	0
+淋杯	lin bei	0
+淋罐	lin guan	0
+玲珑茶	ling long cha	0
+凌云白茶	ling yun bai cha	0
+凌云白毫	ling yun bai hao	0
+灵岩剑峰	ling yan jian feng	0
+岭头单枞	ling tou dan zong	0
+岭头单枞	ling tou dan cong	0
+六安茶	lu an cha	0
+六安瓜片	lu an gua pian	0
+六堡茶	liu bao cha	0
+六堡散茶	liu bao san cha	0
+六堡散茶	liu pu san cha	0
+六大茶山	liu da cha shan	0
+龙毫花茶	long hao hua cha	0
+龙脊茶	long ji cha	0
+龙井茶	long jing cha	0
+龙泉茶	long quan cha	0
+龙润	long run	0
+龙生	long sheng	0
+龙腾盛世	long teng sheng shi	0
+龙舞茶	long wu cha	0
+龙坞	long wu	0
+龙虾茶	long xia cha	0
+龙须	long xu	0
+龙须茶	long xu cha	0
+龙岩斜背茶	long yan xie bei cha	0
+龙颜斜背茶	long yan xie bei cha	0
+龙园号	long yuan hao	0
+龙圆号	long yuan hao	0
+龙柱圆茶	long zhu yuan cha	0
+隆中茶	long zhong cha	0
+庐山云雾	lu shan yun wu	0
+鹿宛茶	lu wan cha	0
+鹿宛茶	lu yuan cha	0
+鹿苑毛尖	lu yuan mao jian	0
+绿茶	lv cha	0
+绿茶类	lv cha lei	0
+绿春玛玉茶	lv chun ma yu cha	0
+绿印圆茶	lv yin yuan cha	0
+萝卜苗茶	luo bo miao cha	0
+罗布麻茶	luo bu ma cha	0
+罗峰茶	luo feng cha	0
+麻姑茶	ma gu cha	0
+麻黑	ma hei	0
+玛勃洛可	ma bo luo ke	0
+玛玉茶	ma yu cha	0
+麦茶	mai cha	0
+蛮砖	man zhuan	0
+漫撒	man sa	0
+茅麓翠峰	mao lu cui feng	0
+茅麓旗枪	mao lu qi qiang	0
+茅山青峰	mao shan qing feng	0
+毛峰	mao feng	0
+玫瑰红茶	mei gui hong cha	0
+玫瑰花茶	mei gui hua cha	0
+梅花茶	mei hua cha	0
+梅家坞	mei jia wu	0
+梅岭毛尖	mei ling mao jian	0
+梅龙茶	mei long cha	0
+眉茶	mei cha	0
+眉峰云雾	mei feng yun wu	0
+蒙顶茶	meng ding cha	0
+蒙顶甘露	meng ding gan lu	0
+蒙顶黄芽	meng ding huang ya	0
+蒙顿	meng dun	0
+蒙洱黄芽	meng er huang ya	0
+蒙山春露	meng shan chun lu	0
+蒙山甘露	meng shan gan lu	0
+孟臣淋漓	meng chen lin li	0
+米花茶	mi hua cha	0
+米砖茶	mi zhuan cha	0
+蜜兰香单丛	mi lan xiang dan cong	0
+闽北水仙	min bei shui xian	0
+闽红功夫	min hong gong fu	0
+闽榕	min rong	0
+莫干黄芽	mo gan huang ya	0
+莫干黄芽茶	mo gan huang ya cha	0
+莫干山云雾	mo gan shan yun wu	0
+墨江云针	mo jiang yun zhen	0
+沫若香茗	mo ruo xiang ming	0
+牟定化佛茶	mou ding hua fo cha	0
+母杯	mu bei	0
+纳茶	na cha	0
+南安石亭绿	nan an shi ting lv	0
+南京雨花茶	nan jing yu hua cha	0
+南糯	nan nuo	0
+南糯白毫	nan nuo bai hao	0
+南山白毛茶	nan shan bai mao cha	0
+南山白毛芽	nan shan bai mao ya	0
+南山寿眉	nan shan shou mei	0
+南岳云雾茶	nan yue yun wu cha	0
+南诏金砖	nan zhao jin zhuan	0
+南诏御饼	nan zhao yu bing	0
+南诏圆茶	nan zhao yuan cha	0
+南峤	nan qiao	0
+南峤	nan jiao	0
+尼尔吉利茶	ni er ji li cha	0
+宁红茶	ning hong cha	0
+宁红功夫	ning hong gong fu	0
+牛抵茶	niu di cha	0
+牛洛河	niu luo he	0
+盘安云峰	pan an yun feng	0
+胖大海茶	pang da hai cha	0
+泡饼	pao bing	0
+彭溪	peng xi	0
+蓬莱仙芝茶	peng lai xian zhi cha	0
+品茶	pin cha	0
+品品香	pin pin xiang	0
+平和白芽奇兰	ping he bai ya qi lan	0
+平水珠茶	ping shui zhu cha	0
+平阳黄汤	ping yang huang tang	0
+平月	ping yue	0
+蒲江雀舌茶	pu jiang que she cha	0
+普洱茶	pu er cha	0
+普洱方茶	pu er fang cha	0
+普陀佛茶	pu tuo fo cha	0
+普陀佛茶	pu tuo fu cha	0
+普陀山云雾	pu tuo shan yun wu	0
+普秀	pu xiu	0
+普知味	pu zhi wei	0
+普沱佛茶	pu tuo fo cha	0
+普沱佛茶	pu tuo fu cha	0
+浦江春毫	pu jiang chun hao	0
+瀑布茶	pu bu cha	0
+七彩云南	qi cai yun nan	0
+七境堂绿茶	qi jing tang lv cha	0
+七子饼茶	qi zi bing cha	0
+棋盘山毛尖	qi pan shan mao jian	0
+棋仙峰	qi xian feng	0
+奇松	qi song	0
+齐山翠眉	qi shan cui mei	0
+齐山毛尖	qi shan mao jian	0
+齐云毛峰	qi yun mao feng	0
+祁红	qi hong	0
+祁门功夫	qi men gong fu	0
+祁门红茶	qi men hong cha	0
+骑田银毫	qi tian yin hao	0
+千岛玉叶	qian dao yu ye	0
+千道湾	qian dao wan	0
+千家寨	qian jia zhai	0
+千两茶	qian liang cha	0
+钱塘龙井	qian tang long jing	0
+前峰雪莲	qian feng xue lian	0
+前岗煇白	qian gang hui bai	0
+前岗煇白	qian gang yun bai	0
+前岗煇白	qian gang xun bai	0
+前岗辉白茶	qian gang hui bai cha	0
+前岭银毫	qian ling yin hao	0
+强韵	qiang yun	0
+秦巴雾毫	qin ba wu hao	0
+秦老太	qin lao tai	0
+沁香源	qin xiang yuan	0
+青城苦丁茶	qing cheng ku ding cha	0
+青城雪芽	qing cheng xue ya	0
+青豆茶	qing dou cha	0
+青岩茗翠	qing yan ming cui	0
+青砖茶	qing zhuan cha	0
+清溪玉芽	qing xi yu ya	0
+清音茶	qing yin cha	0
+取火	qu huo	0
+泉岗辉白	quan gang hui bai	0
+雀舌茶	que she cha	0
+热罐	re guan	0
+仁和圆茶	ren he yuan cha	0
+仁硕	ren shuo	0
+人参茶	ren shen cha	0
+日照冰绿	ri zhao bing lv	0
+日照清茶	ri zhao qing cha	0
+日照雪青	ri zhao xue qing	0
+日铸雪芽	ri zhu xue ya	0
+容美茶	rong mei cha	0
+容则	rong ze	0
+容诸笋茶	rong zhu sun cha	0
+肉桂	rou gui	0
+瑞草魁	rui cao kui	0
+瑞福仙	rui fu xian	0
+瑞虎呈祥	rui hu cheng xiang	0
+瑞州黄檗茶	rui zhou huang bo cha	0
+润思	run si	0
+润元昌	run yuan chang	0
+若琛出韵	ruo chen chu yun	0
+洒茶	sa cha	0
+三龙护鼎	san long hu ding	0
+三清碧兰	san qing bi lan	0
+三清云雾	san qing yun wu	0
+三泉	san quan	0
+桑寄生茶	sang ji sheng cha	0
+桑芽茶	sang ya cha	0
+色种	se zhong	0
+森舟	sen zhou	0
+沙溪凉茶	sha xi liang cha	0
+晒青	shai qing	0
+珊厚香茶	shan hou xiang cha	0
+山地	shan di	0
+山好茶	shan hao cha	0
+山岩翠绿	shan yan cui lv	0
+商南泉茗	shang nan quan ming	0
+上饶白眉	shang rao bai mei	0
+尚茶	shang cha	0
+尚客茶品	shang ke cha pin	0
+尚正	shang zheng	0
+尚茗堂	shang ming tang	0
+烧钟	shao zhong	0
+韶峰	shao feng	0
+圣绿	sheng lv	0
+圣山茶	sheng shan cha	0
+师道	shi dao	0
+狮峰	shi feng	0
+狮口银芽	shi kou yin ya	0
+石古坪乌龙	shi gu ping wu long	0
+石门空心茶	shi men kong xin cha	0
+石门银峰	shi men yin feng	0
+石亭绿	shi ting lv	0
+石亭绿茶	shi ting lv cha	0
+石岩绿茶	shi yan lv cha	0
+柿叶茶	shi ye cha	0
+舒城兰花	shu cheng lan hua	0
+蜀口茶	shu kou cha	0
+双江勐库	shuang jiang meng ku	0
+双井绿	shuang jing lv	0
+双龙银针	shuang long yin zhen	0
+双玫菊茶	shuang mei ju cha	0
+双桥毛尖	shuang qiao mao jian	0
+双上绿茶	shuang shang lv cha	0
+水方	shui fang	0
+水金龟	shui jin gui	0
+水仙	shui xian	0
+水仙茶	shui xian cha	0
+水仙茸勾茶	shui xian rong gou cha	0
+水盂	shui yu	0
+顺生茶业	shun sheng cha ye	0
+斯里兰卡红茶	si li lan ka hong cha	0
+思茅古普洱茶	si mao gu pu er cha	0
+思施玉露	si shi yu lu	0
+四川边茶	si chuan bian cha	0
+四季醇香	si ji chun xiang	0
+松峰茶	song feng cha	0
+松峰绿茶	song feng lv cha	0
+松鹤饼	song he bing	0
+松鹤延年	song he yan nian	0
+松阳银猴	song yang yin hou	0
+松针米茶	song zhen mi cha	0
+宋种东方红	song zhong dong fang hong	0
+宋种蜜香单丛	song zhong mi xiang dan cong	0
+宋种芝兰香	song zhong zhi lan xiang	0
+遂昌银猴	sui chang yin hou	0
+台湾乌龙茶	tai wan wu long cha	0
+太白顶芽	tai bai ding ya	0
+太白银毫	tai bai yin hao	0
+太沽白毫	tai gu bai hao	0
+太湖翠竹	tai hu cui zhu	0
+太平猴魁	tai ping hou kui	0
+滩茶	tan cha	0
+坦洋工夫茶	tan yang gong fu cha	0
+坦洋功夫	tan yang gong fu	0
+烫杯	tang bei	0
+特沱	te tuo	0
+天池茗毫	tian chi ming hao	0
+天方	tian fang	0
+天福茗茶	tian fu ming cha	0
+天湖凤片	tian hu feng pian	0
+天花茶	tian hua cha	0
+天苗	tian miao	0
+天目湖白茶	tian mu hu bai cha	0
+天目青顶	tian mu qing ding	0
+天山烘绿	tian shan hong lv	0
+天山绿茶	tian shan lv cha	0
+天舍奇峰	tian she qi feng	0
+天台翠峰	tian tai cui feng	0
+天物沉香	tian wu chen xiang	0
+天柱剑毫	tian zhu jian hao	0
+天尊贡芽	tian zun gong ya	0
+天曦	tian xi	0
+甜茶	tian cha	0
+甜菊绿茶	tian ju lv cha	0
+铁饼	tie bing	0
+铁观音	tie guan yin	0
+铁罗汉	tie luo han	0
+通天岩茶	tong tian yan cha	0
+桐城小花	tong cheng xiao hua	0
+同昌圆茶	tong chang yuan cha	0
+铜陵野雀舌茶	tong ling ye que she cha	0
+土林	tu lin	0
+土林茶业	tu lin cha ye	0
+屯绿	tun lv	0
+皖西黄大茶	wan xi huang da cha	0
+皖云	wan yun	0
+万春银叶	wan chun yin ye	0
+万红扬	wan hong yang	0
+汪满田	wang man tian	0
+望府银毫	wang fu yin hao	0
+味最酽	wei zui yan	0
+魏荫	wei yin	0
+温度计	wen du ji	0
+温州黄汤	wen zhou huang tang	0
+温州黄汤茶	wen zhou huang tang cha	0
+文君茶	wen jun cha	0
+文君绿茶	wen jun lv cha	0
+文君嫩绿	wen jun nen lv	0
+问荆茶	wen jing cha	0
+窝坑茶	wo keng cha	0
+乌龙茶	wu long cha	0
+乌龙茶类	wu long cha lei	0
+乌龙入宫	wu long ru gong	0
+乌牛早	wu niu zao	0
+污衣派	wu yi pai	0
+无量山	wu liang shan	0
+无锡毫茶	wu xi hao cha	0
+吴裕泰	wu yu tai	0
+武当道茶	wu dang dao cha	0
+武夷肉桂	wu yi rou gui	0
+武夷山云雾	wu yi shan yun wu	0
+武夷岩茶	wu yi yan cha	0
+五盖山米茶	wu gai shan mi cha	0
+五山盖米茶	wu shan gai mi cha	0
+五指山茶	wu zhi shan cha	0
+五子登科	wu zi deng ke	0
+午子仙毫	wu zi xian hao	0
+雾洞茶	wu dong cha	0
+西湖	xi hu	0
+西湖龙井	xi hu long jing	0
+西山茶	xi shan cha	0
+西施银芽	xi shi yin ya	0
+西双版纳古茶山	xi shuang ban na gu cha shan	0
+锡兰菲尔	xi lan fei er	0
+锡兰高地红茶	xi lan gao di hong cha	0
+习茶	xi cha	0
+喜闻幽香	xi wen you xiang	0
+洗茶	xi cha	0
+峡州碧峰	xia zhou bi feng	0
+峡州碧峰茶	xia zhou bi feng cha	0
+下关甲沱	xia guan jia tuo	0
+下关特沱	xia guan te tuo	0
+下关沱茶	xia guan tuo cha	0
+仙居碧绿	xian ju bi lv	0
+仙人掌茶	xian ren zhang cha	0
+仙台大白	xian tai da bai	0
+仙茗	xian ming	0
+香菇寮白毫	xiang gu liao bai hao	0
+湘波绿	xiang bo lv	0
+湘尖茶	xiang jian cha	0
+象棋云雾	xiang qi yun wu	0
+霄坑毛峰	xiao keng mao feng	0
+销法	xiao fa	0
+销法沱	xiao fa tuo	0
+销法沱茶	xiao fa tuo cha	0
+小布岩茶	xiao bu yan cha	0
+新江羽绒茶	xin jiang yu rong cha	0
+新益号	xin yi hao	0
+信阳毛尖	xin yang mao jian	0
+信阳毛尖茶	xin yang mao jian cha	0
+兴隆咖啡	xing long ka fei	0
+熊洞云雾	xiong dong yun wu	0
+休宁松萝	xiu ning song luo	0
+修水宁红	xiu shui ning hong	0
+修水双井茶	xiu shui shuang jing cha	0
+悬壶高冲	xuan hu gao chong	0
+玄米茶	xuan mi cha	0
+雪峰毛尖	xue feng mao jian	0
+崖雾茶	ya wu cha	0
+艳阳红	yan yang hong	0
+雁荡白云茶	yan dang bai yun cha	0
+雁荡毛峰	yan dang mao feng	0
+雁荡山云雾	yan dang shan yun wu	0
+扬州绿阳春	yang zhou lv yang chun	0
+羊艾毛峰	yang ai mao feng	0
+阳羡雪芽	yang xian xue ya	0
+仰天雪绿	yang tian xue lv	0
+野茶王	ye cha wang	0
+野雀舌	ye que she	0
+叶底	ye di	0
+叶嘉酬宾	ye jia chou bin	0
+叶凌春	ye ling chun	0
+一品堂	yi pin tang	0
+一品香	yi pin xiang	0
+宜昌红茶	yi chang hong cha	0
+宜红茶	yi hong cha	0
+宜红功夫	yi hong gong fu	0
+宜良宝洪茶	yi liang bao hong cha	0
+倚邦	yi bang	0
+艺福堂	yi fu tang	0
+易昌号	yi chang hao	0
+易武	yi wu	0
+易武同庆	yi wu tong qing	0
+易武正山	yi wu zheng shan	0
+易武正山老树沱茶	yi wu zheng shan lao shu tuo cha	0
+忆江南	yi jiang nan	0
+益生茶	yi sheng cha	0
+益顺康	yi shun kang	0
+银大益	yin da yi	0
+银孔雀	yin kong que	0
+银针白毫	yin zhen bai hao	0
+英德红	ying de hong	0
+英德红茶	ying de hong cha	0
+英红	ying hong	0
+迎客松	ying ke song	0
+涌溪火青	yong xi huo qing	0
+涌溪火青	chong xi huo qing	0
+永川秀芽	yong chuan xiu ya	0
+永春佛手	yong chun fo shou	0
+尤溪绿茶	you xi lv cha	0
+游山玩水	you shan wan shui	0
+余姚瀑布茶	yu yao pu bu cha	0
+鱼钩茶	yu gou cha	0
+雨城露芽	yu cheng lu ya	0
+雨城银芽	yu cheng yin ya	0
+雨城云雾	yu cheng yun wu	0
+雨花茶	yu hua cha	0
+羽绒茶	yu rong cha	0
+玉兰香单丛	yu lan xiang dan cong	0
+玉米须茶	yu mi xu cha	0
+玉蕊茶	yu rui cha	0
+玉叶长春	yu ye chang chun	0
+玉液回壶	yu ye hui hu	0
+域邦	yu bang	0
+御红	yu hong	0
+御沏	yu qi	0
+御青	yu qing	0
+御青茶	yu qing cha	0
+御赏贡沱	yu shang gong tuo	0
+裕荣香	yu rong xiang	0
+元长厚	yuan zhang hou	0
+元长厚	yuan chang hou	0
+圆茶	yuan cha	0
+源茗茶	yuan ming cha	0
+远安鹿苑	yuan an lu yuan	0
+越陈越香	yue chen yue xiang	0
+越红功夫	yue hong gong fu	0
+岳北大白雪峰	yue bei da bai xue feng	0
+岳麓毛	yue lu mao	0
+月芽茶	yue ya cha	0
+月印池老枞红茶	yue yin chi lao zong hong cha	0
+月印池老枞红茶	yue yin chi lao cong hong cha	0
+云茶宾牌	yun cha bin pai	0
+云峰与蟠毫	yun feng yu pan hao	0
+云海白毫	yun hai bai hao	0
+云林茶	yun lin cha	0
+云梅春圆茶	yun mei chun yuan cha	0
+云南白毫	yun nan bai hao	0
+云南红碎茶	yun nan hong sui cha	0
+云南紧茶	yun nan jin cha	0
+云南勐海茶厂	yun nan meng hai cha chang	0
+云台山云雾	yun tai shan yun wu	0
+云雾茶	yun wu cha	0
+云雾毛尖	yun wu mao jian	0
+云针	yun zhen	0
+云针绿茶	yun zhen lv cha	0
+攒林茶	zan lin cha	0
+攒林茶	cuan lin cha	0
+枣茶	zao cha	0
+早白尖	zao bai jian	0
+早白尖工夫红茶	zao bai jian gong fu hong cha	0
+择水	ze shui	0
+曾侯银剑	ceng hou yin jian	0
+曾侯银剑	zeng hou yin jian	0
+渣方	zha fang	0
+漳平水仙	zhang ping shui xian	0
+张一元	zhang yi yuan	0
+镇沅	zhen yuan	0
+蒸青煎茶	zheng qing jian cha	0
+正山小种红茶	zheng shan xiao zhong hong cha	0
+政大白牡丹茶	zheng da bai mu dan cha	0
+政和大白茶	zheng he da bai cha	0
+政和功夫	zheng he gong fu	0
+治器	zhi qi	0
+中堡岛	zhong bao dao	0
+中堡岛	zhong pu dao	0
+中茶	zhong cha	0
+中闽弘泰	zhong min hong tai	0
+终南毛尖	zhong nan mao jian	0
+重庆沱茶	chong qing tuo cha	0
+重洗仙颜	chong xi xian yan	0
+周打铁茶	zhou da tie cha	0
+州碧云	zhou bi yun	0
+珠兰花茶	zhu lan hua cha	0
+珠山茶	zhu shan cha	0
+竹壳茶	zhu ke cha	0
+竹筒茶	zhu tong cha	0
+竹筒香茶	zhu tong xiang cha	0
+竹溪毛峰	zhu xi mao feng	0
+竹叶青	zhu ye qing	0
+竹叶青露	zhu ye qing lu	0
+竹叶青露	zhu ye qing lou	0
+煮水器	zhu shui qi	0
+紫背天葵	zi bei tian kui	0
+紫阳毛尖	zi yang mao jian	0
+紫云圆茶	zi yun yuan cha	0
+遵义毛峰	zun yi mao feng	0
+攸乐	you le	0
+攸乐	you yue	0
+诏安八仙茶	zhao an ba xian cha	0
+诏安水仙	zhao an shui xian	0
+鄣公山茶	zhang gong shan cha	0
+勐海博友	meng hai bo you	0
+勐海茶厂	meng hai cha chang	0
+勐海大益	meng hai da yi	0
+勐海黎明星火	meng hai li ming xing huo	0
+勐海女儿茶	meng hai nv er cha	0
+勐海之春	meng hai zhi chun	0
+勐海之星	meng hai zhi xing	0
+勐库	meng ku	0
+勐库戎氏	meng ku rong shi	0
+勐卯	meng mao	0
+勐宋	meng song	0
+勐宋沱	meng song tuo	0
+茉莉花茶	mo li hua cha	0
+茯茶	fu cha	0
+茯砖茶	fu zhuan cha	0
+茗皇茶	ming huang cha	0
+茗康	ming kang	0
+茗眉	ming mei	0
+茗香	ming xiang	0
+茗众	ming zhong	0
+茗洲茶	ming zhou cha	0
+荼尚	tu shang	0
+葳盛茶业	wei sheng cha ye	0
+葳盛茶业	wei cheng cha ye	0
+崂山绿茶	lao shan lv cha	0
+怡清源	yi qing yuan	0
+闵园毛峰	min yuan mao feng	0
+沩江白毛尖	wei jiang bai mao jian	0
+沩山毛尖	wei shan mao jian	0
+沱茶	tuo cha	0
+湄江茶	mei jiang cha	0
+湄江翠片	mei jiang cui pian	0
+湄潭翠芽	mei tan cui ya	0
+婺绿	wu lv	0
+婺源茗眉茶	wu yuan ming mei cha	0
+婺州东白茶	wu zhou dong bai cha	0
+婺州举岩	wu zhou ju yan	0
+缙云毛蜂	jin yun mao feng	0
+玳玳花茶	dai dai hua cha	0
+枸杞茶	gou qi cha	0
+榕树茶	rong shu cha	0
+甑山银毫	zeng shan yin hao	0
+碣滩茶	jie tan cha	0
+馥春	fu chun	0
+鸠坑毛尖	jiu keng mao jian	0
+鸠园栗香茶	jiu yuan li xiang cha	0
+覃塘毛尖	qin tang mao jian	0
+覃塘毛尖	tan tang mao jian	0
+蜻蜓点水	qing ting dian shui	0
+翡翠大益	fei cui da yi	0
+鑫逸	xin yi	0

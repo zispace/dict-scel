@@ -1,0 +1,326 @@
+# 词库名称: 海鲜
+# 词库分类: 美食 兴趣爱好
+# 词库描述: 海鲜相关
+# 词条样例: 安康鱼、八角鱼、白对虾、白丝鱼、白鲢、棒鱼、北极贝、彩虹绸、草鱼、赤贝
+# 词条数量: 318
+# 解析词数: 318
+# 解析异常: 0
+
+安康鱼	an kang yu	0
+昂刺鱼	ang ci yu	0
+八带鱼	ba dai yu	0
+八角鱼	ba jiao yu	0
+八爪鱼	ba zhua yu	0
+拔鱼	ba yu	0
+白对虾	bai dui xia	0
+白甲鱼	bai jia yu	0
+白米虾	bai mi xia	0
+白丝鱼	bai si yu	0
+白云贝	bai yun bei	0
+白蚬子	bai xian zi	0
+白鲢	bai lian	0
+百花贝	bai hua bei	0
+斑节虾	ban jie xia	0
+棒鱼	bang yu	0
+包公鱼	bao gong yu	0
+鲍鱼	bao yu	0
+北极贝	bei ji bei	0
+笔杆柽	bi gan cheng	0
+玻璃贝	bo li bei	0
+彩虹绸	cai hong chou	0
+蚕蛹	can yong	0
+草虾	cao xia	0
+草鱼	cao yu	0
+叉尾回鱼	cha wei hui yu	0
+昌鱼	chang yu	0
+赤贝	chi bei	0
+赤子	chi zi	0
+绸鱼	chou yu	0
+葱花蟹	cong hua xie	0
+大鲍鱼	da bao yu	0
+大对虾	da dui xia	0
+大蛤肉蛎肉	da ge rou li rou	0
+大海螺	da hai luo	0
+大海虾	da hai xia	0
+大海鳝	da hai shan	0
+大黄鱼	da huang yu	0
+大龙虾	da long xia	0
+大鲁子	da lu zi	0
+大明虾	da ming xia	0
+大头宝	da tou bao	0
+大头鱼	da tou yu	0
+大鸦片	da ya pian	0
+大闸蟹	da zha xie	0
+带鱼	dai yu	0
+带子	dai zi	0
+淡水白鲳	dan shui bai chang	0
+刀额新对虾	dao e xin dui xia	0
+刀鱼	dao yu	0
+刀鱼子	dao yu zi	0
+岛子鱼	dao zi yu	0
+碟鱼头	die yu tou	0
+钉螺	ding luo	0
+东星斑	dong xing ban	0
+肚脐螺	du qi luo	0
+多宝鱼	duo bao yu	0
+凤尾鱼	feng wei yu	0
+佛手	fo shou	0
+富贵虾	fu gui xia	0
+钢螺	gang luo	0
+蛤仔	ge zi	0
+蛤蛎	ge li	0
+功夫菜	gong fu cai	0
+桂花鱼	gui hua yu	0
+桂鱼	gui yu	0
+哈蜊	ha li	0
+海白虾	hai bai xia	0
+海参	hai shen	0
+海肠	hai chang	0
+海带扣	hai dai kou	0
+海带片	hai dai pian	0
+海胆	hai dan	0
+海浮鱼	hai fu yu	0
+海狗鞭	hai gou bian	0
+海瓜子	hai gua zi	0
+海黑鱼	hai hei yu	0
+海红	hai hong	0
+海里鱼	hai li yu	0
+海鲁鱼	hai lu yu	0
+海螺	hai luo	0
+海螺丝	hai luo si	0
+海嘛线	hai ma xian	0
+海木耳	hai mu er	0
+海兽螺	hai shou luo	0
+海兔	hai tu	0
+海兔鱼	hai tu yu	0
+海虾	hai xia	0
+海蛎	hai li	0
+海蛎壳	hai li ke	0
+海蜇	hai zhe	0
+海蜇皮	hai zhe pi	0
+海蜇头	hai zhe tou	0
+海蜇子	hai zhe zi	0
+海鲶鱼	hai nian yu	0
+海鳝鱼	hai shan yu	0
+韩国螺	han guo luo	0
+和乐蟹	he le xie	0
+河刀鱼	he dao yu	0
+河虾	he xia	0
+河蟹	he xie	0
+河蚬	he xian	0
+河鳗	he man	0
+黑口螺	hei kou luo	0
+黑牛眼	hei niu yan	0
+黑色鱼	hei se yu	0
+黑鱼	hei yu	0
+黑鲷	hei diao	0
+红贝	hong bei	0
+红刀鱼	hong dao yu	0
+红花蟹	hong hua xie	0
+红口螺	hong kou luo	0
+红里罗	hong li luo	0
+红鲤	hong li	0
+红螺	hong luo	0
+红扇宝	hong shan bao	0
+红头鱼	hong tou yu	0
+红虾	hong xia	0
+红蟹	hong xie	0
+红鱼	hong yu	0
+红鱼子	hong yu zi	0
+厚皮螺	hou pi luo	0
+蝴蝶贝	hu die bei	0
+虎螺	hu luo	0
+虎皮贝	hu pi bei	0
+虎头鱼	hu tou yu	0
+花螺	hua luo	0
+花虾	hua xia	0
+花蟹	hua xie	0
+花鲢鱼头	hua lian yu tou	0
+黄花鱼	huang hua yu	0
+黄螺	huang luo	0
+黄山鱼	huang shan yu	0
+黄鱼	huang yu	0
+黄鳝	huang shan	0
+黄鳝肉	huang shan rou	0
+皇帝螺	huang di luo	0
+皇帝蟹	huang di xie	0
+皇冠螺	huang guan luo	0
+活大鲍	huo da bao	0
+活海参	huo hai shen	0
+活海肠	huo hai chang	0
+活甲鱼	huo jia yu	0
+活小鲍	huo xiao bao	0
+基围虾	ji wei xia	0
+基尾虾	ji wei xia	0
+鸡腿螺	ji tui luo	0
+加吉鱼	jia ji yu	0
+甲鱼	jia yu	0
+尖波螺	jian bo luo	0
+尖头鱼	jian tou yu	0
+尖尾螺	jian wei luo	0
+叫叫鱼	jiao jiao yu	0
+金枪鱼	jin qiang yu	0
+九兔鱼	jiu tu yu	0
+魁蚶	kui han	0
+辣波螺	la bo luo	0
+辣螺	la luo	0
+蓝鳍金枪鱼	lan qi jin qiang yu	0
+老板鱼	lao ban yu	0
+老虎斑鱼	lao hu ban yu	0
+凌鱼皮	ling yu pi	0
+龙虾	long xia	0
+龙虾仔	long xia zai	0
+龙虾仔	long xia zi	0
+龙须菜	long xu cai	0
+龙眼贝	long yan bei	0
+卢姑虾	lu gu xia	0
+卢鱼	lu yu	0
+鹿脚菜	lu jiao cai	0
+麻虾	ma xia	0
+麻蚬子	ma xian zi	0
+马蹄贝	ma ti bei	0
+马鲛鱼	ma jiao yu	0
+芒果贝	mang guo bei	0
+芒果螺	mang guo luo	0
+毛海红	mao hai hong	0
+毛虾	mao xia	0
+毛鲜子	mao xian zi	0
+毛蟹	mao xie	0
+毛蚬肉	mao xian rou	0
+毛蚶	mao han	0
+梅同鱼	mei tong yu	0
+梅鱼	mei yu	0
+美国红	mei guo hong	0
+面包蟹	mian bao xie	0
+面条鱼	mian tiao yu	0
+墨鱼	mo yu	0
+牡蛎	mu li	0
+目鱼	mu yu	0
+南美白对虾	nan mei bai dui xia	0
+泥蚶	ni han	0
+泥鳅	ni qiu	0
+鸟贝壳	niao bei ke	0
+鸟贝肉	niao bei rou	0
+牛蛙	niu wa	0
+排海螺	pai hai luo	0
+胖头鱼	pang tou yu	0
+皮匠鱼	pi jiang yu	0
+皮虾	pi xia	0
+偏定螺	pian ding luo	0
+七彩螺	qi cai luo	0
+青斑鱼	qing ban yu	0
+青蛤	qing ge	0
+青花蟹	qing hua xie	0
+青口贝	qing kou bei	0
+青虾	qing xia	0
+青蟹	qing xie	0
+青衣鱼	qing yi yu	0
+青鱼	qing yu	0
+青鱼子	qing yu zi	0
+扔巴鱼	reng ba yu	0
+日本鲟	ri ben xun	0
+三文鱼	san wen yu	0
+沙包螺	sha bao luo	0
+沙丁鱼	sha ding yu	0
+沙鲜肉	sha xian rou	0
+沙鱼	sha yu	0
+沙鱼肚	sha yu du	0
+沙鱼喉	sha yu hou	0
+沙鱼脑	sha yu nao	0
+沙鱼皮	sha yu pi	0
+扇贝	shan bei	0
+扇贝肉	shan bei rou	0
+生耗	sheng hao	0
+生蚝	sheng hao	0
+石斑鱼	shi ban yu	0
+石浆鱼	shi jiang yu	0
+石头蟹	shi tou xie	0
+水发参	shui fa can	0
+水发参	shui fa shen	0
+笋壳鱼	sun ke yu	0
+梭鱼	suo yu	0
+梭子蟹	suo zi xie	0
+塔螺	ta luo	0
+塘鲤鱼	tang li yu	0
+桃花虾	tao hua xia	0
+天鹅蛋	tian e dan	0
+田螺	tian luo	0
+田蟹	tian xie	0
+同乐鱼	tong le yu	0
+望潮	wang chao	0
+文蛤	wen ge	0
+文蛤带子	wen ge dai zi	0
+蜗牛螺	wo niu luo	0
+乌鲍螺	wu bao luo	0
+乌鱼	wu yu	0
+武士鲟	wu shi xun	0
+虾菇虾	xia gu xia	0
+虾仁	xia ren	0
+虾蛄	xia gu	0
+夏夷贝	xia yi bei	0
+先生鱼	xian sheng yu	0
+先生鱼肉	xian sheng yu rou	0
+鲜贝丁	xian bei ding	0
+鲜海蛰	xian hai zhe	0
+鲜鱼肚	xian yu du	0
+鲜鱼杂	xian yu za	0
+鲜紫菜	xian zi cai	0
+香波螺	xiang bo luo	0
+香螺	xiang luo	0
+象拔榜	xiang ba bang	0
+象拔蚌	xiang ba bang	0
+象鼻蚌	xiang bi beng	0
+象鼻蚌	xiang bi bang	0
+小鲍鱼	xiao bao yu	0
+小海波螺	xiao hai bo luo	0
+小海鲜	xiao hai xian	0
+小河虾	xiao he xia	0
+小红虾	xiao hong xia	0
+小黄鱼	xiao huang yu	0
+小姐贝	xiao jie bei	0
+小姐鱼	xiao jie yu	0
+小龙虾	xiao long xia	0
+小人鲜	xiao ren xian	0
+小嘴鱼	xiao zui yu	0
+小柽子	xiao cheng zi	0
+蟹黄	xie huang	0
+雄蚕鹅	xiong can e	0
+血螺	xue luo	0
+血螺	xie luo	0
+雅片鱼	ya pian yu	0
+尤鱼	you yu	0
+尤鱼须	you yu xu	0
+油螺	you luo	0
+鱼白	yu bai	0
+鱼肠	yu chang	0
+鱼肚	yu du	0
+鱼筋	yu jin	0
+玉螺	yu luo	0
+玉米螺	yu mi luo	0
+杂拌鱼	za ban yu	0
+章鱼	zhang yu	0
+蛰皮	zhe pi	0
+蛰头	zhe tou	0
+珍蛛蟹	zhen zhu xie	0
+蜘蛛蟹	zhi zhu xie	0
+竹节虾	zhu jie xia	0
+缢蛏	yi cheng	0
+柽子王	cheng zi wang	0
+柽子嘴	cheng zi zui	0
+贻贝	yi bei	0
+焖子	men zi	0
+蛏子	cheng zi	0
+蛏子王	cheng zi wang	0
+鰔鱼	gan yu	0
+鰔鱼	jian yu	0
+鱿鱼	you yu	0
+鲈鱼	lu yu	0
+鲨鱼	sha yu	0
+鲫鱼	ji yu	0
+鲮鲫鱼	ling ji yu	0
+鲳鱼	chang yu	0
+鲶鱼	nian yu	0
+鲷鱼	diao yu	0
+鳊鱼	bian yu	0
+鳓鱼	le yu	0
+鳜鱼	gui yu	0

@@ -1,0 +1,264 @@
+# 词库名称: 汽车品牌
+# 词库分类: 汽车 兴趣爱好
+# 词库描述: 汽车品牌
+# 词条样例: 奥迪、保时捷、北汽制造、本田、别克、长安、达夫、大宇、东风、法拉利
+# 词条数量: 256
+# 解析词数: 256
+# 解析异常: 0
+
+奥迪	ao di	0
+奥克斯	ao ke si	0
+奥拓	ao tuo	0
+保时捷	bao shi jie	0
+宝龙	bao long	0
+宝马	bao ma	0
+北汽制造	bei qi zhi zao	0
+奔驰	ben chi	0
+奔腾	ben teng	0
+本田	ben tian	0
+比亚迪	bi ya di	0
+标致	biao zhi	0
+别克	bie ke	0
+宾利	bin li	0
+昌河	chang he	0
+长安	chang an	0
+长城	chang cheng	0
+长丰	chang feng	0
+达夫	da fu	0
+大迪	da di	0
+大发	da fa	0
+大宇	da yu	0
+大众	da zhong	0
+道奇	dao qi	0
+东风	dong feng	0
+东风日产	dong feng ri chan	0
+东南	dong nan	0
+法拉利	fa la li	0
+菲亚特	fei ya te	0
+丰田	feng tian	0
+风行	feng xing	0
+福迪	fu di	0
+福特	fu te	0
+福田	fu tian	0
+广汽	guang qi	0
+哈飞	ha fei	0
+海马	hai ma	0
+悍马	han ma	0
+黑豹	hei bao	0
+红旗	hong qi	0
+华普	hua pu	0
+华泰	hua tai	0
+黄海	huang hai	0
+吉奥	ji ao	0
+吉利	ji li	0
+吉普	ji pu	0
+江淮	jiang huai	0
+江铃	jiang ling	0
+江南	jiang nan	0
+捷豹	jie bao	0
+解放	jie fang	0
+金杯	jin bei	0
+金龙	jin long	0
+精灵	jing ling	0
+凯迪拉克	kai di la ke	0
+克莱斯勒	ke lai si le	0
+蓝旗亚	lan qi ya	0
+兰博基尼	lan bo ji ni	0
+劳斯莱斯	lao si lai si	0
+雷诺	lei nuo	0
+力帆	li fan	0
+莲花	lian hua	0
+林肯	lin ken	0
+铃木	ling mu	0
+路虎	lu hu	0
+陆风	lu feng	0
+罗孚	luo fu	0
+玛莎拉蒂	ma sha la di	0
+马自达	ma zi da	0
+迈巴赫	mai ba he	0
+美亚	mei ya	0
+摩根	mo gen	0
+南亚	nan ya	0
+欧宝	ou bao	0
+帕加尼	pa jia ni	0
+庞蒂亚克	pang di ya ke	0
+奇瑞	qi rui	0
+起亚	qi ya	0
+庆铃	qing ling	0
+全球鹰	quan qiu ying	0
+日产	ri chan	0
+荣威	rong wei	0
+瑞麒	rui qi	0
+萨博	sa bo	0
+三菱	san ling	0
+世爵	shi jue	0
+双环	shuang huan	0
+双龙	shuang long	0
+斯巴鲁	si ba lu	0
+斯柯达	si ke da	0
+天津一汽	tian jin yi qi	0
+天马	tian ma	0
+万丰	wan feng	0
+沃尔沃	wo er wo	0
+五菱	wu ling	0
+西亚特	xi ya te	0
+厦门金龙	xia men jin long	0
+现代	xian dai	0
+新凯	xin kai	0
+雪佛兰	xue fu lan	0
+雪铁龙	xue tie long	0
+野马	ye ma	0
+一汽解放	yi qi jie fang	0
+依维柯	yi wei ke	0
+英菲尼迪	ying fei ni di	0
+宇通	yu tong	0
+郑州日产	zheng zhou ri chan	0
+中华	zhong hua	0
+中顺	zhong shun	0
+中兴	zhong xing	0
+众泰	zhong tai	0
+讴歌	ou ge	0
+安驰	an chi	0
+安凯	an kai	0
+安源	an yuan	0
+宝骏	bao jun	0
+保斐利	bao fei li	0
+北京牌	bei jing pai	0
+北京绅宝	bei jing shen bao	0
+北奔重汽	bei ben zhong qi	0
+北方	bei fang	0
+北方奔驰	bei fang ben chi	0
+北汽威旺	bei qi wei wang	0
+北汽幻速	bei qi huan su	0
+北汽新能源	bei qi xin neng yuan	0
+北汽皮卡	bei qi pi ka	0
+巴博斯	ba bo si	0
+布嘉迪	bu jia di	0
+百路佳	bai lu jia	0
+成功汽车	cheng gong qi che	0
+川汽野马	chuan qi ye ma	0
+叉车川牧	cha che chuan mu	0
+长安客车	chang an ke che	0
+长安跨越	chang an kua yue	0
+长安重汽	chang an zhong qi	0
+长征	chang zheng	0
+东风小康	dong feng xiao kang	0
+大通	da tong	0
+帝豪	di hao	0
+东风风神	dong feng feng shen	0
+东沃	dong wo	0
+东风商用车	dong feng shang yong che	0
+东风柳汽	dong feng liu qi	0
+东风风度	dong feng feng du	0
+大宇客车	da yu ke che	0
+大运汽车	da yun qi che	0
+福汽启腾	fu qi qi teng	0
+福田客车	fu tian ke che	0
+光冈	guang gang	0
+贵州云雀	gui zhou yun que	0
+广东三星	guang dong san xing	0
+广汽客车	guang qi ke che	0
+广汽日野	guang qi ri ye	0
+广汽菲克	guang qi fei ke	0
+广通观致	guang tong guan zhi	0
+华翔富奇	hua xiang fu qi	0
+航天	hang tian	0
+华菱合客	hua ling he ke	0
+恒天	heng tian	0
+恒通	heng tong	0
+海格	hai ge	0
+红岩	hong yan	0
+衡山	heng shan	0
+黄海卡车	huang hai ka che	0
+黄海客车	huang hai ke che	0
+金程车工	jin cheng che gong	0
+九龙加油车	jiu long jia you che	0
+吉林通田	ji lin tong tian	0
+嘉川汽车	jia chuan qi che	0
+江淮客车	jiang huai ke che	0
+江铃货车	jiang ling huo che	0
+精功汽车	jing gong qi che	0
+金杯货车	jin bei huo che	0
+开瑞	kai rui	0
+凯翼	kai yi	0
+凯马	kai ma	0
+卡威	ka wei	0
+卡尔森	ka er sen	0
+卡特彼勒	ka te bi le	0
+康迪	kang di	0
+开瑞绿	kai rui lv	0
+卡柯尼赛格	ka ke ni sai ge	0
+雷克	lei ke	0
+萨斯	sa si	0
+理念	li nian	0
+力帆时骏	li fan shi jun	0
+力帆骏马	li fan jun ma	0
+劳伦士	lao lun shi	0
+流动售货车	liu dong shou huo che	0
+联合卡车	lian he ka che	0
+路特斯	lu te si	0
+雷丁	lei ding	0
+曼牡丹	man mu dan	0
+迈凯伦	mai kai lun	0
+南汽新雅途	nan qi xin ya tu	0
+纳智捷	na zhi jie	0
+南京依维柯	nan jing yi wei ke	0
+南骏	nan jun	0
+女神	nv shen	0
+欧朗	ou lang	0
+平地机	ping di ji	0
+启辰	qi chen	0
+如虎	ru hu	0
+思铭申龙	si ming shen long	0
+上海汇众	shang hai hui zhong	0
+陕汽德龙	shan qi de long	0
+上汽仪征	shang qi yi zheng	0
+三环	san huan	0
+上饶	shang rao	0
+四川现代	si chuan xian dai	0
+少林	shao lin	0
+斯堪尼亚	si kan ni ya	0
+斯达泰克	si da tai ke	0
+时代	shi dai	0
+时风水泥罐车	shi feng shui ni guan che	0
+申沃客车	shen wo ke che	0
+舒驰蜀都	shu chi shu du	0
+陕汽华山	shan qi hua shan	0
+陕汽通家	shan qi tong jia	0
+唐骏汽车	tang jun qi che	0
+推土机	tui tu ji	0
+泰卡特	tai ka te	0
+特斯拉	te si la	0
+威麟	wei lin	0
+威兹曼	wei zi man	0
+五十铃货车	wu shi ling huo che	0
+五征	wu zheng	0
+五洲龙	wu zhou long	0
+潍柴汽车	wei chai qi che	0
+王牌	wang pai	0
+西安	xi an	0
+新大地	xin da di	0
+徐工汽车	xu gong qi che	0
+新龙马	xin long ma	0
+西沃客车	xi wo ke che	0
+一汽跃进	yi qi yue jin	0
+一汽通用	yi qi tong yong	0
+英伦	ying lun	0
+永源	yong yuan	0
+一汽客车	yi qi ke che	0
+一汽柳特	yi qi liu te	0
+亚星	ya xing	0
+压路机	ya lu ji	0
+友谊	you yi	0
+扬子江	yang zi jiang	0
+油罐车	you guan che	0
+英田	ying tian	0
+中通	zhong tong	0
+中客华北	zhong ke hua bei	0
+中国重汽	zhong guo zhong qi	0
+中大	zhong da	0
+中欧	zhong ou	0
+浙江卡尔森	zhe jiang ka er sen	0
+知豆电动车	zhi dou dian dong che	0
+装载机	zhuang zai ji	0
+重汽王牌	zhong qi wang pai	0
