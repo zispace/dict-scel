@@ -1,0 +1,173 @@
+# 词库名称: 军棋
+# 词库分类: 棋牌 休闲娱乐
+# 词库描述: 军棋术语、属性及各种兵种名字等
+# 词条样例: 暗棋、布局、抽签、出舰、错棋、大本营、等着、敌我双方、地雷、对弈
+# 词条数量: 165
+# 解析词数: 165
+# 解析异常: 0
+
+暗棋	an qi	0
+暗式	an shi	0
+白方	bai fang	0
+布局	bu ju	0
+步兵团	bu bing tuan	0
+残局	can ju	0
+抽签	chou qian	0
+出海	chu hai	0
+出机	chu ji	0
+出舰	chu jian	0
+出军	chu jun	0
+出师	chu shi	0
+错棋	cuo qi	0
+打斜弹	da xie tan	0
+打斜弹	da xie dan	0
+打直弹	da zhi tan	0
+打直弹	da zhi dan	0
+大本营	da ben ying	0
+弹队	tan dui	0
+弹队	dan dui	0
+登陆	deng lu	0
+等着	deng zhe	0
+敌方	di fang	0
+敌国	di guo	0
+敌我双方	di wo shuang fang	0
+底线	di xian	0
+地海	di hai	0
+地雷	di lei	0
+堵截	du jie	0
+对局	dui ju	0
+对弈	dui yi	0
+翻棋	fan qi	0
+废棋	fei qi	0
+工兵	gong bing	0
+公路线	gong lu xian	0
+规定布阵法	gui ding bu zhen fa	0
+国界	guo jie	0
+国王	guo wang	0
+海岸线	hai an xian	0
+海洋	hai yang	0
+航海线	hang hai xian	0
+和棋	he qi	0
+黑方	hei fang	0
+轰王	hong wang	0
+红方	hong fang	0
+后方	hou fang	0
+后方布阵法	hou fang bu zhen fa	0
+护卫	hu wei	0
+花招	hua zhao	0
+回机	hui ji	0
+回舰	hui jian	0
+回军	hui jun	0
+回师	hui shi	0
+回团	hui tuan	0
+回王	hui wang	0
+回卫	hui wei	0
+悔棋	hui qi	0
+机出国	ji chu guo	0
+机队	ji dui	0
+机攻	ji gong	0
+机回国	ji hui guo	0
+机右	ji you	0
+机左	ji zuo	0
+集团军	ji tuan jun	0
+急所	ji suo	0
+己兵	ji bing	0
+己国	ji guo	0
+舰出国	jian chu guo	0
+舰队	jian dui	0
+舰攻	jian gong	0
+舰回国	jian hui guo	0
+舰收	jian shou	0
+舰右	jian you	0
+舰左	jian zuo	0
+军长	jun zhang	0
+军出国	jun chu guo	0
+军攻	jun gong	0
+军回国	jun hui guo	0
+军旗	jun qi	0
+军收	jun shou	0
+军右	jun you	0
+军左	jun zuo	0
+开局	kai ju	0
+空降	kong jiang	0
+空降空投	kong jiang kong tou	0
+空中插刀	kong zhong cha dao	0
+控盘	kong pan	0
+跨吃	kua chi	0
+跨飞	kua fei	0
+跨海	kua hai	0
+拦截	lan jie	0
+肋线	lei xian	0
+肋线	le xian	0
+连长	lian zhang	0
+令子	ling zi	0
+陆地	lu di	0
+陆地布阵法	lu di bu zhen fa	0
+旅长	lv zhang	0
+绿方	lv fang	0
+明棋	ming qi	0
+明式	ming shi	0
+内陆	nei lu	0
+排长	pai zhang	0
+盘棋	pan qi	0
+骗招	pian zhao	0
+起着	qi zhe	0
+前方	qian fang	0
+前线	qian xian	0
+强子	qiang zi	0
+擒王	qin wang	0
+弱子	ruo zi	0
+闪电	shan dian	0
+闪躲	shan duo	0
+上团	shang tuan	0
+上王	shang wang	0
+上卫	shang wei	0
+胜定	sheng ding	0
+胜利	sheng li	0
+胜势	sheng shi	0
+师长	shi zhang	0
+师攻	shi gong	0
+师收	shi shou	0
+失败	shi bai	0
+实招	shi zhao	0
+竖棋	shu qi	0
+司令	si ling	0
+梯形布阵法	ti xing bu zhen fa	0
+天兵下凡	tian bing xia fan	0
+铁路	tie lu	0
+团长	tuan zhang	0
+团攻	tuan gong	0
+团收	tuan shou	0
+团右	tuan you	0
+团左	tuan zuo	0
+王吞	wang tun	0
+王右	wang you	0
+王左	wang zuo	0
+卫队	wei dui	0
+卫吞	wei tun	0
+卫右	wei you	0
+卫左	wei zuo	0
+我海	wo hai	0
+先头部队	xian tou bu dui	0
+闲着	xian zhe	0
+现代布阵法	xian dai bu zhen fa	0
+虚招	xu zhao	0
+沿海	yan hai	0
+掩护攻杀	yan hu gong sha	0
+营长	ying zhang	0
+营救	ying jiu	0
+元首	yuan shou	0
+越海	yue hai	0
+炸弹	zha dan	0
+炸王	zha wang	0
+阵法	zhen fa	0
+阵式	zhen shi	0
+中局	zhong ju	0
+中线	zhong xian	0
+主席	zhu xi	0
+主席府	zhu xi fu	0
+转移	zhuan yi	0
+装甲师	zhuang jia shi	0
+总统	zong tong	0
+总统府	zong tong fu	0
+左攻右攻	zuo gong you gong	0
