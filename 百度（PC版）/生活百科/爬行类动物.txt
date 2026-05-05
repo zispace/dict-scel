@@ -1,0 +1,1173 @@
+# 词库名称: 爬行类动物
+# 词库分类: 水蛇 巨蜥 乌龟 地龟 光蜥 沙蟒 丽龟 花龟
+# 词库作者: 天字007
+# 词库描述: 介绍爬行类动物的词库。
+# 词条数量: 1165
+# 解析词数: 1182
+# 解析异常: 17
+
+鼋	yuan	0
+鳖	bie	0
+水蛇	shui she	0
+巨蜥	ju xi	0
+乌龟	wu gui	0
+地龟	di gui	0
+地龟	de gui	0
+地龟	di jun	0
+地龟	di qiu	0
+地龟	de jun	0
+地龟	de qiu	0
+光蜥	guang xi	0
+沙蟒	sha mang	0
+沙蟒	sha meng	0
+丽龟	li gui	0
+丽龟	li jun	0
+丽龟	li qiu	0
+花龟	hua gui	0
+花龟	hua jun	0
+花龟	hua qiu	0
+岛蜥	dao xi	0
+龟科	gui ke	0
+龟科	jun ke	0
+龟科	qiu ke	0
+侏蜥	zhu xi	0
+玳瑁	dai mao	0
+海龟	hai gui	0
+海蝰	hai kui	0
+蛇目	she mu	0
+蛇目	yi mu	0
+游蛇	you she	0
+棱蜥	leng xi	0
+棱蜥	ling xi	0
+鼋属	yuan shu	0
+鼋属	yuan zhu	0
+睑虎	jian hu	0
+蝎虎	xie hu	0
+蝰科	kui ke	0
+蝰属	kui shu	0
+蝰属	kui zhu	0
+蝮科	fu ke	0
+蝮属	fu shu	0
+蝮属	fu zhu	0
+蟒科	meng ke	0
+蟒蛇	mang she	0
+蟒属	mang shu	0
+蟒属	meng shu	0
+蟒属	mang zhu	0
+蟒属	meng zhu	0
+鳄目	e mu	0
+鳄蜥	e xi	0
+鳖科	bie ke	0
+鳖属	bie shu	0
+鳖属	bie zhu	0
+大盲蛇	dai mang she	0
+大盲蛇	tai mang she	0
+大壁虎	da bi hu	0
+大壁虎	dai bi hu	0
+大壁虎	tai bi hu	0
+小头蛇	xiao tou she	0
+小头蛇	xiao tou yi	0
+山坭蛇	shan ni she	0
+山坭蛇	shan ni yi	0
+山滑蜥	shan hua xi	0
+山瑞鳖	shan rui bie	0
+千山蝮	qian shan fu	0
+飞蜥属	fei xi shu	0
+飞蜥属	fei xi zhu	0
+王锦蛇	wang jin she	0
+王锦蛇	wang jin yi	0
+水蛇属	shui she shu	0
+水蛇属	shui she zhu	0
+巨蜥科	ju xi ke	0
+长棘蜥	chang ji xi	0
+长棘蜥	zhang ji xi	0
+长鬣蜥	chang lie xi	0
+长鬣蜥	zhang lie xi	0
+中介蝮	zhong jie fu	0
+乌龟属	wu gui shu	0
+乌龟属	wu gui zhu	0
+乌梢蛇	wu shao she	0
+石龙子	shi long zi	0
+龙蜥属	long xi shu	0
+龙蜥属	long xi zhu	0
+平胸龟	ping xiong gui	0
+平胸龟	ping xiong jun	0
+平胸龟	ping xiong qiu	0
+北草蜥	bei cao xi	0
+闪鳞蛇	shan lin she	0
+闪鳞蛇	shan lin yi	0
+白头蝰	bai tou kui	0
+白环蛇	bai huan she	0
+白环蛇	bai huan yi	0
+白链蛇	bai lian she	0
+白链蛇	bai lian yi	0
+过树蛇	guo shu she	0
+过树蛇	guo shu yi	0
+灰鼠蛇	hui shu she	0
+灰鼠蛇	hui shu yi	0
+地龟属	di gui shu	0
+地龟属	de gui shu	0
+地龟属	di jun shu	0
+地龟属	di qiu shu	0
+地龟属	di gui zhu	0
+地龟属	de jun shu	0
+地龟属	de qiu shu	0
+地龟属	de gui zhu	0
+地龟属	di jun zhu	0
+地龟属	di qiu zhu	0
+地龟属	de jun zhu	0
+地龟属	de qiu zhu	0
+地蜥属	di xi shu	0
+地蜥属	de xi shu	0
+地蜥属	di xi zhu	0
+地蜥属	de xi zhu	0
+异鳞蜥	yi lin xi	0
+竹叶青	zhu ye qing	0
+华游蛇	hua you she	0
+光蜥属	guang xi shu	0
+光蜥属	guang xi zhu	0
+尖吻蝮	jian wen fu	0
+尖喙蛇	jian hui she	0
+尖喙蛇	jian hui yi	0
+沙虎属	sha hu shu	0
+沙虎属	sha hu zhu	0
+沙蜥属	sha xi shu	0
+沙蜥属	sha xi zhu	0
+沙蟒属	sha mang shu	0
+沙蟒属	sha meng shu	0
+沙蟒属	sha mang zhu	0
+沙蟒属	sha meng zhu	0
+丽龟属	li gui shu	0
+丽龟属	li jun shu	0
+丽龟属	li qiu shu	0
+丽龟属	li gui zhu	0
+丽龟属	li jun zhu	0
+丽龟属	li qiu zhu	0
+丽纹蛇	li wen she	0
+丽纹蛇	li wen yi	0
+丽棘蜥	li ji xi	0
+扬子鳄	yang zi e	0
+极北蝰	ji bei kui	0
+赤链蛇	chi lian she	0
+赤链蛇	chi lian yi	0
+陆龟科	lu gui ke	0
+陆龟属	lu gui shu	0
+陆龟属	lu gui zhu	0
+花条蛇	hua tiao she	0
+花条蛇	hua tiao yi	0
+花龟属	hua gui shu	0
+花龟属	hua jun shu	0
+花龟属	hua qiu shu	0
+花龟属	hua gui zhu	0
+花龟属	hua jun zhu	0
+花龟属	hua qiu zhu	0
+岛蜥属	dao xi shu	0
+岛蜥属	dao xi zhu	0
+龟鳖目	gui bie mu	0
+盲蛇科	mang she ke	0
+盲蛇属	mang she shu	0
+盲蛇属	mang she zhu	0
+青脊蛇	qing ji she	0
+青脊蛇	qing ji yi	0
+环蛇属	huan she shu	0
+环蛇属	huan yi shu	0
+环蛇属	huan she zhu	0
+环蛇属	huan yi zhu	0
+林蛇属	lin she shu	0
+林蛇属	lin yi shu	0
+林蛇属	lin she zhu	0
+林蛇属	lin yi zhu	0
+坭蛇属	ni she shu	0
+坭蛇属	ni yi shu	0
+坭蛇属	ni she zhu	0
+坭蛇属	ni yi zhu	0
+侏蜥属	zhu xi shu	0
+侏蜥属	zhu xi zhu	0
+金花蛇	jin hua she	0
+金花蛇	jin hua yi	0
+金环蛇	jin huan she	0
+扁尾蛇	bian wei she	0
+扁尾蛇	pian wei she	0
+扁尾蛇	bian yi she	0
+扁尾蛇	bian wei yi	0
+扁尾蛇	pian yi she	0
+扁尾蛇	pian wei yi	0
+扁尾蛇	bian yi yi	0
+扁尾蛇	pian yi yi	0
+南草蜥	nan cao xi	0
+南滑蜥	nan hua xi	0
+南滑蜥	na hua xi	0
+南蜥属	nan xi shu	0
+南蜥属	na xi shu	0
+南蜥属	nan xi zhu	0
+南蜥属	na xi zhu	0
+玳瑁属	dai mao shu	0
+玳瑁属	dai mao zhu	0
+树蜥属	shu xi shu	0
+树蜥属	shu xi zhu	0
+草原蝰	cao yuan kui	0
+草蜥属	cao xi shu	0
+草蜥属	cao xi zhu	0
+钝头蛇	dun tou she	0
+钝头蛇	dun tou yi	0
+钩盲蛇	gou mang she	0
+海龟科	hai gui ke	0
+海龟属	hai gui shu	0
+海龟属	hai gui zhu	0
+海蛇科	hai she ke	0
+海蛇属	hai she shu	0
+海蛇属	hai she zhu	0
+海蝰属	hai kui shu	0
+海蝰属	hai kui zhu	0
+高原蝮	gao yuan fu	0
+珠光蛇	zhu guang she	0
+珠光蛇	zhu guang yi	0
+圆斑蝰	yuan ban kui	0
+烙铁头	lao tie tou	0
+粉链蛇	fen lian she	0
+粉链蛇	fen lian yi	0
+脊蛇属	ji she shu	0
+脊蛇属	ji yi shu	0
+脊蛇属	ji she zhu	0
+脊蛇属	ji yi zhu	0
+脆蛇蜥	cui she xi	0
+脆蛇蜥	cui yi xi	0
+渔游蛇	yu you she	0
+麻蜥属	ma xi shu	0
+麻蜥属	ma xi zhu	0
+颈斑蛇	jing ban she	0
+颈斑蛇	geng ban she	0
+颈斑蛇	jing ban yi	0
+颈斑蛇	geng ban yi	0
+颈棱蛇	jing leng she	0
+颈棱蛇	geng leng she	0
+颈棱蛇	jing ling she	0
+颈棱蛇	jing leng yi	0
+颈棱蛇	geng ling she	0
+颈棱蛇	geng leng yi	0
+颈棱蛇	jing ling yi	0
+颈棱蛇	geng ling yi	0
+颈槽蛇	jing cao she	0
+颈槽蛇	geng cao she	0
+颈槽蛇	jing cao yi	0
+颈槽蛇	geng cao yi	0
+雪山蝮	xue shan fu	0
+捷蜥蜴	jie xi yi	0
+黄链蛇	huang lian she	0
+黄链蛇	huang lian yi	0
+蛇蜥科	she xi ke	0
+蛇蜥科	yi xi ke	0
+眼镜蛇	yan jing she	0
+银环蛇	yin huan she	0
+斜鳞蛇	xie lin she	0
+斜鳞蛇	xie lin yi	0
+敏麻蜥	min ma xi	0
+绿林蛇	lv lin she	0
+绿林蛇	lu lin she	0
+绿林蛇	lv lin yi	0
+绿林蛇	lu lin yi	0
+绿锦蛇	lv jin she	0
+绿锦蛇	lu jin she	0
+绿锦蛇	lv jin yi	0
+绿锦蛇	lu jin yi	0
+绿瘦蛇	lv shou she	0
+绿瘦蛇	lv shou yi	0
+温泉蛇	wen quan she	0
+温泉蛇	wen quan yi	0
+滑蜥属	hua xi shu	0
+滑蜥属	hua xi zhu	0
+滑鼠蛇	hua shu she	0
+滑鼠蛇	hua shu yi	0
+滑鳞蛇	hua lin she	0
+滑鳞蛇	hua lin yi	0
+游蛇科	you she ke	0
+游蛇属	you she shu	0
+游蛇属	you she zhu	0
+斑飞蜥	ban fei xi	0
+棕脊蛇	zong ji yi	0
+棱皮龟	leng pi gui	0
+棱皮龟	ling pi gui	0
+棱皮龟	leng pi jun	0
+棱皮龟	leng pi qiu	0
+棱皮龟	ling pi jun	0
+棱皮龟	ling pi qiu	0
+棱蜥属	leng xi shu	0
+棱蜥属	ling xi shu	0
+棱蜥属	leng xi zhu	0
+棱蜥属	ling xi zhu	0
+棘蜥属	ji xi shu	0
+棘蜥属	ji xi zhu	0
+睑虎属	jian hu shu	0
+睑虎属	jian hu zhu	0
+喉褶蜥	hou zhe xi	0
+紫沙蛇	zi sha she	0
+紫沙蛇	zi sha yi	0
+黑环蛇	hei huan she	0
+黑环蛇	hei huan yi	0
+黑眉蝮	hei mei fu	0
+黑脊蛇	hei ji she	0
+黑脊蛇	hei ji yi	0
+短尾蝮	duan wei fu	0
+筒蛇科	tong she ke	0
+筒蛇科	tong yi ke	0
+筒蛇属	tong she shu	0
+筒蛇属	tong yi shu	0
+筒蛇属	tong she zhu	0
+筒蛇属	tong yi zhu	0
+链蛇属	lian she shu	0
+链蛇属	lian yi shu	0
+链蛇属	lian she zhu	0
+链蛇属	lian yi zhu	0
+滇西蛇	dian xi she	0
+滇西蛇	dian xi yi	0
+漠虎属	mo hu shu	0
+漠虎属	mo hu zhu	0
+鼠蛇属	shu she shu	0
+鼠蛇属	shu yi shu	0
+鼠蛇属	shu she zhu	0
+鼠蛇属	shu yi zhu	0
+瘦蛇属	shou she shu	0
+瘦蛇属	shou yi shu	0
+瘦蛇属	shou she zhu	0
+瘦蛇属	shou yi zhu	0
+截趾虎	jie zhi hu	0
+翠青蛇	cui qing she	0
+翠青蛇	cui qing yi	0
+蜡皮蜥	la pi xi	0
+蜡皮蜥	zha pi xi	0
+蜥虎属	xi hu shu	0
+蜥虎属	xi hu zhu	0
+蜥蜴目	xi yi mu	0
+蜥蜴科	xi yi ke	0
+蜥蜴属	xi yi shu	0
+蜥蜴属	xi yi zhu	0
+蝎虎属	xie hu shu	0
+蝎虎属	xie hu zhu	0
+瘰鳞蛇	luo lin yi	0
+壁虎科	bi hu ke	0
+壁虎属	bi hu shu	0
+壁虎属	bi hu zhu	0
+鳄蜥科	e xi ke	0
+鬣蜥属	lie xi shu	0
+鬣蜥属	lie xi zhu	0
+三索锦蛇	san suo jin she	0
+三索锦蛇	san suo jin yi	0
+大头乌龟	da tou wu gui	0
+大耳沙蜥	da er sha xi	0
+小头坭蛇	xiao tou ni she	0
+小头坭蛇	xiao tou ni yi	0
+小头海蛇	xiao tou hai she	0
+小头蛇属	xiao tou she shu	0
+小头蛇属	xiao tou yi shu	0
+小头蛇属	xiao tou she zhu	0
+小头蛇属	xiao tou yi zhu	0
+山地麻蜥	shan di ma xi	0
+山烙铁头	shan lao tie tou	0
+山瑞鳖属	shan rui bie shu	0
+山瑞鳖属	shan rui bie zhu	0
+太白壁虎	tai bai bi hu	0
+无蹼壁虎	wu pu bi hu	0
+云南龙蜥	yun nan long xi	0
+长吻海蛇	chang wen hai she	0
+长肢龙蜥	chang zhi long xi	0
+长肢龙蜥	zhang zhi long xi	0
+长肢滑蜥	chang zhi hua xi	0
+长肢滑蜥	zhang zhi hua xi	0
+长尾南蜥	chang wei nan xi	0
+长尾南蜥	chang wei na xi	0
+长弯脚虎	chang wan jiao hu	0
+长弯脚虎	zhang wan jiao hu	0
+长弯脚虎	chang wan jue hu	0
+长弯脚虎	zhang wan jue hu	0
+长鬣蜥属	chang lie xi shu	0
+长鬣蜥属	zhang lie xi shu	0
+长鬣蜥属	chang lie xi zhu	0
+长鬣蜥属	zhang lie xi zhu	0
+中国壁虎	zhong guo bi hu	0
+双足蜥科	shuang zu xi ke	0
+双斑锦蛇	shuang ban jin she	0
+双斑锦蛇	shuang ban jin yi	0
+乌苏里蝮	wu su li fu	0
+乌环蛇属	wu huan she shu	0
+乌环蛇属	wu huan yi shu	0
+乌环蛇属	wu huan she zhu	0
+乌环蛇属	wu huan yi zhu	0
+乌梢蛇属	wu shao she shu	0
+乌梢蛇属	wu shao she zhu	0
+宁波滑蜥	ning bo hua xi	0
+兰屿龙蜥	lan yu long xi	0
+兰屿壁虎	lan yu bi hu	0
+石龙子科	shi long zi ke	0
+石龙子属	shi long zi shu	0
+石龙子属	shi long zi zhu	0
+东疆沙蜥	dong jiang sha xi	0
+平胸龟科	ping xiong gui ke	0
+平胸龟科	ping xiong jun ke	0
+平胸龟科	ping xiong qiu ke	0
+平胸龟属	ping xiong gui shu	0
+平胸龟属	ping xiong jun shu	0
+平胸龟属	ping xiong qiu shu	0
+平胸龟属	ping xiong gui zhu	0
+平胸龟属	ping xiong jun zhu	0
+平胸龟属	ping xiong qiu zhu	0
+平颏海蛇	ping ke hai she	0
+平鳞树蜥	ping lin shu xi	0
+凹甲陆龟	ao jia lu gui	0
+凹甲陆龟	wa jia lu gui	0
+四川龙蜥	si chuan long xi	0
+四爪陆龟	si zhua lu gui	0
+四爪陆龟	si zhao lu gui	0
+闪鳞蛇科	shan lin she ke	0
+闪鳞蛇科	shan lin yi ke	0
+闪鳞蛇属	shan lin she shu	0
+闪鳞蛇属	shan lin yi shu	0
+闪鳞蛇属	shan lin she zhu	0
+闪鳞蛇属	shan lin yi zhu	0
+叶城沙蜥	ye cheng sha xi	0
+白头盲蛇	bai tou mang she	0
+白头蝰属	bai tou kui shu	0
+白头蝰属	bai tou kui zhu	0
+白条沙蜥	bai tiao sha xi	0
+白环蛇属	bai huan she shu	0
+白环蛇属	bai huan yi shu	0
+白环蛇属	bai huan she zhu	0
+白环蛇属	bai huan yi zhu	0
+白条草蜥	bai tiao cao xi	0
+白唇树蜥	bai chun shu xi	0
+白眶游蛇	bai kuang you she	0
+台湾龙蜥	tai wan long xi	0
+台湾地蜥	tai wan di xi	0
+台湾地蜥	tai wan de xi	0
+台湾草蜥	tai wan cao xi	0
+台湾脊蛇	tai wan ji she	0
+台湾脊蛇	tai wan ji yi	0
+台湾滑蜥	tai wan hua xi	0
+玉斑锦蛇	yu ban jin she	0
+玉斑锦蛇	yu ban jin yi	0
+米仓龙蜥	mi cang long xi	0
+过树蛇属	guo shu she shu	0
+过树蛇属	guo shu yi shu	0
+过树蛇属	guo shu she zhu	0
+过树蛇属	guo shu yi zhu	0
+西域沙虎	xi yu sha hu	0
+西藏沙蜥	xi zang sha xi	0
+西藏树蜥	xi zang shu xi	0
+耳疣壁虎	er you bi hu	0
+百花锦蛇	bai hua jin she	0
+百花锦蛇	bai hua jin yi	0
+灰弯脚虎	hui wan jiao hu	0
+灰弯脚虎	hui wan jue hu	0
+异鳞蜥属	yi lin xi shu	0
+异鳞蜥属	yi lin xi zhu	0
+团花锦蛇	tuan hua jin she	0
+团花锦蛇	tuan hua jin yi	0
+虫纹麻蜥	chong wen ma xi	0
+闭壳龟属	bi ke gui shu	0
+闭壳龟属	bi qiao gui shu	0
+闭壳龟属	bi ke jun shu	0
+闭壳龟属	bi ke qiu shu	0
+闭壳龟属	bi ke gui zhu	0
+闭壳龟属	bi qiao jun shu	0
+闭壳龟属	bi qiao qiu shu	0
+闭壳龟属	bi qiao gui zhu	0
+闭壳龟属	bi ke jun zhu	0
+闭壳龟属	bi ke qiu zhu	0
+闭壳龟属	bi qiao jun zhu	0
+闭壳龟属	bi qiao qiu zhu	0
+华游蛇属	hua you she shu	0
+华游蛇属	hua you she zhu	0
+伊江巨蜥	yi jiang ju xi	0
+伊犁沙虎	yi li sha hu	0
+尖吻蝮属	jian wen fu shu	0
+尖吻蝮属	jian wen fu zhu	0
+尖喙蛇属	jian hui she shu	0
+尖喙蛇属	jian hui yi shu	0
+尖喙蛇属	jian hui she zhu	0
+尖喙蛇属	jian hui yi zhu	0
+多线南蜥	duo xian nan xi	0
+多线南蜥	duo xian na xi	0
+多疣壁虎	duo you bi hu	0
+多棱南蜥	duo leng nan xi	0
+多棱南蜥	duo leng na xi	0
+后棱蛇属	hou leng she shu	0
+后棱蛇属	hou ling she shu	0
+后棱蛇属	hou leng yi shu	0
+后棱蛇属	hou leng she zhu	0
+后棱蛇属	hou ling yi shu	0
+后棱蛇属	hou ling she zhu	0
+后棱蛇属	hou leng yi zhu	0
+后棱蛇属	hou ling yi zhu	0
+红点锦蛇	hong dian jin she	0
+红点锦蛇	hong dian jin yi	0
+红尾沙蜥	hong wei sha xi	0
+红尾沙蜥	gong wei sha xi	0
+红尾沙蜥	hong yi sha xi	0
+红尾沙蜥	gong yi sha xi	0
+红尾筒蛇	hong wei tong she	0
+红尾筒蛇	gong wei tong she	0
+红尾筒蛇	hong yi tong she	0
+红尾筒蛇	hong wei tong yi	0
+红尾筒蛇	gong yi tong she	0
+红尾筒蛇	gong wei tong yi	0
+红尾筒蛇	hong yi tong yi	0
+红尾筒蛇	gong yi tong yi	0
+丽纹龙蜥	li wen long xi	0
+丽纹蛇属	li wen she shu	0
+丽纹蛇属	li wen yi shu	0
+丽纹蛇属	li wen she zhu	0
+丽纹蛇属	li wen yi zhu	0
+丽斑麻蜥	li ban ma xi	0
+拟水龟属	ni shui gui shu	0
+拟水龟属	ni shui gui zhu	0
+两头蛇属	liang tou she shu	0
+两头蛇属	liang tou she zhu	0
+赤峰锦蛇	chi feng jin she	0
+赤峰锦蛇	chi feng jin yi	0
+快步麻蜥	kuai bu ma xi	0
+旱地沙蜥	han di sha xi	0
+花条蛇属	hua tiao she shu	0
+花条蛇属	hua tiao yi shu	0
+花条蛇属	hua tiao she zhu	0
+花条蛇属	hua tiao yi zhu	0
+花脊游蛇	hua ji you she	0
+龟头海蛇	gui tou hai she	0
+变色沙蜥	bian se sha xi	0
+变色树蜥	bian se shu xi	0
+宜宾龙蜥	yi bin long xi	0
+青灰海蛇	qing hui hai she	0
+青环海蛇	qing huan hai she	0
+青环海蛇	qing huan hai yi	0
+青海沙蜥	qing hai sha xi	0
+环纹海蛇	huan wen hai she	0
+枕纹锦蛇	zhen wen jin she	0
+枕纹锦蛇	zhen wen jin yi	0
+昆仑麻蜥	kun lun ma xi	0
+昆明龙蜥	kun ming long xi	0
+齿缘摄龟	chi yuan she gui	0
+齿缘摄龟	chi yuan nie gui	0
+齿缘摄龟	chi yuan she jun	0
+齿缘摄龟	chi yuan she qiu	0
+齿缘摄龟	chi yuan nie jun	0
+齿缘摄龟	chi yuan nie qiu	0
+金花蛇属	jin hua yi shu	0
+金花蛇属	jin hua she zhu	0
+金花蛇属	jin hua yi zhu	0
+细白环蛇	xi bai huan she	0
+细白环蛇	xi bai huan yi	0
+细脆蛇蜥	xi cui she xi	0
+细脆蛇蜥	xi cui yi xi	0
+细鳞树蜥	xi lin shu xi	0
+扁尾蛇属	bian wei she shu	0
+扁尾蛇属	pian wei she shu	0
+扁尾蛇属	bian yi she shu	0
+扁尾蛇属	bian wei yi shu	0
+扁尾蛇属	bian wei she zhu	0
+扁尾蛇属	pian yi she shu	0
+扁尾蛇属	pian wei yi shu	0
+扁尾蛇属	bian yi yi shu	0
+扁尾蛇属	pian wei she zhu	0
+扁尾蛇属	bian yi she zhu	0
+扁尾蛇属	bian wei yi zhu	0
+扁尾蛇属	pian yi yi shu	0
+扁尾蛇属	pian yi she zhu	0
+扁尾蛇属	pian wei yi zhu	0
+扁尾蛇属	bian yi yi zhu	0
+扁尾蛇属	pian yi yi zhu	0
+疣尾蜥虎	you wei xi hu	0
+疣尾蜥虎	you yi xi hu	0
+哀鳞趾虎	ai lin zhi hu	0
+弯脚虎属	wan jiao hu shu	0
+弯脚虎属	wan jue hu shu	0
+弯脚虎属	wan jiao hu zhu	0
+弯脚虎属	wan jue hu zhu	0
+南亚鬣蜥	nan ya lie xi	0
+南峰锦蛇	nan feng jin she	0
+南峰锦蛇	nan feng jin yi	0
+南疆沙蜥	nan jiang sha xi	0
+荒漠沙蜥	huang mo sha xi	0
+荒漠麻蜥	huang mo ma xi	0
+草原沙蜥	cao yuan sha xi	0
+草原鬣蜥	cao yuan lie xi	0
+草绿龙蜥	cao lv long xi	0
+草腹链蛇	cao fu lian she	0
+草腹链蛇	cao fu lian yi	0
+荔波壁虎	li bo bi hu	0
+费氏花龟	fei shi hua gui	0
+费氏花龟	fei zhi hua gui	0
+费氏花龟	fei shi hua jun	0
+费氏花龟	fei shi hua qiu	0
+费氏花龟	fei zhi hua jun	0
+费氏花龟	fei zhi hua qiu	0
+胎生蜥蜴	tai sheng xi yi	0
+钝头蛇属	dun tou she shu	0
+钝头蛇属	dun tou yi shu	0
+钝头蛇属	dun tou she zhu	0
+钝头蛇属	dun tou yi zhu	0
+钩盲蛇属	gou mang she shu	0
+钩盲蛇属	gou mang she zhu	0
+美姑脊蛇	mei gu ji she	0
+美姑脊蛇	mei gu ji yi	0
+绞花林蛇	jiao hua lin she	0
+绞花林蛇	jiao hua lin yi	0
+海南脊蛇	hai nan ji she	0
+海南脊蛇	hai nan ji yi	0
+海南棱蜥	hai nan leng xi	0
+海南棱蜥	hai nan ling xi	0
+高雄盲蛇	gao xiong mang she	0
+高雄草蜥	gao xiong cao xi	0
+恒仁滑蜥	heng ren hua xi	0
+珠光蛇属	zhu guang she shu	0
+珠光蛇属	zhu guang yi shu	0
+珠光蛇属	zhu guang she zhu	0
+珠光蛇属	zhu guang yi zhu	0
+秦岭滑蜥	qin ling hua xi	0
+峨眉地蜥	e mei di xi	0
+峨眉地蜥	e mei de xi	0
+烙铁头属	lao tie tou shu	0
+烙铁头属	lao tie tou zhu	0
+蚌西树蜥	bang xi shu xi	0
+蚌西树蜥	beng xi shu xi	0
+铅山壁虎	yan shan bi hu	0
+铅色水蛇	qian se shui she	0
+铅色水蛇	qian shai shui she	0
+铅色水蛇	yan se shui she	0
+铅色水蛇	yan shai shui she	0
+脆蛇蜥属	cui she xi shu	0
+脆蛇蜥属	cui yi xi shu	0
+脆蛇蜥属	cui she xi zhu	0
+脆蛇蜥属	cui yi xi zhu	0
+原尾蜥虎	yuan wei xi hu	0
+原尾蜥虎	yuan yi xi hu	0
+淡灰海蛇	dan hui hai she	0
+渔游蛇属	yu you she shu	0
+渔游蛇属	yu you she zhu	0
+康定滑蜥	kang ding hua xi	0
+密疣蜥虎	mi you xi hu	0
+密点麻蜥	mi dian ma xi	0
+粗疣壁虎	cu you bi hu	0
+颈斑蛇属	jing ban she shu	0
+颈斑蛇属	geng ban she shu	0
+颈斑蛇属	jing ban yi shu	0
+颈斑蛇属	jing ban she zhu	0
+颈斑蛇属	geng ban yi shu	0
+颈斑蛇属	geng ban she zhu	0
+颈斑蛇属	jing ban yi zhu	0
+颈斑蛇属	geng ban yi zhu	0
+颈棱蛇属	jing leng she shu	0
+颈棱蛇属	geng leng she shu	0
+颈棱蛇属	jing ling she shu	0
+颈棱蛇属	jing leng yi shu	0
+颈棱蛇属	jing leng she zhu	0
+颈棱蛇属	geng ling she shu	0
+颈棱蛇属	geng leng yi shu	0
+颈棱蛇属	jing ling yi shu	0
+颈棱蛇属	geng leng she zhu	0
+颈棱蛇属	jing ling she zhu	0
+颈棱蛇属	jing leng yi zhu	0
+颈棱蛇属	geng ling yi shu	0
+颈棱蛇属	geng ling she zhu	0
+颈棱蛇属	geng leng yi zhu	0
+颈棱蛇属	jing ling yi zhu	0
+颈棱蛇属	geng ling yi zhu	0
+颈槽蛇属	jing cao she shu	0
+颈槽蛇属	geng cao she shu	0
+颈槽蛇属	jing cao yi shu	0
+颈槽蛇属	jing cao she zhu	0
+颈槽蛇属	geng cao yi shu	0
+颈槽蛇属	geng cao she zhu	0
+颈槽蛇属	jing cao yi zhu	0
+颈槽蛇属	geng cao yi zhu	0
+雪山草蜥	xue shan cao xi	0
+黄脊游蛇	huang ji you she	0
+黄腹杆蛇	huang fu gan she	0
+黄腹杆蛇	huang fu gan yi	0
+眼斑水龟	yan ban shui gui	0
+眼镜王蛇	yan jing wang she	0
+眼镜蛇科	yan jing she ke	0
+眼镜蛇属	yan jing she shu	0
+眼镜蛇属	yan jing she zhu	0
+崇安地蜥	chong an di xi	0
+崇安地蜥	chong an de xi	0
+隐耳漠虎	yin er mo hu	0
+斜鳞蛇属	xie lin she shu	0
+斜鳞蛇属	xie lin yi shu	0
+斜鳞蛇属	xie lin she zhu	0
+斜鳞蛇属	xie lin yi zhu	0
+绿背树蜥	lv bei shu xi	0
+绿背树蜥	lu bei shu xi	0
+温泉蛇属	wen quan she shu	0
+温泉蛇属	wen quan yi shu	0
+温泉蛇属	wen quan she zhu	0
+温泉蛇属	wen quan yi zhu	0
+滑鳞蛇属	hua lin she shu	0
+滑鳞蛇属	hua lin yi shu	0
+滑鳞蛇属	hua lin she zhu	0
+滑鳞蛇属	hua lin yi zhu	0
+棕头剑蛇	zong tou jian she	0
+棕头剑蛇	zong tou jian yi	0
+棕背树蜥	zong bei shu xi	0
+棕黑锦蛇	zong hei jin she	0
+棕黑锦蛇	zong hei jin yi	0
+棱皮龟科	leng pi gui ke	0
+棱皮龟科	ling pi gui ke	0
+棱皮龟科	leng pi jun ke	0
+棱皮龟科	leng pi qiu ke	0
+棱皮龟科	ling pi jun ke	0
+棱皮龟科	ling pi qiu ke	0
+棱皮龟属	leng pi gui shu	0
+棱皮龟属	ling pi gui shu	0
+棱皮龟属	leng pi jun shu	0
+棱皮龟属	leng pi qiu shu	0
+棱皮龟属	leng pi gui zhu	0
+棱皮龟属	ling pi jun shu	0
+棱皮龟属	ling pi qiu shu	0
+棱皮龟属	ling pi gui zhu	0
+棱皮龟属	leng pi jun zhu	0
+棱皮龟属	leng pi qiu zhu	0
+棱皮龟属	ling pi jun zhu	0
+棱皮龟属	ling pi qiu zhu	0
+棋斑游蛇	qi ban you she	0
+棘眦海蛇	ji zi hai she	0
+棘鳞海蛇	ji lin hai she	0
+喜山龙蜥	xi shan long xi	0
+喜山滑蜥	xi shan hua xi	0
+喜山鬣蜥	xi shan lie xi	0
+喉褶蜥属	hou zhe xi shu	0
+喉褶蜥属	hou zhe xi zhu	0
+紫灰锦蛇	zi hui jin she	0
+紫灰锦蛇	zi hui jin yi	0
+紫沙蛇属	zi sha she shu	0
+紫沙蛇属	zi sha yi shu	0
+紫沙蛇属	zi sha she zhu	0
+紫沙蛇属	zi sha yi zhu	0
+黑头林蛇	hei tou lin she	0
+黑头林蛇	hei tou lin yi	0
+黑头剑蛇	hei tou jian she	0
+黑头剑蛇	hei tou jian yi	0
+黑头海蛇	hei tou hai she	0
+黑眉锦蛇	hei mei jin she	0
+黑眉锦蛇	hei mei jin yi	0
+黑领剑蛇	hei ling jian she	0
+黑领剑蛇	hei ling jian yi	0
+黑颈乌龟	hei jing wu gui	0
+黑颈乌龟	hei geng wu gui	0
+黑斑水蛇	hei ban shui she	0
+短吻鳄科	duan wen e ke	0
+短肢龙蜥	duan zhi long xi	0
+短肢树蜥	duan zhi shu xi	0
+缅甸陆龟	mian dian lu gui	0
+缅甸棱蜥	mian dian leng xi	0
+缅甸棱蜥	mian dian ling xi	0
+滇西蛇属	dian xi she shu	0
+滇西蛇属	dian xi yi shu	0
+滇西蛇属	dian xi she zhu	0
+滇西蛇属	dian xi yi zhu	0
+溪头龙蜥	xi tou long xi	0
+新疆漠虎	xin jiang mo hu	0
+新疆鬣蜥	xin jiang lie xi	0
+裸耳飞蜥	luo er fei xi	0
+裸耳龙蜥	luo er long xi	0
+蓬莱草蜥	peng lai cao xi	0
+锯尾蜥虎	ju wei xi hu	0
+锯尾蜥虎	ju yi xi hu	0
+锯缘箱龟	ju yuan xiang gui	0
+锯缘箱龟	ju yuan xiang jun	0
+锯缘箱龟	ju yuan xiang qiu	0
+锡金滑蜥	xi jin hua xi	0
+腹链蛇属	fu lian she shu	0
+腹链蛇属	fu lian yi shu	0
+腹链蛇属	fu lian she zhu	0
+腹链蛇属	fu lian yi zhu	0
+截吻海蛇	jie wen hai she	0
+截趾虎属	jie zhi hu shu	0
+截趾虎属	jie zhi hu zhu	0
+翠青蛇属	cui qing she shu	0
+翠青蛇属	cui qing yi shu	0
+翠青蛇属	cui qing she zhu	0
+翠青蛇属	cui qing yi zhu	0
+蜡皮蜥属	la pi xi shu	0
+蜡皮蜥属	zha pi xi shu	0
+蜡皮蜥属	la pi xi zhu	0
+蜡皮蜥属	zha pi xi zhu	0
+鞑靼沙蟒	da da sha mang	0
+鞑靼沙蟒	da da sha meng	0
+横斑锦蛇	heng ban jin she	0
+横斑锦蛇	heng ban jin yi	0
+瘰鳞蛇科	luo lin yi ke	0
+瘰鳞蛇属	luo lin she shu	0
+瘰鳞蛇属	luo lin yi shu	0
+瘰鳞蛇属	luo lin she zhu	0
+瘰鳞蛇属	luo lin yi zhu	0
+繁花林蛇	fan hua lin she	0
+繁花林蛇	fan hua lin yi	0
+蹼趾壁虎	pu zhi bi hu	0
+鳞趾虎属	lin zhi hu shu	0
+鳞趾虎属	lin zhi hu zhu	0
+八线腹链蛇	ba xian fu lian she	0
+八线腹链蛇	ba xian fu lian yi	0
+八莫过树蛇	ba mo guo shu she	0
+八莫过树蛇	ba mo guo shu yi	0
+广东钝头蛇	guang dong dun tou she	0
+广东钝头蛇	guang dong dun tou yi	0
+广西后棱蛇	guang xi hou leng she	0
+广西后棱蛇	guang xi hou ling she	0
+广西后棱蛇	guang xi hou leng yi	0
+广西后棱蛇	guang xi hou ling yi	0
+广西拟水龟	guang xi ni shui gui	0
+三线闭壳龟	san xian bi ke gui	0
+三线闭壳龟	san xian bi qiao gui	0
+三线闭壳龟	san xian bi ke jun	0
+三线闭壳龟	san xian bi ke qiu	0
+三线闭壳龟	san xian bi qiao jun	0
+三线闭壳龟	san xian bi qiao qiu	0
+大渡石龙子	da du shi long zi	0
+大渡石龙子	dai du shi long zi	0
+大渡石龙子	tai du shi long zi	0
+马来闭壳龟	ma lai bi ke gui	0
+马来闭壳龟	ma lai bi qiao gui	0
+马来闭壳龟	ma lai bi ke jun	0
+马来闭壳龟	ma lai bi ke qiu	0
+马来闭壳龟	ma lai bi qiao jun	0
+马来闭壳龟	ma lai bi qiao qiu	0
+小头海蛇属	xiao tou hai she shu	0
+小头海蛇属	xiao tou hai she zhu	0
+山斑小头蛇	shan ban xiao tou she	0
+山斑小头蛇	shan ban xiao tou yi	0
+山溪后棱蛇	shan xi hou leng she	0
+山溪后棱蛇	shan xi hou ling she	0
+山溪后棱蛇	shan xi hou leng yi	0
+山溪后棱蛇	shan xi hou ling yi	0
+乡城烙铁头	xiang cheng lao tie tou	0
+方花小头蛇	fang hua xiao tou she	0
+方花小头蛇	fang hua xiao tou yi	0
+云南闭壳龟	yun nan bi ke gui	0
+云南闭壳龟	yun nan bi qiao gui	0
+云南闭壳龟	yun nan bi ke jun	0
+云南闭壳龟	yun nan bi ke qiu	0
+云南闭壳龟	yun nan bi qiao jun	0
+云南闭壳龟	yun nan bi qiao qiu	0
+云南两头蛇	yun nan liang tou she	0
+云南颈斑蛇	yun nan jing ban she	0
+云南颈斑蛇	yun nan geng ban she	0
+云南颈斑蛇	yun nan jing ban yi	0
+云南颈斑蛇	yun nan geng ban yi	0
+井岗山脊蛇	jing gang shan ji she	0
+井岗山脊蛇	jing gang shan ji yi	0
+长吻海蛇属	chang wen hai she shu	0
+长吻海蛇属	chang wen hai she zhu	0
+双全白环蛇	shuang quan bai huan she	0
+双全白环蛇	shuang quan bai huan yi	0
+双带腹链蛇	shuang dai fu lian she	0
+双带腹链蛇	shuang dai fu lian yi	0
+宁陕小头蛇	ning shan xiao tou she	0
+宁陕小头蛇	ning shan xiao tou yi	0
+兰屿鳞趾虎	lan yu lin zhi hu	0
+东亚腹链蛇	dong ya fu lian she	0
+东亚腹链蛇	dong ya fu lian yi	0
+平头腹链蛇	ping tou fu lian she	0
+平头腹链蛇	ping tou fu lian yi	0
+平颏海蛇属	ping ke hai she shu	0
+平颏海蛇属	ping ke hai she zhu	0
+平鳞钝头蛇	ping lin dun tou she	0
+平鳞钝头蛇	ping lin dun tou yi	0
+卡西弯脚虎	ka xi wan jiao hu	0
+卡西弯脚虎	ka xi wan jue hu	0
+卡西腹链蛇	ka xi fu lian she	0
+卡西腹链蛇	ka xi fu lian yi	0
+四线石龙子	si xian shi long zi	0
+四眼斑水龟	si yan ban shui gui	0
+四额鳞麻蜥	si e lin ma xi	0
+白尾双足蜥	bai wei shuang zu xi	0
+白尾双足蜥	bai yi shuang zu xi	0
+白眉腹链蛇	bai mei fu lian she	0
+白眉腹链蛇	bai mei fu lian yi	0
+白唇竹叶青	bai chun zhu ye qing	0
+白眶游蛇属	bai kuang you she shu	0
+白眶游蛇属	bai kuang you she zhu	0
+台北腹链蛇	tai bei fu lian she	0
+台北腹链蛇	tai bei fu lian yi	0
+台湾小头蛇	tai wan xiao tou she	0
+台湾小头蛇	tai wan xiao tou yi	0
+台湾丽纹蛇	tai wan li wen she	0
+台湾丽纹蛇	tai wan li wen yi	0
+台湾钝头蛇	tai wan dun tou she	0
+台湾钝头蛇	tai wan dun tou yi	0
+台湾颈槽蛇	tai wan jing cao she	0
+台湾颈槽蛇	tai wan geng cao she	0
+台湾颈槽蛇	tai wan jing cao yi	0
+台湾颈槽蛇	tai wan geng cao yi	0
+台湾烙铁头	tai wan lao tie tou	0
+台湾脆蛇蜥	tai wan cui she xi	0
+台湾脆蛇蜥	tai wan cui yi xi	0
+半叶趾虎属	ban ye zhi hu shu	0
+半叶趾虎属	ban ye zhi hu zhu	0
+半环扁尾蛇	ban huan bian wei she	0
+半环扁尾蛇	ban huan pian wei she	0
+半环扁尾蛇	ban huan bian yi she	0
+半环扁尾蛇	ban huan bian wei yi	0
+半环扁尾蛇	ban huan pian yi she	0
+半环扁尾蛇	ban huan pian wei yi	0
+半环扁尾蛇	ban huan bian yi yi	0
+半环扁尾蛇	ban huan pian yi yi	0
+托克逊沙虎	tuo ke xun sha hu	0
+西藏竹叶青	xi zang zhu ye qing	0
+西藏弯脚虎	xi zang wan jiao hu	0
+西藏弯脚虎	xi zang wan jue hu	0
+百色闭壳龟	bai se bi ke gui	0
+百色闭壳龟	bai se bi qiao gui	0
+百色闭壳龟	bai se bi ke jun	0
+百色闭壳龟	bai se bi ke qiu	0
+百色闭壳龟	bai se bi qiao jun	0
+百色闭壳龟	bai se bi qiao qiu	0
+灰腹绿锦	hui fu lv jin	0
+灰腹绿锦	hui fu lu jin	0
+老挝白环蛇	lao wo bai huan she	0
+老挝白环蛇	lao wo bai huan yi	0
+老挝后棱蛇	lao wo hou leng she	0
+老挝后棱蛇	lao wo hou ling she	0
+老挝后棱蛇	lao wo hou leng yi	0
+老挝后棱蛇	lao wo hou ling yi	0
+并行腹链蛇	bing xing fu lian she	0
+并行腹链蛇	bing xing fu lian yi	0
+尖尾两头蛇	jian wei liang tou she	0
+尖尾两头蛇	jian yi liang tou she	0
+红脖颈槽蛇	hong bo geng cao she	0
+红脖颈槽蛇	gong bo geng cao she	0
+红脖颈槽蛇	hong bo geng cao yi	0
+红脖颈槽蛇	gong bo geng cao yi	0
+沙坝后棱蛇	sha ba hou leng she	0
+沙坝后棱蛇	sha ba hou ling she	0
+沙坝后棱蛇	sha ba hou leng yi	0
+沙坝后棱蛇	sha ba hou ling yi	0
+丽纹腹链蛇	li wen fu lian she	0
+丽纹腹链蛇	li wen fu lian yi	0
+赤链华游蛇	chi lian hua you she	0
+阿里山脊蛇	a li shan ji she	0
+阿里山脊蛇	a li shan ji yi	0
+花尾斜鳞蛇	hua wei xie lin she	0
+花尾斜鳞蛇	hua yi xie lin she	0
+花尾斜鳞蛇	hua wei xie lin yi	0
+花尾斜鳞蛇	hua yi xie lin yi	0
+龟头海蛇属	gui tou hai she shu	0
+龟头海蛇属	gui tou hai she zhu	0
+纯绿翠青蛇	chun lv cui qing she	0
+纯绿翠青蛇	chun lu cui qing she	0
+纯绿翠青蛇	chun lv cui qing yi	0
+纯绿翠青蛇	chun lu cui qing yi	0
+环纹华游蛇	huan wen hua you she	0
+拉达克滑蜥	la da ke hua xi	0
+坡普腹链	po pu fu lian	0
+虎斑颈槽蛇	hu ban jing cao she	0
+虎斑颈槽蛇	hu ban geng cao she	0
+虎斑颈槽蛇	hu ban jing cao yi	0
+虎斑颈槽蛇	hu ban geng cao yi	0
+齿缘摄龟属	chi yuan she gui shu	0
+齿缘摄龟属	chi yuan nie gui shu	0
+齿缘摄龟属	chi yuan she jun shu	0
+齿缘摄龟属	chi yuan she qiu shu	0
+齿缘摄龟属	chi yuan she gui zhu	0
+齿缘摄龟属	chi yuan nie jun shu	0
+齿缘摄龟属	chi yuan nie qiu shu	0
+齿缘摄龟属	chi yuan nie gui zhu	0
+齿缘摄龟属	chi yuan she jun zhu	0
+齿缘摄龟属	chi yuan she qiu zhu	0
+齿缘摄龟属	chi yuan nie jun zhu	0
+齿缘摄龟属	chi yuan nie qiu zhu	0
+侧条后棱蛇	ce tiao hou leng she	0
+侧条后棱蛇	ze tiao hou leng she	0
+侧条后棱蛇	zhai tiao hou leng she	0
+侧条后棱蛇	ce tiao hou ling she	0
+侧条后棱蛇	ce tiao hou leng yi	0
+侧条后棱蛇	ze tiao hou ling she	0
+侧条后棱蛇	zhai tiao hou ling she	0
+侧条后棱蛇	ze tiao hou leng yi	0
+侧条后棱蛇	zhai tiao hou leng yi	0
+侧条后棱蛇	ce tiao hou ling yi	0
+侧条后棱蛇	ze tiao hou ling yi	0
+侧条后棱蛇	zhai tiao hou ling yi	0
+金头闭壳龟	jin tou bi ke gui	0
+金头闭壳龟	jin tou bi qiao gui	0
+金头闭壳龟	jin tou bi ke jun	0
+金头闭壳龟	jin tou bi ke qiu	0
+金头闭壳龟	jin tou bi qiao jun	0
+金头闭壳龟	jin tou bi qiao qiu	0
+饰纹小头蛇	shi wen xiao tou she	0
+饰纹小头蛇	shi wen xiao tou yi	0
+周氏闭壳龟	zhou shi bi ke gui	0
+周氏闭壳龟	zhou shi bi qiao gui	0
+周氏闭壳龟	zhou shi bi ke jun	0
+周氏闭壳龟	zhou shi bi ke qiu	0
+周氏闭壳龟	zhou shi bi qiao jun	0
+周氏闭壳龟	zhou shi bi qiao qiu	0
+挂墩后棱蛇	gua dun hou leng she	0
+挂墩后棱蛇	gua dun hou ling she	0
+挂墩后棱蛇	gua dun hou leng yi	0
+挂墩后棱蛇	gua dun hou ling yi	0
+贵州小头蛇	gui zhou xiao tou she	0
+贵州小头蛇	gui zhou xiao tou yi	0
+钝尾两头蛇	dun wei liang tou she	0
+钝尾两头蛇	dun yi liang tou she	0
+香港后棱蛇	xiang gang hou leng she	0
+香港后棱蛇	xiang gang hou ling she	0
+香港后棱蛇	xiang gang hou leng yi	0
+香港后棱蛇	xiang gang hou ling yi	0
+海南闪鳞蛇	hai nan shan lin she	0
+海南闪鳞蛇	hai nan shan lin yi	0
+海南脆蛇蜥	hai nan cui she xi	0
+海南脆蛇蜥	hai nan cui yi xi	0
+宽斑弯脚虎	kuan ban wan jiao hu	0
+宽斑弯脚虎	kuan ban wan jue hu	0
+埃氏拟水龟	ai shi ni shui gui	0
+埃氏拟水龟	ai zhi ni shui gui	0
+圆斑小头蛇	yuan ban xiao tou she	0
+圆斑小头蛇	yuan ban xiao tou yi	0
+菱斑小头蛇	ling ban xiao tou she	0
+菱斑小头蛇	ling ban xiao tou yi	0
+黄纹石龙子	huang wen shi long zi	0
+黄腹颈槽蛇	huang fu jing cao she	0
+黄腹颈槽蛇	huang fu geng cao she	0
+黄腹颈槽蛇	huang fu jing cao yi	0
+黄腹颈槽蛇	huang fu geng cao yi	0
+黄缘闭壳龟	huang yuan bi ke gui	0
+黄缘闭壳龟	huang yuan bi qiao gui	0
+黄缘闭壳龟	huang yuan bi ke jun	0
+黄缘闭壳龟	huang yuan bi ke qiu	0
+黄缘闭壳龟	huang yuan bi qiao jun	0
+黄缘闭壳龟	huang yuan bi qiao qiu	0
+黄腹杆蛇属	huang fu gan she shu	0
+黄腹杆蛇属	huang fu gan yi shu	0
+黄腹杆蛇属	huang fu gan she zhu	0
+黄腹杆蛇属	huang fu gan yi zhu	0
+黄喉拟水龟	huang hou ni shui gui	0
+黄额闭壳龟	huang e bi ke gui	0
+黄额闭壳龟	huang e bi qiao gui	0
+黄额闭壳龟	huang e bi ke jun	0
+黄额闭壳龟	huang e bi ke qiu	0
+黄额闭壳龟	huang e bi qiao jun	0
+黄额闭壳龟	huang e bi qiao qiu	0
+菜花烙铁头	cai hua lao tie tou	0
+琉球石龙子	liu qiu shi long zi	0
+眼斑水龟属	yan ban shui gui shu	0
+眼斑水龟属	yan ban shui gui zhu	0
+眼镜王蛇属	yan jing wang she shu	0
+眼镜王蛇属	yan jing wang she zhu	0
+崇安斜鳞蛇	chong an xie lin she	0
+崇安斜鳞蛇	chong an xie lin yi	0
+棕网腹链蛇	zong wang fu lian she	0
+棕网腹链蛇	zong wang fu lian yi	0
+棕黑腹链蛇	zong hei fu lian she	0
+棕黑腹链蛇	zong hei fu lian yi	0
+棱鳞钝头蛇	leng lin dun tou she	0
+棱鳞钝头蛇	ling lin dun tou she	0
+棱鳞钝头蛇	leng lin dun tou yi	0
+棱鳞钝头蛇	ling lin dun tou yi	0
+塔里木鬣蜥	ta li mu lie xi	0
+棘眦海蛇属	ji zi hai she shu	0
+棘眦海蛇属	ji zi hai she zhu	0
+棘鳞海蛇属	ji lin hai she shu	0
+棘鳞海蛇属	ji lin hai she zhu	0
+喜山小头蛇	xi shan xiao tou she	0
+喜山小头蛇	xi shan xiao tou yi	0
+喜山过树蛇	xi shan guo shu she	0
+喜山过树蛇	xi shan guo shu yi	0
+喜山钝头蛇	xi shan dun tou she	0
+喜山钝头蛇	xi shan dun tou yi	0
+喜山颈槽蛇	xi shan jing cao she	0
+喜山颈槽蛇	xi shan geng cao she	0
+喜山颈槽蛇	xi shan jing cao yi	0
+喜山颈槽蛇	xi shan geng cao yi	0
+紫棕小头蛇	zi zong xiao tou she	0
+紫棕小头蛇	zi zong xiao tou yi	0
+黑龙江草蜥	hei long jiang cao xi	0
+黑网乌梢蛇	hei wang wu shao she	0
+黑纹颈槽蛇	hei wen jing cao she	0
+黑纹颈槽蛇	hei wen geng cao she	0
+黑纹颈槽蛇	hei wen jing cao yi	0
+黑纹颈槽蛇	hei wen geng cao yi	0
+黑线乌梢蛇	hei xian wu shao she	0
+黑带小头蛇	hei dai xiao tou she	0
+黑带小头蛇	hei dai xiao tou yi	0
+黑背白环蛇	hei bei bai huan she	0
+黑背白环蛇	hei bei bai huan yi	0
+锈链腹链蛇	xiu lian fu lian she	0
+锈链腹链蛇	xiu lian fu lian yi	0
+缅北腹链蛇	mian bei fu lian she	0
+缅北腹链蛇	mian bei fu lian yi	0
+缅甸钝头蛇	mian dian dun tou she	0
+缅甸钝头蛇	mian dian dun tou yi	0
+缅甸颈斑蛇	mian dian jing ban she	0
+缅甸颈斑蛇	mian dian geng ban she	0
+缅甸颈斑蛇	mian dian jing ban yi	0
+缅甸颈斑蛇	mian dian geng ban yi	0
+缅甸颈槽蛇	mian dian jing cao she	0
+缅甸颈槽蛇	mian dian geng cao she	0
+缅甸颈槽蛇	mian dian jing cao yi	0
+缅甸颈槽蛇	mian dian geng cao yi	0
+福建后棱蛇	fu jian hou leng she	0
+福建后棱蛇	fu jian hou ling she	0
+福建后棱蛇	fu jian hou leng yi	0
+福建后棱蛇	fu jian hou ling yi	0
+福建丽纹蛇	fu jian li wen she	0
+福建丽纹蛇	fu jian li wen yi	0
+福建钝头蛇	fu jian dun tou she	0
+福建钝头蛇	fu jian dun tou yi	0
+福建颈斑蛇	fu jian jing ban she	0
+福建颈斑蛇	fu jian geng ban she	0
+福建颈斑蛇	fu jian jing ban yi	0
+福建颈斑蛇	fu jian geng ban yi	0
+蓝灰扁尾蛇	lan hui bian wei she	0
+蓝灰扁尾蛇	lan hui pian wei she	0
+蓝灰扁尾蛇	lan hui bian yi she	0
+蓝灰扁尾蛇	lan hui bian wei yi	0
+蓝灰扁尾蛇	lan hui pian yi she	0
+蓝灰扁尾蛇	lan hui pian wei yi	0
+蓝灰扁尾蛇	lan hui bian yi yi	0
+蓝灰扁尾蛇	lan hui pian yi yi	0
+蓝尾石龙子	lan wei shi long zi	0
+蓝尾石龙子	lan yi shi long zi	0
+锯缘箱龟属	ju yuan xiang gui shu	0
+锯缘箱龟属	ju yuan xiang jun shu	0
+锯缘箱龟属	ju yuan xiang qiu shu	0
+锯缘箱龟属	ju yuan xiang gui zhu	0
+锯缘箱龟属	ju yuan xiang jun zhu	0
+锯缘箱龟属	ju yuan xiang qiu zhu	0
+腹斑腹链蛇	fu ban fu lian she	0
+腹斑腹链蛇	fu ban fu lian yi	0
+截吻海蛇属	jie wen hai she shu	0
+截吻海蛇属	jie wen hai she zhu	0
+管状小头蛇	guan zhuang xiao tou she	0
+管状小头蛇	guan zhuang xiao tou yi	0
+潘氏闭壳龟	pan shi bi ke gui	0
+潘氏闭壳龟	pan shi bi qiao gui	0
+潘氏闭壳龟	pan zhi bi ke gui	0
+潘氏闭壳龟	pan shi bi ke jun	0
+潘氏闭壳龟	pan shi bi ke qiu	0
+潘氏闭壳龟	pan zhi bi qiao gui	0
+潘氏闭壳龟	pan shi bi qiao jun	0
+潘氏闭壳龟	pan shi bi qiao qiu	0
+潘氏闭壳龟	pan zhi bi ke jun	0
+潘氏闭壳龟	pan zhi bi ke qiu	0
+潘氏闭壳龟	pan zhi bi qiao jun	0
+潘氏闭壳龟	pan zhi bi qiao qiu	0
+横纹小头蛇	heng wen xiao tou she	0
+横纹小头蛇	heng wen xiao tou yi	0
+横纹后棱蛇	heng wen hou leng she	0
+横纹后棱蛇	heng wen hou ling she	0
+横纹后棱蛇	heng wen hou leng yi	0
+横纹后棱蛇	heng wen hou ling yi	0
+横纹钝头蛇	heng wen dun tou she	0
+横纹钝头蛇	heng wen dun tou yi	0
+横纹斜鳞蛇	heng wen xie lin she	0
+横纹斜鳞蛇	heng wen xie lin yi	0
+横纹翠青蛇	heng wen cui qing she	0
+横纹翠青蛇	heng wen cui qing yi	0
+横斑钝头蛇	heng ban dun tou she	0
+横斑钝头蛇	heng ban dun tou yi	0
+墨脱竹叶青	mo tuo zhu ye qing	0
+墨脱弯脚虎	mo tuo wan jiao hu	0
+墨脱弯脚虎	mo tuo wan jue hu	0
+无颞鳞腹链蛇	wu nie lin fu lian she	0
+无颞鳞腹链蛇	wu nie lin fu lian yi	0
+云南半叶趾虎	yun nan ban ye zhi hu	0
+阿里山钝头蛇	a li shan dun tou she	0
+阿里山钝头蛇	a li shan dun tou yi	0

@@ -1,0 +1,712 @@
+# 词库名称: 贬称谓
+# 词库分类: 小人 小丑 小偷 土人 土匪 土棍 飞贼 女流
+# 词库作者: 天字007
+# 词库描述: 介绍贬义称谓
+# 词条数量: 704
+# 解析词数: 705
+# 解析异常: 1
+
+贼	zei	0
+寇	kou	0
+匪	fei	0
+妖	yao	0
+鬼	gui	0
+魔	mo	0
+小人	xiao ren	0
+小丑	xiao chou	0
+小偷	xiao tou	0
+土人	tu ren	0
+土匪	tu fei	0
+土棍	tu gun	0
+土棍	tu hun	0
+飞贼	fei zei	0
+女流	nv liu	0
+工贼	gong zei	0
+王八	wang ba	0
+从犯	cong fan	0
+包子	bao zi	0
+凶人	xiong ren	0
+凶手	xiong shou	0
+凶犯	xiong fan	0
+元凶	yuan xiong	0
+元恶	yuan e	0
+元恶	yuan wu	0
+爪牙	zhao ya	0
+公敌	gong di	0
+歹人	dai ren	0
+歹徒	dai tu	0
+仇人	chou ren	0
+仇家	chou jia	0
+文棍	wen gun	0
+文棍	wen hun	0
+内奸	nei jian	0
+心腹	xin fu	0
+风派	feng pai	0
+反叛	fan pan	0
+木人	mu ren	0
+木头	mu tou	0
+木偶	mu ou	0
+无赖	wu lai	0
+凶类	xiong lei	0
+犬彘	quan zhi	0
+正凶	zheng xiong	0
+主子	zhu zi	0
+主犯	zhu fan	0
+主谋	zhu mou	0
+打手	da shou	0
+扒手	pa shou	0
+头子	tou zi	0
+头目	tou mu	0
+对头	dui tou	0
+囚犯	qiu fan	0
+汉奸	han jian	0
+右派	you pai	0
+白军	bai jun	0
+白匪	bai fei	0
+白痴	bai chi	0
+市侩	shi kuai	0
+电霸	dian ba	0
+民贼	min zei	0
+民蠹	min du	0
+犯人	fan ren	0
+团伙	tuan huo	0
+同伙	tong huo	0
+同谋	tong mou	0
+后台	hou tai	0
+死党	si dang	0
+妄人	wang ren	0
+杀手	sha shou	0
+光棍	guang gun	0
+地痞	di pi	0
+劣绅	lie shen	0
+奸鬼	jian gui	0
+奸邪	jian xie	0
+奸贼	jian zei	0
+奸细	jian xi	0
+奸商	jian shang	0
+奸雄	jian xiong	0
+杂种	za zhong	0
+色鬼	se gui	0
+色迷	se mi	0
+色狼	se lang	0
+色棍	se gun	0
+狂人	kuang ren	0
+重犯	zhong fan	0
+重犯	chong fan	0
+乱兵	luan bing	0
+寿头	shou tou	0
+克星	ke xing	0
+私党	si dang	0
+夜叉	ye cha	0
+走狗	zou gou	0
+阿飞	a fei	0
+阿斗	a dou	0
+阿混	a hun	0
+呆子	dai zi	0
+呆瓜	dai gua	0
+灾星	zai xing	0
+间谍	jian die	0
+坏人	huai ren	0
+坏蛋	huai dan	0
+穷鬼	qiong gui	0
+穷寇	qiong kou	0
+余党	yu dang	0
+余孽	yu nie	0
+妖人	yao ren	0
+妖怪	yao guai	0
+妖孽	yao nie	0
+妖精	yao jing	0
+妖魔	yao mo	0
+拐子	guai zi	0
+官倒	guan dao	0
+油子	you zi	0
+废物	fei wu	0
+青皮	qing pi	0
+国贼	guo zei	0
+贪官	tan guan	0
+狗官	gou guan	0
+狗熊	gou xiong	0
+熊包	xiong bao	0
+狗彘	gou zhi	0
+败子	bai zi	0
+败兵	bai bing	0
+败类	bai lei	0
+败将	bai jiang	0
+贩子	fan zi	0
+怪人	guai ren	0
+怪物	guai wu	0
+泼皮	po pi	0
+泼妇	po fu	0
+学阀	xue fa	0
+学棍	xue gun	0
+学棍	xue hun	0
+宠儿	chong er	0
+独夫	du fu	0
+草包	cao bao	0
+逃兵	tao bing	0
+逃犯	tao fan	0
+鬼子	gui zi	0
+鬼精	gui jing	0
+要犯	yao fan	0
+战犯	zhan fan	0
+虎狼	hu lang	0
+顺民	shun min	0
+亲信	qin xin	0
+首恶	shou e	0
+贱人	jian ren	0
+贱货	jian huo	0
+蚁众	yi zhong	0
+蚁寇	yi kou	0
+洋奴	yang nu	0
+洋盘	yang pan	0
+活宝	huo bao	0
+活鬼	huo gui	0
+死鬼	si gui	0
+帮凶	bang xiong	0
+帮伙	bang huo	0
+帮派	bang pai	0
+叛徒	pan tu	0
+叛匪	pan fei	0
+畜牲	chu sheng	0
+烟鬼	yan gui	0
+流氓	liu mang	0
+浪子	lang zi	0
+浪妇	lang fu	0
+荡妇	dang fu	0
+混蛋	hun dan	0
+酒鬼	jiu gui	0
+海盗	hai dao	0
+破鞋	po xie	0
+窃贼	qie zei	0
+家贼	jia zei	0
+家伙	jia huo	0
+脓包	nong bao	0
+莽汉	mang han	0
+恐龙	kong long	0
+菜鸟	cai niao	0
+孬种	nao zhong	0
+悍妇	han fu	0
+赃官	zang guan	0
+倒爷	dao ye	0
+党羽	dang yu	0
+党徒	dang tu	0
+党魁	dang kui	0
+党阀	dang fa	0
+党棍	dang gun	0
+党棍	dang hun	0
+匪人	fei ren	0
+匪首	fei shou	0
+匪帮	fei bang	0
+匪徒	fei tu	0
+顽敌	wan di	0
+顽童	wan tong	0
+顽匪	wan fei	0
+恶人	e ren	0
+恶少	e shao	0
+恶鬼	e gui	0
+恶魔	e mo	0
+恶棍	e gun	0
+恶霸	e ba	0
+阎王	yan wang	0
+阎罗	yan luo	0
+冤头	yuan tou	0
+冤鬼	yuan gui	0
+冤家	yuan jia	0
+淫妇	yin fu	0
+淫棍	yin gun	0
+野人	ye ren	0
+粗人	cu ren	0
+屠夫	tu fu	0
+强盗	qiang dao	0
+剥皮	bao pi	0
+傀儡	kui lei	0
+谗佞	chan ning	0
+痞子	pi zi	0
+秧子	yang zi	0
+蛀虫	zhu chong	0
+渔霸	yu ba	0
+笨伯	ben bo	0
+笨伯	ben bai	0
+笨伯	ben ba	0
+笨蛋	ben dan	0
+笨猪	ben zhu	0
+笨鸟	ben niao	0
+庸人	yong ren	0
+庸才	yong cai	0
+庸夫	yong fu	0
+庸医	yong yi	0
+贼党	zei dang	0
+混客	hun ke	0
+混帐	hun zhang	0
+黑手	hei shou	0
+黑客	hei ke	0
+黑帮	hei bang	0
+棒客	bang ke	0
+骗子	pian zi	0
+崽子	zai zi	0
+禽兽	qin shou	0
+喽罗	lou luo	0
+豺狼	chai lang	0
+罪人	zui ren	0
+罪犯	zui fan	0
+罪魁	zui kui	0
+渣滓	zha zi	0
+赖皮	lai pi	0
+窝主	wo zhu	0
+饭桶	fan tong	0
+阔少	kuo shao	0
+阔老	kuo lao	0
+阔主	kuo zhu	0
+赌徒	du tu	0
+赌鬼	du gui	0
+赌棍	du gun	0
+惯犯	guan fan	0
+惯窃	guan qie	0
+惯偷	guan tou	0
+惯盗	guan dao	0
+惯匪	guan fei	0
+惯贼	guan zei	0
+痴子	chi zi	0
+傻子	sha zi	0
+傻瓜	sha gua	0
+愚人	yu ren	0
+愚氓	yu meng	0
+谬种	miu zhong	0
+溃兵	kui bing	0
+溃军	kui jun	0
+溃军	hui jun	0
+暗探	an tan	0
+路霸	lu ba	0
+街霸	jie ba	0
+祸水	huo shui	0
+祸首	huo shou	0
+祸胎	huo tai	0
+祸根	huo gen	0
+祸端	huo duan	0
+瘦猴	shou hou	0
+懒虫	lan chong	0
+懒鬼	lan gui	0
+懒汉	lan han	0
+瞎子	xia zi	0
+瘪三	bie san	0
+醉鬼	zui gui	0
+饿鬼	e gui	0
+饿狼	e lang	0
+暴君	bao jun	0
+暴徒	bao tu	0
+暴客	bao ke	0
+暴客	pu ke	0
+懦夫	nuo fu	0
+糟蛋	zao dan	0
+蟊贼	mao zei	0
+鹰犬	ying quan	0
+魔王	mo wang	0
+魔鬼	mo gui	0
+魔怪	mo guai	0
+蠹虫	du chong	0
+蠢人	chun ren	0
+蠢才	chun cai	0
+蠢货	chun huo	0
+矬子	cuo zi	0
+傻妞	sha niu	0
+傻帽	sha mao	0
+一路人	yi lu ren	0
+一路货	yi lu huo	0
+一伙儿	yi huo er	0
+二五眼	er wu yan	0
+二百五	er bai wu	0
+二把刀	er ba dao	0
+二愣子	er leng zi	0
+二流子	er liu zi	0
+二混子	er hun zi	0
+人贩子	ren fan zi	0
+儿皇帝	er huang di	0
+十三点	shi san dian	0
+九尾狐	jiu wei hu	0
+刀下鬼	dao xia gui	0
+三青子	san qing zi	0
+三只手	san zhi shou	0
+三种人	san zhong ren	0
+小气鬼	xiao qi gui	0
+小贱人	xiao jian ren	0
+小喽罗	xiao lou luo	0
+小不点	xiao bu dian	0
+大红人	da hong ren	0
+大哥大	da ge da	0
+大姐大	da jie da	0
+大姐头	da jie tou	0
+大肚子	da du zi	0
+大腹贾	da fu jia	0
+大腹贾	da fu gu	0
+大烟鬼	da yan gui	0
+马大哈	ma da ha	0
+马泊六	ma bo liu	0
+马泊六	ma po liu	0
+马泊六	ma bo lu	0
+马泊六	ma po lu	0
+马屁精	ma pi jing	0
+亡国奴	wang guo nu	0
+亡命徒	wang ming tu	0
+万人通	wan ren tong	0
+万事通	wan shi tong	0
+万人迷	wan ren mi	0
+亏心人	kui xin ren	0
+土包子	tu bao zi	0
+土皇帝	tu huang di	0
+土老倒	tu lao dao	0
+土老二	tu lao er	0
+屯老二	tun lao er	0
+屯老二	zhun lao er	0
+乡下佬	xiang xia lao	0
+乡巴佬	xiang ba lao	0
+木头人	mu tou ren	0
+不倒翁	bu dao weng	0
+毛丫头	mao ya tou	0
+毛小子	mao xiao zi	0
+毛孩子	mao hai zi	0
+书呆子	shu dai zi	0
+中山狼	zhong shan lang	0
+太上皇	tai shang huang	0
+长舌头	chang she tou	0
+长舌妇	chang she fu	0
+丑八怪	chou ba guai	0
+反动派	fan dong pai	0
+反革命	fan ge ming	0
+四人帮	si ren bang	0
+母大虫	mu da chong	0
+母老虎	mu lao hu	0
+母夜叉	mu ye cha	0
+包庇犯	bao bi fan	0
+讨债鬼	tao zhai gui	0
+出气筒	chu qi tong	0
+受气包	shou qi bao	0
+白点子	bai dian zi	0
+白话蛋	bai hua dan	0
+白乎蛋	bai hu dan	0
+白相人	bai xiang ren	0
+白卫军	bai wei jun	0
+白粉妹	bai fen mei	0
+白骨精	bai gu jing	0
+叭儿狗	ba er gou	0
+哈巴狗	ha ba gou	0
+可怜虫	ke lian chong	0
+半吊子	ban diao zi	0
+半彪子	ban biao zi	0
+半膘子	ban biao zi	0
+半拉彪	ban la biao	0
+杀人犯	sha ren fan	0
+阶下囚	jie xia qiu	0
+吊死鬼	diao si gui	0
+在逃犯	zai tao fan	0
+吃人虫	chi ren chong	0
+应声虫	ying sheng chong	0
+守财奴	shou cai nu	0
+名利奴	ming li nu	0
+名利徒	ming li tu	0
+百事通	bai shi tong	0
+伪君子	wei jun zi	0
+伪善者	wei shan zhe	0
+芝麻官	zhi ma guan	0
+地头蛇	di tou she	0
+关系人	guan xi ren	0
+关系户	guan xi hu	0
+关系网	guan xi wang	0
+肉中刺	rou zhong ci	0
+死抠儿	si kou er	0
+死秧子	si yang zi	0
+病秧子	bing yang zi	0
+死轴子	si zhou zi	0
+负心人	fu xin ren	0
+负心汉	fu xin han	0
+好事者	hao shi zhe	0
+好色鬼	hao se gui	0
+红眼病	hong yan bing	0
+阴谋家	yin mou jia	0
+扫帚星	sao zhou xing	0
+老古董	lao gu dong	0
+老保守	lao bao shou	0
+老脑筋	lao nao jin	0
+老油子	lao you zi	0
+老油条	lao you tiao	0
+老封建	lao feng jian	0
+老顽固	lao wan gu	0
+老东西	lao dong xi	0
+老家伙	lao jia huo	0
+老来浪	lao lai lang	0
+老学究	lao xue jiu	0
+老财迷	lao cai mi	0
+老酒鬼	lao jiu gui	0
+老妈子	lao ma zi	0
+老风骚	lao feng sao	0
+老妖精	lao yao jing	0
+老好人	lao hao ren	0
+老狐狸	lao hu li	0
+两面派	liang mian pai	0
+吹鼓手	chui gu shou	0
+吸血鬼	xi xue gui	0
+坐地虎	zuo di hu	0
+坐地炮	zuo di pao	0
+坐地炮	zuo di bao	0
+纸老虎	zhi lao hu	0
+旱鸭子	han ya zi	0
+夜猫子	ye mao zi	0
+夜游神	ye you shen	0
+看财奴	kan cai nu	0
+诈骗犯	zha pian fan	0
+钉子户	ding zi hu	0
+吝啬鬼	lin se gui	0
+穷小子	qiong xiao zi	0
+穷光蛋	qiong guang dan	0
+穷骨头	qiong gu tou	0
+坏小子	huai xiao zi	0
+坏分子	huai fen zi	0
+坏坯子	huai pi zi	0
+坏坯子	pei pi zi	0
+坏坯子	pi pi zi	0
+坏东西	huai dong xi	0
+坏头头	huai tou tou	0
+坏头头	pei tou tou	0
+坏头头	pi tou tou	0
+阿木林	a mu lin	0
+阿巴贡	a ba gong	0
+私生子	si sheng zi	0
+私窝子	si wo zi	0
+走私犯	zou si fan	0
+传声筒	chuan sheng tong	0
+狗腿子	gou tui zi	0
+狗东西	gou dong xi	0
+刺儿头	ci er tou	0
+空谈家	kong tan jia	0
+空想家	kong xiang jia	0
+变色龙	bian se long	0
+兔崽子	tu zai zi	0
+拦路虎	lan lu hu	0
+绊脚石	ban jiao shi	0
+拖油瓶	tuo you ping	0
+保守派	bao shou pai	0
+狐狸精	hu li jing	0
+诡辩家	gui bian jia	0
+刽子手	gui zi shou	0
+卖国贼	mai guo zei	0
+捣蛋鬼	dao dan gui	0
+软青皮	ruan qing pi	0
+软骨头	ruan gu tou	0
+软蛋包	ruan dan bao	0
+熊蛋包	xiong dan bao	0
+现世报	xian shi bao	0
+败兴鸟	bai xing niao	0
+败家子	bai jia zi	0
+姑奶奶	gu nai nai	0
+牧猪奴	mu zhu nu	0
+势利眼	shi li yan	0
+丧家犬	sang jia quan	0
+丧家狗	sang jia gou	0
+丧门星	sang men xing	0
+丧门神	sang men shen	0
+洋鬼子	yang gui zi	0
+活寡妇	huo gua fu	0
+活阎王	huo yan wang	0
+活阎罗	huo yan luo	0
+活王八	huo wang ba	0
+独眼龙	du yan long	0
+冒失鬼	mao shi gui	0
+追命鬼	zhui ming gui	0
+胆小鬼	dan xiao gui	0
+是非精	shi fei jing	0
+看家狗	kan jia gou	0
+贱骨肉	jian gu rou	0
+贱骨头	jian gu tou	0
+厚脸皮	hou lian pi	0
+钻营者	zuan ying zhe	0
+侵略者	qin lue zhe	0
+独裁者	du cai zhe	0
+狠心人	hen xin ren	0
+狠心狼	hen xin lang	0
+保护伞	bao hu san	0
+要饭的	yao fan de	0
+要饭的	yao fan di	0
+糟豆腐	zao dou fu	0
+造反派	zao fan pai	0
+莽张飞	mang zhang fei	0
+笑面虎	xiao mian hu	0
+害人虫	hai ren chong	0
+害人精	hai ren jing	0
+酒坛子	jiu tan zi	0
+倒爷儿	dao ye er	0
+倒灶鬼	dao zao gui	0
+冤大头	yuan da tou	0
+铁公鸡	tie gong ji	0
+贼骨头	zei gu tou	0
+破烂货	po lan huo	0
+破落户	po luo hu	0
+流浪汉	liu lang han	0
+流窜犯	liu cuan fan	0
+混混儿	hun hun er	0
+混球儿	hun qiu er	0
+痨病鬼	lao bing gui	0
+浪荡子	lang dang zi	0
+浪蹄子	lang ti zi	0
+养汉精	yang han jing	0
+笨鸭子	ben ya zi	0
+脏泥猴	zang ni hou	0
+寄生虫	ji sheng chong	0
+跟屁虫	gen pi chong	0
+瘾君子	yin jun zi	0
+教唆犯	jiao suo fan	0
+假善人	jia shan ren	0
+假正经	jia zheng jing	0
+假大空	jia da kong	0
+假小子	jia xiao zi	0
+假行家	jia hang jia	0
+肇事者	zhao shi zhe	0
+剥削者	bo xue zhe	0
+猪八戒	zhu ba jie	0
+黄脸婆	huang lian po	0
+淘气包	tao qi bao	0
+眼中钉	yan zhong ding	0
+骑墙派	qi qiang pai	0
+野心家	ye xin jia	0
+野汉子	ye han zi	0
+野男子	ye nan zi	0
+野鸳鸯	ye yuan yang	0
+雌老虎	ci lao hu	0
+搅家精	jiao jia jing	0
+孱头货	chan tou huo	0
+孱头货	can tou huo	0
+棒子手	bang zi shou	0
+棒老二	bang lao er	0
+黑心人	hei xin ren	0
+黑五类	hei wu lei	0
+落伍者	luo wu zhe	0
+落水狗	luo shui gou	0
+第三者	di san zhe	0
+短命鬼	duan ming gui	0
+窝囊废	wo nang fei	0
+阔小姐	kuo xiao jie	0
+阔太太	kuo tai tai	0
+阔少爷	kuo shao ye	0
+替死鬼	ti si gui	0
+替罪羊	ti zui yang	0
+锛儿头	ben er tou	0
+骚女人	sao nv ren	0
+剽窃者	piao qie zhe	0
+傻闷子	sha men zi	0
+傻小子	sha xiao zi	0
+傻大姐	sha da jie	0
+傻丫头	sha ya tou	0
+大傻瓜	da sha gua	0
+大傻帽	da sha mao	0
+催命鬼	cui ming gui	0
+嘎小子	ga xiao zi	0
+踩倒爬	cai dao pa	0
+糊涂虫	hu tu chong	0
+懒婆娘	lan po niang	0
+磕头虫	ke tou chong	0
+嘻皮士	xi pi shi	0
+暴发户	bao fa hu	0
+醋罐子	cu guan zi	0
+墙头草	qiang tou cao	0
+薄命鬼	bo ming gui	0
+薄情郎	bo qing lang	0
+癞皮狗	lai pi gou	0
+邋遢鬼	la ta gui	0
+话篓子	hua lou zi	0
+神经病	shen jing bing	0
+疯丫头	feng ya tou	0
+一丘之貉	yi qiu zhi he	0
+二等公民	er deng gong min	0
+亡命之徒	wang ming zhi tu	0
+公子哥儿	gong zi ge er	0
+少爷羔子	shao ye gao zi	0
+风流人物	feng liu ren wu	0
+风派人物	feng pai ren wu	0
+斗方名士	dou fang ming shi	0
+斗筲之人	dou shao zhi ren	0
+牛皮大王	niu pi dai wang	0
+牛皮大王	niu pi da wang	0
+牛头马面	niu tou ma mian	0
+牛鬼蛇神	niu gui she shen	0
+不肖子孙	bu xiao zi sun	0
+不逞之徒	bu cheng zhi tu	0
+不法分子	bu fa fen zi	0
+不法商贩	bu fa shang fan	0
+头面人物	tou mian ren wu	0
+东郭先生	dong guo xian sheng	0
+白字先生	bai zi xian sheng	0
+白面书生	bai mian shu sheng	0
+白眼儿狼	bai yan er lang	0
+冬烘先生	dong hong xian sheng	0
+市井小人	shi jing xiao ren	0
+市井无赖	shi jing wu lai	0
+衣架饭囊	yi jia fan nang	0
+衣冠禽兽	yi guan qin shou	0
+老八板儿	lao ba ban er	0
+老运动员	lao yun dong yuan	0
+后台老板	hou tai lao ban	0
+行尸走肉	xing shi zou rou	0
+朽木粪土	xiu mu fen tu	0
+好好先生	hao hao xian sheng	0
+好事之徒	hao shi zhi tu	0
+好色之徒	hao se zhi tu	0
+吹牛大王	chui niu dai wang	0
+吹牛大王	chui niu da wang	0
+江湖骗子	jiang hu pian zi	0
+江洋大盗	jiang yang da dao	0
+花花公子	hua hua gong zi	0
+花花太岁	hua hua tai sui	0
+伴食宰相	ban shi zai xiang	0
+社会渣滓	she hui zha zi	0
+极左分子	ji zuo fen zi	0
+极右分子	ji you fen zi	0
+极端分子	ji duan fen zi	0
+杯土死灰	bei tu si hui	0
+投机分子	tou ji fen zi	0
+投敌分子	tou di fen zi	0
+冷血动物	leng xue dong wu	0
+河东狮子	he dong shi zi	0
+废物点心	fei wu dian xin	0
+变节分子	bian jie fen zi	0
+变质分子	bian zhi fen zi	0
+变眼猴儿	bian yan hou er	0
+狗头军师	gou tou jun shi	0
+贪污分子	tan wu fen zi	0
+狐朋狗友	hu peng gou you	0
+狐群狗党	hu qun gou dang	0
+拉皮条的	la pi tiao de	0
+拉皮条的	la pi tiao di	0
+是非兜儿	shi fei dou er	0
+帮派人物	bang pai ren wu	0
+战争狂人	zhan zheng kuang ren	0
+战争贩子	zhan zheng fan zi	0
+疤瘌眼儿	ba la yan er	0
+轻薄子弟	qing bo zi di	0
+害群之马	hai qun zhi ma	0
+顽固分子	wan gu fen zi	0
+恐怖分子	kong bu fen zi	0
+通敌分子	tong di fen zi	0
+梁上君子	liang shang jun zi	0
+睁眼瞎子	zheng yan xia zi	0
+浪荡公子	lang dang gong zi	0
+浪荡哥儿	lang dang ge er	0
+冤家对头	yuan jia dui tou	0
+徒子徒孙	tu zi tu sun	0
+窃国大盗	qie guo da dao	0
+酒肉朋友	jiu rou peng you	0
+酒囊饭袋	jiu nang fan dai	0
+黄毛丫头	huang mao ya tou	0
+渔色之徒	yu se zhi tu	0
+渔色之徒	yu shai zhi tu	0
+混帐东西	hun zhang dong xi	0
+混世魔王	hun shi mo wang	0
+饭囊酒瓮	fan nang jiu weng	0
+御用文人	yu yong wen ren	0
+惊弓之鸟	jing gong zhi niao	0
+黑线人物	hei xian ren wu	0
+跳梁小丑	tiao liang xiao chou	0
+漏网之鱼	lou wang zhi yu	0
+漏网分子	lou wang fen zi	0
+糟老头子	zao lao tou zi	0
+精神贵族	jing shen gui zu	0
+爆竹筒子	bao zhu tong zi	0
+露水夫妻	lu shui fu qi	0
+鞭炮夫妻	bian pao fu qi	0

@@ -1,0 +1,171 @@
+# 词库名称: 职称大全
+# 词库分类: 上士 中士 下士 少尉 中尉 上尉 大尉 少校
+# 词库作者: 天字007
+# 词库描述: 介绍职称大全的词库。
+# 词条数量: 163
+# 解析词数: 163
+# 解析异常: 0
+
+上士	shang shi	0
+中士	zhong shi	0
+下士	xia shi	0
+少尉	shao wei	0
+中尉	zhong wei	0
+上尉	shang wei	0
+大尉	da wei	0
+少校	shao xiao	0
+中校	zhong xiao	0
+上校	shang xiao	0
+大校	da xiao	0
+准将	zhun jiang	0
+少将	shao jiang	0
+中将	zhong jiang	0
+上将	shang jiang	0
+大将	da jiang	0
+元帅	yuan shuai	0
+将军	jiang jun	0
+医士	yi shi	0
+护士	hu shi	0
+医师	yi shi	0
+律师	lv shi	0
+教员	jiao yuan	0
+编审	bian shen	0
+馆员	guan yuan	0
+教授	jiao shou	0
+讲师	jiang shi	0
+助教	zhu jiao	0
+助工	zhu gong	0
+译审	yi shen	0
+翻译	fan yi	0
+技师	ji shi	0
+技士	ji shi	0
+药师	yao shi	0
+研究员	yan jiu yuan	0
+实验师	shi yan shi	0
+实验员	shi yan yuan	0
+农艺师	nong yi shi	0
+兽医师	shou yi shi	0
+兽医员	shou yi yuan	0
+兽医员	shou yi yun	0
+畜牧师	xu mu shi	0
+畜牧员	xu mu yuan	0
+畜牧员	xu mu yun	0
+经济师	jing ji shi	0
+经济员	jing ji yuan	0
+经济员	jing ji yun	0
+会计师	kuai ji shi	0
+会计员	kuai ji yuan	0
+统计师	tong ji shi	0
+统计员	tong ji yuan	0
+药剂师	yao ji shi	0
+药剂士	yao ji shi	0
+中医师	zhong yi shi	0
+助产士	zhu chan shi	0
+检验师	jian yan shi	0
+检验士	jian yan shi	0
+副教授	fu jiao shou	0
+副译审	fu yi shen	0
+副译审	pi yi shen	0
+副编审	fu bian shen	0
+副编审	pi bian shen	0
+美术师	mei shu shi	0
+美术员	mei shu yuan	0
+美术员	mei shu yun	0
+管理员	guan li yuan	0
+监督员	jian du yuan	0
+演奏员	yan zou yuan	0
+工程师	gong cheng shi	0
+技术员	ji shu yuan	0
+档案员	dang an yuan	0
+档案员	dang an yun	0
+副研究员	fu yan jiu yuan	0
+高级讲师	gao ji jiang shi	0
+助理讲师	zhu li jiang shi	0
+一级教师	yi ji jiao shi	0
+二级教师	er ji jiao shi	0
+三级教师	san ji jiao shi	0
+助理教练	zhu li jiao lian	0
+主治医师	zhu zhi yi shi	0
+主任医师	zhu ren yi shi	0
+主任护师	zhu ren hu shi	0
+主管护师	zhu guan hu shi	0
+主管药师	zhu guan yao shi	0
+高级记者	gao ji ji zhe	0
+主任记者	zhu ren ji zhe	0
+助理记者	zhu li ji zhe	0
+高级编辑	gao ji bian ji	0
+主任编辑	zhu ren bian ji	0
+助理编辑	zhu li bian ji	0
+助理翻译	zhu li fan yi	0
+播音指导	bo yin zhi dao	0
+技术编辑	ji shu bian ji	0
+一级校对	yi ji jiao dui	0
+二级校对	er ji jiao dui	0
+三级校对	san ji jiao dui	0
+研究馆员	yan jiu guan yuan	0
+助理馆员	zhu li guan yuan	0
+关务监督	guan wu jian du	0
+一级演员	yi ji yan yuan	0
+二级演员	er ji yan yuan	0
+三级演员	san ji yan yuan	0
+四级演员	si ji yan yuan	0
+舞台技师	wu tai ji shi	0
+主任律师	zhu ren lv shi	0
+国家裁判	guo jia cai pan	0
+国际裁判	guo ji cai pan	0
+特级教师	te ji jiao shi	0
+主任技师	zhu ren ji shi	0
+主管技师	zhu guan ji shi	0
+特级厨师	te ji chu shi	0
+一级厨师	yi ji chu shi	0
+助理研究员	zhu li yan jiu yuan	0
+研究实习员	yan jiu shi xi yuan	0
+高级实验师	gao ji shi yan shi	0
+助理实验师	zhu li shi yan shi	0
+高级农艺师	gao ji nong yi shi	0
+助理农艺师	zhu li nong yi shi	0
+农业技术员	nong ye ji shu yuan	0
+农业技术员	nong ye ji shu yun	0
+高级禽医师	gao ji qin yi shi	0
+助理兽医师	zhu li shou yi shi	0
+高级畜牧师	gao ji xu mu shi	0
+助理畜牧师	zhu li xu mu shi	0
+高级经济师	gao ji jing ji shi	0
+助理经济师	zhu li jing ji shi	0
+高级会计师	gao ji kuai ji shi	0
+助理会计师	zhu li kuai ji shi	0
+高级统计师	gao ji tong ji shi	0
+助理统计师	zhu li tong ji shi	0
+主任播音员	zhu ren bo yin yuan	0
+一级播音员	yi ji bo yin yuan	0
+二级播音员	er ji bo yin yuan	0
+三级播音员	san ji bo yin yuan	0
+技术设计员	ji shu she ji yuan	0
+技术设计员	ji shu she ji yun	0
+副研究馆员	fu yan jiu guan yuan	0
+工艺美术师	gong yi mei shu shi	0
+工艺美术员	gong yi mei shu yuan	0
+工艺美术员	gong yi mei shu yun	0
+舞美设计员	wu mei she ji yuan	0
+舞台设计员	wu tai she ji yuan	0
+舞台设计员	wu tai she ji yun	0
+副主任医师	fu zhu ren yi shi	0
+副主任护师	fu zhu ren hu shi	0
+副主任药师	fu zhu ren yao shi	0
+高级工程师	gao ji gong cheng shi	0
+助理工程师	zhu li gong cheng shi	0
+副主任技师	fu zhu ren ji shi	0
+高级关务监督	gao ji guan wu jian du	0
+助理关务监督	zhu li guan wu jian du	0
+主任舞台技师	zhu ren wu tai ji shi	0
+中国象棋大师	zhong guo xiang qi da shi	0
+国际象棋大师	guo ji xiang qi da shi	0
+高级工艺美术师	gao ji gong yi mei shu shi	0
+助理工艺美术师	zhu li gong yi mei shu shi	0
+舞台美术设计师	wu tai mei shu she ji shi	0
+高级实习指导教师	gao ji shi xi zhi dao jiao shi	0
+一级实习指导教师	yi ji shi xi zhi dao jiao shi	0
+二级实习指导教师	er ji shi xi zhi dao jiao shi	0
+三级实习指导教师	san ji shi xi zhi dao jiao shi	0
+中国象棋特级大师	zhong guo xiang qi te ji da shi	0
+国际象棋特级大师	guo ji xiang qi te ji da shi	0
