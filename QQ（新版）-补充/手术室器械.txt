@@ -1,0 +1,854 @@
+# 词库名称: 手术室器械
+# 词库分类: 医疗器械
+# 词库描述: 所有常用手术室器械
+# 词条样例: 二号吸引器、神经剥离子、脑室穿刺针、枪状镊、大筐
+# 解析词数: 855
+# 解析异常: 8
+
+安装扳手	an zhuang ban shou	102
+安装螺丝	an zhuang luo si	114
+凹形凿	ao xing zao	375
+拔杆	ba gan	620
+白扁带	bai bian dai	511
+白穿刺帽	bai chuan ci mao	258
+百克钳	bai ke qian	356
+白扣	bai kou	335
+半环肛门镜	ban huan gang men jing	809
+半年无纺布	ban nian wu fang bu	761
+扳手	ban shou	61
+半圆锉	ban yuan cuo	607
+保护套	bao hu tao	216
+保护套管	bao hu tao guan	313
+被动探针	bei dong tan zhen	40
+杯形钳	bei xing qian	156
+杯状钳	bei zhuang qian	743
+鼻剥离器	bi bo li qi	735
+鼻甲剪	bi jia jian	696
+鼻剪	bi jian	702
+闭孔器	bi kong qi	15
+鼻窥	bi kui	378
+鼻窥器	bi kui qi	754
+鼻息肉钳	bi xi rou qian	123
+鼻咬骨钳	bi yao gu qian	369
+鼻凿	bi zao	731
+鼻中隔撑开器	bi zhong ge cheng kai qi	734
+鼻中隔切钳	bi zhong ge qie qian	725
+鼻中隔咬钳	bi zhong ge yao qian	730
+扁桃钳	bian tao qian	280
+扁桃体拉钩	bian tao ti la gou	718
+扁桃体皮钳	bian tao ti pi qian	720
+扁桃体圈套器	bian tao ti quan tao qi	716
+扁桃体针持	bian tao ti zhen chi	719
+扁桃体抓钳	bian tao ti zhua qian	717
+标本提取钳	biao ben ti qu qian	584
+标准钛夹施夹钳	biao zhun tai jia shi jia qian	340
+薄剪	bo jian	820
+剥离器	bo li qi	343
+剥离子	bo li zi	751
+布包布	bu bao bu	473
+布巾钳	bu jin qian	830
+侧壁钳	ce bi qian	279
+侧骨咬骨钳	ce gu yao gu qian	846
+侧空吸引器	ce kong xi yin qi	481
+侧孔吸引器头	ce kong xi yin qi tou	468
+侧口支撑喉镜支架	ce kou zhi cheng hou jing zhi jia	331
+侧球胆道剪	ce qiu dan dao jian	285
+测试腔	ce shi qiang	113
+测探尺	ce tan chi	600
+铲刀	chan dao	140
+铲形剥离器	chan xing bo li qi	372
+铲状吸引器	chan zhuang xi yin qi	281
+长薄剪	chang bo jian	621
+长甲状腺拉钩	chang jia zhuang xian la gou	800
+长镊	chang nie	781
+长镊子	chang nie zi	480
+肠钳	chang qian	653
+长双关节卵圆钳	chang shuang guan jie luan yuan qian	630
+长双关节无损伤血管阻断钳	chang shuang guan jie wu sun shang xue guan zu duan qian	634
+长弯分离钳	chang wan fen li qian	365
+长无齿镊	chang wu chi nie	801
+长针持	chang zhen chi	622
+长针器	chang zhen qi	791
+长针头	chang zhen tou	787
+长直钳	chang zhi qian	79
+肠抓钳	chang zhua qian	347
+长组织剪	chang zu zhi jian	349
+超乳手柄	chao ru shou bing	86
+超乳头帽	chao ru tou mao	85
+超声骨刀手柄	chao sheng gu dao shou bing	101
+成角钻头导向器	cheng jiao zuan tou dao xiang qi	350
+成角钻头向导器	cheng jiao zuan tou xiang dao qi	610
+撑开器	cheng kai qi	60
+持骨钳	chi gu qian	219
+持物筒	chi wu tong	443
+持针器	chi zhen qi	825
+持针钳	chi zhen qian	736
+齿状尖端钻套适配器	chi zhuang jian duan zuan tao shi pei qi	35
+冲水管头	chong shui guan tou	230
+冲洗接头	chong xi jie tou	111
+冲洗头	chong xi tou	334
+冲洗针	chong xi zhen	291
+冲洗针头	chong xi zhen tou	424
+穿刺器	chuan ci qi	790
+穿刺针	chuan ci zhen	619
+穿刺锥	chuan ci zhui	387
+创口拉钩	chuang kou la gou	318
+锤骨头剪	chui gu tou jian	226
+锤子	chui zi	724
+粗齿组织钳	cu chi zu zhi qian	475
+大杯	da bei	783
+大穿刺器	da chuan ci qi	582
+大刮匙	da gua chi	686
+大甲钩	da jia gou	254
+大开力钳	da kai li qian	278
+打孔器	da kong qi	392
+大筐	da kuang	855
+大拉钩	da la gou	464
+大力剪	da li jian	3
+大棉球	da mian qiu	506
+大镊子	da nie zi	486
+大盆	da pen	807
+大弯	da wan	476
+大弯盘	da wan pan	814
+大弯钳	da wan qian	805
+大血管夹	da xue guan jia	361
+打印标签	da yin biao qian	513
+大直角	da zhi jiao	487
+大直角钳	da zhi jiao qian	676
+大抓钳	da zhua qian	588
+带齿弯钳	dai chi wan qian	570
+带齿直钳	dai chi zhi qian	435
+带齿抓钳	dai chi zhua qian	410
+带吸引剥离器	dai xi yin bo li qi	728
+带线手柄	dai xian shou bing	80
+带张力计接口	dai zhang li ji jie kou	593
+胆道探子	dan dao tan zi	485
+单关节活检钳	dan guan jie huo jian qian	624
+单关节无损伤血管阻断钳	dan guan jie wu sun shang xue guan zu duan qian	97
+单尖双面骨锉	dan jian shuang mian gu cuo	388
+胆静脉阻断钳	dan jing mai zu duan qian	171
+胆囊钳	dan nang qian	483
+胆囊探条	dan nang tan tiao	282
+胆囊抓钳	dan nang zhua qian	408
+氮气钻马达	dan qi zuan ma da	329
+胆石匙	dan shi chi	283
+胆石钳	dan shi qian	484
+刀柄	dao bing	764
+倒齿抓钳	dao chi zhua qian	136
+导航开口器尖端	dao hang kai kou qi jian duan	50
+导航胸椎开路器尖端	dao hang xiong zhui kai lu qi jian duan	48
+导航腰椎开路器尖端	dao hang yao zhui kai lu qi jian duan	49
+刀片	dao pian	540
+导丝	dao si	310
+导向器把手	dao xiang qi ba shou	606
+导针	dao zhen	602
+点铲	dian chan	260
+电铲	dian chan	337
+电池盖	dian chi gai	271
+电刀头	dian dao tou	453
+电钩	dian gou	338
+电凝钩	dian ning gou	793
+电凝线	dian ning xian	14
+电凝针	dian ning zhen	55
+电切环保护管	dian qie huan bao hu guan	16
+电切环大环	dian qie huan da huan	17
+电切环球环	dian qie huan qiu huan	21
+电切环针环	dian qie huan zhen huan	20
+垫子	dian zi	740
+钓鱼钳	diao yu qian	699
+顶头扩张管	ding tou kuo zhang guan	315
+定位针	ding wei zhen	13
+动脉弯钳	dong mai wan qian	322
+杜式骨刀	du shi gu dao	74
+断棒器	duan bang qi	63
+短甲状腺拉钩	duan jia zhuang xian la gou	799
+短双关节卵圆钳	duan shuang guan jie luan yuan qian	629
+短双关节无损伤血管阻断钳	duan shuang guan jie wu sun shang xue guan zu duan qian	633
+短有齿镊	duan you chi nie	775
+娥眉凿	e mei zao	547
+鳄嘴钳	e zui qian	159
+二层器械盒	er ceng qi xie he	30
+二点四超乳头	er dian si chao ru tou	107
+二点四超乳头帽	er dian si chao ru tou mao	106
+二点五号耳科吸引头	er dian wu hao er ke xi yin tou	748
+二号耳科吸引头	er hao er ke xi yin tou	749
+二号吸引器	er hao xi yin qi	838
+二角规	er jiao gui	274
+二晶片超乳手柄	er jing pian chao ru shou bing	29
+耳科吸引头	er ke xi yin tou	220
+方巾	fang jin	527
+方盘	fang pan	498
+防水盖	fang shui gai	196
+肺叶钳	fei ye qian	670
+分离钳	fen li qian	785
+分离抓钳	fen li zhua qian	650
+分叶喉镜	fen ye hou jing	94
+缝合针	feng he zhen	525
+缝线钳	feng xian qian	252
+缝针	feng zhen	541
+妇二科百克剪	fu er ke bai ke jian	4
+妇二科百克钳芯	fu er ke bai ke qian xin	6
+腹腔拉钩	fu qiang la gou	762
+腹式切除器	fu shi qie chu qi	357
+复位钩	fu wei gou	93
+妇一科百克钳	fu yi ke bai ke qian	64
+改锥	gai zhui	598
+肝脾拉钩	gan pi la gou	182
+钢板	gang ban	428
+肛肠包	gang chang bao	454
+肛门镜	gang men jing	810
+钢丝剪	gang si jian	546
+钢丝捆扎器	gang si kun za qi	235
+钢丝拧	gang si ning	189
+高速马达	gao su ma da	645
+宫颈钳	gong jing qian	684
+工具	gong ju	427
+工具盒	gong ju he	104
+工具手柄	gong ju shou bing	134
+宫腔镜包	gong qiang jing bao	456
+工作尖	gong zuo jian	98
+工作尖盒	gong zuo jian he	99
+工作平台基座	gong zuo ping tai ji zuo	595
+工作手件	gong zuo shou jian	19
+钩刀	gou dao	380
+勾线器	gou xian qi	185
+骨剥	gu bo	578
+骨匙	gu chi	611
+骨锤	gu chui	579
+骨挫	gu cuo	660
+骨锉	gu cuo	548
+骨刀	gu dao	563
+固定工具托板	gu ding gong ju tuo ban	105
+固定螺钉	gu ding luo ding	12
+固定镊弯	gu ding nie wan	412
+固定镊直	gu ding nie zhi	413
+骨钩	gu gou	557
+股骨导向器把手	gu gu dao xiang qi ba shou	597
+股骨瞄准器	gu gu miao zhun qi	605
+股骨钻	gu gu zuan	603
+骨剪	gu jian	542
+骨科被动参考架	gu ke bei dong can kao jia	46
+骨科复位钳	gu ke fu wei qian	215
+骨膜	gu mo	233
+骨膜剥离器	gu mo bo li qi	852
+骨膜剥离子	gu mo bo li zi	666
+骨撬	gu qiao	562
+骨凿	gu zao	561
+刮匙	gua chi	853
+管道剪	guan dao jian	187
+管道钳	guan dao qian	191
+光导食道镜	guang dao shi dao jing	160
+光源帽	guang yuan mao	237
+硅胶垫	gui jiao dian	655
+哈巴狗	ha ba gou	169
+荷包钳	he bao qian	324
+颌窦吸引管	he dou xi yin guan	121
+盒子	he zi	232
+黑把椎板咬骨钳	hei ba zhui ban yao gu qian	552
+黑柄剪刀	hei bing jian dao	266
+黑金咬骨钳	hei jin yao gu qian	301
+黑金咬骨钳手柄	hei jin yao gu qian shou bing	304
+黑色电叉	hei se dian cha	257
+黑色电钩	hei se dian gou	261
+黑色无损伤钳	hei se wu sun shang qian	259
+黑神经剥离子	hei shen jing bo li zi	72
+黑钥匙	hei yao shi	339
+黑直角钳	hei zhi jiao qian	264
+虹膜恢复器	hong mo hui fu qi	289
+喉刀	hou dao	199
+喉刀手柄	hou dao shou bing	208
+喉镜支架	hou jing zhi jia	96
+后颅凹咬骨钳	hou lu ao yao gu qian	850
+后颅窝牵开器	hou lu wo qian kai qi	551
+喉手术剪	hou shou shu jian	760
+花生米	hua sheng mi	534
+花生米钳	hua sheng mi qian	172
+环锯	huan ju	317
+环锯保护限位器	huan ju bao hu xian wei qi	308
+环锯手柄	huan ju shou bing	311
+黄柄剪刀	huang bing jian dao	265
+黄色无损伤钳	huang se wu sun shang qian	263
+灰色追踪器	hui se zhui zong qi	52
+回旋刀	hui xuan dao	727
+活检帽	huo jian mao	238
+活检钳	huo jian qian	723
+肌键剥离子	ji jian bo li zi	390
+肌瘤钻	ji liu zuan	358
+棘突持骨钳	ji tu chi gu qian	73
+棘突夹	ji tu jia	41
+棘突夹长	ji tu jia chang	43
+棘突夹短	ji tu jia duan	42
+夹持器	jia chi qi	590
+甲钩	jia gou	186
+加仪	jia yi	458
+甲状腺剪	jia zhuang xian jian	678
+甲状腺拉钩	jia zhuang xian la gou	796
+剪刀	jian dao	586
+肩胛拉钩	jian jia la gou	659
+尖细持针器	jian xi chi zhen qi	824
+尖线剪	jian xian jian	181
+尖嘴钳	jian zui qian	267
+角膜剪	jiao mo jian	244
+脚丫型骨刀	jiao ya xing gu dao	576
+接口	jie kou	594
+解剖镊	jie pou nie	768
+接头	jie tou	396
+金柄针持	jin bing zhen chi	669
+金属吸引器	jin shu xi yin qi	572
+金属吸引器头	jin shu xi yin qi tou	553
+胫骨钻	jing gu zuan	604
+静脉拉钩	jing mai la gou	319
+经皮钉参考架	jing pi ding can kao jia	47
+镜鞘	jing qiao	141
+镜体	jing ti	197
+晶体夹持镊	jing ti jia chi nie	245
+晶体调位钩	jing ti tiao wei gou	248
+晶体推注器	jing ti tui zhu qi	247
+晶体线环	jing ti xian huan	89
+晶体植入镊	jing ti zhi ru nie	246
+晶体植入器	jing ti zhi ru qi	88
+精细长剪	jing xi chang jian	360
+精细分离钳	jing xi fen li qian	677
+精细剪	jing xi jian	711
+精细脑压板	jing xi nao ya ban	383
+精细吸引器	jing xi xi yin qi	382
+颈椎牵开器	jing zhui qian kai qi	566
+九号针头	jiu hao zhen tou	739
+九十度胆道剪	jiu shi du dan dao jian	284
+锯片	ju pian	333
+橘色追踪器	ju se zhui zong qi	51
+聚血盆	ju xue pen	834
+开睑器	kai jian qi	415
+开颅钻马达	kai lu zuan ma da	640
+开颅钻头三件套	kai lu zuan tou san jian tao	641
+柯可钳	ke ke qian	190
+克氏剪	ke shi jian	236
+克氏针接头	ke shi zhen jie tou	242
+克氏针延长杆	ke shi zhen yan chang gan	268
+可调节式固定桩	ke tiao jie shi gu ding zhuang	592
+可调节钻头限深器	ke tiao jie zuan tou xian shen qi	34
+孔巾	kong jin	528
+扣扣钳	kou kou qian	490
+口腔镜	kou qiang jing	496
+口腔镊子	kou qiang nie zi	495
+裤腿	ku tui	504
+宽臼拉钩	kuan jiu la gou	543
+窥器	kui qi	693
+窥阴器	kui yin qi	439
+扩宫器	kuo gong qi	682
+扩宫条	kuo gong tiao	508
+扩孔钻	kuo kong zuan	312
+扩张器	kuo zhang qi	530
+拉钩	la gou	817
+蓝把椎板咬骨钳	lan ba zhui ban yao gu qian	550
+蓝穿刺锥	lan chuan ci zhui	262
+篮筐	lan kuang	214
+篮帽工作套管	lan mao gong zuo tao guan	309
+篮钳	lan qian	302
+蓝色垫子	lan se dian zi	155
+蓝色胶垫	lan se jiao dian	212
+阑尾钳	lan wei qian	780
+阑尾抓钳	lan wei zhua qian	409
+老虎钳	lao hu qian	556
+肋骨合拢器	lei gu he long qi	478
+肋骨剪	lei gu jian	661
+肋骨拉钩	lei gu la gou	657
+肋骨钳	lei gu qian	662
+镰刀状粘膜刀	lian dao zhuang nian mo dao	120
+连接臂	lian jie bi	213
+连接线	lian jie xian	5
+镰状刀	lian zhuang dao	198
+量管	liang guan	612
+两孔连接座	liang kong lian jie zuo	45
+临时动脉夹	lin shi dong mai jia	341
+零度钳	ling du qian	700
+六号吸管	liu hao xi guan	688
+六晶片超乳手柄	liu jing pian chao ru shou bing	110
+拢合器	long he qi	664
+颅钻	lu zuan	115
+卵圆钳	luan yuan qian	770
+螺钉	luo ding	429
+螺帽	luo mao	533
+螺丝刀	luo si dao	393
+螺丝扩张器	luo si kuo zhang qi	355
+缕空直平台显微镊	lv kong zhi ping tai xian wei nie	153
+马达电缆	ma da dian lan	646
+马达线	ma da xian	231
+玛莱普剪	ma lai pu jian	69
+玛莱普钳	ma lai pu qian	70
+玛莱普手柄	ma lai pu shou bing	67
+玛莱普套管	ma lai pu tao guan	68
+麦粒钳	mai li qian	225
+门静脉阻断钳	men jing mai zu duan qian	170
+泌外微创包	mi wai wei chuang bao	455
+棉片	mian pian	536
+棉签	mian qian	535
+棉球	mian qiu	441
+磨头	mo tou	643
+磨钻手柄	mo zuan shou bing	644
+脑部直形解剖镊	nao bu zhi xing jie pou nie	848
+脑膜剥离器	nao mo bo li qi	851
+脑膜镊	nao mo nie	843
+脑乳突牵开器	nao ru tu qian kai qi	381
+脑室穿刺针	nao shi chuan ci zhen	844
+脑外电钻	nao wai dian zuan	116
+脑压板	nao ya ban	854
+内镜器械	nei jing qi xie	457
+内六角螺丝刀	nei liu jiao luo si dao	44
+内帽	nei mao	24
+内鞘	nei qiao	57
+粘膜刀	nian mo dao	695
+粘膜切钳	nian mo qie qian	122
+碾皮板	nian pi ban	9
+镊子	nie zi	462
+帕巾钳	pa jin qian	531
+爬行卡	pa xing ka	472
+配件	pei jian	397
+盆腔拉钩	pen qiang la gou	767
+皮瓣刀	pi ban dao	222
+脾蒂钳	pi di qian	489
+皮肤拉钩	pi fu la gou	773
+辟核刀	pi he dao	423
+劈核钩	pi he gou	92
+皮钳	pi qian	431
+平镊	ping nie	816
+平头拉钩	ping tou la gou	658
+平头咬骨钳	ping tou yao gu qian	385
+平凿	ping zao	379
+平针头	ping zhen tou	404
+气腹针	qi fu zhen	789
+气管	qi guan	330
+气管导管	qi guan dao guan	518
+气管扩张器	qi guan kuo zhang qi	515
+气管套管	qi guan tao guan	529
+七号刀柄	qi hao dao bing	822
+七号刮匙	qi hao gua chi	509
+七号吸管	qi hao xi guan	689
+脐剪	qi jian	766
+器械盒	qi xie he	713
+器械筐	qi xie kuang	71
+起子	qi zi	103
+卡子	qia zi	229
+钳夹式不可固定柱	qian jia shi bu ke gu ding zhu	589
+牵开器	qian kai qi	567
+钳鞘	qian qiao	7
+钳蕊	qian rui	82
+钳式开口器	qian shi kai kou qi	127
+钳头	qian tou	296
+钳外鞘	qian wai qiao	81
+钳芯	qian xin	8
+腔镜盒	qiang jing he	614
+腔镜剪	qiang jing jian	786
+枪式钳	qiang shi qian	158
+枪形剥离子	qiang xing bo li zi	384
+枪状镊	qiang zhuang nie	840
+鞘膜刀	qiao mo dao	223
+切钳	qie qian	697
+锲形剥离器	qie xing bo li qi	370
+清创包孔巾	qing chuang bao kong jin	512
+清洁片	qing jie pian	459
+取环勾	qu huan gou	438
+取环钩	qu huan gou	692
+取腱器	qu jian qi	599
+取瘤镊	qu liu nie	377
+取瘤钳	qu liu qian	376
+取皮刀片	qu pi dao pian	11
+取皮刀手柄	qu pi dao shou bing	10
+取石钳	qu shi qian	470
+取栓镊	qu shuan nie	188
+取物钳柄	qu wu qian bing	297
+圈镊	quan nie	117
+人流刮匙	ren liu gua chi	502
+乳突牵开器	ru tu qian kai qi	849
+乳突牵开器单关节四齿	ru tu qian kai qi dan guan jie si chi	745
+乳突牵开器双关节三齿	ru tu qian kai qi shuang guan jie san chi	746
+软管式取石钳	ruan guan shi qu shi qian	286
+三点二克氏针夹头	san dian er ke shi zhen jia tou	354
+三点零超乳头	san dian ling chao ru tou	26
+三点零超乳头帽	san dian ling chao ru tou mao	25
+三号侧孔吸引器	san hao ce kong xi yin qi	733
+三号刀柄	san hao dao bing	726
+三号耳科吸引头	san hao er ke xi yin tou	747
+三号拉钩	san hao la gou	145
+三号吸引器	san hao xi yin qi	837
+三角刀	san jiao dao	224
+三十度钳	san shi du qian	701
+三十二分之五钻头夹头	san shi er fen zhi wu zuan tou jia tou	351
+三爪持骨器	san zhao chi gu qi	544
+纱块	sha kuai	522
+纱条	sha tiao	537
+上环器	shang huan qi	691
+上翘喉手术剪	shang qiao hou shou shu jian	206
+上翘喉手术钳	shang qiao hou shou shu qian	757
+上弯髓核钳	shang wan sui he qian	568
+上弯中耳剪	shang wan zhong er jian	218
+勺钳	shao qian	616
+舌头钳	she tou qian	626
+蛇形臂	she xing bi	211
+蛇形臂接头	she xing bi jie tou	210
+深部拉勾	shen bu la gou	391
+肾蒂钳	shen di qian	471
+神经剥离子	shen jing bo li zi	847
+神经钩	shen jing gou	344
+神经拉钩	shen jing la gou	575
+神经探子	shen jing tan zi	305
+肾盂拉钩	shen yu la gou	469
+绳子	sheng zi	526
+十二度电切镜	shi er du dian qie jing	18
+十二号针	shi er hao zhen	788
+食管镜鞘	shi guan jing qiao	295
+施夹钳	shi jia qian	249
+史塞克摆锯	shi sai ke bai ju	2
+狮咬持骨器	shi yao chi gu qi	253
+手柄	shou bing	336
+手柄线	shou bing xian	192
+手术剪	shou shu jian	516
+手术拉钩	shou shu la gou	706
+手摇钻	shou yao zuan	407
+输精管夹钳	shu jing guan jia qian	147
+输卵管钳	shu luan guan qian	784
+疏通钢丝	shu tong gang si	209
+双关节持针器	shuang guan jie chi zhen qi	623
+双关节活检钳	shuang guan jie huo jian qian	631
+双关节棘突咬骨钳	shuang guan jie ji tu yao gu qian	842
+双关节剪刀	shuang guan jie jian dao	636
+双关节卵圆钳	shuang guan jie luan yuan qian	118
+双关节无损伤血管阻断钳	shuang guan jie wu sun shang xue guan zu duan qian	119
+双关节咬骨钳	shuang guan jie yao gu qian	477
+双关节直角钳	shuang guan jie zhi jiao qian	628
+双关节组织钳	shuang guan jie zu zhi qian	627
+双极器械连线	shuang ji qi xie lian xian	66
+双尖单面骨锉	shuang jian dan mian gu cuo	394
+双头剥离子	shuang tou bo li zi	694
+双头刮匙	shuang tou gua chi	128
+双头肌键分离器	shuang tou ji jian fen li qi	395
+双爪皮肤拉勾	shuang zhua pi fu la gou	389
+水管	shui guan	100
+水管接头	shui guan jie tou	112
+四分之一钻头夹头	si fen zhi yi zuan tou jia tou	352
+四号侧孔吸引器	si hao ce kong xi yin qi	732
+四号刀柄	si hao dao bing	823
+四号拉钩	si hao la gou	144
+四号平针头	si hao ping zhen tou	450
+四号吸引器	si hao xi yin qi	836
+四号线	si hao xian	523
+撕囊镊	si nang nie	91
+四十五度钳	si shi wu du qian	703
+四头导向器	si tou dao xiang qi	601
+四爪爬钩	si zhao pa gou	752
+松质骨钻头	song zhi gu zuan tou	38
+髓核钳	sui he qian	306
+钛夹钳	tai jia qian	580
+钛夹施夹钳	tai jia shi jia qian	342
+探宫条	tan gong tiao	690
+弹簧剪	tan huang jian	386
+探针	tan zhen	808
+套管器	tao guan qi	126
+套管针	tao guan zhen	314
+套管针适配器	tao guan zhen shi pei qi	36
+套环扩张器	tao huan kuo zhang qi	316
+通风帽	tong feng mao	239
+通条	tong tiao	571
+通用钻套手柄	tong yong zuan tao shou bing	32
+头皮夹钳	tou pi jia qian	839
+推管器	tui guan qi	124
+推结器	tui jie qi	637
+托马斯右开口	tuo ma si you kai kou	131
+托马斯左开口	tuo ma si zuo kai kou	132
+外帽	wai mao	23
+外鞘	wai qiao	58
+弯鼻骨膜剥离器	wan bi gu mo bo li qi	707
+弯扁桃体针	wan bian tao ti zhen	715
+弯肠钳	wan chang qian	363
+弯持骨钳	wan chi gu qian	704
+万触接头	wan chu jie tou	269
+弯分离钳	wan fen li qian	652
+弯剪	wan jian	774
+弯剪刀	wan jian dao	466
+弯尖剪	wan jian jian	812
+弯扣扣钳	wan kou kou qian	255
+弯卵圆钳	wan luan yuan qian	683
+弯盘	wan pan	519
+弯钳	wan qian	779
+弯舌抓钳	wan she zhua qian	325
+弯头吸引器	wan tou xi yin qi	625
+弯无齿卵圆钳	wan wu chi luan yuan qian	803
+弯吸引头	wan xi yin tou	721
+弯显微针持	wan xian wei zhen chi	149
+弯血管钳	wan xue guan qian	738
+弯有齿卵圆钳	wan you chi luan yuan qian	819
+弯整形镊	wan zheng xing nie	708
+弯止血钳	wan zhi xue qian	437
+网筐	wang kuang	180
+胃钳	wei qian	488
+蚊钳	wen qian	399
+蚊式钳	wen shi qian	482
+蚊弯	wen wan	432
+蚊弯钳	wen wan qian	829
+蚊直	wen zhi	426
+蚊直钳	wen zhi qian	256
+无齿卵圆钳	wu chi luan yuan qian	772
+无齿镊	wu chi nie	795
+无齿显微镊	wu chi xian wei nie	420
+无齿直卵圆钳	wu chi zhi luan yuan qian	687
+无创镊	wu chuang nie	673
+无创伤抓钳	wu chuang shang zhua qian	654
+无创抓持钳	wu chuang zhua chi qian	323
+无纺布	wu fang bu	532
+五官科镊	wu guan ke nie	449
+五官镊	wu guan nie	400
+五号拉钩	wu hao la gou	143
+五号吸管	wu hao xi guan	503
+五号吸引器	wu hao xi yin qi	835
+无损伤持针器	wu sun shang chi zhen qi	674
+无损伤尖头镊	wu sun shang jian tou nie	77
+无损伤镊	wu sun shang nie	656
+无损伤钳	wu sun shang qian	617
+无损伤圆头镊	wu sun shang yuan tou nie	78
+无损伤整形镊	wu sun shang zheng xing nie	710
+无损伤抓钳	wu sun shang zhua qian	348
+五洋二号拉勾	wu yang er hao la gou	164
+五洋三号拉勾	wu yang san hao la gou	163
+五洋四号拉勾	wu yang si hao la gou	162
+五洋五号拉勾	wu yang wu hao la gou	161
+五洋一号拉勾	wu yang yi hao la gou	165
+细齿组织钳	xi chi zu zhi qian	474
+铣刀保护鞘	xi dao bao hu qiao	638
+铣刀片	xi dao pian	642
+铣刀手柄	xi dao shou bing	639
+吸管	xi guan	507
+吸球	xi qiu	771
+吸收帽	xi shou mao	195
+吸引管	xi yin guan	755
+吸引帽	xi yin mao	240
+吸引器	xi yin qi	792
+吸引器头	xi yin qi tou	461
+吸引套管	xi yin tao guan	345
+吸引头	xi yin tou	742
+吸引头内芯	xi yin tou nei xin	56
+膝状镊	xi zhuang nie	753
+线剪	xian jian	798
+线锯柄	xian ju bing	841
+线锯导引	xian ju dao yin	845
+显微持针器	xian wei chi zhen qi	414
+显微持针钳	xian wei chi zhen qian	276
+显微活检钳	xian wei huo jian qian	54
+显微剪	xian wei jian	447
+显微角膜剪	xian wei jiao mo jian	421
+显微解剖镊	xian wei jie pou nie	251
+纤维解剖镊	xian wei jie pou nie	573
+显微镊	xian wei nie	448
+显微钳	xian wei qian	444
+显微外科镊	xian wei wai ke nie	403
+显微外科钳	xian wei wai ke qian	402
+显微弯剪	xian wei wan jian	150
+显微维纳斯剪	xian wei wei na si jian	290
+显微无齿镊	xian wei wu chi nie	294
+纤维吸引器	xian wei xi yin qi	371
+显微有齿镊	xian wei you chi nie	417
+显微针持	xian wei zhen chi	446
+显微直剪	xian wei zhi jian	151
+显微组织剪	xian wei zu zhi jian	250
+线引子	xian yin zi	277
+纤支镜	xian zhi jing	241
+香蕉刀	xiang jiao dao	139
+镶片持针钳	xiang pian chi zhen qian	712
+小杯	xiao bei	831
+小穿刺器	xiao chuan ci qi	583
+消毒通道	xiao du tong dao	270
+小儿肾蒂钳	xiao er shen di qian	168
+小刮匙	xiao gua chi	685
+小刮勺	xiao gua shao	272
+小硅胶垫	xiao gui jiao dian	65
+小剪刀	xiao jian dao	501
+小精密器械盒	xiao jing mi qi xie he	193
+小筐	xiao kuang	815
+小拉钩	xiao la gou	463
+小棉球	xiao mian qiu	521
+小镊子	xiao nie zi	494
+小纱块	xiao sha kuai	539
+小弯	xiao wan	452
+小弯盘	xiao wan pan	442
+小弯钳	xiao wan qian	828
+小药杯	xiao yao bei	806
+小直角	xiao zhi jiao	671
+小直角分离钳	xiao zhi jiao fen li qian	585
+小直角钳	xiao zhi jiao qian	492
+小直钳	xiao zhi qian	451
+小盅	xiao zhong	500
+小抓钳	xiao zhua qian	587
+斜视钩	xie shi gou	418
+斜视镊	xie shi nie	416
+心耳钳	xin er qian	665
+心房拉钩	xin fang la gou	183
+新可视支撑喉镜支架	xin ke shi zhi cheng hou jing zhi jia	1
+型把手	xing ba shou	609
+型粘膜刀	xing nian mo dao	729
+胸长剪	xiong chang jian	663
+胸长钳	xiong chang qian	491
+胸长弯分离钳	xiong chang wan fen li qian	667
+胸长弯钳	xiong chang wan qian	668
+胸长直钳	xiong chang zhi qian	366
+胸大弯	xiong da wan	368
+胸骨锯电池	xiong gu ju dian chi	62
+胸腔撑开器	xiong qiang cheng kai qi	479
+胸腔荷包钳	xiong qiang he bao qian	648
+胸腔止血钳	xiong qiang zhi xue qian	364
+胸腔组织钳	xiong qiang zu zhi qian	649
+胸小弯	xiong xiao wan	367
+血管合拢器	xue guan he long qi	152
+血管夹	xue guan jia	445
+血管拉钩	xue guan la gou	332
+压肠板	ya chang ban	782
+牙钩	ya gou	497
+压舌板	ya she ban	440
+牙挺	ya ting	129
+鸭嘴持骨器	ya zui chi gu qi	559
+鸭嘴持骨钳	ya zui chi gu qian	273
+鸭嘴钳	ya zui qian	157
+眼睑撑开器	yan jian cheng kai qi	422
+眼科剪	yan ke jian	398
+眼科镊	yan ke nie	425
+眼科显微镜瞳距调节手柄	yan ke xian wei jing tong ju tiao jie shou bing	83
+眼科显微镜瞳距调节旋钮	yan ke xian wei jing tong ju tiao jie xuan niu	84
+盐水垫	yan shui dian	538
+眼用规	yan yong gui	411
+羊角牵开器	yang jiao qian kai qi	564
+药杯	yao bei	467
+咬骨钳	yao gu qian	698
+咬骨钳手柄	yao gu qian shou bing	303
+钥匙	yao shi	406
+叶片	ye pian	59
+一次性孔巾	yi ci xing kong jin	433
+一点零克氏针夹头	yi dian ling ke shi zhen jia tou	353
+一点五号耳科吸引头	yi dian wu hao er ke xi yin tou	750
+一号线	yi hao xian	524
+移植物量筒	yi zhi wu liang tong	596
+引线器	yin xian qi	184
+硬镜保护套	ying jing bao hu tao	22
+鹰嘴咬骨钳	ying zui yao gu qian	558
+右侧开口架	you ce kai kou jia	166
+有齿长镊	you chi chang nie	434
+有齿持针器	you chi chi zhen qi	675
+有齿卵圆钳	you chi luan yuan qian	765
+有齿镊	you chi nie	818
+有齿枪状镊	you chi qiang zhuang nie	373
+有齿显微镊	you chi xian wei nie	419
+有齿直钳	you chi zhi qian	560
+有齿抓钳	you chi zhua qian	346
+游离体抓钳	you li ti zhua qian	135
+右上侧分离器	you shang ce fen li qi	177
+右弯分离器	you wan fen li qi	175
+右弯喉手术剪	you wan hou shou shu jian	204
+右弯喉手术钳	you wan hou shou shu qian	759
+右弯篮钳	you wan lan qian	137
+右弯无损伤抓钳	you wan wu sun shang zhua qian	202
+圆棒	yuan bang	615
+圆盘	yuan pan	430
+圆盘骨剥	yuan pan gu bo	577
+圆头剥离器	yuan tou bo li qi	549
+圆头剥离子	yuan tou bo li zi	374
+圆头针	yuan tou zhen	130
+圆头直针	yuan tou zhi zhen	221
+张力计	zhang li ji	591
+长有齿镊	zhang you chi nie	76
+针持	zhen chi	722
+针头	zhen tou	510
+直肠钳	zhi chang qian	362
+直持骨钳	zhi chi gu qian	705
+置管器	zhi guan qi	125
+置管器加推管器	zhi guan qi jia tui guan qi	95
+置管钳	zhi guan qian	133
+直环形显微组织镊	zhi huan xing xian wei zu zhi nie	148
+支架	zhi jia	465
+直剪	zhi jian	821
+直尖剪	zhi jian jian	811
+直角分离钳	zhi jiao fen li qian	651
+直角钩针	zhi jiao gou zhen	741
+直角拉钩	zhi jiao la gou	778
+直角钳	zhi jiao qian	804
+直角双头拉钩	zhi jiao shuang tou la gou	709
+直角显微系线镊	zhi jiao xian wei xi xian nie	275
+直角压舌板	zhi jiao ya she ban	714
+直扣扣钳	zhi kou kou qian	769
+直篮钳	zhi lan qian	138
+治疗杯	zhi liao bei	679
+治疗碗	zhi liao wan	832
+直卵圆钳	zhi luan yuan qian	681
+直平台显微镊	zhi ping tai xian wei nie	154
+直钳	zhi qian	813
+直刃骨剪	zhi ren gu jian	234
+植入镊	zhi ru nie	90
+直舌抓钳	zhi she zhua qian	326
+指示条	zhi shi tiao	514
+直髓核钳	zhi sui he qian	569
+直头吸引器	zhi tou xi yin qi	632
+直无齿卵圆钳	zhi wu chi luan yuan qian	672
+直形肺挡	zhi xing fei dang	581
+直型喉手术剪	zhi xing hou shou shu jian	207
+直型喉手术钳	zhi xing hou shou shu qian	200
+直型无损伤抓钳	zhi xing wu sun shang zhua qian	201
+直血管钳	zhi xue guan qian	737
+止血夹	zhi xue jia	173
+止血器	zhi xue qi	87
+止血钳	zhi xue qian	517
+止血弯钳	zhi xue wan qian	520
+直鸭嘴钳	zhi ya zui qian	327
+直咬骨钳	zhi yao gu qian	31
+直有齿卵圆钳	zhi you chi luan yuan qian	436
+直圆分离器	zhi yuan fen li qi	179
+直中耳剪	zhi zhong er jian	227
+终板刮匙	zhong ban gua chi	555
+中长平镊	zhong chang ping nie	401
+中单	zhong dan	505
+中刮匙	zhong gua chi	554
+中筐	zhong kuang	680
+中拉钩	zhong la gou	142
+中镊子	zhong nie zi	493
+中弯盘	zhong wan pan	833
+中弯钳	zhong wan qian	827
+中弯止血钳	zhong wan zhi xue qian	499
+中无齿镊	zhong wu chi nie	802
+中直角钳	zhong zhi jiao qian	321
+肘式瞄准器	zhou shi miao zhun qi	613
+注射器套	zhu she qi tao	460
+注吸管	zhu xi guan	243
+注吸器	zhu xi qi	293
+抓钳	zhua qian	756
+转换帽	zhuan huan mao	618
+转换器	zhuan huan qi	794
+专用盒	zhuan yong he	744
+专用筐	zhuan yong kuang	647
+专用器械盒	zhuan yong qi xie he	287
+专用铁盒	zhuan yong tie he	298
+专用小盒	zhuan yong xiao he	288
+专用硬质容器盒	zhuan yong ying zhi rong qi he	53
+专用钻	zhuan yong zuan	608
+装卸工具	zhuang xie gong ju	39
+椎板拉钩	zhui ban la gou	574
+椎板咬骨钳	zhui ban yao gu qian	565
+椎附孔推进器	zhui fu kong tui jin qi	300
+椎间孔剪刀	zhui jian kong jian dao	299
+锥形扩张管	zhui xing kuo zhang guan	307
+自动持骨钳	zi dong chi gu qian	545
+自动拉钩	zi dong la gou	174
+子宫大抓钳	zi gong da zhua qian	359
+子宫组织钳	zi gong zu zhi qian	75
+紫色专用追踪器	zi se zhuan yong zhui zong qi	33
+阻断夹	zu duan jia	194
+阻断钳	zu duan qian	320
+组织剪	zu zhi jian	797
+组织镊	zu zhi nie	763
+组织钳	zu zhi qian	826
+钻机	zuan ji	217
+钻石刀	zuan shi dao	292
+钻头	zuan tou	405
+钻头架	zuan tou jia	228
+钻头三件套	zuan tou san jian tao	328
+钻头适配器	zuan tou shi pei qi	37
+左侧开口架	zuo ce kai kou jia	167
+左上侧分离器	zuo shang ce fen li qi	176
+左弯分离器	zuo wan fen li qi	178
+左弯喉手术剪	zuo wan hou shou shu jian	205
+左弯喉手术钳	zuo wan hou shou shu qian	758
+左弯无损伤抓钳	zuo wan wu sun shang zhua qian	203
