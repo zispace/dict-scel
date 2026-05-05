@@ -1,0 +1,2459 @@
+# 词库名称: 软件词典20130505
+# 词库分类: 个人专用
+# 词库描述: 软件词典20130505
+# 词条样例: 确定要停用吗、加盟商全称、确定要启用吗、功能原理、请填写要下载项目的编号
+# 解析词数: 2452
+# 解析异常: 0
+
+按表保存	an biao bao cun	541
+按单查询有效调价	an dan cha xun you xiao tiao jia	199
+按店订货	an dian ding huo	1271
+按店拣货	an dian jian huo	1057
+按店配货	an dian pei huo	1068
+按店铺等级分类	an dian pu deng ji fen lei	1162
+按店铺进行配货	an dian pu jin xing pei huo	1067
+按款查询有效调价	an kuan cha xun you xiao tiao jia	200
+按钮	an niu	2292
+按首字母查询	an shou zi mu cha xun	1831
+按所在城市分类	an suo zai cheng shi fen lei	1118
+按所在地区分类	an suo zai di qu fen lei	1161
+按系统业务进行权力分配管理	an xi tong ye wu jin xing quan li fen pei guan li	1425
+版本	ban ben	2332
+版号	ban hao	2084
+办理中	ban li zhong	2172
+版型	ban xing	1200
+版型编号	ban xing bian hao	21
+版型编号不能为空	ban xing bian hao bu neng wei kong	229
+版型不存在	ban xing bu cun zai	1233
+版型不能为空	ban xing bu neng wei kong	662
+版型代码	ban xing dai ma	830
+版型名称	ban xing ming cheng	459
+绑定	bang ding	118
+绑定菜单组	bang ding cai dan zu	811
+绑定电脑	bang ding dian nao	2118
+绑定方案	bang ding fang an	879
+绑定经销商	bang ding jing xiao shang	233
+绑定品牌	bang ding pin pai	57
+帮助	bang zhu	2085
+帮助发布成功	bang zhu fa bu cheng gong	2368
+帮助发布失败	bang zhu fa bu shi bai	2243
+帮助相关视频	bang zhu xiang guan shi pin	2221
+报表服务器	bao biao fu wu qi	424
+保存	bao cun	2220
+保存并新增	bao cun bing xin zeng	1354
+保存成功	bao cun cheng gong	2388
+保存到草稿箱	bao cun dao cao gao xiang	2098
+保存设置	bao cun she zhi	1842
+保存失败	bao cun shi bai	2386
+保存为草稿	bao cun wei cao gao	1900
+保存为个人设置	bao cun wei ge ren she zhi	75
+保存为公司设置	bao cun wei gong si she zhi	74
+包含商圈	bao han shang quan	255
+保密	bao mi	1817
+抱歉您浏览的页面出现异常信息	bao qian nin liu lan de ye mian chu xian yi chang xin xi	1514
+包装	bao zhuang	529
+包装需求	bao zhuang xu qiu	530
+被依赖关系	bei yi lai guan xi	2054
+备注	bei zhu	2263
+本店库存	ben dian ku cun	1109
+本配货单状态	ben pei huo dan zhuang tai	1207
+本区域排名	ben qu yu pai ming	1113
+本箱已扫描完成请勿重复确认	ben xiang yi sao miao wan cheng qing wu chong fu que ren	1136
+本月	ben yue	1509
+本周	ben zhou	1510
+必传参数为空或参数不符合规定	bi chuan can shu wei kong huo can shu bu fu he gui ding	1919
+比例不在规定范围内	bi li bu zai gui ding fan wei nei	1320
+必填	bi tian	463
+必填标识	bi tian biao zhi	2264
+必填参数不能为空	bi tian can shu bu neng wei kong	511
+必填字段不能停用	bi tian zi duan bu neng ting yong	1429
+必须为系统指定至少一门语言	bi xu wei xi tong zhi ding zhi shao yi men yu yan	1362
+必须选择一个所属公司经销商	bi xu xuan ze yi ge suo shu gong si jing xiao shang	1619
+变更日期	bian geng ri qi	507
+编号	bian hao	2073
+编号不符合规定	bian hao bu fu he gui ding	1582
+编号不能为空	bian hao bu neng wei kong	1435
+编号重复	bian hao chong fu	1785
+编号可用	bian hao ke yong	1784
+编号名称不允许修改	bian hao ming cheng bu yun xu xiu gai	933
+编号由系统自动生成不用填写	bian hao you xi tong zi dong sheng cheng bu yong tian xie	2300
+编辑	bian ji	2393
+编辑表名	bian ji biao ming	1940
+编辑当前标签	bian ji dang qian biao qian	2270
+编辑方案	bian ji fang an	236
+编辑分组	bian ji fen zu	669
+编辑分组类型	bian ji fen zu lei xing	670
+编辑价格策略	bian ji jia ge ce lue	875
+编辑模式不在有效范围内	bian ji mo shi bu zai you xiao fan wei nei	1427
+编辑生产订单	bian ji sheng chan ding dan	403
+编辑生产需求	bian ji sheng chan xu qiu	85
+编辑索引	bian ji suo yin	2019
+编辑外键	bian ji wai jian	2023
+编辑物流单	bian ji wu liu dan	1012
+编辑字段	bian ji zi duan	2059
+编码	bian ma	1286
+编码不能为空	bian ma bu neng wei kong	1490
+编码次序	bian ma ci xu	1812
+编码规则必须包含有颜色尺码	bian ma gui ze bi xu bao han you yan se chi ma	1298
+编码规则格式不正确	bian ma gui ze ge shi bu zheng que	1304
+边线颜色	bian xian yan se	413
+编写	bian xie	2423
+编写帮助文档	bian xie bang zhu wen dang	2301
+编写操作方法说明	bian xie cao zuo fang fa shuo ming	2144
+编写操作技巧	bian xie cao zuo ji qiao	2365
+编写概要说明	bian xie gai yao shuo ming	2367
+编写功能原理说明	bian xie gong neng yuan li shuo ming	2366
+编写使用注意事项	bian xie shi yong zhu yi shi xiang	2143
+编制单据	bian zhi dan ju	2194
+表单代码	biao dan dai ma	2150
+表单名称	biao dan ming cheng	2149
+表单信息	biao dan xin xi	2376
+表格抬头	biao ge tai tou	542
+表关联条件不能为空	biao guan lian tiao jian bu neng wei kong	1577
+标记	biao ji	1040
+表列表为空请检查配置	biao lie biao wei kong qing jian cha pei zhi	1449
+标签描述	biao qian miao shu	2282
+标签名称	biao qian ming cheng	2168
+标签信息	biao qian xin xi	2169
+表示自动高度不产生滚动条	biao shi zi dong gao du bu chan sheng gun dong tiao	471
+标题	biao ti	1663
+表信息	biao xin xi	722
+标识	biao zhi	549
+标准年份值	biao zhun nian fen zhi	449
+表字段	biao zi duan	883
+表字段编辑	biao zi duan bian ji	268
+波段	bo duan	1269
+播牌	bo pai	977
+不参加分货款式	bu can jia fen huo kuan shi	579
+不参加自动分货款式	bu can jia zi dong fen huo kuan shi	728
+不参与分货	bu can yu fen huo	547
+补充说明	bu chong shuo ming	2160
+不存在	bu cun zai	1926
+不存在的调价单	bu cun zai de tiao jia dan	1242
+补货仓	bu huo cang	781
+不可删除或停用系统数据	bu ke shan chu huo ting yong xi tong shu ju	1578
+部门	bu men	1691
+部门编码	bu men bian ma	2267
+部门档案管理	bu men dang an guan li	1850
+部门分类	bu men fen lei	1565
+部门类型不在有效范围内	bu men lei xing bu zai you xiao fan wei nei	861
+部门列表	bu men lie biao	1707
+部门名称	bu men ming cheng	2265
+部门详情	bu men xiang qing	1394
+部门信息	bu men xin xi	2268
+不能绑定私用分区	bu neng bang ding si yong fen qu	1186
+不能超过最大长度	bu neng chao guo zui da chang du	2413
+不能给公用分区配置参数	bu neng gei gong yong fen qu pei zhi can shu	1185
+不能为空	bu neng wei kong	1330
+不是有效部门编号操作无效	bu shi you xiao bu men bian hao cao zuo wu xiao	1
+不属于现金科目不允许删除	bu shu yu xian jin ke mu bu yun xu shan chu	41
+不同意	bu tong yi	2412
+不限	bu xian	1891
+不许为空	bu xu wei kong	1946
+不允许使用更新插入或删除	bu yun xu shi yong geng xin cha ru huo shan chu	1540
+不允许修改系统类型	bu yun xu xiu gai xi tong lei xing	1806
+裁床单	cai chuang dan	1181
+裁床数	cai chuang shu	80
+裁床数量	cai chuang shu liang	574
+菜单	cai dan	2185
+菜单编号	cai dan bian hao	503
+菜单测试	cai dan ce shi	534
+菜单地址不能为空	cai dan di zhi bu neng wei kong	1355
+菜单分类	cai dan fen lei	1345
+菜单分组编号必须为或大于等于	cai dan fen zu bian hao bi xu wei huo da yu deng yu	173
+菜单分组不存在或没有启用	cai dan fen zu bu cun zai huo mei you qi yong	292
+菜单管理	cai dan guan li	1726
+菜单描述	cai dan miao shu	685
+菜单名称	cai dan ming cheng	1316
+菜单模板	cai dan mu ban	390
+菜单模板不允许拷贝	cai dan mu ban bu yun xu kao bei	796
+菜单权	cai dan quan	1358
+菜单说明	cai dan shuo ming	687
+菜单搜索	cai dan sou suo	1821
+菜单图标	cai dan tu biao	686
+菜单图标不能为空	cai dan tu biao bu neng wei kong	1326
+菜单信息	cai dan xin xi	887
+采购单号	cai gou dan hao	366
+参加分货款式	can jia fen huo kuan shi	609
+参加自动分货款式	can jia zi dong fen huo kuan shi	729
+参考编号	can kao bian hao	1148
+参数必须为值之一请确认	can shu bi xu wei zhi zhi yi qing que ren	482
+参数编号	can shu bian hao	1669
+参数不在有效范围内	can shu bu zai you xiao fan wei nei	1404
+参数格式不正确	can shu ge shi bu zheng que	651
+参数格式不正确应为数值型	can shu ge shi bu zheng que ying wei shu zhi xing	513
+参数可以少但不能多	can shu ke yi shao dan bu neng duo	311
+参数类型	can shu lei xing	593
+参数描述	can shu miao shu	596
+参数名称	can shu ming cheng	1720
+参数配置	can shu pei zhi	1031
+参数设置	can shu she zhi	1753
+参数设置方式无效	can shu she zhi fang shi wu xiao	139
+参数说明	can shu shuo ming	1665
+参数私有者	can shu si you zhe	1668
+参数与实际不匹配	can shu yu shi ji bu pi pei	1558
+参数值	can shu zhi	1721
+参数值必须大于请确认	can shu zhi bi xu da yu qing que ren	148
+参数值必须等于请确认	can shu zhi bi xu deng yu qing que ren	514
+参数值必须为负请确认	can shu zhi bi xu wei fu qing que ren	171
+参数值必须为正请确认	can shu zhi bi xu wei zheng qing que ren	170
+参数值必须小于请确认	can shu zhi bi xu xiao yu qing que ren	149
+参数值必须在与之间请确认	can shu zhi bi xu zai yu zhi jian qing que ren	481
+参数值不能为请确认	can shu zhi bu neng wei qing que ren	147
+参数值类型无效	can shu zhi lei xing wu xiao	138
+参数值无效	can shu zhi wu xiao	322
+参与分货	can yu fen huo	578
+参照编号	can zhao bian hao	1027
+仓店编号	cang dian bian hao	1618
+仓店编码	cang dian bian ma	2442
+仓店档案管理	cang dian dang an guan li	1616
+仓店简称	cang dian jian cheng	2238
+仓店类型	cang dian lei xing	2447
+仓店目录	cang dian mu lu	1639
+仓店盘点	cang dian pan dian	962
+仓店全称	cang dian quan cheng	2237
+仓店详情	cang dian xiang qing	1418
+仓店信息	cang dian xin xi	2445
+仓库	cang ku	1624
+仓库编号	cang ku bian hao	48
+仓库编号不存在	cang ku bian hao bu cun zai	1179
+仓库编码	cang ku bian ma	23
+仓库不存在或者没有启用	cang ku bu cun zai huo zhe mei you qi yong	1325
+仓库简称	cang ku jian cheng	22
+仓库可分库存	cang ku ke fen ku cun	661
+仓库可配库存	cang ku ke pei ku cun	655
+仓库名称	cang ku ming cheng	47
+仓库目录	cang ku mu lu	1617
+仓库目前库存	cang ku mu qian ku cun	656
+仓库人员按店铺进行拣货配发	cang ku ren yuan an dian pu jin xing jian huo pei fa	1056
+仓库未绑定有效的发货公司	cang ku wei bang ding you xiao de fa huo gong si	1226
+仓库正在处理此单不能结案	cang ku zheng zai chu li ci dan bu neng jie an	313
+草稿	cao gao	1537
+草稿单	cao gao dan	2397
+草稿箱显示行数	cao gao xiang xian shi hang shu	473
+操作	cao zuo	2331
+操作成功	cao zuo cheng gong	1266
+操作方法	cao zuo fang fa	2228
+操作方式不在有效范围内	cao zuo fang shi bu zai you xiao fan wei nei	1213
+操作方式无效	cao zuo fang shi wu xiao	1415
+操作过程使用到的名词解释	cao zuo guo cheng shi yong dao de ming ci jie shi	2420
+操作技巧	cao zuo ji qiao	2227
+操作类型	cao zuo lei xing	1310
+操作失败	cao zuo shi bai	1264
+操作提示	cao zuo ti shi	682
+操作员编号	cao zuo yuan bian hao	2156
+操作员代码	cao zuo yuan dai ma	2398
+操作员类型	cao zuo yuan lei xing	2399
+操作员密码	cao zuo yuan mi ma	2154
+操作员配置	cao zuo yuan pei zhi	2002
+操作员信息	cao zuo yuan xin xi	2157
+操作员姓名	cao zuo yuan xing ming	2155
+测试	ce shi	1981
+测试页	ce shi ye	533
+差额	cha e	378
+查看	cha kan	2066
+查看帮助文档	cha kan bang zhu wen dang	2248
+查看菜单	cha kan cai dan	505
+查看当前任务办理进度	cha kan dang qian ren wu ban li jin du	2050
+查看定价修改日志	cha kan ding jia xiu gai ri zhi	872
+查看和提交单个店铺订单信息	cha kan he ti jiao dan ge dian pu ding dan xin xi	422
+查看进度	cha kan jin du	2259
+查看流程图	cha kan liu cheng tu	2068
+查看流转历史	cha kan liu zhuan li shi	1824
+查看明细	cha kan ming xi	871
+查看任务	cha kan ren wu	1961
+查看日志	cha kan ri zhi	945
+查看所有	cha kan suo you	2067
+查看消息	cha kan xiao xi	1864
+查看新增功能条	cha kan xin zeng gong neng tiao	2094
+查看邮件	cha kan you jian	1849
+查看原型	cha kan yuan xing	1506
+查看折扣	cha kan zhe kou	234
+查看职位应用	cha kan zhi wei ying yong	2110
+插入	cha ru	575
+查询	cha xun	2286
+查询单据	cha xun dan ju	2193
+查询档案	cha xun dang an	2407
+查询历史调价	cha xun li shi tiao jia	176
+查询权	cha xun quan	1337
+查询扫描流水	cha xun sao miao liu shui	1044
+查询素材图片	cha xun su cai tu pian	701
+查询语句包含错误提示为	cha xun yu ju bao han cuo wu ti shi wei	1408
+查询语句不能为空	cha xun yu ju bu neng wei kong	1571
+差异	cha yi	197
+差异数	cha yi shu	82
+查找	cha zhao	2362
+查找单据	cha zhao dan ju	2361
+查找任务	cha zhao ren wu	2139
+查找资料	cha zhao zi liao	2138
+产品编号不存在	chan pin bian hao bu cun zai	1996
+产销率	chan xiao lv	14
+长度	chang du	2052
+长度不能超过个字符	chang du bu neng chao guo ge zi fu	2083
+常用菜单	chang yong cai dan	2323
+常用店铺组	chang yong dian pu zu	557
+常用供应商组	chang yong gong ying shang zu	333
+常用经销商组	chang yong jing xiao shang zu	421
+常用款式组	chang yong kuan shi zu	174
+常用区域店铺组	chang yong qu yu dian pu zu	558
+常用筛选条件组	chang yong shai xuan tiao jian zu	559
+常用应用	chang yong ying yong	2336
+常用资料代码	chang yong zi liao dai ma	1608
+常用资料档案管理	chang yong zi liao dang an guan li	1606
+常用资料管理	chang yong zi liao guan li	1710
+常用资料列表	chang yong zi liao lie biao	1604
+常用资料描述	chang yong zi liao miao shu	1607
+常用资料名称	chang yong zi liao ming cheng	1609
+常用资料属性管理	chang yong zi liao shu xing guan li	1416
+常用资料信息	chang yong zi liao xin xi	1610
+超出调入分区欠分数	chao chu diao ru fen qu qian fen shu	183
+超出调入分区需求数	chao chu diao ru fen qu xu qiu shu	1164
+超出订货数量	chao chu ding huo shu liang	1188
+超出欠分数	chao chu qian fen shu	326
+超出需求数	chao chu xu qiu shu	1166
+超过允许上传大小	chao guo yun xu shang chuan da xiao	2380
+彻底删除	che di shan chu	153
+彻底删除所选图片	che di shan chu suo xuan tu pian	155
+撤回	che hui	2291
+陈列分类序号不存在或没启用	chen lie fen lei xu hao bu cun zai huo mei qi yong	898
+成本价	cheng ben jia	792
+成品生产订单	cheng pin sheng chan ding dan	106
+成品生产订单号	cheng pin sheng chan ding dan hao	364
+成品生产管理	cheng pin sheng chan guan li	108
+成品生产需求	cheng pin sheng chan xu qiu	107
+成品生产需求单信息	cheng pin sheng chan xu qiu dan xin xi	435
+成品需求单号	cheng pin xu qiu dan hao	434
+城市	cheng shi	1630
+城市不存在	cheng shi bu cun zai	582
+成员	cheng yuan	1834
+成员列表	cheng yuan lie biao	1704
+成员数	cheng yuan shu	1698
+尺码	chi ma	907
+尺码不存在	chi ma bu cun zai	1283
+尺码不能为空	chi ma bu neng wei kong	1311
+尺码分组管理	chi ma fen zu guan li	128
+尺码列表	chi ma lie biao	132
+尺码名称	chi ma ming cheng	130
+重建字段	chong jian zi duan	267
+重试	chong shi	1143
+重新绑定业务方法	chong xin bang ding ye wu fang fa	941
+重新分配	chong xin fen pei	645
+重新配置参数内容	chong xin pei zhi can shu nei rong	1661
+重新生成测试	chong xin sheng cheng ce shi	881
+重新调配	chong xin tiao pei	735
+重新验证	chong xin yan zheng	821
+重新载入页面	chong xin zai ru ye mian	617
+重置收回	chong zhi shou hui	644
+处理	chu li	2069
+处理理由	chu li li you	427
+处理人	chu li ren	11
+处理日期	chu li ri qi	376
+初始密码为	chu shi mi ma wei	1544
+创建	chuang jian	1587
+创建多语言	chuang jian duo yu yan	2090
+创建日期	chuang jian ri qi	502
+此参数不是私有参数不可以删除	ci can shu bu shi si you can shu bu ke yi shan chu	1381
+此单数量已入账请勿重复操作	ci dan shu liang yi ru zhang qing wu chong fu cao zuo	344
+此档案已有所属分组	ci dang an yi you suo shu fen zu	606
+词典编号	ci dian bian hao	2122
+词典类型	ci dian lei xing	2404
+词典明细	ci dian ming xi	1976
+词典条目	ci dian tiao mu	2159
+此方法只适用与添加方法	ci fang fa zhi shi yong yu tian jia fang fa	647
+此功能被以下职位引用	ci gong neng bei yi xia zhi wei yin yong	1722
+次品	ci pin	16
+次品率	ci pin lv	15
+次品数	ci pin shu	400
+次退数	ci tui shu	77
+次序	ci xu	1039
+次序值超出有效范围	ci xu zhi chao chu you xiao fan wei	1403
+此职位被以下部门引用	ci zhi wei bei yi xia bu men yin yong	1769
+从其它配置中复制	cong qi ta pei zhi zhong fu zhi	819
+从未订购过的款	cong wei ding gou guo de kuan	1246
+从未配货款	cong wei pei huo kuan	1217
+存销比	cun xiao bi	54
+存在下级档案不允许停用或删除	cun zai xia ji dang an bu yun xu ting yong huo shan chu	93
+错误	cuo wu	790
+错误说明	cuo wu shuo ming	791
+打勾状态	da gou zhuang tai	716
+大类	da lei	1268
+打印	da yin	2093
+打印帮助	da yin bang zhu	2247
+打印明细	da yin ming xi	1092
+大于	da yu	116
+大于零的款式	da yu ling de kuan shi	1243
+待处理	dai chu li	567
+待处理工作	dai chu li gong zuo	1879
+代理商编码	dai li shang bian ma	2357
+代理商简称	dai li shang jian cheng	2131
+代理商全称	dai li shang quan cheng	2130
+代理商信息	dai li shang xin xi	2355
+代码	dai ma	1603
+代码配置文件未生成请先生成	dai ma pei zhi wen jian wei sheng cheng qing xian sheng cheng	1448
+待审批	dai shen pi	375
+单号	dan hao	1094
+单价	dan jia	1086
+单价不能为负	dan jia bu neng wei fu	224
+单据编号	dan ju bian hao	766
+单据编号不正确	dan ju bian hao bu zheng que	1210
+单据不存在或已被删除	dan ju bu cun zai huo yi bei shan chu	1209
+单据不存在请先保存主单信息	dan ju bu cun zai qing xian bao cun zhu dan xin xi	1096
+单据结算总额	dan ju jie suan zong e	381
+单据类型	dan ju lei xing	431
+单据类型不在有效范围	dan ju lei xing bu zai you xiao fan wei	1350
+单据类型无效	dan ju lei xing wu xiao	851
+单据名称	dan ju ming cheng	842
+单据配置管理	dan ju pei zhi guan li	845
+单据日期	dan ju ri qi	279
+单据未审核请审核后再登账	dan ju wei shen he qing shen he hou zai deng zhang	309
+单据已登账不允许删除	dan ju yi deng zhang bu yun xu shan chu	184
+单据已登账不允许修改	dan ju yi deng zhang bu yun xu xiu gai	690
+单据已登账请勿重复操作	dan ju yi deng zhang qing wu chong fu cao zuo	308
+单据已结案请勿重复操作	dan ju yi jie an qing wu chong fu cao zuo	306
+单据已审核不允许删除	dan ju yi shen he bu yun xu shan chu	185
+单据已审核不允许修改	dan ju yi shen he bu yun xu xiu gai	691
+单据已审核请勿重复操作	dan ju yi shen he qing wu chong fu cao zuo	786
+单据已提交不允许删除	dan ju yi ti jiao bu yun xu shan chu	111
+单据已提交不允许修改	dan ju yi ti jiao bu yun xu xiu gai	112
+单据已提交请勿重复操作	dan ju yi ti jiao qing wu chong fu cao zuo	587
+单行查询	dan xing cha xun	546
+档案编号	dang an bian hao	418
+档案编号不存在	dang an bian hao bu cun zai	608
+档案不属于此分组	dang an bu shu yu ci fen zu	607
+档案分类名称	dang an fen lei ming cheng	145
+档案分组编号不存在	dang an fen zu bian hao bu cun zai	628
+档案分组编号不符合规则	dang an fen zu bian hao bu fu he gui ze	142
+档案分组类型编号不符合规则	dang an fen zu lei xing bian hao bu fu he gui ze	144
+档案分组类型不存在	dang an fen zu lei xing bu cun zai	629
+档案分组类型名称不能为空	dang an fen zu lei xing ming cheng bu neng wei kong	143
+档案分组名称	dang an fen zu ming cheng	8
+档案分组名称不能为空	dang an fen zu ming cheng bu neng wei kong	141
+档案类型编号不存在	dang an lei xing bian hao bu cun zai	110
+档案没有启用请启用后再设置	dang an mei you qi yong qing qi yong hou zai she zhi	517
+档案名称	dang an ming cheng	417
+档案属性名称	dang an shu xing ming cheng	32
+档案已启用过不可以再修改上级	dang an yi qi yong guo bu ke yi zai xiu gai shang ji	415
+当前标签	dang qian biao qian	2046
+当前菜单不包含指定属性请检查	dang qian cai dan bu bao han zhi ding shu xing qing jian cha	5
+当前操作	dang qian cao zuo	1020
+当前单据所处状态不允许此操作	dang qian dan ju suo chu zhuang tai bu yun xu ci cao zuo	1262
+当前分区不属于当前仓库	dang qian fen qu bu shu yu dang qian cang ku	1141
+当前会话已超时	dang qian hui hua yi chao shi	2313
+当前记录所处状态不允许此操作	dang qian ji lu suo chu zhuang tai bu yun xu ci cao zuo	1236
+当前价格策略	dang qian jia ge ce lue	1495
+当前设定值	dang qian she ding zhi	1667
+当前使用语言	dang qian shi yong yu yan	1365
+当前所选职位	dang qian suo xuan zhi wei	2109
+当前项目	dang qian xiang mu	2033
+当前状态不能删除	dang qian zhuang tai bu neng shan chu	283
+当前状态是不记住密码	dang qian zhuang tai shi bu ji zhu mi ma	1929
+当前状态是不记住用户名	dang qian zhuang tai shi bu ji zhu yong hu ming	1840
+当前状态是记住密码	dang qian zhuang tai shi ji zhu mi ma	1907
+当前状态是记住用户名	dang qian zhuang tai shi ji zhu yong hu ming	1841
+当前装箱单号	dang qian zhuang xiang dan hao	1023
+导出	dao chu	1041
+到期时间	dao qi shi jian	2070
+导入	dao ru	820
+导入并启用	dao ru bing qi yong	289
+导入成功	dao ru cheng gong	852
+导入失败	dao ru shi bai	853
+导入数据为空	dao ru shu ju wei kong	689
+导入文件不能为空	dao ru wen jian bu neng wei kong	325
+导入系统表格样式及说明	dao ru xi tong biao ge yang shi ji shuo ming	2249
+的仓店	de cang dian	776
+等待我处理的工作	deng dai wo chu li de gong zuo	1989
+等待执行	deng dai zhi xing	788
+等级	deng ji	1631
+登录	deng lu	2339
+等于	deng yu	841
+等于零的款式	deng yu ling de kuan shi	1244
+登帐	deng zhang	489
+登账	deng zhang	216
+登账成功	deng zhang cheng gong	307
+登账状态	deng zhang zhuang tai	44
+地理位置	di li wei zhi	61
+地区	di qu	169
+地图	di tu	88
+地址	di zhi	2128
+地址不能为空	di zhi bu neng wei kong	1905
+电话	dian hua	2174
+点击此处	dian ji ci chu	2280
+点击显示删除按钮	dian ji xian shi shan chu an niu	2342
+点击选用	dian ji xuan yong	1659
+店铺	dian pu	1625
+店铺被标记为但未执行应用更改	dian pu bei biao ji wei dan wei zhi xing ying yong geng gai	892
+店铺编号	dian pu bian hao	667
+店铺编号无效	dian pu bian hao wu xiao	1332
+店铺不存在或没有启用	dian pu bu cun zai huo mei you qi yong	1232
+店铺参数	dian pu can shu	1873
+店铺调拨	dian pu diao bo	965
+店铺分级类型编号不能为空	dian pu fen ji lei xing bian hao bu neng wei kong	151
+店铺分级类型不存在或没有启用	dian pu fen ji lei xing bu cun zai huo mei you qi yong	95
+店铺分组管理	dian pu fen zu guan li	674
+店铺类型	dian pu lei xing	904
+店铺列表	dian pu lie biao	318
+店铺零售	dian pu ling shou	963
+店铺名称	dian pu ming cheng	666
+店铺目录	dian pu mu lu	1614
+店铺数	dian pu shu	897
+店铺退货	dian pu tui huo	964
+店铺系统编号	dian pu xi tong bian hao	221
+店铺用户	dian pu yong hu	1882
+店铺用户权力	dian pu yong hu quan li	282
+店铺职位	dian pu zhi wei	1853
+店员目录	dian yuan mu lu	1486
+电子邮箱	dian zi you xiang	2337
+调拨发货	diao bo fa huo	960
+调拨收货	diao bo shou huo	1000
+调出	diao chu	739
+调出分区编号不存在	diao chu fen qu bian hao bu cun zai	1140
+调出分区库存不足	diao chu fen qu ku cun bu zu	1165
+调出区域	diao chu qu yu	734
+吊牌	diao pai	1941
+吊牌价	diao pai jia	1289
+吊牌金额	diao pai jin e	1281
+调入	diao ru	738
+调入分区编号不存在	diao ru fen qu bian hao bu cun zai	1139
+调入分区与调出分区不能相同	diao ru fen qu yu diao chu fen qu bu neng xiang tong	1135
+调入或调出分区不属于当前仓库	diao ru huo diao chu fen qu bu shu yu dang qian cang ku	1138
+订补数量	ding bu shu liang	220
+订单	ding dan	223
+订单合计	ding dan he ji	1153
+订单类型	ding dan lei xing	1149
+订单码比	ding dan ma bi	957
+订单明细	ding dan ming xi	1154
+订单日期	ding dan ri qi	1150
+订单数	ding dan shu	858
+订单信息	ding dan xin xi	1155
+订购	ding gou	1205
+订购款式状态	ding gou kuan shi zhuang tai	1247
+订货	ding huo	1117
+订货数量	ding huo shu liang	860
+顶级部门	ding ji bu men	1865
+顶级分类	ding ji fen lei	818
+定价方案	ding jia fang an	237
+定价管理	ding jia guan li	263
+定价政策	ding jia zheng ce	298
+订金扣减比率	ding jin kou jian bi lv	102
+订配码比管理	ding pei ma bi guan li	958
+动态数据	dong tai shu ju	466
+动态数据查询语句	dong tai shu ju cha xun yu ju	950
+动态数据查询语句不能为空	dong tai shu ju cha xun yu ju bu neng wei kong	1335
+动作词语	dong zuo ci yu	2294
+对常用资料档案进行管理	dui chang yong zi liao dang an jin xing guan li	1605
+对尺码进行分组管理	dui chi ma jin xing fen zu guan li	127
+对店铺进行各种业务分组管理	dui dian pu jin xing ge zhong ye wu fen zu guan li	673
+对该条目内容做出解释	dui gai tiao mu nei rong zuo chu jie shi	2158
+对公司内的相关档案进行管理	dui gong si nei de xiang guan dang an jin xing guan li	980
+对货品的相关档案进行管理	dui huo pin de xiang guan dang an jin xing guan li	978
+对基础档案进行批量导入	dui ji chu dang an jin xing pi liang dao ru	789
+对款式档案进行批量导入	dui kuan shi dang an jin xing pi liang dao ru	822
+对款式品牌档案进行管理	dui kuan shi pin pai dang an jin xing guan li	1738
+对全部的功能进行分类管理	dui quan bu de gong neng jin xing fen lei guan li	1725
+对素材进行分类查询	dui su cai jin xing fen lei cha xun	700
+對素材图片进行管理	dui su cai tu pian jin xing guan li	703
+对往来的单位档案进行管理	dui wang lai de dan wei dang an jin xing guan li	982
+对相关参数进行配置管理	dui xiang guan can shu jin xing pei zhi guan li	1032
+对相关权力操作进行分类管理	dui xiang guan quan li cao zuo jin xing fen lei guan li	1033
+对应尺码的可分库存	dui ying chi ma de ke fen ku cun	206
+对应尺码的可配库存	dui ying chi ma de ke pei ku cun	208
+对应尺码的目前库存	dui ying chi ma de mu qian ku cun	211
+对应科目	dui ying ke mu	548
+对应科目名称	dui ying ke mu ming cheng	518
+二次发货类型	er ci fa huo lei xing	448
+二级加盟商信息	er ji jia meng shang xin xi	2452
+发布	fa bu	2253
+发布查询	fa bu cha xun	744
+发布成功	fa bu cheng gong	1315
+发布失败	fa bu shi bai	1314
+发货备注	fa huo bei zhu	1008
+发货仓库	fa huo cang ku	353
+发货仓库编号	fa huo cang ku bian hao	416
+发货仓库编号无效	fa huo cang ku bian hao wu xiao	1333
+发货单	fa huo dan	1351
+发货单号	fa huo dan hao	1009
+发货单列表	fa huo dan lie biao	493
+发货单流水号	fa huo dan liu shui hao	490
+发货单培训视频	fa huo dan pei xun shi pin	2251
+发货地	fa huo di	1152
+发货地编号	fa huo di bian hao	409
+发货地地址	fa huo di di zhi	1084
+发货定价管理	fa huo ding jia guan li	992
+发货公司	fa huo gong si	1455
+发货公司编号不存在	fa huo gong si bian hao bu cun zai	1183
+发货公司编号不符合规则	fa huo gong si bian hao bu fu he gui ze	1327
+发货类型	fa huo lei xing	302
+发货类型编号	fa huo lei xing bian hao	407
+发货类型不能为空	fa huo lei xing bu neng wei kong	1296
+发货类型代码不存在	fa huo lei xing dai ma bu cun zai	1184
+发货确认	fa huo que ren	1052
+发货人	fa huo ren	1083
+发货人联系电话	fa huo ren lian xi dian hua	1082
+发货调价管理	fa huo tiao jia guan li	758
+发货已确认不能删除	fa huo yi que ren bu neng shan chu	1202
+发货折扣	fa huo zhe kou	1444
+发货状态	fa huo zhuang tai	98
+发送异常信息	fa song yi chang xin xi	1376
+返点	fan dian	296
+返点不在规定范围内	fan dian bu zai gui ding fan wei nei	331
+返回	fan hui	1974
+返回登录界面	fan hui deng lu jie mian	1392
+返回目录	fan hui mu lu	2433
+返回首页	fan hui shou ye	1982
+返回修改	fan hui xiu gai	684
+繁体名称	fan ti ming cheng	1828
+方案	fang an	297
+方案名称	fang an ming cheng	232
+方法编号	fang fa bian hao	1309
+方法调用参数不正确	fang fa diao yong can shu bu zheng que	346
+方法类型与接口类型不匹配	fang fa lei xing yu jie kou lei xing bu pi pei	140
+方法描述	fang fa miao shu	1307
+方法名称	fang fa ming cheng	1308
+放弃修改	fang qi xiu gai	2422
+方向	fang xiang	726
+分辨率建议为	fen bian lv jian yi wei	1538
+分仓	fen cang	940
+分货	fen huo	638
+分货仓库	fen huo cang ku	643
+分货合计数	fen huo he ji shu	180
+分货数据最后刷新日期	fen huo shu ju zui hou shua xin ri qi	657
+分货数量	fen huo shu liang	182
+分类	fen lei	1440
+分类不存在或已被删除	fen lei bu cun zai huo yi bei shan chu	1428
+分类代码	fen lei dai ma	1442
+分类名称	fen lei ming cheng	2014
+分类说明	fen lei shuo ming	885
+分类所属公司	fen lei suo shu gong si	2015
+分类信息	fen lei xin xi	886
+分配	fen pei	1723
+分配比例	fen pei bi li	929
+分配尺码	fen pei chi ma	131
+分配规则	fen pei gui ze	930
+分配权力	fen pei quan li	1758
+分配职位	fen pei zhi wei	1302
+分配职位到该用户	fen pei zhi wei dao gai yong hu	1734
+分区编号	fen qu bian hao	198
+分区编号不存在	fen qu bian hao bu cun zai	1198
+分区编号不符合规则	fen qu bian hao bu fu he gui ze	1220
+分区管理	fen qu guan li	770
+分区库存	fen qu ku cun	627
+分区库存合计数	fen qu ku cun he ji shu	178
+分区库存数量	fen qu ku cun shu liang	623
+分区类型	fen qu lei xing	857
+分区类型不在有效范围内	fen qu lei xing bu zai you xiao fan wei nei	1178
+分区名称	fen qu ming cheng	932
+分区名称不能为空	fen qu ming cheng bu neng wei kong	1180
+分区剩余总需求	fen qu sheng yu zong xu qiu	659
+分区信息	fen qu xin xi	859
+分区总库存	fen qu zong ku cun	825
+分享经验	fen xiang jing yan	2086
+分页查询	fen ye cha xun	545
+分支部门	fen zhi bu men	443
+分支机构	fen zhi ji gou	849
+分支机构参数	fen zhi ji gou can shu	1874
+分支机构用户	fen zhi ji gou yong hu	1883
+分支用户	fen zhi yong hu	441
+分支用户权力	fen zhi yong hu quan li	319
+分支职位	fen zhi zhi wei	1856
+分组	fen zu	1305
+分组编号	fen zu bian hao	1341
+分组管理	fen zu guan li	501
+分组类型编号不存在或没启用	fen zu lei xing bian hao bu cun zai huo mei qi yong	109
+分组类型名称	fen zu lei xing ming cheng	7
+分组描述	fen zu miao shu	1339
+分组名称	fen zu ming cheng	1340
+分组配置界面地址	fen zu pei zhi jie mian di zhi	146
+分组设置	fen zu she zhi	65
+父级编号不存在	fu ji bian hao bu cun zai	1371
+父级编号不符合规定	fu ji bian hao bu fu he gui ding	1372
+父级分类	fu ji fen lei	817
+父级科目不允许删除	fu ji ke mu bu yun xu shan chu	515
+附件上传失败	fu jian shang chuan shi bai	1963
+付款单位	fu kuan dan wei	3
+付款方	fu kuan fang	373
+付款方编号	fu kuan fang bian hao	371
+服务地址	fu wu di zhi	1843
+服务平台地址	fu wu ping tai di zhi	1433
+服务平台配置	fu wu ping tai pei zhi	1384
+服务器	fu wu qi	423
+负责人联系电话	fu ze ren lian xi dian hua	2129
+负责人姓名	fu ze ren xing ming	2356
+复制	fu zhi	1690
+复制全部	fu zhi quan bu	1731
+复制上一条	fu zhi shang yi tiao	989
+辅助核算	fu zhu he suan	552
+辅助核算单位	fu zhu he suan dan wei	189
+辅助核算单位编号	fu zhu he suan dan wei bian hao	190
+辅助核算单位不存在或没启用	fu zhu he suan dan wei bu cun zai huo mei qi yong	165
+服装	fu zhuang	2042
+服装行业字典条目不能为空	fu zhuang hang ye zi dian tiao mu bu neng wei kong	2047
+该标签还没有小工具请添加	gai biao qian hai mei you xiao gong ju qing tian jia	2166
+该部门的名称	gai bu men de ming cheng	1802
+该仓库不包含于生产订单中	gai cang ku bu bao han yu sheng chan ding dan zhong	676
+该操作员代码无效	gai cao zuo yuan dai ma wu xiao	2308
+该操作员未启用请与管理员联系	gai cao zuo yuan wei qi yong qing yu guan li yuan lian xi	2255
+该操作员已停用请与管理员联系	gai cao zuo yuan yi ting yong qing yu guan li yuan lian xi	2307
+该词典已存在引用项目不能删除	gai ci dian yi cun zai yin yong xiang mu bu neng shan chu	1839
+该词条已存在	gai ci tiao yi cun zai	2121
+该单不允许增加款式	gai dan bu yun xu zeng jia kuan shi	622
+该单据已完成请勿重复提交	gai dan ju yi wan cheng qing wu chong fu ti jiao	1142
+该单据正在提交请稍候录入	gai dan ju zheng zai ti jiao qing shao hou lu ru	1125
+该单已取消生产不允许修改	gai dan yi qu xiao sheng chan bu yun xu xiu gai	287
+该单已生产完成不允许修改	gai dan yi sheng chan wan cheng bu yun xu xiu gai	286
+该货号已发生业务不允许删除	gai huo hao yi fa sheng ye wu bu yun xu shan chu	1402
+该货品不包含于生产订单中	gai huo pin bu bao han yu sheng chan ding dan zhong	166
+该记录已经在使用不允许删除	gai ji lu yi jing zai shi yong bu yun xu shan chu	1373
+该任务为抄送任务点击知会	gai ren wu wei chao song ren wu dian ji zhi hui	2048
+该任务需要签收后才能处理	gai ren wu xu yao qian shou hou cai neng chu li	2260
+该物流单已签收请勿重复签收	gai wu liu dan yi qian shou qing wu chong fu qian shou	1101
+概要	gai yao	2229
+概要说明	gai yao shuo ming	2224
+岗位分组	gang wei fen zu	291
+高级编辑	gao ji bian ji	2430
+高级选项	gao ji xuan xiang	1727
+个人	ge ren	562
+个人设置	ge ren she zhi	899
+个人资料	ge ren zi liao	2000
+个直属下级经销商未绑定方案	ge zhi shu xia ji jing xiao shang wei bang ding fang an	240
+个字符	ge zi fu	1810
+给功能菜单分配职位	gei gong neng cai dan fen pei zhi wei	1724
+更多筛选条件	geng duo shai xuan tiao jian	1902
+更改	geng gai	2032
+更改上级部门	geng gai shang ji bu men	1709
+更改图标	geng gai tu biao	2152
+更换	geng huan	1653
+更换方法	geng huan fang fa	947
+更换图片	geng huan tu pian	1552
+更换照片	geng huan zhao pian	1547
+更新	geng xin	576
+更新成功	geng xin cheng gong	321
+更新规则	geng xin gui ze	2025
+工厂	gong chang	848
+工厂部门	gong chang bu men	442
+工厂裁床单	gong chang cai chuang dan	105
+工厂参数	gong chang can shu	1872
+工厂待办任务裁床发货管理	gong chang dai ban ren wu cai chuang fa huo guan li	634
+工厂发货单	gong chang fa huo dan	104
+工厂用户	gong chang yong hu	1881
+工厂用户权力	gong chang yong hu quan li	259
+工厂职位	gong chang zhi wei	1852
+供货仓	gong huo cang	782
+工具箱管理	gong ju xiang guan li	1542
+功能	gong neng	1553
+功能分组	gong neng fen zu	1599
+功能介绍	gong neng jie shao	2043
+功能名称	gong neng ming cheng	1764
+功能未完成	gong neng wei wan cheng	1792
+功能原理	gong neng yuan li	2436
+功能原理说明	gong neng yuan li shuo ming	2211
+公司	gong si	1627
+公司编号	gong si bian hao	985
+公司不存在	gong si bu cun zai	113
+公司档案	gong si dang an	981
+公司地址	gong si di zhi	986
+公司或经销商不存在	gong si huo jing xiao shang bu cun zai	614
+公司名称	gong si ming cheng	984
+公司目录	gong si mu lu	1640
+公司设置	gong si she zhi	900
+公司制度	gong si zhi du	1635
+共条记录	gong tiao ji lu	2396
+供应商	gong ying shang	363
+供应商编号	gong ying shang bian hao	1466
+供应商编码	gong ying shang bian ma	365
+供应商别名	gong ying shang bie ming	1465
+供应商不存在或没有启用	gong ying shang bu cun zai huo mei you qi yong	681
+供应商等级	gong ying shang deng ji	1462
+供应商管理	gong ying shang guan li	1461
+供应商简称	gong ying shang jian cheng	1464
+供应商名称	gong ying shang ming cheng	46
+供应商目录	gong ying shang mu lu	1459
+供应商全称	gong ying shang quan cheng	1463
+供应商详情	gong ying shang xiang qing	1407
+公用	gong yong	895
+公用分区	gong yong fen qu	893
+公用分区编号不存在	gong yong fen qu bian hao bu cun zai	1196
+公用分区不能与当前分区相同	gong yong fen qu bu neng yu dang qian fen qu xiang tong	1201
+工作职责	gong zuo zhi ze	1775
+勾选此项表示该字段不能被修改	gou xuan ci xiang biao shi gai zi duan bu neng bei xiu gai	921
+勾选此项表示该字段不允许为空	gou xuan ci xiang biao shi gai zi duan bu yun xu wei kong	923
+固定日期	gu ding ri qi	878
+固定天	gu ding tian	877
+关闭	guan bi	2242
+观看视频	guan kan shi pin	2437
+管理	guan li	2326
+管理常用菜单	guan li chang yong cai dan	2325
+管理此配置界面的密码	guan li ci pei zhi jie mian de mi ma	1388
+管理此配置界面的账号	guan li ci pei zhi jie mian de zhang hao	1390
+管理登录	guan li deng lu	2081
+管理店铺	guan li dian pu	668
+管理发货到物流公司	guan li fa huo dao wu liu gong si	1013
+管理分类	guan li fen lei	702
+管理工具箱	guan li gong ju xiang	2099
+管理和维护供应商档案	guan li he wei hu gong ying shang dang an	1460
+管理和维护经销商档案	guan li he wei hu jing xiao shang dang an	1473
+管理和维护款式档案	guan li he wei hu kuan shi dang an	1278
+管理密码	guan li mi ma	1389
+管理物流公司档案	guan li wu liu gong si dang an	987
+管理员密码	guan li yuan mi ma	1595
+管理员账号	guan li yuan zhang hao	1596
+管理账号	guan li zhang hao	1398
+关于产品	guan yu chan pin	2279
+关于我们	guan yu wo men	2165
+过滤器类型	guo lv qi lei xing	772
+过滤项	guo lv xiang	543
+过期	guo qi	768
+还能输入字	hai neng shu ru zi	2415
+号重复	hao chong fu	1816
+号码或者手机号码	hao ma huo zhe shou ji hao ma	1845
+合计	he ji	1894
+合计数量	he ji shu liang	49
+合计天数	he ji tian shu	2175
+很有用	hen you yong	2215
+后台维护	hou tai wei hu	1488
+忽略	hu lue	1375
+忽略该异常信息	hu lue gai yi chang xin xi	1374
+换货截止日期	huan huo jie zhi ri qi	835
+换货控制	huan huo kong zhi	906
+换货控制方式	huan huo kong zhi fang shi	295
+换货控制时间类型	huan huo kong zhi shi jian lei xing	837
+换货类型	huan huo lei xing	876
+换货率	huan huo lv	1453
+换货天日期	huan huo tian ri qi	880
+换货天数	huan huo tian shu	1452
+换货天数不能小于	huan huo tian shu bu neng xiao yu	96
+还原	huan yuan	1796
+还原类型不正确	huan yuan lei xing bu zheng que	6
+还原所选图片	huan yuan suo xuan tu pian	156
+回答	hui da	2384
+回答问题	hui da wen ti	2428
+回到上一页	hui dao shang yi ye	616
+恢复当前价格策略	hui fu dang qian jia ge ce lue	1524
+恢复默认	hui fu mo ren	946
+恢复为公司设置	hui fu wei gong si she zhi	73
+恢复为默认设置	hui fu wei mo ren she zhi	72
+恢复系统默认值	hui fu xi tong mo ren zhi	1660
+回收站	hui shou zhan	1798
+货币	huo bi	467
+货号	huo hao	1019
+货号不能为空	huo hao bu neng wei kong	601
+货控分区	huo kong fen qu	163
+货品档案	huo pin dang an	979
+货品分配管理	huo pin fen pei guan li	679
+获取	huo qu	1561
+获取编号值发生错误	huo qu bian hao zhi fa sheng cuo wu	186
+获取主键值发生错误	huo qu zhu jian zhi fa sheng cuo wu	450
+基本设置	ji ben she zhi	498
+基本信息	ji ben xin xi	1880
+基础档案导入	ji chu dang an dao ru	290
+基础资料	ji chu zi liao	2105
+季度	ji du	840
+季度代码不存在	ji du dai ma bu cun zai	1223
+季度代码不能为空	ji du dai ma bu neng wei kong	1318
+机构给下级发货的价格策略	ji gou gei xia ji fa huo de jia ge ce lue	262
+计划回货	ji hua hui huo	864
+计划回货日期	ji hua hui huo ri qi	432
+计划入库	ji hua ru ku	369
+计划入库日期	ji hua ru ku ri qi	53
+即将到期	ji jiang dao qi	2320
+季节	ji jie	1285
+级联	ji lian	1943
+计量单位	ji liang dan wei	1087
+记录不存在或没有启用	ji lu bu cun zai huo mei you qi yong	605
+记录不存在或已被删除	ji lu bu cun zai huo yi bei shan chu	2352
+计数	ji shu	1035
+集团公司	ji tuan gong si	265
+记住密码	ji zhu mi ma	2008
+记住用户名	ji zhu yong hu ming	275
+价格策略	jia ge ce lue	1383
+价格分类	jia ge fen lei	971
+价格分类不能为空	jia ge fen lei bu neng wei kong	599
+加工单价	jia gong dan jia	362
+加工费	jia gong fei	397
+加工费金额	jia gong fei jin e	396
+加工金额	jia gong jin e	361
+加急	jia ji	2321
+家居	jia ju	2039
+加盟店	jia meng dian	1483
+加盟商编码	jia meng shang bian ma	2450
+加盟商简称	jia meng shang jian cheng	2449
+加盟商全称	jia meng shang quan cheng	2448
+加盟商余额类型	jia meng shang yu e lei xing	975
+加入	jia ru	1763
+加一手	jia yi shou	1107
+加载中	jia zai zhong	1953
+简称	jian cheng	1646
+兼管	jian guan	1317
+拣货备注	jian huo bei zhu	1061
+拣货单分箱扫描装箱	jian huo dan fen xiang sao miao zhuang xiang	1103
+拣货单号	jian huo dan hao	1005
+拣货提醒日期	jian huo ti xing ri qi	1060
+建立部门档案	jian li bu men dang an	1868
+建立菜单	jian li cai dan	506
+建立仓店档案	jian li cang dian dang an	2446
+建立操作员档案	jian li cao zuo yuan dang an	2400
+建立常用资料档案	jian li chang yong zi liao dang an	1612
+建立成功	jian li cheng gong	345
+建立代理商档案	jian li dai li shang dang an	2132
+建立档案	jian li dang an	2195
+建立二级加盟商档案	jian li er ji jia meng shang dang an	2262
+建立供应商档案	jian li gong ying shang dang an	1467
+建立管理员账号	jian li guan li yuan zhang hao	1597
+建立经销商档案	jian li jing xiao shang dang an	1480
+建立品牌档案	jian li pin pai dang an	1742
+建立权力类型	jian li quan li lei xing	1870
+建立人	jian li ren	909
+建立日期	jian li ri qi	1913
+建立软件词典	jian li ruan jian ci dian	2146
+建立商品销售分类	jian li shang pin xiao shou fen lei	968
+建立时间	jian li shi jian	201
+建立属性档案	jian li shu xing dang an	1678
+建立新调整单	jian li xin tiao zheng dan	1497
+建立职位	jian li zhi wei	1871
+建立职位档案	jian li zhi wei dang an	2354
+建立总部公司档案	jian li zong bu gong si dang an	1649
+建立总公司部门档案	jian li zong gong si bu men dang an	2239
+件数	jian shu	1077
+建议大小不超过	jian yi da xiao bu chao guo	1652
+减一手	jian yi shou	1106
+兼职业务权	jian zhi ye wu quan	1359
+将改为未分配状态	jiang gai wei wei fen pei zhuang tai	1566
+将小工具添加到当前标签页	jiang xiao gong ju tian jia dao dang qian biao qian ye	2045
+将小工具移出当前标签页	jiang xiao gong ju yi chu dang qian biao qian ye	2044
+交叉业务	jiao cha ye wu	66
+交易记录	jiao yi ji lu	1251
+结案	jie an	491
+结案成功	jie an cheng gong	305
+解除绑定	jie chu bang ding	117
+接口查询	jie kou cha xun	1489
+接口服务	jie kou fu wu	1301
+借款申请单号	jie kuan shen qing dan hao	281
+借款申请同意	jie kuan shen qing tong yi	350
+借款申请退回	jie kuan shen qing tui hui	351
+借款申请中	jie kuan shen qing zhong	370
+借款总额	jie kuan zong e	404
+结算单位	jie suan dan wei	90
+结算价	jie suan jia	1258
+结算价不能大于现价	jie suan jia bu neng da yu xian jia	1192
+结算价不能小于	jie suan jia bu neng xiao yu	218
+结算金额	jie suan jin e	1280
+结算名称	jie suan ming cheng	89
+结算上级	jie suan shang ji	99
+截止日期	jie zhi ri qi	294
+金额	jin e	1255
+金额处理优先顺序	jin e chu li you xian shun xu	478
+金额类型代码不存在	jin e lei xing dai ma bu cun zai	1225
+金额类型代码不能为空	jin e lei xing dai ma bu neng wei kong	1294
+金额类型配置参数不能为空	jin e lei xing pei zhi can shu bu neng wei kong	1293
+金额占用	jin e zhan yong	191
+紧急	jin ji	2071
+今天	jin tian	1512
+近天存销比	jin tian cun xiao bi	438
+今天是年月日	jin tian shi nian yue ri	2064
+今天添加的职位	jin tian tian jia de zhi wei	1760
+今天新建的部门	jin tian xin jian de bu men	1799
+今天新增	jin tian xin zeng	2319
+今天新增的职位	jin tian xin zeng de zhi wei	1876
+经典样式	jing dian yang shi	1896
+精度	jing du	1950
+警告	jing gao	1858
+静态数据	jing tai shu ju	535
+静态数据不能为空	jing tai shu ju bu neng wei kong	1572
+静态信息	jing tai xin xi	847
+静态字段	jing tai zi duan	882
+经销商	jing xiao shang	1529
+经销商编号	jing xiao shang bian hao	1479
+经销商编号不存在	jing xiao shang bian hao bu cun zai	799
+经销商别名	jing xiao shang bie ming	1478
+经销商仓店	jing xiao shang cang dian	778
+经销商等级	jing xiao shang deng ji	1475
+经销商分类管理	jing xiao shang fen lei guan li	1446
+经销商管理	jing xiao shang guan li	1474
+经销商价格分类信息	jing xiao shang jia ge fen lei xin xi	1528
+经销商简称	jing xiao shang jian cheng	1477
+经销商目录	jing xiao shang mu lu	1472
+经销商全称	jing xiao shang quan cheng	1476
+经销商退货	jing xiao shang tui huo	999
+经销商详情	jing xiao shang xiang qing	1406
+决策分析	jue ce fen xi	2406
+卡通样式	ka tong yang shi	1878
+开裁	kai cai	525
+开发人员	kai fa ren yuan	2072
+开发员工具	kai fa yuan gong ju	539
+开始位数不为	kai shi wei shu bu wei	1322
+看完帮助我感觉	kan wan bang zhu wo gan jue	2426
+拷贝	kao bei	762
+拷贝成功	kao bei cheng gong	794
+拷贝属性	kao bei shu xing	1682
+拷贝属性档案	kao bei shu xing dang an	1681
+拷贝图标	kao bei tu biao	1877
+拷贝资料	kao bei zi liao	1736
+拷贝资料档案	kao bei zi liao dang an	1735
+可补库存	ke bu ku cun	865
+可订库存	ke ding ku cun	1249
+可订库存不足	ke ding ku cun bu zu	1191
+可分库存	ke fen ku cun	696
+可分库存不足	ke fen ku cun bu zu	1132
+客户	ke hu	561
+客户编号不存在	ke hu bian hao bu cun zai	1995
+客户端模版配置管理	ke hu duan mo ban pei zhi guan li	812
+客户价格分类	ke hu jia ge fen lei	1401
+客户价格类型代码不存在	ke hu jia ge lei xing dai ma bu cun zai	1222
+客户价格类型代码不能为空	ke hu jia ge lei xing dai ma bu neng wei kong	1230
+客户类型	ke hu lei xing	1525
+颗粒度	ke li du	285
+科目编号	ke mu bian hao	556
+科目类型	ke mu lei xing	554
+科目名称	ke mu ming cheng	555
+科目余额	ke mu yu e	550
+科目余额将为负数不允许操作	ke mu yu e jiang wei fu shu bu yun xu cao zuo	419
+科目与辅助核算单位不匹配	ke mu yu fu zhu he suan dan wei bu pi pei	164
+可配库存	ke pei ku cun	698
+可配库存不足	ke pei ku cun bu zu	1189
+可选择属性	ke xuan ze shu xing	1655
+可用额	ke yong e	335
+可用金额凭证	ke yong jin e ping zheng	341
+可用余额	ke yong yu e	1212
+可用余额不足	ke yong yu e bu zu	1215
+控制	kong zhi	1804
+库存	ku cun	695
+库存数	ku cun shu	76
+快到期	kuai dao qi	2170
+快递费	kuai di fei	1024
+快速搜索	kuai su sou suo	2379
+宽度	kuan du	720
+宽度为时表示自适应大小	kuan du wei shi biao shi zi shi ying da xiao	917
+款号	kuan hao	908
+款色版编号不存在	kuan se ban bian hao bu cun zai	1194
+款式	kuan shi	284
+款式编号	kuan shi bian hao	1275
+款式编号不存在	kuan shi bian hao bu cun zai	1171
+款式编号不能为空	kuan shi bian hao bu neng wei kong	663
+款式编号长度与编码规则不匹配	kuan shi bian hao chang du yu bian ma gui ze bu pi pei	1297
+款式档案导入	kuan shi dang an dao ru	823
+款式档案管理	kuan shi dang an guan li	1279
+款式季度	kuan shi ji du	300
+款式类型不在有效范围内	kuan shi lei xing bu zai you xiao fan wei nei	1814
+款式名称	kuan shi ming cheng	1290
+款式名称不能为空	kuan shi ming cheng bu neng wei kong	600
+款式年份	kuan shi nian fen	301
+款式品类	kuan shi pin lei	299
+款式图片	kuan shi tu pian	1112
+款式小类	kuan shi xiao lei	990
+款式颜色版型编码不能为空	kuan shi yan se ban xing bian ma bu neng wei kong	1312
+款式已启用请改为草稿后再修改	kuan shi yi qi yong qing gai wei cao gao hou zai xiu gai	1095
+揽货人	lan huo ren	742
+揽货人电话	lan huo ren dian hua	743
+栏数	lan shu	71
+类别	lei bie	1632
+累计销售	lei ji xiao shou	1156
+类型	lei xing	2261
+类型编号	lei xing bian hao	439
+类型不在有效范围内	lei xing bu zai you xiao fan wei nei	1557
+类型名称	lei xing ming cheng	133
+类型信息	lei xing xin xi	843
+历史查询	li shi cha xun	632
+隶属部门	li shu bu men	1546
+连带权力加入	lian dai quan li jia ru	1729
+链接	lian jie	2434
+连接成功	lian jie cheng gong	271
+连接端口	lian jie duan kou	273
+联系电话	lian xi dian hua	1628
+联系电话维一性检查	lian xi dian hua wei yi xing jian cha	1468
+联系人	lian xi ren	1629
+联系我们	lian xi wo men	2164
+联系信息	lian xi xin xi	1823
+列表	lie biao	2324
+列表不能为空	lie biao bu neng wei kong	1120
+浏览	liu lan	1443
+浏览调价单	liu lan tiao jia dan	757
+浏览修改日志	liu lan xiu gai ri zhi	1521
+流水号	liu shui hao	1299
+流水号长度不正确	liu shui hao chang du bu zheng que	288
+留言	liu yan	2213
+留言长度不能超过个汉字	liu yan chang du bu neng chao guo ge han zi	2212
+录入裁床单	lu ru cai chuang dan	358
+录入裁床数	lu ru cai chuang shu	524
+录入发货单	lu ru fa huo dan	347
+录入发货数	lu ru fa huo shu	492
+录入款式编号查询	lu ru kuan shi bian hao cha xun	519
+录入列表显示行数	lu ru lie biao xian shi hang shu	472
+录入生效日期	lu ru sheng xiao ri qi	261
+录入失效日期	lu ru shi xiao ri qi	260
+录入数量不能小于	lu ru shu liang bu neng xiao yu	1239
+码比	ma bi	1121
+每次扫描数量	mei ci sao miao shu liang	1017
+每满自动复位	mei man zi dong fu wei	1018
+没权限对当前仓库进行分货操作	mei quan xian dui dang qian cang ku jin xing fen huo cao zuo	1203
+没有发货折扣策略	mei you fa huo zhe kou ce lue	58
+没有升级文件可以下载	mei you sheng ji wen jian ke yi xia zai	891
+没有需要操作的记录	mei you xu yao cao zuo de ji lu	1173
+没有选择职位请选择	mei you xuan ze zhi wei qing xuan ze	2378
+没有用	mei you yong	2425
+密码	mi ma	2080
+密码不一致	mi ma bu yi zhi	1434
+描述	miao shu	2333
+描述信息	miao shu xin xi	2189
+名称	ming cheng	2101
+名称不能为空	ming cheng bu neng wei kong	1581
+名称重复	ming cheng chong fu	244
+名称词典	ming cheng ci dian	2293
+名称首字母	ming cheng shou zi mu	1887
+模版管理	mo ban guan li	538
+模糊匹配	mo hu pi pei	1886
+模块页面信息	mo kuai ye mian xin xi	2254
+默认上级不可以移除	mo ren shang ji bu ke yi yi chu	119
+默认样式	mo ren yang shi	1847
+默认值	mo ren zhi	1949
+模板编号	mu ban bian hao	532
+模板名称	mu ban ming cheng	509
+模板说明	mu ban shuo ming	504
+目录	mu lu	2231
+目前额	mu qian e	334
+目前金额凭证	mu qian jin e ping zheng	420
+目前库存	mu qian ku cun	724
+目前库存含在途	mu qian ku cun han zai tu	798
+目前调价	mu qian tiao jia	304
+目前余额	mu qian yu e	385
+内容	nei rong	152
+内衣	nei yi	2037
+年份	nian fen	1270
+年份重复	nian fen chong fu	586
+年份代码不存在	nian fen dai ma bu cun zai	1224
+年份代码不能为空	nian fen dai ma bu neng wei kong	1319
+年份类型不在有效范围内	nian fen lei xing bu zai you xiao fan wei nei	329
+年份条件	nian fen tiao jian	293
+您还没有评价此帮助请评价	nin hai mei you ping jia ci bang zhu qing ping jia	2205
+您好	nin hao	2315
+您没有此店铺的权限	nin mei you ci dian pu de quan xian	862
+您没有此款式的权限	nin mei you ci kuan shi de quan xian	40
+您没有访问此菜单的权限	nin mei you fang wen ci cai dan de quan xian	1313
+您确定要提交该配货单吗	nin que ding yao ti jiao gai pei huo dan ma	1072
+您有条封新邮件	nin you tiao feng xin you jian	2257
+您至少需要选择一个属性项目	nin zhi shao xu yao xuan ze yi ge shu xing xiang mu	1411
+排除	pai chu	2031
+排序	pai xu	775
+排序值不在有效范围内	pai xu zhi bu zai you xiao fan wei nei	1556
+配单码比	pei dan ma bi	956
+配发货	pei fa huo	966
+配货	pei huo	1204
+配货单	pei huo dan	1352
+配货单号	pei huo dan hao	1051
+配货单合计	pei huo dan he ji	1063
+配货单类型	pei huo dan lei xing	1059
+配货单明细	pei huo dan ming xi	1062
+配货单提交确认	pei huo dan ti jiao que ren	1073
+配货单信息	pei huo dan xin xi	1064
+配货单状态错误不允许通知发货	pei huo dan zhuang tai cuo wu bu yun xu tong zhi fa huo	349
+配货款式状态	pei huo kuan shi zhuang tai	1206
+配货日期	pei huo ri qi	1058
+配货数	pei huo shu	406
+配货提醒日期	pei huo ti xing ri qi	1147
+配货优先顺序不在有效范围内	pei huo you xian shun xu bu zai you xiao fan wei nei	1197
+配货员	pei huo yuan	894
+配货员不能为空	pei huo yuan bu neng wei kong	1334
+配上操作过程中的图片说明	pei shang cao zuo guo cheng zhong de tu pian shuo ming	2209
+培训视频	pei xun shi pin	2304
+配置	pei zhi	1367
+配置保存成功	pei zhi bao cun cheng gong	918
+配置层	pei zhi ceng	809
+配置存在错误提示为	pei zhi cun zai cuo wu ti shi wei	1431
+配置管理	pei zhi guan li	813
+配置连接中间件参数	pei zhi lian jie zhong jian jian can shu	272
+配置明细	pei zhi ming xi	1199
+配置使用语言	pei zhi shi yong yu yan	1368
+配置数据	pei zhi shu ju	810
+配置数据重复	pei zhi shu ju chong fu	454
+配置系统默认使用的语言	pei zhi xi tong mo ren shi yong de yu yan	1369
+配置小工具	pei zhi xiao gong ju	750
+皮具	pi ju	2040
+批量编辑方式	pi liang bian ji fang shi	474
+批量编辑权力组	pi liang bian ji quan li zu	1746
+批量导入	pi liang dao ru	2092
+批量发布	pi liang fa bu	158
+批量启用	pi liang qi yong	677
+批量删除	pi liang shan chu	157
+批量设置属性	pi liang she zhi shu xing	159
+批量修改	pi liang xiu gai	1782
+批量修改状态为草稿的资料	pi liang xiu gai zhuang tai wei cao gao de zi liao	1780
+批注	pi zhu	2091
+品类	pin lei	120
+品类不存在	pin lei bu cun zai	332
+品牌	pin pai	1954
+品牌编码与档案不匹配	pin pai bian ma yu dang an bu pi pei	1300
+品牌不存在或者已被禁用	pin pai bu cun zai huo zhe yi bei jin yong	1303
+品牌常用资料管理	pin pai chang yong zi liao guan li	1417
+品牌代码	pin pai dai ma	1740
+品牌代码不存在	pin pai dai ma bu cun zai	1182
+品牌代码不能为空	pin pai dai ma bu neng wei kong	1321
+品牌档案管理	pin pai dang an guan li	1739
+品牌列表	pin pai lie biao	1737
+品牌名称	pin pai ming cheng	1741
+品牌属性	pin pai shu xing	976
+品牌属性管理	pin pai shu xing guan li	1405
+品牌信息	pin pai xin xi	1732
+凭证号	ping zheng hao	339
+凭证类型	ping zheng lei xing	342
+凭证日期	ping zheng ri qi	343
+凭证已入帐不允许操作	ping zheng yi ru zhang bu yun xu cao zuo	315
+普通	pu tong	2351
+普通店铺	pu tong dian pu	903
+其次使用发货折扣策略	qi ci shi yong fa huo zhe kou ce lue	100
+其上级不存在此补货仓	qi shang ji bu cun zai ci bu huo cang	241
+其上级不存在此供货仓	qi shang ji bu cun zai ci gong huo cang	242
+其它	qi ta	2184
+其它补充说明	qi ta bu chong shuo ming	2401
+其他人关注以下问题	qi ta ren guan zhu yi xia wen ti	2225
+其它图片	qi ta tu pian	154
+其他信息	qi ta xin xi	1306
+启用	qi yong	2390
+启用后不可以修改	qi yong hou bu ke yi xiu gai	91
+启用款式后才可以修改生产情况	qi yong kuan shi hou cai ke yi xiu gai sheng chan qing kuang	621
+欠分合计数	qian fen he ji shu	181
+欠分数	qian fen shu	711
+欠分数量	qian fen shu liang	207
+签收	qian shou	2316
+签收成功	qian shou cheng gong	1100
+欠数	qian shu	697
+强行按此规则进行编码	qiang xing an ci gui ze jin xing bian ma	1803
+切换外观	qie huan wai guan	1918
+切换为列表显示方式	qie huan wei lie biao xian shi fang shi	2065
+切换语言	qie huan yu yan	1897
+请绑定	qing bang ding	239
+请尝试以下操作	qing chang shi yi xia cao zuo	618
+清除成功	qing chu cheng gong	706
+清除数据	qing chu shu ju	177
+请传入参数	qing chuan ru can shu	67
+请传入分页参数	qing chuan ru fen ye can shu	121
+请点击此处进行设置	qing dian ji ci chu jin xing she zhi	1439
+请回答问题	qing hui da wen ti	2217
+请假单	qing jia dan	2181
+请假合计时间计算错误	qing jia he ji shi jian ji suan cuo wu	2410
+请假结束日期	qing jia jie shu ri qi	2288
+请假结束时间	qing jia jie shu shi jian	2176
+请假结束时间小于请假开始时间	qing jia jie shu shi jian xiao yu qing jia kai shi shi jian	2409
+请假开始日期	qing jia kai shi ri qi	2289
+请假开始时间	qing jia kai shi shi jian	2177
+请假人	qing jia ren	2290
+请假人信息	qing jia ren xin xi	2180
+请假时间	qing jia shi jian	2178
+请假原因	qing jia yuan yin	2287
+请检查修改的状态	qing jian cha xiu gai de zhuang tai	620
+清空	qing kong	1273
+请录入登录信息	qing lu ru deng lu xin xi	1846
+请录入问题	qing lu ru wen ti	2429
+请录入新的参数值	qing lu ru xin de can shu zhi	597
+请每个季度的换货截止日期	qing mei ge ji du de huan huo jie zhi ri qi	377
+请求地址	qing qiu di zhi	1377
+请求数据	qing qiu shu ju	1378
+请确定是否已发货	qing que ding shi fou yi fa huo	1046
+请确认	qing que ren	1496
+请上传的图标	qing shang chuan de tu biao	1500
+请输入查询条件	qing shu ru cha xun tiao jian	2141
+请输入回复内容	qing shu ru hui fu nei rong	2417
+请输入留言内容	qing shu ru liu yan nei rong	2119
+请输入内容	qing shu ru nei rong	2120
+请输入搜索关键字	qing shu ru sou suo guan jian zi	1885
+请输入正确的发货调价单号	qing shu ru zheng que de fa huo tiao jia dan hao	648
+请输入之间的值	qing shu ru zhi jian de zhi	114
+请输入之间的值如表示折	qing shu ru zhi jian de zhi ru biao shi zhe	839
+请填写标签的备注	qing tian xie biao qian de bei zhu	2167
+请填写标签的名称	qing tian xie biao qian de ming cheng	2281
+请填写部门名称	qing tian xie bu men ming cheng	2133
+请填写操作员密码	qing tian xie cao zuo yuan mi ma	2117
+请填写操作员姓名	qing tian xie cao zuo yuan xing ming	2385
+请填写代理商名称	qing tian xie dai li shang ming cheng	2127
+请填写店铺名称	qing tian xie dian pu ming cheng	2236
+请填写管理员真实姓名	qing tian xie guan li yuan zhen shi xing ming	1790
+请填写加盟商名称	qing tian xie jia meng shang ming cheng	2405
+请填写联系人姓名	qing tian xie lian xi ren xing ming	1133
+请填写您的真实姓名	qing tian xie nin de zhen shi xing ming	1986
+请填写收货地址	qing tian xie shou huo di zhi	1098
+请填写收货人联系电话	qing tian xie shou huo ren lian xi dian hua	1127
+请填写收货员	qing tian xie shou huo yuan	1128
+请填写所属上级	qing tian xie suo shu shang ji	2441
+请填写所有属性的长度	qing tian xie suo you shu xing de chang du	1410
+请填写图标名称	qing tian xie tu biao ming cheng	1967
+请填写图标条目	qing tian xie tu biao tiao mu	1501
+请填写要下载项目的编号	qing tian xie yao xia zai xiang mu de bian hao	2440
+请填写字典条目	qing tian xie zi dian tiao mu	2299
+请为菜单指定业务后再发布	qing wei cai dan zhi ding ye wu hou zai fa bu	270
+请先保存基本信息	qing xian bao cun ji ben xin xi	59
+请先加入科目后再保存次序	qing xian jia ru ke mu hou zai bao cun ci xu	172
+请先启用表再启用字段	qing xian qi yong biao zai qi yong zi duan	1555
+请先设置好属性再发布	qing xian she zhi hao shu xing zai fa bu	135
+请先添加颜色尺码版型后再启用	qing xian tian jia yan se chi ma ban xing hou zai qi yong	1430
+请先选择项目路径后再选择图标	qing xian xuan ze xiang mu lu jing hou zai xuan ze tu biao	1835
+请先装箱后再确认	qing xian zhuang xiang hou zai que ren	384
+请选择	qing xuan ze	1960
+请选择补货仓	qing xuan ze bu huo cang	779
+请选择仓店类型	qing xuan ze cang dian lei xing	2444
+请选择城市	qing xuan ze cheng shi	1626
+请选择尺码组	qing xuan ze chi ma zu	129
+请选择词典类型	qing xuan ze ci dian lei xing	2402
+请选择代理商	qing xuan ze dai li shang	2162
+请选择等级	qing xuan ze deng ji	1482
+请选择发货公司	qing xuan ze fa huo gong si	1445
+请选择发货调价颗粒度	qing xuan ze fa huo tiao jia ke li du	205
+请选择分类	qing xuan ze fen lei	888
+请选择供货仓	qing xuan ze gong huo cang	780
+请选择供应商等级	qing xuan ze gong ying shang deng ji	1458
+请选择计量单位	qing xuan ze ji liang dan wei	1099
+请选择经销商	qing xuan ze jing xiao shang	580
+请选择经销商等级	qing xuan ze jing xiao shang deng ji	1469
+请选择经销商分类	qing xuan ze jing xiao shang fen lei	1400
+请选择品牌	qing xuan ze pin pai	1454
+请选择审批意见	qing xuan ze shen pi yi jian	2411
+请选择索引字段	qing xuan ze suo yin zi duan	2062
+请选择下列一张调价表	qing xuan ze xia lie yi zhang tiao jia biao	705
+请选择需要上传的仓店照片	qing xuan ze xu yao shang chuan de cang dian zhao pian	1485
+请选择需要上传的图片	qing xuan ze xu yao shang chuan de tu pian	1551
+请选择要上传的经销商照片	qing xuan ze yao shang chuan de jing xiao shang zhao pian	1471
+请选择要上传的文件	qing xuan ze yao shang chuan de wen jian	2113
+请选择一个供应商	qing xuan ze yi ge gong ying shang	395
+请选择一个品牌	qing xuan ze yi ge pin pai	1730
+请选择一个属性	qing xuan ze yi ge shu xing	1688
+请选择一个项目做为当前项目	qing xuan ze yi ge xiang mu zuo wei dang qian xiang mu	1977
+请选择以下方式之一	qing xuan ze yi xia fang shi zhi yi	1664
+请选择一张单据	qing xuan ze yi zhang dan ju	1093
+请选择语言环境	qing xuan ze yu yan huan jing	2233
+请再次输入密码	qing zai ci shu ru mi ma	1998
+请再输一次密码	qing zai shu yi ci mi ma	1594
+请至少添加一个版型	qing zhi shao tian jia yi ge ban xing	1175
+请至少添加一个尺码	qing zhi shao tian jia yi ge chi ma	1176
+请至少添加一个颜色	qing zhi shao tian jia yi ge yan se	1174
+请至少选择一个分区进行配货	qing zhi shao xuan ze yi ge fen qu jin xing pei huo	1172
+取出	qu chu	1022
+取出货品不包含于当前装箱单中	qu chu huo pin bu bao han yu dang qian zhuang xiang dan zhong	1123
+取出数量超出已装箱数	qu chu shu liang chao chu yi zhuang xiang shu	1169
+取出数量超出已装箱数量	qu chu shu liang chao chu yi zhuang xiang shu liang	1122
+取消	qu xiao	2403
+取消常用	qu xiao chang yong	1409
+取消分组	qu xiao fen zu	1567
+取消兼管	qu xiao jian guan	1336
+取消生产	qu xiao sheng chan	568
+取消使用	qu xiao shi yong	994
+取消数超出订配差	qu xiao shu chao chu ding pei cha	440
+取消停用	qu xiao ting yong	1757
+取消选用	qu xiao xuan yong	1105
+取消原因	qu xiao yuan yin	563
+取消自定义	qu xiao zi ding yi	1670
+区域	qu yu	243
+区域不存在	qu yu bu cun zai	581
+区域管辖店铺	qu yu guan xia dian pu	193
+区域库存	qu yu ku cun	710
+区域库存不足	qu yu ku cun bu zu	1190
+区域调配货品	qu yu tiao pei huo pin	741
+区域总欠分	qu yu zong qian fen	658
+全部	quan bu	2171
+全部菜单分类	quan bu cai dan fen lei	2196
+全部店铺	quan bu dian pu	868
+全部复制成功	quan bu fu zhi cheng gong	1687
+全部功能	quan bu gong neng	1600
+全部搜索结果	quan bu sou suo jie guo	1973
+全称	quan cheng	1645
+全称不能为空	quan cheng bu neng wei kong	1420
+全分	quan fen	694
+权力	quan li	2329
+权力分类名称	quan li fen lei ming cheng	1344
+权力管理	quan li guan li	1030
+权力类型管理	quan li lei xing guan li	1898
+权力类型列表	quan li lei xing lie biao	1793
+权力类型描述	quan li lei xing miao shu	1921
+权力类型名称	quan li lei xing ming cheng	1922
+权力类型详情	quan li lei xing xiang qing	1395
+权力列表	quan li lie biao	1563
+权力设置	quan li she zhi	64
+权利数	quan li shu	1697
+权力组	quan li zu	1570
+权力组列表	quan li zu lie biao	1767
+权力组描述	quan li zu miao shu	1923
+权力组名称	quan li zu ming cheng	1924
+权力组总数	quan li zu zong shu	1343
+全配	quan pei	1253
+全球排名	quan qiu pai ming	1114
+全收	quan shou	693
+权限列表	quan xian lie biao	1933
+全选	quan xuan	1006
+确定	que ding	2298
+确定货物已签收了吗	que ding huo wu yi qian shou le ma	1001
+确定将该单据标记为吗	que ding jiang gai dan ju biao ji wei ma	495
+确定将该单据标记为已审核吗	que ding jiang gai dan ju biao ji wei yi shen he ma	20
+确定删除该调价单吗	que ding shan chu gai tiao jia dan ma	228
+确定提交该单据吗	que ding ti jiao gai dan ju ma	19
+确定提交生成正式的单据吗	que ding ti jiao sheng cheng zheng shi de dan ju ma	521
+确定提示	que ding ti shi	1146
+确定要保存吗	que ding yao bao cun ma	2206
+确定要将发货单标记为登帐吗	que ding yao jiang fa huo dan biao ji wei deng zhang ma	457
+确定要将发货单标记为审核吗	que ding yao jiang fa huo dan biao ji wei shen he ma	458
+确定要结案生产制单吗	que ding yao jie an sheng chan zhi dan ma	461
+确定要启用吗	que ding yao qi yong ma	2439
+确定要取消吗	que ding yao qu xiao ma	2297
+确定要删除该发货单吗	que ding yao shan chu gai fa huo dan ma	460
+确定要删除该条策略吗	que ding yao shan chu gai tiao ce lue ma	873
+确定要删除吗	que ding yao shan chu ma	2145
+确定要生成采购订单吗	que ding yao sheng cheng cai gou ding dan ma	367
+确定要生成生产需求单吗	que ding yao sheng cheng sheng chan xu qiu dan ma	50
+确定要使用公司默认设置吗	que ding yao shi yong gong si mo ren she zhi ma	69
+确定要使用系统默认设置吗	que ding yao shi yong xi tong mo ren she zhi ma	68
+确定要提交订单吗	que ding yao ti jiao ding dan ma	1145
+确定要提交吗	que ding yao ti jiao ma	1177
+确定要停用吗	que ding yao ting yong ma	2438
+确定要应用更改后的价格策略吗	que ding yao ying yong geng gai hou de jia ge ce lue ma	869
+确定已完成了吗	que ding yi wan cheng le ma	1187
+确定已完成扫描了吗	que ding yi wan cheng sao miao le ma	1042
+确认密码	que ren mi ma	2004
+确认密码与新密码不相符	que ren mi ma yu xin mi ma bu xiang fu	1822
+确认要导入吗	que ren yao dao ru ma	162
+缺少尺码	que shao chi ma	1235
+缺少访问当前页面的权力	que shao fang wen dang qian ye mian de quan li	1493
+人为终止	ren wei zhong zhi	767
+任务不存在	ren wu bu cun zai	1997
+任务类型	ren wu lei xing	1915
+任务列表	ren wu lie biao	633
+任务描述	ren wu miao shu	1914
+任务说明链接填写不完整	ren wu shuo ming lian jie tian xie bu wan zheng	1978
+任职	ren zhi	1559
+日常办公	ri chang ban gong	2408
+日期	ri qi	1513
+日期不能为空	ri qi bu neng wei kong	1237
+日期格式不正确	ri qi ge shi bu zheng que	692
+日志	ri zhi	970
+如果不填则自动默认为系统编号	ru guo bu tian ze zi dong mo ren wei xi tong bian hao	2266
+入库仓编号	ru ku cang bian hao	394
+入库仓库	ru ku cang ku	433
+入库仓名称	ru ku cang ming cheng	393
+入库单号	ru ku dan hao	280
+入库类型	ru ku lei xing	354
+入库日期	ru ku ri qi	355
+入库数	ru ku shu	78
+入库通知数	ru ku tong zhi shu	382
+入库完成率	ru ku wan cheng lv	17
+入账	ru zhang	348
+入账操作日期	ru zhang cao zuo ri qi	426
+入账人	ru zhang ren	338
+软件词典	ruan jian ci dian	2418
+软件字典审批	ruan jian zi dian shen pi	1972
+软件字典图标审批	ruan jian zi dian tu biao shen pi	1959
+软件字典信息	ruan jian zi dian xin xi	2246
+扫描的货品不包含于拣货单中	sao miao de huo pin bu bao han yu jian huo dan zhong	1168
+扫描进行装箱	sao miao jin xing zhuang xiang	1075
+扫描人	sao miao ren	1034
+扫描时间	sao miao shi jian	1036
+扫描数量	sao miao shu liang	1037
+扫描完成	sao miao wan cheng	1043
+扫描装箱	sao miao zhuang xiang	1104
+筛选	shai xuan	1892
+筛选类型	shai xuan lei xing	303
+筛选条件	shai xuan tiao jian	1494
+筛选条件信息	shai xuan tiao jian xin xi	913
+删除	shan chu	2097
+删除成功	shan chu cheng gong	2136
+删除当前标签	shan chu dang qian biao qian	2312
+删除规则	shan chu gui ze	2024
+删除确认	shan chu que ren	874
+删除失败	shan chu shi bai	2359
+删除失败记录不存在	shan chu shi bai ji lu bu cun zai	2135
+删除所选图片	shan chu suo xuan tu pian	137
+上传视频	shang chuan shi pin	2303
+上传图标	shang chuan tu biao	1966
+上传图片	shang chuan tu pian	1975
+上传文档	shang chuan wen dang	2302
+上传文件	shang chuan wen jian	2382
+上传用户照片	shang chuan yong hu zhao pian	1539
+上传照片	shang chuan zhao pian	1643
+上个月	shang ge yue	2115
+上货波段	shang huo bo duan	717
+上级部门	shang ji bu men	1866
+上级科目	shang ji ke mu	551
+上级是公司不可以设置为分仓	shang ji shi gong si bu ke yi she zhi wei fen cang	938
+上级是经销商不可以设置为总仓	shang ji shi jing xiao shang bu ke yi she zhi wei zong cang	939
+商品大类	shang pin da lei	1526
+商品分类管理	shang pin fen lei guan li	1447
+商品价格分类	shang pin jia ge fen lei	991
+商品价格分类代码不存在	shang pin jia ge fen lei dai ma bu cun zai	1221
+商品价格分类代码不能为空	shang pin jia ge fen lei dai ma bu neng wei kong	1231
+商品价格分类信息	shang pin jia ge fen lei xin xi	1441
+商品销售分类管理	shang pin xiao shou fen lei guan li	969
+商圈编号	shang quan bian hao	252
+商圈等级	shang quan deng ji	249
+商圈管理	shang quan guan li	258
+商圈类型	shang quan lei xing	250
+商圈名称	shang quan ming cheng	253
+商圈趋势	shang quan qu shi	414
+商圈相关基础资料管理	shang quan xiang guan ji chu zi liao guan li	257
+尚未设置价格策略	shang wei she zhi jia ge ce lue	1360
+上一步	shang yi bu	1412
+上一年	shang yi nian	2200
+上一页	shang yi ye	2183
+设定分组	she ding fen zu	1748
+设定下级发货价策略	she ding xia ji fa huo jia ce lue	264
+设计	she ji	2392
+设计表单	she ji biao dan	2151
+设计单头布局	she ji dan tou bu ju	901
+设为常用	she wei chang yong	2285
+设置	she zhi	2310
+设置参数	she zhi can shu	1347
+设置发货	she zhi fa huo	445
+设置范围	she zhi fan wei	476
+设置分货范围	she zhi fen huo fan wei	612
+设置规则	she zhi gui ze	477
+设置价格策略	she zhi jia ge ce lue	1491
+设置金额优先使用账户	she zhi jin e you xian shi yong zhang hu	961
+设置款式编码规则	she zhi kuan shi bian ma gui ze	1711
+设置默认优先使用分货数次序	she zhi mo ren you xian shi yong fen huo shu ci xu	168
+设置扫描计数复位值	she zhi sao miao ji shu fu wei zhi	1016
+设置扫描状态	she zhi sao miao zhuang tai	1014
+设置商品发货价格	she zhi shang pin fa huo jia ge	993
+设置数据不能为空	she zhi shu ju bu neng wei kong	959
+设置数据权力	she zhi shu ju quan li	1693
+设置数量优先更新次序	she zhi shu liang you xian geng xin ci xu	967
+设置属于哪张表的语言表	she zhi shu yu na zhang biao de yu yan biao	1990
+设置为顶级部门	she zhi wei ding ji bu men	1708
+设置项目长度	she zhi xiang mu chang du	1536
+设置销售价格	she zhi xiao shou jia ge	1456
+设置用户所属部门	she zhi yong hu suo shu bu men	1554
+设置折扣	she zhi zhe kou	235
+设置支付账户类型	she zhi zhi fu zhang hu lei xing	997
+设置职位所属部门	she zhi zhi wei suo shu bu men	1778
+设置自动分货参数	she zhi zi dong fen huo can shu	510
+审核	shen he	214
+审核成功	shen he cheng gong	785
+审核状态	shen he zhuang tai	45
+审批	shen pi	2296
+审批请假单	shen pi qing jia dan	2373
+审批人	shen pi ren	203
+审批意见	shen pi yi jian	2372
+申请单号	shen qing dan hao	12
+申请理由	shen qing li you	10
+申请人	shen qing ren	380
+申请日期	shen qing ri qi	405
+生产订单数	sheng chan ding dan shu	402
+生产订单与裁床差	sheng chan ding dan yu cai chuang cha	401
+生产数	sheng chan shu	81
+生产完成	sheng chan wan cheng	523
+生产需求	sheng chan xu qiu	753
+生产需求单号	sheng chan xu qiu dan hao	24
+生产需求数	sheng chan xu qiu shu	392
+生产制单号	sheng chan zhi dan hao	631
+生成出错原因为	sheng cheng chu cuo yuan yin wei	1438
+生成代码	sheng cheng dai ma	1862
+生成单据完成共张	sheng cheng dan ju wan cheng gong zhang	217
+生成订单	sheng cheng ding dan	1116
+生成发货单	sheng cheng fa huo dan	1048
+生成拣货单	sheng cheng jian huo dan	1053
+生成配货单	sheng cheng pei huo dan	1066
+生成生产订单	sheng cheng sheng chan ding dan	360
+生成生产需求单	sheng cheng sheng chan xu qiu dan	18
+生成调价草稿单失败	sheng cheng tiao jia cao gao dan shi bai	1241
+生成完毕	sheng cheng wan bi	1857
+生成完成	sheng cheng wan cheng	564
+生成物流单	sheng cheng wu liu dan	1054
+生成物流发货单	sheng cheng wu liu fa huo dan	1010
+生成资源文件源代码	sheng cheng zi yuan wen jian yuan dai ma	1859
+省份不存在	sheng fen bu cun zai	583
+生效	sheng xiao	1517
+生效或失效日期必须大于当天	sheng xiao huo shi xiao ri qi bi xu da yu dang tian	751
+生效日期	sheng xiao ri qi	1518
+生效日期不能大于失效日期	sheng xiao ri qi bu neng da yu shi xiao ri qi	1265
+生效日期不能小于或等于当天	sheng xiao ri qi bu neng xiao yu huo deng yu dang tian	1261
+生效时间	sheng xiao shi jian	649
+剩余数量	sheng yu shu liang	1038
+剩余需求数量	sheng yu xu qiu shu liang	210
+剩余余额	sheng yu yu e	1211
+剩余总需求	sheng yu zong xu qiu	828
+剩余总需求合计数	sheng yu zong xu qiu he ji shu	209
+是否必填	shi fou bi tian	924
+是否型类型	shi fou xing lei xing	595
+是否隐藏	shi fou yin cang	920
+是否应用该尺码组	shi fou ying yong gai chi ma zu	635
+是否允许发货	shi fou yun xu fa huo	101
+是否只读	shi fou zhi du	922
+实际入库	shi ji ru ku	368
+实际入库日期	shi ji ru ku ri qi	52
+实际收货仓店不能为空	shi ji shou huo cang dian bu neng wei kong	619
+实际收货店	shi ji shou huo dian	905
+实际收货数量	shi ji shou huo shu liang	570
+饰品	shi pin	2041
+视频教学	shi pin jiao xue	2341
+失效日期	shi xiao ri qi	733
+失效日期不能小于或等于当天	shi xiao ri qi bu neng xiao yu huo deng yu dang tian	1260
+失效时间	shi xiao shi jian	650
+使用	shi yong	2424
+使用此职位的部门的列表	shi yong ci zhi wei de bu men de lie biao	1756
+使用的科目列表	shi yong de ke mu lie biao	479
+使用其它图标	shi yong qi ta tu biao	1958
+使用其它图标代替	shi yong qi ta tu biao dai ti	1957
+使用其它字典条目	shi yong qi ta zi dian tiao mu	1956
+使用其它字典条目代替	shi yong qi ta zi dian tiao mu dai ti	1955
+使用添加分组将字段归类	shi yong tian jia fen zu jiang zi duan gui lei	654
+使用图标显示方式查看	shi yong tu biao xian shi fang shi cha kan	2074
+使用状态	shi yong zhuang tai	1366
+适中	shi zhong	2107
+收回	shou hui	678
+收回合计数	shou hui he ji shu	625
+收回数量	shou hui shu liang	626
+收货仓编号	shou huo cang bian hao	483
+收货仓店	shou huo cang dian	352
+收货仓库	shou huo cang ku	42
+收货仓名称	shou huo cang ming cheng	462
+收货地	shou huo di	1151
+收货地编号	shou huo di bian hao	408
+收货地址	shou huo di zhi	488
+收货人	shou huo ren	1080
+收货人地址	shou huo ren di zhi	1081
+收货人电话	shou huo ren dian hua	1079
+收货人联系电话	shou huo ren lian xi dian hua	486
+收货员	shou huo yuan	1085
+手机	shou ji	2078
+手机号重复	shou ji hao chong fu	1786
+手机号码	shou ji hao ma	1592
+收款单位	shou kuan dan wei	4
+收款方	shou kuan fang	374
+收款方编号	shou kuan fang bian hao	372
+收款凭证	shou kuan ping zheng	340
+收起	shou qi	1888
+首字母搜索	shou zi mu sou suo	773
+数据表	shu ju biao	1755
+数据表编号	shu ju biao bian hao	2011
+数据表编辑	shu ju biao bian ji	2058
+数据表别名	shu ju biao bie ming	723
+数据表分类	shu ju biao fen lei	2012
+数据表分类信息	shu ju biao fen lei xin xi	2016
+数据表名称	shu ju biao ming cheng	2010
+数据表设置	shu ju biao she zhi	1794
+数据表数据描述字段	shu ju biao shu ju miao shu zi duan	1910
+数据表数据名称拼音字段	shu ju biao shu ju ming cheng pin yin zi duan	1909
+数据表数据名称字段	shu ju biao shu ju ming cheng zi duan	1911
+数据表数据状态字段	shu ju biao shu ju zhuang tai zi duan	1908
+数据表信息	shu ju biao xin xi	2013
+数据表已发布不允许此操作	shu ju biao yi fa bu bu yun xu ci cao zuo	1980
+数据表主键字段	shu ju biao zhu jian zi duan	1912
+数据查询管理	shu ju cha xun guan li	974
+数据多语言表名	shu ju duo yu yan biao ming	1920
+数据库的端口号默认为	shu ju ku de duan kou hao mo ren wei	1789
+数据库端口号	shu ju ku duan kou hao	1585
+数据库服务器	shu ju ku fu wu qi	1744
+数据库管理	shu ju ku guan li	1945
+数据库口令	shu ju ku kou ling	1543
+数据库连接设置	shu ju ku lian jie she zhi	1586
+数据库上的用户	shu ju ku shang de yong hu	1788
+数据库实例名	shu ju ku shi li ming	1584
+数据库用户的密码	shu ju ku yong hu de mi ma	1787
+数据库用户名	shu ju ku yong hu ming	1583
+数据类型	shu ju lei xing	1937
+数据权	shu ju quan	1357
+数据权力列表	shu ju quan li lie biao	1705
+数据已全部提交无需提交	shu ju yi quan bu ti jiao wu xu ti jiao	1216
+数据字段	shu ju zi duan	1754
+数量	shu liang	1004
+数量不能为负	shu liang bu neng wei fu	1137
+数量超出拣货数	shu liang chao chu jian huo shu	1129
+数量处理优先顺序	shu liang chu li you xian shun xu	480
+数量占用	shu liang zhan yong	192
+输入关键字或拼音首字母查询	shu ru guan jian zi huo pin yin shou zi mu cha xun	2173
+输入拼音快速选择	shu ru pin yin kuai su xuan ze	2235
+输入网址不合法	shu ru wang zhi bu he fa	1962
+输入值不能大于	shu ru zhi bu neng da yu	1988
+输入值不能大于分区库存数量	shu ru zhi bu neng da yu fen qu ku cun shu liang	324
+输入值不能大于可订库存	shu ru zhi bu neng da yu ke ding ku cun	1328
+输入值不能小于	shu ru zhi bu neng xiao yu	1987
+属性不存在	shu xing bu cun zai	800
+属性长度未设置	shu xing chang du wei she zhi	1783
+属性重复	shu xing chong fu	1819
+属性对应表字段	shu xing dui ying biao zi duan	30
+属性对应数据表	shu xing dui ying shu ju biao	31
+属性分类不存在	shu xing fen lei bu cun zai	803
+属性管理	shu xing guan li	1712
+属性列表	shu xing lie biao	1715
+属性描述	shu xing miao shu	29
+属性名称	shu xing ming cheng	1716
+属性名称不能为空	shu xing ming cheng bu neng wei kong	802
+属性默认值	shu xing mo ren zhi	949
+属性数据表	shu xing shu ju biao	1718
+属性数据字段	shu xing shu ju zi duan	1717
+属性先后次序不正确	shu xing xian hou ci xu bu zheng que	1323
+属性信息	shu xing xin xi	1676
+属性已存在	shu xing yi cun zai	801
+属性值	shu xing zhi	948
+数字	shu zi	468
+数字格式不正确	shu zi ge shi bu zheng que	752
+刷新	shua xin	2278
+刷新布局	shua xin bu ju	683
+刷新字段	shua xin zi duan	1825
+双击可以编辑列表中的数据	shuang ji ke yi bian ji lie biao zhong de shu ju	793
+说明	shuo ming	2328
+说明不能为空	shuo ming bu neng wei kong	1240
+私用分区	si yong fen qu	167
+私有	si you	896
+私有化	si you hua	1548
+私有区域内所有店铺	si you qu yu nei suo you dian pu	867
+送货数量	song huo shu liang	571
+送货与入库差	song huo yu ru ku cha	569
+搜索	sou suo	2334
+搜索草稿	sou suo cao gao	1901
+搜索店铺条件	sou suo dian pu tiao jian	386
+搜索款式条件	sou suo kuan shi tiao jian	387
+素材编号不存在	su cai bian hao bu cun zai	231
+素材分类编号不存在	su cai fen lei bian hao bu cun zai	247
+素材管理	su cai guan li	704
+素材名称不能为空	su cai ming cheng bu neng wei kong	248
+素材文件不能为空	su cai wen jian bu neng wei kong	245
+素材文件名不能为空	su cai wen jian ming bu neng wei kong	246
+锁定内容	suo ding nei rong	2343
+所属部门	suo shu bu men	2179
+所属仓库	suo shu cang ku	769
+所属代理商	suo shu dai li shang	2451
+所属档案类型	suo shu dang an lei xing	592
+所属店铺	suo shu dian pu	832
+所属分类	suo shu fen lei	884
+所属公司经销商	suo shu gong si jing xiao shang	1620
+所属经销商	suo shu jing xiao shang	833
+所属类型	suo shu lei xing	134
+所属权力组	suo shu quan li zu	1747
+所属上级	suo shu shang ji	1163
+所属物业	suo shu wu ye	316
+所属项目	suo shu xiang mu	2375
+所属业务	suo shu ye wu	718
+所属职位	suo shu zhi wei	2245
+所属总部部门代理商二级加盟商	suo shu zong bu bu men dai li shang er ji jia meng shang	2443
+所选科目不是现金科目	suo xuan ke mu bu shi xian jin ke mu	588
+所选区域不包含此店铺	suo xuan qu yu bu bao han ci dian pu	863
+索引管理	suo yin guan li	2055
+索引信息	suo yin xin xi	2017
+索引字段	suo yin zi duan	2020
+索引字段设置出错请重新输入	suo yin zi duan she zhi chu cuo qing chong xin shu ru	2061
+所有待办	suo you dai ban	2318
+所有类型的属性均不能为空	suo you lei xing de shu xing jun bu neng wei kong	136
+所有状态数据	suo you zhuang tai shu ju	499
+所在城市	suo zai cheng shi	1644
+所在地区	suo zai di qu	256
+所在商圈	suo zai shang quan	410
+所占长度	suo zhan chang du	1805
+弹出框模板	tan chu kuang mu ban	389
+提高工作效率的方式方法介绍	ti gao gong zuo xiao lv de fang shi fang fa jie shao	2208
+提交	ti jiao	2346
+提交并关闭	ti jiao bing guan bi	2370
+提交并新增	ti jiao bing xin zeng	2369
+提交成功	ti jiao cheng gong	2134
+提交订单	ti jiao ding dan	1115
+提交配货单	ti jiao pei huo dan	1065
+提交前应为草稿或者撤回状态	ti jiao qian ying wei cao gao huo zhe che hui zhuang tai	646
+提交全部	ti jiao quan bu	737
+提交人	ti jiao ren	764
+提交日期	ti jiao ri qi	765
+提交生产需求	ti jiao sheng chan xu qiu	86
+提交失败请联系系统管理员	ti jiao shi bai qing lian xi xi tong guan li yuan	2358
+提交调价	ti jiao tiao jia	756
+提交选中部分	ti jiao xuan zhong bu fen	736
+提示确定提交此调价单吗	ti shi que ding ti jiao ci tiao jia dan ma	227
+提示确定要撤回此调价单吗	ti shi que ding yao che hui ci tiao jia dan ma	225
+提示确定要执行此调价单吗	ti shi que ding yao zhi xing ci tiao jia dan ma	226
+提示信息	ti shi xin xi	2190
+提示真的要执行吗	ti shi zhen de yao zhi xing ma	730
+添加	tian jia	2207
+添加版型	tian jia ban xing	1291
+添加表单	tian jia biao dan	2394
+添加标签	tian jia biao qian	2269
+添加部门	tian jia bu men	1832
+添加菜单分组	tian jia cai dan fen zu	748
+添加产品	tian jia chan pin	1951
+添加成功	tian jia cheng gong	1124
+添加成员	tian jia cheng yuan	1695
+添加尺码	tian jia chi ma	1292
+添加店铺	tian jia dian pu	1675
+添加分类	tian jia fen lei	2029
+添加分支机构	tian jia fen zhi ji gou	1719
+添加分组	tian jia fen zu	1768
+添加更多部门	tian jia geng duo bu men	1771
+添加或编辑标签	tian jia huo bian ji biao qian	2163
+添加或移除字段分组	tian jia huo yi chu zi duan fen zu	815
+添加静态字段	tian jia jing tai zi duan	269
+添加客户	tian jia ke hu	1952
+添加数据表	tian jia shu ju biao	2028
+添加数据权力	tian jia shu ju quan li	1700
+添加索引	tian jia suo yin	2022
+添加外键	tian jia wai jian	2009
+添加往来单位	tian jia wang lai dan wei	125
+添加相关帮助链接	tian jia xiang guan bang zhu lian jie	2364
+添加项目	tian jia xiang mu	2395
+添加小工具	tian jia xiao gong ju	2271
+添加新词典	tian jia xin ci dian	2241
+添加新功能介绍	tian jia xin gong neng jie shao	2345
+添加新记录	tian jia xin ji lu	1745
+添加新图标	tian jia xin tu biao	2240
+添加虚拟表	tian jia xu ni biao	1992
+添加颜色	tian jia yan se	1276
+添加一箱	tian jia yi xiang	1045
+添加用户	tian jia yong hu	1672
+添加职位	tian jia zhi wei	1696
+添加子部门	tian jia zi bu men	1795
+添加字段	tian jia zi duan	2053
+添加子经销商	tian jia zi jing xiao shang	777
+天数	tian shu	838
+天销售	tian xiao shou	1157
+填写手机号码可用于登录	tian xie shou ji hao ma ke yong yu deng lu	1985
+调价	tiao jia	759
+调价人	tiao jia ren	763
+条件	tiao jian	910
+条件表达式	tiao jian biao da shi	911
+条件表达式不能为空	tiao jian biao da shi bu neng wei kong	1575
+条件类型	tiao jian lei xing	747
+条件名称	tiao jian ming cheng	912
+条件设置	tiao jian she zhi	1749
+条件数据表字段	tiao jian shu ju biao zi duan	1751
+条件值	tiao jian zhi	1750
+条件中必须包含号	tiao jian zhong bi xu bao han hao	1451
+条目解释	tiao mu jie shi	2161
+调配各区域配货库存	tiao pei ge qu yu pei huo ku cun	740
+调整单	tiao zheng dan	222
+调整款式编码次序	tiao zheng kuan shi bian ma ci xu	1534
+调整人	tiao zheng ren	1519
+调整失效日期	tiao zheng shi xiao ri qi	755
+调整项目次序	tiao zheng xiang mu ci xu	1650
+调整原因	tiao zheng yuan yin	1520
+停用	ting yong	2389
+同时移除原来所在部门	tong shi yi chu yuan lai suo zai bu men	1728
+同意	tong yi	2198
+同一属性下面唯一	tong yi shu xing xia mian wei yi	1683
+通知单号	tong zhi dan hao	383
+通知入库	tong zhi ru ku	79
+图标	tu biao	2335
+图标编号	tu biao bian hao	1970
+图标重复	tu biao chong fu	1836
+图标词典	tu biao ci dian	2186
+图标解释	tu biao jie shi	1965
+图标类型	tu biao lei xing	1969
+图标路径	tu biao lu jing	1838
+图标名称	tu biao ming cheng	1968
+图标条目	tu biao tiao mu	1502
+图标信息	tu biao xin xi	1971
+图片	tu pian	1287
+图片保存失败	tu pian bao cun shi bai	934
+图片不能为空	tu pian bu neng wei kong	97
+退出	tui chu	2314
+退货	tui huo	512
+退货截止日期不能为空	tui huo jie zhi ri qi bu neng wei kong	328
+退货截止日期格式必须为	tui huo jie zhi ri qi ge shi bi xu wei	327
+退货率	tui huo lv	161
+退货率不在规定范围内	tui huo lv bu zai gui ding fan wei nei	1228
+退货天数必须大于零	tui huo tian shu bi xu da yu ling	1227
+退货天数天	tui huo tian shu tian	160
+拖拽字段位置来修改表单布局	tuo zhuai zi duan wei zhi lai xiu gai biao dan bu ju	653
+外键	wai jian	1947
+外键表	wai jian biao	2018
+外键表字段	wai jian biao zi duan	1944
+外键约束管理	wai jian yue shu guan li	2056
+外键约束信息	wai jian yue shu xin xi	1942
+外键字段列表为空请重新输入	wai jian zi duan lie biao wei kong qing chong xin shu ru	1939
+完成	wan cheng	1049
+晚上好	wan shang hao	2272
+忘记密码	wang ji mi ma	2077
+往来单位	wang lai dan wei	983
+往来合同	wang lai he tong	1637
+往来文档	wang lai wen dang	1636
+往来账目	wang lai zhang mu	1638
+未绑定	wei bang ding	455
+未打钩款式	wei da gou kuan shi	715
+未登账	wei deng zhang	230
+未登账数	wei deng zhang shu	664
+未发布	wei fa bu	2203
+未发数	wei fa shu	1111
+未分配	wei fen pei	1574
+未分配项目	wei fen pei xiang mu	1766
+未分组	wei fen zu	919
+为该用户设置数据权力	wei gai yong hu she zhi shu ju quan li	1743
+维护用户信息及权力分配	wei hu yong hu xin xi ji quan li fen pei	1807
+维护职位档案及分配相应权力	wei hu zhi wei dang an ji fen pei xiang ying quan li	1773
+未加入	wei jia ru	814
+未加入部分	wei jia ru bu fen	665
+未录入明细记录不允许审核	wei lu ru ming xi ji lu bu yun xu shen he	310
+未配合计	wei pei he ji	1070
+未配款	wei pei kuan	1218
+未入账的单据不能结案	wei ru zhang de dan ju bu neng jie an	314
+未设置经销商分类	wei she zhi jing xiao shang fen lei	1437
+未设置商品分类	wei she zhi shang pin fen lei	1436
+未设置销售类型	wei she zhi xiao shou lei xing	1361
+未审核	wei shen he	212
+未使用	wei shi yong	2075
+未使用语言	wei shi yong yu yan	1397
+未收货	wei shou huo	278
+未提交	wei ti jiao	584
+未提交的裁床数	wei ti jiao de cai chuang shu	572
+未提交订单列表	wei ti jiao ding dan lie biao	428
+未提交数	wei ti jiao shu	1248
+未下单生产数	wei xia dan sheng chan shu	84
+未修改	wei xiu gai	1549
+未选经销商	wei xuan jing xiao shang	36
+未选用配货员	wei xuan yong pei huo yuan	195
+未选用其它人员	wei xuan yong qi ta ren yuan	194
+未选择公司经销商	wei xuan ze gong si jing xiao shang	1481
+未选择上级	wei xuan ze shang ji	1131
+未选中图标	wei xuan zhong tu biao	2116
+唯一	wei yi	2021
+未找到方法配置文件	wei zhao dao fang fa pei zhi wen jian	603
+未找到获取编号的方法	wei zhao dao huo qu bian hao de fang fa	187
+未找到获取编号值的类	wei zhao dao huo qu bian hao zhi de lei	188
+未找到获取主键值的方法	wei zhao dao huo qu zhu jian zhi de fang fa	451
+未找到获取主键值的类	wei zhao dao huo qu zhu jian zhi de lei	452
+未找到模板配置文件	wei zhao dao mu ban pei zhi wen jian	834
+未找到业务配置文件	wei zhao dao ye wu pei zhi wen jian	604
+未指定	wei zhi ding	1983
+未指定数据源路径	wei zhi ding shu ju yuan lu jing	2414
+未执行	wei zhi xing	732
+文本	wen ben	465
+文本型类型	wen ben xing lei xing	594
+文件名规则	wen jian ming gui ze	1498
+文件上传失败	wen jian shang chuan shi bai	2381
+问题	wen ti	2427
+问题长度不能超过个汉字	wen ti chang du bu neng chao guo ge han zi	2218
+问题反馈	wen ti fan kui	2431
+文字词典	wen zi ci dian	2187
+我处理的任务	wo chu li de ren wu	1903
+我的标签	wo de biao qian	2311
+我的菜单	wo de cai dan	2283
+我的草稿箱	wo de cao gao xiang	2088
+我的待办任务	wo de dai ban ren wu	1906
+我的工具箱	wo de gong ju xiang	2340
+我的工作	wo de gong zuo	2327
+我的任务	wo de ren wu	1820
+我的应用	wo de ying yong	2076
+我发起的任务	wo fa qi de ren wu	1904
+我说两句	wo shuo liang ju	2216
+我提问题	wo ti wen ti	2219
+我想说两句	wo xiang shuo liang ju	2222
+我要提问	wo yao ti wen	2087
+无部门用户	wu bu men yong hu	1530
+无分组	wu fen zu	855
+物流单	wu liu dan	1011
+物流单号	wu liu dan hao	1002
+物流单类型	wu liu dan lei xing	1028
+物流单明细	wu liu dan ming xi	1089
+物流单信息	wu liu dan xin xi	1090
+物流单已签收不能删除	wu liu dan yi qian shou bu neng shan chu	1134
+物流单已签收不能修改	wu liu dan yi qian shou bu neng xiu gai	1167
+物流发货	wu liu fa huo	1055
+物流发货日期	wu liu fa huo ri qi	1029
+物流公司	wu liu gong si	1088
+物流公司不存在或没有启用	wu liu gong si bu cun zai huo mei you qi yong	1126
+物流公司档案	wu liu gong si dang an	988
+物流签收	wu liu qian shou	1091
+无权限	wu quan xian	1932
+无效的查询语句	wu xiao de cha xun yu ju	1541
+物业编号	wu ye bian hao	411
+物业列表	wu ye lie biao	254
+物业名称	wu ye ming cheng	412
+无字段	wu zi duan	2063
+系统	xi tong	954
+系统编号	xi tong bian hao	831
+系统部分	xi tong bu fen	808
+系统参数管理	xi tong can shu guan li	1657
+系统初始配置	xi tong chu shi pei zhi	1601
+系统多语言配置	xi tong duo yu yan pei zhi	1370
+系统管理	xi tong guan li	2349
+系统管理类	xi tong guan li lei	2377
+系统管理员	xi tong guan li yuan	2371
+系统级权限管理	xi tong ji quan xian guan li	1936
+系统类型	xi tong lei xing	464
+系统默认	xi tong mo ren	746
+系统默认类型	xi tong mo ren lei xing	1569
+系统默认值	xi tong mo ren zhi	1666
+系统设置	xi tong she zhi	2192
+系统数据不可以修改	xi tong shu ju bu ke yi xiu gai	1097
+系统注册	xi tong zhu ce	560
+系统注册数据不能删除	xi tong zhu ce shu ju bu neng shan chu	675
+系统注册数据不允许修改	xi tong zhu ce shu ju bu yun xu xiu gai	150
+系统注册数据不允许修改编号	xi tong zhu ce shu ju bu yun xu xiu gai bian hao	1813
+系统字段	xi tong zi duan	497
+下成品生产需求	xia cheng pin sheng chan xu qiu	87
+下单	xia dan	51
+下单日期	xia dan ri qi	630
+下单数	xia dan shu	754
+下单数量	xia dan shu liang	591
+下单与裁床差	xia dan yu cai chuang cha	573
+下个月	xia ge yue	2383
+下列店铺自定义了参数	xia lie dian pu zi ding yi le can shu	1673
+下列分支机构自定义了参数	xia lie fen zhi ji gou zi ding yi le can shu	1674
+下列用户自定义了参数	xia lie yong hu zi ding yi le can shu	1671
+下生产订单	xia sheng chan ding dan	429
+下属仓店数	xia shu cang dian shu	783
+下属经销商数	xia shu jing xiao shang shu	784
+下午好	xia wu hao	2273
+下一步	xia yi bu	1532
+下一年	xia yi nian	2199
+下一页	xia yi ye	2182
+下载	xia zai	2232
+下载软件词典文件	xia zai ruan jian ci dian wen jian	2234
+下载升级文件	xia zai sheng ji wen jian	652
+下载系统默认配置数据	xia zai xi tong mo ren pei zhi shu ju	745
+下载语言文件	xia zai yu yan wen jian	2295
+现价	xian jia	1257
+现金科目不允许移除	xian jin ke mu bu yun xu yi chu	92
+现金科目为空请绑定	xian jin ke mu wei kong qing bang ding	175
+显示长度	xian shi chang du	469
+显示次序	xian shi ci xu	1602
+显示当前区域所有物业店铺	xian shi dang qian qu yu suo you wu ye dian pu	317
+显示方式	xian shi fang shi	1531
+显示宽度	xian shi kuan du	915
+显示款式分析数据	xian shi kuan shi fen xi shu ju	1108
+显示栏	xian shi lan	70
+显示名称	xian shi ming cheng	916
+显示全部	xian shi quan bu	1770
+显示图标	xian shi tu biao	2374
+显示详细	xian shi xiang xi	1349
+显示值字段名	xian shi zhi zi duan ming	952
+显示最近记录条数	xian shi zui jin ji lu tiao shu	1015
+限制约束	xian zhi yue shu	2060
+向部门加入成员	xiang bu men jia ru cheng yuan	1702
+向部门加入数据权力	xiang bu men jia ru shu ju quan li	1701
+向部门加入职位	xiang bu men jia ru zhi wei	1703
+相关帮助	xiang guan bang zhu	2223
+相关单据	xiang guan dan ju	1634
+相关服务方法	xiang guan fu wu fang fa	1423
+相关文档	xiang guan wen dang	2250
+相关文档下载	xiang guan wen dang xia zai	2226
+箱号	xiang hao	1003
+项目	xiang mu	437
+项目编号	xiang mu bian hao	2103
+项目编号不能为空	xiang mu bian hao bu neng wei kong	1579
+项目服务发布	xiang mu fu wu fa bu	1507
+项目类型	xiang mu lei xing	2102
+项目列表	xiang mu lie biao	312
+项目路径	xiang mu lu jing	1861
+项目描述	xiang mu miao shu	2100
+项目名称	xiang mu ming cheng	2347
+项目命名空间	xiang mu ming ming kong jian	1917
+项目所属公司	xiang mu suo shu gong si	2348
+项目信息	xiang mu xin xi	2096
+详情	xiang qing	1633
+详细资料	xiang xi zi liao	1380
+相应科目生成失败	xiang ying ke mu sheng cheng shi bai	516
+小工具	xiao gong ju	391
+小类	xiao lei	1267
+小时	xiao shi	2197
+销售	xiao shou	699
+销售订单	xiao shou ding dan	1353
+销售合计数	xiao shou he ji shu	179
+销售价格管理	xiao shou jia ge guan li	1492
+销售类型	xiao shou lei xing	1250
+销售类型管理	xiao shou lei xing guan li	1457
+销售类型信息	xiao shou lei xing xin xi	1527
+销售曲线	xiao shou qu xian	1272
+销售数量	xiao shou shu liang	624
+小于	xiao yu	115
+写帮助	xie bang zhu	2344
+写新增功能	xie xin zeng gong neng	2277
+新绑定方法	xin bang ding fang fa	943
+新建	xin jian	1781
+新建部门	xin jian bu men	1801
+新建参数	xin jian can shu	598
+新建查询	xin jian cha xun	889
+新建常用资料档案	xin jian chang yong zi liao dang an	1588
+新建单据类型	xin jian dan ju lei xing	844
+新建档案	xin jian dang an	1589
+新建方案	xin jian fang an	238
+新建分类	xin jian fen lei	890
+新建分区	xin jian fen qu	771
+新建分组	xin jian fen zu	671
+新建分组类型	xin jian fen zu lei xing	672
+新建或修改部门档案	xin jian huo xiu gai bu men dang an	1867
+新建或修改仓店档案	xin jian huo xiu gai cang dian dang an	1623
+新建或修改常用资料档案	xin jian huo xiu gai chang yong zi liao dang an	1611
+新建或修改品牌档案	xin jian huo xiu gai pin pai dang an	1733
+新建或修改属性档案	xin jian huo xiu gai shu xing dang an	1677
+新建或修改总部公司档案	xin jian huo xiu gai zong bu gong si dang an	1648
+新建价格策略	xin jian jia ge ce lue	1522
+新建品牌	xin jian pin pai	1714
+新建品牌档案	xin jian pin pai dang an	1713
+新建权利分类	xin jian quan li fen lei	55
+新建权力分类	xin jian quan li fen lei	56
+新建权力类型	xin jian quan li lei xing	1779
+新建权力组	xin jian quan li zu	1925
+新建属性	xin jian shu xing	1680
+新建属性档案	xin jian shu xing dang an	1679
+新建资料	xin jian zi liao	1686
+新建资料档案	xin jian zi liao dang an	1685
+新密码	xin mi ma	2005
+新手上路	xin shou shang lu	2363
+新手指引	xin shou zhi yin	2089
+信息	xin xi	1684
+新用户创建提醒	xin yong hu chuang jian ti xing	1545
+新增	xin zeng	1899
+新增编辑	xin zeng bian ji	28
+新增仓店	xin zeng cang dian	2
+性别无效	xing bie wu xiao	1413
+姓名	xing ming	1692
+行政业务	xing zheng ye wu	2350
+修订	xiu ding	2432
+修订帮助	xiu ding bang zhu	2230
+修改	xiu gai	2421
+修改部门基础资料	xiu gai bu men ji chu zi liao	1800
+修改草稿状态的职位	xiu gai cao gao zhuang tai de zhi wei	1761
+修改当前价格策略	xiu gai dang qian jia ge ce lue	1379
+修改密码	xiu gai mi ma	2007
+修改人	xiu gai ren	942
+序号	xu hao	1078
+序号不符合规则	xu hao bu fu he gui ze	1238
+虚拟表	xu ni biao	914
+虚拟表信息	xu ni biao xin xi	1830
+虚拟结算店	xu ni jie suan dian	902
+虚拟字段管理	xu ni zi duan guan li	1826
+需求数	xu qiu shu	83
+需要处理的任务	xu yao chu li de ren wu	2051
+选取款式包含项目	xuan qu kuan shi bao han xiang mu	1535
+选取项目	xuan qu xiang mu	1651
+选取需要的属性项目	xuan qu xu yao de shu xing xiang mu	1533
+选用	xuan yong	1658
+选择	xuan ze	2244
+选择部门	xuan ze bu men	1772
+选择菜单所属业务	xuan ze cai dan suo shu ye wu	749
+选择仓店照片	xuan ze cang dian zhao pian	1622
+选择二次发货类型	xuan ze er ci fa huo lei xing	447
+选择发货人	xuan ze fa huo ren	485
+选择父级部门	xuan ze fu ji bu men	1851
+选择公司经销商	xuan ze gong si jing xiao shang	1621
+选择公司照片	xuan ze gong si zhao pian	1647
+选择供应商	xuan ze gong ying shang	430
+选择行业	xuan ze hang ye	1499
+选择静态数据类型	xuan ze jing tai shu ju lei xing	846
+选择经销商照片	xuan ze jing xiao shang zhao pian	1470
+选择年份	xuan ze nian fen	446
+选择日期	xuan ze ri qi	2114
+选择收货人	xuan ze shou huo ren	487
+选择私有化参数对象	xuan ze si you hua can shu dui xiang	1752
+选择所属业务	xuan ze suo shu ye wu	688
+选择图标	xuan ze tu biao	1893
+选择图标类型	xuan ze tu biao lei xing	1503
+选择图片	xuan ze tu pian	1964
+选择往来单位	xuan ze wang lai dan wei	60
+选择项目	xuan ze xiang mu	2030
+选择语言	xuan ze yu yan	2079
+选择职位	xuan ze zhi wei	2111
+选择状态不在有效范围内	xuan ze zhuang tai bu zai you xiao fan wei nei	1214
+选中款应用为不参与分货	xuan zhong kuan ying yong wei bu can yu fen huo	611
+选中款应用为参与分货	xuan zhong kuan ying yong wei can yu fen huo	610
+颜色	yan se	1277
+颜色编号	yan se bian hao	522
+颜色不存在	yan se bu cun zai	1234
+颜色代码	yan se dai ma	829
+颜色名称	yan se ming cheng	660
+验证	yan zheng	544
+验证流程检查项	yan zheng liu cheng jian cha xiang	1791
+验证失败	yan zheng shi bai	602
+验证通过	yan zheng tong guo	1119
+要求交货期	yao qiu jiao huo qi	436
+页面标题	ye mian biao ti	2188
+页面描述	ye mian miao shu	1598
+页面模板	ye mian mu ban	388
+夜深了	ye shen le	2275
+业务单号	ye wu dan hao	13
+业务分组	ye wu fen zu	1356
+业务服务器	ye wu fu wu qi	425
+业务规则设置	ye wu gui ze she zhi	62
+业务类型不存在	ye wu lei xing bu cun zai	590
+业务类型不在规定范围内	ye wu lei xing bu zai gui ding fan wei nei	1295
+业务类型与接口类型不匹配	ye wu lei xing yu jie kou lei xing bu pi pei	577
+业务名称	ye wu ming cheng	1424
+业务权	ye wu quan	1346
+业务权力管理	ye wu quan li guan li	1426
+一半	yi ban	1274
+一般	yi ban	2214
+已绑定	yi bang ding	456
+异常信息	yi chang xin xi	1382
+已超期	yi chao qi	2322
+移除	yi chu	2142
+已存在	yi cun zai	2140
+已打钩款式	yi da gou kuan shi	714
+已登帐	yi deng zhang	43
+已登账	yi deng zhang	215
+已调入未确认数	yi diao ru wei que ren shu	824
+已订购过的款	yi ding gou guo de kuan	1245
+已发布	yi fa bu	2391
+已发布不可修改	yi fa bu bu ke xiu gai	1979
+已发货	yi fa huo	1144
+已发生业务不允许删除	yi fa sheng ye wu bu yun xu shan chu	94
+已分配	yi fen pei	1573
+已分配的功能总数	yi fen pei de gong neng zong shu	1759
+已分配数	yi fen pei shu	1342
+已分配项目	yi fen pei xiang mu	1765
+已分配职位	yi fen pei zhi wei	1422
+已分未确认数	yi fen wei que ren shu	639
+已加入	yi jia ru	1833
+已加入部分	yi jia ru bu fen	637
+已经超过字	yi jing chao guo zi	2202
+已经存在	yi jing cun zai	1613
+已经拣货完成不能删除	yi jing jian huo wan cheng bu neng shan chu	1208
+已经装箱的货品取出	yi jing zhuang xiang de huo pin qu chu	1074
+已开裁	yi kai cai	566
+已配货款	yi pei huo kuan	1219
+已配数量	yi pei shu liang	38
+已启用	yi qi yong	2416
+已入库数	yi ru ku shu	357
+已扫描完成不能删除	yi sao miao wan cheng bu neng shan chu	1130
+已扫描完成不能再扫描	yi sao miao wan cheng bu neng zai sao miao	1102
+已删除	yi shan chu	1890
+已设置款式编码长度	yi she zhi kuan shi bian ma chang du	1656
+已审核	yi shen he	213
+已收货	yi shou huo	276
+已收未确认数	yi shou wei que ren shu	826
+艺术	yi shu	527
+艺术说明	yi shu shuo ming	528
+已送货	yi song huo	565
+已提交	yi ti jiao	585
+已添加	yi tian jia	2153
+已停用	yi ting yong	2204
+已完成	yi wan cheng	2284
+已下需求数	yi xia xu qiu shu	856
+一些快捷方式介绍	yi xie kuai jie fang shi jie shao	2419
+已修改	yi xiu gai	1550
+已选用人员	yi xuan yong ren yuan	196
+已选择属性	yi xuan ze shu xing	1654
+已移除	yi yi chu	1762
+已有经销绑定此方案不能删除	yi you jing xiao bang ding ci fang an bu neng shan chu	266
+已占额	yi zhan e	379
+已执行的单据不可以修改	yi zhi xing de dan ju bu ke yi xiu gai	1263
+隐藏	yin cang	955
+引用	yin yong	2360
+引用的菜单不存在	yin yong de cai dan bu cun zai	330
+英文	ying wen	2034
+英文名称	ying wen ming cheng	1827
+营销经营结构	ying xiao jing ying jie gou	854
+应用该尺码组	ying yong gai chi ma zu	636
+应用更改	ying yong geng gai	928
+应用管理	ying yong guan li	2306
+应用平台服务器管理员密码	ying yong ping tai fu wu qi guan li yuan mi ma	1385
+应用平台服务器管理员账号	ying yong ping tai fu wu qi guan li yuan zhang hao	1386
+应用平台配置	ying yong ping tai pei zhi	1399
+应用设置	ying yong she zhi	870
+应用为人工分货	ying yong wei ren gong fen huo	926
+应用为自动分货	ying yong wei zi dong fen huo	927
+用户	yong hu	953
+用户编号	yong hu bian hao	1935
+用户编号不存在	yong hu bian hao bu cun zai	1195
+用户编号不能为空	yong hu bian hao bu neng wei kong	1432
+用户编号重复	yong hu bian hao chong fu	1391
+用户不存在或未启用	yong hu bu cun zai huo wei qi yong	1324
+用户参数管理	yong hu can shu guan li	1504
+用户档案管理	yong hu dang an guan li	1808
+用户的代号一般用于研发部门	yong hu de dai hao yi ban yong yu yan fa bu men	1994
+用户登录	yong hu deng lu	2082
+用户定义部分	yong hu ding yi bu fen	807
+用户类型	yong hu lei xing	1562
+用户列表	yong hu lie biao	1848
+用户名不能不空	yong hu ming bu neng bu kong	1414
+用户权力管理	yong hu quan li guan li	1348
+用户未登录或已超时请重新登录	yong hu wei deng lu huo yi chao shi qing chong xin deng lu	1515
+用户详情	yong hu xiang qing	1393
+用户性别	yong hu xing bie	1809
+用户姓名	yong hu xing ming	1934
+用户字段	yong hu zi duan	496
+优先次序	you xian ci xu	931
+优先发货折扣策略	you xian fa huo zhe kou ce lue	103
+优先满足次序	you xian man zu ci xu	998
+邮箱	you xiang	1564
+邮箱重复	you xiang chong fu	1818
+邮箱地址	you xiang di zhi	1593
+邮箱格式不正确	you xiang ge shi bu zheng que	1815
+邮政编码	you zheng bian ma	1615
+余额方向	yu e fang xiang	553
+余额类型编号	yu e lei xing bian hao	973
+余额类型名称	yu e lei xing ming cheng	972
+语句	yu ju	719
+预览	yu lan	2305
+语言编号	yu yan bian hao	1396
+语言编号不能为空	yu yan bian hao bu neng wei kong	1421
+语言父表	yu yan fu biao	1991
+语言描述	yu yan miao shu	1363
+语言名称	yu yan ming cheng	1364
+语言字段	yu yan zi duan	1993
+原绑定方法	yuan bang ding fang fa	944
+原密码	yuan mi ma	2006
+原图标	yuan tu biao	1837
+原型发布	yuan xing fa bu	1505
+原因说明	yuan yin shuo ming	1523
+阅读	yue du	2317
+运行	yun xing	2330
+运行菜单	yun xing cai dan	2258
+允许使用手机号码登录	yun xu shi yong shou ji hao ma deng lu	1590
+允许使用邮箱地址登录	yun xu shi yong you xiang di zhi deng lu	1591
+在产数	zai chan shu	640
+在产数量	zai chan shu liang	866
+再次复制	zai ci fu zhi	1689
+在途	zai tu	1110
+早上好	zao shang hao	2276
+摘要	zhai yao	336
+展开	zhan kai	1889
+账号	zhang hao	2338
+账号或密码不能为空	zhang hao huo mi ma bu neng wei kong	2309
+账号配置	zhang hao pei zhi	1387
+账号信息	zhang hao xin xi	2001
+账号信息已更改	zhang hao xin xi yi geng gai	1999
+账号与密码不匹配	zhang hao yu mi ma bu pi pei	2256
+找不到符合搜索条件的记录	zhao bu dao fu he sou suo tiao jian de ji lu	1984
+找不到符合条件的菜单	zhao bu dao fu he tiao jian de cai dan	1252
+找不到符合条件的记录	zhao bu dao fu he tiao jian de ji lu	1869
+找不到公司分组	zhao bu dao gong si fen zu	124
+找不到经销商分组	zhao bu dao jing xiao shang fen zu	27
+找不到权力组	zhao bu dao quan li zu	25
+找不到上级单位	zhao bu dao shang ji dan wei	122
+找不到相关公司	zhao bu dao xiang guan gong si	123
+找不到相关记录	zhao bu dao xiang guan ji lu	1777
+找不到相关经销商	zhao bu dao xiang guan jing xiao shang	26
+找不到相关权力	zhao bu dao xiang guan quan li	9
+折扣	zhe kou	1256
+折扣不在规定范围或内	zhe kou bu zai gui ding fan wei huo nei	1229
+折扣不在规定范围内	zhe kou bu zai gui ding fan wei nei	219
+折扣超出范围	zhe kou chao chu fan wei	1193
+折扣设置	zhe kou she zhi	63
+真的要重新分配吗	zhen de yao chong xin fen pei ma	613
+真的要重新调配吗	zhen de yao chong xin tiao pei ma	680
+真的要恢复当前价格策略吗	zhen de yao hui fu dang qian jia ge ce lue ma	1516
+真的要提交全部分配数据吗	zhen de yao ti jiao quan bu fen pei shu ju ma	708
+真的要提交选中的分配数据吗	zhen de yao ti jiao xuan zhong de fen pei shu ju ma	707
+整个操作过程描述	zheng ge cao zuo guo cheng miao shu	2210
+正确	zheng que	1855
+正在保存	zheng zai bao cun	2387
+正在收货	zheng zai shou huo	277
+只编辑草稿	zhi bian ji cao gao	500
+只测试员和开发员可以用	zhi ce shi yuan he kai fa yuan ke yi yong	2095
+制单	zhi dan	531
+制单号	zhi dan hao	520
+制单权	zhi dan quan	1338
+制单人	zhi dan ren	204
+制单时间	zhi dan shi jian	937
+制单员	zhi dan yuan	1007
+指定编号模板不存在	zhi ding bian hao mu ban bu cun zai	795
+指定编号业务不存在或没有启用	zhi ding bian hao ye wu bu cun zai huo mei you qi yong	323
+指定表不存在	zhi ding biao bu cun zai	453
+指定的货品编号不存在	zhi ding de huo pin bian hao bu cun zai	1331
+指定的科目不存在	zhi ding de ke mu bu cun zai	589
+指定的款式不存在	zhi ding de kuan shi bu cun zai	1329
+指定日期	zhi ding ri qi	1508
+指定属性不存在	zhi ding shu xing bu cun zai	37
+指定字段显示内容的取值字段	zhi ding zi duan xian shi nei rong de qu zhi zi duan	951
+只读	zhi du	2123
+只读自动生成	zhi du zi dong sheng cheng	2148
+支付比例	zhi fu bi li	996
+支付优先次序	zhi fu you xian ci xu	995
+志华软件	zhi hua ruan jian	2104
+志华软件公司提供的注册码	zhi hua ruan jian gong si ti gong de zhu ce ma	1895
+知会	zhi hui	2049
+直接录入编码添加	zhi jie lu ru bian ma tian jia	1288
+直接入库	zhi jie ru ku	356
+直接通知仓库拣货	zhi jie tong zhi cang ku jian huo	1071
+值名称	zhi ming cheng	1662
+职权信息	zhi quan xin xi	1560
+知识管理	zhi shi guan li	2137
+直属上级	zhi shu shang ji	2003
+只添加跟此帮助有相关性的帮助	zhi tian jia gen ci bang zhu you xiang guan xing de bang zhu	2147
+只添加直属上级往来单位	zhi tian jia zhi shu shang ji wang lai dan wei	126
+职位	zhi wei	2108
+职位编码	zhi wei bian ma	2353
+职位分类	zhi wei fen lei	1576
+职位分配	zhi wei fen pei	1694
+职位管理	zhi wei guan li	1774
+职位类型	zhi wei lei xing	2125
+职位列表	zhi wei lie biao	1706
+职位描述	zhi wei miao shu	1776
+职位名称	zhi wei ming cheng	2124
+职位数	zhi wei shu	1699
+职位信息	zhi wei xin xi	2126
+只显示图标已存在的记录	zhi xian shi tu biao yi cun zai de ji lu	1860
+执行	zhi xing	760
+执行人	zhi xing ren	202
+执行时间	zhi xing shi jian	936
+执行中	zhi xing zhong	787
+智者解决问题天才预防问题	zhi zhe jie jue wen ti tian cai yu fang wen ti	1844
+中间件服务器地址	zhong jian jian fu wu qi di zhi	274
+重量	zhong liang	1076
+中文繁体	zhong wen fan ti	2035
+中文简体	zhong wen jian ti	2036
+中文名称	zhong wen ming cheng	1829
+中午好	zhong wu hao	2274
+终止	zhong zhi	761
+终止人	zhong zhi ren	615
+终止时间	zhong zhi shi jian	935
+终止原因	zhong zhi yuan yin	731
+珠宝	zhu bao	2038
+注册	zhu ce	1931
+注册成功	zhu ce cheng gong	1928
+注册码	zhu ce ma	1930
+注册失败	zhu ce shi bai	1927
+主键	zhu jian	1948
+主键表	zhu jian biao	2027
+主键表字段	zhu jian biao zi duan	2026
+主题	zhu ti	1284
+注意事项	zhu yi shi xiang	2435
+主营业务	zhu ying ye wu	2106
+装入	zhuang ru	1021
+状态	zhuang tai	1916
+状态不在有效范围内	zhuang tai bu zai you xiao fan wei nei	1580
+装箱	zhuang xiang	1050
+装箱单	zhuang xiang dan	1047
+装箱要求	zhuang xiang yao qiu	526
+子部门	zi bu men	1797
+字典代码	zi dian dai ma	35
+字典描述	zi dian miao shu	33
+字典名称	zi dian ming cheng	34
+自定义	zi ding yi	774
+自定义查询	zi ding yi cha xun	536
+自定义分组	zi ding yi fen zu	540
+自定义类型	zi ding yi lei xing	1568
+自动分货	zi dong fen huo	727
+自动分货规则编号不存在	zi dong fen huo gui ze bian hao bu cun zai	1170
+字段编号	zi duan bian hao	475
+字段不能为空	zi duan bu neng wei kong	2201
+字段长度	zi duan chang du	925
+字段格式	zi duan ge shi	806
+字段管理	zi duan guan li	2057
+字段列表	zi duan lie biao	721
+字段列表为空请检查配置	zi duan lie biao wei kong qing jian cha pei zhi	1450
+字段名称	zi duan ming cheng	470
+字段排序	zi duan pai xu	804
+字段取值	zi duan qu zhi	805
+字段信息	zi duan xin xi	1938
+资料属性	zi liao shu xing	537
+资料属性分组管理	zi liao shu xing fen zu guan li	816
+自营店	zi ying dian	1484
+总部	zong bu	850
+总部部门	zong bu bu men	444
+总部参数	zong bu can shu	1875
+总部公司档案管理	zong bu gong si dang an guan li	1641
+总部公司管理	zong bu gong si guan li	1642
+总部公司详情	zong bu gong si xiang qing	1419
+总部用户	zong bu yong hu	1884
+总部用户权力	zong bu yong hu quan li	320
+总部职位	zong bu zhi wei	1854
+总仓	zong cang	1487
+总仓可分库存	zong cang ke fen ku cun	641
+总仓可配库存	zong cang ke pei ku cun	642
+总仓库存	zong cang ku cun	713
+总仓情况	zong cang qing kuang	39
+总长	zong chang	1811
+总件数	zong jian shu	1026
+总配货数	zong pei huo shu	1069
+总欠发数	zong qian fa shu	797
+总欠分	zong qian fen	827
+总欠配数	zong qian pei shu	337
+总欠数	zong qian shu	725
+总数量	zong shu liang	1282
+总箱数	zong xiang shu	484
+总需求	zong xu qiu	712
+总重量	zong zhong liang	1025
+最迟退货天货	zui chi tui huo tian huo	836
+最大允许上传	zui da yun xu shang chuan	2112
+最后订购日期	zui hou ding gou ri qi	1160
+最后发货日期	zui hou fa huo ri qi	1159
+最后发生日期	zui hou fa sheng ri qi	1259
+最后分货日期	zui hou fen huo ri qi	709
+最后更新时间	zui hou geng xin shi jian	1254
+最后入库日期	zui hou ru ku ri qi	398
+最后下单日期	zui hou xia dan ri qi	359
+最后下生产订单日期	zui hou xia sheng chan ding dan ri qi	399
+最后销售日期	zui hou xiao shou ri qi	1158
+最后修改日期	zui hou xiu gai ri qi	2252
+最近使用	zui jin shi yong	2191
+最近使用菜单	zui jin shi yong cai dan	1863
+坐标	zuo biao	251
+做发货单	zuo fa huo dan	494
+昨天	zuo tian	1511
+作者	zuo zhe	508

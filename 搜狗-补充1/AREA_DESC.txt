@@ -1,0 +1,3501 @@
+# 词库名称: AREA_DESC
+# 词库分类: 个人专用
+# 词库描述: 省市/省市区/省县
+# 词条样例: 北京市顺义区、北京市密云县、北京市门头沟区、北京市市辖区、北京市丰台区
+# 解析词数: 3494
+# 解析异常: 0
+
+安徽省安庆市	an hui sheng an qing shi	2315
+安徽省安庆市大观区	an hui sheng an qing shi da guan qu	2312
+安徽省安庆市郊区	an hui sheng an qing shi jiao qu	2311
+安徽省安庆市市辖区	an hui sheng an qing shi shi xia qu	2314
+安徽省安庆市迎江区	an hui sheng an qing shi ying jiang qu	2313
+安徽省蚌埠市	an hui sheng beng bu shi	2350
+安徽省蚌埠市蚌山区	an hui sheng beng bu shi beng shan qu	2347
+安徽省蚌埠市淮上区	an hui sheng beng bu shi huai shang qu	2345
+安徽省蚌埠市龙子湖区	an hui sheng beng bu shi long zi hu qu	2348
+安徽省蚌埠市市辖区	an hui sheng beng bu shi shi xia qu	2349
+安徽省蚌埠市禹会区	an hui sheng beng bu shi yu hui qu	2346
+安徽省亳州市	an hui sheng bo zhou shi	2250
+安徽省亳州市谯城区	an hui sheng bo zhou shi qiao cheng qu	2248
+安徽省亳州市市辖区	an hui sheng bo zhou shi shi xia qu	2249
+安徽省长丰县	an hui sheng chang feng xian	2362
+安徽省巢湖市	an hui sheng chao hu shi	2266
+安徽省巢湖市居巢区	an hui sheng chao hu shi ju chao qu	2264
+安徽省巢湖市市辖区	an hui sheng chao hu shi shi xia qu	2265
+安徽省池州市	an hui sheng chi zhou shi	2244
+安徽省池州市贵池区	an hui sheng chi zhou shi gui chi qu	2242
+安徽省池州市市辖区	an hui sheng chi zhou shi shi xia qu	2243
+安徽省滁州市	an hui sheng chu zhou shi	2293
+安徽省滁州市琅琊区	an hui sheng chu zhou shi lang ya qu	2291
+安徽省滁州市南谯区	an hui sheng chu zhou shi nan qiao qu	2290
+安徽省滁州市市辖区	an hui sheng chu zhou shi shi xia qu	2292
+安徽省砀山县	an hui sheng dang shan xian	2270
+安徽省当涂县	an hui sheng dang tu xian	2328
+安徽省定远县	an hui sheng ding yuan xian	2287
+安徽省东至县	an hui sheng dong zhi xian	2241
+安徽省繁昌县	an hui sheng fan chang xian	2352
+安徽省肥东县	an hui sheng fei dong xian	2361
+安徽省肥西县	an hui sheng fei xi xian	2360
+安徽省凤台县	an hui sheng feng tai xian	2334
+安徽省凤阳县	an hui sheng feng yang xian	2286
+安徽省阜南县	an hui sheng fu nan xian	2276
+安徽省阜阳市	an hui sheng fu yang shi	2283
+安徽省阜阳市市辖区	an hui sheng fu yang shi shi xia qu	2282
+安徽省阜阳市颍东区	an hui sheng fu yang shi ying dong qu	2280
+安徽省阜阳市颍泉区	an hui sheng fu yang shi ying quan qu	2279
+安徽省阜阳市颍州区	an hui sheng fu yang shi ying zhou qu	2281
+安徽省固镇县	an hui sheng gu zhen xian	2342
+安徽省广德县	an hui sheng guang de xian	2234
+安徽省涡阳县	an hui sheng guo yang xian	2247
+安徽省含山县	an hui sheng han shan xian	2261
+安徽省合肥市	an hui sheng he fei shi	2368
+安徽省合肥市包河区	an hui sheng he fei shi bao he qu	2363
+安徽省合肥市庐阳区	an hui sheng he fei shi lu yang qu	2365
+安徽省合肥市市辖区	an hui sheng he fei shi shi xia qu	2367
+安徽省合肥市蜀山区	an hui sheng he fei shi shu shan qu	2364
+安徽省合肥市瑶海区	an hui sheng he fei shi yao hai qu	2366
+安徽省和县	an hui sheng he xian	2260
+安徽省淮北市	an hui sheng huai bei shi	2327
+安徽省淮北市杜集区	an hui sheng huai bei shi du ji qu	2325
+安徽省淮北市烈山区	an hui sheng huai bei shi lie shan qu	2323
+安徽省淮北市市辖区	an hui sheng huai bei shi shi xia qu	2326
+安徽省淮北市相山区	an hui sheng huai bei shi xiang shan qu	2324
+安徽省淮南市	an hui sheng huai nan shi	2341
+安徽省淮南市八公山区	an hui sheng huai nan shi ba gong shan qu	2336
+安徽省淮南市大通区	an hui sheng huai nan shi da tong qu	2339
+安徽省淮南市潘集区	an hui sheng huai nan shi pan ji qu	2335
+安徽省淮南市市辖区	an hui sheng huai nan shi shi xia qu	2340
+安徽省淮南市田家庵区	an hui sheng huai nan shi tian jia an qu	2338
+安徽省淮南市谢家集区	an hui sheng huai nan shi xie jia ji qu	2337
+安徽省怀宁县	an hui sheng huai ning xian	2310
+安徽省怀远县	an hui sheng huai yuan xian	2344
+安徽省黄山市	an hui sheng huang shan shi	2302
+安徽省黄山市黄山区	an hui sheng huang shan shi huang shan qu	2299
+安徽省黄山市徽州区	an hui sheng huang shan shi hui zhou qu	2298
+安徽省黄山市市辖区	an hui sheng huang shan shi shi xia qu	2301
+安徽省黄山市屯溪区	an hui sheng huang shan shi tun xi qu	2300
+安徽省霍邱县	an hui sheng huo qiu xian	2254
+安徽省霍山县	an hui sheng huo shan xian	2251
+安徽省绩溪县	an hui sheng ji xi xian	2232
+安徽省界首市	an hui sheng jie shou shi	2274
+安徽省金寨县	an hui sheng jin zhai xian	2252
+安徽省旌德县	an hui sheng jing de xian	2231
+安徽省泾县	an hui sheng jing xian	2233
+安徽省来安县	an hui sheng lai an xian	2289
+安徽省郎溪县	an hui sheng lang xi xian	2235
+安徽省利辛县	an hui sheng li xin xian	2245
+安徽省临泉县	an hui sheng lin quan xian	2278
+安徽省灵璧县	an hui sheng ling bi xian	2268
+安徽省六安市	an hui sheng liu an shi	2259
+安徽省六安市金安区	an hui sheng liu an shi jin an qu	2257
+安徽省六安市市辖区	an hui sheng liu an shi shi xia qu	2258
+安徽省六安市裕安区	an hui sheng liu an shi yu an qu	2256
+安徽省庐江县	an hui sheng lu jiang xian	2263
+安徽省马鞍山市	an hui sheng ma an shan shi	2333
+安徽省马鞍山市花山区	an hui sheng ma an shan shi hua shan qu	2330
+安徽省马鞍山市金家庄区	an hui sheng ma an shan shi jin jia zhuang qu	2331
+安徽省马鞍山市市辖区	an hui sheng ma an shan shi shi xia qu	2332
+安徽省马鞍山市雨山区	an hui sheng ma an shan shi yu shan qu	2329
+安徽省蒙城县	an hui sheng meng cheng xian	2246
+安徽省明光市	an hui sheng ming guang shi	2284
+安徽省南陵县	an hui sheng nan ling xian	2351
+安徽省宁国市	an hui sheng ning guo shi	2230
+安徽省祁门县	an hui sheng qi men xian	2294
+安徽省潜山县	an hui sheng qian shan xian	2308
+安徽省青阳县	an hui sheng qing yang xian	2239
+安徽省全椒县	an hui sheng quan jiao xian	2288
+安徽省歙县	an hui sheng she xian	2297
+安徽省石台县	an hui sheng shi tai xian	2240
+安徽省寿县	an hui sheng shou xian	2255
+安徽省舒城县	an hui sheng shu cheng xian	2253
+安徽省泗县	an hui sheng si xian	2267
+安徽省宿松县	an hui sheng su song xian	2306
+安徽省宿州市	an hui sheng su zhou shi	2273
+安徽省宿州市市辖区	an hui sheng su zhou shi shi xia qu	2272
+安徽省宿州市墉桥区	an hui sheng su zhou shi yong qiao qu	2271
+安徽省濉溪县	an hui sheng sui xi xian	2322
+安徽省太和县	an hui sheng tai he xian	2277
+安徽省太湖县	an hui sheng tai hu xian	2307
+安徽省天长市	an hui sheng tian chang shi	2285
+安徽省桐城市	an hui sheng tong cheng shi	2303
+安徽省铜陵市	an hui sheng tong ling shi	2321
+安徽省铜陵市郊区	an hui sheng tong ling shi jiao qu	2317
+安徽省铜陵市市辖区	an hui sheng tong ling shi shi xia qu	2320
+安徽省铜陵市狮子山区	an hui sheng tong ling shi shi zi shan qu	2318
+安徽省铜陵市铜官山区	an hui sheng tong ling shi tong guan shan qu	2319
+安徽省铜陵县	an hui sheng tong ling xian	2316
+安徽省望江县	an hui sheng wang jiang xian	2305
+安徽省五河县	an hui sheng wu he xian	2343
+安徽省芜湖市	an hui sheng wu hu shi	2359
+安徽省芜湖市镜湖区	an hui sheng wu hu shi jing hu qu	2357
+安徽省芜湖市鸠江区	an hui sheng wu hu shi jiu jiang qu	2354
+安徽省芜湖市马塘区	an hui sheng wu hu shi ma tang qu	2356
+安徽省芜湖市市辖区	an hui sheng wu hu shi shi xia qu	2358
+安徽省芜湖市新芜区	an hui sheng wu hu shi xin wu qu	2355
+安徽省芜湖县	an hui sheng wu hu xian	2353
+安徽省无为县	an hui sheng wu wei xian	2262
+安徽省萧县	an hui sheng xiao xian	2269
+安徽省休宁县	an hui sheng xiu ning xian	2296
+安徽省宣城市	an hui sheng xuan cheng shi	2238
+安徽省宣城市市辖区	an hui sheng xuan cheng shi shi xia qu	2237
+安徽省宣城市宣州区	an hui sheng xuan cheng shi xuan zhou qu	2236
+安徽省黟县	an hui sheng yi xian	2295
+安徽省颍上县	an hui sheng ying shang xian	2275
+安徽省岳西县	an hui sheng yue xi xian	2304
+安徽省枞阳县	an hui sheng zong yang xian	2309
+北京市昌平区	bei jing shi chang ping qu	3483
+北京市朝阳区	bei jing shi chao yang qu	3491
+北京市大兴区	bei jing shi da xing qu	3482
+北京市东城区	bei jing shi dong cheng qu	3493
+北京市房山区	bei jing shi fang shan qu	3486
+北京市丰台区	bei jing shi feng tai qu	3490
+北京市海淀区	bei jing shi hai dian qu	3488
+北京市怀柔区	bei jing shi huai rou qu	3481
+北京市门头沟区	bei jing shi men tou gou qu	3487
+北京市密云县	bei jing shi mi yun xian	3477
+北京市平谷区	bei jing shi ping gu qu	3480
+北京市石景山区	bei jing shi shi jing shan qu	3489
+北京市市辖区	bei jing shi shi xia qu	3494
+北京市顺义区	bei jing shi shun yi qu	3484
+北京市通州区	bei jing shi tong zhou qu	3485
+北京市西城区	bei jing shi xi cheng qu	3492
+北京市县	bei jing shi xian	3478
+北京市延庆县	bei jing shi yan qing xian	3476
+重庆市巴南区	chong qing shi ba nan qu	1020
+重庆市北碚区	chong qing shi bei bei qu	1022
+重庆市璧山县	chong qing shi bi shan xian	1012
+重庆市长寿区	chong qing shi chang shou qu	1018
+重庆市城口县	chong qing shi cheng kou xian	1010
+重庆市大渡口区	chong qing shi da du kou qu	1027
+重庆市大足区	chong qing shi da zu qu	1014
+重庆市垫江县	chong qing shi dian jiang xian	1008
+重庆市丰都县	chong qing shi feng du xian	1009
+重庆市奉节县	chong qing shi feng jie xian	1003
+重庆市涪陵区	chong qing shi fu ling qu	1029
+重庆市合川市改区	chong qing shi he chuan shi gai qu	995
+重庆市江北区	chong qing shi jiang bei qu	1026
+重庆市江津市改区	chong qing shi jiang jin shi gai qu	996
+重庆市九龙坡区	chong qing shi jiu long po qu	1024
+重庆市开县	chong qing shi kai xian	1005
+重庆市梁平县	chong qing shi liang ping xian	1011
+重庆市南岸区	chong qing shi nan an qu	1023
+重庆市南川市改区	chong qing shi nan chuan shi gai qu	993
+重庆市彭水苗族土家族自治县	chong qing shi peng shui miao zu tu jia zu zi zhi xian	997
+重庆市綦江县改为区	chong qing shi qi jiang xian gai wei qu	1017
+重庆市黔江区	chong qing shi qian jiang qu	1019
+重庆市荣昌县	chong qing shi rong chang xian	1013
+重庆市沙坪坝区	chong qing shi sha ping ba qu	1025
+重庆市市辖区	chong qing shi shi xia qu	1031
+重庆市石柱土家族自治县	chong qing shi shi zhu tu jia zu zi zhi xian	1000
+重庆市铜梁县	chong qing shi tong liang xian	1015
+重庆市潼南县	chong qing shi tong nan xian	1016
+重庆市万州区	chong qing shi wan zhou qu	1030
+重庆市武隆县	chong qing shi wu long xian	1007
+重庆市巫山县	chong qing shi wu shan xian	1002
+重庆市巫溪县	chong qing shi wu xi xian	1001
+重庆市秀山土家族苗族自治县	chong qing shi xiu shan tu jia zu miao zu zi zhi xian	999
+重庆市永川市改区	chong qing shi yong chuan shi gai qu	994
+重庆市酉阳土家族苗族自治县	chong qing shi you yang tu jia zu miao zu zi zhi xian	998
+重庆市渝北区	chong qing shi yu bei qu	1021
+重庆市渝中区	chong qing shi yu zhong qu	1028
+重庆市云阳县	chong qing shi yun yang xian	1004
+重庆市忠县	chong qing shi zhong xian	1006
+福建省安溪县	fu jian sheng an xi xian	2178
+福建省长乐市	fu jian sheng chang le shi	2215
+福建省长泰县	fu jian sheng chang tai xian	2164
+福建省长汀县	fu jian sheng chang ting xian	2143
+福建省大田县	fu jian sheng da tian xian	2192
+福建省德化县	fu jian sheng de hua xian	2176
+福建省东山县	fu jian sheng dong shan xian	2163
+福建省福安市	fu jian sheng fu an shi	2128
+福建省福鼎市	fu jian sheng fu ding shi	2127
+福建省福清市	fu jian sheng fu qing shi	2216
+福建省福州市	fu jian sheng fu zhou shi	2229
+福建省福州市仓山区	fu jian sheng fu zhou shi cang shan qu	2225
+福建省福州市鼓楼区	fu jian sheng fu zhou shi gu lou qu	2227
+福建省福州市晋安区	fu jian sheng fu zhou shi jin an qu	2223
+福建省福州市马尾区	fu jian sheng fu zhou shi ma wei qu	2224
+福建省福州市市辖区	fu jian sheng fu zhou shi shi xia qu	2228
+福建省福州市台江区	fu jian sheng fu zhou shi tai jiang qu	2226
+福建省古田县	fu jian sheng gu tian xian	2133
+福建省光泽县	fu jian sheng guang ze xian	2153
+福建省华安县	fu jian sheng hua an xian	2160
+福建省惠安县	fu jian sheng hui an xian	2179
+福建省建宁县	fu jian sheng jian ning xian	2187
+福建省建瓯市	fu jian sheng jian ou shi	2148
+福建省建阳市	fu jian sheng jian yang shi	2147
+福建省将乐县	fu jian sheng jiang le xian	2189
+福建省晋江市	fu jian sheng jin jiang shi	2173
+福建省金门县	fu jian sheng jin men xian	2175
+福建省连城县	fu jian sheng lian cheng xian	2139
+福建省连江县	fu jian sheng lian jiang xian	2221
+福建省龙海市	fu jian sheng long hai shi	2159
+福建省龙岩市	fu jian sheng long yan shi	2146
+福建省龙岩市市辖区	fu jian sheng long yan shi shi xia qu	2145
+福建省龙岩市新罗区	fu jian sheng long yan shi xin luo qu	2144
+福建省罗源县	fu jian sheng luo yuan xian	2220
+福建省闽侯县	fu jian sheng min hou xian	2222
+福建省闽清县	fu jian sheng min qing xian	2219
+福建省明溪县	fu jian sheng ming xi xian	2195
+福建省南安市	fu jian sheng nan an shi	2172
+福建省南靖县	fu jian sheng nan jing xian	2162
+福建省南平市	fu jian sheng nan ping shi	2158
+福建省南平市市辖区	fu jian sheng nan ping shi shi xia qu	2157
+福建省南平市延平区	fu jian sheng nan ping shi yan ping qu	2156
+福建省宁德市	fu jian sheng ning de shi	2137
+福建省宁德市蕉城区	fu jian sheng ning de shi jiao cheng qu	2135
+福建省宁德市市辖区	fu jian sheng ning de shi shi xia qu	2136
+福建省宁化县	fu jian sheng ning hua xian	2193
+福建省平和县	fu jian sheng ping he xian	2161
+福建省屏南县	fu jian sheng ping nan xian	2132
+福建省平潭县	fu jian sheng ping tan xian	2217
+福建省浦城县	fu jian sheng pu cheng xian	2154
+福建省莆田市	fu jian sheng pu tian shi	2206
+福建省莆田市城厢区	fu jian sheng pu tian shi cheng xiang qu	2204
+福建省莆田市涵江区	fu jian sheng pu tian shi han jiang qu	2203
+福建省莆田市荔城区	fu jian sheng pu tian shi li cheng qu	2202
+福建省莆田市市辖区	fu jian sheng pu tian shi shi xia qu	2205
+福建省莆田市秀屿区	fu jian sheng pu tian shi xiu yu qu	2201
+福建省清流县	fu jian sheng qing liu xian	2194
+福建省泉州市	fu jian sheng quan zhou shi	2185
+福建省泉州市丰泽区	fu jian sheng quan zhou shi feng ze qu	2182
+福建省泉州市鲤城区	fu jian sheng quan zhou shi li cheng qu	2183
+福建省泉州市洛江区	fu jian sheng quan zhou shi luo jiang qu	2181
+福建省泉州市泉港区	fu jian sheng quan zhou shi quan gang qu	2180
+福建省泉州市市辖区	fu jian sheng quan zhou shi shi xia qu	2184
+福建省三明市	fu jian sheng san ming shi	2199
+福建省三明市梅列区	fu jian sheng san ming shi mei lie qu	2197
+福建省三明市三元区	fu jian sheng san ming shi san yuan qu	2196
+福建省三明市市辖区	fu jian sheng san ming shi shi xia qu	2198
+福建省沙县	fu jian sheng sha xian	2190
+福建省上杭县	fu jian sheng shang hang xian	2141
+福建省邵武市	fu jian sheng shao wu shi	2150
+福建省石狮市	fu jian sheng shi shi shi	2174
+福建省寿宁县	fu jian sheng shou ning xian	2131
+福建省顺昌县	fu jian sheng shun chang xian	2155
+福建省松溪县	fu jian sheng song xi xian	2152
+福建省泰宁县	fu jian sheng tai ning xian	2188
+福建省武平县	fu jian sheng wu ping xian	2140
+福建省武夷山市	fu jian sheng wu yi shan shi	2149
+福建省厦门市	fu jian sheng xia men shi	2214
+福建省厦门市海沧区	fu jian sheng xia men shi hai cang qu	2211
+福建省厦门市湖里区	fu jian sheng xia men shi hu li qu	2210
+福建省厦门市集美区	fu jian sheng xia men shi ji mei qu	2209
+福建省厦门市市辖区	fu jian sheng xia men shi shi xia qu	2213
+福建省厦门市思明区	fu jian sheng xia men shi si ming qu	2212
+福建省厦门市同安区	fu jian sheng xia men shi tong an qu	2208
+福建省厦门市翔安区	fu jian sheng xia men shi xiang an qu	2207
+福建省霞浦县	fu jian sheng xia pu xian	2134
+福建省仙游县	fu jian sheng xian you xian	2200
+福建省永安市	fu jian sheng yong an shi	2186
+福建省永春县	fu jian sheng yong chun xian	2177
+福建省永定县	fu jian sheng yong ding xian	2142
+福建省永泰县	fu jian sheng yong tai xian	2218
+福建省尤溪县	fu jian sheng you xi xian	2191
+福建省云霄县	fu jian sheng yun xiao xian	2167
+福建省漳平市	fu jian sheng zhang ping shi	2138
+福建省漳浦县	fu jian sheng zhang pu xian	2166
+福建省漳州市	fu jian sheng zhang zhou shi	2171
+福建省漳州市龙文区	fu jian sheng zhang zhou shi long wen qu	2168
+福建省漳州市市辖区	fu jian sheng zhang zhou shi shi xia qu	2170
+福建省漳州市芗城区	fu jian sheng zhang zhou shi xiang cheng qu	2169
+福建省诏安县	fu jian sheng zhao an xian	2165
+福建省柘荣县	fu jian sheng zhe rong xian	2129
+福建省政和县	fu jian sheng zheng he xian	2151
+福建省周宁县	fu jian sheng zhou ning xian	2130
+甘肃省阿克塞哈萨克族自治县	gan su sheng a ke sai ha sa ke zu zi zhi xian	254
+甘肃省安西县	gan su sheng an xi xian	256
+甘肃省白银市	gan su sheng bai yin shi	299
+甘肃省白银市白银区	gan su sheng bai yin shi bai yin qu	297
+甘肃省白银市平川区	gan su sheng bai yin shi ping chuan qu	296
+甘肃省白银市市辖区	gan su sheng bai yin shi shi xia qu	298
+甘肃省成县	gan su sheng cheng xian	229
+甘肃省崇信县	gan su sheng chong xin xian	264
+甘肃省宕昌县	gan su sheng dang chang xian	227
+甘肃省迭部县	gan su sheng die bu xian	208
+甘肃省定西市	gan su sheng ding xi shi	241
+甘肃省定西市安定区	gan su sheng ding xi shi an ding qu	239
+甘肃省定西市市辖区	gan su sheng ding xi shi shi xia qu	240
+甘肃省东乡族自治县	gan su sheng dong xiang zu zi zhi xian	214
+甘肃省敦煌市	gan su sheng dun huang shi	252
+甘肃省甘谷县	gan su sheng gan gu xian	286
+甘肃省甘南藏族自治州	gan su sheng gan nan zang zu zi zhi zhou	213
+甘肃省皋兰县	gan su sheng gao lan xian	307
+甘肃省高台县	gan su sheng gao tai xian	271
+甘肃省古浪县	gan su sheng gu lang xian	279
+甘肃省广河县	gan su sheng guang he xian	216
+甘肃省合水县	gan su sheng he shui xian	245
+甘肃省和政县	gan su sheng he zheng xian	215
+甘肃省合作市	gan su sheng he zuo shi	212
+甘肃省华池县	gan su sheng hua chi xian	246
+甘肃省华亭县	gan su sheng hua ting xian	263
+甘肃省环县	gan su sheng huan xian	247
+甘肃省会宁县	gan su sheng hui ning xian	294
+甘肃省徽县	gan su sheng hui xian	223
+甘肃省嘉峪关市	gan su sheng jia yu guan shi	305
+甘肃省嘉峪关市市辖区	gan su sheng jia yu guan shi shi xia qu	304
+甘肃省金昌市	gan su sheng jin chang shi	303
+甘肃省金昌市金川区	gan su sheng jin chang shi jin chuan qu	301
+甘肃省金昌市市辖区	gan su sheng jin chang shi shi xia qu	302
+甘肃省金塔县	gan su sheng jin ta xian	257
+甘肃省泾川县	gan su sheng jing chuan xian	266
+甘肃省静宁县	gan su sheng jing ning xian	261
+甘肃省景泰县	gan su sheng jing tai xian	293
+甘肃省靖远县	gan su sheng jing yuan xian	295
+甘肃省酒泉市	gan su sheng jiu quan shi	260
+甘肃省酒泉市市辖区	gan su sheng jiu quan shi shi xia qu	259
+甘肃省酒泉市肃州区	gan su sheng jiu quan shi su zhou qu	258
+甘肃省康乐县	gan su sheng kang le xian	218
+甘肃省康县	gan su sheng kang xian	226
+甘肃省兰州市	gan su sheng lan zhou shi	315
+甘肃省兰州市安宁区	gan su sheng lan zhou shi an ning qu	310
+甘肃省兰州市城关区	gan su sheng lan zhou shi cheng guan qu	313
+甘肃省兰州市红古区	gan su sheng lan zhou shi hong gu qu	309
+甘肃省兰州市七里河区	gan su sheng lan zhou shi qi li he qu	312
+甘肃省兰州市市辖区	gan su sheng lan zhou shi shi xia qu	314
+甘肃省兰州市西固区	gan su sheng lan zhou shi xi gu qu	311
+甘肃省礼县	gan su sheng li xian	224
+甘肃省两当县	gan su sheng liang dang xian	222
+甘肃省临潭县	gan su sheng lin tan xian	211
+甘肃省临洮县	gan su sheng lin tao xian	235
+甘肃省临夏回族自治州	gan su sheng lin xia hui zu zi zhi zhou	221
+甘肃省临夏市	gan su sheng lin xia shi	220
+甘肃省临夏县	gan su sheng lin xia xian	219
+甘肃省临泽县	gan su sheng lin ze xian	272
+甘肃省灵台县	gan su sheng ling tai xian	265
+甘肃省陇南市	gan su sheng long nan shi	232
+甘肃省陇南市市辖区	gan su sheng long nan shi shi xia qu	231
+甘肃省陇南市武都区	gan su sheng long nan shi wu du qu	230
+甘肃省陇西县	gan su sheng long xi xian	237
+甘肃省碌曲县	gan su sheng lu qu xian	206
+甘肃省玛曲县	gan su sheng ma qu xian	207
+甘肃省民乐县	gan su sheng min le xian	273
+甘肃省民勤县	gan su sheng min qin xian	280
+甘肃省岷县	gan su sheng min xian	233
+甘肃省宁县	gan su sheng ning xian	243
+甘肃省平凉市	gan su sheng ping liang shi	269
+甘肃省平凉市崆峒区	gan su sheng ping liang shi kong tong qu	267
+甘肃省平凉市市辖区	gan su sheng ping liang shi shi xia qu	268
+甘肃省秦安县	gan su sheng qin an xian	287
+甘肃省庆城县	gan su sheng qing cheng xian	248
+甘肃省清水县	gan su sheng qing shui xian	288
+甘肃省庆阳市	gan su sheng qing yang shi	251
+甘肃省庆阳市市辖区	gan su sheng qing yang shi shi xia qu	250
+甘肃省庆阳市西峰区	gan su sheng qing yang shi xi feng qu	249
+甘肃省山丹县	gan su sheng shan dan xian	270
+甘肃省肃北蒙古族自治县	gan su sheng su bei meng gu zu zi zhi xian	255
+甘肃省肃南裕固族自治县	gan su sheng su nan yu gu zu zi zhi xian	274
+甘肃省天水市	gan su sheng tian shui shi	292
+甘肃省天水市北道区	gan su sheng tian shui shi bei dao qu	289
+甘肃省天水市秦城区	gan su sheng tian shui shi qin cheng qu	290
+甘肃省天水市市辖区	gan su sheng tian shui shi shi xia qu	291
+甘肃省天祝藏族自治县	gan su sheng tian zhu zang zu zi zhi xian	278
+甘肃省通渭县	gan su sheng tong wei xian	238
+甘肃省渭源县	gan su sheng wei yuan xian	236
+甘肃省文县	gan su sheng wen xian	228
+甘肃省武山县	gan su sheng wu shan xian	285
+甘肃省武威市	gan su sheng wu wei shi	283
+甘肃省武威市凉州区	gan su sheng wu wei shi liang zhou qu	281
+甘肃省武威市市辖区	gan su sheng wu wei shi shi xia qu	282
+甘肃省西和县	gan su sheng xi he xian	225
+甘肃省夏河县	gan su sheng xia he xian	205
+甘肃省永昌县	gan su sheng yong chang xian	300
+甘肃省永登县	gan su sheng yong deng xian	308
+甘肃省永靖县	gan su sheng yong jing xian	217
+甘肃省玉门市	gan su sheng yu men shi	253
+甘肃省榆中县	gan su sheng yu zhong xian	306
+甘肃省张家川回族自治县	gan su sheng zhang jia chuan hui zu zi zhi xian	284
+甘肃省漳县	gan su sheng zhang xian	234
+甘肃省张掖市	gan su sheng zhang ye shi	277
+甘肃省张掖市甘州区	gan su sheng zhang ye shi gan zhou qu	275
+甘肃省张掖市市辖区	gan su sheng zhang ye shi shi xia qu	276
+甘肃省镇原县	gan su sheng zhen yuan xian	242
+甘肃省正宁县	gan su sheng zheng ning xian	244
+甘肃省舟曲县	gan su sheng zhou qu xian	209
+甘肃省庄浪县	gan su sheng zhuang lang xian	262
+甘肃省卓尼县	gan su sheng zhuo ni xian	210
+广东省博罗县	guang dong sheng bo luo xian	1260
+广东省潮安县	guang dong sheng chao an xian	1212
+广东省潮州市	guang dong sheng chao zhou shi	1215
+广东省潮州市市辖区	guang dong sheng chao zhou shi shi xia qu	1214
+广东省潮州市湘桥区	guang dong sheng chao zhou shi xiang qiao qu	1213
+广东省从化市	guang dong sheng cong hua shi	1345
+广东省大埔县	guang dong sheng da bu xian	1253
+广东省德庆县	guang dong sheng de qing xian	1267
+广东省电白县	guang dong sheng dian bai xian	1278
+广东省东莞市	guang dong sheng dong guan shi	1217
+广东省东源县	guang dong sheng dong yuan xian	1234
+广东省恩平市	guang dong sheng en ping shi	1294
+广东省封开县	guang dong sheng feng kai xian	1268
+广东省丰顺县	guang dong sheng feng shun xian	1252
+广东省佛冈县	guang dong sheng fo gang xian	1224
+广东省佛山市	guang dong sheng fo shan shi	1309
+广东省佛山市禅城区	guang dong sheng fo shan shi chan cheng qu	1307
+广东省佛山市高明区	guang dong sheng fo shan shi gao ming qu	1303
+广东省佛山市南海区	guang dong sheng fo shan shi nan hai qu	1306
+广东省佛山市三水区	guang dong sheng fo shan shi san shui qu	1304
+广东省佛山市市辖区	guang dong sheng fo shan shi shi xia qu	1308
+广东省佛山市顺德区	guang dong sheng fo shan shi shun de qu	1305
+广东省高要市	guang dong sheng gao yao shi	1266
+广东省高州市	guang dong sheng gao zhou shi	1277
+广东省广宁县	guang dong sheng guang ning xian	1270
+广东省广州市	guang dong sheng guang zhou shi	1358
+广东省广州市白云区	guang dong sheng guang zhou shi bai yun qu	1350
+广东省广州市东山区	guang dong sheng guang zhou shi dong shan qu	1356
+广东省广州市芳村区	guang dong sheng guang zhou shi fang cun qu	1351
+广东省广州市海珠区	guang dong sheng guang zhou shi hai zhu qu	1353
+广东省广州市花都区	guang dong sheng guang zhou shi hua du qu	1347
+广东省广州市黄埔区	guang dong sheng guang zhou shi huang pu qu	1349
+广东省广州市荔湾区	guang dong sheng guang zhou shi li wan qu	1355
+广东省广州市番禺区	guang dong sheng guang zhou shi pan yu qu	1348
+广东省广州市市辖区	guang dong sheng guang zhou shi shi xia qu	1357
+广东省广州市天河区	guang dong sheng guang zhou shi tian he qu	1352
+广东省广州市越秀区	guang dong sheng guang zhou shi yue xiu qu	1354
+广东省海丰县	guang dong sheng hai feng xian	1244
+广东省和平县	guang dong sheng he ping xian	1235
+广东省鹤山市	guang dong sheng he shan shi	1295
+广东省河源市	guang dong sheng he yuan shi	1241
+广东省河源市市辖区	guang dong sheng he yuan shi shi xia qu	1240
+广东省河源市源城区	guang dong sheng he yuan shi yuan cheng qu	1239
+广东省化州市	guang dong sheng hua zhou shi	1276
+广东省怀集县	guang dong sheng huai ji xian	1269
+广东省惠东县	guang dong sheng hui dong xian	1259
+广东省惠来县	guang dong sheng hui lai xian	1205
+广东省惠州市	guang dong sheng hui zhou shi	1264
+广东省惠州市惠城区	guang dong sheng hui zhou shi hui cheng qu	1262
+广东省惠州市惠阳区	guang dong sheng hui zhou shi hui yang qu	1261
+广东省惠州市市辖区	guang dong sheng hui zhou shi shi xia qu	1263
+广东省江门市	guang dong sheng jiang men shi	1302
+广东省江门市江海区	guang dong sheng jiang men shi jiang hai qu	1299
+广东省江门市蓬江区	guang dong sheng jiang men shi peng jiang qu	1300
+广东省江门市市辖区	guang dong sheng jiang men shi shi xia qu	1301
+广东省江门市新会区	guang dong sheng jiang men shi xin hui qu	1298
+广东省蕉岭县	guang dong sheng jiao ling xian	1249
+广东省揭东县	guang dong sheng jie dong xian	1207
+广东省揭西县	guang dong sheng jie xi xian	1206
+广东省揭阳市	guang dong sheng jie yang shi	1210
+广东省揭阳市榕城区	guang dong sheng jie yang shi rong cheng qu	1208
+广东省揭阳市市辖区	guang dong sheng jie yang shi shi xia qu	1209
+广东省开平市	guang dong sheng kai ping shi	1296
+广东省乐昌市	guang dong sheng le chang shi	1333
+广东省雷州市	guang dong sheng lei zhou shi	1284
+广东省廉江市	guang dong sheng lian jiang shi	1285
+广东省连南瑶族自治县	guang dong sheng lian nan yao zu zi zhi xian	1221
+广东省连平县	guang dong sheng lian ping xian	1236
+广东省连山壮族瑶族自治县	guang dong sheng lian shan zhuang zu yao zu zi zhi xian	1222
+广东省连州市	guang dong sheng lian zhou shi	1218
+广东省龙川县	guang dong sheng long chuan xian	1237
+广东省龙门县	guang dong sheng long men xian	1258
+广东省陆丰市	guang dong sheng lu feng shi	1242
+广东省陆河县	guang dong sheng lu he xian	1243
+广东省罗定市	guang dong sheng luo ding shi	1197
+广东省茂名市	guang dong sheng mao ming shi	1282
+广东省茂名市茂港区	guang dong sheng mao ming shi mao gang qu	1279
+广东省茂名市茂南区	guang dong sheng mao ming shi mao nan qu	1280
+广东省茂名市市辖区	guang dong sheng mao ming shi shi xia qu	1281
+广东省梅县	guang dong sheng mei xian	1254
+广东省梅州市	guang dong sheng mei zhou shi	1257
+广东省梅州市梅江区	guang dong sheng mei zhou shi mei jiang qu	1255
+广东省梅州市市辖区	guang dong sheng mei zhou shi shi xia qu	1256
+广东省南澳县	guang dong sheng nan ao xian	1310
+广东省南雄市	guang dong sheng nan xiong shi	1332
+广东省平远县	guang dong sheng ping yuan xian	1250
+广东省普宁市	guang dong sheng pu ning shi	1204
+广东省清新县	guang dong sheng qing xin xian	1220
+广东省清远市	guang dong sheng qing yuan shi	1227
+广东省清远市清城区	guang dong sheng qing yuan shi qing cheng qu	1225
+广东省清远市市辖区	guang dong sheng qing yuan shi shi xia qu	1226
+广东省曲江县	guang dong sheng qu jiang xian	1339
+广东省饶平县	guang dong sheng rao ping xian	1211
+广东省仁化县	guang dong sheng ren hua xian	1337
+广东省乳源瑶族自治县	guang dong sheng ru yuan yao zu zi zhi xian	1335
+广东省汕头市	guang dong sheng shan tou shi	1318
+广东省汕头市潮南区	guang dong sheng shan tou shi chao nan qu	1312
+广东省汕头市潮阳区	guang dong sheng shan tou shi chao yang qu	1313
+广东省汕头市澄海区	guang dong sheng shan tou shi cheng hai qu	1311
+广东省汕头市濠江区	guang dong sheng shan tou shi hao jiang qu	1314
+广东省汕头市金平区	guang dong sheng shan tou shi jin ping qu	1315
+广东省汕头市龙湖区	guang dong sheng shan tou shi long hu qu	1316
+广东省汕头市市辖区	guang dong sheng shan tou shi shi xia qu	1317
+广东省汕尾市	guang dong sheng shan wei shi	1247
+广东省汕尾市城区	guang dong sheng shan wei shi cheng qu	1245
+广东省汕尾市市辖区	guang dong sheng shan wei shi shi xia qu	1246
+广东省韶关市	guang dong sheng shao guan shi	1344
+广东省韶关市北江区	guang dong sheng shao guan shi bei jiang qu	1342
+广东省韶关市市辖区	guang dong sheng shao guan shi shi xia qu	1343
+广东省韶关市武江区	guang dong sheng shao guan shi wu jiang qu	1341
+广东省韶关市浈江区	guang dong sheng shao guan shi zhen jiang qu	1340
+广东省深圳市	guang dong sheng shen zhen shi	1331
+广东省深圳市宝安区	guang dong sheng shen zhen shi bao an qu	1326
+广东省深圳市福田区	guang dong sheng shen zhen shi fu tian qu	1328
+广东省深圳市龙岗区	guang dong sheng shen zhen shi long gang qu	1325
+广东省深圳市罗湖区	guang dong sheng shen zhen shi luo hu qu	1329
+广东省深圳市南山区	guang dong sheng shen zhen shi nan shan qu	1327
+广东省深圳市市辖区	guang dong sheng shen zhen shi shi xia qu	1330
+广东省深圳市盐田区	guang dong sheng shen zhen shi yan tian qu	1324
+广东省始兴县	guang dong sheng shi xing xian	1338
+广东省四会市	guang dong sheng si hui shi	1265
+广东省遂溪县	guang dong sheng sui xi xian	1287
+广东省台山市	guang dong sheng tai shan shi	1297
+广东省翁源县	guang dong sheng weng yuan xian	1336
+广东省吴川市	guang dong sheng wu chuan shi	1283
+广东省五华县	guang dong sheng wu hua xian	1251
+广东省新丰县	guang dong sheng xin feng xian	1334
+广东省新兴县	guang dong sheng xin xing xian	1200
+广东省信宜市	guang dong sheng xin yi shi	1275
+广东省兴宁市	guang dong sheng xing ning shi	1248
+广东省徐闻县	guang dong sheng xu wen xian	1286
+广东省阳春市	guang dong sheng yang chun shi	1228
+广东省阳东县	guang dong sheng yang dong xian	1229
+广东省阳江市	guang dong sheng yang jiang shi	1233
+广东省阳江市江城区	guang dong sheng yang jiang shi jiang cheng qu	1231
+广东省阳江市市辖区	guang dong sheng yang jiang shi shi xia qu	1232
+广东省阳山县	guang dong sheng yang shan xian	1223
+广东省阳西县	guang dong sheng yang xi xian	1230
+广东省英德市	guang dong sheng ying de shi	1219
+广东省郁南县	guang dong sheng yu nan xian	1199
+广东省云安县	guang dong sheng yun an xian	1198
+广东省云浮市	guang dong sheng yun fu shi	1203
+广东省云浮市市辖区	guang dong sheng yun fu shi shi xia qu	1202
+广东省云浮市云城区	guang dong sheng yun fu shi yun cheng qu	1201
+广东省增城市	guang dong sheng zeng cheng shi	1346
+广东省湛江市	guang dong sheng zhan jiang shi	1293
+广东省湛江市赤坎区	guang dong sheng zhan jiang shi chi kan qu	1291
+广东省湛江市麻章区	guang dong sheng zhan jiang shi ma zhang qu	1288
+广东省湛江市坡头区	guang dong sheng zhan jiang shi po tou qu	1289
+广东省湛江市市辖区	guang dong sheng zhan jiang shi shi xia qu	1292
+广东省湛江市霞山区	guang dong sheng zhan jiang shi xia shan qu	1290
+广东省肇庆市	guang dong sheng zhao qing shi	1274
+广东省肇庆市鼎湖区	guang dong sheng zhao qing shi ding hu qu	1271
+广东省肇庆市端州区	guang dong sheng zhao qing shi duan zhou qu	1272
+广东省肇庆市市辖区	guang dong sheng zhao qing shi shi xia qu	1273
+广东省中山市	guang dong sheng zhong shan shi	1216
+广东省珠海市	guang dong sheng zhu hai shi	1323
+广东省珠海市斗门区	guang dong sheng zhu hai shi dou men qu	1320
+广东省珠海市金湾区	guang dong sheng zhu hai shi jin wan qu	1319
+广东省珠海市市辖区	guang dong sheng zhu hai shi shi xia qu	1322
+广东省珠海市香洲区	guang dong sheng zhu hai shi xiang zhou qu	1321
+广东省紫金县	guang dong sheng zi jin xian	1238
+广西巴马瑶族自治县	guang xi ba ma yao zu zi zhi xian	1080
+广西百色市	guang xi bai se shi	1109
+广西百色市市辖区	guang xi bai se shi shi xia qu	1108
+广西百色市右江区	guang xi bai se shi you jiang qu	1107
+广西北海市	guang xi bei hai shi	1142
+广西北海市海城区	guang xi bei hai shi hai cheng qu	1140
+广西北海市市辖区	guang xi bei hai shi shi xia qu	1141
+广西北海市铁山港区	guang xi bei hai shi tie shan gang qu	1138
+广西北海市银海区	guang xi bei hai shi yin hai qu	1139
+广西北流市	guang xi bei liu shi	1110
+广西宾阳县	guang xi bin yang xian	1184
+广西博白县	guang xi bo bai xian	1112
+广西苍梧县	guang xi cang wu xian	1146
+广西岑溪市	guang xi cen xi shi	1143
+广西崇左市	guang xi chong zuo shi	1068
+广西崇左市江洲区	guang xi chong zuo shi jiang zhou qu	1066
+广西崇左市市辖区	guang xi chong zuo shi shi xia qu	1067
+广西大化瑶族自治县	guang xi da hua yao zu zi zhi xian	1078
+广西大新县	guang xi da xin xian	1062
+广西德保县	guang xi de bao xian	1103
+广西东兰县	guang xi dong lan xian	1083
+广西东兴市	guang xi dong xing shi	1131
+广西都安瑶族自治县	guang xi dou an yao zu zi zhi xian	1079
+广西防城港市	guang xi fang cheng gang shi	1136
+广西防城港市防城区	guang xi fang cheng gang shi fang cheng qu	1133
+广西防城港市港口区	guang xi fang cheng gang shi gang kou qu	1134
+广西防城港市市辖区	guang xi fang cheng gang shi shi xia qu	1135
+广西凤山县	guang xi feng shan xian	1084
+广西富川瑶族自治县	guang xi fu chuan yao zu zi zhi xian	1090
+广西扶绥县	guang xi fu sui xian	1065
+广西恭城瑶族自治县	guang xi gong cheng yao zu zi zhi xian	1152
+广西灌阳县	guang xi guan yang xian	1157
+广西贵港市	guang xi gui gang shi	1124
+广西贵港市港北区	guang xi gui gang shi gang bei qu	1122
+广西贵港市港南区	guang xi gui gang shi gang nan qu	1121
+广西贵港市覃塘区	guang xi gui gang shi qin tang qu	1120
+广西贵港市市辖区	guang xi gui gang shi shi xia qu	1123
+广西桂林市	guang xi gui lin shi	1170
+广西桂林市叠彩区	guang xi gui lin shi die cai qu	1167
+广西桂林市七星区	guang xi gui lin shi qi xing qu	1165
+广西桂林市市辖区	guang xi gui lin shi shi xia qu	1169
+广西桂林市象山区	guang xi gui lin shi xiang shan qu	1166
+广西桂林市秀峰区	guang xi gui lin shi xiu feng qu	1168
+广西桂林市雁山区	guang xi gui lin shi yan shan qu	1164
+广西桂平市	guang xi gui ping shi	1118
+广西河池市	guang xi he chi shi	1089
+广西河池市金城江区	guang xi he chi shi jin cheng jiang qu	1087
+广西河池市市辖区	guang xi he chi shi shi xia qu	1088
+广西合浦县	guang xi he pu xian	1137
+广西合山市	guang xi he shan shi	1069
+广西贺州市	guang xi he zhou shi	1095
+广西贺州市八步区	guang xi he zhou shi ba bu qu	1093
+广西贺州市市辖区	guang xi he zhou shi shi xia qu	1094
+广西横县	guang xi heng xian	1183
+广西环江毛南族自治县	guang xi huan jiang mao nan zu zi zhi xian	1081
+广西金秀瑶族自治县	guang xi jin xiu yao zu zi zhi xian	1070
+广西靖西县	guang xi jing xi xian	1102
+广西来宾市	guang xi lai bin shi	1076
+广西来宾市市辖区	guang xi lai bin shi shi xia qu	1075
+广西来宾市兴宾区	guang xi lai bin shi xing bin qu	1074
+广西乐业县	guang xi le ye xian	1099
+广西荔蒲县	guang xi li pu xian	1153
+广西临桂县	guang xi lin gui xian	1162
+广西灵川县	guang xi ling chuan xian	1161
+广西灵山县	guang xi ling shan xian	1126
+广西凌云县	guang xi ling yun xian	1100
+广西柳城县	guang xi liu cheng xian	1175
+广西柳江县	guang xi liu jiang xian	1176
+广西柳州市	guang xi liu zhou shi	1182
+广西柳州市城中区	guang xi liu zhou shi cheng zhong qu	1180
+广西柳州市柳北区	guang xi liu zhou shi liu bei qu	1177
+广西柳州市柳南区	guang xi liu zhou shi liu nan qu	1178
+广西柳州市市辖区	guang xi liu zhou shi shi xia qu	1181
+广西柳州市鱼峰区	guang xi liu zhou shi yu feng qu	1179
+广西隆安县	guang xi long an xian	1187
+广西隆林各族自治县	guang xi long lin ge zu zi zhi xian	1096
+广西龙胜各族自治县	guang xi long sheng ge zu zi zhi xian	1156
+广西龙州县	guang xi long zhou xian	1063
+广西陆川县	guang xi lu chuan xian	1113
+广西鹿寨县	guang xi lu zhai xian	1174
+广西罗城仫佬族自治县	guang xi luo cheng mu lao zu zi zhi xian	1082
+广西马山县	guang xi ma shan xian	1186
+广西蒙山县	guang xi meng shan xian	1144
+广西那坡县	guang xi na po xian	1101
+广西南丹县	guang xi nan dan xian	1086
+广西南宁市	guang xi nan ning shi	1196
+广西南宁市城北区	guang xi nan ning shi cheng bei qu	1192
+广西南宁市江南区	guang xi nan ning shi jiang nan qu	1191
+广西南宁市市辖区	guang xi nan ning shi shi xia qu	1195
+广西南宁市新城区	guang xi nan ning shi xin cheng qu	1193
+广西南宁市兴宁区	guang xi nan ning shi xing ning qu	1194
+广西南宁市永新区	guang xi nan ning shi yong xin qu	1190
+广西宁明县	guang xi ning ming xian	1064
+广西平果县	guang xi ping guo xian	1104
+广西平乐县	guang xi ping le xian	1154
+广西平南县	guang xi ping nan xian	1119
+广西凭祥市	guang xi ping xiang shi	1060
+广西浦北县	guang xi pu bei xian	1125
+广西钦州市	guang xi qin zhou shi	1130
+广西钦州市钦北区	guang xi qin zhou shi qin bei qu	1127
+广西钦州市钦南区	guang xi qin zhou shi qin nan qu	1128
+广西钦州市市辖区	guang xi qin zhou shi shi xia qu	1129
+广西全州县	guang xi quan zhou xian	1160
+广西融安县	guang xi rong an xian	1173
+广西融水苗族自治县	guang xi rong shui miao zu zi zhi xian	1172
+广西容县	guang xi rong xian	1114
+广西三江侗族自治县	guang xi san jiang dong zu zi zhi xian	1171
+广西上林县	guang xi shang lin xian	1185
+广西上思县	guang xi shang si xian	1132
+广西藤县	guang xi teng xian	1145
+广西天等县	guang xi tian deng xian	1061
+广西田东县	guang xi tian dong xian	1105
+广西天峨县	guang xi tian e xian	1085
+广西田林县	guang xi tian lin xian	1098
+广西田阳县	guang xi tian yang xian	1106
+广西武鸣县	guang xi wu ming xian	1188
+广西武宣县	guang xi wu xuan xian	1071
+广西梧州市	guang xi wu zhou shi	1151
+广西梧州市长洲区	guang xi wu zhou shi chang zhou qu	1147
+广西梧州市蝶山区	guang xi wu zhou shi die shan qu	1148
+广西梧州市市辖区	guang xi wu zhou shi shi xia qu	1150
+广西梧州市万秀区	guang xi wu zhou shi wan xiu qu	1149
+广西西林县	guang xi xi lin xian	1097
+广西象州县	guang xi xiang zhou xian	1072
+广西忻城县	guang xi xin cheng xian	1073
+广西兴安县	guang xi xing an xian	1159
+广西兴业县	guang xi xing ye xian	1111
+广西阳朔县	guang xi yang shuo xian	1163
+广西宜州市	guang xi yi zhou shi	1077
+广西永福县	guang xi yong fu xian	1158
+广西邕宁县	guang xi yong ning xian	1189
+广西玉林市	guang xi yu lin shi	1117
+广西玉林市市辖区	guang xi yu lin shi shi xia qu	1116
+广西玉林市玉州区	guang xi yu lin shi yu zhou qu	1115
+广西昭平县	guang xi zhao ping xian	1092
+广西钟山县	guang xi zhong shan xian	1091
+广西资源县	guang xi zi yuan xian	1155
+贵州省安龙县	gui zhou sheng an long xian	712
+贵州省安顺市	gui zhou sheng an shun shi	739
+贵州省安顺市市辖区	gui zhou sheng an shun shi shi xia qu	738
+贵州省安顺市西秀区	gui zhou sheng an shun shi xi xiu qu	737
+贵州省毕节地区	gui zhou sheng bi jie di qu	711
+贵州省毕节市	gui zhou sheng bi jie shi	710
+贵州省册亨县	gui zhou sheng ce heng xian	713
+贵州省岑巩县	gui zhou sheng cen gong xian	696
+贵州省长顺县	gui zhou sheng chang shun xian	676
+贵州省赤水市	gui zhou sheng chi shui shi	741
+贵州省从江县	gui zhou sheng cong jiang xian	689
+贵州省大方县	gui zhou sheng da fang xian	709
+贵州省丹寨县	gui zhou sheng dan zhai xian	686
+贵州省道真仡佬族苗族自治县	gui zhou sheng dao zhen ge lao zu miao zu zi zhi xian	747
+贵州省德江县	gui zhou sheng de jiang xian	724
+贵州省独山县	gui zhou sheng du shan xian	679
+贵州省都匀市	gui zhou sheng du yun shi	684
+贵州省凤冈县	gui zhou sheng feng gang xian	745
+贵州省福泉市	gui zhou sheng fu quan shi	683
+贵州省关岭布依族苗族自治县	gui zhou sheng guan ling bu yi zu miao zu zi zhi xian	733
+贵州省贵定县	gui zhou sheng gui ding xian	681
+贵州省贵阳市	gui zhou sheng gui yang shi	772
+贵州省贵阳市白云区	gui zhou sheng gui yang shi bai yun qu	766
+贵州省贵阳市花溪区	gui zhou sheng gui yang shi hua xi qu	768
+贵州省贵阳市南明区	gui zhou sheng gui yang shi nan ming qu	770
+贵州省贵阳市市辖区	gui zhou sheng gui yang shi shi xia qu	771
+贵州省贵阳市乌当区	gui zhou sheng gui yang shi wu dang qu	767
+贵州省贵阳市小河区	gui zhou sheng gui yang shi xiao he qu	765
+贵州省贵阳市云岩区	gui zhou sheng gui yang shi yun yan qu	769
+贵州省赫章县	gui zhou sheng he zhang xian	703
+贵州省黄平县	gui zhou sheng huang ping xian	700
+贵州省惠水县	gui zhou sheng hui shui xian	674
+贵州省剑河县	gui zhou sheng jian he xian	693
+贵州省江口县	gui zhou sheng jiang kou xian	729
+贵州省锦屏县	gui zhou sheng jin ping xian	694
+贵州省金沙县	gui zhou sheng jin sha xian	707
+贵州省凯里市	gui zhou sheng kai li shi	701
+贵州省开阳县	gui zhou sheng kai yang xian	764
+贵州省雷山县	gui zhou sheng lei shan xian	688
+贵州省荔波县	gui zhou sheng li bo xian	682
+贵州省黎平县	gui zhou sheng li ping xian	691
+贵州省六盘水市	gui zhou sheng liu pan shui shi	760
+贵州省六盘水市六枝特区	gui zhou sheng liu pan shui shi liu zhi te qu	758
+贵州省六盘水市钟山区	gui zhou sheng liu pan shui shi zhong shan qu	759
+贵州省龙里县	gui zhou sheng long li xian	675
+贵州省罗甸县	gui zhou sheng luo dian xian	677
+贵州省麻江县	gui zhou sheng ma jiang xian	687
+贵州省湄潭县	gui zhou sheng mei tan xian	744
+贵州省纳雍县	gui zhou sheng na yong xian	705
+贵州省盘县	gui zhou sheng pan xian	756
+贵州省平坝县	gui zhou sheng ping ba xian	736
+贵州省平塘县	gui zhou sheng ping tang xian	678
+贵州省普安县	gui zhou sheng pu an xian	717
+贵州省普定县	gui zhou sheng pu ding xian	735
+贵州省黔东南苗族侗族自治州	gui zhou sheng qian dong nan miao zu dong zu zi zhi zhou	702
+贵州省黔南布依族苗族自治州	gui zhou sheng qian nan bu yi zu miao zu zi zhi zhou	685
+贵州省黔西南布依族苗族自治州	gui zhou sheng qian xi nan bu yi zu miao zu zi zhi zhou	720
+贵州省黔西县	gui zhou sheng qian xi xian	708
+贵州省晴隆县	gui zhou sheng qing long xian	716
+贵州省清镇市	gui zhou sheng qing zhen shi	761
+贵州省仁怀市	gui zhou sheng ren huai shi	740
+贵州省榕江县	gui zhou sheng rong jiang xian	690
+贵州省三都水族自治县	gui zhou sheng san du shui zu zi zhi xian	673
+贵州省三穗县	gui zhou sheng san sui xian	698
+贵州省施秉县	gui zhou sheng shi bing xian	699
+贵州省石阡县	gui zhou sheng shi qian xian	727
+贵州省水城县	gui zhou sheng shui cheng xian	757
+贵州省思南县	gui zhou sheng si nan xian	726
+贵州省松桃苗族自治县	gui zhou sheng song tao miao zu zi zhi xian	722
+贵州省绥阳县	gui zhou sheng sui yang xian	749
+贵州省台江县	gui zhou sheng tai jiang xian	692
+贵州省天柱县	gui zhou sheng tian zhu xian	695
+贵州省铜仁地区	gui zhou sheng tong ren di qu	731
+贵州省铜仁市	gui zhou sheng tong ren shi	730
+贵州省桐梓县	gui zhou sheng tong zi xian	750
+贵州省万山特区	gui zhou sheng wan shan te qu	721
+贵州省望谟县	gui zhou sheng wang mo xian	714
+贵州省威宁彝族回族苗族自治县	gui zhou sheng wei ning yi zu hui zu miao zu zi zhi xian	704
+贵州省瓮安县	gui zhou sheng weng an xian	680
+贵州省务川仡佬族苗族自治县	gui zhou sheng wu chuan ge lao zu miao zu zi zhi xian	746
+贵州省息烽县	gui zhou sheng xi feng xian	763
+贵州省习水县	gui zhou sheng xi shui xian	742
+贵州省兴仁县	gui zhou sheng xing ren xian	718
+贵州省兴义市	gui zhou sheng xing yi shi	719
+贵州省修文县	gui zhou sheng xiu wen xian	762
+贵州省沿河土家族自治县	gui zhou sheng yan he tu jia zu zi zhi xian	723
+贵州省印江土家族苗族自治县	gui zhou sheng yin jiang tu jia zu miao zu zi zhi xian	725
+贵州省玉屏侗族自治县	gui zhou sheng yu ping dong zu zi zhi xian	728
+贵州省余庆县	gui zhou sheng yu qing xian	743
+贵州省贞丰县	gui zhou sheng zhen feng xian	715
+贵州省镇宁布依族苗族自治县	gui zhou sheng zhen ning bu yi zu miao zu zi zhi xian	734
+贵州省镇远县	gui zhou sheng zhen yuan xian	697
+贵州省正安县	gui zhou sheng zheng an xian	748
+贵州省织金县	gui zhou sheng zhi jin xian	706
+贵州省紫云苗族布依族自治县	gui zhou sheng zi yun miao zu bu yi zu zi zhi xian	732
+贵州省遵义市	gui zhou sheng zun yi shi	755
+贵州省遵义市红花岗区	gui zhou sheng zun yi shi hong hua gang qu	753
+贵州省遵义市汇川区	gui zhou sheng zun yi shi hui chuan qu	752
+贵州省遵义市市辖区	gui zhou sheng zun yi shi shi xia qu	754
+贵州省遵义县	gui zhou sheng zun yi xian	751
+海南省白沙黎族自治县	hai nan sheng bai sha li zu zi zhi xian	1040
+海南省保亭黎族苗族自治县	hai nan sheng bao ting li zu miao zu zi zhi xian	1036
+海南省昌江黎族自治县	hai nan sheng chang jiang li zu zi zhi xian	1039
+海南省澄迈县	hai nan sheng cheng mai xian	1042
+海南省儋州市	hai nan sheng dan zhou shi	1048
+海南省定安县	hai nan sheng ding an xian	1044
+海南省东方市	hai nan sheng dong fang shi	1045
+海南省海口市	hai nan sheng hai kou shi	1059
+海南省海口市龙华区	hai nan sheng hai kou shi long hua qu	1056
+海南省海口市美兰区	hai nan sheng hai kou shi mei lan qu	1054
+海南省海口市琼山区	hai nan sheng hai kou shi qiong shan qu	1055
+海南省海口市市辖区	hai nan sheng hai kou shi shi xia qu	1058
+海南省海口市秀英区	hai nan sheng hai kou shi xiu ying qu	1057
+海南省乐东黎族自治县	hai nan sheng le dong li zu zi zhi xian	1038
+海南省临高县	hai nan sheng lin gao xian	1041
+海南省陵水黎族自治县	hai nan sheng ling shui li zu zi zhi xian	1037
+海南省南沙群岛	hai nan sheng nan sha qun dao	1033
+海南省琼海市	hai nan sheng qiong hai shi	1049
+海南省琼中黎族苗族自治县	hai nan sheng qiong zhong li zu miao zu zi zhi xian	1035
+海南省三亚市	hai nan sheng san ya shi	1053
+海南省三亚市市辖区	hai nan sheng san ya shi shi xia qu	1052
+海南省省直辖县级行政单位	hai nan sheng sheng zhi xia xian ji xing zheng dan wei	1051
+海南省屯昌县	hai nan sheng tun chang xian	1043
+海南省万宁市	hai nan sheng wan ning shi	1046
+海南省文昌市	hai nan sheng wen chang shi	1047
+海南省五指山市	hai nan sheng wu zhi shan shi	1050
+海南省西沙群岛	hai nan sheng xi sha qun dao	1034
+海南省中沙群岛的岛礁及其海域	hai nan sheng zhong sha qun dao de dao jiao ji qi hai yu	1032
+河北省安国市	he bei sheng an guo shi	3338
+河北省安平县	he bei sheng an ping xian	3267
+河北省安新县	he bei sheng an xin xian	3347
+河北省霸州市	he bei sheng ba zhou shi	3276
+河北省柏乡县	he bei sheng bai xiang xian	3377
+河北省保定市	he bei sheng bao ding shi	3363
+河北省保定市北市区	he bei sheng bao ding shi bei shi qu	3360
+河北省保定市南市区	he bei sheng bao ding shi nan shi qu	3359
+河北省保定市市辖区	he bei sheng bao ding shi shi xia qu	3362
+河北省保定市新市区	he bei sheng bao ding shi xin shi qu	3361
+河北省泊头市	he bei sheng bo tou shi	3290
+河北省博野县	he bei sheng bo ye xian	3342
+河北省沧县	he bei sheng cang xian	3300
+河北省沧州市	he bei sheng cang zhou shi	3304
+河北省沧州市市辖区	he bei sheng cang zhou shi shi xia qu	3303
+河北省沧州市新华区	he bei sheng cang zhou shi xin hua qu	3302
+河北省沧州市运河区	he bei sheng cang zhou shi yun he qu	3301
+河北省昌黎县	he bei sheng chang li xian	3408
+河北省成安县	he bei sheng cheng an xian	3397
+河北省承德市	he bei sheng cheng de shi	3317
+河北省承德市市辖区	he bei sheng cheng de shi shi xia qu	3316
+河北省承德市双滦区	he bei sheng cheng de shi shuang luan qu	3314
+河北省承德市双桥区	he bei sheng cheng de shi shuang qiao qu	3315
+河北省承德市鹰手营子矿区	he bei sheng cheng de shi ying shou ying zi kuang qu	3313
+河北省承德县	he bei sheng cheng de xian	3312
+河北省赤城县	he bei sheng chi cheng xian	3319
+河北省崇礼县	he bei sheng chong li xian	3318
+河北省磁县	he bei sheng ci xian	3394
+河北省大厂回族自治县	he bei sheng da chang hui zu zi zhi xian	3277
+河北省大城县	he bei sheng da cheng xian	3279
+河北省大名县	he bei sheng da ming xian	3396
+河北省定兴县	he bei sheng ding xing xian	3353
+河北省定州市	he bei sheng ding zhou shi	3339
+河北省东光县	he bei sheng dong guang xian	3298
+河北省肥乡县	he bei sheng fei xiang xian	3393
+河北省丰宁满族自治县	he bei sheng feng ning man zu zi zhi xian	3307
+河北省阜城县	he bei sheng fu cheng xian	3264
+河北省抚宁县	he bei sheng fu ning xian	3407
+河北省阜平县	he bei sheng fu ping xian	3355
+河北省高碑店市	he bei sheng gao bei dian shi	3337
+河北省藁城市	he bei sheng gao cheng shi	3434
+河北省高阳县	he bei sheng gao yang xian	3351
+河北省高邑县	he bei sheng gao yi xian	3442
+河北省固安县	he bei sheng gu an xian	3282
+河北省故城县	he bei sheng gu cheng xian	3266
+河北省沽源县	he bei sheng gu yuan xian	3327
+河北省馆陶县	he bei sheng guan tao xian	3388
+河北省广平县	he bei sheng guang ping xian	3389
+河北省广宗县	he bei sheng guang zong xian	3370
+河北省海兴县	he bei sheng hai xing xian	3297
+河北省邯郸市	he bei sheng han dan shi	3405
+河北省邯郸市丛台区	he bei sheng han dan shi cong tai qu	3402
+河北省邯郸市峰峰矿区	he bei sheng han dan shi feng feng kuang qu	3400
+河北省邯郸市复兴区	he bei sheng han dan shi fu xing qu	3401
+河北省邯郸市邯山区	he bei sheng han dan shi han shan qu	3403
+河北省邯郸市市辖区	he bei sheng han dan shi shi xia qu	3404
+河北省邯郸县	he bei sheng han dan xian	3399
+河北省河间市	he bei sheng he jian shi	3287
+河北省衡水市	he bei sheng heng shui shi	3274
+河北省衡水市市辖区	he bei sheng heng shui shi shi xia qu	3273
+河北省衡水市桃城区	he bei sheng heng shui shi tao cheng qu	3272
+河北省怀安县	he bei sheng huai an xian	3323
+河北省怀来县	he bei sheng huai lai xian	3321
+河北省黄骅市	he bei sheng huang hua shi	3288
+河北省鸡泽县	he bei sheng ji ze xian	3390
+河北省冀州市	he bei sheng ji zhou shi	3263
+河北省晋州市	he bei sheng jin zhou shi	3433
+河北省景县	he bei sheng jing xian	3265
+河北省井陉县	he bei sheng jing xing xian	3447
+河北省巨鹿县	he bei sheng ju lu xian	3372
+河北省康保县	he bei sheng kang bao xian	3328
+河北省宽城满族自治县	he bei sheng kuan cheng man zu zi zhi xian	3306
+河北省涞水县	he bei sheng lai shui xian	3356
+河北省涞源县	he bei sheng lai yuan xian	3349
+河北省廊坊市	he bei sheng lang fang shi	3286
+河北省廊坊市安次区	he bei sheng lang fang shi an ci qu	3284
+河北省廊坊市广阳区	he bei sheng lang fang shi guang yang qu	3283
+河北省廊坊市市辖区	he bei sheng lang fang shi shi xia qu	3285
+河北省乐亭县	he bei sheng lao ting xian	3420
+河北省蠡县	he bei sheng li xian	3344
+河北省临城县	he bei sheng lin cheng xian	3379
+河北省临西县	he bei sheng lin xi xian	3366
+河北省临漳县	he bei sheng lin zhang xian	3398
+河北省灵寿县	he bei sheng ling shou xian	3443
+河北省隆化县	he bei sheng long hua xian	3308
+河北省隆尧县	he bei sheng long yao xian	3376
+河北省卢龙县	he bei sheng lu long xian	3406
+河北省鹿泉市	he bei sheng lu quan shi	3431
+河北省栾城县	he bei sheng luan cheng xian	3445
+河北省滦南县	he bei sheng luan nan xian	3421
+河北省滦平县	he bei sheng luan ping xian	3309
+河北省滦县	he bei sheng luan xian	3422
+河北省满城县	he bei sheng man cheng xian	3358
+河北省孟村回族自治县	he bei sheng meng cun hui zu zi zhi xian	3291
+河北省南宫市	he bei sheng nan gong shi	3365
+河北省南和县	he bei sheng nan he xian	3374
+河北省南皮县	he bei sheng nan pi xian	3294
+河北省内丘县	he bei sheng nei qiu xian	3378
+河北省宁晋县	he bei sheng ning jin xian	3373
+河北省平泉县	he bei sheng ping quan xian	3310
+河北省平山县	he bei sheng ping shan xian	3438
+河北省平乡县	he bei sheng ping xiang xian	3369
+河北省迁安市	he bei sheng qian an shi	3415
+河北省迁西县	he bei sheng qian xi xian	3419
+河北省秦皇岛市	he bei sheng qin huang dao shi	3414
+河北省秦皇岛市北戴河区	he bei sheng qin huang dao shi bei dai he qu	3410
+河北省秦皇岛市海港区	he bei sheng qin huang dao shi hai gang qu	3412
+河北省秦皇岛市山海关区	he bei sheng qin huang dao shi shan hai guan qu	3411
+河北省秦皇岛市市辖区	he bei sheng qin huang dao shi shi xia qu	3413
+河北省清河县	he bei sheng qing he xian	3367
+河北省青龙满族自治县	he bei sheng qing long man zu zi zhi xian	3409
+河北省青县	he bei sheng qing xian	3299
+河北省清苑县	he bei sheng qing yuan xian	3357
+河北省邱县	he bei sheng qiu xian	3391
+河北省曲阳县	he bei sheng qu yang xian	3345
+河北省曲周县	he bei sheng qu zhou xian	3386
+河北省饶阳县	he bei sheng rao yang xian	3268
+河北省任丘市	he bei sheng ren qiu shi	3289
+河北省任县	he bei sheng ren xian	3375
+河北省容城县	he bei sheng rong cheng xian	3350
+河北省三河市	he bei sheng san he shi	3275
+河北省沙河市	he bei sheng sha he shi	3364
+河北省尚义县	he bei sheng shang yi xian	3326
+河北省涉县	he bei sheng she xian	3395
+河北省深泽县	he bei sheng shen ze xian	3441
+河北省深州市	he bei sheng shen zhou shi	3262
+河北省石家庄市	he bei sheng shi jia zhuang shi	3455
+河北省石家庄市长安区	he bei sheng shi jia zhuang shi chang an qu	3453
+河北省石家庄市井陉矿区	he bei sheng shi jia zhuang shi jing xing kuang qu	3449
+河北省石家庄市桥东区	he bei sheng shi jia zhuang shi qiao dong qu	3452
+河北省石家庄市桥西区	he bei sheng shi jia zhuang shi qiao xi qu	3451
+河北省石家庄市市辖区	he bei sheng shi jia zhuang shi shi xia qu	3454
+河北省石家庄市新华区	he bei sheng shi jia zhuang shi xin hua qu	3450
+河北省石家庄市裕华区	he bei sheng shi jia zhuang shi yu hua qu	3448
+河北省顺平县	he bei sheng shun ping xian	3343
+河北省肃宁县	he bei sheng su ning xian	3295
+河北省唐海县	he bei sheng tang hai xian	3417
+河北省唐山市	he bei sheng tang shan shi	3430
+河北省唐山市丰南区	he bei sheng tang shan shi feng nan qu	3424
+河北省唐山市丰润区	he bei sheng tang shan shi feng run qu	3423
+河北省唐山市古冶区	he bei sheng tang shan shi gu ye qu	3426
+河北省唐山市开平区	he bei sheng tang shan shi kai ping qu	3425
+河北省唐山市路北区	he bei sheng tang shan shi lu bei qu	3427
+河北省唐山市路南区	he bei sheng tang shan shi lu nan qu	3428
+河北省唐山市市辖区	he bei sheng tang shan shi shi xia qu	3429
+河北省唐县	he bei sheng tang xian	3352
+河北省万全县	he bei sheng wan quan xian	3322
+河北省望都县	he bei sheng wang du xian	3348
+河北省围场满族蒙古族自治县	he bei sheng wei chang man zu meng gu zu zi zhi xian	3305
+河北省威县	he bei sheng wei xian	3368
+河北省魏县	he bei sheng wei xian	3387
+河北省文安县	he bei sheng wen an xian	3278
+河北省武安市	he bei sheng wu an shi	3385
+河北省无极县	he bei sheng wu ji xian	3439
+河北省武强县	he bei sheng wu qiang xian	3269
+河北省吴桥县	he bei sheng wu qiao xian	3293
+河北省武邑县	he bei sheng wu yi xian	3270
+河北省献县	he bei sheng xian xian	3292
+河北省香河县	he bei sheng xiang he xian	3280
+河北省新河县	he bei sheng xin he xian	3371
+河北省辛集市	he bei sheng xin ji shi	3435
+河北省新乐市	he bei sheng xin le shi	3432
+河北省兴隆县	he bei sheng xing long xian	3311
+河北省邢台市	he bei sheng xing tai shi	3384
+河北省邢台市桥东区	he bei sheng xing tai shi qiao dong qu	3382
+河北省邢台市桥西区	he bei sheng xing tai shi qiao xi qu	3381
+河北省邢台市市辖区	he bei sheng xing tai shi shi xia qu	3383
+河北省邢台县	he bei sheng xing tai xian	3380
+河北省行唐县	he bei sheng xing tang xian	3444
+河北省雄县	he bei sheng xiong xian	3341
+河北省徐水县	he bei sheng xu shui xian	3354
+河北省宣化县	he bei sheng xuan hua xian	3330
+河北省盐山县	he bei sheng yan shan xian	3296
+河北省阳原县	he bei sheng yang yuan xian	3324
+河北省易县	he bei sheng yi xian	3346
+河北省永年县	he bei sheng yong nian xian	3392
+河北省永清县	he bei sheng yong qing xian	3281
+河北省玉田县	he bei sheng yu tian xian	3418
+河北省蔚县	he bei sheng yu xian	3325
+河北省元氏县	he bei sheng yuan shi xian	3437
+河北省赞皇县	he bei sheng zan huang xian	3440
+河北省枣强县	he bei sheng zao qiang xian	3271
+河北省张北县	he bei sheng zhang bei xian	3329
+河北省张家口市	he bei sheng zhang jia kou shi	3336
+河北省张家口市桥东区	he bei sheng zhang jia kou shi qiao dong qu	3334
+河北省张家口市桥西区	he bei sheng zhang jia kou shi qiao xi qu	3333
+河北省张家口市市辖区	he bei sheng zhang jia kou shi shi xia qu	3335
+河北省张家口市下花园区	he bei sheng zhang jia kou shi xia hua yuan qu	3331
+河北省张家口市宣化区	he bei sheng zhang jia kou shi xuan hua qu	3332
+河北省赵县	he bei sheng zhao xian	3436
+河北省正定县	he bei sheng zheng ding xian	3446
+河北省涿鹿县	he bei sheng zhuo lu xian	3320
+河北省涿州市	he bei sheng zhuo zhou shi	3340
+河北省遵化市	he bei sheng zun hua shi	3416
+河南省安阳市	he nan sheng an yang shi	1772
+河南省安阳市北关区	he nan sheng an yang shi bei guan qu	1769
+河南省安阳市龙安区	he nan sheng an yang shi long an qu	1767
+河南省安阳市市辖区	he nan sheng an yang shi shi xia qu	1771
+河南省安阳市文峰区	he nan sheng an yang shi wen feng qu	1770
+河南省安阳市殷都区	he nan sheng an yang shi yin du qu	1768
+河南省安阳县	he nan sheng an yang xian	1766
+河南省宝丰县	he nan sheng bao feng xian	1778
+河南省泌阳县	he nan sheng bi yang xian	1640
+河南省博爱县	he nan sheng bo ai xian	1733
+河南省长葛市	he nan sheng chang ge shi	1713
+河南省长垣县	he nan sheng chang yuan xian	1743
+河南省郸城县	he nan sheng dan cheng xian	1653
+河南省登封市	he nan sheng deng feng shi	1814
+河南省邓州市	he nan sheng deng zhou shi	1684
+河南省范县	he nan sheng fan xian	1723
+河南省方城县	he nan sheng fang cheng xian	1693
+河南省封丘县	he nan sheng feng qiu xian	1744
+河南省扶沟县	he nan sheng fu gou xian	1657
+河南省巩义市	he nan sheng gong yi shi	1818
+河南省固始县	he nan sheng gu shi xian	1664
+河南省光山县	he nan sheng guang shan xian	1667
+河南省鹤壁市	he nan sheng he bi shi	1761
+河南省鹤壁市鹤山区	he nan sheng he bi shi he shan qu	1759
+河南省鹤壁市淇滨区	he nan sheng he bi shi qi bin qu	1757
+河南省鹤壁市山城区	he nan sheng he bi shi shan cheng qu	1758
+河南省鹤壁市市辖区	he nan sheng he bi shi shi xia qu	1760
+河南省滑县	he nan sheng hua xian	1764
+河南省淮滨县	he nan sheng huai bin xian	1662
+河南省淮阳县	he nan sheng huai yang xian	1652
+河南省潢川县	he nan sheng huang chuan xian	1663
+河南省辉县市	he nan sheng hui xian shi	1741
+河南省获嘉县	he nan sheng huo jia xian	1747
+河南省济源市	he nan sheng ji yuan shi	1636
+河南省郏县	he nan sheng jia xian	1775
+河南省焦作市	he nan sheng jiao zuo shi	1740
+河南省焦作市解放区	he nan sheng jiao zuo shi jie fang qu	1738
+河南省焦作市马村区	he nan sheng jiao zuo shi ma cun qu	1736
+河南省焦作市山阳区	he nan sheng jiao zuo shi shan yang qu	1735
+河南省焦作市市辖区	he nan sheng jiao zuo shi shi xia qu	1739
+河南省焦作市中站区	he nan sheng jiao zuo shi zhong zhan qu	1737
+河南省开封市	he nan sheng kai feng shi	1813
+河南省开封市鼓楼区	he nan sheng kai feng shi gu lou qu	1809
+河南省开封市金明区	he nan sheng kai feng shi jin ming qu	1807
+河南省开封市龙亭区	he nan sheng kai feng shi long ting qu	1811
+河南省开封市市辖区	he nan sheng kai feng shi shi xia qu	1812
+河南省开封市顺河回族区	he nan sheng kai feng shi shun he hui zu qu	1810
+河南省开封市禹王台区	he nan sheng kai feng shi yu wang tai qu	1808
+河南省开封县	he nan sheng kai feng xian	1803
+河南省兰考县	he nan sheng lan kao xian	1802
+河南省临颍县	he nan sheng lin ying xian	1708
+河南省林州市	he nan sheng lin zhou shi	1762
+河南省灵宝市	he nan sheng ling bao shi	1699
+河南省鲁山县	he nan sheng lu shan xian	1776
+河南省卢氏县	he nan sheng lu shi xian	1701
+河南省鹿邑县	he nan sheng lu yi xian	1650
+河南省栾川县	he nan sheng luan chuan xian	1791
+河南省漯河市	he nan sheng luo he shi	1712
+河南省漯河市市辖区	he nan sheng luo he shi shi xia qu	1711
+河南省漯河市源汇区	he nan sheng luo he shi yuan hui qu	1710
+河南省洛宁县	he nan sheng luo ning xian	1787
+河南省罗山县	he nan sheng luo shan xian	1668
+河南省洛阳市	he nan sheng luo yang shi	1801
+河南省洛阳市廛河回族区	he nan sheng luo yang shi chan he hui zu qu	1797
+河南省洛阳市吉利区	he nan sheng luo yang shi ji li qu	1795
+河南省洛阳市涧西区	he nan sheng luo yang shi jian xi qu	1796
+河南省洛阳市老城区	he nan sheng luo yang shi lao cheng qu	1799
+河南省洛阳市洛龙区	he nan sheng luo yang shi luo long qu	1794
+河南省洛阳市市辖区	he nan sheng luo yang shi shi xia qu	1800
+河南省洛阳市西工区	he nan sheng luo yang shi xi gong qu	1798
+河南省孟津县	he nan sheng meng jin xian	1793
+河南省孟州市	he nan sheng meng zhou shi	1729
+河南省渑池县	he nan sheng mian chi xian	1703
+河南省民权县	he nan sheng min quan xian	1679
+河南省南乐县	he nan sheng nan le xian	1724
+河南省南阳市	he nan sheng nan yang shi	1698
+河南省南阳市市辖区	he nan sheng nan yang shi shi xia qu	1697
+河南省南阳市宛城区	he nan sheng nan yang shi wan cheng qu	1696
+河南省南阳市卧龙区	he nan sheng nan yang shi wo long qu	1695
+河南省南召县	he nan sheng nan zhao xian	1694
+河南省内黄县	he nan sheng nei huang xian	1763
+河南省内乡县	he nan sheng nei xiang xian	1690
+河南省宁陵县	he nan sheng ning ling xian	1677
+河南省平顶山市	he nan sheng ping ding shan shi	1784
+河南省平顶山市石龙区	he nan sheng ping ding shan shi shi long qu	1780
+河南省平顶山市市辖区	he nan sheng ping ding shan shi shi xia qu	1783
+河南省平顶山市卫东区	he nan sheng ping ding shan shi wei dong qu	1781
+河南省平顶山市新华区	he nan sheng ping ding shan shi xin hua qu	1782
+河南省平顶山市湛河区	he nan sheng ping ding shan shi zhan he qu	1779
+河南省平舆县	he nan sheng ping yu xian	1643
+河南省濮阳市	he nan sheng pu yang shi	1728
+河南省濮阳市华龙区	he nan sheng pu yang shi hua long qu	1726
+河南省濮阳市市辖区	he nan sheng pu yang shi shi xia qu	1727
+河南省濮阳县	he nan sheng pu yang xian	1721
+河南省杞县	he nan sheng qi xian	1806
+河南省淇县	he nan sheng qi xian	1755
+河南省沁阳市	he nan sheng qin yang shi	1730
+河南省清丰县	he nan sheng qing feng xian	1725
+河南省确山县	he nan sheng que shan xian	1641
+河南省汝南县	he nan sheng ru nan xian	1639
+河南省汝阳县	he nan sheng ru yang xian	1789
+河南省汝州市	he nan sheng ru zhou shi	1773
+河南省三门峡市	he nan sheng san men xia shi	1706
+河南省三门峡市湖滨区	he nan sheng san men xia shi hu bin qu	1704
+河南省三门峡市市辖区	he nan sheng san men xia shi shi xia qu	1705
+河南省陕县	he nan sheng shan xian	1702
+河南省上蔡县	he nan sheng shang cai xian	1644
+河南省商城县	he nan sheng shang cheng xian	1665
+河南省商丘市	he nan sheng shang qiu shi	1683
+河南省商丘市梁园区	he nan sheng shang qiu shi liang yuan qu	1681
+河南省商丘市市辖区	he nan sheng shang qiu shi shi xia qu	1682
+河南省商丘市睢阳区	he nan sheng shang qiu shi sui yang qu	1680
+河南省商水县	he nan sheng shang shui xian	1655
+河南省社旗县	he nan sheng she qi xian	1688
+河南省沈丘县	he nan sheng shen qiu xian	1654
+河南省嵩县	he nan sheng song xian	1790
+河南省遂平县	he nan sheng sui ping xian	1638
+河南省睢县	he nan sheng sui xian	1678
+河南省太康县	he nan sheng tai kang xian	1651
+河南省台前县	he nan sheng tai qian xian	1722
+河南省唐河县	he nan sheng tang he xian	1687
+河南省汤阴县	he nan sheng tang yin xian	1765
+河南省桐柏县	he nan sheng tong bai xian	1685
+河南省通许县	he nan sheng tong xu xian	1805
+河南省卫辉市	he nan sheng wei hui shi	1742
+河南省尉氏县	he nan sheng wei shi xian	1804
+河南省温县	he nan sheng wen xian	1731
+河南省舞钢市	he nan sheng wu gang shi	1774
+河南省舞阳县	he nan sheng wu yang xian	1709
+河南省武陟县	he nan sheng wu zhi xian	1732
+河南省淅川县	he nan sheng xi chuan xian	1689
+河南省西华县	he nan sheng xi hua xian	1656
+河南省西平县	he nan sheng xi ping xian	1645
+河南省西峡县	he nan sheng xi xia xian	1692
+河南省息县	he nan sheng xi xian	1661
+河南省夏邑县	he nan sheng xia yi xian	1674
+河南省项城市	he nan sheng xiang cheng shi	1649
+河南省襄城县	he nan sheng xiang cheng xian	1715
+河南省新安县	he nan sheng xin an xian	1792
+河南省新蔡县	he nan sheng xin cai xian	1637
+河南省新密市	he nan sheng xin mi shi	1816
+河南省新县	he nan sheng xin xian	1666
+河南省新乡市	he nan sheng xin xiang shi	1754
+河南省新乡市凤泉区	he nan sheng xin xiang shi feng quan qu	1750
+河南省新乡市红旗区	he nan sheng xin xiang shi hong qi qu	1752
+河南省新乡市牧野区	he nan sheng xin xiang shi mu ye qu	1749
+河南省新乡市市辖区	he nan sheng xin xiang shi shi xia qu	1753
+河南省新乡市卫滨区	he nan sheng xin xiang shi wei bin qu	1751
+河南省新乡县	he nan sheng xin xiang xian	1748
+河南省信阳市	he nan sheng xin yang shi	1672
+河南省信阳市平桥区	he nan sheng xin yang shi ping qiao qu	1669
+河南省信阳市师河区	he nan sheng xin yang shi shi he qu	1670
+河南省信阳市市辖区	he nan sheng xin yang shi shi xia qu	1671
+河南省新野县	he nan sheng xin ye xian	1686
+河南省新郑市	he nan sheng xin zheng shi	1815
+河南省荥阳市	he nan sheng xing yang shi	1817
+河南省修武县	he nan sheng xiu wu xian	1734
+河南省许昌市	he nan sheng xu chang shi	1720
+河南省许昌市市辖区	he nan sheng xu chang shi shi xia qu	1719
+河南省许昌市魏都区	he nan sheng xu chang shi wei du qu	1718
+河南省许昌县	he nan sheng xu chang xian	1717
+河南省浚县	he nan sheng xun xian	1756
+河南省郾城县	he nan sheng yan cheng xian	1707
+河南省延津县	he nan sheng yan jin xian	1745
+河南省鄢陵县	he nan sheng yan ling xian	1716
+河南省偃师市	he nan sheng yan shi shi	1785
+河南省叶县	he nan sheng ye xian	1777
+河南省伊川县	he nan sheng yi chuan xian	1786
+河南省义马市	he nan sheng yi ma shi	1700
+河南省宜阳县	he nan sheng yi yang xian	1788
+河南省永城市	he nan sheng yong cheng shi	1673
+河南省虞城县	he nan sheng yu cheng xian	1675
+河南省禹州市	he nan sheng yu zhou shi	1714
+河南省原阳县	he nan sheng yuan yang xian	1746
+河南省柘城县	he nan sheng zhe cheng xian	1676
+河南省镇平县	he nan sheng zhen ping xian	1691
+河南省正阳县	he nan sheng zheng yang xian	1642
+河南省郑州市	he nan sheng zheng zhou shi	1827
+河南省郑州市二七区	he nan sheng zheng zhou shi er qi qu	1824
+河南省郑州市管城回族区	he nan sheng zheng zhou shi guan cheng hui zu qu	1823
+河南省郑州市金水区	he nan sheng zheng zhou shi jin shui qu	1822
+河南省郑州市邙山区	he nan sheng zheng zhou shi mang shan qu	1820
+河南省郑州市上街区	he nan sheng zheng zhou shi shang jie qu	1821
+河南省郑州市市辖区	he nan sheng zheng zhou shi shi xia qu	1826
+河南省郑州市中原区	he nan sheng zheng zhou shi zhong yuan qu	1825
+河南省中牟县	he nan sheng zhong mu xian	1819
+河南省周口市	he nan sheng zhou kou shi	1660
+河南省周口市川汇区	he nan sheng zhou kou shi chuan hui qu	1658
+河南省周口市市辖区	he nan sheng zhou kou shi shi xia qu	1659
+河南省驻马店市	he nan sheng zhu ma dian shi	1648
+河南省驻马店市市辖区	he nan sheng zhu ma dian shi shi xia qu	1647
+河南省驻马店市驿城区	he nan sheng zhu ma dian shi yi cheng qu	1646
+黑龙江省阿城市	hei long jiang sheng a cheng shi	2777
+黑龙江省阿木尔	hei long jiang sheng a mu er	2635
+黑龙江省安达市	hei long jiang sheng an da shi	2646
+黑龙江省巴彦县	hei long jiang sheng ba yan xian	2781
+黑龙江省拜泉县	hei long jiang sheng bai quan xian	2758
+黑龙江省宝清县	hei long jiang sheng bao qing xian	2727
+黑龙江省北安市	hei long jiang sheng bei an shi	2657
+黑龙江省宾县	hei long jiang sheng bin xian	2782
+黑龙江省勃利县	hei long jiang sheng bo li xian	2676
+黑龙江省大庆市	hei long jiang sheng da qing shi	2725
+黑龙江省大庆市大同区	hei long jiang sheng da qing shi da tong qu	2719
+黑龙江省大庆市红岗区	hei long jiang sheng da qing shi hong gang qu	2720
+黑龙江省大庆市龙凤区	hei long jiang sheng da qing shi long feng qu	2722
+黑龙江省大庆市让胡路区	hei long jiang sheng da qing shi rang hu lu qu	2721
+黑龙江省大庆市萨尔图区	hei long jiang sheng da qing shi sa er tu qu	2723
+黑龙江省大庆市市辖区	hei long jiang sheng da qing shi shi xia qu	2724
+黑龙江省大兴安岭地区	hei long jiang sheng da xing an ling di qu	2643
+黑龙江省东宁县	hei long jiang sheng dong ning xian	2669
+黑龙江省杜尔伯特蒙古族自治县	hei long jiang sheng du er bo te meng gu zu zi zhi xian	2715
+黑龙江省方正县	hei long jiang sheng fang zheng xian	2783
+黑龙江省富锦市	hei long jiang sheng fu jin shi	2683
+黑龙江省富裕县	hei long jiang sheng fu yu xian	2761
+黑龙江省抚远县	hei long jiang sheng fu yuan xian	2685
+黑龙江省甘南县	hei long jiang sheng gan nan xian	2762
+黑龙江省哈尔滨市	hei long jiang sheng ha er bin shi	2794
+黑龙江省哈尔滨市道里区	hei long jiang sheng ha er bin shi dao li qu	2792
+黑龙江省哈尔滨市道外区	hei long jiang sheng ha er bin shi dao wai qu	2790
+黑龙江省哈尔滨市动力区	hei long jiang sheng ha er bin shi dong li qu	2788
+黑龙江省哈尔滨市呼兰区	hei long jiang sheng ha er bin shi hu lan qu	2785
+黑龙江省哈尔滨市南岗区	hei long jiang sheng ha er bin shi nan gang qu	2791
+黑龙江省哈尔滨市平房区	hei long jiang sheng ha er bin shi ping fang qu	2787
+黑龙江省哈尔滨市市辖区	hei long jiang sheng ha er bin shi shi xia qu	2793
+黑龙江省哈尔滨市松北区	hei long jiang sheng ha er bin shi song bei qu	2786
+黑龙江省哈尔滨市香坊区	hei long jiang sheng ha er bin shi xiang fang qu	2789
+黑龙江省海林市	hei long jiang sheng hai lin shi	2666
+黑龙江省海伦市	hei long jiang sheng hai lun shi	2644
+黑龙江省韩家园	hei long jiang sheng han jia yuan	2632
+黑龙江省鹤岗市	hei long jiang sheng he gang shi	2745
+黑龙江省鹤岗市东山区	hei long jiang sheng he gang shi dong shan qu	2739
+黑龙江省鹤岗市工农区	hei long jiang sheng he gang shi gong nong qu	2742
+黑龙江省鹤岗市南山区	hei long jiang sheng he gang shi nan shan qu	2741
+黑龙江省鹤岗市市辖区	hei long jiang sheng he gang shi shi xia qu	2744
+黑龙江省鹤岗市向阳区	hei long jiang sheng he gang shi xiang yang qu	2743
+黑龙江省鹤岗市兴安区	hei long jiang sheng he gang shi xing an qu	2740
+黑龙江省鹤岗市兴山区	hei long jiang sheng he gang shi xing shan qu	2738
+黑龙江省黑河市	hei long jiang sheng hei he shi	2663
+黑龙江省黑河市爱辉区	hei long jiang sheng hei he shi ai hui qu	2661
+黑龙江省黑河市市辖区	hei long jiang sheng hei he shi shi xia qu	2662
+黑龙江省虎林市	hei long jiang sheng hu lin shi	2747
+黑龙江省呼玛县	hei long jiang sheng hu ma xian	2642
+黑龙江省桦川县	hei long jiang sheng hua chuan xian	2687
+黑龙江省桦南县	hei long jiang sheng hua nan xian	2688
+黑龙江省鸡东县	hei long jiang sheng ji dong xian	2748
+黑龙江省鸡西市	hei long jiang sheng ji xi shi	2756
+黑龙江省鸡西市城子河区	hei long jiang sheng ji xi shi cheng zi he qu	2750
+黑龙江省鸡西市滴道区	hei long jiang sheng ji xi shi di dao qu	2752
+黑龙江省鸡西市恒山区	hei long jiang sheng ji xi shi heng shan qu	2753
+黑龙江省鸡西市鸡冠区	hei long jiang sheng ji xi shi ji guan qu	2754
+黑龙江省鸡西市梨树区	hei long jiang sheng ji xi shi li shu qu	2751
+黑龙江省鸡西市麻山区	hei long jiang sheng ji xi shi ma shan qu	2749
+黑龙江省鸡西市市辖区	hei long jiang sheng ji xi shi shi xia qu	2755
+黑龙江省集贤县	hei long jiang sheng ji xian xian	2729
+黑龙江省加格达奇区	hei long jiang sheng jia ge da qi qu	2639
+黑龙江省佳木斯市	hei long jiang sheng jia mu si shi	2695
+黑龙江省佳木斯市东风区	hei long jiang sheng jia mu si shi dong feng qu	2690
+黑龙江省佳木斯市郊区	hei long jiang sheng jia mu si shi jiao qu	2689
+黑龙江省佳木斯市前进区	hei long jiang sheng jia mu si shi qian jin qu	2691
+黑龙江省佳木斯市市辖区	hei long jiang sheng jia mu si shi shi xia qu	2694
+黑龙江省佳木斯市向阳区	hei long jiang sheng jia mu si shi xiang yang qu	2692
+黑龙江省佳木斯市永红区	hei long jiang sheng jia mu si shi yong hong qu	2693
+黑龙江省嘉荫县	hei long jiang sheng jia yin xian	2697
+黑龙江省克东县	hei long jiang sheng ke dong xian	2759
+黑龙江省克山县	hei long jiang sheng ke shan xian	2760
+黑龙江省兰西县	hei long jiang sheng lan xi xian	2651
+黑龙江省林甸县	hei long jiang sheng lin dian xian	2716
+黑龙江省林口县	hei long jiang sheng lin kou xian	2668
+黑龙江省龙江县	hei long jiang sheng long jiang xian	2765
+黑龙江省萝北县	hei long jiang sheng luo bei xian	2737
+黑龙江省密山市	hei long jiang sheng mi shan shi	2746
+黑龙江省明水县	hei long jiang sheng ming shui xian	2648
+黑龙江省漠河县	hei long jiang sheng mo he xian	2640
+黑龙江省牡丹江市	hei long jiang sheng mu dan jiang shi	2675
+黑龙江省牡丹江市爱民区	hei long jiang sheng mu dan jiang shi ai min qu	2671
+黑龙江省牡丹江市东安区	hei long jiang sheng mu dan jiang shi dong an qu	2673
+黑龙江省牡丹江市市辖区	hei long jiang sheng mu dan jiang shi shi xia qu	2674
+黑龙江省牡丹江市西安区	hei long jiang sheng mu dan jiang shi xi an qu	2670
+黑龙江省牡丹江市阳明区	hei long jiang sheng mu dan jiang shi yang ming qu	2672
+黑龙江省木兰县	hei long jiang sheng mu lan xian	2780
+黑龙江省穆棱市	hei long jiang sheng mu ling shi	2664
+黑龙江省讷河市	hei long jiang sheng ne he shi	2757
+黑龙江省嫩江县	hei long jiang sheng nen jiang xian	2660
+黑龙江省宁安市	hei long jiang sheng ning an shi	2665
+黑龙江省齐齐哈尔市	hei long jiang sheng qi qi ha er shi	2773
+黑龙江省齐齐哈尔市昂昂溪区	hei long jiang sheng qi qi ha er shi ang ang xi qu	2768
+黑龙江省齐齐哈尔市富拉尔基区	hei long jiang sheng qi qi ha er shi fu la er ji qu	2767
+黑龙江省齐齐哈尔市建华区	hei long jiang sheng qi qi ha er shi jian hua qu	2770
+黑龙江省齐齐哈尔市龙沙区	hei long jiang sheng qi qi ha er shi long sha qu	2771
+黑龙江省齐齐哈尔市碾子山区	hei long jiang sheng qi qi ha er shi nian zi shan qu	2766
+黑龙江省齐齐哈尔市市辖区	hei long jiang sheng qi qi ha er shi shi xia qu	2772
+黑龙江省齐齐哈尔市铁锋区	hei long jiang sheng qi qi ha er shi tie feng qu	2769
+黑龙江省七台河市	hei long jiang sheng qi tai he shi	2681
+黑龙江省七台河市茄子河区	hei long jiang sheng qi tai he shi qie zi he qu	2677
+黑龙江省七台河市市辖区	hei long jiang sheng qi tai he shi shi xia qu	2680
+黑龙江省七台河市桃山区	hei long jiang sheng qi tai he shi tao shan qu	2678
+黑龙江省七台河市新兴区	hei long jiang sheng qi tai he shi xin xing qu	2679
+黑龙江省庆安县	hei long jiang sheng qing an xian	2649
+黑龙江省青冈县	hei long jiang sheng qing gang xian	2650
+黑龙江省饶河县	hei long jiang sheng rao he xian	2726
+黑龙江省尚志市	hei long jiang sheng shang zhi shi	2775
+黑龙江省十八站	hei long jiang sheng shi ba zhan	2633
+黑龙江省双城市	hei long jiang sheng shuang cheng shi	2776
+黑龙江省双鸭山市	hei long jiang sheng shuang ya shan shi	2735
+黑龙江省双鸭山市宝山区	hei long jiang sheng shuang ya shan shi bao shan qu	2730
+黑龙江省双鸭山市尖山区	hei long jiang sheng shuang ya shan shi jian shan qu	2733
+黑龙江省双鸭山市岭东区	hei long jiang sheng shuang ya shan shi ling dong qu	2732
+黑龙江省双鸭山市市辖区	hei long jiang sheng shuang ya shan shi shi xia qu	2734
+黑龙江省双鸭山市四方台区	hei long jiang sheng shuang ya shan shi si fang tai qu	2731
+黑龙江省松岭区	hei long jiang sheng song ling qu	2638
+黑龙江省绥滨县	hei long jiang sheng sui bin xian	2736
+黑龙江省绥芬河市	hei long jiang sheng sui fen he shi	2667
+黑龙江省绥化市	hei long jiang sheng sui hua shi	2655
+黑龙江省绥化市北林区	hei long jiang sheng sui hua shi bei lin qu	2653
+黑龙江省绥化市市辖区	hei long jiang sheng sui hua shi shi xia qu	2654
+黑龙江省绥棱县	hei long jiang sheng sui ling xian	2647
+黑龙江省孙吴县	hei long jiang sheng sun wu xian	2658
+黑龙江省塔河县	hei long jiang sheng ta he xian	2641
+黑龙江省泰来县	hei long jiang sheng tai lai xian	2763
+黑龙江省汤原县	hei long jiang sheng tang yuan xian	2686
+黑龙江省铁力市	hei long jiang sheng tie li shi	2696
+黑龙江省通河县	hei long jiang sheng tong he xian	2779
+黑龙江省同江市	hei long jiang sheng tong jiang shi	2684
+黑龙江省图强	hei long jiang sheng tu qiang	2634
+黑龙江省望奎县	hei long jiang sheng wang kui xian	2652
+黑龙江省五常市	hei long jiang sheng wu chang shi	2774
+黑龙江省五大连池市	hei long jiang sheng wu da lian chi shi	2656
+黑龙江省新林区	hei long jiang sheng xin lin qu	2636
+黑龙江省逊克县	hei long jiang sheng xun ke xian	2659
+黑龙江省延寿县	hei long jiang sheng yan shou xian	2778
+黑龙江省依安县	hei long jiang sheng yi an xian	2764
+黑龙江省伊春市	hei long jiang sheng yi chun shi	2714
+黑龙江省伊春市翠峦区	hei long jiang sheng yi chun shi cui luan qu	2708
+黑龙江省伊春市带岭区	hei long jiang sheng yi chun shi dai ling qu	2701
+黑龙江省伊春市红星区	hei long jiang sheng yi chun shi hong xing qu	2699
+黑龙江省伊春市金山屯区	hei long jiang sheng yi chun shi jin shan tun qu	2705
+黑龙江省伊春市美溪区	hei long jiang sheng yi chun shi mei xi qu	2706
+黑龙江省伊春市南岔区	hei long jiang sheng yi chun shi nan cha qu	2711
+黑龙江省伊春市上甘岭区	hei long jiang sheng yi chun shi shang gan ling qu	2698
+黑龙江省伊春市市辖区	hei long jiang sheng yi chun shi shi xia qu	2713
+黑龙江省伊春市汤旺河区	hei long jiang sheng yi chun shi tang wang he qu	2702
+黑龙江省伊春市乌马河区	hei long jiang sheng yi chun shi wu ma he qu	2703
+黑龙江省伊春市乌伊岭区	hei long jiang sheng yi chun shi wu yi ling qu	2700
+黑龙江省伊春市五营区	hei long jiang sheng yi chun shi wu ying qu	2704
+黑龙江省伊春市西林区	hei long jiang sheng yi chun shi xi lin qu	2709
+黑龙江省伊春市新青区	hei long jiang sheng yi chun shi xin qing qu	2707
+黑龙江省伊春市伊春区	hei long jiang sheng yi chun shi yi chun qu	2712
+黑龙江省伊春市友好区	hei long jiang sheng yi chun shi you hao qu	2710
+黑龙江省依兰县	hei long jiang sheng yi lan xian	2784
+黑龙江省友谊县	hei long jiang sheng you yi xian	2728
+黑龙江省肇东市	hei long jiang sheng zhao dong shi	2645
+黑龙江省肇源县	hei long jiang sheng zhao yuan xian	2717
+黑龙江省肇州县	hei long jiang sheng zhao zhou xian	2718
+黑龙江省中区	hei long jiang sheng zhong qu	2637
+湖北省安陆市	hu bei sheng an lu shi	1557
+湖北省巴东县	hu bei sheng ba dong xian	1517
+湖北省保康县	hu bei sheng bao kang xian	1580
+湖北省长阳土家族自治县	hu bei sheng chang yang tu jia zu zi zhi xian	1592
+湖北省赤壁市	hu bei sheng chi bi shi	1526
+湖北省崇阳县	hu bei sheng chong yang xian	1528
+湖北省大悟县	hu bei sheng da wu xian	1560
+湖北省大冶市	hu bei sheng da ye shi	1613
+湖北省丹江口市	hu bei sheng dan jiang kou shi	1603
+湖北省当阳市	hu bei sheng dang yang shi	1589
+湖北省鄂州市	hu bei sheng e zhou shi	1576
+湖北省鄂州市鄂城区	hu bei sheng e zhou shi e cheng qu	1572
+湖北省鄂州市华容区	hu bei sheng e zhou shi hua rong qu	1573
+湖北省鄂州市梁子湖区	hu bei sheng e zhou shi liang zi hu qu	1574
+湖北省鄂州市市辖区	hu bei sheng e zhou shi shi xia qu	1575
+湖北省恩施市	hu bei sheng en shi shi	1520
+湖北省恩施土家族苗族自治州	hu bei sheng en shi tu jia zu miao zu zi zhi zhou	1521
+湖北省房县	hu bei sheng fang xian	1604
+湖北省公安县	hu bei sheng gong an xian	1551
+湖北省谷城县	hu bei sheng gu cheng xian	1581
+湖北省广水市	hu bei sheng guang shui shi	1522
+湖北省汉川市	hu bei sheng han chuan shi	1556
+湖北省鹤峰县	hu bei sheng he feng xian	1513
+湖北省红安县	hu bei sheng hong an xian	1541
+湖北省洪湖市	hu bei sheng hong hu shi	1547
+湖北省黄冈市	hu bei sheng huang gang shi	1545
+湖北省黄冈市黄州区	hu bei sheng huang gang shi huang zhou qu	1543
+湖北省黄冈市市辖区	hu bei sheng huang gang shi shi xia qu	1544
+湖北省黄梅县	hu bei sheng huang mei xian	1536
+湖北省黄石市	hu bei sheng huang shi shi	1620
+湖北省黄石市黄石港区	hu bei sheng huang shi shi huang shi gang qu	1618
+湖北省黄石市市辖区	hu bei sheng huang shi shi shi xia qu	1619
+湖北省黄石市铁山区	hu bei sheng huang shi shi tie shan qu	1615
+湖北省黄石市西塞山区	hu bei sheng huang shi shi xi sai shan qu	1617
+湖北省黄石市下陆区	hu bei sheng huang shi shi xia lu qu	1616
+湖北省嘉鱼县	hu bei sheng jia yu xian	1530
+湖北省监利县	hu bei sheng jian li xian	1550
+湖北省建始县	hu bei sheng jian shi xian	1518
+湖北省江陵县	hu bei sheng jiang ling xian	1549
+湖北省荆门市	hu bei sheng jing men shi	1571
+湖北省荆门市东宝区	hu bei sheng jing men shi dong bao qu	1569
+湖北省荆门市掇刀区	hu bei sheng jing men shi duo dao qu	1568
+湖北省荆门市市辖区	hu bei sheng jing men shi shi xia qu	1570
+湖北省京山县	hu bei sheng jing shan xian	1567
+湖北省荆州市	hu bei sheng jing zhou shi	1555
+湖北省荆州市荆州区	hu bei sheng jing zhou shi jing zhou qu	1552
+湖北省荆州市沙市区	hu bei sheng jing zhou shi sha shi qu	1553
+湖北省荆州市市辖区	hu bei sheng jing zhou shi shi xia qu	1554
+湖北省来凤县	hu bei sheng lai feng xian	1514
+湖北省老河口市	hu bei sheng lao he kou shi	1579
+湖北省利川市	hu bei sheng li chuan shi	1519
+湖北省罗田县	hu bei sheng luo tian xian	1540
+湖北省麻城市	hu bei sheng ma cheng shi	1535
+湖北省南漳县	hu bei sheng nan zhang xian	1582
+湖北省蕲春县	hu bei sheng qi chun xian	1537
+湖北省潜江市	hu bei sheng qian jiang shi	1510
+湖北省沙洋县	hu bei sheng sha yang xian	1566
+湖北省神农架林区	hu bei sheng shen nong jia lin qu	1508
+湖北省省直辖行政单位	hu bei sheng sheng zhi xia xing zheng dan wei	1512
+湖北省石首市	hu bei sheng shi shou shi	1548
+湖北省十堰市	hu bei sheng shi yan shi	1612
+湖北省十堰市茅箭区	hu bei sheng shi yan shi mao jian qu	1610
+湖北省十堰市市辖区	hu bei sheng shi yan shi shi xia qu	1611
+湖北省十堰市张湾区	hu bei sheng shi yan shi zhang wan qu	1609
+湖北省松滋市	hu bei sheng song zi shi	1546
+湖北省随州市	hu bei sheng sui zhou shi	1525
+湖北省随州市市辖区	hu bei sheng sui zhou shi shi xia qu	1524
+湖北省随州市曾都区	hu bei sheng sui zhou shi zeng du qu	1523
+湖北省天门市	hu bei sheng tian men shi	1509
+湖北省通城县	hu bei sheng tong cheng xian	1529
+湖北省通山县	hu bei sheng tong shan xian	1527
+湖北省团风县	hu bei sheng tuan feng xian	1542
+湖北省五峰土家族自治县	hu bei sheng wu feng tu jia zu zi zhi xian	1591
+湖北省武汉市	hu bei sheng wu han shi	1635
+湖北省武汉市蔡甸区	hu bei sheng wu han shi cai dian qu	1624
+湖北省武汉市东西湖区	hu bei sheng wu han shi dong xi hu qu	1626
+湖北省武汉市汉南区	hu bei sheng wu han shi han nan qu	1625
+湖北省武汉市汉阳区	hu bei sheng wu han shi han yang qu	1630
+湖北省武汉市洪山区	hu bei sheng wu han shi hong shan qu	1627
+湖北省武汉市黄陂区	hu bei sheng wu han shi huang pi qu	1622
+湖北省武汉市江岸区	hu bei sheng wu han shi jiang an qu	1633
+湖北省武汉市江汉区	hu bei sheng wu han shi jiang han qu	1632
+湖北省武汉市江夏区	hu bei sheng wu han shi jiang xia qu	1623
+湖北省武汉市乔口区	hu bei sheng wu han shi qiao kou qu	1631
+湖北省武汉市青山区	hu bei sheng wu han shi qing shan qu	1628
+湖北省武汉市市辖区	hu bei sheng wu han shi shi xia qu	1634
+湖北省武汉市武昌区	hu bei sheng wu han shi wu chang qu	1629
+湖北省武汉市新洲区	hu bei sheng wu han shi xin zhou qu	1621
+湖北省武穴市	hu bei sheng wu xue shi	1534
+湖北省浠水县	hu bei sheng xi shui xian	1538
+湖北省咸丰县	hu bei sheng xian feng xian	1515
+湖北省咸宁市	hu bei sheng xian ning shi	1533
+湖北省咸宁市市辖区	hu bei sheng xian ning shi shi xia qu	1532
+湖北省咸宁市咸安区	hu bei sheng xian ning shi xian an qu	1531
+湖北省仙桃市	hu bei sheng xian tao shi	1511
+湖北省襄樊市	hu bei sheng xiang fan shi	1587
+湖北省襄樊市樊城区	hu bei sheng xiang fan shi fan cheng qu	1584
+湖北省襄樊市市辖区	hu bei sheng xiang fan shi shi xia qu	1586
+湖北省襄樊市襄城区	hu bei sheng xiang fan shi xiang cheng qu	1585
+湖北省襄樊市襄阳区	hu bei sheng xiang fan shi xiang yang qu	1583
+湖北省孝昌县	hu bei sheng xiao chang xian	1561
+湖北省孝感市	hu bei sheng xiao gan shi	1564
+湖北省孝感市市辖区	hu bei sheng xiao gan shi shi xia qu	1563
+湖北省孝感市孝南区	hu bei sheng xiao gan shi xiao nan qu	1562
+湖北省兴山县	hu bei sheng xing shan xian	1594
+湖北省宣恩县	hu bei sheng xuan en xian	1516
+湖北省阳新县	hu bei sheng yang xin xian	1614
+湖北省宜昌市	hu bei sheng yi chang shi	1602
+湖北省宜昌市点军区	hu bei sheng yi chang shi dian jun qu	1598
+湖北省宜昌市虎亭区	hu bei sheng yi chang shi hu ting qu	1597
+湖北省宜昌市市辖区	hu bei sheng yi chang shi shi xia qu	1601
+湖北省宜昌市伍家岗区	hu bei sheng yi chang shi wu jia gang qu	1599
+湖北省宜昌市西陵区	hu bei sheng yi chang shi xi ling qu	1600
+湖北省宜昌市夷陵区	hu bei sheng yi chang shi yi ling qu	1596
+湖北省宜城市	hu bei sheng yi cheng shi	1577
+湖北省宜都市	hu bei sheng yi du shi	1590
+湖北省应城市	hu bei sheng ying cheng shi	1558
+湖北省英山县	hu bei sheng ying shan xian	1539
+湖北省远安县	hu bei sheng yuan an xian	1595
+湖北省云梦县	hu bei sheng yun meng xian	1559
+湖北省郧西县	hu bei sheng yun xi xian	1607
+湖北省郧县	hu bei sheng yun xian	1608
+湖北省枣阳市	hu bei sheng zao yang shi	1578
+湖北省枝江市	hu bei sheng zhi jiang shi	1588
+湖北省钟祥市	hu bei sheng zhong xiang shi	1565
+湖北省竹山县	hu bei sheng zhu shan xian	1606
+湖北省竹溪县	hu bei sheng zhu xi xian	1605
+湖北省秭归县	hu bei sheng zi gui xian	1593
+湖南省安化县	hu nan sheng an hua xian	1416
+湖南省安仁县	hu nan sheng an ren xian	1403
+湖南省安乡县	hu nan sheng an xiang xian	1435
+湖南省保靖县	hu nan sheng bao jing xian	1362
+湖南省茶陵县	hu nan sheng cha ling xian	1488
+湖南省常德市	hu nan sheng chang de shi	1439
+湖南省常德市鼎城区	hu nan sheng chang de shi ding cheng qu	1436
+湖南省常德市市辖区	hu nan sheng chang de shi shi xia qu	1438
+湖南省常德市武陵区	hu nan sheng chang de shi wu ling qu	1437
+湖南省常宁市	hu nan sheng chang ning shi	1465
+湖南省长沙市	hu nan sheng chang sha shi	1507
+湖南省长沙市芙蓉区	hu nan sheng chang sha shi fu rong qu	1505
+湖南省长沙市开福区	hu nan sheng chang sha shi kai fu qu	1502
+湖南省长沙市市辖区	hu nan sheng chang sha shi shi xia qu	1506
+湖南省长沙市天心区	hu nan sheng chang sha shi tian xin qu	1504
+湖南省长沙市雨花区	hu nan sheng chang sha shi yu hua qu	1501
+湖南省长沙市岳麓区	hu nan sheng chang sha shi yue lu qu	1503
+湖南省长沙县	hu nan sheng chang sha xian	1500
+湖南省辰溪县	hu nan sheng chen xi xian	1383
+湖南省郴州市	hu nan sheng chen zhou shi	1414
+湖南省郴州市北湖区	hu nan sheng chen zhou shi bei hu qu	1412
+湖南省郴州市市辖区	hu nan sheng chen zhou shi shi xia qu	1413
+湖南省郴州市苏仙区	hu nan sheng chen zhou shi su xian qu	1411
+湖南省城步苗族自治县	hu nan sheng cheng bu miao zu zi zhi xian	1452
+湖南省慈利县	hu nan sheng ci li xian	1424
+湖南省道县	hu nan sheng dao xian	1394
+湖南省东安县	hu nan sheng dong an xian	1396
+湖南省洞口县	hu nan sheng dong kou xian	1455
+湖南省凤凰县	hu nan sheng feng huang xian	1364
+湖南省古丈县	hu nan sheng gu zhang xian	1361
+湖南省桂东县	hu nan sheng gui dong xian	1404
+湖南省桂阳县	hu nan sheng gui yang xian	1410
+湖南省汉寿县	hu nan sheng han shou xian	1434
+湖南省衡东县	hu nan sheng heng dong xian	1468
+湖南省衡南县	hu nan sheng heng nan xian	1470
+湖南省衡山县	hu nan sheng heng shan xian	1469
+湖南省衡阳市	hu nan sheng heng yang shi	1478
+湖南省衡阳市南岳区	hu nan sheng heng yang shi nan yue qu	1472
+湖南省衡阳市石鼓区	hu nan sheng heng yang shi shi gu qu	1474
+湖南省衡阳市市辖区	hu nan sheng heng yang shi shi xia qu	1477
+湖南省衡阳市雁峰区	hu nan sheng heng yang shi yan feng qu	1475
+湖南省衡阳市蒸湘区	hu nan sheng heng yang shi zheng xiang qu	1473
+湖南省衡阳市珠晖区	hu nan sheng heng yang shi zhu hui qu	1476
+湖南省衡阳县	hu nan sheng heng yang xian	1471
+湖南省洪江市	hu nan sheng hong jiang shi	1375
+湖南省华容县	hu nan sheng hua rong xian	1444
+湖南省花垣县	hu nan sheng hua yuan xian	1363
+湖南省怀化市	hu nan sheng huai hua shi	1388
+湖南省怀化市鹤城区	hu nan sheng huai hua shi he cheng qu	1386
+湖南省怀化市市辖区	hu nan sheng huai hua shi shi xia qu	1387
+湖南省会同县	hu nan sheng hui tong xian	1381
+湖南省吉首市	hu nan sheng ji shou shi	1366
+湖南省嘉禾县	hu nan sheng jia he xian	1407
+湖南省江华瑶族自治县	hu nan sheng jiang hua yao zu zi zhi xian	1389
+湖南省江永县	hu nan sheng jiang yong xian	1393
+湖南省津市市	hu nan sheng jin shi shi	1429
+湖南省靖州苗族侗族自治县	hu nan sheng jing zhou miao zu dong zu zi zhi xian	1377
+湖南省蓝山县	hu nan sheng lan shan xian	1391
+湖南省耒阳市	hu nan sheng lei yang shi	1466
+湖南省冷水江市	hu nan sheng leng shui jiang shi	1369
+湖南省醴陵市	hu nan sheng li ling shi	1486
+湖南省澧县	hu nan sheng li xian	1433
+湖南省涟源市	hu nan sheng lian yuan shi	1368
+湖南省临澧县	hu nan sheng lin li xian	1432
+湖南省临武县	hu nan sheng lin wu xian	1406
+湖南省临湘市	hu nan sheng lin xiang shi	1440
+湖南省浏阳市	hu nan sheng liu yang shi	1497
+湖南省隆回县	hu nan sheng long hui xian	1456
+湖南省龙山县	hu nan sheng long shan xian	1359
+湖南省娄底市	hu nan sheng lou di shi	1374
+湖南省娄底市娄星区	hu nan sheng lou di shi lou xing qu	1372
+湖南省娄底市市辖区	hu nan sheng lou di shi shi xia qu	1373
+湖南省泸溪县	hu nan sheng lu xi xian	1365
+湖南省麻阳苗族自治县	hu nan sheng ma yang miao zu zi zhi xian	1380
+湖南省汨罗市	hu nan sheng mi luo shi	1441
+湖南省南县	hu nan sheng nan xian	1418
+湖南省宁乡县	hu nan sheng ning xiang xian	1498
+湖南省宁远县	hu nan sheng ning yuan xian	1392
+湖南省平江县	hu nan sheng ping jiang xian	1442
+湖南省祁东县	hu nan sheng qi dong xian	1467
+湖南省祁阳县	hu nan sheng qi yang xian	1397
+湖南省汝城县	hu nan sheng ru cheng xian	1405
+湖南省桑植县	hu nan sheng sang zhi xian	1423
+湖南省邵东县	hu nan sheng shao dong xian	1459
+湖南省韶山市	hu nan sheng shao shan shi	1479
+湖南省邵阳市	hu nan sheng shao yang shi	1464
+湖南省邵阳市北塔区	hu nan sheng shao yang shi bei ta qu	1460
+湖南省邵阳市大祥区	hu nan sheng shao yang shi da xiang qu	1461
+湖南省邵阳市市辖区	hu nan sheng shao yang shi shi xia qu	1463
+湖南省邵阳市双清区	hu nan sheng shao yang shi shuang qing qu	1462
+湖南省邵阳县	hu nan sheng shao yang xian	1457
+湖南省石门县	hu nan sheng shi men xian	1430
+湖南省双峰县	hu nan sheng shuang feng xian	1371
+湖南省双牌县	hu nan sheng shuang pai xian	1395
+湖南省绥宁县	hu nan sheng sui ning xian	1454
+湖南省桃江县	hu nan sheng tao jiang xian	1417
+湖南省桃源县	hu nan sheng tao yuan xian	1431
+湖南省通道侗族自治县	hu nan sheng tong dao dong zu zi zhi xian	1376
+湖南省望城县	hu nan sheng wang cheng xian	1499
+湖南省武冈市	hu nan sheng wu gang shi	1451
+湖南省湘潭市	hu nan sheng xiang tan shi	1485
+湖南省湘潭市市辖区	hu nan sheng xiang tan shi shi xia qu	1484
+湖南省湘潭市雨湖区	hu nan sheng xiang tan shi yu hu qu	1483
+湖南省湘潭市岳塘区	hu nan sheng xiang tan shi yue tang qu	1482
+湖南省湘潭县	hu nan sheng xiang tan xian	1481
+湖南省湘西土家族苗族自治州	hu nan sheng xiang xi tu jia zu miao zu zi zhi zhou	1367
+湖南省湘乡市	hu nan sheng xiang xiang shi	1480
+湖南省湘阴县	hu nan sheng xiang yin xian	1443
+湖南省新化县	hu nan sheng xin hua xian	1370
+湖南省新晃侗族自治县	hu nan sheng xin huang dong zu zi zhi xian	1379
+湖南省新宁县	hu nan sheng xin ning xian	1453
+湖南省新邵县	hu nan sheng xin shao xian	1458
+湖南省新田县	hu nan sheng xin tian xian	1390
+湖南省溆浦县	hu nan sheng xu pu xian	1382
+湖南省炎陵县	hu nan sheng yan ling xian	1487
+湖南省益阳市	hu nan sheng yi yang shi	1422
+湖南省益阳市赫山区	hu nan sheng yi yang shi he shan qu	1419
+湖南省益阳市市辖区	hu nan sheng yi yang shi shi xia qu	1421
+湖南省益阳市资阳区	hu nan sheng yi yang shi zi yang qu	1420
+湖南省宜章县	hu nan sheng yi zhang xian	1409
+湖南省永顺县	hu nan sheng yong shun xian	1360
+湖南省永兴县	hu nan sheng yong xing xian	1408
+湖南省永州市	hu nan sheng yong zhou shi	1401
+湖南省永州市冷水滩区	hu nan sheng yong zhou shi leng shui tan qu	1398
+湖南省永州市市辖区	hu nan sheng yong zhou shi shi xia qu	1400
+湖南省永州市芝山区	hu nan sheng yong zhou shi zhi shan qu	1399
+湖南省攸县	hu nan sheng you xian	1489
+湖南省沅江市	hu nan sheng yuan jiang shi	1415
+湖南省沅陵县	hu nan sheng yuan ling xian	1384
+湖南省岳阳市	hu nan sheng yue yang shi	1450
+湖南省岳阳市君山区	hu nan sheng yue yang shi jun shan qu	1446
+湖南省岳阳市市辖区	hu nan sheng yue yang shi shi xia qu	1449
+湖南省岳阳市岳阳楼区	hu nan sheng yue yang shi yue yang lou qu	1448
+湖南省岳阳市云溪区	hu nan sheng yue yang shi yun xi qu	1447
+湖南省岳阳县	hu nan sheng yue yang xian	1445
+湖南省张家界市	hu nan sheng zhang jia jie shi	1428
+湖南省张家界市市辖区	hu nan sheng zhang jia jie shi shi xia qu	1427
+湖南省张家界市武陵源区	hu nan sheng zhang jia jie shi wu ling yuan qu	1425
+湖南省张家界市永定区	hu nan sheng zhang jia jie shi yong ding qu	1426
+湖南省芷江侗族自治县	hu nan sheng zhi jiang dong zu zi zhi xian	1378
+湖南省中方县	hu nan sheng zhong fang xian	1385
+湖南省株洲市	hu nan sheng zhu zhou shi	1496
+湖南省株洲市荷塘区	hu nan sheng zhu zhou shi he tang qu	1494
+湖南省株洲市芦淞区	hu nan sheng zhu zhou shi lu song qu	1493
+湖南省株洲市石峰区	hu nan sheng zhu zhou shi shi feng qu	1492
+湖南省株洲市市辖区	hu nan sheng zhu zhou shi shi xia qu	1495
+湖南省株洲市天元区	hu nan sheng zhu zhou shi tian yuan qu	1491
+湖南省株洲县	hu nan sheng zhu zhou xian	1490
+湖南省资兴市	hu nan sheng zi xing shi	1402
+吉林省安图县	ji lin sheng an tu xian	2795
+吉林省白城市	ji lin sheng bai cheng shi	2810
+吉林省白城市市辖区	ji lin sheng bai cheng shi shi xia qu	2809
+吉林省白城市洮北区	ji lin sheng bai cheng shi tao bei qu	2808
+吉林省白山市	ji lin sheng bai shan shi	2825
+吉林省白山市八道江区	ji lin sheng bai shan shi ba dao jiang qu	2823
+吉林省白山市市辖区	ji lin sheng bai shan shi shi xia qu	2824
+吉林省长白朝鲜族自治县	ji lin sheng chang bai chao xian zu zi zhi xian	2820
+吉林省长春市	ji lin sheng chang chun shi	2871
+吉林省长春市朝阳区	ji lin sheng chang chun shi chao yang qu	2867
+吉林省长春市二道区	ji lin sheng chang chun shi er dao qu	2866
+吉林省长春市宽城区	ji lin sheng chang chun shi kuan cheng qu	2868
+吉林省长春市绿园区	ji lin sheng chang chun shi lv yuan qu	2865
+吉林省长春市南关区	ji lin sheng chang chun shi nan guan qu	2869
+吉林省长春市市辖区	ji lin sheng chang chun shi shi xia qu	2870
+吉林省长春市双阳区	ji lin sheng chang chun shi shuang yang qu	2864
+吉林省长岭县	ji lin sheng chang ling xian	2813
+吉林省大安市	ji lin sheng da an shi	2804
+吉林省德惠市	ji lin sheng de hui shi	2860
+吉林省东丰县	ji lin sheng dong feng xian	2836
+吉林省东辽县	ji lin sheng dong liao xian	2835
+吉林省敦化市	ji lin sheng dun hua shi	2800
+吉林省抚松县	ji lin sheng fu song xian	2822
+吉林省扶余县	ji lin sheng fu yu xian	2811
+吉林省公主岭市	ji lin sheng gong zhu ling shi	2842
+吉林省和龙市	ji lin sheng he long shi	2797
+吉林省桦甸市	ji lin sheng hua dian shi	2851
+吉林省辉南县	ji lin sheng hui nan xian	2829
+吉林省珲春市	ji lin sheng hun chun shi	2799
+吉林省集安市	ji lin sheng ji an shi	2826
+吉林省吉林市	ji lin sheng ji lin shi	2859
+吉林省吉林市昌邑区	ji lin sheng ji lin shi chang yi qu	2857
+吉林省吉林市船营区	ji lin sheng ji lin shi chuan ying qu	2855
+吉林省吉林市丰满区	ji lin sheng ji lin shi feng man qu	2854
+吉林省吉林市龙潭区	ji lin sheng ji lin shi long tan qu	2856
+吉林省吉林市市辖区	ji lin sheng ji lin shi shi xia qu	2858
+吉林省江源县	ji lin sheng jiang yuan xian	2819
+吉林省蛟河市	ji lin sheng jiao he shi	2852
+吉林省靖宇县	ji lin sheng jing yu xian	2821
+吉林省九台市	ji lin sheng jiu tai shi	2862
+吉林省梨树县	ji lin sheng li shu xian	2844
+吉林省辽源市	ji lin sheng liao yuan shi	2840
+吉林省辽源市龙山区	ji lin sheng liao yuan shi long shan qu	2838
+吉林省辽源市市辖区	ji lin sheng liao yuan shi shi xia qu	2839
+吉林省辽源市西安区	ji lin sheng liao yuan shi xi an qu	2837
+吉林省临江市	ji lin sheng lin jiang shi	2818
+吉林省柳河县	ji lin sheng liu he xian	2828
+吉林省龙井市	ji lin sheng long jing shi	2798
+吉林省梅河口市	ji lin sheng mei he kou shi	2827
+吉林省农安县	ji lin sheng nong an xian	2863
+吉林省磐石市	ji lin sheng pan shi shi	2849
+吉林省乾安县	ji lin sheng qian an xian	2812
+吉林省前郭尔罗斯蒙古族自治县	ji lin sheng qian guo er luo si meng gu zu zi zhi xian	2814
+吉林省舒兰市	ji lin sheng shu lan shi	2850
+吉林省双辽市	ji lin sheng shuang liao shi	2841
+吉林省四平市	ji lin sheng si ping shi	2848
+吉林省四平市市辖区	ji lin sheng si ping shi shi xia qu	2847
+吉林省四平市铁东区	ji lin sheng si ping shi tie dong qu	2845
+吉林省四平市铁西区	ji lin sheng si ping shi tie xi qu	2846
+吉林省松原市	ji lin sheng song yuan shi	2817
+吉林省松原市宁江区	ji lin sheng song yuan shi ning jiang qu	2815
+吉林省松原市市辖区	ji lin sheng song yuan shi shi xia qu	2816
+吉林省洮南市	ji lin sheng tao nan shi	2805
+吉林省通化市	ji lin sheng tong hua shi	2834
+吉林省通化市东昌区	ji lin sheng tong hua shi dong chang qu	2832
+吉林省通化市二道江区	ji lin sheng tong hua shi er dao jiang qu	2831
+吉林省通化市市辖区	ji lin sheng tong hua shi shi xia qu	2833
+吉林省通化县	ji lin sheng tong hua xian	2830
+吉林省通榆县	ji lin sheng tong yu xian	2806
+吉林省图们市	ji lin sheng tu men shi	2801
+吉林省汪清县	ji lin sheng wang qing xian	2796
+吉林省延边朝鲜族自治州	ji lin sheng yan bian chao xian zu zi zhi zhou	2803
+吉林省延吉市	ji lin sheng yan ji shi	2802
+吉林省伊通满族自治县	ji lin sheng yi tong man zu zi zhi xian	2843
+吉林省永吉县	ji lin sheng yong ji xian	2853
+吉林省榆树市	ji lin sheng yu shu shi	2861
+吉林省镇赉县	ji lin sheng zhen lai xian	2807
+江苏省宝应县	jiang su sheng bao ying xian	2507
+江苏省滨海县	jiang su sheng bin hai xian	2518
+江苏省常熟市	jiang su sheng chang shu shi	2557
+江苏省常州市	jiang su sheng chang zhou shi	2574
+江苏省常州市戚墅堰区	jiang su sheng chang zhou shi qi shu yan qu	2570
+江苏省常州市市辖区	jiang su sheng chang zhou shi shi xia qu	2573
+江苏省常州市天宁区	jiang su sheng chang zhou shi tian ning qu	2572
+江苏省常州市武进区	jiang su sheng chang zhou shi wu jin qu	2568
+江苏省常州市新北区	jiang su sheng chang zhou shi xin bei qu	2569
+江苏省常州市钟楼区	jiang su sheng chang zhou shi zhong lou qu	2571
+江苏省大丰市	jiang su sheng da feng shi	2513
+江苏省丹阳市	jiang su sheng dan yang shi	2498
+江苏省东海县	jiang su sheng dong hai xian	2536
+江苏省东台市	jiang su sheng dong tai shi	2514
+江苏省丰县	jiang su sheng feng xian	2580
+江苏省阜宁县	jiang su sheng fu ning xian	2517
+江苏省赣榆县	jiang su sheng gan yu xian	2537
+江苏省高淳县	jiang su sheng gao chun xian	2598
+江苏省高邮市	jiang su sheng gao you shi	2505
+江苏省灌南县	jiang su sheng guan nan xian	2534
+江苏省灌云县	jiang su sheng guan yun xian	2535
+江苏省海安县	jiang su sheng hai an xian	2548
+江苏省海门市	jiang su sheng hai men shi	2543
+江苏省洪泽县	jiang su sheng hong ze xian	2526
+江苏省淮安市	jiang su sheng huai an shi	2533
+江苏省淮安市楚州区	jiang su sheng huai an shi chu zhou qu	2530
+江苏省淮安市淮阴区	jiang su sheng huai an shi huai yin qu	2529
+江苏省淮安市清河区	jiang su sheng huai an shi qing he qu	2531
+江苏省淮安市清浦区	jiang su sheng huai an shi qing pu qu	2528
+江苏省淮安市市辖区	jiang su sheng huai an shi shi xia qu	2532
+江苏省建湖县	jiang su sheng jian hu xian	2515
+江苏省江都市	jiang su sheng jiang du shi	2504
+江苏省姜堰市	jiang su sheng jiang yan shi	2488
+江苏省江阴市	jiang su sheng jiang yin shi	2589
+江苏省金湖县	jiang su sheng jin hu xian	2524
+江苏省金坛市	jiang su sheng jin tan shi	2566
+江苏省靖江市	jiang su sheng jing jiang shi	2490
+江苏省句容市	jiang su sheng ju rong shi	2496
+江苏省昆山市	jiang su sheng kun shan shi	2555
+江苏省溧水县	jiang su sheng li shui xian	2599
+江苏省溧阳市	jiang su sheng li yang shi	2567
+江苏省涟水县	jiang su sheng lian shui xian	2527
+江苏省连云港市	jiang su sheng lian yun gang shi	2542
+江苏省连云港市海州区	jiang su sheng lian yun gang shi hai zhou qu	2538
+江苏省连云港市连云区	jiang su sheng lian yun gang shi lian yun qu	2540
+江苏省连云港市市辖区	jiang su sheng lian yun gang shi shi xia qu	2541
+江苏省连云港市新浦区	jiang su sheng lian yun gang shi xin pu qu	2539
+江苏省南京市	jiang su sheng nan jing shi	2612
+江苏省南京市白下区	jiang su sheng nan jing shi bai xia qu	2609
+江苏省南京市鼓楼区	jiang su sheng nan jing shi gu lou qu	2606
+江苏省南京市建邺区	jiang su sheng nan jing shi jian ye qu	2607
+江苏省南京市江宁区	jiang su sheng nan jing shi jiang ning qu	2601
+江苏省南京市六合区	jiang su sheng nan jing shi liu he qu	2600
+江苏省南京市浦口区	jiang su sheng nan jing shi pu kou qu	2604
+江苏省南京市栖霞区	jiang su sheng nan jing shi qi xia qu	2603
+江苏省南京市秦淮区	jiang su sheng nan jing shi qin huai qu	2608
+江苏省南京市市辖区	jiang su sheng nan jing shi shi xia qu	2611
+江苏省南京市下关区	jiang su sheng nan jing shi xia guan qu	2605
+江苏省南京市玄武区	jiang su sheng nan jing shi xuan wu qu	2610
+江苏省南京市雨花台区	jiang su sheng nan jing shi yu hua tai qu	2602
+江苏省南通市	jiang su sheng nan tong shi	2552
+江苏省南通市崇川区	jiang su sheng nan tong shi chong chuan qu	2550
+江苏省南通市港闸区	jiang su sheng nan tong shi gang zha qu	2549
+江苏省南通市市辖区	jiang su sheng nan tong shi shi xia qu	2551
+江苏省沛县	jiang su sheng pei xian	2579
+江苏省邳州市	jiang su sheng pi zhou shi	2575
+江苏省启东市	jiang su sheng qi dong shi	2546
+江苏省如东县	jiang su sheng ru dong xian	2547
+江苏省如皋市	jiang su sheng ru gao shi	2545
+江苏省射阳县	jiang su sheng she yang xian	2516
+江苏省沭阳县	jiang su sheng shu yang xian	2483
+江苏省泗洪县	jiang su sheng si hong xian	2481
+江苏省泗阳县	jiang su sheng si yang xian	2482
+江苏省宿迁市	jiang su sheng su qian shi	2487
+江苏省宿迁市市辖区	jiang su sheng su qian shi shi xia qu	2486
+江苏省宿迁市宿城区	jiang su sheng su qian shi su cheng qu	2485
+江苏省宿迁市宿豫区	jiang su sheng su qian shi su yu qu	2484
+江苏省苏州市	jiang su sheng su zhou shi	2565
+江苏省苏州市沧浪区	jiang su sheng su zhou shi cang lang qu	2563
+江苏省苏州市虎丘区	jiang su sheng su zhou shi hu qiu qu	2560
+江苏省苏州市金阊区	jiang su sheng su zhou shi jin chang qu	2561
+江苏省苏州市平江区	jiang su sheng su zhou shi ping jiang qu	2562
+江苏省苏州市市辖区	jiang su sheng su zhou shi shi xia qu	2564
+江苏省苏州市吴中区	jiang su sheng su zhou shi wu zhong qu	2559
+江苏省苏州市相城区	jiang su sheng su zhou shi xiang cheng qu	2558
+江苏省睢宁县	jiang su sheng sui ning xian	2577
+江苏省太仓市	jiang su sheng tai cang shi	2553
+江苏省泰兴市	jiang su sheng tai xing shi	2489
+江苏省泰州市	jiang su sheng tai zhou shi	2495
+江苏省泰州市高港区	jiang su sheng tai zhou shi gao gang qu	2492
+江苏省泰州市海陵区	jiang su sheng tai zhou shi hai ling qu	2493
+江苏省泰州市市辖区	jiang su sheng tai zhou shi shi xia qu	2494
+江苏省铜山县	jiang su sheng tong shan xian	2578
+江苏省通州市	jiang su sheng tong zhou shi	2544
+江苏省吴江市	jiang su sheng wu jiang shi	2554
+江苏省无锡市	jiang su sheng wu xi shi	2597
+江苏省无锡市北塘区	jiang su sheng wu xi shi bei tang qu	2593
+江苏省无锡市滨湖区	jiang su sheng wu xi shi bin hu qu	2590
+江苏省无锡市崇安区	jiang su sheng wu xi shi chong an qu	2595
+江苏省无锡市惠山区	jiang su sheng wu xi shi hui shan qu	2591
+江苏省无锡市南长区	jiang su sheng wu xi shi nan chang qu	2594
+江苏省无锡市市辖区	jiang su sheng wu xi shi shi xia qu	2596
+江苏省无锡市锡山区	jiang su sheng wu xi shi xi shan qu	2592
+江苏省响水县	jiang su sheng xiang shui xian	2519
+江苏省新沂市	jiang su sheng xin yi shi	2576
+江苏省兴化市	jiang su sheng xing hua shi	2491
+江苏省盱眙县	jiang su sheng xu yi xian	2525
+江苏省徐州市	jiang su sheng xu zhou shi	2587
+江苏省徐州市鼓楼区	jiang su sheng xu zhou shi gu lou qu	2585
+江苏省徐州市贾汪区	jiang su sheng xu zhou shi jia wang qu	2582
+江苏省徐州市九里区	jiang su sheng xu zhou shi jiu li qu	2583
+江苏省徐州市泉山区	jiang su sheng xu zhou shi quan shan qu	2581
+江苏省徐州市市辖区	jiang su sheng xu zhou shi shi xia qu	2586
+江苏省徐州市云龙区	jiang su sheng xu zhou shi yun long qu	2584
+江苏省盐城市	jiang su sheng yan cheng shi	2523
+江苏省盐城市市辖区	jiang su sheng yan cheng shi shi xia qu	2522
+江苏省盐城市亭湖区	jiang su sheng yan cheng shi ting hu qu	2521
+江苏省盐城市盐都区	jiang su sheng yan cheng shi yan du qu	2520
+江苏省扬中市	jiang su sheng yang zhong shi	2497
+江苏省扬州市	jiang su sheng yang zhou shi	2512
+江苏省扬州市广陵区	jiang su sheng yang zhou shi guang ling qu	2510
+江苏省扬州市邗江区	jiang su sheng yang zhou shi han jiang qu	2509
+江苏省扬州市郊区	jiang su sheng yang zhou shi jiao qu	2508
+江苏省扬州市市辖区	jiang su sheng yang zhou shi shi xia qu	2511
+江苏省宜兴市	jiang su sheng yi xing shi	2588
+江苏省仪征市	jiang su sheng yi zheng shi	2506
+江苏省张家港市	jiang su sheng zhang jia gang shi	2556
+江苏省镇江市	jiang su sheng zhen jiang shi	2503
+江苏省镇江市丹徒区	jiang su sheng zhen jiang shi dan tu qu	2499
+江苏省镇江市京口区	jiang su sheng zhen jiang shi jing kou qu	2501
+江苏省镇江市润州区	jiang su sheng zhen jiang shi run zhou qu	2500
+江苏省镇江市市辖区	jiang su sheng zhen jiang shi shi xia qu	2502
+江西省安福县	jiang xi sheng an fu xian	2046
+江西省安义县	jiang xi sheng an yi xian	2117
+江西省安远县	jiang xi sheng an yuan xian	2070
+江西省崇仁县	jiang xi sheng chong ren xian	2025
+江西省崇义县	jiang xi sheng chong yi xian	2071
+江西省大余县	jiang xi sheng da yu xian	2073
+江西省德安县	jiang xi sheng de an xian	2094
+江西省德兴市	jiang xi sheng de xing shi	2005
+江西省定南县	jiang xi sheng ding nan xian	2068
+江西省东乡县	jiang xi sheng dong xiang xian	2020
+江西省都昌县	jiang xi sheng du chang xian	2092
+江西省分宜县	jiang xi sheng fen yi xian	2084
+江西省丰城市	jiang xi sheng feng cheng shi	2034
+江西省奉新县	jiang xi sheng feng xin xian	2040
+江西省浮梁县	jiang xi sheng fu liang xian	2111
+江西省抚州市	jiang xi sheng fu zhou shi	2031
+江西省抚州市临川区	jiang xi sheng fu zhou shi lin chuan qu	2029
+江西省抚州市市辖区	jiang xi sheng fu zhou shi shi xia qu	2030
+江西省赣县	jiang xi sheng gan xian	2075
+江西省赣州市	jiang xi sheng gan zhou shi	2078
+江西省赣州市市辖区	jiang xi sheng gan zhou shi shi xia qu	2077
+江西省赣州市章贡区	jiang xi sheng gan zhou shi zhang gong qu	2076
+江西省高安市	jiang xi sheng gao an shi	2032
+江西省广昌县	jiang xi sheng guang chang xian	2019
+江西省广丰县	jiang xi sheng guang feng xian	2014
+江西省贵溪市	jiang xi sheng gui xi shi	2079
+江西省横峰县	jiang xi sheng heng feng xian	2011
+江西省湖口县	jiang xi sheng hu kou xian	2091
+江西省会昌县	jiang xi sheng hui chang xian	2063
+江西省吉安市	jiang xi sheng ji an shi	2058
+江西省吉安市吉州区	jiang xi sheng ji an shi ji zhou qu	2056
+江西省吉安市青原区	jiang xi sheng ji an shi qing yuan qu	2055
+江西省吉安市市辖区	jiang xi sheng ji an shi shi xia qu	2057
+江西省吉安县	jiang xi sheng ji an xian	2054
+江西省吉水县	jiang xi sheng ji shui xian	2053
+江西省金溪县	jiang xi sheng jin xi xian	2022
+江西省进贤县	jiang xi sheng jin xian xian	2116
+江西省靖安县	jiang xi sheng jing an xian	2036
+江西省景德镇市	jiang xi sheng jing de zhen shi	2115
+江西省景德镇市昌江区	jiang xi sheng jing de zhen shi chang jiang qu	2113
+江西省景德镇市市辖区	jiang xi sheng jing de zhen shi shi xia qu	2114
+江西省景德镇市珠山区	jiang xi sheng jing de zhen shi zhu shan qu	2112
+江西省井冈山市	jiang xi sheng jing gang shan shi	2044
+江西省九江市	jiang xi sheng jiu jiang shi	2102
+江西省九江市共青城市	jiang xi sheng jiu jiang shi gong qing cheng shi	2088
+江西省九江市庐山区	jiang xi sheng jiu jiang shi lu shan qu	2100
+江西省九江市市辖区	jiang xi sheng jiu jiang shi shi xia qu	2101
+江西省九江市浔阳区	jiang xi sheng jiu jiang shi xun yang qu	2099
+江西省九江县	jiang xi sheng jiu jiang xian	2098
+江西省乐安县	jiang xi sheng le an xian	2024
+江西省乐平市	jiang xi sheng le ping shi	2110
+江西省黎川县	jiang xi sheng li chuan xian	2027
+江西省莲花县	jiang xi sheng lian hua xian	2105
+江西省龙南县	jiang xi sheng long nan xian	2069
+江西省芦溪县	jiang xi sheng lu xi xian	2103
+江西省南昌市	jiang xi sheng nan chang shi	2126
+江西省南昌市东湖区	jiang xi sheng nan chang shi dong hu qu	2124
+江西省南昌市青山湖区	jiang xi sheng nan chang shi qing shan hu qu	2120
+江西省南昌市青云谱区	jiang xi sheng nan chang shi qing yun pu qu	2122
+江西省南昌市市辖区	jiang xi sheng nan chang shi shi xia qu	2125
+江西省南昌市湾里区	jiang xi sheng nan chang shi wan li qu	2121
+江西省南昌市西湖区	jiang xi sheng nan chang shi xi hu qu	2123
+江西省南昌县	jiang xi sheng nan chang xian	2119
+江西省南城县	jiang xi sheng nan cheng xian	2028
+江西省南丰县	jiang xi sheng nan feng xian	2026
+江西省南康市	jiang xi sheng nan kang shi	2059
+江西省宁都县	jiang xi sheng ning du xian	2066
+江西省彭泽县	jiang xi sheng peng ze xian	2090
+江西省萍乡市	jiang xi sheng ping xiang shi	2109
+江西省萍乡市安源区	jiang xi sheng ping xiang shi an yuan qu	2107
+江西省萍乡市市辖区	jiang xi sheng ping xiang shi shi xia qu	2108
+江西省萍乡市湘东区	jiang xi sheng ping xiang shi xiang dong qu	2106
+江西省鄱阳县	jiang xi sheng po yang xian	2008
+江西省全南县	jiang xi sheng quan nan xian	2067
+江西省瑞昌市	jiang xi sheng rui chang shi	2089
+江西省瑞金市	jiang xi sheng rui jin shi	2060
+江西省上高县	jiang xi sheng shang gao xian	2038
+江西省上栗县	jiang xi sheng shang li xian	2104
+江西省上饶市	jiang xi sheng shang rao shi	2018
+江西省上饶市市辖区	jiang xi sheng shang rao shi shi xia qu	2017
+江西省上饶市信州区	jiang xi sheng shang rao shi xin zhou qu	2016
+江西省上饶县	jiang xi sheng shang rao xian	2015
+江西省上犹县	jiang xi sheng shang you xian	2072
+江西省石城县	jiang xi sheng shi cheng xian	2061
+江西省遂川县	jiang xi sheng sui chuan xian	2048
+江西省泰和县	jiang xi sheng tai he xian	2049
+江西省铜鼓县	jiang xi sheng tong gu xian	2035
+江西省万安县	jiang xi sheng wan an xian	2047
+江西省万年县	jiang xi sheng wan nian xian	2007
+江西省万载县	jiang xi sheng wan zai xian	2039
+江西省武宁县	jiang xi sheng wu ning xian	2097
+江西省婺源县	jiang xi sheng wu yuan xian	2006
+江西省峡江县	jiang xi sheng xia jiang xian	2052
+江西省信丰县	jiang xi sheng xin feng xian	2074
+江西省新干县	jiang xi sheng xin gan xian	2051
+江西省新建县	jiang xi sheng xin jian xian	2118
+江西省新余市	jiang xi sheng xin yu shi	2087
+江西省新余市市辖区	jiang xi sheng xin yu shi shi xia qu	2086
+江西省新余市渝水区	jiang xi sheng xin yu shi yu shui qu	2085
+江西省兴国县	jiang xi sheng xing guo xian	2064
+江西省星子县	jiang xi sheng xing zi xian	2093
+江西省修水县	jiang xi sheng xiu shui xian	2096
+江西省寻乌县	jiang xi sheng xun wu xian	2062
+江西省铅山县	jiang xi sheng yan shan xian	2012
+江西省宜春市	jiang xi sheng yi chun shi	2043
+江西省宜春市市辖区	jiang xi sheng yi chun shi shi xia qu	2042
+江西省宜春市袁州区	jiang xi sheng yi chun shi yuan zhou qu	2041
+江西省宜丰县	jiang xi sheng yi feng xian	2037
+江西省宜黄县	jiang xi sheng yi huang xian	2023
+江西省弋阳县	jiang xi sheng yi yang xian	2010
+江西省鹰潭市	jiang xi sheng ying tan shi	2083
+江西省鹰潭市市辖区	jiang xi sheng ying tan shi shi xia qu	2082
+江西省鹰潭市月湖区	jiang xi sheng ying tan shi yue hu qu	2081
+江西省永丰县	jiang xi sheng yong feng xian	2050
+江西省永新县	jiang xi sheng yong xin xian	2045
+江西省永修县	jiang xi sheng yong xiu xian	2095
+江西省于都县	jiang xi sheng yu du xian	2065
+江西省余干县	jiang xi sheng yu gan xian	2009
+江西省余江县	jiang xi sheng yu jiang xian	2080
+江西省玉山县	jiang xi sheng yu shan xian	2013
+江西省樟树市	jiang xi sheng zhang shu shi	2033
+江西省资溪县	jiang xi sheng zi xi xian	2021
+辽宁省鞍山市	liao ning sheng an shan shi	2972
+辽宁省鞍山市立山区	liao ning sheng an shan shi li shan qu	2968
+辽宁省鞍山市千山区	liao ning sheng an shan shi qian shan qu	2967
+辽宁省鞍山市市辖区	liao ning sheng an shan shi shi xia qu	2971
+辽宁省鞍山市铁东区	liao ning sheng an shan shi tie dong qu	2970
+辽宁省鞍山市铁西区	liao ning sheng an shan shi tie xi qu	2969
+辽宁省北宁市	liao ning sheng bei ning shi	2930
+辽宁省北票市	liao ning sheng bei piao shi	2881
+辽宁省本溪满族自治县	liao ning sheng ben xi man zu zi zhi xian	2948
+辽宁省本溪市	liao ning sheng ben xi shi	2954
+辽宁省本溪市明山区	liao ning sheng ben xi shi ming shan qu	2950
+辽宁省本溪市南芬区	liao ning sheng ben xi shi nan fen qu	2949
+辽宁省本溪市平山区	liao ning sheng ben xi shi ping shan qu	2952
+辽宁省本溪市市辖区	liao ning sheng ben xi shi shi xia qu	2953
+辽宁省本溪市溪湖区	liao ning sheng ben xi shi xi hu qu	2951
+辽宁省长海县	liao ning sheng chang hai xian	2976
+辽宁省昌图县	liao ning sheng chang tu xian	2891
+辽宁省朝阳市	liao ning sheng chao yang shi	2888
+辽宁省朝阳市龙城区	liao ning sheng chao yang shi long cheng qu	2885
+辽宁省朝阳市市辖区	liao ning sheng chao yang shi shi xia qu	2887
+辽宁省朝阳市双塔区	liao ning sheng chao yang shi shuang ta qu	2886
+辽宁省朝阳县	liao ning sheng chao yang xian	2884
+辽宁省大连市	liao ning sheng da lian shi	2984
+辽宁省大连市甘井子区	liao ning sheng da lian shi gan jing zi qu	2979
+辽宁省大连市金州区	liao ning sheng da lian shi jin zhou qu	2977
+辽宁省大连市旅顺口区	liao ning sheng da lian shi lv shun kou qu	2978
+辽宁省大连市沙河口区	liao ning sheng da lian shi sha he kou qu	2980
+辽宁省大连市市辖区	liao ning sheng da lian shi shi xia qu	2983
+辽宁省大连市西岗区	liao ning sheng da lian shi xi gang qu	2981
+辽宁省大连市中山区	liao ning sheng da lian shi zhong shan qu	2982
+辽宁省大石桥市	liao ning sheng da shi qiao shi	2922
+辽宁省大洼县	liao ning sheng da wa xian	2899
+辽宁省丹东市	liao ning sheng dan dong shi	2946
+辽宁省丹东市市辖区	liao ning sheng dan dong shi shi xia qu	2945
+辽宁省丹东市元宝区	liao ning sheng dan dong shi yuan bao qu	2944
+辽宁省丹东市振安区	liao ning sheng dan dong shi zhen an qu	2942
+辽宁省丹东市振兴区	liao ning sheng dan dong shi zhen xing qu	2943
+辽宁省灯塔市	liao ning sheng deng ta shi	2904
+辽宁省调兵山市	liao ning sheng diao bing shan shi	2890
+辽宁省东港市	liao ning sheng dong gang shi	2940
+辽宁省法库县	liao ning sheng fa ku xian	2986
+辽宁省凤城市	liao ning sheng feng cheng shi	2939
+辽宁省抚顺市	liao ning sheng fu shun shi	2963
+辽宁省抚顺市东洲区	liao ning sheng fu shun shi dong zhou qu	2960
+辽宁省抚顺市市辖区	liao ning sheng fu shun shi shi xia qu	2962
+辽宁省抚顺市顺城区	liao ning sheng fu shun shi shun cheng qu	2958
+辽宁省抚顺市望花区	liao ning sheng fu shun shi wang hua qu	2959
+辽宁省抚顺市新抚区	liao ning sheng fu shun shi xin fu qu	2961
+辽宁省抚顺县	liao ning sheng fu shun xian	2957
+辽宁省阜新蒙古族自治县	liao ning sheng fu xin meng gu zu zi zhi xian	2914
+辽宁省阜新市	liao ning sheng fu xin shi	2921
+辽宁省阜新市海州区	liao ning sheng fu xin shi hai zhou qu	2919
+辽宁省阜新市清河门区	liao ning sheng fu xin shi qing he men qu	2916
+辽宁省阜新市市辖区	liao ning sheng fu xin shi shi xia qu	2920
+辽宁省阜新市太平区	liao ning sheng fu xin shi tai ping qu	2917
+辽宁省阜新市细河区	liao ning sheng fu xin shi xi he qu	2915
+辽宁省阜新市新邱区	liao ning sheng fu xin shi xin qiu qu	2918
+辽宁省盖州市	liao ning sheng gai zhou shi	2923
+辽宁省海城市	liao ning sheng hai cheng shi	2964
+辽宁省黑山县	liao ning sheng hei shan xian	2933
+辽宁省葫芦岛市	liao ning sheng hu lu dao shi	2879
+辽宁省葫芦岛市连山区	liao ning sheng hu lu dao shi lian shan qu	2877
+辽宁省葫芦岛市龙港区	liao ning sheng hu lu dao shi long gang qu	2876
+辽宁省葫芦岛市南票区	liao ning sheng hu lu dao shi nan piao qu	2875
+辽宁省葫芦岛市市辖区	liao ning sheng hu lu dao shi shi xia qu	2878
+辽宁省桓仁满族自治县	liao ning sheng huan ren man zu zi zhi xian	2947
+辽宁省建昌县	liao ning sheng jian chang xian	2873
+辽宁省建平县	liao ning sheng jian ping xian	2883
+辽宁省锦州市	liao ning sheng jin zhou shi	2938
+辽宁省锦州市古塔区	liao ning sheng jin zhou shi gu ta qu	2936
+辽宁省锦州市凌河区	liao ning sheng jin zhou shi ling he qu	2935
+辽宁省锦州市市辖区	liao ning sheng jin zhou shi shi xia qu	2937
+辽宁省锦州市太和区	liao ning sheng jin zhou shi tai he qu	2934
+辽宁省喀喇沁左翼蒙古族自治县	liao ning sheng ka la qin zuo yi meng gu zu zi zhi xian	2882
+辽宁省开原市	liao ning sheng kai yuan shi	2889
+辽宁省康平县	liao ning sheng kang ping xian	2987
+辽宁省宽甸满族自治县	liao ning sheng kuan dian man zu zi zhi xian	2941
+辽宁省辽阳市	liao ning sheng liao yang shi	2912
+辽宁省辽阳市白塔区	liao ning sheng liao yang shi bai ta qu	2910
+辽宁省辽阳市弓长岭区	liao ning sheng liao yang shi gong chang ling qu	2907
+辽宁省辽阳市宏伟区	liao ning sheng liao yang shi hong wei qu	2908
+辽宁省辽阳市市辖区	liao ning sheng liao yang shi shi xia qu	2911
+辽宁省辽阳市太子河区	liao ning sheng liao yang shi tai zi he qu	2906
+辽宁省辽阳市文圣区	liao ning sheng liao yang shi wen sheng qu	2909
+辽宁省辽阳县	liao ning sheng liao yang xian	2905
+辽宁省辽中县	liao ning sheng liao zhong xian	2988
+辽宁省凌海市	liao ning sheng ling hai shi	2931
+辽宁省凌源市	liao ning sheng ling yuan shi	2880
+辽宁省盘锦市	liao ning sheng pan jin shi	2903
+辽宁省盘锦市市辖区	liao ning sheng pan jin shi shi xia qu	2902
+辽宁省盘锦市双台子区	liao ning sheng pan jin shi shuang tai zi qu	2901
+辽宁省盘锦市兴隆台区	liao ning sheng pan jin shi xing long tai qu	2900
+辽宁省盘山县	liao ning sheng pan shan xian	2898
+辽宁省普兰店市	liao ning sheng pu lan dian shi	2974
+辽宁省清原满族自治县	liao ning sheng qing yuan man zu zi zhi xian	2955
+辽宁省沈阳市	liao ning sheng shen yang shi	2999
+辽宁省沈阳市大东区	liao ning sheng shen yang shi da dong qu	2995
+辽宁省沈阳市东陵区	liao ning sheng shen yang shi dong ling qu	2991
+辽宁省沈阳市和平区	liao ning sheng shen yang shi he ping qu	2997
+辽宁省沈阳市皇姑区	liao ning sheng shen yang shi huang gu qu	2994
+辽宁省沈阳市沈河区	liao ning sheng shen yang shi shen he qu	2996
+辽宁省沈阳市市辖区	liao ning sheng shen yang shi shi xia qu	2998
+辽宁省沈阳市苏家屯区	liao ning sheng shen yang shi su jia tun qu	2992
+辽宁省沈阳市铁西区	liao ning sheng shen yang shi tie xi qu	2993
+辽宁省沈阳市新城子区	liao ning sheng shen yang shi xin cheng zi qu	2990
+辽宁省沈阳市于洪区	liao ning sheng shen yang shi yu hong qu	2989
+辽宁省绥中县	liao ning sheng sui zhong xian	2874
+辽宁省台安县	liao ning sheng tai an xian	2966
+辽宁省铁岭市	liao ning sheng tie ling shi	2897
+辽宁省铁岭市清河区	liao ning sheng tie ling shi qing he qu	2894
+辽宁省铁岭市市辖区	liao ning sheng tie ling shi shi xia qu	2896
+辽宁省铁岭市银州区	liao ning sheng tie ling shi yin zhou qu	2895
+辽宁省铁岭县	liao ning sheng tie ling xian	2893
+辽宁省瓦房店市	liao ning sheng wa fang dian shi	2975
+辽宁省西丰县	liao ning sheng xi feng xian	2892
+辽宁省新宾满族自治县	liao ning sheng xin bin man zu zi zhi xian	2956
+辽宁省新民市	liao ning sheng xin min shi	2985
+辽宁省兴城市	liao ning sheng xing cheng shi	2872
+辽宁省岫岩满族自治县	liao ning sheng xiu yan man zu zi zhi xian	2965
+辽宁省义县	liao ning sheng yi xian	2932
+辽宁省营口市	liao ning sheng ying kou shi	2929
+辽宁省营口市鲅鱼圈区	liao ning sheng ying kou shi ba yu quan qu	2925
+辽宁省营口市老边区	liao ning sheng ying kou shi lao bian qu	2924
+辽宁省营口市市辖区	liao ning sheng ying kou shi shi xia qu	2928
+辽宁省营口市西市区	liao ning sheng ying kou shi xi shi qu	2926
+辽宁省营口市站前区	liao ning sheng ying kou shi zhan qian qu	2927
+辽宁省彰武县	liao ning sheng zhang wu xian	2913
+辽宁省庄河市	liao ning sheng zhuang he shi	2973
+内蒙古阿巴嘎旗	nei meng gu a ba ga qi	3013
+内蒙古阿尔山市	nei meng gu a er shan shi	3021
+内蒙古阿拉善盟	nei meng gu a la shan meng	3003
+内蒙古阿拉善右旗	nei meng gu a la shan you qi	3001
+内蒙古阿拉善左旗	nei meng gu a la shan zuo qi	3002
+内蒙古阿鲁科尔沁旗	nei meng gu a lu ke er qin qi	3088
+内蒙古阿荣旗	nei meng gu a rong qi	3057
+内蒙古敖汉旗	nei meng gu ao han qi	3080
+内蒙古巴林右旗	nei meng gu ba lin you qi	3086
+内蒙古巴林左旗	nei meng gu ba lin zuo qi	3087
+内蒙古巴彦淖尔市	nei meng gu ba yan nao er shi	3045
+内蒙古巴彦淖尔市临河区	nei meng gu ba yan nao er shi lin he qu	3043
+内蒙古巴彦淖尔市市辖区	nei meng gu ba yan nao er shi shi xia qu	3044
+内蒙古包头市	nei meng gu bao tou shi	3109
+内蒙古包头市白云矿区	nei meng gu bao tou shi bai yun kuang qu	3103
+内蒙古包头市东河区	nei meng gu bao tou shi dong he qu	3107
+内蒙古包头市九原区	nei meng gu bao tou shi jiu yuan qu	3102
+内蒙古包头市昆都仑区	nei meng gu bao tou shi kun du lun qu	3106
+内蒙古包头市青山区	nei meng gu bao tou shi qing shan qu	3105
+内蒙古包头市石拐区	nei meng gu bao tou shi shi guai qu	3104
+内蒙古包头市市辖区	nei meng gu bao tou shi shi xia qu	3108
+内蒙古察哈尔右翼后旗	nei meng gu cha ha er you yi hou qi	3026
+内蒙古察哈尔右翼前旗	nei meng gu cha ha er you yi qian qi	3028
+内蒙古察哈尔右翼中旗	nei meng gu cha ha er you yi zhong qi	3027
+内蒙古陈巴尔虎旗	nei meng gu chen ba er hu qi	3053
+内蒙古赤峰城郊	nei meng gu chi feng cheng jiao	4
+内蒙古赤峰市	nei meng gu chi feng shi	3093
+内蒙古赤峰市红山区	nei meng gu chi feng shi hong shan qu	3091
+内蒙古赤峰市市辖区	nei meng gu chi feng shi shi xia qu	3092
+内蒙古赤峰市松山区	nei meng gu chi feng shi song shan qu	3089
+内蒙古赤峰市元宝山区	nei meng gu chi feng shi yuan bao shan qu	3090
+内蒙古达尔罕茂明安联合旗	nei meng gu da er han mao ming an lian he qi	3099
+内蒙古达拉特旗	nei meng gu da la te qi	3067
+内蒙古磴口县	nei meng gu deng kou xian	3041
+内蒙古东乌珠穆沁旗	nei meng gu dong wu zhu mu qin qi	3010
+内蒙古多伦县	nei meng gu duo lun xian	3004
+内蒙古鄂尔多斯市	nei meng gu e er duo si shi	3069
+内蒙古鄂尔多斯市东胜区	nei meng gu e er duo si shi dong sheng qu	3068
+内蒙古额尔古纳市	nei meng gu e er gu na shi	3047
+内蒙古额济纳旗	nei meng gu e ji na qi	3000
+内蒙古鄂伦春自治旗	nei meng gu e lun chun zi zhi qi	3055
+内蒙古鄂托克旗	nei meng gu e tuo ke qi	3064
+内蒙古鄂托克前旗	nei meng gu e tuo ke qian qi	3065
+内蒙古鄂温克族自治旗	nei meng gu e wen ke zu zi zhi qi	3054
+内蒙古二连浩特市	nei meng gu er lian hao te shi	3015
+内蒙古丰镇市	nei meng gu feng zhen shi	3024
+内蒙古根河市	nei meng gu gen he shi	3046
+内蒙古固阳县	nei meng gu gu yang xian	3100
+内蒙古杭锦后旗	nei meng gu hang jin hou qi	3037
+内蒙古杭锦旗	nei meng gu hang jin qi	3063
+内蒙古和林格尔县	nei meng gu he lin ge er xian	3112
+内蒙古呼和浩特市	nei meng gu hu he hao te shi	3120
+内蒙古呼和浩特市回民区	nei meng gu hu he hao te shi hui min qu	3117
+内蒙古呼和浩特市赛罕区	nei meng gu hu he hao te shi sai han qu	3115
+内蒙古呼和浩特市市辖区	nei meng gu hu he hao te shi shi xia qu	3119
+内蒙古呼和浩特市新城区	nei meng gu hu he hao te shi xin cheng qu	3118
+内蒙古呼和浩特市玉泉区	nei meng gu hu he hao te shi yu quan qu	3116
+内蒙古呼伦贝尔市	nei meng gu hu lun bei er shi	3060
+内蒙古呼伦贝尔市海拉尔区	nei meng gu hu lun bei er shi hai la er qu	3058
+内蒙古呼伦贝尔市市辖区	nei meng gu hu lun bei er shi shi xia qu	3059
+内蒙古化德县	nei meng gu hua de xian	3032
+内蒙古霍林郭勒市	nei meng gu huo lin guo le shi	3070
+内蒙古喀喇沁旗	nei meng gu ka la qin qi	3082
+内蒙古开鲁县	nei meng gu kai lu xian	3074
+内蒙古科尔沁郊区	nei meng gu ke er qin jiao qu	3
+内蒙古科尔沁右翼前旗	nei meng gu ke er qin you yi qian qi	3020
+内蒙古科尔沁右翼中旗	nei meng gu ke er qin you yi zhong qi	3019
+内蒙古科尔沁左翼后旗	nei meng gu ke er qin zuo yi hou qi	3075
+内蒙古科尔沁左翼中旗	nei meng gu ke er qin zuo yi zhong qi	3076
+内蒙古克什克腾旗	nei meng gu ke shi ke teng qi	3084
+内蒙古库伦旗	nei meng gu ku lun qi	3073
+内蒙古凉城县	nei meng gu liang cheng xian	3029
+内蒙古林西县	nei meng gu lin xi xian	3085
+内蒙古满洲里市	nei meng gu man zhou li shi	3050
+内蒙古莫力达瓦达斡尔族自治旗	nei meng gu mo li da wa da wo er zu zi zhi qi	3056
+内蒙古奈曼旗	nei meng gu nai man qi	3072
+内蒙古宁城县	nei meng gu ning cheng xian	3081
+内蒙古清水河县	nei meng gu qing shui he xian	3111
+内蒙古商都县	nei meng gu shang du xian	3031
+内蒙古四子王旗	nei meng gu si zi wang qi	3025
+内蒙古苏尼特右旗	nei meng gu su ni te you qi	3011
+内蒙古苏尼特左旗	nei meng gu su ni te zuo qi	3012
+内蒙古太仆寺旗	nei meng gu tai pu si qi	3008
+内蒙古通辽市	nei meng gu tong liao shi	3079
+内蒙古通辽市科尔沁区	nei meng gu tong liao shi ke er qin qu	3077
+内蒙古通辽市市辖区	nei meng gu tong liao shi shi xia qu	3078
+内蒙古土默特右旗	nei meng gu tu mo te you qi	3101
+内蒙古土默特左旗	nei meng gu tu mo te zuo qi	3114
+内蒙古突泉县	nei meng gu tu quan xian	3017
+内蒙古托克托县	nei meng gu tuo ke tuo xian	3113
+内蒙古翁牛特旗	nei meng gu weng niu te qi	3083
+内蒙古武川县	nei meng gu wu chuan xian	3110
+内蒙古乌海市	nei meng gu wu hai shi	3098
+内蒙古乌海市海勃湾区	nei meng gu wu hai shi hai bo wan qu	3096
+内蒙古乌海市海南区	nei meng gu wu hai shi hai nan qu	3095
+内蒙古乌海市市辖区	nei meng gu wu hai shi shi xia qu	3097
+内蒙古乌海市乌达区	nei meng gu wu hai shi wu da qu	3094
+内蒙古乌拉特后旗	nei meng gu wu la te hou qi	3038
+内蒙古乌拉特前旗	nei meng gu wu la te qian qi	3040
+内蒙古乌拉特中旗	nei meng gu wu la te zhong qi	3039
+内蒙古乌兰察布市	nei meng gu wu lan cha bu shi	3036
+内蒙古乌兰察布市集宁区	nei meng gu wu lan cha bu shi ji ning qu	3034
+内蒙古乌兰察布市市辖区	nei meng gu wu lan cha bu shi shi xia qu	3035
+内蒙古乌兰浩特城郊	nei meng gu wu lan hao te cheng jiao	1
+内蒙古乌兰浩特市	nei meng gu wu lan hao te shi	3022
+内蒙古乌审旗	nei meng gu wu shen qi	3062
+内蒙古五原县	nei meng gu wu yuan xian	3042
+内蒙古锡林郭勒盟	nei meng gu xi lin guo le meng	3016
+内蒙古锡林浩特市	nei meng gu xi lin hao te shi	3014
+内蒙古西乌珠穆沁旗	nei meng gu xi wu zhu mu qin qi	3009
+内蒙古镶黄旗	nei meng gu xiang huang qi	3007
+内蒙古新巴尔虎右旗	nei meng gu xin ba er hu you qi	3051
+内蒙古新巴尔虎左旗	nei meng gu xin ba er hu zuo qi	3052
+内蒙古兴安盟	nei meng gu xing an meng	3023
+内蒙古兴和县	nei meng gu xing he xian	3030
+内蒙古牙克石市	nei meng gu ya ke shi shi	3049
+内蒙古伊金霍洛旗	nei meng gu yi jin huo luo qi	3061
+内蒙古伊敏	nei meng gu yi min	2
+内蒙古扎赉特旗	nei meng gu zha lai te qi	3018
+内蒙古扎兰屯市	nei meng gu zha lan tun shi	3048
+内蒙古扎鲁特旗	nei meng gu zha lu te qi	3071
+内蒙古正蓝旗	nei meng gu zheng lan qi	3005
+内蒙古正镶白旗	nei meng gu zheng xiang bai qi	3006
+内蒙古准格尔旗	nei meng gu zhun ge er qi	3066
+内蒙古卓资县	nei meng gu zhuo zi xian	3033
+宁夏固原市	ning xia gu yuan shi	132
+宁夏固原市市辖区	ning xia gu yuan shi shi xia qu	131
+宁夏固原市原州区	ning xia gu yuan shi yuan zhou qu	130
+宁夏海原县	ning xia hai yuan xian	121
+宁夏贺兰县	ning xia he lan xian	146
+宁夏泾源县	ning xia jing yuan xian	127
+宁夏灵武市	ning xia ling wu shi	145
+宁夏隆德县	ning xia long de xian	128
+宁夏彭阳县	ning xia peng yang xian	126
+宁夏平罗县	ning xia ping luo xian	140
+宁夏青铜峡市	ning xia qing tong xia shi	133
+宁夏石嘴山市	ning xia shi zui shan shi	144
+宁夏石嘴山市大武口区	ning xia shi zui shan shi da wu kou qu	142
+宁夏石嘴山市惠农区	ning xia shi zui shan shi hui nong qu	141
+宁夏石嘴山市市辖区	ning xia shi zui shan shi shi xia qu	143
+宁夏同心县	ning xia tong xin xian	134
+宁夏吴忠市	ning xia wu zhong shi	139
+宁夏吴忠市红寺堡区	ning xia wu zhong shi hong si bao qu	136
+宁夏吴忠市利通区	ning xia wu zhong shi li tong qu	137
+宁夏吴忠市市辖区	ning xia wu zhong shi shi xia qu	138
+宁夏西吉县	ning xia xi ji xian	129
+宁夏盐池县	ning xia yan chi xian	135
+宁夏银川市	ning xia yin chuan shi	152
+宁夏银川市金凤区	ning xia yin chuan shi jin feng qu	148
+宁夏银川市市辖区	ning xia yin chuan shi shi xia qu	151
+宁夏银川市西夏区	ning xia yin chuan shi xi xia qu	149
+宁夏银川市兴庆区	ning xia yin chuan shi xing qing qu	150
+宁夏永宁县	ning xia yong ning xian	147
+宁夏中宁县	ning xia zhong ning xian	122
+宁夏中卫市	ning xia zhong wei shi	125
+宁夏中卫市沙坡头区	ning xia zhong wei shi sha po tou qu	123
+宁夏中卫市市辖区	ning xia zhong wei shi shi xia qu	124
+青海省班玛县	qing hai sheng ban ma xian	170
+青海省称多县	qing hai sheng cheng duo xian	162
+青海省达日县	qing hai sheng da ri xian	168
+青海省大通回族土族自治县	qing hai sheng da tong hui zu tu zu zi zhi xian	198
+青海省德令哈市	qing hai sheng de ling ha shi	156
+青海省都兰县	qing hai sheng du lan xian	154
+青海省甘德县	qing hai sheng gan de xian	169
+青海省刚察县	qing hai sheng gang cha xian	184
+青海省格尔木市	qing hai sheng ge er mu shi	157
+青海省共和县	qing hai sheng gong he xian	177
+青海省贵德县	qing hai sheng gui de xian	175
+青海省贵南县	qing hai sheng gui nan xian	173
+青海省果洛藏族自治州	qing hai sheng guo luo zang zu zi zhi zhou	172
+青海省海北藏族自治州	qing hai sheng hai bei zang zu zi zhi zhou	188
+青海省海东地区	qing hai sheng hai dong di qu	195
+青海省海南藏族自治州	qing hai sheng hai nan zang zu zi zhi zhou	178
+青海省海西蒙古族藏族自治州	qing hai sheng hai xi meng gu zu zang zu zi zhi zhou	158
+青海省海晏县	qing hai sheng hai yan xian	185
+青海省河南蒙古族自治县	qing hai sheng he nan meng gu zu zi zhi xian	179
+青海省互助土族自治县	qing hai sheng hu zhu tu zu zi zhi xian	191
+青海省化隆回族自治县	qing hai sheng hua long hui zu zi zhi xian	190
+青海省黄南藏族自治州	qing hai sheng huang nan zang zu zi zhi zhou	183
+青海省湟源县	qing hai sheng huang yuan xian	196
+青海省湟中县	qing hai sheng huang zhong xian	197
+青海省尖扎县	qing hai sheng jian zha xian	181
+青海省久治县	qing hai sheng jiu zhi xian	167
+青海省乐都县	qing hai sheng le du xian	192
+青海省玛多县	qing hai sheng ma duo xian	166
+青海省玛沁县	qing hai sheng ma qin xian	171
+青海省门源回族自治县	qing hai sheng men yuan hui zu zi zhi xian	187
+青海省民和回族土族自治县	qing hai sheng min he hui zu tu zu zi zhi xian	193
+青海省囊谦县	qing hai sheng nang qian xian	160
+青海省平安县	qing hai sheng ping an xian	194
+青海省祁连县	qing hai sheng qi lian xian	186
+青海省曲麻莱县	qing hai sheng qu ma lai xian	159
+青海省天峻县	qing hai sheng tian jun xian	153
+青海省同德县	qing hai sheng tong de xian	176
+青海省同仁县	qing hai sheng tong ren xian	182
+青海省乌兰县	qing hai sheng wu lan xian	155
+青海省西宁市	qing hai sheng xi ning shi	204
+青海省西宁市城北区	qing hai sheng xi ning shi cheng bei qu	199
+青海省西宁市城东区	qing hai sheng xi ning shi cheng dong qu	202
+青海省西宁市城西区	qing hai sheng xi ning shi cheng xi qu	200
+青海省西宁市城中区	qing hai sheng xi ning shi cheng zhong qu	201
+青海省西宁市市辖区	qing hai sheng xi ning shi shi xia qu	203
+青海省兴海县	qing hai sheng xing hai xian	174
+青海省循化撒拉族自治县	qing hai sheng xun hua sa la zu zi zhi xian	189
+青海省玉树县	qing hai sheng yu shu xian	164
+青海省玉树藏族自治州	qing hai sheng yu shu zang zu zi zhi zhou	165
+青海省杂多县	qing hai sheng za duo xian	163
+青海省泽库县	qing hai sheng ze ku xian	180
+青海省治多县	qing hai sheng zhi duo xian	161
+山东省安丘市	shan dong sheng an qiu shi	1927
+山东省滨州市	shan dong sheng bin zhou shi	1847
+山东省滨州市滨城区	shan dong sheng bin zhou shi bin cheng qu	1845
+山东省滨州市市辖区	shan dong sheng bin zhou shi shi xia qu	1846
+山东省博兴县	shan dong sheng bo xing xian	1840
+山东省曹县	shan dong sheng cao xian	1835
+山东省长岛县	shan dong sheng chang dao xian	1946
+山东省昌乐县	shan dong sheng chang le xian	1931
+山东省昌邑市	shan dong sheng chang yi shi	1925
+山东省成武县	shan dong sheng cheng wu xian	1833
+山东省茌平县	shan dong sheng chi ping xian	1852
+山东省德州市	shan dong sheng de zhou shi	1870
+山东省德州市德城区	shan dong sheng de zhou shi de cheng qu	1868
+山东省德州市市辖区	shan dong sheng de zhou shi shi xia qu	1869
+山东省定陶县	shan dong sheng ding tao xian	1829
+山东省东阿县	shan dong sheng dong e xian	1851
+山东省东明县	shan dong sheng dong ming xian	1828
+山东省东平县	shan dong sheng dong ping xian	1905
+山东省东营市	shan dong sheng dong ying shi	1960
+山东省东营市东营区	shan dong sheng dong ying shi dong ying qu	1958
+山东省东营市河口区	shan dong sheng dong ying shi he kou qu	1957
+山东省东营市市辖区	shan dong sheng dong ying shi shi xia qu	1959
+山东省肥城市	shan dong sheng fei cheng shi	1903
+山东省费县	shan dong sheng fei xian	1875
+山东省高密市	shan dong sheng gao mi shi	1926
+山东省高青县	shan dong sheng gao qing xian	1970
+山东省高唐县	shan dong sheng gao tang xian	1849
+山东省冠县	shan dong sheng guan xian	1850
+山东省广饶县	shan dong sheng guang rao xian	1954
+山东省海阳市	shan dong sheng hai yang shi	1939
+山东省荷泽市	shan dong sheng he ze shi	1838
+山东省荷泽市牡丹区	shan dong sheng he ze shi mu dan qu	1836
+山东省荷泽市市辖区	shan dong sheng he ze shi shi xia qu	1837
+山东省桓台县	shan dong sheng huan tai xian	1971
+山东省惠民县	shan dong sheng hui min xian	1844
+山东省即墨市	shan dong sheng ji mo shi	1982
+山东省济南市	shan dong sheng ji nan shi	2004
+山东省济南市长清区	shan dong sheng ji nan shi chang qing qu	1997
+山东省济南市槐荫区	shan dong sheng ji nan shi huai yin qu	2000
+山东省济南市历城区	shan dong sheng ji nan shi li cheng qu	1998
+山东省济南市历下区	shan dong sheng ji nan shi li xia qu	2002
+山东省济南市市辖区	shan dong sheng ji nan shi shi xia qu	2003
+山东省济南市市中区	shan dong sheng ji nan shi shi zhong qu	2001
+山东省济南市天桥区	shan dong sheng ji nan shi tian qiao qu	1999
+山东省济宁市	shan dong sheng ji ning shi	1924
+山东省济宁市任城区	shan dong sheng ji ning shi ren cheng qu	1921
+山东省济宁市市辖区	shan dong sheng ji ning shi shi xia qu	1923
+山东省济宁市市中区	shan dong sheng ji ning shi shi zhong qu	1922
+山东省济阳县	shan dong sheng ji yang xian	1995
+山东省嘉祥县	shan dong sheng jia xiang xian	1917
+山东省胶南市	shan dong sheng jiao nan shi	1980
+山东省胶州市	shan dong sheng jiao zhou shi	1983
+山东省金乡县	shan dong sheng jin xiang xian	1918
+山东省莒南县	shan dong sheng ju nan xian	1873
+山东省莒县	shan dong sheng ju xian	1890
+山东省巨野县	shan dong sheng ju ye xian	1832
+山东省鄄城县	shan dong sheng juan cheng xian	1830
+山东省垦利县	shan dong sheng ken li xian	1956
+山东省莱芜市	shan dong sheng lai wu shi	1889
+山东省莱芜市钢城区	shan dong sheng lai wu shi gang cheng qu	1886
+山东省莱芜市莱城区	shan dong sheng lai wu shi lai cheng qu	1887
+山东省莱芜市市辖区	shan dong sheng lai wu shi shi xia qu	1888
+山东省莱西市	shan dong sheng lai xi shi	1979
+山东省莱阳市	shan dong sheng lai yang shi	1944
+山东省莱州市	shan dong sheng lai zhou shi	1943
+山东省兰陵县	shan dong sheng lan ling xian	1876
+山东省岚山区	shan dong sheng lan shan qu	1893
+山东省乐陵市	shan dong sheng le ling shi	1859
+山东省利津县	shan dong sheng li jin xian	1955
+山东省梁山县	shan dong sheng liang shan xian	1914
+山东省聊城市	shan dong sheng liao cheng shi	1857
+山东省聊城市东昌府区	shan dong sheng liao cheng shi dong chang fu qu	1855
+山东省聊城市市辖区	shan dong sheng liao cheng shi shi xia qu	1856
+山东省临清市	shan dong sheng lin qing shi	1848
+山东省临朐县	shan dong sheng lin qu xian	1932
+山东省临沭县	shan dong sheng lin shu xian	1871
+山东省临沂市	shan dong sheng lin yi shi	1885
+山东省临沂市河东区	shan dong sheng lin yi shi he dong qu	1881
+山东省临沂市兰山区	shan dong sheng lin yi shi lan shan qu	1883
+山东省临沂市临港区	shan dong sheng lin yi shi lin gang qu	1880
+山东省临沂市罗庄区	shan dong sheng lin yi shi luo zhuang qu	1882
+山东省临沂市市辖区	shan dong sheng lin yi shi shi xia qu	1884
+山东省临邑县	shan dong sheng lin yi xian	1864
+山东省陵县	shan dong sheng ling xian	1867
+山东省龙口市	shan dong sheng long kou shi	1945
+山东省蒙阴县	shan dong sheng meng yin xian	1872
+山东省宁津县	shan dong sheng ning jin xian	1866
+山东省宁阳县	shan dong sheng ning yang xian	1906
+山东省蓬莱市	shan dong sheng peng lai shi	1942
+山东省平度市	shan dong sheng ping du shi	1981
+山东省平邑县	shan dong sheng ping yi xian	1874
+山东省平阴县	shan dong sheng ping yin xian	1996
+山东省平原县	shan dong sheng ping yuan xian	1862
+山东省齐河县	shan dong sheng qi he xian	1863
+山东省栖霞市	shan dong sheng qi xia shi	1940
+山东省青岛市	shan dong sheng qing dao shi	1992
+山东省青岛市城阳区	shan dong sheng qing dao shi cheng yang qu	1984
+山东省青岛市黄岛区	shan dong sheng qing dao shi huang dao qu	1987
+山东省青岛市崂山区	shan dong sheng qing dao shi lao shan qu	1986
+山东省青岛市李沧区	shan dong sheng qing dao shi li cang qu	1985
+山东省青岛市市北区	shan dong sheng qing dao shi shi bei qu	1989
+山东省青岛市市南区	shan dong sheng qing dao shi shi nan qu	1990
+山东省青岛市市辖区	shan dong sheng qing dao shi shi xia qu	1991
+山东省青岛市四方区	shan dong sheng qing dao shi si fang qu	1988
+山东省庆云县	shan dong sheng qing yun xian	1865
+山东省青州市	shan dong sheng qing zhou shi	1930
+山东省曲阜市	shan dong sheng qu fu shi	1913
+山东省日照市	shan dong sheng ri zhao shi	1896
+山东省日照市东港区	shan dong sheng ri zhao shi dong gang qu	1894
+山东省日照市开发区	shan dong sheng ri zhao shi kai fa qu	1892
+山东省日照市市辖区	shan dong sheng ri zhao shi shi xia qu	1895
+山东省荣成市	shan dong sheng rong cheng shi	1898
+山东省乳山市	shan dong sheng ru shan shi	1897
+山东省单县	shan dong sheng shan xian	1834
+山东省商河县	shan dong sheng shang he xian	1994
+山东省莘县	shan dong sheng shen xian	1853
+山东省寿光市	shan dong sheng shou guang shi	1928
+山东省泗水县	shan dong sheng si shui xian	1915
+山东省泰安市	shan dong sheng tai an shi	1910
+山东省泰安市岱岳区	shan dong sheng tai an shi dai yue qu	1907
+山东省泰安市市辖区	shan dong sheng tai an shi shi xia qu	1909
+山东省泰安市泰山区	shan dong sheng tai an shi tai shan qu	1908
+山东省郯城县	shan dong sheng tan cheng xian	1878
+山东省滕州市	shan dong sheng teng zhou shi	1961
+山东省潍坊市	shan dong sheng wei fang shi	1938
+山东省潍坊市坊子区	shan dong sheng wei fang shi fang zi qu	1934
+山东省潍坊市寒亭区	shan dong sheng wei fang shi han ting qu	1935
+山东省潍坊市奎文区	shan dong sheng wei fang shi kui wen qu	1933
+山东省潍坊市市辖区	shan dong sheng wei fang shi shi xia qu	1937
+山东省潍坊市潍城区	shan dong sheng wei fang shi wei cheng qu	1936
+山东省威海市	shan dong sheng wei hai shi	1902
+山东省威海市环翠区	shan dong sheng wei hai shi huan cui qu	1900
+山东省威海市市辖区	shan dong sheng wei hai shi shi xia qu	1901
+山东省微山县	shan dong sheng wei shan xian	1920
+山东省文登市	shan dong sheng wen deng shi	1899
+山东省汶上县	shan dong sheng wen shang xian	1916
+山东省武城县	shan dong sheng wu cheng xian	1860
+山东省无棣县	shan dong sheng wu di xian	1842
+山东省五莲县	shan dong sheng wu lian xian	1891
+山东省夏津县	shan dong sheng xia jin xian	1861
+山东省新泰市	shan dong sheng xin tai shi	1904
+山东省烟台市	shan dong sheng yan tai shi	1953
+山东省烟台市福山区	shan dong sheng yan tai shi fu shan qu	1950
+山东省烟台市开发区	shan dong sheng yan tai shi kai fa qu	1947
+山东省烟台市莱山区	shan dong sheng yan tai shi lai shan qu	1948
+山东省烟台市牟平区	shan dong sheng yan tai shi mu ping qu	1949
+山东省烟台市市辖区	shan dong sheng yan tai shi shi xia qu	1952
+山东省烟台市芝罘区	shan dong sheng yan tai shi zhi fu qu	1951
+山东省兖州市	shan dong sheng yan zhou shi	1912
+山东省阳谷县	shan dong sheng yang gu xian	1854
+山东省阳信县	shan dong sheng yang xin xian	1843
+山东省沂南县	shan dong sheng yi nan xian	1879
+山东省沂水县	shan dong sheng yi shui xian	1877
+山东省沂源县	shan dong sheng yi yuan xian	1969
+山东省禹城市	shan dong sheng yu cheng shi	1858
+山东省鱼台县	shan dong sheng yu tai xian	1919
+山东省郓城县	shan dong sheng yun cheng xian	1831
+山东省枣庄市	shan dong sheng zao zhuang shi	1968
+山东省枣庄市山亭区	shan dong sheng zao zhuang shi shan ting qu	1962
+山东省枣庄市市辖区	shan dong sheng zao zhuang shi shi xia qu	1967
+山东省枣庄市市中区	shan dong sheng zao zhuang shi shi zhong qu	1966
+山东省枣庄市台儿庄区	shan dong sheng zao zhuang shi tai er zhuang qu	1963
+山东省枣庄市薛城区	shan dong sheng zao zhuang shi xue cheng qu	1965
+山东省枣庄市峄城区	shan dong sheng zao zhuang shi yi cheng qu	1964
+山东省沾化县	shan dong sheng zhan hua xian	1841
+山东省章丘市	shan dong sheng zhang qiu shi	1993
+山东省招远市	shan dong sheng zhao yuan shi	1941
+山东省诸城市	shan dong sheng zhu cheng shi	1929
+山东省淄博市	shan dong sheng zi bo shi	1978
+山东省淄博市博山区	shan dong sheng zi bo shi bo shan qu	1974
+山东省淄博市临淄区	shan dong sheng zi bo shi lin zi qu	1973
+山东省淄博市市辖区	shan dong sheng zi bo shi shi xia qu	1977
+山东省淄博市张店区	shan dong sheng zi bo shi zhang dian qu	1975
+山东省淄博市周村区	shan dong sheng zi bo shi zhou cun qu	1972
+山东省淄博市淄川区	shan dong sheng zi bo shi zi chuan qu	1976
+山东省邹城市	shan dong sheng zou cheng shi	1911
+山东省邹平县	shan dong sheng zou ping xian	1839
+陕西省安康市	shan xi sheng an kang shi	336
+陕西省安康市汉滨区	shan xi sheng an kang shi han bin qu	334
+陕西省安康市市辖区	shan xi sheng an kang shi shi xia qu	335
+陕西省安塞县	shan xi sheng an sai xian	372
+山西省安泽县	shan xi sheng an ze xian	3146
+陕西省白河县	shan xi sheng bai he xian	325
+陕西省白水县	shan xi sheng bai shui xian	382
+山西省保德县	shan xi sheng bao de xian	3157
+陕西省宝鸡市	shan xi sheng bao ji shi	421
+陕西省宝鸡市陈仓区	shan xi sheng bao ji shi chen cang qu	417
+陕西省宝鸡市金台区	shan xi sheng bao ji shi jin tai qu	418
+陕西省宝鸡市市辖区	shan xi sheng bao ji shi shi xia qu	420
+陕西省宝鸡市渭滨区	shan xi sheng bao ji shi wei bin qu	419
+陕西省彬县	shan xi sheng bin xian	397
+陕西省长武县	shan xi sheng chang wu xian	396
+山西省长治市	shan xi sheng chang zhi shi	3229
+山西省长治市城区	shan xi sheng chang zhi shi cheng qu	3227
+山西省长治市郊区	shan xi sheng chang zhi shi jiao qu	3226
+山西省长治市市辖区	shan xi sheng chang zhi shi shi xia qu	3228
+山西省长治县	shan xi sheng chang zhi xian	3225
+陕西省澄城县	shan xi sheng cheng cheng xian	384
+陕西省城固县	shan xi sheng cheng gu xian	359
+陕西省淳化县	shan xi sheng chun hua xian	394
+陕西省大荔县	shan xi sheng da li xian	386
+山西省大宁县	shan xi sheng da ning xian	3142
+山西省大同市	shan xi sheng da tong shi	3249
+山西省大同市城区	shan xi sheng da tong shi cheng qu	3247
+山西省大同市矿区	shan xi sheng da tong shi kuang qu	3246
+山西省大同市南郊区	shan xi sheng da tong shi nan jiao qu	3245
+山西省大同市市辖区	shan xi sheng da tong shi shi xia qu	3248
+山西省大同市新荣区	shan xi sheng da tong shi xin rong qu	3244
+山西省大同县	shan xi sheng da tong xian	3237
+山西省代县	shan xi sheng dai xian	3165
+陕西省丹凤县	shan xi sheng dan feng xian	320
+陕西省定边县	shan xi sheng ding bian xian	343
+山西省定襄县	shan xi sheng ding xiang xian	3167
+山西省繁峙县	shan xi sheng fan shi xian	3164
+山西省方山县	shan xi sheng fang shan xian	3125
+山西省汾西县	shan xi sheng fen xi xian	3138
+山西省汾阳市	shan xi sheng fen yang shi	3121
+陕西省凤县	shan xi sheng feng xian	409
+陕西省凤翔县	shan xi sheng feng xiang xian	416
+陕西省佛坪县	shan xi sheng fo ping xian	351
+陕西省扶风县	shan xi sheng fu feng xian	414
+陕西省府谷县	shan xi sheng fu gu xian	346
+陕西省富平县	shan xi sheng fu ping xian	381
+山西省浮山县	shan xi sheng fu shan xian	3145
+陕西省富县	shan xi sheng fu xian	368
+陕西省甘泉县	shan xi sheng gan quan xian	369
+陕西省高陵县	shan xi sheng gao ling xian	428
+山西省高平市	shan xi sheng gao ping shi	3207
+山西省古交市	shan xi sheng gu jiao shi	3250
+山西省古县	shan xi sheng gu xian	3147
+山西省广灵县	shan xi sheng guang ling xian	3241
+陕西省韩城市	shan xi sheng han cheng shi	380
+陕西省汉阴县	shan xi sheng han yin xian	333
+陕西省汉中市	shan xi sheng han zhong shi	363
+陕西省汉中市汉台区	shan xi sheng han zhong shi han tai qu	361
+陕西省汉中市市辖区	shan xi sheng han zhong shi shi xia qu	362
+山西省河津市	shan xi sheng he jin shi	3171
+山西省河曲县	shan xi sheng he qu xian	3158
+山西省和顺县	shan xi sheng he shun xian	3193
+陕西省合阳县	shan xi sheng he yang xian	385
+陕西省横山县	shan xi sheng heng shan xian	345
+山西省洪洞县	shan xi sheng hong tong xian	3148
+山西省侯马市	shan xi sheng hou ma shi	3137
+山西省壶关县	shan xi sheng hu guan xian	3220
+陕西省户县	shan xi sheng hu xian	429
+陕西省华县	shan xi sheng hua xian	388
+陕西省华阴市	shan xi sheng hua yin shi	379
+山西省怀仁县	shan xi sheng huai ren xian	3199
+陕西省黄陵县	shan xi sheng huang ling xian	364
+陕西省黄龙县	shan xi sheng huang long xian	365
+山西省浑源县	shan xi sheng hun yuan xian	3239
+山西省霍州市	shan xi sheng huo zhou shi	3136
+山西省稷山县	shan xi sheng ji shan xian	3179
+山西省吉县	shan xi sheng ji xian	3144
+陕西省佳县	shan xi sheng jia xian	340
+山西省绛县	shan xi sheng jiang xian	3177
+山西省交城县	shan xi sheng jiao cheng xian	3131
+山西省交口县	shan xi sheng jiao kou xian	3123
+山西省介休市	shan xi sheng jie xiu shi	3186
+山西省晋城市	shan xi sheng jin cheng shi	3214
+山西省晋城市城区	shan xi sheng jin cheng shi cheng qu	3212
+山西省晋城市市辖区	shan xi sheng jin cheng shi shi xia qu	3213
+山西省晋中市	shan xi sheng jin zhong shi	3198
+山西省晋中市市辖区	shan xi sheng jin zhong shi shi xia qu	3197
+山西省晋中市榆次区	shan xi sheng jin zhong shi yu ci qu	3196
+陕西省靖边县	shan xi sheng jing bian xian	344
+山西省静乐县	shan xi sheng jing le xian	3162
+陕西省泾阳县	shan xi sheng jing yang xian	401
+山西省岢岚县	shan xi sheng ke lan xian	3159
+陕西省岚皋县	shan xi sheng lan gao xian	329
+陕西省蓝田县	shan xi sheng lan tian xian	431
+山西省岚县	shan xi sheng lan xian	3126
+山西省黎城县	shan xi sheng li cheng xian	3221
+陕西省礼泉县	shan xi sheng li quan xian	399
+山西省临汾市	shan xi sheng lin fen shi	3154
+山西省临汾市市辖区	shan xi sheng lin fen shi shi xia qu	3153
+山西省临汾市尧都区	shan xi sheng lin fen shi yao du qu	3152
+山西省临县	shan xi sheng lin xian	3129
+山西省临猗县	shan xi sheng lin yi xian	3182
+陕西省麟游县	shan xi sheng lin you xian	410
+山西省陵川县	shan xi sheng ling chuan xian	3209
+山西省灵丘县	shan xi sheng ling qiu xian	3240
+山西省灵石县	shan xi sheng ling shi xian	3187
+陕西省留坝县	shan xi sheng liu ba xian	352
+山西省柳林县	shan xi sheng liu lin xian	3128
+陕西省陇县	shan xi sheng long xian	412
+山西省娄烦县	shan xi sheng lou fan xian	3251
+山西省潞城市	shan xi sheng lu cheng shi	3215
+陕西省略阳县	shan xi sheng lue yang xian	354
+陕西省洛川县	shan xi sheng luo chuan xian	367
+陕西省洛南县	shan xi sheng luo nan xian	321
+山西省吕梁市	shan xi sheng lv liang shi	3135
+山西省吕梁市离石区	shan xi sheng lv liang shi li shi qu	3133
+山西省吕梁市市辖区	shan xi sheng lv liang shi shi xia qu	3134
+陕西省眉县	shan xi sheng mei xian	413
+陕西省米脂县	shan xi sheng mi zhi xian	341
+陕西省勉县	shan xi sheng mian xian	356
+陕西省南郑县	shan xi sheng nan zheng xian	360
+陕西省宁强县	shan xi sheng ning qiang xian	355
+陕西省宁陕县	shan xi sheng ning shan xian	331
+山西省宁武县	shan xi sheng ning wu xian	3163
+山西省偏关县	shan xi sheng pian guan xian	3156
+山西省平定县	shan xi sheng ping ding xian	3231
+陕西省平利县	shan xi sheng ping li xian	328
+山西省平陆县	shan xi sheng ping lu xian	3174
+山西省平顺县	shan xi sheng ping shun xian	3222
+山西省平遥县	shan xi sheng ping yao xian	3188
+陕西省蒲城县	shan xi sheng pu cheng xian	383
+山西省蒲县	shan xi sheng pu xian	3139
+陕西省岐山县	shan xi sheng qi shan xian	415
+山西省祁县	shan xi sheng qi xian	3189
+陕西省乾县	shan xi sheng qian xian	400
+陕西省千阳县	shan xi sheng qian yang xian	411
+山西省沁水县	shan xi sheng qin shui xian	3211
+山西省沁县	shan xi sheng qin xian	3217
+山西省沁源县	shan xi sheng qin yuan xian	3216
+陕西省清涧县	shan xi sheng qing jian xian	338
+山西省清徐县	shan xi sheng qing xu xian	3253
+山西省曲沃县	shan xi sheng qu wo xian	3151
+山西省芮城县	shan xi sheng rui cheng xian	3173
+陕西省三原县	shan xi sheng san yuan xian	402
+陕西省山阳县	shan xi sheng shan yang xian	318
+山西省山阴县	shan xi sheng shan yin xian	3202
+陕西省商洛市	shan xi sheng shang luo shi	324
+陕西省商洛市商州区	shan xi sheng shang luo shi shang zhou qu	322
+陕西省商洛市市辖区	shan xi sheng shang luo shi shi xia qu	323
+陕西省商南县	shan xi sheng shang nan xian	319
+山西省神池县	shan xi sheng shen chi xian	3161
+陕西省神木县	shan xi sheng shen mu xian	347
+山西省石楼县	shan xi sheng shi lou xian	3127
+陕西省石泉县	shan xi sheng shi quan xian	332
+山西省寿阳县	shan xi sheng shou yang xian	3191
+山西省朔州市	shan xi sheng shuo zhou shi	3206
+山西省朔州市平鲁区	shan xi sheng shuo zhou shi ping lu qu	3203
+山西省朔州市市辖区	shan xi sheng shuo zhou shi shi xia qu	3205
+山西省朔州市朔城区	shan xi sheng shuo zhou shi shuo cheng qu	3204
+陕西省绥德县	shan xi sheng sui de xian	342
+陕西省太白县	shan xi sheng tai bai xian	408
+山西省太谷县	shan xi sheng tai gu xian	3190
+山西省太原市	shan xi sheng tai yuan shi	3261
+山西省太原市尖草坪区	shan xi sheng tai yuan shi jian cao ping qu	3256
+山西省太原市晋源区	shan xi sheng tai yuan shi jin yuan qu	3254
+山西省太原市市辖区	shan xi sheng tai yuan shi shi xia qu	3260
+山西省太原市万柏林区	shan xi sheng tai yuan shi wan bo lin qu	3255
+山西省太原市小店区	shan xi sheng tai yuan shi xiao dian qu	3259
+山西省太原市杏花岭区	shan xi sheng tai yuan shi xing hua ling qu	3257
+山西省太原市迎泽区	shan xi sheng tai yuan shi ying ze qu	3258
+山西省天镇县	shan xi sheng tian zhen xian	3242
+陕西省铜川市	shan xi sheng tong chuan shi	427
+陕西省铜川市市辖区	shan xi sheng tong chuan shi shi xia qu	426
+陕西省铜川市王益区	shan xi sheng tong chuan shi wang yi qu	425
+陕西省铜川市耀州区	shan xi sheng tong chuan shi yao zhou qu	423
+陕西省铜川市印台区	shan xi sheng tong chuan shi yin tai qu	424
+陕西省潼关县	shan xi sheng tong guan xian	387
+山西省屯留县	shan xi sheng tun liu xian	3223
+山西省万荣县	shan xi sheng wan rong xian	3181
+陕西省渭南市	shan xi sheng wei nan shi	391
+陕西省渭南市临渭区	shan xi sheng wei nan shi lin wei qu	389
+陕西省渭南市市辖区	shan xi sheng wei nan shi shi xia qu	390
+山西省文水县	shan xi sheng wen shui xian	3132
+山西省闻喜县	shan xi sheng wen xi xian	3180
+陕西省吴堡县	shan xi sheng wu bao xian	339
+陕西省武功县	shan xi sheng wu gong xian	393
+陕西省吴旗县	shan xi sheng wu qi xian	370
+山西省五台县	shan xi sheng wu tai xian	3166
+山西省武乡县	shan xi sheng wu xiang xian	3218
+山西省五寨县	shan xi sheng wu zhai xian	3160
+陕西省西安市	shan xi sheng xi an shi	442
+陕西省西安市灞桥区	shan xi sheng xi an shi ba qiao qu	437
+陕西省西安市碑林区	shan xi sheng xi an shi bei lin qu	439
+陕西省西安市长安区	shan xi sheng xi an shi chang an qu	432
+陕西省西安市莲湖区	shan xi sheng xi an shi lian hu qu	438
+陕西省西安市临潼区	shan xi sheng xi an shi lin tong qu	433
+陕西省西安市市辖区	shan xi sheng xi an shi shi xia qu	441
+陕西省西安市未央区	shan xi sheng xi an shi wei yang qu	436
+陕西省西安市新城区	shan xi sheng xi an shi xin cheng qu	440
+陕西省西安市阎良区	shan xi sheng xi an shi yan liang qu	434
+陕西省西安市雁塔区	shan xi sheng xi an shi yan ta qu	435
+山西省隰县	shan xi sheng xi xian	3141
+陕西省西乡县	shan xi sheng xi xiang xian	357
+山西省昔阳县	shan xi sheng xi yang xian	3192
+山西省夏县	shan xi sheng xia xian	3175
+陕西省咸阳市	shan xi sheng xian yang shi	407
+陕西省咸阳市秦都区	shan xi sheng xian yang shi qin du qu	405
+陕西省咸阳市市辖区	shan xi sheng xian yang shi shi xia qu	406
+陕西省咸阳市渭城区	shan xi sheng xian yang shi wei cheng qu	403
+陕西省咸阳市杨凌区	shan xi sheng xian yang shi yang ling qu	404
+山西省襄汾县	shan xi sheng xiang fen xian	3149
+山西省乡宁县	shan xi sheng xiang ning xian	3143
+山西省襄垣县	shan xi sheng xiang yuan xian	3224
+山西省孝义市	shan xi sheng xiao yi shi	3122
+山西省新绛县	shan xi sheng xin jiang xian	3178
+山西省忻州市	shan xi sheng xin zhou shi	3170
+山西省忻州市市辖区	shan xi sheng xin zhou shi shi xia qu	3169
+山西省忻州市忻府区	shan xi sheng xin zhou shi xin fu qu	3168
+陕西省兴平市	shan xi sheng xing ping shi	392
+山西省兴县	shan xi sheng xing xian	3130
+陕西省旬阳县	shan xi sheng xun yang xian	326
+陕西省旬邑县	shan xi sheng xun yi xian	395
+陕西省延安市	shan xi sheng yan an shi	378
+陕西省延安市宝塔区	shan xi sheng yan an shi bao ta qu	376
+陕西省延安市市辖区	shan xi sheng yan an shi shi xia qu	377
+陕西省延长县	shan xi sheng yan chang xian	375
+陕西省延川县	shan xi sheng yan chuan xian	374
+山西省阳城县	shan xi sheng yang cheng xian	3210
+山西省阳高县	shan xi sheng yang gao xian	3243
+山西省阳曲县	shan xi sheng yang qu xian	3252
+山西省阳泉市	shan xi sheng yang quan shi	3236
+山西省阳泉市城区	shan xi sheng yang quan shi cheng qu	3234
+山西省阳泉市郊区	shan xi sheng yang quan shi jiao qu	3232
+山西省阳泉市矿区	shan xi sheng yang quan shi kuang qu	3233
+山西省阳泉市市辖区	shan xi sheng yang quan shi shi xia qu	3235
+陕西省洋县	shan xi sheng yang xian	358
+山西省翼城县	shan xi sheng yi cheng xian	3150
+陕西省宜川县	shan xi sheng yi chuan xian	366
+陕西省宜君县	shan xi sheng yi jun xian	422
+山西省应县	shan xi sheng ying xian	3201
+山西省永和县	shan xi sheng yong he xian	3140
+山西省永济市	shan xi sheng yong ji shi	3172
+陕西省永寿县	shan xi sheng yong shou xian	398
+山西省右玉县	shan xi sheng you yu xian	3200
+陕西省榆林市	shan xi sheng yu lin shi	350
+陕西省榆林市市辖区	shan xi sheng yu lin shi shi xia qu	349
+陕西省榆林市榆阳区	shan xi sheng yu lin shi yu yang qu	348
+山西省榆社县	shan xi sheng yu she xian	3195
+山西省盂县	shan xi sheng yu xian	3230
+山西省原平市	shan xi sheng yuan ping shi	3155
+山西省垣曲县	shan xi sheng yuan qu xian	3176
+山西省运城市	shan xi sheng yun cheng shi	3185
+山西省运城市市辖区	shan xi sheng yun cheng shi shi xia qu	3184
+山西省运城市盐湖区	shan xi sheng yun cheng shi yan hu qu	3183
+山西省泽州县	shan xi sheng ze zhou xian	3208
+陕西省柞水县	shan xi sheng zha shui xian	316
+山西省长子县	shan xi sheng zhang zi xian	3219
+陕西省镇安县	shan xi sheng zhen an xian	317
+陕西省镇巴县	shan xi sheng zhen ba xian	353
+陕西省镇坪县	shan xi sheng zhen ping xian	327
+陕西省志丹县	shan xi sheng zhi dan xian	371
+山西省中阳县	shan xi sheng zhong yang xian	3124
+陕西省周至县	shan xi sheng zhou zhi xian	430
+陕西省子长县	shan xi sheng zi chang xian	373
+陕西省紫阳县	shan xi sheng zi yang xian	330
+陕西省子洲县	shan xi sheng zi zhou xian	337
+山西省左权县	shan xi sheng zuo quan xian	3194
+山西省左云县	shan xi sheng zuo yun xian	3238
+上海市宝山区	shang hai shi bao shan qu	2621
+上海市长宁区	shang hai shi chang ning qu	2628
+上海市崇明县	shang hai shi chong ming xian	2613
+上海市奉贤区	shang hai shi feng xian qu	2615
+上海市虹口区	shang hai shi hong kou qu	2624
+上海市黄浦区	shang hai shi huang pu qu	2630
+上海市嘉定区	shang hai shi jia ding qu	2620
+上海市金山区	shang hai shi jin shan qu	2618
+上海市静安区	shang hai shi jing an qu	2627
+上海市闵行区	shang hai shi min hang qu	2622
+上海市浦东新区	shang hai shi pu dong xin qu	2619
+上海市普陀区	shang hai shi pu tuo qu	2626
+上海市青浦区	shang hai shi qing pu qu	2616
+上海市市辖区	shang hai shi shi xia qu	2631
+上海市松江区	shang hai shi song jiang qu	2617
+上海市县	shang hai shi xian	2614
+上海市徐汇区	shang hai shi xu hui qu	2629
+上海市杨浦区	shang hai shi yang pu qu	2623
+上海市闸北区	shang hai shi zha bei qu	2625
+四川省阿坝县	si chuan sheng a ba xian	812
+四川省阿坝藏族羌族自治州	si chuan sheng a ba zang zu qiang zu zi zhi zhou	823
+四川省安县	si chuan sheng an xian	933
+四川省安岳县	si chuan sheng an yue xian	826
+四川省巴塘县	si chuan sheng ba tang xian	794
+四川省巴中市	si chuan sheng ba zhong shi	835
+四川省巴中市巴州区	si chuan sheng ba zhong shi ba zhou qu	833
+四川省巴中市市辖区	si chuan sheng ba zhong shi shi xia qu	834
+四川省白玉县	si chuan sheng bai yu xian	798
+四川省宝兴县	si chuan sheng bao xing xian	836
+四川省北川羌族自治县	si chuan sheng bei chuan qiang zu zi zhi xian	931
+四川省布拖县	si chuan sheng bu tuo xian	781
+四川省苍溪县	si chuan sheng cang xi xian	920
+四川省长宁县	si chuan sheng chang ning xian	867
+四川省成都市	si chuan sheng cheng du shi	992
+四川省成都市成华区	si chuan sheng cheng du shi cheng hua qu	986
+四川省成都市锦江区	si chuan sheng cheng du shi jin jiang qu	990
+四川省成都市金牛区	si chuan sheng cheng du shi jin niu qu	988
+四川省成都市龙泉驿区	si chuan sheng cheng du shi long quan yi qu	985
+四川省成都市青白江区	si chuan sheng cheng du shi qing bai jiang qu	984
+四川省成都市青羊区	si chuan sheng cheng du shi qing yang qu	989
+四川省成都市市辖区	si chuan sheng cheng du shi shi xia qu	991
+四川省成都市温江区	si chuan sheng cheng du shi wen jiang qu	982
+四川省成都市武侯区	si chuan sheng cheng du shi wu hou qu	987
+四川省成都市新都区	si chuan sheng cheng du shi xin du qu	983
+四川省崇州市	si chuan sheng chong zhou shi	972
+四川省达县	si chuan sheng da xian	851
+四川省大邑县	si chuan sheng da yi xian	978
+四川省大英县	si chuan sheng da ying xian	913
+四川省达州市	si chuan sheng da zhou shi	854
+四川省达州市市辖区	si chuan sheng da zhou shi shi xia qu	853
+四川省达州市通川区	si chuan sheng da zhou shi tong chuan qu	852
+四川省大竹县	si chuan sheng da zhu xian	848
+四川省丹巴县	si chuan sheng dan ba xian	806
+四川省丹棱县	si chuan sheng dan ling xian	875
+四川省稻城县	si chuan sheng dao cheng xian	792
+四川省道孚县	si chuan sheng dao fu xian	803
+四川省德昌县	si chuan sheng de chang xian	786
+四川省德格县	si chuan sheng de ge xian	799
+四川省得荣县	si chuan sheng de rong xian	791
+四川省德阳市	si chuan sheng de yang shi	947
+四川省德阳市旌阳区	si chuan sheng de yang shi jing yang qu	945
+四川省德阳市市辖区	si chuan sheng de yang shi shi xia qu	946
+四川省都江堰市	si chuan sheng du jiang yan shi	975
+四川省峨边彝族自治县	si chuan sheng e bian yi zu zi zhi xian	895
+四川省峨眉山市	si chuan sheng e mei shan shi	893
+四川省富顺县	si chuan sheng fu shun xian	964
+四川省甘洛县	si chuan sheng gan luo xian	775
+四川省甘孜县	si chuan sheng gan zi xian	801
+四川省甘孜藏族自治州	si chuan sheng gan zi zang zu zi zhi zhou	809
+四川省高县	si chuan sheng gao xian	866
+四川省珙县	si chuan sheng gong xian	865
+四川省古蔺县	si chuan sheng gu lin xian	948
+四川省广安市	si chuan sheng guang an shi	861
+四川省广安市广安区	si chuan sheng guang an shi guang an qu	859
+四川省广安市市辖区	si chuan sheng guang an shi shi xia qu	860
+四川省广汉市	si chuan sheng guang han shi	942
+四川省广元市	si chuan sheng guang yuan shi	928
+四川省广元市朝天区	si chuan sheng guang yuan shi chao tian qu	924
+四川省广元市市辖区	si chuan sheng guang yuan shi shi xia qu	927
+四川省广元市市中区	si chuan sheng guang yuan shi shi zhong qu	926
+四川省广元市元坝区	si chuan sheng guang yuan shi yuan ba qu	925
+四川省汉源县	si chuan sheng han yuan xian	840
+四川省合江县	si chuan sheng he jiang xian	950
+四川省黑水县	si chuan sheng hei shui xian	815
+四川省洪雅县	si chuan sheng hong ya xian	876
+四川省红原县	si chuan sheng hong yuan xian	810
+四川省华莹市	si chuan sheng hua ying shi	855
+四川省会东县	si chuan sheng hui dong xian	784
+四川省会理县	si chuan sheng hui li xian	785
+四川省夹江县	si chuan sheng jia jiang xian	897
+四川省剑阁县	si chuan sheng jian ge xian	921
+四川省简阳市	si chuan sheng jian yang shi	824
+四川省江安县	si chuan sheng jiang an xian	868
+四川省江油市	si chuan sheng jiang you shi	929
+四川省金川县	si chuan sheng jin chuan xian	817
+四川省金堂县	si chuan sheng jin tang xian	981
+四川省金阳县	si chuan sheng jin yang xian	780
+四川省井研县	si chuan sheng jing yan xian	898
+四川省九龙县	si chuan sheng jiu long xian	805
+四川省九寨沟县	si chuan sheng jiu zhai gou xian	818
+四川省筠连县	si chuan sheng jun lian xian	864
+四川省开江县	si chuan sheng kai jiang xian	849
+四川省康定县	si chuan sheng kang ding xian	808
+四川省阆中市	si chuan sheng lang zhong shi	882
+四川省乐山市	si chuan sheng le shan shi	905
+四川省乐山市金口河区	si chuan sheng le shan shi jin kou he qu	900
+四川省乐山市沙湾区	si chuan sheng le shan shi sha wan qu	902
+四川省乐山市市辖区	si chuan sheng le shan shi shi xia qu	904
+四川省乐山市市中区	si chuan sheng le shan shi shi zhong qu	903
+四川省乐山市五通桥区	si chuan sheng le shan shi wu tong qiao qu	901
+四川省乐至县	si chuan sheng le zhi xian	825
+四川省雷波县	si chuan sheng lei bo xian	773
+四川省理塘县	si chuan sheng li tang xian	795
+四川省理县	si chuan sheng li xian	821
+四川省凉山彝族自治州	si chuan sheng liang shan yi zu zi zhi zhou	790
+四川省邻水县	si chuan sheng lin shui xian	856
+四川省隆昌县	si chuan sheng long chang xian	906
+四川省泸定县	si chuan sheng lu ding xian	807
+四川省炉霍县	si chuan sheng lu huo xian	802
+四川省芦山县	si chuan sheng lu shan xian	837
+四川省泸县	si chuan sheng lu xian	951
+四川省泸州市	si chuan sheng lu zhou shi	956
+四川省泸州市江阳区	si chuan sheng lu zhou shi jiang yang qu	954
+四川省泸州市龙马潭区	si chuan sheng lu zhou shi long ma tan qu	952
+四川省泸州市纳溪区	si chuan sheng lu zhou shi na xi qu	953
+四川省泸州市市辖区	si chuan sheng lu zhou shi shi xia qu	955
+四川省罗江县	si chuan sheng luo jiang xian	943
+四川省马边彝族自治县	si chuan sheng ma bian yi zu zi zhi xian	894
+四川省马尔康县	si chuan sheng ma er kang xian	814
+四川省茂县	si chuan sheng mao xian	820
+四川省美姑县	si chuan sheng mei gu xian	774
+四川省眉山市	si chuan sheng mei shan shi	881
+四川省眉山市东坡区	si chuan sheng mei shan shi dong po qu	879
+四川省眉山市市辖区	si chuan sheng mei shan shi shi xia qu	880
+四川省米易县	si chuan sheng mi yi xian	958
+四川省冕宁县	si chuan sheng mian ning xian	777
+四川省绵阳市	si chuan sheng mian yang shi	939
+四川省绵阳市涪城区	si chuan sheng mian yang shi fu cheng qu	937
+四川省绵阳市市辖区	si chuan sheng mian yang shi shi xia qu	938
+四川省绵阳市游仙区	si chuan sheng mian yang shi you xian qu	936
+四川省绵竹市	si chuan sheng mian zhu shi	940
+四川省名山县	si chuan sheng ming shan xian	842
+四川省沐川县	si chuan sheng mu chuan xian	896
+四川省木里藏族自治县	si chuan sheng mu li zang zu zi zhi xian	788
+四川省南部县	si chuan sheng nan bu xian	887
+四川省南充市	si chuan sheng nan chong shi	892
+四川省南充市高坪区	si chuan sheng nan chong shi gao ping qu	889
+四川省南充市嘉陵区	si chuan sheng nan chong shi jia ling qu	888
+四川省南充市市辖区	si chuan sheng nan chong shi shi xia qu	891
+四川省南充市顺庆区	si chuan sheng nan chong shi shun qing qu	890
+四川省南江县	si chuan sheng nan jiang xian	831
+四川省南溪县	si chuan sheng nan xi xian	869
+四川省内江市	si chuan sheng nei jiang shi	912
+四川省内江市东兴区	si chuan sheng nei jiang shi dong xing qu	909
+四川省内江市市辖区	si chuan sheng nei jiang shi shi xia qu	911
+四川省内江市市中区	si chuan sheng nei jiang shi shi zhong qu	910
+四川省宁南县	si chuan sheng ning nan xian	783
+四川省攀枝花市	si chuan sheng pan zhi hua shi	963
+四川省攀枝花市东区	si chuan sheng pan zhi hua shi dong qu	961
+四川省攀枝花市仁和区	si chuan sheng pan zhi hua shi ren he qu	959
+四川省攀枝花市市辖区	si chuan sheng pan zhi hua shi shi xia qu	962
+四川省攀枝花市西区	si chuan sheng pan zhi hua shi xi qu	960
+四川省蓬安县	si chuan sheng peng an xian	885
+四川省彭山县	si chuan sheng peng shan xian	877
+四川省蓬溪县	si chuan sheng peng xi xian	915
+四川省彭州市	si chuan sheng peng zhou shi	974
+四川省郫县	si chuan sheng pi xian	979
+四川省平昌县	si chuan sheng ping chang xian	830
+四川省屏山县	si chuan sheng ping shan xian	862
+四川省平武县	si chuan sheng ping wu xian	930
+四川省普格县	si chuan sheng pu ge xian	782
+四川省蒲江县	si chuan sheng pu jiang xian	977
+四川省犍为县	si chuan sheng qian wei xian	899
+四川省青川县	si chuan sheng qing chuan xian	922
+四川省青神县	si chuan sheng qing shen xian	874
+四川省邛崃市	si chuan sheng qiong lai shi	973
+四川省渠县	si chuan sheng qu xian	847
+四川省壤塘县	si chuan sheng rang tang xian	813
+四川省仁寿县	si chuan sheng ren shou xian	878
+四川省荣县	si chuan sheng rong xian	965
+四川省若尔盖县	si chuan sheng ruo er gai xian	811
+四川省三台县	si chuan sheng san tai xian	935
+四川省色达县	si chuan sheng se da xian	796
+四川省射洪县	si chuan sheng she hong xian	914
+四川省什邡市	si chuan sheng shi fang shi	941
+四川省石棉县	si chuan sheng shi mian xian	839
+四川省石渠县	si chuan sheng shi qu xian	797
+四川省双流县	si chuan sheng shuang liu xian	980
+四川省松潘县	si chuan sheng song pan xian	819
+四川省遂宁市	si chuan sheng sui ning shi	919
+四川省遂宁市安居区	si chuan sheng sui ning shi an ju qu	916
+四川省遂宁市船山区	si chuan sheng sui ning shi chuan shan qu	917
+四川省遂宁市市辖区	si chuan sheng sui ning shi shi xia qu	918
+四川省天全县	si chuan sheng tian quan xian	838
+四川省通江县	si chuan sheng tong jiang xian	832
+四川省万源市	si chuan sheng wan yuan shi	846
+四川省旺苍县	si chuan sheng wang cang xian	923
+四川省威远县	si chuan sheng wei yuan xian	908
+四川省汶川县	si chuan sheng wen chuan xian	822
+四川省武胜县	si chuan sheng wu sheng xian	857
+四川省西昌市	si chuan sheng xi chang shi	789
+四川省西充县	si chuan sheng xi chong xian	883
+四川省喜德县	si chuan sheng xi de xian	778
+四川省乡城县	si chuan sheng xiang cheng xian	793
+四川省小金县	si chuan sheng xiao jin xian	816
+四川省新津县	si chuan sheng xin jin xian	976
+四川省新龙县	si chuan sheng xin long xian	800
+四川省兴文县	si chuan sheng xing wen xian	863
+四川省叙永县	si chuan sheng xu yong xian	949
+四川省宣汉县	si chuan sheng xuan han xian	850
+四川省雅安市	si chuan sheng ya an shi	845
+四川省雅安市市辖区	si chuan sheng ya an shi shi xia qu	844
+四川省雅安市雨城区	si chuan sheng ya an shi yu cheng qu	843
+四川省雅江县	si chuan sheng ya jiang xian	804
+四川省盐边县	si chuan sheng yan bian xian	957
+四川省盐亭县	si chuan sheng yan ting xian	934
+四川省盐源县	si chuan sheng yan yuan xian	787
+四川省宜宾市	si chuan sheng yi bin shi	873
+四川省宜宾市翠屏区	si chuan sheng yi bin shi cui ping qu	871
+四川省宜宾市市辖区	si chuan sheng yi bin shi shi xia qu	872
+四川省宜宾县	si chuan sheng yi bin xian	870
+四川省仪陇县	si chuan sheng yi long xian	884
+四川省荥经县	si chuan sheng ying jing xian	841
+四川省营山县	si chuan sheng ying shan xian	886
+四川省岳池县	si chuan sheng yue chi xian	858
+四川省越西县	si chuan sheng yue xi xian	776
+四川省昭觉县	si chuan sheng zhao jue xian	779
+四川省中江县	si chuan sheng zhong jiang xian	944
+四川省自贡市	si chuan sheng zi gong shi	971
+四川省自贡市大安区	si chuan sheng zi gong shi da an qu	967
+四川省自贡市贡井区	si chuan sheng zi gong shi gong jing qu	968
+四川省自贡市市辖区	si chuan sheng zi gong shi shi xia qu	970
+四川省自贡市沿滩区	si chuan sheng zi gong shi yan tan qu	966
+四川省自贡市自流井区	si chuan sheng zi gong shi zi liu jing qu	969
+四川省梓潼县	si chuan sheng zi tong xian	932
+四川省资阳市	si chuan sheng zi yang shi	829
+四川省资阳市市辖区	si chuan sheng zi yang shi shi xia qu	828
+四川省资阳市雁江区	si chuan sheng zi yang shi yan jiang qu	827
+四川省资中县	si chuan sheng zi zhong xian	907
+天津市宝坻区	tian jin shi bao di qu	3460
+天津市北辰区	tian jin shi bei chen qu	3462
+天津市大港区	tian jin shi da gang qu	3466
+天津市东丽区	tian jin shi dong li qu	3465
+天津市汉沽区	tian jin shi han gu qu	3467
+天津市河北区	tian jin shi he bei qu	3470
+天津市河东区	tian jin shi he dong qu	3473
+天津市和平区	tian jin shi he ping qu	3474
+天津市河西区	tian jin shi he xi qu	3472
+天津市红桥区	tian jin shi hong qiao qu	3469
+天津市蓟县	tian jin shi ji xian	3456
+天津市津南区	tian jin shi jin nan qu	3463
+天津市静海县	tian jin shi jing hai xian	3457
+天津市南开区	tian jin shi nan kai qu	3471
+天津市宁河县	tian jin shi ning he xian	3458
+天津市市辖区	tian jin shi shi xia qu	3475
+天津市塘沽区	tian jin shi tang gu qu	3468
+天津市武清区	tian jin shi wu qing qu	3461
+天津市西青区	tian jin shi xi qing qu	3464
+天津市县	tian jin shi xian	3459
+五大农垦建三江农场总局	wu da nong ken jian san jiang nong chang zong ju	2682
+西藏阿里地区	xi zang a li di qu	458
+西藏安多县	xi zang an duo xian	464
+西藏昂仁县	xi zang ang ren xian	481
+西藏巴青县	xi zang ba qing xian	460
+西藏八宿县	xi zang ba su xian	506
+西藏白朗县	xi zang bai lang xian	479
+西藏班戈县	xi zang ban ge xian	461
+西藏比如县	xi zang bi ru xian	466
+西藏边坝县	xi zang bian ba xian	502
+西藏波密县	xi zang bo mi xian	445
+西藏察雅县	xi zang cha ya xian	507
+西藏察隅县	xi zang cha yu xian	444
+西藏昌都地区	xi zang chang du di qu	513
+西藏昌都县	xi zang chang du xian	512
+西藏措美县	xi zang cuo mei xian	494
+西藏错那县	xi zang cuo na xian	490
+西藏措勤县	xi zang cuo qin xian	451
+西藏达孜县	xi zang da zi xian	515
+西藏当雄县	xi zang dang xiong xian	519
+西藏定结县	xi zang ding jie xian	476
+西藏丁青县	xi zang ding qing xian	508
+西藏定日县	xi zang ding ri xian	484
+西藏堆龙德庆县	xi zang dui long de qing xian	516
+西藏噶尔县	xi zang ga er xian	455
+西藏改则县	xi zang gai ze xian	452
+西藏岗巴县	xi zang gang ba xian	470
+西藏革吉县	xi zang ge ji xian	453
+西藏工布江达县	xi zang gong bu jiang da xian	448
+西藏贡嘎县	xi zang gong ga xian	498
+西藏贡觉县	xi zang gong jue xian	510
+西藏吉隆县	xi zang ji long xian	473
+西藏加查县	xi zang jia cha xian	492
+西藏嘉黎县	xi zang jia li xian	467
+西藏江达县	xi zang jiang da xian	511
+西藏江孜县	xi zang jiang zi xian	485
+西藏康马县	xi zang kang ma xian	477
+西藏拉萨市	xi zang la sa shi	523
+西藏拉萨市城关区	xi zang la sa shi cheng guan qu	521
+西藏拉萨市市辖区	xi zang la sa shi shi xia qu	522
+西藏拉孜县	xi zang la zi xian	482
+西藏浪卡子县	xi zang lang ka zi xian	489
+西藏朗县	xi zang lang xian	443
+西藏类乌齐县	xi zang lei wu qi xian	509
+西藏林芝地区	xi zang lin zhi di qu	450
+西藏林芝县	xi zang lin zhi xian	449
+西藏林周县	xi zang lin zhou xian	520
+西藏隆子县	xi zang long zi xian	491
+西藏洛隆县	xi zang luo long xian	503
+西藏洛扎县	xi zang luo zha xian	493
+西藏芒康县	xi zang mang kang xian	504
+西藏米林县	xi zang mi lin xian	447
+西藏墨脱县	xi zang mo tuo xian	446
+西藏墨竹工卡县	xi zang mo zhu gong ka xian	514
+西藏那曲地区	xi zang na qu di qu	469
+西藏那曲县	xi zang na qu xian	468
+西藏乃东县	xi zang nai dong xian	500
+西藏南木林县	xi zang nan mu lin xian	486
+西藏尼玛县	xi zang ni ma xian	459
+西藏尼木县	xi zang ni mu xian	518
+西藏聂拉木县	xi zang nie la mu xian	472
+西藏聂荣县	xi zang nie rong xian	465
+西藏普兰县	xi zang pu lan xian	457
+西藏琼结县	xi zang qiong jie xian	496
+西藏曲水县	xi zang qu shui xian	517
+西藏曲松县	xi zang qu song xian	495
+西藏仁布县	xi zang ren bu xian	478
+西藏日喀则地区	xi zang ri ka ze di qu	488
+西藏日喀则市	xi zang ri ka ze shi	487
+西藏日土县	xi zang ri tu xian	454
+西藏萨嘎县	xi zang sa ga xian	471
+西藏萨迦县	xi zang sa jia xian	483
+西藏桑日县	xi zang sang ri xian	497
+西藏山南地区	xi zang shan nan di qu	501
+西藏申扎县	xi zang shen zha xian	463
+西藏索县	xi zang suo xian	462
+西藏谢通门县	xi zang xie tong men xian	480
+西藏亚东县	xi zang ya dong xian	474
+西藏札达县	xi zang zha da xian	456
+西藏扎囊县	xi zang zha nang xian	499
+西藏仲巴县	xi zang zhong ba xian	475
+西藏左贡县	xi zang zuo gong xian	505
+新疆阿合奇县	xin jiang a he qi xian	60
+新疆阿克苏地区	xin jiang a ke su di qu	73
+新疆阿克苏市	xin jiang a ke su shi	72
+新疆阿克陶县	xin jiang a ke tao xian	61
+新疆阿拉尔市	xin jiang a la er shi	7
+新疆阿勒泰地区	xin jiang a le tai di qu	17
+新疆阿勒泰市	xin jiang a le tai shi	16
+新疆阿图什市	xin jiang a tu shi shi	62
+新疆阿瓦提县	xin jiang a wa ti xian	65
+新疆巴楚县	xin jiang ba chu xian	47
+新疆巴里坤哈萨克自治县	xin jiang ba li kun ha sa ke zi zhi xian	98
+新疆巴音郭楞蒙古自治州	xin jiang ba yin guo leng meng gu zi zhi zhou	83
+新疆拜城县	xin jiang bai cheng xian	67
+新疆博尔塔拉蒙古自治州	xin jiang bo er ta la meng gu zi zhi zhou	87
+新疆博湖县	xin jiang bo hu xian	74
+新疆博乐市	xin jiang bo le shi	86
+新疆布尔津县	xin jiang bu er jin xian	15
+新疆策勒县	xin jiang ce le xian	39
+新疆察布查尔锡伯自治县	xin jiang cha bu cha er xi bo zi zhi xian	32
+新疆昌吉回族自治州	xin jiang chang ji hui zu zi zhi zhou	96
+新疆昌吉市	xin jiang chang ji shi	95
+新疆额敏县	xin jiang e min xian	22
+新疆福海县	xin jiang fu hai xian	13
+新疆阜康市	xin jiang fu kang shi	94
+新疆富蕴县	xin jiang fu yun xian	14
+新疆巩留县	xin jiang gong liu xian	30
+新疆哈巴河县	xin jiang ha ba he xian	12
+新疆哈密地区	xin jiang ha mi di qu	100
+新疆哈密市	xin jiang ha mi shi	99
+新疆和布克赛尔蒙古自治县	xin jiang he bu ke sai er meng gu zi zhi xian	18
+新疆和静县	xin jiang he jing xian	76
+新疆和硕县	xin jiang he shuo xian	75
+新疆和田地区	xin jiang he tian di qu	45
+新疆和田市	xin jiang he tian shi	44
+新疆和田县	xin jiang he tian xian	43
+新疆呼图壁县	xin jiang hu tu bi xian	92
+新疆霍城县	xin jiang huo cheng xian	31
+新疆吉木乃县	xin jiang ji mu nai xian	10
+新疆吉木萨尔县	xin jiang ji mu sa er xian	89
+新疆伽师县	xin jiang jia shi xian	48
+新疆精河县	xin jiang jing he xian	85
+新疆喀什地区	xin jiang ka shi di qu	58
+新疆喀什市	xin jiang ka shi shi	57
+新疆克拉玛依市	xin jiang ke la ma yi shi	110
+新疆克拉玛依市白碱滩区	xin jiang ke la ma yi shi bai jian tan qu	106
+新疆克拉玛依市独山子区	xin jiang ke la ma yi shi du shan zi qu	108
+新疆克拉玛依市克拉玛依区	xin jiang ke la ma yi shi ke la ma yi qu	107
+新疆克拉玛依市市辖区	xin jiang ke la ma yi shi shi xia qu	109
+新疆克拉玛依市吐鲁番地区	xin jiang ke la ma yi shi tu lu fan di qu	104
+新疆克拉玛依市乌尔禾区	xin jiang ke la ma yi shi wu er he qu	105
+新疆柯坪县	xin jiang ke ping xian	64
+新疆克孜勒苏柯尔克孜自治州	xin jiang ke zi le su ke er ke zi zi zhi zhou	63
+新疆库车县	xin jiang ku che xian	70
+新疆库尔勒市	xin jiang ku er le shi	82
+新疆奎屯市	xin jiang kui tun shi	34
+新疆轮台县	xin jiang lun tai xian	81
+新疆洛浦县	xin jiang luo pu xian	40
+新疆玛纳斯县	xin jiang ma na si xian	91
+新疆麦盖提县	xin jiang mai gai ti xian	50
+新疆米泉市	xin jiang mi quan shi	93
+新疆民丰县	xin jiang min feng xian	37
+新疆墨玉县	xin jiang mo yu xian	42
+新疆木垒哈萨克自治县	xin jiang mu lei ha sa ke zi zhi xian	88
+新疆尼勒克县	xin jiang ni le ke xian	26
+新疆皮山县	xin jiang pi shan xian	41
+新疆奇台县	xin jiang qi tai xian	90
+新疆且末县	xin jiang qie mo xian	78
+新疆青河县	xin jiang qing he xian	11
+新疆若羌县	xin jiang ruo qiang xian	79
+新疆莎车县	xin jiang sha che xian	52
+新疆沙湾县	xin jiang sha wan xian	21
+新疆沙雅县	xin jiang sha ya xian	69
+新疆鄯善县	xin jiang shan shan xian	102
+新疆省直辖行政单位	xin jiang sheng zhi xia xing zheng dan wei	9
+新疆石河子市	xin jiang shi he zi shi	8
+新疆疏附县	xin jiang shu fu xian	56
+新疆疏勒县	xin jiang shu le xian	55
+新疆塔城地区	xin jiang ta cheng di qu	25
+新疆塔城市	xin jiang ta cheng shi	24
+新疆塔什库尔干塔吉克自治县	xin jiang ta shi ku er gan ta ji ke zi zhi xian	46
+新疆特克斯县	xin jiang te ke si xian	27
+新疆吐鲁番市	xin jiang tu lu fan shi	103
+新疆图木舒克市	xin jiang tu mu shu ke shi	6
+新疆托克逊县	xin jiang tuo ke xun xian	101
+新疆托里县	xin jiang tuo li xian	20
+新疆温泉县	xin jiang wen quan xian	84
+新疆温宿县	xin jiang wen su xian	71
+新疆五家渠市	xin jiang wu jia qu shi	5
+新疆乌鲁木齐市	xin jiang wu lu mu qi shi	120
+新疆乌鲁木齐市达坂城区	xin jiang wu lu mu qi shi da ban cheng qu	113
+新疆乌鲁木齐市东山区	xin jiang wu lu mu qi shi dong shan qu	112
+新疆乌鲁木齐市沙依巴克区	xin jiang wu lu mu qi shi sha yi ba ke qu	117
+新疆乌鲁木齐市市辖区	xin jiang wu lu mu qi shi shi xia qu	119
+新疆乌鲁木齐市水磨沟区	xin jiang wu lu mu qi shi shui mo gou qu	115
+新疆乌鲁木齐市天山区	xin jiang wu lu mu qi shi tian shan qu	118
+新疆乌鲁木齐市头屯河区	xin jiang wu lu mu qi shi tou tun he qu	114
+新疆乌鲁木齐市新市区	xin jiang wu lu mu qi shi xin shi qu	116
+新疆乌鲁木齐县	xin jiang wu lu mu qi xian	111
+新疆乌恰县	xin jiang wu qia xian	59
+新疆乌什县	xin jiang wu shi xian	66
+新疆乌苏市	xin jiang wu su shi	23
+新疆新和县	xin jiang xin he xian	68
+新疆新源县	xin jiang xin yuan xian	29
+新疆焉耆回族自治县	xin jiang yan qi hui zu zi zhi xian	77
+新疆叶城县	xin jiang ye cheng xian	51
+新疆伊犁哈萨克自治州	xin jiang yi li ha sa ke zi zhi zhou	36
+新疆伊宁市	xin jiang yi ning shi	35
+新疆伊宁县	xin jiang yi ning xian	33
+新疆伊吾县	xin jiang yi wu xian	97
+新疆英吉沙县	xin jiang ying ji sha xian	54
+新疆尉犁县	xin jiang yu li xian	80
+新疆裕民县	xin jiang yu min xian	19
+新疆于田县	xin jiang yu tian xian	38
+新疆岳普湖县	xin jiang yue pu hu xian	49
+新疆泽普县	xin jiang ze pu xian	53
+新疆昭苏县	xin jiang zhao su xian	28
+亦庄开发区	yi zhuang kai fa qu	3479
+云南省安宁市	yun nan sheng an ning shi	657
+云南省保山市	yun nan sheng bao shan shi	635
+云南省保山市隆阳区	yun nan sheng bao shan shi long yang qu	633
+云南省保山市市辖区	yun nan sheng bao shan shi shi xia qu	634
+云南省宾川县	yun nan sheng bin chuan xian	547
+云南省沧源佤族自治县	yun nan sheng cang yuan wa zu zi zhi xian	590
+云南省昌宁县	yun nan sheng chang ning xian	629
+云南省呈贡县	yun nan sheng cheng gong xian	665
+云南省澄江县	yun nan sheng cheng jiang xian	641
+云南省楚雄市	yun nan sheng chu xiong shi	588
+云南省楚雄彝族自治州	yun nan sheng chu xiong yi zu zi zhi zhou	589
+云南省大关县	yun nan sheng da guan xian	622
+云南省大理白族自治州	yun nan sheng da li bai zu zi zhi zhou	551
+云南省大理市	yun nan sheng da li shi	550
+云南省大姚县	yun nan sheng da yao xian	583
+云南省德宏傣族景颇族自治州	yun nan sheng de hong dai zu jing po zu zi zhi zhou	538
+云南省德钦县	yun nan sheng de qin xian	525
+云南省迪庆藏族自治州	yun nan sheng di qing zang zu zi zhi zhou	527
+云南省峨山彝族自治县	yun nan sheng e shan yi zu zi zhi xian	637
+云南省洱源县	yun nan sheng er yuan xian	541
+云南省凤庆县	yun nan sheng feng qing xian	595
+云南省福贡县	yun nan sheng fu gong xian	530
+云南省富民县	yun nan sheng fu min xian	663
+云南省富宁县	yun nan sheng fu ning xian	556
+云南省富源县	yun nan sheng fu yuan xian	649
+云南省个旧市	yun nan sheng ge jiu shi	577
+云南省耿马傣族佤族自治县	yun nan sheng geng ma dai zu wa zu zi zhi xian	591
+云南省贡山独龙族怒族自治县	yun nan sheng gong shan du long zu nu zu zi zhi xian	529
+云南省广南县	yun nan sheng guang nan xian	557
+云南省河口瑶族自治县	yun nan sheng he kou yao zu zi zhi xian	565
+云南省鹤庆县	yun nan sheng he qing xian	539
+云南省红河哈尼族彝族自治州	yun nan sheng hong he ha ni zu yi zu zi zhi zhou	578
+云南省红河县	yun nan sheng hong he xian	568
+云南省华宁县	yun nan sheng hua ning xian	639
+云南省华坪县	yun nan sheng hua ping xian	610
+云南省会泽县	yun nan sheng hui ze xian	648
+云南省剑川县	yun nan sheng jian chuan xian	540
+云南省建水县	yun nan sheng jian shui xian	573
+云南省江城哈尼族彝族自治县	yun nan sheng jiang cheng ha ni zu yi zu zi zhi xian	601
+云南省江川县	yun nan sheng jiang chuan xian	642
+云南省晋宁县	yun nan sheng jin ning xian	664
+云南省金平苗族瑶族傣族自治县	yun nan sheng jin ping miao zu yao zu dai zu zi zhi xian	567
+云南省景东彝族自治县	yun nan sheng jing dong yi zu zi zhi xian	603
+云南省景谷傣族彝族自治县	yun nan sheng jing gu dai zu yi zu zi zhi xian	602
+云南省景洪市	yun nan sheng jing hong shi	554
+云南省开远市	yun nan sheng kai yuan shi	576
+云南省昆明市	yun nan sheng kun ming shi	672
+云南省昆明市东川区	yun nan sheng kun ming shi dong chuan qu	666
+云南省昆明市官渡区	yun nan sheng kun ming shi guan du qu	668
+云南省昆明市盘龙区	yun nan sheng kun ming shi pan long qu	669
+云南省昆明市市辖区	yun nan sheng kun ming shi shi xia qu	671
+云南省昆明市五华区	yun nan sheng kun ming shi wu hua qu	670
+云南省昆明市西山区	yun nan sheng kun ming shi xi shan qu	667
+云南省澜沧拉祜族自治县	yun nan sheng lan cang la hu zu zi zhi xian	600
+云南省兰坪白族普米族自治县	yun nan sheng lan ping bai zu pu mi zu zi zhi xian	528
+云南省丽江市	yun nan sheng li jiang shi	615
+云南省丽江市古城区	yun nan sheng li jiang shi gu cheng qu	613
+云南省丽江市市辖区	yun nan sheng li jiang shi shi xia qu	614
+云南省梁河县	yun nan sheng liang he xian	535
+云南省临沧市	yun nan sheng lin cang shi	598
+云南省临沧市临翔区	yun nan sheng lin cang shi lin xiang qu	596
+云南省临沧市市辖区	yun nan sheng lin cang shi shi xia qu	597
+云南省陇川县	yun nan sheng long chuan xian	533
+云南省龙陵县	yun nan sheng long ling xian	630
+云南省鲁甸县	yun nan sheng lu dian xian	625
+云南省禄丰县	yun nan sheng lu feng xian	579
+云南省陆良县	yun nan sheng lu liang xian	652
+云南省禄劝彝族苗族自治县	yun nan sheng lu quan yi zu miao zu zi zhi xian	659
+云南省泸水县	yun nan sheng lu shui xian	531
+云南省潞西市	yun nan sheng lu xi shi	536
+云南省泸西县	yun nan sheng lu xi xian	570
+云南省罗平县	yun nan sheng luo ping xian	650
+云南省绿春县	yun nan sheng lv chun xian	566
+云南省马关县	yun nan sheng ma guan xian	559
+云南省麻栗坡县	yun nan sheng ma li po xian	560
+云南省马龙县	yun nan sheng ma long xian	653
+云南省勐海县	yun nan sheng meng hai xian	553
+云南省勐腊县	yun nan sheng meng la xian	552
+云南省蒙自县	yun nan sheng meng zi xian	575
+云南省弥渡县	yun nan sheng mi du xian	546
+云南省弥勒县	yun nan sheng mi le xian	571
+云南省墨江哈尼族自治县	yun nan sheng mo jiang ha ni zu zi zhi xian	604
+云南省牟定县	yun nan sheng mou ding xian	586
+云南省南华县	yun nan sheng nan hua xian	585
+云南省南涧彝族自治县	yun nan sheng nan jian yi zu zi zhi xian	545
+云南省宁蒗彝族自治县	yun nan sheng ning lang yi zu zi zhi xian	609
+云南省怒江傈僳族自治州	yun nan sheng nu jiang li su zu zi zhi zhou	532
+云南省屏边苗族自治县	yun nan sheng ping bian miao zu zi zhi xian	574
+云南省普洱哈尼族彝族自治县	yun nan sheng pu er ha ni zu yi zu zi zhi xian	605
+云南省巧家县	yun nan sheng qiao jia xian	624
+云南省丘北县	yun nan sheng qiu bei xian	558
+云南省曲靖市	yun nan sheng qu jing shi	656
+云南省曲靖市麒麟区	yun nan sheng qu jing shi qi lin qu	654
+云南省曲靖市市辖区	yun nan sheng qu jing shi shi xia qu	655
+云南省瑞丽市	yun nan sheng rui li shi	537
+云南省施甸县	yun nan sheng shi dian xian	632
+云南省石林彝族自治县	yun nan sheng shi lin yi zu zi zhi xian	661
+云南省石屏县	yun nan sheng shi ping xian	572
+云南省师宗县	yun nan sheng shi zong xian	651
+云南省双柏县	yun nan sheng shuang bai xian	587
+云南省水富县	yun nan sheng shui fu xian	616
+云南省思茅市	yun nan sheng si mao shi	608
+云南省思茅市翠云区	yun nan sheng si mao shi cui yun qu	606
+云南省思茅市市辖区	yun nan sheng si mao shi shi xia qu	607
+云南省嵩明县	yun nan sheng song ming xian	660
+云南省绥江县	yun nan sheng sui jiang xian	620
+云南省腾冲县	yun nan sheng teng chong xian	631
+云南省通海县	yun nan sheng tong hai xian	640
+云南省巍山彝族回族自治县	yun nan sheng wei shan yi zu hui zu zi zhi xian	544
+云南省维西傈僳族自治县	yun nan sheng wei xi li su zu zi zhi xian	524
+云南省威信县	yun nan sheng wei xin xian	617
+云南省文山县	yun nan sheng wen shan xian	563
+云南省文山壮族苗族自治州	yun nan sheng wen shan zhuang zu miao zu zi zhi zhou	564
+云南省武定县	yun nan sheng wu ding xian	580
+云南省西畴县	yun nan sheng xi chou xian	561
+云南省西盟佤族自治县	yun nan sheng xi meng wa zu zi zhi xian	599
+云南省西双版纳傣族自治州	yun nan sheng xi shuang ban na dai zu zi zhi zhou	555
+云南省香格里拉县	yun nan sheng xiang ge li la xian	526
+云南省祥云县	yun nan sheng xiang yun xian	548
+云南省新平彝族傣族自治县	yun nan sheng xin ping yi zu dai zu zi zhi xian	636
+云南省宣威市	yun nan sheng xuan wei shi	646
+云南省寻甸回族彝族自治县	yun nan sheng xun dian hui zu yi zu zi zhi xian	658
+云南省盐津县	yun nan sheng yan jin xian	623
+云南省砚山县	yun nan sheng yan shan xian	562
+云南省漾濞彝族自治县	yun nan sheng yang bi yi zu zi zhi xian	549
+云南省姚安县	yun nan sheng yao an xian	584
+云南省宜良县	yun nan sheng yi liang xian	662
+云南省彝良县	yun nan sheng yi liang xian	618
+云南省易门县	yun nan sheng yi men xian	638
+云南省盈江县	yun nan sheng ying jiang xian	534
+云南省永德县	yun nan sheng yong de xian	593
+云南省永平县	yun nan sheng yong ping xian	543
+云南省永仁县	yun nan sheng yong ren xian	582
+云南省永善县	yun nan sheng yong shan xian	621
+云南省永胜县	yun nan sheng yong sheng xian	611
+云南省玉龙纳西族自治县	yun nan sheng yu long na xi zu zi zhi xian	612
+云南省玉溪市	yun nan sheng yu xi shi	645
+云南省玉溪市红塔区	yun nan sheng yu xi shi hong ta qu	643
+云南省玉溪市市辖区	yun nan sheng yu xi shi shi xia qu	644
+云南省元谋县	yun nan sheng yuan mou xian	581
+云南省元阳县	yun nan sheng yuan yang xian	569
+云南省云龙县	yun nan sheng yun long xian	542
+云南省云县	yun nan sheng yun xian	594
+云南省沾益县	yun nan sheng zhan yi xian	647
+云南省昭通市	yun nan sheng zhao tong shi	628
+云南省昭通市市辖区	yun nan sheng zhao tong shi shi xia qu	627
+云南省昭通市昭阳区	yun nan sheng zhao tong shi zhao yang qu	626
+云南省镇康县	yun nan sheng zhen kang xian	592
+云南省镇雄县	yun nan sheng zhen xiong xian	619
+浙江省安吉县	zhe jiang sheng an ji xian	2424
+浙江省苍南县	zhe jiang sheng cang nan xian	2444
+浙江省常山县	zhe jiang sheng chang shan xian	2400
+浙江省长兴县	zhe jiang sheng chang xing xian	2425
+浙江省淳安县	zhe jiang sheng chun an xian	2469
+浙江省慈溪市	zhe jiang sheng ci xi shi	2454
+浙江省岱山县	zhe jiang sheng dai shan xian	2392
+浙江省德清县	zhe jiang sheng de qing xian	2426
+浙江省洞头县	zhe jiang sheng dong tou xian	2447
+浙江省东阳市	zhe jiang sheng dong yang shi	2406
+浙江省奉化市	zhe jiang sheng feng hua shi	2453
+浙江省富阳市	zhe jiang sheng fu yang shi	2467
+浙江省海宁市	zhe jiang sheng hai ning shi	2433
+浙江省海盐县	zhe jiang sheng hai yan xian	2434
+浙江省杭州市	zhe jiang sheng hang zhou shi	2480
+浙江省杭州市滨江区	zhe jiang sheng hang zhou shi bin jiang qu	2473
+浙江省杭州市拱墅区	zhe jiang sheng hang zhou shi gong shu qu	2475
+浙江省杭州市江干区	zhe jiang sheng hang zhou shi jiang gan qu	2476
+浙江省杭州市上城区	zhe jiang sheng hang zhou shi shang cheng qu	2478
+浙江省杭州市市辖区	zhe jiang sheng hang zhou shi shi xia qu	2479
+浙江省杭州市西湖区	zhe jiang sheng hang zhou shi xi hu qu	2474
+浙江省杭州市下城区	zhe jiang sheng hang zhou shi xia cheng qu	2477
+浙江省杭州市萧山区	zhe jiang sheng hang zhou shi xiao shan qu	2472
+浙江省杭州市余杭区	zhe jiang sheng hang zhou shi yu hang qu	2471
+浙江省湖州市	zhe jiang sheng hu zhou shi	2430
+浙江省湖州市南浔区	zhe jiang sheng hu zhou shi nan xun qu	2427
+浙江省湖州市市辖区	zhe jiang sheng hu zhou shi shi xia qu	2429
+浙江省湖州市吴兴区	zhe jiang sheng hu zhou shi wu xing qu	2428
+浙江省嘉善县	zhe jiang sheng jia shan xian	2435
+浙江省嘉兴市	zhe jiang sheng jia xing shi	2439
+浙江省嘉兴市市辖区	zhe jiang sheng jia xing shi shi xia qu	2438
+浙江省嘉兴市秀城区	zhe jiang sheng jia xing shi xiu cheng qu	2437
+浙江省嘉兴市秀洲区	zhe jiang sheng jia xing shi xiu zhou qu	2436
+浙江省建德市	zhe jiang sheng jian de shi	2468
+浙江省江山市	zhe jiang sheng jiang shan shi	2397
+浙江省金华市	zhe jiang sheng jin hua shi	2415
+浙江省金华市金东区	zhe jiang sheng jin hua shi jin dong qu	2412
+浙江省金华市市辖区	zhe jiang sheng jin hua shi shi xia qu	2414
+浙江省金华市婺城区	zhe jiang sheng jin hua shi wu cheng qu	2413
+浙江省缙云县	zhe jiang sheng jin yun xian	2375
+浙江省景宁畲族自治县	zhe jiang sheng jing ning she zu zi zhi xian	2370
+浙江省开化县	zhe jiang sheng kai hua xian	2399
+浙江省兰溪市	zhe jiang sheng lan xi shi	2408
+浙江省丽水市	zhe jiang sheng li shui shi	2379
+浙江省丽水市莲都区	zhe jiang sheng li shui shi lian du qu	2377
+浙江省丽水市市辖区	zhe jiang sheng li shui shi shi xia qu	2378
+浙江省临安市	zhe jiang sheng lin an shi	2466
+浙江省临海市	zhe jiang sheng lin hai shi	2380
+浙江省龙泉市	zhe jiang sheng long quan shi	2369
+浙江省龙游县	zhe jiang sheng long you xian	2398
+浙江省宁波市	zhe jiang sheng ning bo shi	2465
+浙江省宁波市北仑区	zhe jiang sheng ning bo shi bei lun qu	2460
+浙江省宁波市海曙区	zhe jiang sheng ning bo shi hai shu qu	2463
+浙江省宁波市江北区	zhe jiang sheng ning bo shi jiang bei qu	2461
+浙江省宁波市江东区	zhe jiang sheng ning bo shi jiang dong qu	2462
+浙江省宁波市市辖区	zhe jiang sheng ning bo shi shi xia qu	2464
+浙江省宁波市鄞州区	zhe jiang sheng ning bo shi yin zhou qu	2458
+浙江省宁波市镇海区	zhe jiang sheng ning bo shi zhen hai qu	2459
+浙江省宁海县	zhe jiang sheng ning hai xian	2456
+浙江省磐安县	zhe jiang sheng pan an xian	2409
+浙江省平湖市	zhe jiang sheng ping hu shi	2432
+浙江省平阳县	zhe jiang sheng ping yang xian	2445
+浙江省浦江县	zhe jiang sheng pu jiang xian	2410
+浙江省青田县	zhe jiang sheng qing tian xian	2376
+浙江省庆元县	zhe jiang sheng qing yuan xian	2371
+浙江省衢州市	zhe jiang sheng qu zhou shi	2404
+浙江省衢州市柯城区	zhe jiang sheng qu zhou shi ke cheng qu	2402
+浙江省衢州市衢江区	zhe jiang sheng qu zhou shi qu jiang qu	2401
+浙江省衢州市市辖区	zhe jiang sheng qu zhou shi shi xia qu	2403
+浙江省瑞安市	zhe jiang sheng rui an shi	2441
+浙江省三门县	zhe jiang sheng san men xian	2384
+浙江省上虞市	zhe jiang sheng shang yu shi	2417
+浙江省绍兴市	zhe jiang sheng shao xing shi	2423
+浙江省绍兴市市辖区	zhe jiang sheng shao xing shi shi xia qu	2422
+浙江省绍兴市越城区	zhe jiang sheng shao xing shi yue cheng qu	2421
+浙江省绍兴县	zhe jiang sheng shao xing xian	2420
+浙江省嵊泗县	zhe jiang sheng sheng si xian	2391
+浙江省嵊州市	zhe jiang sheng sheng zhou shi	2416
+浙江省松阳县	zhe jiang sheng song yang xian	2373
+浙江省遂昌县	zhe jiang sheng sui chang xian	2374
+浙江省泰顺县	zhe jiang sheng tai shun xian	2442
+浙江省台州市	zhe jiang sheng tai zhou shi	2390
+浙江省台州市黄岩区	zhe jiang sheng tai zhou shi huang yan qu	2387
+浙江省台州市椒江区	zhe jiang sheng tai zhou shi jiao jiang qu	2388
+浙江省台州市路桥区	zhe jiang sheng tai zhou shi lu qiao qu	2386
+浙江省台州市市辖区	zhe jiang sheng tai zhou shi shi xia qu	2389
+浙江省天台县	zhe jiang sheng tian tai xian	2383
+浙江省桐庐县	zhe jiang sheng tong lu xian	2470
+浙江省桐乡市	zhe jiang sheng tong xiang shi	2431
+浙江省文成县	zhe jiang sheng wen cheng xian	2443
+浙江省温岭市	zhe jiang sheng wen ling shi	2381
+浙江省温州市	zhe jiang sheng wen zhou shi	2452
+浙江省温州市龙湾区	zhe jiang sheng wen zhou shi long wan qu	2449
+浙江省温州市鹿城区	zhe jiang sheng wen zhou shi lu cheng qu	2450
+浙江省温州市瓯海区	zhe jiang sheng wen zhou shi ou hai qu	2448
+浙江省温州市市辖区	zhe jiang sheng wen zhou shi shi xia qu	2451
+浙江省武义县	zhe jiang sheng wu yi xian	2411
+浙江省仙居县	zhe jiang sheng xian ju xian	2382
+浙江省象山县	zhe jiang sheng xiang shan xian	2457
+浙江省新昌县	zhe jiang sheng xin chang xian	2419
+浙江省义乌市	zhe jiang sheng yi wu shi	2407
+浙江省永嘉县	zhe jiang sheng yong jia xian	2446
+浙江省永康市	zhe jiang sheng yong kang shi	2405
+浙江省玉环县	zhe jiang sheng yu huan xian	2385
+浙江省余姚市	zhe jiang sheng yu yao shi	2455
+浙江省乐清市	zhe jiang sheng yue qing shi	2440
+浙江省云和县	zhe jiang sheng yun he xian	2372
+浙江省舟山市	zhe jiang sheng zhou shan shi	2396
+浙江省舟山市定海区	zhe jiang sheng zhou shan shi ding hai qu	2394
+浙江省舟山市普陀区	zhe jiang sheng zhou shan shi pu tuo qu	2393
+浙江省舟山市市辖区	zhe jiang sheng zhou shan shi shi xia qu	2395
+浙江省诸暨市	zhe jiang sheng zhu ji shi	2418
