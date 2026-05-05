@@ -1,0 +1,181 @@
+# 词库名称: 质检
+# 词库分类: 医学 理工农医
+# 词库描述: 质量管理与检验
+# 词条样例: 包装容器、编码、标识、标志、标准化、博士试验、不低于、不可见、采样方法、残留量
+# 词条数量: 173
+# 解析词数: 173
+# 解析异常: 0
+
+包装容器	bao zhuang rong qi	0
+比重	bi zhong	0
+闭口杯中	bi kou bei zhong	0
+编码	bian ma	0
+编制	bian zhi	0
+标签	biao qian	0
+标识	biao zhi	0
+标物	biao wu	0
+标样	biao yang	0
+标志	biao zhi	0
+标准	biao zhun	0
+标准比色	biao zhun bi se	0
+标准化	biao zhun hua	0
+标准物质	biao zhun wu zhi	0
+标准要求	biao zhun yao qiu	0
+博士试验	bo shi shi yan	0
+铂钴色号	bo gu se hao	0
+不大于	bu da yu	0
+不低于	bu di yu	0
+不高于	bu gao yu	0
+不合格品	bu he ge pin	0
+不可见	bu ke jian	0
+不深于	bu shen yu	0
+不小于	bu xiao yu	0
+采样方法	cai yang fang fa	0
+参照	can zhao	0
+残留监控	can liu jian kong	0
+残留量	can liu liang	0
+残余量	can yu liang	0
+测试	ce shi	0
+抽查	chou cha	0
+抽样	chou yang	0
+抽样检查	chou yang jian cha	0
+初沸点	chu fei dian	0
+初馏点	chu liu dian	0
+初审	chu shen	0
+出口检验	chu kou jian yan	0
+纯度	chun du	0
+次品	ci pin	0
+单项判定	dan xiang pan ding	0
+地方标准	di fang biao zhun	0
+地理标志产品保护	di li biao zhi chan pin bao hu	0
+电枢测试器	dian shu ce shi qi	0
+电子检验	dian zi jian yan	0
+定级	ding ji	0
+定期	ding qi	0
+度量衡	du liang heng	0
+二等品	er deng pin	0
+二级品	er ji pin	0
+罚没物品	fa mo wu pin	0
+分析	fen xi	0
+分析项目	fen xi xiang mu	0
+分子量	fen zi liang	0
+腐蚀试验	fu shi shi yan	0
+腐蚀性试验	fu shi xing shi yan	0
+复审	fu shen	0
+复验	fu yan	0
+干点	gan dian	0
+高锰酸钾试验	gao meng suan jia shi yan	0
+锅炉试验器	guo lu shi yan qi	0
+过氧化物	guo yang hua wu	0
+海关检查	hai guan jian cha	0
+含量	han liang	0
+和谐质监	he xie zhi jian	0
+合格品	he ge pin	0
+合格评定	he ge ping ding	0
+后处理	hou chu li	0
+化妆品级	hua zhuang pin ji	0
+机械杂质	ji xie za zhi	0
+计量	ji liang	0
+计量抽样检查	ji liang chou yang jian cha	0
+计数抽样检查	ji shu chou yang jian cha	0
+假冒伪劣产品	jia mao wei lie chan pin	0
+价值鉴定	jia zhi jian ding	0
+检测	jian ce	0
+检定员	jian ding yuan	0
+检验	jian yan	0
+检验标准	jian yan biao zhun	0
+检验方法	jian yan fang fa	0
+检验环境	jian yan huan jing	0
+检验监管	jian yan jian guan	0
+检验结果	jian yan jie guo	0
+检验结论	jian yan jie lun	0
+检验项目	jian yan xiang mu	0
+检验要求	jian yan yao qiu	0
+检验依据	jian yan yi ju	0
+鉴定	jian ding	0
+结晶点	jie jing dian	0
+净含量	jing han liang	0
+聚合物	ju he wu	0
+可靠性	ke kao xing	0
+临时检查	lin shi jian cha	0
+硫份	liu fen	0
+馏出量	liu chu liang	0
+馏出温度	liu chu wen du	0
+馏分	liu fen	0
+免检	mian jian	0
+目测	mu ce	0
+凝固点	ning gu dian	0
+浓度	nong du	0
+农残	nong can	0
+农膜	nong mo	0
+品质检验报告	pin zhi jian yan bao gao	0
+评定	ping ding	0
+评审员	ping shen yuan	0
+强检	qiang jian	0
+强制	qiang zhi	0
+强制性	qiang zhi xing	0
+燃点	ran dian	0
+燃烧浓度	ran shao nong du	0
+热值	re zhi	0
+熔点	rong dian	0
+色度	se du	0
+闪点	shan dian	0
+审查	shen cha	0
+食品级	shi pin ji	0
+实测结果	shi ce jie guo	0
+实测质量	shi ce zhi liang	0
+实验	shi yan	0
+实验室	shi yan shi	0
+试验	shi yan	0
+水份	shui fen	0
+水溶性酸或碱	shui rong xing suan huo jian	0
+送检单位	song jian dan wei	0
+送样单位	song yang dan wei	0
+酸洗比色	suan xi bi se	0
+缩减检验	suo jian jian yan	0
+添加剂	tian jia ji	0
+铜片腐蚀试验	tong pian fu shi shi yan	0
+统检委托	tong jian wei tuo	0
+脱硫	tuo liu	0
+脱氢	tuo qing	0
+外观检查	wai guan jian cha	0
+微观检查	wei guan jian cha	0
+无公害	wu gong hai	0
+无损检测	wu sun jian ce	0
+稀土	xi tu	0
+现场检验	xian chang jian yan	0
+相对分子质量	xiang dui fen zi zhi liang	0
+型式试验	xing shi shi yan	0
+压力管道	ya li guan dao	0
+压力容器	ya li rong qi	0
+验收标注	yan shou biao zhu	0
+验收检查	yan shou jian cha	0
+一等品	yi deng pin	0
+一级品	yi ji pin	0
+以苯甲醛计	yi ben jia quan ji	0
+以过氧化氢计	yi guo yang hua qing ji	0
+优等品	you deng pin	0
+优级品	you ji pin	0
+有害物质	you hai wu zhi	0
+运动粘度	yun dong nian du	0
+粘度	nian du	0
+蒸发温度	zheng fa wen du	0
+正常抽验	zheng chang chou yan	0
+纸浆	zhi jiang	0
+质监	zhi jian	0
+质监办	zhi jian ban	0
+质监办函	zhi jian ban han	0
+质监党组	zhi jian dang zu	0
+质监督	zhi jian du	0
+质监函	zhi jian han	0
+质检中心	zhi jian zhong xin	0
+质量	zhi liang	0
+质量保证	zhi liang bao zheng	0
+质量管理	zhi liang guan li	0
+质量技术监督局	zhi liang ji shu jian du ju	0
+质量监督	zhi liang jian du	0
+质量检验报告	zhi liang jian yan bao gao	0
+质量体系认证	zhi liang ti xi ren zheng	0
+质量指标	zhi liang zhi biao	0
+舟艇检查	zhou ting jian cha	0
+自燃温度	zi ran wen du	0
