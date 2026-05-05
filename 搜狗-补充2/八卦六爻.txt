@@ -1,0 +1,759 @@
+# 词库名称: 八卦六爻
+# 词库分类: 中国哲学
+# 词库描述: 八卦六爻常用词汇
+# 词条样例: 少阳、乙丑、丙寅、丁卯、戊辰、大林木
+# 解析词数: 752
+# 解析异常: 0
+
+暗动	an dong	428
+安世应	an shi ying	375
+八卦	ba gua	749
+白虎	bai hu	648
+白蚁金	bai yi jin	725
+帮扶	bang fu	447
+北方水	bei fang shui	260
+壁上土	bi shang tu	686
+变卦	bian gua	382
+丙辰	bing chen	666
+丙申	bing shen	694
+丙午	bing wu	680
+丙戌	bing xu	709
+丙寅	bing yin	739
+丙子	bing zi	715
+不空	bu kong	459
+不破	bu po	460
+卜筮正宗	bu shi zheng zong	603
+钗钏金	chai chuan jin	673
+长流水	chang liu shui	698
+长生	chang sheng	625
+辰日	chen ri	530
+辰时	chen shi	406
+辰巳	chen si	550
+辰土	chen tu	500
+辰土父母	chen tu fu mu	241
+辰土父母持世	chen tu fu mu chi shi	116
+辰土官鬼	chen tu guan gui	205
+辰土官鬼持世	chen tu guan gui chi shi	80
+辰土妻财	chen tu qi cai	193
+辰土妻财持世	chen tu qi cai chi shi	68
+辰土兄弟	chen tu xiong di	229
+辰土兄弟持世	chen tu xiong di chi shi	104
+辰土子孙	chen tu zi sun	217
+辰土子孙持世	chen tu zi sun chi shi	92
+辰午酉亥	chen wu you hai	254
+辰戌	chen xu	359
+辰戌冲	chen xu chong	289
+辰酉	chen you	365
+辰酉合	chen you he	285
+辰月	chen yue	542
+城头土	cheng tou tu	728
+持世	chi shi	414
+冲空填实	chong kong tian shi	443
+冲散	chong san	461
+丑日	chou ri	521
+仇神	chou shen	570
+丑时	chou shi	397
+丑土	chou tu	503
+丑土父母	chou tu fu mu	244
+丑土父母持世	chou tu fu mu chi shi	119
+丑土官鬼	chou tu guan gui	208
+丑土官鬼持世	chou tu guan gui chi shi	83
+丑土妻财	chou tu qi cai	196
+丑土妻财持世	chou tu qi cai chi shi	71
+丑土兄弟	chou tu xiong di	232
+丑土兄弟持世	chou tu xiong di chi shi	107
+丑土子孙	chou tu zi sun	220
+丑土子孙持世	chou tu zi sun chi shi	95
+丑未	chou wei	362
+丑未冲	chou wei chong	291
+丑午	chou wu	372
+丑午害	chou wu hai	281
+丑戌未	chou xu wei	253
+丑月	chou yue	533
+初爻	chu yao	589
+大海水	da hai shui	655
+大林木	da lin mu	734
+大溪水	da xi shui	667
+大鄢土	da yan tu	676
+代占	dai zhan	471
+地风升	di feng sheng	305
+地火明夷	di huo ming yi	303
+地雷复	di lei fu	304
+地山谦	di shan qian	307
+地水师	di shui shi	306
+地天泰	di tian tai	301
+帝旺	di wang	622
+地泽临	di ze lin	302
+地支	di zhi	395
+丁丑	ding chou	714
+丁亥	ding hai	708
+丁卯	ding mao	738
+丁巳	ding si	665
+丁未	ding wei	679
+丁酉	ding you	693
+动绊	dong ban	419
+东方木	dong fang mu	263
+动卦	dong gua	468
+动墓	dong mu	420
+动爻	dong yao	482
+断卦	duan gua	581
+兑二	dui er	633
+兑宫八卦	dui gong ba gua	516
+兑卦	dui gua	393
+兑上缺	dui shang que	636
+兑为泽	dui wei ze	326
+二五爻	er wu yao	583
+二爻	er yao	588
+反吟	fan yin	415
+飞克伏	fei ke fu	478
+风地观	feng di guan	316
+风火家人	feng huo jia ren	311
+逢空	feng kong	357
+风雷益	feng lei yi	312
+风山渐	feng shan jian	315
+风水涣	feng shui huan	314
+风天小畜	feng tian xiao chu	309
+风泽中孚	feng ze zhong fu	310
+逢值逢冲	feng zhi feng chong	441
+逢值逢合	feng zhi feng he	442
+覆灯火	fu deng huo	681
+伏克飞	fu ke fei	479
+父母	fu mu	252
+父母辰土	fu mu chen tu	181
+父母辰土持世	fu mu chen tu chi shi	56
+父母持世	fu mu chi shi	125
+父母丑土	fu mu chou tu	184
+父母丑土持世	fu mu chou tu chi shi	59
+父母亥水	fu mu hai shui	174
+父母亥水持世	fu mu hai shui chi shi	49
+父母卯木	fu mu mao mu	182
+父母卯木持世	fu mu mao mu chi shi	57
+父母申金	fu mu shen jin	177
+父母申金持世	fu mu shen jin chi shi	52
+父母巳火	fu mu si huo	180
+父母巳火持世	fu mu si huo chi shi	55
+父母未土	fu mu wei tu	178
+父母未土持世	fu mu wei tu chi shi	53
+父母午火	fu mu wu huo	179
+父母午火持世	fu mu wu huo chi shi	54
+父母戌土	fu mu xu tu	175
+父母戌土持世	fu mu xu tu chi shi	50
+父母寅木	fu mu yin mu	183
+父母寅木持世	fu mu yin mu chi shi	58
+父母酉金	fu mu you jin	176
+父母酉金持世	fu mu you jin chi shi	51
+父母子水	fu mu zi shui	185
+父母子水持世	fu mu zi shui chi shi	60
+伏神	fu shen	486
+伏吟	fu yin	416
+艮覆碗	gen fu wan	639
+艮宫八卦	gen gong ba gua	511
+艮卦	gen gua	388
+艮七	gen qi	628
+艮为山	gen wei shan	339
+庚辰	geng chen	727
+庚申	geng shen	660
+庚午	geng wu	733
+庚戌	geng xu	675
+庚寅	geng yin	703
+庚子	geng zi	688
+宫位	gong wei	519
+勾陈	gou chen	650
+古筮	gu shi	381
+卦理	gua li	450
+卦象	gua xiang	470
+卦意	gua yi	451
+冠带	guan dai	624
+官鬼	guan gui	249
+官鬼辰土	guan gui chen tu	145
+官鬼辰土持世	guan gui chen tu chi shi	20
+官鬼持世	guan gui chi shi	122
+官鬼丑土	guan gui chou tu	148
+官鬼丑土持世	guan gui chou tu chi shi	23
+官鬼亥水	guan gui hai shui	138
+官鬼亥水持世	guan gui hai shui chi shi	13
+官鬼卯木	guan gui mao mu	146
+官鬼卯木持世	guan gui mao mu chi shi	21
+官鬼申金	guan gui shen jin	141
+官鬼申金持世	guan gui shen jin chi shi	16
+官鬼巳火	guan gui si huo	144
+官鬼巳火持世	guan gui si huo chi shi	19
+官鬼未土	guan gui wei tu	142
+官鬼未土持世	guan gui wei tu chi shi	17
+官鬼午火	guan gui wu huo	143
+官鬼午火持世	guan gui wu huo chi shi	18
+官鬼戌土	guan gui xu tu	139
+官鬼戌土持世	guan gui xu tu chi shi	14
+官鬼寅木	guan gui yin mu	147
+官鬼寅木持世	guan gui yin mu chi shi	22
+官鬼酉金	guan gui you jin	140
+官鬼酉金持世	guan gui you jin chi shi	15
+官鬼子水	guan gui zi shui	149
+官鬼子水持世	guan gui zi shui chi shi	24
+癸丑	gui chou	671
+癸亥	gui hai	656
+归魂	gui hun	410
+癸卯	gui mao	684
+贵人	gui ren	643
+癸巳	gui si	699
+癸未	gui wei	723
+癸酉	gui you	720
+亥卯未	hai mao wei	274
+亥日	hai ri	523
+亥时	hai shi	399
+亥水	hai shui	493
+亥水父母	hai shui fu mu	234
+亥水父母持世	hai shui fu mu chi shi	109
+亥水官鬼	hai shui guan gui	198
+亥水官鬼持世	hai shui guan gui chi shi	73
+亥水妻财	hai shui qi cai	186
+亥水妻财持世	hai shui qi cai chi shi	61
+亥水兄弟	hai shui xiong di	222
+亥水兄弟持世	hai shui xiong di chi shi	97
+亥水子孙	hai shui zi sun	210
+亥水子孙持世	hai shui zi sun chi shi	85
+亥月	hai yue	535
+海中金	hai zhong jin	740
+亥子丑	hai zi chou	268
+合绊	he ban	418
+合火局	he huo ju	275
+合金局	he jin ju	269
+合木局	he mu ju	273
+合起	he qi	417
+合水局	he shui ju	271
+互卦	hu gua	385
+互刑	hu xing	488
+化绊	hua ban	430
+化冲	hua chong	431
+华盖	hua gai	557
+化合	hua he	434
+化回头克	hua hui tou ke	435
+化回头生	hua hui tou sheng	437
+化进	hua jin	440
+化克	hua ke	436
+化空	hua kong	432
+化墓	hua mu	433
+化破	hua po	429
+化生	hua sheng	438
+化退	hua tui	439
+黄金策	huang jin ce	606
+回头克	hui tou ke	426
+回头生	hui tou sheng	427
+浑天甲子	hun tian jia zi	409
+火地晋	huo di jin	356
+火风鼎	huo feng ding	353
+火局	huo ju	258
+火克金	huo ke jin	608
+火雷噬嗑	huo lei shi ke	352
+火山旅	huo shan lv	355
+火生土	huo sheng tu	615
+火水未济	huo shui wei ji	354
+火天大有	huo tian da you	349
+火爻	huo yao	568
+火泽睽	huo ze kui	350
+己丑	ji chou	705
+己亥	ji hai	690
+己卯	ji mao	729
+忌神	ji shen	571
+己巳	ji si	735
+己未	ji wei	662
+吉凶	ji xiong	578
+己酉	ji you	711
+甲辰	jia chen	682
+甲申	jia shen	712
+甲午	jia wu	697
+甲戌	jia xu	718
+甲寅	jia yin	669
+甲子	jia zi	742
+剑锋金	jian feng jin	719
+涧下水	jian xia shui	713
+将星	jiang xing	559
+劫煞	jie sha	558
+金箔金	jin bo jin	683
+金局	jin ju	256
+金克木	jin ke mu	612
+金生水	jin sheng shui	618
+金爻	jin yao	566
+静卦	jing gua	467
+静爻	jing yao	481
+九二	jiu er	599
+九三	jiu san	598
+九四	jiu si	597
+九五	jiu wu	596
+坎宫八卦	kan gong ba gua	512
+坎卦	kan gua	389
+坎六	kan liu	629
+坎为水	kan wei shui	346
+坎中满	kan zhong man	637
+坤八	kun ba	627
+坤宫八卦	kun gong ba gua	510
+坤卦	kun gua	387
+坤六断	kun liu duan	641
+坤为地	kun wei di	308
+老阳	lao yang	746
+老阴	lao yin	745
+雷地豫	lei di yu	324
+雷风恒	lei feng heng	321
+雷火丰	lei huo feng	319
+雷山小过	lei shan xiao guo	323
+雷水解	lei shui jie	322
+雷天大壮	lei tian da zhuang	317
+雷泽归妹	lei ze gui mei	318
+离宫八卦	li gong ba gua	515
+离卦	li gua	392
+离三	li san	632
+离为火	li wei huo	351
+离中虚	li zhong xu	638
+两仪	liang yi	751
+临官	lin guan	623
+六冲	liu chong	575
+六冲卦	liu chong gua	378
+六二	liu er	593
+六害	liu hai	574
+六三	liu san	592
+六神	liu shen	654
+六十甲子	liu shi jia zi	744
+六十四卦	liu shi si gua	518
+六兽	liu shou	653
+六四	liu si	591
+六爻	liu yao	584
+六一	liu yi	594
+路傍土	lu bang tu	731
+六合	lu he	576
+六合卦	lu he gua	379
+禄神	lu shen	562
+炉中火	lu zhong huo	737
+卯辰	mao chen	370
+卯辰害	mao chen hai	279
+卯木	mao mu	501
+卯木父母	mao mu fu mu	242
+卯木父母持世	mao mu fu mu chi shi	117
+卯木官鬼	mao mu guan gui	206
+卯木官鬼持世	mao mu guan gui chi shi	81
+卯木妻财	mao mu qi cai	194
+卯木妻财持世	mao mu qi cai chi shi	69
+卯木兄弟	mao mu xiong di	230
+卯木兄弟持世	mao mu xiong di chi shi	105
+卯木子孙	mao mu zi sun	218
+卯木子孙持世	mao mu zi sun chi shi	93
+卯日	mao ri	531
+卯时	mao shi	407
+卯戌	mao xu	366
+卯酉	mao you	360
+卯月	mao yue	543
+明动	ming dong	480
+谋星	mou xing	556
+木局	mu ju	257
+木克土	mu ke tu	611
+木生火	mu sheng huo	616
+木爻	mu yao	569
+纳音	na yin	743
+南方火	nan fang huo	262
+内卦	nei gua	384
+排卦	pai gua	376
+抛钱	pao qian	620
+霹雳火	pi li huo	704
+平土木	ping tu mu	689
+妻财	qi cai	248
+妻财辰土	qi cai chen tu	133
+妻财辰土持世	qi cai chen tu chi shi	8
+妻财持世	qi cai chi shi	121
+妻财丑土	qi cai chou tu	136
+妻财丑土持世	qi cai chou tu chi shi	11
+妻财亥水	qi cai hai shui	126
+妻财亥水持世	qi cai hai shui chi shi	1
+妻财卯木	qi cai mao mu	134
+妻财卯木持世	qi cai mao mu chi shi	9
+妻财申金	qi cai shen jin	129
+妻财申金持世	qi cai shen jin chi shi	4
+妻财巳火	qi cai si huo	132
+妻财巳火持世	qi cai si huo chi shi	7
+妻财未土	qi cai wei tu	130
+妻财未土持世	qi cai wei tu chi shi	5
+妻财午火	qi cai wu huo	131
+妻财午火持世	qi cai wu huo chi shi	6
+妻财戌土	qi cai xu tu	127
+妻财戌土持世	qi cai xu tu chi shi	2
+妻财寅木	qi cai yin mu	135
+妻财寅木持世	qi cai yin mu chi shi	10
+妻财酉金	qi cai you jin	128
+妻财酉金持世	qi cai you jin chi shi	3
+妻财子水	qi cai zi shui	137
+妻财子水持世	qi cai zi shui chi shi	12
+起卦	qi gua	582
+乾宫八卦	qian gong ba gua	517
+乾卦	qian gua	394
+乾三连	qian san lian	642
+乾为天	qian wei tian	293
+乾一	qian yi	634
+青龙	qing long	652
+取用	qu yong	487
+泉中水	quan zhong shui	710
+壬辰	ren chen	700
+壬申	ren shen	721
+壬午	ren wu	724
+壬戌	ren xu	657
+壬寅	ren yin	685
+壬子	ren zi	672
+日辰	ri chen	546
+日冲	ri chong	464
+日扶	ri fu	456
+日合	ri he	462
+日克	ri ke	454
+日令	ri ling	448
+日墓	ri mu	452
+日破	ri po	465
+日生	ri sheng	457
+入墓	ru mu	421
+三合	san he	491
+三会	san hui	492
+三刑	san xing	490
+三爻	san yao	587
+桑柘木	sang zhe mu	670
+沙中金	sha zhong jin	695
+沙中土	sha zhong tu	664
+山地剥	shan di bo	340
+山风蛊	shan feng gu	337
+山火贲	shan huo ben	335
+山雷颐	shan lei yi	336
+山水蒙	shan shui meng	338
+山天大畜	shan tian da chu	333
+山头火	shan tou huo	716
+山下火	shan xia huo	692
+山泽损	shan ze sun	334
+上九	shang jiu	600
+上六	shang liu	590
+少阳	shao yang	748
+少阴	shao yin	747
+申亥	shen hai	369
+申亥害	shen hai hai	278
+申金	shen jin	496
+申金父母	shen jin fu mu	237
+申金父母持世	shen jin fu mu chi shi	112
+申金官鬼	shen jin guan gui	201
+申金官鬼持世	shen jin guan gui chi shi	76
+申金妻财	shen jin qi cai	189
+申金妻财持世	shen jin qi cai chi shi	64
+申金兄弟	shen jin xiong di	225
+申金兄弟持世	shen jin xiong di chi shi	100
+申金子孙	shen jin zi sun	213
+申金子孙持世	shen jin zi sun chi shi	88
+申日	shen ri	526
+申时	shen shi	402
+申酉	shen you	548
+申酉戌	shen you xu	265
+申月	shen yue	538
+申子辰	shen zi chen	272
+生旺墓绝	sheng wang mu jue	621
+世持	shi chi	246
+世空	shi kong	413
+石榴木	shi liu mu	658
+世爻	shi yao	485
+世应	shi ying	477
+属火	shu huo	508
+属金	shu jin	509
+属木	shu mu	507
+属水	shu shui	506
+属土	shu tu	505
+水地比	shui di bi	348
+水风井	shui feng jing	345
+水火既济	shui huo ji ji	343
+水局	shui ju	259
+水克火	shui ke huo	609
+水雷屯	shui lei tun	344
+水山蹇	shui shan jian	347
+水生木	shui sheng mu	617
+水天需	shui tian xu	341
+水爻	shui yao	565
+水泽节	shui ze jie	342
+巳亥	si hai	358
+巳亥冲	si hai chong	288
+巳火	si huo	499
+巳火父母	si huo fu mu	240
+巳火父母持世	si huo fu mu chi shi	115
+巳火官鬼	si huo guan gui	204
+巳火官鬼持世	si huo guan gui chi shi	79
+巳火妻财	si huo qi cai	192
+巳火妻财持世	si huo qi cai chi shi	67
+巳火兄弟	si huo xiong di	228
+巳火兄弟持世	si huo xiong di chi shi	103
+巳火子孙	si huo zi sun	216
+巳火子孙持世	si huo zi sun chi shi	91
+巳日	si ri	529
+巳申	si shen	364
+巳申合	si shen he	284
+巳时	si shi	405
+巳午未	si wu wei	266
+四象	si xiang	750
+四爻	si yao	586
+巳酉丑	si you chou	270
+巳月	si yue	541
+松柏木	song bai mu	701
+太极	tai ji	752
+贪合忘生	tan he wang sheng	445
+贪生忘克	tan sheng wang ke	446
+桃花	tao hua	645
+腾蛇	teng she	649
+天地否	tian di fou	300
+天风姤	tian feng gou	297
+天干	tian gan	396
+天河水	tian he shui	678
+天火同人	tian huo tong ren	295
+天雷无妄	tian lei wu wang	296
+天山遁	tian shan dun	299
+天上火	tian shang huo	661
+天水讼	tian shui song	298
+天喜	tian xi	554
+天医	tian yi	555
+天泽履	tian ze lv	294
+土克水	tu ke shui	610
+土生金	tu sheng jin	614
+土爻	tu yao	567
+外卦	wai gua	383
+旺衰	wang shuai	475
+旺相	wang xiang	474
+旺相休囚	wang xiang xiu qiu	626
+位高权轻	wei gao quan qing	520
+为害	wei hai	373
+未日	wei ri	527
+未时	wei shi	403
+未土	wei tu	497
+未土父母	wei tu fu mu	238
+未土父母持世	wei tu fu mu chi shi	113
+未土官鬼	wei tu guan gui	202
+未土官鬼持世	wei tu guan gui chi shi	77
+未土妻财	wei tu qi cai	190
+未土妻财持世	wei tu qi cai chi shi	65
+未土兄弟	wei tu xiong di	226
+未土兄弟持世	wei tu xiong di chi shi	101
+未土子孙	wei tu zi sun	214
+未土子孙持世	wei tu zi sun chi shi	89
+未月	wei yue	539
+文昌	wen chang	560
+戊辰	wu chen	736
+午火	wu huo	498
+午火父母	wu huo fu mu	239
+午火父母持世	wu huo fu mu chi shi	114
+午火官鬼	wu huo guan gui	203
+午火官鬼持世	wu huo guan gui chi shi	78
+午火妻财	wu huo qi cai	191
+午火妻财持世	wu huo qi cai chi shi	66
+午火兄弟	wu huo xiong di	227
+午火兄弟持世	wu huo xiong di chi shi	102
+午火子孙	wu huo zi sun	215
+午火子孙持世	wu huo zi sun chi shi	90
+午日	wu ri	528
+屋上土	wu shang tu	707
+戊申	wu shen	677
+午时	wu shi	404
+午未	wu wei	549
+午未合	wu wei he	283
+戊午	wu wu	663
+戊戌	wu xu	691
+五爻	wu yao	585
+戊寅	wu yin	730
+午月	wu yue	540
+戊子	wu zi	706
+西方金	xi fang jin	261
+咸池	xian chi	644
+相害	xiang hai	563
+相克	xiang ke	613
+相生	xiang sheng	619
+相刑	xiang xing	564
+辛丑	xin chou	687
+辛亥	xin hai	674
+辛卯	xin mao	702
+辛巳	xin si	726
+辛未	xin wei	732
+辛酉	xin you	659
+兄弟	xiong di	251
+兄弟辰土	xiong di chen tu	169
+兄弟辰土持世	xiong di chen tu chi shi	44
+兄弟持世	xiong di chi shi	124
+兄弟丑土	xiong di chou tu	172
+兄弟丑土持世	xiong di chou tu chi shi	47
+兄弟亥水	xiong di hai shui	162
+兄弟亥水持世	xiong di hai shui chi shi	37
+兄弟卯木	xiong di mao mu	170
+兄弟卯木持世	xiong di mao mu chi shi	45
+兄弟申金	xiong di shen jin	165
+兄弟申金持世	xiong di shen jin chi shi	40
+兄弟巳火	xiong di si huo	168
+兄弟巳火持世	xiong di si huo chi shi	43
+兄弟未土	xiong di wei tu	166
+兄弟未土持世	xiong di wei tu chi shi	41
+兄弟午火	xiong di wu huo	167
+兄弟午火持世	xiong di wu huo chi shi	42
+兄弟戌土	xiong di xu tu	163
+兄弟戌土持世	xiong di xu tu chi shi	38
+兄弟寅木	xiong di yin mu	171
+兄弟寅木持世	xiong di yin mu chi shi	46
+兄弟酉金	xiong di you jin	164
+兄弟酉金持世	xiong di you jin chi shi	39
+兄弟子水	xiong di zi shui	173
+兄弟子水持世	xiong di zi shui chi shi	48
+休囚	xiu qiu	473
+戌亥	xu hai	547
+戌日	xu ri	524
+戌时	xu shi	400
+戌土	xu tu	494
+戌土父母	xu tu fu mu	235
+戌土父母持世	xu tu fu mu chi shi	110
+戌土官鬼	xu tu guan gui	199
+戌土官鬼持世	xu tu guan gui chi shi	74
+戌土妻财	xu tu qi cai	187
+戌土妻财持世	xu tu qi cai chi shi	62
+戌土兄弟	xu tu xiong di	223
+戌土兄弟持世	xu tu xiong di chi shi	98
+戌土子孙	xu tu zi sun	211
+戌土子孙持世	xu tu zi sun chi shi	86
+戌月	xu yue	536
+玄武	xuan wu	647
+巽宫八卦	xun gong ba gua	513
+巽卦	xun gua	390
+旬空	xun kong	444
+巽为风	xun wei feng	313
+巽五	xun wu	630
+巽下断	xun xia duan	635
+阳动	yang dong	580
+杨柳木	yang liu mu	722
+羊刃	yang ren	561
+摇卦	yao gua	377
+爻位	yao wei	380
+爻象	yao xiang	469
+野鹤秘传	ye he mi chuan	602
+乙丑	yi chou	741
+乙亥	yi hai	717
+驿马	yi ma	646
+乙卯	yi mao	668
+易冒	yi mao	604
+乙未	yi wei	696
+易隐	yi yin	605
+阴动	yin dong	579
+寅亥	yin hai	367
+寅亥合	yin hai he	286
+寅卯	yin mao	551
+寅卯辰	yin mao chen	267
+寅木	yin mu	502
+寅木父母	yin mu fu mu	243
+寅木父母持世	yin mu fu mu chi shi	118
+寅木官鬼	yin mu guan gui	207
+寅木官鬼持世	yin mu guan gui chi shi	82
+寅木妻财	yin mu qi cai	195
+寅木妻财持世	yin mu qi cai chi shi	70
+寅木兄弟	yin mu xiong di	231
+寅木兄弟持世	yin mu xiong di chi shi	106
+寅木子孙	yin mu zi sun	219
+寅木子孙持世	yin mu zi sun chi shi	94
+寅日	yin ri	532
+寅申	yin shen	361
+寅申冲	yin shen chong	290
+寅时	yin shi	408
+寅巳	yin si	371
+寅巳害	yin si hai	280
+寅巳申	yin si shen	264
+寅午戌	yin wu xu	276
+寅月	yin yue	544
+应持	ying chi	247
+应空	ying kong	412
+应期	ying qi	577
+应爻	ying yao	483
+用九	yong jiu	601
+用六	yong liu	595
+用神	yong shen	573
+用神克世	yong shen ke shi	425
+用神生世	yong shen sheng shi	424
+用神衰败	yong shen shuai bai	422
+用旺世兴	yong wang shi xing	423
+用爻	yong yao	484
+游魂	you hun	411
+酉金	you jin	495
+酉金父母	you jin fu mu	236
+酉金父母持世	you jin fu mu chi shi	111
+酉金官鬼	you jin guan gui	200
+酉金官鬼持世	you jin guan gui chi shi	75
+酉金妻财	you jin qi cai	188
+酉金妻财持世	you jin qi cai chi shi	63
+酉金兄弟	you jin xiong di	224
+酉金兄弟持世	you jin xiong di chi shi	99
+酉金子孙	you jin zi sun	212
+酉金子孙持世	you jin zi sun chi shi	87
+酉日	you ri	525
+酉时	you shi	401
+酉戌	you xu	368
+酉戌害	you xu hai	277
+酉月	you yue	537
+原神	yuan shen	572
+月合	yue he	463
+月建	yue jian	545
+月克	yue ke	455
+月令	yue ling	449
+月墓	yue mu	453
+月破	yue po	466
+月生	yue sheng	458
+灾煞	zai sha	553
+泽地萃	ze di cui	332
+泽风大过	ze feng da guo	329
+泽火革	ze huo ge	327
+泽雷随	ze lei sui	328
+泽山咸	ze shan xian	331
+泽水困	ze shui kun	330
+泽天夬	ze tian jue	325
+增删卜易	zeng shan bu yi	607
+震宫八卦	zhen gong ba gua	514
+震卦	zhen gua	391
+震四	zhen si	631
+震为雷	zhen wei lei	320
+震仰盂	zhen yang yu	640
+主卦	zhu gua	386
+朱雀	zhu que	651
+装卦	zhuang gua	476
+子丑	zi chou	552
+子丑合	zi chou he	287
+子卯	zi mao	255
+子日	zi ri	522
+子时	zi shi	398
+子水	zi shui	504
+子水父母	zi shui fu mu	245
+子水父母持世	zi shui fu mu chi shi	120
+子水官鬼	zi shui guan gui	209
+子水官鬼持世	zi shui guan gui chi shi	84
+子水妻财	zi shui qi cai	197
+子水妻财持世	zi shui qi cai chi shi	72
+子水兄弟	zi shui xiong di	233
+子水兄弟持世	zi shui xiong di chi shi	108
+子水子孙	zi shui zi sun	221
+子水子孙持世	zi shui zi sun chi shi	96
+子孙	zi sun	250
+子孙辰土	zi sun chen tu	157
+子孙辰土持世	zi sun chen tu chi shi	32
+子孙持世	zi sun chi shi	123
+子孙丑土	zi sun chou tu	160
+子孙丑土持世	zi sun chou tu chi shi	35
+子孙亥水	zi sun hai shui	150
+子孙亥水持世	zi sun hai shui chi shi	25
+子孙卯木	zi sun mao mu	158
+子孙卯木持世	zi sun mao mu chi shi	33
+子孙申金	zi sun shen jin	153
+子孙申金持世	zi sun shen jin chi shi	28
+子孙巳火	zi sun si huo	156
+子孙巳火持世	zi sun si huo chi shi	31
+子孙未土	zi sun wei tu	154
+子孙未土持世	zi sun wei tu chi shi	29
+子孙午火	zi sun wu huo	155
+子孙午火持世	zi sun wu huo chi shi	30
+子孙戌土	zi sun xu tu	151
+子孙戌土持世	zi sun xu tu chi shi	26
+子孙寅木	zi sun yin mu	159
+子孙寅木持世	zi sun yin mu chi shi	34
+子孙酉金	zi sun you jin	152
+子孙酉金持世	zi sun you jin chi shi	27
+子孙子水	zi sun zi shui	161
+子孙子水持世	zi sun zi shui chi shi	36
+子未	zi wei	374
+子未害	zi wei hai	282
+子午	zi wu	363
+子午冲	zi wu chong	292
+自刑	zi xing	489
+子月	zi yue	534
+自占	zi zhan	472

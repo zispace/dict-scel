@@ -1,0 +1,307 @@
+# 词库名称: 网游-英雄世界
+# 词库分类: 其它
+# 词库描述: 英雄世界是在龙与地下城与七龙纪的大环境下，英雄世界包含了城市建造系统，英雄探索系统，装备升级与套装系统 更多《英雄世界》信息请浏览 http://xin.766.com/
+# 词条样例: 矮人宝藏、矮人领主之盾、苍龙、城堡、出生礼包、大鬼连枷
+# 解析词数: 300
+# 解析异常: 0
+
+矮人宝藏	ai ren bao zang	300
+矮人鳞甲	ai ren lin jia	299
+矮人领主盾	ai ren ling zhu dun	298
+矮人领主之盾	ai ren ling zhu zhi dun	297
+矮人轻钢盔	ai ren qing gang kui	296
+矮人双刃斧	ai ren shuang ren fu	295
+博学毡帽	bo xue zhan mao	294
+苍龙	cang long	293
+长剑	chang jian	292
+城堡	cheng bao	291
+城门	cheng men	290
+城墙	cheng qiang	289
+城印	cheng yin	288
+赤龙剑	chi long jian	287
+出生礼包	chu sheng li bao	286
+出征战旗	chu zheng zhan qi	285
+春藤果	chun teng guo	284
+大鬼连枷	da gui lian jia	283
+大剑师	da jian shi	282
+大精灵	da jing ling	281
+大蛇神胸甲	da she shen xiong jia	280
+大天使	da tian shi	279
+弹道术	dan dao shu	278
+盗贼	dao zei	277
+盗贼之家	dao zei zhi jia	276
+地窟	di ku	275
+地狱火剑	di yu huo jian	274
+地狱王冠	di yu wang guan	273
+掉落	diao luo	272
+冬凌果	dong ling guo	271
+毒环	du huan	270
+法师长袍	fa shi chang pao	269
+防护技巧	fang hu ji qiao	268
+防御	fang yu	267
+防御术	fang yu shu	266
+风车	feng che	264
+丰收号角	feng shou hao jiao	265
+凤爪	feng zhao	258
+风之尘	feng zhi chen	263
+风之核	feng zhi he	262
+风之熵	feng zhi shang	259
+风之微粒	feng zhi wei li	261
+风之元素	feng zhi yuan su	260
+副本卡	fu ben ka	257
+岗楼	gang lou	256
+公会礼包	gong hui li bao	253
+攻击	gong ji	255
+攻击术	gong ji shu	254
+弓箭手	gong jian shou	252
+蛊惑之盾	gu huo zhi dun	251
+骨质护甲	gu zhi hu jia	250
+鬼龙	gui long	249
+海蓝石	hai lan shi	248
+海浪戒指	hai lang jie zhi	247
+还有	hai you	239
+还有机会	hai you ji hui	238
+浩劫狼牙棒	hao jie lang ya bang	246
+黑魔剑	hei mo jian	245
+黑铁护甲	hei tie hu jia	244
+后勤术	hou qin shu	243
+护城河	hu cheng he	242
+护盾术	hu dun shu	241
+护卫	hu wei	240
+幻魔师手套	huan mo shi shou tao	236
+缓行术	huan xing shu	237
+黄金	huang jin	235
+黄金甲	huang jin jia	234
+黄金生产	huang jin sheng chan	233
+恢复技巧	hui fu ji qiao	232
+恢复英雄魔法	hui fu ying xiong mo fa	231
+混沌之冠	hun dun zhi guan	230
+火之尘	huo zhi chen	229
+火之核	huo zhi he	228
+火之熵	huo zhi shang	225
+火之微粒	huo zhi wei li	227
+火之元素	huo zhi yuan su	226
+急救帐篷	ji jiu zhang peng	224
+急行术	ji xing shu	223
+坚强戟盾	jian qiang ji dun	222
+剑士	jian shi	218
+剑师	jian shi	219
+箭术	jian shu	220
+见习射手	jian xi she shou	221
+建筑技巧	jian zhu ji qiao	217
+僵尸	jiang shi	216
+教堂	jiao tang	214
+角铁	jiao tie	215
+节点水晶	jie dian shui jing	213
+金龙	jin long	212
+锦旗	jin qi	211
+禁卫	jin wei	210
+经验碑	jing yan bei	206
+精英射手	jing ying she shou	209
+精致的小盾	jing zhi de xiao dun	208
+精致马靴	jing zhi ma xue	207
+酒馆	jiu guan	205
+具名	ju ming	197
+巨魔白骨头盔	ju mo bai gu tou kui	204
+巨魔钢爪	ju mo gang zhao	203
+巨魔骨盾	ju mo gu dun	202
+巨魔骸骨战甲	ju mo hai gu zhan jia	201
+巨魔混沌头盔	ju mo hun dun tou kui	200
+巨魔邪恶连枷	ju mo xie e lian jia	199
+巨人战甲	ju ren zhan jia	198
+军营	jun ying	196
+抗魔	kang mo	195
+科技塔	ke ji ta	194
+恐怖骑士	kong bu qi shi	193
+枯木战士	ku mu zhan shi	192
+狂魔之盾	kuang mo zhi dun	191
+蓝龙护盾	lan long hu dun	190
+狼人头盔	lang ren tou kui	189
+狼人王盾	lang ren wang dun	188
+雷神之盔	lei shen zhi kui	187
+理财术	li cai shu	186
+领导术	ling dao shu	185
+硫磺	liu huang	183
+硫磺漏斗	liu huang lou dou	182
+硫磺生产	liu huang sheng chan	181
+琉璃戒指	liu li jie zhi	184
+龙盾	long dun	180
+龙骨胫甲	long gu jing jia	179
+龙甲	long jia	178
+龙纹玉石	long wen yu shi	177
+龙穴	long xue	176
+龙牙冠	long ya guan	175
+龙牙项链	long ya xiang lian	174
+龙眼戒指	long yan jie zhi	173
+龙翼袍	long yi pao	172
+龙爪	long zhua	171
+掠夺技巧	lue duo ji qiao	170
+洛瑟结晶	luo se jie jing	169
+马鞭草	ma bian cao	168
+马厩	ma jiu	167
+每天访问	mei tian fang wen	166
+迷迭香	mi die xiang	165
+名册	ming ce	163
+明镜湖水	ming jing hu shui	164
+魔法护盾	mo fa hu dun	162
+魔法箭	mo fa jian	161
+魔法墙	mo fa qiang	160
+魔幻花园	mo huan hua yuan	159
+魔井	mo jing	158
+魔力	mo li	157
+魔力水晶	mo li shui jing	156
+木材	mu cai	155
+木材车	mu cai che	154
+木材生产	mu cai sheng chan	153
+牧师	mu shi	152
+内政厅	nei zheng ting	151
+能量水晶	neng liang shui jing	150
+能量微尘	neng liang wei chen	149
+弩车	nu che	1
+潘多拉的金盒	pan duo la de jin he	148
+潘多拉的木盒	pan duo la de mu he	147
+潘多拉的铁盒	pan duo la de tie he	146
+潘多拉的银盒	pan duo la de yin he	145
+潘多拉木盒角铁	pan duo la mu he jiao tie	144
+炮术	pao shu	143
+培育技巧	pei yu ji qiao	142
+平衡之帽	ping heng zhi mao	141
+祈福袋	qi fu dai	140
+骑士	qi shi	139
+骑手	qi shou	138
+强化火系	qiang hua huo xi	137
+强化魔力	qiang hua mo li	136
+强化气系	qiang hua qi xi	135
+强化水系	qiang hua shui xi	134
+强化土系	qiang hua tu xi	133
+强化智力	qiang hua zhi li	132
+秋瑟果	qiu se guo	131
+驱散术	qu san shu	130
+人马战斧	ren ma zhan fu	129
+软猬甲	ruan wei jia	128
+三叶草项链	san ye cao xiang lian	127
+上箭塔	shang jian ta	126
+射手塔楼	she shou ta lou	125
+射手营地	she shou ying di	124
+神龙礼包	shen long li bao	123
+神秘	shen mi	122
+神秘山地	shen mi shan di	121
+神射手	shen she shou	120
+神兽之冠	shen shou zhi guan	119
+圣灵	sheng ling	118
+圣堂胸甲	sheng tang xiong jia	117
+圣堂之刃	sheng tang zhi ren	116
+市场	shi chang	102
+石肤术	shi fu shu	110
+失衡拳套	shi heng quan tao	115
+狮鹫	shi jiu	114
+狮鹫城堡	shi jiu cheng bao	113
+狮鹫塔楼	shi jiu ta lou	112
+狮鹫王	shi jiu wang	111
+石料	shi liao	109
+石料车	shi liao che	108
+石料生产	shi liao sheng chan	107
+石榴石	shi liu shi	106
+食人魔披风	shi ren mo pi feng	105
+嗜血术	shi xue shu	103
+使者	shi zhe	104
+守护神之盾	shou hu shen zhi dun	101
+水车	shui che	100
+水晶	shui jing	99
+水晶龙	shui jing long	98
+水晶漏斗	shui jing lou dou	97
+水晶生产	shui jing sheng chan	96
+水银	shui yin	95
+水银漏斗	shui yin lou dou	94
+水银生产	shui yin sheng chan	93
+水之尘	shui zhi chen	92
+水之核	shui zhi he	91
+水之微粒	shui zhi wei li	90
+水之元素	shui zhi yuan su	89
+泰坦胸甲	tai tan xiong jia	88
+泰坦之剑	tai tan zhi jian	87
+太阳殿	tai yang dian	86
+特勤令	te qin ling	85
+藤木甲	teng mu jia	84
+天赐魔石	tian ci mo shi	83
+天恩魔石	tian en mo shi	82
+天劫魔石	tian jie mo shi	81
+天行者披风	tian xing zhe pi feng	80
+天佑魔石	tian you mo shi	79
+铁匠铺	tie jiang pu	78
+投石车	tou shi che	77
+土之尘	tu zhi chen	76
+土之核	tu zhi he	75
+土之熵	tu zhi shang	72
+土之微粒	tu zhi wei li	74
+土之元素	tu zhi yuan su	73
+拓荒钥匙	tuo huang yao shi	71
+亡灵盾	wang ling dun	70
+卫队骑士	wei dui qi shi	68
+维修工厂	wei xiu gong chang	69
+物资仓库	wu zi cang ku	67
+西多之环	xi duo zhi huan	66
+吸血鬼王	xi xue gui wang	65
+下箭塔	xia jian ta	64
+夏洛果	xia luo guo	63
+象群	xiang qun	62
+新手礼包	xin shou li bao	61
+幸运术	xing yun shu	60
+兄弟会	xiong di hui	59
+血色战旗	xue se zhan qi	58
+血族华丽长袍	xue zu hua li chang pao	57
+血族荆棘王冠	xue zu jing ji wang guan	56
+血族獠牙	xue zu liao ya	52
+血族守护	xue zu shou hu	55
+血族隐形斗篷	xue zu yin xing dou peng	54
+血族优雅羽靴	xue zu you ya yu xue	53
+训练场	xun lian chang	51
+亚马逊长枪	ya ma xun chang qiang	50
+野蛮之锤	ye man zhi chui	49
+野猪	ye zhu	48
+野猪巢穴	ye zhu chao xue	47
+医疗术	yi liao shu	46
+易名石	yi ming shi	44
+遗忘之镜	yi wang zhi jing	45
+银飞马	yin fei ma	43
+营地	ying di	42
+营救术	ying jiu shu	41
+游牧民	you mu min	40
+御火术	yu huo shu	39
+元素壁垒	yuan su bi lei	38
+元素之刃	yuan su zhi ren	37
+月桂	yue gui	36
+运输车	yun shu che	35
+增加经验	zeng jia jing yan	34
+增加英雄机动力	zeng jia ying xiong ji dong li	33
+战斗	zhan dou	32
+战斗矮人	zhan dou ai ren	31
+招魂术	zhao hun shu	30
+招募令	zhao mu ling	29
+侦查技巧	zhen cha ji qiao	28
+侦查术	zhen cha shu	27
+智慧术	zhi hui shu	25
+智慧之冠	zhi hui zhi guan	24
+智力	zhi li	23
+治疗术	zhi liao shu	22
+知识	zhi shi	26
+中箭塔	zhong jian ta	21
+珠宝	zhu bao	20
+珠宝漏斗	zhu bao lou dou	19
+珠宝生产	zhu bao sheng chan	18
+贮藏技巧	zhu cang ji qiao	16
+祝福术	zhu fu shu	15
+主教	zhu jiao	17
+侏儒	zhu ru	10
+侏儒军团	zhu ru jun tuan	9
+侏儒魔力手套	zhu ru mo li shou tao	8
+侏儒魔力靴	zhu ru mo li xue	7
+侏儒头巾	zhu ru tou jin	6
+侏儒之尖叫	zhu ru zhi jian jiao	5
+侏儒之皮毛	zhu ru zhi pi mao	4
+侏儒之握	zhu ru zhi wo	3
+侏儒之隐	zhu ru zhi yin	2
+驻守兵力	zhu shou bing li	14
+自愈术	zi yu shu	13
+诅咒	zu zhou	12
+诅咒之盾	zu zhou zhi dun	11

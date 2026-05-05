@@ -1,0 +1,659 @@
+# 词库名称: 中医内科诊断
+# 词库分类: 中医
+# 词库描述: 爱国中医谨以此奉献给广大默默无闻的中医工作者
+# 词条样例: 自汗、失眠、耳鸣、齿衄、咳嗽、心悸
+# 解析词数: 652
+# 解析异常: 0
+
+嗳腐	ai fu	191
+嗳气	ai qi	190
+百合病	bai he bing	581
+白喉	bai hou	599
+白睛	bai jing	81
+白睛红赤	bai jing hong chi	80
+白睛混赤	bai jing hun chi	79
+白睛溢血	bai jing yi xue	189
+百日咳	bai ri ke	598
+白涩症	bai se zheng	188
+半坐卧位	ban zuo wo wei	78
+暴风客热	bao feng ke re	186
+胞睑	bao jian	187
+暴露赤眼生翳	bao lu chi yan sheng yi	43
+抱轮红赤	bao lun hong chi	77
+暴泻	bao xie	496
+奔豚	ben tun	1
+鼻干	bi gan	76
+鼻根	bi gen	75
+鼻衄	bi nv	640
+鼻柱	bi zhu	185
+痹阻	bi zu	183
+闭阻	bi zu	184
+便闭	bian bi	621
+辨病	bian bing	182
+便秘	bian mi	620
+便溏	bian tang	375
+便溏泄	bian tang xie	374
+便血	bian xie	619
+辨证	bian zheng	181
+病程记录	bing cheng ji lu	373
+病记	bing ji	372
+搏结	bo jie	180
+剥苔	bo tai	371
+不寐	bu mei	582
+不育	bu yu	419
+蚕豆黄	can dou huang	455
+苍白	cang bai	179
+草莓舌	cao mei she	370
+嘈杂	cao za	628
+查因	cha yin	369
+颤病	chan bing	560
+肠癌	chang ai	490
+肠痹	chang bi	483
+肠结	chang jie	484
+肠痨	chang lao	491
+肠瘤	chang liu	492
+长脉	chang mai	201
+长期医嘱	chang qi yi zhu	47
+肠痈	chang yong	488
+肠郁	chang yu	485
+长嘱	chang zhu	200
+潮红	chao hong	178
+沉迟	chen chi	368
+尘肺	chen fei	520
+沉脉	chen mai	367
+沉弦	chen xian	366
+迟脉	chi mai	365
+齿衄	chi nv	639
+抽搐	chou chu	651
+出血中风	chu xie zhong feng	577
+传染病史	chuan ran bing shi	177
+疮疡	chuang yang	364
+春温	chun wen	610
+唇周	chun zhou	176
+刺痛	ci tong	363
+促脉	cu mai	362
+大便可	da bian ke	361
+大便溏泄	da bian tang xie	359
+大便调	da bian tiao	360
+大瘕泄	da jia xie	494
+大脉	da mai	175
+大肉下陷	da rou xia xian	174
+代脉	dai mai	358
+胆癌	dan ai	457
+淡白	dan bai	173
+胆疸	dan dan	460
+胆瘅	dan dan	461
+淡青	dan qing	172
+单声咳	dan sheng ke	42
+胆石	dan shi	458
+胆胀	dan zhang	459
+盗汗	dao han	649
+得温则减	de wen ze jian	357
+癫病	dian bing	586
+癫狂病	dian kuang bing	584
+疔疮	ding chuang	356
+疔疖	ding jie	355
+动脉	dong mai	354
+短脉	duan mai	353
+对侧	dui ce	352
+钝痛	dun tong	351
+多汗	duo han	350
+多寐	duo mei	583
+恶核	e he	536
+呃逆	e ni	192
+呃逆病	e ni bing	516
+二便调	er bian tiao	346
+耳聋	er long	641
+耳鸣	er ming	642
+乏力	fa li	345
+发热	fa re	652
+乏源	fa yuan	171
+反酸	fan suan	170
+肺癌	fei ai	524
+肥甘厚腻	fei gan hou ni	169
+肺厥	fei jue	522
+肺咳	fei ke	531
+肺痨	fei lao	525
+肺络张	fei luo zhang	528
+肥胖病	fei pang bing	382
+肥气	fei qi	479
+肺热病	fei re bing	532
+肺衰	fei shuai	521
+肺水	fei shui	523
+肺痿	fei wei	2
+肺萎	fei wei	527
+肺系病类	fei xi bing lei	533
+肺心病	fei xin bing	550
+肺痈	fei yong	526
+肺胀	fei zhang	529
+风痹	feng bi	412
+风痱	feng fei	575
+风关	feng guan	168
+风厥	feng jue	573
+风轮	feng lun	167
+风水	feng shui	452
+风邪	feng xie	74
+风眩	feng xuan	543
+风疹	feng zhen	601
+浮缓	fu huan	343
+趺蹶	fu jue	3
+伏梁	fu liang	493
+伏脉	fu mai	344
+浮脉	fu mai	342
+复视	fu shi	73
+腹水	fu shui	624
+浮数	fu shuo	341
+腹痛	fu tong	625
+腹压	fu ya	166
+肝癌	gan ai	464
+肝瘅	gan dan	462
+肝积	gan ji	467
+干脚气	gan jiao qi	380
+肝厥	gan jue	463
+肝痨	gan lao	470
+肝瘤	gan liu	465
+干啰音	gan luo yin	340
+感冒	gan mao	603
+肝癖	gan pi	469
+肝热病	gan re bing	595
+肝瘟	gan wen	594
+肝系病类	gan xi bing lei	472
+干胁痛	gan xie tong	518
+肝痈	gan yong	471
+干燥病	gan zao bing	381
+肝著	gan zhu	468
+高原胸痹	gao yuan xiong bi	546
+革脉	ge mai	339
+个人史	ge ren shi	338
+膈疝	ge shan	515
+骨痹	gu bi	402
+骨蚀	gu shi	10
+鼓胀	gu zhang	466
+关节痛	guan jie tong	615
+腘窝	guo wo	337
+寒痹	han bi	411
+汗味重	han wei zhong	336
+寒邪	han xie	72
+黑疸	hei dan	425
+黑睛	hei jing	71
+洪脉	hong mai	335
+虹视	hong shi	70
+喉关	hou guan	165
+喉核	hou he	164
+后屈	hou qu	334
+后伸	hou shen	333
+狐惑病	hu huo bing	4
+滑精	hua jing	423
+滑脉	hua mai	332
+患侧	huan ce	330
+缓脉	huan mai	331
+患肢	huan zhi	329
+晄白	huang bai	161
+黄疸	huang dan	626
+黄胖	huang pang	163
+黄胖病	huang pang bing	588
+黄仁	huang ren	162
+黄液上冲	huang ye shang chong	41
+蛔厥	hui jue	454
+混睛障	hun jing zhang	40
+火疳	huo gan	160
+霍乱	huo luan	611
+火邪	huo xie	69
+肌痹	ji bi	407
+脊痹	ji bi	400
+疾脉	ji mai	328
+既往史	ji wang shi	327
+肌痿	ji wei	391
+急性肾衰	ji xing shen shuai	438
+肩痹	jian bi	397
+健侧	jian ce	326
+睑内结石	jian nei jie shi	39
+健忘	jian wang	645
+睑弦	jian xian	68
+健肢	jian zhi	325
+椒疮	jiao chuang	38
+脚气冲心	jiao qi chong xin	378
+接触史	jie chu shi	159
+结代脉	jie dai mai	323
+拮抗	jie kang	324
+结脉	jie mai	322
+筋痹	jin bi	406
+金疳	jin gan	158
+紧脉	jin mai	321
+筋痿	jin wei	390
+痉病	jing bing	8
+精神差	jing shen cha	320
+精神佳	jing shen jia	319
+精神可	jing shen ke	156
+痉湿暍	jing shi ye	5
+晶珠	jing zhu	157
+酒厥	jiu jue	568
+久泄	jiu xie	495
+拒按	ju an	318
+聚星障	ju xing zhang	37
+倦怠	juan dai	317
+厥头痛	jue tou tong	574
+厥心痛	jue xin tong	547
+咳嗽	ke sou	638
+咳血	ke xue	636
+口臭	kou chou	315
+口唇	kou chun	155
+口干	kou gan	314
+口干不欲饮	kou gan bu yu yin	313
+口渴欲饮	kou ke yu yin	312
+口苦	kou ku	311
+芤脉	kou mai	316
+口僻	kou pi	559
+口甜	kou tian	310
+叩诊	kou zhen	309
+枯槁	ku gao	154
+狂病	kuang bing	585
+癞皮病	lai pi bing	376
+烂喉丹痧	lan hou dan sha	597
+烂喉痧	lan hou sha	67
+懒言	lan yan	308
+劳淋	lao lin	435
+痨淋	lao lin	433
+牢脉	lao mai	307
+落枕	lao zhen	399
+类霍乱	lei huo luan	497
+冷厥	leng jue	569
+黧黑	li hei	153
+痢疾	li ji	593
+疠气	li qi	152
+连声咳	lian sheng ke	36
+量中	liang zhong	35
+两眦	liang zi	151
+临时医嘱	lin shi yi zhu	66
+临嘱	lin zhu	306
+流泪症	liu lei zheng	34
+六脉	liu mai	305
+癃闭	long bi	431
+漏睛病	lou jing bing	33
+漏睛疮	lou jing chuang	32
+颅脑痈	lu nao yong	556
+麻痛	ma tong	150
+麻疹	ma zhen	602
+脉痹	mai bi	403
+脉场	mai chang	304
+脉沉	mai chen	303
+脉沉迟	mai chen chi	302
+脉沉细	mai chen xi	149
+脉沉弦	mai chen xian	301
+脉迟	mai chi	300
+脉促	mai cu	299
+脉大	mai da	298
+脉代	mai dai	297
+脉动	mai dong	296
+脉短	mai duan	295
+脉伏	mai fu	294
+脉浮	mai fu	293
+脉浮缓	mai fu huan	292
+脉浮数	mai fu shuo	291
+脉革	mai ge	290
+脉洪	mai hong	289
+脉滑	mai hua	288
+脉缓	mai huan	287
+脉疾	mai ji	286
+脉结	mai jie	285
+脉结代	mai jie dai	284
+脉紧	mai jin	283
+脉芤	mai kou	282
+脉牢	mai lao	281
+脉濡	mai ru	280
+脉散	mai san	279
+脉涩	mai se	278
+脉实	mai shi	277
+脉数	mai shuo	276
+脉微	mai wei	275
+脉微细	mai wei xi	148
+脉细	mai xi	274
+脉细数	mai xi shuo	273
+脉弦	mai xian	272
+脉弦数	mai xian shuo	271
+脉虚	mai xu	270
+慢性肾衰	man xing shen shuai	437
+眉间	mei jian	147
+眉棱骨痛	mei leng gu tong	385
+梦遗	meng yi	424
+眠差	mian cha	146
+面风痛	mian feng tong	557
+面红如妆	mian hong ru zhuang	143
+眠可	mian ke	145
+面色	mian se	142
+眠一般	mian yi ban	144
+命关	ming guan	141
+目系	mu xi	65
+目劄	mu zha	140
+纳差	na cha	269
+纳佳	na jia	268
+纳可	na ke	267
+纳眠可	na mian ke	266
+纳香	na xiang	265
+脑呆	nao dai	561
+脑痨	nao lao	565
+脑瘤	nao liu	564
+脑络痹	nao luo bi	563
+脑鸣	nao ming	555
+脑萎	nao wei	562
+内收	nei shou	264
+内外障	nei wai zhang	139
+内障	nei zhang	138
+尿崩	niao beng	429
+尿道痿	niao dao wei	427
+尿血	niao xie	618
+尿浊	niao zhuo	617
+凝脂翳	ning zhi yi	31
+脓漏睛	nong lou jing	30
+脓漏眼	nong lou yan	137
+胬肉攀睛	nu rou pan jing	136
+怒张	nu zhang	135
+呕吐	ou tu	632
+呕血	ou xue	631
+膀胱癌	pang guang ai	432
+皮痹	pi bi	405
+皮水	pi shui	451
+脾水	pi shui	480
+脾痿	pi wei	481
+脾系病类	pi xi bing lei	517
+脾约	pi yue	482
+偏痹	pian bi	401
+偏头风	pian tou feng	558
+平脐	ping qi	263
+气喘	qi chuan	637
+气腹痛	qi fu tong	486
+气关	qi guan	134
+气厥	qi jue	572
+气淋	qi lin	261
+气轮	qi lun	133
+气逆而咳	qi ni er ke	29
+脐上	qi shang	262
+气瘿	qi ying	418
+前屈	qian qu	260
+前伸	qian shen	259
+强中	qiang zhong	420
+切诊	qie zhen	132
+青黑	qing hei	131
+青腿牙疳	qing tui ya gan	377
+青紫	qing zi	130
+屈髋	qu kuan	258
+屈曲	qu qu	257
+屈膝	qu xi	256
+缺血中风	que xue zhong feng	576
+热痹	re bi	409
+热毒	re du	64
+热淋	re lin	436
+热邪	re xie	63
+日多夜少	ri duo ye shao	28
+日二行	ri er hang	129
+日夜均作	ri ye jun zuo	27
+肉痉	rou jing	386
+肉轮	rou lun	128
+肉瘿	rou ying	417
+濡脉	ru mai	255
+软脚瘟	ruan jiao wen	605
+弱脉	ruo mai	254
+三关	san guan	127
+散脉	san mai	253
+涩脉	se mai	252
+上胞下垂	shang bao xia chui	26
+上犯	shang fan	126
+伤津	shang jin	62
+上扰	shang rao	125
+伤食	shang shi	502
+伤暑	shang shu	609
+上熏	shang xun	124
+上蒸	shang zheng	123
+少气	shao qi	251
+舌红绛	she hong jiang	122
+舌绛	she jiang	121
+舌青	she qing	120
+舌下络脉	she xia luo mai	119
+舌象	she xiang	118
+舌紫	she zi	117
+肾癌	shen ai	441
+肾垂	shen chui	443
+肾瘅	shen dan	446
+神昏	shen hun	643
+肾厥	shen jue	440
+神劳	shen lao	580
+肾痨	shen lao	442
+肾衰	shen shuai	439
+肾水	shen shui	449
+肾系病类	shen xi bing lei	453
+肾痈	shen yong	444
+肾著	shen zhu	445
+湿痹	shi bi	410
+湿病	shi bing	7
+视触叩听	shi chu kou ting	248
+湿毒	shi du	61
+视二为一	shi er wei yi	58
+时复病	shi fu bing	115
+视膏	shi gao	113
+食管痹	shi guan bi	513
+食管瘅	shi guan dan	514
+湿脚气	shi jiao qi	379
+尸厥	shi jue	567
+食厥	shi jue	503
+石淋	shi lin	434
+湿啰音	shi luo yin	250
+实脉	shi mai	249
+失眠	shi mian	646
+嗜睡	shi shui	644
+石水	shi shui	450
+湿温	shi wen	60
+湿瘟	shi wen	591
+视物不清	shi wu bu qing	57
+湿邪	shi xie	59
+时行感冒	shi xing gan mao	604
+失养	shi yang	116
+湿翳	shi yi	25
+视衣	shi yi	112
+食亦	shi yi	500
+石瘿	shi ying	416
+食指络脉	shi zhi luo mai	114
+湿阻	shi zu	592
+首程	shou cheng	247
+首次病程记录	shou ci bing cheng ji lu	246
+手心多汗	shou xin duo han	245
+手足心多汗	shou zu xin duo han	244
+数脉	shu mai	243
+暑热	shu re	56
+暑湿	shu shi	55
+暑温	shu wen	54
+水痘	shui dou	600
+水轮	shui lun	111
+水肿	shui zhong	616
+粟疮	su chuang	24
+宿翳	su yi	18
+髓劳	sui lao	539
+缩阴病	suo yin bing	426
+苔白厚腻	tai bai hou ni	242
+苔白滑	tai bai hua	241
+苔白腻	tai bai ni	240
+苔薄白	tai bo bai	239
+苔薄黄	tai bo huang	238
+苔黑	tai hei	110
+苔黄厚腻	tai huang hou ni	237
+苔黄腻	tai huang ni	236
+苔灰	tai hui	109
+苔少	tai shao	235
+瘫痪	tan huan	614
+痰厥	tan jue	570
+痰色白	tan se bai	23
+痰色黄	tan se huang	22
+天行赤眼	tian xing chi yan	108
+跳痛	tiao tong	234
+痛风	tong feng	392
+瞳神	tong shen	107
+瞳神干缺	tong shen gan que	21
+瞳神紧小	tong shen jin xiao	20
+头部内伤	tou bu nei shang	553
+头痛	tou tong	648
+头痛欲裂	tou tong yu lie	233
+吞酸	tun suan	106
+脱肛	tuo gang	487
+外展	wai zhan	232
+外障	wai zhang	105
+尪痹	wang bi	408
+望色	wang se	104
+望诊	wang zhen	103
+胃癌	wei ai	504
+痿躄	wei bi	389
+为病	wei bing	102
+痿病	wei bing	230
+胃瘅	wei dan	511
+胃反	wei fan	505
+畏光	wei guang	101
+畏寒	wei han	229
+胃缓	wei huan	507
+胃瘕	wei jia	506
+胃络痛	wei luo tong	510
+微脉	wei mai	231
+胃痞	wei pi	509
+畏声	wei sheng	100
+胃石	wei shi	499
+胃脘痛	wei wan tong	629
+胃疡	wei yang	512
+胃饮	wei yin	498
+胃胀	wei zhang	508
+温毒发斑	wen du fa ban	589
+温疫	wen yi	53
+问诊	wen zhen	98
+闻诊	wen zhen	99
+五风	wu feng	97
+恶风	wu feng	349
+恶风寒	wu feng han	348
+恶寒	wu han	347
+无汗	wu han	228
+五色	wu se	96
+无苔	wu tai	227
+喜按	xi an	226
+膝痹	xi bi	395
+喜冷饮	xi leng yin	225
+细脉	xi mai	223
+细数	xi shuo	222
+喜温	xi wen	224
+喜饮	xi yin	95
+夏季热	xia ji re	607
+侠瘿瘅	xia ying dan	413
+痫病	xian bing	587
+现病史	xian bing shi	219
+弦脉	xian mai	221
+弦数	xian shuo	220
+项背	xiang bei	94
+项痹	xiang bi	398
+小便不禁	xiao bian bu jin	428
+小便黄	xiao bian huang	218
+小便清长	xiao bian qing chang	217
+哮病	xiao bing	530
+小肠瘅	xiao chang dan	489
+消渴	xiao ke	474
+消渴厥	xiao ke jue	473
+蟹睛	xie jing	19
+胁肋痛	xie lei tong	384
+胁痛	xie tong	627
+泄泻	xie xie	622
+心痹	xin bi	552
+心瘅	xin dan	549
+心动悸	xin dong ji	548
+心悸	xin ji	634
+心厥	xin jue	545
+心衰	xin shuai	551
+心痛	xin tong	633
+形寒	xing han	216
+胸痛	xiong tong	635
+虚脉	xu mai	93
+需脉	xu mai	215
+虚眩	xu xuan	542
+蓄血病	xu xue bing	541
+玄府	xuan fu	92
+旋后	xuan hou	214
+旋内	xuan nei	213
+旋前	xuan qian	212
+旋外	xuan wai	211
+悬饮	xuan yin	519
+眩晕	xuan yun	647
+血痹	xue bi	404
+血疸	xue dan	456
+血厥	xue jue	571
+血劳	xue lao	540
+血轮	xue lun	91
+血脱	xue tuo	535
+血溢病	xue yi bing	537
+循经	xun jing	90
+眼丹	yan dan	16
+咽干	yan gan	52
+厌食	yan shi	501
+咽痒而咳	yan yang er ke	17
+杨梅舌	yang mei she	210
+阳痿	yang wei	421
+腰痹	yao bi	396
+暍病	ye bing	6
+夜多日少	ye duo ri shao	15
+噎膈	ye ge	630
+液脱	ye tuo	534
+胰癌	yi ai	475
+疫斑热	yi ban re	590
+胰瘅	yi dan	478
+疫疠	yi li	50
+遗尿	yi niao	430
+易醒	yi xing	89
+溢饮	yi yin	447
+胰痈	yi yong	476
+翳障	yi zhang	51
+胰胀	yi zhang	477
+阴暑	yin shu	49
+阴阳毒	yin yang du	9
+瘿病	ying bing	209
+瘿劳	ying lao	414
+瘿瘤岩	ying liu yan	208
+瘿气	ying qi	415
+痈疽	yong ju	207
+用药史	yong yao shi	206
+右尺	you chi	205
+右寸	you cun	204
+右关	you guan	203
+右脉	you mai	88
+瘀点	yu dian	87
+预防接种史	yu fang jie zhong shi	86
+欲裂	yu lie	202
+欲饮	yu yin	85
+晕动病	yun dong bing	554
+脏躁	zang zao	579
+早泄	zao xie	422
+燥邪	zao xie	48
+痄腮	zha sai	596
+胀痛	zhang tong	199
+振颤	zhen chan	613
+针眼	zhen yan	14
+真脏脉	zhen zang mai	84
+癥积	zheng ji	623
+正水	zheng shui	448
+肢痹	zhi bi	393
+质稠	zhi chou	13
+质软	zhi ruan	46
+肢痿	zhi wei	388
+质稀	zhi xi	12
+支饮	zhi yin	544
+质硬	zhi ying	45
+质粘	zhi zhan	11
+指诊	zhi zhen	83
+质中	zhi zhong	44
+中恶	zhong e	566
+中风	zhong feng	578
+中暑	zhong shu	608
+肘窝	zhou wo	198
+侏儒	zhu ru	383
+疰夏	zhu xia	606
+转筋	zhuan jin	387
+紫斑	zi ban	612
+紫癜病	zi dian bing	538
+自汗	zi han	650
+足底多汗	zu di duo han	197
+足跟	zu gen	196
+足跟痹	zu gen bi	394
+左尺	zuo chi	195
+左寸	zuo cun	194
+左关	zuo guan	193
+左脉	zuo mai	82

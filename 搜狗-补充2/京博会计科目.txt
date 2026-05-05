@@ -1,0 +1,477 @@
+# 词库名称: 京博会计科目
+# 词库分类: 个人专用
+# 词库描述: 分的
+# 词条样例: 银行存款、工行一般户、专项资金户、建行税户、建行专项资金户、中行存款
+# 解析词数: 470
+# 解析异常: 0
+
+安全保证金	an quan bao zheng jin	246
+安全补贴	an quan bu tie	166
+安全费用	an quan fei yong	167
+安全消防费	an quan xiao fang fei	28
+办公费	ban gong fei	136
+保单红利支出	bao dan hong li zhi chu	79
+保费收入	bao fei shou ru	122
+保户储金	bao hu chu jin	219
+保险费	bao xian fei	42
+保险责任准备金	bao xian ze ren zhun bei jin	220
+保证金	bao zheng jin	234
+包装物	bao zhuang wu	358
+北关信用社	bei guan xin yong she	446
+被套期项目	bei tao qi xiang mu	208
+备用金	bei yong jin	384
+本年利润	ben nian li run	190
+标准件制剂成本	biao zhun jian zhi ji cheng ben	97
+标准制剂	biao zhun zhi ji	363
+标准制剂收入	biao zhun zhi ji shou ru	126
+拨款转入	bo kuan zhuan ru	201
+博兴农信	bo xing nong xin	447
+博兴支行	bo xing zhi hang	429
+部门车辆费用	bu men che liang fei yong	43
+财产保险费	cai chan bao xian fei	49
+材料采购	cai liao cai gou	375
+材料成本	cai liao cheng ben	94
+材料费	cai liao fei	164
+财务费用	cai wu fei yong	14
+财务费用转出	cai wu fei yong zhuan chu	11
+残疾人就业保障金	can ji ren jiu ye bao zhang jin	58
+差额承兑保证金	cha e cheng dui bao zheng jin	424
+拆出资金	chai chu zi jin	380
+差旅费	chai lv fei	137
+拆入资金	chai ru zi jin	305
+产品登记费	chan pin deng ji fei	31
+长期待摊费用	chang qi dai tan fei yong	311
+长期待摊费用摊销	chang qi dai tan fei yong tan xiao	16
+长期股权投资	chang qi gu quan tou zi	347
+长期股权投资减值准备	chang qi gu quan tou zi jian zhi zhun bei	346
+长期借款	chang qi jie kuan	223
+长期应付款	chang qi ying fu kuan	217
+长期应收款	chang qi ying shou kuan	344
+车船使用税	che chuan shi yong shui	52
+车辆保证金	che liang bao zheng jin	244
+车辆费用	che liang fei yong	24
+车辆年审费	che liang nian shen fei	34
+陈户农信	chen hu nong xin	449
+成本转出	cheng ben zhuan chu	92
+承兑贴息	cheng dui tie xi	12
+城市维护建设税	cheng shi wei hu jian she shui	88
+持有至到期投资	chi you zhi dao qi tou zi	350
+持有至到期投资减值准备	chi you zhi dao qi tou zi jian zhi zhun bei	349
+储备基金	chu bei ji jin	194
+出口抵减内销产品应纳税额	chu kou di jian nei xiao chan pin ying na shui e	269
+出口退税	chu kou tui shui	271
+出口业务费	chu kou ye wu fei	61
+处理固定资产净收益	chu li gu ding zi chan jing shou yi	104
+处理固定资产净损失	chu li gu ding zi chan jing sun shi	7
+出售无形资产收入	chu shou wu xing zi chan shou ru	102
+储蓄专户	chu xu zhuan hu	405
+存出保证金	cun chu bao zheng jin	403
+存出资本保证金	cun chu zi ben bao zheng jin	342
+存放同业	cun fang tong ye	427
+存放中央银行款项	cun fang zhong yang yin hang kuan xiang	428
+存货跌价准备	cun huo die jia zhun bei	351
+存款专户	cun kuan zhuan hu	406
+存入保证金	cun ru bao zheng jin	306
+大桶制剂	da tong zhi ji	362
+大桶制剂成本	da tong zhi ji cheng ben	96
+大桶制剂收入	da tong zhi ji shou ru	125
+待处理财产损溢	dai chu li cai chan sun yi	308
+待抵进项税	dai di jin xiang shui	241
+待抵运费进项税	dai di yun fei jin xiang shui	240
+待抵增值税进项税	dai di zeng zhi shui jin xiang shui	239
+代扣物业费	dai kou wu ye fei	238
+贷款	dai kuan	379
+贷款损失准备	dai kuan sun shi zhun bei	378
+代理承销证券款	dai li cheng xiao zheng quan kuan	227
+代理兑付证券	dai li dui fu zheng quan	377
+代理兑付证券款	dai li dui fu zheng quan kuan	226
+代理买卖证券款	dai li mai mai zheng quan kuan	228
+代理业务负债	dai li ye wu fu zhai	225
+代理业务资产	dai li ye wu zi chan	376
+单位欠款	dan wei qian kuan	385
+登记注册费	deng ji zhu ce fei	138
+地方教育费附加	di fang jiao yu fei fu jia	86
+递延收益	di yan shou yi	224
+递延所得税负债	di yan suo de shui fu zhai	213
+递延所得税资产	di yan suo de shui zi chan	310
+抵债资产	di zhai zi chan	354
+低值易耗品	di zhi yi hao pin	357
+低值易耗品摊销	di zhi yi hao pin tan xiao	144
+电费	dian fei	150
+董事会费	dong shi hui fei	23
+独立账户负债	du li zhang hu fu zhai	218
+独立账户资产	du li zhang hu zi chan	309
+短期借款	duan qi jie kuan	307
+发出商品	fa chu shang pin	365
+法定公益金	fa ding gong yi jin	195
+法定盈余公积	fa ding ying yu gong ji	197
+罚款	fa kuan	335
+罚款收入	fa kuan shou ru	107
+法律事务费	fa lv shi wu fei	48
+房产税	fang chan shui	53
+非常损失	fei chang sun shi	4
+非货币性资产交换收益	fei huo bi xing zi chan jiao huan shou yi	101
+废旧物资	fei jiu wu zi	117
+费用化支出	fei yong hua zhi chu	140
+分保费用	fen bao fei yong	76
+分出保费	fen chu bao fei	77
+分析费用	fen xi fei yong	161
+分装	fen zhuang	173
+复配	fu pei	174
+辅助材料	fu zhu cai liao	371
+辅助生产成本	fu zhu sheng chan cheng ben	171
+钢材	gang cai	332
+个人欠款	ge ren qian kuan	386
+个人所得税	ge ren suo de shui	51
+个人往来	ge ren wang lai	235
+工本费收入	gong ben fei shou ru	106
+工程拨款	gong cheng bo kuan	337
+工程结算	gong cheng jie suan	130
+工程施工	gong cheng shi gong	131
+工程物资	gong cheng wu zi	327
+工行保理专户	gong hang bao li zhuan hu	463
+工行存款	gong hang cun kuan	465
+工行一般户	gong hang yi ban hu	464
+工会经费	gong hui jing fei	281
+工伤保险费	gong shang bao xian fei	284
+工商银行	gong shang yin hang	423
+公司车辆费用	gong si che liang fei yong	37
+公益性生物资产	gong yi xing sheng wu zi chan	322
+公允价值变动损益	gong yun jia zhi bian dong sun yi	113
+工资及附加	gong zi ji fu jia	170
+工资奖金	gong zi jiang jin	290
+工资奖金及附加	gong zi jiang jin ji fu jia	159
+固定电话费	gu ding dian hua fei	72
+固定资产	gu ding zi chan	341
+固定资产减值准备	gu ding zi chan jian zhi zhun bei	339
+固定资产盘盈收益	gu ding zi chan pan ying shou yi	103
+固定资产清理	gu ding zi chan qing li	326
+估价入账	gu jia ru zhang	330
+股权投资准备	gu quan tou zi zhun bei	202
+管理费用	guan li fei yong	59
+管理费用转出	guan li fei yong zhuan chu	15
+光大青岛香港中路支行	guang da qing dao xiang gang zhong lu zhi hang	414
+光大银行	guang da yin hang	435
+广告宣传费	guang gao xuan chuan fei	65
+贵金属	gui jin shu	355
+过路桥费	guo lu qiao fei	40
+恒丰济南分行	heng feng ji nan fen hang	411
+恒丰银行	heng feng yin hang	431
+华夏济南纬二路支行	hua xia ji nan wei er lu zhi hang	409
+华夏银行	hua xia yin hang	445
+华夏银行济南市中支行	hua xia yin hang ji nan shi zhong zhi hang	444
+坏账准备	huai zhang zhun bei	382
+环保费用	huan bao fei yong	162
+汇兑损益	hui dui sun yi	114
+会务费	hui wu fei	66
+混凝土	hun ning tu	333
+货币兑换	huo bi dui huan	211
+基本生产成本	ji ben sheng chan cheng ben	175
+技改大修理费用	ji gai da xiu li fei yong	146
+济南交行结算户	ji nan jiao hang jie suan hu	433
+济南招行结算户	ji nan zhao hang jie suan hu	437
+技术服务费	ji shu fu wu fei	156
+机械作业	ji xie zuo ye	129
+加工成本	jia gong cheng ben	172
+加工费用	jia gong fei yong	145
+加工收入	jia gong shou ru	118
+加油费	jia you fei	39
+建行存款	jian hang cun kuan	461
+建行基本户	jian hang ji ben hu	460
+建行济南新区支行	jian hang ji nan xin qu zhi hang	456
+建行美元户	jian hang mei yuan hu	458
+建行税户	jian hang shui hu	459
+建行专项资金户	jian hang zhuan xiang zi jin hu	457
+减免税款	jian mian shui kuan	273
+建设银行	jian she yin hang	422
+检验检测费	jian yan jian ce fei	154
+简易办法纳税	jian yi ban fa na shui	267
+鉴证定费	jian zheng ding fei	44
+江北	jiang bei	395
+江北区	jiang bei qu	293
+江南	jiang nan	394
+江南区	jiang nan qu	292
+交行淄博开发区支行	jiao hang zi bo kai fa qu zhi hang	413
+交通经费	jiao tong jing fei	67
+交通银行	jiao tong yin hang	434
+交易性金融负债	jiao yi xing jin rong fu zhai	300
+交易性金融资产	jiao yi xing jin rong zi chan	402
+教育费附加	jiao yu fei fu jia	87
+解除职工劳动关系补偿	jie chu zhi gong lao dong guan xi bu chang	279
+接受捐赠非现金资产准备	jie shou juan zeng fei xian jin zi chan zhun bei	204
+接受现金捐赠	jie shou xian jin juan zeng	203
+结算备付金	jie suan bei fu jin	404
+结算应付款	jie suan ying fu kuan	295
+进项税额	jin xiang shui e	276
+进项税额转出	jin xiang shui e zhuan chu	274
+捐赠支出	juan zeng zhi chu	6
+竣工转入	jun gong zhuan ru	331
+勘探费用	kan tan fei yong	10
+可供出售金融资产	ke gong chu shou jin rong zi chan	348
+库存股	ku cun gu	177
+库存商品	ku cun shang pin	368
+库存现金	ku cun xian jin	470
+劳动保护费	lao dong bao hu fei	165
+劳务成本	lao wu cheng ben	142
+累计折耗	lei ji she hao	320
+累计摊销	lei ji tan xiao	316
+累计折旧	lei ji zhe jiu	340
+利润分配	li run fen pei	189
+利润归还投资	li run gui huan tou zi	192
+利息收入	li xi shou ru	124
+利息支出	li xi zhi chu	84
+零星工程支出	ling xing gong cheng zhi chu	18
+领用材料	ling yong cai liao	336
+律师费	lv shi fei	47
+卖出回购金融资产款	mai chu hui gou jin rong zi chan kuan	299
+买入返售金融资产	mai ru fan shou jin rong zi chan	401
+美元现金	mei yuan xian jin	467
+民生济南历山路支行	min sheng ji nan li shan lu zhi hang	408
+民生银行	min sheng yin hang	443
+内贸	nei mao	398
+农村信用社	nong cun xin yong she	419
+农行存款	nong hang cun kuan	455
+农行美元户	nong hang mei yuan hu	453
+农行一般户	nong hang yi ban hu	454
+农信社存款	nong xin she cun kuan	450
+农信税户	nong xin shui hu	448
+农业发展银行	nong ye fa zhan yin hang	430
+农业银行	nong ye yin hang	421
+排污费	pai wu fei	29
+赔付支出	pei fu zhi chu	80
+聘请中介机构费	pin qing zhong jie ji gou fei	57
+浦发济南分行	pu fa ji nan fen hang	418
+浦发青岛分行	pu fa qing dao fen hang	417
+浦发银行	pu fa yin hang	442
+其他	qi ta	328
+其他费用	qi ta fei yong	163
+其他货币资金	qi ta huo bi zi jin	426
+其他收入	qi ta shou ru	116
+其他无形资产	qi ta wu xing zi chan	317
+其他无形资产摊销	qi ta wu xing zi chan tan xiao	314
+其他业务成本	qi ta ye wu cheng ben	95
+其他业务收入	qi ta ye wu shou ru	120
+其他应付款	qi ta ying fu kuan	248
+其他应收款	qi ta ying shou kuan	387
+其他证照登记费	qi ta zheng zhao deng ji fei	30
+其他支出	qi ta zhi chu	93
+其他转入	qi ta zhuan ru	188
+其他资本公积	qi ta zi ben gong ji	199
+器械费	qi xie fei	139
+企业发展基金	qi ye fa zhan ji jin	193
+企业文化建设费	qi ye wen hua jian she fei	17
+清算资金往来	qing suan zi jin wang lai	212
+全额承兑保证金	quan e cheng dui bao zheng jin	410
+燃动费	ran dong fei	152
+燃油费	ran you fei	36
+人民币现金	ren min bi xian jin	469
+任意盈余公积	ren yi ying yu gong ji	196
+融资租赁资产	rong zi zu lin zi chan	352
+软硬件维护费	ruan ying jian wei hu fei	20
+商行淄博东二路支行	shang hang zi bo dong er lu zhi hang	412
+商品进销差价	shang pin jin xiao cha jia	361
+上网卡费用	shang wang ka fei yong	69
+商业银行	shang ye yin hang	432
+商誉	shang yu	312
+设备安装	she bei an zhuang	329
+社会保险费	she hui bao xian fei	288
+设计费	she ji fei	133
+深发广州科韵支行	shen fa guang zhou ke yun zhi hang	440
+深发银行	shen fa yin hang	441
+生产成本	sheng chan cheng ben	176
+生产性生物资产	sheng chan xing sheng wu zi chan	324
+生产性生物资产累计折旧	sheng chan xing sheng wu zi chan lei ji zhe jiu	323
+生育保险费	sheng yu bao xian fei	283
+实收资本	shi shou zi ben	207
+试验费	shi yan fei	62
+失业保险费	shi ye bao xian fei	285
+手机费	shou ji fei	71
+收入转出	shou ru zhuan chu	115
+手续费及佣金收入	shou xu fei ji yong jin shou ru	123
+手续费及佣金支出	shou xu fei ji yong jin zhi chu	83
+水费	shui fei	151
+税费	shui fei	56
+税费转出	shui fei zhuan chu	85
+水泥款	shui ni kuan	334
+诉讼费	su song fei	46
+损余物资	sun yu wu zi	353
+所得税费用	suo de shui fei yong	2
+摊回保险责任准备金	tan hui bao xian ze ren zhun bei jin	111
+摊回分保费用	tan hui fen bao fei yong	109
+摊回赔付支出	tan hui pei fu zhi chu	110
+套期工具	tao qi gong ju	209
+提取保险责任准备金	ti qu bao xian ze ren zhun bei jin	81
+提取储备基金	ti qu chu bei ji jin	185
+提取法定公益金	ti qu fa ding gong yi jin	186
+提取法定盈余公积	ti qu fa ding ying yu gong ji	187
+提取企业发展基金	ti qu qi ye fa zhan ji jin	184
+提取任意盈余公积	ti qu ren yi ying yu gong ji	181
+提取未到期责任准备金	ti qu wei dao qi ze ren zhun bei jin	82
+提取职工奖励及福利基金	ti qu zhi gong jiang li ji fu li ji jin	183
+贴现负债	tie xian fu zhai	301
+贴现资产	tie xian zi chan	381
+停车费	ting che fei	38
+通讯费	tong xun fei	73
+同业存放	tong ye cun fang	302
+投标保证金	tou biao bao zheng jin	243
+投资收益	tou zi shou yi	112
+投资性房地产	tou zi xing fang di chan	345
+土地使用权	tu di shi yong quan	318
+土地使用权摊销	tu di shi yong quan tan xiao	315
+土地使用税	tu di shi yong shui	55
+退保金	tui bao jin	78
+外币现金	wai bi xian jin	468
+外币资本折算差额	wai bi zi ben zhe suan cha e	200
+外贸	wai mao	397
+未担保余值	wei dan bao yu zhi	325
+未到期责任准备金	wei dao qi ze ren zhun bei jin	221
+未分配利润	wei fen pei li run	178
+未付工资	wei fu gong zi	237
+未交增值税	wei jiao zeng zhi shui	266
+未确认融资费用	wei que ren rong zi fei yong	216
+未实现融资收益	wei shi xian rong zi shou yi	343
+委托加工物资	wei tuo jia gong wu zi	360
+维修保养费	wei xiu bao yang fei	35
+维修材料	wei xiu cai liao	370
+维修费	wei xiu fei	155
+违约金收入	wei yue jin shou ru	105
+违约赔偿金	wei yue pei chang jin	5
+物料消耗	wu liao xiao hao	153
+无形资产	wu xing zi chan	319
+无形资产减值准备	wu xing zi chan jian zhi zhun bei	313
+无形资产摊销	wu xing zi chan tan xiao	50
+吸收存款	xi shou cun kuan	303
+现金	xian jin	425
+相关手续费支出	xiang guan shou xu fei zhi chu	13
+向中央银行借款	xiang zhong yang yin hang jie kuan	304
+消防材料费用	xiao fang cai liao fei yong	27
+消费税	xiao fei shui	90
+消耗性生物资产	xiao hao xing sheng wu zi chan	356
+小灵通费用	xiao ling tong fei yong	70
+销售材料物资收入	xiao shou cai liao wu zi shou ru	119
+销售费用	xiao shou fei yong	75
+销售费用转出	xiao shou fei yong zhuan chu	60
+销项税额	xiao xiang shui e	275
+新产品试制	xin chan pin shi zhi	169
+薪酬及附加	xin chou ji fu jia	160
+信息化耗材	xin xi hua hao cai	19
+信息技术费	xin xi ji shu fei	22
+信息技术服务费	xin xi ji shu fu wu fei	21
+信用卡	xin yong ka	407
+兴业银行	xing ye yin hang	439
+许可证押金	xu ke zheng ya jin	242
+研发支出	yan fa zhi chu	141
+研究与开发费	yan jiu yu kai fa fei	26
+衍生工具	yan sheng gong ju	210
+养老保险费	yang lao bao xian fei	287
+养路费	yang lu fei	41
+样品费	yang pin fei	63
+业务招待费	ye wu zhao dai fei	74
+一般风险准备	yi ban feng xian zhun bei	191
+已交税金	yi jiao shui jin	272
+医疗保险费	yi liao bao xian fei	286
+以前年度损益调整	yi qian nian du sun yi tiao zheng	1
+意外保险费	yi wai bao xian fei	158
+意外伤害险	yi wai shang hai xian	68
+银行存款	yin hang cun kuan	466
+印花税	yin hua shui	54
+应付保单红利	ying fu bao dan hong li	230
+应付单位款	ying fu dan wei kuan	247
+应付分保账款	ying fu fen bao zhang kuan	229
+应付工程估价款	ying fu gong cheng gu jia kuan	232
+应付股利	ying fu gu li	249
+应付利息	ying fu li xi	250
+应付票据	ying fu piao ju	298
+应付普通股股利	ying fu pu tong gu gu li	180
+应付优先股股利	ying fu you xian gu gu li	182
+应付债券	ying fu zhai quan	222
+应付账款	ying fu zhang kuan	297
+应付职工薪酬	ying fu zhi gong xin chou	291
+应交车船使用税	ying jiao che chuan shi yong shui	258
+应交城市维护建设税	ying jiao cheng shi wei hu jian she shui	263
+应交代扣个人所得税	ying jiao dai kou ge ren suo de shui	256
+应交代扣营业税	ying jiao dai kou ying ye shui	257
+应交地方教育费附加	ying jiao di fang jiao yu fei fu jia	254
+应交房产税	ying jiao fang chan shui	260
+应交耕地占用税	ying jiao geng di zhan yong shui	252
+应交教育费附加	ying jiao jiao yu fei fu jia	255
+应交契税	ying jiao qi shui	251
+应交税费	ying jiao shui fei	278
+应交所得税	ying jiao suo de shui	261
+应交土地使用税	ying jiao tu di shi yong shui	259
+应交土地增值税	ying jiao tu di zeng zhi shui	262
+应交消费税	ying jiao xiao fei shui	265
+应交印花税	ying jiao yin hua shui	253
+应交营业税	ying jiao ying ye shui	264
+应交增值税	ying jiao zeng zhi shui	277
+应收补贴款	ying shou bu tie kuan	383
+应收代位追偿款	ying shou dai wei zhui chang kuan	390
+应收分保合同准备金	ying shou fen bao he tong zhun bei jin	388
+应收分保账款	ying shou fen bao zhang kuan	389
+应收股利	ying shou gu li	392
+应收利息	ying shou li xi	391
+应收票据	ying shou piao ju	400
+应收账款	ying shou zhang kuan	399
+营业税	ying ye shui	89
+营业税金及附加	ying ye shui jin ji fu jia	91
+营业外收入	ying ye wai shou ru	108
+营业外支出	ying ye wai zhi chu	8
+营业外支出转出	ying ye wai zhi chu zhuan chu	3
+盈余公积	ying yu gong ji	198
+油料费	you liao fei	148
+油气资产	you qi zi chan	321
+预付账款	yu fu zhang kuan	393
+预计负债	yu ji fu zhai	214
+预收账款	yu shou zhang kuan	294
+预提费用	yu ti fei yong	231
+原材料	yuan cai liao	373
+员工存款	yuan gong cun kuan	236
+原料	yuan liao	372
+原药	yuan yao	364
+原药成本	yuan yao cheng ben	98
+原药商品	yuan yao shang pin	367
+原药收入	yuan yao shou ru	127
+运输费	yun shu fei	64
+在建工程	zai jian gong cheng	338
+在途物资	zai tu wu zi	374
+暂存款	zan cun kuan	233
+暂估应付款	zan gu ying fu kuan	296
+债务重组收入	zhai wu chong zu shou ru	100
+招待费	zhao dai fei	135
+招行济南和平路支行	zhao hang ji nan he ping lu zhi hang	416
+招商银行	zhao shang yin hang	438
+折旧费	zhe jiu fei	157
+蒸汽费	zheng qi fei	149
+职工风险金	zhi gong feng xian jin	245
+职工福利	zhi gong fu li	289
+职工教育经费	zhi gong jiao yu jing fei	280
+制剂商品	zhi ji shang pin	366
+制造费用	zhi zao fei yong	168
+制造费用转出	zhi zao fei yong zhuan chu	143
+仲裁费	zhong cai fei	45
+中国银行	zhong guo yin hang	420
+中行存款	zhong hang cun kuan	452
+中行一般户	zhong hang yi ban hu	451
+中信济南北园路支行	zhong xin ji nan bei yuan lu zhi hang	415
+中信银行	zhong xin yin hang	436
+周转材料	zhou zhuan cai liao	359
+住房公积金	zhu fang gong ji jin	282
+主营业务成本	zhu ying ye wu cheng ben	99
+主营业务收入	zhu ying ye wu shou ru	128
+转出多交增值税	zhuan chu duo jiao zeng zhi shui	268
+转出未交增值税	zhuan chu wei jiao zeng zhi shui	270
+专利登记费	zhuan li deng ji fei	32
+专项应付款	zhuan xiang ying fu kuan	215
+专项资金户	zhuan xiang zi jin hu	462
+转作资本或股本的普通股股利	zhuan zuo zi ben huo gu ben de pu tong gu gu li	179
+装运费	zhuang yun fei	147
+资本公积	zi ben gong ji	206
+资本化支出	zi ben hua zhi chu	132
+资本或股本溢价	zi ben huo gu ben yi jia	205
+资产减值损失	zi chan jian zhi sun shi	9
+咨询费	zi xun fei	134
+自营出口	zi ying chu kou	396
+自制半成品	zi zhi ban cheng pin	369
+总经理经费	zong jing li jing fei	25
+租赁费	zu lin fei	33
+租赁收入	zu lin shou ru	121

@@ -1,0 +1,464 @@
+# 词库名称: 世界城市和地形名胜
+# 词库分类: 地理地质
+# 词库描述: 国家和首都（很多生僻国家，如不需要，自己删除），常用城市，地形湖泊
+# 词条样例: 乌拉尔山脉、乌拉尔河、土耳其海峡、伊朗高原、中西伯利亚高原、东北平原
+# 解析词数: 457
+# 解析异常: 0
+
+阿巴拉契亚山脉	a ba la qi ya shan mai	245
+阿布扎比	a bu zha bi	151
+阿尔巴尼亚	a er ba ni ya	207
+阿尔卑斯山脉	a er bei si shan mai	312
+阿尔及尔	a er ji er	67
+阿富汗	a fu han	154
+阿根廷	a gen ting	100
+阿拉伯半岛	a la bo ban dao	435
+阿拉伯海	a la bo hai	378
+阿拉伯联合酋长国	a la bo lian he qiu zhang guo	152
+阿拉斯加州	a la si jia zhou	254
+阿曼	a man	150
+阿姆斯特丹	a mu si te dan	190
+阿塞拜疆共和国	a sai bai jiang gong he guo	148
+阿斯马拉	a si ma la	52
+阿斯塔纳	a si ta na	134
+爱尔兰	ai er lan	206
+艾菲尔铁塔	ai fei er tie ta	283
+埃及	ai ji	324
+埃里温	ai li wen	105
+埃塞俄比亚	ai sai e bi ya	66
+爱沙尼亚	ai sha ni ya	204
+安大略湖	an da lue hu	248
+安道尔	an dao er	208
+安哥拉	an ge la	64
+安卡拉	an ka la	114
+安曼	an man	101
+安提瓜和巴布达	an ti gua he ba bu da	98
+澳大利亚	ao da li ya	7
+奥地利	ao di li	298
+巴巴多斯	ba ba duo si	96
+巴布亚新几内亚	ba bu ya xin ji nei ya	6
+巴尔干半岛	ba er gan ban dao	316
+巴格达	ba ge da	333
+巴哈马	ba ha ma	68
+巴基斯坦	ba ji si tan	373
+巴库	ba ku	147
+巴拉那河	ba la na he	227
+巴勒斯坦	ba le si tan	326
+巴黎	ba li	300
+巴黎圣母院	ba li sheng mu yuan	284
+巴林	ba lin	145
+巴特农神庙	ba te nong shen miao	278
+巴西	ba xi	92
+巴西高原	ba xi gao yuan	230
+巴西利亚	ba xi li ya	226
+白俄罗斯	bai e luo si	201
+白令海峡	bai ling hai xia	450
+班吉	ban ji	8
+班加罗尔	ban jia luo er	365
+保加利亚	bao jia li ya	199
+贝阿铁路	bei a tie lu	345
+北艾尔湖	bei ai er hu	263
+北冰洋	bei bing yang	223
+北海道岛	bei hai dao dao	420
+北极圈	bei ji quan	222
+贝加尔湖	bei jia er hu	437
+北九州	bei jiu zhou	407
+贝鲁特	bei lu te	126
+北美洲	bei mei zhou	214
+贝宁	bei ning	62
+本州岛	ben zhou dao	419
+比勒陀利亚	bi le tuo li ya	26
+比利时	bi li shi	302
+秘鲁	bi lu	78
+比绍	bi shao	46
+比什凯克	bi shi kai ke	130
+比斯开湾	bi si kai wan	322
+冰岛	bing dao	315
+博茨瓦纳	bo ci wa na	60
+波德平原	bo de ping yuan	309
+波多诺伏	bo duo nuo fu	61
+伯尔尼	bo er ni	166
+波哥大	bo ge da	85
+波兰	bo lan	295
+勃朗峰	bo lang feng	311
+玻利维亚	bo li wei ya	94
+柏林	bo lin	305
+波罗的海	bo luo di hai	363
+波斯尼亚和黑塞哥维那	bo si ni ya he hei sai ge wei na	196
+波斯湾	bo si wan	343
+布达佩斯	bu da pei si	156
+不丹	bu dan	371
+布基纳法索	bu ji na fa suo	58
+布加勒斯特	bu jia le si te	179
+布拉格	bu la ge	189
+布拉提斯拉发	bu la ti si la fa	164
+布里奇敦	bu li qi dun	95
+布隆迪	bu long di	56
+布鲁塞尔	bu lu sai er	194
+布琼布拉	bu qiong bu la	55
+布宜诺斯艾利斯	bu yi nuo si ai li si	99
+长崎	chang qi	406
+朝鲜	chao xian	142
+赤道几内亚	chi dao ji nei ya	54
+大阪	da ban	409
+大堡礁	da bao jiao	268
+大笨钟	da ben zhong	285
+大不列颠岛	da bu lie dian dao	314
+大分水岭	da fen shui ling	267
+大高架锁山脉	da gao jia suo shan mai	454
+达拉斯	da la si	233
+达累斯萨拉姆	da lei si sa la mu	14
+大马士革	da ma shi ge	107
+大西洋	da xi yang	211
+大洋洲	da yang zhou	213
+大自流盆地	da zi liu pen di	266
+丹麦	dan mai	294
+德干高原	de gan gao yuan	376
+德国	de guo	306
+德黑兰	de hei lan	335
+德雷克海峡	de lei ke hai xia	219
+的黎波里	de li bo li	32
+第比利斯	di bi li si	136
+第二巴库油田	di er ba ku you tian	355
+底格里斯河	di ge li si he	339
+帝力	di li	139
+底特律	di te lv	238
+地中海	di zhong hai	344
+地中海气候	di zhong hai qi hou	426
+东北平原	dong bei ping yuan	445
+东帝汶	dong di wen	140
+东非大裂谷	dong fei da lie gu	270
+东非高原	dong fei gao yuan	274
+东京	dong jing	412
+东欧平原	dong ou ping yuan	358
+东西伯利亚山地	dong xi bo li ya shan di	357
+斗兽场	dou shou chang	279
+都柏林	du bo lin	205
+杜尚别	du shang bie	115
+顿河	dun he	359
+多哈	duo ha	128
+多米尼克	duo mi ni ke	91
+多瑙河	duo nao he	307
+鄂毕河	e bi he	441
+厄瓜多尔	e gua duo er	89
+法国	fa guo	301
+梵蒂冈	fan di gang	287
+菲律宾	fei lv bin	387
+非洲	fei zhou	216
+芬兰	fen lan	192
+佛得角	fo de jiao	51
+伏尔加格勒	fu er jia ge le	350
+伏尔加河	fu er jia he	360
+符拉迪沃斯托克	fu la di wo si tuo ke	348
+弗里敦	fu li dun	24
+富士山	fu shi shan	416
+冈比亚	gang bi ya	50
+刚果河	gang guo he	269
+刚果盆地	gang guo pen di	272
+高原山地气候	gao yuan shan di qi hou	425
+哥本哈根	ge ben ha gen	193
+格林纳达	ge lin na da	84
+格陵兰岛	ge ling lan dao	221
+格鲁吉亚	ge lu ji ya	137
+哥伦比亚	ge lun bi ya	86
+古巴共和国	gu ba gong he guo	87
+关东平原	guan dong ping yuan	415
+圭亚那	gui ya na	82
+哈博罗内	ha bo luo nei	59
+哈撒克斯坦	ha sa ke si tan	361
+哈萨克斯坦	ha sa ke si tan	135
+寒带气候	han dai qi hou	424
+韩国	han guo	133
+好望角	hao wang jiao	275
+赫尔辛基	he er xin ji	191
+荷兰	he lan	304
+河内	he nei	400
+黑海	hei hai	453
+横滨	heng bin	411
+恒河	heng he	442
+恒河平原	heng he ping yuan	443
+红河	hong he	399
+华沙	hua sha	197
+华盛顿	hua sheng dun	240
+花园城市新加坡	hua yuan cheng shi xin jia po	380
+惠灵顿	hui ling dun	1
+霍尔木兹海峡	huo er mu zi hai xia	342
+吉布提	ji bu ti	49
+基多	ji duo	88
+吉尔吉斯共和国	ji er ji si gong he guo	131
+季风性湿润气候	ji feng xing shi run qi hou	256
+基辅	ji fu	159
+吉隆坡	ji long po	123
+几内亚	ji nei ya	48
+几内亚湾	ji nei ya wan	277
+加德满都	jia de man du	121
+加尔各答	jia er ge da	366
+加拉加斯	jia la jia si	73
+加拿大	jia na da	80
+柬埔寨	jian pu zhai	395
+柬埔寨吴哥寺	jian pu zhai wu ge si	384
+捷克	jie ke	296
+金边	jin bian	394
+津轻海峡	jin qing hai xia	421
+金斯敦	jin si dun	71
+旧金山	jiu jin shan	236
+九州岛	jiu zhou dao	417
+喀布尔	ka bu er	153
+喀麦隆	ka mai long	45
+卡塔尔	ka ta er	129
+喀土穆	ka tu mu	18
+开罗	kai luo	323
+坎帕拉	kan pa la	11
+堪培拉	kan pei la	262
+科伦坡	ke lun po	117
+克罗地亚	ke luo di ya	188
+科摩罗	ke mo luo	43
+科纳克里	ke na ke li	47
+克什米尔地区	ke shi mi er di qu	369
+科特迪瓦	ke te di wa	41
+科威特	ke wei te	332
+肯尼亚	ken ni ya	39
+库尔斯克铁矿	ku er si ke tie kuang	356
+库兹巴斯煤矿	ku zi ba si mei kuang	353
+拉丁美洲	la ding mei zhou	215
+拉脱维亚	la tuo wei ya	186
+濑户内海	lai hu nei hai	422
+濑户内海工业地带	lai hu nei hai gong ye di dai	414
+莱索托	lai suo tuo	37
+莱茵河	lai yin he	308
+老挝	lao wo	392
+勒拿河	le na he	439
+雷克雅未克	lei ke ya wei ke	202
+黎巴嫩	li ba nen	127
+利比里亚	li bi li ya	35
+利比亚	li bi ya	33
+里海	li hai	455
+里加	li jia	185
+利马	li ma	77
+里斯本	li si ben	169
+立陶宛	li tao wan	184
+利雅得	li ya de	330
+里约热内卢	li yue re nei lu	225
+列支敦士登	lie zhi dun shi deng	182
+卢布尔雅那	lu bu er ya na	162
+卢浮宫	lu fu gong	282
+卢森堡	lu sen bao	174
+鹿特丹	lu te dan	303
+卢旺达	lu wang da	31
+路易港	lu yi gang	29
+伦敦	lun dun	155
+罗安达	luo an da	63
+落基山脉	luo ji shan mai	246
+罗马	luo ma	291
+罗马尼亚	luo ma ni ya	180
+洛杉矶	luo shan ji	235
+罗索	luo suo	90
+马达加斯加	ma da jia si jia	276
+马德里	ma de li	158
+马尔代夫	ma er dai fu	125
+马耳他	ma er ta	176
+马拉博	ma la bo	53
+马来半岛	ma lai ban dao	405
+马来群岛	ma lai qun dao	436
+马来西亚	ma lai xi ya	388
+马累	ma lei	124
+马六甲海峡	ma liu jia hai xia	402
+马尼拉	ma ni la	138
+马其顿	ma qi dun	178
+马塞卢	ma sai lu	36
+马斯喀特	ma si ka te	149
+迈阿密	mai a mi	231
+麦加	mai jia	329
+麦纳麦	mai na mai	144
+麦哲伦海峡	mai zhe lun hai xia	220
+曼谷	man gu	397
+湄公河	mei gong he	393
+湄南河	mei nan he	396
+蒙得维的亚	meng de wei di ya	75
+蒙古	meng gu	362
+孟加拉国	meng jia la guo	374
+孟加拉湾	meng jia la wan	379
+蒙罗维亚	meng luo wei ya	34
+孟买	meng mai	367
+密西西比河	mi xi xi bi he	244
+密西西比河平原	mi xi xi bi he ping yuan	242
+密歇根河	mi xie gen he	251
+缅甸	mian dian	370
+缅甸仰光大金塔	mian dian yang guang da jin ta	383
+名古屋	ming gu wu	410
+明斯克	ming si ke	200
+墨尔本	mo er ben	260
+摩尔曼斯克	mo er man si ke	349
+莫尔兹比港	mo er zi bi gang	5
+摩加迪沙	mo jia di sha	16
+墨累河	mo lei he	264
+摩洛哥	mo luo ge	28
+莫罗尼	mo luo ni	42
+摩纳哥	mo na ge	173
+莫斯科	mo si ke	352
+墨西哥湾	mo xi ge wan	255
+纳米比亚	na mi bi ya	27
+南非高原	nan fei gao yuan	273
+南极洲	nan ji zhou	212
+内罗华	nei luo hua	38
+尼泊尔	ni bo er	372
+尼科西亚	ni ke xi ya	119
+尼罗河	ni luo he	337
+尼日尔	ni ri er	25
+尼亚加拉瀑布	ni ya jia la pu bu	247
+纽约	niu yue	241
+挪威	nuo wei	172
+欧洲	ou zhou	217
+平壤	ping rang	141
+珀斯	po si	259
+葡萄牙	pu tao ya	170
+乔治敦	qiao zhi dun	81
+青藏高原	qing zang gao yuan	449
+秋明油田	qiu ming you tian	354
+热带草原气候	re dai cao yuan qi hou	258
+热带季风气候	re dai ji feng qi hou	430
+热带沙漠气候	re dai sha mo qi hou	431
+热带雨林气候	re dai yu lin qi hou	432
+日本海	ri ben hai	423
+瑞典	rui dian	168
+瑞士	rui shi	299
+萨格勒布	sa ge le bu	187
+撒哈拉大沙漠	sa ha la da sha mo	271
+萨拉热窝	sa la re wo	195
+萨那	sa na	103
+塞尔维亚和黑山共和国	sai er wei ya he hei shan gong he guo	171
+塞内加尔	sai nei jia er	23
+塞浦路斯	sai pu lu si	120
+沙特阿拉伯	sha te a la bo	331
+神户	shen hu	408
+圣保罗	sheng bao luo	224
+圣彼得堡	sheng bi de bao	351
+圣地亚哥	sheng di ya ge	69
+圣多美	sheng duo mei	20
+圣多美和普林西比	sheng duo mei he pu lin xi bi	21
+圣劳伦基河	sheng lao lun ji he	243
+圣马力诺	sheng ma li nuo	161
+圣乔治	sheng qiao zhi	83
+圣约翰	sheng yue han	97
+首尔	shou er	132
+斯德哥尔摩	si de ge er mo	167
+四国岛	si guo dao	418
+死海	si hai	438
+斯堪的纳维亚半岛	si kan di na wei ya ban dao	319
+斯堪的纳维亚山脉	si kan di na wei ya shan mai	313
+斯科普里	si ke pu li	177
+斯里巴加湾市	si li ba jia wan shi	111
+斯里兰卡	si li lan ka	118
+斯里兰卡岛	si li lan ka dao	377
+斯洛伐克	si luo fa ke	165
+斯洛文尼亚	si luo wen ni ya	163
+苏必利尔	su bi li er	252
+苏丹	su dan	19
+苏克雷	su ke lei	93
+苏门达拉岛	su men da la dao	403
+苏伊士运河	su yi shi yun he	451
+索非亚	suo fei ya	198
+索马里	suo ma li	17
+塔吉克斯坦	ta ji ke si tan	116
+塔林	ta lin	203
+塔那那利佛	ta na na li fo	30
+塔桥	ta qiao	286
+塔什干	ta shi gan	109
+泰国	tai guo	398
+泰国曼谷水上市场	tai guo man gu shui shang shi chang	381
+泰姬陵	tai ji ling	364
+太平洋	tai ping yang	210
+太平洋沿岸地带	tai ping yang yan an di dai	413
+坦桑尼亚	tan sang ni ya	15
+廷布	ting bu	143
+土耳其	tu er qi	328
+土耳其海峡	tu er qi hai xia	452
+土库曼斯坦	tu ku man si tan	113
+突尼斯	tu ni si	13
+瓦杜兹	wa du zi	181
+瓦加杜古	wa jia du gu	57
+瓦莱塔	wa lai ta	175
+瓦努阿图	wa nu a tu	4
+万象	wan xiang	391
+维多利亚	wei duo li ya	22
+维尔纽斯	wei er niu si	183
+维拉港	wei la gang	3
+委内瑞拉	wei nei rui la	74
+威尼斯	wei ni si	290
+维也纳	wei ye na	297
+温带大陆性气候气候	wen dai da lu xing qi hou qi hou	427
+温带海洋性气候	wen dai hai yang xing qi hou	257
+温带季风气候	wen dai ji feng qi hou	428
+文莱	wen lai	112
+渥太华	wo tai hua	79
+乌干达	wu gan da	12
+乌克兰	wu ke lan	160
+乌拉尔河	wu la er he	456
+乌拉尔山脉	wu la er shan mai	457
+乌拉圭	wu la gui	76
+乌兰巴托	wu lan ba tuo	122
+午夜太阳	wu ye tai yang	280
+乌兹别克斯坦	wu zi bie ke si tan	110
+西班牙	xi ban ya	293
+西部高原	xi bu gao yuan	265
+希腊	xi la	289
+喜马拉雅山地	xi ma la ya shan di	375
+西奈半岛	xi nai ban dao	341
+悉尼	xi ni	261
+西欧平原	xi ou ping yuan	310
+西西伯利亚平原	xi xi bo li ya ping yuan	447
+西雅图	xi ya tu	237
+峡湾风光	xia wan feng guang	281
+夏威夷州	xia wei yi zhou	253
+新奥尔良	xin ao er liang	232
+新德里	xin de li	368
+新加坡	xin jia po	386
+新西伯利亚大铁路	xin xi bo li ya da tie lu	346
+新西兰	xin xi lan	2
+匈牙利	xiong ya li	157
+休伦湖	xiu lun hu	250
+休斯教	xiu si jiao	234
+叙利亚	xu li ya	108
+亚的斯亚贝巴	ya di si ya bei ba	65
+雅典	ya dian	288
+雅加达	ya jia da	389
+亚马孙河	ya ma sun he	228
+亚马孙平原	ya ma sun ping yuan	229
+牙买加	ya mai jia	72
+亚美尼亚共和国	ya mei ni ya gong he guo	106
+亚穆苏克罗	ya mu su ke luo	40
+亚平宁半岛	ya ping ning ban dao	317
+亚热带季风气候	ya re dai ji feng qi hou	429
+雅温得	ya wen de	44
+亚洲	ya zhou	218
+耶路撒冷	ye lu sa leng	325
+也门	ye men	104
+叶尼塞河	ye ni sai he	440
+伊比利亚半岛	yi bi li ya ban dao	318
+意大利	yi da li	292
+伊尔库茨克	yi er ku ci ke	347
+伊拉克	yi la ke	334
+伊朗	yi lang	336
+伊朗高原	yi lang gao yuan	448
+伊利湖	yi li hu	249
+以色列	yi se lie	327
+伊斯兰堡	yi si lan bao	146
+印度半岛	yin du ban dao	434
+印度河	yin du he	444
+印度尼西亚	yin du ni xi ya	390
+印度尼西亚婆罗浮屠	yin du ni xi ya po luo fu tu	382
+印度洋	yin du yang	209
+英吉利海峡	ying ji li hai xia	321
+幼发拉底河	you fa la di he	340
+约旦	yue dan	102
+约旦河	yue dan he	338
+越南	yue nan	401
+越南下龙湾	yue nan xia long wan	385
+赞比亚	zan bi ya	10
+爪哇岛	zhao wa dao	404
+直布罗陀海峡	zhi bu luo tuo hai xia	320
+芝加哥	zhi jia ge	239
+智利	zhi li	70
+中非	zhong fei	9
+中南半岛	zhong nan ban dao	433
+中西伯利亚高原	zhong xi bo li ya gao yuan	446

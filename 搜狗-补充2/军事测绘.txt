@@ -1,0 +1,341 @@
+# 词库名称: 军事测绘
+# 词库分类: 军事类
+# 词库描述: 依据《中国人民解放军军语》编制。
+# 词条样例: 鞍部、半距等高线、北京时间、边境勘测、变形地
+# 解析词数: 334
+# 解析异常: 0
+
+隘路	ai lu	334
+鞍部	an bu	333
+按方位角行进	an fang wei jiao xing jin	332
+暗河	an he	331
+凹地	ao di	330
+凹形斜面	ao xing xie mian	329
+半岛	ban dao	328
+半距等高线	ban ju deng gao xian	327
+北斗	bei dou	326
+北极星	bei ji xing	325
+北京时间	bei jing shi jian	324
+本初子午线	ben chu zi wu xian	323
+崩崖	beng ya	322
+比高	bi gao	321
+边境勘测	bian jing kan ce	320
+变形地	bian xing di	319
+标定地图	biao ding di tu	318
+标高	biao gao	317
+标图	biao tu	316
+标准时	biao zhun shi	315
+兵棋	bing qi	314
+兵要地志	bing yao di zhi	313
+波状斜面	bo zhuang xie mian	312
+步测	bu ce	311
+部队测绘勤务	bu dui ce hui qin wu	310
+草原	cao yuan	309
+侧方交会法	ce fang jiao hui fa	308
+测绘	ce hui	307
+测绘保障	ce hui bao zhang	306
+测绘部队	ce hui bu dui	305
+测绘勤务保障	ce hui qin wu bao zhang	304
+测距仪	ce ju yi	303
+赤道	chi dao	302
+冲沟	chong gou	301
+垂直航空摄影	chui zhi hang kong she ying	300
+垂直航空照相	chui zhi hang kong zhao xiang	299
+磁北	ci bei	298
+磁偏角	ci pian jiao	297
+磁子午线	ci zi wu xian	296
+大地测量	da di ce liang	295
+大地点	da di dian	294
+大地控制点	da di kong zhi dian	293
+大熊星座	da xiong xing zuo	292
+岛屿	dao yu	291
+等高距	deng gao ju	290
+等高线	deng gao xian	289
+等角正圆柱投影	deng jiao zheng yuan zhu tou ying	288
+等齐斜面	deng qi xie mian	287
+等深距	deng shen ju	286
+地方时	di fang shi	284
+地极	di ji	283
+地理图	di li tu	282
+地理坐标	di li zuo biao	281
+地貌	di mao	280
+地貌特征点	di mao te zheng dian	279
+地貌图	di mao tu	278
+地球	di qiu	277
+地球磁极	di qiu ci ji	276
+地图	di tu	275
+地图比例尺	di tu bi li chi	274
+地图编印	di tu bian yin	273
+地图编制	di tu bian zhi	272
+地图储备	di tu chu bei	271
+地图供应	di tu gong ying	270
+地图投影	di tu tou ying	269
+地物	di wu	268
+地下河	di xia he	267
+地形	di xing	266
+地形测量	di xing ce liang	265
+地形略图	di xing lue tu	264
+地形判读	di xing pan du	263
+地形图分幅编号	di xing tu fen fu bian hao	262
+地形图图式	di xing tu tu shi	261
+地形要素	di xing yao su	260
+底质	di zhi	285
+地轴	di zhou	259
+陡石山	dou shi shan	257
+陡崖	dou ya	256
+独立地物	du li di wu	255
+独立房屋	du li fang wu	254
+断绝地	duan jue di	253
+多光谱摄影	duo guang pu she ying	252
+防界线	fang jie xian	246
+方位角	fang wei jiao	251
+方位判定	fang wei pan ding	250
+方位图	fang wei tu	249
+方位物	fang wei wu	248
+方位物要图	fang wei wu yao tu	247
+分水线	fen shui xian	245
+峰林	feng lin	244
+辅助等高线	fu zhu deng gao xian	243
+高差	gao cha	242
+高程	gao cheng	241
+高程的基准面	gao cheng de ji zhun mian	240
+高程基准面	gao cheng ji zhun mian	239
+高地	gao di	238
+高苗地	gao miao di	237
+高斯克吕格投影	gao si ke lv ge tou ying	236
+高斯投影	gao si tou ying	235
+高原	gao yuan	234
+公路	gong lu	233
+公路便桥	gong lu bian qiao	232
+公路渡口	gong lu du kou	231
+谷地	gu di	230
+灌木	guan mu	229
+光线法	guang xian fa	228
+国防公路	guo fang gong lu	227
+海岸	hai an	226
+海岸线	hai an xian	225
+海拔	hai ba	224
+海道测量	hai dao ce liang	223
+海底地貌	hai di di mao	222
+海滩	hai tan	221
+海图	hai tu	220
+海湾	hai wan	219
+海洋测量	hai yang ce liang	218
+涵洞	han dong	217
+航测	hang ce	216
+航空地理要素	hang kong di li yao su	215
+航空摄影	hang kong she ying	214
+航空摄影测量	hang kong she ying ce liang	213
+航空图	hang kong tu	212
+航空照相	hang kong zhao xiang	211
+航天航空摄影测量	hang tian hang kong she ying ce liang	210
+航天摄影	hang tian she ying	209
+航天摄影测量	hang tian she ying ce liang	208
+航图	hang tu	207
+河岸	he an	205
+河坝	he ba	204
+河槽	he cao	203
+河床	he chuang	202
+河堤	he di	201
+河底	he di	200
+河幅	he fu	199
+河宽	he kuan	198
+河流	he liu	197
+河深	he shen	196
+合水线	he shui xian	206
+恒星	heng xing	195
+洪水河床	hong shui he chuang	192
+红外线摄影	hong wai xian she ying	194
+红外照相	hong wai zhao xiang	193
+后方交会法	hou fang jiao hui fa	191
+湖泊	hu po	190
+滑坡	hua po	189
+荒漠	huang mo	188
+绘制要图	hui zhi yao tu	187
+基本比例尺地形图	ji ben bi li chi di xing tu	186
+基本等高线	ji ben deng gao xian	185
+基本河床	ji ben he chuang	184
+计曲线	ji qu xian	182
+集团房屋	ji tuan fang wu	183
+记忆测图	ji yi ce tu	181
+加粗等高线	jia cu deng gao xian	180
+假定高程	jia ding gao cheng	178
+岬角	jia jiao	179
+渐长投影	jian chang tou ying	175
+间曲线	jian qu xian	177
+简易测图	jian yi ce tu	176
+江河	jiang he	174
+交会法	jiao hui fa	173
+胶印机	jiao yin ji	172
+截线法	jie xian fa	171
+经差	jing cha	170
+经度	jing du	169
+经纬仪	jing wei yi	168
+经线	jing xian	167
+纠正仪	jiu zheng yi	166
+居民地	ju min di	165
+绝对高程	jue dui gao cheng	164
+绝崖	jue ya	163
+军控点	jun kong dian	162
+军事测绘	jun shi ce hui	161
+军事测绘部门	jun shi ce hui bu men	160
+军事测绘勤务	jun shi ce hui qin wu	159
+军事测绘装备	jun shi ce hui zhuang bei	158
+军事测绘资料	jun shi ce hui zi liao	157
+军事地形学	jun shi di xing xue	156
+军事工程测量	jun shi gong cheng ce liang	155
+军事交通图	jun shi jiao tong tu	154
+军事目标判读	jun shi mu biao pan du	153
+军用地图	jun yong di tu	152
+军用控制点	jun yong kong zhi dian	151
+喀斯特地貌	ka si te di mao	150
+开阔地	kai kuo di	149
+枯水河床	ku shui he chuang	148
+阔叶林	kuo ye lin	147
+棱线	leng xian	146
+立体测绘仪	li ti ce hui yi	145
+立体观察	li ti guan cha	144
+立体像对	li ti xiang dui	143
+利用地图行进	li yong di tu xing jin	142
+列岛	lie dao	141
+邻带补充坐标网	lin dai bu chong zuo biao wang	140
+林间空地	lin jian kong di	139
+流量	liu liang	138
+流速	liu su	137
+流向	liu xiang	136
+罗经圈	luo jing quan	135
+落水洞	luo shui dong	134
+墨卡托投影	mo ka tuo tou ying	133
+目测	mu ce	132
+南十字星座	nan shi zi xing zuo	131
+盆地	pen di	130
+平均海平面	ping jun hai ping mian	129
+平面直角坐标	ping mian zhi jiao zuo biao	128
+平原	ping yuan	127
+坡度	po du	126
+普通地图	pu tong di tu	125
+起伏地	qi fu de	124
+起始经线	qi shi jing xian	123
+前方交会法	qian fang jiao hui fa	122
+桥梁	qiao liang	120
+乔木	qiao mu	121
+倾斜航空摄影	qing xie hang kong she ying	119
+倾斜航空照相	qing xie hang kong zhao xiang	118
+晴雨通车公路	qing yu tong che gong lu	117
+丘陵地	qiu ling di	116
+全景航空摄影	quan jing hang kong she ying	115
+全景航空照相	quan jing hang kong zhao xiang	114
+确定站立点	que ding zhan li dian	113
+热带山林地	re dai shan lin di	112
+热带雨林	re dai yu lin	111
+溶洞	rong dong	110
+溶斗	rong dou	109
+三角点	san jiao dian	108
+三角洲	san jiao zhou	107
+森林	sen lin	106
+沙漠	sha mo	105
+砂漠	sha mo	101
+沙盘	sha pan	104
+沙丘	sha qiu	103
+沙洲	sha zhou	102
+山隘	shan ai	100
+山背	shan bei	99
+山地	shan di	98
+山顶	shan ding	97
+山腹	shan fu	96
+山沟	shan gou	95
+山谷	shan gu	94
+山脊	shan ji	93
+山脚	shan jiao	92
+山口	shan kou	91
+山林地	shan lin di	90
+山麓	shan lu	89
+山垭口	shan ya kou	88
+山腰	shan yao	87
+上游	shang you	86
+深度基准面	shen du ji zhun mian	85
+深度零点	shen du ling dian	84
+世界时	shi jie shi	78
+石林	shi lin	83
+时令河	shi ling he	82
+时令路	shi ling lu	81
+时区	shi qu	80
+识图用图	shi tu yong tu	79
+首曲线	shou qu xian	77
+首子午线	shou zi wu xian	76
+数字化地图	shu zi hua di tu	75
+水库	shui ku	74
+水宽	shui kuan	73
+水深	shui shen	72
+水网稻田地	shui wang dao tian di	71
+水位	shui wei	70
+水系	shui xi	69
+水准点	shui zhun dian	68
+水准零点	shui zhun ling dian	67
+水准仪	shui zhun yi	66
+素图	su tu	65
+隧道	sui dao	63
+随军测绘分队	sui jun ce hui fen dui	64
+缩尺	suo chi	62
+台地	tai di	61
+太阳系	tai yang xi	60
+滩头	tan tou	59
+天体	tian ti	58
+天文大地测量	tian wen da di ce liang	57
+调制要图	tiao zhi yao tu	258
+铁道	tie dao	56
+铁路	tie lu	55
+图根点	tu gen dian	53
+图库	tu ku	52
+凸形斜面	tu xing xie mian	54
+纬差	wei cha	51
+纬度	wei du	50
+纬度圈	wei du quan	49
+纬线	wei xian	48
+卫星	wei xing	47
+卫星大地测量	wei xing da di ce liang	46
+无名高地	wu ming gao di	45
+下游	xia you	44
+仙后星座	xian hou xing zuo	43
+像对	xiang dui	41
+相对高程	xiang dui gao cheng	42
+像片判读	xiang pian pan du	40
+小熊星座	xiao xiong xing zuo	39
+斜面	xie mian	38
+行星	xing xing	37
+行星星座	xing xing xing zuo	36
+悬崖	xuan ya	35
+严寒地区	yan han di qu	34
+岩溶地貌	yan rong di mao	33
+摇摆航空摄影	yao bai hang kong she ying	32
+摇摆航空照相	yao bai hang kong zhao xiang	31
+要图	yao tu	30
+野战制印	ye zhan zhi yin	29
+野战制印车	ye zhan zhi yin che	28
+野战制印作业	ye zhan zhi yin zuo ye	27
+野战制印作业装备	ye zhan zhi yin zuo ye zhuang bei	26
+影像地图	ying xiang di tu	25
+雨裂	yu lie	24
+运河	yun he	23
+战备公路	zhan bei gong lu	22
+沼泽	zhao ze	21
+遮蔽地	zhe bi di	20
+真北	zhen bei	18
+阵地目标编号图	zhen di mu biao bian hao tu	15
+真高	zhen gao	17
+针叶林	zhen ye lin	19
+真子午线	zhen zi wu xian	16
+植被	zhi bei	14
+指北针	zhi bei zhen	13
+制高点	zhi gao dian	9
+指挥尺	zhi hui chi	12
+指极星	zhi ji xing	11
+指南针	zhi nan zhen	10
+重力测量	zhong li ce liang	7
+中游	zhong you	8
+主峰	zhu feng	6
+助曲线	zhu qu xian	5
+子午面	zi wu mian	4
+子午线	zi wu xian	3
+坐标	zuo biao	2
+坐标网	zuo biao wang	1

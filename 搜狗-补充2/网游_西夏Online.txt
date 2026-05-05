@@ -1,0 +1,734 @@
+# 词库名称: 网游-西夏Online
+# 词库分类: 其它
+# 词库描述: 《西夏Online》是由深圳中青宝开发、宁夏网虫运营的2D大型多人线上角色扮演网络游戏。游戏取材于中国战国时期为游戏时代背景 更多《西夏Online》信息请浏览 http://xin.766.com/
+# 词条样例: 六韬、碍石山脊、暗月宫九层、暗月宫三层、暗月宫十层、暗月宫一层
+# 解析词数: 727
+# 解析异常: 0
+
+碍石山	ai shi shan	724
+碍石山巅	ai shi shan dian	720
+碍石山脊	ai shi shan ji	723
+碍石山峦	ai shi shan luan	722
+碍石山腰	ai shi shan yao	721
+黯骥弩	an ji nu	1
+黯山砲	an shan bao	2
+暗月宫	an yue gong	719
+暗月宫八层	an yue gong ba ceng	718
+暗月宫二层	an yue gong er ceng	717
+暗月宫九层	an yue gong jiu ceng	716
+暗月宫六层	an yue gong liu ceng	715
+暗月宫七层	an yue gong qi ceng	714
+暗月宫三层	an yue gong san ceng	713
+暗月宫十层	an yue gong shi ceng	712
+暗月宫四层	an yue gong si ceng	711
+暗月宫五层	an yue gong wu ceng	710
+暗月宫一层	an yue gong yi ceng	709
+暗月巡守	an yue xun shou	708
+霸王枪	ba wang qiang	706
+霸王卸甲	ba wang xie jia	705
+八爪怪	ba zhao guai	707
+百步穿杨	bai bu chuan yang	700
+白额猛虎	bai e meng hu	704
+百练锤	bai lian chui	698
+百炼锤任务	bai lian chui ren wu	699
+白鹿刀	bai lu dao	703
+百胜刀	bai sheng dao	697
+白雪莲	bai xue lian	702
+白衣隐士	bai yi yin shi	701
+板斧	ban fu	696
+半月击	ban yue ji	695
+暴风项链	bao feng xiang lian	694
+暴狼	bao lang	693
+爆裂者	bao lie zhe	692
+崩龙砲	beng long bao	691
+避难谷	bi nan gu	690
+避世盗贼	bi shi dao zei	689
+变身啊	bian shen a	688
+冰刃斩	bing ren zhan	687
+冰石	bing shi	686
+冰矢狂涛	bing shi kuang tao	685
+捕快	bu kuai	684
+苍龙斧	cang long fu	683
+苍龙斩	cang long zhan	682
+草鬼婆	cao gui po	681
+草衔扳指	cao xian ban zhi	680
+侧劈	ce pi	679
+豺狼	chai lang	678
+嫦娥护符	chang e hu fu	32
+赤凤斧	chi feng fu	677
+赤心扳指	chi xin ban zhi	676
+赤心盾	chi xin dun	675
+赤心护胫	chi xin hu jing	672
+赤心护腿	chi xin hu tui	674
+赤心护腕	chi xin hu wan	673
+赤心铠	chi xin kai	670
+赤心头盔	chi xin tou kui	671
+赤冶刀	chi ye dao	669
+蚩尤陵	chi you ling	17
+冲击	chong ji	668
+冲杀	chong sha	667
+重装青骢马	chong zhuang qing cong ma	58
+楚国	chu guo	666
+楚国专属	chu guo zhuan shu	95
+穿刺攻击	chuan ci gong ji	571
+穿镫弩	chuan deng nu	662
+传国玉玺	chuan guo yu xi	661
+穿云天翼箭	chuan yun tian yi jian	663
+磁石	ci shi	660
+粗麻衣	cu ma yi	659
+大飞蛾	da fei e	658
+大力斩	da li zhan	657
+褡裢	da lian	18
+道德经	dao de jing	727
+刀类物品	dao lei wu pin	655
+盗墓斧手	dao mu fu shou	653
+盗墓弓手	dao mu gong shou	652
+盗墓狂	dao mu kuang	651
+盗墓狂族人	dao mu kuang zu ren	650
+盗墓老手	dao mu lao shou	649
+盗墓窃贼	dao mu qie zei	648
+盗墓射手	dao mu she shou	647
+盗墓神箭手	dao mu shen jian shou	646
+盗墓术士	dao mu shu shi	645
+盗墓武士	dao mu wu shi	644
+盗墓凶人	dao mu xiong ren	643
+刀伤药	dao shang yao	654
+等级	deng ji	642
+地宫飞雁	di gong fei yan	640
+地宫花株	di gong hua zhu	639
+地裂斩	di lie zhan	638
+地煞	di sha	637
+地图	di tu	636
+地图怪物级别	di tu guai wu ji bie	635
+地图盒	di tu he	634
+地藏灵符	di zang ling fu	641
+滇盾	dian dun	633
+点钢枪	dian gang qiang	632
+雕羽箭	diao yu jian	631
+跌打药	die da yao	630
+定光剑	ding guang jian	629
+定秦剑	ding qin jian	628
+东海岛	dong hai dao	627
+东皇	dong huang	626
+东皇弓手	dong huang gong shou	625
+东皇剑士	dong huang jian shi	624
+东皇气士	dong huang qi shi	623
+东皇侍女	dong huang shi nv	622
+东皇侍卫	dong huang shi wei	621
+东皇庭	dong huang ting	620
+东皇庭宫殿	dong huang ting gong dian	618
+东皇庭回廊	dong huang ting hui lang	617
+东皇庭禁地	dong huang ting jin di	616
+东皇巫师	dong huang wu shi	615
+东皇隐士	dong huang yin shi	614
+都城大梁	du cheng da liang	170
+都城邯郸	du cheng han dan	66
+都城蓟	du cheng ji	106
+都城临淄	du cheng lin zi	313
+都城咸阳	du cheng xian yang	302
+都城郢	du cheng ying	664
+都城郑	du cheng zheng	510
+毒蛊	du gu	613
+毒寡妇	du gua fu	612
+毒花株	du hua zhu	611
+毒辣僰人	du la bo ren	610
+毒蟒	du mang	603
+赌神周星星	du shen zhou xing xing	601
+毒寿蜘蛛	du shou zhi zhu	609
+毒性防御	du xing fang yu	570
+毒性攻击	du xing gong ji	569
+毒血蜘蛛	du xue zhi zhu	608
+毒牙黑蝙蝠	du ya hei bian fu	607
+毒牙巨蟒	du ya ju mang	606
+毒牙蜘蛛	du ya zhi zhu	605
+独眼海盗	du yan hai dao	602
+毒蜘蛛	du zhi zhu	604
+短弓	duan gong	600
+兑奖盒	dui jiang he	599
+盾牌	dun pai	598
+夺虹金鈚箭	duo hong jin pi jian	597
+恶霸	e ba	595
+鹅翎箭	e ling jian	596
+鳄鱼王	e yu wang	12
+蕃獒	fan ao	47
+反击率	fan ji lv	568
+防御百分比	fang yu bai fen bi	567
+飞虫	fei chong	594
+飞翎箭法	fei ling jian fa	593
+肥猪	fei zhu	592
+凤翅弩	feng chi nu	591
+凤凰扳指	feng huang ban zhi	590
+凤凰盾	feng huang dun	589
+凤凰护腿	feng huang hu tui	588
+凤凰护腕	feng huang hu wan	587
+凤凰甲	feng huang jia	586
+凤凰铠	feng huang kai	582
+凤凰袍	feng huang pao	585
+凤凰头盔	feng huang tou kui	584
+凤凰羽	feng huang yu	583
+凤鸣弓	feng ming gong	581
+凤舞枪	feng wu qiang	580
+凤炎弩	feng yan nu	579
+伏虎刀法	fu hu dao fa	577
+斧类物品	fu lei wu pin	575
+缚龙索	fu long suo	573
+夫妻副本	fu qi fu ben	578
+伏远弩	fu yuan nu	576
+腐株万年青	fu zhu wan nian qing	574
+改造石	gai zao shi	572
+干将剑	gan jiang jian	536
+赶尸匠	gan shi jiang	535
+高端副本打宝副本	gao duan fu ben da bao fu ben	534
+高石子	gao shi zi	533
+耕柱子	geng zhu zi	532
+攻击百分比	gong ji bai fen bi	566
+攻击速度	gong ji su du	565
+攻击吸蓝	gong ji xi lan	564
+攻击吸血	gong ji xi xue	563
+弓类物品	gong lei wu pin	531
+弓手	gong shou	530
+鼓盾	gu dun	529
+骨牙护符	gu ya hu fu	528
+怪物名称	guai wu ming cheng	527
+怪物名字	guai wu ming zi	526
+贯日弩	guan ri nu	525
+鬼谷	gui gu	523
+鬼谷洞天	gui gu dong tian	522
+鬼谷福地	gui gu fu di	521
+鬼谷灵蝎	gui gu ling xie	520
+鬼谷流寇	gui gu liu kou	519
+鬼谷门犬	gui gu men quan	518
+鬼谷秘境	gui gu mi jing	517
+鬼谷仆人	gui gu pu ren	516
+鬼谷幽魂	gui gu you hun	515
+鬼谷幽邃	gui gu you sui	514
+桂陵	gui ling	513
+龟纹弓	gui wen gong	524
+海盗王	hai dao wang	512
+寒冰泉涌	han bing quan yong	508
+含光剑	han guang jian	509
+韩国	han guo	511
+韩国专属	han guo zhuan shu	357
+汗血胭脂马	han xue yan zhi ma	507
+合气丹	he qi dan	506
+黑蝙蝠	hei bian fu	499
+黑寡妇	hei gua fu	505
+黑漆弩	hei qi nu	504
+黑水蝙蝠	hei shui bian fu	503
+黑犀车	hei xi che	502
+黑妖蝙蝠	hei yao bian fu	501
+黑衣隐士	hei yi yin shi	500
+横扫千军	heng sao qian jun	498
+红绳护符	hong sheng hu fu	497
+红雪莲	hong xue lian	496
+虎刺	hu ci	494
+胡非子	hu fei zi	495
+护符	hu fu	409
+虎筋弓	hu jin gong	493
+忽略防御	hu lue fang yu	562
+鹄鸣箭	hu ming jian	19
+虎皮	hu pi	492
+虎肉	hu rou	491
+护腿	hu tui	490
+护腿鞋类	hu tui xie lei	488
+护腕	hu wan	487
+护心镜	hu xin jing	485
+花炮	hua pao	484
+花王争霸	hua wang zheng ba	483
+花装弩	hua zhuang nu	482
+幻马术	huan ma shu	475
+环锁护腿	huan suo hu tui	481
+环锁护腕	huan suo hu wan	480
+环锁甲	huan suo jia	479
+环锁铠	huan suo kai	476
+环锁袍	huan suo pao	478
+环锁头盔	huan suo tou kui	477
+幻雾天罡砲	huan wu tian gang bao	474
+幻象亡尸	huan xiang wang shi	473
+幻影斩	huan ying zhan	472
+黄精	huang jing	470
+黄牙海盗	huang ya hai dao	469
+荒野毒花	huang ye du hua	471
+黄玉	huang yu	468
+恢复生命	hui fu sheng ming	561
+恢复体力	hui fu ti li	560
+混沌斩	hun dun zhan	466
+婚戒	hun jie	467
+火龙果	huo long guo	464
+活洛丹	huo luo dan	465
+火羽燎原	huo yu liao yuan	463
+火云兽	huo yun shou	462
+机关	ji guan	461
+疾焰四方	ji yan si fang	460
+剑类物品	jian lei wu pin	458
+箭类物品	jian lei wu pin	459
+降头巫师	jiang tou wu shi	457
+碣石山	jie shi shan	24
+碣石山巅	jie shi shan dian	20
+碣石山脊	jie shi shan ji	23
+碣石山峦	jie shi shan luan	22
+碣石山腰	jie shi shan yao	21
+金蚕蛊	jin can gu	456
+进城文书	jin cheng wen shu	438
+金创药	jin chuang yao	455
+金刚僰人王	jin gang bo ren wang	454
+金刚石	jin gang shi	453
+金鈚箭	jin pi jian	439
+金钱	jin qian	452
+金丝扳指	jin si ban zhi	451
+金丝盾	jin si dun	450
+金丝护腿	jin si hu tui	449
+金丝护腕	jin si hu wan	448
+金丝甲	jin si jia	447
+金丝铠	jin si kai	444
+金丝袍	jin si pao	446
+金丝头盔	jin si tou kui	445
+金舆暴风黑犀车	jin yu bao feng hei xi che	443
+金舆幻雾黑犀车	jin yu huan wu hei xi che	442
+金蘸斧	jin zhan fu	441
+金钟罩	jin zhong zhao	440
+净化	jing hua	429
+精锐长矛兵	jing rui chang mao bing	436
+精锐狂战士	jing rui kuang zhan shi	435
+精锐蛮兵	jing rui man bing	434
+劲射	jing she	437
+精卫之石	jing wei zhi shi	433
+经验仙丹	jing yan xian dan	430
+精元石	jing yuan shi	432
+精装蛮兵	jing zhuang man bing	431
+九色蛊	jiu se gu	428
+九天娲女	jiu tian wa nv	427
+九转露	jiu zhuan lu	426
+九转神炉	jiu zhuan shen lu	425
+巨灵斧	ju ling fu	424
+绢布护腕	juan bu hu wan	422
+绢布甲	juan bu jia	421
+绢布头盔	juan bu tou kui	420
+卷云黑犀车	juan yun hei xi che	423
+叩鸣弓	kou ming gong	46
+狂暴	kuang bao	419
+狂暴黑熊	kuang bao hei xiong	418
+盔甲	kui jia	417
+昆吾剑	kun wu jian	416
+拦路弓箭手	lan lu gong jian shou	415
+雷錾砲	lei zan bao	414
+冷性防御	leng xing fang yu	559
+冷性攻击	leng xing gong ji	558
+梨花枪	li hua qiang	413
+利爪黑熊	li zhua hei xiong	412
+炼丹术士	lian dan shu shi	408
+连环刀法	lian huan dao fa	411
+练甲	lian jia	407
+连射	lian she	410
+连续瞬杀	lian xu shun sha	557
+烈火刀法	lie huo dao fa	406
+烈焰毒蛾	lie yan du e	405
+烈焰飞蛾	lie yan fei e	404
+烈焰花株	lie yan hua zhu	403
+烈焰冥蛾	lie yan ming e	399
+烈焰枪	lie yan qiang	402
+烈焰尸蛾	lie yan shi e	401
+烈焰蜘蛛	lie yan zhi zhu	400
+麟嘉刀	lin jia dao	3
+灵额砲	ling e bao	398
+灵鸠石	ling jiu shi	396
+灵芝	ling zhi	397
+流波弓	liu bo gong	391
+流寇	liu kou	390
+琉璃刀贼	liu li dao zei	395
+琉璃山贼	liu li shan zei	394
+琉璃滩	liu li tan	393
+琉璃铁爪	liu li tie zhao	392
+流绮箭	liu qi jian	389
+六韬	liu tao	726
+柳叶刀	liu ye dao	388
+龙骨流寇	long gu liu kou	387
+龙骨山	long gu shan	386
+龙骨山巅	long gu shan dian	382
+龙骨山脊	long gu shan ji	385
+龙骨山峦	long gu shan luan	384
+龙骨山腰	long gu shan yao	383
+龙鳞刀	long lin dao	381
+龙猫	long mao	380
+龙雀刀	long que dao	379
+龙沙弩	long sha nu	378
+龙纹护符	long wen hu fu	377
+龙炎砲	long yan bao	376
+龙渊剑	long yuan jian	375
+龙子玉螭	long zi yu chi	374
+轮回锤	lun hui chui	372
+落日弓	luo ri gong	371
+落日箭	luo ri jian	370
+洛邑	luo yi	369
+绿石扳指	lv shi ban zhi	373
+麻布护腕	ma bu hu wan	368
+马匹	ma pi	367
+蛮兵	man bing	366
+蛮兵盗贼	man bing dao zei	365
+蛮兵斧头	man bing fu tou	364
+蛮兵弓箭手	man bing gong jian shou	363
+蛮力僰人	man li bo ren	362
+曼陀罗花王	man tuo luo hua wang	361
+曼陀罗花株	man tuo luo hua zhu	360
+缦王弓	man wang gong	27
+猛虎	meng hu	359
+迷宫	mi gong	358
+面具人	mian ju ren	353
+苗蛊沼泽	miao gu zhao ze	665
+名称	ming cheng	342
+明光扳指	ming guang ban zhi	352
+明光盾	ming guang dun	351
+明光护胫	ming guang hu jing	348
+明光护腿	ming guang hu tui	350
+明光护腕	ming guang hu wan	349
+明光甲	ming guang jia	347
+明光铠	ming guang kai	344
+明光袍	ming guang pao	346
+明光头盔	ming guang tou kui	345
+鸣鸿刀	ming hong dao	343
+冥火飞蛾	ming huo fei e	48
+命中	ming zhong	556
+漠北开山锤	mo bei kai shan chui	335
+墨家刺客	mo jia ci ke	340
+墨家刀法	mo jia dao fa	339
+墨家弟子	mo jia di zi	338
+墨家家丁	mo jia jia ding	337
+墨家谋士	mo jia mou shi	336
+莫邪剑	mo ye jian	341
+谋士	mou shi	334
+木棍	mu gun	333
+南蛮刀手	nan man dao shou	332
+南蛮流寇	nan man liu kou	331
+南蛮山贼	nan man shan zei	330
+凝冰弩	ning bing nu	329
+凝魄石	ning po shi	328
+宁心露	ning xin lu	327
+怒吼	nu hou	326
+弩类物品	nu lei wu pin	44
+怒云弓	nu yun gong	325
+女姬	nv ji	324
+跑环系统	pao huan xi tong	323
+跑商系统	pao shang xi tong	322
+蓬莱岛	peng lai dao	619
+劈空刀法	pi kong dao fa	321
+皮牌	pi pai	320
+破甲攻击	po jia gong ji	555
+破虏西极马	po lu xi ji ma	319
+破天锤	po tian chui	318
+齐国	qi guo	315
+七国都城	qi guo du cheng	317
+麒麟扳指	qi lin ban zhi	11
+麒麟绑腿	qi lin bang tui	10
+麒麟盾	qi lin dun	9
+麒麟护腕	qi lin hu wan	8
+麒麟甲	qi lin jia	7
+麒麟铠	qi lin kai	4
+麒麟袍	qi lin pao	6
+麒麟头盔	qi lin tou kui	5
+骑士	qi shi	312
+绮星盾	qi xing dun	30
+绮星护胫	qi xing hu jing	29
+绮星枪	qi xing qiang	28
+七星岩	qi xing yan	316
+千旗镇	qian qi zhen	310
+钳蝎	qian xie	308
+乾阳石	qian yang shi	309
+强毒花株	qiang du hua zhu	305
+枪类物品	qiang lei wu pin	307
+蔷薇毒藤	qiang wei du teng	306
+秦国	qin guo	304
+秦国专属	qin guo zhuan shu	356
+秦陵	qin ling	301
+秦陵二层	qin ling er ceng	300
+秦陵三层	qin ling san ceng	299
+秦陵四层	qin ling si ceng	298
+秦陵一层	qin ling yi ceng	297
+青囊	qing nang	296
+青石	qing shi	295
+青铜扳指	qing tong ban zhi	294
+青铜斧	qing tong fu	293
+青铜护胫	qing tong hu jing	290
+青铜护腿	qing tong hu tui	292
+青铜护腕	qing tong hu wan	291
+青铜剑	qing tong jian	289
+青铜头盔	qing tong tou kui	288
+清心灵符	qing xin ling fu	287
+犰狳	qiu yu	45
+曲柄斧	qu bing fu	286
+雀鹰箭	que ying jian	285
+热性防御	re xing fang yu	554
+热性攻击	re xing gong ji	553
+人参	ren shen	284
+韧性	ren xing	552
+日轮花	ri lun hua	283
+如意锤	ru yi chui	282
+阮师刀	ruan shi dao	281
+沙毒蜘蛛	sha du zhi zhu	278
+杀戮者	sha lu zhe	280
+沙参	sha shen	279
+沙蝎	sha xie	277
+闪避	shan bi	551
+山丹马	shan dan ma	276
+山匪	shan fei	275
+山戎流寇	shan rong liu kou	274
+山戎山贼	shan rong shan zei	273
+山玄扳指	shan xuan ban zhi	272
+山玄盾	shan xuan dun	271
+山玄护符	shan xuan hu fu	270
+山玄护胫	shan xuan hu jing	267
+山玄护腿	shan xuan hu tui	269
+山玄护腕	shan xuan hu wan	268
+山玄甲	shan xuan jia	266
+山玄铠	shan xuan kai	263
+山玄袍	shan xuan pao	265
+山玄头盔	shan xuan tou kui	264
+山贼弓箭手	shan zei gong jian shou	262
+上都马	shang dou ma	261
+伤害减免	shang hai jian mian	550
+蛇蛊	she gu	260
+射虎弩	she hu nu	257
+摄魂花莽	she hun hua mang	258
+蛇曲枪	she qu qiang	259
+神术刀	shen shu dao	256
+生命百分比	sheng ming bai fen bi	549
+生蛇蛊	sheng she gu	255
+牲牲兽	sheng sheng shou	254
+石刀	shi dao	252
+施蛊女	shi gu nv	253
+饰品	shi pin	238
+食人毒株	shi ren du zhu	250
+食人鳄	shi ren e	247
+食人花株	shi ren hua zhu	249
+食人蜥蜴	shi ren xi yi	248
+石头蛊	shi tou gu	251
+嗜血	shi xue	245
+嗜血毒蝎	shi xue du xie	244
+嗜血蕃獒	shi xue fan ao	239
+嗜血飞虫	shi xue fei chong	243
+嗜血花株	shi xue hua zhu	242
+嗜血妖	shi xue yao	241
+嗜血蜘蛛	shi xue zhi zhu	240
+蚀月斧	shi yue fu	246
+兽君	shou jun	227
+兽仆	shou pu	226
+寿仙婢女	shou xian bi nv	228
+寿仙宫	shou xian gong	237
+寿仙宫二层	shou xian gong er ceng	236
+寿仙弓箭手	shou xian gong jian shou	232
+寿仙宫三层	shou xian gong san ceng	235
+寿仙宫四层	shou xian gong si ceng	234
+寿仙宫一层	shou xian gong yi ceng	233
+寿仙护法	shou xian hu fa	231
+寿仙女姬	shou xian nv ji	230
+寿仙侍女	shou xian shi nv	229
+属性石碎片	shu xing shi sui pian	225
+双倍技能卷	shuang bei ji neng juan	224
+双倍经验卷	shuang bei jing yan juan	223
+双镰斧	shuang lian fu	222
+水苍扳指	shui cang ban zhi	221
+水苍盾	shui cang dun	220
+水苍护符	shui cang hu fu	219
+水苍护胫	shui cang hu jing	216
+水苍护腿	shui cang hu tui	218
+水苍护腕	shui cang hu wan	217
+水苍甲	shui cang jia	215
+水苍铠	shui cang kai	212
+水苍袍	shui cang pao	214
+水苍头盔	shui cang tou kui	213
+瞬杀	shun sha	548
+素木枪	su mu qiang	211
+宿铁刀	su tie dao	210
+碎尸者	sui shi zhe	209
+碎星黯山砲	sui xing an shan bao	208
+琐锁扳指	suo suo ban zhi	207
+太阿剑	tai a jian	206
+太康剑	tai kang jian	205
+贪婪的盗墓狂	tan lan de dao mu kuang	204
+弹射	tan she	656
+桃花岛	tao hua dao	203
+桃园村	tao yuan cun	202
+桃源村	tao yuan cun	201
+藤牌	teng pai	200
+体力百分比	ti li bai fen bi	547
+天宝灵符	tian bao ling fu	199
+天覆	tian fu	198
+天罡砲	tian gang bao	193
+天荷箭	tian he jian	197
+天机狐变	tian ji hu bian	196
+天罗地网	tian luo di wang	195
+天仙露	tian xian lu	194
+铁镐	tie gao	192
+铁棺崖	tie guan ya	191
+铁甲兵	tie jia bing	190
+铁匠秘锤	tie jiang mi chui	189
+铁皮僰人	tie pi bo ren	188
+铁皮棘人	tie pi ji ren	187
+铁手海盗	tie shou hai dao	186
+铁锥枪	tie zhui qiang	185
+铜甲兵	tong jia bing	184
+铜皮僰人	tong pi bo ren	183
+铜锁护符	tong suo hu fu	182
+筒袖护心甲	tong xiu hu xin jia	180
+筒袖文士袍	tong xiu wen shi pao	179
+铜蛛	tong zhu	181
+头盔	tou kui	176
+头脑轮回	tou nao lun hui	175
+投石岩巨人	tou shi yan ju ren	178
+投掷	tou zhi	177
+图腾护符	tu teng hu fu	174
+娲皇宫	wa huang gong	43
+娲皇宫二层	wa huang gong er ceng	42
+娲皇弓箭手	wa huang gong jian shou	38
+娲皇宫三层	wa huang gong san ceng	41
+娲皇宫四层	wa huang gong si ceng	40
+娲皇宫一层	wa huang gong yi ceng	39
+娲皇护法	wa huang hu fa	37
+娲皇护卫	wa huang hu wei	36
+娲皇猎手	wa huang lie shou	35
+娲皇射手	wa huang she shou	34
+娲皇侍卫	wa huang shi wei	33
+魏国	wei guo	171
+魏国专属	wei guo zhuan shu	355
+未经打磨的璞玉	wei jing da mo de pu yu	173
+未经雕刻的印信	wei jing diao ke de yin xin	172
+武备河曲马	wu bei he qu ma	166
+武备黑鬃马	wu bei hei zong ma	165
+武备乌骓马	wu bei wu zhui ma	164
+巫蛊王	wu gu wang	169
+乌金斧	wu jin fu	168
+无赖锤	wu lai chui	167
+物品等级	wu pin deng ji	160
+物品描述	wu pin miao shu	159
+物品图标	wu pin tu biao	158
+物品种类	wu pin zhong lei	157
+武器	wu qi	163
+勿食我黍	wu shi wo shu	156
+武卒草鞋	wu zu cao xie	162
+武卒绢布鞋	wu zu juan bu xie	161
+犀角弓	xi jiao gong	154
+吸血狼人	xi xue lang ren	155
+蜥蜴	xi yi	15
+蜥蜴王	xi yi wang	14
+夏禹剑	xia yu jian	153
+陷阱	xian jing	152
+项链	xiang lian	151
+孝经	xiao jing	725
+啸林猛虎	xiao lin meng hu	149
+小梢弓	xiao shao gong	150
+啸天战魔	xiao tian zhan mo	148
+邪瘟砲	xie wen bao	146
+蝎子王	xie zi wang	147
+兴宫	xing gong	303
+兴宫寻宝	xing gong xun bao	144
+星连箭	xing lian jian	145
+醒神丹	xing shen dan	142
+行尸走肉	xing shi zou rou	143
+匈奴长矛兵	xiong nu chang mao bing	141
+匈奴火箭兵	xiong nu huo jian bing	140
+匈奴将军	xiong nu jiang jun	139
+匈奴狂战士	xiong nu kuang zhan shi	138
+匈奴女巫	xiong nu nv wu	137
+匈奴营寨	xiong nu ying zhai	136
+修仙术士	xiu xian shu shi	135
+宣花斧	xuan hua fu	132
+玄冥毒蛾	xuan ming du e	116
+玄铁扳指	xuan tie ban zhi	131
+玄铁护胫	xuan tie hu jing	128
+玄铁护腿	xuan tie hu tui	130
+玄铁护腕	xuan tie hu wan	129
+玄铁甲	xuan tie jia	127
+玄铁头盔	xuan tie tou kui	126
+玄武扳指	xuan wu ban zhi	125
+玄武盾	xuan wu dun	124
+玄武护腿	xuan wu hu tui	123
+玄武护腕	xuan wu hu wan	122
+玄武甲	xuan wu jia	121
+玄武铠	xuan wu kai	118
+玄武袍	xuan wu pao	120
+玄武头盔	xuan wu tou kui	119
+玄阴玉	xuan yin yu	117
+轩辕弓	xuan yuan gong	134
+轩辕剑	xuan yuan jian	133
+血蝙蝠	xue bian fu	112
+血湖	xue hu	314
+雪参	xue shen	115
+血鸦	xue ya	114
+血猿	xue yuan	113
+鸦项枪	ya xiang qiang	111
+燕国	yan guo	107
+燕国专属	yan guo zhuan shu	94
+眼镜蛇	yan jing she	108
+岩巨人	yan ju ren	110
+炎狼护符	yan lang hu fu	109
+雁翎刀	yan ling dao	104
+雁翎箭	yan ling jian	103
+雁翎枪	yan ling qiang	102
+燕双飞	yan shuang fei	105
+药人	yao ren	100
+妖尸	yao shi	101
+野鸡	ye ji	99
+野鸡王	ye ji wang	98
+野猫	ye mao	97
+野外	ye wai	96
+野猪	ye zhu	93
+移动速度	yi dong su du	546
+异度空间	yi du kong jian	90
+衣服	yi fu	91
+伊犁马	yi li ma	92
+羿王箭	yi wang jian	13
+驿站文书	yi zhan wen shu	31
+银貂枪	yin diao qiang	87
+阴姬	yin ji	89
+印信碎片	yin xin sui pian	86
+银鹰箭	yin ying jian	88
+迎风闪	ying feng shan	85
+硬甲嗜血飞虫	ying jia shi xue fei chong	84
+鱼鳞护胫	yu lin hu jing	83
+玉饰大宛马	yu shi da wan ma	81
+玉饰绝影马	yu shi jue ying ma	80
+玉饰南骊马	yu shi nan li ma	79
+玉饰天河马	yu shi tian he ma	78
+驭兽大将军	yu shou da jiang jun	77
+鱼尾斧	yu wei fu	82
+圆刃斧	yuan ren fu	75
+元戎弩	yuan rong nu	76
+元素伤害	yuan su shang hai	545
+元素吸收	yuan su xi shou	544
+月轮花	yue lun hua	74
+月熊	yue xiong	73
+月夜雌虎	yue ye ci hu	72
+运镖系统	yun biao xi tong	70
+云游术士	yun you shu shi	71
+增加力量	zeng jia li liang	543
+增加敏捷	zeng jia min jie	542
+增加内力	zeng jia nei li	541
+增加体质	zeng jia ti zhi	540
+增加悟性	zeng jia wu xing	539
+增加智力	zeng jia zhi li	538
+斩将决	zhan jiang jue	69
+战士	zhan shi	311
+障眼术	zhang yan shu	68
+照胆剑	zhao dan jian	65
+赵国	zhao guo	67
+赵国专属	zhao guo zhuan shu	354
+柘木弓	zhe mu gong	26
+蜇尾蝎	zhe wei xie	16
+镇国令	zhen guo ling	63
+镇国塔门票	zhen guo ta men piao	62
+震慑	zhen she	64
+拯救民女	zheng jiu min nv	61
+指环	zhi huan	59
+织锦头盔	zhi jin tou kui	60
+重击	zhong ji	537
+竹弓	zhu gong	56
+竹剑	zhu jian	54
+竹箭	zhu jian	55
+竹枪	zhu qiang	53
+主要回生命	zhu yao hui sheng ming	486
+主要回体力	zhu yao hui ti li	489
+珠玉护符	zhu yu hu fu	57
+专属	zhuan shu	52
+追风箭	zhui feng jian	51
+追风星零箭	zhui feng xing ling jian	50
+斫鹰弩	zhuo ying nu	25
+尊王攘夷	zun wang rang yi	49

@@ -1,0 +1,758 @@
+# 词库名称: 中国大学目录
+# 词库分类: 其他
+# 词库描述: 2009年，中国所有公办大学、学院
+# 词条样例: 天津财经大学、天津城市建设学院、天津工业大学、天津理工大学、天津外国语学院、天津中医药大学
+# 解析词数: 751
+# 解析异常: 0
+
+安徽财经大学	an hui cai jing da xue	734
+安徽大学	an hui da xue	733
+安徽工程科技学院	an hui gong cheng ke ji xue yuan	732
+安徽工业大学	an hui gong ye da xue	731
+安徽建筑工业学院	an hui jian zhu gong ye xue yuan	730
+安徽科技学院	an hui ke ji xue yuan	729
+安徽理工大学	an hui li gong da xue	728
+安徽农业大学	an hui nong ye da xue	727
+安徽三联学院	an hui san lian xue yuan	726
+安徽师范大学	an hui shi fan da xue	725
+安徽新华学院	an hui xin hua xue yuan	724
+安徽医科大学	an hui yi ke da xue	723
+安徽中医学院	an hui zhong yi xue yuan	722
+安康学院	an kang xue yuan	721
+安庆师范学院	an qing shi fan xue yuan	720
+鞍山师范学院	an shan shi fan xue yuan	716
+安顺学院	an shun xue yuan	719
+安阳工学院	an yang gong xue yuan	718
+安阳师范学院	an yang shi fan xue yuan	717
+白城师范学院	bai cheng shi fan xue yuan	715
+百色学院	bai se xue yuan	714
+保定学院	bao ding xue yuan	710
+宝鸡文理学院	bao ji wen li xue yuan	711
+北方工业大学	bei fang gong ye da xue	709
+北方民族大学	bei fang min zu da xue	708
+北华大学	bei hua da xue	707
+北华航天工业学院	bei hua hang tian gong ye xue yuan	706
+北京城市学院	bei jing cheng shi xue yuan	705
+北京大学	bei jing da xue	704
+北京第二外国语学院	bei jing di er wai guo yu xue yuan	703
+北京电影学院	bei jing dian ying xue yuan	702
+北京电子科技学院	bei jing dian zi ke ji xue yuan	701
+北京服装学院	bei jing fu zhuang xue yuan	700
+北京工商大学	bei jing gong shang da xue	699
+北京工业大学	bei jing gong ye da xue	698
+北京航空航天大学	bei jing hang kong hang tian da xue	697
+北京化工大学	bei jing hua gong da xue	696
+北京建筑工程学院	bei jing jian zhu gong cheng xue yuan	695
+北京交通大学	bei jing jiao tong da xue	694
+北京警察学院	bei jing jing cha xue yuan	693
+北京科技大学	bei jing ke ji da xue	692
+北京理工大学	bei jing li gong da xue	691
+北京联合大学	bei jing lian he da xue	690
+北京林业大学	bei jing lin ye da xue	689
+北京农学院	bei jing nong xue yuan	688
+北京师范大学	bei jing shi fan da xue	687
+北京师范大学香港浸会大学联合国际学院	bei jing shi fan da xue xiang gang jin hui da xue lian he guo ji xue yuan	686
+北京石油化工学院	bei jing shi you hua gong xue yuan	685
+北京体育大学	bei jing ti yu da xue	684
+北京外国语大学	bei jing wai guo yu da xue	683
+北京舞蹈学院	bei jing wu dao xue yuan	682
+北京物资学院	bei jing wu zi xue yuan	681
+北京信息科技大学	bei jing xin xi ke ji da xue	680
+北京印刷学院	bei jing yin shua xue yuan	679
+北京邮电大学	bei jing you dian da xue	678
+北京语言大学	bei jing yu yan da xue	677
+北京中医药大学	bei jing zhong yi yao da xue	676
+蚌埠学院	beng bu xue yuan	713
+蚌埠医学院	beng bu yi xue yuan	712
+毕节学院	bi jie xue yuan	675
+滨州学院	bin zhou xue yuan	674
+滨州医学院	bin zhou yi xue yuan	673
+渤海大学	bo hai da xue	672
+长安大学	chang an da xue	670
+长春大学	chang chun da xue	669
+长春工程学院	chang chun gong cheng xue yuan	668
+长春工业大学	chang chun gong ye da xue	667
+长春理工大学	chang chun li gong da xue	666
+长春师范学院	chang chun shi fan xue yuan	665
+长春税务学院	chang chun shui wu xue yuan	664
+长春中医药大学	chang chun zhong yi yao da xue	663
+昌吉学院	chang ji xue yuan	671
+长江大学	chang jiang da xue	662
+长江师范学院	chang jiang shi fan xue yuan	661
+长沙理工大学	chang sha li gong da xue	660
+长沙学院	chang sha xue yuan	659
+长沙医学院	chang sha yi xue yuan	658
+常熟理工学院	chang shu li gong xue yuan	655
+长治学院	chang zhi xue yuan	657
+长治医学院	chang zhi yi xue yuan	656
+常州工学院	chang zhou gong xue yuan	654
+巢湖学院	chao hu xue yuan	653
+承德医学院	cheng de yi xue yuan	646
+成都理工大学	cheng du li gong da xue	652
+成都体育学院	cheng du ti yu xue yuan	651
+成都信息工程学院	cheng du xin xi gong cheng xue yuan	650
+成都学院	cheng du xue yuan	649
+成都医学院	cheng du yi xue yuan	648
+成都中医药大学	cheng du zhong yi yao da xue	647
+赤峰学院	chi feng xue yuan	644
+池州学院	chi zhou xue yuan	645
+重庆大学	chong qing da xue	13
+重庆工商大学	chong qing gong shang da xue	12
+重庆工学院	chong qing gong xue yuan	11
+重庆交通大学	chong qing jiao tong da xue	10
+重庆科技学院	chong qing ke ji xue yuan	9
+重庆三峡学院	chong qing san xia xue yuan	8
+重庆师范大学	chong qing shi fan da xue	7
+重庆文理学院	chong qing wen li xue yuan	6
+重庆医科大学	chong qing yi ke da xue	5
+重庆邮电大学	chong qing you dian da xue	4
+楚雄师范学院	chu xiong shi fan xue yuan	642
+滁州学院	chu zhou xue yuan	643
+川北医学院	chuan bei yi xue yuan	641
+大理学院	da li xue yuan	640
+大连大学	da lian da xue	639
+大连工业大学	da lian gong ye da xue	638
+大连海事大学	da lian hai shi da xue	637
+大连交通大学	da lian jiao tong da xue	636
+大连理工大学	da lian li gong da xue	635
+大连民族学院	da lian min zu xue yuan	634
+大连水产学院	da lian shui chan xue yuan	633
+大连外国语学院	da lian wai guo yu xue yuan	632
+大连医科大学	da lian yi ke da xue	631
+大庆师范学院	da qing shi fan xue yuan	630
+大庆石油学院	da qing shi you xue yuan	629
+德州学院	de zhou xue yuan	628
+电子科技大学	dian zi ke ji da xue	627
+东北财经大学	dong bei cai jing da xue	626
+东北大学	dong bei da xue	625
+东北电力大学	dong bei dian li da xue	624
+东北林业大学	dong bei lin ye da xue	623
+东北农业大学	dong bei nong ye da xue	622
+东北师范大学	dong bei shi fan da xue	621
+东莞理工学院	dong guan li gong xue yuan	617
+东华大学	dong hua da xue	620
+东华理工大学	dong hua li gong da xue	619
+东南大学	dong nan da xue	618
+对外经济贸易大学	dui wai jing ji mao yi da xue	616
+防灾科技学院	fang zai ke ji xue yuan	615
+佛山科学技术学院	fo shan ke xue ji shu xue yuan	614
+复旦大学	fu dan da xue	605
+福建工程学院	fu jian gong cheng xue yuan	613
+福建警察学院	fu jian jing cha xue yuan	612
+福建农林大学	fu jian nong lin da xue	611
+福建师范大学	fu jian shi fan da xue	610
+福建医科大学	fu jian yi ke da xue	609
+福建中医学院	fu jian zhong yi xue yuan	608
+阜阳师范学院	fu yang shi fan xue yuan	606
+福州大学	fu zhou da xue	607
+赣南师范学院	gan nan shi fan xue yuan	601
+赣南医学院	gan nan yi xue yuan	600
+甘肃农业大学	gan su nong ye da xue	604
+甘肃政法学院	gan su zheng fa xue yuan	603
+甘肃中医学院	gan su zhong yi xue yuan	602
+广东白云学院	guang dong bai yun xue yuan	599
+广东工业大学	guang dong gong ye da xue	598
+广东海洋大学	guang dong hai yang da xue	597
+广东技术师范学院	guang dong ji shu shi fan xue yuan	596
+广东金融学院	guang dong jin rong xue yuan	595
+广东警官学院	guang dong jing guan xue yuan	594
+广东培正学院	guang dong pei zheng xue yuan	593
+广东商学院	guang dong shang xue yuan	592
+广东外语外贸大学	guang dong wai yu wai mao da xue	591
+广东药学院	guang dong yao xue yuan	590
+广东医学院	guang dong yi xue yuan	589
+广西财经学院	guang xi cai jing xue yuan	588
+广西大学	guang xi da xue	587
+广西工学院	guang xi gong xue yuan	586
+广西民族大学	guang xi min zu da xue	585
+广西师范大学	guang xi shi fan da xue	584
+广西师范学院	guang xi shi fan xue yuan	583
+广西医科大学	guang xi yi ke da xue	582
+广西艺术学院	guang xi yi shu xue yuan	581
+广西中医学院	guang xi zhong yi xue yuan	580
+广州大学	guang zhou da xue	579
+广州美术学院	guang zhou mei shu xue yuan	578
+广州体育学院	guang zhou ti yu xue yuan	577
+广州医学院	guang zhou yi xue yuan	576
+广州中医药大学	guang zhou zhong yi yao da xue	575
+桂林电子科技大学	gui lin dian zi ke ji da xue	567
+桂林工学院	gui lin gong xue yuan	566
+桂林医学院	gui lin yi xue yuan	565
+贵阳学院	gui yang xue yuan	574
+贵阳医学院	gui yang yi xue yuan	573
+贵阳中医学院	gui yang zhong yi xue yuan	572
+贵州财经学院	gui zhou cai jing xue yuan	571
+贵州大学	gui zhou da xue	570
+贵州民族学院	gui zhou min zu xue yuan	569
+贵州师范大学	gui zhou shi fan da xue	568
+国际关系学院	guo ji guan xi xue yuan	564
+哈尔滨工程大学	ha er bin gong cheng da xue	563
+哈尔滨工业大学	ha er bin gong ye da xue	562
+哈尔滨理工大学	ha er bin li gong da xue	561
+哈尔滨商业大学	ha er bin shang ye da xue	560
+哈尔滨师范大学	ha er bin shi fan da xue	559
+哈尔滨体育学院	ha er bin ti yu xue yuan	558
+哈尔滨学院	ha er bin xue yuan	557
+哈尔滨医科大学	ha er bin yi ke da xue	556
+海口经济学院	hai kou jing ji xue yuan	555
+海南大学	hai nan da xue	554
+海南师范大学	hai nan shi fan da xue	553
+海南医学院	hai nan yi xue yuan	552
+邯郸学院	han dan xue yuan	551
+韩山师范学院	han shan shi fan xue yuan	550
+杭州电子科技大学	hang zhou dian zi ke ji da xue	549
+杭州师范大学	hang zhou shi fan da xue	548
+河北北方学院	he bei bei fang xue yuan	544
+河北传媒学院	he bei chuan mei xue yuan	543
+河北大学	he bei da xue	542
+河北工程大学	he bei gong cheng da xue	541
+河北工业大学	he bei gong ye da xue	540
+河北建筑工程学院	he bei jian zhu gong cheng xue yuan	539
+河北金融学院	he bei jin rong xue yuan	538
+河北经贸大学	he bei jing mao da xue	537
+河北科技大学	he bei ke ji da xue	536
+河北科技师范学院	he bei ke ji shi fan xue yuan	535
+河北理工大学	he bei li gong da xue	534
+河北农业大学	he bei nong ye da xue	533
+河北师范大学	he bei shi fan da xue	532
+河北体育学院	he bei ti yu xue yuan	531
+河北医科大学	he bei yi ke da xue	530
+河池学院	he chi xue yuan	529
+合肥工业大学	he fei gong ye da xue	547
+合肥师范学院	he fei shi fan xue yuan	546
+合肥学院	he fei xue yuan	545
+河海大学	he hai da xue	528
+河南财经学院	he nan cai jing xue yuan	527
+河南大学	he nan da xue	526
+河南工程学院	he nan gong cheng xue yuan	525
+河南工业大学	he nan gong ye da xue	524
+河南科技大学	he nan ke ji da xue	523
+河南科技学院	he nan ke ji xue yuan	522
+河南理工大学	he nan li gong da xue	521
+河南农业大学	he nan nong ye da xue	520
+河南师范大学	he nan shi fan da xue	519
+河南中医学院	he nan zhong yi xue yuan	518
+河西学院	he xi xue yuan	517
+菏泽学院	he ze xue yuan	516
+贺州学院	he zhou xue yuan	515
+黑河学院	hei he xue yuan	514
+黑龙江八一农垦大学	hei long jiang ba yi nong ken da xue	513
+黑龙江大学	hei long jiang da xue	512
+黑龙江东方学院	hei long jiang dong fang xue yuan	511
+黑龙江工程学院	hei long jiang gong cheng xue yuan	510
+黑龙江科技学院	hei long jiang ke ji xue yuan	509
+黑龙江中医药大学	hei long jiang zhong yi yao da xue	508
+衡水学院	heng shui xue yuan	507
+衡阳师范学院	heng yang shi fan xue yuan	506
+红河学院	hong he xue yuan	505
+湖北大学	hu bei da xue	503
+湖北第二师范学院	hu bei di er shi fan xue yuan	502
+湖北工业大学	hu bei gong ye da xue	501
+湖北警官学院	hu bei jing guan xue yuan	499
+湖北经济学院	hu bei jing ji xue yuan	500
+湖北美术学院	hu bei mei shu xue yuan	498
+湖北民族学院	hu bei min zu xue yuan	497
+湖北汽车工业学院	hu bei qi che gong ye xue yuan	496
+湖北师范学院	hu bei shi fan xue yuan	495
+湖北中医学院	hu bei zhong yi xue yuan	494
+呼伦贝尔学院	hu lun bei er xue yuan	504
+湖南城市学院	hu nan cheng shi xue yuan	493
+湖南大学	hu nan da xue	492
+湖南第一师范学院	hu nan di yi shi fan xue yuan	491
+湖南工程学院	hu nan gong cheng xue yuan	490
+湖南工学院	hu nan gong xue yuan	489
+湖南工业大学	hu nan gong ye da xue	488
+湖南科技大学	hu nan ke ji da xue	487
+湖南科技学院	hu nan ke ji xue yuan	486
+湖南理工学院	hu nan li gong xue yuan	485
+湖南农业大学	hu nan nong ye da xue	484
+湖南人文科技学院	hu nan ren wen ke ji xue yuan	483
+湖南商学院	hu nan shang xue yuan	482
+湖南涉外经济学院	hu nan she wai jing ji xue yuan	481
+湖南师范大学	hu nan shi fan da xue	480
+湖南文理学院	hu nan wen li xue yuan	479
+湖南中医药大学	hu nan zhong yi yao da xue	478
+湖州师范学院	hu zhou shi fan xue yuan	477
+华北电力大学	hua bei dian li da xue	476
+华北科技学院	hua bei ke ji xue yuan	475
+华北煤炭医学院	hua bei mei tan yi xue yuan	474
+华北水利水电学院	hua bei shui li shui dian xue yuan	473
+华东交通大学	hua dong jiao tong da xue	472
+华东理工大学	hua dong li gong da xue	471
+华东师范大学	hua dong shi fan da xue	470
+华东政法大学	hua dong zheng fa da xue	469
+华南理工大学	hua nan li gong da xue	468
+华南农业大学	hua nan nong ye da xue	467
+华南师范大学	hua nan shi fan da xue	466
+华侨大学	hua qiao da xue	465
+华中科技大学	hua zhong ke ji da xue	464
+华中农业大学	hua zhong nong ye da xue	463
+华中师范大学	hua zhong shi fan da xue	462
+淮北煤炭师范学院	huai bei mei tan shi fan xue yuan	460
+淮海工学院	huai hai gong xue yuan	459
+怀化学院	huai hua xue yuan	461
+淮南师范学院	huai nan shi fan xue yuan	458
+淮阴工学院	huai yin gong xue yuan	457
+淮阴师范学院	huai yin shi fan xue yuan	456
+黄冈师范学院	huang gang shi fan xue yuan	455
+黄河科技学院	huang he ke ji xue yuan	454
+黄淮学院	huang huai xue yuan	453
+黄山学院	huang shan xue yuan	452
+黄石理工学院	huang shi li gong xue yuan	451
+惠州学院	hui zhou xue yuan	450
+吉林大学	ji lin da xue	449
+吉林工程技术师范学院	ji lin gong cheng ji shu shi fan xue yuan	448
+吉林工商学院	ji lin gong shang xue yuan	447
+吉林化工学院	ji lin hua gong xue yuan	445
+吉林华桥外国语学院	ji lin hua qiao wai guo yu xue yuan	446
+吉林建筑工程学院	ji lin jian zhu gong cheng xue yuan	444
+吉林农业大学	ji lin nong ye da xue	443
+吉林农业科技学院	ji lin nong ye ke ji xue yuan	442
+吉林师范大学	ji lin shi fan da xue	441
+吉林体育学院	ji lin ti yu xue yuan	440
+吉林艺术学院	ji lin yi shu xue yuan	438
+吉林医药学院	ji lin yi yao xue yuan	439
+集美大学	ji mei da xue	436
+暨南大学	ji nan da xue	432
+济南大学	ji nan da xue	435
+济宁学院	ji ning xue yuan	434
+济宁医学院	ji ning yi xue yuan	433
+吉首大学	ji shou da xue	437
+佳木斯大学	jia mu si da xue	431
+嘉兴学院	jia xing xue yuan	430
+嘉应学院	jia ying xue yuan	429
+江汉大学	jiang han da xue	428
+江南大学	jiang nan da xue	427
+江苏大学	jiang su da xue	426
+江苏工业学院	jiang su gong ye xue yuan	425
+江苏技术师范学院	jiang su ji shu shi fan xue yuan	424
+江苏警官学院	jiang su jing guan xue yuan	423
+江苏科技大学	jiang su ke ji da xue	422
+江西财经大学	jiang xi cai jing da xue	421
+江西科技师范学院	jiang xi ke ji shi fan xue yuan	420
+江西蓝天学院	jiang xi lan tian xue yuan	419
+江西理工大学	jiang xi li gong da xue	418
+江西农业大学	jiang xi nong ye da xue	417
+江西师范大学	jiang xi shi fan da xue	416
+江西中医学院	jiang xi zhong yi xue yuan	415
+金陵科技学院	jin ling ke ji xue yuan	414
+晋中学院	jin zhong xue yuan	413
+荆楚理工学院	jing chu li gong xue yuan	412
+景德镇陶瓷学院	jing de zhen tao ci xue yuan	410
+井冈山大学	jing gang shan da xue	411
+九江学院	jiu jiang xue yuan	409
+喀什师范学院	ka shi shi fan xue yuan	408
+凯里学院	kai li xue yuan	407
+昆明理工大学	kun ming li gong da xue	406
+昆明学院	kun ming xue yuan	405
+昆明医学院	kun ming yi xue yuan	404
+兰州城市学院	lan zhou cheng shi xue yuan	403
+兰州大学	lan zhou da xue	402
+兰州交通大学	lan zhou jiao tong da xue	401
+兰州理工大学	lan zhou li gong da xue	400
+兰州商学院	lan zhou shang xue yuan	399
+廊坊师范学院	lang fang shi fan xue yuan	398
+乐山师范学院	le shan shi fan xue yuan	397
+丽水学院	li shui xue yuan	396
+聊城大学	liao cheng da xue	384
+辽东学院	liao dong xue yuan	395
+辽宁大学	liao ning da xue	394
+辽宁对外经贸学院	liao ning dui wai jing mao xue yuan	393
+辽宁工程技术大学	liao ning gong cheng ji shu da xue	392
+辽宁工业大学	liao ning gong ye da xue	391
+辽宁科技大学	liao ning ke ji da xue	390
+辽宁科技学院	liao ning ke ji xue yuan	389
+辽宁师范大学	liao ning shi fan da xue	388
+辽宁石油化工大学	liao ning shi you hua gong da xue	387
+辽宁医学院	liao ning yi xue yuan	386
+辽宁中医药大学	liao ning zhong yi yao da xue	385
+临沂师范学院	lin yi shi fan xue yuan	383
+陇东学院	long dong xue yuan	381
+龙岩学院	long yan xue yuan	382
+鲁东大学	lu dong da xue	379
+鲁迅美术学院	lu xun mei shu xue yuan	378
+泸州医学院	lu zhou yi xue yuan	380
+洛阳理工学院	luo yang li gong xue yuan	377
+洛阳师范学院	luo yang shi fan xue yuan	376
+茂名学院	mao ming xue yuan	375
+绵阳师范学院	mian yang shi fan xue yuan	374
+闽江学院	min jiang xue yuan	373
+闽南理工学院	min nan li gong xue yuan	372
+牡丹江师范学院	mu dan jiang shi fan xue yuan	371
+牡丹江医学院	mu dan jiang yi xue yuan	370
+南昌大学	nan chang da xue	360
+南昌工程学院	nan chang gong cheng xue yuan	359
+南昌航空大学	nan chang hang kong da xue	358
+南昌理工学院	nan chang li gong xue yuan	357
+南方医科大学	nan fang yi ke da xue	356
+南华大学	nan hua da xue	355
+南京财经大学	nan jing cai jing da xue	354
+南京大学	nan jing da xue	353
+南京工程学院	nan jing gong cheng xue yuan	352
+南京工业大学	nan jing gong ye da xue	351
+南京航空航天大学	nan jing hang kong hang tian da xue	350
+南京理工大学	nan jing li gong da xue	349
+南京林业大学	nan jing lin ye da xue	348
+南京农业大学	nan jing nong ye da xue	347
+南京审计学院	nan jing shen ji xue yuan	346
+南京师范大学	nan jing shi fan da xue	345
+南京体育学院	nan jing ti yu xue yuan	344
+南京晓庄学院	nan jing xiao zhuang xue yuan	343
+南京信息工程大学	nan jing xin xi gong cheng da xue	342
+南京医科大学	nan jing yi ke da xue	341
+南京艺术学院	nan jing yi shu xue yuan	340
+南京邮电大学	nan jing you dian da xue	339
+南京中医药大学	nan jing zhong yi yao da xue	338
+南开大学	nan kai da xue	337
+南通大学	nan tong da xue	336
+南阳理工学院	nan yang li gong xue yuan	335
+南阳师范学院	nan yang shi fan xue yuan	334
+内江师范学院	nei jiang shi fan xue yuan	369
+内蒙古财经学院	nei meng gu cai jing xue yuan	368
+内蒙古大学	nei meng gu da xue	367
+内蒙古工业大学	nei meng gu gong ye da xue	366
+内蒙古科技大学	nei meng gu ke ji da xue	365
+内蒙古民族大学	nei meng gu min zu da xue	364
+内蒙古农业大学	nei meng gu nong ye da xue	363
+内蒙古师范大学	nei meng gu shi fan da xue	362
+内蒙古医学院	nei meng gu yi xue yuan	361
+宁波大红鹰学院	ning bo da hong ying xue yuan	333
+宁波大学	ning bo da xue	332
+宁波工程学院	ning bo gong cheng xue yuan	331
+宁波诺丁汉大学	ning bo nuo ding han da xue	330
+宁夏大学	ning xia da xue	329
+宁夏理工学院	ning xia li gong xue yuan	328
+宁夏师范学院	ning xia shi fan xue yuan	327
+宁夏医学院	ning xia yi xue yuan	326
+攀枝花学院	pan zhi hua xue yuan	325
+平顶山工学院	ping ding shan gong xue yuan	324
+平顶山学院	ping ding shan xue yuan	323
+莆田学院	pu tian xue yuan	322
+齐齐哈尔大学	qi qi ha er da xue	321
+齐齐哈尔医学院	qi qi ha er yi xue yuan	320
+黔南民族师范学院	qian nan min zu shi fan xue yuan	319
+钦州学院	qin zhou xue yuan	318
+青岛滨海学院	qing dao bin hai xue yuan	317
+青岛大学	qing dao da xue	316
+青岛科技大学	qing dao ke ji da xue	315
+青岛理工大学	qing dao li gong da xue	314
+青岛农业大学	qing dao nong ye da xue	313
+青海大学	qing hai da xue	312
+青海民族学院	qing hai min zu xue yuan	311
+青海师范大学	qing hai shi fan da xue	310
+清华大学	qing hua da xue	309
+琼州学院	qiong zhou xue yuan	308
+曲阜师范大学	qu fu shi fan da xue	307
+曲靖师范学院	qu jing shi fan xue yuan	306
+泉州师范学院	quan zhou shi fan xue yuan	305
+三江学院	san jiang xue yuan	304
+三明学院	san ming xue yuan	303
+三峡大学	san xia da xue	302
+山东财政学院	shan dong cai zheng xue yuan	301
+山东大学	shan dong da xue	300
+山东工商学院	shan dong gong shang xue yuan	299
+山东工艺美术学院	shan dong gong yi mei shu xue yuan	298
+山东建筑大学	shan dong jian zhu da xue	297
+山东交通学院	shan dong jiao tong xue yuan	296
+山东警察学院	shan dong jing cha xue yuan	294
+山东经济学院	shan dong jing ji xue yuan	295
+山东科技大学	shan dong ke ji da xue	293
+山东理工大学	shan dong li gong da xue	292
+山东农业大学	shan dong nong ye da xue	291
+山东轻工业学院	shan dong qing gong ye xue yuan	290
+山东师范大学	shan dong shi fan da xue	289
+山东体育学院	shan dong ti yu xue yuan	288
+山东万杰医学院	shan dong wan jie yi xue yuan	287
+山东艺术学院	shan dong yi shu xue yuan	286
+山东英才学院	shan dong ying cai xue yuan	285
+山东政法学院	shan dong zheng fa xue yuan	284
+山东中医药大学	shan dong zhong yi yao da xue	283
+汕头大学	shan tou da xue	270
+山西财经大学	shan xi cai jing da xue	282
+山西大同大学	shan xi da tong da xue	281
+山西大学	shan xi da xue	280
+陕西国际商贸学院	shan xi guo ji shang mao xue yuan	275
+陕西科技大学	shan xi ke ji da xue	274
+陕西理工学院	shan xi li gong xue yuan	273
+山西农业大学	shan xi nong ye da xue	279
+陕西师范大学	shan xi shi fan da xue	272
+山西师范大学	shan xi shi fan da xue	278
+山西医科大学	shan xi yi ke da xue	277
+陕西中医学院	shan xi zhong yi xue yuan	271
+山西中医学院	shan xi zhong yi xue yuan	276
+上海财经大学	shang hai cai jing da xue	267
+上海大学	shang hai da xue	266
+上海第二工业大学	shang hai di er gong ye da xue	265
+上海电机学院	shang hai dian ji xue yuan	264
+上海电力学院	shang hai dian li xue yuan	263
+上海对外贸易学院	shang hai dui wai mao yi xue yuan	262
+上海工程技术大学	shang hai gong cheng ji shu da xue	261
+上海海关学院	shang hai hai guan xue yuan	260
+上海海事大学	shang hai hai shi da xue	259
+上海海洋大学	shang hai hai yang da xue	258
+上海建桥学院	shang hai jian qiao xue yuan	257
+上海交通大学	shang hai jiao tong da xue	256
+上海金融学院	shang hai jin rong xue yuan	255
+上海理工大学	shang hai li gong da xue	254
+上海立信会计学院	shang hai li xin kuai ji xue yuan	253
+上海杉达学院	shang hai shan da xue yuan	252
+上海商学院	shang hai shang xue yuan	251
+上海师范大学	shang hai shi fan da xue	250
+上海体育学院	shang hai ti yu xue yuan	249
+上海外国语大学	shang hai wai guo yu da xue	248
+上海戏剧学院	shang hai xi ju xue yuan	247
+上海音乐学院	shang hai yin yue xue yuan	246
+上海应用技术学院	shang hai ying yong ji shu xue yuan	245
+上海政法学院	shang hai zheng fa xue yuan	244
+上海中医药大学	shang hai zhong yi yao da xue	243
+商洛学院	shang luo xue yuan	269
+商丘师范学院	shang qiu shi fan xue yuan	268
+上饶师范学院	shang rao shi fan xue yuan	242
+韶关学院	shao guan xue yuan	241
+绍兴文理学院	shao xing wen li xue yuan	239
+邵阳学院	shao yang xue yuan	240
+沈阳大学	shen yang da xue	237
+沈阳工程学院	shen yang gong cheng xue yuan	236
+沈阳工业大学	shen yang gong ye da xue	235
+沈阳航空工业学院	shen yang hang kong gong ye xue yuan	234
+沈阳化工学院	shen yang hua gong xue yuan	233
+沈阳建筑大学	shen yang jian zhu da xue	232
+沈阳理工大学	shen yang li gong da xue	231
+沈阳农业大学	shen yang nong ye da xue	230
+沈阳师范大学	shen yang shi fan da xue	229
+沈阳体育学院	shen yang ti yu xue yuan	228
+沈阳药科大学	shen yang yao ke da xue	227
+沈阳医学院	shen yang yi xue yuan	226
+沈阳音乐学院	shen yang yin yue xue yuan	225
+深圳大学	shen zhen da xue	238
+石河子大学	shi he zi da xue	224
+石家庄经济学院	shi jia zhuang jing ji xue yuan	223
+石家庄铁道学院	shi jia zhuang tie dao xue yuan	222
+石家庄学院	shi jia zhuang xue yuan	221
+首都经济贸易大学	shou du jing ji mao yi da xue	220
+首都师范大学	shou du shi fan da xue	219
+首都体育学院	shou du ti yu xue yuan	218
+首都医科大学	shou du yi ke da xue	217
+四川大学	si chuan da xue	216
+四川警察学院	si chuan jing cha xue yuan	215
+四川理工学院	si chuan li gong xue yuan	214
+四川美术学院	si chuan mei shu xue yuan	213
+四川农业大学	si chuan nong ye da xue	212
+四川师范大学	si chuan shi fan da xue	211
+四川外语学院	si chuan wai yu xue yuan	210
+四川文理学院	si chuan wen li xue yuan	209
+四川音乐学院	si chuan yin yue xue yuan	208
+苏州大学	su zhou da xue	207
+苏州科技学院	su zhou ke ji xue yuan	206
+宿州学院	su zhou xue yuan	205
+绥化学院	sui hua xue yuan	204
+塔里木大学	ta li mu da xue	203
+泰山学院	tai shan xue yuan	197
+泰山医学院	tai shan yi xue yuan	196
+太原工业学院	tai yuan gong ye xue yuan	201
+太原科技大学	tai yuan ke ji da xue	200
+太原理工大学	tai yuan li gong da xue	199
+太原师范学院	tai yuan shi fan xue yuan	198
+台州学院	tai zhou xue yuan	202
+唐山师范学院	tang shan shi fan xue yuan	195
+唐山学院	tang shan xue yuan	194
+天津财经大学	tian jin cai jing da xue	750
+天津城市建设学院	tian jin cheng shi jian she xue yuan	749
+天津大学	tian jin da xue	751
+天津工程师范学院	tian jin gong cheng shi fan xue yuan	748
+天津工业大学	tian jin gong ye da xue	747
+天津科技大学	tian jin ke ji da xue	746
+天津理工大学	tian jin li gong da xue	745
+天津美术学院	tian jin mei shu xue yuan	744
+天津农学院	tian jin nong xue yuan	743
+天津商业大学	tian jin shang ye da xue	742
+天津师范大学	tian jin shi fan da xue	741
+天津体育学院	tian jin ti yu xue yuan	740
+天津天狮学院	tian jin tian shi xue yuan	739
+天津外国语学院	tian jin wai guo yu xue yuan	738
+天津医科大学	tian jin yi ke da xue	737
+天津音乐学院	tian jin yin yue xue yuan	736
+天津中医药大学	tian jin zhong yi yao da xue	735
+天水师范学院	tian shui shi fan xue yuan	193
+通化师范学院	tong hua shi fan xue yuan	192
+同济大学	tong ji da xue	191
+铜陵学院	tong ling xue yuan	190
+铜仁学院	tong ren xue yuan	189
+外交学院	wai jiao xue yuan	188
+皖南医学院	wan nan yi xue yuan	187
+皖西学院	wan xi xue yuan	186
+潍坊科技学院	wei fang ke ji xue yuan	185
+潍坊学院	wei fang xue yuan	184
+潍坊医学院	wei fang yi xue yuan	183
+渭南师范学院	wei nan shi fan xue yuan	182
+温州大学	wen zhou da xue	181
+温州医学院	wen zhou yi xue yuan	180
+武汉大学	wu han da xue	177
+武汉工程大学	wu han gong cheng da xue	176
+武汉工业学院	wu han gong ye xue yuan	175
+武汉科技大学	wu han ke ji da xue	174
+武汉科技学院	wu han ke ji xue yuan	173
+武汉理工大学	wu han li gong da xue	172
+武汉生物工程学院	wu han sheng wu gong cheng xue yuan	171
+武汉体育学院	wu han ti yu xue yuan	170
+武汉音乐学院	wu han yin yue xue yuan	169
+五邑大学	wu yi da xue	178
+武夷学院	wu yi xue yuan	168
+梧州学院	wu zhou xue yuan	179
+西安财经学院	xi an cai jing xue yuan	167
+西安电子科技大学	xi an dian zi ke ji da xue	166
+西安翻译学院	xi an fan yi xue yuan	165
+西安工程大学	xi an gong cheng da xue	164
+西安工业大学	xi an gong ye da xue	163
+西安建筑科技大学	xi an jian zhu ke ji da xue	162
+西安交通大学	xi an jiao tong da xue	161
+西安科技大学	xi an ke ji da xue	160
+西安理工大学	xi an li gong da xue	159
+西安美术学院	xi an mei shu xue yuan	158
+西安欧亚学院	xi an ou ya xue yuan	157
+西安培华学院	xi an pei hua xue yuan	156
+西安石油大学	xi an shi you da xue	155
+西安思源学院	xi an si yuan xue yuan	154
+西安体育学院	xi an ti yu xue yuan	153
+西安外国语大学	xi an wai guo yu da xue	152
+西安外事学院	xi an wai shi xue yuan	151
+西安文理学院	xi an wen li xue yuan	150
+西安医学院	xi an yi xue yuan	149
+西安音乐学院	xi an yin yue xue yuan	148
+西安邮电学院	xi an you dian xue yuan	147
+西北大学	xi bei da xue	146
+西北工业大学	xi bei gong ye da xue	145
+西北民族大学	xi bei min zu da xue	144
+西北农林科技大学	xi bei nong lin ke ji da xue	143
+西北师范大学	xi bei shi fan da xue	142
+西北政法大学	xi bei zheng fa da xue	141
+西昌学院	xi chang xue yuan	137
+西华大学	xi hua da xue	136
+西华师范大学	xi hua shi fan da xue	135
+西交利物浦大学	xi jiao li wu pu da xue	134
+西京学院	xi jing xue yuan	133
+西南财经大学	xi nan cai jing da xue	132
+西南大学	xi nan da xue	131
+西南交通大学	xi nan jiao tong da xue	130
+西南科技大学	xi nan ke ji da xue	129
+西南林学院	xi nan lin xue yuan	128
+西南民族大学	xi nan min zu da xue	127
+西南石油大学	xi nan shi you da xue	126
+西南政法大学	xi nan zheng fa da xue	125
+西藏大学	xi zang da xue	139
+西藏民族学院	xi zang min zu xue yuan	138
+西藏藏医学院	xi zang zang yi xue yuan	140
+厦门大学	xia men da xue	124
+厦门理工学院	xia men li gong xue yuan	123
+咸宁学院	xian ning xue yuan	122
+咸阳师范学院	xian yang shi fan xue yuan	121
+襄樊学院	xiang fan xue yuan	118
+湘南学院	xiang nan xue yuan	120
+湘潭大学	xiang tan da xue	119
+孝感学院	xiao gan xue yuan	117
+新疆财经大学	xin jiang cai jing da xue	115
+新疆大学	xin jiang da xue	114
+新疆农业大学	xin jiang nong ye da xue	113
+新疆师范大学	xin jiang shi fan da xue	112
+新疆医科大学	xin jiang yi ke da xue	111
+新疆艺术学院	xin jiang yi shu xue yuan	110
+新乡学院	xin xiang xue yuan	109
+新乡医学院	xin xiang yi xue yuan	108
+信阳师范学院	xin yang shi fan xue yuan	107
+忻州师范学院	xin zhou shi fan xue yuan	116
+星海音乐学院	xing hai yin yue xue yuan	106
+邢台学院	xing tai xue yuan	105
+许昌学院	xu chang xue yuan	101
+徐州工程学院	xu zhou gong cheng xue yuan	104
+徐州师范大学	xu zhou shi fan da xue	103
+徐州医学院	xu zhou yi xue yuan	102
+延安大学	yan an da xue	98
+延边大学	yan bian da xue	97
+盐城工学院	yan cheng gong xue yuan	96
+盐城师范学院	yan cheng shi fan xue yuan	95
+燕山大学	yan shan da xue	94
+烟台大学	yan tai da xue	100
+烟台南山学院	yan tai nan shan xue yuan	99
+仰恩大学	yang en da xue	92
+扬州大学	yang zhou da xue	93
+宜宾学院	yi bin xue yuan	90
+宜春学院	yi chun xue yuan	89
+伊犁师范学院	yi li shi fan xue yuan	91
+右江民族医学院	you jiang min zu yi xue yuan	88
+玉林师范学院	yu lin shi fan xue yuan	86
+榆林学院	yu lin xue yuan	87
+玉溪师范学院	yu xi shi fan xue yuan	85
+运城学院	yun cheng xue yuan	75
+云南财经大学	yun nan cai jing da xue	84
+云南大学	yun nan da xue	83
+云南警官学院	yun nan jing guan xue yuan	82
+云南民族大学	yun nan min zu da xue	81
+云南农业大学	yun nan nong ye da xue	80
+云南师范大学	yun nan shi fan da xue	79
+云南艺术学院	yun nan yi shu xue yuan	78
+云南中医学院	yun nan zhong yi xue yuan	77
+郧阳医学院	yun yang yi xue yuan	76
+枣庄学院	zao zhuang xue yuan	74
+湛江师范学院	zhan jiang shi fan xue yuan	73
+漳州师范学院	zhang zhou shi fan xue yuan	72
+肇庆学院	zhao qing xue yuan	71
+浙江财经学院	zhe jiang cai jing xue yuan	70
+浙江传媒学院	zhe jiang chuan mei xue yuan	69
+浙江大学	zhe jiang da xue	68
+浙江工商大学	zhe jiang gong shang da xue	67
+浙江工业大学	zhe jiang gong ye da xue	66
+浙江海洋学院	zhe jiang hai yang xue yuan	65
+浙江警察学院	zhe jiang jing cha xue yuan	64
+浙江科技学院	zhe jiang ke ji xue yuan	63
+浙江理工大学	zhe jiang li gong da xue	62
+浙江林学院	zhe jiang lin xue yuan	61
+浙江师范大学	zhe jiang shi fan da xue	60
+浙江树人学院	zhe jiang shu ren xue yuan	59
+浙江万里学院	zhe jiang wan li xue yuan	58
+浙江越秀外国语学院	zhe jiang yue xiu wai guo yu xue yuan	57
+浙江中医药大学	zhe jiang zhong yi yao da xue	56
+郑州大学	zheng zhou da xue	55
+郑州航空工业管理学院	zheng zhou hang kong gong ye guan li xue yuan	54
+郑州华信学院	zheng zhou hua xin xue yuan	53
+郑州科技学院	zheng zhou ke ji xue yuan	52
+郑州轻工业学院	zheng zhou qing gong ye xue yuan	51
+中北大学	zhong bei da xue	50
+中国传媒大学	zhong guo chuan mei da xue	49
+中国地质大学	zhong guo di zhi da xue	48
+中国海洋大学	zhong guo hai yang da xue	47
+中国计量学院	zhong guo ji liang xue yuan	46
+中国科学技术大学	zhong guo ke xue ji shu da xue	45
+中国矿业大学	zhong guo kuang ye da xue	44
+中国劳动关系学院	zhong guo lao dong guan xi xue yuan	43
+中国美术学院	zhong guo mei shu xue yuan	42
+中国民航大学	zhong guo min hang da xue	41
+中国民用航空飞行学院	zhong guo min yong hang kong fei xing xue yuan	40
+中国农业大学	zhong guo nong ye da xue	39
+中国青年政治学院	zhong guo qing nian zheng zhi xue yuan	38
+中国人民大学	zhong guo ren min da xue	37
+中国人民公安大学	zhong guo ren min gong an da xue	36
+中国人民武装警察部队学院	zhong guo ren min wu zhuang jing cha bu dui xue yuan	35
+中国石油大学	zhong guo shi you da xue	34
+中国戏曲学院	zhong guo xi qu xue yuan	33
+中国刑事警察学院	zhong guo xing shi jing cha xue yuan	32
+中国药科大学	zhong guo yao ke da xue	31
+中国医科大学	zhong guo yi ke da xue	30
+中国音乐学院	zhong guo yin yue xue yuan	29
+中国政法大学	zhong guo zheng fa da xue	28
+中华女子学院	zhong hua nv zi xue yuan	27
+仲恺农业工程学院	zhong kai nong ye gong cheng xue yuan	14
+中南财经政法大学	zhong nan cai jing zheng fa da xue	26
+中南大学	zhong nan da xue	25
+中南林业科技大学	zhong nan lin ye ke ji da xue	24
+中南民族大学	zhong nan min zu da xue	23
+中山大学	zhong shan da xue	22
+中央财经大学	zhong yang cai jing da xue	21
+中央美术学院	zhong yang mei shu xue yuan	20
+中央民族大学	zhong yang min zu da xue	19
+中央司法警官学院	zhong yang si fa jing guan xue yuan	18
+中央戏剧学院	zhong yang xi ju xue yuan	17
+中央音乐学院	zhong yang yin yue xue yuan	16
+中原工学院	zhong yuan gong xue yuan	15
+周口师范学院	zhou kou shi fan xue yuan	3
+遵义师范学院	zun yi shi fan xue yuan	2
+遵义医学院	zun yi yi xue yuan	1

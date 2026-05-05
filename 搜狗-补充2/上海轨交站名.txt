@@ -1,0 +1,425 @@
+# 词库名称: 上海轨交站名
+# 词库分类: 道路交通地名
+# 词库描述: 更新至2025年12月21日，包含地铁、市域铁、金山铁路所有站名。
+# 词条样例: 莘庄、莲花路、锦江乐园、衡山路、上海火车站、延长路
+# 解析词数: 418
+# 解析异常: 0
+
+爱国路	ai guo lu	120
+鞍山新村	an shan xin cun	242
+安亭	an ting	164
+白银路	bai yin lu	158
+宝安公路	bao an gong lu	393
+宝山路	bao shan lu	350
+宝杨路	bao yang lu	338
+北蔡	bei cai	100
+北桥	bei qiao	317
+北新泾	bei xin jing	385
+北洋泾路	bei yang jing lu	289
+北中路	bei zhong lu	23
+博兴路	bo xing lu	293
+漕宝路	cao bao lu	413
+漕河泾开发区	cao he jing kai fa qu	211
+曹路	cao lu	195
+漕溪路	cao xi lu	358
+曹杨路	cao yang lu	353
+漕盈路	cao ying lu	36
+长风公园	chang feng gong yuan	61
+昌吉东路	chang ji dong lu	162
+长江南路	chang jiang nan lu	343
+昌平路	chang ping lu	260
+长清路	chang qing lu	256
+长寿路	chang shou lu	261
+常熟路	chang shu lu	409
+昌邑路	chang yi lu	82
+场中路	chang zhong lu	267
+车墩	che dun	8
+陈春路	chen chun lu	99
+陈翔公路	chen xiang gong lu	155
+成山路	cheng shan lu	232
+赤峰路	chi feng lu	347
+川沙	chuan sha	365
+创新中路	chuang xin zhong lu	367
+春申	chun shen	10
+春申路	chun shen lu	320
+大柏树	da bai shu	346
+大场镇	da chang zhen	266
+大渡河路	da du he lu	109
+大华三路	da hua san lu	264
+大连路	da lian lu	323
+大木桥路	da mu qiao lu	332
+打浦桥	da pu qiao	208
+大世界	da shi jie	236
+丹阳路	dan yang lu	26
+德平路	de ping lu	290
+迪士尼	di shi ni	133
+滴水湖	di shui hu	44
+淀山湖大道	dian shan hu da dao	35
+定边路	ding bian lu	89
+东安路	dong an lu	333
+东宝兴路	dong bao xing lu	349
+东城一路	dong cheng yi lu	12
+东川路	dong chuan lu	315
+东方绿舟	dong fang lv zhou	33
+东方体育中心	dong fang ti yu zhong xin	277
+洞泾	dong jing	219
+东靖路	dong jing lu	296
+东兰路	dong lan lu	129
+东陆路	dong lu lu	118
+东明路	dong ming lu	282
+繁荣路	fan rong lu	20
+芳甸路	fang dian lu	203
+芳华路	fang hua lu	251
+芳芯路	fang xin lu	24
+封浜	feng bang	93
+奉浦大道	feng pu da dao	311
+枫桥路	feng qiao lu	147
+奉贤新城	feng xian xin cheng	307
+丰翔路	feng xiang lu	55
+丰庄	feng zhuang	112
+复旦大学	fu dan da xue	29
+富锦路	fu jin lu	391
+抚顺路	fu shun lu	28
+复兴岛	fu xing dao	119
+港城路	gang cheng lu	302
+高科西路	gao ke xi lu	283
+高桥	gao qiao	172
+高桥西	gao qiao xi	173
+高青路	gao qing lu	281
+共富新村	gong fu xin cun	394
+共康路	gong kang lu	397
+顾村公园	gu cun gong yuan	272
+顾戴路	gu dai lu	130
+古浪路	gu lang lu	58
+顾唐路	gu tang lu	197
+广兰路	guang lan lu	369
+光明路	guang ming lu	166
+桂林公园	gui lin gong yuan	126
+桂林路	gui lin lu	210
+桂桥路	gui qiao lu	76
+国帆路	guo fan lu	175
+国际客运中心	guo ji ke yun zhong xin	125
+国家会展中心	guo jia hui zhan zhong xin	389
+国权路	guo quan lu	181
+海伦路	hai lun lu	321
+海天三路	hai tian san lu	362
+汉中路	han zhong lu	404
+航津路	hang jin lu	300
+航头	hang tou	16
+航头东	hang tou dong	51
+航中路	hang zhong lu	168
+合川路	he chuan lu	212
+鹤沙航城	he sha hang cheng	52
+鹤涛路	he tao lu	18
+衡山路	heng shan lu	410
+红宝石路	hong bao shi lu	62
+虹漕路	hong cao lu	127
+虹口足球场	hong kou zu qiu chang	348
+虹梅路	hong mei lu	128
+虹梅南路	hong mei nan lu	69
+虹桥号航站楼	hong qiao hao hang zhan lou	387
+虹桥火车站	hong qiao huo che zhan	388
+虹桥路	hong qiao lu	356
+虹莘路	hong xin lu	131
+后滩	hou tan	257
+呼兰路	hu lan lu	395
+华东理工大学	hua dong li gong da xue	65
+花木路	hua mu lu	250
+华宁路	hua ning lu	305
+华鹏路	hua peng lu	102
+花桥	hua qiao	167
+华夏东路	hua xia dong lu	366
+华夏西路	hua xia xi lu	280
+华夏中路	hua xia zhong lu	97
+淮海中路	huai hai zhong lu	105
+环城东路	huan cheng dong lu	310
+黄兴公园	huang xing gong yuan	246
+黄兴路	huang xing lu	244
+黄杨路	huang yang lu	80
+汇金路	hui jin lu	38
+惠南	hui nan	48
+惠南东	hui nan dong	47
+汇臻路	hui zhen lu	11
+基隆路	ji long lu	171
+嘉定北	jia ding bei	160
+嘉定西	jia ding xi	159
+嘉定新城	jia ding xin cheng	157
+嘉善路	jia shan lu	209
+嘉松中路	jia song zhong lu	40
+嘉怡路	jia yi lu	90
+剑川路	jian chuan lu	316
+江川路	jiang chuan lu	314
+江宁路	jiang ning lu	107
+江浦公园	jiang pu gong yuan	123
+江浦路	jiang pu lu	243
+江苏路	jiang su lu	381
+江湾体育场	jiang wan ti yu chang	179
+江湾镇	jiang wan zhen	345
+江杨北路	jiang yang bei lu	335
+江月路	jiang yue lu	227
+交通大学	jiao tong da xue	189
+金海湖	jin hai hu	308
+金海路	jin hai lu	198
+金吉路	jin ji lu	199
+锦江乐园	jin jiang le yuan	415
+金京路	jin jing lu	116
+金科路	jin ke lu	370
+金平路	jin ping lu	306
+金桥	jin qiao	200
+金桥路	jin qiao lu	292
+锦秋路	jin qiu lu	54
+金沙江路	jin sha jiang lu	354
+金沙江西路	jin sha jiang xi lu	113
+金山卫	jin shan wei	4
+金山园区	jin shan yuan qu	5
+锦绣路	jin xiu lu	252
+金粤路	jin yue lu	77
+金运路	jin yun lu	114
+静安寺	jing an si	380
+景洪路	jing hong lu	68
+景西路	jing xi lu	70
+九亭	jiu ting	216
+巨峰路	ju feng lu	295
+康恒路	kang heng lu	138
+康桥	kang qiao	22
+康桥东	kang qiao dong	2
+康新公路	kang xin gong lu	134
+蓝村路	lan cun lu	327
+岚皋路	lan gao lu	262
+蓝天路	lan tian lu	202
+老西门	lao xi men	235
+乐秀路	le xiu lu	92
+李子园	li zi yuan	150
+联航路	lian hang lu	226
+莲花路	lian hua lu	416
+莲溪路	lian xi lu	98
+临港大道	lin gang da dao	45
+临平路	lin ping lu	322
+临洮路	lin tao lu	91
+临沂新村	lin yi xin cun	284
+凌空路	ling kong lu	364
+灵岩南路	ling yan nan lu	278
+凌兆新村	ling zhao xin cun	230
+刘行	liu xing	273
+龙柏新村	long bai xin cun	170
+龙漕路	long cao lu	359
+隆昌路	long chang lu	121
+隆德路	long de lu	146
+龙华	long hua	144
+龙华中路	long hua zhong lu	258
+龙溪路	long xi lu	193
+龙阳路	long yang lu	372
+龙耀路	long yao lu	142
+娄山关路	lou shan guan lu	383
+鲁班路	lu ban lu	331
+芦恒路	lu heng lu	229
+陆家浜路	lu jia bang lu	234
+陆家嘴	lu jia zui	377
+罗南新村	luo nan xin cun	275
+罗山路	luo shan lu	136
+罗秀路	luo xiu lu	66
+马当路	ma dang lu	207
+马陆	ma lu	156
+美兰湖	mei lan hu	276
+梅岭北路	mei ling bei lu	60
+闵行开发区	min hang kai fa qu	303
+民雷路	min lei lu	196
+闵瑞路	min rui lu	14
+民生路	min sheng lu	288
+南陈路	nan chen lu	269
+南大路	nan da lu	56
+南京东路	nan jing dong lu	378
+南京西路	nan jing xi lu	379
+南浦大桥	nan pu da qiao	329
+南翔	nan xiang	154
+嫩江路	nen jiang lu	248
+宁国路	ning guo lu	122
+潘广路	pan guang lu	274
+蟠龙路	pan long lu	43
+蟠祥路国家会计学院	pan xiang lu guo jia kuai ji xue yuan	390
+彭浦新村	peng pu xin cun	398
+平凉路	ping liang lu	27
+浦电路	pu dian lu	286
+浦东大道	pu dong da dao	325
+浦东号号航站楼	pu dong hao hao hang zhan lou	361
+浦东南路	pu dong nan lu	376
+浦东足球场	pu dong zu qiu chang	78
+浦航路	pu hang lu	13
+浦江镇	pu jiang zhen	228
+浦三路	pu san lu	139
+祁安路	qi an lu	57
+七宝	qi bao	214
+祁华路	qi hua lu	271
+祁连山路	qi lian shan lu	151
+祁连山南路	qi lian shan nan lu	111
+七莘路	qi xin lu	132
+青浦新城	qing pu xin cheng	37
+曲阜路	qu fu lu	237
+曲阳路	qu yang lu	240
+人民广场	ren min guang chang	406
+三林	san lin	141
+三林东	san lin dong	140
+三林南	san lin nan	3
+三鲁公路	san lu gong lu	15
+三门路	san men lu	178
+陕西南路	shan xi nan lu	408
+商城路	shang cheng lu	205
+上大路	shang da lu	268
+上海财经大学	shang hai cai jing da xue	30
+上海大学	shang hai da xue	270
+上海动物园	shang hai dong wu yuan	194
+上海儿童医学中心	shang hai er tong yi xue zhong xin	285
+上海国际旅游度假区	shang hai guo ji lv you du jia qu	1
+上海火车站	shang hai huo che zhan	403
+上海科技馆	shang hai ke ji guan	374
+上海马戏城	shang hai ma xi cheng	400
+上海南站	shang hai nan zhan	414
+上海汽车城	shang hai qi che cheng	163
+上海赛车场	shang hai sai che chang	161
+上海松江站	shang hai song jiang zhan	224
+上海体育场	shang hai ti yu chang	334
+上海体育馆	shang hai ti yu guan	412
+上海图书馆	shang hai tu shu guan	188
+上海西站	shang hai xi zhan	149
+上海游泳馆	shang hai you yong guan	145
+上南路	shang nan lu	279
+佘山	she shan	218
+沈杜公路	shen du gong lu	225
+申江路	shen jiang lu	115
+沈梅路	shen mei lu	19
+世博大道	shi bo da dao	103
+世博会博物馆	shi bo hui bo wu guan	104
+市光路	shi guang lu	249
+世纪大道	shi ji da dao	375
+世纪公园	shi ji gong yuan	373
+石龙路	shi long lu	360
+曙建路	shu jian lu	71
+书院	shu yuan	46
+双柏路	shuang bai lu	72
+双江路	shuang jiang lu	174
+水产路	shui chan lu	339
+水城路	shui cheng lu	192
+四川北路	si chuan bei lu	184
+泗泾	si jing	217
+四平路	si ping lu	241
+淞滨路	song bin lu	340
+淞发路	song fa lu	342
+淞虹路	song hong lu	386
+松江大学城	song jiang da xue cheng	220
+松江体育中心	song jiang ti yu zhong xin	222
+松江新城	song jiang xin cheng	221
+宋园路	song yuan lu	190
+台儿庄路	tai er zhuang lu	201
+塘桥	tang qiao	328
+唐镇	tang zhen	368
+桃浦新村	tao pu xin cun	153
+提篮桥	ti lan qiao	124
+天潼路	tian tong lu	185
+铁力路	tie li lu	336
+亭林	ting lin	6
+铜川路	tong chuan lu	86
+通河新村	tong he xin cun	396
+同济大学	tong ji da xue	182
+外高桥保税区北	wai gao qiao bao shui qu bei	301
+外高桥保税区南	wai gao qiao bao shui qu nan	299
+外环路	wai huan lu	417
+望园路	wang yuan lu	309
+威宁路	wei ning lu	384
+文井路	wen jing lu	304
+汶水路	wen shui lu	399
+武定路	wu ding lu	84
+五角场	wu jiao chang	180
+五莲路	wu lian lu	294
+武宁路	wu ning lu	108
+武威东路	wu wei dong lu	59
+武威路	wu wei lu	152
+吴中路	wu zhong lu	64
+五洲大道	wu zhou da dao	297
+西岑	xi cen	32
+西渡	xi du	313
+西藏北路	xi zang bei lu	239
+西藏南路	xi zang nan lu	330
+下南路	xia nan lu	101
+下沙	xia sha	17
+向城路	xiang cheng lu	326
+翔殷路	xiang yin lu	247
+小南门	xiao nan men	206
+萧塘	xiao tang	312
+歇浦路	xie pu lu	81
+新场	xin chang	50
+新村路	xin cun lu	263
+新江湾城	xin jiang wan cheng	176
+新桥	xin qiao	9
+新闸路	xin zha lu	405
+莘庄	xin zhuang	418
+行知路	xing zhi lu	265
+星中路	xing zhong lu	213
+秀沿路	xiu yan lu	135
+徐家汇	xu jia hui	411
+徐泾北城	xu jing bei cheng	41
+徐盈路	xu ying lu	42
+学林路	xue lin lu	95
+延安西路	yan an xi lu	355
+延长路	yan chang lu	401
+延吉中路	yan ji zhong lu	245
+杨高北路	yang gao bei lu	117
+杨高南路	yang gao nan lu	253
+杨高中路	yang gao zhong lu	204
+杨树浦路	yang shu pu lu	324
+杨思	yang si	231
+姚虹路	yao hong lu	63
+耀华路	yao hua lu	255
+野生动物园	ye sheng dong wu yuan	49
+叶榭	ye xie	7
+一大会址黄陂南路	yi da hui zhi huang pi nan lu	407
+一大会址新天地	yi da hui zhi xin tian di	187
+伊犁路	yi li lu	191
+宜山路	yi shan lu	357
+银都路	yin du lu	319
+殷高东路	yin gao dong lu	177
+殷高路	yin gao lu	31
+殷高西路	yin gao xi lu	344
+迎春路	ying chun lu	25
+永德路	yong de lu	74
+邮电新村	you dian xin cun	183
+友谊路	you yi lu	337
+友谊西路	you yi xi lu	392
+御桥	yu qiao	137
+豫园	yu yuan	186
+远东大道	yuan dong da dao	363
+元江路	yuan jiang lu	73
+源深路	yuan shen lu	83
+源深体育中心	yuan shen ti yu zhong xin	287
+云锦路	yun jin lu	143
+云山路	yun shan lu	291
+云顺路	yun shun lu	79
+云台路	yun tai lu	254
+张华浜	zhang hua bang	341
+张江高科	zhang jiang gao ke	371
+张江路	zhang jiang lu	94
+兆丰路	zhao feng lu	165
+肇嘉浜路	zhao jia bang lu	259
+赵巷	zhao xiang	39
+真北路	zhen bei lu	110
+真光路	zhen guang lu	87
+镇坪路	zhen ping lu	352
+真如	zhen ru	148
+真新新村	zhen xin xin cun	88
+中春路	zhong chun lu	215
+中华艺术宫	zhong hua yi shu gong	233
+中科路	zhong ke lu	96
+中宁路	zhong ning lu	85
+中山北路	zhong shan bei lu	402
+中山公园	zhong shan gong yuan	382
+中潭路	zhong tan lu	351
+中兴路	zhong xing lu	238
+洲海路	zhou hai lu	298
+周浦	zhou pu	21
+周浦东	zhou pu dong	53
+朱家角	zhu jia jiao	34
+朱梅路	zhu mei lu	67
+颛桥	zhuan qiao	318
+自然博物馆	zi ran bo wu guan	106
+紫藤路	zi teng lu	169
+紫竹高新区	zi zhu gao xin qu	75
+醉白池	zui bai chi	223

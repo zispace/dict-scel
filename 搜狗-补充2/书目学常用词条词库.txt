@@ -1,0 +1,670 @@
+# 词库名称: 书目学常用词条词库
+# 词库分类: 个人专用
+# 词库描述: 书目学词库 V1.0，含书目学术语、出版社名、丛书名、书店名等。
+# 词条样例: 澳门学人出版社、白帝社、百年河大国学旧著新刊、版本系统、北京出版社、北京古籍出版社
+# 解析词数: 663
+# 解析异常: 0
+
+安徽古籍丛书	an hui gu ji cong shu	663
+巴蜀书社	ba shu shu she	661
+百年河大国学旧著新刊	bai nian he da guo xue jiu zhu xin kan	662
+北京出版社	bei jing chu ban she	660
+北京大学出版社	bei jing da xue chu ban she	659
+北京古籍	bei jing gu ji	302
+北京古籍出版社	bei jing gu ji chu ban she	658
+北京汲古书店	bei jing ji gu shu dian	657
+北京师范大学出版社	bei jing shi fan da xue chu ban she	656
+北京图书馆出版社	bei jing tu shu guan chu ban she	655
+北京图书批发交易市场	bei jing tu shu pi fa jiao yi shi chang	654
+编校	bian jiao	301
+编类	bian lei	653
+辨正	bian zheng	651
+辨证	bian zheng	652
+帛书	bo shu	650
+博雅堂书店	bo ya tang shu dian	649
+卜辞	bu ci	300
+补订	bu ding	299
+布面精装	bu mian jing zhuang	648
+布衣书局	bu yi shu ju	647
+残本	can ben	298
+参校	can jiao	295
+残卷	can juan	646
+藏版	cang ban	297
+藏本	cang ben	296
+长编	chang bian	294
+尺牍	chi du	645
+重版	chong ban	293
+重译	chong yi	292
+出版集团	chu ban ji tuan	644
+初编	chu bian	643
+出校	chu jiao	291
+初校	chu jiao	290
+辞赋	ci fu	642
+丛编	cong bian	289
+丛抄	cong chao	641
+丛钞	cong chao	640
+丛刊	cong kan	639
+存目	cun mu	288
+大畜	da xu	285
+大藏经	da zang jing	284
+单疏本	dan shu ben	287
+导读	dao du	638
+道教典籍选刊	dao jiao dian ji xuan kan	637
+道藏	dao zang	286
+底本	di ben	636
+点校	dian jiao	283
+豆瓣书店	dou ban shu dian	635
+读者服务部	du zhe fu wu bu	280
+断代	duan dai	634
+对校	dui jiao	282
+对勘	dui kan	281
+二编	er bian	633
+二十四史	er shi si shi	632
+二十四史校订研究丛刊	er shi si shi jiao ding yan jiu cong kan	279
+发微	fa wei	276
+梵汉对勘	fan han dui kan	277
+繁体版	fan ti ban	630
+繁体横排	fan ti heng pai	629
+繁体竖排	fan ti shu pai	628
+坊刻	fang ke	278
+方志	fang zhi	631
+凤凰出版社	feng huang chu ban she	627
+福建莆田广化寺	fu jian pu tian guang hua si	275
+港版	gang ban	274
+稿本	gao ben	626
+高等教育出版社	gao deng jiao yu chu ban she	625
+工尺	gong che	273
+工尺谱	gong che pu	272
+公牍	gong du	271
+沟洫	gou xu	270
+古本	gu ben	266
+孤本	gu ben	267
+古代字书辑刊	gu dai zi shu ji kan	265
+古籍出版社	gu ji chu ban she	620
+古籍刻印社	gu ji ke yin she	619
+古籍书店	gu ji shu dian	618
+古旧书	gu jiu shu	264
+古逸	gu yi	616
+古佚书	gu yi shu	615
+古音	gu yin	263
+古注	gu zhu	262
+馆藏	guan cang	269
+馆阁	guan ge	268
+广化寺	guang hua si	624
+广陵书社	guang ling shu she	623
+广西师范大学出版社	guang xi shi fan da xue chu ban she	622
+广韵	guang yun	621
+国家图书馆出版社	guo jia tu shu guan chu ban she	617
+海南出版社	hai nan chu ban she	614
+海渊阁书店	hai yuan ge shu dian	613
+韩非子	han fei zi	612
+涵芬楼	han fen lou	611
+汉简	han jian	261
+翰泠轩书店	han ling xuan shu dian	610
+汉魏晋	han wei jin	260
+汉学书店	han xue shu dian	609
+汉译世界学术名著丛书	han yi shi jie xue shu ming zhu cong shu	608
+函装	han zhuang	607
+河北大学出版社	he bei da xue chu ban she	606
+河北人民出版社	he bei ren min chu ban she	605
+合编	he bian	259
+合校	he jiao	258
+合刊	he kan	604
+合勘	he kan	603
+河南大学出版社	he nan da xue chu ban she	602
+河畔书店	he pan shu dian	601
+横排	heng pai	257
+弘化丛书	hong hua cong shu	600
+弘化社	hong hua she	599
+互校	hu jiao	250
+湖南教育出版社	hu nan jiao yu chu ban she	586
+湖南人民出版社	hu nan ren min chu ban she	585
+湖湘文库	hu xiang wen ku	583
+华东师范大学出版社	hua dong shi fan da xue chu ban she	598
+华龄出版社	hua ling chu ban she	597
+华夏出版社	hua xia chu ban she	595
+华中师范大学出版社	hua zhong shi fan da xue chu ban she	594
+黄山书社	huang shan shu she	596
+汇校	hui jiao	256
+汇校集注	hui jiao ji zhu	254
+汇校笺注	hui jiao jian zhu	255
+会解	hui jie	253
+汇刊	hui kan	252
+汇考	hui kao	251
+汇评	hui ping	593
+汇释	hui shi	592
+会要	hui yao	590
+汇要	hui yao	591
+荟要	hui yao	589
+汇证	hui zheng	588
+汇纂	hui zuan	587
+活字	huo zi	584
+辑本	ji ben	208
+辑补	ji bu	571
+集部	ji bu	570
+集成	ji cheng	569
+集粹	ji cui	568
+汲古	ji gu	564
+汲古阁	ji gu ge	207
+汲古书店	ji gu shu dian	563
+集笺校	ji jian jiao	206
+集笺证	ji jian zheng	562
+集笺注	ji jian zhu	561
+辑校	ji jiao	204
+集校	ji jiao	205
+集校合编	ji jiao he bian	203
+辑校汇考	ji jiao hui kao	202
+集校集注	ji jiao ji zhu	200
+集校笺	ji jiao jian	201
+集校注	ji jiao zhu	199
+集解	ji jie	560
+辑考	ji kao	559
+吉林大学出版社	ji lin da xue chu ban she	558
+吉林人民出版社	ji lin ren min chu ban she	557
+吉林文史出版社	ji lin wen shi chu ban she	556
+辑录	ji lu	198
+集释	ji shi	550
+辑要	ji yao	185
+集要	ji yao	184
+辑注	ji zhu	548
+集注	ji zhu	547
+家藏	jia cang	249
+简帛	jian bo	582
+笺订	jian ding	248
+简牍	jian du	581
+笺校	jian jiao	246
+笺释	jian shi	576
+简体版	jian ti ban	575
+简体横排	jian ti heng pai	574
+简体竖排	jian ti shu pai	573
+笺证	jian zheng	572
+笺识	jian zhi	245
+讲疏	jiang shu	580
+江苏古籍出版社	jiang su gu ji chu ban she	579
+江苏教育出版社	jiang su jiao yu chu ban she	578
+江苏人民出版社	jiang su ren min chu ban she	577
+讲习	jiang xi	247
+校本	jiao ben	244
+校补	jiao bu	243
+校雠	jiao chou	242
+校点本	jiao dian ben	241
+校订	jiao ding	240
+校读	jiao du	239
+校读记	jiao du ji	237
+校读笺识	jiao du jian zhi	236
+校对	jiao dui	238
+校改	jiao gai	235
+校稿	jiao gao	234
+校诂	jiao gu	233
+校记	jiao ji	232
+校笺	jiao jian	231
+校勘	jiao kan	230
+校勘记	jiao kan ji	229
+校勘学	jiao kan xue	228
+校理	jiao li	227
+校录	jiao lu	226
+校批	jiao pi	225
+校诠	jiao quan	224
+校释	jiao shi	223
+校书	jiao shu	222
+校疏	jiao shu	221
+郊祀	jiao si	220
+交通史	jiao tong shi	219
+校议	jiao yi	218
+校语	jiao yu	217
+校者	jiao zhe	216
+斠证	jiao zheng	215
+校证	jiao zheng	214
+校注	jiao zhu	213
+校注本	jiao zhu ben	212
+校注丛刊	jiao zhu cong kan	211
+校注稿	jiao zhu gao	210
+校字	jiao zi	209
+节本	jie ben	567
+节抄	jie chao	565
+节钞	jie chao	566
+今解	jin jie	194
+今释	jin shi	193
+今译	jin yi	192
+今注	jin zhu	191
+经部	jing bu	555
+精抄本	jing chao ben	554
+经典与解释	jing dian yu jie shi	197
+经籍流通处	jing ji liu tong chu	552
+精校	jing jiao	196
+经解	jing jie	553
+精椠	jing qian	195
+经传	jing zhuan	551
+旧抄	jiu chao	190
+旧钞	jiu chao	189
+九品	jiu pin	188
+九拼一	jiu pin yi	187
+九五品	jiu wu pin	186
+九州出版社	jiu zhou chu ban she	549
+句读	ju dou	180
+举要	ju yao	546
+聚珍版	ju zhen ban	545
+聚珍本	ju zhen ben	544
+卷册	juan ce	183
+卷数	juan shu	182
+卷帙	juan zhi	181
+勘校	kan jiao	179
+勘误	kan wu	543
+堪舆	kan yu	542
+考辨	kao bian	178
+考校	kao jiao	177
+考释	kao shi	541
+刻工	ke gong	176
+科学出版社	ke xue chu ban she	540
+刻印	ke yin	539
+孔夫子旧书网	kong fu zi jiu shu wang	538
+孔网	kong wang	537
+嫏嬛	lang huan	175
+类编	lei bian	536
+类书	lei shu	535
+类纂	lei zuan	534
+历代笔记丛刊	li dai bi ji cong kan	533
+历代史料笔记丛刊	li dai shi liao bi ji cong kan	532
+历代文史要籍注释选刊	li dai wen shi yao ji zhu shi xuan kan	172
+厘定	li ding	171
+礼经	li jing	531
+礼学	li xue	530
+理学丛书	li xue cong shu	529
+礼乐志	li yue zhi	166
+两汉魏晋	liang han wei jin	174
+辽金元	liao jin yuan	173
+六品	liu pin	170
+六拼一	liu pin yi	169
+六书	liu shu	168
+六五品	liu wu pin	167
+录要	lu yao	159
+论丛	lun cong	528
+论稿	lun gao	165
+论衡	lun heng	527
+论集	lun ji	164
+论略	lun lue	163
+论释	lun shi	162
+论疏	lun shu	161
+珞珈	luo jia	160
+律历志	lv li zhi	526
+律令	lv ling	158
+吕氏春秋	lv shi chun qiu	525
+漫漶	man huan	157
+闽刻	min ke	155
+民族出版社	min zu chu ban she	523
+明钞本	ming chao ben	524
+明史	ming shi	156
+墨色不均	mo se bu jun	154
+木板刷印	mu ban shua yin	153
+木活字	mu huo zi	152
+南朝	nan chao	151
+南开大学出版社	nan kai da xue chu ban she	522
+南宋刊	nan song kan	150
+年谱长编	nian pu chang bian	149
+排印	pai yin	148
+旁释	pang shi	521
+旁注	pang zhu	520
+批校	pi jiao	146
+批解	pi jie	145
+缥缃	piao xiang	147
+品相	pin xiang	519
+评传	ping zhuan	144
+七古	qi gu	518
+齐鲁书社	qi lu shu she	517
+七品	qi pin	135
+七五品	qi wu pin	134
+浅论	qian lun	143
+浅述	qian shu	142
+钤印	qian yin	141
+钦定	qin ding	140
+清抄本	qing chao ben	139
+清钞本	qing chao ben	516
+清代学术名著丛刊	qing dai xue shu ming zhu cong kan	515
+清稿本	qing gao ben	138
+清华大学出版社	qing hua da xue chu ban she	514
+清经解	qing jing jie	513
+清经解续编	qing jing jie xu bian	512
+清人经史遗珠丛编	qing ren jing shi yi zhu cong bian	137
+清史	qing shi	136
+全本	quan ben	511
+全编	quan bian	510
+全集校注	quan ji jiao zhu	132
+全校本	quan jiao ben	133
+诠评	quan ping	509
+全译	quan yi	131
+全译丛书	quan yi cong shu	130
+阙佚	que yi	129
+缺字	que zi	508
+群经	qun jing	128
+人民出版社	ren min chu ban she	507
+人民文学	ren min wen xue	127
+人民文学出版社	ren min wen xue chu ban she	506
+日版	ri ban	126
+儒道释博士论文丛书	ru dao shi bo shi lun wen cong shu	125
+儒家类	ru jia lei	505
+儒藏	ru zang	124
+三礼	san li	123
+三联书店	san lian shu dian	504
+三联韬奋书店	san lian tao fen shu dian	503
+三省堂	san xing tang	122
+善本	shan ben	121
+善本书目	shan ben shu mu	120
+山西古籍	shan xi gu ji	119
+山西古籍出版社	shan xi gu ji chu ban she	491
+上古汉语	shang gu han yu	502
+上海古籍	shang hai gu ji	501
+上海古籍出版社	shang hai gu ji chu ban she	500
+上海人民出版社	shang hai ren min chu ban she	499
+上海三联书店	shang hai san lian shu dian	498
+上海社会科学院出版社	shang hai she hui ke xue yuan chu ban she	497
+上海世纪出版集团	shang hai shi ji chu ban ji tuan	496
+上海书店	shang hai shu dian	495
+上海书店出版社	shang hai shu dian chu ban she	494
+上海译文出版社	shang hai yi wen chu ban she	493
+商务印书馆	shang wu yin shu guan	492
+社会科学文献出版社	she hui ke xue wen xian chu ban she	490
+盛世情书店	sheng shi qing shu dian	489
+史部	shi bu	488
+诗词集	shi ci ji	487
+诗词文	shi ci wen	486
+诗词文集	shi ci wen ji	485
+史稿	shi gao	118
+诗话	shi hua	484
+史籍	shi ji	117
+诗集校注	shi ji jiao zhu	115
+释家	shi jia	116
+世界图书出版公司	shi jie tu shu chu ban gong si	483
+事略	shi lue	113
+史略	shi lue	114
+诗律	shi lv	112
+十三经	shi san jing	482
+十三经清人注疏	shi san jing qing ren zhu shu	481
+十三经注疏	shi san jing zhu shu	480
+实体书店	shi ti shu dian	479
+释文	shi wen	478
+诗文集笺释	shi wen ji jian shi	477
+诗文集校释	shi wen ji jiao shi	111
+诗选	shi xuan	110
+手抄本	shou chao ben	476
+手校	shou jiao	109
+手批	shou pi	475
+书跋	shu ba	107
+书版	shu ban	106
+疏钞	shu chao	474
+书局	shu ju	473
+书目答问	shu mu da wen	472
+书目文献出版社	shu mu wen xian chu ban she	471
+竖排	shu pai	105
+书社	shu she	470
+疏义	shu yi	104
+书院	shu yuan	469
+疏证	shu zheng	468
+刷印	shua yin	108
+四库存目	si ku cun mu	103
+四库全书	si ku quan shu	467
+四库全书本	si ku quan shu ben	466
+四库全书简明目录	si ku quan shu jian ming mu lu	465
+四库全书总目	si ku quan shu zong mu	464
+四库全书总目提要	si ku quan shu zong mu ti yao	463
+四库提要	si ku ti yao	462
+四库总目	si ku zong mu	461
+四拼一	si pin yi	102
+宋本	song ben	460
+宋刊	song kan	459
+宋刊本	song kan ben	458
+宋刻	song ke	457
+宋刻本	song ke ben	456
+宋辽金元	song liao jin yuan	101
+宋元闽刻精华	song yuan min ke jing hua	100
+台版	tai ban	99
+台版书	tai ban shu	98
+探研	tan yan	97
+探疑	tan yi	95
+谈艺	tan yi	96
+谈艺录	tan yi lu	94
+梼杌	tao wu	93
+誊录	teng lu	92
+题跋	ti ba	90
+题署	ti shu	89
+题识	ti zhi	88
+天津古籍	tian jin gu ji	91
+天津古籍出版社	tian jin gu ji chu ban she	455
+天津社会科学院出版社	tian jin she hui ke xue yuan chu ban she	454
+天津市古籍书店	tian jin shi gu ji shu dian	453
+通检	tong jian	451
+通鉴	tong jian	452
+通解	tong jie	450
+通考	tong kao	449
+通例	tong li	448
+通诠	tong quan	447
+通释	tong shi	446
+通说	tong shuo	87
+图录	tu lu	86
+图书馆出版社	tu shu guan chu ban she	444
+图说	tu shuo	85
+图传	tu zhuan	84
+团结出版社	tuan jie chu ban she	445
+外文出版社	wai wen chu ban she	443
+外语出版社	wai yu chu ban she	442
+外语教学与研究出版社	wai yu jiao xue yu yan jiu chu ban she	441
+万泉河畔书店	wan quan he pan shu dian	437
+万圣书园	wan sheng shu yuan	436
+万有文库	wan you wen ku	83
+王弼	wang bi	440
+王府井书店	wang fu jing shu dian	439
+亡佚	wang yi	438
+魏晋南北朝	wei jin nan bei chao	82
+纬书	wei shu	81
+文钞	wen chao	435
+文存	wen cun	80
+文集校注	wen ji jiao zhu	79
+文库	wen ku	434
+文物出版社	wen wu chu ban she	433
+文献学	wen xian xue	432
+文征	wen zheng	78
+五古	wu gu	431
+武汉大学百年名典	wu han da xue bai nian ming dian	430
+武汉大学出版社	wu han da xue chu ban she	429
+武汉古籍书店	wu han gu ji shu dian	428
+乌丝栏	wu si lan	77
+西单图书大厦	xi dan tu shu da sha	73
+系列丛书	xi lie cong shu	72
+西泠印社出版社	xi ling yin she chu ban she	419
+系年	xi nian	71
+现代数学基础丛书	xian dai shu xue ji chu cong shu	427
+献疑	xian yi	425
+线装	xian zhuang	424
+线装本	xian zhuang ben	76
+线装书	xian zhuang shu	75
+线装书局	xian zhuang shu ju	423
+详明	xiang ming	426
+小畜	xiao xu	74
+写本	xie ben	422
+写经	xie jing	421
+写卷	xie juan	420
+新编诸子集成	xin bian zhu zi ji cheng	418
+新编诸子集成续编	xin bian zhu zi ji cheng xu bian	417
+新华出版社	xin hua chu ban she	416
+新校注	xin jiao zhu	70
+新儒家	xin ru jia	69
+新释辑评	xin shi ji ping	68
+新世纪万有文库	xin shi ji wan you wen ku	67
+新世界出版社	xin shi jie chu ban she	415
+新星出版社	xin xing chu ban she	414
+新证	xin zheng	413
+新注	xin zhu	412
+续编	xu bian	406
+叙录	xu lu	402
+续修	xu xiu	63
+虚字	xu zi	400
+选本	xuan ben	411
+选辑	xuan ji	410
+选集	xuan ji	409
+选刊	xuan kan	66
+选录	xuan lu	408
+选注	xuan zhu	407
+学案	xue an	405
+学术笔记丛刊	xue shu bi ji cong kan	404
+学苑出版社	xue yuan chu ban she	403
+训点	xun dian	65
+训读	xun du	64
+训诂学	xun gu xue	401
+要籍	yao ji	62
+要录	yao lu	61
+要说	yao shuo	60
+要旨	yao zhi	399
+野草书店	ye cao shu dian	398
+一版一刷	yi ban yi shua	59
+一版一印	yi ban yi yin	58
+译丛	yi cong	57
+遗集	yi ji	56
+译林出版社	yi lin chu ban she	397
+义疏	yi shu	394
+佚书	yi shu	393
+译文出版社	yi wen chu ban she	392
+艺文志	yi wen zhi	391
+遗献	yi xian	390
+易学典籍选刊	yi xue dian ji xuan kan	389
+疑义	yi yi	388
+义证	yi zheng	387
+遗著	yi zhu	40
+吟草	yin cao	55
+音读	yin du	54
+音训	yin xun	41
+音韵学	yin yun xue	396
+音韵学丛书	yin yun xue cong shu	395
+影抄	ying chao	53
+影钞	ying chao	52
+影刊	ying kan	50
+景刊	ying kan	51
+影宋本	ying song ben	49
+景宋本	ying song ben	48
+影写	ying xie	46
+景写	ying xie	47
+影写本	ying xie ben	45
+影印	ying yin	43
+景印	ying yin	44
+影印本	ying yin ben	42
+輶轩	you xuan	39
+御定	yu ding	34
+玉扣纸	yu kou zhi	33
+御览	yu lan	32
+语文出版社	yu wen chu ban she	378
+御选	yu xuan	30
+原大影印	yuan da ying yin	38
+元典	yuan dian	37
+原迹	yuan ji	36
+元刊	yuan kan	386
+元刊本	yuan kan ben	385
+元刻	yuan ke	384
+元刻本	yuan ke ben	383
+源流	yuan liu	35
+岳麓书社	yue lu shu she	382
+韵部	yun bu	31
+韵会	yun hui	381
+韵书	yun shu	380
+韵学丛书	yun xue cong shu	379
+再版	zai ban	377
+掌故	zhang gu	29
+浙本	zhe ben	28
+浙古	zhe gu	27
+浙江大学出版社	zhe jiang da xue chu ban she	376
+浙江古籍	zhe jiang gu ji	26
+浙江古籍出版社	zhe jiang gu ji chu ban she	375
+浙江人民出版社	zhe jiang ren min chu ban she	374
+浙江文丛	zhe jiang wen cong	373
+浙江文献集成	zhe jiang wen xian ji cheng	372
+浙刻	zhe ke	25
+珍本	zhen ben	24
+志略	zhi lue	23
+直排	zhi pai	22
+知识产权出版社	zhi shi chan quan chu ban she	21
+志书	zhi shu	20
+中古汉语	zhong gu han yu	371
+中关村图书大厦	zhong guan cun tu shu da sha	19
+中国佛教典籍选刊	zhong guo fo jiao dian ji xuan kan	370
+中国古代地理总志丛刊	zhong guo gu dai di li zong zhi cong kan	369
+中国古代名家集	zhong guo gu dai ming jia ji	18
+中国古典文学丛书	zhong guo gu dian wen xue cong shu	368
+中国古典文学基本丛书	zhong guo gu dian wen xue ji ben cong shu	367
+中国近代文学丛书	zhong guo jin dai wen xue cong shu	17
+中国历代书目题跋丛书	zhong guo li dai shu mu ti ba cong shu	16
+中国历史文集丛刊	zhong guo li shi wen ji cong kan	15
+中国社会科学出版社	zhong guo she hui ke xue chu ban she	366
+中国史学基本典籍丛刊	zhong guo shi xue ji ben dian ji cong kan	365
+中国书店	zhong guo shu dian	364
+中国书店版	zhong guo shu dian ban	363
+中国书店报刊资料部	zhong guo shu dian bao kan zi liao bu	362
+中国书店出版社	zhong guo shu dian chu ban she	361
+中国书店灯市口店	zhong guo shu dian deng shi kou dian	360
+中国书店古籍书店	zhong guo shu dian gu ji shu dian	359
+中国书店海淀书店	zhong guo shu dian hai dian shu dian	358
+中国书店来薰阁	zhong guo shu dian lai xun ge	357
+中国书店琉璃厂店	zhong guo shu dian liu li chang dian	356
+中国书店隆福寺店	zhong guo shu dian long fu si dian	355
+中国书店前门店	zhong guo shu dian qian men dian	354
+中国书店新街口店	zhong guo shu dian xin jie kou dian	353
+中国书店中关村店	zhong guo shu dian zhong guan cun dian	352
+中国思想史资料丛刊	zhong guo si xiang shi zi liao cong kan	351
+中国图书网	zhong guo tu shu wang	350
+中国文联出版公司	zhong guo wen lian chu ban gong si	349
+中国文联出版社	zhong guo wen lian chu ban she	348
+中国文学研究典籍丛刊	zhong guo wen xue yan jiu dian ji cong kan	347
+中国现代文学馆	zhong guo xian dai wen xue guan	346
+中华书局	zhong hua shu ju	345
+中华文史新刊	zhong hua wen shi xin kan	344
+中华要籍集释丛书	zhong hua yao ji ji shi cong shu	14
+中山大学出版社	zhong shan da xue chu ban she	343
+中生代	zhong sheng dai	13
+中外关系史名著译丛	zhong wai guan xi shi ming zhu yi cong	12
+中外交通史籍丛刊	zhong wai jiao tong shi ji cong kan	342
+中西书局	zhong xi shu ju	341
+中央编译出版社	zhong yang bian yi chu ban she	340
+中央文献出版社	zhong yang wen xian chu ban she	339
+中州古籍	zhong zhou gu ji	11
+中州古籍出版社	zhong zhou gu ji chu ban she	338
+注本	zhu ben	331
+朱笔	zhu bi	9
+竹简	zhu jian	329
+著录	zhu lu	328
+注疏	zhu shu	327
+竹书	zhu shu	326
+注疏丛刊	zhu shu cong kan	325
+注疏集	zhu shu ji	324
+竹书纪年	zhu shu ji nian	8
+注疏十三经	zhu shu shi san jing	7
+朱丝栏	zhu si lan	6
+诸子集成	zhu zi ji cheng	323
+著作集成	zhu zuo ji cheng	5
+专精	zhuan jing	335
+专名号	zhuan ming hao	10
+撰述	zhuan shu	334
+转译	zhuan yi	333
+撰著	zhuan zhu	332
+装箱	zhuang xiang	337
+装帧印刷	zhuang zhen yin shua	336
+缀补	zhui bu	330
+子部	zi bu	322
+字大如钱	zi da ru qian	4
+自订	zi ding	321
+自定稿	zi ding gao	320
+资料丛书	zi liao cong shu	319
+子书	zi shu	317
+字书	zi shu	318
+自提点	zi ti dian	316
+自叙	zi xu	315
+自序	zi xu	314
+总集	zong ji	313
+宗教文化出版社	zong jiao wen hua chu ban she	312
+祖本	zu ben	1
+足本	zu ben	2
+纂辑	zuan ji	310
+纂集	zuan ji	311
+纂录	zuan lu	309
+纂疏	zuan shu	308
+纂修	zuan xiu	307
+纂言	zuan yan	306
+纂要	zuan yao	305
+纂注	zuan zhu	3
+作家出版社	zuo jia chu ban she	304
+作注	zuo zhu	303

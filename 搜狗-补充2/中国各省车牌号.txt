@@ -1,0 +1,346 @@
+# 词库名称: 中国各省车牌号
+# 词库分类: 其他
+# 词库描述: 备注待完善
+# 词条样例: 北京市京、北京市远郊区、重庆市渝、警察、北京市城区
+# 解析词数: 339
+# 解析异常: 0
+
+阿坝	a ba	16
+阿克苏阿拉尔	a ke su a la er	234
+阿拉善盟	a la shan meng	121
+阿勒泰	a le tai	239
+阿里	a li	36
+安徽省皖	an hui sheng wan	282
+安康	an kang	113
+安庆	an qing	274
+安顺	an shun	79
+安阳	an yang	304
+巴彦淖尔盟	ba yan nao er meng	122
+巴音郭楞蒙古自治州	ba yin guo leng meng gu zi zhi zhou	235
+巴中	ba zhong	12
+白城	bai cheng	100
+百色	bai se	165
+白山	bai shan	101
+白银	bai yin	156
+保定	bao ding	315
+宝鸡	bao ji	117
+包头	bao tou	131
+北海	bei hai	169
+北京市城区	bei jing shi cheng qu	337
+北京市京	bei jing shi jing	338
+北京市远郊区	bei jing shi yuan jiao qu	336
+蚌埠	beng bu	279
+毕节	bi jie	80
+滨州	bin zhou	257
+博尔塔拉州	bo er ta la zhou	242
+沧州	cang zhou	312
+长春	chang chun	106
+昌都	chang du	40
+昌吉州	chang ji zhou	245
+长治	chang zhi	141
+常州	chang zhou	225
+潮州	chao zhou	57
+承德	cheng de	313
+成都	cheng du	31
+赤峰	chi feng	129
+重庆市区江北	chong qing shi qu jiang bei	326
+重庆市区江南	chong qing shi qu jiang nan	327
+重庆市渝	chong qing shi yu	328
+楚雄州	chu xiong zhou	285
+滁州	chu zhou	270
+出租车	chu zu che	335
+大同	da tong	143
+达州	da zhou	18
+德阳	de yang	26
+德州	de zhou	256
+定安县临高县	ding an xian lin gao xian	2
+定西	ding xi	151
+东川	dong chuan	288
+东莞	dong guan	59
+东营	dong ying	264
+鄂尔多斯	e er duo si	123
+鄂西州	e xi zhou	177
+鄂州	e zhou	184
+防城港	fang cheng gang	162
+佛山	fo shan	71
+福建省闽	fu jian sheng min	97
+涪陵区	fu ling qu	323
+阜阳	fu yang	272
+抚州	fu zhou	197
+福州	fu zhou	96
+甘南州	gan nan zhou	146
+甘肃省甘	gan su sheng gan	160
+赣州	gan zhou	201
+甘孜	gan zi	15
+港澳进入内地车辆	gang ao jin ru nei di che liang	52
+固原	gu yuan	6
+广安	guang an	13
+广东省粤	guang dong sheng yue	76
+广西壮族桂	guang xi zhuang zu gui	174
+广元	guang yuan	25
+广州	guang zhou	75
+贵港	gui gang	161
+桂林	gui lin	171
+桂林地区已并入桂林市	gui lin di qu yi bing ru gui lin shi	168
+贵阳	gui yang	85
+贵州省贵	gui zhou sheng gui	86
+果洛州	guo luo zhou	45
+哈密	ha mi	236
+海北	hai bei	48
+海东	hai dong	49
+海口	hai kou	4
+海南省琼	hai nan sheng qiong	5
+海南州	hai nan zhou	46
+海西州	hai xi zhou	43
+邯郸	han dan	317
+汉中	han zhong	114
+杭州	hang zhou	214
+河北省冀	he bei sheng ji	321
+鹤壁	he bi	303
+河池	he chi	164
+合肥	he fei	281
+河南省豫	he nan sheng yu	309
+和田加叶城县	he tian jia ye cheng xian	231
+河源	he yuan	62
+菏泽	he ze	253
+贺州	he zhou	167
+衡水	heng shui	310
+红河州	hong he zhou	283
+湖北省鄂	hu bei sheng e	191
+呼和浩特	hu he hao te	132
+呼伦贝尔	hu lun bei er	128
+湖州	hu zhou	210
+淮安	huai an	221
+淮北	huai bei	276
+淮南	huai nan	278
+黄冈	huang gang	182
+黄南	huang nan	47
+黄山	huang shan	273
+黄石	huang shi	189
+惠州	hui zhou	65
+吉安	ji an	199
+吉林	ji lin	105
+吉林省吉	ji lin sheng ji	107
+济南	ji nan	268
+济宁	ji ning	261
+济源	ji yuan	291
+嘉兴	jia xing	209
+嘉峪关	jia yu guan	158
+江门	jiang men	67
+江苏省苏	jiang su sheng su	229
+江西省赣	jiang xi sheng gan	203
+焦作	jiao zuo	301
+揭阳	jie yang	56
+金昌	jin chang	157
+晋城	jin cheng	140
+金华	jin hua	208
+晋中	jin zhong	136
+警察	jing cha	334
+景德镇	jing de zhen	195
+荆门	jing men	183
+荆州	jing zhou	179
+九江	jiu jiang	196
+酒泉	jiu quan	154
+喀什除叶城县	ka shi chu ye cheng xian	232
+开封	kai feng	307
+克拉玛依	ke la ma yi	238
+奎屯	kui tun	243
+昆明	kun ming	289
+昆玉	kun yu	230
+拉萨	la sa	41
+莱芜	lai wu	252
+兰州	lan zhou	159
+廊坊	lang fang	311
+乐山	le shan	22
+丽水	li shui	205
+连云港	lian yun gang	222
+凉山州	liang shan zhou	14
+聊城	liao cheng	255
+辽源	liao yuan	103
+临汾	lin fen	135
+临夏州	lin xia zhou	147
+临沂	lin yi	254
+林芝	lin zhi	35
+六盘水	liu pan shui	84
+柳州	liu zhou	172
+陇南	long nan	150
+龙岩	long yan	91
+泸州	lu zhou	27
+漯河	luo he	298
+洛阳	luo yang	306
+吕梁	lv liang	137
+马鞍山除含山县	ma an shan chu han shan xian	277
+茂名	mao ming	66
+眉山	mei shan	11
+梅州	mei zhou	64
+绵阳	mian yang	30
+那曲	na qu	37
+南昌	nan chang	202
+南充	nan chong	19
+南海区	nan hai qu	53
+南京	nan jing	228
+南宁	nan ning	173
+南平	nan ping	89
+南通	nan tong	223
+南阳	nan yang	293
+内江	nei jiang	23
+内蒙古蒙	nei meng gu meng	133
+宁波	ning bo	213
+宁德	ning de	88
+宁夏回族宁	ning xia hui zu ning	10
+攀枝花	pan zhi hua	28
+平顶山	ping ding shan	305
+平凉	ping liang	149
+萍乡	ping xiang	194
+莆田	pu tian	95
+濮阳	pu yang	300
+黔东南州	qian dong nan zhou	78
+黔江区	qian jiang qu	322
+黔南州	qian nan zhou	77
+黔西南州	qian xi nan zhou	81
+秦皇岛	qin huang dao	318
+钦州	qin zhou	163
+青岛	qing dao	267
+青岛补增	qing dao bu zeng	251
+青海省青	qing hai sheng qing	51
+庆阳	qing yang	148
+清远	qing yuan	60
+曲靖	qu jing	286
+衢州	qu zhou	207
+泉州	quan zhou	94
+日喀则	ri ka ze	38
+日照	ri zhao	258
+三门峡	san men xia	297
+三明	san ming	90
+三亚	san ya	3
+沙市	sha shi	187
+山东省鲁	shan dong sheng lu	269
+山南	shan nan	39
+汕头	shan tou	72
+汕尾	shan wei	63
+山西省晋	shan xi sheng jin	145
+陕西省陕	shan xi sheng shan	120
+上海市沪	shang hai shi hu	331
+上海市区	shang hai shi qu	330
+上海市远郊区	shang hai shi yuan jiao qu	329
+商洛	shang luo	112
+商丘	shang qiu	296
+上饶	shang rao	198
+韶关	shao guan	70
+绍兴	shao xing	211
+深圳	shen zhen	74
+省直机关	sheng zhi ji guan	87
+省直机关已取消	sheng zhi ji guan yi qu xiao	109
+省直系统私车	sheng zhi xi tong si che	248
+石河子	shi he zi	244
+石家庄	shi jia zhuang	320
+十堰	shi yan	188
+石嘴山	shi zui shan	8
+顺德区	shun de qu	54
+朔州	shuo zhou	139
+四川省川	si chuan sheng chuan	32
+四平	si ping	104
+松原	song yuan	98
+宿迁	su qian	216
+宿州	su zhou	271
+苏州	su zhou	224
+遂宁	sui ning	24
+随州	sui zhou	175
+塔城	ta cheng	240
+泰安	tai an	260
+太原	tai yuan	144
+台州	tai zhou	206
+泰州	tai zhou	217
+唐山	tang shan	319
+天津市	tian jin shi	332
+天津市津	tian jin shi jin	333
+天门	tian men	176
+天水	tian shui	155
+铜川	tong chuan	118
+通化	tong hua	102
+通辽	tong liao	126
+铜陵	tong ling	275
+铜仁	tong ren	82
+吐鲁番	tu lu fan	237
+图木舒克	tu mu shu ke	233
+万州区	wan zhou qu	324
+潍坊	wei fang	262
+潍坊市增补	wei fang shi zeng bu	250
+威海	wei hai	259
+渭南	wei nan	115
+温州	wen zhou	212
+乌海	wu hai	130
+武汉	wu han	190
+芜湖	wu hu	280
+乌兰察布盟	wu lan cha bu meng	124
+乌鲁木齐	wu lu mu qi	246
+武威	wu wei	152
+无锡	wu xi	227
+吴忠	wu zhong	7
+梧州	wu zhou	170
+西安	xi an	119
+锡林郭勒盟	xi lin guo le meng	125
+西宁	xi ning	50
+西藏藏	xi zang cang	42
+厦门	xia men	93
+咸宁	xian ning	180
+咸阳	xian yang	116
+襄樊	xiang fan	185
+孝感	xiao gan	181
+新疆维吾尔自治区新	xin jiang wei wu er zi zhi qu xin	247
+新乡	xin xiang	302
+信阳	xin yang	292
+新余	xin yu	193
+忻州	xin zhou	138
+兴安盟	xing an meng	127
+邢台	xing tai	316
+许昌	xu chang	299
+徐州	xu zhou	226
+雅安	ya an	17
+延安	yan an	111
+延边州	yan bian zhou	99
+盐城	yan cheng	220
+烟台	yan tai	263
+烟台市补增	yan tai shi bu zeng	249
+阳江	yang jiang	61
+杨凌高新农业示范区	yang ling gao xin nong ye shi fan qu	108
+洋浦开发区	yang pu kai fa qu	1
+阳泉	yang quan	142
+扬州	yang zhou	219
+宜宾	yi bin	20
+宜昌	yi chang	186
+宜春	yi chun	200
+伊犁哈萨克自治州	yi li ha sa ke zi zhi zhou	241
+银川	yin chuan	9
+鹰潭	ying tan	192
+永川区	yong chuan qu	325
+榆林	yu lin	110
+玉林	yu lin	166
+玉树州	yu shu zhou	44
+玉溪	yu xi	284
+运城	yun cheng	134
+云浮	yun fu	55
+云南省云	yun nan sheng yun	290
+郧阳	yun yang	178
+枣庄	zao zhuang	265
+湛江	zhan jiang	69
+张家口	zhang jia kou	314
+张掖	zhang ye	153
+漳州	zhang zhou	92
+肇庆	zhao qing	68
+昭通	zhao tong	287
+浙江省浙	zhe jiang sheng zhe	215
+镇江	zhen jiang	218
+郑州	zheng zhou	308
+中国各省车牌号	zhong guo ge sheng che pai hao	339
+中山	zhong shan	58
+周口	zhou kou	295
+舟山	zhou shan	204
+珠海	zhu hai	73
+驻马店	zhu ma dian	294
+驻青海省格尔木市车辆管理所	zhu qing hai sheng ge er mu shi che liang guan li suo	33
+驻四川省天全县车辆管理所	zhu si chuan sheng tian quan xian che liang guan li suo	34
+淄博	zi bo	266
+自贡	zi gong	29
+资阳	zi yang	21
+遵义	zun yi	83
