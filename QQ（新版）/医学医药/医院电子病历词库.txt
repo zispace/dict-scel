@@ -1,0 +1,1992 @@
+# 词库名称: 医院电子病历词库
+# 词库分类: 医疗
+# 词库描述: 建立该词库的目的是把医疗电子病历书写中常用的词组等建立词库，以方便病历书写。时间仓促，先写几个词组，建立这个开放性词库，大家逐渐添加，使之完善。
+# 词条样例: 探查、肛诊、开腹、未探及、血栓、深静脉
+# 解析词数: 1985
+# 解析异常: 0
+
+艾慈灸	ai ci jiu	314
+艾慈灸热敷贴	ai ci jiu re fu tie	315
+嗳气	ai qi	1972
+癌性发热	ai xing fa re	1973
+安乐死	an le si	1971
+安眠药	an mian yao	1970
+按摩	an mo	1968
+安全性	an quan xing	1969
+按压	an ya	1967
+凹陷性水肿	ao xian xing shui zhong	1966
+巴比妥	ba bi tuo	1965
+拔火罐	ba huo guan	1964
+拔尿管	ba niao guan	255
+白带	bai dai	1963
+白蛋白	bai dan bai	1962
+白喉	bai hou	1961
+百日咳	bai ri ke	1958
+白色念珠菌	bai se nian zhu jun	1960
+白细胞	bai xi bao	1959
+败血症	bai xue zheng	1956
+柏油样便	bai you yang bian	1957
+办理出院	ban li chu yuan	188
+半身不遂	ban shen bu sui	1954
+斑秃	ban tu	1955
+半坐卧位	ban zuo wo wei	1953
+保肝	bao gan	115
+保护脑细胞	bao hu nao xi bao	1948
+宝湖山庄	bao hu shan zhuang	25
+保护性隔离	bao hu xing ge li	1947
+包茎	bao jing	1949
+保卫科	bao wei ke	1946
+背痛	bei tong	1945
+苯二氮卓类受体	ben er dan zhuo lei shou ti	1941
+本患者	ben huan zhe	1944
+本患者不考虑	ben huan zhe bu kao lv	1943
+本患者可能性小	ben huan zhe ke neng xing xiao	1942
+本院	ben yuan	152
+鼻出血	bi chu xue	1940
+鼻唇沟变浅	bi chun gou bian qian	170
+鼻唇沟对称	bi chun gou dui chen	1939
+避免	bi mian	1930
+闭目	bi mu	1931
+鼻衄	bi nv	1938
+鼻腔	bi qiang	1937
+鼻塞	bi se	1936
+鼻饲	bi si	1935
+鼻饲流质食物	bi si liu zhi shi wu	1934
+鼻炎	bi yan	1933
+必要时	bi yao shi	1932
+避孕	bi yun	1929
+避孕药	bi yun yao	1928
+便闭	bian bi	1924
+便秘	bian mi	1923
+变浅	bian qian	1921
+扁桃体	bian tao ti	1927
+扁桃体无肿大	bian tao ti wu zhong da	1926
+扁桃体炎	bian tao ti yan	1925
+便血	bian xie	1922
+变形	bian xing	1920
+濒死	bin si	1919
+病案室	bing an shi	1915
+病程记录	bing cheng ji lu	1914
+病程中	bing cheng zhong	280
+并感	bing gan	1917
+病例	bing li	1909
+病历	bing li	1910
+病理反射未引出	bing li fan she wei yin chu	1913
+病理科	bing li ke	1912
+病例讨论	bing li tao lun	1908
+病理性杂音	bing li xing za yin	127
+病理征阳性	bing li zheng yang xing	1911
+并请	bing qing	85
+病情好转	bing qing hao zhuan	112
+病情加重	bing qing jia zhong	10
+病情较稳定	bing qing jiao wen ding	318
+病情进展	bing qing jin zhan	11
+病情稳定	bing qing wen ding	1907
+病情无好转	bing qing wu hao zhuan	1906
+病情无明显好转	bing qing wu ming xian hao zhuan	66
+病区	bing qu	1905
+病人	bing ren	1904
+病史陈述者	bing shi chen shu zhe	1903
+并有	bing you	1916
+病原微生物	bing yuan wei sheng wu	1902
+病灶	bing zao	263
+冰枕	bing zhen	1918
+搏动性	bo dong xing	1898
+博动性疼痛	bo dong xing teng tong	1900
+博动性痛	bo dong xing tong	1899
+搏动样疼痛	bo dong yang teng tong	1897
+勃起	bo qi	1901
+不成形	bu cheng xing	57
+不成形大便	bu cheng xing da bian	58
+补充血容量	bu chong xue rong liang	1896
+补充诊断	bu chong zhen duan	246
+不规则热	bu gui ze re	1892
+补钾	bu jia	1895
+不良反应	bu liang fan ying	1891
+不良嗜好	bu liang shi hao	1890
+不能耐受	bu neng nai shou	1889
+不能行走	bu neng xing zou	1888
+不能言语	bu neng yan yu	210
+不能站立及行走	bu neng zhan li ji xing zou	1887
+不能作	bu neng zuo	1886
+不适	bu shi	1885
+补体	bu ti	1894
+不稳定型心绞痛	bu wen ding xing xin jiao tong	228
+步行困难	bu xing kun nan	1883
+补液	bu ye	1893
+补液抗休克	bu ye kang xiu ke	40
+补液量	bu ye liang	14
+不育	bu yu	1884
+不重	bu zhong	56
+擦剂	ca ji	1882
+擦伤	ca shang	1881
+彩超	cai chao	1879
+采血管	cai xue guan	1880
+嘈杂	cao za	1877
+操作技术	cao zuo ji shu	1878
+侧腹部疼痛	ce fu bu teng tong	1876
+测体温	ce ti wen	1873
+侧头部痛	ce tou bu tong	1875
+侧卧位	ce wo wei	1874
+曾在	ceng zai	444
+曾在当地及我院门诊	ceng zai dang di ji wo yuan men zhen	443
+查对	cha dui	1871
+查对制度	cha dui zhi du	1870
+插尿管	cha niao guan	185
+插入	cha ru	1872
+查体	cha ti	1869
+查体合作	cha ti he zuo	1868
+查体欠合作	cha ti qian he zuo	304
+查血糖高	cha xue tang gao	1867
+查因	cha yin	1866
+颤动	chan dong	1864
+产后	chan hou	1865
+肠癌	chang ai	1861
+肠道隔离	chang dao ge li	1860
+常见	chang jian	1855
+肠镜	chang jing	1859
+肠鸣音	chang ming yin	1858
+肠鸣音正常	chang ming yin zheng chang	1857
+长期医嘱	chang qi yi zhu	1863
+长时间受压	chang shi jian shou ya	1862
+常有	chang you	1854
+肠胀气	chang zhang qi	1856
+超高热	chao gao re	1853
+潮湿	chao shi	1851
+超室	chao shi	1852
+尘肺	chen fei	1850
+晨间护理	chen jian hu li	1849
+呈持续性	cheng chi xu xing	1848
+程度不重	cheng du bu zhong	71
+程度较前稍减轻	cheng du jiao qian shao jian qing	205
+程度较轻稍加重	cheng du jiao qing shao jia zhong	1844
+程度较重	cheng du jiao zhong	105
+程度稍减轻	cheng du shao jian qing	204
+呈发作性	cheng fa zuo xing	1847
+呈固体状	cheng gu ti zhuang	1846
+呈轻至中度	cheng qing zhi zhong du	1845
+呈阵发性	cheng zhen fa xing	74
+迟发脑病	chi fa nao bing	247
+耻骨联合	chi gu lian he	260
+迟缓性瘫痪	chi huan xing tan huan	133
+齿颊之间	chi jia zhi jian	1838
+齿衄	chi nv	1837
+尺神经	chi shen jing	1839
+持续发热	chi xu fa re	1842
+持续数分钟	chi xu shu fen zhong	1841
+持续数小时	chi xu shu xiao shi	140
+持续性疼痛	chi xu xing teng tong	1840
+弛张热	chi zhang re	1843
+冲管	chong guan	1836
+重听	chong ting	383
+重组赖脯胰岛素	chong zu lai pu yi dao su	321
+抽搐	chou chu	1835
+抽筋	chou jin	1834
+初步诊断	chu bu zhen duan	1826
+初潮	chu chao	1825
+初潮年龄	chu chao nian ling	1824
+出汗	chu han	1833
+处理	chu li	1823
+出凝血时间	chu ning xue shi jian	1832
+出现或加重	chu xian huo jia zhong	1831
+出血倾向	chu xie qing xiang	1829
+出血点	chu xue dian	1830
+出血性卒中	chu xue xing cu zhong	1828
+出院小结	chu yuan xiao jie	1827
+传播途径	chuan bo tu jing	1822
+喘鸣	chuan ming	1819
+传染科	chuan ran ke	1821
+传染源	chuan ran yuan	1820
+喘息	chuan xi	1818
+床边心电图	chuang bian xin dian tu	2
+吹口哨	chui kou shao	1817
+磁共振	ci gong zhen	1816
+刺激	ci ji	1814
+雌激素	ci ji su	1815
+刺痛	ci tong	1813
+促黄体生成素	cu huang ti sheng cheng su	1812
+促进	cu jin	1811
+促卵泡生成素	cu luan pao sheng cheng su	1810
+促肾上腺皮质激素	cu shen shang xian pi zhi ji su	1809
+卒中	cu zhong	347
+催眠	cui mian	1808
+催乳素	cui ru su	1807
+催吐	cui tu	1806
+挫伤	cuo shang	1805
+大便常规	da bian chang gui	1801
+大便常规及培养	da bian chang gui ji pei yang	1800
+大便失禁	da bian shi jin	1799
+大便异常	da bian yi chang	218
+大动脉彩超	da dong mai cai chao	156
+打嗝	da ge	1804
+大活络胶囊	da huo luo jiao nang	232
+打喷嚏	da pen ti	1803
+打酸嗝	da suan ge	1802
+大小便	da xiao bian	45
+大小便常规	da xiao bian chang gui	237
+大小便困难	da xiao bian kun nan	1798
+大小便失禁	da xiao bian shi jin	46
+大小便正常	da xiao bian zheng chang	1797
+待辅检回报后	dai fu jian hui bao hou	324
+待辅检回报后进一步治疗	dai fu jian hui bao hou jin yi bu zhi liao	223
+待辅助检查回报后	dai fu zhu jian cha hui bao hou	323
+待辅助检查回报后进一步治疗	dai fu zhu jian cha hui bao hou jin yi bu zhi liao	222
+待结果	dai jie guo	276
+待结果回报后	dai jie guo hui bao hou	277
+带离	dai li	192
+带离我院	dai li wo yuan	193
+黛力新	dai li xin	1794
+待明日	dai ming ri	35
+带药	dai yao	1796
+待诊断明确后	dai zhen duan ming que hou	325
+待诊断明确后进一步治疗	dai zhen duan ming que hou jin yi bu zhi liao	226
+带状	dai zhuang	1795
+蛋白质	dan bai zhi	1785
+但常有	dan chang you	1786
+胆固醇	dan gu chun	1792
+胆管	dan guan	1791
+胆红素	dan hong su	1790
+胆绞痛	dan jiao tong	1789
+胆囊切除术	dan nang qie chu shu	50
+胆囊未触及	dan nang wei chu ji	1788
+单眼	dan yan	1793
+胆汁酸	dan zhi suan	1787
+党办	dang ban	1783
+当地门诊	dang di men zhen	1784
+导管	dao guan	1781
+盗汗	dao han	1777
+导尿	dao niao	1780
+导尿管	dao niao guan	1779
+导尿术	dao niao shu	1778
+刀片	dao pian	1782
+等长收缩	deng chang shou suo	1776
+等动作	deng dong zuo	1775
+等疾病治疗	deng ji bing zhi liao	1774
+等检查	deng jian cha	1773
+等药物	deng yao wu	1772
+等张收缩	deng zhang shou suo	1771
+等治疗	deng zhi liao	1770
+等治疗后	deng zhi liao hou	44
+敌百虫	di bai chong	1759
+敌敌畏	di di wei	1758
+低分子肝素钙	di fen zi gan su gai	1769
+低钾血症	di jia xue zheng	1768
+低流量给氧	di liu liang gei yang	1767
+低颅压性头痛	di lu ya xing tou tong	1766
+低密度脂蛋白	di mi du zhi dan bai	1765
+低密度脂蛋白胆固醇	di mi du zhi dan bai dan gu chun	1764
+低热	di re	1763
+滴数	di shu	1761
+低危组	di wei zu	75
+滴眼剂	di yan ji	1760
+低张性缺氧	di zhang xing que yang	1762
+碘酊	dian ding	1756
+淀粉酶	dian fen mei	1751
+碘伏	dian fu	1755
+电击痛	dian ji tong	1754
+电解质紊乱	dian jie zhi wen luan	1753
+电疗	dian liao	1752
+癫痫	dian xian	1757
+酊剂	ding ji	1749
+冻疮	dong chuang	1746
+动脉硬化	dong mai ying hua	1748
+动脉粥样硬化	dong mai zhou yang ying hua	1747
+动作缓慢	dong zuo huan man	61
+动作较缓慢	dong zuo jiao huan man	62
+窦房结	dou fang jie	1745
+渎职	du zhi	1744
+端坐呼吸	duan zuo hu xi	1743
+端坐位	duan zuo wei	1742
+对称性	dui chen xing	1741
+对光反射迟钝	dui guang fan she chi dun	1740
+对光反射灵敏	dui guang fan she ling min	1739
+对光反射消失	dui guang fan she xiao shi	1738
+对光反射正常	dui guang fan she zheng chang	1737
+对症	dui zheng	1736
+对症治疗	dui zheng zhi liao	1735
+钝痛	dun tong	1734
+多次在	duo ci zai	120
+多发性	duo fa xing	1733
+多见	duo jian	1732
+多见于	duo jian yu	1731
+多见于中老年人	duo jian yu zhong lao nian ren	1730
+多毛症	duo mao zheng	1729
+多梦	duo meng	1728
+多尿	duo niao	1727
+多为	duo wei	1726
+恶病质	e bing zhi	1722
+额部	e bu	1725
+恶梦	e meng	1721
+呃逆	e ni	1723
+额纹	e wen	1724
+恶心	e xin	1720
+恶性病变	e xing bing bian	1719
+恶液质	e ye zhi	1718
+耳鼻喉科	er bi hou ke	1716
+耳闭塞感	er bi se gan	1715
+耳垢	er gou	1714
+二级护理	er ji hu li	1709
+二甲医院	er jia yi yuan	1708
+儿科	er ke	1717
+耳廓	er kuo	1713
+二联律	er lian lv	1707
+耳聋	er long	1712
+耳鸣	er ming	1711
+二羟丙茶碱	er qiang bing cha jian	87
+耳痛	er tong	1710
+发绀	fa gan	1706
+发冷	fa leng	1705
+发热	fa re	1704
+发热反应	fa re fan ying	1703
+发烧	fa shao	1702
+发生	fa sheng	1701
+发育正常	fa yu zheng chang	1700
+发作性睡病	fa zuo xing shui bing	1699
+反复发作	fan fu fa zuo	1697
+反复头晕	fan fu tou yun	1696
+饭后	fan hou	1690
+饭前	fan qian	1689
+反射性末梢血管收缩	fan she xing mo shao xue guan shou suo	1695
+反射性心率减慢	fan she xing xin lv jian man	1694
+翻身	fan shen	1698
+饭时	fan shi	1688
+反跳试验	fan tiao shi yan	64
+反跳痛	fan tiao tong	1693
+反应迟钝	fan ying chi dun	93
+反应蛋白	fan ying dan bai	1692
+反应稍迟钝	fan ying shao chi dun	9
+犯罪	fan zui	1691
+方法	fang fa	1687
+防腐	fang fu	1686
+放屁	fang pi	1683
+防褥疮护理	fang ru chuang hu li	181
+放射科	fang she ke	1682
+房室传导阻滞	fang shi chuan dao zu zhi	1684
+防止	fang zhi	1685
+肺癌	fei ai	1675
+非搏动性	fei bo dong xing	1681
+肺部感染	fei bu gan ran	110
+肺部引流	fei bu yin liu	1673
+肺不张	fei bu zhang	1674
+非快速动眼期	fei kuai su dong yan qi	1680
+肥胖	fei pang	1678
+肥胖症	fei pang zheng	1677
+肺水肿	fei shui zhong	1672
+肺心病	fei xin bing	1671
+肺炎链球菌肺炎	fei yan lian qiu jun fei yan	1670
+肺炎支原体	fei yan zhi yuan ti	1669
+非致病	fei zhi bing	1679
+痱子	fei zi	1668
+腓总神经	fei zong shen jing	1676
+分裂样头痛	fen lie yang tou tong	1667
+分泌物	fen mi wu	1666
+分娩	fen mian	1665
+风湿	feng shi	1664
+风湿热	feng shi re	1663
+风湿三项	feng shi san xiang	279
+风团	feng tuan	1662
+风疹	feng zhen	1661
+腹部	fu bu	1647
+腹部饱胀	fu bu bao zhang	1646
+腹部不适	fu bu bu shi	1645
+腹部检查	fu bu jian cha	1644
+腹部平坦	fu bu ping tan	30
+腹部无移动性浊音	fu bu wu yi dong xing zhuo yin	1643
+妇产科	fu chan ke	1655
+复方的	fu fang de	1654
+复方天麻蜜环糖肽片	fu fang tian ma mi huan tang tai pian	1653
+腹肌紧张	fu ji jin zhang	28
+腹肌软	fu ji ruan	27
+腹肌稍紧张	fu ji shao jin zhang	29
+辅检	fu jian	1658
+辅检回报	fu jian hui bao	162
+腹平软	fu ping ruan	1642
+腹平坦	fu ping tan	1641
+腹腔穿刺	fu qiang chuan ci	1640
+呋塞米	fu sai mi	86
+复视	fu shi	1652
+扶手	fu shou	1660
+腹水	fu shui	1639
+腹痛	fu tong	1638
+俯卧位	fu wo wei	1659
+腹泻	fu xie	1637
+腹型肥胖	fu xing fei pang	154
+复诊时	fu zhen shi	1651
+辅助呼吸	fu zhu hu xi	1657
+辅助检查	fu zhu jian cha	1656
+副主任护师	fu zhu ren hu shi	1650
+副主任技师	fu zhu ren ji shi	1649
+副主任医师	fu zhu ren yi shi	1648
+改测	gai ce	239
+该患者可排除	gai huan zhe ke pai chu	1636
+改善循环	gai shan xun huan	1635
+肝癌	gan ai	1631
+肝胆脾胰	gan dan pi yi	1630
+肝胆外科	gan dan wai ke	1629
+肝功	gan gong	1628
+肝功能	gan gong neng	1627
+肝功能失代偿期	gan gong neng shi dai chang qi	119
+肝功能异常	gan gong neng yi chang	1626
+感觉迟钝	gan jue chi dun	1619
+感觉传导障碍	gan jue chuan dao zhang ai	1618
+感觉过敏	gan jue guo min	1617
+感觉减退	gan jue jian tui	1616
+感觉灵敏	gan jue ling min	1615
+感觉丧失	gan jue sang shi	1614
+感觉神经	gan jue shen jing	1613
+感觉异常	gan jue yi chang	1612
+感觉正常	gan jue zheng chang	1611
+干咳	gan ke	1634
+干啰音	gan luo yin	80
+感冒	gan mao	1610
+肝区无叩击痛	gan qu wu kou ji tong	1625
+感染	gan ran	1609
+感染性休克	gan ran xing xiu ke	1608
+肝肾功能	gan shen gong neng	1624
+甘舒霖	gan shu lin	312
+感双下肢酸痛	gan shuang xia zhi suan tong	1607
+肝损害	gan sun hai	229
+干性啰音	gan xing luo yin	1633
+甘油三酯	gan you san zhi	1632
+肝脏肋下未触及	gan zang lei xia wei chu ji	1623
+肝浊音界缩小	gan zhuo yin jie suo xiao	1622
+肝浊音界消失	gan zhuo yin jie xiao shi	1621
+肝浊音界正常	gan zhuo yin jie zheng chang	1620
+肛肠外科	gang chang wai ke	1606
+肛门	gang men	1605
+肛门检查	gang men jian cha	1604
+肛门排气	gang men pai qi	1603
+肛诊	gang zhen	1974
+高甘油三酯血症	gao gan you san zhi xue zheng	238
+高流量给氧	gao liu liang gei yang	1602
+高锰酸钾	gao meng suan jia	1601
+高密度脂蛋白	gao mi du zhi dan bai	1600
+高密度脂蛋白胆固醇	gao mi du zhi dan bai dan gu chun	1599
+高热	gao re	1598
+高危组	gao wei zu	77
+高血压	gao xue ya	1597
+高血压病	gao xue ya bing	131
+高压氧治疗	gao ya yang zhi liao	265
+告知患者及家属	gao zhi huan zhe ji jia shu	197
+告知患者家属	gao zhi huan zhe jia shu	196
+各瓣膜听诊区	ge ban mo ting zhen qu	1590
+革兰氏染色	ge lan shi ran se	1596
+革兰氏阳性	ge lan shi yang xing	1595
+革兰氏阴性	ge lan shi yin xing	1594
+隔离	ge li	1593
+各浅反射正常	ge qian fan she zheng chang	1589
+个人史	ge ren shi	1591
+膈疝	ge shan	1592
+各生理反射正常	ge sheng li fan she zheng chang	1588
+跟骨	gen gu	1587
+跟腱反射	gen jian fan she	1586
+更年期	geng nian qi	1585
+肱二头肌反射	gong er tou ji fan she	1579
+工会	gong hui	1584
+共济运动无异常	gong ji yun dong wu yi chang	1576
+公斤	gong jin	1583
+巩膜无黄染	gong mo wu huang ran	1577
+功能低下	gong neng di xia	1582
+功能减退	gong neng jian tui	1581
+功能障碍	gong neng zhang ai	1580
+肱三头肌反射	gong san tou ji fan she	1578
+构成	gou cheng	1574
+沟通	gou tong	1575
+故办理出院	gu ban li chu yuan	190
+谷丙转氨酶	gu bing zhuan an mei	1573
+谷草转氨酶	gu cao zhuan an mei	1572
+固定痛	gu ding tong	1566
+骨科	gu ke	1571
+鼓腮	gu sai	1567
+骨髓穿刺	gu sui chuan ci	1570
+骨髓细胞学检查	gu sui xi bao xue jian cha	1569
+骨折	gu zhe	1568
+拐杖	guai zhang	1565
+观察	guan cha	1562
+灌肠剂	guan chang ji	1558
+关节痛	guan jie tong	1564
+关节炎	guan jie yan	1563
+冠状动脉	guan zhuang dong mai	1561
+冠状动脉痉挛	guan zhuang dong mai jing luan	1560
+冠状动脉粥样硬化	guan zhuang dong mai zhou yang ying hua	1559
+广谱抗菌	guang pu kang jun	1557
+过程	guo cheng	1555
+过程顺利	guo cheng shun li	264
+过度回响	guo du hui xiang	1554
+腘静脉	guo jing mai	1982
+过敏	guo min	1553
+过敏性休克	guo min xing xiu ke	1552
+过氧化氢	guo yang hua qing	1551
+过氧乙酸	guo yang yi suan	1550
+寒颤	han chan	1547
+含氯消毒剂	han lv xiao du ji	1549
+含漱剂	han shu ji	1548
+毫克	hao ke	1546
+毫升	hao sheng	1545
+合剂	he ji	1544
+核医学科	he yi xue ke	1543
+红斑	hong ban	41
+红细胞	hong xi bao	1542
+后颈部疼痛或僵硬	hou jing bu teng tong huo jiang ying	1541
+后倾	hou qing	1540
+后头部痛	hou tou bu tong	1539
+后循环缺血	hou xun huan que xue	72
+护肝	hu gan	1516
+护患关系	hu huan guan xi	1515
+糊剂	hu ji	1517
+呼叫系统	hu jiao xi tong	1538
+护栏	hu lan	1514
+护理	hu li	1513
+护理部	hu li bu	1512
+护理程序	hu li cheng xu	1511
+护理记录	hu li ji lu	1510
+护理学	hu li xue	1509
+护肾	hu shen	155
+护士	hu shi	1507
+护师	hu shi	1508
+护胃	hu wei	1506
+呼吸	hu xi	1537
+呼吸道分泌物	hu xi dao fen mi wu	1536
+呼吸道隔离	hu xi dao ge li	1535
+呼吸短促	hu xi duan cu	1534
+呼吸费力	hu xi fei li	1533
+呼吸机辅助呼吸	hu xi ji fu zhu hu xi	1532
+呼吸加快	hu xi jia kuai	1531
+呼吸困难	hu xi kun nan	1530
+呼吸频率	hu xi pin lv	1529
+呼吸浅快	hu xi qian kuai	1528
+呼吸衰竭	hu xi shuai jie	1527
+呼吸兴奋剂	hu xi xing fen ji	1526
+呼吸抑制	hu xi yi zhi	1525
+呼吸音粗糙	hu xi yin cu cao	1524
+呼吸音减弱	hu xi yin jian ruo	1523
+呼吸音清	hu xi yin qing	1522
+呼吸音消失	hu xi yin xiao shi	1521
+呼吸运动减弱	hu xi yun dong jian ruo	1520
+呼吸运动正常	hu xi yun dong zheng chang	1519
+呼之不应	hu zhi bu ying	1518
+划价	hua jia	1502
+化脓	hua nong	1505
+化学物	hua xue wu	1504
+化学消毒剂	hua xue xiao du ji	1503
+坏死	huai si	1500
+怀孕	huai yun	1501
+患侧	huan ce	167
+环境	huan jing	1499
+幻觉	huan jue	1496
+缓慢性心律失常	huan man xing xin lv shi chang	1497
+环氧乙烷	huan yang yi wan	1498
+患者	huan zhe	1495
+患者本人	huan zhe ben ren	1494
+患者病情好转	huan zhe bing qing hao zhuan	316
+患者及家属	huan zhe ji jia shu	1493
+患者及陪人	huan zhe ji pei ren	1492
+患者及同事	huan zhe ji tong shi	1491
+患者家属	huan zhe jia shu	1490
+患者诉	huan zhe su	212
+患者未留大小便检查	huan zhe wei liu da xiao bian jian cha	297
+患者未诉明显不适	huan zhe wei su ming xian bu shi	1489
+患者无明显不适	huan zhe wu ming xian bu shi	269
+患者因	huan zhe yin	1488
+黄白色痰	huang bai se tan	1487
+黄疸	huang dan	1486
+黄色不成形大便	huang se bu cheng xing da bian	59
+黄色稀水样大便	huang se xi shui yang da bian	217
+黄视	huang shi	1485
+黄痰	huang tan	1484
+回报	hui bao	1480
+回报后	hui bao hou	275
+恢复健康	hui fu jian kang	1483
+恢复期	hui fu qi	1482
+恢复意识	hui fu yi shi	1481
+会阴	hui yin	1479
+混合后给予	hun he hou ji yu	1474
+混合性失语	hun he xing shi yu	302
+昏厥	hun jue	1478
+昏迷	hun mi	1477
+昏睡	hun shui	1476
+混血痰	hun xue tan	1473
+混有少量粘液	hun you shao liang nian ye	1471
+混有少量血液	hun you shao liang xue ye	1472
+混有少许咖啡色物	hun you shao xu ka fei se wu	1470
+婚育史	hun yu shi	1475
+混浊尿	hun zhuo niao	1469
+活动受限	huo dong shou xian	1468
+活动中发病	huo dong zhong fa bing	1467
+活动自如	huo dong zi ru	1466
+霍乱	huo luan	1465
+肌电图	ji dian tu	1464
+记二十四小时尿量	ji er shi si xiao shi niao liang	182
+急腹症	ji fu zheng	1448
+肌钙蛋白	ji gai dan bai	1463
+肌酐	ji gan	1462
+肌酐清除率	ji gan qing chu lv	1461
+极高危组	ji gao wei zu	130
+级护理	ji hu li	1449
+计划	ji hua	1435
+肌力	ji li	1460
+稽留热	ji liu re	1450
+记录	ji lu	1434
+记尿量	ji niao liang	183
+肌肉痛	ji rou tong	1459
+肌肉萎缩	ji rou wei suo	1458
+肌肉压痛	ji rou ya tong	1457
+肌肉注射	ji rou zhu she	1456
+技师	ji shi	1433
+及时到医院诊治	ji shi dao yi yuan zhen zhi	173
+及时就诊	ji shi jiu zhen	254
+急速	ji su	1447
+肌酸激酶	ji suan ji mei	1455
+既往史	ji wang shi	1432
+肌无力	ji wu li	1454
+急性	ji xing	1446
+急性病程	ji xing bing cheng	1445
+急性肺水肿	ji xing fei shui zhong	1444
+急性加重	ji xing jia zhong	51
+急性加重期	ji xing jia zhong qi	1443
+急性起病	ji xing qi bing	1442
+急性肾衰竭	ji xing shen shuai jie	1441
+急性肾炎	ji xing shen yan	1440
+急性炎症反应	ji xing yan zheng fan ying	1439
+急性左心衰补充诊断	ji xing zuo xin shuai bu chong zhen duan	26
+继续使用	ji xu shi yong	1431
+继续住院治疗	ji xu zhu yuan zhi liao	189
+肌张力	ji zhang li	1453
+肌张力低	ji zhang li di	1452
+肌张力正常	ji zhang li zheng chang	1451
+急诊科	ji zhen ke	1438
+急诊室	ji zhen shi	1437
+脊柱四肢	ji zhu si zhi	1436
+夹板	jia ban	1428
+甲肝抗体	jia gan kang ti	1425
+甲亢	jia kang	1424
+加量至	jia liang zhi	1430
+加强防褥疮护理	jia qiang fang ru chuang hu li	180
+加强看护	jia qiang kan hu	174
+加强肢体功能锻炼	jia qiang zhi ti gong neng duan lian	22
+甲醛	jia quan	1423
+家属表示理解	jia shu biao shi li jie	97
+加至	jia zhi	1429
+加重时伴	jia zhong shi ban	99
+甲状旁腺激素	jia zhuang pang xian ji su	1422
+甲状腺毒症	jia zhuang xian du zheng	69
+甲状腺正常	jia zhuang xian zheng chang	1421
+家族史	jia zu shi	1427
+家族遗传病史	jia zu yi chuan bing shi	1426
+鉴别诊断	jian bie zhen duan	1400
+检查	jian cha	1410
+检查不合作	jian cha bu he zuo	209
+间隔	jian ge	1420
+碱化尿液	jian hua niao ye	1407
+间接胆红素	jian jie dan hong su	1419
+睑结膜无充血	jian jie mo wu chong xue	1408
+健康	jian kang	1403
+健康教育	jian kang jiao yu	1402
+减量至	jian liang zhi	1415
+减慢输液速度	jian man shu ye su du	96
+减轻	jian qing	1414
+减轻或消失	jian qing huo xiao shi	1413
+减轻局部出血	jian qing ju bu chu xie	1412
+减弱	jian ruo	1411
+减少输液量	jian shao shu ye liang	73
+剑突	jian tu	1405
+剑突下疼痛	jian tu xia teng tong	1404
+健忘	jian wang	1401
+间歇给药	jian xie gei yao	1418
+间歇热	jian xie re	1417
+间歇性跛行	jian xie xing bo xing	1416
+碱性磷酸酶	jian xing lin suan mei	1406
+检验科	jian yan ke	1409
+降门脉压	jiang men mai ya	113
+降尿酸	jiang niao suan	231
+降糖药	jiang tang yao	1399
+降温	jiang wen	1398
+胶布	jiao bu	1396
+焦虑	jiao lv	1394
+较明显	jiao ming xian	1389
+角膜无混浊	jiao mo wu hun zhuo	1393
+胶囊剂	jiao nang ji	1395
+较前	jiao qian	1388
+较前加重	jiao qian jia zhong	102
+较前稍减轻	jiao qian shao jian qing	221
+教授	jiao shou	1387
+交替脉	jiao ti mai	1397
+绞痛	jiao tong	1391
+较稳定	jiao wen ding	244
+矫正	jiao zheng	1390
+解除	jie chu	1379
+接触隔离	jie chu ge li	1386
+接触史	jie chu shi	214
+结核杆菌	jie he gan jun	1384
+结核性渗出性胸膜炎	jie he xing shen chu xing xiong mo yan	1383
+解黄色稀大便	jie huang se xi da bian	215
+解黄色稀水样大便	jie huang se xi shui yang da bian	1378
+结节	jie jie	67
+节律	jie lv	1385
+结膜无充血	jie mo wu chong xue	1382
+结膜炎	jie mo yan	1381
+截石位	jie shi wei	1380
+今晨血糖	jin chen xue tang	1377
+禁忌症	jin ji zheng	1364
+今来上午	jin lai shang wu	1376
+今拟	jin ni	1375
+今日加	jin ri jia	1374
+今日来我院	jin ri lai wo yuan	1373
+今日来我院就诊	jin ri lai wo yuan jiu zhen	1372
+今日血糖较稳定	jin ri xue tang jiao wen ding	32
+近日血糖较稳定	jin ri xue tang jiao wen ding	243
+近日血压较稳定	jin ri xue ya jiao wen ding	240
+近视	jin shi	1369
+进食时	jin shi shi	1367
+紧束感	jin shu gan	1370
+今天早晨	jin tian zao chen	1371
+进一步诊治	jin yi bu zhen zhi	1366
+进一步治疗	jin yi bu zhi liao	326
+近一月	jin yi yue	1368
+进展快	jin zhan kuai	1365
+颈部	jing bu	1357
+精蛋白锌	jing dan bai xin	322
+静滴	jing di	1976
+胫骨结节牵引	jing gu jie jie qian yin	1354
+经患者及家属同意	jing huan zhe ji jia shu tong yi	278
+经量	jing liang	1363
+痉挛	jing luan	1352
+静脉滴注	jing mai di zhu	1351
+静脉输液	jing mai shu ye	1350
+静脉推注	jing mai tui zhu	1349
+静脉炎	jing mai yan	1348
+静脉注射	jing mai zhu she	1347
+经期	jing qi	1362
+颈强可疑	jing qiang ke yi	171
+胫神经	jing shen jing	1353
+精神食欲	jing shen shi yu	1359
+精神食欲尚好	jing shen shi yu shang hao	1358
+精神异常	jing shen yi chang	252
+经卧床休息后	jing wo chuang xiu xi hou	1361
+颈无抵抗	jing wu di kang	1356
+经休息	jing xiu xi	270
+经休息无好转	jing xiu xi wu hao zhuan	1360
+经治疗后缓解	jing zhi liao hou huan jie	125
+颈椎牵引	jing zhui qian yin	1355
+经追问病史	jing zhui wen bing shi	213
+救护车	jiu hu che	1343
+酒精擦浴	jiu jing ca yu	1344
+纠酸	jiu suan	1346
+就诊	jiu zhen	1342
+纠正电解质紊乱	jiu zheng dian jie zhi wen luan	296
+纠正贫血	jiu zheng pin xue	114
+纠正酸中毒	jiu zheng suan zhong du	1345
+局部持续缺血	ju bu chi xu que xue	1341
+局部组织	ju bu zu zhi	1340
+局部组织肿胀	ju bu zu zhi zhong zhang	1339
+咀嚼	ju jue	1338
+剧烈疼痛	ju lie teng tong	1335
+具体用药不详	ju ti yong yao bu xiang	1337
+具体诊断及用药不详	ju ti zhen duan ji yong yao bu xiang	1336
+倦怠	juan dai	1334
+角色	jue se	1392
+龟裂	jun lie	1556
+均无明显异常	jun wu ming xian yi chang	31
+咖啡样物	ka fei yang wu	1333
+咯血	ka xie	1249
+开放性	kai fang xing	1332
+开腹	kai fu	1981
+开口器	kai kou qi	1331
+看过患者	kan guo huan zhe	1330
+康复科	kang fu ke	1329
+抗感染	kang gan ran	1328
+抗过敏	kang guo min	1327
+抗焦虑	kang jiao lv	1326
+抗结核	kang jie he	1325
+抗惊厥	kang jing jue	1324
+抗体	kang ti	1323
+抗休克	kang xiu ke	1322
+抗眩晕	kang xuan yun	1321
+抗血栓	kang xue shuan	1320
+抗血小板	kang xue xiao ban	1319
+抗炎	kang yan	1318
+抗组胺	kang zu an	1317
+抗组胺类	kang zu an lei	1316
+考虑为	kao lv wei	90
+可伴有	ke ban you	1311
+可触及	ke chu ji	68
+客观	ke guan	1305
+客观表现	ke guan biao xian	1304
+咳黄色痰	ke huang se tan	145
+可见出血灶	ke jian chu xie zao	1310
+科教办	ke jiao ban	1315
+咳少许白痰	ke shao xu bai tan	203
+咳少许黄痰	ke shao xu huang tan	122
+咳嗽	ke sou	1314
+咳痰	ke tan	1313
+可下床行走	ke xia chuang xing zou	1309
+可行走	ke xing zou	225
+咳血	ke xue	1312
+可有	ke you	1308
+可有头晕	ke you tou yun	1307
+可自行缓解	ke zi xing huan jie	1306
+空腹	kong fu	1303
+恐惧	kong ju	1300
+空气不足	kong qi bu zu	1302
+空气栓塞	kong qi shuan se	1301
+控制入液速度	kong zhi ru ye su du	179
+控制心率	kong zhi xin lv	159
+控制血糖	kong zhi xue tang	1299
+控制血压	kong zhi xue ya	1298
+控制炎症扩散	kong zhi yan zheng kuo san	1297
+口唇红润	kou chun hong run	274
+口唇无发绀	kou chun wu fa gan	1296
+口服	kou fu	1295
+叩鼓音	kou gu yin	1978
+叩击	kou ji	1286
+口角明显向右歪斜	kou jue ming xian xiang you wai xie	1294
+口角明显向左歪斜	kou jue ming xian xiang zuo wai xie	1293
+口角歪斜	kou jue wai xie	1292
+口角无歪斜	kou jue wu wai xie	1291
+口角右歪	kou jue you wai	1290
+口角左歪	kou jue zuo wai	1289
+口腔护理	kou qiang hu li	1288
+口腔科	kou qiang ke	1287
+快速动眼期	kuai su dong yan qi	1285
+溃烂	kui lan	1284
+昆虫隔离	kun chong ge li	1283
+扩管	kuo guan	1282
+来我院就诊	lai wo yuan jiu zhen	1281
+劳力性呼吸困难	lao li xing hu xi kun nan	1280
+老年男性	lao nian nan xing	150
+老年女性	lao nian nv xing	149
+落枕	lao zhen	1242
+乐果	le guo	1279
+类风湿因子	lei feng shi yin zi	1277
+肋下未触及	lei xia wei chu ji	1278
+冷疗	leng liao	1276
+冷霜	leng shuang	1275
+痢疾	li ji	1266
+立即	li ji	1272
+里急后重	li ji hou zhong	1274
+理疗	li liao	1273
+利尿	li niao	1270
+利尿效果	li niao xiao guo	1269
+利尿作用	li niao zuo yong	1268
+立位时	li wei shi	1271
+粒细胞集落刺激因子	li xi bao ji luo ci ji yin zi	1267
+离院时	li yuan shi	286
+联用	lian yong	271
+两肺叩诊清音	liang fei kou zhen qing yin	1265
+了解胰腺内分泌功能	liao jie yi xian nei fen mi gong neng	139
+淋巴结	lin ba jie	1260
+林格	lin ge	1264
+磷化锌	lin hua xin	1257
+淋球菌	lin qiu jun	1259
+临时医嘱	lin shi yi zhu	1263
+淋浴	lin yu	1258
+临终	lin zhong	1262
+临终关怀	lin zhong guan huai	1261
+流鼻涕	liu bi ti	1256
+流产	liu chan	1255
+流感	liu gan	1254
+流泪	liu lei	1253
+流脓涕	liu nong ti	1252
+流涕	liu ti	1251
+流行性感冒	liu xing xing gan mao	1250
+留置导尿	liu zhi dao niao	293
+留置尿管	liu zhi niao guan	184
+露齿	lu chi	1248
+颅高压表现	lu gao ya biao xian	1247
+颅骨牵引	lu gu qian yin	1246
+颅内压	lu nei ya	1245
+颅内占位病变	lu nei zhan wei bing bian	164
+颅神经无异常	lu shen jing wu yi chang	1244
+轮替试验	lun ti shi yan	65
+绿色痰	lv se tan	1243
+麻痹	ma bi	1241
+麻疹	ma zhen	1240
+麻醉前给药	ma zui qian gei yao	1239
+脉搏	mai bo	1238
+脉搏短绌	mai bo duan chu	1237
+脉搏暂停	mai bo zan ting	1236
+脉律	mai lv	1235
+慢性病程	man xing bing cheng	1233
+慢性丙型肝炎	man xing bing xing gan yan	285
+慢性肾衰竭	man xing shen shuai jie	1232
+慢性胃炎	man xing wei yan	1231
+慢性心力衰竭	man xing xin li shuai jie	1230
+慢性炎症	man xing yan zheng	1229
+满意	man yi	1234
+盲点	mang dian	1228
+毛发分布正常	mao fa fen bu zheng chang	1227
+每次持续	mei ci chi xu	1224
+每次发作	mei ci fa zuo	1223
+梅毒螺旋体	mei du luo xuan ti	1226
+梅尼埃病	mei ni ai bing	1225
+每日次	mei ri ci	1222
+每晚	mei wan	1221
+每小时次	mei xiao shi ci	1220
+门诊拟	men zhen ni	1219
+门诊以	men zhen yi	1218
+梦遗	meng yi	1217
+梦游	meng you	1216
+梦游症	meng you zheng	1215
+糜烂	mi lan	1214
+弥漫性	mi man xing	70
+弥漫性红斑	mi man xing hong ban	42
+泌尿外科	mi niao wai ke	1213
+泌尿系	mi niao xi	1212
+面部	mian bu	1209
+面部疼痛	mian bu teng tong	1208
+棉签	mian qian	1211
+面容正常	mian rong zheng chang	1207
+面色苍白	mian se cang bai	1206
+面色稍苍白	mian se shao cang bai	95
+面色正常	mian se zheng chang	1205
+面神经麻痹	mian shen jing ma bi	1204
+面神经炎	mian shen jing yan	1203
+面瘫	mian tan	1202
+免疫球蛋白	mian yi qiu dan bai	1210
+免疫五项	mian yi wu xiang	200
+灭菌	mie jun	1201
+灭鼠药	mie shu yao	1200
+明确病因	ming que bing yin	310
+明确诊断	ming que zhen duan	1199
+明显不适	ming xian bu shi	267
+明显加重	ming xian jia zhong	319
+明显异常	ming xian yi chang	176
+漠不关心	mo bu guan xin	1195
+末次月经时间	mo ci yue jing shi jian	1198
+莫非氏征	mo fei shi zheng	1196
+末梢神经病	mo shao shen jing bing	1197
+纳差	na cha	1189
+脑出血	nao chu xue	1188
+脑动脉硬化	nao dong mai ying hua	1187
+脑脊液常规	nao ji ye chang gui	1186
+脑脊液生化糖	nao ji ye sheng hua tang	1185
+脑脊液细胞学检查	nao ji ye xi bao xue jian cha	1184
+脑水肿	nao shui zhong	1183
+脑死亡	nao si wang	1182
+脑血管病	nao xue guan bing	168
+脑中风	nao zhong feng	1181
+内分泌科	nei fen mi ke	1194
+内服	nei fu	1193
+内科	nei ke	1192
+内科学	nei ke xue	1191
+内向	nei xiang	1190
+内一科会诊	nei yi ke hui zhen	84
+能耐受	neng nai shou	1180
+能自主运动	neng zi zhu yun dong	273
+拟查	ni cha	206
+拟今日行	ni jin ri xing	1178
+拟明日	ni ming ri	289
+泥样便	ni yang bian	1179
+年老体弱	nian lao ti ruo	1177
+粘液便	nian ye bian	440
+粘液脓血便	nian ye nong xue bian	439
+粘液样便	nian ye yang bian	438
+尿崩	niao beng	1176
+尿闭	niao bi	1175
+尿常规	niao chang gui	1174
+尿道	niao dao	1173
+尿急	niao ji	1172
+尿皮质醇	niao pi zhi chun	1171
+尿频	niao pin	1170
+尿渗透压	niao shen tou ya	1169
+尿失禁	niao shi jin	1168
+尿素氮	niao su dan	1167
+尿酸	niao suan	1166
+尿痛	niao tong	158
+尿微量白蛋白	niao wei liang bai dan bai	1165
+尿血	niao xie	1164
+尿液	niao ye	1163
+尿意	niao yi	1162
+尿潴留	niao zhu liu	1161
+镊子	nie zi	1160
+凝血功能	ning xue gong neng	177
+凝血因子	ning xue yin zi	1159
+扭伤	niu shang	1158
+脓泡	nong pao	1156
+浓痰	nong tan	1157
+脓性痰	nong xing tan	1155
+疟疾	nue ji	1153
+女病人	nv bing ren	1154
+呕吐	ou tu	1152
+呕吐隔夜宿食	ou tu ge ye su shi	1151
+呕吐数次	ou tu shu ci	1150
+呕吐胃内容物	ou tu wei nei rong wu	52
+呕吐胃内容物数次	ou tu wei nei rong wu shu ci	53
+呕吐物	ou tu wu	1149
+呕吐物为	ou tu wu wei	1148
+呕吐物为胃内容物	ou tu wu wei wei nei rong wu	1147
+呕血	ou xue	1146
+偶有	ou you	1145
+怕光	pa guang	1144
+排便失禁	pai bian shi jin	1143
+排除相关疾病	pai chu xiang guan ji bing	257
+排尿	pai niao	1142
+排尿困难	pai niao kun nan	1141
+排尿异常	pai niao yi chang	1140
+排气	pai qi	1139
+排小便困难	pai xiao bian kun nan	292
+排泄物	pai xie wu	1138
+排泄异常	pai xie yi chang	1137
+蹒跚	pan shan	1136
+膀胱	pang guang	1952
+膀胱癌	pang guang ai	1951
+膀胱刺激征	pang guang ci ji zheng	1950
+膀胱区	pang guang qu	259
+泡沫状痰	pao mo zhuang tan	1135
+配成	pei cheng	1134
+配合	pei he	1133
+配偶及子女	pei ou ji zi nv	1132
+喷雾剂	pen wu ji	1131
+皮肤	pi fu	1130
+皮肤科	pi fu ke	1129
+皮肤溃疡	pi fu kui yang	1128
+皮肤粘膜	pi fu nian mo	1127
+脾功能亢进	pi gong neng kang jin	117
+疲劳	pi lao	1122
+皮内注射	pi nei zhu she	1126
+皮试	pi shi	1125
+皮下注射	pi xia zhu she	1124
+脾约	pi yue	1121
+脾脏肋下未触及	pi zang lei xia wei chu ji	1120
+皮疹	pi zhen	1123
+片剂	pian ji	1119
+偏瘫程度较重	pian tan cheng du jiao zhong	1118
+偏头痛	pian tou tong	1117
+贫血貌	pin xue mao	1116
+平喘	ping chuan	1115
+平均	ping jun	1114
+平卧	ping wo	1113
+普工	pu gong	1111
+葡萄糖盐水	pu tao tang yan shui	1112
+普通外科	pu tong wai ke	1110
+普外	pu wai	1109
+起病以来	qi bing yi lai	1104
+气喘	qi chuan	1102
+起床时出现	qi chuang shi chu xian	1103
+脐带脱垂	qi dai tuo chui	1106
+气功	qi gong	1101
+气管居中	qi guan ju zhong	1100
+其后	qi hou	108
+奇脉	qi mai	1107
+其他治疗不变	qi ta zhi liao bu bian	1108
+脐周	qi zhou	1105
+前额部	qian e bu	1096
+前额部疼痛	qian e bu teng tong	1095
+浅昏迷	qian hun mi	1091
+千克	qian ke	1099
+牵连痛	qian lian tong	1098
+前列地尔	qian lie di er	233
+前庭神经元炎	qian ting shen jing yuan yan	1094
+前头部痛	qian tou bu tong	1093
+牵引	qian yin	1097
+抢救	qiang jiu	1088
+强烈收缩	qiang lie shou suo	1090
+强心	qiang xin	1089
+强制戒毒	qiang zhi jie du	294
+侵权行为	qin quan xing wei	1087
+侵入人体	qin ru ren ti	1086
+清除	qing chu	1081
+轻度咳嗽	qing du ke sou	106
+轻度损害	qing du sun hai	1084
+青光眼	qing guang yan	1085
+氰化物	qing hua wu	1076
+清理呼吸道	qing li hu xi dao	1080
+青年男性	qing nian nan xing	146
+青年女性	qing nian nv xing	147
+清水样鼻涕	qing shui yang bi ti	1079
+轻松	qing song	1083
+情绪不稳定	qing xu bu wen ding	1078
+情绪佳	qing xu jia	1077
+轻压痛	qing ya tong	1082
+丘疹	qiu zhen	1075
+屈膝仰卧位	qu xi yang wo wei	1074
+取药	qu yao	1073
+去枕平卧	qu zhen ping wo	1072
+全腹柔软	quan fu rou ruan	1071
+权利	quan li	1062
+全麻未醒	quan ma wei xing	1070
+全面	quan mian	1069
+全身出汗	quan shen chu han	104
+全身皮肤及巩膜	quan shen pi fu ji gong mo	1068
+全身皮肤及巩膜无黄染	quan shen pi fu ji gong mo wu huang ran	1067
+全身浅表淋巴结	quan shen qian biao lin ba jie	1066
+全身浅表淋巴结无肿大	quan shen qian biao lin ba jie wu zhong da	1065
+全身酸痛	quan shen suan tong	1064
+全血黏度	quan xue nian du	1063
+雀斑	que ban	1058
+缺损	que sun	1061
+缺血性卒中	que xue xing cu zhong	1060
+缺氧	que yang	1059
+缺药	que yao	234
+桡骨膜反射	rao gu mo fan she	1057
+热敷贴	re fu tie	313
+热疗	re liao	1056
+热水袋	re shui dai	1055
+热水瓶	re shui ping	1054
+热型	re xing	1053
+热型不规则	re xing bu gui ze	1052
+人工呼吸	ren gong hu xi	1051
+人工流产	ren gong liu chan	1050
+妊娠	ren shen	1049
+妊娠剧吐	ren shen ju tu	1048
+仍感	reng gan	1047
+仍有	reng you	1046
+仍有发热	reng you fa re	1045
+溶血	rong xue	1044
+溶液	rong ye	1043
+溶液剂	rong ye ji	1042
+肉芽组织	rou ya zu zhi	1041
+如出现	ru chu xian	253
+乳剂	ru ji	1040
+入睡	ru shui	1037
+乳酸	ru suan	1039
+乳酸脱氢酶	ru suan tuo qing mei	1038
+入液	ru ye	1977
+入院	ru yuan	1036
+入院查体	ru yuan cha ti	1035
+入院程序	ru yuan cheng xu	1034
+入院后	ru yuan hou	1033
+入院后完善相关检查	ru yuan hou wan shan xiang guan jian cha	98
+入院后予	ru yuan hou yu	1032
+软便	ruan bian	1031
+软膏剂	ruan gao ji	1030
+软组织	ruan zu zhi	1029
+软组织损伤	ruan zu zhi sun shang	1028
+三餐前血糖	san can qian xue tang	1027
+三查七对	san cha qi dui	1026
+散剂	san ji	1023
+三级护理	san ji hu li	1025
+三联律	san lian lv	1024
+散在	san zai	1022
+瘙痒	sao yang	1021
+杀灭芽胞	sha mie ya bao	1020
+砂眼	sha yan	1019
+上腹	shang fu	1016
+上腹不适	shang fu bu shi	1015
+上腹部疼痛	shang fu bu teng tong	1014
+上腹痛	shang fu tong	1013
+伤寒	shang han	1018
+尚好	shang hao	1005
+上呼吸道感染	shang hu xi dao gan ran	1012
+上级医院	shang ji yi yuan	1011
+上皮细胞	shang pi xi bao	1010
+伤食	shang shi	1017
+上述症状	shang shu zheng zhuang	1009
+上述症状加重	shang shu zheng zhuang jia zhong	1008
+尚未明确	shang wei ming que	288
+上午	shang wu	1007
+上下楼梯时	shang xia lou ti shi	1006
+上组用法	shang zu yong fa	284
+少白细胞红细胞	shao bai xi bao hong xi bao	160
+稍感恶心	shao gan e xin	1003
+稍感麻木	shao gan ma mu	1002
+稍感头晕	shao gan tou yun	1001
+稍减轻	shao jian qing	141
+稍扩大	shao kuo da	262
+少尿	shao niao	999
+烧伤	shao shang	1004
+稍有	shao you	1000
+社会	she hui	998
+射精	she jing	997
+社区卫生服务站	she qu wei sheng fu wu zhan	282
+社区卫生服务中心	she qu wei sheng fu wu zhong xin	283
+渗出	shen chu	974
+深度	shen du	993
+深感觉正常	shen gan jue zheng chang	992
+肾功能	shen gong neng	975
+深呼吸	shen hu xi	991
+深昏迷	shen hun mi	990
+神经传导速度	shen jing chuan dao su du	989
+神经根性痛	shen jing gen xing tong	988
+深静脉	shen jing mai	1984
+神经末梢	shen jing mo shao	987
+神经内科	shen jing nei ke	986
+神经衰弱	shen jing shuai ruo	985
+神经痛	shen jing tong	984
+神经系统	shen jing xi tong	983
+神经系统无异常体征	shen jing xi tong wu yi chang ti zheng	982
+神经质	shen jing zhi	981
+伸舌居中	shen she ju zhong	996
+伸舌右偏	shen she you pian	995
+伸舌左偏	shen she zuo pian	994
+渗透性	shen tou xing	973
+慎用	shen yong	972
+神志	shen zhi	980
+神志不清	shen zhi bu qing	211
+神志错乱	shen zhi cuo luan	979
+神志模糊	shen zhi mo hu	978
+神志清楚	shen zhi qing chu	977
+神志清醒	shen zhi qing xing	976
+升白细胞	sheng bai xi bao	161
+生理	sheng li	969
+生命体征	sheng ming ti zheng	968
+生命体征平稳	sheng ming ti zheng ping wen	967
+生命体征正常	sheng ming ti zheng zheng chang	966
+生命征正常	sheng ming zheng zheng chang	965
+升血压	sheng xue ya	971
+生长激素	sheng zhang ji su	970
+尸斑	shi ban	964
+时伴	shi ban	100
+示齿时	shi chi shi	78
+适当限制补液量	shi dang xian zhi bu ye liang	13
+适当限制液体量	shi dang xian zhi ye ti liang	16
+十二指肠引流	shi er zhi chang yin liu	955
+石膏	shi gao	954
+湿化	shi hua	958
+尸僵	shi jiang	963
+尸冷	shi leng	962
+视力减退	shi li jian tui	945
+视力丧失	shi li sang shi	944
+适量	shi liang	942
+食疗	shi liao	952
+湿啰音	shi luo yin	91
+失眠	shi mian	961
+失眠症	shi mian zheng	960
+失明	shi ming	959
+食入即吐	shi ru ji tu	951
+嗜睡	shi shui	941
+食物常滞留于	shi wu chang zhi liu yu	950
+视物模糊	shi wu mo hu	157
+视物旋转	shi wu xuan zhuan	207
+湿性啰音	shi xing luo yin	957
+室性心律失常	shi xing xin lv shi chang	943
+时许	shi xu	124
+实音	shi yin	261
+时有	shi you	953
+食欲不振	shi yu bu zhen	949
+食欲减退	shi yu jian tui	948
+食欲亢进	shi yu kang jin	947
+食欲旺盛	shi yu wang sheng	946
+湿疹	shi zhen	956
+收入我科进一步治疗	shou ru wo ke jin yi bu zhi liao	940
+收入院	shou ru yuan	43
+瘦弱	shou ruo	933
+手术	shou shu	937
+手术记录	shou shu ji lu	936
+手术室	shou shu shi	935
+受体阻断剂	shou ti zu duan ji	934
+收住我科	shou zhu wo ke	939
+收住院	shou zhu yuan	938
+术后	shu hou	924
+术后用药	shu hou yong yao	1975
+疏忽大意	shu hu da yi	932
+数目	shu mu	923
+舒适	shu shi	931
+舒适性	shu shi xing	930
+数天	shu tian	922
+数小时	shu xiao shi	921
+输血	shu xue	929
+输血传染病	shu xue chuan ran bing	928
+输血反应	shu xue fan ying	927
+输血治疗	shu xue zhi liao	926
+输液反应	shu ye fan ying	925
+栓剂	shuan ji	920
+双扁桃体	shuang bian tao ti	143
+双侧扁桃体无肿大	shuang ce bian tao ti wu zhong da	201
+双侧扁桃体肿大	shuang ce bian tao ti zhong da	202
+双侧颞部	shuang ce nie bu	36
+双侧瞳孔等大等圆	shuang ce tong kong deng da deng yuan	919
+双侧枕部	shuang ce zhen bu	918
+双侧指鼻试验正常	shuang ce zhi bi shi yan zheng chang	135
+双耳听力粗测正常	shuang er ting li cu ce zheng chang	917
+双肺	shuang fei	916
+双肺呼吸音清	shuang fei hu xi yin qing	915
+双肺可闻及	shuang fei ke wen ji	92
+双颈总动脉粥样硬化	shuang jing zong dong mai zhou yang ying hua	128
+双颞部	shuang nie bu	227
+双上肢	shuang shang zhi	914
+双上肢肌力	shuang shang zhi ji li	913
+双肾区	shuang shen qu	912
+双肾区无叩击痛	shuang shen qu wu kou ji tong	911
+双手	shuang shou	63
+双手搐搦	shuang shou chu nuo	101
+双下肢	shuang xia zhi	910
+双下肢乏力	shuang xia zhi fa li	909
+双下肢肌力	shuang xia zhi ji li	908
+双下肢较明显	shuang xia zhi jiao ming xian	907
+双下肢酸痛	shuang xia zhi suan tong	906
+双下肢无水肿	shuang xia zhi wu shui zhong	905
+双眼	shuang yan	904
+水电解质紊乱	shui dian jie zhi wen luan	903
+水痘	shui dou	902
+水分	shui fen	901
+睡眠	shui mian	896
+睡眠不足	shui mian bu zu	895
+睡眠呼吸暂停	shui mian hu xi zan ting	894
+睡眠较好	shui mian jiao hao	893
+水泡	shui pao	900
+睡前	shui qian	892
+睡醒	shui xing	891
+水样便	shui yang bian	899
+水肿	shui zhong	897
+水中毒	shui zhong du	898
+说话不清	shuo hua bu qing	890
+撕裂样痛	si lie yang tong	889
+思维欠清	si wei qian qing	4
+思维欠清晰	si wei qian qing xi	8
+思维清晰	si wei qing xi	6
+四肢乏力	si zhi fa li	888
+四肢肌力	si zhi ji li	887
+四肢肌张力	si zhi ji zhang li	886
+四肢肌张力正常	si zhi ji zhang li zheng chang	885
+四肢轮扎	si zhi lun zha	884
+四肢麻木	si zhi ma mu	883
+四肢末梢	si zhi mo shao	882
+四肢无畸形	si zhi wu ji xing	881
+四肢无力	si zhi wu li	880
+松弛	song chi	879
+宋主任	song zhu ren	878
+速度	su du	877
+随后	sui hou	48
+随后出现	sui hou chu xian	49
+遂来我院就诊	sui lai wo yuan jiu zhen	876
+遂收入院治疗	sui shou ru yuan zhi liao	875
+遂于今日来我院就诊	sui yu jin ri lai wo yuan jiu zhen	874
+随诊	sui zhen	172
+所致	suo zhi	873
+太极拳	tai ji quan	870
+胎膜早破	tai mo zao po	872
+胎位不正	tai wei bu zheng	871
+探查	tan cha	1980
+瘫痪	tan huan	869
+叹息	tan xi	868
+糖浆剂	tang jiang ji	867
+糖耐量实验	tang nai liang shi yan	866
+糖尿病	tang niao bing	865
+糖尿病肾病	tang niao bing shen bing	864
+糖尿病周围神经病变	tang niao bing zhou wei shen jing bing bian	863
+烫伤	tang shang	861
+糖水	tang shui	862
+特别	te bie	860
+特发性面神经麻痹	te fa xing mian shen jing ma bi	859
+特级护理	te ji hu li	858
+特殊嗜好	te shu shi hao	857
+特性	te xing	856
+疼痛	teng tong	855
+体弱女性	ti ruo nv xing	854
+体位改变时	ti wei gai bian shi	300
+体位改变时明显加重	ti wei gai bian shi ming xian jia zhong	301
+体位引流	ti wei yin liu	853
+体温	ti wen	852
+体温不升	ti wen bu sheng	851
+体温达	ti wen da	850
+体温过低	ti wen guo di	849
+体温过高	ti wen guo gao	848
+体液	ti ye	847
+体液隔离	ti ye ge li	846
+体质虚弱	ti zhi xu ruo	845
+体重减少	ti zhong jian shao	844
+体重明显下降	ti zhong ming xian xia jiang	298
+体重为	ti zhong wei	843
+体重增加	ti zhong zeng jia	842
+调减	tiao jian	245
+调节机体酸碱度	tiao jie ji ti suan jian du	1750
+调节免疫	tiao jie mian yi	290
+调脂	tiao zhi	153
+铁锈色痰	tie xiu se tan	841
+停测	ting ce	308
+停经	ting jing	835
+听觉过敏	ting jue guo min	840
+听觉稍增强	ting jue shao zeng qiang	839
+听力减退	ting li jian tui	838
+听力下降	ting li xia jiang	837
+停药	ting yao	834
+停用	ting yong	833
+听诊器	ting zhen qi	836
+通便	tong bian	832
+痛风	tong feng	827
+同工酶	tong gong mei	831
+痛经	tong jing	826
+痛觉减退	tong jue jian tui	825
+瞳孔	tong kong	829
+瞳孔直径	tong kong zhi jing	828
+铜绿假单胞菌	tong lv jia dan bao jun	830
+同意上述诊治	tong yi shang shu zhen zhi	81
+头低足高位	tou di zu gao wei	824
+头发护理	tou fa hu li	823
+头高足低位	tou gao zu di wei	822
+头颅无畸形	tou lu wu ji xing	821
+头皮屑	tou pi xie	820
+头痛	tou tong	819
+头晕	tou yun	818
+头晕程度重	tou yun cheng du zhong	817
+吐词	tu ci	814
+吐词不清	tu ci bu qing	813
+吐词含糊	tu ci han hu	812
+吐词欠清	tu ci qian qing	3
+吐词欠清晰	tu ci qian qing xi	5
+吐词清晰	tu ci qing xi	7
+图书馆	tu shu guan	815
+秃头	tu tou	816
+团委	tuan wei	811
+推拿	tui na	810
+退热	tui re	809
+臀部	tun bu	806
+吞咽	tun yan	808
+吞咽困难	tun yan kun nan	807
+脱肛	tuo gang	805
+脱臼	tuo jiu	804
+脱落细胞	tuo luo xi bao	803
+脱毛	tuo mao	802
+外耳道无分泌物	wai er dao wu fen mi wu	801
+外科	wai ke	800
+外科学	wai ke xue	799
+外向	wai xiang	798
+外用	wai yong	797
+外周血管收缩	wai zhou xue guan shou suo	796
+外周阻力	wai zhou zu li	795
+丸剂	wan ji	794
+晚间护理	wan jian hu li	793
+胃癌	wei ai	775
+未测体温	wei ce ti wen	123
+胃肠道疾病	wei chang dao ji bing	774
+胃肠道痉挛	wei chang dao jing luan	773
+胃肠外科	wei chang wai ke	772
+胃肠造影	wei chang zao ying	771
+胃肠胀气	wei chang zhang qi	770
+畏光	wei guang	777
+未规范治疗	wei gui fan zhi liao	787
+畏寒	wei han	776
+胃镜	wei jing	769
+味觉障碍	wei jue zhang ai	778
+微克	wei ke	790
+胃纳	wei na	767
+胃内容物	wei nei rong wu	768
+微生物	wei sheng wu	789
+未诉	wei su	12
+未探及	wei tan ji	1979
+未闻及	wei wen ji	786
+未闻及病理性杂音	wei wen ji bing li xing za yin	785
+未闻及干湿性啰音	wei wen ji gan shi xing luo yin	784
+危险期	wei xian qi	792
+危险三角区	wei xian san jiao qu	791
+未引出	wei yin chu	783
+未予诊治	wei yu zhen zhi	782
+未予重视	wei yu zhong shi	781
+未予重视及处理	wei yu zhong shi ji chu li	780
+胃胀	wei zhang	766
+未诊治	wei zhen zhi	779
+为主	wei zhu	788
+温度	wen du	765
+温水擦浴	wen shui ca yu	764
+卧位时	wo wei shi	763
+我院	wo yuan	191
+无鼻塞	wu bi se	761
+无大小便失禁	wu da xiao bian shi jin	47
+戊二醛	wu er quan	717
+无发热	wu fa re	760
+无腹痛	wu fu tong	759
+无共济失调	wu gong ji shi tiao	758
+五官科	wu guan ke	718
+无好转	wu hao zhuan	19
+雾化	wu hua	716
+雾化吸入	wu hua xi ru	715
+无黄染	wu huang ran	757
+无进展	wu jin zhan	756
+无菌	wu jun	755
+无菌操作	wu jun cao zuo	754
+无菌技术	wu jun ji shu	753
+无菌区域	wu jun qu yu	752
+无菌物品	wu jun wu pin	751
+无菌原则	wu jun yuan ze	750
+无咖啡样物	wu ka fei yang wu	749
+无咳嗽	wu ke sou	748
+无力	wu li	746
+无力及抽搐	wu li ji chou chu	745
+无里急后重	wu li ji hou zhong	747
+无明显	wu ming xian	744
+无明显不适	wu ming xian bu shi	268
+无明显发作诱因	wu ming xian fa zuo you yin	743
+无明显粘液及血液	wu ming xian nian ye ji xue ye	55
+无明显先兆	wu ming xian xian zhao	742
+无明显异常	wu ming xian yi chang	236
+无明显诱因	wu ming xian you yin	741
+无明显诱因出现	wu ming xian you yin chu xian	740
+无粘液及血液	wu nian ye ji xue ye	54
+无尿	wu niao	739
+无呕吐	wu ou tu	738
+无其它不适	wu qi ta bu shi	737
+污染	wu ran	762
+无神经系统定位体征	wu shen jing xi tong ding wei ti zheng	736
+无视物模糊	wu shi wu mo hu	734
+无食欲	wu shi yu	735
+无头部压迫感	wu tou bu ya po gan	733
+无头晕	wu tou yun	732
+无畏寒发热	wu wei han fa re	731
+无心慌	wu xin huang	730
+无胸闷	wu xiong men	729
+无血管杂音	wu xue guan za yin	728
+无血液	wu xue ye	727
+无压痛	wu ya tong	726
+无眼震	wu yan zhen	725
+无意识障碍	wu yi shi zhang ai	724
+无月经	wu yue jing	723
+无肢体抽搐	wu zhi ti chou chu	722
+无肢体麻木	wu zhi ti ma mu	721
+无肢体麻木无力	wu zhi ti ma mu wu li	720
+无肢体无力	wu zhi ti wu li	719
+无肿大	wu zhong da	142
+西地兰	xi di lan	88
+吸毒史	xi du shi	137
+膝反射	xi fan she	709
+洗剂	xi ji	707
+细菌培养	xi jun pei yang	703
+细菌污染	xi jun wu ran	702
+细菌性痢疾	xi jun xing li ji	701
+细菌芽胞	xi jun ya bao	700
+吸入	xi ru	714
+稀释	xi shi	710
+稀水样大便	xi shui yang da bian	216
+吸痰器	xi tan qi	713
+系统	xi tong	704
+洗胃	xi wei	706
+膝胸卧位	xi xiong wo wei	708
+洗眼剂	xi yan ji	705
+吸氧	xi yang	712
+吸氧导管	xi yang dao guan	711
+下腹部疼痛	xia fu bu teng tong	699
+夏季热	xia ji re	696
+下腔静脉	xia qiang jing mai	1985
+下午	xia wu	698
+下肢酸痛	xia zhi suan tong	697
+现病史	xian bing shi	695
+腺苷脱氨酸	xian gan tuo an suan	692
+现患者	xian huan zhe	694
+现在	xian zai	693
+限制补液量	xian zhi bu ye liang	15
+限制入液速度	xian zhi ru ye su du	178
+限制液体量	xian zhi ye ti liang	18
+相关疾病	xiang guan ji bing	256
+向家属告知病情	xiang jia shu gao zhi bing qing	82
+小便困难	xiao bian kun nan	291
+小便失禁	xiao bian shi jin	685
+小便正常	xiao bian zheng chang	684
+消除	xiao chu	691
+消毒	xiao du	690
+消毒隔离制度	xiao du ge li zhi du	689
+消化	xiao hua	688
+消化不良	xiao hua bu liang	687
+小剂量	xiao ji liang	683
+消渴	xiao ke	686
+哮鸣音	xiao ming yin	79
+斜视	xie shi	681
+歇斯底里	xie si di li	682
+心包积液	xin bao ji ye	680
+心电监护显示	xin dian jian hu xian shi	94
+心电图	xin dian tu	679
+心动过缓	xin dong guo huan	678
+心动过速	xin dong guo su	677
+心房	xin fang	676
+心房颤抖	xin fang chan dou	675
+心肺复苏	xin fei fu su	674
+心肺腹未见异常	xin fei fu wei jian yi chang	673
+心肺听诊	xin fei ting zhen	672
+心肝肾功能	xin gan shen gong neng	671
+心功能	xin gong neng	670
+心慌	xin huang	669
+心悸	xin ji	667
+心肌收缩	xin ji shou suo	668
+心尖搏动正常	xin jian bo dong zheng chang	666
+心绞痛	xin jiao tong	665
+心理	xin li	664
+心率	xin lv	660
+心律规整	xin lv gui zheng	663
+心律齐	xin lv qi	662
+心律失常	xin lv shi chang	661
+心前区	xin qian qu	659
+心前区疼痛	xin qian qu teng tong	658
+心前区无隆起	xin qian qu wu long qi	657
+心室	xin shi	656
+心衰	xin shuai	655
+心痛	xin tong	654
+心血管内科	xin xue guan nei ke	653
+心音正常	xin yin zheng chang	652
+心源性脑栓塞	xin yuan xing nao shuan sai	281
+心源性休克	xin yuan xing xiu ke	651
+心脏瓣膜病	xin zang ban mo bing	650
+心脏各瓣膜听诊区	xin zang ge ban mo ting zhen qu	649
+心灼热	xin zhuo re	648
+心浊音界正常	xin zhuo yin jie zheng chang	647
+擤鼻涕	xing bi ti	644
+性病	xing bing	643
+行走不稳	xing zou bu wen	646
+行走困难	xing zou kun nan	645
+胸腹盆腔	xiong fu pen qiang	642
+胸骨后疼痛	xiong gu hou teng tong	641
+胸闷	xiong men	640
+胸膜炎	xiong mo yan	639
+胸腔穿刺	xiong qiang chuan ci	638
+胸水	xiong shui	637
+胸痛	xiong tong	636
+胸外按压	xiong wai an ya	635
+休克	xiu ke	634
+休息	xiu xi	633
+需查	xu cha	631
+虚脱	xu tuo	632
+需要时	xu yao shi	630
+眩晕	xuan yun	629
+血氨	xue an	628
+血白细胞升高	xue bai xi bao sheng gao	220
+血常规	xue chang gui	627
+血沉	xue chen	626
+血管	xue guan	625
+血管紧张素转化酶	xue guan jin zhang su zhuan hua mei	624
+血管钳	xue guan qian	623
+血管栓塞	xue guan shuan se	622
+血红蛋白	xue hong dan bai	621
+血浆同型半胱氨酸	xue jiang tong xing ban guang an suan	620
+血浆维生素	xue jiang wei sheng su	619
+血浆叶酸测定	xue jiang ye suan ce ding	618
+血镁	xue mei	617
+血尿	xue niao	616
+血皮质醇	xue pi zhi chun	615
+血气分析	xue qi fen xi	614
+血清蛋白电泳	xue qing dan bai dian yong	613
+血渗透压	xue shen tou ya	612
+血栓	xue shuan	1983
+血栓栓塞	xue shuan shuan se	611
+血糖	xue tang	610
+血糖较稳定	xue tang jiao wen ding	241
+血象高	xue xiang gao	219
+血小板	xue xiao ban	609
+血小板聚集	xue xiao ban ju ji	608
+血性痰	xue xing tan	607
+血压	xue ya	606
+血压低	xue ya di	39
+血压计	xue ya ji	605
+血压较稳定	xue ya jiao wen ding	242
+血压升高	xue ya sheng gao	604
+血样便	xue yang bian	603
+血液	xue ye	602
+血液隔离	xue ye ge li	601
+血液科	xue ye ke	600
+血液性缺氧	xue ye xing que yang	599
+血液循环	xue ye xun huan	598
+血液循环障碍	xue ye xun huan zhang ai	597
+血脂异常	xue zhi yi chang	132
+循环性缺氧	xun huan xing que yang	596
+荨麻疹	xun ma zhen	1092
+压疮	ya chuang	595
+压力	ya li	594
+压舌板	ya she ban	593
+压痛	ya tong	592
+牙痛	ya tong	590
+压抑	ya yi	591
+牙龈	ya yin	589
+咽充血	yan chong xue	144
+眼膏	yan gao	582
+严格	yan ge	586
+咽喉痛	yan hou tong	588
+眼睑闭合不全约	yan jian bi he bu quan yue	581
+眼睛疲劳	yan jing pi lao	580
+眼科	yan ke	579
+眼眶痛	yan kuang tong	578
+眼裂	yan lie	577
+眼轮匝肌	yan lun za ji	169
+厌食	yan shi	576
+盐水	yan shui	583
+咽无充血	yan wu chong xue	587
+炎症	yan zheng	584
+严重	yan zhong	585
+洋地黄中毒	yang di huang zhong du	574
+氧疗	yang liao	573
+阳痿	yang wei	575
+氧中毒	yang zhong du	572
+腰部检查	yao bu jian cha	571
+腰穿检查	yao chuan jian cha	570
+摇高床位	yao gao chuang wei	89
+药剂科	yao ji ke	565
+药敏	yao min	564
+药品到货后	yao pin dao huo hou	34
+要求出院	yao qiu chu yuan	195
+腰痛	yao tong	569
+药物	yao wu	563
+药物过敏史	yao wu guo min shi	562
+摇匀	yao yun	566
+腰椎穿刺	yao zhui chuan ci	568
+腰椎牵引	yao zhui qian yin	567
+噎膈	ye ge	561
+夜间多尿	ye jian duo niao	560
+夜间尿频	ye jian niao pin	559
+夜间痛	ye jian tong	558
+夜间阵发性呼吸困难	ye jian zhen fa xing hu xi kun nan	557
+夜盲	ye mang	556
+夜尿	ye niao	555
+液体量	ye ti liang	17
+一般健康状况	yi ban jian kang zhuang kuang	554
+异常	yi chang	522
+义齿	yi chi	524
+乙醇	yi chun	534
+胰岛素抵抗	yi dao su di kang	540
+移动性浊音	yi dong xing zhuo yin	295
+以防	yi fang	230
+乙肝表面抗原	yi gan biao mian kang yuan	533
+乙肝肝硬化	yi gan gan ying hua	121
+乙肝两对半	yi gan liang dui ban	532
+易感宿主	yi gan su zhu	516
+胰高糖素	yi gao tang su	539
+医护关系	yi hu guan xi	549
+医患关系	yi huan guan xi	548
+以患者为中心	yi huan zhe wei zhong xin	529
+易饥饿	yi ji e	299
+一级护理	yi ji hu li	553
+以鉴别	yi jian bie	528
+已将	yi jiang	194
+已将上述意见告知患者	yi jiang shang shu yi jian gao zhi huan zhe	198
+以进一步明确诊断	yi jin yi bu ming que zhen duan	199
+遗精	yi jing	536
+抑菌	yi jun	520
+医疗	yi liao	547
+以明确病因	yi ming que bing yin	311
+遗尿	yi niao	535
+易疲劳	yi pi lao	515
+以前额部为主	yi qian e bu wei zhu	527
+以上指示遵照执行	yi shang zhi shi zun zhao zhi xing	526
+医师	yi shi	546
+意识	yi shi	513
+意识模糊	yi shi mo hu	512
+意识丧失	yi shi sang shi	511
+意识障碍	yi shi zhang ai	510
+易受刺激	yi shou ci ji	514
+以双下肢较明显	yi shuang xia zhi jiao ming xian	525
+抑酸	yi suan	519
+义务	yi wu	523
+异物感	yi wu gan	521
+医务股	yi wu gu	545
+胰腺	yi xian	538
+胰腺内分泌功能	yi xian nei fen mi gong neng	138
+已向管教民警告知病情	yi xiang guan jiao min jing gao zhi bing qing	287
+已行	yi xing	266
+医学	yi xue	544
+医学院	yi xue yuan	543
+一氧化碳中毒	yi yang hua tan zhong du	552
+一氧化碳自杀	yi yang hua tan zi sha	551
+胰液分泌	yi ye fen mi	537
+已用	yi yong	235
+已愈	yi yu	530
+医院	yi yuan	542
+衣原体	yi yuan ti	550
+抑制	yi zhi	518
+抑制胃酸分泌	yi zhi wei suan fen mi	517
+意志消沉	yi zhi xiao chen	509
+一直有	yi zhi you	107
+医嘱	yi zhu	541
+乙状结肠	yi zhuang jie chang	531
+阴道出血	yin dao chu xue	508
+因患者	yin huan zhe	309
+引流	yin liu	506
+阴囊	yin nang	507
+引起	yin qi	505
+饮水呛咳	yin shui qiang ke	504
+隐袭	yin xi	166
+应答切题	ying da qie ti	503
+影像学	ying xiang xue	224
+影像中心	ying xiang zhong xin	498
+营养不良	ying yang bu liang	502
+营养良好	ying yang liang hao	501
+营养神经	ying yang shen jing	500
+营养心肌	ying yang xin ji	499
+用法	yong fa	497
+用量	yong liang	496
+右侧	you ce	489
+右侧鼻唇沟变浅	you ce bi chun gou bian qian	488
+右侧鼻唇沟消失	you ce bi chun gou xiao shi	487
+右侧额纹变浅	you ce e wen bian qian	486
+右侧额纹消失	you ce e wen xiao shi	485
+右侧肢体	you ce zhi ti	484
+有高血压病史	you gao xue ya bing shi	493
+油剂	you ji	494
+有机磷农药中毒	you ji lin nong yao zhong du	492
+有机整体	you ji zheng ti	491
+优泌乐	you mi le	495
+右颞部	you nie bu	37
+右偏	you pian	483
+右上肢	you shang zhi	482
+右手	you shou	481
+有痰	you tan	490
+右下腹疼痛	you xia fu teng tong	480
+右下肢	you xia zhi	479
+右眼	you yan	478
+右眼裂变大	you yan lie bian da	477
+预防	yu fang	469
+预防压疮	yu fang ya chuang	468
+于今日凌晨入院	yu jin ri ling chen ru yuan	476
+于今日上午入院	yu jin ri shang wu ru yuan	475
+于今日晚上入院	yu jin ri wan shang ru yuan	474
+于今日下午入院	yu jin ri xia wu ru yuan	473
+于今日中午入院	yu jin ri zhong wu ru yuan	472
+与体位有明显关系	yu ti wei you ming xian guan xi	471
+语无伦次	yu wu lun ci	470
+院办	yuan ban	464
+原发疾病	yuan fa ji bing	467
+原发性肝癌	yuan fa xing gan ai	118
+院感科	yuan gan ke	463
+远视	yuan shi	465
+原因	yuan yin	466
+原因不明	yuan yin bu ming	33
+月经	yue jing	462
+月经过多	yue jing guo duo	461
+月经过少	yue jing guo shao	460
+月前	yue qian	111
+晕倒在地	yun dao zai di	455
+晕动病	yun dong bing	454
+运动神经症状	yun dong shen jing zheng zhuang	458
+运动失调	yun dong shi tiao	457
+孕妇	yun fu	459
+晕厥	yun jue	453
+运用	yun yong	456
+再次	zai ci	83
+在当地门诊输液治疗	zai dang di men zhen shu ye zhi liao	450
+再发	zai fa	451
+再入院	zai ru yuan	136
+在我院住院治疗	zai wo yuan zhu yuan zhi liao	449
+载脂蛋白	zai zhi dan bai	452
+暂不同意	zan bu tong yi	23
+暂不诊断	zan bu zhen duan	20
+暂未同意	zan wei tong yi	24
+暂予	zan yu	448
+脏器出血	zang qi chu xie	447
+早期治疗	zao qi zhi liao	446
+早泄	zao xie	445
+增加排血量	zeng jia pai xue liang	442
+粘痰	zhan tan	441
+谵妄	zhan wang	437
+振颤	zhen chan	425
+震颤	zhen chan	126
+针刺样痛	zhen ci yang tong	436
+震荡	zhen dang	422
+诊断明确	zhen duan ming que	433
+诊断为	zhen duan wei	432
+诊断依据	zhen duan yi ju	431
+诊断证明已开	zhen duan zheng ming yi kai	306
+阵发加重	zhen fa jia zhong	103
+阵发性	zhen fa xing	429
+阵发性咳嗽	zhen fa xing ke sou	428
+阵发性室上性心动过速	zhen fa xing shi shang xing xin dong guo su	427
+阵发性疼痛	zhen fa xing teng tong	426
+枕后	zhen hou	430
+镇静	zhen jing	424
+镇静状态	zhen jing zhuang tai	423
+针灸	zhen jiu	435
+真菌镜检	zhen jun jing jian	434
+正己烷	zheng ji wan	419
+蒸馏水	zheng liu shui	421
+整体护理	zheng ti hu li	420
+正中神经	zheng zhong shen jing	418
+症状好转	zheng zhuang hao zhuan	186
+症状缓解	zheng zhuang huan jie	417
+症状无好转	zheng zhuang wu hao zhuan	416
+指鼻试验	zhi bi shi yan	134
+致病	zhi bing	398
+直肠	zhi chang	407
+直肠肛门及外生殖器	zhi chang gang men ji wai sheng zhi qi	406
+支持治疗	zhi chi zhi liao	415
+肢端明显	zhi duan ming xian	412
+脂肪肝	zhi fang gan	129
+脂肪酶	zhi fang mei	408
+指尖血糖	zhi jian xue tang	307
+直接胆红素	zhi jie dan hong su	405
+治疗	zhi liao	401
+治疗后好转	zhi liao hou hao zhuan	109
+治疗碗	zhi liao wan	400
+治疗效果欠佳	zhi liao xiao guo qian jia	399
+治疗有效	zhi liao you xiao	317
+智能减退	zhi neng jian tui	248
+智能明显减退	zhi neng ming xian jian tui	303
+智能明显下降	zhi neng ming xian xia jiang	305
+支气管哮喘发作	zhi qi guan xiao chuan fa zuo	414
+指示	zhi shi	402
+指示继续	zhi shi ji xu	60
+肢体抽搐	zhi ti chou chu	411
+肢体乏力	zhi ti fa li	410
+肢体麻木	zhi ti ma mu	251
+肢体瘫痪	zhi ti tan huan	250
+肢体无力	zhi ti wu li	409
+肢体震颤	zhi ti zhen chan	249
+窒息	zhi xi	397
+止血	zhi xue	404
+止血带	zhi xue dai	403
+支原体	zhi yuan ti	413
+中凹卧位	zhong ao wo wei	396
+中等热	zhong deng re	395
+中度昏迷	zhong du hun mi	394
+重度贫血	zhong du pin xue	116
+中耳炎	zhong er yan	393
+中风	zhong feng	392
+中和胃酸	zhong he wei suan	391
+中流量给氧	zhong liu liang gei yang	390
+中年男性	zhong nian nan xing	148
+中年女性	zhong nian nv xing	151
+中暑	zhong shu	386
+中枢安定作用	zhong shu an ding zuo yong	389
+中枢性	zhong shu xing	388
+中枢镇静作用	zhong shu zhen jing zuo yong	387
+中危组	zhong wei zu	76
+中心静脉	zhong xin jing mai	385
+中医科	zhong yi ke	384
+皱额	zhou e	379
+周身乏力	zhou shen fa li	382
+周围神经病变	zhou wei shen jing bing bian	381
+周围性	zhou wei xing	380
+蛀齿	zhu chi	366
+主观	zhu guan	376
+主管护师	zhu guan hu shi	375
+主管技师	zhu guan ji shi	374
+逐渐加重	zhu jian jia zhong	377
+主任护师	zhu ren hu shi	373
+主任技师	zhu ren ji shi	372
+主任医师	zhu ren yi shi	371
+侏儒	zhu ru	378
+注射剂	zhu she ji	368
+主诉	zhu su	370
+注意事项	zhu yi shi xiang	367
+注意休息	zhu yi xiu xi	175
+住院治疗	zhu yuan zhi liao	187
+主治医师	zhu zhi yi shi	369
+转科	zhuan ke	165
+转肽酶	zhuan tai mei	365
+转移性右下腹疼痛	zhuan yi xing you xia fu teng tong	364
+状态	zhuang tai	363
+椎管内麻醉	zhui guan nei ma zui	362
+椎基底动脉	zhui ji di dong mai	1
+椎基底动脉系统	zhui ji di dong mai xi tong	21
+灼痛	zhuo tong	361
+浊音界	zhuo yin jie	258
+自卑感	zi bei gan	358
+自动体位	zi dong ti wei	357
+自发动作	zi fa dong zuo	208
+自发痛	zi fa tong	356
+子宫	zi gong	360
+子宫出血	zi gong chu xie	359
+自汗	zi han	355
+自我感觉	zi wo gan jue	354
+自行缓解	zi xing huan jie	353
+自行停药	zi xing ting yao	352
+自主神经症状	zi zhu shen jing zheng zhuang	351
+自主运动	zi zhu yun dong	272
+总蛋白	zong dan bai	349
+总胆红素	zong dan hong su	350
+足底	zu di	348
+组织性缺氧	zu zhi xing que yang	346
+最低	zui di	345
+最高	zui gao	344
+最适	zui shi	343
+遵嘱执行	zun zhu zhi xing	320
+左侧鼻唇沟变浅	zuo ce bi chun gou bian qian	341
+左侧鼻唇沟消失	zuo ce bi chun gou xiao shi	340
+左侧额纹变浅	zuo ce e wen bian qian	339
+左侧额纹消失	zuo ce e wen xiao shi	338
+左侧卧位	zuo ce wo wei	337
+左侧肢体	zuo ce zhi ti	336
+左口角流涎	zuo kou jiao liu xian	335
+左颞部	zuo nie bu	38
+左偏	zuo pian	334
+昨日下午	zuo ri xia wu	163
+左上腹部疼痛	zuo shang fu bu teng tong	333
+左上肢	zuo shang zhi	332
+左手	zuo shou	331
+昨晚再发	zuo wan zai fa	342
+左下腹痛	zuo xia fu tong	330
+左下肢	zuo xia zhi	329
+左眼	zuo yan	328
+左眼裂变大	zuo yan lie bian da	327

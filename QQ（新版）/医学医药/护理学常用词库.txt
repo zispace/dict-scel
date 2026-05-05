@@ -1,0 +1,943 @@
+# 词库名称: 护理学常用词库
+# 词库分类: 农医类
+# 词库描述: 都是常用的
+# 词条样例: 需要时、上午、每晚、每小时次、内服、皮下注射
+# 解析词数: 936
+# 解析异常: 0
+
+阿米卡星	a mi ka xing	856
+阿奇霉素	a qi mei su	847
+阿托品	a tuo pin	778
+阿昔洛韦	a xi luo wei	834
+癌性发热	ai xing fa re	427
+爱与归属的需要	ai yu gui shu de xu yao	240
+安瓿剂	an bu ji	894
+氨茶碱	an cha jian	791
+安定	an ding	785
+氨基比林	an ji bi lin	802
+氨甲苯酸	an jia ben suan	644
+安静性	an jing xing	503
+安乐死	an le si	85
+安眠药	an mian yao	609
+按摩	an mo	267
+安乃近	an nai jin	804
+安宁	an ning	579
+安全的需要	an quan de xu yao	242
+安全性	an quan xing	506
+安体舒通	an ti shu tong	814
+安痛定	an tong ding	801
+按压	an ya	343
+奥美拉唑	ao mei la zuo	761
+巴比妥	ba bi tuo	610
+拔火罐	ba huo guan	272
+白细胞	bai xi bao	747
+败血症	bai xue zheng	432
+半坐卧位	ban zuo wo wei	479
+胞二磷胆碱	bao er lin dan jian	797
+保护性隔离	bao hu xing ge li	113
+保卫科	bao wei ke	5
+倍他乐克	bei ta le ke	807
+备用床	bei yong chuang	204
+苯巴比妥	ben ba bi tuo	783
+苯二氮卓类受体	ben er dan zhuo lei shou ti	633
+苯妥英钠	ben tuo ying na	781
+避免	bi mian	651
+鼻腔	bi qiang	520
+吡嗪酰胺	bi qin xian an	824
+必漱平	bi shu ping	765
+鼻饲	bi si	522
+必要时	bi yao shi	930
+便秘	bian mi	402
+濒死	bin si	90
+病案统计科	bing an tong ji ke	2
+病程记录	bing cheng ji lu	76
+病毒唑	bing du zuo	835
+病例	bing li	222
+病历	bing li	221
+病理科	bing li ke	49
+病区	bing qu	205
+病人	bing ren	256
+病室温度	bing shi wen du	502
+病原微生物	bing yuan wei sheng wu	550
+冰镇	bing zhen	212
+冰枕	bing zhen	211
+补充血容量	bu chong xue rong liang	353
+不规则热	bu gui ze re	429
+不良反应	bu liang fan ying	716
+补体	bu ti	351
+擦剂	ca ji	882
+参与呼吸	can yu hu xi	527
+操作技术	cao zuo ji shu	536
+侧卧位	ce wo wei	488
+查对	cha dui	346
+查对制度	cha dui zhi du	388
+插入	cha ru	511
+产后	chan hou	442
+肠道隔离	chang dao ge li	117
+常见	chang jian	721
+肠镜	chang jing	485
+长期医嘱	chang qi yi zhu	77
+长时间受压	chang shi jian shou ya	572
+肠胀气	chang zhang qi	398
+超高热	chao gao re	109
+超室	chao shi	51
+潮湿	chao shi	157
+晨间护理	chen jian hu li	177
+尺骨鹰嘴牵引	chi gu ying zui qian yin	69
+弛张热	chi zhang re	433
+持针器	chi zhen qi	190
+冲管	chong guan	344
+除臭	chu chou	182
+处理	chu li	379
+出凝血时间	chu ning xue shi jian	756
+出血倾向	chu xie qing xiang	339
+出院小结	chu yuan xiao jie	74
+传播途径	chuan bo tu jing	132
+传染性疾病科	chuan ran xing ji bing ke	17
+传染源	chuan ran yuan	133
+创伤外科	chuang shang wai ke	35
+磁共振	ci gong zhen	47
+刺激	ci ji	156
+促进	cu jin	443
+催眠	cui mian	631
+大便常规	da bian chang gui	751
+大仑丁	da lun ding	780
+蛋白质	dan bai zhi	349
+胆管	dan guan	467
+丹参	dan shen	832
+单眼	dan yan	911
+党办	dang ban	6
+刀柄	dao bing	187
+导管	dao guan	521
+导尿	dao niao	489
+导尿管	dao niao guan	513
+导尿术	dao niao shu	516
+刀片	dao pian	188
+等长收缩	deng chang shou suo	134
+等张收缩	deng zhang shou suo	135
+地巴唑	di ba zuo	829
+敌百虫	di bai chong	612
+地灯	di deng	215
+敌敌畏	di di wei	614
+低分子右旋糖酐氨基酸	di fen zi you xuan tang gan an ji suan	857
+低分子右旋糖酐氨基酸注射液	di fen zi you xuan tang gan an ji suan zhu she ye	858
+地高辛	di gao xin	777
+低热	di re	112
+地塞米松	di sai mi song	864
+滴数	di shu	867
+地西泮	di xi pan	786
+滴眼剂	di yan ji	888
+低右	di you	859
+低张性缺氧	di zhang xing que yang	416
+碘酊	dian ding	124
+碘伏	dian fu	121
+电击	dian ji	730
+电解质紊乱	dian jie zhi wen luan	649
+电疗	dian liao	264
+丁胺卡那霉素	ding an ka na mei su	854
+酊剂	ding ji	891
+丁卡	ding ka	855
+兜带牵引	dou dai qian yin	64
+窦房结	dou fang jie	710
+杜冷丁	du leng ding	775
+渎职	du zhi	225
+端坐呼吸	duan zuo hu xi	529
+端坐卧位	duan zuo wo wei	482
+对冷过敏	dui leng guo min	325
+多巴胺	duo ba an	768
+多尿	duo niao	396
+多元素	duo yuan su	600
+恶心	e xin	669
+恶性病变	e xing bing bian	298
+耳鼻喉科	er bi hou ke	26
+二级护理	er ji hu li	172
+二甲双胍	er jia shuang gua	790
+二甲医院	er jia yi yuan	275
+儿科	er ke	39
+耳廓	er kuo	321
+二联律	er lian lv	103
+发绀	fa gan	530
+法莫替丁	fa mo ti ding	762
+发热反应	fa re fan ying	370
+发生	fa sheng	650
+发作性睡眠	fa zuo xing shui mian	141
+饭后	fan hou	928
+饭前	fan qian	929
+反牵引力	fan qian yin li	455
+反射性末梢血管收缩	fan she xing mo shao xue guan shou suo	311
+反射性心率减慢	fan she xing xin lv jian man	318
+翻身	fan shen	210
+反应蛋白	fan ying dan bai	753
+犯罪	fan zui	226
+方法	fang fa	553
+防腐	fang fu	180
+放射科	fang she ke	60
+房室传导阻滞	fang shi chuan dao zu zhi	314
+防止	fang zhi	540
+肺部引流	fei bu yin liu	461
+肺不张	fei bu zhang	409
+非快速动眼期	fei kuai su dong yan qi	142
+非那根	fei na gen	793
+肺水肿	fei shui zhong	369
+肺炎链球菌肺炎	fei yan lian qiu jun fei yan	435
+非致病	fei zhi bing	545
+粪便嵌塞	fen bian qian sai	401
+分泌物	fen mi wu	82
+分娩	fen mian	438
+风湿热	feng shi re	431
+腹部	fu bu	313
+腹部检查	fu bu jian cha	491
+妇产科	fu chan ke	40
+复方氨林巴比妥	fu fang an lin ba bi tuo	803
+复方的	fu fang de	897
+副教授	fu jiao shou	292
+呋塞米	fu sai mi	796
+副肾	fu shen	773
+扶手	fu shou	217
+腹痛	fu tong	463
+俯卧位	fu wo wei	471
+腹泻	fu xie	400
+辅助呼吸肌	fu zhu hu xi ji	528
+副主任护师	fu zhu ren hu shi	288
+副主任技师	fu zhu ren ji shi	278
+副主任医师	fu zhu ren yi shi	283
+肝病科	gan bing ke	18
+肝胆外科	gan dan wai ke	32
+感觉异常	gan jue yi chang	323
+甘露醇	gan lu chun	865
+感染	gan ran	305
+感染性休克	gan ran xing xiu ke	672
+肝肾功	gan shen gong	757
+肛肠外科	gang chang wai ke	37
+肛门	gang men	450
+肛门检查	gang men jian cha	487
+高锰酸钾	gao meng suan jia	615
+高热	gao re	110
+高血压	gao xue ya	715
+个案护理	ge an hu li	263
+隔离	ge li	130
+跟骨	gen gu	457
+跟骨牵引	gen gu qian yin	66
+工会	gong hui	4
+公斤	gong jin	905
+功能低下	gong neng di xia	709
+功能制护理	gong neng zhi hu li	262
+构成	gou cheng	599
+构成要素	gou cheng yao su	236
+沟通	gou tong	237
+股骨髁上牵引	gu gu ke shang qian yin	67
+骨科	gu ke	25
+骨盆带牵引	gu pen dai qian yin	63
+骨盆兜悬吊牵引	gu pen dou xuan diao qian yin	62
+骨牵引	gu qian yin	65
+刮痧	gua sha	271
+拐杖	guai zhang	218
+观察	guan cha	358
+灌肠	guan chang	725
+灌肠剂	guan chang ji	877
+关节外科	guan jie wai ke	34
+灌注流质食物	guan zhu liu zhi shi wu	519
+冠状动脉	guan zhuang dong mai	702
+冠状动脉痉挛	guan zhuang dong mai jing luan	701
+广谱抗菌	guang pu kang jun	179
+过程	guo cheng	557
+过敏	guo min	684
+过敏性休克	guo min xing xiu ke	380
+过氧化氢	guo yang hua qing	617
+过氧乙酸	guo yang yi suan	125
+含氯消毒剂	han lv xiao du ji	123
+含漱剂	han shu ji	889
+毫克	hao ke	907
+毫升	hao sheng	904
+合剂	he ji	896
+合适的注射部位	he shi de zhu she bu wei	385
+合适的注射器和针头	he shi de zhu she qi he zhen tou	386
+核医学科	he yi xue ke	50
+洪脉	hong mai	100
+红细胞	hong xi bao	748
+后倾	hou qing	445
+护患关系	hu huan guan xi	248
+糊剂	hu ji	879
+呼叫系统	hu jiao xi tong	216
+护栏	hu lan	219
+护理	hu li	589
+护理部	hu li bu	10
+护理程序	hu li cheng xu	593
+护理措施	hu li cuo shi	232
+护理计划	hu li ji hua	233
+护理记录	hu li ji lu	220
+护理立法	hu li li fa	228
+护理评估	hu li ping gu	235
+护理评价	hu li ping jia	231
+护理实践活动	hu li shi jian huo dong	587
+护理思想	hu li si xiang	588
+护理学	hu li xue	741
+护理学院	hu li xue yuan	296
+护理站	hu li zhan	734
+护理诊断	hu li zhen duan	234
+护士	hu shi	743
+护师	hu shi	290
+护士条例	hu shi tiao li	230
+呼吸道分泌物干燥	hu xi dao fen mi wu gan zao	408
+呼吸道隔离	hu xi dao ge li	119
+呼吸费力	hu xi fei li	531
+呼吸困难	hu xi kun nan	535
+呼吸频率	hu xi pin lv	526
+呼吸衰竭	hu xi shuai jie	690
+呼吸兴奋剂	hu xi xing fen ji	685
+呼吸抑制	hu xi yi zhi	406
+划价	hua jia	46
+化脓	hua nong	430
+化学	hua xue	554
+化学消毒剂	hua xue xiao du ji	129
+坏死	huai si	564
+坏死溃疡期	huai si kui yang qi	148
+环丙沙星	huan bing sha xing	838
+环境	huan jing	575
+缓慢性心律失常	huan man xing xin lv shi chang	707
+环氧乙烷	huan yang yi wan	126
+患者	huan zhe	257
+黄视	huang shi	661
+恢复健康	hui fu jian kang	595
+恢复精力	hui fu jing li	558
+恢复期	hui fu qi	473
+会阴	hui yin	439
+混合后给予	hun he hou gei yu	898
+昏迷	hun mi	497
+昏睡	hun shui	160
+活动受限	huo dong shou xian	138
+急腹症	ji fu zheng	307
+肌苷	ji gan	822
+计划	ji hua	591
+肌力	ji li	137
+稽留热	ji liu re	436
+记录	ji lu	342
+肌肉注射	ji rou zhu she	917
+技士	ji shi	281
+技师	ji shi	280
+急速	ji su	932
+脊髓穿刺	ji sui chuan ci	494
+急性	ji xing	667
+急性肺水肿	ji xing fei shui zhong	366
+急性肾功衰	ji xing shen gong shuai	624
+急性炎症反应	ji xing yan zheng fan ying	301
+急诊科	ji zhen ke	58
+急诊室	ji zhen shi	740
+脊柱兜悬吊牵引	ji zhu dou xuan diao qian yin	61
+脊柱外科	ji zhu wai ke	733
+脊椎术后	ji zhui shu hou	465
+夹板	jia ban	153
+甲亢	jia kang	713
+甲醛	jia quan	127
+甲乳外科	jia ru wai ke	31
+甲硝唑	jia xiao zuo	833
+甲氧氯普胺	jia yang lv pu an	799
+加至	jia zhi	902
+检查	jian cha	466
+检查回血	jian cha hui xue	383
+间隔	jian ge	404
+碱化尿液	jian hua niao ye	637
+健康	jian kang	580
+健康教育	jian kang jiao yu	70
+间羟胺	jian qiang an	675
+减轻	jian qing	560
+减轻局部出血	jian qing ju bu chu xie	333
+间歇给药	jian xie gei yao	647
+间歇脉	jian xie mai	105
+间歇热	jian xie re	426
+检验科	jian yan ke	53
+讲师	jiang shi	293
+降温	jiang wen	330
+焦虑	jiao lv	582
+胶囊剂	jiao nang ji	873
+角色	jiao se	255
+教授	jiao shou	291
+交替脉	jiao ti mai	98
+矫正	jiao zheng	447
+解除	jie chu	658
+接触隔离	jie chu ge li	118
+节律	jie lv	524
+截石位	jie shi wei	440
+禁忌症	jin ji zheng	329
+金属移植	jin shu yi zhi	299
+颈部	jing bu	474
+胫骨结节牵引	jing gu jie jie qian yin	456
+静脉滴注	jing mai di zhu	915
+静脉输液	jing mai shu ye	94
+静脉推注	jing mai tui zhu	95
+静脉炎	jing mai yan	368
+静脉注射	jing mai zhu she	916
+晶状体后纤维组织增生	jing zhuang ti hou xian wei zu zhi zeng sheng	407
+颈椎病	jing zhui bing	732
+颈椎骨折	jing zhui gu zhe	731
+颈椎牵引	jing zhui qian yin	73
+救护车	jiu hu che	739
+酒精擦浴	jiu jing ca yu	158
+纠酸	jiu suan	375
+纠正酸中毒	jiu zheng suan zhong du	634
+局部持续缺血	ju bu chi xu que xie	570
+局部组织	ju bu zu zhi	573
+局部组织肿胀	ju bu zu zhi zhong zhang	332
+枸橼酸纳中毒	ju yuan suan na zhong du	338
+卡马西平	ka ma xi ping	779
+卡托普利	ka tuo pu li	813
+开放性	kai fang xing	598
+开口器	kai kou qi	201
+康复科	kang fu ke	22
+抗过敏	kang guo min	376
+抗焦虑	kang jiao lv	630
+抗惊厥	kang jing jue	629
+抗体	kang ti	350
+抗休克	kang xiu ke	620
+抗血栓	kang xue shuan	623
+抗组胺	kang zu an	374
+抗组胺类	kang zu an lei	646
+可待因	ke dai yin	767
+客观	ke guan	251
+客观表现	ke guan biao xian	532
+科教科	ke jiao ke	8
+克拉霉素	ke la mei su	837
+可拉明	ke la ming	688
+克林霉素	ke lin mei su	849
+咳痰	ke tan	417
+恐惧	kong ju	254
+空气不足	kong qi bu zu	533
+空气栓塞	kong qi shuan sai	367
+控制炎症扩散	kong zhi yan zheng kuo san	331
+口服	kou fu	921
+叩击	kou ji	422
+口腔护理	kou qiang hu li	183
+口腔科	kou qiang ke	55
+快速动眼期	kuai su dong yan qi	143
+溃烂	kui lan	565
+昆虫隔离	kun chong ge li	114
+扩管	kuo guan	360
+老年病科	lao nian bing ke	16
+乐果	le guo	613
+类风湿因子	lei feng shi yin zi	754
+雷米封	lei mi feng	827
+雷尼替丁	lei ni ti ding	763
+冷疗	leng liao	334
+冷霜	leng shuang	881
+利巴韦林	li ba wei lin	836
+利多卡因	li duo ka yin	642
+利福平	li fu ping	826
+立即	li ji	933
+理疗	li liao	265
+利尿	li niao	361
+利尿效果	li niao xiao guo	653
+利尿作用	li niao zuo yong	621
+链霉素	lian mei su	823
+林格	lin ge	868
+磷化锌	lin hua xin	606
+林可霉素	lin ke mei su	850
+临时医嘱	lin shi yi zhu	78
+淋浴	lin yu	159
+临终	lin zhong	91
+临终关怀	lin zhong guan huai	84
+流感	liu gan	428
+硫酸镁	liu suan mei	863
+硫酸钠	liu suan na	608
+硫酸铜	liu suan tong	605
+颅骨牵引	lu gu qian yin	453
+鲁米那	lu mi na	782
+颅内压	lu nei ya	452
+卢痛定	lu tong ding	787
+洛贝林	luo bei lin	697
+螺内酯	luo nei zhi	815
+罗痛定	luo tong ding	788
+氯苯那敏	lv ben na min	806
+氯丙嗪	lv bing qin	784
+氯化钾	lv hua jia	866
+麻痹	ma bi	297
+麻醉床	ma zui chuang	202
+麻醉前给药	ma zui qian gei yao	628
+脉搏	mai bo	168
+脉搏短绌	mai bo duan chu	101
+脉律	mai lv	104
+慢性心力衰竭	man xing xin li shuai jie	666
+慢性炎症	man xing yan zheng	328
+满意	man yi	584
+每日次	mei ri ci	923
+美容科	mei rong ke	23
+美托洛尔	mei tuo luo er	808
+每晚	mei wan	925
+每小时次	mei xiao shi ci	922
+梦游	meng you	139
+泌尿外科	mi niao wai ke	38
+面部	mian bu	475
+棉签胶布	mian qian jiao bu	186
+灭害灵	mie hai ling	611
+灭菌	mie jun	548
+灭鼠药	mie shu yao	607
+明确诊断	ming que zhen duan	308
+目的	mu di	354
+男性科	nan xing ke	15
+脑水肿	nao shui zhong	627
+脑死亡	nao si wang	89
+内分泌科	nei fen mi ke	13
+内服	nei fu	920
+内科	nei ke	41
+内科学	nei ke xue	735
+伲福达	ni fu da	820
+尼可刹米	ni ke sha mi	689
+尼莫地平	ni mo di ping	810
+溺水	ni shui	729
+年老体弱	nian lao ti ruo	324
+尿常规	niao chang gui	752
+尿道	niao dao	512
+尿失禁	niao shi jin	391
+尿液	niao ye	508
+尿潴留	niao zhu liu	392
+凝血因子	ning xue yin zi	352
+疟疾	nue ji	425
+诺氟沙星	nuo fu sha xing	841
+女病人	nv bing ren	490
+呕吐	ou tu	717
+呕吐物	ou tu wu	81
+排便失禁	pai bian shi jin	399
+排空气	pai kong qi	384
+排尿异常	pai niao yi chang	397
+哌替啶	pai ti ding	776
+排泄物	pai xie wu	155
+排泄异常	pai xie yi chang	403
+膀胱	pang guang	510
+膀胱刺激征	pang guang ci ji zheng	393
+配成	pei cheng	900
+配合	pei he	469
+配合胃镜	pei he wei jing	486
+喷雾剂	pen wu ji	890
+皮肤科	pi fu ke	21
+皮肤溃疡	pi fu kui yang	209
+疲劳	pi lao	559
+皮内注射	pi nei zhu she	96
+皮试	pi shi	93
+皮下注射	pi xia zhu she	918
+片剂	pian ji	875
+平喘	ping chuan	363
+平卧	ping wo	378
+扑尔敏	pu er min	805
+普萘洛尔	pu nai luo er	809
+葡萄糖	pu tao tang	860
+葡萄糖酸钙	pu tao tang suan gai	862
+葡萄糖盐水	pu tao tang yan shui	869
+普通外科	pu tong wai ke	42
+普通胰岛素	pu tong yi dao su	760
+普外	pu wai	43
+脐带脱垂	qi dai tuo chui	458
+气功	qi gong	270
+奇脉	qi mai	97
+浅度溃疡期	qian du kui yang qi	149
+千克	qian ke	906
+牵引	qian yin	266
+抢救	qiang jiu	728
+强烈收缩	qiang lie shou suo	700
+强心	qiang xin	362
+侵权行为	qin quan xing wei	227
+侵入人体	qin ru ren ti	541
+清除	qing chu	552
+庆大霉素	qing da mei su	848
+青光眼	qing guang yan	626
+氢化物	qing hua wu	618
+清理呼吸道	qing li hu xi dao	424
+氢氯噻嗪	qing lv sai qin	812
+青霉素	qing mei su	852
+请取	qing qu	936
+轻松	qing song	585
+去甲肾上腺素	qu jia shen shang xian su	771
+曲马多	qu ma duo	759
+屈膝仰卧位	qu xi yang wo wei	492
+取药	qu yao	45
+去枕卧位	qu zhen wo wei	498
+全范围关节活动	quan fan wei guan jie huo dong	136
+权利	quan li	250
+全麻未醒	quan ma wei xing	496
+全面	quan mian	590
+缺损	que sun	566
+缺氧	que yang	569
+热疗	re liao	309
+热水袋	re shui dai	214
+热水瓶	re shui ping	213
+热型	re xing	437
+人工呼吸	ren gong hu xi	372
+人事科	ren shi ke	11
+溶血	rong xue	340
+溶液	rong ye	884
+溶液剂	rong ye ji	885
+肉芽组织	rou ya zu zhi	147
+乳剂	ru ji	893
+入院	ru yuan	207
+入院程序	ru yuan cheng xu	206
+软膏剂	ruan gao ji	880
+软组织	ruan zu zhi	567
+软组织损伤	ruan zu zhi sun shang	326
+三查七对	san cha qi dui	208
+散剂	san ji	895
+三级护理	san ji hu li	171
+三甲医院	san jia yi yuan	276
+三联律	san lian lv	102
+杀灭芽胞	sha mie ya bao	551
+山莨菪碱	shan liang dang jian	772
+伤寒	shang han	434
+上午	shang wu	927
+少尿	shao niao	394
+烧伤	shao shang	146
+烧伤整形科	shao shang zheng xing ke	24
+社会	she hui	601
+深度	shen du	525
+神经内科	shen jing nei ke	28
+肾上腺素	shen shang xian su	774
+渗透性	shen tou xing	622
+身心需要	shen xin xu yao	596
+慎用	shen yong	711
+神志	shen zhi	163
+生理	sheng li	576
+生理的需要	sheng li de xu yao	241
+生命体征	sheng ming ti zheng	170
+升血压	sheng xue ya	680
+生殖医学	sheng zhi yi xue	12
+尸斑	shi ban	87
+湿度	shi du	500
+十二指肠引流	shi er zhi chang yin liu	460
+石膏	shi gao	152
+湿化	shi hua	419
+尸僵	shi jiang	86
+尸冷	shi leng	88
+适量	shi liang	903
+食疗	shi liao	268
+嗜睡	shi shui	162
+室性自主心率	shi xing zi zhu xin lv	722
+食欲不振	shi yu bu zhen	663
+湿疹	shi zhen	302
+手术	shou shu	737
+手术记录	shou shu ji lu	75
+手术室	shou shu shi	33
+受体阻断剂	shou ti zu duan ji	660
+受尊重的需要	shou zun zhong de xu yao	239
+术后	shu hou	676
+疏忽大意	shu hu da yi	224
+数目	shu mu	909
+舒适	shu shi	586
+舒适性	shu shi xing	505
+输血	shu xue	355
+输血传染病	shu xue chuan ran bing	335
+输血反应发热	shu xue fan ying fa re	341
+输液反应	shu ye fan ying	371
+栓剂	shuan ji	876
+双氢克尿塞	shuang qing ke niao sai	811
+双眼	shuang yan	910
+水电解紊乱	shui dian jie wen luan	144
+水分	shui fen	518
+睡眠型呼吸暂停	shui mian xing hu xi zan ting	140
+睡前	shui qian	924
+水肿	shui zhong	154
+水中毒	shui zhong du	652
+四肢轮扎	si zhi lun zha	359
+松弛	song chi	562
+速度	su du	365
+速尿	su niao	795
+所致	suo zhi	708
+太极拳	tai ji quan	269
+胎膜早破	tai mo zao po	459
+胎位不正	tai wei bu zheng	444
+碳酸氢钠	tan suan qing na	861
+糖浆剂	tang jiang ji	892
+糖尿病	tang niao bing	714
+烫伤	tang shang	145
+糖水	tang shui	870
+特别	te bie	640
+特级护理	te ji hu li	174
+特性	te xing	507
+疼痛	teng tong	581
+体位引流	ti wei yin liu	420
+体温	ti wen	169
+体温不升	ti wen bu sheng	108
+体温过低	ti wen guo di	336
+体温过高	ti wen guo gao	107
+体液	ti ye	80
+体液隔离	ti ye ge li	115
+体质虚弱	ti zhi xu ruo	472
+调节机体酸碱度	tiao jie ji ti suan jian du	636
+停药	ting yao	364
+听诊器	ting zhen qi	192
+瞳孔	tong kong	165
+铜绿假单胞菌	tong lv jia dan bao jun	178
+头孢吡肟	tou bao bi wo	845
+头孢呋辛	tou bao fu xin	851
+头孢哌酮	tou bao pai tong	853
+头孢哌酮钠舒巴坦钠	tou bao pai tong na shu ba tan na	846
+头孢曲松	tou bao qu song	843
+头孢噻肟	tou bao sai wo	844
+头孢他啶	tou bao ta ding	842
+头低足高位	tou di zu gao wei	462
+头发护理	tou fa hu li	175
+头高足低位	tou gao zu di wei	454
+头痛	tou tong	719
+头晕	tou yun	670
+图书馆	tu shu guan	1
+团委	tuan wei	3
+推拿	tui na	273
+臀部	tun bu	484
+脱落细胞	tuo luo xi bao	79
+外科	wai ke	44
+外科学	wai ke xue	736
+外用	wai yong	919
+外周血管收缩	wai zhou xue guan shou suo	674
+外周阻力	wai zhou zu li	699
+丸剂	wan ji	874
+晚间护理	wan jian hu li	176
+弯盘	wan pan	191
+胃肠道疾病	wei chang dao ji bing	659
+胃肠道痉挛	wei chang dao jing luan	657
+胃肠外科	wei chang wai ke	30
+胃肠胀气	wei chang zhang qi	464
+胃复安	wei fu an	798
+微克	wei ke	908
+卫生法	wei sheng fa	229
+微生物	wei sheng wu	547
+危险三角区	wei xian san jiao qu	306
+温度	wen du	405
+戊二醛	wu er quan	128
+五官科	wu guan ke	54
+无害程度	wu hai cheng du	549
+雾化	wu hua	418
+雾化吸入	wu hua xi ru	92
+无菌	wu jun	347
+无菌操作	wu jun cao zuo	514
+无菌技术	wu jun ji shu	543
+无菌巾	wu jun jin	184
+无菌区域	wu jun qu yu	538
+无菌物品	wu jun wu pin	539
+无菌原则	wu jun yuan ze	389
+物理	wu li	555
+无尿	wu niao	395
+污染	wu ran	537
+无痛技术	wu tong ji shu	381
+西地兰	xi di lan	668
+洗剂	xi ji	883
+细菌污染	xi jun wu ran	337
+细菌芽胞	xi jun ya bao	544
+细脉	xi mai	99
+西咪替丁	xi mi ti ding	764
+吸入	xi ru	914
+稀释	xi shi	899
+吸痰器	xi tan qi	196
+系统	xi tong	592
+系统化	xi tong hua	259
+洗胃	xi wei	738
+膝胸卧位	xi xiong wo wei	451
+洗眼剂	xi yan ji	887
+吸氧	xi yang	377
+吸氧导管	xi yang dao guan	197
+下午	xia wu	926
+现配现用	xian pei xian yong	382
+纤维颤动	xian wei chan dong	315
+显微外科	xian wei wai ke	36
+硝苯地平	xiao ben di ping	821
+消除	xiao chu	561
+消毒	xiao du	556
+消毒隔离制度	xiao du ge li zhi du	387
+小剂量	xiao ji liang	648
+消心痛	xiao xin tong	816
+消炎痛	xiao yan tong	830
+小组制护理	xiao zu zhi hu li	261
+心包积液	xin bao ji ye	481
+心电图	xin dian tu	749
+心电图输	xin dian tu shu	48
+心动过缓	xin dong guo huan	662
+心动过速	xin dong guo su	678
+心房	xin fang	317
+心房颤抖	xin fang chan dou	665
+心肺复苏	xin fei fu su	706
+心肺疾病	xin fei ji bing	478
+心肝肾功能不全	xin gan shen gong neng bu quan	303
+心梗后合并室性心律失常	xin geng hou he bing shi xing xin lv shi chang	639
+心功能室	xin gong neng shi	56
+心悸	xin ji	720
+心肌收缩	xin ji shou suo	698
+心理	xin li	602
+心理护理	xin li hu li	106
+心率呼吸	xin lv hu xi	167
+心律失常	xin lv shi chang	641
+心前区	xin qian qu	319
+新生儿室	xin sheng er shi	501
+新生儿窒息	xin sheng er zhi xi	696
+心室	xin shi	316
+心事颤动	xin shi chan dong	723
+心室激惹性	xin shi ji re xing	677
+心衰	xin shuai	682
+新斯的明	xin si de ming	792
+心跳骤停	xin tiao zhou ting	724
+心痛定	xin tong ding	819
+心血管内科	xin xue guan nei ke	29
+心源性休克	xin yuan xing xiu ke	681
+胸腹盆腔	xiong fu pen qiang	477
+胸外按压	xiong wai an ya	373
+溴己新	xiu ji xin	766
+休克	xiu ke	705
+休息	xiu xi	563
+需要层次	xu yao ceng ci	245
+需要时	xu yao shi	931
+眩晕	xuan yun	718
+血常规	xue chang gui	758
+血沉	xue chen	755
+血管	xue guan	703
+血管钳	xue guan qian	189
+血红蛋白	xue hong dan bai	746
+血栓塞病	xue shuan sai bing	619
+血糖	xue tang	750
+血小板	xue xiao ban	745
+血压	xue ya	166
+血压计	xue ya ji	193
+血压升高	xue ya sheng gao	673
+血液	xue ye	83
+血液隔离	xue ye ge li	116
+血液科	xue ye ke	14
+血液性缺氧	xue ye xing que yang	415
+血液循环障碍	xue ye xun huan zhang ai	571
+循环性缺氧	xun huan xing que yang	414
+压疮	ya chuang	574
+牙垫舌钳	ya dian she qian	199
+压力	ya li	244
+压力源	ya li yuan	243
+压舌板	ya she ban	200
+压抑	ya yi	253
+眼膏	yan gao	886
+严格	yan ge	515
+眼科	yan ke	27
+严密隔离	yan mi ge li	120
+盐水	yan shui	871
+盐酸溴己新	yan suan xiu ji xin	789
+炎性浸润期	yan xing jin run qi	150
+炎症	yan zheng	476
+严重	yan zhong	683
+洋地黄中毒	yang di huang zhong du	712
+氧氟沙星	yang fu sha xing	839
+氧疗	yang liao	412
+氧疗的副作用	yang liao de fu zuo yong	411
+氧中毒	yang zhong du	410
+腰部检查	yao bu jian cha	470
+药剂科	yao ji ke	52
+药物	yao wu	517
+摇匀	yao yun	345
+腰椎骨折	yao zhui gu zhe	726
+腰椎间盘突出症	yao zhui jian pan tu chu zheng	727
+腰椎牵引	yao zhui qian yin	71
+乙胺丁醇	yi an ding chun	825
+异丙嗪	yi bing qin	794
+异丙肾上腺素	yi bing shen shang xian su	769
+异常	yi chang	523
+乙醇	yi chun	122
+易感宿主	yi gan su zhu	131
+一过性冠脉收缩	yi guo xing guan mai shou suo	310
+医护关系	yi hu guan xi	246
+医患关系	yi huan guan xi	247
+以患者为中心	yi huan zhe wei zhong xin	603
+一级护理	yi ji hu li	173
+抑菌	yi jun	181
+医疗	yi liao	542
+依那普利	yi na pu li	818
+异山梨酯	yi shan li zhi	817
+医士	yi shi	286
+医师	yi shi	285
+意识	yi shi	164
+意识模糊	yi shi mo hu	161
+义务	yi wu	249
+医务科	yi wu ke	9
+胰腺	yi xian	468
+医学	yi xue	742
+医学院	yi xue yuan	295
+异烟肼	yi yan jing	828
+一氧化碳中毒	yi yang hua tan zhong du	695
+一氧化碳自杀	yi yang hua tan zi sha	694
+胰液分泌	yi ye fen mi	655
+医院	yi yuan	744
+抑制	yi zhi	252
+抑制胃酸	yi zhi wei suan	656
+医嘱	yi zhu	223
+乙状结肠	yi zhuang jie chang	448
+吲哚美辛	yin duo mei xin	831
+音量	yin liang	499
+引流	yin liu	509
+阴囊	yin nang	320
+引起	yin qi	691
+引吐	yin tu	616
+罂粟碱	ying su jian	800
+影像中心	ying xiang zhong xin	59
+营养不良	ying yang bu liang	568
+用法	yong fa	935
+油剂	you ji	878
+有机磷中毒	you ji lin zhong du	654
+有机整体	you ji zheng ti	597
+有效咳嗽	you xiao ke sou	423
+右眼	you yan	913
+预防	yu fang	625
+预防压疮	yu fang ya chuang	483
+淤血红润期	yu xue hong run qi	151
+院办	yuan ban	7
+院感科	yuan gan ke	57
+原因	yuan yin	692
+孕妇	yun fu	300
+运用	yun yong	594
+暂空床	zan kong chuang	203
+脏器出血	zang qi chu xie	304
+早期治疗	zao qi zhi liao	671
+责任制护理	ze ren zhi hu li	260
+增加排血量	zeng jia pai xue liang	679
+震荡	zhen dang	421
+阵发性室上性心动过速	zhen fa xing shi shang xing xin dong guo su	664
+枕颌带牵引	zhen he dai qian yin	72
+枕后	zhen hou	322
+镇静	zhen jing	632
+针灸	zhen jiu	274
+整洁性	zheng jie xing	504
+蒸馏水	zheng liu shui	901
+正肾	zheng shen	770
+整体护理	zheng ti hu li	604
+致病	zhi bing	546
+直肠	zhi chang	449
+指骨牵引	zhi gu qian yin	68
+治疗	zhi liao	704
+治疗碗镊子	zhi liao wan nie zi	198
+支气管哮喘发作	zhi qi guan xiao chuan fa zuo	480
+指示	zhi shi	934
+止酸	zhi suan	635
+窒息	zhi xi	693
+止血	zhi xue	643
+止血带	zhi xue dai	185
+中凹卧位	zhong ao wo wei	493
+中等热	zhong deng re	111
+中和胃酸	zhong he wei suan	638
+中华护理学会	zhong hua hu li xue hui	258
+中枢安定作用	zhong shu an ding zuo yong	645
+中枢性	zhong shu xing	687
+中西医结合科	zhong xi yi jie he ke	19
+中心供氧	zhong xin gong yang	195
+中心静脉	zhong xin jing mai	356
+中心吸引	zhong xin xi yin	194
+中医科	zhong yi ke	20
+周围性	zhou wei xing	686
+主观	zhu guan	534
+主管护师	zhu guan hu shi	289
+主管技师	zhu guan ji shi	279
+助教	zhu jiao	294
+主任护师	zhu ren hu shi	287
+主任技师	zhu ren ji shi	277
+主任医师	zhu ren yi shi	282
+注射剂	zhu she ji	872
+注射原则	zhu she yuan ze	390
+注意事项	zhu yi shi xiang	348
+主治医师	zhu zhi yi shi	284
+状态	zhuang tai	578
+椎管内麻醉	zhui guan nei ma zui	495
+子宫	zi gong	446
+子宫复原	zi gong fu yuan	441
+自我感觉	zi wo gan jue	577
+自我实现的需要	zi wo shi xian de xu yao	238
+自在	zi zai	583
+足底	zu di	312
+组织损伤破裂	zu zhi sun shang po lie	327
+组织性缺氧	zu zhi xing que yang	413
+左侧卧位	zuo ce wo wei	357
+左眼	zuo yan	912
+左氧氟沙星	zuo yang fu sha xing	840

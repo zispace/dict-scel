@@ -1,0 +1,858 @@
+# 词库名称: 最新眼科诊断（新农合）
+# 词库分类: 医疗
+# 词库描述: 最新眼科诊断（新农合）
+# 词条样例: 中心性角膜溃疡、边缘性角膜溃疡、浅层点状角膜炎、小泡性角膜结膜炎、角膜血管翳、大疱性角膜结膜炎
+# 解析词数: 856
+# 解析异常: 5
+
+白内障	bai nei zhang	438
+白内障术后玻璃体综合征	bai nei zhang shu hou bo li ti zong he zheng	112
+瘢痕性倒睫	ban hen xing dao jie	827
+瘢痕性睑外翻	ban hen xing jian wai fan	824
+暴露性角膜炎	bao lu xing jiao mo yan	115
+鼻泪管闭锁	bi lei guan bi suo	509
+鼻泪管狭窄	bi lei guan xia zhai	342
+鼻泪管阻塞	bi lei guan zu se	510
+闭塞性视网膜动脉炎	bi se xing shi wang mo dong mai yan	692
+变态反应性虹膜睫状体炎	bian tai fan ying xing hong mo jie zhuang ti yan	668
+变性近视	bian xing jin shi	368
+变应性结膜炎	bian ying xing jie mo yan	531
+边缘性角膜变性	bian yuan xing jiao mo bian xing	138
+边缘性角膜溃疡	bian yuan xing jiao mo kui yang	853
+表层巩膜炎	biao ceng gong mo yan	82
+并发性白内障	bing fa xing bai nei zhang	239
+玻璃体变性	bo li ti bian xing	614
+玻璃体出血	bo li ti chu xie	618
+玻璃体黄斑牵拉综合征	bo li ti huang ban qian la zong he zheng	615
+玻璃体混浊	bo li ti hun zhuo	617
+玻璃体疾患	bo li ti ji huan	167
+玻璃体囊肿	bo li ti nang zhong	616
+玻璃体内结晶沉积	bo li ti nei jie jing chen ji	250
+玻璃体脓肿	bo li ti nong zhong	609
+玻璃体疝	bo li ti shan	619
+玻璃体特指疾患	bo li ti te zhi ji huan	359
+玻璃体脱出	bo li ti tuo chu	273
+玻璃体脱离	bo li ti tuo li	613
+玻璃体萎缩	bo li ti wei suo	612
+玻璃体液化	bo li ti ye hua	611
+玻璃体异物	bo li ti yi wu	821
+播散性脉络膜视网膜炎	bo san xing mai luo mo shi wang mo yan	630
+不伴有结膜炎浅层角膜炎	bu ban you jie mo yan qian ceng jiao mo yan	113
+不规则眼运动	bu gui ze yan yun dong	350
+布郎鞘综合征	bu lang qiao zong he zheng	470
+布鲁氏杆菌性眼色素膜炎	bu lu shi gan jun xing yan se su mo yan	71
+蚕蚀性角膜溃疡	can shi xing jiao mo kui yang	854
+陈旧性玻璃体异物	chen jiu xing bo li ti yi wu	746
+陈旧性巩膜异物	chen jiu xing gong mo yi wu	794
+陈旧性巩膜异物遗留	chen jiu xing gong mo yi wu yi liu	820
+陈旧性虹膜睫状体炎	chen jiu xing hong mo jie zhuang ti yan	636
+陈旧性脉络膜视网膜炎	chen jiu xing mai luo mo shi wang mo yan	628
+陈旧性视网膜脱离	chen jiu xing shi wang mo tuo li	410
+陈旧性眼睑损伤	chen jiu xing yan jian sun shang	25
+陈旧性眼睑异物	chen jiu xing yan jian yi wu	559
+陈旧性眼内磁性异物	chen jiu xing yan nei ci xing yi wu	747
+陈旧性眼内非磁性异物	chen jiu xing yan nei fei ci xing yi wu	210
+陈旧性眼前房非磁性异物	chen jiu xing yan qian fang fei ci xing yi wu	796
+陈旧性眼球内非磁性异物	chen jiu xing yan qiu nei fei ci xing yi wu	795
+陈旧性眼烧伤	chen jiu xing yan shao shang	20
+陈旧性眼损伤	chen jiu xing yan sun shang	24
+出血性脉络膜脱离	chu xue xing mai luo mo tuo li	595
+创伤性白内障	chuang shang xing bai nei zhang	436
+创伤性虹膜睫状体炎	chuang shang xing hong mo jie zhuang ti yan	663
+创伤性脉络膜视网膜病	chuang shang xing mai luo mo shi wang mo bing	292
+创伤性脉络膜脱离	chuang shang xing mai luo mo tuo li	697
+创伤性青光眼	chuang shang xing qing guang yan	380
+创伤性视网膜病变	chuang shang xing shi wang mo bing bian	620
+创伤性视网膜裂孔	chuang shang xing shi wang mo lie kong	406
+创伤性眼内异物	chuang shang xing yan nei yi wu	19
+垂直斜视	chui zhi xie shi	371
+春季卡他性结膜炎	chun ji ka ta xing jie mo yan	530
+大泡性角膜病	da pao xing jiao mo bing	737
+大泡性角膜病变	da pao xing jiao mo bing bian	161
+大疱性角膜结膜炎	da pao xing jiao mo jie mo yan	839
+大泡性角膜炎	da pao xing jiao mo yan	842
+大泡性视网膜脱离	da pao xing shi wang mo tuo li	419
+带状角膜病变	dai zhuang jiao mo bing bian	525
+带状疱疹性眼炎	dai zhuang pao zhen xing yan yan	73
+单眼固定综合征	dan yan gu ding zong he zheng	472
+单眼盲另一眼视力低下	dan yan mang ling yi yan shi li di xia	605
+单眼视力下降	dan yan shi li xia jiang	604
+第六展神经麻痹	di liu zhan shen jing ma bi	174
+第三动眼神经麻痹	di san dong yan shen jing ma bi	142
+第四滑车神经麻痹	di si hua che shen jing ma bi	87
+低眼压症	di yan ya zheng	180
+电光性眼炎	dian guang xing yan yan	851
+动眼神经恶性肿瘤	dong yan shen jing e xing zhong liu	64
+动眼神经良性肿瘤	dong yan shen jing liang xing zhong liu	54
+动眼神经损伤	dong yan shen jing sun shang	10
+动眼神经炎	dong yan shen jing yan	584
+毒性眼前节综合征	du xing yan qian jie zong he zheng	797
+短暂性视网膜动脉阻塞	duan zan xing shi wang mo dong mai zu se	301
+恶性青光眼	e xing qing guang yan	385
+反应性角膜炎	fan ying xing jiao mo yan	819
+放射性白内障	fang she xing bai nei zhang	102
+废用性内斜视	fei yong xing nei xie shi	706
+废用性弱视	fei yong xing ruo shi	366
+废用性外斜视	fei yong xing wai xie shi	703
+分离性垂直斜视	fen li xing chui zhi xie shi	474
+复发性虹膜睫状体炎	fu fa xing hong mo jie zhuang ti yan	726
+复发性角膜糜烂	fu fa xing jiao mo mi lan	729
+复发性视网膜脱离	fu fa xing shi wang mo tuo li	418
+复视	fu shi	454
+干眼症	gan yan zheng	848
+干眼综合征	gan yan zong he zheng	548
+高度近视	gao du jin shi	463
+高度近视性脉络膜视网膜病变	gao du jin shi xing mai luo mo shi wang mo bing bian	304
+高血压性视网膜病变	gao xue ya xing shi wang mo bing bian	808
+高眼压症	gao yan ya zheng	391
+格子状角膜营养不良	ge zi zhuang jiao mo ying yang bu liang	351
+巩膜黑变病	gong mo hei bian bing	764
+巩膜坏死	gong mo huai si	214
+巩膜疾患	gong mo ji huan	190
+巩膜溃疡	gong mo kui yang	768
+巩膜瘘	gong mo lou	750
+巩膜囊肿	gong mo nang zhong	765
+巩膜脓肿	gong mo nong zhong	767
+巩膜葡萄肿	gong mo pu tao zhong	763
+巩膜肉芽肿	gong mo rou ya zhong	762
+巩膜特指疾患	gong mo te zhi ji huan	97
+巩膜外层炎	gong mo wai ceng yan	168
+巩膜炎	gong mo yan	766
+巩膜粘连	gong mo zhan lian	761
+共同性斜视	gong tong xing xie shi	316
+鼓膜穿孔	gu mo chuan kong	374
+鼓膜鼓室上隐窝穿孔	gu mo gu shi shang yin wo chuan kong	245
+鼓膜疾患	gu mo ji huan	312
+鼓膜紧张部穿孔	gu mo jin zhang bu chuan kong	101
+鼓膜松弛部穿孔	gu mo song chi bu chuan kong	259
+鼓膜特指边缘性穿孔	gu mo te zhi bian yuan xing chuan kong	375
+鼓膜特指穿孔	gu mo te zhi chuan kong	84
+鼓膜特指疾患	gu mo te zhi ji huan	163
+鼓膜中心穿孔	gu mo zhong xin chuan kong	306
+鼓室硬化	gu shi ying hua	88
+核间性眼肌瘫痪	he jian xing yan ji tan huan	93
+核硬化性白内障	he ying hua xing bai nei zhang	421
+黑矇	hei meng	446
+虹膜变性	hong mo bian xing	649
+虹膜出血	hong mo chu xie	653
+虹膜和睫状体变性	hong mo he jie zhuang ti bian xing	253
+虹膜和睫状体疾患	hong mo he jie zhuang ti ji huan	184
+虹膜和睫状体特指疾患	hong mo he jie zhuang ti te zhi ji huan	284
+虹膜和睫状体特指血管疾患	hong mo he jie zhuang ti te zhi xue guan ji huan	262
+虹膜和睫状体特指粘连和破裂	hong mo he jie zhuang ti te zhi zhan lian he po lie	266
+虹膜红变	hong mo hong bian	651
+虹膜角膜内皮综合征	hong mo jiao mo nei pi zong he zheng	633
+虹膜睫状体和前房囊肿	hong mo jie zhuang ti he qian fang nang zhong	200
+虹膜睫状体炎	hong mo jie zhuang ti yan	148
+虹膜睫状体炎性青光眼	hong mo jie zhuang ti yan xing qing guang yan	379
+虹膜离断	hong mo li duan	645
+虹膜麻痹	hong mo ma bi	597
+虹膜囊肿	hong mo nang zhong	647
+虹膜脓肿	hong mo nong zhong	661
+虹膜膨隆	hong mo peng long	376
+虹膜劈裂症	hong mo pi lie zheng	648
+虹膜前增殖膜	hong mo qian zeng zhi mo	635
+虹膜脱出	hong mo tuo chu	634
+虹膜萎缩	hong mo wei suo	650
+虹膜新生血管	hong mo xin sheng xue guan	652
+虹膜炎	hong mo yan	657
+虹膜异色性白内障	hong mo yi se xing bai nei zhang	434
+虹膜异色性睫状体炎	hong mo yi se xing jie zhuang ti yan	662
+虹膜粘连	hong mo zhan lian	644
+虹膜肿物	hong mo zhong wu	370
+后发性白内障	hou fa xing bai nei zhang	234
+后睫状体炎	hou jie zhuang ti yan	176
+后囊下型老年性白内障	hou nang xia xing lao nian xing bai nei zhang	423
+后天性白内障	hou tian xing bai nei zhang	427
+后天性无晶体	hou tian xing wu jing ti	424
+后天性眼睑畸形	hou tian xing yan jian ji xing	563
+后天性眼内眦畸形	hou tian xing yan nei zi ji xing	560
+后天性眼外眦畸形	hou tian xing yan wai zi ji xing	558
+滑车神经麻痹	hua che shen jing ma bi	583
+化脓性角膜炎	hua nong xing jiao mo yan	840
+化脓性眼内炎	hua nong xing yan nei yan	330
+环状视网膜病	huan zhuang shi wang mo bing	806
+黄斑玻璃样疣	huang ban bo li yang you	486
+黄斑出血	huang ban chu xie	478
+黄斑和后极变性	huang ban he hou ji bian xing	222
+黄斑裂孔	huang ban lie kong	484
+黄斑囊肿	huang ban nang zhong	483
+黄斑前膜	huang ban qian mo	147
+黄斑水肿	huang ban shui zhong	624
+黄斑皱折	huang ban zhou zhe	485
+会聚性共同性斜视	hui ju xing gong tong xing xie shi	170
+混合性白内障	hun he xing bai nei zhang	428
+混合型青光眼	hun he xing qing guang yan	394
+继发性白内障	ji fa xing bai nei zhang	430
+继发性虹膜炎	ji fa xing hong mo yan	656
+继发性内斜视	ji fa xing nei xie shi	221
+继发性视网膜病变	ji fa xing shi wang mo bing bian	626
+继发性视网膜脱离	ji fa xing shi wang mo tuo li	417
+继发性外斜视	ji fa xing wai xie shi	325
+继发于眼部疾患青光眼	ji fa yu yan bu ji huan qing guang yan	108
+继发于眼部炎症青光眼	ji fa yu yan bu yan zheng qing guang yan	364
+继发于眼外伤的青光眼	ji fa yu yan wai shang de qing guang yan	206
+集合不全和过度	ji he bu quan he guo du	321
+寄生虫性眼内炎	ji sheng chong xing yan nei yan	188
+机械性斜视	ji xie xing xie shi	209
+急性闭角型青光眼	ji xing bi jiao xing qing guang yan	384
+急性变应性结膜炎	ji xing bian ying xing jie mo yan	241
+急性鼓膜炎	ji xing gu mo yan	199
+急性虹膜睫状体炎	ji xing hong mo jie zhuang ti yan	217
+急性结膜炎	ji xing jie mo yan	528
+急性泪囊炎	ji xing lei nang yan	544
+急性泪囊周围炎	ji xing lei nang zhou wei yan	542
+急性泪腺炎	ji xing lei xian yan	552
+急性泪小管炎	ji xing lei xiao guan yan	541
+鸡眼	ji yan	35
+基质性角膜炎	ji zhi xing jiao mo yan	339
+假性白内障	jia xing bai nei zhang	803
+假性囊膜剥脱综合征	jia xing nang mo bo tuo zong he zheng	387
+假性视乳头水肿	jia xing shi ru tou shui zhong	587
+假性翼状胬肉	jia xing yi zhuang nu rou	778
+甲状腺功能亢进性突眼	jia zhuang xian gong neng kang jin xing tu yan	42
+家族性渗出性玻璃体视网膜病变	jia zu xing shen chu xing bo li ti shi wang mo bing bian	490
+睑板腺囊肿	jian ban xian nang zhong	267
+睑板腺囊肿霰粒肿	jian ban xian nang zhong xian li zhong	835
+睑裂斑	jian lie ban	675
+睑裂狭小	jian lie xia xiao	578
+睑内翻和倒睫	jian nei fan he dao jie	144
+睑球粘连	jian qiu zhan lian	784
+睑外翻	jian wai fan	352
+睑腺炎	jian xian yan	838
+间歇性闭角型青光眼	jian xie xing bi jiao xing qing guang yan	382
+间歇性内斜视	jian xie xing nei xie shi	699
+间歇性外斜视	jian xie xing wai xie shi	700
+间歇性斜视	jian xie xing xie shi	133
+睑缘结膜炎	jian yuan jie mo yan	331
+睑缘炎	jian yuan yan	834
+睑缘粘连	jian yuan zhan lian	577
+浆液性视网膜脱离	jiang ye xing shi wang mo tuo li	408
+交感性眼炎	jiao gan xing yan yan	756
+角结膜增生	jiao jie mo zeng sheng	777
+角膜白斑	jiao mo bai ban	741
+角膜瘢痕	jiao mo ban hen	815
+角膜斑翳	jiao mo ban yi	740
+角膜变性	jiao mo bian xing	186
+角膜层改变	jiao mo ceng gai bian	345
+角膜沉着物	jiao mo chen zhuo wu	814
+角膜穿孔	jiao mo chuan kong	90
+角膜干燥症	jiao mo gan zao zheng	519
+角膜黑变病	jiao mo hei bian bing	738
+角膜后弹性层膨出	jiao mo hou tan xing ceng peng chu	521
+角膜混浊	jiao mo hun zhuo	739
+角膜疾患	jiao mo ji huan	179
+角膜畸形	jiao mo ji xing	255
+角膜结膜化	jiao mo jie mo hua	670
+角膜结膜炎	jiao mo jie mo yan	187
+角膜溃疡	jiao mo kui yang	128
+角膜溃疡性穿孔	jiao mo kui yang xing chuan kong	856
+角膜老年环	jiao mo lao nian huan	736
+角膜瘘	jiao mo lou	751
+角膜囊肿	jiao mo nang zhong	730
+角膜内皮失代偿	jiao mo nei pi shi dai chang	196
+角膜内皮营养不良	jiao mo nei pi ying yang bu liang	131
+角膜脓肿	jiao mo nong zhong	846
+角膜皮赘	jiao mo pi zhui	518
+角膜葡萄膜炎	jiao mo pu tao mo yan	658
+角膜葡萄肿	jiao mo pu tao zhong	732
+角膜溶解	jiao mo rong jie	520
+角膜软化	jiao mo ruan hua	524
+角膜色素沉着	jiao mo se su chen zhuo	261
+角膜上皮脱落	jiao mo shang pi tuo luo	728
+角膜水肿	jiao mo shui zhong	812
+角膜特指疾患	jiao mo te zhi ji huan	271
+角膜新血管形成	jiao mo xin xue guan xing cheng	309
+角膜血管翳	jiao mo xue guan yi	843
+角膜血管影	jiao mo xue guan ying	341
+角膜血染	jiao mo xue ran	813
+角膜炎	jiao mo yan	742
+角膜营养不良	jiao mo ying yang bu liang	733
+角膜云翳	jiao mo yun yi	816
+角膜粘连性白斑	jiao mo zhan lian xing bai ban	817
+角膜肿物	jiao mo zhong wu	727
+交替性内斜视	jiao ti xing nei xie shi	600
+交替性外斜视	jiao ti xing wai xie shi	704
+结节性脉络膜炎	jie jie xing mai luo mo yan	517
+结节状角膜变性	jie jie zhuang jiao mo bian xing	735
+结膜瘢痕	jie mo ban hen	783
+结膜变性	jie mo bian xing	377
+结膜沉着物	jie mo chen zhuo wu	676
+结膜出血	jie mo chu xie	782
+结膜干燥	jie mo gan zao	673
+结膜疾患	jie mo ji huan	347
+结膜角化	jie mo jiao hua	671
+结膜结石	jie mo jie shi	672
+结膜溃疡	jie mo kui yang	682
+结膜淋巴管扩张	jie mo lin ba guan kuo zhang	779
+结膜囊畸形	jie mo nang ji xing	776
+结膜囊肿	jie mo nang zhong	781
+结膜溶解	jie mo rong jie	772
+结膜肉芽肿	jie mo rou ya zhong	527
+结膜色素沉着病	jie mo se su chen zhuo bing	373
+结膜水肿	jie mo shui zhong	780
+结膜松驰	jie mo song chi	775
+结膜特指疾患	jie mo te zhi ji huan	205
+结膜铁质沉着症	jie mo tie zhi chen zhuo zheng	674
+结膜脱垂	jie mo tuo chui	773
+结膜息肉	jie mo xi rou	774
+结膜炎	jie mo yan	680
+结膜银质沉着病	jie mo yin zhi chen zhuo bing	313
+结膜肿物	jie mo zhong wu	769
+睫状体变性	jie zhuang ti bian xing	166
+睫状体出血	jie zhuang ti chu xie	143
+睫状体离断	jie zhuang ti li duan	643
+睫状体囊肿	jie zhuang ti nang zhong	233
+睫状体新生血管	jie zhuang ti xin sheng xue guan	111
+近乳头性脉络膜视网膜炎	jin ru tou xing mai luo mo shi wang mo yan	632
+近视	jin shi	462
+进行性眼外肌麻痹	jin xing xing yan wai ji ma bi	303
+晶体后囊膜破裂	jing ti hou nang mo po lie	435
+晶体混浊	jing ti hun zhuo	426
+晶体诱发性眼色素膜炎	jing ti you fa xing yan se su mo yan	665
+晶状体不全脱位	jing zhuang ti bu quan tuo wei	442
+晶状体疾患	jing zhuang ti ji huan	298
+晶状体缺失	jing zhuang ti que shi	443
+晶状体溶解性青光眼	jing zhuang ti rong jie xing qing guang yan	397
+晶状体特指疾患	jing zhuang ti te zhi ji huan	141
+晶状体脱位	jing zhuang ti tuo wei	104
+晶状体脱位性青光眼	jing zhuang ti tuo wei xing qing guang yan	398
+晶状体完全脱位	jing zhuang ti wan quan tuo wei	441
+晶状体性青光眼	jing zhuang ti xing qing guang yan	399
+局灶性脉络膜视网膜炎	ju zao xing mai luo mo shi wang mo yan	157
+绝对期青光眼	jue dui qi qing guang yan	749
+卡恩斯塞尔综合征	ka en si sai er zong he zheng	718
+卡他性结膜炎	ka ta xing jie mo yan	529
+开放性眼部损伤	kai fang xing yan bu sun shang	79
+开放性眼睑异物	kai fang xing yan jian yi wu	12
+科茨病	ke ci bing	807
+科根综合征	ke gen zong he zheng	845
+可疑青光眼	ke yi qing guang yan	94
+孔源性视网膜脱离	kong yuan xing shi wang mo tuo li	413
+眶部粘液囊肿	kuang bu nian ye nang zhong	536
+眶蜂窝织炎	kuang feng wo zhi yan	502
+眶肌炎	kuang ji yan	496
+眶内陈旧性异物	kuang nei chen jiu xing yi wu	538
+眶内上皮样囊肿	kuang nei shang pi yang nang zhong	535
+眶内血肿	kuang nei xue zhong	311
+眶内炎	kuang nei yan	498
+眶内肿物	kuang nei zhong wu	532
+眶上裂综合征	kuang shang lie zong he zheng	716
+扩大盲点	kuo da mang dian	453
+老年环	lao nian huan	734
+老年性白内障	lao nian xing bai nei zhang	420
+老年性白内障莫尔加尼型	lao nian xing bai nei zhang mo er jia ni xing	281
+老年性白内障未特指	lao nian xing bai nei zhang wei te zhi	275
+老年性成熟期白内障	lao nian xing cheng shu qi bai nei zhang	422
+老年性初期白内障	lao nian xing chu qi bai nei zhang	229
+老年性核性白内障	lao nian xing he xing bai nei zhang	235
+老年性黄斑变性	lao nian xing huang ban bian xing	482
+老年性睑外翻	lao nian xing jian wai fan	823
+老年性未熟期白内障	lao nian xing wei shu qi bai nei zhang	296
+老视	lao shi	459
+泪道关闭不全	lei dao guan bi bu quan	512
+泪道急性炎症	lei dao ji xing yan zheng	194
+泪道慢性炎症	lei dao man xing yan zheng	248
+泪道特指改变	lei dao te zhi gai bian	197
+泪道狭窄	lei dao xia zhai	280
+泪道炎症	lei dao yan zheng	545
+泪道阻塞	lei dao zu se	323
+泪点外翻	lei dian wai fan	511
+泪点狭窄	lei dian xia zhai	507
+泪管肉芽肿	lei guan rou ya zhong	372
+泪囊瘘	lei nang lou	505
+泪囊囊肿	lei nang nang zhong	506
+泪囊脓肿	lei nang nong zhong	543
+泪囊肿物	lei nang zhong wu	362
+泪器系疾患	lei qi xi ji huan	177
+泪器系特指疾患	lei qi xi te zhi ji huan	99
+泪石	lei shi	335
+泪腺囊肿	lei xian nang zhong	149
+泪腺特指疾患	lei xian te zhi ji huan	198
+泪腺脱垂	lei xian tuo chui	549
+泪腺萎缩	lei xian wei suo	547
+泪腺炎	lei xian yan	324
+泪腺炎性假瘤	lei xian yan xing jia liu	116
+泪小管断裂	lei xiao guan duan lie	503
+泪小管瘘	lei xiao guan lou	504
+泪小管阻塞	lei xiao guan zu se	508
+泪液分泌过少	lei ye fen mi guo shao	550
+泪溢	lei yi	546
+连续性内斜视	lian xu xing nei xie shi	705
+连续性外斜视	lian xu xing wai xie shi	702
+良性阵发性眩晕	liang xing zhen fa xing xuan yun	274
+乱睫	luan jie	565
+洛氏综合症眼脑肾综合症	luo shi zong he zheng yan nao shen zong he zheng	45
+麻痹性睑外翻	ma bi xing jian wai fan	825
+麻痹性外斜视	ma bi xing wai xie shi	717
+麻痹性斜视	ma bi xing xie shi	211
+脉络膜变性	mai luo mo bian xing	151
+脉络膜出血	mai luo mo chu xie	106
+脉络膜疾患	mai luo mo ji huan	86
+脉络膜破裂	mai luo mo po lie	596
+脉络膜渗出	mai luo mo shen chu	694
+脉络膜视网膜瘢痕	mai luo mo shi wang mo ban hen	287
+脉络膜视网膜炎	mai luo mo shi wang mo yan	265
+脉络膜特指疾患	mai luo mo te zhi ji huan	278
+脉络膜脱离	mai luo mo tuo li	329
+脉络膜萎缩	mai luo mo wei suo	514
+脉络膜新生血管	mai luo mo xin sheng xue guan	809
+脉络膜硬化	mai luo mo ying hua	722
+脉络膜肿物	mai luo mo zhong wu	693
+慢性闭角型青光眼	man xing bi jiao xing qing guang yan	383
+慢性鼓膜炎	man xing gu mo yan	293
+慢性虹膜睫状体炎	man xing hong mo jie zhuang ti yan	360
+慢性结膜炎	man xing jie mo yan	526
+慢性泪囊炎	man xing lei nang yan	513
+慢性泪腺炎	man xing lei xian yan	551
+慢性泪小管炎	man xing lei xiao guan yan	349
+慢性眼色素膜炎	man xing yan se su mo yan	724
+慢性眼色素膜炎慢性葡萄膜炎	man xing yan se su mo yan man xing pu tao mo yan	723
+盲单眼	mang dan yan	282
+盲双眼	mang shuang yan	445
+眉毛脱落	mei mao tuo luo	107
+梅尼埃病	mei ni ai bing	136
+迷路机能减退	mi lu ji neng jian tui	137
+迷路瘘管	mi lu lou guan	155
+迷路炎	mi lu yan	326
+膜性白内障	mo xing bai nei zhang	429
+囊虫病眼	nang chong bing yan	75
+粘液脓性结膜炎	nian ye nong xing jie mo yan	127
+念珠菌性眼内炎	nian zhu jun xing yan nei yan	67
+尿道眼关节综合征	niao dao yan guan jie zong he zheng	34
+泡性结膜炎	pao xing jie mo yan	681
+疱疹性眼炎	pao zhen xing yan yan	74
+皮质类固醇诱发青光眼	pi zhi lei gu chun you fa qing guang yan	395
+皮质盲	pi zhi mang	585
+皮质型老年性白内障	pi zhi xing lao nian xing bai nei zhang	322
+偏盲	pian mang	452
+葡萄膜渗漏综合征	pu tao mo shen lou zong he zheng	695
+浅层点状角膜炎	qian ceng dian zhuang jiao mo yan	850
+浅层角膜结膜炎	qian ceng jiao mo jie mo yan	118
+前房积脓性虹膜睫状体炎	qian fang ji nong xing hong mo jie zhuang ti yan	725
+前房积脓性角膜溃疡	qian fang ji nong xing jiao mo kui yang	852
+前房积血	qian fang ji xue	160
+前房角后退	qian fang jiao hou tui	640
+前房角破裂	qian fang jiao po lie	638
+前房角狭窄	qian fang jiao xia zhai	637
+前房角新生血管	qian fang jiao xin sheng xue guan	302
+前房角粘连	qian fang jiao zhan lian	639
+前房囊肿	qian fang nang zhong	121
+前庭功能特指疾患	qian ting gong neng te zhi ji huan	150
+前庭功能障碍	qian ting gong neng zhang ai	185
+前庭神经元炎	qian ting shen jing yuan yan	353
+牵引性视网膜脱离	qian yin xing shi wang mo tuo li	361
+轻度视力缺损双眼	qing du shi li que sun shuang yan	191
+青光眼	qing guang yan	392
+青光眼睫状体炎综合征	qing guang yan jie zhuang ti yan zong he zheng	276
+青光眼临床前期	qing guang yan lin chuang qian qi	390
+青光眼术后滤过泡漏	qing guang yan shu hou lv guo pao lou	207
+青光眼术后浅前房	qing guang yan shu hou qian qian fang	230
+青光眼术后无前房	qing guang yan shu hou wu qian fang	798
+青光眼性白内障	qing guang yan xing bai nei zhang	433
+球后视神经炎	qiu hou shi shen jing yan	791
+球后炎性假瘤	qiu hou yan xing jia liu	790
+球形角膜	qiu xing jiao mo	731
+屈光不正	qu guang bu zheng	154
+屈光参差	qu guang cen ci	178
+屈光参差性弱视	qu guang cen ci xing ruo shi	456
+屈光疾患	qu guang ji huan	226
+屈光特指疾患	qu guang te zhi ji huan	358
+全部外部眼肌麻痹	quan bu wai bu yan ji ma bi	183
+全色素膜炎	quan se su mo yan	758
+全眼球炎	quan yan qiu yan	608
+缺血性视神经病变	que xue xing shi shen jing bing bian	593
+妊娠合并眼疾病	ren shen he bing yan ji bing	33
+肉芽肿性葡萄膜炎	rou ya zhong xing pu tao mo yan	667
+肉芽肿性色素膜炎	rou ya zhong xing se su mo yan	666
+弱视	ruo shi	457
+散光	san guang	461
+散开性共同性斜视	san kai xing gong tong xing xie shi	219
+色觉缺陷	se jue que xian	244
+色盲	se mang	450
+色素性青光眼	se su xing qing guang yan	388
+沙眼	sha yan	68
+沙眼性角膜炎	sha yan xing jiao mo yan	70
+沙眼性血管翳	sha yan xing xue guan yi	69
+闪辉性玻璃体液化	shan hui xing bo li ti ye hua	100
+上睑下垂	shang jian xia chui	579
+上皮性角膜营养不良	shang pi xing jiao mo ying yang bu liang	523
+上斜视	shang xie shi	227
+深层角膜炎	shen ceng jiao mo yan	847
+渗出性脉络膜脱离	shen chu xing mai luo mo tuo li	696
+渗出性脉络膜炎	shen chu xing mai luo mo yan	631
+渗出性视网膜脱离	shen chu xing shi wang mo tuo li	416
+神经麻痹性角膜炎	shen jing ma bi xing jiao mo yan	743
+神经营养性角膜结膜炎	shen jing ying yang xing jiao mo jie mo yan	192
+视交叉疾患	shi jiao cha ji huan	369
+视交叉综合征	shi jiao cha zong he zheng	586
+视觉性晕	shi jue xing yun	291
+视觉障碍	shi jue zhang ai	294
+视力低下单眼	shi li di xia dan yan	145
+视力缺损双眼	shi li que sun shuang yan	203
+视路疾患	shi lu ji huan	193
+视盘炎	shi pan yan	318
+视皮层疾患	shi pi ceng ji huan	268
+视乳头前膜	shi ru tou qian mo	588
+视乳头水肿	shi ru tou shui zhong	592
+视乳头肿物	shi ru tou zhong wu	204
+视神经病变	shi shen jing bing bian	788
+视神经疾患	shi shen jing ji huan	354
+视神经麻痹	shi shen jing ma bi	786
+视神经盘玻璃疣	shi shen jing pan bo li you	589
+视神经盘颞侧苍白	shi shen jing pan nie ce cang bai	590
+视神经盘水肿	shi shen jing pan shui zhong	272
+视神经盘特指疾患	shi shen jing pan te zhi ji huan	260
+视神经鞘膜内出血	shi shen jing qiao mo nei chu xue	785
+视神经乳头炎	shi shen jing ru tou yan	789
+视神经视网膜炎	shi shen jing shi wang mo yan	516
+视神经受压	shi shen jing shou ya	594
+视神经萎缩	shi shen jing wei suo	125
+视神经炎	shi shen jing yan	787
+施塔加特病	shi ta jia te bing	189
+视网膜瘢痕	shi wang mo ban hen	515
+视网膜变性	shi wang mo bian xing	481
+视网膜部分性动脉阻塞	shi wang mo bu fen xing dong mai zu se	691
+视网膜部分性静脉阻塞	shi wang mo bu fen xing jing mai zu se	684
+视网膜层分离	shi wang mo ceng fen li	110
+视网膜出血	shi wang mo chu xie	124
+视网膜大动脉瘤	shi wang mo da dong mai liu	489
+视网膜动脉供血不足	shi wang mo dong mai gong xue bu zu	689
+视网膜动脉栓塞	shi wang mo dong mai shuan sai	688
+视网膜断裂不伴有脱离	shi wang mo duan lie bu ban you tuo li	182
+视网膜分支动脉阻塞	shi wang mo fen zhi dong mai zu se	690
+视网膜分支静脉阻塞	shi wang mo fen zhi jing mai zu se	687
+视网膜黑变病	shi wang mo hei bian bing	622
+视网膜坏死	shi wang mo huai si	337
+视网膜疾患	shi wang mo ji huan	232
+视网膜静脉周围炎	shi wang mo jing mai zhou wei yan	810
+视网膜静脉阻塞	shi wang mo jing mai zu se	686
+视网膜裂孔	shi wang mo lie kong	404
+视网膜囊肿	shi wang mo nang zhong	412
+视网膜劈裂症	shi wang mo pi lie zheng	411
+视网膜破裂	shi wang mo po lie	405
+视网膜前机化膜	shi wang mo qian ji hua mo	621
+视网膜缺损	shi wang mo que sun	407
+视网膜色素变性	shi wang mo se su bian xing	479
+视网膜色素上皮脱离	shi wang mo se su shang pi tuo li	627
+视网膜撕裂	shi wang mo si lie	403
+视网膜特指疾患	shi wang mo te zhi ji huan	346
+视网膜铁质沉着病	shi wang mo tie zhi chen zhuo bing	753
+视网膜脱离	shi wang mo tuo li	409
+视网膜脱离伴视网膜断裂	shi wang mo tuo li ban shi wang mo duan lie	249
+视网膜微动脉瘤	shi wang mo wei dong mai liu	491
+视网膜萎缩	shi wang mo wei suo	623
+视网膜新生血管	shi wang mo xin sheng xue guan	310
+视网膜血管病变	shi wang mo xue guan bing bian	811
+视网膜血管曲张	shi wang mo xue guan qu zhang	493
+视网膜血管炎	shi wang mo xue guan yan	492
+视网膜血管阻塞	shi wang mo xue guan zu se	117
+视网膜营养障碍	shi wang mo ying yang zhang ai	720
+视网膜中心性静脉阻塞	shi wang mo zhong xin xing jing mai zu se	685
+视网膜中央动脉阻塞	shi wang mo zhong yang dong mai zu se	159
+视网膜周边变性	shi wang mo zhou bian bian xing	480
+视物变形	shi wu bian xing	356
+视物模糊	shi wu mo hu	448
+视野缺损	shi ye que sun	256
+手术后虹膜嵌顿	shou shu hou hong mo qian dun	300
+手术后虹膜脱垂	shou shu hou hong mo tuo chui	103
+手术后结膜瘘	shou shu hou jie mo lou	771
+手术后脉络膜视网膜瘢痕	shou shu hou mai luo mo shi wang mo ban hen	105
+手术后脉络膜脱离	shou shu hou mai luo mo tuo li	698
+手术后视网膜瘢痕	shou shu hou shi wang mo ban hen	120
+手术后无晶体	shou shu hou wu jing ti	425
+手术后眼前房出血	shou shu hou yan qian fang chu xie	4
+束状角膜炎	shu zhuang jiao mo yan	818
+双鼻侧偏盲	shuang bi ce pian mang	451
+双眼视力低下	shuang yan shi li di xia	606
+双眼视力特指疾患	shuang yan shi li te zhi ji huan	317
+双眼运动疾患	shuang yan yun dong ji huan	135
+丝状角膜炎	si zhuang jiao mo yan	243
+糖尿病并眼部病变	tang niao bing bing yan bu bing bian	41
+糖尿病眼漏	tang niao bing yan lou	40
+特指白内障	te zhi bai nei zhang	297
+特指虹膜睫状体炎	te zhi hong mo jie zhuang ti yan	283
+特指急性结膜炎	te zhi ji xing jie mo yan	299
+特指角膜瘢痕和混浊	te zhi jiao mo ban hen he hun zhuo	320
+特指角膜水肿	te zhi jiao mo shui zhong	81
+特指角膜炎	te zhi jiao mo yan	130
+特指结膜血管疾患	te zhi jie mo xue guan ji huan	315
+特指结膜炎	te zhi jie mo yan	333
+特指老年性白内障	te zhi lao nian xing bai nei zhang	348
+特指麻痹性斜视	te zhi ma bi xing xie shi	119
+特指脉络膜视网膜炎	te zhi mai luo mo shi wang mo yan	95
+特指青光眼	te zhi qing guang yan	122
+特指视觉障碍	te zhi shi jue zhang ai	85
+特指视路疾患	te zhi shi lu ji huan	334
+特指视网膜动脉阻塞	te zhi shi wang mo dong mai zu se	228
+特指视网膜脱离	te zhi shi wang mo tuo li	83
+特指视网膜血管阻塞	te zhi shi wang mo xue guan zu se	246
+特指双眼运动疾患	te zhi shuang yan yun dong ji huan	269
+特指斜视	te zhi xie shi	153
+特指增生性视网膜病变	te zhi zeng sheng xing shi wang mo bing bian	139
+特指中心性角膜混浊	te zhi zhong xin xing jiao mo hun zhuo	295
+特指周围性眩晕	te zhi zhou wei xing xuan yun	92
+调节疾患	tiao jie ji huan	328
+调节性内斜视	tiao jie xing nei xie shi	601
+瞳孔闭合	tong kong bi he	91
+瞳孔闭锁	tong kong bi suo	646
+瞳孔功能异常	tong kong gong neng yi chang	340
+瞳孔后粘连	tong kong hou zhan lian	642
+瞳孔括约肌麻痹	tong kong kuo yue ji ma bi	458
+瞳孔膜	tong kong mo	173
+瞳孔散大	tong kong san da	598
+瞳孔缩小	tong kong suo xiao	721
+瞳孔移位	tong kong yi wei	641
+同向性注视麻痹	tong xiang xing zhu shi ma bi	156
+痛性眼肌麻痹	tong xing yan ji ma bi	712
+突然视力丧失	tu ran shi li sang shi	319
+兔眼	tu yan	822
+突眼性情况	tu yan xing qing kuang	343
+外伤性白内障	wai shang xing bai nei zhang	308
+外展神经炎	wai zhan shen jing yan	582
+畏光	wei guang	455
+微斜视	wei xie shi	473
+无虹膜青光眼	wu hong mo qing guang yan	29
+无晶体性青光眼	wu jing ti xing qing guang yan	396
+无晶状体	wu jing zhuang ti	279
+无晶状体性青光眼	wu jing zhuang ti xing qing guang yan	400
+细菌性角膜溃疡	xi jun xing jiao mo kui yang	96
+细菌性角膜炎	xi jun xing jiao mo yan	841
+细菌性结膜炎	xi jun xing jie mo yan	679
+下斜视	xia xie shi	471
+先天性倒睫	xian tian xing dao jie	828
+先天性麻痹性斜视	xian tian xing ma bi xing xie shi	707
+先天性内斜视	xian tian xing nei xie shi	169
+先天性球形角膜伴青光眼	xian tian xing qiu xing jiao mo ban qing guang yan	28
+先天性外斜视	xian tian xing wai xie shi	701
+先天性眼畸形	xian tian xing yan ji xing	30
+先天性眼球震颤	xian tian xing yan qiu zhen chan	603
+小泡性角膜结膜炎	xiao pao xing jiao mo jie mo yan	849
+斜视	xie shi	465
+新生儿睑缘炎	xin sheng er jian yuan yan	833
+新生儿青光眼	xin sheng er qing guang yan	27
+新生血管性青光眼	xin sheng xue guan xing qing guang yan	401
+旋转斜视	xuan zhuan xie shi	475
+血影细胞性青光眼	xue ying xi bao xing qing guang yan	393
+亚急性虹膜睫状体炎	ya ji xing hong mo jie zhuang ti yan	669
+眼白化病	yan bai hua bing	46
+眼部痛	yan bu tong	805
+烟草性弱视	yan cao xing ruo shi	218
+眼挫伤	yan cuo shang	15
+眼底出血	yan di chu xie	477
+眼动脉动脉瘤	yan dong mai dong mai liu	802
+眼动态未定肿瘤	yan dong tai wei ding zhong liu	53
+眼恶性肿瘤	yan e xing zhong liu	77
+眼发育不全	yan fa yu bu quan	32
+咽鼓管疾患	yan gu guan ji huan	357
+咽鼓管开放症	yan gu guan kai fang zheng	314
+咽鼓管特指疾患	yan gu guan te zhi ji huan	252
+咽鼓管阻塞	yan gu guan zu se	365
+眼和附器操作后疾患	yan he fu qi cao zuo hou ji huan	270
+眼和附器疾患	yan he fu qi ji huan	146
+眼和附器特指操作后疾患	yan he fu qi te zhi cao zuo hou ji huan	220
+眼和附器特指疾患	yan he fu qi te zhi ji huan	263
+眼后组织良性肿瘤	yan hou zu zhi liang xing zhong liu	76
+眼坏死型色素膜炎	yan huai si xing se su mo yan	660
+眼肌麻痹	yan ji ma bi	602
+眼肌纤维化	yan ji xian wei hua	129
+眼睑闭合不全	yan jian bi he bu quan	172
+眼睑闭锁	yan jian bi suo	573
+眼检查	yan jian cha	2
+眼睑出血	yan jian chu xie	557
+眼睑带状疱疹	yan jian dai zhuang pao zhen	72
+眼睑淀粉样变性	yan jian dian fen yang bian xing	571
+眼睑多毛症	yan jian duo mao zheng	566
+眼睑发育不全	yan jian fa yu bu quan	26
+眼睑非感染性皮肤病	yan jian fei gan ran xing pi fu bing	242
+眼睑蜂窝组织炎	yan jian feng wo zu zhi yan	836
+眼睑和眼周区域特指变性性疾患	yan jian he yan zhou qu yu te zhi bian xing xing ji huan	158
+眼睑黑变病	yan jian hei bian bing	556
+眼睑坏死	yan jian huai si	569
+眼睑黄斑瘤	yan jian huang ban liu	572
+眼睑黄褐斑	yan jian huang he ban	568
+眼睑疾患	yan jian ji huan	152
+眼睑肌麻痹	yan jian ji ma bi	574
+眼睑角化病	yan jian jiao hua bing	564
+眼睑结缔组织良性肿瘤	yan jian jie di zu zhi liang xing zhong liu	55
+眼睑睫毛脱落	yan jian jie mao tuo luo	567
+眼睑结石	yan jian jie shi	562
+眼睑痉挛	yan jian jing luan	37
+眼睑裂伤	yan jian lie shang	21
+眼睑裂伤伴泪小管断裂	yan jian lie shang ban lei xiao guan duan lie	11
+眼睑瘘	yan jian lou	831
+眼睑内翻	yan jian nei fan	826
+眼睑脓肿	yan jian nong zhong	837
+眼睑皮肤恶性肿瘤	yan jian pi fu e xing zhong liu	63
+眼睑皮肤松驰症	yan jian pi fu song chi zheng	181
+眼睑皮肤松垂	yan jian pi fu song chui	580
+眼睑皮炎	yan jian pi yan	832
+眼睑皮脂腺囊肿	yan jian pi zhi xian nang zhong	555
+眼睑皮赘	yan jian pi zhui	581
+眼睑肉芽肿	yan jian rou ya zhong	830
+眼睑烧伤	yan jian shao shang	8
+眼睑水肿	yan jian shui zhong	561
+眼睑特指疾患	yan jian te zhi ji huan	305
+眼睑特指深部炎症	yan jian te zhi shen bu yan zheng	132
+眼睑特指炎症	yan jian te zhi yan zheng	288
+眼睑退缩	yan jian tui suo	576
+眼睑萎缩	yan jian wei suo	570
+眼睑血肿	yan jian xue zhong	22
+眼睑炎	yan jian yan	216
+眼睑炎性假瘤	yan jian yan xing jia liu	829
+眼睑异物	yan jian yi wu	13
+眼睑粘连性瘢痕	yan jian zhan lian xing ban hen	575
+眼睑肿物	yan jian zhong wu	554
+眼结核	yan jie he	66
+眼结膜脱垂	yan jie mo tuo chui	770
+眼眶出血	yan kuang chu xie	539
+眼眶挫伤	yan kuang cuo shang	9
+眼眶恶性淋巴瘤	yan kuang e xing lin ba liu	62
+眼眶骨膜炎	yan kuang gu mo yan	213
+眼眶骨髓炎	yan kuang gu sui yan	500
+眼眶贯通伤后残留陈旧性异物	yan kuang guan tong shang hou can liu chen jiu xing yi wu	237
+眼眶疾患	yan kuang ji huan	336
+眼眶畸形	yan kuang ji xing	114
+眼眶急性炎症	yan kuang ji xing yan zheng	307
+眼眶假瘤	yan kuang jia liu	534
+眼眶交界恶性肿瘤	yan kuang jiao jie e xing zhong liu	51
+眼眶结核	yan kuang jie he	65
+眼眶静脉曲张	yan kuang jing mai qu zhang	36
+眼眶慢性炎性疾患	yan kuang man xing yan xing ji huan	338
+眼眶囊肿	yan kuang nang zhong	537
+眼眶内脓肿	yan kuang nei nong zhong	162
+眼眶内肉芽肿	yan kuang nei rou ya zhong	499
+眼眶水肿	yan kuang shui zhong	240
+眼眶特指疾患	yan kuang te zhi ji huan	247
+眼眶痛	yan kuang tong	804
+眼眶萎缩	yan kuang wei suo	238
+眼眶炎性假瘤	yan kuang yan xing jia liu	497
+眼眶肿瘤	yan kuang zhong liu	50
+眼眶肿物	yan kuang zhong wu	533
+眼眶综合征	yan kuang zong he zheng	801
+眼良性肿瘤	yan liang xing zhong liu	78
+眼内出血	yan nei chu xue	793
+眼内恶性肿瘤	yan nei e xing zhong liu	60
+眼内炎	yan nei yan	607
+眼内直肌麻痹	yan nei zhi ji ma bi	715
+眼脓肿	yan nong zhong	760
+眼前房出血	yan qian fang chu xie	654
+眼球变性性情况	yan qiu bian xing xing qing kuang	98
+眼球穿通伤伴磁性异物	yan qiu chuan tong shang ban ci xing yi wu	18
+眼球穿通伤伴非磁性异物	yan qiu chuan tong shang ban fei ci xing yi wu	17
+眼球穿通伤伴异物	yan qiu chuan tong shang ban yi wu	80
+眼球恶性肿瘤	yan qiu e xing zhong liu	61
+眼球后退综合征	yan qiu hou tui zong he zheng	468
+眼球后血管瘤	yan qiu hou xue guan liu	56
+眼球后炎症	yan qiu hou yan zheng	495
+眼球疾患	yan qiu ji huan	254
+眼球碱性烧伤	yan qiu jian xing shao shang	5
+眼球筋膜炎	yan qiu jin mo yan	501
+眼球痨	yan qiu lao	719
+眼球良性肿瘤	yan qiu liang xing zhong liu	58
+眼球内陷	yan qiu nei xian	164
+眼球旁囊肿	yan qiu pang nang zhong	800
+眼球烧伤	yan qiu shao shang	7
+眼球酸性烧伤	yan qiu suan xing shao shang	6
+眼球特指变性性疾患	yan qiu te zhi bian xing xing ji huan	236
+眼球特指疾患	yan qiu te zhi ji huan	224
+眼球铁质沉着病	yan qiu tie zhi chen zhuo bing	752
+眼球突出	yan qiu tu chu	494
+眼球脱位	yan qiu tuo wei	792
+眼球萎缩	yan qiu wei suo	748
+眼球移位	yan qiu yi wei	540
+眼球原位癌	yan qiu yuan wei ai	59
+眼球运动障碍	yan qiu yun dong zhang ai	171
+眼球摘除术后状态	yan qiu zhai chu shu hou zhuang tai	1
+眼球展颤	yan qiu zhan chan	599
+眼球震颤	yan qiu zhen chan	344
+眼球肿物	yan qiu zhong wu	134
+眼缺血综合征	yan que xue zong he zheng	799
+眼色素层脑膜炎	yan se su ceng nao mo yan	664
+眼色素膜炎葡萄膜炎	yan se su mo yan pu tao mo yan	655
+眼上斜肌麻痹	yan shang xie ji ma bi	714
+眼上直肌麻痹	yan shang zhi ji ma bi	713
+眼失明	yan shi ming	444
+眼损伤	yan sun shang	14
+眼铁质沉着病	yan tie zhi chen zhuo bing	755
+眼痛	yan tong	332
+眼铜屑沉着病	yan tong xie chen zhuo bing	754
+眼外肌良性肿瘤	yan wai ji liang xing zhong liu	57
+眼外直肌麻痹	yan wai zhi ji ma bi	711
+眼下斜肌麻痹	yan xia xie ji ma bi	710
+眼下直肌麻痹	yan xia zhi ji ma bi	709
+眼险蜀黍红斑险糙皮病	yan xian shu shu hong ban xian cao pi bing	47
+眼险肿物	yan xian zhong wu	553
+眼型格林氏病浸润性突眼	yan xing ge lin shi bing jin run xing tu yan	43
+眼压过高	yan ya guo gao	389
+眼炎	yan yan	678
+眼炎后青光眼	yan yan hou qing guang yan	402
+眼咽型肌营养不良症	yan yan xing ji ying yang bu liang zheng	38
+眼炎性假瘤	yan yan xing jia liu	757
+眼震荡	yan zhen dang	16
+眼肿瘤	yan zhong liu	52
+眼周区挫伤	yan zhou qu cuo shang	23
+岩锥炎	yan zhui yan	212
+眼眦脓肿	yan zi nong zhong	683
+药物性白内障	yao wu xing bai nei zhang	202
+药物性角膜结膜炎	yao wu xing jiao mo jie mo yan	215
+药物性青光眼	yao wu xing qing guang yan	258
+夜盲	ye mang	449
+遗传性角膜营养不良	yi chuan xing jiao mo ying yang bu liang	285
+遗传性脉络膜营养障碍	yi chuan xing mai luo mo ying yang zhang ai	257
+遗传性视神经病	yi chuan xing shi shen jing bing	591
+遗传性视网膜变性	yi chuan xing shi wang mo bian xing	165
+溢泪	yi lei	286
+异色性虹膜炎	yi se xing hong mo yan	659
+义眼台暴露	yi yan tai bao lu	3
+医源性视网膜脱离	yi yuan xing shi wang mo tuo li	415
+翼状胬肉	yi zhuang nu rou	677
+隐斜视	yin xie shi	251
+隐眼	yin yan	31
+婴儿期白内障	ying er qi bai nei zhang	440
+硬化性角膜炎	ying hua xing jiao mo yan	844
+影像不等	ying xiang bu deng	460
+影响眼睑功能特指疾患	ying xiang yan jian gong neng te zhi ji huan	123
+幼年期白内障	you nian qi bai nei zhang	437
+幼年性白内障	you nian xing bai nei zhang	439
+远达性视网膜病	yuan da xing shi wang mo bing	625
+原发性闭角型青光眼	yuan fa xing bi jiao xing qing guang yan	381
+原发性开角型青光眼	yuan fa xing kai jiao xing qing guang yan	225
+原发性视网膜脱离	yuan fa xing shi wang mo tuo li	414
+远视	yuan shi	464
+原田病	yuan tian bing	629
+圆锥角膜	yuan zhui jiao mo	223
+圆锥形角膜	yuan zhui xing jiao mo	522
+运动性内斜视	yun dong xing nei xie shi	231
+运动性外斜视	yun dong xing wai xie shi	195
+早产儿视网膜病变	zao chan er shi wang mo bing bian	89
+早老性白内障	zao lao xing bai nei zhang	126
+泽默林环	ze mo lin huan	431
+增生性玻璃体病变	zeng sheng xing bo li ti bing bian	610
+增生性玻璃体视网膜病变	zeng sheng xing bo li ti shi wang mo bing bian	488
+增生性视网膜病	zeng sheng xing shi wang mo bing	487
+眨眼症	zha yan zheng	39
+粘连性白斑	zhan lian xing bai ban	367
+粘连性角膜炎	zhan lian xing jiao mo yan	745
+粘连性斜视	zhan lian xing xie shi	175
+真菌性角膜炎	zhen jun xing jiao mo yan	744
+正常眼压性青光眼	zheng chang yan ya xing qing guang yan	386
+知觉性内斜视	zhi jue xing nei xie shi	290
+知觉性外斜视	zhi jue xing wai xie shi	201
+中度视力缺损单眼	zhong du shi li que sun dan yan	277
+重度视力缺损单眼	zhong du shi li que sun dan yan	264
+中度视力缺损双眼	zhong du shi li que sun shuang yan	327
+重度视力缺损双眼	zhong du shi li que sun shuang yan	109
+中毒性白内障	zhong du xing bai nei zhang	432
+中毒性弱视	zhong du xing ruo shi	447
+中毒性视神经损害	zhong du xing shi shen jing sun hai	363
+中枢性眩晕	zhong shu xing xuan yun	208
+中枢性眼球震颤	zhong shu xing yan qiu zhen chan	378
+中心性浆液性脉络膜视网膜病变	zhong xin xing jiang ye xing mai luo mo shi wang mo bing bian	476
+中心性角膜溃疡	zhong xin xing jiao mo kui yang	855
+重症肌无力斜视	zhong zheng ji wu li xie shi	708
+昼盲	zhou mang	355
+周围性视网膜变性	zhou wei xing shi wang mo bian xing	289
+主观视觉障碍	zhu guan shi jue zhang ai	140
+转移性眼内炎	zhuan yi xing yan nei yan	759
+综合征	zong he zheng	466

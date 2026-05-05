@@ -1,0 +1,195 @@
+# 词库名称: 心电图诊断用语
+# 词库分类: 医学检验
+# 词库描述: 心电图诊断用语 房室肥大 左心房肥大 P波增宽 呈双峰型 “二尖瓣”型P波 右心房肥大 P波高尖 “肺型P波” P波低平或倒置 P波时间正常 右房肥大 风湿性二尖瓣狭窄 P波时间延长 左心室肥大 QRS综合波时间延长 T波呈低平、双向或倒置 S-T段下移 心电轴左偏 平均电轴轻度左偏
+# 词条样例: 房室肥大、波增宽、呈双峰型、波时间正常、右房肥大、波低平
+# 解析词数: 188
+# 解析异常: 0
+
+变异型心绞痛	bian yi xing xin jiao tong	127
+病态窦房结综合征	bing tai dou fang jie zong he zheng	98
+并行心律	bing xing xin lv	130
+并行性室性心动过速	bing xing xing shi xing xin dong guo su	61
+波倒置	bo dao zhi	171
+波低平	bo di ping	173
+波低平或倒置	bo di ping huo dao zhi	180
+波低平双向	bo di ping shuang xiang	142
+波高大	bo gao da	153
+波高尖	bo gao jian	182
+波时间延长	bo shi jian yan chang	176
+波时间正常	bo shi jian zheng chang	179
+波双向	bo shuang xiang	172
+波增高	bo zeng gao	124
+波增宽	bo zeng kuan	186
+波振幅	bo zhen fu	5
+不同步度双侧束支阻滞	bu tong bu du shuang ce shu zhi zu zhi	22
+不完全性房室脱节	bu wan quan xing fang shi tuo jie	52
+不完全性右束支阻滞	bu wan quan xing you shu zhi zu zhi	14
+不完全性左束支传导阻滞	bu wan quan xing zuo shu zhi chuan dao zu zhi	166
+插入性交界性早搏	cha ru xing jiao jie xing zao bo	44
+呈双峰型	cheng shuang feng xing	185
+呈损伤型抬高	cheng sun shang xing tai gao	154
+传导障碍所致的心律失常	chuan dao zhang ai suo zhi de xin lv shi chang	51
+低血钾	di xue jia	7
+典型心绞痛	dian xing xin jiao tong	140
+电轴右偏	dian zhou you pian	162
+窦房结内游走性心律	dou fang jie nei you zou xing xin lv	109
+窦房结暂停	dou fang jie zan ting	102
+窦房结至房室交界区游走心律	dou fang jie zhi fang shi jiao jie qu you zou xin lv	108
+窦房阻滞	dou fang zu zhi	129
+窦性波	dou xing bo	112
+窦性静止	dou xing jing zhi	103
+窦性停搏	dou xing ting bo	104
+窦性心动过缓	dou xing xin dong guo huan	115
+窦性心动过速	dou xing xin dong guo su	117
+窦性心律不齐	dou xing xin lv bu qi	114
+度房室传导阻滞	du fang shi chuan dao zu zhi	84
+度双侧束支阻滞	du shuang ce shu zhi zu zhi	21
+度型窦房传导阻滞	du xing dou fang chuan dao zu zhi	50
+度型房室传导阻滞	du xing fang shi chuan dao zu zhi	42
+度型房室传导阻滞房室传导阻滞	du xing fang shi chuan dao zu zhi fang shi chuan dao zu zhi	43
+段呈水平型	duan cheng shui ping xing	139
+段呈下斜型下移	duan cheng xia xie xing xia yi	138
+段明显下降	duan ming xian xia jiang	3
+段缺血型下移	duan que xue xing xia yi	141
+段上升	duan shang sheng	123
+段抬高	duan tai gao	126
+段下移	duan xia yi	170
+段压低	duan ya di	6
+短暂窦性停搏	duan zan dou xing ting bo	96
+短阵性室性心动过速	duan zhen xing shi xing xin dong guo su	121
+多形性室性心动过速	duo xing xing shi xing xin dong guo su	62
+多形性室性早搏	duo xing xing shi xing zao bo	77
+多源性室性早搏	duo yuan xing shi xing zao bo	78
+二尖瓣型波	er jian ban xing bo	184
+二联律	er lian lv	76
+反复发作型连续的室性心动过速	fan fu fa zuo xing lian xu de shi xing xin dong guo su	65
+房室传导延迟	fang shi chuan dao yan chi	48
+房室传导阻滞	fang shi chuan dao zu zhi	145
+房室肥大	fang shi fei da	188
+房室交界区逸搏	fang shi jiao jie qu yi bo	89
+房室交界区逸搏心律	fang shi jiao jie qu yi bo xin lv	88
+房室交界区游走心律	fang shi jiao jie qu you zou xin lv	106
+房室结内双径路	fang shi jie nei shuang jing lu	47
+房性并行心律	fang xing bing xing xin lv	73
+房性反复心律	fang xing fan fu xin lv	56
+房性期前收缩	fang xing qi qian shou suo	148
+房性融合波	fang xing rong he bo	87
+房性逸搏	fang xing yi bo	91
+房性逸搏心律	fang xing yi bo xin lv	90
+非呼吸性窦性心律不齐	fei hu xi xing dou xing xin lv bu qi	110
+肺型波	fei xing bo	181
+非阵发性室性心动过速	fei zhen fa xing shi xing xin dong guo su	68
+风湿性二尖瓣狭窄	feng shi xing er jian ban xia zhai	177
+改变	gai bian	158
+高度房室传导阻滞	gao du fang shi chuan dao zu zhi	40
+高血钾	gao xue jia	11
+冠状	guan zhuang	136
+冠状动脉供血不全	guan zhuang dong mai gong xue bu quan	157
+冠状窦性心律	guan zhuang dou xing xin lv	2
+呼吸性窦性心律不齐	hu xi xing dou xing xin lv bu qi	113
+激动起源失常	ji dong qi yuan shi chang	118
+急性冠状动脉供血不全	ji xing guan zhuang dong mai gong xue bu quan	156
+急性心肌梗塞	ji xing xin ji geng se	120
+假性电轴左偏	jia xing dian zhou zuo pian	26
+假性室颤	jia xing shi chan	59
+尖端扭转型室性心动过速	jian duan niu zhuan xing shi xing xin dong guo su	63
+间距	jian ju	111
+间期	jian qi	4
+间期延长	jian qi yan chang	150
+交界区性波	jiao jie qu xing bo	107
+交界性并行心律	jiao jie xing bing xing xin lv	72
+交界性反复心律	jiao jie xing fan fu xin lv	55
+交界性期前收缩	jiao jie xing qi qian shou suo	80
+交界性心律	jiao jie xing xin lv	93
+交界性逸搏	jiao jie xing yi bo	100
+快慢综合征	kuai man zong he zheng	95
+慢性冠状动脉供血不全	man xing guan zhuang dong mai gong xue bu quan	143
+逆行波	ni xing bo	0
+频率依赖性右束支传导阻滞	pin lv yi lai xing you shu zhi chuan dao zu zhi	33
+平均电轴轻度左偏	ping jun dian zhou qing du zuo pian	168
+期前收缩	qi qian shou suo	133
+三联律	san lian lv	75
+三束支传导阻滞	san shu zhi chuan dao zu zhi	16
+室颤前室速	shi chan qian shi su	60
+室内差异传导	shi nei cha yi chuan dao	83
+室内传导阻滞	shi nei chuan dao zu zhi	10
+室内阻滞等	shi nei zu zhi deng	128
+室上性心动过速	shi shang xing xin dong guo su	94
+室性并行心律	shi xing bing xing xin lv	74
+室性反复心律	shi xing fan fu xin lv	54
+室性期前收缩	shi xing qi qian shou suo	147
+室性融合波	shi xing rong he bo	86
+室性心动过速	shi xing xin dong guo su	9
+室性逸搏	shi xing yi bo	99
+室性逸搏心律	shi xing yi bo xin lv	85
+室性早搏	shi xing zao bo	45
+束支传导阻滞	shu zhi chuan dao zu zhi	69
+束支阻滞型	shu zhi zu zhi xing	38
+双侧束支传导阻滞	shuang ce shu zhi chuan dao zu zhi	24
+双侧束支阻滞	shuang ce shu zhi zu zhi	20
+双侧心室肥大	shuang ce xin shi fei da	161
+双向性室性心动过速	shuang xiang xing shi xing xin dong guo su	64
+双支传导阻滞	shuang zhi chuan dao zu zhi	19
+体位性右束支传导阻滞	ti wei xing you shu zhi chuan dao zu zhi	32
+同步度双侧束支阻滞	tong bu du shuang ce shu zhi zu zhi	23
+完全性房室脱节	wan quan xing fang shi tuo jie	53
+完全性右束支阻滞	wan quan xing you shu zhi zu zhi	15
+伪改善	wei gai shan	125
+文氏现象	wen shi xian xiang	41
+下壁心肌梗塞	xia bi xin ji geng se	30
+心电轴左偏	xin dian zhou zuo pian	169
+心动过缓	xin dong guo huan	97
+心动周期	xin dong zhou qi	101
+心房颤动	xin fang chan dong	132
+心房颤动等	xin fang chan dong deng	144
+心房扑动	xin fang pu dong	131
+心律失常	xin lv shi chang	119
+心室颤动	xin shi chan dong	57
+心室夺获	xin shi duo huo	39
+心室夺获及室性融合波	xin shi duo huo ji shi xing rong he bo	66
+心室扑动	xin shi pu dong	58
+心室停搏	xin shi ting bo	8
+心室自搏性心动过速	xin shi zi bo xing xin dong guo su	67
+型预激综合征	xing yu ji zong he zheng	35
+一过性波倒置低平或双向	yi guo xing bo dao zhi di ping huo shuang xiang	152
+一过性波或波	yi guo xing bo huo bo	151
+一过性的心律失常	yi guo xing de xin lv shi chang	149
+一过性段移位	yi guo xing duan yi wei	155
+一过性心律失常	yi guo xing xin lv shi chang	134
+一过性异常波	yi guo xing yi chang bo	135
+异位搏动及异位心律	yi wei bo dong ji yi wei xin lv	92
+异型预激综合征	yi xing yu ji zong he zheng	12
+隐匿性交界性早搏	yin ni xing jiao jie xing zao bo	46
+隐匿性右束支传导阻滞	yin ni xing you shu zhi chuan dao zu zhi	34
+右房肥大	you fang fei da	178
+右房节律	you fang jie lv	1
+右束支传导阻滞	you shu zhi chuan dao zu zhi	37
+右束支传导阻滞合并右心室肥厚	you shu zhi chuan dao zu zhi he bing you xin shi fei hou	36
+右束支阻滞加左后分支阻滞	you shu zhi zu zhi jia zuo hou fen zhi zu zhi	17
+右束支阻滞加左前分支阻滞	you shu zhi zu zhi jia zuo qian fen zhi zu zhi	18
+右心房肥大	you xin fang fei da	183
+右心室肥大	you xin shi fei da	163
+预激综合征	yu ji zong he zheng	70
+阵发性并界性心动过速	zhen fa xing bing jie xing xin dong guo su	79
+阵发性房性心动过速	zhen fa xing fang xing xin dong guo su	82
+阵发性交界性心动过速	zhen fa xing jiao jie xing xin dong guo su	81
+阵发性室上性心动过速	zhen fa xing shi shang xing xin dong guo su	116
+阵发性室性心动过速	zhen fa xing shi xing xin dong guo su	71
+阵发性心动过速	zhen fa xing xin dong guo su	146
+肢体导联	zhi ti dao lian	137
+综合波	zong he bo	105
+综合波变宽	zong he bo bian kuan	122
+综合波高电压	zong he bo gao dian ya	167
+综合波时间延长	zong he bo shi jian yan chang	174
+综合波增宽	zong he bo zeng kuan	159
+综合征	zong he zheng	13
+左后分支传导阻滞	zuo hou fen zhi chuan dao zu zhi	25
+左前分支传导阻滞	zuo qian fen zhi chuan dao zu zhi	164
+左前分支传导阻滞合并肺气肿	zuo qian fen zhi chuan dao zu zhi he bing fei qi zhong	27
+左前分支传导阻滞合并右室肥厚	zuo qian fen zhi chuan dao zu zhi he bing you shi fei hou	28
+左前分支传导阻滞合并左室肥厚	zuo qian fen zhi chuan dao zu zhi he bing zuo shi fei hou	29
+左束支传导阻滞	zuo shu zhi chuan dao zu zhi	31
+左心房肥大	zuo xin fang fei da	187
+左心室肥大	zuo xin shi fei da	175
+左心室肥大伴左前分支传导阻滞	zuo xin shi fei da ban zuo qian fen zhi chuan dao zu zhi	165
+左心室肥厚	zuo xin shi fei hou	160
