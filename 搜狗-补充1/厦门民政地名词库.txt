@@ -1,0 +1,4527 @@
+# 词库名称: 厦门民政地名词库
+# 词库分类: 单位机构名
+# 词库描述: 从“厦门民政地名网”的智能分词组件的本地词库提取的厦门本地词汇，涵盖厦门市所有地名、道路、公交站点、住宅小区、写字楼等词条。
+# 词条样例: 阿里山大厦、埃梯梯科能、艾德花园、安宝、安宝大厦、安乐村塔
+# 解析词数: 4520
+# 解析异常: 0
+
+阿里山大厦	a li shan da sha	4519
+艾德花园	ai de hua yuan	4517
+埃梯梯科能	ai ti ti ke neng	4518
+隘头	ai tou	4516
+安宝	an bao	4515
+安宝大厦	an bao da sha	4514
+垵边	an bian	4494
+庵边	an bian	4501
+庵边头	an bian tou	4500
+垵柄	an bing	4493
+庵顶尾	an ding wei	4499
+安兜	an dou	4513
+安兜北里	an dou bei li	4512
+安兜北路	an dou bei lu	4511
+安海路	an hai lu	4510
+庵后	an hou	4498
+安徽省人事考试	an hui sheng ren shi kao shi	10
+安徽省人事考试工作规则	an hui sheng ren shi kao shi gong zuo gui ze	11
+安乐村塔	an le cun ta	4509
+安乐园路	an le yuan lu	4508
+安岭路	an ling lu	4507
+垵炉	an lu	4492
+安平路	an ping lu	4506
+庵埔头	an pu tou	4497
+垵山	an shan	4491
+安泰花园	an tai hua yuan	4505
+庵头	an tou	4496
+安溪	an xi	4504
+安溪大厦	an xi da sha	4503
+安溪路口	an xi lu kou	4502
+庵仔下	an zai xia	4495
+鳌冠	ao guan	4489
+澳头	ao tou	4486
+澳头路	ao tou lu	4485
+澳头新村	ao tou xin cun	4484
+澳溪	ao xi	4483
+螯园	ao yuan	4490
+鳌园春晖	ao yuan chun hui	4488
+鳌园路	ao yuan lu	4487
+坝宫	ba gong	4481
+坝口	ba kou	4480
+巴厘香墅	ba li xiang shu	4482
+坝上	ba shang	4479
+坝上陈	ba shang chen	4478
+坝上亭	ba shang ting	4477
+坝上许	ba shang xu	4476
+坝仔	ba zai	4475
+坝仔内	ba zai nei	4474
+坝仔埔	ba zai pu	4473
+白城	bai cheng	4472
+百谷	bai gu	4456
+白果山	bai guo shan	4471
+百合花园	bai he hua yuan	4455
+白鹤路	bai he lu	4470
+白鹤岩	bai he yan	4469
+白鹤岩大厦	bai he yan da sha	4468
+白虎岩	bai hu yan	4467
+百花路	bai hua lu	4454
+百花庄	bai hua zhuang	4453
+百家村花园	bai jia cun hua yuan	4452
+百家村路	bai jia cun lu	4451
+白礁	bai jiao	4465
+白交祠	bai jiao ci	4466
+百乐园	bai le yuan	4450
+白莲洲	bai lian zhou	136
+白鹭花园	bai lu hua yuan	4463
+白鹭路	bai lu lu	4462
+白鹿路	bai lu lu	4464
+白鹭洲	bai lu zhou	4461
+白鹭洲东路	bai lu zhou dong lu	4460
+白鹭洲路	bai lu zhou lu	4459
+白马岩	bai ma yan	135
+白石	bai shi	4458
+佰仕佳园	bai shi jia yuan	4449
+白石炮台	bai shi pao tai	4457
+白云林场	bai yun lin chang	137
+百子湾	bai zi wan	65
+坂何公路	ban he gong lu	4448
+半岭	ban ling	4435
+坂垄尾	ban long wei	4447
+坂美	ban mei	4446
+半屏山路	ban ping shan lu	4434
+板桥路	ban qiao lu	4436
+坂山	ban shan	4445
+半山豪庭	ban shan hao ting	4433
+半山豪园	ban shan hao yuan	4432
+坂上	ban shang	4444
+坂尚	ban shang	4443
+坂尚路	ban shang lu	4442
+坂头	ban tou	4441
+坂头桥	ban tou qiao	4440
+坂尾	ban wei	4439
+坂尾路	ban wei lu	4438
+坂下	ban xia	4437
+邦妮	bang ni	4431
+邦妮大厦	bang ni da sha	4430
+宝成花园	bao cheng hua yuan	4428
+宝达	bao da	4427
+宝达大厦	bao da da sha	4426
+宝福	bao fu	4425
+宝福大厦	bao fu da sha	4424
+宝华花园	bao hua hua yuan	4423
+宝莲花园	bao lian hua yuan	4422
+宝龙	bao long	4421
+宝龙大厦	bao long da sha	4420
+宝龙中心	bao long zhong xin	4419
+宝鹭花园	bao lu hua yuan	4418
+宝马花园	bao ma hua yuan	4417
+褒美	bao mei	4429
+保税市场	bao shui shi chang	4416
+保税市场大厦	bao shui shi chang da sha	4415
+报业大厦	bao ye da sha	4414
+北大生物园	bei da sheng wu yuan	4411
+北方大厦	bei fang da sha	4410
+北方工业楼	bei fang gong ye lou	4409
+北门	bei men	4408
+北门外街	bei men wai jie	4407
+北山	bei shan	4406
+北山龙潭	bei shan long tan	4405
+北市	bei shi	4403
+北师大附校	bei shi da fu xiao	4404
+碑头	bei tou	4413
+碑头路	bei tou lu	4412
+北星花园	bei xing hua yuan	4402
+北站	bei zhan	4401
+北镇二里	bei zhen er li	4400
+北镇公寓	bei zhen gong yu	4399
+北镇一里	bei zhen yi li	4398
+本部巷	ben bu xiang	4395
+奔马新村	ben ma xin cun	4397
+奔马馨园	ben ma xin yuan	4396
+碧湖花园	bi hu hua yuan	4388
+比华丽	bi hua li	4394
+比华丽海景别墅	bi hua li hai jing bie shu	4393
+比华丽海湾别墅	bi hua li hai wan bie shu	4392
+必利达	bi li da	4390
+必利达大厦	bi li da da sha	4389
+碧山路	bi shan lu	4387
+笔山路	bi shan lu	4391
+碧水源	bi shui yuan	4386
+碧溪殿	bi xi dian	4385
+碧岳	bi yue	4384
+碧云北路	bi yun bei lu	4383
+碧云南二路	bi yun nan er lu	4382
+碧云南路	bi yun nan lu	4381
+碧云中路	bi yun zhong lu	4380
+标致工业	biao zhi gong ye	4379
+滨北	bin bei	4378
+滨北中行	bin bei zhong hang	4377
+槟城道	bin cheng dao	4369
+滨海街道	bin hai jie dao	4376
+滨海森林	bin hai sen lin	4375
+滨海西大道	bin hai xi da dao	4374
+滨南	bin nan	4373
+滨南长途车站	bin nan chang tu che zhan	4372
+滨南斗西路口	bin nan dou xi lu kou	4371
+滨中	bin zhong	4370
+槟榔东里	bing lang dong li	4368
+槟榔花园	bing lang hua yuan	4367
+槟榔路	bing lang lu	4366
+槟榔路口	bing lang lu kou	4365
+槟榔西里	bing lang xi li	4364
+槟榔小区	bing lang xiao qu	4363
+槟榔新村	bing lang xin cun	4362
+槟榔一里	bing lang yi li	4361
+丙洲	bing zhou	4360
+博海豪园	bo hai hao yuan	4359
+博士花园	bo shi hua yuan	4358
+博士山庄	bo shi shan zhuang	4357
+博士新村	bo shi xin cun	4356
+博学路	bo xue lu	4355
+播音	bo yin	13
+布厝	bu cuo	4353
+布袋街	bu dai jie	4352
+不见天	bu jian tian	4354
+埠康	bu kang	4350
+埠康大厦	bu kang da sha	4349
+布塘	bu tang	4351
+蔡坝	cai ba	4345
+蔡厝	cai cuo	4344
+蔡厝路	cai cuo lu	4343
+蔡店	cai dian	4342
+蔡复一	cai fu yi	4341
+财经学院	cai jing xue yuan	4348
+蔡坑	cai keng	4340
+蔡林	cai lin	4339
+蔡岭	cai ling	4338
+菜妈街	cai ma jie	4346
+蔡浦	cai pu	4337
+蔡浦路	cai pu lu	4336
+蔡塘	cai tang	4335
+蔡塘村口	cai tang cun kou	4334
+蔡塘加气站	cai tang jia qi zhan	4333
+蔡塘小学	cai tang xiao xue	4332
+蔡宅	cai zhai	4331
+蔡宅村	cai zhai cun	4330
+财智广场	cai zhi guang chang	4347
+灿坤公司	can kun gong si	4329
+灿坤华特公寓	can kun hua te gong yu	4328
+沧虹东	cang hong dong	4326
+沧虹路	cang hong lu	4325
+沧湖北路	cang hu bei lu	4324
+沧湖东一里	cang hu dong yi li	4323
+沧湖南路	cang hu nan lu	4322
+仓里	cang li	4327
+沧林二路	cang lin er lu	4321
+沧林路	cang lin lu	4320
+沧林路口	cang lin lu kou	4319
+沧林三路	cang lin san lu	4318
+苍头	cang tou	4312
+沧五路	cang wu lu	4317
+沧翔路	cang xiang lu	4316
+沧一商厦	cang yi shang sha	4315
+沧裕路	cang yu lu	4314
+沧元路	cang yuan lu	4313
+曹海孜	cao hai zi	27
+草埔宫	cao pu gong	4311
+草塘	cao tang	4310
+草头埔	cao tou pu	4309
+草仔市	cao zai shi	4308
+草仔尾	cao zai wei	4307
+岑东	cen dong	4306
+岑东路	cen dong lu	4305
+岑郭	cen guo	4304
+岑尾	cen wei	4303
+岑尾路	cen wei lu	4302
+岑西路	cen xi lu	4301
+曾坝洋	ceng ba yang	381
+曾林	ceng lin	372
+曾溪	ceng xi	370
+曾营	ceng ying	369
+曾营派出所	ceng ying pai chu suo	368
+叉车厂	cha che chang	4300
+叉路口	cha lu kou	4299
+柴场	chai chang	4298
+长岸路	chang an lu	4294
+长北	chang bei	4293
+昌宾路	chang bin lu	4297
+长峰路	chang feng lu	4292
+长歌路	chang ge lu	4291
+长浩东路	chang hao dong lu	4290
+长浩路	chang hao lu	4289
+长浩一里	chang hao yi li	4288
+长和	chang he	112
+长河路	chang he lu	4287
+昌鸿路	chang hong lu	4296
+长虹路	chang hong lu	4286
+长乐	chang le	4285
+长乐村	chang le cun	4284
+长乐村三期	chang le cun san qi	4283
+长乐路	chang le lu	4282
+长乐屯小区	chang le tun xiao qu	4281
+长美坑	chang mei keng	4280
+长明	chang ming	87
+常明路	chang ming lu	4265
+长宁路	chang ning lu	4279
+长青	chang qing	4278
+长青北里	chang qing bei li	4277
+长青路	chang qing lu	4276
+长青路口	chang qing lu kou	4275
+昌泉苑	chang quan yuan	4295
+长升	chang sheng	4274
+长升大酒店	chang sheng da jiu dian	4273
+长升大厦	chang sheng da sha	4272
+长生洋	chang sheng yang	4271
+长欣花园	chang xin hua yuan	4270
+长兴路	chang xing lu	4269
+长园	chang yuan	4268
+长远路	chang yuan lu	4267
+长治路	chang zhi lu	4266
+朝拜埔	chao bai pu	4264
+朝洋路	chao yang lu	4263
+潮瑶	chao yao	4259
+朝元	chao yuan	4262
+朝元房管	chao yuan fang guan	4261
+朝元观	chao yuan guan	4260
+车管所	che guan suo	4258
+车田	che tian	4257
+陈黯	chen an	4256
+陈坂	chen ban	4255
+陈沧江	chen cang jiang	4254
+陈俦	chen chou	4253
+陈村	chen cun	4252
+陈第	chen di	4251
+陈化成	chen hua cheng	4250
+陈嘉庚	chen jia geng	4249
+陈井	chen jing	4248
+陈敬贤	chen jing xian	4247
+陈龙秋	chen long qiu	4246
+陈钦寮	chen qin liao	4245
+陈士京	chen shi jing	4244
+陈氏宋祠	chen shi song ci	4243
+陈塘	chen tang	4242
+陈喜	chen xi	4241
+陈下厝	chen xia cuo	4240
+陈先查	chen xian cha	4239
+陈新	chen xin	4238
+陈岩	chen yan	116
+陈夷则	chen yi ze	4237
+城北花园	cheng bei hua yuan	4235
+城北居安	cheng bei ju an	4234
+城北新村	cheng bei xin cun	4233
+埕边	cheng bian	4217
+城场	cheng chang	4232
+程冲村	cheng chong cun	129
+程厝	cheng cuo	4213
+成功大道	cheng gong da dao	4236
+城隍店	cheng huang dian	4231
+城南	cheng nan	4229
+城南二里	cheng nan er li	4228
+城南路	cheng nan lu	4227
+城内	cheng nei	4230
+埕前	cheng qian	4216
+城区社区	cheng qu she qu	4226
+城市广场	cheng shi guang chang	4520
+城市花园	cheng shi hua yuan	4225
+城市职业学院	cheng shi zhi ye xue yuan	4224
+埕头	cheng tou	4215
+埕西	cheng xi	4214
+城西二里	cheng xi er li	4223
+城西路	cheng xi lu	4222
+城西同兴小区	cheng xi tong xing xiao qu	4221
+城西新村	cheng xi xin cun	4220
+城西一里	cheng xi yi li	4219
+诚信承诺协议书	cheng xin cheng nuo xie yi shu	18
+城仔屋	cheng zai wu	4218
+赤刺	chi ci	4212
+赤代仔	chi dai zai	4211
+赤岭	chi ling	4210
+赤坪	chi ping	4209
+赤坡山	chi po shan	4208
+赤石	chi shi	4207
+赤土	chi tu	4206
+赤土埕	chi tu cheng	4205
+赤土楼	chi tu lou	4204
+赤仔埔	chi zai pu	4203
+出版	chu ban	14
+出口加工区	chu kou jia gong qu	4202
+锄山	chu shan	4201
+窗东	chuang dong	4200
+窗东路	chuang dong lu	4199
+创冠	chuang guan	4197
+创冠体育	chuang guan ti yu	4196
+创冠体育大厦	chuang guan ti yu da sha	4195
+窗内	chuang nei	4198
+创新大厦	chuang xin da sha	4194
+创新二路	chuang xin er lu	4193
+创新路	chuang xin lu	4192
+创新三路	chuang xin san lu	4191
+创业北路	chuang ye bei lu	4190
+创业大厦	chuang ye da sha	4189
+创业园	chuang ye yuan	4188
+春兴阁	chun xing ge	4187
+磁安路	ci an lu	4185
+祠后路	ci hou lu	4186
+莿林内	ci lin nei	4182
+磁窑	ci yao	4184
+磁灶尾	ci zao wei	4183
+翠湖庄园	cui hu zhuang yuan	4181
+翠盈	cui ying	4180
+翠盈大厦	cui ying da sha	4179
+村林	cun lin	4178
+村门	cun men	4177
+村内	cun nei	4176
+村尾	cun wei	4175
+村尾场	cun wei chang	4174
+村尾内	cun wei nei	4173
+村仔	cun zai	4172
+大庵	da an	4166
+大埔	da bu	4131
+大埔内	da bu nei	4130
+大埔头	da bu tou	4129
+大仓	da cang	110
+大埕	da cheng	4165
+大祠	da ci	4164
+大厝	da cuo	4163
+大厝坪	da cuo ping	4162
+大厝山路	da cuo shan lu	4161
+大埭	da dai	4160
+大道宫	da dao gong	4159
+大嶝	da deng	4158
+大嶝镇	da deng zhen	4157
+大店	da dian	4156
+大东山	da dong shan	4155
+大东庄	da dong zhuang	36
+大杜	da du	4154
+大丰路	da feng lu	4153
+大海洋	da hai yang	4152
+大海洋酒店	da hai yang jiu dian	4151
+大何	da he	44
+大后垄	da hou long	4150
+大湖	da hu	4149
+大尖	da jian	4148
+大金门	da jin men	4147
+大金门花园	da jin men hua yuan	4146
+大井脚巷	da jing jiao xiang	4145
+大寮	da liao	4144
+大岭	da ling	4143
+大岭溪	da ling xi	4142
+大柳树	da liu shu	66
+大垄尾	da long wei	4141
+大路亁	da lu qian	4139
+大路墘	da lu qian	4138
+大路墘街	da lu qian jie	4137
+大陆商厦	da lu shang sha	4140
+大轮梵天	da lun fan tian	4136
+大轮山	da lun shan	4135
+大麦畲	da mai she	4134
+大南路	da nan lu	4133
+大坪山	da ping shan	4132
+大坡	da po	78
+打埔	da pu	4170
+大桥头	da qiao tou	4128
+大坵田	da qiu tian	4127
+大泉	da quan	4126
+大畲	da she	4125
+大社	da she	4124
+大社路	da she lu	4123
+大生里	da sheng li	4122
+打石市街	da shi shi jie	4169
+大松	da song	4121
+大唐世家	da tang shi jia	4120
+打铁头刀街	da tie tou dao jie	4168
+打铁行	da tie xing	4167
+大同街道	da tong jie dao	4119
+大同路	da tong lu	4118
+大同小学	da tong xiao xue	4117
+大溪	da xi	4114
+大溪口	da xi kou	4113
+大西围	da xi wei	4116
+大西洋海景城	da xi yang hai jing cheng	4115
+大乡	da xiang	4112
+大箱	da xiang	4111
+大学路	da xue lu	4110
+大学湾	da xue wan	4109
+大洋山庄	da yang shan zhuang	4108
+达意商厦	da yi shang sha	4171
+大元殿	da yuan dian	4107
+大源坑	da yuan keng	4105
+大元路	da yuan lu	4106
+大院子	da yuan zi	88
+大云	da yun	4104
+大芸	da yun	4103
+大寨	da zhai	63
+大正	da zheng	4102
+大正大厦	da zheng da sha	4101
+大中	da zhong	4100
+大中路	da zhong lu	4099
+大洲城市花园	da zhou cheng shi hua yuan	4098
+大洲新世纪广场	da zhou xin shi ji guang chang	4097
+大字酒巷	da zi jiu xiang	4096
+埭岸头	dai an tou	4094
+埭建	dai jian	4093
+待教巷	dai jiao xiang	4095
+埭辽路	dai liao lu	4092
+埭头	dai tou	4091
+担水巷	dan shui xiang	4089
+淡溪	dan xi	4088
+丹霞宫巷	dan xia gong xiang	4090
+澹园石刻	dan yuan shi ke	4087
+档案	dang an	16
+当店	dang dian	4086
+道平路	dao ping lu	4085
+德辉花园	de hui hua yuan	4084
+德若吉	de ruo ji	4083
+德若吉大厦	de ruo ji da sha	4082
+德盛	de sheng	4081
+德盛大厦	de sheng da sha	4080
+德馨	de xin	4079
+德馨大厦	de xin da sha	4078
+德信依山	de xin yi shan	4077
+德信庄园	de xin zhuang yuan	4076
+嶝崎	deng qi	4075
+嶝头	deng tou	4074
+地岸头	di an tou	4072
+第二城	di er cheng	4069
+第二福利院	di er fu li yuan	4068
+第二化工	di er hua gong	4067
+第二农场	di er nong chang	4066
+第二医院	di er yi yuan	4065
+帝豪	di hao	4071
+帝豪大厦	di hao da sha	4070
+堤内	di nei	4073
+第一码头	di yi ma tou	4064
+第一溪桥	di yi xi qiao	4063
+第一医院	di yi yi yuan	4062
+典宝街	dian bao jie	4061
+店边	dian bian	4050
+店顶	dian ding	4049
+电化路	dian hua lu	4060
+电化宿舍	dian hua su she	4059
+电控	dian kong	4058
+电控大厦	dian kong da sha	4057
+店里	dian li	4048
+电力公司	dian li gong si	4056
+店前	dian qian	4047
+殿前	dian qian	4041
+殿前村	dian qian cun	4040
+殿前二路	dian qian er lu	4039
+殿前街道	dian qian jie dao	4038
+殿前六路	dian qian liu lu	4037
+殿前路口	dian qian lu kou	4036
+殿前三路	dian qian san lu	4035
+殿前四路	dian qian si lu	4034
+殿前铁路家园	dian qian tie lu jia yuan	4033
+殿前五路	dian qian wu lu	4032
+殿前一路	dian qian yi lu	4031
+店上东里	dian shang dong li	4046
+店上西里	dian shang xi li	4045
+电台山	dian tai shan	4055
+电台山路	dian tai shan lu	4054
+店头	dian tou	4044
+店头庄	dian tou zhuang	4043
+电信公司	dian xin gong si	4053
+电业花园	dian ye hua yuan	4052
+店仔	dian zai	4042
+电子城	dian zi cheng	4051
+吊笕	diao jian	4030
+钓仔路	diao zai lu	4029
+定安路	ding an lu	4003
+顶澳仔	ding ao zai	4025
+顶曾	ding ceng	4007
+顶村	ding cun	4024
+顶厝	ding cuo	4023
+顶店	ding dian	4022
+顶何	ding he	4021
+丁家	ding jia	79
+顶加墩	ding jia dun	4020
+顶柯	ding ke	4019
+顶寮	ding liao	4018
+定琳院	ding lin yuan	4002
+顶刘	ding liu	4017
+鼎美	ding mei	4005
+鼎美路口	ding mei lu kou	4004
+顶内田	ding nei tian	4016
+顶欧坑	ding ou keng	4015
+顶山头	ding shan tou	4014
+丁亭	ding ting	4028
+顶沃仔路	ding wo zai lu	4013
+顶溪头	ding xi tou	4012
+顶乡	ding xiang	4011
+顶巷	ding xiang	4010
+顶新厝	ding xin cuo	4009
+顶许	ding xu	4008
+丁宜山庄	ding yi shan zhuang	4027
+丁仔巷	ding zai xiang	4026
+顶洲	ding zhou	4006
+东安	dong an	4001
+东坂	dong ban	4000
+东蔡	dong cai	3999
+东埕	dong cheng	3998
+东村	dong cun	3997
+东村巷	dong cun xiang	3996
+东厝	dong cuo	3995
+董厝	dong cuo	3896
+东厝寨	dong cuo zhai	3994
+东堤	dong di	3993
+东渡	dong du	3992
+东渡飞虹	dong du fei hong	3991
+东渡六中	dong du liu zhong	3990
+东渡路	dong du lu	3989
+东墩	dong dun	3988
+东恩	dong en	3987
+东方巴黎	dong fang ba li	3986
+东方巴黎广场	dong fang ba li guang chang	3985
+东方高尔夫	dong fang gao er fu	3984
+东方高尔夫花园别墅	dong fang gao er fu hua yuan bie shu	3983
+东方花园	dong fang hua yuan	3982
+东方铭建山庄	dong fang ming jian shan zhuang	3979
+东方名园	dong fang ming yuan	3981
+东方明珠	dong fang ming zhu	3980
+东方瑞士	dong fang rui shi	3978
+东芳山庄	dong fang shan zhuang	3973
+东方商贸	dong fang shang mao	3977
+东方商贸大厦	dong fang shang mao da sha	3976
+东方时代广场	dong fang shi dai guang chang	3975
+东方威尼斯	dong fang wei ni si	3974
+东孚	dong fu	3972
+东孚工业区	dong fu gong ye qu	3971
+东孚莲花	dong fu lian hua	3970
+东孚镇	dong fu zhen	3969
+东岗	dong gang	3968
+东官浔	dong guan xun	3967
+洞光	dong guang	3890
+东海岸	dong hai an	3966
+东海岸别墅	dong hai an bie shu	3965
+东海大厦	dong hai da sha	3964
+东航国旅	dong hang guo lv	3963
+东航国旅大厦	dong hang guo lv da sha	3962
+东环望海	dong huan wang hai	3961
+东黄厝	dong huang cuo	3960
+东辉	dong hui	3959
+东卉花园	dong hui hua yuan	3958
+董家	dong jia	80
+东界	dong jie	3957
+东界石塔	dong jie shi ta	3956
+东金科技	dong jin ke ji	3955
+东柯	dong ke	3954
+东坑	dong keng	3953
+东坑洋	dong keng yang	3952
+东莲	dong lian	3951
+东寮	dong liao	3950
+东林宫	dong lin gong	3949
+东林路	dong lin lu	3948
+东岭	dong ling	3947
+东美	dong mei	3946
+东门路	dong men lu	3945
+东门南里	dong men nan li	3944
+东明路	dong ming lu	3943
+东内	dong nei	3942
+东排山路	dong pai shan lu	3941
+东坪	dong ping	3940
+东坪二里	dong ping er li	3939
+东坪山	dong ping shan	3938
+东坪山花园	dong ping shan hua yuan	3937
+东坪山路	dong ping shan lu	3936
+东坪山西路	dong ping shan xi lu	3935
+东坪山庄	dong ping shan zhuang	3934
+东埔	dong pu	3933
+东浦	dong pu	3932
+东浦路	dong pu lu	3931
+东浦三里	dong pu san li	3930
+东浦一里	dong pu yi li	3929
+东浦一路	dong pu yi lu	3928
+东桥	dong qiao	3927
+董任村	dong ren cun	3895
+董任路	dong ren lu	3894
+董任西路	dong ren xi lu	3893
+东荣	dong rong	3926
+东山	dong shan	3925
+东山路	dong shan lu	3924
+东山尾	dong shan wei	3923
+东烧尾	dong shao wei	3922
+东社	dong she	3921
+东盛花园	dong sheng hua yuan	3920
+东市	dong shi	3919
+董水	dong shui	3892
+董水前	dong shui qian	3891
+东寺庄	dong si zhuang	3918
+东塘	dong tang	3917
+东亭	dong ting	3916
+东亭路	dong ting lu	3915
+东头埔	dong tou pu	3914
+东溪	dong xi	3912
+东溪花园	dong xi hua yuan	3911
+东西角	dong xi jiao	3913
+东溪里	dong xi li	3910
+东溪新村	dong xi xin cun	3909
+东行	dong xing	3907
+东兴路	dong xing lu	3908
+东瑶	dong yao	3906
+东瑶古窑	dong yao gu yao	3905
+东屿	dong yu	3904
+东屿北路	dong yu bei lu	3903
+东屿路口	dong yu lu kou	3902
+东园	dong yuan	3901
+东岳二路	dong yue er lu	3900
+东岳路	dong yue lu	3899
+东宅	dong zhai	3898
+东庄	dong zhuang	3897
+斗涵巷	dou han xiang	3887
+斗西路	dou xi lu	3886
+豆仔尾	dou zai wei	3885
+豆仔尾路	dou zai wei lu	3884
+杜厝李	du cuo li	3883
+杜岱	du dai	3882
+堵门口	du men kou	75
+杜桥	du qiao	3881
+杜生林	du sheng lin	3880
+都市华庭	du shi hua ting	3889
+都市恬园	du shi tian yuan	3888
+渡田路	du tian lu	3878
+杜行	du xing	3879
+段逸山	duan yi shan	12
+兑山	dui shan	3877
+墩后	dun hou	3876
+墩里	dun li	3875
+墩上	dun shang	3874
+墩仔	dun zai	3873
+鹅头楼	e tou lou	3872
+二房三	er fang san	3871
+二环南路	er huan nan lu	3870
+二甲	er jia	3869
+二舍庙巷	er she miao xiang	3868
+二市	er shi	3867
+二王街	er wang jie	3866
+繁华大厦	fan hua da sha	3864
+繁荣广场	fan rong guang chang	3863
+梵天寺	fan tian si	3862
+番仔厝	fan zai cuo	3865
+枋厝	fang cuo	3860
+枋兜	fang dou	3859
+枋湖	fang hu	3858
+枋湖北二路	fang hu bei er lu	3857
+枋湖北路	fang hu bei lu	3856
+枋湖村	fang hu cun	3855
+枋湖东路	fang hu dong lu	3854
+枋湖路	fang hu lu	3853
+枋湖南路	fang hu nan lu	3852
+枋湖西二路	fang hu xi er lu	3851
+枋湖西路	fang hu xi lu	3850
+枋湖西三路	fang hu xi san lu	3849
+枋脚	fang jiao	3848
+方山	fang shan	90
+舫山西路	fang shan xi lu	3841
+枋塘	fang tang	3847
+方田	fang tian	3861
+防汛路	fang xun lu	3845
+舫阳	fang yang	3840
+纺织东路	fang zhi dong lu	3844
+纺织路	fang zhi lu	3843
+纺织西路	fang zhi xi lu	3842
+枋钟路	fang zhong lu	3846
+非矿	fei kuang	3839
+非矿大厦	fei kuang da sha	3838
+蜂巢山	feng chao shan	3836
+蜂巢山路	feng chao shan lu	3835
+凤岗	feng gang	3834
+凤岗路	feng gang lu	3833
+凤湖街	feng hu jie	3832
+凤凰山庄	feng huang shan zhuang	3831
+冯家	feng jia	74
+凤梨村	feng li cun	3830
+凤梨山	feng li shan	3829
+凤林	feng lin	3828
+凤麟花园	feng lin hua yuan	3825
+凤林美	feng lin mei	3827
+凤林尾	feng lin wei	3826
+风林中路	feng lin zhong lu	3837
+凤路	feng lu	3824
+凤南	feng nan	3823
+凤南路	feng nan lu	3822
+凤泉路	feng quan lu	3821
+凤山	feng shan	3820
+凤山二里	feng shan er li	3819
+凤山路	feng shan lu	3818
+凤山庙	feng shan miao	3817
+凤山石塔	feng shan shi ta	3816
+凤山一里	feng shan yi li	3815
+凤头	feng tou	3814
+凤翔花园	feng xiang hua yuan	3812
+凤祥苑	feng xiang yuan	3813
+凤屿路	feng yu lu	3811
+凤屿路口	feng yu lu kou	3810
+福成花园	fu cheng hua yuan	3801
+傅厝巷	fu cuo xiang	3775
+福达里	fu da li	3800
+福达新村	fu da xin cun	3799
+福德堡	fu de bao	3798
+福光	fu guang	3797
+福光大厦	fu guang da sha	3796
+富贵花园	fu gui hua yuan	3774
+富贵门花园	fu gui men hua yuan	3773
+福海	fu hai	3795
+福海宫巷	fu hai gong xiang	3794
+富豪花园	fu hao hua yuan	3772
+福河街	fu he jie	3793
+富华广场	fu hua guang chang	3771
+福华里	fu hua li	3792
+富环大厦	fu huan da sha	3770
+富佳苑	fu jia yuan	3769
+福建路	fu jian lu	3791
+浮莲	fu lian	3803
+福联	fu lian	3790
+福联大厦	fu lian da sha	3789
+孚莲路	fu lian lu	3809
+福隆花园	fu long hua yuan	3787
+福龙花园	fu long hua yuan	3788
+富炉	fu lu	3768
+福满山庄	fu man shan zhuang	3786
+福茂宫街	fu mao gong jie	3785
+福泉路	fu quan lu	3784
+芙蓉楼	fu rong lou	3806
+芙蓉路	fu rong lu	3805
+芙蓉苑	fu rong yuan	3804
+富山花园	fu shan hua yuan	3767
+富山名士园	fu shan ming shi yuan	3766
+富山新天地	fu shan xin tian di	3765
+富仕公寓	fu shi gong yu	3764
+浮溪路	fu xi lu	3802
+富祥花苑	fu xiang hua yuan	3763
+富兴	fu xing	3762
+福星大地	fu xing da di	3783
+富兴大厦	fu xing da sha	3761
+福星花园	fu xing hua yuan	3782
+复兴路	fu xing lu	3776
+福洋花园	fu yang hua yuan	3781
+扶瑶	fu yao	3807
+富宇	fu yu	3760
+富宇大厦	fu yu da sha	3759
+福裕花园	fu yu hua yuan	3780
+福源山庄	fu yuan shan zhuang	3779
+富源世家	fu yuan shi jia	3758
+福灶	fu zao	3778
+孚中央	fu zhong yang	3808
+福州路	fu zhou lu	3777
+盖大小担	gai da xiao dan	3757
+盖集尾	gai ji wei	3756
+橄榄树	gan lan shu	3750
+柑岭	gan ling	3751
+甘岭	gan ling	3754
+甘露寺	gan lu si	3753
+干休二所	gan xiu er suo	3755
+杆仔树	gan zai shu	3752
+港澳中心	gang ao zhong xin	3748
+港城开发区	gang cheng kai fa qu	3747
+港后路	gang hou lu	3746
+港龙花园	gang long hua yuan	3745
+港龙新城	gang long xin cheng	3744
+港南	gang nan	3743
+岗头	gang tou	3749
+港头	gang tou	3742
+港尾	gang wei	3741
+港厦工业村	gang xia gong ye cun	205
+高厝	gao cuo	3740
+高殿	gao dian	3739
+高读琴洞	gao du qin dong	3738
+高尔夫球场	gao er fu qiu chang	3737
+高级专业技术职务	gao ji zhuan ye ji shu zhi wu	22
+高教	gao jiao	26
+高林	gao lin	3736
+高浦	gao pu	3735
+高浦大楼	gao pu da lou	3734
+高浦海堤	gao pu hai di	3733
+高浦路	gao pu lu	3732
+高崎	gao qi	3731
+高崎北二路	gao qi bei er lu	3730
+高崎村	gao qi cun	3729
+高崎南十二路	gao qi nan shi er lu	3728
+高崎南五路	gao qi nan wu lu	3727
+高崎新村	gao qi xin cun	3726
+高崎寨	gao qi zhai	3725
+格仔埔	ge zai pu	3724
+格仔田	ge zai tian	3723
+根岭	gen ling	3722
+宫边	gong bian	3707
+宫顶	gong ding	3706
+共和路	gong he lu	3697
+公交工贸	gong jiao gong mao	3718
+公交海沧车站	gong jiao hai cang che zhan	3717
+宫口	gong kou	3705
+公路征费中心	gong lu zheng fei zhong xin	3716
+公平路	gong ping lu	3715
+公婆寮	gong po liao	3714
+工人体育中心	gong ren ti yu zhong xin	3721
+宫山	gong shan	3704
+宫下	gong xia	3703
+宫央	gong yang	3702
+工业学校	gong ye xue xiao	3720
+工业园路口	gong ye yuan lu kou	3719
+工艺美术	gong yi mei shu	6
+巩源	gong yuan	3699
+巩源大厦	gong yuan da sha	3698
+公园东路	gong yuan dong lu	3713
+公园东门	gong yuan dong men	3712
+公园路	gong yuan lu	3711
+公园南路	gong yuan nan lu	3710
+公园西路	gong yuan xi lu	3709
+公园新村	gong yuan xin cun	3708
+宫仔边	gong zai bian	3701
+宫仔尾	gong zai wei	3700
+工作规则	gong zuo gui ze	9
+沟墘	gou qian	3696
+沟沙	gou sha	3695
+古垵	gu an	3692
+古城东路	gu cheng dong lu	3691
+古城西路	gu cheng xi lu	3690
+孤单厝	gu dan cuo	3693
+古地石	gu di shi	3689
+古店	gu dian	3688
+故宫东里	gu gong dong li	3660
+故宫东路	gu gong dong lu	3659
+故宫路	gu gong lu	3658
+故宫路口	gu gong lu kou	3657
+故宫小区	gu gong xiao qu	3656
+姑井	gu jing	3694
+古坑	gu keng	3687
+古坑内	gu keng nei	3686
+古来潭	gu lai tan	3685
+鼓浪别墅	gu lang bie shu	3667
+鼓浪洞天	gu lang dong tian	3666
+鼓浪屿	gu lang yu	3665
+鼓浪屿街道	gu lang yu jie dao	3664
+古林	gu lin	3684
+古龙花园	gu long hua yuan	3683
+古楼	gu lou	3682
+古楼北里	gu lou bei li	3681
+古楼南里	gu lou nan li	3680
+古楼农场	gu lou nong chang	3679
+鼓锣农场	gu luo nong chang	3663
+古山	gu shan	3678
+鼓声路	gu sheng lu	3662
+古塘垄	gu tang long	3677
+古塘垅新村	gu tang long xin cun	3676
+鼓新路	gu xin lu	3661
+古兴里	gu xing li	3675
+古营路	gu ying lu	3674
+古宅	gu zhai	3673
+古宅十八弯	gu zhai shi ba wan	3672
+古庄	gu zhuang	3671
+古庄里	gu zhuang li	3670
+古庄路	gu zhuang lu	3669
+古庄路口	gu zhuang lu kou	3668
+灌八路	guan ba lu	3625
+官仓	guan cang	3643
+冠成	guan cheng	3628
+冠成大厦	guan cheng da sha	3627
+关刀河巷	guan dao he xiang	3655
+官地	guan di	3642
+官都里	guan dou li	3641
+观海楼	guan hai lou	3654
+观海路	guan hai lu	3653
+观海园	guan hai yuan	3652
+观海苑	guan hai yuan	3651
+冠宏花园	guan hong hua yuan	3626
+管家咀	guan jia ju	127
+灌口	guan kou	3624
+灌口南路	guan kou nan lu	3623
+灌口新区	guan kou xin qu	3622
+灌口镇	guan kou zhen	3621
+官林头	guan lin tou	3640
+官路	guan lu	3639
+官路下	guan lu xia	3638
+灌南工业区	guan nan gong ye qu	3620
+灌七路	guan qi lu	3619
+官任	guan ren	3637
+官任路	guan ren lu	3636
+观日路	guan ri lu	3650
+观石内	guan shi nei	3649
+官塘	guan tang	3635
+官田	guan tian	3634
+官田洋	guan tian yang	3633
+罐头厂	guan tou chang	3617
+灌新路	guan xin lu	3618
+官浔	guan xun	3631
+官洵路	guan xun lu	3632
+观音山路	guan yin shan lu	3648
+观音山小区	guan yin shan xiao qu	3647
+观音山新村	guan yin shan xin cun	3646
+观音寺	guan yin si	3645
+观远路	guan yuan lu	3644
+官宅	guan zhai	3630
+官圳	guan zhen	3629
+广播山路	guang bo shan lu	3604
+光彩街	guang cai jie	3616
+广场湖畔花园	guang chang hu pan hua yuan	3603
+广成	guang cheng	102
+光电信息园	guang dian xin xi yuan	3615
+光华大厦	guang hua da sha	3614
+光华里	guang hua li	3613
+光华路	guang hua lu	3612
+光明大厦	guang ming da sha	3611
+光明路	guang ming lu	3610
+光莆电子	guang pu dian zi	3609
+光莆电子大厦	guang pu dian zi da sha	3608
+光荣路	guang rong lu	3607
+广顺花园	guang shun hua yuan	3602
+光厦楼	guang xia lou	204
+广兴北路	guang xing bei lu	3601
+广兴南路	guang xing nan lu	3600
+广兴新村	guang xing xin cun	3599
+光耀楼	guang yao lou	3606
+光业楼	guang ye lou	3605
+广源路	guang yuan lu	3598
+桂花树	gui hua shu	93
+归来园	gui lai yuan	3597
+圭母岫	gui mu xiu	3596
+桂园	gui yuan	3594
+龟仔山	gui zai shan	3595
+过坂	guo ban	3559
+郭厝	guo cuo	3593
+国防园	guo fang yuan	3589
+国光路	guo guang lu	3588
+国光路二	guo guang lu er	3587
+国光路三	guo guang lu san	3586
+国光路一	guo guang lu yi	3585
+国光区	guo guang qu	3584
+国际广场	guo ji guang chang	3583
+国际山庄	guo ji shan zhuang	3582
+国际物流中心	guo ji wu liu zhong xin	3581
+国际银行	guo ji yin hang	3580
+国际银行大厦	guo ji yin hang da sha	3579
+国家会计学院	guo jia kuai ji xue yuan	3578
+国检	guo jian	3577
+国检大厦	guo jian da sha	3576
+国骏	guo jun	3575
+国骏大厦	guo jun da sha	3574
+过坑	guo keng	3558
+国联	guo lian	3573
+国联大厦	guo lian da sha	3572
+国贸	guo mao	3571
+国贸大厦	guo mao da sha	3570
+国贸海景	guo mao hai jing	3569
+国贸花园	guo mao hua yuan	3568
+国贸新城	guo mao xin cheng	3567
+国盟	guo meng	3566
+国盟大厦	guo meng da sha	3565
+果品批发市场	guo pin pi fa shi chang	3560
+郭山	guo shan	3592
+过山埔	guo shan pu	3557
+国泰	guo tai	3564
+国泰大厦	guo tai da sha	3563
+过田	guo tian	3556
+过溪	guo xi	3555
+国姓井	guo xing jing	3562
+郭岩隐	guo yan yin	3591
+国源滨北国际	guo yuan bin bei guo ji	3561
+过芸	guo yun	3554
+郭仔头	guo zai tou	3590
+海岸街	hai an jie	3553
+海滨大厦	hai bin da sha	3552
+海滨花园	hai bin hua yuan	3551
+海滨路	hai bin lu	3550
+海滨商厦	hai bin shang sha	3549
+海滨宿舍	hai bin su she	3548
+海滨新村	hai bin xin cun	3547
+海沧	hai cang	3546
+海沧大道	hai cang da dao	3545
+海沧大桥	hai cang da qiao	3544
+海沧房地产	hai cang fang di chan	3543
+海沧公路分局	hai cang gong lu fen ju	3542
+海沧供水	hai cang gong shui	3541
+海沧供水大厦	hai cang gong shui da sha	3540
+海沧管委会	hai cang guan wei hui	3539
+海沧建行	hai cang jian hang	3538
+海沧柯达	hai cang ke da	3537
+海沧联检大楼	hai cang lian jian da lou	3536
+海沧区	hai cang qu	3535
+海沧生活	hai cang sheng huo	3534
+海沧未来橙堡	hai cang wei lai cheng bao	3533
+海沧兴港花园	hai cang xing gang hua yuan	3532
+海沧医院	hai cang yi yuan	3531
+海沧苑	hai cang yuan	3530
+海沧镇	hai cang zhen	3529
+海成花园	hai cheng hua yuan	3528
+海达路	hai da lu	3527
+海达南里	hai da nan li	3526
+海发	hai fa	3525
+海发大厦	hai fa da sha	3524
+海发路	hai fa lu	3523
+海丰	hai feng	3522
+海丰大厦	hai feng da sha	3521
+海凤路	hai feng lu	3520
+海福广场	hai fu guang chang	3519
+海富里	hai fu li	3518
+海富路	hai fu lu	3517
+海关大楼	hai guan da lou	3516
+海关大厦	hai guan da sha	3515
+海关宿舍	hai guan su she	3514
+海关业务办公楼	hai guan ye wu ban gong lou	3513
+海光	hai guang	3512
+海光大厦	hai guang da sha	3511
+海光花园	hai guang hua yuan	3510
+海鸿花园	hai hong hua yuan	3508
+海虹路	hai hong lu	3509
+海后路	hai hou lu	3507
+海嘉	hai jia	3506
+海景北二路	hai jing bei er lu	3505
+海景北路	hai jing bei lu	3504
+海景城	hai jing cheng	3503
+海景大厦	hai jing da sha	3502
+海景东二路	hai jing dong er lu	3501
+海景东路	hai jing dong lu	3500
+海景东三路	hai jing dong san lu	3499
+海景路	hai jing lu	3498
+海景南路	hai jing nan lu	3497
+海景中路	hai jing zhong lu	3496
+海倶宿舍区	hai ju su she qu	3495
+海坑尾	hai keng wei	3494
+海丽山庄	hai li shan zhuang	3493
+海联中心	hai lian zhong xin	3492
+海六路	hai liu lu	3491
+海明	hai ming	3490
+海明大厦	hai ming da sha	3489
+海青花园	hai qing hua yuan	3488
+海山	hai shan	3487
+海山大厦	hai shan da sha	3486
+海山路	hai shan lu	3485
+海晟花园	hai sheng hua yuan	3483
+海晟棕蓝海	hai sheng zong lan hai	3484
+海坛路	hai tan lu	3482
+海天	hai tian	3481
+海天大厦	hai tian da sha	3480
+海天广场	hai tian guang chang	3479
+海天路	hai tian lu	3478
+海天路口	hai tian lu kou	3477
+海天码头	hai tian ma tou	3476
+海天小区	hai tian xiao qu	3475
+海头	hai tou	3474
+海湾大厦	hai wan da sha	3473
+海湾公园	hai wan gong yuan	3472
+海湾锦园	hai wan jin yuan	3471
+海旺路	hai wang lu	3470
+海味大厦	hai wei da sha	3469
+海峡大厦	hai xia da sha	3468
+海祥	hai xiang	3467
+海祥大厦	hai xiang da sha	3466
+海信花园	hai xin hua yuan	3464
+海新路	hai xin lu	3465
+海兴路	hai xing lu	3463
+海燕新村	hai yan xin cun	3462
+海洋花园	hai yang hua yuan	3461
+海洋新村	hai yang xin cun	3460
+海洋学院	hai yang xue yuan	3459
+海英	hai ying	3458
+海裕路	hai yu lu	3457
+海院宿舍	hai yuan su she	3456
+海悦山庄	hai yue shan zhuang	3455
+海韵台	hai yun tai	3454
+涵翠路	han cui lu	3453
+涵光路	han guang lu	3452
+涵菁	han jing	3451
+涵菁大厦	han jing da sha	3450
+涵头	han tou	3449
+航海学院	hang hai xue yuan	3448
+航空办公楼	hang kong ban gong lou	3447
+航空大厦	hang kong da sha	3446
+航天测控站	hang tian ce kong zhan	3445
+航运大厦	hang yun da sha	3444
+豪峰	hao feng	3443
+豪峰大厦	hao feng da sha	3442
+浩晖花园	hao hui hua yuan	3437
+濠里	hao li	143
+豪门长荣花园	hao men chang rong hua yuan	3441
+濠头	hao tou	3440
+濠头公寓	hao tou gong yu	3439
+濠头裕利	hao tou yu li	3438
+皓月雄风	hao yue xiong feng	3436
+贺滨溪林场	he bin xi lin chang	3392
+合成氨厂	he cheng an chang	3418
+何厝	he cuo	3416
+何厝工业区	he cuo gong ye qu	3415
+何厝下堡	he cuo xia bao	3414
+何厝小学	he cuo xiao xue	3413
+禾东路	he dong lu	3435
+和风别墅	he feng bie shu	3409
+和凤街	he feng jie	3408
+合福	he fu	28
+合福高铁	he fu gao tie	29
+和力花园	he li hua yuan	3407
+何垄	he long	3412
+和宁里	he ning li	3406
+和宁路	he ning lu	3405
+和平码头	he ping ma tou	3404
+合群路	he qun lu	3417
+禾山	he shan	3434
+禾山兜	he shan dou	3433
+禾山街道	he shan jie dao	3432
+禾山路	he shan lu	3431
+何山埔	he shan pu	3411
+禾山石佛塔	he shan shi fo ta	3430
+禾山中学	he shan zhong xue	3429
+鹤寿路	he shou lu	3391
+和顺里	he shun li	3403
+禾太路	he tai lu	3428
+和通	he tong	3402
+和通居委会	he tong ju wei hui	3401
+和通里	he tong li	3400
+和通路	he tong lu	3399
+和通路口	he tong lu kou	3398
+和通新村	he tong xin cun	3397
+河头	he tou	95
+禾祥东	he xiang dong	3427
+禾祥东路	he xiang dong lu	3426
+禾祥花园	he xiang hua yuan	3425
+禾祥商城	he xiang shang cheng	3424
+禾祥西	he xiang xi	3423
+禾祥西二路	he xiang xi er lu	3422
+禾祥西路	he xiang xi lu	3421
+禾欣	he xin	3420
+禾兴	he xing	3419
+和旭里	he xu li	3396
+和旭路	he xu lu	3395
+和悦里	he yue li	3394
+和悦路	he yue lu	3393
+何宅	he zhai	3410
+珩厝	heng cuo	3379
+恒达	heng da	3390
+恒达大厦	heng da da sha	3389
+恒丰花园	heng feng hua yuan	3388
+恒菁村	heng jing cun	3387
+恒菁花园	heng jing hua yuan	3386
+横路	heng lu	3374
+恒美园	heng mei yuan	3385
+珩山	heng shan	3378
+恒盛工业	heng sheng gong ye	3384
+恒盛工业大厦	heng sheng gong ye da sha	3383
+恒通花园	heng tong hua yuan	3382
+珩头	heng tou	3377
+珩尾	heng wei	3376
+珩溪	heng xi	3375
+恒兴工业	heng xing gong ye	3381
+恒兴工业大厦	heng xing gong ye da sha	3380
+横竹路	heng zhu lu	3373
+洪本部街	hong ben bu jie	3352
+洪本部巷	hong ben bu xiang	3351
+鸿宾路	hong bin lu	3312
+洪朝选	hong chao xuan	3350
+洪村	hong cun	3349
+红村	hong cun	3370
+洪厝	hong cuo	3348
+洪厝边	hong cuo bian	3347
+宏大花园	hong da hua yuan	3363
+红墩	hong dun	3369
+鸿福新村	hong fu xin cun	3311
+红格	hong ge	3368
+洪何路	hong he lu	3346
+鸿湖别墅	hong hu bie shu	3310
+宏华	hong hua	3362
+宏华大厦	hong hua da sha	3361
+宏辉	hong hui	3360
+宏辉大厦	hong hui da sha	3359
+鸿江	hong jiang	3309
+洪坑	hong keng	3345
+洪莲里	hong lian li	3344
+洪莲路	hong lian lu	3343
+洪莲西二里	hong lian xi er li	3342
+洪莲西里	hong lian xi li	3341
+洪莲西路	hong lian xi lu	3340
+洪林	hong lin	3339
+虹鹭	hong lu	3313
+洪茂	hong mao	3338
+红毛岭	hong mao ling	3367
+洪门	hong men	105
+红旗洞	hong qi dong	126
+洪前	hong qian	3337
+红山	hong shan	3366
+鸿山	hong shan	3308
+洪山柄	hong shan bing	3336
+洪山柄小区	hong shan bing xiao qu	3335
+鸿山大厦	hong shan da sha	3307
+鸿山路	hong shan lu	3306
+宏山新村	hong shan xin cun	3358
+鸿山织雨	hong shan zhi yu	3305
+弘盛	hong sheng	3372
+鸿昇	hong sheng	3303
+弘盛大厦	hong sheng da sha	3371
+鸿昇大厦	hong sheng da sha	3302
+鸿升花园	hong sheng hua yuan	3304
+洪水头	hong shui tou	3334
+宏泰路	hong tai lu	3357
+洪塘	hong tang	3333
+洪塘路	hong tang lu	3332
+洪塘南路	hong tang nan lu	3331
+洪塘头	hong tang tou	3330
+洪塘头一路	hong tang tou yi lu	3329
+洪塘镇	hong tang zhen	3328
+洪塘镇政府	hong tang zhen zheng fu	3327
+洪田	hong tian	3326
+鸿图	hong tu	3301
+鸿图大厦	hong tu da sha	3300
+宏伟大厦	hong wei da sha	3356
+洪文	hong wen	3325
+洪文八里	hong wen ba li	3324
+洪文二里	hong wen er li	3323
+洪文二路	hong wen er lu	3322
+洪文六里	hong wen liu li	3321
+洪文路	hong wen lu	3320
+洪文三里	hong wen san li	3319
+洪文五里	hong wen wu li	3318
+洪文一里	hong wen yi li	3317
+洪溪	hong xi	3316
+鸿禧花园	hong xi hua yuan	3299
+洪霞五路	hong xia wu lu	3315
+鸿翔	hong xiang	3298
+鸿翔大厦	hong xiang da sha	3297
+红杏花园	hong xing hua yuan	3365
+洪圩	hong xu	147
+宏业大厦	hong ye da sha	3355
+宏益	hong yi	3354
+宏益大厦	hong yi da sha	3353
+红怡苑	hong yi yuan	3364
+鸿运大厦	hong yun da sha	3296
+洪仔尾	hong zai wei	3314
+鸿展	hong zhan	3295
+鸿展大厦	hong zhan da sha	3294
+后垵	hou an	3292
+后安	hou an	3293
+后岸巷	hou an xiang	3291
+后坝	hou ba	3290
+后坂	hou ban	3289
+后壁地	hou bi di	3288
+后滨	hou bin	3287
+后滨路	hou bin lu	3286
+后滨路口	hou bin lu kou	3285
+后柄	hou bing	3284
+后柄路	hou bing lu	3283
+后曹洼	hou cao wa	32
+后曾	hou ceng	3208
+后茶寮	hou cha liao	3282
+后池	hou chi	3281
+后村	hou cun	3280
+后厝	hou cuo	3279
+后埭溪路	hou dai xi lu	3278
+厚德花园	hou de hua yuan	3202
+后地	hou di	3277
+后店	hou dian	3276
+后斗	hou dou	3275
+后墩	hou dun	3274
+后格	hou ge	3273
+后沟	hou gou	3272
+后郭	hou guo	3271
+后海墘巷	hou hai qian xiang	3270
+后河	hou he	100
+后河路	hou he lu	3269
+后珩	hou heng	3268
+后湖	hou hu	3267
+后江	hou jiang	3266
+后江埭	hou jiang dai	3265
+后江埭路	hou jiang dai lu	3264
+后井	hou jing	3263
+后柯	hou ke	3262
+后坑	hou keng	3261
+后窟	hou ku	3260
+后李圩	hou li xu	35
+后莲	hou lian	3259
+后莲路	hou lian lu	3258
+后寮	hou liao	3257
+后寮岳	hou liao yue	3256
+后垄	hou long	3255
+后楼拐	hou lou guai	39
+后炉	hou lu	3254
+后炉花园	hou lu hua yuan	3253
+后炉里	hou lu li	3252
+后炉埔	hou lu pu	3251
+后炉社区	hou lu she qu	3250
+后炉新村	hou lu xin cun	3249
+后幕	hou mu	3248
+后坪	hou ping	3247
+后埔	hou pu	3246
+后浦	hou pu	3239
+后埔北二里	hou pu bei er li	3245
+后埔北里	hou pu bei li	3244
+后埔村	hou pu cun	3243
+后埔东二里	hou pu dong er li	3242
+后埔东里	hou pu dong li	3241
+后浦上	hou pu shang	3238
+后埔西二里	hou pu xi er li	3240
+后崎	hou qi	3237
+后山	hou shan	3236
+后山头	hou shan tou	3235
+后山尾	hou shan wei	3234
+后烧东里	hou shao dong li	3233
+后烧西里	hou shao xi li	3232
+后狮尾	hou shi wei	3231
+后树	hou shu	3230
+后塘	hou tang	3229
+后田	hou tian	3228
+后田路	hou tian lu	3227
+后田洋	hou tian yang	3226
+后亭	hou ting	3224
+后厅衙巷	hou ting ya xiang	3225
+后头洋	hou tou yang	3223
+后吴	hou wu	3222
+后溪	hou xi	3221
+后溪城	hou xi cheng	3220
+后溪大道	hou xi da dao	150
+后溪飞鹏	hou xi fei peng	3219
+后溪路口	hou xi lu kou	3218
+后溪尾	hou xi wei	3217
+后溪镇	hou xi zhen	3216
+后溪钟	hou xi zhong	3215
+后巷	hou xiang	3213
+后祥南路	hou xiang nan lu	3214
+后许	hou xu	3212
+后洋	hou yang	3211
+后叶	hou ye	3210
+后英	hou ying	3209
+后宅	hou zhai	3207
+后宅路	hou zhai lu	3206
+后詹	hou zhan	3205
+后郑	hou zheng	3204
+后庄	hou zhuang	3203
+湖安	hu an	3194
+湖邦溪	hu bang xi	3193
+湖边	hu bian	3192
+湖滨北	hu bin bei	3191
+湖滨北路	hu bin bei lu	3190
+湖滨东路	hu bin dong lu	3189
+湖滨二里	hu bin er li	3188
+湖摈六里	hu bin liu li	3174
+湖滨六里	hu bin liu li	3187
+湖滨南	hu bin nan	3186
+湖滨南六里	hu bin nan liu li	3185
+湖滨南路	hu bin nan lu	3184
+湖滨南三里	hu bin nan san li	3183
+湖滨南五里	hu bin nan wu li	3182
+湖滨三里	hu bin san li	3181
+湖滨四里	hu bin si li	3180
+湖滨西	hu bin xi	3179
+湖滨西路	hu bin xi lu	3178
+湖滨一里	hu bin yi li	3177
+湖滨中路	hu bin zhong lu	3176
+湖滨中学	hu bin zhong xue	3175
+湖厝	hu cuo	3173
+胡厝	hu cuo	3200
+湖厝宅	hu cuo zhai	3172
+湖东	hu dong	3171
+湖东花园	hu dong hua yuan	3170
+湖东路	hu dong lu	3169
+湖东路东	hu dong lu dong	3168
+湖东路口	hu dong lu kou	3167
+湖东路西	hu dong lu xi	3166
+湖柑	hu gan	3165
+湖光大厦	hu guang da sha	3164
+湖光路	hu guang lu	3163
+胡贵	hu gui	3199
+浒井	hu jing	3122
+湖景华庭	hu jing hua ting	3161
+湖井宅	hu jing zhai	3162
+虎空	hu kong	3131
+湖里	hu li	3160
+湖里大道	hu li da dao	3159
+湖里东方家园	hu li dong fang jia yuan	3158
+湖里公安	hu li gong an	3157
+湖里公交场站	hu li gong jiao chang zhan	3156
+湖里公园	hu li gong yuan	3155
+湖里华商物流	hu li hua shang wu liu	3154
+湖里检察院	hu li jian cha yuan	3153
+湖里建行	hu li jian hang	3152
+湖里交警大队	hu li jiao jing da dui	3151
+湖里街	hu li jie	3150
+湖里街道	hu li jie dao	3149
+湖里免税	hu li mian shui	3148
+湖里派出所	hu li pai chu suo	3147
+胡里炮王	hu li pao wang	3198
+湖里区	hu li qu	3146
+湖里区政府	hu li qu zheng fu	3145
+胡里山	hu li shan	3197
+胡里山村	hu li shan cun	3196
+胡里山炮台	hu li shan pao tai	203
+胡龙	hu long	104
+葫芦山	hu lu shan	3132
+虎梅坪	hu mei ping	3130
+湖美杉	hu mei shan	3144
+湖明	hu ming	3143
+湖明路	hu ming lu	3142
+湖明路口	hu ming lu kou	3141
+湖明南路	hu ming nan lu	3140
+湖明新村	hu ming xin cun	3139
+湖内	hu nei	3138
+虎山路	hu shan lu	3129
+湖社内	hu she nei	3137
+湖头	hu tou	3136
+狐尾山路	hu wei shan lu	3201
+虎溪	hu xi	3128
+虎溪岩路	hu xi yan lu	3127
+虎溪夜月	hu xi ye yue	3126
+虎屿路	hu yu lu	3125
+虎园路	hu yuan lu	3124
+胡元轩	hu yuan xuan	3195
+虎仔山路	hu zai shan lu	3123
+胡宅	hu zhai	21
+湖中	hu zhong	3135
+湖中路	hu zhong lu	3134
+湖中路口	hu zhong lu kou	3133
+华昌	hua chang	3117
+花厂	hua chang	3121
+华昌大厦	hua chang da sha	3116
+华昌路	hua chang lu	3115
+华成花园	hua cheng hua yuan	3114
+华诚路	hua cheng lu	3113
+花枞	hua cong	3120
+花厝	hua cuo	3119
+华东地区	hua dong di qu	2
+华东地区总代理	hua dong di qu zong dai li	3
+华东花园	hua dong hua yuan	3112
+华都商厦	hua du shang sha	3111
+华菲	hua fei	3110
+华菲大厦	hua fei da sha	3109
+华凤山庄	hua feng shan zhuang	3108
+华福	hua fu	3106
+华孚花园	hua fu hua yuan	3107
+化工学校	hua gong xue xiao	3053
+华光	hua guang	3105
+华光路	hua guang lu	3104
+华鸿花园	hua hong hua yuan	3103
+华辉广场	hua hui guang chang	3102
+花卉中心	hua hui zhong xin	3118
+华嘉路	hua jia lu	3101
+华建	hua jian	3100
+华建大厦	hua jian da sha	3099
+华景花园	hua jing hua yuan	3098
+华联电子	hua lian dian zi	3097
+华联电子大厦	hua lian dian zi da sha	3096
+华联商厦	hua lian shang sha	3095
+华林	hua lin	3094
+华林花园	hua lin hua yuan	3093
+华林金磊花园	hua lin jin lei hua yuan	3092
+华林金盛花园	hua lin jin sheng hua yuan	3091
+华林绿景花园	hua lin lv jing hua yuan	3090
+华龙	hua long	3089
+华龙大厦	hua long da sha	3088
+华纶印染	hua lun yin ran	3087
+华年屯	hua nian tun	3086
+华普	hua pu	3085
+华普大厦	hua pu da sha	3084
+华侨大厦	hua qiao da sha	3083
+华侨新村	hua qiao xin cun	3082
+华侨之家	hua qiao zhi jia	3081
+华清中心城	hua qing zhong xin cheng	3080
+华荣	hua rong	3079
+华荣路	hua rong lu	3078
+华荣路口	hua rong lu kou	3077
+华瑞花园	hua rui hua yuan	3076
+华山园	hua shan yuan	3075
+华商	hua shang	3074
+华商大厦	hua shang da sha	3073
+华盛	hua sheng	3072
+华盛花园	hua sheng hua yuan	3071
+华盛楼	hua sheng lou	3070
+华盛路	hua sheng lu	3069
+华盛路口	hua sheng lu kou	3068
+华泰东	hua tai dong	3067
+华泰花园	hua tai hua yuan	3066
+华泰路	hua tai lu	3065
+华泰路口	hua tai lu kou	3064
+华泰苑	hua tai yuan	3063
+华天花园	hua tian hua yuan	3062
+华夏工业中心	hua xia gong ye zhong xin	3061
+华厦学院	hua xia xue yuan	202
+华夏学院	hua xia xue yuan	3060
+华新路	hua xin lu	3059
+华星	hua xing	3058
+华星大厦	hua xing da sha	3057
+华源	hua yuan	3056
+华源大厦	hua yuan da sha	3055
+花园桥	hua yuan qiao	97
+华岳山庄	hua yue shan zhuang	3054
+环丙路	huan bing lu	3052
+环城北路	huan cheng bei lu	3051
+环城东路	huan cheng dong lu	3050
+环城南路	huan cheng nan lu	3049
+环城西路	huan cheng xi lu	3048
+环岛东路	huan dao dong lu	3047
+环岛路	huan dao lu	3046
+环岛南路	huan dao nan lu	3045
+环卫大厦	huan wei da sha	3044
+环珠路	huan zhu lu	3043
+黄坂	huang ban	3039
+黄厝	huang cuo	3038
+黄厝海滨	huang cuo hai bin	3037
+黄厝路	huang cuo lu	3036
+黄厝石胃头	huang cuo shi wei tou	3035
+黄厝巷	huang cuo xiang	3034
+黄厝云海山庄	huang cuo yun hai shan zhuang	3033
+皇达	huang da	3042
+皇达大厦	huang da da sha	3041
+黄地	huang di	3032
+皇帝井	huang di jing	3040
+黄岗	huang gang	3031
+黄金大厦	huang jin da sha	3030
+黄任西二路	huang ren xi er lu	3029
+黄山前	huang shan qian	3028
+黄廷元	huang ting yuan	3027
+黄头	huang tou	3026
+黄土坡	huang tu po	111
+晃岩路	huang yan lu	3024
+黄庄	huang zhuang	3025
+灰埕	hui cheng	3023
+汇成花园	hui cheng hua yuan	3021
+汇成锦绣金山小区	hui cheng jin xiu jin shan xiao qu	3020
+汇川苑	hui chuan yuan	3019
+汇丰家园	hui feng jia yuan	3018
+惠豪中心	hui hao zhong xin	2999
+惠鸿花园	hui hong hua yuan	2998
+慧景城	hui jing cheng	2990
+汇景园	hui jing yuan	3017
+汇利花园	hui li hua yuan	3016
+会林	hui lin	3010
+惠灵顿路	hui ling dun lu	2997
+灰沙埕	hui sha cheng	3022
+惠盛花园	hui sheng hua yuan	2996
+汇盛花园	hui sheng hua yuan	3015
+汇腾	hui teng	3014
+汇腾大厦	hui teng da sha	3013
+惠通巷	hui tong xiang	2995
+汇文路	hui wen lu	3012
+惠祥花园	hui xiang hua yuan	2994
+汇兴石材	hui xing shi cai	3011
+惠元集团	hui yuan ji tuan	2993
+惠元集团大厦	hui yuan ji tuan da sha	2992
+会展北路	hui zhan bei lu	3009
+会展六路	hui zhan liu lu	3008
+会展路	hui zhan lu	3007
+会展南二路	hui zhan nan er lu	3006
+会展南里	hui zhan nan li	3005
+会展南路	hui zhan nan lu	3004
+会展南七路	hui zhan nan qi lu	3003
+会展南三路	hui zhan nan san lu	3002
+会展南五路	hui zhan nan wu lu	3001
+会展中心	hui zhan zhong xin	3000
+惠佐	hui zuo	2991
+火车北站	huo che bei zhan	2989
+火炬北路	huo ju bei lu	2987
+火炬大厦	huo ju da sha	2986
+火炬东路	huo ju dong lu	2985
+火炬二路	huo ju er lu	2984
+火炬高科技工业园	huo ju gao ke ji gong ye yuan	2983
+火炬高科技开发区	huo ju gao ke ji kai fa qu	2982
+火炬路	huo ju lu	2981
+火矩路	huo ju lu	2988
+火炬三路	huo ju san lu	2980
+火炬园	huo ju yuan	2979
+集安路	ji an lu	2967
+集岑路	ji cen lu	2966
+机场大道	ji chang da dao	2978
+机场路口	ji chang lu kou	2977
+集成路	ji cheng lu	2965
+吉大吉新村	ji da ji xin cun	2971
+技工学校	ji gong xue xiao	2936
+集灌路	ji guan lu	2964
+绩光铜柱坊	ji guang tong zhu fang	2974
+集和路	ji he lu	2963
+集宏	ji hong	2962
+集宏大厦	ji hong da sha	2961
+吉家家世界	ji jia jia shi jie	2970
+基金大厦	ji jin da sha	2975
+集立	ji li	2960
+集美	ji mei	2959
+集美大唐世家	ji mei da tang shi jia	2958
+集美东路	ji mei dong lu	2957
+集美工商局	ji mei gong shang ju	2956
+集美花园	ji mei hua yuan	2955
+集美街道	ji mei jie dao	2954
+集美区	ji mei qu	2953
+集美区政府	ji mei qu zheng fu	2952
+集美税务	ji mei shui wu	2951
+集美学村	ji mei xue cun	2950
+集美寨	ji mei zhai	2949
+集美中心花园	ji mei zhong xin hua yuan	2948
+集群路	ji qun lu	2947
+鸡山路	ji shan lu	2976
+极山岩	ji shan yan	2968
+缉熙亭	ji xi ting	2973
+集贤路	ji xian lu	2946
+集祥路	ji xiang lu	2945
+吉祥山庄	ji xiang shan zhuang	2969
+集鑫佳园	ji xin jia yuan	2944
+集秀路	ji xiu lu	2943
+集银路	ji yin lu	2942
+集友	ji you	2941
+集友大厦	ji you da sha	2940
+集友公寓	ji you gong yu	2939
+集源路	ji yuan lu	2938
+集源南里	ji yuan nan li	2937
+祭葬石坊	ji zang shi fang	2935
+稽征所	ji zheng suo	2972
+佳宝	jia bao	2931
+佳宝大厦	jia bao da sha	2930
+嘉滨里	jia bin li	2921
+嘉滨路	jia bin lu	2920
+嘉诚工业小区	jia cheng gong ye xiao qu	2918
+佳成公寓	jia cheng gong yu	2929
+嘉城花园	jia cheng hua yuan	2917
+嘉成花园	jia cheng hua yuan	2919
+嘉达花园	jia da hua yuan	2916
+加墩	jia dun	2934
+嘉庚楼群	jia geng lou qun	2915
+嘉庚路	jia geng lu	2914
+嘉禾饭店	jia he fan dian	2913
+嘉禾花园	jia he hua yuan	2912
+佳和楼	jia he lou	2928
+嘉禾路	jia he lu	2911
+嘉禾路口	jia he lu kou	2910
+嘉禾园	jia he yuan	2909
+嘉湖花园	jia hu hua yuan	2908
+嘉华	jia hua	2907
+嘉华大厦	jia hua da sha	2906
+嘉华里	jia hua li	2905
+家家海景	jia jia hai jing	2923
+家家景园	jia jia jing yuan	2922
+佳境豪苑	jia jing hao yuan	2927
+嘉景花园	jia jing hua yuan	2904
+佳丽花园	jia li hua yuan	2926
+嘉莲	jia lian	2903
+嘉莲大厦	jia lian da sha	2902
+嘉莲街道	jia lian jie dao	2901
+嘉莲路	jia lian lu	2900
+嘉美花园	jia mei hua yuan	2899
+嘉年华	jia nian hua	2898
+嘉年华大厦	jia nian hua da sha	2897
+假日花园	jia ri hua yuan	2886
+假日商城	jia ri shang cheng	2885
+假日双星	jia ri shuang xing	2884
+嘉盛豪园	jia sheng hao yuan	2896
+嘉盛新村	jia sheng xin cun	2895
+加塘	jia tang	2933
+佳旺花园	jia wang hua yuan	2925
+嘉兴里	jia xing li	2894
+嘉兴寨	jia xing zhai	2893
+嘉英	jia ying	2892
+嘉英大厦	jia ying da sha	2891
+嘉裕花园	jia yu hua yuan	2890
+嘉园里	jia yuan li	2889
+嘉园路	jia yuan lu	2888
+嘉园路口	jia yuan lu kou	2887
+佳展花园	jia zhan hua yuan	2924
+加州海岸	jia zhou hai an	2932
+建邦	jian bang	2882
+建邦大厦	jian bang da sha	2881
+建邦花园	jian bang hua yuan	2880
+建宝花园	jian bao hua yuan	2879
+建材市场	jian cai shi chang	2878
+建昌花园	jian chang hua yuan	2877
+建达花园	jian da hua yuan	2876
+建东	jian dong	2875
+建东大厦	jian dong da sha	2874
+建发	jian fa	2873
+建发大厦	jian fa da sha	2872
+建发花园	jian fa hua yuan	2871
+建港路	jian gang lu	2870
+建行大厦	jian hang da sha	2859
+笕里	jian li	2883
+建龙	jian long	2869
+建龙大厦	jian long da sha	2868
+渐美	jian mei	2854
+渐美里	jian mei li	2853
+建南里	jian nan li	2867
+建南路	jian nan lu	2866
+渐前	jian qian	2852
+建群花园	jian qun hua yuan	2865
+建设大厦	jian she da sha	2864
+建文楼	jian wen lou	2863
+建新	jian xin	2862
+建兴路	jian xing lu	2861
+建兴新村	jian xing xin cun	2860
+建业	jian ye	2858
+建业大厦	jian ye da sha	2857
+建业路	jian ye lu	2856
+建中道路	jian zhong dao lu	2855
+江村	jiang cun	2851
+江华里	jiang hua li	2850
+江咀孜	jiang ju zi	46
+将军祠	jiang jun ci	2831
+将军祠路	jiang jun ci lu	2830
+将军洋	jiang jun yang	2829
+江鹭花园	jiang lu hua yuan	2849
+江宁里	jiang ning li	2848
+江浦北里	jiang pu bei li	2847
+江浦南里	jiang pu nan li	2846
+浆水尾	jiang shui wei	2828
+江顺里	jiang shun li	2845
+江头	jiang tou	2844
+江头北路	jiang tou bei lu	2843
+江头北区	jiang tou bei qu	2842
+江头东路	jiang tou dong lu	2841
+江头建材	jiang tou jian cai	2840
+江头街道	jiang tou jie dao	2839
+江头南路	jiang tou nan lu	2838
+江头市场	jiang tou shi chang	2837
+江头西路	jiang tou xi lu	2836
+江头小区	jiang tou xiao qu	2835
+江头小学	jiang tou xiao xue	2834
+江头医院	jiang tou yi yuan	2833
+江头苑小区	jiang tou yuan xiao qu	2832
+蒋尾	jiang wei	2827
+江郢	jiang ying	49
+郊边	jiao bian	2821
+角滨路	jiao bin lu	2820
+角滨路口	jiao bin lu kou	2819
+较场路	jiao chang lu	2816
+交警大队	jiao jing da dui	2826
+交警支队	jiao jing zhi dui	2825
+焦赛湖	jiao sai hu	142
+角嵩路	jiao song lu	2818
+交通疗养院	jiao tong liao yang yuan	2824
+交通银行	jiao tong yin hang	2823
+交通银行大厦	jiao tong yin hang da sha	2822
+角尾路	jiao wei lu	2817
+街市头	jie shi tou	2815
+金安里	jin an li	2814
+金安路	jin an lu	2813
+金榜大厦	jin bang da sha	2812
+金榜钓矶	jin bang diao ji	2811
+金榜公园	jin bang gong yuan	2810
+金榜路	jin bang lu	2809
+金榜南二路	jin bang nan er lu	2808
+金榜南路	jin bang nan lu	2807
+金榜南三里	jin bang nan san li	2806
+金榜山	jin bang shan	2805
+金榜铁路家园	jin bang tie lu jia yuan	2804
+金榜西二路	jin bang xi er lu	2803
+金榜西路	jin bang xi lu	2802
+金榜西三路	jin bang xi san lu	2801
+金北花园	jin bei hua yuan	2800
+金宾士	jin bin shi	2799
+金宾士大厦	jin bin shi da sha	2798
+金柄	jin bing	2797
+金昌里	jin chang li	2796
+金昌路	jin chang lu	2795
+金车石刻	jin che shi ke	2794
+金成	jin cheng	2793
+金成大厦	jin cheng da sha	2792
+金鼎	jin ding	2791
+金鼎路	jin ding lu	2790
+金鼎巷	jin ding xiang	2789
+金丰花园	jin feng hua yuan	2788
+金丰里	jin feng li	2787
+金峰山庄	jin feng shan zhuang	2785
+金枫园	jin feng yuan	2786
+金富	jin fu	2784
+金富大厦	jin fu da sha	2783
+金岗山	jin gang shan	2782
+金国里	jin guo li	2781
+金海豪园	jin hai hao yuan	2780
+金海花园	jin hai hua yuan	2779
+金鸿花园	jin hong hua yuan	2778
+金湖花园	jin hu hua yuan	2777
+金湖路	jin hu lu	2776
+金花	jin hua	2775
+金花大厦	jin hua da sha	2774
+金鸡南路	jin ji nan lu	2773
+金鸡亭	jin ji ting	2772
+金家	jin jia	81
+金磊花园	jin lei hua yuan	2771
+锦里	jin li	2703
+金林花园	jin lin hua yuan	2770
+金岭	jin ling	2769
+金领广场	jin ling guang chang	2766
+金岭花园	jin ling hua yuan	2768
+金岭园	jin ling yuan	2767
+金龙	jin long	2765
+金龙大厦	jin long da sha	2764
+金龙花园	jin long hua yuan	2763
+金鹭花园	jin lu hua yuan	2762
+金鹭职工之家	jin lu zhi gong zhi jia	2761
+金茂花园	jin mao hua yuan	2760
+进美山	jin mei shan	2694
+金民里	jin min li	2759
+金民路	jin min lu	2758
+金茗	jin ming	2757
+金茗大厦	jin ming da sha	2756
+金茗花园	jin ming hua yuan	2755
+金桥	jin qiao	2753
+金桥路	jin qiao lu	2752
+金侨园	jin qiao yuan	2754
+金桥园	jin qiao yuan	2751
+金秋花园	jin qiu hua yuan	2750
+金日路	jin ri lu	2749
+金融大厦	jin rong da sha	2748
+金瑞园	jin rui yuan	2747
+金沙花园	jin sha hua yuan	2746
+金山城	jin shan cheng	2745
+金山大厦	jin shan da sha	2744
+金山花园	jin shan hua yuan	2743
+金山街道	jin shan jie dao	2742
+金山路	jin shan lu	2741
+金山松石	jin shan song shi	2740
+金山西二里	jin shan xi er li	2739
+金山西里	jin shan xi li	2738
+金山西路	jin shan xi lu	2737
+金山西三里	jin shan xi san li	2736
+金山小区	jin shan xiao qu	2735
+金尚	jin shang	2734
+金尚路	jin shang lu	2733
+金尚路口	jin shang lu kou	2732
+金尚小区	jin shang xiao qu	2731
+金盛	jin sheng	2730
+金盛大厦	jin sheng da sha	2729
+金盛里	jin sheng li	2728
+金盛路	jin sheng lu	2727
+金属公司	jin shu gong si	2705
+金泰	jin tai	2726
+金泰里	jin tai li	2725
+金泰路	jin tai lu	2724
+锦亭北路	jin ting bei lu	2702
+金庭花园	jin ting hua yuan	2723
+金同花园	jin tong hua yuan	2722
+锦西路	jin xi lu	2701
+金祥	jin xiang	2721
+金祥大厦	jin xiang da sha	2720
+金象嘉园	jin xiang jia yuan	2717
+金象家园	jin xiang jia yuan	2718
+金祥社区	jin xiang she qu	2719
+金鑫工贸	jin xin gong mao	2714
+金新河巷	jin xin he xiang	2716
+金新街	jin xin jie	2715
+金星大厦	jin xing da sha	2713
+金星路	jin xing lu	2712
+锦绣花园	jin xiu hua yuan	2699
+锦秀山庄	jin xiu shan zhuang	2700
+金银花园	jin yin hua yuan	2711
+金永昌家园	jin yong chang jia yuan	2710
+金源	jin yuan	2709
+锦园	jin yuan	2698
+锦园村	jin yuan cun	2697
+锦园村口	jin yuan cun kou	2696
+金源大厦	jin yuan da sha	2708
+金源花园	jin yuan hua yuan	2707
+锦园新村	jin yuan xin cun	2695
+金岳花园	jin yue hua yuan	2706
+金庄花园	jin zhuang hua yuan	2704
+井城	jing cheng	2688
+经典大厦	jing dian da sha	2690
+京江	jing jiang	2693
+京江大厦	jing jiang da sha	2692
+京口	jing kou	2691
+井内	jing nei	2687
+井泉路	jing quan lu	2686
+靖山路	jing shan lu	2679
+井上	jing shang	2685
+井头	jing tou	2684
+井头路	jing tou lu	2683
+精图	jing tu	2689
+敬贤路	jing xian lu	2681
+敬贤区	jing xian qu	2680
+景州乐园	jing zhou le yuan	2682
+九斗中	jiu dou zhong	2678
+九房头	jiu fang tou	2677
+九十九间	jiu shi jiu jian	2676
+九天湖西二路	jiu tian hu xi er lu	2675
+九条巷	jiu tiao xiang	2674
+九溪室	jiu xi shi	2673
+九溪尾	jiu xi wei	2672
+九栈林	jiu zhan lin	2671
+九洲花园	jiu zhou hua yuan	2668
+九州商社	jiu zhou shang she	2670
+九州商社大厦	jiu zhou shang she da sha	2669
+居安里	ju an li	2667
+聚德利酒店	ju de li jiu dian	120
+聚发新村	ju fa xin cun	2663
+局口横巷	ju kou heng xiang	2666
+局口街	ju kou jie	2665
+局口南街	ju kou nan jie	2664
+聚祥广场	ju xiang guang chang	2662
+聚祥花园	ju xiang hua yuan	2661
+军村	jun cun	2660
+骏景园	jun jing yuan	2659
+骏宇广场	jun yu guang chang	2658
+凯城花园	kai cheng hua yuan	2649
+凯歌路	kai ge lu	2648
+开禾路	kai he lu	2657
+开禾路口	kai he lu kou	2656
+开明电影城	kai ming dian ying cheng	2655
+开平路	kai ping lu	2654
+凯兴路	kai xing lu	2647
+凯旋广场	kai xuan guang chang	2646
+开元街道	kai yuan jie dao	2653
+开元街道办	kai yuan jie dao ban	2652
+开元路	kai yuan lu	2651
+开元文体楼	kai yuan wen ti lou	2650
+凯悦丽池	kai yue li chi	2645
+凯悦丽池大厦	kai yue li chi da sha	2644
+康厝	kang cuo	2643
+康尔韫	kang er yun	2642
+康晖	kang hui	2641
+康乐华联	kang le hua lian	2640
+康乐路	kang le lu	2639
+康乐新村	kang le xin cun	2638
+康泰路	kang tai lu	2637
+康浔	kang xun	2636
+柯厝	ke cuo	2635
+柯达	ke da	2634
+柯达大厦	ke da da sha	2633
+科技村	ke ji cun	2631
+科技大厦	ke ji da sha	2630
+柯井	ke jing	2632
+科瑞	ke rui	2629
+科瑞大厦	ke rui da sha	2628
+科研	ke yan	25
+坑内	keng nei	2627
+坑内路	keng nei lu	2626
+坑内路口	keng nei lu kou	2625
+坑山	keng shan	2624
+坑尾	keng wei	2623
+坑洋	keng yang	2622
+坑园埔	keng yuan pu	2621
+坑仔口	keng zai kou	2620
+空港酒店	kong gang jiu dian	2619
+空中花园	kong zhong hua yuan	2618
+苦竹尾	ku zhu wei	2617
+昆仑公寓	kun lun gong yu	2615
+坤泽洋	kun ze yang	2616
+蓝湾半岛	lan wan ban dao	2614
+蓝湾国际	lan wan guo ji	2613
+朗纳中专	lang na zhong zhuan	2612
+浪丘	lang qiu	2611
+浪丘花园	lang qiu hua yuan	2610
+劳动力大厦	lao dong li da sha	2609
+劳动力市场	lao dong li shi chang	2608
+劳动力市场大厦	lao dong li shi chang da sha	2607
+老方庄	lao fang zhuang	124
+老埂村	lao geng cun	125
+老虎尖	lao hu jian	122
+老田庄	lao tian zhuang	123
+老王庄	lao wang zhuang	47
+劳务市场	lao wu shi chang	2606
+乐海路	le hai lu	2605
+乐海南里	le hai nan li	2604
+磊鑫	lei xin	2603
+磊鑫大厦	lei xin da sha	2602
+冷冻厂	leng dong chang	2601
+黎垵	li an	2599
+李厝	li cuo	2598
+李厝辽	li cuo liao	2597
+李府钱岁	li fu qian sui	2596
+理工学院	li gong xue yuan	2594
+立杰	li jie	2593
+立杰大厦	li jie da sha	2592
+利景	li jing	2586
+立晶科技	li jing ke ji	2591
+立晶科技大厦	li jing ke ji da sha	2590
+利景商厦	li jing shang sha	2585
+利来美	li lai mei	2584
+李林	li lin	2595
+立赛亚金丰花园	li sai ya jin feng hua yuan	2589
+立信	li xin	2588
+立信广场	li xin guang chang	2587
+梨仔林	li zai lin	2600
+励志路	li zhi lu	2583
+莲坂	lian ban	2581
+莲坂国贸	lian ban guo mao	2580
+莲坂西小区	lian ban xi xiao qu	2579
+莲坂小区	lian ban xiao qu	2578
+莲坂新村	lian ban xin cun	2577
+莲坂新华书店	lian ban xin hua shu dian	2576
+莲北小区	lian bei xiao qu	2575
+莲滨里	lian bin li	2574
+莲成	lian cheng	2573
+莲成大厦	lian cheng da sha	2572
+联发花园	lian fa hua yuan	2513
+联丰	lian feng	2512
+莲丰	lian feng	2571
+联丰大厦	lian feng da sha	2511
+联丰瑞园	lian feng rui yuan	2510
+联丰商城	lian feng shang cheng	2509
+莲富	lian fu	2568
+莲富大厦	lian fu da sha	2567
+莲福大厦	lian fu da sha	2570
+莲福广场	lian fu guang chang	2569
+莲河	lian he	2566
+莲河路	lian he lu	2565
+莲后	lian hou	2564
+莲湖	lian hu	2563
+莲湖花园	lian hu hua yuan	2562
+莲华	lian hua	2543
+莲花北	lian hua bei	2561
+莲花北路	lian hua bei lu	2560
+莲华大厦	lian hua da sha	2542
+莲花登特口腔	lian hua deng te kou qiang	2559
+莲花二村	lian hua er cun	2558
+莲花广场	lian hua guang chang	2557
+莲花花园	lian hua hua yuan	2556
+联华楼	lian hua lou	2508
+莲花路口	lian hua lu kou	2555
+莲花路口东	lian hua lu kou dong	2554
+莲花南路	lian hua nan lu	2553
+莲花三村	lian hua san cun	2552
+莲花天伦花园	lian hua tian lun hua yuan	2551
+莲花五村	lian hua wu cun	2550
+莲花西路	lian hua xi lu	2549
+莲花新村	lian hua xin cun	2548
+莲花幼儿园	lian hua you er yuan	2547
+莲花镇	lian hua zhen	2546
+莲花中学	lian hua zhong xue	2545
+莲花洲	lian hua zhou	2544
+莲景二里	lian jing er li	2541
+莲景花园	lian jing hua yuan	2540
+莲景路	lian jing lu	2539
+莲景三路	lian jing san lu	2538
+莲景一里	lian jing yi li	2537
+莲前	lian qian	2536
+莲前东路	lian qian dong lu	2535
+莲前街道	lian qian jie dao	2534
+莲前水务集团	lian qian shui wu ji tuan	2533
+莲前西路	lian qian xi lu	2532
+莲山头	lian shan tou	2531
+连胜路	lian sheng lu	2582
+莲顺	lian shun	2530
+联泰	lian tai	2507
+联泰大厦	lian tai da sha	2506
+莲塘	lian tang	2529
+莲塘路	lian tang lu	2528
+莲头	lian tou	2527
+莲薇	lian wei	2526
+莲西	lian xi	2525
+莲翔	lian xiang	2524
+联想大厦	lian xiang da sha	2505
+莲兴	lian xing	2523
+莲兴里	lian xing li	2522
+莲秀	lian xiu	2521
+莲秀里	lian xiu li	2520
+莲怡	lian yi	2519
+联谊大厦	lian yi da sha	2504
+联谊广场	lian yi guang chang	2503
+联谊花园	lian yi hua yuan	2502
+莲岳	lian yue	2518
+莲岳里	lian yue li	2517
+莲岳路	lian yue lu	2516
+莲岳路口	lian yue lu kou	2515
+莲云	lian yun	2514
+梁厝	liang cuo	2501
+梁燕	liang yan	83
+料船头街	liao chuan tou jie	2495
+蓼花路	liao hua lu	2496
+廖坑	liao keng	2499
+寮野	liao ye	2498
+辽仔上	liao zai shang	2500
+寮仔尾	liao zai wei	2497
+烈士陵园	lie shi ling yuan	2494
+林傍坑	lin bang keng	2493
+林边	lin bian	2492
+林柄	lin bing	2491
+林厝	lin cuo	2490
+林埭	lin dai	2489
+林后	lin hou	2488
+林后北里	lin hou bei li	2487
+林后路	lin hou lu	2486
+林脚	lin jiao	2485
+林君升	lin jun sheng	2484
+林前	lin qian	2483
+林头	lin tou	2482
+林尾	lin wei	2481
+林尾外	lin wei wai	2480
+林溪宫	lin xi gong	2477
+林西路	lin xi lu	2479
+林希元	lin xi yuan	2478
+林下	lin xia	2476
+林窑	lin yao	2475
+岭兜	ling dou	2473
+岭兜北二路	ling dou bei er lu	2472
+岭兜北路	ling dou bei lu	2471
+岭兜二里	ling dou er li	2470
+岭兜二路	ling dou er lu	2469
+岭兜工业区	ling dou gong ye qu	2468
+岭兜五路	ling dou wu lu	2467
+岭兜西二里	ling dou xi er li	2466
+岭兜西路	ling dou xi lu	2465
+岭兜西一里	ling dou xi yi li	2464
+岭兜小区	ling dou xiao qu	2463
+岭兜新村	ling dou xin cun	2462
+岭兜一里	ling dou yi li	2461
+凌峰路	ling feng lu	2454
+岭南里	ling nan li	2460
+岭南路	ling nan lu	2459
+岭上	ling shang	2458
+岭头	ling tou	2457
+岭尾	ling wei	2456
+岭下	ling xia	2455
+凌香路	ling xiang lu	2453
+凌宵	ling xiao	2452
+凌宵大厦	ling xiao da sha	2451
+灵应殿巷	ling ying dian xiang	2474
+凌云北路	ling yun bei lu	2450
+凌云楼	ling yun lou	2449
+凌云路	ling yun lu	2448
+凌云区	ling yun qu	2447
+凌志	ling zhi	2446
+凌志大厦	ling zhi da sha	2445
+刘冲	liu chong	106
+刘厝	liu cuo	2444
+刘埭	liu dai	2443
+刘静轩	liu jing xuan	2442
+六落	liu luo	2436
+刘山	liu shan	2441
+刘塘	liu tang	2440
+刘五店	liu wu dian	2439
+刘五店路	liu wu dian lu	2438
+刘营	liu ying	2437
+六柱	liu zhu	2435
+龙昌里	long chang li	2434
+龙昌路	long chang lu	2433
+龙城公寓	long cheng gong yu	2432
+龙池路	long chi lu	2431
+龙船路	long chuan lu	2430
+龙东	long dong	2429
+龙凤山庄	long feng shan zhuang	2428
+龙福花园	long fu hua yuan	2426
+龙伏路	long fu lu	2427
+龙河	long he	86
+龙虎北路	long hu bei lu	2425
+龙虎东路	long hu dong lu	2424
+龙虎南二里	long hu nan er li	2423
+龙虎南里	long hu nan li	2422
+龙虎南三里	long hu nan san li	2421
+龙虎南四里	long hu nan si li	2420
+龙虎山路	long hu shan lu	2419
+龙虎西二里	long hu xi er li	2418
+龙华大厦	long hua da sha	2417
+龙华里	long hua li	2416
+龙华路	long hua lu	2415
+龙辉花园	long hui hua yuan	2414
+龙江	long jiang	2413
+龙江大厦	long jiang da sha	2412
+龙景花园	long jing hua yuan	2411
+龙门世家	long men shi jia	2410
+龙门天下	long men tian xia	2409
+龙庙	long miao	2408
+龙强路	long qiang lu	2407
+龙秋	long qiu	2406
+垄坵湖	long qiu hu	2370
+龙泉亭	long quan ting	2405
+龙山	long shan	2404
+龙山北路	long shan bei lu	2403
+龙山东二路	long shan dong er lu	2402
+龙山东路	long shan dong lu	2401
+龙山路	long shan lu	2400
+龙山南路	long shan nan lu	2399
+龙山桥	long shan qiao	2398
+龙山桥路	long shan qiao lu	2397
+龙山山庄	long shan shan zhuang	2396
+龙山寺东二路	long shan si dong er lu	2395
+龙山寺东路	long shan si dong lu	2394
+龙山寺西路	long shan si xi lu	2393
+龙山寺中路	long shan si zhong lu	2392
+龙山西路	long shan xi lu	2391
+龙山中路	long shan zhong lu	2390
+龙盛花园	long sheng hua yuan	2389
+龙盛里	long sheng li	2388
+龙潭花园	long tan hua yuan	2387
+龙潭仑	long tan lun	2386
+龙腾花园	long teng hua yuan	2385
+龙头路	long tou lu	2384
+龙头山寨	long tou shan zhai	2383
+垄尾	long wei	2369
+龙西	long xi	2382
+龙祥花园	long xiang hua yuan	2381
+龙翔花园	long xiang hua yuan	2380
+龙翔里	long xiang li	2379
+龙翔路	long xiang lu	2378
+龙眼林	long yan lin	2377
+龙渊别墅	long yuan bie shu	2376
+龙泽别墅	long ze bie shu	2375
+龙州	long zhou	2374
+龙舟池	long zhou chi	2372
+龙州大厦	long zhou da sha	2373
+龙舟新村	long zhou xin cun	2371
+楼里	lou li	2368
+路坂尾	lu ban wei	2356
+路坂尾埔	lu ban wei pu	2355
+路边许	lu bian xu	2354
+鹭槟	lu bin	2344
+鹭槟大厦	lu bin da sha	2343
+卢厝	lu cuo	2367
+鹭大	lu da	2342
+陆丰	lu feng	2359
+鹭峰宾馆	lu feng bin guan	2341
+陆丰里	lu feng li	2358
+卢戆章	lu gang zhang	2366
+鹭辉	lu hui	2340
+鹭辉大厦	lu hui da sha	2339
+鹭江	lu jiang	2338
+鹭江道	lu jiang dao	2337
+鹭江海景花园	lu jiang hai jing hua yuan	2336
+鹭江街道	lu jiang jie dao	2335
+鹿礁路	lu jiao lu	2357
+鹭景湾	lu jing wan	2334
+芦坑	lu keng	2364
+路林	lu lin	2353
+路岭	lu ling	2352
+炉前	lu qian	2362
+炉前路	lu qian lu	2361
+路桥	lu qiao	2351
+路桥大厦	lu qiao da sha	2350
+路桥商厦	lu qiao shang sha	2349
+庐山大厦	lu shan da sha	2365
+芦山堂	lu shan tang	2363
+路山头	lu shan tou	2348
+炉塘	lu tang	2360
+鹭腾花园	lu teng hua yuan	2333
+路头	lu tou	2347
+路头尾	lu tou wei	2346
+路下	lu xia	2345
+鹭悦豪庭	lu yue hao ting	2332
+鹭悦小区	lu yue xiao qu	2331
+鹭洲花园	lu zhou hua yuan	2330
+銮浦路	luan pu lu	2312
+仑后	lun hou	2311
+轮山路	lun shan lu	2307
+仑上	lun shang	2310
+仑头	lun tou	2309
+仑仔尾	lun zai wei	2308
+罗田	luo tian	2306
+罗溪	luo xi	2305
+吕厝	lv cuo	2329
+吕厝北	lv cuo bei	2328
+吕厝路	lv cuo lu	2327
+吕厝西	lv cuo xi	2326
+绿辉花园	lv hui hua yuan	2320
+绿家园	lv jia yuan	2319
+吕岭	lv ling	2325
+绿岭	lv ling	2318
+吕岭花园	lv ling hua yuan	2324
+吕岭路	lv ling lu	2323
+绿泉	lv quan	2317
+绿泉新村	lv quan xin cun	2316
+吕塘	lv tang	2322
+绿苑小区	lv yuan xiao qu	2315
+绿洲工贸园	lv zhou gong mao yuan	2314
+绿洲花园	lv zhou hua yuan	2313
+旅总储运	lv zong chu yun	2321
+马垵	ma an	2304
+马槽	ma cao	114
+马池	ma chi	2303
+马池内	ma chi nei	2302
+马池塘	ma chi tang	2301
+马厝	ma cuo	2300
+马豆	ma dou	2299
+马湖	ma hu	2298
+马箭巷	ma jian xiang	2297
+马垄	ma long	2296
+马垅	ma long	2293
+马垄路	ma long lu	2295
+马垄新村	ma long xin cun	2294
+马卢奇路	ma lu qi lu	2292
+马銮	ma luan	2291
+马銮海堤	ma luan hai di	2290
+马銮路	ma luan lu	2289
+马青路	ma qing lu	2288
+马塘	ma tang	2287
+马巷	ma xiang	2286
+马巷车站	ma xiang che zhan	2285
+马巷街	ma xiang jie	2284
+马巷市场	ma xiang shi chang	2283
+马巷镇	ma xiang zhen	2282
+马巷镇政府	ma xiang zhen zheng fu	2281
+麦埕	mai cheng	2280
+麦德龙	mai de long	2279
+卖鸡巷	mai ji xiang	2278
+茂安	mao an	2277
+茂后	mao hou	2276
+茂口	mao kou	2275
+茂林	mao lin	2274
+茂前	mao qian	2273
+美场	mei chang	2268
+玫瑰园	mei gui yuan	2272
+美禾路	mei he lu	2267
+美湖	mei hu	2266
+美湖花园	mei hu hua yuan	2265
+美湖路	mei hu lu	2264
+美埔	mei pu	2263
+美岐山	mei qi shan	2262
+美仁	mei ren	2261
+美仁宫	mei ren gong	2260
+美仁宫大厦	mei ren gong da sha	2259
+美仁后社	mei ren hou she	2258
+美仁里	mei ren li	2257
+美仁前社	mei ren qian she	2256
+美仁新村	mei ren xin cun	2255
+梅山	mei shan	2271
+美山	mei shan	2254
+梅山路	mei shan lu	2270
+美山路	mei shan lu	2253
+美头山路	mei tou shan lu	2252
+美仙湖	mei xian hu	2251
+美新广场	mei xin guang chang	2250
+美星	mei xing	2249
+美星路	mei xing lu	2248
+美洋	mei yang	2247
+梅阳花园	mei yang hua yuan	2269
+美源别墅	mei yuan bie shu	2246
+美宅	mei zhai	2245
+美真宫	mei zhen gong	2244
+美珠堂	mei zhu tang	2243
+门口地	men kou di	2242
+孟家	meng jia	99
+面前厝	mian qian cuo	2240
+面前坡	mian qian po	2239
+面前埔	mian qian pu	2238
+面前山	mian qian shan	2237
+面墙	mian qiang	108
+棉袜路	mian wa lu	2241
+庙村	miao cun	2235
+庙兜	miao dou	2234
+妙高山	miao gao shan	2236
+庙后	miao hou	2233
+庙山	miao shan	2232
+苗竹园	miao zhu yuan	117
+民安大道	min an da dao	2231
+民安路	min an lu	2230
+岷宫	min gong	2222
+岷宫大厦	min gong da sha	2221
+民立小学	min li xiao xue	2229
+闽南	min nan	2220
+闽南大厦	min nan da sha	2219
+闽侨	min qiao	2218
+闽侨大厦	min qiao da sha	2217
+民盛	min sheng	2228
+民盛大厦	min sheng da sha	2227
+民盛商厦	min sheng shang sha	2226
+民盛商厦小区	min sheng shang sha xiao qu	2225
+闽俗村	min su cun	2216
+民治路	min zhi lu	2224
+民族路	min zu lu	2223
+明德花园	ming de hua yuan	2209
+铭恩亭	ming en ting	2194
+明发国际新城	ming fa guo ji xin cheng	2208
+明发海景苑	ming fa hai jing yuan	2207
+明发豪庭	ming fa hao ting	2206
+明发新城	ming fa xin cheng	2205
+明发园	ming fa yuan	2204
+茗芳	ming fang	2196
+茗芳大厦	ming fang da sha	2195
+明芳花园	ming fang hua yuan	2203
+名汇铜锣湾广场	ming hui tong luo wan guang chang	2215
+铭爵山庄	ming jue shan zhuang	2193
+明丽花园	ming li hua yuan	2202
+名仕	ming shi	2214
+名仕阁	ming shi ge	2213
+名仕花园	ming shi hua yuan	2212
+名仕御园别墅	ming shi yu yuan bie shu	2211
+名仕园	ming shi yuan	2210
+明溪	ming xi	2201
+明溢花园	ming yi hua yuan	2200
+明园	ming yuan	2199
+明园大厦	ming yuan da sha	2198
+明园花园	ming yuan hua yuan	2197
+缪拐	miu guai	59
+缪拐村	miu guai cun	58
+缪郢	miu ying	60
+摩尔莲花	mo er lian hua	2192
+谋福	mou fu	2191
+谋福大厦	mou fu da sha	2190
+幕庵	mu an	2187
+幕边	mu bian	2186
+穆厝	mu cuo	2185
+穆厝村口	mu cuo cun kou	2184
+穆厝东	mu cuo dong	2183
+牡丹园	mu dan yuan	2189
+木浦路	mu pu lu	2188
+纳场	na chang	2163
+奈仔顶	nai zai ding	2162
+奈仔尾	nai zai wei	2161
+南堡	nan bao	68
+南大埕巷	nan da cheng xiang	2160
+南岗	nan gang	2159
+南港	nan gang	113
+南海路	nan hai lu	2158
+南湖公园	nan hu gong yuan	2157
+南湖公园东门	nan hu gong yuan dong men	2156
+南湖花园	nan hu hua yuan	2155
+南湖明珠	nan hu ming zhu	2154
+南华	nan hua	2153
+南华路	nan hua lu	2152
+南轿巷	nan jiao xiang	2151
+南坑	nan keng	2150
+南门	nan men	2149
+南门里	nan men li	2148
+南门路	nan men lu	2147
+南门新村	nan men xin cun	2146
+南普陀	nan pu tuo	2145
+南普陀路	nan pu tuo lu	2144
+南崎尾	nan qi wei	2143
+南区农贸	nan qu nong mao	2142
+南区一里	nan qu yi li	2141
+男人湾	nan ren wan	138
+南山	nan shan	2140
+南山弘信创业	nan shan hong xin chuang ye	2139
+南山疗养院	nan shan liao yang yuan	2138
+南山路	nan shan lu	2137
+南山小区	nan shan xiao qu	2136
+南山新村	nan shan xin cun	2135
+南泰苑	nan tai yuan	2134
+南田巷	nan tian xiang	2133
+南尾井	nan wei jing	2132
+南溪仔墘街	nan xi zai qian jie	2131
+南行	nan xing	82
+南亚塑胶厂	nan ya su jiao chang	2130
+南洋大厦	nan yang da sha	2129
+南义和街	nan yi he jie	2128
+南岳山庄	nan yue shan zhuang	2127
+南猪行巷	nan zhu xing xiang	2126
+内垵	nei an	2181
+内庵	nei an	2182
+内厝	nei cuo	2180
+内厝澳路	nei cuo ao lu	2179
+内厝镇	nei cuo zhen	2178
+内官	nei guan	2177
+内官路	nei guan lu	2176
+内坑	nei keng	2175
+内寮	nei liao	2174
+内林	nei lin	2173
+内垄	nei long	2172
+内茂里	nei mao li	2171
+内山	nei shan	2170
+内塘边	nei tang bian	2169
+内田	nei tian	2168
+内头	nei tou	2167
+内武庙街	nei wu miao jie	2166
+内宅上	nei zhai shang	2165
+内宅下	nei zhai xia	2164
+泥窟	ni ku	2125
+泥山	ni shan	2124
+酿酒厂	niang jiu chang	2120
+娘妈宫口	niang ma gong kou	2123
+娘巷	niang xiang	2122
+娘仔墓	niang zai mu	2121
+聂墩	nie dun	121
+宁宝	ning bao	2119
+宁宝花园	ning bao hua yuan	2118
+宁宝小区	ning bao xiao qu	2117
+宁店	ning dian	2116
+宁坑	ning keng	2115
+牛车	niu che	62
+牛磨巷	niu mo xiang	2114
+农行大厦	nong hang da sha	2113
+欧厝	ou cuo	2112
+欧厝垄	ou cuo long	2111
+欧垄	ou long	2110
+排前	pai qian	2109
+排头路	pai tou lu	2108
+潘厝	pan cuo	2107
+盘龙路	pan long lu	2103
+盘石炮台	pan shi pao tai	2102
+潘涂	pan tu	2106
+潘涂路	pan tu lu	2105
+潘圩	pan xu	144
+潘宅	pan zhai	2104
+配料馆巷	pei liao guan xiang	2101
+彭厝	peng cuo	2100
+澎湖	peng hu	2098
+彭美	peng mei	2099
+彭坦	peng tan	89
+坪边	ping bian	2097
+坪埕	ping cheng	2096
+坪山	ping shan	2095
+屏乡	ping xiang	2094
+破门楼	po men lou	132
+破屋	po wu	77
+埔阿顶	pu a ding	2088
+埔边	pu bian	2087
+浦边	pu bian	2073
+埔地	pu di	2086
+埔顶	pu ding	2085
+浦东	pu dong	2072
+浦东路	pu dong lu	2071
+埔后	pu hou	2084
+埔里	pu li	2083
+普利	pu li	2057
+铺里	pu li	2093
+普利大厦	pu li da sha	2056
+浦林	pu lin	2070
+浦南	pu nan	2069
+浦南二路	pu nan er lu	2068
+蒲南二路	pu nan er lu	2089
+浦南里	pu nan li	2067
+浦南三路	pu nan san lu	2066
+浦南新村	pu nan xin cun	2065
+浦南一路	pu nan yi lu	2064
+铺内	pu nei	2092
+埔崎头	pu qi tou	2082
+埔墘	pu qian	2081
+铺前	pu qian	2091
+铺前路	pu qian lu	2090
+浦清里	pu qing li	2063
+埔山	pu shan	2080
+浦头	pu tou	2062
+埔尾	pu wei	2079
+浦尾	pu wei	2061
+埔尾下	pu wei xia	2078
+浦西路	pu xi lu	2060
+埔下	pu xia	2077
+埔央	pu yang	2076
+普佑街	pu you jie	2055
+浦园	pu yuan	2059
+埔仔	pu zai	2074
+浦中路	pu zhong lu	2058
+埔中央	pu zhong yang	2075
+七房场	qi fang chang	2054
+棋杆	qi gan	2041
+旗杆巷	qi gan xiang	2039
+崎沟	qi gou	2047
+崎口下	qi kou xia	2046
+七里	qi li	2053
+麒麟路	qi lin lu	2037
+崎路	qi lu	2045
+棋盘厝	qi pan cuo	2040
+岐山北路	qi shan bei lu	2049
+岐山路	qi shan lu	156
+旗山路	qi shan lu	2038
+崎头	qi tou	2044
+气象台路	qi xiang tai lu	2036
+七星路	qi xing lu	2052
+七星西路	qi xing xi lu	2051
+七星园	qi xing yuan	2050
+崎洋	qi yang	2043
+祈雨道场	qi yu dao chang	2048
+崎圳	qi zhen	2042
+恰和	qia he	2035
+恰和大厦	qia he da sha	2034
+恰祥	qia xiang	2033
+恰祥大厦	qia xiang da sha	2032
+前垵	qian an	2028
+前庵	qian an	2030
+前垵顶	qian an ding	2027
+前庵路	qian an lu	2029
+前垵下	qian an xia	2026
+前曹洼	qian cao wa	33
+前岑	qian cen	2025
+前茶寮	qian cha liao	2024
+前村二里	qian cun er li	2023
+前村埔路	qian cun pu lu	2022
+前厝	qian cuo	2021
+前墩	qian dun	2020
+前格	qian ge	2019
+前珩	qian heng	2018
+前湖	qian hu	2017
+前坑	qian keng	2016
+乾隆御制碑	qian long yu zhi bei	1982
+钱炉灰埕横巷	qian lu hui cheng heng xiang	1984
+钱炉灰埕巷	qian lu hui cheng xiang	1983
+前埔	qian pu	2015
+前埔北	qian pu bei	2014
+前埔北路	qian pu bei lu	2013
+前埔边	qian pu bian	2012
+前埔村	qian pu cun	2011
+前埔东路	qian pu dong lu	2010
+前埔东一里	qian pu dong yi li	2009
+前埔二里	qian pu er li	2008
+前埔工业区	qian pu gong ye qu	2007
+前埔国贸	qian pu guo mao	2006
+前埔国贸新城	qian pu guo mao xin cheng	2005
+前埔路	qian pu lu	2004
+前埔南	qian pu nan	2003
+前埔南路	qian pu nan lu	2002
+前埔南区	qian pu nan qu	2001
+前埔南小区	qian pu nan xiao qu	2000
+前埔五里	qian pu wu li	1998
+前埔污水厂	qian pu wu shui chang	1999
+前埔西路	qian pu xi lu	1997
+前埔一里	qian pu yi li	1996
+前埔医院	qian pu yi yuan	1995
+前埔中二路	qian pu zhong er lu	1994
+前埔中路	qian pu zhong lu	1993
+前埔中学	qian pu zhong xue	1992
+前山	qian shan	1991
+前田	qian tian	1990
+前湾路	qian wan lu	1989
+前浯	qian wu	1988
+千禧园	qian xi yuan	2031
+前宅	qian zhai	1987
+前占	qian zhan	1985
+前詹	qian zhan	1986
+墙顶巷	qiang ding xiang	1981
+墙后	qiang hou	1980
+墙仔内	qiang zai nei	1979
+侨福	qiao fu	1976
+侨福城	qiao fu cheng	1975
+侨福里	qiao fu li	1974
+侨建花园	qiao jian hua yuan	1973
+侨建小区	qiao jian xiao qu	1972
+乔康	qiao kang	1978
+乔康大厦	qiao kang da sha	1977
+侨联大厦	qiao lian da sha	1971
+侨联工业	qiao lian gong ye	1970
+侨联工业大厦	qiao lian gong ye da sha	1969
+侨龙里	qiao long li	1968
+撬内	qiao nei	1950
+桥上	qiao shang	1953
+桥亭街	qiao ting jie	1952
+侨旺	qiao wang	1967
+侨旺大厦	qiao wang da sha	1966
+侨文里	qiao wen li	1965
+樵溪桥	qiao xi qiao	1951
+侨校新村	qiao xiao xin cun	1964
+侨星	qiao xing	1961
+侨星大厦	qiao xing da sha	1960
+侨兴里	qiao xing li	1963
+侨兴路	qiao xing lu	1962
+侨英	qiao ying	1959
+侨英街道	qiao ying jie dao	1958
+侨英街道办	qiao ying jie dao ban	1957
+侨英路	qiao ying lu	1956
+侨岳里	qiao yue li	1955
+侨岳路	qiao yue lu	1954
+琴岛花园	qin dao hua yuan	1946
+芩东路	qin dong lu	1949
+芹内	qin nei	1947
+芩西路	qin xi lu	1948
+勤业区	qin ye qu	1945
+青岛啤酒厂	qing dao pi jiu chang	1944
+轻工学校	qing gong xue xiao	1937
+青礁	qing jiao	1943
+青礁慈济	qing jiao ci ji	1942
+青礁路	qing jiao lu	1941
+青林	qing lin	92
+清明地	qing ming di	146
+卿朴	qing pu	1936
+卿朴路	qing pu lu	1935
+青泉	qing quan	1940
+青石巷	qing shi xiang	1939
+青塘后	qing tang hou	1938
+琼坑	qiong keng	1934
+琼头	qiong tou	1933
+琼头路	qiong tou lu	1932
+邱厝	qiu cuo	1931
+泉水潭	quan shui tan	148
+泉舜花园	quan shun hua yuan	1930
+泉州路	quan zhou lu	1929
+泉州巷	quan zhou xiang	1928
+群贤路	qun xian lu	1926
+囷瑶	qun yao	1927
+群众文化	qun zhong wen hua	7
+燃料宿舍	ran liao su she	1925
+仁安	ren an	1921
+仁安巷	ren an xiang	1920
+人才中心	ren cai zhong xin	1924
+人和路	ren he lu	1923
+人力资源和社会保障部	ren li zi yuan he she hui bao zhang bu	31
+人民保险	ren min bao xian	1922
+荏畲	ren she	1917
+人事考试中心	ren shi kao shi zhong xin	30
+仁寿	ren shou	1919
+仁寿大厦	ren shou da sha	1918
+任郢	ren ying	37
+日东	ri dong	1916
+日东路	ri dong lu	1915
+日东新村	ri dong xin cun	1914
+日新路	ri xin lu	1913
+日月谷温泉	ri yue gu wen quan	1912
+榕碧路	rong bi lu	1908
+荣滨	rong bin	1911
+荣滨大厦	rong bin da sha	1910
+榕海花园	rong hai hua yuan	1907
+荣景花园	rong jing hua yuan	1909
+榕泉路	rong quan lu	1906
+榕溪路	rong xi lu	1905
+榕源路	rong yuan lu	1904
+软件服务大楼	ruan jian fu wu da lou	1902
+软件园	ruan jian yuan	201
+软件园二期	ruan jian yuan er qi	200
+软件园生产基地	ruan jian yuan sheng chan ji di	1901
+软件园一期	ruan jian yuan yi qi	199
+阮旻锡	ruan min xi	1903
+瑞成	rui cheng	1900
+瑞成大厦	rui cheng da sha	1899
+瑞景	rui jing	1898
+瑞景新村	rui jing xin cun	1897
+瑞丽花园	rui li hua yuan	1896
+瑞祥家园	rui xiang jia yuan	1895
+赛桥	sai qiao	1894
+三安电子	san an dian zi	1893
+散厝	san cuo	1865
+三房	san fang	1892
+三官巷	san guan xiang	1891
+三航	san hang	1890
+三航大厦	san hang da sha	1889
+三甲	san jia	1887
+三家乐	san jia le	1888
+三角埕	san jiao cheng	1886
+三脚松	san jiao song	1885
+三落	san luo	1884
+三明路	san ming lu	1883
+三社	san she	1882
+三香	san xiang	1881
+三香二里	san xiang er li	1880
+三香一里	san xiang yi li	1879
+三秀	san xiu	1878
+三秀北里	san xiu bei li	1877
+三秀里	san xiu li	1876
+三秀路	san xiu lu	1875
+三秀南里	san xiu nan li	1874
+三秀山	san xiu shan	1873
+三秀社区	san xiu she qu	1872
+三秀巷	san xiu xiang	1871
+三秀新城	san xiu xin cheng	1870
+三源弘花园	san yuan hong hua yuan	1869
+三中	san zhong	1868
+三忠	san zhong	1867
+三忠宫	san zhong gong	1866
+桑园	sang yuan	103
+沙美	sha mei	1864
+沙坡尾	sha po wei	1863
+沙坡尾路	sha po wei lu	1862
+沙溪	sha xi	1861
+山边	shan bian	1860
+山边洪	shan bian hong	1859
+山长	shan chang	1858
+山顶头	shan ding tou	1857
+山顶洋	shan ding yang	1856
+山东仔	shan dong zai	1855
+山海花园	shan hai hua yuan	1854
+山珩	shan heng	1853
+山后	shan hou	1851
+山后桥	shan hou qiao	1850
+山侯亭	shan hou ting	1852
+山后亭	shan hou ting	1849
+杉际内	shan ji nei	1830
+山坪	shan ping	1848
+山埔	shan pu	1847
+山歧	shan qi	1846
+山前	shan qian	1845
+山前尾	shan qian wei	1844
+山亭	shan ting	1843
+山头后	shan tou hou	1842
+山尾	shan wei	1841
+山尾林	shan wei lin	1840
+山仰	shan yang	1839
+山元	shan yuan	1838
+山元大厦	shan yuan da sha	1837
+山仔	shan zai	1835
+山仔顶巷	shan zai ding xiang	1834
+山仔后	shan zai hou	1833
+山仔尾	shan zai wei	1832
+山仔尾巷	shan zai wei xiang	1831
+山寨城	shan zhai cheng	1836
+上垵	shang an	1828
+上坂	shang ban	1827
+上邦	shang bang	1826
+上曾	shang ceng	1795
+上长沙	shang chang sha	1825
+上埕	shang cheng	1824
+上厝	shang cuo	1823
+上店	shang dian	1822
+上坊	shang fang	1821
+上宫	shang gong	1820
+上古街	shang gu jie	1819
+上红壁	shang hong bi	1818
+尚后公路	shang hou gong lu	1791
+上湖	shang hu	1817
+商会大厦	shang hui da sha	1829
+上加墩	shang jia dun	1816
+上坑	shang keng	1815
+上李	shang li	1814
+上李新村	shang li xin cun	1813
+上寮	shang liao	1812
+上陵	shang ling	1811
+尚南	shang nan	1790
+尚南路	shang nan lu	1789
+上内林	shang nei lin	1810
+上埔	shang pu	1809
+上沙溪	shang sha xi	1808
+上社	shang she	1807
+上施	shang shi	1806
+上苏	shang su	1805
+上塘	shang tang	1804
+上塘边	shang tang bian	1803
+上田	shang tian	1802
+上田洋	shang tian yang	1801
+上头亭	shang tou ting	1800
+上围	shang wei	76
+上吴	shang wu	1799
+尚武路	shang wu lu	1788
+上乡	shang xiang	1798
+上蟳窟	shang xun ku	1797
+上瑶	shang yao	1796
+上宅	shang zhai	1794
+上宅场	shang zhai chang	1793
+尚忠	shang zhong	1787
+上庄	shang zhuang	1792
+烧灰	shao hui	1786
+佘厝	she cuo	1785
+佘厝新村	she cuo xin cun	1784
+社会福利中心	she hui fu li zhong xin	1783
+社坛	she tan	1782
+蛇尾	she wei	109
+社仔后	she zai hou	1781
+申报评聘	shen bao ping pin	23
+深沟	shen gou	94
+深沟巷	shen gou xiang	1780
+深汇	shen hui	1779
+深汇大厦	shen hui da sha	1778
+沈井	shen jing	1770
+深里	shen li	1777
+神灵潭	shen ling tan	130
+深青驿	shen qing yi	1776
+神山	shen shan	1771
+深田	shen tian	1775
+深田路	shen tian lu	1774
+深田尾	shen tian wei	1773
+深溪	shen xi	1772
+神仙冲	shen xian chong	131
+沈有容	shen you rong	1769
+盛店	sheng dian	134
+盛光	sheng guang	1764
+盛光路	sheng guang lu	1763
+圣果院	sheng guo yuan	1766
+胜骏广场	sheng jun guang chang	1767
+升平路	sheng ping lu	1768
+圣源	sheng yuan	1765
+省直	sheng zhi	20
+省直单位	sheng zhi dan wei	4
+石坝宫	shi ba gong	1752
+诗坂	shi ban	1761
+诗壁	shi bi	1760
+石仓	shi cang	1751
+市场路	shi chang lu	1712
+石村	shi cun	1750
+石村车站	shi cun che zhan	1749
+石厝	shi cuo	1748
+石丹	shi dan	1747
+石顶巷	shi ding xiang	1746
+十二龙潭	shi er long tan	1755
+石坊巷	shi fang xiang	1745
+石鼓路	shi gu lu	1744
+石鼓山	shi gu shan	1743
+石函头	shi han tou	1742
+石湖山	shi hu shan	1741
+石湖山码头	shi hu shan ma tou	1740
+世纪嘉园	shi ji jia yuan	1715
+世纪家园	shi ji jia yuan	1716
+史家后楼	shi jia hou lou	41
+世嘉花园	shi jia hua yuan	1714
+史家前楼	shi jia qian lou	42
+石甲头	shi jia tou	1739
+柿脚	shi jiao	1704
+市交通委	shi jiao tong wei	1711
+世界山庄	shi jie shan zhuang	1713
+石莲	shi lian	1738
+石路	shi lu	1737
+石路街	shi lu jie	1736
+石门	shi men	1735
+石庙河	shi miao he	133
+石墓	shi mu	1734
+食品工业区	shi pin gong ye qu	1718
+食品住宅楼	shi pin zhu zhai lou	1717
+石泉干休所	shi quan gan xiu suo	1733
+石泉路	shi quan lu	1732
+石囷	shi qun	1731
+诗山	shi shan	1759
+诗山路	shi shan lu	1758
+石狮	shi shi	1730
+施氏大厝	shi shi da cuo	1757
+石室院	shi shi yuan	1729
+柿树	shi shu	1703
+石塘	shi tang	1728
+施塘尾	shi tang wei	1756
+石亭路	shi ting lu	1727
+市头	shi tou	1710
+石头皮山	shi tou pi shan	1726
+市头崎	shi tou qi	1709
+市尾	shi wei	1708
+市尾社	shi wei she	1707
+石星	shi xing	1725
+石浔	shi xun	1723
+石洵路	shi xun lu	1724
+石浔巷	shi xun xiang	1722
+实验小学	shi yan xiao xue	1719
+十一间	shi yi jian	1754
+十一中	shi yi zhong	1753
+石油大厦	shi you da sha	1721
+石云堂	shi yun tang	1720
+市仔街	shi zai jie	1706
+市仔口	shi zai kou	1705
+释仔巷	shi zai xiang	1702
+师专宿舍	shi zhuan su she	1762
+寿边	shou bian	1700
+手车巷	shou che xiang	1701
+寿山路	shou shan lu	1699
+寿石岩	shou shi yan	1698
+舒安里	shu an li	1696
+树兜	shu dou	1694
+树后	shu hou	1693
+熟肉巷	shu rou xiang	1695
+舒潭	shu tan	118
+舒汪	shu wang	119
+菽庄藏海	shu zhuang cang hai	1697
+双福花园	shuang fu hua yuan	1692
+双富路	shuang fu lu	1691
+双富南路	shuang fu nan lu	1690
+双过山	shuang guo shan	1689
+双涵	shuang han	1688
+双涵路	shuang han lu	1687
+双涵路口	shuang han lu kou	1686
+双沪	shuang hu	1684
+双湖	shuang hu	1685
+双吉路	shuang ji lu	1683
+双笕	shuang jian	1682
+双鲤新城	shuang li xin cheng	1681
+双莲池	shuang lian chi	1680
+双莲池街	shuang lian chi jie	1679
+双岭	shuang ling	1678
+双民花园	shuang min hua yuan	1677
+双浦路	shuang pu lu	1676
+双浦西里	shuang pu xi li	1675
+双狮南里	shuang shi nan li	1674
+双狮山路	shuang shi shan lu	1673
+双十中学	shuang shi zhong xue	1672
+双塔	shuang ta	1671
+双溪湖	shuang xi hu	1670
+双溪口	shuang xi kou	1669
+双溪路	shuang xi lu	1668
+双溪一里	shuang xi yi li	1667
+双祥路	shuang xiang lu	1666
+双圳	shuang zhen	1665
+双圳头	shuang zhen tou	1664
+水岸豪景	shui an hao jing	1663
+税保	shui bao	1647
+税保大厦	shui bao da sha	1646
+水操台	shui cao tai	1662
+水产公司	shui chan gong si	1661
+水产进出口	shui chan jin chu kou	1660
+水产学院	shui chan xue yuan	1659
+水果内	shui guo nei	1658
+水立	shui li	1657
+水流巷	shui liu xiang	1656
+水陆堂	shui lu tang	1655
+水牛埕巷	shui niu cheng xiang	1654
+水上乐园	shui shang le yuan	1653
+水务	shui wu	1652
+水务大厦	shui wu da sha	1651
+水仙路	shui xian lu	1650
+水洋	shui yang	1649
+水镇尾	shui zhen wei	1648
+顺发工业	shun fa gong ye	1645
+顺发工业大厦	shun fa gong ye da sha	1644
+思北	si bei	1643
+思北路口	si bei lu kou	1642
+思北巷	si bei xiang	1641
+思北小学	si bei xiao xue	1640
+四埭尾	si dai wei	1624
+思东商厦	si dong shang sha	1639
+四房	si fang	1623
+四房山	si fang shan	1622
+四角河	si jiao he	1621
+四口圳	si kou zhen	1620
+四里	si li	1619
+四林	si lin	1618
+思明	si ming	1638
+思明北路	si ming bei lu	1637
+思明东路	si ming dong lu	1636
+思明交警	si ming jiao jing	1635
+思明楼	si ming lou	1634
+思明南路	si ming nan lu	1633
+思明区	si ming qu	1632
+思明区政府	si ming qu zheng fu	1631
+思明西路	si ming xi lu	1630
+思南	si nan	1629
+泗水道	si shui dao	1616
+思同路	si tong lu	1628
+四仙街	si xian jie	1617
+思兴路	si xing lu	1627
+思永路	si yong lu	1626
+思振路	si zhen lu	1625
+松柏别墅	song bai bie shu	198
+松柏长途汽车站	song bai chang tu qi che zhan	197
+松柏大厦	song bai da sha	196
+松柏公园	song bai gong yuan	195
+松柏湖花园	song bai hu hua yuan	194
+松柏华庭	song bai hua ting	193
+松柏汇成	song bai hui cheng	192
+松柏路	song bai lu	191
+松柏小区	song bai xiao qu	190
+松柏中学	song bai zhong xue	189
+宋坂	song ban	1595
+宋厝	song cuo	1594
+松兜	song dou	1615
+颂恩楼	song en lou	1590
+松管院	song guan yuan	1614
+嵩海花园	song hai hua yuan	1606
+松后	song hou	1613
+宋南	song nan	1593
+松坡埔	song po pu	1612
+松坡岩	song po yan	1611
+松山小学	song shan xiao xue	1610
+宋洋	song yang	1592
+嵩屿	song yu	1605
+嵩屿北二里	song yu bei er li	1604
+嵩屿北三里	song yu bei san li	1603
+嵩屿北一里	song yu bei yi li	1602
+嵩屿路	song yu lu	1601
+嵩屿南二里	song yu nan er li	1600
+嵩屿南路	song yu nan lu	1599
+嵩屿南一里	song yu nan yi li	1598
+嵩屿农行	song yu nong hang	1597
+嵩屿中路	song yu zhong lu	1596
+松岳里	song yue li	1609
+松岳路	song yue lu	1608
+松岳小区	song yue xiao qu	1607
+宋宅	song zhai	1591
+苏厝	su cuo	1589
+苏厝街	su cuo jie	1588
+苏店	su dian	1587
+苏店路	su dian lu	1586
+苏颂	su song	1585
+宿务路	su wu lu	1582
+苏益	su yi	1584
+苏营	su ying	1583
+孙坂南路	sun ban nan lu	1581
+孙厝	sun cuo	1580
+孙道仁	sun dao ren	1579
+塔坝	ta ba	1578
+塔边	ta bian	1577
+塔厝路	ta cuo lu	1576
+塔厝社	ta cuo she	1575
+塔林下	ta lin xia	1574
+塔埔	ta pu	1573
+塔埔东里	ta pu dong li	1572
+塔山边	ta shan bian	1571
+塔头	ta tou	1570
+塔头路	ta tou lu	1569
+太安街	tai an jie	1556
+台北新村	tai bei xin cun	1568
+太古里	tai gu li	1555
+太古生活区	tai gu sheng huo qu	1554
+太古宿舍	tai gu su she	1553
+台光花园	tai guang hua yuan	1567
+台光街	tai guang jie	1566
+泰和	tai he	1536
+泰和大厦	tai he da sha	1535
+泰和花园	tai he hua yuan	1534
+太湖新城	tai hu xin cheng	1552
+太华岩	tai hua yan	1551
+台贸中心	tai mao zhong xin	1565
+太平路	tai ping lu	1550
+太平桥街	tai ping qiao jie	1549
+太平石笑	tai ping shi xiao	1548
+太平洋保险	tai ping yang bao xian	1547
+泰山路	tai shan lu	1533
+太师太傅	tai shi tai fu	1546
+台湾街	tai wan jie	1564
+台湾酒店	tai wan jiu dian	1563
+台湾民俗村	tai wan min su cun	1562
+台湾山庄	tai wan shan zhuang	1561
+台湾通商	tai wan tong shang	1560
+台湾通商大厦	tai wan tong shang da sha	1559
+太微花园	tai wei hua yuan	1545
+太微山庄	tai wei shan zhuang	1544
+泰兴路	tai xing lu	1532
+台亚	tai ya	1558
+台亚大厦	tai ya da sha	1557
+太阳岛大厦	tai yang dao da sha	1543
+太洋食品	tai yang shi pin	1541
+太洋食品工业大厦	tai yang shi pin gong ye da sha	1540
+太阳湾	tai yang wan	1542
+太乙广场	tai yi guang chang	1539
+泰裕新城	tai yu xin cheng	1531
+太源花园	tai yuan hua yuan	1538
+太子山庄	tai zi shan zhuang	1537
+潭内	tan nei	1530
+汤岸	tang an	1529
+汤岸路	tang an lu	1528
+塘边	tang bian	1526
+塘厝港	tang cuo gang	1525
+汤里	tang li	1527
+塘埔路	tang pu lu	1524
+塘头	tang tou	1523
+塘仔尾	tang zai wei	1522
+桃源大厦	tao yuan da sha	1520
+桃园山庄	tao yuan shan zhuang	1521
+特工芸溪小区	te gong yun xi xiao qu	1519
+特贸	te mao	1518
+特贸大厦	te mao da sha	1517
+特区房地产	te qu fang di chan	1516
+特祥花园	te xiang hua yuan	1515
+腾龙花园	teng long hua yuan	1514
+梯位牌	ti wei pai	1513
+体育东村	ti yu dong cun	1512
+体育路	ti yu lu	1511
+体育新村	ti yu xin cun	1510
+体育中心	ti yu zhong xin	1509
+体育中心西	ti yu zhong xin xi	1508
+天安工业	tian an gong ye	1507
+天安工业村	tian an gong ye cun	1506
+天安路	tian an lu	1505
+田坂下	tian ban xia	1471
+天宝大厦	tian bao da sha	1504
+天宝花园	tian bao hua yuan	1503
+田边	tian bian	1470
+田柄	tian bing	1469
+天成	tian cheng	1502
+天成大厦	tian cheng da sha	1501
+田厝	tian cuo	1468
+田厝窟	tian cuo ku	1467
+田厝路	tian cuo lu	1466
+天地花园	tian di hua yuan	1500
+天地美食城	tian di mei shi cheng	1499
+田东	tian dong	1465
+天凤路	tian feng lu	1498
+天海	tian hai	1497
+天海大厦	tian hai da sha	1496
+天虹商场	tian hong shang chang	1495
+天湖	tian hu	1494
+天湖大厦	tian hu da sha	1493
+天湖广场	tian hu guang chang	1492
+天湖花园	tian hu hua yuan	1491
+天湖路	tian hu lu	1490
+天湖苑	tian hu yuan	1489
+天华花园	tian hua hua yuan	1488
+田家边	tian jia bian	139
+天界路	tian jie lu	1487
+天界南路	tian jie nan lu	1486
+天界晓钟	tian jie xiao zhong	1485
+添进路	tian jin lu	1472
+天鹭	tian lu	1484
+天鹭大厦	tian lu da sha	1483
+天马	tian ma	1482
+天马路	tian ma lu	1481
+田埔	tian pu	1464
+田墘	tian qian	1463
+天泉山庄	tian quan shan zhuang	1480
+天泉西里	tian quan xi li	1479
+田尾路	tian wei lu	1462
+天杏苑	tian xing yuan	1478
+田洋	tian yang	1461
+天阳路	tian yang lu	1477
+天一楼巷	tian yi lou xiang	1476
+天宇花园	tian yu hua yuan	1475
+田中央	tian zhong yang	1460
+天竺山	tian zhu shan	1474
+天竺山公园	tian zhu shan gong yuan	1473
+铁道大厦	tie dao da sha	1459
+铁路工务段	tie lu gong wu duan	1458
+铁山	tie shan	1457
+铁山村	tie shan cun	1456
+铁山里	tie shan li	1455
+铁山路	tie shan lu	1454
+铁渣堆	tie zha dui	1453
+听海楼	ting hai lou	1449
+亭塘	ting tang	1448
+汀溪	ting xi	1452
+汀溪温泉别墅山庄	ting xi wen quan bie shu shan zhuang	1451
+汀溪镇	ting xi zhen	1450
+亭洋	ting yang	1447
+亭宅	ting zhai	1446
+同安	tong an	1438
+同安车站	tong an che zhan	1437
+同安大道	tong an da dao	154
+同安大桥	tong an da qiao	1436
+同安孔庙	tong an kong miao	1435
+同安路	tong an lu	1434
+同安区	tong an qu	1433
+同安收费站	tong an shou fei zhan	1432
+同安一中	tong an yi zhong	1431
+同安钟楼	tong an zhong lou	1429
+同安中医院	tong an zhong yi yuan	1430
+通宝	tong bao	1445
+通宝大厦	tong bao da sha	1444
+铜钵岩	tong bo yan	1397
+同成	tong cheng	1428
+同成大厦	tong cheng da sha	1427
+通奉第巷	tong feng di xiang	1443
+通奉第一横巷	tong feng di yi heng xiang	1442
+同光	tong guang	1426
+同归所碑亭	tong gui suo bei ting	1425
+同禾大道	tong he da dao	149
+同宏路	tong hong lu	1424
+桐湖	tong hu	1401
+同辉路	tong hui lu	1423
+同集北路	tong ji bei lu	1422
+同集南路	tong ji nan lu	1421
+同集中路	tong ji zhong lu	1420
+统局巷	tong ju xiang	1395
+桐林	tong lin	1400
+铜锣湾	tong luo wan	1396
+同美	tong mei	1419
+同美路	tong mei lu	1418
+同民安关隘	tong min an guan ai	1417
+同明路	tong ming lu	1416
+同南公路	tong nan gong lu	1415
+同山石字	tong shan shi zi	1414
+同盛路	tong sheng lu	1413
+通士达	tong shi da	1441
+通士达大厦	tong shi da da sha	1440
+通士达小区	tong shi da xiao qu	1439
+同顺花园	tong shun hua yuan	1412
+同享	tong xiang	1411
+同享大厦	tong xiang da sha	1410
+同新	tong xin	1409
+同新路	tong xin lu	1408
+同兴	tong xing	1407
+同兴小区	tong xing xiao qu	1406
+同益路	tong yi lu	1405
+同益码头	tong yi ma tou	1404
+桐屿	tong yu	1399
+同源路	tong yuan lu	1403
+桐梓	tong zi	1398
+同字厝	tong zi cuo	1402
+土厝	tu cuo	1393
+土地公祖巷	tu di gong zu xiang	1392
+土堆巷	tu dui xiang	1391
+土坑	tu keng	1390
+土楼	tu lou	1389
+土崎巷	tu qi xiang	1388
+图强路	tu qiang lu	1394
+图书资料	tu shu zi liao	19
+土寨	tu zhai	1387
+土圳头	tu zhen tou	1386
+洼西	wa xi	40
+瓦窑	wa yao	1385
+外较场	wai jiao chang	1384
+外口公寓	wai kou gong yu	1383
+外贸大厦	wai mao da sha	1382
+外贸宿舍	wai mao su she	1381
+外贸新村	wai mao xin cun	1380
+外清巷	wai qing xiang	1379
+外石壁街	wai shi bi jie	1378
+外优生活小区	wai you sheng huo xiao qu	1377
+外语学校	wai yu xue xiao	1376
+弯钩	wan gou	64
+万禾花园	wan he hua yuan	1368
+湾湖	wan hu	1374
+万家春	wan jia chun	1367
+万家村	wan jia cun	1366
+万家村路	wan jia cun lu	1365
+万景	wan jing	1364
+万景花园	wan jing hua yuan	1363
+弯坑	wan keng	1375
+晚晴楼	wan qing lou	1373
+万石涵翠	wan shi han cui	1362
+万石路	wan shi lu	1361
+万石植物园	wan shi zhi wu yuan	1360
+万寿	wan shou	1359
+万寿北	wan shou bei	1358
+万寿北里	wan shou bei li	1357
+万寿北路	wan shou bei lu	1356
+万寿宾馆	wan shou bin guan	1355
+万寿阁	wan shou ge	1354
+万寿花园	wan shou hua yuan	1353
+万寿路	wan shou lu	1352
+万寿山	wan shou shan	1351
+碗头崎	wan tou qi	1372
+碗瑶	wan yao	1369
+碗窑	wan yao	1371
+碗窑古	wan yao gu	1370
+王冲	wang chong	67
+王村	wang cun	54
+汪厝	wang cuo	1350
+王厝	wang cuo	1348
+望海二路	wang hai er lu	1346
+望海花园	wang hai hua yuan	1345
+望海路	wang hai lu	1344
+王家河沿	wang jia he yan	140
+王将花园	wang jiang hua yuan	1347
+汪前	wang qian	1349
+尾厝	wei cuo	1338
+尾角	wei jiao	1337
+未来海岸	wei lai hai an	1334
+围里	wei li	1342
+围里路	wei li lu	1341
+尾林	wei lin	1336
+卫生系列	wei sheng xi lie	24
+魏台	wei tai	57
+魏台村	wei tai cun	56
+魏台孜	wei tai zi	55
+尾头下	wei tou xia	1335
+围仔内	wei zai nei	1340
+围仔内巷	wei zai nei xiang	1339
+韦庄	wei zhuang	34
+文安	wen an	1331
+文滨花园	wen bin hua yuan	1330
+文滨路	wen bin lu	1329
+文博	wen bo	17
+温厝	wen cuo	1333
+文达二里	wen da er li	1328
+文达路	wen da lu	1327
+文公书院	wen gong shu yuan	1326
+文化宫名汇广场	wen hua gong ming hui guang chang	1324
+文华路	wen hua lu	1325
+文化艺术中心	wen hua yi shu zhong xin	1323
+文锦路	wen jin lu	1322
+文康路	wen kang lu	1321
+文屏	wen ping	1320
+文屏大厦	wen ping da sha	1319
+文屏二里	wen ping er li	1318
+文屏花园	wen ping hua yuan	1317
+文屏路	wen ping lu	1316
+文屏山庄	wen ping shan zhuang	1315
+文屏商业街	wen ping shang ye jie	1314
+文屏巷	wen ping xiang	1313
+文屏一里	wen ping yi li	1312
+文圃花园	wen pu hua yuan	1311
+文崎	wen qi	1310
+文山	wen shan	1309
+文水山庄	wen shui shan zhuang	1308
+文塔里	wen ta li	1307
+文塔路	wen ta lu	1306
+文塔苑	wen ta yuan	1305
+文图花园	wen tu hua yuan	1304
+温溪	wen xi	1332
+文兴	wen xing	1303
+文兴东	wen xing dong	1302
+文兴东二里	wen xing dong er li	1301
+文兴东路	wen xing dong lu	1300
+文兴东三里	wen xing dong san li	1299
+文兴东五里	wen xing dong wu li	1298
+文兴东一里	wen xing dong yi li	1297
+文轩花园	wen xuan hua yuan	1296
+文学创作	wen xue chuang zuo	8
+文园公寓	wen yuan gong yu	1295
+文园路	wen yuan lu	1294
+文园路口	wen yuan lu kou	1293
+文园雅阁	wen yuan ya ge	1292
+文灶	wen zao	1291
+文灶路	wen zao lu	1290
+翁厝	weng cuo	1289
+翁角路	weng jiao lu	1288
+瓮窑	weng yao	1287
+卧龙路	wo long lu	1286
+卧龙西路	wo long xi lu	1285
+卧龙西路口	wo long xi lu kou	1284
+卧龙晓城	wo long xiao cheng	1283
+五尺巷	wu chi xiang	1261
+梧村	wu cun	1266
+梧村街道	wu cun jie dao	1265
+吴厝	wu cuo	1270
+吴厝巷	wu cuo xiang	1269
+武当分镇巷	wu dang fen zhen xiang	1232
+五斗区	wu dou qu	1260
+五峰	wu feng	1259
+五峰埔	wu feng pu	1258
+吴冠村	wu guan cun	1268
+武汉大厦	wu han da sha	1231
+五环大楼	wu huan da lou	1257
+五甲	wu jia	1256
+五甲路	wu jia lu	1255
+武警支队	wu jing zhi dui	1230
+五矿	wu kuang	1254
+五矿大厦	wu kuang da sha	1253
+五老凌霄	wu lao ling xiao	1252
+五里林	wu li lin	1251
+无量寿佛	wu liang shou fo	1271
+五龙	wu long	1250
+五龙大厦	wu long da sha	1249
+梧侣	wu lv	1264
+梧侣路	wu lv lu	1263
+乌山	wu shan	1282
+乌山尾	wu shan wei	1281
+乌石	wu shi	1280
+乌石埔	wu shi pu	1279
+乌石浦	wu shi pu	1278
+乌石浦二里	wu shi pu er li	1277
+乌石浦路	wu shi pu lu	1276
+乌石浦南路	wu shi pu nan lu	1275
+乌石浦三里	wu shi pu san li	1274
+乌石浦新村	wu shi pu xin cun	1273
+污水处理厂	wu shui chu li chang	1272
+五通	wu tong	1248
+五通村	wu tong cun	1247
+五通道	wu tong dao	1246
+五通渡头	wu tong du tou	1245
+五通二里	wu tong er li	1244
+梧桐路	wu tong lu	155
+五通一里	wu tong yi li	1243
+五头	wu tou	1242
+浯溪	wu xi	1262
+五显	wu xian	1241
+五显宫	wu xian gong	1240
+五显街	wu xian jie	1239
+五显里	wu xian li	1238
+五显镇	wu xian zhen	1237
+武夷工贸	wu yi gong mao	1229
+武夷花园	wu yi hua yuan	1228
+武夷家园	wu yi jia yuan	1227
+五缘湾	wu yuan wan	1236
+五缘湾道	wu yuan wan dao	1235
+五云	wu yun	1234
+吴仔尾	wu zai wei	1267
+五洲大厦	wu zhou da sha	1233
+溪岸	xi an	1153
+西安广场	xi an guang chang	1226
+溪岸路	xi an lu	1152
+西安路	xi an lu	1225
+西安社区	xi an she qu	1224
+西坂	xi ban	1223
+溪边后	xi bian hou	1151
+溪边路	xi bian lu	1150
+西边社	xi bian she	1222
+溪边社区	xi bian she qu	1149
+西滨	xi bin	1221
+西滨路	xi bin lu	1220
+西滨路口	xi bin lu kou	1219
+西蔡	xi cai	1218
+席草洋	xi cao yang	1123
+西池	xi chi	1217
+西池二里	xi chi er li	1216
+西池社区	xi chi she qu	1215
+西池小区	xi chi xiao qu	1214
+西池一里	xi chi yi li	1213
+西冲	xi chong	69
+西堤	xi di	1212
+西堤别墅	xi di bie shu	1211
+西堤南里	xi di nan li	1210
+溪东	xi dong	1148
+溪东地	xi dong di	1147
+溪东社区	xi dong she qu	1146
+西福	xi fu	1209
+西福路	xi fu lu	1208
+西官浔	xi guan xun	1207
+西郭	xi guo	1206
+西郭路	xi guo lu	1205
+西郭新村	xi guo xin cun	1204
+西珩	xi heng	1203
+西洪塘	xi hong tang	1202
+西洪塘路	xi hong tang lu	1201
+溪湖	xi hu	1145
+西沪	xi hu	1199
+西湖塘	xi hu tang	1200
+溪黄内	xi huang nei	1144
+西井	xi jing	1198
+西柯	xi ke	1197
+西柯街	xi ke jie	1196
+西柯镇	xi ke zhen	1195
+西坑	xi keng	1194
+西坑尾	xi keng wei	1193
+溪口	xi kou	1143
+西蓝	xi lan	1192
+溪林	xi lin	1142
+西林	xi lin	1191
+西林东里	xi lin dong li	1190
+西林东路	xi lin dong lu	1189
+西林路	xi lin lu	1188
+西林西二里	xi lin xi er li	1187
+西林西里	xi lin xi li	1186
+西林云顶	xi lin yun ding	1185
+溪南	xi nan	1141
+西南郢	xi nan ying	38
+西宁坑	xi ning keng	1184
+西潘	xi pan	1183
+溪埔	xi pu	1140
+西埔	xi pu	1182
+西浦	xi pu	1180
+溪埔店	xi pu dian	1139
+西浦路	xi pu lu	1179
+西埔路口	xi pu lu kou	1181
+溪埔下	xi pu xia	1138
+溪墘	xi qian	1137
+西桥路	xi qiao lu	1178
+西山路	xi shan lu	1177
+西山社	xi shan she	1176
+西山吴	xi shan wu	1175
+西山下	xi shan xia	1174
+西山岩	xi shan yan	1173
+西山洋	xi shan yang	1172
+溪上	xi shang	1136
+溪声	xi sheng	1135
+西塘	xi tang	1171
+西亭	xi ting	1170
+西亭村	xi ting cun	1169
+溪头	xi tou	1134
+溪头下	xi tou xia	1133
+溪头洋	xi tou yang	1132
+西坨	xi tuo	1168
+希望大厦	xi wang da sha	1154
+溪尾	xi wei	1131
+西吴	xi wu	1167
+西屋	xi wu	70
+西吴路	xi wu lu	1166
+溪西	xi xi	1130
+溪西村	xi xi cun	1129
+西溪花园	xi xi hua yuan	1165
+西溪里	xi xi li	1164
+西溪社区	xi xi she qu	1163
+西许	xi xu	1162
+西瑶	xi yao	1161
+西瑶头新村	xi yao tou xin cun	1160
+西应殿街	xi ying dian jie	1159
+溪园	xi yuan	1128
+西园	xi yuan	1158
+西源	xi yuan	1156
+西园路	xi yuan lu	1157
+西苑路	xi yuan lu	1155
+溪仔后	xi zai hou	1126
+溪仔墘	xi zai qian	1125
+溪仔尾	xi zai wei	1124
+溪周	xi zhou	1127
+下澳	xia ao	1105
+下澳孜	xia ao zi	1104
+下坂	xia ban	1103
+下半林	xia ban lin	1102
+下保	xia bao	1101
+霞碧路	xia bi lu	1122
+下蔡	xia cai	1100
+下曾	xia ceng	1041
+下曾尾	xia ceng wei	1040
+下陈	xia chen	1099
+下埕	xia cheng	1098
+厦成海景花园	xia cheng hai jing hua yuan	188
+下村	xia cun	1097
+下厝	xia cuo	1096
+下厝尾	xia cuo wei	1095
+厦大	xia da	187
+厦大白城	xia da bai cheng	186
+厦大北村	xia da bei cun	185
+厦大东区住宅	xia da dong qu zhu zhai	184
+厦大西村	xia da xi cun	183
+厦大学生公寓	xia da xue sheng gong yu	182
+厦大医院	xia da yi yuan	181
+厦大植物园	xia da zhi wu yuan	180
+下店	xia dian	1094
+霞店	xia dian	1121
+下店尾	xia dian wei	1093
+下东宅	xia dong zhai	1092
+下墩	xia dun	1091
+下方路	xia fang lu	1090
+霞飞东路	xia fei dong lu	1120
+霞飞路	xia fei lu	1119
+下峰	xia feng	1088
+下枫	xia feng	1089
+下柑岭	xia gan ling	1087
+厦港	xia gang	179
+厦港花园	xia gang hua yuan	178
+厦港街道	xia gang jie dao	177
+厦港新村	xia gang xin cun	176
+霞光路	xia guang lu	1118
+厦航洪文小区	xia hang hong wen xiao qu	175
+下何	xia he	1086
+厦禾	xia he	174
+厦禾路	xia he lu	173
+厦禾商厦	xia he shang sha	172
+下红壁	xia hong bi	1085
+下后滨	xia hou bin	1084
+下湖	xia hu	1083
+霞煌路	xia huang lu	1117
+霞辉路	xia hui lu	1116
+下加墩	xia jia dun	1082
+下间	xia jian	1081
+霞金路	xia jin lu	1115
+下井巷	xia jing xiang	1080
+下柯	xia ke	1079
+下孔庄	xia kong zhuang	50
+下窟	xia ku	1078
+下李	xia li	1077
+下寮	xia liao	1076
+下刘	xia liu	1075
+下路	xia lu	1074
+下路坝	xia lu ba	1073
+霞路里	xia lu li	1114
+下马祖	xia ma zu	1072
+下茂庵	xia mao an	1071
+霞美	xia mei	1113
+下美店	xia mei dian	1070
+霞美路	xia mei lu	1112
+厦门北站	xia men bei zhan	171
+厦门茶厂	xia men cha chang	170
+厦门茶叶	xia men cha ye	169
+厦门大桥	xia men da qiao	168
+厦门市	xia men shi	167
+下内林	xia nei lin	1069
+下内田	xia nei tian	1068
+下欧坑	xia ou keng	1067
+下坪内	xia ping nei	1066
+下埔	xia pu	1065
+下棋盘	xia qi pan	1064
+下沙溪	xia sha xi	1063
+下山头	xia shan tou	1062
+下社	xia she	1061
+下书房	xia shu fang	1060
+下松脚	xia song jiao	1059
+下潭尾	xia tan wei	1058
+下潭尾路	xia tan wei lu	1057
+下塘边	xia tang bian	1056
+下田洋	xia tian yang	1055
+下土楼	xia tu lou	1054
+夏湾	xia wan	51
+夏湾村	xia wan cun	52
+下尾	xia wei	1053
+下魏	xia wei	1052
+下梧	xia wu	1051
+霞梧	xia wu	1111
+霞浯	xia wu	1110
+下溪	xia xi	1050
+霞溪	xia xi	1109
+霞溪路	xia xi lu	1108
+下溪头	xia xi tou	1049
+厦西行车公寓	xia xi xing che gong yu	166
+下新厝	xia xin cuo	1048
+厦新电子	xia xin dian zi	165
+夏新电子	xia xin dian zi	1034
+厦新花园	xia xin hua yuan	164
+夏新花园	xia xin hua yuan	1033
+下许	xia xu	1047
+下蟳窟	xia xun ku	1046
+下洋	xia yang	1045
+霞阳	xia yang	1107
+霞阳新村	xia yang xin cun	1106
+下窑	xia yao	1044
+下瑶宫	xia yao gong	1043
+下叶	xia ye	1042
+厦友公司	xia you gong si	163
+下宅	xia zhai	1039
+下张	xia zhang	1038
+下忠	xia zhong	1037
+下钟宅	xia zhong zhai	1036
+下庄	xia zhuang	1035
+现代家园	xian dai jia yuan	1002
+仙洞路	xian dong lu	1032
+仙洞山庄	xian dong shan zhuang	1031
+仙洞苑	xian dong yuan	1030
+先锋营街	xian feng ying jie	1005
+仙阁	xian ge	1029
+仙阁里	xian ge li	1028
+仙阁里花园	xian ge li hua yuan	1027
+县后安居小区	xian hou an ju xiao qu	1004
+县黄路	xian huang lu	157
+仙景	xian jing	1026
+县口路	xian kou lu	1003
+仙鹭	xian lu	1025
+仙坪脚	xian ping jiao	1024
+线务局	xian wu ju	1001
+仙源里	xian yuan li	1023
+仙源路	xian yuan lu	1022
+仙岳	xian yue	1021
+仙岳村	xian yue cun	1020
+仙岳大厦	xian yue da sha	1019
+仙岳海景	xian yue hai jing	1018
+仙岳海景大厦	xian yue hai jing da sha	1017
+仙岳花园	xian yue hua yuan	1016
+仙悦花园	xian yue hua yuan	1006
+仙岳嘉园	xian yue jia yuan	1015
+仙岳里	xian yue li	1014
+仙岳里小区	xian yue li xiao qu	1013
+仙岳路	xian yue lu	1012
+仙岳路口	xian yue lu kou	1011
+仙岳山庄	xian yue shan zhuang	1010
+仙岳上社	xian yue shang she	1009
+仙岳西小区	xian yue xi xiao qu	1008
+仙岳医院	xian yue yi yuan	1007
+翔安	xiang an	965
+翔安北路	xiang an bei lu	964
+翔安大道	xiang an da dao	963
+翔安南路	xiang an nan lu	962
+翔安区	xiang an qu	961
+翔安西路	xiang an xi lu	960
+翔安一中	xiang an yi zhong	959
+祥店	xiang dian	992
+祥店里	xiang dian li	991
+向风	xiang feng	947
+祥福花园	xiang fu hua yuan	990
+祥富佳园	xiang fu jia yuan	989
+相公宫巷	xiang gong gong xiang	1000
+祥和广场	xiang he guang chang	988
+祥和花园	xiang he hua yuan	987
+祥和路	xiang he lu	986
+祥湖里	xiang hu li	985
+香江大花园	xiang jiang da hua yuan	998
+橡胶新村	xiang jiao xin cun	932
+香莲里	xiang lian li	997
+祥露	xiang lu	984
+翔鹭	xiang lu	958
+翔鹭大厦	xiang lu da sha	957
+祥路顶	xiang lu ding	983
+翔鹭花城	xiang lu hua cheng	956
+翔鹭花园	xiang lu hua yuan	955
+祥路街	xiang lu jie	982
+祥路里	xiang lu li	981
+翔鹭石化	xiang lu shi hua	954
+巷南路	xiang nan lu	945
+祥平	xiang ping	980
+祥平东路	xiang ping dong lu	979
+祥平街道	xiang ping jie dao	978
+祥平里	xiang ping li	977
+祥平里二路	xiang ping li er lu	976
+祥平社区	xiang ping she qu	975
+祥平西路	xiang ping xi lu	974
+香埔	xiang pu	996
+祥桥二里	xiang qiao er li	973
+祥桥路	xiang qiao lu	972
+祥桥路口	xiang qiao lu kou	971
+祥桥社区	xiang qiao she qu	970
+祥桥一里	xiang qiao yi li	969
+香山岩	xiang shan yan	995
+巷声路	xiang sheng lu	944
+祥吴	xiang wu	968
+祥梧	xiang wu	967
+向溪	xiang xi	946
+祥溪	xiang xi	966
+巷西路	xiang xi lu	943
+香榭园	xiang xie yuan	994
+象兴三路	xiang xing san lu	941
+象兴四路	xiang xing si lu	940
+象兴五路	xiang xing wu lu	939
+象兴一路	xiang xing yi lu	938
+香秀里	xiang xiu li	993
+相玄宫巷	xiang xuan gong xiang	999
+象屿	xiang yu	937
+象屿保税区	xiang yu bao shui qu	936
+象屿大厦	xiang yu da sha	935
+象屿花园	xiang yu hua yuan	934
+象屿路	xiang yu lu	933
+翔远二路	xiang yuan er lu	953
+翔远三路	xiang yuan san lu	952
+翔远一路	xiang yuan yi lu	951
+翔云二路	xiang yun er lu	950
+翔云三路	xiang yun san lu	949
+翔云一路	xiang yun yi lu	948
+巷仔内	xiang zai nei	942
+小场	xiao chang	72
+小城故事	xiao cheng gu shi	928
+肖厝	xiao cuo	906
+小嶝	xiao deng	927
+小东山	xiao dong shan	926
+小东山村	xiao dong shan cun	925
+小东山新村	xiao dong shan xin cun	924
+小港	xiao gang	91
+小古宅	xiao gu zhai	923
+小光山	xiao guang shan	922
+小后垄	xiao hou long	921
+小后者	xiao hou zhe	920
+小金星	xiao jin xing	919
+小金星大厦	xiao jin xing da sha	918
+肖坑	xiao keng	905
+霄垄	xiao long	929
+小路边	xiao lu bian	917
+小坪	xiao ping	916
+小埔	xiao pu	915
+小崎	xiao qi	914
+小西门	xiao xi men	913
+小西围	xiao xi wei	912
+小乡	xiao xiang	911
+潇湘	xiao xiang	931
+潇湘大厦	xiao xiang da sha	930
+小学路	xiao xue lu	910
+小盈	xiao ying	909
+小洲	xiao zhou	908
+晓庄	xiao zhuang	71
+小走马路	xiao zou ma lu	907
+斜坑	xie keng	904
+新垵	xin an	896
+新安	xin an	898
+新垵村	xin an cun	895
+新安路	xin an lu	897
+新垵中路	xin an zhong lu	894
+新昌路	xin chang lu	893
+新城	xin cheng	892
+鑫成	xin cheng	804
+鑫成大厦	xin cheng da sha	803
+新城国际	xin cheng guo ji	891
+新城花园	xin cheng hua yuan	890
+新村	xin cun	889
+新厝	xin cuo	888
+新厝坂	xin cuo ban	887
+新厝边	xin cuo bian	886
+新厝顶	xin cuo ding	885
+新厝后	xin cuo hou	884
+新厝角	xin cuo jiao	883
+新厝内	xin cuo nei	882
+新厝下	xin cuo xia	881
+新厝仔	xin cuo zai	880
+信达	xin da	790
+信达大厦	xin da da sha	789
+新大坊	xin da fang	879
+鑫德楼	xin de lou	802
+新店	xin dian	878
+新店仔	xin dian zai	876
+新店镇	xin dian zhen	877
+新都花园	xin du hua yuan	875
+欣发嘉园	xin fa jia yuan	902
+新丰	xin feng	874
+新丰二路	xin feng er lu	873
+新丰路	xin feng lu	872
+新丰三路	xin feng san lu	871
+新港	xin gang	870
+新港大厦	xin gang da sha	869
+新港广场	xin gang guang chang	868
+新港龙花园	xin gang long hua yuan	867
+新光路	xin guang lu	866
+信海花园	xin hai hua yuan	788
+新禾	xin he	865
+信宏	xin hong	787
+信宏大厦	xin hong da sha	786
+新湖花园	xin hu hua yuan	864
+鑫湖花园	xin hu hua yuan	801
+新华大厦	xin hua da sha	863
+欣华花园	xin hua hua yuan	901
+新华路	xin hua lu	862
+新华路口	xin hua lu kou	861
+新华学知书店	xin hua xue zhi shu dian	860
+新华园	xin hua yuan	859
+新集美大桥	xin ji mei da qiao	858
+新嘉路	xin jia lu	857
+新间	xin jian	856
+新街	xin jie	855
+新金花园	xin jin hua yuan	854
+新井	xin jing	853
+新景海韵园	xin jing hai yun yuan	852
+新景花园	xin jing hua yuan	851
+新景路	xin jing lu	850
+新景天湖广场	xin jing tian hu guang chang	849
+新景雅苑	xin jing ya yuan	848
+新景园	xin jing yuan	847
+新景中心	xin jing zhong xin	846
+新康路	xin kang lu	845
+新立	xin li	96
+新力别墅	xin li bie shu	844
+鑫利花园	xin li hua yuan	800
+新莲	xin lian	843
+新莲花新龙山花园	xin lian hua xin long shan hua yuan	842
+鑫龙	xin long	799
+信隆城	xin long cheng	785
+鑫龙大厦	xin long da sha	798
+新路街	xin lu jie	841
+鑫茂花园	xin mao hua yuan	797
+鑫贸花园	xin mao hua yuan	796
+新美路	xin mei lu	840
+新民	xin min	839
+新民大道	xin min da dao	838
+新民路	xin min lu	837
+新民镇	xin min zhen	836
+新民镇政府	xin min zhen zheng fu	835
+新潘宅	xin pan zhai	834
+新桥	xin qiao	833
+新泉	xin quan	832
+欣荣工贸	xin rong gong mao	900
+欣荣工贸大厦	xin rong gong mao da sha	899
+新山	xin shan	831
+新社	xin she	830
+新盛路	xin sheng lu	829
+新市	xin shi	828
+新塘	xin tang	827
+新塘坡	xin tang po	826
+新塘埔	xin tang pu	825
+新田	xin tian	823
+新天地豪宅	xin tian di hao zhai	824
+新亭	xin ting	822
+新闻	xin wen	15
+信息大厦	xin xi da sha	784
+新西桥	xin xi qiao	819
+新西顺	xin xi shun	818
+新西顺大厦	xin xi shun da sha	817
+新霞	xin xia	816
+新霞路	xin xia lu	815
+鑫新景	xin xin jing	795
+鑫兴工业	xin xing gong ye	794
+鑫兴工业大厦	xin xing gong ye da sha	793
+鑫星河	xin xing he	792
+新兴路	xin xing lu	814
+新圩	xin xu	821
+新圩镇	xin xu zhen	820
+新阳建行	xin yang jian hang	813
+新阳路	xin yang lu	812
+新阳派出所	xin yang pai chu suo	811
+信义里	xin yi li	783
+鑫永胜工业园	xin yong sheng gong ye yuan	791
+信宇花园	xin yu hua yuan	782
+新源里	xin yuan li	810
+新源路	xin yuan lu	809
+新源路口	xin yuan lu kou	808
+馨园小区	xin yuan xiao qu	805
+心悦园	xin yue yuan	903
+新宅	xin zhai	807
+新中路	xin zhong lu	806
+杏北二里	xing bei er li	758
+杏滨	xing bin	757
+杏滨街道	xing bin jie dao	756
+杏滨路	xing bin lu	755
+兴才学院	xing cai xue yuan	781
+幸福第二城	xing fu di er cheng	733
+幸福花园	xing fu hua yuan	732
+幸福路	xing fu lu	731
+兴福堂	xing fu tang	780
+幸福园	xing fu yuan	730
+兴港路	xing gang lu	779
+星海湾	xing hai wan	762
+星海湾别墅	xing hai wan bie shu	761
+兴海苑	xing hai yuan	778
+星河花园	xing he hua yuan	760
+兴鸿广场	xing hong guang chang	777
+荇后	xing hou	729
+兴湖花园	xing hu hua yuan	776
+兴湖路	xing hu lu	775
+兴湖商务	xing hu shang wu	774
+兴湖商务大厦	xing hu shang wu da sha	773
+兴华	xing hua	772
+兴化路	xing hua lu	770
+兴华路	xing hua lu	771
+行军塘	xing jun tang	759
+杏林	xing lin	754
+杏林北二路	xing lin bei er lu	753
+杏林北路	xing lin bei lu	752
+杏林北三路	xing lin bei san lu	751
+杏林车站	xing lin che zhan	750
+杏林堤头	xing lin di tou	749
+杏林东路	xing lin dong lu	748
+杏林建行	xing lin jian hang	747
+杏林街道	xing lin jie dao	746
+杏林南路	xing lin nan lu	744
+杏林内茂	xing lin nei mao	745
+杏林区政府	xing lin qu zheng fu	743
+杏林西路	xing lin xi lu	742
+杏林消防	xing lin xiao fang	741
+杏林中学	xing lin zhong xue	740
+兴龙阁公寓	xing long ge gong yu	769
+兴隆路	xing long lu	768
+兴隆新村	xing long xin cun	767
+杏美	xing mei	739
+杏美路	xing mei lu	738
+杏南中学	xing nan zhong xue	737
+杏前路	xing qian lu	736
+兴泉永道署	xing quan yong dao shu	766
+兴山路	xing shan lu	765
+杏信花园	xing xin hua yuan	735
+兴业	xing ye	764
+兴业大厦	xing ye da sha	763
+杏苑	xing yuan	734
+熊家洼	xiong jia wa	141
+秀人尾	xiu ren wei	728
+许垵	xu an	723
+许村尾	xu cun wei	722
+徐厝	xu cuo	727
+许厝	xu cuo	721
+许厝古窑	xu cuo gu yao	720
+徐厝后	xu cuo hou	726
+徐厝小区	xu cuo xiao qu	725
+圩里	xu li	1343
+旭日海湾	xu ri hai wan	716
+许山头	xu shan tou	719
+许新庄	xu xin zhuang	45
+许行	xu xing	718
+徐一鸣	xu yi ming	724
+续玉	xu yu	715
+许庄	xu zhuang	717
+学府花园	xue fu hua yuan	709
+薛公	xue gong	714
+学壳坑	xue ke keng	708
+薛岭	xue ling	713
+薛岭北里	xue ling bei li	712
+薛岭路	xue ling lu	711
+薛岭山陵园	xue ling shan ling yuan	710
+浔江北路	xun jiang bei lu	704
+浔江路	xun jiang lu	703
+蟳窟	xun ku	701
+峋内	xun nei	705
+浔畔山庄	xun pan shan zhuang	702
+巡司顶	xun si ding	707
+巡司顶巷	xun si ding xiang	706
+亚倍德	ya bei de	698
+亚倍德家具广场	ya bei de jia ju guang chang	697
+雅戈尔	ya ge er	61
+雅景花园	ya jing hua yuan	699
+衙里	ya li	700
+亚桥花园	ya qiao hua yuan	696
+岩后	yan hou	694
+眼科医院	yan ke yi yuan	689
+岩棱层洞	yan leng ceng dong	693
+岩路	yan lu	692
+岩内	yan nei	691
+延平路	yan ping lu	695
+演武池	yan wu chi	688
+演武大桥	yan wu da qiao	687
+演武花园	yan wu hua yuan	686
+演武路	yan wu lu	685
+演武亭	yan wu ting	684
+盐溪街	yan xi jie	690
+燕子尾	yan zi wei	683
+阳安路	yang an lu	682
+洋坂	yang ban	653
+洋坂里	yang ban li	652
+杨厝	yang cuo	655
+洋厝埔	yang cuo pu	651
+阳翟	yang di	659
+阳翟二路	yang di er lu	658
+阳翟路	yang di lu	657
+阳翟小区	yang di xiao qu	656
+仰高别墅	yang gao bie shu	645
+阳光工业	yang guang gong ye	681
+阳光工业大厦	yang guang gong ye da sha	680
+阳光海岸	yang guang hai an	679
+阳光海岸别墅	yang guang hai an bie shu	678
+阳光花园	yang guang hua yuan	677
+阳光路	yang guang lu	676
+阳光南路	yang guang nan lu	675
+阳光世纪广场	yang guang shi ji guang chang	674
+阳光西路	yang guang xi lu	673
+阳和路	yang he lu	672
+阳鸿新城	yang hong xin cheng	671
+阳鸿园	yang hong yuan	670
+洋坑	yang keng	650
+阳明路	yang ming lu	668
+阳平路	yang ping lu	667
+阳瞿路	yang qu lu	669
+阳顺路	yang shun lu	666
+阳泰路	yang tai lu	661
+阳台山	yang tai shan	665
+阳台山东路	yang tai shan dong lu	664
+阳台山路	yang tai shan lu	663
+阳台山庄	yang tai shan zhuang	662
+洋塘	yang tang	649
+阳塘	yang tang	660
+洋头	yang tou	648
+洋尾	yang wei	647
+洋宅	yang zhai	646
+杨宅湖	yang zhai hu	654
+窑后	yao hou	643
+姚家	yao jia	48
+瑶山	yao shan	641
+窑市	yao shi	642
+瑶头	yao tou	640
+尧洲新城	yao zhou xin cheng	644
+叶厝	ye cuo	636
+椰风寨	ye feng zhai	639
+冶金电子	ye jin dian zi	638
+冶金电子大厦	ye jin dian zi da sha	637
+叶十三郎	ye shi san lang	635
+谊爱路	yi ai lu	602
+亿宝	yi bao	613
+亿宝大厦	yi bao da sha	612
+宜宾路	yi bin lu	627
+怡春科技	yi chun ke ji	1
+毅达	yi da	600
+毅达城市广场	yi da cheng shi guang chang	599
+义德陵园	yi de ling yuan	614
+移动公司	yi dong gong si	618
+怡富花园	yi fu hua yuan	625
+翼航	yi hang	595
+翼航大厦	yi hang da sha	594
+毅宏	yi hong	598
+毅宏大厦	yi hong da sha	597
+毅宏花园	yi hong hua yuan	596
+益辉花园	yi hui hua yuan	606
+一甲	yi jia	634
+怡景	yi jing	624
+怡景花园	yi jing hua yuan	623
+逸康园	yi kang yuan	601
+一里	yi li	633
+亿力	yi li	611
+乙楼	yi lou	617
+乙楼路	yi lou lu	616
+怡鹭	yi lu	622
+怡鹭大厦	yi lu da sha	621
+乙亩	yi mu	615
+一七四医院	yi qi si yi yuan	632
+依人	yi ren	629
+依人大厦	yi ren da sha	628
+移山	yi shan	107
+艺盛花园	yi sheng hua yuan	609
+益田	yi tian	605
+益田大厦	yi tian da sha	604
+易为	yi wei	593
+怡祥花园	yi xiang hua yuan	620
+怡翔花园	yi xiang hua yuan	619
+宜兴路	yi xing lu	626
+益友花园	yi you hua yuan	603
+一元花园	yi yuan hua yuan	631
+驿缘酒店	yi yuan jiu dian	607
+一中	yi zhong	630
+亿中信	yi zhong xin	610
+亦足山庄	yi zu shan zhuang	608
+银安	yin an	590
+银安大厦	yin an da sha	589
+银城花园	yin cheng hua yuan	588
+银城佳园	yin cheng jia yuan	587
+银城家园	yin cheng jia yuan	586
+银城商厦	yin cheng shang sha	585
+吟兜	yin dou	591
+印斗北路	yin dou bei lu	552
+印斗路	yin dou lu	551
+印斗路口	yin dou lu kou	550
+银都广场	yin du guang chang	584
+银都花园	yin du hua yuan	583
+印发花园	yin fa hua yuan	549
+银丰工业	yin feng gong ye	582
+银丰工业大厦	yin feng gong ye da sha	581
+银福小区	yin fu xiao qu	580
+银行中心	yin hang zhong xin	556
+银河大厦	yin he da sha	579
+银河花园	yin he hua yuan	578
+银湖别墅山庄	yin hu bie shu shan zhuang	577
+银湖里	yin hu li	576
+银湖路	yin hu lu	575
+银湖西里	yin hu xi li	574
+银湖西路	yin hu xi lu	573
+银湖中路	yin hu zhong lu	572
+银华新村	yin hua xin cun	571
+银环佳园	yin huan jia yuan	570
+银江路	yin jiang lu	569
+银莲里	yin lian li	568
+银莲路	yin lian lu	567
+银岭	yin ling	566
+银龙	yin long	565
+银龙大厦	yin long da sha	564
+阴山	yin shan	115
+银盛	yin sheng	563
+银盛大厦	yin sheng da sha	562
+银盛里	yin sheng li	561
+银亭	yin ting	560
+银亭路	yin ting lu	559
+银星花园	yin xing hua yuan	558
+银杏花园	yin xing hua yuan	555
+银星商厦	yin xing shang sha	557
+银苑花园	yin yuan hua yuan	554
+音乐学校	yin yue xue xiao	592
+引种驯化区	yin zhong xun hua qu	553
+映碧北路路	ying bi bei lu lu	531
+营边	ying bian	536
+英才商厦	ying cai shang sha	548
+盈翠	ying cui	541
+盈翠里	ying cui li	540
+盈翠社区	ying cui she qu	539
+盈翠西路	ying cui xi lu	538
+盈翠中路	ying cui zhong lu	537
+英村	ying cun	547
+英埭头	ying dai tou	546
+樱花山庄	ying hua shan zhuang	542
+英皇湖畔花苑	ying huang hu pan hua yuan	545
+营平	ying ping	535
+营平路	ying ping lu	534
+营上	ying shang	533
+影视城	ying shi cheng	532
+英田	ying tian	544
+英瑶路	ying yao lu	543
+永成	yong cheng	528
+永成大厦	yong cheng da sha	527
+永春路	yong chun lu	526
+雍厝	yong cuo	530
+永大橡塑厂	yong da xiang su chang	525
+永丰里	yong feng li	524
+永丰路	yong feng lu	523
+永福宫巷	yong fu gong xiang	522
+雍景湾	yong jing wan	529
+永康	yong kang	521
+永康大厦	yong kang da sha	520
+永升彩虹花园	yong sheng cai hong hua yuan	519
+永升海联中心	yong sheng hai lian zhong xin	518
+永升华庭	yong sheng hua ting	516
+永升花园	yong sheng hua yuan	517
+永升新城	yong sheng xin cheng	515
+永泰路	yong tai lu	514
+永同昌	yong tong chang	513
+永同昌大厦	yong tong chang da sha	512
+永同昌花园	yong tong chang hua yuan	511
+永同昌锦绣广场	yong tong chang jin xiu guang chang	510
+永兴北路	yong xing bei lu	509
+永兴路	yong xing lu	508
+永裕花园	yong yu hua yuan	507
+尤厝	you cuo	505
+邮电大楼	you dian da lou	504
+邮电广通	you dian guang tong	503
+邮电广通大厦	you dian guang tong da sha	502
+邮电宿舍	you dian su she	501
+邮电新村	you dian xin cun	500
+优山美地	you shan mei di	506
+邮政大厦	you zheng da sha	499
+屿北二路	yu bei er lu	492
+屿北三路	yu bei san lu	491
+屿北四路	yu bei si lu	490
+屿北五路	yu bei wu lu	489
+屿北一路	yu bei yi lu	488
+育才路	yu cai lu	468
+虞朝巷	yu chao xiang	493
+裕成	yu cheng	454
+裕成大厦	yu cheng da sha	453
+鱼池埔	yu chi pu	498
+裕发广场	yu fa guang chang	452
+裕发花园	yu fa hua yuan	451
+鱼孚	yu fu	497
+渔港路	yu gang lu	151
+玉荷里	yu he li	474
+屿后	yu hou	487
+屿后北里	yu hou bei li	486
+屿后路	yu hou lu	485
+屿后南里	yu hou nan li	484
+屿后南路	yu hou nan lu	152
+屿后西	yu hou xi	483
+玉晶科技	yu jing ke ji	473
+玉晶科技大厦	yu jing ke ji da sha	472
+裕康花园	yu kang hua yuan	450
+屿南三路	yu nan san lu	482
+屿南四路	yu nan si lu	481
+屿南一路	yu nan yi lu	480
+屿浦路	yu pu lu	479
+俞戚	yu qi	494
+育青路	yu qing lu	467
+玉泉别墅	yu quan bie shu	471
+玉泉花园	yu quan hua yuan	470
+御上山	yu shang shan	456
+雨水坑	yu shui keng	478
+裕泰花园	yu tai hua yuan	449
+玉亭路	yu ting lu	469
+育文路	yu wen lu	466
+育翔花园	yu xiang hua yuan	465
+育新路	yu xin lu	464
+鱼行口街	yu xing kou jie	496
+育秀	yu xiu	463
+育秀东路	yu xiu dong lu	462
+育秀里	yu xiu li	461
+育秀路	yu xiu lu	460
+育秀路口	yu xiu lu kou	459
+育秀中路	yu xiu zhong lu	153
+育秀中心	yu xiu zhong xin	458
+育秀中心大厦	yu xiu zhong xin da sha	457
+鱼仔路头巷	yu zai lu tou xiang	495
+御宅	yu zhai	455
+禹州花园	yu zhou hua yuan	477
+禹洲花园	yu zhou hua yuan	476
+禹洲新村	yu zhou xin cun	475
+源昌	yuan chang	435
+源昌大厦	yuan chang da sha	434
+源昌广场	yuan chang guang chang	433
+源昌国际城	yuan chang guo ji cheng	432
+源成花园	yuan cheng hua yuan	431
+袁厝	yuan cuo	436
+袁大郢	yuan da ying	43
+员当小区	yuan dang xiao qu	446
+元利花园	yuan li hua yuan	448
+院林	yuan lin	423
+源隆花园	yuan long hua yuan	430
+院内	yuan nei	422
+院前	yuan qian	421
+源泉山庄	yuan quan shan zhuang	429
+园山	yuan shan	445
+园山北里	yuan shan bei li	444
+园山北路	yuan shan bei lu	443
+圆山北路	yuan shan bei lu	438
+园山车站	yuan shan che zhan	442
+圆山宫巷	yuan shan gong xiang	437
+园山花园	yuan shan hua yuan	441
+园山南路	yuan shan nan lu	440
+源盛花园	yuan sheng hua yuan	428
+苑亭路	yuan ting lu	424
+源通	yuan tong	427
+源通大厦	yuan tong da sha	426
+源头湾	yuan tou wan	145
+元威殿	yuan wei dian	447
+院西	yuan xi	420
+园下	yuan xia	439
+源益工业小区	yuan yi gong ye xiao qu	425
+岳北花园	yue bei hua yuan	417
+岳伯坊	yue bo fang	416
+岳东里	yue dong li	415
+悦海园	yue hai yuan	410
+悦鸿东路	yue hong dong lu	409
+悦鸿路	yue hong lu	408
+悦华公寓	yue hua gong yu	407
+悦华路	yue hua lu	406
+悦华路口	yue hua lu kou	405
+岳口	yue kou	414
+岳口小区	yue kou xiao qu	413
+月龙	yue long	419
+月美路	yue mei lu	418
+悦馨庄园	yue xin zhuang yuan	404
+岳阳西里	yue yang xi li	412
+岳阳小区	yue yang xiao qu	411
+云标	yun biao	403
+筼筜	yun dang	162
+筼筜湖	yun dang hu	161
+筼筜街道	yun dang jie dao	160
+筼筜路	yun dang lu	159
+筼筜夜色	yun dang ye se	158
+云顶北路	yun ding bei lu	402
+云顶观日	yun ding guan ri	401
+云顶花园	yun ding hua yuan	400
+云顶南路	yun ding nan lu	399
+云顶山庄	yun ding shan zhuang	398
+云顶岩	yun ding yan	397
+云顶岩路	yun ding yan lu	396
+云顶中路	yun ding zhong lu	395
+云海山庄	yun hai shan zhuang	394
+云景花园	yun jing hua yuan	393
+芸美	yun mei	389
+云埔	yun pu	392
+芸山	yun shan	388
+云亭花园	yun ting hua yuan	391
+芸头	yun tou	387
+芸尾路口	yun wei lu kou	386
+云洋	yun yang	390
+韵园别墅	yun yuan bie shu	385
+造店	zao dian	384
+造水	zao shui	383
+枣园	zao yuan	73
+则大行	ze da xing	382
+曾厝	zeng cuo	380
+曾厝垵	zeng cuo an	379
+曾厝垵北路	zeng cuo an bei lu	378
+曾厝垵路	zeng cuo an lu	377
+曾厝垵西里	zeng cuo an xi li	376
+曾厝垵西路	zeng cuo an xi lu	375
+曾厝垵小学	zeng cuo an xiao xue	374
+曾厝垵新村	zeng cuo an xin cun	373
+曾山	zeng shan	371
+宅兜	zhai dou	367
+寨后	zhai hou	364
+宅内	zhai nei	366
+寨内	zhai nei	363
+寨前	zhai qian	362
+寨上	zhai shang	361
+寨上村口	zhai shang cun kou	360
+寨上西路	zhai shang xi lu	359
+寨上小学	zhai shang xiao xue	358
+宅头	zhai tou	365
+寨下	zhai xia	357
+寨阳	zhai yang	356
+寨仔	zhai zai	355
+寨仔边	zhai zai bian	354
+寨仔垄	zhai zai long	353
+寨仔山	zhai zai shan	352
+寨仔尾	zhai zai wei	351
+站南路	zhan nan lu	350
+站西路	zhan xi lu	349
+张厝	zhang cuo	348
+张晖	zhang hui	347
+张家湾	zhang jia wan	98
+张林	zhang lin	346
+张茂	zhang mao	345
+张山	zhang shan	84
+樟树下	zhang shu xia	341
+张溪	zhang xi	344
+漳州路	zhang zhou lu	342
+张庄	zhang zhuang	343
+长嘴	zhang zui	85
+赵村	zhao cun	53
+赵厝	zhao cuo	338
+赵岗	zhao gang	337
+兆和路	zhao he lu	339
+赵纾	zhao shu	336
+昭塘	zhao tang	340
+蔗内	zhe nei	335
+蔗下	zhe xia	334
+圳岸	zhen an	326
+贞庵	zhen an	333
+贞庵村	zhen an cun	332
+镇邦路	zhen bang lu	313
+贞岱	zhen dai	331
+镇海	zhen hai	312
+镇海大厦	zhen hai da sha	311
+镇海花园	zhen hai hua yuan	310
+镇海路	zhen hai lu	309
+振河	zhen he	324
+振河大楼	zhen he da lou	323
+振河大厦	zhen he da sha	322
+振华	zhen hua	321
+振华大厦	zhen hua da sha	320
+真寂寺	zhen ji si	327
+圳口尾	zhen kou wei	325
+贞寿牌坊	zhen shou pai fang	330
+振兴大厦	zhen xing da sha	319
+振兴小区	zhen xing xiao qu	318
+振兴新村	zhen xing xin cun	317
+振业	zhen ye	316
+振业大厦	zhen ye da sha	315
+振羽楼	zhen yu lou	314
+珍珠湾	zhen zhu wan	329
+珍珠湾花园	zhen zhu wan hua yuan	328
+郑坂	zheng ban	306
+正新	zheng xin	308
+正新轮胎	zheng xin lun tai	307
+郑宅	zheng zhai	305
+纸坊	zhi fang	101
+中保	zhong bao	304
+中沧别墅	zhong cang bie shu	303
+中储粮	zhong chu liang	302
+中储粮大厦	zhong chu liang da sha	301
+中厝	zhong cuo	300
+钟厝	zhong cuo	246
+中福城花园	zhong fu cheng hua yuan	298
+中孚花园	zhong fu hua yuan	299
+中福花园	zhong fu hua yuan	297
+中港花园	zhong gang hua yuan	296
+钟鼓南路	zhong gu nan lu	245
+钟鼓山隧道	zhong gu shan sui dao	244
+中航技	zhong hang ji	295
+中华第一圣堂	zhong hua di yi sheng tang	294
+中华儿女美术馆	zhong hua er nv mei shu guan	293
+中华街道	zhong hua jie dao	292
+中华路	zhong hua lu	291
+中环花园	zhong huan hua yuan	290
+中甲	zhong jia	289
+中建	zhong jian	288
+中建大厦	zhong jian da sha	287
+中窟	zhong ku	286
+钟林里	zhong lin li	243
+钟林路	zhong lin lu	242
+中鹭	zhong lu	285
+中仑	zhong lun	284
+忠仑	zhong lun	249
+忠仑苗圃	zhong lun miao pu	248
+中闽	zhong min	283
+中闽大厦	zhong min da sha	282
+中闽鹭江花园	zhong min lu jiang hua yuan	281
+中埔	zhong pu	280
+中埔头	zhong pu tou	279
+中汽花园	zhong qi hua yuan	278
+中桥科技	zhong qiao ke ji	277
+中桥科技大厦	zhong qiao ke ji da sha	276
+中厦国际	zhong sha guo ji	268
+中厦国际大厦	zhong sha guo ji da sha	267
+钟山	zhong shan	241
+中山公园	zhong shan gong yuan	275
+中山路	zhong shan lu	274
+中山医院	zhong shan yi yuan	273
+中试基地	zhong shi ji di	272
+中试基地公寓	zhong shi ji di gong yu	271
+钟水路	zhong shui lu	240
+中铁	zhong tie	270
+中铁大厦	zhong tie da sha	269
+中乡	zhong xiang	266
+中祥	zhong xiang	265
+中祥大厦	zhong xiang da sha	264
+忠孝里	zhong xiao li	247
+中信广场	zhong xin guang chang	262
+中信惠杨	zhong xin hui yang	261
+中信惠杨大厦	zhong xin hui yang da sha	260
+中心小学	zhong xin xiao xue	263
+中兴路	zhong xing lu	259
+中学路	zhong xue lu	258
+中烟工业	zhong yan gong ye	257
+中烟工业大厦	zhong yan gong ye da sha	256
+中医院	zhong yi yuan	255
+中银	zhong yin	254
+中银大厦	zhong yin da sha	253
+中裕花园	zhong yu hua yuan	252
+中苑路	zhong yuan lu	251
+钟宅	zhong zhai	239
+中直驻皖有关单位	zhong zhi zhu wan you guan dan wei	5
+中庄	zhong zhuang	250
+种子大厦	zhong zi da sha	238
+周宝巷	zhou bao xiang	237
+周厝	zhou cuo	236
+周厝尾	zhou cuo wei	235
+周后	zhou hou	234
+周瑶	zhou yao	233
+竹坝	zhu ba	227
+珠厝	zhu cuo	228
+朱坑	zhu keng	232
+朱坑洪	zhu keng hong	231
+竹坑路	zhu keng lu	226
+竹寮巷	zhu liao xiang	225
+竹林边	zhu lin bian	224
+竹林咀	zhu lin ju	128
+竹浦	zhu pu	223
+竹山	zhu shan	222
+朱王宫巷	zhu wang gong xiang	230
+苎溪桥	zhu xi qiao	219
+朱一冯	zhu yi feng	229
+竹仔脚	zhu zai jiao	221
+竹仔林	zhu zai lin	220
+砖仔	zhuan zai	218
+砖仔埕	zhuan zai cheng	217
+砖仔厝	zhuan zai cuo	216
+庄垵	zhuang an	215
+庄上	zhuang shang	214
+自强路	zi qiang lu	212
+自然家园	zi ran jia yuan	211
+紫薇花园	zi wei hua yuan	213
+走马人	zou ma ren	210
+祖厝	zu cuo	209
+祖厝边	zu cuo bian	208
+祖厝后	zu cuo hou	207
+醉仙岩	zui xian yan	206
