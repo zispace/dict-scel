@@ -1,0 +1,184 @@
+# 词库名称: 直升机
+# 词库分类: 工学
+# 词库描述: 直升机专用词汇
+# 词条样例: 安装角、摆振、摆振铰、摆振运动、毕奥沙瓦
+# 解析词数: 177
+# 解析异常: 0
+
+安装角	an zhuang jiao	177
+摆振	bai zhen	177
+摆振铰	bai zhen jiao	177
+摆振运动	bai zhen yun dong	177
+毕奥沙瓦	bi ao sha wa	177
+边界条件	bian jie tiao jian	177
+变距	bian ju	177
+泊松方程	bo song fang cheng	177
+波阻	bo zu	177
+残值	can zhi	177
+侧倒角	ce dao jiao	177
+侧滑	ce hua	177
+侧滑角	ce hua jiao	177
+侧滑角	ce hua jue	177
+差分格式	cha fen ge shi	177
+颤振	chan zhen	177
+传动轴	chuan dong zhou	177
+吹风挥舞	chui feng hui wu	177
+垂尾	chui wei	177
+垂直铰	chui zhi jiao	177
+单旋翼	dan xuan yi	177
+当量挥舞铰外伸量	dang liang hui wu jiao wai shen liang	177
+地面共振	di mian gong zhen	177
+点涡	dian guo	177
+点涡	dian wo	177
+动态失速	dong tai shi su	177
+动网格	dong wang ge	177
+反扭矩	fan niu ju	177
+负扭转	fu niu zhuan	177
+负扭转角	fu niu zhuan jiao	177
+俯仰角	fu yang jiao	177
+俯仰角	fu yang jue	177
+俯仰力矩	fu yang li ju	177
+俯仰力矩系数	fu yang li ju xi shu	177
+附着涡	fu zhuo guo	177
+附着涡	fu zhuo wo	177
+高斯点	gao si dian	177
+高斯分布	gao si fen bu	177
+格林函数	ge lin han shu	177
+功率系数	gong lv xi shu	177
+惯性矩	guan xing ju	177
+广义动态尾迹	guang yi dong tai wei ji	177
+滚转力矩	gun zhuan li ju	177
+滚转力矩系数	gun zhuan li ju xi shu	177
+涡粒子	guo li zi	177
+涡轴发动机	guo zhou fa dong ji	177
+涵道尾桨	han dao wei jiang	177
+航迹角	hang ji jiao	177
+航迹角	hang ji jue	177
+耗散修正	hao san xiu zheng	177
+核函数	he han shu	177
+横列式	heng lie shi	177
+后倒角	hou dao jiao	177
+环量	huan liang	177
+挥摆扭耦合	hui bai niu ou he	177
+挥摆耦合	hui bai ou he	177
+挥舞	hui wu	177
+挥舞铰	hui wu jiao	177
+挥舞铰外伸量	hui wu jiao wai shen liang	177
+挥舞调节系数	hui wu tiao jie xi shu	177
+挥舞运动	hui wu yun dong	177
+机身	ji shen	177
+计算流体力学	ji suan liu ti li xue	177
+机头	ji tou	177
+减摆器	jian bai qi	177
+桨跟涡	jiang gen guo	177
+桨跟涡	jiang gen wo	177
+桨毂	jiang gu	177
+桨尖	jiang jian	177
+桨尖涡	jiang jian guo	177
+桨尖后掠	jiang jian hou lue	177
+桨尖马赫数	jiang jian ma he shu	177
+桨尖涡	jiang jian wo	177
+桨距	jiang ju	177
+桨盘	jiang pan	177
+桨叶	jiang ye	177
+桨叶片数	jiang ye pian shu	177
+焦点	jiao dian	177
+铰接式	jiao jie shi	177
+近尾迹	jin wei ji	177
+空间离散	kong jian li san	177
+空中共振	kong zhong gong zhen	177
+拉力	la li	177
+拉力系数	la li xi shu	177
+拉伸修正	la shen xiu zheng	177
+粒子重布	li zi chong bu	177
+粒子重布	li zi zhong bu	177
+流函数	liu han shu	177
+洛克数	luo ke shu	177
+粘弹减摆器	nian dan jian bai qi	177
+粘弹减摆器	nian tan jian bai qi	177
+扭矩	niu ju	177
+偏航角	pian hang jiao	177
+偏航角	pian hang jue	177
+偏航力矩	pian hang li ju	177
+偏航力矩系数	pian hang li ju xi shu	177
+平滑函数	ping hua han shu	177
+平尾	ping wei	177
+气动导数	qi dong dao shu	177
+气动力	qi dong li	177
+气动载荷	qi dong zai he	177
+气动中心	qi dong zhong xin	177
+起落架	qi luo jia	177
+前进比	qian jin bi	177
+嵌套网格	qian tao wang ge	177
+跷跷板式	qiao qiao ban shi	177
+倾转旋翼机	qing zhuan xuan yi ji	177
+球柔性桨毂	qiu rou xing jiang gu	177
+入流比	ru liu bi	177
+实度	shi du	177
+势函数	shi han shu	177
+时间推进	shi jian tui jin	177
+失速	shi su	177
+寿命角	shou ming jiao	177
+寿命角	shou ming jue	177
+双线摆吸振器	shuang xian bai xi zhen qi	177
+双旋翼	shuang xuan yi	177
+水平铰	shui ping jiao	177
+水平铰偏置量	shui ping jiao pian zhi liang	177
+贴体网格	tie ti wang ge	177
+脱体涡	tuo ti guo	177
+脱体涡	tuo ti wo	177
+万向铰接式	wan xiang jiao jie shi	177
+尾减速器	wei jian su qi	177
+尾桨	wei jiang	177
+尾桨锥度角	wei jiang zhui du jiao	177
+尾桨锥度角	wei jiang zhui du jue	177
+尾梁	wei liang	177
+尾随涡	wei sui guo	177
+尾随涡	wei sui wo	177
+尾斜梁	wei xie liang	177
+涡粒子	wo li zi	177
+涡量	wo liang	177
+涡轮轴	wo lun zhou	177
+涡线	wo xian	177
+涡轴发动机	wo zhou fa dong ji	177
+无铰式	wu jiao shi	177
+无轴承式	wu zhou cheng shi	177
+吸振器	xi zhen qi	177
+下洗流	xia xi liu	177
+弦长	xian chang	177
+线涡	xian guo	177
+线涡	xian wo	177
+线性负扭转	xian xing fu niu zhuan	177
+星形柔性桨毂	xing xing rou xing jiang gu	177
+型阻	xing zu	177
+需用功率	xu yong gong lv	177
+悬停效率	xuan ting xiao lv	177
+旋翼	xuan yi	177
+旋翼半径	xuan yi ban jing	177
+旋翼轴	xuan yi zhou	177
+旋翼锥度角	xuan yi zhui du jiao	177
+旋翼锥度角	xuan yi zhui du jue	177
+压差阻力	ya cha zu li	177
+压心	ya xin	177
+叶尖损失系数	ye jian sun shi xi shu	177
+液压减摆器	ye ya jian bai qi	177
+液压助力器	ye ya zhu li qi	177
+翼型	yi xing	177
+迎角	ying jiao	177
+诱导功率	you dao gong lv	177
+诱导速度	you dao su du	177
+原场	yuan chang	177
+远尾迹	yuan wei ji	177
+载荷分布	zai he fen bu	177
+粘弹减摆器	zhan dan jian bai qi	177
+粘弹减摆器	zhan tan jian bai qi	177
+质量矩	zhi liang ju	177
+直升机	zhi sheng ji	177
+中间减速器	zhong jian jian su qi	177
+轴倾角	zhou qing jiao	177
+主减	zhu jian	177
+主减速器	zhu jian su qi	177
+转速	zhuan su	177
+自动倾斜器	zi dong qing xie qi	177
+自由尾迹	zi you wei ji	177
+纵列式	zong lie shi	177
