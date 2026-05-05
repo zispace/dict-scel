@@ -1,0 +1,612 @@
+# 词库名称: 病历书写
+# 词库分类: 个人专用
+# 词库描述: 病历书写
+# 词条样例: 外出就餐后出现、进食生冷后出现、阵发性、心前区压榨感、心累心慌、心慌气短
+# 解析词数: 605
+# 解析异常: 0
+
+嗳气	ai qi	533
+暗红色	an hong se	514
+奥本海姆征	ao ben hai mu zheng	11
+凹陷性	ao xian xing	519
+凹陷性水肿	ao xian xing shui zhong	521
+巴彬斯基征	ba bin si ji zheng	13
+白斑	bai ban	238
+白癜	bai dian	239
+白陶土色大便	bai tao tu se da bian	405
+柏油样便	bai you yang bian	452
+瘢痕	ban hen	192
+斑秃	ban tu	118
+斑疹	ban zhen	234
+被动体位	bei dong ti wei	253
+闭目减轻	bi mu jian qing	161
+闭目无减轻	bi mu wu jian qing	160
+鼻衄	bi nv	217
+鼻翼煽动	bi yi shan dong	276
+扁桃体无肿大	bian tao ti wu zhong da	97
+扁桃体肿大	bian tao ti zhong da	96
+表情疲惫	biao qing pi bei	269
+表情痛苦	biao qing tong ku	274
+表情自然	biao qing zi ran	134
+濒死感	bin si gan	541
+病程较长	bing cheng jiao chang	423
+病程较短	bing cheng jiao duan	424
+病理反射未引出	bing li fan she wei yin chu	27
+搏动性痛	bo dong xing tong	499
+搏动性头痛	bo dong xing tou tong	326
+跛行	bo xing	355
+不含胆汁	bu han dan zhi	170
+布鲁辛斯基征阳性	bu lu xin si ji zheng yang xing	17
+不突出	bu tu chu	233
+步行久站天气变化时疼痛	bu xing jiu zhan tian qi bian hua shi teng tong	361
+不易咳出	bu yi ke chu	562
+餐后较久呕吐	can hou jiao jiu ou tu	463
+餐后呕吐	can hou ou tu	464
+餐后痛	can hou tong	451
+苍白无华	cang bai wu hua	272
+查多克征	cha duo ke zheng	10
+查体不合作	cha ti bu he zuo	194
+查体合作	cha ti he zuo	195
+肠鸣音活跃	chang ming yin huo yue	36
+肠鸣音亢进	chang ming yin kang jin	35
+肠鸣音正常	chang ming yin zheng chang	37
+长期反复发作	chang qi fan fu fa zuo	327
+超力体型	chao li ti xing	295
+潮热盗汗	chao re dao han	552
+朝食暮吐	chao shi mu tu	466
+晨僵	chen jiang	364
+晨起呕吐	chen qi ou tu	468
+晨起时疼痛	chen qi shi teng tong	397
+呈白色粘液状	cheng bai se nian ye zhuang	168
+成簇水泡	cheng cu shui pao	512
+呈屈曲畸形	cheng qu qu ji xing	356
+耻骨上区会阴部尿道内疼痛	chi gu shang qu hui yin bu niao dao nei teng tong	334
+持续性剧痛	chi xu xing ju tong	431
+抽搐	chou chu	471
+触觉语颤稍弱	chu jue yu chan shao ruo	70
+初始血尿	chu shi xue niao	343
+传染病病史及接触史	chuan ran bing bing shi ji jie chu shi	214
+唇舌色淡	chun she se dan	270
+刺激性咳嗽	ci ji xing ke sou	581
+大便次数减少	da bian ci shu jian shao	416
+大便干结	da bian gan jie	417
+大量脓臭痰	da liang nong chou tan	163
+大量饮酒后出现	da liang yin jiu hou chu xian	602
+刀割针刺样疼痛	dao ge zhen ci yang teng tong	498
+低热	di re	351
+动脉硬化	dong mai ying hua	209
+对称性	dui chen xing	518
+对答切题	dui da qie ti	130
+对光反应好	dui guang fan ying hao	108
+钝痛	dun tong	500
+多饮多食多尿	duo yin duo shi duo niao	330
+额部鼻背双颊褐色色素沉着	e bu bi bei shuang jia he se se su chen zhuo	267
+恶心	e xin	558
+恶心呕吐	e xin ou tu	556
+二尖瓣面容	er jian ban mian rong	281
+耳鸣	er ming	490
+耳鸣眼花	er ming yan hua	159
+发绀	fa gan	495
+乏力	fa li	535
+乏力盗汗	fa li dao han	350
+发热	fa re	526
+发育异常	fa yu yi chang	196
+发育正常	fa yu zheng chang	298
+烦渴多饮	fan ke duo yin	331
+泛酸	fan suan	532
+反应迟钝	fan ying chi dun	257
+烦躁易怒	fan zao yi nu	260
+放射痛	fang she tong	510
+非凹陷性	fei ao xian xing	520
+非凹陷性水肿	fei ao xian xing shui zhong	522
+非对称性	fei dui chen xing	517
+肺下界在肩胛下角线第十肋间	fei xia jie zai jian jia xia jiao xian di shi lei jian	68
+粪便颜色变浅	fen bian yan se bian qian	406
+分布均匀	fen bu jun yun	120
+粉红色泡沫痰	fen hong se pao mo tan	570
+风湿热	feng shi re	207
+腹部平坦	fu bu ping tan	47
+腹软无压痛及反跳痛	fu ruan wu ya tong ji fan tiao tong	45
+腹式呼吸	fu shi hu xi	74
+腹痛	fu tong	509
+腹泻	fu xie	508
+腹泻便秘交替	fu xie bian mi jiao ti	410
+腹型肥胖	fu xing fei pang	291
+腹胀	fu zhang	412
+辅助检查	fu zhu jian cha	6
+肝病面容	gan bing mian rong	285
+肝颈静脉回流阳性	gan jing jing mai hui liu yang xing	87
+肝颈静脉回流阴性	gan jing jing mai hui liu yin xing	86
+干咳	gan ke	584
+干咳无痰	gan ke wu tan	166
+干呕	gan ou	469
+肝脾肋下未扪及	gan pi lei xia wei men ji	44
+肝脾区无叩击痛	gan pi qu wu kou ji tong	43
+肝区叩痛	gan qu kou tong	42
+肝炎	gan yan	211
+肝掌	gan zhang	222
+肛门及外生殖器未查	gang men ji wai sheng zhi qi wei cha	32
+肛门坠胀	gang men zhui zhang	441
+各瓣膜区未闻及病理性杂音	ge ban mo qu wei wen ji bing li xing za yin	49
+戈登征	ge deng zheng	12
+共济失调步态	gong ji shi tiao bu tai	249
+巩膜无黄染	gong mo wu huang ran	111
+关节边缘有压痛	guan jie bian yuan you ya tong	359
+关节红肿热痛	guan jie hong zhong re tong	366
+关节畸形	guan jie ji xing	362
+关节僵硬活动不便	guan jie jiang ying huo dong bu bian	360
+关节摩擦感活动时有响声	guan jie mo ca gan huo dong shi you xiang sheng	358
+关节肿胀疼痛	guan jie zhong zhang teng tong	368
+果酱样便	guo jiang yang bian	422
+寒战	han zhan	457
+黑蒙	hei meng	447
+呼双侧吸运动对称	hu shuang ce xi yun dong dui chen	72
+呼吸	hu xi	301
+呼吸困难	hu xi kun nan	568
+呼吸移动度正常	hu xi yi dong du zheng chang	67
+黄疸	huang dan	456
+黄绿色痰	huang lv se tan	572
+慌张步态	huang zhang bu tai	248
+昏迷	hun mi	309
+昏睡	hun shui	310
+活动不便	huo dong bu bian	395
+活动后缓解	huo dong hou huan jie	393
+活动后加重	huo dong hou jia zhong	394
+活动后气促	huo dong hou qi cu	546
+活动后心慌	huo dong hou xin huang	544
+活动后心累气促	huo dong hou xin lei qi cu	545
+活动自如	huo dong zi ru	29
+饥饿感	ji e gan	316
+饥饿痛	ji e tong	450
+肌力减退	ji li jian tui	143
+肌力正常	ji li zheng chang	147
+肌肉挛缩	ji rou luan suo	357
+肌肉萎缩	ji rou wei suo	363
+肌肉震颤	ji rou zhen chan	202
+急性病面容	ji xing bing mian rong	133
+急性病容	ji xing bing rong	288
+急性腹泻	ji xing fu xie	427
+记忆力差	ji yi li cha	199
+记忆力和智能减退	ji yi li he zhi neng jian tui	200
+肌张力增高	ji zhang li zeng gao	135
+肌张力正常	ji zhang li zheng chang	136
+脊柱四肢无畸形	ji zhu si zhi wu ji xing	31
+甲亢面容	jia kang mian rong	283
+甲状腺不大	jia zhuang xian bu da	93
+甲状腺肿大	jia zhuang xian zhong da	92
+剪刀步态	jian dao bu tai	246
+剑突下疼痛	jian tu xia teng tong	529
+间歇性跛行	jian xie xing bo xing	398
+焦虑	jiao lv	324
+角膜透明	jiao mo tou ming	110
+绞榨样疼痛	jiao zha yang teng tong	385
+节段性感觉障碍	jie duan xing gan jue zhang ai	384
+结核	jie he	210
+节律及深浅正常	jie lv ji shen qian zheng chang	73
+节律性	jie lv xing	442
+结膜无充血	jie mo wu chong xue	112
+近端肌力减退	jin duan ji li jian tui	142
+进食后缓解	jin shi hou huan jie	429
+进食后加剧	jin shi hou jia ju	428
+进食生冷后出现	jin shi sheng leng hou chu xian	601
+进食油腻后加重	jin shi you ni hou jia zhong	419
+进行性加重	jin xing xing jia zhong	371
+颈静脉怒张	jing jing mai nu zhang	88
+颈静脉无怒张	jing jing mai wu nu zhang	89
+经久不愈	jing jiu bu yu	352
+痉挛性疼痛	jing luan xing teng tong	411
+颈柔无抵抗	jing rou wu di kang	94
+静息痛活动后减轻	jing xi tong huo dong hou jian qing	175
+镜下血尿	jing xia xue niao	345
+局限性抽搐	ju xian xing chou chu	314
+局限性水肿	ju xian xing shui zhong	228
+咯痰不爽	ka tan bu shuang	577
+咯血	ka xie	585
+克尼格征	ke ni ge zheng	9
+克尼格征阳性	ke ni ge zheng yang xing	18
+咳声低微	ke sheng di wei	578
+咳嗽	ke sou	587
+咳嗽咳痰	ke sou ke tan	547
+咳嗽咳痰症状	ke sou ke tan zheng zhuang	588
+咳嗽喷嚏时疼痛加重	ke sou pen ti shi teng tong jia zhong	400
+咳嗽气促	ke sou qi cu	165
+咳嗽声音嘶哑	ke sou sheng yin si ya	580
+咳痰	ke tan	586
+咳痰顺利	ke tan shun li	561
+可自行咳出	ke zi xing ke chu	167
+恐惧	kong ju	540
+口唇发绀	kou chun fa gan	105
+口唇疱疹	kou chun pao zhen	275
+口唇轻度发绀	kou chun qing du fa gan	255
+口唇无发绀	kou chun wu fa gan	106
+口渴	kou ke	448
+口苦	kou ku	414
+口腔粘膜无出血及溃疡	kou qiang nian mo wu chu xie ji kui yang	100
+口眼歪斜	kou yan wai xie	151
+叩诊呈鼓音	kou zhen cheng gu yin	306
+叩诊呈过清音	kou zhen cheng guo qing yin	303
+叩诊呈清音	kou zhen cheng qing yin	307
+叩诊呈实音	kou zhen cheng shi yin	304
+叩诊呈浊音	kou zhen cheng zhuo yin	305
+口周四肢发麻	kou zhou si zhi fa ma	321
+跨阈步态	kua yu bu tai	247
+溃疡	kui yang	193
+劳累后出现	lao lei hou chu xian	600
+肋脊角叩痛	lei ji jiao kou tong	40
+肋脊角无叩痛	lei ji jiao wu kou tong	39
+肋间隙无增宽	lei jian xi wu zeng kuan	81
+肋间隙增宽	lei jian xi zeng kuan	80
+冷汗	leng han	459
+里急后重	li ji hou zhong	507
+两侧触觉震颤对等	liang ce chu jue zhen chan dui deng	71
+两侧对称	liang ce dui chen	82
+淋巴结	lin ba jie	190
+淋病	lin bing	206
+脉搏	mai bo	300
+脉搏增快	mai bo zeng kuai	458
+慢性病面容	man xing bing mian rong	132
+慢性病容	man xing bing rong	287
+慢性腹泻	man xing fu xie	426
+慢性咳嗽咳痰	man xing ke sou ke tan	212
+慢性脑供血不足	man xing nao gong xue bu zu	5
+慢性头痛	man xing tou tong	325
+满月脸	man yue lian	289
+梅毒	mei du	205
+玫瑰疹	mei gui zhen	232
+眉毛脱落	mei mao tuo luo	187
+眉毛无脱落	mei mao wu tuo luo	117
+眉毛稀疏	mei mao xi shu	188
+弥漫性疼痛	mi man xing teng tong	386
+面容惊愕	mian rong jing e	264
+面容憔悴	mian rong qiao cui	273
+面色苍白	mian se cang bai	322
+面色苍黄	mian se cang huang	259
+面色潮红	mian se chao hong	278
+面色晦暗	mian se hui an	268
+明显压痛叩击痛	ming xian ya tong kou ji tong	388
+墨菲氏征阳性	mo fei shi zheng yang xing	16
+墨菲氏征阴性	mo fei shi zheng yin xing	15
+目光黯淡	mu guang an dan	271
+目光呆滞	mu guang dai zhi	258
+目光炯炯	mu guang jiong jiong	261
+暮食朝吐	mu shi chao tu	465
+脑动脉硬化	nao dong mai ying hua	4
+脑梗塞	nao geng se	3
+脑栓塞	nao shuan sai	1
+脑血栓形成	nao xue shuan xing cheng	2
+粘液便	nian ye bian	504
+粘液脓血便	nian ye nong xue bian	446
+粘液性水肿面容	nian ye xing shui zhong mian rong	282
+尿呈暗红色	niao cheng an hong se	339
+尿呈酱油色	niao cheng jiang you se	338
+尿流变细	niao liu bian xi	379
+尿流中断	niao liu zhong duan	344
+尿频尿急	niao pin niao ji	381
+尿频尿急尿痛	niao pin niao ji niao tong	382
+尿色深	niao se shen	404
+尿色鲜红	niao se xian hong	337
+脓臭痰	nong chou tan	573
+脓痰	nong tan	569
+呕吐	ou tu	557
+呕吐物	ou tu wu	171
+呕吐物不含胆汁	ou tu wu bu han dan zhi	461
+呕吐物含胆汁	ou tu wu han dan zhi	460
+呕吐物为胃内容物	ou tu wu wei wei nei rong wu	528
+呕吐物未胃内容物	ou tu wu wei wei nei rong wu	173
+呕血	ou xue	453
+排便费力	pai bian fei li	415
+排便后腹痛减轻	pai bian hou fu tong jian qing	444
+排便困难	pai bian kun nan	418
+排尿次数增多	pai niao ci shu zeng duo	335
+排尿困难南	pai niao kun nan nan	380
+蹒跚步态	pan shan bu tai	251
+膀胱刺激征	pang guang ci ji zheng	333
+泡沫状	pao mo zhuang	565
+盆腔压痛	pen qiang ya tong	376
+喷射状呕吐	pen she zhuang ou tu	462
+疲乏	pi fa	493
+皮肤苍白	pi fu cang bai	245
+皮肤发绀	pi fu fa gan	243
+皮肤发红	pi fu fa hong	244
+皮肤干燥	pi fu gan zao	237
+皮肤粘膜黄染	pi fu nian mo huang ran	242
+皮肤粘膜无黄染	pi fu nian mo wu huang ran	129
+皮肤破溃	pi fu po kui	353
+皮肤瘙痒	pi fu sao yang	409
+皮肤弹性差	pi fu tan xing cha	235
+皮肤弹性良好	pi fu tan xing liang hao	128
+皮肤弹性正常	pi fu tan xing zheng chang	236
+皮肤脱屑	pi fu tuo xie	227
+脾区叩痛	pi qu kou tong	41
+皮下结节	pi xia jie jie	218
+皮下血肿	pi xia xue zhong	224
+皮下瘀斑	pi xia yu ban	225
+皮下瘀点	pi xia yu dian	226
+偏侧肢体麻木	pian ce zhi ti ma mu	484
+偏侧肢体瘫痪	pian ce zhi ti tan huan	481
+偏侧肢体无力	pian ce zhi ti wu li	486
+偏身感觉异常障碍	pian shen gan jue yi chang zhang ai	154
+偏身感觉障碍	pian shen gan jue zhang ai	485
+贫血面容	pin xue mian rong	286
+起病骤然	qi bing zhou ran	425
+气促	qi cu	560
+气管居中	qi guan ju zhong	84
+气过水声	qi guo shui sheng	34
+气候交替时	qi hou jiao ti shi	369
+气紧	qi jin	559
+脐周疼痛	qi zhou teng tong	435
+呛咳	qiang ke	516
+强迫体位	qiang po ti wei	252
+敲打腰部时有舒适感	qiao da yao bu shi you shu shi gan	391
+轻度水肿	qing du shui zhong	221
+丘疹	qiu zhen	231
+全程血尿	quan cheng xue niao	342
+全身浅表淋巴结	quan shen qian biao lin ba jie	191
+全身浅表淋巴结未扪及肿大	quan shen qian biao lin ba jie wei men ji zhong da	125
+肉眼血尿	rou yan xue niao	346
+乳房对称	ru fang dui chen	77
+锐痛	rui tong	374
+嗓音嘶哑	sang yin si ya	579
+色素沉着	se su chen zhuo	241
+色素脱失	se su tuo shi	240
+上腹部饱胀	shang fu bu bao zhang	534
+伤寒面容	shang han mian rong	279
+少尿	shao niao	329
+少痰	shao tan	582
+烧心	shao xin	530
+烧灼样疼痛	shao zhuo yang teng tong	432
+舌色淡	she se dan	265
+舌苔薄白	she tai bo bai	102
+舌缘有齿痕	she yuan you chi hen	266
+肾病面容	shen bing mian rong	284
+神清语晰	shen qing yu xi	131
+伸舌居中无震颤	shen she ju zhong wu zhen chan	101
+伸舌右偏	shen she you pian	149
+伸舌左偏	shen she zuo pian	148
+神志恍惚	shen zhi huang hu	315
+生理反射正常	sheng li fan she zheng chang	28
+视力无异常	shi li wu yi chang	107
+视力障碍	shi li zhang ai	203
+失眠	shi mian	492
+嗜睡	shi shui	312
+食物残渣	shi wu can zha	513
+视物旋转	shi wu xuan zhuan	487
+食欲差	shi yu cha	536
+食欲减退	shi yu jian tui	413
+食欲亢进	shi yu kang jin	179
+食欲一般	shi yu yi ban	178
+受凉后出现	shou liang hou chu xian	592
+手术外伤及输血史	shou shu wai shang ji shu xue shi	213
+双肺呼吸音低	shuang fei hu xi yin di	62
+双肺呼吸音清晰	shuang fei hu xi yin qing xi	66
+双肺呼吸音稍粗	shuang fei hu xi yin shao cu	63
+双肺叩诊呈过清音	shuang fei kou zhen cheng guo qing yin	182
+双肺未闻及明显干湿鸣音	shuang fei wei wen ji ming xian gan shi ming yin	64
+双附件区压痛	shuang fu jian qu ya tong	184
+双颧紫红	shuang quan zi hong	256
+双上肢肌力减退	shuang shang zhi ji li jian tui	139
+双下肺可闻及少量干湿鸣音	shuang xia fei ke wen ji shao liang gan shi ming yin	61
+双下肢肌力减退	shuang xia zhi ji li jian tui	140
+双下肢水肿	shuang xia zhi shui zhong	525
+睡眠障碍	shui mian zhang ai	181
+水样便	shui yang bian	420
+撕裂痛	si lie tong	497
+四肢肌力正常	si zhi ji li zheng chang	146
+四肢麻木	si zhi ma mu	483
+四肢远端麻木	si zhi yuan duan ma mu	482
+酸胀	suan zhang	396
+锁骨中线内一厘米处	suo gu zhong xian nei yi li mi chu	56
+痰白	tan bai	563
+瘫痪	tan huan	198
+痰黄	tan huang	564
+痰量较多	tan liang jiao duo	169
+痰量中等	tan liang zhong deng	164
+痰液粘稠	tan ye nian chou	567
+痰液稀白	tan ye xi bai	566
+痰中带血	tan zhong dai xue	576
+疼痛不剧烈	teng tong bu ju lie	392
+疼痛部位不确切接近腹中线	teng tong bu wei bu que qie jie jin fu zhong xian	440
+体温	ti wen	302
+体重减轻	ti zhong jian qing	177
+天气变化时	tian qi bian hua shi	370
+铁锈色痰	tie xiu se tan	571
+听力减退	ting li jian tui	323
+瞳孔同大等圆	tong kong tong da deng yuan	109
+头发花白	tou fa hua bai	121
+头发浓黑	tou fa nong hei	122
+头昏头痛	tou hun tou tong	488
+头颅五官无畸形	tou lu wu guan wu ji xing	189
+头痛	tou tong	491
+头晕	tou yun	554
+头晕不适感	tou yun bu shi gan	555
+头晕乏力	tou yun fa li	317
+头晕心悸	tou yun xin ji	158
+突出皮肤表面	tu chu pi fu biao mian	230
+吞咽困难	tun yan kun nan	496
+外出就餐后出现	wai chu jiu can hou chu xian	603
+外出受凉后出现	wai chu shou liang hou chu xian	604
+晚上夜间呕吐	wan shang ye jian ou tu	467
+畏寒	wei han	527
+畏寒发热	wei han fa re	174
+未见胃肠蠕动波及其他异常搏动	wei jian wei chang ru dong bo ji qi ta yi chang bo dong	46
+未见异常动脉搏动	wei jian yi chang dong mai bo dong	85
+未闻及血管杂音	wei wen ji xue guan za yin	90
+无包块及疤痕	wu bao kuai ji ba hen	123
+无鼻翼煽动	wu bi yi shan dong	183
+无充血及脓性性分泌物	wu chong xue ji nong xing xing fen mi wu	95
+无倒睫	wu dao jie	116
+无恶心呕吐	wu e xin ou tu	157
+无腹痛腹泻	wu fu tong fu xie	505
+无肝掌及蜘蛛痣	wu gan zhang ji zhi zhu zhi	126
+无红肿压痛及肿块	wu hong zhong ya tong ji zhong kuai	76
+午后低热	wu hou di re	332
+无结节及触痛	wu jie jie ji chu tong	91
+无咖啡样物质	wu ka fei yang wu zhi	172
+无口角皲裂	wu kou jue jun lie	104
+无口眼歪斜	wu kou yan wai xie	150
+无里急后重	wu li ji hou zhong	506
+无力体型	wu li ti xing	296
+无明显压痛叩击痛	wu ming xian ya tong kou ji tong	387
+无明显诱因出现	wu ming xian you yin chu xian	605
+无尿	wu niao	328
+无脓血便	wu nong xue bian	176
+无皮下气肿及静脉曲张	wu pi xia qi zhong ji jing mai qu zhang	78
+无皮疹色素沉着及皮下出血点	wu pi zhen se su chen zhuo ji pi xia chu xue dian	127
+无偏侧肢体无力	wu pian ce zhi ti wu li	156
+无偏身感觉异常障碍	wu pian shen gan jue yi chang zhang ai	155
+无抬举性搏动	wu tai ju xing bo dong	53
+无痰	wu tan	583
+无痛血尿	wu tong xue niao	340
+无秃发	wu tu fa	119
+无心包摩擦感及震颤	wu xin bao mo ca gan ji zhen chan	54
+无心包摩擦音	wu xin bao mo ca yin	48
+无胸膜摩擦感及皮下握雪感	wu xiong mo mo ca gan ji pi xia wo xue gan	69
+无胸膜摩擦音	wu xiong mo mo ca yin	65
+无压痛	wu ya tong	124
+无压痛及叩击痛	wu ya tong ji kou ji tong	30
+无言语不利	wu yan yu bu li	152
+无移动性浊音	wu yi dong xing zhuo yin	38
+无振水声	wu zhen shui sheng	33
+稀便	xi bian	421
+吸气三凹征	xi qi san ao zheng	494
+洗肉水样便	xi rou shui yang bian	445
+洗肉水样鸟	xi rou shui yang niao	336
+下腹部疼痛	xia fu bu teng tong	434
+下腹部坠胀感	xia fu bu zhui zhang gan	377
+下腰骶部疼痛	xia yao di bu teng tong	383
+下腰痛	xia yao tong	402
+鲜红色	xian hong se	515
+向心性肥胖	xiang xin xing fei pang	290
+小便黄	xiao bian huang	407
+消瘦	xiao shou	470
+消廋纳差	xiao sou na cha	349
+心慌气短	xin huang qi duan	589
+心尖搏动不能明视	xin jian bo dong bu neng ming shi	59
+心尖波动范围正常	xin jian bo dong fan wei zheng chang	55
+心尖搏动在左第五肋间	xin jian bo dong zai zuo di wu lei jian	57
+心累气急	xin lei qi ji	590
+心累心慌	xin lei xin huang	591
+心律齐	xin lv qi	51
+心律失常	xin lv shi chang	318
+心前区憋闷	xin qian qu bie men	549
+心前区憋闷疼痛	xin qian qu bie men teng tong	595
+心前区不适	xin qian qu bu shi	593
+心前区不适感	xin qian qu bu shi gan	548
+心前区疼痛	xin qian qu teng tong	550
+心前区无隆起及凹陷	xin qian qu wu long qi ji ao xian	60
+心前区无异常搏动	xin qian qu wu yi chang bo dong	58
+心前区压榨感	xin qian qu ya zha gan	594
+心前区压榨性疼痛	xin qian qu ya zha xing teng tong	542
+心音正常	xin yin zheng chang	50
+心脏疾病	xin zang ji bing	208
+心脏浊音界大小正常	xin zang zhuo yin jie da xiao zheng chang	52
+性病史	xing bing shi	204
+兴奋不安	xing fen bu an	277
+性格改变	xing ge gai bian	201
+胸壁无肿块无压痛	xiong bi wu zhong kuai wu ya tong	79
+胸骨后灼烧感	xiong gu hou zhuo shao gan	531
+胸廓正常	xiong kuo zheng chang	83
+胸闷及呼吸困难	xiong men ji hu xi kun nan	551
+胸式呼吸	xiong shi hu xi	75
+胸痛	xiong tong	543
+休息时缓解	xiu xi shi huan jie	399
+眩晕	xuan yun	553
+血便	xue bian	503
+血丝痰	xue si tan	574
+血痰	xue tan	575
+血压	xue ya	299
+荨麻疹	xun ma zhen	229
+牙龈出血	ya yin chu xue	216
+牙龈无肿胀出血及溢脓	ya yin wu zhong zhang chu xie ji yi nong	103
+咽部无充血	yan bu wu chong xue	99
+咽红	yan hong	98
+眼花	yan hua	489
+眼睑闭合不全	yan jian bi he bu quan	185
+眼睑水肿	yan jian shui zhong	523
+眼睑无浮肿	yan jian wu fu zhong	115
+眼睑下垂	yan jian xia chui	186
+眼裂增宽	yan lie zeng kuan	263
+颜面部水肿	yan mian bu shui zhong	524
+眼球突出	yan qiu tu chu	262
+眼球无突出	yan qiu wu tu chu	114
+眼球震颤	yan qiu zhen chan	319
+沿神经走向分布	yan shen jing zou xiang fen bu	511
+言语不利	yan yu bu li	153
+阳性	yang xing	8
+腰背痛	yao bei tong	403
+腰部绞痛	yao bu jiao tong	375
+腰骶部疼痛	yao di bu teng tong	378
+腰痛	yao tong	408
+药物及物理治疗后缓解	yao wu ji wu li zhi liao hou huan jie	367
+腰椎无明显压痛	yao zhui wu ming xian ya tong	390
+夜间憋醒	ye jian bie xing	537
+夜间明显	ye jian ming xian	389
+夜间痛	ye jian tong	449
+夜间阵发新呼吸困难	ye jian zhen fa xin hu xi kun nan	538
+意识模糊	yi shi mo hu	311
+意识障碍	yi shi zhang ai	313
+饮酒劳累高嘌呤饮食后加剧	yin jiu lao lei gao piao ling yin shi hou jia ju	354
+因咳嗽体位改变而加重	yin ke sou ti wei gai bian er jia zhong	439
+隐痛	yin tong	502
+阴性	yin xing	7
+营养不良	ying yang bu liang	292
+营养良好	ying yang liang hao	294
+营养中等	ying yang zhong deng	293
+用力大小便时腰痛加重	yong li da xiao bian shi yao tong jia zhong	372
+右侧奥本海姆征阳性	you ce ao ben hai mu zheng yang xing	22
+右侧巴彬斯基征阳性	you ce ba bin si ji zheng yang xing	26
+右侧查多克征阳性	you ce cha duo ke zheng yang xing	20
+右侧戈登征阳性	you ce ge deng zheng yang xing	24
+右侧肢体肌力减退	you ce zhi ti ji li jian tui	137
+右侧肢体肌力正常	you ce zhi ti ji li zheng chang	145
+右上腹部疼痛	you shang fu bu teng tong	438
+右上腹绞痛	you shang fu jiao tong	454
+右上腹疼痛	you shang fu teng tong	455
+右上肢麻木	you shang zhi ma mu	479
+右上肢无力	you shang zhi wu li	480
+右下腹部疼痛	you xia fu bu teng tong	437
+右下肢麻木	you xia zhi ma mu	475
+右下肢无力	you xia zhi wu li	476
+游走性疼痛	you zou xing teng tong	365
+预防接种	yu fang jie zhong	215
+远端肌力减退	yuan duan ji li jian tui	141
+月经期下腰部疼痛加重	yue jing qi xia yao bu teng tong jia zhong	373
+运动异常	yun dong yi chang	197
+运动自如	yun dong zi ru	113
+晕厥	yun jue	472
+暂缺	zan que	14
+躁动不安	zao dong bu an	308
+早醒	zao xing	180
+站立不稳	zhan li bu wen	162
+胀痛	zhang tong	501
+阵发新心前区不适	zhen fa xin xin qian qu bu shi	596
+阵发性	zhen fa xing	597
+阵发性呼吸困难	zhen fa xing hu xi kun nan	539
+阵发性加剧	zhen fa xing jia ju	430
+阵发性头晕头痛	zhen fa xing tou yun tou tong	599
+正力体型	zheng li ti xing	297
+肢端肥大面容	zhi duan fei da mian rong	280
+指趾关节痛	zhi zhi guan jie tong	348
+跖趾关节痛	zhi zhi guan jie tong	347
+蜘蛛痣	zhi zhu zhi	223
+中度水肿	zhong du shui zhong	220
+重度水肿	zhong du shui zhong	219
+终末血尿	zhong mo xue niao	341
+周期性	zhou qi xing	443
+转移性腹痛	zhuan yi xing fu tong	436
+椎基底动脉供血不足	zhui ji di dong mai gong xue bu zu	320
+自发性	zi fa xing	598
+自主体位	zi zhu ti wei	254
+醉酒步态	zui jiu bu tai	250
+左侧奥本海姆征阳性	zuo ce ao ben hai mu zheng yang xing	21
+左侧巴彬斯基征阳性	zuo ce ba bin si ji zheng yang xing	25
+左侧查多克征阳性	zuo ce cha duo ke zheng yang xing	19
+左侧戈登征阳性	zuo ce ge deng zheng yang xing	23
+左侧肢体肌力减退	zuo ce zhi ti ji li jian tui	138
+左侧肢体肌力正常	zuo ce zhi ti ji li zheng chang	144
+坐骨神经痛	zuo gu shen jing tong	401
+左上肢麻木	zuo shang zhi ma mu	477
+左上肢无力	zuo shang zhi wu li	478
+左下腹疼痛	zuo xia fu teng tong	433
+左下肢麻木	zuo xia zhi ma mu	473
+左下肢无力	zuo xia zhi wu li	474

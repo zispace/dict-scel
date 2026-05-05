@@ -1,0 +1,325 @@
+# 词库名称: 数学词汇
+# 词库分类: 理工类
+# 词库描述: 包括数学中的常用名词术语和符号。
+# 词条样例: 单增、偶函数、未知数、数量关系、函数论、微分方程
+# 解析词数: 318
+# 解析异常: 0
+
+阿贝尔群	a bei er qun	24
+艾礼富数	ai li fu shu	181
+爱森斯坦	ai sen si tan	22
+爱因斯坦约定	ai yin si tan yue ding	23
+巴拿赫空间	ba na he kong jian	85
+八元数	ba yuan shu	188
+半单	ban dan	20
+半双线性型	ban shuang xian xing xing	19
+伴随变换	ban sui bian huan	16
+伴随方阵	ban sui fang zhen	15
+半序集	ban xu ji	18
+半正定	ban zheng ding	17
+保险数学	bao xian shu xue	44
+贝叶斯统计	bei ye si tong ji	54
+必要不充分条件	bi yao bu chong fen tiao jian	271
+变分法	bian fen fa	89
+变换族	bian huan zu	13
+编码理论	bian ma li lun	145
+辩证法	bian zheng fa	291
+博弈论	bo yi lun	32
+不等式的解集	bu deng shi de jie ji	264
+不确定性	bu que ding xing	202
+参数估计	can shu gu ji	53
+参数规划	can shu gui hua	37
+测度与积分	ce du yu ji fen	83
+插空法	cha kong fa	208
+插值法与逼近论	cha zhi fa yu bi jin lun	79
+常微分方程	chang wei fen fang cheng	107
+常微分方程其他学科	chang wei fen fang cheng qi ta xue ke	103
+常微分方程数值解	chang wei fen fang cheng shu zhi jie	78
+超限数	chao xian shu	186
+超越	chao yue	165
+充分不必要条件	chong fen bu bi yao tiao jian	273
+重根	chong gen	12
+充要条件	chong yao tiao jian	270
+稠密	chou mi	6
+抽象代数	chou xiang dai shu	285
+抽象性	chou xiang xing	279
+抽样理论包括抽样分布抽样调查等	chou yang li lun bao kuo chou yang fen bu chou yang diao cha deng	60
+代数	dai shu	166
+代数式	dai shu shi	213
+代数拓扑学	dai shu tuo pu xue	132
+代数学	dai shu xue	305
+带余除法	dai yu chu fa	11
+单调递减	dan diao di jian	257
+单复变函数论	dan fu bian han shu lun	114
+单减	dan jian	316
+单位元	dan wei yuan	10
+单增	dan zeng	317
+的考虑	de kao lv	187
+的子集	de zi ji	193
+等比数列	deng bi shu lie	247
+等差数列	deng cha shu lie	248
+等价关系	deng jia guan xi	7
+等可能事件的概率	deng ke neng shi jian de gai lv	219
+递归论	di gui lun	170
+低维拓扑学	di wei tuo pu xue	130
+点集拓扑学	dian ji tuo pu xue	133
+定量	ding liang	280
+定性理论	ding xing li lun	106
+定义域	ding yi yu	266
+丢番图逼近	diu fan tu bi jin	164
+动力系统	dong li xi tong	96
+动力系统其他学科	dong li xi tong qi ta xue ke	92
+动态规划	dong tai gui hua	39
+度量	du liang	281
+度量空间	du liang kong jian	9
+对策论	dui ce lun	33
+对称积	dui chen ji	8
+对称轴	dui chen zhou	249
+对角线	dui jiao xian	5
+对偶	dui ou	4
+对数	dui shu	261
+多复变函数论	duo fu bian han shu lun	113
+多元分析	duo yuan fen xi	51
+二倍角公式	er bei jiao gong shi	241
+二次函数	er ci han shu	260
+二面角	er mian jiao	233
+二项式定理	er xiang shi ding li	209
+二项式系数	er xiang shi xi shu	210
+范畴论	fan chou lun	148
+泛代数理论	fan dai shu li lun	149
+泛函	fan han	2
+泛函分析	fan han fen xi	301
+泛函分析其他学科	fan han fen xi qi ta xue ke	80
+反射	fan she	1
+范数	fan shu	3
+方差分析	fang cha fen xi	57
+仿射	fang she	138
+非标准分析	fei biao zhun fen xi	116
+非参数统计	fei can shu tong ji	58
+非负整数	fei fu zheng shu	289
+非结合环	fei jie he huan	152
+费马最后定理	fei ma zui hou ding li	199
+非欧几何	fei ou ji he	286
+非欧几何学	fei ou ji he xue	143
+非线性泛函分析	fei xian xing fan han fen xi	81
+非线性规划	fei xian xing gui hua	40
+非线性偏微分方程	fei xian xing pian wei fen fang cheng	98
+分层抽样	fen ceng chou yang	226
+复动力系统	fu dong li xi tong	93
+符号逻辑学	fu hao luo ji xue	173
+复流形	fu liu xing	110
+概率	gai lv	227
+概率分布	gai lv fen bu	70
+概率论	gai lv lun	299
+哥德巴赫猜想	ge de ba he cai xiang	196
+各领域	ge ling yu	178
+格论	ge lun	150
+格上拓扑学	ge shang tuo pu xue	127
+公理	gong li	168
+公式化	gong shi hua	185
+广义函数论	guang yi han shu lun	82
+广义化	guang yi hua	191
+函数	han shu	318
+函数逼近论	han shu bi jin lun	112
+函数的图象	han shu de tu xiang	259
+函数空间	han shu kong jian	86
+函数论	han shu lun	302
+函数论其他学科	han shu lun qi ta xue ke	108
+互斥事件	hu chi shi jian	220
+环论	huan lun	157
+既不充分也不必要条件	ji bu chong fen ye bu bi yao tiao jian	272
+积分	ji fen	314
+积分方程	ji fen fang cheng	91
+积分方程数值解	ji fen fang cheng shu zhi jie	76
+积分学	ji fen xue	119
+奇函数	ji han shu	312
+集合	ji he	275
+几何	ji he	293
+几何概率	ji he gai lv	71
+集合论	ji he lun	284
+几何拓扑学	ji he tuo pu xue	125
+几何学	ji he xue	304
+几何学其他学科	ji he xue qi ta xue ke	134
+奇偶性	ji ou xing	310
+计数	ji shu	282
+基数	ji shu	182
+奇数	ji shu	245
+级数论	ji shu lun	118
+计数至无限	ji shu zhi wu xian	184
+计算	ji suan	163
+计算几何	ji suan ji he	135
+计算数学	ji suan shu xue	297
+极限理论	ji xian li lun	69
+假设检验	jia she jian yan	59
+简单随机抽样	jian dan sui ji chou yang	224
+建立空间直角坐标系	jian li kong jian zhi jiao zuo biao xi	235
+焦点	jiao dian	216
+交换代数	jiao huan dai shu	155
+交换环	jiao huan huan	156
+结合代数	jie he dai shu	153
+结合环	jie he huan	154
+解析	jie xi	167
+解析理论	jie xi li lun	104
+解析式	jie xi shi	254
+进一步广义化	jin yi bu guang yi hua	190
+决策论	jue ce lun	30
+绝对值	jue dui zhi	263
+可靠性数学	ke kao xing shu xue	45
+库存论	ku cun lun	31
+捆绑法	kun bang fa	207
+棱柱的侧面展开图	leng zhu de ce mian zhan kai tu	229
+棱锥	leng zhui	230
+李代数	li dai shu	158
+黎曼几何学	li man ji he xue	142
+李群	li qun	159
+离散型随机变量分布列	li san xing sui ji bian liang fen bu lie	223
+离心率	li xin lv	218
+连续问题离散化方法	lian xu wen ti li san hua fang fa	74
+孪生素数猜想	luan sheng su shu cai xiang	197
+逻辑推理	luo ji tui li	290
+逻辑性	luo ji xing	278
+逻辑学	luo ji xue	174
+马尔可夫过程	ma er ke fu guo cheng	65
+模糊数学	mo hu shu xue	25
+模论	mo lun	151
+模型论	mo xing lun	169
+逆否命题	ni fou ming ti	267
+偶函数	ou han shu	311
+欧几里德	ou ji li de	288
+欧氏几何学	ou shi ji he xue	144
+偶数	ou shu	244
+排队论	pai dui lun	34
+排列	pai lie	212
+判别法	pan bie fa	21
+抛物线	pao wu xian	250
+抛物型偏微分方程	pao wu xing pian wei fen fang cheng	99
+偏微分方程	pian wei fen fang cheng	102
+偏微分方程其他学科	pian wei fen fang cheng qi ta xue ke	97
+偏微分方程数值解	pian wei fen fang cheng shu zhi jie	77
+平面的法向量	ping mian de fa xiang liang	232
+平稳	ping wen	66
+奇点理论	qi dian li lun	124
+期望	qi wang	222
+切线方程	qie xian fang cheng	228
+球面几何学	qiu mian ji he xue	141
+区间	qu jian	256
+群论	qun lun	161
+三垂线定理	san chui xian ding li	234
+射影	she ying	137
+实变函数论	shi bian han shu lun	115
+实际运算	shi ji yun suan	206
+时间序列分析	shi jian xu lie fen xi	49
+实数	shi shu	192
+实数的取值范围	shi shu de qu zhi fan wei	265
+试验设计	shi yan she ji	52
+适用性	shi yong xing	277
+数理逻辑	shu li luo ji	307
+数理统计	shu li tong ji	298
+数理统计学	shu li tong ji xue	61
+数理统计学其他学科	shu li tong ji xue qi ta xue ke	48
+数量关系	shu liang guan xi	308
+数论	shu lun	306
+数系	shu xi	195
+数学的	shu xue de	179
+数学分析	shu xue fen xi	121
+数学分析其他学科	shu xue fen xi qi ta xue ke	117
+数学归纳法	shu xue gui na fa	251
+数学核心	shu xue he xin	204
+数学基础	shu xue ji chu	176
+数学家	shu xue jia	287
+数学史	shu xue shi	177
+数值代数	shu zhi dai shu	75
+双曲线	shuang qu xian	217
+双曲型偏微分方程	shuang qu xing pian wei fen fang cheng	100
+四元数	si yuan shu	189
+搜索论	sou suo lun	29
+算术	suan shu	294
+算术运算	suan shu yun suan	200
+算子代数	suan zi dai shu	84
+随机分析	sui ji fen xi	64
+随机规划	sui ji gui hua	35
+随机过程	sui ji guo cheng	68
+随机数值实验	sui ji shu zhi shi yan	73
+特殊函数论	te shu han shu lun	109
+天文学	tian wen xue	292
+调和分析	tiao he fen xi	111
+统筹论	tong chou lun	27
+同调论	tong diao lun	129
+统计模拟	tong ji mo ni	43
+统计判决理论	tong ji pan jue li lun	50
+统计推断	tong ji tui duan	55
+统计质量控制	tong ji zhi liang kong zhi	46
+同角三角函数的基本关系式	tong jiao san jiao han shu de ji ben guan xi shi	242
+同伦论	tong lun lun	131
+同调代数	tong tiao dai shu	147
+通项公式	tong xiang gong shi	246
+图论	tu lun	28
+图象关于原点对称	tu xiang guan yu yuan dian dui chen	253
+凸性	tu xing	315
+拓扑动力系统	tuo pu dong li xi tong	94
+拓扑结构	tuo pu jie gou	276
+拓扑线性空间	tuo pu xian xing kong jian	88
+拓扑学	tuo pu xue	303
+拓扑学其他学科	tuo pu xue qi ta xue ke	122
+椭圆	tuo yuan	215
+椭圆型偏微分方程	tuo yuan xing pian wei fen fang cheng	101
+微分	wei fen	313
+微分代数	wei fen dai shu	146
+微分动力系统	wei fen dong li xi tong	95
+微分方程	wei fen fang cheng	300
+微分几何	wei fen ji he	136
+微分拓扑学	wei fen tuo pu xue	123
+微分学	wei fen xue	120
+未解问题	wei jie wen ti	198
+维数论	wei shu lun	128
+未知数	wei zhi shu	309
+稳定性理论	wen ding xing li lun	105
+误差分析	wu cha fen xi	72
+无理数	wu li shu	268
+无限集合	wu xian ji he	180
+希尔伯特空间	xi er bo te kong jian	87
+系统抽样	xi tong chou yang	225
+现代数学	xian dai shu xue	283
+纤维丛论	xian wei cong lun	126
+线性	xian xing	162
+线性规划	xian xing gui hua	41
+线性算子理论	xian xing suan zi li lun	90
+相关回归分析	xiang guan hui gui fen xi	56
+相互独立事件	xiang hu du li shi jian	221
+向量	xiang liang	140
+演绎	yan yi	175
+鞅论	yang lun	63
+异面直线	yi mian zhi xian	236
+应用概率论具体应用入有关学科	ying yong gai lv lun ju ti ying yong ru you guan xue ke	62
+应用数学	ying yong shu xue	203
+应用统计数学	ying yong tong ji shu xue	47
+应用统计数学其他学科	ying yong tong ji shu xue qi ta xue ke	42
+诱导公式	you dao gong shi	240
+有理数	you li shu	194
+域论	yu lun	160
+余弦定理	yu xian ding li	238
+元数学	yuan shu xue	171
+元素	yuan su	274
+运筹学	yun chou xue	296
+增函数	zeng han shu	252
+张量	zhang liang	139
+这一概念	zhe yi gai nian	183
+真子集	zhen zi ji	269
+正交基	zheng jiao ji	14
+证明论	zheng ming lun	172
+整数规划	zheng shu gui hua	36
+正态	zheng tai	67
+正弦定理	zheng xian ding li	239
+指数	zhi shu	262
+直线与平面所成的角	zhi xian yu ping mian suo cheng de jiao	231
+周期函数	zhou qi han shu	237
+准线	zhun xian	214
+子领域	zi ling yu	205
+自然数	zi ran shu	201
+组合	zu he	211
+组合数学	zu he shu xue	295
+组合最优化	zu he zui you hua	38
+最大值	zui da zhi	258
+最小正周期	zui xiao zheng zhou qi	243
+最小值	zui xiao zhi	255
+最优化	zui you hua	26

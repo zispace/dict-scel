@@ -1,0 +1,366 @@
+# 词库名称: 物流专业词库
+# 词库分类: 其他
+# 词库描述: 本人整理的关于物流专业的一些词汇，由于本人不是物流专业，可能还不是很好，欢迎网友们修改，添加，共同完善。
+# 词条样例: 存取权限表、承接通知、拆箱批量拣货、存货管理、存货投资
+# 解析词数: 359
+# 解析异常: 0
+
+安全库存	an quan ku cun	246
+班次服务	ban ci fu wu	202
+半拖车	ban tuo che	200
+搬运	ban yun	241
+保管	bao guan	250
+包裹配送	bao guo pei song	201
+保留存货	bao liu cun huo	176
+鲍率	bao lv	195
+保税仓库	bao shui cang ku	193
+保税货物	bao shui huo wu	184
+保证日期送到	bao zheng ri qi song dao	187
+保证上午送到	bao zheng shang wu song dao	188
+包装	bao zhuang	239
+包装区	bao zhuang qu	203
+包装师	bao zhuang shi	190
+便利商店	bian li shang dian	189
+变异数分析	bian yi shu fen xi	204
+标竿	biao gan	194
+标签	biao qian	3
+标准运输商品码	biao zhun yun shu shang pin ma	199
+标准作业程序	biao zhun zuo ye cheng xu	198
+拨回	bo hui	191
+不垂直整合	bu chui zhi zheng he	197
+不当托运单	bu dang tuo yun dan	185
+不对称信息	bu dui chen xin xi	196
+不可抗力	bu ke kang li	174
+不明货件	bu ming huo jian	88
+不平衡移动	bu ping heng yi dong	186
+采购	cai gou	333
+采购前置时间	cai gou qian zhi shi jian	332
+仓储	cang chu	299
+仓储业	cang chu ye	298
+仓库布局	cang ku bu ju	219
+仓库管理系统	cang ku guan li xi tong	300
+仓库合存货管理系统	cang ku he cun huo guan li xi tong	301
+侧装堆高机	ce zhuang dui gao ji	317
+查货	cha huo	116
+查货号码查	cha huo hao ma cha	321
+差距分析	cha ju fen xi	347
+拆散	chai san	355
+拆散的仓库	chai san de cang ku	354
+拆托盘	chai tuo pan	315
+拆箱把	chai xiang ba	320
+拆箱拣取	chai xiang jian qu	316
+拆箱批量拣货	chai xiang pi liang jian huo	353
+产品多样化	chan pin duo yang hua	331
+产品回复	chan pin hui fu	329
+产品回收	chan pin hui shou	328
+产品生命周期	chan pin sheng ming zhou qi	330
+产业管理师	chan ye guan li shi	350
+产业时钟	chan ye shi zhong	345
+长鞭效应	chang bian xiao ying	352
+超级市场	chao ji shi chang	308
+车场	che chang	306
+车辆可装能力	che liang ke zhuang neng li	356
+车辆路径问题	che liang lu jing wen ti	303
+车辆升降尾门	che liang sheng jiang wei men	307
+车辆侦测	che liang zhen ce	324
+车辆装载	che liang zhuang zai	304
+成本控制	cheng ben kong zhi	348
+承接通知	cheng jie tong zhi	358
+承运人	cheng yun ren	11
+持有仓库	chi you cang ku	346
+重新储存	chong xin chu cun	325
+酬劳	chou lao	149
+初次配送	chu ci pei song	335
+储存	chu cun	251
+储存模块	chu cun mo kuai	309
+储存区	chu cun qu	311
+储存寿命	chu cun shou ming	323
+储存寿命监视	chu cun shou ming jian shi	322
+出发部门	chu fa bu men	9
+出货单	chu huo dan	319
+出货区	chu huo qu	318
+出货通知	chu huo tong zhi	357
+出库理货成本	chu ku li huo cheng ben	326
+处理中心	chu li zhong xin	334
+储位地址	chu wei di zhi	310
+创新	chuang xin	145
+创造价值	chuang zao jia zhi	305
+垂直整合	chui zhi zheng he	302
+纯粹配运	chun cui pei yun	327
+促进流通者	cu jin liu tong zhe	349
+存货	cun huo	344
+存货持有成本	cun huo chi you cheng ben	351
+存货管理	cun huo guan li	342
+存货控制	cun huo kong zhi	343
+存货流通速度	cun huo liu tong su du	339
+存货投资	cun huo tou zi	341
+存货周转率	cun huo zhou zhuan lv	340
+存货转移	cun huo zhuan yi	312
+存货组合	cun huo zu he	313
+存取权限表	cun qu quan xian biao	359
+存取系统	cun qu xi tong	314
+大量地面储存	da liang di mian chu cun	42
+大量购买	da liang gou mai	43
+大宗商品仓库	da zong shang pin cang ku	40
+待出货区	dai chu huo qu	17
+带来更多商机	dai lai geng duo shang ji	137
+代理成本	dai li cheng ben	50
+代理合约	dai li he yue	51
+代理理论	dai li li lun	49
+代理人	dai li ren	48
+代收货款	dai shou huo kuan	1
+单独拖车头	dan du tuo che tou	45
+单方向码	dan fang xiang ma	14
+单一配送价格	dan yi pei song jia ge	13
+当天到达	dang tian dao da	19
+到达点	dao da dian	44
+到欠	dao qian	92
+地板负荷率	di ban fu he lv	31
+地点优势	di dian you shi	52
+地理信息系统	di li xin xi xi tong	29
+地面储存	di mian chu cun	28
+地面控制器	di mian kong zhi qi	32
+地区运送者	di qu yun song zhe	41
+第三方物流	di san fang wu liu	284
+第三方物流公司	di san fang wu liu gong si	15
+店内条形码	dian nei tiao xing ma	27
+电子订货系统订货	dian zi ding huo xi tong ding huo	36
+电子化企业	dian zi hua qi ye	39
+电子商务系统	dian zi shang wu xi tong	37
+电子数据交换	dian zi shu ju jiao huan	279
+订单别拣货	ding dan bie jian huo	20
+订单管理软件	ding dan guan li ruan jian	23
+订单号码	ding dan hao ma	111
+订单后组装	ding dan hou zu zhuang	47
+订单履行	ding dan lv xing	25
+订单满足率	ding dan man zu lv	35
+订单品项数量	ding dan pin xiang shu liang	38
+订单前置时间	ding dan qian zhi shi jian	24
+订单生产	ding dan sheng chan	26
+订单时点系统	ding dan shi dian xi tong	22
+订货处理周期	ding huo chu li zhou qi	243
+定量订购	ding liang ding gou	33
+定量订货方式	ding liang ding huo fang shi	216
+定牌包装	ding pai bao zhuang	237
+定期订货方式	ding qi ding huo fang shi	215
+定时订购	ding shi ding gou	34
+定制物流	ding zhi wu liu	283
+独立式货架	du li shi huo jia	30
+短程歧视	duan cheng qi shi	18
+堆叠方式	dui die fang shi	46
+堆垒	dui lei	16
+多件	duo jian	98
+多卸货点路线	duo xie huo dian lu xian	21
+二维条形码	er wei tiao xing ma	83
+法人	fa ren	78
+防火墙	fang huo qiang	68
+放弃	fang qi	82
+飞机承载运输	fei ji cheng zai yun shu	80
+废弃物	fei qi wu	65
+废弃物处理	fei qi wu chu li	64
+废弃物物流	fei qi wu wu liu	289
+分次配送	fen ci pei song	58
+分次运送	fen ci yun song	55
+分货	fen huo	57
+分货中心	fen huo zhong xin	71
+分拣	fen jian	227
+分类管理	fen lei guan li	214
+分类系统	fen lei xi tong	56
+分区隔离储存	fen qu ge li chu cun	192
+分析性购买者	fen xi xing gou mai zhe	79
+分销渠道	fen xiao qu dao	74
+分销需求规划	fen xiao xu qiu gui hua	70
+分销资源规划	fen xiao zi yuan gui hua	69
+封闭回路系统	feng bi hui lu xi tong	72
+封闭式配送系统	feng bi shi pei song xi tong	73
+封箱机	feng xiang ji	77
+封装机	feng zhuang ji	63
+负荷高度对	fu he gao du dui	66
+复合运输	fu he yun shu	67
+附加价值	fu jia jia zhi	81
+附加价值服务	fu jia jia zhi fu wu	54
+服务	fu wu	62
+服务非弹性	fu wu fei tan xing	60
+服务价值订价法	fu wu jia zhi ding jia fa	53
+服务弹性	fu wu tan xing	61
+服务业	fu wu ye	59
+付现购买者	fu xian gou mai zhe	75
+付现后带走	fu xian hou dai zou	76
+甘特图	gan te tu	164
+隔日送达	ge ri song da	156
+根据价值	gen ju jia zhi	173
+更正性控制	geng zheng xing kong zhi	169
+公定运价表	gong ding yun jia biao	172
+公共仓库	gong gong cang ku	143
+公共型物流中心	gong gong xing wu liu zhong xin	266
+共同配送	gong tong pei song	229
+共同运送	gong tong yun song	155
+工业工程	gong ye gong cheng	163
+工业管理	gong ye guan li	162
+供应链	gong ying lian	140
+供应链管理	gong ying lian guan li	182
+供应链软件	gong ying lian ruan jian	133
+供应链社群	gong ying lian she qun	139
+供应链位置	gong ying lian wei zhi	134
+供应商管理库存	gong ying shang guan li ku cun	177
+供应商管理库存系统	gong ying shang guan li ku cun xi tong	131
+供应物流	gong ying wu liu	268
+供应者直接配送	gong ying zhe zhi jie pei song	132
+工作区域	gong zuo qu yu	130
+购物中心	gou wu zhong xin	141
+固定储位法	gu ding chu wei fa	166
+固定路径理货设备	gu ding lu jing li huo she bei	165
+固定路线运送业者	gu ding lu xian yun song ye zhe	142
+管理集中度	guan li ji zhong du	148
+管理全部物流	guan li quan bu wu liu	157
+管理信息系统	guan li xin xi xi tong	158
+管理原则	guan li yuan ze	154
+关联产品	guan lian chan pin	171
+光碟购物	guang die gou wu	170
+国际物流	guo ji wu liu	161
+国际性零担	guo ji xing ling dan	160
+航空货运承揽业	hang kong huo yun cheng lan ye	127
+合并规划	he bing gui hua	128
+合并库存	he bing ku cun	129
+合理报酬	he li bao chou	104
+核心能力	he xin neng li	107
+核心业务	he xin ye wu	108
+合约物流	he yue wu liu	109
+后进先出	hou jin xian chu	103
+缓冲包装	huan chong bao zhuang	106
+缓冲存货	huan chong cun huo	105
+缓冲物	huan chong wu	124
+汇编语言	hui bian yu yan	125
+回程容量利用	hui cheng rong liang li yong	84
+回收物流	hui shou wu liu	290
+混合托盘	hun he tuo pan	102
+混合装运	hun he zhuang yun	101
+货到通知	huo dao tong zhi	126
+货垛	huo duo	242
+货号	huo hao	123
+货架	huo jia	86
+货签	huo qian	115
+货物入库	huo wu ru ku	87
+货物追踪	huo wu zhui zong	114
+货源	huo yuan	85
+货运事故	huo yun shi gu	100
+集货	ji huo	226
+计算机付诸订货系统	ji suan ji fu zhu ding huo xi tong	178
+集装化	ji zhuang hua	233
+集装箱运输	ji zhuang xiang yun shu	255
+集装运输	ji zhuang yun shu	256
+检验	jian yan	222
+交接单	jiao jie dan	4
+阶层	jie ceng	147
+经常库存	jing chang ku cun	247
+经济订货批量	jing ji ding huo pi liang	217
+军事物流	jun shi wu liu	285
+库存	ku cun	248
+库存控制	ku cun kong zhi	218
+库存周期	ku cun zhou qi	245
+库管理	ku guan li	220
+快速反映	kuai su fan ying	181
+冷链	leng lian	223
+联动战略	lian dong zhan lue	264
+联合采购	lian he cai gou	263
+联合运输	lian he yun shu	260
+连续库存补充计划	lian xu ku cun bu chong ji hua	179
+领导单一化	ling dao dan yi hua	151
+零库存技术	ling ku cun ji shu	211
+流通加工	liu tong jia gong	224
+绿色物流	lv se wu liu	288
+满足客户的需求	man zu ke hu de xu qiu	136
+门到门	men dao men	254
+派送部门	pai song bu men	7
+配送	pei song	230
+配送需要计划	pei song xu yao ji hua	207
+配送中心	pei song zhong xin	228
+配送资源计划	pei song zi yuan ji hua	206
+配载部门	pei zai bu men	8
+拼箱货	pin xiang huo	252
+破损	po sun	97
+企业物流	qi ye wu liu	287
+企业资源计划	qi ye zi yuan ji hua	183
+欠件	qian jian	95
+签收单	qian shou dan	2
+前置期	qian zhi qi	244
+区分级别	qu fen ji bie	117
+权威和责任	quan wei he ze ren	152
+确定到达站	que ding dao da zhan	120
+确定发送员	que ding fa song yuan	119
+确定件数	que ding jian shu	118
+人和组织利益	ren he zu zhi li yi	150
+散装化	san zhuang hua	232
+社会物流	she hui wu liu	286
+生产物流	sheng chan wu liu	267
+市场更有效率	shi chang geng you xiao lv	138
+收货人	shou huo ren	10
+甩挂运输	shuai gua yun shu	257
+顺序	shun xu	146
+条码	tiao ma	280
+团队精神	tuan dui jing shen	144
+托盘包装	tuo pan bao zhuang	234
+托运单号码	tuo yun dan hao ma	113
+托运号码	tuo yun hao ma	112
+托运人	tuo yun ren	12
+托运书	tuo yun shu	5
+外发代理	wai fa dai li	6
+无板货件	wu ban huo jian	96
+误积	wu ji	91
+物料需要计划	wu liao xu yao ji hua	209
+物流	wu liu	296
+物流成本	wu liu cheng ben	273
+物流成本管理	wu liu cheng ben guan li	210
+物流单证	wu liu dan zheng	293
+物流管理	wu liu guan li	272
+物流活动	wu liu huo dong	276
+物流技术	wu liu ji shu	274
+物流联盟	wu liu lian meng	292
+物流模数	wu liu mo shu	275
+物流企业	wu liu qi ye	294
+物流网络	wu liu wang luo	270
+物流信息	wu liu xin xi	269
+物流战略	wu liu zhan lue	221
+物流中心	wu liu zhong xin	271
+物流资源计划	wu liu zi yuan ji hua	205
+物流作业	wu liu zuo ye	295
+物流作业术语	wu liu zuo ye shu yu	262
+物品	wu pin	297
+物品储存	wu pin chu cun	249
+误受付	wu shou fu	99
+误卸	wu xie	90
+无形损耗	wu xing sun hao	277
+销售包装	xiao shou bao zhuang	238
+销售物流	xiao shou wu liu	291
+虚拟物流	xu ni wu liu	282
+业务外包	ye wu wai bao	175
+有效客户反映	you xiao ke hu fan ying	180
+有形损耗	you xing sun hao	278
+预防性控制	yu fang xing kong zhi	168
+员工因才而用	yuan gong yin cai er yong	153
+原欠	yuan qian	94
+越载	yue zai	89
+运输	yun shu	261
+运输包装	yun shu bao zhuang	235
+在上	zai shang	122
+在下	zai xia	121
+增加利润	zeng jia li run	135
+增值物流服务	zeng zhi wu liu fu wu	281
+侦察性控制	zhen cha xing kong zhi	167
+整车配送的回头车	zheng che pei song de hui tou che	159
+政府托运单号码	zheng fu tuo yun dan hao ma	110
+整箱货	zheng xiang huo	253
+直达运输	zhi da yun shu	259
+直接换装	zhi jie huan zhuang	231
+制造资源计划	zhi zao zi yuan ji hua	208
+中继点欠	zhong ji dian qian	93
+中性包装	zhong xing bao zhuang	236
+中转运输	zhong zhuan yun shu	258
+诸位档案	zhu wei dang an	336
+诸位核对	zhu wei he dui	338
+诸位转移	zhu wei zhuan yi	337
+装卸	zhuang xie	240
+准时制	zhun shi zhi	213
+准时制物流	zhun shi zhi wu liu	212
+自用型物流中心	zi yong xing wu liu zhong xin	265
+组配	zu pei	225

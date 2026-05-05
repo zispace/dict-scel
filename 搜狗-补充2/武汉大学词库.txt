@@ -1,0 +1,477 @@
+# 词库名称: 武汉大学词库
+# 词库分类: 湖北
+# 词库描述: 武汉大学校园建筑、老师教授、风景、区域等专用词库
+# 词条样例: 武汉大学、国立武汉大学、珞珈山、狮子山、樱园、枫园
+# 解析词数: 470
+# 解析异常: 0
+
+爱校中路	ai xiao zhong lu	237
+爱心仓储	ai xin cang chu	275
+奥场	ao chang	416
+八教	ba jiao	16
+八一路	ba yi lu	248
+半边山	ban bian shan	47
+半山庐	ban shan lu	430
+保卫部	bao wei bu	390
+保险研究所	bao xian yan jiu suo	139
+包装工程	bao zhuang gong cheng	88
+本部	ben bu	450
+毕昇路	bi sheng lu	252
+变形金刚	bian xing jin gang	436
+病毒学国家重点实验室	bing du xue guo jia zhong dian shi yan shi	180
+病毒学系	bing du xue xi	122
+播音与主持艺术	bo yin yu zhu chi yi shu	166
+采编部	cai bian bu	200
+材料工程系	cai liao gong cheng xi	110
+材料化学与物理	cai liao hua xue yu wu li	126
+材料科学与工程学院	cai liao ke xue yu gong cheng xue yuan	355
+材料物理系	cai liao wu li xi	127
+财务部	cai wu bu	45
+财政与税收系	cai zheng yu shui shou xi	148
+侧船山路	ce chuan shan lu	46
+测绘工程专业	ce hui gong cheng zhuan ye	86
+测绘学院	ce hui xue yuan	341
+测绘遥感信息工程国家重点实验室	ce hui yao gan xin xi gong cheng guo jia zhong dian shi yan shi	183
+测控技术与仪器系	ce kong ji shu yu yi qi xi	94
+茶	cha	307
+茶港	cha gang	309
+长庆油田助学金	chang qing you tian zhu xue jin	194
+陈懋中奖助学金	chen mao zhong jiang zhu xue jin	187
+陈昭方	chen zhao fang	322
+城市规划	cheng shi gui hua	108
+城市空间信息工程	cheng shi kong jian xin xi gong cheng	82
+城市设计学院	cheng shi she ji xue yuan	348
+唇舌烽火	chun she feng huo	242
+春英诗社	chun ying shi she	231
+村田助学金	cun tian zhu xue jin	191
+大地测量	da di ce liang	83
+大学生活动中心	da xue sheng huo dong zhong xin	428
+大学英语教学部	da xue ying yu jiao xue bu	153
+档案馆	dang an guan	50
+德文系	de wen xi	156
+第二临床学院	di er lin chuang xue yuan	331
+地球物理学专业	di qiu wu li xue zhuan ye	87
+地图学与地理信息系统	di tu xue yu di li xin xi xi tong	85
+第一临床学院	di yi lin chuang xue yuan	333
+电气	dian qi	351
+电气工程学院	dian qi gong cheng xue yuan	352
+电气工程与自动化	dian qi gong cheng yu zi dong hua	114
+电子工程系	dian zi gong cheng xi	96
+电子科学与技术系	dian zi ke xue yu ji shu xi	128
+电子信息学院	dian zi xin xi xue yuan	343
+电子阅览室	dian zi yue lan shi	225
+丁煌	ding huang	8
+东湖	dong hu	330
+东湖分校	dong hu fen xiao	203
+动机	dong ji	349
+动力工程系	dong li gong cheng xi	113
+动力与机械学院	dong li yu ji xie xue yuan	350
+俄文系	e wen xi	155
+二教	er jiao	439
+二区	er qu	464
+法文系	fa wen xi	157
+法学院	fa xue yuan	372
+方芳	fang fang	22
+方言学堂	fang yan xue tang	70
+飞鸟与冬天	fei niao yu dong tian	238
+冯天瑜	feng tian yu	291
+风雨操场	feng yu cao chang	414
+枫园	feng yuan	456
+枫园食堂	feng yuan shi tang	407
+港口海岸及治河工程	gang kou hai an ji zhi he gong cheng	115
+高级研究中心大学	gao ji yan jiu zhong xin da xue	7
+工程力学	gong cheng li xue	102
+公共事业管理	gong gong shi ye guan li	135
+公共卫生学院	gong gong wei sheng xue yuan	336
+工商管理系	gong shang guan li xi	146
+工学部	gong xue bu	451
+工业设计	gong ye she ji	106
+顾海良	gu hai liang	327
+管理科学与工程系	guan li ke xue yu gong cheng xi	147
+广八路	guang ba lu	247
+广播电视系	guang bo dian shi xi	171
+广播电视新闻学	guang bo dian shi xin wen xue	168
+广埠屯	guang bu tun	42
+光电信息工程系	guang dian xin xi gong cheng xi	95
+广告设计	guang gao she ji	167
+广告学系	guang gao xue xi	170
+桂希恩	gui xi en	190
+桂园	gui yuan	457
+桂园餐厅	gui yuan can ting	408
+桂园操场	gui yuan cao chang	412
+桂园食堂	gui yuan shi tang	409
+国防生	guo fang sheng	189
+国际法研究所	guo ji fa yan jiu suo	175
+国际软件学院	guo ji ruan jian xue yuan	342
+国家多媒体软件工程技术研究中心	guo jia duo mei ti ruan jian gong cheng ji shu yan jiu zhong xin	184
+国家卫星定位系统工程技术研究中心	guo jia wei xing ding wei xi tong gong cheng ji shu yan jiu zhong xin	182
+国立武昌大学	guo li wu chang da xue	67
+国立武昌高等师范学校	guo li wu chang gao deng shi fan xue xiao	68
+国立武昌师范大学	guo li wu chang shi fan da xue	66
+国立武汉大学	guo li wu han da xue	469
+韩德培	han de pei	297
+宏博学生公寓	hong bo xue sheng gong yu	38
+弘毅	hong yi	30
+弘毅大酒店	hong yi da jiu dian	11
+侯杰昌	hou jie chang	62
+湖北医科大学	hu bei yi ke da xue	73
+湖滨	hu bin	455
+湖滨路	hu bin lu	255
+湖滨食堂	hu bin shi tang	405
+湖广总督	hu guang zong du	69
+护理学	hu li xue	80
+护理学院	hu li xue yuan	335
+湖医	hu yi	459
+化学与分子科学学院学院	hua xue yu fen zi ke xue xue yuan xue yuan	362
+化学院	hua xue yuan	361
+环境法研究所	huan jing fa yan jiu suo	179
+黄从新	huang cong xin	318
+皇皇武大	huang huang wu da	25
+黄进	huang jin	317
+黄来女	huang lai nv	206
+会员权益部	hui yuan quan yi bu	220
+基础医学院	ji chu yi xue yuan	338
+纪辉	ji hui	55
+技术经济研究所	ji shu jing ji yan jiu suo	142
+计算机工程系	ji suan ji gong cheng xi	98
+计算机科学系	ji suan ji ke xue xi	101
+计算机学院	ji suan ji xue yuan	345
+计算机应用技术系	ji suan ji ying yong ji shu xi	100
+计算机与信息技术系	ji suan ji yu xin xi ji shu xi	99
+计算机中心	ji suan ji zhong xin	328
+机械工程系	ji xie gong cheng xi	112
+继续教育学院	ji xu jiao yu xue yuan	32
+记者团	ji zhe tuan	24
+家是珞珈	jia shi luo jia	239
+珈园	jia yuan	452
+鉴湖	jian hu	418
+建筑学	jian zhu xue	107
+江西省青基会助学金	jiang xi sheng qing ji hui zhu xue jin	196
+教二	jiao er	445
+教工食堂	jiao gong shi tang	406
+教三	jiao san	444
+教四	jiao si	443
+教五	jiao wu	442
+教务部	jiao wu bu	387
+教五多功能报告厅	jiao wu duo gong neng bao gao ting	435
+教一	jiao yi	446
+教育科学学院	jiao yu ke xue xue yuan	369
+街道口	jie dao kou	43
+金秋艺术节	jin qiu yi shu jie	311
+金融系与保险与精算系	jin rong xi yu bao xian yu jing suan xi	149
+经管	jing guan	373
+经济发展研究中心	jing ji fa zhan yan jiu zhong xin	176
+经济系	jing ji xi	151
+经济研究所	jing ji yan jiu suo	141
+经济与管理学院	jing ji yu guan li xue yuan	374
+九教	jiu jiao	15
+九一二体育场	jiu yi er ti yu chang	415
+考古学	kao gu xue	163
+科技路	ke ji lu	257
+空间信息工程系	kong jian xin xi gong cheng xi	93
+空间信息与数字技术	kong jian xin xi yu shu zi ji shu	91
+口腔医学	kou qiang yi xue	77
+口腔医学院	kou qiang yi xue yuan	337
+会计系	kuai ji xi	144
+鲲鹏广场	kun peng guang chang	426
+浪涛石文学社	lang tao shi wen xue she	230
+劳动与社会保障	lao dong yu she hui bao zhang	134
+老图书馆	lao tu shu guan	421
+老外院	lao wai yuan	432
+老斋舍	lao zhai she	431
+李达	li da	289
+李德仁	li de ren	304
+理工楼	li gong lou	433
+李工真	li gong zhen	215
+李汉俊	li han jun	64
+李敬一	li jing yi	265
+李龙	li long	292
+李清泉	li qing quan	319
+历史学基地班	li shi xue ji di ban	165
+历史学院	li shi xue yuan	384
+李四光	li si guang	287
+理学部	li xue bu	398
+李震	li zhen	264
+临床医学	lin chuang yi xue	81
+凌波门	ling bo men	329
+刘道玉	liu dao yu	308
+刘纲纪	liu gang ji	290
+流光溢彩	liu guang yi cai	268
+六教	liu jiao	18
+刘经南	liu jing nan	326
+刘树杞	liu shu qi	57
+流通部	liu tong bu	227
+留香行板	liu xiang xing ban	271
+刘晓春	liu xiao chun	0
+留学生院	liu xue sheng yuan	211
+刘仰峤	liu yang qiao	53
+六一惨案	liu yi can an	20
+六一纪念亭	liu yi ji nian ting	21
+龙小乐	long xiao le	325
+珞珈青年报	luo jia qing nian bao	208
+珞珈山	luo jia shan	467
+珞珈山水	luo jia shan shui	269
+珞珈山庄	luo jia shan zhuang	401
+珞珈素质教育讲坛	luo jia su zhi jiao yu jiang tan	219
+珞珈心源	luo jia xin yuan	393
+珞珈学院	luo jia xue yuan	202
+罗教讲	luo jiao jiang	262
+珞青读报亭	luo qing du bao ting	207
+珞狮北路	luo shi bei lu	246
+珞狮路	luo shi lu	254
+珞行客剧社	luo xing ke ju she	228
+珞樱	luo ying	213
+珞喻路	luo yu lu	253
+骆郁廷	luo yu ting	323
+马克昌	ma ke chang	295
+马应龙助学金	ma ying long zhu xue jin	193
+茆智	mao zhi	299
+美国加拿大经济研究所	mei guo jia na da jing ji yan jiu suo	143
+美术与艺术史系	mei shu yu yi shu shi xi	159
+媒体发展研究中心	mei ti fa zhan yan jiu zhong xin	173
+梅园	mei yuan	454
+梅园食堂	mei yuan shi tang	404
+梅园小操场	mei yuan xiao cao chang	413
+民俗学	min su xue	260
+明珠园	ming zhu yuan	402
+南国置业弘毅助学金	nan guo zhi ye hong yi zhu xue jin	198
+宁津生	ning jin sheng	301
+农业水利工程	nong ye shui li gong cheng	118
+女生部	nv sheng bu	281
+彭斐章	peng fei zhang	294
+七教	qi jiao	17
+期刊社	qi kan she	44
+期刊室	qi kan shi	226
+齐民友	qi min you	60
+情景剧	qing jing ju	310
+青年自愿者协会	qing nian zi yuan zhe xie hui	285
+青骑士剧社	qing qi shi ju she	232
+情人坡	qing ren po	427
+青协	qing xie	286
+求是	qiu shi	29
+劝业场	quan ye chang	40
+人文馆	ren wen guan	434
+人文科学部	ren wen ke xue bu	399
+人文科学试验班	ren wen ke xue shi yan ban	5
+人文路	ren wen lu	256
+任心廉	ren xin lian	56
+人资部	ren zi bu	243
+日文系	ri wen xi	154
+软件工程	ruan jian gong cheng	90
+软件工程国家重点实验室	ruan jian gong cheng guo jia zhong dian shi yan shi	185
+阮玲玉	ruan ling yu	218
+三环学生公寓	san huan xue sheng gong yu	39
+三教	san jiao	438
+三农发展协会	san nong fa zhan xie hui	222
+三区	san qu	463
+尚重生	shang chong sheng	267
+社会保障研究中心	she hui bao zhang yan jiu zhong xin	174
+社会工作	she hui gong zuo	261
+社会科学部	she hui ke xue bu	400
+社会学系	she hui xue xi	367
+社团联合会	she tuan lian he hui	392
+摄影测量与遥感系	she ying ce liang yu yao gan xi	92
+生科院	sheng ke yuan	359
+生命科学学院	sheng ming ke xue xue yuan	360
+生物标本馆	sheng wu biao ben guan	272
+生物化学系	sheng wu hua xue xi	119
+十八栋	shi ba dong	26
+市场营销研究中心	shi chang ying xiao yan jiu zhong xin	140
+市场营销与旅游管理系	shi chang ying xiao yu lv you guan li xi	145
+十大风云学子	shi da feng yun xue zi	35
+世纪广场	shi ji guang chang	249
+实践部	shi jian bu	284
+十教	shi jiao	14
+世界经济系	shi jie jing ji xi	150
+世界历史试验班	shi jie li shi shi yan ban	164
+世界上最美丽的大学	shi jie shang zui mei li de da xue	33
+十一教	shi yi jiao	13
+狮子山	shi zi shan	466
+数理经济与金融实验班	shu li jing ji yu jin rong shi yan ban	6
+暑期社会实践	shu qi she hui shi jian	244
+数学与统计学院学院	shu xue yu tong ji xue yuan xue yuan	366
+数学与应用数学	shu xue yu ying yong shu xue	132
+数院	shu yuan	365
+水利	shui li	353
+水利水电工程	shui li shui dian gong cheng	117
+水利水电学院	shui li shui dian xue yuan	354
+水文与水资源工程	shui wen yu shui zi yuan gong cheng	116
+水务工程	shui wu gong cheng	103
+水质工程系	shui zhi gong cheng xi	109
+水资源与水电工程科学国家重点实验室	shui zi yuan yu shui dian gong cheng ke xue guo jia zhong dian shi yan shi	181
+四大名嘴	si da ming zui	312
+四教	si jiao	437
+四区	si qu	462
+四维路	si wei lu	251
+思想政治教育	si xiang zheng zhi jiao yu	136
+宋卿体育馆	song qing ti yu guan	417
+素质教育讲堂	su zhi jiao yu jiang tang	216
+谭崇台	tan chong tai	296
+谭力文	tan li wen	266
+陶德麟	tao de lin	293
+腾飞杯	teng fei bei	214
+体育部	ti yu bu	280
+天地玄黄	tian di xuan huang	12
+田园	tian yuan	453
+田园小观园	tian yuan xiao guan yuan	403
+统计学	tong ji xue	130
+通信工程系	tong xin gong cheng xi	97
+土建	tu jian	346
+土木工程	tu mu gong cheng	104
+土木建筑工程学院	tu mu jian zhu gong cheng xue yuan	347
+团委	tuan wei	386
+拓新	tuo xin	28
+外国语言文学学院	wai guo yu yan wen xue xue yuan	381
+外交学	wai jiao xue	137
+外联部	wai lian bu	279
+外院	wai yuan	380
+王传中	wang chuan zhong	324
+网络传播系	wang luo chuan bo xi	169
+王世杰	wang shi jie	63
+王星拱	wang xing gong	58
+魏劲松	wei jin song	217
+未来网	wei lai wang	395
+未名湖	wei ming hu	419
+微生物学系	wei sheng wu xue xi	123
+卫星应用工程	wei xing ying yong gong cheng	84
+文法理工农医	wen fa li gong nong yi	468
+文华剧社	wen hua ju she	234
+文理学部	wen li xue bu	449
+文体路	wen ti lu	258
+文学院	wen xue yuan	385
+文艺部	wen yi bu	282
+闻一多	wen yi duo	288
+我们话剧社	wo men hua ju she	229
+武测	wu ce	461
+武昌中山大学	wu chang zhong shan da xue	65
+武汉测绘科技大学	wu han ce hui ke ji da xue	74
+武汉大学	wu han da xue	470
+武汉大学报	wu han da xue bao	394
+武汉大学出版社	wu han da xue chu ban she	276
+武汉大学青年传媒	wu han da xue qing nian chuan mei	9
+武汉大学人民医院	wu han da xue ren min yi yuan	10
+武汉水利电力大学	wu han shui li dian li da xue	75
+五教	wu jiao	19
+吴俊培	wu jun pei	321
+吴俊鑫	wu jun xin	320
+物理科学与技术学院学院	wu li ke xue yu ji shu xue yuan xue yuan	364
+物理学系	wu li xue xi	129
+武水	wu shui	460
+物院	wu yuan	363
+细胞与发育生物学系	xi bao yu fa yu sheng wu xue xi	121
+戏剧影视文学	xi ju ying shi wen xue	152
+校歌	xiao ge	204
+校史研究会	xiao shi yan jiu hui	223
+校训	xiao xun	205
+谢	xie	302
+谢红星	xie hong xing	315
+谢鉴衡	xie jian heng	303
+新长城自强助学金	xin chang cheng zi qiang zhu xue jin	195
+信管	xin guan	375
+心理学系	xin li xue xi	160
+新世纪青年书屋	xin shi ji qing nian shu wu	201
+新图书馆	xin tu shu guan	420
+新闻网络部	xin wen wang luo bu	221
+新闻学系	xin wen xue xi	172
+新闻与传播学院	xin wen yu chuan bo xue yuan	379
+信息管理学院	xin xi guan li xue yuan	376
+信息学部	xin xi xue bu	448
+信息与计算科学	xin xi yu ji suan ke xue	131
+信息资源研究中心	xin xi zi yuan yan jiu zhong xin	177
+新传	xin zhuan	378
+星湖	xing hu	358
+行政管理	xing zheng guan li	133
+行政楼	xing zheng lou	422
+行知学会	xing zhi xue hui	37
+徐懋庸	xu mao yong	51
+宣传部	xuan chuan bu	277
+学府路	xue fu lu	259
+学工部	xue gong bu	388
+学生工作部	xue sheng gong zuo bu	389
+学生会	xue sheng hui	391
+学术部	xue shu bu	283
+学习竞赛	xue xi jing sai	199
+学院	xue yuan	368
+研工部	yan gong bu	27
+研究生学报	yan jiu sheng xue bao	212
+研究生院	yan jiu sheng yuan	210
+遥感信息工程学院	yao gan xin xi gong cheng xue yuan	344
+药学院	yao xue yuan	334
+遗传学系	yi chuan xue xi	120
+一教	yi jiao	440
+一区	yi qu	465
+艺术设计	yi shu she ji	105
+艺术学系	yi shu xue xi	377
+医学部	yi xue bu	447
+医学检验	yi xue jian yan	79
+易中天	yi zhong tian	23
+印包	yin bao	339
+印刷工程	yin shua gong cheng	89
+印刷与包装系	yin shua yu bao zhuang xi	340
+音像部	yin xiang bu	224
+迎宾路	ying bin lu	48
+樱顶	ying ding	429
+樱花	ying hua	425
+樱花城堡	ying hua cheng bao	424
+樱花树下的家	ying hua shu xia de jia	240
+英文系	ying wen xi	158
+应用化学	ying yong hua xue	125
+英语街俱乐部	ying yu jie ju le bu	36
+英语自主学习中心	ying yu zi zhu xue xi zhong xin	411
+樱园	ying yuan	458
+樱园路	ying yuan lu	423
+樱园梦	ying yuan meng	241
+樱园食堂	ying yuan shi tang	410
+友谊广场	you yi guang chang	250
+预防医学	yu fang yi xue	78
+俞湛明	yu zhan ming	314
+云想霓裳	yun xiang ni chang	270
+张勃川	zhang bo chuan	52
+张敦穆	zhang dun mu	1
+张洹奖助学金	zhang huan jiang zhu xue jin	197
+樟树林	zhang shu lin	76
+张之洞	zhang zhi dong	72
+张祖勋	zhang zu xun	300
+赵林	zhao lin	313
+哲学系	zhe xue xi	162
+哲学院	zhe xue yuan	383
+哲院	zhe yuan	382
+政风社	zheng feng she	236
+政管	zheng guan	370
+政治学与行政学	zheng zhi xue yu xing zheng xue	138
+政治与公共管理学院	zheng zhi yu gong gong guan li xue yuan	371
+植物学与动物学系	zhi wu xue yu dong wu xue xi	124
+中国传统文化研究中心	zhong guo chuan tong wen hua yan jiu zhong xin	178
+中国航天科技集团公司奖学金	zhong guo hang tian ke ji ji tuan gong si jiang xue jin	186
+中国最杰出的大学	zhong guo zui jie chu de da xue	34
+中海油大学生助学基金	zhong hai you da xue sheng zhu xue ji jin	192
+中科院水生物研究所	zhong ke yuan shui sheng wu yan jiu suo	49
+中南医院	zhong nan yi yuan	332
+周长城	zhou chang cheng	274
+周创兵	zhou chuang bing	316
+周鲠生	zhou geng sheng	59
+周末艺苑	zhou mo yi yuan	209
+周运清	zhou yun qing	273
+朱炳祥	zhu bing xiang	263
+主教	zhu jiao	441
+主楼广场	zhu lou guang chang	41
+朱劭天	zhu shao tian	54
+朱英国	zhu ying guo	298
+庄果	zhuang guo	61
+庄子银	zhuang zi yin	3
+卓仁禧	zhuo ren xi	305
+自动化系	zi dong hua xi	111
+资环	zi huan	356
+自考生	zi kao sheng	188
+自强	zi qiang	31
+自强超市	zi qiang chao shi	245
+自强弘毅求是拓新	zi qiang hong yi qiu shi tuo xin	397
+自强网	zi qiang wang	396
+自强学堂	zi qiang xue tang	71
+资源与环境科学学院	zi yuan yu huan jing ke xue xue yuan	357
+踪点剧社	zong dian ju she	233
+纵横社	zong heng she	235
+宗教学系	zong jiao xue xi	161
+邹恒甫	zou heng fu	4
+邹薇	zou wei	2
+组织部	zu zhi bu	278

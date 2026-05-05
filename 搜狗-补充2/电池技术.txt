@@ -1,0 +1,930 @@
+# 词库名称: 电池技术
+# 词库分类: 理工类
+# 词库描述: 由哈尔滨子木科技有限公司提供的，关于电池技术、电池检测技术、电工技术的相关术语，欢迎大家批评指正，陆续更新中！
+# 词条样例: 电池、低电池电压检测、电池检测、电池测量、恒流充电
+# 解析词数: 923
+# 解析异常: 0
+
+安培	an pei	889
+安全散列标准	an quan san lie biao zhun	228
+安全散列算法	an quan san lie suan fa	229
+安时	an shi	812
+摆幅切换	bai fu qie huan	264
+半导体	ban dao ti	227
+半闪电式	ban shan dian shi	486
+半双工	ban shuang gong	487
+保护板	bao hu ban	752
+保鲜密封	bao xian mi feng	714
+贝尔	bei er	710
+备份升压	bei fen sheng ya	870
+倍压器	bei ya qi	572
+本地多点分配业务	ben di duo dian fen pei ye wu	393
+本地互联网络	ben di hu lian wang luo	394
+本地温度	ben di wen du	392
+本地温度传感器	ben di wen du chuan gan qi	391
+比较器	bi jiao qi	639
+比较器传输延时	bi jiao qi chuan shu yan shi	642
+避开区域	bi kai qu yu	417
+比能量	bi neng liang	844
+比亚迪	bi ya di	51
+边界抖动	bian jie dou dong	695
+变流器	bian liu qi	788
+变送器	bian song qi	63
+变压器	bian ya qi	131
+标称电压	biao cheng dian ya	824
+标准清晰度电视	biao zhun qing xi du dian shi	195
+并口	bing kou	320
+并行	bing xing	321
+不归零	bu gui ling	337
+不间断电源	bu jian duan dian yuan	336
+不间断电源设备	bu jian duan dian yuan she bei	789
+彩色副载波	cai se fu zai bo	647
+采样电阻	cai yang dian zu	61
+采样率	cai yang lv	239
+差分	cha fen	594
+差分信号	cha fen xin hao	591
+差分远端输出检测	cha fen yuan duan shu chu jian ce	592
+产品部件鉴定流程	chan pin bu jian jian ding liu cheng	284
+长程	chang cheng	386
+场效应晶体管	chang xiao ying jing ti guan	531
+超大规模集成电路	chao da gui mo ji cheng dian lu	109
+超高频滤波器	chao gao pin lv bo qi	121
+超宽带	chao kuan dai	120
+超外差接收机	chao wai cha jie shou ji	184
+陈宏图	chen hong tu	3
+陈严君	chen yan jun	34
+成帧	cheng zhen	518
+成帧器	cheng zhen qi	519
+充电	chong dian	910
+充电率	chong dian lv	851
+充电深度	chong dian shen du	852
+充电终止法	chong dian zhong zhi fa	666
+充放	chong fang	68
+充放电	chong fang dian	69
+充放电率	chong fang dian lv	793
+抽头	chou tou	160
+触及	chu ji	773
+储能装置	chu neng zhuang zhi	787
+储氢合金	chu qing he jin	771
+串扰	chuan rao	626
+传输控制协议互联网协议	chuan shu kong zhi xie yi hu lian wang xie yi	125
+串行外设接口	chuan xing wai she jie kou	225
+串音	chuan yin	628
+窗比较器	chuang bi jiao qi	83
+窗看门狗	chuang kan men gou	82
+窗式看门狗	chuang shi kan men gou	81
+垂直驻波比	chui zhi zhu bo bi	111
+磁盘簇	ci pan cu	418
+磁盘冗余阵列	ci pan rong yu zhen lie	255
+存储局域网	cun chu ju yu wang	188
+存储器	cun chu qi	603
+大规模集成电路	da gui mo ji cheng dian lu	414
+单调	dan diao	349
+单端原边电感转换器	dan duan yuan bian dian gan zhuan huan qi	212
+单晶硅	dan jing gui	729
+单片机板	dan pian ji ban	796
+单线	dan xian	330
+单总线串行接口	dan zong xian chuan xing jie kou	211
+导电剂	dao dian ji	766
+道里区	dao li qu	802
+刀片服务器	dao pian fu wu qi	702
+等效串联电感	deng xiao chuan lian dian gan	551
+等效串联电阻	deng xiao chuan lian dian zu	550
+低电池电压检测	di dian chi dian ya jian ce	921
+低电压	di dian ya	381
+低电压差分信号	di dian ya cha fen xin hao	379
+低电压晶体管晶体管逻辑	di dian ya jing ti guan jing ti guan luo ji	376
+低电压射极耦合逻辑	di dian ya she ji ou he luo ji	378
+低电压正射极耦合逻辑	di dian ya zheng she ji ou he luo ji	377
+低端	di duan	375
+低频增益提升	di pin zeng yi ti sheng	382
+低压差	di ya cha	384
+低压差输出	di ya cha shu chu	385
+低压差稳压器	di ya cha wen ya qi	411
+低压差线性稳压器	di ya cha xian xing wen ya qi	383
+低音增强	di yin zeng qiang	718
+低噪声放大器	di zao sheng fang da qi	380
+地址总线	di zhi zong xian	59
+电池	dian chi	923
+电池保鲜帽	dian chi bao xian mao	715
+电池备份	dian chi bei fen	717
+电池测量	dian chi ce liang	919
+电池充电器	dian chi chong dian qi	867
+电池电量计	dian chi dian liang ji	713
+电池分容设备	dian chi fen rong she bei	746
+电池分选设备	dian chi fen xuan she bei	743
+电池化成	dian chi hua cheng	750
+电池化成设备	dian chi hua cheng she bei	748
+电池极端	dian chi ji duan	839
+电池检测	dian chi jian ce	920
+电池检测设备	dian chi jian ce she bei	747
+电池监视	dian chi jian shi	712
+电池桥	dian chi qiao	716
+电池切换	dian chi qie huan	711
+电池外观标准	dian chi wai guan biao zhun	866
+电磁干扰	dian ci gan rao	558
+电磁骚扰	dian ci sao rao	782
+电动势	dian dong shi	840
+电感反冲	dian gan fan chong	458
+电荷泵	dian he beng	667
+电荷耦合器件	dian he ou he qi jian	669
+电荷注入	dian he zhu ru	668
+电化学极化	dian hua xue ji hua	760
+电解液	dian jie ye	770
+电缆	dian lan	678
+电缆数据传输业务接口规范	dian lan shu ju chuan shu ye wu jie kou gui fan	608
+电力线	dian li xian	293
+电力线通信	dian li xian tong xin	292
+电量计	dian liang ji	510
+电流	dian liu	623
+电流传感器	dian liu chuan gan qi	618
+电流隔离	dian liu ge li	503
+电流环箱	dian liu huan xiang	777
+电流检测	dian liu jian ce	619
+电流检测放大器	dian liu jian ce fang da qi	616
+电流控制电压源	dian liu kong zhi dian ya yuan	622
+电流模式	dian liu mo shi	620
+电流模式反馈	dian liu mo shi fan kui	621
+电流模式控制器	dian liu mo shi kong zhi qi	617
+电路板	dian lu ban	661
+电平	dian ping	916
+电平变换器	dian ping bian huan qi	407
+电容	dian rong	922
+电容电荷泵	dian rong dian he beng	674
+电容电压调节器	dian rong dian ya tiao jie qi	675
+电容量	dian rong liang	813
+电容性串扰	dian rong xing chuan rao	676
+电位器	dian wei qi	301
+电压	dian ya	107
+电压输出温度检测	dian ya shu chu wen du jian ce	101
+电压温度传感器	dian ya wen du chuan gan qi	97
+电压稳压器	dian ya wen ya qi	100
+电压裕量	dian ya yu liang	102
+电压驻波比	dian ya zhu bo bi	98
+电源管理集成电路	dian yuan guan li ji cheng dian lu	295
+电源失效	dian yuan shi xiao	298
+电源失效比较器	dian yuan shi xiao bi jiao qi	297
+电源失效检测器	dian yuan shi xiao jian ce qi	296
+电子行业协会	dian zi hang ye xie hui	556
+电子数字可变电阻	dian zi shu zi ke bian dian zu	557
+电阻	dian zu	247
+电阻极化	dian zu ji hua	759
+电阻温度检测器	dian zu wen du jian ce qi	246
+定理	ding li	341
+定时误差	ding shi wu cha	136
+动态	dong tai	564
+动态范围	dong tai fan wei	563
+抖动	dou dong	575
+端接	duan jie	231
+短路	duan lu	841
+短路电流	duan lu dian liu	842
+对数	dui shu	574
+对数抽头	dui shu chou tou	389
+对数电位计	dui shu dian wei ji	388
+对数可变电阻	dui shu ke bian dian zu	387
+对数数字电位器	dui shu shu zi dian wei qi	587
+对数调节电位器	dui shu tiao jie dian wei qi	390
+多径	duo jing	347
+多径干扰	duo jing gan rao	346
+多路复用	duo lu fu yong	344
+多路复用器	duo lu fu yong qi	342
+多入多出	duo ru duo chu	345
+多芯片组	duo xin pian zu	348
+额定电压	e ding dian ya	823
+额定容量	e ding rong liang	843
+二次电池	er ci dian chi	828
+二次谐波失真	er ci xie bo shi zhen	230
+二极管	er ji guan	580
+二进制相移键控	er jin zhi xiang yi jian kong	707
+二氧化锰	er yang hua meng	368
+发光二极管	fa guang er ji guan	406
+发送器	fa song qi	124
+反相	fan xiang	426
+反向电压峰值	fan xiang dian ya feng zhi	316
+反相电压峰值	fan xiang dian ya feng zhi	315
+反向恢复时间	fan xiang hui fu shi jian	242
+反向击穿电压	fan xiang ji chuan dian ya	243
+反相开关调节器	fan xiang kai guan tiao jie qi	422
+反相控制器	fan xiang kong zhi qi	424
+反向馈电	fan xiang kui dian	784
+反相器	fan xiang qi	425
+反相转换器	fan xiang zhuan huan qi	423
+防潮包装	fang chao bao zhuang	569
+放大器	fang da qi	883
+放大器类型	fang da qi lei xing	660
+放电	fang dian	909
+放电率	fang dian lv	849
+放电容量	fang dian rong liang	837
+放电深度	fang dian shen du	853
+方小斌	fang xiao bin	33
+非对称数字用户线路	fei dui chen shu zi yong hu xian lu	880
+非易失	fei yi shi	335
+非易失存储器	fei yi shi cun chu qi	333
+非易失供电	fei yi shi gong dian	334
+分贝	fen bei	600
+分插复用器	fen cha fu yong qi	911
+分类	fen lei	744
+分区锁定	fen qu suo ding	318
+分容	fen rong	745
+风扇控制	feng shan kong zhi	542
+风扇控制器	feng shan kong zhi qi	540
+风扇控制器线性	feng shan kong zhi qi xian xing	541
+蜂窝站点	feng wo zhan dian	672
+浮充电	fu chong dian	854
+符号间串扰	fu hao jian chuan rao	437
+负荷电压	fu he dian ya	825
+负极	fu ji	897
+负极夹具	fu ji jia ju	42
+伏特	fu te	108
+复位	fu wei	116
+复用	fu yong	343
+复用器	fu yong qi	914
+负载点	fu zai dian	306
+负载调节	fu zai tiao jie	395
+伽玛	ga ma	502
+伽玛补偿	ga ma bu chang	501
+伽玛修正	ga ma xiu zheng	500
+改进的增强数据速率	gai jin de zeng qiang shu ju su lv	552
+干电池	gan dian chi	827
+干扰脉冲	gan rao mai chong	492
+干扰抑制	gan rao yi zhi	491
+高比特率数字用户线路	gao bi te lv shu zi yong hu xian lu	479
+高边	gao bian	476
+高亮度	gao liang du	478
+高鹏	gao peng	32
+高清晰度电视	gao qing xi du dian shi	477
+高斯频移键控	gao si pin yi jian kong	499
+高斯最小频移键控	gao si zui xiao pin yi jian kong	498
+高速串行接口	gao su chuan xing jie kou	473
+高速分组接入	gao su fen zu jie ru	474
+高速上行分组接入	gao su shang xing fen zu jie ru	472
+高速下行分组接入	gao su xia xing fen zu jie ru	475
+高压测试	gao ya ce shi	878
+高压炉测试	gao ya lu ce shi	289
+高阻	gao zu	480
+隔离电压采样板	ge li dian ya cai yang ban	797
+隔膜	ge mo	767
+个人数字蜂窝系统	ge ren shu zi feng wo xi tong	312
+个人通信系统	ge ren tong xin xi tong	313
+个人移动通信装置	ge ren yi dong tong xin zhuang zhi	286
+搁置	ge zhi	780
+搁置动作	ge zhi dong zuo	70
+公共密钥基础结构	gong gong mi yao ji chu jie gou	281
+功率放大器	gong lv fang da qi	299
+功率附加效率	gong lv fu jia xiao lv	300
+共面线	gong mian xian	631
+共模	gong mo	644
+共模信号	gong mo xin hao	643
+共模抑制比	gong mo yi zhi bi	645
+工业科学与医学	gong ye ke xue yu yi xue	455
+工艺失效模式及有效分析	gong yi shi xiao mo shi ji you xiao fen xi	285
+沟道	gou dao	339
+钴粉	gu fen	737
+钴酸锂	gu suan li	740
+固态器件	gu tai qi jian	201
+古燕磊	gu yan lei	31
+故障屏蔽	gu zhang ping bi	538
+关闭	guan bi	219
+关断	guan duan	220
+关星	guan xing	23
+光网络单元	guang wang luo dan yuan	324
+光网络终端	guang wang luo zhong duan	325
+光纤到节点	guang xian dao jie dian	534
+光纤分布式数据接口	guang xian fen bu shi shu ju jie kou	535
+光纤通道	guang xian tong dao	536
+光纤信道	guang xian xin dao	533
+光宇	guang yu	53
+广域网	guang yu wang	84
+硅定时电路	gui ding shi dian lu	213
+归零	gui ling	244
+硅锗	gui zhe	214
+过充电保护	guo chong dian bao hu	795
+国际标准组织	guo ji biao zhun zu zhi	431
+国际电池测试技术研讨会	guo ji dian chi ce shi ji shu yan tao hui	58
+国际电工委员会	guo ji dian gong wei yuan hui	432
+国际电信联盟	guo ji dian xin lian meng	430
+过孔	guo kong	139
+哈尔滨光宇	ha er bin guang yu	52
+哈理工	ha li gong	806
+航空插头	hang kong cha tou	775
+豪安	hao an	884
+毫安	hao an	353
+毫安秒	hao an miao	886
+毫安培	hao an pei	352
+毫安时	hao an shi	887
+毫欧	hao ou	885
+豪鹏	hao peng	56
+赫兹	he zi	481
+恒电阻放电	heng dian zu fang dian	902
+恒功率放电	heng gong lv fang dian	903
+恒流充电	heng liu chong dian	908
+恒流放电	heng liu fang dian	907
+恒流恒压	heng liu heng ya	636
+恒压充电	heng ya chong dian	905
+恒压放电	heng ya fang dian	904
+恒阻放电	heng zu fang dian	901
+红外	hong wai	454
+红外数据协会	hong wai shu ju xie hui	453
+厚膜电阻	hou mo dian zu	62
+互补	hu bu	638
+互联网服务商	hu lian wang fu wu shang	428
+互联网协议	hu lian wang xie yi	429
+互调	hu tiao	434
+互调失真	hu tiao shi zhen	438
+互阻放大器	hu zu fang da qi	129
+化成	hua cheng	835
+化成设备	hua cheng she bei	749
+化学电源	hua xue dian yuan	831
+环境监测	huan jing jian ce	893
+环境温度	huan jing wen du	892
+环境温度检测	huan jing wen du jian ce	891
+恢复时间	hui fu shi jian	256
+混叠	hun die	894
+活性物质	huo xing wu zhi	850
+极板	ji ban	896
+吉比特接口转换器	ji bi te jie kou zhuan huan qi	493
+集成电路	ji cheng dian lu	446
+集成散热器	ji cheng san re qi	445
+集成温度传感器	ji cheng wen du chuan gan qi	443
+集成音频接口芯片	ji cheng yin pin jie kou xin pian	444
+基带	ji dai	720
+集电极开路	ji dian ji kai lu	328
+继电器	ji dian qi	253
+积分非线性	ji fen fei xian xing	447
+激光二极管驱动器	ji guang er ji guan qu dong qi	413
+激光驱动器	ji guang qu dong qi	412
+极化	ji hua	836
+极片	ji pian	895
+机器对机器	ji qi dui ji qi	373
+机器对移动	ji qi dui yi dong	372
+寄生电源	ji sheng dian yuan	319
+基线	ji xian	719
+冀学文	ji xue wen	1
+记忆效应	ji yi xiao ying	856
+基于电感	ji yu dian gan	457
+基于电感的开关控制器	ji yu dian gan de kai guan kong zhi qi	456
+基站	ji zhan	722
+基站收发器	ji zhan shou fa qi	721
+贾金林	jia jin lin	30
+加权	jia quan	917
+加热通风及空气调节	jia re tong feng ji kong qi tiao jie	483
+加速度计	jia su du ji	912
+贾永泉	jia yong quan	4
+加载感应	jia zai gan ying	523
+简单数据链路	jian dan shu ju lian lu	544
+监控	jian kong	182
+监控器	jian kong qi	183
+检流电阻	jian liu dian zu	226
+碱锰	jian meng	728
+键盘视频鼠标波段	jian pan shi pin shu biao bo duan	415
+碱性电池	jian xing dian chi	814
+间总线	jian zong xian	440
+江海	jiang hai	29
+蒋海峰	jiang hai feng	28
+江门朗达	jiang men lang da	48
+降压	jiang ya	687
+降压开关调节器	jiang ya kai guan tiao jie qi	189
+降压控制器	jiang ya kong zhi qi	686
+降压升压	jiang ya sheng ya	683
+降压调节器	jiang ya tiao jie qi	190
+交错	jiao cuo	436
+交越	jiao yue	627
+接触抖	jie chu dou	635
+接触放电	jie chu fang dian	634
+接点基站	jie dian ji zhan	913
+接口	jie kou	232
+接收器	jie shou qi	258
+接收信号强度指示	jie shou xin hao qiang du zhi shi	260
+接收信号强度指示器	jie shou xin hao qiang du zhi shi qi	259
+结温传感器	jie wen chuan gan qi	419
+结温度传感器	jie wen du chuan gan qi	307
+结温检测	jie wen jian ce	420
+结型二极管传感器	jie xing er ji guan chuan gan qi	421
+金贵才	jin gui cai	27
+进入防护防护	jin ru fang hu fang hu	452
+金属半导体场效应管	jin shu ban dao ti chang xiao ying guan	358
+金属氢化物	jin shu qing hua wu	769
+金属氧化物变阻器	jin shu yang hua wu bian zu qi	359
+静电放电	jing dian fang dian	555
+晶片	jing pian	95
+静态	jing tai	267
+晶体管	jing ti guan	128
+晶体管传感器	jing ti guan chuan gan qi	127
+晶体管温度传感器	jing ti guan wen du chuan gan qi	126
+镜像频率	jing xiang pin lv	463
+镜像抑制	jing xiang yi zhi	462
+晶圆	jing yuan	94
+晶圆加工	jing yuan jia gong	93
+晶圆制造	jing yuan zhi zao	92
+静噪	jing zao	196
+静置设备	jing zhi she bei	781
+聚合物电池	ju he wu dian chi	742
+聚合物氟化碳	ju he wu fu hua tan	305
+菊花链	ju hua lian	613
+鞠睿	ju rui	15
+涓流	juan liu	900
+涓流充电	juan liu chong dian	899
+绝缘保护	jue yuan bao hu	726
+喀嗒	ka da	659
+开发板	kai fa ban	595
+开关	kai guan	177
+开关电容	kai guan dian rong	172
+开关电容电路	kai guan dian rong dian lu	171
+开关电容转换器	kai guan dian rong zhuan huan qi	170
+开关电源	kai guan dian yuan	167
+开关放大器	kai guan fang da qi	168
+开关模式	kai guan mo shi	175
+开关模式电源	kai guan mo shi dian yuan	173
+开关模式控制器升压控制器	kai guan mo shi kong zhi qi sheng ya kong zhi qi	174
+开关去抖器	kai guan qu dou qi	176
+开关调节	kai guan tiao jie	684
+开关调节器	kai guan tiao jie qi	685
+开关转换器	kai guan zhuan huan qi	169
+开路电压	kai lu dian ya	826
+看门狗	kan men gou	91
+看门狗超时	kan men gou chao shi	88
+看门狗电路	kan men gou dian lu	90
+看门狗定时器	kan men gou ding shi qi	87
+看门狗输出	kan men gou shu chu	89
+康安路	kang an lu	803
+抗混叠	kang hun die	881
+可编程控制器	ke bian cheng kong zhi qi	283
+可编程增益放大器	ke bian cheng zeng yi fang da qi	282
+可测性设计	ke ce xing she ji	597
+可插拔小外型封装	ke cha ba xiao wai xing feng zhuang	209
+壳底	ke di	792
+可逆电极	ke ni dian ji	764
+可逆性	ke ni xing	763
+克腔	ke qiang	791
+可现场编程门阵列	ke xian chang bian cheng men zhen lie	532
+控制器	kong zhi qi	633
+控制器局域网	kong zhi qi ju yu wang	632
+库伦计	ku lun ji	629
+库伦计数器	ku lun ji shu qi	630
+跨导	kua dao	340
+跨导放大器	kua dao fang da qi	326
+快速傅立叶变换	kuai su fu li ye bian huan	539
+扩频	kuo pin	199
+扩展超帧	kuo zhan chao zhen	545
+朗达	lang da	49
+浪涌	lang yong	448
+浪涌电流	lang yong dian liu	459
+浪涌抑制器	lang yong yi zhi qi	179
+冷阴极荧光灯	leng yin ji ying guang deng	649
+冷阴极荧光管	leng yin ji ying guang guan	648
+锂电池	li dian chi	397
+李革臣	li ge chen	810
+理工大学	li gong da xue	804
+李嘉	li jia	17
+李金录	li jin lu	808
+力可兴	li ke xing	55
+锂离子	li li zi	396
+锂离子电池	li li zi dian chi	864
+锂离子蓄电池	li li zi xu dian chi	865
+锂锰	li meng	367
+李然	li ran	807
+理想系数	li xiang xi shu	465
+理想因数	li xiang yin shu	466
+连接器	lian jie qi	464
+链路	lian lu	468
+亮度	liang du	688
+量化	liang hua	269
+两线	liang xian	40
+两线制	liang xian zhi	725
+两相多孔电极	liang xiang duo kong dian ji	757
+两相调制	liang xiang tiao zhi	709
+列地址选通	lie di zhi xuan tong	646
+磷酸铁锂	lin suan tie li	863
+磷酸铁锂电池	lin suan tie li dian chi	862
+零插力	ling cha li	74
+刘迪	liu di	8
+流明	liu ming	374
+刘洋	liu yang	16
+刘英男	liu ying nan	26
+漏感	lou gan	408
+漏极开路	lou ji kai lu	327
+漏液	lou ye	857
+陆会	lu hui	10
+裸露焊盘	luo lu han pan	546
+滤波器	lv bo qi	238
+铝带	lv dai	731
+铝钴纸	lv gu zhi	739
+氯化锌	lv hua xin	816
+氯化锌电池	lv hua xin dian chi	815
+铝壳电池	lv ke dian chi	741
+铝镍带	lv nie dai	733
+码分复用	ma fen fu yong	651
+码间干扰	ma jian gan rao	427
+码率	ma lv	663
+脉冲	mai chong	460
+脉冲幅度调制	mai chong fu du tiao zhi	279
+脉码调制	mai ma tiao zhi	280
+脉频调制	mai pin tiao zhi	278
+满摆幅输入	man bai fu shu ru	263
+满摆幅输入输出	man bai fu shu ru shu chu	262
+曼彻斯特编码	man che si te bian ma	369
+曼彻斯特数据编码	man che si te shu ju bian ma	370
+美国国家标准协会	mei guo guo jia biao zhun xie hui	890
+美国录音工业协会	mei guo lu yin gong ye xie hui	257
+每秒采样率	mei miao cai yang lv	240
+每秒兆位	mei miao zhao wei	361
+媒体存取控制地址	mei ti cun qu kong zhi di zhi	363
+密集波分复用	mi ji bo fen fu yong	598
+密码分析	mi ma fen xi	624
+摩尔实验室	mo er shi yan shi	736
+墨菲定理	mo fei ding li	530
+摩莎卡	mo sha ka	776
+母带	mu dai	819
+纳米氢氧化镍	na mi qing yang hua nie	753
+奈奎斯特	nai kui si te	331
+南岗区	nan gang qu	801
+内部温度	nei bu wen du	433
+内阻	nei zu	845
+内阻测试仪	nei zu ce shi yi	751
+能量回馈	neng liang hui kui	820
+能量回收	neng liang hui shou	821
+能量密度	neng liang mi du	794
+逆变器	ni bian qi	786
+黏合剂	nian he ji	765
+镍废料	nie fei liao	738
+镍镉电池	nie ge dian chi	860
+镍金属氢化物	nie jin shu qing hua wu	338
+镍铝复合带	nie lv fu he dai	734
+镍铝片	nie lv pian	732
+镍氢充电电池	nie qing chong dian dian chi	861
+镍锌电池	nie xin dian chi	859
+浓差极化	nong cha ji hua	762
+诺顿放大器	nuo dun fang da qi	332
+欧姆	ou mu	888
+爬液	pa ye	858
+排除区域	pai chu qu yu	416
+彭建交	peng jian jiao	2
+彭圣贤	peng sheng xian	25
+频带	pin dai	868
+频分复用	pin fen fu yong	516
+频率盒	pin lv he	517
+频率合成器	pin lv he cheng qi	511
+频率混叠	pin lv hun die	524
+频率调制	pin lv tiao zhi	513
+频移键控	pin yi jian kong	512
+评估板	ping gu ban	548
+评估系统	ping gu xi tong	547
+平衡	ping heng	869
+气体扩散电极	qi ti kuo san dian ji	756
+气隙放电	qi xi fang dian	906
+嵌入式系统	qian ru shi xi tong	554
+前向纠错	qian xiang jiu cuo	521
+千兆位	qian zhao wei	494
+羟基氧化镍	qiang ji yang hua nie	772
+强取比特信令	qiang qu bi te xin ling	241
+桥电池	qiao dian chi	693
+桥接电池	qiao jie dian chi	690
+桥接负载	qiao jie fu zai	692
+桥式电池	qiao shi dian chi	691
+桥式连接负载	qiao shi lian jie fu zai	689
+秦雷	qin lei	11
+氢化物	qing hua wu	768
+清零	qing ling	72
+请求发送	qing qiu fa song	248
+去抖	qu dou	601
+去抖动	qu dou dong	602
+全球定位系统	quan qiu ding wei xi tong	489
+全球卫星定位系统	quan qiu wei xing ding wei xi tong	490
+全球移动通信系统	quan qiu yi dong tong xin xi tong	488
+全双工	quan shuang gong	509
+确定性抖动	que ding xing dou dong	596
+热插拔	re cha ba	470
+热电冷却器	re dian leng que qi	143
+热电偶	re dian ou	144
+热关断	re guan duan	151
+热管理	re guan li	148
+热敏电阻	re min dian zu	146
+热载流子二极管	re zai liu zi er ji guan	471
+人体模型	ren ti mo xing	469
+日间行驶	ri jian xing shi	607
+日间行驶灯	ri jian xing shi deng	606
+日间行驶照明	ri jian xing shi zhao ming	605
+容错	rong cuo	537
+冗余系统	rong yu xi tong	785
+软启动	ruan qi dong	202
+塞恩斯	sai en si	44
+塞恩斯电源	sai en si dian yuan	45
+三倍压	san bei ya	96
+三阶截点	san jie jie dian	140
+三阶输入截点	san jie shu ru jie dian	141
+三普	san pu	47
+散热	san re	484
+散热器	san re qi	482
+散射参数	san she can shu	234
+三态	san tai	123
+扫描链	sao miao lian	236
+扫描设计	sao miao she ji	235
+色度	se du	662
+闪存	shan cun	528
+闪电式	shan dian shi	527
+闪烁控制	shan shuo kong zhi	701
+上变频	shang bian pin	113
+上变频器	shang bian pin qi	114
+上变频转换器	shang bian pin zhuan huan qi	115
+射频干扰	she pin gan rao	265
+射频识别	she pin shi bie	266
+甚高速数字用户线路	shen gao su shu zi yong hu xian lu	110
+砷化镓	shen hua jia	506
+砷化镓金属半导体场效应管	shen hua jia jin shu ban dao ti chang xiao ying guan	505
+砷化镓磷化物	shen hua jia lin hua wu	504
+沈阳三普	shen yang san pu	46
+深圳比亚迪	shen zhen bi ya di	50
+深圳豪鹏	shen zhen hao peng	57
+深圳力可兴	shen zhen li ke xing	54
+深圳子木	shen zhen zi mu	811
+声表面波	sheng biao mian bo	181
+声表面波带通滤波器	sheng biao mian bo dai tong lv bo qi	180
+升压	sheng ya	700
+升压器	sheng ya qi	697
+升压型	sheng ya xing	698
+升压转换器	sheng ya zhuan huan qi	699
+时分多址	shi fen duo zhi	138
+时分复用	shi fen fu yong	137
+石林烁	shi lin shuo	14
+石庆鹏	shi qing peng	13
+实时时钟	shi shi shi zhong	261
+失效保护	shi xiao bao hu	543
+时钟抖动	shi zhong dou dong	655
+时钟分配器件	shi zhong fen pei qi jian	657
+时钟分配驱动器	shi zhong fen pei qu dong qi	656
+时钟恢复	shi zhong hui fu	654
+时钟恢复数据	shi zhong hui fu shu ju	653
+时钟及数据恢复	shi zhong ji shu ju hui fu	658
+时钟降频	shi zhong jiang pin	652
+收发器	shou fa qi	132
+数据采集系统	shu ju cai ji xi tong	612
+数据处理语言	shu ju chu li yu yan	609
+数据管理语言	shu ju guan li yu yan	610
+数据转换器	shu ju zhuan huan qi	611
+数据总线	shu ju zong xian	60
+输入	shu ru	450
+输入电压范围	shu ru dian ya fan wei	449
+输入衰减	shu ru shuai jian	451
+输入与输出比	shu ru yu shu chu bi	322
+输入阻抗	shu ru zu kang	723
+数字电位器	shu zi dian wei qi	585
+数字电阻	shu zi dian zu	584
+数字放大器	shu zi fang da qi	590
+数字风扇控制	shu zi feng shan kong zhi	588
+数字蜂窝系统	shu zi feng wo xi tong	589
+数字模拟转换器	shu zi mo ni zhuan huan qi	581
+数字视频广播	shu zi shi pin guang bo	582
+数字万用表	shu zi wan yong biao	586
+数字用户线路	shu zi yong hu xian lu	583
+刷新	shua xin	71
+双倍速同步	shuang bei su tong bu	573
+双极型晶体管	shuang ji xing jing ti guan	705
+双极性输入	shuang ji xing shu ru	706
+双绞线对儿	shuang jiao xian dui er	122
+双模前置分频器	shuang mo qian zhi fen pin qi	565
+双频	shuang pin	566
+双向	shuang xiang	708
+双相控制器	shuang xiang kong zhi qi	568
+双音多频	shuang yin duo pin	567
+瞬变电压抑制器	shun bian dian ya yi zhi qi	130
+四线	si xian	41
+四线制	si xian zhi	724
+四象限相移键控	si xiang xian xiang yi jian kong	270
+四相相移键控	si xiang xiang yi jian kong	271
+塑料引脚芯片载体	su liao yin jiao xin pian zai ti	308
+剔除电压	ti chu dian ya	832
+调幅	tiao fu	882
+调节器	tiao jie qi	254
+跳频	tiao pin	515
+跳频扩频	tiao pin kuo pin	514
+调制器	tiao zhi qi	559
+跳转	tiao zhuan	67
+同步光网络	tong bu guang wang luo	165
+同步数字体系	tong bu shu zi ti xi	166
+同步整流	tong bu zheng liu	164
+同步整流器	tong bu zheng liu qi	163
+统计过程控制	tong ji guo cheng kong zhi	192
+统计质量控制	tong ji zhi liang kong zhi	191
+铜螺柱	tong luo zhu	774
+通信协议	tong xin xie yi	727
+通讯	tong xun	778
+通用	tong yong	496
+通用串行总线	tong yong chuan xing zong xian	117
+通用接口总线	tong yong jie kou zong xian	495
+通用无线分组业务	tong yong wu xian fen zu ye wu	497
+通用移动电信系统	tong yong yi dong dian xin xi tong	118
+突发模式	tu fa mo shi	681
+突发模式应用	tu fa mo shi ying yong	680
+突发式亮度调节	tu fa shi liang du tiao jie	682
+图腾柱	tu teng zhu	133
+推挽	tui wan	277
+吞脉冲计数器	tun mai chong ji shu qi	178
+瓦特	wa te	86
+外设互连	wai she hu lian	314
+完整的中心局线接	wan zheng de zhong xin ju xian jie	637
+王龙	wang long	12
+王晓秋	wang xiao qiu	7
+王忠臣	wang zhong chen	24
+微安	wei an	357
+微安培	wei an pei	356
+韦伯	wei bo	85
+位拆裂	wei chai lie	704
+微处理器监控器	wei chu li qi jian kong qi	354
+微分非线性	wei fen fei xian xing	593
+微机电系统	wei ji dian xi tong	355
+卫星直接广播	wei xing zhi jie guang bo	579
+温补晶振	wen bu jing zhen	155
+温度	wen du	157
+温度比较器	wen du bi jiao qi	156
+温度测量	wen du ce liang	145
+温度传感器	wen du chuan gan qi	276
+温度管理	wen du guan li	153
+温度检测	wen du jian ce	158
+温度检测电阻	wen du jian ce dian zu	152
+温度监视器	wen du jian shi qi	147
+温度开关	wen du kai guan	150
+温度控制	wen du kong zhi	154
+温度调节器	wen du tiao jie qi	142
+温度系数	wen du xi shu	159
+温控电路	wen kong dian lu	149
+稳压模块	wen ya mo kuai	99
+误差向量	wu cha xiang liang	549
+误码率	wu ma lv	703
+无线	wu xian	80
+无线本地环路	wu xian ben di huan lu	79
+无线传感器网络	wu xian chuan gan qi wang luo	78
+无线电话应用	wu xian dian hua ying yong	77
+无引线芯片载体	wu yin xian xin pian zai ti	409
+无源光网络	wu yuan guang wang luo	317
+无杂散	wu za san	198
+无杂散动态范围	wu za san dong tai fan wei	197
+无载波	wu zai bo	673
+析氢电极	xi qing dian ji	755
+系统定时与控制	xi tong ding shi yu kong zhi	161
+系统管理总线	xi tong guan li zong xian	162
+析氧电极	xi yang dian ji	754
+下变频器	xia bian pin qi	570
+下变频转换器	xia bian pin zhuan huan qi	571
+先断后合	xian duan hou he	694
+先合后断	xian he hou duan	371
+先进先出	xian jin xian chu	529
+线性	xian xing	404
+线性抽头	xian xing chou tou	398
+线性反馈移位寄存器	xian xing fan kui yi wei ji cun qi	401
+线性放大器	xian xing fang da qi	403
+线性风扇控制	xian xing feng shan kong zhi	402
+线性负载	xian xing fu zai	783
+线性模式	xian xing mo shi	400
+线性调节	xian xing tiao jie	405
+线性稳压器	xian xing wen ya qi	399
+相干取样	xiang gan qu yang	650
+香农采样频率	xiang nong cai yang pin lv	224
+相位抖动	xiang wei dou dong	310
+相移键控	xiang yi jian kong	309
+响应时间	xiang ying shi jian	245
+小办公室家庭办公	xiao ban gong shi jia ting ban gong	208
+消弧电路	xiao hu dian lu	625
+肖特基二极管	xiao te ji er ji guan	233
+小型光纤连接头	xiao xing guang xian lian jie tou	210
+写保护	xie bao hu	76
+谐波失真	xie bo shi zhen	918
+信道相关信令	xin dao xiang guan xin ling	670
+信道至信道偏移	xin dao zhi xin dao pian yi	671
+信号失效	xin hao shi xiao	217
+信号调理器	xin hao tiao li qi	218
+信号与噪声失真比	xin hao yu zao sheng shi zhen bi	216
+锌锰干电池	xin meng gan dian chi	730
+芯片	xin pian	665
+芯片使能选通	xin pian shi neng xuan tong	664
+信噪比	xin zao bi	215
+星形地	xing xing di	194
+星形点	xing xing dian	193
+序列	xu lie	119
+徐睿	xu rui	35
+许玉林	xu yu lin	22
+选通	xuan tong	187
+雪崩二极管	xue beng er ji guan	871
+雪崩光电二极管	xue beng guang dian er ji guan	872
+循环冗余校验	xun huan rong yu jiao yan	614
+循环寿命	xun huan shou ming	855
+压控电流源	ya kong dian liu yuan	105
+压控晶体振荡器	ya kong jing ti zhen dang qi	106
+压控温补晶体振荡器	ya kong wen bu jing ti zhen dang qi	103
+压控振荡器	ya kong zhen dang qi	104
+压力炉测试	ya li lu ce shi	288
+压缩扩展	ya suo kuo zhan	640
+压缩扩展器	ya suo kuo zhan qi	641
+闫汉泽	yan han ze	809
+延时线	yan shi xian	599
+阳极	yang ji	847
+阳极极化	yang ji ji hua	758
+一次电池	yi ci dian chi	830
+移动电压定位	yi dong dian ya ding wei	442
+移交	yi jiao	485
+仪器仪表厂	yi qi yi biao chang	799
+以太网供电	yi tai wang gong dian	294
+以太网通讯	yi tai wang tong xun	66
+钇铁石榴石	yi tie shi liu shi	75
+移位寄存器	yi wei ji cun qi	223
+抑制	yi zhi	304
+抑制器	yi zhi qi	203
+阴极	yin ji	848
+阴极极化	yin ji ji hua	761
+引脚芯片承载	yin jiao xin pian cheng zai	410
+音量调节器	yin liang tiao jie qi	879
+音频接口	yin pin jie kou	439
+印制电路板	yin zhi dian lu ban	287
+尹志权	yin zhi quan	21
+应急电源	ying ji dian yuan	790
+英英	ying ying	37
+用户线路接口电路	yong hu xian lu jie kou dian lu	186
+有线电视	you xian dian shi	677
+有效串联电感	you xiao chuan lian dian gan	561
+有效串联电阻	you xiao chuan lian dian zu	560
+有效位数	you xiao wei shu	562
+预充电	yu chong dian	834
+预加重	yu jia zhong	290
+预偏置软启动	yu pian zhi ruan qi dong	291
+于志龙	yu zhi long	39
+原电池	yuan dian chi	829
+远端二极管	yuan duan er ji guan	252
+远端温度	yuan duan wen du	250
+远端温度传感器	yuan duan wen du chuan gan qi	249
+远端温度检测	yuan duan wen du jian ce	251
+运算放大器	yun suan fang da qi	329
+在线监测	zai xian jian ce	735
+暂停	zan ting	779
+噪声	zao sheng	303
+增益	zeng yi	508
+增益误差	zeng yi wu cha	507
+占空比	zhan kong bi	817
+张杰	zhang jie	5
+张乐为	zhang le wei	36
+张鹏越	zhang peng yue	9
+张庆	zhang qing	20
+张秋蝉	zhang qiu chan	6
+赵斌斌	zhao bin bin	19
+兆赫兹	zhao he zi	360
+兆位	zhao wei	362
+赵英杰	zhao ying jie	38
+折返模式	zhe fan mo shi	525
+折返式电流限制	zhe fan shi dian liu xian zhi	526
+振荡	zhen dang	237
+震动传感器	zhen dong chuan gan qi	222
+真空荧光管显示器	zhen kong ying guang guan xian shi qi	112
+帧中继	zhen zhong ji	520
+正极	zheng ji	898
+正激变换器	zheng ji bian huan qi	522
+正极夹具	zheng ji jia ju	43
+正交	zheng jiao	274
+正交频分复用	zheng jiao pin fen fu yong	323
+正交调幅	zheng jiao tiao fu	273
+正交调制	zheng jiao tiao zhi	272
+正交相移键控	zheng jiao xiang yi jian kong	268
+正温度系数	zheng wen du xi shu	302
+直接存储器存取	zhi jie cun chu qi cun qu	577
+直接数字合成器	zhi jie shu zi he cheng qi	578
+直流母带	zhi liu mu dai	818
+直流直流控制器	zhi liu zhi liu kong zhi qi	604
+智能电池	zhi neng dian chi	207
+智能电池规范	zhi neng dian chi gui fan	206
+智能电话	zhi neng dian hua	205
+智能信号调节器	zhi neng xin hao tiao jie qi	204
+知识产权	zhi shi chan quan	441
+直通电流	zhi tong dian liu	221
+直序扩频	zhi xu kuo pin	576
+制造	zhi zao	467
+终点	zhong dian	553
+中频	zhong pin	435
+终止电压	zhong zhi dian ya	833
+周期	zhou qi	615
+逐次逼近寄存器	zhu ci bi jin ji cun qi	185
+贮存寿命	zhu cun shou ming	838
+逐行倒相	zhu hang dao xiang	311
+主机输出从机输入	zhu ji shu chu cong ji shu ru	366
+朱磊	zhu lei	18
+注入	zhu ru	275
+转步	zhuan bu	73
+转换器	zhuan huan qi	915
+专用移动无线通信	zhuan yong yi dong wu xian tong xin	200
+自动读表装置	zi dong du biao zhuang zhi	876
+自动功率控制	zi dong gong lv kong zhi	875
+自动化学院	zi dong hua xue yuan	800
+自动增益控制	zi dong zeng yi kong zhi	877
+自放电	zi fang dian	846
+自举	zi ju	696
+子木	zi mu	805
+子木科技	zi mu ke ji	822
+子木专利	zi mu zhuan li	65
+自耦	zi ou	874
+自耦变压器	zi ou bian ya qi	873
+自耦电容	zi ou dian rong	64
+总控板	zong kong ban	798
+总线	zong xian	679
+总谐波失真	zong xie bo shi zhen	135
+总谐波失真和噪声	zong xie bo shi zhen he zao sheng	134
+阻抗	zu kang	461
+最大	zui da	365
+最大保持阶跃	zui da bao chi jie yue	364
+最小检测	zui xiao jian ce	351
+最小稳定闭环增益	zui xiao wen ding bi huan zeng yi	350

@@ -1,0 +1,440 @@
+# 词库名称: 汽车部件
+# 词库分类: 个人专用
+# 词库描述: 汽车主要部件配置
+# 词条样例: 内饰、油耗、电动座椅、燃油、舒适
+# 解析词数: 433
+# 解析异常: 0
+
+安全	an quan	433
+安全带	an quan dai	413
+钣金件	ban jin jian	412
+保全系统	bao quan xi tong	197
+保险杆	bao xian gan	411
+保险杆支撑	bao xian gan zhi cheng	410
+保险杠	bao xian gang	4
+保险丝	bao xian si	409
+保险丝座	bao xian si zuo	408
+保养	bao yang	33
+备胎	bei tai	52
+备胎板	bei tai ban	407
+比功率	bi gong lv	43
+比例阀	bi li fa	406
+比扭矩	bi niu ju	42
+避震脚踏车	bi zhen jiao ta che	405
+避震器	bi zhen qi	404
+避震器前后活塞杆	bi zhen qi qian hou huo sai gan	403
+变速杆	bian su gan	402
+变速器	bian su qi	401
+变速箱	bian su xiang	400
+变速箱外壳	bian su xiang wai ke	399
+玻璃滑槽	bo li hua cao	397
+波司垫片	bo si dian pian	398
+补强板	bu qiang ban	396
+操控	cao kong	423
+操纵	cao zong	422
+插接件	cha jie jian	395
+柴油车黑烟净化器	chai you che hei yan jing hua qi	388
+超车加速	chao che jia su	45
+车窗升降机	che chuang sheng jiang ji	387
+车窗升降摇柄	che chuang sheng jiang yao bing	386
+车灯安定器	che deng an ding qi	414
+车灯控制器	che deng kong zhi qi	385
+车顶板	che ding ban	384
+车顶内衬	che ding nei chen	383
+车轮及刹车	che lun ji sha che	382
+车轮系统	che lun xi tong	381
+车门	che men	380
+车门把手	che men ba shou	379
+车门扶手	che men fu shou	378
+车门锁	che men suo	377
+车身	che shen	415
+车身钣金件	che shen ban jin jian	376
+车身护条	che shen hu tiao	375
+车身结构	che shen jie gou	15
+车速	che su	36
+车体打造	che ti da zao	374
+车用计算机	che yong ji suan ji	189
+车用灭火器	che yong mie huo qi	373
+车用行动电话	che yong xing dong dian hua	190
+车用液晶显示器	che yong ye jing xian shi qi	188
+车柱	che zhu	372
+城市车	cheng shi che	371
+尺寸	chi cun	25
+齿轮	chi lun	370
+齿轮箱	chi lun xiang	369
+齿条	chi tiao	368
+触媒转化器	chu mei zhuan hua qi	366
+触媒转换器	chu mei zhuan huan qi	365
+储液瓶	chu ye ping	367
+传动件	chuan dong jian	364
+传动系统档位	chuan dong xi tong dang wei	32
+传动轴	chuan dong zhou	363
+大灯	da deng	2
+打蜡机	da la ji	362
+打气筒	da qi tong	361
+大型商用车	da xing shang yong che	360
+单轮车	dan lun che	359
+挡泥板	dang ni ban	357
+档位选择	dang wei xuan ze	35
+倒车雷达	dao che lei da	356
+倒车显示器	dao che xian shi qi	355
+导航系统	dao hang xi tong	196
+灯泡	deng pao	354
+登山车	deng shan che	353
+等速接头	deng su jie tou	352
+底盘车	di pan che	351
+底盘车架	di pan che jia	350
+底盘及其零件	di pan ji qi ling jian	349
+底盘系统	di pan xi tong	348
+地毯	di tan	347
+电池充电器	dian chi chong dian qi	343
+电磁阀	dian ci fa	342
+电动天窗	dian dong tian chuang	5
+电动自行车	dian dong zi xing che	341
+电动座椅	dian dong zuo yi	417
+电动座椅装	dian dong zuo yi zhuang	340
+点火线圈	dian huo xian quan	346
+点火线圈模块	dian huo xian quan mo kuai	345
+垫片类	dian pian lei	335
+电瓶	dian ping	339
+点烟器	dian yan qi	344
+电装品	dian zhuang pin	338
+电子点火器	dian zi dian huo qi	337
+电子件	dian zi jian	336
+电子钟	dian zi zhong	192
+碟式刹车盘	die shi sha che pan	334
+碟式刹车器	die shi sha che qi	333
+顶蓬	ding peng	332
+定速器	ding su qi	331
+动力	dong li	432
+动力方向系统	dong li fang xiang xi tong	330
+动力转向帮浦	dong li zhuan xiang bang pu	329
+动力转向油管	dong li zhuan xiang you guan	328
+锻造件	duan zao jian	326
+端子	duan zi	327
+堆高机	dui gao ji	325
+发电机	fa dian ji	324
+反光片	fan guang pian	323
+防擦条	fang ca tiao	3
+防盗器	fang dao qi	321
+防夹天窗	fang jia tian chuang	7
+防水衬条	fang shui chen tiao	320
+方向盘	fang xiang pan	322
+防撞护垫	fang zhuang hu dian	319
+飞轮	fei lun	318
+飞轮环齿轮	fei lun huan chi lun	317
+废气回收管	fei qi hui shou guan	316
+分电盘	fen dian pan	315
+粉末冶金	fen mo ye jin	314
+蜂鸣器	feng ming qi	313
+风扇	feng shan	416
+辐帽	fu mao	311
+副水箱	fu shui xiang	309
+辐条	fu tiao	312
+副轴	fu zhou	67
+辅助气囊	fu zhu qi nang	310
+感应雨刷	gan ying yu shua	8
+钢轮圈	gang lun quan	9
+高压线组	gao ya xian zu	308
+各类隔音垫	ge lei ge yin dian	306
+各类孔盖	ge lei kong gai	305
+隔热材	ge re cai	307
+功率	gong lv	22
+共鸣箱	gong ming xiang	304
+功能	gong neng	419
+鼓风机	gu feng ji	302
+鼓式刹车盘	gu shi sha che pan	301
+故障标志	gu zhang biao zhi	300
+挂车	gua che	34
+管类	guan lei	299
+管束	guan shu	269
+光盘	guang pan	191
+海滩车	hai tan che	297
+孩童车	hai tong che	298
+合成木材	he cheng mu cai	294
+黑烟过滤器	hei yan guo lv qi	293
+横拉杆接头	heng la gan jie tou	292
+横梁	heng liang	291
+后保险杠	hou bao xian gang	53
+后舱室饰板	hou cang shi shi ban	290
+后防撞杆	hou fang zhuang gan	289
+后扰流板	hou rao liu ban	10
+后视镜	hou shi jing	288
+后尾灯	hou wei deng	49
+后悬	hou xuan	27
+后置物板	hou zhi wu ban	287
+后轴总成	hou zhou zong cheng	286
+花鼓	hua gu	285
+货架	huo jia	279
+活塞	huo sai	284
+活塞衬套	huo sai chen tao	283
+活塞环	huo sai huan	282
+活塞肖	huo sai xiao	281
+火星塞	huo xing sai	280
+机车座垫用	ji che zuo dian yong	278
+继电器	ji dian qi	271
+机油	ji you	277
+机油帮浦	ji you bang pu	276
+机油尺	ji you chi	275
+机油尺导管	ji you chi dao guan	274
+机油滤清器	ji you lv qing qi	273
+机油滤网	ji you lv wang	272
+夹片	jia pian	270
+夹式刹车器	jia shi sha che qi	268
+加速	jia su	47
+加速时间	jia su shi jian	41
+脚刹车器	jiao sha che qi	267
+脚踏板	jiao ta ban	16
+节流阀	jie liu fa	266
+节温器	jie wen qi	265
+进气歧管	jin qi qi guan	263
+金属表面处理	jin shu biao mian chu li	264
+镜类	jing lei	262
+开关类	kai guan lei	261
+空间	kong jian	428
+空气动力套件	kong qi dong li tao jian	14
+空气滤清器	kong qi lv qing qi	260
+空气滤清器导管	kong qi lv qing qi dao guan	259
+空气滤清器盖	kong qi lv qing qi gai	258
+空气滤蕊	kong qi lv rui	257
+空气清净机	kong qi qing jing ji	256
+孔塞	kong sai	252
+空调滤网	kong tiao lv wang	255
+空调系统	kong tiao xi tong	254
+空调相关零件	kong tiao xiang guan ling jian	253
+控制拉线	kong zhi la xian	251
+扣具	kou ju	250
+快拆	kuai chai	249
+喇叭	la ba	248
+冷煤电磁阀	leng mei dian ci fa	246
+冷媒管	leng mei guan	247
+冷凝器	leng ning qi	245
+冷气导风管	leng qi dao feng guan	244
+冷气客车	leng qi ke che	243
+冷气配管	leng qi pei guan	242
+冷气压缩机	leng qi ya suo ji	241
+冷气总成	leng qi zong cheng	240
+冷却系统	leng que xi tong	239
+离合器分泵	li he qi fen beng	238
+离合器片	li he qi pian	237
+离合器释放轴	li he qi shi fang zhou	236
+离合器外壳	li he qi wai ke	235
+离合器总泵	li he qi zong beng	234
+离合器总成	li he qi zong cheng	233
+连杆	lian gan	232
+连杆轴承片	lian gan zhou cheng pian	231
+链条	lian tiao	230
+零组件用材料	ling zu jian yong cai liao	229
+轮毂	lun gu	228
+轮弧	lun hu	227
+轮距	lun ju	29
+轮眉	lun mei	56
+轮圈	lun quan	226
+轮圈盖	lun quan gai	225
+轮胎	lun tai	224
+轮胎汽门嘴	lun tai qi men zui	223
+螺帽	luo mao	222
+螺栓	luo shuan	221
+螺旋弹簧	luo xuan tan huang	220
+滤清器类	lv qing qi lei	219
+马达类	ma da lei	218
+马达零件	ma da ling jian	217
+门铰链	men jiao lian	216
+门框	men kuang	215
+门饰板	men shi ban	214
+铭板	ming ban	213
+内饰	nei shi	418
+内胎	nei tai	212
+内装品	nei zhuang pin	211
+内装用牛皮	nei zhuang yong niu pi	195
+尼龙绳	ni long sheng	210
+扭矩	niu ju	1
+扭力杆	niu li gan	209
+暖气总成	nuan qi zong cheng	208
+爬坡	pa po	44
+排档杆	pai dang gan	207
+排档头	pai dang tou	206
+排气管	pai qi guan	205
+排气歧管	pai qi qi guan	204
+跑车	pao che	203
+配件	pei jian	202
+配线	pei xian	201
+喷油嘴	pen you zui	200
+皮带	pi dai	155
+皮带外盖	pi dai wai gai	154
+皮带张力器	pi dai zhang li qi	199
+品质	pin zhi	424
+平衡杆	ping heng gan	198
+起步加速	qi bu jia su	46
+汽缸衬套	qi gang chen tao	187
+汽缸体	qi gang ti	186
+汽缸头	qi gang tou	185
+汽门	qi men	184
+汽门导管	qi men dao guan	182
+汽门锁	qi men suo	181
+汽门弹簧	qi men tan huang	183
+汽门摇臂	qi men yao bi	180
+汽门摇臂盖	qi men yao bi gai	179
+汽门座	qi men zuo	178
+前大灯	qian da deng	55
+前挡玻璃雨刮	qian dang bo li yu gua	6
+前防撞杆	qian fang zhuang gan	176
+千斤顶	qian jin ding	177
+前雾灯	qian wu deng	51
+前悬	qian xuan	28
+清洁保养用品	qing jie bao yang yong pin	194
+倾卸车	qing xie che	175
+球形接头	qiu xing jie tou	174
+曲柄组	qu bing zu	173
+驱动力	qu dong li	38
+曲轴	qu zhou	172
+曲轴皮带盘	qu zhou pi dai pan	171
+曲轴轴承片	qu zhou zhou cheng pian	170
+全景天窗	quan jing tian chuang	11
+燃料系统	ran liao xi tong	169
+燃油	ran you	429
+燃油帮浦	ran you bang pu	168
+燃油管	ran you guan	167
+燃油滤清器	ran you lv qing qi	166
+扰流板	rao liu ban	165
+热处理	re chu li	164
+热水阀	re shui fa	163
+人造革	ren zao ge	162
+润滑系统	run hua xi tong	161
+刹车	sha che	303
+刹车分泵	sha che fen beng	394
+刹车来令片	sha che lai ling pian	393
+刹车盘	sha che pan	17
+刹车油管	sha che you guan	392
+刹车真空倍力器	sha che zhen kong bei li qi	391
+刹车真空管	sha che zhen kong guan	390
+刹车总泵	sha che zong beng	389
+闪光器	shan guang qi	160
+上臂	shang bi	158
+商标贴纸	shang biao tie zhi	159
+省电器	sheng dian qi	157
+饰板	shi ban	153
+时规炼条	shi gui lian tiao	156
+室内镜	shi nei jing	152
+室内运动车	shi nei yun dong che	151
+手动挡	shou dong dang	19
+手刹车拉柄	shou sha che la bing	150
+舒适	shu shi	421
+双离合	shuang li he	18
+双面胶带	shuang mian jiao dai	149
+水帮浦	shui bang pu	148
+水管	shui guan	147
+水壶架	shui hu jia	146
+水箱	shui xiang	145
+水箱风扇	shui xiang feng shan	144
+水箱饰罩	shui xiang shi zhao	143
+水箱水管	shui xiang shui guan	142
+水箱支架	shui xiang zhi jia	141
+速度表	su du biao	140
+塑料件	su liao jian	139
+随车工具	sui che gong ju	138
+踏板	ta ban	137
+胎压不足警示器	tai ya bu zu jing shi qi	136
+太阳能天窗	tai yang neng tian chuang	12
+弹簧	tan huang	358
+碳刷	tan shua	135
+提速器	ti su qi	134
+天窗	tian chuang	133
+天线	tian xian	132
+调节器	tiao jie qi	131
+调整器	tiao zheng qi	130
+铁路车辆类	tie lu che liang lei	129
+铁路车辆零件	tie lu che liang ling jian	128
+铁路车辆制造及修理	tie lu che liang zhi zao ji xiu li	127
+铁路扣夹	tie lu kou jia	126
+铜套类	tong tao lei	125
+头档动力	tou dang dong li	40
+涂料	tu liao	122
+凸轮轴	tu lun zhou	124
+凸轮轴链轮	tu lun zhou lian lun	123
+拖板车	tuo ban che	121
+外观	wai guan	431
+外后视镜	wai hou shi jing	50
+外廓	wai kuo	26
+外装品	wai zhuang pin	120
+温度感应器	wen du gan ying qi	119
+握把	wo ba	118
+无链式	wu lian shi	117
+无线电胎压侦测仪	wu xian dian tai ya zhen ce yi	116
+洗涤壶	xi di hu	115
+下臂	xia bi	114
+橡胶件	xiang jiao jian	113
+消音器	xiao yin qi	112
+信息	xin xi	427
+行李架	xing li jia	13
+行李箱盖	xing li xiang gai	296
+行李箱铰链	xing li xiang jiao lian	295
+性能	xing neng	420
+行驶阻力	xing shi zu li	37
+悬臂式刹车器	xuan bi shi sha che qi	111
+压条	ya tiao	110
+烟灰缸	yan hui gang	109
+摇臂轴	yao bi zhou	108
+腰线	yao xian	54
+曳力杆	ye li gan	105
+叶片弹簧	ye pian tan huang	107
+液压式刹车器	ye ya shi sha che qi	103
+曳引车	ye yin che	104
+叶子板	ye zi ban	106
+仪表	yi biao	102
+仪表板	yi biao ban	101
+仪表板支架	yi biao ban zhi jia	100
+仪表饰板	yi biao shi ban	99
+引擎	yin qing	97
+引擎波司	yin qing bo si	96
+引擎盖	yin qing gai	95
+引擎盖铰链	yin qing gai jiao lian	94
+引擎零件	yin qing ling jian	93
+引擎修理包	yin qing xiu li bao	92
+引擎支撑	yin qing zhi cheng	91
+音响	yin xiang	193
+音响喇叭盖	yin xiang la ba gai	98
+油底壳	you di ke	90
+油封	you feng	89
+油耗	you hao	430
+油量表	you liang biao	88
+油品添加剂	you pin tian jia ji	87
+油土与基准模型	you tu yu ji zhun mo xing	86
+油箱	you xiang	85
+油箱浮筒	you xiang fu tong	84
+油压感应器	you ya gan ying qi	83
+娱乐	yu le	426
+预热塞	yu re sai	81
+雨刷及雨刷连杆	yu shua ji yu shua lian gan	82
+载客量	zai ke liang	23
+折叠式	zhe die shi	79
+遮阳板	zhe yang ban	80
+整备质量	zheng bei zhi liang	24
+整车	zheng che	77
+蒸发器	zheng fa qi	78
+整流器	zheng liu qi	76
+制动	zhi dong	31
+支架	zhi jia	75
+质量	zhi liang	425
+止推垫片	zhi tui dian pian	73
+置物袋	zhi wu dai	72
+支柱总成	zhi zhu zong cheng	74
+中央门控	zhong yang men kong	71
+中央置物箱	zhong yang zhi wu xiang	70
+轴承	zhou cheng	69
+轴距	zhou ju	30
+铸造件	zhu zao jian	66
+主轴	zhu zhou	68
+转速	zhuan su	21
+转向齿轮箱	zhuan xiang chi lun xiang	65
+转向机柱	zhuan xiang ji zhu	64
+转向节臂	zhuan xiang jie bi	63
+转向连杆	zhuan xiang lian gan	62
+转向总成	zhuan xiang zong cheng	61
+装饰贴纸	zhuang shi tie zhi	60
+自动变速箱油	zi dong bian su xiang you	59
+自动挡	zi dong dang	20
+自排变速箱修理包	zi pai bian su xiang xiu li bao	58
+自排车用滤油器	zi pai che yong lv you qi	57
+最大动力	zui da dong li	39
+最高速度	zui gao su du	48

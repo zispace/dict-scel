@@ -1,0 +1,491 @@
+# 词库名称: 电气工作词库
+# 词库分类: 个人专用
+# 词库描述: 谨供个人工作使用。舒卫飞
+# 词条样例: 电热、电瓶、电脑排线、电缆桥架、电控箱、电控柜
+# 解析词数: 484
+# 解析异常: 0
+
+按键开关	an jian kai guan	389
+按钮开关	an niu kai guan	390
+拔动开关	ba dong kai guan	391
+保护板	bao hu ban	393
+保护套	bao hu tao	394
+包胶铁线	bao jiao tie xian	392
+薄膜	bao mo	403
+薄膜开关	bao mo kai guan	404
+薄膜面板	bao mo mian ban	405
+保险丝	bao xian si	395
+避雷器	bi lei qi	168
+编码开关	bian ma kai guan	396
+变频电机	bian pin dian ji	398
+变频电源	bian pin dian yuan	169
+编织线	bian zhi xian	397
+拨动开关	bo dong kai guan	399
+玻璃管	bo li guan	401
+玻璃丝	bo li si	402
+拨码开关	bo ma kai guan	400
+补偿导线	bu chang dao xian	406
+步进电机	bu jin dian ji	407
+步进马达	bu jin ma da	408
+擦试纸	ca shi zhi	409
+槽式电缆桥架	cao shi dian lan qiao jia	58
+槽型光电开关	cao xing guang dian kai guan	59
+插板	cha ban	60
+插脚	cha jiao	410
+插排	cha pai	411
+插头	cha tou	412
+插头插座	cha tou cha zuo	413
+插头线	cha tou xian	414
+插座	cha zuo	415
+车充	che chong	416
+冲棒	chong bang	63
+充电板	chong dian ban	61
+充电插头	chong dian cha tou	62
+充电池	chong dian chi	417
+充电电池	chong dian dian chi	418
+充电机	chong dian ji	419
+充电器	chong dian qi	420
+冲电器	chong dian qi	421
+冲击电钻	chong ji dian zuan	422
+冲片	chong pian	423
+除尘滚轮	chu chen gun lun	424
+串激电机	chuan ji dian ji	427
+船型开关	chuan xing kai guan	426
+船形开关	chuan xing kai guan	425
+伺服马达	ci fu ma da	248
+磁性开关	ci xing kai guan	428
+淬火	cui huo	429
+大雁	da yan	430
+带插头电源线	dai cha tou dian yuan xian	64
+单晶硅	dan jing gui	431
+单相电机	dan xiang dian ji	432
+导电胶	dao dian jiao	434
+导线	dao xian	435
+地插	di cha	437
+涤纶丝包线	di lun si bao xian	68
+低压电器	di ya dian qi	65
+低压电气	di ya dian qi	436
+低压断路器	di ya duan lu qi	66
+低压开关柜	di ya kai guan gui	67
+电表箱	dian biao xiang	438
+电池	dian chi	439
+电池充电器	dian chi chong dian qi	69
+电池盒	dian chi he	440
+电池扣	dian chi kou	441
+电池配件	dian chi pei jian	442
+电池片	dian chi pian	443
+电池外壳	dian chi wai ke	444
+电池座	dian chi zuo	445
+电锤	dian chui	446
+电磁开关	dian ci kai guan	447
+电磁铁	dian ci tie	70
+电磁线	dian ci xian	448
+电动扳手	dian dong ban shou	449
+电动车充电器	dian dong che chong dian qi	71
+电动工具	dian dong gong ju	450
+电动工具开关	dian dong gong ju kai guan	72
+电动机	dian dong ji	451
+电动马达	dian dong ma da	452
+电动推杆	dian dong tui gan	453
+电镀电源	dian du dian yuan	454
+电话插座	dian hua cha zuo	455
+电机冲片	dian ji chong pian	456
+电机定子	dian ji ding zi	457
+电机壳	dian ji ke	458
+电机铁芯	dian ji tie xin	459
+电机外壳	dian ji wai ke	460
+电机转子	dian ji zhuan zi	461
+电剪刀	dian jian dao	462
+电锯	dian ju	463
+电抗器	dian kang qi	464
+电控板	dian kong ban	465
+电控柜	dian kong gui	466
+电控箱	dian kong xiang	467
+电缆	dian lan	468
+电缆浮球开关	dian lan fu qiu kai guan	73
+电缆接头	dian lan jie tou	469
+电缆桥架	dian lan qiao jia	470
+电缆线	dian lan xian	471
+电力电缆	dian li dian lan	472
+电炉	dian lu	473
+电炉丝	dian lu si	474
+电磨	dian mo	475
+电脑排线	dian nao pai xian	476
+电批	dian pi	477
+电瓶	dian ping	478
+电气	dian qi	479
+电器开关	dian qi kai guan	480
+电器配件	dian qi pei jian	481
+电器设备	dian qi she bei	482
+电热	dian re	483
+电热板	dian re ban	484
+电热带	dian re dai	267
+电热管	dian re guan	268
+电热膜	dian re mo	269
+电热片	dian re pian	270
+电热丝	dian re si	271
+电视天线	dian shi tian xian	74
+电刷	dian shua	272
+电台	dian tai	273
+电线	dian xian	274
+电线插头	dian xian cha tou	275
+电线电缆	dian xian dian lan	276
+电箱	dian xiang	277
+电芯	dian xin	278
+电源	dian yuan	280
+电源板	dian yuan ban	281
+电源插头	dian yuan cha tou	282
+电源插座	dian yuan cha zuo	283
+电圆锯	dian yuan ju	279
+电源开关	dian yuan kai guan	284
+电源模块	dian yuan mo kuai	285
+电源外壳	dian yuan wai ke	286
+电源线	dian yuan xian	287
+电子电器	dian zi dian qi	288
+电子工具	dian zi gong ju	289
+电子开关	dian zi kai guan	290
+电子线	dian zi xian	291
+电子线材	dian zi xian cai	292
+电子线缆	dian zi xian lan	293
+电阻炉	dian zu lu	294
+电阻丝	dian zu si	295
+电钻	dian zuan	296
+定转子	ding zhuan zi	299
+定子	ding zi	300
+东方马达	dong fang ma da	301
+动力配电柜	dong li pei dian gui	75
+东元	dong yuan	302
+镀锡	du xi	303
+镀锡铜丝	du xi tong si	304
+镀锡铜线	du xi tong xian	305
+镀锡线	du xi xian	306
+端盖	duan gai	307
+断路器	duan lu qi	308
+端头	duan tou	76
+多晶硅	duo jing gui	309
+鳄鱼夹	e yu jia	77
+耳机插座	er ji cha zuo	310
+耳机线材	er ji xian cai	311
+发热管	fa re guan	312
+发热盘	fa re pan	313
+发热片	fa re pian	314
+发热圈	fa re quan	315
+发热丝	fa re si	316
+发热线	fa re xian	317
+发热芯	fa re xin	318
+法式插座	fa shi cha zuo	319
+防爆电机	fang bao dian ji	320
+防爆配电柜	fang bao pei dian gui	78
+防静电	fang jing dian	321
+防水插座	fang shui cha zuo	322
+防水开关	fang shui kai guan	323
+废薄膜	fei bao mo	324
+废电池	fei dian chi	79
+废旧电瓶	fei jiu dian ping	325
+风机电机	feng ji dian ji	326
+风扇电机	feng shan dian ji	327
+浮球	fu qiu	328
+浮球开关	fu qiu kai guan	329
+辐射管	fu she guan	330
+干电池	gan dian chi	331
+干电池充电器	gan dian chi chong dian qi	80
+感应开关	gan ying kai guan	332
+钢针	gang zhen	333
+高发泡	gao fa pao	334
+高频	gao pin	335
+高频焊机	gao pin han ji	336
+高速电机	gao su dian ji	337
+高温布	gao wen bu	338
+高温导线	gao wen dao xian	339
+高温电炉	gao wen dian lu	340
+高温电线	gao wen dian xian	341
+高温炉	gao wen lu	342
+高温线	gao wen xian	343
+高压电机	gao ya dian ji	344
+高压电源	gao ya dian yuan	345
+高压开关	gao ya kai guan	346
+高压开关柜	gao ya kai guan gui	81
+隔离器	ge li qi	347
+工控产品	gong kong chan pin	348
+工业插头	gong ye cha tou	349
+工业电炉	gong ye dian lu	350
+工业烤箱	gong ye kao xiang	351
+工业控制	gong ye kong zhi	352
+固态继电器	gu tai ji dian qi	82
+管状电机	guan zhuang dian ji	353
+光电池	guang dian chi	354
+光电开关	guang dian kai guan	355
+光控	guang kong	356
+光纤	guang xian	83
+硅光电池	gui guang dian chi	84
+硅胶线	gui jiao xian	357
+硅钼棒	gui mu bang	358
+航空插头	hang kong cha tou	26
+和泉	he quan	359
+恒温器	heng wen qi	360
+红外线	hong wai xian	27
+滑车	hua che	361
+滑触线	hua chu xian	362
+换向器	huan xiang qi	363
+灰排线	hui pai xian	364
+火炉	huo lu	365
+火牛	huo niu	366
+极板	ji ban	367
+佳能	jia neng	372
+加热板	jia re ban	368
+加热管	jia re guan	369
+加热片	jia re pian	370
+加热圈	jia re quan	371
+减速马达	jian su ma da	28
+碱性电池	jian xing dian chi	373
+交流电动机	jiao liu dian dong ji	29
+交流电机	jiao liu dian ji	374
+交流接触器	jiao liu jie chu qi	30
+角磨	jiao mo	375
+角磨机	jiao mo ji	376
+脚踏开关	jiao ta kai guan	377
+胶体蓄电池	jiao ti xu dian chi	31
+接触器	jie chu qi	378
+接地线	jie di xian	379
+接近开关	jie jin kai guan	380
+接线端头	jie xian duan tou	32
+近接开关	jin jie kai guan	381
+进口电机	jin kou dian ji	382
+静电除尘	jing dian chu chen	383
+聚合物	ju he wu	384
+聚合物锂电池	ju he wu li dian chi	33
+卷线	juan xian	385
+开关	kai guan	386
+开关插座	kai guan cha zuo	387
+开关电源	kai guan dian yuan	388
+开关柜	kai guan gui	170
+开关面板	kai guan mian ban	171
+开孔器	kai kong qi	172
+可编程控制器	ke bian cheng kong zhi qi	34
+可恢复保险丝	ke hui fu bao xian si	35
+空气开关	kong qi kai guan	174
+空调电机	kong tiao dian ji	173
+控制电缆	kong zhi dian lan	175
+控制柜	kong zhi gui	176
+控制器	kong zhi qi	177
+控制系统	kong zhi xi tong	178
+扣式电池	kou shi dian chi	179
+扣式镍氢电池	kou shi nie qing dian chi	36
+拉杆天线	la gan tian xian	37
+锂电	li dian	180
+锂电池	li dian chi	181
+锂电芯	li dian xin	182
+锂离子电池	li li zi dian chi	38
+锂锰电池	li meng dian chi	183
+联通	lian tong	184
+漏电保护	lou dian bao hu	185
+裸电线	luo dian xian	40
+螺丝机	luo si ji	186
+裸铜	luo tong	187
+裸铜丝	luo tong si	41
+裸铜线	luo tong xian	188
+铝绞线	lv jiao xian	39
+马达	ma da	42
+梅花	mei hua	189
+美式插头	mei shi cha tou	43
+美式插座	mei shi cha zuo	190
+门电机	men dian ji	191
+模块电源	mo kuai dian yuan	192
+模拟屏	mo ni ping	193
+内架	nei jia	194
+粘尘纸	nian chen zhi	151
+镍镉电池	nie ge dian chi	195
+镍镉电池组	nie ge dian chi zu	44
+镍镉镍氢电池	nie ge nie qing dian chi	45
+镍钴	nie gu	196
+镍片	nie pian	197
+镍氢	nie qing	198
+镍氢充电电池	nie qing chong dian dian chi	46
+镍氢电池	nie qing dian chi	199
+镍氢电池充电器	nie qing dian chi chong dian qi	47
+镍氢扣式电池	nie qing kou shi dian chi	48
+镍氢镍镉电池	nie qing nie ge dian chi	49
+纽扣电池	niu kou dian chi	200
+钮扣电池	niu kou dian chi	202
+纽子开关	niu zi kai guan	201
+钮子开关	niu zi kai guan	203
+耦合器	ou he qi	206
+欧式	ou shi	204
+欧式插座	ou shi cha zuo	205
+排插	pai cha	207
+排线	pai xian	208
+抛光	pao guang	209
+抛光机	pao guang ji	210
+配电	pei dian	211
+配电柜	pei dian gui	212
+配电箱	pei dian xiang	213
+屏蔽线	ping bi xian	214
+漆包线	qi bao xian	215
+汽车保险	qi che bao xian	218
+汽车电线	qi che dian xian	219
+汽车天线	qi che tian xian	50
+启动器	qi dong qi	216
+起子	qi zi	217
+铅酸电池	qian suan dian chi	220
+铅酸蓄电池	qian suan xu dian chi	51
+墙壁开关	qiang bi kai guan	221
+桥架	qiao jia	222
+琴键开关	qin jian kai guan	223
+轻触开关	qing chu kai guan	224
+氢电池	qing dian chi	52
+热板	re ban	225
+热电偶	re dian ou	53
+热电阻	re dian zu	54
+热风枪	re feng qiang	226
+热管	re guan	227
+人机界面	ren ji jie mian	228
+人体感应	ren ti gan ying	229
+熔断器	rong duan qi	230
+软起动	ruan qi dong	231
+三层绝缘线	san ceng jue yuan xian	55
+三极电源插头	san ji dian yuan cha tou	56
+三相交流电动机	san xiang jiao liu dian dong ji	57
+砂带机	sha dai ji	232
+砂光	sha guang	233
+砂光机	sha guang ji	234
+上广电	shang guang dian	235
+射频线	she pin xian	236
+时间继电器	shi jian ji dian qi	1
+适配器	shi pei qi	239
+视频插头	shi pin cha tou	2
+视频插座	shi pin cha zuo	237
+视频线	shi pin xian	238
+手机充电器	shou ji chong dian qi	4
+手机电池	shou ji dian chi	240
+手机马达	shou ji ma da	241
+手机天线	shou ji tian xian	5
+收音机天线	shou yin ji tian xian	3
+手指套	shou zhi tao	242
+数控系统	shu kong xi tong	243
+水流开关	shui liu kai guan	244
+水位开关	shui wei kai guan	245
+丝包线	si bao xian	246
+伺服电机	si fu dian ji	247
+送料器	song liao qi	251
+松下电池	song xia dian chi	249
+松下马达	song xia ma da	250
+塑壳	su ke	252
+塑料电器	su liao dian qi	253
+塑料外壳	su liao wai ke	254
+台垫	tai dian	255
+太阳能板	tai yang neng ban	256
+太阳能充电器	tai yang neng chong dian qi	6
+太阳能电池	tai yang neng dian chi	7
+弹簧线	tan huang xian	433
+碳刷	tan shua	257
+碳刷架	tan shua jia	258
+碳纤	tan xian	259
+碳纤维	tan xian wei	260
+碳性电池	tan xing dian chi	261
+陶瓷发热管	tao ci fa re guan	8
+陶瓷发热芯	tao ci fa re xin	9
+陶瓷加热	tao ci jia re	262
+天线	tian xian	10
+调速电机	tiao su dian ji	297
+调速开关	tiao su kai guan	298
+铁壳	tie ke	263
+铜包钢	tong bao gang	85
+铜包钢线	tong bao gang xian	86
+铜包铝	tong bao lv	87
+铜包铝线	tong bao lv xian	88
+铜扁线	tong bian xian	89
+铜片	tong pian	90
+铜线	tong xian	91
+铜线材	tong xian cai	92
+通讯电缆	tong xun dian lan	264
+同轴电缆	tong zhou dian lan	265
+同轴线	tong zhou xian	266
+推板	tui ban	93
+退火炉	tui huo lu	94
+拖线板	tuo xian ban	95
+玩具电池	wan ju dian chi	96
+玩具马达	wan ju ma da	97
+万能充	wan neng chong	98
+网带炉	wang dai lu	99
+网络跳线	wang luo tiao xian	100
+网络线	wang luo xian	11
+微电机	wei dian ji	101
+微动开关	wei dong kai guan	102
+微型电动机	wei xing dian dong ji	12
+微型电机	wei xing dian ji	103
+微型马达	wei xing ma da	104
+卫星天线	wei xing tian xian	13
+温控开关	wen kong kai guan	105
+稳压电源	wen ya dian yuan	106
+无尘布	wu chen bu	107
+无尘室	wu chen shi	108
+无尘纸	wu chen zhi	109
+无刷电机	wu shua dian ji	110
+锡炉	xi lu	111
+线板	xian ban	112
+线夹	xian jia	113
+线锯	xian ju	114
+线缆	xian lan	115
+线盘	xian pan	116
+线上开关	xian shang kai guan	117
+限位开关	xian wei kai guan	118
+香蕉插头	xiang jiao cha tou	119
+橡胶线	xiang jiao xian	120
+小电机	xiao dian ji	121
+小马达	xiao ma da	122
+小水泵	xiao shui beng	123
+信号线	xin hao xian	124
+行程开关	xing cheng kai guan	125
+修边机	xiu bian ji	126
+蓄电池	xu dian chi	127
+蓄电池充电器	xu dian chi chong dian qi	14
+蓄电池壳	xu dian chi ke	128
+旋钮	xuan niu	129
+旋转锉	xuan zhuan cuo	130
+压力开关	ya li kai guan	131
+延长线	yan chang xian	132
+氧化锌避雷器	yang hua xin bi lei qi	15
+摇臂	yao bi	133
+叶片	ye pian	134
+液位开关	ye wei kai guan	135
+异步电机	yi bu dian ji	137
+移动电源	yi dong dian yuan	136
+银触点	yin chu dian	17
+引出线	yin chu xian	18
+音频插头	yin pin cha tou	16
+音频插座	yin pin cha zuo	138
+音频线	yin pin xian	139
+音视频线	yin shi pin xian	140
+引线	yin xian	142
+音响线	yin xiang xian	141
+英标电源线	ying biao dian yuan xian	20
+应急充电器	ying ji chong dian qi	19
+英式插头	ying shi cha tou	143
+有线电视	you xian dian shi	144
+远红外	yuan hong wai	146
+元件盒	yuan jian he	145
+粘尘	zhan chen	147
+粘尘笔	zhan chen bi	148
+粘尘垫	zhan chen dian	149
+粘尘滚筒	zhan chen gun tong	150
+胀管器	zhang guan qi	152
+张力控制器	zhang li kong zhi qi	21
+罩极电机	zhao ji dian ji	153
+照明配电箱	zhao ming pei dian xiang	22
+振动开关	zhen dong kai guan	154
+震动开关	zhen dong kai guan	156
+振动盘	zhen dong pan	155
+震动盘	zhen dong pan	157
+真空接触器	zhen kong jie chu qi	23
+整流子	zheng liu zi	158
+直流电机	zhi liu dian ji	159
+直流电源	zhi liu dian yuan	160
+直流马达	zhi liu ma da	161
+指示灯	zhi shi deng	162
+指套	zhi tao	163
+助动车蓄电池	zhu dong che xu dian chi	24
+转换开关	zhuan huan kai guan	164
+自动控制	zi dong kong zhi	165
+自动送料	zi dong song liao	166
+自恢复保险丝	zi hui fu bao xian si	25
+组合开关	zu he kai guan	167

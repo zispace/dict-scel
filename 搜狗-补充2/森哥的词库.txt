@@ -1,0 +1,310 @@
+# 词库名称: 森哥的词库
+# 词库分类: 个人专用
+# 词库描述: 人名+专业+地名
+# 词条样例: 鬼叫、锤子、骡子、良爷、婷婷、瑜瑜
+# 解析词数: 303
+# 解析异常: 0
+
+安全系数	an quan xi shu	302
+奥氏体	ao shi ti	34
+白口铁	bai kou tie	28
+半导体元件	ban dao ti yuan jian	300
+板料冲压	ban liao chong ya	301
+变速器	bian su qi	299
+变速箱	bian su xiang	298
+变速箱体	bian su xiang ti	297
+变形	bian xing	296
+变形力	bian xing li	295
+变压器	bian ya qi	294
+标准件	biao zhun jian	293
+不定积分	bu ding ji fen	292
+步进电机	bu jin dian ji	291
+不鸟了	bu niao le	303
+残余应力	can yu ying li	290
+插齿	cha chi	289
+超声传感器	chao sheng chuan gan qi	288
+车床	che chuang	287
+车刀	che dao	286
+车架	che jia	285
+车间	che jian	284
+车削	che xiao	283
+尺寸标注	chi cun biao zhu	282
+齿顶	chi ding	23
+齿顶高	chi ding gao	11
+齿根	chi gen	22
+齿跟高	chi gen gao	10
+齿厚	chi hou	9
+齿距	chi ju	8
+齿廓	chi kuo	14
+齿轮	chi lun	281
+齿轮齿条	chi lun chi tiao	280
+齿轮加工	chi lun jia gong	279
+齿全高	chi quan gao	12
+齿数	chi shu	7
+触发器	chu fa qi	278
+传动	chuan dong	277
+传动比	chuan dong bi	4
+磁路	ci lu	276
+粗加工	cu jia gong	275
+淬火	cui huo	273
+淬火冷却	cui huo leng que	272
+脆性材料	cui xing cai liao	274
+挡板	dang ban	269
+导轨	dao gui	266
+刀尖	dao jian	268
+倒角	dao jiao	264
+刀具	dao ju	267
+导数微分	dao shu wei fen	265
+低副	di fu	1
+电动机	dian dong ji	263
+电化学腐蚀	dian hua xue fu shi	262
+电火花加工	dian huo hua jia gong	261
+电火花线切割加工	dian huo hua xian qie ge jia gong	260
+电路	dian lu	259
+垫片	dian pian	258
+垫圈	dian quan	257
+吊耳	diao er	42
+吊钩	diao gou	41
+定积分	ding ji fen	255
+定位	ding wei	254
+定义域	ding yi yu	253
+动力学	dong li xue	252
+动量	dong liang	251
+动能	dong neng	250
+断裂	duan lie	249
+二阶行列式	er jie hang lie shi	248
+阀门	fa men	246
+发生器	fa sheng qi	247
+范成法	fan cheng fa	244
+反馈	fan kui	245
+分度圆	fen du yuan	16
+分析力学	fen xi li xue	243
+负变位	fu bian wei	18
+腐蚀	fu shi	242
+概率	gai lv	241
+刚度	gang du	240
+刚度准则	gang du zhun ze	239
+高副	gao fu	2
+跟切	gen qie	6
+公差	gong cha	50
+工程技术人员	gong cheng ji shu ren yuan	238
+共轭曲线	gong e qu xian	233
+工件	gong jian	237
+共晶	gong jing	32
+功率	gong lv	235
+攻丝	gong si	234
+共析	gong xi	31
+共析钢	gong xi gang	30
+工业造型设计	gong ye zao xing she ji	236
+固态相变	gu tai xiang bian	232
+滚齿	gun chi	231
+滚动轴承	gun dong zhou cheng	230
+过盈配合	guo ying pei he	229
+合成进给运动	he cheng jin gei yun dong	228
+合成切削运动	he cheng qie xiao yun dong	227
+合成切削运动方向	he cheng qie xiao yun dong fang xiang	226
+合成纤维	he cheng xian wei	225
+桁架	heng jia	224
+后角	hou jiao	223
+滑动轴承	hua dong zhou cheng	222
+画法几何	hua fa ji he	221
+回火	hui huo	220
+集成电路	ji cheng dian lu	211
+机床	ji chuang	219
+机床夹具	ji chuang jia ju	218
+机电一体化	ji dian yi ti hua	217
+机盖	ji gai	40
+几何形状	ji he xing zhuang	210
+技术要求	ji shu yao qiu	209
+机械加工余量	ji xie jia gong yu liang	216
+机械零件	ji xie ling jian	215
+机械能守恒	ji xie neng shou heng	214
+机械制图	ji xie zhi tu	213
+基圆	ji yuan	15
+基准	ji zhun	212
+机座	ji zuo	39
+加工	jia gong	208
+加工中心	jia gong zhong xin	207
+键槽	jian cao	48
+渐开线	jian kai xian	17
+剪切	jian qie	206
+减速器	jian su qi	53
+绞刀	jiao dao	204
+绞孔	jiao kong	203
+交流电路	jiao liu dian lu	205
+结合剂	jie he ji	202
+截面	jie mian	201
+节圆	jie yuan	24
+介质	jie zhi	200
+进给方向	jin gei fang xiang	197
+进给运动	jin gei yun dong	196
+金属工艺学	jin shu gong yi xue	199
+金属切削	jin shu qie xiao	198
+精度	jing du	195
+精度等级	jing du deng ji	49
+精加工	jing jia gong	194
+静力学	jing li xue	193
+卡盘	ka pan	192
+可编程序逻辑控制器	ke bian cheng xu luo ji kong zhi qi	191
+可靠性	ke kao xing	190
+孔加工	kong jia gong	189
+拉床	la chuang	188
+拉孔	la kong	187
+拉伸	la shen	186
+冷加工	leng jia gong	185
+离合器	li he qi	184
+离散信号	li san xin hao	183
+联结	lian jie	182
+联轴器	lian zhou qi	181
+零件图	ling jian tu	180
+流体动力学	liu ti dong li xue	179
+流体力学	liu ti li xue	178
+龙门刨削	long men bao xue	177
+螺钉	luo ding	174
+逻辑代数	luo ji dai shu	176
+逻辑电路	luo ji dian lu	175
+螺母	luo mu	45
+螺栓	luo shuan	46
+螺纹	luo wen	173
+螺纹加工	luo wen jia gong	172
+螺旋	luo xuan	171
+螺柱	luo zhu	44
+马氏体	ma shi ti	37
+脉冲波形	mai chong bo xing	170
+毛坯	mao pi	169
+门电路	men dian lu	168
+摩擦	mo ca	167
+磨床	mo chuang	166
+磨粒	mo li	165
+模数	mo shu	47
+磨损	mo sun	164
+耐用度	nai yong du	161
+内力	nei li	163
+内圆磨削	nei yuan mo xue	162
+逆矩阵	ni ju zhen	160
+啮合角	nie he jiao	20
+扭力	niu li	159
+扭转	niu zhuan	158
+排列组合	pai lie zu he	157
+皮带	pi dai	156
+疲劳极限	pi lao ji xian	155
+偏微分	pian wei fen	154
+频率特性	pin lv te xing	153
+平刀	ping dao	56
+平底刀	ping di dao	55
+平面磨削	ping mian mo xue	152
+剖视图	pou shi tu	151
+气动夹紧	qi dong jia jin	150
+汽缸	qi gang	147
+气体状态方程	qi ti zhuang tai fang cheng	149
+气压	qi ya	148
+前刀面	qian dao mian	145
+千分尺	qian fen chi	146
+钳工	qian gong	143
+前角	qian jiao	144
+强度	qiang du	142
+切线	qie xian	141
+切削深度	qie xiao shen du	140
+求导	qiu dao	139
+球刀	qiu dao	59
+曲柄	qu bing	138
+曲率	qu lv	137
+热处理	re chu li	136
+热加工	re jia gong	135
+三相交流电	san xiang jiao liu dian	134
+砂轮	sha lun	133
+摄像头	she xiang tou	132
+渗碳	shen tan	131
+渗碳体	shen tan ti	36
+势能	shi neng	128
+视图	shi tu	127
+失效	shi xiao	130
+十字结联轴节	shi zi jie lian zhou jie	129
+数模	shu mo	126
+数学模型	shu xue mo xing	125
+伺服电机	si fu dian ji	123
+丝杠	si gang	124
+塑性变形	su xing bian xing	122
+随机变量	sui ji bian liang	121
+随机信号	sui ji xin hao	120
+弹簧	tan huang	271
+弹性	tan xing	270
+镗床	tang chuang	119
+陶瓷	tao ci	118
+套筒	tao tong	117
+调质	tiao zhi	256
+铁素体	tie su ti	35
+铁碳	tie tan	26
+铁碳合金相图	tie tan he jin xiang tu	25
+铁碳相图	tie tan xiang tu	27
+通气器	tong qi qi	43
+投影	tou ying	116
+凸轮	tu lun	115
+退刀槽	tui dao cao	38
+退火	tui huo	114
+脱碳	tuo tan	113
+外圆磨削	wai yuan mo xue	112
+弯曲应力	wan qu ying li	111
+位移	wei yi	110
+稳定性	wen ding xing	109
+蜗杆蜗轮	wo gan wo lun	108
+误差	wu cha	107
+铣床	xi chuang	106
+铣刀	xi dao	105
+铣削	xi xiao	104
+线性方程组	xian xing fang cheng zu	103
+相图	xiang tu	102
+响应	xiang ying	101
+斜齿圆柱齿轮	xie chi yuan zhu chi lun	100
+虚约束	xu yue shu	99
+悬架	xuan jia	98
+亚共析钢	ya gong xi gang	29
+压力角	ya li jiao	13
+压模	ya mu	97
+压缩	ya suo	96
+氧化	yang hua	95
+摇杆	yao gan	94
+液压	ye ya	93
+液压泵	ye ya beng	92
+液压传动机构	ye ya chuan dong ji gou	91
+液压驱动泵	ye ya qu dong beng	90
+异步电动机	yi bu dian dong ji	89
+硬度	ying du	87
+应力	ying li	88
+游标卡尺	you biao ka chi	85
+优化设计	you hua she ji	86
+油润滑	you run hua	51
+有色金属	you se jin shu	84
+有限元	you xian yuan	83
+余子式	yu zi shi	82
+圆鼻刀	yuan bi dao	57
+圆刀	yuan dao	58
+运动简图	yun dong jian tu	81
+运动学	yun dong xue	80
+载荷	zai he	79
+正变位	zheng bian wei	19
+正火	zheng huo	78
+正弦形的	zheng xian xing de	77
+直齿圆柱齿轮	zhi chi yuan zhu chi lun	76
+直齿锥齿轮	zhi chi zhui chi lun	75
+制动器	zhi dong qi	72
+直流电源	zhi liu dian yuan	74
+值域	zhi yu	73
+中心距	zhong xin ju	21
+中心钻	zhong xin zuan	54
+轴线	zhou xian	71
+珠光体	zhu guang ti	33
+主运动	zhu yun dong	70
+主运动方向	zhu yun dong fang xiang	69
+铸造	zhu zao	66
+主轴	zhu zhou	68
+主轴箱	zhu zhou xiang	67
+转向器	zhuan xiang qi	65
+装配	zhuang pei	64
+装配草图	zhuang pei cao tu	52
+装配图	zhuang pei tu	63
+自锁	zi suo	5
+自由度	zi you du	3
+组件	zu jian	62
+钻床	zuan chuang	61
+钻削镗削	zuan xue tang xue	60

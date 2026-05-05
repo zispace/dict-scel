@@ -1,0 +1,652 @@
+# 词库名称: 电信基站词库
+# 词库分类: 个人专用
+# 词库描述: 电信基站词库
+# 词条样例: 丽水雨伞岗、松阳三中、大梁山隧道丽水侧、缙云大源稠门、缙云杜桥、缙云上交岭
+# 解析词数: 645
+# 解析异常: 0
+
+大梁山隧道丽水侧	da liang shan sui dao li shui ce	640
+缙云白马水库	jin yun bai ma shui ku	134
+缙云白岩	jin yun bai yan	190
+缙云白竹	jin yun bai zhu	228
+缙云北山	jin yun bei shan	293
+缙云碧川	jin yun bi chuan	438
+缙云宾馆	jin yun bin guan	401
+缙云大源稠门	jin yun da yuan chou men	639
+缙云大源岭头	jin yun da yuan ling tou	152
+缙云大源杨村	jin yun da yuan yang cun	129
+缙云岱石	jin yun dai shi	440
+缙云电信大楼	jin yun dian xin da lou	624
+缙云鼎湖峰	jin yun ding hu feng	215
+缙云鼎龙小区	jin yun ding long xiao qu	282
+缙云东渡南湖	jin yun dong du nan hu	131
+缙云东渡雅宅	jin yun dong du ya zhai	34
+缙云东方岱石路口	jin yun dong fang dai shi lu kou	138
+缙云东方皋头	jin yun dong fang gao tou	128
+缙云杜桥	jin yun du qiao	638
+缙云方川	jin yun fang chuan	399
+缙云葛湖	jin yun ge hu	366
+缙云葛竹	jin yun ge zhu	193
+缙云古路	jin yun gu lu	214
+缙云河阳	jin yun he yang	365
+缙云洪庵	jin yun hong an	319
+缙云胡村	jin yun hu cun	227
+缙云壶镇北洪	jin yun hu zhen bei hong	191
+缙云壶镇苍岭脚	jin yun hu zhen cang ling jiao	166
+缙云壶镇梅树岙	jin yun hu zhen mei shu ao	130
+缙云壶镇南田	jin yun hu zhen nan tian	133
+缙云壶镇双溪口	jin yun hu zhen shuang xi kou	127
+缙云壶镇五里牌	jin yun hu zhen wu li pai	443
+缙云壶镇岩背	jin yun hu zhen yan bei	137
+缙云槐花树	jin yun huai hua shu	292
+缙云浣溪	jin yun huan xi	433
+缙云黄塘头	jin yun huang tang tou	321
+缙云笕川村	jin yun jian chuan cun	323
+缙云蛟坑	jin yun jiao keng	631
+缙云胪膛	jin yun lu tang	400
+缙云名山村	jin yun ming shan cun	632
+缙云木栗	jin yun mu li	226
+缙云凝碧	jin yun ning bi	192
+缙云七里	jin yun qi li	238
+缙云七里梅下	jin yun qi li mei xia	33
+缙云七里万松	jin yun qi li wan song	136
+缙云前金	jin yun qian jin	326
+缙云人民医院	jin yun ren min yi yuan	449
+缙云人武部	jin yun ren wu bu	279
+缙云溶江田洋	jin yun rong jiang tian yang	153
+缙云三湾	jin yun san wan	635
+缙云三溪	jin yun san xi	230
+缙云三溪岭	jin yun san xi ling	139
+缙云上湖	jin yun shang hu	325
+缙云上交岭	jin yun shang jiao ling	637
+缙云上周	jin yun shang zhou	322
+缙云沈宅	jin yun shen zhai	235
+缙云十五岭	jin yun shi wu ling	140
+缙云舒洪插花墩	jin yun shu hong cha hua dun	132
+缙云舒洪上坪	jin yun shu hong shang ping	135
+缙云双川	jin yun shuang chuan	280
+缙云双溪	jin yun shuang xi	430
+缙云寺根	jin yun si gen	178
+缙云泗山	jin yun si shan	295
+缙云松树岗	jin yun song shu gang	294
+缙云松树湖	jin yun song shu hu	296
+缙云湾潭	jin yun wan tan	636
+缙云万通汽贸	jin yun wan tong qi mao	629
+缙云吴岭	jin yun wu ling	324
+缙云五云黄龙	jin yun wu yun huang long	633
+缙云五云双龙	jin yun wu yun shuang long	634
+缙云五云谢山头	jin yun wu yun xie shan tou	35
+缙云下施村	jin yun xia shi cun	317
+缙云下杨	jin yun xia yang	154
+缙云仙都坐落坪	jin yun xian du zuo luo ping	316
+缙云小筠	jin yun xiao jun	229
+缙云新碧	jin yun xin bi	370
+缙云新碧碧川	jin yun xin bi bi chuan	217
+缙云新建鱼川	jin yun xin jian yu chuan	155
+缙云新建重力	jin yun xin jian zhong li	7
+缙云姓姚	jin yun xing yao	281
+缙云雅化路	jin yun ya hua lu	189
+缙云岩下	jin yun yan xia	318
+缙云杨梅园	jin yun yang mei yuan	237
+缙云邮政	jin yun you zheng	448
+缙云邮政新局	jin yun you zheng xin ju	623
+缙云玉岭头	jin yun yu ling tou	125
+缙云越陈	jin yun yue chen	320
+缙云张公桥	jin yun zhang gong qiao	446
+缙云兆岸	jin yun zhao an	213
+缙云周村	jin yun zhou cun	630
+缙云左库	jin yun zuo ku	236
+景宁白沙岱路口	jing ning bai sha dai lu kou	344
+景宁包凤	jing ning bao feng	620
+景宁包山铁矿	jing ning bao shan tie kuang	78
+景宁北溪张山凹隧道	jing ning bei xi zhang shan ao sui dao	614
+景宁标溪枫林口	jing ning biao xi feng lin kou	70
+景宁标溪预章	jing ning biao xi yu zhang	71
+景宁殡仪馆	jing ning bin yi guan	346
+景宁渤海岭根	jing ning bo hai ling gen	76
+景宁渤海新绿草	jing ning bo hai xin lv cao	75
+景宁城北	jing ning cheng bei	350
+景宁澄照	jing ning cheng zhao	452
+景宁大地	jing ning da di	598
+景宁大都	jing ning da dou	80
+景宁大际茶园	jing ning da ji cha yuan	14
+景宁东坑	jing ning dong keng	367
+景宁东坑公路段	jing ning dong keng gong lu duan	419
+景宁东坑龙井隧道	jing ning dong keng long jing sui dao	617
+景宁高沈	jing ning gao shen	11
+景宁古传	jing ning gu chuan	65
+景宁何村	jing ning he cun	220
+景宁鹤溪新村	jing ning he xi xin cun	353
+景宁后坪	jing ning hou ping	12
+景宁金惠小区	jing ning jin hui xiao qu	356
+景宁景南	jing ning jing nan	13
+景宁库头	jing ning ku tou	142
+景宁岭里村	jing ning ling li cun	345
+景宁龙潭背	jing ning long tan bei	619
+景宁鸬鹚	jing ning lu ci	261
+景宁麻岭头隧道	jing ning ma ling tou sui dao	77
+景宁毛垟	jing ning mao yang	262
+景宁毛洋燕安	jing ning mao yang yan an	68
+景宁梅坑	jing ning mei keng	602
+景宁门谭	jing ning men tan	260
+景宁民小	jing ning min xiao	352
+景宁三枝树	jing ning san zhi shu	263
+景宁沙湾大丘田	jing ning sha wan da qiu tian	10
+景宁沙湾交界圩	jing ning sha wan jiao jie xu	347
+景宁沙湾林坑	jing ning sha wan lin keng	67
+景宁沙湾上圩	jing ning sha wan shang xu	72
+景宁沙湾石梯	jing ning sha wan shi ti	73
+景宁沙湾下圩	jing ning sha wan xia xu	66
+景宁沙湾仙菇	jing ning sha wan xian gu	348
+景宁深洋	jing ning shen yang	543
+景宁石龙	jing ning shi long	600
+景宁双坑	jing ning shuang keng	354
+景宁双坑口	jing ning shuang keng kou	355
+景宁桃园	jing ning tao yuan	418
+景宁天堂隧道	jing ning tian tang sui dao	601
+景宁团结路	jing ning tuan jie lu	359
+景宁驮戥	jing ning tuo deng	141
+景宁外舍	jing ning wai she	358
+景宁梧桐秋兰口	jing ning wu tong qiu lan kou	79
+景宁西汇	jing ning xi hui	351
+景宁小地	jing ning xiao di	143
+景宁雁溪	jing ning yan xi	221
+景宁叶桥	jing ning ye qiao	423
+景宁英川金林	jing ning ying chuan jin lin	69
+景宁英川徐崇	jing ning ying chuan xu chong	74
+景宁淤记	jing ning yu ji	216
+景宁张庄	jing ning zhang zhuang	599
+景宁正达小区	jing ning zheng da xiao qu	349
+景宁郑坑	jing ning zheng keng	453
+丽水白岩村	li shui bai yan cun	309
+丽水白云花苑	li shui bai yun hua yuan	516
+丽水北埠	li shui bei bu	549
+丽水碧湖大源	li shui bi hu da yuan	212
+丽水碧湖郎奇	li shui bi hu lang qi	451
+丽水碧湖毛田	li shui bi hu mao tian	102
+丽水碧湖啤酒厂	li shui bi hu pi jiu chang	413
+丽水陈夺	li shui chen duo	206
+丽水传输局	li shui chuan shu ju	540
+丽水慈爱医院	li shui ci ai yi yuan	537
+丽水大港头	li shui da gang tou	529
+丽水大港头上庄村	li shui da gang tou shang zhuang cun	19
+丽水大港头下湾	li shui da gang tou xia wan	527
+丽水大坑村	li shui da keng cun	301
+丽水大梁山隧道青田侧	li shui da liang shan sui dao qing tian ce	195
+丽水东升北区	li shui dong sheng bei qu	314
+丽水峰源	li shui feng yuan	208
+丽水富岭	li shui fu ling	503
+丽水富岭前蛘	li shui fu ling qian yang	501
+丽水高溪	li shui gao xi	502
+丽水涫头	li shui guan tou	283
+丽水哈雷工业区	li shui ha lei gong ye qu	534
+丽水海潮大厦	li shui hai chao da sha	170
+丽水横岗村	li shui heng gang cun	300
+丽水后浦新村	li shui hou pu xin cun	535
+丽水黄村	li shui huang cun	417
+丽水黄村池岭	li shui huang cun chi ling	8
+丽水黄村水库	li shui huang cun shui ku	6
+丽水黄弄	li shui huang nong	239
+丽水黄田	li shui huang tian	151
+丽水火车站	li shui huo che zhan	548
+丽水火烧钵	li shui huo shao bo	514
+丽水贾坑尤山	li shui jia keng you shan	36
+丽水金马大厦	li shui jin ma da sha	538
+丽水金鸟	li shui jin niao	315
+丽水进修学校	li shui jin xiu xue xiao	536
+丽水九里	li shui jiu li	546
+丽水巨溪	li shui ju xi	207
+丽水括苍房产	li shui kuo cang fang chan	547
+丽水里东	li shui li dong	408
+丽水丽新西坑	li shui li xin xi keng	5
+丽水联城	li shui lian cheng	528
+丽水联城后弄	li shui lian cheng hou nong	31
+丽水联城坑口	li shui lian cheng keng kou	4
+丽水联济村	li shui lian ji cun	304
+丽水林校	li shui lin xiao	542
+丽水龙孔	li shui long kong	196
+丽水龙潭村	li shui long tan cun	308
+丽水马村	li shui ma cun	461
+丽水麻雀湾	li shui ma que wan	168
+丽水木杓坛	li shui mu biao tan	498
+丽水耐特鞋业	li shui nai te xie ye	531
+丽水南坑口	li shui nan keng kou	16
+丽水南山	li shui nan shan	504
+丽水牛岭头	li shui niu ling tou	545
+丽水农校	li shui nong xiao	505
+丽水排山	li shui pai shan	522
+丽水庞山毛山村	li shui pang shan mao shan cun	15
+丽水前山	li shui qian shan	530
+丽水浅田村	li shui qian tian cun	303
+丽水青林村	li shui qing lin cun	500
+丽水秋塘	li shui qiu tang	305
+丽水上陈	li shui shang chen	596
+丽水上南山	li shui shang nan shan	521
+丽水社后大桥	li shui she hou da qiao	533
+丽水石牛	li shui shi niu	450
+丽水石桥	li shui shi qiao	188
+丽水市区二院	li shui shi qu er yuan	523
+丽水双港口隧道	li shui shuang gang kou sui dao	20
+丽水双黄	li shui shuang huang	429
+丽水双溪	li shui shuang xi	524
+丽水水阁电信大楼	li shui shui ge dian xin da lou	459
+丽水水阁三星机械	li shui shui ge san xing ji xie	532
+丽水水南	li shui shui nan	519
+丽水松坑圩	li shui song keng xu	17
+丽水泰隆银行	li shui tai long yin hang	506
+丽水太平港号隧道	li shui tai ping gang hao sui dao	169
+丽水汤山村	li shui tang shan cun	306
+丽水卫校	li shui wei xiao	541
+丽水吾赤口村	li shui wu chi kou cun	18
+丽水五里亭	li shui wu li ting	517
+丽水吴源头村	li shui wu yuan tou cun	302
+丽水西黄村	li shui xi huang cun	313
+丽水西坑村	li shui xi keng cun	311
+丽水喜鹊垵	li shui xi que an	641
+丽水溪上村	li shui xi shang cun	307
+丽水西溪岩蒙	li shui xi xi yan meng	456
+丽水下章村	li shui xia zhang cun	297
+丽水现代广场大酒店	li shui xian dai guang chang da jiu dian	539
+丽水新丽中	li shui xin li zhong	515
+丽水学院	li shui xue yuan	299
+丽水杨山	li shui yang shan	240
+丽水邮电培训中心	li shui you dian pei xun zhong xin	520
+丽水尤源村	li shui you yuan cun	310
+丽水邮运	li shui you yun	415
+丽水余岭隧道	li shui yu ling sui dao	642
+丽水雨伞岗	li shui yu san gang	644
+丽水余庄前	li shui yu zhuang qian	499
+丽水张村街	li shui zhang cun jie	312
+丽水周村	li shui zhou cun	234
+丽水竹道村	li shui zhu dao cun	460
+龙泉安吉	long quan an ji	174
+龙泉安仁	long quan an ren	621
+龙泉安田	long quan an tian	250
+龙泉八都	long quan ba du	407
+龙泉白云山庄	long quan bai yun shan zhuang	257
+龙泉宝埂	long quan bao geng	627
+龙泉宝溪	long quan bao xi	458
+龙泉碧龙	long quan bi long	84
+龙泉查丰	long quan cha feng	396
+龙泉昌岗	long quan chang gang	628
+龙泉昌文	long quan chang wen	97
+龙泉城东	long quan cheng dong	625
+龙泉大白岸	long quan da bai an	457
+龙泉大酒店	long quan da jiu dian	405
+龙泉大田坪	long quan da tian ping	241
+龙泉大樟	long quan da zhang	172
+龙泉丁江	long quan ding jiang	85
+龙泉东大桥	long quan dong da qiao	420
+龙泉东书	long quan dong shu	253
+龙泉凤阳湖	long quan feng yang hu	94
+龙泉高大门	long quan gao da men	472
+龙泉蛤湖	long quan ge hu	615
+龙泉官蒲洋	long quan guan pu yang	618
+龙泉河村	long quan he cun	409
+龙泉花桥	long quan hua qiao	247
+龙泉荒村	long quan huang cun	242
+龙泉黄渡	long quan huang du	86
+龙泉黄源林隧道	long quan huang yuan lin sui dao	95
+龙泉黄庄桥	long quan huang zhuang qiao	83
+龙泉际头	long quan ji tou	90
+龙泉九姑山	long quan jiu gu shan	411
+龙泉均溪	long quan jun xi	245
+龙泉兰巨	long quan lan ju	255
+龙泉兰巨古田	long quan lan ju gu tian	256
+龙泉兰巨桐山	long quan lan ju tong shan	422
+龙泉林化厂	long quan lin hua chang	455
+龙泉林洋	long quan lin yang	406
+龙泉龙南叶村	long quan long nan ye cun	9
+龙泉木岱口	long quan mu dai kou	249
+龙泉排头	long quan pai tou	248
+龙泉披云山景区	long quan pi yun shan jing qu	81
+龙泉屏南瑞竹洋	long quan ping nan rui zhu yang	3
+龙泉瀑云	long quan pu yun	645
+龙泉青瓷工业园	long quan qing ci gong ye yuan	424
+龙泉瞿源	long quan qu yuan	626
+龙泉上凉亭	long quan shang liang ting	219
+龙泉上圩路口	long quan shang xu lu kou	291
+龙泉上垟	long quan shang yang	87
+龙泉上淤	long quan shang yu	1
+龙泉生源	long quan sheng yuan	173
+龙泉石马路口	long quan shi ma lu kou	288
+龙泉石退	long quan shi tui	252
+龙泉石柱亭	long quan shi zhu ting	89
+龙泉双平	long quan shuang ping	93
+龙泉泗源	long quan si yuan	233
+龙泉塔石	long quan ta shi	471
+龙泉天平	long quan tian ping	244
+龙泉万山路口	long quan wan shan lu kou	290
+龙泉王庄	long quan wang zhuang	82
+龙泉五贤门隧道	long quan wu xian men sui dao	91
+龙泉下田	long quan xia tian	243
+龙泉翔泰	long quan xiang tai	622
+龙泉小梅镇	long quan xiao mei zhen	421
+龙泉严山岭东	long quan yan shan ling dong	92
+龙泉严山岭西	long quan yan shan ling xi	616
+龙泉严山岭西高速	long quan yan shan ling xi gao su	88
+龙泉岩樟	long quan yan zhang	254
+龙泉杨梅岭	long quan yang mei ling	613
+龙泉皂口	long quan zao kou	96
+龙泉竹坑村	long quan zhu keng cun	289
+龙泉住龙	long quan zhu long	251
+龙泉住龙周调	long quan zhu long zhou tiao	2
+青田白蒲村	qing tian bai pu cun	470
+青田北岸	qing tian bei an	544
+青田北山岭根	qing tian bei shan ling gen	383
+青田船寮	qing tian chuan liao	526
+青田船寮洪府前	qing tian chuan liao hong fu qian	558
+青田船寮舒庄	qing tian chuan liao shu zhuang	416
+青田船寮乌坦	qing tian chuan liao wu tan	62
+青田大安	qing tian da an	222
+青田东江	qing tian dong jiang	468
+青田东三	qing tian dong san	387
+青田东源	qing tian dong yuan	388
+青田东源工业区	qing tian dong yuan gong ye qu	563
+青田房管大楼	qing tian fang guan da lou	512
+青田阜山	qing tian fu shan	386
+青田阜山陈宅	qing tian fu shan chen zhai	385
+青田港头	qing tian gang tou	509
+青田高湖镇	qing tian gao hu zhen	511
+青田高沙工业区	qing tian gao sha gong ye qu	64
+青田高市	qing tian gao shi	360
+青田高市洞背	qing tian gao shi dong bei	57
+青田广电大学	qing tian guang dian da xue	565
+青田癸山	qing tian gui shan	361
+青田海口松树下	qing tian hai kou song shu xia	160
+青田海口乌处	qing tian hai kou wu chu	156
+青田鹤城仁塘湾	qing tian he cheng ren tang wan	159
+青田洪岙	qing tian hong ao	467
+青田宏翔鞋业	qing tian hong xiang xie ye	165
+青田湖口头	qing tian hu kou tou	562
+青田华侨饭店	qing tian hua qiao fan dian	567
+青田季宅	qing tian ji zhai	232
+青田金田	qing tian jin tian	384
+青田腊口大转弯	qing tian la kou da zhuan wan	564
+青田腊口王岙	qing tian la kou wang ao	158
+青田李村	qing tian li cun	180
+青田良川	qing tian liang chuan	559
+青田粮食大厦	qing tian liang shi da sha	525
+青田内冯	qing tian nei feng	59
+青田平演工业区	qing tian ping yan gong ye qu	486
+青田前仓	qing tian qian cang	518
+青田秋芦	qing tian qiu lu	183
+青田泉山	qing tian quan shan	414
+青田仁川	qing tian ren chuan	465
+青田仁庄	qing tian ren zhuang	508
+青田仁庄半坑	qing tian ren zhuang ban keng	463
+青田仁庄小令	qing tian ren zhuang xiao ling	464
+青田山口电信大楼	qing tian shan kou dian xin da lou	560
+青田山口镇	qing tian shan kou zhen	510
+青田上本	qing tian shang ben	223
+青田石郭工业区	qing tian shi guo gong ye qu	507
+青田石塔工业区	qing tian shi ta gong ye qu	569
+青田石溪后烊村	qing tian shi xi hou yang cun	466
+青田舒桥	qing tian shu qiao	63
+青田水南电信大楼	qing tian shui nan dian xin da lou	566
+青田汤洋	qing tian tang yang	362
+青田万阜富塘	qing tian wan fu fu tang	163
+青田王村	qing tian wang cun	224
+青田温溪	qing tian wen xi	513
+青田温溪傍岸山	qing tian wen xi bang an shan	61
+青田温溪工业园	qing tian wen xi gong ye yuan	561
+青田温溪石洞	qing tian wen xi shi dong	164
+青田温溪新丽鞋业	qing tian wen xi xin li xie ye	161
+青田西寮	qing tian xi liao	462
+青田下井	qing tian xia jing	469
+青田小群	qing tian xiao qun	374
+青田小佐	qing tian xiao zuo	60
+青田瑶均	qing tian yao jun	98
+青田油竹	qing tian you zhu	364
+青田油竹小口	qing tian you zhu xiao kou	570
+青田油竹芝竹小区南区	qing tian you zhu zhi zhu xiao qu nan qu	157
+青田鱼渡村	qing tian yu du cun	58
+青田章旦	qing tian zhang dan	363
+青田桢旺	qing tian zhen wang	225
+青田朱山	qing tian zhu shan	179
+庆元安南	qing yuan an nan	204
+庆元包果村	qing yuan bao guo cun	480
+庆元长砻	qing yuan chang long	42
+庆元出水岙	qing yuan chu shui ao	41
+庆元大济	qing yuan da ji	612
+庆元二中	qing yuan er zhong	410
+庆元富林村	qing yuan fu lin cun	484
+庆元岗后洋	qing yuan gang hou yang	101
+庆元高大	qing yuan gao da	611
+庆元葛田	qing yuan ge tian	40
+庆元官塘	qing yuan guan tang	604
+庆元广电大楼	qing yuan guang dian da lou	402
+庆元荷地	qing yuan he di	398
+庆元荷地底墅	qing yuan he di di shu	175
+庆元合湖	qing yuan he hu	606
+庆元合湖黄水村	qing yuan he hu huang shui cun	45
+庆元后仓坑	qing yuan hou cang keng	477
+庆元黄坑	qing yuan huang keng	258
+庆元黄泥弄	qing yuan huang ni nong	603
+庆元黄田	qing yuan huang tian	395
+庆元黄田黄源底	qing yuan huang tian huang yuan di	49
+庆元黄田上洋	qing yuan huang tian shang yang	47
+庆元黄田台湖	qing yuan huang tian tai hu	46
+庆元黄田桐山	qing yuan huang tian tong shan	48
+庆元黄田仙庄	qing yuan huang tian xian zhuang	50
+庆元会溪	qing yuan hui xi	412
+庆元久住洋	qing yuan jiu zhu yang	38
+庆元举水	qing yuan ju shui	605
+庆元举水杉源	qing yuan ju shui shan yuan	43
+庆元菊水镇	qing yuan ju shui zhen	394
+庆元岚头	qing yuan lan tou	476
+庆元兰溪桥电站	qing yuan lan xi qiao dian zhan	473
+庆元兰溪桥水库	qing yuan lan xi qiao shui ku	609
+庆元栗树洋	qing yuan li shu yang	51
+庆元莲花村	qing yuan lian hua cun	481
+庆元良秋	qing yuan liang qiu	488
+庆元岭头	qing yuan ling tou	30
+庆元龙溪	qing yuan long xi	607
+庆元龙岩	qing yuan long yan	37
+庆元落岭村	qing yuan luo ling cun	479
+庆元马家地	qing yuan ma jia di	474
+庆元美丘	qing yuan mei qiu	52
+庆元南坑	qing yuan nan keng	100
+庆元南阳	qing yuan nan yang	286
+庆元蓬桥	qing yuan peng qiao	608
+庆元蒲潭	qing yuan pu tan	231
+庆元山翠湾	qing yuan shan cui wan	482
+庆元杉树湾	qing yuan shan shu wan	54
+庆元十八卡	qing yuan shi ba ka	487
+庆元石川	qing yuan shi chuan	483
+庆元石井	qing yuan shi jing	610
+庆元四山	qing yuan si shan	597
+庆元苏湖	qing yuan su hu	287
+庆元塘根	qing yuan tang gen	39
+庆元同德	qing yuan tong de	176
+庆元同济	qing yuan tong ji	29
+庆元万里林	qing yuan wan li lin	397
+庆元五大堡	qing yuan wu da bao	211
+庆元五都	qing yuan wu dou	393
+庆元梧桐垟	qing yuan wu tong yang	177
+庆元下际	qing yuan xia ji	53
+庆元小安	qing yuan xiao an	218
+庆元新窑	qing yuan xin yao	99
+庆元杨家庄	qing yuan yang jia zhuang	478
+庆元杨楼	qing yuan yang lou	485
+庆元杨桥	qing yuan yang qiao	475
+庆元淤上	qing yuan yu shang	259
+庆元朱黄	qing yuan zhu huang	203
+庆元竹口岩后	qing yuan zhu kou yan hou	44
+庆元竹山	qing yuan zhu shan	205
+松阳安民	song yang an min	201
+松阳坳后	song yang ao hou	278
+松阳板桥	song yang ban qiao	246
+松阳曹竹	song yang cao zhu	272
+松阳城东电信局	song yang cheng dong dian xin ju	442
+松阳大东坝	song yang da dong ba	432
+松阳大东坝镇五部	song yang da dong ba zhen wu bu	123
+松阳大岭头	song yang da ling tou	341
+松阳大樟源口	song yang da zhang yuan kou	202
+松阳岱头	song yang dai tou	200
+松阳二滩坝	song yang er tan ba	270
+松阳枫坪	song yang feng ping	454
+松阳枫坪坳下	song yang feng ping ao xia	124
+松阳古市七村	song yang gu shi qi cun	593
+松阳官岭	song yang guan ling	122
+松阳横岗	song yang heng gang	572
+松阳后周包	song yang hou zhou bao	592
+松阳黄坑口	song yang huang keng kou	162
+松阳检察院	song yang jian cha yuan	276
+松阳靖居口	song yang jing ju kou	269
+松阳楼塘	song yang lou tang	589
+松阳鲁峰	song yang lu feng	338
+松阳鲁西	song yang lu xi	32
+松阳馒头山	song yang man tou shan	375
+松阳毛弄	song yang mao nong	126
+松阳内孟	song yang nei meng	268
+松阳牛角圩	song yang niu jiao xu	277
+松阳潘村	song yang pan cun	588
+松阳潘山头	song yang pan shan tou	274
+松阳三都酉田	song yang san du you tian	339
+松阳三中	song yang san zhong	643
+松阳山仁下	song yang shan ren xia	340
+松阳石仓	song yang shi cang	447
+松阳师范	song yang shi fan	171
+松阳市口	song yang shi kou	342
+松阳水车	song yang shui che	595
+松阳水南	song yang shui nan	441
+松阳水竹	song yang shui zhu	337
+松阳四都乡	song yang si dou xiang	591
+松阳四都乡政府	song yang si dou xiang zheng fu	571
+松阳塘寮	song yang tang liao	343
+松阳土管	song yang tu guan	382
+松阳外石塘	song yang wai shi tang	327
+松阳西坌	song yang xi ben	380
+松阳象溪镇	song yang xiang xi zhen	381
+松阳新华小区	song yang xin hua xiao qu	590
+松阳雅溪口	song yang ya xi kou	445
+松阳燕田	song yang yan tian	271
+松阳洋坑	song yang yang keng	273
+松阳叶村	song yang ye cun	444
+松阳玉岩大丘下	song yang yu yan da qiu xia	121
+松阳章山岭脚	song yang zhang shan ling jiao	594
+松阳庄后	song yang zhuang hou	284
+遂昌安口徐村	sui chang an kou xu cun	103
+遂昌坳下	sui chang ao xia	194
+遂昌北界白水新村	sui chang bei jie bai shui xin cun	104
+遂昌北界周村	sui chang bei jie zhou cun	587
+遂昌北门	sui chang bei men	439
+遂昌大毛头	sui chang da mao tou	583
+遂昌大桥工业园	sui chang da qiao gong ye yuan	435
+遂昌大田	sui chang da tian	586
+遂昌大柘叶村	sui chang da zhe ye cun	573
+遂昌东峰	sui chang dong feng	328
+遂昌东梅	sui chang dong mei	335
+遂昌东门村	sui chang dong men cun	336
+遂昌二级电站	sui chang er ji dian zhan	578
+遂昌飞石岭	sui chang fei shi ling	378
+遂昌枫树弄	sui chang feng shu nong	109
+遂昌钢铁厂	sui chang gang tie chang	437
+遂昌高坪淡竹	sui chang gao ping dan zhu	106
+遂昌葛程	sui chang ge cheng	111
+遂昌关川	sui chang guan chuan	330
+遂昌红星坪	sui chang hong xing ping	120
+遂昌湖山	sui chang hu shan	371
+遂昌湖山建洋	sui chang hu shan jian yang	110
+遂昌华洋	sui chang hua yang	119
+遂昌黄沙腰大洞源	sui chang huang sha yao da dong yuan	404
+遂昌黄沙腰大熟	sui chang huang sha yao da shu	105
+遂昌尖楼	sui chang jian lou	331
+遂昌焦滩	sui chang jiao tan	197
+遂昌金岙	sui chang jin ao	118
+遂昌金矿	sui chang jin kuang	436
+遂昌九前岭	sui chang jiu qian ling	329
+遂昌坑里	sui chang keng li	117
+遂昌裤腰	sui chang ku yao	116
+遂昌龙口	sui chang long kou	265
+遂昌龙门岭	sui chang long men ling	55
+遂昌龙潭	sui chang long tan	581
+遂昌龙洋	sui chang long yang	266
+遂昌螺丝安	sui chang luo si an	332
+遂昌马头岭	sui chang ma tou ling	585
+遂昌茗月山庄	sui chang ming yue shan zhuang	580
+遂昌南尖岩	sui chang nan jian yan	576
+遂昌排前	sui chang pai qian	114
+遂昌清水源	sui chang qing shui yuan	575
+遂昌青云岭隧道南	sui chang qing yun ling sui dao nan	113
+遂昌三墩桥	sui chang san dun qiao	181
+遂昌沙口	sui chang sha kou	198
+遂昌石练	sui chang shi lian	379
+遂昌石笋头	sui chang shi sun tou	377
+遂昌双坑	sui chang shuang keng	199
+遂昌双溪口	sui chang shuang xi kou	577
+遂昌苏村	sui chang su cun	584
+遂昌梭溪	sui chang suo xi	267
+遂昌梭溪桥	sui chang suo xi qiao	376
+遂昌塘岭头	sui chang tang ling tou	56
+遂昌五里亭	sui chang wu li ting	582
+遂昌西岱	sui chang xi dai	115
+遂昌西畈	sui chang xi fan	403
+遂昌下马	sui chang xia ma	373
+遂昌小岱	sui chang xiao dai	334
+遂昌新路湾	sui chang xin lu wan	372
+遂昌洋八坳	sui chang yang ba ao	264
+遂昌洋浩	sui chang yang hao	579
+遂昌洋条岭	sui chang yang tiao ling	574
+遂昌洋条岭老收费站	sui chang yang tiao ling lao shou fei zhan	112
+遂昌叶坦山	sui chang ye tan shan	434
+遂昌叶坦山安置小区	sui chang ye tan shan an zhi xiao qu	333
+遂昌应村	sui chang ying cun	357
+遂昌应村汀溪	sui chang ying cun ting xi	108
+遂昌柘岱口	sui chang zhe dai kou	182
+遂昌柘代口尹家	sui chang zhe dai kou yin jia	107
+云和城东	yun he cheng dong	555
+云和城西	yun he cheng xi	497
+云和赤石	yun he chi shi	425
+云和赤石库北	yun he chi shi ku bei	551
+云和赤石麻洋	yun he chi shi ma yang	285
+云和崇头杉板坑	yun he chong tou shan ban keng	22
+云和崇头岩下	yun he chong tou yan xia	23
+云和东山下	yun he dong shan xia	568
+云和独山	yun he du shan	391
+云和高婿	yun he gao xu	389
+云和供销社	yun he gong xiao she	428
+云和贵庄	yun he gui zhuang	550
+云和黄坑口	yun he huang keng kou	493
+云和黄源	yun he huang yuan	144
+云和黄庄	yun he huang zhuang	26
+云和紧水滩	yun he jin shui tan	390
+云和紧水滩大牛	yun he jin shui tan da niu	25
+云和局村	yun he ju cun	368
+云和坑下	yun he keng xia	146
+云和岚头岭隧道	yun he lan tou ling sui dao	557
+云和蓝照坝	yun he lan zhao ba	492
+云和李山前	yun he li shan qian	298
+云和柳山头	yun he liu shan tou	145
+云和垄头	yun he long tou	184
+云和梅湾	yun he mei wan	275
+云和梅源梯田	yun he mei yuan ti tian	495
+云和木垟	yun he mu yang	28
+云和农民新村	yun he nong min xin cun	427
+云和桥头	yun he qiao tou	186
+云和三坑岭	yun he san keng ling	554
+云和桑岭	yun he sang ling	489
+云和山脚村	yun he shan jiao cun	209
+云和上岗山	yun he shang gang shan	21
+云和烧基	yun he shao ji	210
+云和石塘坪地	yun he shi tang ping di	24
+云和石塘镇	yun he shi tang zhen	369
+云和外洋	yun he wai yang	185
+云和仙宫景区	yun he xian gong jing qu	149
+云和象山	yun he xiang shan	392
+云和小顺	yun he xiao shun	426
+云和小顺板栗基地	yun he xiao shun ban li ji di	490
+云和杨柳工业园二期	yun he yang liu gong ye yuan er qi	431
+云和叶洋	yun he ye yang	494
+云和荫岩	yun he yin yan	187
+云和云丰	yun he yun feng	167
+云和云坛竹坑	yun he yun tan zhu keng	552
+云和云章下垟	yun he yun zhang xia yang	27
+云和张化	yun he zhang hua	496
+云和张兰	yun he zhang lan	147
+云和芝畈村	yun he zhi fan cun	491
+云和朱岭头隧道北	yun he zhu ling tou sui dao bei	556
+云和竹子坪	yun he zhu zi ping	148
+云和庄前	yun he zhuang qian	553
+云和梓坊	yun he zi fang	150

@@ -1,0 +1,570 @@
+# 词库名称: 百度歌榜
+# 词库分类: 流行音乐
+# 词库描述: 百度歌曲TOP500 + 百度新歌TOP100
+# 词条样例: 一个人睡、一千年以后、一千零一夜、一场游戏一场梦、一起走过的日子、丁香花
+# 解析词数: 563
+# 解析异常: 0
+
+爱	ai	189
+爱超越	ai chao yue	163
+爱大了受伤了	ai da le shou shang le	179
+爱的路上只有我和你	ai de lu shang zhi you wo he ni	166
+爱海滔滔	ai hai tao tao	167
+爱很简单	ai hen jian dan	175
+爱江山更爱美人	ai jiang shan geng ai mei ren	168
+爱就一个字	ai jiu yi ge zi	176
+暧昧	ai mei	246
+爱你	ai ni	185
+爱你不是两三天	ai ni bu shi liang san tian	183
+爱你一万年	ai ni yi wan nian	184
+爱情转移	ai qing zhuan yi	174
+爱人	ai ren	186
+爱如潮水	ai ru chao shui	178
+爱如空气	ai ru kong qi	177
+爱上你我很快乐	ai shang ni wo hen kuai le	188
+爱上洋葱	ai shang yang cong	187
+爱死了昨天	ai si le zuo tian	169
+爱我别走	ai wo bie zou	173
+爱我的人和我爱的人	ai wo de ren he wo ai de ren	171
+爱我还是他	ai wo hai shi ta	170
+爱我就别伤害我	ai wo jiu bie shang hai wo	172
+爱笑的眼睛	ai xiao de yan jing	165
+哎呀	ai ya	421
+爱要怎么说出口	ai yao zen me shuo chu kou	164
+爱在蔓延中	ai zai man yan zhong	181
+爱在西元前	ai zai xi yuan qian	180
+爱在现实面前	ai zai xian shi mian qian	182
+爱转角	ai zhuan jiao	162
+暗号	an hao	247
+安静	an jing	367
+爸爸妈妈	ba ba ma ma	160
+白色恋人	bai se lian ren	137
+白月光	bai yue guang	138
+宝贝	bao bei	364
+宝贝对不起	bao bei dui bu qi	363
+包袱	bao fu	454
+被风吹过的夏天	bei feng chui guo de xia tian	69
+北极星的眼泪	bei ji xing de yan lei	453
+被你爱过我很快乐	bei ni ai guo wo hen kuai le	70
+奔跑	ben pao	383
+笔记	bi ji	111
+边做边爱	bian zuo bian ai	46
+表白	biao bai	71
+表演	biao yan	72
+别怕我伤心	bie pa wo shang xin	458
+别说我的眼泪你无所谓	bie shuo wo de yan lei ni wu suo wei	457
+冰雨	bing yu	465
+啵一个	bo yi ge	417
+不得不爱	bu de bu ai	532
+不敢哭	bu gan ku	527
+不会分离	bu hui fen li	536
+布拉格广场	bu la ge guang chang	344
+不能说的秘密	bu neng shuo de mi mi	525
+不怕不怕	bu pa bu pa	531
+不如跳舞	bu ru tiao wu	533
+不是我的我不要	bu shi wo de wo bu yao	526
+不想懂得	bu xiang dong de	530
+不想让你哭	bu xiang rang ni ku	529
+不想长大	bu xiang zhang da	528
+不要再来伤害我	bu yao zai lai shang hai wo	524
+不再犹豫	bu zai you yu	534
+不值得	bu zhi de	535
+彩虹	cai hong	333
+彩虹天堂	cai hong tian tang	332
+沧海一声笑	cang hai yi sheng xiao	206
+曹操	cao cao	245
+曾经爱过你	ceng jing ai guo ni	243
+曾经的你	ceng jing de ni	242
+曾经最美	ceng jing zui mei	244
+差一点	cha yi dian	345
+痴心绝对	chi xin jue dui	139
+崇拜	chong bai	348
+冲动的惩罚	chong dong de cheng fa	463
+冲动是魔鬼	chong dong shi mo gui	464
+重来	chong lai	30
+触电	chu dian	65
+出神入化	chu shen ru hua	462
+窗外	chuang wai	114
+吹眼睛	chui yan jing	424
+春泥	chun ni	252
+刺心	ci xin	456
+从开始到现在	cong kai shi dao xian zai	499
+从头再来	cong tou zai lai	500
+错在聪明	cuo zai cong ming	28
+大城小爱	da cheng xiao ai	402
+大地	da di	403
+大哥	da ge	404
+大海	da hai	401
+大舌头	da she tou	399
+大约在冬季	da yue zai dong ji	400
+单车恋人	dan che lian ren	443
+单身情歌	dan shen qing ge	444
+单向的爱	dan xiang de ai	445
+当爱在靠近	dang ai zai kao jin	334
+当你孤单你会想起谁	dang ni gu dan ni hui xiang qi shei	336
+当你离开的时候	dang ni li kai de shi hou	335
+倒带	dao dai	483
+等爱的玫瑰	deng ai de mei gui	107
+帝王之恋	di wang zhi lian	342
+第一次	di yi ci	110
+第一次爱的人	di yi ci ai de ren	109
+第一滴泪	di yi di lei	108
+电台情歌	dian tai qing ge	143
+丁香花	ding xiang hua	546
+东风破	dong feng po	518
+东南西北风	dong nan xi bei feng	519
+都怪我	dou guai wo	32
+斗牛要不要	dou niu yao bu yao	269
+独角戏	du jiao xi	154
+独立	du li	155
+独一无二	du yi wu er	156
+断点	duan dian	268
+对不起我爱你	dui bu qi wo ai ni	356
+发如雪	fa ru xue	436
+发现爱	fa xian ai	435
+反转地球	fan zhuan di qiu	437
+放开	fang kai	270
+飞鸟	fei niao	11
+飞舞	fei wu	12
+分飞	fen fei	459
+分开旅行	fen kai lv xing	461
+愤怒的情人	fen nu de qing ren	312
+分手快乐	fen shou kuai le	460
+枫	feng	220
+风雨无阻	feng yu wu zu	15
+夫妻脸	fu qi lian	385
+父亲	fu qin	161
+该死的温柔	gai si de wen rou	56
+感恩的心	gan en de xin	313
+高原红	gao yuan hong	8
+搁浅	ge qian	271
+恭喜发财	gong xi fa cai	319
+孤单北半球	gu dan bei ban qiu	369
+蛊惑	gu huo	76
+光	guang	473
+广岛之恋	guang dao zhi lian	340
+光辉岁月	guang hui sui yue	471
+光荣	guang rong	472
+轨迹	gui ji	47
+过火	guo huo	45
+海阔天空	hai kuo tian kong	202
+还有我	hai you wo	44
+好姑娘	hao gu niang	378
+好久不见	hao jiu bu jian	380
+好聚好散	hao ju hao san	376
+好男人	hao nan ren	377
+好听	hao ting	379
+黑蝙蝠中队	hei bian fu zhong dui	2
+黑色毛衣	hei se mao yi	3
+黑色幽默	hei se you mo	4
+很爱很爱你	hen ai hen ai ni	331
+红豆	hong dou	102
+红日	hong ri	103
+红颜	hong yan	101
+后来	hou lai	426
+蝴蝶	hu die	74
+蝴蝶泉边	hu die quan bian	73
+狐狸精	hu li jing	157
+花田错	hua tian cuo	87
+花香	hua xiang	86
+坏女人	huai nv ren	407
+黄昏	huang hun	6
+黄种人	huang zhong ren	5
+回到过去	hui dao guo qu	413
+灰姑娘	hui gu niang	193
+会呼吸的痛	hui hu xi de tong	497
+回家	hui jia	412
+回来我的爱	hui lai wo de ai	410
+灰色空间	hui se kong jian	191
+灰色幸福	hui se xing fu	192
+回心转意	hui xin zhuan yi	411
+婚礼进行曲	hun li jin xing qu	371
+霍元甲	huo yuan jia	20
+寂寞才说爱	ji mo cai shuo ai	359
+寂寞沙洲冷	ji mo sha zhou leng	358
+寂寞在唱歌	ji mo zai chang ge	360
+记事本	ji shi ben	60
+假如	jia ru	477
+简单爱	jian dan ai	106
+讲不出再见	jiang bu chu zai jian	59
+将军令	jiang jun ling	355
+江南	jiang nan	207
+借口	jie kou	481
+睫毛弯弯	jie mao wan wan	130
+解脱	jie tuo	66
+今天	jin tian	502
+今天你要嫁给我	jin tian ni yao jia gei wo	501
+精忠报国	jing zhong bao guo	104
+就是爱你	jiu shi ai ni	350
+九十九次我爱他	jiu shi jiu ci wo ai ta	507
+就算没有明天	jiu suan mei you ming tian	349
+菊花台	ju hua tai	83
+倦鸟余花	juan niao yu hua	480
+诀别诗	jue bie shi	57
+绝不放手	jue bu fang shou	98
+倔强	jue jiang	482
+军中绿花	jun zhong lv hua	466
+开不了口	kai bu liao kou	338
+开始懂了	kai shi dong le	337
+康定情歌	kang ding qing ge	339
+客串情人	ke chuan qing ren	362
+可惜不是你	ke xi bu shi ni	430
+空前绝后	kong qian jue hou	116
+快乐崇拜	kuai le chong bai	324
+快乐童话	kuai le tong hua	323
+来生缘	lai sheng yuan	221
+滥赌鬼	lan du gui	198
+蓝鲸	lan jing	77
+蓝莲花	lan lian hua	78
+蓝色土耳其	lan se tu er qi	79
+狼爱上羊	lang ai shang yang	153
+浪漫手机	lang man shou ji	203
+浪人情歌	lang ren qing ge	204
+老人与海	lao ren yu hai	92
+乐园	le yuan	508
+离别	li bie	121
+离歌	li ge	120
+恋爱达人	lian ai da ren	320
+连哭都是我的错	lian ku dou shi wo de cuo	42
+练习	lian xi	99
+两个人	liang ge ren	516
+两只蝴蝶	liang zhi hu die	515
+梁祝	liang zhu	217
+流年	liu nian	205
+留什么给你	liu shen me gei ni	140
+六月的雨	liu yue de yu	470
+龙的传人	long de chuan ren	1
+路太弯	lu tai wan	49
+落叶归根	luo ye gui gen	81
+绿光	lv guang	97
+漫步人生路	man bu ren sheng lu	196
+眉飞色舞	mei fei se wu	134
+美丽的神话	mei li de shen hua	95
+美丽心情	mei li xin qing	96
+美人鱼	mei ren yu	94
+梦里花	meng li hua	216
+面具	mian ju	16
+明天会更好	ming tian hui geng hao	257
+命运	ming yun	422
+莫斯科没有眼泪	mo si ke mei you yan lei	84
+牡丹江	mu dan jiang	158
+木偶	mu ou	223
+母亲	mu qin	211
+那么爱你为什么	na me ai ni wei shen me	36
+那女孩对我说	na nv hai dui wo shuo	34
+那片海	na pian hai	33
+那些花儿	na xie hua er	35
+那一夜	na yi ye	37
+哪一站	na yi zhan	419
+难道爱一个人有错吗	nan dao ai yi ge ren you cuo ma	23
+男儿当自强	nan er dang zi qiang	141
+男人海洋	nan ren hai yang	142
+能不能勇敢说爱	neng bu neng yong gan shuo ai	91
+你	ni	495
+你到底爱谁	ni dao di ai shui	493
+你的承诺	ni de cheng nuo	487
+你的样子	ni de yang zi	486
+你给的坚强	ni gei de jian qiang	485
+你好吗	ni hao ma	492
+你是我的玫瑰花	ni shi wo de mei gui hua	490
+你一定要幸福	ni yi ding yao xing fu	494
+你怎么舍得我难过	ni zen me she de wo nan guo	491
+你最近还好吗	ni zui jin hai hao ma	488
+你最珍贵	ni zui zhen gui	489
+宁夏	ning xia	368
+牛仔很忙	niu zai hen mang	159
+怒放的生命	nu fang de sheng ming	322
+暖光	nuan guang	249
+暖暖	nuan nuan	248
+挪威的森林	nuo wei de sen lin	272
+女人花	nv ren hua	382
+潘帕斯之舞	pan pa si zhi wu	194
+朋友	peng you	225
+朋友别哭	peng you bie ku	224
+披着羊皮的狼	pi zhe yang pi de lang	274
+偏偏喜欢你	pian pian xi huan ni	476
+漂浮地铁	piao fu di tie	197
+飘飘	piao piao	13
+飘雪	piao xue	14
+萍聚	ping ju	82
+蒲公英的约定	pu gong ying de yue ding	80
+祈祷	qi dao	125
+七里香	qi li xiang	542
+其实我一直想对你说	qi shi wo yi zhi xiang dui ni shuo	469
+七天七世纪	qi tian qi shi ji	545
+七月	qi yue	544
+七月七日晴	qi yue qi ri qing	543
+千里之外	qian li zhi wai	446
+千年等一回	qian nian deng yi hui	448
+千年泪	qian nian lei	449
+千年之恋	qian nian zhi lian	450
+倩女幽魂	qian nv you hun	479
+千千阙歌	qian qian que ge	451
+千纸鹤	qian zhi he	447
+亲爱的你怎么不在我身边	qin ai de ni zen me bu zai wo shen bian	505
+情非得已	qing fei de yi	317
+青花	qing hua	19
+青花瓷	qing hua ci	18
+情书	qing shu	318
+青藏高原	qing zang gao yuan	17
+穷开心	qiong kai xin	117
+求佛	qiu fo	208
+秋天不回来	qiu tian bu hui lai	118
+鹊桥汇	que qiao hui	7
+让泪化作相思雨	rang lei hua zuo xiang si yu	61
+让我欢喜让我忧	rang wo huan xi rang wo you	63
+让我看着你	rang wo kan zhe ni	62
+热浪	re lang	190
+认真的雪	ren zhen de xue	64
+日不落	ri bu luo	259
+日落前七分钟	ri luo qian qi fen zhong	258
+容易受伤的女人	rong yi shou shang de nv ren	361
+如果爱下去	ru guo ai xia qu	374
+如果的事	ru guo de shi	373
+如果你也听说	ru guo ni ye ting shuo	375
+如果这都不算爱	ru guo zhe dou bu suan ai	372
+三吋日光	san cun ri guang	540
+三个心愿	san ge xin yuan	541
+三国恋	san guo lian	539
+傻瓜	sha gua	475
+杀手	sha shou	222
+珊瑚海	shan hu hai	150
+上海滩	shang hai tan	538
+伤心太平洋	shang xin tai ping yang	496
+什么都可以	shen me dou ke yi	504
+什么都没有发生过	shen me dou mei you fa sheng guo	503
+生活的颜色	sheng huo de yan se	144
+生日快乐	sheng ri kuai le	146
+生日礼物	sheng ri li wu	145
+盛夏的果实	sheng xia de guo shi	136
+是非题	shi fei ti	250
+世界第一等	shi jie di yi deng	520
+世界末日	shi jie mo ri	521
+世界有你有我	shi jie you ni you wo	522
+十年	shi nian	452
+手放开	shou fang kai	277
+受了点伤	shou le dian shang	434
+双截棍	shuang jie gun	439
+双鱼座	shuang yu zuo	438
+谁动了我的琴弦	shui dong le wo de qin xian	53
+谁还敢爱这个人	shui hai gan ai zhe ge ren	52
+水晶	shui jing	209
+水手	shui shou	210
+瞬间	shun jian	129
+说爱你	shuo ai ni	54
+说你爱我	shuo ni ai wo	55
+私奔	si ben	119
+死了都要爱	si le dou yao ai	214
+丝路	si lu	517
+思念是一种病	si nian shi yi zhong bing	321
+死心塌地	si xin ta di	213
+死性不改	si xing bu gai	212
+算你狠	suan ni hen	105
+她的空房间	ta de kong fang jian	381
+踏浪	ta lang	48
+太委屈	tai wei qu	387
+太早	tai zao	386
+桃花朵朵开	tao hua duo duo kai	219
+桃花源	tao hua yuan	218
+天黑黑	tian hei hei	388
+天空	tian kong	390
+天亮了	tian liang le	397
+天路	tian lu	389
+甜蜜蜜	tian mi mi	147
+天生反骨	tian sheng fan gu	391
+天使	tian shi	396
+天使的翅膀	tian shi de chi bang	395
+天堂	tian tang	394
+甜甜的	tian tian de	148
+天下无双	tian xia wu shuang	398
+天涯	tian ya	392
+天意	tian yi	393
+铁血丹心	tie xue dan xin	29
+听妈妈的话	ting ma ma de hua	425
+童话	tong hua	112
+童年	tong nian	113
+同一首歌	tong yi shou ge	428
+同桌的你	tong zhuo de ni	427
+头号粉丝	tou hao fen si	384
+投名状	tou ming zhuang	276
+荼靡时代	tu mi shi dai	85
+突然的自我	tu ran de zi wo	115
+退后	tui hou	40
+玩酷	wan ku	151
+完美故事	wan mei gu shi	365
+完美世界	wan mei shi jie	366
+忘了怎么哭	wang le zen me ku	325
+王子	wang zi	152
+为爱痴狂	wei ai chi kuang	510
+为爱停留	wei ai ting liu	511
+围城	wei cheng	409
+为了谁	wei le shui	513
+为什么相爱的人不能在一起	wei shen me xiang ai de ren bu neng zai yi qi	512
+为谁疯狂	wei shui feng kuang	509
+唯一	wei yi	418
+吻别	wen bie	423
+温柔	wen rou	200
+温柔的慈悲	wen rou de ci bei	199
+我爱你	wo ai ni	288
+我不恨你	wo bu hen ni	307
+我不后悔	wo bu hou hui	308
+我不会唱歌	wo bu hui chang ge	309
+我不介意你恨我	wo bu jie yi ni hen wo	310
+我不配	wo bu pei	306
+我的答铃	wo de da ling	283
+我的王国	wo de wang guo	284
+我的未来不是梦	wo de wei lai bu shi meng	285
+我的心里只有你没有他	wo de xin li zhi you ni mei you ta	286
+我的心太乱	wo de xin tai luan	287
+我对天空说	wo dui tian kong shuo	295
+我和草原有个约定	wo he cao yuan you ge yue ding	296
+我很好	wo hen hao	294
+我恨我痴心	wo hen wo chi xin	291
+我很想爱他	wo hen xiang ai ta	293
+我会好好的	wo hui hao hao de	300
+我决定	wo jue ding	299
+我可以抱你吗	wo ke yi bao ni ma	297
+我恋爱了	wo lian ai le	292
+我们的爱	wo men de ai	304
+我们的歌	wo men de ge	305
+我们都是好孩子	wo men dou shi hao hai zi	301
+我们能不能不分手	wo men neng bu neng bu fen shou	303
+我们说好的	wo men shuo hao de	302
+我难过	wo nan guo	278
+蜗牛	wo niu	75
+我是真的爱你	wo shi zhen de ai ni	289
+我说我爱你	wo shuo wo ai ni	280
+我想更懂你	wo xiang geng dong ni	290
+我要抱着你	wo yao bao zhe ni	281
+我真的受伤了	wo zhen de shou shang le	282
+我只在乎你	wo zhi zai hu ni	298
+我走以后	wo zou yi hou	279
+无间道	wu jian dao	260
+无赖	wu lai	261
+舞娘	wu niang	88
+无双	wu shuang	263
+无所谓	wu suo wei	262
+五月天	wu yue tian	506
+喜欢你	xi huan ni	416
+喜欢你没道理	xi huan ni mei dao li	415
+西界	xi jie	67
+嘻唰唰	xi shua shua	414
+希望	xi wang	343
+西厢	xi xiang	68
+下沙	xia sha	537
+夏雪	xia xue	406
+相反词	xiang fan ci	135
+想你们	xiang ni men	316
+想起	xiang qi	314
+香水有毒	xiang shui you du	10
+想太多	xiang tai duo	315
+香烟爱上火柴	xiang yan ai shang huo chai	9
+小丑鱼	xiao chou yu	354
+小情歌	xiao qing ge	351
+小乌龟	xiao wu gui	353
+潇湘雨	xiao xiang yu	195
+小小大人物	xiao xiao da ren wu	352
+谢谢你的爱	xie xie ni de ai	51
+新回心转意	xin hui xin zhuan yi	267
+新年好	xin nian hao	266
+心如刀割	xin ru dao ge	329
+新窝	xin wo	265
+信仰	xin yang	484
+心要让你听见	xin yao rang ni ting jian	327
+心雨	xin yu	326
+心愿	xin yuan	328
+心中的日月	xin zhong de ri yue	330
+幸福是什么	xing fu shi shen me	341
+星晴	xing qing	254
+星星	xing xing	256
+星星点灯	xing xing dian deng	255
+星语心愿	xing yu xin yuan	253
+兄弟	xiong di	474
+许愿池的希腊少女	xu yuan chi de xi la shao nv	58
+旋木	xuan mu	264
+雪人	xue ren	22
+雪夜狂想曲	xue ye kuang xiang qu	21
+哑巴新娘	ya ba xin niang	420
+淹没	yan mo	201
+阳光宅男	yang guang zhai nan	27
+阳光总在风雨后	yang guang zong zai feng yu hou	26
+夜曲	ye qu	405
+叶子	ye zi	429
+一场游戏一场梦	yi chang you xi yi chang meng	555
+以父之名	yi fu zhi ming	498
+一个人	yi ge ren	562
+一个人哭	yi ge ren ku	561
+一个人睡	yi ge ren shui	560
+一剪梅	yi jian mei	559
+一路上有你	yi lu shang you ni	549
+一路向北	yi lu xiang bei	548
+一起走过的日子	yi qi zou guo de ri zi	550
+一千个伤心的理由	yi qian ge shang xin de li you	558
+一千零一夜	yi qian ling yi ye	556
+一千年以后	yi qian nian yi hou	557
+一生爱你千百回	yi sheng ai ni qian bai hui	553
+一生有你	yi sheng you ni	554
+遗失的美好	yi shi de mei hao	38
+一首简单的歌	yi shou jian dan de ge	547
+一万个理由	yi wan ge li you	563
+一眼万年	yi yan wan nian	551
+一直很安静	yi zhi hen an jing	552
+隐形的翅膀	yin xing de chi bang	25
+隐隐	yin yin	24
+婴儿	ying er	370
+樱花草	ying hua cao	215
+勇气	yong qi	455
+有没有人告诉你	you mei you ren gao su ni	227
+有你陪着我	you ni pei zhe wo	228
+有钱没钱回家过年	you qian mei qian hui jia guo nian	226
+有一种爱叫做放手	you yi zhong ai jiao zuo fang shou	229
+遇见	yu jian	39
+羽毛	yu mao	93
+寓言	yu yan	357
+原来的我	yuan lai de wo	441
+原来你也在这里	yuan lai ni ye zai zhe li	442
+原谅	yuan liang	440
+愿望	yuan wang	311
+月半弯	yue ban wan	231
+约定	yue ding	100
+月光	yue guang	232
+越来越不懂	yue lai yue bu dong	50
+月亮代表我的心	yue liang dai biao wo de xin	233
+月亮之上	yue liang zhi shang	234
+月牙湾	yue ya wan	230
+再回首	zai hui shou	468
+再见	zai jian	467
+在他乡	zai ta xiang	408
+这个冬天来看你	zhe ge dong tian lai kan ni	43
+折子戏	zhe zi xi	275
+真爱	zhen ai	132
+真的爱你	zhen de ai ni	131
+珍惜	zhen xi	149
+真心英雄	zhen xin ying xiong	133
+拯救	zheng jiu	273
+知道不知道	zhi dao bu zhi dao	126
+值得	zhi de	478
+只对你有感觉	zhi dui ni you gan jue	433
+只欠秋天	zhi qian qiu tian	432
+知心爱人	zhi xin ai ren	128
+只要有你	zhi yao you ni	431
+知足	zhi zu	127
+中国话	zhong guo hua	514
+祝福	zhu fu	122
+祝你一路顺风	zhu ni yi lu shun feng	124
+祝我生日快乐	zhu wo sheng ri kuai le	123
+专属天使	zhuan shu tian shi	523
+追梦人	zhui meng ren	41
+自从遇见你	zi cong yu jian ni	90
+自由飞翔	zi you fei xiang	89
+最长的电影	zui chang de dian ying	235
+最初的梦想	zui chu de meng xiang	241
+最后的依赖	zui hou de yi lai	240
+最浪漫的事	zui lang man de shi	239
+最美	zui mei	237
+最美的太阳	zui mei de tai yang	236
+醉清风	zui qing feng	31
+最熟悉的陌生人	zui shu xi de mo sheng ren	238
+左边	zuo bian	346
+左撇子	zuo pie zi	347
+昨日重现	zuo ri chong xian	251

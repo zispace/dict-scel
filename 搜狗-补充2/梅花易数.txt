@@ -1,0 +1,526 @@
+# 词库名称: 梅花易数
+# 词库分类: 中国哲学
+# 词库描述: 《梅花易数》相传为宋代易学家邵雍所著，是一部以易学中的数学为基础，结合易学中的“象学”进行占卜的书，相传邵雍运用时每卦必中，屡试不爽。梅花易数依先天八卦数理，即乾一，兑二，离三，震四，巽五，坎六，艮七，坤八，随时随地皆可起卦，取卦方式多种多样。 随着IT行业的发展，中国的古典文学正在以及其缓慢的速度消亡。建立一个梅花易数的细胞词库对于理解《周易》的用户来说特别重要。
+# 词条样例: 离三、震四、巽五、艮七、乾三连、坤六断
+# 解析词数: 519
+# 解析异常: 0
+
+本卦	ben gua	494
+贲卦	ben gua	279
+比卦	bi gua	378
+变卦	bian gua	490
+剥卦	bo gua	272
+初爻	chu yao	223
+萃卦	cui gua	123
+大畜卦	da chu gua	251
+大过卦	da guo gua	474
+大有卦	da you gua	336
+大壮卦	da zhuang gua	193
+第八卦	di ba gua	379
+第二卦	di er gua	421
+第二十八卦	di er shi ba gua	475
+第二十二卦	di er shi er gua	280
+第二十卦	di er shi gua	295
+第二十九卦	di er shi jiu gua	238
+第二十六卦	di er shi liu gua	252
+第二十七卦	di er shi qi gua	245
+第二十三卦	di er shi san gua	273
+第二十四卦	di er shi si gua	266
+第二十五卦	di er shi wu gua	259
+第二十一卦	di er shi yi gua	288
+地风升	di feng sheng	115
+地火明夷	di huo ming yi	178
+第九卦	di jiu gua	372
+第六卦	di liu gua	393
+第六十二卦	di liu shi er gua	21
+第六十卦	di liu shi gua	35
+第六十三卦	di liu shi san gua	14
+第六十四卦	di liu shi si gua	7
+第六十一卦	di liu shi yi gua	28
+第七卦	di qi gua	386
+第三卦	di san gua	414
+第三十八卦	di san shi ba gua	166
+第三十二卦	di san shi er gua	208
+第三十卦	di san shi gua	231
+第三十九卦	di san shi jiu gua	159
+第三十六卦	di san shi liu gua	180
+第三十七卦	di san shi qi gua	173
+第三十三卦	di san shi san gua	201
+第三十四卦	di san shi si gua	194
+第三十五卦	di san shi wu gua	187
+第三十一卦	di san shi yi gua	215
+地山谦	di shan qian	328
+第十八卦	di shi ba gua	309
+第十二卦	di shi er gua	351
+第十卦	di shi gua	365
+第十九卦	di shi jiu gua	302
+第十六卦	di shi liu gua	323
+第十七卦	di shi qi gua	316
+第十三卦	di shi san gua	344
+第十四卦	di shi si gua	337
+第十五卦	di shi wu gua	330
+第十一卦	di shi yi gua	358
+地水师	di shui shi	384
+第四卦	di si gua	407
+第四十八卦	di si shi ba gua	103
+第四十二卦	di si shi er gua	138
+第四十卦	di si shi gua	152
+第四十九卦	di si shi jiu gua	96
+第四十六卦	di si shi liu gua	117
+第四十七卦	di si shi qi gua	110
+第四十三卦	di si shi san gua	468
+第四十四卦	di si shi si gua	131
+第四十五卦	di si shi wu gua	124
+第四十一卦	di si shi yi gua	145
+地天泰	di tian tai	356
+第五卦	di wu gua	400
+第五十八卦	di wu shi ba gua	47
+第五十二卦	di wu shi er gua	82
+第五十卦	di wu shi gua	489
+第五十九卦	di wu shi jiu gua	40
+第五十六卦	di wu shi liu gua	482
+第五十七卦	di wu shi qi gua	54
+第五十三卦	di wu shi san gua	75
+第五十四卦	di wu shi si gua	68
+第五十五卦	di wu shi wu gua	61
+第五十一卦	di wu shi yi gua	89
+第一卦	di yi gua	428
+地泽临	di ze lin	300
+鼎卦	ding gua	488
+兑二	dui er	512
+兑上	dui shang	436
+兑上兑下	dui shang dui xia	44
+兑上艮下	dui shang gen xia	212
+兑上坎下	dui shang kan xia	107
+兑上坤下	dui shang kun xia	121
+兑上离下	dui shang li xia	93
+兑上乾下	dui shang qian xia	465
+兑上缺	dui shang que	499
+兑上巽下	dui shang xun xia	472
+兑上震下	dui shang zhen xia	313
+兑为泽	dui wei ze	45
+兑下	dui xia	435
+兑下兑上	dui xia dui shang	43
+兑下艮上	dui xia gen shang	141
+兑下坎上	dui xia kan shang	31
+兑下坤上	dui xia kun shang	298
+兑下离上	dui xia li shang	162
+兑下乾上	dui xia qian shang	361
+兑下巽上	dui xia xun shang	24
+兑下震上	dui xia zhen shang	64
+兑长眼	dui zhang yan	496
+遯卦	dun gua	200
+二爻	er yao	219
+风地观	feng de guan	293
+丰卦	feng gua	60
+风卦	feng gua	53
+风火家人	feng huo jia ren	171
+风雷益	feng lei yi	136
+风山渐	feng shan jian	73
+风水涣	feng shui huan	38
+风天小畜	feng tian xiao chu	370
+风泽中孚	feng ze zhong fu	26
+否卦	fou gua	350
+复卦	fu gua	265
+革卦	ge gua	95
+艮覆碗	gen fu wan	502
+艮七	gen qi	507
+艮上	gen shang	452
+艮上兑下	gen shang dui xia	142
+艮上艮下	gen shang gen xia	79
+艮上坎下	gen shang kan xia	404
+艮上坤下	gen shang kun xia	270
+艮上离下	gen shang li xia	277
+艮上乾下	gen shang qian xia	249
+艮上巽下	gen shang xun xia	306
+艮上震下	gen shang zhen xia	242
+艮为山	gen wei shan	80
+艮下	gen xia	451
+艮下兑上	gen xia dui shang	211
+艮下艮上	gen xia gen shang	78
+艮下坎上	gen xia kan shang	155
+艮下坤上	gen xia kun shang	326
+艮下离上	gen xia li shang	478
+艮下乾上	gen xia qian shang	197
+艮下巽上	gen xia xun shang	71
+艮下震上	gen xia zhen shang	17
+姤卦	gou gua	130
+蛊卦	gu gua	308
+观卦	guan gua	294
+归妹卦	gui mei gua	67
+恒卦	heng gua	207
+后天八卦	hou tian ba gua	224
+互卦	hu gua	492
+涣卦	huan gua	39
+火地晋	huo di jin	185
+火风鼎	huo feng ding	487
+火雷噬嗑	huo lei shi ke	285
+火山旅	huo shan lv	480
+火水未济	huo shui wei ji	5
+火天大有	huo tian da you	335
+火泽睽	huo ze kui	164
+既济卦	ji ji gua	13
+家人卦	jia ren gua	172
+渐卦	jian gua	74
+蹇卦	jian gua	158
+节卦	jie gua	34
+解卦	jie gua	151
+晋卦	jin gua	186
+井卦	jing gua	102
+夬卦	jue gua	467
+坎卦	kan gua	237
+坎六	kan liu	508
+坎上	kan shang	444
+坎上兑下	kan shang dui xia	32
+坎上艮下	kan shang gen xia	156
+坎上坎下	kan shang kan xia	235
+坎上坤下	kan shang kun xia	376
+坎上离下	kan shang li xia	11
+坎上乾下	kan shang qian xia	397
+坎上巽下	kan shang xun xia	100
+坎上震下	kan shang zhen xia	411
+坎为水	kan wei shui	236
+坎下	kan xia	443
+坎下兑上	kan xia dui shang	106
+坎下艮上	kan xia gen shang	403
+坎下坎上	kan xia kan shang	234
+坎下坤上	kan xia kun shang	382
+坎下离上	kan xia li shang	3
+坎下乾上	kan xia qian shang	389
+坎下巽上	kan xia xun shang	36
+坎下震上	kan xia zhen shang	148
+坎中满	kan zhong man	500
+睽卦	kui gua	165
+坤八	kun ba	506
+困卦	kun gua	109
+坤卦	kun gua	420
+坤六断	kun liu duan	504
+坤上	kun shang	456
+坤上兑下	kun shang dui xia	299
+坤上艮下	kun shang gen xia	327
+坤上坎下	kun shang kan xia	383
+坤上坤下	kun shang kun xia	418
+坤上离下	kun shang li xia	177
+坤上乾下	kun shang qian xia	355
+坤上巽下	kun shang xun xia	114
+坤上震下	kun shang zhen xia	263
+坤为地	kun wei di	419
+坤下	kun xia	455
+坤下兑上	kun xia dui shang	120
+坤下艮上	kun xia gen shang	269
+坤下坎上	kun xia kan shang	375
+坤下坤上	kun xia kun shang	417
+坤下离上	kun xia li shang	183
+坤下乾上	kun xia qian shang	347
+坤下巽上	kun xia xun shang	291
+坤下震上	kun xia zhen shang	319
+雷地豫	lei di yu	321
+雷风恒	lei feng heng	206
+雷卦	lei gua	88
+雷火丰	lei huo feng	59
+雷山小过	lei shan xiao guo	19
+雷水解	lei shui jie	150
+雷天大壮	lei tian da zhuang	192
+雷泽归妹	lei ze gui mei	66
+离卦	li gua	230
+离三	li san	511
+离上	li shang	440
+离上兑下	li shang dui xia	163
+离上艮下	li shang gen xia	479
+离上坎下	li shang kan xia	4
+离上坤下	li shang kun xia	184
+离上离下	li shang li xia	228
+离上乾下	li shang qian xia	334
+离上巽下	li shang xun xia	486
+离上震下	li shang zhen xia	284
+离为火	li wei huo	229
+离下	li xia	439
+离下兑上	li xia dui shang	92
+离下艮上	li xia gen shang	276
+离下坎上	li xia kan shang	10
+离下坤上	li xia kun shang	176
+离下离上	li xia li shang	227
+离下乾上	li xia qian shang	340
+离下巽上	li xia xun shang	169
+离下震上	li xia zhen shang	57
+离中虚	li zhong xu	501
+临卦	lin gua	301
+六爻	liu yao	461
+履卦	lv gua	364
+旅卦	lv gua	481
+梅花易数	mei hua yi shu	518
+梅花易数细胞词库	mei hua yi shu xi bao ci ku	519
+蒙卦	meng gua	406
+明夷卦	ming yi gua	179
+乾卦	qian gua	427
+谦卦	qian gua	329
+乾三连	qian san lian	505
+乾上	qian shang	460
+乾上兑下	qian shang dui xia	362
+乾上艮下	qian shang gen xia	198
+乾上坎下	qian shang kan xia	390
+乾上坤下	qian shang kun xia	348
+乾上离下	qian shang li xia	341
+乾上乾下	qian shang qian xia	425
+乾上巽下	qian shang xun xia	128
+乾上震下	qian shang zhen xia	256
+乾为天	qian wei tian	426
+乾下	qian xia	459
+乾下兑上	qian xia dui shang	464
+乾下艮上	qian xia gen shang	248
+乾下坎上	qian xia kan shang	396
+乾下坤上	qian xia kun shang	354
+乾下离上	qian xia li shang	333
+乾下乾上	qian xia qian shang	424
+乾下巽上	qian xia xun shang	368
+乾下震上	qian xia zhen shang	190
+乾一	qian yi	513
+三爻	san yao	218
+山地剥	shan di bo	271
+山风蛊	shan feng gu	307
+山卦	shan gua	81
+山火贲	shan huo ben	278
+山雷复	shan lei fu	264
+山雷颐	shan lei yi	243
+山水蒙	shan shui meng	405
+山天大畜	shan tian da chu	250
+山泽损	shan ze sun	143
+上兑	shang dui	434
+上兑下兑	shang dui xia dui	42
+上兑下艮	shang dui xia gen	210
+上兑下坎	shang dui xia kan	105
+上兑下坤	shang dui xia kun	119
+上兑下离	shang dui xia li	91
+上兑下乾	shang dui xia qian	463
+上兑下巽	shang dui xia xun	470
+上兑下震	shang dui xia zhen	311
+上艮	shang gen	450
+上艮下兑	shang gen xia dui	140
+上艮下艮	shang gen xia gen	77
+上艮下坎	shang gen xia kan	402
+上艮下坤	shang gen xia kun	268
+上艮下离	shang gen xia li	275
+上艮下乾	shang gen xia qian	247
+上艮下巽	shang gen xia xun	304
+上艮下震	shang gen xia zhen	240
+上坎	shang kan	442
+上坎下兑	shang kan xia dui	30
+上坎下艮	shang kan xia gen	154
+上坎下坎	shang kan xia kan	233
+上坎下坤	shang kan xia kun	374
+上坎下离	shang kan xia li	9
+上坎下乾	shang kan xia qian	395
+上坎下巽	shang kan xia xun	98
+上坎下震	shang kan xia zhen	409
+上坤	shang kun	454
+上坤下兑	shang kun xia dui	297
+上坤下艮	shang kun xia gen	325
+上坤下坎	shang kun xia kan	381
+上坤下坤	shang kun xia kun	416
+上坤下离	shang kun xia li	175
+上坤下乾	shang kun xia qian	353
+上坤下巽	shang kun xia xun	112
+上坤下震	shang kun xia zhen	261
+上离	shang li	438
+上离下兑	shang li xia dui	161
+上离下艮	shang li xia gen	477
+上离下坎	shang li xia kan	2
+上离下坤	shang li xia kun	182
+上离下离	shang li xia li	226
+上离下乾	shang li xia qian	332
+上离下巽	shang li xia xun	484
+上离下震	shang li xia zhen	282
+上乾	shang qian	457
+上乾下兑	shang qian xia dui	360
+上乾下艮	shang qian xia gen	196
+上乾下坎	shang qian xia kan	388
+上乾下坤	shang qian xia kun	346
+上乾下离	shang qian xia li	339
+上乾下乾	shang qian xia qian	423
+上乾下巽	shang qian xia xun	126
+上乾下震	shang qian xia zhen	254
+上巽	shang xun	430
+上巽下兑	shang xun xia dui	23
+上巽下艮	shang xun xia gen	70
+上巽下坤	shang xun xia kun	290
+上巽下离	shang xun xia li	168
+上巽下乾	shang xun xia qian	367
+上巽下巽	shang xun xia xun	49
+上巽下震	shang xun xia zhen	133
+上幺	shang yao	222
+上震	shang zhen	446
+上震下兑	shang zhen xia dui	63
+上震下艮	shang zhen xia gen	16
+上震下坎	shang zhen xia kan	147
+上震下坤	shang zhen xia kun	318
+上震下离	shang zhen xia li	56
+上震下乾	shang zhen xia qian	189
+上震下巽	shang zhen xia xun	203
+上震下震	shang zhen xia zhen	84
+邵雍	shao yong	516
+升卦	sheng gua	116
+师卦	shi gua	385
+噬嗑	shi ke	287
+噬嗑卦	shi ke gua	286
+数理	shu li	514
+水地比	shui di bi	377
+水风井	shui feng jing	101
+水火既济	shui huo ji ji	12
+水雷屯	shui lei tun	412
+水山蹇	shui shan jian	157
+水天虚	shui tian xu	398
+水泽节	shui ze jie	33
+四爻	si yao	217
+讼卦	song gua	392
+随卦	sui gua	315
+损卦	sun gua	144
+泰卦	tai gua	357
+体卦	ti gua	495
+天地否	tian di fou	349
+天风姤	tian feng gou	129
+天火同人	tian huo tong ren	342
+天雷无妄	tian lei wu wang	257
+天山遯	tian shan dun	199
+天水讼	tian shui song	391
+天泽履	tian ze lv	363
+同人卦	tong ren gua	343
+屯卦	tun gua	413
+未济卦	wei ji gua	6
+无妄卦	wu wang gua	258
+五爻	wu yao	216
+下兑	xia dui	433
+下兑坎上	xia dui kan shang	29
+下兑上兑	xia dui shang dui	41
+下兑上艮	xia dui shang gen	139
+下兑上坤	xia dui shang kun	296
+下兑上离	xia dui shang li	160
+下兑上乾	xia dui shang qian	359
+下兑上巽	xia dui shang xun	22
+下兑上震	xia dui shang zhen	62
+下艮	xia gen	449
+下艮上兑	xia gen shang dui	209
+下艮上艮	xia gen shang gen	76
+下艮上坎	xia gen shang kan	153
+下艮上坤	xia gen shang kun	324
+下艮上离	xia gen shang li	476
+下艮上乾	xia gen shang qian	195
+下艮上巽	xia gen shang xun	69
+下艮上震	xia gen shang zhen	15
+下坎	xia kan	441
+下坎上兑	xia kan shang dui	104
+下坎上艮	xia kan shang gen	401
+下坎上坎	xia kan shang kan	232
+下坎上坤	xia kan shang kun	380
+下坎上离	xia kan shang li	1
+下坎上乾	xia kan shang qian	387
+下坎上震	xia kan shang zhen	146
+下坤	xia kun	453
+下坤上兑	xia kun shang dui	118
+下坤上艮	xia kun shang gen	267
+下坤上坎	xia kun shang kan	373
+下坤上坤	xia kun shang kun	415
+下坤上离	xia kun shang li	181
+下坤上乾	xia kun shang qian	345
+下坤上巽	xia kun shang xun	289
+下坤上震	xia kun shang zhen	317
+下离	xia li	437
+下离上兑	xia li shang dui	90
+下离上艮	xia li shang gen	274
+下离上坎	xia li shang kan	8
+下离上坤	xia li shang kun	174
+下离上离	xia li shang li	225
+下离上乾	xia li shang qian	338
+下离上巽	xia li shang xun	167
+下离上震	xia li shang zhen	55
+下乾	xia qian	458
+下乾上兑	xia qian shang dui	462
+下乾上艮	xia qian shang gen	246
+下乾上坎	xia qian shang kan	394
+下乾上坤	xia qian shang kun	352
+下乾上离	xia qian shang li	331
+下乾上乾	xia qian shang qian	422
+下乾上巽	xia qian shang xun	366
+下乾上震	xia qian shang zhen	188
+下巽	xia xun	429
+下巽上兑	xia xun shang dui	469
+下巽上艮	xia xun shang gen	303
+下巽上坎	xia xun shang kan	97
+下巽上坤	xia xun shang kun	111
+下巽上离	xia xun shang li	483
+下巽上乾	xia xun shang qian	125
+下巽上巽	xia xun shang xun	48
+下巽上震	xia xun shang zhen	202
+下震	xia zhen	445
+下震上兑	xia zhen shang dui	310
+下震上艮	xia zhen shang gen	239
+下震上坎	xia zhen shang kan	408
+下震上坤	xia zhen shang kun	260
+下震上离	xia zhen shang li	281
+下震上乾	xia zhen shang qian	253
+下震上巽	xia zhen shang xun	132
+下震上震	xia zhen shang zhen	83
+咸卦	xian gua	214
+先天八卦	xian tian ba gua	515
+小畜卦	xiao chu gua	371
+小过卦	xiao guo gua	20
+虚卦	xu gua	399
+巽长腿	xun chang tui	497
+巽上	xun shang	432
+巽上兑下	xun shang dui xia	25
+巽上艮下	xun shang gen xia	72
+巽上坎下	xun shang kan xia	37
+巽上坤下	xun shang kun xia	292
+巽上离下	xun shang li xia	170
+巽上乾下	xun shang qian xia	369
+巽上巽下	xun shang xun xia	51
+巽上震下	xun shang zhen xia	135
+巽为风	xun wei feng	52
+巽五	xun wu	509
+巽下	xun xia	431
+巽下断	xun xia duan	498
+巽下兑上	xun xia dui shang	471
+巽下艮上	xun xia gen shang	305
+巽下坎上	xun xia kan shang	99
+巽下坤上	xun xia kun shang	113
+巽下离上	xun xia li shang	485
+巽下乾上	xun xia qian shang	127
+巽下巽上	xun xia xun shang	50
+巽下震上	xun xia zhen shang	204
+益卦	yi gua	137
+颐卦	yi gua	244
+易学家	yi xue jia	517
+一爻	yi yao	220
+用卦	yong gua	493
+用九	yong jiu	221
+豫卦	yu gua	322
+泽地萃	ze di cui	122
+泽风大过	ze feng da guo	473
+泽卦	ze gua	46
+泽火革	ze huo ge	94
+泽雷随	ze lei sui	314
+泽山咸	ze shan xian	213
+泽水困	ze shui kun	108
+泽天夬	ze tian jue	466
+震上	zhen shang	448
+震上兑下	zhen shang dui xia	65
+震上艮下	zhen shang gen xia	18
+震上坎下	zhen shang kan xia	149
+震上坤下	zhen shang kun xia	320
+震上离下	zhen shang li xia	58
+震上乾下	zhen shang qian xia	191
+震上巽下	zhen shang xun xia	205
+震上震下	zhen shang zhen xia	86
+震四	zhen si	510
+震为雷	zhen wei lei	87
+震下	zhen xia	447
+震下兑上	zhen xia dui shang	312
+震下艮上	zhen xia gen shang	241
+震下坎上	zhen xia kan shang	410
+震下坤上	zhen xia kun shang	262
+震下离上	zhen xia li shang	283
+震下乾上	zhen xia qian shang	255
+震下巽上	zhen xia xun shang	134
+震下震上	zhen xia zhen shang	85
+震仰盂	zhen yang yu	503
+之卦	zhi gua	491
+中孚卦	zhong fu gua	27

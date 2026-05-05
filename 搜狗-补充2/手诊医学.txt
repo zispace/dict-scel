@@ -1,0 +1,516 @@
+# 词库名称: 手诊医学
+# 词库分类: 中医
+# 词库描述: 手诊医学
+# 词条样例: 手诊、手诊医学、掌纹医学、离区、坤区、艮震线
+# 解析词数: 509
+# 解析异常: 0
+
+凹凸	ao tu	417
+白斑	bai ban	102
+白色	bai se	425
+北京手道堂中医药研究院	bei jing shou dao tang zhong yi yao yan jiu yuan	44
+本性线	ben xing xian	43
+閉合型紋理	bi he xing wen li	249
+闭合型纹理	bi he xing wen li	383
+变色	bian se	432
+變色	bian se	286
+辨證定理	bian zheng ding li	260
+辨证定理	bian zheng ding li	395
+标色	biao se	431
+標色	biao se	285
+病色	bing se	430
+病紋	bing wen	259
+病纹	bing wen	393
+病線	bing xian	153
+病线	bing xian	320
+病线定性	bing xian ding xing	99
+肠道区	chang dao qu	369
+腸道區	chang dao qu	227
+常色	chang se	435
+赤白肉际	chi bai rou ji	401
+赤白肉際	chi bai rou ji	266
+创伤纹	chuang shang wen	34
+大肠段	da chang duan	487
+大腸段	da chang duan	164
+大肠区	da chang qu	131
+大小	da xiao	415
+大魚際	da yu ji	268
+大鱼际	da yu ji	403
+胆段	dan duan	488
+膽段	dan duan	166
+岛形纹	dao xing wen	377
+島形紋	dao xing wen	243
+第二指縫	di er zhi feng	273
+第二指缝	di er zhi feng	408
+第二指縫線	di er zhi feng xian	270
+第二指缝线	di er zhi feng xian	405
+第三指縫	di san zhi feng	272
+第三指缝	di san zhi feng	407
+第三指縫線	di san zhi feng xian	269
+第三指缝线	di san zhi feng xian	404
+地紋	di wen	194
+地纹	di wen	455
+第一指縫	di yi zhi feng	274
+第一指缝	di yi zhi feng	409
+第一指縫線	di yi zhi feng xian	271
+第一指缝线	di yi zhi feng xian	406
+电信分界比例	dian xin fen jie bi li	64
+电信干扰度	dian xin gan rao du	66
+电信基准比率	dian xin ji zhun bi lv	68
+叠加定理	die jia ding li	397
+疊加定理	die jia ding li	262
+抖僵	dou jiang	410
+斗纹	dou wen	53
+斗形纹	dou xing wen	54
+兑区	dui qu	471
+樊紅傑	fan gong jie	291
+樊红杰	fan hong jie	475
+方格形紋	fang ge xing wen	248
+方格形纹	fang ge xing wen	382
+肺段	fei duan	20
+肺功能区	fei gong neng qu	24
+肺器质区	fei qi zhi qu	21
+肺区	fei qu	368
+肺區	fei qu	226
+分段辩证	fen duan bian zheng	328
+分段辯證	fen duan bian zheng	168
+風流線	feng liu xian	187
+风流线	feng liu xian	339
+佛心紋	fo xin wen	140
+佛心纹	fo xin wen	451
+浮沉	fu chen	423
+輔線	fu xian	192
+辅线	fu xian	342
+辅线辨因	fu xian bian yin	92
+肝胆垃圾毒素	gan dan la ji du su	450
+肝膽垃圾毒素	gan dan la ji du su	139
+肝胆区	gan dan qu	373
+肝膽區	gan dan qu	231
+肝胆纹	gan dan wen	32
+肝胆线	gan dan xian	463
+肝膽線	gan dan xian	150
+肝段	gan duan	489
+感情線	gan qing xian	197
+感情线	gan qing xian	500
+干湿	gan shi	413
+幹濕	gan shi	276
+艮区	gen qu	469
+艮區	gen qu	233
+艮震纹	gen zhen wen	33
+艮震線	gen zhen xian	146
+艮震线	gen zhen xian	494
+紅色	gong se	283
+过度纹	guo du wen	36
+过度线	guo du xian	461
+過度線	guo du xian	148
+褐斑	he ban	103
+黑斑	hei ban	101
+黑色	hei se	426
+横切纹	heng qie wen	389
+橫切紋	heng qie wen	255
+红斑	hong ban	104
+红色	hong se	427
+环弧线	huan hu xian	39
+环指	huan zhi	308
+環指	huan zhi	137
+黃色	huang se	284
+黄色	huang se	429
+婚姻線	hun yin xian	186
+婚姻线	hun yin xian	338
+火形手	huo xing shou	440
+疾病隐患	ji bing yin huan	62
+激素区	ji su qu	350
+激素區	ji su qu	208
+箕纹	ji wen	55
+箕形纹	ji xing wen	56
+假通貫	jia tong guan	171
+假通贯	jia tong guan	331
+甲象	jia xiang	301
+甲象九畴	jia xiang jiu chou	300
+甲象九疇	jia xiang jiu chou	132
+甲象特征	jia xiang te zheng	90
+渐减定理	jian jian ding li	396
+漸減定理	jian jian ding li	261
+健康線	jian kang xian	179
+健康线	jian kang xian	467
+交叉状纹	jiao cha zhuang wen	387
+交叉狀紋	jiao cha zhuang wen	253
+交友線	jiao you xian	185
+交友线	jiao you xian	337
+金形手	jin xing shou	437
+精神紧张段	jing shen jin zhang duan	484
+精神緊張段	jing shen jin zhang duan	159
+精神思維區	jing shen si wei qu	230
+精神思维区	jing shen si wei qu	372
+頸椎段	jing zhui duan	167
+颈椎段	jing zhui duan	491
+井字状纹	jing zi zhuang wen	385
+井字狀紋	jing zi zhuang wen	251
+九大分区	jiu da fen qu	72
+九条辅线	jiu tiao fu xian	71
+聚散	ju san	420
+开放性纹理	kai fang xing wen li	391
+開放性紋理	kai fang xing wen li	257
+坎区	kan qu	470
+坎區	kan qu	234
+客色	ke se	433
+孔子目	kong zi mu	452
+快慢	kuai man	411
+坤区	kun qu	502
+坤區	kun qu	237
+离环	li huan	447
+离火环	li huo huan	466
+離火環	li huo huan	178
+离区	li qu	503
+離區	li qu	238
+菱形紋	ling xing wen	246
+菱形纹	ling xing wen	380
+梦幻纹	meng huan wen	30
+夢幻線	meng huan xian	144
+梦幻线	meng huan xian	316
+米字状纹	mi zi zhuang wen	386
+米字狀紋	mi zi zhuang wen	252
+妙手茶	miao shou cha	16
+命门区	ming men qu	27
+明堂	ming tang	493
+無名指	mo ming zhi	138
+拇食指距	mu shi zhi ju	50
+木形手	mu xing shou	441
+拇指	mu zhi	312
+脑段	nao duan	483
+腦段	nao duan	158
+脑神经区	nao shen jing qu	347
+腦神經區	nao shen jing qu	205
+脑线	nao xian	464
+腦線	nao xian	176
+脑血管病因段	nao xue guan bing yin duan	321
+腦血管病因段	nao xue guan bing yin duan	154
+內分泌段	nei fen mi duan	157
+内分泌段	nei fen mi duan	324
+内分泌纹	nei fen mi wen	38
+內分泌線	nei fen mi xian	147
+内分泌线	nei fen mi xian	495
+逆反纹	ni fan wen	29
+年轮季节轴	nian lun ji jie zhou	3
+暖手茶	nuan shou cha	15
+盘龙云海	pan long yun hai	459
+盤龍雲海	pan long yun hai	202
+胖瘦	pang shou	414
+脾肾区	pi shen qu	370
+脾腎區	pi shen qu	228
+脾胃区	pi wei qu	351
+脾胃區	pi wei qu	209
+气管器质区	qi guan qi zhi qu	22
+前列腺区	qian lie xian qu	356
+前列腺區	qian lie xian qu	214
+乾区	qian qu	492
+乾區	qian qu	236
+浅深	qian shen	421
+淺深	qian shen	280
+乾生線	qian sheng xian	149
+乾生线	qian sheng xian	462
+千手观音	qian shou guan yin	13
+桥贯纹	qiao guan wen	35
+桥贯线	qiao guan xian	317
+橋貫線	qiao guan xian	145
+青斑	qing ban	105
+青色	qing se	428
+清浊	qing zhuo	422
+清濁	qing zhuo	281
+区域观察	qu yu guan cha	94
+人生輔線	ren sheng fu xian	181
+人生辅线	ren sheng fu xian	468
+人生線	ren sheng xian	191
+人生线	ren sheng xian	498
+人体电信干扰临界值	ren ti dian xin gan rao lin jie zhi	61
+人文	ren wen	444
+人紋	ren wen	193
+人纹	ren wen	454
+人文手診	ren wen shou zhen	289
+人文手诊	ren wen shou zhen	443
+人文手診學派	ren wen shou zhen xue pai	290
+人文手诊学派	ren wen shou zhen xue pai	474
+榮枯	rong ku	279
+荣枯	rong ku	419
+乳腺段	ru xian duan	323
+乳腺区	ru xian qu	76
+兌區	rui qu	235
+三大主線	san da zhu xian	201
+三大主线	san da zhu xian	345
+三焦区	san jiao qu	28
+三角形紋	san jiao xing wen	247
+三角形纹	san jiao xing wen	381
+三轮时间轴	san lun shi jian zhou	4
+三因定理	san yin ding li	394
+上指節紋	shang zhi jie wen	135
+上指节纹	shang zhi jie wen	305
+肾功能区	shen gong neng qu	23
+肾区	shen qu	367
+腎區	shen qu	225
+肾腰生殖段	shen yao sheng zhi duan	326
+腎腰生殖段	shen yao sheng zhi duan	163
+生命線	sheng ming xian	198
+生命线	sheng ming xian	501
+生育線	sheng yu xian	183
+生育线	sheng yu xian	496
+生殖段	sheng zhi duan	482
+十大病線	shi da bing xian	152
+十大病线	shi da bing xian	319
+食道胃段	shi dao wei duan	490
+十二经运行时辰轴	shi er jing yun xing shi chen zhou	5
+世界手诊医学协会	shi jie shou zhen yi xue xie hui	122
+世界手診醫學協會	shi jie shou zhen yi xue xie kuai	121
+十四经运行时辰轴	shi si jing yun xing shi chen zhou	6
+事业线	shi ye xian	341
+事業線	shi ye xian	190
+食指	shi zhi	311
+食中指距	shi zhong zhi ju	49
+十字紋	shi zi wen	254
+十字纹	shi zi wen	388
+手背	shou bei	457
+手痴	shou chi	113
+手道	shou dao	110
+手道茶	shou dao cha	17
+手道如来香炉	shou dao ru lai xiang lu	12
+手道双手香炉	shou dao shuang shou xiang lu	11
+手道堂	shou dao tang	45
+手道养生	shou dao yang sheng	46
+手道养生八法	shou dao yang sheng ba fa	18
+手道养生功	shou dao yang sheng gong	19
+手道养生香	shou dao yang sheng xiang	14
+手豆	shou dou	126
+手豆保健	shou dou bao jian	98
+手頸線	shou jing xian	174
+手颈线	shou jing xian	472
+手狂	shou kuang	112
+手神	shou shen	109
+手圣	shou sheng	108
+手生	shou sheng	111
+手术线	shou shu xian	446
+手腕线	shou wan xian	40
+手相	shou xiang	473
+手形指南	shou xing zhi nan	95
+手穴	shou xue	313
+手油	shou you	125
+手浴	shou yu	128
+手玉	shou yu	127
+手浴养生	shou yu yang sheng	97
+手診	shou zhen	298
+手诊	shou zhen	509
+手診按摩	shou zhen an mo	141
+手诊按摩	shou zhen an mo	453
+手診八卦	shou zhen ba gua	241
+手诊八卦	shou zhen ba gua	375
+手诊电视台	shou zhen dian shi tai	123
+手診定理	shou zhen ding li	263
+手诊定理	shou zhen ding li	398
+手診綱目	shou zhen gang mu	294
+手诊纲目	shou zhen gang mu	478
+手診綱目圖譜	shou zhen gang mu tu pu	293
+手诊纲目图谱	shou zhen gang mu tu pu	477
+手診濟天下健康創未來	shou zhen ji tian xia jian kang chuang wei lai	299
+手诊济天下健康创未来	shou zhen ji tian xia jian kang chuang wei lai	445
+手诊健康医学网	shou zhen jian kang yi xue wang	120
+手诊灸	shou zhen jiu	129
+手诊灸法	shou zhen jiu fa	96
+手診九區	shou zhen jiu qu	242
+手诊九区	shou zhen jiu qu	376
+手诊康客	shou zhen kang ke	124
+手诊康客网	shou zhen kang ke wang	118
+手诊调理	shou zhen tiao li	65
+手診通玄	shou zhen tong xuan	288
+手诊通玄	shou zhen tong xuan	442
+手诊图像智能分析	shou zhen tu xiang zhi neng fen xi	60
+手诊养生	shou zhen yang sheng	116
+手诊养生笔	shou zhen yang sheng bi	107
+手诊养生纲目图谱	shou zhen yang sheng gang mu tu pu	117
+手診醫學	shou zhen yi xue	297
+手诊医学	shou zhen yi xue	508
+手诊医学论坛	shou zhen yi xue lun tan	119
+手诊医学杂志	shou zhen yi xue za zhi	106
+手诊医学脏腑挂图	shou zhen yi xue zang fu gua tu	70
+手诊脏腑电信	shou zhen zang fu dian xin	74
+手诊脏腑电信基准比率	shou zhen zang fu dian xin ji zhun bi lv	67
+手诊脏腑电信探诊	shou zhen zang fu dian xin tan zhen	59
+手诊脏腑分区单手个	shou zhen zang fu fen qu dan shou ge	84
+手诊脏腑分区共分个	shou zhen zang fu fen qu gong fen ge	83
+手診真經	shou zhen zhen jing	292
+手诊真经	shou zhen zhen jing	476
+手診主線	shou zhen zhu xian	199
+手诊主线	shou zhen zhu xian	343
+手痣	shou zhi	51
+雙龍戲珠	shuang long hu zhu	203
+双龙戏珠	shuang long xi zhu	460
+水平線	shui ping xian	264
+水平线	shui ping xian	399
+水形手	shui xing shou	438
+宿便毒素	su bian du su	448
+太阳线	tai yang xian	334
+太陽線	tai yang xian	180
+体质隐患	ti zhi yin huan	63
+天轮时辰轴	tian lun shi chen zhou	1
+天紋	tian wen	195
+天纹	tian wen	456
+通貫掌	tong guan zhang	173
+通贯掌	tong guan zhang	333
+头脑线	tou nao xian	41
+土形手	tu xing shou	439
+腕横纹	wan heng wen	458
+腕橫紋	wan heng wen	175
+網格紋	wang ge wen	250
+网格纹	wang ge wen	384
+望色基础	wang se ji chu	436
+望色基礎	wang se ji chu	287
+望色十綱	wang se shi gang	282
+望色十纲	wang se shi gang	424
+望态基础	wang tai ji chu	418
+望態基礎	wang tai ji chu	278
+胃区	wei qu	374
+胃區	wei qu	232
+紋理	wen li	258
+纹理	wen li	392
+温凉	wen liang	412
+溫涼	wen liang	275
+无名指	wu ming zhi	309
+无小指距	wu xiao zhi ju	47
+悉尼線	xi ni xian	170
+悉尼线	xi ni xian	330
+下指節紋	xia zhi jie wen	133
+下指节纹	xia zhi jie wen	303
+先天禀赋线	xian tian bing fu xian	336
+先天稟賦線	xian tian bing fu xian	184
+小肠段	xiao chang duan	327
+小腸段	xiao chang duan	165
+小肠区	xiao chang qu	130
+小环纹	xiao huan wen	31
+小离环	xiao li huan	318
+小離環	xiao li huan	151
+小魚際	xiao yu ji	267
+小鱼际	xiao yu ji	402
+小指	xiao zhi	307
+心理感应区	xin li gan ying qu	371
+心理感應區	xin li gan ying qu	229
+心理压力段	xin li ya li duan	486
+心理壓力段	xin li ya li duan	162
+心線	xin xian	177
+心线	xin xian	465
+心脏病因段	xin zang bing yin duan	322
+心髒病因段	xin zang bing yin duan	155
+心脏段	xin zang duan	485
+心髒段	xin zang duan	161
+心脏核心区	xin zang he xin qu	77
+心脏区	xin zang qu	346
+心髒區	xin zang qu	204
+心脏线	xin zang xian	42
+心脏血管段	xin zang xue guan duan	325
+心髒血管段	xin zang xue guan duan	160
+性能纹	xing neng wen	37
+性能線	xing neng xian	142
+性能线	xing neng xian	314
+性線	xing xian	188
+性线	xing xian	497
+星形紋	xing xing wen	245
+星形纹	xing xing wen	379
+胸腺区	xiong xian qu	25
+血糖段	xue tang duan	479
+血液毒素	xue ye du su	449
+血液毒素段	xue ye du su duan	480
+血液毒素区	xue ye du su qu	75
+巽区	xun qu	504
+巽區	xun qu	239
+腰肾段	yao shen duan	481
+腰腎段	yao shen duan	156
+药种敷贴	yao zhong fu tie	100
+腰椎区	yao zhui qu	365
+腰椎區	yao zhui qu	223
+胰腺区	yi xian qu	26
+阴道直肠区	yin dao zhi chang qu	358
+陰道直腸區	yin dao zhi chang qu	216
+阴茎直肠区	yin jing zhi chang qu	357
+陰莖直腸區	yin jing zhi chang qu	215
+硬軟	ying ruan	277
+硬软	ying ruan	416
+右侧睾丸区	you ce gao wan qu	354
+右侧卵巢区	you ce luan chao qu	360
+右侧脑谢管区	you ce nao xie guan qu	348
+右侧盆腔区	you ce pen qiang qu	366
+右肾区	you shen qu	363
+右腎區	you shen qu	221
+右心房心室区	you xin fang xin shi qu	78
+右側睾丸區	you ze gao wan qu	212
+右側卵巢區	you ze luan chao qu	218
+右側腦謝管區	you ze nao xie guan qu	206
+右側盆腔區	you ze pen qiang qu	224
+玉柱線	yu zhu xian	189
+玉柱线	yu zhu xian	340
+圆形纹	yuan xing wen	378
+圓形紋	yuan xing wen	244
+脏腑电信	zang fu dian xin	73
+脏腑分段	zang fu fen duan	329
+髒腑分段	zang fu fen duan	169
+脏腑分段单手段	zang fu fen duan dan shou duan	86
+脏腑分段共段	zang fu fen duan gong duan	85
+脏腑分区	zang fu fen qu	80
+脏腑分区单手个	zang fu fen qu dan shou ge	82
+脏腑分区共分个	zang fu fen qu gong fen ge	81
+臟象	zang xiang	10
+藏象	zang xiang	7
+臟象段	zang xiang duan	8
+臟象区	zang xiang qu	9
+早熟線	zao shu xian	143
+早熟线	zao shu xian	315
+掌紋	zhang wen	296
+掌纹	zhang wen	507
+掌紋醫學	zhang wen yi xue	295
+掌纹医学	zhang wen yi xue	506
+震区	zhen qu	505
+震區	zhen qu	240
+真通貫	zhen tong guan	172
+真通贯	zhen tong guan	332
+郑州手诊科技有限公司	zheng zhou shou zhen ke ji you xian gong si	69
+智慧線	zhi hui xian	196
+智慧线	zhi hui xian	499
+指節紋	zhi jie wen	136
+指节纹	zhi jie wen	306
+指距	zhi ju	58
+支气管区	zhi qi guan qu	352
+支氣管區	zhi qi guan qu	210
+指纹	zhi wen	57
+指纹辨证	zhi wen bian zheng	52
+指象	zhi xiang	302
+指象求证	zhi xiang qiu zheng	91
+中无指距	zhong wu zhi ju	48
+中指	zhong zhi	310
+中指節紋	zhong zhi jie wen	134
+中指节纹	zhong zhi jie wen	304
+中軸線	zhong zhou xian	265
+中轴线	zhong zhou xian	400
+周轮天数轴	zhou lun tian shu zhou	2
+主色	zhu se	434
+主線	zhu xian	200
+主线	zhu xian	344
+主线分析	zhu xian fen xi	93
+主线脏腑分段	zhu xian zang fu fen duan	89
+主线脏腑分段单手段	zhu xian zang fu fen duan dan shou duan	88
+主线脏腑分段共段	zhu xian zang fu fen duan gong duan	87
+子宫颈区	zi gong jing qu	359
+子宮頸區	zi gong jing qu	217
+子宫体区	zi gong ti qu	362
+子宮體區	zi gong ti qu	220
+子女線	zi nv xian	182
+子女线	zi nv xian	335
+字诊	zi zhen	115
+字诊心法	zi zhen xin fa	114
+縱切紋	zong qie wen	256
+纵切纹	zong qie wen	390
+左侧睾丸区	zuo ce gao wan qu	355
+左侧卵巢区	zuo ce luan chao qu	361
+左侧脑血管区	zuo ce nao xue guan qu	349
+左侧盆腔区	zuo ce pen qiang qu	353
+左肾区	zuo shen qu	364
+左腎區	zuo shen qu	222
+左心房心室区	zuo xin fang xin shi qu	79
+左側睾丸區	zuo ze gao wan qu	213
+左側卵巢區	zuo ze luan chao qu	219
+左側腦血管區	zuo ze nao xue guan qu	207
+左側盆腔區	zuo ze pen qiang qu	211

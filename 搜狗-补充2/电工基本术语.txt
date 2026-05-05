@@ -1,0 +1,482 @@
+# 词库名称: 电工基本术语
+# 词库分类: 个人专用
+# 词库描述: 基于GB2900.1电工术语.基本术语制作，属于保定供电公司标准化词库的一部分
+# 词条样例: 电磁兼容、矢量、周期、峰值、有效值、循环
+# 解析词数: 475
+# 解析异常: 0
+
+安全特地电压系统	an quan te di dian ya xi tong	19
+半导体器件	ban dao ti qi jian	285
+保护导体	bao hu dao ti	113
+保护导体电流	bao hu dao ti dian liu	38
+保护等电位联结	bao hu deng dian wei lian jie	128
+保护等电位联结系统	bao hu deng dian wei lian jie xi tong	97
+保护接地	bao hu jie di	131
+保护接地导体	bao hu jie di dao ti	111
+保护接地兼功能接地导体	bao hu jie di jian gong neng jie di dao ti	104
+保护接地兼功能联结导体	bao hu jie di jian gong neng lian jie dao ti	103
+保护接地中间导体	bao hu jie di zhong jian dao ti	109
+保护接地中性点导体	bao hu jie di zhong xing dian dao ti	110
+保护联结导体	bao hu lian jie dao ti	112
+保护屏蔽	bao hu ping bi	21
+保护特低电压系统	bao hu te di dian ya xi tong	18
+保护外壳	bao hu wai ke	31
+保护线接地线导体	bao hu xian jie di xian dao ti	107
+保护遮拦	bao hu zhe lan	23
+保护阻挡物	bao hu zu dang wu	22
+变频器	bian pin qi	294
+变相器	bian xiang qi	293
+便携	bian xie	168
+便携的	bian xie de	173
+变压器	bian ya qi	295
+变阻器	bian zu qi	304
+标称	biao cheng	210
+标称电压	biao cheng dian ya	48
+标称值	biao cheng zhi	211
+表观功率	biao guan gong lv	393
+标量	biao liang	469
+表图	biao tu	11
+波导	bo dao	336
+布线系统	bu xian xi tong	13
+布置图	bu zhi tu	4
+参考地	can kao di	140
+常规实验	chang gui shi yan	200
+弛豫震荡	chi yu zhen dang	456
+充电	chong dian	249
+抽样单元	chou yang dan yuan	199
+触头	chu tou	342
+传导	chuan dao	425
+传导骚扰	chuan dao sao rao	142
+传输线	chuan shu xian	366
+磁轭	ci e	271
+词光的	ci guang de	414
+磁极	ci ji	265
+磁路元件	ci lu yuan jian	402
+磁屏蔽	ci ping bi	316
+磁器件	ci qi jian	473
+磁体	ci ti	268
+磁学	ci xue	427
+带电	dai dian	217
+带电部分	dai dian bu fen	102
+导电	dao dian	219
+导纳	dao na	369
+导体	dao ti	108
+等电位	deng dian wei	133
+等电位联结	deng dian wei lian jie	132
+等电位联结端子	deng dian wei lian jie duan zi	92
+等电位联结母线	deng dian wei lian jie mu xian	17
+等电位联结系统	deng dian wei lian jie xi tong	98
+等效电路图	deng xiao dian lu tu	6
+低电压	di dian ya	260
+地面电压	di mian dian ya	71
+地下	di xia	176
+低压	di ya	261
+电磁辐射	dian ci fu she	161
+电磁干扰	dian ci gan rao	165
+电磁感应	dian ci gan ying	434
+电磁环境	dian ci huan jing	171
+电磁兼容	dian ci jian rong	472
+电磁兼容性	dian ci jian rong xing	164
+电磁屏蔽	dian ci ping bi	315
+电磁骚扰	dian ci sao rao	166
+电磁体	dian ci ti	266
+电磁噪声	dian ci zao sheng	170
+电导	dian dao	379
+电导率	dian dao lv	424
+电动机	dian dong ji	296
+电感	dian gan	378
+电感器	dian gan qi	289
+电感性	dian gan xing	223
+电感性电流	dian gan xing dian liu	383
+电感性耦合	dian gan xing ou he	375
+电光的	dian guang de	415
+电弧	dian hu	408
+电化学	dian hua xue	353
+电火花	dian huo hua	406
+电击	dian ji	137
+电极	dian ji	328
+电击穿	dian ji chuan	407
+电击防护	dian ji fang hu	136
+电接触	dian jie chu	344
+电介质	dian jie zhi	420
+电抗	dian kang	371
+电抗性	dian kang xing	221
+电缆	dian lan	333
+电力电子学	dian li dian zi xue	354
+电路	dian lu	475
+电路图	dian lu tu	8
+电路元件	dian lu yuan jian	403
+电屏蔽	dian ping bi	317
+电器	dian qi	350
+电气安全	dian qi an quan	471
+电气保护屏蔽	dian qi bao hu ping bi	26
+电气保护屏蔽体	dian qi bao hu ping bi ti	25
+电气保护外护物	dian qi bao hu wai hu wu	29
+电气保护外壳	dian qi bao hu wai ke	30
+电气保护遮拦	dian qi bao hu zhe lan	28
+电气保护阻挡物	dian qi bao hu zu dang wu	27
+电气防护	dian qi fang hu	51
+电气防护性分离	dian qi fang hu xing fen li	50
+电气分隔	dian qi fen ge	24
+电气工程	dian qi gong cheng	357
+电气技术	dian qi ji shu	356
+电器件	dian qi jian	474
+电气外护物	dian qi wai hu wu	32
+电气外壳	dian qi wai ke	33
+电气制图	dian qi zhi tu	470
+电容	dian rong	380
+电容器	dian rong qi	222
+电容性	dian rong xing	220
+电容性电流	dian rong xing dian liu	382
+电容性耦合	dian rong xing ou he	377
+电生物学	dian sheng wu xue	352
+电势差	dian shi cha	437
+电位差	dian wei cha	438
+电位器	dian wei qi	305
+电线	dian xian	337
+电学	dian xue	426
+电压降	dian ya jiang	255
+电源	dian yuan	274
+电灼伤	dian zhuo shang	83
+电子学	dian zi xue	355
+电阻	dian zu	381
+电阻率	dian zu lv	423
+电阻器	dian zu qi	306
+电阻性	dian zu xing	224
+独立接地极	du li jie di ji	121
+短路电流	duan lu dian liu	63
+端子	duan zi	343
+对地电压	dui di dian ya	70
+对地电阻	dui di dian zu	124
+对地阻抗	dui di zu kang	125
+多相系统	duo xiang xi tong	362
+额定	e ding	212
+额定电流	e ding dian liu	41
+额定电压	e ding dian ya	42
+额定数值	e ding shu zhi	208
+发电机	fa dian ji	297
+发射	fa she	163
+发射限值	fa she xian zhi	143
+反相	fan xiang	451
+放大器	fang da qi	287
+放电	fang dian	248
+方根均值	fang gen jun zhi	461
+防护物	fang hu wu	314
+防护性分隔	fang hu xing fen ge	52
+非导电环境	fei dao dian huan jing	49
+分流器	fen liu qi	300
+峰值	feng zhi	463
+负电极	fu dian ji	325
+符合	fu he	251
+符合性评价	fu he xing ping jia	204
+负极	fu ji	323
+附加绝缘	fu jia jue yuan	58
+附件	fu jian	349
+附件防护	fu jian fang hu	37
+辐射	fu she	162
+辐射骚扰	fu she sao rao	141
+负载	fu zai	252
+概略图	gai lue tu	10
+干扰限值	gan rao xian zhi	145
+干扰信号	gan rao xin hao	169
+感应电流	gan ying dian liu	435
+感应电压	gan ying dian ya	436
+高电压	gao dian ya	258
+高压	gao ya	259
+隔离	ge li	235
+功率因数	gong lv yin shu	388
+功能等电位联结	gong neng deng dian wei lian jie	126
+功能接地	gong neng jie di	129
+功能绝缘	gong neng jue yuan	84
+功能联结导体	gong neng lian jie dao ti	105
+功能图	gong neng tu	9
+功能性等电位联结	gong neng xing deng dian wei lian jie	127
+功能性等电位联结系统	gong neng xing deng dian wei lian jie xi tong	96
+功能性接地导体	gong neng xing jie di dao ti	106
+功能性绝缘	gong neng xing jue yuan	85
+共用的等电位联结系统	gong yong de deng dian wei lian jie xi tong	95
+共用联结网	gong yong lian jie wang	94
+共振	gong zhen	460
+故障电流	gu zhang dian liu	45
+故障电压	gu zhang dian ya	47
+光电导体	guang dian dao ti	421
+光电导效应	guang dian dao xiao ying	411
+光电的	guang dian de	416
+光电器件	guang dian qi jian	277
+光电子效应	guang dian zi xiao ying	410
+光伏效应	guang fu xiao ying	412
+光缆	guang lan	332
+光生伏打效应	guang sheng fu da xiao ying	413
+光纤	guang xian	335
+过电流	guo dian liu	40
+过电流保护器	guo dian liu bao hu qi	14
+过电压	guo dian ya	242
+过载	guo zai	240
+耗散	hao san	256
+耗散因数	hao san yin shu	228
+合格评价	he ge ping jia	205
+合格试验	he ge shi yan	203
+互感	hu gan	373
+互感应	hu gan ying	432
+户内	hu nei	213
+护套	hu tao	329
+户外条件	hu wai tiao jian	214
+环境条件	huan jing tiao jian	215
+换向	huan xiang	253
+混频器	hun pin qi	283
+火花间隙	huo hua jian xi	299
+基本防护	ji ben fang hu	62
+基本绝缘	ji ben jue yuan	59
+极导体	ji dao ti	114
+继电器	ji dian qi	301
+机架	ji jia	320
+级联	ji lian	367
+机箱	ji xiang	321
+几匝	ji za	312
+基准地	ji zhun di	139
+加强绝缘	jia qiang jue yuan	56
+加载	jia zai	250
+检波器	jian bo qi	281
+检波器混频器	jian bo qi hun pin qi	276
+间接接触	jian jie jie chu	60
+简图	jian tu	12
+降低性能	jiang di xing neng	150
+绞合导体	jiao he dao ti	334
+交流	jiao liu	263
+交流电流	jiao liu dian liu	398
+角频率	jiao pin lv	454
+接触电流	jie chu dian liu	44
+解除电位差	jie chu dian wei cha	417
+接触电压	jie chu dian ya	46
+解除件	jie chu jian	341
+接地	jie di	134
+接地导体	jie di dao ti	120
+接地端子	jie di duan zi	93
+接地故障	jie di gu zhang	77
+接地故障因数	jie di gu zhang yin shu	65
+接地极	jie di ji	122
+接地开关	jie di kai guan	88
+接地配置	jie di pei zhi	101
+接地网	jie di wang	99
+接地系统	jie di xi tong	100
+节点	jie dian	364
+接收试验	jie shou shi yan	191
+解调器	jie tiao qi	279
+接线表	jie xian biao	3
+接线图	jie xian tu	7
+介质损耗	jie zhi sun hao	419
+介质损耗角	jie zhi sun hao jiao	418
+静磁场	jing ci chang	430
+静磁学	jing ci xue	428
+静电场	jing dian chang	431
+静电放电	jing dian fang dian	147
+静电学	jing dian xue	429
+痉挛	jing luan	82
+局部地	ju bu de	138
+绝缘	jue yuan	236
+绝缘材料	jue yuan cai liao	237
+绝缘电阻	jue yuan dian zu	230
+绝缘护套	jue yuan hu tao	233
+绝缘介质	jue yuan jie zhi	422
+绝缘体	jue yuan ti	232
+绝缘性能	jue yuan xing neng	231
+绝缘子	jue yuan zi	234
+均压	jun ya	225
+开路	kai lu	368
+开路故障	kai lu gu zhang	76
+开路运行	kai lu yun xing	245
+抗扰度	kang rao du	149
+可搬运的	ke ban yun de	175
+可导电部分	ke dao dian bu fen	135
+可导电屏蔽	ke dao dian ping bi	87
+可导电屏蔽体	ke dao dian ping bi ti	86
+可互换性	ke hu huan xing	181
+空气间隙	kong qi jian xi	270
+空载	kong zai	246
+跨步电压	kua bu dian ya	67
+例行试验	li xing shi yan	201
+连接器	lian jie qi	340
+连锁结构	lian suo jie gou	275
+临近效应	lin jin xiao ying	404
+路径	lu jing	363
+逻辑功能图	luo ji gong neng tu	5
+螺线管	luo xian guan	309
+滤波器	lv bo qi	278
+满载	man zai	244
+密封	mi feng	177
+敏感度	min gan du	148
+敏感器	min gan qi	288
+铭牌	ming pai	207
+耐候的	nai hou de	180
+耐环境的	nai huan jing de	179
+耐久性试验	nai jiu xing shi yan	193
+逆变器	ni bian qi	291
+耦合	ou he	376
+爬电距离	pa dian ju li	226
+频带	pin dai	445
+频率	pin lv	465
+频率变化	pin lv bian hua	280
+频率变换	pin lv bian huan	282
+屏蔽	ping bi	318
+破坏性试验	po huai xing shi yan	185
+气体导电	qi ti dao dian	409
+气隙	qi xi	269
+欠电压	qian dian ya	241
+趋肤效应	qu fu xiao ying	405
+绕组	rao zu	308
+热敏	re min	302
+热平衡	re ping heng	182
+人为噪声	ren wei zao sheng	151
+三角形联结	san jiao xing lian jie	359
+骚扰限值	sao rao xian zhi	146
+骚扰源	sao rao yuan	144
+设备	she bei	348
+伸臂范围	shen bi fan wei	53
+剩余电流	sheng yu dian liu	39
+矢量	shi liang	468
+时序表图	shi xu biao tu	1
+试验	shi yan	206
+试验对象	shi yan dui xiang	186
+视在功率	shi zai gong lv	394
+手持	shou chi	167
+手持的	shou chi de	172
+受过培训的电气人员	shou guo pei xun de dian qi ren yuan	80
+熟练电气技术人员	shou lian dian qi ji shu ren yuan	81
+寿命试验	shou ming shi yan	194
+双重绝缘	shuang chong jue yuan	57
+双线绕组	shuang xian rao zu	307
+瞬时值	shun shi zhi	464
+顺序表图	shun xu biao tu	2
+损耗	sun hao	257
+损耗角	sun hao jiao	370
+损耗因数	sun hao yin shu	229
+套管	tao guan	310
+特低电压	te di dian ya	20
+调谐	tiao xie	238
+调制器	tiao zhi qi	284
+铁心	tie xin	272
+同步	tong bu	239
+通电	tong dian	218
+通风	tong feng	178
+同时可触及部分	tong shi ke chu ji bu fen	36
+投入运行试验	tou ru yun xing shi yan	190
+土壤电阻率	tu rang dian zu lv	123
+外接可导电部分	wai jie ke dao dian bu fen	54
+外壳	wai ke	319
+外漏可导电部分	wai lou ke dao dian bu fen	55
+网络	wang luo	345
+维护试验	wei hu shi yan	189
+危险带电部分	wei xian dai dian bu fen	35
+稳定	wen ding	183
+稳定电源	wen ding dian yuan	273
+温升	wen sheng	188
+温升试验	wen sheng shi yan	187
+无功	wu gong	389
+无功的	wu gong de	396
+无功功率	wu gong gong lv	391
+无线电环境	wu xian dian huan jing	160
+无线电频率干扰	wu xian dian pin lv gan rao	155
+无线电频率骚扰	wu xian dian pin lv sao rao	156
+无线电频率噪声	wu xian dian pin lv zao sheng	159
+无线电骚扰	wu xian dian sao rao	157
+无线电噪声	wu xian dian zao sheng	158
+无源的	wu yuan de	397
+系数	xi shu	442
+系统	xi tong	347
+系统间干扰	xi tong jian gan rao	154
+系统内干扰	xi tong nei gan rao	153
+线导体	xian dao ti	116
+线电压	xian dian ya	74
+线对	xian dui	331
+线对地电压	xian dui di dian ya	72
+线对地短路	xian dui di duan lu	16
+线间电压	xian jian dian ya	75
+线间短路	xian jian duan lu	15
+线路	xian lu	338
+线圈	xian quan	311
+衔铁	xian tie	264
+线性	xian xing	439
+线性的	xian xing de	401
+线匝	xian za	313
+限值	xian zhi	209
+限值进入区域	xian zhi jin ru qu yu	78
+相导体	xiang dao ti	115
+相电压	xiang dian ya	73
+相量	xiang liang	444
+相位	xiang wei	453
+相位差	xiang wei cha	386
+相位移	xiang wei yi	387
+效率	xiao lv	243
+谐波	xie bo	450
+谐波次数	xie bo ci shu	447
+谐波分量	xie bo fen liang	448
+谐波含量	xie bo han liang	449
+谐波序数	xie bo xu shu	446
+泄露电流	xie lou dian liu	227
+谐振	xie zhen	459
+信号接触电位	xin hao jie chu dian wei	66
+星绞对	xing jiao dui	330
+型联结	xing lian jie	360
+型式试验	xing shi shi yan	202
+星形联结	xing xing lian jie	361
+循环	xun huan	458
+压敏	ya min	303
+验收试验	yan shou shi yan	192
+样本	yang ben	197
+样本试验	yang ben shi yan	196
+阳极	yang ji	327
+样品	yang pin	198
+样品试验	yang pin shi yan	195
+一般人员	yi ban ren yuan	79
+移动的	yi dong de	174
+移相器	yi xiang qi	290
+阴极	yin ji	326
+因数	yin shu	441
+因子	yin zi	440
+影响量	ying xiang liang	184
+永磁体	yong ci ti	267
+有功	you gong	390
+有功电流	you gong dian liu	385
+有功电压	you gong dian ya	384
+有功功率	you gong gong lv	392
+有效值	you xiao zhi	462
+有源的	you yuan de	395
+有载	you zai	247
+预期接触电压	yu qi jie chu dian ya	69
+元件	yuan jian	351
+约定接触电压限值	yue ding jie chu dian ya xian zhi	68
+运行	yun xing	346
+运行条件	yun xing tiao jian	216
+杂散电流	za san dian liu	64
+载流量	zai liu liang	43
+噪声	zao sheng	443
+张弛震荡	zhang chi zhen dang	457
+震荡	zhen dang	467
+振荡器	zhen dang qi	286
+正电极	zheng dian ji	324
+正极	zheng ji	322
+正交	zheng jiao	452
+整流器	zheng liu qi	292
+正弦量	zheng xian liang	455
+直接接地	zhi jie jie di	61
+直流	zhi liu	262
+直流电流	zhi liu dian liu	400
+直流电压	zhi liu dian ya	399
+支路	zhi lu	365
+中间导体	zhong jian dao ti	117
+中间点	zhong jian dian	119
+中性导体	zhong xing dao ti	358
+中性点	zhong xing dian	118
+周期	zhou qi	466
+转换	zhuan huan	254
+转换开关	zhuan huan kai guan	339
+转换器	zhuan huan qi	298
+自动切断电源	zi dong qie duan dian yuan	34
+自感	zi gan	374
+自感应	zi gan ying	433
+自然噪声	zi ran zao sheng	152
+总接地端子	zong jie di duan zi	91
+总接地母线	zong jie di mu xian	89
+总接地线端子	zong jie di xian duan zi	90
+阻抗	zu kang	372
+作业接地	zuo ye jie di	130

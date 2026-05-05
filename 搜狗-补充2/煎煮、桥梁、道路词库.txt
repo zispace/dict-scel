@@ -1,0 +1,965 @@
+# 词库名称: 煎煮、桥梁、道路词库
+# 词库分类: 个人专用
+# 词库描述: 我感觉搜狗应该奖励我^_^
+# 词条样例: 板材、变截面粱、板系结构、壁式框架、扒钉
+# 解析词数: 958
+# 解析异常: 0
+
+凹坑	ao keng	958
+扒钉	ba ding	957
+板材	ban cai	956
+板系结构	ban xi jie gou	955
+板柱结构	ban zhu jie gou	954
+半自动焊接	ban zi dong han jie	953
+保险螺栓	bao xian luo shuan	952
+壁式框架	bi shi kuang jia	951
+变截面粱	bian jie mian liang	950
+薄壳	bo qiao	949
+不焊透对接焊缝	bu han tou dui jie han feng	948
+材料	cai liao	947
+材料抗震强度设计值	cai liao kang zhen qiang du she ji zhi	945
+材料强度标准值	cai liao qiang du biao zhun zhi	944
+材料强度设计值	cai liao qiang du she ji zhi	943
+材料弹性模量	cai liao tan xing mo liang	946
+层板胶合结构	ceng ban jiao he jie gou	942
+层高	ceng gao	941
+成束筒结构	cheng shu tong jie gou	940
+齿承压面	chi cheng ya mian	939
+齿缝破坏	chi feng po huai	938
+齿连接	chi lian jie	937
+齿连接抗剪强度降低系数	chi lian jie kang jian qiang du jiang di xi shu	936
+齿深	chi shen	935
+冲击韧性	chong ji ren xing	934
+抽样数量	chou yang shu liang	933
+初步控制	chu bu kong zhi	932
+初凝时间	chu ning shi jian	931
+椽架	chuan jia	930
+窗间墙宽度	chuang jian qiang kuan du	929
+次梁	ci liang	928
+大六角头高强度螺栓	da liu jiao tou gao qiang du luo shuan	927
+大偏心受压构件	da pian xin shou ya gou jian	926
+带壁柱墙	dai bi zhu qiang	925
+单个普通螺栓承载能力	dan ge pu tong luo shuan cheng zai neng li	924
+单框筒结构	dan kuang tong jie gou	923
+单向板	dan xiang ban	922
+等效均布活荷载	deng xiao jun bu huo he zai	921
+吊车梁	diao che liang	920
+吊车竖向荷载标准值	diao che shu xiang he zai biao zhun zhi	919
+吊环	diao huan	918
+叠合式混凝土受弯构件	die he shi hun ning tu shou wan gou jian	917
+钉板连接	ding ban lian jie	916
+钉有效长度	ding you xiao chang du	915
+断续焊缝	duan xu han feng	914
+对接	dui jie	913
+对接焊缝	dui jie han feng	912
+多边形屋架	duo bian xing wu jia	911
+多道设防抗震建筑	duo dao she fang kang zhen jian zhu	910
+多孔砖	duo kong zhuan	909
+方木结构	fang mu jie gou	908
+房屋静力汁算方案	fang wu jing li zhi suan fang an	907
+非承重墙	fei cheng zhong qiang	906
+非破损检验	fei po sun jian yan	905
+分离式钢柱	fen li shi gang zhu	904
+风荷载标准值	feng he zai biao zhun zhi	903
+蜂窝	feng wo	901
+风压高度变化系数	feng ya gao du bian hua xi shu	902
+腹板	fu ban	898
+复合箍筋	fu he gu jin	899
+腐朽	fu xiu	900
+盖板	gai ban	897
+干缩	gan suo	896
+钢板	gang ban	892
+钢材	gang cai	891
+钢材牌号	gang cai pai hao	890
+钢材强度标准值	gang cai qiang du biao zhun zhi	889
+钢材强度等级	gang cai qiang du deng ji	888
+钢构件变形容许值	gang gou jian bian xing rong xu zhi	887
+钢构件容许长细比	gang gou jian rong xu chang xi bi	886
+钢管	gang guan	885
+钢管混凝土构件	gang guan hun ning tu gou jian	884
+钢管结构	gang guan jie gou	883
+刚接	gang jie	895
+钢结构连接	gang jie gou lian jie	882
+钢结构塑性设计	gang jie gou su xing she ji	881
+钢筋	gang jin	880
+钢筋混凝土结构	gang jin hun ning tu jie gou	879
+钢筋混凝土柱帽	gang jin hun ning tu zhu mao	878
+钢筋间距	gang jin jian ju	877
+钢筋接头	gang jin jie tou	876
+钢筋拉应变限值	gang jin la ying bian xian zhi	875
+钢筋锚固长度	gang jin mao gu chang du	874
+钢筋强度标准值	gang jin qiang du biao zhun zhi	873
+钢筋锈蚀	gang jin xiu shi	872
+刚性方案	gang xing fang an	894
+刚性横墙	gang xing heng qiang	893
+钢压弯构件等效弯矩系数	gang ya wan gou jian deng xiao wan ju xi shu	871
+钢支座	gang zhi zuo	870
+钢柱脚	gang zhu jiao	869
+高强度螺栓	gao qiang du luo shuan	868
+高强度螺栓的有效截面积	gao qiang du luo shuan de you xiao jie mian ji	867
+高强度螺栓连接	gao qiang du luo shuan lian jie	866
+格构式钢柱	ge gou shi gang zhu	865
+构件长期刚度	gou jian chang qi gang du	864
+构件承载能力计算	gou jian cheng zai neng li ji suan	863
+构件承载能力设计值	gou jian cheng zai neng li she ji zhi	862
+构件刚度	gou jian gang du	861
+构件乎直度	gou jian hu zhi du	860
+构件平整度	gou jian ping zheng du	859
+构件性能检验	gou jian xing neng jian yan	858
+构造配筋	gou zao pei jin	857
+箍筋	gu jin	856
+箍筋间距	gu jin jian ju	855
+箍筋肢距	gu jin zhi ju	854
+管理	guan li	853
+管理报表	guan li bao biao	852
+管理报表系统	guan li bao biao xi tong	851
+管理报告	guan li bao gao	850
+管理报告系统	guan li bao gao xi tong	849
+管理操作系统	guan li cao zuo xi tong	848
+管理程序的例行程序	guan li cheng xu de li xing cheng xu	847
+管理程序的试验程序	guan li cheng xu de shi yan cheng xu	846
+管理程序的组成	guan li cheng xu de zu cheng	845
+管理程序调入	guan li cheng xu diao ru	844
+管理程序调入码	guan li cheng xu diao ru ma	843
+管理程序调入指令	guan li cheng xu diao ru zhi ling	842
+管理程序调用命令	guan li cheng xu diao yong ming ling	841
+管理程序调用命令子程序	guan li cheng xu diao yong ming ling zi cheng xu	840
+管理程序调用中断	guan li cheng xu diao yong zhong duan	839
+管理程序队列区	guan li cheng xu dui lie qu	838
+管理程序方式	guan li cheng xu fang shi	837
+管理程序仿真	guan li cheng xu fang zhen	836
+管理程序封锁	guan li cheng xu feng suo	835
+管理程序锁	guan li cheng xu suo	834
+管理程序锁定	guan li cheng xu suo ding	833
+管理程序暂驻区	guan li cheng xu zan zhu qu	832
+管理程序驻留区	guan li cheng xu zhu liu qu	831
+管理程序状态	guan li cheng xu zhuang tai	830
+管理处	guan li chu	829
+管理磁盘	guan li ci pan	828
+管理的任务	guan li de ren wu	827
+管理的作用	guan li de zuo yong	826
+管理调用程序	guan li diao yong cheng xu	825
+管理毒品法令	guan li du pin fa ling	824
+管理方式	guan li fang shi	823
+管理分析	guan li fen xi	822
+管理分析报告系统	guan li fen xi bao gao xi tong	821
+管理服务	guan li fu wu	820
+管理服务程序	guan li fu wu cheng xu	819
+光圆钢丝	guang yuan gang si	818
+规则抗震建筑	gui ze kang zhen jian zhu	817
+滚轴支座	gun zhou zhi zuo	816
+过梁	guo liang	815
+焊缝	han feng	812
+焊缝连接	han feng lian jie	811
+焊缝外观检查	han feng wai guan jian cha	810
+焊缝无损检验	han feng wu sun jian yan	809
+焊根	han gen	808
+焊接钢结构	han jie gang jie gou	807
+焊接钢梁	han jie gang liang	806
+焊接裂纹	han jie lie wen	805
+焊接缺陷	han jie que xian	804
+焊瘤	han liu	803
+含气量	han qi liang	814
+含水率	han shui lv	813
+焊丝	han si	802
+焊条	han tiao	801
+焊趾	han zhi	800
+合格控制	he ge kong zhi	799
+合同	he tong	798
+合同更改的请求	he tong geng gai de qing qiu	797
+合同更改通知书	he tong geng gai tong zhi shu	796
+合同工	he tong gong	795
+合同工厂	he tong gong chang	794
+合同管理范围	he tong guan li fan wei	793
+合同规定	he tong gui ding	792
+合同号	he tong hao	791
+合同签定日期	he tong qian ding ri qi	790
+合同饲养	he tong si yang	789
+合同条款	he tong tiao kuan	788
+合同项目	he tong xiang mu	787
+合同要求	he tong yao qiu	786
+核心筒悬挂结构	he xin tong xuan gua jie gou	785
+横隔板	heng ge ban	783
+桁架拱	heng jia gong	784
+横弯	heng wan	782
+横纹承压强度	heng wen cheng ya qiang du	781
+横向焊缝	heng xiang han feng	780
+横向水平支撑	heng xiang shui ping zhi cheng	779
+后张法预应力混凝土结构	hou zhang fa yu ying li hun ning tu jie gou	778
+弧形支座	hu xing zhi zuo	777
+换算截面面积	huan suan jie mian mian ji	775
+换算截面模量	huan suan jie mian mo liang	774
+环形焊缝	huan xing han feng	776
+混凝干收缩	hun ning gan shou suo	773
+混凝土	hun ning tu	772
+混凝土稠度	hun ning tu chou du	771
+混凝土大板结构	hun ning tu da ban jie gou	770
+混凝土基础	hun ning tu ji chu	768
+混凝土极限压应变	hun ning tu ji xian ya ying bian	767
+混凝土立方体抗压强度标准值	hun ning tu li fang ti kang ya qiang du biao zhun zhi	766
+混凝土配合比	hun ning tu pei he bi	765
+混凝土浅梁	hun ning tu qian liang	764
+混凝土强度等级	hun ning tu qiang du deng ji	763
+混凝土深梁	hun ning tu shen liang	762
+混凝土双向板	hun ning tu shuang xiang ban	761
+混凝土碳化	hun ning tu tan hua	760
+混凝土弹性模量	hun ning tu tan xing mo liang	769
+混凝土徐变	hun ning tu xu bian	759
+混凝土折板结构	hun ning tu zhe ban jie gou	758
+混凝土轴心抗拉标准值	hun ning tu zhou xin kang la biao zhun zhi	757
+混凝土轴心抗压强度标准值	hun ning tu zhou xin kang ya qiang du biao zhun zhi	756
+混凝土柱	hun ning tu zhu	755
+活荷载折减系数	huo he zai zhe jian xi shu	754
+基本风压	ji ben feng ya	753
+基本雪压	ji ben xue ya	752
+计算高度	ji suan gao du	751
+计算倾覆点	ji suan qing fu dian	750
+加劲肋外伸宽度	jia jin lei wai shen kuan du	749
+夹具	jia ju	748
+架立钢筋	jia li gang jin	746
+夹渣	jia zha	747
+剪跨比	jian kua bi	745
+键连接	jian lian jie	651
+剪面长度	jian mian chang du	744
+剪面面积	jian mian mian ji	743
+简体结构	jian ti jie gou	742
+建筑	jian zhu	741
+建筑材料表	jian zhu cai liao biao	740
+建筑材料检验	jian zhu cai liao jian yan	739
+建筑材料行	jian zhu cai liao xing	738
+建筑材料运输列车	jian zhu cai liao yun shu lie che	737
+建筑草图	jian zhu cao tu	736
+建筑朝向	jian zhu chao xiang	735
+建筑承包商	jian zhu cheng bao shang	733
+建筑成本预算	jian zhu cheng ben yu suan	734
+建筑尺度	jian zhu chi du	732
+建筑大五金	jian zhu da wu jin	731
+建筑单元	jian zhu dan yuan	730
+建筑费	jian zhu fei	729
+建筑辅助系统	jian zhu fu zhu xi tong	728
+建筑钢	jian zhu gang	727
+建筑钢板	jian zhu gang ban	726
+建筑高度	jian zhu gao du	725
+建筑工地选择	jian zhu gong di xuan ze	724
+建筑工羊角锤头	jian zhu gong yang jiao chui tou	723
+建筑工业	jian zhu gong ye	722
+建筑构造	jian zhu gou zao	721
+建筑估价	jian zhu gu jia	720
+建筑管理	jian zhu guan li	719
+建筑规范	jian zhu gui fan	718
+建筑和钢结构术语大全	jian zhu he gang jie gou shu yu da quan	717
+建筑及维护规则	jian zhu ji wei hu gui ze	715
+建筑机械	jian zhu ji xie	716
+建筑结构	jian zhu jie gou	714
+建筑结构材料	jian zhu jie gou cai liao	713
+建筑结构材料性能	jian zhu jie gou cai liao xing neng	712
+建筑结构单元	jian zhu jie gou dan yuan	711
+建筑结构分析语言	jian zhu jie gou fen xi yu yan	710
+建筑结构抗震设防类别	jian zhu jie gou kang zhen she fang lei bie	709
+建筑结构设计	jian zhu jie gou she ji	708
+建筑抗震概念设计	jian zhu kang zhen gai nian she ji	707
+建筑抗震设计	jian zhu kang zhen she ji	706
+建筑立面	jian zhu li mian	704
+建筑力学	jian zhu li xue	705
+建筑铝型材生产线	jian zhu lv xing cai sheng chan xian	703
+建筑面积	jian zhu mian ji	702
+建筑面积比	jian zhu mian ji bi	701
+建筑面积指标	jian zhu mian ji zhi biao	700
+建筑模数	jian zhu mo shu	699
+建筑配景	jian zhu pei jing	698
+建筑平面	jian zhu ping mian	697
+建筑青铜	jian zhu qing tong	696
+建筑青铜合金	jian zhu qing tong he jin	695
+建筑声学	jian zhu sheng xue	694
+建筑史	jian zhu shi	691
+建筑石料	jian zhu shi liao	693
+建筑时期观念	jian zhu shi qi guan nian	692
+建筑收进线	jian zhu shou jin xian	690
+建筑陶板	jian zhu tao ban	689
+建筑陶瓷	jian zhu tao ci	688
+建筑特色	jian zhu te se	687
+建筑体积	jian zhu ti ji	686
+建筑体积计算	jian zhu ti ji ji suan	685
+建筑体系	jian zhu ti xi	684
+建筑体形	jian zhu ti xing	683
+建筑外形	jian zhu wai xing	682
+建筑物	jian zhu wu	681
+建筑物保险	jian zhu wu bao xian	680
+建筑物朝向	jian zhu wu chao xiang	679
+建筑物间距	jian zhu wu jian ju	678
+建筑物理	jian zhu wu li	677
+建筑物缺隐	jian zhu wu que yin	676
+建筑物入口	jian zhu wu ru kou	675
+建筑物租约	jian zhu wu zu yue	674
+建筑限制	jian zhu xian zhi	673
+建筑限制线	jian zhu xian zhi xian	672
+建筑效果	jian zhu xiao guo	671
+建筑型式	jian zhu xing shi	670
+建筑渲染	jian zhu xuan ran	669
+建筑遗产	jian zhu yi chan	668
+建筑艺术	jian zhu yi shu	667
+建筑艺术处理	jian zhu yi shu chu li	666
+建筑艺术形式	jian zhu yi shu xing shi	665
+建筑用地	jian zhu yong di	664
+建筑用地规划	jian zhu yong di gui hua	663
+建筑用木材	jian zhu yong mu cai	662
+建筑用提升机	jian zhu yong ti sheng ji	661
+建筑原理	jian zhu yuan li	660
+建筑造型艺术	jian zhu zao xing yi shu	659
+建筑占地系数	jian zhu zhan di xi shu	658
+建筑障碍	jian zhu zhang ai	657
+建筑装饰	jian zhu zhuang shi	656
+建筑装饰彩釉砂涂料	jian zhu zhuang shi cai you sha tu liao	655
+建筑装饰学	jian zhu zhuang shi xue	654
+建筑装修五金	jian zhu zhuang xiu wu jin	653
+建筑自动化	jian zhu zi dong hua	652
+角腹式梁	jiao fu shi liang	648
+角焊缝	jiao han feng	647
+角焊缝焊脚尺寸	jiao han feng han jiao chi cun	646
+角焊缝有效厚度	jiao han feng you xiao hou du	645
+角焊缝有效计算长度	jiao han feng you xiao ji suan chang du	644
+胶合板结构	jiao he ban jie gou	650
+胶合木结构	jiao he mu jie gou	649
+铰接	jiao jie	643
+铰轴支座	jiao zhou zhi zuo	642
+节点板	jie dian ban	640
+结构侧移刚度	jie gou ce yi gang du	638
+结构墙	jie gou qiang	637
+结构用胶性能检验	jie gou yong jiao xing neng jian yan	636
+结构总长度	jie gou zong chang du	635
+结构总高度	jie gou zong gao du	634
+结构总宽度	jie gou zong kuan du	633
+截面尺寸限值	jie mian chi cun xian zhi	632
+截面刚度	jie mian gang du	631
+截面核芯面积	jie mian he xin mian ji	630
+截面剪变刚度	jie mian jian bian gang du	629
+截面拉伸	jie mian la shen	628
+截面扭转刚度	jie mian niu zhuan gang du	627
+截面翘曲刚度	jie mian qiao qu gang du	626
+截面塑性发展系数	jie mian su xing fa zhan xi shu	625
+截面弯曲刚度	jie mian wan qu gang du	624
+截面有效高度	jie mian you xiao gao du	623
+界限偏心距	jie xian pian xin ju	622
+界限受压区高度	jie xian shou ya qu gao du	621
+阶形柱	jie xing zhu	641
+节子	jie zi	639
+进度安排	jin du an pai	620
+进度报表	jin du bao biao	619
+进度报告制度	jin du bao gao zhi du	618
+进度工作日程	jin du gong zuo ri cheng	617
+进度管理	jin du guan li	616
+进度计划	jin du ji hua	615
+进度计划安排	jin du ji hua an pai	614
+进度计划表	jin du ji hua biao	613
+进度计划明细表	jin du ji hua ming xi biao	612
+进度计划总表	jin du ji hua zong biao	611
+进度检查	jin du jian cha	610
+进度控制	jin du kong zhi	609
+进度时间表	jin du shi jian biao	608
+进度图	jin du tu	607
+进度维护	jin du wei hu	606
+进度照片	jin du zhao pian	605
+静定结构	jing ding jie gou	601
+净高	jing gao	603
+净水灰比	jing shui hui bi	602
+井字梁	jing zi liang	604
+局部抗压强度提高系数	ju bu kang ya qiang du ti gao xi shu	600
+均布活标载标准值	jun bu huo biao zai biao zhun zhi	599
+抗侧力墙体结构	kang ce li qiang ti jie gou	598
+抗冻融性	kang dong rong xing	597
+抗风柱	kang feng zhu	596
+抗裂度	kang lie du	595
+抗倾覆滑移验算	kang qing fu hua yi yan suan	594
+抗震构造要求	kang zhen gou zao yao qiu	593
+抗震建筑薄弱部位	kang zhen jian zhu bo ruo bu wei	592
+抗震设计	kang zhen she ji	591
+可变作用标准值	ke bian zuo yong biao zhun zhi	590
+刻痕钢丝	ke hen gang si	589
+孔洞	kong dong	584
+空斗墙	kong dou qiang	588
+空腹屋架	kong fu wu jia	587
+空间性能影响系数	kong jian xing neng ying xiang xi shu	586
+空心砖	kong xin zhuan	585
+块体	kuai ti	583
+块体强度等级	kuai ti qiang du deng ji	582
+块体性能检验	kuai ti xing neng jian yan	581
+框架简体结构	kuang jia jian ti jie gou	580
+框架结构	kuang jia jie gou	579
+阔叶树材	kuo ye shu cai	578
+拉捍拱	la han gong	577
+拉结钢筋	la jie gang jin	576
+冷拉钢筋	leng la gang jin	575
+冷弯薄壁型钢	leng wan bao bi xing gang	574
+冷弯薄壁型钢结构	leng wan bao bi xing gang jie gou	573
+冷弯试验	leng wan shi yan	572
+力学性能	li xue xing neng	571
+连接	lian jie	570
+连接板	lian jie ban	569
+连接器	lian jie qi	568
+连梁	lian liang	567
+量数指示器	liang shu zhi shi qi	566
+裂缝	lie feng	565
+裂缝宽度容许值	lie feng kuan du rong xu zhi	564
+裂环连接	lie huan lian jie	563
+菱形变形	ling xing bian xing	562
+楼板	lou ban	561
+楼层侧移刚度	lou ceng ce yi gang du	560
+楼面屋面活荷载标准值	lou mian wu mian huo he zai biao zhun zhi	559
+楼面屋面活荷载准永久值	lou mian wu mian huo he zai zhun yong jiu zhi	558
+楼面屋面活荷载组合值	lou mian wu mian huo he zai zu he zhi	557
+露筋	lu jin	556
+螺栓	luo shuan	555
+螺栓连接钢结构	luo shuan lian jie gang jie gou	554
+螺栓连接斜纹承压强度降低系数	luo shuan lian jie xie wen cheng ya qiang du jiang di xi shu	553
+螺栓连接质量检验	luo shuan lian jie zhi liang jian yan	552
+螺栓有效截面面积	luo shuan you xiao jie mian mian ji	551
+螺旋形焊缝	luo xuan xing han feng	550
+麻面	ma mian	549
+铆钉连接质量检验	mao ding lian jie zhi liang jian yan	548
+铆接钢结构	mao jie gang jie gou	547
+铆接钢梁	mao jie gang liang	546
+密实度	mi shi du	545
+摩擦型高强度螺栓连接	mo ca xing gao qiang du luo shuan lian jie	544
+木材	mu cai	543
+木材顺纹强度	mu cai shun wen qiang du	542
+木结构防腐	mu jie gou fang fu	541
+木结构用胶	mu jie gou yong jiao	540
+木屋架	mu wu jia	539
+挠曲二阶效应	nao qu er jie xiao ying	538
+凝结时间	ning jie shi jian	537
+扭弯	niu wan	536
+欧拉临界力	ou la lin jie li	535
+欧拉临界应力	ou la lin jie ying li	534
+配筋率	pei jin lv	533
+配筋砌体结构	pei jin qi ti jie gou	532
+疲劳容许应力幅	pi lao rong xu ying li fu	531
+偏心距增大系数	pian xin ju zeng da xi shu	530
+平板型网架	ping ban xing wang jia	529
+平截面假定	ping jie mian jia ding	528
+平面桁架系网架	ping mian heng jia xi wang jia	527
+平面结构	ping mian jie gou	526
+坡口	po kou	525
+破损试验	po sun shi yan	524
+普通钢筋	pu tong gang jin	523
+普通钢筋强度等级	pu tong gang jin qiang du deng ji	522
+普通混凝土	pu tong hun ning tu	521
+气干材	qi gan cai	520
+气孔	qi kong	519
+砌块	qi kuai	518
+砌块砌体	qi kuai qi ti	517
+砌块砌体结构	qi kuai qi ti jie gou	516
+砌体材料最低强度等级	qi ti cai liao zui di qiang du deng ji	515
+砌体结构局部尺寸限值	qi ti jie gou ju bu chi cun xian zhi	514
+砌体结构总高度限值	qi ti jie gou zong gao du xian zhi	513
+砌体拉结钢筋	qi ti la jie gang jin	512
+砌体摩擦系数	qi ti mo ca xi shu	511
+砌体强度标准值	qi ti qiang du biao zhun zhi	510
+砌体墙容许高厚比修正系数	qi ti qiang rong xu gao hou bi xiu zheng xi shu	508
+砌体墙柱高厚比	qi ti qiang zhu gao hou bi	507
+砌体墙柱容许高厚比	qi ti qiang zhu rong xu gao hou bi	509
+砌体质量检验	qi ti zhi liang jian yan	506
+墙梁	qiang liang	504
+墙面垂直度	qiang mian chui zhi du	503
+墙面平整度	qiang mian ping zheng du	502
+墙肢	qiang zhi	501
+强轴	qiang zhou	505
+翘曲	qiao qu	500
+轻骨料混凝土	qing gu liao hun ning tu	499
+圈梁	quan liang	498
+热处理钢筋	re chu li gang jin	497
+热轧带肋钢筋	re zha dai lei gang jin	496
+热轧光圆钢筋	re zha guang yuan gang jin	495
+热轧型钢	re zha xing gang	494
+柔性连接	rou xing lian jie	493
+弱轴	ruo zhou	492
+塞焊缝	sai han feng	491
+三角形屋架	san jiao xing wu jia	490
+三角锥体网架	san jiao zhui ti wang jia	489
+砂浆饱满度	sha jiang bao man du	488
+砂浆保水性	sha jiang bao shui xing	487
+砂浆稠度	sha jiang chou du	486
+砂浆分层度	sha jiang fen ceng du	485
+砂浆配合比	sha jiang pei he bi	484
+砂浆强度等级	sha jiang qiang du deng ji	483
+砂浆性能检验	sha jiang xing neng jian yan	482
+上刚下柔多层房屋	shang gang xia rou duo ceng fang wu	481
+上柔下刚多层房屋	shang rou xia gang duo ceng fang wu	480
+烧穿	shao chuan	479
+烧结普通砖	shao jie pu tong zhuan	478
+伸长率	shen chang lv	477
+升板结构	sheng ban jie gou	476
+生产控制	sheng chan kong zhi	475
+湿材	shi cai	412
+石材	shi cai	411
+施工	shi gong	474
+施工安装图	shi gong an zhuang tu	473
+施工安装用的机械及工具	shi gong an zhuang yong de ji xie ji gong ju	472
+施工标桩	shi gong biao zhuang	471
+施工布置图	shi gong bu zhi tu	470
+施工步骤	shi gong bu zhou	469
+施工测量	shi gong ce liang	468
+施工程序	shi gong cheng xu	467
+施工程序网络图	shi gong cheng xu wang luo tu	466
+施工贷款	shi gong dai kuan	465
+施工单位	shi gong dan wei	464
+施工道路	shi gong dao lu	463
+施工地点	shi gong di dian	462
+施工吊车	shi gong diao che	461
+施工队	shi gong dui	460
+施工方式	shi gong fang shi	459
+施工费用	shi gong fei yong	458
+施工缝	shi gong feng	457
+施工工程师	shi gong gong cheng shi	456
+施工工期	shi gong gong qi	455
+施工和检修集中荷载	shi gong he jian xiu ji zhong he zai	454
+施工计划	shi gong ji hua	450
+施工技术财务计划	shi gong ji shu cai wu ji hua	449
+施工机械费	shi gong ji xie fei	453
+施工机械化	shi gong ji xie hua	452
+施工机械化系数	shi gong ji xie hua xi shu	451
+施工检查	shi gong jian cha	448
+施工检查员	shi gong jian cha yuan	447
+施工阶段	shi gong jie duan	446
+施工阶段验算	shi gong jie duan yan suan	445
+施工进度表	shi gong jin du biao	444
+施工进度计划	shi gong jin du ji hua	443
+施工经济学	shi gong jing ji xue	442
+施工经理	shi gong jing li	441
+施工经验	shi gong jing yan	440
+施工卷扬机	shi gong juan yang ji	439
+施工临时螺栓	shi gong lin shi luo shuan	438
+施工平面图	shi gong ping mian tu	437
+施工期	shi gong qi	436
+施工企业	shi gong qi ye	435
+施工起重机	shi gong qi zhong ji	434
+施工缺陷	shi gong que xian	433
+施工人员	shi gong ren yuan	432
+施工设备	shi gong she bei	431
+施工水平仪	shi gong shui ping yi	430
+施工说明	shi gong shuo ming	429
+施工说明书	shi gong shuo ming shu	428
+施工图预算	shi gong tu yu suan	427
+施工文件	shi gong wen jian	426
+施工项目	shi gong xiang mu	424
+施工详图	shi gong xiang tu	425
+施工效率	shi gong xiao lv	423
+施工性能	shi gong xing neng	422
+施工许可证	shi gong xu ke zheng	421
+施工验收技术规范	shi gong yan shou ji shu gui fan	420
+施工依据	shi gong yi ju	419
+施工执照	shi gong zhi zhao	418
+施工准备	shi gong zhun bei	417
+施工准备计划	shi gong zhun bei ji hua	416
+施工总则	shi gong zong ze	415
+施工组织设计	shi gong zu zhi she ji	414
+施工作业计划	shi gong zuo ye ji hua	413
+石砌体	shi qi ti	410
+石砌体结构	shi qi ti jie gou	409
+受弯木构件挠度容许值	shou wan mu gou jian nao du rong xu zhi	408
+受压构件计算面积	shou ya gou jian ji suan mian ji	407
+受压木构件容许长细比	shou ya mu gou jian rong xu chang xi bi	406
+竖向支撑	shu xiang zhi cheng	405
+双铰拱	shuang jiao gong	404
+双向正交索网结构	shuang xiang zheng jiao suo wang jie gou	403
+双肢柱	shuang zhi zhu	402
+水灰比	shui hui bi	401
+水泥	shui ni	400
+水泥含量	shui ni han liang	399
+水泥砂浆	shui ni sha jiang	398
+水塔	shui ta	397
+顺纹弹性模量	shun wen tan xing mo liang	396
+四角锥体网架	si jiao zhui ti wang jia	395
+塑性变形集中	su xing bian xing ji zhong	394
+坍落度	tan luo du	393
+特种混凝上	te zhong hun ning shang	392
+体积配筋率	ti ji pei jin lv	390
+梯形屋架	ti xing wu jia	391
+填板门	tian ban men	389
+挑梁	tiao liang	388
+通缝破坏	tong feng po huai	387
+筒中筒结构	tong zhong tong jie gou	386
+外加剂	wai jia ji	385
+弯钩	wan gou	384
+弯起钢筋	wan qi gang jin	383
+未焊满	wei han man	382
+未焊透	wei han tou	381
+未溶合	wei rong he	380
+稳定计算	wen ding ji suan	379
+涡纹	wo wen	378
+屋盖	wu gai	377
+屋架支撑系统	wu jia zhi cheng xi tong	376
+无铰拱	wu jiao gong	372
+屋面板	wu mian ban	375
+屋面积雪分布系数	wu mian ji xue fen bu xi shu	374
+屋面木基层	wu mian mu ji ceng	373
+无粘结预应力混凝土结构	wu nian jie yu ying li hun ning tu jie gou	371
+系杆	xi gan	370
+系梁	xi liang	369
+现场	xian chang	367
+现场安装	xian chang an zhuang	366
+现场安装工作	xian chang an zhuang gong zuo	365
+现场安装和维修条件	xian chang an zhuang he wei xiu tiao jian	364
+现场安装螺栓	xian chang an zhuang luo shuan	363
+现场安装容器	xian chang an zhuang rong qi	362
+现场操作规范	xian chang cao zuo gui fan	361
+现场抽查	xian chang chou cha	360
+现场淬火	xian chang cui huo	359
+现场存货	xian chang cun huo	358
+现场的	xian chang de	357
+现场电视监测生产法	xian chang dian shi jian ce sheng chan fa	356
+现场调查	xian chang diao cha	355
+现场调查设计	xian chang diao cha she ji	354
+现场调查员	xian chang diao cha yuan	353
+现场发泡	xian chang fa pao	352
+现场访问	xian chang fang wen	350
+现场仿真	xian chang fang zhen	351
+现场管理	xian chang guan li	349
+现场灌注球基桩	xian chang guan zhu qiu ji zhuang	348
+现场焊接	xian chang han jie	347
+现场核查	xian chang he cha	346
+现场核数员	xian chang he shu yuan	345
+现场记录	xian chang ji lu	343
+现场计算	xian chang ji suan	344
+现场加工	xian chang jia gong	342
+现场检查	xian chang jian cha	341
+现场检验	xian chang jian yan	340
+现场交货	xian chang jiao huo	339
+现场交货价格	xian chang jiao huo jia ge	338
+现场交通	xian chang jiao tong	337
+现场浇筑	xian chang jiao zhu	336
+现场浇铸	xian chang jiao zhu	335
+现场接线	xian chang jie xian	334
+现场经纪	xian chang jing ji	333
+现场决标	xian chang jue biao	332
+现场勘测	xian chang kan ce	331
+现场勘察	xian chang kan cha	330
+现场客	xian chang ke	326
+现场可变只读存储器	xian chang ke bian zhi du cun chu qi	329
+现场可更换部件	xian chang ke geng huan bu jian	328
+现场可替换单元	xian chang ke ti huan dan yuan	327
+现场控制台	xian chang kong zhi tai	325
+现场冷却	xian chang leng que	324
+现场联结	xian chang lian jie	323
+现场录音	xian chang lu yin	322
+现场铆钉对接接头	xian chang mao ding dui jie jie tou	321
+现场铆接	xian chang mao jie	320
+现场配料	xian chang pei liao	319
+现场平衡法	xian chang ping heng fa	318
+现场清洗	xian chang qing xi	317
+现场人员训练	xian chang ren yuan xun lian	316
+现场摄像机	xian chang she xiang ji	315
+现场实验	xian chang shi yan	314
+现场试验程序	xian chang shi yan cheng xu	311
+现场使用	xian chang shi yong	313
+现场使用可靠性	xian chang shi yong ke kao xing	312
+现场手册	xian chang shou ce	310
+现场数据	xian chang shu ju	309
+现场栓接	xian chang shuan jie	308
+现场踏勘	xian chang ta kan	307
+现场统计	xian chang tong ji	306
+现场维修	xian chang wei xiu	305
+现场修理	xian chang xiu li	304
+现场研究	xian chang yan jiu	303
+现场用压缩机	xian chang yong ya suo ji	302
+现场制作	xian chang zhi zuo	301
+现场装配	xian chang zhuang pei	300
+现场总线	xian chang zong xian	299
+现场组装	xian chang zu zhuang	298
+现浇板柱结构	xian jiao ban zhu jie gou	297
+现浇混凝土结构	xian jiao hun ning tu jie gou	296
+线膨胀系数	xian peng zhang xi shu	295
+先张法预应力混凝土结构	xian zhang fa yu ying li hun ning tu jie gou	368
+项目	xiang mu	294
+项目报告	xiang mu bao gao	293
+项目编制阶段	xiang mu bian zhi jie duan	292
+项目标记	xiang mu biao ji	291
+项目采购	xiang mu cai gou	289
+项目财务估价	xiang mu cai wu gu jia	290
+项目筹备融通资金	xiang mu chou bei rong tong zi jin	288
+项目贷款	xiang mu dai kuan	287
+项目的拟订	xiang mu de ni ding	286
+项目的所有者	xiang mu de suo you zhe	285
+项目的总投标价值	xiang mu de zong tou biao jia zhi	284
+项目发展周期	xiang mu fa zhan zhou qi	283
+项目方案	xiang mu fang an	282
+项目分隔符	xiang mu fen ge fu	281
+项目分类	xiang mu fen lei	280
+项目分配	xiang mu fen pei	279
+项目分析	xiang mu fen xi	278
+项目工程师	xiang mu gong cheng shi	277
+项目工程师负责制	xiang mu gong cheng shi fu ze zhi	276
+项目管理	xiang mu guan li	275
+项目管理人	xiang mu guan li ren	274
+项目号	xiang mu hao	273
+项目核准权	xiang mu he zhun quan	272
+项目后评价和后继行动	xiang mu hou ping jia he hou ji xing dong	271
+项目划分	xiang mu hua fen	269
+项目化组织	xiang mu hua zu zhi	270
+项目环境生态评价	xiang mu huan jing sheng tai ping jia	268
+项目货款额度	xiang mu huo kuan e du	267
+项目计划设计图	xiang mu ji hua she ji tu	266
+项目加权	xiang mu jia quan	265
+项目建设费用	xiang mu jian she fei yong	263
+项目建设进度表	xiang mu jian she jin du biao	262
+项目检验回归曲线	xiang mu jian yan hui gui qu xian	264
+项目经济估价	xiang mu jing ji gu jia	261
+项目经理	xiang mu jing li	260
+项目矩阵组织	xiang mu ju zhen zu zhi	259
+项目控制	xiang mu kong zhi	258
+项目目标管理	xiang mu mu biao guan li	257
+项目拟订	xiang mu ni ding	256
+项目匹配法	xiang mu pi pei fa	255
+项目评估	xiang mu ping gu	254
+项目删除	xiang mu shan chu	253
+项目上端	xiang mu shang duan	252
+项目设备	xiang mu she bei	251
+项目设计	xiang mu she ji	250
+项目设计工程师负责制	xiang mu she ji gong cheng shi fu ze zhi	249
+项目生产	xiang mu sheng chan	248
+项目说明书	xiang mu shuo ming shu	247
+项目投资时期	xiang mu tou zi shi qi	246
+项目图与布置图	xiang mu tu yu bu zhi tu	245
+项目网络法	xiang mu wang luo fa	244
+项目网络分析	xiang mu wang luo fen xi	243
+项目文件	xiang mu wen jian	242
+项目行	xiang mu xing	241
+项目训练法	xiang mu xun lian fa	240
+项目研究编目	xiang mu yan jiu bian mu	239
+项目研究小组	xiang mu yan jiu xiao zu	238
+项目预算编制	xiang mu yu suan bian zhi	237
+项目指标	xiang mu zhi biao	235
+项目支助业务	xiang mu zhi zhu ye wu	236
+项目转移	xiang mu zhuan yi	234
+项目资金筹措	xiang mu zi jin chou cuo	233
+销连接	xiao lian jie	232
+小偏心受压构件	xiao pian xin shou ya gou jian	231
+斜搭接	xie da jie	230
+斜角角焊缝	xie jiao jiao han feng	229
+斜截面	xie jie mian	228
+斜向箍筋	xie xiang gu jin	227
+心材	xin cai	226
+型钢	xing gang	225
+悬索	xuan suo	224
+雪荷载标准值	xue he zai biao zhun zhi	223
+烟囱	yan cong	222
+验收函数	yan shou han shu	220
+验收界限	yan shou jie xian	219
+验收批量	yan shou pi liang	218
+延性框架	yan xing kuang jia	221
+咬边	yao bian	217
+翼缘板外伸宽度	yi yuan ban wai shen kuan du	216
+硬化混凝土性能	ying hua hun ning tu xing neng	215
+预埋件	yu mai jian	214
+预应筋松弛	yu ying jin song chi	213
+预应筋有效预应力值	yu ying jin you xiao yu ying li zhi	212
+预应力传递长度	yu ying li chuan di chang du	211
+预应力钢结构	yu ying li gang jie gou	210
+预应力混凝土结构	yu ying li hun ning tu jie gou	209
+预制混凝土构件	yu zhi hun ning tu gou jian	208
+原木结构	yuan mu jie gou	207
+圆形单层悬索	yuan xing dan ceng xuan suo	206
+针叶树材	zhen ye shu cai	205
+正常使用极限状态验证	zheng chang shi yong ji xian zhuang tai yan zheng	204
+正截面	zheng jie mian	203
+支承板	zhi cheng ban	202
+支承长度限值	zhi cheng chang du xian zhi	201
+支承加劲肋	zhi cheng jia jin lei	200
+制动构件	zhi dong gou jian	198
+指接	zhi jie	199
+质量	zhi liang	197
+质量保持率	zhi liang bao chi lv	196
+质量保证	zhi liang bao zheng	195
+质量保证计划	zhi liang bao zheng ji hua	194
+质量保证技术出版物	zhi liang bao zheng ji shu chu ban wu	193
+质量保证控制程序	zhi liang bao zheng kong zhi cheng xu	192
+质量保证手册	zhi liang bao zheng shou ce	191
+质量保证体系	zhi liang bao zheng ti xi	190
+质量保证验收标准	zhi liang bao zheng yan shou biao zhun	189
+质量保证制度	zhi liang bao zheng zhi du	188
+质量比	zhi liang bi	187
+质量变坏	zhi liang bian huai	186
+质量标度	zhi liang biao du	185
+质量标志	zhi liang biao zhi	184
+质量标准	zhi liang biao zhun	183
+质量不平衡	zhi liang bu ping heng	182
+质量不足	zhi liang bu zu	181
+质量参数	zhi liang can shu	180
+质量测定	zhi liang ce ding	179
+质量测定系统	zhi liang ce ding xi tong	178
+质量测量	zhi liang ce liang	177
+质量层化	zhi liang ceng hua	176
+质量差价	zhi liang cha jia	175
+质量差异	zhi liang cha yi	174
+质量产额	zhi liang chan e	173
+质量产额分布	zhi liang chan e fen bu	172
+质量成本	zhi liang cheng ben	171
+质量传递	zhi liang chuan di	170
+质量传递机理	zhi liang chuan di ji li	169
+质量传递系数	zhi liang chuan di xi shu	168
+质量单位	zhi liang dan wei	167
+质量当量	zhi liang dang liang	163
+质量倒数	zhi liang dao shu	162
+质量的相对论性变化	zhi liang de xiang dui lun xing bian hua	161
+质量的相对论性增加	zhi liang de xiang dui lun xing zeng jia	160
+质量等级	zhi liang deng ji	159
+质量第一	zhi liang di yi	158
+质量电感模拟	zhi liang dian gan mo ni	157
+质量电阻率	zhi liang dian zu lv	156
+质量定律	zhi liang ding lv	155
+质量发光度半径关系	zhi liang fa guang du ban jing guan xi	154
+质量范围	zhi liang fan wei	153
+质量方程	zhi liang fang cheng	152
+质量分辨本领	zhi liang fen bian ben ling	151
+质量分布函数	zhi liang fen bu han shu	150
+质量分光计	zhi liang fen guang ji	149
+质量分类试验	zhi liang fen lei shi yan	148
+质量分离器	zhi liang fen li qi	147
+质量分散	zhi liang fen san	146
+质量分析	zhi liang fen xi	145
+质量分析离子动能度谱术	zhi liang fen xi li zi dong neng du pu shu	144
+质量峰	zhi liang feng	142
+质量丰度	zhi liang feng du	143
+质量辐合	zhi liang fu he	141
+质量辐散	zhi liang fu san	140
+质量辐射阻止本领	zhi liang fu she zu zhi ben ling	139
+质量改善剂	zhi liang gai shan ji	138
+质量工程	zhi liang gong cheng	137
+质量公式	zhi liang gong shi	136
+质量管理	zhi liang guan li	135
+质量管理检验	zhi liang guan li jian yan	134
+质量管理系统	zhi liang guan li xi tong	133
+质量惯性矩	zhi liang guan xing ju	132
+质量过大恒星	zhi liang guo da heng xing	131
+质量过滤器	zhi liang guo lv qi	130
+质量过剩	zhi liang guo sheng	129
+质量函数	zhi liang han shu	128
+质量合格标准	zhi liang he ge biao zhun	127
+质量合格证	zhi liang he ge zheng	126
+质量和可靠性目标	zhi liang he ke kao xing mu biao	125
+质量厚度	zhi liang hou du	124
+质量换算因子	zhi liang huan suan yin zi	123
+质量计量学	zhi liang ji liang xue	121
+质量集中分析	zhi liang ji zhong fen xi	122
+质量检测器	zhi liang jian ce qi	118
+质量监测台	zhi liang jian ce tai	120
+质量检查	zhi liang jian cha	117
+质量检查科	zhi liang jian cha ke	116
+质量检查证明书	zhi liang jian cha zheng ming shu	115
+质量检定	zhi liang jian ding	114
+质量鉴定试验	zhi liang jian ding shi yan	112
+质量鉴定试验程序	zhi liang jian ding shi yan cheng xu	111
+质量监视控制台	zhi liang jian shi kong zhi tai	119
+质量检验器	zhi liang jian yan qi	113
+质量交换速度	zhi liang jiao huan su du	110
+质量交流	zhi liang jiao liu	109
+质量矩	zhi liang ju	108
+质量壳	zhi liang ke	107
+质量可靠性保证	zhi liang ke kao xing bao zheng	106
+质量控制	zhi liang kong zhi	105
+质量控制传感器	zhi liang kong zhi chuan gan qi	104
+质量控制等级	zhi liang kong zhi deng ji	103
+质量控制电动扬声器	zhi liang kong zhi dian dong yang sheng qi	102
+质量控制计划	zhi liang kong zhi ji hua	101
+质量控制可靠性	zhi liang kong zhi ke kao xing	100
+质量控制手册	zhi liang kong zhi shou ce	99
+质量控制体系	zhi liang kong zhi ti xi	98
+质量控制图	zhi liang kong zhi tu	97
+质量控制振荡器	zhi liang kong zhi zhen dang qi	96
+质量扩散	zhi liang kuo san	95
+质量扩散率	zhi liang kuo san lv	94
+质量累积检测器	zhi liang lei ji jian ce qi	93
+质量灵敏值	zhi liang ling min zhi	92
+质量瘤	zhi liang liu	75
+质量流动	zhi liang liu dong	91
+质量流动速度	zhi liang liu dong su du	90
+质量流动学说	zhi liang liu dong xue shuo	89
+质量流过速率	zhi liang liu guo su lv	88
+质量流控制	zhi liang liu kong zhi	87
+质量流量	zhi liang liu liang	86
+质量流量常数	zhi liang liu liang chang shu	85
+质量流量方程	zhi liang liu liang fang cheng	84
+质量流量计	zhi liang liu liang ji	83
+质量流量率	zhi liang liu liang lv	82
+质量流量敏感性检测器	zhi liang liu liang min gan xing jian ce qi	81
+质量流量扰动	zhi liang liu liang rao dong	80
+质量流量系数	zhi liang liu liang xi shu	79
+质量流量压差关系	zhi liang liu liang ya cha guan xi	78
+质量流率	zhi liang liu lv	77
+质量流速	zhi liang liu su	76
+质量密度	zhi liang mi du	74
+质量密集	zhi liang mi ji	73
+质量面积比	zhi liang mian ji bi	72
+质量敏感分离器	zhi liang min gan fen li qi	71
+质量能量传递系数	zhi liang neng liang chuan di xi shu	70
+质量能量换算系数	zhi liang neng liang huan suan xi shu	69
+质量浓度	zhi liang nong du	68
+质量判据	zhi liang pan ju	67
+质量抛射	zhi liang pao she	66
+质量碰撞阻止本领	zhi liang peng zhuang zu zhi ben ling	65
+质量偏差	zhi liang pian cha	64
+质量评定	zhi liang ping ding	61
+质量平衡	zhi liang ping heng	63
+质量平均值	zhi liang ping jun zhi	62
+质量迁移率	zhi liang qian yi lv	60
+质量趋势	zhi liang qu shi	58
+质量曲线	zhi liang qu xian	59
+质量全息术	zhi liang quan xi shu	57
+质量缺陷	zhi liang que xian	56
+质量燃烧速率	zhi liang ran shao su lv	55
+质量散度	zhi liang san du	54
+质量散射系数	zhi liang san she xi shu	53
+质量色谱法	zhi liang se pu fa	52
+质量色谱分析	zhi liang se pu fen xi	51
+质量试验	zhi liang shi yan	49
+质量试验规范	zhi liang shi yan gui fan	48
+质量试验器	zhi liang shi yan qi	47
+质量实质	zhi liang shi zhi	50
+质量守恒	zhi liang shou heng	46
+质量守恒定律	zhi liang shou heng ding lv	45
+质量守恒定律方程	zhi liang shou heng ding lv fang cheng	44
+质量守恒方程	zhi liang shou heng fang cheng	43
+质量数	zhi liang shu	41
+质量数测定	zhi liang shu ce ding	40
+质量输运	zhi liang shu yun	42
+质量衰减	zhi liang shuai jian	39
+质量衰减系数	zhi liang shuai jian xi shu	38
+质量双线	zhi liang shuang xian	37
+质量说明书	zhi liang shuo ming shu	36
+质量速度	zhi liang su du	35
+质量速度比	zhi liang su du bi	34
+质量算符	zhi liang suan fu	33
+质量碎片谱法	zhi liang sui pian pu fa	32
+质量损失	zhi liang sun shi	31
+质量损失率	zhi liang sun shi lv	30
+质量弹簧缓冲器组合	zhi liang tan huang huan chong qi zu he	166
+质量弹簧系统	zhi liang tan huang xi tong	165
+质量弹性特性	zhi liang tan xing te xing	164
+质量特性	zhi liang te xing	29
+质量统计检验	zhi liang tong ji jian yan	27
+质量通量	zhi liang tong liang	28
+质量吸收	zhi liang xi shou	26
+质量吸收系数	zhi liang xi shou xi shu	25
+质量限额	zhi liang xian e	24
+质量项	zhi liang xiang	22
+质量响应	zhi liang xiang ying	23
+质量效果	zhi liang xiao guo	20
+质量小恒星	zhi liang xiao heng xing	21
+质量效应	zhi liang xiao ying	19
+质量型检测器	zhi liang xing jian ce qi	18
+质量性状	zhi liang xing zhuang	17
+质量循环速度	zhi liang xun huan su du	16
+质量压力	zhi liang ya li	15
+质量要求	zhi liang yao qiu	14
+质量遗传	zhi liang yi chuan	12
+质量移动姿态控制系统	zhi liang yi dong zi tai kong zhi xi tong	13
+质量引力	zhi liang yin li	7
+质量因数	zhi liang yin shu	11
+质量因数计	zhi liang yin shu ji	10
+质量因素	zhi liang yin su	9
+质量因素比	zhi liang yin su bi	8
+质量增加	zhi liang zeng jia	6
+质量甄别	zhi liang zhen bie	5
+质量诊断	zhi liang zhen duan	4
+质量证明	zhi liang zheng ming	3
+质量指标	zhi liang zhi biao	2
+质量指南	zhi liang zhi nan	1

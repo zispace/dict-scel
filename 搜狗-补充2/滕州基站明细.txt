@@ -1,0 +1,950 @@
+# 词库名称: 滕州基站明细
+# 词库分类: 个人专用
+# 词库描述: 综合维护使用
+# 词条样例: 中国山东枣庄山亭葛峪机房无线、中国山东枣庄山亭红门机房无线、枣庄市山亭区北庄南资源点、枣庄市山亭区红岩砖厂资源点、枣庄市山亭区徐洼LY双山涧资源点、枣庄山亭木竹窝联通共享资源点
+# 解析词数: 943
+# 解析异常: 0
+
+东粮生物科技园资源点	dong liang sheng wu ke ji yuan zi yuan dian	899
+峨山镇石埠村东资源点	e shan zhen shi bu cun dong zi yuan dian	91
+清泉小区号楼资源点	qing quan xiao qu hao lou zi yuan dian	230
+山亭户龙山庄资源点	shan ting hu long shan zhuang zi yuan dian	925
+山亭区北庄镇下十河资源点	shan ting qu bei zhuang zhen xia shi he zi yuan dian	928
+山亭区华润公司资源点	shan ting qu hua run gong si zi yuan dian	874
+山亭区桑村镇上黄沟线杆资源点	shan ting qu sang cun zhen shang huang gou xian gan zi yuan dian	900
+山亭区山城官庄社区基站资源点	shan ting qu shan cheng guan zhuang she qu ji zhan zi yuan dian	872
+山亭区水泉镇政府资源点	shan ting qu shui quan zhen zheng fu zi yuan dian	836
+山亭区委党校资源点	shan ting qu wei dang xiao zi yuan dian	873
+十五中东校东资源点	shi wu zhong dong xiao dong zi yuan dian	646
+市中区鲁南装饰批发城资源点	shi zhong qu lu nan zhuang shi pi fa cheng zi yuan dian	578
+市中区青檀路营业厅资源点	shi zhong qu qing tan lu ying ye ting zi yuan dian	579
+市中区西王庄乡营子基站资源点	shi zhong qu xi wang zhuang xiang ying zi ji zhan zi yuan dian	628
+台儿庄区张山子半楼基站资源点	tai er zhuang qu zhang shan zi ban lou ji zhan zi yuan dian	536
+桃山头敬老院资源点	tao shan tou jing lao yuan zi yuan dian	858
+滕州大同花园资源点	teng zhou da tong hua yuan zi yuan dian	508
+滕州龙阳林村	teng zhou long yang lin cun	345
+滕州市鲍沟营业厅网络资源点	teng zhou shi bao gou ying ye ting wang luo zi yuan dian	525
+滕州市东郭镇小堂门基站资源点	teng zhou shi dong guo zhen xiao tang men ji zhan zi yuan dian	341
+滕州市官桥西公桥基站资源点	teng zhou shi guan qiao xi gong qiao ji zhan zi yuan dian	453
+滕州市鲁班装饰基站资源点	teng zhou shi lu ban zhuang shi ji zhan zi yuan dian	370
+滕州市明珠花园远端资源点	teng zhou shi ming zhu hua yuan yuan duan zi yuan dian	303
+滕州市南沙河基站资源点	teng zhou shi nan sha he ji zhan zi yuan dian	319
+滕州市善南办事处贾庄资源点	teng zhou shi shan nan ban shi chu jia zhuang zi yuan dian	304
+滕州市塔寺北街八巷资源点	teng zhou shi ta si bei jie ba xiang zi yuan dian	507
+滕州市铁通公司网络资源点	teng zhou shi tie tong gong si wang luo zi yuan dian	356
+滕州市西岗镇段庄村线杆资源点	teng zhou shi xi gang zhen duan zhuang cun xian gan zi yuan dian	284
+滕州市羊庄中联水泥资源点	teng zhou shi yang zhuang zhong lian shui ni zi yuan dian	270
+物理站点名称	wu li zhan dian ming cheng	943
+西鲁西资源点	xi lu xi zi yuan dian	857
+西小庄村内别墅资源点	xi xiao zhuang cun nei bie shu zi yuan dian	234
+徐楼村西老泵房资源点	xu lou cun xi lao beng fang zi yuan dian	66
+薛城劳动局共享联通资源点	xue cheng lao dong ju gong xiang lian tong zi yuan dian	136
+薛城区南石镇杜塘基站资源点	xue cheng qu nan shi zhen du tang ji zhan zi yuan dian	150
+薛城区南石镇来泉庄基站资源点	xue cheng qu nan shi zhen lai quan zhuang ji zhan zi yuan dian	151
+薛城区沙沟董庄基站资源点	xue cheng qu sha gou dong zhuang ji zhan zi yuan dian	197
+薛城区陶庄镇大陶庄线杆资源点	xue cheng qu tao zhuang zhen da tao zhuang xian gan zi yuan dian	172
+薛城区燕山小区楼资源点	xue cheng qu yan shan xiao qu lou zi yuan dian	229
+峄城金樽宾馆	yi cheng jin zun bin guan	43
+枣庄曾店西网络资源点	zao zhuang ceng dian xi wang luo zi yuan dian	697
+枣庄陈庄社区网络资源点	zao zhuang chen zhuang she qu wang luo zi yuan dian	698
+枣庄大刘庄网络资源点	zao zhuang da liu zhuang wang luo zi yuan dian	696
+枣庄法院宿舍微站网络资源点	zao zhuang fa yuan su she wei zhan wang luo zi yuan dian	770
+枣庄郭里集天齐庙资源点	zao zhuang guo li ji tian qi miao zi yuan dian	629
+枣庄红旗小学西米网络资源点	zao zhuang hong qi xiao xue xi mi wang luo zi yuan dian	752
+枣庄湖西景苑西网络资源点	zao zhuang hu xi jing yuan xi wang luo zi yuan dian	789
+枣庄渴口中学机房	zao zhuang ke kou zhong xue ji fang	713
+枣庄马庄市场网络资源点	zao zhuang ma zhuang shi chang wang luo zi yuan dian	771
+枣庄山亭北庄洪门村南资源点	zao zhuang shan ting bei zhuang hong men cun nan zi yuan dian	924
+枣庄山亭北庄镇政府资源点	zao zhuang shan ting bei zhuang zhen zheng fu zi yuan dian	927
+枣庄山亭城区紫荆花苑资源点	zao zhuang shan ting cheng qu zi jing hua yuan zi yuan dian	880
+枣庄山亭城头高庄村北资源点	zao zhuang shan ting cheng tou gao zhuang cun bei zi yuan dian	916
+枣庄山亭褚峪资源点	zao zhuang shan ting chu yu zi yuan dian	822
+枣庄山亭店子龙虎村南资源点	zao zhuang shan ting dian zi long hu cun nan zi yuan dian	912
+枣庄山亭店子罗营村南资源点	zao zhuang shan ting dian zi luo ying cun nan zi yuan dian	911
+枣庄山亭店子王河村资源点	zao zhuang shan ting dian zi wang he cun zi yuan dian	910
+枣庄山亭店子西南网络资源点	zao zhuang shan ting dian zi xi nan wang luo zi yuan dian	909
+枣庄山亭东伏山镇驻地资源点	zao zhuang shan ting dong fu shan zhen zhu di zi yuan dian	929
+枣庄山亭凫城天喜庄资源点	zao zhuang shan ting fu cheng tian xi zhuang zi yuan dian	923
+枣庄山亭桂花园西北资源点	zao zhuang shan ting gui hua yuan xi bei zi yuan dian	886
+枣庄山亭后王庙网络资源点	zao zhuang shan ting hou wang miao wang luo zi yuan dian	897
+枣庄山亭锦绣花园东网络资源点	zao zhuang shan ting jin xiu hua yuan dong wang luo zi yuan dian	915
+枣庄山亭刘庄社区网络资源点	zao zhuang shan ting liu zhuang she qu wang luo zi yuan dian	832
+枣庄山亭龙珠丽都资源点	zao zhuang shan ting long zhu li du zi yuan dian	882
+枣庄山亭木竹窝联通共享资源点	zao zhuang shan ting mu zhu wo lian tong gong xiang zi yuan dian	926
+枣庄山亭南官庄网络资源点	zao zhuang shan ting nan guan zhuang wang luo zi yuan dian	853
+枣庄山亭区东山腰资源点	zao zhuang shan ting qu dong shan yao zi yuan dian	875
+枣庄山亭区工业园资源点	zao zhuang shan ting qu gong ye yuan zi yuan dian	876
+枣庄山亭区上黄沟资源点	zao zhuang shan ting qu shang huang gou zi yuan dian	901
+枣庄山亭桑村镇北网络资源点	zao zhuang shan ting sang cun zhen bei wang luo zi yuan dian	895
+枣庄山亭山城善堌西北资源点	zao zhuang shan ting shan cheng shan gu xi bei zi yuan dian	877
+枣庄山亭山城岩头村南资源点	zao zhuang shan ting shan cheng yan tou cun nan zi yuan dian	878
+枣庄山亭石板房网络资源点	zao zhuang shan ting shi ban fang wang luo zi yuan dian	854
+枣庄山亭石佛山资源点	zao zhuang shan ting shi fo shan zi yuan dian	933
+枣庄山亭双山东资源点	zao zhuang shan ting shuang shan dong zi yuan dian	856
+枣庄山亭水泉甘石桥村南资源点	zao zhuang shan ting shui quan gan shi qiao cun nan zi yuan dian	840
+枣庄山亭水泉吉庄村南资源点	zao zhuang shan ting shui quan ji zhuang cun nan zi yuan dian	841
+枣庄山亭水泉棠棣峪村南资源点	zao zhuang shan ting shui quan tang di yu cun nan zi yuan dian	838
+枣庄山亭水泉下辛庄北资源点	zao zhuang shan ting shui quan xia xin zhuang bei zi yuan dian	839
+枣庄山亭水泉镇土门村资源点	zao zhuang shan ting shui quan zhen tu men cun zi yuan dian	837
+枣庄山亭鑫源建材资源点	zao zhuang shan ting xin yuan jian cai zi yuan dian	879
+枣庄山亭兴隆庄社区资源点	zao zhuang shan ting xing long zhuang she qu zi yuan dian	881
+枣庄山亭徐庄湖沟村资源点	zao zhuang shan ting xu zhuang hu gou cun zi yuan dian	819
+枣庄山亭徐庄上岭村南资源点	zao zhuang shan ting xu zhuang shang ling cun nan zi yuan dian	821
+枣庄山亭徐庄藤花峪村南资源点	zao zhuang shan ting xu zhuang teng hua yu cun nan zi yuan dian	820
+枣庄市山亭区白蒋峪资源点	zao zhuang shi shan ting qu bai jiang yu zi yuan dian	842
+枣庄市山亭区北官庄社区资源点	zao zhuang shi shan ting qu bei guan zhuang she qu zi yuan dian	855
+枣庄市山亭区北京路资源点	zao zhuang shi shan ting qu bei jing lu zi yuan dian	868
+枣庄市山亭区北庄南资源点	zao zhuang shi shan ting qu bei zhuang nan zi yuan dian	932
+枣庄市山亭区城头西北资源点	zao zhuang shi shan ting qu cheng tou xi bei zi yuan dian	919
+枣庄市山亭区城头镇南资源点	zao zhuang shi shan ting qu cheng tou zhen nan zi yuan dian	914
+枣庄市山亭区东滴水资源点	zao zhuang shi shan ting qu dong di shui zi yuan dian	918
+枣庄市山亭区东江拉远资源点	zao zhuang shi shan ting qu dong jiang la yuan zi yuan dian	846
+枣庄市山亭区东罗山资源点	zao zhuang shi shan ting qu dong luo shan zi yuan dian	898
+枣庄市山亭区冯卯岩马村资源点	zao zhuang shi shan ting qu feng mao yan ma cun zi yuan dian	908
+枣庄市山亭区丰泽湖东南资源点	zao zhuang shi shan ting qu feng ze hu dong nan zi yuan dian	851
+枣庄市山亭区贵和宾馆资源点	zao zhuang shi shan ting qu gui he bin guan zi yuan dian	859
+枣庄市山亭区宏大钢结构资源点	zao zhuang shi shan ting qu hong da gang jie gou zi yuan dian	866
+枣庄市山亭区红岩砖厂资源点	zao zhuang shi shan ting qu hong yan zhuan chang zi yuan dian	931
+枣庄市山亭区后南庄资源点	zao zhuang shi shan ting qu hou nan zhuang zi yuan dian	852
+枣庄市山亭区华润纸业资源点	zao zhuang shi shan ting qu hua run zhi ye zi yuan dian	871
+枣庄市山亭区华源数控资源点	zao zhuang shi shan ting qu hua yuan shu kong zi yuan dian	849
+枣庄市山亭区黄金宝贝资源点	zao zhuang shi shan ting qu huang jin bao bei zi yuan dian	870
+枣庄市山亭区汇丰市场北资源点	zao zhuang shi shan ting qu hui feng shi chang bei zi yuan dian	867
+枣庄市山亭区锦绣家园资源点	zao zhuang shi shan ting qu jin xiu jia yuan zi yuan dian	863
+枣庄市山亭区龙塘资源点	zao zhuang shi shan ting qu long tang zi yuan dian	917
+枣庄市山亭区民政局南资源点	zao zhuang shi shan ting qu min zheng ju nan zi yuan dian	865
+枣庄市山亭区南官庄资源点	zao zhuang shi shan ting qu nan guan zhuang zi yuan dian	831
+枣庄市山亭区牛郎山资源点	zao zhuang shi shan ting qu niu lang shan zi yuan dian	833
+枣庄市山亭区青石岭拉远资源点	zao zhuang shi shan ting qu qing shi ling la yuan zi yuan dian	922
+枣庄市山亭区全友家私资源点	zao zhuang shi shan ting qu quan you jia si zi yuan dian	864
+枣庄市山亭区桑村镇西资源点	zao zhuang shi shan ting qu sang cun zhen xi zi yuan dian	902
+枣庄市山亭区山亭东山腰资源点	zao zhuang shi shan ting qu shan ting dong shan yao zi yuan dian	848
+枣庄市山亭区石龙口资源点	zao zhuang shi shan ting qu shi long kou zi yuan dian	887
+枣庄市山亭区水泉计生办资源点	zao zhuang shi shan ting qu shui quan ji sheng ban zi yuan dian	843
+枣庄市山亭区苏庄资源点	zao zhuang shi shan ting qu su zhuang zi yuan dian	896
+枣庄市山亭区文化馆资源点	zao zhuang shi shan ting qu wen hua guan zi yuan dian	869
+枣庄市山亭区沃里村西南资源点	zao zhuang shi shan ting qu wo li cun xi nan zi yuan dian	847
+枣庄市山亭区西集伏里资源点	zao zhuang shi shan ting qu xi ji fu li zi yuan dian	834
+枣庄市山亭区新贸然资源点	zao zhuang shi shan ting qu xin mao ran zi yuan dian	861
+枣庄市山亭区徐庄华东村资源点	zao zhuang shi shan ting qu xu zhuang hua dong cun zi yuan dian	823
+枣庄市山亭区徐庄营业厅资源点	zao zhuang shi shan ting qu xu zhuang ying ye ting zi yuan dian	818
+枣庄市山亭区徐庄张庄资源点	zao zhuang shi shan ting qu xu zhuang zhang zhuang zi yuan dian	817
+枣庄市山亭区樱花苑资源点	zao zhuang shi shan ting qu ying hua yuan zi yuan dian	860
+枣庄市山亭区执行庭资源点	zao zhuang shi shan ting qu zhi xing ting zi yuan dian	862
+枣庄市山亭区朱峪资源点	zao zhuang shi shan ting qu zhu yu zi yuan dian	930
+枣庄市山亭十八中北资源点	zao zhuang shi shan ting shi ba zhong bei zi yuan dian	884
+枣庄市山亭镇格上拉远资源点	zao zhuang shi shan ting zhen ge shang la yuan zi yuan dian	850
+枣庄市市中区柏山资源点	zao zhuang shi shi zhong qu bai shan zi yuan dian	702
+枣庄市市中区保安公司资源点	zao zhuang shi shi zhong qu bao an gong si zi yuan dian	758
+枣庄市市中区北前岭资源点	zao zhuang shi shi zhong qu bei qian ling zi yuan dian	749
+枣庄市市中区布衣茶客资源点	zao zhuang shi shi zhong qu bu yi cha ke zi yuan dian	573
+枣庄市市中区长乐路西资源点	zao zhuang shi shi zhong qu chang le lu xi zi yuan dian	707
+枣庄市市中区崔庄微站资源点	zao zhuang shi shi zhong qu cui zhuang wei zhan zi yuan dian	595
+枣庄市市中区大立路东头资源点	zao zhuang shi shi zhong qu da li lu dong tou zi yuan dian	779
+枣庄市市中区大刘庄水库资源点	zao zhuang shi shi zhong qu da liu zhuang shui ku zi yuan dian	701
+枣庄市市中区电厂南微站资源点	zao zhuang shi shi zhong qu dian chang nan wei zhan zi yuan dian	807
+枣庄市市中区东方庄园资源点	zao zhuang shi shi zhong qu dong fang zhuang yuan zi yuan dian	639
+枣庄市市中区东海路转盘资源点	zao zhuang shi shi zhong qu dong hai lu zhuan pan zi yuan dian	598
+枣庄市市中区东湖北资源点	zao zhuang shi shi zhong qu dong hu bei zi yuan dian	706
+枣庄市市中区东湖明珠资源点	zao zhuang shi shi zhong qu dong hu ming zhu zi yuan dian	647
+枣庄市市中区东湖阳光资源点	zao zhuang shi shi zhong qu dong hu yang guang zi yuan dian	636
+枣庄市市中区东郊小区资源点	zao zhuang shi shi zhong qu dong jiao xiao qu zi yuan dian	780
+枣庄市市中区东井小学资源点	zao zhuang shi shi zhong qu dong jing xiao xue zi yuan dian	760
+枣庄市市中区东王庄东资源点	zao zhuang shi shi zhong qu dong wang zhuang dong zi yuan dian	622
+枣庄市市中区妇幼保健院资源点	zao zhuang shi shi zhong qu fu you bao jian yuan zi yuan dian	644
+枣庄市市中区官地村资源点	zao zhuang shi shi zhong qu guan di cun zi yuan dian	640
+枣庄市市中区广场花园资源点	zao zhuang shi shi zhong qu guang chang hua yuan zi yuan dian	776
+枣庄市市中区光明园南资源点	zao zhuang shi shi zhong qu guang ming yuan nan zi yuan dian	786
+枣庄市市中区郭里集西街资源点	zao zhuang shi shi zhong qu guo li ji xi jie zi yuan dian	630
+枣庄市市中区郭里集支局资源点	zao zhuang shi shi zhong qu guo li ji zhi ju zi yuan dian	626
+枣庄市市中区韩庄资源点	zao zhuang shi shi zhong qu han zhuang zi yuan dian	693
+枣庄市市中区和谐家园资源点	zao zhuang shi shi zhong qu he xie jia yuan zi yuan dian	781
+枣庄市市中区湖西景苑楼资源点	zao zhuang shi shi zhong qu hu xi jing yuan lou zi yuan dian	607
+枣庄市市中区华联商厦资源点	zao zhuang shi shi zhong qu hua lian shang sha zi yuan dian	648
+枣庄市市中区吉品街网络资源点	zao zhuang shi shi zhong qu ji pin jie wang luo zi yuan dian	574
+枣庄市市中区建材市场资源点	zao zhuang shi shi zhong qu jian cai shi chang zi yuan dian	704
+枣庄市市中区教育宾馆资源点	zao zhuang shi shi zhong qu jiao yu bin guan zi yuan dian	638
+枣庄市市中区金泉浴池资源点	zao zhuang shi shi zhong qu jin quan yu chi zi yuan dian	642
+枣庄市市中区荆山口资源点	zao zhuang shi shi zhong qu jing shan kou zi yuan dian	732
+枣庄市市中区君山路建行资源点	zao zhuang shi shi zhong qu jun shan lu jian hang zi yuan dian	748
+枣庄市市中区涝坡村基站资源点	zao zhuang shi shi zhong qu lao po cun ji zhan zi yuan dian	775
+枣庄市市中区涝坡村南资源点	zao zhuang shi shi zhong qu lao po cun nan zi yuan dian	599
+枣庄市市中区涝坡铁路口资源点	zao zhuang shi shi zhong qu lao po tie lu kou zi yuan dian	810
+枣庄市市中区雷村资源点	zao zhuang shi shi zhong qu lei cun zi yuan dian	703
+枣庄市市中区利民市场西资源点	zao zhuang shi shi zhong qu li min shi chang xi zi yuan dian	575
+枣庄市市中区力源宾馆资源点	zao zhuang shi shi zhong qu li yuan bin guan zi yuan dian	585
+枣庄市市中区梁辛庄北资源点	zao zhuang shi shi zhong qu liang xin zhuang bei zi yuan dian	596
+枣庄市市中区柳峪北拉远资源点	zao zhuang shi shi zhong qu liu yu bei la yuan zi yuan dian	623
+枣庄市市中区龙安街拉远资源点	zao zhuang shi shi zhong qu long an jie la yuan zi yuan dian	633
+枣庄市市中区美星花园资源点	zao zhuang shi shi zhong qu mei xing hua yuan zi yuan dian	572
+枣庄市市中区孟庄工业园资源点	zao zhuang shi shi zhong qu meng zhuang gong ye yuan zi yuan dian	709
+枣庄市市中区孟庄下沈桥资源点	zao zhuang shi shi zhong qu meng zhuang xia shen qiao zi yuan dian	730
+枣庄市市中区皮革公司资源点	zao zhuang shi shi zhong qu pi ge gong si zi yuan dian	788
+枣庄市市中区齐村后村南资源点	zao zhuang shi shi zhong qu qi cun hou cun nan zi yuan dian	695
+枣庄市市中区齐村汤庄北资源点	zao zhuang shi shi zhong qu qi cun tang zhuang bei zi yuan dian	694
+枣庄市市中区乾四窑北米资源点	zao zhuang shi shi zhong qu qian si yao bei mi zi yuan dian	705
+枣庄市市中区乔屯村机房无线	zao zhuang shi shi zhong qu qiao tun cun ji fang wu xian	720
+枣庄市市中区塞纳斯城资源点	zao zhuang shi shi zhong qu sai na si cheng zi yuan dian	750
+枣庄市市中区森博家具资源点	zao zhuang shi shi zhong qu sen bo jia ju zi yuan dian	577
+枣庄市市中区山峰网吧资源点	zao zhuang shi shi zhong qu shan feng wang ba zi yuan dian	812
+枣庄市市中区市府居委会资源点	zao zhuang shi shi zhong qu shi fu ju wei hui zi yuan dian	651
+枣庄市市中区十里泉电厂资源点	zao zhuang shi shi zhong qu shi li quan dian chang zi yuan dian	811
+枣庄市市中区十六中北校资源点	zao zhuang shi shi zhong qu shi liu zhong bei xiao zi yuan dian	764
+枣庄市市中区十五中东校资源点	zao zhuang shi shi zhong qu shi wu zhong dong xiao zi yuan dian	641
+枣庄市市中区税郭大岭村资源点	zao zhuang shi shi zhong qu shui guo da ling cun zi yuan dian	678
+枣庄市市中区税郭吕庄资源点	zao zhuang shi shi zhong qu shui guo lv zhuang zi yuan dian	677
+枣庄市市中区天齐庙西北资源点	zao zhuang shi shi zhong qu tian qi miao xi bei zi yuan dian	679
+枣庄市市中区田庄东资源点	zao zhuang shi shi zhong qu tian zhuang dong zi yuan dian	766
+枣庄市市中区王沟西北资源点	zao zhuang shi shi zhong qu wang gou xi bei zi yuan dian	692
+枣庄市市中区文东华府资源点	zao zhuang shi shi zhong qu wen dong hua fu zi yuan dian	785
+枣庄市市中区文化二村资源点	zao zhuang shi shi zhong qu wen hua er cun zi yuan dian	650
+枣庄市市中区文化广场资源点	zao zhuang shi shi zhong qu wen hua guang chang zi yuan dian	608
+枣庄市市中区文化一村资源点	zao zhuang shi shi zhong qu wen hua yi cun zi yuan dian	637
+枣庄市市中区西王庄民主资源点	zao zhuang shi shi zhong qu xi wang zhuang min zhu zi yuan dian	735
+枣庄市市中区仙坛山资源点	zao zhuang shi shi zhong qu xian tan shan zi yuan dian	625
+枣庄市市中区香港街拉远资源点	zao zhuang shi shi zhong qu xiang gang jie la yuan zi yuan dian	759
+枣庄市市中区小刘庄微站资源点	zao zhuang shi shi zhong qu xiao liu zhuang wei zhan zi yuan dian	691
+枣庄市市中区小屯村资源点	zao zhuang shi shi zhong qu xiao tun cun zi yuan dian	690
+枣庄市市中区鑫和家园资源点	zao zhuang shi shi zhong qu xin he jia yuan zi yuan dian	751
+枣庄市市中区鑫苑花园资源点	zao zhuang shi shi zhong qu xin yuan hua yuan zi yuan dian	600
+枣庄市市中区兴安彩印资源点	zao zhuang shi shi zhong qu xing an cai yin zi yuan dian	601
+枣庄市市中区兴安街资源点	zao zhuang shi shi zhong qu xing an jie zi yuan dian	576
+枣庄市市中区薛庄小区资源点	zao zhuang shi shi zhong qu xue zhuang xiao qu zi yuan dian	582
+枣庄市市中区逸夫小学北资源点	zao zhuang shi shi zhong qu yi fu xiao xue bei zi yuan dian	649
+枣庄市市中区一棉资源点	zao zhuang shi shi zhong qu yi mian zi yuan dian	777
+枣庄市市中区遗棠村资源点	zao zhuang shi shi zhong qu yi tang cun zi yuan dian	602
+枣庄市市中区遗棠资源点	zao zhuang shi shi zhong qu yi tang zi yuan dian	606
+枣庄市市中区迎宾馆资源点	zao zhuang shi shi zhong qu ying bin guan zi yuan dian	643
+枣庄市市中区于山前资源点	zao zhuang shi shi zhong qu yu shan qian zi yuan dian	605
+枣庄市市中区远航未来城资源点	zao zhuang shi shi zhong qu yuan hang wei lai cheng zi yuan dian	787
+枣庄市市中区振兴幼儿园资源点	zao zhuang shi shi zhong qu zhen xing you er yuan zi yuan dian	757
+枣庄市市中区中安道南里资源点	zao zhuang shi shi zhong qu zhong an dao nan li zi yuan dian	581
+枣庄市市中区中安丽景苑资源点	zao zhuang shi shi zhong qu zhong an li jing yuan zi yuan dian	765
+枣庄市市中区周庄村资源点	zao zhuang shi shi zhong qu zhou zhuang cun zi yuan dian	778
+枣庄市市中区卓山铁矿资源点	zao zhuang shi shi zhong qu zhuo shan tie kuang zi yuan dian	733
+枣庄市台儿庄陈塘社区资源点	zao zhuang shi tai er zhuang chen tang she qu zi yuan dian	542
+枣庄市台儿庄候孟唐庄资源点	zao zhuang shi tai er zhuang hou meng tang zhuang zi yuan dian	535
+枣庄市台儿庄区半楼高铁资源点	zao zhuang shi tai er zhuang qu ban lou gao tie zi yuan dian	534
+枣庄市台儿庄区北园小学资源点	zao zhuang shi tai er zhuang qu bei yuan xiao xue zi yuan dian	543
+枣庄市台儿庄区参将府资源点	zao zhuang shi tai er zhuang qu can jiang fu zi yuan dian	547
+枣庄市台儿庄区长安路资源点	zao zhuang shi tai er zhuang qu chang an lu zi yuan dian	554
+枣庄市台儿庄区官庄村资源点	zao zhuang shi tai er zhuang qu guan zhuang cun zi yuan dian	562
+枣庄市台儿庄区国土局资源点	zao zhuang shi tai er zhuang qu guo tu ju zi yuan dian	549
+枣庄市台儿庄区郭崖高铁资源点	zao zhuang shi tai er zhuang qu guo ya gao tie zi yuan dian	533
+枣庄市台儿庄区华锦纸业资源点	zao zhuang shi tai er zhuang qu hua jin zhi ye zi yuan dian	552
+枣庄市台儿庄区交警大队资源点	zao zhuang shi tai er zhuang qu jiao jing da dui zi yuan dian	539
+枣庄市台儿庄区金光路资源点	zao zhuang shi tai er zhuang qu jin guang lu zi yuan dian	551
+枣庄市台儿庄区金色花园资源点	zao zhuang shi tai er zhuang qu jin se hua yuan zi yuan dian	558
+枣庄市台儿庄区兰城店资源点	zao zhuang shi tai er zhuang qu lan cheng dian zi yuan dian	566
+枣庄市台儿庄区兰城东南资源点	zao zhuang shi tai er zhuang qu lan cheng dong nan zi yuan dian	564
+枣庄市台儿庄区林桥村资源点	zao zhuang shi tai er zhuang qu lin qiao cun zi yuan dian	550
+枣庄市台儿庄区马兰道庄资源点	zao zhuang shi tai er zhuang qu ma lan dao zhuang zi yuan dian	568
+枣庄市台儿庄区马兰驻地资源点	zao zhuang shi tai er zhuang qu ma lan zhu di zi yuan dian	569
+枣庄市台儿庄区民政局西资源点	zao zhuang shi tai er zhuang qu min zheng ju xi zi yuan dian	561
+枣庄市台儿庄区朋启饭店资源点	zao zhuang shi tai er zhuang qu peng qi fan dian zi yuan dian	545
+枣庄市台儿庄区人民医院资源点	zao zhuang shi tai er zhuang qu ren min yi yuan zi yuan dian	555
+枣庄市台儿庄区石楼资源点	zao zhuang shi tai er zhuang qu shi lou zi yuan dian	553
+枣庄市台儿庄区土城资源点	zao zhuang shi tai er zhuang qu tu cheng zi yuan dian	548
+枣庄市台儿庄区万通拉远资源点	zao zhuang shi tai er zhuang qu wan tong la yuan zi yuan dian	540
+枣庄市台儿庄区西关三街资源点	zao zhuang shi tai er zhuang qu xi guan san jie zi yuan dian	546
+枣庄市台儿庄区西三里资源点	zao zhuang shi tai er zhuang qu xi san li zi yuan dian	544
+枣庄市台儿庄区新中医院资源点	zao zhuang shi tai er zhuang qu xin zhong yi yuan zi yuan dian	541
+枣庄市台儿庄区阳光家园资源点	zao zhuang shi tai er zhuang qu yang guang jia yuan zi yuan dian	556
+枣庄市台儿庄区运河庄园资源点	zao zhuang shi tai er zhuang qu yun he zhuang yuan zi yuan dian	567
+枣庄市台儿庄张山子杜安资源点	zao zhuang shi tai er zhuang zhang shan zi du an zi yuan dian	538
+枣庄市滕州宾馆客房部资源点	zao zhuang shi teng zhou bin guan ke fang bu zi yuan dian	377
+枣庄市滕州城区生源电器资源点	zao zhuang shi teng zhou cheng qu sheng yuan dian qi zi yuan dian	292
+枣庄市滕州涵翠苑资源点	zao zhuang shi teng zhou han cui yuan zi yuan dian	371
+枣庄市滕州黄坡村南高铁资源点	zao zhuang shi teng zhou huang po cun nan gao tie zi yuan dian	467
+枣庄市滕州京台高速补点资源点	zao zhuang shi teng zhou jing tai gao su bu dian zi yuan dian	323
+枣庄市滕州木石魏庄机房无线	zao zhuang shi teng zhou mu shi wei zhuang ji fang wu xian	337
+枣庄市滕州市爱家豪庭资源点	zao zhuang shi teng zhou shi ai jia hao ting zi yuan dian	506
+枣庄市滕州市安康苑号楼资源点	zao zhuang shi teng zhou shi an kang yuan hao lou zi yuan dian	358
+枣庄市滕州市白塔西高铁资源点	zao zhuang shi teng zhou shi bai ta xi gao tie zi yuan dian	333
+枣庄市滕州市鲍沟玻璃城资源点	zao zhuang shi teng zhou shi bao gou bo li cheng zi yuan dian	530
+枣庄市滕州市鲍沟官庄资源点	zao zhuang shi teng zhou shi bao gou guan zhuang zi yuan dian	529
+枣庄市滕州市鲍沟圈里西资源点	zao zhuang shi teng zhou shi bao gou quan li xi zi yuan dian	524
+枣庄市滕州市滨湖古镇资源点	zao zhuang shi teng zhou shi bin hu gu zhen zi yuan dian	493
+枣庄市滕州市滨湖镇南资源点	zao zhuang shi teng zhou shi bin hu zhen nan zi yuan dian	491
+枣庄市滕州市滨湖镇政府资源点	zao zhuang shi teng zhou shi bin hu zhen zheng fu zi yuan dian	492
+枣庄市滕州市滨江大酒店资源点	zao zhuang shi teng zhou shi bin jiang da jiu dian zi yuan dian	378
+枣庄市滕州市柴胡店姬庄资源点	zao zhuang shi teng zhou shi chai hu dian ji zhuang zi yuan dian	526
+枣庄市滕州市柴里东村资源点	zao zhuang shi teng zhou shi chai li dong cun zi yuan dian	280
+枣庄市滕州市城市人家资源点	zao zhuang shi teng zhou shi cheng shi ren jia zi yuan dian	502
+枣庄市滕州市程塘南空地资源点	zao zhuang shi teng zhou shi cheng tang nan kong di zi yuan dian	372
+枣庄市滕州市大官庄高铁资源点	zao zhuang shi teng zhou shi da guan zhuang gao tie zi yuan dian	486
+枣庄市滕州市大庙村资源点	zao zhuang shi teng zhou shi da miao cun zi yuan dian	357
+枣庄市滕州市大坞吴楼村资源点	zao zhuang shi teng zhou shi da wu wu lou cun zi yuan dian	480
+枣庄市滕州市德馨花园资源点	zao zhuang shi teng zhou shi de xin hua yuan zi yuan dian	295
+枣庄市滕州市董村东南资源点	zao zhuang shi teng zhou shi dong cun dong nan zi yuan dian	362
+枣庄市滕州市董村资源点	zao zhuang shi teng zhou shi dong cun zi yuan dian	374
+枣庄市滕州市东大庙资源点	zao zhuang shi teng zhou shi dong da miao zi yuan dian	463
+枣庄市滕州市东郭前坞村资源点	zao zhuang shi teng zhou shi dong guo qian wu cun zi yuan dian	466
+枣庄市滕州市东郭水泥厂资源点	zao zhuang shi teng zhou shi dong guo shui ni chang zi yuan dian	465
+枣庄市滕州市东郭营业厅资源点	zao zhuang shi teng zhou shi dong guo ying ye ting zi yuan dian	473
+枣庄市滕州市东郝楼资源点	zao zhuang shi teng zhou shi dong hao lou zi yuan dian	482
+枣庄市滕州市东沙河蔡村资源点	zao zhuang shi teng zhou shi dong sha he cai cun zi yuan dian	462
+枣庄市滕州市杜屯资源点	zao zhuang shi teng zhou shi du tun zi yuan dian	274
+枣庄市滕州市二中拉远资源点	zao zhuang shi teng zhou shi er zhong la yuan zi yuan dian	297
+枣庄市滕州市饭店资源点	zao zhuang shi teng zhou shi fan dian zi yuan dian	369
+枣庄市滕州市冯东北资源点	zao zhuang shi teng zhou shi feng dong bei zi yuan dian	365
+枣庄市滕州市高速蔡村西资源点	zao zhuang shi teng zhou shi gao su cai cun xi zi yuan dian	348
+枣庄市滕州市高铁化石沟资源点	zao zhuang shi teng zhou shi gao tie hua shi gou zi yuan dian	331
+枣庄市滕州市公交公司资源点	zao zhuang shi teng zhou shi gong jiao gong si zi yuan dian	359
+枣庄市滕州市古石二村资源点	zao zhuang shi teng zhou shi gu shi er cun zi yuan dian	320
+枣庄市滕州市官桥东郑庄资源点	zao zhuang shi teng zhou shi guan qiao dong zheng zhuang zi yuan dian	452
+枣庄市滕州市官桥渠村厂资源点	zao zhuang shi teng zhou shi guan qiao qu cun chang zi yuan dian	449
+枣庄市滕州市贵和佳苑资源点	zao zhuang shi teng zhou shi gui he jia yuan zi yuan dian	516
+枣庄市滕州市郭庄北微站资源点	zao zhuang shi teng zhou shi guo zhuang bei wei zhan zi yuan dian	349
+枣庄市滕州市韩桥村东资源点	zao zhuang shi teng zhou shi han qiao cun dong zi yuan dian	401
+枣庄市滕州市韩桥村南资源点	zao zhuang shi teng zhou shi han qiao cun nan zi yuan dian	400
+枣庄市滕州市和家园资源点	zao zhuang shi teng zhou shi he jia yuan zi yuan dian	518
+枣庄市滕州市贺庄村资源点	zao zhuang shi teng zhou shi he zhuang cun zi yuan dian	361
+枣庄市滕州市宏润毛纺厂资源点	zao zhuang shi teng zhou shi hong run mao fang chang zi yuan dian	360
+枣庄市滕州市后仓沟村资源点	zao zhuang shi teng zhou shi hou cang gou cun zi yuan dian	321
+枣庄市滕州市后梁高铁资源点	zao zhuang shi teng zhou shi hou liang gao tie zi yuan dian	461
+枣庄市滕州市后七里铺资源点	zao zhuang shi teng zhou shi hou qi li pu zi yuan dian	307
+枣庄市滕州市侯王村资源点	zao zhuang shi teng zhou shi hou wang cun zi yuan dian	499
+枣庄市滕州市后坞沟高铁资源点	zao zhuang shi teng zhou shi hou wu gou gao tie zi yuan dian	469
+枣庄市滕州市后辛章村资源点	zao zhuang shi teng zhou shi hou xin zhang cun zi yuan dian	324
+枣庄市滕州市华晨期茂资源点	zao zhuang shi teng zhou shi hua chen qi mao zi yuan dian	325
+枣庄市滕州市级索翟庄中资源点	zao zhuang shi teng zhou shi ji suo zhai zhuang zhong zi yuan dian	432
+枣庄市滕州市嘉誉商贸城资源点	zao zhuang shi teng zhou shi jia yu shang mao cheng zi yuan dian	505
+枣庄市滕州市贾庄南拉远资源点	zao zhuang shi teng zhou shi jia zhuang nan la yuan zi yuan dian	293
+枣庄市滕州市贾庄资源点	zao zhuang shi teng zhou shi jia zhuang zi yuan dian	301
+枣庄市滕州市姜屯党村北资源点	zao zhuang shi teng zhou shi jiang tun dang cun bei zi yuan dian	420
+枣庄市滕州市姜屯东杨庄资源点	zao zhuang shi teng zhou shi jiang tun dong yang zhuang zi yuan dian	424
+枣庄市滕州市姜屯种寨资源点	zao zhuang shi teng zhou shi jiang tun zhong zhai zi yuan dian	425
+枣庄市滕州市金城南区资源点	zao zhuang shi teng zhou shi jin cheng nan qu zi yuan dian	407
+枣庄市滕州市锦滕弘达资源点	zao zhuang shi teng zhou shi jin teng hong da zi yuan dian	300
+枣庄市滕州市荆善安居小资源点	zao zhuang shi teng zhou shi jing shan an ju xiao zi yuan dian	302
+枣庄市滕州市君瑞城拉远资源点	zao zhuang shi teng zhou shi jun rui cheng la yuan zi yuan dian	498
+枣庄市滕州市孔屯加气站资源点	zao zhuang shi teng zhou shi kong tun jia qi zhan zi yuan dian	445
+枣庄市滕州市丽都水岸资源点	zao zhuang shi teng zhou shi li du shui an zi yuan dian	368
+枣庄市滕州市力力织袋厂资源点	zao zhuang shi teng zhou shi li li zhi dai chang zi yuan dian	440
+枣庄市滕州市连水北高铁资源点	zao zhuang shi teng zhou shi lian shui bei gao tie zi yuan dian	332
+枣庄市滕州市梁场北资源点	zao zhuang shi teng zhou shi liang chang bei zi yuan dian	514
+枣庄市滕州市领秀城小资源点	zao zhuang shi teng zhou shi ling xiu cheng xiao zi yuan dian	367
+枣庄市滕州市刘楼村北米资源点	zao zhuang shi teng zhou shi liu lou cun bei mi zi yuan dian	399
+枣庄市滕州市柳楼村东资源点	zao zhuang shi teng zhou shi liu lou cun dong zi yuan dian	398
+枣庄市滕州市六中资源点	zao zhuang shi teng zhou shi liu zhong zi yuan dian	283
+枣庄市滕州市龙阳加油站资源点	zao zhuang shi teng zhou shi long yang jia you zhan zi yuan dian	343
+枣庄市滕州市龙阳西朱仇资源点	zao zhuang shi teng zhou shi long yang xi zhu chou zi yuan dian	340
+枣庄市滕州市罗庄东高铁资源点	zao zhuang shi teng zhou shi luo zhuang dong gao tie zi yuan dian	468
+枣庄市滕州市马河口资源点	zao zhuang shi teng zhou shi ma he kou zi yuan dian	527
+枣庄市滕州市玫瑰园资源点	zao zhuang shi teng zhou shi mei gui yuan zi yuan dian	497
+枣庄市滕州市美铭广场资源点	zao zhuang shi teng zhou shi mei ming guang chang zi yuan dian	355
+枣庄市滕州市磨坑北高铁资源点	zao zhuang shi teng zhou shi mo keng bei gao tie zi yuan dian	460
+枣庄市滕州市木石大峪庙资源点	zao zhuang shi teng zhou shi mu shi da yu miao zi yuan dian	335
+枣庄市滕州市木石检庄资源点	zao zhuang shi teng zhou shi mu shi jian zhuang zi yuan dian	336
+枣庄市滕州市木石一村资源点	zao zhuang shi teng zhou shi mu shi yi cun zi yuan dian	329
+枣庄市滕州市南池村资源点	zao zhuang shi teng zhou shi nan chi cun zi yuan dian	322
+枣庄市滕州市南池桥头南资源点	zao zhuang shi teng zhou shi nan chi qiao tou nan zi yuan dian	318
+枣庄市滕州市南胡楼高铁资源点	zao zhuang shi teng zhou shi nan hu lou gao tie zi yuan dian	485
+枣庄市滕州市南界河村北资源点	zao zhuang shi teng zhou shi nan jie he cun bei zi yuan dian	417
+枣庄市滕州市南沙河冯东资源点	zao zhuang shi teng zhou shi nan sha he feng dong zi yuan dian	326
+枣庄市滕州市南沙河南池资源点	zao zhuang shi teng zhou shi nan sha he nan chi zi yuan dian	314
+枣庄市滕州市苹果花园资源点	zao zhuang shi teng zhou shi ping guo hua yuan zi yuan dian	519
+枣庄市滕州市前房资源点	zao zhuang shi teng zhou shi qian fang zi yuan dian	317
+枣庄市滕州市前洪村资源点	zao zhuang shi teng zhou shi qian hong cun zi yuan dian	512
+枣庄市滕州市秦庄资源点	zao zhuang shi teng zhou shi qin zhuang zi yuan dian	296
+枣庄市滕州市清河尚城资源点	zao zhuang shi teng zhou shi qing he shang cheng zi yuan dian	500
+枣庄市滕州市人民医院资源点	zao zhuang shi teng zhou shi ren min yi yuan zi yuan dian	379
+枣庄市滕州市润恒第一城资源点	zao zhuang shi teng zhou shi run heng di yi cheng zi yuan dian	408
+枣庄市滕州市三维钢结构资源点	zao zhuang shi teng zhou shi san wei gang jie gou zi yuan dian	309
+枣庄市滕州市善国新村南资源点	zao zhuang shi teng zhou shi shan guo xin cun nan zi yuan dian	291
+枣庄市滕州市善国苑小学资源点	zao zhuang shi teng zhou shi shan guo yuan xiao xue zi yuan dian	299
+枣庄市滕州市神达化工南资源点	zao zhuang shi teng zhou shi shen da hua gong nan zi yuan dian	450
+枣庄市滕州市孙庄东高铁资源点	zao zhuang shi teng zhou shi sun zhuang dong gao tie zi yuan dian	457
+枣庄市滕州市塔北大酒店资源点	zao zhuang shi teng zhou shi ta bei da jiu dian zi yuan dian	504
+枣庄市滕州市滕都帝景资源点	zao zhuang shi teng zhou shi teng dou di jing zi yuan dian	402
+枣庄市滕州市滕州冯村资源点	zao zhuang shi teng zhou shi teng zhou feng cun zi yuan dian	373
+枣庄市滕州市滕州南秦庄资源点	zao zhuang shi teng zhou shi teng zhou nan qin zhuang zi yuan dian	406
+枣庄市滕州市滕州孙楼资源点	zao zhuang shi teng zhou shi teng zhou sun lou zi yuan dian	510
+枣庄市滕州市滕州孙庄资源点	zao zhuang shi teng zhou shi teng zhou sun zhuang zi yuan dian	511
+枣庄市滕州市滕州新建站资源点	zao zhuang shi teng zhou shi teng zhou xin jian zhan zi yuan dian	392
+枣庄市滕州市滕州张明庄资源点	zao zhuang shi teng zhou shi teng zhou zhang ming zhuang zi yuan dian	404
+枣庄市滕州市体育场西北资源点	zao zhuang shi teng zhou shi ti yu chang xi bei zi yuan dian	503
+枣庄市滕州市田陈矿宿舍资源点	zao zhuang shi teng zhou shi tian chen kuang su she zi yuan dian	287
+枣庄市滕州市团结村资源点	zao zhuang shi teng zhou shi tuan jie cun zi yuan dian	442
+枣庄市滕州市望河北高铁资源点	zao zhuang shi teng zhou shi wang he bei gao tie zi yuan dian	451
+枣庄市滕州市王开村西资源点	zao zhuang shi teng zhou shi wang kai cun xi zi yuan dian	306
+枣庄市滕州市威达重工资源点	zao zhuang shi teng zhou shi wei da zhong gong zi yuan dian	441
+枣庄市滕州市威尼斯号楼资源点	zao zhuang shi teng zhou shi wei ni si hao lou zi yuan dian	308
+枣庄市滕州市西部放歌东资源点	zao zhuang shi teng zhou shi xi bu fang ge dong zi yuan dian	501
+枣庄市滕州市西城丽景资源点	zao zhuang shi teng zhou shi xi cheng li jing zi yuan dian	403
+枣庄市滕州市西大庙资源点	zao zhuang shi teng zhou shi xi da miao zi yuan dian	464
+枣庄市滕州市西党村资源点	zao zhuang shi teng zhou shi xi dang cun zi yuan dian	426
+枣庄市滕州市西岗满园村资源点	zao zhuang shi teng zhou shi xi gang man yuan cun zi yuan dian	279
+枣庄市滕州市西关小学资源点	zao zhuang shi teng zhou shi xi guan xiao xue zi yuan dian	391
+枣庄市滕州市西康留资源点	zao zhuang shi teng zhou shi xi kang liu zi yuan dian	454
+枣庄市滕州市西明高铁资源点	zao zhuang shi teng zhou shi xi ming gao tie zi yuan dian	470
+枣庄市滕州市鑫迪门业资源点	zao zhuang shi teng zhou shi xin di men ye zi yuan dian	298
+枣庄市滕州市信息学校北资源点	zao zhuang shi teng zhou shi xin xi xue xiao bei zi yuan dian	388
+枣庄市滕州市辛庄南拉远资源点	zao zhuang shi teng zhou shi xin zhuang nan la yuan zi yuan dian	315
+枣庄市滕州市杏腾国际资源点	zao zhuang shi teng zhou shi xing teng guo ji zi yuan dian	517
+枣庄市滕州市颜楼联通资源点	zao zhuang shi teng zhou shi yan lou lian tong zi yuan dian	443
+枣庄市滕州市羊北庄高铁资源点	zao zhuang shi teng zhou shi yang bei zhuang gao tie zi yuan dian	268
+枣庄市滕州市杨桥村资源点	zao zhuang shi teng zhou shi yang qiao cun zi yuan dian	487
+枣庄市滕州市羊庄东王庄资源点	zao zhuang shi teng zhou shi yang zhuang dong wang zhuang zi yuan dian	272
+枣庄市滕州市羊庄杨坡资源点	zao zhuang shi teng zhou shi yang zhuang yang po zi yuan dian	267
+枣庄市滕州市羊庄镇民庄资源点	zao zhuang shi teng zhou shi yang zhuang zhen min zhuang zi yuan dian	273
+枣庄市滕州市羊庄镇政府资源点	zao zhuang shi teng zhou shi yang zhuang zhen zheng fu zi yuan dian	275
+枣庄市滕州市艺格集团南资源点	zao zhuang shi teng zhou shi yi ge ji tuan nan zi yuan dian	513
+枣庄市滕州市银河资源点	zao zhuang shi teng zhou shi yin he zi yuan dian	395
+枣庄市滕州市樱花苑东南资源点	zao zhuang shi teng zhou shi ying hua yuan dong nan zi yuan dian	364
+枣庄市滕州市盈泰生态园资源点	zao zhuang shi teng zhou shi ying tai sheng tai yuan zi yuan dian	390
+枣庄市滕州市远航水晶城资源点	zao zhuang shi teng zhou shi yuan hang shui jing cheng zi yuan dian	366
+枣庄市滕州市圆梦园资源点	zao zhuang shi teng zhou shi yuan meng yuan zi yuan dian	286
+枣庄市滕州市袁前村资源点	zao zhuang shi teng zhou shi yuan qian cun zi yuan dian	481
+枣庄市滕州市袁庄村东资源点	zao zhuang shi teng zhou shi yuan zhuang cun dong zi yuan dian	394
+枣庄市滕州市张刘庄北资源点	zao zhuang shi teng zhou shi zhang liu zhuang bei zi yuan dian	385
+枣庄市滕州市张山口高铁资源点	zao zhuang shi teng zhou shi zhang shan kou gao tie zi yuan dian	339
+枣庄市滕州市张洼村西资源点	zao zhuang shi teng zhou shi zhang wa cun xi zi yuan dian	458
+枣庄市滕州市张汪大张庄资源点	zao zhuang shi teng zhou shi zhang wang da zhang zhuang zi yuan dian	261
+枣庄市滕州市赵沟社区资源点	zao zhuang shi teng zhou shi zhao gou she qu zi yuan dian	396
+枣庄市滕州市赵楼村资源点	zao zhuang shi teng zhou shi zhao lou cun zi yuan dian	375
+枣庄市滕州市赵王河小区资源点	zao zhuang shi teng zhou shi zhao wang he xiao qu zi yuan dian	363
+枣庄市滕州市赵庄村资源点	zao zhuang shi teng zhou shi zhao zhuang cun zi yuan dian	376
+枣庄市滕州市振兴花园资源点	zao zhuang shi teng zhou shi zhen xing hua yuan zi yuan dian	397
+枣庄市滕州市中联水泥厂资源点	zao zhuang shi teng zhou shi zhong lian shui ni chang zi yuan dian	276
+枣庄市滕州市周楼嘉苑资源点	zao zhuang shi teng zhou shi zhou lou jia yuan zi yuan dian	515
+枣庄市滕州市祝陈资源点	zao zhuang shi teng zhou shi zhu chen zi yuan dian	288
+枣庄市滕州市朱李村拉远资源点	zao zhuang shi teng zhou shi zhu li cun la yuan zi yuan dian	386
+枣庄市滕州微山湖鱼村资源点	zao zhuang shi teng zhou wei shan hu yu cun zi yuan dian	405
+枣庄市滕州小坞资源点	zao zhuang shi teng zhou xiao wu zi yuan dian	479
+枣庄市滕州杨套联通共享资源点	zao zhuang shi teng zhou yang tao lian tong gong xiang zi yuan dian	330
+枣庄市滕州羊庄沈井村资源点	zao zhuang shi teng zhou yang zhuang shen jing cun zi yuan dian	271
+枣庄市西岗半楼资源点	zao zhuang shi xi gang ban lou zi yuan dian	282
+枣庄市薛城黑石岭资源点	zao zhuang shi xue cheng hei shi ling zi yuan dian	210
+枣庄市薛城后井亭资源点	zao zhuang shi xue cheng hou jing ting zi yuan dian	247
+枣庄市薛城湖景花园北资源点	zao zhuang shi xue cheng hu jing hua yuan bei zi yuan dian	133
+枣庄市薛城京台高速补点资源点	zao zhuang shi xue cheng jing tai gao su bu dian zi yuan dian	173
+枣庄市薛城齐湖资源点	zao zhuang shi xue cheng qi hu zi yuan dian	171
+枣庄市薛城区百灵空调资源点	zao zhuang shi xue cheng qu bai ling kong tiao zi yuan dian	149
+枣庄市薛城区北李村高铁资源点	zao zhuang shi xue cheng qu bei li cun gao tie zi yuan dian	187
+枣庄市薛城区茶棚高铁资源点	zao zhuang shi xue cheng qu cha peng gao tie zi yuan dian	192
+枣庄市薛城区常庄工业园资源点	zao zhuang shi xue cheng qu chang zhuang gong ye yuan zi yuan dian	244
+枣庄市薛城区大沃高铁资源点	zao zhuang shi xue cheng qu da wo gao tie zi yuan dian	188
+枣庄市薛城区东界沟高铁资源点	zao zhuang shi xue cheng qu dong jie gou gao tie zi yuan dian	190
+枣庄市薛城区东巨山东资源点	zao zhuang shi xue cheng qu dong ju shan dong zi yuan dian	138
+枣庄市薛城区东山华府资源点	zao zhuang shi xue cheng qu dong shan hua fu zi yuan dian	144
+枣庄市薛城区东小花园资源点	zao zhuang shi xue cheng qu dong xiao hua yuan zi yuan dian	154
+枣庄市薛城区东邹坞村资源点	zao zhuang shi xue cheng qu dong zou wu cun zi yuan dian	100
+枣庄市薛城区峨眉山隧道资源点	zao zhuang shi xue cheng qu e mei shan sui dao zi yuan dian	196
+枣庄市薛城区凤凰山东区资源点	zao zhuang shi xue cheng qu feng huang shan dong qu zi yuan dian	156
+枣庄市薛城区凤凰台资源点	zao zhuang shi xue cheng qu feng huang tai zi yuan dian	127
+枣庄市薛城区甘霖工业园资源点	zao zhuang shi xue cheng qu gan lin gong ye yuan zi yuan dian	105
+枣庄市薛城区甘霖花园资源点	zao zhuang shi xue cheng qu gan lin hua yuan zi yuan dian	99
+枣庄市薛城区高铁西北米资源点	zao zhuang shi xue cheng qu gao tie xi bei mi zi yuan dian	148
+枣庄市薛城区工商银行资源点	zao zhuang shi xue cheng qu gong shang yin hang zi yuan dian	227
+枣庄市薛城区龚庄高铁资源点	zao zhuang shi xue cheng qu gong zhuang gao tie zi yuan dian	120
+枣庄市薛城区海王医药资源点	zao zhuang shi xue cheng qu hai wang yi yao zi yuan dian	205
+枣庄市薛城区和尚寺资源点	zao zhuang shi xue cheng qu he shang si zi yuan dian	212
+枣庄市薛城区河湾西高铁资源点	zao zhuang shi xue cheng qu he wan xi gao tie zi yuan dian	115
+枣庄市薛城区和谐园室分资源点	zao zhuang shi xue cheng qu he xie yuan shi fen zi yuan dian	220
+枣庄市薛城区黑龙江路资源点	zao zhuang shi xue cheng qu hei long jiang lu zi yuan dian	164
+枣庄市薛城区后金马高铁资源点	zao zhuang shi xue cheng qu hou jin ma gao tie zi yuan dian	118
+枣庄市薛城区后井村西资源点	zao zhuang shi xue cheng qu hou jing cun xi zi yuan dian	176
+枣庄市薛城区胡庄北高铁资源点	zao zhuang shi xue cheng qu hu zhuang bei gao tie zi yuan dian	117
+枣庄市薛城区胡庄高铁资源点	zao zhuang shi xue cheng qu hu zhuang gao tie zi yuan dian	116
+枣庄市薛城区黄风口南资源点	zao zhuang shi xue cheng qu huang feng kou nan zi yuan dian	198
+枣庄市薛城区黄楼高铁资源点	zao zhuang shi xue cheng qu huang lou gao tie zi yuan dian	189
+枣庄市薛城区建设局资源点	zao zhuang shi xue cheng qu jian she ju zi yuan dian	245
+枣庄市薛城区金地花苑资源点	zao zhuang shi xue cheng qu jin di hua yuan zi yuan dian	146
+枣庄市薛城区金河下于资源点	zao zhuang shi xue cheng qu jin he xia yu zi yuan dian	242
+枣庄市薛城区金马驹高铁资源点	zao zhuang shi xue cheng qu jin ma ju gao tie zi yuan dian	119
+枣庄市薛城区金泰花园资源点	zao zhuang shi xue cheng qu jin tai hua yuan zi yuan dian	221
+枣庄市薛城区金泰嘉园资源点	zao zhuang shi xue cheng qu jin tai jia yuan zi yuan dian	226
+枣庄市薛城区凯润花园资源点	zao zhuang shi xue cheng qu kai run hua yuan zi yuan dian	160
+枣庄市薛城区开元花苑资源点	zao zhuang shi xue cheng qu kai yuan hua yuan zi yuan dian	217
+枣庄市薛城区匡山头高铁资源点	zao zhuang shi xue cheng qu kuang shan tou gao tie zi yuan dian	130
+枣庄市薛城区匡头拉远资源点	zao zhuang shi xue cheng qu kuang tou la yuan zi yuan dian	168
+枣庄市薛城区老四处资源点	zao zhuang shi xue cheng qu lao si chu zi yuan dian	225
+枣庄市薛城区立丰实业资源点	zao zhuang shi xue cheng qu li feng shi ye zi yuan dian	251
+枣庄市薛城区联通徐沃资源点	zao zhuang shi xue cheng qu lian tong xu wo zi yuan dian	147
+枣庄市薛城区梁家大院资源点	zao zhuang shi xue cheng qu liang jia da yuan zi yuan dian	140
+枣庄市薛城区临山公寓资源点	zao zhuang shi xue cheng qu lin shan gong yu zi yuan dian	218
+枣庄市薛城区临山俊景资源点	zao zhuang shi xue cheng qu lin shan jun jing zi yuan dian	215
+枣庄市薛城区林业局宿舍资源点	zao zhuang shi xue cheng qu lin ye ju su she zi yuan dian	223
+枣庄市薛城区刘沟资源点	zao zhuang shi xue cheng qu liu gou zi yuan dian	103
+枣庄市薛城区榴园大道资源点	zao zhuang shi xue cheng qu liu yuan da dao zi yuan dian	185
+枣庄市薛城区吕沟高铁资源点	zao zhuang shi xue cheng qu lv gou gao tie zi yuan dian	193
+枣庄市薛城区米楼村高铁资源点	zao zhuang shi xue cheng qu mi lou cun gao tie zi yuan dian	111
+枣庄市薛城区磨庄高铁资源点	zao zhuang shi xue cheng qu mo zhuang gao tie zi yuan dian	112
+枣庄市薛城区挪庄资源点	zao zhuang shi xue cheng qu nuo zhuang zi yuan dian	219
+枣庄市薛城区千山头高铁资源点	zao zhuang shi xue cheng qu qian shan tou gao tie zi yuan dian	143
+枣庄市薛城区任庄南高铁资源点	zao zhuang shi xue cheng qu ren zhuang nan gao tie zi yuan dian	114
+枣庄市薛城区沙沟东村资源点	zao zhuang shi xue cheng qu sha gou dong cun zi yuan dian	183
+枣庄市薛城区山家林宿舍资源点	zao zhuang shi xue cheng qu shan jia lin su she zi yuan dian	178
+枣庄市薛城区上殷高铁资源点	zao zhuang shi xue cheng qu shang yin gao tie zi yuan dian	142
+枣庄市薛城区石庙高铁资源点	zao zhuang shi xue cheng qu shi miao gao tie zi yuan dian	113
+枣庄市薛城区四里石桥头资源点	zao zhuang shi xue cheng qu si li shi qiao tou zi yuan dian	126
+枣庄市薛城区唐口资源点	zao zhuang shi xue cheng qu tang kou zi yuan dian	167
+枣庄市薛城区陶庄商业街资源点	zao zhuang shi xue cheng qu tao zhuang shang ye jie zi yuan dian	179
+枣庄市薛城区潍焦集团南资源点	zao zhuang shi xue cheng qu wei jiao ji tuan nan zi yuan dian	107
+枣庄市薛城区文景花园资源点	zao zhuang shi xue cheng qu wen jing hua yuan zi yuan dian	139
+枣庄市薛城区吴庄高铁资源点	zao zhuang shi xue cheng qu wu zhuang gao tie zi yuan dian	240
+枣庄市薛城区西界沟高铁资源点	zao zhuang shi xue cheng qu xi jie gou gao tie zi yuan dian	191
+枣庄市薛城区西托后资源点	zao zhuang shi xue cheng qu xi tuo hou zi yuan dian	145
+枣庄市薛城区夏庄高铁资源点	zao zhuang shi xue cheng qu xia zhuang gao tie zi yuan dian	170
+枣庄市薛城区夏庄南高铁资源点	zao zhuang shi xue cheng qu xia zhuang nan gao tie zi yuan dian	169
+枣庄市薛城区小香城资源点	zao zhuang shi xue cheng qu xiao xiang cheng zi yuan dian	206
+枣庄市薛城区兴仁村高铁资源点	zao zhuang shi xue cheng qu xing ren cun gao tie zi yuan dian	129
+枣庄市薛城区兴仁街道办资源点	zao zhuang shi xue cheng qu xing ren jie dao ban zi yuan dian	132
+枣庄市薛城区薛城大吕巷资源点	zao zhuang shi xue cheng qu xue cheng da lv xiang zi yuan dian	207
+枣庄市薛城区薛国大酒店资源点	zao zhuang shi xue cheng qu xue guo da jiu dian zi yuan dian	228
+枣庄市薛城区薛庄中心资源点	zao zhuang shi xue cheng qu xue zhuang zhong xin zi yuan dian	224
+枣庄市薛城区燕山国际东资源点	zao zhuang shi xue cheng qu yan shan guo ji dong zi yuan dian	216
+枣庄市薛城区杨峪资源点	zao zhuang shi xue cheng qu yang yu zi yuan dian	208
+枣庄市薛城区颐嘉园资源点	zao zhuang shi xue cheng qu yi jia yuan zi yuan dian	161
+枣庄市薛城区颐正园拉远资源点	zao zhuang shi xue cheng qu yi zheng yuan la yuan zi yuan dian	184
+枣庄市薛城区英才小学资源点	zao zhuang shi xue cheng qu ying cai xiao xue zi yuan dian	222
+枣庄市薛城区于庄南侧资源点	zao zhuang shi xue cheng qu yu zhuang nan ce zi yuan dian	159
+枣庄市薛城区枣矿城资源点	zao zhuang shi xue cheng qu zao kuang cheng zi yuan dian	165
+枣庄市薛城区站前花苑资源点	zao zhuang shi xue cheng qu zhan qian hua yuan zi yuan dian	155
+枣庄市薛城区张范东村资源点	zao zhuang shi xue cheng qu zhang fan dong cun zi yuan dian	203
+枣庄市薛城区张家岭资源点	zao zhuang shi xue cheng qu zhang jia ling zi yuan dian	104
+枣庄市薛城区政府东南资源点	zao zhuang shi xue cheng qu zheng fu dong nan zi yuan dian	153
+枣庄市薛城区政府楼北资源点	zao zhuang shi xue cheng qu zheng fu lou bei zi yuan dian	152
+枣庄市薛城区中李村高铁资源点	zao zhuang shi xue cheng qu zhong li cun gao tie zi yuan dian	204
+枣庄市薛城区中李庄高铁资源点	zao zhuang shi xue cheng qu zhong li zhuang gao tie zi yuan dian	186
+枣庄市薛城区中香城资源点	zao zhuang shi xue cheng qu zhong xiang cheng zi yuan dian	209
+枣庄市薛城区中兴世纪城资源点	zao zhuang shi xue cheng qu zhong xing shi ji cheng zi yuan dian	162
+枣庄市薛城区种庄资源点	zao zhuang shi xue cheng qu zhong zhuang zi yuan dian	252
+枣庄市薛城区周营刘河口资源点	zao zhuang shi xue cheng qu zhou ying liu he kou zi yuan dian	121
+枣庄市薛城区周营牛山资源点	zao zhuang shi xue cheng qu zhou ying niu shan zi yuan dian	122
+枣庄市薛城区周营小辛庄资源点	zao zhuang shi xue cheng qu zhou ying xiao xin zhuang zi yuan dian	123
+枣庄市薛城区珠江华府南资源点	zao zhuang shi xue cheng qu zhu jiang hua fu nan zi yuan dian	141
+枣庄市薛城区紫光园号楼资源点	zao zhuang shi xue cheng qu zi guang yuan hao lou zi yuan dian	163
+枣庄市薛城万州第一街资源点	zao zhuang shi xue cheng wan zhou di yi jie zi yuan dian	246
+枣庄市薛城优山美地资源点	zao zhuang shi xue cheng you shan mei di zi yuan dian	157
+枣庄市峄城百亿天城拉远资源点	zao zhuang shi yi cheng bai yi tian cheng la yuan zi yuan dian	13
+枣庄市峄城大桥头资源点	zao zhuang shi yi cheng da qiao tou zi yuan dian	19
+枣庄市峄城丰源轮胎厂北资源点	zao zhuang shi yi cheng feng yuan lun tai chang bei zi yuan dian	51
+枣庄市峄城官山口资源点	zao zhuang shi yi cheng guan shan kou zi yuan dian	65
+枣庄市峄城金牛三期资源点	zao zhuang shi yi cheng jin niu san qi zi yuan dian	23
+枣庄市峄城区曹庄大兴矿资源点	zao zhuang shi yi cheng qu cao zhuang da xing kuang zi yuan dian	78
+枣庄市峄城区大南庄南米资源点	zao zhuang shi yi cheng qu da nan zhuang nan mi zi yuan dian	79
+枣庄市峄城区党校资源点	zao zhuang shi yi cheng qu dang xiao zi yuan dian	64
+枣庄市峄城区底阁警务区资源点	zao zhuang shi yi cheng qu di ge jing wu qu zi yuan dian	97
+枣庄市峄城区峨山镇东资源点	zao zhuang shi yi cheng qu e shan zhen dong zi yuan dian	89
+枣庄市峄城区福兴花园北资源点	zao zhuang shi yi cheng qu fu xing hua yuan bei zi yuan dian	68
+枣庄市峄城区姑嫂山资源点	zao zhuang shi yi cheng qu gu sao shan zi yuan dian	63
+枣庄市峄城区古邵西资源点	zao zhuang shi yi cheng qu gu shao xi zi yuan dian	77
+枣庄市峄城区鸿泰酒店资源点	zao zhuang shi yi cheng qu hong tai jiu dian zi yuan dian	62
+枣庄市峄城区后利增东资源点	zao zhuang shi yi cheng qu hou li zeng dong zi yuan dian	92
+枣庄市峄城区后湾村东侧资源点	zao zhuang shi yi cheng qu hou wan cun dong ce zi yuan dian	57
+枣庄市峄城区金寺大南庄资源点	zao zhuang shi yi cheng qu jin si da nan zhuang zi yuan dian	4
+枣庄市峄城区金寺女娲峰资源点	zao zhuang shi yi cheng qu jin si nv wa feng zi yuan dian	2
+枣庄市峄城区匡衡小学北资源点	zao zhuang shi yi cheng qu kuang heng xiao xue bei zi yuan dian	60
+枣庄市峄城区匡衡小学资源点	zao zhuang shi yi cheng qu kuang heng xiao xue zi yuan dian	50
+枣庄市峄城区立交桥资源点	zao zhuang shi yi cheng qu li jiao qiao zi yuan dian	61
+枣庄市峄城区利民居委会资源点	zao zhuang shi yi cheng qu li min ju wei hui zi yuan dian	20
+枣庄市峄城区鹭鸣山庄东资源点	zao zhuang shi yi cheng qu lu ming shan zhuang dong zi yuan dian	30
+枣庄市峄城区栾庄村西资源点	zao zhuang shi yi cheng qu luan zhuang cun xi zi yuan dian	49
+枣庄市峄城区栾庄拉远站资源点	zao zhuang shi yi cheng qu luan zhuang la yuan zhan zi yuan dian	48
+枣庄市峄城区苗圈村东资源点	zao zhuang shi yi cheng qu miao quan cun dong zi yuan dian	58
+枣庄市峄城区前黄湖山岗资源点	zao zhuang shi yi cheng qu qian huang hu shan gang zi yuan dian	3
+枣庄市峄城区前马寨资源点	zao zhuang shi yi cheng qu qian ma zhai zi yuan dian	90
+枣庄市峄城区区人民医院资源点	zao zhuang shi yi cheng qu qu ren min yi yuan zi yuan dian	31
+枣庄市峄城区上刘庄资源点	zao zhuang shi yi cheng qu shang liu zhuang zi yuan dian	5
+枣庄市峄城区水利局资源点	zao zhuang shi yi cheng qu shui li ju zi yuan dian	59
+枣庄市峄城区潭翠玉都资源点	zao zhuang shi yi cheng qu tan cui yu dou zi yuan dian	29
+枣庄市峄城区棠阴娘娘坟资源点	zao zhuang shi yi cheng qu tang yin niang niang fen zi yuan dian	56
+枣庄市峄城区仙檀苑资源点	zao zhuang shi yi cheng qu xian tan yuan zi yuan dian	22
+枣庄市峄城区谢山西北资源点	zao zhuang shi yi cheng qu xie shan xi bei zi yuan dian	18
+枣庄市峄城区峄城仙坛苑资源点	zao zhuang shi yi cheng qu yi cheng xian tan yuan zi yuan dian	35
+枣庄市峄城区阴平镇南资源点	zao zhuang shi yi cheng qu yin ping zhen nan zi yuan dian	7
+枣庄市峄城区岳飞楼资源点	zao zhuang shi yi cheng qu yue fei lou zi yuan dian	55
+枣庄市峄城邵楼新村资源点	zao zhuang shi yi cheng shao lou xin cun zi yuan dian	39
+枣庄市峄城一中北资源点	zao zhuang shi yi cheng yi zhong bei zi yuan dian	38
+枣庄市中区电厂东宿舍资源点	zao zhuang shi zhong qu dian chang dong su she zi yuan dian	784
+枣庄市中区硌塔埠东资源点	zao zhuang shi zhong qu ge ta bu dong zi yuan dian	783
+枣庄市中区郭村电信共享资源点	zao zhuang shi zhong qu guo cun dian xin gong xiang zi yuan dian	708
+枣庄市中区郭村联通共享资源点	zao zhuang shi zhong qu guo cun lian tong gong xiang zi yuan dian	700
+枣庄市中区海之杰微站资源点	zao zhuang shi zhong qu hai zhi jie wei zhan zi yuan dian	593
+枣庄市中区化肥厂东拉远资源点	zao zhuang shi zhong qu hua fei chang dong la yuan zi yuan dian	808
+枣庄市中区黄山路资源点	zao zhuang shi zhong qu huang shan lu zi yuan dian	603
+枣庄市中区解放组团资源点	zao zhuang shi zhong qu jie fang zu tuan zi yuan dian	772
+枣庄市中区立新警务室资源点	zao zhuang shi zhong qu li xin jing wu shi zi yuan dian	580
+枣庄市中区龙居别墅资源点	zao zhuang shi zhong qu long ju bie shu zi yuan dian	763
+枣庄市中区伦达水城资源点	zao zhuang shi zhong qu lun da shui cheng zi yuan dian	597
+枣庄市中区孟庄招商办资源点	zao zhuang shi zhong qu meng zhuang zhao shang ban zi yuan dian	734
+枣庄市中区南园村西北资源点	zao zhuang shi zhong qu nan yuan cun xi bei zi yuan dian	583
+枣庄市中区齐村杨岭资源点	zao zhuang shi zhong qu qi cun yang ling zi yuan dian	699
+枣庄市中区前小湾资源点	zao zhuang shi zhong qu qian xiao wan zi yuan dian	627
+枣庄市中区三中西校资源点	zao zhuang shi zhong qu san zhong xi xiao zi yuan dian	635
+枣庄市中区尚湖城资源点	zao zhuang shi zhong qu shang hu cheng zi yuan dian	782
+枣庄市中区市农行资源点	zao zhuang shi zhong qu shi nong hang zi yuan dian	773
+枣庄市中区市中党校拉远资源点	zao zhuang shi zhong qu shi zhong dang xiao la yuan zi yuan dian	774
+枣庄市中区四十一中南资源点	zao zhuang shi zhong qu si shi yi zhong nan zi yuan dian	645
+枣庄市中区西王庄南山资源点	zao zhuang shi zhong qu xi wang zhuang nan shan zi yuan dian	624
+枣庄市中区香榭府邸资源点	zao zhuang shi zhong qu xiang xie fu di zi yuan dian	594
+枣庄市中区小尚岩拉远资源点	zao zhuang shi zhong qu xiao shang yan la yuan zi yuan dian	731
+枣庄市中区永安前陈湖资源点	zao zhuang shi zhong qu yong an qian chen hu zi yuan dian	604
+枣庄市中区宇和小区资源点	zao zhuang shi zhong qu yu he xiao qu zi yuan dian	809
+枣庄市中区余粮店资源点	zao zhuang shi zhong qu yu liang dian zi yuan dian	681
+枣庄市中区中天步行街北资源点	zao zhuang shi zhong qu zhong tian bu xing jie bei zi yuan dian	584
+枣庄税郭营业厅网络资源点	zao zhuang shui guo ying ye ting wang luo zi yuan dian	680
+枣庄台儿庄陈塘南部拉远资	zao zhuang tai er zhuang chen tang nan bu la yuan zi	563
+枣庄台儿庄涧头东北资源点	zao zhuang tai er zhuang jian tou dong bei zi yuan dian	570
+枣庄台儿庄涧头镇巨东资源点	zao zhuang tai er zhuang jian tou zhen ju dong zi yuan dian	571
+枣庄台儿庄区东港渔村资源点	zao zhuang tai er zhuang qu dong gang yu cun zi yuan dian	557
+枣庄台儿庄区钰鼎酒店资源点	zao zhuang tai er zhuang qu yu ding jiu dian zi yuan dian	559
+枣庄台儿庄小北洛村南资源点	zao zhuang tai er zhuang xiao bei luo cun nan zi yuan dian	565
+枣庄台儿庄御景嘉园资源点	zao zhuang tai er zhuang yu jing jia yuan zi yuan dian	560
+枣庄滕州百货大楼网络资源点	zao zhuang teng zhou bai huo da lou wang luo zi yuan dian	389
+枣庄滕州滨湖朝阳矿网络资源点	zao zhuang teng zhou bin hu zhao yang kuang wang luo zi yuan dian	490
+枣庄滕州大彦村南网络资源点	zao zhuang teng zhou da yan cun nan wang luo zi yuan dian	439
+枣庄滕州鼎盛园无线网络资源点	zao zhuang teng zhou ding sheng yuan wu xian wang luo zi yuan dian	393
+枣庄滕州东郭莲青山网络资源点	zao zhuang teng zhou dong guo lian qing shan wang luo zi yuan dian	471
+枣庄滕州东郭马庄网络资源点	zao zhuang teng zhou dong guo ma zhuang wang luo zi yuan dian	472
+枣庄滕州高铁滕州车站北资源点	zao zhuang teng zhou gao tie teng zhou che zhan bei zi yuan dian	459
+枣庄滕州涵翠苑号楼资源点	zao zhuang teng zhou han cui yuan hao lou zi yuan dian	352
+枣庄滕州翰香苑号楼资源点	zao zhuang teng zhou han xiang yuan hao lou zi yuan dian	350
+枣庄滕州洪绪颜楼网络资源点	zao zhuang teng zhou hong xu yan lou wang luo zi yuan dian	438
+枣庄滕州洪绪镇龙庄西南资源点	zao zhuang teng zhou hong xu zhen long zhuang xi nan zi yuan dian	444
+枣庄滕州华能线缆网络资源点	zao zhuang teng zhou hua neng xian lan wang luo zi yuan dian	294
+枣庄滕州皇殿岗资源点	zao zhuang teng zhou huang dian gang zi yuan dian	260
+枣庄滕州级索道沟网络资源点	zao zhuang teng zhou ji suo dao gou wang luo zi yuan dian	433
+枣庄滕州级索时庄网络资源点	zao zhuang teng zhou ji suo shi zhuang wang luo zi yuan dian	434
+枣庄滕州级索镇北杨楼村资源点	zao zhuang teng zhou ji suo zhen bei yang lou cun zi yuan dian	435
+枣庄滕州姜屯白了寺网络资源点	zao zhuang teng zhou jiang tun bai le si wang luo zi yuan dian	422
+枣庄滕州姜屯王林网络资源点	zao zhuang teng zhou jiang tun wang lin wang luo zi yuan dian	421
+枣庄滕州姜屯燕庄网络资源点	zao zhuang teng zhou jiang tun yan zhuang wang luo zi yuan dian	423
+枣庄滕州金贸花园南资源点	zao zhuang teng zhou jin mao hua yuan nan zi yuan dian	387
+枣庄滕州木石谷山机房	zao zhuang teng zhou mu shi gu shan ji fang	338
+枣庄滕州南沙河后房机房	zao zhuang teng zhou nan sha he hou fang ji fang	327
+枣庄滕州人和天地号楼资源点	zao zhuang teng zhou ren he tian di hao lou zi yuan dian	353
+枣庄滕州市白塔涝坡东北资源点	zao zhuang teng zhou shi bai ta lao po dong bei zi yuan dian	334
+枣庄滕州市北辛小岗村资源点	zao zhuang teng zhou shi bei xin xiao gang cun zi yuan dian	509
+枣庄滕州市官庄资源点	zao zhuang teng zhou shi guan zhuang zi yuan dian	528
+枣庄滕州市龙阳冯庄资源点	zao zhuang teng zhou shi long yang feng zhuang zi yuan dian	342
+枣庄滕州市明珠花园资源点	zao zhuang teng zhou shi ming zhu hua yuan zi yuan dian	305
+枣庄滕州市西岗高庙资源点	zao zhuang teng zhou shi xi gang gao miao zi yuan dian	285
+枣庄滕州市向阳山山顶资源点	zao zhuang teng zhou shi xiang yang shan shan ding zi yuan dian	456
+枣庄滕州宋王楼网络资源点	zao zhuang teng zhou song wang lou wang luo zi yuan dian	427
+枣庄滕州滕州涵翠苑号楼资源点	zao zhuang teng zhou teng zhou han cui yuan hao lou zi yuan dian	351
+枣庄滕州天音营业厅网络资源点	zao zhuang teng zhou tian yin ying ye ting wang luo zi yuan dian	354
+枣庄滕州西岗程楼机房	zao zhuang teng zhou xi gang cheng lou ji fang	289
+枣庄滕州西岗东王庄网络资源点	zao zhuang teng zhou xi gang dong wang zhuang wang luo zi yuan dian	281
+枣庄滕州羊庄高速南网络资源点	zao zhuang teng zhou yang zhuang gao su nan wang luo zi yuan dian	269
+枣庄滕州羊庄镇蒋航村机房无线	zao zhuang teng zhou yang zhuang zhen jiang hang cun ji fang wu xian	277
+枣庄滕州真爱商城	zao zhuang teng zhou zhen ai shang cheng	316
+枣庄新远花苑小区南网络资源点	zao zhuang xin yuan hua yuan xiao qu nan wang luo zi yuan dian	769
+枣庄薛城常庄村朱辛桥村机房	zao zhuang xue cheng chang zhuang cun zhu xin qiao cun ji fang	254
+枣庄薛城常庄镇吴庄村东资源点	zao zhuang xue cheng chang zhuang zhen wu zhuang cun dong zi yuan dian	250
+枣庄薛城匡山头枣曹线资源点	zao zhuang xue cheng kuang shan tou zao cao xian zi yuan dian	131
+枣庄薛城临山公园拉远站	zao zhuang xue cheng lin shan gong yuan la yuan zhan	235
+枣庄薛城临山公园资源点	zao zhuang xue cheng lin shan gong yuan zi yuan dian	233
+枣庄薛城前院山南资源点	zao zhuang xue cheng qian yuan shan nan zi yuan dian	177
+枣庄薛城清泉庄东资源点	zao zhuang xue cheng qing quan zhuang dong zi yuan dian	106
+枣庄薛城区高速路下口北资源点	zao zhuang xue cheng qu gao su lu xia kou bei zi yuan dian	134
+枣庄薛城区可可里小区西资源点	zao zhuang xue cheng qu ke ke li xiao qu xi zi yuan dian	135
+枣庄薛城区科苑小区微站资源点	zao zhuang xue cheng qu ke yuan xiao qu wei zhan zi yuan dian	236
+枣庄薛城沙沟东北资源点	zao zhuang xue cheng sha gou dong bei zi yuan dian	194
+枣庄薛城沙沟关帝庙资源点	zao zhuang xue cheng sha gou guan di miao zi yuan dian	195
+枣庄薛城西横山口资源点	zao zhuang xue cheng xi heng shan kou zi yuan dian	101
+枣庄薛城小朱庄资源点	zao zhuang xue cheng xiao zhu zhuang zi yuan dian	102
+枣庄薛城信用社微站二资源点	zao zhuang xue cheng xin yong she wei zhan er zi yuan dian	128
+枣庄薛城新源国际西北资源点	zao zhuang xue cheng xin yuan guo ji xi bei zi yuan dian	241
+枣庄薛城中和嘉园东南资源点	zao zhuang xue cheng zhong he jia yuan dong nan zi yuan dian	243
+枣庄峄城财政局正北微站资源点	zao zhuang yi cheng cai zheng ju zheng bei wei zhan zi yuan dian	40
+枣庄峄城东方怡园资源点	zao zhuang yi cheng dong fang yi yuan zi yuan dian	17
+枣庄峄城峨山李流井村北资源点	zao zhuang yi cheng e shan li liu jing cun bei zi yuan dian	87
+枣庄峄城峨山利增村西资源点	zao zhuang yi cheng e shan li zeng cun xi zi yuan dian	88
+枣庄峄城峨山小官庄村北资源点	zao zhuang yi cheng e shan xiao guan zhuang cun bei zi yuan dian	16
+枣庄峄城峨山镇西资源点	zao zhuang yi cheng e shan zhen xi zi yuan dian	86
+枣庄峄城丰源轮胎厂资源点	zao zhuang yi cheng feng yuan lun tai chang zi yuan dian	53
+枣庄峄城榴园镇后光庄资源点	zao zhuang yi cheng liu yuan zhen hou guang zhuang zi yuan dian	54
+枣庄峄城明德花园资源点	zao zhuang yi cheng ming de hua yuan zi yuan dian	27
+枣庄峄城区北刘庄村附近资源点	zao zhuang yi cheng qu bei liu zhuang cun fu jin zi yuan dian	67
+枣庄峄城区凤凰中路资源点	zao zhuang yi cheng qu feng huang zhong lu zi yuan dian	37
+枣庄峄城区丰源物流微站资源点	zao zhuang yi cheng qu feng yuan wu liu wei zhan zi yuan dian	34
+枣庄峄城区金寺新庄村资源点	zao zhuang yi cheng qu jin si xin zhuang cun zi yuan dian	6
+枣庄峄城区人工湖东资源点	zao zhuang yi cheng qu ren gong hu dong zi yuan dian	26
+枣庄峄城区吴林高速路口资源点	zao zhuang yi cheng qu wu lin gao su lu kou zi yuan dian	11
+枣庄峄城区峄城南关社区资源点	zao zhuang yi cheng qu yi cheng nan guan she qu zi yuan dian	32
+枣庄峄城区枣台路小康楼资源点	zao zhuang yi cheng qu zao tai lu xiao kang lou zi yuan dian	33
+枣庄峄城棠阴牛山后资源点	zao zhuang yi cheng tang yin niu shan hou zi yuan dian	52
+枣庄峄城吴林涝滩南资源点	zao zhuang yi cheng wu lin lao tan nan zi yuan dian	15
+枣庄峄城吴林小李楼村北资源点	zao zhuang yi cheng wu lin xiao li lou cun bei zi yuan dian	14
+枣庄峄城兴华建筑资源点	zao zhuang yi cheng xing hua jian zhu zi yuan dian	28
+枣庄峄城峄城区环卫所资源点	zao zhuang yi cheng yi cheng qu huan wei suo zi yuan dian	25
+枣庄峄城峄城区坛山广场资源点	zao zhuang yi cheng yi cheng qu tan shan guang chang zi yuan dian	24
+枣庄峄城阴平中学资源点	zao zhuang yi cheng yin ping zhong xue zi yuan dian	1
+枣庄逸夫小学二网络资源点	zao zhuang yi fu xiao xue er wang luo zi yuan dian	767
+枣庄逸夫小学网络资源点	zao zhuang yi fu xiao xue wang luo zi yuan dian	768
+枣庄颐源山庄机房无线	zao zhuang yi yuan shan zhuang ji fang wu xian	721
+枣庄朝阳市场网络资源点	zao zhuang zhao yang shi chang wang luo zi yuan dian	652
+枣庄振兴小区网络资源点	zao zhuang zhen xing xiao qu wang luo zi yuan dian	634
+张山子妈妈桥资源点	zhang shan zi ma ma qiao zi yuan dian	537
+中国山东枣庄安城机房无线	zhong guo shan dong zao zhuang an cheng ji fang wu xian	686
+中国山东枣庄北机房无线	zhong guo shan dong zao zhuang bei ji fang wu xian	762
+中国山东枣庄编织袋厂机房无线	zhong guo shan dong zao zhuang bian zhi dai chang ji fang wu xian	311
+中国山东枣庄蔡庄机房无线	zhong guo shan dong zao zhuang cai zhuang ji fang wu xian	613
+中国山东枣庄曹庄小安机房无线	zhong guo shan dong zao zhuang cao zhuang xiao an ji fang wu xian	81
+中国山东枣庄长江二路机房无线	zhong guo shan dong zao zhuang chang jiang er lu ji fang wu xian	621
+中国山东枣庄陈湖社区机房无线	zhong guo shan dong zao zhuang chen hu she qu ji fang wu xian	610
+中国山东枣庄大酒店机房无线	zhong guo shan dong zao zhuang da jiu dian ji fang wu xian	587
+中国山东枣庄丁庄机房无线	zhong guo shan dong zao zhuang ding zhuang ji fang wu xian	814
+中国山东枣庄东方大厦机房无线	zhong guo shan dong zao zhuang dong fang da sha ji fang wu xian	670
+中国山东枣庄东湖湾北机房无线	zhong guo shan dong zao zhuang dong hu wan bei ji fang wu xian	719
+中国山东枣庄东山阴机房无线	zhong guo shan dong zao zhuang dong shan yin ji fang wu xian	616
+中国山东枣庄东滕城机房无线	zhong guo shan dong zao zhuang dong teng cheng ji fang wu xian	430
+中国山东枣庄峨山口机房无线	zhong guo shan dong zao zhuang e shan kou ji fang wu xian	740
+中国山东枣庄二棉厂西机房无线	zhong guo shan dong zao zhuang er mian chang xi ji fang wu xian	793
+中国山东枣庄二棉机房无线	zhong guo shan dong zao zhuang er mian ji fang wu xian	801
+中国山东枣庄法院机房无线	zhong guo shan dong zao zhuang fa yuan ji fang wu xian	669
+中国山东枣庄方圆宾馆机房无线	zhong guo shan dong zao zhuang fang yuan bin guan ji fang wu xian	658
+中国山东枣庄纺织站机房无线	zhong guo shan dong zao zhuang fang zhi zhan ji fang wu xian	590
+中国山东枣庄凤凰岭机房无线	zhong guo shan dong zao zhuang feng huang ling ji fang wu xian	710
+中国山东枣庄富桥足疗机房无线	zhong guo shan dong zao zhuang fu qiao zu liao ji fang wu xian	656
+中国山东枣庄硌塔埠机房无线	zhong guo shan dong zao zhuang ge ta bu ji fang wu xian	795
+中国山东枣庄沟湾机房无线	zhong guo shan dong zao zhuang gou wan ji fang wu xian	712
+中国山东枣庄光宇路机房无线	zhong guo shan dong zao zhuang guang yu lu ji fang wu xian	755
+中国山东枣庄国泰花园机房无线	zhong guo shan dong zao zhuang guo tai hua yuan ji fang wu xian	673
+中国山东枣庄好乐迪机房无线	zhong guo shan dong zao zhuang hao le di ji fang wu xian	662
+中国山东枣庄花果泉机房无线	zhong guo shan dong zao zhuang hua guo quan ji fang wu xian	682
+中国山东枣庄华联商厦机房无线	zhong guo shan dong zao zhuang hua lian shang sha ji fang wu xian	591
+中国山东枣庄华夏中学机房无线	zhong guo shan dong zao zhuang hua xia zhong xue ji fang wu xian	802
+中国山东枣庄黄庄教委机房无线	zhong guo shan dong zao zhuang huang zhuang jiao wei ji fang wu xian	803
+中国山东枣庄家具城机房无线	zhong guo shan dong zao zhuang jia ju cheng ji fang wu xian	672
+中国山东枣庄焦岭机房无线	zhong guo shan dong zao zhuang jiao ling ji fang wu xian	741
+中国山东枣庄焦庄机房无线	zhong guo shan dong zao zhuang jiao zhuang ji fang wu xian	737
+中国山东枣庄金佰翰机房无线	zhong guo shan dong zao zhuang jin bai han ji fang wu xian	754
+中国山东枣庄金花宾馆机房无线	zhong guo shan dong zao zhuang jin hua bin guan ji fang wu xian	761
+中国山东枣庄金属公司机房无线	zhong guo shan dong zao zhuang jin shu gong si ji fang wu xian	753
+中国山东枣庄经济学校机房无线	zhong guo shan dong zao zhuang jing ji xue xiao ji fang wu xian	655
+中国山东枣庄巨典豪庭机房无线	zhong guo shan dong zao zhuang ju dian hao ting ji fang wu xian	666
+中国山东枣庄科技馆机房无线	zhong guo shan dong zao zhuang ke ji guan ji fang wu xian	794
+中国山东枣庄临沂河湾机房无线	zhong guo shan dong zao zhuang lin yi he wan ji fang wu xian	687
+中国山东枣庄刘岭西北机房无线	zhong guo shan dong zao zhuang liu ling xi bei ji fang wu xian	747
+中国山东枣庄刘屯机房无线	zhong guo shan dong zao zhuang liu tun ji fang wu xian	611
+中国山东枣庄柳峪机房无线	zhong guo shan dong zao zhuang liu yu ji fang wu xian	632
+中国山东枣庄龙门浴池机房无线	zhong guo shan dong zao zhuang long men yu chi ji fang wu xian	382
+中国山东枣庄马沽汪机房无线	zhong guo shan dong zao zhuang ma gu wang ji fang wu xian	80
+中国山东枣庄马宅子机房无线	zhong guo shan dong zao zhuang ma zhai zi ji fang wu xian	592
+中国山东枣庄马庄新村机房无线	zhong guo shan dong zao zhuang ma zhuang xin cun ji fang wu xian	618
+中国山东枣庄孟庄机房无线	zhong guo shan dong zao zhuang meng zhuang ji fang wu xian	742
+中国山东枣庄孟庄刘岭机房无线	zhong guo shan dong zao zhuang meng zhuang liu ling ji fang wu xian	738
+中国山东枣庄拍卖行机房无线	zhong guo shan dong zao zhuang pai mai hang ji fang wu xian	798
+中国山东枣庄皮革公司机房无线	zhong guo shan dong zao zhuang pi ge gong si ji fang wu xian	813
+中国山东枣庄齐村谷山机房无线	zhong guo shan dong zao zhuang qi cun gu shan ji fang wu xian	711
+中国山东枣庄齐村后村机房无线	zhong guo shan dong zao zhuang qi cun hou cun ji fang wu xian	722
+中国山东枣庄齐村机房无线	zhong guo shan dong zao zhuang qi cun ji fang wu xian	725
+中国山东枣庄齐村建国机房无线	zhong guo shan dong zao zhuang qi cun jian guo ji fang wu xian	726
+中国山东枣庄齐村李岭机房无线	zhong guo shan dong zao zhuang qi cun li ling ji fang wu xian	718
+中国山东枣庄齐村齐西机房无线	zhong guo shan dong zao zhuang qi cun qi xi ji fang wu xian	717
+中国山东枣庄齐村汤庄机房无线	zhong guo shan dong zao zhuang qi cun tang zhuang ji fang wu xian	716
+中国山东枣庄齐村佟楼机房无线	zhong guo shan dong zao zhuang qi cun tong lou ji fang wu xian	715
+中国山东枣庄齐村杨岭机房无线	zhong guo shan dong zao zhuang qi cun yang ling ji fang wu xian	714
+中国山东枣庄前古村机房无线	zhong guo shan dong zao zhuang qian gu cun ji fang wu xian	744
+中国山东枣庄青檀路机房无线	zhong guo shan dong zao zhuang qing tan lu ji fang wu xian	667
+中国山东枣庄曲柏村后资源点	zhong guo shan dong zao zhuang qu bai cun hou zi yuan dian	174
+中国山东枣庄人防办机房无线	zhong guo shan dong zao zhuang ren fang ban ji fang wu xian	665
+中国山东枣庄人民路东机房无线	zhong guo shan dong zao zhuang ren min lu dong ji fang wu xian	799
+中国山东枣庄人民银行机房无线	zhong guo shan dong zao zhuang ren min yin hang ji fang wu xian	660
+中国山东枣庄三环汽修机房无线	zhong guo shan dong zao zhuang san huan qi xiu ji fang wu xian	668
+中国山东枣庄三十中机房无线	zhong guo shan dong zao zhuang san shi zhong ji fang wu xian	800
+中国山东枣庄三中东大机房无线	zhong guo shan dong zao zhuang san zhong dong da ji fang wu xian	671
+中国山东枣庄三中西校机房无线	zhong guo shan dong zao zhuang san zhong xi xiao ji fang wu xian	653
+中国山东枣庄山亭艾湖机房无线	zhong guo shan dong zao zhuang shan ting ai hu ji fang wu xian	905
+中国山东枣庄山亭白庄机房无线	zhong guo shan dong zao zhuang shan ting bai zhuang ji fang wu xian	936
+中国山东枣庄山亭半湖机房无线	zhong guo shan dong zao zhuang shan ting ban hu ji fang wu xian	938
+中国山东枣庄山亭北庄机房无线	zhong guo shan dong zao zhuang shan ting bei zhuang ji fang wu xian	940
+中国山东枣庄山亭蔡林机房无线	zhong guo shan dong zao zhuang shan ting cai lin ji fang wu xian	904
+中国山东枣庄山亭城头机房无线	zhong guo shan dong zao zhuang shan ting cheng tou ji fang wu xian	921
+中国山东枣庄山亭段庄机房无线	zhong guo shan dong zao zhuang shan ting duan zhuang ji fang wu xian	893
+中国山东枣庄山亭付庄机房无线	zhong guo shan dong zao zhuang shan ting fu zhuang ji fang wu xian	941
+中国山东枣庄山亭葛峪机房无线	zhong guo shan dong zao zhuang shan ting ge yu ji fang wu xian	937
+中国山东枣庄山亭郭庄东资源点	zhong guo shan dong zao zhuang shan ting guo zhuang dong zi yuan dian	883
+中国山东枣庄山亭郝台机房无线	zhong guo shan dong zao zhuang shan ting hao tai ji fang wu xian	829
+中国山东枣庄山亭河口机房无线	zhong guo shan dong zao zhuang shan ting he kou ji fang wu xian	939
+中国山东枣庄山亭横岭机房无线	zhong guo shan dong zao zhuang shan ting heng ling ji fang wu xian	827
+中国山东枣庄山亭红门机房无线	zhong guo shan dong zao zhuang shan ting hong men ji fang wu xian	935
+中国山东枣庄山亭洪庄机房无线	zhong guo shan dong zao zhuang shan ting hong zhuang ji fang wu xian	942
+中国山东枣庄山亭胡窝机房无线	zhong guo shan dong zao zhuang shan ting hu wo ji fang wu xian	892
+中国山东枣庄山亭蒋沟机房无线	zhong guo shan dong zao zhuang shan ting jiang gou ji fang wu xian	906
+中国山东枣庄山亭涝泉机房无线	zhong guo shan dong zao zhuang shan ting lao quan ji fang wu xian	920
+中国山东枣庄山亭林场机房无线	zhong guo shan dong zao zhuang shan ting lin chang ji fang wu xian	888
+中国山东枣庄山亭柳泉机房无线	zhong guo shan dong zao zhuang shan ting liu quan ji fang wu xian	826
+中国山东枣庄山亭满巷机房无线	zhong guo shan dong zao zhuang shan ting man xiang ji fang wu xian	889
+中国山东枣庄山亭秦沃机房无线	zhong guo shan dong zao zhuang shan ting qin wo ji fang wu xian	903
+中国山东枣庄山亭区局机房无线	zhong guo shan dong zao zhuang shan ting qu ju ji fang wu xian	891
+中国山东枣庄山亭桑村机房无线	zhong guo shan dong zao zhuang shan ting sang cun ji fang wu xian	907
+中国山东枣庄山亭善堌	zhong guo shan dong zao zhuang shan ting shan gu	894
+中国山东枣庄山亭水泉机房无线	zhong guo shan dong zao zhuang shan ting shui quan ji fang wu xian	845
+中国山东枣庄山亭土山机房无线	zhong guo shan dong zao zhuang shan ting tu shan ji fang wu xian	828
+中国山东枣庄山亭苇湖机房无线	zhong guo shan dong zao zhuang shan ting wei hu ji fang wu xian	825
+中国山东枣庄山亭西集机房无线	zhong guo shan dong zao zhuang shan ting xi ji ji fang wu xian	835
+中国山东枣庄山亭辛召机房无线	zhong guo shan dong zao zhuang shan ting xin zhao ji fang wu xian	824
+中国山东枣庄山亭徐庄机房无线	zhong guo shan dong zao zhuang shan ting xu zhuang ji fang wu xian	830
+中国山东枣庄山亭岩底机房无线	zhong guo shan dong zao zhuang shan ting yan di ji fang wu xian	890
+中国山东枣庄山亭杨庄机房无线	zhong guo shan dong zao zhuang shan ting yang zhuang ji fang wu xian	844
+中国山东枣庄山亭姚营机房无线	zhong guo shan dong zao zhuang shan ting yao ying ji fang wu xian	913
+中国山东枣庄山亭翼云建才市场	zhong guo shan dong zao zhuang shan ting yi yun jian cai shi chang	885
+中国山东枣庄山亭张庄机房无线	zhong guo shan dong zao zhuang shan ting zhang zhuang ji fang wu xian	934
+中国山东枣庄社区中心机房无线	zhong guo shan dong zao zhuang she qu zhong xin ji fang wu xian	586
+中国山东枣庄十里泉村机房无线	zhong guo shan dong zao zhuang shi li quan cun ji fang wu xian	815
+中国山东枣庄市中区渴口资源点	zhong guo shan dong zao zhuang shi zhong qu ke kou zi yuan dian	689
+中国山东枣庄市中区秦楼资源点	zhong guo shan dong zao zhuang shi zhong qu qin lou zi yuan dian	806
+中国山东枣庄师专机房无线	zhong guo shan dong zao zhuang shi zhuan ji fang wu xian	728
+中国山东枣庄市总工会机房无线	zhong guo shan dong zao zhuang shi zong gong hui ji fang wu xian	664
+中国山东枣庄税郭机房无线	zhong guo shan dong zao zhuang shui guo ji fang wu xian	683
+中国山东枣庄水研究所机房无线	zhong guo shan dong zao zhuang shui yan jiu suo ji fang wu xian	804
+中国山东枣庄宋楼机房无线	zhong guo shan dong zao zhuang song lou ji fang wu xian	631
+中国山东枣庄桃园小区机房无线	zhong guo shan dong zao zhuang tao yuan xiao qu ji fang wu xian	805
+中国山东枣庄滕州北机房无线	zhong guo shan dong zao zhuang teng zhou bei ji fang wu xian	521
+中国山东枣庄滕州宾馆机房无线	zhong guo shan dong zao zhuang teng zhou bin guan ji fang wu xian	384
+中国山东枣庄滕州陈楼机房无线	zhong guo shan dong zao zhuang teng zhou chen lou ji fang wu xian	446
+中国山东枣庄滕州程塘机房无线	zhong guo shan dong zao zhuang teng zhou cheng tang ji fang wu xian	381
+中国山东枣庄滕州丛庄机房无线	zhong guo shan dong zao zhuang teng zhou cong zhuang ji fang wu xian	475
+中国山东枣庄滕州大坞机房无线	zhong guo shan dong zao zhuang teng zhou da wu ji fang wu xian	483
+中国山东枣庄滕州党山机房无线	zhong guo shan dong zao zhuang teng zhou dang shan ji fang wu xian	477
+中国山东枣庄滕州党校机房无线	zhong guo shan dong zao zhuang teng zhou dang xiao ji fang wu xian	383
+中国山东枣庄滕州邓寨机房无线	zhong guo shan dong zao zhuang teng zhou deng zhai ji fang wu xian	266
+中国山东枣庄滕州东郭机房无线	zhong guo shan dong zao zhuang teng zhou dong guo ji fang wu xian	476
+中国山东枣庄滕州东倪机房无线	zhong guo shan dong zao zhuang teng zhou dong ni ji fang wu xian	429
+中国山东枣庄滕州董庄机房无线	zhong guo shan dong zao zhuang teng zhou dong zhuang ji fang wu xian	437
+中国山东枣庄滕州二中机房无线	zhong guo shan dong zao zhuang teng zhou er zhong ji fang wu xian	310
+中国山东枣庄滕州法院机房无线	zhong guo shan dong zao zhuang teng zhou fa yuan ji fang wu xian	523
+中国山东枣庄滕州岗头机房无线	zhong guo shan dong zao zhuang teng zhou gang tou ji fang wu xian	494
+中国山东枣庄滕州官桥机房无线	zhong guo shan dong zao zhuang teng zhou guan qiao ji fang wu xian	455
+中国山东枣庄滕州郝庄机房无线	zhong guo shan dong zao zhuang teng zhou hao zhuang ji fang wu xian	532
+中国山东枣庄滕州洪绪机房无线	zhong guo shan dong zao zhuang teng zhou hong xu ji fang wu xian	447
+中国山东枣庄滕州黄岭机房无线	zhong guo shan dong zao zhuang teng zhou huang ling ji fang wu xian	344
+中国山东枣庄滕州汇鑫机房无线	zhong guo shan dong zao zhuang teng zhou hui xin ji fang wu xian	415
+中国山东枣庄滕州姜屯机房无线	zhong guo shan dong zao zhuang teng zhou jiang tun ji fang wu xian	428
+中国山东枣庄滕州蒋庄机房无线	zhong guo shan dong zao zhuang teng zhou jiang zhuang ji fang wu xian	262
+中国山东枣庄滕州界河机房无线	zhong guo shan dong zao zhuang teng zhou jie he ji fang wu xian	418
+中国山东枣庄滕州井亭机房无线	zhong guo shan dong zao zhuang teng zhou jing ting ji fang wu xian	489
+中国山东枣庄滕州梁场机房无线	zhong guo shan dong zao zhuang teng zhou liang chang ji fang wu xian	520
+中国山东枣庄滕州柳沟机房无线	zhong guo shan dong zao zhuang teng zhou liu gou ji fang wu xian	347
+中国山东枣庄滕州刘楼机房无线	zhong guo shan dong zao zhuang teng zhou liu lou ji fang wu xian	416
+中国山东枣庄滕州柳楼机房无线	zhong guo shan dong zao zhuang teng zhou liu lou ji fang wu xian	411
+中国山东枣庄滕州龙阳机房无线	zhong guo shan dong zao zhuang teng zhou long yang ji fang wu xian	346
+中国山东枣庄滕州吕坡机房无线	zhong guo shan dong zao zhuang teng zhou lv po ji fang wu xian	531
+中国山东枣庄滕州马楼机房无线	zhong guo shan dong zao zhuang teng zhou ma lou ji fang wu xian	419
+中国山东枣庄滕州南机房无线	zhong guo shan dong zao zhuang teng zhou nan ji fang wu xian	412
+中国山东枣庄滕州农行机房无线	zhong guo shan dong zao zhuang teng zhou nong hang ji fang wu xian	313
+中国山东枣庄滕州汽车六队机房	zhong guo shan dong zao zhuang teng zhou qi che liu dui ji fang	380
+中国山东枣庄滕州钱柜机房无线	zhong guo shan dong zao zhuang teng zhou qian gui ji fang wu xian	312
+中国山东枣庄滕州沙岗机房无线	zhong guo shan dong zao zhuang teng zhou sha gang ji fang wu xian	488
+中国山东枣庄滕州苏屯机房无线	zhong guo shan dong zao zhuang teng zhou su tun ji fang wu xian	431
+中国山东枣庄滕州王楼机房无线	zhong guo shan dong zao zhuang teng zhou wang lou ji fang wu xian	410
+中国山东枣庄滕州望庄机房无线	zhong guo shan dong zao zhuang teng zhou wang zhuang ji fang wu xian	495
+中国山东枣庄滕州魏庄机房无线	zhong guo shan dong zao zhuang teng zhou wei zhuang ji fang wu xian	413
+中国山东枣庄滕州西焦机房无线	zhong guo shan dong zao zhuang teng zhou xi jiao ji fang wu xian	496
+中国山东枣庄滕州西倪机房无线	zhong guo shan dong zao zhuang teng zhou xi ni ji fang wu xian	409
+中国山东枣庄滕州西田机房无线	zhong guo shan dong zao zhuang teng zhou xi tian ji fang wu xian	436
+中国山东枣庄滕州夏楼机房无线	zhong guo shan dong zao zhuang teng zhou xia lou ji fang wu xian	265
+中国山东枣庄滕州夏庄机房无线	zhong guo shan dong zao zhuang teng zhou xia zhuang ji fang wu xian	478
+中国山东枣庄滕州杨杭机房无线	zhong guo shan dong zao zhuang teng zhou yang hang ji fang wu xian	328
+中国山东枣庄滕州羊庄机房无线	zhong guo shan dong zao zhuang teng zhou yang zhuang ji fang wu xian	278
+中国山东枣庄滕州一建机房无线	zhong guo shan dong zao zhuang teng zhou yi jian ji fang wu xian	414
+中国山东枣庄滕州峄庄机房无线	zhong guo shan dong zao zhuang teng zhou yi zhuang ji fang wu xian	484
+中国山东枣庄滕州英皇机房无线	zhong guo shan dong zao zhuang teng zhou ying huang ji fang wu xian	522
+中国山东枣庄滕州尤楼机房无线	zhong guo shan dong zao zhuang teng zhou you lou ji fang wu xian	264
+中国山东枣庄滕州张汪机房无线	zhong guo shan dong zao zhuang teng zhou zhang wang ji fang wu xian	263
+中国山东枣庄滕州赵坡机房无线	zhong guo shan dong zao zhuang teng zhou zhao po ji fang wu xian	474
+中国山东枣庄滕州轴村机房无线	zhong guo shan dong zao zhuang teng zhou zhou cun ji fang wu xian	448
+中国山东枣庄滕州卓楼机房无线	zhong guo shan dong zao zhuang teng zhou zhuo lou ji fang wu xian	290
+中国山东枣庄铁通公司机房无线	zhong guo shan dong zao zhuang tie tong gong si ji fang wu xian	588
+中国山东枣庄土井子机房无线	zhong guo shan dong zao zhuang tu jing zi ji fang wu xian	729
+中国山东枣庄文化广场机房无线	zhong guo shan dong zao zhuang wen hua guang chang ji fang wu xian	654
+中国山东枣庄卧龙公园机房无线	zhong guo shan dong zao zhuang wo long gong yuan ji fang wu xian	659
+中国山东枣庄西葛洼机房无线	zhong guo shan dong zao zhuang xi ge wa ji fang wu xian	745
+中国山东枣庄西郊苗圃机房无线	zhong guo shan dong zao zhuang xi jiao miao pu ji fang wu xian	612
+中国山东枣庄西沙河北机房无线	zhong guo shan dong zao zhuang xi sha he bei ji fang wu xian	663
+中国山东枣庄下杜庄机房无线	zhong guo shan dong zao zhuang xia du zhuang ji fang wu xian	736
+中国山东枣庄下泥河机房无线	zhong guo shan dong zao zhuang xia ni he ji fang wu xian	685
+中国山东枣庄下桃园机房无线	zhong guo shan dong zao zhuang xia tao yuan ji fang wu xian	684
+中国山东枣庄消防队机房无线	zhong guo shan dong zao zhuang xiao fang dui ji fang wu xian	674
+中国山东枣庄小李庄机房无线	zhong guo shan dong zao zhuang xiao li zhuang ji fang wu xian	727
+中国山东枣庄新大楼机房无线	zhong guo shan dong zao zhuang xin da lou ji fang wu xian	617
+中国山东枣庄新韩乐器机房无线	zhong guo shan dong zao zhuang xin han yue qi ji fang wu xian	792
+中国山东枣庄鑫泉化工机房无线	zhong guo shan dong zao zhuang xin quan hua gong ji fang wu xian	816
+中国山东枣庄薛城埠后机房无线	zhong guo shan dong zao zhuang xue cheng bu hou ji fang wu xian	109
+中国山东枣庄薛城常庄机房无线	zhong guo shan dong zao zhuang xue cheng chang zhuang ji fang wu xian	256
+中国山东枣庄薛城党校机房无线	zhong guo shan dong zao zhuang xue cheng dang xiao ji fang wu xian	237
+中国山东枣庄薛城电厂资源点	zhong guo shan dong zao zhuang xue cheng dian chang zi yuan dian	248
+中国山东枣庄薛城东仓机房无线	zhong guo shan dong zao zhuang xue cheng dong cang ji fang wu xian	180
+中国山东枣庄薛城东山机房无线	zhong guo shan dong zao zhuang xue cheng dong shan ji fang wu xian	182
+中国山东枣庄薛城董庄机房无线	zhong guo shan dong zao zhuang xue cheng dong zhuang ji fang wu xian	200
+中国山东枣庄薛城海化机房无线	zhong guo shan dong zao zhuang xue cheng hai hua ji fang wu xian	239
+中国山东枣庄薛城洪洼机房无线	zhong guo shan dong zao zhuang xue cheng hong wa ji fang wu xian	137
+中国山东枣庄薛城后大村资源点	zhong guo shan dong zao zhuang xue cheng hou da cun zi yuan dian	249
+中国山东枣庄薛城金河机房无线	zhong guo shan dong zao zhuang xue cheng jin he ji fang wu xian	253
+中国山东枣庄薛城孟岭机房无线	zhong guo shan dong zao zhuang xue cheng meng ling ji fang wu xian	258
+中国山东枣庄薛城南常机房无线	zhong guo shan dong zao zhuang xue cheng nan chang ji fang wu xian	201
+中国山东枣庄薛城南石机房无线	zhong guo shan dong zao zhuang xue cheng nan shi ji fang wu xian	214
+中国山东枣庄薛城气象局资源点	zhong guo shan dong zao zhuang xue cheng qi xiang ju zi yuan dian	158
+中国山东枣庄薛城区局机房无线	zhong guo shan dong zao zhuang xue cheng qu ju ji fang wu xian	238
+中国山东枣庄薛城沙沟机房无线	zhong guo shan dong zao zhuang xue cheng sha gou ji fang wu xian	199
+中国山东枣庄薛城石坝机房无线	zhong guo shan dong zao zhuang xue cheng shi ba ji fang wu xian	255
+中国山东枣庄薛城陶官机房无线	zhong guo shan dong zao zhuang xue cheng tao guan ji fang wu xian	125
+中国山东枣庄薛城陶庄资源点	zhong guo shan dong zao zhuang xue cheng tao zhuang zi yuan dian	175
+中国山东枣庄薛城铁运处资源点	zhong guo shan dong zao zhuang xue cheng tie yun chu zi yuan dian	231
+中国山东枣庄薛城圩子机房无线	zhong guo shan dong zao zhuang xue cheng wei zi ji fang wu xian	202
+中国山东枣庄薛城夏庄机房无线	zhong guo shan dong zao zhuang xue cheng xia zhuang ji fang wu xian	181
+中国山东枣庄薛城小山机房无线	zhong guo shan dong zao zhuang xue cheng xiao shan ji fang wu xian	259
+中国山东枣庄薛城张范机房无线	zhong guo shan dong zao zhuang xue cheng zhang fan ji fang wu xian	213
+中国山东枣庄薛城张桥机房无线	zhong guo shan dong zao zhuang xue cheng zhang qiao ji fang wu xian	257
+中国山东枣庄薛城政协机房无线	zhong guo shan dong zao zhuang xue cheng zheng xie ji fang wu xian	166
+中国山东枣庄薛城周营机房无线	zhong guo shan dong zao zhuang xue cheng zhou ying ji fang wu xian	124
+中国山东枣庄薛城邹坞机房无线	zhong guo shan dong zao zhuang xue cheng zou wu ji fang wu xian	108
+中国山东枣庄盐务局机房无线	zhong guo shan dong zao zhuang yan wu ju ji fang wu xian	756
+中国山东枣庄峄城峨山机房无线	zhong guo shan dong zao zhuang yi cheng e shan ji fang wu xian	96
+中国山东枣庄峄城坊上机房无线	zhong guo shan dong zao zhuang yi cheng fang shang ji fang wu xian	84
+中国山东枣庄峄城工行机房无线	zhong guo shan dong zao zhuang yi cheng gong hang ji fang wu xian	41
+中国山东枣庄峄城古邵机房无线	zhong guo shan dong zao zhuang yi cheng gu shao ji fang wu xian	83
+中国山东枣庄峄城固庄机房无线	zhong guo shan dong zao zhuang yi cheng gu zhuang ji fang wu xian	69
+中国山东枣庄峄城壕沟机房无线	zhong guo shan dong zao zhuang yi cheng hao gou ji fang wu xian	76
+中国山东枣庄峄城侯桥机房无线	zhong guo shan dong zao zhuang yi cheng hou qiao ji fang wu xian	75
+中国山东枣庄峄城黄金泉资源点	zhong guo shan dong zao zhuang yi cheng huang jin quan zi yuan dian	85
+中国山东枣庄峄城萝藤机房无线	zhong guo shan dong zao zhuang yi cheng luo teng ji fang wu xian	94
+中国山东枣庄峄城南刘机房无线	zhong guo shan dong zao zhuang yi cheng nan liu ji fang wu xian	21
+中国山东枣庄峄城七里店资源点	zhong guo shan dong zao zhuang yi cheng qi li dian zi yuan dian	12
+中国山东枣庄峄城区局机房无线	zhong guo shan dong zao zhuang yi cheng qu ju ji fang wu xian	42
+中国山东枣庄峄城区徐楼资源点	zhong guo shan dong zao zhuang yi cheng qu xu lou zi yuan dian	36
+中国山东枣庄峄城师范机房无线	zhong guo shan dong zao zhuang yi cheng shi fan ji fang wu xian	46
+中国山东枣庄峄城石门机房无线	zhong guo shan dong zao zhuang yi cheng shi men ji fang wu xian	93
+中国山东枣庄峄城孙庄机房无线	zhong guo shan dong zao zhuang yi cheng sun zhuang ji fang wu xian	71
+中国山东枣庄峄城棠阴机房无线	zhong guo shan dong zao zhuang yi cheng tang yin ji fang wu xian	70
+中国山东枣庄峄城肖庄机房无线	zhong guo shan dong zao zhuang yi cheng xiao zhuang ji fang wu xian	74
+中国山东枣庄峄城斜屋机房无线	zhong guo shan dong zao zhuang yi cheng xie wu ji fang wu xian	8
+中国山东枣庄峄城彦村机房无线	zhong guo shan dong zao zhuang yi cheng yan cun ji fang wu xian	72
+中国山东枣庄峄城阎庄机房无线	zhong guo shan dong zao zhuang yi cheng yan zhuang ji fang wu xian	98
+中国山东枣庄峄城杨林机房无线	zhong guo shan dong zao zhuang yi cheng yang lin ji fang wu xian	82
+中国山东枣庄峄城一中机房无线	zhong guo shan dong zao zhuang yi cheng yi zhong ji fang wu xian	45
+中国山东枣庄峄城阴平机房无线	zhong guo shan dong zao zhuang yi cheng yin ping ji fang wu xian	10
+中国山东枣庄峄城于庄资源点	zhong guo shan dong zao zhuang yi cheng yu zhuang zi yuan dian	47
+中国山东枣庄峄城张店机房无线	zhong guo shan dong zao zhuang yi cheng zhang dian ji fang wu xian	73
+中国山东枣庄峄城中桥机房无线	zhong guo shan dong zao zhuang yi cheng zhong qiao ji fang wu xian	44
+中国山东枣庄峄城朱沟机房无线	zhong guo shan dong zao zhuang yi cheng zhu gou ji fang wu xian	9
+中国山东枣庄峄城左庄机房无线	zhong guo shan dong zao zhuang yi cheng zuo zhuang ji fang wu xian	95
+中国山东枣庄银狐实业机房无线	zhong guo shan dong zao zhuang yin hu shi ye ji fang wu xian	676
+中国山东枣庄印染厂机房无线	zhong guo shan dong zao zhuang yin ran chang ji fang wu xian	797
+中国山东枣庄迎宾馆机房无线	zhong guo shan dong zao zhuang ying bin guan ji fang wu xian	675
+中国山东枣庄永安东机房无线	zhong guo shan dong zao zhuang yong an dong ji fang wu xian	615
+中国山东枣庄永安机房无线	zhong guo shan dong zao zhuang yong an ji fang wu xian	620
+中国山东枣庄永安聂庄机房无线	zhong guo shan dong zao zhuang yong an nie zhuang ji fang wu xian	614
+中国山东枣庄永安西南机房无线	zhong guo shan dong zao zhuang yong an xi nan ji fang wu xian	609
+中国山东枣庄永安张林机房无线	zhong guo shan dong zao zhuang yong an zhang lin ji fang wu xian	619
+中国山东枣庄永福路北资源点	zhong guo shan dong zao zhuang yong fu lu bei zi yuan dian	232
+中国山东枣庄枣庄宾馆机房无线	zhong guo shan dong zao zhuang zao zhuang bin guan ji fang wu xian	796
+中国山东枣庄枣庄东机房无线	zhong guo shan dong zao zhuang zao zhuang dong ji fang wu xian	661
+中国山东枣庄枣庄南机房无线	zhong guo shan dong zao zhuang zao zhuang nan ji fang wu xian	790
+中国山东枣庄张范镇化庄资源点	zhong guo shan dong zao zhuang zhang fan zhen hua zhuang zi yuan dian	211
+中国山东枣庄中锦实业机房无线	zhong guo shan dong zao zhuang zhong jin shi ye ji fang wu xian	589
+中国山东枣庄中粮大厦机房无线	zhong guo shan dong zao zhuang zhong liang da sha ji fang wu xian	657
+中国山东枣庄中良庄机房无线	zhong guo shan dong zao zhuang zhong liang zhuang ji fang wu xian	723
+中国山东枣庄中兴驾校机房无线	zhong guo shan dong zao zhuang zhong xing jia xiao ji fang wu xian	791
+中国山东枣庄中义合村机房无线	zhong guo shan dong zao zhuang zhong yi he cun ji fang wu xian	688
+中国山东枣庄周村机房无线	zhong guo shan dong zao zhuang zhou cun ji fang wu xian	739
+中国山东枣庄周村里筲机房无线	zhong guo shan dong zao zhuang zhou cun li shao ji fang wu xian	743
+中国山东枣庄周村水库机房无线	zhong guo shan dong zao zhuang zhou cun shui ku ji fang wu xian	746
+中国山东枣庄朱子埠矿机房无线	zhong guo shan dong zao zhuang zhu zi bu kuang ji fang wu xian	724
+中国山东枣庄邹坞镇西机房无线	zhong guo shan dong zao zhuang zou wu zhen xi ji fang wu xian	110
