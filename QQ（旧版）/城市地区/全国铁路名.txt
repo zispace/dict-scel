@@ -1,0 +1,512 @@
+# 词库名称: 全国铁路名
+# 词库分类: 其它 城市地区
+# 词库描述: 全国铁路名
+# 词条样例: 安庆线、半自动闭塞、包兰线、宝成成渝线、宝兰线、北京局、北同蒲线、臂板、滨绥线、博山线
+# 词条数量: 504
+# 解析词数: 504
+# 解析异常: 0
+
+安庆线	an qing xian	0
+安全技术	an quan ji shu	0
+白阿线	bai a xian	0
+半自动闭塞	ban zi dong bi se	0
+包白线	bao bai xian	0
+包环线	bao huan xian	0
+包兰线	bao lan xian	0
+包石线	bao shi xian	0
+包西线神钟段	bao xi xian shen zhong duan	0
+宝成成渝线	bao cheng cheng yu xian	0
+宝成线	bao cheng xian	0
+宝兰二线	bao lan er xian	0
+宝兰线	bao lan xian	0
+宝中线	bao zhong xian	0
+北黑线	bei hei xian	0
+北京局	bei jing ju	0
+北京铁路局	bei jing tie lu ju	0
+北京西站	bei jing xi zhan	0
+北同蒲线	bei tong pu xian	0
+闭塞	bi se	0
+闭塞分区	bi se fen qu	0
+臂板	bi ban	0
+臂板式信号机	bi ban shi xin hao ji	0
+滨北线	bin bei xian	0
+滨绥线	bin sui xian	0
+滨洲线	bin zhou xian	0
+博林线	bo lin xian	0
+博山线	bo shan xian	0
+勃七线	bo qi xian	0
+裁员增效	cai yuan zeng xiao	0
+侧冲	ce chong	0
+测速传感器	ce su chuan gan qi	0
+测速发动机	ce su fa dong ji	0
+测速雷达	ce su lei da	0
+插切销	cha qie xiao	0
+查询应答器	cha xun ying da qi	0
+长白线	zhang bai xian	0
+长白线	chang bai xian	0
+长春	chang chun	0
+长荆线	zhang jing xian	0
+长荆线	chang jing xian	0
+长沙铁道学院	chang sha tie dao xue yuan	0
+长图线	zhang tu xian	0
+长图线	chang tu xian	0
+朝乌线	chao wu xian	0
+朝乌线	zhao wu xian	0
+车辆厂	che liang chang	0
+车列	che lie	0
+城轨	cheng gui	0
+城鸡线	cheng ji xian	0
+城市轨道交通	cheng shi gui dao jiao tong	0
+成都铁路局	cheng du tie lu ju	0
+成昆线	cheng kun xian	0
+成渝线	cheng yu xian	0
+乘务员	cheng wu yuan	0
+触点	chu dian	0
+川黔线	chuan qian xian	0
+磁莱线	ci lai xian	0
+磁悬浮	ci xuan fu	0
+达万线	da wan xian	0
+大连铁道学院	da lian tie dao xue yuan	0
+大站	da zhan	0
+大郑线	da zheng xian	0
+单动道岔	dan dong dao cha	0
+单行线	dan xing xian	0
+到达场	dao da chang	0
+到发场	dao fa chang	0
+道岔	dao cha	0
+道岔区段	dao cha qu duan	0
+道床	dao chuang	0
+道渣	dao zha	0
+道渣电容	dao zha dian rong	0
+德天线	de tian xian	0
+地面信号	di mian xin hao	0
+地铁	di tie	0
+电动转辙机	dian dong zhuan zhe ji	0
+电弧	dian hu	0
+电火花	dian huo hua	0
+电空转辙机	dian kong zhuan zhe ji	0
+电缆	dian lan	0
+电缆沟	dian lan gou	0
+电气	dian qi	0
+电气化	dian qi hua	0
+电气化区段	dian qi hua qu duan	0
+电气化铁路	dian qi hua tie lu	0
+电务	dian wu	0
+电务处	dian wu chu	0
+电务段	dian wu duan	0
+电源屏	dian yuan ping	0
+调车	diao che	0
+调车场	diao che chang	0
+调度	diao du	0
+调度长	diao du zhang	0
+调度长	diao du chang	0
+调度机车	diao du ji che	0
+调度监督系统	diao du jian du xi tong	0
+调幅	tiao fu	0
+调监	tiao jian	0
+调监	diao jian	0
+调频	tiao pin	0
+调相	tiao xiang	0
+定远	ding yuan	0
+渡口线	du kou xian	0
+段长	duan zhang	0
+断轨	duan gui	0
+断轨检查	duan gui jian cha	0
+敦煌线	dun huang xian	0
+发车	fa che	0
+防雷	fang lei	0
+防雷单元	fang lei dan yuan	0
+分线盘	fen xian pan	0
+丰沙线	feng sha xian	0
+峰福线	feng fu xian	0
+凤上线	feng shang xian	0
+符夹线	fu jia xian	0
+福马线	fu ma xian	0
+福前线	fu qian xian	0
+抚顺线	fu shun xian	0
+辅助信号	fu zhu xin hao	0
+阜淮线	fu huai xian	0
+富西线	fu xi xian	0
+干武线	gan wu xian	0
+赣龙线	gan long xian	0
+高架桥	gao jia qiao	0
+高速	gao su	0
+高速铁路	gao su tie lu	0
+高新线	gao xin xian	0
+工长	gong zhang	0
+工程局	gong cheng ju	0
+工程施工	gong cheng shi gong	0
+工务	gong wu	0
+功率	gong lv	0
+沟海线	gou hai xian	0
+鼓腮	gu sai	0
+股道	gu dao	0
+故障安全	gu zhang an quan	0
+光谱	guang pu	0
+广大线	guang da xian	0
+广九线	guang jiu xian	0
+广普线	guang pu xian	0
+广三线	guang san xian	0
+广岳线	guang yue xian	0
+轨道电路	gui dao dian lu	0
+郭查线	guo cha xian	0
+过载	guo zai	0
+哈尔滨铁路局	ha er bin tie lu ju	0
+哈环线	ha huan xian	0
+哈局	ha ju	0
+海南西环线	hai nan xi huan xian	0
+邯长线	han chang xian	0
+邯济线聊晏段	han ji xian liao yan duan	0
+汉丹线	han dan xian	0
+杭州线	hang zhou xian	0
+杭甬线	hang yong xian	0
+合九线	he jiu xian	0
+河茂线	he mao xian	0
+鹤岗线	he gang xian	0
+横麻线	heng ma xian	0
+红灯	hong deng	0
+红光	hong guang	0
+红会线	hong hui xian	0
+侯西线	hou xi xian	0
+侯月线	hou yue xian	0
+后退	hou tui	0
+呼和浩特铁路局	hu he hao te tie lu ju	0
+呼局	hu ju	0
+沪汉线合宁段	hu han xian he ning duan	0
+沪昆线	hu kun xian	0
+滑行	hua xing	0
+淮南线	huai nan xian	0
+黄灯	huang deng	0
+黄光	huang guang	0
+黄绿	huang lv	0
+黄南线	huang nan xian	0
+黄石东线	huang shi dong xian	0
+皇姑屯线	huang gu tun xian	0
+浑白线	hun bai xian	0
+火龙线	huo long xian	0
+货场	huo chang	0
+货车	huo che	0
+机车厂	ji che chang	0
+机车头	ji che tou	0
+机车信号	ji che xin hao	0
+机械室	ji xie shi	0
+吉井线	ji jing xian	0
+吉兰泰线	ji lan tai xian	0
+吉舒线	ji shu xian	0
+集二线	ji er xian	0
+集通线	ji tong xian	0
+挤岔	ji cha	0
+挤切销	ji qie xiao	0
+济南线	ji nan xian	0
+继电器	ji dian qi	0
+嘉镜线	jia jing xian	0
+佳富线	jia fu xian	0
+歼戮	jian lu	0
+减速顶	jian su ding	0
+减速器	jian su qi	0
+减震器	jian zhen qi	0
+焦柳线	jiao liu xian	0
+胶济客运专线临高段	jiao ji ke yun zhuan xian lin gao duan	0
+胶济线	jiao ji xian	0
+胶新线	jiao xin xian	0
+交叉渡线	jiao cha du xian	0
+接车	jie che	0
+接近区段	jie jin qu duan	0
+介西线	jie xi xian	0
+金城线	jin cheng xian	0
+金千线	jin qian xian	0
+金山线	jin shan xian	0
+金温线	jin wen xian	0
+津霸线	jin ba xian	0
+津蓟线	jin ji xian	0
+津山线	jin shan xian	0
+锦承线	jin cheng xian	0
+京包线	jing bao xian	0
+京承线	jing cheng xian	0
+京广线	jing guang xian	0
+京哈线	jing ha xian	0
+京沪线	jing hu xian	0
+京津城际线	jing jin cheng ji xian	0
+京九线	jing jiu xian	0
+京通线	jing tong xian	0
+京原线	jing yuan xian	0
+就戮	jiu lu	0
+局长	ju zhang	0
+绝缘节	jue yuan jie	0
+绝缘结	jue yuan jie	0
+开行	kai xing	0
+开行	kai hang	0
+康延线	kang yan xian	0
+可靠性	ke kao xing	0
+客运专线	ke yun zhuan xian	0
+空调	kong tiao	0
+控制台	kong zhi tai	0
+口泉线	kou quan xian	0
+快轨	kuai gui	0
+快速	kuai su	0
+昆河线	kun he xian	0
+昆明铁路局	kun ming tie lu ju	0
+昆阳线	kun yang xian	0
+昆玉线	kun yu xian	0
+拉滨线	la bin xian	0
+蓝烟线	lan yan xian	0
+兰青青藏线	lan qing qing zang xian	0
+兰新线	lan xin xian	0
+兰新线西段	lan xin xian xi duan	0
+兰州铁道学院	lan zhou tie dao xue yuan	0
+兰州铁路局	lan zhou tie lu ju	0
+劳动强度	lao dong qiang du	0
+黎湛线	li zhan xian	0
+联动	lian dong	0
+联锁	lian suo	0
+梁孟	liang meng	0
+聊城东线	liao cheng dong xian	0
+辽溪线	liao xi xian	0
+列车长	lie che zhang	0
+列车管理信息系统	lie che guan li xin xi xi tong	0
+列车自动防护系统	lie che zi dong fang hu xi tong	0
+列车自动驾驶系统	lie che zi dong jia shi xi tong	0
+列车自动控制系统	lie che zi dong kong zhi xi tong	0
+列调	lie tiao	0
+列调	lie diao	0
+林碧线	lin bi xian	0
+林东线	lin dong xian	0
+临客	lin ke	0
+临沂北线	lin yi bei xian	0
+临沂南线	lin yi nan xian	0
+临张线	lin zhang xian	0
+灵枢	ling shu	0
+柳局	liu ju	0
+柳州铁路局	liu zhou tie lu ju	0
+陇海线	long hai xian	0
+芦潮港	lu chao gang	0
+路基	lu ji	0
+路肩	lu jian	0
+旅客列车	lv ke lie che	0
+旅顺线	lv shun xian	0
+滤光	lv guang	0
+逻辑电路	luo ji dian lu	0
+洛阳信息工程学校	luo yang xin xi gong cheng xue xiao	0
+马磁线	ma ci xian	0
+埋电缆	mai dian lan	0
+埋电缆	man dian lan	0
+梅集线	mei ji xian	0
+明珠线	ming zhu xian	0
+牡佳线	mu jia xian	0
+牡图线	mu tu xian	0
+南昌铁路局	nan chang tie lu ju	0
+南防线	nan fang xian	0
+南疆线	nan jiang xian	0
+南昆线	nan kun xian	0
+南票线	nan piao xian	0
+南同蒲线	nan tong pu xian	0
+南乌线	nan wu xian	0
+南阳东线	nan yang dong xian	0
+南阳西线	nan yang xi xian	0
+内昆线	nei kun xian	0
+内六线	nei liu xian	0
+内燃机车	nei ran ji che	0
+宁启线林南线	ning qi xian lin nan xian	0
+宁铜线	ning tong xian	0
+宁西线西合段	ning xi xian xi he duan	0
+宁岢线	ning ke xian	0
+欧洲列车管理信息系统	ou zhou lie che guan li xin xi xi tong	0
+欧洲列车控制系统	ou zhou lie che kong zhi xi tong	0
+盘五线	pan wu xian	0
+盘西线	pan xi xian	0
+平调	ping diao	0
+平面调车	ping mian diao che	0
+平南线	ping nan xian	0
+平齐线	ping qi xian	0
+平汝线	ping ru xian	0
+普客	pu ke	0
+浦东线阮四段	pu dong xian ruan si duan	0
+崎岖	qi qu	0
+齐昂线	qi ang xian	0
+齐北线	qi bei xian	0
+齐红线	qi hong xian	0
+黔桂线	qian gui xian	0
+桥梁	qiao liang	0
+钦北线	qin bei xian	0
+秦岭隧道	qin ling sui dao	0
+秦沈专线	qin shen zhuan xian	0
+青藏铁路	qing zang tie lu	0
+青藏线	qing zang xian	0
+晴空如洗	qing kong ru xi	0
+区段	qu duan	0
+区间	qu jian	0
+全路通信信号研究设计院	quan lu tong xin xin hao yan jiu she ji yuan	0
+熔断器	rong duan qi	0
+三茂线	san mao xian	0
+三万线	san wan xian	0
+桑锡线	sang xi xian	0
+色灯	se deng	0
+色灯信号机	se deng xin hao ji	0
+沙河线	sha he xian	0
+汕头线	shan tou xian	0
+上海南线	shang hai nan xian	0
+上海铁道大学	shang hai tie dao da xue	0
+上海铁路局	shang hai tie lu ju	0
+上兰村线	shang lan cun xian	0
+上铅线	shang qian xian	0
+上行	shang xing	0
+韶山线	shao shan xian	0
+神朔线	shen shuo xian	0
+沈大线	shen da xian	0
+沈丹线	shen dan xian	0
+沈吉线	shen ji xian	0
+沈山线	shen shan xian	0
+沈阳局	shen yang ju	0
+沈阳铁路局	shen yang tie lu ju	0
+声光报警	sheng guang bao jing	0
+石长线	shi chang xian	0
+石德线	shi de xian	0
+石太线	shi tai xian	0
+时序电路	shi xu dian lu	0
+首车	shou che	0
+售票	shou piao	0
+双动	shuang dong	0
+双动道岔	shuang dong dao cha	0
+双线	shuang xian	0
+水大线	shui da xian	0
+水电段	shui dian duan	0
+水红线	shui hong xian	0
+水张线	shui zhang xian	0
+四更将残	si geng jiang can	0
+四开	si kai	0
+四梅线	si mei xian	0
+绥佳线	sui jia xian	0
+遂渝线	sui yu xian	0
+隧道	sui dao	0
+隧道挖掘机	sui dao wa jue ji	0
+太新线	tai xin xian	0
+太岚线	tai lan xian	0
+塘沽线	tang gu xian	0
+桃威线	tao wei xian	0
+陶榆线	tao yu xian	0
+提速	ti su	0
+天津西线	tian jin xi xian	0
+铁道部	tie dao bu	0
+铁道部第二勘测设计院	tie dao bu di er kan ce she ji yuan	0
+铁道部第三勘测设计院	tie dao bu di san kan ce she ji yuan	0
+铁道部第四勘测设计院	tie dao bu di si kan ce she ji yuan	0
+铁道部第一勘测设计院	tie dao bu di yi kan ce she ji yuan	0
+铁道医学院	tie dao yi xue yuan	0
+铁路	tie lu	0
+铁路分局	tie lu fen ju	0
+铁路局	tie lu ju	0
+铁路信号	tie lu xin hao	0
+通过	tong guo	0
+通过能力	tong guo neng li	0
+通过信号机	tong guo xin hao ji	0
+通霍线	tong huo xian	0
+通让线	tong rang xian	0
+通信	tong xin	0
+通信机房	tong xin ji fang	0
+同轴电缆	tong zhou dian lan	0
+铜九线	tong jiu xian	0
+团杉线	tuan shan xian	0
+团杉线	tuan sha xian	0
+推峰	tui feng	0
+退票	tui piao	0
+挖电缆沟	wa dian lan gou	0
+外门	wai men	0
+外南线	wai nan xian	0
+皖赣线	wan gan xian	0
+威红线	wei hong xian	0
+威宁线	wei ning xian	0
+微机监测	wei ji jian ce	0
+微机联锁	wei ji lian suo	0
+苇亚线	wei ya xian	0
+尾车	wei che	0
+魏塔线	wei ta xian	0
+乌鲁木齐铁路局	wu lu mu qi tie lu ju	0
+无岔区段	wu cha qu duan	0
+无分轩轾	wu fen xuan zhi	0
+无缝	wu feng	0
+无绝缘	wu jue yuan	0
+无线调度	wu xian diao du	0
+无源应答器	wu yuan ying da qi	0
+武津线	wu jin xian	0
+武九线	wu jiu xian	0
+西风卷帘	xi feng juan lian	0
+西固城线	xi gu cheng xian	0
+西康线	xi kang xian	0
+西良线	xi liang xian	0
+西门子	xi men zi	0
+溪田线	xi tian xian	0
+下行	xia xing	0
+咸铜线	xian tong xian	0
+襄渝线	xiang yu xian	0
+湘桂线	xiang gui xian	0
+向乐线	xiang le xian	0
+向乐线	xiang yue xian	0
+向梁线	xiang liang xian	0
+向潭线	xiang tan xian	0
+小梨线	xiao li xian	0
+小厉线	xiao li xian	0
+小新线	xiao xin xian	0
+小站	xiao zhan	0
+辛泰线	xin tai xian	0
+新靖线新海段	xin jing xian xin hai duan	0
+新石线	xin shi xian	0
+新义线	xin yi xian	0
+忻河线	xin he xian	0
+信号	xin hao	0
+信号灯	xin hao deng	0
+信号电缆	xin hao dian lan	0
+信号工	xin hao gong	0
+信号工区	xin hao gong qu	0
+信号机	xin hao ji	0
+信号机房	xin hao ji fang	0
+信号楼	xin hao lou	0
+信号施工	xin hao shi gong	0
+宣杭线	xuan hang xian	0
+血涌如注	xue yong ru zhu	0
+血涌如注	xue chong ru zhu	0
+血涌如注	xie yong ru zhu	0
+迅快如电	xun kuai ru dian	0
+压力传感器	ya li chuan gan qi	0
+压敏电阻	ya min dian zu	0
+鸦宜线	ya yi xian	0
+鸭大线	ya da xian	0
+牙林线	ya lin xian	0
+羊场线	yang chang xian	0
+阳安线达成线	yang an xian da cheng xian	0
+遥控	yao kong	0
+叶赤线	ye chi xian	0
+伊加线	yi jia xian	0
+宜珙线	yi gong xian	0
+益永线	yi yong xian	0
+鹰厦线	ying xia xian	0
+应答器	ying da qi	0
+营口线	ying kou xian	0
+有源应答器	you yuan ying da qi	0
+渝怀线	yu huai xian	0
+玉门沟县线	yu men gou xian xian	0
+粤海轮渡线	yue hai lun du xian	0
+云岗线	yun gang xian	0
+运输	yun shu	0
+运输段	yun shu duan	0
+湛海线	zhan hai xian	0
+漳龙线	zhang long xian	0
+漳泉线	zhang quan xian	0
+张东线	zhang dong xian	0
+张家口线	zhang jia kou xian	0
+掌势	zhang shi	0
+郑州铁路局	zheng zhou tie lu ju	0
+中国列车控制系统	zhong guo lie che kong zhi xi tong	0
+终端盒	zhong duan he	0
+重载	chong zai	0
+主体信号	zhu ti xin hao	0
+转站	zhuan zhan	0
+转辙机	zhuan zhe ji	0
+追尾	zhui wei	0
+追踪	zhui zong	0
+自动闭塞	zi dong bi se	0
+自动调车	zi dong diao che	0
+自动控制	zi dong kong zhi	0
+漯宝线	luo bao xian	0
+漯阜线漯周段	luo fu xian luo zhou duan	0
+濉阜线	sui fu xian	0
+醴茶线	li cha xian	0

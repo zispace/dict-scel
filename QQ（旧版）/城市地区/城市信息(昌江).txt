@@ -1,0 +1,640 @@
+# 词库名称: 城市信息(昌江)
+# 词库分类: 海南 城市地区
+# 词库描述: 包含城市公交、交通措施、购物、餐饮、楼盘等各种信息
+# 词条样例: 艾劈岭、爱民路、芭蕉村、白晶林场、白沙岭、白山马二区、白山马五区、白石岭、帮排醒、保梅采育场
+# 词条数量: 632
+# 解析词数: 632
+# 解析异常: 0
+
+艾劈岭	ai pi ling	0
+碍派	ai pai	0
+爱论	ai lun	0
+爱民路	ai min lu	0
+昂便	ang bian	0
+昂托村	ang tuo cun	0
+芭蕉村	ba jiao cun	0
+芭蕉坡	ba jiao po	0
+坝王岭	ba wang ling	0
+白晶林场	bai jing lin chang	0
+白沙	bai sha	0
+白沙村	bai sha cun	0
+白沙岭	bai sha ling	0
+白沙小学	bai sha xiao xue	0
+白山马	bai shan ma	0
+白山马二区	bai shan ma er qu	0
+白山马三区	bai shan ma san qu	0
+白山马四区	bai shan ma si qu	0
+白山马五区	bai shan ma wu qu	0
+白山马一区	bai shan ma yi qu	0
+白石村	bai shi cun	0
+白石岭	bai shi ling	0
+白云桥	bai yun qiao	0
+邦溪	bang xi	0
+帮排醒	bang pai xing	0
+保芬老村	bao fen lao cun	0
+保满	bao man	0
+保梅采育场	bao mei cai yu chang	0
+保梅村	bao mei cun	0
+保梅岭	bao mei ling	0
+保平村	bao ping cun	0
+保平村橡胶场	bao ping cun xiang jiao chang	0
+保平第二小学	bao ping di er xiao xue	0
+保平林场	bao ping lin chang	0
+保平卫生院	bao ping wei sheng yuan	0
+保平乡	bao ping xiang	0
+保平乡热作场	bao ping xiang re zuo chang	0
+保平乡畜牧场	bao ping xiang xu mu chang	0
+保平中学	bao ping zhong xue	0
+保山村	bao shan cun	0
+保铁	bao tie	0
+保突村	bao tu cun	0
+保外	bao wai	0
+保湾	bao wan	0
+保新	bao xin	0
+保由	bao you	0
+报白老村	bao bai lao cun	0
+北部湾	bei bu wan	0
+北方村	bei fang cun	0
+崩田	beng tian	0
+波兰沟村	bo lan gou cun	0
+波兰沟小学	bo lan gou xiao xue	0
+波兰沟畜牧场	bo lan gou xu mu chang	0
+补昂田	bu ang tian	0
+才地村	cai di cun	0
+才地村	cai de cun	0
+才地村农场	cai di cun nong chang	0
+才地村农场	cai de cun nong chang	0
+才地队畜牧场	cai di dui xu mu chang	0
+才地队畜牧场	cai de dui xu mu chang	0
+才地小学	cai di xiao xue	0
+才地小学	cai de xiao xue	0
+菜毛田	cai mao tian	0
+蔡南阳	cai nan yang	0
+叉河村	cha he cun	0
+叉河大桥	cha he da qiao	0
+叉河农场二十队	cha he nong chang er shi dui	0
+叉河农场九队	cha he nong chang jiu dui	0
+叉河农场三队	cha he nong chang san dui	0
+叉河农场十队	cha he nong chang shi dui	0
+叉河农场十三队	cha he nong chang shi san dui	0
+叉河农场十四队	cha he nong chang shi si dui	0
+叉河农场十五队	cha he nong chang shi wu dui	0
+叉河站	cha he zhan	0
+叉河镇	cha he zhen	0
+昌城派出所	chang cheng pai chu suo	0
+昌城乡	chang cheng xiang	0
+昌城乡畜牧场	chang cheng xiang xu mu chang	0
+昌城中心小学	chang cheng zhong xin xiao xue	0
+昌城中学	chang cheng zhong xue	0
+昌城中学农场	chang cheng zhong xue nong chang	0
+昌化大岭	chang hua da ling	0
+昌化港	chang hua gang	0
+昌化江	chang hua jiang	0
+昌化铅锌矿	chang hua qian xin kuang	0
+昌化镇	chang hua zhen	0
+昌化镇畜牧场	chang hua zhen xu mu chang	0
+昌化镇政府	chang hua zhen zheng fu	0
+昌化中心小学	chang hua zhong xin xiao xue	0
+昌江	chang jiang	0
+昌江宾馆	chang jiang bin guan	0
+昌江车站	chang jiang che zhan	0
+昌江大道	chang jiang da dao	0
+昌江第三小学	chang jiang di san xiao xue	0
+昌江第一小学	chang jiang di yi xiao xue	0
+昌江机关幼儿园	chang jiang ji guan you er yuan	0
+昌江黎族自治县	chang jiang li zu zi zhi xian	0
+昌江民族中学	chang jiang min zu zhong xue	0
+昌江县法院	chang jiang xian fa yuan	0
+昌江县纪检委	chang jiang xian ji jian wei	0
+昌江县检察院	chang jiang xian jian cha yuan	0
+昌江县人大	chang jiang xian ren da	0
+昌江县委	chang jiang xian wei	0
+昌江县五七大学	chang jiang xian wu qi da xue	0
+昌江县畜牧场	chang jiang xian xu mu chang	0
+昌江县政协	chang jiang xian zheng xie	0
+昌江县知青农场	chang jiang xian zhi qing nong chang	0
+昌江迎宾馆	chang jiang ying bin guan	0
+昌江中学	chang jiang zhong xue	0
+昌农村	chang nong cun	0
+昌运宾馆	chang yun bin guan	0
+长岭	chang ling	0
+长山村	zhang shan cun	0
+长山村	chang shan cun	0
+长塘村	chang tang cun	0
+长田	chang tian	0
+池头	chi tou	0
+臭屁园	chou pi yuan	0
+出入口	chu ru kou	0
+打根塘	da gen tang	0
+打蛇田	da she tian	0
+打听岭	da ting ling	0
+打显村	da xian cun	0
+打显大队农场	da xian da dui nong chang	0
+打羊田	da yang tian	0
+大安村	da an cun	0
+大安大队农场	da an da dui nong chang	0
+大板田	da ban tian	0
+大村	da cun	0
+大芬	da fen	0
+大风村	da feng cun	0
+大河村	da he cun	0
+大角	da jiao	0
+大岭	da ling	0
+大呢	da ne	0
+大排礁	da pai jiao	0
+大坡	da po	0
+大坡水库	da po shui ku	0
+大坡田	da po tian	0
+大坡希望小学	da po xi wang xiao xue	0
+大坡医院	da po yi yuan	0
+大仍村	da reng cun	0
+大深田	da shen tian	0
+大炎村	da yan cun	0
+大炎大队农场	da yan da dui nong chang	0
+大炎老村	da yan lao cun	0
+大炎新村	da yan xin cun	0
+大阳基	da yang ji	0
+大章村	da zhang cun	0
+大重傲	da zhong ao	0
+大重傲	da chong ao	0
+道隆村	dao long cun	0
+道隆村橡胶场	dao long cun xiang jiao chang	0
+道隆大队农场	dao long da dui nong chang	0
+底下元田	di xia yuan tian	0
+地千	di qian	0
+地千	de qian	0
+靛村	dian cun	0
+东边田	dong bian tian	0
+东方村	dong fang cun	0
+东风路	dong feng lu	0
+东四林场	dong si lin chang	0
+东兴岭	dong xing ling	0
+东一林场	dong yi lin chang	0
+东园路	dong yuan lu	0
+峨港村	e gang cun	0
+峨港村橡胶场	e gang cun xiang jiao chang	0
+峨港大队林场	e gang da dui lin chang	0
+峨港大队农科所	e gang da dui nong ke suo	0
+峨港道班	e gang dao ban	0
+峨港岭	e gang ling	0
+峨港十队养猪场	e gang shi dui yang zhu chang	0
+峨港小学	e gang xiao xue	0
+峨沟村	e gou cun	0
+峨沟道班	e gou dao ban	0
+峨沟岭	e gou ling	0
+峨沟小学	e gou xiao xue	0
+峨岭	e ling	0
+峨弄	e nong	0
+峨弄	e long	0
+峨运岭	e yun ling	0
+峨珈	e jia	0
+鹅狼盖	e lang gai	0
+鹅毛岭	e mao ling	0
+俄倒	e dao	0
+俄地	e di	0
+俄地	e de	0
+俄岭	e ling	0
+俄毛	e mao	0
+俄贤岭	e xian ling	0
+俄牙岭	e ya ling	0
+俄奄	e yan	0
+俄因妹	e yin mei	0
+恶涛	e tao	0
+恶涛	wu tao	0
+二二五国道	er er wu guo dao	0
+法叭	fa ba	0
+分水岭	fen shui ling	0
+枫树下	feng shu xia	0
+福保田	fu bao tian	0
+富康酒店	fu kang jiu dian	0
+该丁田	gai ding tian	0
+干村	gan cun	0
+干村队畜牧场	gan cun dui xu mu chang	0
+甘心地	gan xin di	0
+甘心地	gan xin de	0
+甘蔗栏	gan zhe lan	0
+高峰河	gao feng he	0
+高岭	gao ling	0
+高石塘	gao shi tang	0
+高望	gao wang	0
+革命洞	ge ming dong	0
+公巴石	gong ba shi	0
+公更	gong geng	0
+公托	gong tuo	0
+光田村	guang tian cun	0
+光田村农科站	guang tian cun nong ke zhan	0
+过河园	guo he yuan	0
+海钢第三幼儿园	hai gang di san you er yuan	0
+海钢一中	hai gang yi zhong	0
+海钢迎宾馆	hai gang ying bin guan	0
+海钢影剧院	hai gang ying ju yuan	0
+海头港	hai tou gang	0
+海尾大队农场	hai wei da dui nong chang	0
+海尾道班	hai wei dao ban	0
+海尾第二小学	hai wei di er xiao xue	0
+海尾林场	hai wei lin chang	0
+海尾市	hai wei shi	0
+海尾镇	hai wei zhen	0
+海尾镇农场	hai wei zhen nong chang	0
+海尾镇畜牧场	hai wei zhen xu mu chang	0
+海尾镇政府	hai wei zhen zheng fu	0
+海尾中心小学	hai wei zhong xin xiao xue	0
+海尾中学	hai wei zhong xue	0
+汉公	han gong	0
+毫肉	hao rou	0
+毫腾尖	hao teng jian	0
+好胞吊	hao bao diao	0
+好垒	hao lei	0
+好清村	hao qing cun	0
+禾结规	he jie gui	0
+禾论	he lun	0
+禾圣堆	he sheng dui	0
+和多	he duo	0
+河累	he lei	0
+河裂	he lie	0
+黑岭	hei ling	0
+很瘦山	hen shou shan	0
+鸿俊宾馆	hong jun bin guan	0
+鸿兴宾馆	hong xing bin guan	0
+洪水村	hong shui cun	0
+洪水小村	hong shui xiao cun	0
+红标坡	hong biao po	0
+红地岭	hong di ling	0
+红地岭	hong de ling	0
+红峰村	hong feng cun	0
+红峰二队	hong feng er dui	0
+红峰一队	hong feng yi dui	0
+红坎地	hong kan di	0
+红坎地	hong kan de	0
+红林场部	hong lin chang bu	0
+红林车队	hong lin che dui	0
+红林农场	hong lin nong chang	0
+红林农场八队	hong lin nong chang ba dui	0
+红林农场二队	hong lin nong chang er dui	0
+红林农场二十队	hong lin nong chang er shi dui	0
+红林农场九队	hong lin nong chang jiu dui	0
+红林农场六队	hong lin nong chang liu dui	0
+红林农场三队	hong lin nong chang san dui	0
+红林农场十八队	hong lin nong chang shi ba dui	0
+红林农场十队	hong lin nong chang shi dui	0
+红林农场十二队	hong lin nong chang shi er dui	0
+红林农场十九队	hong lin nong chang shi jiu dui	0
+红林农场十六队	hong lin nong chang shi liu dui	0
+红林农场十七队	hong lin nong chang shi qi dui	0
+红林农场十三队	hong lin nong chang shi san dui	0
+红林农场十一队	hong lin nong chang shi yi dui	0
+红林农场四队	hong lin nong chang si dui	0
+红林农场五队	hong lin nong chang wu dui	0
+红林农场一队	hong lin nong chang yi dui	0
+红林派出所	hong lin pai chu suo	0
+红林子弟学校	hong lin zi di xue xiao	0
+红岭	hong ling	0
+红薯地	hong shu di	0
+红薯地	hong shu de	0
+红田农场八队	hong tian nong chang ba dui	0
+红田农场二队	hong tian nong chang er dui	0
+红田农场二十队	hong tian nong chang er shi dui	0
+红田农场九队	hong tian nong chang jiu dui	0
+红田农场六队	hong tian nong chang liu dui	0
+红田农场农科站	hong tian nong chang nong ke zhan	0
+红田农场七队	hong tian nong chang qi dui	0
+红田农场三队	hong tian nong chang san dui	0
+红田农场十队	hong tian nong chang shi dui	0
+红田农场十二队	hong tian nong chang shi er dui	0
+红田农场十九队	hong tian nong chang shi jiu dui	0
+红田农场十六队	hong tian nong chang shi liu dui	0
+红田农场十七队	hong tian nong chang shi qi dui	0
+红田农场十三队	hong tian nong chang shi san dui	0
+红田农场十四队	hong tian nong chang shi si dui	0
+红田农场十五队	hong tian nong chang shi wu dui	0
+红田农场十一队	hong tian nong chang shi yi dui	0
+红田农场五队	hong tian nong chang wu dui	0
+红田农场畜牧队	hong tian nong chang xu mu dui	0
+红田农场一队	hong tian nong chang yi dui	0
+红田派出所	hong tian pai chu suo	0
+红田医院	hong tian yi yuan	0
+红田中学	hong tian zhong xue	0
+红卫村	hong wei cun	0
+红星菜场	hong xing cai chang	0
+红阳抽水站	hong yang chou shui zhan	0
+红阳村	hong yang cun	0
+红阳大队经济场	hong yang da dui jing ji chang	0
+猴龙	hou long	0
+胡羊山	hu yang shan	0
+花里地	hua li di	0
+花里地	hua li de	0
+黄江	huang jiang	0
+黄牛岭	huang niu ling	0
+黄塘	huang tang	0
+惠民路	hui min lu	0
+火灰田	huo hui tian	0
+基龙村	ji long cun	0
+基龙坡	ji long po	0
+机保村	ji bao cun	0
+机告村	ji gao cun	0
+鸡实	ji shi	0
+鸡心	ji xin	0
+鸡心村	ji xin cun	0
+吉开岭	ji kai ling	0
+吉宁路	ji ning lu	0
+加艾村畜牧场	jia ai cun xu mu chang	0
+假日宾馆	jia ri bin guan	0
+尖峰岭	jian feng ling	0
+尖岭	jian ling	0
+尖岭村	jian ling cun	0
+建设东路	jian she dong lu	0
+建设西路	jian she xi lu	0
+姜园村	jiang yuan cun	0
+江门坑	jiang men keng	0
+交界田	jiao jie tian	0
+金炳村	jin bing cun	0
+金波农场二队	jin bo nong chang er dui	0
+金波农场农牧队	jin bo nong chang nong mu dui	0
+金波农场一队	jin bo nong chang yi dui	0
+金沟	jin gou	0
+金沟岭	jin gou ling	0
+金牛岭	jin niu ling	0
+进董村	jin dong cun	0
+九公里	jiu gong li	0
+旧县村	jiu xian cun	0
+军营村	jun ying cun	0
+军营岭	jun ying ling	0
+坎头村	kan tou cun	0
+柯来村	ke lai cun	0
+孔车村	kong che cun	0
+孔存	kong cun	0
+矿山公园	kuang shan gong yuan	0
+辣草园	la cao yuan	0
+浪柄村	lang bing cun	0
+浪炳村	lang bing cun	0
+浪分田	lang fen tian	0
+浪论	lang lun	0
+老白田	lao bai tian	0
+老柏婆坟山	lao bai po fen shan	0
+老柏婆坟山	lao bo po fen shan	0
+老村	lao cun	0
+老村田	lao cun tian	0
+老港	lao gang	0
+老古地	lao gu di	0
+老古地	lao gu de	0
+老古岭	lao gu ling	0
+老宏村	lao hong cun	0
+老烈	lao lie	0
+老雅加林场	lao ya jia lin chang	0
+老羊田	lao yang tian	0
+老羊田小学	lao yang tian xiao xue	0
+老洋地村	lao yang di cun	0
+老洋地村	lao yang de cun	0
+里表村	li biao cun	0
+里仁村	li ren cun	0
+里头地	li tou di	0
+里头地	li tou de	0
+荔枝岭	li zhi ling	0
+立木冲	li mu chong	0
+林好	lin hao	0
+流水地	liu shui di	0
+流水地	liu shui de	0
+龙乐食店	long le shi dian	0
+龙乐食店	long yue shi dian	0
+龙眼头	long yan tou	0
+马鞍山	ma an shan	0
+马地	ma di	0
+马地	ma de	0
+马岭	ma ling	0
+马溶港	ma rong gang	0
+马头田	ma tou tian	0
+茅草地	mao cao di	0
+茅草地	mao cao de	0
+面前田	mian qian tian	0
+苗村	miao cun	0
+明旺坡	ming wang po	0
+木曲村	mu qu cun	0
+拿翁田	na weng tian	0
+那历村农场	na li cun nong chang	0
+纳凤村	na feng cun	0
+纳凤新村	na feng xin cun	0
+耐村	nai cun	0
+耐村中学	nai cun zhong xue	0
+南打	nan da	0
+南丁	nan ding	0
+南洞	nan dong	0
+南法	nan fa	0
+南法岭	nan fa ling	0
+南方村	nan fang cun	0
+南放岭	nan fang ling	0
+南峰河	nan feng he	0
+南冠宾馆	nan guan bin guan	0
+南华花园	nan hua hua yuan	0
+南兰败	nan lan bai	0
+南岭村	nan ling cun	0
+南罗村林场	nan luo cun lin chang	0
+南罗大队经济场	nan luo da dui jing ji chang	0
+南罗镇	nan luo zhen	0
+南罗镇老农场	nan luo zhen lao nong chang	0
+南罗镇水管站	nan luo zhen shui guan zhan	0
+南罗镇中学分校	nan luo zhen zhong xue fen xiao	0
+南罗中心小学	nan luo zhong xin xiao xue	0
+南罗中学	nan luo zhong xue	0
+南麻	nan ma	0
+南蛇水库	nan she shui ku	0
+南屯	nan tun	0
+南校	nan xiao	0
+南雅水库	nan ya shui ku	0
+南在	nan zai	0
+南樟	nan zhang	0
+尼下	ni xia	0
+尼下村	ni xia cun	0
+农行昌府分理处	nong hang chang fu fen li chu	0
+农行海钢分理处	nong hang hai gang fen li chu	0
+农行山城分理处	nong hang shan cheng fen li chu	0
+排岸村	pai an cun	0
+排岸道班	pai an dao ban	0
+片石村	pian shi cun	0
+坡考	po kao	0
+坡木岭	po mu ling	0
+七差村	qi cha cun	0
+七差大岭	qi cha da ling	0
+七差大岭	qi chai da ling	0
+七差岭	qi cha ling	0
+七差岭	qi chai ling	0
+七差乡	qi cha xiang	0
+七差乡	qi chai xiang	0
+七差乡农场	qi cha xiang nong chang	0
+七差乡农场	qi chai xiang nong chang	0
+七差中学	qi cha zhong xue	0
+七差中学	qi chai zhong xue	0
+七水村	qi shui cun	0
+棋子湾	qi zi wan	0
+钱铁	qian tie	0
+钱铁村	qian tie cun	0
+桥南路	qiao nan lu	0
+青坎	qing kan	0
+青岭	qing ling	0
+青山农场	qing shan nong chang	0
+琼江大酒店	qiong jiang da jiu dian	0
+秋凤村	qiu feng cun	0
+秋治坡	qiu zhi po	0
+人民北路	ren min bei lu	0
+人民大桥	ren min da qiao	0
+人民南路	ren min nan lu	0
+如翁岭	ru weng ling	0
+入口	ru kou	0
+三加	san jia	0
+三架岭	san jia ling	0
+三联村	san lian cun	0
+三联大队农场	san lian da dui nong chang	0
+沙耙	sha pa	0
+沙耙	sha ba	0
+沙地	sha di	0
+沙地村	sha di cun	0
+沙地农场	sha di nong chang	0
+沙田村	sha tian cun	0
+沙田大队农场	sha tian da dui nong chang	0
+沙鱼塘村	sha yu tang cun	0
+山村	shan cun	0
+山当麻	shan dang ma	0
+山地	shan di	0
+山田	shan tian	0
+山竹沟村	shan zhu gou cun	0
+山竹沟村农场	shan zhu gou cun nong chang	0
+山竹沟水库	shan zhu gou shui ku	0
+山竹沟小学	shan zhu gou xiao xue	0
+上村	shang cun	0
+深沟田	shen gou tian	0
+十七队	shi qi dui	0
+十月田村	shi yue tian cun	0
+十月田派出所	shi yue tian pai chu suo	0
+十月田镇	shi yue tian zhen	0
+十月田镇政府	shi yue tian zhen zheng fu	0
+石碌河	shi lu he	0
+石碌水库	shi lu shui ku	0
+石碌站	shi lu zhan	0
+石碌镇农场	shi lu zhen nong chang	0
+石碌镇政府	shi lu zhen zheng fu	0
+石碌镇中心学校	shi lu zhen zhong xin xue xiao	0
+石禄岭	shi lu ling	0
+瘦田	shou tian	0
+双塘	shuang tang	0
+双塘排	shuang tang pai	0
+水牛塘	shui niu tang	0
+水头	shui tou	0
+水头村	shui tou cun	0
+水头道班	shui tou dao ban	0
+水尾	shui wei	0
+四通管养站	si tong guan yang zhan	0
+四通田	si tong tian	0
+太坡派出所	tai po pai chu suo	0
+太坡希望小学	tai po xi wang xiao xue	0
+太坡中学	tai po zhong xue	0
+塘坊村	tang fang cun	0
+塘坊管养站	tang fang guan yang zhan	0
+塘坊岭	tang fang ling	0
+唐村	tang cun	0
+添喜学校	tian xi xue xiao	0
+田长	tian zhang	0
+田长	tian chang	0
+铁成路	tie cheng lu	0
+桐才村	tong cai cun	0
+头田	tou tian	0
+突角岭	tu jiao ling	0
+屯乃岭	tun nai ling	0
+拖后	tuo hou	0
+哇给寿	wa gei shou	0
+湾沟	wan gou	0
+万福路	wan fu lu	0
+万家惠超市	wan jia hui chao shi	0
+万善	wan shan	0
+万善村	wan shan cun	0
+万善小学	wan shan xiao xue	0
+王化	wang hua	0
+王下	wang xia	0
+王下乡	wang xia xiang	0
+王炸村	wang zha cun	0
+乌烈管养站	wu lie guan yang zhan	0
+乌烈林场	wu lie lin chang	0
+乌烈林场采伐班	wu lie lin chang cai fa ban	0
+乌烈农村信用社	wu lie nong cun xin yong she	0
+乌烈镇	wu lie zhen	0
+乌烈镇政府	wu lie zhen zheng fu	0
+乌烈中心小学	wu lie zhong xin xiao xue	0
+乌烈中学	wu lie zhong xue	0
+乌三大队经济场	wu san da dui jing ji chang	0
+乌一大队经济场	wu yi da dui jing ji chang	0
+梧高村	wu gao cun	0
+五大村	wu da cun	0
+五大大队农场	wu da da dui nong chang	0
+五拱坝	wu gong ba	0
+五里桥	wu li qiao	0
+五联村	wu lian cun	0
+五联大队农场	wu lian da dui nong chang	0
+五联小学	wu lian xiao xue	0
+西线高速公路	xi xian gao su gong lu	0
+细眉角	xi mei jiao	0
+细田农场	xi tian nong chang	0
+下村	xia cun	0
+先东	xian dong	0
+先锋	xian feng	0
+先锋岭	xian feng ling	0
+先南	xian nan	0
+先南水库	xian nan shui ku	0
+先南水库管理所	xian nan shui ku guan li suo	0
+先田	xian tian	0
+先田村	xian tian cun	0
+先中	xian zhong	0
+咸田村	xian tian cun	0
+贤亲丰	xian qin feng	0
+县边山	xian bian shan	0
+县交警大队	xian jiao jing da dui	0
+县人民医院	xian ren min yi yuan	0
+香岭	xiang ling	0
+香岭村	xiang ling cun	0
+小沟	xiao gou	0
+小角	xiao jiao	0
+小载村	xiao zai cun	0
+新城村	xin cheng cun	0
+新城二队养猪场	xin cheng er dui yang zhu chang	0
+新村	xin cun	0
+新港	xin gang	0
+新港学校	xin gang xue xiao	0
+新田坝	xin tian ba	0
+新兴村	xin xing cun	0
+兴墩	xing dun	0
+秀才田	xiu cai tian	0
+畜牧兽医站	xu mu shou yi zhan	0
+牙劳	ya lao	0
+牙螺口	ya luo kou	0
+牙螺田	ya luo tian	0
+牙迫村	ya po cun	0
+牙营村	ya ying cun	0
+雅加大岭	ya jia da ling	0
+雅加大桥	ya jia da qiao	0
+雅加林场	ya jia lin chang	0
+亚岭	ya ling	0
+燕窝岭	yan wo ling	0
+杨柳村	yang liu cun	0
+椰子村	ye zi cun	0
+椰子岭	ye zi ling	0
+乙洞村	yi dong cun	0
+乙件	yi jian	0
+乙劳村	yi lao cun	0
+乙在村	yi zai cun	0
+银河迎宾馆	yin he ying bin guan	0
+永安	yong an	0
+玉地	yu di	0
+玉地	yu de	0
+玉王田	yu wang tian	0
+育新小学	yu xin xiao xue	0
+则宁坡	ze ning po	0
+真稻田	zhen dao tian	0
+针峰山	zhen feng shan	0
+中行桥南分理处	zhong hang qiao nan fen li chu	0
+重合村	chong he cun	0
+子鸡地	zi ji di	0
+子鸡地	zi ji de	0
+子萼村	zi e cun	0
+坭塘地	ni tang di	0
+坭塘地	ni tang de	0
+喔捆雅	wo kun ya	0
+喔捆雅	o kun ya	0
+镲岭	cha ling	0
+舢板岭	shan ban ling	0

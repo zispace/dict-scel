@@ -1,0 +1,894 @@
+# 词库名称: 福州公交站名
+# 词库分类: 福建 城市地区
+# 词库描述: 福州公交站名
+# 词条样例: 朏头、安昌公司、安里、安泰中心、白湖亭、白沙、帮洲长寿路口、宝马路、北园、北园西
+# 词条数量: 886
+# 解析词数: 886
+# 解析异常: 0
+
+朏头	fei tou	0
+朏头	ku tou	0
+琯尾街	guan wei jie	0
+阿尔卡特	a er ka te	0
+安昌公司	an chang gong si	0
+安淡	an dan	0
+安福陵园	an fu ling yuan	0
+安里	an li	0
+安平小区	an ping xiao qu	0
+安铺村	an pu cun	0
+安泰中心	an tai zhong xin	0
+安头	an tou	0
+八方大厦	ba fang da sha	0
+白湖亭	bai hu ting	0
+白马河	bai ma he	0
+白马支路	bai ma zhi lu	0
+白沙	bai sha	0
+半道	ban dao	0
+半田透	ban tian tou	0
+帮洲长寿路口	bang zhou chang shou lu kou	0
+保福	bao fu	0
+宝龙城市广场	bao long cheng shi guang chang	0
+宝马路	bao ma lu	0
+北京金山	bei jing jin shan	0
+北门	bei men	0
+北园	bei yuan	0
+北园村	bei yuan cun	0
+北园村口	bei yuan cun kou	0
+北园西	bei yuan xi	0
+变压器厂	bian ya qi chang	0
+滨园路口	bin yuan lu kou	0
+滨洲路	bin zhou lu	0
+滨洲路口	bin zhou lu kou	0
+博大生物	bo da sheng wu	0
+博美诗邦	bo mei shi bang	0
+博仕后家园	bo shi hou jia yuan	0
+步卓	bu zhuo	0
+苍霞嘉兴园	cang xia jia xing yuan	0
+苍霞新城	cang xia xin cheng	0
+仓前	cang qian	0
+仓山步行街	cang shan bu xing jie	0
+仓山影院	cang shan ying yuan	0
+仓山镇	cang shan zhen	0
+茶会小区	cha hui xiao qu	0
+茶亭公园	cha ting gong yuan	0
+茶园山	cha yuan shan	0
+长柄	chang bing	0
+长冠城	zhang guan cheng	0
+长冠城	chang guan cheng	0
+长乐路	chang le lu	0
+长坪园	zhang ping yuan	0
+长坪园	chang ping yuan	0
+长埕路口	zhang cheng lu kou	0
+长埕路口	chang cheng lu kou	0
+朝阳路口	chao yang lu kou	0
+朝阳路口	zhao yang lu kou	0
+车管所	che guan suo	0
+城门	cheng men	0
+城门部队	cheng men bu dui	0
+城门派出所	cheng men pai chu suo	0
+城门邮电所	cheng men you dian suo	0
+程埔头	cheng pu tou	0
+程埔头	cheng bu tou	0
+池乾	chi qian	0
+池乾	chi gan	0
+赤桥村	chi qiao cun	0
+磹石	dian shi	0
+船政文化博物院	chuan zheng wen hua bo wu yuan	0
+创业楼	chuang ye lou	0
+翠湖山庄	cui hu shan zhuang	0
+村委	cun wei	0
+达道	da dao	0
+达明路	da ming lu	0
+打石坑	da shi keng	0
+打铁垱	da tie dang	0
+大富山	da fu shan	0
+大名城	da ming cheng	0
+大学城福大新区停车场	da xue cheng fu da xin qu ting che chang	0
+大学城福建工程学院	da xue cheng fu jian gong cheng xue yuan	0
+大学城福州教育学院	da xue cheng fu zhou jiao yu xue yuan	0
+大学城师大旗山校区东门	da xue cheng shi da qi shan xiao qu dong men	0
+大学城师大停车场	da xue cheng shi da ting che chang	0
+大学城师大校区	da xue cheng shi da xiao qu	0
+大洋坪	da yang ping	0
+道山路	dao shan lu	0
+道山路口	dao shan lu kou	0
+灯泡厂	deng pao chang	0
+登云新村	deng yun xin cun	0
+堤边	di bian	0
+电建二公司	dian jian er gong si	0
+电子园	dian zi yuan	0
+鼎屿	ding yu	0
+东大医药物流	dong da yi yao wu liu	0
+东街口	dong jie kou	0
+东联	dong lian	0
+东门	dong men	0
+东南电视台	dong nan dian shi tai	0
+东南造船厂	dong nan zao chuan chang	0
+东浦路	dong pu lu	0
+东升小区	dong sheng xiao qu	0
+东水路口	dong shui lu kou	0
+东塔	dong ta	0
+东兴村	dong xing cun	0
+东岳	dong yue	0
+东站	dong zhan	0
+东岐	dong qi	0
+动漫大楼	dong man da lou	0
+动物园	dong wu yuan	0
+斗池	dou chi	0
+斗门	dou men	0
+杜园	du yuan	0
+渡假村	du jia cun	0
+对湖	dui hu	0
+敦睦里	dun mu li	0
+儿童公园路	er tong gong yuan lu	0
+二化	er hua	0
+坊兜	fang dou	0
+方圆大厦	fang yuan da sha	0
+房地产市场	fang di chan shi chang	0
+肺科医院	fei ke yi yuan	0
+丰泉环保集团	feng quan huan bao ji tuan	0
+枫丹白鹭城	feng dan bai lu cheng	0
+凤高村	feng gao cun	0
+凤凰池	feng huang chi	0
+凤凰池新村	feng huang chi xin cun	0
+凤凰新村	feng huang xin cun	0
+凤尾	feng wei	0
+浮村	fu cun	0
+福大北门	fu da bei men	0
+福大东门	fu da dong men	0
+福大生活二区	fu da sheng huo er qu	0
+福大生活三区	fu da sheng huo san qu	0
+福大生活一区	fu da sheng huo yi qu	0
+福大西大门	fu da xi da men	0
+福大新区北门	fu da xin qu bei men	0
+福大新区东门	fu da xin qu dong men	0
+福大新区学生公寓	fu da xin qu xue sheng gong yu	0
+福大学生广场	fu da xue sheng guang chang	0
+福二中	fu er zhong	0
+福光路	fu guang lu	0
+福机	fu ji	0
+福建博物院	fu jian bo wu yuan	0
+福建行政学院	fu jian xing zheng xue yuan	0
+福马路	fu ma lu	0
+福马路口	fu ma lu kou	0
+福三中	fu san zhong	0
+福顺路	fu shun lu	0
+福四中	fu si zhong	0
+福田公司	fu tian gong si	0
+福湾工业区管委会	fu wan gong ye qu guan wei hui	0
+福湾佳和超市	fu wan jia he chao shi	0
+福五中	fu wu zhong	0
+福新东路	fu xin dong lu	0
+福新路口	fu xin lu kou	0
+福新支路	fu xin zhi lu	0
+福兴投资区	fu xing tou zi qu	0
+福兴医院	fu xing yi yuan	0
+福园花园	fu yuan hua yuan	0
+福州电视中心	fu zhou dian shi zhong xin	0
+福州港客运站	fu zhou gang ke yun zhan	0
+福州广场	fu zhou guang chang	0
+福州锅炉厂	fu zhou guo lu chang	0
+福州展览城	fu zhou zhan lan cheng	0
+福州职业技术学院	fu zhou zhi ye ji shu xue yuan	0
+副食品基地	fu shi pin ji di	0
+附中	fu zhong	0
+盖山投资区	gai shan tou zi qu	0
+盖山镇政府新村	gai shan zhen zheng fu xin cun	0
+干休所	gan xiu suo	0
+甘蔗	gan zhe	0
+钢材市场	gang cai shi chang	0
+港口路	gang kou lu	0
+高峰桥	gao feng qiao	0
+高桥西路	gao qiao xi lu	0
+高宅路	gao zhai lu	0
+高岐河大桥	gao qi he da qiao	0
+葛岐村	ge qi cun	0
+工贸路	gong mao lu	0
+公安防暴支队	gong an fang bao zhi dui	0
+公共教学楼	gong gong jiao xue lou	0
+公交苍霞站	gong jiao cang xia zhan	0
+公交大修厂	gong jiao da xiu chang	0
+公交国运公司	gong jiao guo yun gong si	0
+公交金山中心停车场	gong jiao jin shan zhong xin ting che chang	0
+公交仁德站	gong jiao ren de zhan	0
+公交鳌峰州站	gong jiao ao feng zhou zhan	0
+公交鳌峰洲站	gong jiao ao feng zhou zhan	0
+公园道一号	gong yuan dao yi hao	0
+公园东路口	gong yuan dong lu kou	0
+宫巷口	gong xiang kou	0
+鼓东路	gu dong lu	0
+鼓岭古道	gu ling gu dao	0
+鼓岭柳杉王公园	gu ling liu shan wang gong yuan	0
+鼓楼	gu lou	0
+鼓楼区委	gu lou qu wei	0
+鼓山苑	gu shan yuan	0
+鼓山中学	gu shan zhong xue	0
+鼓四村	gu si cun	0
+古三座	gu san zuo	0
+关口	guan kou	0
+管委会	guan wei hui	0
+光禄坊	guang lu fang	0
+光明	guang ming	0
+光明桥	guang ming qiao	0
+光桥	guang qiao	0
+光荣路	guang rong lu	0
+郭前路	guo qian lu	0
+郭厝里	guo cuo li	0
+国光	guo guang	0
+过仑村	guo lun cun	0
+海产批发市场	hai chan pi fa shi chang	0
+海峡园	hai xia yuan	0
+海屿	hai yu	0
+荷塘路	he tang lu	0
+河下路	he xia lu	0
+鹤林村	he lin cun	0
+横堤坝	heng di ba	0
+横江渡	heng jiang du	0
+洪山桥	hong shan qiao	0
+洪山桥头	hong shan qiao tou	0
+洪山西客站	hong shan xi ke zhan	0
+洪塘	hong tang	0
+洪湾路口	hong wan lu kou	0
+宏昌公司	hong chang gong si	0
+宏捷物流	hong jie wu liu	0
+红江路	hong jiang lu	0
+红旗村	hong qi cun	0
+红山	hong shan	0
+厚屿	hou yu	0
+后山	hou shan	0
+后塘	hou tang	0
+后巷路	hou xiang lu	0
+后屿路	hou yu lu	0
+后屿路口	hou yu lu kou	0
+后坂	hou ban	0
+葫芦阵	hu lu zhen	0
+湖际	hu ji	0
+湖胶村	hu jiao cun	0
+湖前	hu qian	0
+湖前小区	hu qian xiao qu	0
+湖塘村	hu tang cun	0
+湖头街	hu tou jie	0
+湖塍	hu cheng	0
+虎节路口	hu jie lu kou	0
+华大	hua da	0
+华林四桥	hua lin si qiao	0
+华塑二厂	hua su er chang	0
+化肥厂	hua fei chang	0
+化工路	hua gong lu	0
+黄山	huang shan	0
+汇达广场	hui da guang chang	0
+汇多利	hui duo li	0
+汇和科技	hui he ke ji	0
+火车站	huo che zhan	0
+机务段	ji wu duan	0
+吉庇路	ji bi lu	0
+祭酒岭	ji jiu ling	0
+加洋路	jia yang lu	0
+驾管所	jia guan suo	0
+健康村	jian kang cun	0
+建平村	jian ping cun	0
+建新	jian xin	0
+建新镇卫生院	jian xin zhen wei sheng yuan	0
+建星路口	jian xing lu kou	0
+江滨锦城	jiang bin jin cheng	0
+江口	jiang kou	0
+江南名城	jiang nan ming cheng	0
+江十路	jiang shi lu	0
+江夏学院	jiang xia xue yuan	0
+江厝路	jiang cuo lu	0
+江厝路口	jiang cuo lu kou	0
+讲堂前	jiang tang qian	0
+教育学院附中	jiao yu xue yuan fu zhong	0
+教院附中	jiao yuan fu zhong	0
+桔园二路	ju yuan er lu	0
+桔园三路	ju yuan san lu	0
+桔园三期	ju yuan san qi	0
+桔园四路	ju yuan si lu	0
+解放大桥	jie fang da qiao	0
+金城投资区	jin cheng tou zi qu	0
+金城小区	jin cheng xiao qu	0
+金鸡山公园	jin ji shan gong yuan	0
+金鸡山路口	jin ji shan lu kou	0
+金康路	jin kang lu	0
+金龙新村	jin long xin cun	0
+金牛山公园	jin niu shan gong yuan	0
+金融学院	jin rong xue yuan	0
+金山碧水	jin shan bi shui	0
+金山冬馨苑	jin shan dong xin yuan	0
+金山工业区鼓楼园	jin shan gong ye qu gu lou yuan	0
+金山工业区生活小区	jin shan gong ye qu sheng huo xiao qu	0
+金山工业区台江园	jin shan gong ye qu tai jiang yuan	0
+金山工业区钟楼	jin shan gong ye qu zhong lou	0
+金山公交中心停车场	jin shan gong jiao zhong xin ting che chang	0
+金山公交总站	jin shan gong jiao zong zhan	0
+金山公园北门	jin shan gong yuan bei men	0
+金山公园南门	jin shan gong yuan nan men	0
+金山开发区	jin shan kai fa qu	0
+金山明星	jin shan ming xing	0
+金山秋爽苑	jin shan qiu shuang yuan	0
+金山生活区东门	jin shan sheng huo qu dong men	0
+金山四期	jin shan si qi	0
+金山新华图书城	jin shan xin hua tu shu cheng	0
+金山住宅区	jin shan zhu zhai qu	0
+金山总站	jin shan zong zhan	0
+金塘路口	jin tang lu kou	0
+金祥路	jin xiang lu	0
+金祥路口	jin xiang lu kou	0
+金岩路口	jin yan lu kou	0
+金晖新村	jin hui xin cun	0
+晋安汽配城	jin an qi pei cheng	0
+晋安区委	jin an qu wei	0
+警官学校	jing guan xue xiao	0
+警官学院	jing guan xue yuan	0
+镜上	jing shang	0
+九龙城	jiu long cheng	0
+旧车交易市场	jiu che jiao yi shi chang	0
+旧马宝	jiu ma bao	0
+居住主题公园	ju zhu zhu ti gong yuan	0
+君竹	jun zhu	0
+君竹环岛	jun zhu huan dao	0
+浚边	jun bian	0
+浚边	xun bian	0
+开关分厂	kai guan fen chang	0
+开元寺	kai yuan si	0
+康城小区	kang cheng xiao qu	0
+康弛新巴士有限责任公司	kang chi xin ba shi you xian ze ren gong si	0
+科技路	ke ji lu	0
+科技园工委会	ke ji yuan gong wei hui	0
+科技园区	ke ji yuan qu	0
+科教园	ke jiao yuan	0
+空军门诊部	kong jun men zhen bu	0
+空军医院	kong jun yi yuan	0
+空军驻地	kong jun zhu di	0
+空院门诊部	kong yuan men zhen bu	0
+快安	kuai an	0
+快安大道	kuai an da dao	0
+快安派出所	kuai an pai chu suo	0
+快洲村	kuai zhou cun	0
+魁岐	kui qi	0
+魁岐铁道口	kui qi tie dao kou	0
+魁岐洲	kui qi zhou	0
+蓝湖食品公司	lan hu shi pin gong si	0
+蓝湾	lan wan	0
+兰圃	lan pu	0
+琅岐	lang qi	0
+琅岐镇政府	lang qi zhen zheng fu	0
+老药洲街	lao yao zhou jie	0
+乐西	le xi	0
+乐西	yue xi	0
+黎明	li ming	0
+黎明电脑城	li ming dian nao cheng	0
+黎明新村	li ming xin cun	0
+李园	li yuan	0
+联建村	lian jian cun	0
+联心	lian xin	0
+连潘	lian pan	0
+连洋路	lian yang lu	0
+连坂	lian ban	0
+梁厝	liang cuo	0
+燎原	liao yuan	0
+林茂地板厂	lin mao di ban chang	0
+林浦水闸	lin pu shui zha	0
+林桥	lin qiao	0
+林则徐纪念馆	lin ze xu ji nian guan	0
+陵园	ling yuan	0
+岭下堂	ling xia tang	0
+硫酸厂	liu suan chang	0
+刘宅	liu zhai	0
+刘宅村	liu zhai cun	0
+流洋	liu yang	0
+柳桥	liu qiao	0
+六江	liu jiang	0
+龙华天桥	long hua tian qiao	0
+龙门	long men	0
+龙潭角	long tan jiao	0
+龙潭角	long tan jue	0
+龙腰	long yao	0
+隆凤新村	long feng xin cun	0
+隆平路口	long ping lu kou	0
+轮工	lun gong	0
+螺洲	luo zhou	0
+螺洲镇政府新村	luo zhou zhen zheng fu xin cun	0
+罗汉山	luo han shan	0
+罗马生态园	luo ma sheng tai yuan	0
+罗星塔	luo xing ta	0
+马保村	ma bao cun	0
+马江路	ma jiang lu	0
+马口	ma kou	0
+马尾保税区	ma wei bao shui qu	0
+马尾海关	ma wei hai guan	0
+马尾旧街	ma wei jiu jie	0
+马尾派出所	ma wei pai chu suo	0
+马尾区委	ma wei qu wei	0
+马尾造船厂	ma wei zao chuan chang	0
+马尾中钢	ma wei zhong gang	0
+麦园路	mai yuan lu	0
+蛮浦	man pu	0
+满洋路	man yang lu	0
+胐头	fei tou	0
+胐头	ku tou	0
+胐头工业区	fei tou gong ye qu	0
+胐头工业区	ku tou gong ye qu	0
+梅峰	mei feng	0
+梅峰路	mei feng lu	0
+梅峰路口	mei feng lu kou	0
+梅峰支路	mei feng zhi lu	0
+梅亭	mei ting	0
+梅坞口	mei wu kou	0
+美垱口	mei dang kou	0
+美当口	mei dang kou	0
+蒙古营	meng gu ying	0
+米罗街	mi luo jie	0
+闽安	min an	0
+闽东本田	min dong ben tian	0
+闽都大厦	min dou da sha	0
+闽都大厦	min du da sha	0
+闽江大学	min jiang da xue	0
+闽江公园	min jiang gong yuan	0
+闽江局	min jiang ju	0
+闽江世纪广场	min jiang shi ji guang chang	0
+闽江学院	min jiang xue yuan	0
+闽江学院北门	min jiang xue yuan bei men	0
+闽江学院长乐路校区	min jiang xue yuan chang le lu xiao qu	0
+闽三中	min san zhong	0
+闽运汽车北站	min yun qi che bei zhan	0
+明德广场	ming de guang chang	0
+名城港湾	ming cheng gang wan	0
+木帆社	mu fan she	0
+南公园	nan gong yuan	0
+南后街	nan hou jie	0
+南街	nan jie	0
+南门	nan men	0
+南平西路	nan ping xi lu	0
+南台路	nan tai lu	0
+南屿电影院	nan yu dian ying yuan	0
+南屿口	nan yu kou	0
+南屿桥头	nan yu qiao tou	0
+南屿镇政府	nan yu zhen zheng fu	0
+南禅山	nan chan shan	0
+宁化路口	ning hua lu kou	0
+宁化新村	ning hua xin cun	0
+排尾	pai wei	0
+排下	pai xia	0
+潘宅	pan zhai	0
+磐石村	pan shi cun	0
+蓬埕	peng cheng	0
+屏北中学	ping bei zhong xue	0
+屏东	ping dong	0
+屏东路	ping dong lu	0
+屏山	ping shan	0
+屏山公园	ping shan gong yuan	0
+屏西路口	ping xi lu kou	0
+屏西商场	ping xi shang chang	0
+屏西新村南门	ping xi xin cun nan men	0
+蒲岭	pu ling	0
+埔前顶路	pu qian ding lu	0
+埔前顶路	bu qian ding lu	0
+浦东	pu dong	0
+浦上大道	pu shang da dao	0
+浦上工业区	pu shang gong ye qu	0
+浦上工业区钟楼	pu shang gong ye qu zhong lou	0
+浦上开发区协盛装饰大楼	pu shang kai fa qu xie sheng zhuang shi da lou	0
+浦上开发区协盛装饰大楼	pu shang kai fa qu xie cheng zhuang shi da lou	0
+浦上路口	pu shang lu kou	0
+七星井	qi xing jing	0
+旗山路口	qi shan lu kou	0
+旗汛口	qi xun kou	0
+汽车站	qi che zhan	0
+汽修厂	qi xiu chang	0
+钱塘巷	qian tang xiang	0
+钱塘巷	qian tang hang	0
+前横路	qian heng lu	0
+前横路北	qian heng lu bei	0
+前洋	qian yang	0
+前屿	qian yu	0
+前屿东路	qian yu dong lu	0
+桥北	qiao bei	0
+桥南	qiao nan	0
+桥南环岛	qiao nan huan dao	0
+桥头街	qiao tou jie	0
+侨雄	qiao xiong	0
+琴湖路口	qin hu lu kou	0
+琴湖小区	qin hu xiao qu	0
+琴亭	qin ting	0
+琴亭高架桥	qin ting gao jia qiao	0
+青口	qing kou	0
+青洲	qing zhou	0
+青洲桥	qing zhou qiao	0
+青岐	qing qi	0
+群众路	qun zhong lu	0
+人民埕	ren min cheng	0
+人造板厂	ren zao ban chang	0
+日立公司	ri li gong si	0
+融侨东区	rong qiao dong qu	0
+融侨锦江	rong qiao jin jiang	0
+融侨锦江新天地	rong qiao jin jiang xin tian di	0
+融信第一城	rong xin di yi cheng	0
+儒江	ru jiang	0
+儒江路东	ru jiang lu dong	0
+儒江路西	ru jiang lu xi	0
+儒江西路	ru jiang xi lu	0
+软件学院	ruan jian xue yuan	0
+软件园	ruan jian yuan	0
+瑞达电子	rui da dian zi	0
+瑞闽铝业	rui min lv ye	0
+瑞闽铝业公司	rui min lv ye gong si	0
+三八路口	san ba lu kou	0
+三叉街	san cha jie	0
+三叉街新村	san cha jie xin cun	0
+三叉路	san cha lu	0
+三角池	san jiao chi	0
+三角井	san jiao jing	0
+三木都市花园	san mu du shi hua yuan	0
+三木小区	san mu xiao qu	0
+三平	san ping	0
+三山陵园	san shan ling yuan	0
+三盛实业	san sheng shi ye	0
+三盛实业	san cheng shi ye	0
+三条垱	san tiao dang	0
+三中金山中学	san zhong jin shan zhong xue	0
+森林公园	sen lin gong yuan	0
+森林公园南门	sen lin gong yuan nan men	0
+沙墩	sha dun	0
+沙溪	sha xi	0
+山海观	shan hai guan	0
+山姆小镇	shan mu xiao zhen	0
+山前	shan qian	0
+上德	shang de	0
+上渡建材市场	shang du jian cai shi chang	0
+上渡桥头	shang du qiao tou	0
+上海街道	shang hai jie dao	0
+上海西新村	shang hai xi xin cun	0
+上海新村	shang hai xin cun	0
+上街	shang jie	0
+上街大学城	shang jie da xue cheng	0
+上街厚美	shang jie hou mei	0
+上街后山	shang jie hou shan	0
+上街网吧	shang jie wang ba	0
+上街一屁	shang jie yi pi	0
+上街镇政府	shang jie zhen zheng fu	0
+上浦路口	shang pu lu kou	0
+上三路口	shang san lu kou	0
+上雁路口	shang yan lu kou	0
+上洲	shang zhou	0
+上坂	shang ban	0
+尚保	shang bao	0
+尚干	shang gan	0
+社会主义学院	she hui zhu yi xue yuan	0
+省彩印厂	sheng cai yin chang	0
+省彩印厂	xing cai yin chang	0
+省电影公司	sheng dian ying gong si	0
+省电影公司	xing dian ying gong si	0
+省府干训中心	sheng fu gan xun zhong xin	0
+省工业学校	sheng gong ye xue xiao	0
+省工业学校	xing gong ye xue xiao	0
+省公安学校	sheng gong an xue xiao	0
+省公安学校	xing gong an xue xiao	0
+省话剧院	sheng hua ju yuan	0
+省话剧院	xing hua ju yuan	0
+省建材学校	sheng jian cai xue xiao	0
+省建材学校	xing jian cai xue xiao	0
+省建委	sheng jian wei	0
+省建委	xing jian wei	0
+省建筑专科学校	sheng jian zhu zhuan ke xue xiao	0
+省建筑专科学校	xing jian zhu zhuan ke xue xiao	0
+省交通技术学校	sheng jiao tong ji shu xue xiao	0
+省交通技术学校	xing jiao tong ji shu xue xiao	0
+省交通学院	sheng jiao tong xue yuan	0
+省交通学院	xing jiao tong xue yuan	0
+省军区	sheng jun qu	0
+省军区幼儿园	sheng jun qu you er yuan	0
+省老干局	sheng lao gan ju	0
+省老干局	xing lao gan ju	0
+省理工学校	sheng li gong xue xiao	0
+省理工学校	xing li gong xue xiao	0
+省立医院	sheng li yi yuan	0
+省煤矿医院	sheng mei kuang yi yuan	0
+省煤矿医院	xing mei kuang yi yuan	0
+省农科院	sheng nong ke yuan	0
+省农科院	xing nong ke yuan	0
+省农行	sheng nong hang	0
+省农行	xing nong hang	0
+省皮肤病院	sheng pi fu bing yuan	0
+省皮肤病院	xing pi fu bing yuan	0
+省少管所	sheng shao guan suo	0
+省少管所	xing shao guan suo	0
+省生殖保健中心	sheng sheng zhi bao jian zhong xin	0
+省生殖保健中心	xing sheng zhi bao jian zhong xin	0
+省体育中心	sheng ti yu zhong xin	0
+省体育中心	xing ti yu zhong xin	0
+省跳水游泳馆	sheng tiao shui you yong guan	0
+省跳水游泳馆	xing tiao shui you yong guan	0
+省图书馆	sheng tu shu guan	0
+省图书馆	xing tu shu guan	0
+省拖拉机厂	sheng tuo la ji chang	0
+省拖拉机厂	xing tuo la ji chang	0
+省委党校	sheng wei dang xiao	0
+省物价局	sheng wu jia ju	0
+省物价局	xing wu jia ju	0
+省消防总队	sheng xiao fang zong dui	0
+省消防总队	xing xiao fang zong dui	0
+省新闻出版局	sheng xin wen chu ban ju	0
+省新闻出版局	xing xin wen chu ban ju	0
+省医大大学新学区	sheng yi da da xue xin xue qu	0
+省医大大学新学区	xing yi da da xue xin xue qu	0
+省医大附一医院	sheng yi da fu yi yi yuan	0
+省医大附一医院	xing yi da fu yi yi yuan	0
+省医科大学新学区	sheng yi ke da xue xin xue qu	0
+省医科大学新学区	xing yi ke da xue xin xue qu	0
+省渔业总公司	sheng yu ye zong gong si	0
+省渔业总公司	xing yu ye zong gong si	0
+省杂技团	sheng za ji tuan	0
+省杂技团	xing za ji tuan	0
+省政府	sheng zheng fu	0
+省直湖前小区	sheng zhi hu qian xiao qu	0
+省中医学院新学区	sheng zhong yi xue yuan xin xue qu	0
+盛天现代城	sheng tian xian dai cheng	0
+盛天现代城	cheng tian xian dai cheng	0
+师大仓山校区	shi da cang shan xiao qu	0
+师大协和医院	shi da xie he yi yuan	0
+师大学生公寓	shi da xue sheng gong yu	0
+施埔	shi pu	0
+施埔	shi bu	0
+十锦祠	shi jin ci	0
+十四桥	shi si qiao	0
+石步	shi bu	0
+世纪星服饰城	shi ji xing fu shi cheng	0
+市按摩医院	shi an mo yi yuan	0
+市传染病院	shi chuan ran bing yuan	0
+市防疫站	shi fang yi zhan	0
+市公安防暴支队	shi gong an fang bao zhi dui	0
+市公安局	shi gong an ju	0
+市规划局	shi gui hua ju	0
+市教院附中	shi jiao yuan fu zhong	0
+市面粉公司	shi mian fen gong si	0
+市人才储备中心	shi ren cai chu bei zhong xin	0
+市体校	shi ti xiao	0
+市体育中心	shi ti yu zhong xin	0
+市一医院	shi yi yi yuan	0
+市直湖前小区	shi zhi hu qian xiao qu	0
+首山	shou shan	0
+树兜	shu dou	0
+树汤路	shu tang lu	0
+双安城	shuang an cheng	0
+双龙物流	shuang long wu liu	0
+双抛桥	shuang pao qiao	0
+双浦头	shuang pu tou	0
+双协村	shuang xie cun	0
+双子星大厦	shuang zi xing da sha	0
+双坂	shuang ban	0
+双坂新村	shuang ban xin cun	0
+水部门兜	shui bu men dou	0
+水泥厂	shui ni chang	0
+水上公园	shui shang gong yuan	0
+四十中	si shi zhong	0
+松门	song men	0
+它山	ta shan	0
+塔头	ta tou	0
+台江	tai jiang	0
+台江步行街	tai jiang bu xing jie	0
+台江港务	tai jiang gang wu	0
+台江广场	tai jiang guang chang	0
+台江影院	tai jiang ying yuan	0
+台屿	tai yu	0
+潭下	tan xia	0
+桃园小区	tao yuan xiao qu	0
+天峰	tian feng	0
+天峰宾馆	tian feng bin guan	0
+天桥	tian qiao	0
+天泉路口	tian quan lu kou	0
+天泉小区	tian quan xiao qu	0
+天翔发展	tian xiang fa zhan	0
+天乙网吧	tian yi wang ba	0
+天元山庄	tian yuan shan zhuang	0
+铁道医院	tie dao yi yuan	0
+铁岭	tie ling	0
+亭江	ting jiang	0
+亭江中学	ting jiang zhong xue	0
+亭头	ting tou	0
+亭下	ting xia	0
+通湖路	tong hu lu	0
+通湖路口	tong hu lu kou	0
+桐口	tong kou	0
+铜盘	tong pan	0
+铜盘河	tong pan he	0
+铜盘路	tong pan lu	0
+土特产品市场	tu te chan pin shi chang	0
+湾边	wan bian	0
+万商俱乐部	wan shang ju le bu	0
+万事利花园	wan shi li hua yuan	0
+万象城	wan xiang cheng	0
+王庄	wang zhuang	0
+王庄新村	wang zhuang xin cun	0
+旺岐境	wang qi jing	0
+卫生厅	wei sheng ting	0
+温泉路口	wen quan lu kou	0
+温泉支路	wen quan zhi lu	0
+文化宫	wen hua gong	0
+文林路	wen lin lu	0
+文山里	wen shan li	0
+翁排	weng pai	0
+乌龙江大道	wu long jiang da dao	0
+乌山	wu shan	0
+乌山路	wu shan lu	0
+乌山路口	wu shan lu kou	0
+乌山桥西	wu shan qiao xi	0
+乌山西路	wu shan xi lu	0
+吴凤	wu feng	0
+吴山	wu shan	0
+吴庄	wu zhuang	0
+吴厝头	wu cuo tou	0
+武夷绿洲	wu yi lv zhou	0
+五门闸	wu men zha	0
+五四路口	wu si lu kou	0
+五一广场	wu yi guang chang	0
+五一路	wu yi lu	0
+五一新村	wu yi xin cun	0
+西河	xi he	0
+西洪路	xi hong lu	0
+西湖	xi hu	0
+西湖公园	xi hu gong yuan	0
+西门	xi men	0
+西山部队	xi shan bu dui	0
+西洋路口	xi yang lu kou	0
+西洋新村	xi yang xin cun	0
+西园	xi yuan	0
+西园新苑	xi yuan xin yuan	0
+西庄西路	xi zhuang xi lu	0
+西禅寺	xi chan si	0
+溪垱	xi dang	0
+溪口	xi kou	0
+喜盈门建材家具广场	xi ying men jian cai jia ju guang chang	0
+峡北	xia bei	0
+峡南	xia nan	0
+下赤桥	xia chi qiao	0
+下德	xia de	0
+下店	xia dian	0
+下乖	xia guai	0
+下洋	xia yang	0
+下院	xia yuan	0
+下岐村	xia qi cun	0
+下濂	xia lian	0
+夏雨苑	xia yu yuan	0
+先锋幼儿园	xian feng you er yuan	0
+仙塔街	xian ta jie	0
+县党校	xian dang xiao	0
+县建行	xian jian hang	0
+县委	xian wei	0
+宪窗	xian chuang	0
+祥谦镇政府	xiang qian zhen zheng fu	0
+祥坂路口	xiang ban lu kou	0
+祥坂小区	xiang ban xiao qu	0
+象园街道	xiang yuan jie dao	0
+象园头	xiang yuan tou	0
+小柳市场	xiao liu shi chang	0
+小桥头	xiao qiao tou	0
+鞋城	xie cheng	0
+协和医院	xie he yi yuan	0
+谢坑	xie keng	0
+新安	xin an	0
+新大陆科技园	xin da lu ke ji yuan	0
+新店村委	xin dian cun wei	0
+新店景秀小区	xin dian jing xiu xiao qu	0
+新店市场	xin dian shi chang	0
+新店收费站	xin dian shou fei zhan	0
+新店医院	xin dian yi yuan	0
+新店镇政府	xin dian zhen zheng fu	0
+新动物园	xin dong wu yuan	0
+新权路口	xin quan lu kou	0
+新洲村	xin zhou cun	0
+新谠	xin dang	0
+星昌公司	xing chang gong si	0
+幸福城	xing fu cheng	0
+幸福城小区	xing fu cheng xiao qu	0
+熊猫世界	xiong mao shi jie	0
+秀山	xiu shan	0
+秀山路	xiu shan lu	0
+秀山中学	xiu shan zhong xue	0
+徐家村	xu jia cun	0
+旭辉左海岸	xu hui zuo hai an	0
+畜牧场	xu mu chang	0
+学府	xue fu	0
+学府南路	xue fu nan lu	0
+学府桥头	xue fu qiao tou	0
+学园路	xue yuan lu	0
+衙门	ya men	0
+亚峰	ya feng	0
+亚峰农贸市场	ya feng nong mao shi chang	0
+亚细亚广场	ya xi ya guang chang	0
+沿山市场	yan shan shi chang	0
+艳莲	yan lian	0
+雁塔	yan ta	0
+杨南路口	yang nan lu kou	0
+杨楠路口	yang nan lu kou	0
+洋坑	yang keng	0
+洋洽	yang qia	0
+洋头口	yang tou kou	0
+洋下新村	yang xia xin cun	0
+阳光城	yang guang cheng	0
+阳光学城	yang guang xue cheng	0
+阳厦	yang xia	0
+阳厦	yang sha	0
+阳岐	yang qi	0
+阳岐路	yang qi lu	0
+耀隆集团	yao long ji tuan	0
+冶山路	ye shan lu	0
+叶洋	ye yang	0
+一桥	yi qiao	0
+艺都大酒店	yi dou da jiu dian	0
+艺都大酒店	yi du da jiu dian	0
+义序	yi xu	0
+义序机场	yi xu ji chang	0
+益凤村	yi feng cun	0
+英屿	ying yu	0
+营迹路	ying ji lu	0
+映辉楼	ying hui lou	0
+永安街	yong an jie	0
+永丰	yong feng	0
+永南中学	yong nan zhong xue	0
+尤溪洲桥头	you xi zhou qiao tou	0
+于山	yu shan	0
+余盛	yu sheng	0
+余盛	yu cheng	0
+余盛永辉	yu sheng yong hui	0
+余盛永辉	yu cheng yong hui	0
+鱼池	yu chi	0
+元洪城	yuan hong cheng	0
+原厝	yuan cuo	0
+源福花园	yuan fu hua yuan	0
+源江路口	yuan jiang lu kou	0
+源康水业	yuan kang shui ye	0
+远西村	yuan xi cun	0
+远洋	yuan yang	0
+远洋路口	yuan yang lu kou	0
+岳峰	yue feng	0
+云龙	yun long	0
+则徐广场	ze xu guang chang	0
+樟岚口	zhang lan kou	0
+招呼站	zhao hu zhan	0
+招贤路	zhao xian lu	0
+真珠谷	zhen zhu gu	0
+枕峰	zhen feng	0
+阵坂村	zhen ban cun	0
+正境寺	zheng jing si	0
+正祥香槟风范	zheng xiang xiang bin feng fan	0
+郑安村	zheng an cun	0
+指挥学校	zhi hui xue xiao	0
+中钢公司	zhong gang gong si	0
+中华职业大学	zhong hua zhi ye da xue	0
+中山	zhong shan	0
+中亭街	zhong ting jie	0
+中亭街口	zhong ting jie kou	0
+中下村	zhong xia cun	0
+中央公园	zhong yang gong yuan	0
+中洲岛	zhong zhou dao	0
+种福寺	zhong fu si	0
+肿瘤医院	zhong liu yi yuan	0
+轴承厂	zhou cheng chang	0
+竹榄	zhu lan	0
+主楼	zhu lou	0
+状元境	zhuang yuan jing	0
+紫阳	zi yang	0
+紫阳立交桥	zi yang li jiao qiao	0
+总院	zong yuan	0
+总院分院	zong yuan fen yuan	0
+祖庙	zu miao	0
+左海公园	zuo hai gong yuan	0
+左海公园西门	zuo hai gong yuan xi men	0
+坂中	ban zhong	0
+埕园顶	cheng yuan ding	0
+岐山村	qi shan cun	0
+濂江村	lian jiang cun	0
+濂江工业区	lian jiang gong ye qu	0
+缤纷园艺园	bin fen yuan yi yuan	0
+榕城广场	rong cheng guang chang	0
+榕桥村	rong qiao cun	0
+榕桦医院	rong hua yi yuan	0
+橘园洲	ju yuan zhou	0
+橘园洲服务中心	ju yuan zhou fu wu zhong xin	0
+胪雷亭	lu lei ting	0
+钜全公司	ju quan gong si	0
+鳄鱼公园	e yu gong yuan	0
+鳌峰支路	ao feng zhi lu	0
+鳌峰洲公交停车场	ao feng zhou gong jiao ting che chang	0
+鳝溪	shan xi	0

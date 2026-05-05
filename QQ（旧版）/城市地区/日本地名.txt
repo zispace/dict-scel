@@ -1,0 +1,5851 @@
+# 词库名称: 日本地名
+# 词库分类: 国外地名 城市地区
+# 词库描述: 城市名，乡村名，景点等
+# 词条样例: 両津市、亀田町、剣渊町、呉市、堺区、塩沢町、塩江町、塩灶市、増毛町、姫戸町
+# 词条数量: 5843
+# 解析词数: 5843
+# 解析异常: 0
+
+両津市	liang jin shi	0
+亀冈市	gui gang shi	0
+亀山市	gui shan shi	0
+亀田町	gui tian ding	0
+亀田町	gui tian ting	0
+倶知安町	ju zhi an ding	0
+倶知安町	ju zhi an ting	0
+児玉郡	er yu jun	0
+剣渊町	jian yuan ding	0
+剣渊町	jian yuan ting	0
+厳木町	yan mu ding	0
+厳木町	yan mu ting	0
+厳原町	yan yuan ding	0
+厳原町	yan yuan ting	0
+呉市	wu shi	0
+埼玉市	qi yu shi	0
+埼玉县	qi yu xian	0
+堺区	jie qu	0
+堺市	jie shi	0
+塙町	que ding	0
+塙町	que ting	0
+塙町	qiao ding	0
+塙町	qiao ting	0
+塩沢町	yan ze ding	0
+塩沢町	yan ze ting	0
+塩川町	yan chuan ding	0
+塩川町	yan chuan ting	0
+塩谷郡	yan gu jun	0
+塩江町	yan jiang ding	0
+塩江町	yan jiang ting	0
+塩山市	yan shan shi	0
+塩田町	yan tian ding	0
+塩田町	yan tian ting	0
+塩灶市	yan zao shi	0
+塩尻市	yan kao shi	0
+増穂町	zeng sui ding	0
+増穂町	zeng sui ting	0
+増毛町	zeng mao ding	0
+増毛町	zeng mao ting	0
+増田町	zeng tian ding	0
+増田町	zeng tian ting	0
+売木村	mai mu cun	0
+姫戸町	zhen hu ding	0
+姫戸町	zhen hu ting	0
+姫岛村	zhen dao cun	0
+姫路市	zhen lu shi	0
+姶良郡	e liang jun	0
+姶良郡	ya liang jun	0
+姶良町	e liang ding	0
+姶良町	ya liang ding	0
+姶良町	e liang ting	0
+姶良町	ya liang ting	0
+嬬恋村	nou lian cun	0
+嬬恋村	ru lian cun	0
+宍喰町	rou sun ding	0
+宍喰町	rou can ding	0
+宍喰町	rou sun ting	0
+宍喰町	rou can ting	0
+宍喰町	rou qi ding	0
+宍道町	rou dao ding	0
+宍道町	rou dao ting	0
+宍粟市	rou su shi	0
+巣南町	chao nan ding	0
+巣南町	chao nan ting	0
+巻町	juan ding	0
+巻町	juan ting	0
+帯広市	dai guang shi	0
+広瀬町	guang lai ding	0
+広瀬町	guang lai ting	0
+広川町	guang chuan ding	0
+広川町	guang chuan ting	0
+広岛市	guang dao shi	0
+広岛县	guang dao xian	0
+広见町	guang jian ding	0
+広见町	guang jian ting	0
+広陵町	guang ling ding	0
+広陵町	guang ling ting	0
+広神村	guang shen cun	0
+広田村	guang tian cun	0
+広尾町	guang wei ding	0
+広尾町	guang wei ting	0
+広野町	guang ye ding	0
+広野町	guang ye ting	0
+徳岛市	de dao shi	0
+徳岛县	de dao xian	0
+徳地町	de di ding	0
+徳地町	de di ting	0
+徳地町	de de ding	0
+徳地町	de de ting	0
+徳山市	de shan shi	0
+徳之岛町	de zhi dao ding	0
+徳之岛町	de zhi dao ting	0
+恵那市	hui na shi	0
+恵山町	hui shan ding	0
+恵山町	hui shan ting	0
+恵庭市	hui ting shi	0
+戸塚区	hu zhong qu	0
+戸沢村	hu ze cun	0
+戸仓町	hu cang ding	0
+戸仓町	hu cang ting	0
+戸河内町	hu he nei ding	0
+戸河内町	hu he nei ting	0
+戸井町	hu jing ding	0
+戸井町	hu jing ting	0
+戸田村	hu tian cun	0
+戸田市	hu tian shi	0
+戸隠村	hu yin cun	0
+摂津市	she jin shi	0
+曽尔村	ceng er cun	0
+曽尔村	zeng er cun	0
+栃木市	li mu shi	0
+栃木县	li mu xian	0
+栃尾市	li wei shi	0
+栄村	rong cun	0
+栄区	rong qu	0
+栄町	rong ding	0
+栄町	rong ting	0
+桜岛町	ying dao ding	0
+桜岛町	ying dao ting	0
+桜江町	ying jiang ding	0
+桜江町	ying jiang ting	0
+桜井市	ying jing shi	0
+梼原町	tao yuan ding	0
+梼原町	tao yuan ting	0
+梼原町	dao yuan ding	0
+梼原町	dao yuan ting	0
+梼原町	chou yuan ding	0
+楢川村	you chuan cun	0
+楢叶町	you ye ding	0
+楢叶町	you ye ting	0
+様似町	yang si ding	0
+様似町	yang si ting	0
+様似町	yang shi ding	0
+様似町	yang shi ting	0
+樋脇町	tong xie ding	0
+樋脇町	tong xie ting	0
+橿原市	jiang yuan shi	0
+檮原町	tao yuan ding	0
+檮原町	tao yuan ting	0
+檮原町	chou yuan ding	0
+檮原町	chou yuan ting	0
+檮原町	dao yuan ding	0
+気高町	qi gao ding	0
+気高町	qi gao ting	0
+気仙沼市	qi xian zhao shi	0
+氷见市	bing jian shi	0
+氷上町	bing shang ding	0
+氷上町	bing shang ting	0
+沢内村	ze nei cun	0
+浄法寺町	jing fa si ding	0
+浄法寺町	jing fa si ting	0
+渋川市	se chuan shi	0
+渋谷区	se gu qu	0
+満浓町	man nong ding	0
+満浓町	man nong ting	0
+滝沢村	long ze cun	0
+滝川市	long chuan shi	0
+滝根町	long gen ding	0
+滝根町	long gen ting	0
+滝上町	long shang ding	0
+滝上町	long shang ting	0
+滝野町	long ye ding	0
+滝野町	long ye ting	0
+潟东村	xi dong cun	0
+瀬戸内町	lai hu nei ding	0
+瀬戸内町	lai hu nei ting	0
+瀬戸市	lai hu shi	0
+瀬戸田町	lai hu tian ding	0
+瀬戸田町	lai hu tian ting	0
+瀬戸町	lai hu ding	0
+瀬戸町	lai hu ting	0
+瀬峰町	lai feng ding	0
+瀬峰町	lai feng ting	0
+瀬高町	lai gao ding	0
+瀬高町	lai gao ting	0
+瀬谷区	lai gu qu	0
+瀬棚町	lai peng ding	0
+瀬棚町	lai peng ting	0
+焼津市	shao jin shi	0
+狛江市	bo jiang shi	0
+産山村	chan shan cun	0
+畑野町	tian ye ding	0
+畑野町	tian ye ting	0
+阿児町	a er ding	0
+阿児町	a er ting	0
+阿倍野区	a bei ye qu	0
+阿波村	a bo cun	0
+阿波市	a bo shi	0
+阿波町	a bo ding	0
+阿波町	a bo ting	0
+阿东町	a dong ding	0
+阿东町	a dong ting	0
+阿寒郡	a han jun	0
+阿寒町	a han ding	0
+阿寒町	a han ting	0
+阿见町	a jian ding	0
+阿见町	a jian ting	0
+阿久比町	a jiu bi ding	0
+阿久比町	a jiu bi ting	0
+阿久根市	a jiu gen shi	0
+阿南市	a nan shi	0
+阿南町	a nan ding	0
+阿南町	a nan ting	0
+阿仁町	a ren ding	0
+阿仁町	a ren ting	0
+阿山町	a shan ding	0
+阿山町	a shan ting	0
+阿苏郡	a su jun	0
+阿苏市	a su shi	0
+阿苏町	a su ding	0
+阿苏町	a su ting	0
+阿武郡	a wu jun	0
+阿武町	a wu ding	0
+阿武町	a wu ting	0
+阿知须町	a zhi xu ding	0
+阿知须町	a zhi xu ting	0
+阿智村	a zhi cun	0
+爱别町	ai bie ding	0
+爱别町	ai bie ting	0
+爱川町	ai chuan ding	0
+爱川町	ai chuan ting	0
+爱东町	ai dong ding	0
+爱东町	ai dong ting	0
+爱甲郡	ai jia jun	0
+爱西市	ai xi shi	0
+爱野町	ai ye ding	0
+爱野町	ai ye ting	0
+爱知川町	ai zhi chuan ding	0
+爱知川町	ai zhi chuan ting	0
+爱知郡	ai zhi jun	0
+爱知县	ai zhi xian	0
+爱庄町	ai zhuang ding	0
+爱庄町	ai zhuang ting	0
+爱媛县	ai yuan xian	0
+鞍手郡	an shou jun	0
+鞍手町	an shou ding	0
+鞍手町	an shou ting	0
+安塚町	an zhong ding	0
+安塚町	an zhong ting	0
+安八町	an ba ding	0
+安八町	an ba ting	0
+安城市	an cheng shi	0
+安达郡	an da jun	0
+安达町	an da ding	0
+安达町	an da ting	0
+安代町	an dai ding	0
+安代町	an dai ting	0
+安堵町	an du ding	0
+安堵町	an du ting	0
+安房郡	an fang jun	0
+安富町	an fu ding	0
+安富町	an fu ting	0
+安来市	an lai shi	0
+安浓町	an nong ding	0
+安浓町	an nong ting	0
+安平町	an ping ding	0
+安平町	an ping ting	0
+安浦町	an pu ding	0
+安浦町	an pu ting	0
+安苏郡	an su jun	0
+安田町	an tian ding	0
+安田町	an tian ting	0
+安土町	an tu ding	0
+安土町	an tu ting	0
+安心院町	an xin yuan ding	0
+安心院町	an xin yuan ting	0
+安艺高田市	an yi gao tian shi	0
+安艺郡	an yi jun	0
+安艺区	an yi qu	0
+安艺市	an yi shi	0
+安艺太田町	an yi tai tian ding	0
+安艺太田町	an yi tai tian ting	0
+安中市	an zhong shi	0
+安佐北区	an zuo bei qu	0
+安佐南区	an zuo nan qu	0
+安芸津町	an yun jin ding	0
+安芸津町	an yun jin ting	0
+安芸市	an yun shi	0
+安岐町	an qi ding	0
+安岐町	an qi ting	0
+安昙川町	an tan chuan ding	0
+安昙川町	an tan chuan ting	0
+安昙村	an tan cun	0
+安昙野市	an tan ye shi	0
+岸本町	an ben ding	0
+岸本町	an ben ting	0
+岸和田市	an he tian shi	0
+奥出云町	ao chu yun ding	0
+奥出云町	ao chu yun ting	0
+奥多摩町	ao duo mo ding	0
+奥多摩町	ao duo mo ting	0
+奥津町	ao jin ding	0
+奥津町	ao jin ting	0
+奥入濑町	ao ru lai ding	0
+奥入濑町	ao ru lai ting	0
+奥尻郡	ao kao jun	0
+奥尻町	ao kao ding	0
+奥尻町	ao kao ting	0
+八戸市	ba hu shi	0
+八百津町	ba bai jin ding	0
+八百津町	ba bai jin ting	0
+八潮市	ba chao shi	0
+八代郡	ba dai jun	0
+八代市	ba dai shi	0
+八代町	ba dai ding	0
+八代町	ba dai ting	0
+八东町	ba dong ding	0
+八东町	ba dong ting	0
+八竜町	ba neng ding	0
+八竜町	ba neng ting	0
+八竜町	ba long ding	0
+八竜町	ba long ting	0
+八户市	ba hu shi	0
+八街市	ba jie shi	0
+八开村	ba kai cun	0
+八郎潟町	ba lang xi ding	0
+八郎潟町	ba lang xi ting	0
+八鹿町	ba lu ding	0
+八鹿町	ba lu ting	0
+八木町	ba mu ding	0
+八木町	ba mu ting	0
+八女郡	ba nv jun	0
+八女市	ba nv shi	0
+八千代市	ba qian dai shi	0
+八千代町	ba qian dai ding	0
+八千代町	ba qian dai ting	0
+八千穂村	ba qian sui cun	0
+八日市场市	ba ri shi chang shi	0
+八日市市	ba ri shi shi	0
+八森町	ba sen ding	0
+八森町	ba sen ting	0
+八束村	ba shu cun	0
+八束郡	ba shu jun	0
+八束町	ba shu ding	0
+八束町	ba shu ting	0
+八田村	ba tian cun	0
+八头郡	ba tou jun	0
+八王子市	ba wang zi shi	0
+八尾市	ba wei shi	0
+八尾町	ba wei ding	0
+八尾町	ba wei ting	0
+八云村	ba yun cun	0
+八云町	ba yun ding	0
+八云町	ba yun ting	0
+八丈町	ba zhang ding	0
+八丈町	ba zhang ting	0
+八重山郡	ba chong shan jun	0
+八重山支厅	ba chong shan zhi ting	0
+八坂村	ba ban cun	0
+八幡滨市	ba fan bin shi	0
+八幡东区	ba fan dong qu	0
+八幡市	ba fan shi	0
+八幡浜市	ba fan bang shi	0
+八幡町	ba fan ding	0
+八幡町	ba fan ting	0
+巴约讷岩礁	ba yue ne yan jiao	0
+白沢村	bai ze cun	0
+白滝村	bai long cun	0
+白滨町	bai bin ding	0
+白滨町	bai bin ting	0
+白川村	bai chuan cun	0
+白川町	bai chuan ding	0
+白川町	bai chuan ting	0
+白峰村	bai feng cun	0
+白冈町	bai gang ding	0
+白冈町	bai gang ting	0
+白根市	bai gen shi	0
+白根町	bai gen ding	0
+白根町	bai gen ting	0
+白河市	bai he shi	0
+白井市	bai jing shi	0
+白糠郡	bai kang jun	0
+白糠町	bai kang ding	0
+白糠町	bai kang ting	0
+白老郡	bai lao jun	0
+白老町	bai lao ding	0
+白老町	bai lao ting	0
+白马村	bai ma cun	0
+白鸟町	bai niao ding	0
+白鸟町	bai niao ting	0
+白山市	bai shan shi	0
+白山町	bai shan ding	0
+白山町	bai shan ting	0
+白石区	bai shi qu	0
+白石市	bai shi shi	0
+白石町	bai shi ding	0
+白石町	bai shi ting	0
+白水村	bai shui cun	0
+白鹰町	bai ying ding	0
+白鹰町	bai ying ting	0
+白州町	bai zhou ding	0
+白州町	bai zhou ting	0
+白子町	bai zi ding	0
+白子町	bai zi ting	0
+白浜町	bai bang ding	0
+白浜町	bai bang ting	0
+柏村	bai cun	0
+柏村	bo cun	0
+柏崎市	bai qi shi	0
+柏崎市	bo qi shi	0
+柏市	bai shi	0
+柏市	bo shi	0
+柏原市	bo yuan shi	0
+柏原町	bo yuan ding	0
+柏原町	bo yuan ting	0
+百石町	bai shi ding	0
+百石町	bai shi ting	0
+斑鸠町	ban jiu ding	0
+斑鸠町	ban jiu ting	0
+板仓町	ban cang ding	0
+板仓町	ban cang ting	0
+板柳町	ban liu ding	0
+板柳町	ban liu ting	0
+板桥区	ban qiao qu	0
+板取村	ban qu cun	0
+板野郡	ban ye jun	0
+板野町	ban ye ding	0
+板野町	ban ye ting	0
+半田市	ban tian shi	0
+半田町	ban tian ding	0
+半田町	ban tian ting	0
+保内町	bao nei ding	0
+保内町	bao nei ting	0
+保土谷区	bao tu gu qu	0
+保原町	bao yuan ding	0
+保原町	bao yuan ting	0
+饱海郡	bao hai jun	0
+宝塚市	bao zhong shi	0
+宝饭郡	bao fan jun	0
+宝珠山村	bao zhu shan cun	0
+宝冢市	bao zhong shi	0
+北埼玉郡	bei qi yu jun	0
+北塩原村	bei yan yuan cun	0
+北広岛市	bei guang dao shi	0
+北安昙郡	bei an tan jun	0
+北本市	bei ben shi	0
+北波多村	bei bo duo cun	0
+北川边町	bei chuan bian ding	0
+北川边町	bei chuan bian ting	0
+北川村	bei chuan cun	0
+北川町	bei chuan ding	0
+北川町	bei chuan ting	0
+北茨城市	bei ci cheng shi	0
+北村	bei cun	0
+北村山郡	bei cun shan jun	0
+北大东村	bei da dong cun	0
+北岛町	bei dao ding	0
+北岛町	bei dao ting	0
+北斗市	bei dou shi	0
+北杜市	bei du shi	0
+北方町	bei fang ding	0
+北方町	bei fang ting	0
+北房町	bei fang ding	0
+北房町	bei fang ting	0
+北竜町	bei neng ding	0
+北竜町	bei neng ting	0
+北竜町	bei long ding	0
+北竜町	bei long ting	0
+北葛城郡	bei ge cheng jun	0
+北葛饰郡	bei ge shi jun	0
+北谷町	bei gu ding	0
+北谷町	bei gu ting	0
+北广岛市	bei guang dao shi	0
+北海道	bei hai dao	0
+北会津村	bei hui jin cun	0
+北见市	bei jian shi	0
+北津轻郡	bei jin qing jun	0
+北九州市	bei jiu zhou shi	0
+北龙町	bei long ding	0
+北龙町	bei long ting	0
+北茂安町	bei mao an ding	0
+北茂安町	bei mao an ting	0
+北名古屋市	bei ming gu wu shi	0
+北牟娄郡	bei mu lou jun	0
+北牟娄郡	bei mou lou jun	0
+北浦町	bei pu ding	0
+北浦町	bei pu ting	0
+北秋田郡	bei qiu tian jun	0
+北区	bei qu	0
+北群马郡	bei qun ma jun	0
+北荣町	bei rong ding	0
+北荣町	bei rong ting	0
+北山村	bei shan cun	0
+北上市	bei shang shi	0
+北上町	bei shang ding	0
+北上町	bei shang ting	0
+北设乐郡	bei she le jun	0
+北设乐郡	bei she yue jun	0
+北势町	bei shi ding	0
+北势町	bei shi ting	0
+北条市	bei tiao shi	0
+北条町	bei tiao ding	0
+北条町	bei tiao ting	0
+北相马郡	bei xiang ma jun	0
+北相木村	bei xiang mu cun	0
+北盐原村	bei yan yuan cun	0
+北野町	bei ye ding	0
+北野町	bei ye ting	0
+北有马町	bei you ma ding	0
+北有马町	bei you ma ting	0
+北宇和郡	bei yu he jun	0
+北御牧村	bei yu mu cun	0
+北中城村	bei zhong cheng cun	0
+北诸县郡	bei zhu xian jun	0
+北足立郡	bei zu li jun	0
+北佐久郡	bei zuo jiu jun	0
+北郷村	bei xiang cun	0
+北郷町	bei xiang ding	0
+北郷町	bei xiang ting	0
+北澹町	bei dan ding	0
+北澹町	bei tan ding	0
+北澹町	bei dan ting	0
+北澹町	bei tan ting	0
+北桧山町	bei hui shan ding	0
+北桧山町	bei hui shan ting	0
+北桧山町	bei gui shan ding	0
+北桧山町	bei gui shan ting	0
+贝塚市	bei zhong shi	0
+贝冢市	bei zhong shi	0
+备前市	bei qian shi	0
+备中町	bei zhong ding	0
+备中町	bei zhong ting	0
+本巣町	ben chao ding	0
+本巣町	ben chao ting	0
+本别町	ben bie ding	0
+本别町	ben bie ting	0
+本部町	ben bu ding	0
+本部町	ben bu ting	0
+本城村	ben cheng cun	0
+本川村	ben chuan cun	0
+本川根町	ben chuan gen ding	0
+本川根町	ben chuan gen ting	0
+本渡市	ben du shi	0
+本宫市	ben gong shi	0
+本宫町	ben gong ding	0
+本宫町	ben gong ting	0
+本吉郡	ben ji jun	0
+本吉町	ben ji ding	0
+本吉町	ben ji ting	0
+本匠村	ben jiang cun	0
+本荘市	ben zhuang shi	0
+本山町	ben shan ding	0
+本山町	ben shan ting	0
+本耶马溪町	ben ye ma xi ding	0
+本耶马溪町	ben ye ma xi ting	0
+本野村	ben ye cun	0
+本庄市	ben zhuang shi	0
+本郷村	ben xiang cun	0
+本郷町	ben xiang ding	0
+本郷町	ben xiang ting	0
+比布町	bi bu ding	0
+比布町	bi bu ting	0
+比和町	bi he ding	0
+比和町	bi he ting	0
+比内町	bi nei ding	0
+比内町	bi nei ting	0
+比企郡	bi qi jun	0
+碧南市	bi nan shi	0
+标茶町	biao cha ding	0
+标茶町	biao cha ting	0
+标津郡	biao jin jun	0
+标津町	biao jin ding	0
+标津町	biao jin ting	0
+表郷村	biao xiang cun	0
+别府市	bie fu shi	0
+别海町	bie hai ding	0
+别海町	bie hai ting	0
+别子山村	bie zi shan cun	0
+滨北区	bin bei qu	0
+滨顿别町	bin dun bie ding	0
+滨顿别町	bin dun bie ting	0
+滨名郡	bin ming jun	0
+滨松市	bin song shi	0
+滨田市	bin tian shi	0
+滨中町	bin zhong ding	0
+滨中町	bin zhong ting	0
+兵库区	bing ku qu	0
+兵库县	bing ku xian	0
+冰见市	bing jian shi	0
+播磨町	bo mo ding	0
+播磨町	bo mo ting	0
+波方町	bo fang ding	0
+波方町	bo fang ting	0
+波贺町	bo he ding	0
+波贺町	bo he ting	0
+波田町	bo tian ding	0
+波田町	bo tian ting	0
+波野村	bo ye cun	0
+波佐见町	bo zuo jian ding	0
+波佐见町	bo zuo jian ting	0
+博多区	bo duo qu	0
+伯方町	bo fang ding	0
+伯方町	bo fang ting	0
+伯方町	bai fang ding	0
+伯太町	bo tai ding	0
+伯太町	bo tai ting	0
+伯太町	bai tai ding	0
+泊村	bo cun	0
+泊村	po cun	0
+泊村古宇郡	bo cun gu yu jun	0
+泊村古宇郡	po cun gu yu jun	0
+不知火町	bu zhi huo ding	0
+不知火町	bu zhi huo ting	0
+布津町	bu jin ding	0
+布津町	bu jin ting	0
+布施村	bu shi cun	0
+布野村	bu ye cun	0
+财部町	cai bu ding	0
+财部町	cai bu ting	0
+财田町	cai tian ding	0
+财田町	cai tian ting	0
+仓敷市	cang fu shi	0
+仓吉市	cang ji shi	0
+仓桥町	cang qiao ding	0
+仓桥町	cang qiao ting	0
+仓石村	cang shi cun	0
+仓岳町	cang yue ding	0
+仓岳町	cang yue ting	0
+藏王町	zang wang ding	0
+藏王町	zang wang ting	0
+草加市	cao jia shi	0
+草津市	cao jin shi	0
+草津町	cao jin ding	0
+草津町	cao jin ting	0
+诧间町	cha jian ding	0
+诧间町	cha jian ting	0
+柴田郡	chai tian jun	0
+柴田町	chai tian ding	0
+柴田町	chai tian ting	0
+产山村	chan shan cun	0
+常滑市	chang hua shi	0
+常陆大宫市	chang lu da gong shi	0
+常陆那珂市	chang lu na ke shi	0
+常陆太田市	chang lu tai tian shi	0
+常吕郡	chang lv jun	0
+常吕町	chang lv ding	0
+常吕町	chang lv ting	0
+常盘村	chang pan cun	0
+常叶町	chang ye ding	0
+常叶町	chang ye ting	0
+常总市	chang zong shi	0
+长瀞町	zhang jing ding	0
+长瀞町	chang jing ding	0
+长瀞町	zhang jing ting	0
+长瀞町	chang jing ting	0
+长滨市	chang bin shi	0
+长柄町	chang bing ding	0
+长柄町	chang bing ting	0
+长船町	chang chuan ding	0
+长船町	chang chuan ting	0
+长岛町	chang dao ding	0
+长岛町	chang dao ting	0
+长冈京市	chang gang jing shi	0
+长冈郡	chang gang jun	0
+长冈市	chang gang shi	0
+长谷村	chang gu cun	0
+长和町	chang he ding	0
+长和町	chang he ting	0
+长井市	zhang jing shi	0
+长井市	chang jing shi	0
+长久手町	chang jiu shou ding	0
+长久手町	chang jiu shou ting	0
+长门市	zhang men shi	0
+长门市	chang men shi	0
+长门町	chang men ding	0
+长门町	chang men ting	0
+长门町	zhang men ding	0
+长门町	zhang men ting	0
+长崎市	chang qi shi	0
+长崎县	chang qi xian	0
+长泉町	zhang quan ding	0
+长泉町	chang quan ding	0
+长泉町	zhang quan ting	0
+长泉町	chang quan ting	0
+长生村	chang sheng cun	0
+长生郡	chang sheng jun	0
+长田区	chang tian qu	0
+长万部町	zhang wan bu ding	0
+长万部町	chang wan bu ding	0
+长万部町	zhang wan bu ting	0
+长万部町	chang wan bu ting	0
+长阳村	chang yang cun	0
+长野市	chang ye shi	0
+长野县	chang ye xian	0
+长野原町	chang ye yuan ding	0
+长野原町	chang ye yuan ting	0
+长与町	zhang yu ding	0
+长与町	chang yu ding	0
+长与町	zhang yu ting	0
+长与町	chang yu ting	0
+长沼町	zhang zhao ding	0
+长沼町	chang zhao ding	0
+长沼町	zhang zhao ting	0
+长沼町	chang zhao ting	0
+长洲町	chang zhou ding	0
+长洲町	chang zhou ting	0
+长坂町	chang ban ding	0
+长坂町	chang ban ting	0
+长浜市	zhang bang shi	0
+长浜市	chang bang shi	0
+长浜町	zhang bang ding	0
+长浜町	chang bang ding	0
+长浜町	zhang bang ting	0
+长浜町	chang bang ting	0
+朝仓村	chao cang cun	0
+朝仓郡	chao cang jun	0
+朝仓市	chao cang shi	0
+朝仓町	chao cang ding	0
+朝仓町	chao cang ting	0
+朝地町	chao di ding	0
+朝地町	chao di ting	0
+朝来市	chao lai shi	0
+朝来町	chao lai ding	0
+朝来町	chao lai ting	0
+朝日村	zhao ri cun	0
+朝日町	zhao ri ding	0
+朝日町	zhao ri ting	0
+朝霞市	zhao xia shi	0
+潮来市	chao lai shi	0
+车力村	che li cun	0
+辰口町	chen kou ding	0
+辰口町	chen kou ting	0
+辰野町	chen ye ding	0
+辰野町	chen ye ting	0
+城川町	cheng chuan ding	0
+城川町	cheng chuan ting	0
+城岛町	cheng dao ding	0
+城岛町	cheng dao ting	0
+城东区	cheng dong qu	0
+城端町	cheng duan ding	0
+城端町	cheng duan ting	0
+城里町	cheng li ding	0
+城里町	cheng li ting	0
+城南区	cheng nan qu	0
+城南町	cheng nan ding	0
+城南町	cheng nan ting	0
+城崎町	cheng qi ding	0
+城崎町	cheng qi ting	0
+城阳市	cheng yang shi	0
+城辺町	cheng bian ding	0
+城辺町	cheng bian ting	0
+城辺町	cheng dao ding	0
+城辺町	cheng dao ting	0
+成田市	cheng tian shi	0
+成羽町	cheng yu ding	0
+成羽町	cheng yu ting	0
+池川町	chi chuan ding	0
+池川町	chi chuan ting	0
+池田市	chi tian shi	0
+池田町	chi tian ding	0
+池田町	chi tian ting	0
+赤泊村	chi bo cun	0
+赤泊村	chi po cun	0
+赤池町	chi chi ding	0
+赤池町	chi chi ting	0
+赤碕町	chi qi ding	0
+赤碕町	chi qi ting	0
+赤村	chi cun	0
+赤穂市	chi sui shi	0
+赤冈町	chi gang ding	0
+赤冈町	chi gang ting	0
+赤井川村	chi jing chuan cun	0
+赤来町	chi lai ding	0
+赤来町	chi lai ting	0
+赤平市	chi ping shi	0
+赤穗郡	chi sui jun	0
+赤穗市	chi sui shi	0
+赤羽根町	chi yu gen ding	0
+赤羽根町	chi yu gen ting	0
+赤坂町	chi ban ding	0
+赤坂町	chi ban ting	0
+冲縄市	chong sheng shi	0
+冲縄县	chong sheng xian	0
+冲美町	chong mei ding	0
+冲美町	chong mei ting	0
+冲绳市	chong sheng shi	0
+冲绳县	chong sheng xian	0
+初山别村	chu shan bie cun	0
+出石町	chu shi ding	0
+出石町	chu shi ting	0
+出水郡	chu shui jun	0
+出水市	chu shui shi	0
+出云崎町	chu yun qi ding	0
+出云崎町	chu yun qi ting	0
+出云市	chu yun shi	0
+川北町	chuan bei ding	0
+川北町	chuan bei ting	0
+川本町	chuan ben ding	0
+川本町	chuan ben ting	0
+川边郡	chuan bian jun	0
+川边町	chuan bian ding	0
+川边町	chuan bian ting	0
+川场村	chuan chang cun	0
+川岛町	chuan dao ding	0
+川岛町	chuan dao ting	0
+川副町	chuan fu ding	0
+川副町	chuan fu ting	0
+川根本町	chuan gen ben ding	0
+川根本町	chuan gen ben ting	0
+川根町	chuan gen ding	0
+川根町	chuan gen ting	0
+川井村	chuan jing cun	0
+川口市	chuan kou shi	0
+川口町	chuan kou ding	0
+川口町	chuan kou ting	0
+川南町	chuan nan ding	0
+川南町	chuan nan ting	0
+川内村	chuan nei cun	0
+川内市	chuan nei shi	0
+川内町	chuan nei ding	0
+川内町	chuan nei ting	0
+川棚町	chuan peng ding	0
+川棚町	chuan peng ting	0
+川崎村	chuan qi cun	0
+川崎区	chuan qi qu	0
+川崎市	chuan qi shi	0
+川崎町	chuan qi ding	0
+川崎町	chuan qi ting	0
+川上村	chuan shang cun	0
+川上郡	chuan shang jun	0
+川上町	chuan shang ding	0
+川上町	chuan shang ting	0
+川西市	chuan xi shi	0
+川西町	chuan xi ding	0
+川西町	chuan xi ting	0
+川越市	chuan yue shi	0
+川越町	chuan yue ding	0
+川越町	chuan yue ting	0
+川之江市	chuan zhi jiang shi	0
+川俣町	chuan yu ding	0
+川俣町	chuan yu ting	0
+川辺町	chuan bian ding	0
+川辺町	chuan bian ting	0
+川辺町	chuan dao ding	0
+川辺町	chuan dao ting	0
+川尻町	chuan kao ding	0
+川尻町	chuan kao ting	0
+船穂町	chuan sui ding	0
+船穂町	chuan sui ting	0
+船冈町	chuan gang ding	0
+船冈町	chuan gang ting	0
+船井郡	chuan jing jun	0
+船桥市	chuan qiao shi	0
+船引町	chuan yin ding	0
+船引町	chuan yin ting	0
+串本町	chuan ben ding	0
+串本町	chuan ben ting	0
+串间市	chuan jian shi	0
+串良町	chuan liang ding	0
+串良町	chuan liang ting	0
+串木野市	chuan mu ye shi	0
+串原村	chuan yuan cun	0
+吹上町	chui shang ding	0
+吹上町	chui shang ting	0
+吹田市	chui tian shi	0
+垂井町	chui jing ding	0
+垂井町	chui jing ting	0
+垂水区	chui shui qu	0
+垂水市	chui shui shi	0
+春江町	chun jiang ding	0
+春江町	chun jiang ting	0
+春日部市	chun ri bu shi	0
+春日村	chun ri cun	0
+春日井市	chun ri jing shi	0
+春日居町	chun ri ju ding	0
+春日居町	chun ri ju ting	0
+春日市	chun ri shi	0
+春日町	chun ri ding	0
+春日町	chun ri ting	0
+春野町	chun ye ding	0
+春野町	chun ye ting	0
+茨城县	ci cheng xian	0
+茨城町	ci cheng ding	0
+茨城町	ci cheng ting	0
+茨木市	ci mu shi	0
+此花区	ci hua qu	0
+村冈町	cun gang ding	0
+村冈町	cun gang ting	0
+村山市	cun shan shi	0
+村上市	cun shang shi	0
+村松町	cun song ding	0
+村松町	cun song ting	0
+村田町	cun tian ding	0
+村田町	cun tian ting	0
+打田町	da tian ding	0
+打田町	da tian ting	0
+大栄町	da rong ding	0
+大栄町	da rong ting	0
+大沢野町	da ze ye ding	0
+大沢野町	da ze ye ting	0
+大滝村	da long cun	0
+大潟村	da xi cun	0
+大潟町	da xi ding	0
+大潟町	da xi ting	0
+大瀬戸町	da lai hu ding	0
+大瀬戸町	da lai hu ting	0
+大畑町	da tian ding	0
+大畑町	da tian ting	0
+大畠町	da zai ding	0
+大畠町	da zai ting	0
+大畠町	da tian ding	0
+大畠町	da zi ding	0
+大畠町	da tian ting	0
+大畠町	da zi ting	0
+大安町	da an ding	0
+大安町	da an ting	0
+大藏村	da zang cun	0
+大朝町	da chao ding	0
+大朝町	da chao ting	0
+大朝町	da zhao ding	0
+大朝町	da zhao ting	0
+大成町	da cheng ding	0
+大成町	da cheng ting	0
+大川村	da chuan cun	0
+大川市	da chuan shi	0
+大船渡市	da chuan du shi	0
+大村市	da cun shi	0
+大刀洗町	da dao xi ding	0
+大刀洗町	da dao xi ting	0
+大岛村	da dao cun	0
+大岛郡	da dao jun	0
+大岛町	da dao ding	0
+大岛町	da dao ting	0
+大淀町	da dian ding	0
+大淀町	da dian ting	0
+大东市	da dong shi	0
+大东町	da dong ding	0
+大东町	da dong ting	0
+大多喜町	da duo xi ding	0
+大多喜町	da duo xi ting	0
+大饭郡	da fan jun	0
+大饭町	da fan ding	0
+大饭町	da fan ting	0
+大方町	da fang ding	0
+大方町	da fang ting	0
+大分市	da fen shi	0
+大分县	da fen xian	0
+大府市	da fu shi	0
+大冈村	da gang cun	0
+大根占町	da gen zhan ding	0
+大根占町	da gen zhan ting	0
+大宫区	da gong qu	0
+大宫町	da gong ding	0
+大宫町	da gong ting	0
+大馆市	da guan shi	0
+大和村	da he cun	0
+大和高田市	da he gao tian shi	0
+大和郡山市	da he jun shan shi	0
+大和市	da he shi	0
+大和町	da he ding	0
+大和町	da he ting	0
+大河内町	da he nei ding	0
+大河内町	da he nei ting	0
+大河原町	da he yuan ding	0
+大河原町	da he yuan ting	0
+大衡村	da heng cun	0
+大纪町	da ji ding	0
+大纪町	da ji ting	0
+大间町	da jian ding	0
+大间町	da jian ting	0
+大江町	da jiang ding	0
+大江町	da jiang ting	0
+大津市	da jin shi	0
+大津町	da jin ding	0
+大津町	da jin ting	0
+大井川町	da jing chuan ding	0
+大井川町	da jing chuan ting	0
+大井町	da jing ding	0
+大井町	da jing ting	0
+大空町	da kong ding	0
+大空町	da kong ting	0
+大口市	da kou shi	0
+大口町	da kou ding	0
+大口町	da kou ting	0
+大里村	da li cun	0
+大里郡	da li jun	0
+大利根町	da li gen ding	0
+大利根町	da li gen ting	0
+大鹿村	da lu cun	0
+大门町	da men ding	0
+大门町	da men ting	0
+大牟田市	da mu tian shi	0
+大牟田市	da mou tian shi	0
+大木町	da mu ding	0
+大木町	da mu ting	0
+大内山村	da nei shan cun	0
+大内町	da nei ding	0
+大内町	da nei ting	0
+大平村	da ping cun	0
+大平町	da ping ding	0
+大平町	da ping ting	0
+大迫町	da po ding	0
+大迫町	da po ting	0
+大浦町	da pu ding	0
+大浦町	da pu ting	0
+大崎市	da qi shi	0
+大崎町	da qi ding	0
+大崎町	da qi ting	0
+大曲市	da qu shi	0
+大泉村	da quan cun	0
+大泉町	da quan ding	0
+大泉町	da quan ting	0
+大仁町	da ren ding	0
+大仁町	da ren ting	0
+大任町	da ren ding	0
+大任町	da ren ting	0
+大三岛町	da san dao ding	0
+大三岛町	da san dao ting	0
+大桑村	da sang cun	0
+大森町	da sen ding	0
+大森町	da sen ting	0
+大山崎町	da shan qi ding	0
+大山崎町	da shan qi ting	0
+大山田村	da shan tian cun	0
+大山町	da shan ding	0
+大山町	da shan ting	0
+大社町	da she ding	0
+大社町	da she ting	0
+大蔵村	da zang cun	0
+大石田町	da shi tian ding	0
+大石田町	da shi tian ting	0
+大矢野町	da shi ye ding	0
+大矢野町	da shi ye ting	0
+大柿町	da shi ding	0
+大柿町	da shi ting	0
+大树町	da shu ding	0
+大树町	da shu ting	0
+大塔村	da ta cun	0
+大台町	da tai ding	0
+大台町	da tai ting	0
+大田村	da tian cun	0
+大田区	da tian qu	0
+大田市	da tian shi	0
+大田原市	da tian yuan shi	0
+大王町	da wang ding	0
+大王町	da wang ting	0
+大网白里町	da wang bai li ding	0
+大网白里町	da wang bai li ting	0
+大屋町	da wu ding	0
+大屋町	da wu ting	0
+大西町	da xi ding	0
+大西町	da xi ting	0
+大洗町	da xi ding	0
+大洗町	da xi ting	0
+大乡町	da xiang ding	0
+大乡町	da xiang ting	0
+大信村	da xin cun	0
+大雄村	da xiong cun	0
+大熊町	da xiong ding	0
+大熊町	da xiong ting	0
+大须贺町	da xu he ding	0
+大须贺町	da xu he ting	0
+大野城市	da ye cheng shi	0
+大野村	da ye cun	0
+大野见村	da ye jian cun	0
+大野市	da ye shi	0
+大野原町	da ye yuan ding	0
+大野原町	da ye yuan ting	0
+大野町	da ye ding	0
+大野町	da ye ting	0
+大宜味村	da yi wei cun	0
+大隅町	da yu ding	0
+大隅町	da yu ting	0
+大宇陀町	da yu tuo ding	0
+大宇陀町	da yu tuo ting	0
+大玉村	da yu cun	0
+大垣市	da yuan shi	0
+大原町	da yuan ding	0
+大原町	da yuan ting	0
+大越町	da yue ding	0
+大越町	da yue ting	0
+大月市	da yue shi	0
+大月町	da yue ding	0
+大月町	da yue ting	0
+大沼郡	da zhao jun	0
+大正区	da zheng qu	0
+大正町	da zheng ding	0
+大正町	da zheng ting	0
+大治町	da zhi ding	0
+大治町	da zhi ting	0
+大洲市	da zhou shi	0
+大竹市	da zhu shi	0
+大子町	da zi ding	0
+大子町	da zi ting	0
+大佐町	da zuo ding	0
+大豊町	da feng ding	0
+大豊町	da feng ting	0
+大豊町	da li ding	0
+大豊町	da li ting	0
+大阪府	da ban fu	0
+大阪市	da ban shi	0
+大阪狭山市	da ban xia shan shi	0
+大坂府	da ban fu	0
+大坂市	da ban shi	0
+大坂狭山市	da ban xia shan shi	0
+大郷町	da xiang ding	0
+大郷町	da xiang ting	0
+大槌町	da chui ding	0
+大槌町	da chui ting	0
+大矶町	da ji ding	0
+大矶町	da ji ting	0
+大町市	da ding shi	0
+大町市	da ting shi	0
+大町町	da ding ding	0
+大町町	da ting ding	0
+大町町	da ding ting	0
+大町町	da ting ting	0
+大鰐町	da e ding	0
+大鰐町	da e ting	0
+大鳄町	da e ding	0
+大鳄町	da e ting	0
+带广市	dai guang shi	0
+袋井市	dai jing shi	0
+丹波山村	dan bo shan cun	0
+丹波市	dan bo shi	0
+丹波町	dan bo ding	0
+丹波町	dan bo ting	0
+丹后町	dan hou ding	0
+丹后町	dan hou ting	0
+丹生川村	dan sheng chuan cun	0
+丹生郡	dan sheng jun	0
+丹羽郡	dan yu jun	0
+丹原町	dan yuan ding	0
+丹原町	dan yuan ting	0
+胆沢町	dan ze ding	0
+胆沢町	dan ze ting	0
+胆泽郡	dan ze jun	0
+胆振支厅	dan zhen zhi ting	0
+但东町	dan dong ding	0
+但东町	dan dong ting	0
+淡路市	dan lu shi	0
+当别町	dang bie ding	0
+当别町	dang bie ting	0
+当麻町	dang ma ding	0
+当麻町	dang ma ting	0
+岛本町	dao ben ding	0
+岛本町	dao ben ting	0
+岛根县	dao gen xian	0
+岛根町	dao gen ding	0
+岛根町	dao gen ting	0
+岛牧村	dao mu cun	0
+岛牧郡	dao mu jun	0
+岛田市	dao tian shi	0
+岛原村	dao yuan cun	0
+岛原市	dao yuan shi	0
+岛尻郡	dao kao jun	0
+稻敷郡	dao fu jun	0
+稻敷市	dao fu shi	0
+稻毛区	dao mao qu	0
+稻美町	dao mei ding	0
+稻美町	dao mei ting	0
+稻泽市	dao ze shi	0
+道志村	dao zhi cun	0
+德岛市	de dao shi	0
+德岛县	de dao xian	0
+德之岛町	de zhi dao ding	0
+德之岛町	de zhi dao ting	0
+登别市	deng bie shi	0
+登米市	deng mi shi	0
+登米町中田町	deng mi ding zhong tian ding	0
+登米町中田町	deng mi ting zhong tian ding	0
+登米町中田町	deng mi ding zhong tian ting	0
+登米町中田町	deng mi ting zhong tian ting	0
+笛吹市	di chui shi	0
+弟子屈町	di zi qu ding	0
+弟子屈町	di zi qu ting	0
+淀川区	dian chuan qu	0
+淀江町	dian jiang ding	0
+淀江町	dian jiang ting	0
+调布市	tiao bu shi	0
+调布市	diao bu shi	0
+东広岛市	dong guang dao shi	0
+东栄町	dong rong ding	0
+东栄町	dong rong ting	0
+东白川村	dong bai chuan cun	0
+东白川郡	dong bai chuan jun	0
+东北町	dong bei ding	0
+东北町	dong bei ting	0
+东彼杵町	dong bi chu ding	0
+东彼杵町	dong bi chu ting	0
+东伯郡	dong bo jun	0
+东伯町	dong bo ding	0
+东伯町	dong bo ting	0
+东部町	dong bu ding	0
+东部町	dong bu ting	0
+东城町	dong cheng ding	0
+东城町	dong cheng ting	0
+东成瀬村	dong cheng lai cun	0
+东成区	dong cheng qu	0
+东成濑村	dong cheng lai cun	0
+东出云町	dong chu yun ding	0
+东出云町	dong chu yun ting	0
+东川町	dong chuan ding	0
+东川町	dong chuan ting	0
+东串良町	dong chuan liang ding	0
+东串良町	dong chuan liang ting	0
+东茨城郡	dong ci cheng jun	0
+东村	dong cun	0
+东村山郡	dong cun shan jun	0
+东村山市	dong cun shan shi	0
+东村桧枝岐村	dong cun hui zhi qi cun	0
+东村桧枝岐村	dong cun gui zhi qi cun	0
+东大和市	dong da he shi	0
+东大阪市	dong da ban shi	0
+东大坂市	dong da ban shi	0
+东淀川区	dong dian chuan qu	0
+东风平町	dong feng ping ding	0
+东风平町	dong feng ping ting	0
+东葛饰郡	dong ge shi jun	0
+东根市	dong gen shi	0
+东广岛市	dong guang dao shi	0
+东国东郡	dong guo dong jun	0
+东海村	dong hai cun	0
+东海市	dong hai shi	0
+东和町	dong he ding	0
+东和町	dong he ting	0
+东吉野村	dong ji ye cun	0
+东金市	dong jin shi	0
+东津轻郡	dong jin qing jun	0
+东津野村	dong jin ye cun	0
+东近江市	dong jin jiang shi	0
+东京都	dong jing du	0
+东久留米市	dong jiu liu mi shi	0
+东臼杵郡	dong jiu chu jun	0
+东牟娄郡	dong mu lou jun	0
+东牟娄郡	dong mou lou jun	0
+东磐井郡	dong pan jing jun	0
+东浦町	dong pu ding	0
+东浦町	dong pu ting	0
+东浅井郡	dong qian jing jun	0
+东区	dong qu	0
+东荣町	dong rong ding	0
+东荣町	dong rong ting	0
+东三好町	dong san hao ding	0
+东三好町	dong san hao ting	0
+东山区	dong shan qu	0
+东山町	dong shan ding	0
+东山町	dong shan ting	0
+东神楽町	dong shen le ding	0
+东神楽町	dong shen le ting	0
+东神乐町	dong shen le ding	0
+东神乐町	dong shen le ting	0
+东市来町	dong shi lai ding	0
+东市来町	dong shi lai ting	0
+东松岛市	dong song dao shi	0
+东松浦郡	dong song pu jun	0
+东松山市	dong song shan shi	0
+东粟仓村	dong su cang cun	0
+东滩区	dong tan qu	0
+东田川郡	dong tian chuan jun	0
+东条町	dong tiao ding	0
+东条町	dong tiao ting	0
+东通村	dong tong cun	0
+东吾妻町	dong wu qi ding	0
+东吾妻町	dong wu qi ting	0
+东香川市	dong xiang chuan shi	0
+东乡町	dong xiang ding	0
+东乡町	dong xiang ting	0
+东洋町	dong yang ding	0
+东洋町	dong yang ting	0
+东阳村	dong yang cun	0
+东野町	dong ye ding	0
+东野町	dong ye ting	0
+东伊豆町	dong yi dou ding	0
+东伊豆町	dong yi dou ting	0
+东由利町	dong you li ding	0
+东由利町	dong you li ting	0
+东予市	dong yu shi	0
+东与贺町	dong yu he ding	0
+东与贺町	dong yu he ting	0
+东御市	dong yu shi	0
+东员町	dong yuan ding	0
+东员町	dong yuan ting	0
+东藻琴村	dong zao qin cun	0
+东置赐郡	dong zhi ci jun	0
+东秩父村	dong zhi fu cun	0
+东诸县郡	dong zhu xian jun	0
+东筑摩郡	dong zhu mo jun	0
+东住吉区	dong zhu ji qu	0
+东祖谷山村	dong zu gu shan cun	0
+东郷町	dong xiang ding	0
+东郷町	dong xiang ting	0
+东嵴振村	dong ji zhen cun	0
+东町	dong ding	0
+东町	dong ting	0
+洞戸村	dong hu cun	0
+洞爷村	dong ye cun	0
+洞爷湖町	dong ye hu ding	0
+洞爷湖町	dong ye hu ting	0
+逗子市	dou zi shi	0
+都城市	dou cheng shi	0
+都城市	du cheng shi	0
+都岛区	dou dao qu	0
+都岛区	du dao qu	0
+都贺町	dou he ding	0
+都贺町	dou he ting	0
+都贺町	du he ding	0
+都几川町	dou ji chuan ding	0
+都几川町	dou ji chuan ting	0
+都留市	dou liu shi	0
+都路村	dou lu cun	0
+都路村	du lu cun	0
+都农町	dou nong ding	0
+都农町	dou nong ting	0
+都农町	du nong ding	0
+都祁村	dou qi cun	0
+都祁村	du qi cun	0
+都万村	dou wan cun	0
+都筑区	dou zhu qu	0
+都筑区	du zhu qu	0
+读谷村	du gu cun	0
+度会郡	du hui jun	0
+度会町	du hui ding	0
+度会町	du hui ting	0
+渡岛支厅	du dao zhi ting	0
+渡嘉敷村	du jia fu cun	0
+渡名喜村	du ming xi cun	0
+端野町	duan ye ding	0
+端野町	duan ye ting	0
+敦贺市	dun he shi	0
+顿原町	dun yuan ding	0
+顿原町	dun yuan ting	0
+多気町	duo qi ding	0
+多気町	duo qi ting	0
+多度津町	duo du jin ding	0
+多度津町	duo du jin ting	0
+多度町	duo du ding	0
+多度町	duo du ting	0
+多古町	duo gu ding	0
+多古町	duo gu ting	0
+多贺城市	duo he cheng shi	0
+多贺郡	duo he jun	0
+多贺町	duo he ding	0
+多贺町	duo he ting	0
+多伎町	duo ji ding	0
+多伎町	duo ji ting	0
+多久市	duo jiu shi	0
+多可郡	duo ke jun	0
+多可町	duo ke ding	0
+多可町	duo ke ting	0
+多良间村	duo liang jian cun	0
+多良见町	duo liang jian ding	0
+多良见町	duo liang jian ting	0
+多良木町	duo liang mu ding	0
+多良木町	duo liang mu ting	0
+多摩区	duo mo qu	0
+多摩市	duo mo shi	0
+多气郡	duo qi jun	0
+多气町	duo qi ding	0
+多气町	duo qi ting	0
+多野郡	duo ye jun	0
+多治见市	duo zhi jian shi	0
+额田郡	e tian jun	0
+额田町	e tian ding	0
+额田町	e tian ting	0
+恩纳村	en na cun	0
+儿汤郡	er tang jun	0
+儿玉郡	er yu jun	0
+尔志郡	er zhi jun	0
+二戸市	er hu shi	0
+二本松市	er ben song shi	0
+二宫町	er gong ding	0
+二宫町	er gong ting	0
+二海郡	er hai jun	0
+二户郡	er hu jun	0
+二户市	er hu shi	0
+二见町	er jian ding	0
+二见町	er jian ting	0
+二井町	er jing ding	0
+二井町	er jing ting	0
+二世古町	er shi gu ding	0
+二世古町	er shi gu ting	0
+二丈町	er zhang ding	0
+二丈町	er zhang ting	0
+稲沢市	dao ze shi	0
+稲城市	dao cheng shi	0
+稲川町	dao chuan ding	0
+稲川町	dao chuan ting	0
+稲敷郡	dao fu jun	0
+稲美町	dao mei ding	0
+稲美町	dao mei ting	0
+稲武町	dao wu ding	0
+稲武町	dao wu ting	0
+稲垣村	dao yuan cun	0
+稲筑町	dao zhu ding	0
+稲筑町	dao zhu ting	0
+穂别町	sui bie ding	0
+穂别町	sui bie ting	0
+穂波町	sui bo ding	0
+穂波町	sui bo ting	0
+穂高町	sui gao ding	0
+穂高町	sui gao ting	0
+穂积町	sui ji ding	0
+穂积町	sui ji ting	0
+饭塚市	fan zhong shi	0
+饭岛町	fan dao ding	0
+饭岛町	fan dao ting	0
+饭丰町	fan feng ding	0
+饭丰町	fan feng ting	0
+饭高町	fan gao ding	0
+饭高町	fan gao ting	0
+饭馆村	fan guan cun	0
+饭南町	fan nan ding	0
+饭南町	fan nan ting	0
+饭能市	fan neng shi	0
+饭舘村	fan guan cun	0
+饭山市	fan shan shi	0
+饭山町	fan shan ding	0
+饭山町	fan shan ting	0
+饭盛町	fan sheng ding	0
+饭盛町	fan sheng ting	0
+饭盛町	fan cheng ding	0
+饭石郡	fan shi jun	0
+饭田川町	fan tian chuan ding	0
+饭田川町	fan tian chuan ting	0
+饭田市	fan tian shi	0
+饭野町	fan ye ding	0
+饭野町	fan ye ting	0
+饭豊町	fan feng ding	0
+饭豊町	fan feng ting	0
+饭豊町	fan li ding	0
+饭豊町	fan li ting	0
+饭冢市	fan zhong shi	0
+坊津町	fang jin ding	0
+坊津町	fang jin ting	0
+芳贺郡	fang he jun	0
+芳贺町	fang he ding	0
+芳贺町	fang he ting	0
+芳井町	fang jing ding	0
+芳井町	fang jing ting	0
+方城町	fang cheng ding	0
+方城町	fang cheng ting	0
+防府市	fang fu shi	0
+飞岛村	fei dao cun	0
+肥前町	fei qian ding	0
+肥前町	fei qian ting	0
+分水町	fen shui ding	0
+分水町	fen shui ting	0
+粉河町	fen he ding	0
+粉河町	fen he ting	0
+丰川市	feng chuan shi	0
+丰岛区	feng dao qu	0
+丰富町	feng fu ding	0
+丰富町	feng fu ting	0
+丰冈市	feng gang shi	0
+丰根村	feng gen cun	0
+丰后大野市	feng hou da ye shi	0
+丰后高田市	feng hou gao tian shi	0
+丰见城市	feng jian cheng shi	0
+丰明市	feng ming shi	0
+丰能郡	feng neng jun	0
+丰能町	feng neng ding	0
+丰能町	feng neng ting	0
+丰平区	feng ping qu	0
+丰浦町	feng pu ding	0
+丰浦町	feng pu ting	0
+丰前市	feng qian shi	0
+丰桥市	feng qiao shi	0
+丰顷町	feng qing ding	0
+丰顷町	feng qing ting	0
+丰丘村	feng qiu cun	0
+丰山町	feng shan ding	0
+丰山町	feng shan ting	0
+丰田郡	feng tian jun	0
+丰田市	feng tian shi	0
+丰乡町	feng xiang ding	0
+丰乡町	feng xiang ting	0
+丰中市	feng zhong shi	0
+峰山町	feng shan ding	0
+峰山町	feng shan ting	0
+峰浜村	feng bang cun	0
+峰町	feng ding	0
+峰町	feng ting	0
+风间浦村	feng jian pu cun	0
+风连町	feng lian ding	0
+风连町	feng lian ting	0
+凤来町	feng lai ding	0
+凤来町	feng lai ting	0
+凤珠郡	feng zhu jun	0
+敷岛町	fu dao ding	0
+敷岛町	fu dao ting	0
+扶桑町	fu sang ding	0
+扶桑町	fu sang ting	0
+伏见区	fu jian qu	0
+竜北町	neng bei ding	0
+竜北町	neng bei ting	0
+竜北町	long bei ding	0
+竜北町	long bei ting	0
+竜王	neng wang	0
+竜王	long wang	0
+竜王町	neng wang ding	0
+竜王町	neng wang ting	0
+竜王町	long wang ding	0
+竜王町	long wang ting	0
+竜洋町	neng yang ding	0
+竜洋町	neng yang ting	0
+竜洋町	long yang ding	0
+竜洋町	long yang ting	0
+浮羽市	fu yu shi	0
+浮羽町	fu yu ding	0
+浮羽町	fu yu ting	0
+福栄村	fu rong cun	0
+福并县	fu bing xian	0
+福部村	fu bu cun	0
+福岛区	fu dao qu	0
+福岛市	fu dao shi	0
+福岛县	fu dao xian	0
+福岛町	fu dao ding	0
+福岛町	fu dao ting	0
+福地村	fu di cun	0
+福富町	fu fu ding	0
+福富町	fu fu ting	0
+福冈市	fu gang shi	0
+福冈县	fu gang xian	0
+福冈町	fu gang ding	0
+福冈町	fu gang ting	0
+福光町	fu guang ding	0
+福光町	fu guang ting	0
+福间町	fu jian ding	0
+福间町	fu jian ting	0
+福江市	fu jiang shi	0
+福津市	fu jin shi	0
+福井市	fu jing shi	0
+福井县	fu jing xian	0
+福崎町	fu qi ding	0
+福崎町	fu qi ting	0
+福山市	fu shan shi	0
+福山町	fu shan ding	0
+福山町	fu shan ting	0
+福生市	fu sheng shi	0
+福田町	fu tian ding	0
+福田町	fu tian ting	0
+福野町	fu ye ding	0
+福野町	fu ye ting	0
+福知山市	fu zhi shan shi	0
+釜石市	fu shi shi	0
+府中市	fu zhong shi	0
+府中町	fu zhong ding	0
+府中町	fu zhong ting	0
+付知町	fu zhi ding	0
+付知町	fu zhi ting	0
+富沢町	fu ze ding	0
+富沢町	fu ze ting	0
+富村	fu cun	0
+富冈市	fu gang shi	0
+富冈町	fu gang ding	0
+富冈町	fu gang ting	0
+富谷町	fu gu ding	0
+富谷町	fu gu ting	0
+富合町	fu he ding	0
+富合町	fu he ting	0
+富加町	fu jia ding	0
+富加町	fu jia ting	0
+富江町	fu jiang ding	0
+富江町	fu jiang ting	0
+富津市	fu jin shi	0
+富来町	fu lai ding	0
+富来町	fu lai ting	0
+富里市	fu li shi	0
+富良野市	fu liang ye shi	0
+富山村	fu shan cun	0
+富山市	fu shan shi	0
+富山县	fu shan xian	0
+富士川町	fu shi chuan ding	0
+富士川町	fu shi chuan ting	0
+富士宫市	fu shi gong shi	0
+富士河口湖町	fu shi he kou hu ding	0
+富士河口湖町	fu shi he kou hu ting	0
+富士吉田市	fu shi ji tian shi	0
+富士见市	fu shi jian shi	0
+富士见野市	fu shi jian ye shi	0
+富士见町	fu shi jian ding	0
+富士见町	fu shi jian ting	0
+富士郡	fu shi jun	0
+富士市	fu shi shi	0
+富士町	fu shi ding	0
+富士町	fu shi ting	0
+富田林市	fu tian lin shi	0
+妇中町	fu zhong ding	0
+妇中町	fu zhong ting	0
+甘楽郡	gan le jun	0
+甘楽郡	gan yue jun	0
+甘乐郡	gan le jun	0
+甘乐郡	gan yue jun	0
+甘乐町	gan le ding	0
+甘乐町	gan le ting	0
+甘乐町	gan yue ding	0
+甘乐町	gan yue ting	0
+甘木市	gan mu shi	0
+肝属郡	gan shu jun	0
+冈部町	gang bu ding	0
+冈部町	gang bu ting	0
+冈谷市	gang gu shi	0
+冈崎市	gang qi shi	0
+冈山市	gang shan shi	0
+冈山县	gang shan xian	0
+冈垣町	gang yuan ding	0
+冈垣町	gang yuan ting	0
+冈原村	gang yuan cun	0
+港北区	gang bei qu	0
+港南区	gang nan qu	0
+港区	gang qu	0
+高槻市	gao gui shi	0
+高瀬町	gao lai ding	0
+高瀬町	gao lai ting	0
+高畠町	gao zai ding	0
+高畠町	gao zai ting	0
+高畠町	gao tian ding	0
+高畠町	gao zi ding	0
+高畠町	gao tian ting	0
+高畠町	gao zi ting	0
+高滨市	gao bin shi	0
+高滨町	gao bin ding	0
+高滨町	gao bin ting	0
+高城町	gao cheng ding	0
+高城町	gao cheng ting	0
+高岛市	gao dao shi	0
+高岛町	gao dao ding	0
+高岛町	gao dao ting	0
+高富町	gao fu ding	0
+高富町	gao fu ting	0
+高冈郡	gao gang jun	0
+高冈市	gao gang shi	0
+高冈町	gao gang ding	0
+高冈町	gao gang ting	0
+高根村	gao gen cun	0
+高根泽町	gao gen ze ding	0
+高根泽町	gao gen ze ting	0
+高根町	gao gen ding	0
+高根町	gao gen ting	0
+高宫町	gao gong ding	0
+高宫町	gao gong ting	0
+高锅町	gao guo ding	0
+高锅町	gao guo ting	0
+高津区	gao jin qu	0
+高来町	gao lai ding	0
+高来町	gao lai ting	0
+高梁市	gao liang shi	0
+高柳町	gao liu ding	0
+高柳町	gao liu ting	0
+高崎市	gao qi shi	0
+高崎町	gao qi ding	0
+高崎町	gao qi ting	0
+高千穂町	gao qian sui ding	0
+高千穂町	gao qian sui ting	0
+高千穗町	gao qian sui ding	0
+高千穗町	gao qian sui ting	0
+高清水町	gao qing shui ding	0
+高清水町	gao qing shui ting	0
+高萩市	gao qiu shi	0
+高取町	gao qu ding	0
+高取町	gao qu ting	0
+高森町	gao sen ding	0
+高森町	gao sen ting	0
+高砂市	gao sha shi	0
+高山村	gao shan cun	0
+高山市	gao shan shi	0
+高山町	gao shan ding	0
+高山町	gao shan ting	0
+高石市	gao shi shi	0
+高市郡	gao shi jun	0
+高松市	gao song shi	0
+高松町	gao song ding	0
+高松町	gao song ting	0
+高田町	gao tian ding	0
+高田町	gao tian ting	0
+高尾野町	gao wei ye ding	0
+高尾野町	gao wei ye ting	0
+高野口町	gao ye kou ding	0
+高野口町	gao ye kou ting	0
+高野町	gao ye ding	0
+高野町	gao ye ting	0
+高原町	gao yuan ding	0
+高原町	gao yuan ting	0
+高远町	gao yuan ding	0
+高远町	gao yuan ting	0
+高月町	gao yue ding	0
+高月町	gao yue ting	0
+高知市	gao zhi shi	0
+高知县	gao zhi xian	0
+高座郡	gao zuo jun	0
+高郷村	gao xiang cun	0
+高浜市	gao bang shi	0
+高浜町	gao bang ding	0
+高浜町	gao bang ting	0
+高鹫村	gao jiu cun	0
+歌登町	ge deng ding	0
+歌登町	ge deng ting	0
+歌津町	ge jin ding	0
+歌津町	ge jin ting	0
+歌志内市	ge zhi nei shi	0
+葛巻町	ge juan ding	0
+葛巻町	ge juan ting	0
+葛城市	ge cheng shi	0
+葛城町	ge cheng ding	0
+葛城町	ge cheng ting	0
+葛卷町	ge juan ding	0
+葛卷町	ge juan ting	0
+葛饰区	ge shi qu	0
+葛尾村	ge wei cun	0
+各务原市	ge wu yuan shi	0
+根上町	gen shang ding	0
+根上町	gen shang ting	0
+根室市	gen shi shi	0
+根室支厅	gen shi zhi ting	0
+根尾村	gen wei cun	0
+根羽村	gen yu cun	0
+根占町	gen zhan ding	0
+根占町	gen zhan ting	0
+更别村	geng bie cun	0
+更埴市	geng zhi shi	0
+笹神村	ti shen cun	0
+宫城郡	gong cheng jun	0
+宫城县	gong cheng xian	0
+宫城野区	gong cheng ye qu	0
+宫川村	gong chuan cun	0
+宫村	gong cun	0
+宫代町	gong dai ding	0
+宫代町	gong dai ting	0
+宫岛町	gong dao ding	0
+宫岛町	gong dao ting	0
+宫古郡	gong gu jun	0
+宫古市	gong gu shi	0
+宫古支厅	gong gu zhi ting	0
+宫津市	gong jin shi	0
+宫崎村	gong qi cun	0
+宫崎郡	gong qi jun	0
+宫崎市	gong qi shi	0
+宫崎县	gong qi xian	0
+宫崎町	gong qi ding	0
+宫崎町	gong qi ting	0
+宫前区	gong qian qu	0
+宫若市	gong ruo shi	0
+宫守村	gong shou cun	0
+宫田村	gong tian cun	0
+宫田町	gong tian ding	0
+宫田町	gong tian ting	0
+宫洼町	gong wa ding	0
+宫洼町	gong wa ting	0
+宫原町	gong yuan ding	0
+宫原町	gong yuan ting	0
+宫之城町	gong zhi cheng ding	0
+宫之城町	gong zhi cheng ting	0
+弓削町	gong xiao ding	0
+弓削町	gong xue ding	0
+弓削町	gong xiao ting	0
+弓削町	gong xue ting	0
+共和町	gong he ding	0
+共和町	gong he ting	0
+沟口町	gou kou ding	0
+沟口町	gou kou ting	0
+沟辺町	gou bian ding	0
+沟辺町	gou bian ting	0
+沟辺町	gou dao ding	0
+沟辺町	gou dao ting	0
+古川市	gu chuan shi	0
+古川町	gu chuan ding	0
+古川町	gu chuan ting	0
+古殿町	gu dian ding	0
+古殿町	gu dian ting	0
+古河市	gu he shi	0
+古贺市	gu he shi	0
+古平郡	gu ping jun	0
+古平町	gu ping ding	0
+古平町	gu ping ting	0
+古宇郡	gu yu jun	0
+古座川町	gu zuo chuan ding	0
+古座川町	gu zuo chuan ting	0
+古座町	gu zuo ding	0
+古座町	gu zuo ting	0
+谷汲村	gu ji cun	0
+挂川市	gua chuan shi	0
+挂合町	gua he ding	0
+挂合町	gua he ting	0
+关原町	guan yuan ding	0
+关原町	guan yuan ting	0
+观音寺市	guan yin si shi	0
+馆林市	guan lin shi	0
+馆山市	guan shan shi	0
+光市	guang shi	0
+广川町	guang chuan ding	0
+广川町	guang chuan ting	0
+广岛市	guang dao shi	0
+广岛县	guang dao xian	0
+广陵町	guang ling ding	0
+广陵町	guang ling ting	0
+广尾郡	guang wei jun	0
+广尾町	guang wei ding	0
+广尾町	guang wei ting	0
+广野町	guang ye ding	0
+广野町	guang ye ting	0
+龟山市	gui shan shi	0
+龟田郡	gui tian jun	0
+鬼无里村	gui wu li cun	0
+桂川町	gui chuan ding	0
+桂川町	gui chuan ting	0
+贵志川町	gui zhi chuan ding	0
+贵志川町	gui zhi chuan ting	0
+国东町	guo dong ding	0
+国东町	guo dong ting	0
+国分市	guo fen shi	0
+国分寺市	guo fen si shi	0
+国分寺町	guo fen si ding	0
+国分寺町	guo fen si ting	0
+国府町	guo fu ding	0
+国府町	guo fu ting	0
+国富町	guo fu ding	0
+国富町	guo fu ting	0
+国见町	guo jian ding	0
+国见町	guo jian ting	0
+国立市	guo li shi	0
+国头村	guo tou cun	0
+国头郡	guo tou jun	0
+篠栗町	xiao li ding	0
+篠栗町	xiao li ting	0
+篠山市	xiao shan shi	0
+海部郡	hai bu jun	0
+海部町	hai bu ding	0
+海部町	hai bu ting	0
+海草郡	hai cao jun	0
+海津町	hai jin ding	0
+海津町	hai jin ting	0
+海老名市	hai lao ming shi	0
+海南市	hai nan shi	0
+海南町	hai nan ding	0
+海南町	hai nan ting	0
+海山町	hai shan ding	0
+海山町	hai shan ting	0
+海上郡	hai shang jun	0
+海士町	hai shi ding	0
+海士町	hai shi ting	0
+海田町	hai tian ding	0
+海田町	hai tian ting	0
+海阳町	hai yang ding	0
+海阳町	hai yang ting	0
+寒川町	han chuan ding	0
+寒川町	han chuan ting	0
+寒河江市	han he jiang shi	0
+函馆市	han guan shi	0
+函南町	han nan ding	0
+函南町	han nan ting	0
+和気町	he qi ding	0
+和気町	he qi ting	0
+和泊町	he bo ding	0
+和泊町	he bo ting	0
+和泊町	he po ding	0
+和泊町	he po ting	0
+和岛村	he dao cun	0
+和歌山市	he ge shan shi	0
+和歌山县	he ge shan xian	0
+和光市	he guang shi	0
+和寒町	he han ding	0
+和寒町	he han ting	0
+和贺郡	he he jun	0
+和良村	he liang cun	0
+和木町	he mu ding	0
+和木町	he mu ting	0
+和泉村	he quan cun	0
+和泉市	he quan shi	0
+和束町	he shu ding	0
+和束町	he shu ting	0
+和田村	he tian cun	0
+和田山町	he tian shan ding	0
+和田山町	he tian shan ting	0
+和知町	he zhi ding	0
+和知町	he zhi ting	0
+合川町	he chuan ding	0
+合川町	he chuan ting	0
+合志市	he zhi shi	0
+合志町	he zhi ding	0
+合志町	he zhi ting	0
+河北郡	he bei jun	0
+河北市	he bei shi	0
+河北町	he bei ding	0
+河北町	he bei ting	0
+河东郡	he dong jun	0
+河东町	he dong ding	0
+河东町	he dong ting	0
+河合村	he he cun	0
+河合町	he he ding	0
+河合町	he he ting	0
+河津町	he jin ding	0
+河津町	he jin ting	0
+河口湖町	he kou hu ding	0
+河口湖町	he kou hu ting	0
+河南町	he nan ding	0
+河南町	he nan ting	0
+河内长野市	he nei chang ye shi	0
+河内村	he nei cun	0
+河内郡	he nei jun	0
+河内町	he nei ding	0
+河内町	he nei ting	0
+河浦町	he pu ding	0
+河浦町	he pu ting	0
+河西郡	he xi jun	0
+河野村	he ye cun	0
+河原町	he yuan ding	0
+河原町	he yuan ting	0
+河沼郡	he zhao jun	0
+河芸町	he yun ding	0
+河芸町	he yun ting	0
+河辺村	he bian cun	0
+河辺村	he dao cun	0
+河辺町	he bian ding	0
+河辺町	he bian ting	0
+河辺町	he dao ding	0
+河辺町	he dao ting	0
+鹤岛市	he dao shi	0
+鹤冈	he gang	0
+鹤冈市	he gang shi	0
+鹤见区	he jian qu	0
+鹤见町	he jian ding	0
+鹤见町	he jian ting	0
+鹤居村	he ju cun	0
+鹤来町	he lai ding	0
+鹤来町	he lai ting	0
+鹤田町	he tian ding	0
+鹤田町	he tian ting	0
+贺茂村	he mao cun	0
+贺茂郡	he mao jun	0
+贺阳町	he yang ding	0
+贺阳町	he yang ting	0
+黑部市	hei bu shi	0
+黑川郡	hei chuan jun	0
+黑木町	hei mu ding	0
+黑木町	hei mu ting	0
+黑松内町	hei song nei ding	0
+黑松内町	hei song nei ting	0
+黑泷村	hei long cun	0
+横滨市	heng bin shi	0
+横滨町	heng bin ding	0
+横滨町	heng bin ting	0
+横川町	heng chuan ding	0
+横川町	heng chuan ting	0
+横岛町	heng dao ding	0
+横岛町	heng dao ting	0
+横手市	heng shou shi	0
+横田町	heng tian ding	0
+横田町	heng tian ting	0
+横须贺市	heng xu he shi	0
+横越町	heng yue ding	0
+横越町	heng yue ting	0
+横浜市	heng bang shi	0
+横浜町	heng bang ding	0
+横浜町	heng bang ting	0
+横濑町	heng lai ding	0
+横濑町	heng lai ting	0
+鸿巣市	hong chao shi	0
+鸿巢市	hong chao shi	0
+弘前市	hong qian shi	0
+厚沢部町	hou ze bu ding	0
+厚沢部町	hou ze bu ting	0
+厚岸郡	hou an jun	0
+厚岸町	hou an ding	0
+厚岸町	hou an ting	0
+厚别区	hou bie qu	0
+厚木市	hou mu shi	0
+厚田村	hou tian cun	0
+厚泽部町	hou ze bu ding	0
+厚泽部町	hou ze bu ting	0
+厚真町	hou zhen ding	0
+厚真町	hou zhen ting	0
+后志支厅	hou zhi zhi ting	0
+呼子町	hu zi ding	0
+呼子町	hu zi ting	0
+湖北町	hu bei ding	0
+湖北町	hu bei ting	0
+湖东町	hu dong ding	0
+湖东町	hu dong ting	0
+湖陵町	hu ling ding	0
+湖陵町	hu ling ting	0
+湖南市	hu nan shi	0
+湖西市	hu xi shi	0
+虎姫町	hu zhen ding	0
+虎姫町	hu zhen ting	0
+虎姬町	hu ji ding	0
+虎姬町	hu ji ting	0
+户畑区	hu tian qu	0
+户田市	hu tian shi	0
+户冢区	hu zhong qu	0
+花巻市	hua juan shi	0
+花见川区	hua jian chuan qu	0
+花卷市	hua juan shi	0
+花泉町	hua quan ding	0
+花泉町	hua quan ting	0
+花山村	hua shan cun	0
+花园村	hua yuan cun	0
+滑川市	hua chuan shi	0
+滑川町	hua chuan ding	0
+滑川町	hua chuan ting	0
+荒川区	huang chuan qu	0
+荒川町	huang chuan ding	0
+荒川町	huang chuan ting	0
+荒尾市	huang wei shi	0
+幌加内町	huang jia nei ding	0
+幌加内町	huang jia nei ting	0
+幌泉郡	huang quan jun	0
+幌延町	huang yan ding	0
+幌延町	huang yan ting	0
+辉北町	hui bei ding	0
+辉北町	hui bei ting	0
+惠庭市	hui ting shi	0
+会见町	hui jian ding	0
+会见町	hui jian ting	0
+会津本郷町	hui jin ben xiang ding	0
+会津本郷町	hui jin ben xiang ting	0
+会津高田町	hui jin gao tian ding	0
+会津高田町	hui jin gao tian ting	0
+会津美里町	hui jin mei li ding	0
+会津美里町	hui jin mei li ting	0
+会津若松市	hui jin ruo song shi	0
+会津坂下町	hui jin ban xia ding	0
+会津坂下町	hui jin ban xia ting	0
+基山町	ji shan ding	0
+基山町	ji shan ting	0
+积丹郡	ji dan jun	0
+积丹町	ji dan ding	0
+积丹町	ji dan ting	0
+箕轮町	ji lun ding	0
+箕轮町	ji lun ting	0
+箕面市	ji mian shi	0
+姬岛村	ji dao cun	0
+姬路市	ji lu shi	0
+吉备中央町	ji bei zhong yang ding	0
+吉备中央町	ji bei zhong yang ting	0
+吉备町	ji bei ding	0
+吉备町	ji bei ting	0
+吉川村	ji chuan cun	0
+吉川市	ji chuan shi	0
+吉川町	ji chuan ding	0
+吉川町	ji chuan ting	0
+吉富町	ji fu ding	0
+吉富町	ji fu ting	0
+吉冈町	ji gang ding	0
+吉冈町	ji gang ting	0
+吉海町	ji hai ding	0
+吉海町	ji hai ting	0
+吉和村	ji he cun	0
+吉见町	ji jian ding	0
+吉见町	ji jian ting	0
+吉井町	ji jing ding	0
+吉井町	ji jing ting	0
+吉良町	ji liang ding	0
+吉良町	ji liang ting	0
+吉舎町	ji she ding	0
+吉舎町	ji she ting	0
+吉松町	ji song ding	0
+吉松町	ji song ting	0
+吉田村	ji tian cun	0
+吉田郡	ji tian jun	0
+吉田町	ji tian ding	0
+吉田町	ji tian ting	0
+吉野川市	ji ye chuan shi	0
+吉野谷村	ji ye gu cun	0
+吉野郡	ji ye jun	0
+吉野里町	ji ye li ding	0
+吉野里町	ji ye li ting	0
+吉野町	ji ye ding	0
+吉野町	ji ye ting	0
+吉永町	ji yong ding	0
+吉永町	ji yong ting	0
+寄岛町	ji dao ding	0
+寄岛町	ji dao ting	0
+寄居町	ji ju ding	0
+寄居町	ji ju ting	0
+纪宝町	ji bao ding	0
+纪宝町	ji bao ting	0
+纪和町	ji he ding	0
+纪和町	ji he ting	0
+纪美野町	ji mei ye ding	0
+纪美野町	ji mei ye ting	0
+纪势町	ji shi ding	0
+纪势町	ji shi ting	0
+纪伊长岛町	ji yi chang dao ding	0
+纪伊长岛町	ji yi chang dao ting	0
+纪之川市	ji zhi chuan shi	0
+嘉岛町	jia dao ding	0
+嘉岛町	jia dao ting	0
+嘉穂町	jia sui ding	0
+嘉穂町	jia sui ting	0
+嘉麻市	jia ma shi	0
+嘉手纳町	jia shou na ding	0
+嘉手纳町	jia shou na ting	0
+嘉穗郡	jia sui jun	0
+家岛町	jia dao ding	0
+家岛町	jia dao ting	0
+加东市	jia dong shi	0
+加古川市	jia gu chuan shi	0
+加古郡	jia gu jun	0
+加贺市	jia he shi	0
+加计町	jia ji ding	0
+加计町	jia ji ting	0
+加津佐町	jia jin zuo ding	0
+加茂川町	jia mao chuan ding	0
+加茂川町	jia mao chuan ting	0
+加茂市	jia mao shi	0
+加茂町	jia mao ding	0
+加茂町	jia mao ting	0
+加美郡	jia mei jun	0
+加美町	jia mei ding	0
+加美町	jia mei ting	0
+加世田市	jia shi tian shi	0
+加西市	jia xi shi	0
+加须市	jia xu shi	0
+加悦町	jia yue ding	0
+加悦町	jia yue ting	0
+加治川村	jia zhi chuan cun	0
+加治木町	jia zhi mu ding	0
+加治木町	jia zhi mu ting	0
+加子母村	jia zi mu cun	0
+甲府市	jia fu shi	0
+甲贺市	jia he shi	0
+甲贺町	jia he ding	0
+甲贺町	jia he ting	0
+甲良町	jia liang ding	0
+甲良町	jia liang ting	0
+甲南町	jia nan ding	0
+甲南町	jia nan ting	0
+甲奴町	jia nu ding	0
+甲奴町	jia nu ting	0
+甲山町	jia shan ding	0
+甲山町	jia shan ting	0
+甲田町	jia tian ding	0
+甲田町	jia tian ting	0
+甲西町	jia xi ding	0
+甲西町	jia xi ting	0
+甲州市	jia zhou shi	0
+甲佐町	jia zuo ding	0
+甲斐市	jia fei shi	0
+兼山町	jian shan ding	0
+兼山町	jian shan ting	0
+见附市	jian fu shi	0
+见沼区	jian zhao qu	0
+剑渊町	jian yuan ding	0
+剑渊町	jian yuan ting	0
+剑町	jian ding	0
+剑町	jian ting	0
+建部町	jian bu ding	0
+建部町	jian bu ting	0
+江戸川区	jiang hu chuan qu	0
+江北町	jiang bei ding	0
+江北町	jiang bei ting	0
+江别市	jiang bie shi	0
+江差町	jiang cha ding	0
+江差町	jiang cha ting	0
+江差町	jiang chai ding	0
+江刺市	jiang ci shi	0
+江东区	jiang dong qu	0
+江府町	jiang fu ding	0
+江府町	jiang fu ting	0
+江津市	jiang jin shi	0
+江南市	jiang nan shi	0
+江田岛町	jiang tian dao ding	0
+江田岛町	jiang tian dao ting	0
+江迎町	jiang ying ding	0
+江迎町	jiang ying ting	0
+交野市	jiao ye shi	0
+角馆町	jiao guan ding	0
+角馆町	jiao guan ting	0
+角馆町	jue guan ding	0
+角馆町	jue guan ting	0
+角田市	jiao tian shi	0
+角田市	jue tian shi	0
+皆瀬村	jie lai cun	0
+皆野町	jie ye ding	0
+皆野町	jie ye ting	0
+阶上町	jie shang ding	0
+阶上町	jie shang ting	0
+结城郡	jie cheng jun	0
+结城市	jie cheng shi	0
+金沢区	jin ze qu	0
+金沢市	jin ze shi	0
+金城町	jin cheng ding	0
+金城町	jin cheng ting	0
+金成町	jin cheng ding	0
+金成町	jin cheng ting	0
+金峰町	jin feng ding	0
+金峰町	jin feng ting	0
+金谷町	jin gu ding	0
+金谷町	jin gu ting	0
+金光町	jin guang ding	0
+金光町	jin guang ting	0
+金津町	jin jin ding	0
+金津町	jin jin ting	0
+金井町	jin jing ding	0
+金井町	jin jing ting	0
+金木町	jin mu ding	0
+金木町	jin mu ting	0
+金浦町	jin pu ding	0
+金浦町	jin pu ting	0
+金崎町	jin qi ding	0
+金崎町	jin qi ting	0
+金山町	jin shan ding	0
+金山町	jin shan ting	0
+金田町	jin tian ding	0
+金田町	jin tian ting	0
+金屋町	jin wu ding	0
+金屋町	jin wu ting	0
+金武町	jin wu ding	0
+金武町	jin wu ting	0
+金泽区	jin ze qu	0
+金泽市	jin ze shi	0
+今帰仁村	jin gui ren cun	0
+今别町	jin bie ding	0
+今别町	jin bie ting	0
+今归仁村	jin gui ren cun	0
+今金町	jin jin ding	0
+今金町	jin jin ting	0
+今津町	jin jin ding	0
+今津町	jin jin ting	0
+今立郡	jin li jun	0
+今立町	jin li ding	0
+今立町	jin li ting	0
+今市市	jin shi shi	0
+今治市	jin zhi shi	0
+今庄町	jin zhuang ding	0
+今庄町	jin zhuang ting	0
+津别町	jin bie ding	0
+津别町	jin bie ting	0
+津川町	jin chuan ding	0
+津川町	jin chuan ting	0
+津岛市	jin dao shi	0
+津岛町	jin dao ding	0
+津岛町	jin dao ting	0
+津和野町	jin he ye ding	0
+津和野町	jin he ye ting	0
+津久见市	jin jiu jian shi	0
+津久井郡	jin jiu jing jun	0
+津具村	jin ju cun	0
+津名町	jin ming ding	0
+津名町	jin ming ting	0
+津奈木町	jin nai mu ding	0
+津奈木町	jin nai mu ting	0
+津南町	jin nan ding	0
+津南町	jin nan ting	0
+津轻市	jin qing shi	0
+津山市	jin shan shi	0
+津山町	jin shan ding	0
+津山町	jin shan ting	0
+津市	jin shi	0
+津屋崎町	jin wu qi ding	0
+津屋崎町	jin wu qi ting	0
+津野町	jin ye ding	0
+津野町	jin ye ting	0
+津幡町	jin fan ding	0
+津幡町	jin fan ting	0
+襟裳町	jin shang ding	0
+襟裳町	jin shang ting	0
+锦江町	jin jiang ding	0
+锦江町	jin jiang ting	0
+锦町	jin ding	0
+锦町	jin ting	0
+近江八幡市	jin jiang ba fan shi	0
+近江町	jin jiang ding	0
+近江町	jin jiang ting	0
+総领町	zong ling ding	0
+総领町	zong ling ting	0
+総社市	zong she shi	0
+緑区	lv qu	0
+緑区	lu qu	0
+緑町	lv ding	0
+緑町	lv ting	0
+緑町	lu ding	0
+緑町	lu ting	0
+京瀬村	jing lai cun	0
+京北町	jing bei ding	0
+京北町	jing bei ting	0
+京丹波町	jing dan bo ding	0
+京丹波町	jing dan bo ting	0
+京丹后市	jing dan hou shi	0
+京都府	jing du fu	0
+京都郡	jing du jun	0
+京都市	jing du shi	0
+京都町	jing du ding	0
+京都町	jing du ting	0
+京极町	jing ji ding	0
+京极町	jing ji ting	0
+京田边市	jing tian bian shi	0
+京田辺市	jing tian bian shi	0
+京田辺市	jing tian dao shi	0
+精华町	jing hua ding	0
+精华町	jing hua ting	0
+井波町	jing bo ding	0
+井波町	jing bo ting	0
+井川町	jing chuan ding	0
+井川町	jing chuan ting	0
+井口村	jing kou cun	0
+井手町	jing shou ding	0
+井手町	jing shou ting	0
+井原市	jing yuan shi	0
+颈城村	jing cheng cun	0
+静冈市	jing gang shi	0
+静冈县	jing gang xian	0
+静内町	jing nei ding	0
+静内町	jing nei ting	0
+境川村	jing chuan cun	0
+境港市	jing gang shi	0
+镜村	jing cun	0
+镜石町	jing shi ding	0
+镜石町	jing shi ting	0
+镜野町	jing ye ding	0
+镜野町	jing ye ting	0
+镜町	jing ding	0
+镜町	jing ting	0
+玖珠郡	jiu zhu jun	0
+玖珠町	jiu zhu ding	0
+玖珠町	jiu zhu ting	0
+玖珂郡	jiu ke jun	0
+玖珂町	jiu ke ding	0
+韭崎市	jiu qi shi	0
+久瀬村	jiu lai cun	0
+久保田町	jiu bao tian ding	0
+久保田町	jiu bao tian ting	0
+久慈郡	jiu ci jun	0
+久慈市	jiu ci shi	0
+久贺町	jiu he ding	0
+久贺町	jiu he ting	0
+久井町	jiu jing ding	0
+久井町	jiu jing ting	0
+久居市	jiu ju shi	0
+久留米市	jiu liu mi shi	0
+久美浜町	jiu mei bang ding	0
+久美浜町	jiu mei bang ting	0
+久米岛町	jiu mi dao ding	0
+久米岛町	jiu mi dao ting	0
+久米南町	jiu mi nan ding	0
+久米南町	jiu mi nan ting	0
+久米町	jiu mi ding	0
+久米町	jiu mi ting	0
+久木野村	jiu mu ye cun	0
+久山町	jiu shan ding	0
+久山町	jiu shan ting	0
+久世郡	jiu shi jun	0
+久世町	jiu shi ding	0
+久世町	jiu shi ting	0
+久万高原町	jiu wan gao yuan ding	0
+久万高原町	jiu wan gao yuan ting	0
+久万町	jiu wan ding	0
+久万町	jiu wan ting	0
+久喜市	jiu xi shi	0
+久野町	jiu ye ding	0
+久野町	jiu ye ting	0
+久御山町	jiu yu shan ding	0
+久御山町	jiu yu shan ting	0
+久远郡	jiu yuan jun	0
+久住町	jiu zhu ding	0
+久住町	jiu zhu ting	0
+九戸村	jiu hu cun	0
+九度山町	jiu du shan ding	0
+九度山町	jiu du shan ting	0
+九户村	jiu hu cun	0
+九户郡	jiu hu jun	0
+九十九里町	jiu shi jiu li ding	0
+九十九里町	jiu shi jiu li ting	0
+九重町	jiu chong ding	0
+九重町	jiu chong ting	0
+酒酒井町	jiu jiu jing ding	0
+酒酒井町	jiu jiu jing ting	0
+酒田市	jiu tian shi	0
+臼田町	jiu tian ding	0
+臼田町	jiu tian ting	0
+臼杵市	jiu chu shi	0
+驹根市	ju gen shi	0
+菊池郡	ju chi jun	0
+菊池市	ju chi shi	0
+菊川市	ju chuan shi	0
+菊川町	ju chuan ding	0
+菊川町	ju chuan ting	0
+菊间町	ju jian ding	0
+菊间町	ju jian ting	0
+菊鹿町	ju lu ding	0
+菊鹿町	ju lu ting	0
+菊水町	ju shui ding	0
+菊水町	ju shui ting	0
+菊阳町	ju yang ding	0
+菊阳町	ju yang ting	0
+具志川市	ju zhi chuan shi	0
+具志头村	ju zhi tou cun	0
+锯南町	ju nan ding	0
+锯南町	ju nan ting	0
+俱知安町	ju zhi an ding	0
+俱知安町	ju zhi an ting	0
+君津市	jun jin shi	0
+君田村	jun tian cun	0
+郡家町	jun jia ding	0
+郡家町	jun jia ting	0
+郡山市	jun shan shi	0
+郡山町	jun shan ding	0
+郡山町	jun shan ting	0
+骏东郡	jun dong jun	0
+骏河区	jun he qu	0
+开成町	kai cheng ding	0
+开成町	kai cheng ting	0
+开田村	kai tian cun	0
+开闻町	kai wen ding	0
+开闻町	kai wen ting	0
+可児市	ke er shi	0
+空知郡	kong zhi jun	0
+空知支厅	kong zhi zhi ting	0
+口和町	kou he ding	0
+口和町	kou he ting	0
+口之津町	kou zhi jin ding	0
+口之津町	kou zhi jin ting	0
+葵区	kui qu	0
+蓝住町	lan zhu ding	0
+蓝住町	lan zhu ting	0
+兰越町	lan yue ding	0
+兰越町	lan yue ting	0
+浪冈町	lang gang ding	0
+浪冈町	lang gang ting	0
+浪合村	lang he cun	0
+浪江町	lang jiang ding	0
+浪江町	lang jiang ting	0
+浪速区	lang su qu	0
+里村	li cun	0
+里庄町	li zhuang ding	0
+里庄町	li zhuang ting	0
+礼文郡	li wen jun	0
+礼文町	li wen ding	0
+礼文町	li wen ting	0
+栗沢町	li ze ding	0
+栗沢町	li ze ting	0
+栗东市	li dong shi	0
+栗驹町	li ju ding	0
+栗驹町	li ju ting	0
+栗桥町	li qiao ding	0
+栗桥町	li qiao ting	0
+栗山町	li shan ding	0
+栗山町	li shan ting	0
+栗野町	li ye ding	0
+栗野町	li ye ting	0
+栗原市	li yuan shi	0
+利府町	li fu ding	0
+利府町	li fu ting	0
+利根郡	li gen jun	0
+利贺村	li he cun	0
+利尻富士町	li kao fu shi ding	0
+利尻富士町	li kao fu shi ting	0
+利尻郡	li kao jun	0
+利尻町	li kao ding	0
+利尻町	li kao ting	0
+立川市	li chuan shi	0
+立川町	li chuan ding	0
+立川町	li chuan ting	0
+立花町	li hua ding	0
+立花町	li hua ting	0
+立科町	li ke ding	0
+立科町	li ke ting	0
+立山町	li shan ding	0
+立山町	li shan ting	0
+立田村	li tian cun	0
+莲田市	lian tian shi	0
+镰仓市	lian cang shi	0
+镰谷市	lian gu shi	0
+练马区	lian ma qu	0
+梁川町	liang chuan ding	0
+梁川町	liang chuan ting	0
+菱刈町	ling yi ding	0
+菱刈町	ling yi ting	0
+铃鹿市	ling lu shi	0
+留萌郡	liu meng jun	0
+留萌市	liu meng shi	0
+留萌支厅	liu meng zhi ting	0
+留寿都村	liu shou dou cun	0
+留寿都村	liu shou du cun	0
+留辺蘂町	liu bian rui ding	0
+留辺蘂町	liu bian rui ting	0
+留辺蘂町	liu dao rui ding	0
+留辺蘂町	liu dao rui ting	0
+流山市	liu shan shi	0
+柳川市	liu chuan shi	0
+柳谷村	liu gu cun	0
+柳津町	liu jin ding	0
+柳津町	liu jin ting	0
+柳井市	liu jing shi	0
+柳田村	liu tian cun	0
+六戸町	liu hu ding	0
+六戸町	liu hu ting	0
+六合村	liu he cun	0
+六合村	lu he cun	0
+六户町	liu hu ding	0
+六户町	liu hu ting	0
+六日市町	liu ri shi ding	0
+六日市町	liu ri shi ting	0
+六日町	liu ri ding	0
+六日町	liu ri ting	0
+六所村	liu suo cun	0
+六郷町	liu xiang ding	0
+六郷町	liu xiang ting	0
+龙崎市	long qi shi	0
+龙山村	long shan cun	0
+龙神村	long shen cun	0
+龙王町	long wang ding	0
+龙王町	long wang ting	0
+龙乡町	long xiang ding	0
+龙乡町	long xiang ting	0
+龙野市	long ye shi	0
+龙岳町	long yue ding	0
+龙岳町	long yue ting	0
+龙郷町	long xiang ding	0
+龙郷町	long xiang ting	0
+芦安村	lu an cun	0
+芦北町	lu bei ding	0
+芦北町	lu bei ting	0
+芦别市	lu bie shi	0
+芦川村	lu chuan cun	0
+芦屋市	lu wu shi	0
+芦屋町	lu wu ding	0
+芦屋町	lu wu ting	0
+芦原市	lu yuan shi	0
+芦原町	lu yuan ding	0
+芦原町	lu yuan ting	0
+芦刈町	lu yi ding	0
+芦刈町	lu yi ting	0
+芦辺町	lu bian ding	0
+芦辺町	lu bian ting	0
+芦辺町	lu dao ding	0
+芦辺町	lu dao ting	0
+鹿児岛市	lu er dao shi	0
+鹿児岛县	lu er dao xian	0
+鹿嶋市	lu dao shi	0
+鹿瀬町	lu lai ding	0
+鹿瀬町	lu lai ting	0
+鹿北町	lu bei ding	0
+鹿北町	lu bei ting	0
+鹿本郡	lu ben jun	0
+鹿本町	lu ben ding	0
+鹿本町	lu ben ting	0
+鹿部町	lu bu ding	0
+鹿部町	lu bu ting	0
+鹿岛村	lu dao cun	0
+鹿岛郡	lu dao jun	0
+鹿岛市	lu dao shi	0
+鹿岛台町	lu dao tai ding	0
+鹿岛台町	lu dao tai ting	0
+鹿岛町	lu dao ding	0
+鹿岛町	lu dao ting	0
+鹿儿岛郡	lu er dao jun	0
+鹿儿岛市	lu er dao shi	0
+鹿儿岛县	lu er dao xian	0
+鹿角郡	lu jiao jun	0
+鹿角市	lu jiao shi	0
+鹿屋市	lu wu shi	0
+鹿西町	lu xi ding	0
+鹿西町	lu xi ting	0
+鹿央町	lu yang ding	0
+鹿央町	lu yang ting	0
+鹿野町	lu ye ding	0
+鹿野町	lu ye ting	0
+鹿沼市	lu zhao shi	0
+鹿追町	lu zhui ding	0
+鹿追町	lu zhui ting	0
+鹿足郡	lu zu jun	0
+鹿町町	lu ding ding	0
+鹿町町	lu ting ding	0
+鹿町町	lu ding ting	0
+鹿町町	lu ting ting	0
+陆奥市	lu ao shi	0
+陆别町	lu bie ding	0
+陆别町	lu bie ting	0
+陆前高田市	lu qian gao tian shi	0
+绿区	lv qu	0
+轮岛市	lun dao shi	0
+轮之内町	lun zhi nei ding	0
+轮之内町	lun zhi nei ting	0
+罗臼町	luo jiu ding	0
+罗臼町	luo jiu ting	0
+落合町	luo he ding	0
+落合町	luo he ting	0
+麻绩村	ma ji cun	0
+马瀬村	ma lai cun	0
+马路村	ma lu cun	0
+卖木村	mai mu cun	0
+脇野沢村	xie ye ze cun	0
+脇町	xie ding	0
+脇町	xie ting	0
+茅部郡	mao bu jun	0
+茅崎市	mao qi shi	0
+茅野市	mao ye shi	0
+毛吕山町	mao lv shan ding	0
+毛吕山町	mao lv shan ting	0
+茂木町	mao mu ding	0
+茂木町	mao mu ting	0
+茂原市	mao yuan shi	0
+枚方市	mei fang shi	0
+美保関町	mei bao guan ding	0
+美保関町	mei bao guan ting	0
+美滨町	mei bin ding	0
+美滨町	mei bin ting	0
+美并村	mei bing cun	0
+美波町	mei bo ding	0
+美波町	mei bo ting	0
+美川村	mei chuan cun	0
+美川町	mei chuan ding	0
+美川町	mei chuan ting	0
+美东町	mei dong ding	0
+美东町	mei dong ting	0
+美都町	mei du ding	0
+美都町	mei du ting	0
+美方郡	mei fang jun	0
+美方町	mei fang ding	0
+美方町	mei fang ting	0
+美甘村	mei gan cun	0
+美和町	mei he ding	0
+美和町	mei he ting	0
+美幌町	mei huang ding	0
+美幌町	mei huang ting	0
+美津岛町	mei jin dao ding	0
+美津岛町	mei jin dao ting	0
+美里村	mei li cun	0
+美里町	mei li ding	0
+美里町	mei li ting	0
+美麻村	mei ma cun	0
+美马郡	mei ma jun	0
+美马市	mei ma shi	0
+美马町	mei ma ding	0
+美马町	mei ma ting	0
+美浓加茂市	mei nong jia mao shi	0
+美浓市	mei nong shi	0
+美浦村	mei pu cun	0
+美杉村	mei shan cun	0
+美杉村	mei sha cun	0
+美山村	mei shan cun	0
+美山町	mei shan ding	0
+美山町	mei shan ting	0
+美深町	mei shen ding	0
+美深町	mei shen ting	0
+美土里町	mei tu li ding	0
+美土里町	mei tu li ting	0
+美乡町	mei xiang ding	0
+美乡町	mei xiang ting	0
+美星町	mei xing ding	0
+美星町	mei xing ting	0
+美原町	mei yuan ding	0
+美原町	mei yuan ting	0
+美作町	mei zuo ding	0
+美作町	mei zuo ting	0
+美呗市	mei bei shi	0
+美呗市	mei bai shi	0
+美郷村	mei xiang cun	0
+美浜町	mei bang ding	0
+美浜町	mei bang ting	0
+美瑛町	mei ying ding	0
+美瑛町	mei ying ting	0
+美祢市	mei mi shi	0
+妹背牛町	mei bei niu ding	0
+妹背牛町	mei bei niu ting	0
+门别町	men bie ding	0
+门别町	men bie ting	0
+门川町	men chuan ding	0
+门川町	men chuan ting	0
+门前町	men qian ding	0
+门前町	men qian ting	0
+门司区	men si qu	0
+门真市	men zhen shi	0
+梦前町	meng qian ding	0
+梦前町	meng qian ting	0
+弥栄村	mi rong cun	0
+弥栄町	mi rong ding	0
+弥栄町	mi rong ting	0
+弥富町	mi fu ding	0
+弥富町	mi fu ting	0
+弥生町	mi sheng ding	0
+弥生町	mi sheng ting	0
+弥彦村	mi yan cun	0
+米沢市	mi ze shi	0
+米山町	mi shan ding	0
+米山町	mi shan ting	0
+米水津村	mi shui jin cun	0
+米原町	mi yuan ding	0
+米原町	mi yuan ting	0
+米泽市	mi ze shi	0
+米子市	mi zi shi	0
+免田町	mian tian ding	0
+免田町	mian tian ting	0
+面河村	mian he cun	0
+妙高村	miao gao cun	0
+妙高高原町	miao gao gao yuan ding	0
+妙高高原町	miao gao gao yuan ting	0
+明宝村	ming bao cun	0
+明和町	ming he ding	0
+明和町	ming he ting	0
+明科町	ming ke ding	0
+明科町	ming ke ting	0
+明日香村	ming ri xiang cun	0
+明石市	ming shi shi	0
+明野村	ming ye cun	0
+明智町	ming zhi ding	0
+明智町	ming zhi ting	0
+明浜町	ming bang ding	0
+明浜町	ming bang ting	0
+鸣沢村	ming ze cun	0
+鸣瀬町	ming lai ding	0
+鸣瀬町	ming lai ting	0
+鸣门市	ming men shi	0
+鸣泽村	ming ze cun	0
+鸣子町	ming zi ding	0
+鸣子町	ming zi ting	0
+名瀬市	ming lai shi	0
+名川町	ming chuan ding	0
+名川町	ming chuan ting	0
+名东郡	ming dong jun	0
+名东区	ming dong qu	0
+名古屋市	ming gu wu shi	0
+名和町	ming he ding	0
+名和町	ming he ting	0
+名护市	ming hu shi	0
+名寄市	ming ji shi	0
+名立町	ming li ding	0
+名立町	ming li ting	0
+名取市	ming qu shi	0
+名田庄村	ming tian zhuang cun	0
+名西郡	ming xi jun	0
+名张市	ming zhang shi	0
+末吉町	mo ji ding	0
+末吉町	mo ji ting	0
+墨田区	mo tian qu	0
+墨俣町	mo yu ding	0
+墨俣町	mo yu ting	0
+牟礼村	mu li cun	0
+牟礼村	mou li cun	0
+牟礼町	mu li ding	0
+牟礼町	mou li ding	0
+牟礼町	mu li ting	0
+牟礼町	mou li ting	0
+牟岐町	mu qi ding	0
+牟岐町	mou qi ding	0
+牟岐町	mu qi ting	0
+牟岐町	mou qi ting	0
+牡鹿郡	mu lu jun	0
+牡鹿町	mu lu ding	0
+牡鹿町	mu lu ting	0
+幕别町	mu bie ding	0
+幕别町	mu bie ting	0
+木曽川町	mu ceng chuan ding	0
+木曽川町	mu zeng chuan ding	0
+木曽川町	mu ceng chuan ting	0
+木曽川町	mu zeng chuan ting	0
+木曽福岛町	mu ceng fu dao ding	0
+木曽福岛町	mu zeng fu dao ding	0
+木曽福岛町	mu ceng fu dao ting	0
+木曽福岛町	mu zeng fu dao ting	0
+木曽岬町	mu ceng jia ding	0
+木曽岬町	mu zeng jia ding	0
+木曽岬町	mu ceng jia ting	0
+木曽岬町	mu zeng jia ting	0
+木沢村	mu ze cun	0
+木城町	mu cheng ding	0
+木城町	mu cheng ting	0
+木次町	mu ci ding	0
+木次町	mu ci ting	0
+木岛平村	mu dao ping cun	0
+木更津市	mu geng jin shi	0
+木古内町	mu gu nei ding	0
+木古内町	mu gu nei ting	0
+木江町	mu jiang ding	0
+木江町	mu jiang ting	0
+木津町	mu jin ding	0
+木津町	mu jin ting	0
+木田郡	mu tian jun	0
+木头村	mu tou cun	0
+木屋平村	mu wu ping cun	0
+木造町	mu zao ding	0
+木造町	mu zao ting	0
+木曾郡	mu ceng jun	0
+木曾郡	mu zeng jun	0
+木曾岬町	mu ceng jia ding	0
+木曾岬町	mu zeng jia ding	0
+木曾岬町	mu ceng jia ting	0
+木曾岬町	mu zeng jia ting	0
+木曾町	mu ceng ding	0
+木曾町	mu zeng ding	0
+木曾町	mu ceng ting	0
+木曾町	mu zeng ting	0
+木之本町	mu zhi ben ding	0
+木之本町	mu zhi ben ting	0
+木祖村	mu zu cun	0
+目黑区	mu hei qu	0
+目梨郡	mu li jun	0
+目黒区	mu hei qu	0
+睦泽町	mu ze ding	0
+睦泽町	mu ze ting	0
+牧村	mu cun	0
+牧丘町	mu qiu ding	0
+牧丘町	mu qiu ting	0
+牧园町	mu yuan ding	0
+牧园町	mu yuan ting	0
+牧之原市	mu zhi yuan shi	0
+那霸市	na ba shi	0
+那贺川町	na he chuan ding	0
+那贺川町	na he chuan ting	0
+那贺郡	na he jun	0
+那贺町	na he ding	0
+那贺町	na he ting	0
+那须郡	na xu jun	0
+那须乌山市	na xu wu shan shi	0
+那须盐原市	na xu yan yuan shi	0
+那须町	na xu ding	0
+那须町	na xu ting	0
+那覇市	na ba shi	0
+那覇市	na po shi	0
+那智胜浦町	na zhi sheng pu ding	0
+那智胜浦町	na zhi sheng pu ting	0
+那珂川町	na ke chuan ding	0
+那珂川町	na ke chuan ting	0
+那珂郡	na ke jun	0
+那珂市	na ke shi	0
+奈半利町	nai ban li ding	0
+奈半利町	nai ban li ting	0
+奈川村	nai chuan cun	0
+奈井江町	nai jing jiang ding	0
+奈井江町	nai jing jiang ting	0
+奈良市	nai liang shi	0
+奈良尾町	nai liang wei ding	0
+奈良尾町	nai liang wei ting	0
+奈良县	nai liang xian	0
+奈留町	nai liu ding	0
+奈留町	nai liu ting	0
+奈义町	nai yi ding	0
+奈义町	nai yi ting	0
+南埼玉郡	nan qi yu jun	0
+南阿尔卑斯市	nan a er bei si shi	0
+南部川村	nan bu chuan cun	0
+南部町	nan bu ding	0
+南部町	nan bu ting	0
+南串山町	nan chuan shan ding	0
+南串山町	nan chuan shan ting	0
+南大东村	nan da dong cun	0
+南大隅町	nan da yu ding	0
+南大隅町	nan da yu ting	0
+南丹市	nan dan shi	0
+南淡路市	nan dan lu shi	0
+南岛町	nan dao ding	0
+南岛町	nan dao ting	0
+南都留郡	nan dou liu jun	0
+南方町	nan fang ding	0
+南方町	nan fang ting	0
+南房总市	nan fang zong shi	0
+南风原町	nan feng yuan ding	0
+南风原町	nan feng yuan ting	0
+南富良野町	nan fu liang ye ding	0
+南富良野町	nan fu liang ye ting	0
+南关町	nan guan ding	0
+南关町	nan guan ting	0
+南光町	nan guang ding	0
+南光町	nan guang ting	0
+南国市	nan guo shi	0
+南河内郡	nan he nei jun	0
+南幌町	nan huang ding	0
+南幌町	nan huang ting	0
+南会津郡	nan hui jin jun	0
+南箕轮村	nan ji lun cun	0
+南津轻郡	nan jin qing jun	0
+南九州市	nan jiu zhou shi	0
+南巨摩郡	nan ju mo jun	0
+南茅部町	nan mao bu ding	0
+南茅部町	nan mao bu ting	0
+南牟娄郡	nan mu lou jun	0
+南牟娄郡	nan mou lou jun	0
+南木曽町	nan mu ceng ding	0
+南木曽町	nan mu zeng ding	0
+南木曽町	nan mu ceng ting	0
+南木曽町	nan mu zeng ting	0
+南木曾町	nan mu ceng ding	0
+南木曾町	nan mu zeng ding	0
+南木曾町	nan mu ceng ting	0
+南木曾町	nan mu zeng ting	0
+南牧村	nan mu cun	0
+南浓町	nan nong ding	0
+南浓町	nan nong ting	0
+南秋田郡	nan qiu tian jun	0
+南区	nan qu	0
+南萨摩市	nan sa mo shi	0
+南山城村	nan shan cheng cun	0
+南势町	nan shi ding	0
+南势町	nan shi ting	0
+南条郡	nan tiao jun	0
+南条町	nan tiao ding	0
+南条町	nan tiao ting	0
+南外村	nan wai cun	0
+南相马市	nan xiang ma shi	0
+南相木村	nan xiang mu cun	0
+南小国町	nan xiao guo ding	0
+南小国町	nan xiao guo ting	0
+南信浓村	nan xin nong cun	0
+南阳市	nan yang shi	0
+南伊豆町	nan yi dou ding	0
+南伊豆町	nan yi dou ting	0
+南伊势町	nan yi shi ding	0
+南伊势町	nan yi shi ting	0
+南有马町	nan you ma ding	0
+南有马町	nan you ma ting	0
+南宇和郡	nan yu he jun	0
+南知多町	nan zhi duo ding	0
+南知多町	nan zhi duo ting	0
+南种子町	nan zhong zi ding	0
+南种子町	nan zhong zi ting	0
+南足柄市	nan zu bing shi	0
+南佐久郡	nan zuo jiu jun	0
+南郷村	nan xiang cun	0
+南郷町	nan xiang ding	0
+南郷町	nan xiang ting	0
+南澹町	nan dan ding	0
+南澹町	nan tan ding	0
+南澹町	nan dan ting	0
+南澹町	nan tan ting	0
+南関町	nan guan ding	0
+南関町	nan guan ting	0
+南砺市	nan li shi	0
+男鹿市	nan lu shi	0
+内海村	nei hai cun	0
+内海町	nei hai ding	0
+内海町	nei hai ting	0
+内浦町	nei pu ding	0
+内浦町	nei pu ting	0
+内滩町	nei tan ding	0
+内滩町	nei tan ting	0
+内之浦町	nei zhi pu ding	0
+内之浦町	nei zhi pu ting	0
+内子町	nei zi ding	0
+内子町	nei zi ting	0
+能代市	neng dai shi	0
+能登川町	neng deng chuan ding	0
+能登川町	neng deng chuan ting	0
+能登岛町	neng deng dao ding	0
+能登岛町	neng deng dao ting	0
+能登町	neng deng ding	0
+能登町	neng deng ting	0
+能都町	neng dou ding	0
+能都町	neng dou ting	0
+能美町	neng mei ding	0
+能美町	neng mei ting	0
+能生町	neng sheng ding	0
+能生町	neng sheng ting	0
+能势町	neng shi ding	0
+能势町	neng shi ting	0
+尼崎市	ni qi shi	0
+鸟岛	niao dao	0
+鸟海町	niao hai ding	0
+鸟海町	niao hai ting	0
+鸟栖市	niao qi shi	0
+鸟栖市	niao xi shi	0
+鸟取市	niao qu shi	0
+鸟取县	niao qu xian	0
+鸟屋町	niao wu ding	0
+鸟屋町	niao wu ting	0
+鸟羽市	niao yu shi	0
+鸟越村	niao yue cun	0
+舘岩村	guan yan cun	0
+牛窓町	niu chuang ding	0
+牛窓町	niu chuang ting	0
+牛津町	niu jin ding	0
+牛津町	niu jin ting	0
+牛久市	niu jiu shi	0
+牛深市	niu shen shi	0
+女満别町	nv man bie ding	0
+女満别町	nv man bie ting	0
+女川町	nv chuan ding	0
+女川町	nv chuan ting	0
+磐城市	pan cheng shi	0
+磐梯町	pan ti ding	0
+磐梯町	pan ti ting	0
+磐田市	pan tian shi	0
+蓬田村	peng tian cun	0
+棚仓町	peng cang ding	0
+棚仓町	peng cang ting	0
+苅田町	yi tian ding	0
+苅田町	yi tian ting	0
+匹见町	pi jian ding	0
+匹见町	pi jian ting	0
+片品村	pian pin cun	0
+品川区	pin chuan qu	0
+平塚市	ping zhong shi	0
+平戸市	ping hu shi	0
+平川市	ping chuan shi	0
+平村	ping cun	0
+平谷村	ping gu cun	0
+平和町	ping he ding	0
+平和町	ping he ting	0
+平贺町	ping he ding	0
+平贺町	ping he ting	0
+平良市	ping liang shi	0
+平鹿町	ping lu ding	0
+平鹿町	ping lu ting	0
+平内町	ping nei ding	0
+平内町	ping nei ting	0
+平舘村	ping guan cun	0
+平取町	ping qu ding	0
+平取町	ping qu ting	0
+平泉町	ping quan ding	0
+平泉町	ping quan ting	0
+平群町	ping qun ding	0
+平群町	ping qun ting	0
+平生町	ping sheng ding	0
+平生町	ping sheng ting	0
+平田村	ping tian cun	0
+平田市	ping tian shi	0
+平田町	ping tian ding	0
+平田町	ping tian ting	0
+平野区	ping ye qu	0
+平冢市	ping zhong shi	0
+迫町	po ding	0
+迫町	po ting	0
+粕屋町	po wu ding	0
+粕屋町	po wu ting	0
+蒲江町	pu jiang ding	0
+蒲江町	pu jiang ting	0
+蒲郡市	pu jun shi	0
+蒲生郡	pu sheng jun	0
+蒲生町	pu sheng ding	0
+蒲生町	pu sheng ting	0
+蒲原町	pu yuan ding	0
+蒲原町	pu yuan ting	0
+蒲刈町	pu yi ding	0
+蒲刈町	pu yi ting	0
+普代村	pu dai cun	0
+浦安市	pu an shi	0
+浦川原村	pu chuan yuan cun	0
+浦和区	pu he qu	0
+浦河郡	pu he jun	0
+浦河町	pu he ding	0
+浦河町	pu he ting	0
+浦幌町	pu huang ding	0
+浦幌町	pu huang ting	0
+浦臼町	pu jiu ding	0
+浦臼町	pu jiu ting	0
+浦添市	pu tian shi	0
+栖本町	qi ben ding	0
+栖本町	qi ben ting	0
+栖本町	xi ben ding	0
+栖本町	xi ben ting	0
+七塚町	qi zhong ding	0
+七塚町	qi zhong ting	0
+七戸町	qi hu ding	0
+七戸町	qi hu ting	0
+七宝町	qi bao ding	0
+七宝町	qi bao ting	0
+七滨町	qi bin ding	0
+七滨町	qi bin ting	0
+七城町	qi cheng ding	0
+七城町	qi cheng ting	0
+七饭町	qi fan ding	0
+七饭町	qi fan ting	0
+七户町	qi hu ding	0
+七户町	qi hu ting	0
+七山村	qi shan cun	0
+七宿町	qi su ding	0
+七宿町	qi su ting	0
+七宿町	qi xiu ding	0
+七尾市	qi wei shi	0
+七宗町	qi zong ding	0
+七宗町	qi zong ting	0
+七浜町	qi bang ding	0
+七浜町	qi bang ting	0
+崎戸町	qi hu ding	0
+崎戸町	qi hu ting	0
+祁答院町	qi da yuan ding	0
+祁答院町	qi da yuan ting	0
+骑西町	qi xi ding	0
+骑西町	qi xi ting	0
+气仙郡	qi xian jun	0
+气仙沼市	qi xian zhao shi	0
+荘川村	zhuang chuan cun	0
+千歳村	qian sui cun	0
+千歳市	qian sui shi	0
+千畑町	qian tian ding	0
+千畑町	qian tian ting	0
+千代田区	qian dai tian qu	0
+千代田町	qian dai tian ding	0
+千代田町	qian dai tian ting	0
+千丁町	qian ding ding	0
+千丁町	qian ding ting	0
+千厩町	qian jiu ding	0
+千厩町	qian jiu ting	0
+千曲市	qian qu shi	0
+千石町	qian shi ding	0
+千石町	qian shi ting	0
+千岁市	qian sui shi	0
+千叶市	qian ye shi	0
+千叶县	qian ye xian	0
+千早赤坂村	qian zao chi ban cun	0
+千种区	qian zhong qu	0
+千种町	qian zhong ding	0
+千种町	qian zhong ting	0
+前沢町	qian ze ding	0
+前沢町	qian ze ting	0
+前津江村	qian jin jiang cun	0
+前桥市	qian qiao shi	0
+前原市	qian yuan shi	0
+浅川町	qian chuan ding	0
+浅川町	qian chuan ting	0
+浅井町	qian jing ding	0
+浅井町	qian jing ting	0
+浅科村	qian ke cun	0
+浅羽町	qian yu ding	0
+浅羽町	qian yu ting	0
+桥本市	qiao ben shi	0
+乔木村	qiao mu cun	0
+秦荘町	qin zhuang ding	0
+秦荘町	qin zhuang ting	0
+秦野市	qin ye shi	0
+琴海町	qin hai ding	0
+琴海町	qin hai ting	0
+琴南町	qin nan ding	0
+琴南町	qin nan ting	0
+琴平町	qin ping ding	0
+琴平町	qin ping ting	0
+琴浦町	qin pu ding	0
+琴浦町	qin pu ting	0
+琴丘町	qin qiu ding	0
+琴丘町	qin qiu ting	0
+寝屋川市	qin wu chuan shi	0
+青谷町	qing gu ding	0
+青谷町	qing gu ting	0
+青海町	qing hai ding	0
+青海町	qing hai ting	0
+青梅市	qing mei shi	0
+青木村	qing mu cun	0
+青森市	qing sen shi	0
+青森县	qing sen xian	0
+青山町	qing shan ding	0
+青山町	qing shan ting	0
+青叶区	qing ye qu	0
+青垣町	qing yuan ding	0
+青垣町	qing yuan ting	0
+轻井泽町	qing jing ze ding	0
+轻井泽町	qing jing ze ting	0
+轻米町	qing mi ding	0
+轻米町	qing mi ting	0
+清瀬市	qing lai shi	0
+清川村	qing chuan cun	0
+清和村	qing he cun	0
+清见村	qing jian cun	0
+清里村	qing li cun	0
+清里町	qing li ding	0
+清里町	qing li ting	0
+清内路村	qing nei lu cun	0
+清水区	qing shui qu	0
+清水市	qing shui shi	0
+清水町	qing shui ding	0
+清水町	qing shui ting	0
+清田区	qing tian qu	0
+清武町	qing wu ding	0
+清武町	qing wu ting	0
+清须市	qing xu shi	0
+清音村	qing yin cun	0
+清洲町	qing zhou ding	0
+清洲町	qing zhou ting	0
+秋穂町	qiu sui ding	0
+秋穂町	qiu sui ting	0
+秋芳町	qiu fang ding	0
+秋芳町	qiu fang ting	0
+秋留野市	qiu liu ye shi	0
+秋山村	qiu shan cun	0
+秋田市	qiu tian shi	0
+秋田县	qiu tian xian	0
+球磨村	qiu mo cun	0
+球磨郡	qiu mo jun	0
+萩市	qiu shi	0
+萩原町	qiu yuan ding	0
+萩原町	qiu yuan ting	0
+取手市	qu shou shi	0
+泉北郡	quan bei jun	0
+泉村	quan cun	0
+泉大津市	quan da jin shi	0
+泉南郡	quan nan jun	0
+泉南市	quan nan shi	0
+泉崎村	quan qi cun	0
+泉区	quan qu	0
+泉佐野市	quan zuo ye shi	0
+犬山市	quan shan shi	0
+犬上郡	quan shang jun	0
+犬饲町	quan si ding	0
+犬饲町	quan si ting	0
+群马郡	qun ma jun	0
+群马县	qun ma xian	0
+热塩加纳村	re yan jia na cun	0
+热海市	re hai shi	0
+热田区	re tian qu	0
+壬生町	ren sheng ding	0
+壬生町	ren sheng ting	0
+仁淀村	ren dian cun	0
+仁多郡	ren duo jun	0
+仁多町	ren duo ding	0
+仁多町	ren duo ting	0
+仁贺保町	ren he bao ding	0
+仁贺保町	ren he bao ting	0
+仁摩町	ren mo ding	0
+仁摩町	ren mo ting	0
+仁木町	ren mu ding	0
+仁木町	ren mu ting	0
+仁尾町	ren wei ding	0
+仁尾町	ren wei ting	0
+人吉市	ren ji shi	0
+忍野村	ren ye cun	0
+日出町	ri chu ding	0
+日出町	ri chu ting	0
+日高村	ri gao cun	0
+日高郡	ri gao jun	0
+日高市	ri gao shi	0
+日高支厅	ri gao zhi ting	0
+日高町	ri gao ding	0
+日高町	ri gao ting	0
+日光市	ri guang shi	0
+日和佐町	ri he zuo ding	0
+日吉村	ri ji cun	0
+日吉津村	ri ji jin cun	0
+日吉町	ri ji ding	0
+日吉町	ri ji ting	0
+日进市	ri jin shi	0
+日立市	ri li shi	0
+日南市	ri nan shi	0
+日南町	ri nan ding	0
+日南町	ri nan ting	0
+日生町	ri sheng ding	0
+日生町	ri sheng ting	0
+日田市	ri tian shi	0
+日向市	ri xiang shi	0
+日野郡	ri ye jun	0
+日野市	ri ye shi	0
+日野町	ri ye ding	0
+日野町	ri ye ting	0
+日义村	ri yi cun	0
+日原町	ri yuan ding	0
+日原町	ri yuan ting	0
+日之影町	ri zhi ying ding	0
+日之影町	ri zhi ying ting	0
+日置川町	ri zhi chuan ding	0
+日置川町	ri zhi chuan ting	0
+日置市	ri zhi shi	0
+日置町	ri zhi ding	0
+日置町	ri zhi ting	0
+荣村	rong cun	0
+荣区	rong qu	0
+入広瀬村	ru guang lai cun	0
+入间郡	ru jian jun	0
+入间市	ru jian shi	0
+入来町	ru lai ding	0
+入来町	ru lai ting	0
+入善町	ru shan ding	0
+入善町	ru shan ting	0
+瑞穂町	rui sui ding	0
+瑞穂町	rui sui ting	0
+瑞浪市	rui lang shi	0
+瑞穗区	rui sui qu	0
+若桜町	ruo ying ding	0
+若桜町	ruo ying ting	0
+若草町	ruo cao ding	0
+若草町	ruo cao ting	0
+若宫町	ruo gong ding	0
+若宫町	ruo gong ting	0
+若林区	ruo lin qu	0
+若柳町	ruo liu ding	0
+若柳町	ruo liu ting	0
+若美町	ruo mei ding	0
+若美町	ruo mei ting	0
+若松区	ruo song qu	0
+若松町	ruo song ding	0
+若松町	ruo song ting	0
+若叶区	ruo ye qu	0
+若樱町	ruo ying ding	0
+若樱町	ruo ying ting	0
+萨摩川内市	sa mo chuan nei shi	0
+萨摩郡	sa mo jun	0
+萨摩町	sa mo ding	0
+萨摩町	sa mo ting	0
+三戸町	san hu ding	0
+三戸町	san hu ting	0
+三沢市	san ze shi	0
+三瀬村	san lai cun	0
+三本木町	san ben mu ding	0
+三本木町	san ben mu ting	0
+三朝町	san zhao ding	0
+三朝町	san zhao ting	0
+三川村	san chuan cun	0
+三川町	san chuan ding	0
+三川町	san chuan ting	0
+三春町	san chun ding	0
+三春町	san chun ting	0
+三次市	san ci shi	0
+三刀屋町	san dao wu ding	0
+三刀屋町	san dao wu ting	0
+三岛村	san dao cun	0
+三岛郡	san dao jun	0
+三岛市	san dao shi	0
+三岛町	san dao ding	0
+三岛町	san dao ting	0
+三芳町	san fang ding	0
+三芳町	san fang ting	0
+三方郡	san fang jun	0
+三方上中郡	san fang shang zhong jun	0
+三方町	san fang ding	0
+三方町	san fang ting	0
+三富村	san fu cun	0
+三根町	san gen ding	0
+三根町	san gen ting	0
+三股町	san gu ding	0
+三股町	san gu ting	0
+三光村	san guang cun	0
+三国町	san guo ding	0
+三国町	san guo ting	0
+三好郡	san hao jun	0
+三好町	san hao ding	0
+三好町	san hao ting	0
+三和村	san he cun	0
+三和町	san he ding	0
+三和町	san he ting	0
+三和町神石郡	san he ding shen shi jun	0
+三和町神石郡	san he ting shen shi jun	0
+三和町双三郡	san he ding shuang san jun	0
+三和町双三郡	san he ting shuang san jun	0
+三户郡	san hu jun	0
+三户町	san hu ding	0
+三户町	san hu ting	0
+三加和町	san jia he ding	0
+三加和町	san jia he ting	0
+三加茂町	san jia mao ding	0
+三加茂町	san jia mao ting	0
+三间町	san jian ding	0
+三间町	san jian ting	0
+三角町	san jiao ding	0
+三角町	san jiao ting	0
+三井楽町	san jing le ding	0
+三井楽町	san jing le ting	0
+三井郡	san jing jun	0
+三厩村	san jiu cun	0
+三良坂町	san liang ban ding	0
+三良坂町	san liang ban ting	0
+三轮町	san lun ding	0
+三轮町	san lun ting	0
+三木市	san mu shi	0
+三木町	san mu ding	0
+三木町	san mu ting	0
+三瓶町	san ping ding	0
+三瓶町	san ping ting	0
+三浦郡	san pu jun	0
+三浦市	san pu shi	0
+三崎町	san qi ding	0
+三崎町	san qi ting	0
+三桥町	san qiao ding	0
+三桥町	san qiao ting	0
+三日月町	san ri yue ding	0
+三日月町	san ri yue ting	0
+三日町	san ri ding	0
+三日町	san ri ting	0
+三山市	san shan shi	0
+三石町	san shi ding	0
+三石町	san shi ting	0
+三水村	san shui cun	0
+三田川町	san tian chuan ding	0
+三田川町	san tian chuan ting	0
+三田市	san tian shi	0
+三条市	san tiao shi	0
+三乡市	san xiang shi	0
+三乡町	san xiang ding	0
+三乡町	san xiang ting	0
+三养基郡	san yang ji jun	0
+三野町	san ye ding	0
+三野町	san ye ting	0
+三鹰市	san ying shi	0
+三隅町	san yu ding	0
+三隅町	san yu ting	0
+三原村	san yuan cun	0
+三原市	san yuan shi	0
+三原町	san yuan ding	0
+三原町	san yuan ting	0
+三岳村	san yue cun	0
+三云町	san yun ding	0
+三云町	san yun ting	0
+三泽市	san ze shi	0
+三宅町	san zhai ding	0
+三宅町	san zhai ting	0
+三种町	san zhong ding	0
+三种町	san zhong ting	0
+三重郡	san chong jun	0
+三重县	san chong xian	0
+三重町	san chong ding	0
+三重町	san chong ting	0
+三珠町	san zhu ding	0
+三珠町	san zhu ting	0
+三郷村	san xiang cun	0
+三郷市	san xiang shi	0
+三郷町	san xiang ding	0
+三郷町	san xiang ting	0
+三潴郡	san zhu jun	0
+三潴町	san zhu ding	0
+三潴町	san zhu ting	0
+三笠市	san li shi	0
+桑名郡	sang ming jun	0
+桑名市	sang ming shi	0
+桑折町	sang zhe ding	0
+桑折町	sang zhe ting	0
+色麻町	se ma ding	0
+色麻町	se ma ting	0
+涩川市	se chuan shi	0
+森吉町	sen ji ding	0
+森吉町	sen ji ting	0
+森山町	sen shan ding	0
+森山町	sen shan ting	0
+森田村	sen tian cun	0
+森町	sen ding	0
+森町	sen ting	0
+砂川市	sha chuan shi	0
+砂原町	sha yuan ding	0
+砂原町	sha yuan ting	0
+沙流郡	sha liu jun	0
+苫前郡	shan qian jun	0
+苫前町	shan qian ding	0
+苫前町	shan qian ting	0
+苫小牧市	shan xiao mu shi	0
+杉并区	shan bing qu	0
+杉并区	sha bing qu	0
+杉户町	shan hu ding	0
+杉户町	shan hu ting	0
+山北町	shan bei ding	0
+山北町	shan bei ting	0
+山本郡	shan ben jun	0
+山本町	shan ben ding	0
+山本町	shan ben ting	0
+山边郡	shan bian jun	0
+山边町	shan bian ding	0
+山边町	shan bian ting	0
+山城町	shan cheng ding	0
+山城町	shan cheng ting	0
+山川町	shan chuan ding	0
+山川町	shan chuan ting	0
+山东町	shan dong ding	0
+山东町	shan dong ting	0
+山都町	shan dou ding	0
+山都町	shan dou ting	0
+山冈町	shan gang ding	0
+山冈町	shan gang ting	0
+山古志村	shan gu zhi cun	0
+山国町	shan guo ding	0
+山国町	shan guo ting	0
+山江村	shan jiang cun	0
+山科区	shan ke qu	0
+山口村	shan kou cun	0
+山口市	shan kou shi	0
+山口县	shan kou xian	0
+山梨市	shan li shi	0
+山梨县	shan li xian	0
+山鹿市	shan lu shi	0
+山南町	shan nan ding	0
+山南町	shan nan ting	0
+山内村	shan nei cun	0
+山内町	shan nei ding	0
+山内町	shan nei ting	0
+山崎町	shan qi ding	0
+山崎町	shan qi ting	0
+山手村	shan shou cun	0
+山添村	shan tian cun	0
+山田村	shan tian cun	0
+山田郡	shan tian jun	0
+山田市	shan tian shi	0
+山田町	shan tian ding	0
+山田町	shan tian ting	0
+山武郡	shan wu jun	0
+山武市	shan wu shi	0
+山县郡	shan xian jun	0
+山香町	shan xiang ding	0
+山香町	shan xiang ting	0
+山形村	shan xing cun	0
+山形市	shan xing shi	0
+山形县	shan xing xian	0
+山阳町	shan yang ding	0
+山阳町	shan yang ting	0
+山元町	shan yuan ding	0
+山元町	shan yuan ting	0
+山越郡	shan yue jun	0
+山之口町	shan zhi kou ding	0
+山之口町	shan zhi kou ting	0
+山之内町	shan zhi nei ding	0
+山之内町	shan zhi nei ting	0
+山中湖村	shan zhong hu cun	0
+山中町	shan zhong ding	0
+山中町	shan zhong ting	0
+山辺町	shan bian ding	0
+山辺町	shan bian ting	0
+山辺町	shan dao ding	0
+山辺町	shan dao ting	0
+善通寺市	shan tong si shi	0
+上対马町	shang dui ma ding	0
+上対马町	shang dui ma ting	0
+上板町	shang ban ding	0
+上板町	shang ban ting	0
+上宝村	shang bao cun	0
+上北郡	shang bei jun	0
+上北山村	shang bei shan cun	0
+上北町	shang bei ding	0
+上北町	shang bei ting	0
+上闭伊郡	shang bi yi jun	0
+上川村	shang chuan cun	0
+上川支厅	shang chuan zhi ting	0
+上川町	shang chuan ding	0
+上川町	shang chuan ting	0
+上村	shang cun	0
+上岛町	shang dao ding	0
+上岛町	shang dao ting	0
+上都贺郡	shang dou he jun	0
+上峰町	shang feng ding	0
+上峰町	shang feng ting	0
+上浮穴郡	shang fu xue jun	0
+上福冈市	shang fu gang shi	0
+上富良野町	shang fu liang ye ding	0
+上富良野町	shang fu liang ye ting	0
+上富田町	shang fu tian ding	0
+上富田町	shang fu tian ting	0
+上高井郡	shang gao jing jun	0
+上关町	shang guan ding	0
+上关町	shang guan ting	0
+上国町	shang guo ding	0
+上国町	shang guo ting	0
+上津江村	shang jin jiang cun	0
+上京区	shang jing qu	0
+上九一色村	shang jiu yi se cun	0
+上郡町	shang jun ding	0
+上郡町	shang jun ting	0
+上里町	shang li ding	0
+上里町	shang li ting	0
+上毛町	shang mao ding	0
+上毛町	shang mao ting	0
+上牧町	shang mu ding	0
+上牧町	shang mu ting	0
+上那贺町	shang na he ding	0
+上那贺町	shang na he ting	0
+上平村	shang ping cun	0
+上浦町	shang pu ding	0
+上浦町	shang pu ting	0
+上三川町	shang san chuan ding	0
+上三川町	shang san chuan ting	0
+上砂川町	shang sha chuan ding	0
+上砂川町	shang sha chuan ting	0
+上山市	shang shan shi	0
+上山田町	shang shan tian ding	0
+上山田町	shang shan tian ting	0
+上胜町	shang sheng ding	0
+上胜町	shang sheng ting	0
+上石津町	shang shi jin ding	0
+上石津町	shang shi jin ting	0
+上矢作町	shang shi zuo ding	0
+上矢作町	shang shi zuo ting	0
+上士幌町	shang shi huang ding	0
+上士幌町	shang shi huang ting	0
+上市町	shang shi ding	0
+上市町	shang shi ting	0
+上水内郡	shang shui nei jun	0
+上松町	shang song ding	0
+上松町	shang song ting	0
+上天草市	shang tian cao shi	0
+上田市	shang tian shi	0
+上尾市	shang wei shi	0
+上屋久町	shang wu jiu ding	0
+上屋久町	shang wu jiu ting	0
+上五岛町	shang wu dao ding	0
+上五岛町	shang wu dao ting	0
+上下町	shang xia ding	0
+上下町	shang xia ting	0
+上县町	shang xian ding	0
+上县町	shang xian ting	0
+上小阿仁村	shang xiao a ren cun	0
+上阳町	shang yang ding	0
+上阳町	shang yang ting	0
+上野村	shang ye cun	0
+上野市	shang ye shi	0
+上野原市	shang ye yuan shi	0
+上野原町	shang ye yuan ding	0
+上野原町	shang ye yuan ting	0
+上伊那郡	shang yi na jun	0
+上益城郡	shang yi cheng jun	0
+上涌别町	shang yong bie ding	0
+上涌别町	shang yong bie ting	0
+上越市	shang yue shi	0
+上月町	shang yue ding	0
+上月町	shang yue ting	0
+上斋原村	shang zhai yuan cun	0
+上之保村	shang zhi bao cun	0
+上之国町	shang zhi guo ding	0
+上之国町	shang zhi guo ting	0
+上志比村	shang zhi bi cun	0
+上中町	shang zhong ding	0
+上中町	shang zhong ting	0
+上関町	shang guan ding	0
+上関町	shang guan ting	0
+上甑村	shang zeng cun	0
+上矶郡	shang ji jun	0
+上矶町	shang ji ding	0
+上矶町	shang ji ting	0
+烧津市	shao jin shi	0
+摄津市	she jin shi	0
+社町	she ding	0
+社町	she ting	0
+设楽町	she le ding	0
+设楽町	she le ting	0
+设乐町	she le ding	0
+设乐町	she le ting	0
+设乐町	she yue ding	0
+设乐町	she yue ting	0
+身延町	shen yan ding	0
+身延町	shen yan ting	0
+深川市	shen chuan shi	0
+深谷市	shen gu shi	0
+深江町	shen jiang ding	0
+深江町	shen jiang ting	0
+深浦町	shen pu ding	0
+深浦町	shen pu ting	0
+深田村	shen tian cun	0
+神埼郡	shen qi jun	0
+神埼町	shen qi ding	0
+神埼町	shen qi ting	0
+神恵内村	shen hui nei cun	0
+神戸市	shen hu shi	0
+神戸町	shen hu ding	0
+神戸町	shen hu ting	0
+神川町	shen chuan ding	0
+神川町	shen chuan ting	0
+神冈町	shen gang ding	0
+神冈町	shen gang ting	0
+神河町	shen he ding	0
+神河町	shen he ting	0
+神户町	shen hu ding	0
+神户町	shen hu ting	0
+神惠内村	shen hui nei cun	0
+神林村	shen lin cun	0
+神流町	shen liu ding	0
+神流町	shen liu ting	0
+神奈川区	shen nai chuan qu	0
+神奈川县	shen nai chuan xian	0
+神栖市	shen qi shi	0
+神栖市	shen xi shi	0
+神崎郡	shen qi jun	0
+神崎町	shen qi ding	0
+神崎町	shen qi ting	0
+神山町	shen shan ding	0
+神山町	shen shan ting	0
+神石高原町	shen shi gao yuan ding	0
+神石高原町	shen shi gao yuan ting	0
+神石郡	shen shi jun	0
+神石町	shen shi ding	0
+神石町	shen shi ting	0
+神辺町	shen bian ding	0
+神辺町	shen bian ting	0
+神辺町	shen dao ding	0
+神辺町	shen dao ting	0
+神郷町	shen xiang ding	0
+神郷町	shen xiang ting	0
+甚目寺町	shen mu si ding	0
+甚目寺町	shen mu si ting	0
+生驹郡	sheng ju jun	0
+生驹市	sheng ju shi	0
+生名村	sheng ming cun	0
+生田原町	sheng tian yuan ding	0
+生田原町	sheng tian yuan ting	0
+生野区	sheng ye qu	0
+生野町	sheng ye ding	0
+生野町	sheng ye ting	0
+生月町	sheng yue ding	0
+生月町	sheng yue ting	0
+生坂村	sheng ban cun	0
+蔵王町	zang wang ding	0
+蔵王町	zang wang ting	0
+盛冈市	sheng gang shi	0
+盛冈市	cheng gang shi	0
+胜北町	sheng bei ding	0
+胜北町	sheng bei ting	0
+胜本町	sheng ben ding	0
+胜本町	sheng ben ting	0
+胜连町	sheng lian ding	0
+胜连町	sheng lian ting	0
+胜浦郡	sheng pu jun	0
+胜浦市	sheng pu shi	0
+胜浦町	sheng pu ding	0
+胜浦町	sheng pu ting	0
+胜山村	sheng shan cun	0
+胜山市	sheng shan shi	0
+胜山町	sheng shan ding	0
+胜山町	sheng shan ting	0
+胜田町	sheng tian ding	0
+胜田町	sheng tian ting	0
+胜央町	sheng yang ding	0
+胜央町	sheng yang ting	0
+胜沼町	sheng zhao ding	0
+胜沼町	sheng zhao ting	0
+圣笼町	sheng long ding	0
+圣笼町	sheng long ting	0
+师胜町	shi sheng ding	0
+师胜町	shi sheng ting	0
+十岛村	shi dao cun	0
+十和村	shi he cun	0
+十和田湖町	shi he tian hu ding	0
+十和田湖町	shi he tian hu ting	0
+十和田市	shi he tian shi	0
+十津川村	shi jin chuan cun	0
+十日町市	shi ri ding shi	0
+十日町市	shi ri ting shi	0
+十胜国	shi sheng guo	0
+十胜郡	shi sheng jun	0
+十胜支厅	shi sheng zhi ting	0
+十四山村	shi si shan cun	0
+十文字町	shi wen zi ding	0
+十文字町	shi wen zi ting	0
+石巻市	shi juan shi	0
+石部町	shi bu ding	0
+石部町	shi bu ting	0
+石川郡	shi chuan jun	0
+石川市	shi chuan shi	0
+石川县	shi chuan xian	0
+石川町	shi chuan ding	0
+石川町	shi chuan ting	0
+石冈市	shi gang shi	0
+石和町	shi he ding	0
+石和町	shi he ting	0
+石见町	shi jian ding	0
+石见町	shi jian ting	0
+石井町	shi jing ding	0
+石井町	shi jing ting	0
+石卷市	shi juan shi	0
+石鸟谷町	shi niao gu ding	0
+石鸟谷町	shi niao gu ting	0
+石田町	shi tian ding	0
+石田町	shi tian ting	0
+石垣市	shi yuan shi	0
+石越町	shi yue ding	0
+石越町	shi yue ting	0
+石狩国	shi shou guo	0
+石狩郡	shi shou jun	0
+石狩市	shi shou shi	0
+石狩支厅	shi shou zhi ting	0
+时津町	shi jin ding	0
+时津町	shi jin ting	0
+矢板市	shi ban shi	0
+矢本町	shi ben ding	0
+矢本町	shi ben ting	0
+矢部村	shi bu cun	0
+矢部町	shi bu ding	0
+矢部町	shi bu ting	0
+矢吹町	shi chui ding	0
+矢吹町	shi chui ting	0
+矢岛町	shi dao ding	0
+矢岛町	shi dao ting	0
+矢挂町	shi gua ding	0
+矢挂町	shi gua ting	0
+矢祭町	shi ji ding	0
+矢祭町	shi ji ting	0
+矢巾町	shi jin ding	0
+矢巾町	shi jin ting	0
+士别市	shi bie shi	0
+士幌町	shi huang ding	0
+士幌町	shi huang ting	0
+世罗郡	shi luo jun	0
+世罗西町	shi luo xi ding	0
+世罗西町	shi luo xi ting	0
+世罗町	shi luo ding	0
+世罗町	shi luo ting	0
+世田谷区	shi tian gu qu	0
+世知原町	shi zhi yuan ding	0
+世知原町	shi zhi yuan ting	0
+柿木村	shi mu cun	0
+柿崎町	shi qi ding	0
+柿崎町	shi qi ting	0
+势多郡	shi duo jun	0
+势和村	shi he cun	0
+市贝町	shi bei ding	0
+市贝町	shi bei ting	0
+市部	shi bu	0
+市场町	shi chang ding	0
+市场町	shi chang ting	0
+市川大门町	shi chuan da men ding	0
+市川大门町	shi chuan da men ting	0
+市川市	shi chuan shi	0
+市川町	shi chuan ding	0
+市川町	shi chuan ting	0
+市岛町	shi dao ding	0
+市岛町	shi dao ting	0
+市来串木野市	shi lai chuan mu ye shi	0
+市来町	shi lai ding	0
+市来町	shi lai ting	0
+市浦村	shi pu cun	0
+市原市	shi yuan shi	0
+室戸市	shi hu shi	0
+室根村	shi gen cun	0
+室户市	shi hu shi	0
+室兰市	shi lan shi	0
+室生村	shi sheng cun	0
+手稻区	shou dao qu	0
+守谷市	shou gu shi	0
+守口市	shou kou shi	0
+守门村	shou men cun	0
+守山区	shou shan qu	0
+守山市	shou shan shi	0
+寿都郡	shou dou jun	0
+寿都郡	shou du jun	0
+寿都町	shou dou ding	0
+寿都町	shou dou ting	0
+寿都町	shou du ding	0
+双海町	shuang hai ding	0
+双海町	shuang hai ting	0
+双叶郡	shuang ye jun	0
+双叶町	shuang ye ding	0
+双叶町	shuang ye ting	0
+水巻町	shui juan ding	0
+水巻町	shui juan ting	0
+水戸市	shui hu shi	0
+水沢市	shui ze shi	0
+水海道市	shui hai dao shi	0
+水户市	shui hu shi	0
+水卷町	shui juan ding	0
+水卷町	shui juan ting	0
+水口町	shui kou ding	0
+水口町	shui kou ting	0
+水上村	shui shang cun	0
+水上町	shui shang ding	0
+水上町	shui shang ting	0
+水洼町	shui wa ding	0
+水洼町	shui wa ting	0
+水原町	shui yuan ding	0
+水原町	shui yuan ting	0
+水泽市	shui ze shi	0
+水俣市	shui yu shi	0
+寺泊町	si bo ding	0
+寺泊町	si bo ting	0
+寺泊町	si po ding	0
+寺泊町	si po ting	0
+寺井町	si jing ding	0
+寺井町	si jing ting	0
+四国中央市	si guo zhong yang shi	0
+四贺村	si he cun	0
+四街道市	si jie dao shi	0
+四日市市	si ri shi shi	0
+四条畷市	si tiao zhui shi	0
+四万十市	si wan shi shi	0
+四万十町	si wan shi ding	0
+四万十町	si wan shi ting	0
+松戸市	song hu shi	0
+松本市	song ben shi	0
+松川村	song chuan cun	0
+松川町	song chuan ding	0
+松川町	song chuan ting	0
+松代町	song dai ding	0
+松代町	song dai ting	0
+松岛町	song dao ding	0
+松岛町	song dao ting	0
+松冈町	song gang ding	0
+松冈町	song gang ting	0
+松户市	song hu shi	0
+松江市	song jiang shi	0
+松茂町	song mao ding	0
+松茂町	song mao ting	0
+松浦市	song pu shi	0
+松崎町	song qi ding	0
+松崎町	song qi ting	0
+松前郡	song qian jun	0
+松前町	song qian ding	0
+松前町	song qian ting	0
+松桥町	song qiao ding	0
+松桥町	song qiao ting	0
+松任市	song ren shi	0
+松山市	song shan shi	0
+松山町	song shan ding	0
+松山町	song shan ting	0
+松田町	song tian ding	0
+松田町	song tian ting	0
+松尾村	song wei cun	0
+松野町	song ye ding	0
+松野町	song ye ting	0
+松元町	song yuan ding	0
+松元町	song yuan ting	0
+松原市	song yuan shi	0
+松之山町	song zhi shan ding	0
+松之山町	song zhi shan ting	0
+松阪市	song ban shi	0
+松坂市	song ban shi	0
+苏阳町	su yang ding	0
+苏阳町	su yang ting	0
+速见郡	su jian jun	0
+粟岛浦村	su dao pu cun	0
+粟国村	su guo cun	0
+宿毛市	su mao shi	0
+宿毛市	xiu mao shi	0
+所沢市	suo ze shi	0
+所泽市	suo ze shi	0
+台东区	tai dong qu	0
+泰阜村	tai fu cun	0
+太白区	tai bai qu	0
+太地町	tai di ding	0
+太地町	tai di ting	0
+太地町	tai de ding	0
+太地町	tai de ting	0
+太良町	tai liang ding	0
+太良町	tai liang ting	0
+太田市	tai tian shi	0
+太田町	tai tian ding	0
+太田町	tai tian ting	0
+太宰府市	tai zai fu shi	0
+太子町	tai zi ding	0
+太子町	tai zi ting	0
+滩崎町	tan qi ding	0
+滩崎町	tan qi ting	0
+滩区	tan qu	0
+汤沢市	tang ze shi	0
+汤沢町	tang ze ding	0
+汤沢町	tang ze ting	0
+汤布院町	tang bu yuan ding	0
+汤布院町	tang bu yuan ting	0
+汤川村	tang chuan cun	0
+汤河原町	tang he yuan ding	0
+汤河原町	tang he yuan ting	0
+汤来町	tang lai ding	0
+汤来町	tang lai ting	0
+汤梨滨町	tang li bin ding	0
+汤梨滨町	tang li bin ting	0
+汤前町	tang qian ding	0
+汤前町	tang qian ting	0
+汤浅町	tang qian ding	0
+汤浅町	tang qian ting	0
+汤田町	tang tian ding	0
+汤田町	tang tian ting	0
+汤原町	tang yuan ding	0
+汤原町	tang yuan ting	0
+汤之谷村	tang zhi gu cun	0
+唐津市	tang jin shi	0
+唐桑町	tang sang ding	0
+唐桑町	tang sang ting	0
+桃山町	tao shan ding	0
+桃山町	tao shan ting	0
+桃生町	tao sheng ding	0
+桃生町	tao sheng ting	0
+藤沢市	teng ze shi	0
+藤沢町	teng ze ding	0
+藤沢町	teng ze ting	0
+藤岛町	teng dao ding	0
+藤岛町	teng dao ting	0
+藤冈市	teng gang shi	0
+藤冈町	teng gang ding	0
+藤冈町	teng gang ting	0
+藤津郡	teng jin jun	0
+藤井寺市	teng jing si shi	0
+藤里町	teng li ding	0
+藤里町	teng li ting	0
+藤崎町	teng qi ding	0
+藤崎町	teng qi ting	0
+藤桥村	teng qiao cun	0
+藤原町	teng yuan ding	0
+藤原町	teng yuan ting	0
+藤泽市	teng ze shi	0
+藤枝市	teng zhi shi	0
+天塩町	tian yan ding	0
+天塩町	tian yan ting	0
+天栄村	tian rong cun	0
+天瀬町	tian lai ding	0
+天瀬町	tian lai ting	0
+天草郡	tian cao jun	0
+天草町	tian cao ding	0
+天草町	tian cao ting	0
+天城汤岛町	tian cheng tang dao ding	0
+天城汤岛町	tian cheng tang dao ting	0
+天城町	tian cheng ding	0
+天城町	tian cheng ting	0
+天川村	tian chuan cun	0
+天竜市	tian neng shi	0
+天竜市	tian long shi	0
+天间林村	tian jian lin cun	0
+天理市	tian li shi	0
+天龙村	tian long cun	0
+天龙区	tian long qu	0
+天水町	tian shui ding	0
+天水町	tian shui ting	0
+天童市	tian tong shi	0
+天王寺区	tian wang si qu	0
+天王町	tian wang ding	0
+天王町	tian wang ting	0
+天盐国	tian yan guo	0
+天盐郡	tian yan jun	0
+天盐町	tian yan ding	0
+天盐町	tian yan ting	0
+添田町	tian tian ding	0
+添田町	tian tian ting	0
+田沢湖町	tian ze hu ding	0
+田沢湖町	tian ze hu ting	0
+田边市	tian bian shi	0
+田布施町	tian bu shi ding	0
+田布施町	tian bu shi ting	0
+田川郡	tian chuan jun	0
+田川市	tian chuan shi	0
+田村郡	tian cun jun	0
+田村市	tian cun shi	0
+田代町	tian dai ding	0
+田代町	tian dai ting	0
+田岛町	tian dao ding	0
+田岛町	tian dao ting	0
+田方郡	tian fang jun	0
+田富町	tian fu ding	0
+田富町	tian fu ting	0
+田鹤浜町	tian he bang ding	0
+田鹤浜町	tian he bang ting	0
+田老町	tian lao ding	0
+田老町	tian lao ting	0
+田舎馆村	tian she guan cun	0
+田平町	tian ping ding	0
+田平町	tian ping ting	0
+田浦町	tian pu ding	0
+田浦町	tian pu ting	0
+田上町	tian shang ding	0
+田上町	tian shang ting	0
+田舍馆村	tian she guan cun	0
+田万川町	tian wan chuan ding	0
+田万川町	tian wan chuan ting	0
+田野畑村	tian ye tian cun	0
+田野町	tian ye ding	0
+田野町	tian ye ting	0
+田原本町	tian yuan ben ding	0
+田原本町	tian yuan ben ting	0
+田原市	tian yuan shi	0
+田原町	tian yuan ding	0
+田原町	tian yuan ting	0
+田主丸町	tian zhu wan ding	0
+田主丸町	tian zhu wan ting	0
+田子町	tian zi ding	0
+田子町	tian zi ting	0
+田辺市	tian bian shi	0
+田辺市	tian dao shi	0
+田尻町	tian kao ding	0
+田尻町	tian kao ting	0
+桐生市	tong sheng shi	0
+桶川市	tong chuan shi	0
+筒贺村	tong he cun	0
+土成町	tu cheng ding	0
+土成町	tu cheng ting	0
+土肥町	tu fei ding	0
+土肥町	tu fei ting	0
+土居町	tu ju ding	0
+土居町	tu ju ting	0
+土浦市	tu pu shi	0
+土山町	tu shan ding	0
+土山町	tu shan ting	0
+土庄町	tu zhuang ding	0
+土庄町	tu zhuang ting	0
+土佐郡	tu zuo jun	0
+土佐清水市	tu zuo qing shui shi	0
+土佐山村	tu zuo shan cun	0
+土佐山田町	tu zuo shan tian ding	0
+土佐山田町	tu zuo shan tian ting	0
+土佐市	tu zuo shi	0
+土佐町	tu zuo ding	0
+土岐市	tu qi shi	0
+洼川町	wa chuan ding	0
+洼川町	wa chuan ting	0
+外滨町	wai bin ding	0
+外滨町	wai bin ting	0
+外海町	wai hai ding	0
+外海町	wai hai ting	0
+丸亀市	wan gui shi	0
+丸瀬布町	wan lai bu ding	0
+丸瀬布町	wan lai bu ting	0
+丸冈町	wan gang ding	0
+丸冈町	wan gang ting	0
+丸龟市	wan gui shi	0
+丸森町	wan sen ding	0
+丸森町	wan sen ting	0
+丸子町	wan zi ding	0
+丸子町	wan zi ting	0
+王滝村	wang long cun	0
+王寺町	wang si ding	0
+王寺町	wang si ting	0
+王泷村	wang long cun	0
+网野町	wang ye ding	0
+网野町	wang ye ting	0
+网走郡	wang zou jun	0
+网走市	wang zou shi	0
+网走支厅	wang zou zhi ting	0
+望月町	wang yue ding	0
+望月町	wang yue ting	0
+苇北郡	wei bei jun	0
+尾道市	wei dao shi	0
+尾花沢市	wei hua ze shi	0
+尾花泽市	wei hua ze shi	0
+尾口村	wei kou cun	0
+尾上町	wei shang ding	0
+尾上町	wei shang ting	0
+尾西市	wei xi shi	0
+尾张旭市	wei zhang xu shi	0
+尾鹫市	wei jiu shi	0
+味方村	wei fang cun	0
+温海町	wen hai ding	0
+温海町	wen hai ting	0
+温泉津町	wen quan jin ding	0
+温泉津町	wen quan jin ting	0
+温泉町	wen quan ding	0
+温泉町	wen quan ting	0
+文京区	wen jing qu	0
+纹别郡	wen bie jun	0
+纹别市	wen bie shi	0
+我孙子市	wo sun zi shi	0
+屋久町	wu jiu ding	0
+屋久町	wu jiu ting	0
+吾北村	wu bei cun	0
+吾川村	wu chuan cun	0
+吾川郡	wu chuan jun	0
+吾平町	wu ping ding	0
+吾平町	wu ping ting	0
+吾妻郡	wu qi jun	0
+吾妻町	wu qi ding	0
+吾妻町	wu qi ting	0
+吴市	wu shi	0
+武藏村山市	wu zang cun shan shi	0
+武川村	wu chuan cun	0
+武丰町	wu feng ding	0
+武丰町	wu feng ting	0
+武生市	wu sheng shi	0
+武蔵村山市	wu zang cun shan shi	0
+武蔵野市	wu zang ye shi	0
+武蔵町	wu zang ding	0
+武蔵町	wu zang ting	0
+武石村	wu shi cun	0
+武雄市	wu xiong shi	0
+武仪町	wu yi ding	0
+武仪町	wu yi ting	0
+武豊町	wu feng ding	0
+武豊町	wu feng ting	0
+武豊町	wu li ding	0
+武豊町	wu li ting	0
+武芸川町	wu yun chuan ding	0
+武芸川町	wu yun chuan ting	0
+五戸町	wu hu ding	0
+五戸町	wu hu ting	0
+五瀬町	wu lai ding	0
+五瀬町	wu lai ting	0
+五城目町	wu cheng mu ding	0
+五城目町	wu cheng mu ting	0
+五个荘町	wu ge zhuang ding	0
+五个荘町	wu ge zhuang ting	0
+五箇村	wu ge cun	0
+五和町	wu he ding	0
+五和町	wu he ting	0
+五木村	wu mu cun	0
+五泉市	wu quan shi	0
+五色町	wu se ding	0
+五色町	wu se ting	0
+五十崎町	wu shi qi ding	0
+五十崎町	wu shi qi ting	0
+五所川原市	wu suo chuan yuan shi	0
+五条市	wu tiao shi	0
+五霞町	wu xia ding	0
+五霞町	wu xia ting	0
+舞鹤市	wu he shi	0
+舞坂町	wu ban ding	0
+舞坂町	wu ban ting	0
+雾岛市	wu dao shi	0
+雾岛町	wu dao ding	0
+雾岛町	wu dao ting	0
+物部村	wu bu cun	0
+西八代郡	xi ba dai jun	0
+西白河郡	xi bai he jun	0
+西彼町	xi bi ding	0
+西彼町	xi bi ting	0
+西伯郡	xi bo jun	0
+西伯郡	xi bai jun	0
+西伯町	xi bo ding	0
+西伯町	xi bo ting	0
+西伯町	xi bai ding	0
+西城町	xi cheng ding	0
+西城町	xi cheng ting	0
+西成区	xi cheng qu	0
+西川町	xi chuan ding	0
+西川町	xi chuan ting	0
+西春日井郡	xi chun ri jing jun	0
+西春町	xi chun ding	0
+西春町	xi chun ting	0
+西茨城郡	xi ci cheng jun	0
+西村山郡	xi cun shan jun	0
+西岛町	xi dao ding	0
+西岛町	xi dao ting	0
+西淀川区	xi dian chuan qu	0
+西东京市	xi dong jing shi	0
+西都市	xi du shi	0
+西方町	xi fang ding	0
+西方町	xi fang ting	0
+西根町	xi gen ding	0
+西根町	xi gen ting	0
+西宫市	xi gong shi	0
+西桂町	xi gui ding	0
+西桂町	xi gui ting	0
+西海町	xi hai ding	0
+西海町	xi hai ting	0
+西和贺町	xi he he ding	0
+西和贺町	xi he he ting	0
+西合志町	xi he zhi ding	0
+西合志町	xi he zhi ting	0
+西会津町	xi hui jin ding	0
+西会津町	xi hui jin ting	0
+西吉野村	xi ji ye cun	0
+西加茂郡	xi jia mao jun	0
+西津轻郡	xi jin qing jun	0
+西臼杵郡	xi jiu chu jun	0
+西脇市	xi xie shi	0
+西米良村	xi mi liang cun	0
+西牟娄郡	xi mu lou jun	0
+西牟娄郡	xi mou lou jun	0
+西木村	xi mu cun	0
+西目屋村	xi mu wu cun	0
+西目町	xi mu ding	0
+西目町	xi mu ting	0
+西磐井郡	xi pan jing jun	0
+西浅井町	xi qian jing ding	0
+西浅井町	xi qian jing ting	0
+西区	xi qu	0
+西山町	xi shan ding	0
+西山町	xi shan ting	0
+西松浦郡	xi song pu jun	0
+西粟仓村	xi su cang cun	0
+西条市	xi tiao shi	0
+西土佐村	xi tu zuo cun	0
+西尾市	xi wei shi	0
+西仙北町	xi xian bei ding	0
+西仙北町	xi xian bei ting	0
+西乡村	xi xiang cun	0
+西胁市	xi xie shi	0
+西兴部村	xi xing bu cun	0
+西伊豆町	xi yi dou ding	0
+西伊豆町	xi yi dou ting	0
+西有家町	xi you jia ding	0
+西有家町	xi you jia ting	0
+西有田町	xi you tian ding	0
+西有田町	xi you tian ting	0
+西予市	xi yu shi	0
+西宇和郡	xi yu he jun	0
+西原村	xi yuan cun	0
+西原町	xi yuan ding	0
+西原町	xi yuan ting	0
+西之表市	xi zhi biao shi	0
+西之岛町	xi zhi dao ding	0
+西之岛町	xi zhi dao ting	0
+西置赐郡	xi zhi ci jun	0
+西诸县郡	xi zhu xian jun	0
+西祖谷山村	xi zu gu shan cun	0
+西郷村	xi xiang cun	0
+西郷町	xi xiang ding	0
+西郷町	xi xiang ting	0
+西澹町	xi dan ding	0
+西澹町	xi tan ding	0
+西澹町	xi dan ting	0
+西澹町	xi tan ting	0
+西枇杷岛町	xi pi pa dao ding	0
+西枇杷岛町	xi pi pa dao ting	0
+夕张郡	xi zhang jun	0
+夕张市	xi zhang shi	0
+犀川町	xi chuan ding	0
+犀川町	xi chuan ting	0
+习志野市	xi zhi ye shi	0
+喜多方市	xi duo fang shi	0
+喜多郡	xi duo jun	0
+喜界町	xi jie ding	0
+喜界町	xi jie ting	0
+喜茂别町	xi mao bie ding	0
+喜茂别町	xi mao bie ting	0
+喜入町	xi ru ding	0
+喜入町	xi ru ting	0
+细江町	xi jiang ding	0
+细江町	xi jiang ting	0
+细入村	xi ru cun	0
+霞浦市	xia pu shi	0
+狭山市	xia shan shi	0
+下北郡	xia bei jun	0
+下北山村	xia bei shan cun	0
+下闭伊郡	xia bi yi jun	0
+下部町	xia bu ding	0
+下部町	xia bu ting	0
+下川町	xia chuan ding	0
+下川町	xia chuan ting	0
+下村	xia cun	0
+下地町	xia di ding	0
+下地町	xia di ting	0
+下都贺郡	xia dou he jun	0
+下高井郡	xia gao jing jun	0
+下关市	xia guan shi	0
+下馆市	xia guan shi	0
+下津町	xia jin ding	0
+下津町	xia jin ting	0
+下京区	xia jing qu	0
+下吕町	xia lv ding	0
+下吕町	xia lv ting	0
+下蒲刈町	xia pu yi ding	0
+下蒲刈町	xia pu yi ting	0
+下妻市	xia qi shi	0
+下仁田町	xia ren tian ding	0
+下仁田町	xia ren tian ting	0
+下山村	xia shan cun	0
+下市町	xia shi ding	0
+下市町	xia shi ting	0
+下水内郡	xia shui nei jun	0
+下松市	xia song shi	0
+下田村	xia tian cun	0
+下田市	xia tian shi	0
+下田町	xia tian ding	0
+下田町	xia tian ting	0
+下条村	xia tiao cun	0
+下乡町	xia xiang ding	0
+下乡町	xia xiang ting	0
+下新川郡	xia xin chuan jun	0
+下野市	xia ye shi	0
+下伊那郡	xia yi na jun	0
+下益城郡	xia yi cheng jun	0
+下诹访町	xia zou fang ding	0
+下诹访町	xia zou fang ting	0
+下郷町	xia xiang ding	0
+下郷町	xia xiang ting	0
+下関市	xia guan shi	0
+下甑村	xia zeng cun	0
+仙北郡	xian bei jun	0
+仙北町	xian bei ding	0
+仙北町	xian bei ting	0
+仙南村	xian nan cun	0
+仙台市	xian tai shi	0
+相川町	xiang chuan ding	0
+相川町	xiang chuan ting	0
+相乐郡	xiang le jun	0
+相乐郡	xiang yue jun	0
+相良村	xiang liang cun	0
+相良町	xiang liang ding	0
+相良町	xiang liang ting	0
+相马村	xiang ma cun	0
+相马郡	xiang ma jun	0
+相马市	xiang ma shi	0
+相模原市	xiang mo yuan shi	0
+相模原市	xiang mu yuan shi	0
+相生市	xiang sheng shi	0
+相生町	xiang sheng ding	0
+相生町	xiang sheng ting	0
+相知町	xiang zhi ding	0
+相知町	xiang zhi ting	0
+香焼町	xiang shao ding	0
+香焼町	xiang shao ting	0
+香北町	xiang bei ding	0
+香北町	xiang bei ting	0
+香川郡	xiang chuan jun	0
+香川县	xiang chuan xian	0
+香川町	xiang chuan ding	0
+香川町	xiang chuan ting	0
+香春町	xiang chun ding	0
+香春町	xiang chun ting	0
+香地町	xiang di ding	0
+香地町	xiang di ting	0
+香地町	xiang de ding	0
+香地町	xiang de ting	0
+香良洲町	xiang liang zhou ding	0
+香良洲町	xiang liang zhou ting	0
+香美町	xiang mei ding	0
+香美町	xiang mei ting	0
+香南市	xiang nan shi	0
+香南町	xiang nan ding	0
+香南町	xiang nan ting	0
+香取郡	xiang qu jun	0
+香取市	xiang qu shi	0
+香寺町	xiang si ding	0
+香寺町	xiang si ting	0
+香我美町	xiang wo mei ding	0
+香我美町	xiang wo mei ting	0
+香芝市	xiang zhi shi	0
+香住町	xiang zhu ding	0
+香住町	xiang zhu ting	0
+箱根町	xiang gen ding	0
+箱根町	xiang gen ting	0
+向岛町	xiang dao ding	0
+向岛町	xiang dao ting	0
+向日市	xiang ri shi	0
+向原町	xiang yuan ding	0
+向原町	xiang yuan ting	0
+象潟町	xiang xi ding	0
+象潟町	xiang xi ting	0
+小値贺町	xiao zhi he ding	0
+小値贺町	xiao zhi he ting	0
+小滨市	xiao bin shi	0
+小泊村	xiao bo cun	0
+小泊村	xiao po cun	0
+小布施町	xiao bu shi ding	0
+小布施町	xiao bu shi ting	0
+小仓北区	xiao cang bei qu	0
+小仓南区	xiao cang nan qu	0
+小长井町	xiao zhang jing ding	0
+小长井町	xiao chang jing ding	0
+小长井町	xiao zhang jing ting	0
+小长井町	xiao chang jing ting	0
+小城市	xiao cheng shi	0
+小城町	xiao cheng ding	0
+小城町	xiao cheng ting	0
+小出町	xiao chu ding	0
+小出町	xiao chu ting	0
+小川村	xiao chuan cun	0
+小川町	xiao chuan ding	0
+小川町	xiao chuan ting	0
+小豆岛町	xiao dou dao ding	0
+小豆岛町	xiao dou dao ting	0
+小豆郡	xiao dou jun	0
+小高町	xiao gao ding	0
+小高町	xiao gao ting	0
+小谷村	xiao gu cun	0
+小国町	xiao guo ding	0
+小国町	xiao guo ting	0
+小海町	xiao hai ding	0
+小海町	xiao hai ting	0
+小金井市	xiao jin jing shi	0
+小郡市	xiao jun shi	0
+小郡町	xiao jun ding	0
+小郡町	xiao jun ting	0
+小林市	xiao lin shi	0
+小鹿野町	xiao lu ye ding	0
+小鹿野町	xiao lu ye ting	0
+小美玉市	xiao mei yu shi	0
+小木町	xiao mu ding	0
+小木町	xiao mu ting	0
+小牧市	xiao mu shi	0
+小牛田町	xiao niu tian ding	0
+小牛田町	xiao niu tian ting	0
+小平市	xiao ping shi	0
+小平町	xiao ping ding	0
+小平町	xiao ping ting	0
+小千谷市	xiao qian gu shi	0
+小清水町	xiao qing shui ding	0
+小清水町	xiao qing shui ting	0
+小杉町	xiao shan ding	0
+小杉町	xiao shan ting	0
+小山市	xiao shan shi	0
+小山町	xiao shan ding	0
+小山町	xiao shan ting	0
+小石原村	xiao shi yuan cun	0
+小矢部市	xiao shi bu shi	0
+小松岛市	xiao song dao shi	0
+小松市	xiao song shi	0
+小松町	xiao song ding	0
+小松町	xiao song ting	0
+小田原市	xiao tian yuan shi	0
+小田町	xiao tian ding	0
+小田町	xiao tian ting	0
+小县郡	xiao xian jun	0
+小须戸町	xiao xu hu ding	0
+小须戸町	xiao xu hu ting	0
+小野市	xiao ye shi	0
+小野田市	xiao ye tian shi	0
+小野田町	xiao ye tian ding	0
+小野田町	xiao ye tian ting	0
+小野町	xiao ye ding	0
+小野町	xiao ye ting	0
+小渊沢町	xiao yuan ze ding	0
+小渊沢町	xiao yuan ze ting	0
+小原村	xiao yuan cun	0
+小诸市	xiao zhu shi	0
+小竹町	xiao zhu ding	0
+小竹町	xiao zhu ting	0
+小佐町	xiao zuo ding	0
+小俣町	xiao yu ding	0
+小俣町	xiao yu ting	0
+小坂井町	xiao ban jing ding	0
+小坂井町	xiao ban jing ting	0
+小坂町	xiao ban ding	0
+小坂町	xiao ban ting	0
+小菅村	xiao jian cun	0
+小浜市	xiao bang shi	0
+小浜町	xiao bang ding	0
+小浜町	xiao bang ting	0
+小樽市	xiao zun shi	0
+小笠原村	xiao li yuan cun	0
+小笠町	xiao li ding	0
+小笠町	xiao li ting	0
+协和町	xie he ding	0
+协和町	xie he ting	0
+挟间町	xie jian ding	0
+挟间町	xie jian ting	0
+斜里郡	xie li jun	0
+斜里町	xie li ding	0
+斜里町	xie li ting	0
+蟹江町	xie jiang ding	0
+蟹江町	xie jiang ting	0
+蟹田町	xie tian ding	0
+蟹田町	xie tian ting	0
+新潟市	xin xi shi	0
+新潟县	xin xi xian	0
+新発田市	xin fa tian shi	0
+新城市	xin cheng shi	0
+新川町	xin chuan ding	0
+新川町	xin chuan ting	0
+新凑市	xin cou shi	0
+新得町	xin de ding	0
+新得町	xin de ting	0
+新地町	xin di ding	0
+新地町	xin di ting	0
+新穂村	xin sui cun	0
+新富町	xin fu ding	0
+新富町	xin fu ting	0
+新宫村	xin gong cun	0
+新宫市	xin gong shi	0
+新宫町	xin gong ding	0
+新宫町	xin gong ting	0
+新冠郡	xin guan jun	0
+新冠町	xin guan ding	0
+新冠町	xin guan ting	0
+新篠津村	xin xiao jin cun	0
+新和町	xin he ding	0
+新和町	xin he ting	0
+新鹤村	xin he cun	0
+新吉富村	xin ji fu cun	0
+新见市	xin jian shi	0
+新津市	xin jin shi	0
+新井市	xin jing shi	0
+新居滨市	xin ju bin shi	0
+新居浜市	xin ju bang shi	0
+新居町	xin ju ding	0
+新居町	xin ju ting	0
+新里村	xin li cun	0
+新南阳市	xin nan yang shi	0
+新日高町	xin ri gao ding	0
+新日高町	xin ri gao ting	0
+新十津川町	xin shi jin chuan ding	0
+新十津川町	xin shi jin chuan ting	0
+新市町	xin shi ding	0
+新市町	xin shi ting	0
+新宿区	xin su qu	0
+新田郡	xin tian jun	0
+新乡村	xin xiang cun	0
+新泻县	xin xie xian	0
+新旭町	xin xu ding	0
+新旭町	xin xu ting	0
+新鱼目町	xin yu mu ding	0
+新鱼目町	xin yu mu ting	0
+新治郡	xin zhi jun	0
+新庄村	xin zhuang cun	0
+新庄市	xin zhuang shi	0
+新庄町	xin zhuang ding	0
+新庄町	xin zhuang ting	0
+新座市	xin zuo shi	0
+新郷村	xin xiang cun	0
+新筱津村	xin xiao jin cun	0
+信楽町	xin le ding	0
+信楽町	xin le ting	0
+信浓町	xin nong ding	0
+信浓町	xin nong ting	0
+信州新町	xin zhou xin ding	0
+信州新町	xin zhou xin ting	0
+星野村	xing ye cun	0
+兴部町	xing bu ding	0
+兴部町	xing bu ting	0
+行方郡	xing fang jun	0
+行方市	xing fang shi	0
+行桥市	xing qiao shi	0
+行桥市	hang qiao shi	0
+行田市	xing tian shi	0
+行田市	hang tian shi	0
+幸区	xing qu	0
+幸手市	xing shou shi	0
+幸田町	xing tian ding	0
+幸田町	xing tian ting	0
+雄和町	xiong he ding	0
+雄和町	xiong he ting	0
+雄胜郡	xiong sheng jun	0
+雄胜町	xiong sheng ding	0
+雄胜町	xiong sheng ting	0
+雄踏町	xiong ta ding	0
+雄踏町	xiong ta ting	0
+雄武町	xiong wu ding	0
+雄武町	xiong wu ting	0
+雄物川町	xiong wu chuan ding	0
+雄物川町	xiong wu chuan ting	0
+熊本市	xiong ben shi	0
+熊本县	xiong ben xian	0
+熊谷市	xiong gu shi	0
+熊毛郡	xiong mao jun	0
+熊毛支厅	xiong mao zhi ting	0
+熊毛町	xiong mao ding	0
+熊毛町	xiong mao ting	0
+熊取町	xiong qu ding	0
+熊取町	xiong qu ting	0
+熊山町	xiong shan ding	0
+熊山町	xiong shan ting	0
+熊石町	xiong shi ding	0
+熊石町	xiong shi ting	0
+熊野川町	xiong ye chuan ding	0
+熊野川町	xiong ye chuan ting	0
+熊野市	xiong ye shi	0
+熊野町	xiong ye ding	0
+熊野町	xiong ye ting	0
+修善寺町	xiu shan si ding	0
+修善寺町	xiu shan si ting	0
+朽木村	xiu mu cun	0
+袖浦市	xiu pu shi	0
+须恵村	xu hui cun	0
+须贺川市	xu he chuan shi	0
+须惠町	xu hui ding	0
+须惠町	xu hui ting	0
+须美寿岛	xu mei shou dao	0
+须磨区	xu mo qu	0
+须木村	xu mu cun	0
+须崎市	xu qi shi	0
+须玉町	xu yu ding	0
+须玉町	xu yu ting	0
+须佐町	xu zuo ding	0
+须坂市	xu ban shi	0
+旭川市	xu chuan shi	0
+旭村	xu cun	0
+旭区	xu qu	0
+旭市	xu shi	0
+旭志村	xu zhi cun	0
+旭町	xu ding	0
+旭町	xu ting	0
+绪方町	xu fang ding	0
+绪方町	xu fang ting	0
+玄海町	xuan hai ding	0
+玄海町	xuan hai ting	0
+穴吹町	xue chui ding	0
+穴吹町	xue chui ting	0
+穴水町	xue shui ding	0
+穴水町	xue shui ting	0
+训子府町	xun zi fu ding	0
+训子府町	xun zi fu ting	0
+押水町	ya shui ding	0
+押水町	ya shui ting	0
+鸭川市	ya chuan shi	0
+鸭岛町	ya dao ding	0
+鸭岛町	ya dao ting	0
+鸭方町	ya fang ding	0
+鸭方町	ya fang ting	0
+芽室町	ya shi ding	0
+芽室町	ya shi ting	0
+盐古町	yan gu ding	0
+盐古町	yan gu ting	0
+盐谷郡	yan gu jun	0
+盐谷町	yan gu ding	0
+盐谷町	yan gu ting	0
+盐灶市	yan zao shi	0
+盐尻市	yan kao shi	0
+岩槻区	yan gui qu	0
+岩槻市	yan gui shi	0
+岩滝町	yan long ding	0
+岩滝町	yan long ting	0
+岩瀬村	yan lai cun	0
+岩仓市	yan cang shi	0
+岩城村	yan cheng cun	0
+岩城町	yan cheng ding	0
+岩城町	yan cheng ting	0
+岩出山町	yan chu shan ding	0
+岩出山町	yan chu shan ting	0
+岩出市	yan chu shi	0
+岩出町	yan chu ding	0
+岩出町	yan chu ting	0
+岩村町	yan cun ding	0
+岩村町	yan cun ting	0
+岩代町	yan dai ding	0
+岩代町	yan dai ting	0
+岩国市	yan guo shi	0
+岩见沢市	yan jian ze shi	0
+岩见泽市	yan jian ze shi	0
+岩井市	yan jing shi	0
+岩美郡	yan mei jun	0
+岩美町	yan mei ding	0
+岩美町	yan mei ting	0
+岩木町	yan mu ding	0
+岩木町	yan mu ting	0
+岩内郡	yan nei jun	0
+岩内町	yan nei ding	0
+岩内町	yan nei ting	0
+岩崎村	yan qi cun	0
+岩泉町	yan quan ding	0
+岩泉町	yan quan ting	0
+岩室村	yan shi cun	0
+岩手郡	yan shou jun	0
+岩手县	yan shou xian	0
+岩手町	yan shou ding	0
+岩手町	yan shou ting	0
+岩沼市	yan zhao shi	0
+岩舟町	yan zhou ding	0
+岩舟町	yan zhou ting	0
+岩濑郡	yan lai jun	0
+延冈市	yan gang shi	0
+燕市	yan shi	0
+彦根市	yan gen shi	0
+养父市	yang fu shi	0
+养父町	yang fu ding	0
+养父町	yang fu ting	0
+养老町	yang lao ding	0
+养老町	yang lao ting	0
+样似郡	yang si jun	0
+样似郡	yang shi jun	0
+样似町	yang si ding	0
+样似町	yang si ting	0
+样似町	yang shi ding	0
+样似町	yang shi ting	0
+耶麻郡	ye ma jun	0
+耶马溪町	ye ma xi ding	0
+耶马溪町	ye ma xi ting	0
+野沢温泉村	ye ze wen quan cun	0
+野边地町	ye bian di ding	0
+野边地町	ye bian di ting	0
+野村町	ye cun ding	0
+野村町	ye cun ting	0
+野付郡	ye fu jun	0
+野津原町	ye jin yuan ding	0
+野津原町	ye jin yuan ting	0
+野津町	ye jin ding	0
+野津町	ye jin ting	0
+野母崎町	ye mu qi ding	0
+野母崎町	ye mu qi ting	0
+野木町	ye mu ding	0
+野木町	ye mu ting	0
+野迫川村	ye po chuan cun	0
+野上町	ye shang ding	0
+野上町	ye shang ting	0
+野市	ye shi	0
+野市町	ye shi ding	0
+野市町	ye shi ting	0
+野田川町	ye tian chuan ding	0
+野田川町	ye tian chuan ting	0
+野田村	ye tian cun	0
+野田市	ye tian shi	0
+野田町	ye tian ding	0
+野田町	ye tian ting	0
+野洲市	ye zhou shi	0
+野洲町	ye zhou ding	0
+野洲町	ye zhou ting	0
+野辺地町	ye bian di ding	0
+野辺地町	ye bian di ting	0
+野辺地町	ye dao di ding	0
+野辺地町	ye dao di ting	0
+野辺地町	ye bian de ding	0
+野尻町	ye kao ding	0
+野尻町	ye kao ting	0
+叶山村	ye shan cun	0
+叶山町	ye shan ding	0
+叶山町	ye shan ting	0
+夜久野町	ye jiu ye ding	0
+夜久野町	ye jiu ye ting	0
+夜须町	ye xu ding	0
+夜须町	ye xu ting	0
+一戸町	yi hu ding	0
+一戸町	yi hu ting	0
+一本松町	yi ben song ding	0
+一本松町	yi ben song ting	0
+一宫市	yi gong shi	0
+一宫町	yi gong ding	0
+一宫町	yi gong ting	0
+一宫町宍粟郡	yi gong ding rou su jun	0
+一宫町宍粟郡	yi gong ting rou su jun	0
+一宫町津名郡	yi gong ding jin ming jun	0
+一宫町津名郡	yi gong ting jin ming jun	0
+一关市	yi guan shi	0
+一户町	yi hu ding	0
+一户町	yi hu ting	0
+一迫町	yi po ding	0
+一迫町	yi po ting	0
+一色町	yi se ding	0
+一色町	yi se ting	0
+一宇村	yi yu cun	0
+一志町	yi zhi ding	0
+一志町	yi zhi ting	0
+一関市	yi guan shi	0
+揖保川町	yi bao chuan ding	0
+揖保川町	yi bao chuan ting	0
+揖保郡	yi bao jun	0
+揖斐川町	yi fei chuan ding	0
+揖斐川町	yi fei chuan ting	0
+伊吹町	yi chui ding	0
+伊吹町	yi chui ting	0
+伊达郡	yi da jun	0
+伊达市	yi da shi	0
+伊达町	yi da ding	0
+伊达町	yi da ting	0
+伊丹市	yi dan shi	0
+伊东市	yi dong shi	0
+伊豆长冈町	yi dou chang gang ding	0
+伊豆长冈町	yi dou chang gang ting	0
+伊豆市	yi dou shi	0
+伊豆之国市	yi dou zhi guo shi	0
+伊都郡	yi dou jun	0
+伊都郡	yi du jun	0
+伊方町	yi fang ding	0
+伊方町	yi fang ting	0
+伊根町	yi gen ding	0
+伊根町	yi gen ting	0
+伊贺町	yi he ding	0
+伊贺町	yi he ting	0
+伊集院町	yi ji yuan ding	0
+伊集院町	yi ji yuan ting	0
+伊江村	yi jiang cun	0
+伊具郡	yi ju jun	0
+伊良部町	yi liang bu ding	0
+伊良部町	yi liang bu ting	0
+伊那市	yi na shi	0
+伊奈町	yi nai ding	0
+伊奈町	yi nai ting	0
+伊南村	yi nan cun	0
+伊平屋村	yi ping wu cun	0
+伊势崎市	yi shi qi shi	0
+伊势市	yi shi shi	0
+伊势原市	yi shi yuan shi	0
+伊是名村	yi shi ming cun	0
+伊万里市	yi wan li shi	0
+伊王岛町	yi wang dao ding	0
+伊王岛町	yi wang dao ting	0
+伊仙町	yi xian ding	0
+伊仙町	yi xian ting	0
+伊香郡	yi xiang jun	0
+伊野町	yi ye ding	0
+伊野町	yi ye ting	0
+伊予郡	yi yu jun	0
+伊予三岛市	yi yu san dao shi	0
+伊予市	yi yu shi	0
+伊自良村	yi zi liang cun	0
+衣川村	yi chuan cun	0
+夷隅郡	yi yu jun	0
+宜野湾市	yi ye wan shi	0
+宜野座村	yi ye zuo cun	0
+乙部町	yi bu ding	0
+乙部町	yi bu ting	0
+乙训郡	yi xun jun	0
+艺西村	yi xi cun	0
+邑楽郡	yi le jun	0
+邑楽郡	yi yue jun	0
+邑久町	yi jiu ding	0
+邑久町	yi jiu ting	0
+邑乐郡	yi le jun	0
+邑乐郡	yi yue jun	0
+邑乐町	yi le ding	0
+邑乐町	yi le ting	0
+邑乐町	yi yue ding	0
+邑乐町	yi yue ting	0
+邑南町	yi nan ding	0
+邑南町	yi nan ting	0
+邑智郡	yi zhi jun	0
+邑智町	yi zhi ding	0
+邑智町	yi zhi ting	0
+益城町	yi cheng ding	0
+益城町	yi cheng ting	0
+益田市	yi tian shi	0
+益子町	yi zi ding	0
+益子町	yi zi ting	0
+因岛市	yin dao shi	0
+音戸町	yin hu ding	0
+音戸町	yin hu ting	0
+音别町	yin bie ding	0
+音别町	yin bie ting	0
+音更町	yin geng ding	0
+音更町	yin geng ting	0
+音威子府村	yin wei zi fu cun	0
+音羽町	yin yu ding	0
+音羽町	yin yu ting	0
+引田町	yin tian ding	0
+引田町	yin tian ting	0
+引佐町	yin zuo ding	0
+隐岐郡	yin qi jun	0
+隐岐之岛町	yin qi zhi dao ding	0
+隐岐之岛町	yin qi zhi dao ting	0
+観音寺市	guan yin si shi	0
+印旛郡	yin fan jun	0
+印南町	yin nan ding	0
+印南町	yin nan ting	0
+印西市	yin xi shi	0
+印幡村	yin fan cun	0
+英田町	ying tian ding	0
+英田町	ying tian ting	0
+樱川市	ying chuan shi	0
+樱井市	ying jing shi	0
+樱区	ying qu	0
+樱市	ying shi	0
+鹰巣町	ying chao ding	0
+鹰巣町	ying chao ting	0
+鹰岛町	ying dao ding	0
+鹰岛町	ying dao ting	0
+鹰栖町	ying qi ding	0
+鹰栖町	ying qi ting	0
+鹰栖町	ying xi ding	0
+鹰栖町	ying xi ting	0
+涌别町	yong bie ding	0
+涌别町	yong bie ting	0
+涌别町	chong bie ding	0
+涌别町	chong bie ting	0
+涌谷町	yong gu ding	0
+涌谷町	yong gu ting	0
+涌谷町	chong gu ding	0
+涌谷町	chong gu ting	0
+涌水町	yong shui ding	0
+涌水町	yong shui ting	0
+永平寺町	yong ping si ding	0
+永平寺町	yong ping si ting	0
+永源寺町	yong yuan si ding	0
+永源寺町	yong yuan si ting	0
+勇拂郡	yong fu jun	0
+用瀬町	yong lai ding	0
+用瀬町	yong lai ting	0
+由比町	you bi ding	0
+由比町	you bi ting	0
+由布市	you bu shi	0
+由利町	you li ding	0
+由利町	you li ting	0
+由良町	you liang ding	0
+由良町	you liang ting	0
+由仁町	you ren ding	0
+由仁町	you ren ting	0
+由宇町	you yu ding	0
+由宇町	you yu ting	0
+由岐町	you qi ding	0
+由岐町	you qi ting	0
+油谷町	you gu ding	0
+油谷町	you gu ting	0
+油木町	you mu ding	0
+油木町	you mu ting	0
+游佐町	you zuo ding	0
+有川町	you chuan ding	0
+有川町	you chuan ting	0
+有汉町	you han ding	0
+有汉町	you han ting	0
+有家町	you jia ding	0
+有家町	you jia ting	0
+有明町	you ming ding	0
+有明町	you ming ting	0
+有田川町	you tian chuan ding	0
+有田川町	you tian chuan ting	0
+有田郡	you tian jun	0
+有田市	you tian shi	0
+有田町	you tian ding	0
+有田町	you tian ting	0
+有珠郡	you zhu jun	0
+右京区	you jing qu	0
+余呉町	yu wu ding	0
+余呉町	yu wu ting	0
+余目町	yu mu ding	0
+余目町	yu mu ting	0
+余市郡	yu shi jun	0
+余市町	yu shi ding	0
+余市町	yu shi ting	0
+余吴町	yu wu ding	0
+余吴町	yu wu ting	0
+鱼岛村	yu dao cun	0
+鱼津市	yu jin shi	0
+雨竜町	yu neng ding	0
+雨竜町	yu neng ting	0
+雨竜町	yu long ding	0
+雨竜町	yu long ting	0
+雨龙郡	yu long jun	0
+雨龙町	yu long ding	0
+雨龙町	yu long ting	0
+与板町	yu ban ding	0
+与板町	yu ban ting	0
+与论町	yu lun ding	0
+与论町	yu lun ting	0
+与那城町	yu na cheng ding	0
+与那城町	yu na cheng ting	0
+与那国町	yu na guo ding	0
+与那国町	yu na guo ting	0
+与那原町	yu na yuan ding	0
+与那原町	yu na yuan ting	0
+与谢郡	yu xie jun	0
+与谢野町	yu xie ye ding	0
+与谢野町	yu xie ye ting	0
+宇検村	yu jian cun	0
+宇気町	yu qi ding	0
+宇気町	yu qi ting	0
+宇部市	yu bu shi	0
+宇城市	yu cheng shi	0
+宇都宫是	yu du gong shi	0
+宇都宫市	yu du gong shi	0
+宇多津町	yu duo jin ding	0
+宇多津町	yu duo jin ting	0
+宇和岛市	yu he dao shi	0
+宇和町	yu he ding	0
+宇和町	yu he ting	0
+宇检村	yu jian cun	0
+宇久町	yu jiu ding	0
+宇久町	yu jiu ting	0
+宇流麻市	yu liu ma shi	0
+宇美町	yu mei ding	0
+宇美町	yu mei ting	0
+宇目町	yu mu ding	0
+宇目町	yu mu ting	0
+宇奈月町	yu nai yue ding	0
+宇奈月町	yu nai yue ting	0
+宇土市	yu tu shi	0
+宇陀郡	yu tuo jun	0
+宇治市	yu zhi shi	0
+宇治田原町	yu zhi tian yuan ding	0
+宇治田原町	yu zhi tian yuan ting	0
+宇佐市	yu zuo shi	0
+羽村市	yu cun shi	0
+羽岛市	yu dao shi	0
+羽合町	yu he ding	0
+羽合町	yu he ting	0
+羽后町	yu hou ding	0
+羽后町	yu hou ting	0
+羽幌町	yu huang ding	0
+羽幌町	yu huang ting	0
+羽茂町	yu mao ding	0
+羽茂町	yu mao ting	0
+羽浦町	yu pu ding	0
+羽浦町	yu pu ting	0
+羽生市	yu sheng shi	0
+羽须美村	yu xu mei cun	0
+羽曳野市	yu ye ye shi	0
+羽咋郡	yu za jun	0
+羽咋郡	yu ze jun	0
+羽咋郡	yu zha jun	0
+羽咋市	yu za shi	0
+羽咋市	yu ze shi	0
+羽咋市	yu zha shi	0
+羽黒町	yu hei ding	0
+羽黒町	yu hei ting	0
+玉城村	yu cheng cun	0
+玉城町	yu cheng ding	0
+玉城町	yu cheng ting	0
+玉川村	yu chuan cun	0
+玉川町	yu chuan ding	0
+玉川町	yu chuan ting	0
+玉村町	yu cun ding	0
+玉村町	yu cun ting	0
+玉东町	yu dong ding	0
+玉东町	yu dong ting	0
+玉穂町	yu sui ding	0
+玉穂町	yu sui ting	0
+玉名郡	yu ming jun	0
+玉名市	yu ming shi	0
+玉山村	yu shan cun	0
+玉汤町	yu tang ding	0
+玉汤町	yu tang ting	0
+玉野市	yu ye shi	0
+玉之浦町	yu zhi pu ding	0
+玉之浦町	yu zhi pu ting	0
+御滨町	yu bin ding	0
+御滨町	yu bin ting	0
+御藏岛村	yu cang dao cun	0
+御藏岛村	yu zang dao cun	0
+御船町	yu chuan ding	0
+御船町	yu chuan ting	0
+御代田町	yu dai tian ding	0
+御代田町	yu dai tian ting	0
+御殿场市	yu dian chang shi	0
+御调町	yu tiao ding	0
+御调町	yu tiao ting	0
+御调町	yu diao ding	0
+御调町	yu diao ting	0
+御坊市	yu fang shi	0
+御津町	yu jin ding	0
+御津町	yu jin ting	0
+御荘町	yu zhuang ding	0
+御荘町	yu zhuang ting	0
+御前崎市	yu qian qi shi	0
+御前崎町	yu qian qi ding	0
+御前崎町	yu qian qi ting	0
+御薗村	yu yuan cun	0
+御所浦町	yu suo pu ding	0
+御所浦町	yu suo pu ting	0
+御所市	yu suo shi	0
+御杖村	yu zhang cun	0
+御坂町	yu ban ding	0
+御坂町	yu ban ting	0
+御嵩町	yu song ding	0
+御嵩町	yu song ting	0
+御浜町	yu bang ding	0
+御浜町	yu bang ting	0
+原村	yuan cun	0
+原町市	yuan ding shi	0
+原町市	yuan ting shi	0
+园部町	yuan bu ding	0
+园部町	yuan bu ting	0
+员弁郡	yuan bian jun	0
+员弁町	yuan bian ding	0
+员弁町	yuan bian ting	0
+猿払村	yuan fan cun	0
+猿払村	yuan fu cun	0
+猿岛郡	yuan dao jun	0
+猿拂村	yuan fu cun	0
+远别町	yuan bie ding	0
+远别町	yuan bie ting	0
+远贺郡	yuan he jun	0
+远贺町	yuan he ding	0
+远贺町	yuan he ting	0
+远轻町	yuan qing ding	0
+远轻町	yuan qing ting	0
+远田郡	yuan tian jun	0
+远野市	yuan ye shi	0
+远軽町	yuan qing ding	0
+远軽町	yuan qing ting	0
+院内町	yuan nei ding	0
+院内町	yuan nei ting	0
+越廼村	yue nai cun	0
+越谷市	yue gu shi	0
+越路町	yue lu ding	0
+越路町	yue lu ting	0
+越前市	yue qian shi	0
+越前町	yue qian ding	0
+越前町	yue qian ting	0
+越生町	yue sheng ding	0
+越生町	yue sheng ting	0
+越知町	yue zhi ding	0
+越知町	yue zhi ting	0
+越智郡	yue zhi jun	0
+月潟村	yue xi cun	0
+月瀬村	yue lai cun	0
+月舘町	yue guan ding	0
+月舘町	yue guan ting	0
+月形町	yue xing ding	0
+月形町	yue xing ting	0
+匝瑳市	za cuo shi	0
+匝嵯郡	za cuo jun	0
+赞岐市	zan qi shi	0
+糟屋郡	zao wu jun	0
+早川町	zao chuan ding	0
+早川町	zao chuan ting	0
+早岛町	zao dao ding	0
+早岛町	zao dao ting	0
+早来町	zao lai ding	0
+早来町	zao lai ting	0
+增毛郡	zeng mao jun	0
+增毛町	zeng mao ding	0
+增毛町	zeng mao ting	0
+增穗町	zeng sui ding	0
+增穗町	zeng sui ting	0
+曾尔村	ceng er cun	0
+曾尔村	zeng er cun	0
+曾于郡	ceng yu jun	0
+曾于市	ceng yu shi	0
+札幌市	zha huang shi	0
+読谷村	du gu cun	0
+栅原町	zha yuan ding	0
+栅原町	shan yuan ding	0
+栅原町	zha yuan ting	0
+栅原町	shan yuan ting	0
+栅原町	ce yuan ding	0
+栅原町	ce yuan ting	0
+占冠村	zhan guan cun	0
+昭岛市	zhao dao shi	0
+昭和村	zhao he cun	0
+昭和区	zhao he qu	0
+昭和町	zhao he ding	0
+昭和町	zhao he ting	0
+沼津市	zhao jin shi	0
+沼田市	zhao tian shi	0
+沼田町	zhao tian ding	0
+沼田町	zhao tian ting	0
+沼隈町	zhao wei ding	0
+沼隈町	zhao wei ting	0
+哲多町	zhe duo ding	0
+哲多町	zhe duo ting	0
+哲西町	zhe xi ding	0
+哲西町	zhe xi ting	0
+真备町	zhen bei ding	0
+真备町	zhen bei ting	0
+真壁郡	zhen bi jun	0
+真冈市	zhen gang shi	0
+真鹤町	zhen he ding	0
+真鹤町	zhen he ting	0
+真室川町	zhen shi chuan ding	0
+真室川町	zhen shi chuan ting	0
+真田町	zhen tian ding	0
+真田町	zhen tian ting	0
+真野町	zhen ye ding	0
+真野町	zhen ye ting	0
+真玉町	zhen yu ding	0
+真玉町	zhen yu ting	0
+真正町	zhen zheng ding	0
+真正町	zhen zheng ting	0
+真狩村	zhen shou cun	0
+贞光町	zhen guang ding	0
+贞光町	zhen guang ting	0
+枕崎市	zhen qi shi	0
+镇西町	zhen xi ding	0
+镇西町	zhen xi ting	0
+芝川町	zhi chuan ding	0
+芝川町	zhi chuan ting	0
+芝山町	zhi shan ding	0
+芝山町	zhi shan ting	0
+枝幸郡	zhi xing jun	0
+枝幸町	zhi xing ding	0
+枝幸町	zhi xing ting	0
+知多郡	zhi duo jun	0
+知多市	zhi duo shi	0
+知夫村	zhi fu cun	0
+知立市	zhi li shi	0
+知名町	zhi ming ding	0
+知名町	zhi ming ting	0
+知内町	zhi nei ding	0
+知内町	zhi nei ting	0
+知念村	zhi nian cun	0
+知覧町	zhi lan ding	0
+知覧町	zhi lan ting	0
+织田町	zhi tian ding	0
+织田町	zhi tian ting	0
+直川村	zhi chuan cun	0
+直岛町	zhi dao ding	0
+直岛町	zhi dao ting	0
+直方市	zhi fang shi	0
+直入町	zhi ru ding	0
+直入町	zhi ru ting	0
+植木町	zhi mu ding	0
+植木町	zhi mu ting	0
+指宿市	zhi su shi	0
+指宿市	zhi xiu shi	0
+只见町	zhi jian ding	0
+只见町	zhi jian ting	0
+志波姫町	zhi bo zhen ding	0
+志波姫町	zhi bo zhen ting	0
+志布志市	zhi bu zhi shi	0
+志布志町	zhi bu zhi ding	0
+志布志町	zhi bu zhi ting	0
+志贺町	zhi he ding	0
+志贺町	zhi he ting	0
+志津川町	zhi jin chuan ding	0
+志津川町	zhi jin chuan ting	0
+志免町	zhi mian ding	0
+志免町	zhi mian ting	0
+志摩市	zhi mo shi	0
+志摩町	zhi mo ding	0
+志摩町	zhi mo ting	0
+志木市	zhi mu shi	0
+志雄町	zhi xiong ding	0
+志雄町	zhi xiong ting	0
+置戸町	zhi hu ding	0
+置戸町	zhi hu ting	0
+置户町	zhi hu ding	0
+置户町	zhi hu ting	0
+智头町	zhi tou ding	0
+智头町	zhi tou ting	0
+秩父别町	zhi fu bie ding	0
+秩父别町	zhi fu bie ting	0
+秩父郡	zhi fu jun	0
+秩父市	zhi fu shi	0
+稚内市	zhi nei shi	0
+中标津町	zhong biao jin ding	0
+中标津町	zhong biao jin ting	0
+中泊町	zhong bo ding	0
+中泊町	zhong bo ting	0
+中泊町	zhong po ding	0
+中泊町	zhong po ting	0
+中城村	zhong cheng cun	0
+中川村	zhong chuan cun	0
+中川根町	zhong chuan gen ding	0
+中川根町	zhong chuan gen ting	0
+中川郡	zhong chuan jun	0
+中川区	zhong chuan qu	0
+中川町	zhong chuan ding	0
+中川町	zhong chuan ting	0
+中村区	zhong cun qu	0
+中村市	zhong cun shi	0
+中岛村	zhong dao cun	0
+中岛町	zhong dao ding	0
+中岛町	zhong dao ting	0
+中道町	zhong dao ding	0
+中道町	zhong dao ting	0
+中顿别町	zhong dun bie ding	0
+中顿别町	zhong dun bie ting	0
+中富良野町	zhong fu liang ye ding	0
+中富良野町	zhong fu liang ye ting	0
+中富町	zhong fu ding	0
+中富町	zhong fu ting	0
+中和村	zhong he cun	0
+中间市	zhong jian shi	0
+中津川市	zhong jin chuan shi	0
+中津村	zhong jin cun	0
+中津江村	zhong jin jiang cun	0
+中津轻郡	zhong jin qing jun	0
+中津市	zhong jin shi	0
+中京区	zhong jing qu	0
+中井町	zhong jing ding	0
+中井町	zhong jing ting	0
+中巨摩郡	zhong ju mo jun	0
+中郡	zhong jun	0
+中里村	zhong li cun	0
+中里町	zhong li ding	0
+中里町	zhong li ting	0
+中区	zhong qu	0
+中山町	zhong shan ding	0
+中山町	zhong shan ting	0
+中条村	zhong tiao cun	0
+中条町	zhong tiao ding	0
+中条町	zhong tiao ting	0
+中头郡	zhong tou jun	0
+中土佐町	zhong tu zuo ding	0
+中仙町	zhong xian ding	0
+中仙町	zhong xian ting	0
+中新川郡	zhong xin chuan jun	0
+中新田町	zhong xin tian ding	0
+中新田町	zhong xin tian ting	0
+中央区	zhong yang qu	0
+中央町	zhong yang ding	0
+中央町	zhong yang ting	0
+中野区	zhong ye qu	0
+中野市	zhong ye shi	0
+中伊豆町	zhong yi dou ding	0
+中伊豆町	zhong yi dou ting	0
+中原区	zhong yuan qu	0
+中原町	zhong yuan ding	0
+中原町	zhong yuan ting	0
+中札内村	zhong zha nei cun	0
+中之岛町	zhong zhi dao ding	0
+中之岛町	zhong zhi dao ting	0
+中之口村	zhong zhi kou cun	0
+中之条町	zhong zhi tiao ding	0
+中之条町	zhong zhi tiao ting	0
+中种子町	zhong zhong zi ding	0
+中种子町	zhong zhong zi ting	0
+中主町	zhong zhu ding	0
+中主町	zhong zhu ting	0
+中辺路町	zhong bian lu ding	0
+中辺路町	zhong bian lu ting	0
+中辺路町	zhong dao lu ding	0
+中辺路町	zhong dao lu ting	0
+中郷村	zhong xiang cun	0
+中町	zhong ding	0
+中町	zhong ting	0
+忠冈町	zhong gang ding	0
+忠冈町	zhong gang ting	0
+忠类村	zhong lei cun	0
+种市町	zhong shi ding	0
+种市町	zhong shi ting	0
+重信町	zhong xin ding	0
+重信町	zhong xin ting	0
+仲多度郡	zhong duo du jun	0
+仲南町	zhong nan ding	0
+仲南町	zhong nan ting	0
+舟桥村	zhou qiao cun	0
+舟形町	zhou xing ding	0
+舟形町	zhou xing ting	0
+周参见町	zhou can jian ding	0
+周参见町	zhou can jian ting	0
+周东町	zhou dong ding	0
+周东町	zhou dong ting	0
+周防大岛町	zhou fang da dao ding	0
+周防大岛町	zhou fang da dao ting	0
+周南市	zhou nan shi	0
+周智郡	zhou zhi jun	0
+洲本市	zhou ben shi	0
+珠洲市	zhu zhou shi	0
+猪苗代町	zhu miao dai ding	0
+猪苗代町	zhu miao dai ting	0
+猪名川町	zhu ming chuan ding	0
+猪名川町	zhu ming chuan ting	0
+诸塚村	zhu zhong cun	0
+诸富町	zhu fu ding	0
+诸富町	zhu fu ting	0
+诸冢村	zhu zhong cun	0
+竹富町	zhu fu ding	0
+竹富町	zhu fu ting	0
+竹田市	zhu tian shi	0
+竹野町	zhu ye ding	0
+竹野町	zhu ye ting	0
+竹原市	zhu yuan shi	0
+筑北村	zhu bei cun	0
+筑波郡	zhu bo jun	0
+筑波市	zhu bo shi	0
+筑波未来市	zhu bo wei lai shi	0
+筑城町	zhu cheng ding	0
+筑城町	zhu cheng ting	0
+筑穂町	zhu sui ding	0
+筑穂町	zhu sui ting	0
+筑馆町	zhu guan ding	0
+筑馆町	zhu guan ting	0
+筑后市	zhu hou shi	0
+筑前町	zhu qian ding	0
+筑前町	zhu qian ting	0
+筑上郡	zhu shang jun	0
+筑西市	zhu xi shi	0
+筑紫郡	zhu zi jun	0
+筑紫野市	zhu zi ye shi	0
+住吉区	zhu ji qu	0
+住田町	zhu tian ding	0
+住田町	zhu tian ting	0
+住用村	zhu yong cun	0
+住之江区	zhu zhi jiang qu	0
+庄川町	zhuang chuan ding	0
+庄川町	zhuang chuan ting	0
+庄内町	zhuang nei ding	0
+庄内町	zhuang nei ting	0
+庄原市	zhuang yuan shi	0
+壮瞥町	zhuang pie ding	0
+壮瞥町	zhuang pie ting	0
+椎田町	zhui tian ding	0
+椎田町	zhui tian ting	0
+椎叶村	zhui ye cun	0
+追分町	zhui fen ding	0
+追分町	zhui fen ting	0
+缀喜郡	zhui xi jun	0
+滋贺县	zi he xian	0
+紫波郡	zi bo jun	0
+紫波町	zi bo ding	0
+紫波町	zi bo ting	0
+紫云寺町	zi yun si ding	0
+紫云寺町	zi yun si ting	0
+宗谷郡	zong gu jun	0
+宗谷支厅	zong gu zhi ting	0
+宗像市	zong xiang shi	0
+足柄上郡	zu bing shang jun	0
+足柄下郡	zu bing xia jun	0
+足和田村	zu he tian cun	0
+足寄郡	zu ji jun	0
+足寄町	zu ji ding	0
+足寄町	zu ji ting	0
+足利市	zu li shi	0
+足立区	zu li qu	0
+足助町	zu zhu ding	0
+足助町	zu zhu ting	0
+祖父江町	zu fu jiang ding	0
+祖父江町	zu fu jiang ting	0
+最上郡	zui shang jun	0
+最上町	zui shang ding	0
+最上町	zui shang ting	0
+左贺县	zuo he xian	0
+左京区	zuo jing qu	0
+佐波郡	zuo bo jun	0
+佐伯市	zuo bo shi	0
+佐伯町	zuo bo ding	0
+佐伯町	zuo bo ting	0
+佐仓市	zuo cang shi	0
+佐川町	zuo chuan ding	0
+佐川町	zuo chuan ting	0
+佐多町	zuo duo ding	0
+佐多町	zuo duo ting	0
+佐敷町	zuo fu ding	0
+佐敷町	zuo fu ting	0
+佐和田町	zuo he tian ding	0
+佐和田町	zuo he tian ting	0
+佐贺市	zuo he shi	0
+佐贺县	zuo he xian	0
+佐贺関町	zuo he guan ding	0
+佐贺関町	zuo he guan ting	0
+佐贺町	zuo he ding	0
+佐贺町	zuo he ting	0
+佐井村	zuo jing cun	0
+佐久间町	zuo jiu jian ding	0
+佐久间町	zuo jiu jian ting	0
+佐久市	zuo jiu shi	0
+佐久穗町	zuo jiu sui ding	0
+佐久穗町	zuo jiu sui ting	0
+佐久町	zuo jiu ding	0
+佐久町	zuo jiu ting	0
+佐吕间町	zuo lv jian ding	0
+佐吕间町	zuo lv jian ting	0
+佐那河内村	zuo na he nei cun	0
+佐世保市	zuo shi bao shi	0
+佐田町	zuo tian ding	0
+佐田町	zuo tian ting	0
+佐土原町	zuo tu yuan ding	0
+佐土原町	zuo tu yuan ting	0
+佐屋町	zuo wu ding	0
+佐屋町	zuo wu ting	0
+佐野市	zuo ye shi	0
+佐用郡	zuo yong jun	0
+佐用町	zuo yong ding	0
+佐用町	zuo yong ting	0
+佐原市	zuo yuan shi	0
+佐织町	zuo zhi ding	0
+佐织町	zuo zhi ting	0
+佐治村	zuo zhi cun	0
+佐町	zuo ding	0
+作东町	zuo dong ding	0
+作东町	zuo dong ting	0
+作木村	zuo mu cun	0
+作手村	zuo shou cun	0
+座间市	zuo jian shi	0
+座间味村	zuo jian wei cun	0
+豊栄市	feng rong shi	0
+豊栄市	li rong shi	0
+豊栄町	feng rong ding	0
+豊栄町	feng rong ting	0
+豊栄町	li rong ding	0
+豊栄町	li rong ting	0
+豊北町	feng bei ding	0
+豊北町	feng bei ting	0
+豊北町	li bei ding	0
+豊北町	li bei ting	0
+豊川市	feng chuan shi	0
+豊川市	li chuan shi	0
+豊岛区	feng dao qu	0
+豊岛区	li dao qu	0
+豊富村	feng fu cun	0
+豊富村	li fu cun	0
+豊富町	feng fu ding	0
+豊富町	feng fu ting	0
+豊富町	li fu ding	0
+豊富町	li fu ting	0
+豊冈村	feng gang cun	0
+豊冈村	li gang cun	0
+豊冈市	feng gang shi	0
+豊冈市	li gang shi	0
+豊根村	feng gen cun	0
+豊根村	li gen cun	0
+豊后高田市	feng hou gao tian shi	0
+豊后高田市	li hou gao tian shi	0
+豊见城市	feng jian cheng shi	0
+豊见城市	li jian cheng shi	0
+豊津町	feng jin ding	0
+豊津町	feng jin ting	0
+豊津町	li jin ding	0
+豊津町	li jin ting	0
+豊科町	feng ke ding	0
+豊科町	feng ke ting	0
+豊科町	li ke ding	0
+豊科町	li ke ting	0
+豊里町	feng li ding	0
+豊里町	feng li ting	0
+豊里町	li li ding	0
+豊里町	li li ting	0
+豊明市	feng ming shi	0
+豊明市	li ming shi	0
+豊能町	feng neng ding	0
+豊能町	feng neng ting	0
+豊能町	li neng ding	0
+豊能町	li neng ting	0
+豊平町	feng ping ding	0
+豊平町	feng ping ting	0
+豊平町	li ping ding	0
+豊平町	li ping ting	0
+豊浦町	feng pu ding	0
+豊浦町	feng pu ting	0
+豊浦町	li pu ding	0
+豊浦町	li pu ting	0
+豊前市	feng qian shi	0
+豊前市	li qian shi	0
+豊桥市	feng qiao shi	0
+豊桥市	li qiao shi	0
+豊顷町	feng qing ding	0
+豊顷町	feng qing ting	0
+豊顷町	li qing ding	0
+豊顷町	li qing ting	0
+豊丘村	feng qiu cun	0
+豊丘村	li qiu cun	0
+豊山町	feng shan ding	0
+豊山町	feng shan ting	0
+豊山町	li shan ding	0
+豊山町	li shan ting	0
+豊松村	feng song cun	0
+豊松村	li song cun	0
+豊田村	feng tian cun	0
+豊田村	li tian cun	0
+豊田市	feng tian shi	0
+豊田市	li tian shi	0
+豊田町	feng tian ding	0
+豊田町	feng tian ting	0
+豊田町	li tian ding	0
+豊田町	li tian ting	0
+豊野町	feng ye ding	0
+豊野町	feng ye ting	0
+豊野町	li ye ding	0
+豊野町	li ye ting	0
+豊玉町	feng yu ding	0
+豊玉町	feng yu ting	0
+豊玉町	li yu ding	0
+豊玉町	li yu ting	0
+豊中市	feng zhong shi	0
+豊中市	li zhong shi	0
+豊中町	feng zhong ding	0
+豊中町	feng zhong ting	0
+豊中町	li zhong ding	0
+豊中町	li zhong ting	0
+豊郷町	feng xiang ding	0
+豊郷町	feng xiang ting	0
+豊郷町	li xiang ding	0
+豊郷町	li xiang ting	0
+豊浜町	feng bang ding	0
+豊浜町	feng bang ting	0
+豊浜町	li bang ding	0
+豊浜町	li bang ting	0
+豊町	feng ding	0
+豊町	feng ting	0
+豊町	li ding	0
+豊町	li ting	0
+廿日市市	nian ri shi shi	0
+亘理郡	gen li jun	0
+亘理町	gen li ding	0
+亘理町	gen li ting	0
+刈谷市	yi gu shi	0
+刈田郡	yi tian jun	0
+刈羽村	yi yu cun	0
+诹访郡	zou fang jun	0
+诹访市	zou fang shi	0
+谏早市	jian zao shi	0
+阪南市	ban nan shi	0
+坂戸市	ban hu shi	0
+坂北村	ban bei cun	0
+坂本村	ban ben cun	0
+坂城町	ban cheng ding	0
+坂城町	ban cheng ting	0
+坂出市	ban chu shi	0
+坂东市	ban dong shi	0
+坂户市	ban hu shi	0
+坂井村	ban jing cun	0
+坂井町	ban jing ding	0
+坂井町	ban jing ting	0
+坂南市	ban nan shi	0
+坂内村	ban nei cun	0
+坂下町	ban xia ding	0
+坂下町	ban xia ting	0
+坂祝町	ban zhu ding	0
+坂祝町	ban zhu ting	0
+坂町	ban ding	0
+坂町	ban ting	0
+埴科郡	zhi ke jun	0
+堀金村	ku jin cun	0
+堀之内町	ku zhi nei ding	0
+堀之内町	ku zhi nei ting	0
+芸北町	yun bei ding	0
+芸北町	yun bei ting	0
+芸浓町	yun nong ding	0
+芸浓町	yun nong ting	0
+芸西村	yun xi cun	0
+苓北町	ling bei ding	0
+苓北町	ling bei ting	0
+軽井沢町	qing jing ze ding	0
+軽井沢町	qing jing ze ting	0
+軽米町	qing mi ding	0
+軽米町	qing mi ting	0
+荻町	di ding	0
+荻町	di ting	0
+莺沢町	ying ze ding	0
+莺沢町	ying ze ting	0
+菖蒲町	chang pu ding	0
+菖蒲町	chang pu ting	0
+菟田野町	tu tian ye ding	0
+菟田野町	tu tian ye ting	0
+菰野町	gu ye ding	0
+菰野町	gu ye ting	0
+蕨市	jue shi	0
+郷浦町	xiang pu ding	0
+郷浦町	xiang pu ting	0
+幡豆郡	fan dou jun	0
+幡豆町	fan dou ding	0
+幡豆町	fan dou ting	0
+幡多郡	fan duo jun	0
+岐阜市	qi fu shi	0
+岐阜县	qi fu xian	0
+岐南町	qi nan ding	0
+岐南町	qi nan ting	0
+岐宿町	qi su ding	0
+岐宿町	qi su ting	0
+岐宿町	qi xiu ding	0
+岚山町	lan shan ding	0
+岚山町	lan shan ting	0
+岬町	jia ding	0
+岬町	jia ting	0
+岱明町	dai ming ding	0
+岱明町	dai ming ting	0
+嵴振村	ji zhen cun	0
+庵治町	an zhi ding	0
+庵治町	an zhi ting	0
+鉾田市	mao tian shi	0
+泷川市	long chuan shi	0
+泷上町	long shang ding	0
+泷上町	long shang ting	0
+泗水町	si shui ding	0
+泗水町	si shui ting	0
+浜北市	bang bei shi	0
+浜岛町	bang dao ding	0
+浜岛町	bang dao ting	0
+浜顿别町	bang dun bie ding	0
+浜顿别町	bang dun bie ting	0
+浜冈町	bang gang ding	0
+浜冈町	bang gang ting	0
+浜松市	bang song shi	0
+浜田市	bang tian shi	0
+浜益村	bang yi cun	0
+浜玉町	bang yu ding	0
+浜玉町	bang yu ting	0
+浜中町	bang zhong ding	0
+浜中町	bang zhong ting	0
+浜坂町	bang ban ding	0
+浜坂町	bang ban ting	0
+渥美町	wo mei ding	0
+渥美町	wo mei ting	0
+濑谷区	lai gu qu	0
+濑户内町	lai hu nei ding	0
+濑户内町	lai hu nei ting	0
+濑户市	lai hu shi	0
+濑棚郡	lai peng jun	0
+濑棚町	lai peng ding	0
+濑棚町	lai peng ting	0
+澹路町	dan lu ding	0
+澹路町	tan lu ding	0
+澹路町	dan lu ting	0
+澹路町	tan lu ting	0
+鎌仓市	lian cang shi	0
+鎌谷市	lian gu shi	0
+嬉野市	xi ye shi	0
+嬉野町	xi ye ding	0
+嬉野町	xi ye ting	0
+纟満市	si man shi	0
+纟満市	jiao man shi	0
+纟贯町	si guan ding	0
+纟贯町	si guan ting	0
+纟贯町	jiao guan ding	0
+纟贯町	jiao guan ting	0
+纟田町	si tian ding	0
+纟田町	si tian ting	0
+纟田町	jiao tian ding	0
+纟田町	jiao tian ting	0
+纟鱼川市	si yu chuan shi	0
+纟鱼川市	jiao yu chuan shi	0
+绫瀬市	ling lai shi	0
+绫部市	ling bu shi	0
+绫川町	ling chuan ding	0
+绫川町	ling chuan ting	0
+绫歌郡	ling ge jun	0
+绫歌町	ling ge ding	0
+绫歌町	ling ge ting	0
+绫南町	ling nan ding	0
+绫南町	ling nan ting	0
+绫上町	ling shang ding	0
+绫上町	ling shang ting	0
+绫町	ling ding	0
+绫町	ling ting	0
+杵岛郡	chu dao jun	0
+杵筑市	chu zhu shi	0
+杷木町	pa mu ding	0
+杷木町	pa mu ting	0
+栉形町	zhi xing ding	0
+栉形町	zhi xing ting	0
+栉引町	zhi yin ding	0
+栉引町	zhi yin ting	0
+桦户郡	hua hu jun	0
+桧山郡	hui shan jun	0
+桧山郡	gui shan jun	0
+桧山支厅	hui shan zhi ting	0
+桧山支厅	gui shan zhi ting	0
+桧原村	hui yuan cun	0
+桧原村	gui yuan cun	0
+桧枝岐村	hui zhi qi cun	0
+桧枝岐村	gui zhi qi cun	0
+梓川村	zi chuan cun	0
+関川村	guan chuan cun	0
+関宫町	guan gong ding	0
+関宫町	guan gong ting	0
+関金町	guan jin ding	0
+関金町	guan jin ting	0
+関前村	guan qian cun	0
+関市	guan shi	0
+関原町	guan yuan ding	0
+関原町	guan yuan ting	0
+関町	guan ding	0
+関町	guan ting	0
+楠町	nan ding	0
+楠町	nan ting	0
+椴法华村	duan fa hua cun	0
+榛东村	zhen dong cun	0
+榛原郡	zhen yuan jun	0
+榛原町	zhen yuan ding	0
+榛原町	zhen yuan ting	0
+橘町	ju ding	0
+橘町	ju ting	0
+雫石町	na shi ding	0
+雫石町	na shi ting	0
+霊山町	ling shan ding	0
+霊山町	ling shan ting	0
+肱川町	gong chuan ding	0
+肱川町	gong chuan ting	0
+斐川町	fei chuan ding	0
+斐川町	fei chuan ting	0
+韮崎市	jiu qi shi	0
+韮山町	jiu shan ding	0
+韮山町	jiu shan ting	0
+矶部町	ji bu ding	0
+矶部町	ji bu ting	0
+矶城郡	ji cheng jun	0
+矶谷郡	ji gu jun	0
+矶子区	ji zi qu	0
+砺波市	li bo shi	0
+砥部町	di bu ding	0
+砥部町	di bu ting	0
+砥用町	di yong ding	0
+砥用町	di yong ting	0
+碓氷郡	dui bing jun	0
+碓井町	dui jing ding	0
+碓井町	dui jing ting	0
+碇関村	ding guan cun	0
+頴田町	ying tian ding	0
+頴田町	ying tian ting	0
+頴娃町	ying wa ding	0
+頴娃町	ying wa ting	0
+町田市	ding tian shi	0
+钏路郡	chuan lu jun	0
+钏路市	chuan lu shi	0
+钏路支厅	chuan lu zhi ting	0
+钏路町	chuan lu ding	0
+钏路町	chuan lu ting	0
+铫子市	diao zi shi	0
+鸠谷市	jiu gu shi	0
+鸠山町	jiu shan ding	0
+鸠山町	jiu shan ting	0
+鸠之谷市	jiu zhi gu shi	0
+鹈殿村	ti dian cun	0
+鹉川町	wu chuan ding	0
+鹉川町	wu chuan ting	0
+鹫敷町	jiu fu ding	0
+鹫敷町	jiu fu ting	0
+鹫宫町	jiu gong ding	0
+鹫宫町	jiu gong ting	0
+裾野市	ju ye shi	0
+虻田郡	meng tian jun	0
+虻田町	meng tian ding	0
+虻田町	meng tian ting	0
+蛭川村	zhi chuan cun	0
+笠冈市	li gang shi	0
+笠间市	li jian shi	0
+笠利町	li li ding	0
+笠利町	li li ting	0
+笠沙町	li sha ding	0
+笠沙町	li sha ting	0
+笠松町	li song ding	0
+笠松町	li song ting	0
+笠原町	li yuan ding	0
+笠原町	li yuan ting	0
+笠置町	li zhi ding	0
+笠置町	li zhi ting	0
+筱栗町	xiao li ding	0
+筱栗町	xiao li ting	0
+筱山市	xiao shan shi	0
+簸川郡	bo chuan jun	0
+糸岛郡	mi dao jun	0
+糸岛郡	si dao jun	0
+糸满市	mi man shi	0
+糸满市	si man shi	0
+糸田町	mi tian ding	0
+糸田町	mi tian ting	0
+糸田町	si tian ding	0
+糸田町	si tian ting	0
+鰺沢町	shen ze ding	0
+鰺沢町	shen ze ting	0
+隼人町	sun ren ding	0
+隼人町	sun ren ting	0
+鲑川村	gui chuan cun	0
+鲛川村	jiao chuan cun	0
+鲭江市	qing jiang shi	0
+鲭江市	zheng jiang shi	0
+鳅沢町	qiu ze ding	0
+鳅沢町	qiu ze ting	0
+鳅泽町	qiu ze ding	0
+鳅泽町	qiu ze ting	0
+鲹泽町	shen ze ding	0
+鲹泽町	shen ze ting	0
+黒滝村	hei long cun	0
+黒瀬町	hei lai ding	0
+黒瀬町	hei lai ting	0
+黒部市	hei bu shi	0
+黒川村	hei chuan cun	0
+黒木町	hei mu ding	0
+黒木町	hei mu ting	0
+黒石市	hei shi shi	0
+黒松内町	hei song nei ding	0
+黒松内町	hei song nei ting	0
+黒田庄町	hei tian zhuang ding	0
+黒田庄町	hei tian zhuang ting	0
+黒矶市	hei ji shi	0

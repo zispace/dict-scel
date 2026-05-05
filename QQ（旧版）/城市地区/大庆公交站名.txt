@@ -1,0 +1,620 @@
+# 词库名称: 大庆公交站名
+# 词库分类: 黑龙江 城市地区
+# 词库描述: 大庆公交站名
+# 词条样例: 爱心医院、安装医院、八百垧北一街、八百垧站、八楼区、八一村、百货大楼、保险公司、北大泉酒厂、北五联合站
+# 词条数量: 612
+# 解析词数: 612
+# 解析异常: 0
+
+爱心医院	ai xin yi yuan	0
+安化路	an hua lu	0
+安装公司	an zhuang gong si	0
+安装医院	an zhuang yi yuan	0
+奥维馨苑	ao wei xin yuan	0
+八百垧	ba bai shang	0
+八百垧北一街	ba bai shang bei yi jie	0
+八百垧三街	ba bai shang san jie	0
+八百垧一区	ba bai shang yi qu	0
+八百垧站	ba bai shang zhan	0
+八厂	ba chang	0
+八井子	ba jing zi	0
+八楼区	ba lou qu	0
+八区	ba qu	0
+八区四	ba qu si	0
+八一村	ba yi cun	0
+八一新村	ba yi xin cun	0
+百纺公司	bai fang gong si	0
+百货大楼	bai huo da lou	0
+办公楼	ban gong lou	0
+宝丽	bao li	0
+保险公司	bao xian gong si	0
+北辰	bei chen	0
+北辰东门	bei chen dong men	0
+北大泉酒厂	bei da quan jiu chang	0
+北方市场	bei fang shi chang	0
+北十里林场	bei shi li lin chang	0
+北五联合站	bei wu lian he zhan	0
+奔二村	ben er cun	0
+奔腾村	ben teng cun	0
+奔腾小区	ben teng xiao qu	0
+便民市场	bian min shi chang	0
+变电所	bian dian suo	0
+标二村	biao er cun	0
+标三村	biao san cun	0
+宾馆	bin guan	0
+步行街	bu xing jie	0
+部队	bu dui	0
+采研	cai yan	0
+采油队	cai you dui	0
+采油六队	cai you liu dui	0
+采油三厂	cai you san chang	0
+采油五厂	cai you wu chang	0
+菜库	cai ku	0
+测井公司	ce jing gong si	0
+测井楼区	ce jing lou qu	0
+测井市场	ce jing shi chang	0
+测试大队	ce shi da dui	0
+测试研究所	ce shi yan jiu suo	0
+叉路口	cha lu kou	0
+长青二区	chang qing er qu	0
+长青二小区	chang qing er xiao qu	0
+长青市场	chang qing shi chang	0
+长青一区	chang qing yi qu	0
+长青一小区	chang qing yi xiao qu	0
+长途站	chang tu zhan	0
+厂西	chang xi	0
+厂西三百	chang xi san bai	0
+乘二村	cheng er cun	0
+乘风商场	cheng feng shang chang	0
+乘风站	cheng feng zhan	0
+乘风中心医院	cheng feng zhong xin yi yuan	0
+乘风庄	cheng feng zhuang	0
+乘南十三街	cheng nan shi san jie	0
+乘三村	cheng san cun	0
+乘新二区	cheng xin er qu	0
+乘新二小区	cheng xin er xiao qu	0
+乘新临时站	cheng xin lin shi zhan	0
+乘新三区	cheng xin san qu	0
+乘新四区	cheng xin si qu	0
+程宇公司	cheng yu gong si	0
+创业广场	chuang ye guang chang	0
+创业集团	chuang ye ji tuan	0
+创业新街	chuang ye xin jie	0
+创业庄路口	chuang ye zhuang lu kou	0
+创业庄站	chuang ye zhuang zhan	0
+创一村	chuang yi cun	0
+创一区	chuang yi qu	0
+春雷	chun lei	0
+打虎庄	da hu zhuang	0
+大青山	da qing shan	0
+大庆宾馆	da qing bin guan	0
+大庆大学	da qing da xue	0
+大庆公交总站	da qing gong jiao zong zhan	0
+大庆师范学院	da qing shi fan xue yuan	0
+大庆十中	da qing shi zhong	0
+大庆站	da qing zhan	0
+大庆职业学院	da qing zhi ye xue yuan	0
+大庆中学	da qing zhong xue	0
+大同	da tong	0
+大同村	da tong cun	0
+大同路口	da tong lu kou	0
+大同站	da tong zhan	0
+弹药库	dan yao ku	0
+蛋禽公司	dan qin gong si	0
+党校	dang xiao	0
+倒班楼	dao ban lou	0
+登峰村	deng feng cun	0
+登峰西村	deng feng xi cun	0
+地税局	di shui ju	0
+电泵公司	dian beng gong si	0
+电大	dian da	0
+电话站	dian hua zhan	0
+电业局	dian ye ju	0
+丁家屯	ding jia tun	0
+丁家窑	ding jia yao	0
+丁字路口	ding zi lu kou	0
+东道口	dong dao kou	0
+东方红	dong fang hong	0
+东风站	dong feng zhan	0
+东光二区	dong guang er qu	0
+东光小区	dong guang xiao qu	0
+东昊聚合物	dong hao ju he wu	0
+东湖临时站	dong hu lin shi zhan	0
+东湖市场	dong hu shi chang	0
+东建村	dong jian cun	0
+董地房	dong di fang	0
+董地房	dong de fang	0
+独立屯	du li tun	0
+儿童公园	er tong gong yuan	0
+二厂	er chang	0
+二厂二矿	er chang er kuang	0
+二厂医院	er chang yi yuan	0
+二罐区	er guan qu	0
+二号岗	er hao gang	0
+二机厂	er ji chang	0
+二十三中	er shi san zhong	0
+二十四中学	er shi si zhong xue	0
+二十巷	er shi xiang	0
+二十巷	er shi hang	0
+二医院	er yi yuan	0
+二医院门诊	er yi yuan men zhen	0
+发展集团	fa zhan ji tuan	0
+方晓	fang xiao	0
+方晓楼区	fang xiao lou qu	0
+方晓一村	fang xiao yi cun	0
+飞马公司	fei ma gong si	0
+奋勇	fen yong	0
+丰收	feng shou	0
+风华楼	feng hua lou	0
+风神修理厂	feng shen xiu li chang	0
+风云	feng yun	0
+风云村	feng yun cun	0
+冯家窑	feng jia yao	0
+凤阳路	feng yang lu	0
+服务队	fu wu dui	0
+福安居超市	fu an ju chao shi	0
+府鹏大酒店	fu peng da jiu dian	0
+俯鹏大酒店	fu peng da jiu dian	0
+富强	fu qiang	0
+富强村	fu qiang cun	0
+盖家屯	gai jia tun	0
+高层	gao ceng	0
+高炮师	gao pao shi	0
+高速路口	gao su lu kou	0
+高台子	gao tai zi	0
+高新路	gao xin lu	0
+高专	gao zhuan	0
+工程机械厂	gong cheng ji xie chang	0
+公交公司	gong jiao gong si	0
+公路十处	gong lu shi chu	0
+公园	gong yuan	0
+公园北门	gong yuan bei men	0
+公园站	gong yuan zhan	0
+公证处	gong zheng chu	0
+供电工区	gong dian gong qu	0
+供电公司	gong dian gong si	0
+供水三分公司	gong shui san fen gong si	0
+供应	gong ying	0
+固井大队	gu jing da dui	0
+管理局	guan li ju	0
+管理站	guan li zhan	0
+光明村	guang ming cun	0
+光明二村	guang ming er cun	0
+光明一村	guang ming yi cun	0
+广发行	guang fa hang	0
+广厦新城小区	guang sha xin cheng xiao qu	0
+锅炉厂	guo lu chang	0
+好百客	hao bai ke	0
+浩天	hao tian	0
+黑马公司	hei ma gong si	0
+红北十街	hong bei shi jie	0
+红北十三街	hong bei shi san jie	0
+红二站	hong er zhan	0
+红岗区医院	hong gang qu yi yuan	0
+红岗市场	hong gang shi chang	0
+红岗站	hong gang zhan	0
+红岗总站	hong gang zong zhan	0
+红骥派出所	hong ji pai chu suo	0
+红旗村	hong qi cun	0
+红旗屯	hong qi tun	0
+红卫村	hong wei cun	0
+红卫村二区	hong wei cun er qu	0
+红卫村三区	hong wei cun san qu	0
+红卫村一区	hong wei cun yi qu	0
+红卫星	hong wei xing	0
+宏伟二队	hong wei er dui	0
+宏伟集团	hong wei ji tuan	0
+宏伟一队	hong wei yi dui	0
+鸿运	hong yun	0
+华工厂	hua gong chang	0
+华康	hua kang	0
+华康医院	hua kang yi yuan	0
+华盈	hua ying	0
+华盈家具	hua ying jia ju	0
+化肥厂	hua fei chang	0
+化工厂	hua gong chang	0
+化工厂楼区	hua gong chang lou qu	0
+化工集团	hua gong ji tuan	0
+会战大街	hui zhan da jie	0
+会战西街	hui zhan xi jie	0
+火车站	huo che zhan	0
+火炬	huo ju	0
+火炬大厦	huo ju da sha	0
+机务段	ji wu duan	0
+机修厂	ji xiu chang	0
+计量站	ji liang zhan	0
+计算站	ji suan zhan	0
+加油站	jia you zhan	0
+家具厂	jia ju chang	0
+甲醇厂	jia chun chang	0
+检测站	jian ce zhan	0
+检查站	jian cha zhan	0
+检察院	jian cha yuan	0
+建安集团	jian an ji tuan	0
+建华	jian hua	0
+建设村	jian she cun	0
+建设中专	jian she zhong zhuan	0
+建新派出所	jian xin pai chu suo	0
+建行	jian hang	0
+交通局	jiao tong ju	0
+交通银行	jiao tong yin hang	0
+交行	jiao hang	0
+解放八街	jie fang ba jie	0
+解放村	jie fang cun	0
+解放九街	jie fang jiu jie	0
+解放六街	jie fang liu jie	0
+解放五街	jie fang wu jie	0
+金三角	jin san jiao	0
+京羊楼	jing yang lou	0
+经九街	jing jiu jie	0
+经六街	jing liu jie	0
+经六街北	jing liu jie bei	0
+经纬加油站	jing wei jia you zhan	0
+精细化工	jing xi hua gong	0
+井下器材站	jing xia qi cai zhan	0
+景三村	jing san cun	0
+景山村	jing shan cun	0
+景园	jing yuan	0
+景园公园	jing yuan gong yuan	0
+景园小区	jing yuan xiao qu	0
+景园泳游馆	jing yuan yong you guan	0
+净化水公司	jing hua shui gong si	0
+九区	jiu qu	0
+九区市场	jiu qu shi chang	0
+九十巷	jiu shi xiang	0
+九天电脑城	jiu tian dian nao cheng	0
+九中	jiu zhong	0
+旧车市场	jiu che shi chang	0
+旧货市场	jiu huo shi chang	0
+开发区	kai fa qu	0
+开发区法庭	kai fa qu fa ting	0
+康乐小区	kang le xiao qu	0
+康民门诊	kang min men zhen	0
+科技园	ke ji yuan	0
+科苑宾馆	ke yuan bin guan	0
+客车修理厂	ke che xiu li chang	0
+客运西区	ke yun xi qu	0
+客运一队	ke yun yi dui	0
+口腔医院	kou qiang yi yuan	0
+昆仑副食	kun lun fu shi	0
+昆仑购物	kun lun gou wu	0
+昆仑家电	kun lun jia dian	0
+乐园	le yuan	0
+乐园市场	le yuan shi chang	0
+黎明桥	li ming qiao	0
+联合站	lian he zhan	0
+联谊	lian yi	0
+联谊宾馆	lian yi bin guan	0
+联谊宾语	lian yi bin yu	0
+联友商场	lian you shang chang	0
+炼化公司	lian hua gong si	0
+粮油市场	liang you shi chang	0
+林源火车站	lin yuan huo che zhan	0
+林源路口	lin yuan lu kou	0
+林源站	lin yuan zhan	0
+临时站	lin shi zhan	0
+零号楼	ling hao lou	0
+刘高手	liu gao shou	0
+硫酸厂	liu suan chang	0
+六厂	liu chang	0
+六厂医院	liu chang yi yuan	0
+六厂终点站	liu chang zhong dian zhan	0
+六厂总站	liu chang zong zhan	0
+龙八路	long ba lu	0
+龙北	long bei	0
+龙凤公园	long feng gong yuan	0
+龙凤火车站	long feng huo che zhan	0
+龙凤交警大队	long feng jiao jing da dui	0
+龙凤桥北	long feng qiao bei	0
+龙凤热电厂	long feng re dian chang	0
+龙凤商场	long feng shang chang	0
+龙凤少年宫	long feng shao nian gong	0
+龙凤站	long feng zhan	0
+龙宫	long gong	0
+龙南小区	long nan xiao qu	0
+龙南小学	long nan xiao xue	0
+龙南医院	long nan yi yuan	0
+龙泉化工厂	long quan hua gong chang	0
+龙十路加油站	long shi lu jia you zhan	0
+龙祥市场	long xiang shi chang	0
+龙新	long xin	0
+绿化队	lv hua dui	0
+马家窑	ma jia yao	0
+马家窑小学	ma jia yao xiao xue	0
+毛毯厂	mao tan chang	0
+煤炭公司	mei tan gong si	0
+煤炭批发市场	mei tan pi fa shi chang	0
+蒙妮坦	meng ni tan	0
+明湖苑	ming hu yuan	0
+明园	ming yuan	0
+牧场	mu chang	0
+南村	nan cun	0
+南二联	nan er lian	0
+南湖景苑	nan hu jing yuan	0
+南六联	nan liu lian	0
+南七联	nan qi lian	0
+南三油库	nan san you ku	0
+南十三联	nan shi san lian	0
+南四联	nan si lian	0
+南五联	nan wu lian	0
+南一油库	nan yi you ku	0
+农场	nong chang	0
+农工商	nong gong shang	0
+农垦大学	nong ken da xue	0
+培训中心	pei xun zhong xin	0
+批发市场	pi fa shi chang	0
+皮革厂	pi ge chang	0
+皮件厂	pi jian chang	0
+苹果村	ping guo cun	0
+七厂	qi chang	0
+七区	qi qu	0
+七站	qi zhan	0
+齐家铁道口	qi jia tie dao kou	0
+汽车大厦	qi che da sha	0
+汽罐站	qi guan zhan	0
+汽配城	qi pei cheng	0
+前福家	qian fu jia	0
+前胡家	qian hu jia	0
+桥西	qiao xi	0
+青龙山	qing long shan	0
+清真寺	qing zhen si	0
+庆丰小学	qing feng xiao xue	0
+庆化市场	qing hua shi chang	0
+庆客隆	qing ke long	0
+庆龙小区	qing long xiao qu	0
+庆南商场	qing nan shang chang	0
+庆仪公司	qing yi gong si	0
+庆中	qing zhong	0
+秋林	qiu lin	0
+区政府	qu zheng fu	0
+群英村	qun ying cun	0
+让胡路	rang hu lu	0
+让胡路八小区	rang hu lu ba xiao qu	0
+让胡路火车站	rang hu lu huo che zhan	0
+让胡路商场	rang hu lu shang chang	0
+让胡路十小区	rang hu lu shi xiao qu	0
+让胡路始发站	rang hu lu shi fa zhan	0
+让胡路西站	rang hu lu xi zhan	0
+让胡路站	rang hu lu zhan	0
+让胡路总站	rang hu lu zong zhan	0
+让湖路	rang hu lu	0
+让区政府	rang qu zheng fu	0
+让商场	rang shang chang	0
+让西站	rang xi zhan	0
+人民医院	ren min yi yuan	0
+人民医院北门	ren min yi yuan bei men	0
+人民医院后门	ren min yi yuan hou men	0
+人民医院西	ren min yi yuan xi	0
+人寿保险公司	ren shou bao xian gong si	0
+日报社	ri bao she	0
+乳品厂	ru pin chang	0
+乳品机械研究所	ru pin ji xie yan jiu suo	0
+萨北	sa bei	0
+萨大路	sa da lu	0
+萨大路转盘	sa da lu zhuan pan	0
+萨南站	sa nan zhan	0
+萨区二小	sa qu er xiao	0
+三百	san bai	0
+三不管	san bu guan	0
+三厂四矿	san chang si kuang	0
+三厂医院	san chang yi yuan	0
+三村	san cun	0
+三号楼	san hao lou	0
+三建	san jian	0
+三区	san qu	0
+三区五队	san qu wu dui	0
+三胜	san sheng	0
+三十六中	san shi liu zhong	0
+三十六中学	san shi liu zhong xue	0
+三医院	san yi yuan	0
+商贸	shang mao	0
+商贸城	shang mao cheng	0
+商贸站	shang mao zhan	0
+商贸中心	shang mao zhong xin	0
+商务酒楼	shang wu jiu lou	0
+商厦	shang sha	0
+上游站	shang you zhan	0
+设计院	she ji yuan	0
+社区服务中心	she qu fu wu zhong xin	0
+胜利村	sheng li cun	0
+胜利屯	sheng li tun	0
+师专	shi zhuan	0
+十八中	shi ba zhong	0
+十区	shi qu	0
+十中分校	shi zhong fen xiao	0
+石材市场	shi cai shi chang	0
+石化第一招	shi hua di yi zhao	0
+石化总厂	shi hua zong chang	0
+石油分站	shi you fen zhan	0
+石油学院	shi you xue yuan	0
+时代丽景	shi dai li jing	0
+实验小学	shi yan xiao xue	0
+实验站	shi yan zhan	0
+世纪家园	shi ji jia yuan	0
+市场	shi chang	0
+市政府	shi zheng fu	0
+试采公司	shi cai gong si	0
+试验大队	shi yan da dui	0
+输油市场	shu you shi chang	0
+双发屯	shuang fa tun	0
+双发屯西	shuang fa tun xi	0
+双龙山	shuang long shan	0
+水库	shui ku	0
+水泥公司	shui ni gong si	0
+四厂	si chang	0
+四厂二矿	si chang er kuang	0
+四厂三矿	si chang san kuang	0
+四区	si qu	0
+四十三巷	si shi san xiang	0
+四十三巷	si shi san hang	0
+四十四中	si shi si zhong	0
+四医院	si yi yuan	0
+塑料厂	su liao chang	0
+体育场	ti yu chang	0
+天桥商场	tian qiao shang chang	0
+铁道口	tie dao kou	0
+铁东税务	tie dong shui wu	0
+铁人二村	tie ren er cun	0
+铁人井	tie ren jing	0
+铁人三村	tie ren san cun	0
+铁人一村	tie ren yi cun	0
+铁西市场	tie xi shi chang	0
+铁西税务所	tie xi shui wu suo	0
+铁西医院	tie xi yi yuan	0
+铁中	tie zhong	0
+通讯站	tong xun zhan	0
+通宇公司	tong yu gong si	0
+图强街	tu qiang jie	0
+图书馆	tu shu guan	0
+万宝大市场	wan bao da shi chang	0
+万宝二区	wan bao er qu	0
+万宝二小区	wan bao er xiao qu	0
+万宝三区	wan bao san qu	0
+万宝市场	wan bao shi chang	0
+万宝物业	wan bao wu ye	0
+万峰公司	wan feng gong si	0
+纬七路	wei qi lu	0
+纬五路	wei wu lu	0
+卫校	wei xiao	0
+文化村	wen hua cun	0
+文化宫	wen hua gong	0
+文化活动中心	wen hua huo dong zhong xin	0
+文化西村	wen hua xi cun	0
+文化中心	wen hua zhong xin	0
+卧里屯	wo li tun	0
+五厂	wu chang	0
+五厂二矿	wu chang er kuang	0
+五厂技校	wu chang ji xiao	0
+五厂六矿	wu chang liu kuang	0
+五大队	wu da dui	0
+五矿	wu kuang	0
+五区	wu qu	0
+五星村	wu xing cun	0
+五医院	wu yi yuan	0
+物探五大队	wu tan wu da dui	0
+物业	wu ye	0
+物业公司	wu ye gong si	0
+物业所	wu ye suo	0
+物资集团	wu zi ji tuan	0
+物资装备总公司	wu zi zhuang bei zong gong si	0
+西宾二十二巷	xi bin er shi er xiang	0
+西宾二十二巷	xi bin er shi er hang	0
+西宾十八巷	xi bin shi ba xiang	0
+西宾十八巷	xi bin shi ba hang	0
+西槐路	xi huai lu	0
+西水源	xi shui yuan	0
+西晓楼区	xi xiao lou qu	0
+西苑	xi yuan	0
+西苑小区	xi yuan xiao qu	0
+西寨市场	xi zhai shi chang	0
+希望	xi wang	0
+希望小区	xi wang xiao qu	0
+香榭丽	xiang xie li	0
+祥阁学校	xiang ge xue xiao	0
+向阳大队	xiang yang da dui	0
+向阳公社	xiang yang gong she	0
+向阳荣小学	xiang yang rong xiao xue	0
+消防队	xiao fang dui	0
+小红岗	xiao hong gang	0
+新百大	xin bai da	0
+新潮	xin chao	0
+新潮家具城	xin chao jia ju cheng	0
+新二小区	xin er xiao qu	0
+新华电厂	xin hua dian chang	0
+新华书店	xin hua shu dian	0
+新建村	xin jian cun	0
+新玛特	xin ma te	0
+新三村	xin san cun	0
+兴隆基地	xing long ji di	0
+星火	xing huo	0
+星火村	xing huo cun	0
+杏九联	xing jiu lian	0
+杏六联	xing liu lian	0
+杏十二联	xing shi er lian	0
+杏树岗	xing shu gang	0
+杏五井	xing wu jing	0
+殡仪馆	bin yi guan	0
+岩心室	yan xin shi	0
+研究院	yan jiu yuan	0
+阳光佳苑	yang guang jia yuan	0
+养路大队	yang lu da dui	0
+一厂四矿	yi chang si kuang	0
+一村	yi cun	0
+一号岗	yi hao gang	0
+一号楼	yi hao lou	0
+一楼区	yi lou qu	0
+一区	yi qu	0
+一所	yi suo	0
+一小区	yi xiao qu	0
+一营	yi ying	0
+一中	yi zhong	0
+医学院	yi xue yuan	0
+医院东门	yi yuan dong men	0
+医院门诊部	yi yuan men zhen bu	0
+仪修站	yi xiu zhan	0
+怡园	yi yuan	0
+怡园小区	yi yuan xiao qu	0
+乙烯农场	yi xi nong chang	0
+乙烯商场	yi xi shang chang	0
+乙烯市场	yi xi shi chang	0
+艺术中心	yi shu zhong xin	0
+益民	yi min	0
+银浪村	yin lang cun	0
+银浪二区	yin lang er qu	0
+银浪库	yin lang ku	0
+银浪市场	yin lang shi chang	0
+银浪四区	yin lang si qu	0
+迎风村	ying feng cun	0
+迎峰村	ying feng cun	0
+永盛	yong sheng	0
+邮电局	you dian ju	0
+邮局	you ju	0
+油建五大队	you jian wu da dui	0
+油田乐园	you tian le yuan	0
+油田设计院	you tian she ji yuan	0
+油田书店	you tian shu dian	0
+油田图书馆	you tian tu shu guan	0
+油田总医院	you tian zong yi yuan	0
+友谊路	you yi lu	0
+园丁楼	yuan ding lou	0
+远望	yuan wang	0
+远望高层	yuan wang gao ceng	0
+远望始发站	yuan wang shi fa zhan	0
+远望小区	yuan wang xiao qu	0
+远望站	yuan wang zhan	0
+远望转盘	yuan wang zhuan pan	0
+运输处	yun shu chu	0
+运输工程公司	yun shu gong cheng gong si	0
+运输公司	yun shu gong si	0
+张铁匠	zhang tie jiang	0
+张铁匠六街	zhang tie jiang liu jie	0
+张铁匠楼区	zhang tie jiang lou qu	0
+肇洲	zhao zhou	0
+振富小区	zhen fu xiao qu	0
+振明肛肠医院	zhen ming gang chang yi yuan	0
+镇政府	zhen zheng fu	0
+正大方盛	zheng da fang sheng	0
+正大方盛	zheng da fang cheng	0
+正法寺	zheng fa si	0
+制材厂	zhi cai chang	0
+中八路	zhong ba lu	0
+中建街	zhong jian jie	0
+中井街	zhong jing jie	0
+中九队	zhong jiu dui	0
+中林街	zhong lin jie	0
+中平街	zhong ping jie	0
+中三站	zhong san zhan	0
+中十六联合站	zhong shi liu lian he zhan	0
+中四变	zhong si bian	0
+中央大街	zhong yang da jie	0
+中医院	zhong yi yuan	0
+转盘道	zhuan pan dao	0
+装建大队	zhuang jian da dui	0
+自备电厂	zi bei dian chang	0
+综合厂	zong he chang	0
+总厂办公楼	zong chang ban gong lou	0
+总机厂	zong ji chang	0
+钻井二公司	zuan jing er gong si	0
+钻井一公司	zuan jing yi gong si	0
+钻三器材	zuan san qi cai	0
+作业大队	zuo ye da dui	0

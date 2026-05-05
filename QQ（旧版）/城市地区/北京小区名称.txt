@@ -1,0 +1,402 @@
+# 词库名称: 北京小区名称
+# 词库分类: 北京 城市地区
+# 词库描述: 楼盘，小区名称
+# 词条样例: 沄沄国际、安达花园、安贞小区、柏林山水、百旺新城、保利百合、北辰香麓、北京新天地、博雅德园、彩虹新城
+# 词条数量: 394
+# 解析词数: 394
+# 解析异常: 0
+
+沄沄国际	yun yun guo ji	0
+艾瑟顿国际公寓	ai se dun guo ji gong yu	0
+爱码国际大厦	ai ma guo ji da sha	0
+安达花园	an da hua yuan	0
+安宁花园	an ning hua yuan	0
+安宁里	an ning li	0
+安贞小区	an zhen xiao qu	0
+八里庄北里小区	ba li zhuang bei li xiao qu	0
+柏林爱乐	bo lin ai yue	0
+柏林山水	bo lin shan shui	0
+百朗园	bai lang yuan	0
+百旺家苑	bai wang jia yuan	0
+百旺新城	bai wang xin cheng	0
+百旺茉莉园	bai wang mo li yuan	0
+半山枫林	ban shan feng lin	0
+保利百合	bao li bai he	0
+宝盛里	bao sheng li	0
+北岸布鲁斯	bei an bu lu si	0
+北辰香麓	bei chen xiang lu	0
+北京六月	bei jing liu yue	0
+北京五月	bei jing wu yue	0
+北京新天地	bei jing xin tian di	0
+北京印象	bei jing yin xiang	0
+博望园	bo wang yuan	0
+博雅德园	bo ya de yuan	0
+博雅西园	bo ya xi yuan	0
+财智公馆	cai zhi gong guan	0
+彩虹新城	cai hong xin cheng	0
+长安西点	chang an xi dian	0
+长安新城	chang an xin cheng	0
+长河湾	zhang he wan	0
+长河湾	chang he wan	0
+长远天地	chang yuan tian di	0
+厂洼小区	chang wa xiao qu	0
+畅春园食街	chang chun yuan shi jie	0
+橙色年代	cheng se nian dai	0
+诚品建筑	cheng pin jian zhu	0
+创富大厦	chuang fu da sha	0
+创辉国际中心	chuang hui guo ji zhong xin	0
+创业园	chuang ye yuan	0
+创意北京	chuang yi bei jing	0
+翠城	cui cheng	0
+翠湖花园别墅	cui hu hua yuan bie shu	0
+翠微嘉园	cui wei jia yuan	0
+丹青府	dan qing fu	0
+当代城市家园	dang dai cheng shi jia yuan	0
+道乐蒙恩商务街	dao le meng en shang wu jie	0
+第三极	di san ji	0
+钓鱼台七号院	diao yu tai qi hao yuan	0
+东方一品	dong fang yi pin	0
+东升科技园北领地	dong sheng ke ji yuan bei ling di	0
+东升园	dong sheng yuan	0
+动街区	dong jie qu	0
+都景苑	dou jing yuan	0
+都景苑	du jing yuan	0
+都市网景	du shi wang jing	0
+恩济庄园	en ji zhuang yuan	0
+非常宿舍	fei chang su she	0
+枫丹丽舍	feng dan li she	0
+枫蓝国际中心	feng lan guo ji zhong xin	0
+枫润家园	feng run jia yuan	0
+蜂鸟社区	feng niao she qu	0
+锋尚国际公寓	feng shang guo ji gong yu	0
+富力桃园	fu li tao yuan	0
+富润家园	fu run jia yuan	0
+高巢	gao chao	0
+高第	gao di	0
+格林莱雅	ge lin lai ya	0
+冠城阁	guan cheng ge	0
+冠城园	guan cheng yuan	0
+冠云庄园	guan yun zhuang yuan	0
+观澳园	guan ao yuan	0
+观澜国际花园	guan lan guo ji hua yuan	0
+观林园	guan lin yuan	0
+光大花园	guang da hua yuan	0
+光大水墨风景	guang da shui mo feng jing	0
+光耀东方广场	guang yao dong fang guang chang	0
+广通苑	guang tong yuan	0
+广源大厦	guang yuan da sha	0
+硅谷先锋	gui gu xian feng	0
+国际财经中心	guo ji cai jing zhong xin	0
+国民大厦	guo min da sha	0
+国兴家园	guo xing jia yuan	0
+国悦府	guo yue fu	0
+海丰园	hai feng yuan	0
+海开天秀花园	hai kai tian xiu hua yuan	0
+海清园	hai qing yuan	0
+海兴大厦	hai xing da sha	0
+海育大厦	hai yu da sha	0
+海云轩	hai yun xuan	0
+汉荣家园	han rong jia yuan	0
+荷清园	he qing yuan	0
+和景园	he jing yuan	0
+褐石	he shi	0
+恒润中心	heng run zhong xin	0
+鸿坤理想城	hong kun li xiang cheng	0
+宏嘉丽园	hong jia li yuan	0
+弘善家园	hong shan jia yuan	0
+红杉国际公寓	hong shan guo ji gong yu	0
+花园公寓	hua yuan gong yu	0
+花园苑	hua yuan yuan	0
+华宝大厦	hua bao da sha	0
+华龙美树	hua long mei shu	0
+华清嘉园	hua qing jia yuan	0
+华润上地	hua run shang di	0
+华盛家园	hua sheng jia yuan	0
+华熙乐茂	hua xi le mao	0
+华熙乐茂	hua xi yue mao	0
+辉煌国际广场	hui huang guo ji guang chang	0
+汇福轩	hui fu xuan	0
+汇景阁	hui jing ge	0
+汇通花园	hui tong hua yuan	0
+蓟宁居	ji ning ju	0
+嘉德公寓	jia de gong yu	0
+嘉豪国际中心	jia hao guo ji zhong xin	0
+嘉慧苑	jia hui yuan	0
+健翔园	jian xiang yuan	0
+讲礼新村	jiang li xin cun	0
+金澳国际	jin ao guo ji	0
+金榜园	jin bang yuan	0
+金谷小区	jin gu xiao qu	0
+金水湾商业步行街	jin shui wan shang ye bu xing jie	0
+金雅园	jin ya yuan	0
+金隅美和园	jin yu mei he yuan	0
+金隅山墅	jin yu shan shu	0
+金隅万科城	jin yu wan ke cheng	0
+金晖嘉园	jin hui jia yuan	0
+今典花园	jin dian hua yuan	0
+今日家园	jin ri jia yuan	0
+锦秋知春	jin qiu zhi chun	0
+锦绣大地公寓	jin xiu da di gong yu	0
+锦绣雅园	jin xiu ya yuan	0
+京通苑	jing tong yuan	0
+京艺新地	jing yi xin di	0
+京洲华园	jing zhou hua yuan	0
+菊园盛景	ju yuan sheng jing	0
+康桥水郡	kang qiao shui jun	0
+旷怡中心	kuang yi zhong xin	0
+蓝靛厂晨月园	lan dian chang chen yue yuan	0
+蓝色澳林	lan se ao lin	0
+兰德华庭	lan de hua ting	0
+理想国际大厦	li xiang guo ji da sha	0
+丽锦苑	li jin yuan	0
+立方庭	li fang ting	0
+立业人家	li ye ren jia	0
+莲花小区	lian hua xiao qu	0
+亮丽园	liang li yuan	0
+领秀新硅谷	ling xiu xin gui gu	0
+鲁艺上河村	lu yi shang he cun	0
+绿波园	lv bo yuan	0
+绿谷雅园	lv gu ya yuan	0
+马奈草地	ma nai cao di	0
+满庭芳园	man ting fang yuan	0
+玫瑰御园	mei gui yu yuan	0
+美丽花园	mei li hua yuan	0
+美丽经典	mei li jing dian	0
+美丽西园	mei li xi yuan	0
+美丽园	mei li yuan	0
+美利山	mei li shan	0
+美林花园	mei lin hua yuan	0
+美欣家园	mei xin jia yuan	0
+民族家园	min zu jia yuan	0
+铭科苑	ming ke yuan	0
+纳丹堡	na dan bao	0
+纽约客	niu yue ke	0
+诺亚新洲	nuo ya xin zhou	0
+欧美汇大厦	ou mei hui da sha	0
+品阁	pin ge	0
+苹果派	ping guo pai	0
+旗胜家园	qi sheng jia yuan	0
+气象局园区	qi xiang ju yuan qu	0
+沁春家园	qin chun jia yuan	0
+沁园公寓	qin yuan gong yu	0
+清枫华景园	qing feng hua jing yuan	0
+清河住宅楼	qing he zhu zhai lou	0
+清林苑	qing lin yuan	0
+清上园	qing shang yuan	0
+清秀阁	qing xiu ge	0
+清缘里小区	qing yuan li xiao qu	0
+人济山庄	ren ji shan zhuang	0
+荣上居	rong shang ju	0
+融金时代广场	rong jin shi dai guang chang	0
+融科资讯中心	rong ke zi xun zhong xin	0
+瑞海国际中心	rui hai guo ji zhong xin	0
+瑞旗家园	rui qi jia yuan	0
+润千秋佳苑	run qian qiu jia yuan	0
+三环新城	san huan xin cheng	0
+山的理想	shan de li xiang	0
+山水倾城	shan shui qing cheng	0
+上层国际	shang ceng guo ji	0
+上地办公楼租赁中心	shang di ban gong lou zu lin zhong xin	0
+上地会馆	shang di hui guan	0
+上地佳园	shang di jia yuan	0
+上第	shang di	0
+上林溪	shang lin xi	0
+上上城	shang shang cheng	0
+上园住宅	shang yuan zhu zhai	0
+上庄家园	shang zhuang jia yuan	0
+上庄三嘉信苑经济适用房	shang zhuang san jia xin yuan jing ji shi yong fang	0
+尚品公寓	shang pin gong yu	0
+尚源国际公寓	shang yuan guo ji gong yu	0
+时代之光名苑	shi dai zhi guang ming yuan	0
+世恒花园	shi heng hua yuan	0
+世纪城	shi ji cheng	0
+世纪豪景	shi ji hao jing	0
+世纪新景	shi ji xin jing	0
+世嘉博客	shi jia bo ke	0
+首创空间	shou chuang kong jian	0
+首享科技大厦	shou xiang ke ji da sha	0
+舒至嘉园	shu zhi jia yuan	0
+舒至家园	shu zhi jia yuan	0
+双榆树住宅楼	shuang yu shu zhu zhai lou	0
+双紫园	shuang zi yuan	0
+水岸芳园	shui an fang yuan	0
+水木天成	shui mu tian cheng	0
+水清木华园	shui qing mu hua yuan	0
+水仙园	shui xian yuan	0
+水之郡	shui zhi jun	0
+顺驰领海	shun chi ling hai	0
+私摩空间	si mo kong jian	0
+四季美景	si ji mei jing	0
+松榆西里	song yu xi li	0
+松榆西里社区	song yu xi li she qu	0
+松榆西里小区	song yu xi li xiao qu	0
+苏家坨经济适用房	su jia tuo jing ji shi yong fang	0
+泰鹏大厦	tai peng da sha	0
+太阳园	tai yang yuan	0
+太月园	tai yue yuan	0
+檀香山别墅	tan xiang shan bie shu	0
+汤泉逸墅	tang quan yi shu	0
+唐宁府	tang ning fu	0
+藤花紫院	teng hua zi yuan	0
+天地美墅	tian di mei shu	0
+天时名苑	tian shi ming yuan	0
+天行建商务花园	tian xing jian shang wu hua yuan	0
+天涯名流别墅	tian ya ming liu bie shu	0
+天兆家园	tian zhao jia yuan	0
+万城华府	wan cheng hua fu	0
+万地名苑	wan di ming yuan	0
+万方苑	wan fang yuan	0
+万景公寓	wan jing gong yu	0
+万科西山庭院	wan ke xi shan ting yuan	0
+万科西山庭院知了街	wan ke xi shan ting yuan zhi liao jie	0
+万泉新新家园	wan quan xin xin jia yuan	0
+万瑞国际公寓	wan rui guo ji gong yu	0
+万润家园	wan run jia yuan	0
+万象新天	wan xiang xin tian	0
+万泽御河湾	wan ze yu he wan	0
+望都新地	wang du xin di	0
+威地科技大厦	wei di ke ji da sha	0
+威地科技大厦	wei de ke ji da sha	0
+威凯星期八	wei kai xing qi ba	0
+韦伯豪	wei bo hao	0
+文慧园	wen hui yuan	0
+文津国际	wen jin guo ji	0
+文林商苑	wen lin shang yuan	0
+武夷花园	wu yi hua yuan	0
+五孔桥小区	wu kong qiao xiao qu	0
+熙湖	xi hu	0
+西长安中心	xi chang an zhong xin	0
+西翠长安	xi cui chang an	0
+西翠芳庭	xi cui fang ting	0
+西钓鱼台	xi diao yu tai	0
+西海国际中心	xi hai guo ji zhong xin	0
+西山美庐	xi shan mei lu	0
+西山洋房	xi shan yang fang	0
+西山应物会议中心	xi shan ying wu hui yi zhong xin	0
+西屋国际公寓	xi wu guo ji gong yu	0
+夏威夷	xia wei yi	0
+夏威夷北岸	xia wei yi bei an	0
+香山别墅	xiang shan bie shu	0
+香山清琴	xiang shan qing qin	0
+香山艺墅	xiang shan yi shu	0
+香溪度	xiang xi du	0
+香邑山	xiang yi shan	0
+橡树湾	xiang shu wan	0
+小汤山	xiao tang shan	0
+新和皓月	xin he hao yue	0
+新华联国际	xin hua lian guo ji	0
+新纪元花园	xin ji yuan hua yuan	0
+新康园	xin kang yuan	0
+新科祥园	xin ke xiang yuan	0
+新龙广场	xin long guang chang	0
+新起点嘉园	xin qi dian jia yuan	0
+新桥家园	xin qiao jia yuan	0
+新中关	xin zhong guan	0
+新中环公寓	xin zhong huan gong yu	0
+新洲大厦	xin zhou da sha	0
+星河皓月	xing he hao yue	0
+旭辉奥都	xu hui ao du	0
+学府园	xue fu yuan	0
+学院春天	xue yuan chun tian	0
+学院国际大厦	xue yuan guo ji da sha	0
+学院路商务楼	xue yuan lu shang wu lou	0
+学院派	xue yuan pai	0
+学知轩	xue zhi xuan	0
+学知园	xue zhi yuan	0
+雪梨澳乡	xue li ao xiang	0
+雅世合金公寓	ya shi he jin gong yu	0
+亚北太阳城	ya bei tai yang cheng	0
+燕归园	yan gui yuan	0
+燕尚园	yan shang yuan	0
+燕西台	yan xi tai	0
+阳春光华家园	yang chun guang hua jia yuan	0
+依都阁	yi dou ge	0
+依都阁	yi du ge	0
+颐安嘉园	yi an jia yuan	0
+颐丰庄园	yi feng zhuang yuan	0
+颐海居科技公寓	yi hai ju ke ji gong yu	0
+颐和山庄	yi he shan zhuang	0
+颐慧佳园	yi hui jia yuan	0
+颐清家园	yi qing jia yuan	0
+颐西庄园	yi xi zhuang yuan	0
+颐源居	yi yuan ju	0
+宜品上层	yi pin shang ceng	0
+亿城西山华府	yi cheng xi shan hua fu	0
+亿城中关村软件园项目	yi cheng zhong guan cun ruan jian yuan xiang mu	0
+逸成东苑	yi cheng dong yuan	0
+逸升轩	yi sheng xuan	0
+银科大厦	yin ke da sha	0
+银科名苑	yin ke ming yuan	0
+银利娜	yin li na	0
+永达逸家	yong da yi jia	0
+永泰园	yong tai yuan	0
+永泰郦城果岭	yong tai li cheng guo ling	0
+隅长安山麓	yu chang an shan lu	0
+玉阜嘉园	yu fu jia yuan	0
+玉海园	yu hai yuan	0
+御墅临枫	yu shu lin feng	0
+御水苑	yu shui yuan	0
+御香山	yu xiang shan	0
+御园	yu yuan	0
+裕龙花园	yu long hua yuan	0
+圆明园花园	yuan ming yuan hua yuan	0
+缘溪堂	yuan xi tang	0
+远洋沁山水	yuan yang qin shan shui	0
+远洋一方	yuan yang yi fang	0
+月华轩	yue hua xuan	0
+悦秀园	yue xiu yuan	0
+云景帝成	yun jing di cheng	0
+泽丰苑	ze feng yuan	0
+增光佳苑	zeng guang jia yuan	0
+正源定慧福里	zheng yuan ding hui fu li	0
+知本时代	zhi ben shi dai	0
+知春时代	zhi chun shi dai	0
+知语城	zhi yu cheng	0
+智慧大厦	zhi hui da sha	0
+智学苑小区	zhi xue yuan xiao qu	0
+智业园	zhi ye yuan	0
+中关村公馆	zhong guan cun gong guan	0
+中关村公馆底商	zhong guan cun gong guan di shang	0
+中关村环保园原动力空间	zhong guan cun huan bao yuan yuan dong li kong jian	0
+中关村科贸中心	zhong guan cun ke mao zhong xin	0
+中国房子	zhong guo fang zi	0
+中海安德鲁斯	zhong hai an de lu si	0
+中海城	zhong hai cheng	0
+中海枫涟山庄	zhong hai feng lian shan zhuang	0
+中海雅园	zhong hai ya yuan	0
+中海紫金苑	zhong hai zi jin yuan	0
+中海馥园	zhong hai fu yuan	0
+中间建筑	zhong jian jian zhu	0
+中铁置业翰庭	zhong tie zhi ye han ting	0
+中湾国际	zhong wan guo ji	0
+中兴家园	zhong xing jia yuan	0
+中鑫嘉园	zhong xin jia yuan	0
+珠江奥古斯	zhu jiang ao gu si	0
+珠江奥古斯塔城邦	zhu jiang ao gu si ta cheng bang	0
+朱房小区	zhu fang xiao qu	0
+诸子阶	zhu zi jie	0
+竹溪园	zhu xi yuan	0
+主语城	zhu yu cheng	0
+专家国际花园	zhuan jia guo ji hua yuan	0
+紫城	zi cheng	0
+紫都金座	zi dou jin zuo	0
+紫都金座	zi du jin zuo	0
+紫都学苑	zi dou xue yuan	0
+紫都学苑	zi du xue yuan	0
+紫金长安	zi jin chang an	0
+紫金长河	zi jin chang he	0
+紫金新干线	zi jin xin gan xian	0
+紫御府	zi yu fu	0
+紫苑阁	zi yuan ge	0
+紫竹花园	zi zhu hua yuan	0
+自由度	zi you du	0
+自在香山	zi zai xiang shan	0
+左邻右社	zuo lin you she	0
+怡丽南园	yi li nan yuan	0
+怡丽园	yi li yuan	0
+怡美家园	yi mei jia yuan	0
+怡清园	yi qing yuan	0
+怡升园	yi sheng yuan	0
+鑫德嘉园	xin de jia yuan	0
+鑫雅苑	xin ya yuan	0
+麒麟家园	qi lin jia yuan	0
