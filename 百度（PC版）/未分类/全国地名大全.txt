@@ -1,0 +1,881 @@
+# 词库名称: 全国地名大全
+# 词库分类: 城市·区划
+# 词库作者: 机械果冻
+# 词库描述: 收录全国的地名，包括各省、市、县以及岛屿的名称。
+# 词条数量: 873
+# 解析词数: 873
+# 解析异常: 0
+
+黄浦区	huang pu qu	0
+卢湾区	lu wan qu	0
+徐汇区	xu hui qu	0
+长宁区	chang ning qu	0
+静安区	jing an qu	0
+普陀区	pu tuo qu	0
+闸北区	zha bei qu	0
+虹口区	hong kou qu	0
+杨浦区	yang pu qu	0
+宝山区	bao shan qu	0
+闵行区	min hang qu	0
+嘉定区	jia ding qu	0
+松江区	song jiang qu	0
+金山区	jin shan qu	0
+青浦区	qing pu qu	0
+南汇区	nan hui qu	0
+奉贤区	feng xian qu	0
+崇明县	chong ming xian	0
+浦东新区	pu dong xin qu	0
+东城区	dong cheng qu	0
+西城区	xi cheng qu	0
+崇文区	chong wen qu	0
+宣武区	xuan wu qu	0
+朝阳区	chao yang qu	0
+海淀区	hai dian qu	0
+丰台区	feng tai qu	0
+房山区	fang shan qu	0
+通州区	tong zhou qu	0
+顺义区	shun yi qu	0
+昌平区	chang ping qu	0
+大兴区	da xing qu	0
+怀柔区	huai rou qu	0
+平谷区	ping gu qu	0
+密云县	mi yun xian	0
+延庆县	yan qing xian	0
+门头沟区	men tou gou qu	0
+石景山区	shi jing shan qu	0
+和平区	he ping qu	0
+河东区	he dong qu	0
+河西区	he xi qu	0
+南开区	nan kai qu	0
+河北区	he bei qu	0
+红桥区	hong qiao qu	0
+塘沽区	tang gu qu	0
+汉沽区	han gu qu	0
+大港区	da gang qu	0
+东丽区	dong li qu	0
+西青区	xi qing qu	0
+北辰区	bei chen qu	0
+津南区	jin nan qu	0
+武清区	wu qing qu	0
+宝坻区	bao di qu	0
+静海县	jing hai xian	0
+宁河县	ning he xian	0
+蓟县	ji xian	0
+辛集市	xin ji shi	0
+藁城市	gao cheng shi	0
+晋州市	jin zhou shi	0
+新乐市	xin le shi	0
+鹿泉市	lu quan shi	0
+平山县	ping shan xian	0
+井陉县	jing xing xian	0
+栾城县	luan cheng xian	0
+正定县	zheng ding xian	0
+行唐县	xing tang xian	0
+灵寿县	ling shou xian	0
+高邑县	gao yi xian	0
+赵县	zhao xian	0
+赞皇县	zan huang xian	0
+深泽县	shen ze xian	0
+无极县	wu ji xian	0
+元氏县	yuan shi xian	0
+唐山市	tang shan shi	0
+遵化市	zun hua shi	0
+迁安市	qian an shi	0
+迁西县	qian xi xian	0
+滦南县	luan nan xian	0
+玉田县	yu tian xian	0
+唐海县	tang hai xian	0
+乐亭县	lao ting xian	0
+滦县	luan xian	0
+昌黎县	chang li xian	0
+卢龙县	lu long xian	0
+抚宁县	fu ning xian	0
+邯郸市	han dan shi	0
+武安市	wu an shi	0
+邯郸县	han dan xian	0
+永年县	yong nian xian	0
+曲周县	qu zhou xian	0
+馆陶县	guan tao xian	0
+魏县	wei xian	0
+成安县	cheng an xian	0
+大名县	da ming xian	0
+涉县	she xian	0
+鸡泽县	ji ze xian	0
+邱县	qiu xian	0
+广平县	guang ping xian	0
+肥乡县	fei xiang xian	0
+临漳县	lin zhang xian	0
+磁县	ci xian	0
+邢台市	xing tai shi	0
+南宫市	nan gong shi	0
+沙河市	sha he shi	0
+邢台县	xing tai xian	0
+柏乡县	bai xiang xian	0
+任县	ren xian	0
+清河县	qing he xian	0
+宁晋县	ning jin xian	0
+威县	wei xian	0
+隆尧县	long yao xian	0
+临城县	lin cheng xian	0
+广宗县	guang zong xian	0
+临西县	lin xi xian	0
+内丘县	nei qiu xian	0
+平乡县	ping xiang xian	0
+巨鹿县	ju lu xian	0
+新河县	xin he xian	0
+新河县	xin he xuan	0
+南和县	nan he xian	0
+保定市	bao ding shi	0
+涿州市	zhuo zhou shi	0
+定州市	ding zhou shi	0
+安国市	an guo shi	0
+满城县	man cheng xian	0
+清苑县	qing yuan xian	0
+涞水县	lai shui xian	0
+阜平县	fu ping xian	0
+徐水县	xu shui xian	0
+定兴县	ding xing xian	0
+唐县	tang xian	0
+高阳县	gao yang xian	0
+容城县	rong cheng xian	0
+涞源县	lai yuan xian	0
+望都县	wang du xian	0
+安新县	an xin xian	0
+易县	yi xian	0
+曲阳县	qu yang xian	0
+蠡县	li xian	0
+顺平县	shun ping xian	0
+博野县	bo ye xian	0
+雄县	xiong xian	0
+宣化县	xuan hua xian	0
+康保县	kang bao xian	0
+张北县	zhang bei xian	0
+阳原县	yang yuan xian	0
+赤城县	chi cheng xian	0
+沽源县	gu yuan xian	0
+怀安县	huai an xian	0
+怀来县	huai lai xian	0
+崇礼县	chong li xian	0
+尚义县	shang yi xian	0
+蔚县	wei xian	0
+涿鹿县	zhuo lu xian	0
+万全县	wan quan xian	0
+承德市	cheng de shi	0
+承德县	cheng de xian	0
+兴隆县	xing long xian	0
+隆化县	long hua xian	0
+平泉县	ping quan xian	0
+滦平县	luan ping xian	0
+沧州市	cang zhou shi	0
+泊头市	bo tou shi	0
+任丘市	ren qiu shi	0
+黄骅市	huang hua shi	0
+河间市	he jian shi	0
+沧县	cang xian	0
+青县	qing xian	0
+献县	xian xian	0
+东光县	dong guang xian	0
+海兴县	hai xing xian	0
+盐山县	yan shan xian	0
+肃宁县	su ning xian	0
+南皮县	nan pi xian	0
+吴桥县	wu qiao xian	0
+廊坊市	lang fang shi	0
+霸州市	ba zhou shi	0
+三河市	san he shi	0
+固安县	gu an xian	0
+永清县	yong qing xian	0
+香河县	xiang he xian	0
+大城县	da cheng xian	0
+文安县	wen an xian	0
+衡水市	heng shui shi	0
+冀州市	ji zhou shi	0
+深州市	shen zhou shi	0
+饶阳县	rao yang xian	0
+枣强县	zao qiang xian	0
+故城县	gu cheng xian	0
+阜城县	fu cheng xian	0
+安平县	an ping xian	0
+武邑县	wu yi xian	0
+武邑县	wu yi xuan	0
+景县	jing xian	0
+武强县	wu qiang xian	0
+石家庄市	shi jia zhuang shi	0
+张家口市	zhang jia kou shi	0
+高碑店市	gao bei dian shi	0
+秦皇岛市	qin huang dao shi	0
+大厂回族自治县	da chang hui zu zi zhi xian	0
+青龙满族自治县	qing long man zu zi zhi xian	0
+丰宁满族自治县	feng ning man zu zi zhi xian	0
+宽城满族自治县	kuan cheng man zu zi zhi xian	0
+孟村回族自治县	meng cun hui zu zi zhi xian	0
+围场满族蒙古族自治县	wei chang man zu meng gu zu zi zhi xian	0
+太原市	tai yuan shi	0
+古交市	gu jiao shi	0
+阳曲县	yang qu xian	0
+清徐县	qing xu xian	0
+娄烦县	lou fan xian	0
+大同市	da tong shi	0
+大同县	da tong xian	0
+天镇县	tian zhen xian	0
+灵丘县	ling qiu xian	0
+阳高县	yang gao xian	0
+左云县	zuo yun xian	0
+广灵县	guang ling xian	0
+浑源县	hun yuan xian	0
+阳泉市	yang quan shi	0
+平定县	ping ding xian	0
+盂县	yu xian	0
+长治市	chang zhi shi	0
+潞城市	lu cheng shi	0
+长治县	chang zhi xian	0
+长子县	zhang zi xian	0
+平顺县	ping shun xian	0
+襄垣县	xiang yuan xian	0
+沁源县	qin yuan xian	0
+屯留县	tun liu xian	0
+黎城县	li cheng xian	0
+武乡县	wu xiang xian	0
+沁县	qin xian	0
+壶关县	hu guan xian	0
+晋城市	jin cheng shi	0
+高平市	gao ping shi	0
+泽州县	ze zhou xian	0
+陵川县	ling chuan xian	0
+阳城县	yang cheng xian	0
+沁水县	qin shui xian	0
+朔州市	shuo zhou shi	0
+山阴县	shan yin xian	0
+右玉县	you yu xian	0
+应县	ying xian	0
+怀仁县	huai ren xian	0
+晋中市	jin zhong shi	0
+介休市	jie xiu shi	0
+昔阳县	xi yang xian	0
+灵石县	ling shi xian	0
+祁县	qi xian	0
+左权县	zuo quan xian	0
+寿阳县	shou yang xian	0
+太谷县	tai gu xian	0
+和顺县	he shun xian	0
+平遥县	ping yao xian	0
+榆社县	yu she xian	0
+运城市	yun cheng shi	0
+河津市	he jin shi	0
+永济市	yong ji shi	0
+闻喜县	wen xi xian	0
+新绛县	xin jiang xian	0
+平陆县	ping lu xian	0
+垣曲县	yuan qu xian	0
+绛县	jiang xian	0
+稷山县	ji shan xian	0
+芮城县	rui cheng xian	0
+夏县	xia xian	0
+万荣县	wan rong xian	0
+临猗县	lin yi xian	0
+忻州市	xin zhou shi	0
+原平市	yuan ping shi	0
+代县	dai xian	0
+神池县	shen chi xian	0
+五寨县	wu zhai xian	0
+五寨县	wu zhai xuan	0
+五台县	wu tai xian	0
+偏关县	pian guan xian	0
+宁武县	ning wu xian	0
+静乐县	jing le xian	0
+繁峙县	fan zhi xian	0
+繁峙县	fan zhi xuan	0
+河曲县	he qu xian	0
+保德县	bao de xian	0
+定襄县	ding xiang xian	0
+岢岚县	ke lan xian	0
+临汾市	lin fen shi	0
+侯马市	hou ma shi	0
+霍州市	huo zhou shi	0
+汾西县	fen xi xian	0
+吉县	ji xian	0
+安泽县	an ze xian	0
+大宁县	da ning xian	0
+大宁县	da ning xuan	0
+浮山县	fu shan xian	0
+浮山县	fu shan xuan	0
+古县	gu xian	0
+隰县	xi xian	0
+襄汾县	xiang fen xian	0
+翼城县	yi cheng xian	0
+永和县	yong he xian	0
+乡宁县	xiang ning xian	0
+曲沃县	qu wo xian	0
+洪洞县	hong dong xian	0
+蒲县	pu xian	0
+吕梁市	lv liang shi	0
+孝义市	xiao yi shi	0
+汾阳市	fen yang shi	0
+文水县	wen shui xian	0
+中阳县	zhong yang xian	0
+兴县	xing xian	0
+临县	lin xian	0
+方山县	fang shan xian	0
+柳林县	liu lin xian	0
+岚县	lan xian	0
+交口县	jiao kou xian	0
+交口县	jiao kou xuan	0
+交城县	jiao cheng xian	0
+石楼县	shi lou xian	0
+石楼县	shi lou xuan	0
+武川县	wu chuan xian	0
+包头市	bao tou shi	0
+固阳县	gu yang xian	0
+乌海市	wu hai shi	0
+赤峰市	chi feng shi	0
+宁城县	ning cheng xian	0
+林西县	lin xi xian	0
+敖汉旗	ao han qi	0
+开鲁县	kai lu xian	0
+通辽市	tong liao shi	0
+库伦旗	ku lun qi	0
+奈曼旗	nai man qi	0
+乌审旗	wu shen qi	0
+杭锦旗	hang jin qi	0
+根河市	gen he shi	0
+阿荣旗	a rong qi	0
+五原县	wu yuan xian	0
+磴口县	deng kou xian	0
+丰镇市	feng zhen shi	0
+兴和县	xing he xian	0
+卓资县	zhuo zi xian	0
+商都县	shang du xian	0
+凉城县	liang cheng xian	0
+化德县	hua de xian	0
+多伦县	duo lun xian	0
+正蓝旗	zheng lan qi	0
+镶黄旗	xiang huang qi	0
+兴安盟	xing an meng	0
+突泉县	tu quan xian	0
+托克托县	tuo ke tuo xian	0
+清水河县	qing shui he xian	0
+喀喇沁旗	ka la qin qi	0
+巴林左旗	ba lin zuo qi	0
+翁牛特旗	weng niu te qi	0
+巴林右旗	ba lin you qi	0
+扎鲁特旗	zha lu te qi	0
+准格尔旗	zhun ge er qi	0
+鄂托克旗	e tuo ke qi	0
+达拉特旗	da la te qi	0
+满洲里市	man zhou li shi	0
+牙克石市	ya ke shi shi	0
+扎兰屯市	zha lan tun shi	0
+杭锦后旗	hang jin hou qi	0
+四子王旗	si zi wang qi	0
+阿巴嘎旗	a ba ga qi	0
+太仆寺旗	tai pu si qi	0
+正镶白旗	zheng xiang bai qi	0
+阿尔山市	a er shan shi	0
+扎赉特旗	zha lai te qi	0
+阿拉善盟	a la shan meng	0
+额济纳旗	e ji na qi	0
+呼和浩特市	hu he hao te shi	0
+和林格尔县	he lin ge er xian	0
+和林格尔县	he lin ge er xuan	0
+土默特左旗	tu mo te zuo qi	0
+土默特右旗	tu mo te you qi	0
+克什克腾旗	ke shi ke teng qi	0
+霍林郭勒市	huo lin guo le shi	0
+鄂尔多斯市	e er duo si shi	0
+伊金霍洛旗	yi jin huo luo qi	0
+鄂托克前旗	e tuo ke qian qi	0
+呼伦贝尔市	hu lun bei er shi	0
+额尔古纳市	e er gu na shi	0
+陈巴尔虎旗	chen ba er hu qi	0
+巴彦淖尔市	ba yan nao er shi	0
+乌拉特中旗	wu la te zhong qi	0
+乌拉特前旗	wu la te qian qi	0
+乌拉特后旗	wu la te hou qi	0
+乌兰察布市	wu lan cha bu shi	0
+锡林浩特市	xi lin hao te shi	0
+二连浩特市	er lian hao te shi	0
+苏尼特左旗	su ni te zuo qi	0
+苏尼特右旗	su ni te you qi	0
+锡林郭勒盟	xi lin guo le meng	0
+乌兰浩特市	wu lan hao te shi	0
+阿拉善左旗	a la shan zuo qi	0
+阿拉善右旗	a la shan you qi	0
+阿鲁科尔沁旗	a lu ke er qin qi	0
+新巴尔虎左旗	xin ba er hu zuo qi	0
+新巴尔虎右旗	xin ba er hu you qi	0
+鄂伦春自治旗	e lun chun zi zhi qi	0
+西乌珠穆沁旗	xi wu zhu mu qin qi	0
+东乌珠穆沁旗	dong wu zhu mu qin qi	0
+科尔沁左翼中旗	ke er qin zuo yi zhong qi	0
+科尔沁左翼后旗	ke er qin zuo yi hou qi	0
+鄂温克族自治旗	e wen ke zu zi zhi qi	0
+察哈尔右翼前旗	cha ha er you yi qian qi	0
+察哈尔右翼中旗	cha ha er you yi zhong qi	0
+察哈尔右翼后旗	cha ha er you yi hou qi	0
+科尔沁右翼前旗	ke er qin you yi qian qi	0
+科尔沁右翼中旗	ke er qin you yi zhong qi	0
+达尔罕茂明安联合旗	da er han mao ming an lian he qi	0
+沈阳市	shen yang shi	0
+新民市	xin min shi	0
+法库县	fa ku xian	0
+辽中县	liao zhong xian	0
+康平县	kang ping xian	0
+大连市	da lian shi	0
+庄河市	zhuang he shi	0
+长海县	chang hai xian	0
+鞍山市	an shan shi	0
+海城市	hai cheng shi	0
+台安县	tai an xian	0
+抚顺市	fu shun shi	0
+抚顺县	fu shun xian	0
+本溪市	ben xi shi	0
+丹东市	dan dong shi	0
+东港市	dong gang shi	0
+凤城市	feng cheng shi	0
+锦州市	jin zhou shi	0
+凌海市	ling hai shi	0
+北宁市	bei ning shi	0
+黑山县	hei shan xian	0
+义县	yi xian	0
+营口市	ying kou shi	0
+盖州市	gai zhou shi	0
+阜新市	fu xin shi	0
+彰武县	zhang wu xian	0
+辽阳市	liao yang shi	0
+灯塔市	deng ta shi	0
+辽阳县	liao yang xian	0
+盘锦市	pan jin shi	0
+盘山县	pan shan xian	0
+大洼县	da wa xian	0
+铁岭市	tie ling shi	0
+开原市	kai yuan shi	0
+铁岭县	tie ling xian	0
+昌图县	chang tu xian	0
+西丰县	xi feng xian	0
+朝阳市	chao yang shi	0
+凌源市	ling yuan shi	0
+北票市	bei piao shi	0
+朝阳县	chao yang xian	0
+建平县	jian ping xian	0
+兴城市	xing cheng shi	0
+绥中县	sui zhong xian	0
+建昌县	jian chang xian	0
+大石桥市	da shi qiao shi	0
+瓦房店市	wa fang dian shi	0
+普兰店市	pu lan dian shi	0
+调兵山市	diao bing shan shi	0
+葫芦岛市	hu lu dao shi	0
+岫岩满族自治县	xiu yan man zu zi zhi xian	0
+清原满族自治县	qing yuan man zu zi zhi xian	0
+新宾满族自治县	xin bin man zu zi zhi xian	0
+阜新蒙古族自治县	fu xin meng gu zu zi zhi xian	0
+宽甸满族自治县	kuan dian man zu zi zhi xian	0
+桓仁满族自治县	huan ren man zu zi zhi xian	0
+本溪满族自治县	ben xi man zu zi zhi xian	0
+长春市	chang chun shi	0
+九台市	jiu tai shi	0
+榆树市	yu shu shi	0
+德惠市	de hui shi	0
+农安县	nong an xian	0
+吉林市	ji lin shi	0
+舒兰市	shu lan shi	0
+桦甸市	hua dian shi	0
+蛟河市	jiao he shi	0
+磐石市	pan shi shi	0
+永吉县	yong ji xian	0
+四平市	si ping shi	0
+双辽市	shuang liao shi	0
+梨树县	li shu xian	0
+辽源市	liao yuan shi	0
+东辽县	dong liao xian	0
+东丰县	dong feng xian	0
+通化市	tong hua shi	0
+集安市	ji an shi	0
+通化县	tong hua xian	0
+辉南县	hui nan xian	0
+柳河县	liu he xian	0
+白山市	bai shan shi	0
+临江市	lin jiang shi	0
+靖宇县	jing yu xian	0
+抚松县	fu song xian	0
+江源县	jiang yuan xian	0
+松原市	song yuan shi	0
+乾安县	qian an xian	0
+长岭县	chang ling xian	0
+扶余县	fu yu xian	0
+白城市	bai cheng shi	0
+大安市	da an shi	0
+洮南市	tao nan shi	0
+镇赉县	zhen lai xian	0
+通榆县	tong yu xian	0
+延吉市	yan ji shi	0
+图们市	tu men shi	0
+敦化市	dun hua shi	0
+龙井市	long jing shi	0
+珲春市	hun chun shi	0
+和龙市	he long shi	0
+安图县	an tu xian	0
+汪清县	wang qing xian	0
+公主岭市	gong zhu ling shi	0
+梅河口市	mei he kou shi	0
+伊通满族自治县	yi tong man zu zi zhi xian	0
+长白朝鲜族自治县	chang bai chao xian zu zi zhi xian	0
+延边朝鲜族自治州	yan bian chao xian zu zi zhi zhou	0
+阿城市	a cheng shi	0
+尚志市	shang zhi shi	0
+双城市	shuang cheng shi	0
+五常市	wu chang shi	0
+方正县	fang zheng xian	0
+宾县	bin xian	0
+依兰县	yi lan xian	0
+巴彦县	ba yan xian	0
+通河县	tong he xian	0
+木兰县	mu lan xian	0
+延寿县	yan shou xian	0
+讷河市	ne he shi	0
+富裕县	fu yu xian	0
+拜泉县	bai quan xian	0
+甘南县	gan nan xian	0
+依安县	yi an xian	0
+克山县	ke shan xian	0
+泰来县	tai lai xian	0
+克东县	ke dong xian	0
+龙江县	long jiang xian	0
+鹤岗市	he gang shi	0
+萝北县	luo bei xian	0
+绥滨县	sui bin xian	0
+集贤县	ji xian xian	0
+宝清县	bao qing xian	0
+友谊县	you yi xian	0
+饶河县	rao he xian	0
+鸡西市	ji xi shi	0
+密山市	mi shan shi	0
+虎林市	hu lin shi	0
+鸡东县	ji dong xian	0
+大庆市	da qing shi	0
+林甸县	lin dian xian	0
+肇州县	zhao zhou xian	0
+肇源县	zhao yuan xian	0
+漠河县	mo he xian	0
+伊春市	yi chun shi	0
+铁力市	tie li shi	0
+嘉荫县	jia yin xian	0
+宁安市	ning an shi	0
+海林市	hai lin shi	0
+穆棱市	mu ling shi	0
+林口县	lin kou xian	0
+东宁县	dong ning xian	0
+同江市	tong jiang shi	0
+富锦市	fu jin shi	0
+桦川县	hua chuan xian	0
+抚远县	fu yuan xian	0
+桦南县	hua nan xian	0
+汤原县	tang yuan xian	0
+汤原县	tang yuan xuan	0
+勃利县	bo li xian	0
+黑河市	hei he shi	0
+北安市	bei an shi	0
+逊克县	xun ke xian	0
+嫩江县	nen jiang xian	0
+孙吴县	sun wu xian	0
+孙吴县	sun wu xuan	0
+绥化市	sui hua shi	0
+安达市	an da shi	0
+肇东市	zhao dong shi	0
+海伦市	hai lun shi	0
+绥棱县	sui ling xian	0
+兰西县	lan xi xian	0
+明水县	ming shui xian	0
+明水县	ming shui xuan	0
+青冈县	qing gang xian	0
+庆安县	qing an xian	0
+望奎县	wang kui xian	0
+呼玛县	hu ma xian	0
+塔河县	ta he xian	0
+七台河市	qi tai he shi	0
+双鸭山市	shuang ya shan shi	0
+牡丹江市	mu dan jiang shi	0
+佳木斯市	jia mu si shi	0
+绥芬河市	sui fen he shi	0
+哈尔滨市	ha er bin shi	0
+齐齐哈尔市	qi qi ha er shi	0
+五大连池市	wu da lian chi shi	0
+杜尔伯特蒙古族自治县	du er bo te meng gu zu zi zhi xian	0
+南京市	nan jing shi	0
+溧水县	li shui xian	0
+高淳县	gao chun xian	0
+无锡市	wu xi shi	0
+江阴市	jiang yin shi	0
+宜兴市	yi xing shi	0
+徐州市	xu zhou shi	0
+邳州市	pi zhou shi	0
+新沂市	xin yi shi	0
+铜山县	tong shan xian	0
+睢宁县	sui ning xian	0
+沛县	pei xian	0
+丰县	feng xian	0
+常州市	chang zhou shi	0
+金坛市	jin tan shi	0
+溧阳市	li yang shi	0
+苏州市	su zhou shi	0
+常熟市	chang shu shi	0
+太仓市	tai cang shi	0
+昆山市	kun shan shi	0
+吴江市	wu jiang shi	0
+南通市	nan tong shi	0
+如皋市	ru gao shi	0
+通州市	tong zhou shi	0
+海门市	hai men shi	0
+启东市	qi dong shi	0
+海安县	hai an xian	0
+如东县	ru dong xian	0
+东海县	dong hai xian	0
+灌云县	guan yun xian	0
+赣榆县	gan yu xian	0
+灌南县	guan nan xian	0
+淮安市	huai an shi	0
+涟水县	lian shui xian	0
+洪泽县	hong ze xian	0
+金湖县	jin hu xian	0
+盱眙县	xu yi xian	0
+盐城市	yan cheng shi	0
+东台市	dong tai shi	0
+大丰市	da feng shi	0
+建湖县	jian hu xian	0
+响水县	xiang shui xian	0
+阜宁县	fu ning xian	0
+射阳县	she yang xian	0
+滨海县	bin hai xian	0
+扬州市	yang zhou shi	0
+高邮市	gao you shi	0
+江都市	jiang du shi	0
+仪征市	yi zheng shi	0
+宝应县	bao ying xian	0
+镇江市	zhen jiang shi	0
+丹阳市	dan yang shi	0
+扬中市	yang zhong shi	0
+句容市	ju rong shi	0
+泰州市	tai zhou shi	0
+泰兴市	tai xing shi	0
+姜堰市	jiang yan shi	0
+靖江市	jing jiang shi	0
+兴化市	xing hua shi	0
+宿迁市	su qian shi	0
+沭阳县	shu yang xian	0
+泗阳县	si yang xian	0
+泗洪县	si hong xian	0
+连云港市	lian yun gang shi	0
+张家港市	zhang jia gang shi	0
+杭州市	hang zhou shi	0
+建德市	jian de shi	0
+富阳市	fu yang shi	0
+临安市	lin an shi	0
+桐庐县	tong lu xian	0
+淳安县	chun an xian	0
+宁波市	ning bo shi	0
+余姚市	yu yao shi	0
+慈溪市	ci xi shi	0
+奉化市	feng hua shi	0
+宁海县	ning hai xian	0
+象山县	xiang shan xian	0
+温州市	wen zhou shi	0
+瑞安市	rui an shi	0
+乐清市	yue qing shi	0
+永嘉县	yong jia xian	0
+洞头县	dong tou xian	0
+平阳县	ping yang xian	0
+苍南县	cang nan xian	0
+文成县	wen cheng xian	0
+泰顺县	tai shun xian	0
+嘉兴市	jia xing shi	0
+海宁市	hai ning shi	0
+平湖市	ping hu shi	0
+桐乡市	tong xiang shi	0
+嘉善县	jia shan xian	0
+海盐县	hai yan xian	0
+湖州市	hu zhou shi	0
+长兴县	chang xing xian	0
+德清县	de qing xian	0
+安吉县	an ji xian	0
+绍兴市	shao xing shi	0
+诸暨市	zhu ji shi	0
+上虞市	shang yu shi	0
+嵊州市	sheng zhou shi	0
+绍兴县	shao xing xian	0
+新昌县	xin chang xian	0
+金华市	jin hua shi	0
+兰溪市	lan xi shi	0
+义乌市	yi wu shi	0
+东阳市	dong yang shi	0
+永康市	yong kang shi	0
+武义县	wu yi xian	0
+浦江县	pu jiang xian	0
+磐安县	pan an xian	0
+衢州市	qu zhou shi	0
+江山市	jiang shan shi	0
+龙游县	long you xian	0
+常山县	chang shan xian	0
+开化县	kai hua xian	0
+舟山市	zhou shan shi	0
+岱山县	dai shan xian	0
+嵊泗县	sheng si xian	0
+台州市	tai zhou shi	0
+临海市	lin hai shi	0
+玉环县	yu huan xian	0
+天台县	tian tai xian	0
+仙居县	xian ju xian	0
+三门县	san men xian	0
+丽水市	li shui shi	0
+龙泉市	long quan shi	0
+缙云县	jin yun xian	0
+青田县	qing tian xian	0
+云和县	yun he xian	0
+遂昌县	sui chang xian	0
+松阳县	song yang xian	0
+庆元县	qing yuan xian	0
+景宁畲族自治县	jing ning she zu zi zhi xian	0
+合肥市	he fei shi	0
+长丰县	chang feng xian	0
+肥东县	fei dong xian	0
+肥西县	fei xi xian	0
+芜湖市	wu hu shi	0
+芜湖县	wu hu xian	0
+南陵县	nan ling xian	0
+繁昌县	fan chang xian	0
+蚌埠市	beng bu shi	0
+怀远县	huai yuan xian	0
+固镇县	gu zhen xian	0
+五河县	wu he xian	0
+淮南市	huai nan shi	0
+凤台县	feng tai xian	0
+当涂县	dang tu xian	0
+淮北市	huai bei shi	0
+濉溪县	sui xi xian	0
+安庆市	an qing shi	0
+桐城市	tong cheng shi	0
+宿松县	su song xian	0
+枞阳县	zong yang xian	0
+太湖县	tai hu xian	0
+怀宁县	huai ning xian	0
+岳西县	yue xi xian	0
+望江县	wang jiang xian	0
+潜山县	qian shan xian	0
+黄山市	huang shan shi	0
+休宁县	xiu ning xian	0
+歙县	she xian	0
+祁门县	qi men xian	0
+黟县	yi xian	0
+滁州市	chu zhou shi	0
+天长市	tian chang shi	0
+明光市	ming guang shi	0
+全椒县	quan jiao xian	0
+来安县	lai an xian	0
+定远县	ding yuan xian	0
+凤阳县	feng yang xian	0
+阜阳市	fu yang shi	0
+界首市	jie shou shi	0
+临泉县	lin quan xian	0
+颍上县	ying shang xian	0
+阜南县	fu nan xian	0
+太和县	tai he xian	0
+宿州市	su zhou shi	0
+萧县	xiao xian	0
+泗县	si xian	0
+砀山县	dang shan xian	0
+灵璧县	ling bi xian	0
+巢湖市	chao hu shi	0
+含山县	han shan xian	0
+无为县	wu wei xian	0
+庐江县	lu jiang xian	0
+和县	he xian	0
+六安市	liu an shi	0
+寿县	shou xian	0
+霍山县	huo shan xian	0
+霍邱县	huo qiu xian	0
+舒城县	shu cheng xian	0
+金寨县	jin zhai xian	0
+亳州市	bo zhou shi	0
+利辛县	li xin xian	0
+涡阳县	wo yang xian	0
+涡阳县	wo yang xuan	0
+蒙城县	meng cheng xian	0
+池州市	chi zhou shi	0
+东至县	dong zhi xian	0
+石台县	shi tai xian	0
+青阳县	qing yang xian	0
+宣城市	xuan cheng shi	0
+宁国市	ning guo shi	0
+广德县	guang de xian	0
+郎溪县	lang xi xian	0
+泾县	jing xian	0
+旌德县	jing de xian	0
+绩溪县	ji xi xian	0
+马鞍山市	ma an shan shi	0
+福州市	fu zhou shi	0
+福清市	fu qing shi	0
+长乐市	chang le shi	0
+闽侯县	min hou xian	0
+闽清县	min qing xian	0
+永泰县	yong tai xian	0
+连江县	lian jiang xian	0
+罗源县	luo yuan xian	0
+平潭县	ping tan xian	0
+厦门市	xia men shi	0
+莆田市	pu tian shi	0
+仙游县	xian you xian	0
+三明市	san ming shi	0
+永安市	yong an shi	0
+明溪县	ming xi xian	0
+将乐县	jiang le xian	0
+大田县	da tian xian	0
+宁化县	ning hua xian	0
+建宁县	jian ning xian	0
+沙县	sha xian	0
+尤溪县	you xi xian	0
+清流县	qing liu xian	0
+泰宁县	tai ning xian	0
+泉州市	quan zhou shi	0
+石狮市	shi shi shi	0
+晋江市	jin jiang shi	0
+南安市	nan an shi	0
+惠安县	hui an xian	0
+永春县	yong chun xian	0
+安溪县	an xi xian	0
+德化县	de hua xian	0
+金门县	jin men xian	0
+漳州市	zhang zhou shi	0
+龙海市	long hai shi	0
+平和县	ping he xian	0
+南靖县	nan jing xian	0
+诏安县	zhao an xian	0
+漳浦县	zhang pu xian	0
+华安县	hua an xian	0
+东山县	dong shan xian	0
+长泰县	chang tai xian	0
+云霄县	yun xiao xian	0
+南平市	nan ping shi	0
+建瓯市	jian ou shi	0
+邵武市	shao wu shi	0
+建阳市	jian yang shi	0
+松溪县	song xi xian	0
+光泽县	guang ze xian	0
+顺昌县	shun chang xian	0
+浦城县	pu cheng xian	0
+政和县	zheng he xian	0
+龙岩市	long yan shi	0
+漳平市	zhang ping shi	0
+长汀县	chang ting xian	0
+武平县	wu ping xian	0
+上杭县	shang hang xian	0
+永定县	yong ding xian	0
+连城县	lian cheng xian	0
+宁德市	ning de shi	0
+福安市	fu an shi	0
+福鼎市	fu ding shi	0
+寿宁县	shou ning xian	0
+霞浦县	xia pu xian	0
+柘荣县	zhe rong xian	0
+屏南县	ping nan xian	0
+古田县	gu tian xian	0
+周宁县	zhou ning xian	0
+武夷山市	wu yi shan shi	0
