@@ -1,0 +1,607 @@
+# 词库名称: 我的世界工业
+# 词库分类: 城市区划
+# 词库作者: 1423449120
+# 词库描述: 我的世界工业时代2、重力装甲、高级太阳能；三合一整合词库
+# 词条数量: 599
+# 解析词数: 625
+# 解析异常: 26
+
+空单元	kong dan yuan	0
+岩浆单元	yan jiang dan yuan	0
+水单元	shui dan yuan	0
+压缩空气单元	ya suo kong qi dan yuan	0
+湿润煤炭单元	shi run mei tan dan yuan	0
+生物质单元	sheng wu zhi dan yuan	0
+煤油单元	mei you dan yuan	0
+沼气单元	zhao qi dan yuan	0
+电解水单元	dian jie shui dan yuan	0
+冷却液单元	leng que ye dan yuan	0
+热冷却液单元	re leng que ye dan yuan	0
+熔岩岩浆单元	rong yan yan jiang dan yuan	0
+蒸汽单元	zheng qi dan yuan	0
+水化单元	shui hua dan yuan	0
+蒸馏水单元	zheng liu shui dan yuan	0
+过热蒸汽单元	guo re zheng qi dan yuan	0
+粉碎铜矿石	fen sui tong kuang shi	0
+粉碎金矿石	fen sui jin kuang shi	0
+粉碎铁矿石	fen sui tie kuang shi	0
+粉碎锡矿石	fen sui xi kuang shi	0
+粉碎铀矿石	fen sui you kuang shi	0
+粉碎铀矿石	fen sui you kuang dan	0
+粉碎银矿石	fen sui yin kuang shi	0
+粉碎铅矿石	fen sui qian kuang shi	0
+粉碎铅矿石	fen sui qian kuang dan	0
+纯净的粉碎铜矿石	chun jing de fen sui tong kuang shi	0
+纯净的粉碎金矿石	chun jing de fen sui jin kuang shi	0
+纯净的粉碎铁矿石	chun jing de fen sui tie kuang shi	0
+纯净的粉碎锡矿石	chun jing de fen sui xi kuang shi	0
+纯净的粉碎铀矿石	chun jing de fen sui you kuang shi	0
+纯净的粉碎铀矿石	chun jing de fen sui you kuang dan	0
+纯净的粉碎银矿石	chun jing de fen sui yin kuang shi	0
+纯净的粉碎铅矿石	chun jing de fen sui qian kuang shi	0
+纯净的粉碎铅矿石	chun jing de fen sui qian kuang dan	0
+青铜板	qing tong ban	0
+精炼铁板	jing lian tie ban	0
+铜板	tong ban	0
+金板	jin ban	0
+铁板	tie ban	0
+锡板	xi ban	0
+铅板	qian ban	0
+黑曜石板	hei yao shi ban	0
+青金石板	qing jin shi ban	0
+致密青铜板	zhi mi qing tong ban	0
+致密精炼铁板	zhi mi jing lian tie ban	0
+致密铜板	zhi mi tong ban	0
+致密金板	zhi mi jin ban	0
+致密铁板	zhi mi tie ban	0
+致密锡板	zhi mi xi ban	0
+致密铅板	zhi mi qian ban	0
+致密黑曜石板	zhi mi hei yao shi ban	0
+致密青金石板	zhi mi qing jin shi ban	0
+铜质外壳	tong zhi wai ke	0
+锡质外壳	xi zhi wai ke	0
+青铜外壳	qing tong wai ke	0
+黄金外壳	huang jin wai ke	0
+铁质外壳	tie zhi wai ke	0
+精炼铁外壳	jing lian tie wai ke	0
+铅外壳	qian wai ke	0
+铅外壳	yan wai ke	0
+精炼铁锭	jing lian tie ding	0
+铜锭	tong ding	0
+锡锭	xi ding	0
+青铜锭	qing tong ding	0
+合金锭	he jin ding	0
+铅锭	qian ding	0
+银锭	yin ding	0
+石粉	shi fen	0
+铅粉	qian fen	0
+黑曜石粉	hei yao shi fen	0
+青金石粉	qing jin shi fen	0
+硫粉	liu fen	0
+二氧化硅粉	er yang hua gui fen	0
+钻石粉	zuan shi fen	0
+能量水晶粉	neng liang shui jing fen	0
+煤粉	mei fen	0
+铁粉	tie fen	0
+金粉	jin fen	0
+铜粉	tong fen	0
+锡粉	xi fen	0
+青铜粉	qing tong fen	0
+粘土粉	nian tu fen	0
+银粉	yin fen	0
+小撮铜粉	xiao cuo tong fen	0
+小撮铜粉	xiao zuo tong fen	0
+小撮金粉	xiao cuo jin fen	0
+小撮金粉	xiao zuo jin fen	0
+小撮锡粉	xiao cuo xi fen	0
+小撮锡粉	xiao zuo xi fen	0
+小撮银粉	xiao cuo yin fen	0
+小撮银粉	xiao zuo yin fen	0
+小撮铅粉	xiao cuo qian fen	0
+小撮铅粉	xiao zuo qian fen	0
+小撮硫粉	xiao cuo liu fen	0
+小撮硫粉	xiao zuo liu fen	0
+小撮锂粉	xiao cuo li fen	0
+小撮锂粉	xiao zuo li fen	0
+小撮铁粉	xiao cuo tie fen	0
+小撮铁粉	xiao zuo tie fen	0
+小撮青铜粉	xiao cuo qing tong fen	0
+小撮青铜粉	xiao zuo qing tong fen	0
+小撮青金石粉	xiao cuo qing jin shi fen	0
+小撮青金石粉	xiao zuo qing jin shi fen	0
+小撮黑曜石粉	xiao cuo hei yao shi fen	0
+小撮黑曜石粉	xiao zuo hei yao shi fen	0
+木空转换模板	mu kong zhuan huan mo ban	0
+铁空转换模板	tie kong zhuan huan mu ban	0
+铁空转换模板	tie kong zhuan huan mo ban	0
+空	kong	0
+把手	ba shou	0
+钻头	zuan tou	0
+采矿钻头	cai kuang zuan tou	0
+钻石钻头	zuan shi zuan tou	0
+铱钻头	yi zuan tou	0
+链锯	lian ju	0
+扳手	ban shou	0
+锻造锤	duan zao chui	0
+电动锄	dian dong chu	0
+采矿镭射枪	cai kuang lei she qiang	0
+青铜镐	qing tong gao	0
+青铜镐	qing tong hao	0
+青铜斧	qing tong fu	0
+青铜剑	qing tong jian	0
+青铜铲	qing tong chan	0
+青铜锄	qing tong chu	0
+刷子	shua zi	0
+黑色刷子	hei se shua zi	0
+蓝色刷子	lan se shua zi	0
+棕色刷子	zong se shua zi	0
+浅蓝色刷子	qian lan se shua zi	0
+青色刷子	qing se shua zi	0
+灰色刷子	hui se shua zi	0
+绿色刷子	lv se shua zi	0
+浅灰色刷子	qian hui se shua zi	0
+柠檬色刷子	ning meng se shua zi	0
+品红色刷子	pin hong se shua zi	0
+橙色刷子	cheng se shua zi	0
+粉色刷子	fen se shua zi	0
+紫色刷子	zi se shua zi	0
+红色刷子	hong se shua zi	0
+白色刷子	bai se shua zi	0
+黄色刷子	huang se shua zi	0
+板材切割剪刀	ban cai qie ge jian dao	0
+纳米剑	na mi jian	0
+木龙头	mu long tou	0
+建筑泡沫喷枪	jian zhu pao mo pen qiang	0
+电动扳手	dian dong ban shou	0
+电动树脂提取器	dian dong shu zhi ti qu qi	0
+传送频率遥控器	chuan song pin lv yao kong qi	0
+没有设置目标	mei you she zhi mu biao	0
+拟态板	ni tai ban	0
+作物分析仪	zuo wu fen xi yi	0
+风力计	feng li ji	0
+车床工具	che chuang gong ju	0
+能量流入	neng liang liu ru	0
+能量流出	neng liang liu chu	0
+获得能量	huo de neng liang	0
+电压	dian ya	0
+转换为	zhuan huan wei	0
+重置	chong zhi	0
+最大最小	zui da zui xiao	0
+电力喷气背包	dian li pen qi bei bao	0
+青铜头盔	qing tong tou kui	0
+青铜胸甲	qing tong xiong jia	0
+青铜护腿	qing tong hu tui	0
+青铜靴子	qing tong xue zi	0
+兰波顿储电背包	lan bo dun chu dian bei bao	0
+兰波顿储电背包	lan bo du chu dian bei bao	0
+强化储电背包	qiang hua chu dian bei bao	0
+能量水晶储电背包	neng liang shui jing chu dian bei bao	0
+储电背包	chu dian bei bao	0
+复合背心	fu he bei xin	0
+纳米头盔	na mi tou kui	0
+纳米护甲	na mi hu jia	0
+纳米护腿	na mi hu tui	0
+纳米靴子	na mi xue zi	0
+量子头盔	liang zi tou kui	0
+量子护甲	liang zi hu jia	0
+量子护腿	liang zi hu tui	0
+量子靴子	liang zi xue zi	0
+橡胶靴	xiang jiao xue	0
+防化头盔	fang hua tou kui	0
+防化服	fang hua fu	0
+防化裤	fang hua ku	0
+夜视镜	ye shi jing	0
+太阳能头盔	tai yang neng tou kui	0
+静电靴	jing dian xue	0
+建筑泡沫背包	jian zhu pao mo bei bao	0
+铜质导线	tong zhi dao xian	0
+金质导线	jin zhi dao xian	0
+绝缘金质导线	jue yuan jin zhi dao xian	0
+绝缘高压导线	jue yuan gao ya dao xian	0
+锡质导线	xi zhi dao xian	0
+绝缘锡质导线	jue yuan xi zhi dao xian	0
+高压升级	gao ya sheng ji	0
+储能升级	chu neng sheng ji	0
+弹出升级	tan chu sheng ji	0
+流体弹出升级	liu ti tan chu sheng ji	0
+红石信号反转升级	hong shi xin hao fan zhuan sheng ji	0
+抽入升级	chou ru sheng ji	0
+高热容反应堆隔板	gao re rong fan ying dui ge ban	0
+密封反应堆隔板	mi feng fan ying dui ge ban	0
+热交换器	re jiao huan qi	0
+反应堆热交换器	fan ying dui re jiao huan qi	0
+元件热交换器	yuan jian re jiao huan qi	0
+高级热交换器	gao ji re jiao huan qi	0
+散热片	san re pian	0
+反应堆散热片	fan ying dui san re pian	0
+超频散热片	chao pin san re pian	0
+元件散热片	yuan jian san re pian	0
+高级散热片	gao ji san re pian	0
+中子反射板	zhong zi fan she ban	0
+加厚中子反射板	jia hou zhong zi fan she ban	0
+红石冷却单元	hong shi leng que dan yuan	0
+青金石冷却单元	qing jin shi leng que dan yuan	0
+燃料棒铀	ran liao bang you	0
+双联燃料棒铀	shuang lian ran liao bang you	0
+四联燃料棒铀	si lian ran liao bang you	0
+四联燃料棒枯竭铀	si lian ran liao bang ku jie you	0
+燃料棒枯竭铀	ran liao bang ku jie you	0
+浓缩铀核燃料	nong suo you he ran liao	0
+钚	bu	0
+小撮钚	xiao cuo bu	0
+小撮钚	xiao zuo bu	0
+铀	you	0
+小撮铀	xiao cuo you	0
+小撮铀	xiao zuo you	0
+浓缩铀核燃料靶丸	nong suo you he ran liao ba wan	0
+燃料棒锂	ran liao bang li	0
+锂粉	li fen	0
+燃料棒氚	ran liao bang chuan	0
+放射性同位素燃料靶丸	fang she xing tong wei su ran liao ba wan	0
+燃料棒空	ran liao bang kong	0
+地形转换模板空白	di xing zhuan huan mo ban kong bai	0
+地形转换模板冰原	di xing zhuan huan mu ban bing yuan	0
+地形转换模板冰原	di xing zhuan huan mo ban bing yuan	0
+地形转换模板耕地	di xing zhuan huan mu ban geng di	0
+地形转换模板耕地	di xing zhuan huan mo ban geng di	0
+地形转换模板沙漠	di xing zhuan huan mu ban sha mo	0
+地形转换模板沙漠	di xing zhuan huan mo ban sha mo	0
+地形转换模板平地	di xing zhuan huan mu ban ping di	0
+地形转换模板平地	di xing zhuan huan mo ban ping di	0
+地形转换模板灌溉	di xing zhuan huan mu ban guan gai	0
+地形转换模板灌溉	di xing zhuan huan mo ban guan gai	0
+地形转换模板蘑菇	di xing zhuan huan mu ban mo gu	0
+地形转换模板蘑菇	di xing zhuan huan mo ban mo gu	0
+未知	wei zhi	0
+不可用	bu ke yong	0
+杂草	za cao	0
+小麦	xiao mai	0
+南瓜	nan gua	0
+西瓜	xi gua	0
+蒲公英	pu gong ying	0
+玫瑰	mei gui	0
+黑刺李	hei ci li	0
+郁金香	yu jin xiang	0
+缤纷花	bin fen hua	0
+奇妙花	qi miao hua	0
+甘蔗	gan zhe	0
+树脂甘蔗	shu zhi gan zhe	0
+可可	ke ke	0
+铁叶草	tie ye cao	0
+铁叶草	tie xie cao	0
+金叶草	jin ye cao	0
+红麦	hong mai	0
+红麦	gong mai	0
+地狱疣	di yu you	0
+大地疣	da di you	0
+咖啡	ka fei	0
+啤酒花	pi jiu hua	0
+胡萝卜	hu luo bo	0
+胡萝卜	hu luo bu	0
+马铃薯	ma ling shu	0
+红蘑菇	hong mo gu	0
+棕蘑菇	zong mo gu	0
+充电电池	chong dian dian chi	0
+一次性电池	yi ci xing dian chi	0
+能量水晶	neng liang shui jing	0
+兰波顿水晶	lan bo dun shui jing	0
+兰波顿水晶	lan bo du shui jing	0
+高级充电电池	gao ji chong dian dian chi	0
+能量充电电池	neng liang chong dian dian chi	0
+兰波顿充电电池	lan bo dun chong dian dian chi	0
+兰波顿充电电池	lan bo du chong dian dian chi	0
+燃油罐满	ran you guan man	0
+燃油罐空	ran you guan kong	0
+湿润煤粉	shi run mei fen	0
+湿润煤炭	shi run mei tan	0
+植物球	zhi wu qiu	0
+锡罐	xi guan	0
+锡罐满	xi guan man	0
+粘性树脂	nian xing shu zhi	0
+橡胶	xiang jiao	0
+炸药	zha yao	0
+粘性炸药	nian xing zha yao	0
+遥控引爆器	yao kong yin bao qi	0
+电路板	dian lu ban	0
+高级电路板	gao ji dian lu ban	0
+高级合金	gao ji he jin	0
+废料	fei liao	0
+工业铁币	gong ye tie bi	0
+防爆门	fang bao men	0
+生碳纤维	sheng tan xian wei	0
+生碳纤维	sheng tan qian wei	0
+生碳网	sheng tan wang	0
+碳板	tan ban	0
+强化铱板	qiang hua yi ban	0
+废料盒	fei liao he	0
+煤球	mei qiu	0
+压缩煤球	ya suo mei qiu	0
+煤块	mei kuai	0
+工业钻石	gong ye zuan shi	0
+铱矿	yi kuang	0
+肥料	fei liao	0
+碳纤维轻艇	tan xian wei qing ting	0
+碳纤维轻艇	tan qian wei qing ting	0
+橡皮艇	xiang pi ting	0
+损坏的橡皮艇	sun huai de xiang pi ting	0
+损坏的橡皮艇	sun huai di xiang pi ting	0
+电动船	dian dong chuan	0
+工具盒	gong ju he	0
+咖啡豆	ka fei dou	0
+咖啡粉	ka fei fen	0
+石杯	shi bei	0
+石杯	dan bei	0
+零度咖啡	ling du ka fei	0
+黑咖啡	hei ka fei	0
+糠	kang	0
+蛤蛤粉	ge ge fen	0
+除草剂	chu cao ji	0
+除草剪	chu cao jian	0
+冷却液	leng que ye	0
+热传导器	re chuan dao qi	0
+铜锅炉	tong guo lu	0
+建筑泡沫	jian zhu pao mo	0
+灰烬	hui jin	0
+线圈	xian quan	0
+电动马达	dian dong ma da	0
+通用流体单元	tong yong liu ti dan yuan	0
+驱动把手	qu dong ba shou	0
+小型驱动把手	xiao xing qu dong ba shou	0
+强化充电电池	qiang hua chong dian dian chi	0
+粗制模式存储水晶	cu zhi mo shi cun chu shui jing	0
+模式存储水晶	mo shi cun chu shui jing	0
+炉渣	lu zha	0
+铁柄	tie bing	0
+精炼铁柄	jing lian tie bing	0
+防辐射容纳盒	fang fu she rong na he	0
+铜矿石	tong kuang shi	0
+锡矿石	xi kuang shi	0
+铀矿石	you kuang shi	0
+铀矿石	you kuang dan	0
+铅矿石	qian kuang shi	0
+铅矿石	qian kuang dan	0
+熔岩岩浆	rong yan yan jiang	0
+热冷却液	re leng que ye	0
+沼气	zhao qi	0
+生物质	sheng wu zhi	0
+蒸馏水	zheng liu shui	0
+过热蒸汽	guo re zheng qi	0
+蒸汽	zheng qi	0
+高级采矿机	gao ji cai kuang ji	0
+黑名单	hei ming dan	0
+重启采矿机	chong qi cai kuang ji	0
+切换模式	qie huan mo shi	0
+流体固体装罐机	liu ti gu ti zhuang guan ji	0
+装罐	zhuang guan	0
+热能离心机	re neng li xin ji	0
+压缩机	ya suo ji	0
+作物监管机	zuo wu jian guan ji	0
+电炉	dian lu	0
+电解机	dian jie ji	0
+提取机	ti qu ji	0
+发酵机	fa jiao ji	0
+发酵机	fa xiao ji	0
+发酵	fa jiao	0
+发酵	fa xiao	0
+肥料收集进程	fei liao shou ji jin cheng	0
+流体装罐机	liu ti zhuang guan ji	0
+感应炉	gan ying lu	0
+铁炉	tie lu	0
+流体热交换机	liu ti re jiao huan ji	0
+最大传输热量	zui da chuan shu re liang	0
+打粉机	da fen ji	0
+效率	xiao lv	0
+金属成型机	jin shu cheng xing ji	0
+挤压	ji ya	0
+辊压	gun ya	0
+剪切	jian qie	0
+采矿机	cai kuang ji	0
+洗矿机	xi kuang ji	0
+模式存储机	mo shi cun chu ji	0
+前一模式	qian yi mo shi	0
+后一模式	hou yi mo shi	0
+从水晶中导入	cong shui jing zhong dao ru	0
+从水晶中导入	zong shui jing zhong dao ru	0
+导出至水晶	dao chu zhi shui jing	0
+泵	beng	0
+检测到金属鞋子	jian ce dao jin shu xie zi	0
+没有检测到金属鞋子	mei you jian ce dao jin shu xie zi	0
+回收机	hui shou ji	0
+复制机	fu zhi ji	0
+停止	ting zhi	0
+单次运行	dan ci yun xing	0
+重复运行	chong fu yun xing	0
+等待中	deng dai zhong	0
+模式扫描机	mo shi sao miao ji	0
+固体装罐机	gu ti zhuang guan ji	0
+流体流量调节机	liu ti liu liang tiao jie ji	0
+冷凝机	leng ning ji	0
+蒸汽机	zheng qi ji	0
+水	shui	0
+压强	ya qiang	0
+输出	shu chu	0
+高炉	gao lu	0
+热量	re liang	0
+方块切割机	fang kuai qie ge ji	0
+切割锯片槽	qie ge ju pian cao	0
+流体分配机	liu ti fen pei ji	0
+过滤混合液体	guo lv hun he ye ti	0
+过滤混合液体	guo lv hun he ye ben	0
+混合纯净液体	hun he chun jing ye ti	0
+电动分拣机	dian dong fen jian ji	0
+默认路径	mo ren lu jing	0
+白名单	bai ming dan	0
+物品缓冲机	wu pin huan chong ji	0
+作物收割机	zuo wu shou ge ji	0
+车床	che chuang	0
+变压器	bian ya qi	0
+低压变压器	di ya bian ya qi	0
+中压变压器	zhong ya bian ya qi	0
+高压变压器	gao ya bian ya qi	0
+超高压变压器	chao gao ya bian ya qi	0
+有红石信号时升压	you hong shi xin hao shi sheng ya	0
+固定降压	gu ding jiang ya	0
+固定升压	gu ding sheng ya	0
+输入	shu ru	0
+储电盒	chu dian he	0
+火力发电机	huo li fa dian ji	0
+地热发电机	di re fa dian ji	0
+核反应堆	he fan ying dui	0
+半流质发电机	ban liu zhi fa dian ji	0
+太阳能发电机	tai yang neng fa dian ji	0
+斯特林发电机	si te lin fa dian ji	0
+水力发电机	shui li fa dian ji	0
+风力发电机	feng li fa dian ji	0
+动能发电机	dong neng fa dian ji	0
+流体加热机	liu ti jia re ji	0
+发热	fa re	0
+最大发热	zui da fa re	0
+固体加热机	gu ti jia re ji	0
+电力加热机	dian li jia re ji	0
+缺少转子	que shao zhuan zi	0
+或转子工作区域重叠	huo zhuan zi gong zuo qu yu chong die	0
+风速过强	feng su guo qiang	0
+转子损伤变大	zhuan zi sun shang bian da	0
+木转子	mu zhuan zi	0
+铁转子	tie zhuan zi	0
+钢转子	gang zhuan zi	0
+碳转子	tan zhuan zi	0
+木扇叶	mu shan ye	0
+铁扇叶	tie shan ye	0
+铁扇叶	tie shan xie	0
+钢扇叶	gang shan ye	0
+碳扇叶	tan shan ye	0
+蒸汽动能发生机	zheng qi dong neng fa sheng ji	0
+流体弹出升级接口	liu ti tan chu sheng ji jie kou	0
+正在运行	zheng zai yun xing	0
+电力动能发生机	dian li dong neng fa sheng ji	0
+最大	zui da	0
+手动动能发生机	shou dong dong neng fa sheng ji	0
+水力动能发生机	shui li dong neng fa sheng ji	0
+只在海洋生物群系	zhi zai hai yang sheng wu qun xi	0
+和河流生物群系工作	he he liu sheng wu qun xi gong zuo	0
+和河流生物群系工作	he he liu sheng wu qun ji gong zuo	0
+和河流生物群系工作	hu he liu sheng wu qun xi gong zuo	0
+和河流生物群系工作	huo he liu sheng wu qun xi gong zuo	0
+和河流生物群系工作	hu he liu sheng wu qun ji gong zuo	0
+和河流生物群系工作	huo he liu sheng wu qun ji gong zuo	0
+蒸汽涡轮	zheng qi wo lun	0
+蒸汽涡轮扇叶	zheng qi wo lun shan ye	0
+反应堆红石接口	fan ying dui hong shi jie kou	0
+反应堆访问接口	fan ying dui fang wen jie kou	0
+反应堆压力容器	fan ying dui ya li rong qi	0
+基础机器外壳	ji chu ji qi wai ke	0
+磁化机	ci hua ji	0
+高级机器外壳	gao ji ji qi wai ke	0
+地形转换机	di xing zhuan huan ji	0
+采矿管道	cai kuang guan dao	0
+橡胶树原木	xiang jiao shu yuan mu	0
+橡胶树树叶	xiang jiao shu shu ye	0
+橡胶树树苗	xiang jiao shu shu miao	0
+核弹	he dan	0
+橡胶垫	xiang jiao dian	0
+核反应仓	he fan ying cang	0
+铁栅栏	tie zha lan	0
+防爆石	fang bao shi	0
+防爆石	fang bao dan	0
+防爆玻璃	fang bao bo li	0
+日光灯	ri guang deng	0
+保险箱	bao xian xiang	0
+贸易箱	mao yi xiang	0
+电力贸易箱	dian li mao yi xiang	0
+铜块	tong kuai	0
+锡块	xi kuai	0
+青铜块	qing tong kuai	0
+铀块	you kuai	0
+铅块	qian kuai	0
+精炼铁块	jing lian tie kuai	0
+玄武岩	xuan wu yan	0
+传送机	chuan song ji	0
+特斯拉线圈	te si la xian quan	0
+强化建筑泡沫	qiang hua jian zhu pao mo	0
+脚手架	jiao shou jia	0
+作物架	zuo wu jia	0
+铁质脚手架	tie zhi jiao shou jia	0
+并不比铁更好	bing bu bi tie geng hao	0
+适宜能源	shi yi neng yuan	0
+制造一个发电机	zhi zao yi ge fa dian ji	0
+胶着局势	jiao zhuo ju shi	0
+能量流	neng liang liu	0
+制造一些导线	zhi zao yi xie dao xian	0
+新兴矿业	xin xing kuang ye	0
+双重麻烦	shuang chong ma fan	0
+建造打粉机	jian zao da fen ji	0
+闪闪发光	shan shan fa guang	0
+压缩煤块制造出钻石	ya suo mei kuai zhi zao chu zuan shi	0
+更热话题	geng re hua ti	0
+建造电炉	jian zao dian lu	0
+超速加工	chao su jia gong	0
+建造感应炉	jian zao gan ying lu	0
+把电存起来	ba dian cun qi lai	0
+建造储电盒	jian zao chu dian he	0
+非凡的压缩技术	fei fan de ya suo ji shu	0
+建造压缩机	jian zao ya suo ji	0
+辐射性	fu she xing	0
+将铀矿压缩为铀燃料锭	jiang you kuang ya suo wei you ran liao ding	0
+将铀矿压缩为铀燃料锭	qiang you kuang ya suo wei you ran liao ding	0
+疯狂伊万	feng kuang yi wan	0
+死于自己放置的核弹	si yu zi ji fang zhi de he dan	0
+死于自己放置的核弹	si yu zi ji fang zhi di he dan	0
+超级树脂提取技术	chao ji shu zhi ti qu ji shu	0
+建造提取机	jian zao ti qu ji	0
+伐木刺客	fa mu ci ke	0
+制作电锯	zhi zuo dian ju	0
+电锯屠夫	dian ju tu fu	0
+用电锯屠杀爬行者	yong dian ju tu sha pa xing zhe	0
+会见牙医	hui jian ya yi	0
+制作钻头	zhi zuo zuan tou	0
+物有所值	wu you suo zhi	0
+升级成钻石钻头	sheng ji cheng zuan shi zuan tou	0
+升级储电设备	sheng ji chu dian she bei	0
+镭射时间	lei she shi jian	0
+制作采矿镭射枪	zhi zuo cai kuang lei she qiang	0
+忘记充电	wang ji chong dian	0
+实在太多了	shi zai tai duo le	0
+建造传送机	jian zao chuan song ji	0
+远得要命王国	yuan de yao ming wang guo	0
+建造地形转换机	jian zao di xing zhuan huan ji	0
+末地如天堂	mo di ru tian tang	0
+末地如天堂	mo de ru tian tang	0
+需求	xu qiu	0
+提供	ti gong	0
+已执行	yi zhi xing	0
+交易	jiao yi	0
+囤积	tun ji	0
+付款	fu kuan	0
+缓存	huan cun	0
+工业	gong ye	0
+辐射	fu she	0
+加工用时	jia gong yong shi	0
+缩短	suo duan	0
+能量增加到	neng liang zeng jia dao	0
+增加一级	zeng jia yi ji	0
+输出电压	shu chu dian ya	0
+方向	fang xiang	0
+第一格有效	di yi ge you xiao	0
+反转	fan zhuan	0
+当前	dang qian	0
+红石信号	hong shi xin hao	0
+抽入物品	chou ru wu pin	0
+标准模式	biao zhun mo shi	0
+无损模式	wu sun mo shi	0
+挖矿模式	wa kuang mo shi	0
+低聚焦模式	di ju jiao mo shi	0
+远距模式	yuan ju mo shi	0
+水平模式	shui ping mo shi	0
+超级热线模式	chao ji re xian mo shi	0
+散射模式	san she mo shi	0
+爆破模式	bao po mo shi	0
+单个模式	dan ge mo shi	0
+精准采集模式	jing zhun cai ji mo shi	0
+不剪叶子模式	bu jian ye zi mo shi	0
+顶部	ding bu	0
+底部	di bu	0
+北边	bei bian	0
+东边	dong bian	0
+南边	nan bian	0
+西边	xi bian	0

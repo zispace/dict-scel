@@ -1,0 +1,342 @@
+# 词库名称: 我的世界沉浸
+# 词库分类: 城市区划
+# 词库作者: 1423449120
+# 词库描述: 我的世界沉浸工艺模组词库
+# 词条数量: 334
+# 解析词数: 335
+# 解析异常: 1
+
+铜矿石	tong kuang shi	0
+铝土矿石	lv tu kuang shi	0
+铝土矿石	lv tu kuang dan	0
+铅矿石	qian kuang shi	0
+铅矿石	qian kuang dan	0
+银矿石	yin kuang shi	0
+镍矿石	nie kuang shi	0
+铜块	tong kuai	0
+铝块	lv kuai	0
+铅块	qian kuai	0
+银块	yin kuai	0
+镍块	nie kuai	0
+康铜块	kang tong kuai	0
+琥珀金块	hu po jin kuai	0
+钢块	gang kuai	0
+铜线圈	tong xian quan	0
+铜线圈	tong xian juan	0
+琥珀金线圈	hu po jin xian quan	0
+琥珀金线圈	hu po jin xian juan	0
+高压线圈	gao ya xian quan	0
+高压线圈	gao ya xian juan	0
+铜台阶	tong tai jie	0
+铝台阶	lv tai jie	0
+铅台阶	qian tai jie	0
+铅台阶	yan tai jie	0
+银台阶	yin tai jie	0
+镍台阶	nie tai jie	0
+康铜台阶	kang tong tai jie	0
+琥珀金台阶	hu po jin tai jie	0
+钢台阶	gang tai jie	0
+低压接线器	di ya jie xian qi	0
+低压电容器	di ya dian rong qi	0
+中压接线器	zhong ya jie xian qi	0
+中压电容器	zhong ya dian rong qi	0
+变压器	bian ya qi	0
+高压继电器	gao ya ji dian qi	0
+高压接线器	gao ya jie xian qi	0
+高压电容器	gao ya dian rong qi	0
+高压变压器	gao ya bian ya qi	0
+动能发电机	dong neng fa dian ji	0
+热传导发电机	re chuan dao fa dian ji	0
+传送带	chuan song dai	0
+外置加热器	wai zhi jia re qi	0
+物品路由器	wu pin lu you qi	0
+岩芯钻井	yan xin zuan jing	0
+卸货传送带	xie huo chuan song dai	0
+避雷针基座	bi lei zhen ji zuo	0
+柴油发电机	chai you fa dian ji	0
+工业挤压机	gong ye ji ya ji	0
+发酵机	fa jiao ji	0
+发酵机	fa xiao ji	0
+炼油厂	lian you chang	0
+粉碎机	fen sui ji	0
+斗轮	dou lun	0
+挖掘机	wa jue ji	0
+电弧炉	dian hu lu	0
+液体储罐	ye ti chu guan	0
+储物筒仓	chu wu tong cang	0
+装配机	zhuang pei ji	0
+灌装机	guan zhuang ji	0
+金属冲压机	jin shu chong ya ji	0
+钢栅栏	gang zha lan	0
+钢制脚手架	gang zhi jiao shou jia	0
+灯	deng	0
+钢制臂架构	gang zhi bi jia gou	0
+散热器模块	san re qi mo kuai	0
+重型工程块	zhong xing gong cheng kuai	0
+发电机模块	fa dian ji mo kuai	0
+轻型工程块	qing xing gong cheng kuai	0
+钢制接线器	gang zhi jie xian qi	0
+钢制壁挂支架	gang zhi bi gua zhi jia	0
+金属板方块	jin shu ban fang kuai	0
+铝栅栏	lv zha lan	0
+铝制脚手架	lv zhi jiao shou jia	0
+铝制臂架构	lv zhi bi jia gou	0
+铝板金属块	lv ban jin shu kuai	0
+铅板金属块	qian ban jin shu kuai	0
+钢板金属块	gang ban jin shu kuai	0
+断路刀闸	duan lu dao zha	0
+电流互感器	dian liu hu gan qi	0
+电灯	dian deng	0
+泛光灯	fan guang deng	0
+输液管	shu ye guan	0
+液泵	ye beng	0
+金属桶	jin shu tong	0
+创造电容器	chuang zao dian rong qi	0
+红石断路器	hong shi duan lu qi	0
+充电站	chong dian zhan	0
+高炉鼓风机	gao lu gu feng ji	0
+防腐木板	fang fu mu ban	0
+木杆	mu gan	0
+水车	shui che	0
+风车	feng che	0
+改良风车	gai liang feng che	0
+木质储存箱	mu zhi chu cun xiang	0
+工程师装配台	gong cheng shi zhuang pei tai	0
+木桶	mu tong	0
+防腐木栅栏	fang fu mu zha lan	0
+防腐木台阶	fang fu mu tai jie	0
+防腐木脚手架	fang fu mu jiao shou jia	0
+木质壁挂支架	mu zhi bi gua zhi jia	0
+防腐木楼梯	fang fu mu lou ti	0
+麻凝土	ma ning tu	0
+焦炉	jiao lu	0
+高炉	gao lu	0
+焦煤块	jiao mei kuai	0
+绝缘玻璃	jue yuan bo li	0
+精制高炉	jing zhi gao lu	0
+焦炉砖	jiao lu zhuan	0
+高炉砖	gao lu zhuan	0
+混凝土	hun ning tu	0
+混凝土砖	hun ning tu zhuan	0
+强化高炉砖	qiang hua gao lu zhuan	0
+混凝土楼梯	hun ning tu lou ti	0
+混凝土砖楼梯	hun ning tu zhuan lou ti	0
+麻凝土台阶	ma ning tu tai jie	0
+混凝土台阶	hun ning tu tai jie	0
+混凝土砖台阶	hun ning tu zhuan tai jie	0
+工业大麻	gong ye da ma	0
+气球	qi qiu	0
+工业大麻收割车	gong ye da ma shou ge che	0
+工业大麻收割车	gong ye da ma shou ge ju	0
+杂酚油	za fen you	0
+植物油	zhi wu you	0
+乙醇	yi chun	0
+生物柴油	sheng wu chai you	0
+铜锭	tong ding	0
+铝锭	lv ding	0
+铅锭	qian ding	0
+银锭	yin ding	0
+镍锭	nie ding	0
+康铜锭	kang tong ding	0
+琥珀金锭	hu po jin ding	0
+钢锭	gang ding	0
+铁粉	tie fen	0
+金粉	jin fen	0
+铜粉	tong fen	0
+铝粉	lv fen	0
+铅粉	qian fen	0
+银粉	yin fen	0
+镍粉	nie fen	0
+康铜粉	kang tong fen	0
+琥珀金粉	hu po jin fen	0
+钢粉	gang fen	0
+焦煤粉	jiao mei fen	0
+下界石英粉	xia jie shi ying fen	0
+石墨粉	shi mo fen	0
+铁粒	tie li	0
+铜粒	tong li	0
+铝粒	lv li	0
+铅粒	qian li	0
+铅粒	yan li	0
+银粒	yin li	0
+镍粒	nie li	0
+康铜粒	kang tong li	0
+琥珀金粒	hu po jin li	0
+钢粒	gang li	0
+铁板	tie ban	0
+铜板	tong ban	0
+铝板	lv ban	0
+铅板	qian ban	0
+银板	yin ban	0
+镍板	nie ban	0
+康铜板	kang tong ban	0
+琥珀金板	hu po jin ban	0
+钢板	gang ban	0
+防腐木棍	fang fu mu gun	0
+防腐木棍	fang fu mu hun	0
+水车部件	shui che bu jian	0
+风车叶片	feng che ye pian	0
+工业大麻纤维	gong ye da ma xian wei	0
+工业大麻纤维	gong ye da ma qian wei	0
+坚韧布料	jian ren bu liao	0
+改良风车叶片	gai liang feng che ye pian	0
+焦煤	jiao mei	0
+枪管	qiang guan	0
+左筒	zuo tong	0
+握柄	wo bing	0
+击锤	ji chui	0
+铁质机械零件	tie zhi ji xie ling jian	0
+钢质机械零件	gang zhi ji xie ling jian	0
+矿渣	kuang zha	0
+铁杆	tie gan	0
+钢杆	gang gan	0
+铝杆	lv gan	0
+工业大麻种子	gong ye da ma zhong zi	0
+杂酚油瓶	za fen you ping	0
+杂酚油桶	za fen you tong	0
+植物油瓶	zhi wu you ping	0
+植物油桶	zhi wu you tong	0
+乙醇瓶	yi chun ping	0
+乙醇桶	yi chun tong	0
+生物柴油瓶	sheng wu chai you ping	0
+生物柴油桶	sheng wu chai you tong	0
+低压线圈	di ya xian quan	0
+低压线圈	di ya xian juan	0
+中压线圈	zhong ya xian quan	0
+麻绳线圈	ma sheng xian quan	0
+钢线圈	gang xian quan	0
+钢线圈	gang xian juan	0
+工程师锤	gong cheng shi chui	0
+工程师剪线钳	gong cheng shi jian xian qian	0
+工程师电表	gong cheng shi dian biao	0
+工程师手册	gong cheng shi shou ce	0
+左轮手枪	zuo lun shou qiang	0
+左轮快速装弹器	zuo lun kuai su zhuang dan qi	0
+蒸汽动力	zheng qi dong li	0
+玩具左轮	wan ju zuo lun	0
+湮灭	yan mie	0
+誓约之守护	shi yue zhi shou hu	0
+黄蜂左轮	huang feng zuo lun	0
+芬里尔巨狼	fen li er ju lang	0
+撼地者	han di zhe	0
+撼地者	han de zhe	0
+光束	guang shu	0
+光束	guang su	0
+超级领袖	chao ji ling xiu	0
+无名	wu ming	0
+遗言	yi yan	0
+扭曲的幻影	niu qu de huan ying	0
+扭曲的幻影	niu qu di huan ying	0
+小型空弹壳	xiao xing kong dan ke	0
+大型空弹壳	da xing kong dan ke	0
+卡苏尔弹	ka su er tan	0
+卡苏尔弹	ka su er dan	0
+卡苏尔弹	qia su er tan	0
+卡苏尔弹	qia su er dan	0
+穿甲弹	chuan jia dan	0
+鹿弹	lu tan	0
+鹿弹	lu dan	0
+高爆弹	gao bao tan	0
+高爆弹	gao bao dan	0
+龙息弹	long xi tan	0
+龙息弹	long xi dan	0
+叶绿弹	ye lv tan	0
+叶绿弹	ye lv dan	0
+狼群弹	lang qun tan	0
+狼群弹	lang qun dan	0
+银弹	yin dan	0
+药剂弹头	yao ji dan tou	0
+飞溅药剂弹头	fei jian yao ji dan tou	0
+持久药剂弹头	chi jiu yao ji dan tou	0
+采矿机械钻	cai kuang ji xie zuan	0
+采矿机械钻	cai kuang ji jie zuan	0
+铁制钻头	tie zhi zuan tou	0
+钢制钻头	gang zhi zuan tou	0
+工程师天钩	gong cheng shi tian gou	0
+内置氧化剂罐	nei zhi yang hua ji guan	0
+高级润滑系统	gao ji run hua xi tong	0
+附加螺旋钻	fu jia luo xuan zuan	0
+大型燃料缸	da xing ran liao gang	0
+刺刀	ci dao	0
+扩充弹夹	kuo chong dan jia	0
+加强电子管	jia qiang dian zi guan	0
+聚焦喷嘴	ju jiao pen zui	0
+瞄准镜	miao zhun jing	0
+附加电容	fu jia dian rong	0
+工程师蓝图	gong cheng shi lan tu	0
+石墨电极	shi mo dian ji	0
+皮肤	pi fu	0
+皮肤奖励袋	pi fu jiang li dai	0
+油罐	you guan	0
+化学喷射器	hua xue pen she qi	0
+轨道炮	gui dao pao	0
+轨道炮	gui dao bao	0
+金属冲压模具板材	jin shu chong ya mu ju ban cai	0
+金属冲压模具齿轮	jin shu chong ya mu ju chi lun	0
+金属冲压模具金属杆	jin shu chong ya mu ju jin shu gan	0
+工程师工具箱	gong cheng shi gong ju xiang	0
+工程师	gong cheng shi	0
+存储能量	cun chu neng liang	0
+高炉燃料热值	gao lu ran liao re zhi	0
+正面	zheng mian	0
+反面	fan mian	0
+上面	shang mian	0
+下面	xia mian	0
+北面	bei mian	0
+南面	nan mian	0
+东面	dong mian	0
+西面	xi mian	0
+未连接	wei lian jie	0
+能量输入	neng liang shu ru	0
+能量输出	neng liang shu chu	0
+流体输入	liu ti shu ru	0
+流体输出	liu ti shu chu	0
+石头	shi tou	0
+铁	tie	0
+红石	hong shi	0
+黑曜石	hei yao shi	0
+钴	gu	0
+玛玉灵	ma yu ling	0
+铁矿	tie kuang	0
+磁铁矿	ci tie kuang	0
+黄铁矿	huang tie kuang	0
+铝土矿	lv tu kuang	0
+铜矿	tong kuang	0
+锡矿	xi kuang	0
+金矿	jin kuang	0
+镍矿	nie kuang	0
+铂矿	bo kuang	0
+铀矿	you kuang	0
+石英矿	shi ying kuang	0
+方铅矿	fang qian kuang	0
+铅矿	qian kuang	0
+银矿	yin kuang	0
+青金石矿	qing jin shi kuang	0
+煤矿	mei kuang	0
+钨矿	wu kuang	0
+所需材料	suo xu cai liao	0
+概率	gai lv	0
+可制作	ke zhi zuo	0
+普通子弹	pu tong zi dan	0
+特种子弹	te zhong zi dan	0
+电弧炉电极	dian hu lu dian ji	0
+完整度	wan zheng du	0
+完整度	wan zheng duo	0
+可应用于	ke ying yong yu	0
+矿车	kuang che	0
+食物	shi wu	0
+工具	gong ju	0
+线材	xian cai	0
+任意物品	ren yi wu pin	0
+横纹木板	heng wen mu ban	0
+纵纹木板	zong wen mu ban	0
+打包的木板	da bao de mu ban	0
+打包的木板	da bao di mu ban	0
+未装配钻头	wei zhuang pei zuan tou	0
+钻头状态	zuan tou zhuang tai	0
+燃料	ran liao	0
+没有燃料	mei you ran liao	0
+采矿区域	cai kuang qu yu	0
+采矿等级	cai kuang deng ji	0
+采矿速度	cai kuang su du	0
+攻击伤害	gong ji shang hai	0

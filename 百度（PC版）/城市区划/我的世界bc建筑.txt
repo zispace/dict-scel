@@ -1,0 +1,414 @@
+# 词库名称: 我的世界bc建筑
+# 词库分类: 城市区划
+# 词库作者: 1423449120
+# 词库描述: buildcraft模组道具名称
+# 词条数量: 406
+# 解析词数: 417
+# 解析异常: 11
+
+伐木机器人	fa mu ji qi ren	0
+种植机器人	zhong zhi ji qi ren	0
+剪叶机器人	jian ye ji qi ren	0
+剪叶机器人	jian xie ji qi ren	0
+搬运机器人	ban yun ji qi ren	0
+储罐机器人	chu guan ji qi ren	0
+爆破机器人	bao po ji qi ren	0
+骑士机器人	qi shi ji qi ren	0
+采掘机器人	cai jue ji qi ren	0
+耕耘机器人	geng yun ji qi ren	0
+收获机器人	shou huo ji qi ren	0
+铲工机器人	chan gong ji qi ren	0
+屠宰机器人	tu zai ji qi ren	0
+建筑机器人	jian zhu ji qi ren	0
+合成机器人	he cheng ji qi ren	0
+配送机器人	pei song ji qi ren	0
+液泵机器人	ye beng ji qi ren	0
+条纹机器人	tiao wen ji qi ren	0
+破坏机器人	po huai ji qi ren	0
+拾取物品	shi qu wu pin	0
+伐木	fa mu	0
+种植作物	zhong zhi zuo wu	0
+剪树叶	jian shu ye	0
+在容器间搬运物品	zai rong qi jian ban yun wu pin	0
+在储罐间运输流体	zai chu guan jian yun shu liu ti	0
+轰炸区域	hong zha qu yu	0
+与怪物战斗	yu guai wu zhan dou	0
+挖掘矿物	wa jue kuang wu	0
+锄地	chu di	0
+收获成熟作物	shou huo cheng shu zuo wu	0
+铲地	chan di	0
+屠宰动物	tu zai dong wu	0
+修建房屋	xiu jian fang wu	0
+合成物品	he cheng wu pin	0
+根据需求配送物品	gen ju xu qiu pei song wu pin	0
+泵出流体	beng chu liu ti	0
+采掘石头	cai jue shi tou	0
+门信息已清除	men xin xi yi qing chu	0
+复制门信息到拷贝器中	fu zhi men xin xi dao kao bei qi zhong	0
+粘贴拷贝器信息到门中	zhan tie kao bei qi xin xi dao men zhong	0
+该面未发现门	gai mian wei fa xian men	0
+没有存储的门信息	mei you cun chu de men xin xi	0
+没有存储的门信息	mei you cun chu di men xin xi	0
+低	di	0
+较低	jiao di	0
+适量	shi liang	0
+高	gao	0
+极高	ji gao	0
+满容量	man rong liang	0
+黑色	hei se	0
+蓝色	lan se	0
+棕色	zong se	0
+青色	qing se	0
+灰色	hui se	0
+绿色	lv se	0
+浅蓝色	qian lan se	0
+浅灰色	qian hui se	0
+柠檬色	ning meng se	0
+品红色	pin hong se	0
+橙色	cheng se	0
+粉色	fen se	0
+紫色	zi se	0
+红色	hong se	0
+白色	bai se	0
+黄色	huang se	0
+常规	chang gui	0
+管道	guan dao	0
+蓝图	lan tu	0
+建造	jian zao	0
+耗能	hao neng	0
+测试	ce shi	0
+显示	xian shi	0
+世界生成	shi jie sheng cheng	0
+网络	wang luo	0
+客户端路径	ke hu duan lu jing	0
+排除模组	pai chu mo zu	0
+排除方块	pai chu fang kuai	0
+掉落方块	diao luo fang kuai	0
+色盲模式	se mang mo shi	0
+隐藏流体量	yin cang liu ti liang	0
+隐藏能量	yin cang neng liang	0
+管道流失能量	guan dao liu shi neng liang	0
+机器人黑名单	ji qi ren hei ming dan	0
+泵用水	beng yong shui	0
+检查更新	jian cha geng xin	0
+引擎燃油消耗倍数	yin qing ran you xiao hao bei shu	0
+引擎原油消耗倍数	yin qing yuan you xiao hao bei shu	0
+引擎燃油能量输出	yin qing ran you neng liang shu chu	0
+引擎原油能量输出	yin qing yuan you neng liang shu chu	0
+物品存活时长秒	wu pin cun huo shi chang miao	0
+引擎爆炸	yin qing bao zha	0
+原油是否可燃	yuan you shi fou ke ran	0
+原油是否稠密	yuan you shi fou chou mi	0
+基本流动速率	ji ben liu dong su lv	0
+伪装板黑名单	wei zhuang ban hei ming dan	0
+反相伪装板黑名单	fan xiang wei zhuang ban hei ming dan	0
+硬度	ying du	0
+泵是否需要真实能量	beng shi fou xu yao zhen shi neng liang	0
+采石场选项	cai shi chang xuan xiang	0
+一次	yi ci	0
+自动区块载入	zi dong qu kuai zai ru	0
+地标标记范围	di biao biao ji fan wei	0
+最大相对挖掘深度	zui da xiang dui wa jue shen du	0
+泵作用范围控制	beng zuo yong fan wei kong zhi	0
+芯片能耗倍数	xin pian neng hao bei shu	0
+门能耗倍数	men neng hao bei shu	0
+激活	ji huo	0
+生成水泉	sheng cheng shui quan	0
+油井生成率	you jing sheng cheng lv	0
+油井生成率	you jing sheng cheng shuai	0
+生成油泉	sheng cheng you quan	0
+无原油生物群落	mo yuan you sheng wu qun luo	0
+原油较丰富的生物群落	yuan you jiao feng fu de sheng wu qun luo	0
+北面	bei mian	0
+西面	xi mian	0
+东面	dong mian	0
+南面	nan mian	0
+顶端	ding duan	0
+底端	di duan	0
+西北	xi bei	0
+东北	dong bei	0
+中心	zhong xin	0
+西南	xi nan	0
+东南	dong nan	0
+清除	qing chu	0
+填充	tian chong	0
+平整	ping zheng	0
+地平线	di ping xian	0
+金字塔	jin zi ta	0
+阶梯	jie ti	0
+盒状	he zhuang	0
+柱体	zhu ti	0
+框架	kuang jia	0
+中空	zhong kong	0
+实心	shi xin	0
+原油	yuan you	0
+燃油	ran you	0
+关	guan	0
+循环	xun huan	0
+能量脉冲	neng liang mai chong	0
+单次能量脉冲	dan ci neng liang mai chong	0
+前往转接坞	qian wang zhuan jie wu	0
+开启	kai qi	0
+仅输入	jin shu ru	0
+仅输出	jin shu chu	0
+关闭	guan bi	0
+提供物品	ti gong wu pin	0
+接受物品	jie shou wu pin	0
+请求物品	qing qiu wu pin	0
+将物品传送到管道	jiang wu pin chuan song dao guan dao	0
+将物品传送到管道	qiang wu pin chuan song dao guan dao	0
+允许合成	yun xu he cheng	0
+请求需要的物品	qing qiu xu yao de wu pin	0
+接受流体	jie shou liu ti	0
+提供流体	ti gong liu ti	0
+工作区域	gong zuo qu yu	0
+装载卸载区域	zhuang zai xie zai qu yu	0
+唤醒	huan xing	0
+禁用机器人	jin yong ji qi ren	0
+强制机器人	qiang zhi ji qi ren	0
+过滤	guo lv	0
+过滤工具	guo lv gong ju	0
+红石控制器	hong shi kong zhi qi	0
+专制脉冲	zhuan zhi mai chong	0
+时钟计时器	shi zhong ji shi qi	0
+光敏传感器	guang min chuan gan qi	0
+实时钟	shi shi zhong	0
+生物感应器	sheng wu gan ying qi	0
+与	yu	0
+或	huo	0
+铁质	tie zhi	0
+金质	jin zhi	0
+钻石	zuan shi	0
+绿宝石	lv bao shi	0
+石英	shi ying	0
+仅限门侧	jin xian men ce	0
+引擎蓝色	yin qing lan se	0
+引擎绿色	yin qing lv se	0
+引擎黄色	yin qing huang se	0
+引擎红色	yin qing hong se	0
+引擎过热	yin qing guo re	0
+储罐空	chu guan kong	0
+储罐有流体	chu guan you liu ti	0
+储罐有空间	chu guan you kong jian	0
+储罐满	chu guan man	0
+已使用空间	yi shi yong kong jian	0
+容器空	rong qi kong	0
+容器有物品	rong qi you wu pin	0
+容器有空间	rong qi you kong jian	0
+容器满	rong qi man	0
+工作完成	gong zuo wan cheng	0
+有工作	you gong zuo	0
+红石信号开	hong shi xin hao kai	0
+红石信号关	hong shi xin hao guan	0
+红石信号强度	hong shi xin hao qiang du	0
+管道空	guan dao kong	0
+物品经过	wu pin jing guo	0
+流体经过	liu ti jing guo	0
+能量经过	neng liang jing guo	0
+能量需求	neng liang xu qiu	0
+能量过载	neng liang guo zai	0
+管线信号	guan xian xin hao	0
+计时器	ji shi qi	0
+休眠	xiu mian	0
+机器人入驻	ji qi ren ru zhu	0
+转接坞连接	zhuan jie wu lian jie	0
+转接坞预留	zhuan jie wu yu liu	0
+高能量存储	gao neng liang cun chu	0
+低能量存储	di neng liang cun chu	0
+能量储量	neng liang chu liang	0
+明亮	ming liang	0
+黑暗	hei an	0
+夜晚	ye wan	0
+早晨	zao chen	0
+下午	xia wu	0
+傍晚	bang wan	0
+空	kong	0
+建筑材料	jian zhu cai liao	0
+流体储罐	liu ti chu guan	0
+删除	shan chu	0
+填充材料	tian chong cai liao	0
+物品栏	wu pin lan	0
+已锁定	yi suo ding	0
+需要	xu yao	0
+未锁定	wei suo ding	0
+能量	neng liang	0
+当前输出	dang qian shu chu	0
+存储能量	cun chu neng liang	0
+热量	re liang	0
+功率	gong lv	0
+需求能量	xu qiu neng liang	0
+点击以合成	dian ji yi he cheng	0
+阻挡	zu dang	0
+染色物品	ran se wu pin	0
+不对物品染色	bu dui wu pin ran se	0
+燃油桶	ran you tong	0
+原油桶	yuan you tong	0
+木齿轮	mu chi lun	0
+石齿轮	shi chi lun	0
+石齿轮	dan chi lun	0
+铁齿轮	tie chi lun	0
+金齿轮	jin chi lun	0
+钻石齿轮	zuan shi chi lun	0
+模版	mo ban	0
+模版	mu ban	0
+扳手	ban shou	0
+颜料刷	yan liao shua	0
+管道密封剂	guan dao mi feng ji	0
+红色管线	hong se guan xian	0
+蓝色管线	lan se guan xian	0
+绿色管线	lv se guan xian	0
+黄色管线	huang se guan xian	0
+红石晶体	hong shi jing ti	0
+红石芯片	hong shi xin pian	0
+铁质芯片	tie zhi xin pian	0
+金质芯片	jin zhi xin pian	0
+钻石芯片	zuan shi xin pian	0
+绿宝石芯片	lv bao shi xin pian	0
+脉冲芯片	mai chong xin pian	0
+石英芯片	shi ying xin pian	0
+红石比较芯片	hong shi bi jiao xin pian	0
+红石板	hong shi ban	0
+机器人	ji qi ren	0
+板	ban	0
+列表	lie biao	0
+未命名蓝图	wei ming ming lan tu	0
+作者	zuo zhe	0
+空白	kong bai	0
+仅限创造模式	jin xian chuang zao mo shi	0
+无建筑	wu jian zhu	0
+无建筑	mo jian zhu	0
+未完成	wei wan cheng	0
+定位图纸	ding wei tu zhi	0
+门设拷贝器	men she kao bei qi	0
+木质管道	mu zhi guan dao	0
+圆石管道	yuan shi guan dao	0
+石头管道	shi tou guan dao	0
+石英管道	shi ying guan dao	0
+铁质管道	tie zhi guan dao	0
+金质管道	jin zhi guan dao	0
+钻石管道	zuan shi guan dao	0
+黑曜石管道	hei yao shi guan dao	0
+绿宝石管道	lv bao shi guan dao	0
+青金石管道	qing jin shi guan dao	0
+靛金刚管道	dian jin gang guan dao	0
+靛翡翠管道	dian fei cui guan dao	0
+粘土管道	nian tu guan dao	0
+木质流体管道	mu zhi liu ti guan dao	0
+圆石流体管道	yuan shi liu ti guan dao	0
+石头流体管道	shi tou liu ti guan dao	0
+铁质流体管道	tie zhi liu ti guan dao	0
+石英流体管道	shi ying liu ti guan dao	0
+金质流体管道	jin zhi liu ti guan dao	0
+绿宝石流体管道	lv bao shi liu ti guan dao	0
+钻石流体管道	zuan shi liu ti guan dao	0
+粘土流体管道	nian tu liu ti guan dao	0
+木质能量管道	mu zhi neng liang guan dao	0
+圆石能量管道	yuan shi neng liang guan dao	0
+石头能量管道	shi tou neng liang guan dao	0
+石英能量管道	shi ying neng liang guan dao	0
+铁质能量管道	tie zhi neng liang guan dao	0
+金质能量管道	jin zhi neng liang guan dao	0
+钻石能量管道	zuan shi neng liang guan dao	0
+绿宝石能量管道	lv bao shi neng liang guan dao	0
+条纹管道	tiao wen guan dao	0
+圆石建筑管道	yuan shi jian zhu guan dao	0
+虚空管道	xu kong guan dao	0
+虚空流体管道	xu kong liu ti guan dao	0
+沙石管道	sha shi guan dao	0
+沙石流体管道	sha shi liu ti guan dao	0
+沙石能量管道	sha shi neng liang guan dao	0
+机器人转接坞	ji qi ren zhuan jie wu	0
+伪装板	wei zhuang ban	0
+多阶伪装板	duo jie wei zhuang ban	0
+透明度	tou ming du	0
+管塞	guan sai	0
+透镜	tou jing	0
+滤镜	lv jing	0
+能量接收器	neng liang jie shou qi	0
+调试器	tiao shi qi	0
+建筑工作台	jian zhu gong zuo tai	0
+装配台	zhuang pei tai	0
+高级工作台	gao ji gong zuo tai	0
+自动合成台	zi dong he cheng tai	0
+料斗	liao dou	0
+建筑机	jian zhu ji	0
+充能台	chong neng tai	0
+建设标	jian she biao	0
+创造引擎	chuang zao yin qing	0
+燃油引擎	ran you yin qing	0
+斯特林引擎	si te lin yin qing	0
+红石引擎	hong shi yin qing	0
+填充机	tian chong ji	0
+过滤缓存器	guo lv huan cun qi	0
+液闸	ye zha	0
+集成台	ji cheng tai	0
+镭射器	lei she qi	0
+电子档案馆	dian zi dang an guan	0
+电子档案馆	dian zi dang wan guan	0
+采石场	cai shi chang	0
+地标	di biao	0
+矿井	kuang jing	0
+配方封包器	pei fang feng bao qi	0
+路径标	lu jing biao	0
+采矿管道	cai kuang guan dao	0
+编程台	bian cheng tai	0
+液泵	ye beng	0
+精炼厂	jing lian chang	0
+请求机	qing qiu ji	0
+油泉	you quan	0
+水泉	shui quan	0
+压印台	ya yin tai	0
+储罐	chu guan	0
+区域规划机	qu yu gui hua ji	0
+边缘略显粗糙	bian yuan lue xian cu cao	0
+边缘略显粗糙	bian yuan lue xian cu zao	0
+合成木齿轮	he cheng mu chi lun	0
+坚若磐石	jian ruo pan shi	0
+将木齿轮升级成石齿轮	jiang mu chi lun sheng ji cheng shi chi lun	0
+将木齿轮升级成石齿轮	qiang mu chi lun sheng ji cheng shi chi lun	0
+将木齿轮升级成石齿轮	jiang mu chi lun sheng ji cheng dan chi lun	0
+将木齿轮升级成石齿轮	qiang mu chi lun sheng ji cheng dan chi lun	0
+会生锈吗	hui sheng xiu ma	0
+将石齿轮升级成铁齿轮	jiang shi chi lun sheng ji cheng tie chi lun	0
+将石齿轮升级成铁齿轮	qiang shi chi lun sheng ji cheng tie chi lun	0
+将石齿轮升级成铁齿轮	jiang dan chi lun sheng ji cheng tie chi lun	0
+将石齿轮升级成铁齿轮	qiang dan chi lun sheng ji cheng tie chi lun	0
+不它不是用蜜做的	bu ta bu shi yong mi zuo de	0
+不它不是用蜜做的	fou ta bu shi yong mi zuo de	0
+将铁齿轮升级成金齿轮	jiang tie chi lun sheng ji cheng jin chi lun	0
+将铁齿轮升级成金齿轮	qiang tie chi lun sheng ji cheng jin chi lun	0
+闪闪发光	shan shan fa guang	0
+敲敲就好	qiao qiao jiu hao	0
+制作一柄扳手	zhi zuo yi bing ban shou	0
+伟大的起点	wei da de qi dian	0
+合成出红石引擎	he cheng chu hong shi yin qing	0
+合成出红石引擎	he cheng chu hong dan yin qing	0
+高效率	gao xiao lv	0
+合成出斯特林引擎	he cheng chu si te lin yin qing	0
+能量之屋	neng liang zhi wu	0
+合成出燃油引擎	he cheng chu ran you yin qing	0
+批量加工	pi liang jia gong	0
+合成出自动合成台	he cheng chu zi dong he cheng tai	0
+垂直向下	chui zhi xiang xia	0
+制造出一台挖矿机	zhi zao chu yi tai wa kuang ji	0
+区块毁灭者	qu kuai hui mie zhe	0
+合成出采石场	he cheng chu cai shi chang	0
+快捷过滤	kuai jie guo lv	0
+制造出过滤器	zhi zao chu guo lv qi	0
+是时候做点逻辑工作了	shi shi hou zuo dian luo ji gong zuo le	0
+合成出芯片装配台	he cheng chu xin pian zhuang pei tai	0
+精炼并重定义	jing lian bing zhong ding yi	0
+制造出精炼厂	zhi zao chu jing lian chang	0
+灼人镭射	zhuo ren lei she	0
+合成出镭射器	he cheng chu lei she qi	0
+建筑师	jian zhu shi	0
+合成出建筑师工作台	he cheng chu jian zhu shi gong zuo tai	0
+我有更好的事情要做	wo you geng hao de shi qing yao zuo	0
+合成出建造机	he cheng chu jian zao ji	0
+建筑图纸	jian zhu tu zhi	0
+合成出蓝图	he cheng chu lan tu	0
+基础	ji chu	0
+合成出模板	he cheng chu mu ban	0
+合成出模板	he cheng chu mo ban	0
+创意永流传	chuang yi yong liu chuan	0
+合成出蓝图档案馆	he cheng chu lan tu dang an guan	0

@@ -1,0 +1,763 @@
+# 词库名称: 我的世界匠魂
+# 词库分类: 城市区划
+# 词库作者: 1423449120
+# 词库描述: 我的世界游戏匠魂模组的专业术语
+# 词条数量: 755
+# 解析词数: 758
+# 解析异常: 3
+
+工具	gong ju	0
+材料	cai liao	0
+方块	fang kuai	0
+部件	bu jian	0
+装备	zhuang bei	0
+武器	wu qi	0
+工具组装台	gong ju zu zhuang tai	0
+工具装配台	gong ju zhuang pei tai	0
+工匠工作台	gong jiang gong zuo tai	0
+部件加工台	bu jian jia gong tai	0
+模具加工台	mu ju jia gong tai	0
+合成站	he cheng zhan	0
+模具箱	mu ju xiang	0
+模具箱	mo ju xiang	0
+冶炼炉	ye lian lu	0
+煎锅	jian guo	0
+背包	bei bao	0
+浇铸台	jiao zhu tai	0
+半砖熔炉	ban zhuan rong lu	0
+晾干架	liang gan jia	0
+黏滑泥泞	nian hua ni ning	0
+水泥	shui ni	0
+黏滑蓝泥泞	nian hua lan ni ning	0
+黄泉土	huang quan tu	0
+神圣土	shen sheng tu	0
+浇注道	jiao zhu dao	0
+史莱姆通道	shi lai mu tong dao	0
+弹跳板	tan tiao ban	0
+血通道	xue tong dao	0
+血通道	xie tong dao	0
+地狱岩碎片	di yu yan sui pian	0
+钴矿石	gu kuang shi	0
+阿迪特矿石	a di te kuang shi	0
+铜矿石	tong kuang shi	0
+锡矿石	xi kuang shi	0
+铝矿石	lv kuang shi	0
+石头碎片	shi tou sui pian	0
+铁矿莓丛	tie kuang mei cong	0
+金矿莓丛	jin kuang mei cong	0
+铜矿莓丛	tong kuang mei cong	0
+锡矿莓丛	xi kuang mei cong	0
+铝矿莓丛	lv kuang mei cong	0
+精华莓丛	jing hua mei cong	0
+铁矿砂砾	tie kuang sha li	0
+金矿砂砾	jin kuang sha li	0
+铜矿砂砾	tong kuang sha li	0
+锡矿砂砾	xi kuang sha li	0
+铝矿砂砾	lv kuang sha li	0
+钴矿砂砾	gu kuang sha li	0
+光滑褐岩块	guang hua he yan kuai	0
+光滑褐岩铺路石	guang hua he yan pu lu shi	0
+褐岩块	he yan kuai	0
+褐岩砖块	he yan zhuan kuai	0
+褐岩铺路石	he yan pu lu shi	0
+平滑褐岩砖块	ping hua he yan zhuan kuai	0
+雕琢褐岩砖块	diao zhuo he yan zhuan kuai	0
+光滑褐岩台阶	guang hua he yan tai jie	0
+光滑褐岩铺路台阶	guang hua he yan pu lu tai jie	0
+褐岩台阶	he yan tai jie	0
+褐岩砖台阶	he yan zhuan tai jie	0
+褐岩铺路石台阶	he yan pu lu shi tai jie	0
+平滑褐岩砖台阶	ping hua he yan zhuan tai jie	0
+雕琢褐岩砖台阶	diao zhuo he yan zhuan tai jie	0
+黑曜石砖块	hei yao shi zhuan kuai	0
+沙石砖块	sha shi zhuan kuai	0
+平滑地狱岩砖块	ping hua di yu yan zhuan kuai	0
+铁砖块	tie zhuan kuai	0
+金砖块	jin zhuan kuai	0
+钻石砖块	zuan shi zhuan kuai	0
+青金石砖块	qing jin shi zhuan kuai	0
+抛光石砖块	pao guang shi zhuan kuai	0
+红石砖块	hong shi zhuan kuai	0
+白骨砖块	bai gu zhuan kuai	0
+史莱姆砖块	shi lai mu zhuan kuai	0
+蓝色史莱姆砖块	lan se shi lai mu zhuan kuai	0
+末地石砖块	mo di shi zhuan kuai	0
+末地石砖块	mo de shi zhuan kuai	0
+黑曜石锭砖块	hei yao shi ding zhuan kuai	0
+平滑黑曜石砖块	ping hua hei yao shi zhuan kuai	0
+平滑沙石砖块	ping hua sha shi zhuan kuai	0
+平滑铁砖块	ping hua tie zhuan kuai	0
+平滑金砖块	ping hua jin zhuan kuai	0
+平滑钻石砖块	ping hua zuan shi zhuan kuai	0
+平滑青金石砖块	ping hua qing jin shi zhuan kuai	0
+平滑抛光石砖块	ping hua pao guang shi zhuan kuai	0
+平滑红石砖块	ping hua hong shi zhuan kuai	0
+平滑白骨砖块	ping hua bai gu zhuan kuai	0
+平滑史莱姆砖块	ping hua shi lai mu zhuan kuai	0
+平滑蓝史莱姆砖块	ping hua lan shi lai mu zhuan kuai	0
+平滑末地石砖块	ping hua mo di shi zhuan kuai	0
+平滑末地石砖块	ping hua mo de shi zhuan kuai	0
+平滑黑曜石锭砖块	ping hua hei yao shi ding zhuan kuai	0
+铺路石块	pu lu shi kuai	0
+平滑石砖块	ping hua shi zhuan kuai	0
+木轨道	mu gui dao	0
+羊毛台阶	yang mao tai jie	0
+橙色羊毛台阶	cheng se yang mao tai jie	0
+品红色羊毛台阶	pin hong se yang mao tai jie	0
+浅蓝色羊毛台阶	qian lan se yang mao tai jie	0
+黄色羊毛台阶	huang se yang mao tai jie	0
+黄绿色羊毛台阶	huang lv se yang mao tai jie	0
+粉色羊毛台阶	fen se yang mao tai jie	0
+灰色羊毛台阶	hui se yang mao tai jie	0
+浅灰色羊毛台阶	qian hui se yang mao tai jie	0
+青色羊毛台阶	qing se yang mao tai jie	0
+紫色羊毛台阶	zi se yang mao tai jie	0
+蓝色羊毛台阶	lan se yang mao tai jie	0
+棕色羊毛台阶	zong se yang mao tai jie	0
+绿色羊毛台阶	lv se yang mao tai jie	0
+红色羊毛台阶	hong se yang mao tai jie	0
+黑色羊毛台阶	hei se yang mao tai jie	0
+凝胶方块	ning jiao fang kuai	0
+凝胶	ning jiao	0
+铁矿莓	tie kuang mei	0
+金矿莓	jin kuang mei	0
+铜矿莓	tong kuang mei	0
+锡矿莓	xi kuang mei	0
+铝矿莓	lv kuang mei	0
+浓缩精华莓	nong suo jing hua mei	0
+黄金头颅	huang jin tou lu	0
+生成	sheng cheng	0
+火腿块	huo tui kuai	0
+镐	gao	0
+镐	hao	0
+铲	chan	0
+手斧	shou fu	0
+大剑	da jian	0
+大剑	dai jian	0
+大剑	tai jian	0
+长剑	chang jian	0
+西洋剑	xi yang jian	0
+战斗牌子	zhan dou pai zi	0
+匕首	bi shou	0
+凿子	zao zi	0
+镰刀	lian dao	0
+伐木斧	fa mu fu	0
+劈刀	pi dao	0
+开掘铲	kai jue chan	0
+锤	chui	0
+战斧	zhan fu	0
+弯刀	wan dao	0
+短弓	duan gong	0
+箭矢	jian shi	0
+鹤嘴锄	he zui chu	0
+斧头	fu tou	0
+长弓	chang gong	0
+十字弓	shi zi gong	0
+箭头	jian tou	0
+弩箭	nu jian	0
+回旋镖	hui xuan biao	0
+飞刀	fei dao	0
+标枪	biao qiang	0
+药水发射器	yao shui fa she qi	0
+随机箭	sui ji jian	0
+空白模具	kong bai mu ju	0
+空白模具	kong bai mo ju	0
+手柄模具	shou bing mu ju	0
+手柄模具	shou bing mo ju	0
+镐头模具	gao tou mu ju	0
+镐头模具	gao tou mo ju	0
+铲头模具	chan tou mu ju	0
+铲头模具	chan tou mo ju	0
+斧刃模具	fu ren mu ju	0
+斧刃模具	fu ren mo ju	0
+剑刃模具	jian ren mu ju	0
+剑刃模具	jian ren mo ju	0
+宽护手模具	kuan hu shou mu ju	0
+宽护手模具	kuan hu shou mo ju	0
+护手模具	hu shou mu ju	0
+护手模具	hu shou mo ju	0
+十字柄模具	shi zi bing mu ju	0
+十字柄模具	shi zi bing mo ju	0
+绑定结模具	bang ding jie mu ju	0
+绑定结模具	bang ding jie mo ju	0
+盘模具	pan mu ju	0
+盘模具	pan mo ju	0
+牌板模具	pai ban mu ju	0
+牌板模具	pai ban mo ju	0
+刀刃模具	dao ren mu ju	0
+刀刃模具	dao ren mo ju	0
+凿刃模具	zao ren mu ju	0
+凿刃模具	zao ren mo ju	0
+凿刃模具	zuo ren mu ju	0
+凿刃模具	zuo ren mo ju	0
+坚韧手柄模具	jian ren shou bing mu ju	0
+坚韧手柄模具	jian ren shou bing mo ju	0
+坚韧绑定结模具	jian ren bang ding jie mu ju	0
+坚韧绑定结模具	jian ren bang ding jie mo ju	0
+大板模具	da ban mu ju	0
+大板模具	da ban mo ju	0
+宽斧刃模具	kuan fu ren mu ju	0
+宽斧刃模具	kuan fu ren mo ju	0
+镰刀刀刃模具	lian dao dao ren mu ju	0
+镰刀刀刃模具	lian dao dao ren mo ju	0
+开掘铲头模具	kai jue chan tou mu ju	0
+开掘铲头模具	kai jue chan tou mo ju	0
+宽剑刃模具	kuan jian ren mu ju	0
+宽剑刃模具	kuan jian ren mo ju	0
+锤头模具	chui tou mu ju	0
+锤头模具	chui tou mo ju	0
+大型护手模具	da xing hu shou mu ju	0
+大型护手模具	da xing hu shou mo ju	0
+弓弦模具	gong xian mu ju	0
+弓弦模具	gong xian mo ju	0
+箭羽模具	jian yu mu ju	0
+箭羽模具	jian yu mo ju	0
+箭头模具	jian tou mu ju	0
+箭头模具	jian tou mo ju	0
+回旋镖模具	hui xuan biao mu ju	0
+回旋镖模具	hui xuan biao mo ju	0
+弩臂模具	nu bi mu ju	0
+弩臂模具	nu bi mo ju	0
+弩臂模具	nu bei mu ju	0
+弩臂模具	nu bei mo ju	0
+弩身模具	nu shen mu ju	0
+弩身模具	nu shen mo ju	0
+弓臂模具	gong bi mu ju	0
+弓臂模具	gong bi mo ju	0
+弓臂模具	gong bei mu ju	0
+弓臂模具	gong bei mo ju	0
+空白铸模	kong bai zhu mo	0
+空白铸模	kong bai zhu mu	0
+手柄铸模	shou bing zhu mo	0
+手柄铸模	shou bing zhu mu	0
+镐头铸模	gao tou zhu mo	0
+镐头铸模	gao tou zhu mu	0
+铲头铸模	chan tou zhu mo	0
+铲头铸模	chan tou zhu mu	0
+斧刃铸模	fu ren zhu mo	0
+斧刃铸模	fu ren zhu mu	0
+剑刃铸模	jian ren zhu mo	0
+剑刃铸模	jian ren zhu mu	0
+宽护手铸模	kuan hu shou zhu mo	0
+宽护手铸模	kuan hu shou zhu mu	0
+护手铸模	hu shou zhu mo	0
+护手铸模	hu shou zhu mu	0
+十字柄铸模	shi zi bing zhu mo	0
+十字柄铸模	shi zi bing zhu mu	0
+绑定结铸模	bang ding jie zhu mo	0
+绑定结铸模	bang ding jie zhu mu	0
+盘铸模	pan zhu mo	0
+盘铸模	pan zhu mu	0
+牌板铸模	pai ban zhu mo	0
+牌板铸模	pai ban zhu mu	0
+刀刃铸模	dao ren zhu mo	0
+刀刃铸模	dao ren zhu mu	0
+凿刃铸模	zao ren zhu mo	0
+凿刃铸模	zao ren zhu mu	0
+凿刃铸模	zuo ren zhu mo	0
+凿刃铸模	zuo ren zhu mu	0
+坚韧手柄铸模	jian ren shou bing zhu mo	0
+坚韧手柄铸模	jian ren shou bing zhu mu	0
+坚韧绑定结铸模	jian ren bang ding jie zhu mo	0
+坚韧绑定结铸模	jian ren bang ding jie zhu mu	0
+大板铸模	da ban zhu mo	0
+大板铸模	da ban zhu mu	0
+宽斧刃铸模	kuan fu ren zhu mo	0
+宽斧刃铸模	kuan fu ren zhu mu	0
+镰刀刀刃铸模	lian dao dao ren zhu mo	0
+镰刀刀刃铸模	lian dao dao ren zhu mu	0
+开掘铲头铸模	kai jue chan tou zhu mo	0
+开掘铲头铸模	kai jue chan tou zhu mu	0
+宽剑刃铸模	kuan jian ren zhu mo	0
+宽剑刃铸模	kuan jian ren zhu mu	0
+锤头铸模	chui tou zhu mo	0
+锤头铸模	chui tou zhu mu	0
+大型护手铸模	da xing hu shou zhu mo	0
+大型护手铸模	da xing hu shou zhu mu	0
+弓弦铸模	gong xian zhu mo	0
+弓弦铸模	gong xian zhu mu	0
+箭羽铸模	jian yu zhu mo	0
+箭羽铸模	jian yu zhu mu	0
+箭头铸模	jian tou zhu mo	0
+箭头铸模	jian tou zhu mu	0
+锭铸模	ding zhu mo	0
+锭铸模	ding zhu mu	0
+宝石铸模	bao shi zhu mo	0
+宝石铸模	bao shi zhu mu	0
+方块铸模	fang kuai zhu mo	0
+方块铸模	fang kuai zhu mu	0
+回旋镖铸模	hui xuan biao zhu mo	0
+回旋镖铸模	hui xuan biao zhu mu	0
+弩臂铸模	nu bi zhu mo	0
+弩臂铸模	nu bi zhu mu	0
+弩臂铸模	nu bei zhu mo	0
+弩臂铸模	nu bei zhu mu	0
+弩身铸模	nu shen zhu mo	0
+弩身铸模	nu shen zhu mu	0
+弓臂铸模	gong bi zhu mo	0
+弓臂铸模	gong bi zhu mu	0
+弓臂铸模	gong bei zhu mo	0
+弓臂铸模	gong bei zhu mu	0
+齿轮铸模	chi lun zhu mo	0
+齿轮铸模	chi lun zhu mu	0
+纸叠	zhi die	0
+史莱姆水晶	shi lai mu shui jing	0
+焦黑砖	jiao hei zhuan	0
+钴锭	gu ding	0
+阿迪特锭	a di te ding	0
+玛玉灵锭	ma yu ling ding	0
+苔藓球	tai xian qiu	0
+熔岩水晶	rong yan shui jing	0
+凋零之骨	diao ling zhi gu	0
+铜锭	tong ding	0
+锡锭	xi ding	0
+铝锭	lv ding	0
+生铝	sheng lv	0
+青铜锭	qing tong ding	0
+铝黄铜锭	lv huang tong ding	0
+耐酸铝锭	nai suan lv ding	0
+钢锭	gang ding	0
+蓝色史莱姆水晶	lan se shi lai mu shui jing	0
+黑曜石锭	hei yao shi ding	0
+铁粒	tie li	0
+铜粒	tong li	0
+锡粒	xi li	0
+铝粒	lv li	0
+精华水晶赝品	jing hua shui jing yan pin	0
+精华水晶赝品	jing hua shui jing ying pin	0
+铝黄铜粒	lv huang tong li	0
+绢布	juan bu	0
+精致珠宝	jing zhi zhu bao	0
+黑曜石粒	hei yao shi li	0
+钴粒	gu li	0
+阿迪特粒	a di te li	0
+玛玉灵粒	ma yu ling li	0
+青铜粒	qing tong li	0
+耐酸铝粒	nai suan lv li	0
+钢粒	gang li	0
+生铁锭	sheng tie ding	0
+生铁粒	sheng tie li	0
+凝胶球	ning jiao qiu	0
+阿迪特粉	a di te fen	0
+钴粉	gu fen	0
+铝粉	lv fen	0
+玛玉灵粉	ma yu ling fen	0
+铝黄铜粉	lv huang tong fen	0
+头盔铸模	tou kui zhu mo	0
+头盔铸模	tou kui zhu mu	0
+胸甲铸模	xiong jia zhu mo	0
+胸甲铸模	xiong jia zhu mu	0
+护腿铸模	hu tui zhu mo	0
+护腿铸模	hu tui zhu mu	0
+靴子铸模	xue zi zhu mo	0
+靴子铸模	xue zi zhu mu	0
+木头盔	mu tou kui	0
+木胸甲	mu xiong jia	0
+木护腿	mu hu tui	0
+木靴子	mu xue zi	0
+旅行者护目镜	lv xing zhe hu mu jing	0
+旅行者马甲	lv xing zhe ma jia	0
+旅行者之翼	lv xing zhe zhi yi	0
+旅行者靴子	lv xing zhe xue zi	0
+旅行者手套	lv xing zhe shou tao	0
+旅行者腰带	lv xing zhe yao dai	0
+牛肉干	niu rou gan	0
+猪肉干	zhu rou gan	0
+鸡肉干	ji rou gan	0
+羊肉干	yang rou gan	0
+鱼干	yu gan	0
+僵尸肉干	jiang shi rou gan	0
+黏胶液滴	nian jiao ye di	0
+凝固血滴	ning gu xue di	0
+初始镐子	chu shi gao zi	0
+初始镐子	chu shi hao zi	0
+初始手斧	chu shi shou fu	0
+冶炼炉控制器	ye lian lu kong zhi qi	0
+冶炼炉排液口	ye lian lu pai ye kou	0
+冶炼炉砖块	ye lian lu zhuan kuai	0
+焦黑石头	jiao hei shi tou	0
+焦黑圆石	jiao hei yuan shi	0
+焦黑盖板石	jiao hei gai ban shi	0
+焦黑盖板石	jiao hei gai ban dan	0
+裂纹焦黑石砖块	lie wen jiao hei shi zhuan kuai	0
+焦黑铺路石	jiao hei pu lu shi	0
+平滑焦黑石砖块	ping hua jiao hei shi zhuan kuai	0
+方纹焦黑石砖块	fang wen jiao hei shi zhuan kuai	0
+雕琢焦黑石砖块	diao zhuo jiao hei shi zhuan kuai	0
+史莱姆土	shi lai mu tu	0
+焦黑储罐	jiao hei chu guan	0
+焦黑玻璃	jiao hei bo li	0
+焦黑视窗	jiao hei shi chuang	0
+地雷	di lei	0
+尖竹钉	jian zhu ding	0
+橡木篱笆	xiang mu li ba	0
+云杉木篱笆	yun shan mu li ba	0
+白桦木篱笆	bai hua mu li ba	0
+丛林木篱笆	cong lin mu li ba	0
+阿迪特块	a di te kuai	0
+玛玉灵块	ma yu ling kuai	0
+铜方块	tong fang kuai	0
+青铜块	qing tong kuai	0
+锡块	xi kuai	0
+铝块	lv kuai	0
+铝黄铜块	lv huang tong kuai	0
+耐酸铝块	nai suan lv kuai	0
+钢块	gang kuai	0
+末影块	mo ying kuai	0
+石柄火把	shi bing huo ba	0
+石柄火把	dan bing huo ba	0
+石头梯子	shi tou ti zi	0
+通透玻璃	tong tou bo li	0
+灵魂玻璃	ling hun bo li	0
+通透灵魂玻璃	tong tou ling hun bo li	0
+通透玻璃板	tong tou bo li ban	0
+灵魂玻璃板	ling hun bo li ban	0
+通透灵魂玻璃板	tong tou ling hun bo li ban	0
+白色玻璃	bai se bo li	0
+橙色玻璃	cheng se bo li	0
+品红色玻璃	pin hong se bo li	0
+浅蓝色玻璃	qian lan se bo li	0
+黄色玻璃	huang se bo li	0
+黄绿色玻璃	huang lv se bo li	0
+粉色玻璃	fen se bo li	0
+灰色玻璃	hui se bo li	0
+浅灰色玻璃	qian hui se bo li	0
+青色玻璃	qing se bo li	0
+紫色玻璃	zi se bo li	0
+蓝色玻璃	lan se bo li	0
+棕色玻璃	zong se bo li	0
+绿色玻璃	lv se bo li	0
+红色玻璃	hong se bo li	0
+黑色玻璃	hei se bo li	0
+白色玻璃板	bai se bo li ban	0
+橙色玻璃板	cheng se bo li ban	0
+品红色玻璃板	pin hong se bo li ban	0
+浅蓝色玻璃板	qian lan se bo li ban	0
+黄色玻璃板	huang se bo li ban	0
+黄绿色玻璃板	huang lv se bo li ban	0
+粉色玻璃板	fen se bo li ban	0
+灰色玻璃板	hui se bo li ban	0
+浅灰色玻璃板	qian hui se bo li ban	0
+青色玻璃板	qing se bo li ban	0
+紫色玻璃板	zi se bo li ban	0
+蓝色玻璃板	lan se bo li ban	0
+棕色玻璃板	zong se bo li ban	0
+绿色玻璃板	lv se bo li ban	0
+红色玻璃板	hong se bo li ban	0
+黑色玻璃板	hei se bo li ban	0
+焦黑石砖台阶	jiao hei shi zhuan tai jie	0
+焦黑石头台阶	jiao hei shi tou tai jie	0
+焦黑圆石台阶	jiao hei yuan shi tai jie	0
+焦黑盖板石台阶	jiao hei gai ban shi tai jie	0
+焦黑铺路石台阶	jiao hei pu lu shi tai jie	0
+平滑焦黑石台阶	ping hua jiao hei shi tai jie	0
+方纹焦黑石台阶	fang wen jiao hei shi tai jie	0
+雕琢焦黑石台阶	diao zhuo jiao hei shi tai jie	0
+泥土台阶	ni tu tai jie	0
+菌丝台阶	jun si tai jie	0
+史莱姆台阶	shi lai mu tai jie	0
+水泥台阶	shui ni tai jie	0
+蓝史莱姆台阶	lan shi lai mu tai jie	0
+黄泉土台阶	huang quan tu tai jie	0
+混凝土台阶	hun ning tu tai jie	0
+蓝史莱姆泥土	lan shi lai mu ni tu	0
+史莱姆树叶	shi lai mu shu ye	0
+史莱姆树苗	shi lai mu shu miao	0
+史莱姆草方块	shi lai mu cao fang kuai	0
+史莱姆草	shi lai mu cao	0
+蓝色凝固史莱姆块	lan se ning gu shi lai mu kuai	0
+绿色凝固史莱姆块	lv se ning gu shi lai mu kuai	0
+紫色凝固史莱姆块	zi se ning gu shi lai mu kuai	0
+弓弦	gong xian	0
+附魔弓弦	fu mo gong xian	0
+火焰弓弦	huo yan gong xian	0
+羽毛箭羽	yu mao jian yu	0
+树叶箭羽	shu ye jian yu	0
+史莱姆箭羽	shi lai mu jian yu	0
+蓝史莱姆箭羽	lan shi lai mu jian yu	0
+史莱姆树叶箭羽	shi lai mu shu ye jian yu	0
+冶炼秘术	ye lian mi shu	0
+匠人日记	jiang ren ri ji	0
+工匠武器	gong jiang wu qi	0
+桶装熔融铁	tong zhuang rong rong tie	0
+桶装熔融金	tong zhuang rong rong jin	0
+桶装熔融铜	tong zhuang rong rong tong	0
+桶装熔融锡	tong zhuang rong rong xi	0
+桶装熔融铝	tong zhuang rong rong lv	0
+桶装熔融钴	tong zhuang rong rong gu	0
+桶装熔融阿迪特	tong zhuang rong rong a di te	0
+桶装熔融青铜	tong zhuang rong rong qing tong	0
+桶装熔融铝黄铜	tong zhuang rong rong lv huang tong	0
+桶装熔融玛玉灵	tong zhuang rong rong ma yu ling	0
+桶装熔融耐酸铝	tong zhuang rong rong nai suan lv	0
+桶装熔融黑曜石	tong zhuang rong rong hei yao shi	0
+桶装熔融钢	tong zhuang rong rong gang	0
+桶装熔融玻璃	tong zhuang rong rong bo li	0
+桶装熔融石头	tong zhuang rong rong shi tou	0
+桶装熔融绿宝石	tong zhuang rong rong lv bao shi	0
+血桶	xue tong	0
+血桶	xie tong	0
+桶装熔融镍	tong zhuang rong rong nie	0
+桶装熔融铅	tong zhuang rong rong qian	0
+桶装熔融铅	tong zhuang rong rong yan	0
+桶装熔融银	tong zhuang rong rong yin	0
+桶装熔融铂金	tong zhuang rong rong bo jin	0
+桶装熔融因瓦合金	tong zhuang rong rong yin wa he jin	0
+桶装熔融琥珀金	tong zhuang rong rong hu po jin	0
+桶装熔融流明	tong zhuang rong rong liu ming	0
+桶装熔融信素	tong zhuang rong rong xin su	0
+桶装熔融信素	tong zhuang rong rong shen su	0
+桶装熔融蕴魔金属	tong zhuang rong rong yun mo jin shu	0
+桶装熔融末影	tong zhuang rong rong mo ying	0
+桶装熔融末影珍珠	tong zhuang rong rong mo ying zhen zhu	0
+桶装史莱姆粘液	tong zhuang shi lai mu nian ye	0
+桶装熔融生铁	tong zhuang rong rong sheng tie	0
+桶装粘性凝胶	tong zhuang nian xing ning jiao	0
+熔融铁	rong rong tie	0
+熔融金	rong rong jin	0
+熔融铜	rong rong tong	0
+熔融锡	rong rong xi	0
+熔融铝	rong rong lv	0
+熔融钴	rong rong gu	0
+熔融阿迪特	rong rong a di te	0
+熔融青铜	rong rong qing tong	0
+熔融铝黄铜	rong rong lv huang tong	0
+熔融玛玉灵	rong rong ma yu ling	0
+熔融耐酸铝	rong rong nai suan lv	0
+熔融黑曜石	rong rong hei yao shi	0
+熔融钢	rong rong gang	0
+熔融生铁	rong rong sheng tie	0
+熔融玻璃	rong rong bo li	0
+熔融石头	rong rong shi tou	0
+熔融绿宝石	rong rong lv bao shi	0
+血	xue	0
+血	xie	0
+熔融镍	rong rong nie	0
+熔融银	rong rong yin	0
+熔融铅	rong rong qian	0
+熔融铅	rong rong yan	0
+熔融铂金	rong rong bo jin	0
+熔融因瓦合金	rong rong yin wa he jin	0
+熔融琥珀金	rong rong hu po jin	0
+熔融流明	rong rong liu ming	0
+熔融信素	rong rong xin su	0
+熔融信素	rong rong shen su	0
+熔融蕴魔金属	rong rong yun mo jin shu	0
+熔融末影	rong rong mo ying	0
+熔融末影珍珠	rong rong mo ying zhen zhu	0
+液态史莱姆	ye tai shi lai mu	0
+钻石苹果	zuan shi ping guo	0
+胶状黏液	jiao zhuang nian ye	0
+凝血	ning xue	0
+培根	pei gen	0
+心之容器外壳	xin zhi rong qi wai ke	0
+微型红心	wei xing hong xin	0
+红心容器	hong xin rong qi	0
+微型黄心	wei xing huang xin	0
+黄心容器	huang xin rong qi	0
+微型绿星	wei xing lv xing	0
+绿心容器	lv xin rong qi	0
+绿心容器	lu xin rong qi	0
+鼹鼠手套	yan shu shou tao	0
+创造工具强化槽	chuang zao gong ju qiang hua cao	0
+浇注口	jiao zhu kou	0
+铸造盆	zhu zao pen	0
+蓝色史莱姆	lan se shi lai mu	0
+史莱姆王	shi lai mu wang	0
+史莱姆护卫	shi lai mu hu wei	0
+迷你史莱姆护卫	mi ni shi lai mu hu wei	0
+匠魂	jiang hun	0
+装备界面	zhuang bei jie mian	0
+刷新披风	shua xin pi feng	0
+腰带	yao dai	0
+护目镜	hu mu jing	0
+放大	fang da	0
+手柄	shou bing	0
+镐头	gao tou	0
+铲头	chan tou	0
+斧刃	fu ren	0
+绑定结	bang ding jie	0
+坚韧绑定结	jian ren bang ding jie	0
+坚韧手柄	jian ren shou bing	0
+大板	da ban	0
+剑刃	jian ren	0
+宽护手	kuan hu shou	0
+护手	hu shou	0
+十字柄	shi zi bing	0
+刀刃	dao ren	0
+大型护手	da xing hu shou	0
+盘	pan	0
+牌板	pai ban	0
+凿刃	zao ren	0
+凿刃	zuo ren	0
+镰刀刀刃	lian dao dao ren	0
+宽斧刃	kuan fu ren	0
+开掘铲头	kai jue chan tou	0
+碎片	sui pian	0
+大剑刃	da jian ren	0
+大剑刃	dai jian ren	0
+大剑刃	tai jian ren	0
+锤头	chui tou	0
+箭羽	jian yu	0
+弩臂	nu bi	0
+弩臂	nu bei	0
+弩身	nu shen	0
+弓臂	gong bi	0
+弓臂	gong bei	0
+箭杆	jian gan	0
+液态蓝史莱姆	ye tai lan shi lai mu	0
+生铁	sheng tie	0
+初学手艺	chu xue shou yi	0
+模具工人	mu ju gong ren	0
+匠师	jiang shi	0
+专业匠师	zhuan ye jiang shi	0
+冶炼炉工	ye lian lu gong	0
+准备战斗	zhun bei zhan dou	0
+杀敌	sha di	0
+双重便利	shuang chong bian li	0
+你错了	ni cuo le	0
+你错了	ni cuo liao	0
+更好地合成	geng hao de he cheng	0
+子储罐	zi chu guan	0
+无效结构	wu xiao jie gou	0
+工具材料	gong ju cai liao	0
+弓与箭	gong yu jian	0
+冶炼炉合金	ye lian lu he jin	0
+浇铸盆	jiao zhu pen	0
+冶炼炉熔化	ye lian lu rong hua	0
+燃料	ran liao	0
+绿宝石	lv bao shi	0
+板	ban	0
+锭	ding	0
+粒	li	0
+熔融	rong rong	0
+合成工具部件	he cheng gong ju bu jian	0
+锻造工具	duan zao gong ju	0
+基础耐久	ji chu nai jiu	0
+手柄系数	shou bing xi shu	0
+采掘速度	cai jue su du	0
+采掘等级	cai jue deng ji	0
+攻击力	gong ji li	0
+下一种模具	xia yi zhong mu ju	0
+下一种模具	xia yi zhong mo ju	0
+下一种模具	xia yi chong mu ju	0
+下一种模具	xia yi chong mo ju	0
+上一种模具	shang yi zhong mu ju	0
+上一种模具	shang yi zhong mo ju	0
+上一种模具	shang yi chong mu ju	0
+上一种模具	shang yi chong mo ju	0
+耐久	nai jiu	0
+增益	zeng yi	0
+损失	sun shi	0
+拉弓速度	la gong su du	0
+箭矢速度	jian shi su du	0
+重量	zhong liang	0
+精准度	jing zhun du	0
+基础攻击力	ji chu gong ji li	0
+短弓攻击力	duan gong gong ji li	0
+使用速度	shi yong su du	0
+强化次数	qiang hua ci shu	0
+剩余强化次数	sheng yu qiang hua ci shu	0
+石头	shi tou	0
+铁	tie	0
+红石	hong shi	0
+黑曜石	hei yao shi	0
+钴	gu	0
+玛玉灵	ma yu ling	0
+适量	shi liang	0
+西洋剑是种特制武器低	xi yang jian shi zhong te zhi wu qi di	0
+煎锅是种重型武器手柄	jian guo shi zhong zhong xing wu qi shou bing	0
+平均	ping jun	0
+高	gao	0
+低范围伤害	di fan wei shang hai	0
+中等	zhong deng	0
+强力的近战武器低	qiang li de jin zhan wu qi di	0
+强力的近战武器低	qiang li di jin zhan wu qi di	0
+耐酸铝	nai suan lv	0
+阿迪特	a di te	0
+石缚	shi fu	0
+石缚	dan fu	0
+蓝史莱姆	lan shi lai mu	0
+粘滑	nian hua	0
+史莱姆	shi lai mu	0
+骨头	gu tou	0
+青铜	qing tong	0
+仙人掌	xian ren zhang	0
+锯齿	ju chi	0
+铜	tong	0
+燧石	sui shi	0
+地狱岩	di yu yan	0
+纸	zhi	0
+铭刻	ming ke	0
+美味	mei wei	0
+钢	gang	0
+石	shi	0
+石	dan	0
+神秘	shen mi	0
+木	mu	0
+基础伤害	ji chu shang hai	0
+最大伤害	zui da shang hai	0
+木铲	mu chan	0
+满耐久	man nai jiu	0
+心	xin	0
+材料特性	cai liao te xing	0
+等级	deng ji	0
+手柄修正系数	shou bing xiu zheng xi shu	0
+挖掘等级	wa jue deng ji	0
+棍	gun	0
+棍	hun	0
+挖掘速度	wa jue su du	0
+工具站	gong ju zhan	0
+制作部件	zhi zuo bu jian	0
+玻璃箭头	bo li jian tou	0
+猪的克星	zhu de ke xing	0
+矿工	kuang gong	0
+损坏的	sun huai de	0
+损坏的	sun huai di	0
+切换工具栏	qie huan gong ju lan	0
+变焦	bian jiao	0
+快速游动	kuai su you dong	0
+跳跃加强	tiao yue jia qiang	0
+步子变高	bu zi bian gao	0
+急速	ji su	0
+自动冶炼	zi dong ye lian	0
+自动修复	zi dong xiu fu	0
+生命窃取	sheng ming qie qu	0
+烈焰	lie yan	0
+斩首	zhan shou	0
+火焰	huo yan	0
+钻石	zuan shi	0
+二重跳	er chong tiao	0
+二重跳	er chong tao	0
+青金石	qing jin shi	0
+岩浆	yan jiang	0
+铅靴子	qian xue zi	0
+铅靴子	yan xue zi	0
+节肢杀手	jie zhi sha shou	0
+苔藓	tai xian	0
+坏死的	huai si de	0
+坏死的	huai si di	0
+夜视	ye shi	0
+完美闪避	wan mei shan bi	0
+四重跳跃	si chong tiao yue	0
+石英	shi ying	0
+精准采集	jing zhun cai ji	0
+黏滑鞋子	nian hua xie zi	0
+重击	zhong ji	0
+隐身	yin shen	0
+神秘感知	shen mi gan zhi	0
+三重跳	san chong tiao	0
+三重跳	san chong tao	0
+神秘视觉	shen mi shi jue	0
+水上行走	shui shang xing zou	0
+羽落	yu luo	0
+羽落	yu la	0
+羽落	yu lao	0
+火热的	huo re de	0
+火热的	huo re di	0
+时运	shi yun	0
+四重跳	si chong tiao	0
+四重跳	si chong tao	0
+锋利	feng li	0
+精准	jing zhun	0
+黏滑鞋	nian hua xie	0
