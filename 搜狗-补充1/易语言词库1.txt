@@ -1,0 +1,3607 @@
+# 词库名称: 易语言词库1
+# 词库分类: 个人专用
+# 词库描述: 搜异者制作
+# 词条样例: 如果、到循环尾、跳出循环、算术运算、相乘、相加
+# 解析词数: 3600
+# 解析异常: 0
+
+暗边框色	an bian kuang se	762
+按键中断	an jian zhong duan	196
+按钮	an niu	3105
+按钮风格	an niu feng ge	656
+安全连接	an quan lian jie	2027
+安全码位数	an quan ma wei shu	2052
+安全数组	an quan shu zu	231
+按下	an xia	2121
+按下图片	an xia tu pian	2784
+安装	an zhuang	1498
+安装全局钩子	an zhuang quan ju gou zi	970
+安装字体	an zhuang zi ti	2456
+凹入	ao ru	2129
+八边形	ba bian xing	1888
+八角星	ba jiao xing	1842
+白露	bai lu	886
+白色	bai se	2702
+版本	ban ben	2312
+版本号	ban ben hao	2282
+版权信息	ban quan xin xi	2286
+帮助标志值	bang zhu biao zhi zhi	3214
+帮助命令	bang zhu ming ling	2971
+帮助文件名	bang zhu wen jian ming	3215
+报表列	bao biao lie	2152
+保持	bao chi	216
+保持标题条激活	bao chi biao ti tiao ji huo	3209
+保存	bao cun	1995
+保存到文件	bao cun dao wen jian	1278
+保存点	bao cun dian	183
+保存点结束	bao cun dian jie shu	10
+保存点开始	bao cun dian kai shi	11
+保存更改	bao cun geng gai	2808
+保存事务	bao cun shi wu	1209
+保存为图片	bao cun wei tu pian	1255
+保存文件	bao cun wen jian	291
+包含标记	bao han biao ji	1151
+报头	bao tou	1559
+爆炸形	bao zha xing	1845
+保证显示	bao zheng xian shi	2229
+被动选择	bei dong xuan ze	1424
+被激活	bei ji huo	3202
+背景	bei jing	854
+背景图	bei jing tu	1980
+背景图片	bei jing tu pian	1245
+背景图片组	bei jing tu pian zu	722
+背景效果	bei jing xiao guo	850
+背景颜色	bei jing yan se	3182
+背景颜色二	bei jing yan se er	852
+背景颜色三	bei jing yan se san	851
+背景颜色一	bei jing yan se yi	853
+背景音乐	bei jing yin yue	3226
+被取消激活	bei qu xiao ji huo	3201
+被拖动	bei tuo dong	629
+被下拉	bei xia la	2182
+被显示	bei xian shi	3197
+被选择文本	bei xuan ze wen ben	3168
+被选择文件	bei xuan ze wen jian	3002
+被选择字符数	bei xuan ze zi fu shu	3169
+被隐藏	bei yin cang	3196
+备用文件名	bei yong wen jian ming	1435
+备注	bei zhu	2287
+备注型	bei zhu xing	2577
+本地机器	ben di ji qi	2564
+本地文件路径	ben di wen jian lu jing	1448
+本地语言	ben di yu yan	2305
+笔记	bi ji	2501
+变长二进制字段	bian chang er jin zhi zi duan	1120
+变长宽文本字段	bian chang kuan wen ben zi duan	1117
+变长文本字段	bian chang wen ben zi duan	1119
+变灰	bian hui	2120
+编辑	bian ji	3267
+编辑框	bian ji kuang	3185
+编辑内容被改变	bian ji nei rong bei gai bian	3082
+边界检查	bian jie jian cha	561
+边框	bian kuang	3230
+边框颜色	bian kuang yan se	1246
+变量操作	bian liang cao zuo	3547
+变量循环首	bian liang xun huan shou	3595
+编码	bian ma	15
+编码文本	bian ma wen ben	2069
+变体类型	bian ti lei xing	2737
+变体类型值	bian ti lei xing zhi	236
+变体型	bian ti xing	2744
+变体型数组	bian ti xing shu zu	2723
+变体型字段	bian ti xing zi duan	1118
+边线	bian xian	825
+边线颜色	bian xian yan se	824
+表单自动完成历史记录	biao dan zi dong wan cheng li shi ji lu	2361
+表格	biao ge	2890
+表格常量	biao ge chang liang	345
+表格激活	biao ge ji huo	2005
+表格名	biao ge ming	1983
+表格取消激活	biao ge qu xiao ji huo	2004
+表格数量	biao ge shu liang	1981
+表格线宽度	biao ge xian kuan du	351
+表格线颜色	biao ge xian yan se	2877
+表格序号	biao ge xu hao	1982
+表列可拖动	biao lie ke tuo dong	2146
+表面长短轴比	biao mian chang duan zhou bi	1219
+标签	biao qian	3114
+标签跳转	biao qian tiao zhuan	3272
+标识号	biao shi hao	2038
+标题	biao ti	3231
+标题背景颜色	biao ti bei jing yan se	3011
+标题对齐方式	biao ti dui qi fang shi	723
+标题居左	biao ti ju zuo	3102
+标题文字	biao ti wen zi	1241
+标题颜色	biao ti yan se	3012
+标题自动换行	biao ti zi dong huan hang	2153
+标题字体	biao ti zi ti	1240
+表头被单击	biao tou bei dan ji	2134
+表头背景颜色	biao tou bei jing yan se	359
+表头被双击	biao tou bei shuang ji	346
+表头底色渐变	biao tou di se jian bian	720
+表头方向	biao tou fang xiang	3043
+表头行数	biao tou hang shu	364
+表头可单击	biao tou ke dan ji	2149
+表头列数	biao tou lie shu	363
+表头图片组	biao tou tu pian zu	2150
+表头样式	biao tou yang shi	724
+表头与表格间隔	biao tou yu biao ge jian ge	325
+表项	biao xiang	2137
+表项被激活	biao xiang bei ji huo	2135
+表项跟踪	biao xiang gen zong	2133
+标识	biao zhi	1555
+标识符	biao zhi fu	1542
+标志位	biao zhi wei	1554
+标识型字段	biao zhi xing zi duan	1135
+标注非热点	biao zhu fei re dian	2143
+标注热点	biao zhu re dian	2142
+标注颜色	biao zhu yan se	1237
+标注字体	biao zhu zi ti	1238
+标准错误设备	biao zhun cuo wu she bei	2488
+标准打印设置对话框	biao zhun da yin she zhi dui hua kuang	2330
+标准输出	biao zhun shu chu	3257
+标准输出设备	biao zhun shu chu she bei	2489
+标准输入	biao zhun shu ru	3256
+标准音提示	biao zhun yin ti shi	640
+并口设置	bing kou she zhi	248
+并且	bing qie	3559
+饼图立体厚度	bing tu li ti hou du	1220
+饼形图控件	bing xing tu kong jian	1223
+播放	bo fang	3031
+播放次数	bo fang ci shu	3225
+播放间隔	bo fang jian ge	1632
+播放数字	bo fang shu zi	212
+播放数字类型	bo fang shu zi lei xing	190
+播放速度	bo fang su du	633
+播放完毕	bo fang wan bi	199
+播放位置	bo fang wei zhi	635
+播放音乐	bo fang yin yue	3374
+拨号	bo hao	2096
+拨号上网	bo hao shang wang	2100
+波特率	bo te lv	2920
+波形	bo xing	265
+不等于	bu deng yu	3565
+部分重画	bu fen chong hua	3245
+不改变目录	bu gai bian mu lu	2973
+捕获视频	bu huo shi pin	1257
+捕获鼠标	bu huo shu biao	2409
+不可中断	bu ke zhong duan	195
+不匹配括号加亮	bu pi pei kuo hao jia liang	101
+不区分大小写	bu qu fen da xiao xie	2573
+不圈注今天	bu quan zhu jin tian	3021
+不显示今天	bu xian shi jin tian	3022
+不显示虚拟目录	bu xian shi xu ni mu lu	863
+菜单被单击	cai dan bei dan ji	749
+菜单被改变	cai dan bei gai bian	752
+菜单背景图片组	cai dan bei jing tu pian zu	755
+菜单被右击	cai dan bei you ji	748
+菜单底色	cai dan di se	774
+菜单高度	cai dan gao du	759
+菜单滚动速度	cai dan gun dong su du	758
+菜单名称被改变	cai dan ming cheng bei gai bian	750
+菜单是否已禁止	cai dan shi fou yi jin zhi	791
+菜单是否已隐藏	cai dan shi fou yi yin cang	787
+菜单图标图片组	cai dan tu biao tu pian zu	756
+菜单文本色	cai dan wen ben se	770
+菜单下按色	cai dan xia an se	773
+菜单下按文本色	cai dan xia an wen ben se	769
+菜单悬停色	cai dan xuan ting se	772
+菜单悬停文本色	cai dan xuan ting wen ben se	768
+菜单选中色	cai dan xuan zhong se	771
+菜单选中文本色	cai dan xuan zhong wen ben se	767
+菜单字体	cai dan zi ti	761
+参考	can kao	1675
+操作类型	cao zuo lei xing	1533
+操作系统	cao zuo xi tong	2313
+操作状态	cao zuo zhuang tai	1175
+层次	ceng ci	512
+层叠样式表	ceng die yang shi biao	844
+查看	cha kan	2746
+插入	cha ru	1382
+插入按钮	cha ru an niu	2196
+插入表项	cha ru biao xiang	2168
+插入成员	cha ru cheng yuan	3538
+插入节点	cha ru jie dian	1075
+插入列	cha ru lie	2819
+插入文本	cha ru wen ben	3409
+插入文本行	cha ru wen ben xing	3408
+插入下拉列表项	cha ru xia la lie biao xiang	382
+插入项目	cha ru xiang mu	3091
+插入消息钩子	cha ru xiao xi gou zi	957
+插入行	cha ru xing	2822
+插入字节集	cha ru zi jie ji	3410
+查询	cha xun	2776
+查询并口	cha xun bing kou	247
+查询调用序号	cha xun diao yong xu hao	224
+查找	cha zhao	3280
+查找表项	cha zhao biao xiang	2165
+查找表项数值	cha zhao biao xiang shu zhi	2164
+查找匹配括号	cha zhao pi pei kuo hao	100
+查找文本	cha zhao wen ben	175
+查找下一个	cha zhao xia yi ge	1177
+产品版本	chan pin ban ben	2289
+产品名称	chan pin ming cheng	2290
+产生按键	chan sheng an jian	217
+产生源码文本	chan sheng yuan ma wen ben	222
+常量	chang liang	2722
+常量或资源	chang liang huo zi yuan	1680
+常量或资源值	chang liang huo zi yuan zhi	1678
+长日期格式	chang ri qi ge shi	337
+长整数型	chang zheng shu xing	2657
+超变长二进制字段	chao bian chang er jin zhi zi duan	1132
+超变长宽文本字段	chao bian chang kuan wen ben zi duan	1130
+超变长文本字段	chao bian chang wen ben zi duan	1131
+超长整数字段	chao chang zheng shu zi duan	1149
+超级按钮	chao ji an niu	657
+超级编辑框	chao ji bian ji kuang	621
+超级链接框	chao ji lian jie kuang	2990
+超级列表框	chao ji lie biao kuang	2181
+超时	chao shi	406
+超文本	chao wen ben	810
+超文本传输协议头	chao wen ben chuan shu xie yi tou	2062
+彻底删除	che di shan chu	3287
+撤消	che xiao	609
+撤销热键	che xiao re jian	487
+撤消拖放控件	che xiao tuo fang kong jian	1404
+成功	cheng gong	2065
+橙黄	cheng huang	2689
+程序	cheng xu	2023
+程序等待	cheng xu deng dai	2630
+程序集	cheng xu ji	1690
+程序集变量	cheng xu ji bian liang	1687
+程序调试	cheng xu tiao shi	3372
+程序项类型	cheng xu xiang lei xing	1691
+程序项数据类型	cheng xu xiang shu ju lei xing	1670
+程序项属性	cheng xu xiang shu xing	1679
+程序作用域	cheng xu zuo yong yu	1593
+尺寸	chi cun	837
+尺寸被改变	chi cun bei gai bian	3203
+尺寸被扩展	chi cun bei kuo zhan	2865
+尺寸调节器	chi cun tiao jie qi	2198
+尺寸线	chi cun xian	1871
+持久标识符	chi jiu biao zhi fu	1152
+重定向	chong ding xiang	2067
+重复	chong fu	168
+重画	chong hua	3246
+重试钮	chong shi niu	2624
+重试取消钮	chong shi qu xiao niu	2639
+重写	chong xie	2676
+重新查询	chong xin cha xun	2775
+重置邮件	chong zhi you jian	1717
+出错信息	chu cuo xin xi	1113
+除号键	chu hao jian	2604
+处理事件	chu li shi jian	3356
+处理新字符	chu li xin zi fu	12
+初始尺寸	chu shi chi cun	2825
+初始过滤器	chu shi guo lv qi	2980
+初始行数	chu shi hang shu	2793
+初始化	chu shi hua	1277
+初始化版本信息	chu shi hua ban ben xin xi	2091
+初始化传真	chu shi hua chuan zhen	211
+初始化互联网扩展	chu shi hua hu lian wang kuo zhan	2090
+初始列数	chu shi lie shu	2792
+初始目录	chu shi mu lu	2979
+处暑	chu shu	887
+传送常量	chuan song chang liang	1430
+传送类型	chuan song lei xing	1434
+传址	chuan zhi	232
+创建	chuang jian	3338
+创建程序项	chuang jian cheng xu xiang	2451
+创建程序组	chuang jian cheng xu zu	2453
+创建兼容位图	chuang jian jian rong wei tu	1570
+创建进入许可证	chuang jian jin ru xu ke zheng	317
+创建命名管道	chuang jian ming ming guan dao	454
+创建目录	chuang jian mu lu	3444
+创建声音	chuang jian sheng yin	510
+创建时提示	chuang jian shi ti shi	2977
+创建数组	chuang jian shu zu	2739
+创建图片对象	chuang jian tu pian dui xiang	2751
+创建完毕	chuang jian wan bi	3207
+创建文档	chuang jian wen dang	80
+创建物体	chuang jian wu ti	598
+创建映射文件	chuang jian ying she wen jian	442
+创建字体对象	chuang jian zi ti dui xiang	2750
+窗口	chuang kou	3255
+窗口操作	chuang kou cao zuo	2427
+窗口大小	chuang kou da xiao	1546
+窗口傅立叶	chuang kou fu li ye	1344
+窗口过程调用后钩子	chuang kou guo cheng diao yong hou gou zi	946
+窗口过程调用前钩子	chuang kou guo cheng diao yong qian gou zi	954
+窗口类名	chuang kou lei ming	3208
+窗口组件	chuang kou zu jian	1681
+垂直边距	chui zhi bian ju	833
+垂直边线宽度	chui zhi bian xian kuan du	822
+垂直对齐方式	chui zhi dui qi fang shi	1972
+垂直翻转	chui zhi fan zhuan	1781
+垂直线	chui zhi xian	2532
+春分	chun fen	897
+次高层	ci gao ceng	2595
+磁盘	ci pan	2343
+磁盘操作	ci pan cao zuo	3452
+磁头数	ci tou shu	2278
+从句柄创建	cong ju bing chuang jian	1590
+从上到下	cong shang dao xia	2586
+从文本分配	cong wen ben fen pei	1502
+从文件读	cong wen jian du	2814
+从下到上	cong xia dao shang	2582
+从右到左	cong you dao zuo	2581
+从右上到左下	cong you shang dao zuo xia	2583
+从右下到左上	cong you xia dao zuo shang	2580
+从字节集读	cong zi jie ji du	2816
+从字节集分配	cong zi jie ji fen pei	1501
+从左到右	cong zuo dao you	2585
+从左上到右下	cong zuo shang dao you xia	2584
+从左下到右上	cong zuo xia dao you shang	2579
+粗体	cu ti	2540
+存档	cun dang	2999
+存档文件	cun dang wen jian	2662
+存到文件	cun dao wen jian	2815
+存到字节集	cun dao zi jie ji	2817
+存根文件	cun gen wen jian	2363
+存在同名文件	cun zai tong ming wen jian	1408
+错误码字段	cuo wu ma zi duan	1136
+错误日志	cuo wu ri zhi	1414
+错误图标	cuo wu tu biao	2638
+错误写操作	cuo wu xie cao zuo	9
+错误信息	cuo wu xin xi	1273
+错误型	cuo wu xing	235
+错误值型	cuo wu zhi xing	2730
+错误值型数组	cuo wu zhi xing shu zu	2724
+大寒	da han	877
+打开	da kai	3337
+打开并过滤	da kai bing guo lv	1200
+打开并排序	da kai bing pai xu	1201
+打开打印机对话框	da kai da yin ji dui hua kuang	2443
+打开加密文件	da kai jia mi wen jian	3406
+打开监视器	da kai jian shi qi	2464
+打开内存文件	da kai nei cun wen jian	3427
+打开特殊系统窗口	da kai te shu xi tong chuang kou	2426
+打开网络适配器	da kai wang luo shi pei qi	1564
+打开文档历史记录	da kai wen dang li shi ji lu	2356
+打开文件	da kai wen jian	3428
+打开选择窗口	da kai xuan ze chuang kou	924
+打开映射对话框	da kai ying she dui hua kuang	463
+打开映射文件	da kai ying she wen jian	441
+打开指定网址	da kai zhi ding wang zhi	2425
+打开中断对话框	da kai zhong duan dui hua kuang	462
+大数	da shu	1308
+大暑	da shu	889
+大小写锁定键盘灯	da xiao xie suo ding jian pan deng	2351
+大雪	da xue	880
+打印	da yin	2879
+打印被中止	da yin bei zhong zhi	2941
+打印到打印机	da yin dao da yin ji	379
+打印对话框	da yin dui hua kuang	2329
+打印范围方式	da yin fan wei fang shi	2895
+打印份数	da yin fen shu	2956
+打印机	da yin ji	2967
+打印机名称	da yin ji ming cheng	2256
+打印区高度	da yin qu gao du	2942
+打印区宽度	da yin qu kuan du	2943
+打印日期	da yin ri qi	357
+打印设置	da yin she zhi	2807
+打印设置信息	da yin she zhi xin xi	2909
+打印属性对话框	da yin shu xing dui hua kuang	2328
+打印缩放比	da yin suo fang bi	2891
+打印缩放至页宽	da yin suo fang zhi ye kuan	352
+打印文件名	da yin wen jian ming	2899
+打印信息	da yin xin xi	2257
+打印选择区	da yin xuan ze qu	2950
+打印页码	da yin ye ma	358
+打印预览	da yin yu lan	2878
+打印作业名	da yin zuo ye ming	2957
+大于	da yu	3563
+大于等于	da yu deng yu	1293
+大于或等于	da yu huo deng yu	3561
+代理服务器	dai li fu wu qi	1432
+代码	dai ma	2306
+代码编辑框	dai ma bian ji kuang	186
+代码编辑框常量	dai ma bian ji kuang chang liang	3
+代码编辑框支持库	dai ma bian ji kuang zhi chi ku	187
+淡出时间	dan chu shi jian	826
+单击提示音	dan ji ti shi yin	638
+单击右键	dan ji you jian	2560
+单击左键	dan ji zuo jian	2562
+单精度字段	dan jing du zi duan	1128
+淡入时间	dan ru shi jian	827
+单位	dan wei	1221
+单位刻度值	dan wei ke du zhi	3051
+单位转换	dan wei zhuan huan	3129
+单斜线	dan xie xian	2531
+单选	dan xuan	3064
+单选按钮	dan xuan an niu	2124
+单选框	dan xuan kuang	3101
+单一选择	dan yi xuan ze	2138
+单引号键	dan yin hao jian	2599
+单元格到文件	dan yuan ge dao wen jian	2811
+单元格到字节集	dan yuan ge dao zi jie ji	2813
+单元格显示零	dan yuan ge xian shi ling	349
+当前表项被改变	dang qian biao xiang bei gai bian	2136
+当前记录改变	dang qian ji lu gai bian	2797
+当前来源	dang qian lai yuan	1274
+当前数据值	dang qian shu ju zhi	1226
+当前图例索引	dang qian tu li suo yin	1230
+当前图例文字	dang qian tu li wen zi	1229
+当前图例颜色	dang qian tu li yan se	1228
+当前位置	dang qian wei zhi	1172
+当前页号	dang qian ye hao	2945
+当前用户	dang qian yong hu	2309
+当前帧	dang qian zhen	631
+到半角	dao ban jiao	3509
+到长整数	dao chang zheng shu	3469
+导出长整数	dao chu chang zheng shu	1296
+导出短整数	dao chu duan zheng shu	1298
+导出文本	dao chu wen ben	1304
+导出文本文件	dao chu wen ben wen jian	1306
+导出整数	dao chu zheng shu	1297
+导出字节	dao chu zi jie	1299
+到纯文本	dao chun wen ben	667
+到大写	dao da xie	3511
+到短整数	dao duan zheng shu	3471
+到父节点	dao fu jie dian	1076
+到根节点	dao gen jie dian	1077
+到后一记录	dao hou yi ji lu	2772
+到剪贴板	dao jian tie ban	2344
+到宽字符	dao kuan zi fu	238
+到启动组	dao qi dong zu	2338
+到前一记录	dao qian yi ji lu	2773
+到前一条	dao qian yi tiao	1183
+到全角	dao quan jiao	3510
+导入数字	dao ru shu zi	1303
+导入文本	dao ru wen ben	1305
+导入文本文件	dao ru wen ben wen jian	1307
+到时间	dao shi jian	3497
+到首记录	dao shou ji lu	3279
+到首节点	dao shou jie dian	1092
+到数值	dao shu zhi	3478
+到尾记录	dao wei ji lu	3278
+到尾节点	dao wei jie dian	1091
+到文本	dao wen ben	3508
+到文件	dao wen jian	2345
+到下一条	dao xia yi tiao	1184
+到小数	dao xiao shu	3468
+到兄弟节点	dao xiong di jie dian	1073
+到循环尾	dao xun huan wei	3594
+到右子树	dao you zi shu	1078
+到窄字符	dao zhai zi fu	237
+倒找文本	dao zhao wen ben	3512
+倒找字节集	dao zhao zi jie ji	3459
+到整数	dao zheng shu	3470
+到指定位置	dao zhi ding wei zhi	158
+到指定行	dao zhi ding xing	157
+到注册表	dao zhu ce biao	2339
+到字节	dao zi jie	3472
+到子节点	dao zi jie dian	1074
+到字节集	dao zi jie ji	3465
+到左子树	dao zuo zi shu	1079
+得到超文本	de dao chao wen ben	1399
+得到文本	de dao wen ben	1400
+得到文件	de dao wen jian	1398
+等待	deng dai	321
+等待接收数据	deng dai jie shou shu ju	1720
+等待时间	deng dai shi jian	2915
+等待线程	deng dai xian cheng	313
+等高	deng gao	1789
+等号键	deng hao jian	2608
+等宽	deng kuan	1790
+等宽缩放	deng kuan suo fang	2883
+等腰三角形	deng yao san jiao xing	1887
+等于	deng yu	3566
+底边	di bian	2323
+底边对齐	di bian dui qi	1793
+底边空	di bian kong	2946
+底边上移	di bian shang yi	1786
+底边下移	di bian xia yi	1785
+底层	di ceng	2597
+底色	di se	3229
+底图	di tu	3228
+底图方式	di tu fang shi	3227
+地址	di zhi	2987
+地支	di zhi	901
+地址被改变	di zhi bei gai bian	600
+电话	dian hua	193
+电话控制	dian hua kong zhi	220
+电话线	dian hua xian	263
+电话语音支持库	dian hua yu yin zhi chi ku	221
+点燃背景色	dian ran bei jing se	643
+点燃标题颜色	dian ran biao ti yan se	714
+点燃表头底色	dian ran biao tou di se	718
+点燃渐变起始色	dian ran jian bian qi shi se	707
+点燃前景色	dian ran qian jing se	644
+点燃色	dian ran se	369
+点燃图片	dian ran tu pian	2785
+点燃图片透明色	dian ran tu pian tou ming se	649
+电源选项属性	dian yuan xuan xiang shu xing	2388
+电子信箱地址	dian zi xin xiang di zhi	2988
+调用	diao yong	223
+调用类型	diao yong lei xing	230
+调用下一个钩子	diao yong xia yi ge gou zi	968
+调用易系统功能	diao yong yi xi tong gong neng	2242
+调用者信息	diao yong zhe xin xi	1512
+调用子程序	diao yong zi cheng xu	2244
+顶边	ding bian	2325
+顶边对齐	ding bian dui qi	1794
+顶边空	ding bian kong	2948
+顶层	ding ceng	2598
+定长数据	ding chang shu ju	1156
+定位物体	ding wei wu ti	564
+定位写出	ding wei xie chu	3137
+定义标志	ding yi biao zhi	97
+定义模板变量	ding yi mu ban bian liang	1697
+丁字箭头	ding zi jian tou	1834
+动画播放完毕	dong hua bo fang wan bi	525
+动画间隔时间	dong hua jian ge shi jian	517
+动画框	dong hua kuang	599
+动画框鼠标位置改变	dong hua kuang shu biao wei zhi gai bian	534
+动画文件名	dong hua wen jian ming	1041
+动画物体	dong hua wu ti	523
+动画自动销毁	dong hua zi dong xiao hui	516
+动态调用	dong tai diao yong	245
+动态调用库函数支持库	dong tai diao yong ku han shu zhi chi ku	246
+冬至	dong zhi	879
+逗号键	dou hao jian	2607
+读单精度	du dan jing du	1189
+读对象型属性	du dui xiang xing shu xing	2761
+读环境变量	du huan jing bian liang	3529
+读逻辑属性	du luo ji shu xing	2763
+读逻辑值	du luo ji zhi	1187
+读命名管道	du ming ming guan dao	451
+读配置项	du pei zhi xiang	3380
+读取文本	du qu wen ben	2084
+读取字节集	du qu zi jie ji	2068
+读日期时间	du ri qi shi jian	1186
+读日期属性	du ri qi shu xing	2762
+读入	du ru	2678
+读入数据	du ru shu ju	3414
+读入文档	du ru wen dang	604
+读入文件	du ru wen jian	3431
+读入一行	du ru yi hang	3416
+读入字节集	du ru zi jie ji	3419
+读数据	du shu ju	446
+读属性	du shu xing	2760
+读数值属性	du shu zhi shu xing	2764
+读双精度	du shuang jing du	1190
+读文本	du wen ben	1191
+读文本属性	du wen ben shu xing	2765
+读文件	du wen jian	2107
+读写	du xie	2677
+读写权限	du xie quan xian	1168
+读音索引	du yin suo yin	2575
+独占读权限	du zhan du quan xian	1167
+独占权限	du zhan quan xian	1165
+独占写权限	du zhan xie quan xian	1166
+读整数	du zheng shu	1188
+读字段	du zi duan	3285
+读字节集	du zi jie ji	1185
+断开	duan kai	1758
+断开发信服务器	duan kai fa xin fu wu qi	2113
+断开管道连接	duan kai guan dao lian jie	449
+断开客户	duan kai ke hu	2927
+断开连接	duan kai lian jie	2931
+断开收信服务器	duan kai shou xin fu wu qi	1748
+断开映射	duan kai ying she	464
+端口	duan kou	2935
+端口读入	duan kou du ru	250
+端口访问	duan kou fang wen	251
+端口访问支持库	duan kou fang wen zhi chi ku	252
+端口号	duan kou hao	2921
+端口检测	duan kou jian ce	2432
+端口写出	duan kou xie chu	249
+段落格式	duan luo ge shi	626
+段落居右	duan luo ju you	502
+段落居中	duan luo ju zhong	503
+段落居左	duan luo ju zuo	504
+短日期格式	duan ri qi ge shi	336
+短整数型	duan zheng shu xing	2659
+短整数字段	duan zheng shu zi duan	1127
+对方端口	dui fang duan kou	1514
+对方信息	dui fang xin xi	1515
+对开纸	dui kai zhi	2499
+队列	dui lie	1083
+对齐方式	dui qi fang shi	3177
+对象	dui xiang	2768
+对象接口	dui xiang jie kou	226
+对象提供者	dui xiang ti gong zhe	1206
+对象型	dui xiang xing	2731
+对象型方法	dui xiang xing fang fa	2752
+对象型数组	dui xiang xing shu zu	2725
+对照	dui zhao	1853
+多份打印方式	duo fen da yin fang shi	2955
+多功能条	duo gong neng tiao	697
+多列	duo lie	3071
+多媒体支持库	duo mei ti zhi chi ku	310
+多文档	duo wen dang	1863
+多文件对话框	duo wen jian dui hua kuang	3376
+多线程控制	duo xian cheng kong zhi	319
+多线程支持库	duo xian cheng zhi chi ku	320
+多项选择	duo xiang xuan ze	3364
+多行模式	duo xing mo shi	1774
+多选按钮	duo xuan an niu	2125
+二叉树	er cha shu	1081
+二乘曲线拟合	er cheng qu xian ni he	1332
+二级缓存大小	er ji huan cun da xiao	2317
+二进制类型	er jin zhi lei xing	1153
+二进制字段	er jin zhi zi duan	1148
+二维傅立叶变换	er wei fu li ye bian huan	1343
+法律用纸	fa lv yong zhi	2505
+发送	fa song	1566
+发送超时	fa song chao shi	1442
+发送传真	fa song chuan zhen	210
+发送大小	fa song da xiao	1438
+发送端以太网地址	fa song duan yi tai wang di zhi	1532
+发送或置位	fa song huo zhi wei	2493
+发送局域网消息	fa song ju yu wang xiao xi	2430
+发送日志	fa song ri zhi	1412
+发送数据	fa song shu ju	2937
+发送文本	fa song wen ben	1765
+发送信息	fa song xin xi	3239
+发送邮件	fa song you jian	2109
+发送字节集	fa song zi jie ji	1764
+发现存在文件	fa xian cun zai wen jian	1423
+发音比较	fa yin bi jiao	3522
+返回	fan hui	3592
+反馈事件	fan kui shi jian	3106
+反撇号键	fan pie hao jian	2603
+繁体到简体	fan ti dao jian ti	1620
+反向搜索	fan xiang sou suo	1115
+反正切	fan zheng qie	1325
+翻转	fan zhuan	1899
+翻转矩形区	fan zhuan ju xing qu	3142
+翻转拷贝	fan zhuan kao bei	2587
+方法	fang fa	2758
+放弃重试忽略钮	fang qi chong shi hu lue niu	2642
+放弃钮	fang qi niu	2625
+访问后的颜色	fang wen hou de yan se	2986
+方向	fang xiang	3054
+非本月颜色	fei ben yue yan se	3010
+非超文本传输协议头	fei chao wen ben chuan shu xie yi tou	2061
+非首行缩进	fei shou hang suo jin	623
+分隔条	fen ge tiao	2122
+分割字节集	fen ge zi jie ji	3454
+分号键	fen hao jian	2609
+粉红	fen hong	2696
+分解	fen jie	2831
+分类计算	fen lei ji suan	3296
+分配	fen pei	1503
+分钟	fen zhong	2647
+分组框	fen zu kuang	3115
+风格	feng ge	961
+否钮	fou niu	2621
+覆盖	fu gai	1427
+芙红	fu hong	2687
+附加	fu jia	2245
+附加备注	fu jia bei zhu	3282
+附加字节集	fu jia zi jie ji	3283
+附件类型	fu jian lei xing	3028
+附件信息	fu jian xin xi	1727
+父进程标识符	fu jin cheng biao zhi fu	2265
+傅立叶变换	fu li ye bian huan	1347
+复数相乘	fu shu xiang cheng	1363
+复数相除	fu shu xiang chu	1362
+复数相加	fu shu xiang jia	1365
+复数相减	fu shu xiang jian	1364
+复数运算	fu shu yun suan	1366
+复位邮件	fu wei you jian	1742
+服务类型	fu wu lei xing	1557
+服务器	fu wu qi	2929
+服务器安全码位数	fu wu qi an quan ma wei shu	2051
+服务器变量类型	fu wu qi bian liang lei xing	2063
+服务器地址	fu wu qi di zhi	2270
+服务器端口	fu wu qi duan kou	2028
+服务器名	fu wu qi ming	2029
+服务器认证主题	fu wu qi ren zheng zhu ti	2048
+服务器软件信息	fu wu qi ruan jian xin xi	2025
+服务器证书	fu wu qi zheng shu	2049
+服务元路径	fu wu yuan lu jing	2037
+复制	fu zhi	3131
+赋值	fu zhi	3546
+复制背景	fu zhi bei jing	543
+复制程序	fu zhi cheng xu	1707
+复制程序段	fu zhi cheng xu duan	1706
+复制窗口组件	fu zhi chuang kou zu jian	3357
+复制到	fu zhi dao	1574
+复制记录	fu zhi ji lu	3299
+复制结构	fu zhi jie gou	3300
+复制密码	fu zhi mi ma	3263
+复制数组	fu zhi shu zu	3540
+复制文件	fu zhi wen jian	3442
+复制物体	fu zhi wu ti	557
+复制选定文本	fu zhi xuan ding wen ben	396
+复制组件	fu zhi zu jian	1044
+辅助对象	fu zhu dui xiang	1452
+辅助功能选项	fu zhu gong neng xuan xiang	2398
+辅助调试支持库	fu zhu tiao shi zhi chi ku	324
+富组合框	fu zu he kuang	429
+改变层次	gai bian ceng ci	1042
+改变目录	gai bian mu lu	3446
+改变驱动器	gai bian qu dong qi	3447
+改读	gai du	2674
+改名	gai ming	1425
+改写	gai xie	2675
+概要统计	gai yao tong ji	1337
+改字段名	gai zi duan ming	3325
+高度	gao du	2260
+高级表格	gao ji biao ge	403
+高级表格支持库	gao ji biao ge zhi chi ku	404
+高级选择夹	gao ji xuan ze jia	745
+高级影像框	gao ji ying xiang kuang	636
+高级字体选择框	gao ji zi ti xuan ze kuang	433
+格式化日期	ge shi hua ri qi	931
+格式化文本	ge shi hua wen ben	2447
+根类	gen lei	2567
+根目录为我的电脑	gen mu lu wei wo de dian nao	864
+跟随鼠标	gen sui shu biao	841
+更改调用	geng gai diao yong	1481
+更新	geng xin	1199
+更新界面	geng xin jie mian	13
+更新索引	geng xin suo yin	3319
+公共函数	gong gong han shu	242
+工具条	gong ju tiao	2197
+工具条按钮	gong ju tiao an niu	2183
+公开	gong kai	1673
+公历日期	gong li ri qi	922
+公历转农历	gong li zhuan nong li	942
+公司名称	gong si ming cheng	2294
+共享打印机	gong xiang da yin ji	2332
+共享目录或文件	gong xiang mu lu huo wen jian	2333
+共享权限	gong xiang quan xian	1164
+共享文件夹	gong xiang wen jian jia	457
+工作簿	gong zuo bu	2003
+工作簿打开	gong zuo bu da kai	2012
+工作簿激活	gong zuo bu ji huo	2011
+工作簿即将保存	gong zuo bu ji jiang bao cun	2008
+工作簿即将打印	gong zuo bu ji jiang da yin	2007
+工作簿即将关闭	gong zuo bu ji jiang guan bi	2009
+工作簿取消激活	gong zuo bu qu xiao ji huo	2010
+工作组	gong zuo zu	2336
+构造以太网头	gou zao yi tai wang tou	1561
+谷雨	gu yu	895
+挂断	gua duan	2094
+挂接句柄	gua jie ju bing	414
+关闭	guan bi	3333
+关闭光驱	guan bi guang qu	2474
+关闭记录集	guan bi ji lu ji	2774
+关闭监视器	guan bi jian shi qi	2463
+关闭连接	guan bi lian jie	1480
+关闭命名管道	guan bi ming ming guan dao	448
+关闭所有文件	guan bi suo you wen jian	3425
+关闭网络适配器	guan bi wang luo shi pei qi	1562
+关闭文件	guan bi wen jian	3426
+关闭线程句柄	guan bi xian cheng ju bing	311
+关闭选择窗口	guan bi xuan ze chuang kou	923
+关闭映射文件	guan bi ying she wen jian	438
+关仓门	guan cang men	278
+关联工具条	guan lian gong ju tiao	857
+关联组件	guan lian zu jian	858
+光标宽度	guang biao kuan du	16
+光标类型	guang biao lei xing	25
+光标闪烁间隔	guang biao shan shuo jian ge	17
+光标所在行背景颜色	guang biao suo zai hang bei jing yan se	18
+光标所在行颜色模式	guang biao suo zai hang yan se mo shi	19
+光标位置改变	guang biao wei zhi gai bian	2869
+光标颜色	guang biao yan se	20
+广播	guang bo	2335
+光盘驱动器	guang pan qu dong qi	2368
+光驱中是否有盘	guang qu zhong shi fou you pan	2472
+滚动	gun dong	616
+滚动按钮图片组	gun dong an niu tu pian zu	721
+滚动锁定键盘灯	gun dong suo ding jian pan deng	2350
+滚动条	gun dong tiao	3178
+滚动写行	gun dong xie xing	3139
+滚动月数	gun dong yue shu	3018
+过程	guo cheng	1870
+国家	guo jia	2303
+国家代码	guo jia dai ma	2304
+过滤记录	guo lv ji lu	1176
+过滤器	guo lv qi	2981
+寒露	han lu	884
+函数数值积分	han shu shu zhi ji fen	1339
+行高	hang gao	2220
+行高被改变	hang gao bei gai bian	2867
+行间距	hang jian ju	3087
+行数	hang shu	366
+毫米	hao mi	2347
+合并	he bing	2832
+合并短整数	he bing duan zheng shu	3548
+合并图片组	he bing tu pian zu	664
+合并物体	he bing wu ti	558
+合并整数	he bing zheng shu	3549
+合法版权	he fa ban quan	2293
+合法商标	he fa shang biao	2292
+褐绿	he lv	2711
+黑白	hei bai	1264
+黑色	hei se	2717
+横线	heng xian	1826
+横向	heng xiang	2511
+横向对齐方式	heng xiang dui qi fang shi	3109
+横向分辨率	heng xiang fen bian lv	1271
+横向滚动条	heng xiang gun dong tiao	3062
+横向绘画单位	heng xiang hui hua dan wei	2486
+横向像素单位	heng xiang xiang su dan wei	2484
+红褐	hong he	2713
+红色	hong se	2705
+后台	hou tai	691
+后台图片显示方式	hou tai tu pian xian shi fang shi	689
+后台图片组	hou tai tu pian zu	690
+后退	hou tui	1667
+呼叫	hu jiao	219
+互联网服务支持库	hu lian wang fu wu zhi chi ku	2093
+互联网扩展	hu lian wang kuo zhan	2092
+互联网扩展返回值	hu lian wang kuo zhan fan hui zhi	2066
+互联网属性	hu lian wang shu xing	2386
+互联网支持库	hu lian wang zhi chi ku	2116
+忽略钮	hu lue niu	2623
+忽略所有空格	hu lue suo you kong ge	2572
+画板	hua ban	3156
+画板背景色	hua ban bei jing se	3128
+画板高度	hua ban gao du	3117
+画板宽度	hua ban kuan du	3118
+画笔尺寸	hua bi chi cun	1636
+画笔粗细	hua bi cu xi	3123
+画笔类型	hua bi lei xing	3125
+画笔颜色	hua bi yan se	3122
+画饼	hua bing	3147
+画出方式	hua chu fang shi	3124
+画点	hua dian	3152
+画多边形	hua duo bian xing	3141
+画弧线	hua hu xian	3149
+画渐变矩形	hua jian bian ju xing	3145
+画矩形	hua ju xing	3146
+滑块条	hua kuai tiao	3053
+画实心矩形	hua shi xin ju xing	1654
+画实心椭圆	hua shi xin tuo yuan	1655
+画实心圆	hua shi xin yuan	1652
+画图片	hua tu pian	3134
+画椭圆	hua tuo yuan	3150
+画弦	hua xian	3148
+画圆	hua yuan	1653
+画圆角矩形	hua yuan jiao ju xing	3143
+画直线	hua zhi xian	3151
+缓存大小	huan cun da xiao	2280
+换行符	huan hang fu	2718
+环境存取	huan jing cun qu	3533
+换页	huan ye	2963
+黄褐	huang he	2697
+黄色	huang se	2703
+回车键	hui che jian	2615
+回车键功能	hui che jian gong neng	356
+回车下移焦点	hui che xia yi jiao dian	3218
+恢复	hui fu	277
+恢复发音	hui fu fa yin	1607
+恢复删除	hui fu shan chu	3288
+恢复鼠标	hui fu shu biao	3390
+回滚事务	hui gun shi wu	2778
+绘画	hui hua	3116
+会话变量是否注册	hui hua bian liang shi fou zhu ce	2073
+绘画单位	hui hua dan wei	3126
+会话获取变量值	hui hua huo qu bian liang zhi	2071
+会话结束	hui hua jie shu	2075
+会话开始	hui hua kai shi	2076
+会话轮询时间	hui hua lun xun shi jian	2070
+会话取消注册变量	hui hua qu xiao zhu ce bian liang	2072
+会话注册变量和值	hui hua zhu ce bian liang he zhi	2074
+回家	hui jia	1661
+灰绿	hui lv	2691
+灰色	hui se	2709
+回收站	hui shou zhan	2364
+绘图模式	hui tu mo shi	1635
+绘制边框	hui zhi bian kuang	653
+绘制方式	hui zhi fang shi	1953
+绘制焦点	hui zhi jiao dian	652
+汇总连接	hui zong lian jie	1854
+混杂模式	hun za mo shi	1526
+货币符号	huo bi fu hao	2302
+货币型	huo bi xing	338
+货币型字段	huo bi xing zi duan	1144
+获取	huo qu	2767
+获取传入数据方法	huo qu chuan ru shu ju fang fa	2088
+获取存根	huo qu cun gen	2077
+获取焦点	huo qu jiao dian	3252
+获取客户端字符串	huo qu ke hu duan zi fu chuan	2085
+获取路径信息	huo qu lu jing xin xi	2086
+获取内容类型	huo qu nei rong lei xing	2087
+获取替换标志	huo qu ti huan biao zhi	2080
+获取图像	huo qu tu xiang	1279
+获取邮件大小	huo qu you jian da xiao	1746
+获取邮件信息	huo qu you jian xin xi	1747
+获取邮件序号	huo qu you jian xu hao	1716
+或者	huo zhe	3558
+计次循环首	ji ci xun huan shou	3596
+季度	ji du	2651
+机读文本	ji du wen ben	1612
+激活	ji huo	3235
+激活表格	ji huo biao ge	1994
+激活窗口	ji huo chuang kou	2019
+激活对象	ji huo dui xiang	1644
+激活工作簿	ji huo gong zuo bu	1993
+即将扩展	ji jiang kuo zhan	2212
+即将收缩	ji jiang shou suo	2211
+记录集	ji lu ji	1204
+记录是否存在	ji lu shi fou cun zai	3273
+记录数量	ji lu shu liang	1174
+记录输入钩子	ji lu shu ru gou zi	958
+奇偶校验	ji ou jiao yan	2917
+奇偶校验方案	ji ou jiao yan fang an	2913
+奇偶页方式	ji ou ye fang shi	2896
+计算表达式	ji suan biao da shi	407
+计算机	ji suan ji	2337
+计算排序	ji suan pai xu	3298
+计算数目	ji suan shu mu	3301
+继续	ji xu	294
+继续下载任务	ji xu xia zai ren wu	1471
+加粗	jia cu	3191
+加记录	jia ji lu	3294
+加空记录	jia kong ji lu	3293
+加密数据	jia mi shu ju	1055
+加入菜单	jia ru cai dan	807
+加入常用	jia ru chang yong	1600
+加入成员	jia ru cheng yuan	3539
+加入风格文本	jia ru feng ge wen ben	182
+加入键值对	jia ru jian zhi dui	1070
+加入节点	jia ru jie dian	1101
+加入栏目	jia ru lan mu	2208
+加入属性	jia ru shu xing	1110
+加入图片	jia ru tu pian	665
+加入图形	jia ru tu xing	1945
+加入文本	jia ru wen ben	3184
+加入文档	jia ru wen dang	1948
+加入项目	jia ru xiang mu	3092
+加入状态	jia ru zhuang tai	2191
+加入子夹	jia ru zi jia	744
+加入组件菜单	jia ru zu jian cai dan	796
+加线条	jia xian tiao	2829
+渐变背景方式	jian bian bei jing fang shi	3111
+渐变背景颜色	jian bian bei jing yan se	3110
+渐变边框宽度	jian bian bian kuang kuan du	3113
+渐变边框颜色	jian bian bian kuang yan se	3112
+渐变进度条	jian bian jin du tiao	420
+检测按键	jian ce an jian	218
+检查	jian cha	3369
+检查消息钩子	jian cha xiao xi gou zi	955
+键打开帮助	jian da kai bang zhu	3216
+简单超文本框	jian dan chao wen ben kuang	811
+简单文本框	jian dan wen ben kuang	1895
+键关闭	jian guan bi	3217
+减号键	jian hao jian	2606
+剪辑板中可有文本	jian ji ban zhong ke you wen ben	3401
+建空图片组	jian kong tu pian zu	659
+建立号码	jian li hao ma	2311
+键盘事件钩子	jian pan shi jian gou zi	956
+键盘属性	jian pan shu xing	2391
+剪切	jian qie	1904
+剪切选定文本	jian qie xuan ding wen ben	397
+减少线程	jian shao xian cheng	1469
+键是否被按下	jian shi fou bei an xia	542
+监视键被按下	jian shi jian bei an xia	524
+简体到繁体	jian ti dao fan ti	1619
+监听	jian ting	1521
+监听命名管道	jian ting ming ming guan dao	453
+建新表格	jian xin biao ge	2006
+键状态	jian zhuang tai	2617
+将被编辑	jiang bei bian ji	348
+将被销毁	jiang bei xiao hui	3205
+将改变子夹	jiang gai bian zi jia	3037
+将弹出列表	jiang tan chu lie biao	3081
+脚本名	jiao ben ming	2030
+脚本语言支持组件	jiao ben yu yan zhi chi zu jian	409
+脚本组件	jiao ben zu jian	408
+交叉线	jiao cha xian	2529
+焦点背景色	jiao dian bei jing se	641
+焦点前景色	jiao dian qian jing se	642
+角度	jiao du	3192
+交互回调函数	jiao hu hui tiao han shu	1436
+校验和	jiao yan he	1545
+解除合并	jie chu he bing	1988
+解除映射	jie chu ying she	439
+节点	jie dian	1111
+接口常量	jie kou chang liang	2402
+解码文本	jie ma wen ben	2083
+解密数据	jie mi shu ju	1054
+界面风格	jie mian feng ge	725
+界面控件增强库	jie mian kong jian zeng qiang ku	437
+节气	jie qi	912
+截取屏幕区域	jie qu ping mu qu yu	2407
+接收	jie shou	1567
+接收超时	jie shou chao shi	1441
+接收超文本	jie shou chao wen ben	1402
+接收大小	jie shou da xiao	1439
+接收日志	jie shou ri zhi	1413
+接收文本	jie shou wen ben	1403
+接收文件	jie shou wen jian	1401
+接收邮件	jie shou you jian	1745
+接收邮件前几行	jie shou you jian qian ji hang	1740
+接收邮件序号	jie shou you jian xu hao	1741
+结束	jie shu	3591
+结束编辑	jie shu bian ji	2213
+结束编辑文本	jie shu bian ji wen ben	2217
+结束捕获	jie shu bu huo	1254
+结束打印	jie shu da yin	2965
+结束打印位置	jie shu da yin wei zhi	2893
+结束下载	jie shu xia zai	1410
+结束颜色	jie shu yan se	418
+解锁记录	jie suo ji lu	3309
+解锁数据库	jie suo shu ju ku	3313
+解锁文件	jie suo wen jian	3423
+接通	jie tong	203
+解压	jie ya	1626
+解压数据	jie ya shu ju	1061
+解压缩进度	jie ya suo jin du	1623
+解压缩一帧图像	jie ya suo yi zhen tu xiang	1252
+解增删锁	jie zeng shan suo	3311
+仅播放一次	jin bo fang yi ci	632
+进程标识符	jin cheng biao zhi fu	2268
+进程名称	jin cheng ming cheng	2267
+进程模块标识符	jin cheng mo kuai biao zhi fu	2266
+进程通讯支持库	jin cheng tong xun zhi chi ku	456
+进程信息	jin cheng xin xi	2269
+仅打印奇数页	jin da yin ji shu ye	2516
+仅打印偶数页	jin da yin ou shu ye	2515
+进度被改变	jin du bei gai bian	416
+进度条	jin du tiao	3055
+金额	jin e	188
+紧急数据偏移量	jin ji shu ju pian yi liang	1544
+进入编辑	jin ru bian ji	2228
+进入物体	jin ru wu ti	536
+进入许可区	jin ru xu ke qu	315
+近似等于	jin si deng yu	3560
+今天	jin tian	3027
+禁止	jin zhi	3195
+禁止菜单	jin zhi cai dan	790
+禁止重画	jin zhi chong hua	3248
+禁止读	jin zhi du	2672
+禁止读写	jin zhi du xie	2670
+禁止符	jin zhi fu	1874
+禁止更改	jin zhi geng gai	505
+禁止删除	jin zhi shan chu	2569
+禁止添加	jin zhi tian jia	2570
+禁止调整行高	jin zhi tiao zheng hang gao	2872
+禁止调整列宽	jin zhi tiao zheng lie kuan	2871
+禁止图片	jin zhi tu pian	2783
+禁止图片透明色	jin zhi tu pian tou ming se	648
+禁止图片组	jin zhi tu pian zu	2184
+禁止项目	jin zhi xiang mu	788
+禁止写	jin zhi xie	2671
+禁止修改	jin zhi xiu gai	2571
+禁止自动判断	jin zhi zi dong pan duan	2568
+禁止自动隐藏	jin zhi zi dong yin cang	838
+禁止子夹	jin zhi zi jia	731
+警告图标	jing gao tu biao	2636
+经过提示音	jing guo ti shi yin	639
+精灵	jing ling	1026
+静态	jing tai	1676
+镜像	jing xiang	1571
+静音改变	jing yin gai bian	298
+惊蛰	jing zhe	898
+局部变量	ju bu bian liang	1686
+据关键字找文本	ju guan jian zi zhao wen ben	2082
+矩形	ju xing	1893
+矩形标注	ju xing biao zhu	1847
+矩形数据	ju xing shu ju	2327
+局域网操作	ju yu wang cao zuo	469
+局域网操作支持库	ju yu wang cao zuo zhi chi ku	470
+矩阵标量乘积	ju zhen biao liang cheng ji	1348
+矩阵相乘	ju zhen xiang cheng	1353
+矩阵相加	ju zhen xiang jia	1352
+矩阵运算	ju zhen yun suan	1354
+矩阵转置	ju zhen zhuan zhi	1350
+居中	ju zhong	2373
+居中播放	ju zhong bo fang	3033
+居中对齐	ju zhong dui qi	342
+居中图片	ju zhong tu pian	2544
+卷帘式菜单	juan lian shi cai dan	808
+决策	jue ce	1868
+绝对取整	jue dui qu zheng	3580
+卡片	ka pian	1856
+开仓门	kai cang men	279
+开启接收传真	kai qi jie shou chuan zhen	209
+开始编辑	kai shi bian ji	2214
+开始菜单	kai shi cai dan	2342
+开始菜单程序	kai shi cai dan cheng xu	2341
+开始打印	kai shi da yin	2966
+开始风格	kai shi feng ge	115
+开始事务	kai shi shi wu	1210
+开始下一份	kai shi xia yi fen	2962
+开始星期首日	kai shi xing qi shou ri	3020
+拷贝	kao bei	2588
+拷贝指定范围	kao bei zhi ding fan wei	170
+拷贝指定文本	kao bei zhi ding wen ben	169
+刻度类型	ke du lei xing	3052
+可多次显示	ke duo ci xian shi	842
+可否被编辑	ke fou bei bian ji	347
+可否被关闭	ke fou bei guan bi	3206
+可否撤消	ke fou che xiao	608
+可否移动	ke fou yi dong	3220
+可否粘贴	ke fou zhan tie	605
+客户	ke hu	2933
+客户端用户名	ke hu duan yong hu ming	2032
+客户端域	ke hu duan yu	2033
+客户进入	ke hu jin ru	2926
+客户离开	ke hu li kai	2925
+客户认证标志	ke hu ren zheng biao zhi	2054
+客户认证存根	ke hu ren zheng cun gen	2055
+客户认证发放机构	ke hu ren zheng fa fang ji gou	2053
+客户认证序列号	ke hu ren zheng xu lie hao	2050
+客户认证主题	ke hu ren zheng zhu ti	2047
+可空	ke kong	1674
+可视	ke shi	3194
+可选过程	ke xuan guo cheng	1869
+可移动驱动器	ke yi dong qu dong qi	2367
+可以读空值	ke yi du kong zhi	1154
+可用物理内存	ke yong wu li nei cun	2378
+可用虚拟内存	ke yong xu ni nei cun	2376
+可用页面文件	ke yong ye mian wen jian	2374
+可有焦点	ke you jiao dian	3251
+可执行文件数据转换支持库	ke zhi xing wen jian shu ju zhuan huan zhi chi ku	473
+空白区域背景颜色	kong bai qu yu bei jing yan se	26
+空白区域前景颜色	kong bai qu yu qian jing yan se	27
+空白区域填充模式	kong bai qu yu tian chong mo shi	28
+空白型	kong bai xing	1669
+空白型字段	kong bai xing zi duan	1137
+空格键	kong ge jian	2614
+空闲	kong xian	3200
+控制按钮	kong zhi an niu	3224
+控制面板	kong zhi mian ban	2401
+控制台操作	kong zhi tai cao zuo	3258
+控制台操作支持库	kong zhi tai cao zuo zhi chi ku	483
+控制台对象	kong zhi tai dui xiang	482
+控制台颜色	kong zhi tai yan se	474
+库存数据	ku cun shu ju	1851
+库命令名	ku ming ling ming	1671
+库文件名	ku wen jian ming	1672
+快速文本对象	kuai su wen ben dui xiang	1384
+快速字节集对象	kuai su zi jie ji dui xiang	1374
+快照	kuai zhao	3381
+宽度	kuan du	2261
+宽文本字段	kuan wen ben zi duan	1146
+扩展	kuo zhan	2231
+扩展风格	kuo zhan feng ge	960
+扩展功能支持库一	kuo zhan gong neng zhi chi ku yi	501
+扩展界面支持库二	kuo zhan jie mian zhi chi ku er	670
+扩展界面支持库六	kuo zhan jie mian zhi chi ku liu	698
+扩展界面支持库三	kuo zhan jie mian zhi chi ku san	809
+扩展界面支持库五	kuo zhan jie mian zhi chi ku wu	860
+扩展界面支持库一	kuo zhan jie mian zhi chi ku yi	2238
+拉伸	la shen	2371
+拉伸底图	la shen di tu	1244
+来电显示	lai dian xian shi	201
+来源名称	lai yuan ming cheng	1275
+来源总数	lai yuan zong shu	1276
+蓝灰	lan hui	2701
+拦截操作	lan jie cao zuo	1484
+蓝色	lan se	2708
+类型区分串	lei xing qu fen chuan	1433
+类型值	lei xing zhi	506
+棱台	leng tai	1878
+立春	li chun	900
+立冬	li dong	882
+粒度值	li du zhi	849
+立方体	li fang ti	1879
+离开物体	li kai wu ti	535
+厘米	li mi	2346
+立秋	li qiu	888
+离散化数值积分	li san hua shu zhi ji fen	1340
+立夏	li xia	894
+离页连接符	li ye lian jie fu	1857
+链表	lian biao	1102
+连接	lian jie	2932
+连接超时	lian jie chao shi	1443
+连接断开	lian jie duan kai	2930
+连接发信服务器	lian jie fa xin fu wu qi	2114
+连接命名管道	lian jie ming ming guan dao	452
+连接收信服务器	lian jie shou xin fu wu qi	1749
+连接文本	lian jie wen ben	2769
+联立方程	lian li fang cheng	1335
+联系	lian xi	1858
+连续赋值	lian xu fu zhi	3545
+亮边框色	liang bian kuang se	763
+亮度	liang du	513
+两端	liang duan	694
+两端按钮图片组	liang duan an niu tu pian zu	692
+列斑马线	lie ban ma xian	343
+列表被关闭	lie biao bei guan bi	3080
+列表方式	lie biao fang shi	2188
+列表框	lie biao kuang	3078
+列表项被选择	lie biao xiang bei xuan ze	3083
+列表项目	lie biao xiang mu	3085
+列表型	lie biao xing	341
+列举语音库	lie ju yu yin ku	1604
+列宽	lie kuan	1968
+列宽被改变	lie kuan bei gai bian	2866
+列数	lie shu	365
+临时文件	lin shi wen jian	2365
+菱形	ling xing	1890
+六边形	liu bian xing	1884
+流控制	liu kong zhi	2911
+流控制方案	liu kong zhi fang an	2912
+浏览器历史地址记录	liu lan qi li shi di zhi ji lu	2362
+浏览网址历史记录	liu lan wang zhi li shi ji lu	2353
+路径信息	lu jing xin xi	2036
+录音	lu yin	297
+录音完毕	lu yin wan bi	198
+录音音波	lu yin yin bo	282
+录制	lu zhi	296
+落笔	luo bi	1664
+逻辑比较	luo ji bi jiao	3567
+逻辑方法	luo ji fang fa	2754
+逻辑型	luo ji xing	2733
+逻辑型数组	luo ji xing shu zu	2727
+逻辑型字段	luo ji xing zi duan	1147
+绿色	lv se	2707
+麦克	mai ke	264
+芒种	mang zhong	892
+每磁道扇区数	mei ci dao shan qu shu	2279
+枚举文件	mei ju wen jian	323
+枚举子目录	mei ju zi mu lu	322
+美式格式	mei shi ge shi	335
+媒体播放	mei ti bo fang	3375
+每页打印行数	mei ye da yin hang shu	2892
+美元	mei yuan	333
+密码输入框	mi ma shu ru kuang	3264
+密码遮盖字符	mi ma zhe gai zi fu	3175
+描述	miao shu	2319
+名称	ming cheng	2939
+鸣叫	ming jiao	3393
+命令	ming ling	1683
+命令参数	ming ling can shu	1682
+命令类型	ming ling lei xing	1721
+命名管道	ming ming guan dao	455
+墨绿	mo lv	2715
+模拟按键	mo ni an jian	2480
+模拟鼠标点击	mo ni shu biao dian ji	2479
+默认按钮二	mo ren an niu er	2633
+默认按钮三	mo ren an niu san	2632
+默认按钮四	mo ren an niu si	2631
+默认按钮一	mo ren an niu yi	2634
+默认调用	mo ren diao yong	1483
+默认高度	mo ren gao du	1978
+默认宽度	mo ren kuan du	1979
+默认类型	mo ren lei xing	637
+默认色	mo ren se	2559
+默认网关	mo ren wang guan	2271
+默认文件后缀	mo ren wen jian hou zhui	2978
+默认线程数	mo ren xian cheng shu	1445
+默认纸	mo ren zhi	2510
+默认字体大小	mo ren zi ti da xiao	2014
+默认字体名	mo ren zi ti ming	2015
+末页页号	mo ye ye hao	2951
+模板替换	mu ban ti huan	2079
+目的端口	mu di duan kou	1549
+目的以太网地址	mu di yi tai wang di zhi	1531
+目录	mu lu	3005
+目录被改变	mu lu bei gai bian	3004
+目录被选择	mu lu bei xuan ze	862
+目录必须存在	mu lu bi xu cun zai	2974
+目录操作	mu lu cao zuo	1615
+目录框	mu lu kuang	3006
+目录列表	mu lu lie biao	2101
+目录树	mu lu shu	870
+目录树支持库	mu lu shu zhi chi ku	871
+南方读音索引	nan fang du yin suo yin	2574
+内背景颜色	nei bei jing yan se	3013
+内部存贮	nei bu cun zhu	1865
+内部名称	nei bu ming cheng	2295
+内存映射文件	nei cun ying she wen jian	443
+内码转换	nei ma zhuan huan	1621
+内容被改变	nei rong bei gai bian	3165
+内容长度	nei rong chang du	2046
+内容格式	nei rong ge shi	1984
+内容类型	nei rong lei xing	2045
+嫩黄	nen huang	2695
+嫩绿	nen lv	2699
+年份	nian fen	2652
+农历本年天数	nong li ben nian tian shu	909
+农历本月天数	nong li ben yue tian shu	910
+农历年	nong li nian	921
+农历年份	nong li nian fen	916
+农历日	nong li ri	919
+农历日份	nong li ri fen	914
+农历日期处理	nong li ri qi chu li	944
+农历日期框	nong li ri qi kuang	928
+农历日期支持库	nong li ri qi zhi chi ku	945
+农历月	nong li yue	920
+农历月份	nong li yue fen	915
+农历月历	nong li yue li	876
+农历转公历	nong li zhuan gong li	943
+欧元	ou yuan	332
+排列	pai lie	1901
+排列方式	pai lie fang shi	777
+排列图标	pai lie tu biao	2163
+排序	pai xu	3297
+排序方式	pai xu fang shi	2141
+判断	pan duan	3598
+判断循环首	pan duan xun huan shou	3597
+旁注栏被单击	pang zhu lan bei dan ji	8
+配置	pei zhi	1516
+配置网络适配器	pei zhi wang luo shi pei qi	1563
+碰撞到边界	peng zhuang dao bian jie	529
+碰撞到物体	peng zhuang dao wu ti	530
+碰撞声音	peng zhuang sheng yin	507
+皮肤应用类命令	pi fu ying yong lei ming ling	1713
+批量关联组件	pi liang guan lian zu jian	856
+匹配	pi pei	1777
+匹配括号加亮	pi pei kuo hao jia liang	102
+品红	pin hong	2704
+平面	ping mian	3103
+平面滚动条	ping mian gun dong tiao	2139
+屏幕单位转换	ping mu dan wei zhuan huan	2411
+平铺	ping pu	2372
+平铺图片	ping pu tu pian	2542
+平形四边形	ping xing si bian xing	1892
+普通按钮	pu tong an niu	2126
+普通不激活	pu tong bu ji huo	2680
+普通激活	pu tong ji huo	2683
+启动	qi dong	2924
+启动事务	qi dong shi wu	2779
+启动线程	qi dong xian cheng	318
+气球提示框	qi qiu ti shi kuang	859
+起始打印位置	qi shi da yin wei zhi	2894
+起始空白	qi shi kong bai	2186
+起始选择位置	qi shi xuan ze wei zhi	3170
+起始颜色	qi shi yan se	419
+其他	qi ta	3367
+其它	qi ta	1715
+其他计算	qi ta ji suan	1329
+启用禁止子夹	qi yong jin zhi zi jia	710
+浅灰	qian hui	2710
+前进	qian jin	1668
+签名验证	qian ming yan zheng	1057
+前台	qian tai	685
+前台空闲钩子	qian tai kong xian gou zi	947
+前台图片显示方式	qian tai tu pian xian shi fang shi	682
+前台图片组	qian tai tu pian zu	683
+强制结束线程	qiang zhi jie shu xian cheng	312
+清除	qing chu	3154
+清除背景	qing chu bei jing	547
+清除传真	qing chu chuan zhen	208
+清除剪辑板	qing chu jian ji ban	3400
+清除监视键	qing chu jian shi jian	551
+清除历史记录	qing chu li shi ji lu	2458
+清除数组	qing chu shu zu	3536
+清除所有风格	qing chu suo you feng ge	132
+清除所有附件	qing chu suo you fu jian	2110
+清除尾导零	qing chu wei dao ling	1286
+清除文本	qing chu wen ben	1383
+清除文档风格	qing chu wen dang feng ge	179
+清除小数	qing chu xiao shu	1288
+清除信号	qing chu xin hao	2494
+清除修改记录	qing chu xiu gai ji lu	1695
+清除整数	qing chu zheng shu	1287
+清除字节集	qing chu zi jie ji	1372
+清除组件寻找句柄	qing chu zu jian xun zhao ju bing	3344
+清空	qing kong	3286
+清空编辑框	qing kong bian ji kuang	180
+清空撤消重复缓冲	qing kong che xiao chong fu huan chong	165
+清空撤消数据	qing kong che xiao shu ju	607
+清空单元格数据	qing kong dan yuan ge shu ju	377
+清空数据	qing kong shu ju	380
+清空下拉列表	qing kong xia la lie biao	390
+青蓝	qing lan	2690
+青绿	qing lv	2698
+清明	qing ming	896
+清屏	qing ping	1662
+请求	qing qiu	1529
+请求方法	qing qiu fang fa	2031
+请求服务端位数	qing qiu fu wu duan wei shu	2041
+请求服务器证书	qing qiu fu wu qi zheng shu	2040
+请求服务器主题	qing qiu fu wu qi zhu ti	2039
+请求客户端	qing qiu ke hu duan	1759
+请求位数	qing qiu wei shu	2042
+请求物理路径	qing qiu wu li lu jing	2035
+倾斜	qing xie	3190
+求贝塞尔	qiu bei sai er	1319
+求贝它	qiu bei ta	1321
+求不完全贝它	qiu bu wan quan bei ta	1320
+求不完全伽玛	qiu bu wan quan jia ma	1322
+求车切多项式	qiu che qie duo xiang shi	1309
+求次方	qiu ci fang	3578
+求厄密多项式	qiu e mi duo xiang shi	1313
+求反对数	qiu fan dui shu	3571
+求反正切	qiu fan zheng qie	3573
+秋分	qiu fen	885
+求傅立叶变换	qiu fu li ye bian huan	1346
+求傅立叶反变换	qiu fu li ye fan bian huan	1345
+求复数长度	qiu fu shu chang du	1360
+求复数极角	qiu fu shu ji jiao	1359
+求复数指数	qiu fu shu zhi shu	1361
+求高斯误差	qiu gao si wu cha	1317
+求和	qiu he	3306
+求积分表达式	qiu ji fen biao da shi	1283
+求伽玛	qiu jia ma	1324
+求伽玛对数	qiu jia ma dui shu	1323
+求矩阵特征	qiu ju zhen te zheng	1349
+求拉格尔	qiu la ge er	1311
+求勒让德方程系数	qiu le rang de fang cheng xi shu	1312
+求能谱周期图	qiu neng pu zhou qi tu	1342
+求平方根	qiu ping fang gen	3577
+求双曲余弦	qiu shuang qu yu xian	1328
+求双曲正割	qiu shuang qu zheng ge	1326
+求双曲正弦	qiu shuang qu zheng xian	1327
+求误差实部	qiu wu cha shi bu	1315
+求误差虚部	qiu wu cha xu bu	1314
+求误差余	qiu wu cha yu	1316
+求修正贝塞尔	qiu xiu zheng bei sai er	1318
+求雅各比方程	qiu ya ge bi fang cheng	1310
+求余	qiu yu	1289
+求余切	qiu yu qie	1285
+求余数	qiu yu shu	3586
+求余弦	qiu yu xian	3575
+求正切	qiu zheng qie	3574
+求正弦	qiu zheng xian	3576
+求自然对数	qiu zi ran dui shu	3572
+取按钮	qu an niu	1046
+取按钮数	qu an niu shu	2194
+取八进制文本	qu ba jin zhi wen ben	3473
+取版本	qu ban ben	1495
+取背景色	qu bei jing se	2852
+取被选择表项	qu bei xuan ze biao xiang	2173
+取被选择文本	qu bei xuan ze wen ben	978
+取本地文件路径	qu ben di wen jian lu jing	1460
+取本机端口	qu ben ji duan kou	1518
+取本机名	qu ben ji ming	1523
+取本机网卡名	qu ben ji wang ka ming	2441
+取本机网卡物理地址	qu ben ji wang ka wu li di zhi	2440
+取比率	qu bi lv	268
+取编辑框	qu bian ji kuang	1047
+取边距	qu bian ju	2844
+取变量地址	qu bian liang di zhi	2252
+取变量数据地址	qu bian liang shu ju di zhi	2250
+取编码方式	qu bian ma fang shi	1724
+取编码器名	qu bian ma qi ming	258
+取编码器数	qu bian ma qi shu	259
+取编码数	qu bian ma shu	255
+取编码信息	qu bian ma xin xi	254
+取变体型	qu bian ti xing	2740
+取变体型类型	qu bian ti xing lei xing	239
+取变体型数据区指针	qu bian ti xing shu ju qu zhi zhen	241
+取边线	qu bian xian	1924
+取表格对象	qu biao ge dui xiang	1997
+取表格集对象	qu biao ge ji dui xiang	1998
+取标记组件	qu biao ji zu jian	3237
+取标签	qu biao qian	3274
+取标题	qu biao ti	2193
+取表头行数	qu biao tou hang shu	2864
+取表头列数	qu biao tou lie shu	2862
+取表项数	qu biao xiang shu	2169
+取表项数值	qu biao xiang shu zhi	2178
+取标志	qu biao zhi	91
+取标识值	qu biao zhi zhi	594
+取别名	qu bie ming	273
+取播放速率	qu bo fang su lv	1002
+取拨号连接数	qu bo hao lian jie shu	2099
+取布局	qu bu ju	554
+取菜单底图	qu cai dan di tu	792
+取菜单名称	qu cai dan ming cheng	804
+取菜单数	qu cai dan shu	805
+取菜单数值	qu cai dan shu zhi	800
+取菜单提示文本	qu cai dan ti shi wen ben	783
+取菜单图标	qu cai dan tu biao	794
+取操作接口	qu cao zuo jie kou	1946
+取操作系统类别	qu cao zuo xi tong lei bie	3377
+取层	qu ceng	998
+取层次	qu ceng ci	588
+取层数	qu ceng shu	999
+取长度	qu chang du	1504
+取超时时间	qu chao shi shi jian	1211
+取超文本内容	qu chao wen ben nei rong	1728
+取撤消重复操作	qu che xiao chong fu cao zuo	163
+取程序对象	qu cheng xu dui xiang	2021
+取重复次数	qu chong fu ci shu	1004
+取重复文本	qu chong fu wen ben	3501
+取重复字节集	qu chong fu zi jie ji	3455
+取重试次数	qu chong shi ci shu	1464
+取重试数	qu chong shi shu	1453
+去除状态	qu chu zhuang tai	2190
+取创建时间	qu chuang jian shi jian	3328
+取窗口标题	qu chuang kou biao ti	2405
+取窗口句柄	qu chuang kou ju bing	3254
+取窗口类名	qu chuang kou lei ming	2404
+取词法分析器	qu ci fa fen xi qi	118
+取磁盘卷标	qu ci pan juan biao	3449
+取磁盘剩余空间	qu ci pan sheng yu kong jian	3450
+取磁盘总空间	qu ci pan zong kong jian	3451
+取错误	qu cuo wu	2747
+取错误码	qu cuo wu ma	3340
+取错误信息	qu cuo wu xin xi	3339
+取大小	qu da xiao	1726
+取打印机列表	qu da yin ji lie biao	2446
+取打印设置	qu da yin she zhi	2806
+取打印页高	qu da yin ye gao	2803
+取打印页宽	qu da yin ye kuan	2804
+取代码	qu dai ma	3514
+取单元格背景颜色	qu dan yuan ge bei jing yan se	392
+取单元格对象	qu dan yuan ge dui xiang	1996
+取单元格行高	qu dan yuan ge hang gao	376
+取单元格列宽	qu dan yuan ge lie kuan	375
+取单元格文字颜色	qu dan yuan ge wen zi yan se	394
+取当前编码器	qu dang qian bian ma qi	257
+取当前对象号	qu dang qian dui xiang hao	1643
+取当前激活窗口	qu dang qian ji huo chuang kou	965
+取当前节点	qu dang qian jie dian	1088
+取当前节点键值	qu dang qian jie dian jian zhi	1089
+取当前库	qu dang qian ku	3334
+取当前目录	qu dang qian mu lu	3445
+取当前鼠标处颜色值	qu dang qian shu biao chu yan se zhi	2410
+取当前索引	qu dang qian suo yin	3320
+取当前位置	qu dang qian wei zhi	156
+取当前显示模式	qu dang qian xian shi mo shi	2413
+取当前帧索引	qu dang qian zhen suo yin	1006
+取当前状态图片	qu dang qian zhuang tai tu pian	2180
+取得权限	qu de quan xian	1214
+取点	qu dian	3153
+取点角度	qu dian jiao du	1645
+取顶端可见项目	qu ding duan ke jian xiang mu	3099
+驱动器	qu dong qi	3008
+驱动器被改变	qu dong qi bei gai bian	3007
+驱动器框	qu dong qi kuang	3009
+取读写位置	qu du xie wei zhi	3412
+取队列首节点	qu dui lie shou jie dian	1082
+取对齐方式	qu dui qi fang shi	2840
+取对象	qu dui xiang	2741
+取对象角度	qu dui xiang jiao du	1646
+取对象类型	qu dui xiang lei xing	3348
+取对象显示状态	qu dui xiang xian shi zhuang tai	1638
+取对象信息	qu dui xiang xin xi	1463
+取对应资源	qu dui ying zi yuan	461
+取二叉树深度	qu er cha shu shen du	1080
+取发件人地址	qu fa jian ren di zhi	1736
+取发件人名称	qu fa jian ren ming cheng	1731
+取发音数目	qu fa yin shu mu	3526
+取反	qu fan	3557
+取返回文本	qu fan hui wen ben	1753
+取返回字节集	qu fan hui zi jie ji	1752
+取翻转状态	qu fan zhuan zhuang tai	548
+区分大小写	qu fen da xiao xie	1
+取分钟	qu fen zhong	3486
+取风格位	qu feng ge wei	176
+取风格字符	qu feng ge zi fu	178
+取符号	qu fu hao	3583
+取附加文本	qu fu jia wen ben	585
+取附件	qu fu jian	1732
+取附件个数	qu fu jian ge shu	1733
+取服务器变量	qu fu wu qi bian liang	2089
+取父项目	qu fu xiang mu	2227
+取父行	qu fu xing	36
+取高度	qu gao du	3135
+取高亮向导	qu gao liang xiang dao	98
+取格式	qu ge shi	292
+取根精灵	qu gen jing ling	1050
+取更改模式	qu geng gai mo shi	160
+取共享资源	qu gong xiang zi yuan	468
+取工作簿对象	qu gong zuo bu dui xiang	1999
+取工作簿集对象	qu gong zuo bu ji dui xiang	2000
+取光标行号	qu guang biao hang hao	2887
+取光标列号	qu guang biao lie hao	2886
+取光标位置	qu guang biao wei zhi	982
+取光驱盘符	qu guang qu pan fu	2473
+取行高	qu hang gao	2860
+取行数	qu hang shu	2824
+取横向缩放比	qu heng xiang suo fang bi	571
+取横向缩放比例	qu heng xiang suo fang bi li	1016
+取横向位置	qu heng xiang wei zhi	1023
+取横坐标	qu heng zuo biao	1649
+取缓冲区	qu huan chong qu	1378
+取回复地址	qu hui fu di zhi	1730
+取回客户	qu hui ke hu	2928
+取回数据	qu hui shu ju	2936
+取回图片	qu hui tu pian	2749
+取绘图数据	qu hui tu shu ju	1906
+取回字体	qu hui zi ti	2748
+取激活对象数	qu ji huo dui xiang shu	1642
+取记录号	qu ji lu hao	3276
+取记录数	qu ji lu shu	3329
+取剪辑板文本	qu jian ji ban wen ben	3403
+取键盘指示灯状态	qu jian pan zhi shi deng zhuang tai	2481
+取键值	qu jian zhi	1069
+取键值数	qu jian zhi shu	1068
+取焦点项目	qu jiao dian xiang mu	3073
+取角度	qu jiao du	576
+取交节气时刻	qu jiao jie qi shi ke	930
+取节点	qu jie dian	1087
+取节点索引	qu jie dian suo yin	1071
+取接口	qu jie kou	2745
+取结束风格位置	qu jie shu feng ge wei zhi	116
+取进程标识	qu jin cheng biao zhi	1510
+取进程名	qu jin cheng ming	1511
+取进度提示	qu jin du ti shi	1625
+取精灵	qu jing ling	1049
+取静音	qu jing yin	307
+取句柄	qu ju bing	271
+取绝对值	qu jue dui zhi	3582
+取客户端口	qu ke hu duan kou	1520
+取客户句柄	qu ke hu ju bing	1763
+取客户数	qu ke hu shu	1762
+取客户数组	qu ke hu shu zu	1761
+取可视线	qu ke shi xian	45
+取可视行行数	qu ke shi xing xing shu	161
+取空白文本	qu kong bai wen ben	3502
+取空白字节集	qu kong bai zi jie ji	3456
+取库文件名	qu ku wen jian ming	3331
+取快捷方式目标	qu kuai jie fang shi mu biao	2449
+取宽度	qu kuan du	3136
+取栏目顶边	qu lan mu ding bian	2203
+取栏目高度	qu lan mu gao du	2201
+取栏目宽度	qu lan mu kuan du	2202
+取栏目数	qu lan mu shu	2206
+取栏目左边	qu lan mu zuo bian	2204
+取类型	qu lei xing	2856
+取连接	qu lian jie	1202
+取连接名称	qu lian jie ming cheng	2098
+取连接速度	qu lian jie su du	466
+取连接文本	qu lian jie wen ben	2780
+取亮度	qu liang du	591
+取列标题	qu lie biao ti	2162
+取列对齐方式	qu lie dui qi fang shi	2161
+取列宽	qu lie kuan	2858
+取列类型	qu lie lei xing	378
+取列数	qu lie shu	2823
+取列图片	qu lie tu pian	2160
+取临时文件名	qu lin shi wen jian ming	3432
+取六十甲子	qu liu shi jia zi	935
+取六十甲子纳音	qu liu shi jia zi na yin	932
+取逻辑值	qu luo ji zhi	2742
+取没有响应程序列表	qu mei you xiang ying cheng xu lie biao	2469
+取密码方式	qu mi ma fang shi	2838
+取秒	qu miao	3485
+取名称	qu ming cheng	1722
+取命令行	qu ming ling hang	3532
+取默认打印机	qu mo ren da yin ji	2445
+取默认底色	qu mo ren di se	3382
+取默认字符格式	qu mo ren zi fu ge shi	615
+取某点颜色	qu mou dian yan se	1584
+取某点颜色索引	qu mou dian yan se suo yin	1583
+取某月天数	qu mou yue tian shu	3494
+取目录列表	qu mu lu lie biao	1451
+取目录列表回调	qu mu lu lie biao hui tiao	1614
+取内存容量信息	qu nei cun rong liang xin xi	2466
+取内容高度	qu nei rong gao du	521
+取内容宽度	qu nei rong kuan du	522
+取年份	qu nian fen	3491
+取年属相	qu nian shu xiang	937
+取农历节气	qu nong li jie qi	938
+取农历年总天数	qu nong li nian zong tian shu	940
+取农历闰月	qu nong li run yue	939
+取农历月总天数	qu nong li yue zong tian shu	941
+取旁注栏宽度	qu pang zhu lan kuan du	144
+取旁注栏类型	qu pang zhu lan lei xing	146
+取旁注栏响应鼠标	qu pang zhu lan xiang ying shu biao	140
+取旁注栏掩码	qu pang zhu lan yan ma	142
+取旁注栏右像素长	qu pang zhu lan you xiang su chang	136
+取旁注栏左像素长	qu pang zhu lan zuo xiang su chang	138
+取配置节名	qu pei zhi jie ming	3378
+取匹配文本	qu pi pei wen ben	1772
+取拼音	qu pin yin	3525
+取平均值	qu ping jun zhi	3307
+取屏幕高度	qu ping mu gao du	3398
+取屏幕宽度	qu ping mu kuan du	3399
+取启动时间	qu qi dong shi jian	3392
+取起始时间	qu qi shi shi jian	274
+取起始选择位置	qu qi shi xuan ze wei zhi	980
+取请求文本	qu qing qiu wen ben	1767
+取请求字节集	qu qing qiu zi jie ji	1766
+取驱动器列表	qu qu dong qi lie biao	2476
+取驱动器数量	qu qu dong qi shu liang	2477
+取曲目数	qu qu mu shu	276
+取区域图片	qu qu yu tu pian	559
+取全部属性名	qu quan bu shu xing ming	1107
+取任务数据	qu ren wu shu ju	1465
+取任务数据项	qu ren wu shu ju xiang	1461
+取日	qu ri	3489
+取日期	qu ri qi	3481
+取日期值	qu ri qi zhi	1105
+取上传速度	qu shang chuan su du	1455
+取上限	qu shang xian	281
+取设备号	qu she bei hao	301
+取设备句柄	qu she bei ju bing	3155
+取设备名	qu she bei ming	300
+取设备数量	qu she bei shu liang	288
+取深度	qu shen du	996
+取声波值	qu sheng bo zhi	280
+取声卡名称	qu sheng ka ming cheng	2465
+取声母	qu sheng mu	3524
+取失败原因	qu shi bai yuan yin	1112
+取是否可视	qu shi fou ke shi	1018
+取是否嵌入式附件	qu shi fou qian ru shi fu jian	1723
+取实际高度	qu shi ji gao du	1943
+取实际宽度	qu shi ji kuan du	1944
+取时间	qu shi jian	3480
+取时间部分	qu shi jian bu fen	3492
+取时间间隔	qu shi jian jian ge	3495
+取事件组件	qu shi jian zu jian	3359
+取十六进制文本	qu shi liu jin zhi wen ben	3474
+取十六进制颜色	qu shi liu jin zhi yan se	435
+取实数	qu shi shu	1358
+取首个可视行行号	qu shou ge ke shi xing xing hao	162
+取首可视行	qu shou ke shi xing	619
+取鼠标垂直位置	qu shu biao chui zhi wei zhi	3396
+取鼠标水平位置	qu shu biao shui ping wei zhi	3397
+取鼠标所在窗口句柄	qu shu biao suo zai chuang kou ju bing	2403
+取数据	qu shu ju	2834
+取数据类型尺寸	qu shu ju lei xing chi cun	3361
+取数据摘要	qu shu ju zhai yao	1059
+取属相	qu shu xiang	929
+取属性	qu shu xing	229
+取属性类型	qu shu xing lei xing	1106
+取数值	qu shu zhi	2743
+取数值注册项	qu shu zhi zhu ce xiang	3387
+取数组成员数	qu shu zu cheng yuan shu	3542
+取数组下标	qu shu zu xia biao	3541
+取竖坐标	qu shu zuo biao	1648
+取四柱	qu si zhu	934
+取四柱序号	qu si zhu xu hao	933
+取随机数	qu sui ji shu	3568
+取缩进	qu suo jin	108
+取缩进层次	qu suo jin ceng ci	2236
+取缩进数目	qu suo jin shu mu	2179
+取索引	qu suo yin	1025
+取索引名	qu suo yin ming	3317
+取索引数	qu suo yin shu	3318
+取索引字段	qu suo yin zi duan	3316
+取所有被选择项目	qu suo you bei xuan ze xiang mu	3076
+取所有窗口列表	qu suo you chuang kou lie biao	2406
+取所有发音	qu suo you fa yin	3527
+取所有键	qu suo you jian	1067
+取所有图形索引	qu suo you tu xing suo yin	1942
+取所有纸张类型	qu suo you zhi zhang lei xing	2958
+取所有主机名	qu suo you zhu ji ming	467
+取所找到组件	qu suo zhao dao zu jian	3345
+取提示文本	qu ti shi wen ben	2205
+取填充属性	qu tian chong shu xing	1910
+取天干地支	qu tian gan di zhi	936
+取透明度	qu tou ming du	1012
+取图表对象	qu tu biao dui xiang	1957
+取图片	qu tu pian	3130
+取图片高度	qu tu pian gao du	3132
+取图片宽度	qu tu pian kuan du	3133
+取图片组图片	qu tu pian zu tu pian	658
+取图片组图片数	qu tu pian zu tu pian shu	660
+取图形	qu tu xing	1048
+取图形类型	qu tu xing lei xing	1908
+取图形区域	qu tu xing qu yu	1926
+取退格去缩进	qu tui ge qu suo jin	106
+取完成项内容	qu wan cheng xiang nei rong	411
+取完成项数量	qu wan cheng xiang shu liang	412
+取网卡信息列表	qu wang ka xin xi lie biao	2442
+取网络共享资源列表	qu wang luo gong xiang zi yuan lie biao	2429
+取网络工作组列表	qu wang luo gong zuo zu lie biao	2435
+取网络计算机列表	qu wang luo ji suan ji lie biao	2434
+取网络类型列表	qu wang luo lei xing lie biao	2436
+取位深度	qu wei shen du	1586
+取位图数据	qu wei tu shu ju	1587
+取位置	qu wei zhi	290
+取位置和大小	qu wei zhi he da xiao	1927
+取位置所在行	qu wei zhi suo zai hang	153
+取位置所在列	qu wei zhi suo zai lie	122
+取文本	qu wen ben	2836
+取文本长度	qu wen ben chang du	3519
+取文本对齐方式	qu wen ben dui qi fang shi	1922
+取文本高度	qu wen ben gao du	120
+取文本宽度	qu wen ben kuan du	121
+取文本内容	qu wen ben nei rong	1734
+取文本色	qu wen ben se	2854
+取文本输入格式	qu wen ben shu ru ge shi	2842
+取文本属性读取	qu wen ben shu xing du qu	2240
+取文本属性设置	qu wen ben shu xing she zhi	2241
+取文本颜色	qu wen ben yan se	992
+取文本右边	qu wen ben you bian	3517
+取文本值	qu wen ben zhi	1104
+取文本中间	qu wen ben zhong jian	3516
+取文本注册项	qu wen ben zhu ce xiang	3388
+取文本字体属性	qu wen ben zi ti shu xing	1919
+取文本左边	qu wen ben zuo bian	3518
+取文档线	qu wen dang xian	44
+取文档指针	qu wen dang zhi zhen	82
+取文件版本信息	qu wen jian ban ben xin xi	2467
+取文件长度	qu wen jian chang du	3411
+取文件尺寸	qu wen jian chi cun	3435
+取文件列表回调	qu wen jian lie biao hui tiao	1616
+取文件名	qu wen jian ming	1725
+取文件内图标数	qu wen jian nei tu biao shu	662
+取文件时间	qu wen jian shi jian	3436
+取文件属性	qu wen jian shu xing	3434
+取物体顶边	qu wu ti ding bian	582
+取物体高度	qu wu ti gao du	580
+取物体宽度	qu wu ti kuan du	581
+取物体数	qu wu ti shu	595
+取物体左边	qu wu ti zuo bian	583
+取系统进程列表	qu xi tong jin cheng lie biao	2471
+取系统信息	qu xi tong xin xi	2468
+取系统语言	qu xi tong yu yan	3352
+取系统字体列表	qu xi tong zi ti lie biao	2457
+取下拉框宽度	qu xia la kuang kuan du	424
+取下载速度	qu xia zai su du	1467
+曲线	qu xian	1894
+取线程标识	qu xian cheng biao zhi	1509
+取线程信息	qu xian cheng xin xi	1462
+曲线拟合	qu xian ni he	1333
+取显示模式列表	qu xian shi mo shi lie biao	2414
+取显示区大小	qu xian shi qu da xiao	479
+曲线图控件	qu xian tu kong jian	1217
+取现行目录	qu xian xing mu lu	2102
+取现行时间	qu xian xing shi jian	3483
+取现行选中项	qu xian xing xuan zhong xiang	427
+趋向程度	qu xiang cheng du	514
+取项目名称	qu xiang mu ming cheng	803
+取项目数	qu xiang mu shu	3097
+取项目数值	qu xiang mu shu zhi	3096
+取项目提示文本	qu xiang mu ti shi wen ben	781
+取项目图片	qu xiang mu tu pian	798
+取项目文本	qu xiang mu wen ben	3094
+趋向色	qu xiang se	515
+趋向色变换	qu xiang se bian huan	590
+取像素点阵	qu xiang su dian zhen	1577
+取消表项选择	qu xiao biao xiang xuan ze	2170
+取消重画	qu xiao chong hua	3244
+取消打印	qu xiao da yin	2964
+取消加粗	qu xiao jia cu	2232
+取消钮	qu xiao niu	2626
+取小时	qu xiao shi	3487
+取消是否钮	qu xiao shi fou niu	2641
+取小数	qu xiao shu	1290
+取小数长度	qu xiao shu chang du	1301
+取消锁定	qu xiao suo ding	1902
+取消提示块	qu xiao ti shi kuai	52
+取消网络驱动器映射	qu xiao wang luo qu dong qi ying she	2428
+取消息类型	qu xiao xi lei xing	1760
+取消自动完成	qu xiao zi dong wan cheng	76
+取消自动运行	qu xiao zi dong yun xing	2448
+取写出高度	qu xie chu gao du	544
+取写出宽度	qu xie chu kuan du	545
+取行长度	qu xing chang du	150
+取行高度	qu xing gao du	426
+取行结束位置	qu xing jie shu wei zhi	151
+取行开始位置	qu xing kai shi wei zhi	152
+取星期几	qu xing qi ji	3488
+取行首位置	qu xing shou wei zhi	618
+取行缩进	qu xing suo jin	104
+取行缩进位置	qu xing suo jin wei zhi	103
+取行文本	qu xing wen ben	620
+取行状态	qu xing zhuang tai	111
+取行状态总数	qu xing zhuang tai zong shu	110
+取虚数	qu xu shu	1357
+取选择行数	qu xuan ze hang shu	2885
+取选择列数	qu xuan ze lie shu	2884
+取选择起始列	qu xuan ze qi shi lie	400
+取选择起始行	qu xuan ze qi shi xing	401
+取选择区段落格式	qu xuan ze qu duan luo ge shi	611
+取选择区字符格式	qu xuan ze qu zi fu ge shi	613
+取选择位置	qu xuan ze wei zhi	155
+取选择终止列	qu xuan ze zhong zhi lie	398
+取选择终止行	qu xuan ze zhong zhi xing	399
+取选中目录	qu xuan zhong mu lu	868
+取选中图片	qu xuan zhong tu pian	2235
+取选中图形索引	qu xuan zhong tu xing suo yin	1941
+取旋转跟随	qu xuan zhuan gen sui	573
+取旋转角度	qu xuan zhuan jiao du	1917
+取颜色	qu yan se	1637
+取颜色表	qu yan se biao	1579
+取颜色数	qu yan se shu	3395
+取颜色值	qu yan se zhi	3360
+取已上传长	qu yi shang chuan chang	1454
+取以太网头	qu yi tai wang tou	1560
+取已下载长	qu yi xia zai chang	1466
+取已选择表项数	qu yi xuan ze biao xiang shu	2172
+取已选择项目数	qu yi xuan ze xiang mu shu	3077
+取音量	qu yin liang	303
+取阴影	qu yin ying	1915
+取硬盘特征字	qu ying pan te zheng zi	3353
+取硬盘信息	qu ying pan xin xi	2478
+取用户区高度	qu yong hu qu gao du	3249
+取用户区宽度	qu yong hu qu kuan du	3250
+取用户帐号	qu yong hu zhang hao	2097
+取邮件错误信息	qu you jian cuo wu xin xi	1744
+区域和语言选项	qu yu he yu yan xuan xiang	2387
+取远程机器名	qu yuan cheng ji qi ming	2438
+取远程网卡物理地址	qu yuan cheng wang ka wu li di zhi	2439
+取原始信息	qu yuan shi xin xi	1729
+取元素数	qu yuan su shu	997
+取月份	qu yue fen	3490
+取乐器名	qu yue qi ming	284
+取乐器数量	qu yue qi shu liang	285
+取乐器序号	qu yue qi xu hao	286
+取韵母	qu yun mu	3523
+取运行目录	qu yun xing mu lu	3531
+取在开始时取消自动完成	qu zai kai shi shi qu xiao zi dong wan cheng	66
+取栈顶节点	qu zhan ding jie dian	1086
+取找到组件数目	qu zhao dao zu jian shu mu	3346
+取折叠层	qu zhe die ceng	39
+取折叠扩展	qu zhe die kuo zhan	34
+取帧	qu zhen	1005
+取帧数	qu zhen shu	1009
+取整	qu zheng	3581
+取整数	qu zheng shu	1291
+取整数长度	qu zheng shu chang du	1302
+取指定标志行	qu zhi ding biao zhi xing	88
+取指定范围风格文本	qu zhi ding fan wei feng ge wen ben	184
+取指定范围文本	qu zhi ding fan wei wen ben	185
+取只读方式	qu zhi du fang shi	2802
+取指示器风格	qu zhi shi qi feng ge	85
+取指示器前景色	qu zhi shi qi qian jing se	83
+取执行文件名	qu zhi xing wen jian ming	3530
+取指针	qu zhi zhen	1575
+取指针地址	qu zhi zhen di zhi	485
+取主窗口句柄	qu zhu chuang kou ju bing	964
+取主机名	qu zhu ji ming	3261
+取主题	qu zhu ti	1735
+取状态	qu zhuang tai	2192
+取子表达式个数	qu zi biao da shi ge shu	1778
+取子程序地址	qu zi cheng xu di zhi	2251
+取自定义纸张大小	qu zi ding yi zhi zhang da xiao	2959
+取自动完成单选	qu zi dong wan cheng dan xuan	63
+取自动完成当前项	qu zi dong wan cheng dang qian xiang	68
+取自动完成分隔符	qu zi dong wan cheng fen ge fu	70
+取自动完成区分大小写	qu zi dong wan cheng qu fen da xiao xie	61
+取自动完成隐藏	qu zi dong wan cheng yin cang	59
+取自动完成最大行数	qu zi dong wan cheng zui da hang shu	57
+取自动完成最大宽度	qu zi dong wan cheng zui da kuan du	55
+取字段尺寸	qu zi duan chi cun	3323
+取字段定义长度	qu zi duan ding yi chang du	1180
+取字段类型	qu zi duan lei xing	3324
+取字段名	qu zi duan ming	3326
+取字段实际长度	qu zi duan shi ji chang du	1179
+取字段数	qu zi duan shu	3327
+取字段属性	qu zi duan shu xing	1181
+取字符	qu zi fu	1300
+取字符所在行	qu zi fu suo zai hang	617
+取子夹名称	qu zi jia ming cheng	3045
+取子夹数目	qu zi jia shu mu	3046
+取子夹数值	qu zi jia shu zhi	740
+取子夹提示文本	qu zi jia ti shi wen ben	734
+取子夹头底色	qu zi jia tou di se	738
+取子夹头底图	qu zi jia tou di tu	736
+取子夹头区域	qu zi jia tou qu yu	732
+取子夹图标	qu zi jia tu biao	742
+取字节	qu zi jie	1370
+取子节点数	qu zi jie dian shu	1072
+取字节集	qu zi jie ji	2738
+取字节集长度	qu zi jie ji chang du	3466
+取字节集数据	qu zi jie ji shu ju	3464
+取字节集右边	qu zi jie ji you bian	3462
+取字节集值	qu zi jie ji zhi	1103
+取字节集中间	qu zi jie ji zhong jian	3461
+取字节集注册项	qu zi jie ji zhu ce xiang	3386
+取字节集左边	qu zi jie ji zuo bian	3463
+取子匹配文本	qu zi pi pei wen ben	1771
+取字体	qu zi ti	1639
+取字体尺寸	qu zi ti chi cun	2848
+取字体名	qu zi ti ming	2850
+取字体名称	qu zi ti ming cheng	989
+取字体属性	qu zi ti shu xing	2846
+取资源路径	qu zi yuan lu jing	460
+取总长度	qu zong chang du	275
+取总时间	qu zong shi jian	269
+取总下载速度	qu zong xia zai su du	1475
+取纵向缩放比	qu zong xiang suo fang bi	570
+取纵向缩放比例	qu zong xiang suo fang bi li	1014
+取纵向位置	qu zong xiang wei zhi	1021
+取族	qu zu	1507
+取组件名称	qu zu jian ming cheng	3349
+取最大时间	qu zui da shi jian	3303
+取最大音量	qu zui da yin liang	305
+取最大值	qu zui da zhi	3305
+取最后子行	qu zui hou zi xing	37
+取最小时间	qu zui xiao shi jian	3302
+取最小音量	qu zui xiao yin liang	304
+取最小值	qu zui xiao zhi	3304
+取坐标	qu zuo biao	1647
+全部	quan bu	458
+全部复制	quan bu fu zhi	2882
+全部关闭	quan bu guan bi	3332
+全部解锁	quan bu jie suo	3308
+全部删除	quan bu shan chu	2166
+全部选择	quan bu xuan ze	2888
+全部页	quan bu ye	2517
+全部帧数	quan bu zhen shu	630
+全部转换	quan bu zhuan huan	2594
+全局变量	quan ju bian liang	1688
+全局钩子	quan ju gou zi	971
+全局钩子支持库	quan ju gou zi zhi chi ku	972
+全局命令	quan ju ming ling	1478
+全屏显示	quan ping xian shi	2016
+全字匹配	quan zi pi pei	2
+确保可见	que bao ke jian	33
+缺角矩形	que jiao ju xing	1872
+确认号	que ren hao	1548
+确认钮	que ren niu	2644
+确认取消钮	que ren qu xiao niu	2643
+热点跟踪	re dian gen zong	2983
+热点图片组	re dian tu pian zu	2185
+热点颜色	re dian yan se	2985
+热键功能	re jian gong neng	489
+人工操作	ren gong cao zuo	1859
+人工输入	ren gong shu ru	1860
+人民币	ren min bi	334
+任务参数	ren wu can shu	1450
+任意键中断	ren yi jian zhong duan	194
+日期	ri qi	2285
+日期被改变	ri qi bei gai bian	903
+日期被悬停	ri qi bei xuan ting	906
+日期被选择	ri qi bei xuan ze	907
+日期被右击	ri qi bei you ji	873
+日期部分	ri qi bu fen	2593
+日期方法	ri qi fang fa	2753
+日期格式	ri qi ge shi	2301
+日期和时间属性	ri qi he shi jian shu xing	2395
+日期框	ri qi kuang	3030
+日期时间型	ri qi shi jian xing	2654
+日期文本	ri qi wen ben	875
+日期型	ri qi xing	2732
+日期型数组	ri qi xing shu zu	2726
+日期型字段	ri qi xing zi duan	1143
+日志回调函数	ri zhi hui tiao han shu	1437
+容量	rong liang	2281
+如果	ru guo	3600
+如果真	ru guo zhen	3599
+软件合成器	ruan jian he cheng qi	261
+三次多项式方程	san ci duo xiang shi fang cheng	1331
+三次样条插值	san ci yang tiao cha zhi	1330
+三十二开	san shi er kai	2507
+三维图形	san wei tu xing	1243
+删除	shan chu	3290
+删除按钮	shan chu an niu	2195
+删除表格	shan chu biao ge	1991
+删除标记程序	shan chu biao ji cheng xu	1703
+删除表项	shan chu biao xiang	2167
+删除标志	shan chu biao zhi	93
+删除标志句柄	shan chu biao zhi ju bing	87
+删除菜单	shan chu cai dan	806
+删除程序	shan chu cheng xu	1705
+删除程序段	shan chu cheng xu duan	1704
+删除程序项	shan chu cheng xu xiang	2450
+删除程序组	shan chu cheng xu zu	2452
+删除成员	shan chu cheng yuan	3537
+删除当前记录	shan chu dang qian ji lu	1161
+删除当前节点	shan chu dang qian jie dian	1098
+删除记录	shan chu ji lu	2795
+删除键值对	shan chu jian zhi dui	1066
+删除节点	shan chu jie dian	1097
+删除进入许可证	shan chu jin ru xu ke zheng	316
+删除栏目	shan chu lan mu	2207
+删除累加公式	shan chu lei jia gong shi	371
+删除列	shan chu lie	2818
+删除临时文件	shan chu lin shi wen jian	2459
+删除模块引用	shan chu mo kuai yin yong	1692
+删除模板变量	shan chu mu ban bian liang	1696
+删除目录	shan chu mu lu	3443
+删除全部记录	shan chu quan bu ji lu	1160
+删除首节点	shan chu shou jie dian	1100
+删除数据	shan chu shu ju	3407
+删除属性	shan chu shu xing	1109
+删除所有标志	shan chu suo you biao zhi	92
+删除所有键值对	shan chu suo you jian zhi dui	1065
+删除提示	shan chu ti shi	498
+删除图片组图片	shan chu tu pian zu tu pian	661
+删除尾节点	shan chu wei jie dian	1099
+删除文档	shan chu wen dang	1947
+删除文件	shan chu wen jian	3440
+删除线	shan chu xian	3189
+删除项目	shan chu xiang mu	3090
+删除行	shan chu xing	2820
+删除邮件	shan chu you jian	1743
+删除右键菜单	shan chu you jian cai dan	2461
+删除注册项	shan chu zhu ce xiang	3384
+删除自定义纸张类型	shan chu zi ding yi zhi zhang lei xing	2960
+删除字符	shan chu zi fu	1381
+删除子夹	shan chu zi jia	743
+删除字节	shan chu zi jie	1371
+删除字体	shan chu zi ti	2455
+删除组件	shan chu zu jian	1043
+闪电形	shan dian xing	1873
+删全部空	shan quan bu kong	3504
+删首空	shan shou kong	3507
+删首尾空	shan shou wei kong	3505
+闪烁选中项目	shan shuo xuan zhong xiang mu	757
+删尾空	shan wei kong	3506
+删线条	shan xian tiao	2828
+上边距	shang bian ju	2905
+上边框	shang bian kuang	2536
+上边线	shang bian xian	2189
+上传	shang chuan	1428
+上传对象	shang chuan dui xiang	1458
+上传文件	shang chuan wen jian	1457
+上单元格	shang dan yuan ge	2527
+上光标键	shang guang biao jian	2612
+上箭头	shang jian tou	1839
+上箭头竖线	shang jian tou shu xian	1821
+上下箭头	shang xia jian tou	1836
+上移	shang yi	1788
+上一个标志	shang yi ge biao zhi	89
+上右	shang you	2552
+上右页号	shang you ye hao	2521
+上中	shang zhong	2553
+上中页号	shang zhong ye hao	2522
+上左	shang zuo	2554
+上左页号	shang zuo ye hao	2523
+设超时时间	she chao shi shi jian	1212
+设重试时间	she chong shi shi jian	1476
+设新文件名	she xin wen jian ming	1459
+设置窗口透明度	she zhi chuang kou tou ming du	2415
+设置存根	she zhi cun gen	2078
+设置代理服务器	she zhi dai li fu wu qi	1738
+设置默认打印机	she zhi mo ren da yin ji	2444
+设置屏幕分辨率	she zhi ping mu fen bian lv	2412
+设置权限	she zhi quan xian	1213
+设置声音大小	she zhi sheng yin da xiao	1606
+设置声音文件	she zhi sheng yin wen jian	213
+设置视频格式	she zhi shi pin ge shi	1261
+设置视频输入	she zhi shi pin shu ru	1262
+设置视频显示	she zhi shi pin xian shi	1260
+设置替换标志	she zhi ti huan biao zhi	2081
+设置文件拖放	she zhi wen jian tuo fang	491
+设置系列	she zhi xi lie	1956
+设置新名	she zhi xin ming	1409
+设置压缩格式	she zhi ya suo ge shi	1256
+设置语速	she zhi yu su	1605
+设置语音库	she zhi yu yin ku	1603
+设置桌面墙纸	she zhi zhuo mian qiang zhi	2416
+设置自动运行	she zhi zi dong yun xing	2460
+设置字体	she zhi zi ti	1640
+身份验证口令	shen fen yan zheng kou ling	2058
+身份验证类型	shen fen yan zheng lei xing	2057
+身份验证用户名	shen fen yan zheng yong hu ming	2056
+深灰	shen hui	2686
+深青	shen qing	2714
+申请内存	shen qing nei cun	2249
+生存时间	sheng cun shi jian	1553
+声明	sheng ming	2503
+声音和音频属性	sheng yin he yin pin shu xing	2390
+声音文件	sheng yin wen jian	191
+失败	shi bai	2064
+识别到语音	shi bie dao yu yin	1599
+释放	shi fang	2022
+释放缓冲区	shi fang huan chong qu	1377
+释放库	shi fang ku	243
+释放内存	shi fang nei cun	2248
+释放鼠标	shi fang shu biao	2408
+释放文档引用	shi fang wen dang yin yong	78
+是否安全请求	shi fou an quan qing qiu	2043
+是否被合并	shi fou bei he bing	2830
+是否被选择	shi fou bei xuan ze	3075
+是否被选中	shi fou bei xuan zhong	3068
+是否被允许	shi fou bei yun xu	3066
+是否撤消	shi fou che xiao	167
+是否重叠	shi fou chong die	563
+是否重复	shi fou chong fu	166
+是否存在	shi fou cun zai	593
+是否打开	shi fou da kai	308
+是否打印到文件	shi fou da yin dao wen jian	2900
+是否根精灵	shi fou gen jing ling	1008
+是否可编辑	shi fou ke bian ji	362
+是否可选择文本	shi fou ke xuan ze wen ben	986
+是否能粘贴	shi fou neng zhan tie	171
+是否钮	shi fou niu	2640
+是否闰月	shi fou run yue	918
+是否视频	shi fou shi pin	272
+是否适应列宽	shi fou shi ying lie kuan	1971
+是否使用颜色表	shi fou shi yong yan se biao	1580
+是否缩进	shi fou suo jin	1975
+是否填充背景	shi fou tian chong bei jing	3038
+是否为空	shi fou wei kong	3363
+是否为零	shi fou wei ling	1294
+是否为调试版	shi fou wei tiao shi ban	3368
+是否显示表头	shi fou xian shi biao tou	874
+是否相等	shi fou xiang deng	2766
+是否已安装	shi fou yi an zhuang	1499
+是否已创建	shi fou yi chuang jian	3362
+是否已打开	shi fou yi da kai	3330
+是否已更改	shi fou yi geng gai	602
+是否已加密	shi fou yi jia mi	3266
+是否已扩展	shi fou yi kuo zhan	2225
+是否已连接	shi fou yi lian jie	1207
+是否已删除	shi fou yi shan chu	3289
+是否已显示	shi fou yi xian shi	587
+是否已选中	shi fou yi xuan zhong	1905
+是否已在线	shi fou yi zai xian	2095
+是否有检查框	shi fou you jian cha kuang	2140
+是否有线条	shi fou you xian tiao	2827
+是否有效	shi fou you xiao	1010
+是否有小数	shi fou you xiao shu	1295
+是否有子项目	shi fou you zi xiang mu	2226
+是否与互联网连接	shi fou yu hu lian wang lian jie	2433
+是否运算正确	shi fou yun suan zheng que	3570
+是否允许多行	shi fou yun xu duo hang	3179
+是否在录制	shi fou zai lu zhi	295
+是否在区域内	shi fou zai qu yu nei	560
+是否在文件尾	shi fou zai wen jian wei	3413
+是否正在播放	shi fou zheng zai bo fang	1000
+是否支持多用户	shi fou zhi chi duo yong hu	3341
+是否只读	shi fou zhi du	988
+是否自动换行	shi fou zi dong huan hang	1970
+是否自动折行	shi fou zi dong zhe hang	3108
+适合大小	shi he da xiao	328
+时间部分	shi jian bu fen	2592
+时间操作	shi jian cao zuo	3498
+时间戳字段	shi jian chuo zi duan	1140
+时间到文本	shi jian dao wen ben	3493
+时间格式	shi jian ge shi	2300
+时间型字段	shi jian xing zi duan	1141
+事件转移	shi jian zhuan yi	3358
+事件字符	shi jian zi fu	2916
+实矩阵逆	shi ju zhen ni	1351
+矢量按钮	shi liang an niu	977
+矢量编辑框	shi liang bian ji kuang	993
+矢量动画框	shi liang dong hua kuang	1052
+矢量精灵	shi liang jing ling	973
+矢量图形	shi liang tu xing	994
+矢量组件类型	shi liang zu jian lei xing	974
+十六开	shi liu kai	2508
+是钮	shi niu	2622
+视频重叠	shi pin chong die	1258
+视频设备	shi pin she bei	1263
+时区	shi qu	2299
+使用默认色	shi yong mo ren se	647
+时钟	shi zhong	2970
+时钟频率	shi zhong pin lv	2320
+始终显示选择项	shi zhong xian shi xuan ze xiang	2221
+时钟周期	shi zhong zhou qi	2969
+十字箭头	shi zi jian tou	1835
+十字形	shi zi xing	1883
+十字星	shi zi xing	1844
+手柄边距	shou bing bian ju	830
+手柄方位	shou bing fang wei	848
+手柄高度	shou bing gao du	831
+手柄宽度	shou bing kuan du	832
+首部长度及版本号	shou bu chang du ji ban ben hao	1558
+首部长度及保留字	shou bu chang du ji bao liu zi	1547
+首部校验和	shou bu jiao yan he	1552
+收藏夹	shou cang jia	2359
+首次激活	shou ci ji huo	3199
+首单元格	shou dan yuan ge	1977
+收到数据	shou dao shu ju	1416
+收到信号	shou dao xin hao	2910
+收到一帧数据后	shou dao yi zhen shu ju hou	1250
+首行缩进	shou hang suo jin	624
+收集按键	shou ji an jian	214
+收集按键完毕	shou ji an jian wan bi	200
+首记录前	shou ji lu qian	3271
+首拼及全拼	shou pin ji quan pin	2620
+收缩	shou suo	2230
+手形指针	shou xing zhi zhen	2144
+首选择日	shou xuan ze ri	3015
+首选择位置	shou xuan ze wei zhi	3049
+首页打印页号	shou ye da yin ye hao	2901
+首页页号	shou ye ye hao	2952
+鼠标离开时隐藏	shu biao li kai shi yin cang	840
+鼠标属性	shu biao shu xing	2392
+鼠标消息钩子	shu biao xiao xi gou zi	951
+鼠标悬停时隐藏	shu biao xuan ting shi yin cang	839
+输出	shu chu	480
+输出声音文件	shu chu sheng yin wen jian	1610
+输出调试文本	shu chu tiao shi wen ben	3371
+数据	shu ju	1867
+数据报	shu ju bao	2938
+数据表名	shu ju biao ming	1162
+数据操作支持库一	shu ju cao zuo zhi chi ku yi	1064
+数据到达	shu ju dao da	2934
+数据加解密	shu ju jia jie mi	1056
+数据结构支持库	shu ju jie gou zhi chi ku	1114
+数据库	shu ju ku	3342
+数据库操作支持库	shu ju ku cao zuo zhi chi ku	1216
+数据库连接	shu ju ku lian jie	1215
+数据库逻辑路径	shu ju ku luo ji lu jing	2060
+数据库密码	shu ju ku mi ma	2788
+数据库日期型字段	shu ju ku ri qi xing zi duan	1142
+数据库提供者	shu ju ku ti gong zhe	2791
+数据库文件名	shu ju ku wen jian ming	2790
+数据库物理路径	shu ju ku wu li lu jing	2059
+数据宽度	shu ju kuan du	2315
+数据类型成员	shu ju lei xing cheng yuan	1684
+数据列	shu ju lie	3166
+数据提供者	shu ju ti gong zhe	2800
+数据图表支持库	shu ju tu biao zhi chi ku	1249
+数据完整性校验	shu ju wan zheng xing jiao yan	1060
+数据位数	shu ju wei shu	2919
+数据压缩解压	shu ju ya suo jie ya	1063
+数据源	shu ju yuan	3167
+数据源管理器	shu ju yuan guan li qi	2389
+数据转换	shu ju zhuan huan	472
+数码设备	shu ma she bei	1281
+数码设备支持库	shu ma she bei zhi chi ku	1282
+竖排子夹名称	shu pai zi jia ming cheng	712
+输入	shu ru	481
+输入方式	shu ru fang shi	3176
+输入框	shu ru kuang	3394
+输入密码	shu ru mi ma	2498
+输入文本	shu ru wen ben	2591
+输入小数	shu ru xiao shu	2589
+输入整数	shu ru zheng shu	2590
+输入字比较	shu ru zi bi jiao	3521
+竖线	shu xian	1825
+属相	shu xiang	913
+树型框	shu xing kuang	2237
+数值到大写	shu zhi dao da xie	3477
+数值到格式文本	shu zhi dao ge shi wen ben	3475
+数值到金额	shu zhi dao jin e	3476
+数值方法	shu zhi fang fa	2755
+数值计算支持库	shu zhi ji suan zhi chi ku	1367
+数值型	shu zhi xing	2735
+数值型数组	shu zhi xing shu zu	2729
+数值型字段	shu zhi xing zi duan	1139
+数值转换	shu zhi zhuan huan	3479
+数字	shu zi	189
+数字签名	shu zi qian ming	1058
+数字锁定键盘灯	shu zi suo ding jian pan deng	2352
+数字型字段	shu zi xing zi duan	1129
+数组	shu zu	233
+数组操作	shu zu cao zuo	3544
+数组类型	shu zu lei xing	1677
+数组排序	shu zu pai xu	3535
+数组清零	shu zu qing ling	3534
+刷新	shua xin	2809
+刷新单元格	shua xin dan yuan ge	372
+刷新频率	shua xin pin lv	2258
+刷新显示	shua xin xian shi	3243
+刷子类型	shua zi lei xing	3121
+刷子颜色	shua zi yan se	3120
+双击	shuang ji	2561
+双击目录	shuang ji mu lu	861
+双击物体	shuang ji wu ti	537
+双击项目	shuang ji xiang mu	2215
+双击选择	shuang ji xuan ze	3079
+霜降	shuang jiang	883
+双精度小数型	shuang jing du xiao shu xing	2655
+双精度字段	shuang jing du zi duan	1138
+双拼	shuang pin	2619
+双向箭头横线	shuang xiang jian tou heng xian	1822
+双向箭头竖线	shuang xiang jian tou shu xian	1819
+双斜线	shuang xie xian	2530
+水平边距	shui ping bian ju	834
+水平边线宽度	shui ping bian xian kuan du	823
+水平对齐方式	shui ping dui qi fang shi	1973
+水平翻转	shui ping fan zhuan	1782
+水平线	shui ping xian	2533
+顺序访问存贮器	shun xu fang wen cun zhu qi	1849
+四开	si kai	2509
+四舍五入	si she wu ru	3579
+搜索	sou suo	1776
+搜索标记	sou suo biao ji	174
+搜索节点	sou suo jie dian	1090
+搜索结果	sou suo jie guo	1773
+搜索全部	sou suo quan bu	1775
+搜索上一个	sou suo shang yi ge	172
+搜索下一个	sou suo xia yi ge	173
+算法	suan fa	1053
+算式解析	suan shi jie xi	1284
+算术运算	suan shu yun suan	3590
+随意移动	sui yi yi dong	3212
+锁定	suo ding	1903
+缩放	suo fang	572
+缩放比	suo fang bi	2876
+缩放到纸宽	suo fang dao zhi kuan	2497
+缩放居中图片	suo fang ju zhong tu pian	2543
+缩放平铺图片	suo fang ping pu tu pian	2541
+缩放图片	suo fang tu pian	2545
+缩进后台两端	suo jin hou tai liang duan	686
+缩进量	suo jin liang	1974
+索引查找	suo yin cha zhao	3281
+所有共享资源	suo you gong xiang zi yuan	2334
+所有驱动器	suo you qu dong qi	2370
+所有用户	suo you yong hu	2563
+锁住记录	suo zhu ji lu	3310
+锁住数据库	suo zhu shu ju ku	3314
+锁住文件	suo zhu wen jian	3424
+锁住增删	suo zhu zeng shan	3312
+抬笔	tai bi	1663
+弹出	tan chu	1084
+弹出菜单	tan chu cai dan	3240
+弹出光驱	tan chu guang qu	2475
+弹出提示框	tan chu ti shi kuang	855
+弹出托盘菜单	tan chu tuo pan cai dan	3233
+桃红	tao hong	2688
+特殊功能支持库	te shu gong neng zhi chi ku	2253
+替换	ti huan	3292
+替换打开	ti huan da kai	3336
+替换文本	ti huan wen ben	1380
+替换字节集	ti huan zi jie ji	1369
+替换子文本	ti huan zi wen ben	1379
+替换子字节集	ti huan zi zi jie ji	1368
+提交事务	ti jiao shi wu	2777
+提取加入图片	ti qu jia ru tu pian	663
+提取资源文件图标	ti qu zi yuan wen jian tu biao	2454
+提示工具	ti shi gong ju	500
+提示块被单击	ti shi kuai bei dan ji	5
+提示块背景色	ti shi kuai bei jing se	48
+提示块高亮	ti shi kuai gao liang	49
+提示块高亮色	ti shi kuai gao liang se	46
+提示块活动	ti shi kuai huo dong	51
+提示块开始位置	ti shi kuai kai shi wei zhi	50
+提示块前景色	ti shi kuai qian jing se	47
+提示框即将弹出	ti shi kuang ji jiang tan chu	813
+提示框即将隐藏	ti shi kuang ji jiang yin cang	812
+提示文本	ti shi wen ben	1394
+梯形	ti xing	1891
+填充背景颜色	tian chong bei jing yan se	476
+填充矩形	tian chong ju xing	3144
+填充颜色	tian chong yan se	3157
+填充一帧图像	tian chong yi zhen tu xiang	1251
+填充字符	tian chong zi fu	475
+天干	tian gan	902
+添加	tian jia	3295
+添加打印机向导	tian jia da yin ji xiang dao	2397
+添加多完成项	tian jia duo wan cheng xiang	410
+添加附件数据	tian jia fu jian shu ju	2111
+添加附件文件	tian jia fu jian wen jian	2112
+添加或删除程序	tian jia huo shan chu cheng xu	2396
+添加记录	tian jia ji lu	2796
+添加监视键	tian jia jian shi jian	552
+添加模块引用	tian jia mo kuai yin yong	1693
+添加提示	tian jia ti shi	499
+添加图片	tian jia tu pian	1989
+添加完成项	tian jia wan cheng xiang	413
+添加下拉列表内容	tian jia xia la lie biao nei rong	389
+添加行	tian jia xing	2821
+添加右键菜单	tian jia you jian cai dan	2462
+天蓝	tian lan	2692
+调绑定	tiao bang ding	1492
+跳出循环	tiao chu xun huan	3593
+调创建套接字	tiao chuang jian tao jie zi	1494
+跳到	tiao dao	3275
+跳到帧	tiao dao zhen	1007
+调定向发送	tiao ding xiang fa song	1487
+调定向接收	tiao ding xiang jie shou	1485
+调发送	tiao fa song	1488
+调关闭套接字	tiao guan bi tao jie zi	1493
+跳过	tiao guo	3277
+调节钮被按下	tiao jie niu bei an xia	3164
+调节器	tiao jie qi	2984
+调节器底限值	tiao jie qi di xian zhi	3172
+调节器方式	tiao jie qi fang shi	3173
+调节器上限值	tiao jie qi shang xian zhi	3171
+调接收	tiao jie shou	1486
+调连接	tiao lian jie	1490
+调试输出	tiao shi shu chu	2247
+调许可连接	tiao xu ke lian jie	1489
+调侦听	tiao zhen ting	1491
+调整层次	tiao zheng ceng ci	3241
+调整窗口风格	tiao zheng chuang kou feng ge	963
+调整窗口扩展风格	tiao zheng chuang kou kuo zhan feng ge	962
+跳转	tiao zhuan	2989
+停止	ting zhi	2923
+停止播放	ting zhi bo fang	3373
+停止发音	ting zhi fa yin	1609
+停止上传	ting zhi shang chuan	1456
+停止位数	ting zhi wei shu	2918
+停止指定任务	ting zhi zhi ding ren wu	1472
+停止自动前进	ting zhi zi dong qian jin	568
+停止自动旋转	ting zhi zi dong xuan zhuan	566
+停奏	ting zou	283
+同步发送文本	tong bu fa song wen ben	1757
+同步发送字节集	tong bu fa song zi jie ji	1756
+通常	tong chang	3000
+通常背景色	tong chang bei jing se	645
+通常前景色	tong chang qian jing se	646
+通常索引	tong chang suo yin	2576
+通常图片	tong chang tu pian	651
+通常图片透明色	tong chang tu pian tou ming se	650
+通常型	tong chang xing	2538
+统计数据概要	tong ji shu ju gai yao	1336
+通配符	tong pei fu	3001
+通信测试	tong xin ce shi	3260
+同心圆	tong xin yuan	1875
+通用对话框	tong yong dui hua kuang	2982
+通用对象支持库	tong yong dui xiang zhi chi ku	1385
+通用方法	tong yong fang fa	2757
+通用提供者	tong yong ti gong zhe	2794
+投递信息	tou di xin xi	3238
+透明	tou ming	2685
+透明背景	tou ming bei jing	3032
+透明标签	tou ming biao qian	2130
+透明度	tou ming du	847
+透明色	tou ming se	518
+透明颜色	tou ming yan se	2782
+图标	tu biao	3219
+图表	tu biao	1959
+图标对齐方式	tu biao dui qi fang shi	2155
+图标横向位置	tu biao heng xiang wei zhi	1393
+图表类型	tu biao lei xing	1955
+图标图片组	tu biao tu pian zu	846
+图标纵向位置	tu biao zong xiang wei zhi	1392
+凸出	tu chu	2127
+图例数量	tu li shu liang	1231
+图例文字颜色	tu li wen zi yan se	1232
+图例字体	tu li zi ti	1233
+图例字体颜色	tu li zi ti yan se	1218
+图片传送完毕	tu pian chuan song wan bi	1265
+图片框	tu pian kuang	3163
+图片是否居右	tu pian shi fou ju you	2159
+图片数据	tu pian shu ju	2556
+图片图片组	tu pian tu pian zu	845
+图片文件名	tu pian wen jian ming	2557
+图片型	tu pian xing	339
+图片组	tu pian zu	2219
+图片组处理	tu pian zu chu li	666
+图像底边	tu xiang di bian	1269
+图像顶边	tu xiang ding bian	1270
+图像翻转	tu xiang fan zhuan	549
+图像格式转换支持库	tu xiang ge shi zhuan huan zhi chi ku	1387
+图像右边	tu xiang you bian	1267
+图像转换	tu xiang zhuan huan	1386
+图像左边	tu xiang zuo bian	1268
+图形按钮	tu xing an niu	2787
+图形操作接口	tu xing cao zuo jie kou	1929
+图形窗口	tu xing chuang kou	1949
+图形个数	tu xing ge shu	1937
+图形类型	tu xing lei xing	1897
+图形鼠标进入	tu xing shu biao jin ru	1932
+图形鼠标离开	tu xing shu biao li kai	1931
+图形鼠标位置被移动	tu xing shu biao wei zhi bei yi dong	1933
+图形鼠标左键被单击	tu xing shu biao zuo jian bei dan ji	1930
+推迟调用子程序	tui chi diao yong zi cheng xu	2243
+退出	tui chu	2020
+退出许可区	tui chu xu ke qu	314
+退格键	tui ge jian	2616
+拖放对象	tuo fang dui xiang	1406
+拖放功能	tuo fang gong neng	492
+拖放树型框项目	tuo fang shu xing kuang xiang mu	490
+拖放支持库	tuo fang zhi chi ku	1407
+托盘事件	tuo pan shi jian	3198
+托盘图标	tuo pan tu biao	1396
+托盘图标被单击	tuo pan tu biao bei dan ji	1391
+托盘图标被双击	tuo pan tu biao bei shuang ji	1390
+托盘图标被右击	tuo pan tu biao bei you ji	1389
+托盘图标鼠标位置被移动	tuo pan tu biao shu biao wei zhi bei yi dong	1388
+托盘图标支持库	tuo pan tu biao zhi chi ku	1397
+托盘信息框	tuo pan xin xi kuang	1395
+椭圆	tuo yuan	1885
+外部数据库	wai bu shu ju ku	2781
+外部数据提供者	wai bu shu ju ti gong zhe	2770
+外壳事件钩子	wai ke shi jian gou zi	948
+外形	wai xing	3211
+外形框	wai xing kuang	3162
+网截	wang jie	1496
+网卡名称	wang ka ming cheng	2275
+网卡信息	wang ka xin xi	2276
+网络传送支持库	wang luo chuan song zhi chi ku	1479
+网络服务安装	wang luo fu wu an zhuang	1500
+网络服务器	wang luo fu wu qi	1522
+网络客户端	wang luo ke hu duan	1519
+网络拦截支持库	wang luo lan jie zhi chi ku	1513
+网络连接历史记录	wang luo lian jie li shi ji lu	2355
+网络驱动器	wang luo qu dong qi	2331
+网络数据	wang luo shu ju	1505
+网络数据报	wang luo shu ju bao	1517
+网络通信	wang luo tong xin	3262
+网络通讯	wang luo tong xun	1524
+网络通讯设置	wang luo tong xun she zhi	1477
+网络通讯支持库	wang luo tong xun zhi chi ku	1525
+网络通讯支持库二	wang luo tong xun zhi chi ku er	1569
+网址信息	wang zhi xin xi	1508
+尾单元格	wei dan yuan ge	1976
+位或	wei huo	3553
+微积分	wei ji fen	1341
+尾记录后	wei ji lu hou	3270
+位取反	wei qu fan	3555
+微调	wei tiao	1900
+位图	wei tu	1591
+位图操作支持库	wei tu cao zuo zhi chi ku	1592
+尾选择日	wei xuan ze ri	3014
+位异或	wei yi huo	3552
+位与	wei yu	3554
+位于前台	wei yu qian tai	2628
+位运算	wei yun suan	3556
+位置	wei zhi	3221
+未知	wei zhi	2736
+位置被改变	wei zhi bei gai bian	3204
+位置到字节位置	wei zhi dao zi jie wei zhi	30
+未知接口	wei zhi jie kou	234
+未知权限	wei zhi quan xian	1171
+文本	wen ben	2558
+文本背景色	wen ben bei jing se	2156
+文本背景颜色	wen ben bei jing yan se	3119
+文本比较	wen ben bi jiao	3500
+文本操作	wen ben cao zuo	3520
+文本到语音	wen ben dao yu yin	1611
+文本方法	wen ben fang fa	2756
+文本替换	wen ben ti huan	3503
+文本文件名	wen ben wen jian ming	1597
+文本型	wen ben xing	2734
+文本型数组	wen ben xing shu zu	2728
+文本颜色	wen ben yan se	3183
+文本右对齐	wen ben you dui qi	2627
+文本语音常量	wen ben yu yin chang liang	1598
+文本语音转换支持库	wen ben yu yin zhuan huan zhi chi ku	1613
+文档	wen dang	1864
+文档格式转换	wen dang ge shi zhuan huan	669
+文档个数	wen dang ge shu	1938
+文档属性	wen dang shu xing	1940
+文档索引	wen dang suo yin	1939
+文件版本	wen jian ban ben	2297
+文件版本信息	wen jian ban ben xin xi	2298
+文件必须存在	wen jian bi xu cun zai	2976
+文件操作	wen jian cao zuo	1617
+文件到单元格	wen jian dao dan yuan ge	2810
+文件地址	wen jian di zhi	1449
+文件读写	wen jian du xie	3429
+文件覆盖提示	wen jian fu gai ti shi	2975
+文件改名	wen jian gai ming	2104
+文件更名	wen jian geng ming	3439
+文件框	wen jian kuang	3003
+文件描述	wen jian miao shu	2296
+文件名	wen jian ming	3034
+文件目录操作	wen jian mu lu cao zuo	1618
+文件上传	wen jian shang chuan	2105
+文件是否存在	wen jian shi fou cun zai	3438
+文件首	wen jian shou	2669
+文件尾	wen jian wei	2668
+文件下载	wen jian xia zai	2106
+文字	wen zi	520
+文字编码转换支持库	wen zi bian ma zhuan huan zhi chi ku	1622
+文字颜色	wen zi yan se	370
+无边框	wu bian kuang	2128
+五边形箭头	wu bian xing jian tou	1829
+无表头	wu biao tou	2151
+无超时	wu chao shi	405
+无法载入的常量	wu fa zai ru de chang liang	2487
+无符号超长整数字段	wu fu hao chao chang zheng shu zi duan	1125
+无符号短整数字段	wu fu hao duan zheng shu zi duan	1123
+无符号整数字段	wu fu hao zheng shu zi duan	1124
+五角星	wu jiao xing	1843
+物理地址	wu li di zhi	2273
+无属性文件	wu shu xing wen jian	2661
+物体将销毁	wu ti jiang xiao hui	531
+物体位置将改变	wu ti wei zhi jiang gai bian	533
+物体位置已改变	wu ti wei zhi yi gai bian	532
+物体右键被按下	wu ti you jian bei an xia	540
+物体右键被放开	wu ti you jian bei fang kai	538
+物体左键被按下	wu ti zuo jian bei an xia	541
+物体左键被放开	wu ti zuo jian bei fang kai	539
+无限制	wu xian zhi	2673
+无效调用	wu xiao diao yong	1482
+无页号	wu ye hao	2524
+系统	xi tong	2997
+系统安装目录	xi tong an zhuang mu lu	2308
+系统处理	xi tong chu li	3405
+系统窗口钩子	xi tong chuang kou gou zi	953
+系统等待	xi tong deng dai	2629
+系统调用钩子	xi tong diao yong gou zi	949
+系统功能	xi tong gong neng	486
+系统临时文件	xi tong lin shi wen jian	2366
+系统目录	xi tong mu lu	2307
+系统内部对象图片组索引	xi tong nei bu dui xiang tu pian zu suo yin	1634
+系统日志	xi tong ri zhi	1415
+系统属性	xi tong shu xing	2400
+系统文件	xi tong wen jian	2664
+系统消息过滤钩子	xi tong xiao xi guo lv gou zi	952
+系统信息	xi tong xin xi	2314
+系统信息对话框	xi tong xin xi dui hua kuang	2384
+系统音量	xi tong yin liang	309
+系统作用域	xi tong zuo yong yu	1594
+下边距	xia bian ju	2903
+下边框	xia bian kuang	2534
+下单元格	xia dan yuan ge	2525
+下光标键	xia guang biao jian	2610
+下划线	xia hua xian	3188
+下箭头	xia jian tou	1838
+下箭头竖线	xia jian tou shu xian	1820
+下拉按钮	xia la an niu	2123
+下拉框高度	xia la kuang gao du	422
+下移	xia yi	1787
+下一个标志	xia yi ge biao zhi	90
+下右	xia you	2546
+下右页号	xia you ye hao	2518
+下载	xia zai	1429
+下载对象	xia zai dui xiang	1474
+下载上传结束	xia zai shang chuan jie shu	1421
+下载上传开始	xia zai shang chuan kai shi	1422
+下载数据范围	xia zai shu ju fan wei	1411
+下载速度	xia zai su du	1444
+下载线程继续下载	xia zai xian cheng ji xu xia zai	1419
+夏至	xia zhi	891
+下中	xia zhong	2547
+下中页号	xia zhong ye hao	2519
+下左	xia zuo	2548
+下左页号	xia zuo ye hao	2520
+线程等待超时	xian cheng deng dai chao shi	1440
+线程数	xian cheng shu	2263
+线程异常结束	xian cheng yi chang jie shu	1417
+线程优先权	xian cheng you xian quan	2264
+线程正常结束	xian cheng zheng chang jie shu	1418
+限定到纸宽	xian ding dao zhi kuan	2496
+线宽	xian kuan	3159
+线路号	xian lu hao	205
+线路类型	xian lu lei xing	204
+线路名称	xian lu ming cheng	206
+线路输入	xian lu shu ru	262
+线路总数	xian lu zong shu	207
+显示	xian shi	2018
+显示百分比	xian shi bai fen bi	417
+显示斑马线	xian shi ban ma xian	395
+显示比例	xian shi bi li	2013
+显示标尺	xian shi biao chi	2874
+显示表格线	xian shi biao ge xian	2147
+显示标题	xian shi biao ti	1242
+显示标注	xian shi biao zhu	1224
+显示饼图边界线	xian shi bing tu bian jie xian	1222
+显示菜单图标	xian shi cai dan tu biao	753
+显示菜单文本	xian shi cai dan wen ben	754
+显示打印按钮	xian shi da yin an niu	360
+显示打印对话框	xian shi da yin dui hua kuang	361
+显示对象	xian shi dui xiang	1651
+显示根部线	xian shi gen bu xian	2222
+显示光标	xian shi guang biao	478
+显示后台两端	xian shi hou tai liang duan	688
+显示后台中间	xian shi hou tai zhong jian	687
+显示加减框	xian shi jia jian kuang	2224
+显示开始按钮	xian shi kai shi an niu	2417
+显示空表格线	xian shi kong biao ge xian	2873
+显示连接线	xian shi lian jie xian	867
+显示连线	xian shi lian xian	2223
+显示两端按钮	xian shi liang duan an niu	693
+显示模式信息	xian shi mo shi xin xi	2262
+显示前台	xian shi qian tai	684
+显示前台两端	xian shi qian tai liang duan	681
+显示前台中间	xian shi qian tai zhong jian	680
+显示前延时	xian shi qian yan shi	829
+显示任务栏	xian shi ren wu lan	2421
+显示属性	xian shi shu xing	2399
+显示缩进向导	xian shi suo jin xiang dao	14
+显示提示块	xian shi ti shi kuai	53
+显示图例	xian shi tu li	1234
+显示完成	xian shi wan cheng	7
+显示文本	xian shi wen ben	908
+显示文件	xian shi wen jian	866
+显示系统时钟	xian shi xi tong shi zhong	2419
+显示下一帧	xian shi xia yi zhen	550
+显示线	xian shi xian	43
+显示小数位	xian shi xiao shu wei	1225
+显示行结束标志	xian shi xing jie shu biao zhi	23
+显示星期序号	xian shi xing qi xu hao	3019
+显示隐藏子夹	xian shi yin cang zi jia	711
+显示用户列表	xian shi yong hu lie biao	54
+显示中台	xian shi zhong tai	678
+显示中台两端	xian shi zhong tai liang duan	675
+显示中台中间	xian shi zhong tai zhong jian	674
+显示桌面图标	xian shi zhuo mian tu biao	2423
+显示自动完成	xian shi zi dong wan cheng	77
+线条效果	xian tiao xiao guo	3161
+线条颜色	xian tiao yan se	3158
+线型	xian xing	3160
+线性方程组	xian xing fang cheng zu	1334
+现行设置	xian xing she zhi	2566
+现行位置	xian xing wei zhi	2667
+现行选中菜单	xian xing xuan zhong cai dan	776
+现行选中项	xian xing xuan zhong xiang	3086
+现行选中项目	xian xing xuan zhong xiang mu	775
+现行用户	xian xing yong hu	2565
+现行子夹	xian xing zi jia	3040
+限制速度	xian zhi su du	1468
+相乘	xiang cheng	3589
+相除	xiang chu	3588
+相关函数	xiang guan han shu	967
+相加	xiang jia	3585
+相减	xiang jian	3584
+项目	xiang mu	2218
+项目被双击	xiang mu bei shuang ji	746
+项目被选择	xiang mu bei xuan ze	2216
+项目被右击	xiang mu bei you ji	747
+项目符引导	xiang mu fu yin dao	625
+项目列表图片组	xiang mu lie biao tu pian zu	778
+项目名称被改变	xiang mu ming cheng bei gai bian	751
+项目是否已禁止	xiang mu shi fou yi jin zhi	789
+项目是否已隐藏	xiang mu shi fou yi yin cang	785
+项目数值	xiang mu shu zhi	3084
+项目图标图片组	xiang mu tu biao tu pian zu	779
+项目文本色	xiang mu wen ben se	766
+项目悬停文本色	xiang mu xuan ting wen ben se	765
+项目选中文本色	xiang mu xuan zhong wen ben se	764
+项目字体	xiang mu zi ti	760
+橡皮	xiang pi	1660
+向上移动	xiang shang yi dong	1093
+像素	xiang su	2349
+像素类型	xiang su lei xing	1272
+向下移动	xiang xia yi dong	1094
+响应表头被单击	xiang ying biao tou bei dan ji	355
+小报	xiao bao	2502
+小寒	xiao han	878
+销毁	xiao hui	3253
+销毁声音	xiao hui sheng yin	509
+销毁所有物体	xiao hui suo you wu ti	596
+销毁物体	xiao hui wu ti	597
+笑脸	xiao lian	1876
+小满	xiao man	893
+小时	xiao shi	2648
+小暑	xiao shu	890
+小数型	xiao shu xing	2656
+消息过滤钩子	xiao xi guo lv gou zi	959
+小雪	xiao xue	881
+小于	xiao yu	3564
+小于等于	xiao yu deng yu	1292
+小于或等于	xiao yu huo deng yu	3562
+写出	xie chu	3138
+写出程序	xie chu cheng xu	1694
+写出缓存	xie chu huan cun	3269
+写出所有缓存	xie chu suo you huan cun	3268
+写出文本	xie chu wen ben	3417
+写出字节集	xie chu zi jie ji	3418
+写单精度	xie dan jing du	1196
+写到内存	xie dao nei cun	3351
+写到文件	xie dao wen jian	3430
+斜杠键	xie gang jian	2600
+写环境变量	xie huan jing bian liang	3528
+写逻辑值	xie luo ji zhi	1194
+写命名管道	xie ming ming guan dao	450
+写配置项	xie pei zhi xiang	3379
+写日期时间	xie ri qi shi jian	1193
+写入无法确定	xie ru wu fa que ding	1157
+写数据	xie shu ju	444
+写属性	xie shu xing	2759
+写双精度	xie shuang jing du	1197
+斜体	xie ti	2539
+写文本	xie wen ben	1198
+写文本行	xie wen ben xing	3415
+写文字	xie wen zi	1641
+斜线	xie xian	1827
+协议	xie yi	1565
+协议版本	xie yi ban ben	2026
+协议地址长度	xie yi di zhi chang du	1534
+协议类型	xie yi lei xing	1536
+协议类型常量	xie yi lei xing chang liang	1530
+卸载	xie zai	1497
+卸载全局钩子	xie zai quan ju gou zi	969
+卸载图片	xie zai tu pian	3354
+写整数	xie zheng shu	1195
+写注册项	xie zhu ce xiang	3385
+写字段	xie zi duan	3284
+写字节集	xie zi jie ji	1192
+信号	xin hao	2492
+信号操作	xin hao cao zuo	2922
+新建索引	xin jian suo yin	3322
+信息	xin xi	2322
+信息图标	xin xi tu biao	2635
+新下载线程启动	xin xia zai xian cheng qi dong	1420
+新增表格	xin zeng biao ge	1992
+信纸	xin zhi	2506
+行斑马线	xing ban ma xian	344
+行范围	xing fan wei	2513
+行改变值	xing gai bian zhi	3058
+型号	xing hao	2283
+行结束标志	xing jie shu biao zhi	24
+星期	xing qi	911
+星期几	xing qi ji	2646
+行是否可视	xing shi fou ke shi	41
+行为	xing wei	843
+行折叠	xing zhe die	31
+行政用纸	xing zheng yong zhi	2504
+修改	xiu gai	3291
+修改程序	xiu gai cheng xu	1702
+修改当前节点	xiu gai dang qian jie dian	1095
+修改节点	xiu gai jie dian	1096
+修改属性	xiu gai shu xing	1108
+续传	xu chuan	1426
+序号	xu hao	2274
+序列号	xu lie hao	2316
+虚尾箭头	xu wei jian tou	1831
+选定	xuan ding	1987
+选定来源	xuan ding lai yuan	1280
+选项和填充	xuan xiang he tian chong	1551
+选择	xuan ze	3365
+选择表项	xuan ze biao xiang	2171
+选择长度	xuan ze chang du	3048
+选择窗口打开	xuan ze chuang kou da kai	905
+选择窗口关闭	xuan ze chuang kou guan bi	904
+选择行列数改变	xuan ze hang lie shu gai bian	2868
+选择夹	xuan ze jia	3047
+选择框	xuan ze kuang	3104
+选择框方式	xuan ze kuang fang shi	655
+选择列表框	xuan ze lie biao kuang	3069
+选择区被改变	xuan ze qu bei gai bian	601
+选择区背景	xuan ze qu bei jing	353
+选择区文字颜色	xuan ze qu wen zi yan se	350
+选择区域	xuan ze qu yu	402
+选择日期被改变	xuan ze ri qi bei gai bian	3024
+选择所有文本	xuan ze suo you wen ben	154
+选择文本	xuan ze wen ben	159
+选择文本背景色	xuan ze wen ben bei jing se	21
+选择文本前景色	xuan ze wen ben qian jing se	22
+选择文件被改变	xuan ze wen jian bei gai bian	2995
+选择项目	xuan ze xiang mu	3074
+选择型	xuan ze xing	340
+选择整行	xuan ze zheng hang	354
+选中标题颜色	xuan zhong biao ti yan se	713
+选中表头底色	xuan zhong biao tou di se	717
+选中渐变起始色	xuan zhong jian bian qi shi se	706
+选中项目	xuan zhong xiang mu	3067
+选中状态被改变	xuan zhong zhuang tai bei gai bian	3063
+旋转	xuan zhuan	1573
+旋转度	xuan zhuan du	1572
+旋转跟随	xuan zhuan gen sui	511
+训练	xun lian	1601
+询问图标	xun wen tu biao	2637
+寻找	xun zhao	606
+寻找重叠物体	xun zhao chong die wu ti	562
+寻找文本	xun zhao wen ben	3513
+寻找文件	xun zhao wen jian	3437
+寻找物体	xun zhao wu ti	555
+寻找字节集	xun zhao zi jie ji	3460
+寻找组件	xun zhao zu jian	3347
+压入	ya ru	1085
+压入方式	ya ru fang shi	654
+压缩	ya suo	1628
+压缩解压支持库	ya suo jie ya zhi chi ku	1629
+压缩进度	ya suo jin du	1624
+压缩数据	ya suo shu ju	1062
+压缩一帧图像	ya suo yi zhen tu xiang	1253
+延迟	yan chi	2239
+延期	yan qi	1850
+艳青	yan qing	2706
+颜色	yan se	2993
+颜色被改变	yan se bei gai bian	2991
+颜色翻转	yan se fan zhuan	546
+颜色位数	yan se wei shu	2259
+颜色选择钮	yan se xuan ze niu	434
+颜色选择器	yan se xuan ze qi	2994
+颜色组合框	yan se zu he kuang	436
+延时	yan shi	3389
+燕尾	yan wei	1828
+燕尾箭头	yan wei jian tou	1830
+验证	yan zheng	2246
+验证口令	yan zheng kou ling	1718
+验证用户名	yan zheng yong hu ming	1719
+演奏	yan zou	289
+页范围	ye fan wei	2514
+页改变值	ye gai bian zhi	3059
+页号位置	ye hao wei zhi	2902
+页脚	ye jiao	326
+页眉	ye mei	327
+页面底色	ye mian di se	716
+页面区顶边	ye mian qu ding bian	704
+页面区高度	ye mian qu gao du	702
+页面区宽度	ye mian qu kuan du	703
+页面区左边	ye mian qu zuo bian	705
+异步发送文本	yi bu fa song wen ben	1755
+异步发送字节集	yi bu fa song zi jie ji	1754
+已打印份数	yi da yin fen shu	2944
+移到	yi dao	1182
+移到文件首	yi dao wen jian shou	3421
+移到文件尾	yi dao wen jian wei	3420
+移动	yi dong	3242
+移动表格	yi dong biao ge	1990
+移动读写位置	yi dong du xie wei zhi	3422
+移动滚动条	yi dong gun dong tiao	149
+移动文件	yi dong wen jian	3441
+依附	yi fu	225
+一级缓存大小	yi ji huan cun da xiao	2318
+一阶微分方程	yi jie wei fen fang cheng	1338
+易皮肤关闭皮肤	yi pi fu guan bi pi fu	1710
+易皮肤取背景色	yi pi fu qu bei jing se	1711
+易皮肤载入皮肤	yi pi fu zai ru pi fu	1712
+以太网目的地址	yi tai wang mu di di zhi	1540
+以太网头	yi tai wang tou	1541
+以太网源地址	yi tai wang yuan di zhi	1539
+易向导	yi xiang dao	1708
+易向导支持库	yi xiang dao zhi chi ku	1709
+易语言皮肤支持库	yi yu yan pi fu zhi chi ku	1714
+一帧被加载后	yi zhen bei jia zai hou	1027
+银白	yin bai	2694
+隐藏	yin cang	2996
+隐藏表头	yin cang biao tou	727
+隐藏菜单	yin cang cai dan	786
+隐藏窗口	yin cang chuang kou	2684
+隐藏对象	yin cang dui xiang	1650
+隐藏光标	yin cang guang biao	477
+隐藏开始按钮	yin cang kai shi an niu	2418
+隐藏任务栏	yin cang ren wu lan	2422
+隐藏文件	yin cang wen jian	2665
+隐藏系统时钟	yin cang xi tong shi zhong	2420
+隐藏线	yin cang xian	42
+隐藏项目	yin cang xiang mu	784
+隐藏选择	yin cang xuan ze	3181
+隐藏桌面图标	yin cang zhuo mian tu biao	2424
+隐藏子夹	yin cang zi jia	729
+隐藏自身	yin cang zi shen	3039
+引号	yin hao	2721
+音量改变	yin liang gai bian	299
+音量类型	yin liang lei xing	267
+音频转换	yin pin zhuan huan	260
+引擎版本	yin qing ban ben	1205
+阴影	yin ying	821
+阴影垂直偏移量	yin ying chui zhi pian yi liang	817
+阴影垂直深度	yin ying chui zhi shen du	815
+阴影灰度	yin ying hui du	819
+阴影是否渐变	yin ying shi fou jian bian	820
+阴影水平偏移量	yin ying shui ping pian yi liang	818
+阴影水平深度	yin ying shui ping shen du	816
+引用	yin yong	1431
+英镑	ying bang	331
+英寸	ying cun	2348
+应答	ying da	1528
+硬件地址长度	ying jian di zhi chang du	1535
+硬件类型	ying jian lei xing	1537
+硬件消息钩子	ying jian xiao xi gou zi	950
+硬盘驱动器	ying pan qu dong qi	2369
+硬盘信息	ying pan xin xi	2284
+映射到内存	ying she dao nei cun	440
+映射网络驱动器	ying she wang luo qu dong qi	2431
+映射资源	ying she zi yuan	465
+英文	ying wen	2490
+英文识别	ying wen shi bie	1595
+影像框	ying xiang kuang	3035
+影像文件名	ying xiang wen jian ming	634
+应用接口支持库	ying yong jie kou zhi chi ku	2482
+用户列表被选择	yong hu lie biao bei xuan ze	6
+用户密码	yong hu mi ma	1446
+用户名	yong hu ming	1447
+用户帐号	yong hu zhang hao	2385
+右按钮被单击	you an niu bei dan ji	671
+右边	you bian	2324
+右边对齐	you bian dui qi	1791
+右边距	you bian ju	2904
+右边空	you bian kong	2947
+右边框	you bian kuang	2535
+右边缩进	you bian suo jin	622
+右边右移	you bian you yi	1783
+右边左移	you bian zuo yi	1784
+邮槽服务器	you cao fu wu qi	447
+邮槽客户机	you cao ke hu ji	445
+右单元格	you dan yuan ge	2526
+右对齐	you dui qi	2117
+有符号字节字段	you fu hao zi jie zi duan	1126
+右光标键	you guang biao jian	2611
+右键菜单	you jian cai dan	865
+右键单击	you jian dan ji	2381
+右键单击表项	you jian dan ji biao xiang	2131
+右键单击项目	you jian dan ji xiang mu	2210
+邮件发送	you jian fa song	2115
+邮件接收	you jian jie shou	1750
+邮件接收支持库	you jian jie shou zhi chi ku	1751
+右键双击	you jian shuang ji	2380
+右箭头	you jian tou	1840
+右箭头横线	you jian tou heng xian	1823
+邮件信息	you jian xin xi	1737
+右三角	you san jiao	1886
+右上箭头横环线	you shang jian tou heng huan xian	1808
+右上箭头横折线	you shang jian tou heng zhe xian	1800
+右上箭头竖环线	you shang jian tou shu huan xian	1804
+右上箭头竖折线	you shang jian tou shu zhe xian	1796
+右上箭头直角线	you shang jian tou zhi jiao xian	1812
+右上直角线	you shang zhi jiao xian	1816
+有无边框	you wu bian kuang	1247
+游戏控制器	you xi kong zhi qi	2393
+右下箭头横环线	you xia jian tou heng huan xian	1807
+右下箭头横折线	you xia jian tou heng zhe xian	1799
+右下箭头竖环线	you xia jian tou shu huan xian	1803
+右下箭头竖折线	you xia jian tou shu zhe xian	1795
+右下箭头直角线	you xia jian tou zhi jiao xian	1811
+右下直角线	you xia zhi jiao xian	1815
+右移	you yi	3550
+右引号	you yin hao	2719
+右中括号键	you zhong kuo hao jian	2601
+右转	you zhuan	1665
+预定义过程	yu ding yi guo cheng	1866
+语句	yu ju	1163
+预览	yu lan	1259
+雨水	yu shui	899
+语言	yu yan	2288
+语音识别	yu yin shi bie	1602
+远程登录历史记录	yuan cheng deng lu li shi ji lu	2354
+远程服务	yuan cheng fu wu	1769
+远程服务支持库	yuan cheng fu wu zhi chi ku	1770
+圆点键	yuan dian jian	2605
+源端口	yuan duan kou	1550
+圆角横向尺寸	yuan jiao heng xiang chi cun	836
+圆角矩形	yuan jiao ju xing	1889
+圆角矩形标注	yuan jiao ju xing biao zhu	1846
+圆角右箭头	yuan jiao you jian tou	1833
+圆角纵向尺寸	yuan jiao zong xiang chi cun	835
+原始套接字	yuan shi tao jie zi	1568
+源文件名	yuan wen jian ming	2291
+圆柱形	yuan zhu xing	1881
+圆锥形	yuan zhui xing	1880
+越出边界	yue chu bian jie	528
+阅读顺序	yue du shun xu	1969
+月份	yue fen	2650
+月历	yue li	3023
+运行	yun xing	3404
+运行宏	yun xing hong	2001
+运行中的自动匹配历史记录	yun xing zhong de zi dong pi pei li shi ji lu	2357
+允许	yun xu	3065
+允许编辑	yun xu bian ji	3029
+允许编辑文本	yun xu bian ji wen ben	1935
+允许重画	yun xu chong hua	3247
+允许多行	yun xu duo hang	2187
+允许多行表头	yun xu duo hang biao tou	3042
+允许滚动	yun xu gun dong	1936
+允许空值	yun xu kong zhi	1155
+允许碰撞	yun xu peng zhuang	508
+允许删除	yun xu shan chu	2798
+允许事件	yun xu shi jian	2017
+允许添加	yun xu tian jia	2799
+允许调整行高	yun xu tiao zheng hang gao	368
+允许调整列宽	yun xu tiao zheng lie kuan	367
+允许透明	yun xu tou ming	2992
+允许拖动跟踪	yun xu tuo dong gen zong	3057
+允许选择	yun xu xuan ze	3050
+允许选择多天	yun xu xuan ze duo tian	3017
+允许选择多项	yun xu xuan ze duo xiang	3070
+允许选择块	yun xu xuan ze kuai	2875
+允许用户调节	yun xu yong hu tiao jie	696
+允许右键菜单	yun xu you jian cai dan	1934
+允许粘贴扩展	yun xu zhan tie kuo zhan	2870
+在任务条中显示	zai ren wu tiao zhong xian shi	3213
+载入	zai ru	3366
+载入库	zai ru ku	244
+载入数据	zai ru shu ju	1588
+载入图片	zai ru tu pian	3355
+载入文件	zai ru wen jian	1589
+暂停	zan ting	3370
+暂停发音	zan ting fa yin	1608
+藏蓝	zang lan	2700
+藏青	zang qing	2716
+增加标志	zeng jia biao zhi	94
+增加文档引用	zeng jia wen dang yin yong	79
+增加线程	zeng jia xian cheng	1470
+增加新任务	zeng jia xin ren wu	1473
+增减日期	zeng jian ri qi	925
+增减时间	zeng jian shi jian	3496
+摘录	zhai lu	1852
+粘贴	zhan tie	2880
+粘贴到光标处	zhan tie dao guang biao chu	2881
+帐本	zhang ben	2500
+帐号	zhang hao	2044
+折角形	zhe jiao xing	1877
+帧类型	zhen lei xing	1538
+振铃	zhen ling	202
+振铃之前	zhen ling zhi qian	197
+正常标题颜色	zheng chang biao ti yan se	715
+正常表头底色	zheng chang biao tou di se	719
+正常渐变起始色	zheng chang jian bian qi shi se	708
+正常图片	zheng chang tu pian	2786
+整除	zheng chu	3587
+整行选择	zheng hang xuan ze	2148
+整数型	zheng shu xing	2658
+整数型字段	zheng shu xing zi duan	1133
+正五边形	zheng wu bian xing	1882
+正向搜索	zheng xiang sou suo	1116
+正则表达式	zheng ze biao da shi	1779
+正则表达式支持库	zheng ze biao da shi zhi chi ku	1780
+置背景色	zhi bei jing se	2851
+置编辑框	zhi bian ji kuang	975
+置边距	zhi bian ju	2843
+置变体型类型	zhi bian ti xing lei xing	240
+置边线	zhi bian xian	1925
+置表格	zhi biao ge	1958
+置标题	zhi biao ti	2177
+置表头行数	zhi biao tou hang shu	2863
+置表头列数	zhi biao tou lie shu	2861
+置表项数值	zhi biao xiang shu zhi	2174
+置标志背景色	zhi biao zhi bei jing se	95
+置标志前景色	zhi biao zhi qian jing se	96
+置播放速率	zhi bo fang su lv	1001
+置布局	zhi bu ju	553
+置菜单底图	zhi cai dan di tu	793
+置菜单名称	zhi cai dan ming cheng	802
+置菜单数值	zhi cai dan shu zhi	799
+置菜单提示文本	zhi cai dan ti shi wen ben	782
+置菜单图标	zhi cai dan tu biao	795
+置层次	zhi ceng ci	589
+置撤消重复操作	zhi che xiao chong fu cao zuo	164
+置程序	zhi cheng xu	2002
+置程序信息	zhi cheng xu xin xi	1699
+支持库	zhi chi ku	2024
+支持库代号	zhi chi ku dai hao	872
+置重复次数	zhi chong fu ci shu	1003
+置初始属性	zhi chu shi shu xing	2826
+置传址属性	zhi chuan zhi shu xing	227
+置词法分析器	zhi ci fa fen xi qi	119
+置磁盘卷标	zhi ci pan juan biao	3448
+置错误提示管理	zhi cuo wu ti shi guan li	3350
+置打印表头	zhi da yin biao tou	381
+置打印设置	zhi da yin she zhi	2805
+置打印页边距	zhi da yin ye bian ju	374
+置代理服务器	zhi dai li fu wu qi	2108
+置单元格背景颜色	zhi dan yuan ge bei jing yan se	391
+置单元格边框	zhi dan yuan ge bian kuang	1985
+置单元格文字颜色	zhi dan yuan ge wen zi yan se	393
+置单元格小数位数	zhi dan yuan ge xiao shu wei shu	383
+置当前编码器	zhi dang qian bian ma qi	256
+置当前对象	zhi dang qian dui xiang	1630
+置当前激活窗口	zhi dang qian ji huo chuang kou	966
+置当前库	zhi dang qian ku	3335
+置当前路径	zhi dang qian lu jing	869
+置当前索引	zhi dang qian suo yin	3321
+置等待鼠标	zhi deng dai shu biao	3391
+置顶端可见项目	zhi ding duan ke jian xiang mu	3098
+指定对象图片索引	zhi ding dui xiang tu pian suo yin	1631
+指定渐变起始色	zhi ding jian bian qi shi se	709
+指定时间	zhi ding shi jian	3484
+置动画数据	zhi dong hua shu ju	1045
+只读	zhi du	2998
+只读模式	zhi du mo shi	29
+只读权限	zhi du quan xian	1170
+只读文件	zhi du wen jian	2666
+置对齐方式	zhi dui qi fang shi	2839
+置对象角度	zhi dui xiang jiao du	1659
+置风格背景色	zhi feng ge bei jing se	125
+置风格粗体	zhi feng ge cu ti	129
+置风格结束符填充	zhi feng ge jie shu fu tian chong	124
+置风格前景色	zhi feng ge qian jing se	126
+置风格位	zhi feng ge wei	177
+置风格下划线	zhi feng ge xia hua xian	127
+置风格斜体	zhi feng ge xie ti	128
+置风格字符集	zhi feng ge zi fu ji	123
+置风格字体	zhi feng ge zi ti	131
+置风格字体大小	zhi feng ge zi ti da xiao	130
+置父窗口	zhi fu chuang kou	3232
+置附加文本	zhi fu jia wen ben	586
+置高度	zhi gao du	1019
+置高亮向导	zhi gao liang xiang dao	99
+置格式	zhi ge shi	293
+置公历日期	zhi gong li ri qi	926
+置关键字	zhi guan jian zi	117
+置光标	zhi guang biao	2889
+置光标位置	zhi guang biao wei zhi	981
+置行高	zhi hang gao	2859
+置横向缩放比例	zhi heng xiang suo fang bi li	1015
+置横向位置	zhi heng xiang wei zhi	1022
+置横坐标	zhi heng zuo biao	1658
+置货币前缀	zhi huo bi qian zhui	386
+置计算公式	zhi ji suan gong shi	384
+置加锁重试时间	zhi jia suo chong shi shi jian	3315
+置剪辑板文本	zhi jian ji ban wen ben	3402
+置焦点项目	zhi jiao dian xiang mu	3072
+置角度	zhi jiao du	577
+直角上箭头	zhi jiao shang jian tou	1832
+直接访问存贮器	zhi jie fang wen cun zhu qi	1848
+直接模式	zhi jie mo shi	1527
+置静音	zhi jing yin	306
+置句柄	zhi ju bing	270
+置可视	zhi ke shi	1017
+置可选择	zhi ke xuan ze	985
+置可用内存	zhi ke yong nei cun	1376
+置宽度	zhi kuan du	2199
+置扩展风格文本	zhi kuo zhan feng ge wen ben	113
+置累加公式	zhi lei jia gong shi	373
+置类型	zhi lei xing	2855
+置连接	zhi lian jie	1203
+置亮度	zhi liang du	592
+置列标题	zhi lie biao ti	2158
+置列宽	zhi lie kuan	2857
+置列类型	zhi lie lei xing	388
+置列图片	zhi lie tu pian	2157
+置密码方式	zhi mi ma fang shi	2837
+置名称	zhi ming cheng	1024
+置默认风格	zhi mo ren feng ge	133
+置默认字符格式	zhi mo ren zi fu ge shi	614
+置某点颜色	zhi mou dian yan se	1582
+置某点颜色索引	zhi mou dian yan se suo yin	1581
+置内存增量	zhi nei cun zeng liang	1375
+置农历日期	zhi nong li ri qi	927
+置旁注栏宽度	zhi pang zhu lan kuan du	145
+置旁注栏类型	zhi pang zhu lan lei xing	147
+置旁注栏响应鼠标	zhi pang zhu lan xiang ying shu biao	141
+置旁注栏掩码	zhi pang zhu lan yan ma	143
+置旁注栏右像素长	zhi pang zhu lan you xiang su chang	137
+置旁注栏左像素长	zhi pang zhu lan zuo xiang su chang	139
+置碰撞管理	zhi peng zhuang guan li	579
+置起始选择位置	zhi qi shi xuan ze wei zhi	979
+置日期格式	zhi ri qi ge shi	387
+置入代码	zhi ru dai ma	3343
+置深度	zhi shen du	995
+置生存时间	zhi sheng cun shi jian	556
+置实数	zhi shi shu	1356
+置数据	zhi shu ju	2833
+置数据库密码	zhi shu ju ku mi ma	3265
+置属性	zhi shu xing	228
+置竖坐标	zhi shu zuo biao	1657
+置随机数种子	zhi sui ji shu zhong zi	3569
+置缩进	zhi suo jin	109
+置缩进数目	zhi suo jin shu mu	2175
+置提示底色	zhi ti shi di se	497
+置提示时间	zhi ti shi shi jian	495
+置提示图标	zhi ti shi tu biao	494
+置提示文本	zhi ti shi wen ben	2200
+置提示文本色	zhi ti shi wen ben se	496
+置提示字体	zhi ti shi zi ti	493
+置填充底纹类型	zhi tian chong di wen lei xing	1913
+置填充风格	zhi tian chong feng ge	1914
+置填充色	zhi tian chong se	1912
+置填充图片	zhi tian chong tu pian	1911
+置透明度	zhi tou ming du	1011
+置图片	zhi tu pian	2234
+置图片显示方式	zhi tu pian xian shi fang shi	385
+置图形	zhi tu xing	976
+置图形类型	zhi tu xing lei xing	1909
+置退格去缩进	zhi tui ge qu suo jin	107
+置托盘图标	zhi tuo pan tu biao	3234
+置外形图片	zhi wai xing tu pian	3236
+置位置和大小	zhi wei zhi he da xiao	1928
+置文本	zhi wen ben	2835
+置文本对齐方式	zhi wen ben dui qi fang shi	1923
+置文本风格	zhi wen ben feng ge	114
+置文本色	zhi wen ben se	2853
+置文本输入格式	zhi wen ben shu ru ge shi	2841
+置文本颜色	zhi wen ben yan se	991
+置文本字体	zhi wen ben zi ti	1921
+置文本字体属性	zhi wen ben zi ti shu xing	1920
+置文档指针	zhi wen dang zhi zhen	81
+置文件属性	zhi wen jian shu xing	3433
+置物体位置	zhi wu ti wei zhi	584
+置下拉框宽度	zhi xia la kuang kuan du	423
+置线程池大小	zhi xian cheng chi da xiao	1768
+置现行目录	zhi xian xing mu lu	2103
+置现行时间	zhi xian xing shi jian	3482
+置现行选中项	zhi xian xing xuan zhong xiang	428
+置项目名称	zhi xiang mu ming cheng	801
+置项目数值	zhi xiang mu shu zhi	3095
+置项目提示文本	zhi xiang mu ti shi wen ben	780
+置项目图片	zhi xiang mu tu pian	797
+置项目文本	zhi xiang mu wen ben	3093
+置像素点阵	zhi xiang su dian zhen	1576
+置销毁声音	zhi xiao hui sheng yin	578
+置写出位置	zhi xie chu wei zhi	3140
+只写权限	zhi xie quan xian	1169
+执行	zhi xing	2771
+置行高度	zhi xing gao du	425
+置行缩进	zhi xing suo jin	105
+置行状态	zhi xing zhuang tai	112
+执行子程序	zhi xing zi cheng xu	484
+置虚数	zhi xu shu	1355
+置选择区段落格式	zhi xuan ze qu duan luo ge shi	610
+置选择区字符格式	zhi xuan ze qu zi fu ge shi	612
+置选中图片	zhi xuan zhong tu pian	2233
+置旋转跟随	zhi xuan zhuan gen sui	574
+置旋转角度	zhi xuan zhuan jiao du	1918
+置颜色表	zhi yan se biao	1578
+置音量	zhi yin liang	302
+置阴影	zhi yin ying	1916
+置语句备注	zhi yu ju bei zhu	1700
+置乐器	zhi yue qi	287
+置允许多行	zhi yun xu duo hang	983
+置在开始时取消自动完成	zhi zai kai shi shi qu xiao zi dong wan cheng	67
+制造商	zhi zao shang	2321
+纸张方向	zhi zhang fang xiang	2907
+纸张高度	zhi zhang gao du	2254
+纸张宽度	zhi zhang kuan du	2255
+纸张类型	zhi zhang lei xing	2908
+置折叠标志	zhi zhe die biao zhi	38
+置折叠层	zhi zhe die ceng	40
+置折叠扩展	zhi zhe die kuo zhan	35
+置折叠旁注栏加亮区颜色	zhi zhe die pang zhu lan jia liang qu yan se	134
+置折叠旁注栏主颜色	zhi zhe die pang zhu lan zhu yan se	135
+指针到文本	zhi zhen dao wen ben	3499
+指针到字节集	zhi zhen dao zi jie ji	3453
+置只读	zhi zhi du	987
+置只读方式	zhi zhi du fang shi	2801
+置指示器风格	zhi zhi shi qi feng ge	86
+置指示器前景色	zhi zhi shi qi qian jing se	84
+置状态图片	zhi zhuang tai tu pian	2176
+置自定义图形	zhi zi ding yi tu xing	1907
+置自定义纸张类型	zhi zi ding yi zhi zhang lei xing	2961
+置自动换行	zhi zi dong huan hang	984
+置自动完成单选	zhi zi dong wan cheng dan xuan	64
+置自动完成分隔符	zhi zi dong wan cheng fen ge fu	71
+置自动完成区分大小写	zhi zi dong wan cheng qu fen da xiao xie	62
+置自动完成填充字符	zhi zi dong wan cheng tian chong zi fu	65
+置自动完成隐藏	zhi zi dong wan cheng yin cang	60
+置自动完成最大行数	zhi zi dong wan cheng zui da hang shu	58
+置自动完成最大宽度	zhi zi dong wan cheng zui da kuan du	56
+置子夹名称	zhi zi jia ming cheng	3044
+置子夹数值	zhi zi jia shu zhi	739
+置子夹提示文本	zhi zi jia ti shi wen ben	733
+置子夹头底色	zhi zi jia tou di se	737
+置子夹头底图	zhi zi jia tou di tu	735
+置子夹图标	zhi zi jia tu biao	741
+置字节集	zhi zi jie ji	1373
+置字体	zhi zi ti	990
+置字体尺寸	zhi zi ti chi cun	2847
+置字体名	zhi zi ti ming	2849
+置字体属性	zhi zi ti shu xing	2845
+置纵向缩放比例	zhi zong xiang suo fang bi li	1013
+置纵向位置	zhi zong xiang wei zhi	1020
+置族	zhi zu	1506
+置组件属性	zhi zu jian shu xing	1701
+置坐标	zhi zuo biao	1656
+置作者信息	zhi zuo zhe xin xi	1698
+重定义数组	zhong ding yi shu zu	3543
+中间对齐	zhong jian dui qi	2118
+中台	zhong tai	679
+中台图片显示方式	zhong tai tu pian xian shi fang shi	676
+中台图片组	zhong tai tu pian zu	677
+中文	zhong wen	2491
+中文识别	zhong wen shi bie	1596
+中右	zhong you	2549
+终止	zhong zhi	1862
+终止进程	zhong zhi jin cheng	2470
+中中	zhong zhong	2550
+中左	zhong zuo	2551
+轴标题	zhou biao ti	1954
+轴标注数量	zhou biao zhu shu liang	1227
+轴单位	zhou dan wei	1239
+轴刻度数	zhou ke du shu	1235
+周期事件	zhou qi shi jian	2968
+轴首	zhou shou	1952
+轴尾	zhou wei	1951
+轴最大值	zhou zui da zhi	1236
+注册热键	zhu ce re jian	488
+注册拖放控件	zhu ce tuo fang kong jian	1405
+注册项是否存在	zhu ce xiang shi fou cun zai	3383
+注册邮件接收回调函数	zhu ce you jian jie shou hui tiao han shu	1739
+主机	zhu ji	192
+柱面数	zhu mian shu	2277
+主视图	zhu shi tu	917
+主音量	zhu yin liang	266
+柱状图控件	zhu zhuang tu kong jian	1248
+转换	zhuan huan	253
+转换方式	zhuan huan fang shi	3174
+转换可执行文件数据	zhuan huan ke zhi xing wen jian shu ju	471
+转换位深度	zhuan huan wei shen du	1585
+转换为易动画	zhuan huan wei yi dong hua	1051
+转换为主机名	zhuan huan wei zhu ji ming	3259
+转换文档	zhuan huan wen dang	668
+转换行结束符	zhuan huan xing jie shu fu	148
+转接	zhuan jie	215
+转向	zhuan xiang	575
+撰写邮件	zhuan xie you jian	2437
+状态条	zhuang tai tiao	2209
+状态图片组	zhuang tai tu pian zu	2145
+追加文本	zhui jia wen ben	181
+准备	zhun bei	1861
+桌面	zhuo mian	2340
+着色	zhuo se	32
+子程序	zi cheng xu	1689
+子程序参数	zi cheng xu can shu	1685
+子程序指针型	zi cheng xu zhi zhen xing	2653
+自定义	zi ding yi	1896
+自定义超链接被单击	zi ding yi chao lian jie bei dan ji	814
+自定义对象图片组	zi ding yi dui xiang tu pian zu	1633
+自定义货币	zi ding yi huo bi	330
+自定义图形支持库	zi ding yi tu xing zhi chi ku	1950
+自定义型字段	zi ding yi xing zi duan	1121
+自动背景高度	zi dong bei jing gao du	695
+自动拨号历史记录	zi dong bo hao li shi ji lu	2358
+自动重画	zi dong chong hua	3127
+自动方向键移动	zi dong fang xiang jian yi dong	565
+自动换行	zi dong huan hang	603
+自动密码历史记录	zi dong mi ma li shi ji lu	2360
+自动排列图标	zi dong pai lie tu biao	2154
+自动排序	zi dong pai xu	3088
+自动判别	zi dong pan bie	2618
+自动启动	zi dong qi dong	2914
+自动前进	zi dong qian jin	569
+自动前进停止	zi dong qian jin ting zhi	527
+自动取透明色	zi dong qu tou ming se	519
+自动伸缩中台	zi dong shen suo zhong tai	673
+自动填充	zi dong tian chong	2898
+自动添加表格线	zi dong tian jia biao ge xian	2897
+自动调整	zi dong tiao zheng	1986
+自动停留时间	zi dong ting liu shi jian	828
+自动完成	zi dong wan cheng	73
+自动完成活动	zi dong wan cheng huo dong	75
+自动完成件	zi dong wan cheng jian	415
+自动完成起点	zi dong wan cheng qi dian	74
+自动完成停止	zi dong wan cheng ting zhi	72
+自动完成项被选择	zi dong wan cheng xiang bei xuan ze	4
+自动完成选择	zi dong wan cheng xuan ze	69
+自动旋转	zi dong xuan zhuan	567
+自动旋转停止	zi dong xuan zhuan ting zhi	526
+字段	zi duan	1134
+字段被缓存	zi duan bei huan cun	1150
+字段被延迟	zi duan bei yan chi	1159
+字段可写入	zi duan ke xie ru	1158
+字段是否为空	zi duan shi fou wei kong	1178
+字段数量	zi duan shu liang	1173
+字段信息	zi duan xin xi	2940
+字符	zi fu	3515
+字符串	zi fu chuan	2034
+字符格式	zi fu ge shi	628
+字符集	zi fu ji	432
+字符型字段	zi fu xing zi duan	1145
+紫红	zi hong	2712
+子夹被改变	zi jia bei gai bian	3036
+子夹管理	zi jia guan li	3041
+子夹是否被禁止	zi jia shi fou bei jin zhi	730
+子夹是否被隐藏	zi jia shi fou bei yin cang	728
+子夹头被单击	zi jia tou bei dan ji	701
+子夹头被点燃	zi jia tou bei dian ran	700
+子夹头被右击	zi jia tou bei you ji	699
+子夹头高度	zi jia tou gao du	726
+字节集操作	zi jie ji cao zuo	3467
+字节集到单元格	zi jie ji dao dan yuan ge	2812
+字节集数据	zi jie ji shu ju	2555
+字节集替换	zi jie ji ti huan	3458
+字节集型	zi jie ji xing	2578
+字节集压缩	zi jie ji ya suo	1627
+字节集字段处理	zi jie ji zi duan chu li	2789
+字节型	zi jie xing	2660
+字节型字段	zi jie xing zi duan	1122
+子类型码	zi lei xing ma	1543
+资料带	zi liao dai	1855
+子目录	zi mu lu	2663
+自年首天数	zi nian shou tian shu	2645
+自年首周数	zi nian shou zhou shu	2649
+紫色	zi se	2693
+字体	zi ti	3193
+字体被选择	zi ti bei xuan ze	430
+字体穿透线	zi ti chuan tou xian	1963
+字体大小	zi ti da xiao	3187
+字体加粗	zi ti jia cu	1967
+字体名	zi ti ming	1965
+字体名称	zi ti ming cheng	3186
+字体倾斜	zi ti qing xie	1966
+字体上标	zi ti shang biao	1961
+字体数量	zi ti shu liang	431
+字体文件夹	zi ti wen jian jia	2394
+字体下标	zi ti xia biao	1962
+字体下标线	zi ti xia biao xian	1960
+字体颜色	zi ti yan se	2972
+字体阴影	zi ti yin ying	1964
+子网掩码	zi wang yan ma	2272
+资源	zi yuan	2495
+资源类型	zi yuan lei xing	459
+子字节集替换	zi zi jie ji ti huan	3457
+总长度	zong chang du	1556
+总物理内存	zong wu li nei cun	2379
+纵向	zong xiang	2512
+纵向对齐方式	zong xiang dui qi fang shi	3107
+纵向分辨率	zong xiang fen bian lv	1266
+纵向滚动条	zong xiang gun dong tiao	3056
+纵向绘画单位	zong xiang hui hua dan wei	2485
+纵向偏移	zong xiang pian yi	627
+纵向像素单位	zong xiang xiang su dan wei	2483
+总虚拟内存	zong xu ni nei cun	2377
+总页面文件	zong ye mian wen jian	2375
+总在最前	zong zai zui qian	3210
+组合	zu he	1898
+组合框	zu he kuang	3100
+组合框类型	zu he kuang lei xing	421
+组件按下某键	zu jian an xia mou jian	1030
+组件放开某键	zu jian fang kai mou jian	1029
+组件获得焦点	zu jian huo de jiao dian	1032
+组件失去焦点	zu jian shi qu jiao dian	1031
+组件鼠标被移动	zu jian shu biao bei yi dong	1035
+组件鼠标进入	zu jian shu biao jin ru	1034
+组件鼠标离开	zu jian shu biao li kai	1033
+组件鼠标右键被按下	zu jian shu biao you jian bei an xia	1037
+组件鼠标右键被放开	zu jian shu biao you jian bei fang kai	1036
+组件鼠标左键被按下	zu jian shu biao zuo jian bei an xia	1040
+组件鼠标左键被放开	zu jian shu biao zuo jian bei fang kai	1039
+组件鼠标左键被双击	zu jian shu biao zuo jian bei shuang ji	1038
+组件字符输入	zu jian zi fu shu ru	1028
+最大化按钮	zui da hua an niu	3223
+最大化激活	zui da hua ji huo	2681
+最大日期	zui da ri qi	3025
+最大位置	zui da wei zhi	3060
+最大文本长度	zui da wen ben chang du	3089
+最大页号	zui da ye hao	2953
+最大允许长度	zui da yun xu chang du	3180
+最多选择天数	zui duo xuan ze tian shu	3016
+最高层	zui gao ceng	2596
+最后错误	zui hou cuo wu	1208
+最后服务包	zui hou fu wu bao	2310
+最小化按钮	zui xiao hua an niu	3222
+最小化不激活	zui xiao hua bu ji huo	2679
+最小化激活	zui xiao hua ji huo	2682
+最小日期	zui xiao ri qi	3026
+最小位置	zui xiao wei zhi	3061
+最小页号	zui xiao ye hao	2954
+左按钮被单击	zuo an niu bei dan ji	672
+左边	zuo bian	2326
+左边对齐	zuo bian dui qi	1792
+左边距	zuo bian ju	2906
+左边空	zuo bian kong	2949
+左边框	zuo bian kuang	2537
+左单元格	zuo dan yuan ge	2528
+左对齐	zuo dui qi	2119
+左光标键	zuo guang biao jian	2613
+左键单击	zuo jian dan ji	2383
+左键单击表项	zuo jian dan ji biao xiang	2132
+左键双击	zuo jian shuang ji	2382
+左箭头	zuo jian tou	1841
+左箭头横线	zuo jian tou heng xian	1824
+左上箭头横环线	zuo shang jian tou heng huan xian	1810
+左上箭头横折线	zuo shang jian tou heng zhe xian	1802
+左上箭头竖环线	zuo shang jian tou shu huan xian	1806
+左上箭头竖折线	zuo shang jian tou shu zhe xian	1798
+左上箭头直角线	zuo shang jian tou zhi jiao xian	1814
+左上角	zuo shang jiao	329
+左上直角线	zuo shang zhi jiao xian	1818
+左下箭头横环线	zuo xia jian tou heng huan xian	1809
+左下箭头横折线	zuo xia jian tou heng zhe xian	1801
+左下箭头竖环线	zuo xia jian tou shu huan xian	1805
+左下箭头竖折线	zuo xia jian tou shu zhe xian	1797
+左下箭头直角线	zuo xia jian tou zhi jiao xian	1813
+左下直角线	zuo xia zhi jiao xian	1817
+左移	zuo yi	3551
+左引号	zuo yin hao	2720
+左右箭头	zuo you jian tou	1837
+左中括号键	zuo zhong kuo hao jian	2602
+左转	zuo zhuan	1666

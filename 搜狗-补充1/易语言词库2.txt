@@ -1,0 +1,3261 @@
+# 词库名称: 易语言词库2
+# 词库分类: 个人专用
+# 词库描述: 搜异者制作
+# 词条样例: 标志样式加号、风格行号、风格ASP默认、风格不匹配括号、标志样式省略箭头
+# 解析词数: 3254
+# 解析异常: 0
+
+按分类	an fen lei	399
+按分类元素	an fen lei yuan su	397
+按钮创建	an niu chuang jian	785
+按钮事件	an niu shi jian	639
+按钮添加动作	an niu tian jia dong zuo	782
+按钮添加声音	an niu tian jia sheng yin	781
+按钮添加图形	an niu tian jia tu xing	783
+按钮图形实例倾斜	an niu tu xing shi li qing xie	774
+按钮图形实例缩放	an niu tu xing shi li suo fang	775
+按钮图形实例添加滤镜	an niu tu xing shi li tian jia lv jing	779
+按钮图形实例旋转	an niu tu xing shi li xuan zhuan	776
+按钮图形实例移动	an niu tu xing shi li yi dong	777
+按钮图形实例置混合模式	an niu tu xing shi li zhi hun he mo shi	778
+按钮图形实例置所在层	an niu tu xing shi li zhi suo zai ceng	780
+按钮显示设置	an niu xian shi she zhi	2469
+按钮显示状态	an niu xian shi zhuang tai	643
+按钮销毁	an niu xiao hui	784
+按系列	an xi lie	400
+按系列元素	an xi lie yuan su	398
+按下某键	an xia mou jian	629
+按下鼠标	an xia shu biao	631
+安装目录	an zhuang mu lu	3129
+八号	ba hao	2810
+百分数	bai fen shu	1031
+百分数值	bai fen shu zhi	1027
+半个月	ban ge yue	977
+办公组件	ban gong zu jian	3061
+办公组件支持库	ban gong zu jian zhi chi ku	3062
+半年	ban nian	974
+版式	ban shi	450
+版式模式	ban shi mo shi	2678
+绑定参数	bang ding can shu	560
+绑定纹理号	bang ding wen li hao	300
+保持编辑模式	bao chi bian ji mo shi	2522
+保持当前值	bao chi dang qian zhi	183
+保持高亮选中	bao chi gao liang xuan zhong	2515
+保持连接	bao chi lian jie	2636
+保存到临时文件	bao cun dao lin shi wen jian	3058
+保存到图元文件	bao cun dao tu yuan wen jian	2278
+保存到位图文件	bao cun dao wei tu wen jian	2280
+保存到增强型图元文件	bao cun dao zeng qiang xing tu yuan wen jian	2279
+保存区域到图元文件	bao cun qu yu dao tu yuan wen jian	2277
+保存文件完毕	bao cun wen jian wan bi	3006
+保护文档	bao hu wen dang	3055
+保留位	bao liu wei	222
+保密服务器	bao mi fu wu qi	3068
+保密客户端	bao mi ke hu duan	3065
+保密通讯支持库	bao mi tong xun zhi chi ku	3069
+被点燃	bei dian ran	3152
+被关闭	bei guan bi	3151
+被滚动	bei gun dong	1072
+背景被单击	bei jing bei dan ji	1082
+背景墙尺寸	bei jing qiang chi cun	1282
+背景墙画笔粗细	bei jing qiang hua bi cu xi	1276
+背景墙画笔可视	bei jing qiang hua bi ke shi	1277
+背景墙画笔类型	bei jing qiang hua bi lei xing	1278
+背景墙画笔设置	bei jing qiang hua bi she zhi	1281
+背景墙画笔颜色	bei jing qiang hua bi yan se	1280
+背景墙画笔样式	bei jing qiang hua bi yang shi	1279
+背景墙设置	bei jing qiang she zhi	1287
+背景墙刷子类型	bei jing qiang shua zi lei xing	1284
+背景墙刷子设置	bei jing qiang shua zi she zhi	1286
+背景墙刷子颜色	bei jing qiang shua zi yan se	1285
+背景墙颜色	bei jing qiang yan se	1283
+背景图片内部显示	bei jing tu pian nei bu xian shi	1600
+背面	bei mian	195
+被强迫调整尺寸	bei qiang po tiao zheng chi cun	1079
+被三维缩放	bei san wei suo fang	1070
+被移动	bei yi dong	834
+备注大纲	bei zhu da gang	424
+备注打印方向	bei zhu da yin fang xiang	514
+备注页	bei zhu ye	426
+备注与字节集型	bei zhu yu zi jie ji xing	1
+闭合线段	bi he xian duan	211
+比较书签	bi jiao shu qian	2594
+变暗	bian an	612
+变长文本型	bian chang wen ben xing	5
+编辑按钮被按下	bian ji an niu bei an xia	869
+编辑框被双击	bian ji kuang bei shuang ji	909
+编辑框被选择字符数	bian ji kuang bei xuan ze zi fu shu	926
+编辑框创建	bian ji kuang chuang jian	725
+编辑框对齐方式	bian ji kuang dui qi fang shi	650
+编辑框起始选择位置	bian ji kuang qi shi xuan ze wei zhi	927
+编辑框属性	bian ji kuang shu xing	649
+编辑框显示字段	bian ji kuang xian shi zi duan	2361
+编辑框销毁	bian ji kuang xiao hui	724
+编辑框置尺寸	bian ji kuang zhi chi cun	723
+编辑框置对齐方式	bian ji kuang zhi dui qi fang shi	718
+编辑框置行间距	bian ji kuang zhi hang jian ju	720
+编辑框置两侧空白宽度	bian ji kuang zhi liang ce kong bai kuan du	721
+编辑框置名称	bian ji kuang zhi ming cheng	722
+编辑框置内边距	bian ji kuang zhi nei bian ju	719
+编辑框最大允许长度	bian ji kuang zui da yun xu chang du	928
+编辑文档	bian ji wen dang	3139
+边距	bian ju	902
+边框风格	bian kuang feng ge	1153
+边框可视	bian kuang ke shi	1152
+边框宽度	bian kuang kuan du	1151
+边框类型	bian kuang lei xing	2406
+边框设置	bian kuang she zhi	1155
+边框样式	bian kuang yang shi	1154
+变亮	bian liang	613
+编码转换	bian ma zhuan huan	3073
+编码转换打开	bian ma zhuan huan da kai	3072
+编码转换关闭	bian ma zhuan huan guan bi	3070
+编码转换支持库	bian ma zhuan huan zhi chi ku	3074
+编码转换转换	bian ma zhuan huan zhuan huan	3071
+编译并且执行列表	bian yi bing qie zhi xing lie biao	86
+编译列表	bian yi lie biao	87
+表格被单击	biao ge bei dan ji	860
+表格被双击	biao ge bei shuang ji	859
+表格高度	biao ge gao du	958
+表格接口	biao ge jie kou	2908
+表格宽度	biao ge kuan du	957
+表格设置	biao ge she zhi	871
+表更改信息类型	biao geng gai xin xi lei xing	33
+标记边界线	biao ji bian jie xian	343
+标记跳转	biao ji tiao zhuan	2587
+标签百分数	biao qian bai fen shu	1030
+标签百分数值	biao qian bai fen shu zhi	1026
+标签被单击	biao qian bei dan ji	2315
+标签被双击	biao qian bei shuang ji	2314
+标签创建	biao qian chuang jian	717
+标签销毁	biao qian xiao hui	716
+标签值	biao qian zhi	1029
+表是否存在	biao shi fou cun zai	588
+标题被改变	biao ti bei gai bian	3191
+标题边框风格	biao ti bian kuang feng ge	1097
+标题边框可视	biao ti bian kuang ke shi	1096
+标题边框宽度	biao ti bian kuang kuan du	1095
+标题边框设置	biao ti bian kuang she zhi	1100
+标题边框颜色	biao ti bian kuang yan se	1099
+标题边框样式	biao ti bian kuang yang shi	1098
+标题大纲	biao ti da gang	421
+标题可视	biao ti ke shi	1093
+标题宽度约束	biao ti kuan du yue shu	2388
+标题栏颜色	biao ti lan yan se	872
+标题内容	biao ti nei rong	1094
+标题设置	biao ti she zhi	1105
+标题刷子类型	biao ti shua zi lei xing	1101
+标题刷子设置	biao ti shua zi she zhi	1103
+标题刷子颜色	biao ti shua zi yan se	1102
+标题提示文本	biao ti ti shi wen ben	913
+标题调整边框	biao ti tiao zheng bian kuang	1104
+标题位置	biao ti wei zhi	2389
+标题文本颜色	biao ti wen ben yan se	914
+标题字体颜色	biao ti zi ti yan se	2525
+标志	biao zhi	239
+标识文本	biao zhi wen ben	830
+标志样式背景	biao zhi yang shi bei jing	3229
+标志样式点	biao zhi yang shi dian	3228
+标志样式加号	biao zhi yang shi jia hao	3241
+标志样式加号框	biao zhi yang shi jia hao kuang	3238
+标志样式加号圈	biao zhi yang shi jia hao quan	3233
+标志样式减号	biao zhi yang shi jian hao	3242
+标志样式减号框	biao zhi yang shi jian hao kuang	3236
+标志样式减号圈	biao zhi yang shi jian hao quan	3231
+标志样式箭头	biao zhi yang shi jian tou	3247
+标志样式矩形	biao zhi yang shi ju xing	3246
+标志样式空	biao zhi yang shi kong	3244
+标志样式连接式加号框	biao zhi yang shi lian jie shi jia hao kuang	3237
+标志样式连接式加号圈	biao zhi yang shi lian jie shi jia hao quan	3232
+标志样式连接式减号框	biao zhi yang shi lian jie shi jian hao kuang	3235
+标志样式连接型减号圈	biao zhi yang shi lian jie xing jian hao quan	3230
+标志样式省略箭头	biao zhi yang shi sheng lue jian tou	3245
+标志样式竖线	biao zhi yang shi shu xian	3240
+标志样式下箭头	biao zhi yang shi xia jian tou	3243
+标志样式圆角矩形	biao zhi yang shi yuan jiao ju xing	3248
+标志样式圆形	biao zhi yang shi yuan xing	3249
+标志样式左拐角线	biao zhi yang shi zuo guai jiao xian	3239
+标志样式左折角线	biao zhi yang shi zuo zhe jiao xian	3234
+别名是否显示	bie ming shi fou xian shi	2970
+饼图	bing tu	1065
+饼图排序	bing tu pai xu	1859
+饼图系列取弧度	bing tu xi lie qu hu du	1854
+饼图系列取屏幕位置	bing tu xi lie qu ping mu wei zhi	1856
+饼图系列取切片索引	bing tu xi lie qu qie pian suo yin	1855
+播放后效果	bo fang hou xiao guo	405
+不变暗	bu bian an	404
+不固定键列	bu gu ding jian lie	880
+不规则区域填充	bu gui ze qu yu tian chong	2213
+不考虑	bu kao lv	188
+不提示错误	bu ti shi cuo wu	3126
+不显示进度	bu xian shi jin du	3125
+不询问删除	bu xun wen shan chu	3127
+擦除	ca chu	608
+擦除笔迹	ca chu bi ji	465
+擦除表格线	ca chu biao ge xian	2885
+菜单函数	cai dan han shu	3118
+菜单条点燃颜色	cai dan tiao dian ran yan se	3158
+菜单条目加亮	cai dan tiao mu jia liang	3099
+菜单条目结构	cai dan tiao mu jie gou	3085
+菜单项图片索引	cai dan xiang tu pian suo yin	3154
+菜单项图片组	cai dan xiang tu pian zu	3155
+菜单项字体	cai dan xiang zi ti	3153
+菜单支持库	cai dan zhi chi ku	3119
+裁剪测试	cai jian ce shi	154
+材质颜色	cai zhi yan se	159
+操作	cao zuo	75
+操作累积缓存	cao zuo lei ji huan cun	320
+操作系统界面功能支持库	cao zuo xi tong jie mian gong neng zhi chi ku	3150
+侧面压缩	ce mian ya suo	520
+测试运算	ce shi yun suan	331
+层类型	ceng lei xing	223
+插入菜单条目	cha ru cai dan tiao mu	3098
+插入符号	cha ru fu hao	3047
+插入幻灯片	cha ru huan deng pian	538
+插入换行符	cha ru huan hang fu	2353
+插入记录	cha ru ji lu	2600
+插入记录之前	cha ru ji lu zhi qian	2540
+插入批注	cha ru pi zhu	2863
+插入时间	cha ru shi jian	3049
+插入属性	cha ru shu xing	2738
+插入图表	cha ru tu biao	2912
+插入图片	cha ru tu pian	2913
+插入页脚	cha ru ye jiao	2998
+插入页码	cha ru ye ma	3048
+插入页眉	cha ru ye mei	2999
+插入指定菜单条目	cha ru zhi ding cai dan tiao mu	3097
+查询快捷方式	cha xun kuai jie fang shi	3147
+差异	cha yi	611
+查找表	cha zhao biao	55
+查找饼图	cha zhao bing tu	1861
+查找横值	cha zhao heng zhi	1634
+查找记录	cha zhao ji lu	66
+查找箭头结束横值	cha zhao jian tou jie shu heng zhi	1732
+查找箭头结束纵值	cha zhao jian tou jie shu zong zhi	1713
+查找箭头起始横值	cha zhao jian tou qi shi heng zhi	1770
+查找箭头起始纵值	cha zhao jian tou qi shi zong zhi	1751
+查找库	cha zhao ku	58
+查找气泡	cha zhao qi pao	1653
+查找前一个	cha zhao qian yi ge	2606
+查找行	cha zhao xing	885
+查找用户	cha zhao yong hu	51
+查找字段	cha zhao zi duan	2609
+查找纵值	cha zhao zong zhi	1613
+查找最后一个	cha zhao zui hou yi ge	2607
+拆分单元格	chai fen dan yuan ge	2878
+长备注型	chang bei zhu xing	8
+常量衰减	chang liang shuai jian	136
+尝试锁定	chang shi suo ding	2202
+长整型	chang zheng xing	15
+长字节集型	chang zi jie ji xing	9
+超级菜单	chao ji cai dan	3165
+超级菜单支持库	chao ji cai dan zhi chi ku	3166
+超级加解密支持库	chao ji jia jie mi zhi chi ku	3184
+超文本浏览框	chao wen ben liu lan kuang	3206
+超文本浏览框支持库	chao wen ben liu lan kuang zhi chi ku	3207
+撤销	che xiao	2500
+衬于文字下方	chen yu wen zi xia fang	2952
+乘入矩阵	cheng ru ju zhen	355
+程序菜单组	cheng xu cai dan zu	3132
+程序数据目录	cheng xu shu ju mu lu	3130
+重编号饼图	chong bian hao bing tu	1871
+重编号横值	chong bian hao heng zhi	1631
+重编号箭头结束横值	chong bian hao jian tou jie shu heng zhi	1742
+重编号箭头结束纵值	chong bian hao jian tou jie shu zong zhi	1723
+重编号箭头起始横值	chong bian hao jian tou qi shi heng zhi	1780
+重编号箭头起始纵值	chong bian hao jian tou qi shi zong zhi	1761
+重编号纵值	chong bian hao zong zhi	1610
+重画菜单	chong hua cai dan	3110
+重绘图表	chong hui tu biao	2100
+重命名	chong ming ming	2981
+重命名当前	chong ming ming dang qian	2978
+重启	chong qi	3123
+重新计算宽度高度	chong xin ji suan kuan du gao du	2284
+初号	chu hao	2825
+处理记录	chu li ji lu	1088
+创建表	chuang jian biao	583
+创建对称透视投影	chuang jian dui chen tou shi tou ying	354
+创建空白菜单	chuang jian kong bai cai dan	3114
+创建空白弹出式菜单	chuang jian kong bai tan chu shi cai dan	3113
+创建空心八面体	chuang jian kong xin ba mian ti	259
+创建空心二十面体	chuang jian kong xin er shi mian ti	255
+创建空心球	chuang jian kong xin qiu	269
+创建空心十二面体	chuang jian kong xin shi er mian ti	261
+创建空心四面体	chuang jian kong xin si mian ti	257
+创建空心圆环	chuang jian kong xin yuan huan	263
+创建空心圆台	chuang jian kong xin yuan tai	251
+创建空心圆柱体	chuang jian kong xin yuan zhu ti	253
+创建空心圆锥体	chuang jian kong xin yuan zhui ti	265
+创建空心正方体	chuang jian kong xin zheng fang ti	267
+创建库	chuang jian ku	60
+创建快捷方式	chuang jian kuai jie fang shi	3148
+创建实心八面体	chuang jian shi xin ba mian ti	260
+创建实心二十面体	chuang jian shi xin er shi mian ti	256
+创建实心球	chuang jian shi xin qiu	270
+创建实心十二面体	chuang jian shi xin shi er mian ti	262
+创建实心四面体	chuang jian shi xin si mian ti	258
+创建实心圆环	chuang jian shi xin yuan huan	264
+创建实心圆台	chuang jian shi xin yuan tai	252
+创建实心圆柱体	chuang jian shi xin yuan zhu ti	254
+创建实心圆锥体	chuang jian shi xin yuan zhui ti	266
+创建实心正方体	chuang jian shi xin zheng fang ti	268
+创建透视投影	chuang jian tou shi tou ying	361
+创建文字轮廓	chuang jian wen zi lun kuo	272
+创建用户	chuang jian yong hu	53
+创建正投影	chuang jian zheng tou ying	360
+创建着色描述表	chuang jian zhuo se miao shu biao	372
+窗口被激活	chuang kou bei ji huo	549
+窗口标题	chuang kou biao ti	2721
+窗口取消激活	chuang kou qu xiao ji huo	546
+窗口状态	chuang kou zhuang tai	2720
+窗体	chuang ti	972
+垂直	chui zhi	443
+垂直标尺	chui zhi biao chi	3011
+垂直等距	chui zhi deng ju	2941
+垂直居中	chui zhi ju zhong	2948
+磁盘格式化	ci pan ge shi hua	2756
+从标题	cong biao ti	430
+从文件加载	cong wen jian jia zai	2593
+从中央	cong zhong yang	429
+大纲视图	da gang shi tu	423
+打开图片文件对话框	da kai tu pian wen jian dui hua kuang	853
+打开文件完毕	da kai wen jian wan bi	3008
+打开下拉列表	da kai xia la lie biao	2399
+打开之前	da kai zhi qian	2539
+大小	da xiao	240
+大写格式	da xie ge shi	2702
+打印部分	da yin bu fen	2286
+打印部分画板	da yin bu fen hua ban	2287
+打印方向	da yin fang xiang	2288
+打印分辨率	da yin fen bian lv	1117
+打印横向	da yin heng xiang	2290
+打印两页	da yin liang ye	2668
+打印区域	da yin qu yu	2285
+打印文档	da yin wen dang	3138
+打印纵向	da yin zong xiang	2289
+带标签编辑框	dai biao qian bian ji kuang	915
+单个颜色索引	dan ge yan se suo yin	107
+单击	dan ji	626
+单击后隐藏	dan ji hou yin cang	402
+单击切换	dan ji qie huan	508
+单色	dan se	1119
+单位法向量	dan wei fa xiang liang	157
+单选分组框	dan xuan fen zu kuang	899
+单选项	dan xuan xiang	2478
+单一实例	dan yi shi li	831
+单元	dan yuan	2655
+单元被单击	dan yuan bei dan ji	2509
+单元格被单击	dan yuan ge bei dan ji	3005
+单元格被选择	dan yuan ge bei xuan ze	939
+单元字体	dan yuan zi ti	2527
+单元字体颜色	dan yuan zi ti yan se	2526
+当前	dang qian	2455
+当前单元格可否编辑	dang qian dan yuan ge ke fou bian ji	962
+当前记录标记	dang qian ji lu biao ji	2583
+当前记录号	dang qian ji lu hao	2555
+当前记录区颜色	dang qian ji lu qu yan se	2331
+当前列	dang qian lie	966
+当前行	dang qian xing	965
+导出到文件	dao chu dao wen jian	2744
+到空间坐标	dao kong jian zuo biao	242
+到屏幕坐标	dao ping mu zuo biao	243
+导入	dao ru	2745
+导入数据	dao ru shu ju	3026
+倒三角形	dao san jiao xing	999
+到上一记录	dao shang yi ji lu	2605
+到首行	dao shou hang	71
+到首页	dao shou ye	3188
+到首张	dao shou zhang	470
+到搜索页	dao sou suo ye	3187
+到尾行	dao wei hang	70
+到尾张	dao wei zhang	469
+到下一行	dao xia yi hang	72
+到下一记录	dao xia yi ji lu	2604
+倒置当前值	dao zhi dang qian zhi	179
+等比	deng bi	2771
+等差	deng cha	2772
+等大小	deng da xiao	2943
+登录	deng lu	2628
+登录提示	deng lu ti shi	2648
+底边距	di bian ju	1122
+底部	di bu	436
+底部基线	di bu ji xian	435
+底对齐	di dui qi	2950
+第二级	di er ji	394
+底墙尺寸	di qiang chi cun	1270
+底墙画笔粗细	di qiang hua bi cu xi	1264
+底墙画笔可视	di qiang hua bi ke shi	1265
+底墙画笔类型	di qiang hua bi lei xing	1266
+底墙画笔设置	di qiang hua bi she zhi	1269
+底墙画笔颜色	di qiang hua bi yan se	1268
+底墙画笔样式	di qiang hua bi yang shi	1267
+底墙设置	di qiang she zhi	1275
+底墙刷子类型	di qiang shua zi lei xing	1272
+底墙刷子设置	di qiang shua zi she zhi	1274
+底墙刷子颜色	di qiang shua zi yan se	1273
+底墙颜色	di qiang yan se	1271
+第三级	di san ji	393
+第四级	di si ji	392
+第五级	di wu ji	391
+第一级	di yi ji	395
+底轴表格线风格	di zhou biao ge xian feng ge	1346
+底轴表格线居中	di zhou biao ge xian ju zhong	1338
+底轴表格线可视	di zhou biao ge xian ke shi	1345
+底轴表格线宽度	di zhou biao ge xian kuan du	1344
+底轴表格线设置	di zhou biao ge xian she zhi	1349
+底轴表格线颜色	di zhou biao ge xian yan se	1348
+底轴表格线样式	di zhou biao ge xian yang shi	1347
+底轴标签尺寸	di zhou biao qian chi cun	1332
+底轴标签风格	di zhou biao qian feng ge	1331
+底轴标签间距	di zhou biao qian jian ju	1333
+底轴标签角度	di zhou biao qian jiao du	1339
+底轴标签可视	di zhou biao qian ke shi	1340
+底轴标签逻辑位置	di zhou biao qian luo ji wei zhi	1303
+底轴标签字体	di zhou biao qian zi ti	1336
+底轴标签字体颜色	di zhou biao qian zi ti yan se	1335
+底轴标题	di zhou biao ti	1296
+底轴标题尺寸	di zhou biao ti chi cun	1292
+底轴标题角度	di zhou biao ti jiao du	1295
+底轴标题逻辑位置	di zhou biao ti luo ji wei zhi	1302
+底轴标题设置	di zhou biao ti she zhi	1297
+底轴标题字体	di zhou biao ti zi ti	1294
+底轴标题字体颜色	di zhou biao ti zi ti yan se	1293
+底轴对数显示	di zhou dui shu xian shi	1330
+底轴多行标签	di zhou duo hang biao qian	1290
+底轴反转	di zhou fan zhuan	1341
+底轴滚动	di zhou gun dong	2248
+底轴结束位置	di zhou jie shu wei zhi	1288
+底轴结束像素位置	di zhou jie shu xiang su wei zhi	1289
+底轴精确日期时间	di zhou jing que ri qi shi jian	1350
+底轴刻度长度	di zhou ke du chang du	1299
+底轴刻度风格	di zhou ke du feng ge	1322
+底轴刻度可视	di zhou ke du ke shi	1321
+底轴刻度宽度	di zhou ke du kuan du	1320
+底轴刻度设置	di zhou ke du she zhi	1325
+底轴刻度颜色	di zhou ke du yan se	1324
+底轴刻度样式	di zhou ke du yang shi	1323
+底轴可视	di zhou ke shi	1291
+底轴逻辑位置	di zhou luo ji wei zhi	1304
+底轴内部刻度长度	di zhou nei bu ke du chang du	1300
+底轴内部刻度风格	di zhou nei bu ke du feng ge	1310
+底轴内部刻度可视	di zhou nei bu ke du ke shi	1309
+底轴内部刻度宽度	di zhou nei bu ke du kuan du	1308
+底轴内部刻度设置	di zhou nei bu ke du she zhi	1313
+底轴内部刻度颜色	di zhou nei bu ke du yan se	1312
+底轴内部刻度样式	di zhou nei bu ke du yang shi	1311
+底轴起始位置	di zhou qi shi wei zhi	1305
+底轴起始像素位置	di zhou qi shi xiang su wei zhi	1306
+底轴其他面	di zhou qi ta mian	1307
+底轴日期时间格式	di zhou ri qi shi jian ge shi	1351
+底轴舍入标签值	di zhou she ru biao qian zhi	1301
+底轴设置	di zhou she zhi	1362
+底轴是否为日期时间型	di zhou shi fou wei ri qi shi jian xing	2253
+底轴水平线	di zhou shui ping xian	1343
+底轴位置	di zhou wei zhi	1337
+底轴线设置	di zhou xian she zhi	1358
+底轴显示两端标签	di zhou xian shi liang duan biao qian	1334
+底轴小刻度长度	di zhou xiao ke du chang du	1326
+底轴小刻度风格	di zhou xiao ke du feng ge	1316
+底轴小刻度可视	di zhou xiao ke du ke shi	1315
+底轴小刻度宽度	di zhou xiao ke du kuan du	1314
+底轴小刻度设置	di zhou xiao ke du she zhi	1319
+底轴小刻度数量	di zhou xiao ke du shu liang	1327
+底轴小刻度颜色	di zhou xiao ke du yan se	1318
+底轴小刻度样式	di zhou xiao ke du yang shi	1317
+底轴增量	di zhou zeng liang	1342
+底轴值格式	di zhou zhi ge shi	1352
+底轴只在标签位置显示刻度	di zhou zhi zai biao qian wei zhi xian shi ke du	1298
+底轴轴线风格	di zhou zhou xian feng ge	1355
+底轴轴线可视	di zhou zhou xian ke shi	1354
+底轴轴线宽度	di zhou zhou xian kuan du	1353
+底轴轴线颜色	di zhou zhou xian yan se	1357
+底轴轴线样式	di zhou zhou xian yang shi	1356
+底轴自动计算	di zhou zi dong ji suan	1361
+底轴自动计算最大值	di zhou zi dong ji suan zui da zhi	1360
+底轴自动计算最小值	di zhou zi dong ji suan zui xiao zhi	1359
+底轴最大值	di zhou zui da zhi	1329
+底轴最小值	di zhou zui xiao zhi	1328
+点光源聚光截止角	dian guang yuan ju guang jie zhi jiao	137
+点集	dian ji	213
+点燃区边框颜色	dian ran qu bian kuang yan se	3157
+点燃颜色	dian ran yan se	3160
+点线	dian xian	1037
+点质量	dian zhi liang	192
+调用多显示列表	diao yong duo xian shi lie biao	281
+调用列表	diao yong lie biao	285
+叠加	die jia	607
+顶边界距离	ding bian jie ju li	2675
+顶边距	ding bian ju	1123
+顶部	ding bu	439
+顶部基线	ding bu ji xian	438
+顶对齐	ding dui qi	2951
+定时切换	ding shi qie huan	507
+定义二维纹理图片	ding yi er wei wen li tu pian	297
+定义一维纹理图片	ding yi yi wei wen li tu pian	298
+顶轴表格线风格	ding zhou biao ge xian feng ge	1421
+顶轴表格线居中	ding zhou biao ge xian ju zhong	1413
+顶轴表格线可视	ding zhou biao ge xian ke shi	1420
+顶轴表格线宽度	ding zhou biao ge xian kuan du	1419
+顶轴表格线设置	ding zhou biao ge xian she zhi	1424
+顶轴表格线颜色	ding zhou biao ge xian yan se	1423
+顶轴表格线样式	ding zhou biao ge xian yang shi	1422
+顶轴标签尺寸	ding zhou biao qian chi cun	1407
+顶轴标签风格	ding zhou biao qian feng ge	1406
+顶轴标签间距	ding zhou biao qian jian ju	1408
+顶轴标签角度	ding zhou biao qian jiao du	1414
+顶轴标签可视	ding zhou biao qian ke shi	1415
+顶轴标签逻辑位置	ding zhou biao qian luo ji wei zhi	1378
+顶轴标签字体	ding zhou biao qian zi ti	1411
+顶轴标签字体颜色	ding zhou biao qian zi ti yan se	1410
+顶轴标题	ding zhou biao ti	1371
+顶轴标题尺寸	ding zhou biao ti chi cun	1367
+顶轴标题角度	ding zhou biao ti jiao du	1370
+顶轴标题逻辑位置	ding zhou biao ti luo ji wei zhi	1377
+顶轴标题设置	ding zhou biao ti she zhi	1372
+顶轴标题字体	ding zhou biao ti zi ti	1369
+顶轴标题字体颜色	ding zhou biao ti zi ti yan se	1368
+顶轴对数显示	ding zhou dui shu xian shi	1405
+顶轴多行标签	ding zhou duo hang biao qian	1365
+顶轴反转	ding zhou fan zhuan	1416
+顶轴结束位置	ding zhou jie shu wei zhi	1363
+顶轴结束像素位置	ding zhou jie shu xiang su wei zhi	1364
+顶轴精确日期时间	ding zhou jing que ri qi shi jian	1425
+顶轴刻度长度	ding zhou ke du chang du	1374
+顶轴刻度风格	ding zhou ke du feng ge	1397
+顶轴刻度可视	ding zhou ke du ke shi	1396
+顶轴刻度宽度	ding zhou ke du kuan du	1395
+顶轴刻度设置	ding zhou ke du she zhi	1400
+顶轴刻度颜色	ding zhou ke du yan se	1399
+顶轴刻度样式	ding zhou ke du yang shi	1398
+顶轴可视	ding zhou ke shi	1366
+顶轴逻辑位置	ding zhou luo ji wei zhi	1379
+顶轴内部刻度长度	ding zhou nei bu ke du chang du	1375
+顶轴内部刻度风格	ding zhou nei bu ke du feng ge	1385
+顶轴内部刻度可视	ding zhou nei bu ke du ke shi	1384
+顶轴内部刻度宽度	ding zhou nei bu ke du kuan du	1383
+顶轴内部刻度设置	ding zhou nei bu ke du she zhi	1388
+顶轴内部刻度颜色	ding zhou nei bu ke du yan se	1387
+顶轴内部刻度样式	ding zhou nei bu ke du yang shi	1386
+顶轴起始位置	ding zhou qi shi wei zhi	1380
+顶轴起始像素位置	ding zhou qi shi xiang su wei zhi	1381
+顶轴其他面	ding zhou qi ta mian	1382
+顶轴日期时间格式	ding zhou ri qi shi jian ge shi	1426
+顶轴舍入标签值	ding zhou she ru biao qian zhi	1376
+顶轴设置	ding zhou she zhi	1437
+顶轴水平线	ding zhou shui ping xian	1418
+顶轴位置	ding zhou wei zhi	1412
+顶轴线设置	ding zhou xian she zhi	1433
+顶轴显示两端标签	ding zhou xian shi liang duan biao qian	1409
+顶轴小刻度长度	ding zhou xiao ke du chang du	1401
+顶轴小刻度风格	ding zhou xiao ke du feng ge	1391
+顶轴小刻度可视	ding zhou xiao ke du ke shi	1390
+顶轴小刻度宽度	ding zhou xiao ke du kuan du	1389
+顶轴小刻度设置	ding zhou xiao ke du she zhi	1394
+顶轴小刻度数量	ding zhou xiao ke du shu liang	1402
+顶轴小刻度颜色	ding zhou xiao ke du yan se	1393
+顶轴小刻度样式	ding zhou xiao ke du yang shi	1392
+顶轴增量	ding zhou zeng liang	1417
+顶轴值格式	ding zhou zhi ge shi	1427
+顶轴只在标签位置显示刻度	ding zhou zhi zai biao qian wei zhi xian shi ke du	1373
+顶轴轴线风格	ding zhou zhou xian feng ge	1430
+顶轴轴线可视	ding zhou zhou xian ke shi	1429
+顶轴轴线宽度	ding zhou zhou xian kuan du	1428
+顶轴轴线颜色	ding zhou zhou xian yan se	1432
+顶轴轴线样式	ding zhou zhou xian yang shi	1431
+顶轴自动计算	ding zhou zi dong ji suan	1436
+顶轴自动计算最大值	ding zhou zi dong ji suan zui da zhi	1435
+顶轴自动计算最小值	ding zhou zi dong ji suan zui xiao zhi	1434
+顶轴最大值	ding zhou zui da zhi	1404
+顶轴最小值	ding zhou zui xiao zhi	1403
+动画按钮	dong hua an niu	828
+动画播放后效果	dong hua bo fang hou xiao guo	495
+动画方式	dong hua fang shi	401
+动画高级模式	dong hua gao ji mo shi	497
+动画逆序创建	dong hua ni xu chuang jian	492
+动画声音文件名	dong hua sheng yin wen jian ming	479
+动画是否放映	dong hua shi fou fang ying	494
+动画顺序	dong hua shun xu	491
+动画效果	dong hua xiao guo	498
+动画延迟时间	dong hua yan chi shi jian	496
+动画音效类型	dong hua yin xiao lei xing	481
+动画音效名	dong hua yin xiao ming	480
+动画影响背景	dong hua ying xiang bei jing	493
+动画执行前	dong hua zhi xing qian	551
+冬眠	dong mian	3120
+动态创建字段	dong tai chuang jian zi duan	2582
+东亚字体名	dong ya zi ti ming	2694
+动作	dong zuo	684
+动作编译	dong zuo bian yi	681
+动作标志	dong zuo biao zhi	635
+动作创建	dong zuo chuang jian	683
+动作从文件创建	dong zuo cong wen jian chuang jian	682
+动作取代码	dong zuo qu dai ma	679
+动作销毁	dong zuo xiao hui	680
+动作置调试	dong zuo zhi tiao shi	678
+度量单位	du liang dan wei	2661
+读字段短整数值	du zi duan duan zheng shu zhi	569
+读字段逻辑值	du zi duan luo ji zhi	572
+读字段日期时间值	du zi duan ri qi shi jian zhi	571
+读字段双精度小数值	du zi duan shuang jing du xiao shu zhi	574
+读字段文本值	du zi duan wen ben zhi	577
+读字段小数值	du zi duan xiao shu zhi	575
+读字段长整数值	du zi duan zhang zheng shu zhi	570
+读字段整数值	du zi duan zheng shu zhi	576
+读字段值	du zi duan zhi	584
+读字段字节集值	du zi duan zi jie ji zhi	573
+读字段字节值	du zi duan zi jie zhi	568
+短备注型	duan bei zhu xing	10
+段落	duan luo	2659
+段落设置	duan luo she zhi	3023
+短整型	duan zheng xing	2382
+短字节集	duan zi jie ji	11
+对话框	dui hua kuang	2762
+对角线形	dui jiao xian xing	1002
+对齐	dui qi	969
+对象种类	dui xiang zhong lei	2807
+多边形	duo bian xing	2799
+多边形质量	duo bian xing zhi liang	190
+多贴图线性内插滤镜	duo tie tu xian xing nei cha lv jing	110
+多选	duo xuan	2512
+额外页边距	e wai ye bian ju	2682
+二次方衰减	er ci fang shuai jian	134
+二号	er hao	2821
+二号裁剪面	er hao cai jian mian	200
+二号光源	er hao guang yuan	149
+二进制	er jin zhi	20
+二维纹理	er wei wen li	152
+二小时	er xiao shi	984
+返回缓存	fan hui huan cun	167
+反角椎形	fan jue zhui xing	1010
+反射	fan she	651
+反斜线	fan xie xian	1016
+反转	fan zhuan	1052
+放大纹理滤波	fang da wen li lv bo	116
+放开	fang kai	625
+放开某键	fang kai mou jian	628
+放开鼠标	fang kai shu biao	630
+放射渐变	fang she jian bian	599
+访问网页	fang wen wang ye	2766
+方形印章	fang xing yin zhang	2796
+放映	fang ying	472
+放映方式	fang ying fang shi	386
+放映类型	fang ying lei xing	459
+非复制笔	fei fu zhi bi	1050
+非或笔	fei huo bi	1044
+非异或笔	fei yi huo bi	1040
+非与笔	fei yu bi	1042
+分发大纲	fen fa da gang	425
+分割条	fen ge tiao	833
+分割条颜色	fen ge tiao yan se	3156
+分节符类型	fen jie fu lei xing	2669
+分量	fen liang	94
+分散	fen san	416
+风格不匹配括号	feng ge bu pi pei kuo hao	3251
+风格行号	feng ge hang hao	3253
+风格界面	feng ge jie mian	2752
+风格界面库	feng ge jie mian ku	2753
+风格默认	feng ge mo ren	3254
+风格匹配括号	feng ge pi pei kuo hao	3252
+风格缩进向导	feng ge suo jin xiang dao	3250
+浮点型	fu dian xing	2380
+符合过滤条件	fu he guo lv tiao jian	2454
+附加类型信息	fu jia lei xing xin xi	37
+附加内容	fu jia nei rong	36
+复选菜单	fu xuan cai dan	3116
+复选框状态	fu xuan kuang zhuang tai	2385
+复制笔	fu zhi bi	1051
+复制到剪辑板	fu zhi dao jian ji ban	2504
+复制画刷	fu zhi hua shua	2216
+复制系列	fu zhi xi lie	2187
+复制像素	fu zhi xiang su	277
+辅助缓存位	fu zhu huan cun wei	224
+改变菜单条目	gai bian cai dan tiao mu	3093
+甘特	gan te	1062
+高级分隔条	gao ji fen ge tiao	843
+高级模式	gao ji mo shi	463
+高级组合框	gao ji zu he kuang	938
+高亮渐变起始颜色	gao liang jian bian qi shi yan se	837
+高亮选中	gao liang xuan zhong	947
+各行等高	ge hang deng gao	2880
+隔离级别	ge li ji bie	2637
+各列等宽	ge lie deng kuan	2879
+格式	ge shi	456
+格式化备注型	ge shi hua bei zhu xing	2376
+格式化段落	ge shi hua duan luo	2653
+格式化横值	ge shi hua heng zhi	2097
+格式化字符	ge shi hua zi fu	2654
+格式化纵值	ge shi hua zong zhi	2096
+更改记录	geng gai ji lu	1021
+更换界面	geng huan jie mian	2764
+更新记录	geng xin ji lu	64
+更新数据	geng xin shu ju	2410
+公历到农历	gong li dao nong li	2769
+功能键	gong neng jian	857
+工作表菜单	gong zuo biao cai dan	3013
+工作表接口	gong zuo biao jie kou	2983
+固定的行列颜色	gu ding de hang lie yan se	2524
+固定行列颜色	gu ding hang lie yan se	961
+固定行数	gu ding hang shu	959
+固定列数	gu ding lie shu	960
+故事	gu shi	2658
+关闭打印预览	guan bi da yin yu lan	2708
+关闭系统	guan bi xi tong	3140
+关闭下拉列表	guan bi xia la lie biao	2362
+关闭远程句柄	guan bi yuan cheng ju bing	77
+关闭之前	guan bi zhi qian	2542
+观测平面	guan ce ping mian	91
+观测线性插值	guan ce xian xing cha zhi	90
+观察矩阵	guan cha ju zhen	216
+关机	guan ji	3124
+关键字段	guan jian zi duan	2366
+关联字段	guan lian zi duan	2499
+关于对话框	guan yu dui hua kuang	2757
+光滑	guang hua	119
+光滑点	guang hua dian	81
+光滑剪切的图片	guang hua jian qie de tu pian	593
+光滑平铺的图片	guang hua ping pu de tu pian	594
+光滑线	guang hua xian	82
+光栅操作	guang shan cao zuo	280
+光源观察点模式	guang yuan guan cha dian mo shi	133
+光源聚光方向	guang yuan ju guang fang xiang	139
+光源聚光指数	guang yuan ju guang zhi shu	138
+光源位置	guang yuan wei zhi	140
+光照	guang zhao	158
+滚动饼图	gun dong bing tu	1860
+滚动方向	gun dong fang xiang	1605
+滚动横值	gun dong heng zhi	1633
+滚动箭头结束横值	gun dong jian tou jie shu heng zhi	1731
+滚动箭头结束纵值	gun dong jian tou jie shu zong zhi	1712
+滚动箭头起始横值	gun dong jian tou qi shi heng zhi	1769
+滚动箭头起始纵值	gun dong jian tou qi shi zong zhi	1750
+滚动框	gun dong kuang	852
+滚动气泡	gun dong qi pao	1652
+滚动条方向	gun dong tiao fang xiang	2327
+滚动条跟踪	gun dong tiao gen zong	941
+滚动条样式	gun dong tiao yang shi	998
+滚动纵值	gun dong zong zhi	1612
+过渡样式	guo du yang shi	434
+过滤范围	guo lv fan wei	2563
+过滤前缀	guo lv qian zhui	931
+过滤时不区分大小写	guo lv shi bu qu fen da xiao xie	2580
+过滤时不使用部分匹配	guo lv shi bu shi yong bu fen pi pei	2579
+合并单元格	he bing dan yuan ge	2877
+黑白视图	hei bai shi tu	523
+横条	heng tiao	1066
+横向对齐	heng xiang dui qi	2785
+横向分割	heng xiang fen ge	2884
+横向滚动条尺寸	heng xiang gun dong tiao chi cun	848
+横向滚动条位置	heng xiang gun dong tiao wei zhi	847
+横向合并	heng xiang he bing	2882
+横向及纵向滚动条	heng xiang ji zong xiang gun dong tiao	997
+横向屏幕位置到值	heng xiang ping mu wei zhi dao zhi	2098
+横值排序	heng zhi pai xu	1632
+横轴值	heng zhou zhi	1025
+红绿蓝分量	hong lv lan fen liang	101
+红绿蓝混合通道分量	hong lv lan hun he tong dao fen liang	100
+红色分量	hong se fen liang	105
+红色累计位	hong se lei ji wei	228
+红色位	hong se wei	237
+红色转换位	hong se zhuan huan wei	236
+后置系列	hou zhi xi lie	2275
+互换点值索引	hu huan dian zhi suo yin	2099
+画贝塞尔曲线	hua bei sai er qu xian	2208
+画贝塞尔曲线到当前点	hua bei sai er qu xian dao dang qian dian	2207
+画笔	hua bi	377
+画表格线	hua biao ge xian	2886
+画布背景模式	hua bu bei jing mo shi	1186
+画布背景颜色	hua bu bei jing yan se	1187
+画布画笔粗细	hua bu hua bi cu xi	1176
+画布画笔类型	hua bu hua bi lei xing	1177
+画布画笔设置	hua bu hua bi she zhi	1180
+画布画笔颜色	hua bu hua bi yan se	1179
+画布画笔样式	hua bu hua bi yang shi	1178
+画布设置	hua bu she zhi	1193
+画布是否支持全角度三维旋转	hua bu shi fou zhi chi quan jiao du san wei xuan zhuan	1185
+画布是否支持文本三维旋转	hua bu shi fou zhi chi wen ben san wei xuan zhuan	1184
+画布使用单色	hua bu shi yong dan se	1182
+画布使用缓存	hua bu shi yong huan cun	1181
+画布刷子类型	hua bu shua zi lei xing	1188
+画布刷子设置	hua bu shua zi she zhi	1190
+画布刷子颜色	hua bu shua zi yan se	1189
+画布文本对齐方式	hua bu wen ben dui qi fang shi	1183
+画布字体	hua bu zi ti	1192
+画布字体颜色	hua bu zi ti yan se	1191
+画出位图	hua chu wei tu	278
+划点点线	hua dian dian xian	1035
+划点线	hua dian xian	1036
+画甘特系列点	hua gan te xi lie dian	1673
+画横向长方形	hua heng xiang chang fang xing	2240
+画横向三维线	hua heng xiang san wei xian	2225
+画弧	hua hu	2217
+画箭头	hua jian tou	2226
+画焦点区域	hua jiao dian qu yu	2215
+画空心矩形	hua kong xin ju xing	2212
+画棱锥体	hua leng zhui ti	2218
+画立方体	hua li fang ti	2243
+画连接线	hua lian jie xian	2206
+画曲面	hua qu mian	332
+画曲线	hua qu xian	336
+画区域系列点	hua qu yu xi lie dian	1990
+画入窗口的像素格式	hua ru chuang kou de xiang su ge shi	218
+画三维面	hua san wei mian	2230
+画三维扇形	hua san wei shan xing	2219
+画三维旋转标签	hua san wei xuan zhuan biao qian	2235
+画扇形	hua shan xing	2209
+画竖向长方形	hua shu xiang chang fang xing	2239
+画竖向三角形	hua shu xiang san jiao xing	2238
+画竖向三维线	hua shu xiang san wei xian	2223
+画竖向椭圆	hua shu xiang tuo yuan	2222
+画竖向线	hua shu xiang xian	2221
+画竖轴长方形	hua shu zhou chang fang xing	2241
+画竖轴平面	hua shu zhou ping mian	2229
+划线	hua xian	1038
+画线	hua xian	464
+画线到	hua xian dao	2211
+画线系列点	hua xian xi lie dian	2050
+画旋转标签	hua xuan zhuan biao qian	2281
+画圆线	hua yuan xian	2914
+画圆柱体	hua yuan zhu ti	2242
+画纵向三维线	hua zong xiang san wei xian	2224
+缓存操作	huan cun cao zuo	324
+缓存显示	huan cun xian shi	1194
+幻灯版式	huan deng ban shi	451
+幻灯片版式	huan deng pian ban shi	525
+幻灯片大纲	huan deng pian da gang	427
+幻灯片大小	huan deng pian da xiao	510
+幻灯片打印方向	huan deng pian da yin fang xiang	513
+幻灯片高度	huan deng pian gao du	511
+幻灯片宽度	huan deng pian kuan du	512
+幻灯片浏览	huan deng pian liu lan	428
+幻灯片排列	huan deng pian pai lie	422
+幻灯片时间	huan deng pian shi jian	384
+幻灯片数量	huan deng pian shu liang	528
+幻灯片索引	huan deng pian suo yin	527
+环境光	huan jing guang	143
+环境光和漫反射光	huan jing guang he man fan she guang	128
+恢复三维缩放	hui fu san wei suo fang	2273
+恢复刷新	hui fu shua xin	3027
+回滚时自动开始新事务	hui gun shi zi dong kai shi xin shi wu	2646
+绘画底轴标签	hui hua di zhou biao qian	2255
+绘画系列之前	hui hua xi lie zhi qian	1085
+绘画之后	hui hua zhi hou	1087
+绘画轴线之前	hui hua zhou xian zhi qian	1086
+混合	hun he	448
+混合测试	hun he ce shi	328
+混合对齐	hun he dui qi	414
+混合模式	hun he mo shi	618
+混合通道分量	hun he tong dao fen liang	102
+或笔	huo bi	1045
+或笔非	huo bi fei	1049
+或非笔	huo fei bi	1047
+获取缓存	huo qu huan cun	169
+基础折叠层	ji chu zhe die ceng	3211
+集合型	ji he xing	3
+激活播放	ji huo bo fang	484
+即将保存文件	ji jiang bao cun wen jian	3007
+即将打开文件	ji jiang da kai wen jian	3009
+即将打开新窗口	ji jiang da kai xin chuang kou	3189
+即将跳转	ji jiang tiao zhuan	3198
+记录区边框	ji lu qu bian kuang	2330
+记录区数量	ji lu qu shu liang	2329
+记录区索引	ji lu qu suo yin	2328
+记录数	ji lu shu	2554
+记录已获取	ji lu yi huo qu	2552
+计算三维位置	ji suan san wei wei zhi	2233
+计算字段	ji suan zi duan	2535
+继续查找	ji xu cha zhao	916
+基准对齐	ji zhun dui qi	413
+基准线对齐	ji zhun xian dui qi	415
+基准线对齐方式	ji zhun xian dui qi fang shi	521
+基准线偏移	ji zhun xian pian yi	519
+加解密相关	jia jie mi xiang guan	3179
+加入缓存	jia ru huan cun	165
+加载	jia zai	634
+加载数据	jia zai shu ju	627
+渐变	jian bian	706
+渐变插补模式	jian bian cha bu mo shi	655
+渐变创建	jian bian chuang jian	705
+渐变方向	jian bian fang xiang	1149
+渐变结束色	jian bian jie shu se	1147
+渐变矩形	jian bian ju xing	1012
+渐变可视	jian bian ke shi	1146
+渐变目的颜色	jian bian mu di yan se	489
+渐变起始色	jian bian qi shi se	1148
+渐变设置	jian bian she zhi	1150
+渐变速度	jian bian su du	836
+渐变填充类型	jian bian tian chong lei xing	601
+渐变添加控制点	jian bian tian jia kong zhi dian	703
+渐变条颜色	jian bian tiao yan se	3159
+渐变销毁	jian bian xiao hui	704
+渐变展开模式	jian bian zhan kai mo shi	653
+渐变置插补模式	jian bian zhi cha bu mo shi	701
+渐变置聚焦点	jian bian zhi ju jiao dian	700
+渐变置展开模式	jian bian zhi zhan kai mo shi	702
+键不可重复	jian bu ke chong fu	874
+剪辑重新显示	jian ji chong xin xian shi	483
+剪辑幻灯片数	jian ji huan deng pian shu	482
+剪辑循环	jian ji xun huan	486
+剪辑隐藏	jian ji yin cang	487
+剪辑暂停	jian ji zan ting	485
+间距	jian ju	900
+建立索引	jian li suo yin	48
+建模操作	jian mo cao zuo	352
+剪切到剪辑板	jian qie dao jian ji ban	2503
+剪切的图片	jian qie de tu pian	595
+减去	jian qu	609
+减去当前值	jian qu dang qian zhi	180
+键设置	jian she zhi	878
+箭头	jian tou	1063
+箭头结束横值排序	jian tou jie shu heng zhi pai xu	1730
+箭头结束纵值排序	jian tou jie shu zong zhi pai xu	1711
+箭头起始横值排序	jian tou qi shi heng zhi pai xu	1768
+箭头起始纵值排序	jian tou qi shi zong zhi pai xu	1749
+箭头形	jian tou xing	1008
+减小字体	jian xiao zi ti	3038
+键移动焦点	jian yi dong jiao dian	2516
+建议搜索	jian yi sou suo	932
+键值编辑器	jian zhi bian ji qi	898
+键值标题	jian zhi biao ti	873
+键值项目	jian zhi xiang mu	884
+角部辐射	jiao bu fu she	431
+交互操作	jiao hu cao zuo	249
+交换缓存	jiao huan huan cun	323
+交换系列	jiao huan xi lie	2300
+脚注边框风格	jiao zhu bian kuang feng ge	1160
+脚注边框可视	jiao zhu bian kuang ke shi	1159
+脚注边框宽度	jiao zhu bian kuang kuan du	1158
+脚注边框设置	jiao zhu bian kuang she zhi	1163
+脚注边框颜色	jiao zhu bian kuang yan se	1162
+脚注边框样式	jiao zhu bian kuang yang shi	1161
+脚注对齐方式	jiao zhu dui qi fang shi	1170
+脚注可视	jiao zhu ke shi	1156
+脚注内容	jiao zhu nei rong	1157
+脚注设置	jiao zhu she zhi	1172
+脚注刷子类型	jiao zhu shua zi lei xing	1167
+脚注刷子设置	jiao zhu shua zi she zhi	1169
+脚注刷子颜色	jiao zhu shua zi yan se	1168
+脚注调整边框	jiao zhu tiao zheng bian kuang	1171
+脚注颜色	jiao zhu yan se	1166
+脚注字体	jiao zhu zi ti	1165
+脚注字体颜色	jiao zhu zi ti yan se	1164
+角锥形	jiao zhui xing	1011
+结构大小	jie gou da xiao	3084
+结果集最大记录数	jie guo ji zui da ji lu shu	2558
+解码	jie ma	3173
+接受	jie shou	2832
+接受所有	jie shou suo you	2831
+结束端半圆形	jie shu duan ban yuan xing	658
+结束端无	jie shu duan wu	657
+结束端正方形	jie shu duan zheng fang xing	656
+结束放映	jie shu fang ying	552
+结束幻灯片	jie shu huan deng pian	461
+结束绘图操作	jie shu hui tu cao zuo	322
+解锁	jie suo	2201
+解析支持库	jie xi zhi chi ku	2747
+进度复制文件	jin du fu zhi wen jian	3144
+进度移动文件	jin du yi dong wen jian	3143
+进入单元	jin ru dan yuan	2508
+进入某一帧	jin ru mou yi zhen	633
+进入选择模式	jin ru xuan ze mo shi	244
+禁用控件	jin yong kong jian	2611
+禁止编辑	jin zhi bian ji	648
+禁止查找方向	jin zhi cha zhao fang xiang	922
+禁止区分大小写	jin zhi qu fen da xiao xie	920
+禁止全字匹配	jin zhi quan zi pi pei	921
+禁止刷新	jin zhi shua xin	3028
+禁止为空	jin zhi wei kong	2424
+禁止文本颜色	jin zhi wen ben yan se	3161
+镜面光	jing mian guang	141
+静默	jing mo	3200
+静态文本	jing tai wen ben	645
+精选面	jing xuan mian	156
+巨备注型	ju bei zhu xing	6
+居顶	ju ding	412
+聚焦渐变	ju jiao jian bian	598
+拒绝	ju jue	2830
+拒绝所有	ju jue suo you	2829
+矩形剪切	ju xing jian qie	342
+居右	ju you	418
+矩阵出栈	ju zhen chu zhan	357
+矩阵复位	ju zhen fu wei	366
+矩阵入栈	ju zhen ru zhan	358
+句子	ju zi	2660
+巨字节集型	ju zi jie ji xing	7
+居左	ju zuo	419
+绝对锁定当前对象	jue dui suo ding dang qian dui xiang	2934
+均等最后一页刻度	jun deng zui hou yi ye ke du	1116
+均齐	jun qi	2784
+开始菜单组	kai shi cai dan zu	3133
+开始创建列表	kai shi chuang jian lie biao	288
+开始放映	kai shi fang ying	553
+开始画	kai shi hua	351
+开始连接	kai shi lian jie	2627
+可被点击	ke bei dian ji	642
+可编辑键	ke bian ji jian	877
+可变字节型	ke bian zi jie xing	2378
+可撤销	ke che xiao	2492
+可多选	ke duo xuan	2394
+可否编辑	ke fou bian ji	2332
+可否拆分单元格	ke fou chai fen dan yuan ge	2892
+可否衬于文字下方	ke fou chen yu wen zi xia fang	2968
+可否垂直等距	ke fou chui zhi deng ju	2953
+可否垂直居中	ke fou chui zhi ju zhong	2962
+可否等大小	ke fou deng da xiao	2955
+可否等高	ke fou deng gao	2956
+可否等宽	ke fou deng kuan	2957
+可否底对齐	ke fou di dui qi	2966
+可否顶对齐	ke fou ding dui qi	2967
+可否各行等高	ke fou ge hang deng gao	2890
+可否各列等宽	ke fou ge lie deng kuan	2889
+可否合并单元格	ke fou he bing dan yuan ge	2891
+可否横向分割	ke fou heng xiang fen ge	2900
+可否横向合并	ke fou heng xiang he bing	2894
+可否取消组合	ke fou qu xiao zu he	2939
+可否删除当前列	ke fou shan chu dang qian lie	2901
+可否删除当前行	ke fou shan chu dang qian xing	2902
+可否删除当前页	ke fou shan chu dang qian ye	2989
+可否上移一层	ke fou shang yi yi ceng	2959
+可否水平等距	ke fou shui ping deng ju	2954
+可否水平居中	ke fou shui ping ju zhong	2963
+可否锁定当前对象	ke fou suo ding dang qian dui xiang	2938
+可否填充	ke fou tian chong	2847
+可否下移一层	ke fou xia yi yi ceng	2958
+可否向后插入列	ke fou xiang hou cha ru lie	2895
+可否向后插入行	ke fou xiang hou cha ru xing	2897
+可否向前插入列	ke fou xiang qian cha ru lie	2896
+可否向前插入行	ke fou xiang qian cha ru xing	2898
+可否右对齐	ke fou you dui qi	2964
+可否置于底层	ke fou zhi yu di ceng	2960
+可否置于顶层	ke fou zhi yu ding ceng	2961
+可否纵向分割	ke fou zong xiang fen ge	2899
+可否纵向合并	ke fou zong xiang he bing	2893
+可否组合	ke fou zu he	2940
+可否左对齐	ke fou zuo dui qi	2965
+可见行数	ke jian hang shu	953
+可见列数	ke jian lie shu	954
+可删除键	ke shan chu jian	875
+可视遮罩层	ke shi zhe zhao ceng	220
+可添加键	ke tian jia jian	876
+可调整行高	ke tiao zheng hang gao	946
+可调整列宽	ke tiao zheng lie kuan	945
+可调整列位置	ke tiao zheng lie wei zhi	943
+可调整行位置	ke tiao zheng xing wei zhi	944
+可修改	ke xiu gai	2572
+空笔	kong bi	1034
+空行折叠标志	kong hang zhe die biao zhi	3210
+控件已禁止	kong jian yi jin zhi	2612
+空刷子	kong shua zi	1018
+空心	kong xin	2693
+块读取缓存大小	kuai du qu huan cun da xiao	2573
+快捷方式操作	kuai jie fang shi cao zuo	3149
+快速	kuai su	187
+快线	kuai xian	1064
+宽文本型	kuan wen ben xing	2372
+扩展参数结构	kuo zhan can shu jie gou	3075
+蓝色分量	lan se fen liang	103
+蓝色风格	lan se feng ge	2750
+蓝色累计位	lan se lei ji wei	226
+蓝色位	lan se wei	233
+蓝色转换位	lan se zhuan huan wei	232
+累积缓存位	lei ji huan cun wei	163
+累计缓存位	lei ji huan cun wei	229
+类型化字节集型	lei xing hua zi jie ji xing	2375
+棱锥	leng zhui	2797
+棱锥型	leng zhui xing	2778
+离开单元	li kai dan yuan	2507
+立体边框	li ti bian kuang	2476
+立体风格	li ti feng ge	870
+离线浏览	li xian liu lan	3201
+连接被取消	lian jie bei qu xiao	2482
+连接超时值	lian jie chao shi zhi	2643
+连接完成	lian jie wan cheng	2626
+连接无法取消	lian jie wu fa qu xiao	2483
+连接已断开	lian jie yi duan kai	2620
+连接已开始	lian jie yi kai shi	2621
+连续三角形	lian xu san jiao xing	209
+连续四边形	lian xu si bian xing	206
+连续线段	lian xu xian duan	210
+亮度和混合通道分量	liang du he hun he tong dao fen liang	99
+两个月	liang ge yue	975
+亮光	liang guang	129
+两天	liang tian	980
+列被移动	lie bei yi dong	2511
+列表被下拉	lie biao bei xia la	868
+列标题被单击	lie biao ti bei dan ji	2510
+列表项被选中	lie biao xiang bei xuan zhong	2391
+列表项显示字段	lie biao xiang xian shi zi duan	2365
+列表项总数	lie biao xiang zong shu	2392
+列内容为空	lie nei rong wei kong	40
+列数据默认值	lie shu ju mo ren zhi	39
+临时文件目录	lin shi wen jian mu lu	3128
+另存为	ling cun wei	3186
+另存为文本文件	ling cun wei wen ben wen jian	3059
+零号裁剪面	ling hao cai jian mian	202
+零号光源	ling hao guang yuan	151
+六号	liu hao	2813
+六号光源	liu hao guang yuan	145
+浏览文件夹	liu lan wen jian jia	3146
+六小时	liu xiao shi	983
+镂空	lou kong	603
+滤镜	lv jing	677
+滤镜创建发光滤镜	lv jing chuang jian fa guang lv jing	674
+滤镜创建渐变发光滤镜	lv jing chuang jian jian bian fa guang lv jing	671
+滤镜创建渐变斜角滤镜	lv jing chuang jian jian bian xie jiao lv jing	672
+滤镜创建模糊滤镜	lv jing chuang jian mo hu lv jing	676
+滤镜创建投影滤镜	lv jing chuang jian tou ying lv jing	673
+滤镜创建斜角滤镜	lv jing chuang jian xie jiao lv jing	675
+滤镜模式	lv jing mo shi	605
+滤镜销毁	lv jing xiao hui	670
+绿色分量	lv se fen liang	104
+绿色风格	lv se feng ge	2749
+绿色累计位	lv se lei ji wei	227
+绿色位	lv se wei	235
+绿色转换位	lv se zhuan huan wei	234
+漫反射光	man fan she guang	142
+枚举型	mei ju xing	4
+面板	mian ban	971
+命令参数检查	ming ling can shu jian cha	2557
+命令超时	ming ling chao shi	2570
+命令超时值	ming ling chao shi zhi	2644
+命令个数	ming ling ge shu	2645
+命令文本	ming ling wen ben	2571
+命令执行前预处理	ming ling zhi xing qian yu chu li	2556
+命令执行完毕	ming ling zhi xing wan bi	2619
+命令状态被改变	ming ling zhuang tai bei gai bian	3190
+名字出栈	ming zi chu zhan	246
+名字入栈	ming zi ru zhan	247
+默认格式	mo ren ge shi	452
+默认渐变起始颜色	mo ren jian bian qi shi yan se	839
+默认渐结束始颜色	mo ren jian jie shu shi yan se	838
+默认列宽度	mo ren lie kuan du	964
+默认数据库	mo ren shu ju ku	2639
+默认行高度	mo ren xing gao du	963
+模型平面	mo xing ping mian	92
+模型线性插值	mo xing xian xing cha zhi	89
+模板测试	mu ban ce shi	326
+模板测试操作	mu ban ce shi cao zuo	325
+模板格式	mu ban ge shi	454
+模板缓存位	mu ban huan cun wei	162
+模板类型	mu ban lei xing	83
+模板索引	mu ban suo yin	106
+目标值通道比例	mu biao zhi tong dao bi li	174
+目标值通道比例反	mu biao zhi tong dao bi li fan	173
+目标值颜色比例	mu biao zhi yan se bi li	172
+目标值颜色比例反	mu biao zhi yan se bi li fan	171
+目的颜色	mu di yan se	403
+内部	nei bu	604
+内插多贴图的线性内插滤镜	nei cha duo tie tu de xian xing nei cha lv jing	108
+内存相关	nei cun xiang guan	3183
+内框线	nei kuang xian	1033
+内容被修改	nei rong bei xiu gai	910
+内容总长度	nei rong zong chang du	2705
+逆时针	ni shi zhen	203
+年份型	nian fen xing	12
+农历年天数	nong li nian tian shu	2768
+排练时间	pai lian shi jian	383
+排序顺序	pai xu shun xu	2553
+旁白方式	pang bai fang shi	457
+配色方案	pei se fang an	3162
+批量更新	pi liang geng xin	2592
+批量取节点值	pi liang qu jie dian zhi	2731
+批量删除节点	pi liang shan chu jie dian	2732
+批量修改节点值	pi liang xiu gai jie dian zhi	2730
+匹配通配符	pi pei tong pei fu	2746
+片段	pian duan	2656
+屏蔽非功能键	ping bi fei gong neng jian	855
+屏蔽键	ping bi jian	856
+平面风格	ping mian feng ge	2472
+屏幕	ping mu	2657
+平铺的图片	ping pu de tu pian	596
+平坦	ping tan	120
+启动菜单组	qi dong cai dan zu	3131
+七号	qi hao	2811
+七号光源	qi hao guang yuan	144
+气泡	qi pao	1061
+起始端半圆形	qi shi duan ban yuan xing	668
+起始端无	qi shi duan wu	667
+起始端正方形	qi shi duan zheng fang xing	666
+起始幻灯片	qi shi huan deng pian	462
+其他页送纸盒	qi ta ye song zhi he	2684
+启用功能	qi yong gong neng	310
+启用控件	qi yong kong jian	2610
+前平面结束	qian ping mian jie shu	2231
+前平面开始	qian ping mian kai shi	2232
+前置系列	qian zhi xi lie	2274
+强光	qiang guang	606
+强制结束绘图操作	qiang zhi jie shu hui tu cao zuo	321
+切换	qie huan	471
+切换方式	qie huan fang shi	509
+切换间隔	qie huan jian ge	506
+切换声音文件名	qie huan sheng yin wen jian ming	499
+切换速度	qie huan su du	503
+切换效果	qie huan xiao guo	505
+切换隐藏	qie huan yin cang	504
+切换音效	qie huan yin xiao	501
+切换音效名	qie huan yin xiao ming	500
+清除背景区域	qing chu bei jing qu yu	2236
+清除菜单	qing chu cai dan	3111
+清除撤销	qing chu che xiao	2501
+清除缓存	qing chu huan cun	319
+清除累积缓存	qing chu lei ji huan cun	318
+清除模板缓存	qing chu mu ban huan cun	315
+清除深度缓存	qing chu shen du huan cun	316
+清除选择	qing chu xuan ze	2502
+清除颜色缓存	qing chu yan se huan cun	317
+清除颜色索引	qing chu yan se suo yin	314
+清空表	qing kong biao	581
+清空当前	qing kong dang qian	2976
+清空名字栈	qing kong ming zi zhan	248
+清空系列	qing kong xi lie	2115
+清空字段	qing kong zi duan	2613
+取变体值	qu bian ti zhi	2438
+取表定义	qu biao ding yi	585
+取表格标题	qu biao ge biao ti	2436
+取表格单元格文本	qu biao ge dan yuan ge wen ben	2869
+取表格接口	qu biao ge jie kou	3016
+取标记背景色	qu biao ji bei jing se	2170
+取标记边框风格	qu biao ji bian kuang feng ge	2161
+取标记边框可视	qu biao ji bian kuang ke shi	2159
+取标记边框宽度	qu biao ji bian kuang kuan du	2157
+取标记边框颜色	qu biao ji bian kuang yan se	2165
+取标记边框样式	qu biao ji bian kuang yang shi	2163
+取标记裁剪	qu biao ji cai jian	2168
+取标记可视	qu biao ji ke shi	2151
+取标记类型	qu biao ji lei xing	2155
+取标记索引	qu biao ji suo yin	2149
+取标记透明	qu biao ji tou ming	2153
+取标记文本	qu biao ji wen ben	2107
+取标记值	qu biao ji zhi	2108
+取标记指示线长度	qu biao ji zhi shi xian chang du	2172
+取标记指示线风格	qu biao ji zhi shi xian feng ge	2178
+取标记指示线可视	qu biao ji zhi shi xian ke shi	2176
+取标记指示线宽度	qu biao ji zhi shi xian kuan du	2174
+取标记指示线颜色	qu biao ji zhi shi xian yan se	2182
+取标记指示线样式	qu biao ji zhi shi xian yang shi	2180
+取表名	qu biao ming	567
+取表名列表	qu biao ming lie biao	54
+取表内容	qu biao nei rong	586
+取饼图乘数	qu bing tu cheng shu	1877
+取饼图第一个值	qu bing tu di yi ge zhi	1863
+取饼图关联字段	qu bing tu guan lian zi duan	1866
+取饼图名称	qu bing tu ming cheng	1873
+取饼图数量	qu bing tu shu liang	1864
+取饼图系列横半径	qu bing tu xi lie heng ban jing	1846
+取饼图系列三维旋转角度	qu bing tu xi lie san wei xuan zhuan jiao du	1844
+取饼图系列三维阴影	qu bing tu xi lie san wei yin ying	1891
+取饼图系列使用样式	qu bing tu xi lie shi yong yang shi	1858
+取饼图系列突出最大切片	qu bing tu xi lie tu chu zui da qie pian	1889
+取饼图系列线画笔粗细	qu bing tu xi lie xian hua bi cu xi	1879
+取饼图系列线画笔可视	qu bing tu xi lie xian hua bi ke shi	1881
+取饼图系列线画笔类型	qu bing tu xi lie xian hua bi lei xing	1883
+取饼图系列线画笔颜色	qu bing tu xi lie xian hua bi yan se	1887
+取饼图系列线画笔样式	qu bing tu xi lie xian hua bi yang shi	1885
+取饼图系列圆形	qu bing tu xi lie yuan xing	1853
+取饼图系列制定横半径	qu bing tu xi lie zhi ding heng ban jing	1850
+取饼图系列制定纵半径	qu bing tu xi lie zhi ding zong ban jing	1848
+取饼图系列中心点位置	qu bing tu xi lie zhong xin dian wei zhi	1851
+取饼图系列纵半径	qu bing tu xi lie zong ban jing	1845
+取饼图值	qu bing tu zhi	1868
+取饼图总计	qu bing tu zong ji	1869
+取饼图总计绝对值	qu bing tu zong ji jue dui zhi	1870
+取饼图最大值	qu bing tu zui da zhi	1875
+取饼图最后一个值	qu bing tu zui hou yi ge zhi	1862
+取饼图最小值	qu bing tu zui xiao zhi	1874
+取播放窗对象	qu bo fang chuang dui xiang	473
+取播放设置对象	qu bo fang she zhi dui xiang	475
+取播放视图对象	qu bo fang shi tu dui xiang	474
+取菜单	qu cai dan	3109
+取菜单复选大小	qu cai dan fu xuan da xiao	3108
+取菜单句柄	qu cai dan ju bing	3096
+取菜单条目尺寸	qu cai dan tiao mu chi cun	3104
+取菜单条目信息	qu cai dan tiao mu xin xi	3105
+取菜单项目数	qu cai dan xiang mu shu	2909
+取菜单状态	qu cai dan zhuang tai	3103
+取参数个数	qu can shu ge shu	562
+取插入位置	qu cha ru wei zhi	2411
+取插入修订色	qu cha ru xiu ding se	2838
+取长整数值	qu chang zheng shu zhi	2414
+取错误号	qu cuo wu hao	2481
+取错误文本	qu cuo wu wen ben	589
+取错误信息文本	qu cuo wu xin xi wen ben	250
+取打印区域	qu da yin qu yu	2305
+取打印页边空白	qu da yin ye bian kong bai	2307
+取单元格背景色	qu dan yuan ge bei jing se	2872
+取单元格别名	qu dan yuan ge bie ming	2864
+取单元格附加数据	qu dan yuan ge fu jia shu ju	968
+取单元格类型	qu dan yuan ge lei xing	2849
+取单元格批注	qu dan yuan ge pi zhu	2868
+取单元格数值	qu dan yuan ge shu zhi	2871
+取单元格文本	qu dan yuan ge wen ben	2870
+取单元格纵向对齐方式	qu dan yuan ge zong xiang dui qi fang shi	2867
+取当前	qu dang qian	2980
+取当前记录标记	qu dang qian ji lu biao ji	2588
+取当前记录更新状态	qu dang qian ji lu geng xin zhuang tai	2591
+取当前类型	qu dang qian lei xing	2973
+取当前列索引	qu dang qian lie suo yin	2528
+取当前列字段	qu dang qian lie zi duan	2529
+取当前名称	qu dang qian ming cheng	2972
+取当前系列最大文本宽度	qu dang qian xi lie zui da wen ben kuan du	2293
+取当前系列最宽标记宽度	qu dang qian xi lie zui kuan biao ji kuan du	2294
+取当前用户	qu dang qian yong hu	3030
+取第一个箭头结束横值	qu di yi ge jian tou jie shu heng zhi	1734
+取第一个箭头结束纵值	qu di yi ge jian tou jie shu zong zhi	1715
+取第一个箭头起始横值	qu di yi ge jian tou qi shi heng zhi	1772
+取第一个箭头起始纵值	qu di yi ge jian tou qi shi zong zhi	1753
+取第一个气泡半径	qu di yi ge qi pao ban jing	1655
+取底轴标签	qu di zhou biao qian	2251
+取底轴标签尺寸	qu di zhou biao qian chi cun	2246
+取底轴标签高度	qu di zhou biao qian gao du	2252
+取底轴标签宽度	qu di zhou biao qian kuan du	2250
+取底轴标题尺寸	qu di zhou biao ti chi cun	2254
+取底轴尺寸	qu di zhou chi cun	2245
+取底轴计算尺寸值	qu di zhou ji suan chi cun zhi	2263
+取底轴计算值横坐标	qu di zhou ji suan zhi heng zuo biao	2262
+取底轴计算值屏幕位置	qu di zhou ji suan zhi ping mu wei zhi	2266
+取底轴计算值纵坐标	qu di zhou ji suan zhi zong zuo biao	2260
+取底轴计算值坐标	qu di zhou ji suan zhi zuo biao	2265
+取底轴区域	qu di zhou qu yu	2264
+取底轴最大标签宽度	qu di zhou zui da biao qian kuan du	2249
+取底轴最佳标签风格	qu di zhou zui jia biao qian feng ge	2268
+取底轴最佳增量	qu di zhou zui jia zeng liang	2261
+取点数量	qu dian shu liang	2113
+取点系列点高度	qu dian xi lie dian gao du	1909
+取点系列点宽度	qu dian xi lie dian kuan du	1911
+取点系列画笔粗细	qu dian xi lie hua bi cu xi	1897
+取点系列画笔可视	qu dian xi lie hua bi ke shi	1899
+取点系列画笔类型	qu dian xi lie hua bi lei xing	1901
+取点系列画笔颜色	qu dian xi lie hua bi yan se	1905
+取点系列画笔样式	qu dian xi lie hua bi yang shi	1903
+取点系列画刷类型	qu dian xi lie hua shua lei xing	1917
+取点系列画刷颜色	qu dian xi lie hua shua yan se	1915
+取点系列可视	qu dian xi lie ke shi	1893
+取点系列类型	qu dian xi lie lei xing	1895
+取点系列膨胀边缘	qu dian xi lie peng zhang bian yuan	1907
+取点系列三维绘画	qu dian xi lie san wei hui hua	1913
+取段落对齐	qu duan luo dui qi	3036
+取对象接口	qu dui xiang jie kou	3017
+取二进制值	qu er jin zhi zhi	2740
+取方向	qu fang xiang	3001
+取方形印章编号	qu fang xing yin zhang bian hao	2917
+取方形印章防伪标识	qu fang xing yin zhang fang wei biao zhi	2915
+取方形印章文本	qu fang xing yin zhang wen ben	2920
+取服务器版本	qu fu wu qi ban ben	62
+取甘特系列点高度	qu gan te xi lie dian gao du	1692
+取甘特系列点画笔粗细	qu gan te xi lie dian hua bi cu xi	1680
+取甘特系列点画笔可视	qu gan te xi lie dian hua bi ke shi	1682
+取甘特系列点画笔类型	qu gan te xi lie dian hua bi lei xing	1684
+取甘特系列点画笔颜色	qu gan te xi lie dian hua bi yan se	1688
+取甘特系列点画笔样式	qu gan te xi lie dian hua bi yang shi	1686
+取甘特系列点画刷类型	qu gan te xi lie dian hua shua lei xing	1700
+取甘特系列点画刷颜色	qu gan te xi lie dian hua shua yan se	1698
+取甘特系列点可视	qu gan te xi lie dian ke shi	1677
+取甘特系列点宽度	qu gan te xi lie dian kuan du	1694
+取甘特系列点膨胀边缘	qu gan te xi lie dian peng zhang bian yuan	1690
+取甘特系列点三维绘画	qu gan te xi lie dian san wei hui hua	1696
+取甘特系列点三维阴影	qu gan te xi lie dian san wei yin ying	1675
+取甘特系列画笔粗细	qu gan te xi lie hua bi cu xi	1702
+取甘特系列画笔可视	qu gan te xi lie hua bi ke shi	1704
+取甘特系列画笔类型	qu gan te xi lie hua bi lei xing	1706
+取甘特系列画笔颜色	qu gan te xi lie hua bi yan se	1710
+取甘特系列画笔样式	qu gan te xi lie hua bi yang shi	1708
+取格式化图例	qu ge shi hua tu li	2298
+取个数	qu ge shu	2974
+取根节点名	qu gen jie dian ming	2743
+取根节点名文本	qu gen jie dian ming wen ben	2729
+取工作表接口	qu gong zuo biao jie kou	3018
+取光标位置值	qu guang biao wei zhi zhi	2109
+取光标位置值索引	qu guang biao wei zhi zhi suo yin	2110
+取合法字符	qu he fa zi fu	2421
+取横	qu heng	1058
+取横条系列边缘空白	qu heng tiao xi lie bian yuan kong bai	1923
+取横条系列多重横条显示类型	qu heng tiao xi lie duo chong heng tiao xian shi lei xing	1928
+取横条系列横条高度	qu heng tiao xi lie heng tiao gao du	1953
+取横条系列横条宽度百分数	qu heng tiao xi lie heng tiao kuan du bai fen shu	1932
+取横条系列横条类型	qu heng tiao xi lie heng tiao lei xing	1934
+取横条系列横条颜色	qu heng tiao xi lie heng tiao yan se	1926
+取横条系列画刷类型	qu heng tiao xi lie hua shua lei xing	1948
+取横条系列画刷颜色	qu heng tiao xi lie hua shua yan se	1946
+取横条系列偏移	qu heng tiao xi lie pian yi	1925
+取横条系列三维阴影	qu heng tiao xi lie san wei yin ying	1930
+取横条系列使用纵起点	qu heng tiao xi lie shi yong zong qi dian	1921
+取横条系列线画笔粗细	qu heng tiao xi lie xian hua bi cu xi	1936
+取横条系列线画笔可视	qu heng tiao xi lie xian hua bi ke shi	1938
+取横条系列线画笔类型	qu heng tiao xi lie xian hua bi lei xing	1940
+取横条系列线画笔颜色	qu heng tiao xi lie xian hua bi yan se	1944
+取横条系列线画笔样式	qu heng tiao xi lie xian hua bi yang shi	1942
+取横条系列自动调整标记位置	qu heng tiao xi lie zi dong tiao zheng biao ji wei zhi	1950
+取横条系列纵起点	qu heng tiao xi lie zong qi dian	1919
+取横向尺寸	qu heng xiang chi cun	2118
+取横向中间	qu heng xiang zhong jian	2304
+取横值乘数	qu heng zhi cheng shu	1649
+取横值第一个值	qu heng zhi di yi ge zhi	1636
+取横值点值	qu heng zhi dian zhi	1641
+取横值关联字段	qu heng zhi guan lian zi duan	1639
+取横值名称	qu heng zhi ming cheng	1645
+取横值日期时间格式	qu heng zhi ri qi shi jian ge shi	1651
+取横值数量	qu heng zhi shu liang	1637
+取横值总计	qu heng zhi zong ji	1642
+取横值总计绝对值	qu heng zhi zong ji jue dui zhi	1643
+取横值最大值	qu heng zhi zui da zhi	1647
+取横值最后一个值	qu heng zhi zui hou yi ge zhi	1635
+取横值最小值	qu heng zhi zui xiao zhi	1646
+取候选菜单文本	qu hou xuan cai dan wen ben	2865
+取幻灯对象	qu huan deng dui xiang	541
+取幻灯集对象	qu huan deng ji dui xiang	542
+取回更多记录	qu hui geng duo ji lu	1023
+取货币值	qu huo bi zhi	2447
+取记录个数	qu ji lu ge shu	566
+取记录集	qu ji lu ji	591
+取记录集行数	qu ji lu ji hang shu	73
+取给系列每点上色	qu ji xi lie mei dian shang shai	2192
+取键名称	qu jian ming cheng	893
+取箭头结束横值	qu jian tou jie shu heng zhi	1739
+取箭头结束横值乘数	qu jian tou jie shu heng zhi cheng shu	1748
+取箭头结束横值关联字段	qu jian tou jie shu heng zhi guan lian zi duan	1737
+取箭头结束横值名称	qu jian tou jie shu heng zhi ming cheng	1744
+取箭头结束横值数量	qu jian tou jie shu heng zhi shu liang	1735
+取箭头结束横值总计	qu jian tou jie shu heng zhi zong ji	1740
+取箭头结束横值总计绝对值	qu jian tou jie shu heng zhi zong ji jue dui zhi	1741
+取箭头结束横值最大值	qu jian tou jie shu heng zhi zui da zhi	1746
+取箭头结束横值最小值	qu jian tou jie shu heng zhi zui xiao zhi	1745
+取箭头结束纵值	qu jian tou jie shu zong zhi	1720
+取箭头结束纵值乘数	qu jian tou jie shu zong zhi cheng shu	1729
+取箭头结束纵值关联字段	qu jian tou jie shu zong zhi guan lian zi duan	1718
+取箭头结束纵值名称	qu jian tou jie shu zong zhi ming cheng	1725
+取箭头结束纵值数量	qu jian tou jie shu zong zhi shu liang	1716
+取箭头结束纵值总计	qu jian tou jie shu zong zhi zong ji	1721
+取箭头结束纵值总计绝对值	qu jian tou jie shu zong zhi zong ji jue dui zhi	1722
+取箭头结束纵值最大值	qu jian tou jie shu zong zhi zui da zhi	1727
+取箭头结束纵值最小值	qu jian tou jie shu zong zhi zui xiao zhi	1726
+取箭头起始横值	qu jian tou qi shi heng zhi	1777
+取箭头起始横值乘数	qu jian tou qi shi heng zhi cheng shu	1786
+取箭头起始横值关联字段	qu jian tou qi shi heng zhi guan lian zi duan	1775
+取箭头起始横值名称	qu jian tou qi shi heng zhi ming cheng	1782
+取箭头起始横值数量	qu jian tou qi shi heng zhi shu liang	1773
+取箭头起始横值总计	qu jian tou qi shi heng zhi zong ji	1778
+取箭头起始横值总计绝对值	qu jian tou qi shi heng zhi zong ji jue dui zhi	1779
+取箭头起始横值最大值	qu jian tou qi shi heng zhi zui da zhi	1784
+取箭头起始横值最小值	qu jian tou qi shi heng zhi zui xiao zhi	1783
+取箭头起始纵值	qu jian tou qi shi zong zhi	1758
+取箭头起始纵值乘数	qu jian tou qi shi zong zhi cheng shu	1767
+取箭头起始纵值关联字段	qu jian tou qi shi zong zhi guan lian zi duan	1756
+取箭头起始纵值名称	qu jian tou qi shi zong zhi ming cheng	1763
+取箭头起始纵值数量	qu jian tou qi shi zong zhi shu liang	1754
+取箭头起始纵值总计	qu jian tou qi shi zong zhi zong ji	1759
+取箭头起始纵值总计绝对值	qu jian tou qi shi zong zhi zong ji jue dui zhi	1760
+取箭头起始纵值最大值	qu jian tou qi shi zong zhi zui da zhi	1765
+取箭头起始纵值最小值	qu jian tou qi shi zong zhi zui xiao zhi	1764
+取箭头系列箭头高度	qu jian tou xi lie jian tou gao du	1791
+取箭头系列箭头宽度	qu jian tou xi lie jian tou kuan du	1789
+取脚注标题区域	qu jiao zhu biao ti qu yu	2244
+取节点值	qu jie dian zhi	2741
+取节点值文本	qu jie dian zhi wen ben	2726
+取节点值字节集	qu jie dian zhi zi jie ji	2725
+取节气	qu jie qi	2767
+取客户端版本	qu ke hu duan ban ben	61
+取可视点数量	qu ke shi dian shu liang	2094
+取可用字体	qu ke yong zi ti	3024
+取控件区域	qu kong jian qu yu	2310
+取空闲颜色	qu kong xian yan se	2297
+取库名列表	qu ku ming lie biao	57
+取快线系列横轴线类型	qu kuai xian xi lie heng zhou xian lei xing	1807
+取快线系列线画笔粗细	qu kuai xian xi lie xian hua bi cu xi	1795
+取快线系列线画笔可视	qu kuai xian xi lie xian hua bi ke shi	1797
+取快线系列线画笔类型	qu kuai xian xi lie xian hua bi lei xing	1799
+取快线系列线画笔颜色	qu kuai xian xi lie xian hua bi yan se	1803
+取快线系列线画笔样式	qu kuai xian xi lie xian hua bi yang shi	1801
+取快线系列颜色	qu kuai xian xi lie yan se	1793
+取快线系列纵轴线类型	qu kuai xian xi lie zong zhou xian lei xing	1805
+曲面坐标	qu mian zuo biao	79
+取描述	qu miao shu	2480
+取内容	qu nei rong	2423
+取气泡半径	qu qi pao ban jing	1660
+取气泡乘数	qu qi pao cheng shu	1668
+取气泡关联字段	qu qi pao guan lian zi duan	1658
+取气泡名称	qu qi pao ming cheng	1664
+取气泡数量	qu qi pao shu liang	1656
+取气泡系列正圆形	qu qi pao xi lie zheng yuan xing	1671
+取气泡总计	qu qi pao zong ji	1661
+取气泡总计绝对值	qu qi pao zong ji jue dui zhi	1662
+取气泡最大值	qu qi pao zui da zhi	1666
+取气泡最后一个值	qu qi pao zui hou yi ge zhi	1654
+取气泡最小值	qu qi pao zui xiao zhi	1665
+取区域系列点高度	qu qu yu xi lie dian gao du	2009
+取区域系列点画笔粗细	qu qu yu xi lie dian hua bi cu xi	1997
+取区域系列点画笔可视	qu qu yu xi lie dian hua bi ke shi	1999
+取区域系列点画笔类型	qu qu yu xi lie dian hua bi lei xing	2001
+取区域系列点画笔颜色	qu qu yu xi lie dian hua bi yan se	2005
+取区域系列点画笔样式	qu qu yu xi lie dian hua bi yang shi	2003
+取区域系列点画刷类型	qu qu yu xi lie dian hua shua lei xing	2017
+取区域系列点画刷颜色	qu qu yu xi lie dian hua shua yan se	2015
+取区域系列点可视	qu qu yu xi lie dian ke shi	1994
+取区域系列点宽度	qu qu yu xi lie dian kuan du	2011
+取区域系列点膨胀边缘	qu qu yu xi lie dian peng zhang bian yuan	2007
+取区域系列点三维绘画	qu qu yu xi lie dian san wei hui hua	2013
+取区域系列点三维阴影	qu qu yu xi lie dian san wei yin ying	1992
+取区域系列多重区域显示类型	qu qu yu xi lie duo chong qu yu xian shi lei xing	2021
+取区域系列反转阶梯图	qu qu yu xi lie fan zhuan jie ti tu	2023
+取区域系列画刷类型	qu qu yu xi lie hua shua lei xing	2049
+取区域系列绘画区域	qu qu yu xi lie hui hua qu yu	2035
+取区域系列阶梯图	qu qu yu xi lie jie ti tu	2019
+取区域系列区域线画笔粗细	qu qu yu xi lie qu yu xian hua bi cu xi	2037
+取区域系列区域线画笔可视	qu qu yu xi lie qu yu xian hua bi ke shi	2039
+取区域系列区域线画笔类型	qu qu yu xi lie qu yu xian hua bi lei xing	2041
+取区域系列区域线画笔颜色	qu qu yu xi lie qu yu xian hua bi yan se	2045
+取区域系列区域线画笔样式	qu qu yu xi lie qu yu xian hua bi yang shi	2043
+取区域系列线画笔粗细	qu qu yu xi lie xian hua bi cu xi	2025
+取区域系列线画笔可视	qu qu yu xi lie xian hua bi ke shi	2027
+取区域系列线画笔类型	qu qu yu xi lie xian hua bi lei xing	2029
+取区域系列线画笔颜色	qu qu yu xi lie xian hua bi yan se	2033
+取区域系列线画笔样式	qu qu yu xi lie xian hua bi yang shi	2031
+取区域颜色	qu qu yu yan se	2047
+取任意设备句柄	qu ren yi she bei ju bing	369
+取日期时间值	qu ri qi shi jian zhi	2445
+取删除修订色	qu shan chu xiu ding se	2836
+取数据集索引	qu shu ju ji suo yin	2428
+取数据摘要相关	qu shu ju zhai yao xiang guan	3172
+取竖条系列边缘空白	qu shu tiao xi lie bian yuan kong bai	1959
+取竖条系列多重竖条显示类型	qu shu tiao xi lie duo chong shu tiao xian shi lei xing	1964
+取竖条系列画刷类型	qu shu tiao xi lie hua shua lei xing	1987
+取竖条系列画刷颜色	qu shu tiao xi lie hua shua yan se	1985
+取竖条系列偏移	qu shu tiao xi lie pian yi	1961
+取竖条系列三维阴影	qu shu tiao xi lie san wei yin ying	1966
+取竖条系列使用纵起点	qu shu tiao xi lie shi yong zong qi dian	1957
+取竖条系列竖条宽度	qu shu tiao xi lie shu tiao kuan du	1971
+取竖条系列竖条宽度百分数	qu shu tiao xi lie shu tiao kuan du bai fen shu	1970
+取竖条系列竖条类型	qu shu tiao xi lie shu tiao lei xing	1973
+取竖条系列竖条颜色	qu shu tiao xi lie shu tiao yan se	1962
+取竖条系列线画笔粗细	qu shu tiao xi lie xian hua bi cu xi	1975
+取竖条系列线画笔可视	qu shu tiao xi lie xian hua bi ke shi	1977
+取竖条系列线画笔类型	qu shu tiao xi lie xian hua bi lei xing	1979
+取竖条系列线画笔颜色	qu shu tiao xi lie xian hua bi yan se	1983
+取竖条系列线画笔样式	qu shu tiao xi lie xian hua bi yang shi	1981
+取竖条系列制定竖条宽度	qu shu tiao xi lie zhi ding shu tiao kuan du	1968
+取竖条系列自动调整标记位置	qu shu tiao xi lie zi dong tiao zheng biao ji wei zhi	1989
+取竖条系列纵起点	qu shu tiao xi lie zong qi dian	1955
+取属性个数	qu shu xing ge shu	2724
+取属性值	qu shu xing zhi	2739
+取属性值文本	qu shu xing zhi wen ben	2722
+取双击操作条目	qu shuang ji cao zuo tiao mu	3107
+取水印输出方向	qu shui yin shu chu fang xiang	2926
+取水印文本	qu shui yin wen ben	2924
+取水印颜色	qu shui yin yan se	2930
+取水印字体	qu shui yin zi ti	2928
+取缩放系数	qu suo fang xi shu	823
+取所有表	qu suo you biao	587
+取所有参数	qu suo you can shu	561
+取所有存储过程	qu suo you cun chu guo cheng	2651
+取所有记录	qu suo you ji lu	565
+取所有属性名	qu suo you shu xing ming	2723
+取所有索引名	qu suo you suo yin ming	2596
+取所有字段	qu suo you zi duan	563
+取所有字段名	qu suo you zi duan ming	2650
+取所有子节点名	qu suo you zi jie dian ming	2727
+取所在表格	qu suo zai biao ge	2904
+取所在行	qu suo zai hang	2874
+取所在列	qu suo zai lie	2873
+取所在页	qu suo zai ye	2969
+取特定目录	qu te ding mu lu	3141
+取条目数量	qu tiao mu shu liang	3106
+取条目字串	qu tiao mu zi chuan	3102
+取图表区域	qu tu biao qu yu	2309
+取图例区域	qu tu li qu yu	2200
+取图例位置	qu tu li wei zhi	1077
+取图例文本	qu tu li wen ben	1076
+取图例项	qu tu li xiang	2199
+取图例项数	qu tu li xiang shu	2197
+取图例最大文本宽度	qu tu li zui da wen ben kuan du	2198
+取图形对象	qu tu xing dui xiang	2665
+取图形集对象	qu tu xing ji dui xiang	540
+取图形系列底值	qu tu xing xi lie di zhi	1809
+取图形系列顶值	qu tu xing xi lie ding zhi	1813
+取图形系列画笔粗细	qu tu xing xi lie hua bi cu xi	1825
+取图形系列画笔可视	qu tu xing xi lie hua bi ke shi	1827
+取图形系列画笔类型	qu tu xing xi lie hua bi lei xing	1829
+取图形系列画笔颜色	qu tu xing xi lie hua bi yan se	1833
+取图形系列画笔样式	qu tu xing xi lie hua bi yang shi	1831
+取图形系列画刷类型	qu tu xing xi lie hua shua lei xing	1839
+取图形系列画刷颜色	qu tu xing xi lie hua shua yan se	1837
+取图形系列内容	qu tu xing xi lie nei rong	1819
+取图形系列透明	qu tu xing xi lie tou ming	1817
+取图形系列图形类型	qu tu xing xi lie tu xing lei xing	1821
+取图形系列文本对齐方式	qu tu xing xi lie wen ben dui qi fang shi	1841
+取图形系列文本字体	qu tu xing xi lie wen ben zi ti	1835
+取图形系列右值	qu tu xing xi lie you zhi	1811
+取图形系列圆角矩形	qu tu xing xi lie yuan jiao ju xing	1823
+取图形系列左值	qu tu xing xi lie zuo zhi	1815
+取外观格式	qu wai guan ge shi	2906
+取位置值索引	qu wei zhi zhi suo yin	2114
+取文本尺寸	qu wen ben chi cun	2205
+取文本框文本	qu wen ben kuang wen ben	2922
+取文档对象	qu wen dang dui xiang	2711
+取文档集对象	qu wen dang ji dui xiang	2712
+取文档类型	qu wen dang lei xing	3204
+取文稿对象	qu wen gao dui xiang	543
+取文稿集对象	qu wen gao ji dui xiang	544
+取文件路径	qu wen jian lu jing	3050
+取文件内容	qu wen jian nei rong	3057
+取文字类型	qu wen zi lei xing	3032
+取物理索引	qu wu li suo yin	2429
+取系列百分数格式	qu xi lie bai fen shu ge shi	2148
+取系列标记内容	qu xi lie biao ji nei rong	2134
+取系列标题	qu xi lie biao ti	2140
+取系列重算设置	qu xi lie chong suan she zhi	2146
+取系列横向标签关联字段	qu xi lie heng xiang biao qian guan lian zi duan	2129
+取系列横向标签内容	qu xi lie heng xiang biao qian nei rong	2131
+取系列横向值	qu xi lie heng xiang zhi	2127
+取系列横轴	qu xi lie heng zhou	2184
+取系列可视	qu xi lie ke shi	2196
+取系列类型	qu xi lie lei xing	1609
+取系列首位置值索引	qu xi lie shou wei zhi zhi suo yin	2186
+取系列数量	qu xi lie shu liang	2276
+取系列竖轴深度	qu xi lie shu zhou shen du	2123
+取系列尾位置值索引	qu xi lie wei wei zhi zhi suo yin	2185
+取系列颜色	qu xi lie yan se	2144
+取系列颜色源	qu xi lie yan se yuan	2190
+取系列允许单个点	qu xi lie yun xu dan ge dian	2194
+取系列在图例中显示	qu xi lie zai tu li zhong xian shi	2142
+取系列值格式	qu xi lie zhi ge shi	2136
+取系列值颜色	qu xi lie zhi yan se	2138
+取系列纵向值	qu xi lie zong xiang zhi	2125
+取系列纵轴	qu xi lie zong zhou	2133
+取系列最大横值	qu xi lie zui da heng zhi	2105
+取系列最大纵值	qu xi lie zui da zong zhi	2103
+取系列最宽标记宽度	qu xi lie zui kuan biao ji kuan du	2106
+取系列最小横值	qu xi lie zui xiao heng zhi	2104
+取系列最小纵值	qu xi lie zui xiao zong zhi	2102
+取系统菜单句柄	qu xi tong cai dan ju bing	3100
+取下拉列表文本	qu xia la lie biao wen ben	896
+取下一个轴线标签	qu xia yi ge zhou xian biao qian	1075
+取显示比例	qu xian shi bi li	3022
+取显示宽度	qu xian shi kuan du	2433
+取显示内容	qu xian shi nei rong	2434
+取线系列点高度	qu xian xi lie dian gao du	2069
+取线系列点画笔粗细	qu xian xi lie dian hua bi cu xi	2057
+取线系列点画笔可视	qu xian xi lie dian hua bi ke shi	2059
+取线系列点画笔类型	qu xian xi lie dian hua bi lei xing	2061
+取线系列点画笔颜色	qu xian xi lie dian hua bi yan se	2065
+取线系列点画笔样式	qu xian xi lie dian hua bi yang shi	2063
+取线系列点画刷类型	qu xian xi lie dian hua shua lei xing	2077
+取线系列点画刷颜色	qu xian xi lie dian hua shua yan se	2075
+取线系列点可视	qu xian xi lie dian ke shi	2054
+取线系列点宽度	qu xian xi lie dian kuan du	2071
+取线系列点膨胀边缘	qu xian xi lie dian peng zhang bian yuan	2067
+取线系列点三维绘画	qu xian xi lie dian san wei hui hua	2073
+取线系列点三维阴影	qu xian xi lie dian san wei yin ying	2052
+取线系列反转阶梯图	qu xian xi lie fan zhuan jie ti tu	2081
+取线系列画笔粗细	qu xian xi lie hua bi cu xi	2083
+取线系列画笔可视	qu xian xi lie hua bi ke shi	2085
+取线系列画笔类型	qu xian xi lie hua bi lei xing	2087
+取线系列画笔颜色	qu xian xi lie hua bi yan se	2091
+取线系列画笔样式	qu xian xi lie hua bi yang shi	2089
+取线系列画刷类型	qu xian xi lie hua shua lei xing	2093
+取线系列阶梯图	qu xian xi lie jie ti tu	2079
+曲线坐标	qu xian zuo biao	80
+取项目	qu xiang mu	937
+取消	qu xiao	579
+取消编辑	qu xiao bian ji	2614
+取消裁剪区域	qu xiao cai jian qu yu	2227
+取消连接过程	qu xiao lian jie guo cheng	2652
+取消批量更新	qu xiao pi liang geng xin	2590
+取小数值	qu xiao shu zhi	2443
+取消息代码	qu xiao xi dai ma	3066
+取消选中	qu xiao xuan zhong	2931
+取消之前	qu xiao zhi qian	2543
+取消组合	qu xiao zu he	2937
+取修订接口	qu xiu ding jie kou	3015
+取修订状态	qu xiu ding zhuang tai	2840
+取选择区	qu xuan ze qu	887
+取选择区对象	qu xuan ze qu dui xiang	2710
+取选择区文本底纹	qu xuan ze qu wen ben di wen	3041
+取选择区文本颜色	qu xuan ze qu wen ben yan se	3043
+取选择区字体	qu xuan ze qu zi ti	3045
+取选择文本	qu xuan ze wen ben	2409
+取掩码	qu yan ma	2431
+取页脚	qu ye jiao	2995
+取页眉	qu ye mei	2997
+取页面接口	qu ye mian jie kou	3019
+取页数	qu ye shu	2988
+取已选择单元格数	qu yi xuan ze dan yuan ge shu	2866
+取影响行数	qu ying xiang hang shu	44
+取用户列表	qu yong hu lie biao	50
+区域	qu yu	1068
+区域输出文本	qu yu shu chu wen ben	2203
+区域填充	qu yu tian chong	2214
+区域选择	qu yu xuan ze	948
+取圆形印章编号	qu yuan xing yin zhang bian hao	2918
+取圆形印章密码	qu yuan xing yin zhang mi ma	2916
+取整数值	qu zheng shu zhi	2441
+取值	qu zhi	889
+取只读	qu zhi du	895
+取值横向位置	qu zhi heng xiang wei zhi	2119
+取值纵向位置	qu zhi zong xiang wei zhi	2117
+取轴线标签	qu zhou xian biao qian	1078
+取子菜单句柄	qu zi cai dan ju bing	3101
+取自定义横条系列横条高度	qu zi ding yi heng tiao xi lie heng tiao gao du	1952
+取字段	qu zi duan	2608
+取字段个数	qu zi duan ge shu	564
+取字段宽度	qu zi duan kuan du	63
+取字段总数	qu zi duan zong shu	69
+取字符数	qu zi fu shu	2977
+取子节点个数	qu zi jie dian ge shu	2728
+取子节点名	qu zi jie dian ming	2742
+取纵	qu zong	1056
+取纵向尺寸	qu zong xiang chi cun	2116
+取纵向中间	qu zong xiang zhong jian	2303
+取纵值乘数	qu zong zhi cheng shu	1628
+取纵值第一个值	qu zong zhi di yi ge zhi	1615
+取纵值点值	qu zong zhi dian zhi	1620
+取纵值关联字段	qu zong zhi guan lian zi duan	1618
+取纵值名称	qu zong zhi ming cheng	1624
+取纵值日期时间格式	qu zong zhi ri qi shi jian ge shi	1630
+取纵值数量	qu zong zhi shu liang	1616
+取纵值总计	qu zong zhi zong ji	1621
+取纵值总计绝对值	qu zong zhi zong ji jue dui zhi	1622
+取纵值最大值	qu zong zhi zui da zhi	1626
+取纵值最后一个值	qu zong zhi zui hou yi ge zhi	1614
+取纵值最小值	qu zong zhi zui xiao zhi	1625
+取最大输入长度	qu zui da shu ru chang du	891
+取最大值和最小值	qu zui da zhi he zui xiao zhi	2267
+取最后一个箭头结束横值	qu zui hou yi ge jian tou jie shu heng zhi	1733
+取最后一个箭头结束纵值	qu zui hou yi ge jian tou jie shu zong zhi	1714
+取最后一个箭头起始横值	qu zui hou yi ge jian tou qi shi heng zhi	1771
+取最后一个箭头起始纵值	qu zui hou yi ge jian tou qi shi zong zhi	1752
+取最佳底轴增量	qu zui jia di zhou zeng liang	2269
+全局光模式	quan ju guang mo shi	131
+全局设置	quan ju she zhi	826
+全均齐	quan jun qi	2783
+权限	quan xian	2635
+全选	quan xuan	3046
+确认删除	que ren shan chu	2514
+热键被改变	re jian bei gai bian	854
+热键框	re jian kuang	858
+人工	ren gong	385
+日期与时间型	ri qi yu shi jian xing	13
+散点型	san dian xing	2775
+三号	san hao	2819
+三号裁剪面	san hao cai jian mian	199
+三号光源	san hao guang yuan	148
+三角形	san jiao xing	1005
+散射光	san she guang	130
+三十分钟	san shi fen zhong	986
+三十秒	san shi miao	991
+三天	san tian	979
+三维高度	san wei gao du	1145
+三维横向偏移	san wei heng xiang pian yi	1112
+三维宽度	san wei kuan du	1090
+三维墙视图	san wei qiang shi tu	1091
+三维倾斜	san wei qing xie	1108
+三维设置	san wei she zhi	1114
+三维视图	san wei shi tu	1092
+三维缩放	san wei suo fang	1106
+三维缩放百分数	san wei suo fang bai fen shu	2272
+三维缩放被恢复	san wei suo fang bei hui fu	1071
+三维缩放动画	san wei suo fang dong hua	1603
+三维缩放动画步数	san wei suo fang dong hua bu shu	1602
+三维缩放区域	san wei suo fang qu yu	2271
+三维透视	san wei tou shi	1110
+三维系列高度	san wei xi lie gao du	1115
+三维旋转	san wei xuan zhuan	1109
+三维正视图	san wei zheng shi tu	1113
+三维直角	san wei zhi jiao	1111
+三维柱型	san wei zhu xing	2781
+三维纵向偏移	san wei zong xiang pian yi	1107
+色彩深度	se cai shen du	238
+色彩增殖	se cai zeng zhi	615
+删除表	shan chu biao	582
+删除菜单条目	shan chu cai dan tiao mu	3112
+删除菜单项	shan chu cai dan xiang	2910
+删除当前	shan chu dang qian	2975
+删除当前列	shan chu dang qian lie	2887
+删除当前行	shan chu dang qian xing	2888
+删除当前页	shan chu dang qian ye	2984
+删除到回收站	shan chu dao hui shou zhan	3145
+删除点值	shan chu dian zhi	2112
+删除幻灯片	shan chu huan deng pian	537
+删除库	shan chu ku	59
+删除列表列	shan chu lie biao lie	283
+删除全部幻灯片	shan chu quan bu huan deng pian	536
+删除书签	shan chu shu qian	2603
+删除索引	shan chu suo yin	47
+删除所有别名	shan chu suo you bie ming	2875
+删除所有系列	shan chu suo you xi lie	2283
+删除尾空页	shan chu wei kong ye	2990
+删除纹理号	shan chu wen li hao	290
+删除系列	shan chu xi lie	2282
+删除选中	shan chu xuan zhong	2403
+删除页脚	shan chu ye jiao	2992
+删除页眉	shan chu ye mei	2993
+删除用户	shan chu yong hu	52
+删除之前	shan chu zhi qian	2541
+删除主键	shan chu zhu jian	23
+删除着色描述表	shan chu zhuo se miao shu biao	370
+删除字段	shan chu zi duan	26
+扇形三角形	shan xing san jiao xing	208
+上标	shang biao	2787
+上方	shang fang	602
+上下箭头键显示建议	shang xia jian tou jian xian shi jian yi	930
+上一页	shang yi ye	2291
+上移一层	shang yi yi ceng	2945
+上一张	shang yi zhang	467
+设备操作	she bei cao zuo	375
+设放映指针	she fang ying zhi zhen	466
+设置菜单帮助场景	she zhi cai dan bang zhu chang jing	3091
+设置菜单位图	she zhi cai dan wei tu	3089
+设置裁剪平面	she zhi cai jian ping mian	347
+设置裁剪区域	she zhi cai jian qu yu	2228
+设置材质	she zhi cai zhi	306
+设置材质颜色	she zhi cai zhi yan se	305
+设置窗口菜单	she zhi chuang kou cai dan	3092
+设置点	she zhi dian	349
+设置点大小	she zhi dian da xiao	340
+设置多边形模式	she zhi duo bian xing mo shi	346
+设置法向量	she zhi fa xiang liang	303
+设置观察坐标	she zhi guan cha zuo biao	353
+设置光栅位置	she zhi guang shan wei zhi	279
+设置光源参数	she zhi guang yuan can shu	308
+设置光照模式	she zhi guang zhao mo shi	307
+设置画面质量	she zhi hua mian zhi liang	330
+设置密码	she zhi mi ma	3053
+设置明暗模式	she zhi ming an mo shi	302
+设置默认菜单条目	she zhi mo ren cai dan tiao mu	3090
+设置偏移列表数	she zhi pian yi lie biao shu	282
+设置曲面等分网格	she zhi qu mian deng fen wang ge	333
+设置曲面点	she zhi qu mian dian	334
+设置曲面控制点	she zhi qu mian kong zhi dian	335
+设置曲线等分点	she zhi qu xian deng fen dian	337
+设置曲线点	she zhi qu xian dian	338
+设置曲线控制点	she zhi qu xian kong zhi dian	339
+设置视口	she zhi shi kou	359
+设置书签	she zhi shu qian	2602
+设置提示	she zhi ti shi	970
+设置图案填充	she zhi tu an tian chong	344
+设置纹理映射方式	she zhi wen li ying she fang shi	295
+设置纹理映射坐标	she zhi wen li ying she zuo biao	296
+设置雾	she zhi wu	304
+设置线宽	she zhi xian kuan	341
+设置线型	she zhi xian xing	345
+设置像素存储字节数	she zhi xiang su cun chu zi jie shu	276
+设置颜色	she zhi yan se	313
+设置颜色索引	she zhi yan se suo yin	312
+设置正面	she zhi zheng mian	348
+深度测试	shen du ce shi	327
+深度缓存位	shen du huan cun wei	164
+深度类型	shen du lei xing	84
+生成列表号	sheng cheng lie biao hao	286
+生成纹理号	sheng cheng wen li hao	294
+生成纹理坐标	sheng cheng wen li zuo biao	293
+声音	sheng yin	737
+声音从声音流创建	sheng yin cong sheng yin liu chuang jian	734
+声音从文件创建	sheng yin cong wen jian chuang jian	736
+声音从字节集创建	sheng yin cong zi jie ji chuang jian	735
+声音流从文件创建	sheng yin liu cong wen jian chuang jian	731
+声音流从字节集创建	sheng yin liu cong zi jie ji chuang jian	730
+声音流销毁	sheng yin liu xiao hui	729
+声音实例销毁	sheng yin shi li xiao hui	732
+声音销毁	sheng yin xiao hui	733
+十二小时	shi er xiao shi	982
+释放记录集	shi fang ji lu ji	74
+释放设备句柄	shi fang she bei ju bing	368
+释放远程动态链接库	shi fang yuan cheng dong tai lian jie ku	76
+十分钟	shi fen zhong	988
+是否重名	shi fou chong ming	2335
+是否存在列表	shi fou cun zai lie biao	284
+是否存在纹理号	shi fou cun zai wen li hao	291
+是否打开下拉列表	shi fou da kai xia la lie biao	2357
+是否禁止为空	shi fou jin zhi wei kong	2425
+是否就绪	shi fou jiu xu	3202
+是否可视	shi fou ke shi	2419
+是否可调整尺寸	shi fou ke tiao zheng chi cun	1084
+是否可写	shi fou ke xie	2426
+是否启用标题提示	shi fou qi yong biao ti ti shi	912
+是否启用提示	shi fou qi yong ti shi	911
+是否首行缩进	shi fou shou hang suo jin	3034
+是否为表格	shi fou wei biao ge	2907
+是否为单向	shi fou wei dan xiang	2577
+是否为高色值	shi fou wei gao se zhi	2295
+是否为合法字符	shi fou wei he fa zi fu	2417
+是否为空闲颜色	shi fou wei kong xian yan se	2296
+是否为双字节字符	shi fou wei shuang zi jie zi fu	273
+是否为顺序	shi fou wei shun xu	2599
+是否选中列表项	shi fou xuan zhong lie biao xiang	2395
+是否已加载图片	shi fou yi jia zai tu pian	2489
+是否已修改	shi fou yi xiu gai	3051
+是否找到	shi fou zhao dao	2578
+是否正在打印	shi fou zheng zai da yin	1118
+是否正在下载	shi fou zheng zai xia zai	3203
+是否支持	shi fou zhi chi	2589
+时间戳记型	shi jian chuo ji xing	16
+时间戳型	shi jian chuo xing	2369
+时间间隔	shi jian jian ge	406
+时间型	shi jian xing	2379
+实例	shi li	757
+实例定义遮罩层	shi li ding yi zhe zhao ceng	755
+实例倾斜	shi li qing xie	751
+实例取倾斜值	shi li qu qing xie zhi	747
+实例取缩放比例	shi li qu suo fang bi li	748
+实例取所在层	shi li qu suo zai ceng	746
+实例取位置	shi li qu wei zhi	750
+实例取旋转角度	shi li qu xuan zhuan jiao du	749
+实例缩放	shi li suo fang	752
+实例添加动作	shi li tian jia dong zuo	741
+实例添加滤镜	shi li tian jia lv jing	738
+实例旋转	shi li xuan zhuan	753
+实例移除	shi li yi chu	756
+实例已存在	shi li yi cun zai	829
+实例移动	shi li yi dong	754
+实例允许缓存	shi li yun xu huan cun	740
+实例置混合模式	shi li zhi hun he mo shi	739
+实例置名称	shi li zhi ming cheng	744
+实例置所在层	shi li zhi suo zai ceng	745
+实例置形变率	shi li zhi xing bian lv	742
+实例置遮罩级别	shi li zhi zhe zhao ji bie	743
+十秒	shi miao	993
+视频	shi pin	692
+视频创建	shi pin chuang jian	688
+视频从文件创建	shi pin cong wen jian chuang jian	690
+视频从字节集创建	shi pin cong zi jie ji chuang jian	689
+视频取帧数量	shi pin qu zhen shu liang	686
+视频是否有音频	shi pin shi fou you yin pin	685
+视频销毁	shi pin xiao hui	691
+视频置尺寸	shi pin zhi chi cun	687
+视图类型	shi tu lei xing	522
+十五分钟	shi wu fen zhong	987
+事务进行中	shi wu jin xing zhong	2638
+十五秒	shi wu miao	992
+事务已回滚	shi wu yi hui gun	2617
+事务已开始	shi wu yi kai shi	2623
+事务已提交	shi wu yi ti jiao	2622
+失效	shi xiao	185
+使用符号选中	shi yong fu hao xuan zhong	3115
+使用服务器端游标	shi yong fu wu qi duan you biao	2641
+十字多边形	shi zi duo bian xing	2803
+十字线形	shi zi xian xing	1003
+首层折叠标志	shou ceng zhe die biao zhi	3209
+首幻灯片索引	shou huan deng pian suo yin	515
+首可见列	shou ke jian lie	956
+首可见行	shou ke jian xing	955
+首可见行或首可见列被改变	shou ke jian xing huo shou ke jian lie bei gai bian	861
+收缩数据库	shou suo shu ju ku	580
+首选定	shou xuan ding	2704
+首页送纸盒	shou ye song zhi he	2685
+鼠标按下	shu biao an xia	637
+鼠标离开	shu biao li kai	638
+鼠标抬起	shu biao tai qi	636
+鼠标悬浮	shu biao xuan fu	641
+输出三维文本	shu chu san wei wen ben	2234
+输出文本	shu chu wen ben	2204
+输出页面图像	shu chu ye mian tu xiang	2985
+数据被录入	shu ju bei lu ru	907
+数据被确认	shu ju bei que ren	865
+数据被修改	shu ju bei xiu gai	906
+数据导航	shu ju dao hang	2474
+数据感知编辑框	shu ju gan zhi bian ji kuang	2506
+数据感知编辑框获得焦点	shu ju gan zhi bian ji kuang huo de jiao dian	2324
+数据感知编辑框内容被改变	shu ju gan zhi bian ji kuang nei rong bei gai bian	2325
+数据感知编辑框失去焦点	shu ju gan zhi bian ji kuang shi qu jiao dian	2323
+数据感知表格	shu ju gan zhi biao ge	2531
+数据感知标签	shu ju gan zhi biao qian	2457
+数据感知标签被单击	shu ju gan zhi biao qian bei dan ji	2319
+数据感知标签被双击	shu ju gan zhi biao qian bei shuang ji	2318
+数据感知查找列表框	shu ju gan zhi cha zhao lie biao kuang	2368
+数据感知查找组合框	shu ju gan zhi cha zhao zu he kuang	2363
+数据感知单选分组框	shu ju gan zhi dan xuan fen zu kuang	2479
+数据感知多行编辑框	shu ju gan zhi duo hang bian ji kuang	2412
+数据感知多行编辑框获得焦点	shu ju gan zhi duo hang bian ji kuang huo de jiao dian	2321
+数据感知多行编辑框内容被改变	shu ju gan zhi duo hang bian ji kuang nei rong bei gai bian	2322
+数据感知多行编辑框失去焦点	shu ju gan zhi duo hang bian ji kuang shi qu jiao dian	2320
+数据感知复选框	shu ju gan zhi fu xuan kuang	2390
+数据感知复选框获得焦点	shu ju gan zhi fu xuan kuang huo de jiao dian	2317
+数据感知复选框失去焦点	shu ju gan zhi fu xuan kuang shi qu jiao dian	2316
+数据感知控件面板	shu ju gan zhi kong jian mian ban	2350
+数据感知列表框	shu ju gan zhi lie biao kuang	2396
+数据感知图表	shu ju gan zhi tu biao	2311
+数据感知图片框	shu ju gan zhi tu pian kuang	2491
+数据感知组合框	shu ju gan zhi zu he kuang	2405
+数据格式错误	shu ju ge shi cuo wu	905
+数据集	shu ju ji	2616
+数据集个数	shu ju ji ge shu	2640
+数据集型	shu ju ji xing	2370
+数据加密	shu ju jia mi	3178
+数据解密	shu ju jie mi	3177
+数据解压	shu ju jie ya	3167
+数据库操作类型	shu ju ku cao zuo lei xing	1024
+数据库更新状态	shu ju ku geng xin zhuang tai	2453
+数据库命令	shu ju ku ming ling	2313
+数据库受影响的记录	shu ju ku shou ying xiang de ji lu	2456
+数据库支持库	shu ju ku zhi chi ku	592
+数据库字段	shu ju ku zi duan	2449
+数据库字段类型	shu ju ku zi duan lei xing	2383
+数据取摘要	shu ju qu zhai yao	3171
+数据压缩	shu ju ya suo	3168
+书签是否有效	shu qian shi fou you xiao	2595
+输入公式	shu ru gong shi	2844
+竖条	shu tiao	1067
+属性设置	shu xing she zhi	2932
+数值相关	shu zhi xiang guan	3182
+竖轴表格线风格	shu zhou biao ge xian feng ge	1247
+竖轴表格线居中	shu zhou biao ge xian ju zhong	1240
+竖轴表格线可视	shu zhou biao ge xian ke shi	1246
+竖轴表格线宽度	shu zhou biao ge xian kuan du	1245
+竖轴表格线设置	shu zhou biao ge xian she zhi	1250
+竖轴表格线颜色	shu zhou biao ge xian yan se	1249
+竖轴表格线样式	shu zhou biao ge xian yang shi	1248
+竖轴标签尺寸	shu zhou biao qian chi cun	1235
+竖轴标签风格	shu zhou biao qian feng ge	1234
+竖轴标签可视	shu zhou biao qian ke shi	1241
+竖轴标签逻辑位置	shu zhou biao qian luo ji wei zhi	1207
+竖轴标签字体	shu zhou biao qian zi ti	1238
+竖轴标签字体颜色	shu zhou biao qian zi ti yan se	1237
+竖轴标题	shu zhou biao ti	1200
+竖轴标题逻辑位置	shu zhou biao ti luo ji wei zhi	1206
+竖轴标题设置	shu zhou biao ti she zhi	1201
+竖轴标题字体	shu zhou biao ti zi ti	1199
+竖轴标题字体颜色	shu zhou biao ti zi ti yan se	1198
+竖轴对数显示	shu zhou dui shu xian shi	1233
+竖轴多行标签	shu zhou duo hang biao qian	1196
+竖轴反转	shu zhou fan zhuan	1242
+竖轴结束像素位置	shu zhou jie shu xiang su wei zhi	1195
+竖轴精确日期时间	shu zhou jing que ri qi shi jian	1251
+竖轴刻度长度	shu zhou ke du chang du	1203
+竖轴刻度风格	shu zhou ke du feng ge	1225
+竖轴刻度可视	shu zhou ke du ke shi	1224
+竖轴刻度宽度	shu zhou ke du kuan du	1223
+竖轴刻度设置	shu zhou ke du she zhi	1228
+竖轴刻度颜色	shu zhou ke du yan se	1227
+竖轴刻度样式	shu zhou ke du yang shi	1226
+竖轴可视	shu zhou ke shi	1197
+竖轴逻辑位置	shu zhou luo ji wei zhi	1208
+竖轴内部刻度长度	shu zhou nei bu ke du chang du	1204
+竖轴内部刻度风格	shu zhou nei bu ke du feng ge	1213
+竖轴内部刻度可视	shu zhou nei bu ke du ke shi	1212
+竖轴内部刻度宽度	shu zhou nei bu ke du kuan du	1211
+竖轴内部刻度设置	shu zhou nei bu ke du she zhi	1216
+竖轴内部刻度颜色	shu zhou nei bu ke du yan se	1215
+竖轴内部刻度样式	shu zhou nei bu ke du yang shi	1214
+竖轴起始位置	shu zhou qi shi wei zhi	1209
+竖轴起始像素位置	shu zhou qi shi xiang su wei zhi	1210
+竖轴日期时间格式	shu zhou ri qi shi jian ge shi	1252
+竖轴舍入标签值	shu zhou she ru biao qian zhi	1205
+竖轴设置	shu zhou she zhi	1263
+竖轴深度显示	shu zhou shen du xian shi	1089
+竖轴水平线	shu zhou shui ping xian	1244
+竖轴位置	shu zhou wei zhi	1239
+竖轴线设置	shu zhou xian she zhi	1259
+竖轴显示两端标签	shu zhou xian shi liang duan biao qian	1236
+竖轴小刻度长度	shu zhou xiao ke du chang du	1229
+竖轴小刻度风格	shu zhou xiao ke du feng ge	1219
+竖轴小刻度可视	shu zhou xiao ke du ke shi	1218
+竖轴小刻度宽度	shu zhou xiao ke du kuan du	1217
+竖轴小刻度设置	shu zhou xiao ke du she zhi	1222
+竖轴小刻度数量	shu zhou xiao ke du shu liang	1230
+竖轴小刻度颜色	shu zhou xiao ke du yan se	1221
+竖轴小刻度样式	shu zhou xiao ke du yang shi	1220
+竖轴增量	shu zhou zeng liang	1243
+竖轴值格式	shu zhou zhi ge shi	1253
+竖轴只在标签位置显示刻度	shu zhou zhi zai biao qian wei zhi xian shi ke du	1202
+竖轴轴线风格	shu zhou zhou xian feng ge	1256
+竖轴轴线可视	shu zhou zhou xian ke shi	1255
+竖轴轴线宽度	shu zhou zhou xian kuan du	1254
+竖轴轴线颜色	shu zhou zhou xian yan se	1258
+竖轴轴线样式	shu zhou zhou xian yang shi	1257
+竖轴自动计算	shu zhou zi dong ji suan	1262
+竖轴自动计算最大值	shu zhou zi dong ji suan zui da zhi	1261
+竖轴自动计算最小值	shu zhou zi dong ji suan zui xiao zhi	1260
+竖轴最大深度	shu zhou zui da shen du	1120
+竖轴最大值	shu zhou zui da zhi	1232
+竖轴最小值	shu zhou zui xiao zhi	1231
+数组型	shu zu xing	2371
+刷新表格	shua xin biao ge	864
+刷新间隔	shua xin jian ge	1607
+刷新系列	shua xin xi lie	2101
+刷新之前	shua xin zhi qian	2537
+衰减	shuai jian	652
+衰减遮罩层	shuai jian zhe zhao ceng	219
+双缓存像素格式	shuang huan cun xiang su ge shi	217
+双击前	shuang ji qian	548
+双精度浮点型	shuang jing du fu dian xing	17
+双面光模式	shuang mian guang mo shi	132
+双删除线	shuang shan chu xian	2700
+水平	shui ping	447
+水平标尺	shui ping biao chi	3012
+水平等距	shui ping deng ju	2942
+水平居中	shui ping ju zhong	2949
+水印	shui yin	2792
+顺时针	shun shi zhen	204
+四边形	si bian xing	207
+四号	si hao	2817
+四号裁剪面	si hao cai jian mian	198
+四号光源	si hao guang yuan	147
+四角星	si jiao xing	2801
+锁定单元格	suo ding dan yuan ge	2851
+锁定当前单元格	suo ding dang qian dan yuan ge	2850
+锁定当前对象	suo ding dang qian dui xiang	2935
+锁定对象	suo ding dui xiang	2936
+缩放缓存	suo fang huan cun	166
+锁类型	suo lei xing	2561
+缩小纹理滤波	suo xiao wen li lv bo	115
+索引	suo yin	34
+索引名	suo yin ming	32
+索引字段个数	suo yin zi duan ge shu	2562
+所有级别	suo you ji bie	390
+抬起	tai qi	640
+弹出轨迹菜单	tan chu gui ji cai dan	3087
+弹出轨迹窗口扩展	tan chu gui ji chuang kou kuo zhan	3086
+特殊模型	te shu mo xing	271
+提供者	ti gong zhe	2629
+替换当前值	ti huan dang qian zhi	182
+替换选择文本	ti huan xuan ze wen ben	2408
+提交	ti jiao	2597
+提交时自动开始新事务	ti jiao shi zi dong kai shi xin shi wu	2647
+提交之前	ti jiao zhi qian	2538
+提示项	ti shi xiang	2470
+填充	tian chong	2846
+填充表格	tian chong biao ge	2845
+填充创建	tian chong chuang jian	715
+填充类型	tian chong lei xing	2774
+填充类型创建渐变填充类型	tian chong lei xing chuang jian jian bian tian chong lei xing	708
+填充类型创建实心填充类型	tian chong lei xing chuang jian shi xin tian chong lei xing	709
+填充类型创建图片填充类型	tian chong lei xing chuang jian tu pian tian chong lei xing	707
+填充倾斜	tian chong qing xie	713
+填充缩放	tian chong suo fang	712
+填充销毁	tian chong xiao hui	714
+填充旋转	tian chong xuan zhuan	711
+填充样品值	tian chong yang pin zhi	2111
+填充移动中心点	tian chong yi dong zhong xin dian	710
+添加背景图	tian jia bei jing tu	529
+添加标签	tian jia biao qian	2344
+添加菜单项	tian jia cai dan xiang	3117
+添加单色背景	tian jia dan se bei jing	534
+添加甘特	tian jia gan te	1672
+添加横纵节点	tian jia heng zong jie dian	2120
+添加候选别名	tian jia hou xuan bie ming	2876
+添加箭头	tian jia jian tou	1787
+添加节点	tian jia jie dian	2122
+添加空节点	tian jia kong jie dian	2121
+添加列表项	tian jia lie biao xiang	2404
+添加媒体	tian jia mei ti	535
+添加气泡	tian jia qi pao	1669
+添加数据感知编辑框	tian jia shu ju gan zhi bian ji kuang	2349
+添加数据感知标签	tian jia shu ju gan zhi biao qian	2347
+添加数据感知多行编辑框	tian jia shu ju gan zhi duo hang bian ji kuang	2348
+添加数据感知复选框	tian jia shu ju gan zhi fu xuan kuang	2345
+添加数据感知图片框	tian jia shu ju gan zhi tu pian kuang	2346
+添加双色背景	tian jia shuang se bei jing	533
+添加图案背景	tian jia tu an bei jing	531
+添加图形	tian jia tu xing	2664
+添加文本框	tian jia wen ben kuang	2663
+添加文档	tian jia wen dang	2709
+添加系列	tian jia xi lie	2306
+添加页	tian jia ye	2991
+添加艺术字	tian jia yi shu zi	2662
+添加预设背景	tian jia yu she bei jing	532
+添加预设纹理	tian jia yu she wen li	530
+调节处理	tiao jie chu li	96
+条目长度	tiao mu chang du	3076
+条目类型	tiao mu lei xing	3083
+条目内容	tiao mu nei rong	3077
+条目数据	tiao mu shu ju	3078
+条目状态	tiao mu zhuang tai	3082
+调整尺寸	tiao zheng chi cun	1073
+调整底轴最大最小值	tiao zheng di zhou zui da zui xiao zhi	2270
+跳转到书签	tiao zhuan dao shu qian	2601
+跳转完毕	tiao zhuan wan bi	3197
+停用功能	ting yong gong neng	309
+停止创建列表	ting zhi chuang jian lie biao	287
+停止画	ting zhi hua	350
+停止前一声音	ting zhi qian yi sheng yin	408
+同步连接	tong bu lian jie	2642
+通道测试	tong dao ce shi	160
+通道缓存	tong dao huan cun	231
+通道混合测试	tong dao hun he ce shi	329
+通道累计位	tong dao lei ji wei	225
+通道转换位	tong dao zhuan huan wei	230
+透视修正质量	tou shi xiu zheng zhi liang	193
+投影矩阵	tou ying ju zhen	215
+图案填充	tu an tian chong	155
+图表点类型	tu biao dian lei xing	1007
+图表高度	tu biao gao du	1175
+图表画笔类型	tu biao hua bi lei xing	1039
+图表画笔样式	tu biao hua bi yang shi	1054
+图表宽度	tu biao kuan du	1174
+图表日期时间增量	tu biao ri qi shi jian zeng liang	996
+图表刷子类型	tu biao shua zi lei xing	1020
+图表条类型	tu biao tiao lei xing	1013
+图表图形类型	tu biao tu xing lei xing	1000
+图表系列标记类型	tu biao xi lie biao ji lei xing	1032
+图表系列类型	tu biao xi lie lei xing	1069
+图表轴线标签风格	tu biao zhou xian biao qian feng ge	1060
+图层	tu ceng	616
+凸多边形	tu duo bian xing	205
+图例	tu li	1028
+图例被单击	tu li bei dan ji	1081
+图例边框风格	tu li bian kuang feng ge	1136
+图例边框可视	tu li bian kuang ke shi	1135
+图例边框宽度	tu li bian kuang kuan du	1134
+图例边框设置	tu li bian kuang she zhi	1139
+图例边框颜色	tu li bian kuang yan se	1138
+图例边框样式	tu li bian kuang yang shi	1137
+图例垂直间距	tu li chui zhi jian ju	1132
+图例顶部位置	tu li ding bu wei zhi	1125
+图例对齐方式	tu li dui qi fang shi	1143
+图例反转	tu li fan zhuan	1131
+图例可视	tu li ke shi	1124
+图例类型	tu li lei xing	1130
+图例起始值	tu li qi shi zhi	1140
+图例设置	tu li she zhi	1144
+图例水平间距	tu li shui ping jian ju	1133
+图例文本类型	tu li wen ben lei xing	1126
+图例颜色	tu li yan se	1142
+图例颜色宽度	tu li yan se kuan du	1141
+图例阴影尺寸	tu li yin ying chi cun	1127
+图例阴影颜色	tu li yin ying yan se	1128
+图例自动调整图表尺寸	tu li zi dong tiao zheng tu biao chi cun	1129
+图片从文件创建	tu pian cong wen jian chuang jian	695
+图片从字节集创建	tu pian cong zi jie ji chuang jian	694
+图片居中	tu pian ju zhong	2487
+图片数量	tu pian shu liang	901
+图片缩放	tu pian suo fang	2486
+图片填充类型	tu pian tian chong lei xing	597
+图片位置	tu pian wei zhi	903
+图片销毁	tu pian xiao hui	693
+图形	tu xing	2667
+图形创建	tu xing chuang jian	773
+图形画弧	tu xing hua hu	765
+图形画矩形	tu xing hua ju xing	763
+图形画曲线	tu xing hua qu xian	766
+图形画三次贝塞尔曲线	tu xing hua san ci bei sai er qu xian	761
+图形画线	tu xing hua xian	767
+图形画圆	tu xing hua yuan	764
+图形画字符	tu xing hua zi fu	762
+图形结束	tu xing jie shu	771
+图形取画笔横坐标	tu xing qu hua bi heng zuo biao	769
+图形取画笔纵坐标	tu xing qu hua bi zong zuo biao	768
+图形索引	tu xing suo yin	524
+图形销毁	tu xing xiao hui	772
+图形移动画笔	tu xing yi dong hua bi	770
+图形置填充类型	tu xing zhi tian chong lei xing	760
+图形置线类型	tu xing zhi xian lei xing	759
+图形置线填充类型	tu xing zhi xian tian chong lei xing	758
+退出程序	tui chu cheng xu	2763
+退出时取消	tui chu shi qu xiao	2513
+退出系统对话框	tui chu xi tong dui hua kuang	2761
+拖出	tuo chu	620
+拖入	tuo ru	621
+椭圆形	tuo yuan xing	1009
+外部声音文件	wai bu sheng yin wen jian	407
+外观格式设置	wai guan ge shi she zhi	2903
+网格线	wang ge xian	2719
+位图按钮	wei tu an niu	904
+未修改	wei xiu gai	2452
+尾选定	wei xuan ding	2703
+未选中	wei xuan zhong	2384
+未选中时匹配	wei xuan zhong shi pi pei	2386
+未选中位图句柄	wei xuan zhong wei tu ju bing	3079
+未压缩浮点数型	wei ya suo fu dian shu xing	19
+未应用的插入	wei ying yong de cha ru	2451
+未应用的删除	wei ying yong de shan chu	2450
+位整型	wei zheng xing	14
+文本被改变	wen ben bei gai bian	867
+文本菜单	wen ben cai dan	3025
+文本垂直定位	wen ben chui zhi ding wei	440
+文本对齐方式	wen ben dui qi fang shi	2355
+文本方向	wen ben fang xiang	449
+文本框	wen ben kuang	2793
+文本水平定位	wen ben shui ping ding wei	441
+文本位置	wen ben wei zhi	2791
+文本正在被改变	wen ben zheng zai bei gai bian	866
+文档打开	wen dang da kai	2715
+文档集	wen dang ji	2713
+文档即将保存	wen dang ji jiang bao cun	2716
+文档即将打印	wen dang ji jiang da yin	2717
+文档即将关闭	wen dang ji jiang guan bi	2718
+文档数量	wen dang shu liang	2706
+文稿	wen gao	545
+文稿被保存	wen gao bei bao cun	554
+文稿被打开	wen gao bei da kai	556
+文稿被打印	wen gao bei da yin	555
+文稿被关闭	wen gao bei guan bi	558
+文稿格式	wen gao ge shi	455
+文件加密	wen jian jia mi	3176
+文件解密	wen jian jie mi	3175
+文件取摘要	wen jian qu zhai yao	3170
+纹理插值约束	wen li cha zhi yue shu	118
+纹理重复约束	wen li chong fu yue shu	117
+纹理矩阵	wen li ju zhen	214
+纹理控制	wen li kong zhi	299
+纹理生成模式	wen li sheng cheng mo shi	93
+纹理贴图形状	wen li tie tu xing zhuang	88
+纹理图片	wen li tu pian	301
+纹理映射模式	wen li ying she mo shi	98
+纹理映射颜色	wen li ying she yan se	97
+文字动画级别	wen zi dong hua ji bie	478
+文字类型	wen zi lei xing	2789
+文字轮廓	wen zi lun kuo	274
+文字位置	wen zi wei zhi	2692
+文字圆	wen zi yuan	2794
+文字组效果	wen zi zu xiao guo	477
+我的收藏夹	wo de shou cang jia	3136
+我的文档	wo de wen dang	3137
+无闭合	wu bi he	659
+无操作	wu cao zuo	1053
+无垂直缩放	wu chui zhi suo fang	661
+五分钟	wu fen zhong	989
+无风格	wu feng ge	2751
+无符号	wu fu hao	22
+无符号整数型	wu fu hao zheng shu xing	2381
+五号	wu hao	2815
+五号裁剪面	wu hao cai jian mian	197
+五号光源	wu hao guang yuan	146
+无级别	wu ji bie	396
+雾密度	wu mi du	125
+五秒	wu miao	994
+雾模式	wu mo shi	122
+雾起点	wu qi dian	124
+无声音	wu sheng yin	409
+无水平缩放	wu shui ping suo fang	662
+雾索引	wu suo yin	126
+无限扩展库	wu xian kuo zhan ku	2770
+雾颜色	wu yan se	121
+雾质量	wu zhi liang	189
+无指针	wu zhi zhen	378
+雾终点	wu zhong dian	123
+系列被单击	xi lie bei dan ji	1080
+系统桌面	xi tong zhuo mian	3135
+系统字体	xi tong zi ti	3134
+下标	xia biao	2786
+下划线颜色	xia hua xian yan se	2688
+下拉列表被打开	xia la lie biao bei da kai	2398
+下拉列表被关闭	xia la lie biao bei guan bi	2356
+下拉列表对齐方式	xia la lie biao dui qi fang shi	2358
+下拉列表宽度	xia la lie biao kuan du	2359
+下拉列表项被选中	xia la lie biao xiang bei xuan zhong	2397
+下拉列表项目数	xia la lie biao xiang mu shu	935
+下拉列表最大高度	xia la lie biao zui da gao du	879
+下页边距	xia ye bian ju	2687
+下一幻灯片	xia yi huan deng pian	550
+下一页	xia yi ye	2292
+下移一层	xia yi yi ceng	2944
+下一张	xia yi zhang	468
+线段	xian duan	212
+线类型	xian lei xing	669
+显示编辑记录按钮	xian shi bian ji ji lu an niu	2462
+显示边距标志	xian shi bian ju biao zhi	3000
+显示边框	xian shi bian kuang	646
+显示标题栏	xian shi biao ti lan	882
+显示别名	xian shi bie ming	2971
+显示插入空白记录按钮	xian shi cha ru kong bai ji lu an niu	2464
+显示到前一记录按钮	xian shi dao qian yi ji lu an niu	2467
+显示到首记录按钮	xian shi dao shou ji lu an niu	2468
+显示到尾记录按钮	xian shi dao wei ji lu an niu	2465
+显示到下一记录按钮	xian shi dao xia yi ji lu an niu	2466
+显示等待光标	xian shi deng dai guang biao	1606
+显示动画	xian shi dong hua	458
+显示对话框	xian shi dui hua kuang	2828
+显示固定行表格线	xian shi gu ding hang biao ge xian	951
+显示固定列表格线	xian shi gu ding lie biao ge xian	952
+显示横向表格线	xian shi heng xiang biao ge xian	949
+显示横向滚动条	xian shi heng xiang gun dong tiao	849
+显示建议	xian shi jian yi	934
+显示焦点	xian shi jiao dian	2326
+显示列表	xian shi lie biao	289
+显示列标题	xian shi lie biao ti	2521
+显示列表项数	xian shi lie biao xiang shu	2400
+显示列线	xian shi lie xian	2518
+显示取消编辑记录按钮	xian shi qu xiao bian ji ji lu an niu	2460
+显示确认编辑记录按钮	xian shi que ren bian ji ji lu an niu	2461
+显示删除记录按钮	xian shi shan chu ji lu an niu	2463
+显示设置	xian shi she zhi	883
+显示刷新记录按钮	xian shi shua xin ji lu an niu	2459
+显示提示	xian shi ti shi	2471
+显示下拉列表项数	xian shi xia la lie biao xiang shu	2360
+显示效果	xian shi xiao guo	311
+显示行线	xian shi xing xian	2517
+显示指示器	xian shi zhi shi qi	2520
+显示轴线	xian shi zhou xian	1601
+显示纵向表格线	xian shi zong xiang biao ge xian	950
+显示纵向滚动条	xian shi zong xiang gun dong tiao	846
+线性	xian xing	654
+线性渐变	xian xing jian bian	600
+线性滤镜	xian xing lv jing	112
+线性内插多贴图滤镜	xian xing nei cha duo tie tu lv jing	109
+线形衰减	xian xing shuai jian	135
+限制边界	xian zhi bian jie	1173
+线质量	xian zhi liang	191
+相关	xiang guan	3174
+向后查找	xiang hou cha zhao	2834
+向前查找	xiang qian cha zhao	2833
+向前移动	xiang qian yi dong	1022
+向上	xiang shang	446
+像素格式	xiang su ge shi	241
+像素缩放	xiang su suo fang	275
+向纹理约束	xiang wen li yue shu	114
+向下	xiang xia	445
+向下查找	xiang xia cha zhao	923
+向下三角形	xiang xia san jiao xing	1004
+小初	xiao chu	2824
+小点	xiao dian	1001
+小二	xiao er	2820
+小六	xiao liu	2812
+小三	xiao san	2818
+小四	xiao si	2816
+小五	xiao wu	2814
+小写字母	xiao xie zi mu	2690
+小一	xiao yi	2822
+斜边	xie bian	832
+写回服务器模式	xie hui fu wu qi mo shi	2560
+斜交叉线	xie jiao cha xian	1014
+斜接处半斜角	xie jie chu ban xie jiao	664
+斜接处半圆形	xie jie chu ban yuan xing	665
+斜接处正常	xie jie chu zheng chang	663
+斜上	xie shang	433
+斜下	xie xia	432
+写邮件	xie you jian	2765
+写字段值	xie zi duan zhi	578
+写字节集字段	xie zi jie ji zi duan	46
+新建	xin jian	2982
+新建幻灯片	xin jian huan deng pian	557
+新建文件	xin jian wen jian	3060
+新文档	xin wen dang	2714
+新文稿	xin wen gao	559
+信息已获取	xin xi yi huo qu	2618
+行被删除	xing bei shan chu	863
+行被移动	xing bei yi dong	940
+形变	xing bian	699
+形变创建	xing bian chuang jian	698
+形变取图形	xing bian qu tu xing	696
+形变销毁	xing bian xiao hui	697
+形状动画效果	xing zhuang dong hua xiao guo	488
+形状组动画方式	xing zhuang zu dong hua fang shi	490
+行字符数	xing zi fu shu	2686
+修订接口	xiu ding jie kou	2841
+修改表	xiu gai biao	56
+修改二进制值	xiu gai er jin zhi zhi	2735
+修改节点名	xiu gai jie dian ming	2737
+修改节点值	xiu gai jie dian zhi	2736
+修改属性名	xiu gai shu xing ming	2734
+修改属性值	xiu gai shu xing zhi	2733
+修改项目	xiu gai xiang mu	936
+修改用户	xiu gai yong hu	49
+修改字段	xiu gai zi duan	27
+休眠	xiu mian	3121
+序号到字段名	xu hao dao zi duan ming	68
+选定对象	xuan ding dui xiang	2933
+选项	xuan xiang	2523
+选择被改变	xuan ze bei gai bian	2351
+选择矩阵模式	xuan ze ju zhen mo shi	365
+选择库	xuan ze ku	45
+选择起始位置	xuan ze qi shi wei zhi	2494
+选择文件夹	xuan ze wen jian jia	2759
+选择像素格式	xuan ze xiang su ge shi	374
+选择颜色对话框	xuan ze yan se dui hua kuang	925
+选择字符数	xuan ze zi fu shu	2493
+选中表格被改变	xuan zhong biao ge bei gai bian	862
+选中时匹配	xuan zhong shi pi pei	2387
+选中位图句柄	xuan zhong wei tu ju bing	3080
+选中项	xuan zhong xiang	2364
+选中项被改变	xuan zhong xiang bei gai bian	2475
+选中项数	xuan zhong xiang shu	2393
+旋转饼图系列	xuan zhuan bing tu xi lie	1842
+旋转字	xuan zhuan zi	2795
+循环播放声音	xun huan bo fang sheng yin	502
+循环放映	xun huan fang ying	460
+循环右移位	xun huan you yi wei	3180
+循环左移位	xun huan zuo yi wei	3181
+询问删除	xun wen shan chu	2473
+寻找文本对话框	xun zhao wen ben dui hua kuang	924
+压缩解压相关	ya suo jie ya xiang guan	3169
+演讲者放映	yan jiang zhe fang ying	382
+掩码	yan ma	1059
+掩码编辑框	yan ma bian ji kuang	908
+颜色缓存位	yan se huan cun wei	161
+颜色类型	yan se lei xing	85
+颜色刷子	yan se shua zi	1019
+颜色索引	yan se suo yin	127
+阳文	yang wen	2698
+页高	ye gao	2672
+页行数	ye hang shu	2674
+页脚距离	ye jiao ju li	2683
+页宽	ye kuan	2671
+页眉距离	ye mei ju li	2679
+页面被改变	ye mian bei gai bian	1074
+页面边距	ye mian bian ju	2827
+页面方向	ye mian fang xiang	2673
+页面接口	ye mian jie kou	3003
+页面设置	ye mian she zhi	3185
+一般	yi ban	617
+异步获取非阻塞	yi bu huo qu fei zu se	2566
+异步获取数据	yi bu huo qu shu ju	2567
+异步执行命令	yi bu zhi xing ming ling	2568
+已插入记录	yi cha ru ji lu	2547
+移出	yi chu	622
+移出后放开	yi chu hou fang kai	624
+已打开	yi da kai	2633
+移动当前记录指针	yi dong dang qian ji lu zhi zhen	2598
+移动绘画点	yi dong hui hua dian	2210
+移动记录之前	yi dong ji lu zhi qian	2536
+移动三维绘画点	yi dong san wei hui hua dian	2220
+移动时显示方式	yi dong shi xian shi fang shi	840
+移动鼠标	yi dong shu biao	632
+已断开	yi duan kai	2624
+一分钟	yi fen zhong	990
+一个月	yi ge yue	976
+已关闭	yi guan bi	2634
+一号	yi hao	2823
+一号裁剪面	yi hao cai jian mian	201
+一号光源	yi hao guang yuan	150
+异或笔	yi huo bi	1041
+已激活	yi ji huo	2586
+已就绪	yi jiu xu	3193
+已开始编辑	yi kai shi bian ji	2548
+已连接	yi lian jie	2649
+一秒	yi miao	995
+一年	yi nian	973
+已取消	yi qu xiao	2550
+移入	yi ru	623
+已删除记录	yi shan chu ji lu	2549
+已刷新	yi shua xin	2545
+已提交	yi ti jiao	2546
+一天	yi tian	981
+以填充	yi tian chong	21
+已添加记录	yi tian jia ji lu	2534
+以图元文件格式拷贝到剪辑板	yi tu yuan wen jian ge shi kao bei dao jian ji ban	2301
+以位图格式拷贝到剪辑板	yi wei tu ge shi kao bei dao jian ji ban	2302
+一维纹理	yi wei wen li	153
+已下拉	yi xia la	929
+一小时	yi xiao shi	985
+一星期	yi xing qi	978
+已修改	yi xiu gai	2576
+已移动记录	yi yi dong ji lu	2544
+隐藏查找方向	yin cang cha zhao fang xiang	919
+隐藏的	yin cang de	660
+隐藏幻灯片	yin cang huan deng pian	526
+隐藏区分大小写	yin cang qu fen da xiao xie	917
+隐藏全字匹配	yin cang quan zi pi pei	918
+银色风格	yin se feng ge	2748
+阴文	yin wen	2697
+音效	yin xiao	410
+萤幕	ying mu	614
+影片	ying pian	821
+影片创建	ying pian chuang jian	820
+影片定义场景	ying pian ding yi chang jing	811
+影片剪辑	ying pian jian ji	802
+影片剪辑创建	ying pian jian ji chuang jian	801
+影片剪辑结束当前帧并开始新帧	ying pian jian ji jie shu dang qian zhen bing kai shi xin zhen	799
+影片剪辑开始播放声音	ying pian jian ji kai shi bo fang sheng yin	794
+影片剪辑添加动作	ying pian jian ji tian jia dong zuo	791
+影片剪辑添加物体	ying pian jian ji tian jia wu ti	796
+影片剪辑添加匀速形变	ying pian jian ji tian jia yun su xing bian	790
+影片剪辑添加帧	ying pian jian ji tian jia zhen	798
+影片剪辑停止播放声音	ying pian jian ji ting zhi bo fang sheng yin	793
+影片剪辑销毁	ying pian jian ji xiao hui	800
+影片剪辑移除所有实例	ying pian jian ji yi chu suo you shi li	789
+影片剪辑增加初始动作	ying pian jian ji zeng jia chu shi dong zuo	792
+影片剪辑置当前帧标签	ying pian jian ji zhi dang qian zhen biao qian	797
+影片剪辑置声音流	ying pian jian ji zhi sheng yin liu	795
+影片结束当前帧并开始新帧	ying pian jie shu dang qian zhen bing kai shi xin zhen	814
+影片开始播放声音	ying pian kai shi bo fang sheng yin	808
+影片取帧速率	ying pian qu zhen su lv	812
+影片生成内容	ying pian sheng cheng nei rong	815
+影片生成文件	ying pian sheng cheng wen jian	816
+影片添加动作	ying pian tian jia dong zuo	817
+影片添加物体	ying pian tian jia wu ti	818
+影片添加匀速形变	ying pian tian jia yun su xing bian	803
+影片添加帧	ying pian tian jia zhen	813
+影片停止播放声音	ying pian ting zhi bo fang sheng yin	807
+影片销毁	ying pian xiao hui	819
+影片移除所有实例	ying pian yi chu suo you shi li	806
+影片置本地回放安全	ying pian zhi ben di hui fang an quan	805
+影片置当前帧标签	ying pian zhi dang qian zhen biao qian	810
+影片置脚本限制	ying pian zhi jiao ben xian zhi	804
+影片置声音流	ying pian zhi sheng yin liu	809
+英文大小写	ying wen da xiao xie	2498
+应用模板	ying yong mu ban	539
+右边界距离	you bian jie ju li	2676
+游标类型	you biao lei xing	2569
+游标型	you biao xing	2374
+有错误发生	you cuo wu fa sheng	2484
+右键菜单被弹出	you jian cai dan bei tan chu	3004
+右键单击前	you jian dan ji qian	547
+有下拉列表	you xia la lie biao	886
+有效	you xiao	184
+右轴表格线风格	you zhou biao ge xian feng ge	1496
+右轴表格线居中	you zhou biao ge xian ju zhong	1488
+右轴表格线可视	you zhou biao ge xian ke shi	1495
+右轴表格线宽度	you zhou biao ge xian kuan du	1494
+右轴表格线设置	you zhou biao ge xian she zhi	1499
+右轴表格线颜色	you zhou biao ge xian yan se	1498
+右轴表格线样式	you zhou biao ge xian yang shi	1497
+右轴标签尺寸	you zhou biao qian chi cun	1482
+右轴标签风格	you zhou biao qian feng ge	1481
+右轴标签间距	you zhou biao qian jian ju	1483
+右轴标签角度	you zhou biao qian jiao du	1489
+右轴标签可视	you zhou biao qian ke shi	1490
+右轴标签逻辑位置	you zhou biao qian luo ji wei zhi	1453
+右轴标签字体	you zhou biao qian zi ti	1486
+右轴标签字体颜色	you zhou biao qian zi ti yan se	1485
+右轴标题	you zhou biao ti	1446
+右轴标题尺寸	you zhou biao ti chi cun	1442
+右轴标题角度	you zhou biao ti jiao du	1445
+右轴标题逻辑位置	you zhou biao ti luo ji wei zhi	1452
+右轴标题设置	you zhou biao ti she zhi	1447
+右轴标题字体	you zhou biao ti zi ti	1444
+右轴标题字体颜色	you zhou biao ti zi ti yan se	1443
+右轴对数显示	you zhou dui shu xian shi	1480
+右轴多行标签	you zhou duo hang biao qian	1440
+右轴反转	you zhou fan zhuan	1491
+右轴结束位置	you zhou jie shu wei zhi	1438
+右轴结束像素位置	you zhou jie shu xiang su wei zhi	1439
+右轴精确日期时间	you zhou jing que ri qi shi jian	1500
+右轴刻度长度	you zhou ke du chang du	1449
+右轴刻度风格	you zhou ke du feng ge	1472
+右轴刻度可视	you zhou ke du ke shi	1471
+右轴刻度宽度	you zhou ke du kuan du	1470
+右轴刻度设置	you zhou ke du she zhi	1475
+右轴刻度颜色	you zhou ke du yan se	1474
+右轴刻度样式	you zhou ke du yang shi	1473
+右轴可视	you zhou ke shi	1441
+右轴逻辑位置	you zhou luo ji wei zhi	1454
+右轴内部刻度长度	you zhou nei bu ke du chang du	1450
+右轴内部刻度风格	you zhou nei bu ke du feng ge	1460
+右轴内部刻度可视	you zhou nei bu ke du ke shi	1459
+右轴内部刻度宽度	you zhou nei bu ke du kuan du	1458
+右轴内部刻度设置	you zhou nei bu ke du she zhi	1463
+右轴内部刻度颜色	you zhou nei bu ke du yan se	1462
+右轴内部刻度样式	you zhou nei bu ke du yang shi	1461
+右轴起始位置	you zhou qi shi wei zhi	1455
+右轴起始像素位置	you zhou qi shi xiang su wei zhi	1456
+右轴其他面	you zhou qi ta mian	1457
+右轴日期时间格式	you zhou ri qi shi jian ge shi	1501
+右轴舍入标签值	you zhou she ru biao qian zhi	1451
+右轴设置	you zhou she zhi	1512
+右轴水平线	you zhou shui ping xian	1493
+右轴位置	you zhou wei zhi	1487
+右轴线设置	you zhou xian she zhi	1508
+右轴显示两端标签	you zhou xian shi liang duan biao qian	1484
+右轴小刻度长度	you zhou xiao ke du chang du	1476
+右轴小刻度风格	you zhou xiao ke du feng ge	1466
+右轴小刻度可视	you zhou xiao ke du ke shi	1465
+右轴小刻度宽度	you zhou xiao ke du kuan du	1464
+右轴小刻度设置	you zhou xiao ke du she zhi	1469
+右轴小刻度数量	you zhou xiao ke du shu liang	1477
+右轴小刻度颜色	you zhou xiao ke du yan se	1468
+右轴小刻度样式	you zhou xiao ke du yang shi	1467
+右轴增量	you zhou zeng liang	1492
+右轴值格式	you zhou zhi ge shi	1502
+右轴只在标签位置显示刻度	you zhou zhi zai biao qian wei zhi xian shi ke du	1448
+右轴轴线风格	you zhou zhou xian feng ge	1505
+右轴轴线可视	you zhou zhou xian ke shi	1504
+右轴轴线宽度	you zhou zhou xian kuan du	1503
+右轴轴线颜色	you zhou zhou xian yan se	1507
+右轴轴线样式	you zhou zhou xian yang shi	1506
+右轴自动计算	you zhou zi dong ji suan	1511
+右轴自动计算最大值	you zhou zi dong ji suan zui da zhi	1510
+右轴自动计算最小值	you zhou zi dong ji suan zui xiao zhi	1509
+右轴最大值	you zhou zui da zhi	1479
+右轴最小值	you zhou zui xiao zhi	1478
+与笔	yu bi	1043
+与笔非	yu bi fei	1048
+与非笔	yu fei bi	1046
+预建剪辑从文件创建	yu jian jian ji cong wen jian chuang jian	788
+预建剪辑从字节集创建	yu jian jian ji cong zi jie ji chuang jian	787
+预建剪辑销毁	yu jian jian ji xiao hui	786
+远东垂直	yuan dong chui zhi	444
+远东度	yuan dong du	411
+远东格式	yuan dong ge shi	453
+远东水平旋转	yuan dong shui ping xuan zhuan	442
+远东字体名	yuan dong zi ti ming	516
+原始文本	yuan shi wen ben	2354
+圆形	yuan xing	1006
+圆形印章	yuan xing yin zhang	2806
+源值饱和通道	yuan zhi bao he tong dao	170
+源值通道比例	yuan zhi tong dao bi li	176
+源值通道比例反	yuan zhi tong dao bi li fan	175
+源值颜色比例	yuan zhi yan se bi li	178
+源值颜色比例反	yuan zhi yan se bi li fan	177
+圆柱	yuan zhu	2802
+圆柱型	yuan zhu xing	2779
+圆锥	yuan zhui	2805
+圆锥型	yuan zhui xing	2777
+运行对话框	yun xing dui hua kuang	2758
+允许插入	yun xu cha ru	2333
+允许插入换行符	yun xu cha ru huan hang fu	2407
+允许三维缩放	yun xu san wei suo fang	1604
+允许输入多行	yun xu shu ru duo hang	647
+允许调整列	yun xu tiao zheng lie	2519
+杂类	za lei	3142
+载入菜单	zai ru cai dan	3095
+载入缓存	zai ru huan cun	168
+载入结构菜单	zai ru jie gou cai dan	3094
+载入进度改变	zai ru jin du gai bian	3195
+载入矩阵	zai ru ju zhen	356
+载入开始	zai ru kai shi	3196
+载入完毕	zai ru wan bi	3194
+载入位图数据	zai ru wei tu shu ju	292
+在首记录	zai shou ji lu	2584
+增大字体	zeng da zi ti	3039
+增加	zeng jia	610
+增加当前值	zeng jia dang qian zhi	181
+增加记录	zeng jia ji lu	65
+增加索引	zeng jia suo yin	25
+增加主键	zeng jia zhu jian	24
+增加字段	zeng jia zi duan	28
+展览	zhan lan	380
+粘贴处理	zhan tie chu li	95
+粘贴自剪辑板	zhan tie zi jian ji ban	2505
+折叠层号掩码	zhe die ceng hao yan ma	3208
+折叠器	zhe die qi	3227
+折叠状态结束位置	zhe die zhuang tai jie shu wei zhi	3223
+折叠状态展开状态	zhe die zhuang tai zhan kai zhuang tai	3220
+折叠状态折叠状态	zhe die zhuang tai zhe die zhuang tai	3221
+折叠状态中间结束位置	zhe die zhuang tai zhong jian jie shu wei zhi	3224
+折叠状态中间展开	zhe die zhuang tai zhong jian zhan kai	3225
+折叠状态中间折叠	zhe die zhuang tai zhong jian zhe die	3226
+折叠状态子语句	zhe die zhuang tai zi yu ju	3222
+遮盖字符	zhe gai zi fu	2496
+折线	zhe xian	2804
+折线型	zhe xian xing	2776
+遮罩层	zhe zhao ceng	221
+正常	zheng chang	2788
+正常视图	zheng chang shi tu	420
+正多边形	zheng duo bian xing	2798
+整理收藏夹对话框	zheng li shou cang jia dui hua kuang	2760
+正面	zheng mian	196
+正面和背面	zheng mian he bei mian	194
+正确	zheng que	2485
+正斜线	zheng xie xian	1017
+整型	zheng xing	18
+正在改变大小	zheng zai gai bian da xiao	835
+正在获取	zheng zai huo qu	2630
+正在获取记录	zheng zai huo qu ji lu	2551
+正在连接	zheng zai lian jie	2632
+正在执行	zheng zai zhi xing	2631
+置版本	zhi ban ben	822
+置被修改子程序	zhi bei xiu gai zi cheng xu	2413
+置变体值	zhi bian ti zhi	2437
+置表格标题	zhi biao ge biao ti	2435
+置表格单元格文本	zhi biao ge dan yuan ge wen ben	2842
+置标记背景色	zhi biao ji bei jing se	2169
+置标记边框风格	zhi biao ji bian kuang feng ge	2160
+置标记边框可视	zhi biao ji bian kuang ke shi	2158
+置标记边框宽度	zhi biao ji bian kuang kuan du	2156
+置标记边框颜色	zhi biao ji bian kuang yan se	2164
+置标记边框样式	zhi biao ji bian kuang yang shi	2162
+置标记裁剪	zhi biao ji cai jian	2167
+置标记可视	zhi biao ji ke shi	2150
+置标记类型	zhi biao ji lei xing	2154
+置标记透明	zhi biao ji tou ming	2152
+置标记指示线长度	zhi biao ji zhi shi xian chang du	2171
+置标记指示线风格	zhi biao ji zhi shi xian feng ge	2177
+置标记指示线可视	zhi biao ji zhi shi xian ke shi	2175
+置标记指示线宽度	zhi biao ji zhi shi xian kuan du	2173
+置标记指示线颜色	zhi biao ji zhi shi xian yan se	2181
+置标记指示线样式	zhi biao ji zhi shi xian yang shi	2179
+置标记字体	zhi biao ji zi ti	2166
+置饼图乘数	zhi bing tu cheng shu	1876
+置饼图关联字段	zhi bing tu guan lian zi duan	1865
+置饼图名称	zhi bing tu ming cheng	1872
+置饼图系列三维旋转角度	zhi bing tu xi lie san wei xuan zhuan jiao du	1843
+置饼图系列三维阴影	zhi bing tu xi lie san wei yin ying	1890
+置饼图系列使用样式	zhi bing tu xi lie shi yong yang shi	1857
+置饼图系列突出最大切片	zhi bing tu xi lie tu chu zui da qie pian	1888
+置饼图系列线画笔粗细	zhi bing tu xi lie xian hua bi cu xi	1878
+置饼图系列线画笔可视	zhi bing tu xi lie xian hua bi ke shi	1880
+置饼图系列线画笔类型	zhi bing tu xi lie xian hua bi lei xing	1882
+置饼图系列线画笔颜色	zhi bing tu xi lie xian hua bi yan se	1886
+置饼图系列线画笔样式	zhi bing tu xi lie xian hua bi yang shi	1884
+置饼图系列圆形	zhi bing tu xi lie yuan xing	1852
+置饼图系列制定横半径	zhi bing tu xi lie zhi ding heng ban jing	1849
+置饼图系列制定纵半径	zhi bing tu xi lie zhi ding zong ban jing	1847
+置饼图值	zhi bing tu zhi	1867
+置菜单条目信息	zhi cai dan tiao mu xin xi	3088
+置菜单项图片	zhi cai dan xiang tu pian	3164
+置侧条图片	zhi ce tiao tu pian	3163
+置插入修订色	zhi cha ru xiu ding se	2837
+置长整数值	zhi chang zheng shu zhi	2415
+置程序名称	zhi cheng xu ming cheng	3014
+置大小	zhi da xiao	3002
+置打印页边空白	zhi da yin ye bian kong bai	2308
+置单元格背景色	zhi dan yuan ge bei jing se	2860
+置单元格别名	zhi dan yuan ge bie ming	2843
+置单元格附加数据	zhi dan yuan ge fu jia shu ju	967
+置单元格类型	zhi dan yuan ge lei xing	2848
+置单元格批注	zhi dan yuan ge pi zhu	2857
+置单元格数值	zhi dan yuan ge shu zhi	2859
+置单元格图片	zhi dan yuan ge tu pian	2855
+置单元格文本	zhi dan yuan ge wen ben	2858
+置单元格文本颜色	zhi dan yuan ge wen ben yan se	2856
+置单元格字体	zhi dan yuan ge zi ti	2861
+置单元格纵向对齐方式	zhi dan yuan ge zong xiang dui qi fang shi	2854
+置当前	zhi dang qian	2979
+置当前单元格横向对齐方式	zhi dang qian dan yuan ge heng xiang dui qi fang shi	2853
+置当前单元格线形	zhi dang qian dan yuan ge xian xing	2862
+置当前页	zhi dang qian ye	2987
+置当前用户	zhi dang qian yong hu	3029
+置当前着色描述表	zhi dang qian zhuo se miao shu biao	371
+置底图	zhi di tu	2986
+置底轴最大和最小刻度	zhi di zhou zui da he zui xiao ke du	2247
+置点系列点高度	zhi dian xi lie dian gao du	1908
+置点系列点宽度	zhi dian xi lie dian kuan du	1910
+置点系列画笔粗细	zhi dian xi lie hua bi cu xi	1896
+置点系列画笔可视	zhi dian xi lie hua bi ke shi	1898
+置点系列画笔类型	zhi dian xi lie hua bi lei xing	1900
+置点系列画笔颜色	zhi dian xi lie hua bi yan se	1904
+置点系列画笔样式	zhi dian xi lie hua bi yang shi	1902
+置点系列画刷类型	zhi dian xi lie hua shua lei xing	1916
+置点系列画刷颜色	zhi dian xi lie hua shua yan se	1914
+置点系列可视	zhi dian xi lie ke shi	1892
+置点系列类型	zhi dian xi lie lei xing	1894
+置点系列膨胀边缘	zhi dian xi lie peng zhang bian yuan	1906
+置点系列三维绘画	zhi dian xi lie san wei hui hua	1912
+置段落对齐	zhi duan luo dui qi	3035
+置方形印章文本	zhi fang xing yin zhang wen ben	2919
+置甘特系列点高度	zhi gan te xi lie dian gao du	1691
+置甘特系列点画笔粗细	zhi gan te xi lie dian hua bi cu xi	1679
+置甘特系列点画笔可视	zhi gan te xi lie dian hua bi ke shi	1681
+置甘特系列点画笔类型	zhi gan te xi lie dian hua bi lei xing	1683
+置甘特系列点画笔颜色	zhi gan te xi lie dian hua bi yan se	1687
+置甘特系列点画笔样式	zhi gan te xi lie dian hua bi yang shi	1685
+置甘特系列点画刷类型	zhi gan te xi lie dian hua shua lei xing	1699
+置甘特系列点画刷颜色	zhi gan te xi lie dian hua shua yan se	1697
+置甘特系列点可视	zhi gan te xi lie dian ke shi	1676
+置甘特系列点宽度	zhi gan te xi lie dian kuan du	1693
+置甘特系列点类型	zhi gan te xi lie dian lei xing	1678
+置甘特系列点膨胀边缘	zhi gan te xi lie dian peng zhang bian yuan	1689
+置甘特系列点三维绘画	zhi gan te xi lie dian san wei hui hua	1695
+置甘特系列点三维阴影	zhi gan te xi lie dian san wei yin ying	1674
+置甘特系列画笔粗细	zhi gan te xi lie hua bi cu xi	1701
+置甘特系列画笔可视	zhi gan te xi lie hua bi ke shi	1703
+置甘特系列画笔类型	zhi gan te xi lie hua bi lei xing	1705
+置甘特系列画笔颜色	zhi gan te xi lie hua bi yan se	1709
+置甘特系列画笔样式	zhi gan te xi lie hua bi yang shi	1707
+置给系列每点上色	zhi gei xi lie mei dian shang shai	2191
+置滚动条	zhi gun dong tiao	2338
+置合法字符	zhi he fa zi fu	2420
+置横	zhi heng	1057
+置横条系列边缘空白	zhi heng tiao xi lie bian yuan kong bai	1922
+置横条系列多重横条显示类型	zhi heng tiao xi lie duo chong heng tiao xian shi lei xing	1927
+置横条系列横条宽度百分数	zhi heng tiao xi lie heng tiao kuan du bai fen shu	1931
+置横条系列横条类型	zhi heng tiao xi lie heng tiao lei xing	1933
+置横条系列画刷类型	zhi heng tiao xi lie hua shua lei xing	1947
+置横条系列画刷颜色	zhi heng tiao xi lie hua shua yan se	1945
+置横条系列偏移	zhi heng tiao xi lie pian yi	1924
+置横条系列三维阴影	zhi heng tiao xi lie san wei yin ying	1929
+置横条系列使用纵起点	zhi heng tiao xi lie shi yong zong qi dian	1920
+置横条系列线画笔粗细	zhi heng tiao xi lie xian hua bi cu xi	1935
+置横条系列线画笔可视	zhi heng tiao xi lie xian hua bi ke shi	1937
+置横条系列线画笔类型	zhi heng tiao xi lie xian hua bi lei xing	1939
+置横条系列线画笔颜色	zhi heng tiao xi lie xian hua bi yan se	1943
+置横条系列线画笔样式	zhi heng tiao xi lie xian hua bi yang shi	1941
+置横条系列自动调整标记位置	zhi heng tiao xi lie zi dong tiao zheng biao ji wei zhi	1949
+置横条系列纵起点	zhi heng tiao xi lie zong qi dian	1918
+置横值乘数	zhi heng zhi cheng shu	1648
+置横值点值	zhi heng zhi dian zhi	1640
+置横值关联字段	zhi heng zhi guan lian zi duan	1638
+置横值名称	zhi heng zhi ming cheng	1644
+置横值日期时间格式	zhi heng zhi ri qi shi jian ge shi	1650
+之后	zhi hou	2808
+置候选菜单文本	zhi hou xuan cai dan wen ben	2852
+置画板字体	zhi hua ban zi ti	2299
+置货币值	zhi huo bi zhi	2446
+置加密方式	zhi jia mi fang shi	3063
+置键名称	zhi jian ming cheng	894
+置箭头结束横值	zhi jian tou jie shu heng zhi	1738
+置箭头结束横值乘数	zhi jian tou jie shu heng zhi cheng shu	1747
+置箭头结束横值关联字段	zhi jian tou jie shu heng zhi guan lian zi duan	1736
+置箭头结束横值名称	zhi jian tou jie shu heng zhi ming cheng	1743
+置箭头结束纵值	zhi jian tou jie shu zong zhi	1719
+置箭头结束纵值乘数	zhi jian tou jie shu zong zhi cheng shu	1728
+置箭头结束纵值关联字段	zhi jian tou jie shu zong zhi guan lian zi duan	1717
+置箭头结束纵值名称	zhi jian tou jie shu zong zhi ming cheng	1724
+置箭头起始横值	zhi jian tou qi shi heng zhi	1776
+置箭头起始横值乘数	zhi jian tou qi shi heng zhi cheng shu	1785
+置箭头起始横值关联字段	zhi jian tou qi shi heng zhi guan lian zi duan	1774
+置箭头起始横值名称	zhi jian tou qi shi heng zhi ming cheng	1781
+置箭头起始纵值	zhi jian tou qi shi zong zhi	1757
+置箭头起始纵值乘数	zhi jian tou qi shi zong zhi cheng shu	1766
+置箭头起始纵值关联字段	zhi jian tou qi shi zong zhi guan lian zi duan	1755
+置箭头起始纵值名称	zhi jian tou qi shi zong zhi ming cheng	1762
+置箭头系列箭头高度	zhi jian tou xi lie jian tou gao du	1790
+置箭头系列箭头宽度	zhi jian tou xi lie jian tou kuan du	1788
+直交叉线	zhi jiao cha xian	1015
+置空	zhi kong	2418
+置快线系列横轴线类型	zhi kuai xian xi lie heng zhou xian lei xing	1806
+置快线系列线画笔粗细	zhi kuai xian xi lie xian hua bi cu xi	1794
+置快线系列线画笔可视	zhi kuai xian xi lie xian hua bi ke shi	1796
+置快线系列线画笔类型	zhi kuai xian xi lie xian hua bi lei xing	1798
+置快线系列线画笔颜色	zhi kuai xian xi lie xian hua bi yan se	1802
+置快线系列线画笔样式	zhi kuai xian xi lie xian hua bi yang shi	1800
+置快线系列颜色	zhi kuai xian xi lie yan se	1792
+置快线系列纵轴线类型	zhi kuai xian xi lie zong zhou xian lei xing	1804
+置连接公钥	zhi lian jie gong yue	3064
+置连接私钥	zhi lian jie si yao	3067
+置列表数据源	zhi lie biao shu ju yuan	2367
+置逻辑值	zhi luo ji zhi	2448
+置内容	zhi nei rong	2422
+置气泡半径	zhi qi pao ban jing	1659
+置气泡乘数	zhi qi pao cheng shu	1667
+置气泡关联字段	zhi qi pao guan lian zi duan	1657
+置气泡名称	zhi qi pao ming cheng	1663
+置气泡系列正圆形	zhi qi pao xi lie zheng yuan xing	1670
+置区域系列点高度	zhi qu yu xi lie dian gao du	2008
+置区域系列点画笔粗细	zhi qu yu xi lie dian hua bi cu xi	1996
+置区域系列点画笔可视	zhi qu yu xi lie dian hua bi ke shi	1998
+置区域系列点画笔类型	zhi qu yu xi lie dian hua bi lei xing	2000
+置区域系列点画笔颜色	zhi qu yu xi lie dian hua bi yan se	2004
+置区域系列点画笔样式	zhi qu yu xi lie dian hua bi yang shi	2002
+置区域系列点画刷类型	zhi qu yu xi lie dian hua shua lei xing	2016
+置区域系列点画刷颜色	zhi qu yu xi lie dian hua shua yan se	2014
+置区域系列点可视	zhi qu yu xi lie dian ke shi	1993
+置区域系列点宽度	zhi qu yu xi lie dian kuan du	2010
+置区域系列点类型	zhi qu yu xi lie dian lei xing	1995
+置区域系列点膨胀边缘	zhi qu yu xi lie dian peng zhang bian yuan	2006
+置区域系列点三维绘画	zhi qu yu xi lie dian san wei hui hua	2012
+置区域系列点三维阴影	zhi qu yu xi lie dian san wei yin ying	1991
+置区域系列多重区域显示类型	zhi qu yu xi lie duo chong qu yu xian shi lei xing	2020
+置区域系列反转阶梯图	zhi qu yu xi lie fan zhuan jie ti tu	2022
+置区域系列画刷类型	zhi qu yu xi lie hua shua lei xing	2048
+置区域系列绘画区域	zhi qu yu xi lie hui hua qu yu	2034
+置区域系列阶梯图	zhi qu yu xi lie jie ti tu	2018
+置区域系列区域线画笔粗细	zhi qu yu xi lie qu yu xian hua bi cu xi	2036
+置区域系列区域线画笔可视	zhi qu yu xi lie qu yu xian hua bi ke shi	2038
+置区域系列区域线画笔类型	zhi qu yu xi lie qu yu xian hua bi lei xing	2040
+置区域系列区域线画笔颜色	zhi qu yu xi lie qu yu xian hua bi yan se	2044
+置区域系列区域线画笔样式	zhi qu yu xi lie qu yu xian hua bi yang shi	2042
+置区域系列线画笔粗细	zhi qu yu xi lie xian hua bi cu xi	2024
+置区域系列线画笔可视	zhi qu yu xi lie xian hua bi ke shi	2026
+置区域系列线画笔类型	zhi qu yu xi lie xian hua bi lei xing	2028
+置区域系列线画笔颜色	zhi qu yu xi lie xian hua bi yan se	2032
+置区域系列线画笔样式	zhi qu yu xi lie xian hua bi yang shi	2030
+置区域系列颜色	zhi qu yu xi lie yan se	2046
+置日期时间值	zhi ri qi shi jian zhi	2444
+置三维像素	zhi san wei xiang su	2237
+置删除修订色	zhi shan chu xiu ding se	2835
+指示器	zhi shi qi	3212
+指示器风格对角线	zhi shi qi feng ge dui jiao xian	3217
+指示器风格方框	zhi shi qi feng ge fang kuang	3214
+指示器风格曲线型下划线	zhi shi qi feng ge qu xian xing xia hua xian	3218
+指示器风格删除线	zhi shi qi feng ge shan chu xian	3216
+指示器风格隐藏	zhi shi qi feng ge yin cang	3215
+指示器风格直线型下划线	zhi shi qi feng ge zhi xian xing xia hua xian	3219
+指示器掩码	zhi shi qi yan ma	3213
+置首行缩进	zhi shou hang suo jin	3033
+置数据集	zhi shu ju ji	2533
+置数据集索引	zhi shu ju ji suo yin	2427
+置数据库连接	zhi shu ju ku lian jie	2615
+置数据源	zhi shu ju yuan	2530
+置竖条系列边缘空白	zhi shu tiao xi lie bian yuan kong bai	1958
+置竖条系列多重竖条显示类型	zhi shu tiao xi lie duo chong shu tiao xian shi lei xing	1963
+置竖条系列画刷类型	zhi shu tiao xi lie hua shua lei xing	1986
+置竖条系列画刷颜色	zhi shu tiao xi lie hua shua yan se	1984
+置竖条系列偏移	zhi shu tiao xi lie pian yi	1960
+置竖条系列三维阴影	zhi shu tiao xi lie san wei yin ying	1965
+置竖条系列使用纵起点	zhi shu tiao xi lie shi yong zong qi dian	1956
+置竖条系列竖条宽度百分数	zhi shu tiao xi lie shu tiao kuan du bai fen shu	1969
+置竖条系列竖条类型	zhi shu tiao xi lie shu tiao lei xing	1972
+置竖条系列线画笔粗细	zhi shu tiao xi lie xian hua bi cu xi	1974
+置竖条系列线画笔可视	zhi shu tiao xi lie xian hua bi ke shi	1976
+置竖条系列线画笔类型	zhi shu tiao xi lie xian hua bi lei xing	1978
+置竖条系列线画笔颜色	zhi shu tiao xi lie xian hua bi yan se	1982
+置竖条系列线画笔样式	zhi shu tiao xi lie xian hua bi yang shi	1980
+置竖条系列制定竖条宽度	zhi shu tiao xi lie zhi ding shu tiao kuan du	1967
+置竖条系列自动调整标记位置	zhi shu tiao xi lie zi dong tiao zheng biao ji wei zhi	1988
+置竖条系列纵起点	zhi shu tiao xi lie zong qi dian	1954
+置水印输出方向	zhi shui yin shu chu fang xiang	2925
+置水印文本	zhi shui yin wen ben	2923
+置水印颜色	zhi shui yin yan se	2929
+置水印字体	zhi shui yin zi ti	2927
+置缩放系数	zhi suo fang xi shu	824
+置图表类型	zhi tu biao lei xing	2911
+置图形系列底值	zhi tu xing xi lie di zhi	1808
+置图形系列顶值	zhi tu xing xi lie ding zhi	1812
+置图形系列画笔粗细	zhi tu xing xi lie hua bi cu xi	1824
+置图形系列画笔可视	zhi tu xing xi lie hua bi ke shi	1826
+置图形系列画笔类型	zhi tu xing xi lie hua bi lei xing	1828
+置图形系列画笔颜色	zhi tu xing xi lie hua bi yan se	1832
+置图形系列画笔样式	zhi tu xing xi lie hua bi yang shi	1830
+置图形系列画刷类型	zhi tu xing xi lie hua shua lei xing	1838
+置图形系列画刷颜色	zhi tu xing xi lie hua shua yan se	1836
+置图形系列内容	zhi tu xing xi lie nei rong	1818
+置图形系列透明	zhi tu xing xi lie tou ming	1816
+置图形系列图形类型	zhi tu xing xi lie tu xing lei xing	1820
+置图形系列文本对齐方式	zhi tu xing xi lie wen ben dui qi fang shi	1840
+置图形系列文本字体	zhi tu xing xi lie wen ben zi ti	1834
+置图形系列右值	zhi tu xing xi lie you zhi	1810
+置图形系列圆角矩形	zhi tu xing xi lie yuan jiao ju xing	1822
+置图形系列左值	zhi tu xing xi lie zuo zhi	1814
+置外观格式	zhi wai guan ge shi	2905
+置未选中时匹配字符串	zhi wei xuan zhong shi pi pei zi fu chuan	2336
+置文本框文本	zhi wen ben kuang wen ben	2921
+置文本位置	zhi wen ben wei zhi	2339
+置文本值	zhi wen ben zhi	2439
+置文档	zhi wen dang	2666
+置文档保护类型	zhi wen dang bao hu lei xing	3054
+置文稿	zhi wen gao	476
+置文件内容	zhi wen jian nei rong	3056
+置文字类型	zhi wen zi lei xing	3031
+置系列百分数格式	zhi xi lie bai fen shu ge shi	2147
+置系列标题	zhi xi lie biao ti	2139
+置系列重算设置	zhi xi lie chong suan she zhi	2145
+置系列横向标签关联字段	zhi xi lie heng xiang biao qian guan lian zi duan	2128
+置系列横向标签内容	zhi xi lie heng xiang biao qian nei rong	2130
+置系列横向值	zhi xi lie heng xiang zhi	2126
+置系列横轴	zhi xi lie heng zhou	2183
+置系列可视	zhi xi lie ke shi	2195
+置系列数据集	zhi xi lie shu ju ji	2188
+置系列颜色	zhi xi lie yan se	2143
+置系列颜色源	zhi xi lie yan se yuan	2189
+置系列允许单个点	zhi xi lie yun xu dan ge dian	2193
+置系列在图例中显示	zhi xi lie zai tu li zhong xian shi	2141
+置系列值格式	zhi xi lie zhi ge shi	2135
+置系列值颜色	zhi xi lie zhi yan se	2137
+置系列纵向值	zhi xi lie zong xiang zhi	2124
+置系列纵轴	zhi xi lie zong zhou	2132
+置下拉列表文本	zhi xia la lie biao wen ben	897
+直线	zhi xian	2800
+置显示比例	zhi xian shi bi li	3021
+置显示宽度	zhi xian shi kuan du	2432
+置显示文本	zhi xian shi wen ben	2334
+置线系列点高度	zhi xian xi lie dian gao du	2068
+置线系列点画笔粗细	zhi xian xi lie dian hua bi cu xi	2056
+置线系列点画笔可视	zhi xian xi lie dian hua bi ke shi	2058
+置线系列点画笔类型	zhi xian xi lie dian hua bi lei xing	2060
+置线系列点画笔颜色	zhi xian xi lie dian hua bi yan se	2064
+置线系列点画笔样式	zhi xian xi lie dian hua bi yang shi	2062
+置线系列点画刷类型	zhi xian xi lie dian hua shua lei xing	2076
+置线系列点画刷颜色	zhi xian xi lie dian hua shua yan se	2074
+置线系列点可视	zhi xian xi lie dian ke shi	2053
+置线系列点宽度	zhi xian xi lie dian kuan du	2070
+置线系列点类型	zhi xian xi lie dian lei xing	2055
+置线系列点膨胀边缘	zhi xian xi lie dian peng zhang bian yuan	2066
+置线系列点三维绘画	zhi xian xi lie dian san wei hui hua	2072
+置线系列点三维阴影	zhi xian xi lie dian san wei yin ying	2051
+置线系列反转阶梯图	zhi xian xi lie fan zhuan jie ti tu	2080
+置线系列画笔粗细	zhi xian xi lie hua bi cu xi	2082
+置线系列画笔可视	zhi xian xi lie hua bi ke shi	2084
+置线系列画笔类型	zhi xian xi lie hua bi lei xing	2086
+置线系列画笔颜色	zhi xian xi lie hua bi yan se	2090
+置线系列画笔样式	zhi xian xi lie hua bi yang shi	2088
+置线系列画刷类型	zhi xian xi lie hua shua lei xing	2092
+置线系列阶梯图	zhi xian xi lie jie ti tu	2078
+值项	zhi xiang	2477
+置像素格式	zhi xiang su ge shi	373
+置小数值	zhi xiao shu zhi	2442
+执行过滤	zhi xing guo lv	2564
+执行后不返回数据	zhi xing hou bu fan hui shu ju	2565
+执行命令	zhi xing ming ling	3205
+执行前	zhi xing qian	2458
+置修订状态	zhi xiu ding zhuang tai	2839
+置修改状态	zhi xiu gai zhuang tai	3052
+置选择区	zhi xuan ze qu	888
+置选择区文本底纹	zhi xuan ze qu wen ben di wen	3040
+置选择区文本颜色	zhi xuan ze qu wen ben yan se	3042
+置选择区字体	zhi xuan ze qu zi ti	3044
+置选中时匹配字符串	zhi xuan zhong shi pi pei zi fu chuan	2337
+置压缩级别	zhi ya suo ji bie	825
+置掩码	zhi yan ma	2430
+置验证子程序	zhi yan zheng zi cheng xu	2416
+置页脚	zhi ye jiao	2994
+置页眉	zhi ye mei	2996
+置于底层	zhi yu di ceng	2946
+置于顶层	zhi yu ding ceng	2947
+置栈顶名字	zhi zhan ding ming zi	245
+纸张大小	zhi zhang da xiao	2670
+置遮盖字符	zhi zhe gai zi fu	2340
+指针类型	zhi zhen lei xing	379
+置整数值	zhi zheng shu zhi	2440
+置值	zhi zhi	890
+置自定义横条系列横条高度	zhi zi ding yi heng tiao xi lie heng tiao gao du	1951
+置子控件背景颜色	zhi zi kong jian bei jing yan se	2343
+置子控件字体及文本颜色	zhi zi kong jian zi ti ji wen ben yan se	2342
+置字体预览文本	zhi zi ti yu lan wen ben	3020
+置纵	zhi zong	1055
+置纵值乘数	zhi zong zhi cheng shu	1627
+置纵值点值	zhi zong zhi dian zhi	1619
+置纵值关联字段	zhi zong zhi guan lian zi duan	1617
+置纵值名称	zhi zong zhi ming cheng	1623
+置纵值日期时间格式	zhi zong zhi ri qi shi jian ge shi	1629
+置最大等待时间	zhi zui da deng dai shi jian	590
+置最大输入长度	zhi zui da shu ru chang du	892
+制作支持库测试版	zhi zuo zhi chi ku ce shi ban	827
+中部	zhong bu	437
+中间	zhong jian	2312
+中文字号	zhong wen zi hao	2826
+轴线被单击	zhou xian bei dan ji	1083
+逐段	zhu duan	389
+主键	zhu jian	35
+主键名	zhu jian ming	31
+注销	zhu xiao	3122
+柱型	zhu xing	2780
+逐字	zhu zi	388
+主字段	zhu zi duan	2559
+逐字符	zhu zi fu	387
+转到	zhuan dao	2707
+装订线风格	zhuang ding xian feng ge	2680
+装订线位置	zhuang ding xian wei zhi	2681
+状态	zhuang tai	2574
+状态条文本	zhuang tai tiao wen ben	3199
+状态文本被改变	zhuang tai wen ben bei gai bian	3192
+装载图片	zhuang zai tu pian	2490
+准备断开	zhun bei duan kai	2625
+着重号	zhuo zhong hao	2699
+子菜单句柄	zi cai dan ju bing	3081
+自定义绘画尺寸和界限底轴	zi ding yi hui hua chi cun he jie xian di zhou	2257
+自定义绘画底轴	zi ding yi hui hua di zhou	2259
+自定义绘画界限底轴	zi ding yi hui hua jie xian di zhou	2256
+自定义绘画详细底轴	zi ding yi hui hua xiang xi di zhou	2258
+自动	zi dong	2773
+自动编辑	zi dong bian ji	2532
+自动补全	zi dong bu quan	2402
+自动法向量	zi dong fa xiang liang	78
+自动计算	zi dong ji suan	2585
+自动箭头	zi dong jian tou	376
+自动绕回	zi dong rao hui	2352
+自动刷新	zi dong shua xin	1608
+自动添加	zi dong tian jia	933
+自动调整尺寸	zi dong tiao zheng chi cun	850
+自动调整大小	zi dong tiao zheng da xiao	644
+自动调整滚动条	zi dong tiao zheng gun dong tiao	851
+自动调整键列尺寸	zi dong tiao zheng jian lie chi cun	881
+自动吸附	zi dong xi fu	841
+自动下拉	zi dong xia la	2401
+自动显示	zi dong xian shi	2488
+自动选择	zi dong xuan ze	2495
+自动增量型	zi dong zeng liang xing	2377
+字段附加类型	zi duan fu jia lei xing	29
+字段个数	zi duan ge shu	2581
+字段基本类型	zi duan ji ben lei xing	30
+字段类型	zi duan lei xing	41
+字段名	zi duan ming	42
+字段名到序号	zi duan ming dao xu hao	67
+字段树状显示	zi duan shu zhuang xian shi	2575
+字段信息类型	zi duan xin xi lei xing	43
+字符间距	zi fu jian ju	2689
+字符输入	zi fu shu ru	619
+字符型	zi fu xing	2373
+字节与逻辑型	zi jie yu luo ji xing	2
+子控件只读	zi kong jian zhi du	2341
+自适应	zi shi ying	417
+字体创建	zi ti chuang jian	728
+字体动态效果	zi ti dong tai xiao guo	2701
+字体可否嵌入	zi ti ke fou qian ru	518
+字体取文本宽度	zi ti qu wen ben kuan du	726
+字体设置	zi ti she zhi	3037
+字体缩放比	zi ti suo fang bi	2691
+字体销毁	zi ti xiao hui	727
+字体已嵌入	zi ti yi qian ru	517
+字体隐藏	zi ti yin cang	2696
+自行浏览	zi xing liu lan	381
+自增量标记	zi zeng liang biao ji	38
+总是显示编辑框	zong shi xian shi bian ji kuang	942
+纵向对齐	zong xiang dui qi	2782
+纵向分割	zong xiang fen ge	2883
+纵向滚动条尺寸	zong xiang gun dong tiao chi cun	845
+纵向滚动条位置	zong xiang gun dong tiao wei zhi	844
+纵向合并	zong xiang he bing	2881
+纵向屏幕位置到值	zong xiang ping mu wei zhi dao zhi	2095
+纵值排序	zong zhi pai xu	1611
+组件被双击	zu jian bei shuang ji	3010
+最大长度	zui da chang du	2497
+最大页面值	zui da ye mian zhi	1121
+最后	zui hou	2809
+最佳	zui jia	186
+最近多贴图滤镜	zui jin duo tie tu lv jing	111
+最近滤镜	zui jin lv jing	113
+最前	zui qian	2790
+最小尺寸	zui xiao chi cun	842
+最小字号	zui xiao zi hao	2695
+左边界距离	zuo bian jie ju li	2677
+坐标变换	zuo biao bian huan	367
+坐标平移	zuo biao ping yi	364
+坐标缩放	zuo biao suo fang	362
+坐标旋转	zuo biao xuan zhuan	363
+左墙尺寸	zuo qiang chi cun	1519
+左墙画笔粗细	zuo qiang hua bi cu xi	1513
+左墙画笔可视	zuo qiang hua bi ke shi	1514
+左墙画笔类型	zuo qiang hua bi lei xing	1515
+左墙画笔设置	zuo qiang hua bi she zhi	1518
+左墙画笔颜色	zuo qiang hua bi yan se	1517
+左墙画笔样式	zuo qiang hua bi yang shi	1516
+左墙设置	zuo qiang she zhi	1524
+左墙刷子类型	zuo qiang shua zi lei xing	1521
+左墙刷子设置	zuo qiang shua zi she zhi	1523
+左墙刷子颜色	zuo qiang shua zi yan se	1522
+左墙颜色	zuo qiang yan se	1520
+作者信箱	zuo zhe xin xiang	2754
+作者主页	zuo zhe zhu ye	2755
+左轴表格线风格	zuo zhou biao ge xian feng ge	1583
+左轴表格线居中	zuo zhou biao ge xian ju zhong	1575
+左轴表格线可视	zuo zhou biao ge xian ke shi	1582
+左轴表格线宽度	zuo zhou biao ge xian kuan du	1581
+左轴表格线设置	zuo zhou biao ge xian she zhi	1586
+左轴表格线颜色	zuo zhou biao ge xian yan se	1585
+左轴表格线样式	zuo zhou biao ge xian yang shi	1584
+左轴标签尺寸	zuo zhou biao qian chi cun	1569
+左轴标签风格	zuo zhou biao qian feng ge	1568
+左轴标签间距	zuo zhou biao qian jian ju	1570
+左轴标签角度	zuo zhou biao qian jiao du	1576
+左轴标签可视	zuo zhou biao qian ke shi	1577
+左轴标签逻辑位置	zuo zhou biao qian luo ji wei zhi	1540
+左轴标签字体	zuo zhou biao qian zi ti	1573
+左轴标签字体颜色	zuo zhou biao qian zi ti yan se	1572
+左轴标题	zuo zhou biao ti	1533
+左轴标题尺寸	zuo zhou biao ti chi cun	1529
+左轴标题角度	zuo zhou biao ti jiao du	1532
+左轴标题逻辑位置	zuo zhou biao ti luo ji wei zhi	1539
+左轴标题设置	zuo zhou biao ti she zhi	1534
+左轴标题字体	zuo zhou biao ti zi ti	1531
+左轴标题字体颜色	zuo zhou biao ti zi ti yan se	1530
+左轴对数显示	zuo zhou dui shu xian shi	1567
+左轴多行标签	zuo zhou duo hang biao qian	1527
+左轴反转	zuo zhou fan zhuan	1578
+左轴结束位置	zuo zhou jie shu wei zhi	1525
+左轴结束像素位置	zuo zhou jie shu xiang su wei zhi	1526
+左轴精确日期时间	zuo zhou jing que ri qi shi jian	1587
+左轴刻度长度	zuo zhou ke du chang du	1536
+左轴刻度风格	zuo zhou ke du feng ge	1559
+左轴刻度可视	zuo zhou ke du ke shi	1558
+左轴刻度宽度	zuo zhou ke du kuan du	1557
+左轴刻度设置	zuo zhou ke du she zhi	1562
+左轴刻度颜色	zuo zhou ke du yan se	1561
+左轴刻度样式	zuo zhou ke du yang shi	1560
+左轴可视	zuo zhou ke shi	1528
+左轴逻辑位置	zuo zhou luo ji wei zhi	1541
+左轴内部刻度长度	zuo zhou nei bu ke du chang du	1537
+左轴内部刻度风格	zuo zhou nei bu ke du feng ge	1547
+左轴内部刻度可视	zuo zhou nei bu ke du ke shi	1546
+左轴内部刻度宽度	zuo zhou nei bu ke du kuan du	1545
+左轴内部刻度设置	zuo zhou nei bu ke du she zhi	1550
+左轴内部刻度颜色	zuo zhou nei bu ke du yan se	1549
+左轴内部刻度样式	zuo zhou nei bu ke du yang shi	1548
+左轴起始位置	zuo zhou qi shi wei zhi	1542
+左轴起始像素位置	zuo zhou qi shi xiang su wei zhi	1543
+左轴其他面	zuo zhou qi ta mian	1544
+左轴日期时间格式	zuo zhou ri qi shi jian ge shi	1588
+左轴舍入标签值	zuo zhou she ru biao qian zhi	1538
+左轴设置	zuo zhou she zhi	1599
+左轴水平线	zuo zhou shui ping xian	1580
+左轴位置	zuo zhou wei zhi	1574
+左轴线设置	zuo zhou xian she zhi	1595
+左轴显示两端标签	zuo zhou xian shi liang duan biao qian	1571
+左轴小刻度长度	zuo zhou xiao ke du chang du	1563
+左轴小刻度风格	zuo zhou xiao ke du feng ge	1553
+左轴小刻度可视	zuo zhou xiao ke du ke shi	1552
+左轴小刻度宽度	zuo zhou xiao ke du kuan du	1551
+左轴小刻度设置	zuo zhou xiao ke du she zhi	1556
+左轴小刻度数量	zuo zhou xiao ke du shu liang	1564
+左轴小刻度颜色	zuo zhou xiao ke du yan se	1555
+左轴小刻度样式	zuo zhou xiao ke du yang shi	1554
+左轴增量	zuo zhou zeng liang	1579
+左轴值格式	zuo zhou zhi ge shi	1589
+左轴只在标签位置显示刻度	zuo zhou zhi zai biao qian wei zhi xian shi ke du	1535
+左轴轴线风格	zuo zhou zhou xian feng ge	1592
+左轴轴线可视	zuo zhou zhou xian ke shi	1591
+左轴轴线宽度	zuo zhou zhou xian kuan du	1590
+左轴轴线颜色	zuo zhou zhou xian yan se	1594
+左轴轴线样式	zuo zhou zhou xian yang shi	1593
+左轴自动计算	zuo zhou zi dong ji suan	1598
+左轴自动计算最大值	zuo zhou zi dong ji suan zui da zhi	1597
+左轴自动计算最小值	zuo zhou zi dong ji suan zui xiao zhi	1596
+左轴最大值	zuo zhou zui da zhi	1566
+左轴最小值	zuo zhou zui xiao zhi	1565

@@ -1,0 +1,6239 @@
+# 词库名称: 上市公司新闻报道正负面词库(polarity of the words i
+# 词库分类: 个人专用
+# 词库描述: 在上市公司新闻报道中出现的词的感情色彩标注。+表示正面，-表示负面
+# 词条样例: 教训、增速、冲量、平安、告捷、历史新高
+# 解析词数: 6232
+# 解析异常: 0
+
+埃博拉病毒	ai bo la bing du	1711
+哀悼	ai dao	1176
+挨冻	ai dong	518
+挨饿	ai e	976
+爱岗敬业	ai gang jing ye	2120
+哀歌	ai ge	2774
+爱国心	ai guo xin	3479
+暧昧	ai mei	5556
+爱民	ai min	2955
+挨批	ai pi	5219
+爱心	ai xin	5732
+暗淡	an dan	3190
+黯淡	an dan	4752
+暗度陈仓	an du chen cang	5447
+暗渡陈仓	an du chen cang	3733
+案犯	an fan	4488
+安分	an fen	257
+安家落户	an jia luo hu	3202
+案件	an jian	5276
+暗礁	an jiao	3788
+安居乐业	an ju le ye	2918
+安居梦	an ju meng	1954
+安康	an kang	684
+暗亏	an kui	448
+安全	an quan	5983
+安全岛	an quan dao	4222
+安全管理	an quan guan li	4027
+安全审计	an quan shen ji	1518
+安全网关	an quan wang guan	1517
+黯然神伤	an ran shen shang	893
+黯然失色	an ran shi se	5457
+暗伤	an shang	1466
+安神	an shen	890
+安稳	an wen	2155
+暗喜	an xi	157
+暗箱	an xiang	2971
+安心	an xin	5997
+安易	an yi	1291
+昂起	ang qi	1946
+昂然	ang ran	1819
+盎然	ang ran	2013
+昂首	ang shou	4193
+昂首阔步	ang shou kuo bu	525
+昂扬	ang yang	4875
+傲然	ao ran	460
+傲视	ao shi	3204
+翱翔	ao xiang	4030
+傲游	ao you	879
+霸道	ba dao	2657
+拔地而起	ba di er qi	5602
+八方来客	ba fang lai ke	4066
+八方支援	ba fang zhi yuan	943
+拔高	ba gao	2866
+把脉	ba mai	5569
+罢免	ba mian	3162
+霸权	ba quan	1699
+霸王条款	ba wang tiao kuan	1557
+把握	ba wo	5580
+把握机遇	ba wo ji yu	2374
+八仙过海	ba xian guo hai	1203
+罢休	ba xiu	3349
+巴掌	ba zhang	1296
+霸主	ba zhu	4615
+败北	bai bei	3575
+败笔	bai bi	4751
+百尺竿头更进一步	bai chi gan tou geng jin yi bu	989
+白搭	bai da	2548
+败家子	bai jia zi	3044
+败将	bai jiang	290
+败局	bai ju	2843
+百孔千疮	bai kong qian chuang	2555
+百里挑一	bai li tiao yi	1006
+百鸟朝凤	bai niao chao feng	2694
+败诉	bai su	5324
+白天鹅	bai tian e	4128
+败退	bai tui	3229
+百万富翁	bai wan fu weng	1748
+败絮其中	bai xu qi zhong	649
+白衣骑士	bai yi qi shi	4591
+百战百胜	bai zhan bai sheng	781
+败阵	bai zhen	630
+摆正	bai zheng	144
+败走麦城	bai zou mai cheng	716
+版本升级	ban ben sheng ji	3560
+绊倒	ban dao	3224
+办好	ban hao	4170
+颁奖	ban jiang	4462
+板上钉钉	ban shang ding ding	2798
+半途而废	ban tu er fei	3279
+办学	ban xue	3069
+帮衬	bang chen	4645
+傍大款	bang da kuan	5302
+帮扶	bang fu	4114
+绑架	bang jia	5559
+榜上有名	bang shang you ming	4914
+榜首	bang shou	5988
+帮凶	bang xiong	3014
+榜眼	bang yan	2742
+报案	bao an	3710
+包庇	bao bi	1698
+保持	bao chi	5476
+保持良好	bao chi liang hao	5632
+保持稳定	bao chi wen ding	2975
+报春	bao chun	2031
+报春花	bao chun hua	1201
+包打天下	bao da tian xia	922
+宝刀未老	bao dao wei lao	2967
+报得三春晖	bao de san chun hui	862
+暴跌	bao die	5534
+暴跌后	bao die hou	1883
+暴跌时	bao die shi	2934
+暴动	bao dong	5401
+暴发	bao fa	4060
+爆发	bao fa	5848
+报废	bao fei	4134
+暴风雨	bao feng yu	585
+报复	bao fu	2629
+抱负	bao fu	5800
+宝贵	bao gui	5092
+饱和	bao he	2939
+保护措施	bao hu cuo shi	3439
+保护神	bao hu shen	1741
+保驾	bao jia	4090
+保荐	bao jian	4525
+宝剑	bao jian	4182
+报捷	bao jie	1616
+报警	bao jing	3037
+爆冷门	bao leng men	1381
+暴利	bao li	6104
+暴力	bao li	4041
+爆裂	bao lie	727
+暴露	bao lu	5706
+暴露无遗	bao lu wu yi	1389
+饱满	bao man	2610
+包容	bao rong	3699
+保守	bao shou	5956
+饱受	bao shou	3157
+保养	bao yang	2942
+报忧	bao you	5064
+抱怨	bao yuan	3598
+宝藏	bao zang	3689
+爆炸	bao zha	4930
+爆炸性增长	bao zha xing zeng zhang	2364
+保障	bao zhang	6126
+被捕	bei bu	3174
+被裁定破产	bei cai ding po chan	2394
+悲惨	bei can	1734
+辈出	bei chu	100
+被盗	bei dao	2531
+背道而驰	bei dao er chi	5509
+被低估	bei di gu	5314
+被动	bei dong	3724
+被告	bei gao	3128
+悲歌	bei ge	3303
+悲观	bei guan	1414
+被害	bei hai	217
+背黑锅	bei hei guo	1564
+背井离乡	bei jing li xiang	1523
+悲剧	bei ju	3868
+被拒	bei ju	3046
+背离	bei li	3235
+悖论	bei lun	3801
+被批准	bei pi zhun	3282
+被迫	bei po	3499
+背弃	bei qi	563
+杯水车薪	bei shui che xin	3236
+背水一战	bei shui yi zhan	4160
+被套	bei tao	5906
+倍增	bei zeng	4726
+被占	bei zhan	3487
+备至	bei zhi	947
+本土优势	ben tu you shi	1301
+奔小康	ben xiao kang	1095
+崩溃	beng kui	2586
+崩裂	beng lie	4504
+崩盘	beng pan	5786
+崩塌	beng ta	2685
+弊病	bi bing	1384
+避而不见	bi er bu jian	747
+避风港	bi feng gang	5754
+碧海	bi hai	4029
+比较稳健	bi jiao wen jian	4034
+比较优势	bi jiao you shi	5129
+避坑落井	bi keng luo jing	305
+闭门羹	bi men geng	1265
+闭门造车	bi men zao che	4442
+逼迫	bi po	6132
+必胜	bi sheng	2035
+避实就虚	bi shi jiu xu	3770
+避税	bi shui	5948
+笔误	bi wu	2865
+比翼齐飞	bi yi qi fei	4171
+比翼双飞	bi yi shuang fei	2756
+逼债	bi zhai	3242
+必争之地	bi zheng zhi di	5788
+避重就轻	bi zhong jiu qing	4278
+变本加厉	bian ben jia li	2063
+鞭长莫及	bian chang mo ji	5399
+遍地开花	bian di kai hua	4018
+变更项目	bian geng xiang mu	2887
+变卦	bian gua	4430
+便捷	bian jie	4104
+辩解	bian jie	2899
+变绿	bian lv	2475
+遍体鳞伤	bian ti lin shang	4455
+变天	bian tian	1419
+编造	bian zao	2226
+变质	bian zhi	192
+标本兼治	biao ben jian zhi	940
+标兵	biao bing	5987
+表里如一	biao li ru yi	495
+飙升	biao sheng	5640
+表示感谢	biao shi gan xie	1044
+表率	biao shuai	5626
+表现活跃	biao xian huo yue	1030
+标新立异	biao xin li yi	655
+表扬信	biao yang xin	1012
+表彰	biao zhang	3672
+标志	biao zhi	6174
+标准高	biao zhun gao	3644
+别出心裁	bie chu xin cai	1526
+蹩脚	bie jiao	282
+别具一格	bie ju yi ge	1709
+别开生面	bie kai sheng mian	778
+别来无恙	bie lai wu yang	1471
+别有洞天	bie you dong tian	997
+别有用心	bie you yong xin	791
+别致	bie zhi	1637
+缤纷	bin fen	2060
+宾客盈门	bin ke ying men	3385
+濒危	bin wei	527
+兵变	bing bian	2562
+病变	bing bian	1440
+并不乐观	bing bu le guan	2831
+秉承	bing cheng	4940
+冰川期	bing chuan qi	14
+冰点	bing dian	2309
+病毒	bing du	3080
+并发症	bing fa zheng	1387
+禀赋	bing fu	57
+病急乱投医	bing ji luan tou yi	2581
+并驾齐驱	bing jia qi qu	3676
+兵来将挡	bing lai jiang dang	1243
+兵临城下	bing lin cheng xia	3890
+病人	bing ren	1844
+病入膏肓	bing ru gao huang	1367
+病危	bing wei	996
+病症	bing zheng	1776
+博爱	bo ai	5837
+勃勃	bo bo	2639
+饽饽	bo bo	5794
+勃勃生机	bo bo sheng ji	3203
+驳斥	bo chi	3712
+剥夺	bo duo	1594
+勃发	bo fa	4156
+勃发生机	bo fa sheng ji	874
+驳回	bo hui	5344
+波及	bo ji	4756
+波澜	bo lan	5157
+波澜壮阔	bo lan zhuang kuo	220
+拨乱反正	bo luan fan zheng	2915
+博取	bo qu	4897
+剥削	bo xue	2014
+拨云见日	bo yun jian ri	4024
+波折	bo zhe	4791
+步步为营	bu bu wei ying	3859
+不测	bu ce	1521
+不成方圆	bu cheng fang yuan	698
+不成功	bu cheng gong	3534
+不充分	bu chong fen	3511
+不纯	bu chun	1294
+不当得利	bu dang de li	432
+不倒翁	bu dao weng	520
+步调一致	bu diao yi zhi	565
+不定	bu ding	5144
+不断深入	bu duan shen ru	77
+不断刷新	bu duan shua xin	3195
+不断提高	bu duan ti gao	1782
+不二法门	bu er fa men	3456
+不凡	bu fan	1092
+不服	bu fu	6039
+不符	bu fu	5531
+不付款	bu fu kuan	748
+不负责	bu fu ze	273
+不负众望	bu fu zhong wang	182
+不甘	bu gan	5160
+不公	bu gong	3451
+不公平	bu gong ping	2653
+不公平竞争	bu gong ping jing zheng	2426
+不构成侵权	bu gou cheng qin quan	866
+不顾	bu gu	5817
+不规范	bu gui fan	3165
+不含糊	bu han hu	3500
+不好	bu hao	5579
+不好过	bu hao guo	2194
+不合	bu he	4848
+不和	bu he	3301
+不合时宜	bu he shi yi	898
+不和谐	bu he xie	968
+不欢而散	bu huan er san	648
+不及	bu ji	4761
+不济	bu ji	2615
+不积跬步	bu ji kui bu	1295
+不见收益	bu jian shou yi	526
+不结实	bu jie shi	253
+不解之缘	bu jie zhi yuan	4400
+不尽	bu jin	3504
+不尽人意	bu jin ren yi	2513
+不景气	bu jing qi	2838
+不拘一格	bu ju yi ge	4394
+不均	bu jun	1412
+不均衡	bu jun heng	3925
+不堪	bu kan	3766
+不看好	bu kan hao	1586
+不堪重负	bu kan zhong fu	818
+不可避免	bu ke bi mian	3047
+不可多得	bu ke duo de	712
+不可或缺	bu ke huo que	2782
+不肯	bu ken	2616
+不乐观	bu le guan	4758
+不利	bu li	5839
+不力	bu li	3379
+不利因素	bu li yin su	3605
+不良	bu liang	5102
+不良贷款	bu liang dai kuan	2208
+不良反应	bu liang fan ying	2081
+不良记录	bu liang ji lu	485
+不良债权	bu liang zhai quan	3485
+不良资产	bu liang zi chan	4120
+不了	bu liao	6028
+步履艰难	bu lv jian nan	3872
+步履维艰	bu lv wei jian	3637
+不履行	bu lv xing	1161
+不买账	bu mai zhang	5150
+不满	bu man	4530
+不明不白	bu ming bu bai	2242
+不破不立	bu po bu li	609
+不切实际	bu qie shi ji	5436
+不侵权	bu qin quan	757
+不屈	bu qu	2257
+不屈不挠	bu qu bu nao	511
+不确定性	bu que ding xing	5693
+不认可	bu ren ke	3630
+不容乐观	bu rong le guan	4699
+不辱使命	bu ru shi ming	2040
+不上	bu shang	3292
+不舍昼夜	bu she zhou ye	94
+不慎	bu shen	3299
+不适当	bu shi dang	2613
+不失时机	bu shi shi ji	932
+不适应	bu shi ying	1398
+不是冤家不聚头	bu shi yuan jia bu ju tou	166
+不衰	bu shuai	3709
+不俗	bu su	5103
+不算	bu suan	3350
+不太好	bu tai hao	1371
+补贴	bu tie	5244
+不同凡响	bu tong fan xiang	2761
+不透明	bu tou ming	504
+不退	bu tui	5770
+不妥	bu tuo	1789
+不畏	bu wei	3771
+不稳定	bu wen ding	4996
+不务正业	bu wu zheng ye	5932
+不相为谋	bu xiang wei mou	2466
+不孝	bu xiao	366
+不懈	bu xie	3894
+不懈努力	bu xie nu li	514
+不幸	bu xing	2589
+不行	bu xing	4845
+不朽	bu xiu	1456
+不宜	bu yi	5692
+不亦乐乎	bu yi le hu	1704
+不遗余力	bu yi yu li	2565
+不一致	bu yi zhi	2712
+不义之财	bu yi zhi cai	488
+不应	bu ying	5832
+不用	bu yong	3638
+哺育	bu yu	4227
+不择手段	bu ze shou duan	396
+不怎么	bu zen me	363
+补涨要求	bu zhang yao qiu	4059
+不争	bu zheng	572
+不正当竞争	bu zheng dang jing zheng	2167
+不知	bu zhi	5202
+不支持	bu zhi chi	5349
+不准	bu zhun	3186
+不自由	bu zi you	605
+不足	bu zu	6048
+补足	bu zu	1815
+不做	bu zuo	5135
+不作为	bu zuo wei	4510
+擦亮	ca liang	2599
+财产损失	cai chan sun shi	1958
+彩蝶	cai die	458
+裁定	cai ding	4665
+裁定书	cai ding shu	3244
+财富	cai fu	6057
+财富效应	cai fu xiao ying	2575
+才好	cai hao	780
+采纳	cai na	4197
+菜鸟	cai niao	960
+采取切实有效措施	cai qu qie shi you xiao cuo shi	149
+才是最好的	cai shi zui hao de	2443
+财务风险	cai wu feng xian	3916
+财务管理	cai wu guan li	2612
+财务困境	cai wu kun jing	4117
+财务危机	cai wu wei ji	5126
+财务舞弊	cai wu wu bi	2056
+财务压力	cai wu ya li	3509
+猜疑	cai yi	3961
+才源	cai yuan	1005
+裁员	cai yuan	4560
+财源	cai yuan	2097
+财政补贴	cai zheng bu tie	3960
+财政资助	cai zheng zi zhu	4058
+才智	cai zhi	265
+财智	cai zhi	1463
+惨案	can an	676
+惨淡	can dan	3978
+惨淡经营	can dan jing ying	663
+残骸	can hai	3029
+惨祸	can huo	1032
+残局	can ju	5889
+残酷	can ku	534
+灿烂	can lan	4302
+灿烂辉煌	can lan hui huang	3127
+惨烈	can lie	1538
+残缺	can que	1195
+惨遭	can zao	4582
+惨重	can zhong	812
+苍白	cang bai	987
+苍苍	cang cang	55
+仓促	cang cu	3566
+沧海横流	cang hai heng liu	1266
+仓皇	cang huang	2894
+仓皇出逃	cang huang chu tao	3516
+藏龙卧虎	cang long wo hu	1409
+藏匿	cang ni	1241
+苍松	cang song	53
+苍蝇	cang ying	414
+草包	cao bao	869
+草草收场	cao cao shou chang	383
+草率	cao shuai	1842
+操之过急	cao zhi guo ji	1681
+操纵	cao zong	5419
+操纵价格	cao zong jia ge	387
+参差不齐	cen ci bu qi	3873
+查出	cha chu	4595
+查处	cha chu	5418
+差错	cha cuo	3590
+查封	cha feng	5297
+查封扣押	cha feng kou ya	2350
+查获	cha huo	4075
+岔路	cha lu	1793
+插手	cha shou	4636
+差异化战略	cha yi hua zhan lue	5669
+查账	cha zhang	3212
+拆东墙补西墙	chai dong qiang bu xi qiang	4426
+拆台	chai tai	1374
+蟾宫折桂	chan gong zhe gui	4884
+忏悔	chan hui	2773
+掺假	chan jia	542
+蝉联	chan lian	5024
+缠身	chan shen	5120
+产业化	chan ye hua	6101
+产业优势	chan ye you shi	4363
+长风破浪	chang feng po lang	3681
+偿付	chang fu	1718
+偿还欠款	chang huan qian kuan	3327
+畅快	chang kuai	855
+长流水	chang liu shui	1211
+偿命	chang ming	1288
+长期牛市	chang qi niu shi	1408
+长期向好	chang qi xiang hao	2102
+常青	chang qing	5486
+长驱	chang qu	600
+长盛不衰	chang sheng bu shuai	2212
+尝试	chang shi	5708
+畅通	chang tong	3026
+畅通无阻	chang tong wu zu	1155
+唱响	chang xiang	5464
+畅想	chang xiang	3723
+畅销	chang xiao	3647
+长效	chang xiao	5318
+常新	chang xin	2138
+畅行	chang xing	1532
+畅叙	chang xu	4389
+长缨	chang ying	543
+畅游	chang you	3844
+偿债协议	chang zhai xie yi	2938
+唱主角	chang zhu jue	5029
+常抓不懈	chang zhua bu xie	2410
+超标	chao biao	5958
+超产	chao chan	2253
+超长	chao chang	4245
+超跌	chao die	5203
+超跌股	chao die gu	3392
+超额	chao e	6026
+超额回报	chao e hui bao	1708
+超额利润	chao e li run	1431
+超额认购	chao e ren gou	4284
+超负荷	chao fu he	4105
+超高	chao gao	5765
+超过	chao guo	6058
+炒家	chao jia	4137
+潮平两岸阔	chao ping liang an kuo	552
+超期	chao qi	4766
+超期服役	chao qi fu yi	2871
+超群	chao qun	3845
+超然	chao ran	3161
+超时	chao shi	1716
+抄袭	chao xi	4947
+超越	chao yue	6060
+超越大盘	chao yue da pan	51
+超载	chao zai	2928
+超支	chao zhi	1568
+炒作	chao zuo	5517
+撤回起诉	che hui qi su	3564
+车祸	che huo	443
+撤军	che jun	4445
+撤离	che li	5798
+扯皮	che pi	2193
+撤退	che tui	4676
+掣肘	che zhou	6149
+尘埃落定	chen ai luo ding	5385
+尘肺	chen fei	119
+趁火打劫	chen huo da jie	5582
+沉浸	chen jin	2237
+沉静	chen jing	1516
+陈旧	chen jiu	1967
+沉疴	chen ke	5195
+沉沦	chen lun	872
+沉迷	chen mi	1947
+沉没	chen mo	3043
+沉痛	chen tong	1112
+沉陷	chen xian	2041
+沉郁	chen yu	1289
+沉重	chen zhong	5173
+沉重的	chen zhong de	1799
+沉醉	chen zui	2306
+称霸	cheng ba	5863
+成本上升	cheng ben shang sheng	4088
+成才	cheng cai	2259
+惩处	cheng chu	1311
+承担	cheng dan	6085
+承担全部	cheng dan quan bu	292
+惩罚	cheng fa	3715
+惩罚性关税	cheng fa xing guan shui	1480
+成风	cheng feng	3490
+乘风破浪	cheng feng po lang	4412
+乘风扬帆	cheng feng yang fan	1580
+成功	cheng gong	5861
+成功发行	cheng gong fa xing	3707
+成功上市	cheng gong shang shi	3809
+成功实施	cheng gong shi shi	3572
+成果	cheng guo	5723
+成果奖	cheng guo jiang	2698
+成家	cheng jia	16
+成交放大	cheng jiao fang da	4801
+成交萎缩	cheng jiao wei suo	2313
+惩戒	cheng jie	2882
+成就	cheng jiu	5926
+成就大事业	cheng jiu da shi ye	1984
+诚恳	cheng ken	3216
+成立	cheng li	6056
+成名	cheng ming	211
+逞强	cheng qiang	5607
+成全	cheng quan	5644
+乘胜追击	cheng sheng zhui ji	1354
+乘势	cheng shi	3702
+成事	cheng shi	49
+诚实	cheng shi	2216
+诚实守信	cheng shi shou xin	1486
+成熟	cheng shu	5700
+成熟技术	cheng shu ji shu	843
+成熟市场	cheng shu shi chang	4231
+成效明显	cheng xiao ming xian	4982
+诚心	cheng xin	3432
+诚心诚意	cheng xin cheng yi	2214
+诚信天下	cheng xin tian xia	2425
+称雄	cheng xiong	5864
+程序违法	cheng xu wei fa	2247
+诚邀	cheng yao	2517
+逞英雄	cheng ying xiong	3321
+称誉	cheng yu	728
+成灾	cheng zai	3616
+承载	cheng zai	4721
+称赞	cheng zan	3388
+成长	cheng zhang	5671
+成长的	cheng zhang de	4772
+成长空间巨大	cheng zhang kong jian ju da	1976
+成长潜力	cheng zhang qian li	4461
+成长性	cheng zhang xing	5633
+成长预期	cheng zhang yu qi	3478
+诚挚	cheng zhi	558
+成竹在胸	cheng zhu zai xiong	2020
+吃闭门羹	chi bi men geng	3
+赤诚	chi cheng	1181
+驰骋	chi cheng	3645
+迟迟	chi chi	4641
+踟蹰	chi chu	715
+赤胆忠心	chi dan zhong xin	1128
+迟到	chi dao	5532
+吃官司	chi guan si	2582
+吃好	chi hao	1707
+吃好饭	chi hao fan	1041
+迟缓	chi huan	5456
+吃老本	chi lao ben	1692
+赤裸	chi luo	4526
+痴迷	chi mi	3288
+驰名	chi ming	3442
+驰名商标	chi ming shang biao	5435
+迟暮	chi mu	2133
+炽热	chi re	1236
+耻辱	chi ru	1566
+吃透	chi tou	4009
+赤心	chi xin	1252
+持续经营	chi xu jing ying	3929
+持续上升	chi xu shang sheng	4547
+持续提升	chi xu ti sheng	2459
+持续萎缩	chi xu wei suo	1834
+持续下跌	chi xu xia die	5511
+持续增长	chi xu zeng zhang	5803
+持续走低	chi xu zou di	602
+持续走高	chi xu zou gao	2329
+持续走强	chi xu zou qiang	2085
+迟疑	chi yi	161
+持异议	chi yi yi	3171
+池鱼之殃	chi yu zhi yang	749
+驰援	chi yuan	5952
+持之以恒	chi zhi yi heng	4410
+赤字	chi zi	1355
+赤子情	chi zi qing	468
+崇拜	chong bai	2346
+冲刺	chong ci	6226
+重蹈覆辙	chong dao fu zhe	3398
+冲动	chong dong	4994
+宠儿	chong er	5713
+重返	chong fan	5804
+充分释放	chong fen shi fang	1792
+充分享受	chong fen xiang shou	3678
+充分展示	chong fen zhan shi	404
+冲锋陷阵	chong feng xian zhen	3938
+冲高	chong gao	4781
+崇高	chong gao	1138
+冲高潜力	chong gao qian li	568
+冲高受阻	chong gao shou zu	1277
+冲击	chong ji	6050
+重见天日	chong jian tian ri	221
+憧憬	chong jing	4205
+冲量	chong liang	6221
+充沛	chong pei	3406
+冲破	chong po	3408
+重生	chong sheng	5075
+充实	chong shi	1697
+重塑	chong su	5320
+冲天	chong tian	4186
+冲突	chong tu	2965
+重新启动	chong xin qi dong	4201
+重修旧好	chong xiu jiu hao	333
+充裕	chong yu	5976
+重振	chong zhen	5280
+重整旗鼓	chong zheng qi gu	3940
+充足	chong zu	6155
+筹备	chou bei	3700
+踌躇不前	chou chu bu qian	673
+踌躇满志	chou chu man zhi	718
+丑话	chou hua	1420
+筹划	chou hua	6118
+丑剧	chou ju	379
+抽水	chou shui	5143
+抽逃出资	chou tao chu zi	367
+抽逃资金	chou tao zi jin	2096
+丑闻	chou wen	4634
+处变不惊	chu bian bu jing	2704
+出彩	chu cai	4630
+出错	chu cuo	5950
+触底反弹	chu di fan tan	3943
+出尔反尔	chu er fan er	3527
+处罚	chu fa	5266
+处罚力度	chu fa li du	2881
+触犯	chu fan	2100
+处分	chu fen	5303
+楚歌	chu ge	2609
+出轨	chu gui	3120
+出击	chu ji	6156
+初见成效	chu jian cheng xiao	4869
+初见端倪	chu jian duan ni	4154
+触礁	chu jiao	4865
+除旧迎新	chu jiu ying xin	2233
+初具规模	chu ju gui mo	3991
+出口退税	chu kou tui shui	2538
+触雷	chu lei	1559
+出炉	chu lu	6151
+初露	chu lu	5461
+初露锋芒	chu lu feng mang	870
+出名	chu ming	1691
+触目惊心	chu mu jing xin	5341
+处女地	chu nv di	4873
+出其不意	chu qi bu yi	539
+出气筒	chu qi tong	1070
+出奇制胜	chu qi zhi sheng	4959
+出千	chu qian	398
+出色	chu se	4215
+出神入化	chu shen ru hua	1930
+出事	chu shi	1719
+出师不利	chu shi bu li	2804
+出手不凡	chu shou bu fan	5440
+触手可及	chu shou ke ji	4365
+出逃	chu tao	5365
+出头之日	chu tou zhi ri	69
+出息	chu xi	787
+出现下滑	chu xian xia hua	4390
+出血	chu xie	3136
+出新	chu xin	736
+雏形	chu xing	4780
+出狱	chu yu	2779
+出众	chu zhong	1601
+传承	chuan cheng	5503
+传家宝	chuan jia bao	1826
+传世	chuan shi	2142
+穿针引线	chuan zhen yin xian	4651
+创办	chuang ban	5251
+创出新高	chuang chu xin gao	3372
+创纪录	chuang ji lu	3632
+创建	chuang jian	4396
+创举	chuang ju	668
+创利	chuang li	6090
+闯入	chuang ru	4254
+创伤	chuang shang	659
+创设	chuang she	5400
+创收	chuang shou	2521
+创下	chuang xia	5753
+创新	chuang xin	5960
+创新的	chuang xin de	6045
+创新低	chuang xin di	5871
+创新高	chuang xin gao	6220
+创业环保	chuang ye huan bao	3277
+创业投资	chuang ye tou zi	2920
+创业行动	chuang ye xing dong	2356
+创意	chuang yi	5043
+创造	chuang zao	5797
+创造力	chuang zao li	3946
+垂拱而治	chui gong er zhi	522
+吹尽狂沙始到金	chui jin kuang sha shi dao jin	1319
+锤炼	chui lian	3411
+吹毛求疵	chui mao qiu ci	1133
+吹牛	chui niu	5301
+垂青	chui qing	2793
+吹嘘	chui xu	2099
+春潮	chun chao	740
+蠢蠢欲动	chun chun yu dong	730
+春风	chun feng	4406
+春风得意	chun feng de yi	2163
+春风化雨	chun feng hua yu	4720
+醇厚	chun hou	381
+纯净	chun jing	417
+春蕾	chun lei	1083
+春雷	chun lei	9
+纯利	chun li	2499
+春暖花开	chun nuan hua kai	143
+春色满园	chun se man yuan	1527
+春色满园关不住	chun se man yuan guan bu zhu	2515
+春水	chun shui	1455
+醇香	chun xiang	2191
+春意	chun yi	4885
+春意盎然	chun yi ang ran	1147
+次贷危机	ci dai wei ji	497
+此地无银三百两	ci di wu yin san bai liang	2303
+刺激	ci ji	5741
+辞旧迎新	ci jiu ying xin	2763
+慈善	ci shan	3413
+刺痛	ci tong	2209
+刺头	ci tou	309
+辞职	ci zhi	5891
+从不	cong bu	2327
+聪明	cong ming	5760
+聪明才智	cong ming cai zhi	179
+从容	cong rong	5047
+从容应对	cong rong ying dui	5689
+从善如流	cong shan ru liu	1990
+丛生	cong sheng	5197
+从无到有	cong wu dao you	3108
+从严	cong yan	3278
+聪颖	cong ying	88
+从重处罚	cong zhong chu fa	29
+从中作梗	cong zhong zuo geng	328
+凑趣	cou qu	1579
+猝不及防	cu bu ji fang	880
+粗糙	cu cao	1554
+促成	cu cheng	5622
+粗放	cu fang	1140
+促进	cu jin	5784
+促使	cu shi	5477
+猝死	cu si	3752
+粗俗	cu su	1597
+促膝谈心	cu xi tan xin	998
+促销	cu xiao	5882
+篡改	cuan gai	857
+篡位	cuan wei	286
+璀璨夺目	cui can duo mu	1851
+催化剂	cui hua ji	4290
+催款	cui kuan	3759
+催人奋进	cui ren fen jin	2109
+脆弱	cui ruo	1258
+脆弱的	cui ruo de	1987
+脆弱性	cui ruo xing	656
+寸步难行	cun bu nan xing	499
+存货跌价准备	cun huo die jia zhun bei	3803
+存疑	cun yi	5295
+错案	cuo an	3772
+挫败	cuo bai	815
+错车	cuo che	421
+错觉	cuo jue	5615
+错乱	cuo luan	3910
+错判	cuo pan	4379
+错配	cuo pei	1251
+挫伤	cuo shang	4537
+错失	cuo shi	5213
+措手不及	cuo shou bu ji	958
+错误	cuo wu	5949
+错误数据	cuo wu shu ju	505
+挫折	cuo zhe	1735
+错综复杂	cuo zong fu za	2323
+大败	da bai	810
+打败	da bai	861
+大包大揽	da bao da lan	4449
+大庇天下寒士俱欢颜	da bi tian xia han shi ju huan yan	623
+大乘	da cheng	513
+达成一致	da cheng yi zhi	1196
+达成一致意见	da cheng yi zhi yi jian	84
+大出风头	da chu feng tou	1534
+大出血	da chu xue	2310
+大打出手	da da chu shou	3840
+大胆	da dan	3636
+大刀阔斧	da dao kuo fu	2078
+大跌	da die	5605
+大定	da ding	298
+大动干戈	da dong gan ge	2050
+打翻身仗	da fan shen zhang	3911
+大放异彩	da fang yi cai	196
+大风大浪	da feng da lang	152
+大幅反弹	da fu fan tan	4605
+大幅减持	da fu jian chi	4471
+大幅让利	da fu rang li	5049
+大幅上扬	da fu shang yang	1979
+大幅上涨	da fu shang zhang	3650
+大幅提升	da fu ti sheng	4538
+大幅跳水	da fu tiao shui	3628
+大幅调整	da fu tiao zheng	4037
+大幅下挫	da fu xia cuo	3913
+大幅下跌	da fu xia die	2273
+大幅下滑	da fu xia hua	5551
+大幅下调	da fu xia tiao	3833
+大幅增长	da fu zeng zhang	5483
+大功告成	da gong gao cheng	2302
+大观	da guan	666
+打官司	da guan si	3145
+大旱	da han	3114
+大红	da hong	2
+大祸	da huo	2159
+大获全胜	da huo quan sheng	5055
+大吉	da ji	4139
+打击	da ji	4079
+打架	da jia	4653
+搭建	da jian	5915
+大奖	da jiang	5005
+大将	da jiang	5374
+打劫	da jie	1884
+大举	da ju	6021
+大冷股份	da leng gu fen	3176
+大力推进	da li tui jin	4723
+打乱	da luan	3032
+打马虎眼	da ma hu yan	3513
+大满贯	da man guan	86
+大难不死	da nan bu si	575
+大鹏一日同风起	da peng yi ri tong feng qi	591
+打破	da po	6166
+打破常规	da po chang gui	2524
+打破僵局	da po jiang ju	180
+大气	da qi	1435
+大气磅礴	da qi pang bo	2051
+大气污染	da qi wu ran	1124
+大权独揽	da quan du lan	3078
+打入冷宫	da ru leng gong	2777
+大赦	da she	3020
+大失所望	da shi suo wang	813
+大势已去	da shi yi qu	842
+大树底下好乘凉	da shu di xia hao cheng liang	1948
+大跳水	da tiao shui	5510
+打通	da tong	4306
+打头阵	da tou zhen	3402
+大团圆	da tuan yuan	319
+大王	da wang	4936
+大显身手	da xian shen shou	1504
+答谢	da xie	4913
+大盈	da ying	2386
+大有可为	da you ke wei	3283
+大有作为	da you zuo wei	1989
+大禹治水	da yu zhi shui	1386
+大跃进	da yue jin	5132
+大增	da zeng	6125
+大展宏图	da zhan hong tu	2186
+大张旗鼓	da zhang qi gu	4065
+大智慧	da zhi hui	4218
+大智若愚	da zhi ruo yu	452
+打肿脸充胖子	da zhong lian chong pang zi	2807
+带病	dai bing	4660
+逮捕	dai bu	2668
+待查	dai cha	2826
+带动	dai dong	5095
+代价	dai jia	4679
+殆尽	dai jin	4554
+贷款难	dai kuan nan	2438
+贷款支持	dai kuan zhi chi	3958
+带领	dai ling	4334
+怠慢	dai man	2673
+带伤	dai shang	1424
+带头人	dai tou ren	2803
+代言人	dai yan ren	4867
+待业	dai ye	283
+呆账	dai zhang	2150
+担保责任	dan bao ze ren	4693
+淡出	dan chu	5929
+胆大妄为	dan da wang wei	3180
+担当	dan dang	4309
+单刀赴会	dan dao fu hui	63
+胆敢	dan gan	3035
+耽搁	dan ge	4691
+淡季	dan ji	6184
+弹尽粮绝	dan jin liang jue	320
+殚精竭虑	dan jing jie lv	2697
+胆略	dan lue	762
+胆魄	dan po	1899
+单日上涨	dan ri shang zhang	583
+诞生	dan sheng	5434
+胆识	dan shi	2037
+单位犯罪	dan wei fan zui	1669
+单位行贿罪	dan wei xing hui zui	1542
+担心	dan xin	6217
+担忧	dan you	6178
+胆战心惊	dan zhan xin jing	2611
+当家作主	dang jia zuo zhu	3191
+挡路	dang lu	1353
+当仁不让	dang ren bu rang	2762
+当庭	dang ting	1665
+当头棒喝	dang tou bang he	1690
+当选	dang xuan	5506
+当之无愧	dang zhi wu kui	3319
+盗版	dao ban	1599
+倒闭	dao bi	3102
+倒彩	dao cai	215
+倒春寒	dao chun han	1365
+道德	dao de	5550
+道德风险	dao de feng xian	3024
+倒挂	dao gua	5859
+捣毁	dao hui	3141
+导火索	dao huo suo	4501
+刀口	dao kou	3659
+捣乱	dao luan	1745
+盗卖	dao mai	317
+倒霉	dao mei	3657
+悼念	dao nian	1111
+倒赔	dao pei	2393
+道歉	dao qian	5557
+盗窃	dao qie	1801
+盗窃案	dao qie an	1190
+刀刃	dao ren	1788
+倒数	dao shu	3889
+倒塌	dao ta	2337
+倒贴	dao tie	2319
+倒退	dao tui	3357
+倒下	dao xia	2664
+得不偿失	de bu chang shi	2702
+得逞	de cheng	733
+的错误	de cuo wu	1048
+得当	de dang	1945
+得而复失	de er fu shi	195
+的发展	de fa zhan	5927
+得荣耀	de rong yao	4241
+得天独厚	de tian du hou	4100
+的痛苦	de tong ku	3974
+的信念	de xin nian	2256
+得心应手	de xin ying shou	412
+得意之作	de yi zhi zuo	1119
+的优势	de you shi	3773
+登场	deng chang	4922
+等待机会	deng dai ji hui	2275
+登顶	deng ding	6070
+登高望远	deng gao wang yuan	469
+登临	deng lin	3558
+登堂入室	deng tang ru shi	1475
+抵偿	di chang	5123
+低潮	di chao	5910
+低成本战略	di cheng ben zhan lue	2270
+滴翠	di cui	1656
+低调	di diao	5990
+第二被告	di er bei gao	60
+提防	di fang	3004
+低估	di gu	5316
+低谷	di gu	2658
+低耗	di hao	1451
+诋毁	di hui	2660
+低回报	di hui bao	3694
+低价出售	di jia chu shou	2795
+缔结	di jie	3893
+抵赖	di lai	1362
+砥砺	di li	4255
+地利人和	di li ren he	1157
+低迷	di mi	4425
+底气	di qi	3892
+敌人	di ren	6145
+滴水不漏	di shui bu lou	1610
+第四的	di si de	2741
+低速	di su	3725
+地头蛇	di tou she	3777
+低位	di wei	5275
+第五名	di wu ming	3661
+低效	di xiao	5236
+第一	di yi	6225
+第一车	di yi che	176
+第一流	di yi liu	123
+抵御	di yu	5720
+低于预期	di yu yu qi	5218
+地缘	di yuan	3640
+底蕴	di yun	6001
+缔造	di zao	5630
+抵制	di zhi	4486
+地质灾害	di zhi zai hai	198
+颠簸	dian bo	4823
+颠倒黑白	dian dao hei bai	3720
+垫底	dian di	6041
+奠定	dian ding	5879
+巅峰	dian feng	4907
+点睛之笔	dian jing zhi bi	172
+癫狂	dian kuang	1400
+点燃	dian ran	4788
+点石成金	dian shi cheng jin	2952
+典雅	dian ya	1430
+电子化	dian zi hua	3592
+调查结果	diao cha jie guo	3708
+凋零	diao ling	632
+吊销	diao xiao	1437
+吊销营业执照	diao xiao ying ye zhi zhao	2334
+掉以轻心	diao yi qing xin	1998
+迭创新高	die chuang xin gao	3205
+跌到了	die dao le	2810
+跌幅	die fu	5743
+跌价	die jia	5321
+跌进	die jin	1807
+跌落	die luo	4267
+跌破	die po	6077
+跌破面值	die po mian zhi	269
+跌入	die ru	2231
+跌势	die shi	3326
+跌停板	die ting ban	5598
+跌至	die zhi	5977
+顶风	ding feng	2579
+顶呱呱	ding gua gua	168
+鼎力相助	ding li xiang zhu	382
+鼎力支持	ding li zhi chi	4217
+鼎盛	ding sheng	562
+顶天立地	ding tian li di	589
+定心丸	ding xin wan	3814
+顶住	ding zhu	3952
+丢脸	diu lian	109
+丢失	diu shi	3410
+东窗事发	dong chuang shi fa	2305
+动荡	dong dang	2860
+动荡不安	dong dang bu an	327
+东方不败	dong fang bu bai	4573
+东方不亮西方亮	dong fang bu liang xi fang liang	5429
+冬季	dong ji	5963
+冻结	dong jie	5282
+冻结的	dong jie de	3758
+冻结资产	dong jie zi chan	3563
+冻结资金	dong jie zi jin	3876
+栋梁	dong liang	1845
+动人	dong ren	4744
+动如脱兔	dong ru tuo tu	2052
+东山再起	dong shan zai qi	3807
+东施效颦	dong shi xiao pin	3982
+动土	dong tu	5682
+动摇	dong yao	5779
+动员	dong yuan	2932
+兜售	dou shou	3858
+斗争	dou zheng	3006
+独霸	du ba	2491
+赌博	du bo	4610
+蠹虫	du chong	148
+笃定	du ding	2434
+毒害	du hai	1970
+毒化	du hua	1220
+独具	du ju	2679
+赌局	du ju	5969
+独具慧眼	du ju hui yan	1148
+独具匠心	du ju jiang xin	371
+独具特色	du ju te se	1993
+独揽	du lan	5668
+独立性	du li xing	2680
+独立自主	du li zi zhu	3197
+独领风骚	du ling feng sao	2872
+毒瘤	du liu	1862
+独门	du men	3247
+独木难支	du mu nan zhi	1462
+毒品	du pin	4073
+毒气	du qi	3508
+度日	du ri	4804
+堵塞	du se	1079
+独善其身	du shan qi shen	5592
+独树一帜	du shu yi zhi	2166
+独特	du te	4541
+毒丸	du wan	4429
+毒丸计划	du wan ji hua	4452
+毒药	du yao	1623
+独一无二	du yi wu er	1556
+督战	du zhan	4682
+独占鳌头	du zhan ao tou	1910
+渎职	du zhi	33
+赌注	du zhu	5397
+断案	duan an	2878
+断臂	duan bi	6076
+断层	duan ceng	2671
+断档	duan dang	4642
+断电	duan dian	1238
+断裂	duan lie	3028
+断流	duan liu	1479
+短命	duan ming	3789
+端倪	duan ni	4719
+端平	duan ping	1825
+断气	duan qi	1467
+短视	duan shi	390
+断头	duan tou	2855
+断章取义	duan zhang qu yi	924
+端正	duan zheng	978
+对簿公堂	dui bu gong tang	5154
+对得起	dui de qi	416
+对接	dui jie	6198
+对外开放	dui wai kai fang	3522
+兑现	dui xian	5315
+对症下药	dui zheng xia yao	3782
+躲避	duo bi	2317
+夺标	duo biao	5087
+夺得	duo de	4834
+咄咄逼人	duo duo bi ren	331
+夺冠	duo guan	6180
+多管齐下	duo guan qi xia	4916
+夺金	duo jin	670
+多快好省	duo kuai hao sheng	1144
+夺魁	duo kui	5021
+堕落	duo luo	2498
+夺目	duo mu	3774
+夺取	duo qu	2250
+堕入	duo ru	3096
+多事	duo shi	5939
+多事之秋	duo shi zhi qiu	4658
+多数遭	duo shu zao	4849
+多学	duo xue	1045
+多样化	duo yang hua	3621
+多疑	duo yi	330
+多元	duo yuan	5416
+多元化	duo yuan hua	6061
+多元化战略	duo yuan hua zhan lue	5008
+多遭	duo zao	1290
+多种经营	duo zhong jing ying	2271
+多赚	duo zhuan	6071
+多嘴	duo zui	308
+恶果	e guo	3804
+恶化	e hua	3903
+恶劣	e lie	3300
+噩梦	e meng	3756
+恶梦	e meng	3061
+恶名	e ming	2830
+扼杀	e sha	1900
+扼守	e shou	201
+恶性	e xing	3144
+恶性竞争	e xing jing zheng	4850
+恶性循环	e xing xun huan	1972
+恶意	e yi	5705
+恶意串通	e yi chuan tong	4667
+恶意收购	e yi shou gou	3210
+恶意中伤	e yi zhong shang	3140
+厄运	e yun	3232
+噩运	e yun	882
+讹诈	e zha	2176
+恶战	e zhan	1404
+遏制	e zhi	2507
+恩怨	en yuan	3619
+二次曝光	er ci bao guang	1385
+二次探底	er ci tan di	2065
+耳光	er guang	1096
+耳目一新	er mu yi xin	58
+二审	er shen	2634
+二审判决	er shen pan jue	2637
+而自豪	er zi hao	1446
+发愁	fa chou	4497
+发抖	fa dou	5616
+发挥	fa hui	4364
+发回重审	fa hui chong shen	2912
+发家史	fa jia shi	4
+罚金	fa jin	4352
+发窘	fa jiong	2948
+发掘	fa jue	4842
+罚款	fa kuan	5179
+乏力	fa li	5916
+法律诉讼	fa lv su song	4366
+发明	fa ming	4355
+发明专利	fa ming zhuan li	4251
+罚没	fa mo	2979
+发难	fa nan	4745
+乏味	fa wei	581
+发泄	fa xie	5163
+发行上市	fa xing shang shi	4198
+发扬	fa yang	4690
+发扬光大	fa yang guang da	2596
+发展	fa zhan	6170
+发展大道	fa zhan da dao	1952
+发展规划	fa zhan gui hua	5452
+发展和	fa zhan he	4904
+发展基金	fa zhan ji jin	4933
+发展机遇	fa zhan ji yu	6133
+发展期	fa zhan qi	5487
+发展前景	fa zhan qian jing	5480
+发展战略	fa zhan zhan lue	4383
+发展中	fa zhan zhong	3540
+法制化	fa zhi hua	1901
+反败为胜	fan bai wei sheng	97
+犯病	fan bing	244
+反哺	fan bu	5413
+反常	fan chang	1937
+反常的	fan chang de	65
+贩毒	fan du	197
+反对	fan dui	5667
+反对声	fan dui sheng	2674
+翻番	fan fan	6211
+反腐倡廉	fan fu chang lian	2098
+反复无常	fan fu wu chang	4458
+反攻	fan gong	5585
+繁华	fan hua	4857
+繁花	fan hua	1830
+反悔	fan hui	4524
+反击	fan ji	5820
+反客为主	fan ke wei zhu	756
+泛滥	fan lan	4081
+范例	fan li	5408
+翻脸	fan lian	4702
+翻两番	fan liang fan	2485
+反垄断	fan long duan	4565
+繁茂	fan mao	599
+反面	fan mian	2261
+反目	fan mu	4556
+反目成仇	fan mu cheng chou	3378
+犯难	fan nan	169
+烦恼	fan nao	5728
+反倾销	fan qing xiao	4967
+反倾销调查	fan qing xiao diao cha	4899
+繁荣	fan rong	3633
+翻身仗	fan shen zhang	4359
+反诉	fan su	4337
+反弹的	fan tan de	3393
+反弹乏力	fan tan fa li	1986
+凡响	fan xiang	2129
+烦心	fan xin	1736
+翻一番	fan yi fan	3481
+翻云覆雨	fan yun fu yu	3148
+繁重	fan zhong	1204
+犯罪	fan zui	3291
+防病毒	fang bing du	1253
+防不胜防	fang bu sheng fang	800
+芳草	fang cao	650
+放长线钓大鱼	fang chang xian diao da yu	4269
+放贷	fang dai	4670
+房地产泡沫	fang di chan pao mo	5818
+放高利贷	fang gao li dai	4672
+放缓	fang huan	5979
+放缓趋势	fang huan qu shi	1363
+放开	fang kai	6073
+放宽	fang kuan	3313
+放量	fang liang	5982
+放量大涨	fang liang da zhang	2312
+放量突破	fang liang tu po	4418
+放量下跌	fang liang xia die	2914
+放慢	fang man	4517
+仿冒	fang mao	1050
+放弃	fang qi	5493
+放晴	fang qing	972
+放射性污染	fang she xing wu ran	692
+放心	fang xin	4225
+放心房	fang xin fang	764
+方兴未艾	fang xing wei ai	2789
+放眼世界	fang yan shi jie	1169
+防治	fang zhi	3425
+诽谤	fei bang	193
+诽谤案	fei bang an	832
+飞蛾扑火	fei e pu huo	293
+非法	fei fa	5893
+非法集资	fei fa ji zi	3467
+非法侵占	fei fa qin zhan	1514
+非凡	fei fan	4750
+非价格竞争	fei jia ge jing zheng	3796
+费解	fei jie	4142
+飞来横祸	fei lai heng huo	352
+非理性	fei li xing	3267
+废料	fei liao	608
+飞毛腿	fei mao tui	47
+废水	fei shui	4403
+飞腾	fei teng	1865
+非同一般	fei tong yi ban	2542
+绯闻	fei wen	4981
+废物	fei wu	3083
+废物利用	fei wu li yong	498
+废墟	fei xu	361
+飞扬	fei yang	5499
+非议	fei yi	4521
+匪夷所思	fei yi suo si	1582
+飞越	fei yue	1130
+飞跃	fei yue	4753
+废渣	fei zha	3602
+飞涨	fei zhang	1759
+非正常	fei zheng chang	1583
+废止	fei zhi	2594
+分崩离析	fen beng li xi	1591
+分成	fen cheng	3405
+分道扬镳	fen dao yang biao	4715
+奋斗	fen dou	3412
+奋发	fen fa	2695
+奋发有为	fen fa you wei	1997
+芬芳	fen fang	3547
+分红	fen hong	6014
+分获	fen huo	5934
+分家	fen jia	2940
+奋进	fen jin	4295
+奋力	fen li	5255
+粉墨登场	fen mo deng chang	2456
+坟墓	fen mu	1422
+分歧	fen qi	6109
+奋起	fen qi	2962
+奋起直追	fen qi zhi zhui	2512
+愤然	fen ran	3038
+纷扰	fen rao	2993
+焚烧	fen shao	4733
+粉饰	fen shi	4686
+分手	fen shou	4127
+粉碎	fen sui	3356
+分庭抗礼	fen ting kang li	4447
+分享	fen xiang	5778
+分心	fen xin	729
+奋勇	fen yong	5526
+奋勇当先	fen yong dang xian	2137
+奋勇争先	fen yong zheng xian	936
+分赃	fen zang	4070
+纷争	fen zheng	5334
+纷至沓来	fen zhi ta lai	4099
+风采	feng cai	4252
+丰产	feng chan	4713
+风驰电掣	feng chi dian che	1331
+封顶	feng ding	5687
+峰顶	feng ding	634
+风范	feng fan	5492
+风风雨雨	feng feng yu yu	1054
+丰富	feng fu	4783
+丰富多彩	feng fu duo cai	2701
+风骨	feng gu	1407
+风光	feng guang	5862
+风寒	feng han	2483
+丰厚	feng hou	4774
+丰厚收益	feng hou shou yi	218
+风华正茂	feng hua zheng mao	4409
+峰回路转	feng hui lu zhuan	6005
+封口	feng kou	2858
+风口浪尖	feng kou lang jian	1667
+疯狂	feng kuang	5584
+风雷	feng lei	1174
+丰满	feng man	4167
+锋芒	feng mang	5070
+风靡	feng mi	2307
+疯牛病	feng niu bing	696
+风平浪静	feng ping lang jing	1024
+风樯阵马	feng qiang zhen ma	117
+丰润	feng run	3604
+封杀	feng sha	4299
+逢山开路	feng shan kai lu	1346
+风神	feng shen	1187
+丰盛	feng sheng	6187
+丰收	feng shou	4712
+丰收年	feng shou nian	1598
+风水宝地	feng shui bao di	4580
+丰硕	feng shuo	4978
+风调雨顺	feng tiao yu shun	175
+风头正劲	feng tou zheng jin	515
+风味	feng wei	1245
+奉献	feng xian	4264
+风险	feng xian	6154
+风险暴露	feng xian bao lu	566
+风险共担	feng xian gong dan	2354
+风险加大	feng xian jia da	2105
+风险降低	feng xian jiang di	4600
+风险警示	feng xian jing shi	5347
+风险巨大	feng xian ju da	164
+风险可控	feng xian ke kong	2384
+风险提示	feng xian ti shi	5524
+风险提示公告	feng xian ti shi gong gao	3525
+风险预警	feng xian yu jing	3055
+逢凶化吉	feng xiong hua ji	2787
+丰衣足食	feng yi zu shi	2024
+丰盈	feng ying	4230
+风雨飘摇	feng yu piao yao	674
+风雨同舟	feng yu tong zhou	4256
+风云	feng yun	5433
+否定	fou ding	2606
+否决	fou jue	5187
+否认	fou ren	6163
+父爱	fu ai	440
+腐败	fu bai	4484
+腹背受敌	fu bei shou di	582
+伏兵	fu bing	4443
+扶持	fu chi	4969
+复仇	fu chou	4620
+复出	fu chu	4643
+负担	fu dan	3896
+福地	fu di	2445
+釜底抽薪	fu di chou xin	3328
+复发	fu fa	3119
+福分	fu fen	680
+富贵	fu gui	2898
+负和博弈	fu he bo yi	5691
+孵化	fu hua	5249
+浮华	fu hua	2204
+孵化器	fu hua qi	3169
+附加值产品	fu jia zhi chan pin	4786
+富矿	fu kuang	1766
+福利	fu li	2490
+负面	fu mian	4273
+负面影响	fu mian ying xiang	3016
+覆灭	fu mie	3105
+扶贫	fu pin	2757
+扶贫帮困	fu pin bang kun	2375
+扶贫济困	fu pin ji kun	1565
+夫妻反目	fu qi fan mu	284
+富饶	fu rao	799
+芙蓉	fu rong	3386
+芙蓉出水	fu rong chu shui	2146
+福如东海	fu ru dong hai	2796
+辐射	fu she	4313
+腐蚀	fu shi	2372
+负收益	fu shou yi	2771
+服输	fu shu	937
+覆水难收	fu shui nan shou	4470
+复苏	fu su	4854
+抚慰	fu wei	2535
+扶危济困	fu wei ji kun	737
+负效应	fu xiao ying	1482
+负心	fu xin	1787
+复兴	fu xing	4839
+福星高照	fu xing gao zhao	2066
+敷衍了事	fu yan liao shi	231
+扶摇直上	fu yao zhi shang	3430
+扶摇直上九万里	fu yao zhi shang jiu wan li	223
+富有	fu you	1468
+富余	fu yu	1146
+富裕	fu yu	1942
+馥郁	fu yu	2847
+浮云	fu yun	2822
+浮躁	fu zao	1686
+负增长	fu zeng zhang	5688
+负债累累	fu zhai lei lei	3249
+覆辙	fu zhe	3795
+扶植	fu zhi	5358
+福祉	fu zhi	637
+负值	fu zhi	2876
+浮肿	fu zhong	4121
+负资产	fu zi chan	5281
+改革	gai ge	6153
+改观	gai guan	4107
+改进	gai jin	4101
+改口	gai kou	4253
+改良	gai liang	3865
+改判	gai pan	2978
+改善	gai shan	5719
+改造	gai zao	6134
+改制	gai zhi	4832
+赶超	gan chao	6000
+肝胆	gan dan	569
+肝胆相照	gan dan xiang zhao	2032
+甘当	gan dang	2991
+干瞪眼	gan deng yan	261
+感动	gan dong	5152
+感恩	gan en	5621
+尴尬	gan ga	6228
+干涸的	gan he de	1349
+感激	gan ji	1055
+干将	gan jiang	418
+干净	gan jing	5761
+干净利落	gan jing li luo	3367
+甘苦与共	gan ku yu gong	1186
+干练	gan lian	850
+甘露	gan lu	1869
+感冒	gan mao	5619
+感染	gan ran	3121
+干扰	gan rao	3926
+感人	gan ren	142
+敢为人先	gan wei ren xian	4926
+感谢	gan xie	5686
+敢于	gan yu	5935
+干着急	gan zhao ji	858
+高层次	gao ceng ci	101
+高潮	gao chao	6122
+高超	gao chao	909
+高潮迭起	gao chao die qi	4194
+高成长	gao cheng zhang	6110
+高出	gao chu	6114
+高处不胜寒	gao chu bu sheng han	4367
+告吹	gao chui	5508
+高档	gao dang	5441
+高德	gao de	1633
+高调	gao diao	5907
+高度关注	gao du guan zhu	4624
+高度重视	gao du zhong shi	2533
+高分	gao fen	2033
+高峰	gao feng	5974
+高峰期	gao feng qi	4546
+高风险	gao feng xian	2941
+告负	gao fu	2539
+高附加值	gao fu jia zhi	3662
+高高在上	gao gao zai shang	1101
+高歌猛进	gao ge meng jin	4929
+高寒	gao han	114
+高耗能	gao hao neng	3615
+高回报	gao hui bao	5757
+高回报率	gao hui bao lv	56
+搞活	gao huo	1121
+告急	gao ji	4519
+高技术	gao ji shu	4330
+高技术产业	gao ji shu chan ye	4327
+告捷	gao jie	6215
+高精尖	gao jing jian	3554
+高举	gao ju	4937
+高开低走	gao kai di zou	1893
+高科技公司	gao ke ji gong si	4460
+搞垮	gao kua	873
+高利	gao li	902
+高利贷	gao li dai	4431
+高明	gao ming	3559
+高能	gao neng	4344
+高能耗	gao neng hao	4332
+高攀	gao pan	1808
+高朋满座	gao peng man zuo	1356
+告罄	gao qing	711
+高山流水	gao shan liu shui	1652
+高山仰止	gao shan yang zhi	1531
+高尚	gao shang	2258
+高烧	gao shao	5821
+高升	gao sheng	5269
+高手	gao shou	5270
+高收益	gao shou yi	3214
+高送转	gao song zhuan	5406
+高速	gao su	5449
+高速发展	gao su fa zhan	4345
+高速增长	gao su zeng zhang	5654
+高速增长期	gao su zeng zhang qi	5491
+高素质	gao su zhi	2696
+高徒	gao tu	1213
+高危	gao wei	6035
+高屋建瓴	gao wu jian ling	1569
+高息	gao xi	4671
+高效的	gao xiao de	4358
+高效率的	gao xiao lv de	254
+高新产品	gao xin chan pin	4888
+高新技术	gao xin ji shu	5248
+高新科技	gao xin ke ji	2676
+高兴	gao xing	2511
+高性能	gao xing neng	5725
+高溢价	gao yi jia	3577
+高于	gao yu	6069
+高增长	gao zeng zhang	5908
+高增值	gao zeng zhi	2595
+高瞻远瞩	gao zhan yuan zhu	590
+高涨	gao zhang	3469
+高招	gao zhao	1836
+高质	gao zhi	4258
+告状	gao zhuang	4456
+各持己见	ge chi ji jian	4598
+疙瘩	ge da	3302
+各得其所	ge de qi suo	3853
+各个击破	ge ge ji po	80
+革故鼎新	ge gu ding xin	3126
+隔阂	ge he	214
+各具特色	ge ju te se	1931
+隔离	ge li	2455
+革面洗心	ge mian xi xin	3944
+革命	ge ming	5646
+隔墙有耳	ge qiang you er	1312
+割肉	ge rou	5351
+各显其能	ge xian qi neng	1923
+各显神通	ge xian shen tong	1477
+个性	ge xing	4317
+个性化	ge xing hua	5031
+隔靴搔痒	ge xue sao yang	2200
+各有千秋	ge you qian qiu	1379
+搁置	ge zhi	6115
+各执一词	ge zhi yi ci	5164
+各自为政	ge zi wei zheng	2178
+给面子	gei mian zi	6063
+根深叶茂	gen shen ye mao	301
+跟随者	gen sui zhe	3778
+更发达	geng fa da	110
+更进一步	geng jin yi bu	3613
+更具投资价值	geng ju tou zi jia zhi	2693
+更快	geng kuai	4343
+更美好	geng mei hao	4372
+更上层楼	geng shang ceng lou	4329
+更上一层楼	geng shang yi ceng lou	3482
+更胜一筹	geng sheng yi chou	1473
+更有竞争力	geng you jing zheng li	2397
+耕耘	geng yun	5046
+更重要	geng zhong yao	4966
+功败垂成	gong bai chui cheng	963
+功不可没	gong bu ke mo	2486
+供不应求	gong bu ying qiu	3092
+工厂化	gong chang hua	6102
+功臣	gong chen	4178
+攻城掠地	gong cheng lue di	5515
+攻城略地	gong cheng lue di	953
+功成名就	gong cheng ming jiu	3626
+功成身退	gong cheng shen tui	5364
+功德圆满	gong de yuan man	3792
+巩固	gong gu	5326
+供过于求	gong guo yu qiu	4005
+功绩	gong ji	1026
+公开谴责	gong kai qian ze	5125
+公开审理	gong kai shen li	3009
+攻克	gong ke	4285
+功亏一篑	gong kui yi kui	4474
+功名	gong ming	2272
+公平	gong ping	4208
+公平竞争	gong ping jing zheng	3449
+攻取	gong qu	5583
+共商	gong shang	4340
+共识	gong shi	4169
+攻势	gong shi	5561
+攻守	gong shou	4778
+拱手让人	gong shou rang ren	2471
+公司解散	gong si jie san	3124
+公司清算	gong si qing suan	3980
+公司盈利	gong si ying li	4478
+公司治理	gong si zhi li	5673
+公诉	gong su	4489
+公诉人	gong su ren	1666
+公堂	gong tang	3353
+共同	gong tong	5913
+共同富裕	gong tong fu yu	3652
+共同侵权	gong tong qin quan	1561
+恭喜	gong xi	5570
+贡献	gong xian	5155
+共享	gong xiang	4326
+供需矛盾	gong xu mao dun	3112
+功勋	gong xun	2651
+工业化	gong ye hua	5649
+公正无私	gong zheng wu si	1611
+诟病	gou bing	4681
+构成侵权	gou cheng qin quan	1911
+勾兑	gou dui	2852
+构建	gou jian	5970
+勾结	gou jie	433
+构想	gou xiang	2446
+固本强身	gu ben qiang shen	1727
+固步自封	gu bu zi feng	1394
+孤残	gu can	620
+鼓吹	gu chui	1578
+顾此失彼	gu ci shi bi	2640
+谷底	gu di	4266
+股东诉讼	gu dong su song	3002
+孤独	gu du	5776
+股份上市	gu fen shang shi	2391
+辜负	gu fu	536
+骨干企业	gu gan qi ye	4116
+痼疾	gu ji	2648
+故伎重演	gu ji chong yan	4674
+股价暴跌	gu jia bao die	4349
+股价暴涨	gu jia bao zhang	4704
+股价波动	gu jia bo dong	3260
+股价上扬	gu jia shang yang	2540
+股价上涨	gu jia shang zhang	4289
+股价下挫	gu jia xia cuo	1519
+股价下跌	gu jia xia die	3757
+鼓劲	gu jin	2255
+孤军	gu jun	5541
+鼓励	gu li	6081
+鼓励兼并	gu li jian bing	3200
+股票大涨	gu piao da zhang	474
+股票异动	gu piao yi dong	2868
+顾前不顾后	gu qian bu gu hou	3744
+顾全大局	gu quan da ju	1208
+股权激励	gu quan ji li	6027
+股上市	gu shang shi	5145
+固守	gu shou	3849
+鼓舞	gu wu	3685
+鼓舞人心	gu wu ren xin	3199
+姑息	gu xi	1350
+股息红利	gu xi hong li	3097
+故障	gu zhang	5109
+孤掌难鸣	gu zhang nan ming	368
+估值溢价	gu zhi yi jia	3091
+孤注一掷	gu zhu yi zhi	4820
+瓜分	gua fen	4555
+瓜葛	gua ge	2844
+刮目相看	gua mu xiang kan	4312
+挂牌出让	gua pai chu rang	2827
+挂牌交易	gua pai jiao yi	3368
+瓜熟蒂落	gua shu di luo	3571
+怪圈	guai quan	5231
+怪事	guai shi	3158
+怪象	guai xiang	3250
+怪罪	guai zui	1675
+关爱	guan ai	5090
+惯犯	guan fan	409
+关怀	guan huai	2839
+冠军	guan jun	5975
+管窥	guan kui	2580
+管理优势	guan li you shi	1980
+关联方交易	guan lian fang jiao yi	3705
+官僚	guan liao	1193
+官司	guan si	5169
+关停	guan ting	6094
+贯通	guan tong	3394
+观望	guan wang	5780
+关系户	guan xi hu	3109
+管辖权异议	guan xia quan yi yi	2460
+冠亚军	guan ya jun	4360
+关注	guan zhu	6167
+广泛	guang fan	4192
+光环	guang huan	5501
+光芒四射	guang mang si she	4173
+光气	guang qi	1515
+光荣	guang rong	2750
+光闪闪	guang shan shan	541
+光泽	guang ze	2184
+归案	gui an	1720
+规范	gui fan	5628
+规范化	gui fan hua	3536
+桂冠	gui guan	5022
+归咎	gui jiu	2139
+瑰丽	gui li	906
+鬼门关	gui men guan	2992
+规模化	gui mo hua	4833
+规模将达	gui mo jiang da	5781
+规模经济	gui mo jing ji	3606
+规模扩张	gui mo kuo zhang	5674
+规模效益	gui mo xiao yi	3684
+规模效应	gui mo xiao ying	5826
+归属感	gui shu gan	6049
+归顺	gui shun	1313
+诡异	gui yi	6003
+归责	gui ze	3360
+规整	gui zheng	353
+归罪	gui zui	2293
+滚雪球	gun xue qiu	3692
+国宝级	guo bao ji	3462
+国粹	guo cui	2174
+过得硬	guo de ying	956
+过冬	guo dong	5971
+过度	guo du	4587
+过度炒作	guo du chao zuo	4016
+果断	guo duan	4607
+过多	guo duo	3285
+过分	guo fen	2983
+果敢	guo gan	1344
+过关	guo guan	6018
+过河拆桥	guo he chai qiao	553
+国魂	guo hun	624
+过激	guo ji	2118
+国家利益	guo jia li yi	2729
+过剩	guo sheng	3697
+过五关	guo wu guan	1672
+过眼云烟	guo yan yun yan	410
+过硬	guo ying	2946
+国有资产流失	guo you zi chan liu shi	5167
+裹足不前	guo zu bu qian	2229
+还好	hai hao	4900
+海魂	hai hun	17
+海阔凭鱼跃	hai kuo ping yu yue	402
+还没有	hai mei you	2745
+海纳	hai na	4656
+海纳百川	hai na bai chuan	1781
+害人	hai ren	917
+海市蜃楼	hai shi shen lou	4692
+海棠	hai tang	574
+海外扩张	hai wai kuo zhang	4932
+海外上市	hai wai shang shi	4968
+寒潮	han chao	3189
+寒冬	han dong	5964
+寒风	han feng	5304
+寒风料峭	han feng liao qiao	275
+憨厚	han hou	2297
+含糊其辞	han hu qi ci	4548
+含混不清	han hun bu qing	3495
+旱涝保收	han lao bao shou	5394
+寒流	han liu	5618
+寒气	han qi	3950
+捍卫	han wei	5330
+涵养	han yang	1226
+寒意	han yi	4685
+喊冤	han yuan	2980
+旱灾	han zai	1936
+行家里手	hang jia li shou	1033
+行情看好	hang qing kan hao	78
+行情疲软	hang qing pi ruan	106
+夯实	hang shi	4987
+行业成长	hang ye cheng zhang	3677
+好榜样	hao bang yang	5572
+毫不	hao bu	1861
+毫不动摇	hao bu dong yao	137
+好处	hao chu	3567
+好汉	hao han	3959
+好好	hao hao	1173
+豪华	hao hua	4052
+好机会	hao ji hui	4006
+耗尽	hao jin	860
+好了	hao le	4308
+豪迈	hao mai	2401
+好梦难圆	hao meng nan yuan	3226
+好男儿	hao nan er	50
+好评	hao ping	4190
+豪气	hao qi	4187
+豪情	hao qing	5845
+好人好事	hao ren hao shi	2765
+好事	hao shi	3690
+好时代	hao shi dai	1949
+好事多磨	hao shi duo mo	4768
+豪爽	hao shuang	2935
+好玩	hao wan	3998
+毫无保留	hao wu bao liu	3635
+好戏连台	hao xi lian tai	1317
+好消息	hao xiao xi	279
+好心	hao xin	419
+好心人	hao xin ren	190
+好于预期	hao yu yu qi	5739
+号召力	hao zhao li	1818
+好转	hao zhuan	4716
+合璧	he bi	2071
+何不	he bu	2389
+喝彩	he cai	3539
+喝倒彩	he dao cai	1626
+和而不同	he er bu tong	277
+合法	he fa	6172
+和风细雨	he feng xi yu	2049
+合格	he ge	5959
+合格的	he ge de	3265
+赫赫	he he	512
+何患无辞	he huan wu ci	183
+核减	he jian	5348
+合理	he li	5866
+合理安排	he li an pai	4055
+合理化建议	he li hua jian yi	3543
+鹤立鸡群	he li ji qun	1136
+合理使用	he li shi yong	177
+鹤鸣九皋	he ming jiu gao	233
+和气	he qi	3656
+合身	he shen	3895
+合适	he shi	1890
+和顺	he shun	1874
+合同诈骗	he tong zha pian	3252
+合同诈骗罪	he tong zha pian zui	2479
+和谐	he xie	5543
+和谐社会	he xie she hui	2791
+核心成长	he xin cheng zhang	476
+核心能力	he xin neng li	4211
+合用	he yong	3523
+和衷共济	he zhong gong ji	130
+合作	he zuo	6091
+合作伙伴关系	he zuo huo ban guan xi	4729
+合作开发	he zuo kai fa	6165
+合作协议	he zuo xie yi	6042
+黑暗	hei an	3005
+黑锅	hei guo	314
+黑金	hei jin	3447
+黑马	hei ma	4877
+黑名单	hei ming dan	6216
+黑幕	hei mu	3493
+黑手	hei shou	5257
+黑线	hei xian	1855
+黑箱	hei xiang	770
+很高	hen gao	5656
+很好	hen hao	5317
+很快	hen kuai	4950
+很累	hen lei	2721
+横财	heng cai	5261
+恒久	heng jiu	3397
+横空出世	heng kong chu shi	4852
+横生枝节	heng sheng zhi jie	2603
+洪峰	hong feng	1702
+红红火火	hong hong huo huo	2707
+鸿鹄	hong hu	38
+红火	hong huo	5894
+洪流	hong liu	1090
+洪魔	hong mo	741
+红娘	hong niang	2953
+红牌	hong pai	3296
+轰然	hong ran	2591
+哄抬	hong tai	1680
+鸿图	hong tu	853
+红心	hong xin	5782
+红杏出墙	hong xing chu qiang	2767
+红眼	hong yan	4054
+红艳艳	hong yan yan	994
+弘扬	hong yang	3452
+宏远	hong yuan	5565
+洪灾	hong zai	4779
+红装	hong zhuang	24
+厚爱	hou ai	593
+厚待	hou dai	592
+厚德载物	hou de zai wu	2011
+后发制人	hou fa zhi ren	4894
+后果	hou guo	3981
+后患	hou huan	794
+后悔	hou hui	3391
+厚积薄发	hou ji bo fa	4370
+后继有人	hou ji you ren	3454
+后劲	hou jin	5823
+后来居上	hou lai ju shang	4291
+厚礼	hou li	5194
+后起之秀	hou qi zhi xiu	2493
+后市有望	hou shi you wang	4552
+后遗症	hou yi zheng	5941
+互不相让	hu bu xiang rang	1358
+护航	hu hang	5685
+虎虎生威	hu hu sheng wei	1093
+互惠	hu hui	3983
+虎将	hu jiang	1343
+互利	hu li	4735
+互连	hu lian	3798
+胡乱	hu luan	356
+囫囵吞枣	hu lun tun zao	2740
+虎落平阳	hu luo ping yang	1550
+护盘	hu pan	5737
+护身符	hu shen fu	1524
+户枢不蠹	hu shu bu du	2044
+互通	hu tong	4303
+虎头蛇尾	hu tou she wei	1898
+糊涂	hu tu	2554
+糊涂账	hu tu zhang	2395
+虎啸	hu xiao	83
+忽悠	hu you	4597
+呼之欲出	hu zhi yu chu	5872
+哗变	hua bian	3317
+画饼充饥	hua bing chong ji	3562
+华彩	hua cai	3387
+划得来	hua de lai	242
+华而不实	hua er bu shi	1920
+化干戈为玉帛	hua gan ge wei yu bo	3269
+化害为利	hua hai wei li	2218
+花好月圆	hua hao yue yuan	545
+滑稽	hua ji	5726
+花季	hua ji	1322
+化解	hua jie	5957
+化解风险	hua jie feng xian	1150
+画龙点睛	hua long dian jing	178
+滑落	hua luo	4138
+花瓶	hua ping	5306
+滑坡	hua po	4346
+花拳	hua quan	1089
+哗然	hua ran	445
+画蛇添足	hua she tian zu	2428
+划算	hua suan	3936
+滑铁卢	hua tie lu	4700
+华夏红利	hua xia hong li	4014
+化险为夷	hua xian wei yi	5895
+花心	hua xin	561
+花样翻新	hua yang fan xin	1334
+花招	hua zhao	3261
+怀抱	huai bao	3631
+坏的	huai de	3768
+怀柔	huai rou	1233
+坏事	huai shi	411
+怀疑	huai yi	2351
+坏帐	huai zhang	4507
+坏账	huai zhang	4638
+坏账准备	huai zhang zhun bei	2954
+欢度	huan du	1086
+缓和	huan he	3111
+缓解	huan jie	4798
+环境保护	huan jing bao hu	4419
+环境恶化	huan jing e hua	3110
+环境质量	huan jing zhi liang	2380
+幻觉	huan jue	2236
+还款压力	huan kuan ya li	5299
+欢乐	huan le	5063
+幻灭	huan mie	1804
+焕然一新	huan ran yi xin	784
+欢喜	huan xi	4050
+幻想	huan xiang	2345
+幻象	huan xiang	2298
+欢笑	huan xiao	588
+欢笑声	huan xiao sheng	903
+欢心	huan xin	4633
+唤醒	huan xing	4837
+幻影	huan ying	2403
+欢迎	huan ying	5802
+还账	huan zhang	3311
+荒草	huang cao	5198
+荒诞	huang dan	797
+荒废	huang fei	1840
+皇冠	huang guan	3965
+皇冠上的明珠	huang guan shang de ming zhu	2110
+惶惑	huang huo	2349
+黄金分割	huang jin fen ge	4927
+荒凉	huang liang	2283
+黄粱一梦	huang liang yi meng	691
+慌乱	huang luan	786
+慌忙	huang mang	1427
+荒谬的	huang miu de	3041
+黄袍加身	huang pao jia shen	1256
+黄曲霉	huang qu mei	194
+荒唐	huang tang	1966
+荒芜	huang wu	1380
+谎言	huang yan	5227
+晃悠	huang you	2723
+幌子	huang zi	4469
+回报	hui bao	5763
+回避	hui bi	6024
+回避制度	hui bi zhi du	3891
+荟萃	hui cui	1943
+会当凌绝顶	hui dang ling jue ding	899
+汇兑损失	hui dui sun shi	4423
+灰飞烟灭	hui fei yan mie	946
+恢复	hui fu	5291
+恢复性	hui fu xing	2420
+悔改	hui gai	3617
+挥戈	hui ge	4304
+回光返照	hui guang fan zhao	986
+恢宏	hui hong	357
+恢弘	hui hong	81
+辉煌	hui huang	4925
+回扣	hui kou	695
+贿赂	hui lu	4244
+回落	hui luo	5867
+毁灭	hui mie	2470
+回暖	hui nuan	6177
+回暖迹象	hui nuan ji xiang	4129
+悔棋	hui qi	3569
+会师	hui shi	5599
+回天乏术	hui tian fa shu	2388
+回天无力	hui tian wu li	365
+回调	hui tiao	5614
+贿选案	hui xuan an	2885
+毁约	hui yue	4764
+惠泽	hui ze	3517
+婚变	hun bian	2592
+混乱	hun luan	5340
+浑然不知	hun ran bu zhi	2620
+伙伴	huo ban	5914
+火暴	huo bao	3057
+火爆	huo bao	5768
+活蹦乱跳	huo beng luan tiao	21
+火并	huo bing	1382
+祸不单行	huo bu dan xing	3298
+祸从天降	huo cong tian jiang	2143
+获得贷款	huo de dai kuan	3155
+祸根	huo gen	2627
+获厚利	huo hou li	3116
+火花	huo hua	4301
+祸及	huo ji	2359
+获奖	huo jiang	3545
+火坑	huo keng	1774
+获利	huo li	4814
+获利回吐	huo li hui tu	1875
+豁免	huo mian	4796
+火魔	huo mo	1342
+豁然开朗	huo ran kai lang	360
+火热	huo re	5735
+火上浇油	huo shang jiao you	3154
+获胜	huo sheng	5153
+祸首	huo shou	2636
+活水	huo shui	3505
+或消除	huo xiao chu	429
+火眼金睛	huo yan jin jing	845
+获益	huo yi	5271
+获益匪浅	huo yi fei qian	777
+或有负债	huo you fu zhai	4694
+活跃	huo yue	5331
+货真价实	huo zhen jia shi	2149
+火中取栗	huo zhong qu li	3062
+获准开业	huo zhun kai ye	3904
+激昂	ji ang	1891
+击败	ji bai	6051
+基本完成	ji ben wan cheng	4724
+积弊	ji bi	1015
+急病	ji bing	3996
+疾病	ji bing	3132
+既不是	ji bu shi	1470
+饥不择食	ji bu ze shi	4688
+极差	ji cha	1263
+稽查	ji cha	5238
+绩差股	ji cha gu	2335
+继承	ji cheng	3440
+既成事实	ji cheng shi shi	3182
+急挫	ji cuo	2076
+集大成	ji da cheng	4223
+亟待解决	ji dai jie jue	2631
+积德	ji de	746
+急跌	ji die	4011
+激动人心	ji dong ren xin	547
+挤兑	ji dui	3065
+激发	ji fa	5026
+鸡飞蛋打	ji fei dan da	1737
+急功近利	ji gong jin li	4161
+机构买入	ji gou mai ru	5149
+激化	ji hua	1199
+疾患	ji huan	1417
+机会	ji hui	5900
+激活	ji huo	4893
+积极	ji ji	6086
+积极的	ji ji de	496
+积极关注	ji ji guan zhu	4618
+积极开展	ji ji kai zhan	2421
+岌岌可危	ji ji ke wei	4592
+积极作用	ji ji zuo yong	3544
+急进	ji jin	1510
+激进	ji jin	5750
+急剧	ji ju	5752
+急剧上升	ji ju shang sheng	4539
+饥渴	ji ke	5233
+疾苦	ji ku	1418
+季亏损	ji kui sun	1928
+鸡肋	ji lei	5755
+吉利	ji li	4742
+激励	ji li	5917
+伎俩	ji liang	3832
+激烈	ji lie	5897
+鸡毛蒜皮	ji mao suan pi	1062
+寂寞	ji mo	3820
+纪念奖	ji nian jiang	1069
+冀盼	ji pan	1316
+击破	ji po	6135
+激情	ji qing	5495
+汲取	ji qu	1713
+寄人篱下	ji ren li xia	782
+积弱	ji ruo	4657
+跻身	ji shen	5933
+寄生虫	ji sheng chong	1049
+基石	ji shi	5612
+棘手	ji shou	3933
+技术	ji shu	5359
+技术成果	ji shu cheng guo	3918
+技术创新	ji shu chuang xin	4878
+技术改造	ji shu gai zao	3538
+技术革新	ji shu ge xin	1730
+技术进步	ji shu jin bu	4188
+技术侵权	ji shu qin quan	1644
+技术引进	ji shu yin jin	2755
+积水成渊	ji shui cheng yuan	2002
+集体涨停	ji ti zhang ting	2417
+积土成山	ji tu cheng shan	2003
+击退	ji tui	5945
+继往开来	ji wang kai lai	2525
+极限	ji xian	4957
+绩效	ji xiao	4775
+绩效管理	ji xiao guan li	3573
+机械化	ji xie hua	3688
+极刑	ji xing	1674
+畸形	ji xing	3716
+吉星高照	ji xing gao zhao	369
+吉凶未卜	ji xiong wei bu	351
+亟需	ji xu	3227
+继续保持	ji xu bao chi	3963
+继续持有	ji xu chi you	5479
+继续恶化	ji xu e hua	5714
+继续提升	ji xu ti sheng	344
+继续下跌	ji xu xia die	4508
+继续向上	ji xu xiang shang	1761
+继续演绎	ji xu yan yi	1239
+挤压	ji ya	4143
+激扬	ji yang	4007
+集腋成裘	ji ye cheng qiu	1399
+机遇	ji yu	5593
+急于求成	ji yu qiu cheng	1974
+积怨	ji yuan	464
+集约型	ji yue xing	28
+急躁	ji zao	1662
+激增	ji zeng	5059
+激战	ji zhan	4934
+机智	ji zhi	1268
+极致	ji zhi	5919
+积重难返	ji zhong nan fan	4596
+激浊扬清	ji zhuo yang qing	2340
+加班加点	jia ban jia dian	3194
+加仓	jia cang	6093
+家丑	jia chou	3166
+夹缝	jia feng	4749
+价格暴跌	jia ge bao die	5284
+价格波动	jia ge bo dong	2986
+价格稳定	jia ge wen ding	2833
+价格涨幅	jia ge zhang fu	1609
+加固	jia gu	2797
+佳话	jia hua	1712
+假话	jia hua	662
+假货	jia huo	4082
+佳绩	jia ji	5020
+夹击	jia ji	3471
+佳境	jia jing	2705
+加剧	jia ju	6107
+架空	jia kong	5307
+加快	jia kuai	6197
+价廉物美	jia lian wu mei	2182
+假冒	jia mao	3463
+假冒伪劣	jia mao wei lie	4463
+加冕	jia mian	5052
+佳酿	jia niang	2170
+佳品	jia pin	537
+加强	jia qiang	6200
+加强合作	jia qiang he zuo	3987
+驾轻就熟	jia qing jiu shu	2067
+戛然而止	jia ran er zhi	3031
+夹生饭	jia sheng fan	3389
+嘉实稳健	jia shi wen jian	1600
+加速上攻	jia su shang gong	2736
+加速上升	jia su shang sheng	4856
+加速上扬	jia su shang yang	3483
+加速增长	jia su zeng zhang	2536
+枷锁	jia suo	2944
+假象	jia xiang	3339
+假性	jia xing	1645
+佳肴	jia yao	1684
+假药	jia yao	887
+驾驭	jia yu	5854
+假帐	jia zhang	769
+价值创新	jia zhi chuang xin	4935
+价值连城	jia zhi lian cheng	913
+价值提升	jia zhi ti sheng	3600
+价值投资	jia zhi tou zi	3921
+价值投资理念	jia zhi tou zi li nian	71
+价值增值	jia zhi zeng zhi	2564
+佳作	jia zuo	272
+煎熬	jian ao	3928
+剑拔弩张	jian ba nu zhang	1275
+减半	jian ban	5310
+兼备	jian bei	4777
+尖兵	jian bing	3403
+健步	jian bu	3885
+剪不断	jian bu duan	2125
+剪不断理还乱	jian bu duan li hai luan	2857
+坚不可摧	jian bu ke cui	1341
+剪彩	jian cai	2776
+减仓	jian cang	6191
+检察院	jian cha yuan	4512
+减产	jian chan	3134
+坚持	jian chi	5992
+坚持不懈	jian chi bu xie	1820
+坚持到底	jian chi dao di	2353
+坚辞	jian ci	3874
+见底回升	jian di hui sheng	338
+间谍	jian die	3727
+坚定	jian ding	5999
+坚定不移	jian ding bu yi	2751
+坚定信心	jian ding xin xin	2922
+兼而有之	jian er you zhi	847
+见风使舵	jian feng shi duo	1231
+减负	jian fu	4495
+建功	jian gong	3401
+建功立业	jian gong li ye	2332
+健骨	jian gu	3415
+见好	jian hao	372
+见好就收	jian hao jiu shou	2714
+减缓	jian huan	4233
+见机行事	jian ji xing shi	949
+健将	jian jiang	455
+渐进	jian jin	4683
+艰巨	jian ju	375
+坚决	jian jue	5744
+坚决的	jian jue de	491
+健康	jian kang	6188
+健康发展	jian kang fa zhan	4782
+健康效应	jian kang xiao ying	1168
+艰苦	jian ku	249
+艰苦奋斗	jian ku fen dou	1209
+减亏	jian kui	3867
+减利	jian li	4765
+建立现代企业制度	jian li xian dai qi ye zhi du	1053
+贱卖	jian mai	5196
+减免	jian mian	4817
+缄默	jian mo	4498
+艰难	jian nan	6205
+捡便宜	jian pian yi	3334
+坚强	jian qiang	2527
+减轻	jian qing	4811
+减轻债务负担	jian qing zhai wu fu dan	235
+健全	jian quan	5896
+坚忍	jian ren	1039
+渐入佳境	jian ru jia jing	5013
+坚如磐石	jian ru pan shi	4310
+减少	jian shao	5924
+减少损失	jian shao sun shi	5207
+坚实	jian shi	3611
+坚守	jian shou	5745
+兼收并蓄	jian shou bing xu	1543
+减税	jian shui	4000
+减速	jian su	5940
+坚挺	jian ting	5603
+兼听则明	jian ting ze ming	772
+减退	jian tui	1746
+艰险	jian xian	2835
+见效	jian xiao	5089
+检修	jian xiu	5108
+减压	jian ya	2378
+监狱	jian yu	4262
+减员	jian yuan	5432
+简约	jian yue	851
+践约	jian yue	2481
+见长	jian zhang	510
+建章立制	jian zhang li zhi	150
+将超过	jiang chao guo	5846
+僵持	jiang chi	3297
+降幅	jiang fu	5740
+降格	jiang ge	2853
+降耗	jiang hao	4294
+降价	jiang jia	5962
+降价风	jiang jia feng	5609
+僵局	jiang ju	4792
+奖励	jiang li	5641
+将上市	jiang shang shi	5002
+僵尸	jiang shi	3256
+奖项	jiang xiang	4325
+匠心独运	jiang xin du yun	238
+降职	jiang zhi	1087
+奖状	jiang zhuang	3683
+交大昂立	jiao da ang li	4025
+焦点	jiao dian	5549
+较高水平	jiao gao shui ping	1678
+叫好声	jiao hao sheng	1373
+教化	jiao hua	1849
+矫健	jiao jian	1906
+佼佼者	jiao jiao zhe	3882
+叫苦	jiao ku	2173
+搅乱	jiao luan	2469
+焦虑	jiao lv	3968
+叫卖	jiao mai	5245
+骄人	jiao ren	4413
+脚踏实地	jiao ta shi di	4384
+交通事故	jiao tong shi gu	962
+脚痛医脚	jiao tong yi jiao	706
+焦头烂额	jiao tou lan e	1839
+狡兔三窟	jiao tu san ku	226
+矫枉过正	jiao wang guo zheng	1941
+教训	jiao xun	6229
+娇艳	jiao yan	1654
+较真	jiao zhen	3358
+捷报频传	jie bao pin chuan	4209
+揭不开锅	jie bu kai guo	1760
+结肠癌	jie chang ai	1441
+杰出	jie chu	3117
+揭穿	jie chuan	3565
+皆大欢喜	jie da huan xi	1324
+接地	jie di	1227
+揭底	jie di	2930
+芥蒂	jie di	710
+借东风	jie dong feng	2691
+揭短	jie duan	1452
+阶段性成果	jie duan xing cheng guo	1757
+解放	jie fang	4570
+解放思想	jie fang si xiang	3923
+劫匪	jie fei	1738
+结构调整	jie gou tiao zheng	4380
+接轨	jie gui	5404
+结核病	jie he bing	1325
+解惑	jie huo	4199
+劫机	jie ji	688
+节节攀高	jie jie pan gao	336
+竭尽全力	jie jin quan li	4288
+借口	jie kou	3791
+解困	jie kun	5253
+揭老底	jie lao di	4093
+竭力	jie li	3363
+截留	jie liu	5393
+劫掠	jie lue	1747
+结盟	jie meng	5827
+解密	jie mi	5459
+接纳	jie na	4195
+劫难	jie nan	1060
+解囊	jie nang	3251
+节能	jie neng	5659
+节能环保	jie neng huan bao	5065
+节能减排	jie neng jian pai	4397
+揭批	jie pi	671
+洁癖	jie pi	2440
+解聘	jie pin	2642
+结亲	jie qin	4324
+节省	jie sheng	4293
+劫数	jie shu	2001
+节外生枝	jie wai sheng zhi	819
+解围	jie wei	5678
+诘问	jie wen	4177
+阶下囚	jie xia qiu	2896
+解忧	jie you	2015
+结怨	jie yuan	4091
+结缘	jie yuan	4092
+节约	jie yue	3497
+节约成本	jie yue cheng ben	2537
+节制	jie zhi	247
+解职	jie zhi	3263
+接踵而至	jie zhong er zhi	3245
+捷足先登	jie zu xian deng	5680
+金榜题名	jin bang ti ming	2161
+金不换	jin bu huan	508
+进步奖	jin bu jiang	1695
+今不如昔	jin bu ru xi	3331
+金蝉脱壳	jin chan tuo qiao	4821
+紧凑	jin cou	3866
+今非昔比	jin fei xi bi	4250
+紧箍咒	jin gu zhou	5012
+进化	jin hua	6029
+紧急叫停	jin ji jiao ting	1522
+紧急刹车	jin ji sha che	2462
+金奖	jin jiang	5088
+斤斤计较	jin jin ji jiao	2568
+禁令	jin ling	5122
+紧锣密鼓	jin luo mi gu	4625
+紧迫性	jin po xing	1274
+锦旗	jin qi	1352
+紧俏	jin qiao	1260
+进取	jin qu	5830
+紧缺	jin que	3464
+今日上市	jin ri shang shi	4621
+金融帝国	jin rong di guo	4534
+金融风暴	jin rong feng bao	3951
+金融危机	jin rong wei ji	5080
+进入资本市场	jin ru zi ben shi chang	3168
+尽善尽美	jin shan jin mei	1560
+锦上添花	jin shang tian hua	4544
+晋升	jin sheng	4292
+金石为开	jin shi wei kai	1744
+近水楼台	jin shui lou tai	1305
+紧缩	jin suo	5874
+进退两难	jin tui liang nan	2713
+进退维谷	jin tui wei gu	5033
+尽心	jin xin	1085
+尽心竭力	jin xin jie li	1094
+尽心尽力	jin xin jin li	983
+锦绣	jin xiu	3667
+锦绣前程	jin xiu qian cheng	876
+进一步增强	jin yi bu zeng qiang	4131
+尽责	jin ze	1607
+进展	jin zhan	6089
+尽职	jin zhi	1581
+禁止	jin zhi	4336
+尽职调查	jin zhi diao cha	2628
+尽职尽责	jin zhi jin ze	105
+金砖	jin zhuan	4023
+金子	jin zi	4989
+金字招牌	jin zi zhao pai	5151
+警报	jing bao	3501
+精兵	jing bing	2522
+精兵简政	jing bing jian zheng	3941
+精兵强将	jing bing qiang jiang	4314
+精彩	jing cai	5168
+精彩纷呈	jing cai fen cheng	3993
+精诚所至	jing cheng suo zhi	2009
+精粹	jing cui	3995
+经得起	jing de qi	2644
+劲敌	jing di	1242
+经典	jing dian	5542
+经典之作	jing dian zhi zuo	3549
+精雕细刻	jing diao xi ke	1786
+惊动	jing dong	5239
+警方	jing fang	3711
+精干	jing gan	2147
+警告	jing gao	2784
+精工细作	jing gong xi zuo	559
+惊弓之鸟	jing gong zhi niao	1507
+净化	jing hua	3839
+惊慌	jing huang	2134
+惊魂	jing hun	3931
+荆棘	jing ji	3966
+经济发展	jing ji fa zhan	4731
+经济放缓	jing ji fang huan	1104
+经济复苏	jing ji fu su	4113
+经济危机	jing ji wei ji	2509
+经济增长	jing ji zeng zhang	3639
+精简	jing jian	3969
+警戒线	jing jie xian	3308
+精进	jing jin	2747
+兢兢业业	jing jing ye ye	1137
+惊雷	jing lei	3848
+精炼	jing lian	2700
+净流出	jing liu chu	5946
+净流入	jing liu ru	4701
+净卖出	jing mai chu	4375
+精美	jing mei	2244
+敬佩	jing pei	4320
+井喷	jing pen	5966
+井喷行情	jing pen hang qing	933
+精品店	jing pin dian	310
+精品化	jing pin hua	846
+景气	jing qi	4776
+景气市场	jing qi shi chang	2338
+精巧	jing qiao	5554
+井然	jing ran	798
+惊人之举	jing ren zhi ju	4157
+精锐	jing rui	2526
+精神损失	jing shen sun shi	1016
+劲升	jing sheng	4549
+警示	jing shi	5938
+净收益	jing shou yi	2861
+净损失	jing sun shi	985
+惊叹	jing tan	1846
+惊涛骇浪	jing tao hai lang	3861
+警惕	jing ti	5807
+经天纬地	jing tian wei di	389
+精通	jing tong	359
+净土	jing tu	3775
+境外投资	jing wai tou zi	4015
+精卫填海	jing wei tian hai	1457
+惊喜	jing xi	5097
+惊险	jing xian	4459
+精心	jing xin	6131
+精心设计	jing xin she ji	802
+警醒	jing xing	2296
+敬业	jing ye	3863
+竞业禁止	jing ye jin zhi	4639
+精益求精	jing yi qiu jing	4214
+精英	jing ying	5670
+经营不善	jing ying bu shan	2458
+经营风险	jing ying feng xian	6034
+净增	jing zeng	4408
+竞争	jing zheng	5898
+竞争的	jing zheng de	5053
+竞争力	jing zheng li	5624
+竞争能力	jing zheng neng li	3551
+竞争实力	jing zheng shi li	4207
+竞争优势	jing zheng you shi	6004
+景致	jing zhi	1429
+精致	jing zhi	3864
+警钟	jing zhong	4650
+净赚	jing zhuan	6190
+窘境	jiong jing	4687
+窘况	jiong kuang	2179
+窘困	jiong kun	1278
+窘迫	jiong po	685
+旧案	jiu an	4438
+救兵	jiu bing	4631
+纠缠	jiu chan	1964
+纠缠不清	jiu chan bu qing	2070
+纠错	jiu cuo	4480
+就范	jiu fan	2769
+纠纷	jiu fen	5328
+纠纷案件	jiu fen an jian	3488
+纠葛	jiu ge	5333
+酒鬼	jiu gui	2315
+酒后	jiu hou	2177
+救活	jiu huo	3381
+纠结	jiu jie	4439
+纠偏	jiu pian	4826
+救起	jiu qi	395
+旧情	jiu qing	4179
+救人	jiu ren	2981
+救世主	jiu shi zhu	3596
+九死一生	jiu si yi sheng	3999
+久拖不决	jiu tuo bu jue	3347
+揪心	jiu xin	2348
+救星	jiu xing	5564
+就绪	jiu xu	4795
+就业机会	jiu ye ji hui	4095
+咎由自取	jiu you zi qu	2913
+旧账	jiu zhang	5335
+居安思危	ju an si wei	5911
+举报	ju bao	5201
+聚宝盆	ju bao pen	2929
+举报信	ju bao xin	1615
+拘捕	ju bu	2480
+举步维艰	ju bu wei jian	2593
+巨富	ju fu	2136
+鞠躬尽瘁	ju gong jin cui	1206
+聚光	ju guang	1298
+剧减	ju jian	2900
+聚精会神	ju jing hui shen	697
+据理力争	ju li li zheng	2111
+巨量	ju liang	5177
+拘留	ju liu	4085
+惧怕	ju pa	79
+举棋不定	ju qi bu ding	2966
+巨人	ju ren	6112
+举一反三	ju yi fan san	2508
+剧增	ju zeng	3340
+举证	ju zheng	4490
+举重若轻	ju zhong ruo qing	2772
+眷顾	juan gu	4220
+捐建	juan jian	5930
+卷入	juan ru	4666
+卷土重来	juan tu chong lai	4533
+捐赠	juan zeng	5567
+决不会	jue bu hui	3000
+绝不是	jue bu shi	3957
+绝处逢生	jue chu feng sheng	4603
+绝对优势	jue dui you shi	1700
+绝好时机	jue hao shi ji	406
+绝活	jue huo	5076
+绝技	jue ji	1927
+绝迹	jue ji	1587
+绝境	jue jing	4812
+绝口	jue kou	1571
+崛起	jue qi	5844
+诀窍	jue qiao	586
+决胜千里	jue sheng qian li	3207
+绝望	jue wang	1661
+决心	jue xin	5998
+觉醒	jue xing	5530
+竣工	jun gong	5747
+军魂	jun hun	2034
+俊杰	jun jie	136
+骏马	jun ma	3646
+君子	jun zi	681
+开创性	kai chuang xing	85
+开动	kai dong	4872
+开放式	kai fang shi	4221
+开放市场	kai fang shi chang	44
+开放型	kai fang xing	1395
+开花结果	kai hua jie guo	5388
+开垦	kai ken	4874
+开裂	kai lie	1127
+开路	kai lu	4912
+开绿灯	kai lv deng	1651
+开门红	kai men hong	5039
+楷模	kai mo	3541
+开盘大涨	kai pan da zhang	1646
+开辟	kai pi	5001
+开启	kai qi	6047
+开拓进取	kai tuo jin qu	1539
+开胃	kai wei	1476
+开心	kai xin	5498
+凯旋	kai xuan	4026
+揩油	kai you	3491
+开源节流	kai yuan jie liu	3942
+开展合作	kai zhan he zuo	4341
+看跌	kan die	4150
+看好	kan hao	6219
+看好后市	kan hao hou shi	23
+坎坷	kan ke	4593
+看头	kan tou	1627
+堪忧	kan you	5694
+看涨	kan zhang	4151
+看涨期权	kan zhang qi quan	2715
+看中	kan zhong	5215
+看重	kan zhong	5166
+看走眼	kan zou yan	2604
+抗跌	kang die	5597
+抗风险	kang feng xian	2514
+康复	kang fu	453
+抗拒	kang ju	988
+慷慨	kang kai	3380
+慷慨解囊	kang kai jie nang	3258
+抗诉	kang su	2840
+抗议	kang yi	3233
+抗震救灾	kang zhen jiu zai	3671
+康庄大道	kang zhuang da dao	2156
+靠不住	kao bu zhu	1293
+靠得住	kao de zhu	3021
+可爱	ke ai	4089
+可别	ke bie	1848
+可持续性	ke chi xu xing	2725
+克服	ke fu	3443
+可观	ke guan	5211
+可贵	ke gui	1063
+可贺	ke he	1073
+可靠	ke kao	5888
+可靠的	ke kao de	2022
+苛刻	ke ke	3718
+磕磕绊绊	ke ke ban ban	4515
+刻苦	ke ku	225
+可能下滑	ke neng xia hua	115
+可怕	ke pa	2849
+可欺	ke qi	1663
+恪守	ke shou	1525
+可望而不可即	ke wang er bu ke ji	5229
+可喜	ke xi	3570
+可行	ke xing	2984
+科学化	ke xue hua	3535
+科学探索	ke xue tan suo	1122
+科学性	ke xue xing	1166
+可疑	ke yi	1270
+苛责	ke ze	1606
+坑骗	keng pian	3734
+恐怖	kong bu	1189
+空城计	kong cheng ji	4457
+控告	kong gao	3902
+空喊	kong han	1725
+恐吓	kong he	4335
+空话	kong hua	1439
+恐慌	kong huang	3466
+恐慌情绪	kong huang qing xu	1337
+空间	kong jian	5588
+空间广阔	kong jian guang kuo	5127
+恐惧症	kong ju zheng	544
+空壳	kong ke	5193
+空空	kong kong	4229
+空气污染	kong qi wu ran	2234
+空谈	kong tan	3721
+空头支票	kong tou zhi piao	3076
+空穴来风	kong xue lai feng	4002
+控制风险	kong zhi feng xian	1653
+扣缴	kou jiao	4762
+抠门	kou men	2083
+抠门儿	kou men er	349
+口蜜腹剑	kou mi fu jian	523
+口蹄疫	kou ti yi	1797
+扣押	kou ya	3088
+苦不堪言	ku bu kan yan	900
+苦干	ku gan	2904
+苦果	ku guo	4482
+苦海	ku hai	2461
+苦寒	ku han	4566
+枯竭	ku jie	3274
+苦尽甘来	ku jin gan lai	2435
+苦酒	ku jiu	5222
+苦苦	ku ku	1982
+苦练	ku lian	5264
+窟窿	ku long	4696
+苦旅	ku lv	3369
+枯木	ku mu	3185
+枯木逢春	ku mu feng chun	2092
+苦恼	ku nao	1762
+苦肉计	ku rou ji	5247
+苦涩	ku se	2090
+酷暑	ku shu	803
+苦水	ku shui	3821
+苦头	ku tou	1853
+枯萎的	ku wei de	3537
+苦心孤诣	ku xin gu yi	532
+苦战	ku zhan	5444
+苦衷	ku zhong	6019
+跨步	kua bu	141
+夸大	kua da	2662
+夸大其辞	kua da qi ci	1330
+跨入	kua ru	5066
+跨越	kua yue	5131
+快车	kuai che	5391
+快车道	kuai che dao	4985
+快感	kuai gan	1240
+快乐	kuai le	3927
+快马加鞭	kuai ma jia bian	2709
+快速	kuai su	6129
+快速反应	kuai su fan ying	4971
+快速攀升	kuai su pan sheng	2171
+快速增长	kuai su zeng zhang	4938
+快意	kuai yi	128
+宽敞	kuan chang	2432
+宽广	kuan guang	5422
+宽广的	kuan guang de	1502
+宽容	kuan rong	1125
+宽裕	kuan yu	2127
+狂飙	kuang biao	5928
+狂跌	kuang die	4276
+狂乱	kuang luan	10
+狂升	kuang sheng	1443
+狂泻	kuang xie	3095
+狂言	kuang yan	6031
+溃败	kui bai	250
+亏本	kui ben	4145
+亏待	kui dai	325
+匮乏	kui fa	4711
+亏空	kui kong	4635
+溃烂	kui lan	1202
+亏了	kui le	4895
+傀儡	kui lei	771
+亏损	kui sun	5717
+亏损额	kui sun e	4652
+亏损企业	kui sun qi ye	5121
+溃退	kui tui	2618
+困顿	kun dun	920
+困厄	kun e	2411
+困惑	kun huo	5729
+困境	kun jing	5943
+困窘	kun jiong	752
+困难	kun nan	4135
+困难重重	kun nan chong chong	2911
+困难户	kun nan hu	3591
+困扰	kun rao	3458
+困守	kun shou	3780
+困兽犹斗	kun shou you dou	5376
+阔步	kuo bu	4196
+扩充	kuo chong	3587
+扩大	kuo da	6176
+扩军	kuo jun	6087
+扩能	kuo neng	3954
+扩容	kuo rong	6213
+扩容压力	kuo rong ya li	70
+扩增	kuo zeng	1837
+扩张	kuo zhang	6119
+拉动	la dong	4948
+垃圾	la ji	6006
+垃圾股	la ji gu	4703
+拉锯战	la ju zhan	5185
+拉升行情	la sheng hang qing	4710
+拉升阶段	la sheng jie duan	264
+拉下水	la xia shui	19
+来势汹汹	lai shi xiong xiong	1080
+赖账	lai zhang	2624
+来者不善	lai zhe bu shan	840
+蓝筹股	lan chou gu	5578
+滥发	lan fa	1938
+懒觉	lan jiao	107
+烂漫	lan man	1731
+懒散	lan san	151
+烂摊子	lan tan zi	2573
+滥用	lan yong	3881
+滥用职权	lan yong zhi quan	1013
+烂账	lan zhang	1962
+浪费	lang fei	1706
+浪漫	lang man	3850
+浪子回头	lang zi hui tou	651
+牢不可破	lao bu ke po	1593
+老大难	lao da nan	1368
+老当益壮	lao dang yi zhuang	1985
+劳动模范	lao dong mo fan	2506
+老二	lao er	6012
+老黄牛	lao huang niu	613
+老骥伏枥	lao ji fu li	92
+老来俏	lao lai qiao	905
+老老实实	lao lao shi shi	3090
+牢笼	lao long	111
+老三	lao san	6011
+老鼠仓	lao shu cang	3586
+老幺	lao yao	160
+牢狱	lao yu	2669
+老账	lao zhang	5296
+老字号	lao zi hao	3473
+劳资纠纷	lao zi jiu fen	2873
+乐观	le guan	6105
+乐极生悲	le ji sheng bei	229
+勒令	le ling	4415
+乐趣	le qu	3860
+乐善好施	le shan hao shi	2770
+乐土	le tu	1795
+乐意	le yi	4035
+乐于	le yu	2433
+乐在其中	le zai qi zhong	635
+雷暴	lei bao	1724
+雷锋	lei feng	4818
+累计涨幅	lei ji zhang fu	2087
+雷厉风行	lei li feng xing	1225
+羸弱	lei ruo	1364
+雷声大雨点小	lei sheng da yu dian xiao	1589
+累死	lei si	2825
+冷菜	leng cai	2122
+冷场	leng chang	1756
+冷淡	leng dan	454
+冷宫	leng gong	2206
+冷静	leng jing	3824
+冷冷清清	leng leng qing qing	438
+冷落	leng luo	5319
+冷漠	leng mo	995
+冷清	leng qing	5881
+冷眼	leng yan	5265
+冷遇	leng yu	3351
+立案	li an	5242
+立案稽查	li an ji cha	5241
+力保	li bao	5494
+厉兵秣马	li bing mo ma	5439
+力不从心	li bu cong xin	2768
+利差	li cha	3373
+里程	li cheng	5601
+力促	li cu	6020
+力挫	li cuo	4210
+利得	li de	3552
+利多	li duo	3364
+立竿见影	li gan jian ying	3427
+立功	li gong	2064
+理还乱	li hai luan	2124
+利好	li hao	6142
+利好刺激	li hao ci ji	2717
+力护	li hu	1077
+离婚	li hun	3869
+力戒	li jie	700
+励精图治	li jing tu zhi	3345
+历久弥坚	li jiu mi jian	3470
+历久弥新	li jiu mi xin	3468
+利空	li kong	5402
+利空因素	li kong yin su	2442
+莅临	li lin	4387
+利落	li luo	2473
+罹难	li nan	377
+力拼	li pin	4915
+离谱	li pu	2091
+离任	li ren	2301
+利润源	li run yuan	4891
+利润增加	li run zeng jia	4535
+利润增速	li run zeng su	3138
+利润增长点	li run zeng zhang dian	5082
+历史新低	li shi xin di	5873
+历史新高	li shi xin gao	6214
+历史遗留问题	li shi yi liu wen ti	3087
+理顺	li shun	4149
+利他	li ta	5525
+立体	li ti	4901
+力挽狂澜	li wan kuang lan	5577
+理想	li xiang	5661
+立项	li xiang	4612
+理想国	li xiang guo	5660
+厉行	li xing	629
+理性	li xing	5710
+厉行节约	li xing jie yue	1216
+利益共享	li yi gong xiang	2963
+丽音	li yin	939
+利用	li yong	5115
+利于	li yu	4829
+利欲	li yu	3514
+礼遇	li yu	1000
+立于不败之地	li yu bu bai zhi di	1877
+鲤鱼打挺	li yu da ting	3842
+鲤鱼跳龙门	li yu tiao long men	4917
+力争上游	li zheng shang you	1188
+理智	li zhi	4183
+离职	li zhi	5965
+立志	li zhi	3423
+励志竭精	li zhi jie jing	2057
+力主	li zhu	4862
+立足未稳	li zu wei wen	980
+敛财	lian cai	2614
+练出	lian chu	4234
+连带	lian dai	3156
+连带清偿责任	lian dai qing chang ze ren	3738
+连带责任	lian dai ze ren	4532
+联合	lian he	6092
+连环套	lian huan tao	5189
+廉洁	lian jie	2598
+廉洁自律	lian jie zi lv	779
+炼就	lian jiu	2802
+练就	lian jiu	2551
+连累	lian lei	3237
+联盟	lian meng	5815
+联锁	lian suo	4109
+连锁反应	lian suo fan ying	3196
+连续暴跌	lian xu bao die	1768
+连续上攻	lian xu shang gong	735
+连续上涨	lian xu shang zhang	1264
+连续下跌	lian xu xia die	2947
+连续涨停	lian xu zhang ting	5180
+联益	lian yi	4669
+联姻	lian yin	5767
+连阴雨	lian yin yu	2850
+联营协议	lian ying xie yi	4808
+廉政	lian zheng	4083
+连中三元	lian zhong san yuan	2084
+两案	liang an	3579
+两败俱伤	liang bai ju shang	5323
+良辰美景	liang chen mei jing	3011
+亮点	liang dian	4973
+两番	liang fan	3384
+良方	liang fang	1570
+良好	liang hao	5485
+良机	liang ji	5716
+亮晶晶	liang jing jing	817
+良苦用心	liang ku yong xin	2135
+亮丽	liang li	4943
+量力而行	liang li er xing	3033
+两难	liang nan	3595
+两手抓	liang shou zhua	4905
+亮堂堂	liang tang tang	259
+量体裁衣	liang ti cai yi	3899
+良田	liang tian	2039
+良心	liang xin	5635
+良性	liang xing	4502
+良药	liang yao	3424
+良莠不齐	liang you bu qi	118
+良知	liang zhi	3877
+撩拨	liao bo	1300
+了不起	liao bu qi	1650
+撂荒	liao huang	2500
+嘹亮	liao liang	1608
+了然于胸	liao ran yu xiong	519
+撂挑子	liao tiao zi	4655
+燎原	liao yuan	5789
+燎原之势	liao yuan zhi shi	790
+裂痕	lie hen	4124
+劣迹	lie ji	3375
+趔趄	lie qie	121
+劣势	lie shi	2566
+劣质	lie zhi	3790
+琳琅满目	lin lang man mu	486
+临时停牌	lin shi ting pai	4542
+临阵脱逃	lin zhen tuo tao	2131
+临终	lin zhong	3730
+灵丹妙药	ling dan miao yao	1103
+领导者	ling dao zhe	4585
+领地	ling di	5000
+灵光	ling guang	731
+领航	ling hang	5852
+灵活	ling huo	5758
+灵活运用	ling huo yun yong	1823
+领军者	ling jun zhe	4357
+零库存	ling ku cun	3827
+玲珑	ling long	3255
+灵敏	ling min	4248
+另辟蹊径	ling pi xi jing	4529
+灵巧	ling qiao	392
+令人	ling ren	4321
+令人担忧	ling ren dan you	2905
+令人鼓舞	ling ren gu wu	2429
+令人信服	ling ren xin fu	124
+令人振奋	ling ren zhen fen	792
+令人瞩目	ling ren zhu mu	2274
+聆听	ling ting	1631
+领头雁	ling tou yan	4841
+领头羊	ling tou yang	4945
+领悟	ling wu	1246
+领先	ling xian	5829
+领先的	ling xian de	3198
+领先地位	ling xian di wei	5061
+领先行业	ling xian hang ye	405
+领先科技	ling xian ke ji	2677
+令行禁止	ling xing jin zhi	1043
+领袖	ling xiu	2635
+灵药	ling yao	1232
+囹圄	ling yu	1670
+领域领先	ling yu ling xian	1259
+柳暗花明	liu an hua ming	4805
+柳暗花明又一村	liu an hua ming you yi cun	2933
+流产	liu chan	5684
+流出	liu chu	3494
+流传	liu chuan	3400
+流感	liu gan	4126
+流光溢彩	liu guang yi cai	2621
+六难	liu nan	1640
+流失	liu shi	5890
+流水不腐	liu shui bu fu	2045
+流水无情	liu shui wu qing	875
+流行色	liu xing se	108
+流血	liu xue	1926
+流言	liu yan	4132
+留有余地	liu you yu di	52
+流于形式	liu yu xing shi	3167
+溜之大吉	liu zhi da ji	1338
+垄断	long duan	5398
+龙腾虎跃	long teng hu yue	633
+龙头	long tou	6206
+龙头老大	long tou lao da	3502
+龙头企业	long tou qi ye	3651
+龙头蛇尾	long tou she wei	796
+龙骧虎步	long xiang hu bu	2113
+笼罩	long zhao	5545
+龙争虎斗	long zheng hu dou	2786
+漏电	lou dian	15
+漏掉	lou diao	153
+漏洞	lou dong	3714
+漏洞百出	lou dong bai chu	1879
+露怯	lou qie	1428
+漏水	lou shui	625
+漏税	lou shui	2976
+漏网	lou wang	638
+露馅	lou xian	2316
+戮力同心	lu li tong xin	145
+录取	lu qu	1007
+路演	lu yan	4847
+露原形	lu yuan xing	4662
+乱哄哄	luan hong hong	240
+乱麻	luan ma	2879
+乱世	luan shi	2326
+掠夺	lue duo	3307
+掠夺式	lue duo shi	3674
+略胜一筹	lue sheng yi chou	1908
+略有下降	lue you xia jiang	154
+沦落	lun luo	4572
+沦为	lun wei	6013
+沦陷	lun xian	4374
+落败	luo bai	4392
+落榜	luo bang	1682
+落差	luo cha	3898
+落到实处	luo dao shi chu	2690
+落地	luo di	6196
+落后	luo hou	5749
+落户	luo hu	5407
+落荒而逃	luo huang er tao	2584
+落空	luo kong	5165
+落马	luo ma	4061
+落寞	luo mo	1271
+落实	luo shi	5139
+落水	luo shui	1991
+落网	luo wang	3526
+落伍	luo wu	1749
+落选	luo xuan	2659
+屡教不改	lv jiao bu gai	5240
+屡禁不止	lv jin bu zhi	3012
+绿色革命	lv se ge ming	3722
+绿水青山	lv shui qing shan	2048
+履险如夷	lv xian ru yi	507
+履行责任	lv xing ze ren	1509
+绿野	lv ye	1396
+履约	lv yue	5478
+屡战屡败	lv zhan lv bai	2095
+马不停蹄	ma bu ting ti	1729
+马到成功	ma dao cheng gong	2260
+麻烦	ma fan	4599
+麻烦事	ma fan shi	3737
+马后炮	ma hou pao	3159
+马虎	ma hu	1951
+马脚	ma jiao	675
+马马虎虎	ma ma hu hu	1460
+麻雀虽小	ma que sui xiao	285
+马失前蹄	ma shi qian ti	4473
+买不起	mai bu qi	294
+迈出	mai chu	4956
+买断	mai duan	4695
+迈开	mai kai	4880
+埋没	mai mo	2792
+迈入	mai ru	5093
+卖身	mai shen	3409
+麦田守望者	mai tian shou wang zhe	1506
+买通	mai tong	1116
+埋头苦干	mai tou ku gan	232
+卖座	mai zuo	1377
+瞒报	man bao	2225
+慢车道	man che dao	162
+满怀	man huai	3056
+满怀信心	man huai xin xin	935
+满目疮痍	man mu chuang yi	703
+满盘皆输	man pan jie shu	1999
+满腔	man qiang	2958
+满堂	man tang	3555
+瞒天过海	man tian guo hai	3027
+满意	man yi	4955
+满园春色	man yuan chun se	1156
+满嘴	man zui	597
+盲从	mang cong	1135
+盲点	mang dian	4097
+盲目	mang mu	3696
+盲目跟风	mang mu gen feng	990
+盲人摸象	mang ren mo xiang	1360
+莽撞	mang zhuang	334
+毛病	mao bing	2720
+矛盾	mao dun	4746
+貌合神离	mao he shen li	3735
+冒进	mao jin	2748
+猫腻	mao ni	5186
+冒牌	mao pai	4543
+冒头	mao tou	3612
+矛头	mao tou	3352
+冒险	mao xian	5537
+贸易壁垒	mao yi bi lei	3897
+霉变	mei bian	5951
+美不胜收	mei bu sheng shou	2285
+美称	mei cheng	184
+美观	mei guan	1182
+美好	mei hao	4361
+美景	mei jing	912
+每况愈下	mei kuang yu xia	2243
+美丽	mei li	5547
+魅力	mei li	5880
+美梦	mei meng	5287
+美妙	mei miao	3101
+美名	mei ming	2169
+没谱	mei pu	977
+没头脑	mei tou nao	2870
+没完没了	mei wan mei liao	2398
+美味	mei wei	1902
+没戏	mei xi	5170
+美艳	mei yan	1340
+没有价值	mei you jia zhi	1257
+没有钱	mei you qian	297
+美玉	mei yu	139
+美誉	mei yu	3512
+美滋滋	mei zi zi	1432
+闷棍	men gun	3465
+门户之见	men hu zhi jian	789
+闷闷不乐	men men bu le	1558
+门外汉	men wai han	2808
+猛跌	meng die	1770
+萌动	meng dong	4518
+猛虎	meng hu	1540
+梦幻	meng huan	5814
+蒙混	meng hun	1490
+蒙混过关	meng hun guo guan	449
+梦寐以求	meng mei yi qiu	7
+蒙难	meng nan	2891
+蒙受	meng shou	4732
+梦想成真	meng xiang cheng zhen	2528
+梦魇	meng yan	4376
+盟友	meng you	4048
+蒙冤	meng yuan	918
+猛增	meng zeng	5182
+猛涨	meng zhang	5138
+弥补	mi bu	5390
+迷糊	mi hu	3819
+秘籍	mi ji	3218
+迷离	mi li	4819
+迷茫	mi mang	3184
+密切关注	mi qie guan zhu	4146
+迷失	mi shi	5606
+蜜糖	mi tang	1284
+迷途知返	mi tu zhi fan	760
+谜团	mi tuan	5922
+迷惘	mi wang	1051
+迷雾	mi wu	5947
+绵长	mian chang	470
+免检	mian jian	2016
+勉励	mian li	1237
+免疫	mian yi	3428
+免疫力	mian yi li	3444
+免责	mian ze	606
+免征	mian zheng	2543
+免职	mian zhi	2532
+妙处	miao chu	3133
+妙方	miao fang	1450
+渺茫	miao mang	4663
+妙手	miao shou	5455
+妙手回春	miao shou hui chun	2409
+妙手著文章	miao shou zhu wen zhang	714
+瞄准	miao zhun	6137
+灭顶之灾	mie ding zhi zai	2619
+敏感期	min gan qi	3094
+敏捷	min jie	1529
+民事诉讼	min shi su song	3003
+民事诉状	min shi su zhuang	2444
+民事责任	min shi ze ren	3017
+民族魂	min zu hun	4185
+名不副实	ming bu fu shi	1433
+名不符实	ming bu fu shi	354
+名存实亡	ming cun shi wang	1918
+名副其实	ming fu qi shi	5736
+明火执仗	ming huo zhi zhang	1472
+名将	ming jiang	3441
+名句	ming ju	2141
+明朗	ming lang	5279
+明朗化	ming lang hua	6095
+明理	ming li	1219
+名利双收	ming li shuang shou	3847
+明亮	ming liang	3763
+名列	ming lie	4858
+名列前茅	ming lie qian mao	4896
+明媚	ming mei	689
+名门	ming men	3607
+明明白白	ming ming bai bai	2706
+名品	ming pin	885
+明日黄花	ming ri huang hua	2199
+名实难副	ming shi nan fu	607
+名特优	ming te you	384
+明晰产权	ming xi chan quan	3371
+明显成效	ming xian cheng xiao	2951
+明显回升	ming xian hui sheng	1596
+明显扩大	ming xian kuo da	1752
+明星	ming xing	6007
+名扬天下	ming yang tian xia	2162
+明哲保身	ming zhe bao shen	1961
+明争暗斗	ming zheng an dou	1806
+名正言顺	ming zheng yan shun	1916
+明智	ming zhi	2195
+明知故犯	ming zhi gu fan	834
+明智之举	ming zhi zhi ju	2496
+谬误	miu wu	865
+末班车	mo ban che	5181
+魔鬼	mo gui	4569
+抹黑	mo hei	5704
+磨砺	mo li	4261
+磨练	mo lian	41
+末路穷途	mo lu qiong tu	2103
+没落	mo luo	4649
+秣马厉兵	mo ma li bing	1423
+莫名	mo ming	2910
+莫名其妙	mo ming qi miao	2875
+摸清	mo qing	2382
+摩拳擦掌	mo quan ca zhang	3601
+末日	mo ri	5533
+漠视	mo shi	3039
+摸透	mo tou	8
+莫须有	mo xu you	1715
+谋反	mou fan	647
+谋划	mou hua	5931
+谋利	mou li	2794
+谋略	mou lue	5581
+谋求	mou qiu	5847
+谋私	mou si	639
+目标	mu biao	6207
+募捐	mu juan	5028
+纳谏	na jian	644
+拿来主义	na lai zhu yi	836
+拿手好戏	na shou hao xi	1200
+耐久	nai jiu	2086
+耐心	nai xin	3172
+耐用	nai yong	914
+难保	nan bao	6017
+难产	nan chan	5715
+难吃	nan chi	1603
+难倒	nan dao	5733
+难点	nan dian	2998
+难度较大	nan du jiao da	509
+南方稳健	nan fang wen jian	763
+南方稳健成长	nan fang wen jian cheng zhang	755
+难关	nan guan	4506
+难过	nan guo	4802
+难堪	nan kan	5465
+难看	nan kan	1415
+南柯一梦	nan ke yi meng	3994
+难觅	nan mi	2982
+难民	nan min	1847
+难能可贵	nan neng ke gui	296
+难上加难	nan shang jia nan	2221
+难兄难弟	nan xiong nan di	3532
+难言之隐	nan yan zhi yin	3783
+难以避免	nan yi bi mian	1478
+难以为继	nan yi wei ji	4168
+难友	nan you	5454
+难于上青天	nan yu shang qing tian	224
+南辕北辙	nan yuan bei zhe	1629
+南征北战	nan zheng bei zhan	1634
+难治	nan zhi	2192
+囊中羞涩	nang zhong xiu se	5555
+闹大	nao da	413
+闹翻	nao fan	307
+闹剧	nao ju	5223
+闹心	nao xin	323
+内动力	nei dong li	3421
+内功	nei gong	5263
+内涵	nei han	3947
+内耗	nei hao	578
+内讧	nei hong	4045
+内乱	nei luan	3036
+内幕	nei mu	5884
+内幕交易	nei mu jiao yi	4757
+内幕信息	nei mu xin xi	3077
+内难	nei nan	339
+内伤	nei shang	579
+内圣外王	nei sheng wai wang	5051
+内外交困	nei wai jiao kun	4373
+内需动力	nei xu dong li	48
+内引外联	nei yin wai lian	2295
+内忧	nei you	72
+内忧外患	nei you wai huan	3082
+内在价值	nei zai jia zhi	5134
+内战	nei zhan	4042
+能人	neng ren	315
+能手	neng shou	2689
+能者	neng zhe	4722
+逆风	ni feng	5500
+泥牛入海	ni niu ru hai	1075
+逆势	ni shi	6186
+逆行	ni xing	2534
+逆转	ni zhuan	5610
+年亏损	nian kui sun	2999
+年老	nian lao	3382
+年轻化	nian qing hua	5731
+酿祸	niang huo	529
+鸟枪换炮	niao qiang huan pao	2107
+涅槃	nie pan	3992
+宁静致远	ning jing zhi yuan	2010
+凝聚	ning ju	3985
+凝聚力	ning ju li	3970
+牛刀小试	niu dao xiao shi	1933
+牛劲	niu jin	948
+扭亏	niu kui	5354
+扭亏为盈	niu kui wei ying	5113
+扭亏增盈	niu kui zeng ying	3887
+牛气	niu qi	5505
+扭曲	niu qu	3266
+牛市	niu shi	5210
+扭转乾坤	niu zhuan qian kun	5293
+浓墨重彩	nong mo zhong cai	2029
+弄巧成拙	nong qiao cheng zhuo	2207
+弄虚作假	nong xu zuo jia	378
+农业现代化	nong ye xian dai hua	3717
+怒斥	nu chi	3143
+怒火	nu huo	1011
+努力	nu li	5961
+暖风	nuan feng	4853
+暖流	nuan liu	1489
+暖洋洋	nuan yang yang	979
+挪用	nuo yong	4697
+女杰	nv jie	587
+女强人	nv qiang ren	1577
+拍马	pai ma	751
+牌迷	pai mi	3153
+排污	pai wu	3608
+排污口	pai wu kou	4402
+排忧解难	pai you jie nan	2416
+攀比	pan bi	969
+盘根错节	pan gen cuo jie	4356
+盘活	pan huo	5519
+盘活资产	pan huo zi chan	2874
+判决	pan jue	3975
+攀亲	pan qin	2837
+蹒跚	pan shan	2880
+攀升	pan sheng	5289
+磐石	pan shi	5489
+叛逃	pan tao	2970
+盼望	pan wang	3450
+判刑	pan xing	4493
+攀越	pan yue	3404
+磅礴	pang bo	721
+彷徨	pang huang	4789
+旁门左道	pang men zuo dao	434
+旁人	pang ren	6099
+庞氏骗局	pang shi pian ju	318
+炮轰	pao hong	6082
+炮灰	pao hui	809
+抛空	pao kong	3519
+泡沫	pao mo	6179
+泡沫式	pao mo shi	1805
+抛盘	pao pan	3030
+抛弃	pao qi	5711
+抛售	pao shou	5652
+跑输	pao shu	1617
+泡汤	pao tang	5217
+泡影	pao ying	3972
+跑赢大盘	pao ying da pan	2972
+跑赢大市	pao ying da shi	5875
+赔偿	pei chang	5262
+赔偿案	pei chang an	4077
+赔偿损失	pei chang sun shi	665
+赔偿责任	pei chang ze ren	3578
+赔付	pei fu	3007
+配合	pei he	5367
+配角	pei jue	4283
+赔款	pei kuan	4078
+赔了夫人又折兵	pei le fu ren you zhe bing	2082
+培养	pei yang	5721
+培育	pei yu	4629
+喷香	pen xiang	573
+捧杯	peng bei	5077
+蓬勃	peng bo	5086
+蓬勃发展	peng bo fa zhan	2251
+捧场	peng chang	4421
+鹏程	peng cheng	423
+鹏程万里	peng cheng wan li	646
+澎湃	peng pai	3828
+朋友	peng you	5665
+碰撞	peng zhuang	4588
+疲惫	pi bei	2160
+批捕	pi bu	4036
+蚍蜉	pi fu	824
+蚍蜉撼大树	pi fu han da shu	823
+否极泰来	pi ji tai lai	2292
+披荆斩棘	pi jing zhan ji	3949
+疲倦	pi juan	938
+疲劳	pi lao	3810
+纰漏	pi lou	3137
+媲美	pi mei	2400
+批判	pi pan	2968
+批评	pi ping	5727
+疲软	pi ruan	5985
+疲软市场	pi ruan shi chang	3060
+疲弱	pi ruo	4830
+疲态	pi tai	4013
+偏爱	pian ai	4974
+偏安一隅	pian an yi yu	3346
+偏差	pian cha	1802
+偏低	pian di	4644
+偏好	pian hao	2974
+骗局	pian ju	5300
+骗取	pian qu	2224
+骗人	pian ren	967
+骗术	pian shu	693
+偏题	pian ti	1228
+篇章	pian zhang	2046
+偏执	pian zhi	928
+骗子	pian zi	2344
+嫖娼	piao chang	766
+票贩子	piao fan zi	1308
+漂亮	piao liang	5386
+剽窃	piao qie	2314
+飘扬	piao yang	2530
+飘洋过海	piao yang guo hai	75
+飘摇	piao yao	3732
+撇开	pie kai	2667
+拼搏	pin bo	5254
+拼凑	pin cou	2369
+频繁进出	pin fan jin chu	2546
+贫矿	pin kuang	1767
+贫困	pin kun	1082
+贫困化	pin kun hua	206
+聘请	pin qing	4868
+贫穷	pin qiong	3826
+贫血	pin xue	4003
+品学兼优	pin xue jian you	4743
+平安	ping an	6218
+屏蔽	ping bi	4465
+平步青云	ping bu qing yun	2921
+平均跌幅	ping jun die fu	1388
+平平安安	ping ping an an	1141
+屏弃	ping qi	3825
+平实	ping shi	2021
+平稳	ping wen	6067
+平稳期	ping wen qi	4106
+平稳运行	ping wen yun xing	6062
+平心静气	ping xin jing qi	373
+平庸	ping yong	1612
+破案	po an	2959
+破败	po bai	483
+迫不得已	po bu de yi	1873
+破财	po cai	3063
+破产	po chan	5184
+破产程序	po chan cheng xu	3239
+破产重组	po chan chong zu	3241
+破产清算	po chan qing suan	3042
+破产申请	po chan shen qing	2686
+破产诉讼	po chan su song	2995
+破产终结	po chan zhong jie	313
+破釜沉舟	po fu chen zhou	821
+破格	po ge	1008
+破坏	po huai	3906
+迫降	po jiang	5775
+破戒	po jie	2722
+破解	po jie	6016
+破旧立新	po jiu li xin	1134
+颇具	po ju	2663
+魄力	po li	4773
+破裂	po lie	2824
+破灭	po mie	5528
+迫使	po shi	3815
+破碎	po sui	3209
+破损	po sun	1109
+破土动工	po tu dong gong	5056
+破绽	po zhan	1393
+普遍	pu bian	6084
+普跌	pu die	5380
+铺平	pu ping	1247
+朴实	pu shi	844
+扑朔迷离	pu shuo mi li	4550
+朴素	pu su	1800
+普涨	pu zhang	2600
+铺张	pu zhang	973
+普照	pu zhao	2047
+七八成	qi ba cheng	1267
+起爆	qi bao	1803
+齐备	qi bei	2746
+起步	qi bu	5920
+奇才	qi cai	1546
+期待	qi dai	6064
+启动	qi dong	6103
+弃儿	qi er	5712
+启发	qi fa	5658
+奇功	qi gong	1022
+奇怪	qi guai	3259
+奇观	qi guan	1551
+启航	qi hang	4980
+骑虎难下	qi hu nan xia	2588
+起火	qi huo	1390
+奇迹	qi ji	5796
+契机	qi ji	4576
+齐家	qi jia	1816
+旗舰	qi jian	5470
+旗开得胜	qi kai de sheng	2342
+凄凉	qi liang	919
+欺瞒	qi man	2370
+其美	qi mei	181
+气馁	qi nei	2567
+欺骗	qi pian	2357
+气魄	qi po	4350
+蹊跷	qi qiao	4793
+崎岖	qi qu	3396
+弃权	qi quan	3343
+起色	qi se	3574
+歧视	qi shi	4684
+气势如虹	qi shi ru hong	3634
+起死回生	qi si hui sheng	3755
+起诉	qi su	5258
+起诉书	qi su shu	1668
+起诉状	qi su zhuang	5118
+奇特	qi te	5096
+齐头并进	qi tou bing jin	5098
+企图	qi tu	4440
+歧途	qi tu	1535
+气吞山河	qi tun shan he	207
+起舞	qi wu	5620
+奇袭	qi xi	4976
+齐心协力	qi xin xie li	4174
+企业倒闭	qi ye dao bi	167
+企业发展	qi ye fa zhan	5010
+企业家精神	qi ye jia jing shen	1547
+企业经济效益	qi ye jing ji xiao yi	2427
+企业社会责任	qi ye she hui ze ren	5836
+企业收益	qi ye shou yi	4709
+企业愿景	qi ye yuan jing	3986
+企业战略	qi ye zhan lue	4369
+弃婴	qi ying	3238
+启用	qi yong	5377
+气宇	qi yu	1494
+欺诈	qi zha	6088
+恰当	qia dang	761
+恰到好处	qia dao hao chu	1858
+浅尝辄止	qian chang zhe zhi	1318
+牵扯	qian che	4481
+前程	qian cheng	5116
+前程似锦	qian cheng si jin	830
+千疮百孔	qian chuang bai kong	300
+千锤百炼	qian chui bai lian	2080
+前端	qian duan	5016
+欠费	qian fei	246
+前赴后继	qian fu hou ji	5313
+欠佳	qian jia	3973
+前进	qian jin	4886
+千金	qian jin	2152
+前景不乐观	qian jing bu le guan	2115
+前景堪忧	qian jing kan you	5011
+欠款	qian kuan	5298
+千里眼	qian li yan	1742
+牵连	qian lian	5100
+前列	qian lie	2518
+前茅	qian mao	2684
+潜能	qian neng	3548
+前仆后继	qian pu hou ji	2683
+牵强	qian qiang	2864
+牵强附会	qian qiang fu hui	910
+谦让	qian rang	2325
+牵涉	qian she	4698
+签署	qian shu	6043
+欠税	qian shui	6037
+潜逃	qian tao	2227
+牵头	qian tou	4323
+欠妥	qian tuo	641
+牵线	qian xian	3129
+牵线搭桥	qian xian da qiao	1592
+潜心	qian xin	3324
+谦虚	qian xu	2937
+前沿	qian yan	4272
+前缘	qian yuan	4475
+潜在损失	qian zai sun shi	713
+谴责	qian ze	5467
+前瞻	qian zhan	4342
+前瞻性	qian zhan xing	4311
+欠账	qian zhang	2220
+前兆	qian zhao	5785
+强逼	qiang bi	3945
+强拆	qiang chai	2902
+强大	qiang da	6230
+墙倒众人推	qiang dao zhong ren tui	2116
+强敌	qiang di	1630
+强骨	qiang gu	343
+强悍	qiang han	3217
+强化	qiang hua	5730
+强健	qiang jian	1996
+强将	qiang jiang	400
+强劲发展	qiang jing fa zhan	1887
+强劲增长	qiang jing zeng zhang	3977
+抢救	qiang jiu	3663
+强弩之末	qiang nu zhi mo	1763
+强强联合	qiang qiang lian he	5410
+强权	qiang quan	3817
+强身	qiang shen	3416
+强身健体	qiang shen jian ti	1798
+强身壮骨	qiang shen zhuang gu	1501
+强盛	qiang sheng	2004
+强势	qiang shi	5955
+强势反弹	qiang shi fan tan	2077
+强势反转	qiang shi fan zhuan	657
+强势股	qiang shi gu	5600
+强势上攻	qiang shi shang gong	2854
+抢滩	qiang tan	5655
+墙体	qiang ti	1255
+抢先	qiang xian	5968
+强心剂	qiang xin ji	4148
+抢眼	qiang yan	5003
+强有力	qiang you li	2007
+强者	qiang zhe	6204
+强震	qiang zhen	1575
+强制措施	qiang zhi cuo shi	2560
+强制拍卖	qiang zhi pai mai	2994
+强制清算	qiang zhi qing suan	708
+强制执行	qiang zhi zhi xing	4822
+强壮的	qiang zhuang de	2809
+憔悴	qiao cui	1573
+敲定	qiao ding	5563
+俏货	qiao huo	1074
+巧计	qiao ji	397
+敲锣打鼓	qiao luo da gu	3666
+巧妙	qiao miao	4053
+巧取豪夺	qiao qu hao duo	750
+敲山震虎	qiao shan zhen hu	4338
+巧手	qiao shou	1822
+翘尾巴	qiao wei ba	1025
+敲诈	qiao zha	475
+怯场	qie chang	2322
+切断	qie duan	3888
+锲而不舍	qie er bu she	5183
+切肤之痛	qie fu zhi tong	321
+切忌	qie ji	276
+切莫	qie mo	1461
+窃取	qie qu	975
+切中	qie zhong	1281
+窃走	qie zou	776
+侵犯	qin fan	4464
+侵犯商标权	qin fan shang biao quan	2211
+侵犯专利权	qin fan zhuan li quan	1359
+勤奋	qin fen	1917
+侵害	qin hai	3880
+亲和	qin he	5634
+勤俭	qin jian	4224
+禽流感	qin liu gan	4718
+亲密	qin mi	3871
+勤勉	qin mian	3219
+亲切	qin qie	2949
+侵权纠纷	qin quan jiu fen	3624
+侵权损害赔偿	qin quan sun hai pei chang	3489
+侵权行为	qin quan xing wei	1248
+沁人肺腑	qin ren fei fu	1687
+侵入	qin ru	3507
+侵蚀	qin shi	2821
+侵吞	qin tun	5312
+亲缘	qin yuan	3641
+侵占	qin zhan	4076
+侵占资产	qin zhan zi chan	187
+勤政	qin zheng	1129
+勤政廉政	qin zheng lian zheng	677
+情变	qing bian	3074
+轻薄	qing bo	5078
+清仓	qing cang	5366
+清查	qing cha	4505
+清偿	qing chang	4787
+清澈	qing che	1857
+清楚	qing chu	5362
+青翠	qing cui	678
+庆丰	qing feng	430
+情妇	qing fu	1118
+轻歌曼舞	qing ge man wu	1254
+庆功宴	qing gong yan	1495
+倾国倾城	qing guo qing cheng	868
+晴好	qing hao	329
+情怀	qing huai	4057
+青黄不接	qing huang bu jie	3151
+倾家荡产	qing jia dang chan	322
+晴空	qing kong	2601
+青睐	qing lai	6096
+清朗	qing lang	921
+清理	qing li	5573
+清廉	qing lian	2264
+清亮	qing liang	1078
+清凉	qing liang	1864
+轻描淡写	qing miao dan xie	4351
+清盘令	qing pan ling	3051
+轻巧	qing qiao	3862
+清清白白	qing qing bai bai	258
+清泉	qing quan	403
+青山依旧在	qing shan yi jiu zai	208
+轻生	qing sheng	493
+清爽	qing shuang	801
+轻松	qing song	5497
+清算	qing suan	4646
+擎天柱	qing tian zhu	1625
+清退	qing tui	3583
+清晰	qing xi	6055
+清晰的	qing xi de	96
+清香	qing xiang	256
+倾销	qing xiao	3956
+倾心	qing xin	3183
+清新	qing xin	5032
+庆幸	qing xing	1553
+情义	qing yi	626
+情意	qing yi	122
+轻盈	qing ying	1701
+情缘	qing yuan	4557
+清正	qing zheng	1035
+轻装	qing zhuang	4887
+轻装上阵	qing zhuang shang zhen	3654
+琼浆	qiong jiang	615
+穷途	qiong tu	2550
+穷途末路	qiong tu mo lu	2559
+秋后算账	qiu hou suan zhang	1679
+求进	qiu jin	2249
+囚徒困境	qiu tu kun jing	2832
+秋雨梧桐叶落时	qiu yu wu tong ye luo shi	306
+求真务实	qiu zhen wu shi	931
+取保候审	qu bao hou shen	2541
+蛆虫	qu chong	2104
+去粗取精	qu cu qu jing	4033
+取道	qu dao	3870
+屈服	qu fu	295
+曲高和寡	qu gao he gua	234
+曲解	qu jie	2430
+取经	qu jing	2749
+取利	qu li	3475
+趋利避害	qu li bi hai	1944
+去劣	qu lie	437
+去泡沫	qu pao mo	252
+取胜	qu sheng	4952
+趋势明朗	qu shi ming lang	551
+去伪存真	qu wei cun zhen	895
+取消	qu xiao	4799
+曲折	qu zhe	3310
+去职	qu zhi	5885
+趋之若鹜	qu zhi ruo wu	1567
+全部达标	quan bu da biao	3553
+全才	quan cai	2268
+圈定	quan ding	5176
+全军覆没	quan jun fu mo	2018
+全力以赴	quan li yi fu	3231
+全面	quan mian	5795
+全面发力	quan mian fa li	6054
+全面风险管理	quan mian feng xian guan li	3704
+全面开放	quan mian kai fang	4031
+全面实施	quan mian shi shi	4236
+权谋	quan mou	2492
+全能	quan neng	3907
+全能的	quan neng de	64
+全能型	quan neng xing	4296
+全球化	quan qiu hua	4879
+全胜	quan sheng	1361
+权属纠纷	quan shu jiu fen	1983
+全速	quan su	2728
+权威	quan wei	3822
+全线飘红	quan xian piao hong	5463
+全线下挫	quan xian xia cuo	5793
+全心	quan xin	1935
+全心全意	quan xin quan yi	4068
+全优	quan you	1218
+缺乏	que fa	3812
+缺憾	que han	2733
+缺斤短两	que jin duan liang	3486
+确认	que ren	6008
+缺失	que shi	5657
+缺水	que shui	342
+缺陷	que xian	5389
+缺血	que xue	1755
+群策群力	qun ce qun li	1105
+裙带	qun dai	1841
+裙带关系	qun dai guan xi	1279
+群芳争艳	qun fang zheng yan	478
+群龙无首	qun long wu shou	3290
+群起	qun qi	4953
+群星	qun xing	5023
+群雄	qun xiong	4280
+群英	qun ying	3054
+群英会	qun ying hui	3418
+染病	ran bing	2735
+冉冉	ran ran	1882
+让利	rang li	6222
+让位	rang wei	5352
+让贤	rang xian	3524
+扰动	rao dong	4298
+扰乱	rao luan	5220
+扰民	rao min	1513
+热爱	re ai	1811
+热潮	re chao	4999
+热忱	re chen	219
+热诚	re cheng	1004
+热点	re dian	6078
+惹火	re huo	481
+惹祸	re huo	5119
+热火朝天	re huo chao tian	785
+惹麻烦	re ma fan	3147
+热门	re men	5637
+惹恼	re nao	795
+热闹	re nao	4046
+惹事	re shi	1743
+热土	re tu	701
+热血	re xue	2957
+热衷	re zhong	6141
+人才辈出	ren cai bei chu	2126
+仁慈	ren ci	1545
+人丁兴旺	ren ding xing wang	2148
+人祸	ren huo	1198
+韧劲	ren jin	40
+人尽其才	ren jin qi cai	888
+任劳任怨	ren lao ren yuan	628
+人流	ren liu	1481
+人命	ren ming	1642
+任人摆布	ren ren bai bu	3528
+仁寿	ren shou	34
+忍受	ren shou	3765
+忍痛	ren tong	3211
+忍痛割爱	ren tong ge ai	5451
+任我行	ren wo xing	1425
+人心齐泰山移	ren xin qi tai shan yi	2366
+仁心仁术	ren xin ren shu	889
+人性化	ren xing hua	4997
+仁义	ren yi	1492
+人缘	ren yuan	3642
+仁者	ren zhe	1496
+人治	ren zhi	5627
+任重道远	ren zhong dao yuan	3924
+仍将保持	reng jiang bao chi	3838
+仍将维持	reng jiang wei chi	5382
+仍看好	reng kan hao	2711
+日新月异	ri xin yue yi	2681
+日益明显	ri yi ming xian	584
+日臻完善	ri zhen wan shan	1084
+荣登	rong deng	5672
+融合	rong he	6032
+荣获	rong huo	4961
+融洽	rong qia	3084
+融融	rong rong	1827
+融入	rong ru	4824
+荣辱与共	rong ru yu gong	1097
+荣升	rong sheng	2108
+融为一体	rong wei yi ti	99
+荣幸	rong xing	619
+荣耀	rong yao	3448
+荣誉	rong yu	5502
+冗员	rong yuan	335
+融资压力	rong zi ya li	2347
+肉搏战	rou bo zhan	3342
+柔和	rou he	473
+蹂躏	rou lin	2552
+柔情	rou qing	1163
+柔韧	rou ren	492
+入不敷出	ru bu fu chu	2012
+如春	ru chun	1955
+如鲠在喉	ru geng zai hou	185
+入股	ru gu	6052
+如虎添翼	ru hu tian yi	6148
+如履薄冰	ru lv bo bing	2341
+如日中天	ru ri zhong tian	3104
+入世	ru shi	4771
+入围	ru wei	5662
+如意	ru yi	4158
+入狱	ru yu	436
+如鱼得水	ru yu de shui	3834
+如愿	ru yuan	4622
+如愿以偿	ru yuan yi chang	1981
+入主	ru zhu	6010
+孺子牛	ru zi niu	1528
+软件故障	ruan jian gu zhang	3984
+软弱	ruan ruo	1664
+软硬兼施	ruan ying jian shi	5058
+锐减	rui jian	3585
+瑞雪	rui xue	1001
+瑞雪兆丰年	rui xue zhao feng nian	2842
+锐意进取	rui yi jin qu	5256
+润物细无声	run wu xi wu sheng	1019
+润泽	run ze	5072
+弱势	ruo shi	4140
+弱势群体	ruo shi qun ti	5507
+弱者	ruo zhe	1332
+撒酒疯	sa jiu feng	2187
+撒手	sa shou	3064
+洒脱	sa tuo	1886
+撒野	sa ye	808
+散兵	san bing	540
+三好	san hao	2447
+三级跳	san ji tiao	4977
+三缄其口	san jian qi kou	1309
+三无	san wu	5099
+三疑	san yi	926
+丧失	sang shi	4487
+扫荡	sao dang	2321
+骚动	sao dong	2869
+色彩纷呈	se cai fen cheng	407
+色情	se qing	945
+瑟瑟	se se	5617
+僧多粥少	seng duo zhou shao	1754
+刹车	sha che	6224
+傻瓜	sha gua	3542
+杀回马枪	sha hui ma qiang	4863
+杀鸡取卵	sha ji qu luan	2890
+杀气腾腾	sha qi teng teng	3852
+杀手	sha shou	6044
+铩羽而归	sha yu er gui	4391
+擅长	shan chang	1229
+善待	shan dai	3431
+煽动	shan dong	4939
+删繁就简	shan fan jiu jian	1165
+闪光	shan guang	4263
+善果	shan guo	489
+善举	shan ju	3648
+闪亮	shan liang	4923
+山穷水尽	shan qiong shui jin	326
+闪闪	shan shan	241
+闪烁其词	shan shuo qi ci	3075
+闪耀	shan yao	5083
+善意	shan yi	911
+善用	shan yong	4586
+善于	shan yu	4348
+山雨欲来风满楼	shan yu yu lai feng man lou	2585
+擅自	shan zi	2574
+伤疤	shang ba	2643
+商标侵权	shang biao qin quan	2185
+上策	shang ce	435
+上档次	shang dang ci	3664
+赏罚分明	shang fa fen ming	494
+上规模	shang gui mo	2778
+伤害	shang hai	5512
+上好	shang hao	1040
+上马	shang ma	4004
+伤情	shang qing	811
+上善若水	shang shan ruo shui	5425
+上升	shang sheng	6192
+上升空间	shang sheng kong jian	3436
+上升趋势	shang sheng qu shi	2608
+上升通道	shang sheng tong dao	4909
+上市计划	shang shi ji hua	3582
+上市交易	shang shi jiao yi	3178
+上市日期	shang shi ri qi	4032
+上诉	shang su	4496
+伤亡	shang wang	2333
+上位	shang wei	4551
+尚未取得	shang wei qu de	4141
+伤心	shang xin	3081
+赏心悦目	shang xin yue mu	2422
+上扬	shang yang	5611
+商业贿赂	shang ye hui lu	3276
+商业模式	shang ye mo shi	5918
+上涨	shang zhang	6128
+上涨的	shang zhang de	2423
+上涨动力	shang zhang dong li	3603
+上涨幅度	shang zhang fu du	1705
+上涨行情	shang zhang hang qing	441
+烧毁	shao hui	705
+涉案	she an	2884
+涉案人员	she an ren yuan	3726
+舍本逐末	she ben zhu mo	3149
+奢侈	she chi	3459
+社会效益	she hui xiao yi	1067
+社会责任	she hui ze ren	5529
+舍近求远	she jin qiu yuan	222
+涉猎	she lie	1230
+舍弃	she qi	4102
+奢望	she wang	2734
+舍我其谁	she wo qi shui	1302
+涉嫌	she xian	5772
+涉险	she xian	2988
+涉嫌受贿罪	she xian shou hui zui	773
+舌战群儒	she zhan qun ru	1602
+赊账	she zhang	2502
+身败名裂	shen bai ming lie	1536
+深不可测	shen bu ke ce	362
+身不由己	shen bu you ji	5812
+审查起诉	shen cha qi su	4511
+神出鬼没	shen chu gui mo	4485
+身单力薄	shen dan li bo	427
+神灯	shen deng	621
+身登青云梯	shen deng qing yun ti	901
+神功	shen gong	1027
+深厚	shen hou	3445
+深化	shen hua	4866
+深化改革	shen hua gai ge	3669
+身患	shen huan	466
+身价百倍	shen jia bai bei	341
+审结	shen jie	3001
+深刻	shen ke	1113
+渗漏	shen lou	36
+深谋远虑	shen mou yuan lv	210
+审判	shen pan	2863
+神奇	shen qi	3779
+深切	shen qie	1177
+深情	shen qing	1648
+深情厚谊	shen qing hou yi	765
+申请破产	shen qing po chan	4810
+申请专利	shen qing zhuan li	5038
+深入人心	shen ru ren xin	2151
+神圣	shen sheng	1107
+审时度势	shen shi duo shi	3446
+深思熟虑	shen si shu lv	2055
+神速	shen su	2752
+神算	shen suan	3053
+神通	shen tong	4238
+神威	shen wei	1896
+深陷	shen xian	6173
+身先士卒	shen xian shi zu	726
+呻吟	shen yin	5468
+深渊	shen yuan	4647
+深远	shen yuan	2058
+神韵	shen yun	959
+深造	shen zao	1454
+慎重	shen zhong	5869
+生病	sheng bing	2661
+生不逢时	sheng bu feng shi	4619
+生动	sheng dong	2042
+升格	sheng ge	6113
+升华	sheng hua	4165
+生辉	sheng hui	3580
+升级	sheng ji	6116
+生机盎然	sheng ji ang ran	2030
+圣洁	sheng jie	1959
+盛景	sheng jing	3257
+盛举	sheng ju	2240
+盛况	sheng kuang	1052
+盛况空前	sheng kuang kong qian	2241
+省力	sheng li	1505
+胜利	sheng li	4995
+胜利者	sheng li zhe	355
+生龙活虎	sheng long huo hu	2597
+生命力	sheng ming li	5535
+声名鹊起	sheng ming que qi	2281
+盛年	sheng nian	251
+升起	sheng qi	1881
+胜券	sheng quan	934
+胜任	sheng ren	340
+胜人一筹	sheng ren yi chou	2407
+生生不息	sheng sheng bu xi	484
+升势	sheng shi	4147
+盛世	sheng shi	3426
+省时	sheng shi	1995
+胜似	sheng si	1449
+胜诉	sheng su	5214
+胜算	sheng suan	4428
+声讨	sheng tao	3222
+升温	sheng wen	4235
+生效	sheng xiao	4246
+省心	sheng xin	1994
+盛行	sheng xing	5009
+盛宴难再	sheng yan nan zai	1272
+盛誉	sheng yu	1552
+声援	sheng yuan	6038
+盛赞	sheng zan	3818
+胜仗	sheng zhang	1299
+盛装	sheng zhuang	3695
+失败	shi bai	5810
+事半功倍	shi ban gong bei	2376
+事倍功半	shi bei gong ban	533
+蚀本	shi ben	4119
+事变	shi bian	2556
+势不可当	shi bu ke dang	1491
+势不可挡	shi bu ke dang	2943
+失策	shi ce	1223
+失察	shi cha	3253
+市场风险	shi chang feng xian	5806
+市场开发	shi chang kai fa	3107
+市场疲软	shi chang pi ruan	2652
+市场潜力	shi chang qian li	5589
+市场追捧	shi chang zhui peng	3701
+失宠	shi chong	3093
+师出有名	shi chu you ming	456
+实打实	shi da shi	1269
+失当	shi dang	1614
+师德	shi de	2267
+适得其反	shi de qi fan	1
+失掉	shi diao	1262
+适度	shi du	2468
+失而复得	shi er fu de	3746
+示范	shi fan	5973
+示范点	shi fan dian	3679
+示范岗	shi fan gang	679
+示范效应	shi fan xiao ying	5679
+适逢	shi feng	1817
+实干	shi gan	4162
+实干家	shi gan jia	1696
+事故	shi gu	3743
+失和	shi he	465
+适合	shi he	4992
+失衡	shi heng	5831
+实话实说	shi hua shi shuo	4828
+实惠	shi hui	4446
+失火	shi huo	2017
+实绩	shi ji	702
+时机不对	shi ji bu dui	1383
+实际损失	shi ji sun shi	564
+时艰	shi jian	1809
+时间较长	shi jian jiao chang	2487
+世界顶级	shi jie ding ji	2000
+失控	shi kong	4500
+矢口否认	shi kou fou ren	2290
+失利	shi li	3914
+实力派	shi li pai	2760
+失恋	shi lian	1347
+适量	shi liang	965
+失灵	shi ling	3843
+始乱终弃	shi luan zhong qi	806
+失落	shi luo	5841
+时髦	shi mao	3106
+十面埋伏	shi mian mai fu	3793
+失明	shi ming	1483
+十拿九稳	shi na jiu wen	1310
+十年磨剑	shi nian mo jian	1929
+十年磨一剑	shi nian mo yi jian	2437
+十年一剑	shi nian yi jian	1548
+史前	shi qian	87
+失窃	shi qie	1613
+失去	shi qu	5246
+失色	shi se	3997
+失慎	shi shen	236
+失实	shi shi	1723
+誓师	shi shi	4908
+适时	shi shi	6195
+实事求是	shi shi qiu shi	1434
+实实在在	shi shi zai zai	4803
+失守	shi shou	2074
+失手	shi shou	5159
+失算	shi suan	4673
+尸体	shi ti	1306
+势头	shi tou	5995
+失望	shi wang	2630
+式微	shi wei	2203
+失误	shi wu	5355
+史无前例	shi wu qian li	2406
+失陷	shi xian	2180
+实现双赢	shi xian shuang ying	3622
+失效	shi xiao	5147
+适销对路	shi xiao dui lu	5849
+失信	shi xin	4435
+时新	shi xin	156
+失血	shi xue	5141
+食言	shi yan	6080
+失意	shi yi	2318
+实益	shi yi	1878
+诗意	shi yi	1192
+实用主义	shi yong zhu yi	4975
+失约	shi yue	2901
+实在	shi zai	2453
+势在必行	shi zai bi xing	5437
+失真	shi zhen	5034
+失职	shi zhi	2399
+矢志	shi zhi	5267
+矢志不渝	shi zhi bu yu	2727
+失之交臂	shi zhi jiao bi	4096
+实至名归	shi zhi ming gui	567
+市值损失	shi zhi sun shi	11
+市值缩水	shi zhi suo shui	1588
+失踪	shi zong	3749
+十足	shi zu	5175
+失足	shi zu	3967
+首案	shou an	1833
+守本分	shou ben fen	517
+收兵	shou bing	4444
+收场	shou chang	3655
+收成	shou cheng	5756
+受宠	shou chong	5539
+受挫	shou cuo	5156
+首当其冲	shou dang qi chong	603
+受到市场青睐	shou dao shi chang qing lai	2154
+受罚	shou fa	4098
+守法	shou fa	2101
+收复	shou fu	4159
+首富	shou fu	5587
+受关注	shou guan zhu	6150
+受害	shou hai	723
+受害人	shou hai ren	3103
+受害者	shou hai zhe	2276
+受惠	shou hui	5054
+受贿	shou hui	3175
+受贿案	shou hui an	1065
+收回投资	shou hui tou zi	3728
+售假	shou jia	2188
+受惊	shou jing	1925
+收盘跌	shou pan die	1162
+受骗	shou pian	3254
+首屈一指	shou qu yi zhi	1372
+受让	shou rang	5677
+收入锐减	shou ru rui jian	1779
+手软	shou ruan	6065
+受伤	shou shang	5690
+受损	shou sun	3741
+手头紧	shou tou jin	1638
+首位	shou wei	5783
+首席	shou xi	6023
+受限	shou xian	4522
+收效甚微	shou xiao shen wei	2883
+守信	shou xin	2153
+受益	shou yi	6072
+收益	shou yi	5343
+受益匪浅	shou yi fei qian	230
+受益者	shou yi zhe	5521
+收益最大	shou yi zui da	1194
+首映	shou ying	4300
+授予	shou yu	5923
+首战告捷	shou zhan gao jie	3846
+受制	shou zhi	5905
+收之桑榆	shou zhi sang yu	535
+受制于人	shou zhi yu ren	2467
+守株待兔	shou zhu dai tu	2245
+受阻	shou zu	5237
+数二	shu er	1622
+抒发	shu fa	3099
+束缚	shu fu	1442
+舒服	shu fu	594
+曙光	shu guang	5353
+疏忽	shu hu	2859
+舒缓	shu huan	1335
+输家	shu jia	4640
+舒筋	shu jin	3435
+赎金	shu jin	6203
+舒筋活血	shu jin huo xue	4112
+数据差错	shu ju cha cuo	2175
+树立	shu li	4855
+梳理	shu li	5357
+疏漏	shu lou	5342
+树人	shu ren	1056
+殊荣	shu rong	5014
+属实	shu shi	4540
+舒适	shu shi	5857
+束手待毙	shu shou dai bi	2895
+束手无策	shu shou wu ce	278
+输送	shu song	4825
+殊途同归	shu tu tong gui	5448
+抒写	shu xie	4405
+耍花招	shua hua zhao	642
+耍赖	shua lai	1402
+刷新	shua xin	6182
+刷子	shua zi	1919
+衰败	shuai bai	2005
+衰减	shuai jian	4769
+衰竭	shuai jie	2336
+衰竭的	shuai jie de	140
+衰落	shuai luo	3761
+甩卖	shuai mai	5575
+甩手	shuai shou	2862
+衰退	shuai tui	4998
+衰退期	shuai tui qi	271
+率先	shuai xian	5996
+率先垂范	shuai xian chui fan	614
+率先推出	shuai xian tui chu	5042
+双重压力	shuang chong ya li	4012
+双管齐下	shuang guan qi xia	4906
+双双	shuang shuang	6138
+双双涨停	shuang shuang zhang ting	1445
+双喜临门	shuang xi lin men	3414
+爽约	shuang yue	3316
+双增长	shuang zeng zhang	5759
+水到渠成	shui dao qu cheng	5426
+水患	shui huan	3067
+水门	shui men	424
+水深火热	shui shen huo re	745
+税收减免	shui shou jian mian	2730
+水土不服	shui tu bu fu	3835
+水淹	shui yan	32
+水灾	shui zai	5200
+水中月	shui zhong yue	3045
+顺产	shun chan	1058
+顺畅	shun chang	4069
+顺境	shun jing	5490
+顺利	shun li	5835
+顺理成章	shun li cheng zhang	5421
+顺利完成	shun li wan cheng	5204
+顺势	shun shi	5764
+顺势完成	shun shi wan cheng	1444
+顺水人情	shun shui ren qing	2759
+顺水推舟	shun shui tui zhou	1286
+顺应	shun ying	5792
+说辞	shuo ci	4125
+说法不一	shuo fa bu yi	3376
+硕果	shuo guo	5513
+硕果累累	shuo guo lei lei	5443
+说谎	shuo huang	1366
+硕鼠	shuo shu	1965
+丝绸之路	si chou zhi lu	3455
+死地	si di	4806
+死而无怨	si er wu yuan	2893
+死胡同	si hu tong	2196
+死缓	si huan	4434
+死灰复燃	si hui fu ran	4094
+伺机	si ji	5886
+死结	si jie	2587
+私利	si li	4654
+死里逃生	si li tao sheng	775
+四两拨千斤	si liang bo qian jin	5027
+死路一条	si lu yi tiao	814
+四面楚歌	si mian chu ge	5773
+肆虐	si nue	2474
+撕破脸	si po lian	3841
+厮杀	si sha	2299
+死伤	si shang	611
+死神	si shen	4813
+似是而非	si shi er fei	3760
+丝丝入扣	si si ru kou	376
+肆无忌惮	si wu ji dan	3086
+私下	si xia	5371
+思想家	si xiang jia	654
+思想交流	si xiang jiao liu	125
+思想解放	si xiang jie fang	472
+死心	si xin	849
+死刑	si xing	5110
+肆行	si xing	1081
+肆意	si yi	1872
+四载	si zai	3163
+讼案	song an	4708
+松绑	song bang	3988
+送电	song dian	4626
+送红股	song hong gu	3686
+松劲	song jin	1221
+送死	song si	4609
+松懈	song xie	1860
+怂恿	song yong	2463
+素净	su jing	477
+诉讼	su song	5285
+诉讼费	su song fei	5188
+诉讼时效	su song shi xiao	3008
+诉状	su zhuang	3146
+酸败	suan bai	415
+酸楚	suan chu	1401
+算旧账	suan jiu zhang	2291
+算账	suan zhang	2926
+随机应变	sui ji ying bian	5887
+随意	sui yi	1775
+损害	sun hai	2626
+损坏	sun huai	5035
+损毁	sun hui	1014
+损伤	sun shang	631
+损失	sun shi	5496
+损失惨重	sun shi can zhong	1968
+索偿	suo chang	4436
+所得税减免	suo de shui jian mian	2576
+索贿	suo hui	73
+缩减	suo jian	4770
+缩量回调	suo liang hui tiao	2363
+所涉	suo she	5172
+所剩无几	suo sheng wu ji	709
+缩水	suo shui	5972
+缩小	suo xiao	3476
+索要	suo yao	4499
+塌方	ta fang	955
+踏空	ta kong	5212
+他山之石	ta shan zhi shi	1867
+踏踏实实	ta ta shi shi	2563
+泰斗	tai dou	923
+态度好	tai du hao	1464
+抬高	tai gao	3649
+泰宁	tai ning	1641
+太平盛世	tai ping sheng shi	783
+坦陈	tan chen	4844
+坦诚	tan cheng	3234
+坦诚相见	tan cheng xiang jian	612
+贪大求全	tan da qiu quan	345
+探底回升	tan di hui sheng	4022
+谈定	tan ding	1029
+谈何容易	tan he rong yi	1739
+袒护	tan hu	26
+昙花一现	tan hua yi xian	2801
+瘫痪	tan huan	3900
+探路	tan lu	6009
+坦然	tan ran	1870
+探索	tan suo	6171
+探索者	tan suo zhe	4584
+坍塌	tan ta	2590
+忐忑	tan te	3745
+贪图	tan tu	68
+叹为观止	tan wei guan zhi	2654
+贪污	tan wu	3531
+贪污受贿	tan wu shou hui	929
+谈心	tan xin	1143
+搪塞	tang se	1785
+烫伤	tang shang	3829
+堂堂正正	tang tang zheng zheng	479
+逃避	tao bi	2280
+讨伐	tao fa	463
+逃犯	tao fan	200
+韬光养晦	tao guang yang hui	722
+讨好	tao hao	3305
+逃荒	tao huang	1375
+套牢	tao lao	4583
+套利	tao li	4453
+逃离	tao li	4378
+桃李不言	tao li bu yan	617
+套利机会	tao li ji hui	6162
+套利资金	tao li zi jin	3215
+逃命	tao ming	5591
+逃跑	tao pao	964
+掏钱	tao qian	3484
+讨巧	tao qiao	1484
+套取	tao qu	2818
+逃散	tao san	457
+逃生	tao sheng	2094
+逃税	tao shui	2140
+淘汰	tao tai	5698
+逃脱	tao tuo	3294
+逃亡	tao wang	4705
+逃逸	tao yi	4103
+讨债	tao zhai	3594
+逃之夭夭	tao zhi yao yao	1572
+特别	te bie	4616
+特别处理	te bie chu li	5350
+特别的	te bie de	3739
+特产	te chan	3461
+特困	te kun	2373
+特立独行	te li du xing	2819
+特效	te xiao	672
+腾达	teng da	4602
+腾飞	teng fei	5409
+腾挪	teng nuo	4815
+腾越	teng yue	1863
+提拔	ti ba	112
+提高	ti gao	6139
+提供更多	ti gong geng duo	2381
+提价	ti jia	6097
+体谅	ti liang	5746
+体面	ti mian	3098
+提名奖	ti ming jiang	3474
+提前	ti qian	6209
+提前布局	ti qian bu ju	3623
+提前还贷	ti qian huan dai	2405
+提前终止	ti qian zhong zhi	4675
+提亲	ti qin	3420
+提升	ti sheng	6147
+提示风险	ti shi feng xian	5111
+提速	ti su	5904
+提携	ti xie	3932
+体制改革	ti zhi gai ge	3682
+天道酬勤	tian dao chou qin	4084
+添丁	tian ding	3272
+天鹅	tian e	5283
+天高任鸟飞	tian gao ren niao fei	401
+天价	tian jia	4354
+天籁	tian lai	1178
+天量	tian liang	5594
+添乱	tian luan	3295
+甜蜜	tian mi	3805
+天穹	tian qiong	1303
+甜头	tian tou	3905
+天下第一	tian xia di yi	4237
+天下谁人不识君	tian xia shei ren bu shi jun	3670
+天下为公	tian xia wei gong	431
+天灾人祸	tian zai ren huo	3304
+天真	tian zhen	3050
+添置	tian zhi	2781
+天之骄子	tian zhi jiao zi	311
+添砖加瓦	tian zhuan jia wa	1498
+跳槽	tiao cao	3769
+挑大梁	tiao da liang	4115
+挑逗	tiao dou	3794
+调回	tiao hui	42
+调减	tiao jian	5742
+调解	tiao jie	3150
+跳楼	tiao lou	5699
+挑毛病	tiao mao bing	62
+调升	tiao sheng	2758
+挑食	tiao shi	1604
+跳水	tiao shui	5516
+跳跃式增长	tiao yue shi zeng zhang	4166
+铁法	tie fa	2248
+铁饭碗	tie fan wan	1172
+铁公鸡	tie gong ji	5695
+铁骨	tie gu	1649
+铁肩担道义	tie jian dan dao yi	1038
+铁骑	tie qi	601
+贴心	tie xin	4889
+贴心人	tie xin ren	1915
+停产	ting chan	4903
+停顿	ting dun	5378
+铤而走险	ting er zou xian	4071
+停工	ting gong	5769
+挺进	ting jin	5442
+停牌	ting pai	6164
+停牌调查	ting pai diao cha	4558
+挺身	ting shen	4809
+挺身而出	ting shen er chu	95
+停止	ting zhi	5243
+停滞	ting zhi	4479
+停职	ting zhi	3262
+停滞不前	ting zhi bu qian	661
+停止经营	ting zhi jing ying	2670
+同比上涨	tong bi shang zhang	6124
+通病	tong bing	5107
+通畅	tong chang	2547
+痛斥	tong chi	3361
+统筹兼顾	tong chou jian gu	1042
+痛处	tong chu	2495
+痛楚	tong chu	2836
+同床异梦	tong chuang yi meng	6
+通牒	tong die	4661
+痛定思痛	tong ding si tong	4898
+痛改前非	tong gai qian fei	2549
+同甘共苦	tong gan gong ku	5586
+通关	tong guan	4368
+童话	tong hua	3322
+通缉	tong ji	1922
+同居	tong ju	3181
+痛苦	tong ku	2617
+痛快	tong kuai	807
+通力合作	tong li he zuo	548
+通亮	tong liang	1740
+通脉	tong mai	3434
+同盟	tong meng	3643
+痛失	tong shi	4579
+同室操戈	tong shi cao ge	3719
+痛心	tong xin	2368
+同心同德	tong xin tong de	892
+同心协力	tong xin xie li	636
+通胀	tong zhang	2960
+同舟共济	tong zhou gong ji	4175
+头筹	tou chou	5625
+头等	tou deng	5523
+偷渡	tou du	5370
+头功	tou gong	725
+投机	tou ji	4577
+投机的	tou ji de	4578
+投机者	tou ji zhe	1139
+偷梁换柱	tou liang huan zhu	2289
+偷漏税	tou lou shui	1624
+透明	tou ming	5651
+头破血流	tou po xue liu	1764
+投石问路	tou shi wen lu	5921
+偷税	tou shui	2977
+偷税漏税	tou shui lou shui	2181
+投诉	tou su	3533
+偷逃	tou tao	556
+偷逃税	tou tao shui	2846
+头疼	tou teng	1500
+头痛医头	tou tong yi tou	707
+偷袭	tou xi	3228
+透支	tou zhi	6201
+投资大师	tou zi da shi	3703
+投资风险	tou zi feng xian	3754
+投资高手	tou zi gao shou	754
+投资失败	tou zi shi bai	1520
+投资收益	tou zi shou yi	4970
+投资损失	tou zi sun shi	3529
+投资小	tou zi xiao	1541
+投资有道	tou zi you dao	3976
+投资增长	tou zi zeng zhang	3068
+投资战略	tou zi zhan lue	2424
+投资者青睐	tou zi zhe qing lai	1618
+偷走	tou zou	1376
+土崩瓦解	tu beng wa jie	2419
+突出	tu chu	5574
+突出问题	tu chu wen ti	1212
+屠刀	tu dao	2985
+突发	tu fa	3213
+突飞猛进	tu fei meng jin	2505
+吐故纳新	tu gu na xin	4785
+土豪	tu hao	6025
+突进	tu jin	4883
+突破	tu po	6210
+突破口	tu po kou	6066
+突破性	tu po xing	4286
+吐气扬眉	tu qi yang mei	4949
+突如其来	tu ru qi lai	4277
+突围	tu wei	5799
+突兀	tu wu	595
+吐血	tu xie	1307
+团结	tuan jie	3248
+团圆	tuan yuan	1010
+颓败	tui bai	604
+退避三舍	tui bi san she	3530
+蜕变	tui bian	5629
+推波助澜	tui bo zhu lan	788
+退步	tui bu	2079
+退场	tui chang	4040
+退潮	tui chao	5636
+推陈出新	tui chen chu xin	5430
+推迟	tui chi	4559
+推崇	tui chong	3816
+推出	tui chu	5822
+腿的	tui de	1088
+推动	tui dong	6046
+推广	tui guang	5953
+退换	tui huan	1562
+退货	tui huo	3713
+推荐	tui jian	5036
+推进	tui jin	6106
+推进改革	tui jin gai ge	2699
+颓然	tui ran	2665
+褪色	tui shai	4531
+退市	tui shi	5356
+颓势	tui shi	4623
+退守	tui shou	6175
+退税	tui shui	5101
+退缩	tui suo	2054
+推诿	tui wei	2324
+退位	tui wei	3520
+推卸	tui xie	1859
+推行	tui xing	4984
+推延	tui yan	3399
+吞噬	tun shi	3179
+吞吞吐吐	tun tun tu tu	4152
+拖后腿	tuo hou tui	2754
+拓荒	tuo huang	1694
+拓荒者	tuo huang zhe	1824
+拖家带口	tuo jia dai kou	856
+拖垮	tuo kua	2766
+脱困	tuo kun	3937
+拖累	tuo lei	5978
+脱贫	tuo pin	2906
+脱贫致富	tuo pin zhi fu	1110
+拖欠	tuo qian	6202
+唾手可得	tuo shou ke de	3281
+拖沓	tuo ta	502
+脱胎换骨	tuo tai huan gu	5360
+脱逃	tuo tao	316
+脱险	tuo xian	2069
+脱销	tuo xiao	4931
+拖延	tuo yan	4827
+脱颖而出	tuo ying er chu	5007
+瓦解	wa jie	3584
+挖肉补疮	wa rou bu chuang	877
+歪打正着	wai da zheng zhao	2130
+外行	wai hang	3422
+外患	wai huan	304
+歪曲	wai qu	2672
+外伤	wai shang	3122
+外渗	wai shen	30
+外逃	wai tao	1721
+外销	wai xiao	4979
+外泄	wai xie	1765
+外援	wai yuan	3979
+外圆内方	wai yuan nei fang	1465
+外债	wai zhai	428
+外资	wai zi	5387
+完备	wan bei	2457
+完成	wan cheng	6208
+完成投资	wan cheng tou zi	3609
+完工	wan gong	4111
+玩火	wan huo	1831
+顽疾	wan ji	4988
+万家和谐	wan jia he xie	3576
+万劫	wan jie	683
+挽救	wan jiu	4590
+玩乐	wan le	837
+万里红	wan li hong	1131
+万马奔腾	wan ma ben teng	1905
+万难	wan nan	1071
+万能	wan neng	5819
+玩弄	wan nong	734
+万人迷	wan ren mi	767
+剜肉补疮	wan rou bu chuang	299
+万事大吉	wan shi da ji	1544
+万事俱备	wan shi ju bei	6121
+万王之王	wan wang zhi wang	3318
+万无一失	wan wu yi shi	4047
+惋惜	wan xi	2202
+万一	wan yi	173
+万丈高楼平地起	wan zhang gao lou ping di qi	39
+完整	wan zheng	5128
+顽症	wan zheng	2814
+万紫千红总是春	wan zi qian hong zong shi chun	54
+王道	wang dao	4946
+望而却步	wang er que bu	155
+望风而逃	wang feng er tao	245
+旺季	wang ji	5106
+望梅止渴	wang mei zhi ke	2145
+网上路演	wang shang lu yan	2413
+旺盛	wang sheng	4739
+旺市	wang shi	5030
+妄图	wang tu	686
+旺销	wang xiao	2731
+王者	wang zhe	5613
+为保护	wei bao hu	4180
+违背	wei bei	4427
+围城	wei cheng	5412
+维持	wei chi	5057
+伟大	wei da	5801
+未达标	wei da biao	5808
+巍峨	wei e	1329
+违法	wei fa	5683
+违法犯罪	wei fa fan zui	1673
+违法行为	wei fa xing wei	5903
+违反	wei fan	5311
+危房	wei fang	2623
+围攻	wei gong	2688
+违规	wei gui	5899
+违规产品	wei gui chan pin	1971
+未果	wei guo	5345
+为国分忧	wei guo fen you	1034
+危害	wei hai	2339
+危及	wei ji	4717
+危急	wei ji	2412
+危机	wei ji	6079
+违纪	wei ji	1812
+危机四伏	wei ji si fu	927
+违禁	wei jin	420
+危局	wei ju	3293
+唯恐	wei kong	2545
+围困	wei kun	3383
+未来市场	wei lai shi chang	4892
+蔚蓝	wei lan	1888
+蔚蓝天空	wei lan tian kong	239
+违令	wei ling	961
+萎靡	wei mi	3264
+为民	wei min	1950
+为民请命	wei min qing ming	658
+为民造福	wei min zao fu	742
+威名	wei ming	838
+帷幕	wei mu	4191
+为难	wei nan	480
+危难	wei nan	4846
+畏难	wei nan	820
+未能幸免	wei neng xing mian	4838
+尾盘跳水	wei pan tiao shui	1934
+未披露	wei pi lu	4594
+委屈	wei qu	2656
+蔚然成风	wei ran cheng feng	5037
+危如累卵	wei ru lei luan	1829
+唯实	wei shi	622
+未实施	wei shi shi	2888
+萎缩	wei suo	5751
+为所欲为	wei suo yu wei	3160
+巍巍	wei wei	135
+慰问	wei wen	5466
+帷幄	wei wo	120
+威武	wei wu	1098
+危险	wei xian	6108
+微笑	wei xiao	4924
+威胁	wei xie	2331
+维新	wei xin	3503
+为有源头活水来	wei you yuan tou huo shui lai	2703
+未雨绸缪	wei yu chou mou	4734
+违约	wei yue	6136
+违约风险	wei yue feng xian	2583
+违约责任	wei yue ze ren	1126
+伪造	wei zao	5701
+微涨	wei zhang	1750
+违章	wei zhang	2805
+稳步	wen bu	5225
+稳步盘升	wen bu pan sheng	4553
+稳步前进	wen bu qian jin	2106
+稳步上行	wen bu shang xing	3751
+稳步上扬	wen bu shang yang	3223
+稳步增长	wen bu zeng zhang	5474
+稳产	wen chan	2252
+温床	wen chuang	205
+稳当	wen dang	3691
+稳定	wen ding	5546
+问鼎	wen ding	6022
+稳定股市	wen ding gu shi	640
+稳定上升	wen ding shang sheng	2936
+稳定增长	wen ding zeng zhang	5405
+闻风而逃	wen feng er tao	3073
+稳固	wen gu	5638
+温厚	wen hou	1907
+文化人	wen hua ren	1046
+稳健	wen jian	5981
+稳健增长	wen jian zeng zhang	5828
+文明	wen ming	5892
+温暖	wen nuan	2956
+温情	wen qing	5856
+问渠哪得清如许	wen qu na de qing ru xu	425
+文曲星	wen qu xing	854
+温热	wen re	852
+问题曝光	wen ti bao guang	1628
+问题解决	wen ti jie jue	203
+稳妥	wen tuo	1635
+温馨	wen xin	2377
+问心无愧	wen xin wu kui	490
+稳扎稳打	wen zha wen da	5050
+文治	wen zhi	444
+文质彬彬	wen zhi bin bin	450
+稳中求进	wen zhong qiu jin	2476
+稳中有进	wen zhong you jin	768
+稳中有升	wen zhong you sheng	2235
+稳住	wen zhu	3922
+问罪	wen zui	598
+卧病	wo bing	280
+卧虎藏龙	wo hu cang long	1314
+蜗居	wo ju	2038
+窝里斗	wo li dou	2390
+握手言和	wo shou yan he	5216
+握手言欢	wo shou yan huan	793
+卧薪尝胆	wo xin chang dan	2737
+蜗行牛步	wo xing niu bu	753
+斡旋	wo xuan	2510
+无碍	wu ai	5553
+舞弊	wu bi	774
+五彩缤纷	wu cai bin fen	451
+无偿	wu chang	5566
+误导	wu dao	5292
+无底洞	wu di dong	1932
+污点	wu dian	4472
+舞动	wu dong	3348
+无动于衷	wu dong yu zhong	690
+无法	wu fa	5647
+无方	wu fang	2068
+无风险套利	wu feng xian tao li	5558
+无氟	wu fu	560
+无故	wu gu	67
+无辜	wu gu	5954
+无故障	wu gu zhang	2026
+无害	wu hai	1903
+无悔	wu hui	3808
+误会	wu hui	1977
+无计可施	wu ji ke shi	227
+无价	wu jia	891
+误解	wu jie	6036
+物尽其用	wu jin qi yong	2238
+无可	wu ke	4759
+无可奈何	wu ke nai he	2892
+无可奈何花落去	wu ke nai he hua luo qu	2232
+无愧	wu kui	4563
+无愧于	wu kui yu	270
+无力	wu li	5696
+无力偿还	wu li chang huan	3240
+无力回天	wu li hui tian	2294
+无利可图	wu li ke tu	1448
+无聊	wu liao	170
+物美价廉	wu mei jia lian	2222
+无米之炊	wu mi zhi chui	3854
+无名小卒	wu ming xiao zu	274
+无名英雄	wu ming ying xiong	1914
+无名之辈	wu ming zhi bei	1059
+无奈	wu nai	5842
+误判	wu pan	758
+无期	wu qi	5190
+无期徒刑	wu qi tu xing	871
+无情	wu qing	3912
+误区	wu qu	3836
+无权	wu quan	3142
+污染	wu ran	5664
+污染的	wu ran de	1503
+污染水	wu ran shui	212
+无人问津	wu ren wen jin	3366
+误入歧途	wu ru qi tu	5414
+误伤	wu shang	4275
+务实	wu shi	4921
+无视	wu shi	3079
+误事	wu shi	2973
+污水	wu shui	3374
+无私	wu si	2964
+无私奉献	wu si feng xian	2570
+无望	wu wang	5273
+无妄之灾	wu wang zhi zai	3130
+无畏	wu wei	2569
+无微不至	wu wei bu zhi	1009
+无为而治	wu wei er zhi	2607
+无污染	wu wu ran	2308
+无效	wu xiao	4668
+无效案	wu xiao an	2605
+五星	wu xing	4882
+务虚	wu xu	3934
+无序	wu xu	2646
+无言以对	wu yan yi dui	4632
+无以为继	wu yi wei ji	580
+无用	wu yong	500
+无中生有	wu zhong sheng you	2523
+无助	wu zhu	4407
+无资格	wu zi ge	2817
+无罪	wu zui	2780
+喜爱	xi ai	3687
+惜败	xi bai	1753
+喜报	xi bao	3665
+喜从天降	xi cong tian jiang	2454
+洗黑钱	xi hei qian	1584
+熄火	xi huo	5809
+袭击	xi ji	4122
+洗劫	xi jie	2219
+喜结良缘	xi jie liang yuan	116
+犀利	xi li	487
+戏弄	xi nong	3510
+喜气洋洋	xi qi yang yang	1726
+喜迁	xi qian	2815
+喜庆	xi qing	4087
+喜人	xi ren	4249
+喜色	xi se	35
+牺牲品	xi sheng pin	4689
+喜事	xi shi	2254
+吸收	xi shou	3407
+系统风险	xi tong feng xian	3323
+系统故障	xi tong gu zhang	1413
+系统管理	xi tong guan li	1234
+悉心	xi xin	4067
+细心	xi xin	385
+洗心革面	xi xin ge mian	4991
+喜新厌旧	xi xin yan jiu	3187
+喜讯	xi xun	2931
+夕阳红	xi yang hong	2269
+吸引	xi yin	5980
+吸引力	xi yin li	5395
+喜迎	xi ying	5645
+喜盈门	xi ying men	2464
+喜悦	xi yue	1321
+狭隘	xia ai	5423
+瑕不掩瑜	xia bu yan yu	2121
+瑕疵	xia ci	5994
+下挫	xia cuo	5883
+下跌	xia die	5774
+下跌空间	xia die kong jian	5590
+下功夫	xia gong fu	3964
+下滑	xia hua	6123
+下降	xia jiang	5986
+下降趋势	xia jiang qu shi	664
+侠客	xia ke	147
+下马	xia ma	2392
+吓人	xia ren	1605
+下探	xia tan	2197
+下线	xia xian	4864
+下行	xia xing	5707
+下坠	xia zhui	113
+下自成蹊	xia zi cheng xi	616
+先拔头筹	xian ba tou chou	5540
+贤才	xian cai	3201
+献策	xian ce	4467
+先导	xian dao	4155
+先发制人	xian fa zhi ren	4965
+险峰	xian feng	4260
+献给	xian gei	3786
+陷害	xian hai	1595
+显赫	xian he	1969
+鲜活	xian huo	4919
+先机	xian ji	5073
+先进	xian jin	5722
+先进技术	xian jin ji shu	3629
+险境	xian jing	2019
+陷阱	xian jing	4963
+献礼	xian li	3329
+鲜亮	xian liang	2025
+显灵	xian ling	3268
+陷落	xian luo	2572
+鲜明	xian ming	4316
+纤巧	xian qiao	2451
+先驱	xian qu	4911
+陷入	xian ru	5232
+纤弱	xian ruo	2917
+险胜	xian sheng	2114
+先声夺人	xian sheng duo ren	804
+闲适	xian shi	131
+显失公平	xian shi gong ping	255
+险滩	xian tan	1333
+仙桃	xian tao	1973
+嫌隙	xian xi	720
+先下手为强	xian xia shou wei qiang	2093
+险象环生	xian xiang huan sheng	287
+显形	xian xing	3164
+鲜艳	xian yan	1421
+嫌疑	xian yi	5199
+嫌疑人	xian yi ren	833
+咸鱼	xian yu	4123
+陷于	xian yu	5379
+闲置	xian zhi	4727
+闲置设备	xian zhi she bei	908
+先知先觉	xian zhi xian jue	4509
+险阻	xian zu	459
+相悖	xiang bei	1261
+相传	xiang chuan	1688
+响当当	xiang dang dang	2743
+相得益彰	xiang de yi zhang	5453
+相对安全	xiang dui an quan	1159
+相对平稳	xiang dui ping wen	1047
+降服	xiang fu	2520
+相辅相成	xiang fu xiang cheng	1145
+祥和	xiang he	2361
+香花	xiang hua	1957
+相煎何急	xiang jian he ji	4574
+向前	xiang qian	4677
+相去甚远	xiang qu shen yuan	1315
+向上的	xiang shang de	5071
+向上趋势	xiang shang qu shi	1410
+向上突破	xiang shang tu po	3395
+享受	xiang shou	4362
+享受到	xiang shou dao	3776
+享受生活	xiang shou sheng huo	133
+香甜	xiang tian	337
+相通	xiang tong	1214
+相映	xiang ying	3581
+享用	xiang yong	3370
+享有	xiang you	3123
+享誉	xiang yu	2205
+相中	xiang zhong	5221
+襄助	xiang zhu	4039
+消除	xiao chu	5481
+小聪明	xiao cong ming	732
+孝道	xiao dao	3472
+小动作	xiao dong zuo	5372
+效仿	xiao fang	5428
+消费疲软	xiao fei pi ruan	503
+校风	xiao feng	2266
+小幅回落	xiao fu hui luo	1783
+效果好	xiao guo hao	5361
+小荷才露尖尖角	xiao he cai lu jian jian jiao	3546
+消化不良	xiao hua bu liang	3799
+消极	xiao ji	5697
+小金库	xiao jin ku	1912
+小精灵	xiao jing ling	2450
+小康	xiao kang	4910
+销量大增	xiao liang da zeng	5105
+效率	xiao lv	4333
+小跑	xiao pao	89
+小气	xiao qi	2228
+小巧	xiao qiao	2452
+潇洒	xiao sa	3125
+销售战略	xiao shou zhan lue	4226
+萧条	xiao tiao	2288
+枭雄	xiao xiong	974
+硝烟弥漫	xiao yan mi man	3354
+逍遥法外	xiao yao fa wai	528
+孝义	xiao yi	380
+效益	xiao yi	5840
+效益型	xiao yi xing	5475
+骁勇	xiao yong	18
+嚣张	xiao zhang	482
+孝子贤孙	xiao zi xian sun	370
+懈怠	xie dai	1693
+泄底	xie di	643
+卸掉	xie diao	5332
+亵渎	xie du	2925
+泄愤	xie fen	3359
+泄漏	xie lou	3480
+泄露	xie lou	5368
+泄密	xie mi	6002
+卸磨杀驴	xie mo sha lv	1459
+胁迫	xie po	3048
+协商不成	xie shang bu cheng	281
+携手	xie shou	6157
+携手同行	xie shou tong xing	1191
+泄私愤	xie si fen	1117
+协调	xie tiao	6199
+协同	xie tong	4017
+协同发展	xie tong fa zhan	3886
+协同效应	xie tong xiao ying	3693
+心病	xin bing	5912
+新春	xin chun	5069
+信贷支持	xin dai zhi chi	5446
+心得	xin de	3781
+信得过	xin de guo	1217
+新低	xin di	6040
+新低点	xin di dian	687
+心动	xin dong	4297
+新动力	xin dong li	3740
+心烦	xin fan	3767
+新风	xin feng	3506
+新高	xin gao	6053
+新高点	xin gao dian	1619
+心寒	xin han	268
+新行情	xin hang qing	4282
+心慌	xin huang	859
+新婚	xin hun	5766
+薪火	xin huo	1689
+新机	xin ji	6111
+新价值	xin jia zhi	4581
+新景观	xin jing guan	2061
+信赖	xin lai	4318
+新浪潮	xin lang chao	4328
+心理健康	xin li jian kang	209
+新龙头	xin long tou	5469
+新绿	xin lv	288
+心律失常	xin lv shi chang	3748
+新篇章	xin pian zhang	4404
+新品种	xin pin zhong	3438
+辛勤	xin qin	2897
+欣然	xin ran	1142
+信任	xin ren	5544
+信任危机	xin ren wei ji	5562
+新锐	xin rui	5384
+新生	xin sheng	4871
+新生化	xin sheng hua	2775
+新生活	xin sheng huo	5017
+新世界	xin shi jie	6130
+信守	xin shou	2028
+新思维	xin si wei	5403
+欣慰	xin wei	941
+心无旁骛	xin wu pang wu	3208
+信息不对称	xin xi bu dui chen	3019
+信息产业	xin xi chan ye	5019
+信息服务	xin xi fu wu	4257
+信息化	xin xi hua	5427
+信息技术	xin xi ji shu	4860
+信心	xin xin	5876
+欣欣向荣	xin xin xiang rong	1405
+新兴	xin xing	5234
+新兴产业	xin xing chan ye	4153
+新兴市场	xin xing shi chang	5104
+新秀	xin xiu	3875
+信用创造	xin yong chuang zao	4028
+信用危机	xin yong wei ji	2577
+心愿	xin yuan	2355
+心悦	xin yue	260
+新增	xin zeng	6143
+新增产能	xin zeng chan neng	2383
+新枝	xin zhi	4784
+心中有鬼	xin zhong you gui	1370
+心中有数	xin zhong you shu	346
+新装	xin zhuang	1655
+兴邦	xing bang	82
+行不通	xing bu tong	2718
+行得通	xing de tong	1621
+兴风作浪	xing feng zuo lang	5462
+幸福生活	xing fu sheng huo	4918
+行贿	xing hui	3280
+星火	xing huo	4189
+兴隆	xing long	2284
+行骗	xing pian	1658
+兴趣	xing qu	4204
+行善	xing shan	5666
+兴盛	xing sheng	970
+刑事	xing shi	4086
+醒狮	xing shi	1345
+形势严峻	xing shi yan jun	2708
+刑事责任	xing shi ze ren	5259
+形式主义	xing shi zhu yi	699
+形同虚设	xing tong xu she	5346
+兴旺	xing wang	2790
+星星之火	xing xing zhi huo	5790
+幸运儿	xing yun er	1292
+行政处罚	xing zheng chu fa	3365
+雄才	xiong cai	1171
+雄风	xiong feng	5642
+凶悍	xiong han	3170
+雄厚	xiong hou	4617
+胸怀	xiong huai	2783
+胸怀祖国	xiong huai zu guo	1170
+雄鸡	xiong ji	1132
+胸襟	xiong jin	863
+雄居	xiong ju	3800
+雄踞	xiong ju	5140
+熊市	xiong shi	2828
+雄师	xiong shi	98
+雄狮	xiong shi	3879
+凶险	xiong xian	1249
+雄心	xiong xin	4680
+雄心壮志	xiong xin zhuang zhi	1956
+雄姿	xiong zi	4213
+雄姿英发	xiong zi ying fa	3971
+修成	xiu cheng	5337
+修炼	xiu lian	4385
+秀美	xiu mei	2287
+休戚与共	xiu qi yu gong	942
+绣球	xiu qiu	5482
+羞辱	xiu ru	1866
+秀色	xiu se	2263
+修身	xiu shen	1287
+锈蚀	xiu shi	516
+袖手旁观	xiu shou pang guan	3243
+秀外慧中	xiu wai hui zhong	1474
+休养生息	xiu yang sheng xi	1771
+虚报	xu bao	2633
+虚幻	xu huan	2889
+虚晃一枪	xu huang yi qiang	3556
+虚假	xu jia	5252
+虚假陈述	xu jia chen shu	5228
+虚假宣传	xu jia xuan chuan	3131
+虚名	xu ming	2183
+蓄谋	xu mou	1777
+需求不足	xu qiu bu zu	2367
+需求大增	xu qiu da zeng	822
+虚设	xu she	3010
+蓄势	xu shi	6161
+虚位以待	xu wei yi dai	3333
+蓄意	xu yi	3764
+虚涨	xu zhang	43
+悬案	xuan an	3496
+轩昂	xuan ang	1493
+喧宾夺主	xuan bin duo zhu	1250
+宣布破产	xuan bu po chan	2304
+选错	xuan cuo	1438
+悬而未决	xuan er wei jue	3589
+宣告破产	xuan gao po chan	2687
+悬空	xuan kong	4062
+玄妙	xuan miao	3518
+宣判	xuan pan	4492
+旋涡	xuan wo	4747
+悬崖	xuan ya	3753
+选择退出	xuan ze tui chu	4794
+血本无归	xue ben wu gui	3658
+雪崩	xue beng	2201
+雪耻	xue chi	426
+血汗钱	xue han qian	2820
+削弱	xue ruo	2987
+雪上加霜	xue shang jia shuang	3736
+噱头	xue tou	5991
+学习型组织	xue xi xing zu zhi	971
+学以致用	xue yi zhi yong	1728
+血战	xue zhan	3341
+雪中送炭	xue zhong song tan	2213
+迅捷	xun jie	2023
+迅猛	xun meng	5877
+迅猛发展	xun meng fa zhan	925
+寻梦人	xun meng ren	1158
+逊色	xun se	719
+迅速扩张	xun su kuo zhang	2800
+熏陶	xun tao	1889
+循序渐进	xun xu jian jin	950
+压惊	ya jing	1717
+压垮	ya kua	3915
+压迫	ya po	263
+压抑	ya yi	204
+压制	ya zhi	4417
+雅致	ya zhi	1576
+言不由衷	yan bu you zhong	5811
+严查	yan cha	4080
+严惩	yan cheng	4483
+严惩不贷	yan cheng bu dai	3015
+延迟	yan chi	4611
+严词	yan ci	4441
+严打	yan da	4433
+严冬	yan dong	4562
+言而无信	yan er wu xin	394
+掩盖	yan gai	4164
+沿革	yan ge	1838
+雁过拔毛	yan guo ba mao	1512
+言过其实	yan guo qi shi	1810
+严寒	yan han	1091
+严谨	yan jin	5548
+研究支持	yan jiu zhi chi	2300
+艳丽	yan li	1397
+严密	yan mi	5853
+严明	yan ming	951
+延期	yan qi	5329
+偃旗息鼓	yan qi xi gu	3273
+掩饰	yan shi	1832
+言行不一	yan xing bu yi	1814
+延续	yan xu	6140
+焉知非福	yan zhi fei fu	4420
+严重亏损	yan zhong kui sun	904
+严重失实	yan zhong shi shi	1880
+扬长避短	yang chang bi duan	1868
+养虎遗患	yang hu yi huan	2164
+殃及	yang ji	4797
+殃及池鱼	yang ji chi yu	2497
+养精蓄锐	yang jing xu rui	610
+扬名天下	yang ming tian xia	1563
+羊皮	yang pi	27
+扬弃	yang qi	1636
+泱泱	yang yang	667
+摇摆	yao bai	6169
+谣传	yao chuan	1160
+药到病除	yao dao bing chu	5114
+咬定青山不放松	yao ding qing shan bu fang song	1647
+要害	yao hai	1280
+吆喝	yao he	4851
+耀华	yao hua	1328
+要命	yao ming	243
+妖气	yao qi	2404
+杳无音信	yao wu yin xin	163
+要挟	yao xie	1028
+耀眼	yao yan	3837
+谣言	yao yan	2877
+遥遥领先	yao yao ling xian	1909
+遥遥无期	yao yao wu qi	3013
+摇摇欲坠	yao yao yu zhui	2075
+腰斩	yao zhan	3477
+夭折	yao zhe	5308
+也不是	ye bu shi	1469
+夜长梦多	ye chang meng duo	538
+业绩不佳	ye ji bu jia	4760
+业绩平平	ye ji ping ping	2128
+业绩预亏	ye ji yu kui	4381
+业绩预增	ye ji yu zeng	5650
+业绩增长	ye ji zeng zhang	5878
+业界认可	ye jie ren ke	897
+野蛮	ye man	5942
+也没有	ye mei you	312
+业务创新	ye wu chuang xin	4259
+业务优势	ye wu you shi	1411
+业务整合	ye wu zheng he	4870
+野心	ye xin	4008
+野心勃勃	ye xin bo bo	3813
+一败涂地	yi bai tu di	1458
+一本万利	yi ben wan li	2371
+疫病	yi bing	1327
+一波三折	yi bo san zhe	5527
+一波未平一波又起	yi bo wei ping yi bo you qi	577
+义薄云天	yi bo yun tian	2360
+一步到位	yi bu dao wei	4523
+一步登天	yi bu deng tian	2799
+义不容辞	yi bu rong ci	2655
+一步一个脚印	yi bu yi ge jiao yin	1120
+异彩纷呈	yi cai fen cheng	4212
+已查封	yi cha feng	524
+异常	yi chang	5860
+一场空	yi chang kong	5178
+一触即溃	yi chu ji kui	1023
+以次充好	yi ci chong hao	386
+一蹴而就	yi cu er jiu	2230
+一刀	yi dao	1072
+倚得东风势便狂	yi de dong feng shi bian kuang	2719
+一等奖	yi deng jiang	3460
+疑点	yi dian	5230
+异端	yi duan	2989
+一帆风顺	yi fan feng shun	1320
+一飞冲天	yi fei chong tian	3787
+以攻为守	yi gong wei shou	1210
+贻害无穷	yi hai wu qiong	324
+遗憾	yi han	4748
+一行白鹭上青天	yi hang bai lu shang qing tian	1895
+遗恨	yi hen	5161
+移花接木	yi hua jie mu	2641
+一箭双雕	yi jian shuang diao	4401
+衣锦还乡	yi jin huan xiang	2157
+义举	yi ju	894
+一蹶不振	yi jue bu zhen	388
+异军突起	yi jun tu qi	4754
+依靠	yi kao	5091
+一空	yi kong	1585
+一劳永逸	yi lao yong yi	506
+屹立	yi li	2744
+毅力	yi li	1894
+一流	yi liu	4831
+遗漏	yi lou	2553
+一路顺风	yi lu shun feng	669
+疑虑	yi lv	5833
+一马当先	yi ma dang xian	2924
+一毛不拔	yi mao bu ba	3362
+一鸣惊人	yi ming jing ren	4468
+一目了然	yi mu liao ran	189
+一诺千金	yi nuo qian jin	2165
+一盘散沙	yi pan san sha	262
+一片丹心	yi pian dan xin	159
+一片生机	yi pian sheng ji	134
+遗弃	yi qi	4571
+一枪	yi qiang	2834
+疫情	yi qing	2352
+一丘之貉	yi qiu zhi he	652
+一去不复返	yi qu bu fu fan	954
+依然坚挺	yi ran jian ting	2286
+依然乐观	yi ran le guan	3344
+依然严峻	yi ran yan jun	829
+一审	yi shen	4494
+一审判决	yi shen pan jue	3338
+遗失	yi shi	1351
+一石多鸟	yi shi duo niao	3627
+一石二鸟	yi shi er niao	2923
+一石三鸟	yi shi san niao	5450
+已是悬崖百丈冰	yi shi xuan ya bai zhang bing	127
+已受理	yi shou li	3018
+一丝不苟	yi si bu gou	982
+移送	yi song	4513
+一塌糊涂	yi ta hu tu	2916
+一潭死水	yi tan si shui	744
+遗体	yi ti	1018
+一统天下	yi tong tian xia	4990
+疑团	yi tuan	4816
+一团乱麻	yi tuan luan ma	2246
+一团糟	yi tuan zao	2561
+以退为进	yi tui wei jin	5438
+意外	yi wai	5944
+意外事故	yi wai shi gu	91
+遗忘	yi wang	5209
+一往情深	yi wang qing shen	1574
+一往无前	yi wang wu qian	1224
+疑问	yi wen	5260
+一问三不知	yi wen san bu zhi	1657
+异物	yi wu	1555
+一息尚存	yi xi shang cun	2907
+一厢情愿	yi xiang qing yuan	3831
+以小见大	yi xiao jian da	393
+一心一意	yi xin yi yi	2089
+一言堂	yi yan tang	1676
+异议	yi yi	4265
+熠熠	yi yi	1953
+以一当十	yi yi dang shi	1068
+熠熠生辉	yi yi sheng hui	4172
+意义重大	yi yi zhong da	3955
+意犹未尽	yi you wei jin	3614
+抑郁	yi yu	5162
+疑云	yi yun	5472
+一遭	yi zao	2856
+臆造	yi zao	5226
+意志	yi zhi	1714
+抑制	yi zhi	5079
+一枝独秀	yi zhi du xiu	5025
+一枝红杏出墙来	yi zhi hong xing chu qiang lai	2813
+一纸空文	yi zhi kong wen	5424
+倚重	yi zhong	5067
+一专多能	yi zhuan duo neng	467
+一走了之	yi zou liao zhi	2073
+引爆	yin bao	6168
+因地制宜	yin di zhi yi	5734
+阴跌	yin die	2909
+引渡	yin du	267
+银广夏案	yin guang xia an	3022
+银行挤兑	yin hang ji dui	2682
+银行债务	yin hang zhai wu	4503
+饮恨	yin hen	3568
+隐患	yin huan	4954
+阴魂不散	yin hun bu san	3306
+因祸得福	yin huo de fu	3152
+引火烧身	yin huo shao shen	2277
+隐疾	yin ji	5925
+银奖	yin jiang	4960
+引进外资	yin jin wai zi	2647
+引咎辞职	yin jiu ci zhi	3071
+引狼入室	yin lang ru shi	3856
+阴霾	yin mai	3989
+隐瞒	yin man	4728
+阴谋	yin mou	3830
+隐匿	yin ni	5294
+银企合作	yin qi he zuo	5568
+引擎	yin qing	6100
+引人入胜	yin ren ru sheng	2265
+引人深思	yin ren shen si	2119
+引人注目	yin ren zhu mu	4176
+殷实	yin shi	1683
+因势利导	yin shi li dao	1179
+隐痛	yin tong	3433
+引退	yin tui	2328
+隐形冠军	yin xing guan jun	4305
+引以为鉴	yin yi wei jian	1031
+阴影	yin ying	4608
+隐忧	yin you	5648
+饮誉	yin yu	886
+姻缘	yin yuan	4203
+饮鸩止渴	yin zhen zhi ke	2387
+隐衷	yin zhong	3284
+银装素裹	yin zhuang su guo	992
+引资	yin zi	5373
+应变	ying bian	5709
+英才	ying cai	3287
+迎春	ying chun	4110
+赢得	ying de	5081
+硬功	ying gong	981
+硬汉	ying han	743
+英豪	ying hao	2408
+迎合	ying he	3070
+迎候	ying hou	4219
+英魂	ying hun	1002
+迎接	ying jie	5018
+英俊	ying jun	2362
+硬朗	ying lang	557
+营利	ying li	1639
+赢利	ying li	6033
+盈利记录	ying li ji lu	5277
+盈利渠道	ying li qu dao	3325
+盈利预测	ying li yu ce	3072
+盈利预警	ying li yu jing	3901
+英烈	ying lie	1003
+迎难而上	ying nan er shang	3908
+硬气	ying qi	1685
+萦绕	ying rao	3100
+迎刃而解	ying ren er jie	549
+映日荷花别样红	ying ri he hua bie yang hong	521
+应时而变	ying shi er bian	4881
+硬挺	ying ting	5771
+影响力	ying xiang li	5675
+影响市场	ying xiang shi chang	37
+营销战略	ying xiao zhan lue	5045
+营养不良	ying yang bu liang	3917
+应用	ying yong	5724
+英勇	ying yong	957
+应运而生	ying yun er sheng	1244
+营造	ying zao	4876
+迎战	ying zhan	5060
+硬着头皮	ying zhe tou pi	3034
+硬指标	ying zhi biao	1215
+英资	ying zi	3309
+永葆	yong bao	2172
+永葆青春	yong bao qing chun	3453
+拥堵	yong du	915
+勇夺	yong duo	4958
+勇敢	yong gan	2806
+永恒	yong heng	3457
+永恒的	yong heng de	4274
+用脚投票	yong jiao tou piao	5146
+用力	yong li	5117
+永生	yong sheng	907
+勇士	yong shi	4840
+勇往直前	yong wang zhi qian	132
+勇于	yong yu	5936
+踊跃	yong yue	4118
+友爱	you ai	682
+有板有眼	you ban you yan	571
+又创新高	you chuang xin gao	3188
+优待	you dai	4130
+优等生	you deng sheng	3811
+有的放矢	you di fang shi	4424
+有毒	you du	5142
+有毒的	you du de	348
+诱发	you fa	5191
+优抚	you fu	3593
+有功	you gong	129
+有害	you hai	1153
+友好	you hao	2848
+优厚	you hou	4714
+优化	you hua	5192
+优化资源配置	you hua zi yuan pei zhi	5130
+忧患	you huan	5396
+优惠	you hui	5868
+优惠关税	you hui guan shui	4861
+诱惑	you huo	5595
+有机肥	you ji fei	1796
+油价上涨	you jia shang zhang	2379
+有价值	you jia zhi	4972
+有劲	you jin	2043
+有苦难言	you ku nan yan	4377
+有利	you li	5643
+有力	you li	3550
+有利可图	you li ke tu	2710
+有力武器	you li wu qi	916
+有利于	you li yu	5623
+优良	you liang	6083
+忧虑	you lv	5445
+优美	you mei	4395
+有眉目	you mei mu	501
+有名无实	you ming wu shi	828
+有泡沫	you pao mo	653
+有起色	you qi se	4049
+友情	you qing	4388
+有去无回	you qu wu hui	759
+游刃有余	you ren you yu	2027
+优胜	you sheng	1021
+优胜劣汰	you sheng lie tai	5604
+有声有色	you sheng you se	2692
+优势的	you shi de	3747
+优势地位	you shi di wei	2239
+优势行业	you shi hang ye	835
+有始无终	you shi wu zhong	291
+有始有终	you shi you zhong	103
+有损	you sun	66
+有所不为	you suo bu wei	171
+有特色	you te se	3192
+有条不紊	you tiao bu wen	825
+有望	you wang	6160
+有望成为	you wang cheng wei	5137
+有望持续	you wang chi xu	3052
+有望得到	you wang de dao	2503
+有望加快	you wang jia kuai	2123
+有望突破	you wang tu po	6183
+有望再度	you wang zai du	546
+有喜	you xi	5268
+优先	you xian	4520
+优先的	you xian de	1392
+有效	you xiao	5290
+忧心	you xin	5322
+忧心忡忡	you xin chong chong	881
+有幸	you xing	816
+优秀	you xiu	5420
+优秀奖	you xiu jiang	2645
+有序	you xu	4398
+优选	you xuan	4010
+优雅	you ya	3935
+幽雅	you ya	2841
+友谊	you yi	4740
+有益	you yi	5718
+犹疑	you yi	174
+有异议	you yi yi	4184
+悠悠	you you	1036
+犹有花枝俏	you you hua zhi qiao	126
+忧郁	you yu	596
+犹豫	you yu	2950
+犹豫不决	you yu bu jue	1357
+悠远	you yuan	471
+优越	you yue	2945
+优越性	you yue xing	1020
+有增长潜力	you zeng zhang qian li	1710
+优质	you zhi	6231
+优质服务	you zhi fu wu	4983
+有志者事竟成	you zhi zhe shi jing cheng	266
+优质资产	you zhi zi chan	4450
+有助于	you zhu yu	3040
+有滋有味	you zi you wei	2649
+欲罢不能	yu ba bu neng	4790
+鹬蚌相争	yu bang xiang zheng	364
+欲盖弥彰	yu gai mi zhang	5309
+雨过天晴	yu guo tian qing	237
+御寒	yu han	5984
+雨后春笋	yu hou chun sun	1100
+预警	yu jing	5787
+语惊四座	yu jing si zuo	1791
+预亏公告	yu kui gong gao	4144
+鱼龙混杂	yu long hun za	4920
+雨露	yu lu	1406
+郁闷	yu men	1904
+遇难	yu nan	1175
+愚弄	yu nong	191
+逾期	yu qi	5286
+余热	yu re	4604
+鱼肉	yu rou	841
+欲收购	yu shou gou	2678
+鱼水情深	yu shui qing shen	4545
+鱼死网破	yu si wang po	2343
+欲速则不达	yu su ze bu da	2919
+誉为	yu wei	3058
+遇险	yu xian	4476
+羽翼渐丰	yu yi jian feng	442
+余音绕梁	yu yin rao liang	576
+愉悦	yu yue	5094
+鱼跃龙门	yu yue long men	2867
+狱中	yu zhong	1660
+冤案	yuan an	216
+原创性	yuan chuang xing	1152
+远大	yuan da	446
+冤大头	yuan da tou	2990
+冤家	yuan jia	3417
+援建	yuan jian	5062
+远见	yuan jian	5816
+元老	yuan lao	4287
+圆满	yuan man	4725
+怨气	yuan qi	1017
+远眺	yuan tiao	93
+冤枉	yuan wang	2488
+元凶	yuan xiong	4416
+源源不断	yuan yuan bu duan	3135
+源远流长	yuan yuan liu chang	2168
+越轨	yue gui	3139
+越界	yue jie	2666
+跃进	yue jin	5762
+跃居	yue ju	5048
+月亏损	yue kui sun	3802
+跃入	yue ru	3557
+跃升	yue sheng	4202
+越俎代庖	yue zu dai pao	2726
+蕴藏	yun cang	4628
+运筹帷幄	yun chou wei wo	4411
+蕴涵	yun han	4270
+陨落	yun luo	4637
+孕育	yun yu	5843
+运作成功	yun zuo cheng gong	1913
+杂乱	za luan	4001
+砸盘	za pan	3618
+再创	zai chuang	5858
+再创历史新高	zai chuang li shi xin gao	4564
+再创新高	zai chuang xin gao	5989
+再次下跌	zai ci xia die	827
+栽倒	zai dao	1960
+再度	zai du	6181
+再度下调	zai du xia tiao	2311
+再度走强	zai du zou qiang	944
+栽跟头	zai gen tou	2158
+在劫难逃	zai jie nan tao	303
+再接再厉	zai jie zai li	5576
+灾难	zai nan	1758
+灾情	zai qing	2414
+灾区	zai qu	5085
+再审	zai shen	3330
+再生能源	zai sheng neng yuan	2829
+在所难免	zai suo nan mian	1892
+在逃	zai tao	1790
+在危机中	zai wei ji zhong	3377
+赞不绝口	zan bu jue kou	61
+赞成	zan cheng	5825
+暂缓	zan huan	4800
+赞美	zan mei	5631
+赞叹	zan tan	408
+赞同	zan tong	4432
+赞扬	zan yang	1436
+赞誉	zan yu	3884
+赃款	zang kuan	839
+遭到	zao dao	4568
+躁动	zao dong	5865
+造福	zao fu	5909
+造福一方	zao fu yi fang	2062
+糟糕	zao gao	952
+造假	zao jia	4279
+造假者	zao jia zhe	228
+遭劫	zao jie	22
+造就	zao jiu	6117
+遭受	zao shou	5158
+造血	zao xue	5174
+遭殃	zao yang	4347
+造谣	zao yao	5702
+遭遇	zao yu	6068
+遭灾	zao zai	2823
+责成	ze cheng	4664
+责令	ze ling	5339
+责任感	ze ren gan	4730
+责任事故	ze ren shi gu	1114
+责任心	ze ren xin	1488
+责问	ze wen	704
+贼喊捉贼	zei han zhuo zei	1940
+增兵	zeng bing	4451
+增创	zeng chuang	2519
+增多	zeng duo	5791
+增发股票	zeng fa gu piao	3625
+增幅	zeng fu	5834
+增光	zeng guang	1339
+增加	zeng jia	5838
+增加收益	zeng jia shou yi	3270
+增进	zeng jin	4741
+赠礼	zeng li	3990
+增量	zeng liang	4836
+增强	zeng qiang	5824
+增强竞争力	zeng qiang jing zheng li	3225
+增势	zeng shi	6194
+增收	zeng shou	4738
+增收节支	zeng shou jie zhi	3230
+赠送	zeng song	2489
+增速	zeng su	6223
+增速减缓	zeng su jian huan	2504
+增添	zeng tian	4322
+增效	zeng xiao	4737
+增益	zeng yi	738
+赠与	zeng yu	2764
+增长	zeng zhang	6193
+增长点	zeng zhang dian	5136
+增长极	zeng zhang ji	5777
+增长较快	zeng zhang jiao kuai	3193
+增长潜力	zeng zhang qian li	4627
+增长趋势	zeng zhang qu shi	4268
+增长态势	zeng zhang tai shi	4964
+增长迅速	zeng zhang xun su	5041
+增值	zeng zhi	5327
+增至	zeng zhi	6120
+增值前景	zeng zhi qian jing	5205
+增值潜力	zeng zhi qian li	5206
+增值网络	zeng zhi wang luo	4216
+增值业务	zeng zhi ye wu	4315
+增资	zeng zi	5375
+扎根	zha gen	2788
+诈骗	zha pian	5902
+诈骗罪	zha pian zui	805
+扎实	zha shi	2753
+扎实推进	zha shi tui jin	3599
+扎扎实实	zha zha shi shi	724
+渣滓	zha zi	1733
+债台高筑	zhai tai gao zhu	4019
+债务负担	zhai wu fu dan	332
+债务纠纷	zhai wu jiu fen	4536
+债务危机	zhai wu wei ji	3312
+斩仓	zhan cang	2472
+展出	zhan chu	4331
+战果	zhan guo	4056
+斩获	zhan huo	5805
+绽开	zhan kai	1850
+湛蓝	zhan lan	1856
+崭露头角	zhan lu tou jiao	4239
+战略	zhan lue	6146
+战略发展	zhan lue fa zhan	3115
+战略管理	zhan lue guan li	4232
+战略规划	zhan lue gui hua	4561
+战略合作	zhan lue he zuo	5851
+战略伙伴	zhan lue huo ban	4243
+战略计划	zhan lue ji hua	2739
+战略联盟	zhan lue lian meng	5431
+战略性	zhan lue xing	5748
+战略意义	zhan lue yi yi	4414
+沾染	zhan ran	1102
+战术	zhan shu	5044
+站稳	zhan wen	4422
+沾污	zhan wu	1403
+崭新	zhan xin	4242
+展翼	zhan yi	422
+占优势	zhan you shi	6227
+沾沾自喜	zhan zhan zi xi	1183
+站住脚	zhan zhu jiao	2478
+障碍	zhang ai	5112
+张灯结彩	zhang deng jie cai	188
+涨幅	zhang fu	6098
+涨幅超过	zhang fu chao guo	1772
+涨幅第一	zhang fu di yi	2969
+张冠李戴	zhang guan li dai	1530
+涨价	zhang jia	6127
+张力	zhang li	3948
+账面盈利	zhang mian ying li	3113
+掌上明珠	zhang shang ming zhu	4454
+涨势	zhang shi	3668
+账外账	zhang wai zhang	4448
+张扬	zhang yang	3855
+找茬	zhao cha	6232
+朝晖	zhao hui	1632
+着火	zhao huo	645
+朝令夕改	zhao ling xi gai	1066
+朝气蓬勃	zhao qi peng bo	76
+朝秦暮楚	zhao qin mu chu	2053
+招商引资	zhao shang yin zi	3066
+肇事	zhao shi	1149
+招贤	zhao xian	3314
+招贤纳士	zhao xian na shi	3851
+招摇过市	zhao yao guo shi	1447
+照妖镜	zhao yao jing	1453
+折半	zhe ban	1391
+折桂	zhe gui	4993
+折磨	zhe mo	374
+折腾	zhe teng	3220
+遮羞	zhe xiu	570
+遮羞布	zhe xiu bu	2851
+遮掩	zhe yan	1659
+折腰	zhe yao	4206
+遮遮掩掩	zhe zhe yan yan	3085
+真诚	zhen cheng	4736
+真诚的	zhen cheng de	1164
+振荡	zhen dang	3315
+震荡	zhen dang	5520
+震荡盘升	zhen dang pan sheng	4051
+震荡下行	zhen dang xia xing	1784
+振动	zhen dong	2811
+震动	zhen dong	3930
+振奋	zhen fen	1099
+镇海	zhen hai	1222
+震惊	zhen jing	4707
+震怒	zhen nu	2358
+珍品	zhen pin	1843
+真切	zhen qie	59
+真情	zhen qing	4835
+真实	zhen shi	4843
+阵痛	zhen tong	5369
+珍惜	zhen xi	4307
+珍稀	zhen xi	1323
+真相大白	zhen xiang da bai	3492
+真心话	zhen xin hua	202
+真心实意	zhen xin shi yi	1988
+振兴	zhen xing	3953
+赈灾	zhen zai	3437
+震灾	zhen zai	3286
+真正了解	zhen zheng liao jie	399
+真挚	zhen zhi	993
+真抓实干	zhen zhua shi gan	2006
+振作	zhen zuo	462
+政变	zheng bian	2558
+正常工作	zheng chang gong zuo	3909
+正常经营	zheng chang jing ying	186
+正常运行	zheng chang yun xing	1939
+争创	zheng chuang	4755
+正当	zheng dang	4063
+正道	zheng dao	3878
+争斗	zheng dou	3355
+争端	zheng duan	4437
+整顿	zheng dun	3762
+蒸发	zheng fa	6185
+征服	zheng fu	3823
+政府补贴	zheng fu bu tie	4606
+政府补助	zheng fu bu zhu	4477
+整改	zheng gai	5338
+争光	zheng guang	1978
+正轨	zheng gui	3588
+正果	zheng guo	5336
+正好	zheng hao	2516
+拯救	zheng jiu	5676
+证据确凿	zheng ju que zao	4767
+正面	zheng mian	5596
+争气	zheng qi	1620
+正气	zheng qi	1549
+争取	zheng qu	5653
+争权	zheng quan	4043
+证券欺诈客户	zheng quan qi zha ke hu	5224
+峥嵘	zheng rong	5460
+峥嵘岁月	zheng rong sui yue	1167
+整体复苏	zheng ti fu su	5738
+整体亏损	zheng ti kui sun	864
+整体上市	zheng ti shang shi	5639
+政通人和	zheng tong ren he	1348
+挣脱	zheng tuo	2996
+争先	zheng xian	4319
+争雄	zheng xiong	3857
+争议	zheng yi	5681
+正义	zheng yi	1273
+正增长	zheng zeng zhang	3962
+挣扎	zheng zha	4648
+蒸蒸日上	zheng zheng ri shang	2262
+铮铮铁骨	zheng zheng tie gu	104
+争执	zheng zhi	3221
+整装待发	zheng zhuang dai fa	5006
+挚爱	zhi ai	1497
+治本	zhi ben	2189
+治标	zhi biao	2190
+止步	zhi bu	3177
+制裁	zhi cai	2320
+支持	zhi chi	5278
+志存高远	zhi cun gao yuan	4575
+指点	zhi dian	4859
+止跌反弹	zhi die fan tan	1835
+止跌回升	zhi die hui sheng	4601
+止跌回稳	zhi die hui wen	1773
+制度缺陷	zhi du que xian	878
+智多星	zhi duo xing	1205
+枝繁叶茂	zhi fan ye mao	1876
+致富	zhi fu	5392
+致富路	zhi fu lu	2117
+至高点	zhi gao dian	2036
+至高无上	zhi gao wu shang	618
+桎梏	zhi gu	930
+制衡	zhi heng	4589
+滞缓	zhi huan	4021
+智慧	zhi hui	4382
+知己知彼	zhi ji zhi bi	1184
+肢解	zhi jie	2632
+直接受益	zhi jie shou yi	2785
+直接损失	zhi jie sun shi	2415
+致敬	zhi jing	2544
+指控	zhi kong	4567
+质量保证	zhi liang bao zheng	2396
+质量上乘	zhi liang shang cheng	2436
+执迷不悟	zhi mi bu wu	848
+知名	zhi ming	4962
+致命	zhi ming	3390
+知名企业	zhi ming qi ye	4386
+知名人士	zhi ming ren shi	25
+致命伤	zhi ming shang	2448
+智谋	zhi mou	2279
+滞纳金	zhi na jin	1643
+智囊	zhi nang	1590
+志气	zhi qi	158
+致歉	zhi qian	5993
+智取	zhi qu	3750
+指日可待	zhi ri ke dai	4614
+至上	zhi shang	4890
+纸上谈兵	zhi shang tan bing	2482
+知识化	zhi shi hua	1533
+职守	zhi shou	102
+炙手可热	zhi shou ke re	5536
+指数下跌	zhi shu xia die	12
+植树造林	zhi shu zao lin	1828
+致死	zhi si	1108
+止损	zhi sun	3785
+直通	zhi tong	5458
+职务侵占	zhi wu qin zhan	4514
+滞销	zhi xiao	3698
+知心人	zhi xin ren	289
+质询	zhi xun	2330
+职业病	zhi ye bing	2441
+职业化	zhi ye hua	5411
+质疑	zhi yi	6152
+质优价廉	zhi you jia lian	2494
+治愈	zhi yu	2449
+支援	zhi yuan	3271
+制约	zhi yue	4527
+志在必得	zhi zai bi de	5504
+志在千里	zhi zai qian li	1780
+指责	zhi ze	4044
+之债	zhi zhai	199
+只争朝夕	zhi zheng zhao xi	2886
+知止不殆	zhi zhi bu dai	248
+置之死地而后生	zhi zhi si di er hou sheng	4136
+支柱产业	zhi zhu chan ye	5133
+中饱私囊	zhong bao si nang	1499
+忠臣	zhong chen	550
+重臣	zhong chen	1076
+忠诚	zhong cheng	4108
+重创	zhong chuang	3660
+重大变化	zhong da bian hua	3729
+重大风险	zhong da feng xian	867
+重大利好	zhong da li hao	4247
+中低档	zhong di dang	1897
+重点工程	zhong dian gong cheng	5124
+重点关注	zhong dian guan zhu	5901
+重点企业	zhong dian qi ye	3680
+重点支持	zhong dian zhi chi	826
+中毒	zhong du	3498
+中断	zhong duan	2997
+重罚	zhong fa	5272
+中风	zhong feng	530
+重负	zhong fu	1537
+中国热	zhong guo re	45
+中国优势	zhong guo you shi	1180
+中国最佳	zhong guo zui jia	3920
+中纪委	zhong ji wei	2282
+终极真理	zhong ji zhen li	1703
+中坚	zhong jian	4393
+重奖	zhong jiang	4942
+重金属污染	zhong jin shu wu ran	1304
+忠良	zhong liang	439
+中流砥柱	zhong liu di zhu	4240
+中年危机	zhong nian wei ji	6159
+众怒	zhong nu	4528
+中签	zhong qian	3653
+钟情	zhong qing	5363
+众人皆醉我独醒	zhong ren jie zui wo du xing	1508
+众人拾柴火焰高	zhong ren shi chai huo yan gao	2738
+中伤	zhong shang	4353
+重伤	zhong shang	1769
+中上游	zhong shang you	4163
+终审	zhong shen	4072
+终审判决	zhong shen pan jue	2903
+忠实	zhong shi	2210
+众矢之的	zhong shi zhi di	1197
+重头戏	zhong tou xi	3806
+众望所归	zhong wang suo gui	2385
+忠心耿耿	zhong xin geng geng	3173
+众星捧月	zhong xing peng yue	1285
+重压	zhong ya	4807
+重压之下	zhong ya zhi xia	13
+重要	zhong yao	5538
+中意	zhong yi	3561
+中原逐鹿	zhong yuan zhu lu	3515
+重灾区	zhong zai qu	3675
+忠贞	zhong zhen	1037
+中止	zhong zhi	5274
+终止	zhong zhi	6074
+众志成城	zhong zhi cheng cheng	4399
+中止执行	zhong zhi zhi xing	2477
+重罪	zhong zui	213
+周到	zhou dao	999
+骤减	zhou jian	5305
+骤降	zhou jiang	5967
+骤然	zhou ran	2557
+周详	zhou xiang	461
+骤增	zhou zeng	3742
+逐步回归	zhu bu hui gui	5552
+逐步释放	zhu bu shi fang	3337
+主场优势	zhu chang you shi	1185
+筑巢引凤	zhu chao yin feng	4064
+蛀虫	zhu chong	31
+逐出	zhu chu	3275
+诸多第一	zhu duo di yi	1276
+主犯	zhu fan	3023
+祝福	zhu fu	1885
+诸葛	zhu ge	74
+主攻	zhu gong	5040
+珠光宝气	zhu guang bao qi	883
+祝贺	zhu he	1487
+主力舰	zhu li jian	350
+株连	zhu lian	1151
+筑路	zhu lu	3419
+著名	zhu ming	4902
+瞩目	zhu mu	5068
+侏儒	zhu ru	5663
+主使	zhu shi	831
+猪瘟	zhu wen	1326
+主要风险	zhu yao feng xian	2484
+主要责任	zhu yao ze ren	3025
+主宰	zhu zai	2812
+助战	zhu zhan	5084
+注重	zhu zhong	5850
+抓捕	zhua bu	1921
+抓住机遇	zhua zhu ji yu	4181
+转行	zhuan hang	3336
+转机	zhuan ji	4613
+转嫁	zhuan jia	3784
+专利产品	zhuan li chan pin	4944
+专利技术	zhuan li ji shu	4986
+专利侵权	zhuan li qin quan	4466
+专利诉讼	zhuan li su song	4339
+专利无效	zhuan li wu xiao	1511
+赚钱	zhuan qian	6212
+赚钱效应	zhuan qian xiao ying	2402
+转危为安	zhuan wei wei an	2278
+专心	zhuan xin	5937
+专心致志	zhuan xin zhi zhi	3610
+专业的	zhuan ye de	4371
+专业化	zhuan ye hua	5514
+专一	zhuan yi	2650
+转增	zhuan zeng	5471
+专制	zhuan zhi	347
+专注	zhuan zhu	5522
+壮大	zhuang da	5235
+壮胆	zhuang dan	1283
+装点	zhuang dian	1821
+状告	zhuang gao	5415
+壮歌	zhuang ge	739
+壮观	zhuang guan	1235
+装假	zhuang jia	2198
+壮丽	zhuang li	2059
+壮美	zhuang mei	2529
+壮年	zhuang nian	884
+壮实	zhuang shi	1061
+庄严	zhuang yan	1106
+壮志	zhuang zhi	2365
+壮志凌云	zhuang zhi ling yun	1485
+壮志未酬	zhuang zhi wei chou	391
+追风逐电	zhui feng zhu dian	90
+追究	zhui jiu	5703
+坠落	zhui luo	2418
+追求	zhui qiu	6189
+追收	zhui shou	2622
+追溯调整	zhui su tiao zheng	3332
+追讨	zhui tao	5288
+追问	zhui wen	4491
+准确	zhun que	4928
+准确无误	zhun que wu wu	1057
+卓见	zhuo jian	5171
+捉襟见肘	zhuo jin jian zhou	4763
+着力	zhuo li	5250
+着力推进	zhuo li tui jin	1732
+捉弄	zhuo nong	20
+卓然	zhuo ran	717
+灼伤	zhuo shang	2144
+灼痛	zhuo tong	1924
+卓有成效	zhuo you cheng xiao	1336
+卓越	zhuo yue	5484
+卓著	zhuo zhu	3620
+茁壮	zhuo zhuang	3883
+资本国际化	zi ben guo ji hua	4228
+资本升值	zi ben sheng zhi	660
+资本增值	zi ben zeng zhi	2431
+资不抵债	zi bu di zhai	3731
+资产剥离	zi chan bo li	3597
+资产减值	zi chan jian zhi	3089
+资产泡沫	zi chan pao mo	2816
+资产损失	zi chan sun shi	3289
+资产缩水	zi chan suo shui	4038
+资产增值	zi chan zeng zhi	5208
+资产注入	zi chan zhu ru	5325
+自打	zi da	1297
+自负	zi fu	1416
+自顾不暇	zi gu bu xia	3246
+紫红	zi hong	984
+自给自足	zi ji zi zu	2217
+资金短缺	zi jin duan que	4659
+资金回笼	zi jin hui long	3320
+资金难题	zi jin nan ti	4516
+资金缺口	zi jin que kou	5571
+资金外流	zi jin wai liu	5
+自救	zi jiu	6075
+自力更生	zi li geng sheng	3939
+自欺欺人	zi qi qi ren	966
+自强不息	zi qiang bu xi	2008
+自燃	zi ran	3059
+滋润	zi run	302
+自杀	zi sha	1794
+资深	zi shen	1426
+自恃	zi shi	1115
+自食其力	zi shi qi li	1751
+自首	zi shou	1722
+自讨苦吃	zi tao ku chi	1975
+自吞	zi tun	3706
+自相矛盾	zi xiang mao dun	1963
+自信	zi xin	4020
+自省	zi xing	6015
+子虚乌有	zi xu wu you	3919
+自寻烦恼	zi xun fan nao	1852
+滋养	zi yang	2439
+自由	zi you	4200
+自由空间	zi you kong jian	2724
+资源共享	zi yuan gong xiang	3797
+资源优势	zi yuan you shi	4678
+自在	zi zai	6144
+自找	zi zhao	1854
+自主	zi zhu	5074
+资助	zi zhu	3521
+自主创新	zi zhu chuang xin	5015
+自主的	zi zhu de	2215
+孜孜不倦	zi zi bu juan	2961
+孜孜以求	zi zi yi qiu	2112
+综合平衡	zong he ping heng	627
+纵横驰骋	zong heng chi cheng	1064
+纵容	zong rong	1671
+纵深	zong shen	4271
+走出谷底	zou chu gu di	1813
+走低	zou di	2088
+走红	zou hong	4941
+走回头路	zou hui tou lu	358
+走极端	zou ji duan	2132
+走漏	zou lou	1378
+走漏风声	zou lou feng sheng	447
+奏鸣曲	zou ming qu	1282
+走俏	zou qiao	5855
+走势平稳	zou shi ping wen	896
+走私	zou si	4074
+走私案	zou si an	555
+走私罪	zou si zui	554
+走下坡路	zou xia po lu	1677
+奏响	zou xiang	4951
+奏效	zou xiao	5560
+走形式	zou xing shi	3206
+阻碍	zu ai	3118
+组合	zu he	5813
+阻力	zu li	1871
+阻挠	zu nao	3049
+阻止	zu zhi	2465
+阻滞	zu zhi	4133
+组织奖	zu zhi jiang	46
+钻空子	zuan kong zi	1369
+钻研	zuan yan	1207
+最大的	zui da de	5417
+最大涨幅	zui da zhang fu	2501
+最低	zui di	5608
+最高级	zui gao ji	4281
+最好	zui hao	5473
+最后期限	zui hou qi xian	2908
+最佳	zui jia	6158
+最佳的	zui jia de	1992
+醉酒	zui jiu	2732
+最具投资价值	zui ju tou zi jia zhi	3673
+罪魁	zui kui	2675
+罪魁祸首	zui kui huo shou	1123
+最美好	zui mei hao	694
+罪名	zui ming	2571
+最是一年春好处	zui shi yi nian chun hao chu	138
+最受青睐	zui shou qing lai	5381
+最先进的	zui xian jin de	146
+罪行	zui xing	2845
+嘴硬	zui ying	165
+罪有应得	zui you ying de	2638
+罪状	zui zhuang	2927
+尊贵	zun gui	991
+尊敬	zun jing	5518
+尊敬的	zun jing de	1154
+遵守	zun shou	2072
+遵循	zun xun	5004
+尊严	zun yan	5488
+尊重	zun zhong	5870
+作案	zuo an	2578
+作成	zuo cheng	3429
+坐吃山空	zuo chi shan kong	3335
+做大做好	zuo da zuo hao	2223
+做大做强	zuo da zuo qiang	5383
+作怪	zuo guai	1778
+做好	zuo hao	6030
+作茧自缚	zuo jian zi fu	2602
+做空	zuo kong	5148
+作乱	zuo luan	531
+坐上	zuo shang	6059
+坐收渔利	zuo shou yu li	2716
+作祟	zuo sui	4706
+坐以待毙	zuo yi dai bi	2625
