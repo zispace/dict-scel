@@ -1,0 +1,358 @@
+# 词库名称: sunbirdTM
+# 词库分类: 个人专用
+# 词库描述: 新闻标题分词补充
+# 词条样例: 房企、奥数、雾霾、蔡振华、十大、电商
+# 解析词数: 351
+# 解析异常: 0
+
+阿桑奇	a sang qi	326
+暗棺	an guan	216
+昂山素季	ang shan su ji	162
+奥巴马	ao ba ma	201
+奥康娜	ao kang na	174
+奥赛康	ao sai kang	323
+奥数	ao shu	344
+坝坝舞	ba ba wu	347
+班干部	ban gan bu	101
+办公室病	ban gong shi bing	28
+宝丽贝	bao li bei	140
+宝瓶口	bao ping kou	312
+爆胎	bao tai	226
+保障房	bao zhang fang	92
+北大校长	bei da xiao zhang	177
+贝尼特斯	bei ni te si	196
+比特币	bi te bi	329
+标间	biao jian	327
+伯南克	bo nan ke	290
+不给力	bu gei li	2
+不归路	bu gui lu	277
+蔡振华	cai zhen hua	340
+仓位底限	cang wei di xian	8
+苍蝇馆子	cang ying guan zi	24
+操纵股价	cao zong gu jia	11
+拆弹	chai dan	15
+昌九生化	chang jiu sheng hua	244
+唱片业	chang pian ye	65
+车王	che wang	263
+成都欧迅	cheng du ou xun	135
+成都人	cheng du ren	273
+成都移动	cheng du yi dong	141
+成都银行	cheng du yin hang	122
+成都中医大	cheng du zhong yi da	95
+成灌快铁	cheng guan kuai tie	291
+成贵铁路	cheng gui tie lu	297
+成绵高速	cheng mian gao su	58
+成绵乐铁路	cheng mian le tie lu	51
+成温邛高速	cheng wen qiong gao su	49
+城乡文化一体化	cheng xiang wen hua yi ti hua	94
+成新蒲快速路	cheng xin pu kuai su lu	57
+成雅高速	cheng ya gao su	56
+川股	chuan gu	314
+川企	chuan qi	239
+春熙	chun xi	228
+打飞的	da fei de	18
+大摩华鑫	da mo hua xin	139
+大幕	da mu	217
+大唐新能源	da tang xin neng yuan	136
+大艺术家	da yi shu jia	208
+带薪休假	dai xin xiu jia	26
+淡定哥	dan ding ge	172
+单独二孩	dan du er hai	294
+单飞	dan fei	14
+蛋烘糕	dan hong gao	31
+单身男	dan shen nan	229
+单双号限行	dan shuang hao xian xing	43
+倒逼	dao bi	339
+道路客流	dao lu ke liu	96
+的姐	de jie	190
+的哥	di ge	345
+地铁建设	di tie jian she	59
+电动公交	dian dong gong jiao	44
+点击率	dian ji lv	114
+电马儿	dian ma er	343
+电商	dian shang	333
+电视	dian shi	117
+点赞	dian zan	342
+顶格处罚	ding ge chu fa	104
+动车	dong che	46
+动卧	dong wo	62
+督察长	du cha zhang	182
+赌球网站	du qiu wang zhan	100
+毒舌	du she	247
+断背	duan bei	77
+短线交易	duan xian jiao yi	7
+二代身份证	er dai shen fen zheng	35
+二道杠	er dao gang	102
+二等座	er deng zuo	61
+儿童高脚椅	er tong gao jiao yi	68
+范广鸣	fan guang ming	188
+翻墙	fan qiang	13
+贩婴	fan ying	272
+防艾	fang ai	274
+防盗门窗	fang dao men chuang	25
+房企	fang qi	346
+非诚勿扰	fei cheng wu rao	214
+丰谷	feng gu	127
+冯仁亮	feng ren liang	197
+富森美	fu sen mei	236
+改签	gai qian	302
+改造房	gai zao fang	91
+搞懂状况	gao dong zhuang kuang	19
+高端制造业	gao duan zhi zao ye	69
+高收益	gao shou yi	315
+高速列车	gao su lie che	52
+公共文化服务体系	gong gong wen hua fu wu ti xi	83
+公交车	gong jiao che	348
+公民凯恩	gong min kai en	209
+功能区	gong neng qu	110
+工信部	gong xin bu	224
+工业硅胶	gong ye gui jiao	116
+谷歌	gu ge	260
+股票基金	gu piao ji jin	9
+官媒	guan mei	299
+广巴高速	guang ba gao su	48
+国栋地板	guo dong di ban	131
+国土部	guo tu bu	293
+豪庭	hao ting	130
+号线	hao xian	242
+核科学家	he ke xue jia	159
+贺岁档	he sui dang	215
+核专家	he zhuan jia	191
+黑白默片	hei bai mo pian	207
+洪金宝	hong jin bao	176
+红色通缉令	hong se tong ji ling	88
+红星路	hong xing lu	53
+红星美凯龙	hong xing mei kai long	285
+互联网金融	hu lian wang jin rong	245
+华茂股份	hua mao gu fen	138
+皇家园林	huang jia yuan lin	212
+黄金口岸	huang jin kou an	74
+黄新初	huang xin chu	230
+婚博会	hun bo hui	85
+火锅飘香剂	huo guo piao xiang ji	34
+火患	huo huan	286
+获赔	huo pei	20
+获刑	huo xing	105
+鸡蛋	ji dan	288
+基金定投	ji jin ding tou	5
+基金公司	ji jin gong si	12
+基金经理	ji jin jing li	181
+纪委监察局	ji wei jian cha ju	233
+加多宝	jia duo bao	129
+甲流	jia liu	118
+甲流疫情	jia liu yi qing	119
+将爱进行到底	jiang ai jin xing dao di	265
+交通运输部	jiao tong yun shu bu	97
+交易部	jiao yi bu	10
+较真	jiao zhen	253
+金科天籁城	jin ke tian lai cheng	132
+金亚科技	jin ya ke ji	125
+禁烟令	jin yan ling	298
+金砖国家	jin zhuan guo jia	154
+酒吧一条街	jiu ba yi tiao jie	146
+巨腾国际	ju teng guo ji	142
+凯丹广场	kai dan guang chang	145
+开售	kai shou	328
+可达鸭	ke da ya	204
+科华北路	ke hua bei lu	151
+科技产业园	ke ji chan ye yuan	148
+克隆绵羊	ke long mian yang	120
+空城计	kong cheng ji	223
+控制风险	kong zhi feng xian	3
+跨年	kua nian	307
+快铁	kuai tie	63
+宽窄巷子	kuan zhai xiang zi	150
+狂犬疫苗	kuang quan yi miao	300
+老建筑	lao jian zhu	266
+劳教制度	lao jiao zhi du	250
+乐活	le huo	243
+乐自高速	le zi gao su	320
+李明博	li ming bo	202
+李娜	li na	321
+李双江	li shuang jiang	276
+李小龙	li xiao long	186
+李咏	li yong	292
+李宗伟	li zong wei	313
+连维良	lian wei liang	231
+连窝端	lian wo duan	17
+廉政准则	lian zheng zhun ze	107
+两桶油	liang tong you	66
+廖昌永	liao chang yong	157
+林丹	lin dan	287
+林宥嘉	lin you jia	184
+零收费	ling shou fei	283
+柳传志	liu chuan zhi	330
+刘国梁	liu guo liang	198
+刘谦	liu qian	246
+留守儿童	liu shou er tong	78
+刘翔	liu xiang	168
+刘永好	liu yong hao	337
+龙门飞甲	long men fei jia	205
+娄烨	lou ye	161
+路虎	lu hu	316
+陆琪	lu qi	156
+裸官	luo guan	234
+罗塞塔	luo sai ta	249
+罗生门	luo sheng men	262
+麻匪	ma fei	218
+玛花纤体	ma hua xian ti	279
+马息岭	ma xi ling	237
+卖萌	mai meng	235
+卖枪	mai qiang	22
+茂业百货	mao ye bai huo	134
+美防长	mei fang chang	193
+美国人权	mei guo ren quan	71
+美媒	mei mei	318
+民间投资	min jian tou zi	4
+命悬一线	ming xuan yi xian	241
+穆帅	mu shuai	199
+那英	na ying	175
+内幕交易	nei mu jiao yi	6
+倪妮	ni ni	183
+逆袭	ni xi	264
+年味	nian wei	282
+宁波富达	ning bo fu da	137
+牛人	niu ren	189
+碰瓷	peng ci	259
+骗低保	pian di bao	106
+频道	pin dao	113
+棋城	qi cheng	210
+起底	qi di	349
+前世今生	qian shi jin sheng	1
+枪版	qiang ban	221
+抢票	qiang piao	311
+轻微污染	qing wei wu ran	33
+青羊	qing yang	147
+穷游	qiong you	64
+全球购	quan qiu gou	309
+全球化	quan qiu hua	238
+缺药	que yao	275
+让子弹飞	rang zi dan fei	220
+热队	re dui	80
+仁和春天	ren he chun tian	133
+人满为患	ren man wei huan	331
+人血白蛋白	ren xue bai dan bai	351
+人猿泰山	ren yuan tai shan	206
+人造太阳	ren zao tai yang	121
+任志强	ren zhi qiang	170
+日媒	ri mei	319
+日企	ri qi	269
+三岔湖	san cha hu	149
+三岔湖环湖路	san cha hu huan hu lu	54
+三国	san guo	338
+三甲医院	san jia yi yuan	227
+桑格格	sang ge ge	166
+汕大	shan da	98
+设计感	she ji gan	222
+圣诞大餐	sheng dan da can	32
+圣日耳曼	sheng ri er man	79
+十大	shi da	335
+失独	shi du	240
+实习照	shi xi zhao	87
+受人之托	shou ren zhi tuo	261
+四川博物院	si chuan bo wu yuan	144
+四川体育	si chuan ti yu	81
+私立博物馆	si li bo wu guan	82
+斯诺登	si nuo deng	305
+私人会所	si ren hui suo	256
+苏宁	su ning	301
+速腾	su teng	322
+苏小懒	su xiao lan	195
+孙杨	sun yang	317
+索契冬奥会	suo qi dong ao hui	252
+太阳神鸟	tai yang shen niao	267
+镋钯街	tang ba jie	271
+镗钯街	tang ba jie	270
+糖画艺人	tang hua yi ren	160
+唐慧	tang hui	278
+唐骏	tang jun	171
+汤唯	tang wei	304
+淘宝商城	tao bao shang cheng	124
+特价房	te jia fang	75
+特价票	te jia piao	45
+腾格尔	teng ge er	165
+天府大道	tian fu da dao	55
+天府新区	tian fu xin qu	153
+天猫	tian mao	123
+跳河	tiao he	350
+停业整改	ting ye zheng gai	21
+通威股份	tong wei gu fen	284
+图卷	tu juan	211
+外地车	wai di che	109
+外双楠	wai shuang nan	324
+外送费	wai song fei	86
+万科	wan ke	280
+万万没想到	wan wan mei xiang dao	332
+王宝强	wang bao qiang	155
+网购车票	wang gou che piao	50
+王濛	wang meng	164
+王小宇	wang xiao yu	179
+王亚伟	wang ya wei	180
+微评	wei ping	289
+文化创意园	wen hua chuang yi yuan	143
+文化项目	wen hua xiang mu	84
+文物普查	wen wu pu cha	72
+五百罗汉	wu bai luo han	213
+武侯	wu hou	306
+物联网	wu lian wang	67
+雾霾	wu mai	341
+西部经济核心	xi bu jing ji he xin	73
+西里奇	xi li qi	200
+西蜀	xi shu	310
+习总书记	xi zong shu ji	295
+限购	xian gou	41
+馅料	xian liao	30
+限牌	xian pai	42
+限行	xian xing	325
+县招办	xian zhao ban	108
+信号	xin hao	232
+新华文轩	xin hua wen xuan	126
+新会展	xin hui zhan	308
+新龙门客栈	xin long men ke zhan	203
+星迷汇	xing mi hui	219
+性侵	xing qin	334
+雪地靴	xue di xue	29
+熏死	xun si	16
+雅西高速	ya xi gao su	336
+亚亚图雷	ya ya tu lei	187
+严处	yan chu	23
+严歌苓	yan ge ling	257
+延时闭店	yan shi bi dian	76
+杨丽萍	yang li ping	158
+央视新址	yang shi xin zhi	90
+摇车	yao che	37
+摇房	yao fang	38
+摇号	yao hao	40
+药家鑫	yao jia xin	169
+夜店	ye dian	258
+野生大熊猫	ye sheng da xiong mao	115
+医患关系	yi huan guan xi	27
+易小准	yi xiao zhun	194
+英拉	ying la	248
+用户数据	yong hu shu ju	112
+甬温线	yong wen xian	47
+有机蔬菜	you ji shu cai	36
+预售期	yu shou qi	60
+愿赌服输	yuan du fu shu	268
+云计算中心	yun ji suan zhong xin	111
+运渣车	yun zha che	225
+正能量	zheng neng liang	251
+整容专家	zheng rong zhuan jia	173
+治堵	zhi du	39
+智慧小区	zhi hui xiao qu	152
+中国梦	zhong guo meng	281
+终身监禁	zhong shen jian jin	103
+中小企倒闭潮	zhong xiao qi dao bi chao	70
+中信银行	zhong xin yin hang	128
+种族屠杀	zhong zu tu sha	89
+周董	zhou dong	167
+周其凤	zhou qi feng	178
+周洋	zhou yang	163
+驻俄大使	zhu e da shi	192
+住建部	zhu jian bu	93
+猪粮	zhu liang	254
+煮汤	zhu tang	255
+追责	zhui ze	303
+自来水公司	zi lai shui gong si	99
+足球先生	zu qiu xian sheng	185
+醉驾	zui jia	296

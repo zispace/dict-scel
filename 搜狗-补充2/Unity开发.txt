@@ -1,0 +1,400 @@
+# 词库名称: Unity开发
+# 词库分类: 计算机科技
+# 词库描述: 提供给Unity开发者的词库
+# 词条样例: 游戏对象、组件、变换、摄像机、刚体、协程
+# 解析词数: 393
+# 解析异常: 0
+
+按钮	an niu	359
+凹凸贴图	ao tu tie tu	218
+版本控制	ban ben kong zhi	45
+包管理器	bao guan li qi	9
+贝塞尔曲线	bei sai er qu xian	262
+本地	ben di	130
+本地仓库	ben di cang ku	30
+闭包	bi bao	79
+变换	bian huan	391
+编辑器	bian ji qi	59
+遍历	bian li	92
+编码	bian ma	106
+编译	bian yi	57
+标签	biao qian	39
+播放	bo fang	174
+不安全代码	bu an quan dai ma	68
+补丁	bu ding	25
+捕获	bu huo	305
+布局组	bu ju zu	352
+部署	bu shu	55
+裁剪空间	cai jian kong jian	257
+材质	cai zhi	387
+仓库	cang ku	32
+测试	ce shi	53
+层次结构	ceng ci jie gou	342
+插件	cha jian	331
+差异	cha yi	26
+查找	cha zhao	112
+拆箱	chai xiang	72
+场景	chang jing	389
+持续集成	chi xu ji cheng	47
+持续交付	chi xu jiao fu	46
+重命名	chong ming ming	93
+冲突	chong tu	38
+重写	chong xie	308
+重载	chong zai	307
+抽象	chou xiang	311
+触发器	chu fa qi	380
+触觉反馈	chu jue fan kui	134
+触摸	chu mo	144
+触摸板	chu mo ban	141
+传感器	chuan gan qi	133
+创建	chuang jian	97
+窗口化	chuang kou hua	158
+垂直同步	chui zhi tong bu	162
+粗糙度	cu cao du	223
+存储	cun chu	131
+存档	cun dang	123
+存在	cun zai	98
+打包	da bao	334
+带宽	dai kuan	271
+单例模式	dan li mo shi	298
+单元测试	dan yuan ce shi	52
+倒放	dao fang	171
+导航代理	dao hang dai li	193
+导航网格	dao hang wang ge	365
+导航障碍物	dao hang zhang ai wu	192
+等待	deng dai	301
+递归	di gui	91
+迭代	die dai	86
+顶点	ding dian	253
+定位	ding wei	132
+丢包	diu bao	270
+动画	dong hua	384
+动画参数	dong hua can shu	186
+动画层	dong hua ceng	187
+动画剪辑	dong hua jian ji	190
+动画控制器	dong hua kong zhi qi	189
+动画事件	dong hua shi jian	185
+动画状态机	dong hua zhuang tai ji	188
+动态	dong tai	229
+动态链接库	dong tai lian jie ku	64
+抖动	dou dong	269
+读档	du dang	122
+读写	du xie	103
+对象	dui xiang	318
+对象池	dui xiang chi	293
+多态	duo tai	313
+发布	fa bu	333
+发光贴图	fa guang tie tu	217
+法线贴图	fa xian tie tu	221
+泛光	fan guang	240
+反射探针	fan she tan zhen	212
+泛型	fan xing	325
+反序列化	fan xu lie hua	345
+方法	fang fa	316
+非托管代码	fei tuo guan dai ma	66
+分辨率	fen bian lv	160
+分割	fen ge	111
+分析器	fen xi qi	339
+分支	fen zhi	40
+封装	feng zhuang	312
+服务端	fu wu duan	284
+复制	fu zhi	94
+刚体	gang ti	381
+高光	gao guang	224
+高清渲染管线	gao qing xuan ran guan xian	243
+格式化	ge shi hua	115
+更新	geng xin	372
+工厂模式	gong chang mo shi	296
+工作区	gong zuo qu	29
+构建	gou jian	56
+构建管线	gou jian guan xian	18
+固定更新	gu ding geng xin	370
+固定关节	gu ding guan jie	196
+固定增量时间	gu ding zeng liang shi jian	165
+骨骼	gu ge	181
+观察者模式	guan cha zhe mo shi	297
+关键帧	guan jian zhen	178
+关节	guan jie	198
+惯性张量	guan xing zhang liang	199
+光照探针	guang zhao tan zhen	211
+光照贴图	guang zhao tie tu	366
+归一化	gui yi hua	169
+归约	gui yue	87
+滚动视图	gun dong shi tu	355
+过滤	guo lv	89
+合并	he bing	41
+烘焙	hong bei	231
+宏定义	hong ding yi	332
+后处理	hou chu li	242
+后构建	hou gou jian	19
+互操作	hu cao zuo	65
+互斥	hu chi	299
+忽略	hu lue	24
+画布	hua bu	361
+滑动条	hua dong tiao	356
+缓存	huan cun	126
+环境变量	huan jing bian liang	12
+环境光遮蔽	huan jing guang zhe bi	237
+唤醒	huan xing	374
+回滚	hui gun	273
+回退	hui tui	35
+混合	hun he	228
+混合树	hun he shu	184
+混音器	hun yin qi	349
+继承	ji cheng	314
+集成测试	ji cheng ce shi	51
+集合	ji he	324
+级联阴影	ji lian yin ying	232
+架构	jia gou	286
+加密	jia mi	121
+加速度计	jia su du ji	139
+检查器	jian cha qi	343
+检出	jian chu	34
+键盘	jian pan	146
+键值对	jian zhi dui	125
+脚本	jiao ben	14
+脚本对象	jiao ben dui xiang	344
+教程	jiao cheng	4
+铰链关节	jiao lian guan jie	197
+结构体	jie gou ti	319
+解决	jie jue	37
+接口	jie kou	326
+解码	jie ma	105
+解密	jie mi	120
+截取	jie qu	114
+解压	jie ya	118
+近裁剪面	jin cai jian mian	152
+金属度	jin shu du	222
+镜面反射	jing mian fan she	225
+景深	jing shen	239
+静态	jing tai	310
+镜头光晕	jing tou guang yun	207
+局部空间	ju bu kong jian	261
+矩阵	ju zhen	267
+角色控制器	jue se kong zhi qi	194
+抗锯齿	kang ju chi	241
+可编程渲染管线	ke bian cheng xuan ran guan xian	245
+客户端	ke hu duan	285
+克隆	ke long	33
+控制台	kong zhi tai	340
+框架	kuang jia	61
+扩展	kuo zhan	330
+扩展方法	kuo zhan fang fa	82
+扩展名	kuo zhan ming	99
+垃圾回收	la ji hui shou	337
+拉姆达表达式	la mu da biao da shi	80
+拉取	la qu	42
+历史	li shi	36
+离网链接	li wang lian jie	191
+离线	li xian	7
+粒子系统	li zi xi tong	363
+列表	lie biao	322
+路径	lu jing	100
+路径变量	lu jing bian liang	11
+论坛	lun tan	1
+罗盘	luo pan	138
+麦克风	mai ke feng	137
+漫反射	man fan she	226
+锚点	mao dian	354
+枚举	mei ju	320
+枚举器	mei ju qi	85
+蒙皮	meng pi	180
+面板	mian ban	360
+命令行	ming ling hang	16
+命名空间	ming ming kong jian	329
+摩擦力	mo ca li	205
+模块化	mo kuai hua	289
+模型矩阵	mo xing ju zhen	254
+模板缓冲	mu ban huan chong	249
+目标帧率	mu biao zhen lv	161
+目录	mu lu	101
+内存泄漏	nei cun xie lou	336
+内聚	nei ju	287
+逆变	ni bian	83
+匿名方法	ni ming fang fa	81
+逆向运动学	ni xiang yun dong xue	183
+耦合	ou he	288
+欧拉角	ou la jiao	265
+排序	pai xu	90
+抛出	pao chu	304
+配置文件	pei zhi wen jian	23
+碰撞体	peng zhuang ti	382
+批处理	pi chu li	368
+批处理文件	pi chu li wen jian	13
+匹配	pi pei	109
+片段	pian duan	252
+拼接	pin jie	116
+平滑增量时间	ping hua zeng liang shi jian	164
+屏幕截图	ping mu jie tu	148
+屏幕空间	ping mu kong jian	259
+启动	qi dong	373
+切线	qie xian	176
+清单文件	qing dan wen jian	22
+球面插值	qiu mian cha zhi	263
+曲线	qu xian	177
+全屏	quan ping	159
+权威服务器	quan wei fu wu qi	275
+权重	quan zhong	179
+任务	ren wu	300
+软件开发工具包	ruan jian kai fa gong ju bao	62
+软阴影	ruan yin ying	234
+色彩校正	se cai jiao zheng	236
+删除	shan chu	96
+社区	she qu	2
+射线检测	she xian jian ce	379
+摄像机	she xiang ji	388
+摄像头	she xiang tou	136
+深度缓冲	shen du huan chong	250
+生命周期	sheng ming zhou qi	375
+视差贴图	shi cha tie tu	220
+视场角	shi chang jiao	156
+事件	shi jian	327
+时间缩放	shi jian suo fang	168
+世界空间	shi jie kong jian	260
+视口空间	shi kou kong jian	258
+示例	shi li	3
+实例化	shi li hua	377
+实时	shi shi	230
+实体组件系统	shi ti zu jian xi tong	292
+视图矩阵	shi tu ju zhen	255
+视锥体	shi zhui ti	151
+手柄	shou bing	143
+鼠标	shu biao	145
+数据导向设计	shu ju dao xiang she ji	291
+数据库	shu ju ku	127
+输入系统	shu ru xi tong	147
+属性	shu xing	317
+属性访问器	shu xing fang wen qi	78
+数组	shu zu	321
+四元数	si yuan shu	266
+速度	su du	170
+索引器	suo yin qi	77
+弹簧关节	tan huang guan jie	195
+弹力	tan li	204
+探针	tan zhen	213
+套接字	tao jie zi	278
+剔除遮罩	ti chu zhe zhao	150
+替换	ti huan	113
+体积光	ti ji guang	210
+提交	ti jiao	44
+提取	ti qu	108
+天空盒	tian kong he	208
+调试	tiao shi	54
+贴花	tie hua	214
+停止	ting zhi	172
+同步	tong bu	282
+通用渲染管线	tong yong xuan ran guan xian	244
+透明度	tou ming du	227
+透视	tou shi	154
+投影矩阵	tou ying ju zhen	256
+图像	tu xiang	357
+推送	tui song	43
+托管代码	tuo guan dai ma	67
+陀螺仪	tuo luo yi	140
+玩家偏好	wan jia pian hao	124
+晚期更新	wan qi geng xin	371
+网络	wang luo	283
+未缩放增量时间	wei suo fang zeng liang shi jian	166
+委托	wei tuo	328
+位移贴图	wei yi tie tu	219
+文本	wen ben	358
+文档	wen dang	5
+文件	wen jian	102
+纹理	wen li	385
+物理	wu li	383
+物理材质	wu li cai zhi	206
+雾效	wu xiao	209
+细节贴图	xi jie tie tu	215
+线程	xian cheng	303
+显式转换	xian shi zhuan huan	74
+线性插值	xian xing cha zhi	264
+向量	xiang liang	268
+项目	xiang mu	341
+像素	xiang su	251
+销毁	xiao hui	376
+消息	xiao xi	280
+协变	xie bian	84
+协程	xie cheng	378
+协议	xie yi	279
+性能测试	xing neng ce shi	50
+性能优化	xing neng you hua	335
+行为树	xing wei shu	294
+序列化	xu lie hua	346
+虚拟	xu ni	309
+渲染	xuan ran	369
+渲染管线	xuan ran guan xian	246
+渲染目标	xuan ran mu biao	149
+循环	xun huan	175
+寻路	xun lu	364
+压力测试	ya li ce shi	49
+压缩	ya suo	119
+延迟	yan chi	272
+颜色缓冲	yan se huan chong	248
+验证	yan zheng	107
+摇杆	yao gan	142
+异步	yi bu	302
+异常	yi chang	306
+移动	yi dong	95
+依赖项	yi lai xiang	10
+依赖注入	yi lai zhu ru	290
+音频监听器	yin pin jian ting qi	350
+音频源	yin pin yuan	351
+引擎	yin qing	60
+隐式转换	yin shi zhuan huan	75
+阴影	yin ying	235
+引用类型	yin yong lei xing	70
+映射	ying she	88
+硬阴影	ying yin ying	233
+应用程序接口	ying yong cheng xu jie kou	63
+用户界面	yong hu jie mian	362
+游戏对象	you xi dui xiang	393
+预测	yu ce	274
+预构建	yu gou jian	20
+预制体	yu zhi ti	390
+远裁剪面	yuan cai jian mian	153
+远程	yuan cheng	129
+远程仓库	yuan cheng cang ku	31
+远程过程调用	yuan cheng guo cheng diao yong	281
+运动模糊	yun dong mo hu	238
+云端	yun duan	128
+运算符重载	yun suan fu chong zai	76
+运行时	yun xing shi	58
+在线	zai xian	6
+暂存区	zan cun qu	28
+暂停	zan ting	173
+增量时间	zeng liang shi jian	167
+遮挡剔除	zhe dang ti chu	367
+遮罩贴图	zhe zhao tie tu	216
+震动	zhen dong	135
+帧缓冲	zhen huan chong	247
+帧率	zhen lv	338
+帧数	zhen shu	163
+帧同步	zhen tong bu	277
+正交	zheng jiao	155
+正向运动学	zheng xiang yun dong xue	182
+正则表达式	zheng ze biao da shi	110
+值类型	zhi lei xing	71
+质量	zhi liang	202
+质心	zhi xin	200
+指针	zhi zhen	69
+终端	zhong duan	15
+重力	zhong li	201
+轴心	zhou xin	353
+注册表	zhu ce biao	8
+状态	zhuang tai	27
+状态机	zhuang tai ji	295
+状态同步	zhuang tai tong bu	276
+装箱	zhuang xiang	73
+着色器	zhuo se qi	386
+资产包	zi chan bao	21
+字典	zi dian	323
+自动化测试	zi dong hua ce shi	48
+自动化构建	zi dong hua gou jian	17
+字段	zi duan	315
+字符串	zi fu chuan	117
+字节	zi jie	104
+资源	zi yuan	348
+资源包	zi yuan bao	347
+纵横比	zong heng bi	157
+组件	zu jian	392
+阻力	zu li	203

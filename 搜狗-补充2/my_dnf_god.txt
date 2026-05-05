@@ -1,0 +1,734 @@
+# 词库名称: my dnf god
+# 词库分类: 个人专用
+# 词库描述: 方便写作 地图名称 装备名称
+# 词条样例: 紫太绝刀红莲天舞、格兰之森、悲鸣战弩、紫巨残杀者之剑、粉巨卡露亚的教导照胆
+# 解析词数: 727
+# 解析异常: 0
+
+阿拉德腰带	a la de yao dai	228
+艾尔文防线	ai er wen fang xian	727
+艾尔文轻型战甲	ai er wen qing xing zhan jia	106
+艾尔文胸甲	ai er wen xiong jia	107
+艾力斯的星芒项坠	ai li si de xing mang xiang zhui	371
+暗黑城	an hei cheng	575
+暗黑城地夕板甲护腿	an hei cheng di xi ban jia hu tui	222
+暗黑城破曦布甲绑腿	an hei cheng po xi bu jia bang tui	237
+暗黑城破曦布甲长袍	an hei cheng po xi bu jia chang pao	238
+暗黑城入口	an hei cheng ru kou	551
+暗黑城斩影皮甲护腿	an hei cheng zhan ying pi jia hu tui	231
+暗黑城斩影皮甲上衣	an hei cheng zhan ying pi jia shang yi	230
+暗黑城斩影轻甲护腿	an hei cheng zhan ying qing jia hu tui	215
+暗黑城斩影轻甲胸甲	an hei cheng zhan ying qing jia xiong jia	214
+暗黑城斩影重甲护腿	an hei cheng zhan ying zhong jia hu tui	227
+暗黑城斩影重甲胸铠	an hei cheng zhan ying zhong jia xiong kai	226
+暗黑雷鸣废墟	an hei lei ming fei xu	695
+暗黑玄廊	an hei xuan lang	478
+暗黑战印护肩	an hei zhan yin hu jian	187
+暗黑战印腰带	an hei zhan yin yao dai	239
+暗精灵墓地	an jing ling mu di	559
+暗影迷宫	an ying mi gong	352
+傲凰套装各职业套装	ao huang tao zhuang ge zhi ye tao zhuang	350
+傲凰套装肩鞋腰	ao huang tao zhuang jian xie yao	376
+板甲	ban jia	276
+班图的冰晶项坠	ban tu de bing jing xiang zhui	250
+暴风雨神套装	bao feng yu shen tao zhuang	526
+暴风雨神图腾	bao feng yu shen tu teng	15
+爆麟绑腿	bao lin bang tui	175
+爆麟护肩	bao lin hu jian	229
+爆麟夹克	bao lin jia ke	121
+爆麟腰带	bao lin yao dai	288
+贝尔玛尔之星	bei er ma er zhi xing	627
+贝尔玛尔之星图纸	bei er ma er zhi xing tu zhi	603
+悲鸣洞穴	bei ming dong xue	722
+悲鸣战弩	bei ming zhan nu	721
+比尔马克帝国试验场机械牛	bi er ma ke di guo shi yan chang ji xie niu	726
+碧澜寒玉剑	bi lan han yu jian	502
+碧玉套装	bi yu tao zhuang	449
+冰晶十字架紫色武器	bing jing shi zi jia zi se wu qi	213
+冰凌长袍	bing ling chang pao	241
+冰霜幽暗密林	bing shuang you an mi lin	704
+冰心少年	bing xin shao nian	605
+冰心兔神项坠	bing xin tu shen xiang zhui	246
+布甲	bu jia	303
+苍穹之主护肩	cang qiong zhi zhu hu jian	133
+常春藤手镯深渊模式出	chang chun teng shou zhuo shen yuan mo shi chu	665
+城主宫殿	cheng zhu gong dian	475
+赤霞腰带	chi xia yao dai	118
+赤霞重甲套装	chi xia zhong jia tao zhuang	170
+初魔法师战袍	chu mo fa shi zhan pao	141
+传承暗影精灵的东方棍	chuan cheng an ying jing ling de dong fang gun	38
+传承大地女神的赤铜重甲套装	chuan cheng da di nv shen de chi tong zhong jia tao zhuang	172
+传承大地女神的熊皮战甲套装	chuan cheng da di nv shen de xiong pi zhan jia tao zhuang	178
+传承大地女神的血骨轻甲套装	chuan cheng da di nv shen de xue gu qing jia tao zhuang	162
+传承大地女神的羊毛战袍套装	chuan cheng da di nv shen de yang mao zhan pao tao zhuang	199
+传承斗魔命运首饰	chuan cheng dou mo ming yun shou shi	146
+传承斗魔命运胸坠	chuan cheng dou mo ming yun xiong zhui	148
+传承斗魔命运之戒	chuan cheng dou mo ming yun zhi jie	147
+传承复魂天使的步枪	chuan cheng fu hun tian shi de bu qiang	60
+传承复魂天使的念珠	chuan cheng fu hun tian shi de nian zhu	3
+传承复魂天使的十字架	chuan cheng fu hun tian shi de shi zi jia	1
+传承复魂天使的手套	chuan cheng fu hun tian shi de shou tao	27
+传承复魂天使的月华刀	chuan cheng fu hun tian shi de yue hua dao	77
+传承复魂天使之剑	chuan cheng fu hun tian shi zhi jian	81
+传承黑暗天使的手枪	chuan cheng hei an tian shi de shou qiang	72
+传承黑暗天使的战矛	chuan cheng hei an tian shi de zhan mao	51
+传承幻象天使的光影剑	chuan cheng huan xiang tian shi de guang ying jian	96
+传承幻象天使的鸣矢拳套	chuan cheng huan xiang tian shi de ming shi quan tao	18
+传承幻象天使的墨石拳套	chuan cheng huan xiang tian shi de mo shi quan tao	19
+传承幻象天使的手炮	chuan cheng huan xiang tian shi de shou pao	56
+传承幻象天使的左轮枪	chuan cheng huan xiang tian shi de zuo lun qiang	65
+传承极光精灵护腕	chuan cheng ji guang jing ling hu wan	311
+传承极光精灵首饰	chuan cheng ji guang jing ling shou shi	153
+传承极光精灵项坠	chuan cheng ji guang jing ling xiang zhui	308
+传承极光精灵之戒	chuan cheng ji guang jing ling zhi jie	309
+传承极光天使的手炮	chuan cheng ji guang tian shi de shou pao	57
+传承劫风精灵的机械臂铠	chuan cheng jie feng jing ling de ji xie bi kai	24
+传承劫风精灵的战棍	chuan cheng jie feng jing ling de zhan gun	47
+传承劫风精灵的左轮枪	chuan cheng jie feng jing ling de zuo lun qiang	64
+传承救赎天使的波刃剑	chuan cheng jiu shu tian shi de bo ren jian	91
+传承救赎天使的节刀	chuan cheng jiu shu tian shi de jie dao	78
+传承救赎天使的十字架	chuan cheng jiu shu tian shi de shi zi jia	2
+传承救赎天使的土著弩	chuan cheng jiu shu tian shi de tu zhu nu	69
+传承救赎天使的玄磁光剑	chuan cheng jiu shu tian shi de xuan ci guang jian	95
+传承救赎天使的战斧	chuan cheng jiu shu tian shi de zhan fu	6
+传承救赎天使的战矛	chuan cheng jiu shu tian shi de zhan mao	52
+传承救赎天使之爪	chuan cheng jiu shu tian shi zhi zhao	31
+传承飓风精灵的波刃剑	chuan cheng ju feng jing ling de bo ren jian	90
+传承飓风精灵的步枪	chuan cheng ju feng jing ling de bu qiang	61
+传承飓风精灵的图腾	chuan cheng ju feng jing ling de tu teng	12
+传承飓风精灵的战槌	chuan cheng ju feng jing ling de zhan chui	86
+传承飓风精灵的战斧	chuan cheng ju feng jing ling de zhan fu	5
+传承飓风精灵的战棍	chuan cheng ju feng jing ling de zhan gun	48
+传承狂暴精灵护腕	chuan cheng kuang bao jing ling hu wan	317
+传承狂暴精灵首饰	chuan cheng kuang bao jing ling shou shi	314
+传承狂暴精灵项链	chuan cheng kuang bao jing ling xiang lian	315
+传承狂暴精灵之戒	chuan cheng kuang bao jing ling zhi jie	316
+传承灵魂审判者首饰	chuan cheng ling hun shen pan zhe shou shi	150
+传承灵魂审判者项坠	chuan cheng ling hun shen pan zhe xiang zhui	151
+传承灵魂审判者之戒	chuan cheng ling hun shen pan zhe zhi jie	307
+传承迷踪天使的东方棍	chuan cheng mi zong tian shi de dong fang gun	39
+传承迷踪天使的念珠	chuan cheng mi zong tian shi de nian zhu	4
+传承迷踪天使的碎骨棒	chuan cheng mi zong tian shi de sui gu bang	85
+传承迷踪天使的图腾	chuan cheng mi zong tian shi de tu teng	11
+传承迷踪天使之剑	chuan cheng mi zong tian shi zhi jian	82
+传承迷踪天使之爪	chuan cheng mi zong tian shi zhi zhao	30
+传承神秘的水魔碧灵棒	chuan cheng shen mi de shui mo bi ling bang	87
+传承神秘的水魔碧灵臂铠	chuan cheng shen mi de shui mo bi ling bi kai	25
+传承神秘的水魔碧灵步枪	chuan cheng shen mi de shui mo bi ling bu qiang	62
+传承神秘的水魔碧灵大剑	chuan cheng shen mi de shui mo bi ling da jian	92
+传承神秘的水魔碧灵光剑	chuan cheng shen mi de shui mo bi ling guang jian	97
+传承神秘的水魔碧灵剑	chuan cheng shen mi de shui mo bi ling jian	83
+传承神秘的水魔碧灵枯叶刀	chuan cheng shen mi de shui mo bi ling ku ye dao	79
+传承神秘的水魔碧灵拳套	chuan cheng shen mi de shui mo bi ling quan tao	20
+传承神秘的水魔碧灵手炮	chuan cheng shen mi de shui mo bi ling shou pao	58
+传承神秘的水魔碧灵手枪	chuan cheng shen mi de shui mo bi ling shou qiang	74
+传承神秘的水魔碧灵手套	chuan cheng shen mi de shui mo bi ling shou tao	28
+传承神秘的水魔碧灵图腾	chuan cheng shen mi de shui mo bi ling tu teng	13
+传承神秘的水魔碧灵战斧	chuan cheng shen mi de shui mo bi ling zhan fu	7
+传承神秘的水魔碧灵爪	chuan cheng shen mi de shui mo bi ling zhao	32
+传承神秘的水魔碧灵重弩	chuan cheng shen mi de shui mo bi ling zhong nu	70
+传承神秘的水魔碧灵左轮枪	chuan cheng shen mi de shui mo bi ling zuo lun qiang	66
+传承神秘的水魔灵碧东方棍	chuan cheng shen mi de shui mo ling bi dong fang gun	40
+传承神圣的大地女神熊皮战甲	chuan cheng shen sheng de da di nv shen xiong pi zhan jia	177
+传承神圣的斗魔命运首饰	chuan cheng shen sheng de dou mo ming yun shou shi	202
+传承神圣的斗魔命运胸坠	chuan cheng shen sheng de dou mo ming yun xiong zhui	145
+传承神圣的斗魔命运之戒	chuan cheng shen sheng de dou mo ming yun zhi jie	144
+传承神圣的极光精灵护腕	chuan cheng shen sheng de ji guang jing ling hu wan	206
+传承神圣的极光精灵首饰	chuan cheng shen sheng de ji guang jing ling shou shi	152
+传承神圣的极光精灵项坠	chuan cheng shen sheng de ji guang jing ling xiang zhui	207
+传承神圣的极光精灵之戒	chuan cheng shen sheng de ji guang jing ling zhi jie	208
+传承神圣的狂暴精灵护腕	chuan cheng shen sheng de kuang bao jing ling hu wan	209
+传承神圣的狂暴精灵首饰	chuan cheng shen sheng de kuang bao jing ling shou shi	211
+传承神圣的狂暴精灵项链	chuan cheng shen sheng de kuang bao jing ling xiang lian	210
+传承神圣的狂暴精灵之戒	chuan cheng shen sheng de kuang bao jing ling zhi jie	212
+传承神圣的灵魂审判者首饰	chuan cheng shen sheng de ling hun shen pan zhe shou shi	247
+传承神圣的灵魂审判者项坠	chuan cheng shen sheng de ling hun shen pan zhe xiang zhui	149
+传承神圣的灵魂审判者之镯	chuan cheng shen sheng de ling hun shen pan zhe zhi zhuo	306
+传承神圣的守夜女神的星纹套装	chuan cheng shen sheng de shou ye nv shen de xing wen tao zhuang	283
+传承神圣的守夜女神蟒皮绑腿	chuan cheng shen sheng de shou ye nv shen mang pi bang tui	291
+传承神圣的守夜女神兽骨绑腿	chuan cheng shen sheng de shou ye nv shen shou gu bang tui	266
+传承神圣的守夜女神星纹护腿	chuan cheng shen sheng de shou ye nv shen xing wen hu tui	284
+传承神圣的守夜女神玄钢护腿	chuan cheng shen sheng de shou ye nv shen xuan gang hu tui	271
+传承神圣的守夜女神羊毛护腿	chuan cheng shen sheng de shou ye nv shen yang mao hu tui	299
+传承神圣的玄冰精灵首饰	chuan cheng shen sheng de xuan bing jing ling shou shi	251
+传承神圣的玄冰精灵手镯	chuan cheng shen sheng de xuan bing jing ling shou zhuo	254
+传承神圣的玄冰精灵项坠	chuan cheng shen sheng de xuan bing jing ling xiang zhui	252
+传承神圣的玄冰精灵之戒	chuan cheng shen sheng de xuan bing jing ling zhi jie	253
+传承神圣的战争女神薄纱护腿	chuan cheng shen sheng de zhan zheng nv shen bao sha hu tui	128
+传承神圣的战争女神薄纱腰带	chuan cheng shen sheng de zhan zheng nv shen bao sha yao dai	130
+传承神圣的战争女神黑陶绑腿	chuan cheng shen sheng de zhan zheng nv shen hei tao bang tui	103
+传承神圣的战争女神狼皮绑腿	chuan cheng shen sheng de zhan zheng nv shen lang pi bang tui	122
+传承神圣的战争女神狼皮腰带	chuan cheng shen sheng de zhan zheng nv shen lang pi yao dai	124
+传承神圣的战争女神墨钢护腿	chuan cheng shen sheng de zhan zheng nv shen mo gang hu tui	112
+传承神圣的战争女神墨钢腰带	chuan cheng shen sheng de zhan zheng nv shen mo gang yao dai	114
+传承神圣的战争女神墨钢重甲	chuan cheng shen sheng de zhan zheng nv shen mo gang zhong jia	225
+传承神圣的战争女神钛钢护腿	chuan cheng shen sheng de zhan zheng nv shen tai gang hu tui	108
+传承神圣的战争女神钛钢护腰	chuan cheng shen sheng de zhan zheng nv shen tai gang hu yao	110
+传承圣洁天使的臂铠	chuan cheng sheng jie tian shi de bi kai	23
+传承守护天使的手枪	chuan cheng shou hu tian shi de shou qiang	73
+传承守夜女神的蟒皮绑腿	chuan cheng shou ye nv shen de mang pi bang tui	293
+传承守夜女神的蟒皮战甲套装	chuan cheng shou ye nv shen de mang pi zhan jia tao zhuang	292
+传承守夜女神的兽骨绑腿	chuan cheng shou ye nv shen de shou gu bang tui	268
+传承守夜女神的兽骨轻甲套装	chuan cheng shou ye nv shen de shou gu qing jia tao zhuang	267
+传承守夜女神的玄钢板甲套装	chuan cheng shou ye nv shen de xuan gang ban jia tao zhuang	272
+传承守夜女神的玄钢护腿	chuan cheng shou ye nv shen de xuan gang hu tui	273
+传承守夜女神的羊毛护腿	chuan cheng shou ye nv shen de yang mao hu tui	301
+传承守夜女神的羊毛战袍套装	chuan cheng shou ye nv shen de yang mao zhan pao tao zhuang	302
+传承水魔碧灵棒	chuan cheng shui mo bi ling bang	88
+传承水魔碧灵臂铠	chuan cheng shui mo bi ling bi kai	26
+传承水魔碧灵步枪	chuan cheng shui mo bi ling bu qiang	63
+传承水魔碧灵大剑	chuan cheng shui mo bi ling da jian	93
+传承水魔碧灵东方棍	chuan cheng shui mo bi ling dong fang gun	41
+传承水魔碧灵剑	chuan cheng shui mo bi ling jian	84
+传承水魔碧灵枯叶刀	chuan cheng shui mo bi ling ku ye dao	80
+传承水魔碧灵手炮	chuan cheng shui mo bi ling shou pao	59
+传承水魔碧灵手枪	chuan cheng shui mo bi ling shou qiang	75
+传承水魔碧灵手套	chuan cheng shui mo bi ling shou tao	29
+传承水魔碧灵图腾	chuan cheng shui mo bi ling tu teng	14
+传承水魔碧灵战矛	chuan cheng shui mo bi ling zhan mao	53
+传承水魔碧灵爪	chuan cheng shui mo bi ling zhao	33
+传承水魔碧灵左轮枪	chuan cheng shui mo bi ling zuo lun qiang	67
+传承玄冰精灵的东方棍	chuan cheng xuan bing jing ling de dong fang gun	37
+传承玄冰精灵首饰	chuan cheng xuan bing jing ling shou shi	154
+传承银湖水仙长弩	chuan cheng yin hu shui xian chang nu	71
+传承战争女神的薄纱护腿	chuan cheng zhan zheng nv shen de bao sha hu tui	134
+传承战争女神的薄纱腰带	chuan cheng zhan zheng nv shen de bao sha yao dai	136
+传承战争女神的薄纱战袍套装	chuan cheng zhan zheng nv shen de bao sha zhan pao tao zhuang	184
+传承战争女神的黑陶绑腿	chuan cheng zhan zheng nv shen de hei tao bang tui	104
+传承战争女神的狼皮绑腿	chuan cheng zhan zheng nv shen de lang pi bang tui	123
+传承战争女神的狼皮腰带	chuan cheng zhan zheng nv shen de lang pi yao dai	127
+传承战争女神的狼皮战甲套装	chuan cheng zhan zheng nv shen de lang pi zhan jia tao zhuang	176
+传承战争女神的墨钢护腿	chuan cheng zhan zheng nv shen de mo gang hu tui	115
+传承战争女神的墨钢腰带	chuan cheng zhan zheng nv shen de mo gang yao dai	116
+传承战争女神的墨钢重甲套装	chuan cheng zhan zheng nv shen de mo gang zhong jia tao zhuang	169
+传承战争女神的钛钢护腿	chuan cheng zhan zheng nv shen de tai gang hu tui	109
+传承战争女神的钛钢护腰	chuan cheng zhan zheng nv shen de tai gang hu yao	111
+传承智慧天使的狩猎弩	chuan cheng zhi hui tian shi de shou lie nu	68
+大地祝福绑腿	da di zhu fu bang tui	438
+大地祝福轻甲套装	da di zhu fu qing jia tao zhuang	219
+大地祝福套装	da di zhu fu tao zhuang	686
+达芙妮的寒玉胸坠	da fu ni de han yu xiong zhui	245
+达芙妮项链	da fu ni xiang lian	529
+达芙尼项链	da fu ni xiang lian	532
+第二脊椎	di er ji zhui	622
+第一脊椎	di yi ji zhui	631
+地狱冥炎之镯	di yu ming yan zhi zhuo	203
+雕翎长裤	diao ling chang ku	194
+雕翎长袍	diao ling chang pao	196
+雕翎短靴	diao ling duan xue	191
+雕翎护肩	diao ling hu jian	193
+雕翎腰带	diao ling yao dai	192
+定神棒图纸	ding shen bang tu zhi	679
+毒晰手镯	du xi shou zhuo	614
+短剑萨乌塔的椎骨剑	duan jian sa wu ta de zhui gu jian	428
+堕落的盗贼	duo luo de dao zei	530
+恶雷擒月腰带	e lei qin yue yao dai	522
+法罗湾的珍珠戒指	fa luo wan de zhen zhu jie zhi	310
+法罗湾的珍珠项链	fa luo wan de zhen zhu xiang lian	304
+梵风衣	fan feng yi	675
+粉布甲梵风衣	fen bu jia fan feng yi	516
+粉布甲梵风衣深渊	fen bu jia fan feng yi shen yuan	492
+粉布甲亡灵护腿	fen bu jia wang ling hu tui	415
+粉步枪天界猎杀者	fen bu qiang tian jie lie sha zhe	339
+粉步枪突击夜神	fen bu qiang tu ji ye shen	340
+粉短剑卡路亚的教导裂风	fen duan jian ka lu ya di jiao dao lie feng	589
+粉短剑卢克西的紫炎波刃剑	fen duan jian lu ke xi de zi yan bo ren jian	615
+粉短卡路亚的教导裂风	fen duan ka lu ya di jiao dao lie feng	390
+粉短卡露亚的教导裂风	fen duan ka lu ya di jiao dao lie feng	359
+粉短卢克西的紫炎波刃剑	fen duan lu ke xi de zi yan bo ren jian	413
+粉短落日幻影	fen duan luo ri huan ying	392
+粉短邪灵饮血剑	fen duan xie ling yin xue jian	547
+粉钝恶魔破天棒	fen dun e mo po tian bang	396
+粉钝卡露亚的教导裁决	fen dun ka lu ya di jiao dao cai jue	391
+粉钝器卡露亚的教导裁决	fen dun qi ka lu ya di jiao dao cai jue	590
+粉斧酒神的战斧	fen fu jiu shen de zhan fu	601
+粉光光之翼刃	fen guang guang zhi yi ren	670
+粉光闪耀的阿隆戴特	fen guang shan yao de a long dai te	378
+粉光双龙魔影剑	fen guang shuang long mo ying jian	716
+粉光玄光圣剑	fen guang xuan guang sheng jian	562
+粉棍雷神战棍	fen gun lei shen zhan gun	644
+粉棍血雾玫瑰棍	fen gun xue wu mei gui gun	701
+粉戒骸麟的骨戒	fen jie hai lin de gu jie	361
+粉戒骸麒的骨戒	fen jie hai qi de gu jie	382
+粉戒拉罗的迷失之戒	fen jie la luo de mi shi zhi jie	472
+粉戒拉罗的迷失之戒深渊	fen jie la luo de mi shi zhi jie shen yuan	480
+粉戒灵犀之心	fen jie ling xi zhi xin	421
+粉戒玛尼神兽项链	fen jie ma ni shen shou xiang lian	384
+粉巨阿甘佐的浪人长剑	fen ju a gan zuo de lang ren chang jian	341
+粉巨裁决之剑	fen ju cai jue zhi jian	714
+粉巨残影剑	fen ju can ying jian	650
+粉巨卡露亚的教导照胆	fen ju ka lu ya di jiao dao zhao dan	713
+粉巨卡赞的诅咒	fen ju ka zan de zu zhou	636
+粉快枪生命掠夺者	fen kuai qiang sheng ming lue duo zhe	673
+粉镰刀酒神的战镰	fen lian dao jiu shen de zhan lian	394
+粉镰刀酒神镰刀	fen lian dao jiu shen lian dao	558
+粉矛风雷战戟	fen mao feng lei zhan ji	624
+粉魔杖魔音护魂魔杖	fen mo zhang mo yin hu hun mo zhang	723
+粉念珠信奘的念珠	fen nian zhu xin zang de nian zhu	724
+粉弩	fen nu	511
+粉炮旋炎手炮深渊	fen pao xuan yan shou pao shen yuan	485
+粉枪裁决者	fen qiang cai jue zhe	448
+粉拳套金刚碎魄	fen quan tao jin gang sui po	535
+粉拳套落日鹰眼	fen quan tao luo ri ying yan	597
+粉手炮白焰翼龙	fen shou pao bai yan yi long	549
+粉手镯罗杰的金表	fen shou zhuo luo jie de jin biao	540
+粉太创裂心灵之刃	fen tai chuang lie xin ling zhi ren	689
+粉太刀创裂心灵之刃	fen tai dao chuang lie xin ling zhi ren	642
+粉太刀西岚的妖刀	fen tai dao xi lan de yao dao	536
+粉太红丸	fen tai hong wan	422
+粉太裂创心灵之刃深渊	fen tai lie chuang xin ling zhi ren shen yuan	465
+粉太裂创之刃	fen tai lie chuang zhi ren	446
+粉太流光星陨刀	fen tai liu guang xing yun dao	715
+粉太西岚的妖刀	fen tai xi lan de yao dao	598
+粉太影丸	fen tai ying wan	342
+粉项链赤道碎星花结	fen xiang lian chi dao sui xing hua jie	580
+粉项链古古莱恩闪耀	fen xiang lian gu gu lai en shan yao	693
+粉项链玛尼神兽项坠施放速度加	fen xiang lian ma ni shen shou xiang zhui shi fang su du jia	336
+粉项链神鬼战士项链	fen xiang lian shen gui zhan shi xiang lian	429
+粉项链圣灵战士项链深渊	fen xiang lian sheng ling zhan shi xiang lian shen yuan	464
+粉项链王者之星	fen xiang lian wang zhe zhi xing	344
+粉鞋雕翎短靴	fen xie diao ling duan xue	656
+粉爪摩根之爪	fen zhao mo gen zhi zhao	711
+粉重帝国元帅胫甲	fen zhong di guo yuan shuai jing jia	509
+粉装雕翎套装深渊	fen zhuang diao ling tao zhuang shen yuan	473
+粉装狂舞短裤深渊	fen zhuang kuang wu duan ku shen yuan	487
+粉镯地狱冥炎之镯	fen zhuo di yu ming yan zhi zhuo	365
+粉镯卡罗蛇眼	fen zhuo ka luo she yan	409
+粉镯罗杰的金表	fen zhuo luo jie de jin biao	345
+粉镯杀戮守护之镯	fen zhuo sha lu shou hu zhi zhuo	366
+粉自动爆烈者血鹰	fen zi dong bao lie zhe xue ying	712
+粉左边境浪人荒火	fen zuo bian jing lang ren huang huo	621
+粉左龙骑士深渊	fen zuo long qi shi shen yuan	479
+粉左轮边境浪人荒火	fen zuo lun bian jing lang ren huang huo	570
+粉左死亡舞步	fen zuo si wang wu bu	324
+风影醉魔拳套	feng ying zui mo quan tao	21
+哥布林冥骨项坠	ge bu lin ming gu xiang zhui	691
+哥布林皮甲	ge bu lin pi jia	181
+哥布林皮甲套装	ge bu lin pi jia tao zhuang	235
+哥布林皮衣	ge bu lin pi yi	294
+哥布林项链	ge bu lin xiang lian	677
+格斗家武器	ge dou jia wu qi	45
+格拉卡	ge la ka	702
+格兰之森	ge lan zhi sen	709
+格朗布林的蚕丝护腿	ge lang bu lin de can si hu tui	242
+格朗布林的蚕丝夹克	ge lang bu lin de can si jia ke	201
+格朗布林的蚕丝战袍	ge lang bu lin de can si zhan pao	200
+格朗布林的蚕丝战袍套装	ge lang bu lin de can si zhan pao tao zhuang	243
+各职业套	ge zhi ye tao	330
+各职业套装	ge zhi ye tao zhuang	321
+各职业套装上身下身除外	ge zhi ye tao zhuang shang shen xia shen chu wai	375
+各职业套装上下身套装肩鞋腰	ge zhi ye tao zhuang shang xia shen tao zhuang jian xie yao	343
+古古莱恩闪耀	gu gu lai en shan yao	313
+光之舞手镯	guang zhi wu shou zhuo	312
+光之翼刃	guang zhi yi ren	99
+鬼剑士武器	gui jian shi wu qi	100
+骸麟的骨戒	hai lin de gu jie	566
+骸麒的骨戒	hai qi de gu jie	578
+黑茶木十字架	hei cha mu shi zi jia	707
+黑月皮甲套装	hei yue pi jia tao zhuang	520
+黑月腰带	hei yue yao dai	125
+狐皮短裤	hu pi duan ku	236
+琥珀护腕	hu po hu wan	496
+幻影死神腰带	huan ying si shen yao dai	223
+火龙臂铠	huo long bi kai	647
+火蜥皮衣	huo xi pi yi	180
+火蜥皮质战甲套装	huo xi pi zhi zhan jia tao zhuang	179
+火焰楠木棒	huo yan nan mu bang	708
+寂静灵魂套装	ji jing ling hun tao zhuang	354
+祭祀手套	ji si shou tao	262
+极昼	ji zhou	633
+匠人的幽纹短鞋	jiang ren de you wen duan xie	140
+蛟纹长靴	jiao wen chang xue	557
+蛟纹护肩设计图	jiao wen hu jian she ji tu	404
+蛟纹轻型战甲套装	jiao wen qing xing zhan jia tao zhuang	583
+禁锢法杖	jin gu fa zhang	101
+锦鳞短靴	jin lin duan xue	186
+锦鳞战袍套装	jin lin zhan pao tao zhuang	185
+精灵长袍	jing ling chang pao	407
+精灵的奔雷轻甲图	jing ling de ben lei qing jia tu	645
+精灵的隐灵布甲长袍	jing ling de yin ling bu jia chang pao	406
+精灵之歌	jing ling zhi ge	684
+精灵祝福长袍	jing ling zhu fu chang pao	297
+精灵祝福斗篷	jing ling zhu fu dou peng	189
+精灵祝福腰带	jing ling zhu fu yao dai	240
+酒神的圣祭图腾	jiu shen de sheng ji tu teng	16
+酒神的战斧	jiu shen de zhan fu	9
+聚冥绑腿	ju ming bang tui	126
+卡露亚的教导奇袭	ka lu ya di jiao dao qi xi	35
+卡露亚的希望圣日护肩	ka lu ya di xi wang sheng ri hu jian	274
+卡露亚的希望圣日腰带	ka lu ya di xi wang sheng ri yao dai	275
+卡罗蛇眼	ka luo she yan	658
+凯诺的骨爪	kai nuo de gu zhua	260
+柯尔特黑钻玄芒	ke er te hei zuan xuan mang	259
+柯尔特火蛇紫色左轮枪	ke er te huo she zi se zuo lun qiang	155
+拉罗的迷失之戒指	la luo de mi shi zhi jie zhi	661
+蓝色日冕长靴	lan se ri mian chang xue	166
+蓝色日冕肩甲	lan se ri mian jian jia	224
+蓝水晶护腿	lan shui jing hu tui	524
+冷月星云戒指	leng yue xing yun jie zhi	244
+离火焰影项坠	li huo yan ying xiang zhui	204
+黎明七星护肩	li ming qi xing hu jian	171
+黎明七星套装	li ming qi xing tao zhuang	610
+栗木长靴	li mu chang xue	220
+炼狱	lian yu	640
+裂空棍	lie kong gun	49
+列特的疾影剑	lie te de ji ying jian	98
+烈焰格拉卡	lie yan ge la ka	699
+烈焰骑士绑腿	lie yan qi shi bang tui	234
+烈焰骑士长靴	lie yan qi shi chang xue	663
+鳞岩重甲套装	lin yan zhong jia tao zhuang	278
+灵犀之心	ling xi zhi xin	613
+流光皮甲套装	liu guang pi jia tao zhuang	286
+流光皮靴	liu guang pi xue	287
+流光腰带	liu guang yao dai	525
+龙脊套装	long ji tao zhuang	539
+龙鸣套装	long ming tao zhuang	611
+龙鸣重甲套装	long ming zhong jia tao zhuang	117
+龙人之塔	long ren zhi ta	493
+龙旋破军棍	long xuan po jun gun	42
+罗杰的金表	luo jie de jin biao	142
+萝莉安花戒	luo li an hua jie	528
+绿色皮甲套装格布林腰带	lv se pi jia tao zhuang ge bu lin yao dai	703
+绿鞋聚冥皮靴	lv xie ju ming pi xue	398
+绿装暗黑纹蛇套装	lv zhuang an hei wen she tao zhuang	504
+玛尔的天权绑腿	ma er de tian quan bang tui	105
+玛尔的天权套装	ma er de tian quan tao zhuang	355
+玛尔的天权套装部分	ma er de tian quan tao zhuang bu fen	437
+玛尔天权轻甲套装	ma er tian quan qing jia tao zhuang	385
+玛尼神兽项链	ma ni shen shou xiang lian	579
+玛尼神兽项坠	ma ni shen shou xiang zhui	358
+猫妖骨爪	mao yao gu zhua	36
+猛毒雷鸣废墟	meng du lei ming fei xu	705
+梦魔缚灵套装	meng mo fu ling tao zhuang	383
+迷乱之村哈穆林	mi luan zhi cun ha mu lin	519
+迷月玄羽腰带	mi yue xuan yu yao dai	131
+迷月玄羽战袍套装	mi yue xuan yu zhan pao tao zhuang	541
+明光胫甲	ming guang jing jia	119
+瞑想者腰带	ming xiang zhe yao dai	296
+魔法石戒指	mo fa shi jie zhi	500
+魔法师武器	mo fa shi wu qi	55
+墨竹手镯	mo zhu shou zhuo	660
+牛头怪的血剑	niu tou guai de xue jian	690
+怒灵长靴	nu ling chang xue	523
+怒灵诅咒套装	nu ling zu zhou tao zhuang	320
+暖阳护肩	nuan yang hu jian	506
+诺斯玛尔	nuo si ma er	531
+诺斯玛尔赤龙板甲护腿	nuo si ma er chi long ban jia hu tui	165
+诺斯玛尔破曦布甲绑腿	nuo si ma er po xi bu jia bang tui	182
+诺斯玛尔破曦布甲长袍	nuo si ma er po xi bu jia chang pao	183
+诺斯玛尔斩影皮甲护腿	nuo si ma er zhan ying pi jia hu tui	174
+诺斯玛尔斩影皮甲上衣	nuo si ma er zhan ying pi jia shang yi	173
+诺斯玛尔斩影轻甲护腿	nuo si ma er zhan ying qing jia hu tui	157
+诺斯玛尔斩影轻甲胸铠	nuo si ma er zhan ying qing jia xiong kai	156
+诺斯玛尔斩影重甲护腿	nuo si ma er zhan ying zhong jia hu tui	168
+诺斯玛尔斩影重甲胸铠	nuo si ma er zhan ying zhong jia xiong kai	167
+诺斯马尔重甲套装	nuo si ma er zhong jia tao zhuang	331
+皮甲	pi jia	295
+皮甲暗袭护腿	pi jia an xi hu tui	369
+皮甲爆麟夹克	pi jia bao lin jia ke	543
+皮甲爆麟套装	pi jia bao lin tao zhuang	347
+皮甲爆麟腰带	pi jia bao lin yao dai	534
+七彩行云裤	qi cai xing yun ku	129
+千年橡木槌	qian nian xiang mu chui	89
+浅栖之地	qian qi zhi di	574
+强袭者直棒	qiang xi zhe zhi bang	646
+轻甲	qing jia	269
+人偶玄关	ren ou xuan guan	486
+熔岩穴	rong yan xue	571
+杀戮守护之镯	sha lu shou hu zhi zhuo	533
+山脊	shan ji	602
+闪雷之棍	shan lei zhi gun	44
+闪灵护腿	shan ling hu tui	282
+闪灵重甲套装	shan ling zhong jia tao zhuang	280
+神殿外围	shen dian wai wei	648
+神鬼战士链	shen gui zhan shi lian	628
+神鬼战士项坠	shen gui zhan shi xiang zhui	607
+神枪手武器	shen qiang shou wu qi	76
+神悦	shen yue	257
+圣光斗士臂铠	sheng guang dou shi bi kai	258
+圣光战	sheng guang zhan	54
+圣灵骑士项链	sheng ling qi shi xiang lian	662
+圣灵战士项坠	sheng ling zhan shi xiang zhui	668
+圣职者武器	sheng zhi zhe wu qi	17
+适合等	shi he deng	351
+狮鹫轻甲套装	shi jiu qing jia tao zhuang	158
+狮鹫腰带	shi jiu yao dai	161
+石巨人塔	shi ju ren ta	483
+世帕罗塔上层	shi pa luo ta shang ceng	674
+世帕罗塔下层	shi pa luo ta xia ceng	676
+食人魔手镯	shi ren mo shou zhuo	637
+史诗臂铠暴躁的铁拳深渊	shi shi bi kai bao zao de tie quan shen yuan	477
+史诗布甲青龙哮月套装深渊	shi shi bu jia qing long xiao yue tao zhuang shen yuan	461
+史诗布甲史诗希曼的影舞套装	shi shi bu jia shi shi xi man de ying wu tao zhuang	424
+史诗布甲银月少女套装深渊	shi shi bu jia yin yue shao nv tao zhuang shen yuan	490
+史诗苍天圣芒十字架深渊	shi shi cang tian sheng mang shi zi jia shen yuan	489
+史诗短剑碎风乱波剑深渊	shi shi duan jian sui feng luan bo jian shen yuan	484
+史诗钝器地狱邪目深渊	shi shi dun qi di yu xie mu shen yuan	468
+史诗堕落骑士十字架深渊	shi shi duo luo qi shi shi zi jia shen yuan	457
+史诗斧萨乌塔的战斧	shi shi fu sa wu ta de zhan fu	430
+史诗光剑天行者深渊	shi shi guang jian tian xing zhe shen yuan	466
+史诗棍飞龙幻象棍深渊	shi shi gun fei long huan xiang gun shen yuan	469
+史诗棍圣使锁魂棍深渊	shi shi gun sheng shi suo hun gun shen yuan	462
+史诗黑檀木套装深渊	shi shi hei tan mu tao zhuang shen yuan	459
+史诗戒指光冰暗火精灵之戒深渊	shi shi jie zhi guang bing an huo jing ling zhi jie shen yuan	456
+史诗戒指库拉德的魔眼指环深渊	shi shi jie zhi ku la de de mo yan zhi huan shen yuan	454
+史诗巨剑炙炎梵天剑深渊	shi shi ju jian zhi yan fan tian jian shen yuan	471
+史诗矛赤龙守护矛深渊	shi shi mao chi long shou hu mao shen yuan	467
+史诗魔杖切希尔笑脸猫	shi shi mo zhang qie xi er xiao lian mao	441
+史诗魔杖切希尔笑脸猫深渊	shi shi mo zhang qie xi er xiao lian mao shen yuan	460
+史诗弩雷神闪影弩深渊	shi shi nu lei shen shan ying nu shen yuan	463
+史诗炮破极卸甲手炮	shi shi pao po ji xie jia shou pao	431
+史诗手弩邪龙的死神之弩	shi shi shou nu xie long de si shen zhi nu	353
+史诗手套碎霸手套深渊	shi shi shou tao sui ba shou tao shen yuan	491
+史诗手套遗忘记忆拳套	shi shi shou tao yi wang ji yi quan tao	436
+史诗手镯库拉德德魔眼手镯深渊	shi shi shou zhuo ku la de de mo yan shou zhuo shen yuan	453
+史诗太刀鬼印杀	shi shi tai dao gui yin sha	423
+史诗太刀十字斩刀闪	shi shi tai dao shi zi zhan dao shan	323
+史诗太刀十字斩刀者	shi shi tai dao shi zi zhan dao zhe	443
+史诗太刀十字斩刀者深渊	shi shi tai dao shi zi zhan dao zhe shen yuan	470
+史诗太刀屠戮之刃深渊	shi shi tai dao tu lu zhi ren shen yuan	482
+史诗项链大地之灵戒指深渊	shi shi xiang lian da di zhi ling jie zhi shen yuan	458
+史诗月牙龙骨棍深渊	shi shi yue ya long gu gun shen yuan	488
+史诗重甲杀戮护肩深渊	shi shi zhong jia sha lu hu jian shen yuan	455
+史诗自动枪苍穹刺客深渊	shi shi zi dong qiang cang qiong ci ke shen yuan	452
+史诗自动枪绝杀蝮蛇深渊	shi shi zi dong qiang jue sha fu she shen yuan	481
+史诗左轮邪灵猎魔者深渊	shi shi zuo lun xie ling lie mo zhe shen yuan	476
+守护腰带	shou hu yao dai	120
+首饰	shou shi	318
+手套蜘蛛指虎	shou tao zhi zhu zhi hu	550
+树精丛林	shu jing cong lin	641
+霜之悲鸣戒指	shuang zhi bei ming jie zhi	248
+双子腰带	shuang zi yao dai	221
+死亡之塔	si wang zhi ta	322
+苏拉托之眼	su la tuo zhi yan	305
+素喃秘影长剑	su nan mi ying chang jian	94
+泰拉石武器	tai la shi wu qi	46
+桃木魔杖	tao mu mo zhang	706
+套装	tao zhuang	581
+套装图	tao zhuang tu	417
+天界战弩图纸	tian jie zhan nu tu zhi	687
+天空之城	tian kong zhi cheng	681
+天空之城新版资料收集中	tian kong zhi cheng xin ban zi liao shou ji zhong	494
+天空之海浅海	tian kong zhi hai qian hai	664
+天空之海深海	tian kong zhi hai shen hai	659
+天空之炎项坠	tian kong zhi yan xiang zhui	205
+天启战斧	tian qi zhan fu	8
+天权套装	tian quan tao zhuang	639
+天帷禁地	tian wei jin di	616
+天帷巨兽	tian wei ju shou	649
+天帷巨兽赤龙板甲护腿	tian wei ju shou chi long ban jia hu tui	270
+天帷巨兽的皮短裤	tian wei ju shou de pi duan ku	368
+天帷巨兽的皮胸甲	tian wei ju shou de pi xiong jia	232
+天帷巨兽的皮质战甲套装	tian wei ju shou de pi zhi zhan jia tao zhuang	233
+天帷巨兽破曦布甲绑腿	tian wei ju shou po xi bu jia bang tui	298
+天帷巨兽破曦布甲长袍	tian wei ju shou po xi bu jia chang pao	300
+天帷巨兽斩影皮甲护腿	tian wei ju shou zhan ying pi jia hu tui	290
+天帷巨兽斩影皮甲上衣	tian wei ju shou zhan ying pi jia shang yi	289
+天帷巨兽斩影轻甲护腿	tian wei ju shou zhan ying qing jia hu tui	265
+天帷巨兽斩影轻甲胸铠	tian wei ju shou zhan ying qing jia xiong kai	264
+天帷巨兽斩影重甲护腿	tian wei ju shou zhan ying zhong jia hu tui	281
+天帷巨兽斩影重甲胸铠	tian wei ju shou zhan ying zhong jia xiong kai	279
+天帷巨兽之眼	tian wei ju shou zhi yan	143
+图纸	tu zhi	629
+万年雪山	wan nian xue shan	606
+万仞圣光剑	wan ren sheng guang jian	256
+剜心指环	wan xin zhi huan	682
+王的遗迹	wang de yi ji	537
+王者之星	wang zhe zhi xing	538
+卫士重剑	wei shi zhong jian	102
+武器	wu qi	263
+希泊处子之美	xi bo chu zi zhi mei	685
+细雪之舞图	xi xue zhi wu tu	319
+贤者戒指	xian zhe jie zhi	576
+贤者戒指图纸	xian zhe jie zhi tu zhi	617
+贤者之戒	xian zhe zhi jie	630
+贤者之戒图纸	xian zhe zhi jie tu zhi	608
+邪芒夺目剑图纸	xie mang duo mu jian tu zhi	618
+信耶的附灵肩甲	xin ye de fu ling jian jia	113
+星纹腰带	xing wen yao dai	138
+星纹战袍套装	xing wen zhan pao tao zhuang	135
+玄冰碧玉项坠	xuan bing bi yu xiang zhui	249
+旋风爪	xuan feng zhao	34
+玄光手套	xuan guang shou tao	261
+悬空城	xuan kong cheng	655
+玄武鸣天腰带	xuan wu ming tian yao dai	132
+玄武岩轻甲	xuan wu yan qing jia	159
+玄武岩胸甲	xuan wu yan xiong jia	160
+血怒戒指	xue nu jie zhi	564
+血怒指环	xue nu zhi huan	577
+学者护腕	xue zhe hu wan	696
+学者手腕	xue zhe shou wan	666
+学者腕套	xue zhe wan tao	683
+亚麻项坠	ya ma xiang zhui	510
+亚蒙上层	ya meng shang ceng	678
+亚蒙下层	ya meng xia ceng	680
+炎麻长裤	yan ma chang ku	195
+炎麻长袍	yan ma chang pao	198
+炎麻战袍套装	yan ma zhan pao tao zhuang	197
+炎蟒长靴	yan mang chang xue	667
+炎蟒胸甲	yan mang xiong jia	439
+炎木绑腿	yan mu bang tui	163
+炎木胸甲	yan mu xiong jia	164
+炎息护肩	yan xi hu jian	188
+腰带	yao dai	277
+幽灵手弩	you ling shou nu	328
+御魂之戒	yu hun zhi jie	638
+羽灵腰带	yu ling yao dai	139
+玉龙奔雷棍	yu long ben lei gun	255
+远古冰银绑腿	yuan gu bing yin bang tui	218
+远古冰银轻甲套装	yuan gu bing yin qing jia tao zhuang	217
+远古冰银胸甲	yuan gu bing yin xiong jia	216
+远古精灵戒指	yuan gu jing ling jie zhi	507
+远古套装	yuan gu tao zhuang	612
+远古旋魔腰带	yuan gu xuan mo yao dai	137
+怨灵夺命棍	yuan ling duo ming gun	43
+战鹰神斧	zhan ying shen fu	10
+蜘蛛洞穴	zhi zhu dong xue	565
+重甲	zhong jia	285
+重甲鳞岩护肩	zhong jia lin yan hu jian	623
+重甲怒灵诅咒胸甲	zhong jia nu ling zu zhou xiong jia	542
+盅腾套装	zhong teng tao zhuang	552
+盅腾系列图纸	zhong teng xi lie tu zhi	573
+逐风套装	zhu feng tao zhuang	700
+追风棍	zhui feng gun	50
+紫臂铠火魔臂铠	zi bi kai huo mo bi kai	692
+紫布甲悲鸣草背心	zi bu jia bei ming cao bei xin	654
+紫布甲贤者的训练护肩加攻速	zi bu jia xian zhe de xun lian hu jian jia gong su	451
+紫布甲炎麻护肩加攻速	zi bu jia yan ma hu jian jia gong su	450
+紫步枪灵狐之火	zi bu qiang ling hu zhi huo	556
+紫步枪落星	zi bu qiang luo xing	426
+紫步枪烟雾突击步枪	zi bu qiang yan wu tu ji bu qiang	563
+紫布荣誉者长袍	zi bu rong yu zhe chang pao	508
+紫帝国短剑	zi di guo duan jian	498
+紫短艾米丽的银妆刀	zi duan ai mi li de yin zhuang dao	370
+紫短蓝冰弯月剑	zi duan lan bing wan yue jian	521
+紫短圣鹰之剑图	zi duan sheng ying zhi jian tu	356
+紫钝器空骨鱼巨棒	zi dun qi kong gu yu ju bang	634
+紫钝强袭者直棒	zi dun qiang xi zhe zhi bang	442
+紫法杖逐风法杖	zi fa zhang zhu feng fa zhang	517
+紫斧	zi fu	327
+紫斧炎影战斧	zi fu yan ying zhan fu	632
+紫光碧影凝光剑	zi guang bi ying ning guang jian	620
+紫光极光剑	zi guang ji guang jian	440
+紫光蓝星烁芒剑图	zi guang lan xing shuo mang jian tu	514
+紫光列特的疾影剑	zi guang lie te de ji ying jian	635
+紫光蛇眼极光剑	zi guang she yan ji guang jian	596
+紫光圣愈光剑	zi guang sheng yu guang jian	588
+紫光万刃光剑	zi guang wan ren guang jian	518
+紫光万仞圣光剑	zi guang wan ren sheng guang jian	325
+紫光万刃圣光剑	zi guang wan ren sheng guang jian	546
+紫光邪铓夺目剑	zi guang xie mang duo mu jian	568
+紫光邪芒夺目剑图	zi guang xie mang duo mu jian tu	402
+紫光邪铓夺目剑图	zi guang xie mang duo mu jian tu	374
+紫红梦魇拳套	zi hong meng yan quan tao	22
+紫戒花影之戒	zi jie hua ying zhi jie	419
+紫戒冷月星云戒指	zi jie leng yue xing yun jie zhi	326
+紫戒剜心指环	zi jie wan xin zhi huan	501
+紫戒贤者戒指图	zi jie xian zhe jie zhi tu	380
+紫戒贤者戒指图纸	zi jie xian zhe jie zhi tu zhi	401
+紫戒贤者之戒图	zi jie xian zhe zhi jie tu	420
+紫戒血怒戒指	zi jie xue nu jie zhi	360
+紫戒血怒指环	zi jie xue nu zhi huan	381
+紫戒御魂之戒	zi jie yu hun zhi jie	433
+紫金守护套装	zi jin shou hu tao zhuang	609
+紫金套装	zi jin tao zhuang	527
+紫金腰带图纸	zi jin yao dai tu zhi	572
+紫金重甲套装	zi jin zhong jia tao zhuang	582
+紫巨残杀者之剑	zi ju can sha zhe zhi jian	720
+紫巨夺命毒龙剑	zi ju duo ming du long jian	595
+紫巨含光斩岩剑	zi ju han guang zhan yan jian	561
+紫巨含光斩岩剑图	zi ju han guang zhan yan jian tu	388
+紫巨含光斩岩剑图纸	zi ju han guang zhan yan jian tu zhi	586
+紫巨蓝月龙吟剑图	zi ju lan yue long yin jian tu	405
+紫巨梅丽莎的灵夕长剑	zi ju mei li sha de ling xi chang jian	444
+紫巨千年玄铁剑	zi ju qian nian xuan tie jian	657
+紫巨千年玄铁图	zi ju qian nian xuan tie tu	505
+紫巨千年玄铁图纸	zi ju qian nian xuan tie tu zhi	688
+紫巨青光震兽剑	zi ju qing guang zhen shou jian	338
+紫巨素喃秘影长剑	zi ju su nan mi ying chang jian	619
+紫巨血莲凤鸣剑图	zi ju xue lian feng ming jian tu	418
+紫镰刀雷霆战镰	zi lian dao lei ting zhan lian	710
+紫链幽冥黑莲项坠	zi lian you ming hei lian xiang zhui	651
+紫绿装备武器	zi lv zhuang bei wu qi	604
+紫弩悲鸣战弩	zi nu bei ming zhan nu	544
+紫弩七星连射弩	zi nu qi xing lian she nu	593
+紫弩神赐十字弩	zi nu shen ci shi zi nu	427
+紫炮尼克尔激光手炮	zi pao ni ke er ji guang shou pao	592
+紫炮致命猎手	zi pao zhi ming lie shou	348
+紫皮甲黑月皮甲套装	zi pi jia hei yue pi jia tao zhuang	332
+自然亲和套装	zi ran qin he tao zhuang	386
+紫色项链暗影之触	zi se xiang lian an ying zhi chu	698
+紫神赐十字架	zi shen ci shi zi jia	434
+紫手弩神赐十字弩	zi shou nu shen ci shi zi nu	653
+紫手炮冰淋手炮	zi shou pao bing lin shou pao	397
+紫手炮尼克尔的激光炮	zi shou pao ni ke er de ji guang pao	569
+紫手炮铀弹手炮图	zi shou pao you dan shou pao tu	364
+紫手炮铀弹手炮图纸	zi shou pao you dan shou pao tu zhi	555
+紫手炮致命猎手	zi shou pao zhi ming lie shou	545
+紫手套炽灵手套	zi shou tao chi ling shou tao	372
+紫手套天璇手套	zi shou tao tian xuan shou tao	357
+紫手套蜘蛛指虎	zi shou tao zhi zhu zhi hu	349
+紫太白丸图	zi tai bai wan tu	403
+紫太赤凰战刀	zi tai chi huang zhan dao	333
+紫太刀赤凰战刀	zi tai dao chi huang zhan dao	584
+紫太刀卡坤的小太刀	zi tai dao ka kun de xiao tai dao	652
+紫太刀神悦	zi tai dao shen yue	626
+紫太刀死亡之刃	zi tai dao si wang zhi ren	594
+紫太绝刀红莲天舞	zi tai jue dao hong lian tian wu	718
+紫太卡坤的小太刀	zi tai ka kun de xiao tai dao	445
+紫太神悦	zi tai shen yue	412
+紫太死亡之刃	zi tai si wang zhi ren	393
+紫太细血之舞	zi tai xi xue zhi wu	587
+紫太细血之舞图	zi tai xi xue zhi wu tu	389
+紫太细雪之舞图	zi tai xi xue zhi wu tu	373
+紫太细血之舞图纸	zi tai xi xue zhi wu tu zhi	560
+紫太紫丸	zi tai zi wan	512
+紫图腾净风图腾	zi tu teng jing feng tu teng	672
+紫图腾精灵的庇护图腾	zi tu teng jing ling de bi hu tu teng	625
+紫图腾落星图腾	zi tu teng luo xing tu teng	599
+紫项链艾丽斯的星芒项坠	zi xiang lian ai li si de xing mang xiang zhui	414
+紫项链暗影之触	zi xiang lian an ying zhi chu	495
+紫项链贝尔玛尔之星图	zi xiang lian bei er ma er zhi xing tu	416
+紫项链贝尔玛尔之星图纸	zi xiang lian bei er ma er zhi xing tu zhi	410
+紫项链贝尔玛尔之星纸	zi xiang lian bei er ma er zhi xing zhi	400
+紫项链达芙妮项链	zi xiang lian da fu ni xiang lian	334
+紫项链达芙尼项链	zi xiang lian da fu ni xiang lian	335
+紫项链野性手链	zi xiang lian ye xing shou lian	337
+紫亚麻项链	zi ya ma xiang lian	499
+紫炎隐月长袍	zi yan yin yue chang pao	190
+紫衣防弹背心	zi yi fang dan bei xin	513
+紫衣服防弹背心	zi yi fu fang dan bei xin	697
+紫月牙神战斧	zi yue ya shen zhan fu	497
+紫爪汲血爪	zi zhao ji xue zhao	643
+紫爪青龙爪	zi zhao qing long zhua	600
+紫爪束缚之爪图	zi zhao shu fu zhi zhao tu	362
+紫爪束缚之爪图纸	zi zhao shu fu zhi zhao tu zhi	553
+紫爪死神暗影爪	zi zhao si shen an ying zhao	395
+紫爪旋风爪	zi zhao xuan feng zhao	725
+紫重碧玉套装	zi zhong bi yu tao zhuang	447
+紫重伏魔护肩	zi zhong fu mo hu jian	503
+紫重鳞岩肩图	zi zhong lin yan jian tu	425
+紫重龙鸣链甲	zi zhong long ming lian jia	399
+紫重龙鸣套装部分	zi zhong long ming tao zhuang bu fen	435
+紫重怒灵诅咒重甲套装	zi zhong nu ling zu zhou zhong jia tao zhuang	346
+紫镯苍蟒手镯	zi zhuo cang mang shou zhuo	379
+紫镯毒晰手镯	zi zhuo du xi shou zhuo	411
+紫镯墨竹手镯	zi zhuo mo zhu shou zhuo	474
+紫镯食人魔手镯	zi zhuo shi ren mo shou zhuo	432
+紫镯贤哲之戒图	zi zhuo xian zhe zhi jie tu	408
+紫自动闪灵手枪	zi zi dong shan ling shou qiang	717
+紫自动斯巴达斯诅咒图	zi zi dong si ba da si zu zhou tu	367
+紫自动斯巴达斯诅咒图纸	zi zi dong si ba da si zu zhou tu zhi	567
+紫自动斯巴达诅咒图	zi zi dong si ba da zu zhou tu	387
+紫自动斯巴达诅咒图纸	zi zi dong si ba da zu zhou tu zhi	585
+紫左狂暴左轮枪	zi zuo kuang bao zuo lun qiang	554
+紫左狂暴左轮枪图	zi zuo kuang bao zuo lun qiang tu	363
+紫左轮惩罚者	zi zuo lun cheng fa zhe	694
+紫左轮柯尔特和平捍卫者	zi zuo lun ke er te he ping han wei zhe	591
+紫左轮柯尔特黑钻玄芒	zi zuo lun ke er te hei zuan xuan mang	671
+紫左轮柯尔特火蛇图纸	zi zuo lun ke er te huo she tu zhi	515
+紫左轮柯尔特猎鹰	zi zuo lun ke er te lie ying	377
+紫左轮狩猎之王	zi zuo lun shou lie zhi wang	548
+紫左轮速射左轮枪	zi zuo lun su she zuo lun qiang	329
+紫左狩猎之王	zi zuo shou lie zhi wang	719
+罪恶布法罗胸甲	zui e bu fa luo xiong jia	669

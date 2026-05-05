@@ -1,0 +1,606 @@
+# 词库名称: SAM-KPI
+# 词库分类: 个人专用
+# 词库描述: KPI、岗位名称
+# 词条样例: 塑料瓶暂不填、总的SKU数目、总的母啤酒数目、前提方案、安全GOPs、质量环测指数
+# 解析词数: 599
+# 解析异常: 0
+
+安全隐患生产	an quan yin huan sheng chan	533
+安全隐患物流	an quan yin huan wu liu	345
+安全主管	an quan zhu guan	82
+按预测计划配送总量	an yu ce ji hua pei song zong liang	366
+白班维修班长	bai ban wei xiu ban zhang	94
+白班维修机修工	bai ban wei xiu ji xiu gong	93
+百升	bai sheng	242
+半年	ban nian	240
+包装材料仓管员	bao zhuang cai liao cang guan yuan	81
+包装材料分析员	bao zhuang cai liao fen xi yuan	80
+包装倒班分析员	bao zhuang dao ban fen xi yuan	79
+包装电耗量除可回收瓶	bao zhuang dian hao liang chu ke hui shou ping	415
+包装辅机机动工	bao zhuang fu ji ji dong gong	78
+包装跟班维修工	bao zhuang gen ban wei xiu gong	77
+包装跟班维修领班	bao zhuang gen ban wei xiu ling ban	76
+包装跟班维修主管	bao zhuang gen ban wei xiu zhu guan	75
+包装工艺工程师	bao zhuang gong yi gong cheng shi	74
+包装灌酒工	bao zhuang guan jiu gong	73
+包装经理	bao zhuang jing li	72
+包装可回收瓶电耗量	bao zhuang ke hui shou ping dian hao liang	416
+包装可回收瓶热耗量	bao zhuang ke hui shou ping re hao liang	423
+包装可回收瓶水耗量	bao zhuang ke hui shou ping shui hao liang	410
+包装理化指数	bao zhuang li hua zhi shu	586
+包装瓶装倒班班长	bao zhuang ping zhuang dao ban ban zhang	71
+包装热耗量除可回收瓶	bao zhuang re hao liang chu ke hui shou ping	422
+包装生产计划员	bao zhuang sheng chan ji hua yuan	70
+包装生产统计员	bao zhuang sheng chan tong ji yuan	69
+包装生产线主管	bao zhuang sheng chan xian zhu guan	68
+包装水耗量除可回收瓶	bao zhuang shui hao liang chu ke hui shou ping	409
+包装贴标工	bao zhuang tie biao gong	67
+包装微生物指数	bao zhuang wei sheng wu zhi shu	585
+包装维修工	bao zhuang wei xiu gong	66
+包装维修计划员	bao zhuang wei xiu ji hua yuan	65
+包装维修计划主管	bao zhuang wei xiu ji hua zhu guan	64
+包装维修主管	bao zhuang wei xiu zhu guan	63
+包装洗杀工	bao zhuang xi sha gong	62
+包装线毛生产率	bao zhuang xian mao sheng chan lv	249
+包装卸箱工	bao zhuang xie xiang gong	61
+包装验酒工	bao zhuang yan jiu gong	60
+包装验瓶工	bao zhuang yan ping gong	59
+包装仪器专家	bao zhuang yi qi zhuan jia	58
+包装预防性维修主管	bao zhuang yu fang xing wei xiu zhu guan	57
+包装指数	bao zhuang zhi shu	593
+包装主机机动工	bao zhuang zhu ji ji dong gong	56
+包装装箱工	bao zhuang zhuang xiang gong	55
+包装总氧	bao zhuang zong yang	132
+被安排的停产预防维修工作单	bei an pai de ting chan yu fang wei xiu gong zuo dan	436
+备品备件仓管员	bei pin bei jian cang guan yuan	54
+本月烧碱采购量以干物质计	ben yue shao jian cai gou liang yi gan wu zhi ji	503
+变动分销成本	bian dong fen xiao cheng ben	119
+变动生产成本	bian dong sheng chan cheng ben	120
+便利店	bian li dian	291
+标准应用产品	biao zhun ying yong chan pin	161
+不可回收瓶一次性瓶	bu ke hui shou ping yi ci xing ping	201
+不适用	bu shi yong	210
+不需填	bu xu tian	566
+采购的大麦量	cai gou de da mai liang	500
+采购的大米量	cai gou de da mi liang	494
+采购的硅藻土量	cai gou de gui zao tu liang	462
+采购的麦芽量	cai gou de mai ya liang	502
+采购的糖浆量	cai gou de tang jiang liang	492
+采购的小麦量	cai gou de xiao mai liang	498
+采购的英博过滤方式混合物量	cai gou de ying bo guo lv fang shi hun he wu liang	454
+采购的玉米量	cai gou de yu mi liang	496
+采购订单	cai gou ding dan	181
+财务总监	cai wu zong jian	266
+财务最优化管理	cai wu zui you hua guan li	122
+仓库电耗量	cang ku dian hao liang	414
+仓库管理系统	cang ku guan li xi tong	109
+仓库热耗量	cang ku re hao liang	420
+叉车	cha che	259
+叉车大班长	cha che da ban zhang	53
+产品完整性指数	chan pin wan zheng xing zhi shu	584
+承包商损工时工伤生产	cheng bao shang sun gong shi gong shang sheng chan	532
+承包商损工时工伤物流	cheng bao shang sun gong shi gong shang wu liu	344
+成本连接致胜	cheng ben lian jie zhi sheng	307
+成品	cheng pin	265
+成品酒当月实际生产总量	cheng pin jiu dang yue shi ji sheng chan zong liang	359
+成品酒下月计划生产总量	cheng pin jiu xia yue ji hua sheng chan zong liang	362
+成品库仓管员	cheng pin ku cang guan yuan	52
+成品库主管	cheng pin ku zhu guan	51
+重新包装临时工的出勤工时	chong xin bao zhuang lin shi gong de chu qin gong shi	561
+重新包装正式工的出勤工时	chong xin bao zhuang zheng shi gong de chu qin gong shi	560
+处置废塑料量	chu zhi fei su liao liang	431
+处置废塑箱量	chu zhi fei su xiang liang	432
+处置废听量	chu zhi fei ting liang	433
+处置瓶渣量	chu zhi ping zha liang	434
+传统渠道	chuan tong qu dao	141
+吹吹发玻璃瓶制造工艺的一种	chui chui fa bo li ping zhi zao gong yi de yi zhong	324
+纯生啤酒	chun sheng pi jiu	251
+促销团队领导	cu xiao tuan dui ling dao	173
+存货周转天数	cun huo zhou zhuan tian shu	286
+大酒瓶	da jiu ping	321
+大卖场	da mai chang	231
+大麦库存	da mai ku cun	487
+大麦库存浸出物	da mai ku cun jin chu wu	486
+大米库存	da mi ku cun	481
+大米库存浸出物	da mi ku cun jin chu wu	480
+单点课程	dan dian ke cheng	192
+单宁葆酿单的采购量	dan ning bao niang dan de cai gou liang	452
+单宁葆酿单过滤量	dan ning bao niang dan guo lv liang	451
+单宁葆酿单期末库存	dan ning bao niang dan qi mo ku cun	453
+氮气消耗量	dan qi xiao hao liang	505
+当月成品酒平均库存量	dang yue cheng pin jiu ping jun ku cun liang	389
+当月冻结计划变更任务总量	dang yue dong jie ji hua bian geng ren wu zong liang	369
+当月冻结计划任务总量	dang yue dong jie ji hua ren wu zong liang	386
+当月工厂仓库空易拉罐入库总量	dang yue gong chang cang ku kong yi la guan ru ku zong liang	385
+当月级物流成品酒期末库存总量	dang yue ji wu liu cheng pin jiu qi mo ku cun zong liang	353
+当月级物流成品酒转运总量	dang yue ji wu liu cheng pin jiu zhuan yun zong liang	368
+当月可回收玻璃瓶新瓶收货量	dang yue ke hui shou bo li ping xin ping shou huo liang	381
+当月空塑料瓶仓库供应链损耗量	dang yue kong su liao ping cang ku gong ying lian sun hao liang	376
+当月空塑料瓶退回供应商总量	dang yue kong su liao ping tui hui gong ying shang zong liang	377
+当月空易拉罐仓库供应链损耗量	dang yue kong yi la guan cang ku gong ying lian sun hao liang	383
+当月空易拉罐退回供应商总量	dang yue kong yi la guan tui hui gong ying shang zong liang	384
+当月期末可回收玻璃瓶库存总量	dang yue qi mo ke hui shou bo li ping ku cun zong liang	380
+当月期末塑料包装物库存总量	dang yue qi mo su liao bao zhuang wu ku cun zong liang	373
+当月期末塑料瓶库存总量	dang yue qi mo su liao ping ku cun zong liang	378
+当月塑料包装物退回供应商总量	dang yue su liao bao zhuang wu tui hui gong ying shang zong liang	372
+当月塑料包装物新品收货量	dang yue su liao bao zhuang wu xin pin shou huo liang	374
+当月塑料瓶新瓶收货量	dang yue su liao ping xin ping shou huo liang	379
+当月销售成品酒对应塑料瓶量	dang yue xiao shou cheng pin jiu dui ying su liao ping liang	375
+当月销售成品酒对应易拉罐量	dang yue xiao shou cheng pin jiu dui ying yi la guan liang	382
+当月已灌酒易拉罐入库数量	dang yue yi guan jiu yi la guan ru ku shu liang	464
+当月总装运出货量	dang yue zong zhuang yun chu huo liang	354
+当月总装运接收量	dang yue zong zhuang yun jie shou liang	355
+倒班维修班长	dao ban wei xiu ban zhang	92
+倒班维修电工	dao ban wei xiu dian gong	91
+倒班维修机修工	dao ban wei xiu ji xiu gong	90
+地下深井水消耗量	di xia shen jing shui xiao hao liang	512
+第一认知	di yi ren zhi	135
+点上份额	dian shang fen e	150
+电视广告	dian shi guang gao	128
+调度	diao du	50
+订单管理	ding dan guan li	194
+动力计划员	dong li ji hua yuan	89
+动力运行倒班大班长	dong li yun xing dao ban da ban zhang	49
+动力主管	dong li zhu guan	48
+断货	duan huo	193
+短间隔监控	duan jian ge jian kong	153
+二批价零售店进价	er pi jia ling shou dian jin jia	172
+二氧化碳采购量	er yang hua tan cai gou liang	507
+二氧化碳出售量	er yang hua tan chu shou liang	508
+二氧化碳回收量	er yang hua tan hui shou liang	509
+发酵操作工	fa jiao cao zuo gong	47
+发酵倒班班长	fa jiao dao ban ban zhang	46
+发酵液浸出物库存	fa jiao ye jin chu wu ku cun	474
+发酵液库存	fa jiao ye ku cun	475
+返利系统	fan li xi tong	297
+废酵母含干物质率	fei jiao mu han gan wu zhi lv	577
+非酿造勾兑含酒精饮料	fei niang zao gou dui han jiu jing yin liao	269
+非损工时工伤生产	fei sun gong shi gong shang sheng chan	538
+废糟含干物质率	fei zao han gan wu zhi lv	578
+分析法	fen xi fa	143
+副产品废旧物资	fu chan pin fei jiu wu zi	98
+副产品与废物产生总量	fu chan pin yu fei wu chan sheng zong liang	430
+复合年度增长率	fu he nian du zeng zhang lv	310
+服务水平协议	fu wu shui ping xie yi	152
+付薪病假时间临时工	fu xin bing jia shi jian lin shi gong	547
+付薪病假时间正式工	fu xin bing jia shi jian zheng shi gong	546
+付薪公伤假时间临时工	fu xin gong shang jia shi jian lin shi gong	545
+付薪公伤假时间正式工	fu xin gong shang jia shi jian zheng shi gong	544
+付薪会议时间临时工	fu xin hui yi shi jian lin shi gong	543
+付薪会议时间正式工	fu xin hui yi shi jian zheng shi gong	542
+负责拜访批发商的销售代表	fu ze bai fang pi fa shang de xiao shou dai biao	105
+副总裁	fu zong cai	118
+杠杆收购	gang gan shou gou	226
+高级领导力大会	gao ji ling dao li da hui	151
+高级自动化工程师	gao ji zi dong hua gong cheng shi	45
+个人防护装备	ge ren fang hu zhuang bei	236
+个人所得税	ge ren suo de shui	238
+工厂仓库叉车实际运行总工时	gong chang cang ku cha che shi ji yun xing zong gong shi	390
+工厂仓库可用叉车台数	gong chang cang ku ke yong cha che tai shu	371
+工厂产量以瓶听计	gong chang chan liang yi ping ting ji	448
+工厂厂长	gong chang chang zhang	44
+工厂理化指数	gong chang li hua zhi shu	595
+工厂品评指数	gong chang pin ping zhi shu	590
+工厂其它部门热耗量	gong chang qi ta bu men re hao liang	419
+工厂其它电耗量	gong chang qi ta dian hao liang	413
+工厂其它水耗量	gong chang qi ta shui hao liang	408
+工厂微生物指数	gong chang wei sheng wu zhi shu	594
+工厂最优化管理	gong chang zui you hua guan li	117
+公共关系或新闻稿	gong gong guan xi huo xin wen gao	176
+供您参考	gong nin can kao	252
+工伤次数生产	gong shang ci shu sheng chan	540
+工伤导致的残疾生产	gong shang dao zhi de can ji sheng chan	530
+工伤导致的残疾物流	gong shang dao zhi de can ji wu liu	337
+工伤管理巡查次数物流	gong shang guan li xun cha ci shu wu liu	339
+工亡事故生产	gong wang shi gu sheng chan	529
+工艺工程师	gong yi gong cheng shi	88
+供应链财务数据	gong ying lian cai wu shu ju	157
+供应链管理	gong ying lian guan li	155
+供应链核心管理费用	gong ying lian he xin guan li fei yong	158
+供应链计划与绩效管理经理	gong ying lian ji hua yu ji xiao guan li jing li	43
+供应链计划与绩效管理专员	gong ying lian ji hua yu ji xiao guan li zhuan yuan	42
+供应链损失	gong ying lian sun shi	156
+公用工程电耗量	gong yong gong cheng dian hao liang	417
+公用工程热耗量	gong yong gong cheng re hao liang	421
+公用工程水耗量	gong yong gong cheng shui hao liang	411
+固定分销成本	gu ding fen xiao cheng ben	261
+固定管理费用	gu ding guan li fei yong	268
+固定生产成本	gu ding sheng chan cheng ben	263
+固定资产投资	gu ding zi chan tou zi	309
+股权收购协议	gu quan shou gou xie yi	147
+股权收益率	gu quan shou yi lv	167
+关键绩效指标	guan jian ji xiao zhi biao	229
+管理委员会	guan li wei yuan hui	218
+管理执行委员会	guan li zhi xing wei yuan hui	277
+关联方交易	guan lian fang jiao yi	165
+广告占有率	guang gao zhan you lv	148
+硅胶采购量	gui jiao cai gou liang	457
+硅胶过滤量	gui jiao guo lv liang	456
+硅胶期末库存	gui jiao qi mo ku cun	458
+国家税务总局	guo jia shui wu zong ju	160
+国家统计局	guo jia tong ji ju	146
+过滤操作工	guo lv cao zuo gong	41
+核心运营资本	he xin yun ying zi ben	290
+合资企业	he zi qi ye	232
+红外	hong wai	235
+后酵酒浸出物库存不需填	hou jiao jiu jin chu wu ku cun bu xu tian	472
+后酵酒库存不需填	hou jiao jiu ku cun bu xu tian	473
+华润雪花	hua run xue hua	298
+环境安全经理	huan jing an quan jing li	40
+环境法规不符合次数	huan jing fa gui bu fu he ci shu	580
+环境及安全	huan jing ji an quan	272
+环境事故	huan jing shi gu	428
+环境事件	huan jing shi jian	427
+环境投诉	huan jing tou su	426
+环境主管	huan jing zhu guan	39
+计划设定与绩效管理	ji hua she ding yu ji xiao guan li	177
+计划维修工作项目实际完成数	ji hua wei xiu gong zuo xiang mu shi ji wan cheng shu	440
+计划维修工作项目数	ji hua wei xiu gong zuo xiang mu shu	439
+计划执行检查行动	ji hua zhi xing jian cha xing dong	185
+计划主管	ji hua zhu guan	87
+技术服务部经理	ji shu fu wu bu jing li	38
+级物流导致的灌装线停产总时间	ji wu liu dao zhi de guan zhuang xian ting chan zong shi jian	388
+基于场合的售点活动	ji yu chang he de shou dian huo dong	198
+基于价值的品牌	ji yu jia zhi de pin pai	124
+加班	jia ban	190
+加权资本成本	jia quan zi ben cheng ben	116
+价值工程	jia zhi gong cheng	123
+兼并与收购	jian bing yu shou gou	217
+简单医疗处理生产	jian dan yi liao chu li sheng chan	535
+简单医疗处理物流	jian dan yi liao chu li wu liu	347
+间接临时工的出勤工时	jian jie lin shi gong de chu qin gong shi	559
+间接临时雇员的出勤工时	jian jie lin shi gu yuan de chu qin gong shi	550
+间接正式工的出勤工时	jian jie zheng shi gong de chu qin gong shi	558
+间接正式员工的出勤工时	jian jie zheng shi yuan gong de chu qin gong shi	551
+见浸出物模板	jian jin chu wu mu ban	573
+见酒花模板	jian jiu hua mu ban	407
+健康安全不合格项数量物流	jian kang an quan bu he ge xiang shu liang wu liu	338
+奖金池	jiang jin chi	149
+酵母回收管理	jiao mu hui shou guan li	37
+酵母扩培	jiao mu kuo pei	36
+浸出物损耗	jin chu wu sun hao	597
+尽快	jin kuai	327
+净收入	jing shou ru	202
+净现值	jing xian zhi	203
+经销商	jing xiao shang	108
+经销商的通路销售代表	jing xiao shang de tong lu xiao shou dai biao	280
+经销商信息系统	jing xiao shang xin xi xi tong	110
+净帐面值	jing zhang mian zhi	208
+酒厂运营	jiu chang yun ying	318
+酒厂支持品评指数	jiu chang zhi chi pin ping zhi shu	592
+酒花利用率糖化	jiu hua li yong lv tang hua	405
+酒花利用率总	jiu hua li yong lv zong	406
+纠正措施完成比率物流	jiu zheng cuo shi wan cheng bi lv wu liu	343
+聚对苯二甲酸乙二醇酯	ju dui ben er jia suan yi er chun zhi	183
+卡拉胶采购量	ka la jiao cai gou liang	459
+卡拉胶期末库存	ka la jiao qi mo ku cun	460
+开盖有奖	kai gai you jiang	126
+客户服务主管	ke hu fu wu zhu guan	96
+客户送货表现	ke hu song huo biao xian	306
+客户投诉暂不需填	ke hu tou su zan bu xu tian	445
+库存糖浆浸出物	ku cun tang jiang jin chu wu	478
+快速消费品	kuai su xiao fei pin	258
+款到发货	kuan dao fa huo	308
+拉丁美洲北区	la ding mei zhou bei qu	228
+拉丁美洲南区	la ding mei zhou nan qu	227
+冷端加权苦味道	leng duan jia quan ku wei dao	404
+离岸价格	li an jia ge	257
+利润表损益表	li run biao sun yi biao	188
+良好实践经验	liang hao shi jian jing yan	245
+谅解备忘录	liang jie bei wang lu	214
+临时工	lin shi gong	138
+临时工的加班工时	lin shi gong de jia ban gong shi	557
+临时工的培训工时	lin shi gong de pei xun gong shi	555
+临时工的总出勤工时	lin shi gong de zong chu qin gong shi	572
+临时性降价	lin shi xing jiang jia	131
+领导力业绩和变革大会	ling dao li ye ji he bian ge da hui	223
+零基预算	ling ji yu suan	100
+零售价	ling shou jia	174
+卖给经销商的销量	mai gei jing xiao shang de xiao liang	144
+卖给零售点的销量	mai gei ling shou dian de xiao liang	145
+麦芽库存	mai ya ku cun	489
+麦芽库存浸出物	mai ya ku cun jin chu wu	488
+麦芽浓度	mai ya nong du	195
+毛利润	mao li run	219
+每日例行巡查次数物流	mei ri li xing xun cha ci shu wu liu	342
+每日销售回顾	mei ri xiao shou hui gu	281
+每月例行巡查次数物流	mei yue li xing xun cha ci shu wu liu	340
+每周例行巡查次数物流	mei zhou li xing xun cha ci shu wu liu	341
+目标设定和下达	mu biao she ding he xia da	129
+南非啤酒公司	nan fei pi jiu gong si	163
+内部收益率	nei bu shou yi lv	234
+年累计	nian lei ji	101
+酿造部经理	niang zao bu jing li	35
+酿造倒班分析员	niang zao dao ban fen xi yuan	34
+酿造电耗量	niang zao dian hao liang	418
+酿造工艺工程师	niang zao gong yi gong cheng shi	33
+酿造计划员	niang zao ji hua yuan	86
+酿造理化指数	niang zao li hua zhi shu	588
+酿造临时工的出勤工时	niang zao lin shi gong de chu qin gong shi	570
+酿造流程工程师	niang zao liu cheng gong cheng shi	32
+酿造热耗量	niang zao re hao liang	424
+酿造水耗量	niang zao shui hao liang	412
+酿造微生物指数	niang zao wei sheng wu zhi shu	587
+酿造原料寄样分析员	niang zao yuan liao ji yang fen xi yuan	31
+酿造正式工的出勤工时	niang zao zheng shi gong de chu qin gong shi	569
+酿造主管过滤	niang zao zhu guan guo lv	30
+酿造主管糖化	niang zao zhu guan tang hua	29
+排放污水流量	pai fang wu shui liu liang	429
+配送成本	pei song cheng ben	292
+配送中心	pei song zhong xin	288
+培训计划完成率	pei xun ji hua wan cheng lv	596
+培训协调员	pei xun xie tiao yuan	95
+批发商业务经理	pi fa shang ye wu jing li	103
+批发商业务主管	pi fa shang ye wu zhu guan	104
+啤酒生产中二氧化碳消耗量	pi jiu sheng chan zhong er yang hua tan xiao hao liang	506
+品牌毛利品牌贡献	pin pai mao li pin pai gong xian	315
+瓶盖回收	ping gai hui shou	299
+平均	ping jun	325
+瓶箱仓库仓管员	ping xiang cang ku cang guan yuan	28
+瓶箱仓库主管	ping xiang cang ku zhu guan	27
+瓶装酒生产瓶数	ping zhuang jiu sheng chan ping shu	443
+瓶装酒消费者投诉	ping zhuang jiu xiao fei zhe tou su	444
+瓶装临时工的出勤工时	ping zhuang lin shi gong de chu qin gong shi	568
+瓶装正式工的出勤工时	ping zhuang zheng shi gong de chu qin gong shi	567
+其他包装成品酒当月实际生产量	qi ta bao zhuang cheng pin jiu dang yue shi ji sheng chan liang	357
+其他包装成品酒下月计划生产量	qi ta bao zhuang cheng pin jiu xia yue ji hua sheng chan liang	360
+其它能源发电量	qi ta neng yuan fa dian liang	513
+企业社会责任	qi ye she hui ze ren	296
+企业所得税	qi ye suo de shui	275
+企业资源计划系统	qi ye zi yuan ji hua xi tong	273
+千百升	qian bai sheng	230
+前提方案	qian ti fang an	591
+清酒罐	qing jiu guan	322
+清酒罐到成品库不合格数量	qing jiu guan dao cheng pin ku bu he ge shu liang	450
+清酒罐中浸出物库存	qing jiu guan zhong jin chu wu ku cun	470
+清酒罐中库存	qing jiu guan zhong ku cun	471
+渠道营销经理	qu dao ying xiao jing li	137
+去年	qu nian	220
+区域酒厂支持	qu yu jiu chang zhi chi	99
+全国经销商大会	quan guo jing xiao shang da hui	200
+全年	quan nian	253
+全球管理培训生	quan qiu guan li pei xun sheng	246
+全球总部	quan qiu zong bu	250
+热值	re zhi	519
+人事行政部经理	ren shi xing zheng bu jing li	26
+人事专员	ren shi zhuan yuan	25
+砂糖库存	sha tang ku cun	477
+砂糖库存浸出物	sha tang ku cun jin chu wu	476
+上下班道路交通工亡事故生产	shang xia ban dao lu jiao tong gong wang shi gu sheng chan	528
+商业策略计划架构	shang ye ce lue ji hua jia gou	293
+设备综合效能	she bei zong he xiao neng	197
+市场份额	shi chang fen e	213
+市场通路	shi chang tong lu	164
+市场外包装质量	shi chang wai bao zhuang zhi liang	582
+实地销售管理	shi di xiao shou guan li	256
+实际	shi ji	332
+实际的维修工工作时间	shi ji de wei xiu gong gong zuo shi jian	437
+事件生产	shi jian sheng chan	534
+事件物流	shi jian wu liu	346
+世界级采购	shi jie ji cai gou	114
+世界级商务项目	shi jie ji shang wu xiang mu	115
+市净率	shi jing lv	186
+视觉识别手册	shi jue shi bie shou ce	121
+湿强纸	shi qiang zhi	107
+市销率	shi xiao lv	175
+实验室主管	shi yan shi zhu guan	24
+事业部	shi ye bu	311
+市盈率	shi ying lv	184
+售点	shou dian	180
+售点促销品	shou dian cu xiao pin	178
+售点推动	shou dian tui dong	179
+授权	shou quan	289
+首提及	shou ti ji	136
+水处理污水处理	shui chu li wu shui chu li	23
+税后收入	shui hou shou ru	209
+水库水消耗量	shui ku shui xiao hao liang	511
+税前利润	shui qian li run	187
+税前收入	shui qian shou ru	276
+税务评估年度	shui wu ping gu nian du	102
+司机	si ji	22
+司炉工煤炉	si lu gong mei lu	21
+送包装线的可回收瓶数	song bao zhuang xian de ke hui shou ping shu	467
+送包装线的一次性瓶数	song bao zhuang xian de yi ci xing ping shu	466
+送包装线的易拉罐数	song bao zhuang xian de yi la guan shu	465
+塑料瓶暂不填	su liao ping zan bu tian	599
+损工时工伤次数物流	sun gong shi gong shang ci shu wu liu	352
+损工天数生产	sun gong tian shu sheng chan	539
+损工天数物流	sun gong tian shu wu liu	351
+损失工时的事故	sun shi gong shi de shi gu	222
+所采购的大麦相当的浸出物量	suo cai gou de da mai xiang dang de jin chu wu liang	499
+所采购的大米相当的浸出物量	suo cai gou de da mi xiang dang de jin chu wu liang	493
+所采购的麦芽相当的浸出物量	suo cai gou de mai ya xiang dang de jin chu wu liang	501
+所采购的糖浆相当的浸出物量	suo cai gou de tang jiang xiang dang de jin chu wu liang	491
+所采购的小麦相当的浸出物量	suo cai gou de xiao mai xiang dang de jin chu wu liang	497
+所采购的玉米相当的浸出物量	suo cai gou de yu mi xiang dang de jin chu wu liang	495
+所灌装的瓶装啤酒量	suo guan zhuang de ping zhuang pi jiu liang	400
+所灌装的桶装啤酒量	suo guan zhuang de tong zhuang pi jiu liang	392
+所灌装的易拉罐啤酒量	suo guan zhuang de yi la guan pi jiu liang	393
+糖化操作工	tang hua cao zuo gong	20
+糖化倒班班长	tang hua dao ban ban zhang	19
+糖化辅助工	tang hua fu zhu gong	18
+糖化进料员	tang hua jin liao yuan	17
+糖化送往发酵的冷麦汁量	tang hua song wang fa jiao de leng mai zhi liang	469
+糖化送往发酵的总浸出物	tang hua song wang fa jiao de zong jin chu wu	468
+糖化所采购的砂糖量	tang hua suo cai gou de sha tang liang	490
+糖浆库存	tang jiang ku cun	479
+停机大于分钟的故障总次数	ting ji da yu fen zhong de gu zhang zong ci shu	394
+听装临时工的出勤工时	ting zhuang lin shi gong de chu qin gong shi	565
+听装正式工的出勤工时	ting zhuang zheng shi gong de chu qin gong shi	564
+通勤致死工伤次数物流	tong qin zhi si gong shang ci shu wu liu	335
+桶造正式工的出勤工时	tong zao zheng shi gong de chu qin gong shi	562
+桶装成品酒当月期末实际库存量	tong zhuang cheng pin jiu dang yue qi mo shi ji ku cun liang	365
+桶装成品酒当月实际生产量	tong zhuang cheng pin jiu dang yue shi ji sheng chan liang	358
+桶装成品酒下月计划生产量	tong zhuang cheng pin jiu xia yue ji hua sheng chan liang	361
+桶装成品酒下月预测的需求量	tong zhuang cheng pin jiu xia yue yu ce de xu qiu liang	363
+桶装酒产量有需填	tong zhuang jiu chan liang you xu tian	446
+桶装酒退货有需填	tong zhuang jiu tui huo you xu tian	447
+桶装临时工的出勤工时	tong zhuang lin shi gong de chu qin gong shi	563
+投资回报率	tou zi hui bao lv	166
+投资批准申请	tou zi pi zhun shen qing	168
+推广	tui guang	330
+托马斯调研	tuo ma si diao yan	130
+外购电	wai gou dian	517
+外购煤	wai gou mei	520
+外购燃料木材	wai gou ran liao mu cai	522
+外购燃料木材热值	wai gou ran liao mu cai re zhi	521
+外购燃气	wai gou ran qi	524
+外购燃气热值	wai gou ran qi re zhi	523
+外购油料热值	wai gou you liao re zhi	525
+外购油料消耗油	wai gou you liao xiao hao you	526
+外购蒸汽	wai gou zheng qi	518
+外汇汇率	wai hui hui lv	254
+外排水质量	wai pai shui zhi liang	579
+外商独资企业	wai shang du zi qi ye	112
+完成的停产预防性维修工作单	wan cheng de ting chan yu fang xing wei xiu gong zuo dan	435
+维持生产潜力	wei chi sheng chan qian li	127
+微生物分析员	wei sheng wu fen xi yuan	16
+微生物专员	wei sheng wu zhuan yuan	15
+未损工时工伤次数物流	wei sun gong shi gong shang ci shu wu liu	350
+维修健康度	wei xiu jian kang du	581
+维修主管	wei xiu zhu guan	85
+维雪	wei xue	106
+我销他送售点销售代表	wo xiao ta song shou dian xiao shou dai biao	282
+我销我送售点销售代表	wo xiao wo song shou dian xiao shou dai biao	283
+物流包装酿造计划员	wu liu bao zhuang niang zao ji hua yuan	13
+物流经理	wu liu jing li	12
+物流空瓶检验员	wu liu kong ping jian yan yuan	11
+物流生产计划主管	wu liu sheng chan ji hua zhu guan	10
+物流预算和固定资产专员	wu liu yu suan he gu ding zi chan zhuan yuan	9
+物流支持主管	wu liu zhi chi zhu guan	8
+污水化验员	wu shui hua yan yuan	14
+污水站污泥含干物质率	wu shui zhan wu ni han gan wu zhi lv	576
+无详述	wu xiang shu	204
+西欧大区	xi ou da qu	113
+息税前利润	xi shui qian li run	279
+息税折旧摊销前利润	xi shui zhe jiu tan xiao qian li run	278
+下月成品预测需求量	xia yue cheng pin yu ce xu qiu liang	367
+现场卡车总周转时间	xian chang ka che zong zhou zhuan shi jian	370
+现场装运卡车总数量	xian chang zhuang yun ka che zong shu liang	387
+现代渠道	xian dai qu dao	212
+先进先出	xian jin xian chu	262
+线上项目	xian shang xiang mu	326
+限时促销	xian shi cu xiao	221
+线下项目	xian xia xiang mu	312
+项目管理办公室	xiang mu guan li ban gong shi	182
+项目经理	xiang mu jing li	83
+相应的啤酒浸出物量	xiang ying de pi jiu jin chu wu liang	399
+相应的桶啤酒浸出物量	xiang ying de tong pi jiu jin chu wu liang	391
+消费税	xiao fei shui	294
+消费者投诉次数	xiao fei zhe tou su ci shu	449
+销货成本	xiao huo cheng ben	302
+小酒瓶	xiao jiu ping	159
+小口压吹技术	xiao kou ya chui ji shu	205
+小麦库存	xiao mai ku cun	485
+小麦库存浸出物	xiao mai ku cun jin chu wu	484
+小时工临时工	xiao shi gong lin shi gong	396
+销售和运营计划	xiao shou he yun ying ji hua	162
+销售净额	xiao shou jing e	206
+销售业绩回顾	xiao shou ye ji hui gu	301
+销售总监	xiao shou zong jian	154
+信息与业务服务部门	xin xi yu ye wu fu wu bu men	239
+新增暂不填	xin zeng zan bu tian	364
+行政主管	xing zheng zhu guan	7
+亚太区	ya tai qu	329
+夜店	ye dian	207
+业务服务中心	ye wu fu wu zhong xin	314
+业务结束下班	ye wu jie shu xia ban	303
+一次性瓶不可回收瓶	yi ci xing ping bu ke hui shou ping	189
+一级物流成品酒库存精确性	yi ji wu liu cheng pin jiu ku cun jing que xing	356
+易拉罐生产听数	yi la guan sheng chan ting shu	441
+易拉罐消费者投诉	yi la guan xiao fei zhe tou su	442
+医疗工伤生产	yi liao gong shang sheng chan	536
+医疗工伤物流	yi liao gong shang wu liu	348
+一批价批发商经销商进价	yi pi jia pi fa shang jing xiao shang jin jia	171
+仪器维护专员	yi qi wei hu zhuan yuan	97
+仪器仪表专员	yi qi yi biao zhuan yuan	84
+以体积计算的酒精度	yi ti ji ji suan de jiu jing du	333
+一线维修管理	yi xian wei xiu guan li	260
+意向书	yi xiang shu	224
+英博过滤方式混合物期末库存	ying bo guo lv fang shi hun he wu qi mo ku cun	455
+应付帐款	ying fu zhang kuan	331
+应付帐款周转天数	ying fu zhang kuan zhou zhuan tian shu	285
+应收帐款	ying shou zhang kuan	328
+应收帐款周转天数	ying shou zhang kuan zhou zhuan tian shu	284
+营业税	ying ye shui	313
+用回收瓶的总灌装量	yong hui shou ping de zong guan zhuang liang	398
+用一次性新瓶的总灌装量	yong yi ci xing xin ping de zong guan zhuang liang	397
+有待定义决定	you dai ding yi jue ding	139
+有待确认	you dai que ren	140
+预防性维修的人工工时	yu fang xing wei xiu de ren gong gong shi	438
+预估	yu gu	270
+娱乐场所属堂饮渠道	yu le chang suo shu tang yin qu dao	274
+玉米库存	yu mi ku cun	483
+玉米库存浸出物	yu mi ku cun jin chu wu	482
+预算	yu suan	320
+预算及业务表现	yu suan ji ye wu biao xian	323
+原料单	yuan liao dan	319
+原始设备制造商	yuan shi she bei zhi zao shang	196
+原位清洗	yuan wei qing xi	304
+月度管理报告	yue du guan li bao gao	215
+月工正式工	yue gong zheng shi gong	395
+月累计	yue lei ji	211
+月末的硅藻土库存	yue mo de gui zao tu ku cun	463
+月末累计离职人数	yue mo lei ji li zhi ren shu	549
+月末累计平均员工人数	yue mo lei ji ping jun yuan gong ren shu	548
+月末烧碱库存以干物质计	yue mo shao jian ku cun yi gan wu zhi ji	504
+运输发运主管	yun shu fa yun zhu guan	6
+在制品	zai zhi pin	111
+暂不填	zan bu tian	575
+增值税	zeng zhi shui	125
+沼气发电量	zhao qi fa dian liang	514
+沼气热值	zhao qi re zhi	515
+折现现金流	zhe xian xian jin liu	287
+整改完成率	zheng gai wan cheng lv	531
+整理整顿清扫清洁素养	zheng li zheng dun qing sao qing jie su yang	264
+正式工的加班工时	zheng shi gong de jia ban gong shi	556
+正式工的培训工时	zheng shi gong de pei xun gong shi	554
+正式工的总出勤工时	zheng shi gong de zong chu qin gong shi	571
+正式员工	zheng shi yuan gong	255
+支付薪酬但未工作的工时数	zhi fu xin chou dan wei gong zuo de gong shi shu	133
+直接临时雇员的出勤工时	zhi jie lin shi gu yuan de chu qin gong shi	552
+直接正式员工的出勤工时	zhi jie zheng shi yuan gong de chu qin gong shi	553
+质量保证	zhi liang bao zheng	170
+质量工程师	zhi liang gong cheng shi	5
+质量环测指数	zhi liang huan ce zhi shu	589
+质量经理	zhi liang jing li	4
+质量控制主管	zhi liang kong zhi zhu guan	3
+知识产权	zhi shi chan quan	237
+指数	zhi shu	583
+致死工伤次数物流	zhi si gong shang ci shu wu liu	336
+职业病登记数量物流	zhi ye bing deng ji shu liang wu liu	334
+职业病生产	zhi ye bing sheng chan	527
+职责人责任人被咨询人被通知人	zhi ze ren ze ren ren bei zi xun ren bei tong zhi ren	169
+中餐馆	zhong can guan	300
+重大环境事故	zhong da huan jing shi gu	425
+中国控股公司	zhong guo kong gu gong si	305
+中国证监会	zhong guo zheng jian hui	295
+转岗工伤生产	zhuan gang gong shang sheng chan	537
+转岗工伤物流	zhuan gang gong shang wu liu	349
+转基因生物	zhuan ji yin sheng wu	247
+转移定价	zhuan yi ding jia	134
+追踪和监控	zhui zong he jian kong	142
+准时及时	zhun shi ji shi	233
+卓越项目	zhuo yue xiang mu	271
+自产沼气	zi chan zhao qi	516
+自来水消耗	zi lai shui xiao hao	510
+自由现金流	zi you xian jin liu	267
+总部	zong bu	241
+总的过滤量以稀释后的量计算	zong de guo lv liang yi xi shi hou de liang ji suan	461
+总的母啤酒数目	zong de mu pi jiu shu mu	598
+总工时生产	zong gong shi sheng chan	541
+综合材料库记账员	zong he cai liao ku ji zhang yuan	2
+综合材料库主管	zong he cai liao ku zhu guan	1
+总净重新包装量	zong jing chong xin bao zhuang liang	574
+总经理	zong jing li	248
+总麦汁量	zong mai zhi liang	402
+总啤酒量	zong pi jiu liang	401
+总收视率	zong shou shi lv	244
+总销售收入	zong xiao shou shou ru	243
+总资产效力	zong zi chan xiao li	199
+组织和人事回顾	zu zhi he ren shi hui gu	191
+最佳操作工具	zui jia cao zuo gong ju	316
+最佳实践	zui jia shi jian	317
+最小内部控制系统	zui xiao nei bu kong zhi xi tong	216
+最新估值	zui xin gu zhi	225
+最终产品加权苦味道	zui zhong chan pin jia quan ku wei dao	403

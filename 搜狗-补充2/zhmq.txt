@@ -1,0 +1,423 @@
+# 词库名称: zhmq
+# 词库分类: 其他
+# 词库描述: 医学词汇
+# 词条样例: 整体观念、形神一体观、天人一体观、医学模式、异病同治
+# 解析词数: 416
+# 解析异常: 0
+
+罢极之本	ba ji zhi ben	322
+百病之长	bai bing zhi chang	197
+半表半里	ban biao ban li	38
+悲则气消	bei ze qi xiao	178
+辨病	bian bing	401
+辨证	bian zheng	407
+辨症求因	bian zheng qiu yin	206
+标本	biao ben	16
+表病入里	biao bing ru li	40
+表里传变	biao li chuan bian	41
+并病	bing bing	149
+病机	bing ji	142
+病机层次	bing ji ceng ci	140
+病机学	bing ji xue	141
+病势	bing shi	210
+病位传变	bing wei chuan bian	42
+病因	bing yin	208
+病因学说	bing yin xue shuo	207
+藏泄互用	cang xie hu yong	293
+冲脉	chong mai	236
+出血	chu xie	86
+大肠	da chang	351
+大实有羸状	da shi you lei zhuang	128
+带脉	dai mai	235
+胆主决断	dan zhu jue duan	310
+督脉	du mai	238
+反治	fan zhi	14
+房劳	fang lao	166
+肺朝百脉	fei chao bai mai	338
+肺为华盖	fei wei hua gai	335
+肺为娇脏	fei wei jiao zang	334
+肺为气之主	fei wei qi zhi zhu	298
+肺主行水	fei zhu hang shui	337
+肺主呼吸之气	fei zhu hu xi zhi qi	340
+肺主气	fei zhu qi	341
+肺主宣发肃降	fei zhu xuan fa su jiang	333
+肺主一身之气	fei zhu yi shen zhi qi	339
+肺主治节	fei zhu zhi jie	336
+风气内动	feng qi nei dong	65
+风性轻扬	feng xing qing yang	200
+风性主动	feng xing zhu dong	198
+复病	fu bing	148
+伏而后发	fu er hou fa	152
+浮络	fu luo	227
+腑与腑的传变	fu yu fu de chuan bian	28
+扶正	fu zheng	5
+肝风	gan feng	64
+肝肾同源	gan shen tong yuan	296
+肝为刚脏	gan wei gang zang	323
+感邪即发	gan xie ji fa	154
+肝阳化风	gan yang hua feng	63
+感应	gan ying	393
+肝主藏血	gan zhu cang xue	325
+肝主疏泄	gan zhu shu xie	326
+格阳	ge yang	104
+格阴	ge yin	102
+寒从中生	han cong zhong sheng	59
+寒化热	han hua re	25
+寒热转化	han re zhuan hua	26
+寒性凝滞	han xing ning zhi	196
+寒性收引	han xing shou yin	195
+寒因寒用	han yin han yong	8
+寒则气收	han ze qi shou	194
+寒者热之	han zhe re zhi	13
+合病	he bing	150
+宏观观察	hong guan guan cha	360
+后天之本	hou tian zhi ben	331
+后天之精	hou tian zhi jing	266
+后遗症	hou yi zheng	147
+火热内生	huo re nei sheng	53
+火性趋上	huo xing qu shang	186
+火易生风动血	huo yi sheng feng dong xue	185
+基本病机	ji ben bing ji	139
+疾病	ji bing	405
+疾病传变	ji bing chuan bian	43
+既病防变	ji bing fang bian	20
+继发	ji fa	151
+结石	jie shi	162
+津枯血燥	jin ku xue zao	69
+津亏血瘀	jin kui xue yu	68
+津能载气	jin neng zai qi	272
+津伤化燥	jin shang hua zao	55
+金水相生	jin shui xiang sheng	365
+津停气滞	jin ting qi zhi	269
+津血同源	jin xue tong yuan	263
+津液	jin ye	259
+津液不足	jin ye bu zu	76
+津液排泄障碍	jin ye pai xie zhang ai	72
+津液输布障碍	jin ye shu bu zhang ai	73
+经络	jing luo	258
+经络学说	jing luo xue shuo	257
+经脉	jing mai	255
+精能化气	jing neng hua qi	268
+经气	jing qi	256
+精气两虚	jing qi liang xu	83
+精气学说	jing qi xue shuo	398
+精虚	jing xu	98
+精血不足	jing xue bu zu	82
+精血同源	jing xue tong yuan	294
+惊则气乱	jing ze qi luan	176
+炅则气泄	jiong ze qi xie	192
+恐则气下	kong ze qi xia	175
+劳复	lao fu	145
+劳则气耗	lao ze qi hao	170
+类比	lei bi	358
+里病出表	li bing chu biao	39
+疠气	li qi	184
+理想体质	li xiang ti zhi	211
+六腑	liu fu	353
+六经传变	liu jing chuan bian	36
+六气	liu qi	204
+六邪	liu xie	203
+六淫	liu yin	205
+论治	lun zhi	406
+络脉	luo mai	254
+满而不实	man er bu shi	346
+泌别清浊	mi bie qing zhuo	306
+命门	ming men	312
+母病及子	mu bing ji zi	370
+纳运相得	na yun xiang de	292
+脑为髓海	nao wei sui hai	301
+内风	nei feng	66
+内寒	nei han	58
+内火	nei huo	51
+内热	nei re	52
+内湿	nei shi	56
+内燥	nei zao	54
+逆传	ni chuan	32
+怒则气上	nu ze qi shang	180
+女子胞	nv zi bao	347
+膀胱	pang guang	349
+培土生金	pei tu sheng jin	367
+培土治水	pei tu zhi shui	363
+脾气主升	pi qi zhu sheng	329
+脾喜燥恶湿	pi xi zao e shi	327
+脾主统血	pi zhu tong xue	328
+脾主运化	pi zhu yun hua	330
+气闭	qi bi	90
+气不摄血	qi bu she xue	79
+七冲门	qi chong men	311
+气海	qi hai	286
+奇恒之腑	qi heng zhi fu	348
+气化	qi hua	394
+气机	qi ji	395
+气机失调	qi ji shi tiao	96
+奇经八脉	qi jing ba mai	239
+气门	qi men	332
+气能摄津	qi neng she jin	270
+气能摄血	qi neng she xue	273
+气能生津	qi neng sheng jin	278
+气能生精	qi neng sheng jing	264
+气能生血	qi neng sheng xue	281
+气能行津	qi neng xing jin	274
+气能行血	qi neng xing xue	277
+气逆	qi ni	94
+七情	qi qing	182
+七情内伤	qi qing nei shang	181
+气随津脱	qi sui jin tuo	70
+气随血脱	qi sui xue tuo	78
+气脱	qi tuo	89
+气为血之帅	qi wei xue zhi shuai	280
+气陷	qi xian	93
+气虚	qi xu	97
+气虚血瘀	qi xu xue yu	80
+气血两虚	qi xue liang xu	77
+气一元论	qi yi yuan lun	390
+气有余便是火	qi you yu bian shi huo	47
+气质	qi zhi	214
+气滞	qi zhi	95
+气滞血瘀	qi zhi xue yu	81
+气主升之	qi zhu sheng zhi	279
+情志致复	qing zhi zhi fu	143
+祛邪	qu xie	4
+热化寒	re hua han	24
+热极生风	re ji sheng feng	62
+热因热用	re yin re yong	9
+热者寒之	re zhe han zhi	12
+人格	ren ge	215
+任脉	ren mai	237
+任主胞胎	ren zhu bao tai	222
+塞因塞用	sai yin sai yong	6
+三焦	san jiao	350
+三焦传变	san jiao chuan bian	35
+善行数变	shan xing shu bian	199
+膻中	shan zhong	261
+伤寒	shang han	202
+上焦如雾	shang jiao ru wu	305
+伤津	shang jin	75
+上气不足	shang qi bu zu	92
+少火	shao huo	50
+肾藏精	shen cang jing	320
+肾精	shen jing	317
+肾劳	shen lao	167
+神劳	shen lao	168
+肾气	shen qi	316
+肾为气之根	shen wei qi zhi gen	297
+肾阳	shen yang	318
+肾阴	shen yin	319
+肾主纳气	shen zhu na qi	313
+肾主水液	shen zhu shui ye	314
+升降相因	sheng jiang xiang yin	291
+生命	sheng ming	397
+实而不满	shi er bu man	345
+十二经别	shi er jing bie	230
+十二经筋	shi er jing jin	226
+十二经脉	shi er jing mai	253
+十二经脉之海	shi er jing mai zhi hai	221
+十二皮部	shi er pi bu	225
+十二正经	shi er zheng jing	252
+食复	shi fu	146
+十五别络	shi wu bie luo	229
+湿性黏滞	shi xing nian zhi	189
+湿性趋下	shi xing qu xia	188
+湿性重浊	shi xing zhong zhuo	190
+实则泻之	shi ze xie zhi	10
+实证	shi zheng	138
+实中夹虚	shi zhong jia xu	134
+湿浊内生	shi zhuo nei sheng	57
+手厥阴心包经	shou jue yin xin bao jing	243
+手少阳三焦经	shou shao yang san jiao jing	242
+手少阴心经	shou shao yin xin jing	247
+受盛化物	shou sheng hua wu	307
+手太阳小肠经	shou tai yang xiao chang jing	246
+手太阴肺经	shou tai yin fei jing	251
+手阳明大肠经	shou yang ming da chang jing	250
+暑多夹湿	shu duo jia shi	191
+暑性升散	shu xing sheng san	193
+水地说	shui di shuo	392
+水谷之精	shui gu zhi jing	265
+水火相济	shui huo xiang ji	299
+水停气阻	shui ting qi zu	71
+顺传	shun chuan	33
+思则气结	si ze qi jie	177
+素质	su zhi	212
+孙络	sun luo	228
+胎毒	tai du	158
+胎弱	tai ruo	159
+体格	ti ge	217
+体型	ti xing	216
+体因而用阳	ti yin er yong yang	324
+体征	ti zheng	402
+体质	ti zhi	219
+天癸	tian gui	315
+天人一体观	tian ren yi ti guan	409
+同病异治	tong bing yi zhi	400
+通因通用	tong yin tong yong	7
+脱液	tuo ye	74
+亡阳阳	wang yang yang	99
+亡阴	wang yin	100
+未病先防	wei bing xian fang	21
+卫气	wei qi	285
+卫气营血传变	wei qi ying xue chuan bian	34
+胃主通降	wei zhu tong jiang	309
+瘟疫	wen yi	183
+五行	wu xing	378
+五行胜复	wu xing sheng fu	371
+五行相乘	wu xing xiang cheng	373
+五行相克	wu xing xiang ke	375
+五行相生	wu xing xiang sheng	376
+五行相侮	wu xing xiang wu	372
+五行学说	wu xing xue shuo	377
+五行制化	wu xing zhi hua	374
+无形之痰	wu xing zhi tan	164
+五脏	wu zang	354
+五脏一体观	wu zang yi ti guan	411
+五志化火	wu zhi hua huo	45
+喜润恶燥	xi run e zao	308
+喜则气缓	xi ze qi huan	179
+下焦如渎	xia jiao ru du	303
+先天之本	xian tian zhi ben	321
+先天之精	xian tian zhi jing	267
+小肠	xiao chang	352
+泻南补北	xie nan bu bei	361
+邪气	xie qi	156
+邪去正虚	xie qu zheng xu	124
+邪盛正衰	xie sheng zheng shuai	123
+邪郁化火	xie yu hua huo	46
+邪正相持	xie zheng xiang chi	122
+心藏神	xin cang shen	342
+心劳	xin lao	169
+心肾相交	xin shen xiang jiao	300
+心主神明	xin zhu shen ming	344
+心主血脉	xin zhu xue mai	343
+性格	xing ge	213
+形劳	xing lao	171
+形神合一	xing shen he yi	218
+形神一体观	xing shen yi ti guan	410
+形脏内外传变	xing zang nei wai chuan bian	27
+徐发	xu fa	153
+虚里	xu li	260
+绪论	xu lun	416
+虚实错杂	xu shi cuo za	136
+虚实真假	xu shi zhen jia	130
+虚实转化	xu shi zhuan hua	133
+虚则补之	xu ze bu zhi	11
+虚证	xu zheng	137
+虚中夹实	xu zhong jia shi	135
+血海	xue hai	220
+血寒	xue han	85
+血汗同源	xue han tong yuan	262
+血能载气	xue neng zai qi	271
+血热	xue re	84
+血为气之母	xue wei qi zhi mu	276
+血虚	xue xu	88
+血虚生风	xue xu sheng feng	60
+血瘀	xue yu	87
+血瘀水停	xue yu shui ting	67
+血主濡之	xue zhu ru zhi	275
+阳亢化火	yang kang hua huo	48
+阳脉之海	yang mai zhi hai	224
+阳偏盛	yang pian sheng	118
+阳偏衰	yang pian shuai	113
+阳跷脉	yang qiao mai	233
+阳盛	yang sheng	117
+养生	yang sheng	22
+阳盛格阴	yang sheng ge yin	103
+阳损及阴	yang sun ji yin	107
+阳维脉	yang wei mai	231
+阳虚	yang xu	112
+药复	yao fu	144
+药邪	yao xie	161
+异病同治	yi bing tong zhi	399
+遗传病	yi chuan bing	155
+乙癸同源	yi gui tong yuan	295
+医过	yi guo	160
+益火补土	yi huo bu tu	366
+抑木扶土	yi mu fu tu	364
+医学模式	yi xue mo shi	408
+因地制宜	yin di zhi yi	2
+阴脉之海	yin mai zhi hai	223
+阴偏盛	yin pian sheng	116
+阴偏衰	yin pian shuai	111
+阴跷脉	yin qiao mai	234
+因人制宜	yin ren zhi yi	1
+阴盛	yin sheng	115
+阴盛格阳	yin sheng ge yang	105
+饮食不节	yin shi bu jie	174
+饮食不洁	yin shi bu jie	173
+饮食偏嗜	yin shi pian shi	172
+因时制宜	yin shi zhi yi	3
+阴损及阳	yin sun ji yang	108
+阴维脉	yin wei mai	232
+阴虚	yin xu	110
+阴虚风动	yin xu feng dong	61
+阴虚火旺	yin xu huo wang	44
+因虚致实	yin xu zhi shi	131
+阴阳	yin yang	388
+阴阳对立	yin yang dui li	386
+阴阳格拒	yin yang ge ju	106
+阴阳互藏	yin yang hu cang	382
+阴阳互根	yin yang hu gen	385
+阴阳互损	yin yang hu sun	109
+阴阳交感	yin yang jiao gan	383
+阴阳偏盛	yin yang pian sheng	119
+阴阳偏衰	yin yang pian shuai	114
+阴阳平衡	yin yang ping heng	379
+阴阳失调	yin yang shi tiao	120
+阴阳亡失	yin yang wang shi	101
+阴阳消长	yin yang xiao zhang	384
+阴阳学说	yin yang xue shuo	387
+阴阳转化	yin yang zhuan hua	381
+阴阳自和	yin yang zi he	380
+营气	ying qi	283
+由实转虚	you shi zhuan xu	132
+有形之痰	you xing zhi tan	165
+预防	yu fang	23
+瘀血	yu xue	163
+元气	yuan qi	289
+原气	yuan qi	282
+元气一元论	yuan qi yi yuan lun	389
+元神之府	yuan shen zhi fu	302
+元阳	yuan yang	287
+元阴	yuan yin	288
+云气说	yun qi shuo	391
+脏腑	zang fu	355
+脏腑传变	zang fu chuan bian	31
+藏象	zang xiang	357
+藏象学说	zang xiang xue shuo	356
+脏与腑的传变	zang yu fu de chuan bian	29
+脏与脏的传变	zang yu zang de chuan bian	30
+燥湿相济	zao shi xiang ji	290
+燥性干涩	zao xing gan se	187
+真实假虚	zhen shi jia xu	129
+真虚假实	zhen xu jia shi	127
+证候	zheng hou	404
+正气	zheng qi	157
+正胜邪退	zheng sheng xie tui	125
+整体观念	zheng ti guan nian	412
+正虚邪恋	zheng xu xie lian	121
+正治	zheng zhi	15
+症状	zheng zhuang	403
+治病求本	zhi bing qiu ben	17
+治法	zhi fa	18
+质化	zhi hua	209
+至虚有盛候	zhi xu you sheng hou	126
+治则	zhi ze	19
+直中	zhi zhong	37
+中寒	zhong han	201
+中和	zhong he	359
+中焦如沤	zhong jiao ru ou	304
+中介	zhong jie	396
+中气下陷	zhong qi xia xian	91
+中医基础理论	zhong yi ji chu li lun	413
+中医学	zhong yi xue	415
+中医学理论体系	zhong yi xue li lun ti xi	414
+壮火	zhuang huo	49
+子病及母	zi bing ji mu	369
+滋水涵木	zi shui han mu	368
+宗气	zong qi	284
+足厥阴肝经	zu jue yin gan jing	240
+足少阳胆经	zu shao yang dan jing	241
+足少阴肾经	zu shao yin shen jing	244
+足太阳膀胱经	zu tai yang pang guang jing	245
+足太阴脾经	zu tai yin pi jing	248
+足阳明胃经	zu yang ming wei jing	249
+佐金平木	zuo jin ping mu	362

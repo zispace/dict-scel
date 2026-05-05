@@ -1,0 +1,723 @@
+# 词库名称: Vibe coding（AI编程）词库
+# 词库分类: 人工智能
+# 词库描述: Vibe coding（AI编程）词库
+# 词条样例: 代码生成、扮演架构师、链式推理、理解上下文、重构代码
+# 解析词数: 716
+# 解析异常: 0
+
+阿里云	a li yun	599
+爱好者	ai hao zhe	297
+安全	an quan	351
+安全测试	an quan ce shi	576
+安全对齐	an quan dui qi	92
+安全多方计算	an quan duo fang ji suan	126
+安全合规	an quan he gui	236
+安全扫描	an quan sao miao	388
+安全审计	an quan shen ji	645
+安全实验室	an quan shi yan shi	219
+安全研究	an quan yan jiu	84
+版本	ban ben	380
+版本冲突	ban ben chong tu	641
+版本迭代	ban ben die dai	268
+版本控制	ban ben kong zhi	669
+版本升级	ban ben sheng ji	383
+伴侣	ban lv	207
+扮演架构师	ban yan jia gou shi	707
+报告进度	bao gao jin du	502
+包容性	bao rong xing	341
+包容增长	bao rong zeng zhang	30
+备忘录	bei wang lu	465
+本地化	ben di hua	279
+编程	bian cheng	716
+编程奇才	bian cheng qi cai	509
+变革力量	bian ge li liang	4
+变更日志	bian geng ri zhi	378
+边界案例	bian jie an li	688
+编写文档	bian xie wen dang	695
+边缘计算	bian yuan ji suan	595
+表演	biao yan	172
+标准	biao zhun	232
+并查集	bing cha ji	440
+病毒传播	bing du chuan bo	179
+病毒系数	bing du xi shu	542
+并发编程	bing fa bian cheng	430
+并发控制	bing fa kong zhi	678
+并行处理	bing xing chu li	194
+补丁管理	bu ding guan li	384
+不可变数据	bu ke bian shu ju	658
+布隆过滤器	bu long guo lv qi	432
+部署	bu shu	107
+部署推理	bu shu tui li	601
+参数规模	can shu gui mo	81
+仓库模式	cang ku mo shi	619
+操作简便	cao zuo jian bian	320
+策略	ce lue	462
+测试	ce shi	546
+查看输出	cha kan shu chu	522
+查询优化	cha xun you hua	672
+产品	chan pin	256
+产品背包	chan pin bei bao	555
+产学研	chan xue yan	225
+产业发展	chan ye fa zhan	230
+场景理解	chang jing li jie	185
+长期记忆	chang qi ji yi	204
+长期维护	chang qi wei hu	359
+长期主义	chang qi zhu yi	18
+常识推理	chang shi tui li	48
+长序列	chang xu lie	58
+超参调优	chao can tiao you	602
+超级对齐	chao ji dui qi	19
+超级人类	chao ji ren lei	153
+沉浸式体验	chen jin shi ti yan	168
+成本优化	cheng ben you hua	569
+持续部署	chi xu bu shu	549
+持续集成	chi xu ji cheng	551
+持续交付	chi xu jiao fu	550
+重构代码	chong gou dai ma	699
+重构技巧	chong gou ji qiao	489
+重试策略	chong shi ce lue	406
+重试机制	chong shi ji zhi	627
+冲突	chong tu	667
+抽象工厂	chou xiang gong chang	480
+穿戴设备	chuan dai she bei	191
+创新中心	chuang xin zhong xin	224
+创业	chuang ye	310
+创意爆发	chuang yi bao fa	159
+创意放大	chuang yi fang da	328
+创造本质	chuang zao ben zhi	147
+创作自由	chuang zuo zi you	34
+垂直领域	chui zhi ling yu	312
+纯函数	chun han shu	659
+存在风险	cun zai feng xian	22
+存在意义	cun zai yi yi	148
+错误分析	cuo wu fen xi	109
+错误日志	cuo wu ri zhi	686
+错误追踪	cuo wu zhui zong	409
+大会	da hui	293
+大模型	da mo xing	275
+大数据	da shu ju	608
+大数据量	da shu ju liang	682
+代币激励	dai bi ji li	131
+带货	dai huo	176
+代理	dai li	471
+代码分享	dai ma fen xiang	287
+代码风格	dai ma feng ge	665
+代码规范	dai ma gui fan	498
+代码审查	dai ma shen cha	666
+代码生成	dai ma sheng cheng	715
+代码艺术	dai ma yi shu	337
+代码执行	dai ma zhi xing	527
+单例	dan li	482
+单元测试	dan yuan ce shi	693
+单元测试框架	dan yuan ce shi kuang jia	412
+灯光效果	deng guang xiao guo	170
+低代码	di dai ma	581
+迪米特法则	di mi te fa ze	490
+低碳计算	di tan ji suan	342
+低延迟	di yan chi	192
+点击率	dian ji lv	181
+电路断路	dian lu duan lu	404
+迭代开发	die dai kai fa	552
+迭代器	die dai qi	467
+迭代修改	die dai xiu gai	521
+迭代优化	die dai you hua	324
+定义完成	ding yi wan cheng	556
+订阅模式	ding yue mo shi	355
+订阅制	ding yue zhi	136
+定制解决方案	ding zhi jie jue fang an	311
+动态规划	dong tai gui hua	455
+动态类型	dong tai lei xing	661
+毒化攻击	du hua gong ji	86
+端到端测试	duan dao duan ce shi	690
+断点	duan dian	418
+对抗样本	dui kang yang ben	87
+队列	dui lie	438
+对齐	dui qi	94
+对齐问题	dui qi wen ti	21
+多臂老虎机	duo bi lao hu ji	532
+多步推理	duo bu tui li	47
+多代理协作	duo dai li xie zuo	530
+多感官	duo gan guan	55
+多环境	duo huan jing	397
+多任务	duo ren wu	195
+多线程	duo xian cheng	679
+多样性	duo yang xing	340
+多语言支持	duo yu yan zhi chi	280
+二叉树	er cha shu	446
+发布笔记	fa bu bi ji	377
+反复迭代	fan fu die dai	510
+反馈循环	fan kui xun huan	548
+访问者	fang wen zhe	460
+防御机制	fang yu ji zhi	89
+飞桨	fei jiang	243
+分布式计算	fen bu shi ji suan	130
+分布式系统	fen bu shi xi tong	632
+分层架构	fen ceng jia gou	612
+分析需求	fen xi xu qiu	703
+分享成果	fen xiang cheng guo	520
+分享会	fen xiang hui	295
+分支	fen zhi	668
+分治	fen zhi	453
+峰会论坛	feng hui lun tan	292
+风险评估	feng xian ping gu	23
+封装集合	feng zhuang ji he	484
+付费生成	fu fei sheng cheng	135
+覆盖率	fu gai lv	692
+服务层	fu wu ceng	618
+服务出售	fu wu chu shou	257
+服务发现	fu wu fa xian	630
+服务器渲染	fu wu qi xuan ran	652
+服务网格	fu wu wang ge	390
+副业思路	fu ye si lu	259
+负载均衡	fu zai jun heng	629
+改变签名	gai bian qian ming	486
+改进迭代	gai jin die dai	108
+干净架构	gan jing jia gou	615
+高并发	gao bing fa	681
+高手分享	gao shou fen xiang	261
+高校合作	gao xiao he zuo	226
+高效计算	gao xiao ji suan	76
+个人信息保护	ge ren xin xi bao hu	121
+个性化	ge xing hua	203
+工厂	gong chang	481
+共创美好	gong chuang mei hao	1
+攻击模拟	gong ji mo ni	90
+工具	gong ju	369
+工具调用	gong ju diao yong	529
+工具使用	gong ju shi yong	506
+公平使用	gong ping shi yong	139
+公平性	gong ping xing	339
+共情能力	gong qing neng li	205
+共生关系	gong sheng guan xi	155
+公益项目	gong yi xiang mu	214
+工作方法	gong zuo fang fa	513
+故事	gu shi	38
+故障注入	gu zhang zhu ru	572
+观察者	guan cha zhe	464
+关键信息	guan jian xin xi	516
+管理	guan li	564
+观众互动	guan zhong hu dong	169
+广告支持	guang gao zhi chi	133
+规划	gui hua	559
+规划能力	gui hua neng li	196
+规划任务	gui hua ren wu	505
+规则提取	gui ze ti qu	111
+滚动更新	gun dong geng xin	392
+国产模型	guo chan mo xing	276
+国产替代	guo chan ti dai	234
+国产芯片	guo chan xin pian	71
+国际公约	guo ji gong yue	15
+国际合作	guo ji he zuo	27
+国际交流	guo ji jiao liu	282
+国家战略	guo jia zhan lue	231
+哈希表	ha xi biao	436
+函数单一	han shu dan yi	496
+函数式编程	han shu shi bian cheng	660
+行业标准	hang ye biao zhun	344
+行业应用	hang ye ying yong	313
+和平利用	he ping li yong	26
+合作	he zuo	333
+合作伙伴	he zuo huo ban	241
+黑格式	hei ge shi	664
+黑客松	hei ke song	290
+黑箱问题	hei xiang wen ti	116
+红队测试	hong dui ce shi	91
+后门	hou men	85
+后台框架	hou tai kuang jia	610
+互动编程	hu dong bian cheng	335
+互动艺术	hu dong yi shu	254
+缓存	huan cun	431
+缓存策略	huan cun ce lue	675
+环境配置	huan jing pei zhi	525
+环境问题	huan jing wen ti	517
+幻觉问题	huan jue wen ti	252
+灰度发布	hui du fa bu	401
+回顾	hui gu	560
+回滚策略	hui gun ce lue	636
+回溯	hui su	452
+会员特权	hui yuan te quan	352
+混沌工程	hun dun gong cheng	573
+混合创作	hun he chuang zuo	253
+混合精度	hun he jing du	74
+混合开发	hun he kai fa	331
+混合现实	hun he xian shi	167
+混合专家	hun he zhuan jia	78
+火焰图	huo yan tu	414
+集成测试	ji cheng ce shi	691
+集成测试工具	ji cheng ce shi gong ju	411
+集成服务	ji cheng fu wu	240
+基础设施	ji chu she shi	616
+积分系统	ji fen xi tong	353
+集合	ji he	435
+机会点	ji hui dian	309
+机器学习	ji qi xue xi	605
+技术突破	ji shu tu po	220
+技术选型	ji shu xuan xing	366
+继续发展	ji xu fa zhan	11
+加速卡	jia su ka	72
+价值对齐	jia zhi dui qi	93
+简洁代码	jian jie dai ma	511
+监控告警	jian kong gao jing	635
+监控工具	jian kong gong ju	410
+监控系统	jian kong xi tong	105
+兼容性	jian rong xing	382
+建造者	jian zao zhe	479
+降级方案	jiang ji fang an	405
+奖励模型	jiang li mo xing	96
+教程资源	jiao cheng zi yuan	264
+脚手架	jiao shou jia	370
+教育普及	jiao yu pu ji	305
+接口隔离	jie kou ge li	494
+界面设计	jie mian she ji	321
+接入	jie ru	239
+解释代码	jie shi dai ma	700
+解释器	jie shi qi	468
+进化	jin hua	100
+进化模型	jin hua mo xing	200
+进阶技巧	jin jie ji qiao	262
+谨慎乐观	jin shen le guan	5
+金丝雀发布	jin si que fa bu	637
+竞赛	jing sai	83
+竞赛获奖	jing sai huo jiang	288
+静态分析	jing tai fen xi	387
+静态类型	jing tai lei xing	662
+静态生成	jing tai sheng cheng	651
+经验交流	jing yan jiao liu	266
+救援	jiu yuan	212
+聚合根	ju he gen	622
+具身智能	ju shen zhi neng	54
+局限	ju xian	327
+决策能力	jue ce neng li	197
+决策树	jue ce shu	112
+角色扮演	jue se ban yan	710
+觉醒	jue xing	40
+军备赛	jun bei sai	25
+开闭原则	kai bi yuan ze	492
+开发	kai fa	396
+开放信	kai fang xin	13
+开源贡献	kai yuan gong xian	566
+开源社区	kai yuan she qu	272
+开源协议	kai yuan xie yi	357
+开源许可	kai yuan xu ke	138
+看板	kan ban	562
+可持续发展	ke chi xu fa zhan	343
+可持续开发	ke chi xu kai fa	567
+科幻现实	ke huan xian shi	39
+可见性	ke jian xing	421
+可解释性	ke jie shi xing	348
+可靠性工程	ke kao xing gong cheng	574
+可视化工具	ke shi hua gong ju	115
+可追溯	ke zhui su	119
+空间复杂度	kong jian fu za du	683
+控制难度	kong zhi nan du	325
+控制问题	kong zhi wen ti	20
+跨平台	kua ping tai	318
+快速原型	kuai su yuan xing	368
+框架对比	kuang jia dui bi	365
+鲲鹏	kun peng	69
+蓝绿	lan lv	393
+蓝绿部署	lan lv bu shu	638
+乐观主义	le guan zhu yi	6
+类脑计算	lei nao ji suan	66
+类型检查	lei xing jian cha	663
+类职责	lei zhi ze	495
+冷启动	leng qi dong	535
+理解代码库	li jie dai ma ku	512
+理解上下文	li jie shang xia wen	702
+里氏替换	li shi ti huan	491
+理性讨论	li xing tao lun	9
+联邦学习	lian bang xue xi	129
+链表操作	lian biao cao zuo	448
+联合国	lian he guo	28
+链路追踪	lian lu zhui zong	633
+链式思考	lian shi si kao	46
+链式推理	lian shi tui li	704
+量化	liang hua	75
+灵感来源	ling gan lai yuan	330
+领先模型	ling xian mo xing	82
+零信任	ling xin ren	389
+领域驱动	ling yu qu dong	623
+零知识证明	ling zhi shi zheng ming	125
+六边形架构	liu bian xing jia gou	614
+留存率	liu cun lv	541
+浏览器工具	liu lan qi gong ju	528
+漏洞扫描	lou dong sao miao	644
+漏洞修复	lou dong xiu fu	385
+鲁棒性	lu bang xing	88
+伦理委员会	lun li wei yuan hui	218
+论文解读	lun wen jie du	271
+绿色计算	lv se ji suan	568
+埋点分析	mai dian fen xi	544
+门槛降低	men kan jiang di	31
+梦境	meng jing	161
+密钥提供	mi yue ti gong	518
+免费额度	mian fei e du	134
+免费试用	mian fei shi yong	354
+敏捷开发	min jie kai fa	563
+民主化开发	min zhu hua kai fa	32
+命令	ming ling	469
+命名规范	ming ming gui fan	497
+模块化	mo kuai hua	654
+模拟环境	mo ni huan jing	52
+模型发布	mo xing fa bu	286
+模型更新	mo xing geng xin	269
+模型管理	mo xing guan li	106
+模型训练	mo xing xun lian	603
+模板方法	mu ban fang fa	461
+模板项目	mu ban xiang mu	371
+脑机接口	nao ji jie kou	165
+内存模型	nei cun mo xing	422
+内联变量	nei lian bian liang	487
+内容推荐	nei rong tui jian	536
+你是一位高级软件工程师	ni shi yi wei gao ji ruan jian gong cheng shi	709
+排序	pai xu	458
+盘古	pan gu	245
+配置中心	pei zhi zhong xin	399
+朋友	peng you	2
+批判性	pi pan xing	43
+偏见消除	pian jian xiao chu	349
+漂移检测	piao yi jian ce	104
+平衡观点	ping heng guan dian	10
+平衡树	ping heng shu	445
+企业部署	qi ye bu shu	238
+企业支持	qi ye zhi chi	358
+弃用警告	qi yong jing gao	374
+前端框架	qian duan kuang jia	611
+前沿动态	qian yan dong tai	270
+千亿参数	qian yi can shu	79
+迁移脚本	qian yi jiao ben	670
+潜意识	qian yi shi	160
+迁移指南	qian yi zhi nan	375
+强化学习	qiang hua xue xi	533
+桥接	qiao jie	476
+请求权限	qing qiu quan xian	519
+区块链	qu kuai lian	593
+趋势	qu shi	317
+去中心化	qu zhong xin hua	591
+全局捕获	quan ju bu huo	408
+全球发展	quan qiu fa zhan	29
+全球社区	quan qiu she qu	283
+权限控制	quan xian kong zhi	646
+人才计划	ren cai ji hua	227
+人机共创	ren ji gong chuang	332
+人类反馈	ren lei fan kui	97
+人类伙伴	ren lei huo ban	3
+人类进化	ren lei jin hua	156
+人脸识别	ren lian shi bie	187
+人人程序员	ren ren cheng xu yuan	33
+认证考试	ren zheng kao shi	302
+认证授权	ren zheng shou quan	647
+日志打印	ri zhi da yin	417
+日志记录	ri zhi ji lu	118
+日志收集	ri zhi shou ji	634
+熔断	rong duan	402
+熔断降级	rong duan jiang ji	628
+容器编排	rong qi bian pai	391
+容器化	rong qi hua	597
+入门指南	ru men zhi nan	263
+软件工程师	ruan jian gong cheng shi	507
+上报机制	shang bao ji zhi	407
+商业模式	shang ye mo shi	137
+商业许可	shang ye xu ke	356
+哨兵	shao bing	41
+社会影响	she hui ying xiang	216
+设计	she ji	650
+设计模式	she ji mo shi	483
+社区反馈	she qu fan kui	323
+社区分享	she qu fen xiang	267
+社区共识	she qu gong shi	8
+社区贡献	she qu gong xian	373
+社区活跃	she qu huo yue	361
+社区经济	she qu jing ji	132
+审查	shen cha	565
+审计	shen ji	120
+渗透测试	shen tou ce shi	575
+生产	sheng chan	394
+生成测试	sheng cheng ce shi	694
+生成代码	sheng cheng dai ma	701
+生成权	sheng cheng quan	141
+生成艺术	sheng cheng yi shu	336
+升级依赖	sheng ji yi lai	640
+生态	sheng tai	242
+生态丰富	sheng tai feng fu	360
+昇腾	sheng teng	70
+生涯规划	sheng ya gui hua	298
+市场规模	shi chang gui mo	307
+时代	shi dai	157
+时间复杂度	shi jian fu za du	684
+事件驱动	shi jian qu dong	625
+事件溯源	shi jian su yuan	624
+事件循环	shi jian xun huan	427
+世界模型	shi jie mo xing	53
+视觉识别	shi jue shi bie	188
+示例代码	shi li dai ma	372
+适配器	shi pei qi	477
+视频理解	shi pin li jie	57
+实时通信	shi shi tong xin	649
+实时响应	shi shi xiang ying	193
+实体	shi ti	621
+实验	shi yan	398
+实验室	shi yan shi	223
+使用	shi yong	671
+适用场景	shi yong chang jing	363
+树结构	shu jie gou	447
+数据	shu ju	689
+数据保护	shu ju bao hu	123
+数据仓库	shu ju cang ku	606
+数据湖	shu ju hu	607
+数据集公开	shu ju ji gong kai	285
+数据结构	shu ju jie gou	439
+数据库	shu ju ku	609
+数据库优化	shu ju ku you hua	674
+数据驱动	shu ju qu dong	545
+数据隐私	shu ju yin si	350
+数据主权	shu ju zhu quan	235
+署名权	shu ming quan	142
+数字艺术	shu zi yi shu	255
+数字永生	shu zi yong sheng	150
+数组技巧	shu zu ji qiao	449
+双刃剑	shuang ren jian	24
+思考	si kao	45
+死锁避免	si suo bi mian	676
+思维控制	si wei kong zhi	163
+私有化	si you hua	237
+搜索	sou suo	457
+算法	suan fa	459
+算法优化	suan fa you hua	182
+锁机制	suo ji zhi	677
+锁文件	suo wen jian	642
+索引添加	suo yin tian jia	673
+太极	tai ji	246
+探索利用	tan suo li yong	534
+贪心	tan xin	454
+弹性扩展	tan xing kuo zhan	571
+特征工程	te zheng gong cheng	604
+特征开关	te zheng kai guan	400
+特征重要性	te zheng zhong yao xing	113
+腾讯云	teng xun yun	598
+提出建议	ti chu jian yi	500
+提取方法	ti qu fang fa	488
+提示词	ti shi ci	712
+添加注释	tian jia zhu shi	696
+跳表	tiao biao	433
+调试	tiao shi	110
+调试错误	tiao shi cuo wu	697
+调试技巧	tiao shi ji qiao	419
+挑战赛	tiao zhan sai	289
+痛点解决	tong dian jie jue	308
+同态加密	tong tai jia mi	127
+通义千问	tong yi qian wen	249
+透明度	tou ming du	347
+透明模型	tou ming mo xing	117
+投资热点	tou zi re dian	306
+图遍历	tu bian li	456
+突破	tu po	64
+突破进展	tu po jin zhan	314
+图算法	tu suan fa	444
+推荐系统	tui jian xi tong	538
+推理优化	tui li you hua	73
+推送通知	tui song tong zhi	648
+拓扑排序	tuo pu pai xu	441
+拖拽建站	tuo zhuai jian zhan	579
+外观	wai guan	473
+万亿参数	wan yi can shu	80
+网红经济	wang hong jing ji	178
+微服务	wei fu wu	631
+未来	wei lai	7
+未来畅想	wei lai chang xiang	37
+未来工具	wei lai gong ju	316
+未来计算	wei lai ji suan	65
+未来接口	wei lai jie kou	164
+未来生活	wei lai sheng huo	208
+微前端	wei qian duan	653
+为善	wei shan	217
+微调	wei tiao	274
+微信小程序	wei xin xiao cheng xu	584
+位运算	wei yun suan	451
+文化适应	wen hua shi ying	278
+文件读写	wen jian du xie	526
+文心一言	wen xin yi yan	250
+无代码	wu dai ma	580
+悟道	wu dao	244
+无监督	wu jian du	98
+物理	wu li	50
+物理引擎	wu li yin qing	51
+物联网	wu lian wang	594
+无锁编程	wu suo bian cheng	423
+舞台设计	wu tai she ji	171
+物体检测	wu ti jian ce	186
+无限	wu xian	35
+无限创意	wu xian chuang yi	36
+无限可能	wu xian ke neng	158
+无限上下文	wu xian shang xia wen	59
+稀疏激活	xi shu ji huo	77
+系统提示	xi tong ti shi	711
+线程池	xian cheng chi	429
+限流	xian liu	403
+线下活动	xian xia huo dong	294
+线性注意力	xian xing zhu yi li	60
+向后兼容	xiang hou jian rong	381
+项目变现	xiang mu bian xian	258
+相同语言	xiang tong yu yan	514
+响应式	xiang ying shi	657
+享元	xiang yuan	472
+小程序	xiao cheng xu	585
+效率工具	xiao lv gong ju	329
+消息队列	xiao xi dui lie	626
+协程	xie cheng	428
+协同过滤	xie tong guo lv	537
+协作开发	xie zuo kai fa	284
+新范式	xin fan shi	63
+信号量	xin hao liang	426
+新架构	xin jia gou	62
+芯片设计	xin pian she ji	67
+新兴模型	xin xing mo xing	315
+性能测试	xing neng ce shi	577
+性能分析	xing neng fen xi	685
+性能剖析	xing neng pou xi	415
+兴趣小组	xing qu xiao zu	296
+行为分析	xing wei fen xi	184
+虚拟家庭	xu ni jia ting	206
+虚拟偶像	xu ni ou xiang	175
+虚拟现实	xu ni xian shi	589
+虚拟演唱会	xu ni yan chang hui	173
+璇玑	xuan ji	248
+学习	xue xi	265
+学习曲线	xue xi qu xian	362
+学习适应	xue xi shi ying	201
+学校课程	xue xiao ke cheng	304
+训练数据版权	xun lian shu ju ban quan	140
+寻求澄清	xun qiu cheng qing	501
+演讲嘉宾	yan jiang jia bin	291
+眼镜	yan jing	166
+研究成果	yan jiu cheng guo	222
+验收标准	yan shou biao zhun	557
+验证结果	yan zheng jie guo	503
+验证想法	yan zheng xiang fa	367
+洋葱架构	yang cong jia gou	613
+异步处理	yi bu chu li	680
+异常处理	yi chang chu li	687
+移动端支持	yi dong duan zhi chi	319
+移动开发	yi dong kai fa	586
+移动字段	yi dong zi duan	485
+依赖安装	yi lai an zhuang	524
+依赖倒置	yi lai dao zhi	493
+依赖管理	yi lai guan li	643
+依赖检查	yi lai jian cha	386
+意念生成	yi nian sheng cheng	162
+意识	yi shi	42
+意识上传	yi shi shang chuan	151
+艺术	yi shu	338
+艺术定义	yi shu ding yi	146
+一致性挑战	yi zhi xing tiao zhan	326
+因果推理	yin guo tui li	49
+音频理解	yin pin li jie	56
+隐私	yin si	124
+隐私计算	yin si ji suan	128
+硬件	ying jian	68
+映射	ying she	434
+应用层	ying yong ceng	617
+用户反馈	yong hu fan kui	547
+用户沟通	yong hu gou tong	515
+用户故事	yong hu gu shi	558
+用户画像	yong hu hua xiang	539
+用户偏好	yong hu pian hao	202
+用户体验	yong hu ti yan	322
+用户通知	yong hu tong zhi	376
+用户增长	yong hu zeng zhang	180
+永生技术	yong sheng ji shu	152
+优化性能	you hua xing neng	698
+优缺点	you que dian	364
+游戏开发	you xi kai fa	587
+优先队列	you xian dui lie	437
+优先级	you xian ji	554
+有效利他	you xiao li ta	17
+有序性	you xu xing	420
+预测	yu ce	251
+预测模型	yu ce mo xing	183
+预发	yu fa	395
+预训练	yu xun lian	273
+语义版本	yu yi ban ben	379
+语音控制	yu yin kong zhi	189
+远程调试	yuan cheng tiao shi	413
+原创性	yuan chuang xing	145
+原型	yuan xing	478
+元宇宙	yuan yu zhou	590
+元宇宙演唱	yuan yu zhou yan chang	174
+原子操作	yuan zi cao zuo	424
+云服务	yun fu wu	600
+云函数	yun han shu	596
+运行测试	yun xing ce shi	523
+灾害响应	zai hai xiang ying	213
+在线培训	zai xian pei xun	303
+在线学习	zai xian xue xi	102
+暂停	zan ting	12
+暂停信	zan ting xin	14
+责任链	ze ren lian	470
+增强现实	zeng qiang xian shi	588
+增强智能	zeng qiang zhi neng	154
+增长黑客	zeng zhang hei ke	543
+站会	zhan hui	561
+展览展示	zhan lan zhan shi	334
+栈追踪	zhan zhui zong	416
+障壁	zhang bi	425
+哲学	zhe xue	149
+真实操作系统	zhen shi cao zuo xi tong	508
+政策法规	zheng ce fa gui	345
+政策支持	zheng ce zhi chi	229
+正面应用	zheng mian ying yong	215
+证书	zheng shu	301
+直播带货	zhi bo dai huo	177
+值对象	zhi dui xiang	620
+支付宝	zhi fu bao	583
+智慧交通	zhi hui jiao tong	210
+直接偏好优化	zhi jie pian hao you hua	95
+治理	zhi li	346
+治理城市	zhi li cheng shi	209
+治理全球	zhi li quan qiu	16
+智能补全	zhi neng bu quan	714
+智能城市	zhi neng cheng shi	211
+智能代理	zhi neng dai li	531
+智能合约	zhi neng he yue	592
+智能家居	zhi neng jia ju	190
+知识产权	zhi shi chan quan	144
+执行步骤	zhi xing bu zhou	504
+职业发展	zhi ye fa zhan	299
+中国	zhong guo	277
+中国法规	zhong guo fa gui	122
+中介者	zhong jie zhe	466
+终身学习	zhong shen xue xi	101
+重训练	zhong xun lian	103
+中英双语	zhong ying shuang yu	281
+逐步思考	zhu bu si kao	705
+注意力机制	zhu yi li ji zhi	114
+转化率	zhuan hua lv	540
+专家模式	zhuan jia mo shi	706
+专利申请	zhuan li shen qing	221
+赚钱	zhuan qian	260
+专业技能	zhuan ye ji neng	300
+装饰	zhuang shi	474
+状态	zhuang tai	463
+状态管理	zhuang tai guan li	656
+状态空间模型	zhuang tai kong jian mo xing	61
+紫东	zi dong	247
+自动化部署	zi dong hua bu shu	639
+自动化测试	zi dong hua ce shi	578
+自动扩容	zi dong kuo rong	570
+字符串处理	zi fu chuan chu li	450
+自监督	zi jian du	99
+字节跳动	zi jie tiao dong	582
+资金扶持	zi jin fu chi	228
+自然语言编程	zi ran yu yan bian cheng	713
+自我反思	zi wo fan si	44
+自我改进	zi wo gai jin	199
+自主	zi zhu	198
+自主可控	zi zhu ke kong	233
+组合	zu he	475
+组件化	zu jian hua	655
+最短路径	zui duan lu jing	443
+最佳实践	zui jia shi jian	499
+最小可行	zui xiao ke xing	553
+最小生成树	zui xiao sheng cheng shu	442
+作为全栈开发者	zuo wei quan zhan kai fa zhe	708
+作者	zuo zhe	143

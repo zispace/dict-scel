@@ -1,0 +1,1891 @@
+# 词库名称: PCB名词术语
+# 词库分类: 个人专用
+# 词库描述: CCL/PCB/SMT名词术语
+# 词条样例: 线路板、印制线路板、软硬结合板、成品板、在制板、厚铜板
+# 解析词数: 1884
+# 解析异常: 0
+
+阿力制程	a li zhi cheng	1295
+氨基甲酸乙酯	an ji jia suan yi zhi	728
+胺基甲酸乙脂	an ji jia suan yi zhi	729
+胺四醋酸	an si cu suan	1115
+胺四乙酸	an si yi suan	1114
+安装	an zhuang	449
+安装孔	an zhuang kong	1500
+奥宝	ao bao	1402
+凹点	ao dian	1710
+螯合	ao he	189
+凹痕	ao hen	1709
+凹坑	ao keng	1708
+凹蚀	ao shi	1326
+凹蚀阴影	ao shi yin ying	1098
+凹陷	ao xian	1159
+靶标	ba biao	1707
+耙角	ba jiao	211
+靶形	ba xing	1706
+白斑	bai ban	1705
+白边	bai bian	1704
+白点	bai dian	1703
+百分之一	bai fen zhi yi	689
+白圈	bai quan	222
+板边	ban bian	1123
+板边插头	ban bian cha tou	1119
+板边金手指	ban bian jin shou zhi	1120
+板边空地	ban bian kong di	1118
+板边连接器	ban bian lian jie qi	1121
+板边试样	ban bian shi yang	1189
+板材空洞	ban cai kong dong	1436
+半成品板	ban cheng pin ban	1869
+半导体激发固态雷射	ban dao ti ji fa gu tai lei she	624
+半导体雷射	ban dao ti lei she	627
+半固化片	ban gu hua pian	1508
+板厚	ban hou	1737
+半加成制程	ban jia cheng zhi cheng	130
+半角	ban jiao	284
+板角标记	ban jiao biao ji	1198
+板面清洗烘烤	ban mian qing xi hong kao	16
+板面图形	ban mian tu xing	393
+板扭	ban niu	740
+板翘	ban qiao	1702
+半润湿	ban run shi	1155
+板弯	ban wan	1701
+曝光	bao guang	1484
+曝光表	bao guang biao	261
+曝光尺	bao guang chi	1483
+曝光机	bao guang ji	1482
+保护层	bao hu ceng	436
+薄膜晶体管液晶显示器	bao mo jing ti guan ye jing xian shi qi	610
+薄膜开关	bao mo kai guan	1844
+包装及出货	bao zhuang ji chu huo	7
+背板	bei ban	1846
+被动零件	bei dong ling jian	921
+被动组件	bei dong zu jian	922
+背光	bei guang	1700
+背光法	bei guang fa	587
+背胶铜箔	bei jiao tong bo	869
+背钻	bei zuan	1401
+本地交换	ben di jiao huan	514
+崩溃电压	beng kui dian ya	1253
+比较性漏电指数	bi jiao xing lou dian zhi shu	1216
+比例流量试验	bi li liu liang shi yan	249
+变换凸块	bian huan tu kuai	742
+边距	bian ju	1116
+边宽	bian kuan	1117
+变面试验	bian mian shi yan	987
+扁平方型封装	bian ping fang xing feng zhuang	880
+边条	bian tiao	559
+边缘逼真度	bian yuan bi zhen du	1163
+标称厚度	biao cheng hou du	949
+表护层	biao hu ceng	1187
+标绘	biao hui	390
+表面安装技术	biao mian an zhuang ji shu	791
+表面焊垫	biao mian han dian	1019
+表面抗氧化	biao mian kang yang hua	1739
+表面能	biao mian neng	121
+表面黏着技术	biao mian nian zhe ji shu	672
+表面黏着设备制造协会	biao mian nian zhe she bei zhi zao xie hui	673
+表面黏着组件	biao mian nian zhe zu jian	674
+表面刷磨	biao mian shua mo	30
+表面贴装技术	biao mian tie zhuang ji shu	792
+表面装配零件表面装配技术接点	biao mian zhuang pei ling jian biao mian zhuang pei ji shu jie dian	551
+标示厚度	biao shi hou du	950
+标准格	biao zhun ge	1061
+丙烯酸树脂	bing xi suan shu zhi	1821
+剥除器	bo chu qi	796
+剥除液	bo chu ye	797
+薄带成型机	bo dai cheng xing ji	621
+波动	bo dong	846
+波度	bo du	713
+波峰焊	bo feng han	1447
+薄化铜	bo hua tong	37
+薄基板	bo ji ban	307
+薄基材	bo ji cai	546
+玻璃布	bo li bu	1790
+玻璃化温度	bo li hua wen du	1763
+玻璃化转变温度	bo li hua zhuan bian wen du	1764
+剥离强度	bo li qiang du	917
+玻璃熔料	bo li rong liao	140
+玻璃态转变温度	bo li tai zhuan bian wen du	1062
+玻璃态转化温度	bo li tai zhuan hua wen du	1063
+玻璃纤维布	bo li xian wei bu	1791
+玻璃纤维胶片	bo li xian wei jiao pian	684
+剥离液	bo li ye	795
+玻璃转换温度	bo li zhuan huan wen du	665
+薄膜技术	bo mo ji shu	128
+薄铜箔	bo tong bo	1828
+波纹	bo wen	714
+剥锡铅	bo xi qian	32
+玻纤	bo xian	356
+玻纤布	bo xian bu	1789
+玻纤纱式漏电	bo xian sha shi lou dian	1209
+玻纤突出	bo xian tu chu	224
+薄小外形封装	bo xiao wai xing feng zhuang	758
+薄小型积体电路器	bo xiao xing ji ti dian lu qi	759
+薄芯板	bo xin ban	1693
+玻织显露	bo zhi xian lu	1083
+不饱和聚酯	bu bao he ju zhi	1796
+布边	bu bian	207
+补焊	bu han	650
+布局	bu ju	401
+不可用	bu ke yong	506
+不良率	bu liang lv	1627
+补强材	bu qiang cai	874
+补强物	bu qiang wu	315
+不润湿	bu run shi	947
+布设总图	bu she zong tu	990
+不同层次	bu tong ceng ci	1692
+不透明剂	bu tou ming ji	353
+布线	bu xian	1691
+补线	bu xian	1694
+布线说明清单	bu xian shuo ming qing dan	408
+布线图形	bu xian tu xing	365
+不沾锡	bu zhan xi	948
+擦花	ca hua	1531
+裁板	cai ban	59
+裁料	cai liao	1363
+裁切线	cai qie xian	368
+残材	can cai	237
+残胶	can jiao	1439
+参考边缘	can kao bian yuan	385
+参考尺寸	can kao chi cun	386
+参考尺度	can kao chi du	387
+参考孔	can kao kong	570
+参考阻抗	can kao zu kang	452
+残膜	can mo	1438
+残铜	can tong	1731
+残足	can zu	285
+槽口	cao kou	382
+槽切割	cao qie ge	726
+侧壁	ce bi	264
+侧出	ce chu	930
+侧蚀	ce shi	1713
+测试点	ce shi dian	432
+层间	ceng jian	1451
+层间距离	ceng jian ju li	400
+层列表窗口	ceng lie biao chuang kou	443
+层流	ceng liu	1023
+层偏	ceng pian	1699
+层设置窗口	ceng she zhi chuang kou	442
+层压	ceng ya	1595
+层压板	ceng ya ban	1021
+插脚	cha jiao	898
+插梢	cha shao	911
+插头	cha tou	896
+插销	cha xiao	895
+插针	cha zhen	910
+拆板	chai ban	1589
+产出	chan chu	86
+产品成熟度测试	chan pin cheng shu du ce shi	598
+掺杂	chan za	109
+长春	chang chun	1407
+长刃断开	chang ren duan kai	225
+长兴	chang xing	1406
+超级焊锡	chao ji han xi	20
+超快雷射系统	chao kuai lei she xi tong	623
+超扭转向	chao niu zhuan xiang	609
+潮热绝缘电阻试验	chao re jue yuan dian zu shi yan	969
+超声	chao sheng	1415
+超声连接	chao sheng lian jie	733
+超音波结合	chao yin bo jie he	734
+沉积	chen ji	1158
+沉铜	chen tong	1637
+沉头孔	chen tou kong	1194
+沉锡	chen xi	1741
+沉银	chen yin	1740
+承垫	cheng dian	1016
+承接器	cheng jie qi	1122
+成品板	cheng pin ban	1870
+成像	cheng xiang	1039
+成像处理	cheng xiang chu li	1040
+成型	cheng xing	1641
+程序带	cheng xu dai	1690
+尺寸稳定性	chi cun wen ding xing	1689
+尺度安定性	chi du an ding xing	1139
+持续性寿命测试	chi xu xing shou ming ce shi	597
+重合度	chong he du	1723
+冲激脉冲	chong ji mai chong	470
+冲空断开	chong kong duan kai	242
+冲模	chong mu	236
+冲切	chong qie	213
+冲压	chong ya	1688
+重影	chong ying	1064
+抽泡机	chou pao ji	1395
+抽样数	chou yang shu	1687
+触变性	chu bian xing	753
+除尘辘	chu chen lu	1668
+初检	chu jian	47
+除胶渣	chu jiao zha	1428
+出气	chu qi	935
+除污	chu wu	583
+出像点	chu xiang dian	297
+触修	chu xiu	748
+川宝	chuan bao	1388
+穿露孔	chuan lu kong	1307
+串扰	chuan rao	1175
+传输线	chuan shu xian	71
+串推	chuan tui	1165
+串讯	chuan xun	1176
+吹孔	chui kong	1686
+吹气	chui qi	934
+垂直喷锡	chui zhi pen xi	21
+垂直向下扩孔	chui zhi xiang xia kuo kong	1196
+瓷材	ci cai	81
+瓷面	ci mian	80
+次外层	ci wai ceng	1597
+次要织向	ci yao zhi xiang	319
+猝发	cu fa	466
+促进剂	cu jin ji	1310
+粗面	cu mian	1746
+催化	cui hua	190
+催化板材	cui hua ban cai	338
+催化剂	cui hua ji	1309
+错离子	cuo li zi	1214
+错离子附属体	cuo li zi fu shu ti	997
+打靶机	da ba ji	1681
+搭交	da jiao	1179
+搭桥	da qiao	1685
+大铜面	da tong mian	1510
+打线接合	da xian jie he	592
+打线结合	da xian jie he	702
+带宽	dai kuan	1284
+带状四方平坦封装	dai zhuang si fang ping tan feng zhuang	663
+带状线	dai zhuang xian	798
+带状铸材	dai zhuang zhu cai	311
+带状自动结合	dai zhuang zi dong jie he	667
+单边插脚封装体	dan bian cha jiao feng zhuang ti	828
+弹标	dan biao	425
+氮化铝	dan hua lv	117
+单列直插式封装	dan lie zhi cha shi feng zhuang	827
+单面板	dan mian ban	1882
+丹尼尔	dan ni er	1161
+单体导线架	dan ti dao xian jia	594
+单向导电膜	dan xiang dao dian mo	1298
+单向导接着膜	dan xiang dao jie zhe mo	1299
+导电度	dao dian du	111
+导电盐	dao dian yan	1441
+倒角	dao jiao	1465
+导纳	dao na	118
+导热孔	dao re kong	547
+导热率	dao re lv	770
+导体间距	dao ti jian ju	1207
+导通孔	dao tong kong	1497
+导线	dao xian	369
+导线架	dao xian jia	595
+导线间距	dao xian jian ju	1206
+倒芯片键合	dao xin pian jian he	1086
+等离子	deng li zi	903
+等效全向辐射功率	deng xiao quan xiang fu she gong lv	529
+灯芯效应	deng xin xiao ying	1684
+底板	di ban	312
+底材	di cai	553
+地电位升高	di dian wei sheng gao	525
+低聚物	di ju wu	936
+底片	di pian	428
+底片图形边缘突出	di pian tu xing bian yuan tu chu	379
+低压	di ya	1026
+第一面大小不均	di yi mian da xiao bu jun	941
+第一面分离	di yi mian fen li	226
+第一面外缘变形	di yi mian wai yuan bian xing	232
+垫板	dian ban	1683
+电沉积光致抗蚀剂	dian chen ji guang zhi kang shi ji	1108
+电池电极焊接机	dian chi dian ji han jie ji	629
+电磁场	dian ci chang	526
+电磁干扰	dian ci gan rao	493
+电磁环境	dian ci huan jing	497
+电磁兼容顾问委员会	dian ci jian rong gu wen wei yuan hui	543
+电磁兼容性	dian ci jian rong xing	528
+电磁屏蔽	dian ci ping bi	453
+电磁骚扰	dian ci sao rao	494
+电磁噪声	dian ci zao sheng	496
+电动势	dian dong shi	527
+电镀	dian du	36
+电镀软金	dian du ruan jin	23
+电镀通孔	dian du tong kong	437
+电感	dian gan	100
+点光源	dian guang yuan	1334
+电极性	dian ji xing	158
+电键	dian jian	403
+电浆	dian jiang	904
+电浆蚀孔	dian jiang shi kong	144
+电解铜箔	dian jie tong bo	1767
+垫距	dian ju	906
+电抗	dian kang	79
+电离	dian li	96
+电离化电压	dian li hua dian ya	98
+电流密度	dian liu mi du	1440
+电路概略图	dian lu gai lue tu	383
+电路系统块图	dian lu xi tong kuai tu	426
+电路系统整合图	dian lu xi tong zheng he tu	1272
+电平	dian ping	484
+电气快速瞬变突发	dian qi kuai su shun bian tu fa	530
+电气强度	dian qi qiang du	1111
+电迁移	dian qian yi	108
+电容漏电流寿命测试机	dian rong lou dian liu shou ming ce shi ji	614
+电容率	dian rong lv	915
+电容耦合	dian rong ou he	112
+电渗	dian shen	1102
+电双层	dian shuang ceng	172
+电性间距下限	dian xing jian ju xia xian	398
+电性强度	dian xing qiang du	1112
+电压层	dian ya ceng	366
+电压层的空环	dian ya ceng de kong huan	716
+电压降落	dian ya jiang luo	70
+电压效率	dian ya xiao lv	151
+电泳	dian yong	1100
+电泳动	dian yong dong	1103
+电泳光阻	dian yong guang zu	1109
+电源层隔离	dian yuan ceng ge li	715
+电源抗扰度	dian yuan kang rao du	460
+电源去耦系数	dian yuan qu ou xi shu	459
+电源骚扰	dian yuan sao rao	461
+电着光阻	dian zhe guang zu	1110
+电铸	dian zhu	171
+点状光源	dian zhuang guang yuan	271
+电子构装	dian zi gou zhuang	1101
+电子级玻璃	dian zi ji bo li	359
+电阻率	dian zu lv	313
+电阻系数	dian zu xi shu	314
+电阻银电极沾附机	dian zu yin dian ji zhan fu ji	611
+电阻值	dian zu zhi	77
+叠板	die ban	1594
+叠板结构	die ban jie gou	1377
+叠合	die he	254
+叠片结构	die pian jie gou	1376
+定深扩孔	ding shen kuo kong	418
+定深钻孔	ding shen zuan kong	239
+钉头	ding tou	1759
+定位残铜	ding wei can tong	1313
+定位短路	ding wei duan lu	1314
+定位断线	ding wei duan xian	1318
+定位开路	ding wei kai lu	1317
+定位孔	ding wei kong	1633
+定位缺口	ding wei que kou	1316
+定位梢	ding wei shao	1682
+定位针孔	ding wei zhen kong	1315
+动态力学分析法	dong tai li xue fen xi fa	1126
+动态挠性板	dong tai nao xing ban	1128
+动态热机分析法	dong tai re ji fen xi fa	1127
+动态软板	dong tai ruan ban	1129
+镀层情况	du ceng qing kuang	929
+镀层突出	du ceng tu chu	927
+镀厚	du hou	1714
+镀金	du jin	25
+镀通孔	du tong kong	1496
+端点	duan dian	771
+端接	duan jie	772
+断经	duan jing	1780
+断路	duan lu	1735
+短路	duan lu	1730
+断线	duan xian	1734
+端子	duan zi	773
+端子空环	duan zi kong huan	376
+端子让环	duan zi rang huan	375
+断钻	duan zuan	1375
+堆积	dui ji	1248
+对位标记	dui wei biao ji	447
+对位度	dui wei du	1331
+对位孔	dui wei kong	1632
+对准标记	dui zhun biao ji	875
+对准度	dui zhun du	1442
+对准用标记	dui zhun yong biao ji	384
+对准作标记	dui zhun zuo biao ji	876
+多层板	duo ceng ban	1863
+多层板压合	duo ceng ban ya he	873
+多层板压制	duo ceng ban ya zhi	872
+多层芯片模块	duo ceng xin pian mo kuai	681
+多官能环氧树脂	duo guan neng huan yang shu zhi	1819
+多胶区	duo jiao qu	862
+多孔	duo kong	1520
+二次孔	er ci kong	55
+二次元	er ci yuan	1393
+二极管	er ji guan	680
+二铜	er tong	1347
+发光二极管	fa guang er ji guan	94
+发光强度	fa guang qiang du	278
+法拉	fa la	102
+法拉第	fa la di	170
+发射电平	fa she dian ping	479
+发射限值	fa she xian zhi	480
+发射裕量	fa she yu liang	473
+返工	fan gong	1533
+反回蚀	fan hui shi	958
+凡力水	fan li shui	720
+泛用型治具测试	fan yong xing zhi ju ce shi	12
+反转	fan zhuan	350
+反锥斜角	fan zhui xie jiao	244
+方凹区	fang ao qu	1238
+方扁形封装体	fang bian xing feng zhuang ti	881
+防焊绿漆	fang han lv qi	28
+防焊漆	fang han qi	655
+方块框图	fang kuai kuang tu	1271
+放热	fang re	358
+方型焊垫	fang xing han dian	1018
+方形盘	fang xing pan	1516
+非电解电镀	fei dian jie dian du	1104
+非镀通孔	fei du tong kong	730
+非对称数字用户环路	fei dui chen shu zi yong hu huan lu	542
+非接触	fei jie chu	942
+非接触印刷	fei jie chu yin shua	943
+非均衡传输线	fei jun heng chuan shu xian	731
+菲林水	fei lin shui	1667
+菲林碎	fei lin sui	1529
+非平衡式传输线	fei ping heng shi chuan shu xian	732
+非燃性	fei ran xing	317
+肥线	fei xian	1729
+非圆形孔环焊垫	fei yuan xing kong huan han dian	397
+飞针测试	fei zhen ce shi	1680
+非织布	fei zhi bu	1788
+非支撑孔	fei zhi cheng kong	1498
+分辨率	fen bian lv	853
+分布力	fen bu li	371
+分步钻	fen bu zuan	1354
+分层	fen ceng	1608
+粉点	fen dian	989
+粉红圈	fen hong quan	1679
+分极	fen ji	157
+分流条	fen liu tiao	545
+分路	fen lu	78
+酚醛树脂	fen quan shu zhi	1825
+酚醛纸质层压板	fen quan zhi zhi ceng ya ban	1840
+风刀	feng dao	1678
+峰值电压	feng zhi dian ya	85
+负凹蚀	fu ao shi	957
+覆箔	fu bo	1224
+覆盖层	fu gai ceng	1186
+覆盖层压法	fu gai ceng ya fa	1239
+符号	fu hao	1002
+复合板材	fu he ban cai	334
+复合母排	fu he mu pai	1241
+氟化乙丙烯薄膜	fu hua yi bing xi bao mo	1835
+附积	fu ji	1157
+附加线	fu jia xian	1055
+浮角	fu jiao	210
+覆晶	fu jing	638
+覆晶接合	fu jing jie he	590
+附连测试板	fu lian ce shi ban	1188
+辅面	fu mian	839
+复片	fu pian	964
+负片	fu pian	1677
+负片影像	fu pian ying xiang	852
+辐射计	fu she ji	268
+氟树脂	fu shu zhi	1816
+附树脂铜箔	fu shu zhi tong bo	868
+服贴性	fu tie xing	292
+覆铜箔	fu tong bo	1832
+覆铜箔层压板	fu tong bo ceng ya ban	1831
+负图像	fu tu xiang	851
+复线板	fu xian ban	145
+负像	fu xiang	962
+负性抗蚀剂	fu xing kang shi ji	959
+负型阻剂	fu xing zu ji	960
+负性作用之阻剂	fu xing zuo yong zhi zu ji	961
+浮印	fu yin	780
+辅助设备	fu zhu she bei	541
+辅助阳极	fu zhu yang ji	1427
+辅助阴极	fu zhu yin ji	563
+附着力	fu zhuo li	1491
+附着力促进剂	fu zhuo li cu jin ji	300
+盖板	gai ban	233
+盖板弹动	gai ban tan dong	218
+盖孔法	gai kong fa	549
+感光成像	gan guang cheng xiang	392
+感光启始剂	gan guang qi shi ji	914
+感光褪色	gan guang tui shai	273
+干膜	gan mo	1454
+干膜制程	gan mo zhi cheng	52
+干扰限值	gan rao xian zhi	482
+干扰抑制	gan rao yi zhi	474
+感热区	gan re qu	179
+感旋光性树脂	gan xuan guang xing shu zhi	1809
+干印	gan yin	1270
+干制程	gan zhi cheng	1599
+钢板	gang ban	253
+刚挠印制板	gang nao yin zhi ban	849
+刚性	gang xing	1884
+高电压	gao dian ya	520
+高厚径比	gao hou jing bi	1864
+锆蓝	gao lan	1385
+高频微波	gao pin wei bo	1865
+高温延伸性	gao wen yan shen xing	324
+高压恒温恒湿寿命测试机	gao ya heng wen heng shi shou ming ce shi ji	615
+隔板	ge ban	1675
+隔板胶片	ge ban jiao pian	1752
+格博档案	ge bo dang an	407
+隔离环	ge li huan	1503
+隔离盘	ge li pan	1504
+供电电压	gong dian dian ya	503
+共晶组成	gong jing zu cheng	1090
+工具标的物	gong ju biao di wu	370
+工具孔	gong ju kong	1674
+共聚物	gong ju wu	1813
+汞气灯	gong qi deng	276
+共融组成	gong rong zu cheng	1091
+共烧	gong shao	147
+工艺边	gong yi bian	1623
+公用网接口	gong yong wang jie kou	502
+工作母片	gong zuo mu pian	1673
+工作片	gong zuo pian	1672
+工作原版	gong zuo yuan ban	700
+固化	gu hua	1172
+固化剂	gu hua ji	1800
+鼓起	gu qi	341
+固体含量	gu ti han liang	813
+固形份	gu xing fen	812
+固形物	gu xing wu	811
+固着强度	gu zhuo qiang du	1266
+固着性	gu zhuo xing	1263
+刮刀	gua dao	1671
+刮刀式印刷	gua dao shi yin shua	644
+刮痕	gua hen	841
+挂架	gua jia	1665
+寡聚物	gua ju wu	937
+拐角标记	guai jiao biao ji	1197
+拐角裂缝	guai jiao lie feng	1199
+贯穿孔	guan chuan kong	664
+管脚	guan jiao	909
+管芯安装	guan xin an zhuang	1149
+管芯键合	guan xin jian he	1147
+光电路板	guang dian lu ban	1853
+光电印制线路板	guang dian yin zhi xian lu ban	1852
+光度计	guang du ji	267
+光绘	guang hui	1663
+光绘机	guang hui ji	1664
+光密度	guang mi du	275
+光面	guang mian	1747
+光敏剂	guang min ji	913
+光能积分器	guang neng ji fen qi	280
+光能累积器	guang neng lei ji qi	281
+光强度	guang qiang du	279
+光学靶标	guang xue ba biao	1081
+光学点	guang xue dian	600
+光学绘图机	guang xue hui tu ji	391
+光学检查	guang xue jian cha	13
+光泽浸渍处理	guang ze jin zi chu li	1251
+光致抗蚀剂	guang zhi kang shi ji	1332
+光阻	guang zu	272
+贵金属印膏	gui jin shu yin gao	133
+硅树脂	gui shu zhi	1815
+硅烷	gui wan	1814
+滚镀	gun du	191
+辊轮涂布法	gun lun tu bu fa	843
+滚筒涂布法	gun tong tu bu fa	844
+辊涂式	gun tu shi	842
+过电位	guo dian wei	926
+过电压	guo dian ya	925
+过度挤压	guo du ji ya	251
+国纪	guo ji	1409
+国际大电网会议	guo ji da dian wang hui yi	535
+国际电工委员会	guo ji dian gong wei yuan hui	518
+国际非电离辐射保护委员会	guo ji fei dian li fu she bao hu wei yuan hui	519
+国际无线电干扰特别委员会	guo ji wu xian dian gan rao te bie wei yuan hui	534
+过孔	guo kong	429
+过滤袋	guo lv dai	1750
+过滤棉芯	guo lv mian xin	1374
+哈尔槽	ha er cao	1044
+哈氏槽	ha shi cao	166
+海因槽	hai yin cao	167
+焊垫	han dian	1662
+焊点	han dian	825
+焊垫浮起	han dian fu qi	999
+焊洞	han dong	120
+焊膏	han gao	823
+焊环	han huan	569
+焊接	han jie	815
+焊接点	han jie dian	826
+焊接面	han jie mian	1619
+含浸	han jin	1038
+含浸处理	han jin chu li	741
+焊料堵塞	han liao du se	821
+焊料扩展试验	han liao kuo zhan shi yan	819
+焊料毛剌	han liao mao la	1041
+焊料润湿	han liao run shi	704
+焊盘	han pan	1507
+焊盘共面性	han pan gong mian xing	1336
+焊盘缩小	han pan suo xiao	438
+焊圈	han quan	1506
+焊锡	han xi	558
+焊锡面	han xi mian	555
+焊锡凸块	han xi tu kuai	556
+焊锡线	han xi xian	648
+焊锡性	han xi xing	640
+焊锡性试验	han xi xing shi yan	3
+核板	he ban	1204
+核材	he cai	1202
+合成树脂	he cheng shu zhi	1812
+核化	he hua	183
+核心板	he xin ban	1205
+黑菲林	hei fei lin	1457
+黑化	hei hua	1661
+黑氧化	hei yang hua	41
+横出	heng chu	931
+烘烤	hong kao	27
+红外线	hong wai xian	683
+厚薄段	hou bao duan	1773
+后处理	hou chu li	42
+后烘烤	hou hong kao	29
+厚膜电路	hou mo dian lu	129
+厚膜糊	hou mo hu	131
+后期分离	hou qi fen li	155
+厚铜板	hou tong ban	1866
+厚铜箔	hou tong bo	1827
+护岸剂	hu an ji	1486
+护堤剂	hu di ji	1283
+互连	hu lian	99
+互连导电物	hu lian dao dian wu	137
+弧面状沾锡试验	hu mian zhuang zhan xi shi yan	988
+护铜剂	hu tong ji	6
+滑板	hua ban	1434
+滑动接触	hua dong jie chu	68
+划痕	hua hen	840
+化金	hua jin	1652
+化镍浸金	hua nie jin jin	1650
+华通	hua tong	64
+化学镀	hua xue du	1106
+化学机械研磨	hua xue ji xie yan mo	608
+化学镍金	hua xue nie jin	1744
+化学前处理	hua xue qian chu li	46
+化学研磨	hua xue yan mo	45
+环开断裂	huan kai duan lie	1226
+环形盘	huan xing pan	1513
+环氧玻璃基板	huan yang bo li ji ban	1834
+环氧当量	huan yang dang liang	1804
+环氧酚醛	huan yang fen quan	1817
+环氧树脂	huan yang shu zhi	1826
+环氧值	huan yang zhi	1803
+环氧纸质层压板	huan yang zhi zhi ceng ya ban	1839
+环晕	huan yun	1058
+环状断孔	huan zhuang duan kong	1227
+黄菲林	huang fei lin	1459
+汇电杆	hui dian gan	1244
+挥发份含量	hui fa fen han liang	344
+回流焊	hui liu han	1448
+汇流排	hui liu pai	1243
+回蚀	hui shi	1099
+回蚀死角	hui shi si jiao	836
+惠亚	hui ya	67
+混安装技术	hun an zhuang ji shu	978
+混成电路	hun cheng dian lu	138
+混合电路	hun he dian lu	1843
+混合零件之组装技术	hun he ling jian zhi zu zhuang ji shu	979
+霍尔槽	huo er cao	1043
+活化	huo hua	194
+活化剂	huo hua ji	193
+火牛	huo niu	1394
+火山灰磨板机	huo shan hui mo ban ji	1636
+活性炭	huo xing tan	1492
+基板	ji ban	1022
+基本方格	ji ben fang ge	1278
+基本网络	ji ben wang luo	1277
+基材	ji cai	1841
+积层	ji ceng	1857
+积层板	ji ceng ban	1856
+积层电容测试机	ji ceng dian rong ce shi ji	617
+积层法多层板	ji ceng fa duo ceng ban	1245
+积层组件端银机	ji ceng zu jian duan yin ji	618
+积层组件均压机	ji ceng zu jian jun ya ji	620
+积层组件生产设备	ji ceng zu jian sheng chan she bei	622
+集成电路	ji cheng dian lu	1033
+击穿电压	ji chuan dian ya	1252
+集肤效应	ji fu xiao ying	1324
+挤膏法	ji gao fa	785
+激光成孔	ji guang cheng kong	1010
+激光直接成像	ji guang zhi jie cheng xiang	1341
+激光直接打铜	ji guang zhi jie da tong	1342
+激光钻	ji guang zuan	1390
+激光钻机	ji guang zuan ji	1389
+极化	ji hua	156
+挤浆法	ji jiang fa	786
+机壳辐射	ji ke fu she	458
+积体电路器	ji ti dian lu qi	1034
+积体线路导线架	ji ti xian lu dao xian jia	593
+极限电流密度	ji xian dian liu mi du	163
+极限抗拉强度	ji xian kang la qiang du	738
+极限拉伸强度	ji xian la shen qiang du	737
+挤压引线	ji ya yin xian	787
+机装孔	ji zhuang kong	967
+基准标记	ji zhun biao ji	1080
+基准参考	ji zhun can kao	416
+基准记号	ji zhun ji hao	1659
+基准孔	ji zhun kong	571
+基准讯号	ji zhun xun hao	412
+加成法	jia cheng fa	1553
+夹点	jia dian	1422
+贾凡尼次序	jia fan ni ci xu	168
+贾凡尼式腐蚀	jia fan ni shi fu shi	101
+假焊垫	jia han dian	415
+加厚	jia hou	1369
+加厚铜	jia hou tong	1368
+甲基吡咯烷酮	jia ji bi luo wan tong	955
+甲基四氢吡咯	jia ji si qing bi luo	956
+架空	jia kong	944
+夹膜	jia mo	1712
+加强物	jia qiang wu	566
+架桥	jia qiao	362
+加热板	jia re ban	899
+加湿绝缘阻抗值	jia shi jue yuan zu kang zhi	589
+加速反应	jia su fan ying	1312
+加速剂	jia su ji	1658
+加速老化	jia su lao hua	588
+加速实验	jia su shi yan	1657
+夹杂	jia za	1450
+检测机	jian ce ji	633
+检查钻孔层	jian cha zuan kong ceng	1656
+减成法	jian cheng fa	1552
+尖峰脉冲	jian feng mai chong	469
+键合线	jian he xian	1258
+间接法网版	jian jie fa wang ban	1136
+间距	jian ju	380
+检孔机	jian kong ji	1586
+剪切强度	jian qie qiang du	833
+兼容电平	jian rong dian ping	481
+监视连接组件	jian shi lian jie zu jian	692
+建滔	jian tao	62
+减铜	jian tong	38
+肩斜角	jian xie jiao	561
+简修	jian xiu	747
+浆经	jiang jing	347
+浆经处理	jiang jing chu li	343
+胶含量	jiao han liang	1806
+胶糊渣	jiao hu zha	204
+胶化时间	jiao hua shi jian	1655
+交换式电源供应器	jiao huan shi dian yuan gong ying qi	605
+脚距	jiao ju	1009
+胶筐	jiao kuang	1748
+交联	jiao lian	363
+交流电	jiao liu dian	544
+胶流量	jiao liu liang	1805
+胶凝点	jiao ning dian	1067
+胶片	jiao pian	888
+胶体	jiao ti	188
+胶性时间	jiao xing shi jian	1069
+胶渣	jiao zha	1654
+胶粘剂	jiao zhan ji	1801
+接触电阻	jie chu dian zu	419
+接触角	jie chu jiao	126
+接地层	jie di ceng	444
+接地空环	jie di kong huan	406
+接点	jie dian	782
+节点	jie dian	88
+介电常数	jie dian chang shu	1456
+结合层	jie he ceng	585
+接合片	jie he pian	1261
+结合强度	jie he qiang du	1267
+结合线	jie he xian	1259
+结合性	jie he xing	1264
+接脚	jie jiao	912
+洁净室	jie jing shi	294
+节距	jie ju	905
+接口	jie kou	1032
+结瘤	jie liu	954
+界面	jie mian	1031
+截面积	jie mian ji	417
+接能压力	jie neng ya li	1025
+接入网	jie ru wang	539
+接入网设备	jie ru wang she bei	538
+解像	jie xiang	855
+解像变	jie xiang bian	854
+解像度	jie xiang du	1490
+解像锐利度	jie xiang rui li du	301
+接续性压合法	jie xu xing ya he fa	247
+接着层	jie zhe ceng	1260
+接着膜	jie zhe mo	1079
+介质崩溃	jie zhi beng kui	1146
+介质崩溃电压	jie zhi beng kui dian ya	1144
+介质常数	jie zhi chang shu	1142
+介质击穿	jie zhi ji chuan	1145
+介质击穿电压	jie zhi ji chuan dian ya	1143
+介质强度	jie zhi qiang du	332
+介质损耗角压切	jie zhi sun hao jiao ya qie	992
+介质损耗因数	jie zhi sun hao yin shu	991
+浸镀	jin du	574
+浸镀锡	jin du xi	752
+浸亮	jin liang	1250
+浸镍金	jin nie jin	1651
+浸润剂	jin run ji	1770
+金手指	jin shou zhi	1452
+金手指镀镍金	jin shou zhi du nie jin	24
+金手指斜边	jin shou zhi xie bian	1653
+金属	jin shu	794
+金属箔	jin shu bo	1830
+金属化	jin shu hua	184
+金属基印制板	jin shu ji yin zhi ban	1851
+金属夹心板	jin shu jia xin ban	986
+金属间化合物	jin shu jian hua he wu	1335
+金属卤素灯	jin shu lu su deng	1431
+金属四方扁平封装	jin shu si fang bian ping feng zhuang	679
+金属丝连接	jin shu si lian jie	701
+金属芯板	jin shu xin ban	985
+金属芯印制板	jin shu xin yin zhi ban	1850
+金属氧化压敏电阻	jin shu yang hua ya min dian zu	507
+浸酸	jin suan	1303
+浸涂法	jin tu fa	360
+浸锡	jin xi	751
+紧箱式引脚	jin xiang shi yin jiao	1223
+浸渍	jin zi	1037
+镜板	jing ban	248
+晶板接装法	jing ban jie zhuang fa	1231
+静电放电	jing dian fang dian	523
+静电喷涂	jing dian pen tu	1647
+静电消除器	jing dian xiao chu qi	262
+静电消除装置	jing dian xiao chu zhuang zhi	554
+净空	jing kong	884
+晶粒	jing li	1233
+晶粒安装	jing li an zhuang	1150
+晶料接着	jing liao jie zhe	1148
+晶面朝下之结合	jing mian chao xia zhi jie he	1087
+静凝性	jing ning xing	754
+精确度	jing que du	1304
+经纱	jing sha	1786
+晶体管	jing ti guan	670
+晶体熔点	jing ti rong dian	110
+净洗	jing xi	883
+精细节距	jing xi jie ju	1073
+经向	jing xiang	1785
+巨观分布力	ju guan fen bu li	162
+聚合	ju he	351
+菊花瓣连垫	ju hua ban lian dian	1166
+聚全氟乙烯丙烯薄膜	ju quan fu yi xi bing xi bao mo	1793
+聚四氟乙烯	ju si fu yi xi	1794
+聚醯胺纤维	ju xi an xian wei	95
+聚酰胺短纤席材	ju xian an duan xian xi cai	308
+聚酰胺短织席材	ju xian an duan zhi xi cai	761
+聚酰胺纤维	ju xian an xian wei	1768
+聚酰胺纤维无纺布	ju xian an xian wei wu fang bu	760
+聚酰亚胺薄膜	ju xian ya an bao mo	1836
+聚酰亚胺树脂	ju xian ya an shu zhi	1823
+聚亚胺酯	ju ya an zhi	676
+聚亚酰胺软材	ju ya xian an ruan cai	1027
+聚酯薄膜	ju zhi bao mo	1837
+聚酯玻璃毡层压板	ju zhi bo li zhan ceng ya ban	1838
+聚酯电阻	ju zhi dian zu	1339
+聚酯厚膜	ju zhi hou mo	1795
+聚酯树脂	ju zhi shu zhi	1824
+卷带式自动接合	juan dai shi zi dong jie he	591
+卷带自动结合	juan dai zi dong jie he	550
+卷筒式	juan tong shi	1749
+绝缘阻抗	jue yuan zu kang	1646
+均镀能力	jun du neng li	1424
+卡连接器焊接	ka lian jie qi han jie	628
+开槽	kai cao	1719
+开窗	kai chuang	1360
+开窗口	kai chuang kou	1181
+开短路测试	kai duan lu ce shi	14
+开放电路	kai fang dian lu	504
+开料	kai liao	1640
+开路	kai lu	1736
+堪用时间	kan yong shi jian	342
+抗垂流性	kang chui liu xing	757
+抗化性	kang hua xing	1236
+抗剪力强度	kang jian li qiang du	834
+抗剪强度	kang jian qiang du	835
+抗拉强度	kang la qiang du	775
+抗挠强度	kang nao qiang du	325
+抗挠性模数	kang nao xing mo shu	104
+抗疲劳强度	kang pi lao qiang du	1085
+抗扰度电平	kang rao du dian ping	478
+抗扰度限值	kang rao du xian zhi	477
+抗扰度裕量	kang rao du yu liang	476
+抗蚀剂	kang shi ji	856
+抗蚀刻	kang shi ke	1092
+抗蚀阻剂	kang shi zu ji	1093
+抗撕强度	kang si qiang du	1645
+靠模板	kao mu ban	776
+可断开板	ke duan kai ban	1255
+可断拼板	ke duan pin ban	1254
+可焊性	ke han xing	557
+客户原稿	ke hu yuan gao	1644
+可挠性	ke nao xing	1287
+可塑剂	ke su ji	352
+可弯曲性	ke wan qu xing	1288
+空板	kong ban	1282
+孔壁	kong bi	192
+孔壁粗糙度	kong bi cu cao du	1760
+孔壁抗拉强度	kong bi kang la qiang du	1048
+孔壁空洞	kong bi kong dong	1045
+空洞	kong dong	1365
+孔环	kong huan	1502
+空环	kong huan	420
+孔环浮起	kong huan fu qi	1000
+孔环焊垫	kong huan han dian	1020
+孔环下限	kong huan xia xian	984
+孔径	kong jing	1738
+孔拉脱强度	kong la tuo qiang du	1047
+孔密度	kong mi du	1049
+孔内无铜	kong nei wu tong	1364
+孔偏检查机	kong pian jian cha ji	634
+孔破	kong po	1603
+空腔区	kong qiang qu	1237
+孔数	kong shu	1643
+孔数密度	kong shu mi du	1050
+孔位	kong wei	1642
+孔位破出	kong wei po chu	1052
+孔隙率	kong xi lv	1758
+孔隙率试验	kong xi lv shi yan	891
+抠角	kou jiao	212
+跨交	kua jiao	1178
+跨接线	kua jie xian	1028
+跨距	kua ju	1007
+喇叭孔	la ba kong	1192
+拉离	la li	182
+拉伸强度	la shen qiang du	774
+老化试验	lao hua shi yan	1489
+烙铁	lao tie	654
+捞型	lao xing	18
+乐思	le si	60
+泪滴	lei di	431
+泪滴盘	lei di pan	1505
+雷电保护区	lei dian bao hu qu	510
+雷电保护系统	lei dian bao hu xi tong	511
+雷电电磁脉冲	lei dian dian ci mai chong	513
+累积距差	lei ji ju cha	208
+雷射	lei she	1634
+雷射曝光对位孔	lei she bao guang dui wei kong	2
+雷射曝光机	lei she bao guang ji	402
+雷射成孔	lei she cheng kong	1011
+雷射加工法	lei she jia gong fa	135
+镭射开窗	lei she kai chuang	1358
+雷射烧蚀	lei she shao shi	1012
+雷射直接成像	lei she zhi jie cheng xiang	136
+雷射制作	lei she zhi zuo	1
+雷射钻孔	lei she zuan kong	54
+冷焊点	leng han dian	1631
+冷凝焊接	leng ning han jie	1210
+冷热冲击试验	leng re chong ji shi yan	4
+冷压	leng ya	1590
+离层	li ceng	586
+犁沟	li gou	216
+离散组件	li san zu jian	1134
+离子残余量测试	li zi can yu liang ce shi	5
+离子雷射	li zi lei she	626
+离子迁移	li zi qian yi	1444
+离子清洁度	li zi qing jie du	1443
+离子性污染	li zi xing wu ran	1630
+连接功能	lian jie gong neng	1629
+连接盘	lian jie pan	1017
+连接盘起翘	lian jie pan qi qiao	998
+联茂	lian mao	1410
+帘幕法	lian mu fa	1167
+廉幕印刷	lian mu yin shua	1628
+联能	lian neng	66
+濂涂法	lian tu fa	1168
+连续骚扰	lian xu sao rao	462
+连续噪声	lian xu zao sheng	463
+裂缝	lie feng	1772
+裂痕	lie hen	1624
+零件孔	ling jian kong	1622
+零件面	ling jian mian	1621
+菱形盘	ling xing pan	1515
+硫化	liu hua	1171
+漏板	lou ban	802
+漏测	lou ce	1696
+露出孔	lou chu kong	1308
+漏电电流	lou dian dian liu	1005
+漏电流	lou dian liu	1004
+漏镀	lou du	1455
+漏焊	lou han	651
+漏检	lou jian	1695
+镂空	lou kong	373
+漏印	lou yin	1577
+露布纹	lu bu wen	711
+露纤维	lu xian wei	1082
+露印	lu yin	778
+裸板	luo ban	1845
+锣板便	luo ban bian	1366
+络离子	luo li zi	1213
+落料	luo liao	1275
+裸体芯片组装	luo ti xin pian zu zhuang	1280
+裸芯片安装	luo xin pian an zhuang	1279
+氯化铜实验	lv hua tong shi yan	1421
+铝基	lv ji	1862
+铝基板	lv ji ban	1861
+绿油	lv you	1584
+麻点	ma dian	1698
+码分多址	ma fen duo zhi	537
+脉冲	mai chong	471
+脉冲电镀	mai chong dian du	1429
+脉冲电镀法	mai chong dian du fa	153
+脉冲骚扰	mai chong sao rao	464
+脉冲噪声	mai chong zao sheng	465
+埋导孔	mai dao kong	424
+脉动	mai dong	845
+脉筋	mai jin	219
+埋孔	mai kong	1494
+埋盲孔	mai mang kong	1493
+埋容	mai rong	1855
+埋容板	mai rong ban	1854
+埋头孔	mai tou kong	1195
+埋阻	mai zu	1867
+盲导孔	mang dao kong	427
+盲孔	mang kong	1495
+盲埋孔钻孔	mang mai kong zuan kong	53
+毛刺	mao ci	1349
+铆钉	mao ding	1755
+铆钉组合	mao ding zu he	43
+铆合	mao he	1753
+毛面	mao mian	1381
+毛圈长	mao quan chang	1774
+帽式压合法	mao shi ya he fa	1240
+毛头	mao tou	1605
+铆眼	mao yan	581
+美加伟华	mei jia wei hua	61
+美维	mei wei	1413
+门阵列	men zhen lie	1070
+密垫距	mi dian ju	1074
+密脚距	mi jiao ju	1076
+密线距	mi xian ju	1075
+面积格列封装	mian ji ge lie feng zhuang	1292
+面铜	mian tong	1618
+面阵列封装	mian zhen lie feng zhuang	1291
+敏化	min hua	181
+末板	mo ban	1319
+模版	mo ban	801
+磨边	mo bian	1463
+磨痕	mo hen	1423
+膜厚	mo hou	1373
+模糊边带	mo hu bian dai	299
+模糊边圈	mo hu bian quan	298
+模块	mo kuai	971
+模拟电路	mo ni dian lu	116
+模拟讯号	mo ni xun hao	115
+磨平	mo ping	1323
+膜碎	mo sui	1530
+磨损刃带	mo sun ren dai	567
+模造立体电路板	mo zao li ti dian lu ban	134
+膜渣	mo zha	1372
+模组	mo zu	974
+模板	mu ban	777
+母板	mu ban	1848
+钼基覆铜板	mu ji fu tong ban	1860
+模件	mu jian	973
+目检	mu jian	717
+模具测试	mu ju ce shi	1535
+模具冲	mu ju chong	17
+母排	mu pai	1242
+目视检查	mu shi jian cha	718
+耐电弧性	nai dian hu xing	1487
+耐电性强度	nai dian xing qiang du	1113
+耐化性	nai hua xing	1235
+耐化学性	nai hua xue xing	1234
+耐离子迁移性	nai li zi qian yi xing	1327
+耐龙	nai long	946
+耐磨性	nai mo xing	1617
+耐燃性	nai ran xing	1449
+南亚	nan ya	1383
+挠性	nao xing	1883
+内部抗扰度	nei bu kang rao du	457
+内层	nei ceng	1616
+内层板材	nei ceng ban cai	1203
+内层配位体	nei ceng pei wei ti	996
+内层芯材	nei ceng xin cai	1201
+内短	nei duan	1721
+内开	nei kai	1722
+内外层	nei wai ceng	1615
+内圆填角	nei yuan tian jiao	411
+内钻	nei zuan	57
+尼龙	ni long	945
+粘尘纸本	nian chen zhi ben	1757
+粘尘纸卷	nian chen zhi juan	1756
+捻度	nian du	1771
+黏度	nian du	641
+粘合膜	nian he mo	1078
+粘合强度	nian he qiang du	1265
+粘合性	nian he xing	1262
+粘结剂	nian jie ji	1802
+粘结膜	nian jie mo	1077
+粘结片	nian jie pian	1807
+镍金	nie jin	1649
+镍金玻璃	nie jin bo li	1321
+凝胶点	ning jiao dian	1066
+凝胶时间	ning jiao shi jian	1068
+凝热焊接	ning re han jie	1212
+牛顿环	niu dun huan	1430
+牛皮纸	niu pi zhi	255
+扭曲	niu qu	739
+偶氮棕片	ou dan zong pian	1154
+偶合剂	ou he ji	364
+耦合剂	ou he ji	1190
+耦合路径	ou he lu jing	455
+耦合去耦网络	ou he qu ou wang luo	536
+耦合系数	ou he xi shu	456
+偶极	ou ji	174
+偶联剂	ou lian ji	1769
+欧姆	ou mu	87
+排板	pai ban	1593
+盘内孔	pan nei kong	1565
+盘上导通孔	pan shang dao tong kong	1564
+泡点	pao dian	1614
+喷砂	pen sha	1613
+喷射涂装	pen she tu zhuang	804
+喷涂	pen tu	1612
+喷锡	pen xi	1432
+喷着涂装	pen zhe tu zhuang	805
+喷嘴	pen zui	1398
+膨松剂	peng song ji	195
+膨胀因热系数	peng zhang yin re xi shu	666
+披锋	pi feng	1466
+披覆	pi fu	1225
+疲劳强度	pi lao qiang du	1084
+偏槽	pian cao	894
+片膜	pian mo	803
+偏置定位槽	pian zhi ding wei cao	893
+偏转	pian zhuan	1611
+拼版或陈列	pin ban huo chen lie	451
+频带宽度	pin dai kuan du	1286
+频宽	pin kuan	1285
+品质机能展开	pin zhi ji neng zhan kai	599
+屏蔽	ping bi	454
+平衡式传输线	ping heng shi chuan shu xian	113
+平流	ping liu	1024
+平面电容	ping mian dian rong	1338
+平面电阻	ping mian dian zu	1340
+平面光波导	ping mian guang bo dao	1337
+平纹组织	ping wen zu zhi	1781
+平行光	ping xing guang	1481
+平整度	ping zheng du	1333
+破洞	po dong	1046
+破坏	po huai	1051
+破孔	po kong	576
+蹼部	pu bu	200
+普林	pu lin	1411
+气孔	qi kong	1268
+气泡	qi pao	1609
+起泡	qi pao	1610
+气体放电管	qi ti fang dian guan	521
+契形引脚	qi xing yin jiao	1060
+契形引线	qi xing yin xian	1059
+气压	qi ya	694
+起皱	qi zhou	1532
+潜变	qian bian	1184
+前处理	qian chu li	51
+钎焊	qian han	1256
+嵌入式线路	qian ru shi xian lu	142
+牵丝	qian si	799
+桥接	qiao jie	649
+切槽	qie cao	201
+切片	qie pian	1151
+切外型	qie wai xing	209
+切削刃缘	qie xiao ren yuan	577
+切削刃缘外凸	qie xiao ren yuan wai tu	221
+切斜边	qie xie bian	243
+氢超电压	qing chao dian ya	165
+轻触	qing chu	263
+氢过电压	qing guo dian ya	164
+清洁机	qing jie ji	1669
+清漆	qing qi	721
+清晰度	qing xi du	1162
+清洗及烘烤	qing xi ji hong kao	1607
+球脚阵列	qiu jiao zhen lie	1290
+球栅阵列	qiu shan zhen lie	1289
+球形矩阵	qiu xing ju zhen	693
+趋电势	qu dian shi	924
+屈服点	qu fu dian	304
+趋肤效应	qu fu xiao ying	1325
+去毛刺	qu mao ci	1350
+去毛刺机	qu mao ci ji	1351
+去毛剌	qu mao la	1164
+去毛头	qu mao tou	1606
+去膜	qu mo	48
+去溢胶	qu yi jiao	39
+去钻污	qu zuan wu	1400
+全板镀铜	quan ban du tong	923
+全层内部导通孔	quan ceng nei bu dao tong kong	1294
+全加成法	quan jia cheng fa	139
+缺胶	que jiao	246
+缺胶区	que jiao qu	859
+缺口	que kou	1733
+缺纬	que wei	1779
+缺陷	que xian	1604
+燃性等级	ran xing deng ji	579
+热超音波结合	re chao yin bo jie he	764
+热冲击试验	re chong ji shi yan	767
+热导率	re dao lv	769
+热风整平	re feng zheng ping	1433
+热固性	re gu xing	345
+热固性树脂	re gu xing shu zhi	1811
+热机分析法	re ji fen xi fa	309
+热机械分析法	re ji xie fen xi fa	1125
+热解重量分析法	re jie zhong liang fen xi fa	765
+热盘	re pan	900
+热膨胀系数	re peng zhang xi shu	1762
+热声焊接	re sheng han jie	762
+热声连接	re sheng lian jie	763
+热塑性	re su xing	346
+热塑性树脂	re su xing shu zhi	1810
+热压	re ya	1591
+热压辘	re ya lu	1670
+热震荡试验	re zhen dang shi yan	768
+热重分析法	re zhong fen xi fa	766
+刃带	ren dai	220
+韧化	ren hua	1297
+刃角	ren jiao	568
+刃角变形	ren jiao bian xing	231
+刃角磨损	ren jiao mo sun	1602
+人为噪声	ren wei zao sheng	485
+任意层内部通孔	ren yi ceng nei bu tong kong	1293
+容电率	rong dian lv	916
+容度积	rong du ji	808
+熔焊	rong han	878
+融合	rong he	1592
+融合点	rong he dian	1511
+溶解度乘积	rong jie du cheng ji	810
+溶解度积	rong jie du ji	809
+柔性电路板	rou xing dian lu ban	1874
+蠕变	ru bian	1183
+软板	ruan ban	1872
+软焊	ruan han	816
+软钎焊	ruan qian han	814
+软性排线焊接机	ruan xing pai xian han jie ji	631
+软硬结合板	ruan ying jie he ban	1873
+润湿能力	run shi neng li	642
+弱酸蚀	ruo suan shi	1302
+塞孔	sai kong	1718
+塞孔底片	sai kong di pian	1601
+塞柱	sai zhu	897
+三步钻	san bu zuan	1353
+三聚氰胺甲醛树脂	san ju qing an jia quan shu zhi	1820
+散热焊盘	san re han pan	433
+散热孔	san re kong	372
+散热盘	san re pan	1514
+散热式镂空	san re shi lou kong	374
+散射光	san she guang	1480
+散失因素	san shi yin su	1133
+散锡试验	san xi shi yan	820
+散线电路板	san xian dian lu ban	146
+散装零件	san zhuang ling jian	1135
+骚扰限值	sao rao xian zhi	483
+骚扰抑制	sao rao yi zhi	475
+砂带研磨	sha dai yan mo	33
+扇出布线	shan chu bu xian	414
+闪镀	shan du	169
+栅格	shan ge	582
+闪络	shan luo	578
+扇入布线	shan ru bu xian	413
+扇形崩口	shan xing beng kou	230
+上凹面	shang ao mian	122
+上浆处理	shang jiang chu li	348
+上升率	shang sheng lv	467
+上升时间	shang sheng shi jian	468
+烧洁	shao jie	355
+少孔	shao kong	1519
+射频接口	she pin jie kou	498
+渗出	shen chu	1273
+渗镀	shen du	1711
+深镀能力	shen du neng li	1425
+渗流	shen liu	1274
+生产底片	sheng chan di pian	388
+生益	sheng yi	1416
+湿法贴膜	shi fa tie mo	707
+湿法压膜	shi fa ya mo	259
+螫合剂	shi he ji	180
+事后分离	shi hou fen li	154
+蚀刻	shi ke	1471
+蚀刻不净	shi ke bu jing	1725
+蚀刻过度	shi ke guo du	1724
+蚀刻函数	shi ke han shu	1097
+蚀刻机	shi ke ji	1470
+蚀刻均匀性	shi ke jun yun xing	1469
+蚀刻死角	shi ke si jiao	450
+蚀刻系数	shi ke xi shu	1096
+蚀刻液	shi ke ye	1467
+蚀刻因子	shi ke yin zi	1468
+蚀刻指标	shi ke zhi biao	1095
+蚀刻指示图	shi ke zhi shi tu	1094
+石榴石雷射	shi liu shi lei she	625
+时脉速率	shi mai su lv	1221
+湿膜	shi mo	1453
+湿膜涂布	shi mo tu bu	1329
+湿膜涂敷	shi mo tu fu	1330
+湿气与绝缘电阻试验	shi qi yu jue yuan dian zu shi yan	970
+示扫描量热法	shi sao miao liang re fa	1140
+蚀铜	shi tong	49
+失效模式与效应分析	shi xiao mo shi yu xiao ying fen xi	596
+湿压膜法	shi ya mo fa	708
+使用性	shi yong xing	639
+湿制程	shi zhi cheng	1600
+时钟频率	shi zhong pin lv	1220
+十字交叉区	shi zi jiao cha qu	1182
+首板	shou ban	1320
+受试设备	shou shi she bei	522
+收缩型小外形封装	shou suo xing xiao wai xing feng zhuang	668
+熟化	shu hua	1173
+数据机	shu ju ji	976
+数控	shu kong	965
+疏孔度试验	shu kong du shi yan	892
+数孔机	shu kong ji	1717
+树脂凹缩	shu zhi ao suo	864
+树脂丰富区	shu zhi feng fu qu	863
+树脂含量	shu zhi han liang	564
+数值控制	shu zhi kong zhi	966
+树脂流动度	shu zhi liu dong du	866
+树脂流量	shu zhi liu liang	867
+树脂片	shu zhi pian	887
+树脂漆	shu zhi qi	719
+树脂缺乏区	shu zhi que fa qu	860
+树脂缩陷	shu zhi suo xian	865
+树脂退缩	shu zhi tui suo	250
+树脂下陷	shu zhi xia xian	565
+树脂钻污	shu zhi zuan wu	861
+数字用户环路	shu zi yong hu huan lu	531
+双波峰焊	shuang bo feng han	1130
+双波焊接	shuang bo han jie	1131
+双反斜角	shuang fan xie jiao	125
+双极	shuang ji	173
+双马来酰亚胺三嗪树脂	shuang ma lai xian ya an san qin shu zhi	1822
+双面板	shuang mian ban	1881
+双面处理铜箔	shuang mian chu li tong bo	331
+双面钻	shuang mian zuan	1352
+双内线包装	shuang nei xian bao zhuang	686
+双氰胺	shuang qing an	361
+水池效应	shui chi xiao ying	1426
+水沟效应	shui gou xiao ying	603
+水金	shui jin	1648
+水膜时间	shui mo shi jian	1445
+水平电镀	shui ping dian du	35
+水平喷锡	shui ping pen xi	22
+水印	shui yin	305
+瞬态	shun tai	472
+四边平坦封装	si bian ping tan feng zhuang	675
+四功能树脂	si gong neng shu zhi	548
+丝网印刷	si wang yin shua	1585
+松脂酸	song zhi suan	1583
+速化反应	su hua fan ying	1582
+速化剂	su hua ji	1311
+塑胶质球脚封装体	su jiao zhi qiu jiao feng zhuang ti	902
+塑料球栅阵列	su liao qiu shan zhen lie	901
+塑料球形矩阵	su liao qiu xing ju zhen	678
+塑料式有引脚芯片承载器	su liao shi you yin jiao xin pian cheng zai qi	677
+酸洗	suan xi	1345
+碎屑	sui xie	238
+损耗因素	sun hao yin su	1132
+损失正切	sun shi zheng qie	993
+缩锡	suo xi	1156
+钛蓝	tai lan	1386
+碳氟树脂	tan fu shu zhi	103
+碳弧灯	tan hu deng	295
+碳化物	tan hua wu	241
+碳化钨	tan hua wu	203
+坦尼尔	tan ni er	1160
+弹性系数	tan xing xi shu	318
+陶瓷	tao ci	337
+陶瓷球型矩阵	tao ci qiu xing ju zhen	660
+陶瓷引脚载具	tao ci yin jiao zai ju	691
+套环	tao huan	1581
+套检底片	tao jian di pian	405
+陶金	tao jin	148
+特殊形状	te shu xing zhuang	1580
+特性阻抗	te xing zu kang	1462
+体积电阻率	ti ji dian zu lv	306
+填充料	tian chong liao	106
+填孔	tian kong	1745
+天然松香	tian ran song xiang	1579
+调变及解调器	tiao bian ji jie tiao qi	977
+调幅	tiao fu	540
+条线	tiao xian	73
+跳线	tiao xian	1056
+跳印	tiao yin	1578
+调制调解器	tiao zhi tiao jie qi	975
+铁氟龙	tie fu long	310
+铁基板	tie ji ban	1858
+贴膜机	tie mo ji	1549
+贴平式导体	tie ping shi dao ti	141
+停留时间	ting liu shi jian	1053
+停置时间	ting zhi shi jian	1054
+铜箔	tong bo	1829
+铜箔裁切机	tong bo cai qie ji	632
+铜箔光面	tong bo guang mian	330
+铜箔毛边	tong bo mao bian	227
+铜箔压板法	tong bo ya ban fa	256
+铜基板	tong ji ban	1859
+统计过程控制	tong ji guo cheng kong zhi	669
+通孔插装	tong kong cha zhuang	1625
+通孔断角	tong kong duan jiao	1200
+铜皮	tong pi	335
+铜丝	tong si	1720
+铜碎	tong sui	1716
+同轴电缆	tong zhou dian lan	1218
+同轴缆线	tong zhou lan xian	1219
+透电率	tou dian lv	83
+透光度计	tou guang du ji	290
+透光率	tou guang lv	260
+透明残膜	tou ming can mo	1576
+突波	tu bo	72
+涂布机	tu bu ji	1635
+涂布印刷	tu bu yin shua	1575
+凸出	tu chu	340
+图电	tu dian	1371
+突流	tu liu	790
+涂树脂铜箔	tu shu zhi tong bo	1765
+图像控制功能	tu xiang kong zhi gong neng	1574
+图像转移	tu xiang zhuan yi	283
+图象转移	tu xiang zhuan yi	575
+图形编辑器	tu xing bian ji qi	446
+图形电镀	tu xing dian du	1370
+图形电镀法	tu xing dian du fa	918
+图形转移	tu xing zhuan yi	1544
+突压	tu ya	789
+退火	tui huo	1296
+退膜	tui mo	1475
+退膜点	tui mo dian	1474
+退膜机	tui mo ji	1472
+退膜液	tui mo ye	1473
+退铅锡	tui qian xi	1346
+退屑槽	tui xie cao	229
+退屑沟	tui xie gou	228
+脱膜剂	tuo mo ji	1573
+拖尾	tuo wei	800
+挖破	wa po	223
+瓦特	wa te	69
+外表树脂层	wai biao shu zhi ceng	339
+外部引线粘接	wai bu yin xian zhan jie	938
+外层	wai ceng	1598
+外弧	wai hu	1572
+外引脚结合	wai yin jiao jie he	939
+弯钩型脚	wan gou xing jiao	1029
+弯曲模数	wan qu mo shu	105
+弯月面	wan yue mian	123
+网板印刷	wang ban yin shua	560
+网版印刷	wang ban yin shua	1571
+网版印耍	wang ban yin shua	1570
+网布	wang bu	1569
+网格	wang ge	1842
+网框	wang kuang	1568
+网络	wang luo	441
+网络表	wang luo biao	439
+网络端点	wang luo duan dian	440
+网络终端	wang luo zhong duan	505
+网目	wang mu	658
+网屏	wang ping	1403
+网印	wang yin	1322
+网印能力	wang yin neng li	562
+网状残锡	wang zhuang can xi	817
+网状组件	wang zhuang zu jian	89
+微差扫瞄热卡分析法	wei cha sao miao re ka fen xi fa	1141
+微带线	wei dai xian	90
+唯垫板	wei dian ban	132
+微电子	wei dian zi	92
+微分布力	wei fen bu li	160
+未固化强度	wei gu hua qiang du	646
+微光盘	wei guang pan	606
+微间距技术	wei jian ju ji shu	685
+微孔	wei kong	1567
+微盲孔	wei mang kong	1566
+微切片	wei qie pian	31
+纬纱	wei sha	1787
+微蚀	wei shi	1344
+微蚀速率	wei shi su lv	1343
+伪随机比特序列	wei sui ji bi te xu lie	501
+微条线	wei tiao xian	91
+纬向	wei xiang	1784
+微小球型矩阵	wei xiao qiu xing ju zhen	661
+纬斜	wei xie	1778
+维讯	wei xun	65
+未装板	wei zhuang ban	1281
+微钻	wei zuan	1382
+纹波	wen bo	847
+温度曲线	wen du qu xian	1588
+吻合性	wen he xing	293
+吻压	wen ya	1437
+文字标记	wen zi biao ji	1003
+文字印刷	wen zi yin shua	1563
+涡电流涡流	wo dian liu wo liu	1124
+无尘室	wu chen shi	1461
+无尘纸	wu chen zhi	1666
+无电电镀	wu dian dian du	1105
+无电镀	wu dian du	1107
+无电镀化	wu dian du hua	1562
+无氟氯碳化合物	wu fu lv tan hua he wu	602
+无焊盘导通孔	wu han pan dao tong kong	1013
+无环通孔	wu huan tong kong	1015
+无连接盘导通孔	wu lian jie pan dao tong kong	1014
+无卤	wu lu	1420
+无卤素	wu lu su	1419
+无铅	wu qian	1418
+无铅焊接	wu qian han jie	1417
+无前焊料	wu qian han liao	1328
+无铅喷锡	wu qian pen xi	1743
+无铜	wu tong	1715
+无线电环境	wu xian dian huan jing	492
+无线电频率	wu xian dian pin lv	499
+无线电频率干扰	wu xian dian pin lv gan rao	489
+无线电骚扰	wu xian dian sao rao	490
+无线电噪声	wu xian dian zao sheng	491
+无用信号	wu yong xin hao	495
+无源组件	wu yuan zu jian	1849
+铣靶	xi ba	40
+锡棒	xi bang	647
+锡堤	xi di	381
+锡膏	xi gao	824
+铣机	xi ji	1391
+锡尖	xi jian	1042
+洗净	xi jing	882
+锡颗粒	xi ke li	643
+锡料回收再使用系统	xi liao hui shou zai shi yong xi tong	636
+锡面	xi mian	1378
+吸墨	xi mo	1269
+锡铅电镀	xi qian dian du	34
+锡铅面	xi qian mian	1559
+锡桥	xi qiao	1558
+锡球	xi qiu	653
+锡塞	xi sai	1557
+吸湿性	xi shi xing	322
+吸收	xi shou	1561
+吸水海绵滚轮	xi shui hai mian gun lun	1397
+吸水性	xi shui xing	1560
+系统间干扰	xi tong jian gan rao	488
+系统内干扰	xi tong nei gan rao	487
+锡突	xi tu	1556
+锡网	xi wang	818
+细线	xi xian	1728
+锡渣	xi zha	652
+锡柱	xi zhu	822
+下料	xia liao	1639
+下限电性间距	xia xian dian xing jian ju	982
+线距	xian ju	1555
+线宽	xian kuan	1554
+线路	xian lu	448
+线路板	xian lu ban	1879
+线路成像	xian lu cheng xiang	269
+线路电镀	xian lu dian du	920
+线路电镀法	xian lu dian du fa	919
+线路滑离	xian lu hua li	245
+线路接口	xian lu jie kou	512
+线路面	xian lu mian	1509
+线路终端	xian lu zhong duan	509
+线绕棉芯	xian rao mian xin	1751
+纤丝	xian si	357
+纤维暴露	xian wei bao lu	580
+显像	xian xiang	287
+显像点	xian xiang dian	296
+显像机	xian xiang ji	288
+显像液	xian xiang ye	289
+显影	xian ying	1479
+显影不净	xian ying bu jing	1726
+显影点	xian ying dian	1478
+显影机	xian ying ji	1476
+显影液	xian ying ye	1477
+线幼	xian you	1727
+相比介电常数	xiang bi jie dian chang shu	870
+相比起痕指数	xiang bi qi hen zhi shu	1215
+相对容电率	xiang dui rong dian lv	871
+降服点	xiang fu dian	303
+消除应力	xiao chu ying li	74
+销钉	xiao ding	1754
+小孔	xiao kong	152
+小外型封装	xiao wai xing feng zhuang	671
+小修	xiao xiu	746
+斜边	xie bian	1551
+斜孔	xie kong	806
+斜射角	xie she jiao	291
+楔形空洞	xie xing kong dong	709
+楔形破口	xie xing po kou	258
+楔形缺口	xie xing que kou	710
+斜钻孔	xie zuan kong	807
+芯板	xin ban	1587
+芯片	xin pian	1232
+芯片尺寸	xin pian chi cun	688
+芯片尺寸构装	xin pian chi cun gou zhuang	687
+芯片打带包装机	xin pian da dai bao zhuang ji	613
+芯片分割	xin pian fen ge	1152
+芯片级安装	xin pian ji an zhuang	1228
+芯片级封装	xin pian ji feng zhuang	1229
+芯片直接贴附在电路板上	xin pian zhi jie tie fu zai dian lu ban shang	690
+芯片组件外观检查机	xin pian zu jian wai guan jian cha ji	616
+芯吸	xin xi	703
+信息家电	xin xi jia dian	1035
+信息家电产品	xin xi jia dian chan pin	659
+型槽	xing cao	15
+型接脚	xing jie jiao	1030
+行空断开	xing kong duan kai	1276
+型切槽	xing qie cao	727
+兴森快捷	xing sen kuai jie	1408
+修版	xiu ban	745
+溴化环氧树脂	xiu hua huan yang shu zhi	1818
+虚焊点	xu han dian	1217
+悬出	xuan chu	932
+旋涡式磨刷法	xuan wo shi mo shua fa	199
+选择性浸金压膜	xuan ze xing jin jin ya mo	44
+旋转	xuan zhuan	435
+讯号	xun hao	76
+讯号衰减	xun hao shuai jian	114
+压板翘	ya ban qiao	9
+压扁式引脚	ya bian shi yin jiao	788
+压电性	ya dian xing	82
+压合	ya he	1596
+压合空洞	ya he kong dong	1435
+压力锅	ya li guo	257
+压力脚	ya li jiao	1550
+压膜	ya mo	50
+压膜机	ya mo ji	282
+压水辘	ya shui lu	1396
+压透	ya tou	252
+雅新	ya xin	63
+压延铜箔	ya yan tong bo	1766
+研磨液	yan mo ye	607
+延伸率	yan shen lv	327
+延伸性	yan shen xing	328
+氧化物	yang hua wu	657
+阳极	yang ji	178
+阳极袋	yang ji dai	1384
+阳极化	yang ji hua	177
+阳极泥	yang ji ni	1488
+阳极性玻纤丝的漏电	yang ji xing bo xian si de lou dian	1208
+氧气抑制现象	yang qi yi zhi xian xiang	274
+摇变性	yao bian xing	756
+钥槽	yao cao	404
+耀度	yao du	277
+药膜面	yao mo mian	286
+摇溶性	yao rong xing	755
+液化放热焊接	ye hua fang re han jie	1211
+液晶显示器	ye jing xian shi qi	93
+液晶显示器修护机	ye jing xian shi qi xiu hu ji	630
+液态防焊	ye tai fang han	1548
+液态感光防焊绿漆	ye tai gan guang fang han lv qi	995
+液体光致辞阻焊剂	ye ti guang zhi ci zu han ji	994
+液压鼓起试验	ye ya gu qi shi yan	323
+乙胺四醋酸	yi an si cu suan	185
+一次合格率	yi ci he ge lv	1626
+一次孔	yi ci kong	56
+异方性导电胶膜制程	yi fang xing dao dian jiao mo zhi cheng	656
+依利安达	yi li an da	1414
+溢流	yi liu	1485
+逸气	yi qi	933
+一铜	yi tong	1348
+异物	yi wu	573
+移用式突块	yi yong shi tu kuai	744
+已钻孔的裸板	yi zuan kong de luo ban	1547
+殷钢	yin gang	321
+印焊锡突点	yin han xi tu dian	19
+阴极射线管	yin ji she xian guan	532
+银浆贯孔	yin jiang guan kong	829
+银浆通孔	yin jiang tong kong	830
+引脚	yin jiao	1761
+银胶贯孔	yin jiao guan kong	831
+引脚节距	yin jiao jie ju	1006
+引脚式芯片承载器	yin jiao shi xin pian cheng zai qi	682
+银胶通孔	yin jiao tong kong	832
+印可剥离防焊	yin ke bo li fang han	26
+印刷	yin shua	8
+印刷电路板	yin shua dian lu ban	1876
+印刷后及蚀刻后板	yin shua hou ji shi ke hou ban	1546
+印刷及预烤	yin shua ji yu kao	1545
+印刷线路板	yin shua xian lu ban	1875
+殷田	yin tian	1405
+银盐片	yin yan pian	1458
+隐印	yin yin	779
+阴影	yin ying	1065
+印制板	yin zhi ban	1880
+印制插头	yin zhi cha tou	781
+印制电路板	yin zhi dian lu ban	1877
+印制线路板	yin zhi xian lu ban	1878
+硬板	ying ban	1871
+应变	ying bian	75
+硬焊	ying han	1257
+硬化	ying hua	1174
+硬化剂	ying hua ji	1542
+硬软合板	ying ruan he ban	850
+英丝	ying si	399
+影像转移	ying xiang zhuan yi	1543
+用户驻地设备	yong hu zhu di she bei	533
+用户坐标	yong hu zuo biao	430
+诱电率	you dian lv	84
+游离	you li	97
+有铅喷锡	you qian pen xi	1742
+有限要素分析法	you xian yao su fen xi fa	124
+有效辐射功率	you xiao fu she gong lv	524
+有效光	you xiao guang	302
+有源器件	you yuan qi jian	1300
+余地	yu di	422
+预干烤	yu gan kao	1539
+预烘烤	yu hong kao	1540
+预浸	yu jin	1808
+预烤	yu kao	1541
+预排	yu pai	1399
+余隙	yu xi	421
+余隙孔	yu xi kong	1306
+鱼眼	yu yan	1776
+圆垫	yuan dian	395
+圆垫底片	yuan dian di pian	396
+圆角	yuan jiao	1464
+原始手贴片	yuan shi shou tie pian	377
+原物料发料	yuan wu liao fa liao	58
+圆形盘	yuan xing pan	1517
+越交	yue jiao	1180
+晕环	yun huan	1057
+允收水准	yun shou shui zhun	696
+云织	yun zhi	1775
+杂物	za wu	572
+杂讯	za xun	1177
+杂讯上限	za xun shang xian	953
+再流焊	zai liu han	877
+载流量	zai liu liang	1169
+载流能力	zai liu neng li	1170
+载体	zai ti	175
+载芯片板	zai xin pian ban	1230
+在制板	zai zhi ban	1868
+凿刃	zao ren	240
+噪声	zao sheng	107
+增层	zeng ceng	1247
+增层法	zeng ceng fa	143
+增层法多层板	zeng ceng fa duo ceng ban	1246
+增层法制程	zeng ceng fa zhi cheng	149
+增厚	zeng hou	1249
+增量数据	zeng liang shu ju	445
+增强材料	zeng qiang cai liao	1792
+增塑剂	zeng su ji	1797
+闸机阵列	zha ji zhen lie	1072
+闸列	zha lie	1071
+沾湿	zhan shi	706
+沾锡	zhan xi	705
+沾锡天平	zhan xi tian ping	119
+展性	zhan xing	329
+照度	zhao du	1446
+折断边	zhe duan bian	206
+遮光剂	zhe guang ji	1798
+折痕	zhe hen	1777
+折射	zhe she	266
+折射率	zhe she lv	265
+折弯引脚	zhe wan yin jiao	1222
+针脚格列封装体	zhen jiao ge lie feng zhuang ti	908
+针孔	zhen kong	1732
+真空镀膜法	zhen kong du mo fa	724
+真空压合	zhen kong ya he	723
+真空压制	zhen kong ya zhi	722
+真空蒸镀法	zhen kong zheng du fa	725
+针栅阵列	zhen shan zhen lie	907
+真位	zhen wei	367
+整板电镀	zheng ban dian du	1367
+整孔	zheng kong	198
+正片	zheng pian	1676
+蒸气喷砂	zheng qi pen sha	202
+正温度系数	zheng wen du xi shu	500
+正型光阻剂	zheng xing guang zu ji	890
+正性抗蚀剂	zheng xing kang shi ji	889
+正性型光阻剂	zheng xing xing guang zu ji	270
+正业	zheng ye	1404
+制版照相机	zhi ban zhao xiang ji	885
+制程板	zhi cheng ban	394
+支撑板	zhi cheng ban	150
+支撑孔	zhi cheng kong	1499
+支撑通孔	zhi cheng tong kong	552
+制程用照像机	zhi cheng yong zhao xiang ji	389
+制程用照相机	zhi cheng yong zhao xiang ji	886
+支撑柱	zhi cheng zhu	601
+直间版膜	zhi jian ban mo	1138
+直接	zhi jie	1137
+直接电镀	zhi jie dian du	187
+直接镀板	zhi jie du ban	186
+治具	zhi ju	1537
+治具测试	zhi ju ce shi	1536
+质量输送	zhi liang shu song	161
+酯醛树脂	zhi quan shu zhi	354
+志圣	zhi sheng	1387
+织纹显露	zhi wen xian lu	1538
+织纹隐现	zhi wen yin xian	712
+织物经纬密度	zhi wu jing wei mi du	1783
+织物组织	zhi wu zu zhi	1782
+指针总读数	zhi zhen zong du shu	749
+纸质酚醛树脂	zhi zhi fen quan shu zhi	316
+支助通孔	zhi zhu tong kong	793
+至卓飞高	zhi zhuo fei gao	1412
+重氮底片	zhong dan di pian	1153
+重氮片	zhong dan pian	1460
+重铬酸盐	zhong ge suan yan	197
+重工	zhong gong	1534
+终检	zhong jian	10
+中距	zhong ju	1008
+重熔焊接	zhong rong han jie	879
+终饰	zhong shi	410
+中心间距	zhong xin jian ju	423
+终修	zhong xiu	409
+周期性反电流	zhou qi xing fan dian liu	159
+皱纹	zhou wen	698
+皱折	zhou zhe	1185
+皱褶	zhou zhe	699
+逐次重复曝光	zhu ci chong fu bao guang	378
+主动零件	zhu dong ling jian	1301
+助焊层	zhu han ceng	434
+助焊剂	zhu han ji	1527
+主机板补线机	zhu ji ban bu xian ji	635
+注浆法	zhu jiang fa	784
+铸模	zhu mu	235
+注射法	zhu she fa	783
+主图	zhu tu	1528
+主要织向	zhu yao zhi xiang	320
+主轴	zhu zhou	1379
+柱状组织	zhu zhuang zu zhi	336
+转压式线路	zhuan ya shi xian lu	127
+专业电子制造服务	zhuan ye dian zi zhi zao fu wu	604
+转移式突块	zhuan yi shi tu kuai	743
+转印压力	zhuan yin ya li	645
+专用治具测试	zhuan yong zhi ju ce shi	11
+锥形孔	zhui xing kong	1191
+锥型扩孔	zhui xing kuo kong	1193
+准分子激光	zhun fen zi ji guang	1088
+准分子雷射	zhun fen zi lei she	1089
+准确度	zhun que du	1305
+子板	zi ban	1847
+自定位	zi ding wei	837
+自动测试	zi dong ce shi	695
+自动插件	zi dong cha jian	697
+字符	zi fu	1001
+字符不清	zi fu bu qing	1356
+字符上铝基盘	zi fu shang lv ji pan	1355
+自燃点	zi ran dian	326
+自然噪声	zi ran zao sheng	486
+紫外线	zi wai xian	662
+紫外线固化	zi wai xian gu hua	735
+紫外线硬化	zi wai xian ying hua	736
+自我回正	zi wo hui zheng	838
+自熄性	zi xi xing	349
+资讯家电	zi xun jia dian	1036
+自由基	zi you ji	196
+总浮空	zong fu kong	928
+综合夹心板	zong he jia xin ban	333
+综合业务数字网	zong he ye wu shu zi wang	517
+纵横比	zong heng bi	176
+棕化	zong hua	1660
+总配线架	zong pei xian jia	508
+总体标示偏转值	zong ti biao shi pian zhuan zhi	750
+纵向转换传输损耗	zong xiang zhuan huan chuan shu sun hao	515
+纵向转换损耗	zong xiang zhuan huan sun hao	516
+阻焊	zu han	1362
+阻焊盖线	zu han gai xian	1357
+阻焊开窗	zu han kai chuang	1359
+阻焊桥	zu han qiao	1361
+阻剂	zu ji	858
+组件	zu jian	972
+组件表面黏着设备	zu jian biao mian nian zhe she bei	612
+组件孔	zu jian kong	1501
+组件密度	zu jian mi du	1518
+组件面	zu jian mian	1620
+组件切割机	zu jian qie ge ji	619
+阻流块	zu liu kuai	1512
+阻膜	zu mo	857
+阻燃剂	zu ran ji	1799
+阻燃型	zu ran xing	1833
+组装电路板切割机	zu zhuang dian lu ban qie ge ji	637
+组装孔	zu zhuang kong	968
+钻刀	zuan dao	1392
+钻机	zuan ji	1380
+钻尖	zuan jian	214
+钻尖重叠	zuan jian chong die	1524
+钻尖第一面外缘变窄	zuan jian di yi mian wai yuan bian zhai	963
+钻尖点分离	zuan jian dian fen li	217
+钻尖分开	zuan jian fen kai	1526
+钻尖角	zuan jian jiao	215
+钻尖切削面	zuan jian qie xiao mian	1525
+钻尖重磨机	zuan jian zhong mo ji	1523
+钻咀柄	zuan ju bing	584
+钻孔	zuan kong	1638
+钻面不匀	zuan mian bu yun	940
+钻偏	zuan pian	1697
+钻套	zuan tao	848
+钻头刃带	zuan tou ren dai	1522
+钻针柄部	zuan zhen bing bu	205
+钻针重磨机	zuan zhen zhong mo ji	234
+钻轴	zuan zhou	1521
+最大杂音	zui da za yin	952
+最大噪声	zui da zao sheng	951
+最小电气间距	zui xiao dian qi jian ju	980
+最小环宽	zui xiao huan kuan	983
+最窄电性间距	zui zhai dian xing jian ju	981

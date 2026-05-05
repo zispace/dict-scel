@@ -1,0 +1,803 @@
+# 词库名称: php研发
+# 词库分类: 外科
+# 词库描述: 用于php研发的时候用
+# 词条样例: 取得数据库的返回列、链接至AdabasD数据库、取得字段资料类型、释出返回资料的内存、取得返回资料、字符串加入斜线
+# 解析词数: 796
+# 解析异常: 0
+
+八进位转十进位	ba jin wei zhuan shi jin wei	253
+保持返回服务器连接	bao chi fan hui fu wu qi lian jie	519
+比较二个高精确度数字	bi jiao er ge gao jing que du shu zi	762
+变量转成倍浮点数类型	bian liang zhuan cheng bei fu dian shu lei xing	695
+变量转成整数类型	bian liang zhuan cheng zheng shu lei xing	391
+标记欲删除邮件	biao ji yu shan chu you jian	428
+捕获信号	bu huo xin hao	108
+不同字符串的长度	bu tong zi fu chuan de chang du	61
+测试返回行是否为空的	ce shi fan hui xing shi fou wei kong de	265
+测试文件是否可读取	ce shi wen jian shi fou ke du qu	380
+测试文件是否可写入	ce shi wen jian shi fou ke xie ru	377
+测试文件是否为可执行文件	ce shi wen jian shi fou wei ke zhi xing wen jian	387
+测试文件是否为链接文件	ce shi wen jian shi fou wei lian jie wen jian	382
+测试文件是否为目录	ce shi wen jian shi fou wei mu lu	388
+测试文件是否为正常文件	ce shi wen jian shi fou wei zheng chang wen jian	386
+测试文件指针是否指到文件尾	ce shi wen jian zhi zhen shi fou zhi dao wen jian wei	666
+插入聚集	cha ru ju ji	538
+插入类记录	cha ru lei ji lu	536
+插入文件	cha ru wen jian	537
+产生只一的值	chan sheng zhi yi de zhi	35
+长期链接至的数据库	chang qi lian jie zhi de shu ju ku	242
+撤消当前交易	che xiao dang qian jiao yi	780
+重开邮箱链接	chong kai you xiang lian jie	404
+重设目录文件的	chong she mu lu wen jian de	110
+重设压缩文件指针	chong she ya suo wen jian zhi zhen	582
+重设指定文件类的内容	chong she zhi ding wen jian lei de nei rong	564
+重置开文件的读写位置指针	chong zhi kai wen jian de du xie wei zhi zhi zhen	111
+抽出文件所有变量标记的资料	chou chu wen jian suo you bian liang biao ji de zi liao	594
+储存环境变量	chu cun huan jing bian liang	190
+储存资料到系统中	chu cun zi liao dao xi tong zhong	105
+除去字符串中的特殊符号	chu qu zi fu chuan zhong de te shu fu hao	686
+初始目前	chu shi mu qian	95
+初始目前解析器	chu shi mu qian jie xi qi	8
+初始新的资料描述	chu shi xin de zi liao miao shu	256
+次方	ci fang	128
+从返回列代码的资料取得一栏功能	cong fan hui lie dai ma de zi liao qu de yi lan gong neng	228
+从目前列的数目的资料取得一栏计数	cong mu qian lie de shu mu de zi liao qu de yi lan ji shu	254
+从随机源将向量初始化	cong sui ji yuan jiang xiang liang chu shi hua	333
+从信件内文取出指定部分	cong xin jian nei wen qu chu zhi ding bu fen	424
+存取目前变量路径	cun qu mu qian bian liang lu jing	96
+存取目前到代号	cun qu mu qian dao dai hao	101
+存取目前是否名称	cun qu mu qian shi fou ming cheng	98
+存取目前是否模块	cun qu mu qian shi fou mo kuai	99
+打开被服务器连接	da kai bei fu wu qi lian jie	152
+打开并保持数据库链接	da kai bing bao chi shu ju ku lian jie	713
+打开大型类	da kai da xing lei	141
+打开的图文件	da kai de tu wen jian	198
+打开返回服务器持续连接	da kai fan hui fu wu qi chi xu lian jie	486
+打开服务器持续连接	da kai fu wu qi chi xu lian jie	47
+打开建立共享内存空间	da kai jian li gong xiang nei cun kong jian	86
+打开连接服务器持续连接	da kai lian jie fu wu qi chi xu lian jie	136
+打开列服务器持续连接	da kai lie fu wu qi chi xu lian jie	289
+打开路径链接	da kai lu jing lian jie	634
+打开目录配置	da kai mu lu pei zhi	239
+打开目录数据库连接	da kai mu lu shu ju ku lian jie	316
+打开目前服务器连接	da kai mu qian fu wu qi lian jie	524
+打开内存图文件	da kai nei cun tu wen jian	196
+打开时间类	da kai shi jian lei	513
+打开首笔数据库链接	da kai shou bi shu ju ku lian jie	707
+打开数据库链接	da kai shu ju ku lian jie	715
+打开随机数服务器连接	da kai sui ji shu fu wu qi lian jie	284
+打开网络的绘持续链接	da kai wang luo de hui chi xu lian jie	155
+打开网络的指针链接	da kai wang luo de zhi zhen lian jie	638
+打开位服务器连接	da kai wei fu wu qi lian jie	504
+打开文件	da kai wen jian	130
+打开文件或者缓冲区	da kai wen jian huo zhe huan chong qu	643
+打开系统纪录	da kai xi tong ji lu	238
+打开新链接	da kai xin lian jie	408
+打开压缩文件	da kai ya suo wen jian	586
+打开与的的长期链接	da kai yu de de chang qi lian jie	224
+打开与资料的链接	da kai yu zi liao de lian jie	257
+打开指定服务器持续连接	da kai zhi ding fu wu qi chi xu lian jie	298
+打开自动执行列交易改动的功能	da kai zi dong zhi xing lie jiao yi gai dong de gong neng	232
+打开字段的的	da kai zi duan de de	225
+打开字段文件	da kai zi duan wen jian	672
+打开资料资料表	da kai zi liao zi liao biao	724
+打开最后服务器持续连接	da kai zui hou fu wu qi chi xu lian jie	271
+得到目录最后操作影响的列数目	de dao mu lu zui hou cao zuo ying xiang de lie shu mu	318
+得到随机数最后操作影响的列数目	de dao sui ji shu zui hou cao zuo ying xiang de lie shu mu	286
+得到一个返回列数据库的类型	de dao yi ge fan hui lie shu ju ku de lei xing	234
+得到一个返回列数据库的名称	de dao yi ge fan hui lie shu ju ku de ming cheng	235
+得到字符串最后操作影响的列数目	de dao zi fu chuan zui hou cao zuo ying xiang de lie shu mu	508
+登入文件服务器	deng ru wen jian fu wu qi	629
+颠倒字符串	dian dao zi fu chuan	55
+电子邮件位址标准化	dian zi you jian wei zhi biao zhun hua	402
+定义字符串程序执行完成后执行的函数	ding yi zi fu chuan cheng xu zhi xing wan cheng hou zhi xing de han shu	113
+订阅邮箱	ding yue you xiang	396
+读出压缩文件	du chu ya suo wen jian	117
+读取大型类	du qu da xing lei	140
+读取大型类并输出	du qu da xing lei bing shu chu	139
+读取目录编码	du qu mu lu bian ma	118
+读取文件的文件	du qu wen jian de wen jian	654
+读取指定数目的字符串类	du qu zhi ding shu mu de zi fu chuan lei	512
+读信的内文	du xin de nei wen	433
+读压缩文件到数组中	du ya suo wen jian dao shu zu zhong	589
+读压缩文件中的字符	du ya suo wen jian zhong de zi fu	588
+读压缩文件中的字符串	du ya suo wen jian zhong de zi fu chuan	587
+多边形区域着色	duo bian xing qu yu zhuo se	462
+二进位位方式写入文件	er jin wei wei fang shi xie ru wen jian	615
+二进位转成十进位	er jin wei zhuan cheng shi jin wei	754
+二进位转成十六进位	er jin wei zhuan cheng shi liu jin wei	755
+返回不含路径的文件字符串	fan hui bu han lu jing de wen jian zi fu chuan	765
+返回错误信息	fan hui cuo wu xin xi	279
+返回错误信息代码	fan hui cuo wu xin xi dai ma	280
+返回单列的各字段	fan hui dan lie de ge zi duan	522
+返回单列各栏资料最大长度	fan hui dan lie ge lan zi liao zui da chang du	278
+返回返回表格资料	fan hui fan hui biao ge zi liao	781
+返回符号链接成目标文件	fan hui fu hao lian jie cheng mu biao wen jian	116
+返回该网页的使用者代码	fan hui gai wang ye de shi yong zhe dai ma	603
+返回该网页的行程代号	fan hui gai wang ye de xing cheng dai hao	604
+返回该网页的最后修改时间	fan hui gai wang ye de zui hou xiu gai shi jian	607
+返回该网页的最后值	fan hui gai wang ye de zui hou zhi	605
+返回机器名称	fan hui ji qi ming cheng	611
+返回机器名称的所有信息	fan hui ji qi ming cheng de suo you xin xi	609
+返回机器网址	fan hui ji qi wang zhi	610
+返回类资料	fan hui lei zi liao	308
+返回连接版本信息	fan hui lian jie ban ben xin xi	132
+返回连接所有相关信息	fan hui lian jie suo you xiang guan xin xi	133
+返回目前文件或找寻位置	fan hui mu qian wen jian huo zhao xun wei zhi	510
+返回日期在周几	fan hui ri qi zai zhou ji	376
+返回数组目前的元素	fan hui shu zu mu qian de yuan su	129
+返回数组中目前的元素	fan hui shu zu zhong mu qian de yuan su	733
+返回数组资料	fan hui shu zu zi liao	310
+返回文件信息	fan hui wen jian xin xi	202
+返回系统资源使用率	fan hui xi tong zi yuan shi yong lv	601
+返回先前上第一笔符合的资料	fan hui xian qian shang di yi bi fu he de zi liao	65530
+返回序数值的字符	fan hui xu shu zhi de zi fu	745
+返回邮箱信息	fan hui you xiang xin xi	432
+返回月份名	fan hui yue fen ming	375
+返回指定的序数	fan hui zhi ding de xu shu	65525
+返回指定字段的名称	fan hui zhi ding zi duan de ming cheng	305
+返回指定资料表的名称	fan hui zhi ding zi liao biao de ming cheng	294
+返回字符的序数值	fan hui zi fu de xu shu zhi	223
+返回最后一次使用表指令的名称	fan hui zui hou yi ci shi yong biao zhi ling de ming cheng	273
+放置目前文件中图片到指定位置	fang zhi mu qian wen jian zhong tu pian dao zhi ding wei zhi	205
+放置图片到件文件	fang zhi tu pian dao jian wen jian	194
+放置图片到件文件指定位置	fang zhi tu pian dao jian wen jian zhi ding wei zhi	195
+分析返回语法	fen xi fan hui yu fa	518
+附加字符串到指定的邮箱中	fu jia zi fu chuan dao zhi ding de you xiang zhong	436
+复制长位类	fu zhi chang wei lei	503
+复制类	fu zhi lei	571
+复制文件	fu zhi wen jian	737
+复制新图并调整大小	fu zhi xin tu bing tiao zheng da xiao	469
+复制指定信件到它处邮箱	fu zhi zhi ding xin jian dao ta chu you xiang	413
+改变简表名录的属性	gai bian jian biao ming lu de shu xing	352
+改变路径	gai bian lu jing	635
+改变目录	gai bian mu lu	752
+改变目前的文件属性遮罩写	gai bian mu qian de wen jian shu xing zhe zhao xie	36
+改变使用者密码	gai bian shi yong zhe mi ma	21
+改变文件的属性	gai bian wen jian de shu xing	748
+改变文件的拥有者	gai bian wen jian de yong you zhe	746
+改变文件所属的群组	gai bian wen jian suo shu de qun zu	749
+改动或加入资料	gai dong huo jia ru zi liao	712
+改动所有数据库	gai dong suo you shu ju ku	249
+改动文字档宁	gai dong wen zi dang ning	562
+改动自动数据库	gai dong zi dong shu ju ku	791
+格式化数字字符串	ge shi hua shu zi zi fu chuan	267
+更改长位类	geng gai chang wei lei	483
+更改文件名	geng gai wen jian ming	112
+更改邮箱名字	geng gai you xiang ming zi	405
+更改字符类	geng gai zi fu lei	482
+关闭大型类	guan bi da xing lei	143
+关闭二进位链接	guan bi er jin wei lian jie	251
+关闭目录数据库连接	guan bi mu lu shu ju ku lian jie	317
+关闭目录状态	guan bi mu lu zhuang tai	742
+关闭目前服务器连接	guan bi mu qian fu wu qi lian jie	525
+关闭目前连接	guan bi mu qian lian jie	622
+关闭目前文件页面	guan bi mu qian wen jian ye mian	206
+关闭目前向量	guan bi mu qian xiang liang	207
+关闭内建的数据库除错器	guan bi nei jian de shu ju ku chu cuo qi	706
+关闭数据库	guan bi shu ju ku	722
+关闭随机数服务器连接	guan bi sui ji shu fu wu qi lian jie	285
+关闭所有链接链接	guan bi suo you lian jie lian jie	250
+关闭所有文件	guan bi suo you wen jian	212
+关闭同步化数据库	guan bi tong bu hua shu ju ku	709
+关闭图文件	guan bi tu wen jian	210
+关闭网络的服务器连接	guan bi wang luo de fu wu qi lian jie	154
+关闭网络链接	guan bi wang luo lian jie	70
+关闭位服务器连接	guan bi wei fu wu qi lian jie	505
+关闭文件	guan bi wen jian	219
+关闭系统纪录	guan bi xi tong ji lu	741
+关闭信件链接	guan bi xin jian lian jie	430
+关闭压缩文件	guan bi ya suo wen jian	591
+关闭已打开的文件	guan bi yi da kai de wen jian	679
+关闭一个变量的数据库	guan bi yi ge bian liang de shu ju ku	236
+关闭已文件	guan bi yi wen jian	678
+关闭与数据库的连接	guan bi yu shu ju ku de lian jie	292
+关闭与资料的链接	guan bi yu zi liao de lian jie	258
+关闭自动链接	guan bi zi dong lian jie	792
+关闭自动执行列交易改动的功能	guan bi zi dong zhi xing lie jiao yi gai dong de gong neng	233
+关闭子类连接	guan bi zi lei lian jie	573
+关闭资料资料表	guan bi zi liao zi liao biao	730
+画弧线	hua hu xian	480
+还原变量编码字符串	huan yuan bian liang bian ma zi fu chuan	30
+还原环境变量	huan yuan huan jing bian liang	192
+绘贝氏曲线	hui bei shi qu xian	208
+绘长方形	hui chang fang xing	193
+绘点	hui dian	445
+绘多边形	hui duo bian xing	452
+绘横式字符串	hui heng shi zi fu chuan	444
+绘弧	hui hu	216
+绘矩形	hui ju xing	446
+汇入数组到符号表	hui ru shu zu dao fu hao biao	680
+回上层目录	hui shang ceng mu lu	636
+绘实线	hui shi xian	455
+绘虚线	hui xu xian	465
+绘圆	hui yuan	214
+绘直式字符串	hui zhi shi zi fu chuan	443
+绘直线	hui zhi xian	201
+获得及配置相关服务器的请求纪录	huo de ji pei zhi xiang guan fu wu qi de qing qiu ji lu	777
+获得目前字段的标志	huo de mu qian zi duan de biao zhi	277
+获得目前字段的长度	huo de mu qian zi duan de chang du	276
+获得目前字段的类型	huo de mu qian zi duan de lei xing	274
+获得目前字段的资料表最大名称	huo de mu qian zi duan de zi liao biao zui da ming cheng	275
+获得时间及日期信息	huo de shi jian ji ri qi xin xi	613
+获得所有的斜线相关信息	huo de suo you de xie xian xiang guan xin xi	778
+获得所有写入变量值	huo de suo you xie ru bian liang zhi	614
+获得文件的大小	huo de wen jian de da xiao	649
+获得文件的类型	huo de wen jian de lei xing	648
+获得指定文件的大小	huo de zhi ding wen jian de da xiao	618
+获得指定文件的最后修改时间	huo de zhi ding wen jian de zui hou xiu gai shi jian	628
+获得自动错误代码	huo de zi dong cuo wu dai ma	229
+获得自动错误信息	huo de zi dong cuo wu xin xi	230
+获得字段的标志	huo de zi duan de biao zhi	307
+获得字段的长度	huo de zi duan de chang du	306
+获得字段的类型	huo de zi duan de lei xing	303
+获得字段的资料表名称名称	huo de zi duan de zi liao biao ming cheng ming cheng	304
+获取订阅邮箱列示	huo qu ding yue you xiang lie shi	415
+获取某信件的标头信息	huo qu mou xin jian de biao tou xin xi	419
+获取某信件的结构信息	huo qu mou xin jian de jie gou xin xi	422
+获取全部信件的标头信息	huo qu quan bu xin jian de biao tou xin xi	418
+获取邮箱列示	huo qu you xiang lie shi	416
+获知目前解析的第几字段	huo zhi mu qian jie xi de di ji zi duan	12
+获知数组的大小	huo zhi shu zu de da xiao	77
+寄出电子邮件	ji chu dian zi you jian	337
+基底的对数值	ji di de dui shu zhi	339
+记录文件或文件请求到记录中	ji lu wen jian huo wen jian qing qiu dao ji lu zhong	115
+纪录至系统纪录	ji lu zhi xi tong ji lu	45
+记录字符串到记录中	ji lu zi fu chuan dao ji lu zhong	114
+计算变量或数组中的元素个数	ji suan bian liang huo shu zu zhong de yuan su ge shu	735
+计算大于指定数的最小整数	ji suan da yu zhi ding shu de zui xiao zheng shu	753
+计算多边形文字所占区域	ji suan duo bian xing wen zi suo zhan qu yu	451
+计算二数的反正切值	ji suan er shu de fan zheng qie zhi	768
+计算复活节日期	ji suan fu huo jie ri qi	694
+计算哈稀值	ji suan ha xi zhi	326
+计算可列示的长度	ji suan ke lie shi de chang du	147
+计算色表上指定颜色索引值	ji suan se biao shang zhi ding yan shai suo yin zhi	474
+计算色表中与指定颜色最接近者	ji suan se biao zhong yu zhi ding yan shai zui jie jin zhe	475
+计算图的颜色数	ji suan tu de yan shai shu	471
+计算图片的文字所占区域	ji suan tu pian de wen zi suo zhan qu yu	440
+计算小于指定数的最大整数	ji suan xiao yu zhi ding shu de zui da zheng shu	645
+计算指定字段的长度	ji suan zhi ding zi duan de chang du	146
+计算字符串的读音值	ji suan zi fu chuan de du yin zhi	67
+计算字符串的宽度	ji suan zi fu chuan de kuan du	158
+计算字符串的资料哈稀	ji suan zi fu chuan de zi liao ha xi	327
+计算字符串相似度	ji suan zi fu chuan xiang si du	79
+加入或更新内存空间中的变量	jia ru huo geng xin nei cun kong jian zhong de bian liang	83
+加入新别名	jia ru xin bie ming	25
+加入新使用者	jia ru xin shi yong zhe	24
+加入引用符号	jia ru yin yong fu hao	121
+加入注释	jia ru zhu shi	218
+加入资料	jia ru zi liao	717
+加入资料到格式化资料表	jia ru zi liao dao ge shi hua zi liao biao	731
+检查变量是否注册	jian cha bian liang shi fou zhu ce	100
+检查函数是否已定义	jian cha han shu shi fou yi ding yi	616
+检查键是否存在	jian cha jian shi fou cun zai	720
+检查类聚集	jian cha lei ju ji	540
+检查文件是否存在	jian cha wen jian shi fou cun zai	647
+检查新是否连接	jian cha xin shi fou lian jie	407
+检查一个单字	jian cha yi ge dan zi	772
+检查一个单字并提供拼写建议	jian cha yi ge dan zi bing ti gong pin xie jian yi	770
+检查指定网址的最小记录	jian cha zhi ding wang zhi de zui xiao ji lu	750
+检查字段是否有资料	jian cha zi duan shi fou you zi liao	149
+建立长位类	jian li chang wei lei	502
+建立处理指令标头	jian li chu li zhi ling biao tou	65534
+建立大型类	jian li da xing lei	142
+建立点阵图型	jian li dian zhen tu xing	453
+建立符号链接连接	jian li fu hao lian jie lian jie	46
+建立默认标头	jian li mo ren biao tou	3
+建立目录	jian li mu lu	321
+建立时间类	jian li shi jian lei	514
+建立新的文件文件	jian li xin de wen jian wen jian	677
+建立新的信箱	jian li xin de xin xiang	429
+建立新的坐标点文件	jian li xin de zuo biao dian wen jian	199
+建立新图	jian li xin tu	468
+建立新文件	jian li xin wen jian	533
+建立一个服务器新数据库	jian li yi ge fu wu qi xin shu ju ku	283
+建立一个新的连接数据库	jian li yi ge xin de lian jie shu ju ku	315
+建立一个新的数组	jian li yi ge xin de shu zu	776
+建立一个整数范围的数组	jian li yi ge zheng shu fan wei de shu zu	120
+建立硬式链接	jian li ying shi lian jie	343
+建立只一的临时文件	jian li zhi yi de lin shi wen jian	42
+建立字符类	jian li zi fu lei	501
+建立字符资料标头	jian li zi fu zi liao biao tou	4
+建立资料资料表	jian li zi liao zi liao biao	729
+建立字型图型	jian li zi xing tu xing	457
+建新目录	jian xin mu lu	627
+将八位转成到编码	jiang ba wei zhuan cheng dao bian ma	438
+将八位转成指定的编码	jiang ba wei zhuan cheng zhi ding de bian ma	434
+将变量转成字符串类型	jiang bian liang zhuan cheng zi fu chuan lei xing	50
+将单一值连续化	jiang dan yi zhi lian xu hua	16
+将多值连续化	jiang duo zhi lian xu hua	15
+将二个高精确度数字相乘	jiang er ge gao jing que du shu zi xiang cheng	759
+将二个高精确度数字相除	jiang er ge gao jing que du shu zi xiang chu	761
+将二个高精确度数字相加	jiang er ge gao jing que du shu zi xiang jia	763
+将二个高精确度数字相减	jiang er ge gao jing que du shu zi xiang jian	756
+将二数的编码字符串解码	jiang er shu de bian ma zi fu chuan jie ma	767
+将服务器的时间本地格式化	jiang fu wu qi de shi jian ben di ge shi hua	60
+将服务器的时间格式化	jiang fu wu qi de shi jian ge shi hua	732
+将换行字符转成向后	jiang huan hang zi fu zhuan cheng xiang hou	268
+将凯撒历法转换成为凯撒日计数	jiang kai sa li fa zhuan huan cheng wei kai sa ri ji shu	371
+将凯撒日计数转换成为凯撒历法	jiang kai sa ri ji shu zhuan huan cheng wei kai sa li fa	373
+将凯撒日计数转换成为犹太历法	jiang kai sa ri ji shu zhuan huan cheng wei you tai li fa	374
+将使用者封包解连续化	jiang shi yong zhe feng bao jie lian xu hua	19
+将使用者封包连续化	jiang shi yong zhe feng bao lian xu hua	20
+将数组变成字符串	jiang shu zu bian cheng zi fu chuan	392
+将数组的内部指针往前移动	jiang shu zu de nei bu zhi zhen wang qian yi dong	125
+将数组的内部指针向后移动	jiang shu zu de nei bu zhi zhen xiang hou yi dong	269
+将数组的顺序弄混	jiang shu zu de shun xu nong hun	80
+将数组的元素依索引排序	jiang shu zu de yuan su yi suo yin pai xu	369
+将数组的值由大到小排序	jiang shu zu de zhi you da dao xiao pai xu	775
+将数组的值由小到大排序	jiang shu zu de zhi you xiao dao da pai xu	773
+将数组排序	jiang shu zu pai xu	68
+将数组依使用者自定的函数排序	jiang shu zu yi shi yong zhe zi ding de han shu pai xu	38
+将所有的字符都转成到字符串	jiang suo you de zi fu dou zhuan cheng dao zi fu chuan	577
+将特殊字符转成成格式	jiang te shu zi fu zhuan cheng cheng ge shi	576
+将文件改名	jiang wen jian gai ming	620
+将文件全部读入数组变量中	jiang wen jian quan bu du ru shu zu bian liang zhong	662
+将文件删除	jiang wen jian shan chu	633
+将系统环境编码字符串转成位字符串	jiang xi tong huan jing bian ma zi fu chuan zhuan cheng wei zi fu chuan	122
+将新编码转成八位	jiang xin bian ma zhuan cheng ba wei	406
+将信件标头排序	jiang xin jian biao tou pai xu	398
+将犹太历法转换成为凯撒日计数	jiang you tai li fa zhuan huan cheng wei kai sa ri ji shu	372
+将值代入字符串之中	jiang zhi dai ru zi fu chuan zhi zhong	685
+将指定转成易读的名字	jiang zhi ding zhuan cheng yi du de ming zi	362
+将字段的交易处理付诸实行	jiang zi duan de jiao yi chu li fu zhu shi xing	263
+将字段文件存文件	jiang zi duan wen jian cun wen jian	671
+将字符串编码成数组专用格式	jiang zi fu chuan bian ma cheng shu zu zhuan yong ge shi	119
+将字符串第一个字符改大写	jiang zi fu chuan di yi ge zi fu gai da xie	37
+将字符串分成小段	jiang zi fu chuan fen cheng xiao duan	744
+将字符串格式化	jiang zi fu chuan ge shi hua	66
+将字符串码转成编码码	jiang zi fu chuan ma zhuan cheng bian ma ma	28
+将字符串写入或类中	jiang zi fu chuan xie ru huo lei zhong	509
+将字符串依指定的规则切开	jiang zi fu chuan yi zhi ding de gui ze qie kai	126
+将字符串以字符串编码	jiang zi fu chuan yi zi fu chuan bian ma	766
+将字符串用数组编码加密	jiang zi fu chuan yong shu zu bian ma jia mi	734
+将字符串逐字返回大小写字符	jiang zi fu chuan zhu zi fan hui da xiao xie zi fu	297
+将字符类返回资料转成属性表格	jiang zi fu lei fan hui zi liao zhuan cheng shu xing biao ge	490
+截去字符串首尾的空格	jie qu zi fu chuan shou wei de kong ge	39
+结束的使用者封包	jie shu de shi yong zhe feng bao	18
+结束解码	jie shu jie ma	103
+结束数组链接	jie shu shu zu lian jie	366
+结束图形	jie shu tu xing	464
+结束外部程序	jie shu wai bu cheng xu	683
+结束与列的链接	jie shu yu lie de lian jie	227
+解析电子邮件位址	jie xi dian zi you jian wei zhi	403
+解析目前文件	jie xi mu qian wen jian	9
+解析资料字符串	jie xi zi liao zi fu chuan	220
+解析资料字符串成变量	jie xi zi liao zi fu chuan cheng bian liang	221
+解压缩位字符串资料	jie ya suo wei zi fu chuan zi liao	33
+解压缩指针后全部资料	jie ya suo zhi zhen hou quan bu zi liao	585
+解字符串编码	jie zi fu chuan bian ma	435
+矩形区域着色	ju xing qu yu zhuo se	461
+开关自动改动功能	kai guan zi dong gai dong gong neng	793
+开平方根	kai ping fang gen	65
+开始新的封包封包	kai shi xin de feng bao feng bao	17
+快速的自动查询	kuai su de zi dong cha xun	231
+类记录转为数组	lei ji lu zhuan wei shu zu	532
+链接目前变量到文件参数	lian jie mu qian bian liang dao wen jian can shu	526
+链接系统变量到数据库参数	lian jie xi tong bian liang dao shu ju ku can shu	237
+连接信息	lian jie xin xi	539
+链接至链接数据库	lian jie zhi lian jie shu ju ku	69
+链接至数据库数据库	lian jie zhi shu ju ku shu ju ku	790
+连接中断后程序是否执行	lian jie zhong duan hou cheng xu shi fou zhi xing	481
+连上数据库	lian shang shu ju ku	291
+连上数组服务器	lian shang shu zu fu wu qi	365
+连上子类服务器	lian shang zi lei fu wu qi	572
+列出简表	lie chu jian biao	353
+列出可用数据库返回值	lie chu ke yong shu ju ku fan hui zhi	301
+列出目前使用者	lie chu mu qian shi yong zhe	527
+列出树状简表	lie chu shu zhuang jian biao	345
+列出数组中元素的值	lie chu shu zu zhong yuan su de zhi	341
+列出所有订阅邮箱	lie chu suo you ding yue you xiang	420
+列出已的错误字段	lie chu yi de cuo wu zi duan	496
+列出已的错误字段属性	lie chu yi de cuo wu zi duan shu xing	497
+列出指定的连续信件	lie chu zhi ding de lian xu xin jian	411
+列出指定目录中所有文件	lie chu zhi ding mu lu zhong suo you wen jian	626
+列出指定数据库的资料表某	lie chu zhi ding shu ju ku de zi liao biao mou	299
+列出指定资料表的字段某	lie chu zhi ding zi liao biao de zi duan mou	300
+列出最后服务器可用的数据库指令的	lie chu zui hou fu wu qi ke yong de shu ju ku zhi ling de	272
+目录类别类	mu lu lei bie lei	699
+目前的状态信息	mu qian de zhuang tai xin xi	397
+目前使用者名字	mu qian shi yong zhe ming zi	542
+目前页面加入书签	mu qian ye mian jia ru shu qian	217
+判断变量类型是否为浮点数类型	pan duan bian liang lei xing shi fou wei fu dian shu lei xing	385
+判断变量类型是否为类类型	pan duan bian liang lei xing shi fou wei lei lei xing	381
+判断变量类型是否为实数类型	pan duan bian liang lei xing shi fou wei shi shu lei xing	379
+判断变量类型是否为数组类型	pan duan bian liang lei xing shi fou wei shu zu lei xing	389
+判断变量类型是否为长整数类型	pan duan bian liang lei xing shi fou wei zhang zheng shu lei xing	383
+判断变量类型是否为整数类型	pan duan bian liang lei xing shi fou wei zheng shu lei xing	384
+判断变量类型是否为字符串类型	pan duan bian liang lei xing shi fou wei zi fu chuan lei xing	378
+判断变量是否已配置	pan duan bian liang shi fou yi pei zhi	692
+判断是否在压缩文件尾	pan duan shi fou zai ya suo wen jian wei	590
+配置变量类型	pei zhi bian liang lei xing	91
+配置长位类模式	pei zhi chang wei lei mo shi	507
+配置处理的坐标点	pei zhi chu li de zuo biao dian	200
+配置错误信息回报的等级	pei zhi cuo wu xin xi hui bao de deng ji	687
+配置地域化信息	pei zhi di yu hua xin xi	92
+配置二进位资料处理方式	pei zhi er jin wei zi liao chu li fang shi	252
+配置二页的切换时间	pei zhi er ye de qie huan shi jian	175
+配置返回栏的最大值	pei zhi fan hui lan de zui da zhi	243
+配置该页最久执行时间	pei zhi gai ye zui jiu zhi xing shi jian	87
+配置行距	pei zhi hang ju	167
+配置绘图参数	pei zhi hui tu can shu	183
+配置记法宣告的标头	pei zhi ji fa xuan gao de biao tou	0
+配置建文件者字符串	pei zhi jian wen jian zhe zi fu chuan	171
+配置解析使用的选项	pei zhi jie xi shi yong de xuan xiang	5
+配置空字符模式默认值	pei zhi kong zi fu mo shi mo ren zhi	489
+配置连接参数	pei zhi lian jie can shu	182
+配置目前文件或找寻位置	pei zhi mu qian wen jian huo zhao xun wei zhi	511
+配置平滑值	pei zhi ping hua zhi	187
+配置色表上指定索引的颜色	pei zhi se biao shang zhi ding suo yin de yan shai	473
+配置时间格式	pei zhi shi jian ge shi	516
+配置使用的字型及大小	pei zhi shi yong de zi xing ji da xiao	174
+配置随机数种子	pei zhi sui ji shu zhong zi	287
+配置外部实体参引的标头	pei zhi wai bu shi ti can yin de biao tou	1
+配置网络函数库中的信息值	pei zhi wang luo han shu ku zhong de xin xi zhi	71
+配置未解析实体宣告的标头	pei zhi wei jie xi shi ti xuan gao de biao tou	65533
+配置位组模式默认值	pei zhi wei zu mo shi mo ren zhi	506
+配置文件标题	pei zhi wen jian biao ti	168
+配置文件的关键字	pei zhi wen jian de guan jian zi	170
+配置文件缓冲区大小	pei zhi wen jian huan chong qu da xiao	90
+配置文件值	pei zhi wen jian zhi	89
+配置文件主题	pei zhi wen jian zhu ti	169
+配置文件作者	pei zhi wen jian zuo zhe	172
+配置文字表现方式	pei zhi wen zi biao xian fang shi	164
+配置文字高度	pei zhi wen zi gao du	163
+配置文字矩阵	pei zhi wen zi ju zhen	166
+配置文字模式默认值	pei zhi wen zi mo shi mo ren zhi	484
+配置文字水平间距	pei zhi wen zi shui ping jian ju	173
+配置文字位置	pei zhi wen zi wei zhi	165
+配置系统环境变量	pei zhi xi tong huan jing bian liang	123
+配置线宽	pei zhi xian kuan	181
+配置显示键	pei zhi xian shi jian	669
+配置显示字段	pei zhi xian shi zi duan	670
+配置斜边界限	pei zhi xie bian jie xian	180
+配置信件标志	pei zhi xin jian biao zhi	399
+配置虚线样式	pei zhi xu xian yang shi	188
+配置页的转换	pei zhi ye de zhuan huan	162
+配置元素的标头	pei zhi yuan su de biao tou	2
+配置指针到返回值的某字段	pei zhi zhi zhen dao fan hui zhi de mou zi duan	302
+配置字段的值	pei zhi zi duan de zhi	667
+配置字符间距	pei zhi zi fu jian ju	176
+配置字间距	pei zhi zi jian ju	161
+配置最后修改时间	pei zhi zui hou xiu gai shi jian	40
+匹配颜色	pi pei yan shai	477
+启始弧文件页面	qi shi hu wen jian ye mian	215
+切换搁置与无搁置模式	qie huan ge zhi yu wu ge zhi mo shi	88
+切换主被动传输模式	qie huan zhu bei dong chuan shu mo shi	625
+切开指定的字段	qie kai zhi ding de zi duan	361
+切开字符串	qie kai zi fu chuan	681
+清除内存空间	qing chu nei cun kong jian	82
+清出输出缓冲区	qing chu shu chu huan chong qu	644
+清除文件状态快取	qing chu wen jian zhuang tai kuai qu	743
+清除信件标志	qing chu xin jian biao zhi	431
+清理资料资料表	qing li zi liao zi liao biao	723
+求一高精确度数字次方值	qiu yi gao jing que du shu zi ci fang zhi	758
+求一高精确度数字的平方根	qiu yi gao jing que du shu zi de ping fang gen	757
+取部份字符串	qu bu fen zi fu chuan	48
+去除连续空白	qu chu lian xu kong bai	747
+取出图图型	qu chu tu tu xing	467
+取出系统资料	qu chu xi tong zi liao	32
+取得被服务器指令影响的资料笔数	qu de bei fu wu qi zhi ling ying xiang de zi liao bi shu	153
+取得变量的的配置选项值	qu de bian liang de de pei zhi xuan xiang zhi	598
+取得变量的环境变量拥有者的值	qu de bian liang de huan jing bian liang yong you zhe de zhi	596
+取得变量的类型	qu de bian liang de lei xing	599
+取得变量的行程的拥有者名称	qu de bian liang de xing cheng de yong you zhe ming cheng	597
+取得编码方式的名称	qu de bian ma fang shi de ming cheng	330
+取得编码方式的区块大小	qu de bian ma fang shi de qu kuai da xiao	331
+取得编码钥匙大小	qu de bian ma yao shi da xiao	329
+取得并锁住类	qu de bing suo zhu lei	556
+取得查询逐字的结果	qu de cha xun zhu zi de jie guo	296
+取得长位类	qu de chang wei lei	492
+取得纯文字档宁	qu de chun wen zi dang ning	543
+取得错误代码	qu de cuo wu dai ma	561
+取得错误信息	qu de cuo wu xin xi	560
+取得的键的值	qu de de jian de zhi	676
+取得第一笔结果代号	qu de di yi bi jie guo dai hao	359
+取得第一笔资源的属性	qu de di yi bi zi yuan de shu xing	360
+取得多值错误字符串	qu de duo zhi cuo wu zi fu chuan	14
+取得返回的指定列	qu de fan hui de zhi ding lie	245
+取得返回列的数目	qu de fan hui lie de shu mu	487
+取得返回列数目	qu de fan hui lie shu mu	783
+取得返回一列	qu de fan hui yi lie	788
+取得返回值	qu de fan hui zhi	356
+取得返回字段的数目	qu de fan hui zi duan de shu mu	488
+取得返回资料	qu de fan hui zi liao	782
+取得返回资料的属性	qu de fan hui zi liao de shu xing	357
+取得返回资料的下笔属性	qu de fan hui zi liao de xia bi shu xing	348
+取得返回资料的一列变量	qu de fan hui zi liao de yi lie bian liang	260
+取得反余弦值	qu de fan yu xian zhi	795
+取得反正切值	qu de fan zheng qie zhi	769
+取得反正弦值	qu de fan zheng xian zhi	774
+取得父类的聚集	qu de fu lei de ju ji	548
+取得父类的资料	qu de fu lei de zi liao	547
+取得高精确度数字的余数	qu de gao jing que du shu zi de yu shu	760
+取得根类代码	qu de gen lei dai ma	529
+取得哈稀方式的区块大小	qu de ha xi fang shi de qu kuai da xiao	324
+取得哈稀演算法名称	qu de ha xi yan suan fa ming cheng	323
+取得哈稀值的最大值	qu de ha xi zhi de zui da zhi	325
+取得机器的第一笔	qu de ji qi de di yi bi	65529
+取得解析使用的选项	qu de jie xi shi yong de xuan xiang	6
+取得绝对值	qu de jue dui zhi	796
+取得类	qu de lei	551
+取得连接机器埠号	qu de lian jie ji qi bu hao	135
+取得连接机器名称	qu de lian jie ji qi ming cheng	144
+取得连接机器选项	qu de lian jie ji qi xuan xiang	137
+取得连接机器终端机	qu de lian jie ji qi zhong duan ji	134
+取得链接文件相关信息	qu de lian jie wen jian xiang guan xin xi	338
+取得链接信息	qu de lian jie xin xi	342
+取得连接状态	qu de lian jie zhuang tai	739
+取得列数目	qu de lie shu mu	650
+取得路径中的目录名	qu de lu jing zhong de mu lu ming	698
+取得目录时间戳记	qu de mu lu shi jian chuo ji	320
+取得目录所在的剩余可用空间	qu de mu lu suo zai de sheng yu ke yong kong jian	697
+取得目前错误码	qu de mu qian cuo wu ma	10
+取得目前的数据库名称	qu de mu qian de shu ju ku ming cheng	151
+取得目前的资料属性	qu de mu qian de zi liao shu xing	346
+取得目前解析的行号	qu de mu qian jie xi de hang hao	11
+取得目前解析为第几个位组	qu de mu qian jie xi wei di ji ge wei zu	13
+取得目前时间	qu de mu qian shi jian	600
+取得目前时间戳记的格林威治时间	qu de mu qian shi jian chuo ji de ge lin wei zhi shi jian	592
+取得目前时间的临时时间戳记	qu de mu qian shi jian de lin shi shi jian chuo ji	41
+取得目前所在路径	qu de mu qian suo zai lu jing	623
+取得目前所在数据库名称	qu de mu qian suo zai shu ju ku ming cheng	313
+取得目前邮箱的信息	qu de mu qian you xiang de xin xi	414
+取得目前与变量差后的时间	qu de mu qian yu bian liang cha hou de shi jian	593
+取得内存空间中指定的变量	qu de nei cun kong jian zhong zhi ding de bian liang	84
+取得全部返回值	qu de quan bu fan hui zhi	354
+取得全部返回资料	qu de quan bu fan hui zi liao	355
+取得全部信件详细信息	qu de quan bu xin jian xiang xi xin xi	421
+取得全部子文件聚集	qu de quan bu zi wen jian ju ji	553
+取得全部子文件聚集记录	qu de quan bu zi wen jian ju ji ji lu	552
+取得色表上指定索引的颜色	qu de se biao shang zhi ding suo yin de yan shai	472
+取得受影响字段的数目	qu de shou ying xiang zi duan de shu mu	255
+取得数据库的返回列	qu de shu ju ku de fan hui lie	794
+取得数组中的索引资料	qu de shu zu zhong de suo yin zi liao	370
+取得随机数值	qu de sui ji shu zhi	288
+取得所有类	qu de suo you lei	74
+取得同步化的信息	qu de tong bu hua de xin xi	710
+取得图片的长宽	qu de tu pian de chang kuan	608
+取得图片的高度	qu de tu pian de gao du	441
+取得图片的宽度	qu de tu pian de kuan du	442
+取得图中指定点颜色的索引值	qu de tu zhong zhi ding dian yan se de suo yin zhi	476
+取得网络本体树状信息	qu de wang luo ben ti shu zhuang xin xi	73
+取得网络函数库中的信息值	qu de wang luo han shu ku zhong de xin xi zhi	72
+取得文件	qu de wen jian	530
+取得文件大小	qu de wen jian da xiao	563
+取得文件的链接锚	qu de wen jian de lian jie mao	558
+取得文件的链接锚记录	qu de wen jian de lian jie mao ji lu	557
+取得文件的权限配置	qu de wen jian de quan xian pei zhi	655
+取得文件的所属值	qu de wen jian de suo shu zhi	658
+取得文件的拥有者	qu de wen jian de yong you zhe	656
+取得文件读写指针位置	qu de wen jian du xie zhi zhen wei zhi	637
+取得文件所属的群组	qu de wen jian suo shu de qun zu	659
+取得文件相关信息	qu de wen jian xiang guan xin xi	64
+取得文件指针所指的行	qu de wen jian zhi zhen suo zhi de xing	663
+取得文件指针所指的字符	qu de wen jian zhi zhen suo zhi de zi fu	665
+取得文件最后的存取时间	qu de wen jian zui hou de cun qu shi jian	661
+取得文件最后的改变时间	qu de wen jian zui hou de gai bian shi jian	660
+取得文件最后的修改时间	qu de wen jian zui hou de xiu gai shi jian	657
+取得系统的环境变量	qu de xi tong de huan jing bian liang	612
+取得下一笔结果代号	qu de xia yi bi jie guo dai hao	347
+取得先前析操作的错误码	qu de xian qian xi cao zuo de cuo wu ma	65532
+取得先前析操作的错误字符串	qu de xian qian xi cao zuo de cuo wu zi fu chuan	65531
+取得信号代码	qu de xin hao dai ma	107
+取得信件数	qu de xin jian shu	410
+取得信件信息	qu de xin jian xin xi	395
+取得新进信件数	qu de xin jin xin jian shu	409
+取得压缩文件指针处	qu de ya suo wen jian zhi zhen chu	580
+取得已最后错误信息	qu de yi zui hou cuo wu xin xi	498
+取得已最后的错误	qu de yi zui hou de cuo wu	499
+取得游标名	qu de you biao ming	247
+取得远端的子文件	qu de yuan duan de zi wen jian	545
+取得远端文件	qu de yuan duan wen jian	546
+取得原始标头	qu de yuan shi biao tou	423
+取得指定储存格资料	qu de zhi ding chu cun ge zi liao	651
+取得指定类识别码	qu de zhi ding lei shi bie ma	75
+取得指定锚的文件类	qu de zhi ding mao de wen jian lei	568
+取得指定锚的文件类代码	qu de zhi ding mao de wen jian lei dai ma	569
+取得指定目的的文件内容	qu de zhi ding mu di de wen jian nei rong	544
+取得指定网址最后记录之中字段	qu de zhi ding wang zhi zui hou ji lu zhi zhong zi duan	606
+取得指定文件类的内容	qu de zhi ding wen jian lei de nei rong	565
+取得指定文件类的文件主体标记	qu de zhi ding wen jian lei de wen jian zhu ti biao ji	566
+取得指定文件类属性	qu de zhi ding wen jian lei shu xing	567
+取得指定字段的行数	qu de zhi ding zi duan de hang shu	148
+取得指定资料	qu de zhi ding zi liao	65527
+取得字段的数目	qu de zi duan de shu mu	226
+取得字段的值	qu de zi duan de zhi	674
+取得字段宽度	qu de zi duan kuan du	652
+取得字段类型	qu de zi duan lei xing	653
+取得字段类型的大小	qu de zi duan lei xing de da xiao	264
+取得字段名称	qu de zi duan ming cheng	787
+取得字段数目	qu de zi duan shu mu	784
+取得字段信息	qu de zi duan xin xi	309
+取得字段资料长度	qu de zi duan zi liao chang du	244
+取得字段资料类型	qu de zi duan zi liao lei xing	786
+取得字符串长度	qu de zi fu chuan chang du	57
+取得字符类	qu de zi fu lei	491
+取得字符类后的类信息	qu de zi fu lei hou de lei xin xi	493
+取得子类代码	qu de zi lei dai ma	575
+取得子类的类记录	qu de zi lei de lei ji lu	574
+取得子类们的类	qu de zi lei men de lei	555
+取得子类们的资料	qu de zi lei men de zi liao	554
+取得资料表名称	qu de zi liao biao ming cheng	270
+取得资料资料表的列数	qu de zi liao zi liao biao de lie shu	725
+取得资料资料表的字段数	qu de zi liao zi liao biao de zi duan shu	726
+取得资料资料表的资料	qu de zi liao zi liao biao de zi liao	727
+取得字型的高度	qu de zi xing de gao du	459
+取得字型的宽度	qu de zi xing de kuan du	458
+取得最大值	qu de zui da zhi	336
+取得最后错误信息	qu de zui hou cuo wu xin xi	311
+取得最后的类代码	qu de zui hou de lei dai ma	145
+取得最后资料影响的列数	qu de zui hou zi liao ying xiang de lie shu	293
+取得最小值	qu de zui xiao zhi	322
+去掉反斜线及本地的标记	qu diao fan xie xian ji ben di de biao ji	58
+去掉反斜线字符	qu diao fan xie xian zi fu	59
+取回返回资料放入数组	qu hui fan hui zi liao fang ru shu zu	259
+取回首笔键名	qu hui shou bi jian ming	708
+取回首笔键值	qu hui shou bi jian zhi	718
+取回下笔键值	qu hui xia bi jian zhi	716
+取回指定资料	qu hui zhi ding zi liao	719
+取消订阅邮箱	qu xiao ding yue you xiang	393
+取消删除邮件标记	qu xiao shan chu you jian biao ji	394
+取消锁定	qu xiao suo ding	528
+让动态字符串可使用向后变量	rang dong tai zi fu chuan ke shi yong xiang hou bian liang	266
+让字段指令可使用付诸变量	rang zi duan zhi ling ke shi yong fu zhu bian liang	262
+若链接中断则返回记录	ruo lian jie zhong duan ze fan hui ji lu	740
+删除变量	shan chu bian liang	31
+删除别名	shan chu bie ming	23
+删除长位类	shan chu chang wei lei	495
+删除大型类	shan chu da xing lei	138
+删除既有信箱	shan chu ji you xin xiang	427
+删除简表名录的属性	shan chu jian biao ming lu de shu xing	350
+删除类	shan chu lei	570
+删除目录	shan chu mu lu	619
+删除内存空间中指定的变量	shan chu nei cun kong jian zhong zhi ding de bian liang	81
+删除时间类	shan chu shi jian lei	515
+删除使用者	shan chu shi yong zhe	22
+删除文件	shan chu wen jian	34
+删除已标记的邮件	shan chu yi biao ji de you jian	425
+删除已注册变量	shan chu yi zhu ce bian liang	94
+删除指定的所在数据库	shan chu zhi ding de suo zai shu ju ku	312
+删除指定资料	shan chu zhi ding zi liao	721
+删除指定资源	shan chu zhi ding zi yuan	363
+删除字符类	shan chu zi fu lei	494
+删除资料资料表的资料	shan chu zi liao zi liao biao de zi liao	728
+上传文件	shang chuan wen jian	624
+上传已打开文件	shang chuan yi da kai wen jian	631
+设压缩文件指针至指定处	she ya suo wen jian zhi zhen zhi zhi ding chu	581
+释出返回资料的内存	shi chu fan hui zi liao de nei cun	785
+释出信号	shi chu xin hao	106
+释放查询指令占用内存	shi fang cha xun zhi ling zhan yong nei cun	521
+释放返回占用内存	shi fang fan hui zhan yong nei cun	520
+释放返回资料内存	shi fang fan hui zi liao nei cun	358
+释放解析占用的内存	shi fang jie xi zhan yong de nei cun	7
+释放文件使用的内存	shi fang wen jian shi yong de nei cun	559
+使记法解析器用类	shi ji fa jie xi qi yong lei	65535
+十进位转八进位	shi jin wei zhuan ba jin wei	702
+十进位转二进位	shi jin wei zhuan er jin wei	704
+十进位转十六进位	shi jin wei zhuan shi liu jin wei	703
+十六进位转十进位	shi liu jin wei zhuan shi jin wei	578
+使用编码将资料加解密	shi yong bian ma jiang zi liao jia jie mi	328
+使用交错式显示与否	shi yong jiao cuo shi xian shi yu fou	456
+使用内建的数据库除错器	shi yong nei jian de shu ju ku chu cuo qi	705
+使用随机将资料加解密	shi yong sui ji jiang zi liao jia jie mi	332
+使用者身份确认	shi yong zhe shen fen que ren	541
+使用转成模块解析位资料	shi yong zhuan cheng mo kuai jie xi wei zi liao	390
+使用最大值将资料加解密	shi yong zui da zhi jiang zi liao jia jie mi	335
+输出格式化字符串	shu chu ge shi hua zi fu chuan	124
+输出所有剩余资料	shu chu suo you sheng yu zi liao	642
+输出文件	shu chu wen jian	531
+输出文字	shu chu wen zi	209
+输出信息并中断链接程序	shu chu xin xi bing zhong duan lian jie cheng xu	700
+输出字符串	shu chu zi fu chuan	693
+输出字符串到方式文件	shu chu zi fu chuan dao fang shi wen jian	160
+输出字符串到指定坐标	shu chu zi fu chuan dao zhi ding zuo biao	159
+数据库同步化	shu ju ku tong bu hua	711
+四舍五入	si she wu ru	109
+送查询字符串新到列数数据库	song cha xun zi fu chuan xin dao lie shu shu ju ku	282
+送出目录字符串	song chu mu lu zi fu chuan	319
+送出压缩协议的标头到浏览器	song chu ya suo xie yi de biao tou dao liu lan qi	579
+送出一个错误信息	song chu yi ge cuo wu xin xi	688
+送出一个语法字符串	song chu yi ge yu fa zi fu chuan	517
+送出已信息到浏览器	song chu yi xin xi dao liu lan qi	93
+搜寻结果的数目	sou xun jie guo de shu mu	364
+搜寻聚集类	sou xun ju ji lei	549
+搜寻类	sou xun lei	550
+搜寻指定标准的信件	sou xun zhi ding biao zhun de xin jian	400
+随机数的最大值	sui ji shu de zui da zhi	602
+缩放类	suo fang lei	189
+所有的错误信息	suo you de cuo wu xin xi	426
+所有的警告信息	suo you de jing gao xin xi	437
+锁住文件	suo zhu wen jian	646
+填满目前的向量	tian man mu qian de xiang liang	204
+填满目前的向量并沿向量绘线	tian man mu qian de xiang liang bing yan xiang liang hui xian	203
+调整链接配置	tiao zheng lian jie pei zhi	240
+图形着色	tu xing zhuo se	463
+完成字符串服务器的子请求码	wan cheng zi fu chuan fu wu qi de zi qing qiu ma	26
+位组的方式读取文件	wei zu de fang shi du qu wen jian	640
+无用的项目	wu yong de xiang mu	701
+系住数组目录	xi zhu shu zu mu lu	367
+下一字段的名称	xia yi zi duan de ming cheng	673
+下载文件	xia zai wen jian	630
+下载文件并存在已开的文件中	xia zai wen jian bing cun zai yi kai de wen jian zhong	632
+显示服务器系统	xian shi fu wu qi xi tong	617
+详细列出指定目录中所有文件	xiang xi lie chu zhi ding mu lu zhong suo you wen jian	621
+写出横向字符	xie chu heng xiang zi fu	479
+泄出内存	xie chu nei cun	344
+写出直式字符	xie chu zhi shi zi fu	478
+写到文件指针	xie dao wen jian zhi zhen	641
+写图片的文字到图中	xie tu pian de wen zi dao tu zhong	439
+卸下转成字型	xie xia zhuan cheng zi xing	449
+写转成文字到图中	xie zhuan cheng wen zi dao tu zhong	447
+新的简表名录取代旧属性	xin de jian biao ming lu qu dai jiu shu xing	349
+形成封闭的向量形状	xing cheng feng bi de xiang liang xing zhuang	211
+修改类记录	xiu gai lei ji lu	535
+选择一个数据库	xuan ze yi ge shu ju ku	295
+旋转类	xuan zhuan lei	191
+寻找第一个出现的字符	xun zhao di yi ge chu xian de zi fu	63
+寻找信件有无特定字符串	xun zhao xin jian you wu te ding zi fu chuan	401
+寻找字符串中某字符最后出现处	xun zhao zi fu chuan zhong mou zi fu zui hou chu xian chu	54
+寻找字符串中某字符最先出现处	xun zhao zi fu chuan zhong mou zi fu zui xian chu xian chu	56
+压缩文件读出指定长度字符串	ya suo wen jian du chu zhi ding chang du zi fu chuan	583
+压缩资料到位字符串之中	ya suo zi liao dao wei zi fu chuan zhi zhong	222
+沿向量绘线	yan xiang liang hui xian	157
+验证日期的正确性	yan zheng ri qi de zheng que xing	751
+移除数据库	yi chu shu ju ku	281
+移动类	yi dong lei	534
+移动列指针	yi dong lie zhi zhen	290
+移动内部返回指针	yi dong nei bu fan hui zhi zhen	314
+移动文件指针	yi dong wen jian zhi zhen	639
+移动原点	yi dong yuan dian	156
+移动指定信件到它处邮箱	yi dong zhi ding xin jian dao ta chu you xiang	412
+余弦计算	yu xian ji suan	736
+预置链接指令	yu zhi lian jie zhi ling	241
+圆周率	yuan zhou lv	131
+载入点阵字型	zai ru dian zhen zi xing	454
+载入目录扩充模块	zai ru mu lu kuo chong mo kuai	696
+载入一个新的字典	zai ru yi ge xin de zi dian	771
+载入转成字型	zai ru zhuan cheng zi xing	448
+暂停执行	zan ting zhi xing	76
+增加简表名录的属性	zeng jia jian biao ming lu de shu xing	351
+增加数组名录的条目	zeng jia shu zu ming lu de tiao mu	368
+正切计算	zheng qie ji suan	43
+正弦计算	zheng xian ji suan	78
+指定绘图的颜色为彩色	zhi ding hui tu de yan shai wei cai se	177
+指定绘图的颜色为彩色并填入	zhi ding hui tu de yan shai wei cai se bing tian ru	179
+指定绘图的颜色为灰阶	zhi ding hui tu de yan shai wei hui jie	184
+指定绘图的颜色为灰阶并填入	zhi ding hui tu de yan shai wei hui jie bing tian ru	186
+指定填入的颜色为彩色	zhi ding tian ru de yan shai wei cai se	178
+指定填入的颜色为灰阶	zhi ding tian ru de yan shai wei hui jie	185
+指定透明背景色	zhi ding tou ming bei jing se	470
+指定颜色区域内着色	zhi ding yan shai qu yu nei zhuo se	460
+指定指定的下笔资料	zhi ding zhi ding de xia bi zi liao	65526
+执行目前的指令	zhi xing mu qian de zhi ling	150
+执行目前的指令部分	zhi xing mu qian de zhi ling bu fen	523
+执行外部程序	zhi xing wai bu cheng xu	684
+执行外部程序并显示输出资料	zhi xing wai bu cheng xu bing xian shi shu chu zi liao	44
+执行已准备类字符串	zhi xing yi zhun bei lei zi fu chuan	500
+执行预置名指令	zhi xing yu zhi ming zhi ling	246
+执行至指令	zhi xing zhi zhi ling	789
+执行字段的指令部分	zhi xing zi duan de zhi ling bu fen	261
+中止共享内存空间链接	zhong zhi gong xiang nei cun kong jian lian jie	85
+注册新的变量	zhu ce xin de bian liang	97
+转换某些字符	zhuan huan mou xie zi fu	51
+转换数字的进位方式	zhuan huan shu zi de jin wei fang shi	764
+准备返回字符串	zhun bei fan hui zi fu chuan	485
+字符串比对解析	zi fu chuan bi dui jie xi	691
+字符串比对解析并取代	zi fu chuan bi dui jie xi bing qu dai	689
+字符串比对解析与大小写无关	zi fu chuan bi dui jie xi yu da xiao xie wu guan	690
+字符串比较	zi fu chuan bi jiao	62
+字符串加入斜线	zi fu chuan jia ru xie xian	779
+字符串取代	zi fu chuan qu dai	49
+字符串全转为大写	zi fu chuan quan zhuan wei da xie	52
+字符串全转为小写	zi fu chuan quan zhuan wei xiao xie	53
+字符串整体比对解析	zi fu chuan zheng ti bi dui jie xi	127
+资料编码	zi liao bian ma	102
+资料解码	zi liao jie ma	104
+资料写入压缩文件	zi liao xie ru ya suo wen jian	584
+自然对数程序的次方值	zi ran dui shu cheng xu de ci fang zhi	682
+自然对数值	zi ran dui shu zhi	340
+字型转成向量字	zi xing zhuan cheng xiang liang zi	450
+组合所有向量	zu he suo you xiang liang	213
+最后的错误信息	zui hou de cuo wu xin xi	417
+最佳化数据库	zui jia hua shu ju ku	714

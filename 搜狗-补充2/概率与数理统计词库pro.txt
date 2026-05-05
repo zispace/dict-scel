@@ -1,0 +1,320 @@
+# 词库名称: 概率与数理统计词库pro
+# 词库分类: 理工类
+# 词库描述: 最权威的概率与数理统计词库。不断更新中。谨献给挚爱地王珏同学！ 本人博客：http://xiaonei.com/123456gywxyzgyw
+# 词条样例: 绝对值、协方差分析、假设检验、带宽、贝塔分布
+# 解析词数: 313
+# 解析异常: 0
+
+百分数	bai fen shu	123
+百分位数	bai fen wei shu	122
+报告报表	bao gao bao biao	84
+贝塔分布	bei ta fen bu	295
+比较	bi jiao	278
+比例	bi li	107
+变量	bian liang	15
+标准残差	biao zhun can cha	49
+标准差	biao zhun cha	78
+标准化	biao zhun hua	52
+标准离差	biao zhun li cha	54
+饼图	bing tu	121
+泊松分布	bo song fen bu	119
+部分析因设计	bu fen xi yin she ji	216
+不可加性	bu ke jia xing	147
+不平衡的	bu ping heng de	20
+不齐性	bu qi xing	209
+不同的	bu tong de	11
+残差	can cha	83
+参数	can shu	127
+参数估计	can shu gu ji	235
+差异	cha yi	251
+常数	chang shu	272
+成对观测数据	cheng dui guan ce shu ju	129
+成对样本	cheng dui yang ben	128
+充分统计量	chong fen tong ji liang	42
+重复的	chong fu de	85
+抽样检验	chou yang jian yan	71
+处理	chu li	25
+刺激	ci ji	47
+次级样本	ci ji yang ben	43
+次序统计量	ci xu tong ji liang	133
+大样本问题	da yang ben wen ti	192
+带宽	dai kuan	297
+单侧检验	dan ce jian yan	139
+单独地	dan du de	69
+单向方差分析	dan xiang fang cha fen xi	138
+单向分类	dan xiang fen lei	137
+单样本	dan yang ben	140
+倒数的	dao shu de	196
+等含量	deng han liang	239
+点估计	dian gu ji	120
+迭代	die dai	195
+定义	ding yi	257
+独立	du li	205
+独立性检验	du li xing jian yan	33
+独立样本	du li yang ben	203
+对立假设	dui li jia she	308
+对数	dui shu	174
+对数的	dui shu de	175
+对照	dui zhao	277
+多重比较	duo chong bi jiao	156
+多重相关	duo chong xiang guan	155
+多项式	duo xiang shi	116
+多项式回归	duo xiang shi hui gui	117
+多项式曲线	duo xiang shi qu xian	118
+多响应	duo xiang ying	150
+多元分析	duo yuan fen xi	149
+多元共线性	duo yuan gong xian xing	157
+多元回归方程	duo yuan hui gui fang cheng	151
+多元回归分析	duo yuan hui gui fen xi	152
+多元相关系数	duo yuan xiang guan xi shu	153
+二次的	er ci de	106
+二次项	er ci xiang	105
+二项分布	er xiang fen bu	292
+二项检验	er xiang jian yan	291
+方差	fang cha	14
+方差比	fang cha bi	12
+方差分量	fang cha fen liang	13
+方差分析	fang cha fen xi	305
+方差来源	fang cha lai yuan	58
+方差齐性	fang cha qi xing	206
+方程	fang cheng	238
+非参数检验	fei can shu jian yan	144
+非线性	fei xian xing	146
+非线性回归	fei xian xing hui gui	145
+分布	fen bu	244
+分类	fen lei	283
+分量	fen liang	276
+分析	fen xi	307
+峰度	feng du	193
+风险函数	feng xian han shu	80
+符号检验	fu hao jian yan	67
+复合的	fu he de	275
+负相关	fu xiang guan	148
+复相关系数	fu xiang guan xi shu	154
+伽玛分布	ga ma fen bu	212
+概括综述	gai kuo zong shu	40
+概率	gai lv	110
+概率分析	gai lv fen xi	108
+概率密度函数	gai lv mi du han shu	109
+概率图	gai lv tu	2
+个案	ge an	289
+个案数	ge an shu	141
+共线性	gong xian xing	279
+固定变量	gu ding bian liang	217
+固定模型	gu ding mo xing	218
+估计	gu ji	236
+估计量	gu ji liang	234
+估计值	gu ji zhi	16
+关系	guan xi	87
+郭晶晶中秋快乐	guo jing jing zhong qiu kuai le	6
+函数	han shu	213
+衡量	heng liang	233
+回归分析	hui gui fen xi	92
+回归系数	hui gui xi shu	91
+回归线	hui gui xian	90
+混合模型	hun he mo xing	162
+极差	ji cha	95
+极大似然估计	ji da si ran gu ji	168
+集合	ji he	68
+几何均值	ji he jun zhi	211
+计算	ji suan	290
+极值	ji zhi	227
+加权平均值	jia quan ping jun zhi	8
+加权权重	jia quan quan zhong	9
+假设	jia she	302
+假设检验	jia she jian yan	301
+检验	jian yan	38
+检验法则	jian yan fa ze	32
+检验函数	jian yan han shu	30
+检验判据	jian yan pan ju	37
+检验统计量	jian yan tong ji liang	31
+交互效应	jiao hu xiao ying	242
+交互作用	jiao hu zuo yong	200
+接受	jie shou	312
+接受域	jie shou yu	311
+截尾均值	jie wei jun zhi	24
+精确值	jing que zhi	232
+拒绝	ju jue	89
+拒绝域	ju jue yu	88
+聚类分析	ju lei fen xi	282
+距离	ju li	245
+矩阵	ju zhen	170
+绝对值	jue dui zhi	313
+均方差	jun fang cha	167
+均方和	jun fang he	166
+均匀分布	jun yun fen bu	17
+均值	jun zhi	299
+均值的标准误差	jun zhi de biao zhun wu cha	53
+卡方分布	ka fang fen bu	285
+卡方检验	ka fang jian yan	284
+柯尔莫哥洛夫斯米诺夫检验	ke er mo ge luo fu si mi nuo fu jian yan	194
+可加性	ke jia xing	310
+可靠性	ke kao xing	86
+空间	kong jian	57
+控制图	kong zhi tu	270
+扩展	kuo zhan	56
+类别	lei bie	288
+累加分布函数	lei jia fen bu han shu	261
+离散变量	li san bian liang	248
+连续变量	lian xu bian liang	271
+列联表	lie lian biao	264
+临界点	lin jie dian	266
+临界值	lin jie zhi	265
+零假设	ling jia she	142
+逻辑的	luo ji de	173
+蒙特卡罗法	meng te ka luo fa	159
+密度函数	mi du han shu	255
+描述	miao shu	253
+默认的	mo ren de	258
+模型	mo xing	160
+拟合	ni he	221
+拟合线	ni he xian	220
+拟合优度检验	ni he you du jian yan	35
+拟合值	ni he zhi	219
+排序	pai xu	134
+判别分析	pan bie fen xi	246
+判别函数	pan bie han shu	247
+偏度	pian du	61
+偏回归系数	pian hui gui xi shu	124
+偏态分布	pian tai fen bu	62
+偏相关	pian xiang guan	126
+偏相关系数	pian xiang guan xi shu	125
+偏倚	pian yi	293
+频数	pin shuo	215
+平方	ping fang	55
+平方和	ping fang he	41
+平衡的	ping heng de	298
+平滑	ping hua	59
+期望	qi wang	231
+期望值	qi wang zhi	230
+齐性	qi xing	207
+齐性检验	qi xing jian yan	34
+强假设	qiang jia she	46
+区间估计	qu jian gu ji	198
+曲线估计	qu xian gu ji	260
+取样	qu yang	72
+缺失值	que shi zhi	163
+容许限	rong xu xian	28
+三次的立方的	san ci de li fang de	263
+三次项	san ci xiang	262
+散点图	san dian tu	70
+剩余平方和	sheng yu ping fang he	82
+时间序列	shi jian xu lie	29
+试验设计	shi yan she ji	252
+寿命	shou ming	185
+寿命试验	shou ming shi yan	184
+数据	shu ju	259
+数量的度量的	shu liang de du liang de	103
+双侧检验	shuang ce jian yan	21
+水平	shui ping	188
+四分位数	si fen wei shu	102
+似然比检验	si ran bi jian yan	182
+似然函数	si ran han shu	183
+算术平均值	suan shu ping jun zhi	304
+随机变量	sui ji bian liang	97
+随机的	sui ji de	101
+随机化	sui ji hua	96
+随机取样	sui ji qu yang	99
+随机数	sui ji shu	100
+随机数种子	sui ji shu zhong zi	98
+损失函数	sun shi han shu	172
+特征值	te zheng zhi	240
+剔除残差	ti chu can cha	256
+替分布	ti fen bu	39
+替检验	ti jian yan	22
+调和均值	tiao he jun zhi	210
+条形图	tiao xing tu	296
+调整的	tiao zheng de	309
+统计量	tong ji liang	51
+统计质量控制	tong ji zhi liang kong zhi	50
+完全析因设计	wan quan xi yin she ji	214
+稳健性	wen jian xing	79
+误差	wu cha	237
+无偏估计	wu pian gu ji	19
+无偏性	wu pian xing	18
+系数	xi shu	281
+析因设计	xi yin she ji	223
+析因试验	xi yin shi yan	222
+线性的	xian xing de	181
+线性估计	xian xing gu ji	180
+线性关系	xian xing guan xi	177
+线性回归	xian xing hui gui	178
+线性检验	xian xing jian yan	36
+线性模型	xian xing mo xing	179
+线性项	xian xing xiang	176
+显著的有效的	xian zhu de you xiao de	64
+显著性	xian zhu xing	66
+显著性检验	xian zhu xing jian yan	65
+显著性水平	xian zhu xing shui ping	187
+相等	xiang deng	243
+相关	xiang guan	269
+相关系数	xiang guan xi shu	280
+相关性	xiang guan xing	303
+相关指数	xiang guan zhi shu	201
+向量	xiang liang	10
+响应	xiang ying	81
+小珏珏中秋快乐	xiao jue jue zhong qiu kuai le	5
+小葵中秋快乐	xiao kui zhong qiu kuai le	4
+小样本问题	xiao yang ben wen ti	60
+协方差	xie fang cha	268
+协方差分析	xie fang cha fen xi	306
+协方差矩阵	xie fang cha ju zhen	267
+形曲线	xing qu xian	1
+学生化残差	xue sheng hua can cha	44
+学生化剔除残差	xue sheng hua ti chu can cha	45
+样本	yang ben	75
+样本空间	yang ben kong jian	73
+样本容量	yang ben rong liang	74
+异常值	yi chang zhi	130
+移动平均值	yi dong ping jun zhi	158
+一致性	yi zhi xing	273
+因变量	yin bian liang	254
+因素因子	yin su yin zi	226
+因子得分	yin zi de fen	224
+因子分析	yin zi fen xi	225
+游程	you cheng	77
+游程检验	you cheng jian yan	76
+优化的	you hua de	136
+优化设计	you hua she ji	3
+有效度	you xiao du	300
+有效数字	you xiao shu zi	63
+有效性	you xiao xing	241
+预测	yu ce	114
+预测区间	yu ce qu jian	112
+预测值	yu ce zhi	113
+原点	yuan dian	132
+诊断	zhen duan	249
+真值	zhen zhi	23
+正交的	zheng jiao de	131
+正态分布	zheng tai fen bu	143
+正相关	zheng xiang guan	115
+直方图	zhi fang tu	208
+质量控制	zhi liang kong zhi	104
+指数	zhi shu	202
+指数的	zhi shu de	229
+指数分布	zhi shu fen bu	228
+秩统计量	zhi tong ji liang	93
+秩相关	zhi xiang guan	94
+置信区间	zhi xin qu jian	274
+众数	zhong shu	161
+中位数	zhong wei shu	165
+重心	zhong xin	287
+中心化杠杆值	zhong xin hua gang gan zhi	186
+中心趋势	zhong xin qu shi	286
+逐步回归	zhu bu hui gui	48
+主成分分析	zhu cheng fen fen xi	111
+主效应	zhu xiao ying	171
+转换	zhuan huan	26
+自变量	zi bian liang	204
+自由度	zi you du	250
+总共和	zong gong he	27
+组间的	zu jian de	294
+组间相关	zu jian xiang guan	197
+组内的	zu nei de	7
+组内相关	zu nei xiang guan	199
+最大值	zui da zhi	169
+最小二乘法	zui xiao er cheng fa	189
+最小二乘估计	zui xiao er cheng gu ji	190
+最小显著差数	zui xiao xian zhu cha shu	191
+最小值	zui xiao zhi	164
+最优配制	zui you pei zhi	135

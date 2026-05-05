@@ -1,0 +1,525 @@
+# 词库名称: 中药名MD6100
+# 词库分类: 个人专用
+# 词库描述: 中药名
+# 词条样例: 白蔹、白前、白头翁、白药子、蜜百部、蜜百合
+# 解析词数: 518
+# 解析异常: 0
+
+矮地茶	ai di cha	174
+八角茴香	ba jiao hui xiang	368
+白扁豆	bai bian dou	367
+百部	bai bu	503
+白附片	bai fu pian	468
+白果	bai guo	365
+百合	bai he	501
+白花蛇舌草	bai hua she she cao	231
+白及	bai ji	516
+败酱草	bai jiang cao	230
+白蔹	bai lian	515
+白茅根	bai mao gen	514
+白前	bai qian	513
+白芍	bai shao	512
+白头翁	bai tou weng	507
+白薇	bai wei	506
+白鲜皮	bai xian pi	132
+白药子	bai yao zi	505
+白芷	bai zhi	504
+柏子仁	bai zi ren	364
+半边莲	ban bian lian	229
+板蓝根	ban lan gen	496
+半枝莲	ban zhi lian	228
+北柴胡	bei chai hu	490
+北豆根	bei dou gen	495
+北沙参	bei sha shen	494
+荜茇	bi ba	363
+萹蓄	bian xu	227
+槟榔	bing lang	362
+薄荷	bo he	226
+补骨脂	bu gu zhi	360
+蚕砂	can sha	70
+苍耳子	cang er zi	358
+苍术	cang zhu	493
+草豆蔻	cao dou kou	356
+草果仁	cao guo ren	355
+侧柏炭	ce bai tan	170
+蝉蜕	chan tui	69
+炒白扁豆	chao bai bian dou	366
+炒苍耳子	chao cang er zi	357
+炒川楝子	chao chuan lian zi	346
+炒稻芽	chao dao ya	342
+炒冬瓜子	chao dong gua zi	337
+炒杜仲	chao du zhong	128
+炒谷芽	chao gu ya	329
+炒槐花	chao huai hua	157
+炒蒺藜	chao ji li	316
+炒建曲	chao jian qu	7
+炒僵蚕	chao jiang can	57
+炒芥子	chao jie zi	313
+炒九香虫	chao jiu xiang chong	56
+炒决明子	chao jue ming zi	306
+炒苦杏仁	chao ku xing ren	304
+炒莱菔子	chao lai fu zi	303
+炒麦芽	chao mai ya	294
+炒牛蒡子	chao niu bang zi	286
+炒山楂	chao shan zha	269
+炒神曲	chao shen qu	4
+炒酸枣仁	chao suan zao ren	257
+炒王不留行	chao wang bu liu xing	253
+炒栀子	chao zhi zi	239
+炒紫苏子	chao zi su zi	233
+车前草	che qian cao	225
+车前子	che qian zi	353
+陈皮	chen pi	351
+沉香	chen xiang	110
+赤茯苓	chi fu ling	80
+赤芍	chi shao	489
+赤小豆	chi xiao dou	350
+重楼	chong lou	371
+茺蔚子	chong wei zi	349
+楮实子	chu shi zi	348
+川贝母	chuan bei mu	488
+川楝子	chuan lian zi	347
+川木通	chuan mu tong	109
+川木香	chuan mu xiang	487
+川牛膝	chuan niu xi	486
+穿山龙	chuan shan long	483
+穿心莲	chuan xin lian	224
+川芎	chuan xiong	484
+垂盆草	chui pen cao	223
+刺五加	ci wu jia	373
+醋艾炭	cu ai tan	172
+醋鳖甲	cu bie jia	71
+醋煅紫石英	cu duan zi shi ying	12
+醋莪术	cu e zhu	471
+醋甘遂	cu gan sui	462
+醋龟甲	cu gui jia	62
+醋鸡内金	cu ji nei jin	59
+醋青皮	cu qing pi	277
+醋三棱	cu san leng	415
+醋山甲	cu shan jia	68
+醋五灵脂	cu wu ling zhi	37
+醋五味子	cu wu wei zi	248
+醋香附	cu xiang fu	391
+醋延胡索	cu yan hu suo	385
+大腹皮	da fu pi	345
+大黄	da huang	482
+大黄后下	da huang hou xia	369
+大蓟	da ji	222
+大青叶	da qing ye	169
+大枣	da zao	344
+玳玳花	dai dai hua	168
+淡豆豉	dan dou chi	9
+胆南星	dan nan xing	10
+丹参	dan shen	479
+淡竹叶	dan zhu ye	221
+当归	dang gui	478
+党参	dang shen	477
+灯心草	deng xin cao	220
+地肤子	di fu zi	340
+地骨皮	di gu pi	130
+地龙	di long	67
+地榆炭	di yu tan	473
+丁香	ding xiang	167
+冬瓜皮	dong gua pi	339
+冬瓜子	dong gua zi	338
+冬葵子	dong kui zi	336
+豆蔻	dou kou	335
+独活	du huo	472
+煅赤石脂	duan chi shi zhi	30
+煅磁石	duan ci shi	28
+煅蛤壳	duan ge ke	64
+煅海浮石	duan hai fu shi	26
+煅金礞石	duan jin meng shi	23
+煅龙骨	duan long gu	20
+煅牡蛎	duan mu li	51
+煅青礞石	duan qing meng shi	18
+煅石决明	duan shi jue ming	47
+煅瓦楞子	duan wa leng zi	42
+煅赭石	duan zhe shi	14
+煅珍珠母	duan zhen zhu mu	34
+煅自然铜	duan zi ran tong	11
+鹅不食草	e bu shi cao	219
+阿胶	e jiao	73
+法半夏	fa ban xia	498
+番泻叶	fan xie ye	166
+防风	fang feng	470
+防己	fang ji	469
+蜂房	feng fang	66
+佛手	fo shou	334
+麸炒白术	fu chao bai zhu	508
+麸炒苍术	fu chao cang zhu	492
+麸炒椿皮	fu chao chun pi	131
+麸炒芡实	fu chao qian shi	281
+麸炒薏苡仁	fu chao yi yi ren	242
+麸炒枳壳	fu chao zhi ke	236
+麸炒枳实	fu chao zhi shi	235
+茯苓	fu ling	81
+茯苓皮	fu ling pi	79
+伏龙肝	fu long gan	27
+覆盆子	fu pen zi	332
+浮萍	fu ping	218
+茯神	fu shen	78
+浮小麦	fu xiao mai	333
+干姜	gan jiang	466
+藁本	gao ben	460
+高良姜	gao liang jiang	461
+葛根	ge gen	459
+葛花	ge hua	165
+蛤蚧	ge jie	65
+功劳叶	gong lao ye	164
+枸杞子	gou qi zi	331
+钩藤	gou teng	108
+谷精草	gu jing cao	163
+瓜蒌	gua lou	327
+瓜蒌子	gua lou zi	326
+广藿香	guang huo xiang	217
+广金钱草	guang jin qian cao	216
+龟甲	gui jia	63
+鬼箭羽	gui jian yu	107
+桂枝	gui zhi	106
+海风藤	hai feng teng	105
+海金沙	hai jin sha	325
+海螵蛸	hai piao xiao	61
+海桐皮	hai tong pi	126
+海藻	hai zao	77
+合欢花	he huan hua	162
+合欢皮	he huan pi	125
+荷叶	he ye	161
+诃子	he zi	324
+黑顺片	hei shun pian	467
+黑芝麻	hei zhi ma	323
+红花	hong hua	160
+红景天	hong jing tian	372
+红参	hong shen	417
+红藤	hong teng	104
+厚朴	hou pu	124
+胡黄连	hu huang lian	454
+槲寄生	hu ji sheng	102
+胡芦巴	hu lu ba	322
+琥珀	hu po	103
+虎杖	hu zhang	453
+花椒	hua jiao	321
+花椒目	hua jiao mu	320
+滑石	hua shi	24
+槐角	huai jiao	319
+黄柏	huang bai	122
+黄柏炭	huang bai tan	121
+黄连	huang lian	451
+黄芪	huang qi	450
+黄芩	huang qin	448
+黄芩炭	huang qin tan	447
+黄药子	huang yao zi	445
+火麻仁	huo ma ren	318
+鸡骨草	ji gu cao	215
+鸡冠花	ji guan hua	159
+蒺藜	ji li	317
+急性子	ji xing zi	315
+鸡血藤	ji xue teng	101
+建曲	jian qu	8
+姜半夏	jiang ban xia	499
+僵蚕	jiang can	58
+姜草果仁	jiang cao guo ren	354
+姜厚朴	jiang hou pu	123
+姜黄	jiang huang	444
+江南卷柏	jiang nan juan bai	175
+降香	jiang xiang	100
+焦白术	jiao bai zhu	509
+焦槟榔	jiao bing lang	361
+焦稻芽	jiao dao ya	341
+绞股蓝	jiao gu lan	214
+焦谷芽	jiao gu ya	328
+焦建曲	jiao jian qu	6
+焦麦芽	jiao mai ya	293
+焦山楂	jiao shan zha	268
+焦神曲	jiao shen qu	3
+桔梗	jie geng	442
+芥子	jie zi	314
+锦灯笼	jin deng long	312
+金钱白花蛇	jin qian bai hua she	72
+金钱草	jin qian cao	213
+金银花	jin yin hua	156
+金樱子	jin ying zi	311
+荆芥	jing jie	212
+荆芥穗	jing jie sui	135
+荆芥穗炭	jing jie sui tan	134
+粳米	jing mi	232
+酒白芍	jiu bai shao	511
+韭菜子	jiu cai zi	310
+酒苁蓉	jiu cong rong	416
+酒大黄	jiu da huang	481
+酒黄精	jiu huang jing	452
+酒黄芩	jiu huang qin	446
+九节菖蒲	jiu jie chang pu	443
+酒女贞子	jiu nv zhen zi	284
+酒乌梢蛇	jiu wu shao she	41
+酒萸肉	jiu yu rou	266
+橘红	ju hong	308
+菊花	ju hua	155
+橘络	ju luo	307
+卷柏	juan bai	210
+苦地丁	ku di ding	209
+苦丁茶	ku ding cha	154
+枯矾	ku fan	32
+苦楝皮	ku lian pi	120
+苦参	ku shen	441
+苦杏仁	ku xing ren	305
+昆布	kun bu	76
+老鹳草	lao guan cao	208
+荔枝核	li zhi he	302
+莲房	lian fang	152
+连翘	lian qiao	301
+莲子肉	lian zi rou	300
+莲子心	lian zi xin	299
+蓼大青叶	liao da qing ye	133
+凌霄花	ling xiao hua	151
+灵芝	ling zhi	75
+刘寄奴	liu ji nu	207
+六神曲	liu shen qu	5
+六一散	liu yi san	2
+龙胆	long dan	440
+龙葵	long kui	206
+龙眼肉	long yan rou	298
+漏芦	lou lu	439
+芦根	lu gen	438
+芦荟	lu hui	99
+鹿角胶	lu jiao jiao	54
+鹿角片	lu jiao pian	55
+鹿角霜	lu jiao shuang	53
+路路通	lu lu tong	297
+鹿衔草	lu xian cao	205
+罗布麻叶	luo bu ma ye	150
+络石藤	luo shi teng	98
+马鞭草	ma bian cao	202
+马齿苋	ma chi xian	201
+麻黄	ma huang	204
+麻黄根	ma huang gen	437
+麦冬	mai dong	436
+蔓荆子	man jing zi	292
+蔓荆子炭	man jing zi tan	291
+芒硝	mang xiao	19
+猫爪草	mao zhao cao	435
+玫瑰花	mei gui hua	149
+蜜百部	mi bai bu	502
+蜜百合	mi bai he	500
+蜜款冬花	mi kuan dong hua	153
+蜜马兜铃	mi ma dou ling	296
+蜜麻黄	mi ma huang	203
+密蒙花	mi meng hua	148
+蜜枇杷叶	mi pi pa ye	147
+蜜桑白皮	mi sang bai pi	115
+蜜紫菀	mi zi wan	374
+绵萆薢	mian bi xie	434
+绵马贯众	mian ma guan zhong	433
+墨旱莲	mo han lian	200
+木鳖子	mu bie zi	290
+牡丹皮	mu dan pi	119
+木瓜	mu gua	289
+木蝴蝶	mu hu die	288
+木香	mu xiang	432
+木贼	mu zei	199
+南鹤虱	nan he shi	287
+南刘寄奴	nan liu ji nu	176
+南沙参	nan sha shen	431
+牛膝	niu xi	430
+女贞子	nv zhen zi	285
+藕节	ou jie	429
+藕节炭	ou jie tan	428
+胖大海	pang da hai	283
+炮姜	pao jiang	465
+佩兰	pei lan	198
+片姜黄	pian jiang huang	427
+蒲公英	pu gong ying	197
+蒲黄炭	pu huang tan	145
+茜草	qian cao	423
+茜草炭	qian cao tan	422
+前胡	qian hu	424
+千斤拔	qian jin ba	426
+千年健	qian nian jian	425
+牵牛子	qian niu zi	282
+羌活	qiang huo	421
+秦艽	qin jiao	420
+秦皮	qin pi	118
+清半夏	qing ban xia	497
+青黛	qing dai	1
+青风藤	qing feng teng	96
+青果	qing guo	280
+青蒿	qing hao	196
+青皮	qing pi	279
+青皮炭	qing pi tan	278
+青葙子	qing xiang zi	276
+瞿麦	qu mai	211
+拳参	quan can	419
+全蝎	quan xie	50
+忍冬藤	ren dong teng	95
+人参	ren shen	418
+肉豆蔻	rou dou kou	275
+肉桂	rou gui	117
+蕤仁	rui ren	274
+三七	san qi	414
+桑白皮	sang bai pi	116
+桑寄生	sang ji sheng	93
+桑螵蛸	sang piao xiao	49
+桑椹	sang shen	273
+桑叶	sang ye	144
+桑枝	sang zhi	92
+砂仁	sha ren	271
+山慈菇	shan ci gu	413
+山豆根	shan dou gen	412
+山药	shan yao	411
+山茱萸	shan zhu yu	267
+蛇床子	she chuang zi	265
+射干	she gan	409
+蛇莓	she mei	195
+伸筋草	shen jin cao	194
+生艾叶	sheng ai ye	173
+生白术	sheng bai zhu	510
+生侧柏叶	sheng ce bai ye	171
+生赤石脂	sheng chi shi zhi	31
+生磁石	sheng ci shi	29
+生稻芽	sheng dao ya	343
+生地黄	sheng di huang	476
+生地榆	sheng di yu	474
+生杜仲	sheng du zhong	129
+生甘草	sheng gan cao	464
+生谷芽	sheng gu ya	330
+生寒水石	sheng han shui shi	25
+生何首乌	sheng he shou wu	456
+生槐花	sheng huai hua	158
+生鸡内金	sheng ji nei jin	60
+生姜	sheng jiang	408
+生龙齿	sheng long chi	22
+生龙骨	sheng long gu	21
+升麻	sheng ma	407
+生麦芽	sheng mai ya	295
+生牡蛎	sheng mu li	52
+生蒲黄	sheng pu huang	146
+生山楂	sheng shan zha	270
+生商陆	sheng shang lu	410
+生石膏	sheng shi gao	17
+生瓦楞子	sheng wa leng zi	43
+生薏苡仁	sheng yi yi ren	243
+生赭石	sheng zhe shi	15
+生紫石英	sheng zi shi ying	13
+石菖蒲	shi chang pu	406
+柿蒂	shi di	262
+石斛	shi hu	193
+石见穿	shi jian chuan	192
+石决明	shi jue ming	48
+使君子	shi jun zi	263
+石榴皮	shi liu pi	264
+石楠藤	shi nan teng	91
+石韦	shi wei	143
+首乌藤	shou wu teng	90
+熟大黄	shu da huang	480
+熟地黄	shu di huang	475
+水红花子	shui hong hua zi	261
+水牛角	shui niu jiao	46
+丝瓜络	si gua luo	260
+丝瓜络炭	si gua luo tan	259
+苏木	su mu	89
+酸枣仁	suan zao ren	258
+锁阳	suo yang	405
+太子参	tai zi shen	404
+檀香	tan xiang	88
+烫狗脊	tang gou ji	458
+烫骨碎补	tang gu sui bu	457
+烫水蛭	tang shui zhi	45
+桃仁	tao ren	256
+天冬	tian dong	403
+天花粉	tian hua fen	402
+天葵子	tian kui zi	401
+天麻	tian ma	400
+天竺黄	tian zhu huang	83
+葶苈子	ting li zi	255
+通草	tong cao	87
+通天草	tong tian cao	82
+透骨草	tou gu cao	191
+土贝母	tu bei mu	398
+土鳖虫	tu bie chong	44
+土茯苓	tu fu ling	397
+土荆皮	tu jing pi	114
+威灵仙	wei ling xian	396
+五倍子	wu bei zi	39
+蜈蚣	wu gong	40
+五加皮	wu jia pi	113
+五灵脂	wu ling zhi	38
+乌梅	wu mei	252
+五味子	wu wei zi	249
+乌药	wu yao	395
+吴茱萸	wu zhu yu	251
+豨莶草	xi xian cao	190
+细辛	xi xin	370
+西洋参	xi yang shen	394
+夏枯草	xia ku cao	142
+仙鹤草	xian he cao	189
+仙茅	xian mao	393
+香附	xiang fu	392
+香加皮	xiang jia pi	112
+香薷	xiang ru	188
+香橼	xiang yuan	247
+小蓟	xiao ji	187
+薤白	xie bai	390
+辛夷	xin yi	141
+徐长卿	xu chang qing	389
+续断	xu duan	387
+旋覆花	xuan fu hua	140
+玄参	xuan shen	388
+血竭	xue jie	86
+血余炭	xue yu tan	36
+寻骨风	xun gu feng	186
+鸦胆子	ya dan zi	245
+鸭跖草	ya zhi cao	185
+盐补骨脂	yan bu gu zhi	359
+盐车前子	yan che qian zi	352
+盐杜仲	yan du zhong	127
+延胡索	yan hu suo	386
+盐橘核	yan ju he	309
+盐沙苑子	yan sha yuan zi	272
+盐菟丝子	yan tu si zi	254
+盐小茴香	yan xiao hui xiang	246
+盐益智仁	yan yi zhi ren	244
+阳起石	yang qi shi	16
+野菊花	ye ju hua	139
+益母草	yi mu cao	184
+银柴胡	yin chai hu	384
+茵陈	yin chen	183
+郁金	yu jin	382
+郁李仁	yu li ren	241
+玉米须	yu mi xu	138
+鱼腥草	yu xing cao	181
+预知子	yu zhi zi	240
+玉竹	yu zhu	383
+远志	yuan zhi	381
+月季花	yue ji hua	137
+皂角刺	zao jiao ci	85
+泽兰	ze lan	180
+泽泻	ze xie	379
+浙贝母	zhe bei mu	378
+珍珠母	zhen zhu mu	35
+制巴戟天	zhi ba ji tian	518
+制白附子	zhi bai fu zi	517
+制草乌	zhi cao wu	491
+制川乌	zhi chuan wu	485
+炙甘草	zhi gan cao	463
+制何首乌	zhi he shou wu	455
+炙黄芪	zhi huang qi	449
+枳椇子	zhi ju zi	238
+枳壳	zhi ke	237
+炙没药	zhi mei yao	97
+知母	zhi mu	377
+炙乳香	zhi ru xiang	94
+制天南星	zhi tian nan xing	399
+制吴茱萸	zhi wu zhu yu	250
+炙淫羊藿	zhi yin yang huo	182
+制远志	zhi yuan zhi	380
+肿节风	zhong jie feng	179
+猪苓	zhu ling	74
+苎麻根	zhu ma gen	376
+竹茹	zhu ru	84
+猪牙皂	zhu ya zao	234
+紫草	zi cao	375
+紫河车	zi he che	33
+紫花地丁	zi hua di ding	178
+紫苏梗	zi su geng	177
+紫苏叶	zi su ye	136
+棕榈炭	zong lv tan	111

@@ -1,0 +1,449 @@
+# 词库名称: maya
+# 词库分类: 个人专用
+# 词库描述: maya中英对照表
+# 词条样例: 文件、导出所有、编辑当前项目、指定当前项目、编辑、重复最后一次操作
+# 解析词数: 442
+# 解析异常: 0
+
+把手尺寸	ba shou chi cun	315
+绑定蒙皮	bang ding meng pi	85
+帮助行	bang zhu xing	242
+保持皮肤组	bao chi pi fu zu	83
+保存布局	bao cun bu ju	273
+保存设置	bao cun she zhi	249
+保留边线	bao liu bian xian	167
+保留当前帧	bao liu dang qian zhen	129
+背面	bei mian	338
+比例修改工具	bi li xiu gai gong ju	360
+笔曲线工具	bi qu xian gong ju	224
+编辑	bian ji	427
+编辑布局	bian ji bu ju	263
+编辑成员工具	bian ji cheng yuan gong ju	109
+编辑当前项目	bian ji dang qian xiang mu	430
+编辑点	bian ji dian	329
+编辑器	bian ji qi	305
+编辑曲面	bian ji qu mian	194
+编辑旋转	bian ji xuan zhuan	91
+边界	bian jie	201
+边框质量	bian kuang zhi liang	324
+变形	bian xing	391
+变形成员	bian xing cheng yuan	108
+变形工具	bian xing gong ju	366
+表达式	biao da shi	410
+表达式编辑器	biao da shi bian ji qi	287
+标记菜单	biao ji cai dan	252
+播放预览	bo fang yu lan	285
+布林材质	bu lin cai zhi	61
+裁剪关键帧	cai jian guan jian zhen	422
+裁剪纹理	cai jian wen li	152
+材质	cai zhi	62
+参数工具	can shu gong ju	343
+测量	ce liang	345
+测试分辨率	ce shi fen bian lv	51
+层编辑器	ceng bian ji qi	384
+插入节点	cha ru jie dian	215
+场连接	chang lian jie	10
+超图形	chao tu xing	289
+车削	che xiao	403
+车削点	che xiao dian	337
+车削形	che xiao xing	336
+撤消修整	che xiao xiu zheng	190
+成组	cheng zu	372
+重复上次渲染	chong fu shang ci xuan ran	52
+重复最后一次操作	chong fu zui hou yi ci cao zuo	424
+重建曲面	chong jian qu mian	189
+重建曲线	chong jian qu xian	217
+重新连接骨骼	chong xin lian jie gu ge	80
+重新连接关节	chong xin lian jie guan jie	79
+重新设置变形控制	chong xin she zhi bian xing kong zhi	356
+重新设置根关节	chong xin she zhi gen guan jie	119
+重置	chong zhi	94
+重置旋转	chong zhi xuan zhuan	90
+初始粒子系统	chu shi li zi xi tong	58
+初始阴影组	chu shi yin ying zu	57
+初始状态	chu shi zhuang tai	44
+传播法向	chuan bo fa xiang	160
+创建点光源	chuang jian dian guang yuan	69
+创建动力场	chuang jian dong li chang	22
+创建多边形工具	chuang jian duo bian xing gong ju	177
+创建多边形物体	chuang jian duo bian xing wu ti	232
+创建发射器	chuang jian fa she qi	28
+创建方向灯	chuang jian fang xiang deng	70
+创建负刚体	chuang jian fu gang ti	5
+创建辐射动力场	chuang jian fu she dong li chang	20
+创建环境光	chuang jian huan jing guang	71
+创建聚光灯	chuang jian ju guang deng	68
+创建空气动力场	chuang jian kong qi dong li chang	24
+创建牛顿场	chuang jian niu dun chang	21
+创建屈肌	chuang jian qu ji	78
+创建曲线	chuang jian qu xian	226
+创建柔体	chuang jian rou ti	3
+创建弹簧	chuang jian tan huang	2
+创建统一场	chuang jian tong yi chang	18
+创建拖动场	chuang jian tuo dong chang	23
+创建文本	chuang jian wen ben	230
+创建涡流场	chuang jian wo liu chang	17
+创建阴影组	chuang jian yin ying zu	64
+创建约束物体	chuang jian yue shu wu ti	4
+创建照相机	chuang jian zhao xiang ji	227
+创建震荡场	chuang jian zhen dang chang	19
+创建正刚体	chuang jian zheng gang ti	6
+创建指示器	chuang jian zhi shi qi	229
+窗口	chuang kou	314
+簇变形	cu bian xing	107
+存盘场景	cun pan chang jing	439
+打开场景	da kai chang jing	440
+打开关闭曲面	da kai guan bi qu mian	180
+打开关闭曲线	da kai guan bi qu xian	211
+带状曲线	dai zhuang qu xian	218
+单透视图	dan tou shi tu	272
+单图	dan tu	276
+当前命令	dang qian ming ling	286
+当前设置	dang qian she zhi	43
+导出所有	dao chu suo you	436
+导出选定物体	dao chu xuan ding wu ti	435
+导入	dao ru	437
+倒转法向	dao zhuan fa xiang	161
+灯光	deng guang	400
+灯光链接工具	deng guang lian jie gong ju	66
+底部三分	di bu san fen	279
+点缝合曲面	dian feng he qu mian	187
+雕刻物体	diao ke wu ti	402
+定义前缀	ding yi qian zhui	347
+定制	ding zhi	327
+定制多边形显示	ding zhi duo bian xing xian shi	320
+定制用户界面	ding zhi yong hu jie mian	255
+动画编辑器	dong hua bian ji qi	295
+动画快照	dong hua kuai zhao	341
+动画模块	dong hua mo kuai	143
+冻结变形控制	dong jie bian xing kong zhi	355
+动力学关	dong li xue guan	33
+动力学开	dong li xue kai	34
+动力学控制器	dong li xue kong zhi qi	40
+动力学系统	dong li xue xi tong	45
+动态关系	dong tai guan xi	291
+断开蒙皮	duan kai meng pi	84
+断开曲线	duan kai qu xian	213
+对齐曲线	dui qi qu xian	212
+多边形	duo bian xing	178
+多边形几何体	duo bian xing ji he ti	389
+多边形细化	duo bian xing xi hua	173
+多边形元素	duo bian xing yuan su	321
+多功能渲染控制	duo gong neng xuan ran kong zhi	288
+二叠分	er die fen	278
+二对二工具	er dui er gong ju	199
+二对三工具	er dui san gong ju	198
+二对一工具	er dui yi gong ju	200
+二平分	er ping fen	277
+发射器连接	fa she qi lian jie	9
+法向	fa xiang	162
+反馈栏	fan kui lan	247
+范围滑动棒	fan wei hua dong bang	244
+反向动力学解算器有效	fan xiang dong li xue jie suan qi you xiao	113
+反向动力学句柄捕捉有效	fan xiang dong li xue ju bing bu zhuo you xiao	112
+反向动力学句柄工具	fan xiang dong li xue ju bing gong ju	122
+反向动力学句柄无效	fan xiang dong li xue ju bing wu xiao	110
+反向动力学句柄有效	fan xiang dong li xue ju bing you xiao	111
+反向动力学样条曲线句柄工具	fan xiang dong li xue yang tiao qu xian ju bing gong ju	121
+反转曲面	fan zhuan qu mian	179
+反转曲线	fan zhuan qu xian	210
+方向	fang xiang	73
+放样	fang yang	203
+废弃动画节点	fei qi dong hua jie dian	350
+分离	fen li	149
+分离多边形工具	fen li duo bian xing gong ju	175
+分离骨骼	fen li gu ge	82
+分离选定关节	fen li xuan ding guan jie	81
+缝合工具	feng he gong ju	186
+复制	fu zhi	373
+复制曲线	fu zhi qu xian	209
+改变显示属性	gai bian xian shi shu xing	146
+改名存盘	gai ming cun pan	438
+刚体	gang ti	408
+刚体解算器	gang ti jie suan qi	41
+刚体物体	gang ti wu ti	395
+刚体约束	gang ti yue shu	394
+根据类型删除	gen ju lei xing shan chu	415
+根据类型删除所有	gen ju lei xing shan chu suo you	407
+根据类型选择所有	gen ju lei xing xuan ze suo you	392
+更改层名称	geng gai ceng ming cheng	386
+工具设置	gong ju she zhi	310
+构造历史	gou zao li shi	414
+构造平面	gou zao ping mian	228
+骨骼	gu ge	124
+关闭边界	guan bi bian jie	170
+关键帧	guan jian zhen	423
+关节	guan jie	75
+关节尺寸	guan jie chi cun	316
+关节工具	guan jie gong ju	123
+关系面板	guan xi mian ban	67
+光滑	guang hua	148
+合并工具	he bing gong ju	169
+后退	hou tui	131
+弧度工具	hu du gong ju	342
+缓冲当前帧	huan chong dang qian zhen	36
+恢复骨头绑定	hui fu gu tou bang ding	76
+恢复上一次操作	hui fu shang yi ci cao zuo	425
+恢复旋转	hui fu xuan zhuan	89
+混合变形	hun he bian xing	101
+混合变形编辑	hun he bian xing bian ji	100
+基本物体	ji ben wu ti	238
+几何体	ji he ti	390
+激活构造物	ji huo gou zao wu	349
+加点工具	jia dian gong ju	223
+夹具式	jia ju shi	138
+建立父物体	jian li fu wu ti	369
+建立空成组	jian li kong cheng zu	370
+建立新层	jian li xin ceng	387
+建立新场景	jian li xin chang jing	441
+建立新项目	jian li xin xiang mu	431
+建模系统	jian mo xi tong	239
+交换	jiao huan	98
+解成组	jie cheng zu	371
+解除当前设定	jie chu dang qian she ding	144
+解除父物体	jie chu fu wu ti	368
+解除连接关节	jie chu lian jie guan jie	117
+解除临时层	jie chu lin shi ceng	376
+仅显示视图面板	jin xian shi shi tu mian ban	241
+精细质量	jing xi zhi liang	322
+镜向关节	jing xiang guan jie	115
+静帧通道	jing zhen tong dao	412
+局部旋转轴	ju bu xuan zhuan zhou	335
+距离工具	ju li gong ju	344
+拷贝关键帧	kao bei guan jian zhen	421
+可控点	ke kong dian	328
+可选项	ke xuan xiang	258
+快捷键	kuai jie jian	254
+快速交错显示	kuai su jiao cuo xian shi	319
+快速选择集	kuai su xuan ze ji	388
+快照	kuai zhao	351
+框架	kuang jia	290
+扩展曲线	kuo zhan qu xian	216
+朗伯材质	lang bo cai zhi	63
+立方体	li fang ti	236
+粒子	li zi	396
+粒子爆炸	li zi bao zha	39
+粒子工具	li zi gong ju	29
+粒子缓冲	li zi huan chong	38
+联合	lian he	150
+连接	lian jie	405
+连接编辑器	lian jie bian ji qi	307
+连接关节	lian jie guan jie	116
+连接曲线	lian jie qu xian	214
+临时层	lin shi ceng	377
+临时非活动层	lin shi fei huo dong ceng	374
+路径	lu jing	128
+滤镜动作编辑器	lv jing dong zuo bian ji qi	309
+滤镜管理器	lv jing guan li qi	303
+面板	mian ban	250
+面包圈	mian bao quan	231
+面修整工具	mian xiu zheng gong ju	163
+面转点	mian zhuan dian	172
+命令窗口	ming ling chuang kou	304
+命令行	ming ling hang	243
+模拟复制	mo ni fu zhi	417
+默认调节器	mo ren tiao jie qi	361
+目标	mu biao	74
+逆向运动控制柄	ni xiang yun dong kong zhi bing	404
+逆向运动连接器	ni xiang yun dong lian jie qi	352
+碰撞连接	peng zhuang lian jie	8
+皮肤	pi fu	86
+批渲染	pi xuan ran	48
+平面贴图	ping mian tie tu	156
+平面物体	ping mian wu ti	233
+平坦式	ping tan shi	136
+破碎	po sui	166
+其他材质	qi ta cai zhi	60
+其他形式	qi ta xing shi	135
+前次安排	qian ci an pai	275
+前移	qian yi	132
+球体	qiu ti	237
+球体贴图	qiu ti tie tu	154
+去除关节	qu chu guan jie	118
+曲面	qu mian	206
+曲面对齐	qu mian dui qi	181
+曲面分离	qu mian fen li	182
+曲面光滑处理	qu mian guang hua chu li	326
+曲面交叉	qu mian jiao cha	193
+曲面结合	qu mian jie he	183
+曲线	qu xian	330
+曲线编辑工具	qu xian bian ji gong ju	222
+曲线工具	qu xian gong ju	225
+曲线切线调整	qu xian qie xian tiao zheng	219
+曲线移动	qu xian yi dong	221
+曲线在表面移动	qu xian zai biao mian yi dong	220
+取消批渲染	qu xiao pi xuan ran	47
+取消上一次操作	qu xiao shang yi ci cao zuo	426
+融合形	rong he xing	293
+柔化硬化	rou hua ying hua	171
+柔体和刚体	rou ti he gang ti	7
+三角分裂	san jiao fen lie	165
+删除	shan chu	416
+删除关键帧	shan chu guan jian zhen	419
+删除和清除	shan chu he qing chu	168
+删除贴图	shan chu tie tu	153
+上三分	shang san fen	282
+设备编辑器	she bei bian ji qi	292
+设置	she zhi	133
+设置参考角	she zhi can kao jiao	114
+设置关键帧	she zhi guan jian zhen	142
+设置路径关键帧	she zhi lu jing guan jian zhen	127
+设置驱动关键帧	she zhi qu dong guan jian zhen	134
+设置所有粒子	she zhi suo you li zi	32
+设置选定粒子	she zhi xuan ding li zi	35
+设置帧	she zhi zhen	130
+设置正向正	she zhi zheng xiang zheng	1
+设置总体动力学特性	she zhi zong ti dong li xue te xing	42
+声音	sheng yin	317
+时间滑动棒	shi jian hua dong bang	245
+适配贝塔曲线	shi pei bei ta qu xian	207
+视图安排	shi tu an pai	284
+授权动画节点	shou quan dong hua jie dian	354
+书架	shu jia	251
+属性编辑器	shu xing bian ji qi	311
+四边形合并	si bian xing he bing	164
+四分	si fen	283
+四分图	si fen tu	271
+缩放	suo fang	72
+缩放工具	suo fang gong ju	363
+缩放关键帧	suo fang guan jian zhen	418
+缩放枢轴点	suo fang shu zhou dian	333
+缩放限制工具	suo fang xian zhi gong ju	357
+所有	suo you	353
+所有视图的所有帧	suo you shi tu de suo you zhen	261
+所有视图选定帧	suo you shi tu xuan ding zhen	262
+台阶式	tai jie shi	137
+添加关节工具	tian jia guan jie gong ju	120
+添加元素	tian jia yuan su	184
+通道	tong dao	413
+通道控制信息	tong dao kong zhi xin xi	308
+通道面板	tong dao mian ban	246
+统一法向	tong yi fa xiang	159
+通用编辑器	tong yong bian ji qi	313
+透视多功能	tou shi duo gong neng	267
+透视多功能轮廓	tou shi duo gong neng lun kuo	268
+透视多功能渲染	tou shi duo gong neng xuan ran	269
+透视轮廓	tou shi lun kuo	266
+透视图形	tou shi tu xing	265
+透视图形超图形	tou shi tu xing chao tu xing	270
+透视组编辑器	tou shi zu bian ji qi	264
+投影曲线	tou ying qu xian	192
+凸出	tu chu	204
+图像板	tu xiang ban	398
+图形编辑器	tu xing bian ji qi	294
+退出	tui chu	428
+网格	wang ge	401
+网格编辑	wang ge bian ji	96
+网格化变形	wang ge hua bian xing	104
+网格化工具	wang ge hua gong ju	97
+网线定位器	wang xian ding wei qi	93
+未用变形	wei yong bian xing	406
+文件	wen jian	442
+纹理位移工具	wen li wei yi gong ju	55
+物体跟随路径	wu ti gen sui lu jing	125
+物体外壳	wu ti wai ke	325
+系统设置编辑器	xi tong she zhi bian ji qi	312
+下次安排	xia ci an pai	274
+线点造型	xian dian zao xing	102
+显示	xian shi	339
+显示层	xian shi ceng	379
+显示批渲染	xian shi pi xuan ran	46
+显示手动工具	xian shi shou dong gong ju	362
+显示所有层	xian shi suo you ceng	378
+显示所有面板	xian shi suo you mian ban	240
+显示中间物体	xian shi zhong jian wu ti	88
+项目	xiang mu	432
+斜角	xie jiao	205
+斜角融合工具	xie jiao rong he gong ju	195
+斜拉纹理	xie la wen li	151
+性能设置	xing neng she zhi	306
+修改	xiu gai	367
+修整曲线工具	xiu zheng qu xian gong ju	191
+选定句柄	xuan ding ju bing	332
+选定限定工具	xuan ding xian ding gong ju	147
+渲染	xuan ran	54
+渲染编辑器	xuan ran bian ji qi	302
+渲染标记	xuan ran biao ji	301
+渲染视图	xuan ran shi tu	299
+渲染至新窗口	xuan ran zhi xin chuang kou	53
+选择层上所有物体	xuan ze ceng shang suo you wu ti	382
+选择所有	xuan ze suo you	393
+旋转	xuan zhuan	202
+旋转变形	xuan zhuan bian xing	106
+旋转工具	xuan zhuan gong ju	364
+旋转枢轴点	xuan zhuan shu zhou dian	334
+旋转限制工具	xuan zhuan xian zhi gong ju	358
+颜色	yan se	253
+样条曲线式	yang tiao qu xian shi	140
+一般设置	yi ban she zhi	257
+一般渲染	yi ban xuan ran	49
+移动窗口向前	yi dong chuang kou xiang qian	259
+移动工具	yi dong gong ju	365
+移动限制工具	yi dong xian zhi gong ju	359
+移动元素	yi dong yuan su	174
+移去当前层	yi qu dang qian ceng	385
+隐藏层	yin cang ceng	381
+隐藏非活动层	yin cang fei huo dong ceng	375
+隐藏所有层	yin cang suo you ceng	380
+隐藏中间物体	yin cang zhong jian wu ti	87
+引入场景编辑器	yin ru chang jing bian ji qi	433
+引入场景文件	yin ru chang jing wen jian	434
+阴影	yin ying	65
+阴影组编辑器	yin ying zu bian ji qi	298
+阴影组工具	yin ying zu gong ju	56
+阴影组和材质	yin ying zu he cai zhi	397
+阴影组属性	yin ying zu shu xing	296
+硬化曲线	ying hua qu xian	208
+硬件渲染缓冲区	ying jian xuan ran huan chong qu	300
+用户界面设置	yong hu jie mian she zhi	256
+由动画曲线创建几何体曲面	you dong hua qu xian chuang jian ji he ti qu mian	340
+右三分	you san fen	280
+圆边斜角	yuan bian xie jiao	197
+元素	yuan su	331
+圆台锥体	yuan tai zhui ti	234
+圆柱体	yuan zhu ti	235
+圆柱体贴图	yuan zhu ti tie tu	155
+约束	yue shu	409
+运动路径	yun dong lu jing	411
+再指定骨头关节	zai zhi ding gu tou guan jie	77
+造型	zao xing	103
+造型变形	zao xing bian xing	105
+增加	zeng jia	99
+增加定位曲线	zeng jia ding wei qu xian	95
+增加发射器	zeng jia fa she qi	27
+增加辐射场	zeng jia fu she chang	14
+增加空气动力场	zeng jia kong qi dong li chang	16
+增加目标	zeng jia mu biao	25
+增加牛顿场	zeng jia niu dun chang	15
+增加碰撞	zeng jia peng zhuang	26
+增加属性	zeng jia shu xing	346
+增加统一场	zeng jia tong yi chang	12
+增加涡流场	zeng jia wo liu chang	11
+增加震荡场	zeng jia zhen dang chang	13
+粘贴关键帧	zhan tie guan jian zhen	420
+照相机	zhao xiang ji	399
+照相机灯光操作器	zhao xiang ji deng guang cao zuo qi	318
+照相机面板	zhao xiang ji mian ban	50
+褶绉变形工具	zhe zhou bian xing gong ju	92
+质地	zhi di	158
+质地视图	zhi di shi tu	297
+指定当前项目	zhi ding dang qian xiang mu	429
+指定路径	zhi ding lu jing	126
+指定投影	zhi ding tou ying	157
+指定阴影组	zhi ding yin ying zu	59
+直线式	zhi xian shi	139
+执行缓冲	zhi xing huan chong	37
+执行时粒子系统开	zhi xing shi li zi xi tong kai	31
+置中枢轴点	zhi zhong shu zhou dian	348
+中等质量	zhong deng zhi liang	323
+转化为层	zhuan hua wei ceng	383
+转化为多边形	zhuan hua wei duo bian xing	185
+转化选定	zhuan hua xuan ding	145
+状态栏	zhuang tai lan	248
+追加多边形	zhui jia duo bian xing	176
+准备缝合	zhun bei feng he	188
+自动创建刚体	zi dong chuang jian gang ti	30
+自动设置关键帧	zi dong she zhi guan jian zhen	141
+自由形斜角	zi you xing xie jiao	196
+最小化应用	zui xiao hua ying yong	260
+左三分	zuo san fen	281
