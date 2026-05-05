@@ -1,0 +1,938 @@
+# 词库名称: 城市信息(乐东)
+# 词库分类: 海南
+# 词库描述: 包含城市公交、交通措施、购物、餐饮、楼盘等各种信息
+# 词条样例: 安镇中心小学、岸上、昂发、昂浪、昂落
+# 解析词数: 931
+# 解析异常: 0
+
+岸上	an shang	931
+安镇中心小学	an zhen zhong xin xiao xue	931
+昂发	ang fa	931
+昂落	ang la	931
+昂浪	ang lang	931
+昂落	ang luo	931
+昂外村农场	ang wai cun nong chang	931
+昂翁	ang weng	931
+昂兴水库	ang xing shui ku	931
+巴灯	ba deng	931
+白脚村	bai jiao cun	931
+白井村	bai jing cun	931
+白井村农场	bai jing cun nong chang	931
+百漫山	bai man shan	931
+白毛羊	bai mao yang	931
+白面公	bai mian gong	931
+白沙村	bai sha cun	931
+白沙大桥	bai sha da qiao	931
+白沙港	bai sha gang	931
+白沙铁路工区	bai sha tie lu gong qu	931
+白石岭	bai shi ling	931
+保办村	bao ban cun	931
+抱班村	bao ban cun	931
+保本	bao ben	931
+抱本小学	bao ben xiao xue	931
+抱本中学	bao ben zhong xue	931
+保边	bao bian	931
+保冲	bao chong	931
+抱串村	bao chuan cun	931
+保定村	bao ding cun	931
+抱定水库	bao ding shui ku	931
+抱定田	bao ding tian	931
+保定五队	bao ding wu dui	931
+保定小学	bao ding xiao xue	931
+抱洞	bao dong	931
+抱二村	bao er cun	931
+抱二村农场	bao er cun nong chang	931
+保芬	bao fen	931
+抱告小学	bao gao xiao xue	931
+保国农场二十队	bao guo nong chang er shi dui	931
+保国农场十八队	bao guo nong chang shi ba dui	931
+保国农场十九队	bao guo nong chang shi jiu dui	931
+保国农场中小学	bao guo nong chang zhong xiao xue	931
+保国派出所	bao guo pai chu suo	931
+保国卫生院	bao guo wei sheng yuan	931
+报刊亭	bao kan ting	931
+保考田	bao kao tian	931
+抱孔洋	bao kong yang	931
+抱郎村农场	bao lang cun nong chang	931
+抱隆村农场	bao long cun nong chang	931
+抱伦村	bao lun cun	931
+抱伦村农场	bao lun cun nong chang	931
+抱伦农场	bao lun nong chang	931
+抱伦农场二队	bao lun nong chang er dui	931
+抱伦农场七队	bao lun nong chang qi dui	931
+抱伦农场三队	bao lun nong chang san dui	931
+包伦农场养牛班	bao lun nong chang yang niu ban	931
+抱伦农场养猪场	bao lun nong chang yang zhu chang	931
+抱伦农场一队	bao lun nong chang yi dui	931
+报罗村	bao luo cun	931
+保慢	bao man	931
+保派村	bao pai cun	931
+保派村农场	bao pai cun nong chang	931
+抱平	bao ping	931
+抱平村	bao ping cun	931
+抱浅	bao qian	931
+抱青	bao qing	931
+抱青小学	bao qing xiao xue	931
+保丘	bao qiu	931
+抱邱	bao qiu	931
+抱邱村	bao qiu cun	931
+抱邱老村	bao qiu lao cun	931
+抱趣	bao qu	931
+保散苗村	bao san miao cun	931
+抱善村	bao shan cun	931
+抱善村农场	bao shan cun nong chang	931
+抱善新村	bao shan xin cun	931
+抱塘	bao tang	931
+保通	bao tong	931
+抱头	bao tou	931
+保土	bao tu	931
+保脱村	bao tuo cun	931
+保脱逸夫小学	bao tuo yi fu xiao xue	931
+抱湾村	bao wan cun	931
+抱湾村经济场	bao wan cun jing ji chang	931
+抱温	bao wen	931
+保显管养所	bao xian guan yang suo	931
+保显农场	bao xian nong chang	931
+保显农场八队	bao xian nong chang ba dui	931
+保显农场九队	bao xian nong chang jiu dui	931
+保显农场六队	bao xian nong chang liu dui	931
+保显农场七队	bao xian nong chang qi dui	931
+保显农场三队	bao xian nong chang san dui	931
+保显农场十队	bao xian nong chang shi dui	931
+保显农场十二队	bao xian nong chang shi er dui	931
+保显农场十三队	bao xian nong chang shi san dui	931
+保显农场十四队	bao xian nong chang shi si dui	931
+保显农场十五队	bao xian nong chang shi wu dui	931
+保显农场四队	bao xian nong chang si dui	931
+保显农场五队	bao xian nong chang wu dui	931
+保显农场畜牧队	bao xian nong chang xu mu dui	931
+保显农场一队	bao xian nong chang yi dui	931
+抱新村	bao xin cun	931
+抱新村农场	bao xin cun nong chang	931
+抱荀村	bao xun cun	931
+保雅	bao ya	931
+保雅村	bao ya cun	931
+保雅老村	bao ya lao cun	931
+保雅新村	bao ya xin cun	931
+抱一村	bao yi cun	931
+抱一村农场	bao yi cun nong chang	931
+抱由村农场	bao you cun nong chang	931
+抱由镇番豆小学	bao you zhen fan dou xiao xue	931
+抱由镇牧场	bao you zhen mu chang	931
+抱由镇农场	bao you zhen nong chang	931
+抱由镇番豆小学	bao you zhen pan dou xiao xue	931
+抱由中心学校	bao you zhong xin xue xiao	931
+北边沟桥	bei bian gou qiao	931
+崩塘园	beng tang yuan	931
+槟榔村	bing lang cun	931
+槟榔岭	bing lang ling	931
+槟榔桥	bing lang qiao	931
+长安村	chang an cun	931
+昌化江	chang hua jiang	931
+长坑	chang keng	931
+长岭	chang ling	931
+昌隆乳羊店	chang long ru yang dian	931
+长茅水库管理所	chang mao shui ku guan li suo	931
+长茅水库西渠	chang mao shui ku xi qu	931
+长青小学	chang qing xiao xue	931
+长沙小学	chang sha xiao xue	931
+长田	chang tian	931
+长兴	chang xing	931
+常云坡	chang yun po	931
+朝辉桥	chao hui qiao	931
+朝琼	chao qiong	931
+潮兴隆酒家	chao xing long jiu jia	931
+车站吸水所	che zhan xi shui suo	931
+陈考村	chen kao cun	931
+陈考水库	chen kao shui ku	931
+陈考水库管理所	chen kao shui ku guan li suo	931
+陈拉卡	chen la ka	931
+陈仲	chen zhong	931
+成栋村	cheng dong cun	931
+赤公村	chi gong cun	931
+赤公村农场	chi gong cun nong chang	931
+赤公小学	chi gong xiao xue	931
+赤龙村	chi long cun	931
+赤龙村农场	chi long cun nong chang	931
+赤律田	chi lv tian	931
+赤命村	chi ming cun	931
+赤命村胶场	chi ming cun jiao chang	931
+赤命小学	chi ming xiao xue	931
+赤隋	chi sui	931
+赤塘	chi tang	931
+赤塘村	chi tang cun	931
+赤塘村农场	chi tang cun nong chang	931
+赤塘学校	chi tang xue xiao	931
+赤桃	chi tao	931
+冲辟	chong bi	931
+冲辟	chong pi	931
+冲坡村农场	chong po cun nong chang	931
+冲坡邮政局	chong po you zheng ju	931
+冲坡镇	chong po zhen	931
+冲坡镇采伐场	chong po zhen cai fa chang	931
+冲坡镇农场	chong po zhen nong chang	931
+冲坡镇中心小学	chong po zhen zhong xin xiao xue	931
+冲坡中心卫生院	chong po zhong xin wei sheng yuan	931
+冲坡中学	chong po zhong xue	931
+冲前	chong qian	931
+冲荣	chong rong	931
+冲同村	chong tong cun	931
+冲头村	chong tou cun	931
+出入口	chu ru kou	931
+丛龙	cong long	931
+丛龙苗村	cong long miao cun	931
+从南	cong nan	931
+村后坡	cun hou po	931
+大安村	da an cun	931
+大安军民中学	da an jun min zhong xue	931
+大安水库	da an shui ku	931
+大安水库管理所	da an shui ku guan li suo	931
+大安卫生院	da an wei sheng yuan	931
+大安乡	da an xiang	931
+大安乡农场	da an xiang nong chang	931
+大安乡农科站	da an xiang nong ke zhan	931
+大安镇政府	da an zhen zheng fu	931
+大共	da gong	931
+大凯营林队	da kai ying lin dui	931
+大凯营林二队	da kai ying lin er dui	931
+大岭	da ling	931
+大命	da ming	931
+大难村	da nan cun	931
+大欧	da ou	931
+大炮村良种场	da pao cun liang zhong chang	931
+大炮村农场	da pao cun nong chang	931
+大台村	da tai cun	931
+大园	da yuan	931
+大众	da zhong	931
+代代红幼儿园	dai dai hong you er yuan	931
+呆公	dai gong	931
+丹村	dan cun	931
+丹村港	dan cun gang	931
+单调	dan diao	931
+道德	dao de	931
+盗公村	dao gong cun	931
+道汉	dao han	931
+岛号	dao hao	931
+道教	dao jiao	931
+道介村	dao jie cun	931
+道孔	dao kong	931
+道林	dao lin	931
+道龙村	dao long cun	931
+德土	de tu	931
+德霞村	de xia cun	931
+德崖村	de ya cun	931
+登司	deng si	931
+吊丁岭	diao ding ling	931
+丁羊园	ding yang yuan	931
+东孔村	dong kong cun	931
+东孔村农场	dong kong cun nong chang	931
+东孔小学	dong kong xiao xue	931
+斗丁山	dou ding shan	931
+豆角田	dou jiao tian	931
+独岭	du ling	931
+多二村	duo er cun	931
+多建村农场	duo jian cun nong chang	931
+多建小学	duo jian xiao xue	931
+多能小学	duo neng xiao xue	931
+多穴田	duo xue tian	931
+峨背岭	e bei ling	931
+俄英田	e ying tian	931
+番豆村	fan dou cun	931
+番豆桥	fan dou qiao	931
+番目	fan mu	931
+凡塔村	fan ta cun	931
+飞凤岭	fei feng ling	931
+分界岭	fen jie ling	931
+奋赛村	fen sai cun	931
+分水岭	fen shui ling	931
+奋跃村	fen yue cun	931
+凤山村农场	feng shan cun nong chang	931
+丰塘村农场	feng tang cun nong chang	931
+凤田村	feng tian cun	931
+风头村	feng tou cun	931
+佛老村	fo lao cun	931
+佛老村农场	fo lao cun nong chang	931
+佛老小学	fo lao xiao xue	931
+佛罗工区	fo luo gong qu	931
+佛罗林场	fo luo lin chang	931
+佛罗卫生院	fo luo wei sheng yuan	931
+佛罗镇	fo luo zhen	931
+佛罗镇农场	fo luo zhen nong chang	931
+佛罗中心小学	fo luo zhong xin xiao xue	931
+佛罗中学	fo luo zhong xue	931
+福报村农场	fu bao cun nong chang	931
+福报农场	fu bao nong chang	931
+福报农场八队	fu bao nong chang ba dui	931
+福报农场打砖排	fu bao nong chang da zhuan pai	931
+福报农场伐木队	fu bao nong chang fa mu dui	931
+福报农场九队	fu bao nong chang jiu dui	931
+福报农场三队	fu bao nong chang san dui	931
+福报农场十三队	fu bao nong chang shi san dui	931
+福报农场十四队	fu bao nong chang shi si dui	931
+福报农场十一队	fu bao nong chang shi yi dui	931
+福报农场畜牧队	fu bao nong chang xu mu dui	931
+福报农场中学	fu bao nong chang zhong xue	931
+福报镇农场	fu bao zhen nong chang	931
+佛罗工区	fu luo gong qu	931
+佛罗林场	fu luo lin chang	931
+佛罗卫生院	fu luo wei sheng yuan	931
+佛罗镇	fu luo zhen	931
+佛罗镇农场	fu luo zhen nong chang	931
+佛罗中心小学	fu luo zhong xin xiao xue	931
+佛罗中学	fu luo zhong xue	931
+浮浅	fu qian	931
+浮肉岭	fu rou ling	931
+乾言	gan yan	931
+赶英	gan ying	931
+高道村	gao dao cun	931
+高岗	gao gang	931
+高级池	gao ji chi	931
+高土	gao tu	931
+高园	gao yuan	931
+高园村	gao yuan cun	931
+告状	gao zhuang	931
+哥分岭	ge fen ling	931
+个扬	ge yang	931
+公保	gong bao	931
+工行黄流分理处	gong hang huang liu fen li chu	931
+工行利国分理处	gong hang li guo fen li chu	931
+公后	gong hou	931
+公子室	gong zi shi	931
+沟子门	gou zi men	931
+谷姑枝	gu gu zhi	931
+古井园	gu jing yuan	931
+骨武	gu wu	931
+官安村腰果场	guan an cun yao guo chang	931
+官安大队腰果场	guan an da dui yao guo chang	931
+官村	guan cun	931
+官村小学	guan cun xiao xue	931
+广班	guang ban	931
+光明村	guang ming cun	931
+广园坡	guang yuan po	931
+国强村农场	guo qiang cun nong chang	931
+海滨村	hai bin cun	931
+海垦乐中医院	hai ken le zhong yi yuan	931
+海垦乐中医院	hai ken yue zhong yi yuan	931
+海南超才学校	hai nan chao cai xue xiao	931
+海榆西线	hai yu xi xian	931
+汉小村农场	han xiao cun nong chang	931
+毫岸	hao an	931
+好八乐	hao ba le	931
+好八乐	hao ba yue	931
+毫辟	hao bi	931
+好共	hao gong	931
+好良岭	hao liang ling	931
+毫弄	hao long	931
+好南努	hao nan nu	931
+毫弄	hao nong	931
+毫辟	hao pi	931
+好球	hao qiu	931
+好顺	hao shun	931
+好通村	hao tong cun	931
+毫子弄	hao zi long	931
+毫子门	hao zi men	931
+毫子弄	hao zi nong	931
+荷口村	he kou cun	931
+荷口村农场	he kou cun nong chang	931
+荷口小学	he kou xiao xue	931
+黑眉村	hei mei cun	931
+黑眉岭	hei mei ling	931
+黑眉水库	hei mei shui ku	931
+黑眉小学	hei mei xiao xue	931
+黑木头	hei mu tou	931
+黑石	hei shi	931
+亨安宾馆	heng an bin guan	931
+横保村	heng bao cun	931
+横岭	heng ling	931
+恒鑫宾馆	heng xin bin guan	931
+红湖村	hong hu cun	931
+洪帽	hong mao	931
+红毛	hong mao	931
+红门老村	hong men lao cun	931
+红门小学	hong men xiao xue	931
+红门新村	hong men xin cun	931
+红门养路一班	hong men yang lu yi ban	931
+红内	hong nei	931
+红水村	hong shui cun	931
+红五村	hong wu cun	931
+红五村农场	hong wu cun nong chang	931
+红五小学	hong wu xiao xue	931
+红霞	hong xia	931
+后丛克	hou cong ke	931
+侯沟水	hou gou shui	931
+后号	hou hao	931
+后力岭	hou li ling	931
+后龙	hou long	931
+后伦	hou lun	931
+后美	hou mei	931
+后台	hou tai	931
+后物村	hou wu cun	931
+后物村农场	hou wu cun nong chang	931
+后物田	hou wu tian	931
+后营	hou ying	931
+后友	hou you	931
+后由	hou you	931
+后友山	hou you shan	931
+虎鼻	hu bi	931
+槐村	huai cun	931
+槐脚	huai jiao	931
+槐童田	huai tong tian	931
+黄加	huang jia	931
+黄金宾馆	huang jin bin guan	931
+皇丽超市	huang li chao shi	931
+黄流边防派出所	huang liu bian fang pai chu suo	931
+黄流车站	huang liu che zhan	931
+黄流村	huang liu cun	931
+黄流二中	huang liu er zhong	931
+黄流桥	huang liu qiao	931
+黄流人民法庭	huang liu ren min fa ting	931
+黄流税务所	huang liu shui wu suo	931
+黄流站	huang liu zhan	931
+黄流镇	huang liu zhen	931
+黄流镇农场	huang liu zhen nong chang	931
+黄流镇农场分场	huang liu zhen nong chang fen chang	931
+黄流镇农科站	huang liu zhen nong ke zhan	931
+黄流镇腰果场	huang liu zhen yao guo chang	931
+黄流镇政府	huang liu zhen zheng fu	931
+黄流中心小学	huang liu zhong xin xiao xue	931
+黄流中学	huang liu zhong xue	931
+黄流中学东	huang liu zhong xue dong	931
+黄流中学西	huang liu zhong xue xi	931
+黄三村农场	huang san cun nong chang	931
+黄一村牧场	huang yi cun mu chang	931
+黄一村农场	huang yi cun nong chang	931
+活罗多	huo luo duo	931
+机关幼儿园	ji guan you er yuan	931
+鸡龙桥	ji long qiao	931
+吉祥路	ji xiang lu	931
+集中园	ji zhong yuan	931
+加巴村农场	jia ba cun nong chang	931
+加代	jia dai	931
+佳西	jia xi	931
+佳西村	jia xi cun	931
+佳西村农场	jia xi cun nong chang	931
+尖峰	jian feng	931
+尖峰村	jian feng cun	931
+尖峰村农场	jian feng cun nong chang	931
+尖峰服务区	jian feng fu wu qu	931
+尖峰岭	jian feng ling	931
+尖峰门	jian feng men	931
+尖峰卫生院	jian feng wei sheng yuan	931
+尖峰一桥	jian feng yi qiao	931
+尖峰镇	jian feng zhen	931
+尖峰镇农场	jian feng zhen nong chang	931
+尖峰镇畜牧站	jian feng zhen xu mu zhan	931
+尖峰镇政府	jian feng zhen zheng fu	931
+尖峰中学	jian feng zhong xue	931
+尖岭	jian ling	931
+建筑中沟渠	jian zhu zhong gou qu	931
+脚岭	jiao ling	931
+交通宾馆	jiao tong bin guan	931
+脚项	jiao xiang	931
+脚再	jiao zai	931
+解放村	jie fang cun	931
+解放小学	jie fang xiao xue	931
+金鸡岭	jin ji ling	931
+金江大酒店	jin jiang da jiu dian	931
+金龙大酒店	jin long da jiu dian	931
+金源阁宾馆	jin yuan ge bin guan	931
+金运农机修配店	jin yun nong ji xiu pei dian	931
+九场养路班	jiu chang yang lu ban	931
+九所	jiu suo	931
+九所边防派出所	jiu suo bian fang pai chu suo	931
+九所村农场	jiu suo cun nong chang	931
+九所卫生院	jiu suo wei sheng yuan	931
+九所站	jiu suo zhan	931
+九所镇	jiu suo zhen	931
+九所镇农场	jiu suo zhen nong chang	931
+九所镇农场一队	jiu suo zhen nong chang yi dui	931
+九所镇政府	jiu suo zhen zheng fu	931
+九所中心小学	jiu suo zhong xin xiao xue	931
+九所中学	jiu suo zhong xue	931
+九所中学农场	jiu suo zhong xue nong chang	931
+就业大厦	jiu ye da sha	931
+卡法村	ka fa cun	931
+卡法村农场	ka fa cun nong chang	931
+卡法岭林场	ka fa ling lin chang	931
+卡露	ka lou	931
+卡露	ka lu	931
+开示	kai shi	931
+康宁药店	kang ning yao dian	931
+考应山	kao ying shan	931
+空保	kong bao	931
+孔车	kong che	931
+控化	kong hua	931
+控或村	kong huo cun	931
+控诉	kong su	931
+控天村	kong tian cun	931
+孔头田	kong tou tian	931
+空团	kong tuan	931
+孔脱田	kong tuo tian	931
+孔汶村	kong wen cun	931
+孔汶小学	kong wen xiao xue	931
+孔窝妹	kong wo mei	931
+控银	kong yin	931
+赖元村	lai yuan cun	931
+赖元小学	lai yuan xiao xue	931
+郎益村	lang yi cun	931
+郎益村农场	lang yi cun nong chang	931
+老陈田	lao chen tian	931
+老村	lao cun	931
+老地方羊肉店	lao di fang yang rou dian	931
+老鹅	lao e	931
+老尔	lao er	931
+老关田	lao guan tian	931
+老虎坟	lao hu fen	931
+老吉村	lao ji cun	931
+老吉落	lao ji la	931
+老吉落	lao ji luo	931
+老孔村农场	lao kong cun nong chang	931
+老孔小学	lao kong xiao xue	931
+老岭格	lao ling ge	931
+老刘村	lao liu cun	931
+老罗	lao luo	931
+老欧田	lao ou tian	931
+老邢田	lao xing tian	931
+老周园	lao zhou yuan	931
+乐安路	le an lu	931
+乐才村	le cai cun	931
+乐城派出所	le cheng pai chu suo	931
+乐东	le dong	931
+乐东车站	le dong che zhan	931
+乐东妇幼保健所	le dong fu you bao jian suo	931
+乐东黄流车站	le dong huang liu che zhan	931
+乐东黎族自治县	le dong li zu zi zhi xian	931
+乐东民族中学	le dong min zu zhong xue	931
+乐东县第二小学	le dong xian di er xiao xue	931
+乐东县第一小学	le dong xian di yi xiao xue	931
+乐东县法院	le dong xian fa yuan	931
+乐东县广电中心	le dong xian guang dian zhong xin	931
+乐东县纪检委	le dong xian ji jian wei	931
+乐东县检察院	le dong xian jian cha yuan	931
+乐东县交警大队	le dong xian jiao jing da dui	931
+乐东县经济场	le dong xian jing ji chang	931
+乐东县人大	le dong xian ren da	931
+乐东县人民医院	le dong xian ren min yi yuan	931
+乐东县万冲中学	le dong xian wan chong zhong xue	931
+乐东县委	le dong xian wei	931
+乐东县巡警大队	le dong xian xun jing da dui	931
+乐东县幼儿园	le dong xian you er yuan	931
+乐东县政协	le dong xian zheng xie	931
+乐东县中医院	le dong xian zhong yi yuan	931
+乐东影剧院	le dong ying ju yuan	931
+乐东中学	le dong zhong xue	931
+乐二村农场	le er cun nong chang	931
+乐二小学	le er xiao xue	931
+乐锋农场	le feng nong chang	931
+乐锋农场分场	le feng nong chang fen chang	931
+乐富南路	le fu nan lu	931
+乐光农场二队	le guang nong chang er dui	931
+乐光农场九队	le guang nong chang jiu dui	931
+乐光农场六队	le guang nong chang liu dui	931
+乐光农场十队	le guang nong chang shi dui	931
+乐光农场十二队	le guang nong chang shi er dui	931
+乐光农场十三队	le guang nong chang shi san dui	931
+乐光农场十四队	le guang nong chang shi si dui	931
+乐光农场十一队	le guang nong chang shi yi dui	931
+乐光农场畜牧场	le guang nong chang xu mu chang	931
+乐光农场养鸡场	le guang nong chang yang ji chang	931
+乐光派出所	le guang pai chu suo	931
+乐罗双语幼儿园	le luo shuang yu you er yuan	931
+乐罗卫生院	le luo wei sheng yuan	931
+乐罗镇农场	le luo zhen nong chang	931
+乐罗中学	le luo zhong xue	931
+乐平农场	le ping nong chang	931
+乐强路	le qiang lu	931
+乐怡楼宾馆	le yi lou bin guan	931
+乐中牧场	le zhong mu chang	931
+乐中农场	le zhong nong chang	931
+乐中派出所	le zhong pai chu suo	931
+乐中中学	le zhong zhong xue	931
+力高	li gao	931
+利国百家门业	li guo bai jia men ye	931
+利国派出所	li guo pai chu suo	931
+利国镇政府	li guo zhen zheng fu	931
+利国中学	li guo zhong xue	931
+利民药店	li min yao dian	931
+联合队	lian he dui	931
+联合中学	lian he zhong xue	931
+列子坡	lie zi po	931
+林业局幼儿园	lin ye ju you er yuan	931
+岭头村	ling tou cun	931
+岭头村农场	ling tou cun nong chang	931
+岭头沟桥	ling tou gou qiao	931
+岭头海鲜楼	ling tou hai xian lou	931
+岭头湾	ling tou wan	931
+岭头站	ling tou zhan	931
+六场小学	liu chang xiao xue	931
+龙林村	long lin cun	931
+龙潭	long tan	931
+龙头	long tou	931
+龙牺湾村	long xi wan cun	931
+落马村	luo ma cun	931
+罗恕	luo shu	931
+马咀岭	ma ju ling	931
+马眉	ma mei	931
+马咀岭	ma zui ling	931
+卖牛村	mai niu cun	931
+芒果头	mang guo tou	931
+毛敢	mao gan	931
+茅坡	mao po	931
+茅坡村	mao po cun	931
+茅坡村农场	mao po cun nong chang	931
+毛阳	mao yang	931
+梅东采石场	mei dong cai shi chang	931
+美欣西点蛋糕	mei xin xi dian dan gao	931
+门屋田	men wu tian	931
+苗村	miao cun	931
+木棉村	mu mian cun	931
+木棉头	mu mian tou	931
+母子洞	mu zi dong	931
+那风	na feng	931
+那哥草	na ge cao	931
+那脑	na nao	931
+南仇纳	nan chou na	931
+南浩桥	nan hao qiao	931
+南会	nan hui	931
+南进	nan jin	931
+南郎	nan lang	931
+南路田	nan lu tian	931
+南毛田	nan mao tian	931
+南那孔	nan na kong	931
+南仇纳	nan qiu na	931
+南条园	nan tiao yuan	931
+南万田	nan wan tian	931
+南校	nan xiao	931
+南崖	nan ya	931
+南崖营林队	nan ya ying lin dui	931
+南一养路班	nan yi yang lu ban	931
+南照	nan zhao	931
+南种村	nan zhong cun	931
+内冲	nei chong	931
+牛栏坡	niu lan po	931
+牛泥头	niu ni tou	931
+农场二队	nong chang er dui	931
+农场七队	nong chang qi dui	931
+农场四队	nong chang si dui	931
+农场五队	nong chang wu dui	931
+农行第一分理处	nong hang di yi fen li chu	931
+农垦山荣中学	nong ken shan rong zhong xue	931
+排良	pai liang	931
+排齐村	pai qi cun	931
+排镇村	pai zhen cun	931
+潘柴走	pan chai zou	931
+番豆村	pan dou cun	931
+番豆桥	pan dou qiao	931
+番目	pan mu	931
+盆叭	pen ba	931
+碰车园	peng che yuan	931
+平车道	ping che dao	931
+破考	po kao	931
+坡拉村	po la cun	931
+铺村小学	pu cun xiao xue	931
+七公里道班	qi gong li dao ban	931
+七石	qi shi	931
+前号村	qian hao cun	931
+前号村农场	qian hao cun nong chang	931
+千家村	qian jia cun	931
+千家村农场	qian jia cun nong chang	931
+千家镇	qian jia zhen	931
+千家镇采育场	qian jia zhen cai yu chang	931
+千家镇畜牧场	qian jia zhen xu mu chang	931
+千家镇中心小学	qian jia zhen zhong xin xiao xue	931
+千家中心卫生院	qian jia zhong xin wei sheng yuan	931
+千家中学	qian jia zhong xue	931
+乾言	qian yan	931
+前营	qian ying	931
+桥南路	qiao nan lu	931
+桥西旅馆	qiao xi lv guan	931
+秦标村农场	qin biao cun nong chang	931
+青岭	qing ling	931
+青岭小学	qing ling xiao xue	931
+青岭子	qing ling zi	931
+青山村	qing shan cun	931
+邱文	qiu wen	931
+求雨村	qiu yu cun	931
+曲默田	qu mo tian	931
+人民路	ren min lu	931
+茸鹿	rong lu	931
+茸鹿林场	rong lu lin chang	931
+入口	ru kou	931
+三岔岭	san cha ling	931
+三单	san dan	931
+三间村	san jian cun	931
+三角土	san jiao tu	931
+三平	san ping	931
+三平村农场	san ping cun nong chang	931
+三平卫生院	san ping wei sheng yuan	931
+三平五七大学	san ping wu qi da xue	931
+三平乡	san ping xiang	931
+三曲沟桥	san qu gou qiao	931
+三人村	san ren cun	931
+三社	san she	931
+三社水库	san she shui ku	931
+三鲜饭店	san xian fan dian	931
+三作	san zuo	931
+扫手洋	sao shou yang	931
+扫水道班	sao shui dao ban	931
+杀狗落	sha gou la	931
+杀狗落	sha gou luo	931
+沙模	sha mo	931
+沙模	sha mu	931
+山道村	shan dao cun	931
+山道九队畜牧场	shan dao jiu dui xu mu chang	931
+山道水库	shan dao shui ku	931
+山道小学	shan dao xiao xue	931
+山鸡田	shan ji tian	931
+山明小学	shan ming xiao xue	931
+山荣村	shan rong cun	931
+山荣农场	shan rong nong chang	931
+山荣农场二队	shan rong nong chang er dui	931
+山荣农场副业队	shan rong nong chang fu ye dui	931
+山荣农场九队	shan rong nong chang jiu dui	931
+山荣农场七队	shan rong nong chang qi dui	931
+山荣农场十二队	shan rong nong chang shi er dui	931
+山荣农场十三队	shan rong nong chang shi san dui	931
+山荣农场十一队	shan rong nong chang shi yi dui	931
+山荣农场医院	shan rong nong chang yi yuan	931
+山荣卫生院	shan rong wei sheng yuan	931
+山荣乡	shan rong xiang	931
+山荣乡采伐队	shan rong xiang cai fa dui	931
+山荣乡农场	shan rong xiang nong chang	931
+山荣乡水管站	shan rong xiang shui guan zhan	931
+山荣乡畜牧场	shan rong xiang xu mu chang	931
+山荣一桥	shan rong yi qiao	931
+邵逸夫中学	shao yi fu zhong xue	931
+邵逸夹中学	shao yi jia zhong xue	931
+什傲	shen ao	931
+深滴	shen di	931
+什加巴	shen jia ba	931
+什乐	shen le	931
+什龙	shen long	931
+什玛	shen ma	931
+什鼠田	shen shu tian	931
+什托	shen tuo	931
+什望	shen wang	931
+什文	shen wen	931
+什问	shen wen	931
+什益	shen yi	931
+什应	shen ying	931
+什乐	shen yue	931
+什祝田	shen zhu tian	931
+石坚园	shi jian yuan	931
+石门牧场	shi men mu chang	931
+石门牧场分场	shi men mu chang fen chang	931
+石门水库	shi men shui ku	931
+市民村农场	shi min cun nong chang	931
+十三公里	shi san gong li	931
+十三公里水库	shi san gong li shui ku	931
+十所村农场	shi suo cun nong chang	931
+十所小学	shi suo xiao xue	931
+十五公里养路班	shi wu gong li yang lu ban	931
+莳园	shi yuan	931
+首村	shou cun	931
+瘦岭	shou ling	931
+水翻田	shui fan tian	931
+水桶	shui tong	931
+水桶小学	shui tong xiao xue	931
+顺来	shun lai	931
+四清桥	si qing qiao	931
+四所小学	si suo xiao xue	931
+塔锋	ta feng	931
+塔丰村农场	ta feng cun nong chang	931
+太立桥	tai li qiao	931
+太龙水库	tai long shui ku	931
+太龙水库管理所	tai long shui ku guan li suo	931
+太难	tai nan	931
+谭培村	tan pei cun	931
+塘上	tang shang	931
+塘仔	tang zai	931
+塘仔	tang zi	931
+天池	tian chi	931
+天池营林队	tian chi ying lin dui	931
+田叹	tian tan	931
+田头村	tian tou cun	931
+通汉	tong han	931
+通明	tong ming	931
+头塘桥	tou tang qiao	931
+土龙桥	tu long qiao	931
+万车村	wan che cun	931
+万冲镇	wan chong zhen	931
+万冲镇三柏小学	wan chong zhen san bai xiao xue	931
+万冲镇三柏小学	wan chong zhen san bo xiao xue	931
+万冲中学	wan chong zhong xue	931
+万担岭	wan dan ling	931
+万家惠超市	wan jia hui chao shi	931
+弯岭	wan ling	931
+望老村	wang lao cun	931
+望楼大桥	wang lou da qiao	931
+望楼港小学	wang lou gang xiao xue	931
+望楼学校	wang lou xue xiao	931
+望楼中桥	wang lou zhong qiao	931
+卫生路	wei sheng lu	931
+文保田	wen bao tian	931
+文昌	wen chang	931
+文连	wen lian	931
+文连上村	wen lian shang cun	931
+温仁村	wen ren cun	931
+温仁村农场	wen ren cun nong chang	931
+温仁小学	wen ren xiao xue	931
+文史小学	wen shi xiao xue	931
+翁岭	weng ling	931
+翁毛村	weng mao cun	931
+翁眉	weng mei	931
+翁田村农场	weng tian cun nong chang	931
+卧龙岭	wo long ling	931
+五格	wu ge	931
+五塘坡	wu tang po	931
+乌鸦岭	wu ya ling	931
+熙芳园大酒店	xi fang yuan da jiu dian	931
+西黎	xi li	931
+西笼头	xi long tou	931
+西渠管理所	xi qu guan li suo	931
+西渠水桶管理站	xi qu shui tong guan li zhan	931
+西线高速公路	xi xian gao su gong lu	931
+先锋村二队牧场	xian feng cun er dui mu chang	931
+先锋村四队牧场	xian feng cun si dui mu chang	931
+仙人脚	xian ren jiao	931
+响地村	xiang di cun	931
+响地小学	xiang di xiao xue	931
+向阳引水管理所	xiang yang yin shui guan li suo	931
+小叮当幼儿园	xiao ding dang you er yuan	931
+新安	xin an	931
+新安村	xin an cun	931
+新安小学	xin an xiao xue	931
+新村	xin cun	931
+新华书店	xin hua shu dian	931
+新建村	xin jian cun	931
+新联边防派出所	xin lian bian fang pai chu suo	931
+新民村	xin min cun	931
+新民小学	xin min xiao xue	931
+新坡小学	xin po xiao xue	931
+新荣小学	xin rong xiao xue	931
+新兴	xin xing	931
+新兴村	xin xing cun	931
+新兴小学	xin xing xiao xue	931
+新营	xin ying	931
+新永村农场	xin yong cun nong chang	931
+新庄村农场	xin zhuang cun nong chang	931
+牙沟	ya gou	931
+牙湾岭	ya wan ling	931
+盐场医院	yan chang yi yuan	931
+盐场制卤工区	yan chang zhi lu gong qu	931
+延红小学	yan hong xiao xue	931
+杨道	yang dao	931
+洋老村	yang lao cun	931
+杨力村	yang li cun	931
+野来山	ye lai shan	931
+乙丙村	yi bing cun	931
+乙炳村	yi bing cun	931
+乙好	yi hao	931
+乙家	yi jia	931
+乙老村	yi lao cun	931
+乙龙	yi long	931
+乙论村	yi lun cun	931
+益民药店	yi min yao dian	931
+益农农药店	yi nong nong yao dian	931
+乙邱	yi qiu	931
+一字岭	yi zi ling	931
+银磨岭	yin mo ling	931
+莺歌海盐场	ying ge hai yan chang	931
+莺歌海镇	ying ge hai zhen	931
+莺歌海中心小学	ying ge hai zhong xin xiao xue	931
+莺歌海中学	ying ge hai zhong xue	931
+英海农场	ying hai nong chang	931
+莺盐第一小学	ying yan di yi xiao xue	931
+永车	yong che	931
+永德	yong de	931
+永甘小学	yong gan xiao xue	931
+永光	yong guang	931
+永红中学	yong hong zhong xue	931
+拥蝗村	yong huang cun	931
+永明村	yong ming cun	931
+永明大桥	yong ming da qiao	931
+永明乡	yong ming xiang	931
+永木番	yong mu fan	931
+永木番	yong mu pan	931
+永益村农场	yong yi cun nong chang	931
+育才路	yu cai lu	931
+鱼打鼓	yu da gu	931
+乐才村	yue cai cun	931
+乐二村农场	yue er cun nong chang	931
+乐二小学	yue er xiao xue	931
+乐锋农场	yue feng nong chang	931
+乐锋农场分场	yue feng nong chang fen chang	931
+乐光农场二队	yue guang nong chang er dui	931
+乐光农场九队	yue guang nong chang jiu dui	931
+乐光农场六队	yue guang nong chang liu dui	931
+乐光农场十队	yue guang nong chang shi dui	931
+乐光农场十二队	yue guang nong chang shi er dui	931
+乐光农场十三队	yue guang nong chang shi san dui	931
+乐光农场十四队	yue guang nong chang shi si dui	931
+乐光农场十一队	yue guang nong chang shi yi dui	931
+乐光农场畜牧场	yue guang nong chang xu mu chang	931
+乐光农场养鸡场	yue guang nong chang yang ji chang	931
+乐光派出所	yue guang pai chu suo	931
+乐罗双语幼儿园	yue luo shuang yu you er yuan	931
+乐罗卫生院	yue luo wei sheng yuan	931
+乐罗镇农场	yue luo zhen nong chang	931
+乐罗中学	yue luo zhong xue	931
+乐强路	yue qiang lu	931
+乐怡楼宾馆	yue yi lou bin guan	931
+乐中牧场	yue zhong mu chang	931
+乐中农场	yue zhong nong chang	931
+乐中派出所	yue zhong pai chu suo	931
+乐中中学	yue zhong zhong xue	931
+扎浩	za hao	931
+扎灶村	za zao cun	931
+扎灶村农场	za zao cun nong chang	931
+扎只南	za zhi nan	931
+怎志更	zen zhi geng	931
+扎浩	zha hao	931
+扎灶村	zha zao cun	931
+扎灶村农场	zha zao cun nong chang	931
+扎只南	zha zhi nan	931
+长茅水库管理所	zhang mao shui ku guan li suo	931
+长茅水库西渠	zhang mao shui ku xi qu	931
+朝琼	zhao qiong	931
+镇农场红星队	zhen nong chang hong xing dui	931
+镇远村	zhen yuan cun	931
+正洪村	zheng hong cun	931
+志傲	zhi ao	931
+只朝村	zhi chao cun	931
+枝担	zhi dan	931
+只峨村农场	zhi e cun nong chang	931
+志发	zhi fa	931
+只横	zhi heng	931
+志乐田	zhi le tian	931
+只门	zhi men	931
+只孟	zhi meng	931
+只能村	zhi neng cun	931
+只炮	zhi pao	931
+只炮七队	zhi pao qi dui	931
+志强村	zhi qiang cun	931
+只顺	zhi shun	931
+只同	zhi tong	931
+只微村	zhi wei cun	931
+只文村	zhi wen cun	931
+只文村农场	zhi wen cun nong chang	931
+志向	zhi xiang	931
+志乐田	zhi yue tian	931
+只朝村	zhi zhao cun	931
+志仲村	zhi zhong cun	931
+志仲派出所	zhi zhong pai chu suo	931
+志仲镇	zhi zhong zhen	931
+志仲镇农场	zhi zhong zhen nong chang	931
+志仲镇畜牧场	zhi zhong zhen xu mu chang	931
+志仲镇政府	zhi zhong zhen zheng fu	931
+志仲中学	zhi zhong zhong xue	931
+中国联通	zhong guo lian tong	931
+中国一汽	zhong guo yi qi	931
+中级池	zhong ji chi	931
+中灶大桥	zhong zao da qiao	931
+中灶新校	zhong zao xin xiao	931
+中灶站	zhong zao zhan	931
+竹头村	zhu tou cun	931
+专内	zhuan nei	931
+走清村	zou qing cun	931
+祖公	zu gong	931
