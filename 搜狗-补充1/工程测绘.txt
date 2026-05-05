@@ -1,0 +1,2464 @@
+# 词库名称: 工程测绘
+# 词库分类: 测绘工程与地图
+# 词库描述: 整合在线上传的词库，加入更多工程测绘常用的专业词，剔除部分输入法自带词库已有的词条！ 主要应用于工程测绘 词库将在应用中不断更新 纵横测绘整理制作，感谢所有制作测绘词库的朋友，本词库也是他们的功劳！！
+# 词条样例: 贝塞尔椭球、贝塞尔大地主题解算公式、边界角、边坡桩测设、采掘场验收测、草测
+# 解析词数: 2457
+# 解析异常: 0
+
+阿贝比长原理	a bei bi chang yuan li	121
+阿达马变换	a da ma bian huan	120
+安平	an ping	123
+安平精度	an ping jing du	122
+摆动锤投影	bai dong chui tou ying	2456
+摆仪	bai yi	117
+颁岔放样	ban cha fang yang	2455
+半导体激光器	ban dao ti ji guang qi	118
+半站型测距经纬仪	ban zhan xing ce ju jing wei yi	119
+曝光	bao guang	1062
+北极星任意时角法	bei ji xing ren yi shi jiao fa	2457
+北京坐标系	bei jing zuo biao xi	94
+贝塞尔大地主题解算公式	bei sai er da di zhu ti jie suan gong shi	2451
+贝塞尔法	bei sai er fa	2453
+贝塞尔椭球	bei sai er tuo qiu	2452
+贝叶斯分类	bei ye si fen lei	116
+本初子午线	ben chu zi wu xian	2454
+本宗	ben zong	93
+崩崖	beng ya	92
+比高点	bi gao dian	2450
+闭合差	bi he cha	2441
+闭合导线	bi he dao xian	2440
+闭合水准路线	bi he shui zhun lu xian	2439
+变比例投影	bian bi li tou ying	2427
+边长中误差	bian chang zhong wu cha	2438
+边垂线标定	bian chui xian biao ding	2449
+变换光束测图	bian huan guang shu ce tu	2426
+编绘	bian hui	2430
+编绘原图	bian hui yuan tu	2429
+编辑大纲	bian ji da gang	2428
+边角测量	bian jiao ce liang	2436
+边交会法	bian jiao hui fa	2437
+边角交会法	bian jiao jiao hui fa	2435
+边角网	bian jiao wang	2434
+边界角	bian jie jiao	2448
+边坡稳定性观测	bian po wen ding xing guan ce	2433
+边坡桩测设	bian po zhuang ce she	2447
+变色海水	bian se hai shui	2425
+变线仪	bian xian yi	2424
+变形观测	bian xing guan ce	2423
+变形观测控制网	bian xing guan ce kong zhi wang	2422
+变形椭圆	bian xing tuo yuan	2421
+边缘检测	bian yuan jian ce	2432
+边缘增强	bian yuan zeng qiang	2431
+标称精度	biao cheng jing du	2420
+标尺	biao chi	2419
+标高	biao gao	2418
+标高差改正	biao gao cha gai zheng	2417
+标界测量	biao jie ce liang	2416
+标石	biao shi	91
+表示扰动位	biao shi rao dong wei	2411
+表示三角	biao shi san jiao	2410
+标志灯	biao zhi deng	2415
+标准差	biao zhun cha	2414
+标准检定场	biao zhun jian ding chang	2446
+标准配置点	biao zhun pei zhi dian	2413
+标准纬线	biao zhun wei xian	2412
+冰后回弹	bing hou hui tan	2409
+并记录时刻	bing ji lu shi ke	2408
+波茨坦重力系统	bo ci tan zhong li xi tong	2407
+波带板	bo dai ban	2406
+波浪补偿	bo lang bu chang	2405
+波浪补偿器	bo lang bu chang qi	2404
+波罗	bo luo	2403
+波罗一科普原理	bo luo yi ke pu yuan li	115
+波谱测定仪	bo pu ce ding yi	2402
+波谱集群	bo pu ji qun	2401
+波谱特征空间	bo pu te zheng kong jian	2400
+波谱特征曲线	bo pu te zheng qu xian	2399
+波谱响应曲线	bo pu xiang ying qu xian	2398
+波束角	bo shu jiao	2397
+泊位	bo wei	2396
+补偿器	bu chang qi	2395
+补偿器补偿误差	bu chang qi bu chang wu cha	2394
+布格改正	bu ge gai zheng	2392
+布格异常	bu ge yi chang	2391
+不管其读音或含意	bu guan qi du yin huo han yi	2393
+布隆斯公式	bu long si gong shi	2390
+布设	bu she	90
+布耶哈马问题	bu ye ha ma wen ti	2389
+采剥工程断面图	cai bo gong cheng duan mian tu	2388
+采剥工程综合平面图	cai bo gong cheng zong he ping mian tu	2387
+采场测量	cai chang ce liang	2386
+采掘场验收测	cai jue chang yan shou ce	2445
+采掘工程平面图	cai jue gong cheng ping mian tu	2385
+采区测量	cai qu ce liang	2384
+采区联系测量	cai qu lian xi ce liang	2383
+彩色变换	cai se bian huan	2378
+彩色编码	cai se bian ma	2379
+彩色复制	cai se fu zhi	2377
+彩色感光材料	cai se gan guang cai liao	2376
+彩色红外片	cai se hong wai pian	2375
+彩色校样	cai se jiao yang	2371
+彩色片	cai se pian	2374
+彩色摄影	cai se she ying	2373
+彩色线划校样	cai se xian hua jiao yang	2372
+彩色样图	cai se yang tu	2370
+彩色增强	cai se zeng qiang	2369
+彩色坐标系	cai se zuo biao xi	2368
+采样	cai yang	2382
+采样间隔	cai yang jian ge	2381
+采用	cai yong	2380
+参考椭球	can kao tuo qiu	2367
+参考椭球定位	can kao tuo qiu ding wei	2366
+参数平差	can shu ping cha	2365
+参照数据	can zhao shu ju	2364
+参照效应	can zhao xiao ying	2363
+草测	cao ce	2444
+操作者	cao zuo zhe	2362
+测标	ce biao	2354
+侧方交会	ce fang jiao hui	2357
+测杆	ce gan	2353
+测高仪	ce gao yi	2352
+测回	ce hui	2351
+测绘标准	ce hui biao zhun	2350
+测绘学	ce hui xue	2349
+测绘仪器	ce hui yi qi	2348
+测角仪	ce jiao yi	114
+测角中误差	ce jiao zhong wu cha	2347
+测距差定位	ce ju cha ding wei	2346
+测距定位系统	ce ju ding wei xi tong	2345
+测距经纬仪	ce ju jing wei yi	2344
+测距雷达	ce ju lei da	2343
+测距盲区	ce ju mang qu	2342
+测距误差	ce ju wu cha	2341
+测距仪	ce ju yi	2340
+测控条	ce kong tiao	2339
+测量标志	ce liang biao zhi	2338
+测量觇标	ce liang chan biao	2330
+测量船	ce liang chuan	2337
+测量规范	ce liang gui fan	2336
+测量控制网	ce liang kong zhi wang	2335
+测量平差	ce liang ping cha	2334
+测量误差	ce liang wu cha	2333
+测量误差的概率等于	ce liang wu cha de gai lv deng yu	2332
+测量学	ce liang xue	2331
+测流	ce liu	2329
+测区	ce qu	2361
+测区代号	ce qu dai hao	2360
+测区范围	ce qu fan wei	2359
+测区名称	ce qu ming cheng	2358
+侧扫声呐	ce sao sheng na	2356
+测深	ce shen	5
+测深改正	ce shen gai zheng	2328
+测深杆	ce shen gan	113
+侧视雷达	ce shi lei da	2355
+测微目镜	ce wei mu jing	112
+测微器	ce wei qi	111
+测站	ce zhan	2327
+测站归心	ce zhan gui xin	2326
+层间改正	ceng jian gai zheng	2325
+差分	cha fen	2324
+差分台	cha fen tai	2323
+差异阈	cha yi yu	2322
+觇标	chan biao	124
+觇杆	chan gan	125
+觇牌	chan pai	126
+长度标准检定场	chang du biao zhun jian ding chang	2321
+厂址测量	chang zhi ce liang	2320
+超导重力仪	chao dao zhong li yi	2319
+超焦点距离	chao jiao dian ju li	2318
+超近摄影测量	chao jin she ying ce liang	2317
+潮汐表	chao xi biao	2316
+潮汐波	chao xi bo	2315
+潮汐非调和常数	chao xi fei tiao he chang shu	2312
+潮汐非调和分析	chao xi fei tiao he fen xi	2311
+潮汐频谱	chao xi pin pu	2309
+潮汐摄动	chao xi she dong	2310
+潮汐调和常数	chao xi tiao he chang shu	2314
+潮汐调和分析	chao xi tiao he fen xi	2313
+潮汐因子	chao xi yin zi	2308
+潮汐预报	chao xi yu bao	2307
+潮信表	chao xin biao	2306
+沉船	chen chuan	2305
+沉降观测	chen jiang guan ce	2304
+程产生中断	cheng chan sheng zhong duan	2294
+乘常数	cheng chang shu	2295
+城市测量	cheng shi ce liang	2303
+城市测量数据库	cheng shi ce liang shu ju ku	2302
+城市地形测量	cheng shi di xing ce liang	2301
+城市地形图	cheng shi di xing tu	2300
+城市控制测量	cheng shi kong zhi ce liang	2299
+城市制图	cheng shi zhi tu	2298
+成像光谱仪	cheng xiang guang pu yi	2297
+成像雷达	cheng xiang lei da	2296
+尺度参数	chi du can shu	2293
+抽稀	chou xi	89
+抽象符号	chou xiang fu hao	2292
+出版原图	chu ban yuan tu	2291
+初测	chu ce	2443
+触觉地图	chu jue di tu	2290
+储量管理	chu liang guan li	2442
+船台	chuan tai	2287
+垂核面	chui he mian	2286
+垂核线	chui he xian	2285
+垂球	chui qiu	2284
+垂线偏差	chui xian pian cha	2283
+垂线偏差改正	chui xian pian cha gai zheng	2282
+垂直角	chui zhi jiao	2281
+垂直折光差	chui zhi zhe guang cha	2280
+垂直折光系数	chui zhi zhe guang xi shu	2279
+垂准仪	chui zhun yi	2278
+纯重力异常	chun zhong li yi chang	2277
+磁测深	ci ce shen	2276
+磁测深仪	ci ce shen yi	2275
+磁方位角	ci fang wei jiao	2274
+磁力扫海测量	ci li sao hai ce liang	2273
+磁力异常区	ci li yi chang qu	2272
+磁偏角	ci pian jiao	2271
+磁倾角	ci qing jiao	2270
+磁象限角	ci xiang xian jiao	2269
+磁子午线	ci zi wu xian	2268
+粗差	cu cha	2288
+粗略定向	cu lue ding xiang	2267
+粗码	cu ma	2289
+大比例尺地形图	da bi li chi di xing tu	2247
+大车路	da che lu	2266
+大地测量	da di ce liang	2265
+大地测量边值问题	da di ce liang bian zhi wen ti	2253
+大地测量参考系	da di ce liang can kao xi	2252
+大地方位角	da di fang wei jiao	2256
+大地高	da di gao	2257
+大地基准	da di ji zhun	2250
+大地经度	da di jing du	2259
+大地水准面	da di shui zhun mian	2251
+大地天文学	da di tian wen xue	2264
+大地位	da di wei	2249
+大地纬度	da di wei du	2258
+大地线	da di xian	2262
+大地线微分方程	da di xian wei fen fang cheng	2261
+大地重力学	da di zhong li xue	2263
+大地主题反解	da di zhu ti fan jie	2254
+大地主题正解	da di zhu ti zheng jie	2255
+大地坐标	da di zuo biao	2260
+大地坐标系	da di zuo biao xi	2248
+大气窗	da qi chuang	110
+大气透过率	da qi tou guo lv	109
+大气阻力摄动	da qi zu li she dong	2246
+大像幅摄影机	da xiang fu she ying ji	108
+带谐系数	dai xie xi shu	2244
+带状平面图	dai zhuang ping mian tu	2245
+单差相位观测	dan cha xiang wei guan ce	2243
+弹道摄影测量	dan dao she ying ce liang	2236
+弹道摄影机	dan dao she ying ji	2235
+单点定位	dan dian ding wei	2242
+单片坐标量测仪	dan pian zuo biao liang ce yi	2241
+单位权	dan wei quan	2240
+单位权方差	dan wei quan fang cha	2239
+单位权方差为	dan wei quan fang cha wei	2238
+单张或多张图组成	dan zhang huo duo zhang tu zu cheng	2237
+档差改正	dang cha gai zheng	2233
+当地平均海面	dang di ping jun hai mian	2234
+导标	dao biao	2228
+道岔测量	dao cha ce liang	2206
+倒锤法	dao chui fa	2232
+倒锤线观测	dao chui xian guan ce	2208
+导弹定向测量	dao dan ding xiang ce liang	2227
+导弹试验场工程测量	dao dan shi yan chang gong cheng ce liang	2226
+导航台定位测量	dao hang tai ding wei ce liang	2225
+导航图	dao hang tu	2224
+导航线	dao hang xian	2223
+倒虹吸	dao hong xi	2207
+道路工程测量	dao lu gong cheng ce liang	2205
+岛陆联测	dao lu lian ce	2231
+导入高程测量	dao ru gao cheng ce liang	2222
+导线	dao xian	2221
+导线边	dao xian bian	2220
+导线测量	dao xian ce liang	2219
+导线点	dao xian dian	2218
+导线横向误差	dao xian heng xiang wu cha	2217
+导线角度闭合差	dao xian jiao du bi he cha	2216
+导线结点	dao xian jie dian	2215
+导线曲折系数	dao xian qu zhe xi shu	2214
+导线全长闭合差	dao xian quan chang bi he cha	2213
+导线网	dao xian wang	2212
+导线相对闭合差	dao xian xiang dui bi he cha	2211
+导线折角	dao xian zhe jiao	2210
+导线纵向误差	dao xian zong xiang wu cha	2209
+岛屿测量	dao yu ce liang	2230
+岛屿图	dao yu tu	2229
+等比线	deng bi xian	2196
+等变形线	deng bian xing xian	2195
+灯浮标	deng fu biao	2204
+灯高	deng gao	2203
+等高距	deng gao ju	2194
+等高棱镜	deng gao leng jing	2193
+等高线	deng gao xian	2192
+等高仪	deng gao yi	2191
+灯光节奏	deng guang jie zou	2202
+灯光射程	deng guang she cheng	2201
+灯光遮蔽	deng guang zhe bi	2200
+灯光周期	deng guang zhou qi	2199
+等级感	deng ji gan	2189
+等级结构	deng ji jie gou	2188
+等积投影	deng ji tou ying	2190
+等角定位格网	deng jiao ding wei ge wang	2187
+等角投影	deng jiao tou ying	2186
+等距量表	deng ju liang biao	2185
+等距投影	deng ju tou ying	2184
+等距圆弧格网	deng ju yuan hu ge wang	2183
+等量纬度	deng liang wei du	2182
+等偏摄影	deng pian she ying	2181
+等倾摄影	deng qing she ying	2180
+等权代替法	deng quan dai ti fa	2179
+灯色	deng se	2198
+等深线	deng shen xian	2178
+灯塔	deng ta	2197
+等值灰度尺	deng zhi hui du chi	2177
+等值区域法	deng zhi qu yu fa	2176
+等值区域图	deng zhi qu yu tu	2175
+等值线地图	deng zhi xian di tu	2174
+等值线法	deng zhi xian fa	2173
+堤坝施工测量	di ba shi gong ce liang	2172
+底板测点	di ban ce dian	2169
+地表移动观测站	di biao yi dong guan ce zhan	2161
+地表移动曲线图	di biao yi dong qu xian tu	2160
+地产界测量	di chan jie ce liang	2159
+低潮适淹礁	di chao shi yan jiao	2171
+低潮线	di chao xian	2170
+地磁经纬仪	di ci jing wei yi	2158
+地磁仪	di ci yi	2157
+地底点	di di dian	2156
+底点纬度	di dian wei du	2168
+地固坐标系	di gu zuo biao xi	2155
+地籍	di ji	2151
+地籍簿	di ji bu	2150
+地籍册	di ji ce	2149
+地籍测量	di ji ce liang	2148
+地籍测量系统	di ji ce liang xi tong	2147
+地籍测量细则	di ji ce liang xi ze	2146
+地籍调查	di ji diao cha	2145
+地籍更新	di ji geng xin	2144
+地籍管理	di ji guan li	2143
+地籍图	di ji tu	2142
+地籍图册	di ji tu ce	2141
+地基系统	di ji xi tong	2154
+地籍修测	di ji xiu ce	2140
+地籍制图	di ji zhi tu	2139
+地极坐标	di ji zuo biao	2153
+地极坐标系	di ji zuo biao xi	2152
+地界测量	di jie ce liang	2138
+地块测量	di kuai ce liang	2133
+地块数据库	di kuai shu ju ku	2132
+地类界图	di lei jie tu	2131
+地理格网	di li ge wang	2130
+地理视距	di li shi ju	2129
+地理信息传输	di li xin xi chuan shu	2128
+地理信息系统	di li xin xi xi tong	2127
+地理要素	di li yao su	2126
+地理坐标	di li zuo biao	2125
+地理坐标参考系	di li zuo biao can kao xi	2124
+地貌图	di mao tu	2123
+地貌形态示量图	di mao xing tai shi liang tu	2122
+地面点的天文纬度呈	di mian dian de tian wen wei du cheng	2121
+地面接收站	di mian jie shou zhan	2120
+地面立体测图仪	di mian li ti ce tu yi	2119
+地面摄谱仪	di mian she pu yi	2118
+地面摄影测量	di mian she ying ce liang	2117
+地面摄影机	di mian she ying ji	2116
+地面实况	di mian shi kuang	2115
+地面照度	di mian zhao du	2114
+地名	di ming	2113
+地名标准化	di ming biao zhun hua	2112
+地名录	di ming lu	2111
+地名数据库	di ming shu ju ku	2110
+地名索引	di ming suo yin	2109
+地名通名	di ming tong ming	2108
+地名学	di ming xue	2107
+地名正名	di ming zheng ming	2106
+地名转写	di ming zhuan xie	2105
+底片常数法	di pian chang shu fa	2021
+底片方位元素法	di pian fang wei yuan su fa	2020
+地平线摄影机	di ping xian she ying ji	2104
+地平线像片	di ping xian xiang pian	2103
+地壳均衡	di qiao jun heng	2137
+地壳均衡改正	di qiao jun heng gai zheng	2136
+地壳均衡说	di qiao jun heng shuo	2135
+地壳形变观测	di qiao xing bian guan ce	2134
+地倾斜观测	di qing xie guan ce	2102
+地球长半轴	di qiu chang ban zhou	2101
+地球定向参数	di qiu ding xiang can shu	2100
+地球动力扁率	di qiu dong li bian lv	2099
+地球动力因子	di qiu dong li yin zi	2098
+地球短半轴	di qiu duan ban zhou	2097
+地球同步卫星	di qiu tong bu wei xing	2096
+地球椭球	di qiu tuo qiu	2095
+地球椭球扁率	di qiu tuo qiu bian lv	2094
+地球位	di qiu wei	2093
+地球位数	di qiu wei shu	2092
+地球位系数	di qiu wei xi shu	2091
+地球形状	di qiu xing zhuang	2090
+地球液核动力效应	di qiu ye he dong li xiao ying	2083
+地球仪	di qiu yi	2089
+地球引力摄动	di qiu yin li she dong	2088
+地球重力场模型	di qiu zhong li chang mo xing	2087
+地球资源卫星	di qiu zi yuan wei xing	2086
+地球自转参数	di qiu zi zhuan can shu	2085
+地球自转角速度	di qiu zi zhuan jiao su du	2084
+底色去除	di se qu chu	2167
+底色增益	di se zeng yi	2166
+地势图	di shi tu	2082
+地图编制	di tu bian zhi	2081
+地图表示法	di tu biao shi fa	2080
+地图传输	di tu chuan shu	2079
+地图叠置分析	di tu die zhi fen xi	2078
+地图分析	di tu fen xi	2077
+地图符号库	di tu fu hao ku	2076
+地图符号学	di tu fu hao xue	2075
+地图负载量	di tu fu zai liang	2074
+地图感受	di tu gan shou	2073
+地图集	di tu ji	2072
+地图集信息系统	di tu ji xin xi xi tong	2071
+地图量算法	di tu liang suan fa	2070
+地图模型	di tu mo xing	2069
+地图内容结构	di tu nei rong jie gou	2068
+地图判读	di tu pan du	2067
+地图潜信息	di tu qian xin xi	2066
+地图色标	di tu se biao	2065
+地图色谱	di tu se pu	2064
+地图上所有辅助要素	di tu shang suo you fu zhu yao su	2063
+地图数据结构	di tu shu ju jie gou	2062
+地图数据库	di tu shu ju ku	2061
+地图数字化	di tu shu zi hua	2060
+地图投影	di tu tou ying	2059
+地图信息系统	di tu xin xi xi tong	2058
+地图学	di tu xue	2057
+地图研究法	di tu yan jiu fa	2056
+地图易读性	di tu yi du xing	2055
+地图语法	di tu yu fa	2054
+地图语言	di tu yu yan	2053
+地图语义	di tu yu yi	2052
+地图语用	di tu yu yong	2051
+地图阅读	di tu yue du	2050
+地图整饰	di tu zheng shi	2049
+地图制图	di tu zhi tu	2048
+地图制图软件	di tu zhi tu ruan jian	2047
+地图注记	di tu zhu ji	2046
+地物波谱特性	di wu bo pu te xing	2045
+地物点	di wu dian	88
+地下管线测量	di xia guan xian ce liang	2044
+地下铁道测量	di xia tie dao ce liang	2043
+地下油库测量	di xia you ku ce liang	2042
+地心经度	di xin jing du	2041
+地心纬度	di xin wei du	2040
+地心引力常数	di xin yin li chang shu	2039
+地心直角坐标	di xin zhi jiao zuo biao	2037
+地心坐标系	di xin zuo biao xi	2038
+地形测量	di xing ce liang	2036
+地形测量学	di xing ce liang xue	2035
+地形底图	di xing di tu	2034
+地形改正	di xing gai zheng	2033
+地形数据库	di xing shu ju ku	2032
+地形图	di xing tu	2031
+地形图更新	di xing tu geng xin	2030
+地性线	di xing xian	87
+第一偏心率	di yi pian xin lv	2018
+地应力测量	di ying li ce liang	2029
+地震台精密测量	di zhen tai jing mi ce liang	2028
+底质	di zhi	2165
+底质采样	di zhi cai yang	2164
+地质草图	di zhi cao tu	2027
+地质测量	di zhi ce liang	2026
+地质点测量	di zhi dian ce liang	2025
+底质调查	di zhi diao cha	2163
+底质分布图	di zhi fen bu tu	2162
+地质略图	di zhi lue tu	2024
+地质剖面测量	di zhi pou mian ce liang	2023
+地质剖面图	di zhi pou mian tu	2022
+电磁波测距	dian ci bo ce ju	2011
+电磁波谱	dian ci bo pu	107
+点方式	dian fang shi	2017
+电荷耦合	dian he ou he	106
+电荷耦合器	dian he ou he qi	105
+电荷耦合器件	dian he ou he qi jian	2009
+电缆标	dian lan biao	2007
+电离层折射改正	dian li ceng zhe she gai zheng	2008
+电算加密	dian suan jia mi	2006
+点位中误差	dian wei zhong wu cha	2016
+点下对中	dian xia dui zhong	2015
+典型图形平差	dian xing tu xing ping cha	2019
+点值法	dian zhi fa	2013
+点之记	dian zhi ji	2014
+电指向	dian zhi xiang	2005
+点状符号	dian zhuang fu hao	2012
+电子测距仪	dian zi ce ju yi	2004
+电子出版系统	dian zi chu ban xi tong	2003
+电子地图集	dian zi de tu ji	2001
+电子地图	dian zi di tu	2002
+电子分色机	dian zi fen se ji	2000
+电子海图数据库	dian zi hai tu shu ju ku	1999
+电子经纬仪	dian zi jing wei yi	1998
+电子平板仪	dian zi ping ban yi	1997
+电子求积仪	dian zi qiu ji yi	1996
+电子手簿	dian zi shou bu	1995
+电子水准仪	dian zi shui zhun yi	1994
+电子速测仪	dian zi su ce yi	1993
+电子外业手簿	dian zi wai ye shou bu	86
+电子显微摄影测量	dian zi xian wei she ying ce liang	1992
+电子相关	dian zi xiang guan	1991
+电子印像机	dian zi yin xiang ji	1990
+吊锤投影	diao chui tou ying	2010
+叠标线	die biao xian	1984
+叠幅	die fu	1983
+叠栅条纹图	die shan tiao wen tu	1981
+叠印	die yin	1982
+顶板测点	ding ban ce dian	1980
+定测	ding ce	1978
+顶管测量	ding guan ce liang	1979
+定位标记	ding wei biao ji	1977
+定位点间距	ding wei dian jian ju	1976
+定位检索	ding wei jian suo	1975
+定位统计图表法	ding wei tong ji tu biao fa	1974
+定线测量	ding xian ce liang	1973
+定向点	ding xiang dian	1972
+定向连接测量	ding xiang lian jie ce liang	1971
+定向连接点	ding xiang lian jie dian	1970
+定向投影	ding xiang tou ying	1969
+定向误差	ding xiang wu cha	1967
+定向运动地图	ding xiang yun dong di tu	1968
+定影	ding ying	85
+动感	dong gan	1963
+动画引导	dong hua yin dao	1962
+动画制图	dong hua zhi tu	1961
+冻结壁交圈图	dong jie bi jiao quan tu	1966
+冻结法施工测量	dong jie fa shi gong ce liang	1965
+动力大地测量学	dong li da di ce liang xue	1960
+动态变量	dong tai bian liang	1959
+动态地景仿真	dong tai di jing fang zhen	1958
+动态地图	dong tai di tu	1957
+动态定位	dong tai ding wei	1956
+动态遥感器	dong tai yao gan qi	1955
+东西星等高测时法	dong xi xing deng gao ce shi fa	1964
+杜德森常数	du de sen chang shu	1950
+独立交会高程点	du li jiao hui gao cheng dian	1954
+独立坐标系	du li zuo biao xi	1953
+度盘	du pan	1951
+断层位移测量	duan ceng wei yi ce liang	1952
+断面仪	duan mian yi	1949
+对波长	dui bo chang	1948
+对景图	dui jing tu	1947
+对流层折射改正	dui liu ceng zhe she gai zheng	1946
+对数尺	dui shu chi	1945
+对物距在	dui wu ju zai	1944
+对中杆	dui zhong gan	1943
+多倍仪	duo bei yi	1942
+多边形地图	duo bian xing di tu	1941
+多边形结构	duo bian xing jie gou	1940
+多边形平差法	duo bian xing ping cha fa	1939
+多波束测深系统	duo bo shu ce shen xi tong	1937
+多层结构	duo ceng jie gou	1936
+多级纠正	duo ji jiu zheng	1935
+多焦点投影	duo jiao dian tou ying	1934
+多角高程导线	duo jiao gao cheng dao xian	1938
+多里斯系统	duo li si xi tong	1933
+多路径效应	duo lu jing xiao ying	1932
+多媒体地图	duo mei ti di tu	1931
+多年平均海面	duo nian ping jun hai mian	1930
+多谱段扫描仪	duo pu duan sao miao yi	1924
+多谱段摄影	duo pu duan she ying	1923
+多谱段摄影机	duo pu duan she ying ji	1922
+多谱段遥感	duo pu duan yao gan	1921
+多普勒单点定位	duo pu le dan dian ding wei	1929
+多普勒短弧法定位	duo pu le duan hu fa ding wei	1928
+多普勒计数	duo pu le ji shu	1927
+多普勒联测定位	duo pu le lian ce ding wei	1926
+多普勒声呐	duo pu le sheng na	1925
+多时相分析	duo shi xiang fen xi	1920
+多时相遥感	duo shi xiang yao gan	1919
+多星等高法	duo xing deng gao fa	1918
+多用途地籍	duo yong tu di ji	1917
+多余观测	duo yu guan ce	1916
+多圆锥投影	duo yuan zhui tou ying	1915
+厄特沃什效应	e te wo shi xiao ying	1914
+二倍照准部互差	er bei zhao zhun bu hu cha	1913
+二倍照准差	er bei zhao zhun cha	1912
+二者可互换	er zhe ke hu huan	1911
+二值图像	er zhi tu xiang	1910
+法方程	fa fang cheng	1908
+发光二极管	fa guang er ji guan	1909
+法截面	fa jie mian	1907
+法伊改正	fa yi gai zheng	1906
+反差	fan cha	1905
+反差系数	fan cha xi shu	1904
+反差增强	fan cha zeng qiang	1903
+反立体	fan li ti	84
+反立体效应	fan li ti xiao ying	1902
+反射波谱	fan she bo pu	1901
+反束光导管摄影机	fan shu guang dao guan she ying ji	1900
+范围法	fan wei fa	1897
+反像	fan xiang	1899
+反转片	fan zhuan pian	1898
+防波堤	fang bo di	1880
+方差	fang cha	1896
+方差一协方差传播律	fang cha yi xie fang cha chuan bo lv	1893
+方差一协方差阵	fang cha yi xie fang cha zhen	1894
+方差因子	fang cha yin zi	1895
+房地产地籍	fang di chan di ji	1881
+方格法	fang ge fa	1892
+方格网点	fang ge wang dian	1891
+方里网	fang li wang	1890
+防排水系统图	fang pai shui xi tong tu	1882
+仿射纠正	fang she jiu zheng	1879
+方位角中误差	fang wei jiao zhong wu cha	1889
+方位距离	fang wei ju li	1888
+方位距离定位方法	fang wei ju li ding wei fang fa	1887
+方位距离定位系统	fang wei ju li ding wei xi tong	83
+方位圈	fang wei quan	1886
+方位投影	fang wei tou ying	1885
+方向附合导线	fang xiang fu he dao xian	1884
+方向观测法	fang xiang guan ce fa	1883
+放样测量	fang yang ce liang	1878
+非地形摄影测量	fei di xing she ying ce liang	1874
+飞机场测量	fei ji chang ce liang	1877
+飞机洞库测量	fei ji dong ku ce liang	1876
+非监督分类	fei jian du fen lei	1873
+非量测摄影机	fei liang ce she ying ji	1872
+菲列罗公式	fei lie luo gong shi	1875
+费宁梅内斯公式	fei ning mei nei si gong shi	1851
+分瓣投影	fen ban tou ying	1870
+分版原图	fen ban yuan tu	1871
+分层	fen ceng	1869
+分层色表	fen ceng se biao	1868
+分层设色法	fen ceng she se fa	1867
+分潮	fen chao	1866
+分潮迟角	fen chao chi jiao	1865
+分潮振幅	fen chao zhen fu	1864
+分带纠正	fen dai jiu zheng	1863
+分带子午线	fen dai zi wu xian	1862
+分幅	fen fu	1861
+分工法测图	fen gong fa ce tu	1860
+分类器	fen lei qi	1859
+分区量值地图	fen qu liang zhi di tu	1858
+分区密度地图	fen qu mi du di tu	1857
+分区统计图表法	fen qu tong ji tu biao fa	1856
+分区统计图法	fen qu tong ji tu fa	1855
+分色	fen se	1854
+分色参考图	fen se can kao tu	1853
+分析地图	fen xi di tu	1852
+分宗	fen zong	82
+缝隙纠正仪	feng xi jiu zheng yi	1849
+风讯信号杆	feng xun xin hao gan	1850
+浮标	fu biao	1843
+附参数条件平差	fu can shu tiao jian ping cha	1833
+复测法	fu ce fa	1838
+浮雕影像地图	fu diao ying xiang di tu	1842
+符号化	fu hao hua	1844
+负荷潮	fu he chao	1835
+附合导线	fu he dao xian	1832
+附合水准路线	fu he shui zhun lu xian	1831
+附加位	fu jia wei	1830
+复垦测量	fu ken ce liang	1837
+负片	fu pian	1834
+辐射校正	fu she jiao zheng	1846
+辐射三角测量	fu she san jiao ce liang	1848
+辐射线格网	fu she xian ge wang	1847
+辐射遥感器	fu she yao gan qi	1845
+副台	fu tai	1839
+附条件参数平差	fu tiao jian can shu ping cha	1829
+附条件的间接平差	fu tiao jian de jian jie ping cha	1828
+复照仪	fu zhao yi	1836
+辅助等高线	fu zhu deng gao xian	1840
+浮子验潮仪	fu zi yan chao yi	1841
+概率判决函数	gai lv pan jue han shu	1827
+概然误差	gai ran wu cha	1826
+干出高度	gan chu gao du	1825
+干出礁	gan chu jiao	1824
+干出滩	gan chu tan	1823
+干出线	gan chu xian	1822
+感光	gan guang	1820
+感光材料	gan guang cai liao	1819
+感光测定	gan guang ce ding	1818
+感光度	gan guang du	1817
+感光特性曲线	gan guang te xing qu xian	1816
+干涉雷达	gan she lei da	1821
+感受效果	gan shou xiao guo	1815
+港界	gang jie	1814
+港口	gang kou	1813
+港口工程测量	gang kou gong cheng ce liang	1812
+港湾测量	gang wan ce liang	1811
+港湾锚地图集	gang wan mao di tu ji	1810
+港湾图	gang wan tu	1809
+高比	gao bi	1808
+高差仪	gao cha yi	1807
+高潮适淹礁	gao chao shi yan jiao	1806
+高程	gao cheng	1805
+高程导线	gao cheng dao xian	1804
+高程点	gao cheng dian	1803
+高程基准	gao cheng ji zhun	1802
+高程控制测量	gao cheng kong zhi ce liang	1801
+高程控制点	gao cheng kong zhi dian	1800
+高程控制网	gao cheng kong zhi wang	1799
+高程系统	gao cheng xi tong	1798
+高程异常	gao cheng yi chang	1797
+高程中误差	gao cheng zhong wu cha	1796
+高度角	gao du jiao	1795
+高密度数字磁带	gao mi du shu zi ci dai	1794
+高斯	gao si	1793
+高斯平面子午线收敛角	gao si ping mian zi wu xian shou lian jiao	1787
+高斯平面坐标	gao si ping mian zuo biao	1792
+高斯平面坐标系	gao si ping mian zuo biao xi	1791
+高斯投影	gao si tou ying	1790
+高斯投影方向改正	gao si tou ying fang xiang gai zheng	1789
+高斯投影距离改正	gao si tou ying ju li gai zheng	1788
+高斯一克吕格投影	gao si yi ke lv ge tou ying	1785
+高斯约化法	gao si yue hua fa	1784
+高斯中纬度公式	gao si zhong wei du gong shi	1786
+格网单元	ge wang dan yuan	1783
+根据	gen ju	1782
+根据两个	gen ju liang ge	1781
+跟踪数字化	gen zong shu zi hua	1780
+工厂现状图测量	gong chang xian zhuang tu ce liang	1779
+工程测量	gong cheng ce liang	1778
+工程测量学	gong cheng ce liang xue	1777
+工程经纬仪	gong cheng jing wei yi	1776
+工程控制网	gong cheng kong zhi wang	1775
+工程摄影测量	gong cheng she ying ce liang	1774
+工程水准仪	gong cheng shui zhun yi	1773
+公路工程测量	gong lu gong cheng ce liang	1769
+功率谱	gong lv pu	1770
+共面方程	gong mian fang cheng	1768
+共线方程	gong xian fang cheng	1767
+工业测量系统	gong ye ce liang xi tong	1772
+工业摄影测量	gong ye she ying ce liang	1771
+共宗	gong zong	81
+构架航线	gou jia hang xian	1766
+构面	gou mian	80
+构像方程	gou xiang fang cheng	1765
+古地图	gu di tu	1763
+固定平极	gu ding ping ji	1761
+固定台	gu ding tai	1760
+固定误差	gu ding wu cha	1759
+固定相移	gu ding xiang yi	1758
+骨架航线	gu jia hang xian	1762
+估算测角中误差	gu suan ce jiao zhong wu cha	1764
+固体潮	gu ti chao	1757
+固体激光器	gu ti ji guang qi	1756
+观测方程	guan ce fang cheng	1755
+观测一个水平角的	guan ce yi ge shui ping jiao de	1754
+管道测量	guan dao ce liang	1753
+管道综合图	guan dao zong he tu	1752
+惯导组合定位系统	guan dao zu he ding wei xi tong	1751
+灌溉泵站测量	guan gai beng zhan ce liang	1745
+灌区平面布置图	guan qu ping mian bu zhi tu	1747
+贯通测量	guan tong ce liang	1746
+管线	guan xian	1707
+惯性测量系统	guan xing ce liang xi tong	1750
+惯性坐标系	guan xing zuo biao xi	1749
+惯用名	guan yong ming	1748
+光笔	guang bi	79
+广播星历	guang bo xing li	1715
+光电测距导线	guang dian ce ju dao xian	1744
+光电等高仪	guang dian deng gao yi	78
+光电遥感器	guang dian yao gan qi	1741
+光电中星仪	guang dian zhong xing yi	1740
+光碟	guang die	1739
+光盘	guang pan	1738
+光谱感光度	guang pu gan guang du	1737
+光谱灵敏度	guang pu ling min du	1736
+光圈	guang quan	1735
+光圈号数	guang quan hao shu	1734
+光栅	guang shan	1716
+光束法空中三角测量	guang shu fa kong zhong san jiao ce liang	1733
+光性	guang xing	1732
+光学	guang xue	1731
+光学传递函数	guang xue chuan di han shu	1730
+光学对中器	guang xue dui zhong qi	1729
+光学机械纠正	guang xue ji xie jiu zheng	1728
+光学机械投影	guang xue ji xie tou ying	1727
+光学经纬仪	guang xue jing wei yi	1726
+光学纠正	guang xue jiu zheng	1725
+光学水准仪	guang xue shui zhun yi	1724
+光学条件	guang xue tiao jian	1723
+光学投影	guang xue tou ying	1722
+光学图解纠正	guang xue tu jie jiu zheng	1721
+光学图像处理	guang xue tu xiang chu li	1720
+光学相关	guang xue xiang guan	1719
+光学镶嵌	guang xue xiang qian	1718
+光学遥感器	guang xue yao gan qi	1717
+光学准直	guang xue zhun zhi	1743
+轨道坐标系	gui dao zuo biao xi	1708
+规划地图	gui hua di tu	1714
+规划红线	gui hua hong xian	77
+归化纬度	gui hua wei du	1712
+规矩线	gui ju xian	1713
+龟纹	gui wen	1709
+归心改正	gui xin gai zheng	1711
+归心元素	gui xin yuan su	1710
+国际测绘联合会	guo ji ce hui lian he hui	1706
+国际测量师联合会	guo ji ce liang shi lian he hui	1705
+国际大地测量协会	guo ji da di ce liang xie hui	1704
+国际地球参考架	guo ji di qiu can kao jia	1703
+国际地球自转服务局	guo ji di qiu zi zhuan fu wu ju	1702
+国际海道测量组织	guo ji hai dao ce liang zu zhi	1701
+国际海图	guo ji hai tu	1700
+国际矿山测量学会	guo ji kuang shan ce liang xue hui	1699
+国际天球参考架	guo ji tian qiu can kao jia	1698
+国际协议原点	guo ji xie yi yuan dian	1697
+国际原子时	guo ji yuan zi shi	1696
+国际制图协会	guo ji zhi tu xie hui	1695
+国家地图集	guo jia di tu ji	1694
+国家高程基准	guo jia gao cheng ji zhun	1693
+国家基准网	guo jia ji zhun wang	1691
+国家控制网	guo jia kong zhi wang	1690
+国家水准网	guo jia shui zhun wang	1692
+海岸	hai an	1689
+海岸地形测量	hai an di xing ce liang	1688
+海岸图	hai an tu	1687
+海岸线	hai an xian	1686
+海岸性质	hai an xing zhi	1685
+海拔	hai ba	1684
+海潮模型	hai chao mo xing	1683
+海道测量	hai dao ce liang	1682
+海道测量学	hai dao ce liang xue	1681
+海底地貌	hai di di mao	1680
+海底地貌图	hai di di mao tu	1679
+海底地势图	hai di di shi tu	1678
+海底地形测量	hai di di xing ce liang	1677
+海底地形图	hai di di xing tu	1676
+海底地质构造图	hai di di zhi gou zao tu	1675
+海底电缆	hai di dian lan	1674
+海底管道	hai di guan dao	1673
+海底控制网	hai di kong zhi wang	1672
+海底倾斜改正	hai di qing xie gai zheng	1671
+海底声标	hai di sheng biao	1670
+海底施工测量	hai di shi gong ce liang	1669
+海底隧道测量	hai di sui dao ce liang	1668
+海底图像系统	hai di tu xiang xi tong	1667
+海福德椭球	hai fu de tuo qiu	1666
+海福特	hai fu te	1665
+海军导航卫星系统	hai jun dao hang wei xing xi tong	1664
+海军勤务测量	hai jun qin wu ce liang	1663
+海控点	hai kong dian	1662
+海流计	hai liu ji	1661
+海面地形	hai mian di xing	1660
+海区界线	hai qu jie xian	1659
+海区资料调查	hai qu zi liao diao cha	1658
+海区总图	hai qu zong tu	1657
+海图	hai tu	1656
+海图比例尺	hai tu bi li chi	1655
+海图编号	hai tu bian hao	1654
+海图编制	hai tu bian zhi	1653
+海图标题	hai tu biao ti	1652
+海图大改正	hai tu da gai zheng	1651
+海图分幅	hai tu fen fu	1650
+海图改正	hai tu gai zheng	1649
+海图投影	hai tu tou ying	1648
+海图图廓	hai tu tu kuo	1647
+海图图式	hai tu tu shi	1646
+海图小改正	hai tu xiao gai zheng	1645
+海图制图	hai tu zhi tu	1644
+海图注记	hai tu zhu ji	1643
+海洋测绘	hai yang ce hui	1642
+海洋测绘数据库	hai yang ce hui shu ju ku	1641
+海洋测量	hai yang ce liang	1640
+海洋测量定位	hai yang ce liang ding wei	1639
+海洋磁力测量	hai yang ci li ce liang	1638
+海洋磁力图	hai yang ci li tu	1637
+海洋磁力异常	hai yang ci li yi chang	1636
+海洋大地测量	hai yang da di ce liang	1635
+海洋大地测量学	hai yang da di ce liang xue	1634
+海洋负荷	hai yang fu he	1633
+海洋工程测量	hai yang gong cheng ce liang	1632
+海洋划界测量	hai yang hua jie ce liang	1631
+海洋环境图	hai yang huan jing tu	1630
+海洋气象图	hai yang qi xiang tu	1629
+海洋生物图	hai yang sheng wu tu	1628
+海洋水文图	hai yang shui wen tu	1627
+海洋水准测量	hai yang shui zhun ce liang	1626
+海洋卫星	hai yang wei xing	1625
+海洋质子采样器	hai yang zhi zi cai yang qi	1624
+海洋质子磁力仪	hai yang zhi zi ci li yi	1623
+海洋重力测量	hai yang zhong li ce liang	1622
+海洋重力仪	hai yang zhong li yi	1621
+海洋重力异常	hai yang zhong li yi chang	1620
+海洋重力异常图	hai yang zhong li yi chang tu	1619
+海洋专题测量	hai yang zhuan ti ce liang	1618
+海洋资源图	hai yang zi yuan tu	1617
+航标	hang biao	1616
+航标表	hang biao biao	1615
+航测	hang ce	1611
+航测成图	hang ce cheng tu	1610
+航测地籍	hang ce di ji	1742
+航带	hang dai	76
+航带法空中三角测量	hang dai fa kong zhong san jiao ce liang	1614
+航带摄影机	hang dai she ying ji	75
+航道	hang dao	1613
+巷道坡度线标定	hang dao po du xian biao ding	468
+巷道碎部测量	hang dao sui bu ce liang	467
+航道图	hang dao tu	1612
+巷道验收测量	hang dao yan shou ce liang	470
+巷道验收丈量	hang dao yan shou zhang liang	466
+巷道中线标定	hang dao zhong xian biao ding	465
+航高	hang gao	1609
+航海天文历	hang hai tian wen li	1608
+航海通告	hang hai tong gao	1607
+航海图	hang hai tu	1606
+航迹	hang ji	1605
+航空摄谱仪	hang kong she pu yi	1604
+航空摄影	hang kong she ying	1603
+航空摄影测量	hang kong she ying ce liang	1602
+航空摄影机	hang kong she ying ji	1601
+航空图	hang kong tu	1600
+航空像片	hang kong xiang pian	1599
+航空遥感	hang kong yao gan	1598
+航空重力测量	hang kong zhong li ce liang	1597
+航路指南	hang lu zhi nan	1596
+航摄计划	hang she ji hua	1595
+航摄领航	hang she ling hang	1594
+航摄漏洞	hang she lou dong	1593
+航摄软片	hang she ruan pian	1592
+航摄像片	hang she xiang pian	1591
+航摄质量	hang she zhi liang	1590
+航速	hang su	1589
+航天飞机	hang tian fei ji	1588
+航天摄影	hang tian she ying	1587
+航天摄影测量	hang tian she ying ce liang	1586
+航天遥感	hang tian yao gan	1585
+航向	hang xiang	1584
+航向重叠	hang xiang chong die	1582
+航向倾角	hang xiang qing jiao	1583
+航行通告	hang xing tong gao	1581
+航行图	hang xing tu	1580
+航行障碍物	hang xing zhang ai wu	1579
+航行障碍物探测	hang xing zhang ai wu tan ce	1578
+合成地图	he cheng di tu	1571
+合成孔径雷达	he cheng kong jing lei da	1570
+河道整治测量	he dao zheng zhi ce liang	1566
+核点	he dian	1577
+合点控制	he dian kong zhi	1569
+和国际参考极	he guo ji can kao ji	1573
+核面	he mian	1576
+盒式分类法	he shi fen lei fa	1567
+合线	he xian	1568
+核线	he xian	1575
+核线相关	he xian xiang guan	1574
+和重力扁率	he zhong li bian lv	1572
+横断面测量	heng duan mian ce liang	1565
+横断面图	heng duan mian tu	1564
+横基尺视差法	heng ji chi shi cha fa	1563
+衡量测量值	heng liang ce liang zhi	1562
+恒时钟	heng shi zhong	1561
+恒星摄影机	heng xing she ying ji	1560
+恒星时	heng xing shi	1559
+恒星中天测时法	heng xing zhong tian ce shi fa	1558
+红外测距仪	hong wai ce ju yi	1557
+红外辐射计	hong wai fu she ji	1556
+红外片	hong wai pian	1555
+红外扫描仪	hong wai sao miao yi	1554
+红外摄影	hong wai she ying	1553
+红外图像	hong wai tu xiang	1552
+红外遥感	hong wai yao gan	1551
+后方交会	hou fang jiao hui	1550
+互补色地图	hu bu se di tu	1548
+互补色镜	hu bu se jing	1547
+互补色立体观察	hu bu se li ti guan cha	1546
+华达科捷	hua da ke jie	20
+华劲	hua jin	22
+华星宇	hua xing yu	21
+换带	huan dai	74
+缓和曲线测设	huan he qu xian ce she	1543
+环境地图	huan jing di tu	1545
+环境探测卫星	huan jing tan ce wei xing	1544
+换能器	huan neng qi	1542
+换能器吃水改正	huan neng qi chi shui gai zheng	1541
+换能器动态吃水	huan neng qi dong tai chi shui	1540
+换能器基线	huan neng qi ji xian	1539
+换能器基线改正	huan neng qi ji xian gai zheng	1538
+换能器静态吃水	huan neng qi jing tai chi shui	1537
+环形控制网	huan xing kong zhi wang	1549
+黄海平均海	huang hai ping jun hai	1536
+回光灯	hui guang deng	1533
+灰色调	hui se diao	1535
+回声测深	hui sheng ce shen	1532
+回声测深仪	hui sheng ce shen yi	1531
+汇水面积测量	hui shui mian ji ce liang	1528
+回头曲线测设	hui tou qu xian ce she	1530
+绘图机	hui tu ji	1527
+绘图文件	hui tu wen jian	1526
+灰楔	hui xie	1534
+回照器	hui zhao qi	1529
+混房	hun fang	73
+混合潮港	hun he chao gang	1525
+混合生成新色光	hun he sheng cheng xin se guang	1524
+或岸台	huo an tai	1523
+或估值	huo gu zhi	1522
+或平坦地面	huo ping tan di mian	1521
+或然误差	huo ran wu cha	1515
+或色料三原色	huo se liao san yuan se	1520
+活树篱笆	huo shu li ba	72
+或四	huo si	1519
+或新颜色	huo xin yan shai	1518
+或右片上	huo you pian shang	1517
+或左片上	huo zuo pian shang	1516
+基本比例尺	ji ben bi li chi	1514
+基本图形元素	ji ben tu xing yuan su	1513
+基本重力点	ji ben zhong li dian	1512
+畸变差	ji bian cha	1495
+积差阵	ji cha zhen	1506
+机场测量	ji chang ce liang	1503
+机场跑道测量	ji chang pao dao ce liang	1502
+集成	ji cheng	1473
+吉尔平面	ji er ping mian	1465
+机耕路	ji geng lu	1504
+激光测高仪	ji guang ce gao yi	1493
+激光测距仪	ji guang ce ju yi	1492
+激光测深仪	ji guang ce shen yi	1491
+激光测月	ji guang ce yue	1490
+激光导向仪给向	ji guang dao xiang yi gei xiang	1501
+激光地形仪	ji guang di xing yi	1494
+激光二极管	ji guang er ji guan	1489
+激光绘图机	ji guang hui tu ji	1488
+激光经纬仪	ji guang jing wei yi	1487
+激光目镜	ji guang mu jing	1486
+激光扫平仪	ji guang sao ping yi	1485
+激光水准仪	ji guang shui zhun yi	1484
+激光投点	ji guang tou dian	1483
+激光指向仪给向	ji guang zhi xiang yi gei xiang	1481
+激光准直	ji guang zhun zhi	1482
+激光准直法	ji guang zhun zhi fa	1480
+激光准直仪	ji guang zhun zhi yi	1479
+几何大地测量学	ji he da di ce liang xue	1471
+几何定向	ji he ding xiang	1470
+几何反转原理	ji he fan zhuan yuan li	104
+几何校正	ji he jiao zheng	1466
+几何模型	ji he mo xing	1468
+几何条件	ji he tiao jian	1467
+机井	ji jing	1505
+计曲线	ji qu xian	1463
+技术和地理信息系统	ji shu he di li xin xi xi tong	1464
+技术境界标定	ji shu jing jie biao ding	1469
+计算机兼容磁带	ji suan ji jian rong ci dai	1462
+计算机视觉	ji suan ji shi jue	1461
+计算机制图综合	ji suan ji zhi tu zong he	1460
+基线	ji xian	1511
+基线测量	ji xian ce liang	1510
+基线网	ji xian wang	1509
+极限误差	ji xian wu cha	1478
+即协因数矩阵	ji xie yin shu ju zhen	1472
+极移	ji yi	1477
+基一高比	ji yi gao bi	71
+既有线站场测量	ji you xian zhan chang ce liang	1459
+机载激光测深	ji zai ji guang ce shen	1500
+机载遥感器	ji zai yao gan qi	1499
+机助测图	ji zhu ce tu	1498
+机助地图制图	ji zhu di tu zhi tu	1497
+机助分类	ji zhu fen lei	1496
+基准台	ji zhun tai	1508
+基准纬度	ji zhun wei du	1507
+极坐标定位	ji zuo biao ding wei	1476
+极坐标定位方法	ji zuo biao ding wei fang fa	1475
+极坐标缩放仪	ji zuo biao suo fang yi	1474
+假彩色合成	jia cai se he cheng	1455
+假彩色片	jia cai se pian	1454
+假彩色摄影	jia cai se she ying	1453
+假彩色图像	jia cai se tu xiang	1452
+加常数	jia chang shu	1458
+假定坐标系	jia ding zuo biao xi	1451
+加密点	jia mi dian	1457
+加密探测	jia mi tan ce	1456
+监测台	jian ce tai	1450
+监测网	jian ce wang	1449
+检查台	jian cha tai	1444
+监督分类	jian du fen lei	1448
+剪辑	jian ji	1442
+间接法纠正	jian jie fa jiu zheng	1447
+间接平差	jian jie ping cha	1446
+间曲线	jian qu xian	1445
+减色印刷	jian se yin shua	1441
+检疫锚地	jian yi mao di	1443
+渐长区间	jian zhang qu jian	1440
+渐长纬度	jian zhang wei du	1439
+建筑工程测量	jian zhu gong cheng ce liang	1438
+建筑红线测量	jian zhu hong xian ce liang	1437
+建筑物沉降观测	jian zhu wu chen jiang guan ce	1436
+建筑轴线测量	jian zhu zhou xian ce liang	1435
+江河图	jiang he tu	1433
+交叉点放样	jiao cha dian fang yang	1434
+交叉角度大于	jiao cha jiao du da yu	1428
+交叉耦合效应	jiao cha ou he xiao ying	1426
+交叉网线	jiao cha wang xian	1427
+校核基点	jiao he ji dian	427
+焦距	jiao ju	1431
+焦面快门	jiao mian kuai men	1430
+礁石	jiao shi	1432
+交线条件	jiao xian tiao jian	1425
+交向摄影	jiao xiang she ying	1424
+教学地图	jiao xue di tu	1423
+胶印	jiao yin	1429
+校正	jiao zheng	428
+校正针	jiao zheng zhen	34
+接边	jie bian	70
+接触晒印	jie chu shai yin	1422
+接触网屏	jie chu wang ping	1421
+接触印刷	jie chu yin shua	1420
+街道线	jie dao xian	1405
+结点平差	jie dian ping cha	1414
+截断误差	jie duan wu cha	1416
+截面差改正	jie mian cha gai zheng	1415
+接收二极管	jie shou er ji guan	1419
+接收机	jie shou ji	1418
+接收中心	jie shou zhong xin	1417
+解析测图	jie xi ce tu	1413
+解析测图仪	jie xi ce tu yi	1412
+解析定向	jie xi ding xiang	1411
+解析纠正	jie xi jiu zheng	1410
+解析空中三角测量	jie xi kong zhong san jiao ce liang	1409
+解析摄影测量	jie xi she ying ce liang	1408
+解析图根点	jie xi tu gen dian	1407
+解译	jie yi	1406
+界址标示表	jie zhi biao shi biao	69
+界址点	jie zhi dian	1404
+界址线	jie zhi xian	1403
+近程定位系统	jin cheng ding wei xi tong	1399
+近地点高度	jin di dian gao du	1354
+津格尔星对测时法	jin ge er xing dui ce shi fa	1391
+近海测量	jin hai ce liang	1398
+禁航区	jin hang qu	1401
+近井点	jin jing dian	1397
+近景摄影测量	jin jing she ying ce liang	1396
+禁区界线	jin qu jie xian	1400
+金属弹簧重力仪	jin shu tan huang zhong li yi	1402
+近似地形面	jin si di xing mian	1395
+近似平差	jin si ping cha	1394
+精博	jing bo	19
+井底车场平面图	jing di che chang ping mian tu	1373
+静电复印	jing dian fu yin	1357
+经度起算点	jing du qi suan dian	1376
+精度因子	jing du yin zi	1390
+经济地图	jing ji di tu	1375
+净空区测量	jing kong qu ce liang	1352
+井口位置点	jing kou wei zhi dian	1372
+精码	jing ma	1389
+精密测距	jing mi ce ju	1388
+精密垂准	jing mi chui zhun	1387
+精密定向	jing mi ding xiang	1386
+精密工程测量	jing mi gong cheng ce liang	1385
+精密工程控制网	jing mi gong cheng kong zhi wang	1384
+精密机械安装测量	jing mi ji xie an zhuang ce liang	1383
+精密立体测图仪	jing mi li ti ce tu yi	1382
+精密水准测量	jing mi shui zhun ce liang	1381
+精密水准仪	jing mi shui zhun yi	1380
+精密星历	jing mi xing li	1379
+精密准直	jing mi zhun zhi	1378
+精确测定离岸约	jing que ce ding li an yue	1377
+井上下对照图	jing shang xia dui zhao tu	1371
+景深	jing shen	1359
+静态定位	jing tai ding wei	1356
+静态遥感器	jing tai yao gan qi	1355
+井探工程测量	jing tan gong cheng ce liang	1370
+井田区域地形图	jing tian qu yu di xing tu	1369
+井筒十字中线标定	jing tong shi zi zhong xian biao ding	1368
+井筒延伸测量	jing tong yan shen ce liang	1367
+井筒中心标定	jing tong zhong xin biao ding	1366
+经纬仪	jing wei yi	1374
+经纬仪测绘法	jing wei yi ce hui fa	1393
+经纬仪导线	jing wei yi dao xian	1392
+景物反差	jing wu fan cha	1358
+井下测量	jing xia ce liang	1365
+井下高程测量	jing xia gao cheng ce liang	1364
+井下交叉闭合导线	jing xia jiao cha bi he dao xian	1363
+井下勘探测量	jing xia kan tan ce liang	1362
+井下空硐测量	jing xia kong dong ce liang	1361
+井下水平控制测量	jing xia shui ping kong zhi ce liang	1360
+径向畸变	jing xiang ji bian	1353
+纠正	jiu zheng	1351
+纠正图底	jiu zheng tu di	68
+纠正仪	jiu zheng yi	1350
+纠正元素	jiu zheng yuan su	1349
+距岸约	ju an yue	1347
+距离测量	ju li ce liang	1346
+距离判决函数	ju li pan jue han shu	1344
+矩形分幅	ju xing fen fu	1348
+绝对垂线偏差	jue dui chui xian pian cha	1343
+绝对定向	jue dui ding xiang	1342
+绝对定向元素	jue dui ding xiang yuan su	1341
+绝对航高	jue dui hang gao	1340
+绝对误差	jue dui wu cha	1339
+绝对阈	jue dui yu	1336
+绝对重力测量	jue dui zhong li ce liang	1338
+绝对重力仪	jue dui zhong li yi	1337
+竣工测量	jun gong ce liang	1329
+军事工程变形观测	jun shi gong cheng bian xing guan ce	1345
+军事工程测量	jun shi gong cheng ce liang	1335
+军事基地测量	jun shi ji di ce liang	1334
+军用大比例尺测图	jun yong da bi li chi ce tu	1333
+军用海图	jun yong hai tu	1332
+军用坑道测量	jun yong keng dao ce liang	1331
+军用桥梁测量	jun yong qiao liang ce liang	1330
+开采沉陷观测	kai cai chen xian guan ce	1328
+开采沉陷图	kai cai chen xian tu	1327
+开采沉陷预计	kai cai chen xian yu ji	1326
+开窗	kai chuang	1325
+开窗检索	kai chuang jian suo	1324
+开思	kai si	1323
+勘测	kan ce	1322
+勘测设计阶段测量	kan ce she ji jie duan ce liang	1321
+勘探基线	kan tan ji xian	1320
+勘探网测量	kan tan wang ce liang	1319
+勘探网测设	kan tan wang ce she	1318
+勘探线测量	kan tan xian ce liang	1317
+勘探线剖面图	kan tan xian pou mian tu	1316
+抗差估计	kang cha gu ji	1313
+康索尔海图	kang suo er hai tu	1315
+考古摄影测量	kao gu she ying ce liang	1312
+刻绘	ke hui	1306
+克拉索夫斯基	ke la suo fu si ji	1310
+克拉索夫斯基椭球	ke la suo fu si ji tuo qiu	1309
+克莱罗定理	ke lai luo ding li	1308
+科力达	ke li da	18
+克吕格投影	ke lv ge tou ying	1307
+科普原理	ke pu yuan li	1311
+刻图仪	ke tu yi	1305
+垦复测量	ken fu ce liang	1314
+坑道平面图	keng dao ping mian tu	1304
+坑探工程测量	keng tan gong cheng ce liang	1303
+空基系统	kong ji xi tong	1302
+空间大地测量学	kong jian da di ce liang xue	1301
+空间改正	kong jian gai zheng	1300
+空间后方交会	kong jian hou fang jiao hui	1299
+空间前方交会	kong jian qian fang jiao hui	1298
+空间实验室	kong jian shi yan shi	1297
+空间数据基础设施	kong jian shu ju ji chu she shi	1296
+空间数据库管理系统	kong jian shu ju ku guan li xi tong	1295
+空间数据转换	kong jian shu ju zhuan huan	1294
+空间信息可视化	kong jian xin xi ke shi hua	1293
+空间异常	kong jian yi chang	1292
+控制测量	kong zhi ce liang	1288
+控制点	kong zhi dian	1287
+空中导线测量	kong zhong dao xian ce liang	1291
+空中三角测量	kong zhong san jiao ce liang	1290
+空中水准测量	kong zhong shui zhun ce liang	1289
+库容测量	ku rong ce liang	1286
+跨河水准测量	kua he shui zhun ce liang	1285
+快门	kuai men	1282
+块状图	kuai zhuang tu	1283
+宽底符号	kuan di fu hao	1284
+框标	kuang biao	1281
+矿产图	kuang chan tu	1279
+矿产性质几何制图	kuang chan xing zhi ji he zhi tu	1278
+矿场标定一	kuang chang biao ding yi	1277
+矿场平面图	kuang chang ping mian tu	1276
+矿床几何	kuang chuang ji he	1275
+框幅摄影机	kuang fu she ying ji	1280
+矿井测量	kuang jing ce liang	1274
+矿井提升设备安装测量	kuang jing ti sheng she bei an zhuang ce liang	1273
+矿区控制测量	kuang qu kong zhi ce liang	1272
+矿区控制网精度估算	kuang qu kong zhi wang jing du gu suan	1271
+矿区控制网设计	kuang qu kong zhi wang she ji	1270
+矿山测量	kuang shan ce liang	1269
+矿山测量交换图	kuang shan ce liang jiao huan tu	1268
+矿山测量图	kuang shan ce liang tu	1267
+矿山测量学	kuang shan ce liang xue	1266
+矿山经纬仪	kuang shan jing wei yi	1265
+矿体几何	kuang ti ji he	1264
+矿体几何制图	kuang ti ji he zhi tu	1263
+扩散转印	kuo san zhuan yin	1262
+拉普拉斯点	la pu la si dian	1261
+拉普拉斯方位角	la pu la si fang wei jiao	1260
+莱曼法	lai man fa	1259
+莱赛	lai sai	17
+兰勃特投影	lan bo te tou ying	1257
+蓝底图	lan di tu	1258
+浪花	lang hua	1255
+勒夫数	le fu shu	1254
+类别视觉感受	lei bie shi jue gan shou	1249
+雷达测高仪	lei da ce gao yi	1253
+雷达覆盖区	lei da fu gai qu	1252
+雷达应答器	lei da ying da qi	1251
+雷达指向标	lei da zhi xiang biao	1250
+雷迪	lei di	16
+类型地图	lei xing di tu	1247
+类星体	lei xing ti	1248
+立标	li biao	1235
+力高	li gao	1218
+立井导入高程测量	li jing dao ru gao cheng ce liang	1234
+立井定向测量	li jing ding xiang ce liang	1233
+立井激光指向	li jing ji guang zhi xiang	1232
+理论地图学	li lun de tu xue	1244
+理论最低低潮面	li lun zui di di chao mian	1243
+理论最高高潮面	li lun zui gao gao chao mian	1242
+礼炮号航天站	li pao hao hang tian zhan	1241
+历史地图	li shi di tu	1240
+立体测图仪	li ti ce tu yi	1231
+立体地图	li ti di tu	1230
+立体观测	li ti guan ce	1229
+立体观测模型	li ti guan ce mo xing	1228
+立体镜	li ti jing	1227
+立体判读仪	li ti pan du yi	1226
+立体摄影测量	li ti she ying ce liang	1225
+立体摄影机	li ti she ying ji	1224
+立体视觉	li ti shi jue	1223
+立体像对	li ti xiang dui	1222
+立体像对右片上	li ti xiang dui you pian shang	1221
+立体正射像片	li ti zheng she xiang pian	67
+立体坐标量测仪	li ti zuo biao liang ce yi	1220
+离心力	li xin li	1246
+离心力位	li xin li wei	1245
+利用波长为	li yong bo chang wei	1238
+利用对物距不大于	li yong dui wu ju bu da yu	1237
+利用高斯	li yong gao si	1236
+历元平极	li yuan ping ji	1239
+粒子加速器测量	li zi jia su qi ce liang	1219
+联测比对	lian ce bi dui	1217
+联合平差	lian he ping cha	1216
+联机空中三角测量	lian ji kong zhong san jiao ce liang	1215
+连接测量	lian jie ce liang	1256
+连接点	lian jie dian	1207
+联盟号宇宙飞船	lian meng hao yu zhou fei chuan	1214
+帘幕快门	lian mu kuai men	66
+帘幕式快门	lian mu shi kuai men	1202
+联系测量	lian xi ce liang	1213
+联系三角形法	lian xi san jiao xing fa	1212
+联系数	lian xi shu	1208
+联系四边形法	lian xi si bian xing fa	1211
+连续对比	lian xu dui bi	1205
+连续方式	lian xu fang shi	1204
+连续减光板	lian xu jian guang ban	1203
+连续调	lian xu tiao	1206
+量测摄影机	liang ce she ying ji	1201
+量底法	liang di fa	1200
+亮度	liang du	1198
+量化	liang hua	1199
+裂缝观测	lie feng guan ce	1197
+林班测量	lin ban ce liang	1210
+邻带方里网	lin dai fang li wang	1192
+临时界桩	lin shi jie zhuang	1194
+邻图拼接比对	lin tu pin jie bi dui	1191
+林相图	lin xiang tu	1209
+林业测量	lin ye ce liang	1196
+林业基本图	lin ye ji ben tu	1195
+邻元法	lin yuan fa	1190
+邻宗	lin zong	65
+领海基线测量	ling hai ji xian ce liang	1187
+零漂改正	ling piao gai zheng	1189
+零相位效应	ling xiang wei xiao ying	1188
+六分仪	liu fen yi	1186
+隆海力	long hai li	14
+陆地卫星	lu di wei xing	1181
+鲁洛夫斯太阳棱镜	lu luo fu si tai yang leng jing	1185
+露天矿爆破工作测量	lu tian kuang bao po gong zuo ce liang	1193
+露天矿测量	lu tian kuang ce liang	1184
+露天矿矿图	lu tian kuang kuang tu	1183
+路线水准测量	lu xian shui zhun ce liang	1182
+乱掘	luan jue	4
+乱掘地	luan jue di	1180
+略最低低潮面	lue zui di di chao mian	1177
+罗德里格斯矩阵	luo de li ge si ju zhen	64
+逻辑兼容	luo ji jian rong	1169
+逻辑一致性	luo ji yi zhi xing	1168
+罗经	luo jing	1176
+罗经航向	luo jing hang xiang	1175
+罗兰	luo lan	1174
+罗兰海图	luo lan hai tu	1173
+罗盘经纬仪	luo pan jing wei yi	1172
+罗盘仪	luo pan yi	1171
+罗盘仪测量	luo pan yi ce liang	1170
+率定仪	lv ding yi	15
+滤光片	lv guang pian	1178
+旅游地图	lv you di tu	1179
+脉冲激光器	mai chong ji guang qi	62
+埋石	mai shi	1166
+埋石点	mai shi dian	1165
+埋石图根点	mai shi tu gen dian	1164
+芒塞尔色系	mang sai er se xi	1167
+盲色片	mang se pian	63
+锚地	mao di	1163
+锚区	mao qu	1162
+锚位	mao wei	1161
+卯酉面	mao you mian	1160
+卯酉圈	mao you quan	1159
+卯酉圈曲率半径	mao you quan qu lv ban jing	1158
+美国陆地卫星	mei guo lu di wei xing	1157
+蒙绘	meng hui	1156
+蒙片	meng pian	1155
+密度	mi du	1154
+密度分割	mi du fen ge	1153
+密度计	mi du ji	1152
+面水准测量	mian shui zhun ce liang	1151
+面状符号	mian zhuang fu hao	1150
+瞄直法	miao zhi fa	1149
+明礁	ming jiao	1148
+明显地物点	ming xian di wu dian	1147
+名义量表	ming yi liang biao	1146
+莫尔条纹图	mo er tiao wen tu	1133
+模糊分类法	mo hu fen lei fa	1145
+模糊影像	mo hu ying xiang	1144
+墨卡托海图	mo ka tuo hai tu	1130
+墨卡托投影	mo ka tuo tou ying	1129
+莫洛坚斯基公式	mo luo jian si ji gong shi	1132
+莫洛坚斯基理论	mo luo jian si ji li lun	1131
+模拟磁带	mo ni ci dai	1143
+模拟地图	mo ni di tu	1142
+模拟法测图	mo ni fa ce tu	1141
+模拟空中三角测量	mo ni kong zhong san jiao ce liang	1140
+模拟立体测图仪	mo ni li ti ce tu yi	1139
+模拟摄影测量	mo ni she ying ce liang	1138
+模式识别	mo shi shi bie	1137
+模型连接	mo xing lian jie	1136
+模型缩放	mo xing suo fang	1135
+模型置平	mo xing zhi ping	1134
+目标反射器	mu biao fan she qi	1128
+目标区	mu biao qu	1127
+目镜	mu jing	61
+目视判读	mu shi pan du	1126
+目视天顶仪	mu shi tian ding yi	1125
+穆瓦条纹图	mu wa tiao wen tu	60
+挠度观测	nao du guan ce	1124
+内部定向	nei bu ding xiang	1123
+内分点	nei fen dian	59
+内外分点	nei wai fen dian	58
+能见度	neng jian du	1122
+能见敏锐度	neng jian min rui du	1121
+拟稳平差	ni wen ping cha	1120
+逆转点法	ni zhuan dian fa	1119
+年差	nian cha	1118
+年代末由	nian dai mo you	1117
+年到	nian dao	1116
+年间	nian jian	1115
+年平均海面	nian ping jun hai mian	1114
+鸟瞰图	niao kan tu	1113
+诺瓦泰	nuo wa tai	13
+欧波	ou bo	12
+偶然误差	ou ran wu cha	1111
+欧赛迪	ou sai di	11
+欧洲遥感卫星	ou zhou yao gan wei xing	1112
+判读	pan du	1110
+判读仪	pan du yi	1109
+判释	pan shi	1108
+庞加莱改正	pang jia lai gai zheng	1107
+旁向重叠	pang xiang chong die	1105
+旁向倾角	pang xiang qing jiao	1106
+旁折光差	pang zhe guang cha	1104
+偏角法	pian jiao fa	1103
+偏近点角	pian jin dian jiao	1102
+偏振光立体观察	pian zhen guang li ti guan cha	1101
+频率误差	pin lv wu cha	1100
+频偏	pin pian	1099
+频漂	pin piao	1098
+平板仪	ping ban yi	1097
+平板仪测量	ping ban yi ce liang	1096
+平板仪导线	ping ban yi dao xian	1095
+平差	ping cha	57
+平差易	ping cha yi	56
+平差值	ping cha zhi	1093
+坪高	ping gao	55
+平衡潮	ping heng chao	1092
+平极	ping ji	1091
+平近点角	ping jin dian jiao	1090
+平距	ping ju	1094
+平均地球椭球	ping jun di qiu tuo qiu	1089
+平均海	ping jun hai	1088
+平均海面归算	ping jun hai mian gui suan	1087
+平均曲率半径	ping jun qu lv ban jing	1086
+平均误差	ping jun wu cha	1085
+平均运动	ping jun yun dong	1084
+平面控制点	ping mian kong zhi dian	1083
+平面控制网	ping mian kong zhi wang	1082
+平面曲线测设	ping mian qu xian ce she	1081
+平面图	ping mian tu	1080
+平面坐标	ping mian zuo biao	1079
+屏幕地图	ping mu di tu	1073
+平时式时号	ping shi shi shi hao	1077
+平时钟	ping shi zhong	1078
+平行圈	ping xing quan	1076
+平移参数	ping yi can shu	1075
+平整土地测量	ping zheng tu di ce liang	1074
+坡底	po di	1072
+坡度测设	po du ce she	1071
+坡面经纬仪	po mian jing wei yi	1070
+剖面图	pou mian tu	1069
+普拉烈系统	pu la lie xi tong	1068
+普通测量学	pu tong ce liang xue	1064
+普通地图集	pu tong de tu ji	1066
+普通地图	pu tong di tu	1067
+普通海图	pu tong hai tu	1065
+普通凿井法施工测量	pu tong zao jing fa shi gong ce liang	1063
+起测基点	qi ce ji dian	1048
+气体激光器	qi ti ji guang qi	1061
+气象代表误差	qi xiang dai biao wu cha	1060
+气象改正	qi xiang gai zheng	1059
+恰可察觉差	qia ke cha jue cha	1058
+恰普斯基条件	qia pu si ji tiao jian	1057
+铅垂线	qian chui xian	1056
+铅垂仪	qian chui yi	1055
+钱德勒摆动	qian de le bai dong	1053
+浅地层剖面仪	qian di ceng pou mian yi	1051
+浅底地层剖面仪	qian di di ceng pou mian yi	54
+前方交会	qian fang jiao hui	1052
+千米尺	qian mi chi	1054
+浅色调	qian se diao	1050
+浅滩	qian tan	1049
+桥墩定位	qiao dun ding wei	1047
+桥涵洞测量	qiao han dong ce liang	1046
+桥梁测量	qiao liang ce liang	1045
+桥梁控制测量	qiao liang kong zhi ce liang	1044
+桥梁轴线测设	qiao liang zhou xian ce she	1043
+切线支距法	qie xian zhi ju fa	1042
+切向畸变	qie xiang ji bian	1041
+清层	qing ceng	53
+清华山维	qing hua shan wei	1034
+清绘	qing hui	1035
+倾斜观测	qing xie guan ce	1040
+倾斜摄影	qing xie she ying	1038
+倾斜位移	qing xie wei yi	1037
+倾斜仪	qing xie yi	1036
+求积仪	qiu ji yi	1031
+求积仪法	qiu ji yi fa	1039
+球面投影	qiu mian tou ying	1033
+球心投影	qiu xin tou ying	1032
+区划地图	qu hua di tu	1030
+曲线光滑	qu xian guang hua	1025
+区域地图集	qu yu di tu ji	1029
+区域地质调查	qu yu di zhi diao cha	1028
+区域地质图	qu yu di zhi tu	1027
+区域网平差	qu yu wang ping cha	1026
+权函数	quan han shu	1024
+全景畸变	quan jing ji bian	1020
+全景摄影	quan jing she ying	1019
+全景摄影机	quan jing she ying ji	1018
+权矩阵	quan ju zhen	1023
+全能法测图	quan neng fa ce tu	1017
+权逆阵	quan ni zhen	1022
+全球导航卫星系统	quan qiu dao hang wei xing xi tong	1016
+全球定位系统	quan qiu ding wei xi tong	1015
+全色红外片	quan se hong wai pian	1014
+全色片	quan se pian	1013
+全息摄影	quan xi she ying	1012
+全息摄影测量	quan xi she ying ce liang	1011
+权系数	quan xi shu	1021
+全向天线	quan xiang tian xian	1010
+权源	quan yuan	52
+全站仪	quan zhan yi	1009
+全组合测角法	quan zu he ce jiao fa	1008
+扰动位	rao dong wei	1007
+热辐射	re fu she	1006
+热红外图像	re hong wai tu xiang	1005
+人工标志	ren gong biao zhi	1004
+人机交互处理	ren ji jiao hu chu li	1003
+人口地图	ren kou di tu	1002
+人文地图	ren wen di tu	1001
+任意比例尺	ren yi bi li chi	999
+人仪差	ren yi cha	1000
+任意投影	ren yi tou ying	998
+任意轴子午线	ren yi zhou zi wu xian	997
+认知制图	ren zhi zhi tu	996
+日潮港	ri chao gang	995
+日格林尼治平子午	ri ge lin ni zhi ping zi wu	994
+日晷投影	ri gui tou ying	990
+日内瓦尺	ri nei wa chi	993
+日平均海面	ri ping jun hai mian	992
+日图	ri tu	10
+日月引力摄动	ri yue yin li she dong	991
+容许误差	rong xu wu cha	987
+冗余码	rong yu ma	989
+冗余信息	rong yu xin xi	988
+儒略日	ru lue ri	986
+三边测量	san bian ce liang	985
+三边网	san bian wang	984
+三差相位观测	san cha xiang wei guan ce	983
+三杆分度仪	san gan fen du yi	982
+三角测量	san jiao ce liang	980
+三角点	san jiao dian	979
+三角高程测量	san jiao gao cheng ce liang	978
+三角高程导线	san jiao gao cheng dao xian	977
+三角高程网	san jiao gao cheng wang	976
+三角基座	san jiao ji zuo	975
+三脚架	san jiao jia	981
+三角锁	san jiao suo	974
+三角网	san jiao wang	973
+三维地景仿真	san wei di jing fang zhen	972
+三维网	san wei wang	971
+扫床测深仪	sao chuang ce shen yi	103
+扫海测量	sao hai ce liang	970
+扫海测深仪	sao hai ce shen yi	969
+扫海具	sao hai ju	968
+扫海区	sao hai qu	967
+扫海深度	sao hai shen du	966
+扫海趟	sao hai tang	965
+扫雷区	sao lei qu	964
+扫描数字化	sao miao shu zi hua	963
+扫描仪	sao miao yi	962
+色彩管理系统	se cai guan li xi tong	961
+色调	se diao	960
+色环	se huan	959
+色盲片	se mang pian	958
+色相	se xiang	957
+森林分布图	sen lin fen bu tu	956
+沙尔定律	sha er ding lv	954
+晒版	shai ban	953
+闪闭法立体观察	shan bi fa li ti guan cha	952
+栅格绘图	shan ge hui tu	304
+栅格数据	shan ge shu ju	303
+闪烁误差	shan shuo wu cha	951
+扇谐系数	shan xie xi shu	950
+熵编码	shang bian ma	51
+上下视差	shang xia shi cha	949
+上站	shang zhan	948
+上站点	shang zhan dian	947
+射电干涉测量	she dian gan she ce liang	924
+摄动	she dong	946
+摄动函数	she dong han shu	945
+摄动力	she dong li	944
+设计水位	she ji shui wei	922
+摄谱仪	she pu yi	943
+射线摄影测量	she xian she ying ce liang	923
+摄影	she ying	942
+摄影比例尺	she ying bi li chi	941
+摄影测量畸变差	she ying ce liang ji bian cha	940
+摄影测量内插	she ying ce liang nei cha	939
+摄影测量学	she ying ce liang xue	938
+摄影测量仪器	she ying ce liang yi qi	937
+摄影测量与遥感学	she ying ce liang yu yao gan xue	936
+摄影测量坐标系	she ying ce liang zuo biao xi	935
+摄影处理	she ying chu li	934
+摄影分区	she ying fen qu	933
+摄影航线	she ying hang xian	932
+摄影机	she ying ji	930
+摄影机检校	she ying ji jian jiao	929
+摄影基线	she ying ji xian	931
+摄影机主距	she ying ji zhu ju	928
+摄影经纬仪	she ying jing wei yi	927
+摄影学	she ying xue	926
+摄站	she zhan	925
+设宗	she zong	50
+甚长基线干涉测量	shen chang ji xian gan she ce liang	920
+深度感	shen du gan	919
+深度基准	shen du ji zhun	918
+深度基准面	shen du ji zhun mian	917
+深度基准面保证率	shen du ji zhun mian bao zheng lv	916
+深色调	shen se tiao	915
+伸缩仪	shen suo yi	921
+生产矿井测量	sheng chan kuang jing ce liang	955
+声呐扫海	sheng na sao hai	914
+声呐图像	sheng na tu xiang	913
+声速改正	sheng su gai zheng	912
+声速计	sheng su ji	911
+声图判读	sheng tu pan du	910
+生物量指标变换	sheng wu liang zhi biao bian huan	907
+生物医学摄影测量	sheng wu yi xue she ying ce liang	906
+声学水位计	sheng xue shui wei ji	909
+声学组合定位系统	sheng xue zu he ding wei xi tong	908
+识别码	shi bie ma	889
+施测	shi ce	49
+视差	shi cha	878
+视差导线	shi cha dao xian	875
+视场对比	shi chang dui bi	877
+视地平线	shi di ping xian	876
+时方差	shi fang cha	896
+施工测量	shi gong ce liang	904
+施工方格网	shi gong fang ge wang	903
+施工控制网	shi gong kong zhi wang	902
+施工平面图	shi gong ping mian tu	901
+施工详图	shi gong xiang tu	900
+时号	shi hao	895
+时号改正数	shi hao gai zheng shu	894
+世界地图集	shi jie di tu ji	883
+世界时	shi jie shi	882
+世界重力基点	shi jie zhong li ji dian	884
+视距	shi ju	874
+视距乘常数	shi ju cheng chang shu	873
+视距导线	shi ju dao xian	872
+视距加常数	shi ju jia chang shu	871
+视觉变量	shi jue bian liang	870
+视觉层次	shi jue ceng ci	869
+视觉对比	shi jue dui bi	868
+视觉分辨敏锐度	shi jue fen bian min rui du	867
+视觉立体地图	shi jue li ti di tu	866
+视觉平衡	shi jue ping heng	865
+施赖伯全组合测角法	shi lai bo quan zu he ce jiao fa	899
+矢量绘图	shi liang hui tu	888
+矢量数据	shi liang shu ju	887
+矢量重力测量	shi liang zhong li ce liang	886
+史密森天文台星表	shi mi sen tian wen tai xing biao	861
+视模型	shi mo xing	864
+示坡线	shi po xian	885
+实时处理	shi shi chu li	892
+实时摄影测量	shi shi she ying ce liang	891
+失锁	shi suo	905
+视线高程	shi xian gao cheng	863
+适淹礁	shi yan jiao	881
+石英弹簧重力仪	shi ying tan huang zhong li yi	898
+适应性水平	shi ying xing shui ping	880
+实用地图学	shi yong di tu xue	890
+石油勘探测量	shi you kan tan ce liang	897
+市政工程测量	shi zheng gong cheng ce liang	879
+时钟频率	shi zhong pin lv	893
+视准线法	shi zhun xian fa	862
+手簿	shou bu	48
+手持	shou chi	47
+手持水准仪	shou chi shui zhun yi	859
+首曲线	shou qu xian	858
+受摄轨道	shou she gui dao	857
+收时	shou shi	860
+输电线路测量	shu dian xian lu ce liang	856
+竖基尺视差法	shu ji chi shi cha fa	850
+竖井激光指向	shu jing ji guang zhi xiang	849
+数据编辑	shu ju bian ji	847
+数据标准	shu ju biao zhun	846
+数据采集	shu ju cai ji	845
+数据采集器	shu ju cai ji qi	844
+数据处理	shu ju chu li	843
+数据传输	shu ju chuan shu	842
+数据分类	shu ju fen lei	841
+数据格式	shu ju ge shi	840
+数据更新	shu ju geng xin	839
+数据探测法	shu ju tan ce fa	838
+数据压缩	shu ju ya suo	837
+数据样品	shu ju yang pin	836
+数据质量控制	shu ju zhi liang kong zhi	835
+数据转换	shu ju zhuan huan	834
+疏浚区	shu jun qu	854
+数控绘图桌	shu kong hui tu zhuo	833
+数量感	shu liang gan	832
+竖盘指标差	shu pan zhi biao cha	852
+竖曲线测设	shu qu xian ce she	851
+属性精度	shu xing jing du	853
+数学地图学	shu xue di tu xue	831
+输油管道测量	shu you guan dao ce liang	855
+数值等于	shu zhi deng yu	830
+数值地籍	shu zhi di ji	829
+竖直摄影	shu zhi she ying	848
+数字表面模型	shu zi biao mian mo xing	828
+数字测图	shu zi ce tu	827
+数字磁带	shu zi ci dai	826
+数字地图学	shu zi de tu xue	821
+数字地籍数据库	shu zi di ji shu ju ku	825
+数字地面模型	shu zi di mian mo xing	824
+数字地图	shu zi di tu	823
+数字地图产品标准	shu zi di tu chan pin biao zhun	822
+数字高程模型	shu zi gao cheng mo xing	820
+数字海图	shu zi hai tu	819
+数字化器	shu zi hua qi	818
+数字化文件	shu zi hua wen jian	817
+数字化影像	shu zi hua ying xiang	816
+数字纠正	shu zi jiu zheng	815
+数字滤波	shu zi lv bo	100
+数字摄影测量	shu zi she ying ce liang	814
+数字摄影测量工作站	shu zi she ying ce liang gong zuo zhan	813
+数字图像处理	shu zi tu xiang chu li	812
+数字图形处理	shu zi tu xing chu li	811
+数字相关	shu zi xiang guan	810
+数字镶嵌	shu zi xiang qian	809
+数字影像	shu zi ying xiang	808
+数字正射影像	shu zi zheng she ying xiang	807
+数字正射影像图	shu zi zheng she ying xiang tu	806
+数字制图数据标准	shu zi zhi tu shu ju biao zhun	805
+栓距	shuan ju	46
+双标准纬线投影	shuang biao zhun wei xian tou ying	804
+双差相位观测	shuang cha xiang wei guan ce	803
+双介质摄影测量	shuang jie zhi she ying ce liang	802
+双频测深仪	shuang pin ce shen yi	801
+双频信标	shuang pin xin biao	800
+双曲线导航图	shuang qu xian dao hang tu	799
+双曲线定位	shuang qu xian ding wei	798
+双曲线定位系统	shuang qu xian ding wei xi tong	797
+双曲线格网	shuang qu xian ge wang	796
+双三次卷积	shuang san ci juan ji	102
+双色激光测距仪	shuang se ji guang ce ju yi	795
+双线性内插	shuang xian xing nei cha	101
+双向航道	shuang xiang hang dao	794
+水尺	shui chi	793
+水道测量	shui dao ce liang	792
+水道测量学	shui dao ce liang xue	791
+水库测量	shui ku ce liang	790
+水库淹没线测设	shui ku yan mo xian ce she	789
+水雷	shui lei	788
+水利工程测量	shui li gong cheng ce liang	787
+水面水准	shui mian shui zhun	786
+水平角	shui ping jiao	785
+水平控制网	shui ping kong zhi wang	784
+水平折光差	shui ping zhe guang cha	783
+水汽辐射仪	shui qi fu she yi	782
+水深	shui shen	781
+水深测量	shui shen ce liang	780
+水深测量自动化系统	shui shen ce liang zi dong hua xi tong	779
+水深数字化器	shui shen shu zi hua qi	778
+水深信号杆	shui shen xin hao gan	777
+水声定位	shui sheng ding wei	776
+水声定位系统	shui sheng ding wei xi tong	775
+水声全息系统	shui sheng quan xi xi tong	774
+水声应答器	shui sheng ying da qi	773
+水铊	shui ta	749
+水听器	shui ting qi	772
+水位	shui wei	771
+水位分带改正	shui wei fen dai gai zheng	770
+水位改正	shui wei gai zheng	769
+水位曲线	shui wei qu xian	768
+水位遥报仪	shui wei yao bao yi	767
+水文测验	shui wen ce yan	766
+水文观测	shui wen guan ce	765
+水文要素	shui wen yao su	764
+水系图	shui xi tu	763
+水下摄影测量	shui xia she ying ce liang	762
+水下摄影机	shui xia she ying ji	761
+水涯线	shui ya xian	760
+水准测量	shui zhun ce liang	759
+水准尺	shui zhun chi	758
+水准点	shui zhun dian	757
+水准路线	shui zhun lu xian	756
+水准面	shui zhun mian	755
+水准器	shui zhun qi	754
+水准椭球	shui zhun tuo qiu	753
+水准网	shui zhun wang	752
+水准仪	shui zhun yi	751
+水准原点	shui zhun yuan dian	750
+瞬间地图	shun jian di tu	748
+瞬时极	shun shi ji	747
+瞬时视场	shun shi shi chang	746
+顺序量表	shun xu liang biao	745
+似大地水准面	si da di shui zhun mian	739
+似大地水准面至	si da di shui zhun mian zhi	738
+撕膜片	si mo pian	742
+四色印刷	si se yin shua	740
+斯托克斯公式	si tuo ke si gong shi	744
+斯托克斯理论	si tuo ke si li lun	743
+丝网印刷	si wang yin shua	741
+搜索区	sou suo qu	737
+碎部测量	sui bu ce liang	736
+碎部点	sui bu dian	735
+岁差	sui cha	734
+隧道测量	sui dao ce liang	732
+穗帽变换	sui mao bian huan	733
+缩放仪	suo fang yi	45
+索佳	suo jia	9
+缩微地图	suo wei di tu	731
+缩微摄影	suo wei she ying	730
+缩小仪	suo xiao yi	729
+塔尺	ta chi	8
+塔尔科特测纬度法	ta er ke te ce wei du fa	728
+台卡定位系统	tai ka ding wei xi tong	727
+台卡海图	tai ka hai tu	726
+太空摄影测量	tai kong she ying ce liang	724
+台链	tai lian	725
+泰士	tai shi	7
+态势地图	tai shi di tu	720
+太阳辐射波谱	tai yang fu she bo pu	723
+太阳光压摄动	tai yang guang ya she dong	722
+太阳同步卫星	tai yang tong bu wei xing	721
+探测者	tan ce zhe	719
+特殊水深	te shu shui shen	717
+特殊凿井法施工测量	te shu zao jing fa shi gong ce liang	709
+特征	te zheng	716
+特征编码	te zheng bian ma	715
+特征码	te zheng ma	714
+特征码清单	te zheng ma qing dan	713
+特征提取	te zheng ti qu	712
+特征选择	te zheng xuan ze	711
+特种地图	te zhong di tu	710
+体素	ti su	708
+梯田坎	ti tian kan	718
+天波干扰	tian bo gan rao	707
+天波修正	tian bo xiu zheng	706
+填充地图	tian chong di tu	686
+天吊	tian diao	44
+天顶距	tian ding ju	705
+天球坐标系	tian qiu zuo biao xi	704
+天文常数和	tian wen chang shu he	703
+天文大地垂线偏差	tian wen da di chui xian pian cha	702
+天文大地网	tian wen da di wang	701
+天文大地网平差	tian wen da di wang ping cha	700
+天文点	tian wen dian	699
+天文定位系统	tian wen ding wei xi tong	698
+天文方位角	tian wen fang wei jiao	697
+天文经度	tian wen jing du	696
+天文经纬仪	tian wen jing wei yi	695
+天文年历	tian wen nian li	694
+天文水准	tian wen shui zhun	693
+天文纬度	tian wen wei du	692
+天文重力水准	tian wen zhong li shui zhun	691
+天文坐标	tian wen zuo biao	690
+天文坐标量测仪	tian wen zuo biao liang ce yi	689
+天线方向性	tian xian fang xiang xing	688
+天线高度	tian xian gao du	687
+田谐系数	tian xie xi shu	685
+条带	tiao dai	3
+条带图	tiao dai tu	2
+调绘	tiao hui	1989
+条件方程	tiao jian fang cheng	684
+条件平差	tiao jian ping cha	683
+调焦误差	tiao jiao wu cha	1988
+调制传递函数	tiao zhi chuan di han shu	1987
+调制频率	tiao zhi pin lv	1986
+调制器	tiao zhi qi	1985
+跳注	tiao zhu	43
+铁路工程测量	tie lu gong cheng ce liang	682
+同步观测	tong bu guan ce	677
+同步平面	tong bu ping mian	676
+同步验潮	tong bu yan chao	675
+通常是图例中的符号	tong chang shi tu li zhong de fu hao	681
+砼房	tong fang	41
+通过立井导入高程测量	tong guo li jing dao ru gao cheng ce liang	678
+统计地图	tong ji di tu	671
+砼结构	tong jie gou	42
+同名光线	tong ming guang xian	674
+同名核线	tong ming he xian	673
+同名像点	tong ming xiang dian	672
+通用横墨卡托投影	tong yong heng mo ka tuo tou ying	680
+通用极球面投影	tong yong ji qiu mian tou ying	679
+透光率	tou guang lv	663
+透明负片	tou ming fu pian	662
+透明正片	tou ming zheng pian	661
+透明注记	tou ming zhu ji	660
+透视截面法	tou shi jie mian fa	659
+透视投影	tou shi tou ying	658
+透视旋转定律	tou shi xuan zhuan ding lv	657
+透写图	tou xie tu	656
+投影变换	tou ying bian huan	670
+投影变形	tou ying bian xing	669
+投影差	tou ying cha	668
+投影方程	tou ying fang cheng	667
+投影器	tou ying qi	666
+投影器主距	tou ying qi zhu ju	665
+投影晒印	tou ying shai yin	664
+图斑	tu ban	40
+土地档案	tu di dang an	605
+土地登记	tu di deng ji	604
+土地规划测量	tu di gui hua ce liang	620
+土地划分	tu di hua fen	619
+土地利用	tu di li yong	618
+土地利用现状图	tu di li yong xian zhuang tu	617
+土地评价	tu di ping jia	616
+土地统计	tu di tong ji	615
+土地信息系统	tu di xin xi xi tong	603
+土地证	tu di zheng	613
+土地整理	tu di zheng li	614
+图幅	tu fu	655
+图幅编号	tu fu bian hao	654
+图幅接边	tu fu jie bian	653
+图幅接合表	tu fu jie he biao	652
+图根点	tu gen dian	651
+图根控制	tu gen kong zhi	650
+图解法	tu jie fa	649
+图解纠正	tu jie jiu zheng	648
+图解图根点	tu jie tu gen dian	647
+图廓	tu kuo	646
+图例	tu li	644
+图历簿	tu li bu	645
+图面配置	tu mian pei zhi	642
+图示	tu shi	643
+图属	tu shu	39
+图属数据	tu shu shu ju	38
+图像	tu xiang	641
+图像变换	tu xiang bian huan	639
+图像编码	tu xiang bian ma	640
+图像处理	tu xiang chu li	638
+图像分割	tu xiang fen ge	637
+图像分析	tu xiang fen xi	636
+图像复合	tu xiang fu he	635
+图像复原	tu xiang fu yuan	634
+图像几何纠正	tu xiang ji he jiu zheng	633
+图像几何配准	tu xiang ji he pei zhun	632
+图像理解	tu xiang li jie	631
+图像描述	tu xiang miao shu	630
+图像识别	tu xiang shi bie	629
+图像数字化	tu xiang shu zi hua	628
+图像镶嵌	tu xiang xiang qian	627
+图像增强	tu xiang zeng qiang	626
+图形	tu xing	625
+图形符号	tu xing fu hao	624
+图形记号	tu xing ji hao	623
+图形权倒数	tu xing quan dao shu	622
+图形元素	tu xing yuan su	621
+推荐航线	tui jian hang xian	602
+拖底扫海	tuo di sao hai	601
+拓科	tuo ke	6
+陀螺定向测量	tuo luo ding xiang ce liang	612
+陀螺定向光电测距导线	tuo luo ding xiang guang dian ce ju dao xian	611
+陀螺定向误差	tuo luo ding xiang wu cha	610
+陀螺方位角	tuo luo fang wei jiao	599
+陀螺方位角排	tuo luo fang wei jiao pai	609
+陀螺经纬仪	tuo luo jing wei yi	598
+陀螺仪定向测量	tuo luo yi ding xiang ce liang	597
+陀螺仪子午线	tuo luo yi zi wu xian	608
+托帕克斯卫星	tuo pa ke si wei xing	600
+拓扑地图	tuo pu di tu	591
+拓扑关系	tuo pu guan xi	590
+拓扑检索	tuo pu jian suo	589
+椭球扁率	tuo qiu bian lv	596
+椭球长半轴	tuo qiu chang ban zhou	595
+椭球短半轴	tuo qiu duan ban zhou	594
+椭球面大地测量学	tuo qiu mian da di ce liang xue	593
+椭球偏心率	tuo qiu pian xin lv	592
+外部定向	wai bu ding xiang	588
+弯管目镜	wan guan mu jing	587
+网点	wang dian	586
+网点板法	wang dian ban fa	607
+网点或网穴	wang dian huo wang xue	585
+网格地图	wang ge di tu	584
+网格法	wang ge fa	583
+网格结构	wang ge jie gou	582
+网屏	wang ping	581
+网纹片	wang wen pian	580
+网线	wang xian	579
+微波测距仪	wei bo ce ju yi	578
+微波辐射	wei bo fu she	577
+微波辐射计	wei bo fu she ji	576
+微波图像	wei bo tu xiang	575
+微波遥感	wei bo yao gan	574
+微波遥感器	wei bo yao gan qi	573
+伪彩色	wei cai se	37
+伪彩色图像	wei cai se tu xiang	566
+伪等值线地图	wei deng zhi xian di tu	565
+微分法测图	wei fen fa ce tu	572
+微分纠正	wei fen jiu zheng	571
+伪结点	wei jie dian	36
+伪距测量	wei ju ce liang	564
+维纳频谱	wei na pin pu	567
+维宁曼乃兹公式	wei ning man nai zi gong shi	529
+微三角形法	wei san jiao xing fa	606
+危险	wei xian	569
+危险界线	wei xian jie xian	568
+卫星测高	wei xing ce gao	558
+卫星大地测量学	wei xing da di ce liang xue	557
+卫星定位	wei xing ding wei	556
+卫星多普勒定位	wei xing duo pu le ding wei	555
+卫星高度	wei xing gao du	553
+卫星跟踪卫星技术	wei xing gen zong wei xing ji shu	550
+卫星跟踪站	wei xing gen zong zhan	549
+卫星共振分析	wei xing gong zhen fen xi	548
+卫星构形	wei xing gou xing	547
+卫星惯导组合定位系统	wei xing guan dao zu he ding wei xi tong	35
+卫星光行差	wei xing guang xing cha	554
+卫星轨道改进	wei xing gui dao gai jin	546
+卫星轨道近地点幅角	wei xing gui dao jin di dian fu jiao	552
+卫星过近地点时刻	wei xing guo jin di dian shi ke	551
+卫星激光测距	wei xing ji guang ce ju	545
+卫星激光测距仪	wei xing ji guang ce ju yi	544
+卫星三角测量	wei xing san jiao ce liang	542
+卫星升交点赤经	wei xing sheng jiao dian chi jing	543
+卫星受摄运动	wei xing shou she yun dong	541
+卫星像片图	wei xing xiang pian tu	540
+卫星相位差	wei xing xiang wei cha	539
+卫星星下点	wei xing xing xia dian	538
+卫星运动方程	wei xing yun dong fang cheng	537
+卫星重力梯度测量	wei xing zhong li ti du ce liang	536
+卫星姿态	wei xing zi tai	535
+位移观测	wei yi guan ce	563
+位置函数	wei zhi han shu	562
+位置精度	wei zhi jing du	561
+位置线	wei zhi xian	560
+位置线方程	wei zhi xian fang cheng	559
+微重力测量	wei zhong li ce liang	570
+稳定锤投影	wen ding chui tou ying	530
+文化地图	wen hua di tu	534
+稳健估计	wen jian gu ji	531
+纹理分析	wen li fen xi	533
+纹理增强	wen li zeng qiang	532
+沃尔什变换	wo er shi bian huan	527
+误差放大因子	wu cha fang da yin zi	518
+误差检验	wu cha jian yan	517
+误差理论	wu cha li lun	516
+误差椭圆	wu cha tuo yuan	515
+五角棱镜	wu jiao leng jing	522
+物镜分辨力	wu jing fen bian li	521
+物空间坐标系	wu kong jian zuo biao xi	520
+物理大地测量学	wu li da di ce liang xue	519
+物理定向	wu li ding xiang	528
+无线电定位	wu xian dian ding wei	526
+无线电航行警告	wu xian dian hang xing jing gao	525
+无线电指向标	wu xian dian zhi xiang biao	524
+无线电指向标表	wu xian dian zhi xiang biao biao	523
+西安坐标系	xi an zuo biao xi	514
+系列地图	xi lie di tu	512
+系统集成	xi tong ji cheng	511
+系统误差	xi tong wu cha	510
+西洋	xi yang	513
+限差	xian cha	503
+线改正	xian gai zheng	500
+限航区	xian hang qu	502
+限量	xian liang	501
+线路平面图	xian lu ping mian tu	499
+显露色光三原色	xian lu se guang san yuan se	507
+线路水准测量	xian lu shui zhun ce liang	498
+线路中线测量	xian lu zhong xian ce liang	497
+现势地图	xian shi di tu	504
+显微摄影	xian wei she ying	506
+线纹米尺	xian wen mi chi	496
+弦线偏距法	xian xian pian ju fa	508
+弦线支距法	xian xian zhi ju fa	509
+线形锁	xian xing suo	495
+线性调频脉冲	xian xing tiao pin mai chong	493
+线形网	xian xing wang	494
+显影	xian ying	505
+线阵遥感器	xian zhen yao gan qi	492
+线状符号	xian zhuang fu hao	491
+像场角	xiang chang jiao	463
+乡村规划测量	xiang cun gui hua ce liang	471
+像等角点	xiang deng jiao dian	462
+像底点	xiang di dian	461
+像地平线	xiang di ping xian	460
+像点位移	xiang dian wei yi	459
+相对定位	xiang dui ding wei	490
+相对定向	xiang dui ding xiang	489
+相对定向元素	xiang dui ding xiang yuan su	488
+相对航高	xiang dui hang gao	487
+相对论改正	xiang dui lun gai zheng	486
+相对误差	xiang dui wu cha	485
+相对重力测量	xiang dui zhong li ce liang	484
+像幅	xiang fu	458
+向甫鲁条件	xiang fu lu tiao jian	435
+相干声呐测深系统	xiang gan sheng na ce shen xi tong	483
+相关平差	xiang guan ping cha	482
+相关器	xiang guan qi	481
+像空间坐标系	xiang kong jian zuo biao xi	457
+巷宽	xiang kuan	469
+橡皮布滚筒	xiang pi bu gun tong	464
+像片	xiang pian	456
+像片比例尺	xiang pian bi li chi	455
+像片地质解译	xiang pian di zhi jie yi	454
+像片地质判读	xiang pian di zhi pan du	453
+像片方位角	xiang pian fang wei jiao	452
+像片方位元素	xiang pian fang wei yuan su	451
+像片基线	xiang pian ji xian	450
+像片纠正	xiang pian jiu zheng	449
+像片内方位元素	xiang pian nei fang wei yuan su	448
+像片判读	xiang pian pan du	447
+像片平面图	xiang pian ping mian tu	446
+像片倾角	xiang pian qing jiao	445
+像片外方位元素	xiang pian wai fang wei yuan su	444
+像片镶嵌	xiang pian xiang qian	443
+像片旋角	xiang pian xuan jiao	442
+像片主距	xiang pian zhu ju	441
+像平面坐标系	xiang ping mian zuo biao xi	440
+镶嵌索引图	xiang qian suo yin tu	472
+相位传递函数	xiang wei chuan di han shu	480
+相位多值性	xiang wei duo zhi xing	479
+相位模糊度解算	xiang wei mo hu du jie suan	478
+相位漂移	xiang wei piao yi	477
+相位稳定性	xiang wei wen ding xing	476
+相位滞后	xiang wei zhi hou	473
+相位周	xiang wei zhou	475
+相位周值	xiang wei zhou zhi	474
+象限仪	xiang xian yi	434
+象形符号	xiang xing fu hao	433
+像移补偿	xiang yi bu chang	439
+像元	xiang yuan	438
+像主点	xiang zhu dian	437
+像主纵线	xiang zhu zong xian	436
+小潮升	xiao chao sheng	431
+销钉定位法	xiao ding ding wei fa	432
+小角度法	xiao jiao du fa	430
+小像幅航空摄影	xiao xiang fu hang kong she ying	429
+协方差传播律	xie fang cha chuan bo lv	424
+协方差函数	xie fang cha han shu	423
+协方差矩阵	xie fang cha ju zhen	422
+斜截面法	xie jie mian fa	420
+斜距	xie ju	421
+协调世界时	xie tiao shi jie shi	426
+协调世界时时号	xie tiao shi jie shi shi hao	425
+斜轴投影	xie zhou tou ying	419
+新版海图	xin ban hai tu	418
+信号杆	xin hao gan	416
+信息量	xin xi liang	415
+信息属性	xin xi shu xing	414
+信息提取	xin xi ti qu	413
+心象地图	xin xiang di tu	417
+星表	xing biao	412
+行差	xing cha	409
+星径曲率改正	xing jing qu lv gai zheng	410
+行星大地测量学	xing xing da di ce liang xue	408
+星载传感器	xing zai chuan gan qi	33
+星载遥感器	xing zai yao gan qi	411
+行政区划图	xing zheng qu hua tu	407
+修版	xiu ban	406
+虚地图	xu di tu	405
+序贯平差	xu guan ping cha	403
+虚拟地景	xu ni di jing	404
+虚宗	xu zong	32
+选厂测量	xuan chang ce liang	396
+悬挂带零位观测	xuan gua dai ling wei guan ce	397
+选取限额	xuan qu xian e	400
+选取指标	xuan qu zhi biao	399
+选权迭代法	xuan quan die dai fa	398
+悬式经纬仪	xuan shi jing wei yi	402
+旋转参数	xuan zhuan can shu	401
+寻北器	xun bei qi	394
+压力验潮仪	ya li yan chao yi	393
+沿岸测量	yan an ce liang	389
+验潮	yan chao	388
+验潮仪	yan chao yi	387
+验潮站	yan chao zhan	386
+验潮站零点	yan chao zhan ling dian	385
+研究利用几何观测量	yan jiu li yong ji he guan ce liang	391
+严密平差	yan mi ping cha	392
+颜色空间	yan shai kong jian	390
+延伸三角形	yan shen san jiao xing	395
+阳像	yang xiang	384
+遥感	yao gan	383
+遥感测深	yao gan ce shen	382
+遥感模式识别	yao gan mo shi shi bie	381
+遥感平台	yao gan ping tai	380
+遥感数据获取	yao gan shu ju huo qu	379
+遥感制图	yao gan zhi tu	378
+野外地质图	ye wai di zhi tu	377
+野外填图	ye wai tian tu	376
+一般由直径	yi ban you zhi jing	375
+一般指距岸	yi ban zhi ju an	374
+一般指距岸约	yi ban zhi ju an yue	373
+移动角	yi dong jiao	370
+移动台	yi dong tai	371
+以国际制秒	yi guo ji zhi miao	368
+仪器	yi qi	369
+一种等角横割椭圆柱	yi zhong deng jiao heng ge tuo yuan zhu	372
+引潮力	yin chao li	365
+引潮位	yin chao wei	364
+印度大潮低潮面	yin du da chao di chao mian	358
+引航图集	yin hang tu ji	363
+引力	yin li	362
+引力位	yin li wei	361
+印刷版	yin shua ban	357
+引水锚地	yin shui mao di	360
+因瓦基线尺	yin wa ji xian chi	367
+阴像	yin xiang	366
+引张线法	yin zhang xian fa	359
+应变仪	ying bian yi	31
+荧光地图	ying guang di tu	356
+影像	ying xiang	355
+影像地质图	ying xiang di zhi tu	354
+影像分辨力	ying xiang fen bian li	353
+影像金字塔	ying xiang jin zi ta	352
+影像匹配	ying xiang pi pei	351
+影像融合	ying xiang rong he	350
+影像数据库	ying xiang shu ju ku	349
+影像相关	ying xiang xiang guan	348
+影像质量	ying xiang zhi liang	347
+涌浪滤波器	yong lang lv bo qi	346
+用数码	yong shu ma	345
+用下式表示的常数	yong xia shi biao shi de chang shu	344
+由德国数学家兰勃特	you de guo shu xue jia lan bo te	343
+由观测值的方差	you guan ce zhi de fang cha	342
+游艇用图	you ting yong tu	340
+由下式定义的纬度	you xia shi ding yi de wei du	341
+有限元法	you xian yuan fa	30
+有效孔径	you xiao kong jing	339
+预报地图	yu bao di tu	328
+与大地水准面高	yu da di shui zhun mian gao	334
+预打样图	yu da yang tu	327
+语法	yu fa	331
+鱼礁	yu jiao	338
+渔堰	yu yan	337
+渔业用图	yu ye yong tu	336
+语义	yu yi	330
+语用	yu yong	329
+渔栅	yu zha	335
+预制符号	yu zhi fu hao	326
+预制感光版	yu zhi gan guang ban	325
+宇宙制图	yu zhou zhi tu	332
+与左片上	yu zuo pian shang	333
+远程定位系统	yuan cheng ding wei xi tong	319
+圆定位	yuan ding wei	323
+远海测量	yuan hai ce liang	318
+圆曲线测设	yuan qu xian ce she	322
+圆一圆定位系统	yuan yi yuan ding wei xi tong	29
+圆柱投影	yuan zhu tou ying	321
+圆锥投影	yuan zhui tou ying	320
+原子钟	yuan zi zhong	324
+约定从公元前	yue ding cong gong yuan qian	317
+月平均海面	yue ping jun hai mian	316
+月球轨道飞行器	yue qiu gui dao fei xing qi	315
+运动方程分析解	yun dong fang cheng fen xi jie	314
+运动方程数值解	yun dong fang cheng shu zhi jie	313
+运动线法	yun dong xian fa	312
+晕翁法	yun weng fa	310
+晕线	yun xian	311
+晕渲法	yun xuan fa	309
+载波相位测量	zai bo xiang wei ce liang	308
+在残差满足	zai can cha man zu	306
+再分结构	zai fen jie gou	307
+载荷潮	zai he chao	301
+凿井施工测量	zao jing shi gong ce liang	305
+栅栏坎	zha lan kan	302
+展点	zhan dian	28
+站心坐标系	zhan xin zuo biao xi	300
+章动	zhang dong	299
+照相排字机	zhao xiang pai zi ji	298
+照相制版镜头	zhao xiang zhi ban jing tou	297
+照准点	zhao zhun dian	296
+照准点归心	zhao zhun dian gui xin	295
+真地平线	zhen di ping xian	294
+真近点角	zhen jin dian jiao	293
+阵列摄影机	zhen lie she ying ji	97
+真实孔径雷达	zhen shi kong jing lei da	292
+真水平线	zhen shui ping xian	291
+真误差	zhen wu cha	290
+真子午线	zhen zi wu xian	289
+正常高	zheng chang gao	284
+正常水准椭球	zheng chang shui zhun tuo qiu	283
+正常引力位	zheng chang yin li wei	282
+正常重力	zheng chang zhong li	281
+正常重力场	zheng chang zhong li chang	280
+正常重力公式	zheng chang zhong li gong shi	279
+正常重力位	zheng chang zhong li wei	278
+正常重力线	zheng chang zhong li xian	277
+正锤法	zheng chui fa	276
+正锤线观测	zheng chui xian guan ce	275
+正方形分幅	zheng fang xing fen fu	274
+正高	zheng gao	273
+郑和航海图	zheng he hang hai tu	259
+正立体	zheng li ti	99
+正立体效应	zheng li ti xiao ying	272
+正片	zheng pian	271
+正色片	zheng se pian	270
+正射投影	zheng she tou ying	269
+正射投影仪	zheng she tou ying yi	268
+正射像片	zheng she xiang pian	267
+正射影像	zheng she ying xiang	98
+正射影像立体配对片	zheng she ying xiang li ti pei dui pian	266
+整饰	zheng shi	288
+征税地籍	zheng shui di ji	260
+整体大地测量	zheng ti da di ce liang	287
+整体感	zheng ti gan	286
+整体结构	zheng ti jie gou	285
+正像	zheng xiang	265
+正形投影	zheng xing tou ying	264
+政治地图	zheng zhi di tu	261
+正直摄影	zheng zhi she ying	263
+正轴投影	zheng zhou tou ying	262
+制板镜头	zhi ban jing tou	27
+支导线	zhi dao xian	258
+质底法	zhi di fa	236
+制点仪	zhi dian yi	26
+直方图规格化	zhi fang tu gui ge hua	256
+直方图均衡	zhi fang tu jun heng	255
+直角坐标网	zhi jiao zuo biao wang	254
+直角坐标系	zhi jiao zuo biao xi	253
+指界	zhi jie	25
+直接法纠正	zhi jie fa jiu zheng	252
+指界委托书	zhi jie wei tuo shu	24
+直接线性变换	zhi jie xian xing bian huan	251
+秩亏平差	zhi kui ping cha	238
+秩亏网平差	zhi kui wang ping cha	237
+质量感	zhi liang gan	235
+止抛	zhi pao	250
+支水准路线	zhi shui zhun lu xian	257
+志田数	zhi tian shu	249
+制图分级	zhi tu fen ji	247
+制图简化	zhi tu jian hua	246
+制图精度	zhi tu jing du	245
+制图夸大	zhi tu kua da	244
+制图模型	zhi tu mo xing	243
+制图选取	zhi tu xuan qu	242
+制图专家系统	zhi tu zhuan jia xi tong	241
+制图资料	zhi tu zi liao	240
+制图综合	zhi tu zong he	239
+置信度	zhi xin du	248
+重采样	zhong cai yang	219
+钟差	zhong cha	222
+中程定位系统	zhong cheng ding wei xi tong	234
+重锤投点	zhong chui tou dian	218
+重氮复印	zhong dan fu yin	217
+中国测绘学会	zhong guo ce hui xue hui	233
+中国大地测量星表	zhong guo da di ce liang xing biao	232
+重力	zhong li	216
+重力测量	zhong li ce liang	215
+重力场	zhong li chang	214
+重力潮汐改正	zhong li chao xi gai zheng	213
+重力垂线偏差	zhong li chui xian pian cha	212
+重力垂直梯度	zhong li chui zhi ti du	211
+重力点	zhong li dian	210
+重力固体潮观测	zhong li gu ti chao guan ce	209
+重力归算	zhong li gui suan	208
+重力基线	zhong li ji xian	207
+重力基准	zhong li ji zhun	206
+重力数据库	zhong li shu ju ku	205
+重力水平梯度	zhong li shui ping ti du	204
+重力梯度测量	zhong li ti du ce liang	203
+重力梯度仪	zhong li ti du yi	202
+重力位	zhong li wei	201
+重力仪	zhong li yi	200
+重力异常	zhong li yi chang	199
+重力异常阶方差	zhong li yi chang jie fang cha	198
+钟偏	zhong pian	221
+钟速	zhong su	220
+中天法	zhong tian fa	231
+中误差	zhong wu cha	230
+中心式快门	zhong xin shi kuai men	229
+中性色调	zhong xing se diao	227
+中星仪	zhong xing yi	228
+中央子午线	zhong yang zi wu xian	226
+中轴线	zhong zhou xian	224
+中桩水准测量	zhong zhuang shui zhun ce liang	225
+轴颈误差	zhou jing wu cha	195
+周期误差	zhou qi wu cha	197
+轴顺时针旋转	zhou shun shi zhen xuan zhuan	194
+周跳	zhou tiao	196
+轴指向从	zhou zhi xiang cong	193
+主垂面	zhu chui mian	192
+主动式遥感	zhu dong shi yao gan	191
+主分量变换	zhu fen liang bian huan	190
+主合点	zhu he dian	187
+主核面	zhu he mian	189
+主核线	zhu he xian	188
+主检比对	zhu jian bi dui	186
+主距	zhu ju	185
+助曲线	zhu qu xian	182
+主台	zhu tai	184
+主要巷道平面图	zhu yao hang dao ping mian tu	223
+主轴线测设	zhu zhou xian ce she	183
+转点仪	zhuan dian yi	174
+转绘仪	zhuan hui yi	173
+专题测图传感器	zhuan ti ce tu chuan gan qi	96
+专题测图仪	zhuan ti ce tu yi	181
+专题层	zhuan ti ceng	180
+专题地图	zhuan ti di tu	179
+专题地图集	zhuan ti di tu ji	178
+专题地图学	zhuan ti di tu xue	177
+专题海图	zhuan ti hai tu	176
+专用地图	zhuan yong di tu	175
+状态向量	zhuang tai xiang liang	172
+准确度	zhun que du	171
+自动安平	zi dong an ping	163
+自动安平水准仪	zi dong an ping shui zhun yi	162
+自动归算照准仪	zi dong gui suan zhao zhun yi	95
+自动化地图制图	zi dong hua di tu zhi tu	161
+自动绘图	zi dong hui tu	160
+自动空中三角测量	zi dong kong zhong san jiao ce liang	159
+自动坐标展点仪	zi dong zuo biao zhan dian yi	158
+自检校	zi jian xiao	157
+自然地图	zi ran di tu	156
+姿态	zi tai	169
+姿态参数	zi tai can shu	168
+姿态测量遥感器	zi tai ce liang yao gan qi	167
+子午面	zi wu mian	166
+子午圈	zi wu quan	165
+子午圈曲率半径	zi wu quan qu lv ban jing	164
+资源与环境遥感	zi yuan yu huan jing yao gan	170
+自准直目镜	zi zhun zhi mu jing	155
+宗地草图	zong di cao tu	23
+纵断	zong duan	1
+纵断面测量	zong duan mian ce liang	150
+纵断面水准测量	zong duan mian shui zhun ce liang	149
+纵断面图	zong duan mian tu	148
+综合测绘系统	zong he ce hui xi tong	154
+综合地图集	zong he de tu ji	152
+综合地图	zong he di tu	153
+综合法测图	zong he fa ce tu	151
+组合地图	zu he di tu	147
+组合定位	zu he ding wei	146
+钻井法	zuan jing fa	145
+钻孔位置测量	zuan kong wei zhi ce liang	144
+最大似然分类	zui da si ran fen lei	143
+最小二乘法	zui xiao er cheng fa	142
+最小二乘拟合推估法	zui xiao er cheng ni he tui gu fa	141
+最小二乘配置法	zui xiao er cheng pei zhi fa	140
+最小二乘相关	zui xiao er cheng xiang guan	139
+最小距离分类	zui xiao ju li fen lei	138
+坐标地籍	zuo biao di ji	134
+坐标方位角	zuo biao fang wei jiao	133
+坐标格网	zuo biao ge wang	132
+坐标函数	zuo biao han shu	131
+坐标量测仪	zuo biao liang ce yi	130
+坐标增量	zuo biao zeng liang	129
+坐标增量闭合差	zuo biao zeng liang bi he cha	128
+坐标中误差	zuo biao zhong wu cha	127
+作用距离约为	zuo yong ju li yue wei	136
+作用距离约在	zuo yong ju li yue zai	135
+左右视差	zuo you shi cha	137
