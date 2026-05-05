@@ -1,0 +1,630 @@
+# 词库名称: 电工
+# 词库分类: 介质损耗，线间电压，相差保护
+# 词库作者: 用户上传
+# 词库描述: 2013年3月26日更新。
+# 词条数量: 622
+# 解析词数: 622
+# 解析异常: 0
+
+可导电部分	ke dao dian bu fen	1000
+误差性超范围	wu cha xing chao fan wei	1000
+绝缘子	jue yuan zi	1000
+介质损耗	jie zhi sun hao	1000
+保护的区选择性	bao hu de qu xuan ze xing	1000
+磁体	ci ti	1000
+微波保护	wei bo bao hu	1000
+电阻	dian zu	1000
+元件	yuan jian	1000
+自动恢复装置	zi dong hui fu zhuang zhi	1000
+额定电压	e ding dian ya	1000
+电极	dian ji	1000
+原理性缺陷	yuan li xing que xian	1000
+负序分量	fu xu fen liang	1000
+导引线保护	dao yin xian bao hu	1000
+线匝	xian za	1000
+视在功率	shi zai gong lv	1000
+型式试验	xing shi shi yan	1000
+功能联结导体	gong neng lian jie dao ti	1000
+冗余	rong yu	1000
+合格评价	he ge ping jia	1000
+机箱	ji xiang	1000
+负荷阻抗	fu he zu kang	1000
+绝缘	jue yuan	1000
+线间电压	xian jian dian ya	1000
+线路	xian lu	1000
+接地端子	jie di duan zi	1000
+跨步电压	kua bu dian ya	1000
+低阻抗	di zu kang	1000
+抽样单元	chou yang dan yuan	1000
+谐波次数	xie bo ci shu	1000
+电感性电流	dian gan xing dian liu	1000
+顺序表图	shun xu biao tu	1000
+安全性	an quan xing	1000
+光差保护	guang cha bao hu	1000
+互感	hu gan	1000
+过负荷保护	guo fu he bao hu	1000
+极导体	ji dao ti	1000
+电器	dian qi	1000
+保护的信赖性	bao hu de xin lai xing	1000
+电化学	dian hua xue	1000
+耗散	hao san	1000
+逻辑功能图	luo ji gong neng tu	1000
+共用联结网	gong yong lian jie wang	1000
+简图	jian tu	1000
+保护的相选择性	bao hu de xiang xuan ze xing	1000
+转换开关	zhuan huan kai guan	1000
+时序表图	shi xu biao tu	1000
+护套	hu tao	1000
+过电流保护	guo dian liu bao hu	1000
+因子	yin zi	1000
+网络	wang luo	1000
+纵向故障	zong xiang gu zhang	1000
+支路	zhi lu	1000
+电路元件	dian lu yuan jian	1000
+临近效应	lin jin xiao ying	1000
+故障电压	gu zhang dian ya	1000
+自动重合中断时间	zi dong zhong he zhong duan shi jian	1000
+保护的选择性	bao hu de xuan ze xing	1000
+基准地	ji zhun di	1000
+标称电压	biao cheng dian ya	1000
+零相差动保护	ling xiang cha dong bao hu	1000
+正交	zheng jiao	1000
+过电流	guo dian liu	1000
+接收试验	jie shou shi yan	1000
+线性的	xian xing de	1000
+电容器	dian rong qi	1000
+穿越性	chuan yue xing	1000
+接线图	jie xian tu	1000
+自动切换装置	zi dong qie huan zhuang zhi	1000
+痉挛	jing luan	1000
+双线绕组	shuang xian rao zu	1000
+电磁辐射	dian ci fu she	1000
+骚扰源	sao rao yuan	1000
+辐射	fu she	1000
+误差性欠范围	wu cha xing qian fan wei	1000
+耐久性试验	nai jiu xing shi yan	1000
+中间导体	zhong jian dao ti	1000
+发电机	fa dian ji	1000
+稳定	wen ding	1000
+接地	jie di	1000
+投入运行试验	tou ru yun xing shi yan	1000
+震荡	zhen dang	1000
+判别区	pan bie qu	1000
+有功电流	you gong dian liu	1000
+电位器	dian wei qi	1000
+满载	man zai	1000
+全距离保护	quan ju li bao hu	1000
+振荡器	zhen dang qi	1000
+共振	gong zhen	1000
+星绞对	xing jiao dui	1000
+线对地电压	xian dui di dian ya	1000
+单元保护	dan yuan bao hu	1000
+保护的不正确动作	bao hu de bu zheng que dong zuo	1000
+电磁兼容	dian ci jian rong	1000
+开路运行	kai lu yun xing	1000
+三角形联结	san jiao xing lian jie	1000
+同步	tong bu	1000
+磁轭	ci e	1000
+安全特地电压系统	an quan te di dian ya xi tong	1000
+频率变换	pin lv bian huan	1000
+零序分量	ling xu fen liang	1000
+接地极	jie di ji	1000
+系统内干扰	xi tong nei gan rao	1000
+电缆	dian lan	1000
+光伏效应	guang fu xiao ying	1000
+保护装置	bao hu zhuang zhi	1000
+检测区	jian ce qu	1000
+双回线故障	shuang hui xian gu zhang	1000
+单元纵联保护	dan yuan zong lian bao hu	1000
+硬件失效	ying jian shi xiao	1000
+系统阻抗比	xi tong zu kang bi	1000
+相电压	xiang dian ya	1000
+热敏	re min	1000
+保护的可靠性	bao hu de ke kao xing	1000
+导电	dao dian	1000
+降低性能	jiang di xing neng	1000
+热平衡	re ping heng	1000
+失步	shi bu	1000
+样品试验	yang pin shi yan	1000
+自动重合闸装置	zi dong zhong he zha zhuang zhi	1000
+约定接触电压限值	yue ding jie chu dian ya xian zhi	1000
+附件防护	fu jian fang hu	1000
+失电压保护	shi dian ya bao hu	1000
+区外故障	qu wai gu zhang	1000
+正序分量	zheng xu fen liang	1000
+放大器	fang da qi	1000
+电生物学	dian sheng wu xue	1000
+无功功率	wu gong gong lv	1000
+防护物	fang hu wu	1000
+干扰限值	gan rao xian zhi	1000
+气隙	qi xi	1000
+无线电环境	wu xian dian huan jing	1000
+电气外壳	dian qi wai ke	1000
+保护屏蔽	bao hu ping bi	1000
+伸臂范围	shen bi fan wei	1000
+欠范围	qian fan wei	1000
+便携	bian xie	1000
+光电器件	guang dian qi jian	1000
+可导电屏蔽	ke dao dian ping bi	1000
+接地网	jie di wang	1000
+闭锁式保护	bi suo shi bao hu	1000
+系统间故障	xi tong jian gu zhang	1000
+负载	fu zai	1000
+换向	huan xiang	1000
+功能图	gong neng tu	1000
+分流器	fen liu qi	1000
+低阻抗差动保护	di zu kang cha dong bao hu	1000
+叠加分量	die jia fen liang	1000
+电气保护外壳	dian qi bao hu wai ke	1000
+电抗	dian kang	1000
+损耗	sun hao	1000
+衔铁	xian tie	1000
+电气保护外护物	dian qi bao hu wai hu wu	1000
+带电部分	dai dian bu fen	1000
+防护性分隔	fang hu xing fen ge	1000
+运行	yun xing	1000
+铭牌	ming pai	1000
+正电极	zheng dian ji	1000
+抗扰度	kang rao du	1000
+寿命试验	shou ming shi yan	1000
+自动监视功能	zi dong jian shi gong neng	1000
+无功	wu gong	1000
+全波相位比较保护	quan bo xiang wei bi jiao bao hu	1000
+故障清除时间	gu zhang qing chu shi jian	1000
+电磁噪声	dian ci zao sheng	1000
+滤波器	lv bo qi	1000
+外漏可导电部分	wai lou ke dao dian bu fen	1000
+保护的正确动作	bao hu de zheng que dong zuo	1000
+变频器	bian pin qi	1000
+自动重合断开时间	zi dong zhong he duan kai shi jian	1000
+人为噪声	ren wei zao sheng	1000
+电压降	dian ya jiang	1000
+电气外护物	dian qi wai hu wu	1000
+三相重合闸装置	san xiang zhong he zha zhuang zhi	1000
+线间短路	xian jian duan lu	1000
+合格试验	he ge shi yan	1000
+危险带电部分	wei xian dai dian bu fen	1000
+混频器	hun pin qi	1000
+保护范围	bao hu fan wei	1000
+张弛震荡	zhang chi zhen dang	1000
+阴极	yin ji	1000
+直流	zhi liu	1000
+复归时间	fu gui shi jian	1000
+光电子效应	guang dian zi xiao ying	1000
+维护试验	wei hu shi yan	1000
+发射	fa she	1000
+绝缘护套	jue yuan hu tao	1000
+电火花	dian huo hua	1000
+相间故障保护	xiang jian gu zhang bao hu	1000
+信号接触电位	xin hao jie chu dian wei	1000
+电阻器	dian zu qi	1000
+保护	bao hu	1000
+等电位联结母线	deng dian wei lian jie mu xian	1000
+超范围	chao fan wei	1000
+允许式超范围保护	yun xu shi chao fan wei bao hu	1000
+相位比较保护	xiang wei bi jiao bao hu	1000
+主保护	zhu bao hu	1000
+阻抗	zu kang	1000
+电磁干扰	dian ci gan rao	1000
+电源	dian yuan	1000
+电路	dian lu	1000
+距离保护	ju li bao hu	1000
+绞合导体	jiao he dao ti	1000
+调谐	tiao xie	1000
+穿越性故障电流	chuan yue xing gu zhang dian liu	1000
+检波器	jian bo qi	1000
+变压器	bian ya qi	1000
+光电的	guang dian de	1000
+调制器	tiao zhi qi	1000
+手持	shou chi	1000
+直流电流	zhi liu dian liu	1000
+谐波	xie bo	1000
+外接可导电部分	wai jie ke dao dian bu fen	1000
+设备	she bei	1000
+电源阻抗	dian yuan zu kang	1000
+预期接触电压	yu qi jie chu dian ya	1000
+电器件	dian qi jian	1000
+有功电压	you gong dian ya	1000
+重叠区	zhong die qu	1000
+操作跳闸	cao zuo tiao zha	1000
+保护区	bao hu qu	1000
+高阻抗	gao zu kang	1000
+电气防护性分离	dian qi fang hu xing fen li	1000
+光电导体	guang dian dao ti	1000
+行波保护	xing bo bao hu	1000
+正弦量	zheng xian liang	1000
+保护继电器	bao hu ji dian qi	1000
+绝缘电阻	jue yuan dian zu	1000
+样品	yang pin	1000
+接地故障因数	jie di gu zhang yin shu	1000
+稳定电源	wen ding dian yuan	1000
+泄露电流	xie lu dian liu	1000
+后备保护	hou bei bao hu	1000
+电阻率	dian zu lv	1000
+相位差	xiang wei cha	1000
+远后备保护	yuan hou bei bao hu	1000
+电气制图	dian qi zhi tu	1000
+零差保护	ling cha bao hu	1000
+电位差	dian wei cha	1000
+气体导电	qi ti dao dian	1000
+标量	biao liang	1000
+路径	lu jing	1000
+电力系统异常	dian li xi tong yi chang	1000
+磁路元件	ci lu yuan jian	1000
+相继故障	xiang ji gu zhang	1000
+电气保护屏蔽	dian qi bao hu ping bi	1000
+静磁场	jing ci chang	1000
+电子学	dian zi xue	1000
+电介质	dian jie zhi	1000
+户外条件	hu wai tiao jian	1000
+户内	hu nei	1000
+趋肤效应	qu fu xiao ying	1000
+非单元纵联保护	fei dan yuan zong lian bao hu	1000
+自感	zi gan	1000
+静磁学	jing ci xue	1000
+通风	tong feng	1000
+弱电源端回馈功能	ruo dian yuan duan hui kui gong neng	1000
+保护接地	bao hu jie di	1000
+接触电流	jie chu dian liu	1000
+转换	zhuan huan	1000
+光纤	guang xian	1000
+方向比较保护	fang xiang bi jiao bao hu	1000
+绕组	rao zu	1000
+环境条件	huan jing tiao jian	1000
+继电器	ji dian qi	1000
+剩余电压	sheng yu dian ya	1000
+线对地短路	xian dui di duan lu	1000
+谐波分量	xie bo fen liang	1000
+局部地	ju bu di	1000
+电气保护屏蔽体	dian qi bao hu ping bi ti	1000
+电击	dian ji	1000
+过载	guo zai	1000
+直接接地	zhi jie jie di	1000
+土壤电阻率	tu rang dian zu lv	1000
+可导电屏蔽体	ke dao dian ping bi ti	1000
+高阻抗差动保护	gao zu kang cha dong bao hu	1000
+不分相保护	bu fen xiang bao hu	1000
+密封	mi feng	1000
+加速式欠范围保护	jia su shi qian fan wei bao hu	1000
+线圈	xian quan	1000
+检波器混频器	jian bo qi hun pin qi	1000
+损耗角	sun hao jiao	1000
+双回线	shuang hui xian	1000
+直流电压	zhi liu dian ya	1000
+保护导体	bao hu dao ti	1000
+便携的	bian xie de	1000
+耐环境的	nai huan jing de	1000
+接线表	jie xian biao	1000
+无线电骚扰	wu xian dian sao rao	1000
+运行条件	yun xing tiao jian	1000
+保护线接地线导体	bao hu xian jie di xian dao ti	1000
+相位	xiang wei	1000
+涌流	yong liu	1000
+跳闸	tiao zha	1000
+感应电压	gan ying dian ya	1000
+弛豫震荡	chi yu zhen dang	1000
+爬电距离	pa dian ju li	1000
+接地故障保护	jie di gu zhang bao hu	1000
+功能等电位联结	gong neng deng dian wei lian jie	1000
+负极	fu ji	1000
+闭锁式超范围保护	bi suo shi chao fan wei bao hu	1000
+表观功率	biao guan gong lv	1000
+单重	dan zhong	1000
+标称值	biao cheng zhi	1000
+有效值	you xiao zhi	1000
+欠电压保护	qian dian ya bao hu	1000
+多相系统	duo xiang xi tong	1000
+波导	bo dao	1000
+电抗性	dian kang xing	1000
+允许式欠范围保护	yun xu shi qian fan wei bao hu	1000
+样本	yang ben	1000
+瞬时值	shun shi zhi	1000
+非单元保护区	fei dan yuan bao hu qu	1000
+感应电流	gan ying dian liu	1000
+熟练电气技术人员	shu lian dian qi ji shu ren yuan	1000
+电磁体	dian ci ti	1000
+铁心	tie xin	1000
+隔离	ge li	1000
+间接接触	jian jie jie chu	1000
+横联差动保护	heng lian cha dong bao hu	1000
+独立接地极	du li jie di ji	1000
+词光的	ci guang de	1000
+线性	xian xing	1000
+常规实验	chang gui shi yan	1000
+光缆	guang lan	1000
+绝缘体	jue yuan ti	1000
+光电导效应	guang dian dao xiao ying	1000
+介质损耗角	jie zhi sun hao jiao	1000
+等电位	deng dian wei	1000
+接地导体	jie di dao ti	1000
+谐波序数	xie bo xu shu	1000
+加载	jia zai	1000
+螺线管	luo xian guan	1000
+备用保护	bei yong bao hu	1000
+电气安全	dian qi an quan	1000
+欠电压	qian dian ya	1000
+线电压	xian dian ya	1000
+试验	shi yan	1000
+电磁屏蔽	dian ci ping bi	1000
+保护误动	bao hu wu dong	1000
+磁屏蔽	ci ping bi	1000
+多次重合闸	duo ci zhong he zha	1000
+电气防护	dian qi fang hu	1000
+转换器	zhuan huan qi	1000
+电磁兼容性	dian ci jian rong xing	1000
+自动测试功能	zi dong ce shi gong neng	1000
+机架	ji jia	1000
+功能性绝缘	gong neng xing jue yuan	1000
+电容性	dian rong xing	1000
+电学	dian xue	1000
+静电场	jing dian chang	1000
+相差保护	xiang cha bao hu	1000
+功率因数	gong lv yin shu	1000
+电势差	dian shi cha	1000
+矢量	shi liang	1000
+符合	fu he	1000
+有载	you zai	1000
+保护导体电流	bao hu dao ti dian liu	1000
+交流电流	jiao liu dian liu	1000
+剩余电流	sheng yu dian liu	1000
+失灵保护	shi ling bao hu	1000
+标称	biao cheng	1000
+保护遮拦	bao hu zhe lan	1000
+接地系统	jie di xi tong	1000
+电力线载波保护	dian li xian zai bo bao hu	1000
+移相器	yi xiang qi	1000
+无线电频率噪声	wu xian dian pin lv zao sheng	1000
+过电压时间	guo dian ya shi jian	1000
+绝缘材料	jue yuan cai liao	1000
+不正确动作	bu zheng que dong zuo	1000
+相位移	xiang wei yi	1000
+负电极	fu dian ji	1000
+频率	pin lv	1000
+单相重合闸装置	dan xiang zhong he zha zhuang zhi	1000
+作业接地	zuo ye jie di	1000
+限值进入区域	xian zhi jin ru qu yu	1000
+故障阻抗	gu zhang zu kang	1000
+过电流保护器	guo dian liu bao hu qi	1000
+频率变化	pin lv bian hua	1000
+均压	jun ya	1000
+等效电路图	deng xiao dian lu tu	1000
+纵联差动保护	zong lian cha dong bao hu	1000
+端子	duan zi	1000
+非导电环境	fei dao dian huan jing	1000
+电线	dian xian	1000
+延时保护	yan shi bao hu	1000
+地下	di xia	1000
+电气保护阻挡物	dian qi bao hu zu dang wu	1000
+电击穿	dian ji chuan	1000
+交流	jiao liu	1000
+干扰信号	gan rao xin hao	1000
+载流量	zai liu liang	1000
+选择性	xuan ze xing	1000
+谐波含量	xie bo han liang	1000
+无线电频率干扰	wu xian dian pin lv gan rao	1000
+方根均值	fang gen jun zhi	1000
+布线系统	bu xian xi tong	1000
+操作性远方跳闸	cao zuo xing yuan fang tiao zha	1000
+无源的	wu yuan de	1000
+触头	chu tou	1000
+失步保护	shi bu bao hu	1000
+永磁体	yong ci ti	1000
+移动的	yi dong de	1000
+电感性耦合	dian gan xing ou he	1000
+过电压	guo dian ya	1000
+手持的	shou chi de	1000
+电导率	dian dao lv	1000
+载波保护	zai bo bao hu	1000
+压敏	ya min	1000
+谐振	xie zhen	1000
+功能性接地导体	gong neng xing jie di dao ti	1000
+减负荷保护	jian fu he bao hu	1000
+功能绝缘	gong neng jue yuan	1000
+磁极	ci ji	1000
+自动测试	zi dong ce shi	1000
+同时可触及部分	tong shi ke chu ji bu fen	1000
+额定数值	e ding shu zhi	1000
+空载	kong zai	1000
+破坏性试验	po huai xing shi yan	1000
+发展性故障	fa zhan xing gu zhang	1000
+静电放电	jing dian fang dian	1000
+连接器	lian jie qi	1000
+弱电回馈	ruo dian hui kui	1000
+几匝	ji za	1000
+绝缘介质	jue yuan jie zhi	1000
+双重绝缘	shuang zhong jue yuan	1000
+导引线	dao yin xian	1000
+损耗因数	sun hao yin shu	1000
+可靠性	ke kao xing	1000
+看门狗	kan men gou	1000
+远方跳闸	yuan fang tiao zha	1000
+附加绝缘	fu jia jue yuan	1000
+半波相位比较保护	ban bo xiang wei bi jiao bao hu	1000
+阳极	yang ji	1000
+跨线故障	kua xian gu zhang	1000
+整流器	zheng liu qi	1000
+变相器	bian xiang qi	1000
+导纳	dao na	1000
+外壳	wai ke	1000
+温升试验	wen sheng shi yan	1000
+电导	dian dao	1000
+断路器失灵保护	duan lu qi shi ling bao hu	1000
+保护阻挡物	bao hu zu dang wu	1000
+传输线	chuan shu xian	1000
+传导骚扰	chuan dao sao rao	1000
+保护系统	bao hu xi tong	1000
+表图	biao tu	1000
+符合性评价	fu he xing ping jia	1000
+级联	ji lian	1000
+逆变器	ni bian qi	1000
+布置图	bu zhi tu	1000
+保护接地导体	bao hu jie di dao ti	1000
+区内故障	qu nei gu zhang	1000
+正极	zheng ji	1000
+开路	kai lu	1000
+对地阻抗	dui di zu kang	1000
+基本绝缘	ji ben jue yuan	1000
+耦合	ou he	1000
+接地故障	jie di gu zhang	1000
+噪声	zao sheng	1000
+电气技术	dian qi ji shu	1000
+系数	xi shu	1000
+构架漏电保护	gou jia lou dian bao hu	1000
+接地配置	jie di pei zhi	1000
+地面电压	di mian dian ya	1000
+电接触	dian jie chu	1000
+放电	fang dian	1000
+接触电压	jie chu dian ya	1000
+短路故障	duan lu gu zhang	1000
+总接地端子	zong jie di duan zi	1000
+半导体器件	ban dao ti qi jian	1000
+中性点电流保护	zhong xing dian dian liu bao hu	1000
+电气保护遮拦	dian qi bao hu zhe lan	1000
+等电位联结端子	deng dian wei lian jie duan zi	1000
+杂散电流	za san dian liu	1000
+复合故障	fu he gu zhang	1000
+电容	dian rong	1000
+通电	tong dian	1000
+绝缘性能	jue yuan xing neng	1000
+自检	zi jian	1000
+峰值	feng zhi	1000
+保护重叠区	bao hu zhong die qu	1000
+总接地母线	zong jie di mu xian	1000
+自动切断电源	zi dong qie duan dian yuan	1000
+中性点过电压保护	zhong xing dian guo dian ya bao hu	1000
+磁器件	ci qi jian	1000
+自感应	zi gan ying	1000
+试验对象	shi yan dui xiang	1000
+电容性耦合	dian rong xing ou he	1000
+电屏蔽	dian ping bi	1000
+相量	xiang liang	1000
+解除电位差	jie chu dian wei cha	1000
+磁学	ci xue	1000
+屏蔽	ping bi	1000
+特低电压	te di dian ya	1000
+电气分隔	dian qi fen ge	1000
+近后备	jin hou bei	1000
+周期	zhou qi	1000
+故障电流	gu zhang dian liu	1000
+电路图	dian lu tu	1000
+可搬运的	ke ban yun de	1000
+一次重合闸	yi ci zhong he zha	1000
+基本防护	ji ben fang hu	1000
+保护拒动	bao hu ju dong	1000
+高压	gao ya	1000
+耗散因数	hao san yin shu	1000
+高电压	gao dian ya	1000
+额定电流	e ding dian liu	1000
+电气工程	dian qi gong cheng	1000
+低电压	di dian ya	1000
+电感器	dian gan qi	1000
+线对	xian dui	1000
+样本试验	yang ben shi yan	1000
+接地开关	jie di kai guan	1000
+电动机	dian dong ji	1000
+电力电子学	dian li dian zi xue	1000
+高阻故障	gao zu gu zhang	1000
+充电	chong dian	1000
+等电位联结	deng dian wei lian jie	1000
+自动负荷恢复装置	zi dong fu he hui fu zhuang zhi	1000
+加强绝缘	jia qiang jue yuan	1000
+温升	wen sheng	1000
+因数	yin shu	1000
+差动保护	cha dong bao hu	1000
+验收试验	yan shou shi yan	1000
+短路电流	duan lu dian liu	1000
+电感性	dian gan xing	1000
+非单元保护	fei dan yuan bao hu	1000
+连锁结构	lian suo jie gou	1000
+附件	fu jian	1000
+无线电频率骚扰	wu xian dian pin lv sao rao	1000
+系统间干扰	xi tong jian gan rao	1000
+光纤保护	guang xian bao hu	1000
+敏感度	min gan du	1000
+电力系统故障	dian li xi tong gu zhang	1000
+功能性等电位联结	gong neng xing deng dian wei lian jie	1000
+电感	dian gan	1000
+电容性电流	dian rong xing dian liu	1000
+电磁感应	dian ci gan ying	1000
+限值	xian zhi	1000
+过电压保护	guo dian ya bao hu	1000
+等电位联结系统	deng dian wei lian jie xi tong	1000
+同期检查	tong qi jian cha	1000
+空气间隙	kong qi jian xi	1000
+循环	xun huan	1000
+影响量	ying xiang liang	1000
+有功	you gong	1000
+闭锁	bi suo	1000
+分相保护	fen xiang bao hu	1000
+叠加分量保护	die jia fen liang bao hu	1000
+中间点	zhong jian dian	1000
+无功的	wu gong de	1000
+保护接地中间导体	bao hu jie di zhong jian dao ti	1000
+有功功率	you gong gong lv	1000
+火花间隙	huo hua jian xi	1000
+正确动作	zheng que dong zuo	1000
+保护外壳	bao hu wai ke	1000
+解除件	jie chu jian	1000
+可互换性	ke hu huan xing	1000
+例行试验	li xing shi yan	1000
+互感应	hu gan ying	1000
+系统	xi tong	1000
+总接地线端子	zong jie di xian duan zi	1000
+发射限值	fa she xian zhi	1000
+角频率	jiao pin lv	1000
+电阻性	dian zu xing	1000
+变阻器	bian zu qi	1000
+电磁骚扰	dian ci sao rao	1000
+套管	tao guan	1000
+解调器	jie tiao qi	1000
+光生伏打效应	guang sheng fu da xiao ying	1000
+敏感器	min gan qi	1000
+星形联结	xing xing lian jie	1000
+耐候的	nai hou de	1000
+相导体	xiang dao ti	1000
+反相	fan xiang	1000
+静电学	jing dian xue	1000
+电击防护	dian ji fang hu	1000
+自检功能	zi jian gong neng	1000
+低压	di ya	1000
+带电	dai dian	1000
+对地电阻	dui di dian zu	1000
+骚扰限值	sao rao xian zhi	1000
+小波保护	xiao bo bao hu	1000
+电灼伤	dian zhuo shang	1000
+中性点	zhong xing dian	1000
+切换式距离保护	qie huan shi ju li bao hu	1000
+误动	wu dong	1000
+开路故障	kai lu gu zhang	1000
+功能接地	gong neng jie di	1000
+辐射骚扰	fu she sao rao	1000
+对地电压	dui di dian ya	1000
+故障电流断开时间	gu zhang dian liu duan kai shi jian	1000
+电磁环境	dian ci huan jing	1000
+转移阻抗	zhuan yi zu kang	1000
+保护的安全性	bao hu de an quan xing	1000
+纵联保护	zong lian bao hu	1000
+自然噪声	zi ran zao sheng	1000
+电弧	dian hu	1000
+三重	san chong	1000
+变电站近后备保护	bian dian zhan jin hou bei bao hu	1000
+保护等电位联结	bao hu deng dian wei lian jie	1000
+效率	xiao lv	1000
+无线电噪声	wu xian dian zao sheng	1000
+中性导体	zhong xing dao ti	1000
+概略图	gai lue tu	1000
+电光的	dian guang de	1000
+电路近后备保护	dian lu jin hou bei bao hu	1000
+传导	chuan dao	1000
+方向保护	fang xiang bao hu	1000
+额定	e ding	1000
+参考地	can kao di	1000
+信赖性	xin lai xing	1000
+频带	pin dai	1000
+允许式保护	yun xu shi bao hu	1000
+节点	jie dian	1000
+拒动	ju dong	1000
+有源的	you yuan de	1000
+线导体	xian dao ti	1000
+瞬时保护	shun shi bao hu	1000
+保护联结导体	bao hu lian jie dao ti	1000
