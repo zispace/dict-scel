@@ -1,0 +1,909 @@
+# 词库名称: 住房公积金
+# 词库分类: 公共管理
+# 词库描述: 住房公积金管理中心业务用词
+# 词条样例: 住房公积金管理条例、住房公积金会计核算办法、个人开户、比例变更、工资
+# 解析词数: 902
+# 解析异常: 0
+
+案卷状态	an juan zhuang tai	135
+案例分类	an li fen lei	44
+案例状态	an li zhuang tai	42
+按年结息	an nian jie xi	680
+办法	ban fa	826
+办结率	ban jie lv	536
+办理结果	ban li jie guo	206
+办理业务结果	ban li ye wu jie guo	64
+保存期限类型	bao cun qi xian lei xing	139
+报告类型	bao gao lei xing	33
+报文格式	bao wen ge shi	301
+保障性	bao zhang xing	690
+保障性住房	bao zhang xing zhu fang	675
+保证担保类型	bao zheng dan bao lei xing	115
+保证人类型	bao zheng ren lei xing	114
+保值	bao zhi	774
+备案	bei an	781
+比例	bi li	838
+比例变更	bi li bian geng	894
+比例调整	bi li tiao zheng	711
+币种	bi zhong	300
+变更	bian geng	874
+变更操作类型	bian geng cao zuo lei xing	274
+变更登记	bian geng deng ji	592
+变更类型	bian geng lei xing	273
+变更项目	bian geng xiang mu	129
+编制情况	bian zhi qing kuang	70
+标准化服务	biao zhun hua fu wu	512
+拨付方式	bo fu fang shi	310
+不动产权证	bu dong chan quan zheng	638
+布尔选项	bu er xuan xiang	190
+部分丧失劳动能力	bu fen sang shi lao dong neng li	647
+不符合原因	bu fu he yuan yin	241
+不见面审批	bu jian mian shen pi	492
+补缴	bu jiao	840
+补缴机制	bu jiao ji zhi	447
+补缴类型	bu jiao lei xing	240
+不良贷款	bu liang dai kuan	662
+不良信息状态	bu liang xin xi zhuang tai	18
+补贴	bu tie	718
+菜单类型	cai dan lei xing	170
+裁量标准	cai liang biao zhun	568
+材料齐全	cai liao qi quan	625
+材料真实性	cai liao zhen shi xing	426
+财务	cai wu	845
+财务报告	cai wu bao gao	761
+财务管理办法	cai wu guan li ban fa	825
+财务核算机构类型	cai wu he suan ji gou lei xing	24
+财务科目属性	cai wu ke mu shu xing	295
+财务科目余额方向	cai wu ke mu yu e fang xiang	294
+财务凭证模板类型	cai wu ping zheng mu ban lei xing	292
+财务入账状态	cai wu ru zhang zhuang tai	290
+财务收付类型	cai wu shou fu lei xing	289
+财务提取分类	cai wu ti qu fen lei	282
+财务余额借贷方向	cai wu yu e jie dai fang xiang	288
+财务制作标记	cai wu zhi zuo biao ji	280
+财务自动记账日	cai wu zi dong ji zhang ri	286
+财务自动记账日类型	cai wu zi dong ji zhang ri lei xing	285
+财政拨款	cai zheng bo kuan	732
+财政部门	cai zheng bu men	803
+参贷关系	can dai guan xi	272
+参数字典变更类别	can shu zi dian bian geng lei bie	348
+参数字典变更类型	can shu zi dian bian geng lei xing	349
+参数字典审核状态	can shu zi dian shen he zhuang tai	350
+参与积极性	can yu ji ji xing	407
+参与权	can yu quan	612
+操作规范性	cao zuo gui fan xing	424
+操作留痕	cao zuo liu hen	583
+操作权限类型	cao zuo quan xian lei xing	169
+差别化调控	cha bie hua tiao kong	520
+查询	cha xun	765
+偿还购房贷款本息	chang huan gou fang dai kuan ben xi	805
+长期储蓄	chang qi chu xu	693
+长期性	chang qi xing	688
+长效机制	chang xiao ji zhi	519
+超出	chao chu	4
+沉淀资金	chen dian zi jin	772
+陈述申辩	chen shu shen bian	569
+惩戒机制	cheng jie ji zhi	617
+城市编码	cheng shi bian ma	199
+城市具体政策	cheng shi ju ti zheng ce	562
+城乡差异	cheng xiang cha yi	437
+程序正义	cheng xu zheng yi	478
+城镇集体企业	cheng zhen ji ti qi ye	730
+城镇私营企业	cheng zhen si ying qi ye	728
+冲账标识	chong zhang biao zhi	299
+出境定居	chu jing ding ju	793
+出纳确认状态	chu na que ren zhuang tai	137
+从业状况	cong ye zhuang kuang	50
+促进消费	cu jin xiao fei	525
+催收反馈方式	cui shou fan kui fang shi	271
+催收方式	cui shou fang shi	270
+催收机构类型	cui shou ji gou lei xing	269
+存款类型	cun kuan lei xing	52
+存款支取情况	cun kuan zhi qu qing kuang	281
+大病提取	da bing ti qu	649
+大修	da xiu	8
+大修批准文件	da xiu pi zhun wen jian	631
+大修住房	da xiu zhu fang	806
+贷后管理	dai hou guan li	661
+贷款	dai kuan	844
+贷款变更审批状态	dai kuan bian geng shen pi zhuang tai	251
+贷款成数	dai kuan cheng shu	654
+贷款担保类型	dai kuan dan bao lei xing	89
+贷款地	dai kuan di	267
+贷款地类型	dai kuan di lei xing	91
+贷款额度	dai kuan e du	770
+贷款发放率	dai kuan fa fang lv	553
+贷款风险等级	dai kuan feng xian deng ji	266
+贷款风险分类	dai kuan feng xian fen lei	88
+贷款合同	dai kuan he tong	659
+贷款还款方式	dai kuan huan kuan fang shi	90
+贷款回收率	dai kuan hui shou lv	664
+贷款开户	dai kuan kai hu	858
+贷款类型	dai kuan lei xing	265
+贷款利率执行标准	dai kuan li lv zhi xing biao zhun	653
+贷款期限	dai kuan qi xian	769
+贷款审批	dai kuan shen pi	660
+贷款审批类型	dai kuan shen pi lei xing	264
+贷款申请	dai kuan shen qing	628
+贷款申请材料	dai kuan shen qing cai liao	263
+贷款申请审批状态	dai kuan shen qing shen pi zhuang tai	250
+贷款业务	dai kuan ye wu	857
+贷款业务明细类型	dai kuan ye wu ming xi lei xing	86
+贷款用途	dai kuan yong tu	144
+贷款执行利率	dai kuan zhi xing li lv	13
+贷款状态	dai kuan zhuang tai	262
+待遇平等	dai yu ping deng	419
+担保	dan bao	767
+担保方类型	dan bao fang lei xing	75
+担保类型	dan bao lei xing	268
+单位	dan wei	818
+单位白名单分类	dan wei bai ming dan fen lei	10
+单位缓缴复缴类型	dan wei huan jiao fu jiao lei xing	236
+单位汇缴	dan wei hui jiao	877
+单位缴存部分	dan wei jiao cun bu fen	684
+单位经办人	dan wei jing ban ren	604
+单位经办人类型	dan wei jing ban ren lei xing	235
+单位经济类型	dan wei jing ji lei xing	234
+单位开户	dan wei kai hu	896
+单位类型	dan wei lei xing	346
+单位隶属关系	dan wei li shu guan xi	233
+单位所属行业	dan wei suo shu hang ye	232
+单位销户原因	dan wei xiao hu yuan yin	231
+单位性质	dan wei xing zhi	261
+单位账户	dan wei zhang hu	811
+单位账户状态	dan wei zhang hu zhuang tai	230
+单位证明	dan wei zheng ming	599
+单位主体责任	dan wei zhu ti ze ren	453
+档案鉴定状态	dang an jian ding zhuang tai	136
+档案门类	dang an men lei	138
+档案整理方式	dang an zheng li fang shi	134
+等额本金	deng e ben jin	865
+等额本息	deng e ben xi	864
+登录方式	deng lu fang shi	171
+地方性规定	di fang xing gui ding	564
+第三方单位类型	di san fang dan wei lei xing	279
+第三方服务	di san fang fu wu	540
+抵押	di ya	867
+抵押方式	di ya fang shi	108
+抵押类型	di ya lei xing	112
+抵押物	di ya wu	656
+抵押物类型	di ya wu lei xing	113
+电子化系统	dian zi hua xi tong	749
+电子影像业务主题	dian zi ying xiang ye wu zhu ti	116
+冻结方式	dong jie fang shi	239
+冻结类型	dong jie lei xing	140
+冻结状态	dong jie zhuang tai	128
+动态平衡	dong tai ping heng	468
+动态调整	dong tai tiao zheng	505
+断缴处理	duan jiao chu li	448
+短信验证	duan xin yan zheng	704
+对账	dui zhang	764
+多部门联动	duo bu men lian dong	499
+多孩政策	duo hai zheng ce	25
+多缴退款方式	duo jiao tui kuan fang shi	238
+多缴退款类型	duo jiao tui kuan lei xing	237
+法定权利	fa ding quan li	444
+法定义务	fa ding yi wu	443
+法律救济	fa lv jiu ji	607
+法律责任	fa lv ze ren	739
+罚息	fa xi	871
+法治化监管	fa zhi hua jian guan	401
+法制化建设	fa zhi hua jian she	514
+法治思维	fa zhi si wei	479
+返还性	fan huan xing	687
+翻建	fan jian	807
+翻建批准文件	fan jian pi zhun wen jian	632
+房产证	fang chan zheng	637
+放款批次审批状态	fang kuan pi ci shen pi zhuang tai	249
+房屋朝向	fang wu chao xiang	260
+房屋结构类型	fang wu jie gou lei xing	337
+房屋类型	fang wu lei xing	338
+房屋楼层	fang wu lou ceng	12
+房屋所属区县	fang wu suo shu qu xian	21
+房屋所属区域	fang wu suo shu qu yu	20
+房屋所属县区	fang wu suo shu xian qu	11
+房屋性质	fang wu xing zhi	334
+房屋用途	fang wu yong tu	336
+房屋证书类型	fang wu zheng shu lei xing	259
+房租	fang zu	804
+非财政拨款单位	fei cai zheng bo kuan dan wei	731
+费用编码	fei yong bian ma	118
+分类等级	fen lei deng ji	325
+分摊方式	fen tan fang shi	311
+封存	feng cun	887
+风险控制	feng xian kong zhi	758
+风险预警	feng xian yu jing	467
+风险准备金	feng xian zhun bei jin	665
+福利性	fu li xing	685
+父母	fu mu	642
+服务便利化	fu wu bian li hua	490
+服务标准	fu wu biao zhun	743
+服务承诺	fu wu cheng nuo	700
+服务创新	fu wu chuang xin	534
+服务大厅	fu wu da ting	746
+服务范围	fu wu fan wei	29
+服务覆盖率	fu wu fu gai lv	551
+服务规范	fu wu gui fan	742
+服务均等化	fu wu jun deng hua	422
+服务可及性	fu wu ke ji xing	488
+服务类型	fu wu lei xing	167
+服务评价	fu wu ping jia	539
+服务渠道	fu wu qu dao	68
+服务渠道类型	fu wu qu dao lei xing	67
+服务事项	fu wu shi xiang	229
+服务事项分类	fu wu shi xiang fen lei	198
+服务事项业务分类	fu wu shi xiang ye wu fen lei	197
+服务下沉	fu wu xia chen	543
+服务响应度	fu wu xiang ying du	409
+辅助核算类别	fu zhu he suan lei bie	59
+改革接受度	gai ge jie shou du	414
+改革探索	gai ge tan suo	532
+改革稳定性	gai ge wen ding xing	461
+岗位窗口	gang wei chuang kou	172
+岗位分离	gang wei fen li	581
+高层次人才类别	gao ceng ci ren cai lei bie	106
+高效化执行	gao xiao hua zhi xing	510
+个贷抵押物类型	ge dai di ya wu lei xing	101
+个贷率	ge dai lv	554
+个人办理	ge ren ban li	603
+个人部分提取	ge ren bu fen ti qu	862
+个人部分支取	ge ren bu fen zhi qu	861
+个人补缴	ge ren bu jiao	876
+个人封存原因	ge ren feng cun yuan yin	223
+个人缴存部分	ge ren jiao cun bu fen	683
+个人开户	ge ren kai hu	895
+个人身份	ge ren shen fen	6
+个人提取	ge ren ti qu	221
+个人提取方式	ge ren ti qu fang shi	222
+个人提取原因	ge ren ti qu yuan yin	96
+个人销户提取	ge ren xiao hu ti qu	860
+个人销户支取	ge ren xiao hu zhi qu	859
+个人账户	ge ren zhang hu	812
+个人账户状态	ge ren zhang hu zhuang tai	220
+个人证件类型	ge ren zheng jian lei xing	107
+个人住房贷款	ge ren zhu fang dai kuan	771
+个人转移	ge ren zhuan yi	875
+个体工商户	ge ti gong shang hu	723
+工程预算	gong cheng yu suan	630
+工单分类	gong dan fen lei	32
+工单来源	gong dan lai yuan	30
+工单状态	gong dan zhuang tai	36
+公共服务	gong gong fu wu	516
+公共利益	gong gong li yi	473
+公积金	gong ji jin	854
+公积金账户类型	gong ji jin zhang hu lei xing	226
+公积金转出状态	gong ji jin zhuan chu zhuang tai	227
+公积金转入状态	gong ji jin zhuan ru zhuang tai	224
+公积金资金状态	gong ji jin zi jin zhuang tai	225
+供暖类型	gong nuan lei xing	257
+公平可及	gong ping ke ji	487
+公示模板固化标记	gong shi mu ban gu hua biao ji	322
+公示模板类型	gong shi mu ban lei xing	324
+公示模板业务类型	gong shi mu ban ye wu lei xing	320
+共同富裕	gong tong fu yu	529
+共同借款人	gong tong jie kuan ren	657
+共有产权房	gong you chan quan fang	676
+共有产权住房贷款	gong you chan quan zhu fang dai kuan	674
+共有方式	gong you fang shi	102
+公众监督	gong zhong jian du	615
+公众信心	gong zhong xin xin	417
+工资	gong zi	890
+工资基数	gong zi ji shu	813
+工资基数调整	gong zi ji shu tiao zheng	891
+工资调整	gong zi tiao zheng	893
+工作证明	gong zuo zheng ming	596
+购房	gou fang	809
+购房合同	gou fang he tong	640
+购房类型	gou fang lei xing	104
+购买渠道	gou mai qu dao	55
+贯标等级	guan biao deng ji	354
+管理办法	guan li ban fa	824
+管理等级	guan li deng ji	72
+管理费用	guan li fei yong	666
+管理条例	guan li tiao li	829
+管理透明度	guan li tou ming du	410
+管理委员会	guan li wei yuan hui	820
+管理中心	guan li zhong xin	831
+管委会	guan wei hui	849
+归档类型	gui dang lei xing	141
+规定比例	gui ding bi li	2
+规范化管理	gui fan hua guan li	513
+归集	gui ji	846
+归集和提取业务类型	gui ji he ti qu ye wu lei xing	228
+柜台还款还款类型	gui tai huan kuan huan kuan lei xing	26
+柜台还款结算类型	gui tai huan kuan jie suan lei xing	28
+柜台还款业务类型	gui tai huan kuan ye wu lei xing	27
+规则决策业务分类	gui ze jue ce ye wu fen lei	304
+规则决策业务环节	gui ze jue ce ye wu huan jie	302
+规则决策业务事项	gui ze jue ce ye wu shi xiang	303
+过渡期安排	guo du qi an pai	559
+国籍	guo ji	179
+国民经济行业	guo min jing ji hang ye	46
+国债种类	guo zhai zhong lei	56
+还息	hai xi	856
+行业差异	hang ye cha yi	436
+核算办法	he suan ban fa	827
+核算单位类型	he suan dan wei lei xing	298
+合同类型	he tong lei xing	254
+合作单位类型	he zuo dan wei lei xing	105
+合作机构	he zuo ji gou	541
+黑名单制度	hei ming dan zhi du	618
+宏观经济调控	hong guan jing ji tiao kong	524
+户籍证明	hu ji zheng ming	597
+互助性	hu zhu xing	691
+还本	huan ben	855
+缓交	huan jiao	841
+缓缴	huan jiao	785
+缓缴原因	huan jiao yuan yin	117
+还款方式	huan kuan fang shi	768
+还款流水	huan kuan liu shui	636
+还款日模式	huan kuan ri mo shi	256
+还款数据审批状态	huan kuan shu ju shen pi zhuang tai	248
+还款顺序	huan kuan shun xu	255
+还款资金来源	huan kuan zi jin lai yuan	143
+汇缴	hui jiao	885
+汇缴年月调整原因	hui jiao nian yue tiao zheng yuan yin	218
+婚姻状况	hun yin zhuang kuang	216
+婚姻状况证明	hun yin zhuang kuang zheng ming	598
+活动状态	huo dong zhuang tai	37
+基本工资	ji ben gong zi	721
+基层网点	ji ceng wang dian	542
+继承	ji cheng	791
+基础性制度	ji chu xing zhi du	518
+机构	ji gou	848
+机构类型	ji gou lei xing	168
+机构性质	ji gou xing zhi	185
+机会均等	ji hui jun deng	420
+计件工资	ji jian gong zi	716
+积数	ji shu	873
+技术赋能	ji shu fu neng	501
+基数调整	ji shu tiao zheng	892
+集体协商	ji ti xie shang	454
+记息	ji xi	872
+集约化发展	ji yue hua fa zhan	509
+记账状态	ji zhang zhuang tai	297
+集中封存户	ji zhong feng cun hu	797
+基准利率	ji zhun li lv	652
+加班工资	jia ban gong zi	717
+加密方式	jia mi fang shi	183
+家庭成员	jia ting cheng yuan	645
+家庭工资收入	jia ting gong zi shou ru	3
+家庭关系	jia ting guan xi	48
+监督权	jian du quan	611
+监督问责	jian du wen ze	483
+建房	jian fang	808
+建房批准文件	jian fang pi zhun wen jian	633
+兼顾公平	jian gu gong ping	469
+监管	jian guan	800
+监管服务	jian guan fu wu	670
+监管协同性	jian guan xie tong xing	428
+监管有效性	jian guan you xiao xing	404
+建设项目分类级别	jian she xiang mu fen lei ji bie	130
+建设项目类型	jian she xiang mu lei xing	85
+建造	jian zao	92
+建筑	jian zhu	341
+降低缴存比例	jiang di jiao cun bi li	784
+奖金	jiang jin	720
+缴存	jiao cun	881
+缴存比例	jiao cun bi li	880
+缴存比例上下限	jiao cun bi li shang xia xian	713
+缴存比例调整原因	jiao cun bi li tiao zheng yuan yin	215
+交存标准类型	jiao cun biao zhun lei xing	329
+缴存补贴类型	jiao cun bu tie lei xing	74
+缴存差异	jiao cun cha yi	433
+缴存单位销户原因	jiao cun dan wei xiao hu yuan yin	97
+缴存基数	jiao cun ji shu	814
+缴存基数调整原因	jiao cun ji shu tiao zheng yuan yin	16
+缴存频率	jiao cun pin lv	95
+缴存自觉性	jiao cun zi jue xing	406
+缴费工资	jiao fei gong zi	889
+缴费基数	jiao fei ji shu	888
+缴费类型	jiao fei lei xing	326
+缴款方式	jiao kuan fang shi	211
+交款类型	jiao kuan lei xing	340
+交钱	jiao qian	839
+交易发送方式	jiao yi fa song fang shi	17
+交易方向	jiao yi fang xiang	332
+交易类型	jiao yi lei xing	339
+交易批量标记	jiao yi pi liang biao ji	152
+交易账户类型	jiao yi zhang hu lei xing	155
+解冻类型	jie dong lei xing	122
+接口断言控制方式	jie kou duan yan kong zhi fang shi	174
+接口规范	jie kou gui fan	588
+接口规则类型	jie kou gui ze lei xing	173
+接口过滤器控制方式	jie kou guo lv qi kong zhi fang shi	175
+接口权限认证	jie kou quan xian ren zheng	176
+借款人	jie kuan ren	834
+借款人解除原因	jie kuan ren jie chu yuan yin	76
+借款人状态	jie kuan ren zhuang tai	77
+借款申请人	jie kuan shen qing ren	658
+接入单位	jie ru dan wei	189
+接入单位断言控制方式	jie ru dan wei duan yan kong zhi fang shi	188
+接入单位规则类型	jie ru dan wei gui ze lei xing	187
+结算方式	jie suan fang shi	307
+结算交易资金业务类型	jie suan jiao yi zi jin ye wu lei xing	161
+结算类型	jie suan lei xing	45
+结算模式	jie suan mo shi	160
+结算渠道	jie suan qu dao	159
+结算收付款类型	jie suan shou fu kuan lei xing	158
+结算账户类型	jie suan zhang hu lei xing	145
+结算状态	jie suan zhuang tai	156
+结算资金类型	jie suan zi jin lei xing	157
+结息频率	jie xi pin lv	84
+结息日	jie xi ri	679
+紧急程度	jin ji cheng du	306
+近零能耗建筑等级	jin ling neng hao jian zhu deng ji	100
+金融风险防范	jin rong feng xian fang fan	523
+金融业务	jin rong ye wu	777
+津贴	jin tie	719
+经办人角色类型	jing ban ren jue se lei xing	323
+精度模式	jing du mo shi	212
+经济类型	jing ji lei xing	47
+就业人员户籍所在区域	jiu ye ren yuan hu ji suo zai qu yu	217
+就业状况	jiu ye zhuang kuang	146
+居住状况	ju zhu zhuang kuang	253
+决策	jue ce	847
+决策机构	jue ce ji gou	780
+开关状态	kai guan zhuang tai	154
+开户	kai hu	843
+可持续发展	ke chi xu fa zhan	556
+可持续管理	ke chi xu guan li	508
+可持续缴存	ke chi xu jiao cun	450
+科目属性	ke mu shu xing	61
+科目余额方向	ke mu yu e fang xiang	60
+科学决策	ke xue jue ce	504
+库房类型	ku fang lei xing	127
+跨区域协作	kua qu yu xie zuo	498
+跨省通办	kua sheng tong ban	672
+会计	kuai ji	850
+会计核算	kuai ji he suan	760
+会计核算办法	kuai ji he suan ban fa	828
+会计科目	kuai ji ke mu	62
+栏目类型	lan mu lei xing	194
+利率	li lv	816
+利率浮动	li lv fu dong	651
+利率类型	li lv lei xing	153
+历史遗留问题	li shi yi liu wen ti	560
+利息结算	li xi jie suan	681
+立项状态	li xiang zhuang tai	313
+利益协调	li yi xie tiao	460
+离职	li zhi	796
+联名卡	lian ming ka	766
+联网核查	lian wang he cha	621
+联系方式	lian xi fang shi	593
+联系函状态	lian xi han zhuang tai	209
+连续缴存	lian xu jiao cun	449
+灵活机制	ling huo ji zhi	440
+灵活就业缴存补贴方式	ling huo jiu ye jiao cun bu tie fang shi	214
+灵活就业缴存频率	ling huo jiu ye jiao cun pin lv	213
+灵活就业人员	ling huo jiu ye ren yuan	722
+灵活就业人员职业类型	ling huo jiu ye ren yuan zhi ye lei xing	210
+流程标准化	liu cheng biao zhun hua	423
+流程再造	liu cheng zai zao	544
+楼幢	lou zhuang	5
+录入信息类型	lu ru xin xi lei xing	177
+绿色建筑等级	lv se jian zhu deng ji	125
+履职尽责	lv zhi jin ze	481
+满意度调查	man yi du diao cha	538
+矛盾化解	mao dun hua jie	459
+密钥更新类型	mi yue geng xin lei xing	186
+民办非企业单位	min ban fei qi ye dan wei	726
+民生保障	min sheng bao zhang	517
+民主管理	min zhu guan li	455
+明细	ming xi	835
+内部监督	nei bu jian du	580
+内部审计	nei bu shen ji	734
+年度报告	nian du bao gao	762
+年度检查	nian du jian cha	578
+年度调整	nian du tiao zheng	712
+挪用资金	nuo yong zi jin	737
+配偶	pei ou	643
+培训教育	pei xun jiao yu	605
+骗提骗贷	pian ti pian dai	736
+评估价值	ping gu jia zhi	655
+凭证冲正标识	ping zheng chong zheng biao zhi	123
+凭证记账类型	ping zheng ji zhang lei xing	296
+凭证记账类型分类	ping zheng ji zhang lei xing fen lei	124
+凭证类别	ping zheng lei bie	293
+凭证模板取值方式	ping zheng mu ban qu zhi fang shi	291
+普惠共享	pu hui gong xiang	486
+启封	qi feng	886
+期数	qi shu	870
+其他城镇企业	qi ta cheng zhen qi ye	727
+其他借款人	qi ta jie kuan ren	868
+启用停用	qi yong ting yong	165
+契约精神	qi yue jing shen	474
+强制储蓄	qiang zhi chu xu	692
+强制缴存	qiang zhi jiao cun	445
+清册	qing ce	836
+清册核定分配标记	qing ce he ding fen pei biao ji	219
+渠道编码	qu dao bian ma	208
+渠道类型	qu dao lei xing	207
+渠道状态	qu dao zhuang tai	66
+区域差异	qu yu cha yi	438
+全场景应用	quan chang jing ying yong	374
+全成本核算	quan cheng ben he suan	387
+全方位协同	quan fang wei xie tong	395
+全风险防控	quan feng xian fang kong	386
+全覆盖监督	quan fu gai jian du	396
+全服务高效	quan fu wu gao xiao	363
+全管理规范	quan guan li gui fan	362
+全过程可溯	quan guo cheng ke su	367
+全过程留痕	quan guo cheng liu hen	394
+全国住房公积金小程序	quan guo zhu fang gong ji jin xiao cheng xu	671
+全行业覆盖	quan hang ye fu gai	390
+全环节可控	quan huan jie ke kong	369
+全机制联动	quan ji zhi lian dong	378
+全机制有效	quan ji zhi you xiao	359
+全节点可查	quan jie dian ke cha	368
+全口径统计	quan kou jing tong ji	397
+权利保障	quan li bao zhang	476
+权利均等	quan li jun deng	421
+权利类型	quan li lei xing	103
+权利人类型	quan li ren lei xing	109
+全链条管理	quan lian tiao guan li	399
+全链条追溯	quan lian tiao zhui su	384
+全领域改革	quan ling yu gai ge	391
+全流程监管	quan liu cheng jian guan	400
+全流程透明	quan liu cheng tou ming	370
+全流程网办	quan liu cheng wang ban	493
+全目标达成	quan mu biao da cheng	356
+全平台集成	quan ping tai ji cheng	382
+全渠道服务	quan qu dao fu wu	373
+全社会参与	quan she hui can yu	389
+全生命周期管理	quan sheng ming zhou qi guan li	388
+全数据可信	quan shu ju ke xin	365
+全数据联动	quan shu ju lian dong	380
+全系统安全	quan xi tong an quan	360
+全系统可管	quan xi tong ke guan	366
+全系统协同	quan xi tong xie tong	379
+全系统优化	quan xi tong you hua	392
+权限管理	quan xian guan li	582
+全信息共享	quan xin xi gong xiang	383
+全要素控制	quan yao su kong zhi	393
+全要素协同	quan yao su xie tong	377
+全业务贯通	quan ye wu guan tong	381
+全业务合规	quan ye wu he gui	364
+全运行稳定	quan yun xing wen ding	361
+全责任闭环	quan ze ren bi huan	371
+全责任落实	quan ze ren luo shi	385
+全政策落地	quan zheng ce luo di	358
+全制度执行	quan zhi du zhi xing	357
+全周期服务	quan zhou qi fu wu	398
+全周期监管	quan zhou qi jian guan	375
+全主体参与	quan zhu ti can yu	372
+全资源统筹	quan zi yuan tong chou	376
+人脸识别	ren lian shi bie	705
+人民银行	ren min yin hang	801
+人民政府	ren min zheng fu	832
+人员归属	ren yuan gui shu	73
+人员缴存类型	ren yuan jiao cun lei xing	147
+人员状态	ren yuan zhuang tai	69
+认证方式	ren zheng fang shi	65
+认证类型	ren zheng lei xing	191
+日志记录	ri zhi ji lu	584
+入账状态	ru zhang zhuang tai	58
+上传资料	shang chuan zi liao	314
+上限	shang xian	1
+设备功能	she bei gong neng	196
+设备类型	she bei lei xing	63
+社会成本	she hui cheng ben	472
+社会和谐	she hui he xie	527
+社会认同	she hui ren tong	416
+社会团体	she hui tuan ti	725
+社会责任	she hui ze ren	451
+社会治理	she hui zhi li	515
+身份验证	shen fen yan zheng	706
+身份证明	shen fen zheng ming	600
+审核时限	shen he shi xian	626
+审计机关	shen ji ji guan	802
+审计类型	shen ji lei xing	121
+审批	shen pi	782
+审批结果	shen pi jie guo	315
+审批流程	shen pi liu cheng	627
+审批状态	shen pi zhuang tai	316
+生活困难	sheng huo kun nan	646
+省级管理办法	sheng ji guan li ban fa	563
+是否	shi fou	309
+是否使用用	shi fou shi yong yong	252
+是否允许	shi fou yun xu	184
+是否状态	shi fou zhuang tai	131
+施工单位选择方式	shi gong dan wei xuan ze fang shi	317
+实缴	shi jiao	883
+市人民政府	shi ren min zheng fu	901
+实施细则	shi shi xi ze	565
+实体正义	shi ti zheng yi	477
+适应性管理	shi ying xing guan li	463
+适应性调整	shi ying xing tiao zheng	439
+使用便捷度	shi yong bian jie du	412
+使用差异	shi yong cha yi	432
+使用合理性	shi yong he li xing	405
+使用状态	shi yong zhuang tai	330
+市政府	shi zheng fu	852
+实质审查	shi zhi shen cha	623
+收款方	shou kuan fang	22
+授权类型	shou quan lei xing	180
+授权书	shou quan shu	601
+收入差异	shou ru cha yi	434
+收入证明	shou ru zheng ming	595
+首套利率执行类型	shou tao li lv zhi xing lei xing	15
+受托银行	shou tuo yin hang	778
+首问负责	shou wen fu ze	697
+受遗赠	shou yi zeng	790
+数据参数类型	shu ju can shu lei xing	166
+数据集中	shu ju ji zhong	748
+数据加密	shu ju jia mi	586
+数据库类型	shu ju ku lei xing	110
+数据驱动	shu ju qu dong	503
+数据准确性	shu ju zhun que xing	590
+输入输出类型	shu ru shu chu lei xing	178
+数字化转型	shu zi hua zhuan xing	550
+税费计算方式	shui fei ji suan fang shi	278
+税费类别	shui fei lei bie	277
+税费业务子类别	shui fei ye wu zi lei bie	276
+税前扣除	shui qian kou chu	682
+死亡	si wang	792
+送达回证	song da hui zheng	571
+所属区域类型	suo shu qu yu lei xing	344
+所属上下文	suo shu shang xia wen	182
+所有制差异	suo you zhi cha yi	435
+所在区县	suo zai qu xian	247
+特殊情况下支付的工资	te shu qing kuang xia zhi fu de gong zi	715
+提高缴存比例	ti gao jiao cun bi li	783
+提取	ti qu	817
+提取申请	ti qu shen qing	629
+提取事项	ti qu shi xiang	132
+提取事项状态	ti qu shi xiang zhuang tai	94
+提取原因	ti qu yuan yin	163
+提取周期	ti qu zhou qi	205
+条例	tiao li	851
+贴息	tie xi	863
+听证程序	ting zheng cheng xu	570
+统一管理	tong yi guan li	751
+统一核算	tong yi he suan	750
+统一决策	tong yi jue ce	752
+统一平台	tong yi ping tai	495
+统一制度	tong yi zhi du	753
+透明化运作	tou ming hua yun zuo	511
+投诉处理	tou su chu li	741
+投诉率	tou su lv	537
+投诉权	tou su quan	610
+突发事件提取	tu fa shi jian ti qu	648
+退回类型	tui hui lei xing	308
+退款类别	tui kuan lei bie	327
+退款原因	tui kuan yuan yin	318
+退休	tui xiu	795
+托收登记状态	tuo shou deng ji zhuang tai	204
+外部监督	wai bu jian du	733
+外部审计	wai bu shen ji	579
+外联操作类型	wai lian cao zuo lei xing	246
+外联客户类型	wai lian ke hu lei xing	151
+外商投资企业	wai shang tou zi qi ye	729
+完全丧失劳动能力	wan quan sang shi lao dong neng li	794
+网签合同	wang qian he tong	639
+网上业务	wang shang ye wu	745
+违规处罚	wei gui chu fa	575
+违规行为	wei gui xing wei	740
+危机管理	wei ji guan li	465
+未交	wei jiao	842
+未缴	wei jiao	882
+委托代办	wei tuo dai ban	602
+委托合同	wei tuo he tong	776
+稳定就业	wen ding jiu ye	526
+系统编码	xi tong bian ma	195
+系统对接	xi tong dui jie	589
+系统性风险	xi tong xing feng xian	522
+系统运维状态	xi tong yun wei zhuang tai	35
+下限	xia xian	714
+现场核实	xian chang he shi	622
+现代化管理	xian dai hua guan li	402
+线上办理	xian shang ban li	703
+限时办结	xian shi ban jie	699
+线下办理	xian xia ban li	702
+项目贷款抵押物类型	xiang mu dai kuan di ya wu lei xing	81
+项目贷款发放方式	xiang mu dai kuan fa fang fang shi	83
+项目贷款还本方式	xiang mu dai kuan huan ben fang shi	82
+项目贷款业务明细类型	xiang mu dai kuan ye wu ming xi lei xing	80
+项目贷款资金支付用途	xiang mu dai kuan zi jin zhi fu yong tu	79
+项目分类	xiang mu fen lei	312
+响应时间	xiang ying shi jian	535
+效果监测	xiao guo jian ce	506
+销户原因	xiao hu yuan yin	9
+效率优先	xiao lv you xian	470
+协商机制	xie shang ji zhi	457
+协同治理	xie tong zhi li	500
+协议类型	xie yi lei xing	99
+协议状态	xie yi zhuang tai	98
+新参加工作职工	xin can jia gong zuo zhi gong	787
+新调入职工	xin diao ru zhi gong	786
+信息安全	xin xi an quan	587
+信息更新	xin xi geng xin	591
+信息公开	xin xi gong kai	616
+信息共享	xin xi gong xiang	747
+信息互通	xin xi hu tong	497
+信息披露	xin xi pi lu	763
+信息真实性	xin xi zhen shi xing	427
+新型城镇化	xin xing cheng zhen hua	530
+信用等级	xin yong deng ji	14
+信用记录	xin yong ji lu	619
+性别	xing bie	345
+形式审查	xing shi shen cha	624
+刑事责任	xing shi ze ren	573
+行政处罚	xing zheng chu fa	738
+行政处罚决定书	xing zheng chu fa jue ding shu	572
+行政复议	xing zheng fu yi	609
+行政区划	xing zheng qu hua	335
+行政诉讼	xing zheng su song	608
+虚假材料	xu jia cai liao	735
+虚拟账号领用客户类型	xu ni zhang hao ling yong ke hu lei xing	150
+学历	xue li	203
+学位	xue wei	202
+巡检标准	xun jian biao zhun	41
+巡检类别	xun jian lei bie	40
+严重程度	yan zhong cheng du	43
+业务办理时限	ye wu ban li shi xian	701
+业务对象类型	ye wu dui xiang lei xing	328
+业务管理变更项目	ye wu guan li bian geng xiang mu	142
+业务合规性	ye wu he gui xing	425
+业务类型	ye wu lei xing	331
+业务受理状态	ye wu shou li zhuang tai	201
+业务协同	ye wu xie tong	496
+业主类型	ye zhu lei xing	305
+异步交换报文类型	yi bu jiao huan bao wen lei xing	193
+异步交换规则模板	yi bu jiao huan gui ze mu ban	192
+一次性告知	yi ci xing gao zhi	698
+异地贷款情况	yi di dai kuan qing kuang	258
+异地购房	yi di gou fang	673
+异地转移	yi di zhuan yi	799
+移动应用	yi dong ying yong	548
+依法行政	yi fa xing zheng	480
+移交方式	yi jiao fang shi	133
+义务履行	yi wu lv xing	475
+一站式服务	yi zhan shi fu wu	494
+银行编号	yin hang bian hao	319
+银行账户类型	yin hang zhang hu lei xing	51
+银行账户信息	yin hang zhang hu xin xi	594
+隐私保护	yin si bao hu	585
+应急响应	ying ji xiang ying	466
+应缴	ying jiao	884
+用户岗位	yong hu gang wei	164
+用户体验	yong hu ti yan	489
+优先级	you xian ji	39
+余额	yu e	815
+逾期贷款	yu qi dai kuan	663
+与申请人关系	yu shen qing ren guan xi	162
+预提类型	yu ti lei xing	275
+预提周期	yu ti zhou qi	287
+月缴存额	yue jiao cun e	879
+月平均工资	yue ping jun gong zi	788
+月应缴额	yue ying jiao e	878
+运维状态	yun wei zhuang tai	19
+在线客服	zai xian ke fu	547
+暂行	zan xing	821
+暂行规定	zan xing gui ding	355
+责任追究	ze ren zhui jiu	482
+增值	zeng zhi	773
+增值收益	zeng zhi shou yi	667
+债券品种	zhai quan pin zhong	119
+账户	zhang hu	833
+账户查询密码	zhang hu cha xun mi ma	707
+账户合并	zhang hu he bing	708
+账户类型	zhang hu lei xing	321
+账户设立	zhang hu she li	710
+账户注销	zhang hu zhu xiao	709
+账户转移	zhang hu zhuan yi	798
+账户状态	zhang hu zhuang tai	343
+政策覆盖范围	zheng ce fu gai fan wei	442
+政策公平性	zheng ce gong ping xing	431
+政策解释权	zheng ce jie shi quan	566
+政策评估	zheng ce ping gu	507
+政策试点	zheng ce shi dian	533
+政策调整	zheng ce tiao zheng	558
+政策衔接	zheng ce xian jie	561
+政策性	zheng ce xing	686
+政策性住房金融	zheng ce xing zhu fang jin rong	757
+政策宣传	zheng ce xuan chuan	606
+政策延续性	zheng ce yan xu xing	462
+政策支持	zheng ce zhi chi	694
+政策支持度	zheng ce zhi chi du	415
+政策知晓度	zheng ce zhi xiao du	408
+政府	zheng fu	853
+政府监管责任	zheng fu jian guan ze ren	452
+整改要求	zheng gai yao qiu	576
+证件类型	zheng jian lei xing	333
+征信报告	zheng xin bao gao	620
+争议处理	zheng yi chu li	458
+指标分类	zhi biao fen lei	353
+指标类型	zhi biao lei xing	352
+指标属性	zhi biao shu xing	351
+职称	zhi cheng	245
+支持老旧小区改造	zhi chi lao jiu xiao qu gai zao	650
+制度	zhi du	822
+制度包容性	zhi du bao rong xing	441
+制度刚性	zhi du gang xing	485
+制度满意度	zhi du man yi du	413
+制度韧性	zhi du ren xing	464
+制度统一性	zhi du tong yi xing	430
+制度完善	zhi du wan shan	557
+制度信任	zhi du xin ren	418
+职工	zhi gong	819
+职工代表大会	zhi gong dai biao da hui	456
+职工权益	zhi gong quan yi	614
+智慧监管	zhi hui jian guan	502
+治理能力	zhi li neng li	403
+智能化服务	zhi neng hua fu wu	549
+智能审批	zhi neng shen pi	546
+知情权	zhi qing quan	613
+支取范围	zhi qu fan wei	120
+支取情况	zhi qu qing kuang	57
+知识分类	zhi shi fen lei	34
+职务	zhi wu	244
+直系亲属	zhi xi qin shu	644
+执行机构	zhi xing ji gou	779
+执行力度	zhi xing li du	484
+执行一致性	zhi xing yi zhi xing	429
+质押	zhi ya	866
+职业	zhi ye	243
+职业分类	zhi ye fen lei	49
+职业功能	zhi ye gong neng	71
+种类	zhong lei	7
+中心	zhong xin	830
+中心编号	zhong xin bian hao	148
+重要性	zhong yao xing	38
+周期	zhou qi	31
+住房保障	zhu fang bao zhang	756
+住房补贴	zhu fang bu tie	755
+住房发展	zhu fang fa zhan	531
+住房改革	zhu fang gai ge	695
+住房公积金	zhu fang gong ji jin	902
+住房公积金管理条例	zhu fang gong ji jin guan li tiao li	899
+住房公积金管理委员会	zhu fang gong ji jin guan li wei yuan hui	898
+住房公积金管理中心	zhu fang gong ji jin guan li zhong xin	900
+住房公积金计划	zhu fang gong ji jin ji hua	789
+住房公积金属地管理	zhu fang gong ji jin shu di guan li	754
+住房公积金支持租赁	zhu fang gong ji jin zhi chi zu lin	678
+住房公积金制度	zhu fang gong ji jin zhi du	823
+住房公平	zhu fang gong ping	528
+住房金融体系	zhu fang jin rong ti xi	696
+住房消费	zhu fang xiao fei	810
+住房信贷政策	zhu fang xin dai zheng ce	521
+主借款人	zhu jie kuan ren	869
+专户	zhuan hu	897
+专户性质	zhuan hu xing zhi	54
+专户账户类型	zhuan hu zhang hu lei xing	284
+专户账户性质	zhuan hu zhang hu xing zhi	283
+专户状态	zhuan hu zhuang tai	53
+专项检查	zhuan xiang jian cha	577
+转移	zhuan yi	837
+转移接续平台是否	zhuan yi jie xu ping tai shi fou	111
+专用性	zhuan yong xing	689
+装配式建筑评价等级	zhuang pei shi jian zhu ping jia deng ji	126
+装修类型	zhuang xiu lei xing	242
+资产转让标志	zi chan zhuan rang biao zhi	87
+自动化处理	zi dong hua chu li	545
+字段类型	zi duan lei xing	181
+资金安全	zi jin an quan	775
+资金安全度	zi jin an quan du	411
+资金调拨	zi jin diao bo	669
+资金管理模式	zi jin guan li mo shi	347
+资金归集	zi jin gui ji	668
+资金来源	zi jin lai yuan	200
+资金流动性	zi jin liu dong xing	555
+资金流入来源	zi jin liu ru lai yuan	78
+资金使用效率	zi jin shi yong xiao lv	552
+资金业务类型	zi jin ye wu lei xing	149
+资金运用	zi jin yun yong	759
+资金追回	zi jin zhui hui	574
+子女	zi nv	641
+自由裁量权	zi you cai liang quan	567
+自由职业者	zi you zhi ye zhe	724
+自愿缴存	zi yuan jiao cun	446
+资源配置	zi yuan pei zhi	471
+资质等级	zi zhi deng ji	342
+自助终端	zi zhu zhong duan	744
+租房人类型	zu fang ren lei xing	23
+租房种类	zu fang zhong lei	93
+租赁备案	zu lin bei an	635
+租赁发票	zu lin fa piao	634
+租赁住房提取	zu lin zhu fang ti qu	677
+最多跑一次	zui duo pao yi ci	491
