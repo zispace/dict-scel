@@ -1,0 +1,694 @@
+# 词库名称: 空军
+# 词库分类: 军事类
+# 词库描述: 依据《中国人民解放军军语》编制。
+# 词条样例: 按计划出动、半圆形落地拱、保险道、备降、兵器系统
+# 解析词数: 687
+# 解析异常: 0
+
+安定器	an ding qi	687
+按计划	an ji hua	686
+按计划出动	an ji hua chu dong	685
+靶机	ba ji	684
+半圆形落地拱	ban yuan xing luo di gong	683
+保持空域位置	bao chi kong yu wei zhi	682
+爆破弹	bao po tan	677
+保险道	bao xian dao	681
+保障队	bao zhang dui	680
+保障引导	bao zhang yin dao	679
+报知通信	bao zhi tong xin	678
+备降	bei jiang	676
+备降场	bei jiang chang	675
+备降机场	bei jiang ji chang	674
+变后掠翼	bian hou lue yi	673
+变后掠翼飞机	bian hou lue yi fei ji	672
+标志灯塔	biao zhi deng ta	670
+标志弹	biao zhi tan	671
+兵器系统	bing qi xi tong	669
+波瓣间	bo ban jian	668
+波瓣间盲区	bo ban jian mang qu	667
+布板	bu ban	666
+布板信号	bu ban xin hao	665
+仓库	cang ku	664
+舱门	cang men	663
+侧保险道	ce bao xian dao	662
+测定方位	ce ding fang wei	660
+侧净空区	ce jing kong qu	661
+场道	chang dao	657
+场界灯	chang jie deng	656
+场内	chang nei	655
+场内迫降场	chang nei po jiang chang	654
+长期	chang qi	658
+场外	chang wai	653
+场外迫降场	chang wai po jiang chang	652
+超低空	chao di kong	651
+超高空	chao gao kong	650
+超音速	chao yin su	649
+超音速飞机	chao yin su fei ji	648
+充电	chong dian	647
+充冷	chong leng	646
+充氧	chong yang	645
+出动率	chu dong lv	644
+触发爆炸	chu fa bao zha	643
+传爆	chuan bao	640
+传爆系列	chuan bao xi lie	639
+穿甲弹	chuan jia dan	642
+穿云下降	chuan yun xia jiang	641
+垂直起落	chui zhi qi luo	638
+垂直起落飞机	chui zhi qi luo fei ji	637
+大后掠角	da hou lue jiao	636
+待命开机值班	dai ming kai ji zhi ban	635
+待用阵地	dai yong zhen di	634
+待战	dai zhan	633
+弹体	dan ti	629
+导弹推进剂	dao dan tui jin ji	628
+导弹性能	dao dan xing neng	627
+导航	dao hang	626
+导航点	dao hang dian	625
+导航设备	dao hang she bei	624
+导航台	dao hang tai	623
+灯光信号	deng guang xin hao	622
+地标	di biao	616
+敌机	di ji	617
+低界	di jie	621
+低空	di kong	620
+地空导弹兵	di kong dao dan bing	615
+地空导弹兵战斗准备等级	di kong dao dan bing zhan dou zhun bei deng ji	614
+地空导弹发射架	di kong dao dan fa she jia	613
+地空导弹发射区	di kong dao dan fa she qu	612
+地空导弹发射阵地	di kong dao dan fa she zhen di	611
+地空导弹火力范围	di kong dao dan huo li fan wei	610
+地空导弹禁射区	di kong dao dan jin she qu	609
+地空导弹杀伤概率	di kong dao dan sha shang gai lv	608
+地空导弹杀伤区	di kong dao dan sha shang qu	607
+地空导弹射击指挥	di kong dao dan she ji zhi hui	606
+地空导弹责任射界	di kong dao dan ze ren she jie	605
+低空盲区	di kong mang qu	619
+地空通信	di kong tong xin	604
+地面导航设备	di mian dao hang she bei	603
+地面盲区	di mian mang qu	602
+地面目标	di mian mu biao	601
+地面能见度	di mian neng jian du	600
+地面询问机	di mian xun wen ji	599
+地面障碍物所遮蔽的盲区	di mian zhang ai wu suo zhe bi de mang qu	598
+地速	di su	597
+低阻弹	di zu tan	618
+电视制导炸弹	dian shi zhi dao zha dan	596
+电源设备	dian yuan she bei	595
+电子对抗	dian zi dui kang	594
+电子干扰	dian zi gan rao	593
+电子干扰机	dian zi gan rao ji	592
+电子预警机	dian zi yu jing ji	591
+定角度发射式	ding jiao du fa she shi	588
+顶空	ding kong	590
+顶空盲区	ding kong mang qu	589
+定时开机值班	ding shi kai ji zhi ban	587
+定向台	ding xiang tai	586
+定向天线	ding xiang tian xian	585
+动升限	dong sheng xian	584
+端保险道	duan bao xian dao	583
+端净空区	duan jing kong qu	582
+短距起落	duan ju qi luo	581
+短距起落飞机	duan ju qi luo fei ji	580
+对空警戒侦察	dui kong jing jie zhen cha	579
+对空指挥	dui kong zhi hui	578
+对流层顶	dui liu ceng ding	577
+二等	er deng	576
+二级	er ji	575
+二级机场	er ji ji chang	574
+二线机场	er xian ji chang	573
+发光烟火	fa guang yan huo	572
+发射设备	fa she she bei	571
+反潜	fan qian	570
+反潜机	fan qian ji	569
+反射面	fan she mian	568
+反射特性	fan she te xing	567
+反坦克弹	fan tan ke tan	566
+防护装甲	fang hu zhuang jia	565
+防空作战区	fang kong zuo zhan qu	564
+飞机	fei ji	563
+飞机敌我识别器	fei ji di wo shi bie qi	562
+飞机颠簸	fei ji dian bo	561
+飞机定向	fei ji ding xiang	560
+飞机洞库	fei ji dong ku	559
+飞机积冰	fei ji ji bing	558
+飞机加油	fei ji jia you	557
+飞机加油线	fei ji jia you xian	556
+飞机上升限度	fei ji shang sheng xian du	555
+飞机疏散	fei ji shu san	554
+飞机疏散区	fei ji shu san qu	553
+飞机尾迹	fei ji wei ji	552
+飞机尾迹层	fei ji wei ji ceng	551
+飞机掩蔽库	fei ji yan bi ku	550
+飞机掩体	fei ji yan ti	549
+飞机在下滑着陆过程中	fei ji zai xia hua zhuo lu guo cheng zhong	548
+飞机战术技术性能	fei ji zhan shu ji shu xing neng	547
+飞机最大速度	fei ji zui da su du	546
+飞艇	fei ting	545
+飞行	fei xing	544
+飞行场地	fei xing chang di	543
+飞行大队	fei xing da dui	542
+飞行地带	fei xing di dai	541
+飞行高度	fei xing gao du	539
+飞行高度层	fei xing gao du ceng	538
+飞行管制	fei xing guan zhi	537
+飞行技术	fei xing ji shu	536
+飞行马赫数	fei xing ma he shu	535
+飞行器	fei xing qi	534
+飞行人员	fei xing ren yuan	533
+飞行申请	fei xing shen qing	532
+飞行速度	fei xing su du	531
+飞行梯队	fei xing ti dui	530
+飞行调配	fei xing tiao pei	540
+飞行团	fei xing tuan	529
+飞行员	fei xing yuan	528
+飞行指挥员	fei xing zhi hui yuan	527
+飞行中队	fei xing zhong dui	526
+分散报知	fen san bao zhi	525
+分站	fen zhan	524
+风向指示灯	feng xiang zhi shi deng	523
+俯冲轰炸	fu chong hong zha	522
+副驾驶员	fu jia shi yuan	519
+复杂气象飞行	fu za qi xiang fei xing	520
+辅助滑行道	fu zhu hua xing dao	521
+干扰	gan rao	518
+干扰情报	gan rao qing bao	517
+高界	gao jie	516
+高空	gao kong	515
+高炮	gao pao	514
+高炮射击修正	gao pao she ji xiu zheng	513
+高炮团	gao pao tuan	512
+高射炮兵	gao she pao bing	511
+高射炮兵气象保障	gao she pao bing qi xiang bao zhang	510
+高射炮兵战斗准备	gao she pao bing zhan dou zhun bei	509
+高射炮师	gao she pao shi	508
+高射炮团	gao she pao tuan	507
+个体停机坪	ge ti ting ji ping	506
+跟踪瞄准式	gen zong miao zhun shi	505
+跟踪设备	gen zong she bei	504
+攻击	gong ji	503
+攻击波	gong ji bo	502
+供氧	gong yang	501
+供氧设备	gong yang she bei	500
+光电效应器	guang dian xiao ying qi	499
+海上	hai shang	498
+航材	hang cai	497
+航程	hang cheng	496
+航迹	hang ji	495
+航空爆破弹	hang kong bao po tan	494
+航空标志弹	hang kong biao zhi tan	493
+航空兵	hang kong bing	492
+航空兵气象保障	hang kong bing qi xiang bao zhang	491
+航空兵师	hang kong bing shi	490
+航空兵团	hang kong bing tuan	489
+航空兵战斗队形	hang kong bing zhan dou dui xing	488
+航空兵战斗准备	hang kong bing zhan dou zhun bei	487
+航空兵战斗准备等级	hang kong bing zhan dou zhun bei deng ji	486
+航空布雷	hang kong bu lei	485
+航空穿甲弹	hang kong chuan jia dan	484
+航空低阻弹	hang kong di zu tan	483
+航空反坦克弹	hang kong fan tan ke tan	482
+航空附油	hang kong fu you	481
+航空火箭	hang kong huo jian	480
+航空火力反准备	hang kong huo li fan zhun bei	479
+航空火力支援	hang kong huo li zhi yuan	478
+航空火力准备	hang kong huo li zhun bei	477
+航空机关炮	hang kong ji guan pao	476
+航空机枪	hang kong ji qiang	475
+航空减速弹	hang kong jian su tan	474
+航空救生设备	hang kong jiu sheng she bei	473
+航空军械	hang kong jun xie	472
+航空煤油	hang kong mei you	471
+航空器	hang kong qi	469
+航空器材	hang kong qi cai	468
+航空汽油	hang kong qi you	470
+航空情况通信	hang kong qing kuang tong xin	467
+航空燃料空气弹	hang kong ran liao kong qi tan	466
+航空燃烧弹	hang kong ran shao dan	465
+航空润滑油	hang kong run hua you	464
+航空润滑脂	hang kong run hua zhi	463
+航空杀伤爆破弹	hang kong sha shang bao po tan	462
+航空杀伤弹	hang kong sha shang tan	461
+航空特种液	hang kong te zhong ye	460
+航空卫生	hang kong wei sheng	459
+航空烟幕弹	hang kong yan mu dan	458
+航空油料	hang kong you liao	457
+航空炸弹	hang kong zha dan	456
+航空炸弹圆径	hang kong zha dan yuan jing	455
+航空照明弹	hang kong zhao ming dan	454
+航空照相弹	hang kong zhao xiang dan	453
+航空侦察	hang kong zhen cha	452
+航空侦察情报报知通信	hang kong zhen cha qing bao bao zhi tong xin	451
+航空主油	hang kong zhu you	450
+航空子母弹	hang kong zi mu dan	449
+航路	hang lu	448
+航路导航	hang lu dao hang	447
+航路导航点	hang lu dao hang dian	446
+航路捷径	hang lu jie jing	445
+航路中心线	hang lu zhong xin xian	444
+航线	hang xian	443
+航线天气预报	hang xian tian qi yu bao	442
+航向天线	hang xiang tian xian	441
+航校	hang xiao	440
+航行管制	hang xing guan zhi	439
+航站天气预报	hang zhan tian qi yu bao	438
+横队	heng dui	437
+横飞	heng fei	436
+轰炸	hong zha	435
+轰炸兵力计算	hong zha bing li ji suan	434
+轰炸航空兵	hong zha hang kong bing	433
+轰炸机	hong zha ji	432
+轰炸目标选择	hong zha mu biao xuan ze	431
+后飞	hou fei	430
+滑翔	hua xiang	429
+滑翔机	hua xiang ji	428
+滑行	hua xing	427
+滑行道	hua xing dao	426
+滑行道灯	hua xing dao deng	425
+会合	hui he	424
+混合编队	hun he bian dui	423
+火工品	huo gong pin	421
+货机	huo ji	420
+活塞式飞机	huo sai shi fei ji	422
+基本阵地	ji ben zhen di	392
+机场	ji chang	418
+机场标高	ji chang biao gao	417
+机场场道	ji chang chang dao	416
+机场场道灯光设备	ji chang chang dao deng guang she bei	415
+机场待战	ji chang dai zhan	414
+机场导航	ji chang dao hang	413
+机场等级	ji chang deng ji	412
+机场防御	ji chang fang yu	411
+机场关闭	ji chang guan bi	410
+机场净空区	ji chang jing kong qu	409
+机场天气预报	ji chang tian qi yu bao	408
+机场网	ji chang wang	407
+机场位置标志灯塔	ji chang wei zhi biao zhi deng ta	406
+机关炮	ji guan pao	405
+激光制导炸弹	ji guang zhi dao zha dan	390
+机枪	ji qiang	404
+机群	ji qun	403
+机上导航设备	ji shang dao hang she bei	402
+机身	ji shen	401
+技术勤务	ji shu qin wu	386
+技术勤务区	ji shu qin wu qu	385
+集体停机坪	ji ti ting ji ping	389
+机窝	ji wo	400
+机械师	ji xie shi	399
+机械员	ji xie yuan	398
+机型	ji xing	397
+机翼	ji yi	396
+机载雷达	ji zai lei da	395
+机载武器	ji zai wu qi	394
+机长	ji zhang	419
+机种	ji zhong	393
+集中报知	ji zhong bao zhi	388
+集中突击	ji zhong tu ji	387
+基准编队	ji zhun bian dui	391
+架次	jia ci	380
+架设雷达	jia she lei da	379
+驾驶舱	jia shi cang	382
+驾驶员	jia shi yuan	381
+加油机	jia you ji	384
+加油线	jia you xian	383
+简单气象飞行	jian dan qi xiang fei xing	375
+歼击航空兵	jian ji hang kong bing	378
+歼击轰炸机	jian ji hong zha ji	377
+歼击机	jian ji ji	376
+校对目标	jiao dui mu biao	131
+教练机	jiao lian ji	374
+截击	jie ji	373
+截击机	jie ji ji	372
+截击距离	jie ji ju li	371
+近程轰炸机	jin cheng hong zha ji	370
+近界	jin jie	369
+近距	jin ju	368
+近距导航台	jin ju dao hang tai	367
+近快战法	jin kuai zhan fa	366
+进入目标	jin ru mu biao	365
+净空	jing kong	364
+净空区	jing kong qu	363
+静升限	jing sheng xian	362
+救生背心	jiu sheng bei xin	361
+救生船	jiu sheng chuan	360
+救生伞	jiu sheng san	359
+绝对高度	jue dui gao du	358
+军航	jun hang	357
+军区空军	jun qu kong jun	356
+客机	ke ji	355
+空降兵引导分队	kong jiang bing yin dao fen dui	354
+空军	kong jun	353
+空军场站	kong jun chang zhan	352
+空军地空导弹兵	kong jun di kong dao dan bing	351
+空军高射炮兵	kong jun gao she pao bing	350
+空军军	kong jun jun	349
+空军雷达兵	kong jun lei da bing	348
+空军领航勤务	kong jun ling hang qin wu	347
+空军战场准备	kong jun zhan chang zhun bei	346
+空军战役	kong jun zhan yi	345
+空军作战小组	kong jun zuo zhan xiao zu	344
+空勤	kong qin	343
+空勤人员	kong qin ren yuan	342
+空勤组	kong qin zu	341
+空情	kong qing	340
+空情报知	kong qing bao zhi	339
+空速	kong su	338
+空投	kong tou	337
+空袭	kong xi	336
+空袭兵器	kong xi bing qi	335
+空域	kong yu	334
+空战	kong zhan	333
+空中爆炸	kong zhong bao zha	332
+空中编队	kong zhong bian dui	331
+空中补给	kong zhong bu ji	330
+空中待战	kong zhong dai zhan	329
+空中等待	kong zhong deng dai	328
+空中发射电台	kong zhong fa she dian tai	327
+空中封锁	kong zhong feng suo	326
+空中观察识别	kong zhong guan cha shi bie	325
+空中护航	kong zhong hu hang	324
+空中机动	kong zhong ji dong	323
+空中集合	kong zhong ji he	322
+空中截击	kong zhong jie ji	321
+空中禁区	kong zhong jin qu	320
+空中救援	kong zhong jiu yuan	319
+空中领航	kong zhong ling hang	318
+空中目标	kong zhong mu biao	317
+空中能见度	kong zhong neng jian du	316
+空中情况	kong zhong qing kuang	315
+空中通信	kong zhong tong xin	314
+空中突击	kong zhong tu ji	313
+空中悬停	kong zhong xuan ting	312
+空中巡逻	kong zhong xun luo	311
+空中掩护	kong zhong yan hu	310
+空中游猎	kong zhong you lie	309
+空中战役	kong zhong zhan yi	308
+空中指挥	kong zhong zhi hui	306
+空中指挥所	kong zhong zhi hui suo	305
+空中支援	kong zhong zhi yuan	307
+空中转信	kong zhong zhuan xin	304
+空中走廊	kong zhong zou lang	303
+空中走廊进出口	kong zhong zou lang jin chu kou	302
+空中阻击	kong zhong zu ji	301
+跨区	kua qu	300
+跨区作战	kua qu zuo zhan	299
+跨音速	kua yin su	298
+来袭	lai xi	297
+来袭方向	lai xi fang xiang	296
+雷达保障	lei da bao zhang	295
+雷达布局	lei da bu ju	294
+雷达警戒线	lei da jing jie xian	293
+雷达盲区	lei da mang qu	292
+雷达情报	lei da qing bao	291
+雷达情报分站	lei da qing bao fen zhan	290
+雷达情报网	lei da qing bao wang	289
+雷达情报站	lei da qing bao zhan	288
+雷达情报总分站	lei da qing bao zong fen zhan	287
+雷达情报总站	lei da qing bao zong zhan	286
+雷达探测范围	lei da tan ce fan wei	285
+雷达图像传输设备	lei da tu xiang chuan shu she bei	284
+雷达团指挥所	lei da tuan zhi hui suo	283
+雷达网	lei da wang	282
+雷达营指挥所	lei da ying zhi hui suo	281
+雷达员	lei da yuan	280
+雷达阵地	lei da zhen di	279
+雷达值班	lei da zhi ban	278
+雷达作用距离	lei da zuo yong ju li	277
+离场	li chang	276
+离场高度	li chang gao du	275
+离地	li di	274
+离地高度	li di gao du	273
+联络道	lian luo dao	271
+联络滑行道	lian luo hua xing dao	270
+连续突击	lian xu tu ji	272
+两坐标	liang zuo biao	269
+两坐标雷达	liang zuo biao lei da	268
+僚机	liao ji	267
+临时阵地	lin shi zhen di	266
+领航	ling hang	265
+领航保障	ling hang bao zhang	264
+领航员	ling hang yuan	263
+轮流开机值班	lun liu kai ji zhi ban	261
+马赫数	ma he shu	260
+米格	mi ge	258
+迷航	mi hang	259
+密码信号	mi ma xin hao	257
+民航	min hang	256
+目标高度	mu biao gao du	255
+目标航迹	mu biao hang ji	254
+目标性质	mu biao xing zhi	253
+目标性质情报	mu biao xing zhi qing bao	252
+目标引导电台	mu biao yin dao dian tai	251
+目标引导组	mu biao yin dao zu	250
+目标运动	mu biao yun dong	249
+目标运动参数	mu biao yun dong can shu	248
+目标运动特性	mu biao yun dong te xing	247
+目标坐标	mu biao zuo biao	246
+目标坐标情况	mu biao zuo biao qing kuang	245
+目视导航设备	mu shi dao hang she bei	244
+目视飞行	mu shi fei xing	243
+凝固汽油弹	ning gu qi you dan	242
+爬高率	pa gao lv	241
+爬升率	pa sheng lv	240
+跑道	pao dao	236
+跑道灯	pao dao deng	235
+跑道端灯	pao dao duan deng	234
+跑道中心线	pao dao zhong xin xian	233
+炮塔	pao ta	239
+炮校	pao xiao	238
+炮校机	pao xiao ji	237
+喷气式	pen qi shi	232
+喷气式飞机	pen qi shi fei ji	231
+批次	pi ci	230
+平行滑行道	ping xing hua xing dao	229
+迫降	po jiang	228
+迫降场	po jiang chang	227
+起飞线	qi fei xian	226
+起落航线	qi luo hang xian	225
+起落滑跑距离	qi luo hua pao ju li	224
+起落架	qi luo jia	223
+起落装置	qi luo zhuang zhi	222
+气象室	qi xiang shi	221
+气象站	qi xiang zhan	220
+气象诸元	qi xiang zhu yuan	219
+前飞	qian fei	218
+前沿机场	qian yan ji chang	217
+强击	qiang ji	216
+强击航空兵	qiang ji hang kong bing	215
+强击机	qiang ji ji	214
+强击直升机	qiang ji zhi sheng ji	213
+情报分站	qing bao fen zhan	211
+情报总分站	qing bao zong fen zhan	210
+情报总站	qing bao zong zhan	209
+轻型轰炸机	qing xing hong zha ji	212
+区域天气预报	qu yu tian qi yu bao	208
+全程	quan cheng	207
+全程作战	quan cheng zuo zhan	206
+全额战勤班	quan e zhan qin ban	205
+全方向信号	quan fang xiang xin hao	204
+燃料空气弹	ran liao kong qi tan	203
+燃烧弹	ran shao dan	202
+燃烧子母弹	ran shao zi mu dan	201
+人防	ren fang	200
+人工转信	ren gong zhuan xin	199
+人民防空	ren min fang kong	198
+三等	san deng	197
+三等战斗准备	san deng zhan dou zhun bei	196
+三级	san ji	195
+三级机场	san ji ji chang	194
+伞上供氧设备	san shang gong yang she bei	191
+三坐标	san zuo biao	193
+三坐标雷达	san zuo biao lei da	192
+杀伤爆破弹	sha shang bao po tan	190
+杀伤弹	sha shang tan	189
+杀伤子母弹	sha shang zi mu dan	188
+上报通信	shang bao tong xin	187
+上升率	shang sheng lv	186
+上仰	shang yang	185
+上仰轰炸	shang yang hong zha	184
+设伏歼敌	she fu jian di	183
+射击修正	she ji xiu zheng	182
+射击员	she ji yuan	181
+升限	sheng xian	180
+试航	shi hang	178
+视觉信号	shi jue xin hao	179
+疏散区	shu san qu	177
+率领编队	shuai ling bian dui	262
+水平安定面	shui ping an ding mian	176
+水平轰炸	shui ping hong zha	175
+水上目标	shui shang mu biao	174
+缩额战勤班	suo e zhan qin ban	173
+他备式	ta bei shi	172
+塔台指挥员	ta tai zhi hui yuan	171
+弹耳	tan er	632
+弹射跳伞	tan she tiao san	631
+弹射跳伞装置	tan she tiao san zhuang zhi	630
+特级机场	te ji ji chang	170
+梯队	ti dui	169
+天气发展趋势	tian qi fa zhan qu shi	168
+天气实况	tian qi shi kuang	167
+天气现象	tian qi xian xiang	166
+天线罩	tian xian zhao	165
+停机	ting ji	162
+停机坪	ting ji ping	161
+听召唤	ting zhao huan	164
+听召唤出动	ting zhao huan chu dong	163
+通报通信	tong bao tong xin	160
+同时突击	tong shi tu ji	155
+通信飞机	tong xin fei ji	159
+通信联络用具	tong xin lian luo yong ju	158
+通信天线	tong xin tian xian	157
+通信员	tong xin yuan	156
+投物器材	tou wu qi cai	154
+图传	tu chuan	152
+突击队	tu ji dui	153
+推进剂	tui jin ji	151
+脱机道	tuo ji dao	149
+拖机道	tuo ji dao	150
+外场值班室	wai chang zhi ban shi	148
+尾桨	wei jiang	147
+尾炮塔	wei pao ta	146
+尾翼	wei yi	145
+我机	wo ji	143
+涡轮螺旋桨	wo lun luo xuan jiang	144
+无人驾驶	wu ren jia shi	142
+无人驾驶飞机	wu ren jia shi fei ji	141
+无线电导航设备	wu xian dian dao hang she bei	140
+无线电罗盘	wu xian dian luo pan	139
+武装直升机	wu zhuang zhi sheng ji	138
+下滑灯	xia hua deng	137
+下滑轰炸	xia hua hong zha	136
+下滑天线	xia hua tian xian	135
+下令起飞线	xia ling qi fei xian	134
+相对高度	xiang dui gao du	133
+小后掠角	xiao hou lue jiao	132
+楔队	xie dui	130
+协同作战方式	xie tong zuo zhan fang shi	129
+续航	xu hang	128
+续航能力	xu hang neng li	127
+续航时间	xu hang shi jian	126
+宣传单	xuan chuan dan	125
+悬停	xuan ting	124
+旋翼	xuan yi	123
+旋翼机	xuan yi ji	122
+巡航高度	xun hang gao du	121
+巡航速度	xun hang su du	120
+训练弹	xun lian tan	118
+询问机	xun wen ji	119
+亚音速	ya yin su	117
+亚音速飞机	ya yin su fei ji	116
+掩蔽库	yan bi ku	111
+掩护队	yan hu dui	110
+烟火信号	yan huo xin hao	115
+烟幕弹	yan mu dan	114
+延期爆炸	yan qi bao zha	113
+延期引信	yan qi yin xin	112
+要害部位	yao hai bu wei	109
+夜航	ye hang	106
+夜间	ye jian	105
+野战导航点	ye zhan dao hang dian	108
+野战机场	ye zhan ji chang	107
+仪表飞行	yi biao fei xing	100
+一等	yi deng	104
+一级	yi ji	103
+一级机场	yi ji ji chang	102
+一线机场	yi xian ji chang	101
+引导	yin dao	99
+引导飞机着陆	yin dao fei ji zhuo lu	98
+引导分队	yin dao fen dui	97
+引导雷达	yin dao lei da	96
+引火器材	yin huo qi cai	95
+引信	yin xin	94
+营房	ying fang	91
+应急起飞	ying ji qi fei	93
+应急起飞跑道	ying ji qi fei pao dao	92
+永备	yong bei	90
+永备机场	yong bei ji chang	89
+预备机场	yu bei ji chang	88
+预备阵地	yu bei zhen di	87
+预警	yu jing	86
+预警机	yu jing ji	85
+远程轰炸机	yuan cheng hong zha ji	81
+原地转弯	yuan di zhuan wan	84
+远界	yuan jie	80
+圆径	yuan jing	82
+远距	yuan ju	79
+远距导航台	yuan ju dao hang tai	78
+原型机	yuan xing ji	83
+云上飞行	yun shang fei xing	77
+运输航空兵	yun shu hang kong bing	75
+运输机	yun shu ji	74
+云下飞行	yun xia fei xing	76
+再次出动	zai ci chu dong	72
+再次出动准备	zai ci chu dong zhun bei	71
+在复杂气象条件下	zai fu za qi xiang tiao jian xia	70
+载机	zai ji	73
+在指定的责任区	zai zhi ding de ze ren qu	69
+责任区	ze ren qu	68
+战场准备	zhan chang zhun bei	67
+战斗出动	zhan dou chu dong	66
+战斗出动率	zhan dou chu dong lv	65
+战斗出动强度	zhan dou chu dong qiang du	64
+战斗队形	zhan dou dui xing	63
+战斗飞行	zhan dou fei xing	62
+战斗飞行时间	zhan dou fei xing shi jian	61
+战斗活动	zhan dou huo dong	60
+战斗活动时间	zhan dou huo dong shi jian	59
+战斗起飞	zhan dou qi fei	58
+战斗转场	zhan dou zhuan chang	57
+战斗准备	zhan dou zhun bei	56
+战略后方机场	zhan lue hou fang ji chang	55
+战区导航	zhan qu dao hang	54
+战术技术性能	zhan shu ji shu xing neng	53
+战役后方机场	zhan yi hou fang ji chang	52
+障碍灯	zhang ai deng	51
+长机	zhang ji	659
+照明弹	zhao ming dan	50
+着水	zhao shui	15
+照相弹	zhao xiang dan	49
+照相机电路	zhao xiang ji dian lu	48
+遮蔽角	zhe bi jiao	47
+侦察航空兵	zhen cha hang kong bing	46
+侦察机	zhen cha ji	45
+侦察校射机	zhen cha xiao she ji	44
+真高	zhen gao	43
+真实高度	zhen shi gao du	42
+正驾驶员	zheng jia shi yuan	41
+制导系统	zhi dao xi tong	34
+指挥交接	zhi hui jiao jie	38
+指挥设备	zhi hui she bei	37
+制空权	zhi kong quan	33
+直墙圆拱	zhi qiang yuan gong	40
+直升机	zhi sheng ji	39
+指示目标	zhi shi mu biao	36
+指引目标	zhi yin mu biao	35
+中程轰炸机	zhong cheng hong zha ji	32
+中空	zhong kong	31
+中期	zhong qi	30
+重型轰炸机	zhong xing hong zha ji	28
+中型轰炸机	zhong xing hong zha ji	29
+昼间	zhou jian	27
+主滑行道	zhu hua xing dao	26
+主跑道	zhu pao dao	25
+主油	zhu you	24
+转信	zhuan xin	21
+转信飞机	zhuan xin fei ji	20
+专业教练机	zhuan ye jiao lian ji	23
+专用飞机	zhuan yong fei ji	22
+装填物	zhuang tian wu	19
+着陆距离	zhuo lu ju li	18
+着陆雷达	zhuo lu lei da	17
+着陆能见度	zhuo lu neng jian du	16
+自备式	zi bei shi	13
+自动摄影目标图像	zi dong she ying mu biao tu xiang	12
+自动转信	zi dong zhuan xin	11
+子母弹	zi mu dan	14
+自然景色	zi ran jing se	10
+纵队	zong dui	7
+总分站	zong fen zhan	9
+纵深机场	zong shen ji chang	6
+总站	zong zhan	8
+最低飞行条件	zui di fei xing tiao jian	5
+座舱	zuo cang	1
+作战半径	zuo zhan ban jing	4
+作战飞机	zuo zhan fei ji	3
+作战小组	zuo zhan xiao zu	2

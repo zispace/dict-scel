@@ -1,0 +1,504 @@
+# 词库名称: 精灵技能
+# 词库分类: 个人专用
+# 词库描述: 显精灵技能
+# 词条样例: 水系精灵、级乱突普攻次攻击、级虚张声势防御加、级猛攻普攻、级高压水枪、贝尔
+# 解析词数: 497
+# 解析异常: 0
+
+阿兹特攻	a zi te gong	45
+艾迪星	ai di xing	98
+埃闻原沙漠窟洞精灵	ai wen yuan sha mo ku dong jing ling	89
+暗影系精灵	an ying xi jing ling	170
+巴多攻击	ba duo gong ji	76
+拜伦号	bai lun hao	103
+保护可抵挡一次攻击	bao hu ke di dang yi ci gong ji	472
+贝尔	bei er	479
+贝尔防御	bei er fang yu	74
+背水一战属性攻击速度命中	bei shui yi zhan shu xing gong ji su du ming zhong	290
+比比鼠	bi bi shu	285
+比比鼠攻击	bi bi shu gong ji	70
+编辑本段精灵分布与等级	bian ji ben duan jing ling fen bu yu deng ji	112
+编辑本段精灵属性相克表	bian ji ben duan jing ling shu xing xiang ke biao	7
+编辑本段野生精灵学习力	bian ji ben duan ye sheng jing ling xue xi li	85
+冰凝球	bing ning qiu	221
+冰霜防御寒冰冻气冷气泡抓	bing shuang fang yu han bing dong qi leng qi pao zhua	225
+冰系精灵	bing xi jing ling	229
+冰之牙冰系	bing zhi ya bing xi	461
+波古特攻	bo gu te gong	40
+布布种子	bu bu zhong zi	370
+布布种子的进化过程诅咒	bu bu zhong zi de jin hua guo cheng zu zhou	367
+不稳气流特殊威力对方速度	bu wen qi liu te shu wei li dui fang su du	302
+草系精灵	cao xi jing ling	371
+查尔顿防御	cha er dun fang yu	33
+查斯防御	cha si fang yu	34
+超能系精灵	chao neng xi jing ling	215
+超能系战斗系神秘系机械系光系	chao neng xi zhan dou xi shen mi xi ji xie xi guang xi	4
+翅膀包围属性防御和特防	chi bang bao wei shu xing fang yu he te fang	315
+赤甲	chi jia	376
+齿突普攻	chi tu pu gong	459
+冲顶级物理攻击威力	chong ding ji wu li gong ji wei li	211
+冲锋物攻威力	chong feng wu gong wei li	251
+充能属性攻击改变自身特功等级	chong neng shu xing gong ji gai bian zi shen te gong deng ji	232
+冲撞普通物攻威力	chong zhuang pu tong wu gong wei li	254
+初始技能毒雾弹跳踢毒泡瞪眼	chu shi ji neng du wu tan tiao ti du pao deng yan	344
+初始技能影遁属性攻击命中	chu shi ji neng ying dun shu xing gong ji ming zhong	165
+初始技能撞击物理攻击威力	chu shi ji neng zhuang ji wu li gong ji wei li	369
+穿透光束威力特殊攻击	chuan tou guang shu wei li te shu gong ji	233
+船长室凯奴	chuan zhang shi kai nu	86
+吹飞改变对方速度等级	chui fei gai bian dui fang su du deng ji	337
+吹飞属性对方速度	chui fei shu xing dui fang su du	323
+达比拉	da bi la	262
+达比拉攻击	da bi la gong ji	41
+大地之盾辅助自身特防等级	da di zhi dun fu zhu zi shen te fang deng ji	247
+大地之墙辅助自身防御等级	da di zhi qiang fu zhu zi shen fang yu deng ji	250
+大地之拳物攻威力	da di zhi quan wu gong wei li	249
+瞪眼	deng yan	457
+瞪眼属性技能对方防御	deng yan shu xing ji neng dui fang fang yu	129
+地刺特攻威力	di ci te gong wei li	255
+迪达特防	di da te fang	58
+迪尔克防御特防	di er ke fang yu te fang	57
+地面系精灵	di mian xi jing ling	268
+电磁射线麻痹	dian ci she xian ma bi	274
+电光火石先制	dian guang huo shi xian zhi	339
+电气磁场攻击特攻	dian qi ci chang gong ji te gong	272
+电网属性攻击改变自身特防等级	dian wang shu xing gong ji gai bian zi shen te fang deng ji	277
+电系精灵	dian xi jing ling	286
+丁格	ding ge	267
+丁格体力	ding ge ti li	51
+丁加鲁体力	ding jia lu ti li	50
+冻结	dong jie	217
+毒粉属性对方中毒	du fen shu xing dui fang zhong du	318
+多鲁姆防御特防体力	duo lu mu fang yu te fang ti li	42
+厄斯攻击	e si gong ji	16
+飞空撞击物理威力反弹伤害	fei kong zhuang ji wu li wei li fan tan shang hai	294
+飞行系草系战斗系地面系无	fei xing xi cao xi zhan dou xi di mian xi wu	5
+飞行系精灵	fei xing xi jing ling	342
+飞旋击物理威力	fei xuan ji wu li wei li	303
+飞翼连击威力物攻回合做次	fei yi lian ji wei li wu gong hui he zuo ci	324
+飞翼猛冲威力物攻对方防御	fei yi meng chong wei li wu gong dui fang fang yu	316
+飞翼拍击飞行物攻	fei yi pai ji fei xing wu gong	332
+飞翼拍击级物理攻击威力	fei yi pai ji ji wu li gong ji wei li	310
+飞翼撞击威力物攻	fei yi zhuang ji wei li wu gong	319
+愤怒普攻连续使用加最高	fen nu pu gong lian xu shi yong jia zui gao	455
+疯狂燃烧火特殊烧伤对方	feng kuang ran shao huo te shu shao shang dui fang	383
+风刃特殊威力	feng ren te shu wei li	305
+风翼连打飞行物理连打	feng yi lian da fei xing wu li lian da	334
+风之舞改变对方攻击等级	feng zhi wu gai bian dui fang gong ji deng ji	336
+浮空苗特攻	fu kong miao te gong	61
+弗里曼攻击体力	fu li man gong ji ti li	12
+弗曼体力	fu man ti li	13
+钢牙击	gang ya ji	446
+钢牙鲨攻击	gang ya sha gong ji	72
+高空塔内部艾米	gao kong ta nei bu ai mi	96
+高速旋转	gao su xuan zhuan	473
+高速移动改变自身速度等级	gao su yi dong gai bian zi shen su du deng ji	333
+高速移动属性速度	gao su yi dong shu xing su du	325
+高速移动属性速度加	gao su yi dong shu xing su du jia	449
+高压水枪特攻	gao ya shui qiang te gong	465
+古鲁	gu lu	131
+古鲁特攻	gu lu te gong	49
+光波威力特殊攻击	guang bo wei li te shu gong ji	238
+光栅炮特攻我方疲惫一回合	guang shan pao te gong wo fang pi bei yi hui he	464
+光系精灵	guang xi jing ling	188
+鬼脸	gui lian	462
+果冻鸭攻击	guo dong ya gong ji	65
+哈莫	ha mo	202
+海德拉体力特防	hai de la ti li te fang	25
+海洋星	hai yang xing	109
+寒气流动	han qi liu dong	220
+赫尔卡星	he er ka xing	107
+黑火贝暗黑精灵	hei huo bei an hei jing ling	415
+黑雾属性命中后令对方攻击特攻	hei wu shu xing ming zhong hou ling dui fang gong ji te gong	304
+胡里亚	hu li ya	416
+黄金布布融合精灵	huang jin bu bu rong he jing ling	357
+灰尘辅助技能使用成功对方特工	hui chen fu zhu ji neng shi yong cheng gong dui fang te gong	253
+灰尘属性攻击改变对方特攻等级	hui chen shu xing gong ji gai bian dui fang te gong deng ji	258
+回风袭威力特攻	hui feng xi wei li te gong	320
+灰色射线普通特殊技能威力	hui se she xian pu tong te shu ji neng wei li	140
+回旋击	hui xuan ji	219
+挥翼飘舞级飞行物攻威力	hui yi piao wu ji fei xing wu gong wei li	307
+火环火特殊	huo huan huo te shu	390
+火箭头槌	huo jian tou chui	447
+火箭头槌普攻疲惫一回合	huo jian tou chui pu gong pi bei yi hui he	468
+火晶兽	huo jing shou	396
+火晶兽特防	huo jing shou te fang	43
+火山星	huo shan xing	108
+火系精灵	huo xi jing ling	432
+火焰贝特防	huo yan bei te fang	78
+火焰飞弹火特殊回合做次攻击	huo yan fei dan huo te shu hui he zuo ci gong ji	381
+火焰之力属性自身攻击特功	huo yan zhi li shu xing zi shen gong ji te gong	379
+级白光普通特殊技能威力	ji bai guang pu tong te shu ji neng wei li	124
+级白雾回合不受属性下降影响	ji bai wu hui he bu shou shu xing xia jiang ying xiang	482
+吉宝	ji bao	187
+吉宝速度	ji bao su du	28
+级爆炎烈击物攻威力火系	ji bao yan lie ji wu gong wei li huo xi	401
+级冰凌镜属性攻击自身特防	ji bing ling jing shu xing gong ji zi shen te fang	173
+级波动气普通特殊技能威力	ji bo dong qi pu tong te shu ji neng wei li	137
+级超速腾飞速度	ji chao su teng fei su du	192
+级惩罚普攻威力	ji cheng fa pu gong wei li	421
+级齿突物理攻击威力	ji chi tu wu li gong ji wei li	365
+级冲顶物攻威力普通系	ji chong ding wu gong wei li pu tong xi	414
+级地裂威力特殊攻击	ji di lie wei li te shu gong ji	266
+级地震土系物理攻击威力	ji di zhen tu xi wu li gong ji wei li	363
+吉尔	ji er	417
+吉尔速度	ji er su du	77
+级飞击飞行普攻	ji fei ji fei xing pu gong	492
+级飞叶风暴特殊攻击威力	ji fei ye feng bao te shu gong ji wei li	362
+级疯狂乱抓普攻威力	ji feng kuang luan zhua pu gong wei li	426
+级锋利属性攻击攻击	ji feng li shu xing gong ji gong ji	200
+级封印属性攻击对方攻击特攻	ji feng yin shu xing gong ji dui fang gong ji te gong	179
+级盖亚	ji gai ya	152
+级钢之爪机械普攻	ji gang zhi zhao ji xie pu gong	490
+级高压水枪	ji gao ya shui qiang	480
+级高压水枪水系特殊攻击威力	ji gao ya shui qiang shui xi te shu gong ji wei li	438
+级怪力打击普通物理技能威力	ji guai li da ji pu tong wu li ji neng wei li	119
+级光弹光特攻威力	ji guang dan guang te gong wei li	181
+级鬼脸属性技能对方速度	ji gui lian shu xing ji neng dui fang su du	125
+级虹光射线光特攻威力	ji hong guang she xian guang te gong wei li	185
+级花瓣飞刀特殊攻击威力	ji hua ban fei dao te shu gong ji wei li	352
+级幻影突袭光系特攻威力先手	ji huan ying tu xi guang xi te gong wei li xian shou	180
+级辉煌属性攻击对方特防命中	ji hui huang shu xing gong ji dui fang te fang ming zhong	172
+级火花	ji huo hua	430
+级火球特攻威力火系	ji huo qiu te gong wei li huo xi	412
+级火射八方火系特攻	ji huo she ba fang huo xi te gong	398
+集火属性下次所造成的伤害翻倍	ji huo shu xing xia ci suo zao cheng de shang hai fan bei	384
+级火焰贝壳物攻威力火系	ji huo yan bei ke wu gong wei li huo xi	405
+级火焰车威力	ji huo yan che wei li	425
+级火焰碰撞物攻威力火系	ji huo yan peng zhuang wu gong wei li huo xi	406
+级火焰旋涡威力烧伤	ji huo yan xuan wo wei li shao shang	419
+级疾风刃草系物理攻击威力	ji ji feng ren cao xi wu li gong ji wei li	368
+级疾风刃物理攻击威力	ji ji feng ren wu li gong ji wei li	356
+级集合炮普通特殊技能威力	ji ji he pao pu tong te shu ji neng wei li	121
+级加温加特攻	ji jia wen jia te gong	411
+级剑舞攻击加	ji jian wu gong ji jia	486
+级坚硬加防御	ji jian ying jia fang yu	413
+级进化成赤贝利	ji jin hua cheng chi bei li	375
+级进化成赤西西比	ji jin hua cheng chi xi xi bi	374
+级进化成拉杰特	ji jin hua cheng la jie te	252
+级进化成迷你草	ji jin hua cheng mi ni cao	347
+级进化成迷你果	ji jin hua cheng mi ni guo	346
+级进化成沙比克	ji jin hua cheng sha bi ke	164
+级进化成闪光电击兔	ji jin hua cheng shan guang dian ji tu	269
+级进化成闪光绵绵	ji jin hua cheng shan guang mian mian	270
+级进化哈莫雷特	ji jin hua ha mo lei te	195
+级进化火爆鼠	ji jin hua huo bao shu	372
+级进化为巴鲁斯	ji jin hua wei ba lu si	487
+级进化为比格尔	ji jin hua wei bi ge er	168
+级进化为布布草	ji jin hua wei bu bu cao	366
+级进化为布布花	ji jin hua wei bu bu hua	364
+级进化为多鲁姆	ji jin hua wei duo lu mu	387
+级进化为艮吉兽	ji jin hua wei gen ji shou	391
+级进化为海德拉	ji jin hua wei hai de la	167
+级进化为吉娜	ji jin hua wei ji na	182
+级进化为吉娜斯	ji jin hua wei ji na si	178
+级进化为卡其沙	ji jin hua wei ka qi sha	343
+级进化为丽莎布布	ji jin hua wei li sha bu bu	351
+级进化为利爪尤里安	ji jin hua wei li zhua you li an	442
+级进化为烈火猴	ji jin hua wei lie huo hou	428
+级进化为烈焰猩猩	ji jin hua wei lie yan xing xing	422
+级进化为鲁斯王	ji jin hua wei lu si wang	440
+级进化为梅鲁	ji jin hua wei mei lu	123
+级进化为蒙娜布布	ji jin hua wei meng na bu bu	354
+级进化为奇拉塔顿技能如下	ji jin hua wei qi la ta dun ji neng ru xia	248
+级进化为沙罗希瓦	ji jin hua wei sha luo xi wa	163
+级进化为塔姆拉	ji jin hua wei ta mu la	257
+级进化为特鲁尼	ji jin hua wei te lu ni	143
+级进化为伊卡罗尼	ji jin hua wei yi ka luo ni	139
+级进化伊妮娅	ji jin hua yi ni ya	210
+级进化伊娅丝	ji jin hua yi ya si	207
+级紧缩属性技能自身防御	ji jin suo shu xing ji neng zi shen fang yu	120
+级聚合属性技能自身攻击	ji ju he shu xing ji neng zi shen gong ji	138
+级空旋斩普通物理技能威力	ji kong xuan zhan pu tong wu li ji neng wei li	135
+级叩击普攻威力	ji kou ji pu gong wei li	157
+级冷凝之光普通特殊技能威力	ji leng ning zhi guang pu tong te shu ji neng wei li	118
+级利爪攻击普通物理攻击威力	ji li zhua gong ji pu tong wu li gong ji wei li	441
+级灵光属性技能自身命中	ji ling guang shu xing ji neng zi shen ming zhong	133
+级龙吼龙系特攻威力	ji long hou long xi te gong wei li	199
+级龙王波特殊攻击威力命中对手	ji long wang bo te shu gong ji wei li ming zhong dui shou	189
+级龙之牙龙系物攻威力	ji long zhi ya long xi wu gong wei li	439
+级龙爪空闪破物理攻击威力	ji long zhua kong shan po wu li gong ji wei li	190
+级龙爪龙系物理攻击威力	ji long zhua long xi wu li gong ji wei li	201
+级乱突普攻次攻击	ji luan tu pu gong ci gong ji	488
+级螺旋拳威力普通物攻	ji luo xuan quan wei li pu tong wu gong	264
+级绿光珠草系特攻威力敌中毒	ji lv guang zhu cao xi te gong wei li di zhong du	194
+级冒火加攻击和防御	ji mao huo jia gong ji he fang yu	402
+级猛冲威力物理攻击	ji meng chong wei li wu li gong ji	265
+级猛攻普攻	ji meng gong pu gong	481
+级猛攻物理攻击威力	ji meng gong wu li gong ji wei li	350
+级鸣叫	ji ming jiao	494
+级冥想改变自身特攻特防	ji ming xiang gai bian zi shen te gong te fang	418
+吉娜斯特攻速度	ji na si te gong su du	27
+级拍打	ji pai da	495
+级拍打物理攻击威力	ji pai da wu li gong ji wei li	184
+级泡沫光线	ji pao mo guang xian	489
+级泡沫特攻	ji pao mo te gong	493
+级破元闪威力物攻绝先技能	ji po yuan shan wei li wu gong jue xian ji neng	155
+级气合斩威力物攻	ji qi he zhan wei li wu gong	154
+级气力威力	ji qi li wei li	156
+级乾坤一击物攻威力普通系	ji qian kun yi ji wu gong wei li pu tong xi	403
+级强击普通物理技能威力	ji qiang ji pu tong wu li ji neng wei li	142
+级强击物理攻击威力	ji qiang ji wu li gong ji wei li	174
+级切裂普通物理技能威力	ji qie lie pu tong wu li ji neng wei li	122
+级擒九域威力物攻	ji qin jiu yu wei li wu gong	153
+级全力一击普攻威力	ji quan li yi ji pu gong wei li	420
+级扰乱属性技能对方命中	ji rao luan shu xing ji neng dui fang ming zhong	136
+级熔炎爆发特攻威力火系	ji rong yan bao fa te gong wei li huo xi	400
+级闪击普通物理攻击威力	ji shan ji pu tong wu li gong ji wei li	444
+级双管火焰特攻威力火系	ji shuang guan huo yan te gong wei li huo xi	407
+级霜甲属性攻击特防	ji shuang jia shu xing gong ji te fang	186
+级水流弹水系特攻威力敌冻伤	ji shui liu dan shui xi te gong wei li di dong shang	193
+级水流喷射水系特殊攻击威力	ji shui liu pen she shui xi te shu gong ji wei li	443
+级水流喷射特攻先攻	ji shui liu pen she te gong xian gong	484
+级水之刃水物攻威力	ji shui zhi ren shui wu gong wei li	177
+吉斯	ji si	279
+吉斯攻击	ji si gong ji	67
+级四散光波光特攻威力	ji si san guang bo guang te gong wei li	175
+极速射线威力特殊攻击	ji su she xian wei li te shu gong ji	231
+寄宿岩	ji su yan	92
+级碎石普通物理威力对手防御	ji sui shi pu tong wu li wei li dui shou fang yu	198
+级锁敌属性攻击命中	ji suo di shu xing gong ji ming zhong	196
+级藤鞭物理攻击威力	ji teng bian wu li gong ji wei li	353
+级挑拨	ji tiao bo	429
+级威胁对方攻击	ji wei xie dui fang gong ji	399
+级翔星刃普通物理技能威力	ji xiang xing ren pu tong wu li ji neng wei li	132
+机械系精灵	ji xie xi jing ling	244
+级星空闪光普通特殊技能威力	ji xing kong shan guang pu tong te shu ji neng wei li	134
+级虚张声势防御加	ji xu zhang sheng shi fang yu jia	485
+级漩涡特攻冻伤	ji xuan wo te gong dong shang	483
+级旋转冲顶物攻威力普通系	ji xuan zhuan chong ding wu gong wei li pu tong xi	410
+级炎火球火系特殊威力烧伤	ji yan huo qiu huo xi te shu wei li shao shang	191
+级烟幕对方命中	ji yan mu dui fang ming zhong	409
+级炎热火焰特攻威力火系	ji yan re huo yan te gong wei li huo xi	404
+级佯攻普攻威力	ji yang gong pu gong wei li	424
+级叶片特殊攻击威力	ji ye pian te shu gong ji wei li	355
+级音速拳普攻威力	ji yin su quan pu gong wei li	427
+级音速撞击先攻普通物理威力	ji yin su zhuang ji xian gong pu tong wu li wei li	197
+级荧光属性攻击对方命中	ji ying guang shu xing gong ji dui fang ming zhong	176
+级折磨	ji zhe mo	423
+级震动大地威力特殊攻击	ji zhen dong da di wei li te shu gong ji	263
+级致命撞击物攻威力普通系	ji zhi ming zhuang ji wu gong wei li pu tong xi	408
+级重击物理攻击威力	ji zhong ji wu li gong ji wei li	183
+级抓物理攻击威力	ji zhua wu li gong ji wei li	349
+级灼热痛击火系物攻	ji zhuo re tong ji huo xi wu gong	397
+加格尔攻击防御	jia ge er gong ji fang yu	55
+加格攻击	jia ge gong ji	56
+加温属性自身特攻	jia wen shu xing zi shen te gong	394
+坚强属性攻击改变自身特防等级	jian qiang shu xing gong ji gai bian zi shen te fang deng ji	239
+剑舞属性攻击	jian wu shu xing gong ji	291
+坚硬属性攻击改变自身防御等级	jian ying shu xing gong ji gai bian zi shen fang yu deng ji	240
+角刃级物理攻击威力	jiao ren ji wu li gong ji wei li	205
+截击物理威力后出手威力	jie ji wu li wei li hou chu shou wei li	296
+进化为阿布	jin hua wei a bu	474
+进化为巴拉龟	jin hua wei ba la gui	469
+进化为达拉克	jin hua wei da la ke	261
+进化为吉尼亚斯	jin hua wei ji ni ya si	276
+进化为卡尔加斯	jin hua wei ka er jia si	280
+进化为卡鲁加	jin hua wei ka lu jia	281
+进化为卡斯达克	jin hua wei ka si da ke	260
+进化为克洛亚	jin hua wei ke luo ya	222
+进化为亚米拉	jin hua wei ya mi la	278
+精灵空间站	jing ling kong jian zhan	94
+晶岩兽	jing yan shou	259
+剧毒针刺威力草系特攻对方中毒	ju du zhen ci wei li cao xi te gong dui fang zhong du	314
+巨镰鸟攻击速度	ju lian niao gong ji su du	8
+卡卡	ka ka	223
+卡卡攻击	ka ka gong ji	38
+卡鲁加特攻	ka lu jia te gong	53
+卡鲁转至赛尔号融合精灵	ka lu zhuan zhi sai er hao rong he jing ling	160
+可参见词条赛尔号谱尼	ke can jian ci tiao sai er hao pu ni	113
+柯蓝悠悠的冰系分支进化	ke lan you you de bing xi fen zhi jin hua	224
+克洛斯星	ke luo si xing	111
+肯由于页面过挤转移到肯词条	ken you yu ye mian guo ji zhuan yi dao ken ci tiao	150
+空气切裂特攻威力固定点伤害	kong qi qie lie te gong wei li gu ding dian shang hai	295
+空袭物理威力	kong xi wu li wei li	300
+叩击物理攻击威力	kou ji wu li gong ji wei li	241
+拉博由于绝版转移到拉博词条	la bo you yu jue ban zhuan yi dao la bo ci tiao	151
+莱尼	lai ni	146
+莱尼攻击	lai ni gong ji	47
+雷顿塔	lei dun ta	237
+雷格	lei ge	242
+雷纳多	lei na duo	235
+雷之枪威力特殊攻击	lei zhi qiang wei li te shu gong ji	273
+冷旋风	leng xuan feng	218
+里奥斯特攻速度	li ao si te gong su du	75
+利利	li li	283
+利牙鱼	li ya yu	463
+利牙鱼攻击	li ya yu gong ji	73
+利兹攻击速度	li zi gong ji su du	37
+瞭望仓奎尼	liao wang cang kui ni	88
+瞭望露台扭蛋机	liao wang lu tai niu dan ji	90
+烈焰鞭级火系特攻威力	lie yan bian ji huo xi te gong wei li	206
+烈焰风暴火特殊烧伤对方	lie yan feng bao huo te shu shao shang dui fang	378
+林克	lin ke	226
+林克特攻	lin ke te gong	36
+林奇暗黑精灵	lin qi an hei jing ling	216
+龙卷风飞行特殊害怕	long juan feng fei xing te shu hai pa	335
+龙卷狂风威力特攻	long juan kuang feng wei li te gong	312
+龙系精灵	long xi jing ling	203
+鲁克	lu ke	282
+鲁克特攻	lu ke te gong	54
+露希欧星	lu xi ou xing	101
+乱突物理威力	luan tu wu li wei li	297
+乱舞狂沙特攻威力对方速度	luan wu kuang sha te gong wei li dui fang su du	289
+洛奇	luo qi	256
+罗奇	luo qi	284
+罗奇速度	luo qi su du	69
+螺旋烈风特攻威力害怕	luo xuan lie feng te gong wei li hai pa	293
+毛毛	mao mao	328
+毛毛速度	mao mao su du	64
+梅鲁特攻	mei lu te gong	48
+猛攻普攻	meng gong pu gong	454
+猛火攻击火物理烧伤对方	meng huo gong ji huo wu li shao shang dui fang	385
+猛击普通物理技能威力	meng ji pu tong wu li ji neng wei li	127
+米隆体力	mi long ti li	32
+米洛尼特攻体力	mi luo ni te gong ti li	31
+迷你果特攻攻击体力	mi ni guo te gong gong ji ti li	10
+迷你芽	mi ni ya	348
+迷你芽特攻	mi ni ya te gong	11
+鸣叫属性技能对方攻击	ming jiao shu xing ji neng dui fang gong ji	126
+莫比攻击	mo bi gong ji	59
+魔动能量威力特殊攻击	mo dong neng liang wei li te shu gong ji	230
+蘑菇怪防御特防	mo gu guai fang yu te fang	80
+奈姬	nai ji	204
+奈尼芬多特攻攻击体力	nai ni fen duo te gong gong ji ti li	19
+尼尔	ni er	214
+尼尔特攻	ni er te gong	14
+尼古尔星	ni gu er xing	100
+念力波级特殊攻击威力	nian li bo ji te shu gong ji wei li	212
+帕格尼尼体力攻击	pa ge ni ni ti li gong ji	20
+帕尼攻击	pa ni gong ji	21
+帕诺星系任何星球	pa nuo xing xi ren he xing qiu	15
+派派	pai pai	243
+泡沫	pao mo	478
+喷火火特殊	pen huo huo te shu	393
+皮皮攻击	pi pi gong ji	84
+普雷空间站	pu lei kong jian zhan	95
+谱尼	pu ni	114
+普通系精灵	pu tong xi jing ling	149
+普通系绝版精灵	pu tong xi jue ban jing ling	117
+普通系无无无	pu tong xi wu wu wu	3
+琪可	qi ke	373
+栖息恢复自身体力分之	qi xi hui fu zi shen ti li fen zhi	331
+祈雨加特攻和特防	qi yu jia te gong he te fang	466
+切裂	qie lie	452
+全力一击级物理攻击威力	quan li yi ji ji wu li gong ji wei li	308
+扔沙改变对方命中等级	reng sha gai bian dui fang ming zhong deng ji	340
+溶化属性对方防御特攻	rong hua shu xing dui fang fang yu te gong	382
+锐化属性攻击特攻命中	rui hua shu xing gong ji te gong ming zhong	301
+赛尔号宝贝鲤进化远古鱼龙	sai er hao bao bei li jin hua yuan gu yu long	434
+赛尔号飞船	sai er hao fei chuan	91
+塞西利亚星	sai xi li ya xing	106
+塞西莉亚星	sai xi li ya xing	39
+沙顿	sha dun	166
+沙顿特攻	sha dun te gong	18
+沙罗希瓦攻击特攻速度	sha luo xi wa gong ji te gong su du	17
+闪光利利体力	shan guang li li ti li	68
+闪光利利稀有	shan guang li li xi you	271
+闪光皮皮攻击	shan guang pi pi gong ji	79
+闪光皮皮稀有	shan guang pi pi xi you	311
+神秘系精灵	shen mi xi jing ling	161
+圣灵系精灵	sheng ling xi jing ling	115
+实验室派派尹赫	shi yan shi pai pai yin he	87
+食者属性回合击中要害	shi zhe shu xing hui he ji zhong yao hai	292
+双管火焰火特殊	shuang guan huo yan huo te shu	386
+双子阿尔法星	shuang zi a er fa xing	105
+双子贝塔星	shuang zi bei ta xing	104
+水草蛙	shui cao wa	345
+水流喷射先手	shui liu pen she xian shou	451
+水枪	shui qiang	476
+水系火系地面系草系圣灵系无	shui xi huo xi di mian xi cao xi sheng ling xi wu	6
+水系精灵	shui xi jing ling	497
+水之波动	shui zhi bo dong	471
+水之尾	shui zhi wei	470
+顺风改变自身速度等级	shun feng gai bian zi shen su du deng ji	330
+斯科尔星	si ke er xing	97
+斯内克	si nei ke	169
+斯内克体力	si nei ke ti li	26
+斯诺星	si nuo xing	102
+索拉	suo la	227
+缩头	suo tou	477
+塔克星	ta ke xing	99
+特鲁尼攻击特攻	te lu ni gong ji te gong	46
+提坦	ti tan	158
+提亚斯特攻速度	ti ya si te gong su du	60
+铁臂加防御特防	tie bi jia fang yu te fang	467
+铁臂撞击威力物理攻击	tie bi zhuang ji wei li wu li gong ji	234
+同属性攻击减半普通系除外	tong shu xing gong ji jian ban pu tong xi chu wai	1
+突破普攻	tu po pu gong	475
+蔚蓝背甲属性增加自身防御等级	wei lan bei jia shu xing zeng jia zi shen fang yu deng ji	435
+威慑	wei she	450
+舞动属性攻击和特攻	wu dong shu xing gong ji he te gong	321
+乌凯特攻	wu kai te gong	23
+乌力朴	wu li pu	306
+乌力朴攻击特攻	wu li pu gong ji te gong	22
+袭击普通物理先出手威力倍	xi ji pu tong wu li xian chu shou wei li bei	329
+希洛暗黑精灵	xi luo an hei jing ling	341
+吸气属性恢复体力值	xi qi shu xing hui fu ti li zhi	389
+仙人球	xian ren qiu	361
+仙人球特攻	xian ren qiu te gong	83
+小豆芽攻击	xiao dou ya gong ji	82
+小豆芽稀有精灵	xiao dou ya xi you jing ling	360
+小火猴	xiao huo hou	431
+小蘑菇	xiao mo gu	359
+小鳍鱼特攻	xiao qi yu te gong	71
+小莹蜂	xiao ying feng	326
+小莹蜂速度	xiao ying feng su du	62
+星吉拉特攻	xing ji la te gong	44
+蓄气	xu qi	458
+虚张声势	xu zhang sheng shi	456
+玄冰兽	xuan bing shou	228
+玄冰兽攻击	xuan bing shou gong ji	35
+旋风飞行特殊	xuan feng fei xing te shu	338
+旋转冲顶普通物理技能威力	xuan zhuan chong ding pu tong wu li ji neng wei li	144
+迅猛击级物理攻击威力	xun meng ji ji wu li gong ji wei li	209
+亚米拉攻击速度	ya mi la gong ji su du	66
+眼部光线普通特殊技能威力	yan bu guang xian pu tong te shu ji neng wei li	128
+燕返级物理攻击威力	yan fan ji wu li gong ji wei li	309
+炎火猴转至赛尔号融合精灵	yan huo hou zhuan zhi sai er hao rong he jing ling	377
+烟幕属性对方命中	yan mu shu xing dui fang ming zhong	392
+眼球攻击	yan qiu gong ji	24
+佯攻先手	yang gong xian shou	448
+咬碎	yao sui	453
+一刀两断物攻威力	yi dao liang duan wu gong wei li	287
+翼片飞射威力特攻	yi pian fei she wei li te gong	322
+伊娃	yi wa	213
+伊娃特防	yi wa te fang	30
+以下精灵转移依卢伶俐鸟奎尼	yi xia jing ling zhuan yi yi lu ling li niao kui ni	171
+伊娅丝特防	yi ya si te fang	29
+依依	yi yi	358
+依依特攻	yi yi te gong	81
+伊优	yi you	496
+伊优达融合精灵	yi you da rong he jing ling	445
+伊优的进化过程级进化为尤里安	yi you de jin hua guo cheng ji jin hua wei you li an	491
+因布鲁绝版转移到布鲁词条中	yin bu lu jue ban zhuan yi dao bu lu ci tiao zhong	433
+因字数原因弗曼莫比暂时转移	yin zi shu yuan yin fu man mo bi zan shi zhuan yi	245
+因字数原因尤纳斯暂时转移	yin zi shu yuan yin you na si zan shi zhuan yi	162
+英佩恩堡垒	ying pei en bao lei	93
+幽浮	you fu	327
+幽浮速度	you fu su du	63
+幼镰鸟	you lian niao	298
+幼镰鸟攻击	you lian niao gong ji	9
+悠悠	you you	148
+悠悠攻击	you you gong ji	52
+羽翼齐射威力特攻	yu yi qi she wei li te gong	317
+约凡撒是精灵大师杯的礼品	yue fan sa shi jing ling da shi bei de li pin	436
+约西	yue xi	437
+云霄星	yun xiao xing	110
+噪音	zao yin	460
+战斗系精灵	zhan dou xi jing ling	159
+折磨属性技能对方防御	zhe mo shu xing ji neng dui fang fang yu	141
+振铃级属性攻击令对方害怕	zhen ling ji shu xing gong ji ling dui fang hai pa	208
+震天动地特攻地面威力	zhen tian dong di te gong di mian wei li	246
+正电荷攻击防御	zheng dian he gong ji fang yu	275
+蒸汽之击普通物理对方攻击	zheng qi zhi ji pu tong wu li dui fang gong ji	380
+窒息弧线物理威力对对方疲惫	zhi xi hu xian wu li wei li dui dui fang pi bei	299
+重击威力普通物攻	zhong ji wei li pu tong wu gong	236
+注龙系内部攻击为有效	zhu long xi nei bu gong ji wei you xiao	2
+转移到嘟噜噜嘟咕噜	zhuan yi dao du lu lu du gu lu	116
+转移至悠悠	zhuan yi zhi you you	147
+撞击初始技能普通物理技能	zhuang ji chu shi ji neng pu tong wu li ji neng	145
+撞击初始技能普通物理技能威力	zhuang ji chu shi ji neng pu tong wu li ji neng wei li	130
+撞击天生普通物理	zhuang ji tian sheng pu tong wu li	395
+追击普通物理回合做次攻击	zhui ji pu tong wu li hui he zuo ci gong ji	388
+追击式属性特攻	zhui ji shi shu xing te gong	313
+字冲顶普通威力对方疲劳	zi chong ding pu tong wei li dui fang pi lao	288

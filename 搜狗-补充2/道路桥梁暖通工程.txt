@@ -1,0 +1,773 @@
+# 词库名称: 道路桥梁暖通工程
+# 词库分类: 个人专用
+# 词库描述: 有关道路工程，桥梁、暖通工程的词汇
+# 词条样例: 等级道路、净空、设计车速、道路网密度、设计车辆
+# 解析词数: 766
+# 解析异常: 0
+
+安全岛	an quan dao	518
+安全振速	an quan zhen su	155
+凹形竖曲线	ao xing shu qu xian	589
+八字翼墙	ba zi yi qiang	418
+百米桩	bai mi zhuang	478
+百叶风口	bai ye feng kou	20
+办公建筑设计规范	ban gong jian zhu she ji gui fan	104
+拌和物	ban huo wu	391
+板式换热器	ban shi huan re qi	81
+板式排烟口	ban shi pai yan kou	10
+薄壁筒桩	bao bi tong zhuang	437
+保护层	bao hu ceng	344
+爆破监测	bao po jian ce	156
+北半幅	bei ban fu	248
+北幅	bei fu	252
+贝克曼梁	bei ke man liang	350
+北引路	bei yin lu	256
+北引桥	bei yin qiao	254
+便道	bian dao	397
+变风量	bian feng liang	69
+变频调速	bian pin tiao su	89
+变坡点	bian po dian	580
+边墙	bian qiang	310
+变速车道	bian su che dao	637
+标高	biao gao	423
+表面应变计	biao mian ying bian ji	151
+标志标线	biao zhi biao xian	194
+标柱	biao zhu	508
+标准差	biao zhun cha	351
+冰蓄冷	bing xu leng	84
+不保证天数	bu bao zheng tian shu	114
+不保证小时数	bu bao zheng xiao shi shu	113
+部分负荷	bu fen fu he	80
+补风	bu feng	17
+不燃材料	bu ran cai liao	55
+不锈钢板	bu xiu gang ban	45
+不锈钢波纹软管	bu xiu gang bo wen ruan guan	3
+曹妍	cao yan	461
+侧石	ce shi	617
+测线布置	ce xian bu zhi	304
+厂矿道路	chang kuang dao lu	763
+厂矿道路挡车堆	chang kuang dao lu dang che dui	498
+厂矿道路防滑堆	chang kuang dao lu fang hua dui	496
+厂矿道路阻车堤	chang kuang dao lu zu che di	500
+厂内次干道	chang nei ci gan dao	718
+厂内道路	chang nei dao lu	720
+厂内支道	chang nei zhi dao	717
+厂内主干道	chang nei zhu gan dao	719
+厂外道路	chang wai dao lu	721
+超车车道	chao che che dao	634
+超车视距	chao che shi ju	571
+超高	chao gao	586
+超高缓和段	chao gao huan he duan	585
+超声法检查混凝土缺陷技术规程	chao sheng fa jian cha hun ning tu que xian ji shu gui cheng	204
+车道	che dao	642
+车道宽度	che dao kuan du	626
+车间净距	che jian jing ju	694
+车辆间净距	che liang jian jing ju	695
+车流	che liu	699
+车头间距	che tou jian ju	697
+车头时距	che tou shi ju	696
+车行道	che xing dao	644
+沉淀厚度	chen dian hou du	330
+沉降缝	chen jiang feng	413
+衬砌	chen qi	316
+衬砌混凝土	chen qi hun ning tu	309
+城市次干路	cheng shi ci gan lu	729
+城市道路	cheng shi dao lu	764
+城市道路面积率	cheng shi dao lu mian ji lv	649
+城市快速路	cheng shi kuai su lu	733
+城市桥梁养护技术规程	cheng shi qiao liang yang hu ji shu gui cheng	137
+城市人均道路面积	cheng shi ren jun dao lu mian ji	647
+城市支路	cheng shi zhi lu	727
+城市主干路	cheng shi zhu gan lu	731
+承台	cheng tai	372
+冲击系数	chong ji xi shu	218
+冲突点	chong tu dian	523
+出境交通	chu jing jiao tong	662
+畜力车道	chu li che dao	704
+初期支护	chu qi zhi hu	317
+出行	chu xing	665
+窗墙面积比	chuang qiang mian ji bi	98
+次干路	ci gan lu	728
+错车道	cuo che dao	630
+错位交叉	cuo wei jiao cha	551
+搭板	da ban	371
+搭接	da jie	410
+大跨径混凝土桥梁的试验方法	da kua jing hun ning tu qiao liang de shi yan fang fa	202
+大气压力	da qi ya li	51
+大应变	da ying bian	384
+带肋钢筋	dai lei gang jin	365
+单向匝道	dan xiang za dao	538
+单轴饱和抗压强度	dan zhou bao he kang ya qiang du	153
+挡车堆	dang che dui	497
+挡土墙	dang tu qiang	441
+宕渣	dang zha	454
+导管	dao guan	394
+道口	dao kou	559
+道口铺面	dao kou pu mian	517
+道口限界架	dao kou xian jie jia	516
+导流岛	dao liu dao	520
+道路	dao lu	766
+道路服务水平	dao lu fu wu shui ping	672
+道路工程	dao lu gong cheng	760
+道路技术标准	dao lu ji shu biao zhun	756
+道路建筑限界	dao lu jian zhu xian jie	751
+道路交叉	dao lu jiao cha	563
+道路交通规划	dao lu jiao tong gui hua	670
+道路路线	dao lu lu xian	606
+道路绿化	dao lu lv hua	485
+道路密度	dao lu mi du	758
+道路面积率	dao lu mian ji lv	648
+道路网	dao lu wang	759
+道路网规划	dao lu wang gui hua	654
+道路网密度	dao lu wang mi du	757
+道路限界架	dao lu xian jie jia	501
+道路线形	dao lu xian xing	605
+道路照明设施	dao lu zhao ming she shi	494
+道路中线	dao lu zhong xian	608
+道路轴线	dao lu zhou xian	607
+等级道路	deng ji dao lu	749
+等级公路	deng ji gong lu	746
+低辐射中空玻璃幕墙	di fu she zhong kong bo li mu qiang	99
+底基层	di ji ceng	353
+地基承载力	di ji cheng zai li	386
+地基冲刷	di ji chong shua	268
+低温送风	di wen song feng	68
+低噪声风机	di zao sheng feng ji	93
+地质雷达法	di zhi lei da fa	313
+电动二通阀	dian dong er tong fa	38
+电动双位蝶阀	dian dong shuang wei die fa	1
+点速度	dian su du	692
+吊架	diao jia	94
+叠合梁	die he liang	143
+跌水	die shui	354
+定流量阀	ding liu liang fa	5
+定向式立体交叉	ding xiang shi li ti jiao cha	544
+定压	ding ya	39
+丁字形交叉	ding zi xing jiao cha	553
+冻板道路	dong ban dao lu	707
+东半幅	dong ban fu	247
+东幅	dong fu	251
+洞口铺砌	dong kou pu qi	416
+动力反应	dong li fan ying	219
+东引路	dong yin lu	260
+东引桥	dong yin qiao	258
+动载试验	dong zai shi yan	222
+渡口	du kou	486
+镀锌钢板	du xin gang ban	46
+断背曲线	duan bei qu xian	594
+端横隔板	duan heng ge ban	142
+断面渐变段	duan mian jian bian duan	584
+断热	duan re	66
+对称布载	dui chen bu zai	163
+墩台	dun tai	398
+多岔交叉	duo cha jiao cha	557
+多叶送风口	duo ye song feng kou	22
+二管制	er guan zhi	41
+二灰碎石	er hui sui shi	473
+二灰土	er hui tu	474
+耳墙	er qiang	265
+法兰	fa lan	31
+帆布软接	fan bu ruan jie	56
+反坡安全线	fan po an quan xian	491
+反向曲线	fan xiang qu xian	596
+反压护道	fan ya hu dao	335
+防尘罩	fang chen zhao	167
+防腐处理	fang fu chu li	28
+防护栅	fang hu shan	507
+防滑堆	fang hua dui	495
+防火阀	fang huo fa	57
+防火分区	fang huo fen qu	14
+防火规范	fang huo gui fan	54
+防火调节阀	fang huo tiao jie fa	12
+防落屏	fang luo ping	285
+防沙设施	fang sha she shi	503
+防水混凝土	fang shui hun ning tu	288
+方形散流器	fang xing san liu qi	11
+防炫屏	fang xuan ping	506
+防雪设施	fang xue she shi	502
+防烟分区	fang yan fen qu	15
+防烟楼梯	fang yan lou ti	25
+防撞护栏	fang zhuang hu lan	370
+分部工程	fen bu gong cheng	452
+分道转弯式交叉口	fen dao zhuan wan shi jiao cha kou	529
+分隔带	fen ge dai	624
+分隔设施	fen ge she shi	511
+分隔式立体交叉	fen ge shi li ti jiao cha	540
+分流	fen liu	524
+封端	feng duan	363
+风机房	feng ji fang	95
+风机盘管	feng ji pan guan	70
+风机特性曲线	feng ji te xing qu xian	87
+蜂窝麻面	feng wo ma mian	358
+腹板	fu ban	339
+辅道	fu dao	748
+附加车道	fu jia che dao	638
+复曲线	fu qu xian	597
+辐射强度	fu she qiang du	111
+辐射照度	fu she zhao du	110
+扶手	fu shou	196
+辅助车道	fu zhu che dao	429
+盖板涵	gai ban han	327
+盖梁	gai liang	188
+干接缝	gan jie feng	341
+干球温度	gan qiu wen du	129
+干线公路	gan xian gong lu	745
+钢拱架	gang gong jia	144
+钢绞线	gang jiao xian	343
+钢筋混凝土	gang jin hun ning tu	239
+钢筋笼	gang jin long	395
+钢筋砼	gang jin tong	443
+钢弦频率测定仪	gang xian pin lv ce ding yi	145
+钢弦式电测锚杆	gang xian shi dian ce mao gan	146
+钢弦式钢筋计	gang xian shi gang jin ji	150
+钢弦筒式锚索测力计	gang xian tong shi mao suo ce li ji	160
+高差	gao cha	348
+高峰小时交通量	gao feng xiao shi jiao tong liang	678
+高架桥	gao jia qiao	184
+高空排放	gao kong pai fang	43
+高速公路	gao su gong lu	747
+隔音墙	ge yin qiang	504
+工程概况	gong cheng gai kuang	100
+拱顶	gong ding	312
+公共建筑节能设计标准	gong gong jian zhu jie neng she ji biao zhun	102
+拱脚	gong jiao	209
+公交车辆停靠站	gong jiao che liang ting kao zhan	490
+公交停靠站	gong jiao ting kao zhan	489
+工况	gong kuang	141
+拱肋	gong lei	212
+公路	gong lu	765
+公路二级	gong lu er ji	242
+公路工程质量检验评定标准	gong lu gong cheng zhi liang jian yan ping ding biao zhun	206
+公路旧桥承载能力鉴定方法	gong lu jiu qiao cheng zai neng li jian ding fang fa	200
+公路桥涵设计通用规范	gong lu qiao han she ji tong yong gui fan	203
+公路桥涵养护规范	gong lu qiao han yang hu gui fan	205
+公路一级	gong lu yi ji	243
+公路自然区划	gong lu zi ran qu hua	734
+功能栽植	gong neng zai zhi	481
+供水管	gong shui guan	8
+拱腰	gong yao	311
+工业区道路	gong ye qu dao lu	722
+拱轴线	gong zhou xian	187
+沟槽	gou cao	32
+谷电低价	gu dian di jia	82
+固定螺栓	gu ding luo shuan	169
+固定支座	gu ding zhi zuo	181
+箍筋	gu jin	346
+固体体积率	gu ti ti ji lv	382
+管基	guan ji	419
+灌砂法	guan sha fa	431
+管座	guan zuo	417
+光圆钢筋	guang yuan gang jin	366
+国道	guo dao	742
+国家干线公路	guo jia gan xian gong lu	743
+过境交通	guo jing jiao tong	663
+过滤器	guo lv qi	26
+合成坡度	he cheng po du	575
+合流	he liu	525
+黑球温度	hei qiu wen du	127
+横断面图	heng duan mian tu	421
+横隔板	heng ge ban	140
+桁架拱	heng jia gong	238
+横净距	heng jing ju	567
+横坡	heng po	611
+横桥向对称布载	heng qiao xiang dui chen bu zai	164
+横桥向偏心布载	heng qiao xiang pian xin bu zai	166
+横系梁	heng xi liang	338
+横向裂缝	heng xiang lie feng	292
+护栏	hu lan	510
+护林防火道路	hu lin fang huo dao lu	709
+护路林	hu lu lin	480
+护坡	hu po	434
+护坡道	hu po dao	336
+护墙	hu qiang	509
+护筒	hu tong	388
+互通式立体交叉	hu tong shi li ti jiao cha	546
+滑动平均	hua dong ping jun	112
+环刀	huan dao	430
+缓和坡段	huan he po duan	576
+缓和曲线	huan he qu xian	592
+换填	huan tian	379
+环形辐射式道路系统	huan xing fu she shi dao lu xi tong	652
+环形交叉	huan xing jiao cha	556
+环形立体交叉	huan xing li ti jiao cha	541
+环形匝道	huan xing za dao	536
+回车场	hui che chang	628
+回车道	hui che dao	629
+回水管	hui shui guan	7
+回弹仪	hui tan yi	380
+回头曲线	hui tou qu xian	593
+混合交通	hun he jiao tong	701
+混合式道路系统	hun he shi dao lu xi tong	650
+混凝土基础	hun ning tu ji chu	16
+混凝土脱落	hun ning tu tuo luo	296
+混凝土应变计	hun ning tu ying bian ji	147
+活动支座	huo dong zhi zuo	183
+基本通行能力	ji ben tong xing neng li	675
+基本完好	ji ben wan hao	263
+集材道路	ji cai dao lu	710
+基础	ji chu	278
+激光断面仪	ji guang duan mian yi	307
+激光断面仪法	ji guang duan mian yi fa	308
+几何参数	ji he can shu	324
+基坑土方	ji keng tu fang	428
+急流槽	ji liu cao	357
+技术状况评定	ji shu zhuang kuang ping ding	282
+计算行车速度	ji suan xing che su du	753
+机械通风	ji xie tong feng	49
+加宽缓和段	jia kuan huan he duan	587
+加宽转角式交叉口	jia kuan zhuan jiao shi jiao cha kou	531
+架立筋	jia li jin	323
+加速车道	jia su che dao	636
+加压送风	jia ya song feng	23
+简单立体交叉	jian dan li ti jiao cha	547
+检孔	jian kong	393
+监理工程师	jian li gong cheng shi	455
+剪切变形	jian qie bian xing	174
+碱蚀	jian shi	245
+减速车道	jian su che dao	635
+简易支座	jian yi zhi zuo	179
+简支	jian zhi	240
+简支空心板	jian zhi kong xin ban	241
+建筑设计防火规范	jian zhu she ji fang huo gui fan	109
+浆砌片石	jiang qi pian shi	442
+交叉角	jiao cha jiao	561
+交叉口	jiao cha kou	534
+交叉口出口	jiao cha kou chu kou	532
+交叉口进口	jiao cha kou jin kou	533
+交叉口通行能力	jiao cha kou tong xing neng li	671
+铰缝	jiao feng	320
+绞缝	jiao feng	349
+脚架	jiao jia	425
+郊区道路	jiao qu dao lu	724
+交通安全设施	jiao tong an quan she shi	515
+交通部公路科学研究所	jiao tong bu gong lu ke xue yan jiu suo	201
+交通岛	jiao tong dao	521
+交通调查	jiao tong diao cha	669
+交通发生	jiao tong fa sheng	660
+交通方式划分	jiao tong fang shi hua fen	658
+交通分布	jiao tong fen bu	659
+交通广场	jiao tong guang chang	493
+交通量	jiao tong liang	683
+交通量调查	jiao tong liang diao cha	668
+交通量分配	jiao tong liang fen pei	657
+交通量观测站	jiao tong liang guan ce zhan	667
+交通量预测	jiao tong liang yu ce	656
+交通流	jiao tong liu	700
+交通密度	jiao tong mi du	698
+交通信号	jiao tong xin hao	195
+交通组成	jiao tong zu cheng	702
+校验系数	jiao yan xi shu	132
+交织	jiao zhi	527
+交织点	jiao zhi dian	522
+交织路段	jiao zhi lu duan	526
+街道	jie dao	725
+街道绿化	jie dao lv hua	484
+街沟	jie gou	615
+结构承载力	jie gou cheng zai li	223
+结构刚度	jie gou gang du	225
+结构抗裂性	jie gou kang lie xing	224
+结构强度	jie gou qiang du	226
+截角	jie jiao	565
+截面应力	jie mian ying li	228
+紧急停车带	jin ji ting che dai	631
+经常性检查	jing chang xing jian cha	287
+井道	jing dao	18
+经济车速	jing ji che su	685
+净空	jing kong	750
+境内交通	jing nei jiao tong	664
+静压	jing ya	64
+静载试验	jing zai shi yan	229
+居住区道路	ju zhu qu dao lu	723
+绝对湿度	jue dui shi du	123
+绝热	jue re	67
+卡箍	ka gu	33
+抗压强度	kang ya qiang du	376
+可能通行能力	ke neng tong xing neng li	674
+孔道压浆	kong dao ya jiang	367
+空间平均速度	kong jian ping jun su du	686
+孔径	kong jing	411
+空气处理机	kong qi chu li ji	75
+空气动力	kong qi dong li	90
+空气湿度	kong qi shi du	125
+空气温度	kong qi wen du	130
+空调峰值计算冷负荷	kong tiao feng zhi ji suan leng fu he	86
+空调机房	kong tiao ji fang	97
+空调室外计算干球温度	kong tiao shi wai ji suan gan qiu wen du	53
+空调室外计算湿球温度	kong tiao shi wai ji suan shi qiu wen du	52
+空心板	kong xin ban	360
+跨线桥	kua xian qiao	185
+跨中对称加载	kua zhong dui cheng jia zai	162
+跨中偏心加载	kua zhong pian xin jia zai	161
+快速路	kuai su lu	732
+喇叭形立体交叉	la ba xing li ti jiao cha	542
+拉索	la suo	208
+栏杆	lan gan	197
+栏杆护栏	lan gan hu lan	272
+老化	lao hua	177
+肋板台	lei ban tai	234
+累年值	lei nian zhi	121
+累年最冷三个月	lei nian zui leng san ge yue	116
+累年最冷月	lei nian zui leng yue	118
+累年最热三个月	lei nian zui re san ge yue	115
+累年最热月	lei nian zui re yue	117
+棱镜头	leng jing tou	426
+冷弯	leng wan	399
+里程碑	li cheng bei	479
+历年值	li nian zhi	122
+历年最冷月	li nian zui leng yue	120
+历年最热月	li nian zui re yue	119
+沥青混凝土	li qing hun ning tu	289
+立体交叉	li ti jiao cha	550
+离心玻璃棉	li xin bo li mian	44
+立缘石	li yuan shi	618
+立柱	li zhu	211
+连接道路	lian jie dao lu	708
+联络线	lian luo xian	713
+连续箱梁	lian xu xiang liang	237
+梁肋	liang lei	139
+裂缝	lie feng	302
+临界速度	lin jie su du	688
+林区道路	lin qu dao lu	762
+林区公路	lin qu gong lu	712
+菱形立体交叉	ling xing li ti jiao cha	543
+漏浆	lou jiang	329
+路侧带	lu ce dai	613
+路床	lu chuang	449
+露点温度	lu dian wen du	126
+路幅	lu fu	645
+路拱	lu gong	610
+路拱曲线	lu gong qu xian	609
+路基	lu ji	477
+路基临界高度	lu ji lin jie gao du	451
+路基土石方	lu ji tu shi fang	453
+路肩	lu jian	622
+露筋	lu jin	300
+路口截角	lu kou jie jiao	566
+路口视距	lu kou shi ju	569
+路面	lu mian	476
+路堑	lu qian	402
+露天矿山道路	lu tian kuang shan dao lu	716
+路网通行能力	lu wang tong xing neng li	655
+路线交叉	lu xian jiao cha	562
+路缘带	lu yuan dai	623
+路缘石	lu yuan shi	620
+轮廓线	lun kuo xian	314
+螺母	luo mu	168
+螺旋筋	luo xuan jin	345
+铝箔软管	lv bo ruan guan	48
+铝合金	lv he jin	73
+绿化带	lv hua dai	612
+绿篱	lv li	482
+绿色建筑评价标准	lv se jian zhu ping jia biao zhun	101
+锚杆	mao gan	294
+锚固钢筋	mao gu gang jin	331
+锚固区	mao gu qu	190
+民用建筑设计通则	min yong jian zhu she ji tong ze	105
+抹面	mo mian	412
+模板	mu ban	404
+木排道	mu pai dao	706
+苜蓿叶形立体交叉	mu xu ye xing li ti jiao cha	545
+南半幅	nan ban fu	249
+南幅	nan fu	253
+南引路	nan yin lu	257
+南引桥	nan yin qiao	255
+挠度值	nao du zhi	227
+内侧车道	nei ce che dao	641
+能源效率	neng yuan xiao lv	91
+泥灰结碎石	ni hui jie sui shi	407
+泥浆比重	ni jiang bi zhong	401
+泥浆池	ni jiang chi	387
+年第位最大小时交通量	nian di wei zui da xiao shi jiao tong liang	680
+年平均日交通量	nian ping jun ri jiao tong liang	682
+年最大小时交通量	nian zui da xiao shi jiao tong liang	679
+宁常	ning chang	466
+宁常高速公路	ning chang gao su gong lu	465
+宁杭	ning hang	464
+宁杭高速公路	ning hang gao su gong lu	463
+凝结水管	ning jie shui guan	6
+爬坡车道	pa po che dao	633
+排水设施	pai shui she shi	270
+排烟阀	pai yan fa	13
+配合比	pei he bi	438
+喷层应力计	pen ceng ying li ji	148
+喷射混凝土	pen she hun ning tu	303
+盆式橡胶支座	pen shi xiang jiao zhi zuo	170
+喷塑	pen su	72
+膨胀水箱	peng zhang shui xiang	40
+偏沟	pian gou	614
+偏心布载	pian xin bu zai	165
+平均纵坡	ping jun zong po	579
+平面交叉	ping mian jiao cha	558
+平面交叉口	ping mian jiao cha kou	535
+平面线形	ping mian xian xing	604
+平曲线	ping qu xian	601
+平曲线横净距	ping qu xian heng jing ju	568
+平曲线加宽	ping qu xian jia kuan	588
+平石	ping shi	616
+平缘石	ping yuan shi	619
+坡长限制	po chang xian zhi	578
+坡度	po du	422
+破裂	po lie	176
+汽车最小转弯半径	qi che zui xiao zhuan wan ban jing	599
+棋盘式道路系统	qi pan shi dao lu xi tong	653
+起迄点调查	qi qi dian diao cha	666
+前室	qian shi	24
+墙身	qiang shen	414
+桥墩及基础	qiao dun ji ji chu	277
+桥涵工程试验检测技术	qiao han gong cheng shi yan jian ce ji shu	199
+桥跨结构	qiao kua jie gou	220
+桥梁	qiao liang	322
+桥面连续	qiao mian lian xu	325
+桥面铺装	qiao mian pu zhuang	369
+桥台	qiao tai	279
+桥台及基础	qiao tai ji ji chu	280
+桥头跳车	qiao tou tiao che	273
+清表	qing biao	448
+清孔	qing kong	396
+青石栏杆	qing shi lan gan	368
+清淤	qing yu	378
+渠化交通	qu hua jiao tong	528
+区间速度	qu jian su du	690
+全热回收	quan re hui shou	71
+全压效率	quan ya xiao lv	92
+全站仪	quan zhan yi	427
+绕行公路	rao xing gong lu	735
+热工	re gong	85
+热舒适性	re shu shi xing	63
+人均道路面积	ren jun dao lu mian ji	646
+人民防空地下室设计规范	ren min fang kong di xia shi she ji gui fan	108
+人民防空工程设计防火规范	ren min fang kong gong cheng she ji fang huo gui fan	107
+人行道	ren xing dao	625
+人行地道	ren xing di dao	513
+人行横道	ren xing heng dao	514
+人行天桥	ren xing tian qiao	512
+人员密度	ren yuan mi du	50
+入境交通	ru jing jiao tong	661
+软土路基	ruan tu lu ji	475
+软质岩石	ruan zhi yan shi	157
+散流器	san liu qi	74
+散热器	san re qi	76
+三通调节阀	san tong tiao jie fa	58
+砂浆勾缝	sha jiang gou feng	415
+砂砾	sha li	408
+上部承重构件	shang bu cheng zhong gou jian	276
+上部一般承重构件	shang bu yi ban cheng zhong gou jian	274
+上部主要承重构件	shang bu zhu yao cheng zhong gou jian	275
+上跨铁路立体交叉	shang kua tie lu li ti jiao cha	549
+设计车辆	she ji che liang	755
+设计车速	she ji che su	752
+设计荷载标准	she ji he zai biao zhun	244
+设计交底	she ji jiao di	457
+设计日	she ji ri	79
+设计通行能力	she ji tong xing neng li	673
+设计小时交通量	she ji xiao shi jiao tong liang	677
+渗水	shen shui	298
+伸缩缝	shen suo feng	319
+生产干线	sheng chan gan xian	715
+生产支线	sheng chan zhi xian	714
+省道	sheng dao	740
+省干线公路	sheng gan xian gong lu	741
+时窗长度	shi chuang chang du	306
+施工图	shi gong tu	373
+实际位移量	shi ji wei yi liang	182
+试件	shi jian	352
+时间平均速度	shi jian ping jun su du	687
+湿接缝	shi jie feng	340
+视距	shi ju	573
+视距三角形	shi ju san jiao xing	570
+室内空气质量标准	shi nei kong qi zhi liang biao zhun	103
+湿球温度	shi qiu wen du	128
+室外计算参数	shi wai ji suan can shu	131
+室外温度	shi wai wen du	61
+视线	shi xian	574
+失效	shi xiao	175
+实心板	shi xin ban	318
+试验荷载效率	shi yan he zai xiao lv	138
+试验孔	shi yan kong	221
+视野	shi ye	564
+十字形交叉	shi zi xing jiao cha	554
+手动平衡阀	shou dong ping heng fa	4
+受力状态	shou li zhuang tai	210
+竖曲线	shu qu xian	591
+竖向裂缝	shu xiang lie feng	290
+双铰型上承式拱桥	shuang jiao xing shang cheng shi gong qiao	213
+双速风机	shuang su feng ji	88
+双向匝道	shuang xiang za dao	537
+水泥土	shui ni tu	406
+水泥稳定碎石	shui ni wen ding sui shi	470
+水稳	shui wen	472
+水稳基层	shui wen ji ceng	469
+水稳碎石	shui wen sui shi	471
+水系统	shui xi tong	42
+水准仪	shui zhun yi	424
+四氟滑板支座	si fu hua ban zhi zuo	172
+四氟乙烯板	si fu yi xi ban	171
+松铺厚度	song pu hou du	383
+塑限路槽	su xian lu cao	326
+隧道	sui dao	321
+隧道式轴流风机	sui dao shi zhou liu feng ji	19
+碎落台	sui luo tai	337
+索力	suo li	207
+台背回填	tai bei hui tian	356
+坍落度	tan luo du	390
+特种车辆	te zhong che liang	754
+填挖高度	tian wa gao du	420
+填筑厚度	tian zhu hou du	446
+调治构造物	tiao zhi gou zao wu	269
+铁路道口	tie lu dao kou	560
+停车场	ting che chang	492
+停车车道	ting che che dao	632
+停车视距	ting che shi ju	572
+通风空调施工质量验收规范	tong feng kong tiao shi gong zhi liang yan shou gui fan	106
+通气孔	tong qi kong	283
+砼脱落	tong tuo luo	297
+同向曲线	tong xiang qu xian	595
+通行能力	tong xing neng li	676
+土工格栅	tu gong ge shan	364
+图号	tu hao	409
+凸形竖曲线	tu xing shu qu xian	590
+驮道	tuo dao	703
+拓宽路口式交叉口	tuo kuan lu kou shi jiao cha kou	530
+脱落	tuo luo	301
+挖除非适用材料	wa chu fei shi yong cai liao	444
+外侧车道	wai ce che dao	639
+外掺剂	wai chan ji	333
+外观检查	wai guan jian cha	231
+外观质量检查	wai guan zhi liang jian cha	232
+弯沉	wan chen	433
+弯起钢筋	wan qi gang jin	347
+王芮文	wang rui wen	462
+微形环交	wei xing huan jiao	555
+围堰	wei yan	328
+围岩	wei yan	315
+围岩多点位移计	wei yan duo dian wei yi ji	149
+温度控制器	wen du kong zhi qi	37
+紊流	wen liu	60
+无侧向抗压	wu ce xiang kang ya	385
+无缝钢管	wu feng gang guan	34
+无损检测	wu sun jian ce	230
+西半幅	xi ban fu	246
+吸顶式换气扇	xi ding shi huan qi shan	9
+西幅	xi fu	250
+系杆拱	xi gan gong	186
+系梁	xi liang	262
+西引路	xi yin lu	261
+西引桥	xi yin qiao	259
+下部结构	xia bu jie gou	236
+下穿铁路立体交叉	xia chuan tie lu li ti jiao cha	548
+县道	xian dao	738
+县公路	xian gong lu	739
+现浇	xian jiao	460
+现浇箱梁	xian jiao xiang liang	459
+线形要素	xian xing yao su	602
+先张法	xian zhang fa	435
+乡村道路	xiang cun dao lu	761
+乡道	xiang dao	736
+相对介电系数	xiang dui jie dian xi shu	305
+相对湿度	xiang dui shi du	124
+乡公路	xiang gong lu	737
+橡胶支座	xiang jiao zhi zuo	361
+箱梁	xiang liang	284
+镶面	xiang mian	342
+项目经理部	xiang mu jing li bu	456
+橡塑保温材料	xiang su bao wen cai liao	29
+橡塑类发泡保温材料	xiang su lei fa pao bao wen cai liao	30
+消防控制中心	xiao fang kong zhi zhong xin	21
+消声止回阀	xiao sheng zhi hui fa	2
+泄水孔	xie shui kong	334
+卸载	xie zai	136
+新风机房	xin feng ji fang	96
+行车道	xing che dao	643
+行道树	xing dao shu	483
+形交叉	xing jiao cha	552
+行驶速度	xing shi su du	691
+锈蚀	xiu shi	299
+蓄冰	xu bing	83
+循环泵	xun huan beng	36
+循环温度	xun huan wen du	77
+压差传感器	ya cha chuan gan qi	27
+压差控制阀	ya cha kong zhi fa	62
+压力盒	ya li he	152
+压实度	ya shi du	432
+压缩变形	ya suo bian xing	173
+延误	yan wu	693
+仰拱	yang gong	295
+养生	yang sheng	375
+液限	ye xian	450
+翼板	yi ban	135
+乙二醇	yi er chun	35
+翼墙	yi qiang	266
+翼墙耳墙	yi qiang er qiang	267
+翼缘	yi yuan	134
+窨井式交叉井	yin jing shi jiao cha jing	439
+硬路肩	ying lu jian	621
+硬质岩石	ying zhi yan shi	159
+油烟净化	you yan jing hua	47
+油毡	you zhan	178
+雨水检查井	yu shui jian cha jing	440
+预算定额	yu suan ding e	403
+预压与超载预压	yu ya yu chao zai yu ya	362
+预应力钢束	yu ying li gang shu	191
+预应力钢束锚固区	yu ying li gang shu mao gu qu	192
+预应力管桩	yu ying li guan zhuang	436
+预制箱梁	yu zhi xiang liang	458
+圆管涵	yuan guan han	447
+圆曲线	yuan qu xian	598
+缘石	yuan shi	198
+月平均日交通量	yue ping jun ri jiao tong liang	681
+运材道路	yun cai dao lu	711
+运行速度	yun xing su du	689
+匝道	za dao	539
+杂物填塞	za wu tian sai	286
+照明标志	zhao ming biao zhi	271
+照明设施	zhao ming she shi	193
+遮光栅	zhe guang shan	505
+振捣	zhen dao	374
+真空热水炉	zhen kong re shui lu	78
+镇溧	zhen li	468
+镇溧高速公路	zhen li gao su gong lu	467
+振速	zhen su	154
+振型	zhen xing	214
+支承垫石	zhi cheng dian shi	180
+支管	zhi guan	59
+支路	zhi lu	726
+支线公路	zhi xian gong lu	744
+支座	zhi zuo	293
+支座垫石	zhi zuo dian shi	359
+中横隔板	zhong heng ge ban	133
+中间车道	zhong jian che dao	640
+中心岛	zhong xin dao	519
+中心桩号	zhong xin zhuang hao	264
+中硬岩石	zhong ying yan shi	158
+轴线偏位	zhou xian pian wei	381
+主干路	zhu gan lu	730
+主拱圈	zhu gong quan	189
+柱式墩	zhu shi dun	235
+转点	zhuan dian	405
+转轮	zhuan lun	65
+专项暂定金额	zhuan xiang zan ding jin e	445
+专用车道	zhuan yong che dao	627
+桩基	zhuang ji	400
+桩基础	zhuang ji chu	233
+桩位偏差	zhuang wei pian cha	389
+锥坡	zhui po	355
+锥坡护坡	zhui po hu po	281
+自行车道	zi xing che dao	705
+自由车速	zi you che su	684
+自由式道路系统	zi you shi dao lu xi tong	651
+自振频率	zi zhen pin lv	216
+自振特性测试	zi zhen te xing ce shi	217
+综合管道	zong he guan dao	488
+综合管廊	zong he guan lang	487
+纵面线形	zong mian xian xing	603
+纵坡	zong po	583
+纵坡折减	zong po zhe jian	577
+纵向裂缝	zong xiang lie feng	291
+阻车堤	zu che di	499
+阻尼系数	zu ni xi shu	215
+钻孔灌注桩	zuan kong guan zhu zhuang	332
+钻头	zuan tou	392
+最大粒径	zui da li jing	377
+最大纵坡	zui da zong po	582
+最小平曲线半径	zui xiao ping qu xian ban jing	600
+最小纵坡	zui xiao zong po	581

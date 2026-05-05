@@ -1,0 +1,320 @@
+# 词库名称: 试验检测
+# 词库分类: 其他
+# 词库描述: 包含试验常用术语
+# 词条样例: 额定电压、额定电流、热稳定、测量误差、对地电压
+# 解析词数: 313
+# 解析异常: 0
+
+半波	ban bo	300
+保护开关	bao hu kai guan	310
+包络线	bao luo xian	36
+背对背电容器组	bei dui bei dian rong qi zu	264
+标准规定	biao zhun gui ding	82
+并联电抗器	bing lian dian kang qi	80
+并联开断	bing lian kai duan	24
+波阻抗	bo zu kang	183
+不对称运行	bu dui chen yun xing	75
+不确定度	bu que ding du	301
+参考电压	can kao dian ya	39
+参考线	can kao xian	13
+操动	cao dong	163
+操动机构	cao dong ji gou	162
+操作顺序	cao zuo shun xu	19
+测量误差	ce liang wu cha	302
+测量系统	ce liang xi tong	303
+承受电压高压交流	cheng shou dian ya gao ya jiao liu	185
+持续时间	chi xu shi jian	216
+重合闸	chong he zha	125
+触头	chu tou	141
+触头分离	chu tou fen li	98
+触头间	chu tou jian	99
+触头运动	chu tou yun dong	97
+穿墙套管	chuan qiang tao guan	102
+磁吹	ci chui	122
+磁吹断路器	ci chui duan lu qi	121
+瓷瓶子	ci ping zi	106
+瓷柱	ci zhu	26
+瓷柱式断路器	ci zhu shi duan lu qi	25
+大半波	da ban bo	52
+单独作用时间	dan du zuo yong shi jian	258
+单个电容器组	dan ge dian rong qi zu	266
+单相短路	dan xiang duan lu	139
+单元试验	dan yuan shi yan	265
+等价性合成电流	deng jia xing he cheng dian liu	9
+等值电路	deng zhi dian lu	28
+第二参考电压	di er can kao dian ya	40
+第一峰值电压	di yi feng zhi dian ya	311
+电磁操动机构	dian ci cao dong ji gou	127
+电磁感应	dian ci gan ying	201
+电弧能量	dian hu neng liang	73
+点火球隙	dian huo qiu xi	8
+电击穿	dian ji chuan	68
+电击穿阶段	dian ji chuan jie duan	71
+电接触	dian jie chu	137
+电抗器	dian kang qi	105
+电流峰值	dian liu feng zhi	53
+电流过零	dian liu guo ling	62
+电流互感器	dian liu hu gan qi	309
+电流引入回路	dian liu yin ru hui lu	10
+电流源	dian liu yuan	205
+电容器组	dian rong qi zu	262
+电压峰值	dian ya feng zhi	54
+电压互感器	dian ya hu gan qi	308
+电压引入回路	dian ya yin ru hui lu	11
+电压源	dian ya yuan	204
+碟簧	die huang	159
+碟簧机构	die huang ji gou	158
+动热稳定	dong re wen ding	305
+动稳定	dong wen ding	307
+动作失灵	dong zuo shi ling	77
+短路持续时间	duan lu chi xu shi jian	304
+短路电抗	duan lu dian kang	32
+短路电流	duan lu dian liu	277
+短路故障	duan lu gu zhang	117
+断路器	duan lu qi	299
+断路器的部件	duan lu qi de bu jian	235
+短路容量	duan lu rong liang	30
+短路时间	duan lu shi jian	219
+短时耐受电流	duan shi nai shou dian liu	119
+端子间	duan zi jian	14
+对称电流	dui chen dian liu	208
+对称分量法	dui chen fen liang fa	76
+对地电压	dui di dian ya	295
+多断口	duo duan kou	5
+多个并联电容器组	duo ge bing lian dian rong qi zu	263
+多油	duo you	149
+多油断路器	duo you duan lu qi	151
+额定电流	e ding dian liu	312
+额定电压	e ding dian ya	313
+额定容量	e ding rong liang	29
+二次侧	er ci ce	187
+发电机断路器	fa dian ji duan lu qi	131
+发射盒	fa she he	293
+发展性故障	fa zhan xing gu zhang	18
+反相	fan xiang	113
+非保持破坏性放电	fei bao chi po huai xing fang dian	251
+非自恢复绝缘	fei zi hui fu jue yuan	259
+分压器	fen ya qi	153
+分闸	fen zha	223
+分闸开关	fen zha kai guan	222
+分闸时间	fen zha shi jian	220
+分闸速度	fen zha su du	157
+分闸位置	fen zha wei zhi	94
+分闸线圈	fen zha xian quan	164
+分闸指令	fen zha zhi ling	90
+峰值耐受电流	feng zhi nai shou dian liu	118
+复燃	fu ran	255
+辅助回路	fu zhu hui lu	233
+高电位	gao dian wei	126
+高频电流	gao pin dian liu	211
+高压电抗器	gao ya dian kang qi	104
+高压电器产品	gao ya dian qi chan pin	2
+高压电容器	gao ya dian rong qi	103
+高压断路器	gao ya duan lu qi	152
+高压交流隔离开关和接地开关	gao ya jiao liu ge li kai guan he jie di kai guan	173
+高压开关	gao ya kai guan	298
+高压套管	gao ya tao guan	107
+隔离断口	ge li duan kou	294
+隔离开关	ge li kai guan	297
+根据公式	gen ju gong shi	182
+功率因数	gong lv yin shu	286
+工频恢复电压	gong pin hui fu dian ya	67
+工频耐压	gong pin nai ya	111
+工频耐压试验	gong pin nai ya shi yan	112
+固定接地系统	gu ding jie di xi tong	272
+固有振荡频率	gu you zhen dang pin lv	31
+关合	guan he	210
+关合电流	guan he dian liu	209
+关合电容器组	guan he dian rong qi zu	21
+关合涌流	guan he yong liu	79
+罐式断路器	guan shi duan lu qi	27
+光电转换	guang dian zhuan huan	155
+过电压	guo dian ya	261
+国家标准	guo jia biao zhun	195
+过零	guo ling	61
+合成试验	he cheng shi yan	203
+合闸	he zha	224
+合闸开关	he zha kai guan	253
+合闸时间	he zha shi jian	221
+合闸速度	he zha su du	156
+合闸位置	he zha wei zhi	93
+合闸线圈	he zha xian quan	165
+合闸相位	he zha xiang wei	213
+合闸指令	he zha zhi ling	89
+后开极	hou kai ji	48
+后开相	hou kai xiang	47
+互感器相移	hu gan qi xiang yi	254
+弧后	hu hou	257
+弧后电流	hu hou dian liu	256
+户内	hu nei	279
+户外	hu wai	278
+弧隙	hu xi	56
+弧隙电阻	hu xi dian zu	55
+恢复电压	hui fu dian ya	212
+回路电阻	hui lu dian zu	135
+击穿	ji chuan	142
+继电保护	ji dian bao hu	87
+技术要求	ji shu yao qiu	166
+机械开关装置	ji xie kai guan zhuang zhi	246
+架空线	jia kong xian	190
+交流使用电压	jiao liu shi yong dian ya	168
+接触电阻	jie chu dian zu	136
+接地故障系数	jie di gu zhang xi shu	275
+接地开关	jie di kai guan	296
+截断电流	jie duan dian liu	22
+接收盒	jie shou he	292
+介质强度	jie zhi qiang du	72
+近区故障	jin qu gu zhang	287
+金属短接	jin shu duan jie	84
+金属短接时间	jin shu duan jie shi jian	83
+金属封闭开关设备	jin shu feng bi kai guan she bei	134
+静电感应	jing dian gan ying	200
+绝缘强度	jue yuan qiang du	291
+绝缘筒	jue yuan tong	167
+开断	kai duan	66
+开断电流	kai duan dian liu	15
+开断过程	kai duan guo cheng	6
+开断性能	kai duan xing neng	65
+开关电弧	kai guan dian hu	74
+开关设备和控制设备	kai guan she bei he kong zhi she bei	280
+开关装置	kai guan zhuang zhi	247
+开合电磁感应电流试验	kai he dian ci gan ying dian liu shi yan	198
+开合静电感应电流试验	kai he jing dian gan ying dian liu shi yan	199
+开距	kai ju	3
+空气断路器	kong qi duan lu qi	243
+空载变压器	kong zai bian ya qi	145
+控制断路器	kong zhi duan lu qi	128
+控制回路	kong zhi hui lu	234
+控制屏	kong zhi ping	226
+控制桌	kong zhi zhuo	225
+雷电冲击	lei dian chong ji	110
+雷电冲击试验	lei dian chong ji shi yan	109
+理想断路器	li xiang duan lu qi	57
+链路	lian lu	35
+链路电感	lian lu dian gan	33
+链路电容	lian lu dian rong	34
+两参数	liang can shu	43
+两参数法	liang can shu fa	41
+临界电流	lin jie dian liu	20
+六氟化硫断路器	liu fu hua liu duan lu qi	239
+落地罐式断路器	luo di guan shi duan lu qi	245
+脉冲电容器	mai chong dian rong qi	172
+灭弧	mie hu	148
+灭弧室	mie hu shi	147
+灭弧原理	mie hu yuan li	120
+母线室	mu xian shi	174
+母线转换电流	mu xian zhuan huan dian liu	197
+内绝缘	nei jue yuan	285
+配电断路器	pei dian duan lu qi	129
+屏蔽罩	ping bi zhao	4
+破坏性放电	po huai xing fang dian	252
+气吹断路器	qi chui duan lu qi	240
+起始瞬态恢复电压	qi shi shun tai hui fu dian ya	16
+气体绝缘	qi ti jue yuan	133
+强送电	qiang song dian	81
+球隙	qiu xi	227
+燃弧	ran hu	231
+燃弧时间	ran hu shi jian	229
+热击穿	re ji chuan	70
+热击穿阶段	re ji chuan jie duan	69
+热稳定	re wen ding	306
+三相电容器组	san xiang dian rong qi zu	146
+三相短路	san xiang duan lu	138
+上升率	shang sheng lv	194
+少油断路器	shao you duan lu qi	150
+失步	shi bu	289
+失步故障	shi bu gu zhang	123
+失步条件	shi bu tiao jian	288
+时间常数	shi jian chang shu	17
+失控	shi kong	228
+试品	shi pin	189
+时延	shi yan	38
+试验电压	shi yan dian ya	191
+试验方案	shi yan fang an	184
+试验方式	shi yan fang shi	215
+试验检测中心	shi yan jian ce zhong xin	214
+时延线	shi yan xian	37
+试验线路	shi yan xian lu	196
+试验原理	shi yan yuan li	181
+试验站	shi yan zhan	12
+首开极	shou kai ji	50
+首开极系数	shou kai ji xi shu	46
+首开相	shou kai xiang	49
+输电断路器	shu dian duan lu qi	130
+数据采集与处理系统	shu ju cai ji yu chu li xi tong	154
+输送容量	shu song rong liang	88
+水电阻	shui dian zu	108
+瞬态恢复电压	shun tai hui fu dian ya	140
+四参数	si can shu	44
+四参数法	si can shu fa	42
+损耗角	sun hao jiao	171
+弹簧机构	tan huang ji gou	161
+调频电感	tiao pin dian gan	177
+调频电容	tiao pin dian rong	179
+调频电阻	tiao pin dian zu	178
+同芯电缆	tong xin dian lan	290
+通用术语	tong yong shu yu	281
+外绝缘	wai jue yuan	284
+外壳带电的断路器	wai ke dai dian de duan lu qi	244
+网络电源	wang luo dian yuan	175
+网络直接试验	wang luo zhi jie shi yan	192
+稳态值	wen tai zhi	63
+无电流	wu dian liu	86
+无电流时间	wu dian liu shi jian	85
+熄弧	xi hu	218
+熄弧半波	xi hu ban bo	217
+系统的过电压	xi tong de guo dian ya	260
+系统阻抗	xi tong zu kang	101
+现场绝缘试验	xian chang jue yuan shi yan	132
+线电压	xian dian ya	186
+限流电抗器	xian liu dian kang qi	176
+线路阻抗	xian lu zu kang	100
+相电压	xiang dian ya	45
+相移	xiang yi	206
+小半波	xiao ban bo	51
+小感性	xiao gan xing	78
+消弧	xiao hu	270
+消弧线圈	xiao hu xian quan	269
+消弧线圈接地系统	xiao hu xian quan jie di xi tong	268
+压缩空气断路器	ya suo kong qi duan lu qi	238
+延弧	yan hu	230
+液压机构	ye ya ji gou	160
+一次侧	yi ci ce	188
+异相	yi xiang	116
+异相接地	yi xiang jie di	115
+异相接地故障试验	yi xiang jie di gu zhang shi yan	114
+油断路器	you duan lu qi	242
+预伏	yu fu	92
+预伏故障	yu fu gu zhang	91
+预击穿	yu ji chuan	96
+预击穿时间	yu ji chuan shi jian	95
+原理图	yuan li tu	180
+杂散	za san	60
+杂散电感	za san dian gan	59
+杂散电容	za san dian rong	58
+振荡过程	zhen dang guo cheng	64
+振荡回路	zhen dang hui lu	23
+振幅系数	zhen fu xi shu	193
+真空电弧	zhen kong dian hu	144
+真空断路器	zhen kong duan lu qi	241
+真空间隙	zhen kong jian xi	143
+正切值	zheng qie zhi	170
+整体试验	zheng ti shi yan	7
+直接试验	zhi jie shi yan	202
+质量检测中心	zhi liang jian ce zhong xin	1
+直流分量	zhi liu fen liang	207
+直流使用电压	zhi liu shi yong dian ya	169
+重击穿	zhong ji chuan	250
+重击穿性能	zhong ji chuan xing neng	249
+中性点固定接地系统	zhong xing dian gu ding jie di xi tong	274
+中性点绝缘系统	zhong xing dian jue yuan xi tong	276
+中性点阻抗接地系统	zhong xing dian zu kang jie di xi tong	271
+周围空气温度	zhou wei kong qi wen du	267
+主回路	zhu hui lu	232
+装置的零件	zhuang zhi de ling jian	248
+自动重合闸	zi dong chong he zha	124
+自恢复	zi hui fu	283
+自恢复绝缘	zi hui fu jue yuan	282
+自脱扣	zi tuo kou	237
+自脱扣断路器	zi tuo kou duan lu qi	236
+阻抗接地系统	zu kang jie di xi tong	273

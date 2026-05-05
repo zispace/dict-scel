@@ -1,0 +1,686 @@
+# 词库名称: 税务机关词库
+# 词库分类: 财务会计
+# 词库描述: 税务机关词库。 提供给税务工作者使用，是税务机关词库，不是税收词库。 希望其他人能更新以下的名词：税收政策名词、CTAIS模块内容名词，防伪税控系统名词，其他税收软件所用到的名词、票证相关名词，税务机关常用公文名词、税收法规名词等等。 纳税人名称就不用了
+# 词条样例: 办税服务厅、百元、办公室、案件审理股、报查、百元版
+# 解析词数: 679
+# 解析异常: 0
+
+案件审理股	an jian shen li gu	677
+案件执行股	an jian zhi xing gu	676
+百万位	bai wan wei	675
+百万元	bai wan yuan	674
+百万元版	bai wan yuan ban	673
+百位	bai wei	672
+百元	bai yuan	671
+百元版	bai yuan ban	670
+办公室	ban gong shi	669
+办税	ban shui	668
+办税常识	ban shui chang shi	667
+办税大厅	ban shui da ting	666
+办税服务厅	ban shui fu wu ting	665
+办税公开	ban shui gong kai	664
+办税厅	ban shui ting	663
+办税员	ban shui yuan	662
+报查	bao cha	661
+报查联	bao cha lian	660
+本数	ben shu	659
+比对	bi dui	658
+避税	bi shui	657
+变更登记	bian geng deng ji	656
+补录	bu lu	655
+补录类	bu lu lei	654
+不予受理	bu yu shou li	653
+不予行政处罚	bu yu xing zheng chu fa	652
+财务负责人	cai wu fu ze ren	651
+财务管理科	cai wu guan li ke	650
+财务专用章	cai wu zhuan yong zhang	649
+操作规程	cao zuo gui cheng	648
+操作实务	cao zuo shi wu	647
+操作员	cao zuo yuan	646
+查封扣押	cha feng kou ya	645
+查询模式	cha xun mo shi	644
+拆本	chai ben	643
+超限量	chao xian liang	642
+车购办	che gou ban	641
+撤销入库	che xiao ru ku	640
+撤销销号	che xiao xiao hao	639
+陈述申辩	chen shu shen bian	638
+城区局	cheng qu ju	637
+承租人电话	cheng zu ren dian hua	10
+承租人身份证号	cheng zu ren shen fen zheng hao	11
+承租人姓名	cheng zu ren xing ming	12
+重复扣税	chong fu kou shui	49
+重新税务登记	chong xin shui wu deng ji	48
+出口退税	chu kou tui shui	636
+出租人工作单位	chu zu ren gong zuo dan wei	7
+出租人联系方式	chu zu ren lian xi fang shi	6
+出租人身份证号	chu zu ren shen fen zheng hao	8
+出租人姓名	chu zu ren xing ming	9
+催缴税款	cui jiao shui kuan	635
+存根联	cun gen lian	634
+达起征点	da qi zheng dian	633
+贷方传票	dai fang chuan piao	625
+代开	dai kai	632
+代开发票	dai kai fa piao	631
+代开柜台	dai kai gui tai	630
+代理人	dai li ren	629
+代码证	dai ma zheng	628
+待批文书	dai pi wen shu	624
+代征处	dai zheng chu	627
+代征员	dai zheng yuan	626
+单位税额	dan wei shui e	623
+党办	dang ban	622
+登记率	deng ji lv	621
+登记受理	deng ji shou li	620
+第二联	di er lian	616
+地方税收	di fang shui shou	619
+地方税务局	di fang shui wu ju	618
+第六联	di liu lian	615
+第三联	di san lian	614
+地税局	di shui ju	617
+第四联	di si lian	613
+第五联	di wu lian	612
+第一联	di yi lian	611
+电话申报	dian hua shen bao	610
+电脑票	dian nao piao	609
+调拨	diao bo	608
+调研员	diao yan yuan	607
+定期定额	ding qi ding e	606
+定税	ding shui	605
+定税公告	ding shui gong gao	604
+定税清册	ding shui qing ce	603
+督查组	du cha zu	602
+二份	er fen	601
+二联	er lian	600
+法定代表人	fa ding dai biao ren	571
+罚款率	fa kuan lv	572
+发票	fa piao	599
+发票保证金	fa piao bao zheng jin	598
+发票出库	fa piao chu ku	597
+发票代开	fa piao dai kai	596
+发票代码	fa piao dai ma	595
+发票担保人	fa piao dan bao ren	594
+发票发售部	fa piao fa shou bu	593
+发票工本费	fa piao gong ben fei	592
+发票管理办法	fa piao guan li ban fa	591
+发票管理制度	fa piao guan li zhi du	590
+发票号码	fa piao hao ma	589
+发票核销	fa piao he xiao	588
+发票缴销	fa piao jiao xiao	587
+发票库存	fa piao ku cun	586
+发票库房	fa piao ku fang	585
+发票领购	fa piao ling gou	584
+发票领购本	fa piao ling gou ben	583
+发票领购簿	fa piao ling gou bu	582
+发票领购资格	fa piao ling gou zi ge	581
+发票名称	fa piao ming cheng	580
+发票入库	fa piao ru ku	579
+发票预收款	fa piao yu shou kuan	578
+发票预收税款	fa piao yu shou shui kuan	577
+发票种类	fa piao zhong lei	576
+发票专用章	fa piao zhuan yong zhang	575
+发票状态	fa piao zhuang tai	574
+法人	fa ren	570
+法人代表	fa ren dai biao	569
+发售柜台	fa shou gui tai	573
+反馈单	fan kui dan	568
+防洪保安费	fang hong bao an fei	567
+防洪费	fang hong fei	566
+防伪税控	fang wei shui kong	565
+防伪税控系统	fang wei shui kong xi tong	564
+非辅导期	fei fu dao qi	563
+废旧物资发票	fei jiu wu zi fa piao	561
+废票	fei piao	560
+非正常户	fei zheng chang hu	562
+分户明细账	fen hu ming xi zhang	559
+分局长	fen ju zhang	558
+分类明细账	fen lei ming xi zhang	557
+份数	fen shu	556
+辅导期	fu dao qi	555
+副调研员	fu diao yan yuan	554
+副分局长	fu fen ju zhang	553
+副股长	fu gu zhang	552
+副局长	fu ju zhang	551
+副局长室	fu ju zhang shi	550
+副科长	fu ke zhang	549
+付款凭证	fu kuan ping zheng	544
+复业登记	fu ye deng ji	547
+复业管理	fu ye guan li	546
+复业信息	fu ye xin xi	545
+负责人	fu ze ren	543
+副主任	fu zhu ren	548
+告知处理	gao zhi chu li	542
+告知书	gao zhi shu	541
+个人所得税	ge ren suo de shui	540
+个体工商户	ge ti gong shang hu	539
+个体工商户建账管理暂行办法	ge ti gong shang hu jian zhang guan li zan xing ban fa	3
+个体管理组	ge ti guan li zu	538
+个体户	ge ti hu	537
+个体双定	ge ti shuang ding	536
+个体双定户	ge ti shuang ding hu	535
+更正类	geng zheng lei	534
+工本费	gong ben fei	533
+工会主席	gong hui zhu xi	532
+公文处理	gong wen chu li	530
+工业加工	gong ye jia gong	531
+购票	gou piao	529
+购票日期	gou piao ri qi	528
+购票员	gou piao yuan	527
+股长	gu zhang	526
+管理股	guan li gu	525
+管理组	guan li zu	524
+柜台出库	gui tai chu ku	523
+柜台结存	gui tai jie cun	522
+柜台入库	gui tai ru ku	521
+国际科	guo ji ke	520
+国际税收	guo ji shui shou	519
+国际税收科	guo ji shui shou ke	518
+国际税务管理科	guo ji shui wu guan li ke	517
+国家税收	guo jia shui shou	516
+国家税务局	guo jia shui wu ju	515
+国家税务总局	guo jia shui wu zong ju	514
+国税局	guo shui ju	513
+合理库存	he li ku cun	512
+后勤组	hou qin zu	511
+华侨区局	hua qiao qu ju	510
+换验证	huan yan zheng	509
+换验证登记	huan yan zheng deng ji	508
+恢复税务登记	hui fu shui wu deng ji	507
+汇总申报	hui zong shen bao	505
+货物销售	huo wu xiao shou	504
+货物销售发票	huo wu xiao shou fa piao	503
+货运税控	huo yun shui kong	502
+季报表	ji bao biao	489
+基层税务机关	ji ceng shui wu ji guan	501
+稽查分局	ji cha fen ju	495
+稽查局	ji cha ju	494
+稽查证	ji cha zheng	493
+机动车电脑票	ji dong che dian nao piao	499
+机动车发票	ji dong che fa piao	498
+机关党办	ji guan dang ban	497
+机关服务中心	ji guan fu wu zhong xin	496
+稽核	ji he	492
+稽核比对	ji he bi dui	491
+稽核数据	ji he shu ju	490
+计划征收股	ji hua zheng shou gu	488
+计划征收科	ji hua zheng shou ke	487
+计会征收股	ji hui zheng shou gu	486
+纪检	ji jian	479
+纪检室	ji jian shi	478
+基建组	ji jian zu	500
+计算机发票	ji suan ji fa piao	485
+计统内勤部	ji tong nei qin bu	484
+记帐员	ji zhang yuan	481
+记账员	ji zhang yuan	480
+计征股	ji zheng gu	483
+计征科	ji zheng ke	482
+加收滞纳金	jia shou zhi na jin	477
+价税	jia shui	476
+价税合计	jia shui he ji	475
+检查二股	jian cha er gu	472
+检查股	jian cha gu	471
+检查三股	jian cha san gu	470
+监察室	jian cha shi	474
+检查一股	jian cha yi gu	469
+检查证	jian cha zheng	468
+检查组	jian cha zu	467
+剪角	jian jiao	465
+剪角作废	jian jiao zuo fei	464
+监控查询	jian kong cha xun	473
+减免	jian mian	463
+减免税	jian mian shui	462
+减免增值税	jian mian zeng zhi shui	461
+简易征收	jian yi zheng shou	466
+交叉稽核	jiao cha ji he	460
+交费凭证	jiao fei ping zheng	459
+交旧	jiao jiu	458
+交旧验旧	jiao jiu yan jiu	457
+缴款单	jiao kuan dan	455
+缴款单位	jiao kuan dan wei	454
+缴款书	jiao kuan shu	453
+交税	jiao shui	456
+结案率	jie an lv	452
+解除税收保全	jie chu shui shou bao quan	451
+解除税务处理	jie chu shui wu chu li	450
+借方传票	jie fang chuan piao	449
+进出口管理科	jin chu kou guan li ke	444
+进出口科	jin chu kou ke	443
+进出口税收管理科	jin chu kou shui shou guan li ke	442
+金额	jin e	448
+金额版	jin e ban	447
+进货销货登记簿	jin huo xiao huo deng ji bu	441
+金税工程	jin shui gong cheng	446
+金税数据	jin shui shu ju	445
+进项税额	jin xiang shui e	679
+经手人	jing shou ren	440
+经营地发票	jing ying di fa piao	439
+经营地址	jing ying di zhi	438
+经营范围	jing ying fan wei	437
+经营户名称	jing ying hu ming cheng	13
+开发区局	kai fa qu ju	436
+开票日期	kai piao ri qi	435
+开票时间	kai piao shi jian	434
+开业登记	kai ye deng ji	433
+抗税	kang shui	432
+科长	ke zhang	431
+空白发票	kong bai fa piao	430
+空白作废	kong bai zuo fei	429
+扣缴税款	kou jiao shui kuan	428
+扣税	kou shui	427
+库存	ku cun	426
+库存查询	ku cun cha xun	425
+库房出库	ku fang chu ku	424
+库房结存	ku fang jie cun	423
+库房入库	ku fang ru ku	422
+会计分录	kuai ji fen lu	506
+黎塘分局	li tang fen ju	421
+联次	lian ci	420
+两费收取	liang fei shou qu	419
+临时纳税人	lin shi na shui ren	418
+临时纳税人登记	lin shi na shui ren deng ji	417
+领购	ling gou	415
+领购簿	ling gou bu	414
+领购资格	ling gou zi ge	413
+领票	ling piao	412
+领票户	ling piao hu	411
+领取通知书	ling qu tong zhi shu	410
+零散税收	ling san shui shou	416
+六份	liu fen	407
+六联	liu lian	406
+六率	liu lv	405
+流向查询	liu xiang cha xun	409
+流转税科	liu zhuan shui ke	408
+每本	mei ben	404
+每本份数	mei ben fen shu	403
+每份	mei fen	402
+面积	mian ji	4
+免征	mian zheng	401
+免征增值税	mian zheng zeng zhi shui	400
+纳税	na shui	399
+纳税担保	na shui dan bao	398
+纳税担保书	na shui dan bao shu	397
+纳税评估	na shui ping gu	396
+纳税期	na shui qi	395
+纳税人	na shui ren	394
+纳税人编码	na shui ren bian ma	393
+纳税人名称	na shui ren ming cheng	392
+纳税人识别号	na shui ren shi bie hao	391
+纳税人状态	na shui ren zhuang tai	390
+年报表	nian bao biao	389
+盘存	pan cun	388
+骗税	pian shui	387
+票管中心	piao guan zhong xin	386
+票证汇总	piao zheng hui zong	385
+票种	piao zhong	384
+票种登记	piao zhong deng ji	383
+票种核定	piao zhong he ding	381
+票种调整	piao zhong tiao zheng	382
+品目	pin mu	380
+品目名称	pin mu ming cheng	379
+评估	ping gu	378
+普票	pu piao	377
+普通发票	pu tong fa piao	376
+期初库存	qi chu ku cun	375
+起号	qi hao	372
+期末库存	qi mo ku cun	374
+起始号码	qi shi hao ma	371
+其他行业	qi ta hang ye	373
+企业编码	qi ye bian ma	369
+企业股	qi ye gu	368
+企业管理组	qi ye guan li zu	367
+企业会计	qi ye kuai ji	366
+企业所得税	qi ye suo de shui	365
+企业所得税法	qi ye suo de shui fa	364
+企业衔头发票	qi ye xian tou fa piao	363
+起征点	qi zheng dian	370
+千万位	qian wan wei	362
+千万元	qian wan yuan	361
+千万元版	qian wan yuan ban	360
+千位	qian wei	359
+千元	qian yuan	358
+千元版	qian yuan ban	357
+清册	qing ce	356
+清理税款开票	qing li shui kuan kai piao	355
+区国税局	qu guo shui ju	354
+区局	qu ju	353
+认定	ren ding	349
+认定到期	ren ding dao qi	348
+人教股	ren jiao gu	352
+人事教育股	ren shi jiao yu gu	351
+人事教育科	ren shi jiao yu ke	350
+日报表	ri bao biao	347
+入库	ru ku	346
+入库查询	ru ku cha xun	345
+入库率	ru ku lv	344
+三份	san fen	343
+三联	san lian	342
+上解查询	shang jie cha xun	340
+上解入库	shang jie ru ku	339
+上解销号	shang jie xiao hao	338
+商业零售	shang ye ling shou	341
+设备网络组	she bei wang luo zu	336
+涉税案件	she shui an jian	337
+申报率	shen bao lv	335
+申报期	shen bao qi	334
+申报征收	shen bao zheng shou	333
+申报征收部	shen bao zheng shou bu	332
+审核	shen he	327
+审核权限	shen he quan xian	326
+审核意见	shen he yi jian	325
+审理股	shen li gu	324
+审理组	shen li zu	323
+审批机关	shen pi ji guan	322
+审批权限	shen pi quan xian	321
+审批人	shen pi ren	320
+申请代开	shen qing dai kai	331
+申请人	shen qing ren	330
+申请事项	shen qing shi xiang	329
+申请项目	shen qing xiang mu	328
+省国家税务局	sheng guo jia shui wu ju	26
+省国税局	sheng guo shui ju	27
+省局	sheng ju	28
+识别号	shi bie hao	310
+实缴金额	shi jiao jin e	312
+实施细则	shi shi xi ze	311
+十万位	shi wan wei	318
+十万元	shi wan yuan	317
+十万元版	shi wan yuan ban	316
+十位	shi wei	315
+使用税率	shi yong shui lv	309
+十元	shi yuan	314
+十元版	shi yuan ban	313
+失踪纳税人	shi zong na shui ren	319
+收发存	shou fa cun	308
+收发存总账	shou fa cun zong zhang	307
+收费缴款书	shou fei jiao kuan shu	306
+收费收据	shou fei shou ju	305
+售付汇证明	shou fu hui zheng ming	295
+手工票	shou gong piao	298
+手工申报	shou gong shen bao	297
+收购发票	shou gou fa piao	304
+收缴发票	shou jiao fa piao	303
+收据联	shou ju lian	302
+收款凭证	shou kuan ping zheng	301
+受理人	shou li ren	293
+受理审核	shou li shen he	292
+售票员	shou piao yuan	294
+收入附征	shou ru fu zheng	300
+手写发票	shou xie fa piao	296
+收支凭证	shou zhi ping zheng	299
+数据比对	shu ju bi dui	291
+数据查询	shu ju cha xun	290
+数据管理组	shu ju guan li zu	289
+数据维护	shu ju wei hu	288
+数据质量监控	shu ju zhi liang jian kong	287
+双重征税	shuang chong zheng shui	284
+双定	shuang ding	286
+双定户	shuang ding hu	285
+税二股	shui er gu	283
+税法	shui fa	282
+税号	shui hao	281
+税号速查	shui hao su cha	280
+税控装置	shui kong zhuang zhi	279
+税款补录	shui kuan bu lu	278
+税款入库	shui kuan ru ku	277
+税目	shui mu	276
+税票	shui piao	275
+税票重打	shui piao chong da	273
+税票销号	shui piao xiao hao	274
+税前扣除	shui qian kou chu	272
+税前列支	shui qian lie zhi	271
+税前弥补亏损	shui qian mi bu kui sun	270
+税收保全	shui shou bao quan	269
+税收筹划	shui shou chou hua	268
+税收法规	shui shou fa gui	266
+税收基本法规	shui shou ji ben fa gui	263
+税收计划	shui shou ji hua	262
+税收减免	shui shou jian mian	261
+税收缴款书	shui shou jiao kuan shu	260
+税收会计	shui shou kuai ji	265
+税收会计凭证	shui shou kuai ji ping zheng	264
+税收强制执行	shui shou qiang zhi zhi xing	259
+税收认定	shui shou ren ding	258
+税收调整	shui shou tiao zheng	267
+税收统计	shui shou tong ji	255
+税收通用缴款书	shui shou tong yong jiao kuan shu	257
+税收通用完税证	shui shou tong yong wan shui zheng	256
+税收完税证	shui shou wan shui zheng	254
+税收系统	shui shou xi tong	253
+税收协定	shui shou xie ding	252
+税收优惠政策	shui shou you hui zheng ce	251
+税收优惠指南	shui shou you hui zhi nan	250
+税收预测	shui shou yu ce	249
+税收征管	shui shou zheng guan	248
+税收征管信息系统	shui shou zheng guan xin xi xi tong	247
+税收证件	shui shou zheng jian	246
+税收证明	shui shou zheng ming	245
+税收制度	shui shou zhi du	244
+税务处理	shui wu chu li	243
+税务登记	shui wu deng ji	242
+税务登记部	shui wu deng ji bu	241
+税务登记证	shui wu deng ji zheng	240
+税务分局	shui wu fen ju	239
+税务公告	shui wu gong gao	238
+税务稽查证	shui wu ji cha zheng	236
+税务机关	shui wu ji guan	237
+税务检查证	shui wu jian cha zheng	235
+税务认定	shui wu ren ding	234
+税务申请	shui wu shen qing	233
+税务事项通知书	shui wu shi xiang tong zhi shu	2
+税务所	shui wu suo	232
+税务行政处罚	shui wu xing zheng chu fa	231
+税务行政性收费	shui wu xing zheng xing shou fei	230
+税务行政许可	shui wu xing zheng xu ke	229
+税一股	shui yi gu	228
+税源二股	shui yuan er gu	227
+税源二组	shui yuan er zu	226
+税源管理	shui yuan guan li	225
+税源管理二股	shui yuan guan li er gu	224
+税源管理股	shui yuan guan li gu	223
+税源管理三股	shui yuan guan li san gu	222
+税源管理一股	shui yuan guan li yi gu	221
+税源三股	shui yuan san gu	220
+税源一股	shui yuan yi gu	219
+税源一组	shui yuan yi zu	218
+税证号码	shui zheng hao ma	217
+税制	shui zhi	216
+税种	shui zhong	215
+税种补录	shui zhong bu lu	214
+税种登记	shui zhong deng ji	213
+税种核定	shui zhong he ding	212
+四份	si fen	210
+司机组	si ji zu	211
+四联	si lian	209
+四小票	si xiao piao	208
+送达回证	song da hui zheng	207
+所得税科	suo de shui ke	206
+所得税前扣除	suo de shui qian kou chu	205
+逃税	tao shui	204
+特殊纳税人	te shu na shui ren	203
+填开金额	tian kai jin e	202
+填开税额	tian kai shui e	201
+填用	tian yong	200
+填用作废	tian yong zuo fei	199
+停复业登记	ting fu ye deng ji	198
+停业处理	ting ye chu li	197
+停业申请	ting ye shen qing	196
+停业通知书	ting ye tong zhi shu	195
+停业信息	ting ye xin xi	194
+统一发票	tong yi fa piao	192
+通用查询	tong yong cha xun	193
+偷税	tou shui	191
+团委副书记	tuan wei fu shu ji	190
+退票	tui piao	189
+退税	tui shui	188
+退税审批	tui shui shen pi	186
+退税申请	tui shui shen qing	187
+外出经营	wai chu jing ying	185
+外国居民	wai guo ju min	184
+外汇核销单	wai hui he xiao dan	183
+完税凭证	wan shui ping zheng	182
+完税证	wan shui zheng	181
+万位	wan wei	180
+万元	wan yuan	179
+万元版	wan yuan ban	178
+往来收据	wang lai shou ju	176
+网上申报	wang shang shen bao	177
+违法违章处理	wei fa wei zhang chu li	175
+违法违章户	wei fa wei zhang hu	174
+委托代征	wei tuo dai zheng	173
+文秘组	wen mi zu	172
+文书传递	wen shu chuan di	171
+文书打印	wen shu da yin	170
+文书登记	wen shu deng ji	169
+文书登记岗	wen shu deng ji gang	168
+文书回退	wen shu hui tui	167
+文书流转	wen shu liu zhuan	166
+文书审批	wen shu shen pi	165
+文书受理	wen shu shou li	164
+文书受理岗	wen shu shou li gang	163
+文书送达回证	wen shu song da hui zheng	162
+文书通知书	wen shu tong zhi shu	161
+文书销号	wen shu xiao hao	160
+文书作废	wen shu zuo fei	159
+文印室	wen yin shi	158
+文字版	wen zi ban	157
+五份	wu fen	154
+五联	wu lian	153
+无证户	wu zheng hu	156
+无证户登记	wu zheng hu deng ji	155
+系统整合	xi tong zheng he	152
+限缴	xian jiao	149
+限缴税款	xian jiao shui kuan	148
+现金票证汇总	xian jin piao zheng hui zong	151
+县局	xian ju	150
+限时办结	xian shi ban jie	147
+消费税	xiao fei shui	143
+消费税纳税人	xiao fei shui na shui ren	142
+销号	xiao hao	146
+销售发票	xiao shou fa piao	145
+销售收入	xiao shou shou ru	144
+销项税额	xiao xiang shui e	678
+协查	xie cha	141
+信息补录	xin xi bu lu	140
+信息中心	xin xi zhong xin	139
+信息组	xin xi zu	138
+行政效能	xing zheng xiao neng	137
+行政许可	xing zheng xu ke	136
+行政组	xing zheng zu	135
+修理发票	xiu li fa piao	134
+修理行业	xiu li hang ye	133
+修理行业发票	xiu li hang ye fa piao	132
+选案股	xuan an gu	130
+选案组	xuan an zu	129
+宣传组	xuan chuan zu	131
+验旧	yan jiu	126
+验旧供新	yan jiu gong xin	125
+验旧换新	yan jiu huan xin	124
+验旧结果	yan jiu jie guo	123
+验旧日期	yan jiu ri qi	122
+验旧信息维护	yan jiu xin xi wei hu	121
+延期纳税	yan qi na shui	128
+延期申报	yan qi shen bao	127
+验审	yan shen	120
+验审员	yan shen yuan	119
+业务组	ye wu zu	118
+业主	ye zhu	117
+一次性告知书	yi ci xing gao zhi shu	116
+依法治税	yi fa zhi shui	107
+一联	yi lian	115
+以票控税	yi piao kong shui	106
+一式	yi shi	114
+一式二份	yi shi er fen	113
+一式两份	yi shi liang fen	112
+一式六份	yi shi liu fen	111
+一式三份	yi shi san fen	110
+一式四份	yi shi si fen	109
+一式五份	yi shi wu fen	108
+以税控票	yi shui kong piao	105
+亿元	yi yuan	104
+亿元版	yi yuan ban	103
+银行扣款	yin hang kou kuan	102
+印花税	yin hua shui	101
+印花税票	yin hua shui piao	100
+印章印模	yin zhang yin mo	99
+印制	yin zhi	98
+营改增	ying gai zeng	1
+应纳税额	ying na shui e	97
+应用系统管理组	ying yong xi tong guan li zu	96
+优化流程	you hua liu cheng	95
+邮寄申报	you ji shen bao	94
+预缴税款	yu jiao shui kuan	92
+逾期未缴销	yu qi wei jiao xiao	93
+预收款	yu shou kuan	91
+预算级次	yu suan ji ci	90
+预算科目	yu suan ke mu	89
+月报表	yue bao biao	88
+再就业优惠	zai jiu ye you hui	87
+再就业优惠政策	zai jiu ye you hui zheng ce	86
+责令限改	ze ling xian gai	85
+增值税发票	zeng zhi shui fa piao	84
+增值税纳税人	zeng zhi shui na shui ren	83
+增值税普通发票	zeng zhi shui pu tong fa piao	82
+增值税暂行条例	zeng zhi shui zan xing tiao li	81
+增值税专用发票	zeng zhi shui zhuan yong fa piao	80
+粘贴簿	zhan tie bu	79
+政策法规科	zheng ce fa gui ke	63
+正常填开	zheng chang tian kai	64
+征管处	zheng guan chu	78
+征管股	zheng guan gu	77
+征管科	zheng guan ke	76
+征管软件	zheng guan ruan jian	14
+征管水平	zheng guan shui ping	75
+征管系统	zheng guan xi tong	74
+征管效率	zheng guan xiao lv	73
+征管信息	zheng guan xin xi	72
+证件重打	zheng jian chong da	59
+证件发放	zheng jian fa fang	62
+证件号码	zheng jian hao ma	61
+证件缴销	zheng jian jiao xiao	60
+征收方式	zheng shou fang shi	71
+征收股	zheng shou gu	70
+征收管理	zheng shou guan li	69
+征收管理股	zheng shou guan li gu	68
+征收环节	zheng shou huan jie	67
+征收监控	zheng shou jian kong	66
+征收效率	zheng shou xiao lv	65
+支付凭证	zhi fu ping zheng	58
+止号	zhi hao	53
+滞纳金	zhi na jin	52
+滞纳金加收率	zhi na jin jia shou lv	51
+执行查询	zhi xing cha xun	57
+执行股	zhi xing gu	56
+执行文书	zhi xing wen shu	55
+执行组	zhi xing zu	54
+终止号码	zhong zhi hao ma	50
+注册地址	zhu ce di zhi	47
+注销登记	zhu xiao deng ji	46
+注销户	zhu xiao hu	45
+注销纳税人	zhu xiao na shui ren	44
+注销审批	zhu xiao shen pi	42
+注销申请	zhu xiao shen qing	43
+注销通知书	zhu xiao tong zhi shu	41
+专票	zhuan piao	40
+专用发票	zhuan yong fa piao	39
+专用缴款书	zhuan yong jiao kuan shu	38
+专用收据	zhuan yong shou ju	37
+自查补报	zi cha bu bao	35
+自印	zi yin	34
+自印发票	zi yin fa piao	33
+自印收购发票	zi yin shou gou fa piao	32
+资源税	zi yuan shui	36
+自治区国家税务局	zi zhi qu guo jia shui wu ju	31
+自治区国税局	zi zhi qu guo shui ju	30
+自治区局	zi zhi qu ju	29
+综合查询	zong he cha xun	25
+综合股	zong he gu	24
+综合管理组	zong he guan li zu	23
+综合受理部	zong he shou li bu	22
+综合受理岗	zong he shou li gang	21
+综合选案股	zong he xuan an gu	20
+综合业务股	zong he ye wu gu	19
+综合业务组	zong he ye wu zu	18
+综合组	zong he zu	17
+走逃户	zou tao hu	16
+组织机构代码证	zu zhi ji gou dai ma zheng	15
+座落地址	zuo luo di zhi	5

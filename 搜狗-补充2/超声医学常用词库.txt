@@ -1,0 +1,649 @@
+# 词库名称: 超声医学常用词库
+# 词库分类: 个人专用
+# 词库描述: 此为超声医学常用词库
+# 词条样例: 高水平回声、强回声、低水平回声、液性暗区、斑点状回声、细点状
+# 解析词数: 642
+# 解析异常: 0
+
+靶环征	ba huan zheng	615
+斑点状回声	ban dian zhuang hui sheng	626
+斑块	ban kuai	168
+斑块回声	ban kuai hui sheng	151
+瓣膜	ban mo	235
+斑片状	ban pian zhuang	260
+班片状回声	ban pian zhuang hui sheng	627
+伴声影	ban sheng ying	108
+包膜	bao mo	261
+包膜不光滑	bao mo bu guang hua	432
+包膜光滑	bao mo guang hua	525
+包膜完整	bao mo wan zheng	273
+壁薄	bi bo	299
+壁立结节征	bi li jie jie zheng	607
+变动体位可移动	bian dong ti wei ke yi dong	37
+边界	bian jie	57
+边界规整	bian jie gui zheng	540
+边界回声	bian jie hui sheng	620
+边界模糊	bian jie mo hu	330
+边界欠清晰	bian jie qian qing xi	482
+边界清	bian jie qing	488
+边界清楚	bian jie qing chu	18
+边界尚清晰	bian jie shang qing xi	451
+扁平形	bian ping xing	385
+边缘不规则	bian yuan bu gui ze	329
+边缘不规整	bian yuan bu gui zheng	483
+边缘不整	bian yuan bu zheng	319
+边缘光滑	bian yuan guang hua	121
+边缘规则	bian yuan gui ze	72
+边缘规整	bian yuan gui zheng	274
+边缘模糊	bian yuan mo hu	70
+边缘欠光滑	bian yuan qian guang hua	120
+边缘锐利	bian yuan rui li	71
+变窄	bian zhai	209
+表面不平	biao mian bu ping	503
+表面光滑	biao mian guang hua	575
+波幅正常	bo fu zheng chang	232
+波浪状	bo lang zhuang	92
+部分充填管腔内	bu fen chong tian guan qiang nei	133
+部分后伴声影	bu fen hou ban sheng ying	258
+部分突入膀胱	bu fen tu ru pang guang	272
+不规则	bu gui ze	332
+不规则等回声团块	bu gui ze deng hui sheng tuan kuai	398
+不规则扩张	bu gui ze kuo zhang	31
+不规则形团块	bu gui ze xing tuan kuai	409
+不佳	bu jia	80
+不均匀分布	bu jun yun fen bu	630
+不能显示	bu neng xian shi	75
+不全流产	bu quan liu chan	333
+部位	bu wei	115
+不移动	bu yi dong	458
+菜花样强回声	cai hua yang qiang hui sheng	422
+彩色多普勒超声	cai se duo pu le chao sheng	606
+彩色血流信号缺损	cai se xue liu xin hao que sun	397
+餐后胆囊不显示	can hou dan nang bu xian shi	54
+餐后胆囊收缩	can hou dan nang shou suo	109
+侧壁声影	ce bi sheng ying	250
+侧边声影	ce bian sheng ying	616
+侧方声影	ce fang sheng ying	128
+侧脑室	ce nao shi	353
+层次结构清晰	ceng ci jie gou qing xi	521
+沉积物	chen ji wu	46
+呈鞍形	cheng an xing	301
+呈分叶状	cheng fen ye zhuang	431
+呈蜂窝状	cheng feng wo zhuang	427
+呈锯齿状	cheng ju chi zhuang	502
+呈弥漫分布杂乱光点	cheng mi man fen bu za luan guang dian	287
+呈逆向运动	cheng ni xiang yun dong	193
+呈乳头状	cheng ru tou zhuang	450
+呈双层征	cheng shuang ceng zheng	497
+耻骨联合上	chi gu lian he shang	345
+充盈缺损	chong ying que sun	150
+粗糙点状回声	cu cao dian zhuang hui sheng	73
+粗大	cu da	500
+粗大不均匀	cu da bu jun yun	281
+大小	da xiao	113
+大小不一	da xiao bu yi	428
+大小及形态正常	da xiao ji xing tai zheng chang	110
+大隐静脉	da yin jing mai	140
+单发	dan fa	51
+胆囊壁光滑	dan nang bi guang hua	468
+胆囊壁增厚	dan nang bi zeng hou	52
+胆囊不显示	dan nang bu xian shi	55
+胆囊充满型结石	dan nang chong man xing jie shi	462
+胆囊大小	dan nang da xiao	567
+胆囊结石	dan nang jie shi	473
+胆囊内见多枚强回声团	dan nang nei jian duo mei qiang hui sheng tuan	472
+胆囊内未探及异常回声	dan nang nei wei tan ji yi chang hui sheng	496
+胆囊泥砂样结石并慢性胆囊炎	dan nang ni sha yang jie shi bing man xing dan nang yan	467
+胆囊息肉	dan nang xi rou	44
+胆囊息样样病变	dan nang xi yang yang bing bian	457
+胆囊炎	dan nang yan	476
+胆囊肿大	dan nang zhong da	53
+胆泥	dan ni	64
+胆汁透声差	dan zhi tou sheng cha	474
+胆汁透声好	dan zhi tou sheng hao	565
+胆汁淤积	dan zhi yu ji	47
+胆总管扩张	dan zong guan kuo zhang	36
+胆总管内径	dan zong guan nei jing	563
+低回声包块	di hui sheng bao kuai	253
+低回声光斑	di hui sheng guang ban	478
+低回声环包绕	di hui sheng huan bao rao	481
+低回声块状物	di hui sheng kuai zhuang wu	384
+低回声晕征	di hui sheng yun zheng	610
+低回声肿块	di hui sheng zhong kuai	456
+低密度区	di mi du qu	19
+低水平回声	di shui ping hui sheng	639
+点状回声	dian zhuang hui sheng	628
+点状胚芽组织	dian zhuang pei ya zu zhi	364
+多发	duo fa	50
+多房性肿块	duo fang xing zhong kuai	30
+多个低回声为主的包块	duo ge di hui sheng wei zhu de bao kuai	484
+多枚砂粒大小	duo mei sha li da xiao	464
+多囊肾	duo nang shen	434
+二尖瓣关闭不全	er jian ban guan bi bu quan	227
+二尖瓣轻度返流	er jian ban qing du fan liu	225
+二漏	er lou	185
+二窄	er zhai	187
+法乐氏四联症	fa yue shi si lian zheng	223
+范围	fan wei	471
+房间隔	fang jian ge	197
+房间隔连续完整	fang jian ge lian xu wan zheng	215
+房间隔中	fang jian ge zhong	188
+房缺	fang que	199
+房室不大	fang shi bu da	231
+房室间隔	fang shi jian ge	234
+肺动脉	fei dong mai	240
+肺动脉瓣	fei dong mai ban	208
+肺动脉主干	fei dong mai zhu gan	201
+非均质性	fei jun zhi xing	84
+分布不均	fen bu bu jun	125
+分布不均匀	fen bu bu jun yun	499
+分布均匀	fen bu jun yun	361
+分布欠均匀	fen bu qian jun yun	508
+分离	fen li	308
+分叶状	fen ye zhuang	91
+腹腔积液	fu qiang ji ye	271
+腹腔内未见液暗区	fu qiang nei wei jian ye an qu	492
+腹主动脉	fu zhu dong mai	382
+附着囊壁	fu zhuo nang bi	460
+改变体位	gai bian ti wei	419
+改变体位缓慢移动	gai bian ti wei huan man yi dong	48
+钙化	gai hua	58
+肝癌	gan ai	485
+肝胆脾胰未见异常	gan dan pi yi wei jian yi chang	580
+肝静脉变细	gan jing mai bian xi	513
+肝囊肿	gan nang zhong	599
+肝内胆管未见扩张	gan nei dan guan wei jian kuo zhang	570
+肝内分支扩张呈枯枝状	gan nei fen zhi kuo zhang cheng ku zhi zhuang	498
+肝内管道系统受压弯曲	gan nei guan dao xi tong shou ya wan qu	480
+肝内外胆管无扩张	gan nei wai dan guan wu kuo zhang	107
+肝内血管显示尚清晰	gan nei xue guan xian shi shang qing xi	505
+肝区回声增强	gan qu hui sheng zeng qiang	511
+肝肾间隙	gan shen jian xi	270
+肝实质回声均匀	gan shi zhi hui sheng jun yun	574
+肝实质回声细密	gan shi zhi hui sheng xi mi	515
+肝形态正常	gan xing tai zheng chang	576
+肝血管瘤	gan xue guan liu	491
+肝硬化	gan ying hua	504
+肝右后叶	gan you hou ye	490
+肝总管扩张	gan zong guan kuo zhang	35
+肝左叶厚	gan zuo ye hou	579
+高低不一	gao di bu yi	380
+高回声团块	gao hui sheng tuan kuai	461
+高水平回声	gao shui ping hui sheng	642
+睾丸长径	gao wan chang jing	284
+睾丸肿瘤	gao wan zhong liu	285
+个低回声团块	ge di hui sheng tuan kuai	316
+宫底	gong di	334
+宫底横径较宽	gong di heng jing jiao kuan	302
+宫内见二个胎儿	gong nei jian er ge tai er	336
+宫腔	gong qiang	358
+宫腔内积血	gong qiang nei ji xue	4
+宫腔线	gong qiang xian	378
+宫腔线居中	gong qiang xian ju zhong	535
+宫腔线至宫颈处融合卵巢囊肿	gong qiang xian zhi gong jing chu rong he luan chao nang zhong	300
+股骨长	gu gu zhang	351
+股浅动脉	gu qian dong mai	163
+股浅静脉	gu qian jing mai	146
+股深动脉	gu shen dong mai	162
+股深静脉	gu shen jing mai	145
+股总动脉	gu zong dong mai	164
+股总静脉	gu zong jing mai	147
+关闭欠佳	guan bi qian jia	205
+管道交通	guan dao jiao tong	200
+管径	guan jing	477
+管径狭窄	guan jing xia zhai	169
+管径左右对称	guan jing zuo you dui chen	175
+管腔	guan qiang	131
+管腔呈无回声暗区	guan qiang cheng wu hui sheng an qu	172
+光斑	guang ban	586
+光斑回声	guang ban hui sheng	318
+光带	guang dai	588
+光带分隔	guang dai fen ge	263
+光点	guang dian	590
+光点分布均匀	guang dian fen bu jun yun	541
+光点密集	guang dian mi ji	362
+光滑	guang hua	86
+光环	guang huan	587
+光环完整	guang huan wan zheng	365
+光团	guang tuan	589
+光团回声	guang tuan hui sheng	292
+规则	gui ze	87
+腘动脉	guo dong mai	161
+腘静脉	guo jing mai	144
+含液性	han ye xing	602
+后伴声影	hou ban sheng ying	470
+后方伴声影	hou fang ban sheng ying	444
+后方回声无增强	hou fang hui sheng wu zeng qiang	286
+后方回声增强	hou fang hui sheng zeng qiang	617
+后方无声影	hou fang wu sheng ying	459
+后方有增强效应	hou fang you zeng qiang xiao ying	486
+厚径	hou jing	282
+后缘反射增强	hou yuan fan she zeng qiang	297
+弧形强回声	hu xing qiang hui sheng	622
+环状强回声	huan zhuang qiang hui sheng	621
+回声粗糙	hui sheng cu cao	118
+回声均匀	hui sheng jun yun	374
+回声衰减	hui sheng shuai jian	83
+回声细密	hui sheng xi mi	119
+回声增强	hui sheng zeng qiang	154
+慧星尾征	hui xing wei zheng	612
+混合性回声	hun he xing hui sheng	2
+混合性肿块	hun he xing zhong kuai	9
+活动好	huo dong hao	547
+活动正常	huo dong zheng chang	218
+活胎	huo tai	601
+肌壁	ji bi	375
+肌壁回声均匀	ji bi hui sheng jun yun	533
+肌层	ji ceng	289
+基底宽	ji di kuan	453
+继发胆囊癌	ji fa dan nang ai	40
+及高速血流	ji gao su xue liu	204
+集合系统	ji he xi tong	425
+脊柱	ji zhu	344
+假肾征	jia shen zheng	613
+甲状腺未见异常	jia zhuang xian wei jian yi chang	529
+甲状腺肿大	jia zhuang xian zhong da	262
+间隙	jian xi	309
+见一个高回声团块	jian yi ge gao hui sheng tuan kuai	489
+降主动脉	jiang zhu dong mai	202
+较粗	jiao cu	509
+较佳	jiao jia	82
+较密集	jiao mi ji	510
+界限	jie xian	56
+近场增强	jin chang zeng qiang	129
+浸润肌层	jin run ji ceng	414
+颈部未	jing bu wei	340
+颈部肿大淋巴结影	jing bu zhong da lin ba jie ying	255
+颈动脉未见异常	jing dong mai wei jian yi chang	182
+颈动脉硬化	jing dong mai ying hua	170
+胫后动脉	jing hou dong mai	159
+胫后静脉	jing hou jing mai	142
+颈静脉受压凹陷	jing jing mai shou ya ao xian	257
+颈内动脉	jing nei dong mai	180
+胫前动脉	jing qian dong mai	160
+胫前静脉	jing qian jing mai	143
+颈外动脉	jing wai dong mai	179
+颈总动脉	jing zong dong mai	181
+局部结节状增生	ju bu jie jie zhuang zeng sheng	59
+锯齿状	ju chi zhuang	126
+局限性	ju xian xing	604
+局限性胆囊壁增厚	ju xian xing dan nang bi zeng hou	42
+局限性积液	ju xian xing ji ye	43
+局限性增大	ju xian xing zeng da	402
+局限性脂肪肝待除外	ju xian xing zhi fang gan dai chu wai	591
+居中	ju zhong	377
+均匀分布	jun yun fen bu	631
+均匀性扩张	jun yun xing kuo zhang	32
+均质性	jun zhi xing	85
+开放受限	kai fang shou xian	206
+可见该光团在尿液中晃动	ke jian gai guang tuan zai niao ye zhong huang dong	417
+可疑	ke yi	593
+宽径	kuan jing	283
+扩张	kuo zhang	95
+肋间	lei jian	264
+连续完整	lian xu wan zheng	230
+连续性差	lian xu xing cha	152
+连续性好	lian xu xing hao	343
+连续中断	lian xu zhong duan	212
+两侧	liang ce	251
+淋巴结肿大	lin ba jie zhong da	27
+瘤栓	liu shuan	393
+瘤体	liu ti	416
+颅骨圆形光环	lu gu yuan xing guang huan	632
+卵巢	luan chao	372
+卵巢多囊样改变	luan chao duo nang yang gai bian	290
+卵巢畸胎瘤	luan chao ji tai liu	295
+卵泡	luan pao	379
+轮廓	lun kuo	21
+轮廓不清	lun kuo bu qing	320
+轮廓粗糙	lun kuo cu cao	10
+轮廓光滑	lun kuo guang hua	495
+轮廓清晰	lun kuo qing xi	20
+马蹄肾	ma ti shen	389
+脉冲多普勒	mai chong duo pu le	395
+毛糙	mao cao	475
+门静脉主干内径	men jing mai zhu gan nei jing	569
+门静脉主干未见异常	men jing mai zhu gan wei jian yi chang	512
+门脉内	men mai nei	479
+密集	mi ji	501
+弥漫性	mi man xing	605
+面包圈征	mian bao quan zheng	614
+面包征	mian bao zheng	609
+明亮回声	ming liang hui sheng	29
+模糊	mo hu	88
+膜周部	mo zhou bu	211
+囊壁光滑	nang bi guang hua	566
+囊壁毛糙	nang bi mao cao	466
+囊壁向囊腔内突出	nang bi xiang nang qiang nei tu chu	455
+囊壁增厚	nang bi zeng hou	102
+囊袋状	nang dai zhuang	34
+囊内见	nang nei jian	465
+囊实性肿块	nang shi xing zhong kuai	7
+囊性	nang xing	603
+内部光点分布均匀	nei bu guang dian fen bu jun yun	553
+内部回声	nei bu hui sheng	619
+内部回声不均匀	nei bu hui sheng bu jun yun	328
+内部回声呈筛网状	nei bu hui sheng cheng shai wang zhuang	487
+内部回声细小均匀	nei bu hui sheng xi xiao jun yun	494
+内部透声佳	nei bu tou sheng jia	296
+内部为等回声	nei bu wei deng hui sheng	406
+内见密集光点	nei jian mi ji guang dian	293
+内径	nei jing	116
+内径稍增宽	nei jing shao zeng kuan	135
+内膜薄而光滑	nei mo bo er guang hua	174
+内未见结石和肿块	nei wei jian jie shi he zhong kuai	564
+内未见异常回声	nei wei jian yi chang hui sheng	568
+内有细小均匀回声	nei you xi xiao jun yun hui sheng	383
+逆向运动	ni xiang yun dong	229
+拍击膀胱时	pai ji pang guang shi	418
+膀胱壁回声零乱不清	pang guang bi hui sheng ling luan bu qing	421
+膀胱充盈好	pang guang chong ying hao	441
+膀胱充盈佳	pang guang chong ying jia	436
+膀胱液性暗区内	pang guang ye xing an qu nei	543
+膀胱直肠窝	pang guang zhi chang wo	268
+膀胱肿瘤	pang guang zhong liu	423
+盆腔探查	pen qiang tan cha	310
+盆腔未见明显液性暗区	pen qiang wei jian ming xian ye xing an qu	530
+盆腔未见液暗区	pen qiang wei jian ye an qu	325
+盆腔未见液性暗区	pen qiang wei jian ye xing an qu	100
+膨大	peng da	96
+脾长径	pi chang jing	561
+脾厚	pi hou	562
+脾静脉内径无扩张	pi jing mai nei jing wu kuo zhang	560
+脾静脉增宽	pi jing mai zeng kuan	26
+脾内回声均匀	pi nei hui sheng jun yun	559
+脾实质回声均匀	pi shi zhi hui sheng jun yun	66
+皮髓质分界清	pi sui zhi fen jie qing	546
+片状	pian zhuang	585
+频谱	pin pu	167
+脐带压迹	qi dai ya ji	339
+气管移位	qi guan yi wei	256
+骑跨度约	qi kua du yue	220
+骑跨于室间隔之上	qi kua yu shi jian ge zhi shang	221
+其内未见光团及积液	qi nei wei jian guang tuan ji ji ye	545
+髂外动脉	qia wai dong mai	165
+髂外静脉	qia wai jing mai	148
+欠光滑	qian guang hua	153
+前后径	qian hou jing	122
+前列腺大小	qian lie xian da xiao	542
+前列腺增大	qian lie xian zeng da	276
+前列腺增大呈球状	qian lie xian zeng da cheng qiu zhuang	275
+前置胎盘	qian zhi tai pan	324
+强光带	qiang guang dai	634
+强光点	qiang guang dian	636
+强光团	qiang guang tuan	635
+强回声	qiang hui sheng	641
+强回声钙化斑	qiang hui sheng gai hua ban	405
+强回声光斑	qiang hui sheng guang ban	259
+强回声团	qiang hui sheng tuan	463
+强回声团块	qiang hui sheng tuan kuai	331
+切面形态正常	qie mian xing tai zheng chang	536
+轻度返流	qing du fan liu	194
+轻度增大	qing du zeng da	69
+清晰未见占位	qing xi wei jian zhan wei	307
+绒毛膜与蜕膜分离	rong mao mo yu tui mo fen li	3
+乳腺导管未见扩张	ru xian dao guan wei jian kuo zhang	518
+乳腺未见异常	ru xian wei jian yi chang	524
+乳腺纤维瘤	ru xian xian wei liu	254
+锐利	rui li	89
+弱回声	ruo hui sheng	638
+沙石	sha shi	63
+扇形	shan xing	90
+尚佳	shang jia	81
+上腔静脉	shang qiang jing mai	198
+上下径	shang xia jing	578
+稍强回声	shao qiang hui sheng	189
+射血分数	she xue fen shu	237
+肾癌	shen ai	412
+肾被膜回声中断	shen bei mo hui sheng zhong duan	401
+肾窦	shen dou	22
+肾窦回声变形	shen dou hui sheng bian xing	404
+肾多发性囊肿	shen duo fa xing nang zhong	435
+肾发育不全	shen fa yu bu quan	61
+肾活动不受限	shen huo dong bu shou xian	400
+肾积水	shen ji shui	62
+肾结石	shen jie shi	449
+肾界线消失	shen jie xian xiao shi	387
+肾门	shen men	60
+肾囊肿	shen nang zhong	598
+肾内充满	shen nei chong man	429
+肾皮质	shen pi zhi	25
+肾皮质变薄	shen pi zhi bian bao	16
+肾上极	shen shang ji	411
+肾上腺腺体	shen shang xian xian ti	279
+肾上腺肿瘤	shen shang xian zhong liu	280
+肾实质	shen shi zhi	112
+肾实质厚度正常	shen shi zhi hou du zheng chang	106
+肾实质回声	shen shi zhi hui sheng	426
+肾输尿管膀胱前列腺未见异常	shen shu niao guan pang guang qian lie xian wei jian yi chang	551
+肾髓质	shen sui zhi	24
+肾外形	shen wai xing	403
+肾盂	shen yu	111
+肾盂分离	shen yu fen li	14
+肾盏扩张	shen zhan kuo zhang	15
+肾盏与肾盂相连续	shen zhan yu shen yu xiang lian xu	17
+肾锥体	shen zhui ti	23
+声影	sheng ying	618
+室间隔	shi jian ge	244
+室间隔嵴	shi jian ge ji	190
+室间隔上段	shi jian ge shang duan	213
+室缺	shi que	192
+实性肿块	shi xing zhong kuai	39
+实质暗区	shi zhi an qu	583
+实质内	shi zhi nei	410
+实质性回声	shi zhi xing hui sheng	134
+实质性肿块	shi zhi xing zhong kuai	8
+受压变形	shou ya bian xing	424
+输尿管结石肾积水	shu niao guan jie shi shen ji shui	440
+衰减暗区	shuai jian an qu	582
+双侧附件区	shuang ce fu jian qu	314
+双侧附件未见明显肿块	shuang ce fu jian wei jian ming xian zhong kuai	360
+双侧甲状腺内	shuang ce jia zhuang xian nei	526
+双侧乳腺	shuang ce ru xian	523
+双侧输尿管未见扩张	shuang ce shu niao guan wei jian kuo zhang	544
+双侧输尿管无扩张	shuang ce shu niao guan wu kuo zhang	442
+双顶径	shuang ding jing	354
+双附件未见明显肿块回声	shuang fu jian wei jian ming xian zhong kuai hui sheng	531
+双环征	shuang huan zheng	6
+双颈动脉	shuang jing dong mai	177
+双髂外静脉	shuang qia wai jing mai	136
+双肾外周滑	shuang shen wai zhou hua	548
+双肾形态正常	shuang shen xing tai zheng chang	446
+双肾盏可见多个强光团	shuang shen zhan ke jian duo ge qiang guang tuan	445
+双胎妊娠	shuang tai ren shen	337
+双下肢动脉走行正常	shuang xia zhi dong mai zou xing zheng chang	157
+双子宫	shuang zi gong	311
+死胎	si tai	600
+随呼吸的改变减弱	sui hu xi de gai bian jian ruo	390
+随体位改变不移动	sui ti wei gai bian bu yi dong	38
+随体位改变而移动	sui ti wei gai bian er yi dong	469
+碎屑	sui xie	45
+缩小	suo xiao	98
+胎儿	tai er	357
+胎儿回声	tai er hui sheng	346
+胎盘	tai pan	350
+胎盘覆盖	tai pan fu gai	322
+胎盘早剥	tai pan zao bo	321
+胎头	tai tou	356
+胎心率	tai xin lv	352
+探头加压	tan tou jia ya	132
+陶氏窝未见液暗区内见多个	tao shi wo wei jian ye an qu nei jian duo ge	288
+体积明显增大	ti ji ming xian zeng da	433
+凸向膀胱腔	tu xiang pang guang qiang	415
+图像质量不佳	tu xiang zhi liang bu jia	77
+图像质量差	tu xiang zhi liang cha	76
+图像质量较佳	tu xiang zhi liang jiao jia	79
+图像质量欠佳	tu xiang zhi liang qian jia	78
+团块边界清	tuan kuai bian jie qing	291
+团块状回声	tuan kuai zhuang hui sheng	624
+驼峰征	tuo feng zheng	611
+椭圆形	tuo yuan xing	278
+晚孕	wan yun	347
+未见斑块回声	wei jian ban kuai hui sheng	173
+未见包块回声	wei jian bao kuai hui sheng	539
+未见过隔血流信号	wei jian guo ge xue liu xin hao	214
+未见结石回声	wei jian jie shi hui sheng	104
+未见明显占位	wei jian ming xian zhan wei	517
+未见明显肿块回声	wei jian ming xian zhong kuai hui sheng	326
+未见异常	wei jian yi chang	105
+未见异常回声	wei jian yi chang hui sheng	558
+未见增厚	wei jian zeng hou	519
+未见占位	wei jian zhan wei	573
+未见占位性病变	wei jian zhan wei xing bing bian	506
+萎缩	wei suo	97
+未显示结石回声	wei xian shi jie shi hui sheng	103
+无包膜	wu bao mo	312
+无蒂	wu di	454
+无回声	wu hui sheng	637
+无回声区	wu hui sheng qu	584
+无回声声影	wu hui sheng sheng ying	127
+无声影	wu sheng ying	49
+细点状	xi dian zhuang	625
+稀疏散在	xi shu san zai	629
+细小点状回声	xi xiao dian zhuang hui sheng	74
+下腹未见液性暗区	xia fu wei jian ye xing an qu	101
+下腔静脉	xia qiang jing mai	381
+下肢动脉未见异常	xia zhi dong mai wei jian yi chang	166
+下肢动脉硬化	xia zhi dong mai ying hua	156
+下肢静脉	xia zhi jing mai	138
+下肢深静脉血栓形成	xia zhi shen jing mai xue shuan xing cheng	137
+显示	xian shi	394
+显示不清	xian shi bu qing	338
+显示清晰	xian shi qing xi	571
+腺体组织回声正常	xian ti zu zhi hui sheng zheng chang	520
+线条状回声	xian tiao zhuang hui sheng	623
+向外凸起	xiang wai tu qi	413
+小隐静脉	xiao yin jing mai	139
+心包积液	xin bao ji ye	183
+心梗	xin geng	184
+心率	xin lv	238
+心脏正常	xin zang zheng chang	249
+形肾	xing shen	386
+形态	xing tai	114
+形态轮廓正常	xing tai lun kuo zheng chang	522
+形状不规则	xing zhuang bu gui ze	11
+形状欠规则	xing zhuang qian gui ze	33
+胸腔积液	xiong qiang ji ye	267
+修补术后	xiu bu shu hou	191
+血管瘤	xue guan liu	592
+血管平滑肌脂肪瘤	xue guan ping hua ji zhi fang liu	12
+血管走向自然	xue guan zou xiang zi ran	572
+血流曲线	xue liu qu xian	391
+血流速度增快	xue liu su du zeng kuai	396
+压瘪搏动消失	ya bie bo dong xiao shi	130
+羊水	yang shui	348
+羊水厚	yang shui hou	335
+液实混合性团块	ye shi hun he xing tuan kuai	294
+液性暗区	ye xing an qu	633
+液性暗区深	ye xing an qu shen	269
+异常血流信号及频谱	yi chang xue liu xin hao ji pin pu	171
+异常血流征	yi chang xue liu zheng	233
+胰管扩张	yi guan kuo zhang	28
+胰管未见扩张	yi guan wei jian kuo zhang	552
+疑似	yi si	594
+胰体厚	yi ti hou	556
+胰头厚	yi tou hou	557
+胰尾厚	yi wei hou	555
+胰腺大小正常	yi xian da xiao zheng chang	554
+一周后复查	yi zhou hou fu cha	1
+有包膜	you bao mo	298
+右侧肩胛线	you ce jian jia xian	265
+右侧卵巢	you ce luan chao	371
+有蒂	you di	420
+右房	you fang	217
+右肝实性占位性病变	you gan shi xing zhan wei xing bing bian	597
+右肝斜径	you gan xie jing	577
+有假包膜	you jia bao mo	315
+有假包膜回声	you jia bao mo hui sheng	407
+右脐旁	you qi pang	342
+有球体感	you qiu ti gan	408
+右肾集合系统分离	you shen ji he xi tong fen li	439
+右肾切面	you shen qie mian	447
+右肾切面内径	you shen qie mian nei jing	549
+右肾肾静脉增宽	you shen shen jing mai zeng kuan	399
+右肾实质回声增强	you shen shi zhi hui sheng zeng qiang	430
+右肾未见异常回声	you shen wei jian yi chang hui sheng	443
+右室流出道	you shi liu chu dao	246
+右室增大	you shi zeng da	216
+右输尿管上段内径	you shu niao guan shang duan nei jing	438
+有纤维包膜内部回声均匀	you xian wei bao mo nei bu hui sheng jun yun	252
+右向左分流信号	you xiang zuo fen liu xin hao	210
+右心房	you xin fang	241
+右心室	you xin shi	245
+右叶甲状腺	you ye jia zhuang xian	527
+淤泥	yu ni	65
+远场回声轻度衰减	yuan chang hui sheng qing du shuai jian	507
+远场衰减	yuan chang shuai jian	514
+远端静脉	yuan duan jing mai	392
+原发胆囊癌	yuan fa dan nang ai	41
+圆胖	yuan pang	93
+原始心管搏动	yuan shi xin guan bo dong	363
+圆形	yuan xing	13
+孕囊	yun nang	5
+孕囊回声	yun nang hui sheng	366
+早孕	zao yun	368
+增大	zeng da	99
+增厚	zeng hou	155
+增强增厚	zeng qiang zeng hou	207
+正常	zheng chang	581
+正常大小	zheng chang da xiao	370
+直肠窝	zhi chang wo	369
+脂肪肝	zhi fang gan	516
+肢深静脉未见异常	zhi shen jing mai wei jian yi chang	149
+脂液分层征	zhi ye fen ceng zheng	608
+中部	zhong bu	196
+中等回声	zhong deng hui sheng	640
+中等回声肿块	zhong deng hui sheng zhong kuai	277
+中度增大	zhong du zeng da	68
+重度增大	zhong du zeng da	67
+中腹部	zhong fu bu	388
+肿块	zhong kuai	124
+肿块边缘不规则	zhong kuai bian yuan bu gui ze	452
+肿瘤可能	zhong liu ke neng	596
+肿瘤可能大	zhong liu ke neng da	595
+中下段未显示	zhong xia duan wei xian shi	437
+中孕	zhong yun	359
+皱缩	zhou suo	94
+主动脉	zhu dong mai	248
+主动脉瓣	zhu dong mai ban	228
+主动脉瓣少量返流	zhu dong mai ban shao liang fan liu	226
+主动脉瓣形态	zhu dong mai ban xing tai	219
+主动脉不宽	zhu dong mai bu kuan	224
+主动脉弓	zhu dong mai gong	203
+主动脉增宽	zhu dong mai zeng kuan	222
+主漏	zhu lou	186
+主胰管未见扩张	zhu yi guan wei jian kuo zhang	493
+椎动脉	zhui dong mai	178
+子宫边界规整	zi gong bian jie gui zheng	532
+子宫附件未见异常	zi gong fu jian wei jian yi chang	538
+子宮后位	zi gong hou wei	304
+子宫肌层	zi gong ji ceng	327
+子宫肌瘤	zi gong ji liu	317
+子宫颈内口	zi gong jing nei kou	323
+子宫内膜	zi gong nei mo	376
+子宫内膜清	zi gong nei mo qing	534
+子宫前壁	zi gong qian bi	349
+子宫前位	zi gong qian wei	537
+子宫腔	zi gong qiang	367
+子宫外形正常	zi gong wai xing zheng chang	303
+子宫腺肌瘤	zi gong xian ji liu	313
+纵隔子宫	zong ge zi gong	305
+走行	zou xing	117
+走行正常	zou xing zheng chang	176
+足背动脉	zu bei dong mai	158
+足背静脉	zu bei jing mai	141
+最大羊水暗区	zui da yang shui an qu	341
+左侧	zuo ce	373
+左侧卵巢	zuo ce luan chao	306
+左甲状腺	zuo jia zhuang xian	528
+左肾切面	zuo shen qie mian	448
+左肾切面内径	zuo shen qie mian nei jing	550
+左室后壁	zuo shi hou bi	242
+左室缩短率	zuo shi suo duan lv	236
+坐位背部探查	zuo wei bei bu tan cha	266
+左下腹	zuo xia fu	355
+左向右分流	zuo xiang you fen liu	195
+左心房	zuo xin fang	247
+左心功能	zuo xin gong neng	239
+左心室	zuo xin shi	243
+左右径	zuo you jing	123

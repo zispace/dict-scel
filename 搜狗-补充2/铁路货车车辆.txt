@@ -1,0 +1,690 @@
+# 词库名称: 铁路货车车辆
+# 词库分类: 个人专用
+# 词库描述: 铁路货车车辆故障提交
+# 词条样例: 交叉杆折断、高摩合成闸瓦折断、铛键螺栓松动、罐车走道有异物、枕粱孔有异物
+# 解析词数: 683
+# 解析异常: 0
+
+安全链脱落	an quan lian tuo luo	452
+安全链折断	an quan lian zhe duan	451
+安全索丢失	an quan suo diu shi	450
+安全索折断	an quan suo zhe duan	449
+鞍座组成	an zuo zu cheng	574
+鞍座组成其他故障	an zuo zu cheng qi ta gu zhang	573
+编织制动软管总成	bian zhi zhi dong ruan guan zong cheng	204
+编织制动软管总成其他故障	bian zhi zhi dong ruan guan zong cheng qi ta gu zhang	203
+侧架本体	ce jia ben ti	493
+侧架本体其他故障	ce jia ben ti qi ta gu zhang	492
+侧架附件	ce jia fu jian	485
+侧架附件其他故障	ce jia fu jian qi ta gu zhang	484
+侧架立柱磨耗板窜出	ce jia li zhu mo hao ban cuan chu	483
+侧架立柱磨耗板丢失	ce jia li zhu mo hao ban diu shi	482
+侧架立柱磨耗板破损	ce jia li zhu mo hao ban po sun	481
+侧架裂损	ce jia lie sun	491
+侧架三角孔有异物	ce jia san jiao kong you yi wu	14
+侧梁	ce liang	538
+侧梁裂损	ce liang lie sun	537
+侧梁其他故障	ce liang qi ta gu zhang	536
+侧漏斗板破损	ce lou dou ban po sun	565
+侧门挡铁丢失	ce men dang tie diu shi	605
+侧门支座丢失	ce men zhi zuo diu shi	604
+侧墙	ce qiang	666
+侧墙板破损	ce qiang ban po sun	665
+侧墙其他故障	ce qiang qi ta gu zhang	664
+侧墙外墙板破损	ce qiang wai qiang ban po sun	663
+侧柱裂损	ce zhu lie sun	662
+车窗	che chuang	578
+车窗丢失	che chuang diu shi	577
+车窗其他故障	che chuang qi ta gu zhang	576
+车端门	che duan men	588
+车钩安全托板丢失	che gou an quan tuo ban diu shi	63
+车钩安全托板裂损	che gou an quan tuo ban lie sun	62
+车钩安全托板螺母丢失	che gou an quan tuo ban luo mu diu shi	61
+车钩安全托板螺栓丢失	che gou an quan tuo ban luo shuan diu shi	60
+车钩附件	che gou fu jian	93
+车钩附件其他故障	che gou fu jian qi ta gu zhang	92
+车钩钩锁绑铁丝	che gou gou suo bang tie si	6
+车钩缓冲	che gou huan chong	103
+车钩缓冲装置附件	che gou huan chong zhuang zhi fu jian	64
+车钩缓冲装置附件其他故障	che gou huan chong zhuang zhi fu jian qi ta gu zhang	59
+车钩托梁裂损	che gou tuo liang lie sun	58
+车钩托梁螺母丢失	che gou tuo liang luo mu diu shi	57
+车钩托梁螺栓丢失	che gou tuo liang luo shuan diu shi	56
+车钩托梁螺栓折断	che gou tuo liang luo shuan zhe duan	55
+车钩托梁折断	che gou tuo liang zhe duan	54
+车轮	che lun	31
+车轮其他故障	che lun qi ta gu zhang	30
+车轮缺损	che lun que sun	29
+车轮踏面剥离	che lun ta mian bo li	10
+车轮踏面擦伤	che lun ta mian ca shang	11
+车门	che men	660
+车门插销丢失	che men cha xiao diu shi	659
+车门插销弯曲	che men cha xiao wan qu	658
+车门插销折断	che men cha xiao zhe duan	657
+车门丢失	che men diu shi	656
+车门开放	che men kai fang	655
+车门门板破损	che men men ban po sun	654
+车门其他故障	che men qi ta gu zhang	653
+车门锁杆变形	che men suo gan bian xing	652
+车门锁杆丢失	che men suo gan diu shi	651
+车门锁杆破损	che men suo gan po sun	650
+车门锁手柄变形	che men suo shou bing bian xing	649
+车门锁手柄丢失	che men suo shou bing diu shi	648
+车门锁手柄破损	che men suo shou bing po sun	647
+车门锁手柄折损	che men suo shou bing zhe sun	646
+车门锁铁挡变形	che men suo tie dang bian xing	645
+车门锁铁挡丢失	che men suo tie dang diu shi	644
+车门锁铁挡破损	che men suo tie dang po sun	643
+车门锁销丢失	che men suo xiao diu shi	642
+车门锁座变形	che men suo zuo bian xing	641
+车门锁座丢失	che men suo zuo diu shi	640
+车门锁座破损	che men suo zuo po sun	639
+车门脱落	che men tuo luo	638
+车门折页圆销丢失	che men zhe ye yuan xiao diu shi	637
+车门折页折断	che men zhe ye zhe duan	636
+车门折页折损	che men zhe ye zhe sun	635
+车门折页座折断	che men zhe ye zuo zhe duan	634
+车门折页座折损	che men zhe ye zuo zhe sun	633
+车体	che ti	680
+车体附件	che ti fu jian	558
+车体附件其他故障	che ti fu jian qi ta gu zhang	557
+承载鞍	cheng zai an	435
+承载鞍错位	cheng zai an cuo wei	434
+承载鞍导框挡边折断	cheng zai an dao kuang dang bian zhe duan	433
+承载鞍丢失	cheng zai an diu shi	432
+承载鞍其他故障	cheng zai an qi ta gu zhang	431
+从板丢失	cong ban diu shi	53
+从板破损	cong ban po sun	52
+从板折断	cong ban zhe duan	51
+从板座	cong ban zuo	523
+从板座其他故障	cong ban zuo qi ta gu zhang	522
+挡键丢失	dang jian diu shi	475
+挡键螺栓丢失	dang jian luo shuan diu shi	474
+铛键螺栓松动	dang jian luo shuan song dong	683
+导流板破损	dao liu ban po sun	564
+地板	di ban	679
+地板其他故障	di ban qi ta gu zhang	678
+底架	di jia	542
+底架附件	di jia fu jian	510
+底架附件其他故障	di jia fu jian qi ta gu zhang	509
+底开门其他故障	di kai men qi ta gu zhang	563
+底开门设备	di kai men she bei	566
+端部紧固螺栓丢失	duan bu jin gu luo shuan diu shi	448
+端部紧固螺栓松动	duan bu jin gu luo shuan song dong	9
+端梁	duan liang	535
+端梁裂损	duan liang lie sun	534
+端梁其他故障	duan liang qi ta gu zhang	533
+端梁弯曲	duan liang wan qu	532
+端门丢失	duan men diu shi	587
+端门开放	duan men kai fang	586
+端门门板破损	duan men men ban po sun	585
+端门其他故障	duan men qi ta gu zhang	584
+端门脱落	duan men tuo luo	583
+端门折页丢失	duan men zhe ye diu shi	582
+端门折页座丢失	duan men zhe ye zuo diu shi	581
+端门支座丢失	duan men zhi zuo diu shi	580
+端门轴圆销丢失	duan men zhou yuan xiao diu shi	579
+端墙	duan qiang	673
+端墙板破损	duan qiang ban po sun	672
+端墙其他故障	duan qiang qi ta gu zhang	671
+端墙外墙板破损	duan qiang wai qiang ban po sun	670
+端轴折断	duan zhou zhe duan	419
+端柱裂损	duan zhu lie sun	669
+端柱破损	duan zhu po sun	668
+端走板护栏丢失	duan zou ban hu lan diu shi	556
+端走板护栏破损	duan zou ban hu lan po sun	555
+防火板脱落	fang huo ban tuo luo	677
+防跳插销丢失	fang tiao cha xiao diu shi	50
+防跳插销链丢失	fang tiao cha xiao lian diu shi	49
+防跳插销链折断	fang tiao cha xiao lian zhe duan	48
+防跳插销未插设	fang tiao cha xiao wei cha she	47
+风缸	feng gang	171
+风缸吊架及卡带	feng gang diao jia ji ka dai	150
+风缸吊架及卡带其他故障	feng gang diao jia ji ka dai qi ta gu zhang	149
+风缸其他故障	feng gang qi ta gu zhang	170
+副风缸吊架裂损	fu feng gang diao jia lie sun	148
+副风缸缸体丢失	fu feng gang gang ti diu shi	169
+副风缸缸体脱落	fu feng gang gang ti tuo luo	168
+副风缸卡带折损	fu feng gang ka dai zhe sun	147
+副风缸连接管法兰丢失	fu feng gang lian jie guan fa lan diu shi	215
+副风缸排水堵丢失	fu feng gang pai shui du diu shi	167
+副风缸排水塞门丢失	fu feng gang pai shui sai men diu shi	166
+副构架裂损	fu gou jia lie sun	429
+附加杠杆丢失	fu jia gang gan diu shi	384
+附加杠杆拉铆销丢失	fu jia gang gan la mao xiao diu shi	344
+附加杠杆拉铆销套环丢失	fu jia gang gan la mao xiao tao huan diu shi	343
+附加杠杆拉铆销折断	fu jia gang gan la mao xiao zhe duan	342
+附加杠杆托架破损	fu jia gang gan tuo jia po sun	383
+附加杠杆托架脱落	fu jia gang gan tuo jia tuo luo	382
+附加杠杆圆销丢失	fu jia gang gan yuan xiao diu shi	341
+附加杠杆圆销开口销丢失	fu jia gang gan yuan xiao kai kou xiao diu shi	275
+附加杠杆圆销开口销未劈	fu jia gang gan yuan xiao kai kou xiao wei pi	274
+附加杠杆圆销开口销折断	fu jia gang gan yuan xiao kai kou xiao zhe duan	273
+附加杠杆圆销折断	fu jia gang gan yuan xiao zhe duan	340
+扶手破损	fu shou po sun	554
+扶梯丢失	fu ti diu shi	553
+扶梯破损	fu ti po sun	552
+辅助梁折断	fu zhu liang zhe duan	514
+钢地板破损	gang di ban po sun	676
+更新	geng xin	16
+工作风缸吊架裂损	gong zuo feng gang diao jia lie sun	146
+工作风缸吊架螺母丢失	gong zuo feng gang diao jia luo mu diu shi	145
+工作风缸吊架螺母松动	gong zuo feng gang diao jia luo mu song dong	144
+工作风缸吊架螺栓丢失	gong zuo feng gang diao jia luo shuan diu shi	143
+工作风缸吊架螺栓折断	gong zuo feng gang diao jia luo shuan zhe duan	142
+工作风缸缸体丢失	gong zuo feng gang gang ti diu shi	165
+工作风缸缸体脱落	gong zuo feng gang gang ti tuo luo	164
+工作风缸卡带折损	gong zuo feng gang ka dai zhe sun	141
+工作风缸排水堵丢失	gong zuo feng gang pai shui du diu shi	163
+构架本体	gou jia ben ti	490
+构架本体其他故障	gou jia ben ti qi ta gu zhang	489
+构架侧梁裂损	gou jia ce liang lie sun	488
+构架横梁裂损	gou jia heng liang lie sun	487
+钩舌	gou she	102
+钩舌丢失	gou she diu shi	101
+钩舌裂损	gou she lie sun	100
+钩舌其他故障	gou she qi ta gu zhang	99
+钩舌推铁丢失	gou she tui tie diu shi	91
+钩舌销丢失	gou she xiao diu shi	90
+钩舌销折断	gou she xiao zhe duan	89
+钩锁锁腿折断	gou suo suo tui zhe duan	88
+钩体	gou ti	98
+钩提杆丢失	gou ti gan diu shi	46
+钩提杆复位弹簧丢失	gou ti gan fu wei tan huang diu shi	45
+钩提杆复位弹簧折断	gou ti gan fu wei tan huang zhe duan	44
+钩提杆脱落	gou ti gan tuo luo	43
+钩提杆弯曲	gou ti gan wan qu	42
+钩提杆折断	gou ti gan zhe duan	41
+钩提杆座丢失	gou ti gan zuo diu shi	551
+钩提杆座脱落	gou ti gan zuo tuo luo	550
+钩体或牵引杆其他故障	gou ti huo qian yin gan qi ta gu zhang	97
+钩提链丢失	gou ti lian diu shi	40
+钩提链折断	gou ti lian zhe duan	39
+钩体裂损	gou ti lie sun	96
+钩尾框	gou wei kuang	86
+钩尾框附件	gou wei kuang fu jian	83
+钩尾框附件其他故障	gou wei kuang fu jian qi ta gu zhang	82
+钩尾框裂损	gou wei kuang lie sun	85
+钩尾框其他故障	gou wei kuang qi ta gu zhang	84
+钩尾框托板裂损	gou wei kuang tuo ban lie sun	81
+钩尾框托板螺母丢失	gou wei kuang tuo ban luo mu diu shi	80
+钩尾框托板螺栓丢失	gou wei kuang tuo ban luo shuan diu shi	79
+钩尾框托板螺栓折断	gou wei kuang tuo ban luo shuan zhe duan	78
+钩尾销安全吊架螺母丢失	gou wei xiao an quan diao jia luo mu diu shi	77
+钩尾销安全吊架螺栓丢失	gou wei xiao an quan diao jia luo shuan diu shi	76
+钩尾销安全吊架螺栓折断	gou wei xiao an quan diao jia luo shuan zhe duan	75
+钩尾销插托窜出	gou wei xiao cha tuo cuan chu	74
+钩尾销插托定位螺母丢失	gou wei xiao cha tuo ding wei luo mu diu shi	73
+钩尾销插托定位螺母松动	gou wei xiao cha tuo ding wei luo mu song dong	72
+钩尾销插托定位螺栓丢失	gou wei xiao cha tuo ding wei luo shuan diu shi	71
+钩尾销插托定位螺栓折断	gou wei xiao cha tuo ding wei luo shuan zhe duan	70
+钩尾销插托丢失	gou wei xiao cha tuo diu shi	69
+钩尾销螺母丢失	gou wei xiao luo mu diu shi	68
+钩尾销螺母松动	gou wei xiao luo mu song dong	67
+钩尾销托梁螺栓丢失	gou wei xiao tuo liang luo shuan diu shi	66
+钩尾销托梁螺栓折断	gou wei xiao tuo liang luo shuan zhe duan	65
+固定杠杆丢失	gu ding gang gan diu shi	381
+固定杠杆支点丢失	gu ding gang gan zhi dian diu shi	380
+固定杠杆支点折断	gu ding gang gan zhi dian zhe duan	379
+固定杠杆支点座丢失	gu ding gang gan zhi dian zuo diu shi	497
+固定杠杆支点座拉铆销丢失	gu ding gang gan zhi dian zuo la mao xiao diu shi	339
+固定杠杆支点座拉铆销套环丢失	gu ding gang gan zhi dian zuo la mao xiao tao huan diu shi	338
+固定杠杆支点座拉铆销折断	gu ding gang gan zhi dian zuo la mao xiao zhe duan	337
+固定杠杆支点座圆销丢失	gu ding gang gan zhi dian zuo yuan xiao diu shi	336
+固定杠杆支点座圆销折断	gu ding gang gan zhi dian zuo yuan xiao zhe duan	335
+固定杠杆支点座折断	gu ding gang gan zhi dian zuo zhe duan	496
+固定支点拉铆销丢失	gu ding zhi dian la mao xiao diu shi	334
+固定支点拉铆销套环丢失	gu ding zhi dian la mao xiao tao huan diu shi	333
+固定支点拉铆销折断	gu ding zhi dian la mao xiao zhe duan	332
+固定支点圆销丢失	gu ding zhi dian yuan xiao diu shi	331
+固定支点圆销开口销丢失	gu ding zhi dian yuan xiao kai kou xiao diu shi	272
+固定支点圆销开口销未劈	gu ding zhi dian yuan xiao kai kou xiao wei pi	271
+固定支点圆销开口销折断	gu ding zhi dian yuan xiao kai kou xiao zhe duan	270
+固定支点圆销折断	gu ding zhi dian yuan xiao zhe duan	330
+固定支点座圆销开口销丢失	gu ding zhi dian zuo yuan xiao kai kou xiao diu shi	269
+固定支点座圆销开口销未劈	gu ding zhi dian zuo yuan xiao kai kou xiao wei pi	268
+固定支点座圆销开口销折断	gu ding zhi dian zuo yuan xiao kai kou xiao zhe duan	267
+故障	gu zhang	681
+罐车走道有异物	guan che zou dao you yi wu	682
+管系	guan xi	216
+管系其他故障	guan xi qi ta gu zhang	214
+光圆销窜出	guang yuan xiao cuan chu	428
+光圆销丢失	guang yuan xiao diu shi	427
+光圆销开口销丢失	guang yuan xiao kai kou xiao diu shi	426
+光圆销开口销折断	guang yuan xiao kai kou xiao zhe duan	425
+滚动轴承	gun dong zhou cheng	28
+滚动轴承冒烟	gun dong zhou cheng mao yan	27
+滚动轴承密封罩脱出	gun dong zhou cheng mi feng zhao tuo chu	26
+滚动轴承其他故障	gun dong zhou cheng qi ta gu zhang	25
+滚动轴承前盖丢失	gun dong zhou cheng qian gai diu shi	24
+滚动轴承前盖破损	gun dong zhou cheng qian gai po sun	23
+滚动轴承施封锁丢失	gun dong zhou cheng shi feng suo diu shi	22
+滚动轴承施封锁开锁	gun dong zhou cheng shi feng suo kai suo	21
+滚动轴承甩油	gun dong zhou cheng shuai you	20
+滚动轴承外圈破损	gun dong zhou cheng wai quan po sun	19
+滚动轴承轴端螺栓丢失	gun dong zhou cheng zhou duan luo shuan diu shi	18
+滚动轴承轴端螺栓折断	gun dong zhou cheng zhou duan luo shuan zhe duan	17
+横跨梁安全链折断	heng kua liang an quan lian zhe duan	187
+横跨梁丢失	heng kua liang diu shi	186
+横跨梁折断	heng kua liang zhe duan	185
+横跨梁组装螺母丢失	heng kua liang zu zhuang luo mu diu shi	184
+横跨梁组装螺栓丢失	heng kua liang zu zhuang luo shuan diu shi	183
+横梁	heng liang	528
+横梁其他故障	heng liang qi ta gu zhang	527
+后从板座丢失	hou cong ban zuo diu shi	521
+后从板座破损	hou cong ban zuo po sun	520
+后从板座折断	hou cong ban zuo zhe duan	519
+互钩差超限	hu gou cha chao xian	95
+缓冲器	huan chong qi	35
+缓冲器其他故障	huan chong qi qi ta gu zhang	34
+缓冲器箱体破损	huan chong qi xiang ti po sun	33
+缓解阀拉杆吊脱落	huan jie fa la gan diao tuo luo	110
+缓解阀拉杆丢失	huan jie fa la gan diu shi	109
+缓解阀拉杆开口销丢失	huan jie fa la gan kai kou xiao diu shi	108
+缓解阀拉杆开口销未劈	huan jie fa la gan kai kou xiao wei pi	107
+缓解阀拉杆脱落	huan jie fa la gan tuo luo	106
+缓解阀拉杆折断	huan jie fa la gan zhe duan	105
+缓解装置	huan jie zhuang zhi	111
+缓解装置其他故障	huan jie zhuang zhi qi ta gu zhang	104
+货车车号自动识别标签丢失	huo che che hao zi dong shi bie biao qian diu shi	508
+货车车号自动识别标签破损	huo che che hao zi dong shi bie biao qian po sun	507
+集尘器	ji chen qi	180
+集尘器螺栓丢失	ji chen qi luo shuan diu shi	179
+集尘器其他故障	ji chen qi qi ta gu zhang	178
+集尘器体破损	ji chen qi ti po sun	177
+集尘器下体丢失	ji chen qi xia ti diu shi	176
+基础制动	ji chu zhi dong	421
+夹板螺栓丢失	jia ban luo shuan diu shi	447
+夹扣丢失	jia kou diu shi	418
+夹扣裂损	jia kou lie sun	417
+夹扣螺母丢失	jia kou luo mu diu shi	416
+夹扣螺栓丢失	jia kou luo shuan diu shi	415
+夹扣螺栓折断	jia kou luo shuan zhe duan	414
+夹扣折断	jia kou zhe duan	413
+加速缓解风缸吊架裂损	jia su huan jie feng gang diao jia lie sun	140
+加速缓解风缸吊架螺母丢失	jia su huan jie feng gang diao jia luo mu diu shi	139
+加速缓解风缸吊架螺母松动	jia su huan jie feng gang diao jia luo mu song dong	138
+加速缓解风缸吊架螺栓丢失	jia su huan jie feng gang diao jia luo shuan diu shi	137
+加速缓解风缸吊架螺栓折断	jia su huan jie feng gang diao jia luo shuan zhe duan	136
+加速缓解风缸缸体丢失	jia su huan jie feng gang gang ti diu shi	162
+加速缓解风缸缸体脱落	jia su huan jie feng gang gang ti tuo luo	161
+加速缓解风缸排水堵丢失	jia su huan jie feng gang pai shui du diu shi	160
+加温装置	jia wen zhuang zhi	570
+加温装置其它故障	jia wen zhuang zhi qi ta gu zhang	569
+减振器吊环丢失	jian zhen qi diao huan diu shi	486
+减振弹簧窜出	jian zhen tan huang cuan chu	462
+减振弹簧丢失	jian zhen tan huang diu shi	461
+减振弹簧折损	jian zhen tan huang zhe sun	460
+降压气室吊架裂损	jiang ya qi shi diao jia lie sun	135
+降压气室吊架螺母丢失	jiang ya qi shi diao jia luo mu diu shi	134
+降压气室吊架螺母松动	jiang ya qi shi diao jia luo mu song dong	133
+降压气室吊架螺栓丢失	jiang ya qi shi diao jia luo shuan diu shi	132
+降压气室吊架螺栓折断	jiang ya qi shi diao jia luo shuan zhe duan	131
+降压气室缸体丢失	jiang ya qi shi gang ti diu shi	159
+降压气室缸体脱落	jiang ya qi shi gang ti tuo luo	158
+降压气室卡带折损	jiang ya qi shi ka dai zhe sun	130
+降压气室排水堵丢失	jiang ya qi shi pai shui du diu shi	157
+交叉杆盖板裂损	jiao cha gan gai ban lie sun	446
+交叉杆盖板弯曲	jiao cha gan gai ban wan qu	445
+交叉杆盖板折断	jiao cha gan gai ban zhe duan	444
+交叉杆杆体裂损	jiao cha gan gan ti lie sun	443
+交叉杆杆体弯曲	jiao cha gan gan ti wan qu	442
+交叉杆杆体折断	jiao cha gan gan ti zhe duan	441
+交叉杆上部搭载异物	jiao cha gan shang bu da zai yi wu	12
+交叉杆支撑装置	jiao cha gan zhi cheng zhuang zhi	453
+交叉杆支座破损	jiao cha gan zhi zuo po sun	440
+交叉支撑装置其他故障	jiao cha zhi cheng zhuang zhi qi ta gu zhang	439
+脚蹬变形	jiao deng bian xing	549
+脚蹬丢失	jiao deng diu shi	548
+脚蹬破损	jiao deng po sun	547
+角柱裂损	jiao zhu lie sun	661
+截断塞门手把关闭	jie duan sai men shou ba guan bi	197
+紧固螺母丢失	jin gu luo mu diu shi	438
+卡带圆销丢失	ka dai yuan xiao diu shi	572
+卡带折断	ka dai zhe duan	571
+开口销	kai kou xiao	276
+开口销其他故障	kai kou xiao qi ta gu zhang	266
+空气制动	kong qi zhi dong	217
+空重车调整装置	kong zhong che tiao zheng zhuang zhi	190
+空重车调整装置连接管法兰丢失	kong zhong che tiao zheng zhuang zhi lian jie guan fa lan diu shi	213
+空重车调整装置其他故障	kong zhong che tiao zheng zhuang zhi qi ta gu zhang	182
+拉杆杠杆	la gan gang gan	385
+拉杆杠杆其他故障	la gan gang gan qi ta gu zhang	378
+连接杆裂损	lian jie gan lie sun	424
+连接杠杆丢失	lian jie gang gan diu shi	377
+连接杠杆拉铆销丢失	lian jie gang gan la mao xiao diu shi	329
+连接杠杆拉铆销套环丢失	lian jie gang gan la mao xiao tao huan diu shi	328
+连接杠杆拉铆销折断	lian jie gang gan la mao xiao zhe duan	327
+连接杠杆托架破损	lian jie gang gan tuo jia po sun	376
+连接杠杆托架脱落	lian jie gang gan tuo jia tuo luo	375
+连接杠杆圆销丢失	lian jie gang gan yuan xiao diu shi	326
+连接杠杆圆销折断	lian jie gang gan yuan xiao zhe duan	325
+连接杠杆折断	lian jie gang gan zhe duan	374
+连接管法兰螺母丢失	lian jie guan fa lan luo mu diu shi	212
+连接管法兰螺栓丢失	lian jie guan fa lan luo shuan diu shi	211
+连接管折断	lian jie guan zhe duan	210
+流砟板破损	liu zha ban po sun	562
+轮对	lun dui	32
+轮对径向装置	lun dui jing xiang zhuang zhi	430
+轮对径向装置其他故障	lun dui jing xiang zhuang zhi qi ta gu zhang	423
+门锁搭扣丢失	men suo da kou diu shi	632
+门锁钩丢失	men suo gou diu shi	631
+门锁钩环丢失	men suo gou huan diu shi	630
+门锁钩座丢失	men suo gou zuo diu shi	629
+木地板破损	mu di ban po sun	675
+排水装置	pai shui zhuang zhi	560
+排水装置其它故障	pai shui zhuang zhi qi ta gu zhang	559
+排油装置	pai you zhuang zhi	568
+排油装置其它故障	pai you zhuang zhi qi ta gu zhang	567
+前从板座丢失	qian cong ban zuo diu shi	518
+前从板座破损	qian cong ban zuo po sun	517
+前从板座折断	qian cong ban zuo zhe duan	516
+牵引杆杆身裂损	qian yin gan gan shen lie sun	94
+牵引梁	qian yin liang	515
+牵引梁破损	qian yin liang po sun	513
+牵引梁其他故障	qian yin liang qi ta gu zhang	512
+牵引梁弯曲	qian yin liang wan qu	511
+人力制动机	ren li zhi dong ji	233
+人力制动机紧固	ren li zhi dong ji jin gu	232
+人力制动机拉杆吊架丢失	ren li zhi dong ji la gan diao jia diu shi	231
+人力制动机拉杆吊架破损	ren li zhi dong ji la gan diao jia po sun	230
+人力制动机拉杆丢失	ren li zhi dong ji la gan diu shi	229
+人力制动机拉杆链丢失	ren li zhi dong ji la gan lian diu shi	228
+人力制动机拉杆链脱落	ren li zhi dong ji la gan lian tuo luo	227
+人力制动机拉杆链折断	ren li zhi dong ji la gan lian zhe duan	226
+人力制动机拉杆折断	ren li zhi dong ji la gan zhe duan	225
+人力制动机链条滑轮丢失	ren li zhi dong ji lian tiao hua lun diu shi	224
+人力制动机其他故障	ren li zhi dong ji qi ta gu zhang	223
+人力制动机轴导架脱落	ren li zhi dong ji zhou dao jia tuo luo	222
+人力制动机轴导架折断	ren li zhi dong ji zhou dao jia zhe duan	221
+人力制动机轴链绑铁丝	ren li zhi dong ji zhou lian bang tie si	5
+人力制动机轴链丢失	ren li zhi dong ji zhou lian diu shi	220
+人力制动机轴链脱落	ren li zhi dong ji zhou lian tuo luo	219
+人力制动机轴链折断	ren li zhi dong ji zhou lian zhe duan	218
+容积风缸缸体丢失	rong ji feng gang gang ti diu shi	156
+容积风缸缸体脱落	rong ji feng gang gang ti tuo luo	155
+容积风缸排水堵丢失	rong ji feng gang pai shui du diu shi	154
+塞门	sai men	198
+塞门其他故障	sai men qi ta gu zhang	196
+上端梁破损	shang duan liang po sun	667
+上拉杆绑铁丝	shang la gan bang tie si	3
+上拉杆窜出	shang la gan cuan chu	373
+上拉杆吊架丢失	shang la gan diao jia diu shi	506
+上拉杆吊架脱落	shang la gan diao jia tuo luo	505
+上拉杆丢失	shang la gan diu shi	372
+上拉杆拉铆销丢失	shang la gan la mao xiao diu shi	324
+上拉杆拉铆销套环丢失	shang la gan la mao xiao tao huan diu shi	323
+上拉杆拉铆销折断	shang la gan la mao xiao zhe duan	322
+上拉杆托架破损	shang la gan tuo jia po sun	371
+上拉杆托架脱落	shang la gan tuo jia tuo luo	370
+上拉杆圆销丢失	shang la gan yuan xiao diu shi	321
+上拉杆圆销开口销丢失	shang la gan yuan xiao kai kou xiao diu shi	265
+上拉杆圆销开口销未劈	shang la gan yuan xiao kai kou xiao wei pi	264
+上拉杆圆销开口销折断	shang la gan yuan xiao kai kou xiao zhe duan	263
+上拉杆圆销折断	shang la gan yuan xiao zhe duan	320
+上拉杆折断	shang la gan zhe duan	369
+绳栓丢失	sheng shuan diu shi	546
+绳栓破损	sheng shuan po sun	545
+双室风缸吊架裂损	shuang shi feng gang diao jia lie sun	129
+双室风缸吊架螺栓丢失	shuang shi feng gang diao jia luo shuan diu shi	128
+双室风缸缸体丢失	shuang shi feng gang gang ti diu shi	153
+双室风缸缸体脱落	shuang shi feng gang gang ti tuo luo	152
+双室风缸排水堵丢失	shuang shi feng gang pai shui du diu shi	151
+水平杠杆丢失	shui ping gang gan diu shi	368
+水平杠杆拉铆销丢失	shui ping gang gan la mao xiao diu shi	319
+水平杠杆拉铆销套环丢失	shui ping gang gan la mao xiao tao huan diu shi	318
+水平杠杆拉铆销折断	shui ping gang gan la mao xiao zhe duan	317
+水平杠杆圆销丢失	shui ping gang gan yuan xiao diu shi	316
+水平杠杆圆销折断	shui ping gang gan yuan xiao zhe duan	315
+水平杠杆折断	shui ping gang gan zhe duan	367
+锁紧板丢失	suo jin ban diu shi	437
+锁紧板移位	suo jin ban yi wei	436
+弹簧托板变形	tan huang tuo ban bian xing	480
+弹簧托板裂损	tan huang tuo ban lie sun	479
+弹簧托板折头螺母丢失	tan huang tuo ban zhe tou luo mu diu shi	478
+弹簧托板折头螺栓丢失	tan huang tuo ban zhe tou luo shuan diu shi	477
+弹簧托板折头螺栓折断	tan huang tuo ban zhe tou luo shuan zhe duan	476
+弹簧支柱扁销丢失	tan huang zhi zhu bian xiao diu shi	464
+弹簧组丢失	tan huang zu diu shi	463
+调整阀丢失	tiao zheng fa diu shi	189
+调整阀配件丢失	tiao zheng fa pei jian diu shi	188
+调整阀组装螺栓丢失	tiao zheng fa zu zhuang luo shuan diu shi	2
+图片曝光无法判断	tu pian bao guang wu fa pan duan	15
+脱轨自动制动阀拉环变形	tuo gui zi dong zhi dong fa la huan bian xing	7
+脱轨自动制动阀塞门手把关闭	tuo gui zi dong zhi dong fa sai men shou ba guan bi	195
+脱轨自动制动装置	tuo gui zi dong zhi dong zhuang zhi	115
+脱轨自动制动装置拉环丢失	tuo gui zi dong zhi dong zhuang zhi la huan diu shi	114
+脱轨自动制动装置拉环脱落	tuo gui zi dong zhi dong zhuang zhi la huan tuo luo	113
+脱轨自动制动装置其他故障	tuo gui zi dong zhi dong zhuang zhi qi ta gu zhang	112
+外车窗板丢失	wai che chuang ban diu shi	575
+下侧门	xia ce men	606
+下侧门搭扣丢失	xia ce men da kou diu shi	603
+下侧门搭扣座丢失	xia ce men da kou zuo diu shi	602
+下侧门搭扣座折损	xia ce men da kou zuo zhe sun	601
+下侧门丢失	xia ce men diu shi	600
+下侧门开放	xia ce men kai fang	599
+下侧门门板破损	xia ce men men ban po sun	598
+下侧门门折页丢失	xia ce men men zhe ye diu shi	597
+下侧门门折页折断	xia ce men men zhe ye zhe duan	596
+下侧门门折页折损	xia ce men men zhe ye zhe sun	595
+下侧门其他故障	xia ce men qi ta gu zhang	594
+下侧门脱落	xia ce men tuo luo	593
+下侧门折页圆销丢失	xia ce men zhe ye yuan xiao diu shi	592
+下侧门折页座丢失	xia ce men zhe ye zuo diu shi	591
+下侧门折页座折断	xia ce men zhe ye zuo zhe duan	590
+下侧门折页座折损	xia ce men zhe ye zuo zhe sun	589
+下拉杆丢失	xia la gan diu shi	366
+下拉杆拉铆销丢失	xia la gan la mao xiao diu shi	314
+下拉杆拉铆销套环丢失	xia la gan la mao xiao tao huan diu shi	313
+下拉杆拉铆销折断	xia la gan la mao xiao zhe duan	312
+下拉杆圆销丢失	xia la gan yuan xiao diu shi	311
+下拉杆圆销开口销丢失	xia la gan yuan xiao kai kou xiao diu shi	262
+下拉杆圆销开口销未劈	xia la gan yuan xiao kai kou xiao wei pi	261
+下拉杆圆销开口销折断	xia la gan yuan xiao kai kou xiao zhe duan	260
+下拉杆圆销折断	xia la gan yuan xiao zhe duan	310
+下拉杆折断	xia la gan zhe duan	365
+下锁销组成脱落	xia suo xiao zu cheng tuo luo	87
+下心盘	xia xin pan	470
+限压阀配件丢失	xian ya fa pei jian diu shi	181
+橡胶垫裂损	xiang jiao dian lie sun	422
+小横梁裂损	xiao heng liang lie sun	526
+小横梁折断	xiao heng liang zhe duan	525
+斜楔裂损	xie xie lie sun	8
+心盘错位	xin pan cuo wei	469
+心盘螺栓丢失	xin pan luo shuan diu shi	468
+心盘螺栓折损	xin pan luo shuan zhe sun	467
+心盘其他故障	xin pan qi ta gu zhang	466
+押运间车门丢失	ya yun jian che men diu shi	628
+押运间车门破损	ya yun jian che men po sun	627
+摇枕本体	yao zhen ben ti	501
+摇枕附件	yao zhen fu jian	498
+摇枕附件其他故障	yao zhen fu jian qi ta gu zhang	495
+摇枕裂损	yao zhen lie sun	500
+摇枕其他故障	yao zhen qi ta gu zhang	499
+摇枕弹簧窜出	yao zhen tan huang cuan chu	459
+摇枕弹簧丢失	yao zhen tan huang diu shi	458
+摇枕弹簧折断	yao zhen tan huang zhe duan	457
+摇枕斜楔摩擦面磨耗板窜出	yao zhen xie xie mo ca mian mo hao ban cuan chu	494
+移动杠杆丢失	yi dong gang gan diu shi	364
+浴盆破损	yu pen po sun	674
+圆弹簧	yuan tan huang	465
+圆弹簧其他故障	yuan tan huang qi ta gu zhang	456
+圆销	yuan xiao	345
+圆销其他故障	yuan xiao qi ta gu zhang	309
+闸调器	zha tiao qi	238
+闸调器吊架丢失	zha tiao qi diao jia diu shi	504
+闸调器吊架脱落	zha tiao qi diao jia tuo luo	503
+闸调器丢失	zha tiao qi diu shi	237
+闸调器控制杠杆丢失	zha tiao qi kong zhi gang gan diu shi	363
+闸调器控制杠杆拉铆销丢失	zha tiao qi kong zhi gang gan la mao xiao diu shi	308
+闸调器控制杠杆拉铆销套环丢失	zha tiao qi kong zhi gang gan la mao xiao tao huan diu shi	307
+闸调器控制杠杆拉铆销折断	zha tiao qi kong zhi gang gan la mao xiao zhe duan	306
+闸调器控制杠杆托架破损	zha tiao qi kong zhi gang gan tuo jia po sun	362
+闸调器控制杠杆托架脱落	zha tiao qi kong zhi gang gan tuo jia tuo luo	361
+闸调器控制杠杆圆销丢失	zha tiao qi kong zhi gang gan yuan xiao diu shi	305
+闸调器控制杠杆圆销开口销丢失	zha tiao qi kong zhi gang gan yuan xiao kai kou xiao diu shi	259
+闸调器控制杠杆圆销开口销未劈	zha tiao qi kong zhi gang gan yuan xiao kai kou xiao wei pi	258
+闸调器控制杠杆圆销开口销折断	zha tiao qi kong zhi gang gan yuan xiao kai kou xiao zhe duan	257
+闸调器控制杠杆圆销折断	zha tiao qi kong zhi gang gan yuan xiao zhe duan	304
+闸调器控制杠杆折断	zha tiao qi kong zhi gang gan zhe duan	360
+闸调器连接杆丢失	zha tiao qi lian jie gan diu shi	359
+闸调器连接杆拉铆销丢失	zha tiao qi lian jie gan la mao xiao diu shi	303
+闸调器连接杆拉铆销套环丢失	zha tiao qi lian jie gan la mao xiao tao huan diu shi	302
+闸调器连接杆拉铆销折断	zha tiao qi lian jie gan la mao xiao zhe duan	301
+闸调器连接杆圆销丢失	zha tiao qi lian jie gan yuan xiao diu shi	300
+闸调器连接杆圆销开口销丢失	zha tiao qi lian jie gan yuan xiao kai kou xiao diu shi	256
+闸调器连接杆圆销开口销未劈	zha tiao qi lian jie gan yuan xiao kai kou xiao wei pi	255
+闸调器连接杆圆销开口销折断	zha tiao qi lian jie gan yuan xiao kai kou xiao zhe duan	254
+闸调器连接杆圆销折断	zha tiao qi lian jie gan yuan xiao zhe duan	299
+闸调器连接杆折断	zha tiao qi lian jie gan zhe duan	358
+闸调器连接螺母丢失	zha tiao qi lian jie luo mu diu shi	236
+闸调器破损	zha tiao qi po sun	235
+闸调器其他故障	zha tiao qi qi ta gu zhang	234
+闸瓦	zha wa	394
+闸瓦插销窜出	zha wa cha xiao cuan chu	393
+闸瓦插销丢失	zha wa cha xiao diu shi	392
+闸瓦插销折断	zha wa cha xiao zhe duan	391
+闸瓦丢失	zha wa diu shi	390
+闸瓦厚度超限	zha wa hou du chao xian	389
+闸瓦其他故障	zha wa qi ta gu zhang	388
+闸瓦缺损	zha wa que sun	387
+闸瓦托吊开口销丢失	zha wa tuo diao kai kou xiao diu shi	253
+闸瓦托吊开口销未劈	zha wa tuo diao kai kou xiao wei pi	252
+闸瓦托吊开口销折断	zha wa tuo diao kai kou xiao zhe duan	251
+闸瓦托吊圆销丢失	zha wa tuo diao yuan xiao diu shi	298
+闸瓦托吊圆销折断	zha wa tuo diao yuan xiao zhe duan	297
+闸瓦托吊折断	zha wa tuo diao zhe duan	412
+闸瓦托铆钉丢失	zha wa tuo mao ding diu shi	411
+闸瓦托铆钉折断	zha wa tuo mao ding zhe duan	410
+闸瓦托磨损	zha wa tuo mo sun	409
+闸瓦折断	zha wa zhe duan	386
+折角塞门手把丢失	zhe jiao sai men shou ba diu shi	194
+折角塞门手把关闭	zhe jiao sai men shou ba guan bi	193
+折角塞门手把角度不正位	zhe jiao sai men shou ba jiao du bu zheng wei	192
+折角塞门手把折损	zhe jiao sai men shou ba zhe sun	191
+折角塞门锁紧螺帽脱出	zhe jiao sai men suo jin luo mao tuo chu	4
+枕梁	zhen liang	531
+枕梁孔有异物	zhen liang kong you yi wu	13
+枕梁其他故障	zhen liang qi ta gu zhang	530
+枕梁下盖板裂损	zhen liang xia gai ban lie sun	529
+支撑座破损	zhi cheng zuo po sun	473
+止挡铁螺母丢失	zhi dang tie luo mu diu shi	38
+止挡铁螺栓丢失	zhi dang tie luo shuan diu shi	37
+止挡铁螺栓折断	zhi dang tie luo shuan zhe duan	36
+制动阀	zhi dong fa	122
+制动阀丢失	zhi dong fa diu shi	121
+制动阀防盗罩破损	zhi dong fa fang dao zhao po sun	1
+制动阀防盗装置丢失	zhi dong fa fang dao zhuang zhi diu shi	120
+制动阀防盗装置脱落	zhi dong fa fang dao zhuang zhi tuo luo	119
+制动阀配件丢失	zhi dong fa pei jian diu shi	118
+制动阀其他故障	zhi dong fa qi ta gu zhang	117
+制动缸	zhi dong gang	175
+制动缸吊架裂损	zhi dong gang diao jia lie sun	127
+制动缸吊架螺母丢失	zhi dong gang diao jia luo mu diu shi	126
+制动缸吊架螺母松动	zhi dong gang diao jia luo mu song dong	125
+制动缸吊架螺栓丢失	zhi dong gang diao jia luo shuan diu shi	124
+制动缸吊架螺栓折断	zhi dong gang diao jia luo shuan zhe duan	123
+制动杠杆托架丢失	zhi dong gang gan tuo jia diu shi	348
+制动缸杠杆拉铆销丢失	zhi dong gang gang gan la mao xiao diu shi	296
+制动缸杠杆拉铆销套环丢失	zhi dong gang gang gan la mao xiao tao huan diu shi	295
+制动缸杠杆拉铆销折断	zhi dong gang gang gan la mao xiao zhe duan	294
+制动缸杠杆圆销丢失	zhi dong gang gang gan yuan xiao diu shi	293
+制动缸杠杆圆销折断	zhi dong gang gang gan yuan xiao zhe duan	292
+制动缸缸体脱落	zhi dong gang gang ti tuo luo	174
+制动缸后堵丢失	zhi dong gang hou du diu shi	173
+制动缸后杠杆丢失	zhi dong gang hou gang gan diu shi	357
+制动缸后杠杆托架破损	zhi dong gang hou gang gan tuo jia po sun	356
+制动缸后杠杆托架脱落	zhi dong gang hou gang gan tuo jia tuo luo	355
+制动缸后杠杆折断	zhi dong gang hou gang gan zhe duan	354
+制动缸活塞推杆丢失	zhi dong gang huo sai tui gan diu shi	353
+制动缸活塞推杆拉铆销丢失	zhi dong gang huo sai tui gan la mao xiao diu shi	291
+制动缸活塞推杆拉铆销套环丢失	zhi dong gang huo sai tui gan la mao xiao tao huan diu shi	290
+制动缸活塞推杆拉铆销折断	zhi dong gang huo sai tui gan la mao xiao zhe duan	289
+制动缸活塞推杆圆销丢失	zhi dong gang huo sai tui gan yuan xiao diu shi	288
+制动缸活塞推杆圆销开口销丢失	zhi dong gang huo sai tui gan yuan xiao kai kou xiao diu shi	250
+制动缸活塞推杆圆销开口销未劈	zhi dong gang huo sai tui gan yuan xiao kai kou xiao wei pi	249
+制动缸活塞推杆圆销开口销折断	zhi dong gang huo sai tui gan yuan xiao kai kou xiao zhe duan	248
+制动缸活塞推杆圆销折断	zhi dong gang huo sai tui gan yuan xiao zhe duan	287
+制动缸连接管法兰丢失	zhi dong gang lian jie guan fa lan diu shi	208
+制动缸其他故障	zhi dong gang qi ta gu zhang	172
+制动缸前杠杆丢失	zhi dong gang qian gang gan diu shi	352
+制动缸前杠杆托架破损	zhi dong gang qian gang gan tuo jia po sun	351
+制动缸前杠杆托架脱落	zhi dong gang qian gang gan tuo jia tuo luo	350
+制动缸前杠杆折断	zhi dong gang qian gang gan zhe duan	349
+制动机缓解不良	zhi dong ji huan jie bu liang	116
+制动梁安全吊丢失	zhi dong liang an quan diao diu shi	408
+制动梁安全吊脱落	zhi dong liang an quan diao tuo luo	407
+制动梁安全链丢失	zhi dong liang an quan lian diu shi	406
+制动梁安全链脱落	zhi dong liang an quan lian tuo luo	405
+制动梁安全链折断	zhi dong liang an quan lian zhe duan	404
+制动梁弓形杆裂损	zhi dong liang gong xing gan lie sun	403
+制动梁弓形杆折断	zhi dong liang gong xing gan zhe duan	402
+制动梁滚子轴开口销丢失	zhi dong liang gun zi zhou kai kou xiao diu shi	247
+制动梁滚子轴开口销未劈	zhi dong liang gun zi zhou kai kou xiao wei pi	246
+制动梁滚子轴开口销折断	zhi dong liang gun zi zhou kai kou xiao zhe duan	245
+制动梁滑槽磨耗板窜出	zhi dong liang hua cao mo hao ban cuan chu	472
+制动梁梁体	zhi dong liang liang ti	420
+制动梁梁体变形	zhi dong liang liang ti bian xing	401
+制动梁梁体裂损	zhi dong liang liang ti lie sun	400
+制动梁梁体其他故障	zhi dong liang liang ti qi ta gu zhang	399
+制动梁梁体脱落	zhi dong liang liang ti tuo luo	398
+制动梁梁体折断	zhi dong liang liang ti zhe duan	397
+制动梁支柱拉铆销丢失	zhi dong liang zhi zhu la mao xiao diu shi	286
+制动梁支柱拉铆销套环丢失	zhi dong liang zhi zhu la mao xiao tao huan diu shi	285
+制动梁支柱拉铆销折断	zhi dong liang zhi zhu la mao xiao zhe duan	284
+制动梁支柱裂损	zhi dong liang zhi zhu lie sun	396
+制动梁支柱圆销丢失	zhi dong liang zhi zhu yuan xiao diu shi	283
+制动梁支柱圆销开口销丢失	zhi dong liang zhi zhu yuan xiao kai kou xiao diu shi	244
+制动梁支柱圆销开口销未劈	zhi dong liang zhi zhu yuan xiao kai kou xiao wei pi	243
+制动梁支柱圆销开口销折断	zhi dong liang zhi zhu yuan xiao kai kou xiao zhe duan	242
+制动梁支柱圆销折断	zhi dong liang zhi zhu yuan xiao zhe duan	282
+制动梁支柱折断	zhi dong liang zhi zhu zhe duan	395
+制动软管吊链组成丢失	zhi dong ruan guan diao lian zu cheng diu shi	202
+制动软管吊链组成脱落	zhi dong ruan guan diao lian zu cheng tuo luo	201
+制动软管角度不正位	zhi dong ruan guan jiao du bu zheng wei	200
+制动软管破损	zhi dong ruan guan po sun	199
+制动支管法兰丢失	zhi dong zhi guan fa lan diu shi	207
+支管折损	zhi guan zhe sun	209
+中侧门上门锁开关柄丢失	zhong ce men shang men suo kai guan bing diu shi	626
+中侧门上门锁开关柄弯曲	zhong ce men shang men suo kai guan bing wan qu	625
+中侧门上门锁开关柄止挡丢失	zhong ce men shang men suo kai guan bing zhi dang diu shi	624
+中侧门上门锁开关柄止挡弯曲	zhong ce men shang men suo kai guan bing zhi dang wan qu	623
+中侧门上锁开闭杆变形	zhong ce men shang suo kai bi gan bian xing	622
+中侧门上锁开闭杆丢失	zhong ce men shang suo kai bi gan diu shi	621
+中侧门上锁开闭杆固定座变形	zhong ce men shang suo kai bi gan gu ding zuo bian xing	620
+中侧门上锁开闭杆固定座丢失	zhong ce men shang suo kai bi gan gu ding zuo diu shi	619
+中侧门上锁开闭杆折损	zhong ce men shang suo kai bi gan zhe sun	618
+中侧门上锁锁铁变形	zhong ce men shang suo suo tie bian xing	617
+中侧门上锁锁铁丢失	zhong ce men shang suo suo tie diu shi	616
+中侧门上锁销丢失	zhong ce men shang suo xiao diu shi	615
+中侧门上锁销座丢失	zhong ce men shang suo xiao zuo diu shi	614
+中侧门锁盒变形	zhong ce men suo he bian xing	613
+中侧门锁铁座变形	zhong ce men suo tie zuo bian xing	612
+中侧门锁铁座丢失	zhong ce men suo tie zuo diu shi	611
+中侧门下锁开闭杆固定座变形	zhong ce men xia suo kai bi gan gu ding zuo bian xing	610
+中侧门下锁开闭杆固定座丢失	zhong ce men xia suo kai bi gan gu ding zuo diu shi	609
+中侧门下锁锁铁变形	zhong ce men xia suo suo tie bian xing	608
+中侧门下锁锁铁丢失	zhong ce men xia suo suo tie diu shi	607
+中拉杆丢失	zhong la gan diu shi	347
+中拉杆拉铆销丢失	zhong la gan la mao xiao diu shi	281
+中拉杆拉铆销套环丢失	zhong la gan la mao xiao tao huan diu shi	280
+中拉杆拉铆销折断	zhong la gan la mao xiao zhe duan	279
+中拉杆圆销丢失	zhong la gan yuan xiao diu shi	278
+中拉杆圆销开口销丢失	zhong la gan yuan xiao kai kou xiao diu shi	241
+中拉杆圆销开口销未劈	zhong la gan yuan xiao kai kou xiao wei pi	240
+中拉杆圆销开口销折断	zhong la gan yuan xiao kai kou xiao zhe duan	239
+中拉杆圆销折断	zhong la gan yuan xiao zhe duan	277
+中拉杆折断	zhong la gan zhe duan	346
+中梁	zhong liang	541
+中梁裂损	zhong liang lie sun	540
+中梁其他故障	zhong liang qi ta gu zhang	539
+中漏斗板破损	zhong lou dou ban po sun	561
+轴箱弹簧丢失	zhou xiang tan huang diu shi	455
+轴箱弹簧折断	zhou xiang tan huang zhe duan	454
+轴箱橡胶垫裂损	zhou xiang xiang jiao dian lie sun	471
+柱插丢失	zhu cha diu shi	544
+柱插脱落	zhu cha tuo luo	543
+主管端接管折损	zhu guan duan jie guan zhe sun	206
+主管折损	zhu guan zhe sun	205
+转向架	zhuan xiang jia	502
+纵向梁折断	zong xiang liang zhe duan	524
