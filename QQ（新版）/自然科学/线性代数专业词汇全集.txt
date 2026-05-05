@@ -1,0 +1,394 @@
+# 词库名称: 线性代数专业词汇全集
+# 词库分类: 理工类
+# 词库描述: 本词库根据樊恽、郑延履编，科学出版社2004年出版《线性代数与几何引论》名词索引创建，含有线性代数与解析几何初步两部分内容，适用于数学专业以及工科、经济类线性代数应用。例词：埃尔米特矩阵，伴随映射，补子空间，初等旋转矩阵，代数重数，对偶空间，仿射等价，合同标准形，基础解系，渐近锥面，离差向量，谱定理，射影平面，酉空间，直纹面，主轴定理，子式因子组，最佳平方逼近解……
+# 词条样例: 埃尔米特对称型、按行按列展开、伴随映射、倍法矩阵、倍式
+# 解析词数: 387
+# 解析异常: 0
+
+埃尔米特变换	ai er mi te bian huan	387
+埃尔米特对称矩阵	ai er mi te dui chen ju zhen	386
+埃尔米特对称型	ai er mi te dui chen xing	385
+埃尔米特对称	ai er mi te dui cheng	384
+按行按列展开	an xing an lie zhan kai	383
+半负定的	ban fu ding de	380
+伴随矩阵	ban sui ju zhen	382
+伴随映射	ban sui ying she	381
+半线性	ban xian xing	379
+半正定的	ban zheng ding de	378
+保距同构	bao ju tong gou	366
+保距映射	bao ju ying she	365
+倍法变换	bei fa bian huan	377
+倍法矩阵	bei fa ju zhen	376
+倍式	bei shi	375
+本原单位根	ben yuan dan wei gen	374
+变换	bian huan	371
+变换矩阵	bian huan ju zhen	373
+变换群	bian huan qun	372
+标准分解式	biao zhun fen jie shi	370
+标准基底	biao zhun ji di	369
+标准正交基	biao zhun zheng jiao ji	368
+标准正交组	biao zhun zheng jiao zu	367
+不变因子组	bu bian yin zi zu	363
+不变子空间	bu bian zi kong jian	362
+不定的	bu ding de	361
+不定元	bu ding yuan	360
+不可约	bu ke yue	359
+补子空间	bu zi kong jian	364
+参数方程	can shu fang cheng	358
+尺码	chi ma	349
+重根	chong gen	30
+初等变换	chu deng bian huan	357
+初等反射矩阵	chu deng fan she ju zhen	356
+初等矩阵	chu deng ju zhen	355
+初等列变换	chu deng lie bian huan	353
+初等行变换	chu deng xing bian huan	354
+初等旋转矩阵	chu deng xuan zhuan ju zhen	352
+初等因子组	chu deng yin zi zu	351
+除环	chu huan	350
+纯量变换	chun liang bian huan	348
+纯量积	chun liang ji	347
+纯量矩阵	chun liang ju zhen	346
+次数	ci shu	344
+次数公式	ci shu gong shi	345
+代数重数	dai shu chong shu	340
+代数基本定理	dai shu ji ben ding li	343
+代数系统	dai shu xi tong	342
+代数余子式	dai shu yu zi shi	341
+单根	dan gen	333
+单射	dan she	332
+单同态	dan tong tai	331
+单位	dan wei	325
+单位根	dan wei gen	330
+单位矩阵	dan wei ju zhen	329
+单位理想	dan wei li xiang	326
+单位向量	dan wei xiang liang	328
+单位正法向量	dan wei zheng fa xiang liang	327
+等价标准形	deng jia biao zhun xing	339
+等价不变量	deng jia bu bian liang	338
+等价类	deng jia lei	337
+典型埃尔米特内积	dian xing ai er mi te nei ji	336
+典型基矩阵	dian xing ji ju zhen	335
+典型内积	dian xing nei ji	334
+定比分点	ding bi fen dian	324
+顶点	ding dian	323
+对称变换	dui chen bian huan	322
+对称的	dui chen de	321
+对称矩阵	dui chen ju zhen	320
+对换矩阵	dui huan ju zhen	319
+对角行列式	dui jiao hang lie shi	317
+对角矩阵	dui jiao ju zhen	318
+对偶空间	dui ou kong jian	316
+对偶命题	dui ou ming ti	315
+对偶射影平面	dui ou she ying ping mian	314
+对偶图形	dui ou tu xing	313
+对偶原理	dui ou yuan li	312
+对应齐次线性方程组	dui ying qi ci xian xing fang cheng zu	311
+多重线性	duo chong xian xing	308
+多项式环	duo xiang shi huan	310
+多项式矩阵	duo xiang shi ju zhen	309
+二重外积公式	er chong wai ji gong shi	300
+二次齐式	er ci qi shi	307
+二次曲面	er ci qu mian	306
+二次曲线	er ci qu xian	305
+二次型	er ci xing	302
+二次型的标准型	er ci xing de biao zhun xing	304
+二次型的秩	er ci xing de zhi	303
+二次锥面	er ci zhui mian	301
+法方向角	fa fang xiang jiao	299
+法方向数	fa fang xiang shu	298
+法距	fa ju	297
+法线	fa xian	294
+法线式方程	fa xian shi fang cheng	295
+法向量	fa xiang liang	296
+范德蒙德行列式	fan de meng de hang lie shi	291
+反对称矩阵	fan dui chen ju zhen	293
+反射矩阵	fan she ju zhen	292
+范数	fan shu	290
+仿射变换群	fang she bian huan qun	284
+仿射几何	fang she ji he	283
+仿射子空间	fang she zi kong jian	282
+仿射坐标系	fang she zuo biao xi	281
+方向角	fang xiang jiao	289
+方向数	fang xiang shu	288
+方向向量	fang xiang xiang liang	287
+方向余弦	fang xiang yu xian	286
+方阵	fang zhen	285
+非齐次线性方程组	fei qi ci xian xing fang cheng zu	280
+非退化二次型	fei tui hua er ci xing	279
+非退化矩阵	fei tui hua ju zhen	278
+分量	fen liang	277
+负定的	fu ding de	273
+负惯性指数	fu guan xing zhi shu	272
+复矩阵	fu ju zhen	276
+复数域	fu shu yu	275
+复向量空间	fu xiang liang kong jian	274
+高斯消去法	gao si xiao qu fa	270
+高斯引理	gao si yin li	269
+高斯整数环	gao si zheng shu huan	268
+格拉姆矩阵	ge la mu ju zhen	271
+共轭映射	gong e ying she	264
+共面	gong mian	266
+共线	gong xian	265
+公因式	gong yin shi	267
+关联	guan lian	263
+惯性定理	guan xing ding li	259
+广义逆	guang yi ni	261
+广义逆定理	guang yi ni ding li	262
+过渡矩阵	guo du ju zhen	260
+行列式	hang lie shi	257
+行列式因子	hang lie shi yin zi	258
+行秩	hang zhi	254
+合同	he tong	250
+合同变换	he tong bian huan	252
+合同标准型	he tong biao zhun xing	251
+和子空间	he zi kong jian	253
+恒等变换	heng deng bian huan	249
+恒等自同构	heng deng zi tong gou	248
+互素	hu su	246
+环同态	huan tong tai	247
+混合积	hun he ji	245
+基础解系	ji chu jie xi	244
+极大线性无关集	ji da xian xing wu guan ji	241
+极大线性无关组	ji da xian xing wu guan zu	240
+基底	ji di	243
+几何重数	ji he chong shu	237
+基数	ji shu	242
+极小多项式	ji xiao duo xiang shi	239
+极小生成集	ji xiao sheng cheng ji	238
+夹角	jia jiao	236
+渐近锥面	jian jin zhui mian	227
+降秩矩阵	jiang zhi ju zhen	235
+交错性	jiao cuo xing	234
+交换环	jiao huan huan	233
+交换群	jiao huan qun	232
+解空间	jie kong jian	228
+阶梯矩阵	jie ti ju zhen	231
+解向量	jie xiang liang	230
+解子空间	jie zi kong jian	229
+镜面反射	jing mian fan she	226
+距离	ju li	218
+矩阵	ju zhen	219
+矩阵乘法	ju zhen cheng fa	225
+矩阵的型	ju zhen de xing	224
+矩阵的秩	ju zhen de zhi	223
+矩阵多项式	ju zhen duo xiang shi	222
+矩阵分块运算	ju zhen fen kuai yun suan	221
+矩阵减法	ju zhen jian fa	220
+可对角化	ke dui jiao hua	217
+克拉默定理	ke la mo ding li	213
+克隆涅克尔符号	ke long nie ke er fu hao	214
+可逆矩阵	ke ni ju zhen	216
+可逆元	ke ni yuan	215
+扩大平面	kuo da ping mian	212
+拉格朗日等式	la ge lang ri deng shi	211
+拉普拉斯展开定理	la pu la si zhan kai ding li	210
+离差向量	li cha xiang liang	209
+理想	li xiang	208
+列满秩矩阵	lie man zhi ju zhen	207
+列向量	lie xiang liang	206
+列秩	lie zhi	205
+零点	ling dian	204
+零化多项式	ling hua duo xiang shi	203
+零矩阵	ling ju zhen	202
+零理想	ling li xiang	198
+零向量	ling xiang liang	201
+零映射	ling ying she	200
+零子空间	ling zi kong jian	199
+满射	man she	197
+满同态	man tong tai	196
+满秩二次型	man zhi er ci xing	195
+满秩矩阵	man zhi ju zhen	194
+幂零	mi ling	191
+幂零方阵	mi ling fang zhen	193
+幂零指数	mi ling zhi shu	192
+母线	mu xian	190
+内积	nei ji	189
+拟对角线	ni dui jiao xian	188
+拟对角形	ni dui jiao xing	187
+逆矩阵	ni ju zhen	186
+逆序对	ni xu dui	185
+逆序数	ni xu shu	184
+逆映射	ni ying she	183
+欧几里德几何	ou ji li de ji he	182
+偶排列	ou pai lie	176
+欧氏变换	ou shi bian huan	180
+欧氏变换群	ou shi bian huan qun	181
+欧氏不变量	ou shi bu bian liang	179
+欧氏除法	ou shi chu fa	178
+欧氏空间	ou shi kong jian	177
+平凡子空间	ping fan zi kong jian	175
+平面束	ping mian shu	174
+平行四边形法则	ping xing si bian xing fa ze	173
+谱定理	pu ding li	172
+谱分解定理	pu fen jie ding li	171
+齐次函数	qi ci han shu	167
+齐次线性方程组	qi ci xian xing fang cheng zu	166
+齐次坐标	qi ci zuo biao	165
+奇排列	qi pai lie	170
+奇异值	qi yi zhi	168
+奇异值分解	qi yi zhi fen jie	169
+全原象	quan yuan xiang	164
+群同态	qun tong tai	163
+三角行列式	san jiao hang lie shi	160
+三角化引理	san jiao hua yin li	162
+三角形法则	san jiao xing fa ze	161
+三阶行列式	san jie hang lie shi	159
+上三角矩阵	shang san jiao ju zhen	158
+射影变换	she ying bian huan	156
+射影变换群	she ying bian huan qun	157
+射影等价	she ying deng jia	155
+射影几何	she ying ji he	154
+射影空间	she ying kong jian	153
+射影平面	she ying ping mian	152
+射影性质	she ying xing zhi	151
+生成	sheng cheng	149
+生成的子空间	sheng cheng de zi kong jian	150
+实标准形	shi biao zhun xing	147
+实矩阵	shi ju zhen	146
+实内积空间	shi nei ji kong jian	145
+实数域	shi shu yu	144
+实数组向量的内积	shi shu zu xiang liang de nei ji	143
+施瓦茨不等式	shi wa ci bu deng shi	148
+实向量空间	shi xiang liang kong jian	142
+数积	shu ji	141
+数量矩阵	shu liang ju zhen	140
+数域	shu yu	139
+数组向量空间	shu zu xiang liang kong jian	138
+双射	shuang she	137
+双线性函数	shuang xian xing han shu	136
+双线性型	shuang xian xing xing	135
+顺序主子矩阵	shun xu zhu zi ju zhen	134
+顺序主子式	shun xu zhu zi shi	133
+素多项式	su duo xiang shi	132
+特解	te jie	131
+特殊正交群	te shu zheng jiao qun	130
+特征多项式	te zheng duo xiang shi	129
+特征根	te zheng gen	128
+特征矩阵	te zheng ju zhen	127
+特征向量	te zheng xiang liang	126
+特征值	te zheng zhi	125
+特征子空间	te zheng zi kong jian	124
+同构	tong gou	121
+同构映射	tong gou ying she	122
+通解	tong jie	123
+投影	tou ying	118
+投影变换	tou ying bian huan	120
+投影柱面	tou ying zhu mian	119
+退化矩阵	tui hua ju zhen	117
+外积	wai ji	116
+维数	wei shu	114
+维数公式	wei shu gong shi	115
+无零因子环	wu ling yin zi huan	113
+无穷远点	wu qiong yuan dian	112
+无穷远线	wu qiong yuan xian	111
+系数矩阵	xi shu ju zhen	110
+下三角矩阵	xia san jiao ju zhen	109
+线性变换	xian xing bian huan	93
+线性变换的标准形	xian xing bian huan de biao zhun xing	94
+线性表出	xian xing biao chu	92
+线性表示	xian xing biao shi	91
+线性等价	xian xing deng jia	90
+线性泛函	xian xing fan han	89
+线性函数	xian xing han shu	88
+线性空间	xian xing kong jian	87
+线性无关	xian xing wu guan	86
+线性相关	xian xing xiang guan	85
+线性型	xian xing xing	84
+线性映射	xian xing ying she	82
+线形映射的秩	xian xing ying she de zhi	83
+线性运算	xian xing yun suan	81
+线性子空间	xian xing zi kong jian	80
+线性组合	xian xing zu he	79
+限制线性变换	xian zhi xian xing bian huan	95
+相伴	xiang ban	107
+相伴类	xiang ban lei	108
+向量	xiang liang	98
+向量加法	xiang liang jia fa	102
+向量减法	xiang liang jian fa	101
+向量空间	xiang liang kong jian	100
+向量组的秩	xiang liang zu de zhi	99
+相似	xiang si	103
+相似变换	xiang si bian huan	106
+相似标准型	xiang si biao zhun xing	105
+相似对角化	xiang si dui jiao hua	104
+消法变换	xiao fa bian huan	97
+消法矩阵	xiao fa ju zhen	96
+斜坐标系	xie zuo biao xi	78
+行满秩矩阵	xing man zhi ju zhen	256
+行向量	xing xiang liang	255
+旋转矩阵	xuan zhuan ju zhen	77
+旋转面	xuan zhuan mian	76
+雅可比恒等式	ya ke bi heng deng shi	75
+一般线性群	yi ban xian xing qun	74
+因式	yin shi	72
+因式分解定理	yin shi fen jie ding li	73
+酉变换	you bian huan	71
+酉矩阵	you ju zhen	70
+酉空间	you kong jian	69
+有理标准形	you li biao zhun xing	67
+有理矩阵	you li ju zhen	66
+有理数域	you li shu yu	65
+有理向量空间	you li xiang liang kong jian	64
+右手系	you shou xi	63
+有限域	you xian yu	68
+余子式	yu zi shi	62
+约当标准形定理	yue dang biao zhun xing ding li	61
+约当块	yue dang kuai	60
+增广二次型矩阵	zeng guang er ci xing ju zhen	59
+增广矩阵	zeng guang ju zhen	58
+辗转相除法	zhan zhuan xiang chu fa	57
+真子空间	zhen zi kong jian	56
+正常点	zheng chang dian	53
+正定的	zheng ding de	52
+正方向	zheng fang xiang	51
+正惯性指数	zheng guan xing zhi shu	48
+正规变换	zheng gui bian huan	50
+正规矩阵	zheng gui ju zhen	49
+整环	zheng huan	55
+正交	zheng jiao	38
+正交变换	zheng jiao bian huan	47
+正交补子空间	zheng jiao bu zi kong jian	46
+正交等价标准形	zheng jiao deng jia biao zhun xing	45
+正交矩阵	zheng jiao ju zhen	43
+正交矩阵的实标准形	zheng jiao ju zhen de shi biao zhun xing	44
+正交群	zheng jiao qun	42
+正交向量组	zheng jiao xiang liang zu	40
+正交相似标准形	zheng jiao xiang si biao zhun xing	41
+正交子空间	zheng jiao zi kong jian	39
+正截口	zheng jie kou	37
+整数剩余类环	zheng shu sheng yu lei huan	54
+直和	zhi he	36
+置换矩阵	zhi huan ju zhen	33
+置换群	zhi huan qun	32
+直角坐标系	zhi jiao zuo biao xi	35
+直纹面	zhi wen mian	34
+中心投影	zhong xin tou ying	31
+轴线	zhou xian	29
+逐步配方	zhu bu pei fang	28
+主对角线	zhu dui jiao xian	27
+柱面	zhu mian	24
+主轴	zhu zhou	25
+主轴定理	zhu zhou ding li	26
+转移矩阵	zhuan yi ju zhen	23
+转置行列式	zhuan zhi hang lie shi	21
+转置矩阵	zhuan zhi ju zhen	22
+锥面	zhui mian	20
+准素因子	zhun su yin zi	19
+准线	zhun xian	18
+自对偶图形	zi dui ou tu xing	10
+子行列式	zi hang lie shi	11
+子空间	zi kong jian	17
+子群	zi qun	16
+子式	zi shi	13
+子式因子	zi shi yin zi	14
+子式因子组	zi shi yin zi zu	15
+自同构	zi tong gou	9
+子午线	zi wu xian	12
+自由模	zi you mo	8
+自由向量	zi you xiang liang	7
+最大公因式	zui da gong yin shi	6
+最佳平方逼近解	zui jia ping fang bi jin jie	5
+最小最佳平方逼近解	zui xiao zui jia ping fang bi jin jie	4
+坐标变换	zuo biao bian huan	1
+坐标映射	zuo biao ying she	2
+左手系	zuo shou xi	3
