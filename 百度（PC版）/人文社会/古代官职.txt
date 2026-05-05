@@ -1,0 +1,615 @@
+# 词库名称: 古代官职
+# 词库分类: 尹 公 史 令 戍 丞 使 郎 卿 宰 尉
+# 词库作者: 天字007
+# 词库描述: 介绍古代官职的名称。
+# 词条数量: 607
+# 解析词数: 608
+# 解析异常: 1
+
+尹	yin	0
+公	gong	0
+史	shi	0
+令	ling	0
+戍	shu	0
+丞	cheng	0
+使	shi	0
+郎	lang	0
+卿	qing	0
+宰	zai	0
+尉	wei	0
+尉	yu	0
+虞	yu	0
+九卿	jiu qing	0
+九品	jiu pin	0
+二府	er fu	0
+八子	ba zi	0
+八座	ba zuo	0
+七子	qi zi	0
+小臣	xiao chen	0
+小史	xiao shi	0
+三事	san shi	0
+三公	san gong	0
+三孤	san gu	0
+三司	san si	0
+三台	san tai	0
+三老	san lao	0
+三师	san shi	0
+三省	san sheng	0
+三省	san xing	0
+三衙	san ya	0
+大夫	dai fu	0
+大夫	da fu	0
+大令	da ling	0
+大计	da ji	0
+大帅	da shuai	0
+将军	jiang jun	0
+工正	gong zheng	0
+工师	gong shi	0
+工官	gong guan	0
+工部	gong bu	0
+士师	shi shi	0
+子爵	zi jue	0
+上计	shang ji	0
+卫尉	wei wei	0
+卫尉	wei yu	0
+才人	cai ren	0
+千牛	qian niu	0
+千户	qian hu	0
+于越	yu yue	0
+万户	wan hu	0
+土官	tu guan	0
+太子	tai zi	0
+太仆	tai pu	0
+太史	tai shi	0
+太师	tai shi	0
+太守	tai shou	0
+太保	tai bao	0
+太祝	tai zhu	0
+太监	tai jian	0
+太宰	tai zai	0
+太常	tai chang	0
+太尉	tai wei	0
+太傅	tai fu	0
+夫人	fu ren	0
+六条	liu tiao	0
+六官	liu guan	0
+六官	lu guan	0
+六卿	liu qing	0
+六卿	lu qing	0
+六部	liu bu	0
+六曹	liu cao	0
+六曹	lu cao	0
+六察	liu cha	0
+六察	lu cha	0
+少尹	shao yin	0
+少正	shao zheng	0
+少师	shao shi	0
+少府	shao fu	0
+少保	shao bao	0
+少宰	shao zai	0
+少傅	shao fu	0
+中书	zhong shu	0
+中允	zhong yun	0
+中军	zhong jun	0
+中郎	zhong lang	0
+中涓	zhong juan	0
+中堂	zhong tang	0
+中尉	zhong wei	0
+内史	nei shi	0
+内阁	nei ge	0
+内宰	nei zai	0
+内宰	na zai	0
+公主	gong zhu	0
+长史	zhang shi	0
+水部	shui bu	0
+仆射	pu she	0
+仆射	pu ye	0
+仆射	pu yi	0
+元帅	yuan shuai	0
+方伯	fang bo	0
+方伯	fang bai	0
+方伯	fang ba	0
+从事	cong shi	0
+开坊	kai fang	0
+开府	kai fu	0
+户部	hu bu	0
+比部	bi bu	0
+凤阁	feng ge	0
+孔目	kong mu	0
+文学	wen xue	0
+文案	wen an	0
+分司	fen si	0
+贝子	bei zi	0
+贝勒	bei le	0
+乌布	wu bu	0
+左史	zuo shi	0
+右史	you shi	0
+左师	zuo shi	0
+右师	you shi	0
+左徒	zuo tu	0
+司士	si shi	0
+司门	si men	0
+司马	si ma	0
+司成	si cheng	0
+司兵	si bing	0
+司直	si zhi	0
+司官	si guan	0
+司空	si kong	0
+司工	si gong	0
+司城	si cheng	0
+司寇	si kou	0
+司败	si bai	0
+司稼	si jia	0
+司虣	si bao	0
+令公	ling gong	0
+令尹	ling yin	0
+令史	ling shi	0
+主书	zhu shu	0
+主事	zhu shi	0
+主客	zhu ke	0
+主稿	zhu gao	0
+主爵	zhu jue	0
+主簿	zhu bu	0
+外委	wai wei	0
+外制	wai zhi	0
+内制	nei zhi	0
+内制	na zhi	0
+功曹	gong cao	0
+仪曹	yi cao	0
+台省	tai sheng	0
+台省	tai xing	0
+台阁	tai ge	0
+台谏	tai jian	0
+礼部	li bu	0
+兰台	lan tai	0
+平章	ping zhang	0
+正字	zheng zi	0
+北司	bei si	0
+东厂	dong chang	0
+亚相	ya xiang	0
+后稷	hou ji	0
+行人	xing ren	0
+行台	hang tai	0
+行台	xing tai	0
+行走	xing zou	0
+行省	xing sheng	0
+执珪	zhi gui	0
+丞相	cheng xiang	0
+廷尉	ting wei	0
+西厂	xi chang	0
+州同	zhou tong	0
+州牧	zhou mu	0
+吏目	li mu	0
+吏部	li bu	0
+刑部	xing bu	0
+协领	xie ling	0
+军门	jun men	0
+军师	jun shi	0
+同知	tong zhi	0
+安人	an ren	0
+安抚	an fu	0
+观察	guan cha	0
+巡抚	xun fu	0
+巡按	xun an	0
+巡检	xun jian	0
+巡捕	xun bu	0
+守备	shou bei	0
+权知	quan zhi	0
+百户	bai hu	0
+县令	xian ling	0
+县长	xian zhang	0
+县丞	xian cheng	0
+县丞	xuan cheng	0
+县尉	xian wei	0
+护军	hu jun	0
+别驾	bie jia	0
+别将	bie jiang	0
+兵部	bing bu	0
+判官	pan guan	0
+社长	she zhang	0
+宗正	zong zheng	0
+宗师	zong shi	0
+宗伯	zong bo	0
+宗伯	zong bai	0
+宗伯	zong ba	0
+奉常	feng chang	0
+郎中	lang zhong	0
+典史	dian shi	0
+典客	dian ke	0
+典签	dian qian	0
+尚书	shang shu	0
+使臣	shi chen	0
+使相	shi xiang	0
+侍卫	shi wei	0
+侍中	shi zhong	0
+侍从	shi cong	0
+侍讲	shi jiang	0
+侍郎	shi lang	0
+京官	jing guan	0
+京堂	jing tang	0
+京察	jing cha	0
+治中	zhi zhong	0
+治粟	zhi su	0
+都尉	du wei	0
+国公	guo gong	0
+国相	guo xiang	0
+刺史	ci shi	0
+枢府	shu fu	0
+枢相	shu xiang	0
+知州	zhi zhou	0
+知县	zhi xian	0
+知府	zhi fu	0
+知院	zhi yuan	0
+制军	zhi jun	0
+参军	can jun	0
+参议	can yi	0
+参将	can jiang	0
+参谋	can mou	0
+录事	lu shi	0
+驿丞	yi cheng	0
+供奉	gong feng	0
+供事	gong shi	0
+帮办	bang ban	0
+指挥	zhi hui	0
+封人	feng ren	0
+柱国	zhu guo	0
+相国	xiang guo	0
+春坊	chun fang	0
+春官	chun guan	0
+南省	nan sheng	0
+南衙	nan ya	0
+南衙	na ya	0
+勋官	xun guan	0
+贵人	gui ren	0
+贵妃	gui fei	0
+贵嫔	gui pin	0
+昭仪	zhao yi	0
+待诏	dai zhao	0
+待制	dai zhi	0
+修撰	xiu zhuan	0
+秋官	qiu guan	0
+皇后	huang hou	0
+皇帝	huang di	0
+亲王	qin wang	0
+亭长	ting zhang	0
+美人	mei ren	0
+首辅	shou fu	0
+总长	zong zhang	0
+总长	zong chang	0
+总兵	zong bing	0
+总宪	zong xian	0
+总督	zong du	0
+总管	zong guan	0
+宦官	huan guan	0
+祠部	ci bu	0
+给谏	gei jian	0
+给谏	ji jian	0
+统制	tong zhi	0
+统领	tong ling	0
+郡王	jun wang	0
+郡守	jun shou	0
+郡尉	jun wei	0
+郡尉	jun yu	0
+郡丞	jun cheng	0
+起部	qi bu	0
+校人	xiao ren	0
+校人	jiao ren	0
+校事	xiao shi	0
+校事	jiao shi	0
+校官	xiao guan	0
+校尉	xiao wei	0
+盐官	yan guan	0
+夏官	xia guan	0
+夏卿	xia qing	0
+都头	dou tou	0
+都头	du tou	0
+都司	du si	0
+都护	du hu	0
+都事	dou shi	0
+都事	du shi	0
+都统	du tong	0
+都监	du jian	0
+都堂	dou tang	0
+都堂	du tang	0
+都督	du du	0
+监司	jian si	0
+监军	jian jun	0
+臬司	nie si	0
+臬台	nie tai	0
+留后	liu hou	0
+留守	liu shou	0
+冢宰	zhong zai	0
+流内	liu nei	0
+流内	liu na	0
+流外	liu wai	0
+宰执	zai zhi	0
+宰相	zai xiang	0
+推官	tui guan	0
+理问	li wen	0
+副将	fu jiang	0
+教头	jiao tou	0
+堂官	tang guan	0
+常侍	chang shi	0
+银台	yin tai	0
+馆阁	guan ge	0
+领军	ling jun	0
+谒者	ye zhe	0
+庶子	shu zi	0
+庶长	shu chang	0
+庶长	shu zhang	0
+庶常	shu chang	0
+章京	zhang jing	0
+散官	san guan	0
+博士	bo shi	0
+掾史	yuan shi	0
+提刑	ti xing	0
+提学	ti xue	0
+提学	di xue	0
+提举	ti ju	0
+提点	ti dian	0
+提调	ti diao	0
+提督	ti du	0
+提辖	ti xia	0
+御史	yu shi	0
+储君	chu jun	0
+游击	you ji	0
+游徼	you jiao	0
+游徼	you yao	0
+道员	dao yuan	0
+道台	dao tai	0
+掌固	zhang gu	0
+督办	du ban	0
+督军	du jun	0
+督邮	du you	0
+虞侯	yu hou	0
+詹事	zhan shi	0
+签帅	qian shuai	0
+粮长	liang chang	0
+粮长	liang zhang	0
+粮台	liang tai	0
+廉访	lian fang	0
+管带	guan dai	0
+旗牌	qi pai	0
+察院	cha yuan	0
+镇台	zhen tai	0
+镇标	zhen biao	0
+镇将	zhen jiang	0
+额驸	e fu	0
+稿案	gao an	0
+膳夫	shan fu	0
+钟官	zhong guan	0
+藩司	fan si	0
+藩台	fan tai	0
+麟台	lin tai	0
+九译令	jiu yi ling	0
+二千石	er qian shi	0
+二千石	er qian dan	0
+小耩臣	xiao jiang chen	0
+三大宪	san da xian	0
+三司使	san si shi	0
+三法司	san fa si	0
+大长秋	da chang qiu	0
+大司马	da si ma	0
+大司农	da si nong	0
+大司空	da si kong	0
+大司空	dai si kong	0
+大司空	tai si kong	0
+大司徒	da si tu	0
+大司徒	dai si tu	0
+大司徒	tai si tu	0
+大行人	da xing ren	0
+大良造	da liang zao	0
+大学士	da xue shi	0
+大将军	da jiang jun	0
+大鸿胪	da hong lu	0
+上林令	shang lin ling	0
+上驷院	shang si yuan	0
+卫将军	wei jiang jun	0
+门下省	men xia sheng	0
+太史察	tai shi cha	0
+太医令	tai yi ling	0
+太官令	tai guan ling	0
+太仓令	tai cang ling	0
+太乐令	tai yue ling	0
+太庙令	tai miao ling	0
+五大夫	wu da fu	0
+五军营	wu jun ying	0
+中书令	zhong shu ling	0
+中书省	zhong shu sheng	0
+中书监	zhong shu jian	0
+中郎将	zhong lang jiang	0
+中护军	zhong hu jun	0
+中领军	zhong ling jun	0
+中常侍	zhong chang shi	0
+中庶子	zhong shu zi	0
+中朝官	zhong chao guan	0
+内三院	nei san yuan	0
+内三院	na san yuan	0
+内务府	nei wu fu	0
+内侍省	nei shi sheng	0
+内侍省	nei shi xing	0
+内朝官	nei zhao guan	0
+内朝官	nei chao guan	0
+内朝官	na zhao guan	0
+内朝官	na chao guan	0
+互市监	hu shi jian	0
+文渊阁	wen yuan ge	0
+支应局	zhi ying ju	0
+支度使	zhi du shi	0
+支度使	zhi duo shi	0
+劝业道	quan ye dao	0
+戈什哈	ge shen ha	0
+戈什哈	ge shi ha	0
+左丞相	zuo cheng xiang	0
+右丞相	you cheng xiang	0
+左冯翊	zuo feng yi	0
+左冯翊	zuo ping yi	0
+司礼监	si li jian	0
+司农寺	si nong si	0
+右扶风	you fu feng	0
+外朝官	wai chao guan	0
+北面官	bei mian guan	0
+节度使	jie du shi	0
+布政使	bu zheng shi	0
+执金吾	zhi jin wu	0
+光禄勋	guang lu xun	0
+协律郎	xie lv lang	0
+军机处	jun ji chu	0
+观察使	guan cha shi	0
+防御使	fang yu shi	0
+团练使	tuan lian shi	0
+巡察使	xun cha shi	0
+员外郎	yuan wai lang	0
+宗人府	zong ren fu	0
+奉朝请	feng zhao qing	0
+奉朝请	feng chao qing	0
+郎中令	lang zhong ling	0
+典属国	dian shu guo	0
+尚书令	shang shu ling	0
+尚书郎	shang shu lang	0
+尚书省	shang shu sheng	0
+使持节	shi chi jie	0
+侍御史	shi yu shi	0
+制置使	zhi zhi shi	0
+京兆尹	jing zhao yin	0
+国子监	guo zi jian	0
+枢密使	shu mi shi	0
+枢密院	shu mi yuan	0
+经略使	jing lue shi	0
+转运使	zhuan yun shi	0
+勃极烈	bo ji lie	0
+勃极烈	bei ji lie	0
+按察使	an cha shi	0
+南面官	nan mian guan	0
+皇太子	huang tai zi	0
+宣抚使	xuan fu shi	0
+宣政院	xuan zheng yuan	0
+宣慰使	xuan wei shi	0
+给事中	ji shi zhong	0
+起居注	qi ju zhu	0
+校书郎	xiao shu lang	0
+盐运使	yan yun shi	0
+盐铁使	yan tie shi	0
+首领官	shou ling guan	0
+钦天监	qin tian jian	0
+南书房	nan shu fang	0
+度支使	du zhi shi	0
+度支使	duo zhi shi	0
+都水监	dou shui jian	0
+都水监	du shui jian	0
+都点检	dou dian jian	0
+都点检	du dian jian	0
+都察院	du cha yuan	0
+秘书郎	mi shu lang	0
+秘书省	mi shu sheng	0
+秘书省	mi shu xing	0
+理藩院	li fan yuan	0
+卿事察	qing shi cha	0
+庶吉士	shu ji shi	0
+租庸使	zu yong shi	0
+著作郎	zhu zuo lang	0
+通政司	tong zheng si	0
+通政院	tong zheng yuan	0
+崇文院	chong wen yuan	0
+鸿胪寺	hong lu si	0
+清吏司	qing li si	0
+清望官	qing wang guan	0
+寄禄官	ji lu guan	0
+职事官	zhi shi guan	0
+提法使	ti fa shi	0
+紫薇省	zi wei sheng	0
+紫薇省	zi wei xing	0
+集书省	ji shu sheng	0
+集书省	ji shu xing	0
+御史台	yu shi tai	0
+善后局	shan hou ju	0
+道录司	dao lu si	0
+督销局	du xiao ju	0
+锦衣卫	jin yi wei	0
+粮料院	liang liao yuan	0
+殿中省	dian zhong sheng	0
+殿中省	dian zhong xing	0
+殿前司	dian qian si	0
+僧录司	seng lu si	0
+翰林院	han lin yuan	0
+黜陟使	chu zhi shi	0
+镇守使	zhen shou shi	0
+九门提督	jiu men ti du	0
+二十等爵	er shi deng jue	0
+二千石曹	er qian shi cao	0
+二千石曹	er qian dan cao	0
+八部大人	ba bu da ren	0
+八旗制度	ba qi zhi du	0
+十三衙门	shi san ya men	0
+三闾大夫	san lv dai fu	0
+三闾大夫	san lv da fu	0
+大惕隐司	da ti yin si	0
+大惕隐司	dai ti yin si	0
+大惕隐司	tai ti yin si	0
+上军校尉	shang jun xiao wei	0
+上军校尉	shang jun xiao yu	0
+门下侍郎	men xia shi lang	0
+千总把总	qian zong ba zong	0
+太子洗马	tai zi xi ma	0
+太中大夫	tai zhong da fu	0
+五兵尚书	wu bing shang shu	0
+中书侍郎	zhong shu shi lang	0
+内阁中书	nei ge zhong shu	0
+内阁侍读	nei ge shi du	0
+内阁侍读	nei ge shi dou	0
+内阁侍读	nei ge shi duo	0
+屯田郎中	tun tian lang zhong	0
+屯田校尉	tun tian xiao wei	0
+左民尚书	zuo min shang shu	0
+左右补阙	zuo you bu que	0
+左右拾遗	zuo you shi yi	0
+司隶校尉	si li xiao wei	0
+主客郎中	zhu ke lang zhong	0
+仪同三司	yi tong san si	0
+北大王院	bei da wang yuan	0
+光禄大夫	guang lu da fu	0
+协律都尉	xie lv du wei	0
+同平章事	tong ping zhang shi	0
+观军容使	guan jun rong shi	0
+步军统领	bu jun tong ling	0
+奉车都尉	feng che du wei	0
+奉车都尉	feng ju du wei	0
+典农校尉	dian nong xiao wei	0
+典农校尉	dian nong xiao yu	0
+典农都尉	dian nong du wei	0
+典农都尉	dian nong du yu	0
+国子助教	guo zi zhu jiao	0
+参知政事	can zhi zheng shi	0
+参赞大臣	can zan da chen	0
+录事参军	lu shi can jun	0
+录尚书事	lu shang shu shi	0
+封疆大吏	feng jiang da li	0
+南大王院	nan da wang yuan	0
+钦差大臣	qin chai da chen	0
+将作大臣	jiang zuo da chen	0
+将作大臣	qiang zuo da chen	0
+都元帅府	dou yuan shuai fu	0
+都元帅府	du yuan shuai fu	0
+监察御史	jian cha yu shi	0
+啬夫检讨	se fu jian tao	0
+黄门侍郎	huang men shi lang	0
+领队大臣	ling dui da chen	0
+散骑常侍	san qi chang shi	0
+谏议大夫	jian yi da fu	0
+搜粟都尉	sou su du wei	0
+御史大夫	yu shi da fu	0
+漕运总督	cao yun zong du	0
+翰林学士	han lin xue shi	0
+二十四衙门	er shi si ya men	0
+六科给事中	liu ke ji shi zhong	0
+五军都督府	wu jun du du fu	0
+公车司马令	gong che si ma ling	0
+协办大学士	xie ban da xue shi	0
+典衣中郎将	dian yi zhong lang jiang	0
+尚书左右丞	shang shu zuo you cheng	0
+殿中侍御史	dian zhong shi yu shi	0
+领侍卫内大臣	ling shi wei nei da chen	0
+领侍卫内大臣	ling shi wei na da chen	0
+同中书门下	tong zhong shu men xia	0
+三品制置	san pin zhi zhi	0
+条例司	tiao li si	0

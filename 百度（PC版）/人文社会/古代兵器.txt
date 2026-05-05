@@ -1,0 +1,512 @@
+# 词库名称: 古代兵器
+# 词库分类: 双钩枪 单钩枪 环子枪 素木枪 鸦项枪 键枪 梭枪
+# 词库作者: 天字007
+# 词库描述: 介绍古代兵器相关的词库。
+# 词条数量: 504
+# 解析词数: 505
+# 解析异常: 1
+
+弓	gong	0
+弩	nu	0
+枪	qiang	0
+棍	gun	0
+棍	hun	0
+刀	dao	0
+剑	jian	0
+矛	mao	0
+盾	dun	0
+斧	fu	0
+钺	yue	0
+戟	ji	0
+殳	shu	0
+鞭	bian	0
+锏	jian	0
+锤	chui	0
+叉	cha	0
+钯	ba	0
+钯	pa	0
+戈	ge	0
+双钩枪	shuang gou qiang	0
+单钩枪	dan gou qiang	0
+环子枪	huan zi qiang	0
+素木枪	su mu qiang	0
+鸦项枪	ya xiang qiang	0
+键枪	jian qiang	0
+梭枪	suo qiang	0
+褪枪	tui qiang	0
+褪枪	tun qiang	0
+太宁笔枪	tai ning bi qiang	0
+短刃枪	duan ren qiang	0
+抓枪	zhua qiang	0
+嫉形枪	ji xing qiang	0
+笔形枪	bi xing qiang	0
+钩形枪	gou xing qiang	0
+矛形枪	mao xing qiang	0
+藻黎枪	zao li qiang	0
+拐枪	guai qiang	0
+拐突枪	guai tu qiang	0
+拐刃枪	guai ren qiang	0
+舀角枪	yao jiao qiang	0
+舀角枪	yao jue qiang	0
+箭形枪	jian xing qiang	0
+龙刀枪	long dao qiang	0
+大砍刀	da kan dao	0
+长刀	chang dao	0
+斩马刀	zhan ma dao	0
+腰刀	yao dao	0
+杆刀	gan dao	0
+朴刀	po dao	0
+钩刀	gou dao	0
+眉刀	mei dao	0
+匕首	bi shou	0
+三尖刀	san jian dao	0
+飞刀	fei dao	0
+弩箭	nu jian	0
+诸葛弩	zhu ge nu	0
+斗子弩	dou zi nu	0
+俚弩	li nu	0
+马箭	ma jian	0
+袖箭	xiu jian	0
+步箭	bu jian	0
+武当剑	wu dang jian	0
+达摩剑	da mo jian	0
+太极剑	tai ji jian	0
+青萍剑	qing ping jian	0
+龙行剑	long xing jian	0
+戚	qi	0
+松纹古定剑	song wen gu ding jian	0
+七星鎏虹剑	qi xing liu hong jian	0
+烈焰青锋剑	lie yan qing feng jian	0
+透龙剑	tou long jian	0
+太阿剑	tai e jian	0
+丧门宝剑	sang men bao jian	0
+紫电青霜剑	zi dian qing shuang jian	0
+鱼肠剑	yu chang jian	0
+二刃青锋剑	er ren qing feng jian	0
+紫霜剑	zi shuang jian	0
+碧灵剑	bi ling jian	0
+盘蛇宝剑	pan she bao jian	0
+盘蛇宝剑	pan yi bao jian	0
+盘龙宝剑	pan long bao jian	0
+天狼剑	tian lang jian	0
+七星宝剑	qi xing bao jian	0
+乌钩剑	wu gou jian	0
+青钢剑	qing gang jian	0
+鸳鸯剑	yuan yang jian	0
+碧血鸳鸯剑	bi xue yuan yang jian	0
+昆吾剑	kun wu jian	0
+太合剑	tai he jian	0
+太合剑	tai ge jian	0
+纯钩剑	chun gou jian	0
+雌雄双股剑	ci xiong shuang gu jian	0
+日月火龙剑	ri yue huo long jian	0
+青龙剑	qing long jian	0
+诛龙剑	zhu long jian	0
+困龙剑	kun long jian	0
+寒光剑	han guang jian	0
+折铁搂银五凤剑	zhe tie lou yin wu feng jian	0
+折铁搂银五凤剑	she tie lou yin wu feng jian	0
+七星昆吾剑	qi xing kun wu jian	0
+柳叶剑	liu ye jian	0
+分天剑	fen tian jian	0
+落叶青锋剑	luo ye qing feng jian	0
+鎏彩虹	liu cai hong	0
+二刃青钢剑	er ren qing gang jian	0
+长虹剑	chang hong jian	0
+斩仙剑	zhan xian jian	0
+双刃软钢劈水电光剑	shuang ren ruan gang pi shui dian guang jian	0
+太和剑	tai he jian	0
+乌龙剑	wu long jian	0
+青云剑	qing yun jian	0
+北斗七星宝剑	bei dou qi xing bao jian	0
+罗平剑	luo ping jian	0
+巨阙剑	ju que jian	0
+梨花宝剑	li hua bao jian	0
+白光剑	bai guang jian	0
+碧月秋光剑	bi yue qiu guang jian	0
+碧月秋光扫魔剑	bi yue qiu guang sao mo jian	0
+白鹤剑	bai he jian	0
+古铜宝剑	gu tong bao jian	0
+青鸿剑	qing hong jian	0
+乾坤剑	qian kun jian	0
+碧光剑	bi guang jian	0
+七星丧门剑	qi xing sang men jian	0
+纯钢剑	chun gang jian	0
+青光剑	qing guang jian	0
+八卦剑	ba gua jian	0
+二刃青霜剑	er ren qing shuang jian	0
+亮人双锋昆吾剑	liang ren shuang feng kun wu jian	0
+滚珠剑	gun zhu jian	0
+霜华宝剑	shuang hua bao jian	0
+断玉宝剑	duan yu bao jian	0
+游龙宝剑	you long bao jian	0
+龙纹剑	long wen jian	0
+丹凤剑	dan feng jian	0
+龙吟剑	long yin jian	0
+三皇宝剑	san huang bao jian	0
+七星紫电扫风剑	qi xing zi dian sao feng jian	0
+龙渊剑青明宝剑	long yuan jian qing ming bao jian	0
+白云宝剑	bai yun bao jian	0
+白虹宝剑	bai hong bao jian	0
+日月乾坤剑	ri yue qian kun jian	0
+佛光剑	fo guang jian	0
+蓝玉剑	lan yu jian	0
+赤霞剑	chi xia jian	0
+腾蛟宝剑	teng jiao bao jian	0
+凤翎宝剑	feng ling bao jian	0
+屠龙宝剑	tu long bao jian	0
+天虹宝剑	tian hong bao jian	0
+干将宝剑	gan jiang bao jian	0
+白龙剑	bai long jian	0
+凝碧剑	ning bi jian	0
+白虎剑	bai hu jian	0
+银蛇宝剑	yin she bao jian	0
+阴风剑	yin feng jian	0
+勾搂剑	gou lou jian	0
+长歌宝剑	chang ge bao jian	0
+五龙金剑	wu long jin jian	0
+素娄剑	su lou jian	0
+柔刚剑	rou gang jian	0
+紫烟剑	zi yan jian	0
+白雾剑	bai wu jian	0
+秦王剑	qin wang jian	0
+紫电凝霜剑	zi dian ning shuang jian	0
+龙凤宝剑	long feng bao jian	0
+霹雳剑	pi li jian	0
+独龙阴风剑	du long yin feng jian	0
+苍龙五虎剑	cang long wu hu jian	0
+追魂剑	zhui hun jian	0
+天地人三皇剑	tian di ren san huang jian	0
+阴阳双锋剑	yin yang shuang feng jian	0
+裁云宝剑	cai yun bao jian	0
+方天画戟	fang tian hua ji	0
+短把镔铁戟	duan ba bin tie ji	0
+画杆描金戟	hua gan miao jin ji	0
+方天画杆戟	fang tian hua gan ji	0
+短把方天戟	duan ba fang tian ji	0
+三叉戟	san cha ji	0
+银龙戟	yin long ji	0
+豹尾戟	bao wei ji	0
+黄幡戟	huang fan ji	0
+亮银方天戟	liang yin fang tian ji	0
+短把画杆双戟	duan ba hua gan shuang ji	0
+描金戟	miao jin ji	0
+双耳亮银戟	shuang er liang yin ji	0
+双耳方天亮银戟	shuang er fang tian liang yin ji	0
+青铜戟	qing tong ji	0
+双耳方天画杆戟	shuang er fang tian hua gan ji	0
+豹尾画杆方天戟	bao wei hua gan fang tian ji	0
+双天戟	shuang tian ji	0
+困龙戟	kun long ji	0
+镔铁方天戟	bin tie fang tian ji	0
+独龙戟	du long ji	0
+盘龙戟	pan long ji	0
+乌龙戟	wu long ji	0
+双翅玲珑戟	shuang chi ling long ji	0
+丧门戟	sang men ji	0
+亮银盘龙戟	liang yin pan long ji	0
+一字点金盘龙戟	yi zi dian jin pan long ji	0
+画杆描银戟	hua gan miao yin ji	0
+车轮板斧	che lun ban fu	0
+金雀开山斧	jin que kai shan fu	0
+宣化板斧	xuan hua ban fu	0
+月牙斧	yue ya fu	0
+八卦宣化斧	ba gua xuan hua fu	0
+凤头斧	feng tou fu	0
+金蘸斧	jin zhan fu	0
+加钢板斧	jia gang ban fu	0
+月牙开山斧	yue ya kai shan fu	0
+青铜斧	qing tong fu	0
+宝花板斧	bao hua ban fu	0
+渗金斧	shen jin fu	0
+日月加钢斧	ri yue jia gang fu	0
+二龙宣化斧	er long xuan hua fu	0
+八卦开天斧	ba gua kai tian fu	0
+凤头金攥斧	feng tou jin zuan fu	0
+短把青铜斧	duan ba qing tong fu	0
+短把镔铁斧	duan ba bin tie fu	0
+金顶开山钺	jin ding kai shan yue	0
+双翅玲珑钺	shuang chi ling long yue	0
+鸳鸯钺	yuan yang yue	0
+三尖匕首钺	san jian bi shou yue	0
+八卦开天钺	ba gua kai tian yue	0
+子母鸡爪鸳鸯钺	zi mu ji zhua yuan yang yue	0
+亮银鸳鸯钺	liang yin yuan yang yue	0
+牛头钺	niu tou yue	0
+金攥劈山钺	jin zuan pi shan yue	0
+八卦金攥开山钺	ba gua jin zuan kai shan yue	0
+牛角钺	niu jiao yue	0
+八卦子午鸳鸯钺	ba gua zi wu yuan yang yue	0
+金钱钺	jin qian yue	0
+鸡爪鸳鸯钺	ji zhua yuan yang yue	0
+三星铜钺	san xing tong yue	0
+钩	gou	0
+虎头双钩	hu tou shuang gou	0
+护手电光钩	hu shou dian guang gou	0
+龙头钩	long tou gou	0
+凤尾钩	feng wei gou	0
+蜈蚣钩	wu gong gou	0
+亮银虎头钩	liang yin hu tou gou	0
+如意紫金钩	ru yi zi jin gou	0
+狮须虎头钩	shi xu hu tou gou	0
+镔铁钩	bin tie gou	0
+日月双钩	ri yue shuang gou	0
+二十八宿护手浑天钩	er shi ba xiu hu shou hun tian gou	0
+虎头电光钩	hu tou dian guang gou	0
+紫金护手钩	zi jin hu shou gou	0
+紫金虎头钩	zi jin hu tou gou	0
+子母鸳鸯钩	zi mu yuan yang gou	0
+鱼尾双锋钩	yu wei shuang feng gou	0
+亮银护手钩	liang yin hu shou gou	0
+五股烈焰托天叉	wu gu lie yan tuo tian cha	0
+九股托天叉	jiu gu tuo tian cha	0
+三股亮银叉	san gu liang yin cha	0
+三股托天叉	san gu tuo tian cha	0
+五股钢叉	wu gu gang cha	0
+五股托天叉	wu gu tuo tian cha	0
+三股钢叉	san gu gang cha	0
+五股烈焰叉	wu gu lie yan cha	0
+三股烈焰叉	san gu lie yan cha	0
+三股烈焰托天叉	san gu lie yan tuo tian cha	0
+青铜叉	qing tong cha	0
+九股烈焰叉	jiu gu lie yan cha	0
+五钩神飞叉	wu gou shen fei cha	0
+五股青铜叉	wu gu qing tong cha	0
+凤尾镰	feng wei lian	0
+鸡爪镰	ji zhua lian	0
+雁翅镰	yan chi lian	0
+截肘双镰	jie zhou shuang lian	0
+熟铜钉钉狼牙槊	shu tong ding ding lang ya shuo	0
+金顶枣阳槊	jin ding zao yang shuo	0
+金顶达摩槊	jin ding da mo shuo	0
+槊	shuo	0
+独角铜人	du jiao tong ren	0
+金镫槊	jin deng shuo	0
+拳横槊	quan heng shuo	0
+铁方槊	tie fang shuo	0
+浑天槊	hun tian shuo	0
+朝天金花槊	chao tian jin hua shuo	0
+金顶龙头槊	jin ding long tou shuo	0
+娃娃槊	wa wa shuo	0
+枣木槊	zao mu shuo	0
+金顶开山槊	jin ding kai shan shuo	0
+禹王开山槊	yu wang kai shan shuo	0
+短把渗金槊	duan ba shen jin shuo	0
+朝天金瓜槊	chao tian jin gua shuo	0
+熟铜槊	shu tong shuo	0
+金顶槊	jin ding shuo	0
+盖地槊	gai di shuo	0
+盖地槊	gai de shuo	0
+盖地槊	ge di shuo	0
+盖地槊	he di shuo	0
+盖地槊	ge de shuo	0
+盖地槊	he de shuo	0
+虎头槊	hu tou shuo	0
+独脚铜人槊	du jiao tong ren shuo	0
+镔铁娃娃槊	bin tie wa wa shuo	0
+劈天槊	pi tian shuo	0
+独脚铜人娃娃槊	du jiao tong ren wa wa shuo	0
+金顶朝阳槊	jin ding zhao yang shuo	0
+金顶朝阳槊	jin ding chao yang shuo	0
+指水槊	zhi shui shuo	0
+掌水槊	zhang shui shuo	0
+横水槊	heng shui shuo	0
+金针蛤蟆槊	jin zhen ha ma shuo	0
+浑铁点刚槊	hun tie dian gang shuo	0
+反背独角娃娃槊	fan bei du jiao wa wa shuo	0
+四棱虎头槊	si leng hu tou shuo	0
+四棱虎头槊	si ling hu tou shuo	0
+金顶娃娃槊	jin ding wa wa shuo	0
+昆仑槊	kun lun shuo	0
+开天槊	kai tian shuo	0
+独角铜铃槊	du jiao tong ling shuo	0
+链子槊	lian zi shuo	0
+四棱镔铁槊	si leng bin tie shuo	0
+四棱镔铁槊	si ling bin tie shuo	0
+金铜槊	jin tong shuo	0
+金瓜槊	jin gua shuo	0
+青铜槊	qing tong shuo	0
+人指槊	ren zhi shuo	0
+人拳槊	ren quan shuo	0
+人掌槊	ren zhang shuo	0
+束手铜人	shu shou tong ren	0
+盘肘铜人	pan zhou tong ren	0
+青铜独角娃娃槊	qing tong du jiao wa wa shuo	0
+反背独角铜人槊	fan bei du jiao tong ren shuo	0
+金顶虬龙槊	jin ding qiu long shuo	0
+锯齿金顶狼牙槊	ju chi jin ding lang ya shuo	0
+牛头槊	niu tou shuo	0
+八楞紫金锤	ba leng zi jin chui	0
+八楞黄金锤	ba leng huang jin chui	0
+八卦生铜锤	ba gua sheng tong chui	0
+八楞亮银锤	ba leng liang yin chui	0
+镔铁轧油锤	bin tie zha you chui	0
+镔铁轧油锤	bin tie ya you chui	0
+八卦亮银锤	ba gua liang yin chui	0
+擂鼓瓮金锤	lei gu weng jin chui	0
+龙头链子锤	long tou lian zi chui	0
+八楞生铁锤	ba leng sheng tie chui	0
+八卦生铜链子锤	ba gua sheng tong lian zi chui	0
+八卦镔铁锤	ba gua bin tie chui	0
+黑虎铜锤	hei hu tong chui	0
+乌金锤	wu jin chui	0
+压把懒龙锤	ya ba lan long chui	0
+人面赤铜锤	ren mian chi tong chui	0
+瓜梭锤	gua suo chui	0
+八宝电光锤	ba bao dian guang chui	0
+青铜链子锤	qing tong lian zi chui	0
+电光紫金锤	dian guang zi jin chui	0
+八棱铜锤	ba leng tong chui	0
+八棱铜锤	ba ling tong chui	0
+金瓜锤	jin gua chui	0
+剌耳锤	la er chui	0
+浑圆锤	hun yuan chui	0
+青铜窝瓜锤	qing tong wo gua chui	0
+梅花八卦亮银锤	mei hua ba gua liang yin chui	0
+子母鸳鸯锤	zi mu yuan yang chui	0
+亮银链子锤	liang yin lian zi chui	0
+链子毒蒺藜锤	lian zi du ji li chui	0
+链子毒蒺藜锤	lian zi dai ji li chui	0
+八棱镔铁锤	ba leng bin tie chui	0
+八棱镔铁锤	ba ling bin tie chui	0
+八角紫金锤	ba jiao zi jin chui	0
+红铜锤	hong tong chui	0
+五毒瘟璜人面锤	wu du wen huang ren mian chui	0
+银面铜锤	yin mian tong chui	0
+链子紫金瓜	lian zi zi jin gua	0
+五毒链子锤	wu du lian zi chui	0
+八梭锤八棱闪电锤	ba suo chui ba leng shan dian chui	0
+八梭锤八棱闪电锤	ba suo chui ba ling shan dian chui	0
+鎏金锤	liu jin chui	0
+丈八链子乌金锤	zhang ba lian zi wu jin chui	0
+八棱青铜锤	ba leng qing tong chui	0
+八棱青铜锤	ba ling qing tong chui	0
+链子铜锤	lian zi tong chui	0
+花托熟铜窝瓜锤	hua tuo shu tong wo gua chui	0
+牛头锤	niu tou chui	0
+西瓜亮银锤	xi gua liang yin chui	0
+八棱梅花亮银锤	ba leng mei hua liang yin chui	0
+八棱梅花亮银锤	ba ling mei hua liang yin chui	0
+虎头锤	hu tou chui	0
+人面鎏金锤	ren mian liu jin chui	0
+八宝亮银梅花锤	ba bao liang yin mei hua chui	0
+八棱紫金链子锤	ba leng zi jin lian zi chui	0
+八棱紫金链子锤	ba ling zi jin lian zi chui	0
+压把鎏金锤	ya ba liu jin chui	0
+金攥轧油锤	jin zuan zha you chui	0
+金攥轧油锤	jin zuan ya you chui	0
+短链铜锤	duan lian tong chui	0
+金顶轧油锤	jin ding zha you chui	0
+金顶轧油锤	jin ding ya you chui	0
+辐射锤	fu she chui	0
+佛手紫金瓜青钢锤	fo shou zi jin gua qing gang chui	0
+八棱亮金锤	ba leng liang jin chui	0
+八棱亮金锤	ba ling liang jin chui	0
+八棱紫金窝瓜锤	ba leng zi jin wo gua chui	0
+八棱紫金窝瓜锤	ba ling zi jin wo gua chui	0
+骷骨点金锤	ku gu dian jin chui	0
+八宝亮银锤	ba bao liang yin chui	0
+如意金枪	ru yi jin qiang	0
+镔铁点钢枪	bin tie dian gang qiang	0
+梅花亮银枪	mei hua liang yin qiang	0
+盘竹枪	pan zhu qiang	0
+虎头錾金枪	hu tou zan jin qiang	0
+素缨枪	su ying qiang	0
+五钩神飞枪	wu gou shen fei qiang	0
+吸水提卢枪	xi shui ti lu qiang	0
+吸水提卢枪	xi shui di lu qiang	0
+兽角点金枪	shou jiao dian jin qiang	0
+镔铁皂缨枪	bin tie zao ying qiang	0
+钩镰枪	gou lian qiang	0
+蛇镰枪	she lian qiang	0
+蛇镰枪	yi lian qiang	0
+虎牙枪	hu ya qiang	0
+丈八蛇矛	zhang ba she mao	0
+乌金枪	wu jin qiang	0
+浑铁枪	hun tie qiang	0
+虎头钻金枪	hu tou zuan jin qiang	0
+麒麟双枪	qi lin shuang qiang	0
+鹿筋软藤枪	lu jin ruan teng qiang	0
+点钢枪	dian gang qiang	0
+十三节链子枪	shi san jie lian zi qiang	0
+五钩神飞亮银枪	wu gou shen fei liang yin qiang	0
+虎头凿金枪	hu tou zao jin qiang	0
+虎头凿金枪	hu tou zuo jin qiang	0
+丈八蛇矛枪	zhang ba she mao qiang	0
+素白亮银枪	su bai liang yin qiang	0
+六合枪	lu he qiang	0
+金攥提卢枪	jin zuan ti lu qiang	0
+金攥提卢枪	jin zuan di lu qiang	0
+蟠龙金枪	pan long jin qiang	0
+金锋枪	jin feng qiang	0
+三尖四刃锋	san jian si ren feng	0
+鹿筋藤蛇枪	lu jin teng she qiang	0
+鹿筋藤蛇枪	lu jin teng yi qiang	0
+梨花枪	li hua qiang	0
+丈八滚云枪	zhang ba gun yun qiang	0
+提卢枪	ti lu qiang	0
+提卢枪	di lu qiang	0
+金攥坜泉枪	jin zuan li quan qiang	0
+凤嘴梨花枪	feng zui li hua qiang	0
+落影追魂双枪	luo ying zhui hun shuang qiang	0
+落影追魂双枪	la ying zhui hun shuang qiang	0
+火尖枪	huo jian qiang	0
+龟背驼龙枪	gui bei tuo long qiang	0
+钢骨亮银枪	gang gu liang yin qiang	0
+杵白梨花枪	chu bai li hua qiang	0
+五钩枪	wu gou qiang	0
+浑铁点钢枪	hun tie dian gang qiang	0
+鸡嘴枪	ji zui qiang	0
+鸭嘴枪	ya zui qiang	0
+金凤枪	jin feng qiang	0
+银杆枪	yin gan qiang	0
+青铜驼牛枪	qing tong tuo niu qiang	0
+白杆小银枪	bai gan xiao yin qiang	0
+鸭嘴亮银枪	ya zui liang yin qiang	0
+乌龙枪	wu long qiang	0
+十三节钩镰枪	shi san jie gou lian qiang	0
+双头五节笔管枪	shuang tou wu jie bi guan qiang	0
+捶金虎头枪	chui jin hu tou qiang	0
+轮点钢枪	lun dian gang qiang	0
+丈八毒蛇矛	zhang ba du she mao	0
+盘龙飞凤双枪	pan long fei feng shuang qiang	0
+亮银八宝黑缨枪	liang yin ba bao hei ying qiang	0
+力贯枪	li guan qiang	0
+盘蛇枪	pan she qiang	0
+盘蛇枪	pan yi qiang	0
+皂金虎头枪	zao jin hu tou qiang	0
+金冠宝枪	jin guan bao qiang	0
+莲花枪	lian hua qiang	0
+丈八大枪	zhang ba da qiang	0
+梅花枪	mei hua qiang	0
+单戟月牙枪	dan ji yue ya qiang	0
+单戟月牙枪	shan ji yue ya qiang	0
+单戟月牙枪	chan ji yue ya qiang	0
+雀舌枪	que she qiang	0
+雀舌枪	qiao she qiang	0
+丈八矛枪	zhang ba mao qiang	0
+五钩神飞梅花亮银枪	wu gou shen fei mei hua liang yin qiang	0
+乌金虎头枪	wu jin hu tou qiang	0
+八宝驼龙阴风枪	ba bao tuo long yin feng qiang	0
+水火夺魂枪	shui huo duo hun qiang	0
+丈八素银枪	zhang ba su yin qiang	0
+五钩亮银枪	wu gou liang yin qiang	0
+金攥盘龙枪	jin zuan pan long qiang	0
+紫金盘龙枪	zi jin pan long qiang	0
+豹尾枪	bao wei qiang	0
+杵白亮银枪	chu bai liang yin qiang	0
+丈二点金枪	zhang er dian jin qiang	0
+亮银点刚枪	liang yin dian gang qiang	0
+双尖锁链枪	shuang jian suo lian qiang	0
+血挡梅花枪	xie dang mei hua qiang	0
+血挡梅花枪	xue dang mei hua qiang	0
+鸭嘴蘸金枪	ya zui zhan jin qiang	0
+点刚枪	dian gang qiang	0
+金攥虎头枪	jin zuan hu tou qiang	0
+盘龙亮银枪	pan long liang yin qiang	0
+八宝金丝软藤枪	ba bao jin si ruan teng qiang	0
+丈八五钩神飞枪	zhang ba wu gou shen fei qiang	0
+九转盘龙亮银枪	jiu zhuan pan long liang yin qiang	0
+链子双枪	lian zi shuang qiang	0
+八宝龟背驼龙枪	ba bao gui bei tuo long qiang	0
+素缨亮银枪	su ying liang yin qiang	0
