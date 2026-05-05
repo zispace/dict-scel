@@ -1,0 +1,414 @@
+# 词库名称: 名称
+# 词库分类: 城市区划
+# 词库作者: 135*****624
+# 词库描述: 名称
+# 词条数量: 406
+# 解析词数: 407
+# 解析异常: 1
+
+妈	ma	0
+本	ben	0
+妻	qi	0
+儿	er	0
+女儿	nv er	0
+外	wai	0
+冒	mao	0
+冒	mo	0
+热	re	0
+咳	ke	0
+咳	hai	0
+喘	chuan	0
+泻	xie	0
+呕	ou	0
+腹痛	fu tong	0
+大儿	da er	0
+小儿	xiao er	0
+大女儿	da nv er	0
+二女儿	er nv er	0
+三女儿	san nv er	0
+四女儿	si nv er	0
+产地	chan di	0
+安徽双鹤	an hui shuang he	0
+山东鲁抗	shan dong lu kang	0
+辰欣药业	chen xin yao ye	0
+石药欧意	shi yao ou yi	0
+重庆莱美	chong qing lai mei	0
+郑州卓峰制药厂	zheng zhou zhuo feng zhi yao chang	0
+上海宝龙安	shang hai bao long an	0
+河北宝塔	he bei bao ta	0
+大理药业	da li yao ye	0
+山东齐鲁	shan dong qi lu	0
+千金药业	qian jin yao ye	0
+瑞阳	rui yang	0
+华北制药	hua bei zhi yao	0
+国药工业	guo yao gong ye	0
+山西亚宝药业	shan xi ya bao yao ye	0
+山东罗欣	shan dong luo xin	0
+湖北午时	hu bei wu shi	0
+山东华信	shan dong hua xin	0
+河南天方	he nan tian fang	0
+承德颈复康	cheng de jing fu kang	0
+承德颈复康	cheng de geng fu kang	0
+开封制药	kai feng zhi yao	0
+唐山康神	tang shan kang shen	0
+广州白云山	guang zhou bai yun shan	0
+马应龙药业	ma ying long yao ye	0
+济南利民	ji nan li min	0
+山东淄博	shan dong zi bo	0
+广东心宝	guang dong xin bao	0
+广东心宝制药厂	guang dong xin bao zhi yao chang	0
+宏星制药	hong xing zhi yao	0
+山西千汇	shan xi qian hui	0
+广济药业	guang ji yao ye	0
+东北制药	dong bei zhi yao	0
+广东远大	guang dong yuan da	0
+岳阳民康	yue yang min kang	0
+桂林天和	gui lin tian he	0
+桂林三金	gui lin san jin	0
+河北东风	he bei dong feng	0
+云南之物	yun nan zhi wu	0
+潍坊中狮	wei fang zhong shi	0
+天朗制药	tian lang zhi yao	0
+云南	yun nan	0
+云南白药	yun nan bai yao	0
+神威制药	shen wei zhi yao	0
+河北长天	he bei chang tian	0
+山东华鲁	shan dong hua lu	0
+华北华民	hua bei hua min	0
+湖北人民	hu bei ren min	0
+湖北人民制药	hu bei ren min zhi yao	0
+东北沈阳	dong bei shen yang	0
+郑州卓峰制药	zheng zhou zhuo feng zhi yao	0
+山西仟源	shan xi qian yuan	0
+济南利民制药	ji nan li min zhi yao	0
+山东瑞阳	shan dong rui yang	0
+山东仁和	shan dong ren he	0
+北京双鹤药业	bei jing shuang he yao ye	0
+山东鲁抗辰欣	shan dong lu kang chen xin	0
+广州奇星	guang zhou qi xing	0
+太极集团	tai ji ji tuan	0
+上海金不换	shang hai jin bu huan	0
+天津中新	tian jin zhong xin	0
+德州瑞泰奇	de zhou rui tai qi	0
+德州瑞泰奇	de zhou rui tai ji	0
+北京同仁堂	bei jing tong ren tang	0
+天津	tian jin	0
+浙江康恩贝	zhe jiang kang en bei	0
+石药中诺	shi yao zhong nuo	0
+江西红新	jiang xi hong xin	0
+德州瑞泰	de zhou rui tai	0
+华北药业	hua bei yao ye	0
+石家庄中诺	shi jia zhuang zhong nuo	0
+辅仁药业	fu ren yao ye	0
+开封	kai feng	0
+云南白药集团	yun nan bai yao ji tuan	0
+成都东阳百信	cheng du dong yang bai xin	0
+天津麦迪克	tian jin mai di ke	0
+安徽双峰	an hui shuang feng	0
+山东鲁能	shan dong lu neng	0
+哈药集团	ha yao ji tuan	0
+山东力诺科峰	shan dong li nuo ke feng	0
+广东心宝制药	guang dong xin bao zhi yao	0
+白云山	bai yun shan	0
+辽宁本溪	liao ning ben xi	0
+湖北太子	hu bei tai zi	0
+江苏涟水	jiang su lian shui	0
+湖南润弘	hu nan run hong	0
+山东瑞泰	shan dong rui tai	0
+神威药业	shen wei yao ye	0
+江西洪新	jiang xi hong xin	0
+岳阳	yue yang	0
+单位	dan wei	0
+瓶	ping	0
+盒	he	0
+支	zhi	0
+节	jie	0
+板	ban	0
+袋	dai	0
+贴	tie	0
+包	bao	0
+药品名称	yao pin ming cheng	0
+阿莫西林胶囊	a mo xi lin jiao nang	0
+阿奇霉素	a qi mei su	0
+阿魏酸钠注射液	a wei suan na zhu she ye	0
+奥美拉唑肠溶胶囊	ao mei la zuo chang rong jiao nang	0
+地塞米松片	di sai mi song pian	0
+地塞米松针	di sai mi song zhen	0
+妇科千金片	fu ke qian jin pian	0
+复方氨酚烷胺胶囊	fu fang an fen wan an jiao nang	0
+复方氨酚烷胺片	fu fang an fen wan an pian	0
+复方甘草片	fu fang gan cao pian	0
+复方利血平片	fu fang li xue ping pian	0
+冠心苏合丸	guan xin su he wan	0
+冠心苏合丸	guan xin su ge wan	0
+健胃消食片	jian wei xiao shi pian	0
+洁霉素针	jie mei su zhen	0
+颈复康冲剂	jing fu kang chong ji	0
+颈复康冲剂	geng fu kang chong ji	0
+卡托普利片	ka tuo pu li pian	0
+利巴韦林	li ba wei lin	0
+临时练习	lin shi lian xi	0
+马应龙麝香痔疮膏	ma ying long she xiang zhi chuang gao	0
+尼美舒利颗粒	ni mei shu li ke li	0
+去痛片	qu tong pian	0
+乳癖消	ru pi xiao	0
+输液器	shu ye qi	0
+天和追风膏	tian he zhui feng gao	0
+头孢羟氨苄胶囊	tou bao qiang an bian jiao nang	0
+西咪替丁片	xi mi ti ding pian	0
+先锋四片	xian feng si pian	0
+硝苯地平片	xiao ben di ping pian	0
+血塞通注射液	xue sai tong zhu she ye	0
+盐酸氟桂利嗪片	yan suan fu gui li qin pian	0
+盐酸林可霉素注射液	yan suan lin ke mei su zhu she ye	0
+云南白药创可贴	yun nan bai yao chuang ke tie	0
+云南白药散剂	yun nan bai yao san ji	0
+中胶布	zhong jiao bu	0
+注射用阿奇霉素	zhu she yong a qi mei su	0
+头孢曲松钠	tou bao qu song na	0
+阿魏酸钠	a wei suan na	0
+阿司匹林片	a si pi lin pian	0
+氨酚待因片	an fen dai yin pian	0
+氨酚烷胺胶囊	an fen wan an jiao nang	0
+氨林巴比妥注射液	an lin ba bi tuo zhu she ye	0
+氨溴索片	an xiu suo pian	0
+吡拉西坦	bi la xi tan	0
+吡拉西坦	pi la xi tan	0
+参麦注射液	shen mai zhu she ye	0
+丹参片	dan shen pian	0
+地塞米松磷酸钠注射液	di sai mi song lin suan na zhu she ye	0
+酚酞片	fen tai pian	0
+甘草片	gan cao pian	0
+红霉素眼膏	hong mei su yan gao	0
+华佗再造丸	hua tuo zai zao wan	0
+急支糖浆	ji zhi tang jiang	0
+甲氧氯普胺	jia yang lv pu an	0
+降压零号	jiang ya ling hao	0
+救心丸	jiu xin wan	0
+利巴韦林注射液	li ba wei lin zhu she ye	0
+利凡诺	li fan nuo	0
+林可霉素注射液	lin ke mei su zhu she ye	0
+麻仁润肠软胶囊	ma ren run chang ruan jiao nang	0
+棉签	mian qian	0
+普乐安胶囊	pu le an jiao nang	0
+青霉素	qing mei su	0
+庆大霉素颗粒	qing da mei su ke li	0
+双氧水	shuang yang shui	0
+头孢氨苄颗粒	tou bao an bian ke li	0
+头孢拉定胶囊	tou bao la ding jiao nang	0
+头孢羟氨苄颗粒	tou bao qiang an bian ke li	0
+小儿氨酚烷胺颗粒	xiao er an fen wan an ke li	0
+新诺明	xin nuo ming	0
+氧氟沙星滴眼液	yang fu sha xing di yan ye	0
+氧氟沙星眼水	yang fu sha xing yan shui	0
+正红花油	zheng hong hua you	0
+注射器	zhu she qi	0
+阿莫西林克拉维酸钾	a mo xi lin ke la wei suan jia	0
+地塞米松	di sai mi song	0
+复方氯唑沙宗片	fu fang lv zuo sha zong pian	0
+尼美舒利片	ni mei shu li pian	0
+诺氟沙星	nuo fu sha xing	0
+气滞胃痛冲剂	qi zhi wei tong chong ji	0
+强力批把露	qiang li pi ba lu	0
+强力批把露	qiang li pi ba lou	0
+氢溴酸右美沙芬注射液	qing xiu suan you mei sha fen zhu she ye	0
+庆大霉素	qing da mei su	0
+头孢呋辛钠注射液	tou bao fu xin na zhu she ye	0
+头孢拉啶胶囊	tou bao la ding jiao nang	0
+一次性输液器	yi ci xing shu ye qi	0
+白癜净	bai dian jing	0
+白癜净	bai dian cheng	0
+百草止痒灵	bai cao zhi yang ling	0
+宝宝驱蚊露	bao bao qu wen lu	0
+宝宝驱蚊露	bao bao qu wen lou	0
+宝宝湿疹膏	bao bao shi zhen gao	0
+宝贝金水	bao bei jin shui	0
+鼻咽舒通	bi yan shu tong	0
+跌打损伤	die da sun shang	0
+跌打止痛酊	die da zhi tong ding	0
+冻疮立克	dong chuang li ke	0
+冻疮一号	dong chuang yi hao	0
+冻疮一抹消	dong chuang yi mo xiao	0
+冻伤膏	dong shang gao	0
+痘清	dou qing	0
+粉刺一扫光	fen ci yi sao guang	0
+丰胸组合	feng xiong zu he	0
+风湿关节	feng shi guan jie	0
+肤阴洁	fu yin jie	0
+妇科七粒清	fu ke qi li qing	0
+妇科千金栓	fu ke qian jin shuan	0
+妇科千金洗液	fu ke qian jin xi ye	0
+感冒喷剂	gan mao pen ji	0
+宫颈康栓剂	gong jing kang shuan ji	0
+骨泰痛消贴	gu tai tong xiao tie	0
+汗斑净	han ban jing	0
+汗斑净	han ban cheng	0
+好脸面	hao lian mian	0
+黑黄牙一刷白	hei huang ya yi shua bai	0
+狐臭半月清	hu chou ban yue qing	0
+狐克	hu ke	0
+华佗痔疮膏	hua tuo zhi chuang gao	0
+华佗痔疮栓	hua tuo zhi chuang shuan	0
+黄白带栓剂	huang bai dai shuan ji	0
+肩周炎	jian zhou yan	0
+脚臭净	jiao chou jing	0
+脚臭净	jiao chou cheng	0
+脚气脚臭脚汗	jiao qi jiao chou jiao han	0
+脚气净	jiao qi jing	0
+脚气净	jiao qi cheng	0
+脚癣一次净	jiao xuan yi ci jing	0
+脚癣一次净	jiao xuan yi ci cheng	0
+戒烟灵	jie yan ling	0
+芥必治	jie bi zhi	0
+芥必治	gai bi zhi	0
+筋骨疼痛贴	jin gu teng tong tie	0
+金鸡妇科栓	jin ji fu ke shuan	0
+颈椎贴	jing zhui tie	0
+菌必净	jun bi jing	0
+菌必净	jun bi cheng	0
+克淋霉软膏	ke lin mei ruan gao	0
+克疣净	ke you jing	0
+克疣净	ke you cheng	0
+口腔溃疡	kou qiang kui yang	0
+苦参湿痒洗液	ku shen shi yang xi ye	0
+烂脚丫	lan jiao ya	0
+亮甲	liang jia	0
+美乳宝	mei ru bao	0
+牛皮癣膏	niu pi xuan gao	0
+喷脚王	pen jiao wang	0
+喷脚王	pen jue wang	0
+皮炎平	pi yan ping	0
+前列腺贴	qian lie xian tie	0
+强力痘可消	qiang li dou ke xiao	0
+珊瑚癣净	shan hu xuan jing	0
+珊瑚癣净	shan hu xuan cheng	0
+蛇油烧烫伤	she you shao tang shang	0
+蛇油止裂冻疮	she you zhi lie dong chuang	0
+生发宝	sheng fa bao	0
+湿毒清	shi du qing	0
+湿疹软膏	shi zhen ruan gao	0
+手足裂口愈合	shou zu lie kou yu he	0
+手足皲裂	shou zu jun lie	0
+瘦身组合	shou shen zu he	0
+睡安	shui an	0
+脱毛霜	tuo mao shuang	0
+脱毛套装	tuo mao tao zhuang	0
+顽癣净	wan xuan jing	0
+顽癣净	wan xuan cheng	0
+蚊不叮	wen bu ding	0
+西施露	xi shi lu	0
+西施露	xi shi lou	0
+消糜灵栓剂	xiao mi ling shuan ji	0
+消糜灵栓剂	xiao mei ling shuan ji	0
+消肿止痛酊	xiao zhong zhi tong ding	0
+新亮甲	xin liang jia	0
+癣立清	xuan li qing	0
+牙齿洁白笔	ya chi jie bai bi	0
+牙疼速立停	ya teng su li ting	0
+咽炎喷剂	yan yan pen ji	0
+痒克舒	yang ke shu	0
+腰腿疼贴	yao tui teng tie	0
+阴道炎栓剂	yin dao yan shuan ji	0
+鱼眼鱼脑油	yu yan yu nao you	0
+浴足泡腾片	yu zu pao teng pian	0
+浴足盐	yu zu yan	0
+痔康	zhi kang	0
+坐骨神经痛	zuo gu shen jing tong	0
+祛斑组合	qu ban zu he	0
+瘙痒灵	sao yang ling	0
+鼾立停	han li ting	0
+辰欣	chen xin	0
+科伦	ke lun	0
+四川科伦	si chuan ke lun	0
+双鹤	shuang he	0
+山东华鲁制药	shan dong hua lu zhi yao	0
+杭州	hang zhou	0
+民生	min sheng	0
+杭州民生	hang zhou min sheng	0
+鲁抗	lu kang	0
+华北	hua bei	0
+宜昌长江药业	yi chang chang jiang yao ye	0
+常乐	chang le	0
+涞美	lai mei	0
+重庆莱美药业有限公司	chong qing lai mei yao ye you xian gong si	0
+卓峰	zhuo feng	0
+仟源	qian yuan	0
+罗欣	luo xin	0
+广西	guang xi	0
+信谊	xin yi	0
+信谊	shen yi	0
+宝塔	bao ta	0
+天方	tian fang	0
+石药银湖	shi yao yin hu	0
+山东鲁西	shan dong lu xi	0
+赤峰维康	chi feng wei kang	0
+大理	da li	0
+山东瑞阳制药有限公司	shan dong rui yang zhi yao you xian gong si	0
+湖北	hu bei	0
+银湖	yin hu	0
+山东鲁抗辰欣药业	shan dong lu kang chen xin yao ye	0
+瑞泰	rui tai	0
+齐鲁	qi lu	0
+北京协和	bei jing xie he	0
+健兴	jian xing	0
+东北	dong bei	0
+天士力	tian shi li	0
+神威	shen wei	0
+长天	chang tian	0
+亚宝	ya bao	0
+罗浮山	luo fu shan	0
+辅仁	fu ren	0
+齐星	qi xing	0
+宜昌	yi chang	0
+太极	tai ji	0
+山东齐都药业	shan dong qi du yao ye	0
+山东华信制药有限公司	shan dong hua xin zhi yao you xian gong si	0
+午时	wu shi	0
+山东瑞泰奇	shan dong rui tai qi	0
+山东瑞泰奇	shan dong rui tai ji	0
+徳州安捷	de zhou an jie	0
+美大	mei da	0
+美大	mei dai	0
+美大	mei tai	0
+开封制药集团有限公司	kai feng zhi yao ji tuan you xian gong si	0
+康神	kang shen	0
+普生	pu sheng	0
+武汉普生制药有限公司	wu han pu sheng zhi yao you xian gong si	0
+武汉普生制药	wu han pu sheng zhi yao	0
+广州白云山制药	guang zhou bai yun shan zhi yao	0
+华鲁	hua lu	0
+以岭药业	yi ling yao ye	0
+哈药	ha yao	0
+现代哈森	xian dai ha sen	0
+力诺科峰	li nuo ke feng	0
+同仁堂	tong ren tang	0
+青春康源	qing chun kang yuan	0
+马应龙	ma ying long	0
+浙江昂利康制药	zhe jiang ang li kang zhi yao	0
+金陵	jin ling	0
+美宝	mei bao	0
+南昌	nan chang	0
+利民	li min	0
+淄博	zi bo	0
+心宝	xin bao	0
+江西	jiang xi	0
+江西南昌	jiang xi nan chang	0
+康恩贝	kang en bei	0
+四川科创制药	si chuan ke chuang zhi yao	0
+广济	guang ji	0
+金耀	jin yao	0
+民康	min kang	0
+郑州康佳	zheng zhou kang jia	0
+南京易亨制药有限公司	nan jing yi heng zhi yao you xian gong si	0
+南京易亨制药有限公司	nan jing yi peng zhi yao you xian gong si	0
+中新	zhong xin	0
+天和	tian he	0
+羚锐	ling rui	0
+太安堂	tai an tang	0
+珍宝岛	zhen bao dao	0
+中狮	zhong shi	0
+天朗	tian lang	0
+国金	guo jin	0
+亚神	ya shen	0
+河北	he bei	0
+麦迪克	mai di ke	0

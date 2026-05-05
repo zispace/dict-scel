@@ -1,0 +1,662 @@
+# 词库名称: 中药名
+# 词库分类: 城市区划
+# 词库作者: 木梓艺
+# 词库描述: 中药分类加药名
+# 词条数量: 654
+# 解析词数: 657
+# 解析异常: 3
+
+解表药	jie biao yao	0
+发散风寒药	fa san feng han yao	0
+麻黄	ma huang	0
+桂枝	gui zhi	0
+紫苏叶	zi su ye	0
+香薷	xiang ru	0
+荆芥	jing jie	0
+防风	fang feng	0
+羌活	qiang huo	0
+白芷	bai zhi	0
+细辛	xi xin	0
+藁本	gao ben	0
+苍耳子	cang er zi	0
+辛夷	xin yi	0
+葱白	cong bai	0
+胡荽	hu sui	0
+西河柳	xi he liu	0
+发散风热药	fa san feng re yao	0
+薄荷	bo he	0
+牛蒡子	niu bang zi	0
+蝉蜕	chan tui	0
+桑叶	sang ye	0
+菊花	ju hua	0
+蔓荆子	man jing zi	0
+柴胡	chai hu	0
+升麻	sheng ma	0
+葛根	ge gen	0
+淡豆豉	dan dou chi	0
+浮萍	fu ping	0
+木贼	mu zei	0
+谷精草	gu jing cao	0
+谷精草	yu jing cao	0
+清热药	qing re yao	0
+清热泻火药	qing re xie huo yao	0
+石膏	shi gao	0
+寒水石	han shui shi	0
+知母	zhi mu	0
+芦根	lu gen	0
+天花粉	tian hua fen	0
+竹叶	zhu ye	0
+淡竹叶	dan zhu ye	0
+鸭趾草	ya zhi cao	0
+栀子	zhi zi	0
+夏枯草	xia ku cao	0
+决明子	jue ming zi	0
+密蒙花	mi meng hua	0
+青葙子	qing xiang zi	0
+清热燥湿药	qing re zao shi yao	0
+黄芩	huang qin	0
+黄连	huang lian	0
+黄柏	huang bo	0
+龙胆	long dan	0
+秦皮	qin pi	0
+苦参	ku shen	0
+白鲜皮	bai xian pi	0
+清热解毒药	qing re jie du yao	0
+金银花	jin yin hua	0
+连翘	lian qiao	0
+穿心莲	chuan xin lian	0
+大青叶	da qing ye	0
+板蓝根	ban lan gen	0
+青黛	qing dai	0
+贯众	guan zhong	0
+蒲公英	pu gong ying	0
+紫花地丁	zi hua di ding	0
+野菊花	ye ju hua	0
+重楼	chong lou	0
+拳参	quan can	0
+拳参	quan shen	0
+拳参	quan cen	0
+拳参	quan san	0
+漏芦	lou lu	0
+土茯苓	tu fu ling	0
+鱼腥草	yu xing cao	0
+金荞麦	jin qiao mai	0
+大血藤	da xue teng	0
+败酱草	bai jiang cao	0
+射干	she gan	0
+山豆根	shan dou gen	0
+马勃	ma bo	0
+马勃	ma bei	0
+青果	qing guo	0
+木蝴蝶	mu hu die	0
+白头翁	bai tou weng	0
+马齿苋	ma chi xian	0
+鸦胆子	ya dan zi	0
+地锦草	di jin cao	0
+半边莲	ban bian lian	0
+白花蛇舌草	bai hua she she cao	0
+山慈菇	shan ci gu	0
+熊胆粉	xiong dan fen	0
+千里光	qian li guang	0
+白蔹	bai lian	0
+四季青	si ji qing	0
+绿豆	lv dou	0
+清热凉血药	qing re liang xue yao	0
+生地黄	sheng di huang	0
+玄参	xuan shen	0
+牡丹皮	mu dan pi	0
+赤芍	chi shao	0
+紫草	zi cao	0
+水牛角	shui niu jiao	0
+水牛角	shui niu jue	0
+清虚热药	qing xu re yao	0
+青蒿	qing hao	0
+白薇	bai wei	0
+地骨皮	di gu pi	0
+地骨皮	de gu pi	0
+银柴胡	yin chai hu	0
+胡黄连	hu huang lian	0
+泻下药	xie xia yao	0
+攻下药	gong xia yao	0
+大黄	dai huang	0
+芒硝	mang xiao	0
+番泻叶	fan xie ye	0
+芦荟	lu hui	0
+润下药	run xia yao	0
+火麻仁	huo ma ren	0
+郁李仁	yu li ren	0
+松子仁	song zi ren	0
+峻下逐水药	jun xia zhu shui yao	0
+甘遂	gan sui	0
+京大戟	jing da ji	0
+芫花	yuan hua	0
+商路	shang lu	0
+牵牛子	qian niu zi	0
+巴豆霜	ba dou shuang	0
+千金子	qian jin zi	0
+祛风湿药	qu feng shi yao	0
+祛风寒湿药	qu feng han shi yao	0
+独活	du huo	0
+威灵仙	wei ling xian	0
+徐长卿	xu chang qing	0
+川乌	chuan wu	0
+蕲蛇	qi she	0
+蕲蛇	qi yi	0
+乌梢蛇	wu shao she	0
+木瓜	mu gua	0
+蚕沙	can sha	0
+伸筋草	shen jin cao	0
+油松节	you song jie	0
+海风藤	hai feng teng	0
+青风藤	qing feng teng	0
+丁公藤	ding gong teng	0
+丁公藤	zheng gong teng	0
+昆明山海棠	kun ming shan hai tang	0
+路路通	lu lu tong	0
+穿山甲	chuan shan jia	0
+祛风湿热药	qu feng shi re yao	0
+秦艽	qin jiao	0
+防己	fang ji	0
+桑枝	sang zhi	0
+臭梧桐	xiu wu tong	0
+海桐皮	hai tong pi	0
+络石藤	luo shi teng	0
+雷公藤	lei gong teng	0
+老鹤草	lao he cao	0
+丝瓜络	si gua luo	0
+祛风湿强筋骨药	qu feng shi qiang jin gu yao	0
+五加皮	wu jia pi	0
+桑寄生	sang ji sheng	0
+狗脊	gou ji	0
+千年健	qian nian jian	0
+雪莲花	xue lian hua	0
+化湿药	hua shi yao	0
+广藿香	guang huo xiang	0
+佩兰	pei lan	0
+苍术	cang zhu	0
+厚朴	hou pu	0
+砂仁	sha ren	0
+豆蔻	dou kou	0
+草豆蔻	cao dou kou	0
+草果	cao guo	0
+利水渗湿药	li shui shen shi yao	0
+利水消肿药	li shui xiao zhong yao	0
+茯苓	fu ling	0
+薏苡仁	yi yi ren	0
+猪苓	zhu ling	0
+泽泻	ze xie	0
+冬瓜皮	dong gua pi	0
+玉米须	yu mi xu	0
+葫芦	hu lu	0
+香加皮	xiang jia pi	0
+枳椇子	zhi ju zi	0
+利尿通淋药	li niao tong lin yao	0
+车前子	che qian zi	0
+滑石	hua shi	0
+木通	mu tong	0
+通草	tong cao	0
+瞿麦	qu mai	0
+瞿麦	ju mai	0
+扁蓄	bian xu	0
+扁蓄	pian xu	0
+地肤子	di fu zi	0
+海金沙	hai jin sha	0
+石韦	shi wei	0
+石韦	dan wei	0
+冬葵子	dong kui zi	0
+灯芯草	deng xin cao	0
+茵陈	yin chen	0
+金钱草	jin qian cao	0
+虎杖	hu zhang	0
+地耳草	di er cao	0
+地耳草	de er cao	0
+垂盆草	chui pen cao	0
+鸡骨草	ji gu cao	0
+珍珠草	zhen zhu cao	0
+温里药	wen li yao	0
+附子	fu zi	0
+干姜	gan jiang	0
+肉桂	rou gui	0
+吴茱萸	wu zhu yu	0
+小茴香	xiao hui xiang	0
+丁香	ding xiang	0
+高良姜	gao liang jiang	0
+胡椒	hu jiao	0
+花椒	hua jiao	0
+荜茇	bi ba	0
+荜澄茄	bi cheng qie	0
+荜澄茄	bi deng qie	0
+荜澄茄	bi cheng jia	0
+荜澄茄	bi deng jia	0
+理气药	li qi yao	0
+陈皮	chen pi	0
+青皮	qing pi	0
+枳实	zhi shi	0
+木香	mu xiang	0
+沉香	chen xiang	0
+檀香	tan xiang	0
+川楝子	chuan lian zi	0
+乌药	wu yao	0
+荔枝核	li zhi he	0
+荔枝核	li zhi hu	0
+香附	xiang fu	0
+佛手	fo shou	0
+香橼	xiang yuan	0
+玫瑰花	mei gui hua	0
+梅花	mei hua	0
+娑罗子	suo luo zi	0
+薤白	xie bai	0
+大腹皮	da fu pi	0
+甘松	gan song	0
+九香虫	jiu xiang chong	0
+刀豆	dao dou	0
+柿蒂	shi di	0
+消食药	xiao shi yao	0
+山楂	shan zha	0
+六神曲	liu shen qu	0
+麦芽	mai ya	0
+稻芽	dao ya	0
+莱菔子	lai fu zi	0
+鸡内金	ji nei jin	0
+驱虫药	qu chong yao	0
+使君子	shi jun zi	0
+苦楝皮	ku lian pi	0
+槟榔	bing lang	0
+南瓜子	nan gua zi	0
+鹤草芽	he cao ya	0
+雷丸	lei wan	0
+鹤虱	he shi	0
+榧子	fei zi	0
+芜夷	wu yi	0
+止血药	zhi xue yao	0
+凉血止血药	liang xue zhi xue yao	0
+小蓟	xiao ji	0
+大蓟	da ji	0
+地榆	di yu	0
+地榆	de yu	0
+槐花	huai hua	0
+侧柏叶	ce bai ye	0
+白茅根	bai mao gen	0
+苎麻根	zhu ma gen	0
+羊蹄	yang ti	0
+化瘀止血药	hua yu zhi xue yao	0
+三七	san qi	0
+茜草	qian cao	0
+蒲黄	pu huang	0
+花蕊石	hua rui shi	0
+花蕊石	hua rui dan	0
+收敛止血药	shou lian zhi xue yao	0
+白及	bai ji	0
+仙鹤草	xian he cao	0
+紫珠叶	zi zhu ye	0
+紫珠叶	zi zhu xie	0
+棕榈碳	zong lv tan	0
+血余碳	xie yu tan	0
+血余碳	xue yu tan	0
+藕节	ou jie	0
+温经止血药	wen jing zhi xue yao	0
+艾叶	ai ye	0
+炮姜	pao jiang	0
+灶心土	zao xin tu	0
+活血化瘀药	huo xue hua yu yao	0
+活血止痛药	huo xue zhi tong yao	0
+川芎	chuan xiong	0
+延胡索	yan hu suo	0
+郁金	yu jin	0
+姜黄	jiang huang	0
+乳香	ru xiang	0
+没药	mo yao	0
+五灵脂	wu ling zhi	0
+降香	jiang xiang	0
+活血调经药	huo xue tiao jing yao	0
+丹参	dan shen	0
+红花	hong hua	0
+桃仁	tao ren	0
+益母草	yi mu cao	0
+泽兰	ze lan	0
+牛膝	niu xi	0
+鸡血藤	ji xue teng	0
+王不留行	wang bu liu xing	0
+月季花	yue ji hua	0
+凌霄花	ling xiao hua	0
+活血疗伤药	huo xue liao shang yao	0
+土鳖虫	tu bie chong	0
+马钱子	ma qian zi	0
+自然铜	zi ran tong	0
+苏木	su mu	0
+骨碎补	gu sui bu	0
+血竭	xue jie	0
+儿茶	er cha	0
+刘寄奴	liu ji nu	0
+三棱	san leng	0
+水蛭	shui zhi	0
+虻虫	meng chong	0
+斑蝥	ban mao	0
+化痰止咳平喘药	hua tan zhi ke ping chuan yao	0
+温化寒痰药	wen hua han tan yao	0
+半夏	ban xia	0
+天南星	tian nan xing	0
+白附子	bai fu zi	0
+介子	jie zi	0
+皂荚	zao jia	0
+旋覆花	xuan fu hua	0
+白前	bai qian	0
+猫爪草	mao zhua cao	0
+猫爪草	mao zhao cao	0
+清化热痰药	qing hua re tan yao	0
+川贝母	chuan bei mu	0
+浙贝母	zhe bei mu	0
+瓜蒌	gua lou	0
+竹茹	zhu ru	0
+竹沥	zhu li	0
+天竺黄	tian zhu huang	0
+前胡	qian hu	0
+桔梗	jie geng	0
+胖大海	pang da hai	0
+海藻	hai zao	0
+昆布	kun bu	0
+黄药子	huang yao zi	0
+海蛤壳	hai ge ke	0
+海蛤壳	hai ha ke	0
+海蛤壳	hai ge qiao	0
+海蛤壳	hai ha qiao	0
+海浮石	hai fu shi	0
+瓦楞子	wa leng zi	0
+礞石	meng shi	0
+止咳平喘药	zhi ke ping chuan yao	0
+苦杏仁	ku xing ren	0
+紫苏子	zi su zi	0
+百部	bai bu	0
+紫菀	zi wan	0
+款冬花	kuan dong hua	0
+马兜铃	ma dou ling	0
+枇杷叶	pi pa ye	0
+桑白皮	sang bai pi	0
+葶苈子	ting li zi	0
+白果	bai guo	0
+矮地茶	ai di cha	0
+矮地茶	ai de cha	0
+安神药	an shen yao	0
+重镇安神药	zhong zhen an shen yao	0
+朱砂	zhu sha	0
+磁石	ci shi	0
+龙骨	long gu	0
+琥珀	hu po	0
+养心安神药	yang xin an shen yao	0
+酸枣仁	suan zao ren	0
+柏子仁	bai zi ren	0
+灵芝	ling zhi	0
+首乌藤	shou wu teng	0
+合欢皮	he huan pi	0
+远志	yuan zhi	0
+平肝熄风药	ping gan xi feng yao	0
+平抑肝阳药	ping yi gan yang yao	0
+石决明	shi jue ming	0
+珍珠母	zhen zhu mu	0
+牡蛎	mu li	0
+紫贝齿	zi bei chi	0
+代赭石	dai zhe shi	0
+刺蒺藜	ci ji li	0
+罗布麻叶	luo bu ma ye	0
+罗布麻叶	luo bu ma xie	0
+息风止痉药	xi feng zhi jing yao	0
+羚羊角	ling yang jiao	0
+牛黄	niu huang	0
+珍珠	zhen zhu	0
+钩藤	gou teng	0
+天麻	tian ma	0
+地龙	di long	0
+全蝎	quan xie	0
+蜈蚣	wu gong	0
+僵蚕	jiang can	0
+开窍药	kai qiao yao	0
+麝香	she xiang	0
+冰片	bing pian	0
+苏合香	su he xiang	0
+石菖蒲	shi chang pu	0
+补虚药	bu xu yao	0
+补气药	bu qi yao	0
+人参	ren shen	0
+西洋参	xi yang shen	0
+党参	dang shen	0
+太子参	tai zi shen	0
+黄芪	huang qi	0
+白术	bai zhu	0
+山药	shan yao	0
+白扁豆	bai bian dou	0
+甘草	gan cao	0
+大枣	da zao	0
+刺五加	ci wu jia	0
+绞股蓝	jiao gu lan	0
+红景天	hong jing tian	0
+沙棘	sha ji	0
+饴糖	yi tang	0
+蜂蜜	feng mi	0
+补阳药	bu yang yao	0
+鹿茸	lu rong	0
+紫河车	zi he che	0
+淫羊藿	yin yang huo	0
+巴戟天	ba ji tian	0
+仙茅	xian mao	0
+杜仲	du zhong	0
+续断	xu duan	0
+肉苁蓉	rou cong rong	0
+锁阳	suo yang	0
+补骨脂	bu gu zhi	0
+益智仁	yi zhi ren	0
+菟丝子	tu si zi	0
+沙苑子	sha yuan zi	0
+蛤蚧	ge jie	0
+核桃仁	he tao ren	0
+冬虫夏草	dong chong xia cao	0
+葫芦巴	hu lu ba	0
+韭菜子	jiu cai zi	0
+阳起石	yang qi shi	0
+紫石英	zi shi ying	0
+海狗肾	hai gou shen	0
+海马	hai ma	0
+哈蟆油	ha ma you	0
+哈蟆油	ha mo you	0
+补血药	bu xue yao	0
+当归	dang gui	0
+白芍	bai shao	0
+阿胶	e jiao	0
+何首乌	he shou wu	0
+龙眼肉	long yan rou	0
+补阴药	bu yin yao	0
+北沙参	bei sha shen	0
+南沙参	nan sha can	0
+南沙参	nan sha shen	0
+南沙参	nan sha cen	0
+南沙参	nan sha san	0
+百合	bai he	0
+麦冬	mai dong	0
+天冬	tian dong	0
+石斛	shi hu	0
+玉竹	yu zhu	0
+黄精	huang jing	0
+枸杞子	gou qi zi	0
+墨旱莲	mo han lian	0
+女贞子	nv zhen zi	0
+桑椹	sang shen	0
+黑芝麻	hei zhi ma	0
+龟甲	gui jia	0
+鳖甲	bie jia	0
+收涩药	shou se yao	0
+固表止汗药	gu biao zhi han yao	0
+麻黄根	ma huang gen	0
+浮小麦	fu xiao mai	0
+糯稻根	nuo dao gen	0
+敛肺涩肠药	lian fei se chang yao	0
+五味子	wu wei zi	0
+乌梅	wu mei	0
+五倍子	wu bei zi	0
+罂粟壳	ying su ke	0
+诃子	he zi	0
+石榴皮	shi liu pi	0
+肉豆蔻	rou dou kou	0
+赤石脂	chi shi zhi	0
+禹余粮	yu yu liang	0
+固精缩尿止带药	gu jing suo niao zhi dai yao	0
+固精缩尿止带药	gu jing suo sui zhi dai yao	0
+固精缩尿止带药	gu jing su niao zhi dai yao	0
+固精缩尿止带药	gu jing su sui zhi dai yao	0
+山茱萸	shan zhu yu	0
+覆盆子	fu pen zi	0
+桑螵蛸	sang piao xiao	0
+金樱子	jin ying zi	0
+海螵蛸	hai piao xiao	0
+海螵蛸	hai piao shao	0
+莲子	lian zi	0
+芡实	qian shi	0
+刺猬皮	ci wei pi	0
+椿皮	chun pi	0
+鸡冠花	ji guan hua	0
+涌吐药	yong tu yao	0
+涌吐药	chong tu yao	0
+常山	chang shan	0
+瓜蒂	gua di	0
+胆矾	dan fan	0
+藜芦	li lu	0
+攻毒杀虫止痒药	gong du sha chong zhi yang yao	0
+雄黄	xiong huang	0
+硫磺	liu huang	0
+白帆	bai fan	0
+蛇床子	she chuang zi	0
+土荆皮	tu jing pi	0
+蜂房	feng fang	0
+樟脑	zhang nao	0
+蟾酥	chan su	0
+大蒜	da suan	0
+拔毒化腐生肌药	ba du hua fu sheng ji yao	0
+红粉	hong fen	0
+轻粉	qing fen	0
+砒石	pi shi	0
+砒石	pi dan	0
+铅丹	qian dan	0
+炉甘石	lu gan shi	0
+硼砂	peng sha	0
+附药	fu yao	0
+生姜皮	sheng jiang pi	0
+生姜汁	sheng jiang zhi	0
+荆芥碳	jing jie tan	0
+葛花	ge hua	0
+大豆黄卷	da dou huang juan	0
+忍冬藤	ren dong teng	0
+山银花	shan yin hua	0
+墓头回	mu tou hui	0
+北豆根	bei dou gen	0
+西青果	xi qing guo	0
+半枝莲	ban zhi lian	0
+绿豆衣	lv dou yi	0
+赤小豆	chi xiao dou	0
+黑豆	hei dou	0
+鲜地黄	xian di huang	0
+紫草茸	zi cao rong	0
+红大戟	hong da ji	0
+狼毒	lang du	0
+巴豆	ba dou	0
+草乌	cao wu	0
+金钱白花蛇	jin qian bai hua she	0
+蛇蜕	she tui	0
+蛇蜕	yi tui	0
+松花粉	song hua fen	0
+天山雪莲	tian shan xue lian	0
+厚朴花	hou pu hua	0
+砂仁壳	sha ren ke	0
+砂仁壳	sha ren qiao	0
+豆蔻壳	dou kou ke	0
+豆蔻壳	dou kou qiao	0
+茯苓皮	fu ling pi	0
+茯神	fu shen	0
+冬瓜子	dong gua zi	0
+车前草	che qian cao	0
+川木通	chuan mu tong	0
+海金沙藤	hai jin sha teng	0
+连钱草	lian qian cao	0
+广金钱草	guang jin qian cao	0
+江西金钱草	jiang xi jin qian cao	0
+小金钱草	xiao jin qian cao	0
+八角茴香	ba jiao hui xiang	0
+母丁香	mu ding xiang	0
+红豆蔻	hong dou kou	0
+椒目	jiao mu	0
+橘红	ju hong	0
+橘核	ju he	0
+橘核	ju hu	0
+橘络	ju luo	0
+橘叶	ju ye	0
+橘叶	ju xie	0
+化橘红	hua ju hong	0
+川木香	chuan mu xiang	0
+土木香	tu mu xiang	0
+建神曲	jian shen qu	0
+谷芽	gu ya	0
+谷芽	yu ya	0
+槐角	huai jiao	0
+槐角	huai jue	0
+土大黄	tu dai huang	0
+大叶紫珠	da ye zi zhu	0
+西红花	xi hong hua	0
+茺蔚子	chong wei zi	0
+川牛膝	chuan niu xi	0
+北刘寄奴	bei liu ji nu	0
+半夏曲	ban xia qu	0
+胆南星	dan nan xing	0
+关白附	guan bai fu	0
+皂角刺	zao jiao ci	0
+金沸草	jin fei cao	0
+平贝母	ping bei mu	0
+伊贝母	yi bei mu	0
+湖北贝母	hu bei bei mu	0
+土贝母	tu bei mu	0
+瓜蒌皮	gua lou pi	0
+瓜蒌子	gua lou zi	0
+罗汉果	luo han guo	0
+甜杏仁	tian xing ren	0
+青木香	qing mu xiang	0
+天仙藤	tian xian teng	0
+银杏叶	yin xing ye	0
+水银	shui yin	0
+龙齿	long chi	0
+合欢花	he huan hua	0
+山羊角	shan yang jiao	0
+山羊角	shan yang jue	0
+体外培育牛黄	ti wai pei yu niu huang	0
+人工牛黄	ren gong niu huang	0
+密环菌	mi huan jun	0
+僵蛹	jiang yong	0
+雄蚕蛾	xiong can e	0
+安息香	an xi xiang	0
+九节菖蒲	jiu jie chang pu	0
+红参	hong shen	0
+人参叶	ren shen ye	0
+人参叶	ren shen xie	0
+明党参	ming dang shen	0
+红芪	hong qi	0
+红芪	gong qi	0
+扁豆衣	bian dou yi	0
+扁豆花	bian dou hua	0
+蜂胶	feng jiao	0
+鹿角	lu jiao	0
+鹿角胶	lu jiao jiao	0
+鹿角霜	lu jiao shuang	0
+脐带	qi dai	0
+杜仲叶	du zhong ye	0
+杜仲叶	du zhong xie	0
+黄狗肾	huang gou shen	0
+海龙	hai long	0
+龟甲胶	gui jia jiao	0
+小麦	xiao mai	0
+莲须	lian xu	0
+莲房	lian fang	0
+莲子心	lian zi xin	0
+荷叶	he ye	0
+荷梗	he geng	0
+石莲子	shi lian zi	0
+皂矾	zao fan	0
+绿矾	lv fan	0
+木槿皮	mu jin pi	0
+蜂蜡	feng la	0
+蟾皮	chan pi	0
+密陀僧	mi tuo seng	0

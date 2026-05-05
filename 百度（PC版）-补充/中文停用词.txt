@@ -1,0 +1,1160 @@
+# 词库名称: 中文停用词
+# 词库分类: 城市区划
+# 词库作者: 松子茶crystal
+# 词库描述: 中文停用词词库，主要包含了中文中常见的虚词，停用词等
+# 词条数量: 1152
+# 解析词数: 1164
+# 解析异常: 12
+
+人民	ren min	0
+啊	a	0
+阿	a	0
+阿	e	0
+哎	ai	0
+哎呀	ai ya	0
+哎哟	ai you	0
+唉	ai	0
+俺	an	0
+俺们	an men	0
+按	an	0
+按照	an zhao	0
+吧	ba	0
+吧哒	ba da	0
+把	ba	0
+罢了	ba liao	0
+罢了	ba le	0
+被	bei	0
+被	pi	0
+本	ben	0
+本着	ben zhe	0
+比	bi	0
+比方	bi fang	0
+比如	bi ru	0
+鄙人	bi ren	0
+彼	bi	0
+彼此	bi ci	0
+边	bian	0
+别	bie	0
+别的	bie de	0
+别说	bie shuo	0
+并	bing	0
+并且	bing qie	0
+不比	bu bi	0
+不成	bu cheng	0
+不单	bu dan	0
+不但	bu dan	0
+不独	bu du	0
+不管	bu guan	0
+不光	bu guang	0
+不过	bu guo	0
+不仅	bu jin	0
+不拘	bu ju	0
+不论	bu lun	0
+不怕	bu pa	0
+不然	bu ran	0
+不如	bu ru	0
+不特	bu te	0
+不惟	bu wei	0
+不问	bu wen	0
+不只	bu zhi	0
+朝	zhao	0
+朝	chao	0
+朝着	chao zhe	0
+趁	chen	0
+趁着	chen zhe	0
+乘	cheng	0
+乘	sheng	0
+冲	chong	0
+除	chu	0
+除此之外	chu ci zhi wai	0
+除非	chu fei	0
+除了	chu le	0
+此	ci	0
+此间	ci jian	0
+此外	ci wai	0
+从	cong	0
+从	zong	0
+从而	cong er	0
+打	da	0
+待	dai	0
+但	dan	0
+但是	dan shi	0
+当	dang	0
+当着	dang zhe	0
+到	dao	0
+得	de	0
+得	dei	0
+的	de	0
+的	di	0
+的话	de hua	0
+等	deng	0
+等等	deng deng	0
+地	di	0
+地	de	0
+第	di	0
+叮咚	ding dong	0
+对	dui	0
+对于	dui yu	0
+多	duo	0
+多少	duo shao	0
+而	er	0
+而况	er kuang	0
+而且	er qie	0
+而是	er shi	0
+而外	er wai	0
+而言	er yan	0
+而已	er yi	0
+尔后	er hou	0
+反过来	fan guo lai	0
+反过来说	fan guo lai shuo	0
+反之	fan zhi	0
+非但	fei dan	0
+非徒	fei tu	0
+否则	fou ze	0
+嘎	ga	0
+嘎登	ga deng	0
+该	gai	0
+赶	gan	0
+个	ge	0
+各	ge	0
+各个	ge ge	0
+各位	ge wei	0
+各种	ge zhong	0
+各自	ge zi	0
+给	gei	0
+给	ji	0
+根据	gen ju	0
+跟	gen	0
+故	gu	0
+故此	gu ci	0
+固然	gu ran	0
+关于	guan yu	0
+管	guan	0
+归	gui	0
+果然	guo ran	0
+果真	guo zhen	0
+过	guo	0
+哈	ha	0
+哈哈	ha ha	0
+呵	he	0
+呵	a	0
+呵	ke	0
+和	he	0
+和	hu	0
+和	huo	0
+何	he	0
+何处	he chu	0
+何况	he kuang	0
+何时	he shi	0
+嘿	hei	0
+嘿	mo	0
+哼	heng	0
+哼唷	heng yo	0
+呼哧	hu chi	0
+乎	hu	0
+哗	hua	0
+哗	ye	0
+还是	hai shi	0
+还有	hai you	0
+换句话说	huan ju hua shuo	0
+换言之	huan yan zhi	0
+或	huo	0
+或是	huo shi	0
+或者	huo zhe	0
+极了	ji le	0
+及	ji	0
+及其	ji qi	0
+及至	ji zhi	0
+即	ji	0
+即便	ji bian	0
+即或	ji huo	0
+即令	ji ling	0
+即若	ji ruo	0
+即使	ji shi	0
+几	ji	0
+几时	ji shi	0
+己	ji	0
+既	ji	0
+既然	ji ran	0
+既是	ji shi	0
+继而	ji er	0
+加之	jia zhi	0
+假如	jia ru	0
+假若	jia ruo	0
+假使	jia shi	0
+鉴于	jian yu	0
+将	jiang	0
+将	qiang	0
+较	jiao	0
+较之	jiao zhi	0
+叫	jiao	0
+接着	jie zhe	0
+结果	jie guo	0
+借	jie	0
+紧接着	jin jie zhe	0
+进而	jin er	0
+尽	jin	0
+尽管	jin guan	0
+经	jing	0
+经过	jing guo	0
+就	jiu	0
+就是	jiu shi	0
+就是说	jiu shi shuo	0
+据	ju	0
+具体地说	ju ti de shuo	0
+具体说来	ju ti shuo lai	0
+开始	kai shi	0
+开外	kai wai	0
+靠	kao	0
+咳	ke	0
+咳	hai	0
+可	ke	0
+可见	ke jian	0
+可是	ke shi	0
+可以	ke yi	0
+况且	kuang qie	0
+啦	la	0
+来	lai	0
+来着	lai zhe	0
+离	li	0
+例如	li ru	0
+哩	li	0
+连	lian	0
+连同	lian tong	0
+两者	liang zhe	0
+了	le	0
+了	liao	0
+临	lin	0
+另	ling	0
+另外	ling wai	0
+另一方面	ling yi fang mian	0
+论	lun	0
+嘛	ma	0
+吗	ma	0
+慢说	man shuo	0
+漫说	man shuo	0
+每当	mei dang	0
+们	men	0
+莫若	mo ruo	0
+某个	mou ge	0
+拿	na	0
+哪	na	0
+哪	ne	0
+哪	nei	0
+哪边	na bian	0
+哪儿	na er	0
+哪个	na ge	0
+哪里	na li	0
+哪年	na nian	0
+哪怕	na pa	0
+哪天	na tian	0
+哪些	na xie	0
+哪样	na yang	0
+那	na	0
+那	nei	0
+那边	na bian	0
+那儿	na er	0
+那个	na ge	0
+那会儿	na hui er	0
+那里	na li	0
+那么	na me	0
+那么些	na me xie	0
+那么样	na me yang	0
+那时	na shi	0
+那些	na xie	0
+那样	na yang	0
+乃	nai	0
+乃至	nai zhi	0
+呢	ne	0
+呢	ni	0
+能	neng	0
+能	nai	0
+你	ni	0
+你们	ni men	0
+您	nin	0
+宁	ning	0
+宁可	ning ke	0
+宁肯	ning ken	0
+宁愿	ning yuan	0
+旁人	pang ren	0
+呸	pei	0
+凭借	ping jie	0
+其	qi	0
+其	ji	0
+其次	qi ci	0
+其二	qi er	0
+其他	qi ta	0
+其它	qi ta	0
+其一	qi yi	0
+其余	qi yu	0
+其中	qi zhong	0
+起	qi	0
+起见	qi jian	0
+岂但	qi dan	0
+恰恰相反	qia qia xiang fan	0
+前后	qian hou	0
+前者	qian zhe	0
+且	qie	0
+且	ju	0
+且	qu	0
+然而	ran er	0
+然后	ran hou	0
+然则	ran ze	0
+让	rang	0
+人家	ren jia	0
+任	ren	0
+任何	ren he	0
+任凭	ren ping	0
+如	ru	0
+如此	ru ci	0
+如果	ru guo	0
+如何	ru he	0
+如其	ru qi	0
+如若	ru ruo	0
+如上所述	ru shang suo shu	0
+若	ruo	0
+若	re	0
+若非	ruo fei	0
+若是	ruo shi	0
+上下	shang xia	0
+尚且	shang qie	0
+设若	she ruo	0
+设使	she shi	0
+甚而	shen er	0
+甚么	shen me	0
+甚至	shen zhi	0
+省得	sheng de	0
+时候	shi hou	0
+掺	chan	0
+掺	can	0
+掺	shan	0
+掺	xian	0
+什么样	shen me yang	0
+使得	shi de	0
+是	shi	0
+是的	shi de	0
+首先	shou xian	0
+愍	min	0
+顺着	shun zhe	0
+似的	shi de	0
+虽	sui	0
+虽然	sui ran	0
+虽说	sui shuo	0
+虽则	sui ze	0
+随	sui	0
+随着	sui zhe	0
+所	suo	0
+所以	suo yi	0
+他	ta	0
+他们	ta men	0
+他人	ta ren	0
+它	ta	0
+它们	ta men	0
+她	ta	0
+她	jie	0
+她们	ta men	0
+倘	tang	0
+倘	chang	0
+倘或	tang huo	0
+倘然	tang ran	0
+倘若	tang ruo	0
+倘使	tang shi	0
+腾	teng	0
+替	ti	0
+通过	tong guo	0
+万一	wan yi	0
+往	wang	0
+望	wang	0
+为何	wei he	0
+为了	wei le	0
+为着	wei zhe	0
+嗡嗡	weng weng	0
+我	wo	0
+我们	wo men	0
+呜	wu	0
+呜呼	wu hu	0
+乌乎	wu hu	0
+无论	wu lun	0
+无宁	wu ning	0
+毋宁	wu ning	0
+嘻	xi	0
+吓	xia	0
+吓	he	0
+相对而言	xiang dui er yan	0
+像	xiang	0
+向	xiang	0
+向着	xiang zhe	0
+嘘	xu	0
+嘘	shi	0
+焉	yan	0
+沿	yan	0
+沿着	yan zhe	0
+要不	yao bu	0
+要不然	yao bu ran	0
+要不是	yao bu shi	0
+要是	yao shi	0
+也罢	ye ba	0
+也好	ye hao	0
+一般	yi ban	0
+一旦	yi dan	0
+一方面	yi fang mian	0
+一来	yi lai	0
+一切	yi qie	0
+一样	yi yang	0
+一则	yi ze	0
+依	yi	0
+依照	yi zhao	0
+矣	yi	0
+以	yi	0
+以便	yi bian	0
+以及	yi ji	0
+以免	yi mian	0
+以至	yi zhi	0
+以至于	yi zhi yu	0
+以致	yi zhi	0
+抑或	yi huo	0
+因	yin	0
+因此	yin ci	0
+因而	yin er	0
+因为	yin wei	0
+用	yong	0
+由	you	0
+由此可见	you ci ke jian	0
+由于	you yu	0
+有	you	0
+有的	you de	0
+有关	you guan	0
+有些	you xie	0
+又	you	0
+于	yu	0
+于是	yu shi	0
+于是乎	yu shi hu	0
+与	yu	0
+与此同时	yu ci tong shi	0
+与否	yu fou	0
+与其	yu qi	0
+越是	yue shi	0
+云云	yun yun	0
+哉	zai	0
+再说	zai shuo	0
+再者	zai zhe	0
+在	zai	0
+在下	zai xia	0
+咱	zan	0
+咱	za	0
+咱们	zan men	0
+则	ze	0
+怎	zen	0
+怎么	zen me	0
+怎么办	zen me ban	0
+怎么样	zen me yang	0
+怎样	zen yang	0
+照着	zhao zhe	0
+者	zhe	0
+这	zhe	0
+这	zhei	0
+这边	zhe bian	0
+这儿	zhe er	0
+这个	zhe ge	0
+这会儿	zhe hui er	0
+这就是说	zhe jiu shi shuo	0
+这里	zhe li	0
+这么	zhe me	0
+这么点儿	zhe me dian er	0
+这么些	zhe me xie	0
+这么样	zhe me yang	0
+这时	zhe shi	0
+这些	zhe xie	0
+这样	zhe yang	0
+正如	zheng ru	0
+之类	zhi lei	0
+之所以	zhi suo yi	0
+只是	zhi shi	0
+只限	zhi xian	0
+华	hua	0
+只有	zhi you	0
+至	zhi	0
+至于	zhi yu	0
+诸位	zhu wei	0
+着	zhe	0
+着	zhao	0
+着	zhuo	0
+着呢	zhe ne	0
+自	zi	0
+自从	zi cong	0
+自个儿	zi ge er	0
+自各儿	zi ge er	0
+自己	zi ji	0
+自家	zi jia	0
+自身	zi shen	0
+综上所述	zong shang suo shu	0
+总的来看	zong de lai kan	0
+总的来说	zong de lai shuo	0
+总的说来	zong de shuo lai	0
+总而言之	zong er yan zhi	0
+总之	zong zhi	0
+纵	zong	0
+纵令	zong ling	0
+纵然	zong ran	0
+纵使	zong shi	0
+遵照	zun zhao	0
+作为	zuo wei	0
+兮	xi	0
+呃	e	0
+呗	bai	0
+呗	bei	0
+咚	dong	0
+咦	yi	0
+喏	nuo	0
+喏	re	0
+啐	cui	0
+啐	qi	0
+喔唷	wo yo	0
+嗬	he	0
+嗯	en	0
+嗳	ai	0
+白	bai	0
+社会主义	she hui zhu yi	0
+啊哈	a ha	0
+啊呀	a ya	0
+啊哟	a yo	0
+挨次	ai ci	0
+挨个	ai ge	0
+挨家挨户	ai jia ai hu	0
+挨门挨户	ai men ai hu	0
+挨门逐户	ai men zhu hu	0
+挨着	ai zhe	0
+按理	an li	0
+按期	an qi	0
+按时	an shi	0
+按说	an shuo	0
+暗地里	an di li	0
+暗中	an zhong	0
+暗自	an zi	0
+昂然	ang ran	0
+八成	ba cheng	0
+白白	bai bai	0
+半	ban	0
+梆	bang	0
+保管	bao guan	0
+保险	bao xian	0
+饱	bao	0
+背地里	bei di li	0
+背靠背	bei kao bei	0
+倍感	bei gan	0
+倍加	bei jia	0
+本人	ben ren	0
+本身	ben shen	0
+甭	beng	0
+比起	bi qi	0
+比如说	bi ru shuo	0
+比照	bi zhao	0
+毕竟	bi jing	0
+必	bi	0
+必定	bi ding	0
+必将	bi jiang	0
+必须	bi xu	0
+便	bian	0
+便	pian	0
+别人	bie ren	0
+并非	bing fei	0
+并肩	bing jian	0
+并没	bing mei	0
+并没有	bing mei you	0
+并排	bing pai	0
+并无	bing wu	0
+勃然	bo ran	0
+不	bu	0
+不	fou	0
+不必	bu bi	0
+不常	bu chang	0
+不大	bu da	0
+不但而且	bu dan er qie	0
+不得	bu de	0
+不得不	bu de bu	0
+不得了	bu de liao	0
+不得已	bu de yi	0
+不迭	bu die	0
+不定	bu ding	0
+不对	bu dui	0
+不妨	bu fang	0
+不管怎样	bu guan zen yang	0
+不会	bu hui	0
+不仅而且	bu jin er qie	0
+不仅仅	bu jin jin	0
+不仅仅是	bu jin jin shi	0
+不经意	bu jing yi	0
+不可开交	bu ke kai jiao	0
+不可抗拒	bu ke kang ju	0
+不力	bu li	0
+不了	bu liao	0
+不了	bu le	0
+不料	bu liao	0
+不满	bu man	0
+不免	bu mian	0
+不能不	bu neng bu	0
+不起	bu qi	0
+不巧	bu qiao	0
+不然的话	bu ran de hua	0
+不日	bu ri	0
+不少	bu shao	0
+不胜	bu sheng	0
+不时	bu shi	0
+不是	bu shi	0
+不同	bu tong	0
+不能	bu neng	0
+不要	bu yao	0
+不外	bu wai	0
+不外乎	bu wai hu	0
+不下	bu xia	0
+不限	bu xian	0
+不消	bu xiao	0
+不已	bu yi	0
+不亦乐乎	bu yi le hu	0
+不由得	bu you de	0
+不再	bu zai	0
+不择手段	bu ze shou duan	0
+不怎么	bu zen me	0
+不曾	bu ceng	0
+不知不觉	bu zhi bu jue	0
+不止	bu zhi	0
+不止一次	bu zhi yi ci	0
+不至于	bu zhi yu	0
+才	cai	0
+才能	cai neng	0
+差不多	cha bu duo	0
+差一点	cha yi dian	0
+常	chang	0
+常常	chang chang	0
+常言道	chang yan dao	0
+常言说	chang yan shuo	0
+常言说得好	chang yan shuo de hao	0
+长此下去	chang ci xia qu	0
+长话短说	chang hua duan shuo	0
+长期以来	chang qi yi lai	0
+长线	chang xian	0
+敞开儿	chang kai er	0
+彻夜	che ye	0
+陈年	chen nian	0
+趁便	chen bian	0
+趁便	chen pian	0
+趁机	chen ji	0
+趁热	chen re	0
+趁势	chen shi	0
+趁早	chen zao	0
+成年	cheng nian	0
+成年累月	cheng nian lei yue	0
+成心	cheng xin	0
+乘机	cheng ji	0
+乘胜	cheng sheng	0
+乘势	cheng shi	0
+乘隙	cheng xi	0
+乘虚	cheng xu	0
+诚然	cheng ran	0
+迟早	chi zao	0
+充分	chong fen	0
+充其极	chong qi ji	0
+充其极	chong ji ji	0
+充其量	chong qi liang	0
+抽冷子	chou leng zi	0
+臭	chou	0
+臭	xiu	0
+初	chu	0
+出	chu	0
+出来	chu lai	0
+出去	chu qu	0
+除此	chu ci	0
+除此而外	chu ci er wai	0
+除此以外	chu ci yi wai	0
+除开	chu kai	0
+除去	chu qu	0
+除却	chu que	0
+除外	chu wai	0
+处处	chu chu	0
+川流不息	chuan liu bu xi	0
+传	chuan	0
+传	zhuan	0
+传说	chuan shuo	0
+传闻	chuan wen	0
+串行	chuan hang	0
+串行	chuan xing	0
+纯	chun	0
+纯粹	chun cui	0
+此后	ci hou	0
+此中	ci zhong	0
+次第	ci di	0
+匆匆	cong cong	0
+从不	cong bu	0
+从此	cong ci	0
+从此以后	cong ci yi hou	0
+从古到今	cong gu dao jin	0
+从古至今	cong gu zhi jin	0
+从今以后	cong jin yi hou	0
+从宽	cong kuan	0
+从来	cong lai	0
+从轻	cong qing	0
+从速	cong su	0
+从头	cong tou	0
+从未	cong wei	0
+从无到有	cong wu dao you	0
+从小	cong xiao	0
+从新	cong xin	0
+从严	cong yan	0
+从优	cong you	0
+从早到晚	cong zao dao wan	0
+从中	cong zhong	0
+从重	cong zhong	0
+凑巧	cou qiao	0
+粗	cu	0
+存心	cun xin	0
+达旦	da dan	0
+打从	da cong	0
+打开天窗说亮话	da kai tian chuang shuo liang hua	0
+打开天窗说亮话	da kai tian chuang shui liang hua	0
+打开天窗说亮话	da kai tian chuang yue liang hua	0
+大	da	0
+大	dai	0
+大	tai	0
+大不了	da bu liao	0
+大大	da da	0
+大抵	da di	0
+大都	da du	0
+大都	da dou	0
+大多	da duo	0
+大凡	da fan	0
+大概	da gai	0
+大家	da jia	0
+大举	da ju	0
+大略	da lue	0
+大面儿上	da mian er shang	0
+大事	da shi	0
+大体	da ti	0
+大体上	da ti shang	0
+大约	da yue	0
+大张旗鼓	da zhang qi gu	0
+大致	da zhi	0
+呆呆地	dai dai de	0
+带	dai	0
+殆	dai	0
+待到	dai dao	0
+单	dan	0
+单	shan	0
+单	chan	0
+单纯	dan chun	0
+单单	dan dan	0
+但愿	dan yuan	0
+弹指之间	tan zhi zhi jian	0
+当场	dang chang	0
+当儿	dang er	0
+当即	dang ji	0
+当口儿	dang kou er	0
+当然	dang ran	0
+当庭	dang ting	0
+当头	dang tou	0
+当下	dang xia	0
+当真	dang zhen	0
+当中	dang zhong	0
+倒不如	dao bu ru	0
+倒不如说	dao bu ru shuo	0
+倒是	dao shi	0
+到处	dao chu	0
+到底	dao di	0
+到了儿	dao le er	0
+到目前为止	dao mu qian wei zhi	0
+到头	dao tou	0
+到头来	dao tou lai	0
+得起	de qi	0
+得天独厚	de tian du hou	0
+的确	di que	0
+等到	deng dao	0
+叮当	ding dang	0
+顶多	ding duo	0
+定	ding	0
+动不动	dong bu dong	0
+动辄	dong zhe	0
+陡然	dou ran	0
+都	dou	0
+都	du	0
+独	du	0
+独自	du zi	0
+断然	duan ran	0
+顿时	dun shi	0
+多次	duo ci	0
+多多	duo duo	0
+多多少少	duo duo shao shao	0
+多多益善	duo duo yi shan	0
+多亏	duo kui	0
+多年来	duo nian lai	0
+多年前	duo nian qian	0
+而后	er hou	0
+而论	er lun	0
+而又	er you	0
+尔等	er deng	0
+二话不说	er hua bu shuo	0
+二话没说	er hua mei shuo	0
+反倒	fan dao	0
+反倒是	fan dao shi	0
+反而	fan er	0
+反手	fan shou	0
+反之亦然	fan zhi yi ran	0
+反之则	fan zhi ze	0
+方	fang	0
+方才	fang cai	0
+方能	fang neng	0
+放量	fang liang	0
+非常	fei chang	0
+非得	fei dei	0
+分期	fen qi	0
+分期分批	fen qi fen pi	0
+分头	fen tou	0
+奋勇	fen yong	0
+愤然	fen ran	0
+风雨无阻	feng yu wu zu	0
+逢	feng	0
+弗	fu	0
+甫	fu	0
+嘎嘎	ga ga	0
+该当	gai dang	0
+概	gai	0
+赶快	gan kuai	0
+赶早不赶晚	gan zao bu gan wan	0
+赶早不赶晚	gan zao fou gan wan	0
+敢	gan	0
+敢情	gan qing	0
+敢于	gan yu	0
+刚	gang	0
+刚才	gang cai	0
+刚好	gang hao	0
+刚巧	gang qiao	0
+高低	gao di	0
+格外	ge wai	0
+隔日	ge ri	0
+隔夜	ge ye	0
+个人	ge ren	0
+各式	ge shi	0
+更	geng	0
+更加	geng jia	0
+更进一步	geng jin yi bu	0
+更为	geng wei	0
+公然	gong ran	0
+共	gong	0
+共总	gong zong	0
+够瞧的	gou qiao de	0
+够瞧的	gou qiao di	0
+姑且	gu qie	0
+古来	gu lai	0
+故而	gu er	0
+故意	gu yi	0
+固	gu	0
+怪	guai	0
+怪不得	guai bu de	0
+惯常	guan chang	0
+光	guang	0
+光是	guang shi	0
+归根到底	gui gen dao di	0
+归根结底	gui gen jie di	0
+过于	guo yu	0
+毫不	hao bu	0
+毫无	hao wu	0
+毫无保留地	hao wu bao liu di	0
+毫无保留地	hao wu bao liu de	0
+毫无例外	hao wu li wai	0
+好在	hao zai	0
+何必	he bi	0
+何尝	he chang	0
+何妨	he fang	0
+何苦	he ku	0
+何乐而不为	he le er bu wei	0
+何须	he xu	0
+何止	he zhi	0
+很	hen	0
+很多	hen duo	0
+很少	hen shao	0
+轰然	hong ran	0
+后来	hou lai	0
+呼啦	hu la	0
+忽地	hu di	0
+忽然	hu ran	0
+互	hu	0
+互相	hu xiang	0
+哗啦	hua la	0
+话说	hua shuo	0
+还	hai	0
+还	huan	0
+恍然	huang ran	0
+会	hui	0
+会	kuai	0
+豁然	huo ran	0
+活	huo	0
+伙同	huo tong	0
+或多或少	huo duo huo shao	0
+或许	huo xu	0
+基本	ji ben	0
+基本上	ji ben shang	0
+基于	ji yu	0
+极	ji	0
+极大	ji da	0
+极度	ji du	0
+极端	ji duan	0
+极力	ji li	0
+极其	ji qi	0
+极为	ji wei	0
+急匆匆	ji cong cong	0
+即将	ji jiang	0
+即刻	ji ke	0
+即是说	ji shi shuo	0
+即是说	ji shi shui	0
+即是说	ji shi yue	0
+几度	ji du	0
+几番	ji fan	0
+几乎	ji hu	0
+几经	ji jing	0
+既又	ji you	0
+继之	ji zhi	0
+加上	jia shang	0
+加以	jia yi	0
+间或	jian huo	0
+简而言之	jian er yan zhi	0
+简言之	jian yan zhi	0
+简直	jian zhi	0
+见	jian	0
+见	xian	0
+将才	jiang cai	0
+将近	jiang jin	0
+将要	jiang yao	0
+交口	jiao kou	0
+较比	jiao bi	0
+较为	jiao wei	0
+接连不断	jie lian bu duan	0
+接下来	jie xia lai	0
+皆可	jie ke	0
+截然	jie ran	0
+截至	jie zhi	0
+藉以	ji yi	0
+借此	jie ci	0
+借以	jie yi	0
+届时	jie shi	0
+仅	jin	0
+仅仅	jin jin	0
+谨	jin	0
+进来	jin lai	0
+进去	jin qu	0
+近	jin	0
+近几年来	jin ji nian lai	0
+近来	jin lai	0
+近年来	jin nian lai	0
+尽管如此	jin guan ru ci	0
+尽可能	jin ke neng	0
+尽快	jin kuai	0
+尽量	jin liang	0
+尽然	jin ran	0
+尽如人意	jin ru ren yi	0
+尽心竭力	jin xin jie li	0
+尽心尽力	jin xin jin li	0
+尽早	jin zao	0
+精光	jing guang	0
+经常	jing chang	0
+竟	jing	0
+竟然	jing ran	0
+究竟	jiu jing	0
+就此	jiu ci	0
+就地	jiu di	0
+就算	jiu suan	0
+居然	ju ran	0
+局外	ju wai	0
+举凡	ju fan	0
+据称	ju cheng	0
+据此	ju ci	0
+据实	ju shi	0
+据说	ju shuo	0
+据我所知	ju wo suo zhi	0
+据悉	ju xi	0
+具体来说	ju ti lai shuo	0
+决不	jue bu	0
+决非	jue fei	0
+绝	jue	0
+绝不	jue bu	0
+绝顶	jue ding	0
+绝对	jue dui	0
+绝非	jue fei	0
+均	jun	0
+均	yun	0
+喀	ka	0
+看	kan	0
+看来	kan lai	0
+看起来	kan qi lai	0
+看上去	kan shang qu	0
+看样子	kan yang zi	0
+可好	ke hao	0
+可能	ke neng	0
+恐怕	kong pa	0
+快	kuai	0
+快要	kuai yao	0
+来不及	lai bu ji	0
+来得及	lai de ji	0
+来讲	lai jiang	0
+来看	lai kan	0
+拦腰	lan yao	0
+牢牢	lao lao	0
+老	lao	0
+老大	lao da	0
+老老实实	lao lao shi shi	0
+老是	lao shi	0
+累次	lei ci	0
+累年	lei nian	0
+理当	li dang	0
+理该	li gai	0
+理应	li ying	0
+历	li	0
+立	li	0
+立地	li di	0
+立刻	li ke	0
+立马	li ma	0
+立时	li shi	0
+联袂	lian mei	0
+连连	lian lian	0
+连日	lian ri	0
+连日来	lian ri lai	0
+连声	lian sheng	0
+连袂	lian mei	0
+临到	lin dao	0
+另方面	ling fang mian	0
+另行	ling xing	0
+另一个	ling yi ge	0
+路经	lu jing	0
+屡	lv	0
+屡次	lv ci	0
+屡次三番	lv ci san fan	0
+屡屡	lv lv	0
+缕缕	lv lv	0
+率尔	shuai er	0
+率然	lv ran	0
+率然	shuai ran	0
+略	lue	0
+略加	lue jia	0
+略为	lue wei	0
+论说	lun shuo	0
+马上	ma shang	0
+蛮	man	0
+满	man	0
+没有	mei you	0
+每逢	mei feng	0
+每时每刻	mei shi mei ke	0
+猛然	meng ran	0
+猛然间	meng ran jian	0
+莫不	mo bu	0
+莫非	mo fei	0
+莫如	mo ru	0
+默默地	mo mo de	0
+呐	na	0
+呐	ne	0
+那末	na mo	0
+那末	nei mo	0
+奈	nai	0
+难道	nan dao	0
+难得	nan de	0
+难怪	nan guai	0
+难说	nan shuo	0
+内	nei	0
+内	na	0
+年复一年	nian fu yi nian	0
+凝神	ning shen	0
+偶而	ou er	0
+偶尔	ou er	0
+怕	pa	0
+砰	peng	0
+碰巧	peng qiao	0
+譬如	pi ru	0
+平素	ping su	0
+颇	po	0
+迫于	po yu	0
+扑通	pu tong	0
+其后	qi hou	0
+其实	qi shi	0
+奇	qi	0
+奇	ji	0
+齐	qi	0
+起初	qi chu	0
+起来	qi lai	0
+起首	qi shou	0
+起头	qi tou	0
+起先	qi xian	0
+岂	qi	0
+岂	kai	0
+岂非	qi fei	0
+岂止	qi zhi	0
+迄	qi	0
+恰逢	qia feng	0
+恰好	qia hao	0
+後	hou	0
+恰巧	qia qiao	0
+恰如	qia ru	0
+恰似	qia si	0
+千万	qian wan	0
+千万千万	qian wan qian wan	0
+切	qie	0
+切不可	qie bu ke	0
+切莫	qie mo	0
+切切	qie qie	0
+切勿	qie wu	0
+窃	qie	0
+亲口	qin kou	0
+亲身	qin shen	0
+亲手	qin shou	0
+亲眼	qin yan	0
+亲自	qin zi	0
+顷	qing	0
+顷刻	qing ke	0
+顷刻间	qing ke jian	0
+顷刻之间	qing ke zhi jian	0
+请勿	qing wu	0
+穷年累月	qiong nian lei yue	0
+取道	qu dao	0
+全都	quan dou	0
+全力	quan li	0
+全年	quan nian	0
+全身心	quan shen xin	0
+人人	ren ren	0
+仍	reng	0
+仍旧	reng jiu	0
+仍然	reng ran	0
+日复一日	ri fu yi ri	0
+日见	ri jian	0
+日渐	ri jian	0
+日益	ri yi	0
+日臻	ri zhen	0
+如常	ru chang	0
+如此等等	ru ci deng deng	0
+如次	ru ci	0
+如今	ru jin	0
+如期	ru qi	0
+如前所述	ru qian suo shu	0
+如上	ru shang	0
+如下	ru xia	0
+汝	ru	0
+三番两次	san fan liang ci	0
+三番五次	san fan wu ci	0
+三天两头	san tian liang tou	0
+上来	shang lai	0
+上去	shang qu	0
+一点	yi dian	0
+一点点	yi dian dian	0
+户	hu	0
+有点	you dian	0
+一下	yi xia	0
+一个	yi ge	0
+每个	mei ge	0
+每一个	mei yi ge	0
+觉得	jue de	0
+认为	ren wei	0
+一款	yi kuan	0
+一次	yi ci	0
+三	san	0
+四	si	0
+五	wu	0
+六	liu	0
+六	lu	0
+七	qi	0
+八	ba	0
+九	jiu	0
+零	ling	0

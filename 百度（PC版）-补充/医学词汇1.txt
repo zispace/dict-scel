@@ -1,0 +1,361 @@
+# 词库名称: 医学词汇1
+# 词库分类: 学术教育
+# 词库作者: zsg528
+# 词库描述: 个人
+# 词条数量: 353
+# 解析词数: 358
+# 解析异常: 5
+
+名称	ming cheng	0
+不适感	bu shi gan	0
+疲劳感	pi lao gan	0
+倦怠感	juan dai gan	0
+虚脱无力状态	xu tuo wu li zhuang tai	0
+睡眠状态	shui mian zhuang tai	0
+入睡	ru shui	0
+欲睡的	yu shui de	0
+欲睡的	yu shui di	0
+睡意	shui yi	0
+摧睡	cui shui	0
+睡眠不足	shui mian bu zu	0
+失眠	shi mian	0
+失眠症的人	shi mian zheng de ren	0
+熟睡	shu shui	0
+睡醒	shui xing	0
+作梦	zuo meng	0
+恶梦	e meng	0
+梦游症	meng you zheng	0
+梦游病者	meng you bing zhe	0
+体重方面	ti zhong fang mian	0
+体重为	ti zhong wei	0
+最高	zui gao	0
+最低	zui di	0
+平均	ping jun	0
+最适	zui shi	0
+现在	xian zai	0
+体重减少	ti zhong jian shao	0
+体重增加	ti zhong zeng jia	0
+瘦弱	shou ruo	0
+肥胖	fei pang	0
+体温状况	ti wen zhuang kuang	0
+量体温	liang ti wen	0
+发烧	fa shao	0
+发烧的	fa shao de	0
+发烧的	fa shao di	0
+无发烧的	wu fa shao de	0
+无发烧的	wu fa shao di	0
+发冷	fa leng	0
+寒颤	han zhan	0
+退热	tui re	0
+发汗	fa han	0
+弛张热	chi zhang re	0
+间歇热	jian xie re	0
+连续热	lian xu re	0
+危险期	wei xian qi	0
+转轻期	zhuan qing qi	0
+转轻期	zhuai qing qi	0
+转轻期	zhuan qing ji	0
+转轻期	zhuai qing ji	0
+疼痛方面	teng tong fang mian	0
+后头部痛	hou tou bu tong	0
+侧头部痛	ce tou bu tong	0
+前头部痛	qian tou bu tong	0
+咽喉痛	yan hou tong	0
+眼痛	yan tong	0
+齿痛	chi tong	0
+胸痛	xiong tong	0
+心前部痛	xin qian bu tong	0
+心绞痛	xin jiao tong	0
+胸骨下后痛	xiong gu xia hou tong	0
+胸膜炎痛	xiong mo yan tong	0
+腹痛	fu tong	0
+上腹痛	shang fu tong	0
+上腹部痛	shang fu bu tong	0
+下腹部痛	xia fu bu tong	0
+左上腹部痛	zuo shang fu bu tong	0
+侧腹部痛	ce fu bu tong	0
+背痛	bei tong	0
+腰痛	yao tong	0
+关节痛	guan jie tong	0
+肌肉痛	ji rou tong	0
+神经痛	shen jing tong	0
+绞痛	jiao tong	0
+胆石绞痛	dan shi jiao tong	0
+肾石痛	shen shi tong	0
+肾石痛	shen dan tong	0
+博动痛	bo dong tong	0
+转移性痛	zhuan yi xing tong	0
+电击痛	dian ji tong	0
+带状痛	dai zhuang tong	0
+神经根性痛	shen jing gen xing tong	0
+空腹痛	kong fu tong	0
+夜间痛	ye jian tong	0
+自发痛	zi fa tong	0
+灼热痛	zhuo re tong	0
+刺状痛	ci zhuang tong	0
+分裂状头痛	fen lie zhuang tou tong	0
+撕裂状痛	si lie zhuang tong	0
+钝痛	dun tong	0
+剧烈痛	ju lie tong	0
+不断阵痛	bu duan zhen tong	0
+擦伤痛	ca shang tong	0
+针刺痛	zhen ci tong	0
+呼吸	hu xi	0
+呼吸困难	hu xi kun nan	0
+呼吸短促	hu xi duan cu	0
+深呼吸	shen hu xi	0
+喘息	chuan xi	0
+端坐呼吸	duan zuo hu xi	0
+劳动时呼吸困难	lao dong shi hu xi kun nan	0
+夜间呼吸困难	ye jian hu xi kun nan	0
+呼吸快速	hu xi kuai su	0
+喘呜	chuan wu	0
+打喷嚏	da pen ti	0
+打嗝	da ge	0
+咳嗽	ke sou	0
+阵发性咳嗽	zhen fa xing ke sou	0
+清喉	qing hou	0
+干咳	gan ke	0
+有痰咳	you tan ke	0
+有痰咳	you tan hai	0
+咳痰	ke tan	0
+喀血	ka xie	0
+喀血	ka xue	0
+脓性痰	nong xing tan	0
+血性痰	xue xing tan	0
+混血痰	hun xue tan	0
+绿色痰	lv se tan	0
+锈色痰	xiu se tan	0
+感冒	gan mao	0
+流行性感冒	liu xing xing gan mao	0
+上呼吸道感染	shang hu xi dao gan ran	0
+胸膜炎	xiong mo yan	0
+气喘	qi chuan	0
+心悸	xin ji	0
+悸动	ji dong	0
+脉搏暂停	mai bo zan ting	0
+速脉	su mai	0
+速脉	su mo	0
+徐脉	xu mai	0
+徐脉	xu mo	0
+高血压	gao xue ya	0
+心肌麻痹	xin ji ma bi	0
+狭心症	xia xin zheng	0
+心脏瓣膜症	xin zang ban mo zheng	0
+动脉硬化	dong mai ying hua	0
+血液循环不佳	xue ye xun huan bu jia	0
+间歇性跛行	jian xie xing bo xing	0
+食欲不振	shi yu bu zhen	0
+食欲增进	shi yu zeng jin	0
+无食欲	wu shi yu	0
+食欲旺盛	shi yu wang sheng	0
+丧失食欲	sang shi shi yu	0
+空腹	kong fu	0
+咀嚼	ju jue	0
+吞咽	tun yan	0
+吞咽困难	tun yan kun nan	0
+嗳气打嗝	ai qi da ge	0
+打酸嗝	da suan ge	0
+心灼热	xin zhuo re	0
+逆流	ni liu	0
+恶心	e xin	0
+感到恶	gan dao e	0
+感到恶	gan dao wu	0
+呕吐	ou tu	0
+呕吐物	ou tu wu	0
+咖啡渣	ka fei zha	0
+消化	xiao hua	0
+消化不良	xiao hua bu liang	0
+腹部饱胀	fu bu bao zhang	0
+腹鸣	fu ming	0
+黄疸	huang dan	0
+腹水	fu shui	0
+通便	tong bian	0
+下痢	xia li	0
+便秘	bian mi	0
+铘	ye	0
+泥状	ni zhuang	0
+软状	ruan zhuang	0
+螋	sou	0
+呈固状	cheng gu zhuang	0
+呈半固状	cheng ban gu zhuang	0
+大便失禁	da bian shi jin	0
+放屁	fang pi	0
+排尿	pai niao	0
+尿意	niao yi	0
+尿急	niao ji	0
+频尿	pin niao	0
+频尿	pin sui	0
+频尿	bin niao	0
+频尿	bin sui	0
+夜间频尿	ye jian pin niao	0
+夜间频尿	ye jian pin sui	0
+夜间频尿	ye jian bin niao	0
+夜间频尿	ye jian bin sui	0
+多尿	duo niao	0
+少尿	shao niao	0
+无尿	wu niao	0
+排尿困难	pai niao kun nan	0
+闭尿	bi niao	0
+闭尿	bi sui	0
+尿失禁	niao shi jin	0
+夜间多尿	ye jian duo niao	0
+夜尿症	ye niao zheng	0
+混浊尿	hun zhuo niao	0
+混浊尿	hun zhuo sui	0
+血尿	xue niao	0
+性欲	xing yu	0
+性交	xing jiao	0
+杨萎	yang wei	0
+勃起	bo qi	0
+射精	she jing	0
+早泄	zao xie	0
+遗精	yi jing	0
+梦遗	meng yi	0
+包茎	bao jing	0
+性病	xing bing	0
+月经	yue jing	0
+初潮	chu chao	0
+停经	ting jing	0
+更年期	geng nian qi	0
+痛经	tong jing	0
+无月经	wu yue jing	0
+月经过多	yue jing guo duo	0
+白带	bai dai	0
+阴道出血	yin dao chu xue	0
+少量时	shao liang shi	0
+子宫出血	zi gong chu xue	0
+妊娠	ren shen	0
+怀孕	huai yun	0
+不妊	bu ren	0
+不妊	fou ren	0
+流产	liu chan	0
+人工流产	ren gong liu chan	0
+避孕	bi yun	0
+避孕药	bi yun yao	0
+阵痛	zhen tong	0
+生产分娩	sheng chan fen mian	0
+坐月子	zuo yue zi	0
+孕吐	yun tu	0
+脱臼	tuo jiu	0
+扭伤	niu shang	0
+挫伤	cuo shang	0
+关节炎	guan jie yan	0
+风湿症	feng shi zheng	0
+痛风	tong feng	0
+变形	bian xing	0
+骨折	gu zhe	0
+石膏	shi gao	0
+义腿肢	yi tui zhi	0
+扭筋	niu jin	0
+肩坚硬	jian jian ying	0
+抽筋	chou jin	0
+肌肉压痛	ji rou ya tong	0
+意识混浊	yi shi hun zhuo	0
+丧失意识	sang shi yi shi	0
+恢复意识	hui fu yi shi	0
+昏厥	hun jue	0
+昏睡	hun shui	0
+昏迷	hun mi	0
+嗜睡	shi shui	0
+错乱	cuo luan	0
+胆妄的	dan wang de	0
+胆妄的	dan wang di	0
+幻觉	huan jue	0
+痉挛	jing luan	0
+癫痫	dian xian	0
+半身不遂	ban shen bu sui	0
+肌无力	ji wu li	0
+步行困难	bu xing kun nan	0
+说话不清	shuo hua bu qing	0
+蹒跚	pan shan	0
+肌肉萎缩	ji rou wei suo	0
+左手性	zuo shou xing	0
+右手性	you shou xing	0
+运动失调	yun dong shi tiao	0
+无感觉	wu gan jue	0
+无感觉	wu gan jiao	0
+失去感觉	shi qu gan jue	0
+知觉过敏	zhi jue guo min	0
+知觉迟钝	zhi jue chi dun	0
+知觉异常	zhi jue yi chang	0
+神经质	shen jing zhi	0
+神经衰弱	shen jing shuai ruo	0
+意志消沉	yi zhi xiao chen	0
+情绪佳	qing xu jia	0
+情绪不稳定	qing xu bu wen ding	0
+易受刺激	yi shou ci ji	0
+不安的	bu an de	0
+内向的人	nei xiang de ren	0
+外向的人	wai xiang de ren	0
+健忘	jian wang	0
+漠不关心	mo bu guan xin	0
+自卑感	zi bei gan	0
+歇斯底里病	xie si di li bing	0
+视力丧失	shi li sang shi	0
+失明	shi ming	0
+视力减退	shi li jian tui	0
+近视	jin shi	0
+远视	yuan shi	0
+折射异常	zhe she yi chang	0
+乱视	luan shi	0
+斜视	xie shi	0
+复视	fu shi	0
+逛	guang	0
+盲点	mang dian	0
+眼睛疲劳	yan jing pi lao	0
+流泪过多	liu lei guo duo	0
+异物感	yi wu gan	0
+怕光	pa guang	0
+结膜炎	jie mo yan	0
+砂眼	sha yan	0
+听力减退	ting li jian tui	0
+重听	zhong ting	0
+重听	chong ting	0
+耳聋	er long	0
+耳鸣	er ming	0
+耳垢	er gou	0
+中耳炎	zhong er yan	0
+流鼻水	liu bi shui	0
+鼻伤风	bi shang feng	0
+擤鼻涕	xing bi ti	0
+鼻声	bi sheng	0
+鼻塞	bi se	0
+鼻出血	bi chu xue	0
+鼻炎	bi yan	0
+扁桃	bian tao	0
+扁桃炎	bian tao yan	0
+蛀齿	zhu chi	0
+义齿	yi chi	0
+装假牙	zhuang jia ya	0
+无齿	wu chi	0
+掉齿	diao chi	0
+拔齿	ba chi	0
+齿龈	chi yin	0
+皮肤	pi fu	0
+发疹	fa zhen	0
+湿疹	shi zhen	0
+荨麻疹	xun ma zhen	0
+胎记红斑	tai ji hong ban	0
+青斑	qing ban	0
+黑斑	hei ban	0
+水泡	shui pao	0
+丘疹	qiu zhen	0
+香港脚	xiang gang jiao	0
+痱子	fei zi	0
+龟裂	jun lie	0
+糜烂	mi lan	0
+冻疮	dong chuang	0
+尿布疹	niao bu zhen	0
+黄癣	huang xuan	0
+脓泡	nong pao	0
+雀斑	que ban	0
+晒斑	shai ban	0
+骚养	sao yang	0
+骚养伤	sao yang shang	0
+生脓	sheng nong	0
+渗出	shen chu	0
+股擦伤	gu ca shang	0
+脱毛	tuo mao	0
+多毛症	duo mao zheng	0
+无毛	wu mao	0

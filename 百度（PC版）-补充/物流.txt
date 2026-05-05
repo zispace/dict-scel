@@ -1,0 +1,320 @@
+# 词库名称: 物流
+# 词库分类: 城市区划
+# 词库作者: lg2109
+# 词库描述: 啊
+# 词条数量: 312
+# 解析词数: 318
+# 解析异常: 6
+
+中国邮政小包平邮	zhong guo you zheng xiao bao ping you	0
+中国邮政小包挂号	zhong guo you zheng xiao bao gua hao	0
+香港航空大包	xiang gang hang kong da bao	0
+马来西亚邮政平邮	ma lai xi ya you zheng ping you	0
+马来西亚邮政挂号	ma lai xi ya you zheng gua hao	0
+瑞典小包挂号	rui dian xiao bao gua hao	0
+瑞典小包平邮	rui dian xiao bao ping you	0
+荷兰小包挂号	he lan xiao bao gua hao	0
+荷兰小包平邮	he lan xiao bao ping you	0
+飞特荷兰专线	fei te he lan zhuan xian	0
+香港德国专线平邮	xiang gang de guo zhuan xian ping you	0
+英国专线一类挂号	ying guo zhuan xian yi lei gua hao	0
+飞特航空经济小包挂号	fei te hang kong jing ji xiao bao gua hao	0
+飞特航空经济小包	fei te hang kong jing ji xiao bao	0
+欧邮宝挂号	ou you bao gua hao	0
+飞特意大利专线	fei te yi da li zhuan xian	0
+飞特英国速邮平邮	fei te ying guo su you ping you	0
+欧邮宝	ou you bao	0
+香港英国专线平邮	xiang gang ying guo zhuan xian ping you	0
+法国专线挂号	fa guo zhuan xian gua hao	0
+法国专线平邮	fa guo zhuan xian ping you	0
+飞特新澳宝	fei te xin ao bao	0
+中东专线	zhong dong zhuan xian	0
+日本黑猫专线	ri ben hei mao zhuan xian	0
+日本	ri ben	0
+新加坡	xin jia po	0
+印度	yin du	0
+韩国	han guo	0
+泰国	tai guo	0
+马来西亚	ma lai xi ya	0
+印度尼西亚	yin du ni xi ya	0
+欧洲	ou zhou	0
+奥地利	ao di li	0
+克罗地亚	ke luo di ya	0
+保加利亚	bao jia li ya	0
+斯洛伐克	si luo fa ke	0
+匈牙利	xiong ya li	0
+捷克	jie ke	0
+希腊	xi la	0
+芬兰	fen lan	0
+比利时	bi li shi	0
+爱尔兰	ai er lan	0
+意大利	yi da li	0
+瑞士	rui shi	0
+波兰	bo lan	0
+葡萄牙	pu tao ya	0
+西班牙	xi ban ya	0
+法国	fa guo	0
+乌克兰	wu ke lan	0
+卢森堡	lu sen bao	0
+爱沙尼亚	ai sha ni ya	0
+立陶宛	li tao wan	0
+罗马尼亚	luo ma ni ya	0
+白俄罗斯	bai e luo si	0
+斯洛文尼亚	si luo wen ni ya	0
+马耳他	ma er ta	0
+拉脱维亚	la tuo wei ya	0
+波黑	bo hei	0
+越南	yue nan	0
+菲律宾	fei lv bin	0
+巴基斯坦	ba ji si tan	0
+哈萨克斯坦	ha sa ke si tan	0
+塞浦路斯	sai pu lu si	0
+朝鲜	chao xian	0
+蒙古	meng gu	0
+塔吉克斯坦	ta ji ke si tan	0
+土库曼斯坦	tu ku man si tan	0
+乌兹别克斯坦	wu zi bie ke si tan	0
+吉尔吉斯斯坦	ji er ji si si tan	0
+斯里兰卡	si li lan ka	0
+巴勒斯坦	ba le si tan	0
+叙利亚	xu li ya	0
+阿塞拜疆	a sai bai jiang	0
+亚美尼亚	ya mei ni ya	0
+阿曼	a man	0
+沙特	sha te	0
+卡塔尔	ka ta er	0
+土耳其	tu er qi	0
+大洋洲	da yang zhou	0
+新西兰	xin xi lan	0
+美洲	mei zhou	0
+美国	mei guo	0
+加拿大	jia na da	0
+老挝	lao wo	0
+孟加拉国	meng jia la guo	0
+柬埔寨	jian pu zhai	0
+缅甸	mian dian	0
+尼泊尔	ni bo er	0
+文莱	wen lai	0
+不丹	bu dan	0
+马尔代夫	ma er dai fu	0
+东帝汶	dong di wen	0
+阿联酋	a lian qiu	0
+约旦	yue dan	0
+巴林	ba lin	0
+阿富汗	a fu han	0
+伊朗	yi lang	0
+科威特	ke wei te	0
+也门	ye men	0
+伊拉克	yi la ke	0
+黎巴嫩	li ba nen	0
+塞尔维亚	sai er wei ya	0
+阿尔巴尼亚	a er ba ni ya	0
+冰岛	bing dao	0
+安道尔	an dao er	0
+法罗群岛	fa luo qun dao	0
+直布罗陀	zhi bu luo tuo	0
+列支敦士登	lie zhi dun shi deng	0
+摩纳哥	mo na ge	0
+黑山	hei shan	0
+马其顿	ma qi dun	0
+圣马力诺	sheng ma li nuo	0
+梵蒂冈	fan di gang	0
+摩尔多瓦	mo er duo wa	0
+格鲁吉亚	ge lu ji ya	0
+斐济	fei ji	0
+美属萨摩亚	mei shu sa mo ya	0
+库克群岛	ku ke qun dao	0
+卡奔达	ka ben da	0
+卡奔达	qia ben da	0
+圣诞岛	sheng dan dao	0
+新喀里多尼亚	xin ka li duo ni ya	0
+密克罗尼西亚	mi ke luo ni xi ya	0
+赫德岛和麦克唐那岛	he de dao he mai ke tang na dao	0
+赫德岛和麦克唐那岛	he de dao hu mai ke tang na dao	0
+赫德岛和麦克唐那岛	he de dao huo mai ke tang na dao	0
+赫德岛和麦克唐那岛	he de dao he mai ke tang ne dao	0
+赫德岛和麦克唐那岛	he de dao he mai ke tang nei dao	0
+赫德岛和麦克唐那岛	he de dao hu mai ke tang ne dao	0
+赫德岛和麦克唐那岛	he de dao huo mai ke tang ne dao	0
+赫德岛和麦克唐那岛	he de dao hu mai ke tang nei dao	0
+赫德岛和麦克唐那岛	he de dao huo mai ke tang nei dao	0
+英属印度洋领土	ying shu yin du yang ling tu	0
+基里巴斯	ji li ba si	0
+圣基茨和尼维斯联邦	sheng ji ci he ni wei si lian bang	0
+圣基茨和尼维斯联邦	sheng ji ci hu ni wei si lian bang	0
+圣基茨和尼维斯联邦	sheng ji ci huo ni wei si lian bang	0
+马绍尔群岛	ma shao er qun dao	0
+北马里亚纳	bei ma li ya na	0
+诺福克岛	nuo fu ke dao	0
+瑙鲁	nao lu	0
+纽埃	niu ai	0
+法属波利尼西亚	fa shu bo li ni xi ya	0
+巴布亚新几内亚	ba bu ya xin ji nei ya	0
+皮特凯恩群岛	pi te kai en qun dao	0
+所罗门群岛	suo luo men qun dao	0
+斯瓦尔巴岛和扬马延岛	si wa er ba dao he yang ma yan dao	0
+斯瓦尔巴岛和扬马延岛	si wa er ba dao hu yang ma yan dao	0
+斯瓦尔巴岛和扬马延岛	si wa er ba dao huo yang ma yan dao	0
+特里斯达库尼亚群岛	te li si da ku ni ya qun dao	0
+法属南部领土	fa shu nan bu ling tu	0
+托克劳	tuo ke lao	0
+汤加	tang jia	0
+图瓦卢	tu wa lu	0
+美属太平洋各群岛	mei shu tai ping yang ge qun dao	0
+瓦努阿图	wa nu a tu	0
+西萨摩亚	xi sa mo ya	0
+阿森松岛	a sen song dao	0
+加纳利群岛	jia na li qun dao	0
+约翰斯敦岛	yue han si dun dao	0
+约翰斯敦岛	yue han si dui dao	0
+关岛	guan dao	0
+帕劳	pa lao	0
+瓦利斯和富图纳	wa li si he fu tu na	0
+瓦利斯和富图纳	wa li si hu fu tu na	0
+瓦利斯和富图纳	wa li si huo fu tu na	0
+非洲	fei zhou	0
+埃及	ai ji	0
+苏丹	su dan	0
+摩洛哥	mo luo ge	0
+吉布提	ji bu ti	0
+埃塞俄比亚	ai sai e bi ya	0
+肯尼亚	ken ni ya	0
+突尼斯	tu ni si	0
+布隆迪	bu long di	0
+乌干达	wu gan da	0
+卢旺达	lu wang da	0
+乍得	zha de	0
+尼日利亚	ni ri li ya	0
+布基纳法索	bu ji na fa suo	0
+贝宁	bei ning	0
+喀麦隆	ka mai long	0
+阿尔及利亚	a er ji li ya	0
+加蓬	jia peng	0
+几内亚	ji nei ya	0
+马达加斯加	ma da jia si jia	0
+毛里塔尼亚	mao li ta ni ya	0
+津巴布韦	jin ba bu wei	0
+安哥拉	an ge la	0
+中非	zhong fei	0
+佛得角	fo de jiao	0
+西撒哈拉	xi sa ha la	0
+厄立特里亚	e li te li ya	0
+冈比亚	gang bi ya	0
+赤道几内亚	chi dao ji nei ya	0
+几内亚比绍	ji nei ya bi shao	0
+科摩罗	ke mo luo	0
+利比里亚	li bi li ya	0
+莱索托	lai suo tuo	0
+马拉维	ma la wei	0
+莫桑比克	mo sang bi ke	0
+纳米比亚	na mi bi ya	0
+尼日尔	ni ri er	0
+留尼汪	liu ni wang	0
+塞舌尔	sai she er	0
+圣赫勒拿	sheng he le na	0
+圣多美和普林西比	sheng duo mei he pu lin xi bi	0
+斯威士兰	si wei shi lan	0
+马约特	ma yue te	0
+马约特	ma yao te	0
+伊夫尼	yi fu ni	0
+赞比亚	zan bi ya	0
+利比亚	li bi ya	0
+毛里求斯	mao li qiu si	0
+马里	ma li	0
+索马里	suo ma li	0
+加纳	jia na	0
+博茨瓦纳	bo ci wa na	0
+坦桑尼亚	tan sang ni ya	0
+多哥	duo ge	0
+科特迪瓦	ke te di wa	0
+塞拉利昂	sai la li ang	0
+塞内加尔	sai nei jia er	0
+南非	nan fei	0
+委内瑞拉	wei nei rui la	0
+古巴	gu ba	0
+厄瓜多尔	e gua duo er	0
+巴拿马	ba na ma	0
+苏里南	su li nan	0
+哥伦比亚	ge lun bi ya	0
+阿根廷	a gen ting	0
+巴西	ba xi	0
+墨西哥	mo xi ge	0
+秘鲁	bi lu	0
+秘鲁	mi lu	0
+智利	zhi li	0
+安提瓜和巴布达	an ti gua he ba bu da	0
+安圭拉	an gui la	0
+荷属安的列斯	he shu an de lie si	0
+荷属安的列斯	he shu an di lie si	0
+阿鲁巴	a lu ba	0
+巴巴多斯	ba ba duo si	0
+百慕大	bai mu da	0
+玻利维亚	bo li wei ya	0
+巴哈马	ba ha ma	0
+伯利兹	bo li zi	0
+哥斯达黎加	ge si da li jia	0
+多米尼加	duo mi ni jia	0
+福克兰群岛	fu ke lan qun dao	0
+马尔维纳斯	ma er wei na si	0
+格林纳达	ge lin na da	0
+法属圭亚那	fa shu gui ya na	0
+瓜德罗普	gua de luo pu	0
+危地马拉	wei di ma la	0
+圭亚那	gui ya na	0
+洪都拉斯	hong du la si	0
+海地	hai di	0
+牙买加	ya mai jia	0
+开曼群岛	kai man qun dao	0
+圣卢西亚	sheng lu xi ya	0
+马提尼克	ma ti ni ke	0
+蒙特塞拉特	meng te sai la te	0
+尼加拉瓜	ni jia la gua	0
+圣皮埃尔和密克隆	sheng pi ai er he mi ke long	0
+圣皮埃尔和密克隆	sheng pi ai er hu mi ke long	0
+圣皮埃尔和密克隆	sheng pi ai er huo mi ke long	0
+波多黎各	bo duo li ge	0
+巴拉圭	ba la gui	0
+萨尔瓦多	sa er wa duo	0
+特克斯和凯科斯群岛	te ke si he kai ke si qun dao	0
+特克斯和凯科斯群岛	te ke si hu kai ke si qun dao	0
+特克斯和凯科斯群岛	te ke si huo kai ke si qun dao	0
+特立尼达和多巴哥	te li ni da he duo ba ge	0
+乌拉圭	wu la gui	0
+圣文森特和格林纳丁斯	sheng wen sen te he ge lin na ding si	0
+圣文森特和格林纳丁斯	sheng wen sen te hu ge lin na ding si	0
+圣文森特和格林纳丁斯	sheng wen sen te huo ge lin na ding si	0
+圣文森特和格林纳丁斯	sheng wen sen te he ge lin na zheng si	0
+圣文森特和格林纳丁斯	sheng wen sen te hu ge lin na zheng si	0
+圣文森特和格林纳丁斯	sheng wen sen te huo ge lin na zheng si	0
+英属维尔京群岛	ying shu wei er jing qun dao	0
+美属维尔京群岛	mei shu wei er jing qun dao	0
+复活岛	fu huo dao	0
+扎伊尔	zha yi er	0
+格陵兰岛	ge ling lan dao	0
+俄罗斯	e luo si	0
+澳大利亚	ao da li ya	0
+英国	ying guo	0
+瑞典	rui dian	0
+以色列	yi se lie	0
+德国	de guo	0
+挪威	nuo wei	0
+荷兰	he lan	0
+货物限制	huo wu xian zhi	0
+带电	dai dian	0
+磁性	ci xing	0
+液体	ye ti	0
+易爆易燃品	yi bao yi ran pin	0
+压缩气体	ya suo qi ti	0
+有毒物品	you du wu pin	0
+腐蚀物品	fu shi wu pin	0
+仿牌	fang pai	0
+药品	yao pin	0
+中邮广州平邮	zhong you guang zhou ping you	0
+中邮深圳平邮	zhong you shen zhen ping you	0
+中邮外围小包平邮	zhong you wai wei xiao bao ping you	0
+中邮杭州平邮	zhong you hang zhou ping you	0
+普货	pu huo	0
+可接内置电池	ke jie nei zhi dian chi	0
+内置电池	nei zhi dian chi	0
+燃油	ran you	0
+包油	bao you	0

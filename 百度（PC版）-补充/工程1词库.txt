@@ -1,0 +1,358 @@
+# 词库名称: 工程1词库
+# 词库分类: 城市区划
+# 词库作者: vberto
+# 词库描述: 自己用的词库
+# 词条数量: 350
+# 解析词数: 354
+# 解析异常: 4
+
+水泥地	shui ni di	0
+砖地	zhuan di	0
+砖地	zhuan de	0
+预制块地	yu zhi kuai di	0
+预制块地	yu zhi kuai de	0
+水磨石地	shui mo shi di	0
+水磨石地	shui mo shi de	0
+水磨石画	shui mo shi hua	0
+花岗岩画	hua gang yan hua	0
+大理石地	da li shi di	0
+大理石地	da li shi de	0
+地砖	di zhuan	0
+防滑砖	fang hua zhuan	0
+踏步砖	ta bu zhuan	0
+花岗岩地	hua gang yan di	0
+花岗岩地	hua gang yan de	0
+花岗岩台板	hua gang yan tai ban	0
+实木地板	shi mu di ban	0
+竹地板	zhu di ban	0
+复合地板	fu he di ban	0
+塑压花地	su ya hua di	0
+塑压花地	su ya hua de	0
+地毯	di tan	0
+油漆踢脚线	you qi ti jiao xian	0
+油漆地	you qi di	0
+油漆地	you qi de	0
+墙面	qiang mian	0
+仿麻砖	fang ma zhuan	0
+条砖	tiao zhuan	0
+白瓷砖	bai ci zhuan	0
+台板面砖	tai ban mian zhuan	0
+内墙砖	nei qiang zhuan	0
+金箔墙纸	jin bo qiang zhi	0
+墙布	qiang bu	0
+墙布软包	qiang bu ruan bao	0
+喷塑墙面	pen su qiang mian	0
+地砖贴墙	di zhuan tie qiang	0
+砖柱贴面	zhuan zhu tie mian	0
+瓷砖踢脚线	ci zhuan ti jiao xian	0
+木踢脚线	mu ti jiao xian	0
+榉腰线	ju yao xian	0
+榉墙裙	ju qiang qun	0
+三合板墙裙	san he ban qiang qun	0
+三合板贴墙	san he ban tie qiang	0
+塑扣板墙裙	su kou ban qiang qun	0
+涂料	tu liao	0
+乳胶漆	ru jiao qi	0
+仿瓷	fang ci	0
+刷白	shua bai	0
+白水泥	bai shui ni	0
+干粘石	gan nian shi	0
+干粘石	gan zhan shi	0
+干粘石	gan nian dan	0
+干粘石	gan zhan dan	0
+吊顶	diao ding	0
+榉吊顶	ju diao ding	0
+铝塑板吊顶	lv su ban diao ding	0
+石膏板顶	shi gao ban ding	0
+石膏成品顶	shi gao cheng pin ding	0
+平面顶	ping mian ding	0
+纤维板顶	xian wei ban ding	0
+彩条布顶	cai tiao bu ding	0
+铝扣板顶	lv kou ban ding	0
+门窗	men chuang	0
+木门	mu men	0
+榉包木门	ju bao mu men	0
+双开木门	shuang kai mu men	0
+地弹门	di tan men	0
+铁皮包门	tie pi bao men	0
+彩钢板包门	cai gang ban bao men	0
+木纱窗	mu sha chuang	0
+木纱门	mu sha men	0
+铝纱门	lv sha men	0
+三合板包门	san he ban bao men	0
+三合板成品门	san he ban cheng pin men	0
+三合板门套	san he ban men tao	0
+榉包门	ju bao men	0
+榉窗套	ju chuang tao	0
+榉门套	ju men tao	0
+三合板窗套	san he ban chuang tao	0
+窗帘盒	chuang lian he	0
+榉窗帘盒	ju chuang lian he	0
+榉护角线	ju hu jiao xian	0
+窗帘轨道	chuang lian gui dao	0
+壁柜	bi gui	0
+壁橱	bi chu	0
+简易壁橱	jian yi bi chu	0
+铝窗	lv chuang	0
+铝纱窗	lv sha chuang	0
+塑钢纱窗	su gang sha chuang	0
+塑钢窗	su gang chuang	0
+塑钢门	su gang men	0
+铝防网	lv fang wang	0
+窗雨棚	chuang yu peng	0
+雨棚	yu peng	0
+铝防盗网	lv fang dao wang	0
+方管防盗门	fang guan fang dao men	0
+卷帘门	juan lian men	0
+防撬门	fang qiao men	0
+方管防栏	fang guan fang lan	0
+方管铁皮门	fang guan tie pi men	0
+钢元窗	gang yuan chuang	0
+简不锈钢防栏	jian bu xiu gang fang lan	0
+不锈钢防栏	bu xiu gang fang lan	0
+厨卫装饰	chu wei zhuang shi	0
+浴缸	yu gang	0
+蹲便器	dun bian qi	0
+座便器	zuo bian qi	0
+立式面池	li shi mian chi	0
+现浇池	xian jiao chi	0
+水磨石水池	shui mo shi shui chi	0
+搪瓷水池	tang ci shui chi	0
+电线杆	dian xian gan	0
+水管	shui guan	0
+三相四线表	san xiang si xian biao	0
+三相四线	san xiang si xian	0
+下水	xia shui	0
+水泥落水	shui ni luo shui	0
+不锈钢落水	bu xiu gang luo shui	0
+单眼灶	dan yan zao	0
+双眼灶	shuang yan zao	0
+砼台板	tong tai ban	0
+水泥台板	shui ni tai ban	0
+贴纱	tie sha	0
+墩子	dun zi	0
+不锈钢水池	bu xiu gang shui chi	0
+电器	dian qi	0
+电套表	dian tao biao	0
+油烟机	you yan ji	0
+太阳能	tai yang neng	0
+电热水器	dian re shui qi	0
+煤气热水器	mei qi re shui qi	0
+吊扇	diao shan	0
+浴霸	yu ba	0
+吊灯	diao deng	0
+软玻璃	ruan bo li	0
+镜前灯	jing qian deng	0
+暖风机	nuan feng ji	0
+净水器	jing shui qi	0
+吸顶灯	xi ding deng	0
+壁灯	bi deng	0
+射灯	she deng	0
+筒灯	tong deng	0
+立式空调	li shi kong tiao	0
+挂壁空调	gua bi kong tiao	0
+音响设备	yin xiang she bei	0
+其他	qi ta	0
+钢管栏杆	gang guan lan gan	0
+不锈钢扶手	bu xiu gang fu shou	0
+实木扶手	shi mu fu shou	0
+钢管扶手	gang guan fu shou	0
+铁扶手	tie fu shou	0
+建材	jian cai	0
+石膏线条	shi gao xian tiao	0
+石膏角花	shi gao jiao hua	0
+石膏角花	shi gao jue hua	0
+石膏托盘	shi gao tuo pan	0
+榉托盘	ju tuo pan	0
+谍	die	0
+单墙	shan qiang	0
+单墙	shan qiang	0
+单墙	chan qiang	0
+女儿墙	nv er qiang	0
+广告牌	guang gao pai	0
+墙艺	qiang yi	0
+空墙	kong qiang	0
+现浇顶	xian jiao ding	0
+现浇门斗	xian jiao men dou	0
+水井	shui jing	0
+独管井	du guan jing	0
+铜字	tong zi	0
+塑字	su zi	0
+现浇水箱	xian jiao shui xiang	0
+铁皮过漏	tie pi guo lou	0
+铁丝网	tie si wang	0
+挂画	gua hua	0
+鸡棚	ji peng	0
+鸡笼	ji long	0
+补充	bu chong	0
+三合板隔断	san he ban ge duan	0
+三合板顶	san he ban ding	0
+木隔断	mu ge duan	0
+铝门	lv men	0
+木楼梯	mu lou ti	0
+铁楼梯	tie lou ti	0
+灯带	deng dai	0
+瓷砖腰线	ci zhuan yao xian	0
+罗普斯金门	luo pu si jin men	0
+罗普斯金纱门	luo pu si jin sha men	0
+仿罗普斯金门	fang luo pu si jin men	0
+中堂	zhong tang	0
+山水画	shan shui hua	0
+吊钩	diao gou	0
+毛巾架	mao jin jia	0
+楼板附加层	lou ban fu jia ceng	0
+楼板	lou ban	0
+镜玻	jing bo	0
+组合面池	zu he mian chi	0
+砖柱	zhuan zhu	0
+地柜	di gui	0
+木柜门	mu gui men	0
+不锈钢台板	bu xiu gang tai ban	0
+不锈钢防门	bu xiu gang fang men	0
+不锈钢门	bu xiu gang men	0
+不锈钢管	bu xiu gang guan	0
+不锈钢大门	bu xiu gang da men	0
+方管彩钢板门	fang guan cai gang ban men	0
+钢管彩钢板门	gang guan cai gang ban men	0
+钢元门	gang yuan men	0
+电动装置	dian dong zhuang zhi	0
+彩钢板顶	cai gang ban ding	0
+夹芯板顶	jia xin ban ding	0
+夹芯板隔断	jia xin ban ge duan	0
+钢管铁皮门	gang guan tie pi men	0
+钢管大门	gang guan da men	0
+钢管门	gang guan men	0
+铁艺围栏	tie yi wei lan	0
+平瓦屋面	ping wa wu mian	0
+阳光板顶	yang guang ban ding	0
+铝合金隔断	lv he jin ge duan	0
+铝合金柜门	lv he jin gui men	0
+木工板贴墙	mu gong ban tie qiang	0
+博古架	bo gu jia	0
+简易博古架	jian yi bo gu jia	0
+集成顶	ji cheng ding	0
+集成吊顶	ji cheng diao ding	0
+背景墙	bei jing qiang	0
+砖砌水池	zhuan qi shui chi	0
+排风扇	pai feng shan	0
+壁扇	bi shan	0
+球灯	qiu deng	0
+花岗岩包柱	hua gang yan bao zhu	0
+砖砌踏步	zhuan qi ta bu	0
+挡土墙	dang tu qiang	0
+成品门	cheng pin men	0
+鸽子	ge zi	0
+鸡	ji	0
+铝隔断	lv ge duan	0
+监控探头	jian kong tan tou	0
+钢元围栏	gang yuan wei lan	0
+铝合金防盗窗	lv he jin fang dao chuang	0
+石膏板隔断	shi gao ban ge duan	0
+拖把池	tuo ba chi	0
+罗马栏杆	luo ma lan gan	0
+罗马柱	luo ma zhu	0
+罗马窗套	luo ma chuang tao	0
+玻化石地	bo hua shi di	0
+灯笼	deng long	0
+罗马角花	luo ma jiao hua	0
+罗马角花	luo ma jue hua	0
+淋浴房	lin yu fang	0
+圈梁	quan liang	0
+玻璃隔断	bo li ge duan	0
+钢化玻璃	gang hua bo li	0
+角铁铁皮门	jiao tie tie pi men	0
+角铁门	jiao tie men	0
+铁架子	tie jia zi	0
+马赛克	ma sai ke	0
+小瓦屋面	xiao wa wu mian	0
+小瓦屋脊	xiao wa wu ji	0
+琉璃瓦斜坡	liu li wa xie po	0
+琉璃瓦屋脊	liu li wa wu ji	0
+彩钢板隔断	cai gang ban ge duan	0
+铝塑板墙裙	lv su ban qiang qun	0
+铝塑板	lv su ban	0
+瓷砖背景画	ci zhuan bei jing hua	0
+玻钢瓦屋面	bo gang wa wu mian	0
+石棉瓦屋面	shi mian wa wu mian	0
+碎花岗岩地	sui hua gang yan di	0
+碎花岗岩地	sui hua gang yan de	0
+彩钢板过漏	cai gang ban guo lou	0
+玻璃台板	bo li tai ban	0
+花岗岩窗台	hua gang yan chuang tai	0
+黑金沙窗台板	hei jin sha chuang tai ban	0
+铝封阳台	lv feng yang tai	0
+铝框	lv kuang	0
+吊柜	diao gui	0
+罗马飞檐	luo ma fei yan	0
+汉白玉门槛	han bai yu men kan	0
+木线条	mu xian tiao	0
+避雷针	bi lei zhen	0
+涵洞	han dong	0
+砼栏杆	tong lan gan	0
+罗马球	luo ma qiu	0
+塑扣板包柱	su kou ban bao zhu	0
+机械基础	ji xie ji chu	0
+石狮子	shi shi zi	0
+木亭子	mu ting zi	0
+小钻床	xiao zuan chuang	0
+不锈钢纱门	bu xiu gang sha men	0
+钢管	gang guan	0
+木葡萄架	mu pu tao jia	0
+小便池	xiao bian chi	0
+不锈钢贴墙	bu xiu gang tie qiang	0
+预制块隔热层	yu zhi kuai ge re ceng	0
+地弹簧	di tan huang	0
+全玻门	quan bo men	0
+不锈钢包框	bu xiu gang bao kuang	0
+不锈钢方管	bu xiu gang fang guan	0
+不锈钢晾衣架	bu xiu gang liang yi jia	0
+格栅灯	ge shan deng	0
+化粪池	hua fen chi	0
+村改厕	cun gai ce	0
+不锈钢水箱	bu xiu gang shui xiang	0
+木工板柜	mu gong ban gui	0
+木工板柜	mu gong ban ju	0
+钢窗	gang chuang	0
+钢纱窗	gang sha chuang	0
+钛合金条	tai he jin tiao	0
+成品灶台	cheng pin zao tai	0
+假山	jia shan	0
+水泥杆	shui ni gan	0
+粪池	fen chi	0
+条台	tiao tai	0
+吧台	ba tai	0
+木米柜	mu mi gui	0
+木米柜	mu mi ju	0
+砖驳坡	zhuan bo po	0
+花栏墙	hua lan qiang	0
+鹅卵石	e luan shi	0
+罗马轨道	luo ma gui dao	0
+彩钢棚	cai gang peng	0
+暖气炉	nuan qi lu	0
+现浇雨篷	xian jiao yu peng	0
+披棚	pi peng	0
+现浇门斗顶	xian jiao men dou ding	0
+玻钢雨棚	bo gang yu peng	0
+现浇水池	xian jiao shui chi	0
+桑树	sang shu	0
+月季	yue ji	0
+桂花	gui hua	0
+方管防盗窗	fang guan fang dao chuang	0
+杉松地板	shan song di ban	0
+杉松地板	sha song di ban	0
+钢元吊钩	gang yuan diao gou	0
+桑拿板吊顶	sang na ban diao ding	0
+大理石台面	da li shi tai mian	0
+瓷砖画	ci zhuan hua	0
+墙面软包	qiang mian ruan bao	0
+花岗岩台面	hua gang yan tai mian	0
+排气扇	pai qi shan	0
+方管隔断	fang guan ge duan	0
+幕玻吊顶	mu bo diao ding	0
+梳妆盒	shu zhuang he	0
+夹芯板门	jia xin ban men	0
+砼门斗顶	tong men dou ding	0
+强化地板	qiang hua di ban	0
+石棉瓦雨棚	shi mian wa yu peng	0
+公共设施	gong gong she shi	0
+砼水箱	tong shui xiang	0

@@ -1,0 +1,580 @@
+# 词库名称: 常用词库20150113
+# 词库分类: 城市区划
+# 词库作者: zfl196405
+# 词库描述: 常用
+# 词条数量: 572
+# 解析词数: 578
+# 解析异常: 6
+
+安全保卫部	an quan bao wei bu	0
+财务部	cai wu bu	0
+产品创新中心	chan pin chuang xin zhong xin	0
+党群工作部	dang qun gong zuo bu	0
+德城北渠道服务中心	de cheng bei qu dao fu wu zhong xin	0
+德城南渠道服务中心	de cheng nan qu dao fu wu zhong xin	0
+德城南渠道服务中心	de cheng na qu dao fu wu zhong xin	0
+德城区集团客户中心	de cheng qu ji tuan ke hu zhong xin	0
+电子商务部	dian zi shang wu bu	0
+法律与风险管理部	fa lv yu feng xian guan li bu	0
+工会	gong hui	0
+集团客户事业部	ji tuan ke hu shi ye bu	0
+郊区渠道服务中心	jiao qu qu dao fu wu zhong xin	0
+开发区集团客户中心	kai fa qu ji tuan ke hu zhong xin	0
+开发区渠道服务中心	kai fa qu qu dao fu wu zhong xin	0
+客服呼叫中心	ke fu hu jiao zhong xin	0
+客户服务部	ke hu fu wu bu	0
+客户维系中心	ke hu wei xi zhong xin	0
+离退休人员服务中心	li tui xiu ren yuan fu wu zhong xin	0
+卖场服务中心	mai chang fu wu zhong xin	0
+农村业务发展办公室	nong cun ye wu fa zhan ban gong shi	0
+欠费管理中心	qian fei guan li zhong xin	0
+人力资源部	ren li zi yuan bu	0
+审计部	shen ji bu	0
+市场销售部	shi chang xiao shou bu	0
+网络公司网络建设部	wang luo gong si wang luo jian she bu	0
+网络公司网络维护中心	wang luo gong si wang luo wei hu zhong xin	0
+网络公司网络优化中心	wang luo gong si wang luo you hua zhong xin	0
+网络公司运行维护部	wang luo gong si yun xing wei hu bu	0
+物资采购部	wu zi cai gou bu	0
+校园服务中心	xiao yuan fu wu zhong xin	0
+信息导航业务中心	xin xi dao hang ye wu zhong xin	0
+信息化产品支撑中心	xin xi hua chan pin zhi cheng zhong xin	0
+信息化服务中心	xin xi hua fu wu zhong xin	0
+行业信息化服务中心	hang ye xin xi hua fu wu zhong xin	0
+行政服务中心	xing zheng fu wu zhong xin	0
+营业中心	ying ye zhong xin	0
+运河区集团客户中心	yun he qu ji tuan ke hu zhong xin	0
+运河区渠道服务中心	yun he qu qu dao fu wu zhong xin	0
+政府信息化服务中心	zheng fu xin xi hua fu wu zhong xin	0
+驻地网营销中心	zhu di wang ying xiao zhong xin	0
+综合部	zong he bu	0
+茨头堡营业部	ci tou bao ying ye bu	0
+茨头堡营业部	ci tou bu ying ye bu	0
+茨头堡营业部	ci tou pu ying ye bu	0
+大孙堡营业部	da sun bao ying ye bu	0
+大孙堡营业部	da sun bu ying ye bu	0
+大孙堡营业部	da sun pu ying ye bu	0
+公司领导	gong si ling dao	0
+郭家营业部	guo jia ying ye bu	0
+花园营业部	hua yuan ying ye bu	0
+化楼营业部	hua lou ying ye bu	0
+黄夹营业部	huang jia ying ye bu	0
+黄夹营业部	huang ga ying ye bu	0
+黄夹营业部	huang xia ying ye bu	0
+集团客户中心	ji tuan ke hu zhong xin	0
+孔镇营业部	kong zhen ying ye bu	0
+奎台营业部	kui tai ying ye bu	0
+乐陵市维护中心	le ling shi wei hu zhong xin	0
+渠道服务中心	qu dao fu wu zhong xin	0
+三堂营业部	san tang ying ye bu	0
+铁营营业部	tie ying ying ye bu	0
+王集营业部	wang ji ying ye bu	0
+维护中心	wei hu zhong xin	0
+西段营业部	xi duan ying ye bu	0
+销售中心	xiao shou zhong xin	0
+杨安镇营业部	yang an zhen ying ye bu	0
+杨盘营业部	yang pan ying ye bu	0
+云红营业部	yun hong ying ye bu	0
+云红营业部	yun gong ying ye bu	0
+寨头堡营业部	zhai tou bao ying ye bu	0
+寨头堡营业部	zhai tou bu ying ye bu	0
+寨头堡营业部	zhai tou pu ying ye bu	0
+张桥营业部	zhang qiao ying ye bu	0
+郑店营业部	zheng dian ying ye bu	0
+朱集营业部	zhu ji ying ye bu	0
+朱集营业部	shu ji ying ye bu	0
+德平营业部	de ping ying ye bu	0
+翟家营业部	zhai jia ying ye bu	0
+翟家营业部	di jia ying ye bu	0
+后仓营业部	hou cang ying ye bu	0
+碱李营业部	jian li ying ye bu	0
+理合营业部	li he ying ye bu	0
+李家营业部	li jia ying ye bu	0
+林子营业部	lin zi ying ye bu	0
+临盘营业部	lin pan ying ye bu	0
+临邑县维护中心	lin yi xian wei hu zhong xin	0
+满家营业部	man jia ying ye bu	0
+孟寺营业部	meng si ying ye bu	0
+沙河营业部	sha he ying ye bu	0
+市场销售中心	shi chang xiao shou zhong xin	0
+市话营销中心	shi hua ying xiao zhong xin	0
+双丰营业部	shuang feng ying ye bu	0
+宿安营销部	su an ying xiao bu	0
+宿安营销部	xiu an ying xiao bu	0
+宿安营业部	su an ying ye bu	0
+宿安营业部	xiu an ying ye bu	0
+孙安营业部	sun an ying ye bu	0
+田口营业部	tian kou ying ye bu	0
+夏口营业部	xia kou ying ye bu	0
+兴隆营业部	xing long ying ye bu	0
+邢侗营业部	xing dong ying ye bu	0
+邢侗营业部	xing tong ying ye bu	0
+营子营业部	ying zi ying ye bu	0
+赵家营业部	zhao jia ying ye bu	0
+边镇营业部	bian zhen ying ye bu	0
+邓集营业部	deng ji ying ye bu	0
+丁庄营业部	ding zhuang ying ye bu	0
+丁庄营业部	zheng zhuang ying ye bu	0
+凤凰营业部	feng huang ying ye bu	0
+副总经理室	fu zong jing li shi	0
+管道孙营业部	guan dao sun ying ye bu	0
+管道孙营业部	guan dao xun ying ye bu	0
+黄集营业部	huang ji ying ye bu	0
+会计	kuai ji	0
+会王营业部	hui wang ying ye bu	0
+会王营业部	kuai wang ying ye bu	0
+集团客户响应室	ji tuan ke hu xiang ying shi	0
+碱店营业部	jian dian ying ye bu	0
+陵县维护中心	ling xian wei hu zhong xin	0
+陵州路渠道中心	ling zhou lu qu dao zhong xin	0
+刘泮营业部	liu pan ying ye bu	0
+糜镇营业部	mi zhen ying ye bu	0
+糜镇营业部	mei zhen ying ye bu	0
+前孙营业部	qian sun ying ye bu	0
+前孙营业部	qian xun ying ye bu	0
+渠道中心	qu dao zhong xin	0
+设备室	she bei shi	0
+神头营业部	shen tou ying ye bu	0
+宋家营业部	song jia ying ye bu	0
+唐城路渠道	tang cheng lu qu dao	0
+土桥营业部	tu qiao ying ye bu	0
+线路室	xian lu shi	0
+响应室	xiang ying shi	0
+义渡营业部	yi du ying ye bu	0
+于集营业部	yu ji ying ye bu	0
+张习桥营业部	zhang xi qiao ying ye bu	0
+政府路营业厅	zheng fu lu ying ye ting	0
+郑寨营业部	zheng zhai ying ye bu	0
+驻地网营销室	zhu di wang ying xiao shi	0
+滋镇营业部	zi zhen ying ye bu	0
+总经理室	zong jing li shi	0
+保店营销部	bao dian ying xiao bu	0
+柴胡店营销部	chai hu dian ying xiao bu	0
+常洼营销部	chang wa ying xiao bu	0
+长官营销部	zhang guan ying xiao bu	0
+大曹营销部	da cao ying xiao bu	0
+大柳营销部	da liu ying xiao bu	0
+电话营销室	dian hua ying xiao shi	0
+杜集营销部	du ji ying xiao bu	0
+公众客户响应室	gong zhong ke hu xiang ying shi	0
+客服室	ke fu shi	0
+客户维系室	ke hu wei xi shi	0
+刘营伍营销部	liu ying wu ying xiao bu	0
+孟集营销部	meng ji ying xiao bu	0
+宁津县维护中心	ning jin xian wei hu zhong xin	0
+商务客户室	shang wu ke hu shi	0
+设备维护中心	she bei wei hu zhong xin	0
+时集营销部	shi ji ying xiao bu	0
+田庄营销部	tian zhuang ying xiao bu	0
+西塘营销部	xi tang ying xiao bu	0
+线路维护中心	xian lu wei hu zhong xin	0
+相衙镇营销部	xiang ya zhen ying xiao bu	0
+小店营销部	xiao dian ying xiao bu	0
+移网优化建设室	yi wang you hua jian she shi	0
+营业室	ying ye shi	0
+尤集营销部	you ji ying xiao bu	0
+张傲营销部	zhang ao ying xiao bu	0
+张大庄营销部	zhang da zhuang ying xiao bu	0
+张学武营销部	zhang xue wu ying xiao bu	0
+张宅营销部	zhang zhai ying xiao bu	0
+平原县维护中心	ping yuan xian wei hu zhong xin	0
+集团客户服务部	ji tuan ke hu fu wu bu	0
+建设维护部	jian she wei hu bu	0
+齐河县维护中心	qi he xian wei hu zhong xin	0
+社会渠道服务部	she hui qu dao fu wu bu	0
+驻地网业务拓展部	zhu di wang ye wu tuo zhan bu	0
+装维中心	zhuang wei zhong xin	0
+庆云县维护中心	qing yun xian wei hu zhong xin	0
+蔡村营业部	cai cun ying ye bu	0
+大屯营业部	da tun ying ye bu	0
+董王庄营业部	dong wang zhuang ying ye bu	0
+郝王庄营业部	hao wang zhuang ying ye bu	0
+甲马营营业部	jia ma ying ying ye bu	0
+老城营业部	lao cheng ying ye bu	0
+李家户营业部	li jia hu ying ye bu	0
+鲁权屯营业部	lu quan tun ying ye bu	0
+鲁权屯营业部	lu quan zhun ying ye bu	0
+马庄营业部	ma zhuang ying ye bu	0
+四女寺营业部	si nv si ying ye bu	0
+武城县维护中心	wu cheng xian wei hu zhong xin	0
+杨庄营业部	yang zhuang ying ye bu	0
+滕庄营业部	teng zhuang ying ye bu	0
+白马湖营业部	bai ma hu ying ye bu	0
+常安集营业部	chang an ji ying ye bu	0
+东李营业部	dong li ying ye bu	0
+渡口驿营业部	du kou yi ying ye bu	0
+服务质量监督检查室	fu wu zhi liang jian du jian cha shi	0
+高端移动客户维系中心	gao duan yi dong ke hu wei xi zhong xin	0
+郭寨营业部	guo zhai ying ye bu	0
+后屯营业部	hou tun ying ye bu	0
+后屯营业部	hou zhun ying ye bu	0
+雷集营业部	lei ji ying ye bu	0
+李楼营业部	li lou ying ye bu	0
+欠费清缴中心	qian fei qing jiao zhong xin	0
+市话维护中心	shi hua wei hu zhong xin	0
+双庙营业部	shuang miao ying ye bu	0
+宋楼营业部	song lou ying ye bu	0
+苏留庄营业部	su liu zhuang ying ye bu	0
+田庄营业部	tian zhuang ying ye bu	0
+西李营业部	xi li ying ye bu	0
+夏津县维护中心	xia jin xian wei hu zhong xin	0
+香赵营业部	xiang zhao ying ye bu	0
+新盛店营业部	xin sheng dian ying ye bu	0
+新盛店营业部	xin cheng dian ying ye bu	0
+郑保屯营业部	zheng bao tun ying ye bu	0
+郑保屯营业部	zheng bao zhun ying ye bu	0
+中心营业厅	zhong xin ying ye ting	0
+朱庙营业部	zhu miao ying ye bu	0
+朱庙营业部	shu miao ying ye bu	0
+栾庄营业部	luan zhuang ying ye bu	0
+安仁营业部	an ren ying ye bu	0
+大程营业部	da cheng ying ye bu	0
+大程营业部	dai cheng ying ye bu	0
+大程营业部	tai cheng ying ye bu	0
+开发区集团客户服务部	kai fa qu ji tuan ke hu fu wu bu	0
+李屯营业部	li tun ying ye bu	0
+李屯营业部	li zhun ying ye bu	0
+农话设备维护室	nong hua she bei wei hu shi	0
+欠费管理办公室	qian fei guan li ban gong shi	0
+设备维护室	she bei wei hu shi	0
+十里望营业部	shi li wang ying ye bu	0
+石屯营业部	shi tun ying ye bu	0
+石屯营业部	dan tun ying ye bu	0
+石屯营业部	shi zhun ying ye bu	0
+石屯营业部	dan zhun ying ye bu	0
+市中办营业部	shi zhong ban ying ye bu	0
+市中集团客户服务部	shi zhong ji tuan ke hu fu wu bu	0
+西城集团客户服务部	xi cheng ji tuan ke hu fu wu bu	0
+线路维护室	xian lu wei hu shi	0
+辛店营业部	xin dian ying ye bu	0
+禹城市维护中心	yu cheng shi wei hu zhong xin	0
+张庄营业部	zhang zhuang ying ye bu	0
+装维业务管理室	zhuang wei ye wu guan li shi	0
+廿里铺营业部	nian li pu ying ye bu	0
+莒镇营业部	ju zhen ying ye bu	0
+市公司	shi gong si	0
+乐陵	le ling	0
+临邑	lin yi	0
+陵县	ling xian	0
+宁津	ning jin	0
+平原	ping yuan	0
+齐河	qi he	0
+庆云	qing yun	0
+武城	wu cheng	0
+夏津	xia jin	0
+禹城	yu cheng	0
+德州市金仓商贸	de zhou shi jin cang shang mao	0
+飞宇网吧	fei yu wang ba	0
+尚金德州投资服务大厅	shang jin de zhou tou zi fu wu da ting	0
+德州市产品质量检验所	de zhou shi chan pin zhi liang jian yan suo	0
+德州市国家安全局	de zhou shi guo jia an quan ju	0
+市交通局	shi jiao tong ju	0
+德建公司材料处	de jian gong si cai liao chu	0
+德州万佳商贸有限公司	de zhou wan jia shang mao you xian gong si	0
+临邑县人民法院	lin yi xian ren min fa yuan	0
+德州恒力电机公司	de zhou heng li dian ji gong si	0
+临邑济北客运站	lin yi ji bei ke yun zhan	0
+德州元茂纺织有限公司	de zhou yuan mao fang zhi you xian gong si	0
+名人网吧	ming ren wang ba	0
+中德石油德滨加油站	zhong de shi you de bin jia you zhan	0
+德州走四方技工学校	de zhou zou si fang ji gong xue xiao	0
+国家能源检测中心	guo jia neng yuan jian ce zhong xin	0
+德州市衡器所	de zhou shi heng qi suo	0
+漳卫南运河管理局	zhang wei nan yun he guan li ju	0
+漳卫南运河管理局	zhang wei na yun he guan li ju	0
+德州枫生工贸有限公司	de zhou feng sheng gong mao you xian gong si	0
+市财政局	shi cai zheng ju	0
+临邑县邮政局	lin yi xian you zheng ju	0
+政务中心	zheng wu zhong xin	0
+德城区人民法院	de cheng qu ren min fa yuan	0
+农业机械管理局	nong ye ji xie guan li ju	0
+德州市社保中心机房	de zhou shi she bao zhong xin ji fang	0
+工行东地支行	gong hang dong di zhi hang	0
+工行东地支行	gong hang dong di zhi xing	0
+夏津县打帘王气象局	xia jin xian da lian wang qi xiang ju	0
+夏津县西肖官屯气象局	xia jin xian xi xiao guan tun qi xiang ju	0
+夏津县西肖官屯气象局	xia jin xian xi xiao guan zhun qi xiang ju	0
+德州德瑞税务师事务所	de zhou de rui shui wu shi shi wu suo	0
+会展中心	hui zhan zhong xin	0
+德州市气象局	de zhou shi qi xiang ju	0
+武城广运街道办事处	wu cheng guang yun jie dao ban shi chu	0
+德城区碧波水族馆	de cheng qu bi bo shui zu guan	0
+德城区广川司法所	de cheng qu guang chuan si fa suo	0
+德州市广播电视台	de zhou shi guang bo dian shi tai	0
+长虹宾馆	chang hong bin guan	0
+德城区德龙网吧	de cheng qu de long wang ba	0
+德州市委通信专网	de zhou shi wei tong xin zhuan wang	0
+德城区农联社二屯分社	de cheng qu nong lian she er tun fen she	0
+德城区农联社二屯分社	de cheng qu nong lian she er zhun fen she	0
+山东格瑞德集团公司	shan dong ge rui de ji tuan gong si	0
+运河开发区公安局	yun he kai fa qu gong an ju	0
+庆云交警二中队	qing yun jiao jing er zhong dui	0
+禹城农行同心分理处	yu cheng nong hang tong xin fen li chu	0
+禹城农商行大禹分理处	yu cheng nong shang hang da yu fen li chu	0
+禹城农商行大禹分理处	yu cheng nong shang xing da yu fen li chu	0
+临邑邮政局南京路支局	lin yi you zheng ju nan jing lu zhi ju	0
+市体育局	shi ti yu ju	0
+丁东水库	ding dong shui ku	0
+临邑李家岸引黄局	lin yi li jia an yin huang ju	0
+禹城潘庄引黄局	yu cheng pan zhuang yin huang ju	0
+平原小王庄扬水站	ping yuan xiao wang zhuang yang shui zhan	0
+华丰宾馆	hua feng bin guan	0
+赵虎镇食品站	zhao hu zhen shi pin zhan	0
+赵宅乡敬老院	zhao zhai xiang jing lao yuan	0
+马颊河扬水站	ma jia he yang shui zhan	0
+贺家村委会	he jia cun wei hui	0
+临邑一飞药业公司	lin yi yi fei yao ye gong si	0
+临邑新汇食品有限公司	lin yi xin hui shi pin you xian gong si	0
+德城区真情网吧	de cheng qu zhen qing wang ba	0
+宁津房管局	ning jin fang guan ju	0
+武城房管局	wu cheng fang guan ju	0
+德州亨达铝业有限公司	de zhou heng da lv ye you xian gong si	0
+武城县交通局后马料场	wu cheng xian jiao tong ju hou ma liao chang	0
+政务中心国税局窗口	zheng wu zhong xin guo shui ju chuang kou	0
+乐陵市八零后网吧	le ling shi ba ling hou wang ba	0
+金荷园	jin he yuan	0
+邢侗监察室	xing dong jian cha shi	0
+邢侗监察室	xing tong jian cha shi	0
+德州市农业机械管理局	de zhou shi nong ye ji xie guan li ju	0
+乐陵滨德高速服务区	le ling bin de gao su fu wu qu	0
+黄河涯司法所	huang he ya si fa suo	0
+临邑自来水公司	lin yi zi lai shui gong si	0
+武城甲马营龙湾检察室	wu cheng jia ma ying long wan jian cha shi	0
+临邑云石热电有限公司	lin yi yun shi re dian you xian gong si	0
+武城县县直第一幼儿园	wu cheng xian xian zhi di yi you er yuan	0
+安华瓷业股份有限公司	an hua ci ye gu fen you xian gong si	0
+济南康诚仓储有限公司	ji nan kang cheng cang chu you xian gong si	0
+德州鲁北铝材市场	de zhou lu bei lv cai shi chang	0
+临邑富坤电器有限公司	lin yi fu kun dian qi you xian gong si	0
+开发区房产管理中心	kai fa qu fang chan guan li zhong xin	0
+陵县交通运输管理所	ling xian jiao tong yun shu guan li suo	0
+临邑县运管所	lin yi xian yun guan suo	0
+齐河县检测线	qi he xian jian ce xian	0
+武城县运管所	wu cheng xian yun guan suo	0
+德州众腾建材有限公司	de zhou zhong teng jian cai you xian gong si	0
+宁津县花样年华网吧	ning jin xian hua yang nian hua wang ba	0
+鑫马物流园	xin ma wu liu yuan	0
+武城县教育局	wu cheng xian jiao yu ju	0
+国家能源检测中心仪器	guo jia neng yuan jian ce zhong xin yi qi	0
+庆云北城创业园	qing yun bei cheng chuang ye yuan	0
+庆云农联社商城分社	qing yun nong lian she shang cheng fen she	0
+乐陵市明堂集团	le ling shi ming tang ji tuan	0
+海东信用社	hai dong xin yong she	0
+南鑫信用社	nan xin xin yong she	0
+南鑫信用社	na xin xin yong she	0
+德州市邮政局	de zhou shi you zheng ju	0
+第一中学	di yi zhong xue	0
+平原农联社寇坊分社	ping yuan nong lian she kou fang fen she	0
+金光小额贷款有限公司	jin guang xiao e dai kuan you xian gong si	0
+市建行龙盛支行	shi jian hang long sheng zhi hang	0
+市建行龙盛支行	shi jian hang long cheng zhi hang	0
+德百集团	de bai ji tuan	0
+德州银行德兴支行	de zhou yin hang de xing zhi hang	0
+二屯镇前屯工业园	er tun zhen qian tun gong ye yuan	0
+二屯镇前屯工业园	er zhun zhen qian tun gong ye yuan	0
+二屯镇前屯工业园	er tun zhen qian zhun gong ye yuan	0
+二屯镇前屯工业园	er zhun zhen qian zhun gong ye yuan	0
+德城区加美超市	de cheng qu jia mei chao shi	0
+夏津县德兴路尚尚网吧	xia jin xian de xing lu shang shang wang ba	0
+德州永盛斋扒鸡公司	de zhou yong sheng zhai pa ji gong si	0
+德城区新城医院	de cheng qu xin cheng yi yuan	0
+夏津县康泰颐养院	xia jin xian kang tai yi yang yuan	0
+德州职业技术学院	de zhou zhi ye ji shu xue yuan	0
+齐鲁证券三八路营业部	qi lu zheng quan san ba lu ying ye bu	0
+德州银行环城支行	de zhou yin hang huan cheng zhi hang	0
+夏津县金盾保安公司	xia jin xian jin dun bao an gong si	0
+陵县国力化工	ling xian guo li hua gong	0
+武城县交通局	wu cheng xian jiao tong ju	0
+陵县西宾馆	ling xian xi bin guan	0
+临邑万力大酒店	lin yi wan li da jiu dian	0
+泰康人寿禹城分公司	tai kang ren shou yu cheng fen gong si	0
+华福贸易有限公司	hua fu mao yi you xian gong si	0
+中宇碳纤维有限公司	zhong yu tan xian wei you xian gong si	0
+德城区农联社	de cheng qu nong lian she	0
+黄河涯二十里铺工业园	huang he ya er shi li pu gong ye yuan	0
+交警支队新办公楼	jiao jing zhi dui xin ban gong lou	0
+天衢工业园管委会	tian qu gong ye yuan guan wei hui	0
+临邑奥邦科技有限公司	lin yi ao bang ke ji you xian gong si	0
+临邑奥邦科技有限公司	lin yi yu bang ke ji you xian gong si	0
+德州乐陵维斯特网吧	de zhou le ling wei si te wang ba	0
+劳动和社会保障厅	lao dong he she hui bao zhang ting	0
+劳动和社会保障厅	lao dong hu she hui bao zhang ting	0
+劳动和社会保障厅	lao dong huo she hui bao zhang ting	0
+山东恒旭药业有限公司	shan dong heng xu yao ye you xian gong si	0
+德州晚报	de zhou wan bao	0
+武城清新油脂有限公司	wu cheng qing xin you zhi you xian gong si	0
+德州中通市政有限公司	de zhou zhong tong shi zheng you xian gong si	0
+德州华中房地产公司	de zhou hua zhong fang di chan gong si	0
+临邑渤海路福利彩票	lin yi bo hai lu fu li cai piao	0
+德城区人社局	de cheng qu ren she ju	0
+临邑临盘六合饲料公司	lin yi lin pan lu he si liao gong si	0
+临邑县劳动局	lin yi xian lao dong ju	0
+临邑华超公司	lin yi hua chao gong si	0
+德州市政法委	de zhou shi zheng fa wei	0
+德州海关	de zhou hai guan	0
+武城县广运街道办	wu cheng xian guang yun jie dao ban	0
+齐鲁银行	qi lu yin hang	0
+武城农联社梁庄分社	wu cheng nong lian she liang zhuang fen she	0
+乐陵西段工商所	le ling xi duan gong shang suo	0
+平原建行	ping yuan jian hang	0
+开发区工商局	kai fa qu gong shang ju	0
+抬头寺工商所	tai tou si gong shang suo	0
+长河工商所	chang he gong shang suo	0
+德州银行鑫都支行	de zhou yin hang xin dou zhi hang	0
+德州银行鑫都支行	de zhou yin hang xin du zhi hang	0
+德州商业银行和鑫支行	de zhou shang ye yin hang he xin zhi hang	0
+德州商业银行和鑫支行	de zhou shang ye yin hang hu xin zhi hang	0
+德州商业银行和鑫支行	de zhou shang ye yin hang huo xin zhi hang	0
+德州商业银行湖滨支行	de zhou shang ye yin hang hu bin zhi hang	0
+德州商业银行北园支行	de zhou shang ye yin hang bei yuan zhi hang	0
+德州银行银河支行	de zhou yin hang yin he zhi hang	0
+德州银行向阳支行	de zhou yin hang xiang yang zhi hang	0
+德州银行车站支行	de zhou yin hang che zhan zhi hang	0
+德州商业银行惠德支行	de zhou shang ye yin hang hui de zhi hang	0
+德州商业银行康乐支行	de zhou shang ye yin hang kang le zhi hang	0
+德州商业银行金城支行	de zhou shang ye yin hang jin cheng zhi hang	0
+德州银行政务中心网点	de zhou yin hang zheng wu zhong xin wang dian	0
+乐陵市商业银行	le ling shi shang ye yin hang	0
+临邑商业银行	lin yi shang ye yin hang	0
+临邑商业银行临盘支行	lin yi shang ye yin hang lin pan zhi hang	0
+德州银行陵县支行	de zhou yin hang ling xian zhi hang	0
+德州银行宁津支行	de zhou yin hang ning jin zhi hang	0
+德州银行平原支行	de zhou yin hang ping yuan zhi hang	0
+齐河支行	qi he zhi hang	0
+齐河南龙支行	qi he nan long zhi hang	0
+德州银行庆云支行	de zhou yin hang qing yun zhi hang	0
+德州银行武城支行	de zhou yin hang wu cheng zhi hang	0
+夏津商业银行	xia jin shang ye yin hang	0
+德州银行禹城市支行	de zhou yin hang yu cheng shi zhi hang	0
+陵县海纳快捷连锁酒店	ling xian hai na kuai jie lian suo jiu dian	0
+德州市人民防空办公室	de zhou shi ren min fang kong ban gong shi	0
+德州市中级人民法院	de zhou shi zhong ji ren min fa yuan	0
+森林公安警务室	sen lin gong an jing wu shi	0
+德城区千禧日化商店	de cheng qu qian xi ri hua shang dian	0
+佳发物流	jia fa wu liu	0
+运河开发区街道办	yun he kai fa qu jie dao ban	0
+德城区极速网吧	de cheng qu ji su wang ba	0
+雅娜丽有限公司	ya na li you xian gong si	0
+武城县利民污水处理厂	wu cheng xian li min wu shui chu li chang	0
+武城县利民污水处理厂	wu cheng xian li min wu shui chu li an	0
+武城县利民污水处理厂	wu cheng xian li min wu shui chu li han	0
+交警支队车管所	jiao jing zhi dui che guan suo	0
+夏津县热电厂	xia jin xian re dian chang	0
+工行泺源储蓄所	gong hang luo yuan chu xu suo	0
+德州市水利局施工处	de zhou shi shui li ju shi gong chu	0
+德州监狱	de zhou jian yu	0
+庆云维特焊丝公司	qing yun wei te han si gong si	0
+陵县气象局光缆	ling xian qi xiang ju guang lan	0
+陵县时楼南砂石料	ling xian shi lou nan sha shi liao	0
+陵县时楼南砂石料	ling xian shi lou na sha shi liao	0
+乐陵气象局	le ling qi xiang ju	0
+德州百货大楼	de zhou bai huo da lou	0
+市地税局	shi di shui ju	0
+乐陵市人民医院	le ling shi ren min yi yuan	0
+临邑汇发矿业	lin yi hui fa kuang ye	0
+乐陵财政局	le ling cai zheng ju	0
+德州银行天域支行	de zhou yin hang tian yu zhi hang	0
+德州银行乾城支行	de zhou yin hang qian cheng zhi hang	0
+德州银行乾城支行	de zhou yin hang gan cheng zhi hang	0
+德州银行齐河晏东支行	de zhou yin hang qi he yan dong zhi hang	0
+德州银行庆云北海支行	de zhou yin hang qing yun bei hai zhi hang	0
+德州金峰电器有限公司	de zhou jin feng dian qi you xian gong si	0
+乐陵工商局	le ling gong shang ju	0
+德城区运输管理所	de cheng qu yun shu guan li suo	0
+运河开发区运输管理所	yun he kai fa qu yun shu guan li suo	0
+金通检测线	jin tong jian ce xian	0
+德州市农业局	de zhou shi nong ye ju	0
+市建行	shi jian hang	0
+德州市质监局	de zhou shi zhi jian ju	0
+德州银行临邑社区银行	de zhou yin hang lin yi she qu yin hang	0
+齐河农联社南北支行	qi he nong lian she nan bei zhi hang	0
+齐河农联社大黄支行	qi he nong lian she dai huang zhi hang	0
+德州市艺术馆	de zhou shi yi shu guan	0
+临邑迎曦网吧	lin yi ying xi wang ba	0
+乐陵长城人寿公司	le ling chang cheng ren shou gong si	0
+武城欣隆大酒店	wu cheng xin long da jiu dian	0
+乐陵市政大楼编制办	le ling shi zheng da lou bian zhi ban	0
+临邑利民水库	lin yi li min shui ku	0
+禹城裕通集团	yu cheng yu tong ji tuan	0
+德州市第二中学	de zhou shi di er zhong xue	0
+平原农联社西关分社	ping yuan nong lian she xi guan fen she	0
+交警支队华晨检测线	jiao jing zhi dui hua chen jian ce xian	0
+交警支队光宇检测线	jiao jing zhi dui guang yu jian ce xian	0
+夏津供电公司工会桥北	xia jin gong dian gong si gong hui qiao bei	0
+市电政办	shi dian zheng ban	0
+夏津新盛店国税局	xia jin xin sheng dian guo shui ju	0
+夏津新盛店国税局	xia jin xin cheng dian guo shui ju	0
+乐陵花园卫生院	le ling hua yuan wei sheng yuan	0
+庆云昆泰电力公司	qing yun kun tai dian li gong si	0
+乐陵新天地购物中心	le ling xin tian di gou wu zhong xin	0
+德州人民财产保险公司	de zhou ren min cai chan bao xian gong si	0
+中数通信息有限公司	zhong shu tong xin xi you xian gong si	0
+德州银行临邑南鑫支行	de zhou yin hang lin yi nan xin zhi hang	0
+德州银行临邑南鑫支行	de zhou yin hang lin yi na xin zhi hang	0
+平原法院	ping yuan fa yuan	0
+德州市交警支队	de zhou shi jiao jing zhi dui	0
+德州市鼎嘉装饰公司	de zhou shi ding jia zhuang shi gong si	0
+德州市人民医院膳食楼	de zhou shi ren min yi yuan shan shi lou	0
+山东海能公司	shan dong hai neng gong si	0
+山东海能公司	shan dong hai nai gong si	0
+陵县滋镇检察院	ling xian zi zhen jian cha yuan	0
+乐陵市森林公安局	le ling shi sen lin gong an ju	0
+陵县力驰科技有限公司	ling xian li chi ke ji you xian gong si	0
+市建行天东支行	shi jian hang tian dong zhi hang	0
+中粮可口可乐饮料	zhong liang ke kou ke le yin liao	0
+乐陵快乐一点网吧	le ling kuai le yi dian wang ba	0
+禹城农联社李屯分理处	yu cheng nong lian she li tun fen li chu	0
+禹城农联社李屯分理处	yu cheng nong lian she li zhun fen li chu	0
+太平洋财险市公司	tai ping yang cai xian shi gong si	0
+太平洋财险平原支公司	tai ping yang cai xian ping yuan zhi gong si	0
+太平洋财险陵县公司	tai ping yang cai xian ling xian gong si	0
+太平洋财险齐河市公司	tai ping yang cai xian qi he shi gong si	0
+太平洋财险武城公司	tai ping yang cai xian wu cheng gong si	0
+太平洋财险庆云公司	tai ping yang cai xian qing yun gong si	0
+德州爱尚网络会所	de zhou ai shang wang luo hui suo	0
+华晨检测中心	hua chen jian ce zhong xin	0
+威海商业银行临邑支行	wei hai shang ye yin hang lin yi zhi hang	0
+夏津县一家超市宾馆	xia jin xian yi jia chao shi bin guan	0
+武城恒河车业有限公司	wu cheng heng he che ye you xian gong si	0
+禹城铁路供电段	yu cheng tie lu gong dian duan	0
+德州市人民医院	de zhou shi ren min yi yuan	0
+邮政局三分局	you zheng ju san fen ju	0
+德百夏津城市综合体	de bai xia jin cheng shi zong he ti	0
+武城县公安局	wu cheng xian gong an ju	0
+齐河金融大厦	qi he jin rong da sha	0
+德城国税局	de cheng guo shui ju	0
+德州市药检所	de zhou shi yao jian suo	0
+禹城公安局	yu cheng gong an ju	0
+德州瑞沃商贸有限公司	de zhou rui wo shang mao you xian gong si	0
+开发区管委会	kai fa qu guan wei hui	0
+夏津郭寨邮政局	xia jin guo zhai you zheng ju	0
+华农物流公司	hua nong wu liu gong si	0
+中行开发区政务中心	zhong hang kai fa qu zheng wu zhong xin	0
+德州市纪检委教育基地	de zhou shi ji jian wei jiao yu ji di	0
+德州市民政局培训中心	de zhou shi min zheng ju pei xun zhong xin	0
+袁桥乡政府	yuan qiao xiang zheng fu	0
+德州金盾保安服务中心	de zhou jin dun bao an fu wu zhong xin	0
+德州市社保中心	de zhou shi she bao zhong xin	0
+青岛银行开发区支行	qing dao yin hang kai fa qu zhi hang	0
+乐陵第四行政服务大厅	le ling di si xing zheng fu wu da ting	0
+乐陵规划局	le ling gui hua ju	0
+武城县气象局	wu cheng xian qi xiang ju	0
+武城县妇幼保健站	wu cheng xian fu you bao jian zhan	0
+山东德州烟草有限公司	shan dong de zhou yan cao you xian gong si	0
+德州康复医院	de zhou kang fu yi yuan	0
+广运卫生院	guang yun wei sheng yuan	0
+杨庄卫生院	yang zhuang wei sheng yuan	0
+老城卫生院	lao cheng wei sheng yuan	0
+甲马营卫生院	jia ma ying wei sheng yuan	0
+鲁权屯卫生院	lu quan tun wei sheng yuan	0
+鲁权屯卫生院	lu quan zhun wei sheng yuan	0
+滕庄卫生院	teng zhuang wei sheng yuan	0
+四女寺卫生院	si nv si wei sheng yuan	0
+郝王庄卫生院	hao wang zhuang wei sheng yuan	0
+武城镇卫生院	wu cheng zhen wei sheng yuan	0
+李家户卫生院	li jia hu wei sheng yuan	0
+夏津栾庄卫生院	xia jin luan zhuang wei sheng yuan	0
+禹城市委党校	yu cheng shi wei dang xiao	0
+市建行东地支行	shi jian hang dong di zhi hang	0
+市建行东地支行	shi jian hang dong di zhi xing	0
+市农联社办公楼	shi nong lian she ban gong lou	0
