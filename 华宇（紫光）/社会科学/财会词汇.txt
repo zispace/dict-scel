@@ -1,0 +1,162 @@
+# 词库名称: 财会词汇
+# 词库作者: krsun
+# 词条数量: 156
+# 解析词数: 156
+# 解析异常: 0
+
+库存现金	ku cun xian jin	12500
+库存商品	ku cun shang pin	12500
+库存股	ku cun gu	12500
+银行存款	yin hang cun kuan	12500
+存放中央银行款项	cun fang zhong yang yin hang kuan xiang	12500
+存放同业	cun fang tong ye	12500
+其他货币资金	qi ta hang bi zi jin	12500
+其他应收款	qi ta ying shou kuan	12500
+其他应付款	qi ta ying fu kuan	12500
+其他业务收入	qi ta ye wu shou ru	12500
+其他业务成本	qi ta ye wu cheng ben	12500
+结算备付金	jie suan bei fu jin	12500
+存出保证金	cun chu bao zheng jin	12500
+存出资本保证金	cun chu zi ben bao zheng jin	12500
+交易性金融资产	jiao yi xing jin rong zi chan	12500
+交易性金融负债	jiao yi xing jin rong fu zhai	12500
+买入返售金融资产	mai ru fan shou jin rong zi chan	12500
+应收票据	ying shou piao ju	12500
+应收账款	ying shou zhang kuan	12500
+应收股利	ying shou gu li	12500
+应收利息	ying shou li xi	12500
+应收代位追偿款	ying shou dai wei zhui chang kuan	12500
+应收分保账款	ying shou fen bao zhang kuan	12500
+应收分保合同准备金	ying shou fen bao he tong zhun bei jin	12500
+预收账款	yu shou zhang kuan	12500
+衍生工具	yan sheng gong ju	12500
+预付账款	yu fu zhang kuan	12500
+应付票据	ying fu piao ju	12500
+应付账款	ying fu zhang kuan	12500
+应付职工薪酬	ying fu zhi gong xin chou	12500
+应付利息	ying fu li xi	12500
+应付股利	ying fu gu li	12500
+应付保单红利	ying fu bao dan hong li	12500
+应付分保账款	ying fu fen bao zhang kuan	12500
+应付债券	ying fu zhai quan	12500
+研发支出	yan fa zhi chu	12500
+坏账准备	huai zhang zhun bei	12500
+贴现资产	tie xian zi chan	12500
+贴现负债	tie xian fu zhai	12500
+拆出资金	chai chu zi jin	12500
+贷款	dai kuan	12500
+贷款损失准备	dai kuan sun shi zhun bei	12500
+代理兑付证券	dai li dui fu zheng quan	12500
+代理业务资产	dai li ye wu zi chan	12500
+独立账户资产	du li zhang hu zi chan	12500
+代理买卖证券款	dai li mai mai zheng quan kuan	12500
+代理承销证券款	dai li cheng xiao zheng quan kuan	12500
+代理兑付证券款	dai li dui fu zheng quan kuan	12500
+代理业务负债	dai li ye wu fu zhai	12500
+独立账户负债	du li zhang hu fu zhai	12500
+材料采购	cai liao cai gou	12500
+材料成本差异	cai liao cheng ben cha yi	12500
+在途物资	zai tu wu zi	12500
+原材料	yuan cai liao	12500
+发出商品	fa chu shang pin	12500
+分出保费	fen chu bao fei	12500
+商品进销差价	shang pin jin xiao cha jia	12500
+委托加工物资	wei tang jia gong wu zi	12500
+周转材料	zhou zhuan cai liao	12500
+消耗性生物资产	xiao hao xing sheng wu zi chan	12500
+贵金属	gui jin shu	12500
+抵债资产	di zhai zi chan	12500
+损余物资	sun yu wu zi	12500
+融资租赁资产	rong zi zu lin zi chan	12500
+存货跌价准备	cun hang die jia zhun bei	12500
+持有至到期投资	chi you zhi dao qi tou zi	12500
+持有至到期投资减值准备	chi you zhi dao qi tou zi jian zhi zhun bei	12500
+可供出售金融资产	ke gong chu shou jin rong zi chan	12500
+长期股权投资	chang qi gu quan tou zi	12500
+长期股权投资减值准备	chang qi gu quan tou zi jian zhi zhun bei	12500
+长期应收款	chang qi ying shou kuan	12500
+长期待摊费用	chang qi dai tan fei yong	12500
+长期借款	chang qi jie kuan	12500
+长期应付款	chang qi ying fu kuan	12500
+投资性房地产	tou zi xing fang di chan	12500
+投资收益	tou zi shou yi	12500
+未实现融资收益	wei shi xian rong zi shou yi	12500
+固定资产	gu ding zi chan	12500
+固定资产减值准备	gu ding zi chan jian zhi zhun bei	12500
+固定资产清理	gu ding zi chan qing li	12500
+累计折旧	lei ji zhe jiu	12500
+累积折耗	lei ji zhe hao	12500
+累计摊销	lei ji tan xiao	12500
+在建工程	zai jian gong cheng	12500
+工程物资	gong cheng wu zi	12500
+工程施工	gong cheng shi gong	12500
+工程结算	gong cheng jie suan	12500
+未担保余值	wei dan bao yu zhi	12500
+未到期责任准备金	wei dao qi ze ren zhun bei jin	12500
+生产性生物资产	sheng chan xing sheng wu zi chan	12500
+生产性生物资产累计折旧	sheng chan xing sheng wu zi chan lei ji zhe jiu	12500
+生产成本	sheng chan cheng ben	12500
+公益性生物资产	gong yi xing sheng wu zi chan	12500
+公允价值变动损益	gong yun jia zhi bian dong sun yi	12500
+油气资产	you qi zi chan	12500
+以前年度损益调整	yi qian nian du sun yi tiao zheng	12500
+无形资产	wu xing zi chan	12500
+无形资产减值准备	wu xing zi chan jian zhi zhun bei	12500
+商誉	shang yu	12500
+递延所得税资产	di yan sang de shui zi chan	12500
+递延收益	di yan shou yi	12500
+递延所得税负债	di yan sang de shui fu zhai	12500
+待处理财产损溢	dai chu li cai chan sun yi	12500
+短期借款	duan qi jie kuan	12500
+存入保证金	cun ru bao zheng jin	12500
+拆入资金	chai ru zi jin	12500
+向中央银行借款	xiang zhong yang yin hang jie kuan	12500
+吸收存款	xi shou cun kuan	12500
+销售费用	xiao shou fei yong	12500
+同业存放	tong ye cun fang	12500
+卖出回购金融资产款	mai chu hui gou jin rong zi chan	12500
+应交税费	ying jiao shui fei	12500
+预计负债	yu ji fu zhai	12500
+保险责任准备金	bao xian ze ren zhun bei jin	12500
+保户储金	bao hu chu jin	12500
+未确认融资费用	wei que ren rong zi fei yong	12500
+专项应付款	zhuan xiang ying fu kuan	12500
+清算资金往来	qing suan zi jin wang lai	12500
+货币兑换	hang bi dui huan	12500
+套期工具	tao qi gong ju	12500
+提取未到期责任准备金	ti qu wei dao qi ze ren zhun bei jin	12500
+提取保险责任准备金	ti qu bao xian ze ren zhun bei jin	12500
+被套期项目	bei tao qi xiang mu	12500
+实收资本	shi shou zi ben	12500
+资本公积	zi ben gong ji	12500
+盈余公积	ying yu gong ji	12500
+营业外收入	ying ye wai shou ru	12500
+营业税金及附加	ying ye shui jin ji fu jia	12500
+营业外支出	ying ye wai zhi chu	12500
+一般风险准备	yi ban feng xian zhun bei	12500
+本年利润	ben nian li run	12500
+利润分配	li run fen pei	12500
+制造费用	zhi zao fei yong	12500
+劳务成本	lao wu cheng ben	12500
+机械作业	ji xie zang ye	12500
+主营业务收入	zhu ying ye wu shou ru	12500
+主营业务成本	zhu ying ye wu cheng ben	12500
+利息收入	li xi shou ru	12500
+利息支出	li xi zhi chu	12500
+手续费及佣金收入	shou xu fei ji yong jin shou ru	12500
+手续费及佣金支出	shou xu fei ji yong jin zhi chu	12500
+保费收入	bao fei shou ru	12500
+租赁收入	zu lin shou ru	12500
+汇兑损益	hui dui sun yi	12500
+摊回保险责任准备金	tan hui bao xian ze ren zhun bei jin	12500
+摊回赔付支出	tan hui pei fu zhi chu	12500
+摊回分保费用	tan hui fen bao fei yong	12500
+赔付支出	pei fu zhi chu	12500
+保单红利支出	bao dan hong li zhi chu	12500
+退保金	tui bao jin	12500
+分保费用	fen bao fei yong	12500
+管理费用	guan li fei yong	12500
+财务费用	cai wu fei yong	12500
+勘探费用	kan tan fei yong	12500
+资产减值损失	zi chan jian zhi sun shi	12500
+所得税费用	sang de shui fei yong	12500

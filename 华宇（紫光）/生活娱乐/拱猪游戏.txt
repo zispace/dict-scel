@@ -1,0 +1,491 @@
+# 词库名称: 拱猪游戏
+# 词库作者: sanwsw
+# 词条数量: 485
+# 解析词数: 485
+# 解析异常: 0
+
+暗翻	an fan	5
+暗牌	an pai	5
+保羊	bao yang	7
+逼羊	bi yang	125
+不要出方	bu yao chu fang	3
+不要出方块	bu yao chu fang kuai	3
+不要出黑	bu yao chu hei	3
+不要出黑桃	bu yao chu hei tao	3
+不要出红	bu yao chu hong	3
+不要出红桃	bu yao chu hong tao	3
+不要出花	bu yao chu hua	3
+不要出梅花	bu yao chu mei hua	3
+保自己	bao zi ji	3
+保自家	bao zi jia	3
+本可不输	ben ke bu shu	5
+不可出方	bu ke chu fang	3
+不可出方块	bu ke chu fang kuai	3
+不可出黑	bu ke chu hei	3
+不可出黑桃	bu ke chu hei tao	3
+不可出红	bu ke chu hong	3
+不可出红桃	bu ke chu hong tao	3
+不可出花	bu ke chu hua	3
+不可出梅花	bu ke chu mei hua	3
+逼变	bi bian	125
+逼变压器	bi bian ya qi	3
+逼出变	bi chu bian	3
+逼出变压器	bi chu bian ya qi	3
+逼出肥羊	bi chu fei yang	3
+逼出肥猪	bi chu fei zhu	3
+逼出分	bi chu fen	3
+逼出分数	bi chu fen shu	3
+逼出绵羊	bi chu mian yang	3
+逼出羊	bi chu yang	3
+逼出猪	bi chu zhu	3
+逼出猪头	bi chu zhu tou	3
+别出方	bie chu fang	3
+别出方块	bie chu fang kuai	3
+别出黑	bie chu hei	3
+别出黑桃	bie chu hei tao	3
+别出红	bie chu hong	3
+别出红桃	bie chu hong tao	3
+别出花	bie chu hua	3
+别出梅花	bie chu mei hua	3
+逼对家	bi dui jia	3
+逼肥羊	bi fei yang	3
+逼肥猪	bi fei zhu	3
+逼分	bi fen	125
+逼分数	bi fen shu	3
+逼绵羊	bi mian yang	3
+逼迫对家	bi po dui jia	3
+逼迫上家	bi po shang jia	3
+逼迫下家	bi po xia jia	3
+逼上家	bi shang jia	3
+逼下家	bi xia jia	3
+不下猪	bu xia zhu	12
+逼猪	bi zhu	125
+逼猪头	bi zhu tou	3
+不会翻牌了	bu hui fan pai le	5
+不留救命牌	bu liu jiu ming pai	3
+不送羊	bu song yang	1
+吃变	chi bian	125
+吃进变	chi jin bian	3
+吃进变压器	chi jin bian ya qi	3
+吃进肥羊	chi jin fei yang	3
+吃进肥猪	chi jin fei zhu	3
+吃进分	chi jin fen	3
+吃进分数	chi jin fen shu	3
+吃进绵羊	chi jin mian yang	3
+吃进羊	chi jin yang	3
+吃进猪	chi jin zhu	3
+吃进猪头	chi jin zhu tou	3
+吃了变	chi le bian	3
+吃了变压器	chi le bian ya qi	3
+吃了肥羊	chi le fei yang	3
+吃了肥猪	chi le fei zhu	3
+吃了分	chi le fen	3
+吃了分数	chi le fen shu	3
+吃了绵羊	chi le mian yang	3
+吃了羊	chi le yang	3
+吃了猪	chi le zhu	3
+吃了猪头	chi le zhu tou	3
+吃羊	chi yang	355
+吃羊送猪	chi yang song zhu	3
+吃猪	chi zhu	235
+吃猪的	chi zhu de	2
+出猪	chu zhu	57
+打暗牌	da an pai	5
+打变	da bian	125
+打变压器	da bian ya qi	3
+得变三家！	de bian san jia	0
+得变压器	de bian ya qi	3
+打出变	da chu bian	3
+打出变压器	da chu bian ya qi	3
+打出肥羊	da chu fei yang	3
+打出肥猪	da chu fei zhu	3
+打出分	da chu fen	3
+打出分数	da chu fen shu	3
+打出绵羊	da chu mian yang	3
+打出羊	da chu yang	3
+打出猪	da chu zhu	3
+打出猪头	da chu zhu tou	3
+打大留小	da da liu xiao	3
+打大牌	da da pai	3
+丢掉花	diu diao hua	7
+打方	da fang	125
+打方块	da fang kuai	3
+打肥羊	da fei yang	3
+打肥猪	da fei zhu	3
+得肥羊	de fei yang	3
+得肥猪	de fei zhu	3
+得分数	de fen shu	3
+打黑桃	da hei tao	3
+打红桃	da hong tao	3
+打梅花	da mei hua	3
+打绵羊	da mian yang	3
+得绵羊	de mian yang	3
+打死对家	da si dui jia	3
+打死上家	da si shang jia	3
+打死下家	da si xia jia	3
+打小留大	da xiao liu da	3
+打小牌	da xiao pai	3
+打压对家	da ya dui jia	3
+打压上家	da ya shang jia	3
+打压下家	da ya xia jia	3
+打羊	da yang	125
+大赢特赢	da ying te ying	5
+得羊	de yang	22
+独赢三输	du ying san shu	3
+打猪	da zhu	125
+打猪头	da zhu tou	3
+得猪	de zhu	77
+得猪头	de zhu tou	3
+对家想三家	dui jia xiang san jia	5
+否则不会三家	fou ze bu hui san jia	1
+赶变	gan bian	125
+赶变压器	gan bian ya qi	3
+赶出变	gan chu bian	3
+赶出变压器	gan chu bian ya qi	3
+赶出肥羊	gan chu fei yang	3
+赶出肥猪	gan chu fei zhu	3
+赶出分	gan chu fen	3
+赶出分数	gan chu fen shu	3
+赶出绵羊	gan chu mian yang	3
+赶出羊	gan chu yang	3
+赶出猪	gan chu zhu	3
+赶出猪头	gan chu zhu tou	3
+赶肥羊	gan fei yang	3
+赶肥猪	gan fei zhu	3
+赶分	gan fen	125
+赶分数	gan fen shu	3
+赶绵羊	gan mian yang	3
+赶猪	gan zhu	125
+赶猪头	gan zhu tou	3
+拱猪的结果	gong zhu de jie gang	1
+拱猪的目的	gong zhu de mu di	0
+给我猪	gei wo zhu	2
+攻黑	gong hei	9
+攻红	gong hong	7
+攻花	gong hua	5
+攻下家	gong xia jia	3
+活猪	hang zhu	82
+几号桌	ji hao zhang	5
+挤变	ji bian	125
+挤变压器	ji bian ya qi	3
+挤出变	ji chu bian	3
+挤出变压器	ji chu bian ya qi	3
+挤出肥羊	ji chu fei yang	3
+挤出肥猪	ji chu fei zhu	3
+挤出分	ji chu fen	3
+挤出分数	ji chu fen shu	3
+挤出绵羊	ji chu mian yang	3
+挤出羊	ji chu yang	3
+挤出猪	ji chu zhu	3
+挤出猪头	ji chu zhu tou	3
+挤肥羊	ji fei yang	3
+挤肥猪	ji fei zhu	3
+挤分	ji fen	125
+挤分数	ji fen shu	3
+谨防全抓	jin fang quan zhua	3
+挤绵羊	ji mian yang	3
+挤羊	ji yang	125
+挤猪	ji zhu	125
+挤猪头	ji zhu tou	3
+救上家	jiu shang jia	3
+救上家、攻下家、逼对家、保自家	jiu shang jia gong xia jia bi dui	3
+靠什么抓羊	kao shen me zhua yang	2
+可出方	ke chu fang	3
+可出方块	ke chu fang kuai	3
+可出黑	ke chu hei	3
+可出黑桃	ke chu hei tao	3
+可出红	ke chu hong	3
+可出红桃	ke chu hong tao	3
+可出花	ke chu hua	3
+可出梅花	ke chu mei hua	3
+可以出方	ke yi chu fang	3
+可以出方块	ke yi chu fang kuai	3
+可以出黑	ke yi chu hei	3
+可以出黑桃	ke yi chu hei tao	3
+可以出红	ke yi chu hong	3
+可以出红桃	ke yi chu hong tao	3
+可以出花	ke yi chu hua	3
+可以出梅花	ke yi chu mei hua	3
+老不下羊	lao bu xia yang	2
+留出活路	liu chu hang lu	3
+留出救命牌	liu chu jiu ming pai	3
+留出退路	liu chu tui lu	3
+留方	liu fang	125
+留方块	liu fang kuai	3
+留好活路	liu hao hang lu	3
+留好退路	liu hao tui lu	3
+留黑	liu hei	125
+留黑桃	liu hei tao	3
+留红	liu hong	125
+留红桃	liu hong tao	3
+留花	liu hua	125
+留梅花	liu mei hua	3
+麻痹对家	ma bi dui jia	3
+麻痹上家	ma bi shang jia	3
+麻痹下家	ma bi xia jia	3
+卖变	mai bian	125
+卖变压器	mai bian ya qi	3
+卖肥羊	mai fei yang	3
+卖肥猪	mai fei zhu	3
+明翻	ming fan	5
+卖绵羊	mai mian yang	3
+卖猪头	mai zhu tou	3
+瞒过对家	man gang dui jia	3
+瞒过上家	man gang shang jia	3
+瞒过下家	man gang xia jia	3
+满手方	man shou fang	3
+满手方块	man shou fang kuai	3
+满手黑	man shou hei	3
+满手黑桃	man shou hei tao	3
+满手红	man shou hong	3
+满手红桃	man shou hong tao	3
+满手花	man shou hua	3
+满手梅花	man shou mei hua	3
+拿变压器	na bian ya qi	3
+拿肥羊	na fei yang	3
+拿肥猪	na fei zhu	3
+拿分	na fen	125
+拿分数	na fen shu	3
+拿了变	na le bian	3
+拿了变压器	na le bian ya qi	3
+拿了肥羊	na le fei yang	3
+拿了肥猪	na le fei zhu	3
+拿了分	na le fen	3
+拿了分数	na le fen shu	3
+拿了绵羊	na le mian yang	3
+拿了羊	na le yang	3
+拿了猪	na le zhu	3
+拿了猪头	na le zhu tou	3
+拿绵羊	na mian yang	3
+拿羊	na yang	125
+拿猪	na zhu	125
+拿猪头	na zhu tou	3
+你找桌	ni zhao zhang	5
+骗不了对家	pian bu liao dui jia	3
+骗不了上家	pian bu liao shang jia	3
+骗不了下家	pian bu liao xia jia	3
+骗得了对家	pian de le dui jia	3
+骗得了上家	pian de le shang jia	3
+骗得了下家	pian de le xia jia	3
+骗对家	pian dui jia	3
+骗过对家	pian gang dui jia	3
+骗过了对家	pian gang le dui jia	3
+骗过了上家	pian gang le shang jia	3
+骗过了下家	pian gang le xia jia	3
+骗过上家	pian gang shang jia	3
+骗过下家	pian gang xia jia	3
+骗了对家	pian le dui jia	3
+骗了上家	pian le shang jia	3
+骗了下家	pian le xia jia	3
+骗上家	pian shang jia	3
+迫使对家	po shi dui jia	3
+迫使上家	po shi shang jia	3
+迫使下家	po shi xia jia	3
+骗下家	pian xia jia	3
+欺骗对家	qi pian dui jia	3
+欺骗上家	qi pian shang jia	3
+欺骗下家	qi pian xia jia	3
+牵羊拱猪	qian yang gong zhu	3
+全是方	quan shi fang	3
+全是方块	quan shi fang kuai	3
+全是黑	quan shi hei	3
+全是黑桃	quan shi hei tao	3
+全是红	quan shi hong	3
+全是红桃	quan shi hong tao	3
+全是花	quan shi hua	3
+全是梅花	quan shi mei hua	3
+让对家	rang dui jia	3
+让上家	rang shang jia	3
+让我出羊	rang wo chu yang	2
+让下家	rang xia jia	3
+三家输	san jia shu	37
+水云涧	shui yun jian	5
+死猪	si zhu	838
+送猪	song zhu	89
+送猪吃羊	song zhu chi yang	3
+送猪头	song zhu tou	3
+送猪抓羊	song zhu zhua yang	0
+送变	song bian	40
+送变压器	song bian ya qi	3
+送出变	song chu bian	3
+送出变压器	song chu bian ya qi	3
+送出肥羊	song chu fei yang	3
+送出肥猪	song chu fei zhu	3
+送出分	song chu fen	3
+送出分数	song chu fen shu	3
+送出绵羊	song chu mian yang	3
+送出羊	song chu yang	3
+送出猪	song chu zhu	3
+送出猪头	song chu zhu tou	3
+送肥羊	song fei yang	3
+送肥猪	song fei zhu	3
+送分数	song fen shu	3
+送红	song hong	125
+送红桃	song hong tao	3
+送了变	song le bian	3
+送了变压器	song le bian ya qi	3
+送了肥羊	song le fei yang	3
+送了肥猪	song le fei zhu	3
+送了分	song le fen	3
+送了分数	song le fen shu	3
+送了绵羊	song le mian yang	3
+送了羊	song le yang	3
+送了猪	song le zhu	3
+送了猪头	song le zhu tou	3
+送绵羊	song mian yang	3
+送羊给猪	song yang gei zhu	1
+送羊下猪	song yang xia zhu	1
+为何不抓羊	wei he bu zhua yang	2
+下变	xia bian	41
+下变压器	xia bian ya qi	3
+先保不死	xian bao bu si	3
+下方块	xia fang kuai	3
+下肥羊	xia fei yang	3
+下肥猪	xia fei zhu	3
+下分数	xia fen shu	3
+先防全抓	xian fang quan zhua	3
+先防三家	xian fang san jia	3
+下黑桃	xia hei tao	3
+下红	xia hong	125
+下红桃	xia hong tao	3
+下花	xia hua	125
+吓唬对家	xia hu dui jia	3
+吓唬上家	xia hu shang jia	3
+吓唬下家	xia hu xia jia	3
+下家打错	xia jia da cang	3
+下了变	xia le bian	3
+下了变压器	xia le bian ya qi	3
+下了肥羊	xia le fei yang	3
+下了肥猪	xia le fei zhu	3
+下了分	xia le fen	3
+下了分数	xia le fen shu	3
+下了绵羊	xia le mian yang	3
+下了羊	xia le yang	3
+下了猪	xia le zhu	3
+下了猪头	xia le zhu tou	3
+先留活路	xian liu hang lu	3
+下梅花	xia mei hua	3
+下绵羊	xia mian yang	3
+下羊	xia yang	125
+下猪	xia zhu	117
+下猪头	xia zhu tou	3
+想抓变	xiang zhua bian	3
+想抓分	xiang zhua fen	3
+想抓红	xiang zhua hong	3
+想抓红桃	xiang zhua hong tao	3
+想抓花	xiang zhua hua	3
+想抓梅花	xiang zhua mei hua	3
+想抓羊	xiang zhua yang	6
+想抓猪	xiang zhua zhu	3
+想捉羊	xiang zhang yang	1
+想吃变	xiang chi bian	3
+想出方	xiang chu fang	3
+想出方块	xiang chu fang kuai	3
+想出黑	xiang chu hei	3
+想出黑桃	xiang chu hei tao	3
+想出红	xiang chu hong	3
+想出红桃	xiang chu hong tao	3
+想出花	xiang chu hua	3
+想出梅花	xiang chu mei hua	3
+想拿变	xiang na bian	3
+想全抓	xiang quan zhua	2
+想三家	xiang san jia	2
+想送猪	xiang song zhu	1
+想逃变	xiang tao bian	1
+想逃猪	xiang tao zhu	1
+严防全抓	yan fang quan zhua	3
+严防三家	yan fang san jia	3
+要防全抓	yao fang quan zhua	3
+要防三家	yao fang san jia	3
+要出方	yao chu fang	3
+要出方块	yao chu fang kuai	3
+要出黑	yao chu hei	3
+要出黑桃	yao chu hei tao	3
+要出红	yao chu hong	3
+要出红桃	yao chu hong tao	3
+要出花	yao chu hua	3
+要出梅花	yao chu mei hua	3
+要送羊	yao song yang	1
+一人赢三家输	yi ren ying san jia shu	5
+引诱对家	yin you dui jia	3
+引诱上家	yin you shang jia	3
+引诱下家	yin you xia jia	3
+诱使对家	you shi dui jia	3
+诱使上家	you shi shang jia	3
+诱使下家	you shi xia jia	3
+与猪	yu zhu	1577
+怎可出方	zen ke chu fang	3
+怎可出方块	zen ke chu fang kuai	3
+怎可出黑	zen ke chu hei	3
+怎可出黑桃	zen ke chu hei tao	3
+怎可出红	zen ke chu hong	3
+怎可出红桃	zen ke chu hong tao	3
+怎可出花	zen ke chu hua	3
+怎可出梅花	zen ke chu mei hua	3
+怎么攻黑	zen me gong hei	3
+抓变	zhua bian	125
+抓变压器	zhua bian ya qi	3
+抓到变	zhua dao bian	3
+抓到变压器	zhua dao bian ya qi	3
+抓到肥羊	zhua dao fei yang	3
+抓到肥猪	zhua dao fei zhu	3
+抓到分	zhua dao fen	3
+抓到分数	zhua dao fen shu	3
+抓到了变	zhua dao le bian	3
+抓到了变压器	zhua dao le bian ya qi	3
+抓到了肥羊	zhua dao le fei yang	3
+抓到了肥猪	zhua dao le fei zhu	3
+抓到了分	zhua dao le fen	3
+抓到了分数	zhua dao le fen shu	3
+抓到了绵羊	zhua dao le mian yang	3
+抓到了羊	zhua dao le yang	3
+抓到了猪	zhua dao le zhu	3
+抓到了猪头	zhua dao le zhu tou	3
+抓到绵羊	zhua dao mian yang	3
+抓到羊	zhua dao yang	3
+抓到羊又如何？	zhua dao yang you ru he	0
+抓到猪	zhua dao zhu	3
+抓到猪头	zhua dao zhu tou	3
+抓得变	zhua de bian	3
+抓得变压器	zhua de bian ya qi	3
+抓得肥羊	zhua de fei yang	3
+抓得肥猪	zhua de fei zhu	3
+抓得分	zhua de fen	3
+抓得分数	zhua de fen shu	3
+抓得好牌	zhua de hao pai	3
+抓得绵羊	zhua de mian yang	3
+抓得羊	zhua de yang	3
+抓得猪	zhua de zhu	3
+抓得猪头	zhua de zhu tou	3
+专打对家	zhuan da dui jia	3
+专打上家	zhuan da shang jia	3
+专打下家	zhuan da xia jia	3
+抓肥羊	zhua fei yang	3
+抓肥猪	zhua fei zhu	3
+抓进变	zhua jin bian	3
+抓进变压器	zhua jin bian ya qi	3
+抓进肥羊	zhua jin fei yang	3
+抓进肥猪	zhua jin fei zhu	3
+抓进分	zhua jin fen	3
+抓进分数	zhua jin fen shu	3
+抓进绵羊	zhua jin mian yang	3
+抓进羊	zhua jin yang	3
+抓进猪	zhua jin zhu	3
+抓进猪头	zhua jin zhu tou	3
+抓了变	zhua le bian	3
+抓了变压器	zhua le bian ya qi	3
+抓了肥羊	zhua le fei yang	3
+抓了肥猪	zhua le fei zhu	3
+抓了分	zhua le fen	3
+抓了分数	zhua le fen shu	3
+抓了好牌	zhua le hao pai	3
+抓了绵羊	zhua le mian yang	3
+抓了猪	zhua le zhu	3
+抓了猪头	zhua le zhu tou	3
+抓绵羊	zhua mian yang	3
+抓羊送猪	zhua yang song zhu	3
+抓猪	zhua zhu	165
+抓猪头	zhua zhu tou	3
+专攻对家	zhuan gong dui jia	3
+专攻上家	zhuan gong shang jia	3
+专攻下家	zhuan gong xia jia	3
