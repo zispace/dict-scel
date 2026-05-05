@@ -1,0 +1,680 @@
+# 词库名称: 星际争霸
+# 词库分类: 单机游戏 电子游戏
+# 词库描述: 星际争霸游戏词库，包括游戏常用的装备设置、人物、技能及任务等词汇
+# 词条样例: 安祈浩、暗黑执政官、保护罩、暴风虫族、爆炸攻击、被废流、边衡泰、兵工厂、冰封战场、不朽者
+# 词条数量: 672
+# 解析词数: 672
+# 解析异常: 0
+
+安祈浩	an qi hao	0
+暗刀	an dao	0
+暗黑圣堂武士	an hei sheng tang wu shi	0
+暗黑执政官	an hei zhi zheng guan	0
+白球	bai qiu	0
+摆字	bai zi	0
+保护罩	bao hu zhao	0
+暴兵	bao bing	0
+暴兵流	bao bing liu	0
+暴风虫族	bao feng chong zu	0
+暴雪	bao xue	0
+爆杀	bao sha	0
+爆炸攻击	bao zha gong ji	0
+爆炸蚊	bao zha wen	0
+爆蛉	bao ling	0
+被废流	bei fei liu	0
+崩甲弹	beng jia tan	0
+崩甲弹	beng jia dan	0
+必输	bi shu	0
+边衡泰	bian heng tai	0
+边吉燮	bian ji xie	0
+边银钟	bian yin zhong	0
+兵工厂	bing gong chang	0
+兵营	bing ying	0
+兵站	bing zhan	0
+冰封战场	bing feng zhan chang	0
+瞭望塔	liao wang ta	0
+玻璃渣	bo li zha	0
+不朽者	bu xiu zhe	0
+部队体积	bu dui ti ji	0
+部署蜘蛛雷	bu shu zhi zhu lei	0
+裁决者	cai jue zhe	0
+踩雷	cai lei	0
+采矿	cai kuang	0
+采气	cai qi	0
+采气厂	cai qi chang	0
+叉叉	cha cha	0
+豺狼	chai lang	0
+产卵	chan luan	0
+超级进化病毒	chao ji jin hua bing du	0
+车宰旭	che zai xu	0
+成学升	cheng xue sheng	0
+斥候	chi hou	0
+斥候战机	chi hou zhan ji	0
+冲击波	chong ji bo	0
+虫后	chong hou	0
+虫卵	chong luan	0
+虫软	chong ruan	0
+虫穴守望者	chong xue shou wang zhe	0
+虫族	chong zu	0
+虫族大象	chong zu da xiang	0
+抽筋流	chou jin liu	0
+穿矿	chuan kuang	0
+穿梭机	chuan suo ji	0
+传送门	chuan song men	0
+刺蛇	ci she	0
+刺蛇塔	ci she ta	0
+刺蛇穴	ci she xue	0
+崔然星	cui ran xing	0
+崔宇范	cui yu fan	0
+存录像	cun lu xiang	0
+打兴奋剂	da xing fen ji	0
+大飞龙塔	da fei long ta	0
+大规模空降	da gui mo kong jiang	0
+大和炮	da he pao	0
+大和战舰	da he zhan jian	0
+大舰	da jian	0
+大脚	da jiao	0
+大脚怪	da jiao guai	0
+大脚机器人	da jiao ji qi ren	0
+大脚机械人	da jiao ji xie ren	0
+大牛	da niu	0
+大炮攻击	da pao gong ji	0
+大师	da shi	0
+大师门事件	da shi men shi jian	0
+大湿馆	da shi guan	0
+大象加小狗	da xiang jia xiao gou	0
+大型单位	da xing dan wei	0
+大招	da zhao	0
+大漩涡	da xuan wo	0
+单兵营科技	dan bing ying ke ji	0
+当泽帮	dang ze bang	0
+刀锋女皇	dao feng nv huang	0
+岛屿防守	dao yu fang shou	0
+导弹发射台	dao dan fa she tai	0
+导弹塔	dao dan ta	0
+等离子护罩	deng li zi hu zhao	0
+地堡	di bao	0
+地刺	di ci	0
+地刺塔	di ci ta	0
+地毯式空投	di tan shi kong tou	0
+地扎	di zha	0
+地扎	di za	0
+地扎	de zha	0
+电兵	dian bing	0
+碉堡	diao bao	0
+碉堡策略	diao bao ce lue	0
+谍报研究中心	die bao yan jiu zhong xin	0
+叠飞龙	die fei long	0
+叠农民	die nong min	0
+叮当	ding dang	0
+叮铛	ding dang	0
+毒雾	du wu	0
+毒性菌毯	du xing jun tan	0
+堵口	du kou	0
+锻造厂	duan zao chang	0
+断背虫族	duan bei chong zu	0
+断矿	duan kuang	0
+对空机器人	dui kong ji qi ren	0
+多线	duo xian	0
+多线操作	duo xian cao zuo	0
+多线空投	duo xian kong tou	0
+二矿	er kuang	0
+二龙	er long	0
+反馈	fan kui	0
+反隐	fan yin	0
+反隐形	fan yin xing	0
+反重力	fan zhong li	0
+防护电池	fang hu dian chi	0
+防护罩	fang hu zhao	0
+防空塔	fang kong ta	0
+防御地刺	fang yu di ci	0
+防御矩阵	fang yu ju zhen	0
+防御网	fang yu wang	0
+飞基地	fei ji di	0
+飞机场	fei ji chang	0
+飞建筑	fei jian zhu	0
+飞龙	fei long	0
+飞龙操作	fei long cao zuo	0
+飞龙甩尾	fei long shuai wei	0
+飞龙塔	fei long ta	0
+飞龙与地刺	fei long yu di ci	0
+飞龙追击	fei long zhui ji	0
+飞天大猪头	fei tian da zhu tou	0
+飞天猪头	fei tian zhu tou	0
+飞天螃蟹	fei tian pang xie	0
+肥虫	fei chong	0
+废气	fei qi	0
+分矿	fen kuang	0
+分裂网	fen lie wang	0
+分农民	fen nong min	0
+封锁	feng suo	0
+蜂巢	feng chao	0
+蜂簇	feng cu	0
+蜂群卫士	feng qun wei shi	0
+蜂灾	feng zai	0
+凤凰战机	feng huang zhan ji	0
+否决球	fou jue qiu	0
+否决真空	fou jue zhen kong	0
+孵化场	fu hua chang	0
+孵化池	fu hua chi	0
+辐射	fu she	0
+腐蚀兽	fu shi shou	0
+腐蚀者	fu shi zhe	0
+副矿	fu kuang	0
+复数攻击	fu shu gong ji	0
+富矿地图	fu kuang di tu	0
+附基地	fu ji di	0
+附属工厂	fu shu gong chang	0
+附属建筑	fu shu jian zhu	0
+感染	gan ran	0
+高地	gao di	0
+高地优势	gao di you shi	0
+高级建筑	gao ji jian zhu	0
+高级圣堂武士	gao ji sheng tang wu shi	0
+高阶螺旋塔	gao jie luo xuan ta	0
+高仁奎	gao ren kui	0
+工程湾	gong cheng wan	0
+工人	gong ren	0
+攻城模式	gong cheng mo shi	0
+攻城坦克	gong cheng tan ke	0
+攻防	gong fang	0
+攻击频率	gong ji pin lv	0
+攻击速度	gong ji su du	0
+供给站	gong ji zhan	0
+共享视野	gong xiang shi ye	0
+钩农民	gou nong min	0
+狗池	gou chi	0
+狗海	gou hai	0
+观察者	guan cha zhe	0
+光芒执政官	guang mang zhi zheng guan	0
+光明圣堂	guang ming sheng tang	0
+光明圣堂武士	guang ming sheng tang wu shi	0
+光明执政官	guang ming zhi zheng guan	0
+光子炮	guang zi pao	0
+光子炮塔	guang zi pao ta	0
+光子炮台	guang zi pao tai	0
+鬼兵	gui bing	0
+过载攻击	guo zai gong ji	0
+海盗船	hai dao chuan	0
+海盗机	hai dao ji	0
+海盗与侦察机	hai dao yu zhen cha ji	0
+航空母舰	hang kong mu jian	0
+航母	hang mu	0
+核弹井	he dan jing	0
+核武兵	he wu bing	0
+核武器攻击	he wu qi gong ji	0
+合理的电塔支援	he li de dian ta zhi yuan	0
+黑暗圣堂	hei an sheng tang	0
+黑暗圣堂武士	hei an sheng tang wu shi	0
+黑暗执政官	hei an zhi zheng guan	0
+黑峰	hei feng	0
+黑雾	hei wu	0
+轰击家虫	hong ji jia chong	0
+轰击甲虫	hong ji jia chong	0
+轰击甲虫突袭	hong ji jia chong tu xi	0
+洪榛浩	hong zhen hao	0
+宏操作	hong cao zuo	0
+红泥	hong ni	0
+红胖子	hong pang zi	0
+红球	hong qiu	0
+红雾	hong wu	0
+红血	hong xue	0
+红血	hong xie	0
+护盾	hu dun	0
+护甲	hu jia	0
+护士	hu shi	0
+护士塔	hu shi ta	0
+护罩升级	hu zhao sheng ji	0
+花生	hua sheng	0
+幻觉	huan jue	0
+幻象	huan xiang	0
+黄金狗	huang jin gou	0
+黄金解说组合	huang jin jie shuo zu he	0
+黄雾	huang wu	0
+黄鱼党	huang yu dang	0
+皇后	huang hou	0
+皇后的巢	huang hou de chao	0
+皇后减速	huang hou jian su	0
+恢复	hui fu	0
+混乱	hun luan	0
+火兵	huo bing	0
+火喷	huo pen	0
+火枪兵	huo qiang bing	0
+火焰兵	huo yan bing	0
+基地	ji di	0
+机甲	ji jia	0
+机甲巨人	ji jia ju ren	0
+机器人	ji qi ren	0
+机枪兵	ji qiang bing	0
+机枪兵行进	ji qiang bing xing jin	0
+机枪兵营	ji qiang bing ying	0
+机群塔	ji qun ta	0
+机械工厂	ji xie gong chang	0
+机械库	ji xie ku	0
+机械支持体	ji xie zhi chi ti	0
+吉姆	ji mu	0
+极限爆兵流	ji xian bao bing liu	0
+汲取器	ji qu qi	0
+寄生	ji sheng	0
+寄生虫	ji sheng chong	0
+甲壳升级	jia qiao sheng ji	0
+架起	jia qi	0
+尖头小飞机	jian tou xiao fei ji	0
+尖啸塔	jian xiao ta	0
+溅伤	jian shang	0
+溅射攻击	jian she gong ji	0
+建筑	jian zhu	0
+姜都炅	jiang dou jiong	0
+姜都炅	jiang du jiong	0
+姜民	jiang min	0
+教主	jiao zhu	0
+劫略者	jie lue zhe	0
+解锁	jie suo	0
+金诚帝	jin cheng di	0
+金根伯	jin gen bo	0
+金根伯	jin gen bai	0
+金甲	jin jia	0
+金甲虫	jin jia chong	0
+金正敏	jin zheng min	0
+进化腔	jin hua qiang	0
+精炼场	jing lian chang	0
+精炼厂	jing lian chang	0
+精神控制	jing shen kong zhi	0
+静止力场	jing zhi li chang	0
+净化	jing hua	0
+矩阵空投	ju zhen kong tou	0
+矩阵埋雷	ju zhen mai lei	0
+矩阵闪电	ju zhen shan dian	0
+聚贤庄	ju xian zhuang	0
+巨兽之窟	ju shou zhi ku	0
+巨像	ju xiang	0
+巨型机器人	ju xing ji qi ren	0
+菌毯	jun tan	0
+卡利甘	ka li gan	0
+科技球	ke ji qiu	0
+科技树	ke ji shu	0
+科学球	ke xue qiu	0
+科学站	ke xue zhan	0
+克隆操作	ke long cao zuo	0
+坑道巢	keng dao chao	0
+坑道蠕虫	keng dao ru chong	0
+空间传送	kong jian chuan song	0
+空降仓	kong jiang cang	0
+空军塔	kong jun ta	0
+空军站	kong jun zhan	0
+空中卫士	kong zhong wei shi	0
+恐吓流	kong he liu	0
+控制核	kong zhi he	0
+控制塔	kong zhi ta	0
+控制台	kong zhi tai	0
+口水龙	kou shui long	0
+快速建造	kuai su jian zao	0
+狂狗	kuang gou	0
+狂热战士	kuang re zhan shi	0
+狂热者	kuang re zhe	0
+狂热者突袭	kuang re zhe tu xi	0
+狂徒	kuang tu	0
+狂战士	kuang zhan shi	0
+矿区	kuang qu	0
+扩张	kuo zhang	0
+雷车	lei che	0
+雷车缠绕	lei che chan rao	0
+雷车埋雷	lei che mai lei	0
+雷车骚扰	lei che sao rao	0
+雷车甩尾	lei che shuai wei	0
+雷达扫描	lei da sao miao	0
+雷诺	lei nuo	0
+雷神	lei shen	0
+雷兽	lei shou	0
+雷兽窟	lei shou ku	0
+镭射舰	lei she jian	0
+离子	li zi	0
+离子盾	li zi dun	0
+离子风暴	li zi feng bao	0
+离子风暴瞄准	li zi feng bao miao zhun	0
+离子攻击	li zi gong ji	0
+离子光刀	li zi guang dao	0
+离子炮	li zi pao	0
+李玹秀	li xuan xiu	0
+李炳民	li bing min	0
+李允烈	li yun lie	0
+李在熏	li zai xun	0
+李周荣	li zhou rong	0
+联邦	lian bang	0
+联合作战	lian he zuo zhan	0
+炼炉	lian lu	0
+两防	liang fang	0
+两攻	liang gong	0
+两攻两防	liang gong liang fang	0
+两攻三防	liang gong san fang	0
+两攻一防	liang gong yi fang	0
+聊天流	liao tian liu	0
+林遥焕	lin yao huan	0
+临界伤害	lin jie shang hai	0
+领主	ling zhu	0
+领主视野	ling zhu shi ye	0
+领主速度	ling zhu su du	0
+领主运输	ling zhu yun shu	0
+龙骑	long qi	0
+龙骑兵	long qi bing	0
+龙骑房	long qi fang	0
+龙骑射程	long qi she cheng	0
+龙骑士	long qi shi	0
+龙骑舞	long qi wu	0
+隆起	long qi	0
+路标	lu biao	0
+螺旋塔	luo xuan ta	0
+罗度玄	luo du xuan	0
+马塔拜托	ma ta bai tuo	0
+马塔回旋	ma ta hui xuan	0
+马在允	ma zai yun	0
+埋地	mai di	0
+埋雷	mai lei	0
+馒头潜伏	man tou qian fu	0
+满攻满防	man gong man fang	0
+慢手流	man shou liu	0
+慢投	man tou	0
+猛犸	meng ma	0
+猛犸洞	meng ma dong	0
+面攻击	mian gong ji	0
+魔法研究	mo fa yan jiu	0
+末日执政官	mo ri zhi zheng guan	0
+母巢	mu chao	0
+母巢之战	mu chao zhi zhan	0
+母后	mu hou	0
+母舰	mu jian	0
+奶大	nai da	0
+耐力恢复	nai li hui fu	0
+能量场	neng liang chang	0
+能量雷达	neng liang lei da	0
+能量升级	neng liang sheng ji	0
+牛头人陆战兵	niu tou ren lu zhan bing	0
+女皇	nv huang	0
+女武神	nv wu shen	0
+女武神战机	nv wu shen zhan ji	0
+女妖战机	nv yao zhan ji	0
+排泄推进	pai xie tui jin	0
+胖子	pang zi	0
+喷火兵	pen huo bing	0
+飘兵营	piao bing ying	0
+飘基地	piao ji di	0
+飘建筑	piao jian zhu	0
+拼音	pin yin	0
+贫矿地图	pin kuang di tu	0
+朴明秀	piao ming xiu	0
+朴圣俊	pu sheng jun	0
+朴圣俊	piao sheng jun	0
+朴泰珉	pu tai min	0
+朴泰珉	piao tai min	0
+朴相翼	pu xiang yi	0
+朴相翼	piao xiang yi	0
+朴新荣	pu xin rong	0
+朴新荣	piao xin rong	0
+朴永旭	pu yong xu	0
+朴永旭	piao yong xu	0
+朴正石	pu zheng shi	0
+朴正石	piao zheng shi	0
+朴志浩	pu zhi hao	0
+朴志浩	piao zhi hao	0
+普通攻击	pu tong gong ji	0
+欺骗	qi pian	0
+欺骗流	qi pian liu	0
+欺骗术	qi pian shu	0
+气盾	qi dun	0
+气矿	qi kuang	0
+潜伏	qian fu	0
+潜伏者	qian fu zhe	0
+潜行	qian xing	0
+枪兵	qiang bing	0
+全兵空投	quan bing kong tou	0
+全太奎	quan tai kui	0
+全相昱	quan xiang yu	0
+人族	ren zu	0
+人族大舰	ren zu da jian	0
+人族皇帝	ren zu huang di	0
+人族坦克	ren zu tan ke	0
+人族天王	ren zu tian wang	0
+蠕虫隧道	ru chong sui dao	0
+入侵	ru qin	0
+萨尔纳迦族	sa er na jia zu	0
+三防	san fang	0
+三攻	san gong	0
+三攻两防	san gong liang fang	0
+三攻三防	san gong san fang	0
+三攻一防	san gong yi fang	0
+三矿	san kuang	0
+骚扰	sao rao	0
+杀农民	sha nong min	0
+沙家帮	sha jia bang	0
+闪电	shan dian	0
+闪电兵	shan dian bing	0
+闪光手雷	shan guang shou lei	0
+上上下下	shang shang xia xia	0
+射程	she cheng	0
+申正民	shen zheng min	0
+神族	shen zu	0
+神族航母	shen zu hang mu	0
+神族母舰	shen zu mu jian	0
+肾上腺	shen shang xian	0
+生命恢复	sheng ming hui fu	0
+升防	sheng fang	0
+升攻	sheng gong	0
+升攻防	sheng gong fang	0
+升级	sheng ji	0
+升级附件	sheng ji fu jian	0
+升级后的空军塔	sheng ji hou de kong jun ta	0
+升级护盾	sheng ji hu dun	0
+升级龙骑射程	sheng ji long qi she cheng	0
+升级能量	sheng ji neng liang	0
+升级射程	sheng ji she cheng	0
+升级视野	sheng ji shi ye	0
+升级兴奋剂	sheng ji xing fen ji	0
+升甲	sheng jia	0
+升两防	sheng liang fang	0
+升两攻	sheng liang gong	0
+升起建筑	sheng qi jian zhu	0
+升三防	sheng san fang	0
+升三攻	sheng san gong	0
+升射程	sheng she cheng	0
+升速度	sheng su du	0
+升一防	sheng yi fang	0
+升一攻	sheng yi gong	0
+圣殿	sheng dian	0
+圣堂	sheng tang	0
+圣堂档案馆	sheng tang dang an guan	0
+圣堂武士	sheng tang wu shi	0
+失落的神庙	shi luo de shen miao	0
+十大核心竞争力	shi da he xin jing zheng li	0
+时间炸弹	shi jian zha dan	0
+时空炸弹	shi kong zha dan	0
+实验室	shi yan shi	0
+收割者	shou ge zhe	0
+手速	shou su	0
+守护者	shou hu zhe	0
+兽巢主母	shou chao zhu mu	0
+兽穴	shou xue	0
+甩飞龙	shuai fei long	0
+双兵营科技	shuang bing ying ke ji	0
+双升攻防	shuang sheng gong fang	0
+双兽穴升级	shuang shou xue sheng ji	0
+双线操作	shuang xian cao zuo	0
+双线空投	shuang xian kong tou	0
+水晶	shui jing	0
+水晶矿	shui jing kuang	0
+瞬间移动	shun jian yi dong	0
+瞬移	shun yi	0
+四踢公司	si ti gong si	0
+宋炳具	song bing ju	0
+速度塔	su du ta	0
+速双矿	su shuang kuang	0
+宿主	su zhu	0
+酸液	suan ye	0
+碎星光束	sui xing guang shu	0
+孙英勋	sun ying xun	0
+锁定	suo ding	0
+坦克	tan ke	0
+坦克厂	tan ke chang	0
+坦克架起	tan ke jia qi	0
+坦克阵	tan ke zhen	0
+探测器	tan ce qi	0
+探测者	tan ce zhe	0
+特工	te gong	0
+提速	ti su	0
+天地双鬼	tian di shuang gui	0
+天空宇宙流	tian kong yu zhou liu	0
+跳蛉	tiao ling	0
+停气	ting qi	0
+偷渡仓	tou du cang	0
+偷矿	tou kuang	0
+秃鹰战车	tu ying zhan che	0
+秃鹫车	tu jiu che	0
+秃鹫战车	tu jiu zhan che	0
+推进	tui jin	0
+吞噬者	tun shi zhe	0
+吞噬者与蝎子	tun shi zhe yu xie zi	0
+拖把流	tuo ba liu	0
+挖掘隧道	wa jue sui dao	0
+瓦格雷	wa ge lei	0
+完美人族	wan mei ren zu	0
+王誉桥	wang yu qiao	0
+微操	wei cao	0
+微操作	wei cao zuo	0
+维京	wei jing	0
+卫星站	wei xing zhan	0
+瘟疫	wen yi	0
+我们现在优势很大	wo men xian zai you shi hen da	0
+污染	wu ran	0
+无敌迷雾	wu di mi wu	0
+物理实验室	wu li shi yan shi	0
+吸魔	xi mo	0
+相位棱镜	xiang wei leng jing	0
+象塔	xiang ta	0
+消灭	xiao mie	0
+小虫	xiao chong	0
+小地图	xiao di tu	0
+小飞机	xiao fei ji	0
+小狗	xiao gou	0
+小狗变飞龙	xiao gou bian fei long	0
+小狗加飞龙	xiao gou jia fei long	0
+小胖	xiao pang	0
+小型单位	xiao xing dan wei	0
+蝎子	xie zi	0
+蝎子的巢	xie zi de chao	0
+蝎子垛	xie zi duo	0
+蝎子塔	xie zi ta	0
+心灵风暴	xin ling feng bao	0
+星际霸主	xing ji ba zhu	0
+星际争霸	xing ji zheng ba	0
+星际争霸二	xing ji zheng ba er	0
+星界之门	xing jie zhi men	0
+兴奋剂	xing fen ji	0
+雄蜂	xiong feng	0
+羞辱流	xiu ru liu	0
+徐智秀	xu zhi xiu	0
+徐智勋	xu zhi xun	0
+血池	xue chi	0
+血池	xie chi	0
+血雾	xue wu	0
+血雾	xie wu	0
+血咒	xue zhou	0
+巡逻攻击	xun luo gong ji	0
+训练	xun lian	0
+压制	ya zhi	0
+研究院	yan jiu yuan	0
+燕子流	yan zi liu	0
+野兵营	ye bing ying	0
+野建筑	ye jian zhu	0
+野蛮部落	ye man bu luo	0
+野蛮酋长	ye man qiu zhang	0
+野重工	ye zhong gong	0
+一波流	yi bo liu	0
+一防	yi fang	0
+一攻	yi gong	0
+一攻两防	yi gong liang fang	0
+一攻三防	yi gong san fang	0
+一攻一防	yi gong yi fang	0
+医疗兵	yi liao bing	0
+医生	yi sheng	0
+医务兵	yi wu bing	0
+移动建筑	yi dong jian zhu	0
+移植眼	yi zhi yan	0
+意识流	yi shi liu	0
+引雷	yin lei	0
+隐刀	yin dao	0
+隐飞	yin fei	0
+隐形	yin xing	0
+隐形刀兵	yin xing dao bing	0
+隐形立场	yin xing li chang	0
+蛹虫通道	yong chong tong dao	0
+幽灵兵	you ling bing	0
+幽灵战机	you ling zhan ji	0
+游牧者	you mu zhe	0
+有机物蔓延	you ji wu man yan	0
+诱捕	you bu	0
+幼虫	you chong	0
+宇宙天空流	yu zhou tian kong liu	0
+原子弹	yuan zi dan	0
+原子弹兵	yuan zi dan bing	0
+远程单位	yuan cheng dan wei	0
+远程攻击	yuan cheng gong ji	0
+运输船	yun shu chuan	0
+运输机	yun shu ji	0
+炸弹人	zha dan ren	0
+战斗巡洋舰	zhan dou xun yang jian	0
+战舰	zhan jian	0
+战列舰	zhan lie jian	0
+战列巡洋舰	zhan lie xun yang jian	0
+战略性撤退	zhan lue xing che tui	0
+战网	zhan wang	0
+张镇南	zhang zhen nan	0
+赵容虎	zhao rong hu	0
+召唤	zhao huan	0
+召唤黑暗执政官	zhao huan hei an zhi zheng guan	0
+召唤执政官	zhao huan zhi zheng guan	0
+召农民	zhao nong min	0
+侦察机	zhen cha ji	0
+侦察者	zhen cha zhe	0
+震荡波	zhen dang bo	0
+震荡攻击	zhen dang gong ji	0
+支援	zhi yuan	0
+蜘蛛	zhi zhu	0
+蜘蛛雷	zhi zhu lei	0
+殖地站	zhi di zhan	0
+殖地站	zhi de zhan	0
+殖地肿瘤	zhi di zhong liu	0
+殖地肿瘤	zhi de zhong liu	0
+殖体	zhi ti	0
+执行宿主空降	zhi xing su zhu kong jiang	0
+执政官	zhi zheng guan	0
+执政官与黑暗执政官	zhi zheng guan yu hei an zhi zheng guan	0
+指挥中心	zhi hui zhong xin	0
+致盲	zhi mang	0
+治疗	zhi liao	0
+中型单位	zhong xing dan wei	0
+终级母舰	zhong ji mu jian	0
+重工	zhong gong	0
+重工厂	zhong gong chang	0
+重工厂	chong gong chang	0
+重力调整	zhong li tiao zheng	0
+仲裁	zhong cai	0
+仲裁神殿	zhong cai shen dian	0
+仲裁者	zhong cai zhe	0
+主基地	zhu ji di	0
+主控基地	zhu kong ji di	0
+主矿	zhu kuang	0
+主宰	zhu zai	0
+专业就是王道	zhuan ye jiu shi wang dao	0
+追踪者	zhui zong zhe	0
+自爆虫	zi bao chong	0
+自爆人	zi bao ren	0
+自动炮台	zi dong pao tai	0
+自杀飞幅	zi sha fei fu	0
+自杀飞机	zi sha fei ji	0
+自杀蚊	zi sha wen	0
+钻地	zuan di	0
+猥琐流	wei suo liu	0
+猥琐秘籍	wei suo mi ji	0
+猥琐宗师	wei suo zong shi	0
+孢子塔	bao zi ta	0
+蟑螂穴	zhang lang xue	0
+黯蜂	an feng	0

@@ -1,0 +1,562 @@
+# 词库名称: AVA
+# 词库分类: 网络游戏 电子游戏
+# 词库描述: 战地之王(ava)游戏词库，包括游戏常用的物品装备、技能术语、人物及场景地点等
+# 词条样例: 扳机、爆破、爆头英雄、奔跑大师、避开火焰、波波沙、步兵、步枪弹药增加、步枪手、操作设定
+# 词条数量: 554
+# 解析词数: 554
+# 解析异常: 0
+
+扳机	ban ji	0
+保护伊娃	bao hu yi wa	0
+爆菊花	bao ju hua	0
+爆破	bao po	0
+爆破模式	bao po mo shi	0
+爆破目标	bao po mu biao	0
+爆头英雄	bao tou ying xiong	0
+背景音量	bei jing yin liang	0
+奔跑	ben pao	0
+奔跑大师	ben pao da shi	0
+奔跑专家	ben pao zhuan jia	0
+比赛裁判	bi sai cai pan	0
+避开火焰	bi kai huo yan	0
+兵长	bing zhang	0
+兵种系统	bing zhong xi tong	0
+波波沙	bo bo sha	0
+补给积分	bu gei ji fen	0
+补给积分	bu ji ji fen	0
+补给值	bu gei zhi	0
+补给值	bu ji zhi	0
+步兵	bu bing	0
+步兵技能	bu bing ji neng	0
+步枪弹药	bu qiang dan yao	0
+步枪弹药增加	bu qiang dan yao zeng jia	0
+步枪快速换枪	bu qiang kuai su huan qiang	0
+步枪名射手英雄	bu qiang ming she shou ying xiong	0
+步枪手	bu qiang shou	0
+步枪特等射手英雄	bu qiang te deng she shou ying xiong	0
+部件改造	bu jian gai zao	0
+操作设定	cao zuo she ding	0
+操作说明	cao zuo shuo ming	0
+侧闪爆头	ce shan bao tou	0
+查看战况	cha kan zhan kuang	0
+拆包啦	chai bao la	0
+常见问题	chang jian wen ti	0
+长距支援后备单位	zhang ju zhi yuan hou bei dan wei	0
+长距支援后备单位	chang ju zhi yuan hou bei dan wei	0
+持久	chi jiu	0
+冲出火场	chong chu huo chang	0
+冲刺训练	chong ci xun lian	0
+冲锋枪	chong feng qiang	0
+冲锋枪名射手英雄	chong feng qiang ming she shou ying xiong	0
+冲锋枪特等射手英雄	chong feng qiang te deng she shou ying xiong	0
+抽奖系统	chou jiang xi tong	0
+穿墙	chuan qiang	0
+大便狗	da bian gou	0
+大师赛热身赛	da shi sai re shen sai	0
+大师赛线下热身赛	da shi sai xian xia re shen sai	0
+大师赛战队排行	da shi sai zhan dui pai hang	0
+大突袭头盔	da tu xi tou kui	0
+大校二护兵	da xiao er hu bing	0
+大校三护兵	da xiao san hu bing	0
+大校五护兵	da xiao wu hu bing	0
+弹夹升级	dan jia sheng ji	0
+弹药增加	dan yao zeng jia	0
+刀他	dao ta	0
+刀战竞技场	dao zhan jing ji chang	0
+道具礼包	dao ju li bao	0
+地图名	di tu ming	0
+地下葡萄酒仓库	di xia pu tao jiu cang ku	0
+第二回合	di er hui he	0
+第三回合	di san hui he	0
+第一回合	di yi hui he	0
+东北网通一区	dong bei wang tong yi qu	0
+短语选择	duan yu xuan ze	0
+队长纪念章	dui zhang ji nian zhang	0
+队长系统	dui zhang xi tong	0
+对决	dui jue	0
+蹲跑	dun pao	0
+夺包	duo bao	0
+二等兵	er deng bing	0
+二级好礼	er ji hao li	0
+反国际密码	fan guo ji mi ma	0
+反国密	fan guo mi	0
+房间设置	fang jian she zhi	0
+防弹衣	fang dan yi	0
+防护镜	fang hu jing	0
+防守部队	fang shou bu dui	0
+防守出生地	fang shou chu sheng di	0
+防守得分	fang shou de fen	0
+防守积分	fang shou ji fen	0
+防御二等荣誉	fang yu er deng rong yu	0
+防御三等荣誉	fang yu san deng rong yu	0
+防御术	fang yu shu	0
+防御特等荣誉	fang yu te deng rong yu	0
+防御一等荣誉	fang yu yi deng rong yu	0
+防御战	fang yu zhan	0
+非洲酋长面具	fei zhou qiu zhang mian ju	0
+飞车紫钻	fei che zi zuan	0
+粉钻	fen zuan	0
+风暴突击	feng bao tu ji	0
+风的海洋	feng de hai yang	0
+疯狂汉白玉	feng kuang han bai yu	0
+辅助摄像机	fu zhu she xiang ji	0
+斧头	fu tou	0
+斧子	fu zi	0
+副武器	fu wu qi	0
+改造大师	gai zao da shi	0
+高级瞄准	gao ji miao zhun	0
+高级头盔防御	gao ji tou kui fang yu	0
+高级战场了解术	gao ji zhan chang liao jie shu	0
+高级匕首攻击	gao ji bi shou gong ji	0
+高配达人	gao pei da ren	0
+高手频道	gao shou pin dao	0
+个人等级	ge ren deng ji	0
+个人战术短语	ge ren zhan shu duan yu	0
+更改兵种	geng gai bing zhong	0
+更换弹夹	geng huan dan jia	0
+攻击部队	gong ji bu dui	0
+攻击二等	gong ji er deng	0
+攻击三等荣誉	gong ji san deng rong yu	0
+攻击特等荣誉	gong ji te deng rong yu	0
+攻击一等荣誉	gong ji yi deng rong yu	0
+功勋点	gong xun dian	0
+功勋系统	gong xun xi tong	0
+公共聊天	gong gong liao tian	0
+固定迷你地图	gu ding mi ni di tu	0
+官方记者团	guan fang ji zhe tuan	0
+观战	guan zhan	0
+观战模式	guan zhan mo shi	0
+观战者模式	guan zhan zhe mo shi	0
+观战者模式中	guan zhan zhe mo shi zhong	0
+国际密码	guo ji mi ma	0
+国密	guo mi	0
+海狼键鼠套装	hai lang jian shu tao zhuang	0
+好友召回	hao you zhao hui	0
+黑夜版本	hei ye ban ben	0
+黑夜模式	hei ye mo shi	0
+黑钻	hei zuan	0
+红钻	hong zuan	0
+厚重头盔	hou zhong tou kui	0
+后退	hou tui	0
+虎啸世界	hu xiao shi jie	0
+虎啸新春	hu xiao xin chun	0
+护送出生地	hu song chu sheng di	0
+互动操作	hu dong cao zuo	0
+花匠	hua jiang	0
+华北网通一区	hua bei wang tong yi qu	0
+华东电信一区	hua dong dian xin yi qu	0
+华南电信一区	hua nan dian xin yi qu	0
+缓冲鞋	huan chong xie	0
+黄钻	huang zuan	0
+皇室封测	huang shi feng ce	0
+灰烬	hui jin	0
+回复上一私聊	hui fu shang yi si liao	0
+回合战	hui he zhan	0
+回合战之生存极限挑战	hui he zhan zhi sheng cun ji xian tiao zhan	0
+会员加成	hui yuan jia cheng	0
+混响效果	hun xiang xiao guo	0
+火狐	huo hu	0
+火箭筒	huo jian tong	0
+击落头盔英雄	ji luo tou kui ying xiong	0
+击杀持枪	ji sha chi qiang	0
+击杀王牌对手英雄	ji sha wang pai dui shou ying xiong	0
+击杀专家英雄	ji sha zhuan jia ying xiong	0
+基本短语	ji ben duan yu	0
+基本瞄准	ji ben miao zhun	0
+基本配置	ji ben pei zhi	0
+基本战场了解术	ji ben zhan chang liao jie shu	0
+基础兵士训练	ji chu bing shi xun lian	0
+激光器	ji guang qi	0
+极品枪	ji pin qiang	0
+集中火力攻击	ji zhong huo li gong ji	0
+技能勋章	ji neng xun zhang	0
+加成	jia cheng	0
+加成卡	jia cheng ka	0
+捡起武器	jian qi wu qi	0
+降低鼠标灵敏度	jiang di shu biao ling min du	0
+角木棒	jiao mu bang	0
+角木棒	jue mu bang	0
+绞木板	jiao mu ban	0
+截图	jie tu	0
+金属防伪面具	jin shu fang wei mian ju	0
+金属面罩	jin shu mian zhao	0
+金属伪装道具	jin shu wei zhuang dao ju	0
+金属骷髅面罩	jin shu ku lou mian zhao	0
+金字塔	jin zi ta	0
+进攻得分	jin gong de fen	0
+进攻积分	jin gong ji fen	0
+进阶礼	jin jie li	0
+近距攻击机动先锋	jin ju gong ji ji dong xian feng	0
+近身武器	jin shen wu qi	0
+近战武器	jin zhan wu qi	0
+经验加成卡	jing yan jia cheng ka	0
+经验卡	jing yan ka	0
+经验值增幅	jing yan zhi zeng fu	0
+竞技	jing ji	0
+竞技地图	jing ji di tu	0
+竞技模式	jing ji mo shi	0
+竞技模式金字塔	jing ji mo shi jin zi ta	0
+竞技模式金字塔参赛攻略	jing ji mo shi jin zi ta can sai gong lue	0
+狙击步枪	ju ji bu qiang	0
+狙击大师	ju ji da shi	0
+狙击枪名射手英雄	ju ji qiang ming she shou ying xiong	0
+狙击枪特等射手英雄	ju ji qiang te deng she shou ying xiong	0
+狙击手	ju ji shou	0
+狙击手技能	ju ji shou ji neng	0
+狙击新手	ju ji xin shou	0
+狙击专家	ju ji zhuan jia	0
+巨石	ju shi	0
+决战南非	jue zhan nan fei	0
+军情中心	jun qing zhong xin	0
+军衔系统	jun xian xi tong	0
+卡包	ka bao	0
+开镜	kai jing	0
+开镜速度	kai jing su du	0
+开启防火墙	kai qi fang huo qiang	0
+开启控制器	kai qi kong zhi qi	0
+开心复活节	kai xin fu huo jie	0
+抗火性	kang huo xing	0
+空间套装	kong jian tao zhuang	0
+控场	kong chang	0
+控场高手	kong chang gao shou	0
+控制器	kong zhi qi	0
+控制室	kong zhi shi	0
+快到我碗里里	kuai dao wo wan li li	0
+快捷短语	kuai jie duan yu	0
+快速换枪	kuai su huan qiang	0
+快速投掷	kuai su tou zhi	0
+快速突破	kuai su tu po	0
+扩大雷达范围	kuo da lei da fan wei	0
+拉怪辅助工具	la guai fu zhu gong ju	0
+蓝钻	lan zuan	0
+老钱	lao qian	0
+老战队排行	lao zhan dui pai hang	0
+雷柏键鼠套装	lei bo jian shu tao zhuang	0
+雷蛇迷	lei she mi	0
+雷蛇排行	lei she pai hang	0
+雷蛇鼠标	lei she shu biao	0
+雷蛇鼠标垫	lei she shu biao dian	0
+雷死他	lei si ta	0
+联邦	lian bang	0
+联邦野战指挥所	lian bang ye zhan zhi hui suo	0
+联军战士	lian jun zhan shi	0
+连胜荣誉	lian sheng rong yu	0
+了解术	liao jie shu	0
+猎狐	lie hu	0
+猎犬	lie quan	0
+领导得分	ling dao de fen	0
+领导积分	ling dao ji fen	0
+慢慢来	man man lai	0
+毛瑟枪	mao se qiang	0
+玫瑰面具	mei gui mian ju	0
+玫瑰战争面具	mei gui zhan zheng mian ju	0
+没卡包	mei ka bao	0
+没拿包	mei na bao	0
+没时间了	mei shi jian le	0
+美女中尉	mei nv zhong wei	0
+门将手套	men jiang shou tao	0
+盟军战士	meng jun zhan shi	0
+猛狗	meng gou	0
+梦文焉宇	meng wen yan yu	0
+瞄准镜	miao zhun jing	0
+命令短语	ming ling duan yu	0
+摩尔西部沙漠	mo er xi bu sha mo	0
+木棒	mu bang	0
+目镜	mu jing	0
+拿包	na bao	0
+耐久	nai jiu	0
+你赶快卡包	ni gan kuai ka bao	0
+你赶快拿包	ni gan kuai na bao	0
+你赶快下包	ni gan kuai xia bao	0
+跑动杀怪	pao dong sha guai	0
+喷子	pen zi	0
+平滑鼠标移动	ping hua shu biao yi dong	0
+普罗旺斯的玫瑰	pu luo wang si de mei gui	0
+启动电梯	qi dong dian ti	0
+前进	qian jin	0
+前一武器	qian yi wu qi	0
+潜行移动	qian xing yi dong	0
+枪管	qiang guan	0
+枪口	qiang kou	0
+枪托	qiang tuo	0
+强化防弹衣	qiang hua fang dan yi	0
+强化伪装服	qiang hua wei zhuang fu	0
+强者得分榜	qiang zhe de fen bang	0
+切换对象	qie huan dui xiang	0
+情兽	qing shou	0
+区域决赛	qu yu jue sai	0
+圈怪	quan guai	0
+全部杀敌数	quan bu sha di shu	0
+全服第一名百元道具礼包	quan fu di yi ming bai yuan dao ju li bao	0
+全服第一名十钻	quan fu di yi ming shi zuan	0
+全服前十名	quan fu qian shi ming	0
+全服前十名百元道具礼包	quan fu qian shi ming bai yuan dao ju li bao	0
+全国大师赛	quan guo da shi sai	0
+全国热身赛	quan guo re shen sai	0
+全新版本	quan xin ban ben	0
+燃烧的医院	ran shao de yi yuan	0
+热乎乎土豆手雷	re hu hu tu dou shou lei	0
+热土豆手雷	re tu dou shou lei	0
+人民军队的转盘枪	ren min jun dui de zhuan pan qiang	0
+任务物品	ren wu wu pin	0
+荣誉勋章	rong yu xun zhang	0
+三级好礼	san ji hao li	0
+沙漠突袭	sha mo tu xi	0
+上等兵	shang deng bing	0
+上将	shang jiang	0
+上士二护兵	shang shi er hu bing	0
+上士三护兵	shang shi san hu bing	0
+上士四护兵	shang shi si hu bing	0
+上士五护兵	shang shi wu hu bing	0
+上士一护兵	shang shi yi hu bing	0
+上尉二护兵	shang wei er hu bing	0
+上尉三护兵	shang wei san hu bing	0
+上尉四护兵	shang wei si hu bing	0
+上尉五护兵	shang wei wu hu bing	0
+上尉一护兵	shang wei yi hu bing	0
+上校二护兵	shang xiao er hu bing	0
+上校三护兵	shang xiao san hu bing	0
+上校四护兵	shang xiao si hu bing	0
+上校五护兵	shang xiao wu hu bing	0
+烧火棍	shao huo gun	0
+少将	shao jiang	0
+少尉二护兵	shao wei er hu bing	0
+少尉纪念章	shao wei ji nian zhang	0
+少尉三护兵	shao wei san hu bing	0
+少尉四护兵	shao wei si hu bing	0
+少尉五护兵	shao wei wu hu bing	0
+少尉一护兵	shao wei yi hu bing	0
+少校二护兵	shao xiao er hu bing	0
+少校纪念章	shao xiao ji nian zhang	0
+少校三护兵	shao xiao san hu bing	0
+少校四护兵	shao xiao si hu bing	0
+少校五护兵	shao xiao wu hu bing	0
+少校一护兵	shao xiao yi hu bing	0
+蛇眼	she yan	0
+射击术	she ji shu	0
+神秘礼品箱二	shen mi li pin xiang er	0
+神秘礼品箱三	shen mi li pin xiang san	0
+神秘礼品箱一	shen mi li pin xiang yi	0
+神秘战利品二	shen mi zhan li pin er	0
+神秘战利品三	shen mi zhan li pin san	0
+神秘战利品一	shen mi zhan li pin yi	0
+生存地图	sheng cun di tu	0
+生存第二季	sheng cun di er ji	0
+生存回合战	sheng cun hui he zhan	0
+生存极限挑战	sheng cun ji xian tiao zhan	0
+生存模式	sheng cun mo shi	0
+生存模式第二季	sheng cun mo shi di er ji	0
+生存模式回合战	sheng cun mo shi hui he zhan	0
+生存模式回合战参赛攻略	sheng cun mo shi hui he zhan can sai gong lue	0
+生存模式回合战入门	sheng cun mo shi hui he zhan ru men	0
+生存模式拯救战	sheng cun mo shi zheng jiu zhan	0
+生存模式拯救战参赛攻略	sheng cun mo shi zheng jiu zhan can sai gong lue	0
+生存模式拯救战入门	sheng cun mo shi zheng jiu zhan ru men	0
+生存英雄	sheng cun ying xiong	0
+生存拯救战	sheng cun zheng jiu zhan	0
+生化第一季	sheng hua di yi ji	0
+升级个人等级图标	sheng ji ge ren deng ji tu biao	0
+胜利荣誉	sheng li rong yu	0
+十钻奖英雄	shi zuan jiang ying xiong	0
+时钟塔	shi zhong ta	0
+时钟塔瞭望台	shi zhong ta liao wang tai	0
+实物奖励物品	shi wu jiang li wu pin	0
+世界杯版本	shi jie bei ban ben	0
+世界杯刀战模式	shi jie bei dao zhan mo shi	0
+世界杯手套	shi jie bei shou tao	0
+世界杯头盔	shi jie bei tou kui	0
+世界杯限量手提袋	shi jie bei xian liang shou ti dai	0
+世界杯限量宣传画	shi jie bei xian liang xuan chuan hua	0
+世界杯助威面具	shi jie bei zhu wei mian ju	0
+世界杯足球模式	shi jie bei zu qiu mo shi	0
+视频设置	shi pin she zhi	0
+手榴弹	shou liu dan	0
+手枪名射手英雄	shou qiang ming she shou ying xiong	0
+手枪特等射手英雄	shou qiang te deng she shou ying xiong	0
+守楼梯	shou lou ti	0
+守墙角	shou qiang jiao	0
+鼠标反转	shu biao fan zhuan	0
+鼠标灵敏度	shu biao ling min du	0
+鼠标设置	shu biao she zhi	0
+双倍经验补给	shuang bei jing yan bu gei	0
+双倍经验补给	shuang bei jing yan bu ji	0
+死亡数	si wang shu	0
+四级好礼	si ji hao li	0
+随风落叶	sui feng luo ye	0
+隧道	sui dao	0
+他奶的	ta nai de	0
+逃兵	tao bing	0
+逃脱战	tao tuo zhan	0
+特等射手	te deng she shou	0
+特殊军装套	te shu jun zhuang tao	0
+踢人	ti ren	0
+提高鼠标灵敏度	ti gao shu biao ling min du	0
+跳跃	tiao yue	0
+铁矿	tie kuang	0
+铁血网	tie xue wang	0
+通关	tong guan	0
+通关徽章	tong guan hui zhang	0
+同盟	tong meng	0
+投掷武器	tou zhi wu qi	0
+头盔防御	tou kui fang yu	0
+突击兵	tu ji bing	0
+突击步枪	tu ji bu qiang	0
+突破八楼	tu po ba lou	0
+突破第二关	tu po di er guan	0
+突破第三关	tu po di san guan	0
+突破第四关	tu po di si guan	0
+突破第一关	tu po di yi guan	0
+突破二楼	tu po er lou	0
+突破十三楼	tu po shi san lou	0
+突破十四楼	tu po shi si lou	0
+突围	tu wei	0
+突袭防弹衣	tu xi fang dan yi	0
+突袭头盔	tu xi tou kui	0
+土豆的战争	tu dou de zhan zheng	0
+土豆手雷	tu dou shou lei	0
+土豆战争	tu dou zhan zheng	0
+团队竞技	tuan dui jing ji	0
+推荐配置	tui jian pei zhi	0
+完全随机模式	wan quan sui ji mo shi	0
+网吧活动	wang ba huo dong	0
+网吧特权日	wang ba te quan ri	0
+忘记下包了	wang ji xia bao le	0
+微笑土豆手雷	wei xiao tu dou shou lei	0
+微型冲锋枪	wei xing chong feng qiang	0
+握把	wo ba	0
+无敌荣誉	wu di rong yu	0
+无信息视角	wu xin xi shi jiao	0
+武器辅助	wu qi fu zhu	0
+武器改造	wu qi gai zao	0
+武器开火	wu qi kai huo	0
+武器轮换	wu qi lun huan	0
+武器系统	wu qi xi tong	0
+武装兵	wu zhuang bing	0
+五级好礼	wu ji hao li	0
+西南电信一区	xi nan dian xin yi qu	0
+系统音量	xi tong yin liang	0
+下包	xia bao	0
+下蹲	xia dun	0
+下士二护兵	xia shi er hu bing	0
+下士纪念章	xia shi ji nian zhang	0
+下士三护兵	xia shi san hu bing	0
+下士四护兵	xia shi si hu bing	0
+下士五护兵	xia shi wu hu bing	0
+下士一护兵	xia shi yi hu bing	0
+下一关	xia yi guan	0
+线上比赛裁判	xian shang bi sai cai pan	0
+线上挑战赛	xian shang tiao zhan sai	0
+线上邀请赛	xian shang yao qing sai	0
+线下热身赛	xian xia re shen sai	0
+香蕉你个芭乐	xiang jiao ni ge ba le	0
+消声器	xiao sheng qi	0
+消音器	xiao yin qi	0
+小独间	xiao du jian	0
+小玖	xiao jiu	0
+啸月	xiao yue	0
+效果音量	xiao guo yin liang	0
+效力纪念章	xiao li ji nian zhang	0
+效力勋章	xiao li xun zhang	0
+新兵征集令	xin bing zheng ji ling	0
+新奇道具	xin qi dao ju	0
+新人礼	xin ren li	0
+新手地图	xin shou di tu	0
+新手频道	xin shou pin dao	0
+新手上路	xin shou shang lu	0
+新手视频	xin shou shi pin	0
+新战队雷蛇排行	xin zhan dui lei she pai hang	0
+新战队排行	xin zhan dui pai hang	0
+行走	xing zou	0
+幸运军火处	xing yun jun huo chu	0
+幸运礼品箱	xing yun li pin xiang	0
+幸运射击	xing yun she ji	0
+寻找出路	xun zhao chu lu	0
+训练兵	xun lian bing	0
+压枪点射	ya qiang dian she	0
+鸭嘴棒	ya zui bang	0
+烟雾弹	yan wu dan	0
+眼镜	yan jing	0
+夜视仪	ye shi yi	0
+一等兵	yi deng bing	0
+一等射手	yi deng she shou	0
+一级好礼	yi ji hao li	0
+一雷多杀英雄	yi lei duo sha ying xiong	0
+一枪毙命	yi qiang bi ming	0
+一枪多杀英雄	yi qiang duo sha ying xiong	0
+医院	yi yuan	0
+移动狙击	yi dong ju ji	0
+移动视角	yi dong shi jiao	0
+移动速度	yi dong su du	0
+意识流	yi shi liu	0
+意识流高手	yi shi liu gao shou	0
+音频质量	yin pin zhi liang	0
+音效设置	yin xiao she zhi	0
+英雄杀敌榜	ying xiong sha di bang	0
+英雄勋章	ying xiong xun zhang	0
+荧光棒	ying guang bang	0
+优先修理战车	you xian xiu li zhan che	0
+优秀成果英雄	you xiu cheng guo ying xiong	0
+优秀指挥官荣誉	you xiu zhi hui guan rong yu	0
+游戏背景	you xi bei jing	0
+游戏币	you xi bi	0
+游戏达人	you xi da ren	0
+游戏模式	you xi mo shi	0
+游戏设置	you xi she zhi	0
+有点晕	you dian yun	0
+右移	you yi	0
+欲火拯救	yu huo zheng jiu	0
+元帅	yuan shuai	0
+越狱第二季	yue yu di er ji	0
+增加步枪弹药	zeng jia bu qiang dan yao	0
+战车	zhan che	0
+战车模式	zhan che mo shi	0
+战地之王二零一零全国大师赛	zhan di zhi wang er ling yi ling quan guo da shi sai	0
+战地之王全国大师赛	zhan di zhi wang quan guo da shi sai	0
+战队功勋	zhan dui gong xun	0
+战队线上挑战赛	zhan dui xian shang tiao zhan sai	0
+战绩清零	zhan ji qing ling	0
+战术得分	zhan shu de fen	0
+战术积分	zhan shu ji fen	0
+战术荣誉	zhan shu rong yu	0
+侦察兵	zhen cha bing	0
+侦察兵技能	zhen cha bing ji neng	0
+阵地防守中坚力量	zhen di fang shou zhong jian li liang	0
+阵营聊天	zhen ying liao tian	0
+拯救伊娃	zheng jiu yi wa	0
+拯救战	zheng jiu zhan	0
+拯救战之欲火拯救	zheng jiu zhan zhi yu huo zheng jiu	0
+拯救之王榜单	zheng jiu zhi wang bang dan	0
+中断游戏	zhong duan you xi	0
+中将	zhong jiang	0
+中士二护兵	zhong shi er hu bing	0
+中士三护兵	zhong shi san hu bing	0
+中士四护兵	zhong shi si hu bing	0
+中士五护兵	zhong shi wu hu bing	0
+中士一护兵	zhong shi yi hu bing	0
+中尉二护兵	zhong wei er hu bing	0
+中尉三护兵	zhong wei san hu bing	0
+中尉四护兵	zhong wei si hu bing	0
+中尉五护兵	zhong wei wu hu bing	0
+中尉一护兵	zhong wei yi hu bing	0
+中校二护兵	zhong xiao er hu bing	0
+中校三护兵	zhong xiao san hu bing	0
+中校五护兵	zhong xiao wu hu bing	0
+重锤	zhong chui	0
+主武器	zhu wu qi	0
+主武器弹夹	zhu wu qi dan jia	0
+主武器改造	zhu wu qi gai zao	0
+抓虫行动	zhua chong xing dong	0
+装备操作	zhuang bei cao zuo	0
+追踪视角	zhui zong shi jiao	0
+准将纪念章	zhun jiang ji nian zhang	0
+着陆训练	zhuo lu xun lian	0
+自由视角	zi you shi jiao	0
+综合战斗力	zong he zhan dou li	0
+综合战斗力清零	zong he zhan dou li qing ling	0
+总决赛	zong jue sai	0
+足球竞技场	zu qiu jing ji chang	0
+足球头盔	zu qiu tou kui	0
+组六	zu liu	0
+组三	zu san	0
+最佳攻略	zui jia gong lue	0
+左移	zuo yi	0
