@@ -1,0 +1,935 @@
+# 词库名称: 谚语
+# 词库分类: 人文 人文社科
+# 词库描述: 谚语
+# 词条样例: 挨金似金挨玉似玉、把舵的不慌乘船的稳当、百日连阴雨总有一朝晴、败家子挥金如粪兴家人惜粪如金、饱带饥粮晴带雨伞、背后不商量当面无主张、边学边问才有学问、病好不谢医下次无人医、病人心多忙人事多、不打勤不打懒专打不长眼
+# 词条数量: 927
+# 解析词数: 927
+# 解析异常: 0
+
+挨金似金挨玉似玉	ai jin si jin ai yu si yu	0
+挨金似金挨玉似玉	ai jin si jin ai yu shi yu	0
+挨金似金挨玉似玉	ai jin shi jin ai yu si yu	0
+挨金似金挨玉似玉	ai jin shi jin ai yu shi yu	0
+熬不过艰辛就难得安乐离开了和睦就别想幸福	ao bu guo jian xin jiu nan de an le li kai le he mu jiu bie xiang xing fu	0
+八成熟十成收十成熟二成丢	ba cheng shu shi cheng shou shi cheng shu er cheng diu	0
+把舵的不慌乘船的稳当	ba duo de bu huang cheng chuan de wen dang	0
+白米饭好吃五谷田难种	bai mi fan hao chi wu gu tian nan zhong	0
+百根柳条能扎笤帚五个指头能握拳头	bai gen liu tiao neng zha tiao zhou wu ge zhi tou neng wo quan tou	0
+百根柳条能扎笤帚五个指头能握拳头	bai gen liu tiao neng za tiao zhou wu ge zhi tou neng wo quan tou	0
+百日连阴雨总有一朝晴	bai ri lian yin yu zong you yi zhao qing	0
+百日连阴雨总有一朝晴	bai ri lian yin yu zong you yi chao qing	0
+百闻不如一见百见不如一干	bai wen bu ru yi jian bai jian bu ru yi gan	0
+百闻不如一见百说不如一干	bai wen bu ru yi jian bai shuo bu ru yi gan	0
+败家子挥金如粪兴家人惜粪如金	bai jia zi hui jin ru fen xing jia ren xi fen ru jin	0
+帮人要帮到底救人要救到头	bang ren yao bang dao di jiu ren yao jiu dao tou	0
+帮助别人要忘掉别人帮己要记牢	bang zhu bie ren yao wang diao bie ren bang ji yao ji lao	0
+饱带饥粮晴带雨伞	bao dai ji liang qing dai yu san	0
+宝剑不磨要生锈人不学习要落后	bao jian bu mo yao sheng xiu ren bu xue xi yao luo hou	0
+爆饮爆食易生病定时定量保康宁	bao yin bao shi yi sheng bing ding shi ding liang bao kang ning	0
+背后不商量当面无主张	bei hou bu shang liang dang mian wu zhu zhang	0
+笨人先起身笨鸟早出林	ben ren xian qi shen ben niao zao chu lin	0
+鞭打的快马事找的忙人	bian da de kuai ma shi zhao de mang ren	0
+边学边问才有学问	bian xue bian wen cai you xue wen	0
+病从口入寒从脚起	bing cong kou ru han cong jiao qi	0
+病从口入祸从口出	bing cong kou ru huo cong kou chu	0
+病好不谢医下次无人医	bing hao bu xie yi xia ci wu ren yi	0
+病急乱投医逢庙就烧香	bing ji luan tou yi feng miao jiu shao xiang	0
+病来如山倒病去如抽丝	bing lai ru shan dao bing qu ru chou si	0
+病人心多忙人事多	bing ren xin duo mang ren shi duo	0
+补漏趁天晴读书趁年轻	bu lou chen tian qing du shu chen nian qing	0
+不吃饭则饥不读书则愚	bu chi fan ze ji bu du shu ze yu	0
+不打勤不打懒专打不长眼	bu da qin bu da lan zhuan da bu zhang yan	0
+不担三分险难练一身胆	bu dan san fen xian nan lian yi shen dan	0
+不当家不知柴米贵不养儿不知父母恩	bu dang jia bu zhi chai mi gui bu yang er bu zhi fu mu en	0
+不到江边不脱鞋不到火候不揭锅	bu dao jiang bian bu tuo xie bu dao huo hou bu jie guo	0
+不懂装懂永世饭桶	bu dong zhuang dong yong shi fan tong	0
+不给规矩不成方圆	bu gei gui ju bu cheng fang yuan	0
+不会烧香得罪神不会讲话得罪人	bu hui shao xiang de zui shen bu hui jiang hua de zui ren	0
+不会做小事的人也做不出大事来	bu hui zuo xiao shi de ren ye zuo bu chu da shi lai	0
+不见兔子不撒鹰	bu jian tu zi bu sa ying	0
+不经冬寒不知春暖	bu jing dong han bu zhi chun nuan	0
+不可不算不可全算	bu ke bu suan bu ke quan suan	0
+不磨不炼不成好汗	bu mo bu lian bu cheng hao han	0
+不怕百事不利就怕灰心丧气	bu pa bai shi bu li jiu pa hui xin sang qi	0
+不怕不翻身只怕不齐心	bu pa bu fan shen zhi pa bu qi xin	0
+不怕不识货就怕货比货	bu pa bu shi huo jiu pa huo bi huo	0
+不怕不识货只怕货比货	bu pa bu shi huo zhi pa huo bi huo	0
+不怕穿得迟就怕脱得早	bu pa chuan de chi jiu pa tuo de zao	0
+不怕家里穷只怕出懒汉	bu pa jia li qiong zhi pa chu lan han	0
+不怕路长只怕心老	bu pa lu chang zhi pa xin lao	0
+不怕乱如麻只怕不调查	bu pa luan ru ma zhi pa bu diao cha	0
+不怕慢就怕站一紧一慢差一半	bu pa man jiu pa zhan yi jin yi man cha yi ban	0
+不怕慢就怕站站一站二里半	bu pa man jiu pa zhan zhan yi zhan er li ban	0
+不怕年老就怕躺倒	bu pa nian lao jiu pa tang dao	0
+不怕人不敬就怕己不正	bu pa ren bu jing jiu pa ji bu zheng	0
+不怕人不请就怕艺不精	bu pa ren bu qing jiu pa yi bu jing	0
+不怕山高就怕脚软	bu pa shan gao jiu pa jiao ruan	0
+不怕少年苦只怕老来穷	bu pa shao nian ku zhi pa lao lai qiong	0
+不怕事难就怕手懒	bu pa shi nan jiu pa shou lan	0
+不怕天寒地冻就怕手脚不动	bu pa tian han di dong jiu pa shou jiao bu dong	0
+不怕学不成就怕心不诚	bu pa xue bu cheng jiu pa xin bu cheng	0
+不怕学问浅就怕志气短	bu pa xue wen qian jiu pa zhi qi duan	0
+不怕一万只怕万一	bu pa yi wan zhi pa wan yi	0
+不入虎穴焉得虎子	bu ru hu xue yan de hu zi	0
+不挑担子不知重不走长路不知远	bu tiao dan zi bu zhi zhong bu zou chang lu bu zhi yuan	0
+不挑担子不知重不走长路不知远	bu tiao dan zi bu zhi chong bu zou chang lu bu zhi yuan	0
+不听老人言吃亏在眼前	bu ting lao ren yan chi kui zai yan qian	0
+不图便宜不上当贪图便宜吃大亏	bu tu pian yi bu shang dang tan tu pian yi chi da kui	0
+不向前走不知路远不努力学习不明白真理	bu xiang qian zou bu zhi lu yuan bu nu li xue xi bu ming bai zhen li	0
+不笑补不笑破只笑日子不会过	bu xiao bu bu xiao po zhi xiao ri zi bu hui guo	0
+步跟不上步步跟不上	bu gen bu shang bu bu gen bu shang	0
+槽里无食猪拱猪分脏不均狗咬狗	cao li wu shi zhu gong zhu fen zang bu jun gou yao gou	0
+草若无心不发芽人若无心不发达	cao ruo wu xin bu fa ya ren ruo wu xin bu fa da	0
+馋人家里没饭吃懒人家里没柴烧	chan ren jia li mei fan chi lan ren jia li mei chai shao	0
+常赌无赢家	chang du wu ying jia	0
+常骂不惊常打不怕	chang ma bu jing chang da bu pa	0
+常说口里顺常做手不笨	chang shuo kou li shun chang zuo shou bu ben	0
+常在有时思无时莫到无时想有时	chang zai you shi si wu shi mo dao wu shi xiang you shi	0
+长江不拒细流泰山不择土石	chang jiang bu ju xi liu tai shan bu ze tu shi	0
+长五月短十月不长不短二八月	zhang wu yue duan shi yue bu chang bu duan er ba yue	0
+长五月短十月不长不短二八月	chang wu yue duan shi yue bu chang bu duan er ba yue	0
+长兄如父老嫂比母	zhang xiong ru fu lao sao bi mu	0
+朝里有人好做官家里有狗好看门	chao li you ren hao zuo guan jia li you gou hao kan men	0
+车到山前必有路船到桥头自然直	che dao shan qian bi you lu chuan dao qiao tou zi ran zhi	0
+车有车道马有马路	che you che dao ma you ma lu	0
+撑痢疾饿伤寒	cheng li ji e shang han	0
+撑死胆大的人饿死胆小的鬼	cheng si dan da de ren e si dan xiao de gui	0
+秤能称轻重话能量人心	cheng neng cheng qing zhong hua neng liang ren xin	0
+秤能称轻重话能量人心	cheng neng chen qing zhong hua neng liang ren xin	0
+秤砣虽小能压千斤	cheng tuo sui xiao neng ya qian jin	0
+吃不穷穿不穷不会打算一世穷	chi bu qiong chuan bu qiong bu hui da suan yi shi qiong	0
+吃不穷喝不穷盘算不到稳受穷	chi bu qiong he bu qiong pan suan bu dao wen shou qiong	0
+吃不言睡不语	chi bu yan shui bu yu	0
+吃吃喝喝人走下坡	chi chi he he ren zou xia po	0
+吃饭吃米说话说理	chi fan chi mi shuo hua shuo li	0
+吃饭打湿口洗脸打湿手	chi fan da shi kou xi lian da shi shou	0
+吃饭防噎走路防跌	chi fan fang ye zou lu fang die	0
+吃饭先喝汤老了不受伤	chi fan xian he tang lao le bu shou shang	0
+吃饭先喝汤强似开药方	chi fan xian he tang qiang si kai yao fang	0
+吃饭像条龙做活像条虫	chi fan xiang tiao long zuo huo xiang tiao chong	0
+吃饭象条龙做活象条虫	chi fan xiang tiao long zuo huo xiang tiao chong	0
+吃过的馍馍不香嚼过的甘蔗不甜	chi guo de mo mo bu xiang jiao guo de gan zhe bu tian	0
+吃酒不吃菜必定醉得快	chi jiu bu chi cai bi ding zui de kuai	0
+吃米带点糠老小都安康	chi mi dai dian kang lao xiao dou an kang	0
+吃米带点糠老小都安康	chi mi dai dian kang lao xiao du an kang	0
+吃人家的嘴短拿人家的手短	chi ren jia de zui duan na ren jia de shou duan	0
+吃人家嘴短拿人家手短	chi ren jia zui duan na ren jia shou duan	0
+吃一堑长一智	chi yi qian zhang yi zhi	0
+迟干不如早干蛮干不如巧干	chi gan bu ru zao gan man gan bu ru qiao gan	0
+尺有所短寸有所长	chi you suo duan cun you suo chang	0
+宠狗上灶宠子不孝	chong gou shang zao chong zi bu xiao	0
+出汗不迎风走路不凹胸	chu han bu ying feng zou lu bu ao xiong	0
+出家三天佛在面前出家三年佛在西天	chu jia san tian fo zai mian qian chu jia san nian fo zai xi tian	0
+出家三天佛在面前出家三年佛在西天	chu jia san tian fu zai mian qian chu jia san nian fo zai xi tian	0
+出家三天佛在面前出家三年佛在西天	chu jia san tian fo zai mian qian chu jia san nian fu zai xi tian	0
+出门看天色炒菜看火色	chu men kan tian se chao cai kan huo se	0
+出门靠朋友在家靠父母	chu men kao peng you zai jia kao fu mu	0
+出门问路入乡问俗	chu men wen lu ru xiang wen su	0
+船头坐得稳不怕风来颠	chuan tou zuo de wen bu pa feng lai dian	0
+船载千斤掌舵一人	chuan zai qian jin zhang duo yi ren	0
+疮怕有名病怕没名	chuang pa you ming bing pa mei ming	0
+创业百年败家一天	chuang ye bai nian bai jia yi tian	0
+吹嘘自己的人等于在宣传他的无知	chui xu zi ji de ren deng yu zai xuan chuan ta de wu zhi	0
+聪明在于学习天才在于积累	cong ming zai yu xue xi tian cai zai yu ji lei	0
+从俭入奢易从奢入俭难	cong jian ru she yi cong she ru jian nan	0
+从小差一岁到老不同年	cong xiao chai yi sui dao lao bu tong nian	0
+从小差一岁到老不同年	cong xiao cha yi sui dao lao bu tong nian	0
+粗茶淡饭能养人破衣破裤能遮寒	cu cha dan fan neng yang ren po yi po ku neng zhe han	0
+粗饭养人粗活益身	cu fan yang ren cu huo yi shen	0
+粗丝难织细绢粗人难做细活	cu si nan zhi xi juan cu ren nan zuo xi huo	0
+寸草铡三刀料少也长膘	cun cao zha san dao liao shao ye zhang biao	0
+打不干的井水使不完的力气	da bu gan de jing shui shi bu wan de li qi	0
+打柴问樵夫驶船问艄公	da chai wen qiao fu shi chuan wen shao gong	0
+打虎要力捉猴要智	da hu yao li zhuo hou yao zhi	0
+打架不能劝一边看人不能看一面	da jia bu neng quan yi bian kan ren bu neng kan yi mian	0
+打蛇打七寸挖树先挖根	da she da qi cun wa shu xian wa gen	0
+打铁看火候庄稼赶时候	da tie kan huo hou zhuang jia gan shi hou	0
+打鱼的不离水边打柴的不离山边	da yu de bu li shui bian da chai de bu li shan bian	0
+打鱼靠网打狼靠棒	da yu kao wang da lang kao bang	0
+大处着眼小处着手	da chu zhuo yan xiao chu zhuo shou	0
+大路不走草成窝好歌不唱忘记多	da lu bu zou cao cheng wo hao ge bu chang wang ji duo	0
+大蒜是个宝常吃身体好	da suan shi ge bao chang chi shen ti hao	0
+大王好见小鬼难求	da wang hao jian xiao gui nan qiu	0
+大王好见小鬼难求	dai wang hao jian xiao gui nan qiu	0
+大意失荆州骄傲失街亭	da yi shi jing zhou jiao ao shi jie ting	0
+单丝不成线独木不成林	dan si bu cheng xian du mu bu cheng lin	0
+胆大走遍天下胆小寸步难行	dan da zou bian tian xia dan xiao cun bu nan xing	0
+弹琴知音谈话知心	tan qin zhi yin tan hua zhi xin	0
+当断不断反受其乱	dang duan bu duan fan shou qi luan	0
+当局者迷旁观者清	dang ju zhe mi pang guan zhe qing	0
+当用时万金不惜不当用时一文不费	dang yong shi wan jin bu xi bu dang yong shi yi wen bu fei	0
+当着矮人别说矮话	dang zhe ai ren bie shuo ai hua	0
+刀不磨要生锈人不学要落后	dao bu mo yao sheng xiu ren bu xue yao luo hou	0
+到什么山唱什么歌	dao shen me shan chang shen me ge	0
+到什么山上砍什么柴到什么火候使什么锤	dao shen me shan shang kan shen me chai dao shen me huo hou shi shen me chui	0
+道儿是人走出来的辙尔是车轧出来的	dao er shi ren zou chu lai de zhe er shi che zha chu lai de	0
+道儿是人走出来的辙尔是车轧出来的	dao er shi ren zou chu lai de zhe er shi che ya chu lai de	0
+道儿是人走出来的辙尔是车轧出来的	dao er shi ren zou chu lai de zhe er shi che ga chu lai de	0
+道虽近不行不至事虽小不做不成	dao sui jin bu xing bu zhi shi sui xiao bu zuo bu cheng	0
+灯不拨不亮理不辩不明	deng bu bo bu liang li bu bian bu ming	0
+灯不亮要人拨事不明要人说	deng bu liang yao ren bo shi bu ming yao ren shuo	0
+滴水成河粒米成箩	di shui cheng he li mi cheng luo	0
+弟兄不和邻里欺将相不和邻国欺	di xiong bu he lin li qi jiang xiang bu he lin guo qi	0
+点灯爱油耕田爱牛	dian deng ai you geng tian ai niu	0
+东西越用越少学问越学越多	dong xi yue yong yue shao xue wen yue xue yue duo	0
+冬吃萝卜夏吃姜不老医生开药方	dong chi luo bo xia chi jiang bu lao yi sheng kai yao fang	0
+冬天既然已经到了春天还会远吗	dong tian ji ran yi jing dao le chun tian hai hui yuan ma	0
+冻的是闲人饿的是馋人	dong de shi xian ren e de shi chan ren	0
+豆腐多了一泡水空话多了无人信	dou fu duo le yi pao shui kong hua duo le wu ren xin	0
+痘要结麻要泄	dou yao jie ma yao xie	0
+读书不想隔靴挠痒	du shu bu xiang ge xue nao yang	0
+读书须用心一字值千金	du shu xu yong xin yi zi zhi qian jin	0
+读万卷书行万里路	du wan juan shu xing wan li lu	0
+读一书增一智	du yi shu zeng yi zhi	0
+赌钱众人骂读书众人夸	du qian zhong ren ma du shu zhong ren kua	0
+端人家碗服人家管	duan ren jia wan fu ren jia guan	0
+囤里有余粮不怕春脖长	tun li you yu liang bu pa chun bo zhang	0
+囤里有余粮不怕春脖长	tun li you yu liang bu pa chun bo chang	0
+囤里有余粮不怕春脖长	dun li you yu liang bu pa chun bo zhang	0
+囤里有余粮不怕春脖长	dun li you yu liang bu pa chun bo chang	0
+多下及时雨少放马后炮	duo xia ji shi yu shao fang ma hou pao	0
+多行不义必自毙	duo xing bu yi bi zi bi	0
+多行不义必自毖	duo xing bu yi bi zi bi	0
+恶人心海底针	e ren xin hai di zhen	0
+恶有恶报善有善报	e you e bao shan you shan bao	0
+饿了吃糠甜似蜜不饿吃蜜也不甜	e le chi kang tian si mi bu e chi mi ye bu tian	0
+饿了吃糠甜似蜜不饿吃蜜也不甜	e le chi kang tian shi mi bu e chi mi ye bu tian	0
+儿大不由爷女大不由娘	er da bu you ye nv da bu you niang	0
+儿大分家树大分杈	er da fen jia shu da fen cha	0
+儿子的江山闺女的吃穿	er zi de jiang shan gui nv de chi chuan	0
+耳不听不烦眼不见不馋	er bu ting bu fan yan bu jian bu chan	0
+耳听为虚眼见为实	er ting wei xu yan jian wei shi	0
+饭后百步走活到九十九	fan hou bai bu zou huo dao jiu shi jiu	0
+饭前一碗汤气死好药方	fan qian yi wan tang qi si hao yao fang	0
+放虎归山必有后患	fang hu gui shan bi you hou huan	0
+愤怒以愚蠢开始以后悔告终	fen nu yi yu chun kai shi yi hou hui gao zhong	0
+蜂采百花酿甜蜜人读群书明真理	feng cai bai hua niang tian mi ren du qun shu ming zhen li	0
+蜂多出王人多出将	feng duo chu wang ren duo chu jiang	0
+风大就凉人多就强	feng da jiu liang ren duo jiu qiang	0
+风声雨声读书声声声入耳	feng sheng yu sheng du shu sheng sheng sheng ru er	0
+逢恶不怕逢善不欺	feng e bu pa feng shan bu qi	0
+逢恶不怕逢善不欺	feng wu bu pa feng shan bu qi	0
+富人过年穷人过关	fu ren guo nian qiong ren guo guan	0
+隔行如隔山	ge hang ru ge shan	0
+工欲善其事必先利其器	gong yu shan qi shi bi xian li qi qi	0
+狗朝屁走人朝势走	gou chao pi zou ren chao shi zou	0
+狗朝屁走人朝势走	gou zhao pi zou ren chao shi zou	0
+狗朝屁走人朝势走	gou chao pi zou ren zhao shi zou	0
+狗朝屁走人朝势走	gou zhao pi zou ren zhao shi zou	0
+狗急跳墙人急悬梁	gou ji tiao qiang ren ji xuan liang	0
+狗记路猫记家	gou ji lu mao ji jia	0
+姑娘讲绣花秀才讲文章	gu niang jiang xiu hua xiu cai jiang wen zhang	0
+鼓不打不响钟不敲不鸣	gu bu da bu xiang zhong bu qiao bu ming	0
+鼓不敲不响理不辩不明	gu bu qiao bu xiang li bu bian bu ming	0
+鼓要打到点上笛要吹到眼上	gu yao da dao dian shang di yao chui dao yan shang	0
+刮风走小巷下雨走大街	gua feng zou xiao xiang xia yu zou da jie	0
+瓜无滚圆人无十全	gua wu gun yuan ren wu shi quan	0
+乖子看一眼呆子看到晚	guai zi kan yi yan dai zi kan dao wan	0
+关西出将关东出相	guan xi chu jiang guan dong chu xiang	0
+官不贪财狗不吃屎	guan bu tan cai gou bu chi shi	0
+广交不如择友投师不如访友	guang jiao bu ru ze you tou shi bu ru fang you	0
+锅不打不漏话不说不透	guo bu da bu lou hua bu shuo bu tou	0
+国乱思良相家贫思贤妻	guo luan si liang xiang jia pin si xian qi	0
+过了芒种不可强种	guo le mang zhong bu ke qiang zhong	0
+过头话少说过头事少做	guo tou hua shao shuo guo tou shi shao zuo	0
+寒从足下起火从头上生	han cong zu xia qi huo cong tou shang sheng	0
+寒门出才子高山出俊鸟	han men chu cai zi gao shan chu jun niao	0
+好吃甜的找卖糖的好吃酸的找卖醋的	hao chi tian de zhao mai tang de hao chi suan de zhao mai cu de	0
+好处着手坏处着想	hao chu zhuo shou huai chu zhuo xiang	0
+好儿无须多一个顶十个	hao er wu xu duo yi ge ding shi ge	0
+好狗不跳好猫不叫	hao gou bu tiao hao mao bu jiao	0
+好狗不咬鸡好汉不打妻	hao gou bu yao ji hao han bu da qi	0
+好鼓一打就响好灯一拨就亮	hao gu yi da jiu xiang hao deng yi bo jiu liang	0
+好闺女不如好女婿好儿子不如好媳妇	hao gui nv bu ru hao nv xu hao er zi bu ru hao xi fu	0
+好汗护三村好狗护三邻	hao han hu san cun hao gou hu san lin	0
+好汉死在战场懒汉死在炕上	hao han si zai zhan chang lan han si zai kang shang	0
+好虎架不住一群狼	hao hu jia bu zhu yi qun lang	0
+好花开不败好事说不坏	hao hua kai bu bai hao shi shuo bu huai	0
+好记性不如烂笔头	hao ji xing bu ru lan bi tou	0
+好酒红人面财帛动人心	hao jiu hong ren mian cai bo dong ren xin	0
+好客的朋友多好说的废话多	hao ke de peng you duo hao shuo de fei hua duo	0
+好客朋友多好说废话多	hao ke peng you duo hao shuo fei hua duo	0
+好马不停蹄好牛不停犁	hao ma bu ting ti hao niu bu ting li	0
+好事不出门恶事传千里	hao shi bu chu men e shi chuan qian li	0
+好事不瞒人瞒人没好事	hao shi bu man ren man ren mei hao shi	0
+好铁要经三回炉好书要经百回读	hao tie yao jing san hui lu hao shu yao jing bai hui du	0
+好种出好苗好树结好桃	hao zhong chu hao miao hao shu jie hao tao	0
+喝酒喝厚了赌博赌薄了	he jiu he hou le du bo du bao le	0
+和尚不说鬼袋里没有米	he shang bu shuo gui dai li mei you mi	0
+河长多滩路长多弯	he chang duo tan lu chang duo wan	0
+河有两岸事有两面	he you liang an shi you liang mian	0
+黑发不知勤学早白首方悔读书迟	hei fa bu zhi qin xue zao bai shou fang hui du shu chi	0
+虎不怕山高鱼不怕水深	hu bu pa shan gao yu bu pa shui shen	0
+虎吃人易躲人吃人难防	hu chi ren yi duo ren chi ren nan fang	0
+虎到中堂家败人亡	hu dao zhong tang jia bai ren wang	0
+虎瘦雄心在人穷志不短	hu shou xiong xin zai ren qiong zhi bu duan	0
+虎死不变形狼死不变性	hu si bu bian xing lang si bu bian xing	0
+画人画虎难画骨知人知面难知心	hua ren hua hu nan hua gu zhi ren zhi mian nan zhi xin	0
+话不说不知木不钻不透	hua bu shuo bu zhi mu bu zuan bu tou	0
+话不要说死路不要走绝	hua bu yao shuo si lu bu yao zou jue	0
+话多了不甜胶多了不粘	hua duo le bu tian jiao duo le bu nian	0
+灰没火热酱没盐咸	hui mei huo re jiang mei yan xian	0
+会打会算钱粮不断	hui da hui suan qian liang bu duan	0
+会怪怪自己不会怪怪别人	hui guai guai zi ji bu hui guai guai bie ren	0
+会过不会过少养张口货	hui guo bu hui guo shao yang zhang kou huo	0
+会过日子省囤尖儿莫等少了省囤底	hui guo ri zi sheng tun jian er mo deng shao le sheng tun di	0
+会过日子省囤尖儿莫等少了省囤底	hui guo ri zi sheng tun jian er mo deng shao le sheng dun di	0
+会过日子省囤尖儿莫等少了省囤底	hui guo ri zi sheng dun jian er mo deng shao le sheng tun di	0
+会过日子省囤尖儿莫等少了省囤底	hui guo ri zi sheng tun jian er mo deng shao le xing tun di	0
+会过日子省囤尖儿莫等少了省囤底	hui guo ri zi xing tun jian er mo deng shao le sheng tun di	0
+会说的惹人笑不会说的惹人跳	hui shuo de re ren xiao bu hui shuo de re ren tiao	0
+会说的说一句不会说的说十句	hui shuo de shuo yi ju bu hui shuo de shuo shi ju	0
+会笑的人笑到最后	hui xiao de ren xiao dao zui hou	0
+会写的坐着会唱的站着	hui xie de zuo zhe hui chang de zhan zhe	0
+会做媳妇两头瞒不会做媳妇两头传	hui zuo xi fu liang tou man bu hui zuo xi fu liang tou chuan	0
+会做媳妇两头瞒不会做媳妇两头传	hui zuo xi fu liang tou man bu hui zuo xi fu liang tou zhuan	0
+火大无湿柴功到事不难	huo da wu shi chai gong dao shi bu nan	0
+火烤胸前暖风吹背后寒	huo kao xiong qian nuan feng chui bei hou han	0
+火烧一大片水流一条线	huo shao yi da pian shui liu yi tiao xian	0
+火要空心人要虚心	huo yao kong xin ren yao xu xin	0
+火越烧越旺人越干越壮	huo yue shao yue wang ren yue gan yue zhuang	0
+货买三家不吃亏路走三遭不陌生	huo mai san jia bu chi kui lu zou san zao bu mo sheng	0
+积累知识胜过积蓄金银	ji lei zhi shi sheng guo ji xu jin yin	0
+积善三年人不知作恶一日远近闻	ji shan san nian ren bu zhi zuo e yi ri yuan jin wen	0
+积少成多积恶成祸	ji shao cheng duo ji e cheng huo	0
+挤疮不留脓免受二回痛	ji chuang bu liu nong mian shou er hui tong	0
+家常饭好吃常调官难做	jia chang fan hao chi chang tiao guan nan zuo	0
+家常饭好吃常调官难做	jia chang fan hao chi chang diao guan nan zuo	0
+家合万事兴	jia he wan shi xing	0
+家人说话耳旁风外人说话金字经	jia ren shuo hua er pang feng wai ren shuo hua jin zi jing	0
+家事国事天下事事事关心	jia shi guo shi tian xia shi shi shi guan xin	0
+家有良田万顷不如日进分文	jia you liang tian wan qing bu ru ri jin fen wen	0
+家有千口主事一人	jia you qian kou zhu shi yi ren	0
+家有一老犹如一宝	jia you yi lao you ru yi bao	0
+兼听则明偏听则暗	jian ting ze ming pian ting ze an	0
+贱钱没好货贪贱吃穷人	jian qian mei hao huo tan jian chi qiong ren	0
+见强不怕遇弱不欺	jian qiang bu pa yu ruo bu qi	0
+箭装满袋大象踩不断团结起来的力量胜过大象	jian zhuang man dai da xiang cai bu duan tuan jie qi lai de li liang sheng guo da xiang	0
+姜是老的辣醋是陈的酸	jiang shi lao de la cu shi chen de suan	0
+交人交心浇树浇根	jiao ren jiao xin jiao shu jiao gen	0
+骄傲来自浅薄狂妄出于无知	jiao ao lai zi qian bo kuang wang chu yu wu zhi	0
+脚长沾露水嘴长惹是非	jiao chang zhan lu shui zui chang re shi fei	0
+脚正不怕鞋子歪人正不怕影子斜	jiao zheng bu pa xie zi wai ren zheng bu pa ying zi xie	0
+教人教心浇花浇根	jiao ren jiao xin jiao hua jiao gen	0
+叫唤的蝈蝈没有肉	jiao huan de guo guo mei you rou	0
+解铃还须系铃人	jie ling hai xu xi ling ren	0
+戒酒戒头一盅戒烟戒头一口	jie jiu jie tou yi zhong jie yan jie tou yi kou	0
+金银财宝不算真富团结和睦才是幸福	jin yin cai bao bu suan zhen fu tuan jie he mu cai shi xing fu	0
+今日有酒今朝醉明天倒灶喝凉水	jin ri you jiu jin zhao zui ming tian dao zao he liang shui	0
+近河莫枉费水近山莫枉烧柴	jin he mo wang fei shui jin shan mo wang shao chai	0
+近山知鸟音近水知鱼性	jin shan zhi niao yin jin shui zhi yu xing	0
+近朱者赤近墨者黑	jin zhu zhe chi jin mo zhe hei	0
+尽信书不如无书	jin xin shu bu ru wu shu	0
+经常用的钥匙总是闪光的	jing chang yong de yao shi zong shi shan guang de	0
+井掏三遍吃甜水人走三省见识广	jing tao san bian chi tian shui ren zou san xing jian shi guang	0
+井越掏水越清事越摆理越明	jing yue tao shui yue qing shi yue bai li yue ming	0
+静时常思己过闲谈莫论人非	jing shi chang si ji guo xian tan mo lun ren fei	0
+静坐当思己过闲谈莫论人非	jing zuo dang si ji guo xian tan mo lun ren fei	0
+酒杯虽小淹死人	jiu bei sui xiao yan si ren	0
+救人救到底摆渡到岸边	jiu ren jiu dao di bai du dao an bian	0
+决心要成功的人已经成功了一半	jue xin yao cheng gong de ren yi jing cheng gong le yi ban	0
+君子报仇十年不晚	jun zi bao chou shi nian bu wan	0
+君子动口小人动手	jun zi dong kou xiao ren dong shou	0
+开水不响响水不开	kai shui bu xiang xiang shui bu kai	0
+开头饭好吃开头话难说	kai tou fan hao chi kai tou hua nan shuo	0
+砍柴上山捉鸟上树	kan chai shang shan zhuo niao shang shu	0
+看菜吃饭量体裁衣	kan cai chi fan liang ti cai yi	0
+看自己一朵花看别人豆腐渣	kan zi ji yi duo hua kan bie ren dou fu zha	0
+炕上有病人地上有愁人	kang shang you bing ren di shang you chou ren	0
+靠山吃山靠水吃水	kao shan chi shan kao shui chi shui	0
+刻薄不赚钱忠厚不折本	ke bo bu zhuan qian zhong hou bu she ben	0
+口说不如身到耳闻不如目赌	kou shuo bu ru shen dao er wen bu ru mu du	0
+快马不用鞭催响鼓不用重捶	kuai ma bu yong bian cui xiang gu bu yong zhong chui	0
+快马不用鞭催响鼓不用重捶	kuai ma bu yong bian cui xiang gu bu yong chong chui	0
+懒汉下地事多懒驴上套屎多	lan han xia di shi duo lan lv shang tao shi duo	0
+懒人急在嘴上勤人急在腿上	lan ren ji zai zui shang qin ren ji zai tui shang	0
+懒人用长线拙人用弯针	lan ren yong chang xian zhuo ren yong wan zhen	0
+烂麻搓成绳也能拉千斤	lan ma cuo cheng sheng ye neng la qian jin	0
+浪再高也在船底山再高也在脚底	lang zai gao ye zai chuan di shan zai gao ye zai jiao di	0
+浪子回头金不换	lang zi hui tou jin bu huan	0
+劳动出智慧实践出真知	lao dong chu zhi hui shi jian chu zhen zhi	0
+劳动会给明天带来欢乐团结会给明天带来胜利	lao dong hui gei ming tian dai lai huan le tuan jie hui gei ming tian dai lai sheng li	0
+劳动是知识的源泉知识是生活的指南	lao dong shi zhi shi de yuan quan zhi shi shi sheng huo de zhi nan	0
+老猫不在家耗子上屋爬	lao mao bu zai jia hao zi shang wu pa	0
+老实人常在脱空人常败	lao shi ren chang zai tuo kong ren chang bai	0
+冷粥冷饭好吃冷言冷语难受	leng zhou leng fan hao chi leng yan leng yu nan shou	0
+离群孤雁飞不远一个人活力气短	li qun gu yan fei bu yuan yi ge ren huo li qi duan	0
+礼多人不怪油多不坏菜	li duo ren bu guai you duo bu huai cai	0
+立如松坐如钟卧如弓行如风	li ru song zuo ru zhong wo ru gong xing ru feng	0
+立如松坐如钟卧如弓行如风	li ru song zuo ru zhong wo ru gong hang ru feng	0
+力是压大的胆是吓大的	li shi ya da de dan shi xia da de	0
+脸儿壮吃得胖	lian er zhuang chi de pang	0
+脸儿壮吃得胖	lian er zhuang chi de pan	0
+粮食补身体书籍丰富智慧	liang shi bu shen ti shu ji feng fu zhi hui	0
+良言一句三冬暖恶语伤人六月寒	liang yan yi ju san dong nuan e yu shang ren liu yue han	0
+良药苦口利于病忠言逆耳利于行	liang yao ku kou li yu bing zhong yan ni er li yu xing	0
+两个聪明人在一起商量就会生出更好的主张黄和红的两种颜色混和就会变出另一种色彩	liang ge cong ming ren zai yi qi shang liang jiu hui sheng chu geng hao de zhu zhang huang he hong de liang zhong yan se hun he jiu hui bian chu ling yi zhong se cai	0
+两个协调的力量可以分十个人的力量	liang ge xie tiao de li liang ke yi fen shi ge ren de li liang	0
+量大福大心宽屋宽	liang da fu da xin kuan wu kuan	0
+邻舍好无价宝	lin she hao wu jia bao	0
+留得青山在不怕没柴烧	liu de qing shan zai bu pa mei chai shao	0
+流水不腐户枢不蠹	liu shui bu fu hu shu bu du	0
+六月不热五谷不结	liu yue bu re wu gu bu jie	0
+龙无云不行鱼无水不生	long wu yun bu xing yu wu shui bu sheng	0
+路不平众人踩事不平大家管	lu bu ping zhong ren cai shi bu ping da jia guan	0
+路湿早脱鞋遇事早安排	lu shi zao tuo xie yu shi zao an pai	0
+路遥知马力日久见人心	lu yao zhi ma li ri jiu jian ren xin	0
+路有千条理只一条	lu you qian tiao li zhi yi tiao	0
+驴骑后马骑前骡子骑在腰中间	lv qi hou ma qi qian luo zi qi zai yao zhong jian	0
+麻雀落田要吃谷狐狸进屋要偷鸡	ma que luo tian yao chi gu hu li jin wu yao tou ji	0
+麻雀落田要吃谷狐狸进屋要偷鸡	ma que la tian yao chi gu hu li jin wu yao tou ji	0
+麻雀虽小五脏俱全	ma que sui xiao wu zang ju quan	0
+马好不在叫人美不在貌	ma hao bu zai jiao ren mei bu zai mao	0
+骂人骂脏口打人打伤手	ma ren ma zang kou da ren da shang shou	0
+骂人无好口打人无好手	ma ren wu hao kou da ren wu hao shou	0
+买瓜看皮扎针看孔	mai gua kan pi zha zhen kan kong	0
+买鸡看爪买鸭看嘴	mai ji kan zhua mai ya kan zui	0
+买锣要打买伞要撑	mai luo yao da mai san yao cheng	0
+买卖不成仁义在	mai mai bu cheng ren yi zai	0
+买卖不懂行瞎子撞南墙	mai mai bu dong hang xia zi zhuang nan qiang	0
+买时得买卖时得卖	mai shi de mai mai shi de mai	0
+买时得买卖时得卖	mai shi dei mai mai shi de mai	0
+买时得买卖时得卖	mai shi de mai mai shi dei mai	0
+卖瓜不说瓜苦卖盐不说盐淡	mai gua bu shuo gua ku mai yan bu shuo yan dan	0
+卖主怪脚买主怪鞋	mai zhu guai jiao mai zhu guai xie	0
+满招损谦受益	man zhao sun qian shou yi	0
+慢病在养急病在治	man bing zai yang ji bing zai zhi	0
+猫跟饭碗狗跟主人	mao gen fan wan gou gen zhu ren	0
+猫怕过冬狗怕过夏	mao pa guo dong gou pa guo xia	0
+毛毛雨打湿衣裳杯杯酒吃垮家当	mao mao yu da shi yi shang bei bei jiu chi kua jia dang	0
+茂盛的禾苗需要水分成长的少年需要学习	mao sheng de he miao xu yao shui fen cheng zhang de shao nian xu yao xue xi	0
+没钱时挨饿有钱时摆阔	mei qian shi ai e you qian shi bai kuo	0
+没有不上钩的鱼没有不上竿的猴	mei you bu shang gou de yu mei you bu shang gan de hou	0
+没有大粪臭哪来五谷香	mei you da fen xiu na lai wu gu xiang	0
+美不美家乡水亲不亲故乡人	mei bu mei jia xiang shui qin bu qin gu xiang ren	0
+蜜多不甜油多不香	mi duo bu tian you duo bu xiang	0
+苗多欺草草多欺苗	miao duo qi cao cao duo qi miao	0
+苗好一半谷妻好一半福	miao hao yi ban gu qi hao yi ban fu	0
+明枪好躲暗箭难防	ming qiang hao duo an jian nan fang	0
+明人不做暗事真人不说假话	ming ren bu zuo an shi zhen ren bu shuo jia hua	0
+磨刀不误砍柴功	mo dao bu wu kan chai gong	0
+磨刀不用看全仗一身汗	mo dao bu yong kan quan zhang yi shen han	0
+莫馋人富莫嫌人穷	mo chan ren fu mo xian ren qiong	0
+莫吃过头饭莫说过头话	mo chi guo tou fan mo shuo guo tou hua	0
+莫看强盗吃肉要看强盗受罚	mo kan qiang dao chi rou yao kan qiang dao shou fa	0
+莫学灯笼千只眼要学蜡烛一条心	mo xue deng long qian zhi yan yao xue la zhu yi tiao xin	0
+谋官如鼠得官如虎	mou guan ru shu de guan ru hu	0
+谋官如鼠得官如虎	mou guan ru shu dei guan ru hu	0
+母大儿肥种好苗壮	mu da er fei zhong hao miao zhuang	0
+南方吃雁北方吃蛋	nan fang chi yan bei fang chi dan	0
+南甜北咸东辣西酸	nan tian bei xian dong la xi suan	0
+男大当婚女大当嫁	nan da dang hun nv da dang jia	0
+男怕入错行女怕嫁错郎	nan pa ru cuo hang nv pa jia cuo lang	0
+男要俏一身皂女要俏三分孝	nan yao qiao yi shen zao nv yao qiao san fen xiao	0
+内行看门道外行看热闹	nei hang kan men dao wai hang kan re nao	0
+能吃甜桃一口不吃烂杏筐	neng chi tian tao yi kou bu chi lan xing kuang	0
+你敬人一尺人敬你一丈	ni jing ren yi chi ren jing ni yi zhang	0
+逆水行舟不进则退	ni shui xing zhou bu jin ze tui	0
+年纪不饶人节令不饶天	nian ji bu rao ren jie ling bu rao tian	0
+念书不用功等于白搭工	nian shu bu yong gong deng yu bai da gong	0
+娘家的饭香婆家的饭长	niang jia de fan xiang po jia de fan zhang	0
+娘家的饭香婆家的饭长	niang jia de fan xiang po jia de fan chang	0
+鸟贵有翼人贵有志	niao gui you yi ren gui you zhi	0
+鸟美在羽毛人美在勤劳	niao mei zai yu mao ren mei zai qin lao	0
+鸟美在羽毛人美在心灵	niao mei zai yu mao ren mei zai xin ling	0
+鸟无翅不飞鱼无水不游	niao wu chi bu fei yu wu shui bu you	0
+宁吃半餐不吃断餐	ning chi ban can bu chi duan can	0
+宁吃飞禽四俩不吃走兽半斤	ning chi fei qin si lia bu chi zou shou ban jin	0
+宁吃飞禽四俩不吃走兽半斤	ning chi fei qin si liang bu chi zou shou ban jin	0
+宁给好汉拉马不给懒汉作爷	ning gei hao han la ma bu gei lan han zuo ye	0
+宁叫顿顿稀不叫一顿饥	ning jiao dun dun xi bu jiao yi dun ji	0
+宁叫嘴受穷不叫病缠身	ning jiao zui shou qiong bu jiao bing chan shen	0
+宁可锅里放坏不可肚里硬塞	ning ke guo li fang huai bu ke du li ying sai	0
+宁可认错不可说谎	ning ke ren cuo bu ke shuo huang	0
+宁可正而不足不可邪而有余	ning ke zheng er bu zu bu ke xie er you yu	0
+宁可种上丢莫望不种收	ning ke zhong shang diu mo wang bu zhong shou	0
+宁可做过不可错过	ning ke zuo guo bu ke cuo guo	0
+宁苦干不苦熬	ning ku gan bu ku ao	0
+宁舍一锭金不舍一年春	ning she yi ding jin bu she yi nian chun	0
+宁添一斗莫添一口	ning tian yi dou mo tian yi kou	0
+宁在锅里争不在碗里争	ning zai guo li zheng bu zai wan li zheng	0
+宁走封江一指不走开江一尺	ning zou feng jiang yi zhi bu zou kai jiang yi chi	0
+宁走十步远不走一步险	ning zou shi bu yuan bu zou yi bu xian	0
+宁做蚂蚁腿不学麻雀嘴	ning zuo ma yi tui bu xue ma que zui	0
+牛不知角弯马不知脸长	niu bu zhi jiao wan ma bu zhi lian chang	0
+牛不知角弯马不知脸长	niu bu zhi jue wan ma bu zhi lian chang	0
+牛能拉犁狗能看家	niu neng la li gou neng kan jia	0
+牛要脚圆猪要脚粗	niu yao jiao yuan zhu yao jiao cu	0
+爬山越岭要互助渡江过河要齐心	pa shan yue ling yao hu zhu du jiang guo he yao qi xin	0
+抛弃时间的人时间也抛弃他	pao qi shi jian de ren shi jian ye pao qi ta	0
+朋友千个少冤家一个多	peng you qian ge shao yuan jia yi ge duo	0
+皮之不存毛将焉附	pi zhi bu cun mao jiang yan fu	0
+品行是一个人的内在名誉是一个人的外貌	pin xing shi yi ge ren de nei zai ming yu shi yi ge ren de wai mao	0
+平路跌死马浅水溺死人	ping lu die si ma qian shui ni si ren	0
+欺人是祸饶人是福	qi ren shi huo rao ren shi fu	0
+欺山莫欺水欺人莫欺心	qi shan mo qi shui qi ren mo qi xin	0
+妻贤夫祸少子孝父心宽	qi xian fu huo shao zi xiao fu xin kuan	0
+棋错一着满盘皆输	qi cuo yi zhao man pan jie shu	0
+齐心的蚂蚁吃角鹿合心的喜鹊捉老虎	qi xin de ma yi chi jiao lu he xin de xi que zhuo lao hu	0
+齐心的蚂蚁吃角鹿合心的喜鹊捉老虎	qi xin de ma yi chi jue lu he xin de xi que zhuo lao hu	0
+千补万补不如饭补	qian bu wan bu bu ru fan bu	0
+千方易得一效难求	qian fang yi de yi xiao nan qiu	0
+千里不捎针万里没轻担	qian li bu shao zhen wan li mei qing dan	0
+千里之堤溃于蚁穴	qian li zhi di kui yu yi xue	0
+千里之行始于足下	qian li zhi xing shi yu zu xia	0
+千人千脾气万人万模样	qian ren qian pi qi wan ren wan mu yang	0
+谦虚的人学十当一骄傲的人学一当十	qian xu de ren xue shi dang yi jiao ao de ren xue yi dang shi	0
+前三十年睡不醒后三十年睡不着	qian san shi nian shui bu xing hou san shi nian shui bu zhao	0
+前三十年睡不醒后三十年睡不着	qian san shi nian shui bu xing hou san shi nian shui bu zhe	0
+强扭的瓜果不甜	qiang niu de gua guo bu tian	0
+强中更有强中手能人背后有能人	qiang zhong geng you qiang zhong shou neng ren bei hou you neng ren	0
+巧言不如直道明人不必细说	qiao yan bu ru zhi dao ming ren bu bi xi shuo	0
+亲不过父母近不过夫妻	qin bu guo fu mu jin bu guo fu qi	0
+秦岭山脉一条线南吃大米北吃面	qin ling shan mai yi tiao xian nan chi da mi bei chi mian	0
+勤快人动手懒惰人动口	qin kuai ren dong shou lan duo ren dong kou	0
+勤能补拙	qin neng bu zhuo	0
+勤是摇钱树俭是聚宝盆	qin shi yao qian shu jian shi ju bao pen	0
+擒龙要下海打虎要上山	qin long yao xia hai da hu yao shang shan	0
+擒贼先擒王	qin zei xian qin wang	0
+清官难断家务事	qing guan nan duan jia wu shi	0
+清明忙种麦谷雨种大田	qing ming mang zhong mai gu yu zhong da tian	0
+情人眼里出西施	qing ren yan li chu xi shi	0
+穷家难舍熟地难离	qiong jia nan she shu di nan li	0
+圈里养猪宅旁栽树不小几年由穷变富	quan li yang zhu zhai pang zai shu bu xiao ji nian you qiong bian fu	0
+全是生姜不辣全是花椒不麻	quan shi sheng jiang bu la quan shi hua jiao bu ma	0
+拳不离手曲不离口	quan bu li shou qu bu li kou	0
+人爱富的狗咬穷的	ren ai fu de gou yao qiong de	0
+人不得外财不富马不吃夜草不肥	ren bu de wai cai bu fu ma bu chi ye cao bu fei	0
+人不可貌相海水不可斗量	ren bu ke mao xiang hai shui bu ke dou liang	0
+人不亏地皮地不亏肚皮	ren bu kui di pi di bu kui du pi	0
+人不亏地皮地不亏肚皮	ren bu kui di pi de bu kui du pi	0
+人不缺地的工地不缺人的粮	ren bu que di de gong di bu que ren de liang	0
+人不在大小马不在高低	ren bu zai da xiao ma bu zai gao di	0
+人到四十五正是出山虎	ren dao si shi wu zheng shi chu shan hu	0
+人多出韩信智多出孔明	ren duo chu han xin zhi duo chu kong ming	0
+人多出正理谷多出好米	ren duo chu zheng li gu duo chu hao mi	0
+人多没好饭猪多没好食	ren duo mei hao fan zhu duo mei hao shi	0
+人多瞎胡乱鸡多不下蛋	ren duo xia hu luan ji duo bu xia dan	0
+人多智谋广柴多火焰高	ren duo zhi mou guang chai duo huo yan gao	0
+人各有能有不能	ren ge you neng you bu neng	0
+人各有心物各有主	ren ge you xin wu ge you zhu	0
+人合心马合套	ren he xin ma he tao	0
+人哄地皮地哄肚皮	ren hong di pi di hong du pi	0
+人哄地皮地哄肚皮	ren hong di pi de hong du pi	0
+人活七十稀请教不为低	ren huo qi shi xi qing jiao bu wei di	0
+人急投亲鸟急投林	ren ji tou qin niao ji tou lin	0
+人家夸一朵花自己夸人笑话	ren jia kua yi duo hua zi ji kua ren xiao hua	0
+人敬我一尺我敬人一丈	ren jing wo yi chi wo jing ren yi zhang	0
+人敬有的狗咬丑的	ren jing you de gou yao chou de	0
+人老眼昏鹰老爪钝	ren lao yan hun ying lao zhua dun	0
+人怕饿地怕荒	ren pa e di pa huang	0
+人怕饿地怕荒	ren pa e de pa huang	0
+人怕话多活怕人做	ren pa hua duo huo pa ren zuo	0
+人怕没脸树怕没皮	ren pa mei lian shu pa mei pi	0
+人怕伤心树怕剥皮	ren pa shang xin shu pa bao pi	0
+人怕信心齐虎怕成群	ren pa xin xin qi hu pa cheng qun	0
+人强人欺病人弱病欺人	ren qiang ren qi bing ren ruo bing qi ren	0
+人勤病就懒人懒病就勤	ren qin bing jiu lan ren lan bing jiu qin	0
+人勤地长苗人懒地长草	ren qin di chang miao ren lan di zhang cao	0
+人勤地长苗人懒地长草	ren qin di chang miao ren lan de zhang cao	0
+人勤地长苗人懒地长草	ren qin de chang miao ren lan di zhang cao	0
+人生一世草生一秋	ren sheng yi shi cao sheng yi qiu	0
+人是实的好姜是老的辣	ren shi shi de hao jiang shi lao de la	0
+人是铁饭是钢地里缺肥庄稼荒	ren shi tie fan shi gang di li que fei zhuang jia huang	0
+人是铁饭是钢三日不吃饿得慌	ren shi tie fan shi gang san ri bu chi e de huang	0
+人是铁饭是钢一顿不吃饿的慌	ren shi tie fan shi gang yi dun bu chi e de huang	0
+人瘦脸皮黄地瘦少打粮	ren shou lian pi huang di shou shao da liang	0
+人瘦脸皮黄地瘦少打粮	ren shou lian pi huang de shou shao da liang	0
+人投人鸟投林	ren tou ren niao tou lin	0
+人往高处走水往低处流	ren wang gao chu zou shui wang di chu liu	0
+人微言轻	ren wei yan qing	0
+人无笑脸休开店会打圆场自落台	ren wu xiao lian xiu kai dian hui da yuan chang zi luo tai	0
+人无笑脸休开店会打圆场自落台	ren wu xiao lian xiu kai dian hui da yuan chang zi la tai	0
+人无远虑必有近忧	ren wu yuan lv bi you jin you	0
+人误地一时地误人一年	ren wu di yi shi de wu ren yi nian	0
+人误地一时地误人一年	ren wu de yi shi de wu ren yi nian	0
+人心换人心八两换半斤	ren xin huan ren xin ba liang huan ban jin	0
+人心齐泰山移	ren xin qi tai shan yi	0
+人要实心火要空心	ren yao shi xin huo yao kong xin	0
+人有人言兽有兽语	ren you ren yan shou you shou yu	0
+人有失手马有失蹄	ren you shi shou ma you shi ti	0
+人越嬉越懒嘴越吃越馋	ren yue xi yue lan zui yue chi yue chan	0
+人在福中不知福船在水中不知流	ren zai fu zhong bu zhi fu chuan zai shui zhong bu zhi liu	0
+人在世上炼刀在石上磨	ren zai shi shang lian dao zai shi shang mo	0
+人争一口气佛争一炷香	ren zheng yi kou qi fo zheng yi zhu xiang	0
+人争一口气佛争一炷香	ren zheng yi kou qi fu zheng yi zhu xiang	0
+人中有吕布马中有赤兔	ren zhong you lv bu ma zhong you chi tu	0
+日长事多夜长梦多	ri zhang shi duo ye chang meng duo	0
+日里不做亏心事半夜敲门心不惊	ri li bu zuo kui xin shi ban ye qiao men xin bu jing	0
+日里闲游夜里熬油	ri li xian you ye li ao you	0
+日日行不怕千万里常常做不怕千万事	ri ri xing bu pa qian wan li chang chang zuo bu pa qian wan shi	0
+日日行不怕千万里常常做不怕千万事	ri ri hang bu pa qian wan li chang chang zuo bu pa qian wan shi	0
+日图三餐夜图一宿	ri tu san can ye tu yi xiu	0
+若要不怕人莫做怕人事	ruo yao bu pa ren mo zuo pa ren shi	0
+若要断酒法醒眼看醉人	ruo yao duan jiu fa xing yan kan zui ren	0
+若要好大让小	ruo yao hao da rang xiao	0
+若要好问三老	ruo yao hao wen san lao	0
+若要健天天练	ruo yao jian tian tian lian	0
+若要人不知除非己莫为	ruo yao ren bu zhi chu fei ji mo wei	0
+若要人下水自己先脱衣	ruo yao ren xia shui zi ji xian tuo yi	0
+若要身体壮饭菜嚼成浆	ruo yao shen ti zhuang fan cai jiao cheng jiang	0
+若要身体壮饭菜嚼成浆	ruo yao shen ti zhuang fan cai jue cheng jiang	0
+撒网要撒迎头网开船要开顶风船	sa wang yao sa ying tou wang kai chuan yao kai ding feng chuan	0
+三百六十行行行出状元	san bai liu shi hang hang hang chu zhuang yuan	0
+三分吃药七分调理	san fen chi yao qi fen tiao li	0
+三分靠教七分靠学	san fen kao jiao qi fen kao xue	0
+三分种七分管	san fen zhong qi fen guan	0
+三个臭皮匠胜过诸葛亮	san ge chou pi jiang sheng guo zhu ge liang	0
+三里不同乡五里不同俗	san li bu tong xiang wu li bu tong su	0
+三年不喝酒家里样样有	san nian bu he jiu jia li yang yang you	0
+三年不上门当亲也不亲	san nian bu shang men dang qin ye bu qin	0
+三年清知府十万雪花银	san nian qing zhi fu shi wan xue hua yin	0
+三人省力四人更轻松众人团结紧百事能成功	san ren sheng li si ren geng qing song zhong ren tuan jie jin bai shi neng cheng gong	0
+三人四靠倒了锅灶	san ren si kao dao le guo zao	0
+三人同心黄土变金	san ren tong xin huang tu bian jin	0
+三人同行必有我师	san ren tong hang bi you wo shi	0
+三人同行必有我师	san ren tong xing bi you wo shi	0
+三早抵一工三补抵一新	san zao di yi gong san bu di yi xin	0
+砂锅不捣不漏木头不凿不通	sha guo bu dao bu lou mu tou bu zao bu tong	0
+砂锅子不订一辈子不漏	sha guo zi bu ding yi bei zi bu lou	0
+山大无柴树大空心	shan da wu chai shu da kong xin	0
+山大压不住泉水牛大压不死虱子	shan da ya bu zhu quan shui niu da ya bu si shi zi	0
+山高树高井深水凉	shan gao shu gao jing shen shui liang	0
+山里孩子不怕狼城里孩子不怕官	shan li hai zi bu pa lang cheng li hai zi bu pa guan	0
+山外有山天外有天	shan wai you shan tian wai you tian	0
+山有高低水有深浅	shan you gao di shui you shen qian	0
+山中无老虎猴子称大王	shan zhong wu lao hu hou zi cheng da wang	0
+闪光的不全是金子	shan guang de bu quan shi jin zi	0
+善恶不同途冰炭不同炉	shan e bu tong tu bing tan bu tong lu	0
+善恶随人作祸福自己招	shan e sui ren zuo huo fu zi ji zhao	0
+上顿不吃饱下顿省不了	shang dun bu chi bao xia dun sheng bu liao	0
+烧的香多惹的鬼多	shao de xiang duo re de gui duo	0
+少不惜力老不歇心	shao bu xi li lao bu xie xin	0
+少吃多滋味多吃坏肠胃	shao chi duo zi wei duo chi huai chang wei	0
+少壮不努力老大徒伤悲	shao zhuang bu nu li lao da tu shang bei	0
+奢者富不足俭者贫有余	she zhe fu bu zu jian zhe pin you yu	0
+舍不得苗抱不到瓢	she bu de miao bao bu dao piao	0
+射人先射马擒贼先擒王	she ren xian she ma qin zei xian qin wang	0
+身不怕动脑不怕用	shen bu pa dong nao bu pa yong	0
+生气是拿别人的错误惩罚自己	sheng qi shi na bie ren de cuo wu cheng fa zi ji	0
+绳锯木断水滴石穿	sheng ju mu duan shui di shi chuan	0
+省吃餐餐有省穿日日新	sheng chi can can you sheng chuan ri ri xin	0
+省吃餐餐有省穿日日新	sheng chi can can you xing chuan ri ri xin	0
+师傅领进门修行在个人	shi fu ling jin men xiu xing zai ge ren	0
+失败是成功之母	shi bai shi cheng gong zhi mu	0
+失之毫厘谬以千里	shi zhi hao li miu yi qian li	0
+虱多不痒债多不愁	shi duo bu yang zhai duo bu chou	0
+十帮一易一帮十难	shi bang yi yi yi bang shi nan	0
+十个梅子九个酸十个官儿九个贪	shi ge mei zi jiu ge suan shi ge guan er jiu ge tan	0
+十个钱要花一个钱要省	shi ge qian yao hua yi ge qian yao sheng	0
+十里认人百里认衣	shi li ren ren bai li ren yi	0
+十年寒窗无人问一举成名天下知	shi nian han chuang wu ren wen yi ju cheng ming tian xia zhi	0
+十年树木百年树人	shi nian shu mu bai nian shu ren	0
+十年栽树百年歇凉	shi nian zai shu bai nian xie liang	0
+什么藤结什么瓜什么树开什么花	shen me teng jie shen me gua shen me shu kai shen me hua	0
+食鱼要肥食肉要瘦	shi yu yao fei shi rou yao shou	0
+食在广州住在苏州	shi zai guang zhou zhu zai su zhou	0
+世界上三种东西最宝贵知识粮食和友谊	shi jie shang san zhong dong xi zui bao gui zhi shi liang shi he you yi	0
+世上无难事只怕有心人	shi shang wu nan shi zhi pa you xin ren	0
+事成于和睦力生于团结	shi cheng yu he mu li sheng yu tuan jie	0
+事大事小身到便了	shi da shi xiao shen dao bian le	0
+事大事小身到便了	shi da shi xiao shen dao bian liao	0
+事莫做绝话莫说尽	shi mo zuo jue hua mo shuo jin	0
+事怕合计人怕客气	shi pa he ji ren pa ke qi	0
+是草有根是话有因	shi cao you gen shi hua you yin	0
+是饭充饥是衣遮体	shi fan chong ji shi yi zhe ti	0
+是好说不坏是坏说不好	shi hao shuo bu huai shi huai shuo bu hao	0
+是金子总会闪光的	shi jin zi zong hui shan guang de	0
+手大难遮天水大不漫桥	shou da nan zhe tian shui da bu man qiao	0
+手怕不动脑怕不用	shou pa bu dong nao pa bu yong	0
+手舞足蹈九十不老	shou wu zu dao jiu shi bu lao	0
+书籍备而不读如废纸	shu ji bei er bu du ru fei zhi	0
+熟能生巧巧能生精	shu neng sheng qiao qiao neng sheng jing	0
+树不修长不直人不学没知识	shu bu xiu chang bu zhi ren bu xue mei zhi shi	0
+树怕剥皮人怕护短	shu pa bao pi ren pa hu duan	0
+双手是活宝一世用不了	shuang shou shi huo bao yi shi yong bu liao	0
+水大漫不过船手大遮不住天	shui da man bu guo chuan shou da zhe bu zhu tian	0
+水大湿不了船火大烧不了锅	shui da shi bu le chuan huo da shao bu le guo	0
+水大湿不了船火大烧不了锅	shui da shi bu le chuan huo da shao bu liao guo	0
+水大湿不了船火大烧不了锅	shui da shi bu liao chuan huo da shao bu le guo	0
+水大湿不了船火大烧不了锅	shui da shi bu liao chuan huo da shao bu liao guo	0
+水滴石穿坐食山空	shui di shi chuan zuo shi shan kong	0
+水满自流人满自夸	shui man zi liu ren man zi kua	0
+水能载舟亦能覆舟	shui neng zai zhou yi neng fu zhou	0
+水深流势慢智人话语迟	shui shen liu shi man zhi ren hua yu chi	0
+水停百日生虫人闲百日生病	shui ting bai ri sheng chong ren xian bai ri sheng bing	0
+水涨船高风大树摇	shui zhang chuan gao feng da shu yao	0
+水至清则无鱼人至察则无徒	shui zhi qing ze wu yu ren zhi cha ze wu tu	0
+睡着的人好喊装睡的人难喊	shui zhao de ren hao han zhuang shui de ren nan han	0
+顺的好吃横的难咽	shun de hao chi heng de nan yan	0
+顺藤摸瓜顺水求源	shun teng mo gua shun shui qiu yuan	0
+顺着鸡毛找鸡顺着蒜皮找蒜	shun zhe ji mao zhao ji shun zhe suan pi zhao suan	0
+说归说笑归笑动手动脚没家教	shuo gui shuo xiao gui xiao dong shou dong jiao mei jia jiao	0
+说人别说短打人别打脸	shuo ren bie shuo duan da ren bie da lian	0
+说书的嘴快演戏的腿快	shuo shu de zui kuai yan xi de tui kuai	0
+送君千里终须一别	song jun qian li zhong xu yi bie	0
+它山之石可以攻玉	ta shan zhi shi ke yi gong yu	0
+贪别人个花误自己个家	tan bie ren ge hua wu zi ji ge jia	0
+贪得一时嘴受了一身累	tan de yi shi zui shou le yi shen lei	0
+贪小失大惜指失掌	tan xiao shi da xi zhi shi zhang	0
+讨饭怕狗咬秀才怕岁考	tao fan pa gou yao xiu cai pa sui kao	0
+天不生无用之人地不长无名之草	tian bu sheng wu yong zhi ren di bu chang wu ming zhi cao	0
+天不生无用之人地不长无名之草	tian bu sheng wu yong zhi ren di bu zhang wu ming zhi cao	0
+天不生无用之人地不长无名之草	tian bu sheng wu yong zhi ren de bu chang wu ming zhi cao	0
+天不生无用之人地不长无名之草	tian bu sheng wu yong zhi ren de bu zhang wu ming zhi cao	0
+天不严寒地不冻人不伤心泪不流	tian bu yan han di bu dong ren bu shang xin lei bu liu	0
+天不严寒地不冻人不伤心泪不流	tian bu yan han de bu dong ren bu shang xin lei bu liu	0
+天不言自高地不语自厚	tian bu yan zi gao di bu yu zi hou	0
+天不言自高地不语自厚	tian bu yan zi gao de bu yu zi hou	0
+天才和懒惰结伴等于一事无成	tian cai he lan duo jie ban deng yu yi shi wu cheng	0
+天好的刀创药不如不刺着	tian hao de dao chuang yao bu ru bu ci zhe	0
+天冷不冻织女手荒年不饿勤耕人	tian leng bu dong zhi nv shou huang nian bu e qin geng ren	0
+天时不如地利地利不如人和	tian shi bu ru di li di li bu ru ren he	0
+天无二日人无二理	tian wu er ri ren wu er li	0
+天无一月雨人无一世穷	tian wu yi yue yu ren wu yi shi qiong	0
+天下无难事只怕有心人	tian xia wu nan shi zhi pa you xin ren	0
+天下衙门朝南开有理无钱莫经来	tian xia ya men chao nan kai you li wu qian mo jing lai	0
+天有不测风云人有旦夕祸福	tian you bu ce feng yun ren you dan xi huo fu	0
+条条道路通罗马	tiao tiao dao lu tong luo ma	0
+铁冷了打不得话冷了说不得	tie leng le da bu de hua leng le shuo bu de	0
+听话听音看人看心	ting hua ting yin kan ren kan xin	0
+听人劝吃饱饭识人教武艺高	ting ren quan chi bao fan shi ren jiao wu yi gao	0
+土中生白玉地内出黄金	tu zhong sheng bai yu di nei chu huang jin	0
+土中生白玉地内出黄金	tu zhong sheng bai yu de nei chu huang jin	0
+团结的可贵在敌人面前才会深知	tuan jie de ke gui zai di ren mian qian cai hui shen zhi	0
+团结一条心黄土变成金	tuan jie yi tiao xin huang tu bian cheng jin	0
+外举不避仇内举不避亲	wai ju bu bi chou nei ju bu bi qin	0
+玩物丧志	wan wu sang zhi	0
+忘掉今天的人将被明天忘掉	wang diao jin tian de ren jiang bei ming tian wang diao	0
+未饱先止已饥方食	wei bao xian zhi yi ji fang shi	0
+未晚先投宿鸡鸣早看天	wei wan xian tou su ji ming zao kan tian	0
+喂牛得犁喂马得骑	wei niu de li wei ma de qi	0
+喂牛得犁喂马得骑	wei niu dei li wei ma de qi	0
+喂牛得犁喂马得骑	wei niu de li wei ma dei qi	0
+文官动动嘴武官跑断腿	wen guan dong dong zui wu guan pao duan tui	0
+文戏靠嘴武戏靠腿	wen xi kao zui wu xi kao tui	0
+屋里不烧火屋外不冒烟	wu li bu shao huo wu wai bu mao yan	0
+无风不起浪无鱼水不深	wu feng bu qi lang wu yu shui bu shen	0
+无巧不成书	wu qiao bu cheng shu	0
+无事田中走谷米长几斗	wu shi tian zhong zou gu mi zhang ji dou	0
+无事田中走谷米长几斗	wu shi tian zhong zou gu mi chang ji dou	0
+无事嫌夜长有事嫌日短	wu shi xian ye chang you shi xian ri duan	0
+无梭难织布无针难绣花	wu suo nan zhi bu wu zhen nan xiu hua	0
+无油无盐吃死不甜	wu you wu yan chi si bu tian	0
+武官会杀文官会刮	wu guan hui sha wen guan hui gua	0
+物离乡贵人离乡贱	wu li xiang gui ren li xiang jian	0
+物以类聚人以群分	wu yi lei ju ren yi qun fen	0
+勿贪意外之财勿饮过量之酒	wu tan yi wai zhi cai wu yin guo liang zhi jiu	0
+吸不张口呼不闭口	xi bu zhang kou hu bu bi kou	0
+细水长流成河粒米积蓄成箩	xi shui chang liu cheng he li mi ji xu cheng luo	0
+细水长流吃穿不愁	xi shui chang liu chi chuan bu chou	0
+夏吃大蒜冬吃姜不用医生开药方	xia chi da suan dong chi jiang bu yong yi sheng kai yao fang	0
+夏走十里不黑冬走十里不亮	xia zou shi li bu hei dong zou shi li bu liang	0
+先钉桩子后系驴先撒窝子后钓鱼	xian ding zhuang zi hou xi lv xian sa wo zi hou diao yu	0
+先胖不会胖后胖压塌床	xian pang bu hui pang hou pang ya ta chuang	0
+先胖不会胖后胖压塌床	xian pang bu hui pang hou pan ya ta chuang	0
+先睡心后睡眼	xian shui xin hou shui yan	0
+闲人叫冷忙人叫热	xian ren jiao leng mang ren jiao re	0
+小病不治大病难医	xiao bing bu zhi da bing nan yi	0
+小洞不补大洞叫苦	xiao dong bu bu da dong jiao ku	0
+小鬼跌金刚小鼠断大绳	xiao gui die jin gang xiao shu duan da sheng	0
+小人记仇君子感恩	xiao ren ji chou jun zi gan en	0
+小人自大小溪声大	xiao ren zi da xiao xi sheng da	0
+小伤风三日大伤风七天	xiao shang feng san ri da shang feng qi tian	0
+小时偷针大了偷金	xiao shi tou zhen da le tou jin	0
+歇肩莫歇长走路莫走忙	xie jian mo xie zhang zou lu mo zou mang	0
+歇肩莫歇长走路莫走忙	xie jian mo xie chang zou lu mo zou mang	0
+泻药轻煎补药浓熬	xie yao qing jian bu yao nong ao	0
+新三年旧三年缝缝补补又三年	xin san nian jiu san nian feng feng bu bu you san nian	0
+心要常操身要长劳	xin yao chang cao shen yao chang lao	0
+信了肚卖了屋	xin le du mai le wu	0
+星星使天空绚烂夺目知识使人增长才干	xing xing shi tian kong xuan lan duo mu zhi shi shi ren zeng zhang cai gan	0
+星星使天空绚烂夺目知识使人增长才干	xing xing shi tian kong xuan lan duo mu zhi shi shi ren zeng chang cai gan	0
+行百里者半于九十	xing bai li zhe ban yu jiu shi	0
+行船趁顺风打铁趁火红	xing chuan chen shun feng da tie chen huo hong	0
+行船靠舵赶车靠鞭	xing chuan kao duo gan che kao bian	0
+行要好伴居要好邻	xing yao hao ban ju yao hao lin	0
+行要好伴居要好邻	hang yao hao ban ju yao hao lin	0
+修剪的树木生长得又直又高齐心的人们团结得又牢又固	xiu jian de shu mu sheng zhang de you zhi you gao qi xin de ren men tuan jie de you lao you gu	0
+修剪的树木生长得又直又高齐心的人们团结得又牢又固	xiu jian de shu mu sheng zhang dei you zhi you gao qi xin de ren men tuan jie de you lao you gu	0
+修剪的树木生长得又直又高齐心的人们团结得又牢又固	xiu jian de shu mu sheng zhang de you zhi you gao qi xin de ren men tuan jie dei you lao you gu	0
+秀才饿死不卖书壮士穷途不卖剑	xiu cai e si bu mai shu zhuang shi qiong tu bu mai jian	0
+秀才谋反三年不成	xiu cai mou fan san nian bu cheng	0
+秀才遇到兵有理说不清	xiu cai yu dao bing you li shuo bu qing	0
+虚心的人学十当一骄傲的人学一当十	xu xin de ren xue shi dang yi jiao ao de ren xue yi dang shi	0
+学而不厌诲人不倦	xue er bu yan hui ren bu juan	0
+学好千日不足学坏一日有余	xue hao qian ri bu zu xue huai yi ri you yu	0
+学好三年学坏三天	xue hao san nian xue huai san tian	0
+学问勤中得富裕俭中来	xue wen qin zhong de fu yu jian zhong lai	0
+牙不剔不稀耳不挖不聋	ya bu ti bu xi er bu wa bu long	0
+言者无罪闻者足戒	yan zhe wu zui wen zhe zu jie	0
+掩饰一个缺点又暴露了另一个缺点	yan shi yi ge que dian you bao lu le ling yi ge que dian	0
+眼不见差一半	yan bu jian cha yi ban	0
+眼见为实耳听为虚	yan jian wei shi er ting wei xu	0
+眼是孬汉手是好汉	yan shi nao han shou shi hao han	0
+杨柳发青百病皆生	yang liu fa qing bai bing jie sheng	0
+痒要自己抓好要别人夸	yang yao zi ji zhua hao yao bie ren kua	0
+养兔养羊本短利长	yang tu yang yang ben duan li zhang	0
+养兔养羊本短利长	yang tu yang yang ben duan li chang	0
+药不治假病酒不解真愁	yao bu zhi jia bing jiu bu jie zhen chou	0
+药对方一口汤不对方一水缸	yao dui fang yi kou tang bu dui fang yi shui gang	0
+要捕鱼先织网要搭桥先打桩	yao bu yu xian zhi wang yao da qiao xian da zhuang	0
+要打当面鼓不敲背后锣	yao da dang mian gu bu qiao bei hou luo	0
+要得惊人艺须下苦功夫	yao de jing ren yi xu xia ku gong fu	0
+要想长寿先戒烟酒	yao xiang chang shou xian jie yan jiu	0
+要想方便自己必先方便别人	yao xiang fang bian zi ji bi xian fang bian bie ren	0
+要想人尊敬必先尊敬人	yao xiang ren zun jing bi xian zun jing ren	0
+要知山中事须问打柴人	yao zhi shan zhong shi xu wen da chai ren	0
+要知下山路须问过来人	yao zhi xia shan lu xu wen guo lai ren	0
+业精于勤荒于嬉形成于思毁于随	ye jing yu qin huang yu xi xing cheng yu sai hui yu sui	0
+夜夜防贼年年防歉	ye ye fang zei nian nian fang qian	0
+一饱为足十饱伤人	yi bao wei zu shi bao shang ren	0
+一笔画不成龙一锹挖不出井	yi bi hua bu cheng long yi qiao wa bu chu jing	0
+一草示水流	yi cao shi shui liu	0
+一寸光阴一寸金寸金难买寸光阴	yi cun guang yin yi cun jin cun jin nan mai cun guang yin	0
+一顿吃伤十顿吃汤	yi dun chi shang shi dun chi tang	0
+一顿省一口一年省一斗	yi dun sheng yi kou yi nian sheng yi dou	0
+一顿省一口一年省一斗	yi dun xing yi kou yi nian sheng yi dou	0
+一顿省一口一年省一斗	yi dun sheng yi kou yi nian xing yi dou	0
+一分钱一分货十分钱买不错	yi fen qian yi fen huo shi fen qian mai bu cuo	0
+一个篱笆三个桩一个好汉三个帮	yi ge li ba san ge zhuang yi ge hao han san ge bang	0
+一个朋友一条路一个冤家一堵墙	yi ge peng you yi tiao lu yi ge yuan jia yi du qiang	0
+一个巧皮匠没有好鞋样两个笨皮匠彼此有商量	yi ge qiao pi jiang mei you hao xie yang liang ge ben pi jiang bi ci you shang liang	0
+一个人的智慧不够用两个人的智慧用不完	yi ge ren de zhi hui bu gou yong liang ge ren de zhi hui yong bu wan	0
+一壶难装两样酒一树难开两样花	yi hu nan zhuang liang yang jiu yi shu nan kai liang yang hua	0
+一回经蛇咬三年怕草绳	yi hui jing she yao san nian pa cao sheng	0
+一家不知一家和尚不知道家	yi jia bu zhi yi jia he shang bu zhi dao jia	0
+一家养女百家求一马不行百马忧	yi jia yang nv bai jia qiu yi ma bu xing bai ma you	0
+一马不配两鞍一脚难踏两船	yi ma bu pei liang an yi jiao nan ta liang chuan	0
+一年计在春丰收贵在勤	yi nian ji zai chun feng shou gui zai qin	0
+一年之计在于春一生之计在于勤	yi nian zhi ji zai yu chun yi sheng zhi ji zai yu qin	0
+一人传虚百人传实	yi ren chuan xu bai ren chuan shi	0
+一人传虚百人传实	yi ren chuan xu bai ren zhuan shi	0
+一日不读口生一日不写手生	yi ri bu du kou sheng yi ri bu xie shou sheng	0
+一日练一日功一日不练十日空	yi ri lian yi ri gong yi ri bu lian shi ri kong	0
+一日三笑不用吃药	yi ri san xiao bu yong chi yao	0
+一天省下一两粮十年要用仓来装	yi tian sheng xia yi liang liang shi nian yao yong cang lai zhuang	0
+一天省一把十年买匹马	yi tian sheng yi ba shi nian mai pi ma	0
+一天省一把十年买匹马	yi tian xing yi ba shi nian mai pi ma	0
+一天一根线十年积成缎	yi tian yi gen xian shi nian ji cheng duan	0
+一问三不知神仙没法治	yi wen san bu zhi shen xian mei fa zhi	0
+一言既出驷马难追	yi yan ji chu si ma nan zhui	0
+一叶遮目不见泰山	yi ye zhe mu bu jian tai shan	0
+一夜不宿十夜不足	yi ye bu su shi ye bu zu	0
+一夜不宿十夜不足	yi ye bu xiu shi ye bu zu	0
+一有百有一穷百穷	yi you bai you yi qiong bai qiong	0
+一羽示风向	yi yu shi feng xiang	0
+一针不补十针难缝	yi zhen bu bu shi zhen nan feng	0
+一争两丑一让两有	yi zheng liang chou yi rang liang you	0
+衣不如新人不如故	yi bu ru xin ren bu ru gu	0
+衣服不洗要脏种田不犁要荒	yi fu bu xi yao zang zhong tian bu li yao huang	0
+艺高人胆大	yi gao ren dan da	0
+用宝珠打扮自己不如用知识充实自己	yong bao zhu da ban zi ji bu ru yong zhi shi chong shi zi ji	0
+用人不疑疑人不用	yong ren bu yi yi ren bu yong	0
+用珠宝装饰自己不如用知识充实自己	yong zhu bao zhuang shi zi ji bu ru yong zhi shi chong shi zi ji	0
+用着是宝用不着是草	yong zhe shi bao yong bu zhao shi cao	0
+用着是宝用不着是草	yong zhe shi bao yong bu zhe shi cao	0
+由俭入奢易由奢入俭难	you jian ru she yi you she ru jian nan	0
+由着肚子穿不上裤子	you zhe du zi chuan bu shang ku zi	0
+有病早治无病早防	you bing zao zhi wu bing zao fang	0
+有菜半年粮无菜半年荒	you cai ban nian liang wu cai ban nian huang	0
+有柴有米是夫妻无柴无米各东西	you chai you mi shi fu qi wu chai wu mi ge dong xi	0
+有车就有辙有树就有影	you che jiu you zhe you shu jiu you ying	0
+有多大本钱做多大生意	you duo da ben qian zuo duo da sheng yi	0
+有多大的脚穿多大的鞋	you duo da de jiao chuan duo da de xie	0
+有饭休嫌淡有车休嫌慢	you fan xiu xian dan you che xiu xian man	0
+有福同享有难同当	you fu tong xiang you nan tong dang	0
+有借有还再借不难	you jie you huan zai jie bu nan	0
+有理的想着说没理的抢着说	you li de xiang zhe shuo mei li de qiang zhe shuo	0
+有理走遍天下无理寸步难行	you li zou bian tian xia wu li cun bu nan xing	0
+有粮当思无粮难莫到无粮思有粮	you liang dang si wu liang nan mo dao wu liang si you liang	0
+有钱难买老来瘦	you qian nan mai lao lai shou	0
+有钱三十为宰相无钱八十做长工	you qian san shi wei zai xiang wu qian ba shi zuo chang gong	0
+有肉嫌毛有酒嫌糟	you rou xian mao you jiu xian zao	0
+有山必有路有水必有渡	you shan bi you lu you shui bi you du	0
+有上坡必有下坡有进路必有出路	you shang po bi you xia po you jin lu bi you chu lu	0
+有时省一口缺时当一斗	you shi sheng yi kou que shi dang yi dou	0
+有时省一口缺时当一斗	you shi xing yi kou que shi dang yi dou	0
+有事叫公公无事脸朝东	you shi jiao gong gong wu shi lian chao dong	0
+有心烧香不论早晚	you xin shao xiang bu lun zao wan	0
+有一兴必有一败有一利必有一弊	you yi xing bi you yi bai you yi li bi you yi bi	0
+有则改之无则加勉	you ze gai zhi wu ze jia mian	0
+有志不在年高	you zhi bu zai nian gao	0
+有志不在年高无志空长百岁	you zhi bu zai nian gao wu zhi kong zhang bai sui	0
+有志不在年高无志空长百岁	you zhi bu zai nian gao wu zhi kong chang bai sui	0
+有志不在年高有理不在会说	you zhi bu zai nian gao you li bu zai hui shuo	0
+有志漂洋过海无志寸步难行	you zhi piao yang guo hai wu zhi cun bu nan xing	0
+有志者立长志无志者常立志	you zhi zhe li zhang zhi wu zhi zhe chang li zhi	0
+有志者立长志无志者常立志	you zhi zhe li chang zhi wu zhi zhe chang li zhi	0
+有麝自然香不用大风扬	you she zi ran xiang bu yong da feng yang	0
+鱼生火肉生痰青菜豆腐保平安	yu sheng huo rou sheng tan qing cai dou fu bao ping an	0
+玉不琢不成器人不学不知理	yu bu zhuo bu cheng qi ren bu xue bu zhi li	0
+遇着绵羊是好汉遇着好汉是绵羊	yu zhe mian yang shi hao han yu zhe hao han shi mian yang	0
+欲速则不达	yu su ze bu da	0
+冤各有头债各有主	yuan ge you tou zhai ge you zhu	0
+圆木平不稳方木头不滚	yuan mu ping bu wen fang mu tou bu gun	0
+远亲不如近邻近邻不如对门	yuan qin bu ru jin lin jin lin bu ru dui men	0
+远水不解近渴远亲不如近邻	yuan shui bu jie jin ke yuan qin bu ru jin lin	0
+越吃越馋越困越懒	yue chi yue chan yue kun yue lan	0
+越坐人越懒越吃口越馋	yue zuo ren yue lan yue chi kou yue chan	0
+钥匙不能劈柴斧子不能开锁	yao shi bu neng pi chai fu zi bu neng kai suo	0
+云彩经不起风吹朝露经不起日晒	yun cai jing bu qi feng chui zhao lu jing bu qi ri shai	0
+在朝都是官在席都是客	zai chao dou shi guan zai xi dou shi ke	0
+在家不避父母出嫁不避丈夫有病不避大夫	zai jia bu bi fu mu chu jia bu bi zhang fu you bing bu bi dai fu	0
+在家不避父母出嫁不避丈夫有病不避大夫	zai jia bu bi fu mu chu jia bu bi zhang fu you bing bu bi da fu	0
+在家不理人出外没人理	zai jia bu li ren chu wai mei ren li	0
+在家千日易出门一时难	zai jia qian ri yi chu men yi shi nan	0
+早起动动腰一天少疲老	zao qi dong dong yao yi tian shao pi lao	0
+早起三光晚起三慌	zao qi san guang wan qi san huang	0
+造烛求明读书求理	zao zhu qiu ming du shu qiu li	0
+真金不怕火烧	zhen jin bu pa huo shao	0
+针不离线线不离针	zhen bu li xian xian bu li zhen	0
+针没有线长酱没有盐咸	zhen mei you xian zhang jiang mei you yan xian	0
+针没有线长酱没有盐咸	zhen mei you xian chang jiang mei you yan xian	0
+争着不够吃让着吃不了	zheng zhe bu gou chi rang zhe chi bu liao	0
+知己知彼百战百胜	zhi ji zhi bi bai zhan bai sheng	0
+知识不存在的地方愚昧就自命为科学	zhi shi bu cun zai de di fang yu mei jiu zi ming wei ke xue	0
+知识是智慧的火炬	zhi shi shi zhi hui de huo ju	0
+知足得安宁贪心易招祸	zhi zu de an ning tan xin yi zhao huo	0
+知足得安宁贪心易招祸	zhi zu dei an ning tan xin yi zhao huo	0
+知足心长乐能忍身自安	zhi zu xin chang le neng ren shen zi an	0
+直木先伐甘井先竭	zhi mu xian fa gan jing xian jie	0
+指甲和肉分不开	zhi jia he rou fen bu kai	0
+只愁母老不愁孩小	zhi chou mu lao bu chou hai xiao	0
+只给君子看门不给小人当家	zhi gei jun zi kan men bu gei xiao ren dang jia	0
+只勤不俭无底洞只俭不勤水无源	zhi qin bu jian wu di dong zhi jian bu qin shui wu yuan	0
+只要功夫深铁杵磨成针	zhi yao gong fu shen tie chu mo cheng zhen	0
+只要肯劳动一世不会穷	zhi yao ken lao dong yi shi bu hui qiong	0
+只要苦干事成一半	zhi yao ku gan shi cheng yi ban	0
+只要人齐心黄土变成金	zhi yao ren qi xin huang tu bian cheng jin	0
+只有扯皮的人没有扯皮的事	zhi you che pi de ren mei you che pi de shi	0
+只有人脏水没有水脏人	zhi you ren zang shui mei you shui zang ren	0
+只有上不去的天没有过不去的山	zhi you shang bu qu de tian mei you guo bu qu de shan	0
+只中不管打破金碗	zhi zhong bu guan da po jin wan	0
+智养千口力养一人	zhi yang qian kou li yang yi ren	0
+智壮英雄胆艺高人胆大	zhi zhuang ying xiong dan yi gao ren dan da	0
+治病要早除祸要狠	zhi bing yao zao chu huo yao hen	0
+种瓜得瓜种豆得豆	zhong gua de gua zhong dou de dou	0
+种早不荒起早不忙	zhong zao bu huang qi zao bu mang	0
+重复是学习之母	chong fu shi xue xi zhi mu	0
+众人拾柴火焰高	zhong ren shi chai huo yan gao	0
+众人一条心黄土变成金	zhong ren yi tiao xin huang tu bian cheng jin	0
+贮水防旱积谷防荒	zhu shui fang han ji gu fang huang	0
+抓鱼要下水伐木要如林	zhua yu yao xia shui fa mu yao ru lin	0
+砖连砖成墙瓦连瓦成房	zhuan lian zhuan cheng qiang wa lian wa cheng fang	0
+庄稼不让时船家不让风	zhuang jia bu rang shi chuan jia bu rang feng	0
+庄稼靠人管人勤地不懒	zhuang jia kao ren guan ren qin di bu lan	0
+庄稼靠人管人勤地不懒	zhuang jia kao ren guan ren qin de bu lan	0
+庄稼怕旱干活怕站	zhuang jia pa han gan huo pa zhan	0
+庄稼怕天旱做事怕蛮干	zhuang jia pa tian han zuo shi pa man gan	0
+庄稼一枝花全靠肥当家	zhuang jia yi zhi hua quan kao fei dang jia	0
+捉奸捉双捉贼捉脏	zhuo jian zhuo shuang zhuo zei zhuo zang	0
+子不嫌母丑狗不嫌家贫	zi bu xian mu chou gou bu xian jia pin	0
+自己的东西是宝别人的东西是草	zi ji de dong xi shi bao bie ren de dong xi shi cao	0
+自满是进步的退步	zi man shi jin bu de tui bu	0
+自在不成人成人不自在	zi zai bu cheng ren cheng ren bu zi zai	0
+走路不怕上高山撑船不怕过限滩	zou lu bu pa shang gao shan cheng chuan bu pa guo xian tan	0
+嘴把式光会说懒驴子上磨屎尿多	zui ba shi guang hui shuo lan lv zi shang mo shi niao duo	0
+嘴上无毛办事不牢	zui shang wu mao ban shi bu lao	0
+最伟大的力量就是同心合力	zui wei da de li liang jiu shi tong xin he li	0
+做一行怨一行到老不在行	zuo yi hang yuan yi hang dao lao bu zai hang	0
+做一行怨一行到老不在行	zuo yi hang yuan yi xing dao lao bu zai hang	0
+做一行怨一行到老不在行	zuo yi xing yuan yi hang dao lao bu zai hang	0
+做一行怨一行到老不在行	zuo yi xing yuan yi xing dao lao bu zai hang	0
+坐吃山空立吃地陷	zuo chi shan kong li chi di xian	0
+篝火能把严寒驱散团结能把困难赶跑	gou huo neng ba yan han qu san tuan jie neng ba kun nan gan pao	0

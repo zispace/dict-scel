@@ -1,0 +1,436 @@
+# 词库名称: 军衔
+# 词库分类: 军事 人文社科
+# 词库描述: 军衔名称
+# 词条样例: 安武大将军、把总、保国右将军、炳武大将军、矅威大将军、参领、昌武左将军、成武左将军、次等第三级、大都尉
+# 词条数量: 428
+# 解析词数: 428
+# 解析异常: 0
+
+安武大将军	an wu da jiang jun	0
+安武右将军	an wu you jiang jun	0
+安武左将军	an wu zuo jiang jun	0
+把总	ba zong	0
+半圆麦穗	ban yuan mai sui	0
+保国大将军	bao guo da jiang jun	0
+保国右将军	bao guo you jiang jun	0
+保国左将军	bao guo zuo jiang jun	0
+标统	biao tong	0
+炳武大将军	bing wu da jiang jun	0
+炳武右将军	bing wu you jiang jun	0
+炳武左将军	bing wu zuo jiang jun	0
+矅威大将军	yao wei da jiang jun	0
+矅威右将军	yao wei you jiang jun	0
+矅威左将军	yao wei zuo jiang jun	0
+参领	can ling	0
+参领	shen ling	0
+昌武大将军	chang wu da jiang jun	0
+昌武右将军	chang wu you jiang jun	0
+昌武左将军	chang wu zuo jiang jun	0
+成武大将军	cheng wu da jiang jun	0
+成武右将军	cheng wu you jiang jun	0
+成武左将军	cheng wu zuo jiang jun	0
+初等官佐	chu deng guan zuo	0
+次等第二级	ci deng di er ji	0
+次等第三级	ci deng di san ji	0
+次等第一级	ci deng di yi ji	0
+次帅	ci shuai	0
+大都尉	da du wei	0
+大将	da jiang	0
+大将军	da jiang jun	0
+大将校	da jiang xiao	0
+大军区副职	da jun qu fu zhi	0
+大军区正职	da jun qu zheng zhi	0
+大军校	da jun xiao	0
+大领	da ling	0
+大尉	da wei	0
+大校	da xiao	0
+大元帅	da yuan shuai	0
+道台	dao tai	0
+德威大将军	de wei da jiang jun	0
+德威右将军	de wei you jiang jun	0
+德威左将军	de wei zuo jiang jun	0
+殿元大将军	dian yuan da jiang jun	0
+殿元右将军	dian yuan you jiang jun	0
+殿元左将军	dian yuan zuo jiang jun	0
+定过右将军	ding guo you jiang jun	0
+定远大将军	ding yuan da jiang jun	0
+定远将军	ding yuan jiang jun	0
+定远左将军	ding yuan zuo jiang jun	0
+都司	du si	0
+都统	du tong	0
+都卫	du wei	0
+督队官	du dui guan	0
+队官	dui guan	0
+俄罗斯联邦元帅	e luo si lian bang yuan shuai	0
+额外军官	e wai jun guan	0
+二等兵	er deng bing	0
+二等目兵	er deng mu bing	0
+二拐	er guai	0
+二级	er ji	0
+二级军士长	er ji jun shi zhang	0
+二级准尉	er ji zhun wei	0
+藩台	fan tai	0
+抚台	fu tai	0
+辅国大将军	fu guo da jiang jun	0
+辅国右将军	fu guo you jiang jun	0
+辅国左将军	fu guo zuo jiang jun	0
+副把总	fu ba zong	0
+副标统	fu biao tong	0
+副参领	fu can ling	0
+副参领	fu shen ling	0
+副道台	fu dao tai	0
+副都司	fu du si	0
+副都统	fu du tong	0
+副都卫	fu du wei	0
+副督队官	fu du dui guan	0
+副队官	fu dui guan	0
+副藩台	fu fan tai	0
+副抚台协抚台	fu fu tai xie fu tai	0
+副管带	fu guan dai	0
+副国宗	fu guo zong	0
+副军校	fu jun xiao	0
+副军职	fu jun zhi	0
+副棚官	fu peng guan	0
+副千总	fu qian zong	0
+副哨官	fu shao guan	0
+副守备	fu shou bei	0
+副提督	fu ti du	0
+副提辖	fu ti xia	0
+副提刑	fu ti xing	0
+副统领	fu tong ling	0
+副团练	fu tuan lian	0
+副团职	fu tuan zhi	0
+副营带	fu ying dai	0
+副营职	fu ying zhi	0
+副章京	fu zhang jing	0
+副制台	fu zhi tai	0
+副总兵	fu zong bing	0
+副佐领	fu zuo ling	0
+副臬台	fu nie tai	0
+高级准尉	gao ji zhun wei	0
+官吏	guan li	0
+冠英大将军	guan ying da jiang jun	0
+冠英右将军	guan ying you jiang jun	0
+冠英左将军	guan ying zuo jiang jun	0
+管带	guan dai	0
+归德大将军	gui de da jiang jun	0
+归德右将军	gui de you jiang jun	0
+归德执戟长上	gui de zhi ji zhang shang	0
+归德执戟长上	gui de zhi ji chang shang	0
+归德中朗将	gui de zhong lang jiang	0
+归德左将军	gui de zuo jiang jun	0
+国宗	guo zong	0
+虎豹大将军	hu bao da jiang jun	0
+虎豹右将军	hu bao you jiang jun	0
+虎豹左将军	hu bao zuo jiang jun	0
+虎威大将军	hu wei da jiang jun	0
+虎威右将军	hu wei you jiang jun	0
+虎威左将军	hu wei zuo jiang jun	0
+护国大将军王	hu guo da jiang jun wang	0
+护国右将军王	hu guo you jiang jun wang	0
+护国左将军王	hu guo zuo jiang jun wang	0
+怀化大将军	huai hua da jiang jun	0
+怀化将军	huai hua jiang jun	0
+怀化司戈	huai hua si ge	0
+怀化右将军	huai hua you jiang jun	0
+怀化执戟长上	huai hua zhi ji zhang shang	0
+怀化执戟长上	huai hua zhi ji chang shang	0
+怀化中朗将	huai hua zhong lang jiang	0
+怀化左将军	huai hua zuo jiang jun	0
+监国右元帅王	jian guo you yuan shuai wang	0
+监国左元帅王	jian guo zuo yuan shuai wang	0
+建威大将军	jian wei da jiang jun	0
+建威右将军	jian wei you jiang jun	0
+建威左将军	jian wei zuo jiang jun	0
+将官	jiang guan	0
+将军	jiang jun	0
+靖武大将军	jing wu da jiang jun	0
+靖武右将军	jing wu you jiang jun	0
+靖武左将军	jing wu zuo jiang jun	0
+靖远大将军	jing yuan da jiang jun	0
+靖远右将军	jing yuan you jiang jun	0
+靖远左将军	jing yuan zuo jiang jun	0
+靖晗大将军	jing han da jiang jun	0
+靖晗右将军	jing han you jiang jun	0
+靖晗左将军	jing han zuo jiang jun	0
+军阶	jun jie	0
+军士	jun shi	0
+军士长	jun shi zhang	0
+匡武大将军	kuang wu da jiang jun	0
+匡武右将军	kuang wu you jiang jun	0
+匡武左将军	kuang wu zuo jiang jun	0
+良威大将军	liang wei da jiang jun	0
+良威右将军	liang wei you jiang jun	0
+良威左将军	liang wei zuo jiang jun	0
+两粗拐	liang cu guai	0
+两杠两星	liang gang liang xing	0
+两杠三星	liang gang san xing	0
+两杠四星	liang gang si xing	0
+两杠一星	liang gang yi xing	0
+列兵	lie bing	0
+临国大元帅王	lin guo da yuan shuai wang	0
+隆威大将军	long wei da jiang jun	0
+隆威右将军	long wei you jiang jun	0
+隆威左将军	long wei zuo jiang jun	0
+陆军上将肩章	lu jun shang jiang jian zhang	0
+马嚼子	ma jiao zi	0
+明威大将军	ming wei da jiang jun	0
+明威将军	ming wei jiang jun	0
+明威右将军	ming wei you jiang jun	0
+明威左将军	ming wei zuo jiang jun	0
+宁武大将军	ning wu da jiang jun	0
+宁武右将军	ning wu you jiang jun	0
+宁武左将军	ning wu zuo jiang jun	0
+陪戎副尉	pei rong fu wei	0
+陪戎副尉	pei rong fu yu	0
+陪戎校尉	pei rong xiao wei	0
+棚官	peng guan	0
+启国大将军	qi guo da jiang jun	0
+启国右将军	qi guo you jiang jun	0
+启国左将军	qi guo zuo jiang jun	0
+千总	qian zong	0
+庆宇大将军	qing yu da jiang jun	0
+庆宇右将军	qing yu you jiang jun	0
+庆宇左将军	qing yu zuo jiang jun	0
+全圆麦穗	quan yuan mai sui	0
+三等兵	san deng bing	0
+三级	san ji	0
+三级军士长	san ji jun shi zhang	0
+三级准尉	san ji zhun wei	0
+上等兵	shang deng bing	0
+上等第二级	shang deng di er ji	0
+上等第三级	shang deng di san ji	0
+上等第一级	shang deng di yi ji	0
+上等官佐	shang deng guan zuo	0
+上将	shang jiang	0
+上士	shang shi	0
+上尉	shang wei	0
+上校	shang xiao	0
+少将	shao jiang	0
+少将校	shao jiang xiao	0
+少领	shao ling	0
+少尉	shao wei	0
+少尉排职	shao wei pai zhi	0
+少校	shao xiao	0
+哨官	shao guan	0
+肾明右将军	shen ming you jiang jun	0
+士官	shi guan	0
+守备	shou bei	0
+四级	si ji	0
+四级准尉	si ji zhun wei	0
+泰武大将军	tai wu da jiang jun	0
+泰武右将军	tai wu you jiang jun	0
+泰武左将军	tai wu zuo jiang jun	0
+特务上士	te wu shang shi	0
+提督	ti du	0
+提辖	ti xia	0
+提刑	ti xing	0
+同武大将军	tong wu da jiang jun	0
+同武右将军	tong wu you jiang jun	0
+同武左将军	tong wu zuo jiang jun	0
+统领	tong ling	0
+头衔	tou xian	0
+团练	tuan lian	0
+威远大将军	wei yuan da jiang jun	0
+威远右将军	wei yuan you jiang jun	0
+威远左将军	wei yuan zuo jiang jun	0
+维荔大将军	wei li da jiang jun	0
+维荔右将军	wei li you jiang jun	0
+维荔左将军	wei li zuo jiang jun	0
+尉官	wei guan	0
+五级准尉	wu ji zhun wei	0
+五星上将	wu xing shang jiang	0
+熙威大将军	xi wei da jiang jun	0
+熙威右将军	xi wei you jiang jun	0
+熙威左将军	xi wei zuo jiang jun	0
+下等兵	xia deng bing	0
+下士	xia shi	0
+咸武大将军	xian wu da jiang jun	0
+咸武右将军	xian wu you jiang jun	0
+咸武左将军	xian wu zuo jiang jun	0
+贤明大将军	xian ming da jiang jun	0
+贤明左将军	xian ming zuo jiang jun	0
+襄武大将军	xiang wu da jiang jun	0
+襄武右将军	xiang wu you jiang jun	0
+襄武左将军	xiang wu zuo jiang jun	0
+校官	xiao guan	0
+协标统	xie biao tong	0
+协参领	xie can ling	0
+协参领	xie shen ling	0
+协道台	xie dao tai	0
+协都司	xie du si	0
+协都统	xie du tong	0
+协都卫	xie du wei	0
+协藩台	xie fan tai	0
+协国宗	xie guo zong	0
+协军校	xie jun xiao	0
+协守备	xie shou bei	0
+协提督	xie ti du	0
+协提辖	xie ti xia	0
+协提刑	xie ti xing	0
+协统领	xie tong ling	0
+协团练	xie tuan lian	0
+协章京	xie zhang jing	0
+协制台	xie zhi tai	0
+协总兵	xie zong bing	0
+协佐领	xie zuo ling	0
+协臬台	xie nie tai	0
+星双枪	xing shuang qiang	0
+宣节副尉	xuan jie fu wei	0
+宣节副尉	xuan jie fu yu	0
+宣节校尉	xuan jie xiao wei	0
+宣威大将军	xuan wei da jiang jun	0
+宣威将军	xuan wei jiang jun	0
+宣威右将军	xuan wei you jiang jun	0
+宣威左将军	xuan wei zuo jiang jun	0
+学员	xue yuan	0
+耀威大将军	yao wei da jiang jun	0
+耀威右将军	yao wei you jiang jun	0
+耀威左将军	yao wei zuo jiang jun	0
+一等兵	yi deng bing	0
+一等目兵	yi deng mu bing	0
+一杠两星	yi gang liang xing	0
+一杠三星	yi gang san xing	0
+一杠无星	yi gang wu xing	0
+一杠一星	yi gang yi xing	0
+一拐	yi guai	0
+一级	yi ji	0
+一级军士长	yi ji jun shi zhang	0
+一级上将	yi ji shang jiang	0
+一级准尉	yi ji zhun wei	0
+一麦二星	yi mai er xing	0
+一麦三星	yi mai san xing	0
+一麦一星	yi mai yi xing	0
+宜林大将军	yi lin da jiang jun	0
+宜林右将军	yi lin you jiang jun	0
+宜林左将军	yi lin zuo jiang jun	0
+义威大将军	yi wei da jiang jun	0
+义威右将军	yi wei you jiang jun	0
+义孚左将军	yi fu zuo jiang jun	0
+益威大将军	yi wei da jiang jun	0
+益威右将军	yi wei you jiang jun	0
+益威左将军	yi wei zuo jiang jun	0
+英威大将军	ying wei da jiang jun	0
+英威右将军	ying wei you jiang jun	0
+英威左将军	ying wei zuo jiang jun	0
+英武大将军	ying wu da jiang jun	0
+英武右将军	ying wu you jiang jun	0
+英武左将军	ying wu zuo jiang jun	0
+营带	ying dai	0
+优击大将军	you ji da jiang jun	0
+优击右将军	you ji you jiang jun	0
+优击左将军	you ji zuo jiang jun	0
+优稽大将军	you ji da jiang jun	0
+优稽右将军	you ji you jiang jun	0
+优稽左将军	you ji zuo jiang jun	0
+优缉大将军	you ji da jiang jun	0
+优缉右将军	you ji you jiang jun	0
+优缉左将军	you ji zuo jiang jun	0
+游击将军	you ji jiang jun	0
+游骑将军	you qi jiang jun	0
+右都尉	you du wei	0
+右将军	you jiang jun	0
+右军校	you jun xiao	0
+御辱副尉	yu ru fu wei	0
+御辱副尉	yu ru fu yu	0
+御侮校尉	yu wu xiao wei	0
+育新大将军	yu xin da jiang jun	0
+育新右将军	yu xin you jiang jun	0
+育新左将军	yu xin zuo jiang jun	0
+预备役大校	yu bei yi da xiao	0
+预备役上尉	yu bei yi shang wei	0
+预备役少将	yu bei yi shao jiang	0
+元帅	yuan shuai	0
+云麾大将军	yun hui da jiang jun	0
+云麾将军	yun hui jiang jun	0
+云麾右将军	yun hui you jiang jun	0
+云麾左将军	yun hui zuo jiang jun	0
+章京	zhang jing	0
+昭威大将军	zhao wei da jiang jun	0
+昭威右将军	zhao wei you jiang jun	0
+昭威左将军	zhao wei zuo jiang jun	0
+珍威大将军	zhen wei da jiang jun	0
+珍威右将军	zhen wei you jiang jun	0
+珍威左将军	zhen wei zuo jiang jun	0
+振威副尉	zhen wei fu wei	0
+振威副尉	zhen wei fu yu	0
+镇国大将军	zhen guo da jiang jun	0
+镇国右将军	zhen guo you jiang jun	0
+镇国左将军	zhen guo zuo jiang jun	0
+镇军大将军	zhen jun da jiang jun	0
+镇威大将军	zhen wei da jiang jun	0
+镇威右将军	zhen wei you jiang jun	0
+镇威左将军	zhen wei zuo jiang jun	0
+镇武大将军	zhen wu da jiang jun	0
+镇武右将军	zhen wu you jiang jun	0
+镇武左将军	zhen wu zuo jiang jun	0
+镇英大将军	zhen ying da jiang jun	0
+镇英右将军	zhen ying you jiang jun	0
+镇英左将军	zhen ying zuo jiang jun	0
+镇远大将军	zhen yuan da jiang jun	0
+镇远右将军	zhen yuan you jiang jun	0
+镇远左将军	zhen yuan zuo jiang jun	0
+正参领	zheng can ling	0
+正参领	zheng shen ling	0
+正都统	zheng du tong	0
+正军校	zheng jun xiao	0
+正连职	zheng lian zhi	0
+正师职	zheng shi zhi	0
+正团职	zheng tuan zhi	0
+志宏大将军	zhi hong da jiang jun	0
+志宏右将军	zhi hong you jiang jun	0
+志宏左将军	zhi hong zuo jiang jun	0
+致果副尉	zhi guo fu wei	0
+致果副尉	zhi guo fu yu	0
+制台	zhi tai	0
+中等第二级	zhong deng di er ji	0
+中等第三级	zhong deng di san ji	0
+中等第一级	zhong deng di yi ji	0
+中等官佐	zhong deng guan zuo	0
+中华人民共和国大元帅	zhong hua ren min gong he guo da yuan shuai	0
+中华人民共和国元帅	zhong hua ren min gong he guo yuan shuai	0
+中将	zhong jiang	0
+中将校	zhong jiang xiao	0
+中领	zhong ling	0
+中士	zhong shi	0
+中尉	zhong wei	0
+中校	zhong xiao	0
+中央军事委员会副主席和委员	zhong yang jun shi wei yuan hui fu zhu xi he wei yuan	0
+忠武大将军	zhong wu da jiang jun	0
+忠武将军	zhong wu jiang jun	0
+忠武右将军	zhong wu you jiang jun	0
+忠武左将军	zhong wu zuo jiang jun	0
+专业军士	zhuan ye jun shi	0
+壮威大将军	zhuang wei da jiang jun	0
+壮威右将军	zhuang wei you jiang jun	0
+壮威左将军	zhuang wei zuo jiang jun	0
+壮武大将军	zhuang wu da jiang jun	0
+壮武将军	zhuang wu jiang jun	0
+壮武右将军	zhuang wu you jiang jun	0
+壮武左将军	zhuang wu zuo jiang jun	0
+准将	zhun jiang	0
+准尉	zhun wei	0
+准尉官	zhun wei guan	0
+总兵	zong bing	0
+左都尉	zuo du wei	0
+左将军	zuo jiang jun	0
+左军校	zuo jun xiao	0
+佐领	zuo ling	0
+恪威大将军	ke wei da jiang jun	0
+恪威右将军	ke wei you jiang jun	0
+恪威左将军	ke wei zuo jiang jun	0
+孚威大将军	fu wei da jiang jun	0
+孚威右将军	fu wei you jiang jun	0
+孚威左将军	fu wei zuo jiang jun	0
+骠骑大将军	piao qi da jiang jun	0
+骠骑右将军	piao qi you jiang jun	0
+骠骑左将军	piao qi zuo jiang jun	0
+璞威大将军	pu wei da jiang jun	0
+璞威右将军	pu wei you jiang jun	0
+璞威左将军	pu wei zuo jiang jun	0
+翊麾副尉	yi hui fu wei	0
+翊麾副尉	yi hui fu yu	0
+臬台	nie tai	0
+麟威大将军	lin wei da jiang jun	0
+麟威右将军	lin wei you jiang jun	0
+麟威左将军	lin wei zuo jiang jun	0
