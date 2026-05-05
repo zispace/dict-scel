@@ -1,0 +1,619 @@
+# 词库名称: 民用建筑电气常用名词
+# 词库分类: 建筑
+# 词库描述: 民用建筑电气常用名词
+# 词条样例: 设计范围、设计要求、设计依据、设计说明、图审意见、计容
+# 解析词数: 612
+# 解析异常: 0
+
+按地电阻值	an di dian zu zhi	387
+暗敷	an fu	358
+安全出口	an quan chu kou	531
+安全措施	an quan cuo shi	432
+安全防范设施	an quan fang fan she shi	431
+安全照明	an quan zhao ming	248
+暗装	an zhuang	356
+安装尺寸	an zhuang chi cun	318
+暗装接闪带	an zhuang jie shan dai	403
+安装容量	an zhuang rong liang	317
+半地下室	ban di xia shi	537
+保护导体	bao hu dao ti	419
+保护接地	bao hu jie di	396
+保护接地导体	bao hu jie di dao ti	417
+保护接地中性导体	bao hu jie di zhong xing dao ti	414
+保护联结导体	bao hu lian jie dao ti	416
+保健观察室	bao jian guan cha shi	19
+备用出入口	bei yong chu ru kou	79
+备用电源	bei yong dian yuan	438
+备用照明	bei yong zhao ming	247
+壁挂安装	bi gua an zhuang	278
+壁挂式配电箱	bi gua shi pei dian xiang	306
+避雷针	bi lei zhen	402
+避难层	bi nan ceng	533
+避难间	bi nan jian	532
+避难疏散场所	bi nan shu san chang suo	28
+避难走道	bi nan zou dao	527
+变电所	bian dian suo	145
+变配电房	bian pei dian fang	139
+变配电站	bian pei dian zhan	140
+变压器	bian ya qi	133
+变压器房	bian ya qi fang	138
+丙类仓库	bing lei cang ku	569
+丙类厂房	bing lei chang fang	549
+补偿柜	bu chang gui	125
+补充图例	bu chong tu li	488
+不计容	bu ji rong	596
+不间断电源	bu jian duan dian yuan	435
+不舒适眩光	bu shu shi xuan guang	234
+不锈钢扁钢	bu xiu gang bian gang	389
+不锈钢圆钢	bu xiu gang yuan gang	388
+参考平面	can kao ping mian	260
+侧击雷	ce ji lei	386
+测试点	ce shi dian	384
+插座平面图	cha zuo ping mian tu	452
+柴油发电机	chai you fa dian ji	436
+柴油发电机房	chai you fa dian ji fang	115
+产烟速率	chan yan su lv	380
+产烟总量	chan yan zong liang	379
+超高层办公	chao gao ceng ban gong	593
+超高层建筑	chao gao ceng jian zhu	594
+超高层住宅	chao gao ceng zhu zhai	592
+超六类对双绞线	chao liu lei dui shuang jiao xian	350
+超五类对双绞线	chao wu lei dui shuang jiao xian	352
+超压排风	chao ya pai feng	57
+晨检室	chen jian shi	21
+晨检厅	chen jian ting	20
+充电桩车位	chong dian zhuang che wei	516
+重复接地	chong fu jie di	348
+冲击波	chong ji bo	95
+冲击波超压	chong ji bo chao ya	94
+初步设计	chu bu she ji	612
+穿廊式出入口	chuan lang shi chu ru kou	76
+垂直火焰蔓延	chui zhi huo yan man yan	374
+次要出入口	ci yao chu ru kou	80
+单层丙类仓库	dan ceng bing lei cang ku	568
+单层丙类厂房	dan ceng bing lei chang fang	548
+单层丁类仓库	dan ceng ding lei cang ku	564
+单层丁类厂房	dan ceng ding lei chang fang	544
+单层甲类仓库	dan ceng jia lei cang ku	576
+单层甲类厂房	dan ceng jia lei chang fang	556
+单层戊类仓库	dan ceng wu lei cang ku	560
+单层戊类厂房	dan ceng wu lei chang fang	540
+单层乙类仓库	dan ceng yi lei cang ku	572
+单层乙类厂房	dan ceng yi lei chang fang	552
+单电源	dan dian yuan	315
+单建掘开式工程	dan jian jue kai shi gong cheng	113
+单输出模块	dan shu chu mo kuai	194
+单输入模块	dan shu ru mo kuai	196
+单速排烟风机	dan su pai yan feng ji	4
+单台排污泵	dan tai pai wu beng	7
+单相负荷	dan xiang fu he	324
+单向式出入口	dan xiang shi chu ru kou	77
+单元间平时通行口	dan yuan jian ping shi tong xing kou	87
+等电位联结	deng dian wei lian jie	425
+等电位联结安装	deng dian wei lian jie an zhuang	394
+灯具效率	deng ju xiao lv	239
+灯具效能	deng ju xiao neng	238
+灯具遮光角	deng ju zhe guang jiao	229
+第二类物防雷建筑	di er lei wu fang lei jian zhu	427
+地面超压	di mian chao ya	93
+第三类物防雷建筑	di san lei wu fang lei jian zhu	426
+地下二层	di xia er ceng	512
+地下一层	di xia yi ceng	513
+低压房	di ya fang	134
+低压开关柜	di ya kai guan gui	126
+低压配电室	di ya pei dian shi	135
+低烟无卤	di yan wu lu	370
+低烟无卤电缆	di yan wu lu dian lan	368
+低烟无卤电线	di yan wu lu dian xian	366
+第一类物防雷建筑	di yi lei wu fang lei jian zhu	428
+电表	dian biao	346
+电磁释放器	dian ci shi fang qi	178
+电动闭门器	dian dong bi men qi	176
+电动汽车充电桩	dian dong qi che chong dian zhuang	515
+电动汽车充电桩车位	dian dong qi che chong dian zhuang che wei	514
+电缆井	dian lan jing	50
+电力电缆	dian li dian lan	383
+电力负荷	dian li fu he	330
+电气火灾监控	dian qi huo zai jian kong	182
+电气平面图	dian qi ping mian tu	468
+电气竖井	dian qi shu jing	286
+电气总平面图	dian qi zong ping mian tu	487
+电梯轿厢	dian ti jiao xiang	497
+电梯厅	dian ti ting	521
+电梯五方通话	dian ti wu fang tong hua	270
+电源出线柜	dian yuan chu xian gui	282
+电源进线柜	dian yuan jin xian gui	283
+丁类仓库	ding lei cang ku	565
+丁类厂房	ding lei chang fang	545
+动力负荷	dong li fu he	281
+动力配电箱	dong li pei dian xiang	293
+断接卡	duan jie ka	400
+短路隔离器	duan lu ge li qi	191
+断路器	duan lu qi	335
+端子排	duan zi pai	334
+多层丙类仓库	duo ceng bing lei cang ku	567
+多层丙类厂房	duo ceng bing lei chang fang	547
+多层丁类仓库	duo ceng ding lei cang ku	563
+多层丁类厂房	duo ceng ding lei chang fang	543
+多层甲类仓库	duo ceng jia lei cang ku	575
+多层甲类厂房	duo ceng jia lei chang fang	555
+多层建筑	duo ceng jian zhu	583
+多层戊类仓库	duo ceng wu lei cang ku	559
+多层戊类厂房	duo ceng wu lei chang fang	539
+多层乙类仓库	duo ceng yi lei cang ku	571
+多层乙类厂房	duo ceng yi lei chang fang	551
+多功能活动室	duo gong neng huo dong shi	23
+二层插座平面图	er ceng cha zuo ping mian tu	450
+二层电气平面图	er ceng dian qi ping mian tu	466
+二层配电平面图	er ceng pei dian ping mian tu	474
+二层弱电平面图	er ceng ruo dian ping mian tu	458
+二层照明平面图	er ceng zhao ming ping mian tu	482
+二次原理图	er ci yuan li tu	333
+二次装修	er ci zhuang xiu	439
+二等人员掩蔽所	er deng ren yuan yan bi suo	97
+二级负荷	er ji fu he	326
+二类高层办公	er lei gao ceng ban gong	585
+二类高层建筑	er lei gao ceng jian zhu	587
+二类高层酒店	er lei gao ceng jiu dian	584
+二类高层住宅	er lei gao ceng zhu zhai	586
+发电机房	fa dian ji fang	116
+发光二极管灯	fa guang er ji guan deng	242
+发光强度	fa guang qiang du	263
+反射比	fan she bi	221
+反射眩光	fan she xuan guang	231
+方案设计	fang an she ji	599
+防爆波	fang bao bo	49
+防爆波电缆井	fang bao bo dian lan jing	51
+防侧击雷	fang ce ji lei	385
+防倒塌棚架	fang dao ta peng jia	65
+防毒通道	fang du tong dao	69
+防护单元	fang hu dan yuan	89
+防护密闭处理	fang hu mi bi chu li	36
+防护密闭门	fang hu mi bi men	73
+防化通信值班室	fang hua tong xin zhi ban shi	52
+防化值班室	fang hua zhi ban shi	53
+防火单元	fang huo dan yuan	517
+防火分区	fang huo fen qu	518
+防火封堵材料	fang huo feng du cai liao	354
+防火隔墙	fang huo ge qiang	535
+防火间距	fang huo jian ju	519
+防火卷帘控制器	fang huo juan lian kong zhi qi	200
+防火门监控	fang huo men jian kong	180
+防火门监控器	fang huo men jian kong qi	179
+防火墙	fang huo qiang	534
+防空地下室	fang kong di xia shi	110
+防空专业队工程	fang kong zhuan ye dui gong cheng	104
+防空专业队掩蔽所	fang kong zhuan ye dui yan bi suo	103
+防雷类别	fang lei lei bie	429
+防雷装置	fang lei zhuang zhi	407
+放射式	fang she shi	311
+防烟楼梯间	fang yan lou ti jian	529
+防烟楼梯间前室	fang yan lou ti jian qian shi	528
+非集中控制型系统	fei ji zhong kong zhi xing xi tong	211
+非完全小学	fei wan quan xiao xue	30
+非阻燃电线电缆	fei zu ran dian xian dian lan	372
+分区一般照明	fen qu yi ban zhao ming	255
+封闭楼梯间	feng bi lou ti jian	530
+负荷计算	fu he ji suan	322
+敷设方式	fu she fang shi	355
+服务管理用房	fu wu guan li yong fang	18
+辅助等电位联结	fu zhu deng dian wei lian jie	422
+干式报警阀	gan shi bao jing fa	154
+干式报警阀组	gan shi bao jing fa zu	155
+感温火灾探测器	gan wen huo zai tan ce qi	172
+感温探测器	gan wen tan ce qi	171
+感烟火灾探测器	gan yan huo zai tan ce qi	174
+感烟探测器	gan yan tan ce qi	173
+钢筋混凝土	gang jin hun ning tu	491
+钢柱	gang zhu	490
+高层丙类仓库	gao ceng bing lei cang ku	566
+高层丙类厂房	gao ceng bing lei chang fang	546
+高层丁类仓库	gao ceng ding lei cang ku	562
+高层丁类厂房	gao ceng ding lei chang fang	542
+高层甲类仓库	gao ceng jia lei cang ku	574
+高层甲类厂房	gao ceng jia lei chang fang	554
+高层建筑	gao ceng jian zhu	595
+高层戊类仓库	gao ceng wu lei cang ku	558
+高层戊类厂房	gao ceng wu lei chang fang	538
+高层乙类仓库	gao ceng yi lei cang ku	570
+高层乙类厂房	gao ceng yi lei chang fang	550
+高低压	gao di ya	321
+高架仓库	gao jia cang ku	578
+高压开关柜	gao ya kai guan gui	127
+高压配电室	gao ya pei dian shi	136
+隔绝通风	ge jue tong feng	58
+隔离电器	ge li dian qi	342
+公变变配电房	gong bian bian pei dian fang	142
+公变变配电所	gong bian bian pei dian suo	141
+公变变压器	gong bian bian ya qi	132
+工程概况	gong cheng gai kuang	605
+供电回路	gong dian hui lu	320
+功能接地	gong neng jie di	395
+功能性开关电器	gong neng xing kai guan dian qi	343
+工艺设备	gong yi she bei	319
+供应用房	gong ying yong fang	17
+构筑物	gou zhu wu	489
+固定电站	gu ding dian zhan	44
+光幕反射	guang mu fan she	230
+光强分布	guang qiang fen bu	241
+光通量	guang tong liang	264
+光通量维持率	guang tong liang wei chi lv	222
+光源的发光效能	guang yuan de fa guang xiao neng	240
+过滤吸收器	guo lv xi shou qi	55
+红外火焰探测器	hong wai huo yan tan ce qi	168
+护套线	hu tao xian	359
+混合照明	hun he zhao ming	253
+火焰蔓延	huo yan man yan	375
+火焰探测器	huo yan tan ce qi	170
+火灾报警控制器	huo zai bao jing kong zhi qi	204
+火灾光警报器	huo zai guang jing bao qi	165
+火灾声光警报器	huo zai sheng guang jing bao qi	164
+火灾显示盘	huo zai xian shi pan	189
+火灾自动报警	huo zai zi dong bao jing	207
+火灾自动报警平面图	huo zai zi dong bao jing ping mian tu	444
+火灾自动报警系统	huo zai zi dong bao jing xi tong	206
+基础钢筋	ji chu gang jin	421
+基础接地平面图	ji chu jie di ping mian tu	442
+基础内钢筋	ji chu nei gang jin	420
+继电保护	ji dian bao hu	124
+继电器	ji dian qi	123
+机房层插座平面图	ji fang ceng cha zuo ping mian tu	445
+机房层电气平面图	ji fang ceng dian qi ping mian tu	461
+机房层配电平面图	ji fang ceng pei dian ping mian tu	469
+机房层弱电平面图	ji fang ceng ruo dian ping mian tu	453
+机房层照明平面图	ji fang ceng zhao ming ping mian tu	477
+急救医院	ji jiu yi yuan	106
+计量仪表	ji liang yi biao	122
+计容	ji rong	597
+寄宿制幼儿园	ji su zhi you er yuan	26
+计算电流	ji suan dian liu	121
+机械闭门器	ji xie bi men qi	175
+集中报警系统	ji zhong bao jing xi tong	209
+集中控制型系统	ji zhong kong zhi xing xi tong	212
+家居控制器	jia ju kong zhi qi	300
+家居配电箱	jia ju pei dian xiang	303
+家居配线箱	jia ju pei xian xiang	301
+甲类仓库	jia lei cang ku	577
+甲类厂房	jia lei chang fang	557
+家用火灾报警控制器	jia yong huo zai bao jing kong zhi qi	205
+建设单位	jian she dan wei	511
+简易洗消间	jian yi xi xiao jian	67
+建筑概况	jian zhu gai kuang	510
+建筑物防雷	jian zhu wu fang lei	430
+建筑主体	jian zhu zhu ti	509
+接地导体	jie di dao ti	418
+接地干线	jie di gan xian	413
+接地故障	jie di gu zhang	411
+接地极	jie di ji	409
+接地网	jie di wang	408
+接地系统	jie di xi tong	410
+结构形式	jie gou xing shi	508
+接闪带	jie shan dai	405
+接闪器	jie shan qi	406
+接线端子箱	jie xian duan zi xiang	199
+紧急报警按钮	jin ji bao jing an niu	277
+紧急报警装置	jin ji bao jing zhuang zhi	266
+金属构件	jin shu gou jian	507
+金属屋架	jin shu wu jia	506
+金属屋面	jin shu wu mian	505
+警卫照明	jing wei zhao ming	245
+救护站	jiu hu zhan	105
+局部等电位联结	ju bu deng dian wei lian jie	423
+局部照明	ju bu zhao ming	254
+聚氯乙烯绝缘	ju lv yi xi jue yuan	347
+开闭所	kai bi suo	147
+开关	kai guan	341
+开关柜	kai guan gui	128
+开关站	kai guan zhan	146
+抗爆单元	kang bao dan yuan	88
+可靠焊接	ke kao han jie	393
+可燃气体探测器	ke ran qi ti tan ce qi	167
+空调插座	kong tiao cha zuo	339
+控制柜	kong zhi gui	120
+控制原理图	kong zhi yuan li tu	119
+控制中心报警系统	kong zhi zhong xin bao jing xi tong	208
+口部	kou bu	84
+口部建筑	kou bu jian zhu	66
+框架	kuang jia	504
+浪涌保护器	lang yong bao hu qi	399
+冷冻泵	leng dong beng	15
+冷冻机组	leng dong ji zu	14
+冷却泵	leng que beng	13
+冷水机组	leng shui ji zu	12
+连接线	lian jie xian	392
+连通口	lian tong kou	81
+两路高压	liang lu gao ya	313
+临空墙	lin kong qiang	85
+临战时	lin zhan shi	111
+六类对双绞线	liu lei dui shuang jiao xian	351
+流量开关	liu liang kai guan	157
+漏电断路器	lou dian duan lu qi	336
+楼梯式出入口	lou ti shi chu ru kou	74
+落地安装	luo di an zhuang	279
+落地式配电箱	luo di shi pei dian xiang	307
+滤毒室	lv du shi	70
+滤毒通风	lv du tong feng	59
+绿色照明	lv se zhao ming	265
+门磁开关	men ci kai guan	177
+密闭处理	mi bi chu li	37
+密闭阀门	mi bi fa men	56
+密闭勒	mi bi le	34
+密闭门	mi bi men	72
+密闭套管	mi bi tao guan	35
+面板	mian ban	332
+明敷	ming fu	357
+明装	ming zhuang	331
+明装接闪带	ming zhuang jie shan dai	404
+末端切换	mo duan qie huan	280
+模块箱	mo kuai xiang	193
+母线槽	mu xian cao	361
+耐火电线电缆	nai huo dian xian dian lan	371
+耐火极限	nai huo ji xian	536
+耐火母线槽	nai huo mu xian cao	360
+内部电源	nei bu dian yuan	48
+内部电站	nei bu dian zhan	45
+年曝光量	nian bao guang liang	218
+排风机	pai feng ji	2
+排污泵	pai wu beng	8
+排烟风机	pai yan feng ji	5
+配电平面图	pei dian ping mian tu	476
+配电室	pei dian shi	137
+配电系统	pei dian xi tong	130
+配电系统图	pei dian xi tong tu	299
+配电箱	pei dian xiang	298
+配电箱系统图	pei dian xiang xi tong tu	294
+配电总箱	pei dian zong xiang	296
+配套工程	pei tao gong cheng	96
+喷淋泵	pen lin beng	11
+频闪效应	pin shan xiao ying	243
+平均照度	ping jun zhao du	261
+平时通风	ping shi tong feng	62
+平战	ping zhan	33
+平战合用	ping zhan he yong	32
+七类对双绞线	qi lei dui shuang jiao xian	349
+强电插座	qiang dian cha zuo	338
+强电井	qiang dian jing	285
+强电总平面图	qiang dian zong ping mian tu	486
+清洁区	qing jie qu	91
+清洁通风	qing jie tong feng	60
+区域报警器	qu yu bao jing qi	201
+区域电源	qu yu dian yuan	47
+区域火灾报警控制器	qu yu huo zai bao jing kong zhi qi	202
+区域显示器	qu yu xian shi qi	190
+全日制幼儿园	quan ri zhi you er yuan	27
+裙房	qun fang	582
+裙房商业	qun fang shang ye	581
+染毒区	ran du qu	90
+燃气泄漏报警	ran qi xie lou bao jing	276
+燃烧滴落物	ran shao di luo wu	376
+燃烧滴落物微粒	ran shao di luo wu wei li	377
+燃烧增长速率指数	ran shao zeng zhang su lv zhi shu	378
+热镀锌扁钢	re du xin bian gang	391
+热镀锌圆钢	re du xin yuan gang	390
+热释放速率	re shi fang su lv	382
+热释放总量	re shi fang zong liang	381
+人防固定电站	ren fang gu ding dian zhan	42
+人防围护结构	ren fang wei hu jie gou	86
+人防移动电站	ren fang yi dong dian zhan	39
+人防有效面积	ren fang you xiao mian ji	64
+人民防空地下室	ren min fang kong di xia shi	112
+人民防空工程	ren min fang kong gong cheng	114
+人员掩蔽工程	ren yuan yan bi gong cheng	99
+容积率	rong ji lv	598
+弱电插座	ruo dian cha zuo	337
+弱电井	ruo dian jing	284
+弱电平面图	ruo dian ping mian tu	460
+弱电总平面图	ruo dian zong ping mian tu	485
+三层插座平面图	san ceng cha zuo ping mian tu	449
+三层电气平面图	san ceng dian qi ping mian tu	465
+三层配电平面图	san ceng pei dian ping mian tu	473
+三层弱电平面图	san ceng ruo dian ping mian tu	457
+三层照明平面图	san ceng zhao ming ping mian tu	481
+三级负荷	san ji fu he	325
+三相负荷	san xiang fu he	323
+色温	se wen	224
+闪点	shan dian	520
+商业服务网点	shang ye fu wu wang dian	580
+设备安装	she bei an zhuang	288
+设备监控	she bei jian kong	287
+设计范围	she ji fan wei	610
+设计概况	she ji gai kuang	606
+设计任务书	she ji ren wu shu	609
+设计说明	she ji shuo ming	604
+设计图纸	she ji tu zhi	603
+设计要求	she ji yao qiu	608
+设计依据	she ji yi ju	607
+审批意见	shen pi yi jian	602
+声光警报器	sheng guang jing bao qi	163
+生活单元	sheng huo dan yuan	24
+生活水泵	sheng huo shui beng	9
+生活用房	sheng huo yong fang	25
+剩余电流	sheng yu dian liu	434
+识别对象	shi bie dui xiang	258
+施工图设计	shi gong tu she ji	611
+室内出入口	shi nei chu ru kou	82
+湿式报警阀	shi shi bao jing fa	152
+湿式报警阀组	shi shi bao jing fa zu	153
+室外出入口	shi wai chu ru kou	83
+室形指数	shi xing zhi shu	219
+市政	shi zheng	600
+手动报警按钮	shou dong bao jing an niu	183
+手动火灾报警按钮	shou dong huo zai bao jing an niu	166
+输出模块	shu chu mo kuai	195
+树干式	shu gan shi	312
+竖井式出入口	shu jing shi chu ru kou	75
+输入模块	shu ru mo kuai	197
+输入输出模块	shu ru shu chu mo kuai	198
+疏散楼梯	shu san lou ti	524
+疏散楼梯间	shu san lou ti jian	523
+疏散楼梯间前室	shu san lou ti jian qian shi	522
+疏散通道	shu san tong dao	525
+疏散照明	shu san zhao ming	249
+疏散走道	shu san zou dao	526
+双电源	shuang dian yuan	316
+双电源配电箱	shuang dian yuan pei dian xiang	289
+双电源切换箱	shuang dian yuan qie huan xiang	290
+双速排烟风机	shuang su pai yan feng ji	3
+水流指示器	shui liu zhi shi qi	159
+水箱间	shui xiang jian	16
+四层插座平面图	si ceng cha zuo ping mian tu	448
+四层电气平面图	si ceng dian qi ping mian tu	464
+四层配电平面图	si ceng pei dian ping mian tu	472
+四层弱电平面图	si ceng ruo dian ping mian tu	456
+四层照明平面图	si ceng zhao ming ping mian tu	480
+送风机	song feng ji	1
+套管	tao guan	38
+特低电压	te di dian ya	433
+特级负荷	te ji fu he	328
+特殊显色指数	te shu xian se zhi shu	225
+统一眩光值	tong yi xuan guang zhi	233
+图审意见	tu shen yi jian	601
+图像型火焰探测器	tu xiang xing huo yan tan ce qi	169
+图形显示装置	tu xing xian shi zhuang zhi	161
+图纸目录	tu zhi mu lu	441
+土中压缩波	tu zhong ya suo bo	92
+外界可导电部分	wai jie ke dao dian bu fen	397
+外露可导电部分	wai lu ke dao dian bu fen	398
+完全小学	wan quan xiao xue	31
+完全中学	wan quan zhong xue	29
+网络	wang luo	275
+网络布线系统	wang luo bu xian xi tong	274
+网络设备	wang luo she bei	273
+网线	wang xian	272
+维护系数	wei hu xi shu	257
+喂奶室	wei nai shi	22
+五层插座平面图	wu ceng cha zuo ping mian tu	447
+五层电气平面图	wu ceng dian qi ping mian tu	463
+五层配电平面图	wu ceng pei dian ping mian tu	471
+五层弱电平面图	wu ceng ruo dian ping mian tu	455
+五层照明平面图	wu ceng zhao ming ping mian tu	479
+屋顶层插座平面图	wu ding ceng cha zuo ping mian tu	446
+屋顶层电气平面图	wu ding ceng dian qi ping mian tu	462
+屋顶层配电平面图	wu ding ceng pei dian ping mian tu	470
+屋顶层弱电平面图	wu ding ceng ruo dian ping mian tu	454
+屋顶层照明平面图	wu ding ceng zhao ming ping mian tu	478
+屋顶防雷平面图	wu ding fang lei ping mian tu	443
+五方通话	wu fang tong hua	269
+戊类仓库	wu lei cang ku	561
+戊类厂房	wu lei chang fang	541
+五类对双绞线	wu lei dui shuang jiao xian	353
+无卤低烟	wu lu di yan	369
+无卤低烟电缆	wu lu di yan dian lan	367
+无卤低烟电线	wu lu di yan dian xian	365
+无障碍开关	wu zhang ai kai guan	340
+系统集成	xi tong ji cheng	210
+系统图	xi tong tu	308
+洗消间	xi xiao jian	68
+现浇混凝土楼板	xian jiao hun ning tu lou ban	503
+显色性	xian se xing	228
+显色指数	xian se zhi shu	227
+现行主要标准	xian xing zhu yao biao zhun	502
+现行主要规范	xian xing zhu yao gui fan	501
+箱变	xiang bian	129
+相关色温	xiang guan se wen	223
+相关专业	xiang guan zhuan ye	500
+消波设施	xiao bo she shi	71
+消防电话	xiao fang dian hua	187
+消防电话分机	xiao fang dian hua fen ji	185
+消防电梯	xiao fang dian ti	499
+消防电梯轿厢	xiao fang dian ti jiao xiang	498
+消防电源监控	xiao fang dian yuan jian kong	181
+消防广播	xiao fang guang bo	184
+消防联动	xiao fang lian dong	188
+消防联动控制器	xiao fang lian dong kong zhi qi	203
+消防应急标志灯具	xiao fang ying ji biao zhi deng ju	215
+消防应急灯具	xiao fang ying ji deng ju	217
+消防应急广播	xiao fang ying ji guang bo	162
+消防应急照明灯具	xiao fang ying ji zhao ming deng ju	216
+消防用电缆	xiao fang yong dian lan	363
+消防用电线	xiao fang yong dian xian	362
+消防用电线电缆	xiao fang yong dian xian dian lan	364
+消防专用电话	xiao fang zhuan yong dian hua	186
+消火栓按钮	xiao huo shuan an niu	160
+消火栓泵	xiao huo shuan beng	10
+小区管理中心	xiao qu guan li zhong xin	496
+新风机组	xin feng ji zu	6
+信号阀	xin hao fa	156
+信号原理图	xin hao yuan li tu	118
+眩光	xuan guang	236
+眩光值	xuan guang zhi	232
+压力开关	ya li kai guan	158
+掩蔽面积	yan bi mian ji	63
+液位传感器	ye wei chuan gan qi	148
+一般显色指数	yi ban xian se zhi shu	226
+一般照明	yi ban zhao ming	256
+一层插座平面图	yi ceng cha zuo ping mian tu	451
+一层电气平面图	yi ceng dian qi ping mian tu	467
+一层配电平面图	yi ceng pei dian ping mian tu	475
+一层弱电平面图	yi ceng ruo dian ping mian tu	459
+一层照明平面图	yi ceng zhao ming ping mian tu	483
+一次线路图	yi ci xian lu tu	117
+一等人员掩蔽所	yi deng ren yuan yan bi suo	98
+移动电站	yi dong dian zhan	41
+一级负荷	yi ji fu he	327
+乙类仓库	yi lei cang ku	573
+乙类厂房	yi lei chang fang	553
+一类高层办公	yi lei gao ceng ban gong	589
+一类高层建筑	yi lei gao ceng jian zhu	591
+一类高层酒店	yi lei gao ceng jiu dian	588
+一类高层住宅	yi lei gao ceng zhu zhai	590
+医疗救护工程	yi liao jiu hu gong cheng	108
+一路高压	yi lu gao ya	314
+引下线	yin xia xian	401
+应急电源	ying ji dian yuan	437
+应急照明	ying ji zhao ming	250
+应急照明集中电源	ying ji zhao ming ji zhong dian yuan	214
+应急照明控制器	ying ji zhao ming kong zhi qi	213
+应急照明配电箱	ying ji zhao ming pei dian xiang	291
+用电指标	yong dian zhi biao	329
+有线电视系统	you xian dian shi xi tong	271
+雨淋报警阀	yu lin bao jing fa	149
+雨淋报警阀组	yu lin bao jing fa zu	150
+预作用报警阀组	yu zuo yong bao jing fa zu	151
+远传电表	yuan chuan dian biao	345
+战时固定电站	zhan shi gu ding dian zhan	43
+战时通风	zhan shi tong feng	61
+战时移动电站	zhan shi yi dong dian zhan	40
+障碍照明	zhang ai zhao ming	244
+照度	zhao du	262
+照度均匀度	zhao du jun yun du	237
+照明负荷	zhao ming fu he	310
+照明干线	zhao ming gan xian	309
+照明功率密度	zhao ming gong lv mi du	220
+照明配电箱	zhao ming pei dian xiang	292
+照明平面图	zhao ming ping mian tu	484
+正常照明	zheng chang zhao ming	251
+值班照明	zhi ban zhao ming	246
+指挥工程	zhi hui gong cheng	109
+直接眩光	zhi jie xuan guang	235
+智能电表	zhi neng dian biao	344
+直通式出入口	zhi tong shi chu ru kou	78
+重点照明	zhong dian zhao ming	252
+中心医院	zhong xin yi yuan	107
+中性导体	zhong xing dao ti	415
+重要公共建筑	zhong yao gong gong jian zhu	579
+周界安全防范系统	zhou jie an quan fang fan xi tong	268
+周界防护系统	zhou jie fang hu xi tong	267
+住户配电箱	zhu hu pei dian xiang	304
+住户配线箱	zhu hu pei xian xiang	305
+住户弱电箱	zhu hu ruo dian xiang	302
+主筋	zhu jin	495
+主要设备表	zhu yao she bei biao	440
+住宅设计规范	zhu zhai she ji gui fan	494
+住宅小区	zhu zhai xiao qu	493
+专变变配电房	zhuan bian bian pei dian fang	144
+专变变配电所	zhuan bian bian pei dian suo	143
+专变变压器	zhuan bian bian ya qi	131
+专业队车辆掩蔽部	zhuan ye dui che liang yan bi bu	100
+专业队队员掩蔽部	zhuan ye dui dui yuan yan bi bu	102
+专业队装备掩蔽部	zhuan ye dui zhuang bei yan bi bu	101
+自备电源	zi bei dian yuan	46
+自动排气活门	zi dong pai qi huo men	54
+总等电位联结	zong deng dian wei lian jie	424
+总建筑面积	zong jian zhu mian ji	492
+总接地端子	zong jie di duan zi	412
+总配电箱	zong pei dian xiang	297
+总线短路隔离器	zong xian duan lu ge li qi	192
+总箱	zong xiang	295
+阻燃电线电缆	zu ran dian xian dian lan	373
+作业面	zuo ye mian	259
