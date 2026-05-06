@@ -13,3 +13,5 @@ todo/
 trash/
 *.json
 *.zip
+temp/
+ciku-*/
