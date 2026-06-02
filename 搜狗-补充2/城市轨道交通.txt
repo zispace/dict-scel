@@ -1,0 +1,890 @@
+# 词库名称: 城市轨道交通
+# 词库分类: 交通运输物流
+# 词库描述: 统一城市轨道交通（地铁/轻轨/单轨/磁浮等）专业术语、缩写、行话、工单常用词，消除沟通歧义；适配输入法、运维工单、调度日志、培训资料等场景，提升输入效率与文档规范性
+# 词条样例: 轻轨、单轨、配线、联络线、轨行区
+# 解析词数: 883
+# 解析异常: 0
+
+矮柱信号机	ai zhu xin hao ji	632
+安全出口	an quan chu kou	218
+安全带	an quan dai	321
+安全柜	an quan gui	266
+安全交底	an quan jiao di	690
+安全距离	an quan ju li	392
+安全帽	an quan mao	322
+安全生产管理协议	an quan sheng chan guan li xie yi	383
+安全线	an quan xian	869
+安全限界	an quan xian jie	340
+安全总部	an quan zong bu	325
+八节编组	ba jie bian zu	827
+白光带	bai guang dai	630
+半高屏蔽门	ban gao ping bi men	713
+半高柱信号机	ban gao zhu xin hao ji	633
+报警	bao jing	193
+抱死	bao si	8
+备案登记	bei an deng ji	147
+备车	bei che	855
+备用电源	bei yong dian yuan	155
+备用线	bei yong xian	493
+闭塞	bi se	506
+闭塞方式	bi se fang shi	842
+变电所	bian dian suo	610
+变流器故障	bian liu qi gu zhang	3
+变压器	bian ya qi	745
+编组调车	bian zu diao che	577
+丙级施工	bing ji shi gong	441
+补充计划	bu chong ji hua	450
+不落轮镟床	bu luo lun xuan chuang	523
+不落轮镟库	bu luo lun xuan ku	655
+不燃材料	bu ran cai liao	197
+材料线	cai liao xian	648
+仓前车辆段	cang qian che liang duan	668
+仓前车辆基地	cang qian che liang ji di	667
+操纵台	cao zong tai	76
+操作台	cao zuo tai	77
+拆封	chai feng	116
+拆接地线	chai jie di xian	404
+长交路	chang jiao lu	82
+场调	chang tiao	677
+常用制动	chang yong zhi dong	457
+超速行驶	chao su xing shi	304
+车场调度	che chang diao du	386
+车场线	che chang xian	868
+车底	che di	824
+车钩	che gou	798
+车辆段控制中心	che liang duan kong zhi zhong xin	682
+车辆故障	che liang gu zhang	334
+车辆基地	che liang ji di	666
+车辆检修	che liang jian xiu	794
+车辆下轨	che liang xia gui	120
+车列	che lie	823
+车门	che men	820
+车门故障	che men gu zhang	330
+车体	che ti	821
+车载设备	che zai she bei	542
+车载通信	che zai tong xin	329
+车载微机	che zai wei ji	40
+车载信号	che zai xin hao	779
+车站	che zhan	717
+沉降观测	chen jiang guan ce	724
+城市轨道交通	cheng shi gui dao jiao tong	883
+斥离	chi li	589
+持证上岗	chi zheng shang gang	376
+充电区	chong dian qu	258
+重开信号	chong kai xin hao	549
+重联机车	chong lian ji che	90
+充停区	chong ting qu	257
+触电急救	chu dian ji jiu	311
+出段线	chu duan xian	651
+出段信号机	chu duan xin hao ji	635
+出库	chu ku	482
+出库检查	chu ku jian cha	33
+出库信号机	chu ku xin hao ji	637
+初期火灾扑救	chu qi huo zai pu jiu	282
+出入段线	chu ru duan xian	874
+垂直电梯	chui zhi dian ti	702
+磁浮	ci fu	878
+从轮	cong lun	59
+存车线	cun che xian	870
+大交路	da jiao lu	498
+大厅	da ting	663
+大责任区	da ze ren qu	170
+待避	dai bi	472
+代签	dai qian	96
+单钩溜放	dan gou liu fang	579
+单轨	dan gui	879
+单机运行	dan ji yun xing	19
+单线双向	dan xian shuang xiang	465
+挡烟垂壁	dang yan chui bi	236
+道岔	dao cha	776
+道岔扳不动	dao cha ban bu dong	585
+道岔编号	dao cha bian hao	641
+道岔单操	dao cha dan cao	563
+道岔单解	dao cha dan jie	561
+道岔单锁	dao cha dan suo	562
+道岔卡阻	dao cha ka zu	586
+道岔失表	dao cha shi biao	103
+道岔锁闭	dao cha suo bi	558
+道床	dao chuang	732
+道路沉降	dao lu chen jiang	339
+道缺口	dao que kou	588
+敌对进路	di dui jin lu	833
+地面落差	di mian luo cha	98
+地面信号	di mian xin hao	778
+第三轨	di san gui	753
+地铁	di tie	882
+地铁列车	di tie lie che	832
+低压柜	di ya gui	25
+低压配电	di ya pei dian	700
+地址故障	di zhi gu zhang	110
+电动车辆消防	dian dong che liang xiao fang	260
+电动隔离开关	dian dong ge li kai guan	606
+电动转辙机	dian dong zhuan zhe ji	592
+电动自行车	dian dong zi xing che	259
+电话闭塞	dian hua bi se	838
+电话闭塞法	dian hua bi se fa	503
+电机接地	dian ji jie di	2
+电客车	dian ke che	534
+电客车调试任务书	dian ke che tiao shi ren wu shu	395
+电缆井	dian lan jing	212
+电力机车	dian li ji che	94
+电力监控	dian li jian kong	740
+电力蓄电池机车	dian li xu dian chi ji che	531
+电气火灾报警	dian qi huo zai bao jing	105
+电气火灾监控	dian qi huo zai jian kong	353
+电气火灾监控系统	dian qi huo zai jian kong xi tong	248
+电气联锁	dian qi lian suo	626
+电调	dian tiao	680
+电源	dian yuan	154
+电制动	dian zhi dong	807
+电阻制动	dian zu zhi dong	54
+调车进路	diao che jin lu	583
+调车联控	diao che lian kong	143
+调车联控用语	diao che lian kong yong yu	142
+调车信号机	diao che xin hao ji	639
+调车作业	diao che zuo ye	584
+调度电话	diao du dian hua	762
+调度命令	diao du ming ling	389
+吊装作业	diao zhuang zuo ye	399
+定位	ding wei	560
+定修	ding xiu	791
+动车	dong che	826
+动车组	dong che zu	831
+动车作业	dong che zuo ye	393
+动火审批	dong huo shen pi	210
+动火作业	dong huo zuo ye	402
+动轮	dong lun	60
+渡线	du xian	872
+短交路	duan jiao lu	81
+断路器	duan lu qi	746
+段内限速	duan nei xian su	512
+对标停车	dui biao ting che	13
+对位	dui wei	480
+多机重联	duo ji chong lian	88
+惰力运行	duo li yun xing	17
+二系悬挂	er xi xuan gua	799
+二氧化碳灭火器	er yang hua tan mie huo qi	227
+发车作业	fa che zuo ye	573
+反方向运行	fan fang xiang yun xing	464
+反位	fan wei	559
+反向通过	fan xiang tong guo	508
+反向运行	fan xiang yun xing	844
+防爆	fang bao	167
+防护员	fang hu yuan	423
+防护栅栏	fang hu zha lan	342
+防滑行	fang hua xing	42
+防滑装置	fang hua zhuang zhi	44
+防火标识	fang huo biao zhi	177
+防火阀	fang huo fa	235
+防火分隔	fang huo fen ge	214
+防火封堵	fang huo feng du	152
+防火钩	fang huo gou	222
+防火检查	fang huo jian cha	290
+防火卷帘	fang huo juan lian	237
+防火门	fang huo men	238
+防火墙	fang huo qiang	213
+防火巡查	fang huo xun cha	291
+房建设备	fang jian she bei	357
+防静电	fang jing dian	166
+防空转	fang kong zhuan	43
+防雷接地	fang lei jie di	165
+防溜	fang liu	520
+防误闭锁	fang wu bi suo	601
+防淹门	fang yan men	712
+防烟面罩	fang yan mian zhao	220
+防烟系统	fang yan xi tong	239
+非常规消防水作业	fei chang gui xiao fang shui zuo ye	397
+非计划取消	fei ji hua qu xiao	379
+分路不良	fen lu bu liang	769
+分配阀	fen pei fa	47
+封锁	feng suo	555
+封锁范围	feng suo fan wei	344
+封锁命令	feng suo ming ling	408
+封锁作业	feng suo zuo ye	696
+封线	feng xian	117
+风险辨识	feng xian bian shi	375
+附挂运行	fu gua yun xing	20
+复诵	fu song	140
+复诵确认	fu song que ren	671
+辅站	fu zhan	430
+辅助变流器	fu zhu bian liu qi	62
+辅助系统	fu zhu xi tong	812
+盖板漏水	gai ban lou shui	99
+改扩建消防	gai kuo jian xiao fang	180
+赶点	gan dian	471
+干粉灭火器	gan fen mie huo qi	228
+感温探测器	gan wen tan ce qi	250
+感烟探测器	gan yan tan ce qi	251
+钢轨	gang gui	734
+钢轨打磨车	gang gui da mo che	528
+高层建筑消防管理	gao ceng jian zhu xiao fang guan li	270
+高处作业	gao chu zuo ye	400
+高峰小时	gao feng xiao shi	859
+高位水箱	gao wei shui xiang	162
+高压柜	gao ya gui	26
+隔离防护	ge li fang hu	409
+隔离开关	ge li kai guan	747
+隔离区	ge li qu	391
+给排水系统	gei pai shui xi tong	707
+跟随所	gen sui suo	609
+工程车	gong cheng che	533
+工程车库	gong cheng che ku	657
+工程车作业任务书	gong cheng che zuo ye ren wu shu	394
+供电分区	gong dian fen qu	607
+供电检修	gong dian jian xiu	360
+供电系统	gong dian xi tong	758
+工器具清点	gong qi ju qing dian	414
+公铁两用车	gong tie liang yong che	526
+工完料净场地清	gong wan liao jing chang di qing	378
+公务电话	gong wu dian hua	763
+共用场所	gong yong chang suo	347
+工作服	gong zuo fu	320
+钩锁器	gou suo qi	600
+股道	gu dao	492
+股道编号	gu dao bian hao	491
+股道沉降	gu dao chen jiang	338
+股道封锁	gu dao feng suo	552
+股道空闲	gu dao kong xian	130
+固定闭塞	gu ding bi se	839
+鼓型车	gu xing che	829
+故障报警	gu zhang bao jing	106
+故障报修	gu zhang bao xiu	150
+故障处理	gu zhang chu li	365
+故障记录	gu zhang ji lu	35
+故障维修记录	gu zhang wei xiu ji lu	185
+故障修	gu zhang xiu	788
+挂接地线	gua jie di xian	405
+关闭信号	guan bi xin hao	545
+管道井	guan dao jing	211
+广播系统	guang bo xi tong	615
+轨道	gui dao	735
+轨道电路	gui dao dian lu	774
+轨道检测车	gui dao jian ce che	530
+轨道检修	gui dao jian xiu	362
+轨道巡检	gui dao xun jian	725
+归口管理部门	gui kou guan li bu men	384
+轨行区	gui xing qu	866
+轨枕	gui zhen	733
+过负荷故障	guo fu he gu zhang	111
+杭港地铁	hang gang di tie	348
+号线	hao xian	669
+和谐型机车	he xie xing ji che	92
+红光带	hong guang dai	770
+红闪灯	hong shan deng	599
+护轨	hu gui	727
+呼叫	hu jiao	137
+画面无法显示	hua mian wu fa xian shi	108
+滑行	hua xing	9
+化学品安全说明书	hua xue pin an quan shuo ming shu	207
+缓冲器	huan chong qi	797
+缓解	huan jie	455
+环控系统	huan kong xi tong	710
+环调	huan tiao	679
+环网电缆	huan wang dian lan	608
+换向手柄	huan xiang shou bing	72
+汇报情况	hui bao qing kuang	124
+恢复作业	hui fu zuo ye	125
+回库	hui ku	478
+回流线	hui liu xian	749
+会让	hui rang	473
+回执	hui zhi	138
+火警	huo jing	194
+火情处置	huo qing chu zhi	195
+火灾报警	huo zai bao jing	705
+火灾报警设备	huo zai bao jing she bei	620
+火灾调查	huo zai diao cha	192
+火灾风险管控	huo zai feng xian guan kong	287
+火灾高危单位	huo zai gao wei dan wei	271
+火灾隐患	huo zai yin huan	289
+火灾自动报警系统	huo zai zi dong bao jing xi tong	252
+机车编组	ji che bian zu	87
+机车车号	ji che che hao	86
+机车乘务	ji che cheng wu	78
+机车故障	ji che gu zhang	7
+机车交路	ji che jiao lu	83
+机车救援	ji che jiu yuan	22
+机车配属	ji che pei shu	85
+机车信号	ji che xin hao	37
+机车折返	ji che zhe fan	80
+机车整备	ji che zheng bei	79
+机车周转	ji che zhou zhuan	84
+基础制动	ji chu zhi dong	804
+机电检修	ji dian jian xiu	358
+集电靴	ji dian xue	816
+计划车次	ji hua che ci	501
+计划兑现率	ji hua dui xian lv	381
+机械联锁	ji xie lian suo	625
+计轴	ji zhou	631
+计轴故障	ji zhou gu zhang	101
+计轴设备	ji zhou she bei	773
+机走线	ji zou xian	485
+加封	jia feng	557
+甲级施工	jia ji shi gong	443
+加开	jia kai	463
+加开列车	jia kai lie che	853
+架空接触网	jia kong jie chu wang	752
+架修	jia xiu	790
+检查记录	jian cha ji lu	188
+检调	jian diao	678
+尖轨	jian gui	729
+尖轨密贴	jian gui mi tie	590
+监控	jian kong	38
+监控失联	jian kong shi lian	107
+监控装置	jian kong zhuang zhi	39
+检修股道	jian xiu gu dao	489
+检修库	jian xiu ku	659
+建筑材料阻燃	jian zhu cai liao zu ran	199
+建筑限界	jian zhu xian jie	720
+降弓	jiang gong	66
+降级	jiang ji	541
+降压变电所	jiang ya bian dian suo	755
+交底违规	jiao di wei gui	95
+交接班记录	jiao jie ban ji lu	186
+交流供电	jiao liu gong dian	742
+交路	jiao lu	499
+交路计划	jiao lu ji hua	861
+交通安全	jiao tong an quan	307
+解编	jie bian	795
+接车作业	jie che zuo ye	572
+解除封锁	jie chu feng suo	550
+接触轨	jie chu gui	751
+接触网	jie chu wang	754
+接触网挂线	jie chu wang gua xian	368
+接触网取流	jie chu wang qu liu	64
+接触网失电	jie chu wang shi dian	100
+接触网送电	jie chu wang song dian	406
+接触网停电	jie chu wang ting dian	407
+接触网巡检	jie chu wang xun jian	738
+接触网作业车	jie chu wang zuo ye che	527
+接地	jie di	118
+接地线	jie di xian	748
+接地线登记	jie di xian deng ji	371
+接地闸刀	jie di zha dao	604
+接地装置	jie di zhuang zhi	23
+接发列车	jie fa lie che	574
+解封	jie feng	556
+禁动牌	jin dong pai	518
+紧急停车	jin ji ting che	685
+紧急制动	jin ji zhi dong	458
+进路办理	jin lu ban li	836
+进路解锁	jin lu jie suo	834
+进路排好	jin lu pai hao	132
+进路锁闭	jin lu suo bi	835
+禁烟标识	jin yan biao zhi	178
+警惕按钮	jing ti an niu	71
+静调电源柜	jing tiao dian yuan gui	612
+酒后驾驶	jiu hou jia shi	303
+救援	jiu yuan	467
+救援列车	jiu yuan lie che	535
+均衡风缸	jun heng feng gang	51
+开放信号	kai fang xin hao	546
+可燃材料	ke ran cai liao	198
+可燃气体	ke ran qi ti	264
+客室	ke shi	819
+可视化接地	ke shi hua jie di	369
+空点	kong dian	433
+空气制动	kong qi zhi dong	808
+空驶	kong shi	477
+空调故障	kong tiao gu zhang	331
+空调水系统	kong tiao shui xi tong	709
+空调系统	kong tiao xi tong	811
+空压机	kong ya ji	53
+控制系统	kong zhi xi tong	41
+空转	kong zhuan	10
+扣车	kou che	850
+口头命令	kou tou ming ling	673
+库线	ku xian	484
+馈线	kui xian	750
+劳保用品	lao bao yong pin	323
+劳动防护	lao dong fang hu	324
+类施工	lei shi gong	440
+锂电安全	li dian an quan	262
+立即停车	li ji ting che	127
+练兵线	lian bing xian	645
+连挂	lian gua	796
+联控呼叫	lian kong hu jiao	672
+联控应答	lian kong ying da	141
+联络线	lian luo xian	873
+联锁机	lian suo ji	785
+联锁计算机	lian suo ji suan ji	629
+联锁失效	lian suo shi xiao	767
+联锁系统	lian suo xi tong	786
+连续溜放	lian xu liu fang	578
+列车编组	lie che bian zu	822
+列车管	lie che guan	50
+列车救援	lie che jiu yuan	687
+列车信号机	lie che xin hao ji	638
+列车运行图	lie che yun xing tu	502
+列车追踪	lie che zhui zong	843
+列检	lie jian	356
+临时加车	lin shi jia che	852
+临时施工	lin shi shi gong	448
+临时限速	lin shi xian su	516
+临时用电	lin shi yong dian	398
+临修	lin xiu	789
+零速	ling su	460
+溜放调车	liu fang diao che	580
+六节编组	liu jie bian zu	828
+漏电故障	lou dian gu zhang	112
+轮对	lun dui	803
+轮对镟修	lun dui xuan xiu	522
+轮轨黏着	lun gui nian zhe	11
+轮缘	lun yuan	57
+门禁系统	men jin xi tong	701
+门体干涉	men ti gan she	97
+灭火和应急疏散演练	mie huo he ying ji shu san yan lian	284
+灭火器	mie huo qi	229
+灭火器台账	mie huo qi tai zhang	184
+灭火毯	mie huo tan	225
+明白	ming bai	135
+鸣笛按钮	ming di an niu	70
+末班车	mo ban che	856
+末端试水装置	mo duan shi shui zhuang zhi	158
+模式	mo shi	540
+木止轮器	mu zhi lun qi	519
+难燃材料	nan ran cai liao	196
+内部治安	nei bu zhi an	308
+内燃机车	nei ran ji che	93
+内燃调机	nei ran tiao ji	532
+逆向运行	ni xiang yun xing	16
+派班工作站	pai ban gong zuo zhan	622
+排列进路	pai lie jin lu	570
+排水系统	pai shui xi tong	711
+排烟防火阀	pai yan fang huo fa	234
+排烟系统	pai yan xi tong	708
+盘形制动	pan xing zhi dong	45
+旁站监督	pang zhan jian du	374
+配合作业联络单	pei he zuo ye lian luo dan	418
+配线	pei xian	875
+培训线	pei xun xian	646
+喷淋系统	pen lin xi tong	241
+平板车	ping ban che	529
+屏蔽门	ping bi men	715
+平峰时段	ping feng shi duan	858
+平交道口	ping jiao dao kou	643
+平均管	ping jun guan	28
+平稳操纵	ping wen cao zong	12
+坡道起动	po dao qi dong	15
+坡道停车	po dao ting che	14
+气灭控制盒	qi mie kong zhi he	619
+气灭系统	qi mie xi tong	617
+气体灭火	qi ti mie huo	704
+气体灭火系统	qi ti mie huo xi tong	618
+气压水罐	qi ya shui guan	159
+牵出线	qian chu xian	649
+牵引变电所	qian yin bian dian suo	756
+牵引变流器	qian yin bian liu qi	813
+牵引电机	qian yin dian ji	814
+牵引故障	qian yin gu zhang	333
+牵引降压混合变电所	qian yin jiang ya hun he bian dian suo	611
+牵引手柄	qian yin shou bing	74
+牵引无流	qian yin wu liu	6
+牵引系统	qian yin xi tong	815
+牵引运行	qian yin yun xing	18
+抢修计划	qiang xiu ji hua	449
+抢修流程	qiang xiu liu cheng	366
+抢修作业	qiang xiu zuo ye	367
+侵限	qin xian	719
+请点	qing dian	695
+轻轨	qing gui	880
+清客	qing ke	851
+请求进路	qing qiu jin lu	133
+区段封锁	qu duan feng suo	553
+区段故障解锁	qu duan gu zhang jie suo	564
+区间疏散	qu jian shu san	686
+取送调车	qu song diao che	582
+取消进路	qu xiao jin lu	568
+区域控制器	qu yu kong zhi qi	781
+全高屏蔽门	quan gao ping bi men	714
+全站解锁	quan zhan jie suo	547
+缺口监测	que kou jian ce	587
+确认	que ren	139
+燃气安全	ran qi an quan	263
+热备车	re bei che	854
+人工闭塞	ren gong bi se	504
+人工呼吸	ren gong hu xi	310
+人工驾驶	ren gong jia shi	538
+人工解锁	ren gong jie suo	567
+人货混装	ren huo hun zhuang	305
+人员出清	ren yuan chu qing	412
+人员下轨	ren yuan xia gui	121
+认证	ren zheng	201
+日常检查	ri chang jian cha	34
+日计划	ri ji hua	453
+日检	ri jian	793
+入段线	ru duan xian	650
+入段信号机	ru duan xin hao ji	636
+入库	ru ku	481
+入库检查	ru ku jian cha	32
+弱电系统	ruo dian xi tong	699
+撒沙阀	sa sha fa	68
+撒沙装置	sa sha zhuang zhi	69
+三不动	san bu dong	318
+三不离	san bu li	317
+三懂三会	san dong san hui	314
+三级安全教育	san ji an quan jiao yu	312
+三级检查制度	san ji jian cha zhi du	313
+三清	san qing	315
+色灯信号	se deng xin hao	36
+擅自取消作业	shan zi qu xiao zuo ye	380
+上电解锁	shang dian jie suo	548
+上线	shang xian	479
+设备恢复	she bei hui fu	411
+设备检修	she bei jian xiu	364
+设备限界	she bei xian jie	721
+设备巡检	she bei xun jian	337
+设施维护	she shi wei hu	363
+设置进路	she zhi jin lu	569
+升弓	sheng gong	67
+试车线	shi che xian	867
+试车限速	shi che xian su	514
+始发	shi fa	496
+施工	shi gong	439
+施工安全	shi gong an quan	446
+施工承认号	shi gong cheng ren hao	432
+施工方案	shi gong fang an	373
+施工防护	shi gong fang hu	410
+施工分级	shi gong fen ji	445
+施工封锁	shi gong feng suo	551
+施工负责人	shi gong fu ze ren	427
+施工管理流程	shi gong guan li liu cheng	346
+施工红线	shi gong hong xian	336
+施工计划	shi gong ji hua	698
+施工监管人	shi gong jian guan ren	425
+施工监护	shi gong jian hu	691
+施工检修管理办法	shi gong jian xiu guan li ban fa	454
+施工进场许可单	shi gong jin chang xu ke dan	416
+施工考核	shi gong kao he	350
+施工联络人	shi gong lian luo ren	426
+施工请点	shi gong qing dian	437
+施工请销点	shi gong qing xiao dian	438
+施工请销点清单	shi gong qing xiao dian qing dan	415
+施工统计	shi gong tong ji	351
+施工围挡	shi gong wei dang	343
+施工违规	shi gong wei gui	349
+施工销点	shi gong xiao dian	436
+施工消防安全	shi gong xiao fang an quan	182
+施工协调会	shi gong xie tiao hui	420
+施工行车通告	shi gong xing che tong gao	421
+施工组织	shi gong zu zhi	447
+实际车次	shi ji che ci	500
+时刻表	shi ke biao	862
+室内消火栓	shi nei xiao huo shuan	244
+视频监控	shi pin jian kong	760
+视频监控系统	shi pin jian kong xi tong	616
+室外消火栓	shi wai xiao huo shuan	243
+市域快轨	shi yu kuai gui	881
+首班车	shou ban che	857
+手持台	shou chi tai	614
+收到	shou dao	136
+受电弓	shou dian gong	817
+受电弓故障	shou dian gong gu zhang	4
+受电弓滑板	shou dian gong hua ban	65
+手动报警按钮	shou dong bao jing an niu	249
+手动隔离开关	shou dong ge li kai guan	605
+手动模式	shou dong mo shi	537
+手摇把	shou yao ba	593
+属地管理	shu di guan li	172
+数据通信系统	shu ju tong xin xi tong	780
+书面命令	shu mian ming ling	674
+疏散标识	shu san biao zhi	176
+疏散通道	shu san tong dao	217
+疏散指示标志	shu san zhi shi biao zhi	232
+双机重联	shuang ji chong lian	89
+双切电源	shuang qie dian yuan	156
+双周三月检库	shuang zhou san yue jian ku	658
+水泵接合器	shui beng jie he qi	161
+水基型灭火器	shui ji xing mie huo qi	226
+四不放过	si bu fang guo	316
+四懂四会	si dong si hui	174
+四个能力	si ge neng li	173
+司机室	si ji shi	818
+司控器	si kong qi	75
+四全安全管理	si quan an quan guan li	326
+司调联系法	si tiao lian xi fa	571
+送电作业	song dian zuo ye	736
+速度码	su du ma	459
+隧道	sui dao	718
+碎石道床	sui shi dao chuang	730
+踏面	ta mian	56
+踏面磨耗	ta mian mo hao	55
+探照灯	tan zhao deng	594
+特级施工	te ji shi gong	444
+特种作业	te zhong zuo ye	377
+天窗	tian chuang	345
+天窗时间	tian chuang shi jian	697
+调机工程车库	tiao ji gong cheng che ku	656
+调试作业	tiao shi zuo ye	575
+跳停	tiao ting	848
+苕溪站	tiao xi zhan	665
+跳站	tiao zhan	468
+停车股道	ting che gu dao	487
+停车库	ting che ku	486
+停电防护区段	ting dian fang hu qu duan	403
+停电作业	ting dian zuo ye	737
+停放制动	ting fang zhi dong	805
+停送电作业票	ting song dian zuo ye piao	372
+停用报备	ting yong bao bei	149
+通风系统	tong feng xi tong	810
+通信检修	tong xin jian xiu	359
+通信系统	tong xin xi tong	766
+通讯故障	tong xun gu zhang	115
+通用安全管理办法	tong yong an quan guan li ban fa	328
+推送调车	tui song diao che	581
+退行	tui xing	466
+拖车	tuo che	825
+外单位施工作业许可单	wai dan wei shi gong zuo ye xu ke dan	417
+外单位消防管理	wai dan wei xiao fang guan li	269
+晚班备车	wan ban bei che	536
+晚点	wan dian	470
+网压异常	wang ya yi chang	1
+维保单位	wei bao dan wei	202
+维护监测系统	wei hu jian ce xi tong	543
+微机联锁	wei ji lian suo	628
+危险化学品	wei xian hua xue pin	267
+微型消防站	wei xing xiao fang zhan	295
+微站副站长	wei zhan fu zhan zhang	293
+微站站长	wei zhan zhan zhang	294
+违章用电	wei zhang yong dian	255
+违章作业	wei zhang zuo ye	335
+稳压泵	wen ya beng	160
+五防锁系统	wu fang suo xi tong	602
+无火回送	wu huo hui song	21
+五距管理	wu ju guan li	168
+无线列调	wu xian lie tiao	761
+无线通信	wu xian tong xin	765
+无异常	wu yi chang	129
+无占用	wu zhan yong	462
+无证驾驶	wu zheng jia shi	306
+洗车股道	xi che gu dao	488
+洗车库	xi che ku	653
+洗车限速	xi che xian su	515
+洗车作业	xi che zuo ye	525
+细水雾灭火系统	xi shui wu mie huo xi tong	246
+系统	xi tong	739
+系统时间不符	xi tong shi jian bu fu	109
+现场保护	xian chang bao hu	191
+现场处置方案	xian chang chu zhi fang an	144
+现场防护	xian chang fang hu	692
+现场确认	xian chang que ren	122
+现场暂存	xian chang zan cun	208
+现地工作站	xian di gong zuo zhan	623
+现地控制工作站	xian di kong zhi gong zuo zhan	624
+限界	xian jie	723
+线路	xian lu	877
+线路出清	xian lu chu qing	413
+线路养护	xian lu yang hu	726
+限速	xian su	517
+线网施工	xian wang shi gong	419
+相关方作业	xiang guan fang zuo ye	382
+消安委	xiao an wei	301
+销点	xiao dian	694
+销点登记	xiao dian deng ji	435
+销点站	xiao dian zhan	429
+消防安全承诺	xiao fang an quan cheng nuo	279
+消防安全管理办法	xiao fang an quan guan li ban fa	302
+消防安全管理人	xiao fang an quan guan li ren	297
+消防安全评估	xiao fang an quan ping gu	286
+消防安全委员会	xiao fang an quan wei yuan hui	300
+消防安全责任人	xiao fang an quan ze ren ren	298
+消防备案	xiao fang bei an	204
+消防标识	xiao fang biao zhi	179
+消防铲	xiao fang chan	223
+消防产品	xiao fang chan pin	200
+消防车通道	xiao fang che tong dao	216
+消防大队	xiao fang da dui	146
+消防档案	xiao fang dang an	278
+消防登高场地	xiao fang deng gao chang di	215
+消防电源监控	xiao fang dian yuan jian kong	352
+消防电源监控报警	xiao fang dian yuan jian kong bao jing	104
+消防电源监控系统	xiao fang dian yuan jian kong xi tong	247
+消防供电	xiao fang gong dian	157
+消防工作领导小组	xiao fang gong zuo ling dao xiao zu	299
+消防合法性文件	xiao fang he fa xing wen jian	206
+消防检测	xiao fang jian ce	203
+消防控制室	xiao fang kong zhi shi	661
+消防联动	xiao fang lian dong	153
+消防培训	xiao fang pei xun	280
+消防器材	xiao fang qi cai	253
+消防砂	xiao fang sha	224
+消防设施	xiao fang she shi	254
+消防设施操作员	xiao fang she shi cao zuo yuan	296
+消防设施登记表	xiao fang she shi deng ji biao	183
+消防设施检测	xiao fang she shi jian ce	285
+消防疏散图	xiao fang shu san tu	219
+消防水泵	xiao fang shui beng	242
+消防水池	xiao fang shui chi	163
+消防水源	xiao fang shui yuan	164
+消防水作业许可单	xiao fang shui zuo ye xu ke dan	396
+消防台账	xiao fang tai zhang	190
+消防维保	xiao fang wei bao	151
+消防系统	xiao fang xi tong	706
+消防宣传教育	xiao fang xuan chuan jiao yu	281
+消防演练评估	xiao fang yan lian ping gu	148
+消防验收	xiao fang yan shou	205
+消防应急广播	xiao fang ying ji guang bo	231
+消防员	xiao fang yuan	292
+消防责任牌	xiao fang ze ren pai	175
+消防重点部位	xiao fang zhong dian bu wei	272
+消防专用电话	xiao fang zhuan yong dian hua	230
+消火栓系统	xiao huo shuan xi tong	245
+小交路	xiao jiao lu	497
+消控室	xiao kong shi	662
+小责任区	xiao ze ren qu	169
+卸车线	xie che xian	647
+信标	xin biao	771
+信号灯	xin hao deng	597
+信号封锁	xin hao feng suo	554
+信号故障	xin hao gu zhang	114
+信号机	xin hao ji	777
+信号机编号	xin hao ji bian hao	640
+信号机无法开放	xin hao ji wu fa kai fang	102
+信号加封	xin hao jia feng	370
+信号检修	xin hao jian xiu	361
+信号降级	xin hao jiang ji	768
+信号开放	xin hao kai fang	131
+信号联锁	xin hao lian suo	627
+信号旗	xin hao qi	598
+信号系统	xin hao xi tong	787
+新线消防管理	xin xian xiao fang guan li	181
+型槽	xing cao	644
+型车	xing che	830
+行车备品	xing che bei pin	596
+行车调度命令	xing che diao du ming ling	388
+行车命令	xing che ming ling	675
+行车凭证	xing che ping zheng	837
+行车日志	xing che ri zhi	670
+行车限界	xing che xian jie	722
+行车指挥	xing che zhi hui	864
+行车组织	xing che zu zhi	865
+型机车	xing ji che	91
+行调	xing tiao	681
+胸外心脏挤压	xiong wai xin zang ji ya	309
+蓄电池	xu dian chi	24
+蓄电池安全	xu dian chi an quan	261
+镟轮库	xuan lun ku	654
+镟轮作业	xuan lun zuo ye	524
+巡查记录	xun cha ji lu	189
+巡查式监管	xun cha shi jian guan	424
+巡道	xun dao	483
+压道	ya dao	510
+压调车	ya diao che	511
+压轨	ya gui	509
+压缩间隔	ya suo jian ge	475
+延点	yan dian	434
+验电	yan dian	119
+咽喉区	yan hou qu	642
+液压转辙机	ye ya zhuan zhe ji	591
+异步牵引电机	yi bu qian yin dian ji	61
+一车一档案	yi che yi dang an	275
+异地销点	yi di xiao dian	428
+移动闭塞	yi dong bi se	841
+移动授权	yi dong shou quan	507
+乙级施工	yi ji shi gong	442
+一库一档案	yi ku yi dang an	274
+一楼一档案	yi lou yi dang an	277
+易燃易爆品	yi ran yi bao pin	268
+易燃易爆品库	yi ran yi bao pin ku	209
+一事一令	yi shi yi ling	387
+一所一档案	yi suo yi dang an	273
+一系悬挂	yi xi xuan gua	800
+一站一档案	yi zhan yi dang an	276
+引导进路	yin dao jin lu	566
+引导信号	yin dao xin hao	544
+引导总锁	yin dao zong suo	565
+隐患排查	yin huan pai cha	689
+隐患整改	yin huan zheng gai	288
+应答器	ying da qi	772
+荧光服	ying guang fu	319
+应急处置	ying ji chu zhi	688
+应急灯	ying ji deng	595
+应急联动	ying ji lian dong	684
+应急疏散	ying ji shu san	283
+应急照明	ying ji zhao ming	233
+用电安全	yong dian an quan	256
+有限空间作业	you xian kong jian zuo ye	401
+员工安全行为守则	yuan gong an quan xing wei shou ze	327
+月计划	yue ji hua	451
+月检	yue jian	792
+越区供电	yue qu gong dian	603
+越站	yue zhan	849
+运营间隔	yun ying jian ge	860
+运营控制中心	yun ying kong zhi zhong xin	683
+运营图	yun ying tu	863
+运用股道	yun yong gu dao	490
+运用库	yun yong ku	660
+运转维修综合楼	yun zhuan wei xiu zong he lou	664
+杂散电流	za san dian liu	741
+载客	zai ke	476
+再生制动	zai sheng zhi dong	806
+暂停作业	zan ting zuo ye	126
+早点	zao dian	469
+责任区	ze ren qu	171
+闸瓦制动	zha wa zhi dong	46
+摘挂调车	zhai gua diao che	576
+站后折返	zhan hou zhe fan	845
+站前折返	zhan qian zhe fan	846
+站台	zhan tai	716
+站台门	zhan tai men	354
+占用	zhan yong	461
+长大区间	zhang da qu jian	390
+兆无线	zhao wu xian	613
+辙叉	zhe cha	728
+折返	zhe fan	494
+折返线	zhe fan xian	871
+折返作业	zhe fan zuo ye	847
+折角塞门	zhe jiao sai men	30
+整流器	zheng liu qi	744
+整体道床	zheng ti dao chuang	731
+正线	zheng xian	876
+正线限速	zheng xian xian su	513
+值班记录	zhi ban ji lu	187
+值班员	zhi ban yuan	385
+值班主任	zhi ban zhu ren	676
+制动缸	zhi dong gang	49
+制动故障	zhi dong gu zhang	332
+制动缓解	zhi dong huan jie	456
+制动失效	zhi dong shi xiao	5
+制动手柄	zhi dong shou bing	73
+制动系统	zhi dong xi tong	809
+直流供电	zhi liu gong dian	743
+执行完毕	zhi xing wan bi	134
+重大危险源	zhong da wei xian yuan	265
+终到	zhong dao	495
+中继阀	zhong ji fa	48
+重联线	zhong lian xian	27
+周计划	zhou ji hua	452
+周检	zhou jian	355
+轴温	zhou wen	58
+轴箱	zhou xiang	802
+主变电所	zhu bian dian suo	757
+主变压器	zhu bian ya qi	63
+主机	zhu ji	621
+主机故障	zhu ji gu zhang	113
+逐级上报	zhu ji shang bao	123
+注意安全	zhu yi an quan	128
+主站	zhu zhan	431
+驻站防护	zhu zhan fang hu	693
+驻站联络员	zhu zhan lian luo yuan	422
+转换轨	zhuan huan gui	652
+转线	zhuan xian	521
+转向架	zhuan xiang jia	801
+专项预案	zhuan xiang yu an	145
+专用通信	zhuan yong tong xin	764
+转辙机	zhuan zhe ji	775
+追踪运行	zhui zong yun xing	474
+准移动闭塞	zhun yi dong bi se	840
+自动闭塞	zi dong bi se	505
+自动扶梯	zi dong fu ti	703
+自动驾驶	zi dong jia shi	539
+自动列车保护	zi dong lie che bao hu	784
+自动列车驾驶	zi dong lie che jia shi	783
+自动列车监控	zi dong lie che jian kong	782
+自动喷水灭火系统	zi dong pen shui mie huo xi tong	240
+自救呼吸器	zi jiu hu xi qi	221
+总风缸	zong feng gang	52
+总风管	zong feng guan	29
+综合监控	zong he jian kong	759
+走行部	zou xing bu	31
+阻挡信号机	zu dang xin hao ji	634
+作业面	zuo ye mian	341
