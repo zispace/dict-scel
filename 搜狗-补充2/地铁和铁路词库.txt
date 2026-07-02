@@ -1,0 +1,349 @@
+# 词库名称: 地铁和铁路词库
+# 词库分类: 建筑
+# 词库描述: 地下铁路工程，高速铁路工程，站房工程，市政工程
+# 词条样例: 区间、接水盒、右线、标准段、端头井
+# 解析词数: 342
+# 解析异常: 0
+
+暗梁	an liang	178
+安全出入口	an quan chu ru kou	312
+八线库	ba xian ku	274
+八线库边跨	ba xian ku bian kua	273
+保护层	bao hu ceng	141
+保温板	bao wen ban	40
+泵送	beng song	193
+便道	bian dao	21
+编制范围	bian zhi fan wei	289
+编制依据	bian zhi yi ju	290
+标高点	biao gao dian	197
+标识牌	biao shi pai	130
+标准段	biao zhun duan	326
+补偿收缩混凝土	bu chang shou suo hun ning tu	192
+补方	bu fang	160
+不锈钢接水槽	bu xiu gang jie shui cao	29
+槽壁加固	cao bi jia gu	82
+槽道	cao dao	303
+槽口	cao kou	125
+测量端子	ce liang duan zi	117
+侧墙	ce qiang	205
+测斜管	ce xie guan	127
+拆撑	chai cheng	146
+拆撑令	chai cheng ling	323
+场地平整	chang di ping zheng	27
+车辆段	che liang duan	292
+沉降观测点	chen jiang guan ce dian	196
+承台	cheng tai	60
+重载便道	chong zai bian dao	22
+重载道路	chong zai dao lu	23
+出入口	chu ru kou	315
+出土孔	chu tu kong	316
+穿孔吸声板	chuan kong xi sheng ban	85
+传力板	chuan li ban	229
+垂直施工缝	chui zhi shi gong feng	33
+伺服系统	ci fu xi tong	164
+次楞	ci leng	147
+错台	cuo tai	190
+大部件库	da bu jian ku	271
+大电	da dian	13
+挡墙	dang qiang	314
+刀片换撑	dao pian huan cheng	1
+等电位	deng dian wei	100
+底筋	di jin	156
+底口	di kou	339
+地连墙	di lian qiang	77
+底梁	di liang	59
+地下连续墙	di xia lian xu qiang	78
+低烟无卤耐火阻燃铜芯绝缘电缆	di yan wu lu nai huo zu ran tong xin jue yuan dian lan	251
+低烟无卤阻燃铜芯绝缘电缆	di yan wu lu zu ran tong xin jue yuan dian lan	252
+电缆井	dian lan jing	135
+电力管沟	dian li guan gou	46
+电气专业	dian qi zhuan ye	245
+电梯间	dian ti jian	313
+电梯专业	dian ti zhuan ye	259
+吊钢	diao gang	150
+吊环	diao huan	93
+吊模	diao mo	194
+定位孔	ding wei kong	302
+动车所	dong che suo	241
+洞门钢环	dong men gang huan	233
+洞门环梁	dong men huan liang	333
+镀锌钢管	du xin gang guan	98
+端头井	duan tou jing	325
+盾构	dun gou	335
+二衬	er chen	175
+二道支撑	er dao zhi cheng	145
+筏板基础	fa ban ji chu	256
+防爆地漏	fang bao di lou	99
+防护棚	fang hu peng	213
+防滑条	fang hua tiao	216
+房建土建	fang jian tu jian	263
+防雷接地	fang lei jie di	111
+放热焊	fang re han	109
+防水卷材	fang shui juan cai	198
+防水涂料	fang shui tu liao	41
+放线	fang xian	204
+防锈漆	fang xiu qi	97
+防淹门	fang yan men	107
+防淹闸槽	fang yan zha cao	94
+方柱扣	fang zhu kou	4
+飞机头	fei ji tou	140
+废料池	fei liao chi	2
+粉质黏土	fen zhi nian tu	249
+风道	feng dao	311
+封模	feng mo	218
+风亭	feng ting	317
+附加筋	fu jia jin	179
+干化机	gan hua ji	11
+钢板止水带	gang ban zhi shui dai	28
+钢骨柱	gang gu zhu	58
+钢管换撑	gang guan huan cheng	70
+钢结构	gang jie gou	262
+钢筋笼	gang jin long	75
+钢模	gang mo	321
+刚性防水套管	gang xing fang shui tao guan	103
+钢栈桥板	gang zhan qiao ban	71
+高压旋喷桩	gao ya xuan pen zhuang	79
+格构柱	ge gou zhu	180
+隔墙	ge qiang	224
+割线	ge xian	171
+给水所	gei shui suo	284
+工程量	gong cheng liang	285
+工程量清单	gong cheng liang qing dan	286
+工作面	gong zuo mian	295
+构造柱	gou zao zhu	55
+箍筋	gu jin	238
+固束节	gu shu jie	122
+冠梁	guan liang	161
+管片	guan pian	174
+灌注桩	guan zhu zhuang	74
+管桩	guan zhuang	257
+轨底回填	gui di hui tian	39
+轨顶风道	gui ding feng dao	132
+轨行区	gui xing qu	336
+国标	guo biao	158
+过轨夹层	guo gui jia ceng	49
+过梁	guo liang	90
+国铁区	guo tie qu	206
+焊接	han jie	299
+焊伤	han shang	169
+焊条	han tiao	138
+合模	he mo	237
+后浇带	hou jiao dai	214
+滑槽	hua cao	318
+换撑	huan cheng	184
+换填	huan tian	24
+环向施工缝	huan xiang shi gong feng	36
+回灌井	hui guan jing	65
+回填层	hui tian ceng	38
+混凝土墙	hun ning tu qiang	51
+给排水专业	ji pai shui zhuan ye	247
+机械连接	ji xie lian jie	72
+夹层板	jia ceng ban	225
+加工场	jia gong chang	187
+架立筋	jia li jin	181
+架体	jia ti	296
+加腋	jia ye	149
+架子	jia zi	298
+建筑智能	jian zhu zhi neng	244
+降水井	jiang shui jing	167
+降水井平台	jiang shui jing ping tai	166
+脚手架	jiao shou jia	297
+脚踏板	jiao ta ban	211
+浇筑令	jiao zhu ling	324
+接触网	jie chu wang	337
+接地线	jie di xian	209
+接地引出线	jie di yin chu xian	112
+接水盒	jie shui he	329
+截桩头	jie zhuang tou	64
+金属屋面	jin shu wu mian	261
+聚丙烯纤维	ju bing xi xian wei	191
+矩形梁	ju xing liang	54
+矩形柱	ju xing zhu	231
+卡距	ka ju	134
+开槽	kai cao	105
+开口箍	kai kou gu	223
+开挖令	kai wa ling	322
+勘察	kan cha	305
+客运整备楼	ke yun zheng bei lou	269
+空心砌块	kong xin qi kuai	92
+空压机间	kong ya ji jian	272
+矿棉吸音板	kuang mian xi yin ban	86
+扩底桩	kuo di zhuang	5
+拉钩	la gou	217
+垃圾转运站	la ji zhuan yun zhan	278
+拉森钢板桩	la sen gang ban zhuang	14
+拉伤	la shang	170
+立马按排	li ma an pai	340
+立柱桩	li zhu zhuang	76
+联检	lian jian	152
+连接端子	lian jie duan zi	118
+梁钢筋	liang gang jin	43
+临电	lin dian	12
+临时架	lin shi jia	227
+临修库	lin xiu ku	276
+流态固化土	liu tai gu hua tu	6
+楼梯梁	lou ti liang	53
+楼梯柱	lou ti zhu	56
+路基箱	lu ji xiang	16
+螺栓	luo shuan	300
+铝铆钉	lv mao ding	124
+绿色护坡	lv se hu po	15
+滤网清洗间	lv wang qing xi jian	270
+马道	ma dao	189
+满堂脚手架	man tang jiao shou jia	32
+锚杆	mao gan	220
+锚筋	mao jin	219
+门卫房	men wei fang	268
+面筋	mian jin	157
+木模	mu mo	320
+母排	mu pai	108
+内衬墙	nei chen qiang	116
+泥浆干化机	ni jiang gan hua ji	10
+牛腿	niu tui	183
+排风道	pai feng dao	309
+排热风道	pai re feng dao	96
+排水槽	pai shui cao	95
+排水沟	pai shui gou	47
+排烟风道	pai yan feng dao	310
+盘扣架	pan kou jia	128
+抛撑	pao cheng	3
+膨胀剂	peng zhang ji	9
+起步筋	qi bu jin	182
+强电间	qiang dian jian	307
+墙钢筋	qiang gang jin	44
+桥式起重机	qiao shi qi zhong ji	255
+切割	qie ge	293
+切割机	qie ge ji	294
+切线	qie xian	172
+侵线	qin xian	232
+轻型井点	qing xing jing dian	66
+球墨铸铁水沟盖板	qiu mo zhu tie shui gou gai ban	18
+区间	qu jian	334
+圈梁	quan liang	52
+热镀锌钢管	re du xin gang guan	253
+人防门	ren fang men	104
+人工清洗及值守用房	ren gong qing xi ji zhi shou yong fang	265
+人行坡道	ren xing po dao	89
+柔性防水套管	rou xing fang shui tao guan	102
+弱电间	ruo dian jian	306
+三道撑	san dao cheng	143
+三轴搅拌桩	san zhou jiao ban zhuang	83
+砂浆	sha jiang	338
+上端口	shang duan kou	120
+上翻梁	shang fan liang	137
+设计	she ji	304
+伸缩缝	shen suo feng	115
+施工道路	shi gong dao lu	20
+施工缝	shi gong feng	215
+施工总承包	shi gong zong cheng bao	288
+收到	shou dao	341
+首支撑	shou zhi cheng	144
+疏散平台	shu san ping tai	48
+树脂复合水沟盖板	shu zhi fu he shui gou gai ban	17
+双螺帽	shuang luo mao	342
+双轴搅拌桩	shuang zhou jiao ban zhuang	80
+水平杆	shui ping gan	230
+水平接地体	shui ping jie di ti	110
+水平施工缝	shui ping shi gong feng	34
+四电管沟	si dian guan gou	45
+伺服	si fu	165
+素混凝土	su hun ning tu	68
+素砼换撑	su tong huan cheng	67
+塌落度	ta luo du	221
+踏面诊断棚	ta mian zhen duan peng	277
+台车	tai che	301
+陶浜	tao bang	250
+套筒	tao tong	319
+踢脚板	ti jiao ban	210
+天沟	tian gou	87
+挑板	tiao ban	201
+挑檐	tiao yan	88
+铁标	tie biao	159
+通风空调	tong feng kong tiao	246
+同条件	tong tiao jian	153
+砼支撑	tong zhi cheng	162
+土方开挖	tu fang kai wa	26
+土方外运	tu fang wai yun	25
+脱模	tuo mo	154
+外墙	wai qiang	129
+弯锚	wan mao	176
+网喷混凝土	wang pen hun ning tu	69
+无磁钢管	wu ci gang guan	101
+污水处理棚	wu shui chu li peng	264
+污水处理站	wu shui chu li zhan	281
+洗车设备间	xi che she bei jian	275
+下端口	xia duan kou	121
+下翻梁	xia fan liang	136
+下挂墙	xia gua qiang	131
+线界	xian jie	330
+线路中心	xian lu zhong xin	331
+箱涵	xiang han	42
+项目部	xiang mu bu	202
+项目经理部	xiang mu jing li bu	291
+消防泵房	xiao fang beng fang	280
+消防水池	xiao fang shui chi	279
+消防专业	xiao fang zhuan ye	243
+卸料平台	xie liao ping tai	186
+卸污车库	xie wu che ku	282
+信誉评价	xin yu ping jia	151
+咽喉区	yan hou qu	208
+样板间	yang ban jian	185
+阳台板	yang tai ban	91
+一米线	yi mi xian	236
+驿站	yi zhan	239
+引出线	yin chu xian	113
+硬化路面	ying hua lu mian	19
+诱导缝	you dao feng	114
+右线	you xian	327
+预留滑槽	yu liu hua cao	173
+预留套筒	yu liu tao tong	212
+预埋槽道	yu mai cao dao	332
+预埋插筋	yu mai cha jin	195
+预埋件	yu mai jian	234
+预埋铁板	yu mai tie ban	226
+淤泥质黏土	yu ni zhi nian tu	248
+遇水膨胀止水条	yu shui peng zhang zhi shui tiao	7
+运营生产设备安装	yun ying sheng chan she bei an zhuang	242
+杂品库	za pin ku	266
+杂散电流	za san dian liu	119
+凿桩头	zao zhuang tou	63
+扎丝	zha si	139
+站场	zhan chang	168
+站房	zhan fang	207
+栈桥板	zhan qiao ban	188
+站台板	zhan tai ban	133
+站台墙	zhan tai qiang	50
+站台柱	zhan tai zhu	57
+涨模	zhang mo	155
+招标文件	zhao biao wen jian	287
+真空中心	zhen kong zhong xin	283
+蒸发冷机房	zheng fa leng ji fang	308
+支撑梁	zhi cheng liang	163
+支撑伺服端头	zhi cheng si fu duan tou	8
+指挥部	zhi hui bu	203
+植筋	zhi jin	228
+制梁场	zhi liang chang	267
+直锚	zhi mao	177
+止水带	zhi shui dai	199
+止水带外贴式止水带	zhi shui dai wai tie shi zhi shui dai	31
+止水钢板	zhi shui gang ban	200
+止水帷幕	zhi shui wei mu	81
+止水翼环	zhi shui yi huan	106
+中埋式钢边橡胶止水带	zhong mai shi gang bian xiang jiao zhi shui dai	30
+中心料库	zhong xin liao ku	240
+轴流风机	zhou liu feng ji	254
+注浆管	zhu jiang guan	126
+主楞	zhu leng	148
+铸铁篦子	zhu tie bi zi	84
+柱心	zhu xin	222
+桩承台	zhuang cheng tai	61
+桩承台基础	zhuang cheng tai ji chu	258
+桩基础	zhuang ji chu	62
+装修装饰	zhuang xiu zhuang shi	260
+缀板	zhui ban	142
+自攻螺丝	zi gong luo si	123
+综合接地	zong he jie di	37
+纵向施工缝	zong xiang shi gong feng	35
+走道板	zou dao ban	235
+钻孔桩	zuan kong zhuang	73
+左线	zuo xian	328
