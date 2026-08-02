@@ -1,0 +1,575 @@
+# 词库名称: 可测性设计DFT词库
+# 词库分类: 电子工程
+# 词库描述: dft工程师高频词库
+# 词条样例: 交流参数、可扩展界面、高级微控制器总线架构、自动布局布线、后端、内建自测试
+# 解析词数: 568
+# 解析异常: 0
+
+安全数字接口	an quan shu zi jie kou	110
+百万分比	bai wan fen bi	171
+百万分之缺陷数	bai wan fen zhi que xian shu	172
+板级测试	ban ji ce shi	200
+版图格式	ban tu ge shi	334
+版图数据文件格式	ban tu shu ju wen jian ge shi	516
+版图与电路图一致性检查	ban tu yu dian lu tu yi zhi xing jian cha	498
+保持触发器	bao chi chu fa qi	146
+保持寄存器	bao chi ji cun qi	145
+保持时间	bao chi shi jian	401
+保持时间裕量	bao chi shi jian yu liang	28
+背偏置	bei pian zhi	140
+比较器	bi jiao qi	421
+边界情况	bian jie qing kuang	308
+边界扫描	bian jie sao miao	210
+边界扫描单元	bian jie sao miao dan yuan	555
+边界扫描寄存器	bian jie sao miao ji cun qi	209
+边界扫描描述编译器	bian jie sao miao miao shu bian yi qi	123
+边界扫描描述语言	bian jie sao miao miao shu yu yan	203
+编码器	bian ma qi	425
+编译仿真器	bian yi fang zhen qi	42
+标准测试协议	biao zhun ce shi xie yi	501
+标准单元	biao zhun dan yuan	358
+标准单元库	biao zhun dan yuan ku	433
+标准单元行	biao zhun dan yuan xing	353
+标准寄生交换格式	biao zhun ji sheng jiao huan ge shi	330
+标准形式	biao zhun xing shi	56
+标准延迟格式	biao zhun yan chi ge shi	293
+别称	bie cheng	88
+并发性	bing fa xing	413
+并行性	bing xing xing	414
+波形格式转换工具	bo xing ge shi zhuan huan gong ju	121
+波形调试工具	bo xing tiao shi gong ju	131
+部分扫描	bu fen sao miao	245
+布局	bu ju	385
+布局布线工具	bu ju bu xian gong ju	128
+布局规划	bu ju gui hua	386
+布线	bu xian	384
+布线延迟	bu xian yan chi	38
+参数测试	can shu ce shi	165
+参数提取	can shu ti qu	332
+测试成本	ce shi cheng ben	268
+测试程序	ce shi cheng xu	170
+测试访问端口	ce shi fang wen duan kou	457
+测试覆盖率	ce shi fu gai lv	449
+测试复位	ce shi fu wei	49
+测试工程	ce shi gong cheng	168
+测试集	ce shi ji	270
+测试计划	ce shi ji hua	169
+测试模式选择	ce shi mo shi xuan ze	50
+测试平台	ce shi ping tai	450
+测试时间	ce shi shi jian	269
+测试时钟	ce shi shi zhong	54
+测试数据寄存器	ce shi shu ju ji cun qi	51
+测试数据输出	ce shi shu ju shu chu	52
+测试数据输入	ce shi shu ju shu ru	53
+测试图案生成器	ce shi tu an sheng cheng qi	223
+测试向量	ce shi xiang liang	271
+测试压缩	ce shi ya suo	225
+插入工具	cha ru gong ju	124
+查找表	cha zhao biao	497
+常开域	chang kai yu	147
+超大规模集成电路	chao da gui mo ji cheng dian lu	443
+衬底接触单元	chen di jie chu dan yuan	351
+沉积	chen ji	101
+乘法器	cheng fa qi	422
+触发器	chu fa qi	520
+传播延迟	chuan bo yan chi	399
+串行外设接口	chuan hang wai she jie kou	466
+串扰	chuan rao	4
+存储器测试	cun chu qi ce shi	192
+存储器卡滞故障	cun chu qi ka zhi gu zhang	189
+存储器内建自测试	cun chu qi nei jian zi ce shi	487
+大规模集成电路	da gui mo ji cheng dian lu	496
+待测设计模块	dai ce she ji mo kuai	537
+待测验证设计	dai ce yan zheng she ji	536
+代理	dai li	300
+代码覆盖率	dai ma fu gai lv	317
+单颗芯片	dan ke xin pian	108
+单位间隔	dan wei jian ge	45
+单元布局	dan yuan bu ju	354
+单元延迟	dan yuan yan chi	21
+倒装芯片	dao zhuang xin pian	95
+等价性检查	deng jia xing jian cha	327
+地弹	di dan	377
+低功耗	di gong hao	67
+低功耗仿真	di gong hao fang zhen	499
+第四五代	di si wu dai	111
+地址译码故障	di zhi yi ma gu zhang	191
+电感	dian gan	6
+电可擦除只读存储器	dian ke ca chu zhi du cun chu qi	529
+电平转换器	dian ping zhuan huan qi	143
+电气电子工程师协会	dian qi dian zi gong cheng shi xie hui	504
+电气规则检查	dian qi gui ze jian cha	532
+电迁移	dian qian yi	375
+电迁移分析	dian qian yi fen xi	133
+电容	dian rong	8
+典型角	dian xing jiao	369
+电压降	dian ya jiang	376
+电压调节	dian ya tiao jie	151
+电源岛	dian yuan dao	149
+电源管理芯片	dian yuan guan li xin pian	475
+电源规划	dian yuan gui hua	381
+电源环	dian yuan huan	379
+电源开关	dian yuan kai guan	142
+电源门控	dian yuan men kong	153
+电源条	dian yuan tiao	378
+电源网格	dian yuan wang ge	380
+电源域	dian yuan yu	148
+电子设计自动化	dian zi she ji zi dong hua	530
+电阻	dian zu	7
+定向测试	ding xiang ce shi	305
+动态电压频率调整	dong tai dian ya pin lv tiao zheng	533
+动态功耗	dong tai gong hao	157
+动态随机存取存储器	dong tai sui ji cun qu cun chu qi	535
+动态验证	dong tai yan zheng	329
+独热编码	du re bian ma	405
+短路故障	duan lu gu zhang	259
+端帽单元	duan mao dan yuan	348
+断言	duan yan	323
+断言覆盖率	duan yan fu gai lv	312
+对象表示法	dui xiang biao shi fa	74
+多电压域	duo dian ya yu	152
+多晶硅层	duo jing gui ceng	362
+多晶硅栅	duo jing gui shan	344
+多路复用扫描	duo lu fu yong sao miao	234
+多路复用压缩器	duo lu fu yong ya suo qi	195
+多路选择器	duo lu xuan ze qi	427
+多输入特征寄存器	duo shu ru te zheng ji cun qi	490
+多项目晶圆	duo xiang mu jing yuan	492
+多项式	duo xiang shi	221
+多周期路径	duo zhou qi lu jing	395
+二进制编码	er jin zhi bian ma	404
+反标注	fan biao zhu	294
+反压	fan ya	408
+翻转覆盖率	fan zhuan fu gai lv	314
+翻转时间	fan zhuan shi jian	33
+仿真工具	fang zhen gong ju	441
+仿真时间	fang zhen shi jian	290
+非默认布线规则	fei mo ren bu xian gui ze	483
+分选机	fen xuan ji	182
+分支覆盖率	fen zhi fu gai lv	315
+封装	feng zhuang	211
+覆盖点	fu gai dian	302
+覆盖率	fu gai lv	549
+覆盖率模型	fu gai lv mo xing	318
+覆盖率组	fu gai lv zu	303
+复位	fu wei	452
+复位同步器	fu wei tong bu qi	392
+复杂可编程逻辑器件	fu za ke bian cheng luo ji qi jian	552
+复杂指令集计算机	fu za zhi ling ji ji suan ji	73
+负载电容	fu zai dian rong	12
+高级微控制器总线架构	gao ji wei kong zhi qi zong xian jia gou	562
+高清多媒体接口	gao qing duo mei ti jie kou	510
+高温工作寿命	gao wen gong zuo shou ming	180
+高性能总线	gao xing neng zong xian	565
+格雷码	ge lei ma	403
+隔离单元	ge li dan yuan	144
+工程变更	gong cheng bian geng	531
+功耗分析	gong hao fen xi	135
+功耗管理	gong hao guan li	158
+功耗签核	gong hao qian he	341
+工具	gong ju	125
+工具命令语言	gong ju ming ling yu yan	80
+工具套件	gong ju tao jian	126
+功能测试	gong neng ce shi	164
+功能覆盖率	gong neng fu gai lv	313
+功能模式	gong neng mo shi	236
+功能验证	gong neng yan zheng	442
+工艺电压温度	gong yi dian ya wen du	373
+工艺工程师	gong yi gong cheng shi	64
+工艺角	gong yi jiao	372
+工艺节点	gong yi jie dian	107
+工艺控制监测	gong yi kong zhi jian ce	65
+工艺偏差	gong yi pian cha	374
+工艺平均测试	gong yi ping jun ce shi	177
+工艺认证	gong yi ren zheng	86
+工艺设计套件	gong yi she ji tao jian	338
+工艺天线效应	gong yi tian xian xiao ying	476
+工艺文件	gong yi wen jian	337
+工艺映射	gong yi ying she	434
+供应商	gong ying shang	507
+构建工具	gou jian gong ju	78
+构建脚本	gou jian jiao ben	79
+故障	gu zhang	284
+故障等价	gu zhang deng jia	278
+故障丢弃	gu zhang diu qi	279
+故障仿真	gu zhang fang zhen	280
+故障覆盖率	gu zhang fu gai lv	282
+故障激活	gu zhang ji huo	276
+故障模型	gu zhang mo xing	283
+故障屏蔽	gu zhang ping bi	275
+故障评级	gu zhang ping ji	281
+故障选择	gu zhang xuan ze	277
+关键路径	guan jian lu jing	397
+光刻	guang ke	106
+光刻工艺修正	guang ke gong yi xiu zheng	482
+光刻胶	guang ke jiao	98
+规格说明书	gui ge shuo ming shu	462
+硅通孔	gui tong kong	89
+国际固态电路会议	guo ji gu tai dian lu hui yi	68
+过孔	guo kong	359
+过孔检查	guo kong jian cha	364
+好芯片	hao xin pian	175
+宏单元	hong dan yuan	357
+红外	hong wai	69
+后端	hou duan	557
+互补金属氧化物半导体	hu bu jin shu yang hua wu ban dao ti	548
+互连测试	hu lian ce shi	199
+化学机械抛光	hua xue ji xie pao guang	99
+化学气相沉积	hua xue qi xiang chen ji	546
+坏芯片	huai xin pian	174
+环境	huan jing	299
+回归测试	hui gui ce shi	469
+集成电路	ji cheng dian lu	509
+集成电路设计顶会	ji cheng dian lu she ji ding hui	502
+集成电路总线	ji cheng dian lu zong xian	505
+寄存器	ji cun qi	61
+寄存器传输级	ji cun qi chuan shu ji	472
+寄存器传输级设计	ji cun qi chuan shu ji she ji	437
+寄存器堆	ji cun qi dui	418
+极大规模集成电路	ji da gui mo ji cheng dian lu	444
+记分板	ji fen ban	319
+机器模型	ji qi mo xing	81
+极深紫外光刻	ji shen zi wai guang ke	104
+寄生参数提取	ji sheng can shu ti qu	331
+计数器	ji shu qi	419
+计算机辅助设计	ji suan ji fu zhu she ji	550
+基于断言的验证	ji yu duan yan de yan zheng	324
+加法器	jia fa qi	423
+间距检查	jian ju jian cha	365
+建立时间	jian li shi jian	402
+建立时间裕量	jian li shi jian yu liang	29
+健全性测试	jian quan xing ce shi	309
+监视器	jian shi qi	320
+脚本	jiao ben	55
+脚本语言	jiao ben yu yan	459
+交叉覆盖率	jiao cha fu gai lv	301
+交流参数	jiao liu can shu	567
+交流参数测试	jiao liu can shu ce shi	162
+接触孔	jie chu kong	360
+解复用器	jie fu yong qi	426
+结温	jie wen	2
+解压器	jie ya qi	197
+近场通信	jin chang tong xin	484
+金属层	jin shu ceng	363
+金属氧化物半导体	jin shu yang hua wu ban dao ti	488
+静电放电	jing dian fang dian	83
+精简指令集	jing jian zhi ling ji	471
+精简指令集计算机	jing jian zhi ling ji ji suan ji	60
+阱接触	jing jie chu	347
+静态电流	jing tai dian liu	70
+静态电流测试	jing tai dian liu ce shi	160
+静态电流故障	jing tai dian liu gu zhang	257
+静态功耗	jing tai gong hao	156
+静态时序分析	jing tai shi xu fen xi	465
+静态时序分析工具	jing tai shi xu fen xi gong ju	478
+静态随机存取存储器	jing tai sui ji cun qu cun chu qi	467
+静态验证	jing tai yan zheng	328
+晶体管晶体管逻辑	jing ti guan jing ti guan luo ji	48
+晶圆	jing yuan	440
+晶圆测试	jing yuan ce shi	545
+晶圆代工厂	jing yuan dai gong chang	521
+晶圆级封装	jing yuan ji feng zhuang	92
+晶圆级芯片尺寸封装	jing yuan ji xin pian chi cun feng zhuang	41
+晶圆可接受度测试	jing yuan ke jie shou du ce shi	439
+绝缘栅双极型晶体管	jue yuan shan shuang ji xing jing ti guan	503
+卡开路故障	ka kai lu gu zhang	258
+卡在	ka zai	265
+卡滞故障	ka zhi gu zhang	266
+开放核心协议	kai fang he xin xie yi	481
+开路故障	kai lu gu zhang	260
+开销	kai xiao	212
+可测试性	ke ce shi xing	286
+可测试性设计	ke ce shi xing she ji	541
+可观测性	ke guan ce xing	287
+可靠性	ke kao xing	85
+可控性	ke kong xing	288
+可扩展界面	ke kuo zhan jie mian	563
+控制器	kong zhi qi	213
+控制器局域网	kong zhi qi ju yu wang	118
+库交换格式	ku jiao huan ge shi	336
+跨时钟域检查	kua shi zhong yu jian cha	553
+快角	kuai jiao	370
+老化测试	lao hua ce shi	181
+离子注入	li zi zhu ru	102
+联华电子	lian hua dian zi	44
+量产测试	liang chan ce shi	167
+良率	liang lv	438
+良率爬坡	liang lv pa po	87
+良率影响	liang lv ying xiang	267
+邻域模式敏感故障	lin yu mo shi min gan gu zhang	187
+零插入力	ling cha ru li	39
+流片	liu pian	451
+流水线	liu shui xian	415
+漏电流	lou dian liu	16
+漏电流测试	lou dian liu ce shi	159
+漏功耗	lou gong hao	155
+路径延迟	lu jing yan chi	24
+路径延迟故障	lu jing yan chi gu zhang	256
+逻辑内建自测试	luo ji nei jian zi ce shi	494
+逻辑综合	luo ji zong he	435
+慢角	man jiao	371
+慢上升	man shang sheng	264
+慢下降	man xia jiang	263
+冒烟测试	mao yan ce shi	310
+门级仿真	men ji fang zhen	515
+门延迟	men yan chi	37
+门延迟故障	men yan chi gu zhang	255
+密度检查	mi du jian cha	367
+面向路径决策法	mian xiang lu jing jue ce fa	229
+面向扇出算法	mian xiang shan chu suan fa	228
+模拟设计工程师	mo ni she ji gong cheng shi	568
+模式选择	mo shi xuan ze	453
+模数转换器	mo shu zhuan huan qi	561
+模型检查	mo xing jian cha	326
+内建逻辑块观测	nei jian luo ji kuai guan ce	554
+内建自测试	nei jian zi ce shi	556
+耦合边界扫描标准	ou he bian jie sao miao biao zhun	202
+耦合故障	ou he gu zhang	188
+旁路寄存器	pang lu ji cun qi	205
+片上系统	pian shang xi tong	468
+频率调节	pin lv tiao jie	150
+平均故障间隔时间	ping jun gu zhang jian ge shi jian	84
+鳍式场效应晶体管	qi shi chang xiao ying jing ti guan	519
+期望响应	qi wang xiang ying	274
+浅槽隔离	qian cao ge li	345
+前端	qian duan	524
+前端覆盖率	qian duan fu gai lv	311
+签核	qian he	461
+嵌入式多媒体控制器	qian ru shi duo mei ti kong zhi qi	109
+嵌入式核心	qian ru shi he xin	528
+嵌入式核心测试标准	qian ru shi he xin ce shi biao zhun	201
+嵌入式确定性测试	qian ru shi que ding xing ce shi	224
+桥接故障	qiao jie gu zhang	261
+穷举测试	qiong ju ce shi	526
+球栅阵列封装	qiu shan zhen lie feng zhuang	94
+驱动器	qu dong qi	321
+驱动强度	qu dong qiang du	15
+去耦电容单元	qu ou dian rong dan yuan	350
+全环绕栅极晶体管	quan huan rao shan ji jing ti guan	343
+全局布线	quan ju bu xian	383
+全扫描	quan sao miao	246
+全速测试	quan su ce shi	163
+全掩膜	quan yan mo	518
+缺陷密度	que xian mi du	173
+热阻	re zu	1
+人体模型	ren ti mo xing	82
+软宏	ruan hong	355
+三维集成电路	san wei ji cheng dian lu	90
+扫描捕获	sao miao bu huo	249
+扫描测试	sao miao ce shi	464
+扫描插入	sao miao cha ru	241
+扫描触发器	sao miao chu fa qi	388
+扫描段	sao miao duan	233
+扫描复用器	sao miao fu yong qi	253
+扫描隔离	sao miao ge li	242
+扫描环	sao miao huan	232
+扫描架构	sao miao jia gou	235
+扫描链	sao miao lian	254
+扫描链长度	sao miao lian chang du	240
+扫描链数量	sao miao lian shu liang	239
+扫描链重排序	sao miao lian zhong pai xu	244
+扫描模式	sao miao mo shi	237
+扫描使能	sao miao shi neng	57
+扫描使能信号	sao miao shi neng xin hao	387
+扫描时钟	sao miao shi zhong	238
+扫描输出	sao miao shu chu	251
+扫描输入	sao miao shu ru	252
+扫描压缩	sao miao ya suo	243
+扫描压缩架构	sao miao ya suo jia gou	194
+扫描移位	sao miao yi wei	250
+扇出	shan chu	13
+栅极漏电流	shan ji lou dian liu	138
+扇入	shan ru	14
+栅氧化层	shan yang hua ceng	346
+上电复位	shang dian fu wei	389
+上电自检测	shang dian zi jian ce	214
+上升时间	shang sheng shi jian	36
+设备识别码	she bei shi bie ma	204
+设计规则检查	she ji gui ze jian cha	540
+设计规则手册	she ji gui ze shou ce	339
+设计交换格式	she ji jiao huan ge shi	335
+设计约束文件	she ji yue shu wen jian	58
+设计质量检查工具	she ji zhi liang jian cha gong ju	129
+射频	she pin	470
+摄像头串行接口	she xiang tou chuan xing jie kou	114
+深紫外光刻	shen zi wai guang ke	105
+实际响应	shi ji xiang ying	273
+时间精度	shi jian jing du	289
+蚀刻	shi ke	103
+事务级建模	shi wu ji jian mo	297
+失效	shi xiao	272
+时序逻辑	shi xu luo ji	429
+时序签核	shi xu qian he	342
+时序约束文件	shi xu yue shu wen jian	458
+实用报表提取语言	shi yong bao biao ti qu yu yan	63
+时钟抖动	shi zhong dou dong	500
+时钟门控	shi zhong men kong	154
+时钟偏斜	shi zhong pian xie	394
+时钟频率	shi zhong pin lv	31
+时钟树综合	shi zhong shu zong he	551
+时钟信号	shi zhong xin hao	456
+时钟周期	shi zhong zhou qi	32
+输出电容	shu chu dian rong	10
+输出延迟	shu chu yan chi	19
+数据保持故障	shu ju bao chi gu zhang	190
+数据寄存器	shu ju ji cun qi	206
+数据输出	shu ju shu chu	454
+数据输入	shu ju shu ru	455
+数据序列化格式	shu ju xu lie hua ge shi	75
+数模转换器	shu mo zhuan huan qi	538
+输入电容	shu ru dian rong	11
+输入输出	shu ru shu chu	506
+输入延迟	shu ru yan chi	20
+属性规范语言	shu xing gui fan yu yan	322
+属性检查	shu xing jian cha	325
+数学计算工具	shu xue ji suan gong ju	76
+数字设计工程师	shu zi she ji gong cheng shi	543
+数字信号处理	shu zi xin hao chu li	539
+数字验证工程师	shu zi yan zheng gong cheng shi	542
+刷新测试	shua xin ce shi	186
+双倍数据速率	shuang bei shu ju su lv	112
+四侧无引脚封装	si ce wu yin jiao feng zhuang	93
+算法	suan fa	230
+算术逻辑单元	suan shu luo ji dan yuan	559
+随机测试	sui ji ce shi	306
+随机存取存储器	sui ji cun qu cun chu qi	62
+锁存器	suo cun qi	428
+锁相环	suo xiang huan	479
+探针台	tan zhen tai	183
+逃逸率	tao yi lv	527
+特性测试	te xing ce shi	166
+特征分析	te zheng fen xi	217
+特征寄存器	te zheng ji cun qi	216
+特征码	te zheng ma	218
+体偏置	ti pian zhi	141
+填充单元	tian chong dan yuan	349
+天线效应检查	tian xian xiao ying jian cha	368
+跳变故障	tiao bian gu zhang	448
+同步复位	tong bu fu wei	390
+同步器	tong bu qi	417
+统计良率分析	tong ji liang lv fen xi	176
+统一功耗格式	tong yi gong hao ge shi	137
+通用串行总线	tong yong chuan xing zong xian	446
+通用功耗格式	tong yong gong hao ge shi	136
+通用闪存存储	tong yong shan cun cun chu	46
+通用输入输出	tong yong shu ru shu chu	514
+通用验证方法学	tong yong yan zheng fang fa xue	445
+通用异步收发器	tong yong yi bu shou fa qi	447
+图形处理器	tu xing chu li qi	513
+外设总线	wai she zong xian	564
+外设组件互连高速标准	wai she zu jian hu lian gao su biao zhun	117
+网表	wang biao	486
+网络延迟	wang luo yan chi	22
+微机电系统	wei ji dian xi tong	489
+微控制器	wei kong zhi qi	493
+伪路径	wei lu jing	396
+位片	wei pian	412
+伪随机	wei sui ji	215
+未知值处理	wei zhi zhi chu li	193
+握手协议	wo shou xie yi	410
+无界	wu jie	47
+无晶圆厂	wu jing yuan chang	71
+无晶圆厂模式	wu jing yuan chang mo shi	522
+物理气相沉积	wu li qi xiang chen ji	100
+物理签核	wu li qian he	340
+物理设计	wu li she ji	480
+物理验证	wu li yan zheng	477
+物理验证工具	wu li yan zheng gong ju	127
+无连接	wu lian jie	66
+系统级封装	xi tong ji feng zhuang	91
+系统级建模语言	xi tong ji jian mo yu yan	77
+下降时间	xia jiang shi jian	35
+现场可编程门阵列	xian chang ke bian cheng men zhen lie	525
+先进先出队列	xian jin xian chu dui lie	416
+线宽检查	xian kuan jian cha	366
+显示串行接口	xian shi chuan xing jie kou	113
+线性反馈移位寄存器	xian xing fan kui yi wei ji cun qi	495
+线延迟	xian yan chi	23
+向量数量	xiang liang shu liang	227
+向量数缩减	xiang liang shu suo jian	226
+详细布线	xiang xi bu xian	382
+响应分析器	xiang ying fen xi qi	222
+小规模集成电路	xiao gui mo ji cheng dian lu	460
+写读测试	xie du ce shi	185
+信号完整性	xin hao wan zheng xing	463
+芯粒	xin li	547
+芯片级参数测试	xin pian ji can shu ce shi	178
+芯片温度	xin pian wen du	3
+行覆盖率	xing fu gai lv	316
+性能功耗面积	xing neng gong hao mian ji	474
+形式验证	xing shi yan zheng	523
+形式验证工具	xing shi yan zheng gong ju	130
+序列	xu lie	298
+压摆率	ya bai lv	34
+压摆限制	ya bai xian zhi	9
+压降分析	ya jiang fen xi	134
+压力测试	ya li ce shi	307
+压缩比	ya suo bi	198
+压缩器	ya suo qi	196
+亚稳态	ya wen tai	393
+亚阈值漏电流	ya yu zhi lou dian liu	139
+延迟	yan chi	400
+延迟故障	yan chi gu zhang	262
+掩膜版	yan mo ban	97
+异步复位	yi bu fu wei	391
+移出	yi chu	247
+一次性工程费用	yi ci xing gong cheng fei yong	485
+移动产业处理器接口	yi dong chan ye chu li qi jie kou	115
+异或	yi huo	72
+异或非	yi huo fei	40
+译码器	yi ma qi	424
+移入	yi ru	248
+以太网	yi tai wang	116
+移位器	yi wei qi	420
+一致性集线器接口	yi zhi xing ji xian qi jie kou	119
+一致性扩展	yi zhi xing kuo zhan	120
+印刷电路板	yin shua dian lu ban	473
+引线键合	yin xian jian he	96
+硬宏	ying hong	356
+硬件仿真	ying jian fang zhen	296
+硬件仿真加速器	ying jian fang zhen jia su qi	122
+硬件描述语言	ying jian miao shu yu yan	512
+硬件描述与验证语言	ying jian miao shu yu yan zheng yu yan	432
+硬件验证语言	ying jian yan zheng yu yan	511
+优先级编码器	you xian ji bian ma qi	406
+有限状态机	you xian zhuang tai ji	431
+有效就绪握手	you xiao jiu xu wo shou	409
+有源层	you yuan ceng	361
+元件充电模型	yuan jian chong dian mo xing	544
+原型验证	yuan xing yan zheng	295
+约束随机	yue shu sui ji	304
+运行脚本	yun xing jiao ben	333
+早期失效率	zao qi shi xiao lv	179
+站点	zhan dian	352
+占空比	zhan kong bi	30
+正电源电压	zheng dian yuan dian ya	43
+值变转储	zhi bian zhuan chu	292
+支持的波形文件格式	zhi chi de bo xing wen jian ge shi	291
+只读存储器	zhi du cun chu qi	59
+直接内存存取	zhi jie nei cun cun qu	534
+指令寄存器	zhi ling ji cun qi	207
+直流参数测试	zhi liu can shu ce shi	161
+知识产权核	zhi shi chan quan he	508
+制造缺陷	zhi zao que xian	285
+仲裁	zhong cai	407
+中等规模集成电路	zhong deng gui mo ji cheng dian lu	491
+种子	zhong zi	220
+专用集成电路	zhuan yong ji cheng dian lu	566
+状态机	zhuang tai ji	208
+自动布局布线	zi dong bu ju bu xian	560
+自动测试设备	zi dong ce shi she bei	184
+自动测试向量生成	zi dong ce shi xiang liang sheng cheng	231
+姿态与关节控制系统	zi tai yu guan jie kong zhi xi tong	558
+总负裕量	zong fu yu liang	25
+综合	zong he	436
+综合工具	zong he gong ju	132
+总线	zong xian	411
+组合逻辑	zu he luo ji	430
+组合逻辑延迟	zu he luo ji yan chi	398
+阻抗	zu kang	5
+最差负裕量	zui cha fu yu liang	27
+最差正裕量	zui cha zheng yu liang	26
+最长线性序列	zui chang xian xing xu lie	219
+最大频率	zui da pin lv	17
+最小周期	zui xiao zhou qi	18
+最终测试	zui zhong ce shi	517
