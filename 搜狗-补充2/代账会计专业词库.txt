@@ -1,0 +1,417 @@
+# 词库名称: 代账会计专业词库
+# 词库分类: 财务会计
+# 词库描述: 自由使用增加，请勿随意删减
+# 词条样例: 投资收益、营业外支出、税金及附加、管理费用、财务费用、资产减值损失
+# 解析词数: 410
+# 解析异常: 0
+
+办公费	ban gong fei	234
+办公用品	ban gong yong pin	233
+办税人员	ban shui ren yuan	152
+报表	bao biao	334
+报关单	bao guan dan	221
+报税	bao shui	168
+包装物	bao zhuang wu	295
+备注	bei zhu	163
+本年利润	ben nian li run	249
+本期进项税额明细	ben qi jin xiang shui e ming xi	187
+本期销售情况明细	ben qi xiao shou qing kuang ming xi	189
+币种	bi zhong	203
+不动产	bu dong chan	186
+部门	bu men	197
+补贴	bu tie	271
+不征税收入	bu zheng shui shou ru	239
+采集	cai ji	12
+材料采购	cai liao cai gou	304
+材料成本差异	cai liao cheng ben cha yi	301
+财务费用	cai wu fei yong	398
+财务负责人	cai wu fu ze ren	153
+残保金	can bao jin	328
+长期待摊费用	chang qi dai tan fei yong	282
+长期股权投资	chang qi gu quan tou zi	291
+长期借款	chang qi jie kuan	254
+长期应收款	chang qi ying shou kuan	253
+长期债券投资	chang qi zhai quan tou zi	292
+成本法	cheng ben fa	177
+成品油	cheng pin you	145
+城市维护建设税	cheng shi wei hu jian she shui	264
+程租	cheng zu	361
+崇川区达贝建材经营部	chong chuan qu da bei jian cai jing ying bu	109
+崇川区多悦民宿店	chong chuan qu duo yue min su dian	117
+崇川区牛喜贵餐饮店	chong chuan qu niu xi gui can yin dian	99
+崇川区璞尔娜五金产品经营部	chong chuan qu pu er na wu jin chan pin jing ying bu	102
+崇川区全盛日用品经营部	chong chuan qu quan sheng ri yong pin jing ying bu	104
+崇川区同捷方消防器材经营部	chong chuan qu tong jie fang xiao fang qi cai jing ying bu	103
+存货	cun huo	338
+存货报表	cun huo bao biao	206
+存货管理	cun huo guan li	208
+存货核算	cun huo he suan	207
+存货设置	cun huo she zhi	205
+待处理财产损益	dai chu li cai chan sun yi	281
+代扣代缴	dai kou dai jiao	146
+代扣公积金	dai kou gong ji jin	256
+代扣社保	dai kou she bao	257
+代账费	dai zhang fei	140
+代账公司	dai zhang gong si	139
+代账会计	dai zhang kuai ji	138
+单位地址	dan wei di zhi	37
+地方教育费附加	di fang jiao yu fei fu jia	236
+抵扣	di kou	49
+递延收益	di yan shou yi	255
+低值易耗品	di zhi yi hao pin	294
+电话号码	dian hua hao ma	36
+电子税务局	dian zi shui wu ju	131
+动产	dong chan	185
+短期借款	duan qi jie kuan	280
+短期投资	duan qi tou zi	312
+对账单	dui zhang dan	343
+多栏账	duo lan zhang	342
+发出商品	fa chu shang pin	299
+法定代表人	fa ding dai biao ren	154
+发票	fa piao	347
+发票采集	fa piao cai ji	7
+法人	fa ren	155
+房产税	fang chan shui	41
+非流动资产处置净收益	fei liu dong zi chan chu zhi jing shou yi	241
+非流动资产处置净损失	fei liu dong zi chan chu zhi jing sun shi	228
+费用	fei yong	222
+非正常损失	fei zheng chang sun shi	372
+分配比例	fen pei bi li	162
+分配税额	fen pei shui e	161
+分支机构	fen zhi ji gou	148
+附加税	fu jia shui	389
+附加税费情况表	fu jia shui fei qing kuang biao	180
+附列资料	fu lie zi liao	188
+服务	fu wu	184
+服务费	fu wu fei	232
+辅助核算	fu zhu he suan	191
+干租	gan zu	357
+个人办税权限	ge ren ban shui quan xian	16
+个人所得税	ge ren suo de shui	388
+个税	ge shui	387
+个税申报	ge shui shen bao	136
+个税手续费退费	ge shui shou xu fei tui fei	210
+个体户	ge ti hu	54
+工程施工	gong cheng shi gong	243
+工程物资	gong cheng wu zi	287
+工商年报	gong shang nian bao	137
+供应商	gong ying shang	198
+公允价值变动	gong yun jia zhi bian dong	406
+工资	gong zi	235
+工资表	gong zi biao	212
+固定分配比例	gu ding fen pei bi li	172
+固定资产	gu ding zi chan	290
+固定资产清理	gu ding zi chan qing li	286
+固定资产折旧	gu ding zi chan zhe jiu	43
+管理费用	guan li fei yong	399
+广发银行	guang fa yin hang	313
+光租	guang zu	359
+合计	he ji	29
+核算项目	he suan xiang mu	341
+合同	he tong	121
+坏账损失	huai zhang sun shi	227
+回单	hui dan	344
+汇算清缴	hui suan qing jiao	5
+汇总	hui zong	165
+汇总纳税企业增值税分配表	hui zong na shui qi ye zeng zhi shui fen pei biao	178
+混合销售	hun he xiao shou	362
+货物及劳务	huo wu ji lao wu	173
+计算机	ji suan ji	124
+机械作业	ji xie zuo ye	242
+即征即退	ji zheng ji tui	378
+加计抵减	jia ji di jian	381
+兼营	jian ying	363
+奖金	jiang jin	273
+江苏嘉华嘉通信息技术有限公司	jiang su jia hua jia tong xin xi ji shu you xian gong si	110
+江苏捷控系统工程有限公司	jiang su jie kong xi tong gong cheng you xian gong si	67
+江苏宁盾阀业科技有限公司	jiang su ning dun fa ye ke ji you xian gong si	70
+江苏瑞之特智能科技有限公司	jiang su rui zhi te zhi neng ke ji you xian gong si	88
+江苏赛旺智能科技有限公司	jiang su sai wang zhi neng ke ji you xian gong si	84
+江苏数科	jiang su shu ke	130
+江苏兴饶机电设备有限公司	jiang su xing rao ji dian she bei you xian gong si	91
+江苏云舟数控科技有限公司	jiang su yun zhou shu kong ke ji you xian gong si	68
+江苏增值税一般纳税人申报表	jiang su zeng zhi shui yi ban na shui ren shen bao biao	144
+交通银行	jiao tong yin hang	320
+教育费附加	jiao yu fei fu jia	263
+结算	jie suan	193
+结账	jie zhang	339
+结转	jie zhuan	340
+金额	jin e	26
+津贴	jin tie	272
+进项	jin xiang	224
+进项票	jin xiang piao	50
+进项税额	jin xiang shui e	385
+进项税额转出	jin xiang shui e zhuan chu	383
+进销存明细账	jin xiao cun ming xi zhang	204
+净利润	jing li run	391
+开发产品	kai fa chan pin	305
+开户行	kai hu hang	158
+开具	kai ju	141
+开票	kai piao	125
+开票资料	kai piao zi liao	23
+可抵扣	ke di kou	47
+可抵扣税额	ke di kou shui e	384
+客户	ke hu	192
+客户列表	ke hu lie biao	6
+科目余额表	ke mu yu e biao	354
+扣缴端	kou jiao duan	133
+库存商品	ku cun shang pin	300
+库存现金	ku cun xian jin	327
+会计报表	kuai ji bao biao	336
+劳务成本	lao wu cheng ben	246
+累计摊销	lei ji tan xiao	283
+累计折旧	lei ji zhe jiu	289
+利润表	li run biao	356
+利润分配	li run fen pei	248
+利润总额	li run zong e	393
+利息收入	li xi shou ru	230
+利息支出	li xi zhi chu	231
+联系电话	lian xi dian hua	150
+流程	liu cheng	20
+留抵税额	liu di shui e	380
+留抵税额退税	liu di shui e tui shui	379
+浏览器	liu lan qi	1
+卢布	lu bu	199
+美元	mei yuan	201
+密码	mi ma	34
+明细账	ming xi zhang	350
+纳税	na shui	333
+纳税人名称	na shui ren ming cheng	176
+纳税人识别号	na shui ren shi bie hao	175
+纳税证明	na shui zheng ming	142
+南通奥昂汽车服务有限公司	nan tong ao ang qi che fu wu you xian gong si	77
+南通宝诚体育有限公司	nan tong bao cheng ti yu you xian gong si	108
+南通博辰人力资源有限公司	nan tong bo chen ren li zi yuan you xian gong si	83
+南通博润管业科技有限公司	nan tong bo run guan ye ke ji you xian gong si	87
+南通常进建筑劳务有限公司	nan tong chang jin jian zhu lao wu you xian gong si	74
+南通承胜消防器材有限公司	nan tong cheng sheng xiao fang qi cai you xian gong si	114
+南通承洋消防器材有限公司	nan tong cheng yang xiao fang qi cai you xian gong si	115
+南通创纵文化传媒有限公司	nan tong chuang zong wen hua chuan mei you xian gong si	96
+南通聪格医疗科技有限公司	nan tong cong ge yi liao ke ji you xian gong si	85
+南通存利贸易有限公司	nan tong cun li mao yi you xian gong si	58
+南通东法电磁技术有限公司	nan tong dong fa dian ci ji shu you xian gong si	116
+南通东檀商贸有限公司	nan tong dong tan shang mao you xian gong si	111
+南通富奥建筑劳务有限公司	nan tong fu ao jian zhu lao wu you xian gong si	98
+南通高普装饰装潢有限公司	nan tong gao pu zhuang shi zhuang huang you xian gong si	64
+南通海门尧啊尧文化传媒工作室	nan tong hai men yao a yao wen hua chuan mei gong zuo shi	113
+南通浩万信息科技有限公司	nan tong hao wan xin xi ke ji you xian gong si	97
+南通杰固新材料科技有限公司	nan tong jie gu xin cai liao ke ji you xian gong si	94
+南通金雪建材有限公司	nan tong jin xue jian cai you xian gong si	65
+南通凯亚泵业制造有限公司	nan tong kai ya beng ye zhi zao you xian gong si	107
+南通科迪物流有限公司	nan tong ke di wu liu you xian gong si	57
+南通岚宇物流运输有限公司	nan tong lan yu wu liu yun shu you xian gong si	81
+南通鲁鸢消防科技有限公司	nan tong lu yuan xiao fang ke ji you xian gong si	92
+南通妙云装饰工程有限公司	nan tong miao yun zhuang shi gong cheng you xian gong si	82
+南通闽桂消防科技有限公司	nan tong min gui xiao fang ke ji you xian gong si	105
+南通诺恩认证咨询有限公司	nan tong nuo en ren zheng zi xun you xian gong si	73
+南通乾升信息科技有限公司	nan tong qian sheng xin xi ke ji you xian gong si	80
+南通巧旭智能科技有限公司	nan tong qiao xu zhi neng ke ji you xian gong si	75
+南通庆丽建商贸有限公司	nan tong qing li jian shang mao you xian gong si	76
+南通瑞晟特智能科技有限公司	nan tong rui sheng te zhi neng ke ji you xian gong si	90
+南通赛通建筑工程有限公司	nan tong sai tong jian zhu gong cheng you xian gong si	95
+南通商智电子信息科技有限公司	nan tong shang zhi dian zi xin xi ke ji you xian gong si	79
+南通市华琦睿商贸有限公司	nan tong shi hua qi rui shang mao you xian gong si	101
+南通市特立自动化有限公司	nan tong shi te li zi dong hua you xian gong si	60
+南通速捷自动化科技有限公司	nan tong su jie zi dong hua ke ji you xian gong si	56
+南通藤朵装饰有限公司	nan tong teng duo zhuang shi you xian gong si	93
+南通天泉餐饮管理有限公司	nan tong tian quan can yin guan li you xian gong si	72
+南通同盛管道阀门有限公司	nan tong tong sheng guan dao fa men you xian gong si	59
+南通万鹏物流设备有限公司	nan tong wan peng wu liu she bei you xian gong si	66
+南通旺阳食品有限公司	nan tong wang yang shi pin you xian gong si	71
+南通伍佑工程管理有限公司	nan tong wu you gong cheng guan li you xian gong si	86
+南通熙旻通科技有限公司	nan tong xi min tong ke ji you xian gong si	61
+南通鑫泓安消防设备有限公司	nan tong xin hong an xiao fang she bei you xian gong si	63
+南通耀润机械设备租赁有限公司	nan tong yao run ji xie she bei zu lin you xian gong si	100
+南通一泽医药科技有限公司	nan tong yi ze yi yao ke ji you xian gong si	78
+南通禹水机电设备有限公司	nan tong yu shui ji dian she bei you xian gong si	62
+南通圆源财务代理有限公司	nan tong yuan yuan cai wu dai li you xian gong si	55
+南通泽睿机电工程有限公司	nan tong ze rui ji dian gong cheng you xian gong si	69
+南通卓辉文化传媒有限公司	nan tong zhuo hui wen hua chuan mei you xian gong si	89
+南通卓维包装制品有限公司	nan tong zhuo wei bao zhuang zhi pin you xian gong si	106
+农产品	nong chan pin	160
+欧元	ou yuan	200
+盘点表	pan dian biao	216
+批量申报	pi liang shen bao	8
+票据	piao ju	217
+平销返利	ping xiao fan li	364
+凭证	ping zheng	348
+浦发银行	pu fa yin hang	316
+普票	pu piao	27
+其他货币资金	qi ta huo bi zi jin	325
+其他收益	qi ta shou yi	396
+其他业务成本	qi ta ye wu cheng ben	407
+其他业务收入	qi ta ye wu shou ru	409
+其他应付款	qi ta ying fu kuan	258
+其他应收款	qi ta ying shou kuan	306
+企业	qi ye	9
+企业办税权限	qi ye ban shui quan xian	17
+企业所得税	qi ye suo de shui	262
+企业微信	qi ye wei xin	127
+企业职工	qi ye zhi gong	21
+期租	qi zu	360
+取数	qu shu	13
+确税	que shui	11
+人力资源	ren li zi yuan	118
+人民币	ren min bi	202
+人员	ren yuan	196
+人员管理	ren yuan guan li	214
+日记账	ri ji zhang	349
+融资性售后回租	rong zi xing shou hou hui zu	374
+融资租赁	rong zi zu lin	375
+扫码	sao ma	32
+上海凯方泵业制造有限公司	shang hai kai fang beng ye zhi zao you xian gong si	112
+商品进销差价	shang pin jin xiao cha jia	298
+商业折扣	shang ye zhe kou	371
+社保	she bao	331
+社保费	she bao fei	330
+社保费管理客户端	she bao fei guan li ke hu duan	132
+社会保险费	she hui bao xian fei	270
+申报表	shen bao biao	332
+申报更正	shen bao geng zheng	4
+申报更正与作废	shen bao geng zheng yu zuo fei	2
+申报密码	shen bao mi ma	18
+申报期	shen bao qi	166
+审计	shen ji	44
+生产成本	sheng chan cheng ben	247
+生产性生物资产	sheng chan xing sheng wu zi chan	285
+实收资本	shi shou zi ben	252
+湿租	shi zu	358
+收入税费用	shou ru shui fei yong	366
+税额抵减情况表	shui e di jian qing kuang biao	181
+税负率	shui fu lv	182
+税号	shui hao	38
+税金及附加	shui jin ji fu jia	401
+税跨报	shui kua bao	24
+税款	shui kuan	10
+税款所属期	shui kuan suo shu qi	170
+税率	shui lv	183
+税收滞纳金	shui shou zhi na jin	225
+税务报表	shui wu bao biao	335
+算税	suan shui	167
+所得税费用	suo de shui fei yong	392
+所属期	suo shu qi	31
+抬头	tai tou	39
+提额	ti e	51
+填表日期	tian biao ri qi	169
+统计局	tong ji ju	128
+通税开	tong shui kai	25
+投入产出法	tou ru chan chu fa	159
+投资收益	tou zi shou yi	405
+土地使用税	tu di shi yong shui	40
+退休	tui xiu	22
+完税证明	wan shui zheng ming	143
+未抵扣	wei di kou	48
+委托	wei tuo	45
+委托加工物资	wei tuo jia gong wu zi	297
+微信	wei xin	126
+文化事业建设费	wen hua shi ye jian she fei	237
+无法收回的长期股权投资损失	wu fa shou hui de chang qi gu quan tou zi sun shi	226
+无票固定资产折旧	wu piao gu ding zi chan zhe jiu	42
+无形资产	wu xing zi chan	284
+现金	xian jin	218
+现金流量表	xian jin liu liang biao	353
+现金折扣	xian jin zhe kou	370
+先征后返	xian zheng hou fan	376
+先征后退	xian zheng hou tui	377
+项目	xiang mu	195
+小规模	xiao gui mo	53
+消耗性生物物资	xiao hao xing sheng wu wu zi	293
+销售费用	xiao shou fei yong	400
+销售收入	xiao shou shou ru	174
+销售折让	xiao shou zhe rang	369
+销项	xiao xiang	223
+销项税额	xiao xiang shui e	386
+小云管家	xiao yun guan jia	119
+协议	xie yi	122
+薪酬	xin chou	215
+薪酬表	xin chou biao	213
+薪酬汇总	xin chou hui zong	209
+信用减值损失	xin yong jian zhi sun shi	394
+序号	xu hao	164
+序时账	xu shi zhang	352
+研发费用	yan fa fei yong	397
+研发支出	yan fa zhi chu	244
+业务合作	ye wu he zuo	123
+一般人	yi ban ren	52
+已抵扣	yi di kou	46
+以旧换新	yi jiu huan xin	365
+以前年度损益调整	yi qian nian du sun yi tiao zheng	367
+以物易物	yi wu yi wu	382
+银行	yin hang	219
+银行存款	yin hang cun kuan	326
+银行对账单	yin hang dui zhang dan	345
+银行回单	yin hang hui dan	346
+银行手续费	yin hang shou xu fei	229
+银行账号	yin hang zhang hao	149
+印花税	yin hua shui	261
+应补退税额	ying bu tui shui e	151
+应付利润	ying fu li run	259
+应付利息	ying fu li xi	260
+应付票据	ying fu piao ju	279
+应付账款	ying fu zhang kuan	278
+应付职工薪酬	ying fu zhi gong xin chou	275
+应交	ying jiao	265
+应交税费	ying jiao shui fei	268
+应交增值税	ying jiao zeng zhi shui	267
+应纳税额减证额	ying na shui e jian zheng e	266
+应收股利	ying shou gu li	308
+应收利息	ying shou li xi	307
+应收票据	ying shou piao ju	311
+应收账款	ying shou zhang kuan	310
+应税服务	ying shui fu wu	147
+营业地址	ying ye di zhi	157
+营业外收入	ying ye wai shou ru	403
+营业外支出	ying ye wai zhi chu	402
+盈余公积	ying yu gong ji	250
+邮箱	you xiang	35
+预付账款	yu fu zhang kuan	309
+逾期申报	yu qi shen bao	15
+预收账款	yu shou zhang kuan	276
+原材料	yuan cai liao	302
+云账房	yun zhang fang	120
+在建工程	zai jian gong cheng	288
+在途物资	zai tu wu zi	303
+暂估	zan gu	277
+增值税	zeng zhi shui	390
+增值税及附加税费申报表	zeng zhi shui ji fu jia shui fei shen bao biao	190
+增值税减免税申报明细表	zeng zhi shui jian mian shui shen bao ming xi biao	179
+账号	zhang hao	33
+招商银行	zhao shang yin hang	317
+正常损失	zheng chang sun shi	373
+政府补贴	zheng fu bu tie	240
+证书助手	zheng shu zhu shou	129
+征税收入	zheng shui shou ru	238
+职工工资	zhi gong gong zi	274
+滞纳金	zhi na jin	14
+制造费用	zhi zao fei yong	245
+中国	zhong guo	318
+中国工商银行	zhong guo gong shang yin hang	322
+中国建设银行	zhong guo jian she yin hang	321
+中国农业银行	zhong guo nong ye yin hang	324
+中国银行	zhong guo yin hang	323
+中国邮政储蓄银行	zhong guo you zheng chu xu yin hang	319
+中信	zhong xin	314
+中银	zhong yin	315
+周转材料	zhou zhuan cai liao	296
+注册地址	zhu ce di zhi	156
+住房公积金	zhu fang gong ji jin	269
+主营业务成本	zhu ying ye wu cheng ben	408
+主营业务收入	zhu ying ye wu shou ru	410
+专票	zhuan piao	28
+专项附加扣除	zhuan xiang fu jia kou chu	211
+资本公积	zi ben gong ji	251
+资产	zi chan	337
+资产处置损益	zi chan chu zhi sun yi	404
+资产负债表	zi chan fu zhai biao	355
+资产减值损失	zi chan jian zhi sun shi	395
+自定义辅助核算	zi ding yi fu zhu he suan	194
+资金	zi jin	220
+资料	zi liao	19
+自然人电子税务局	zi ran ren dian zi shui wu ju	134
+综合所得税	zong he suo de shui	329
+总计	zong ji	30
+总机构	zong ji gou	171
+总账	zong zhang	351
+租赁收入	zu lin shou ru	368
+作废	zuo fei	3
+做账	zuo zhang	135
